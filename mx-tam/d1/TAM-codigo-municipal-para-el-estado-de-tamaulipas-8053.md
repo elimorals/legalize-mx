@@ -4,7 +4,7 @@ identifier: "TAM-codigo-municipal-para-el-estado-de-tamaulipas-8053"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-02-04"
-last_updated: "2010-11-24"
+last_updated: "2010-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE NOVIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE DICIEMBRE DE 2010.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 4 de febrero de 1984.
 
@@ -485,9 +485,9 @@ VII.- Contratar o concesionar obras y servicios públicos municipales en los té
 
 VIII.- Solicitar al Ejecutivo, por causa de utilidad pública, la expropiación de bienes, la ocupación temporal o la limitación de dominio.
 
-> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
-IX.- Nombrar y remover, a propuesta del Presidente Municipal, al Secretario del Ayuntamiento, a los titulares de la Tesorería Municipal, de la Contraloría Municipal, de la Secretaria o Dirección de Desarrollo Urbano, de Servicios Públicos y de Seguridad Pública, así como de aquéllos titulares de oficina que expresamente determine este Código.
+IX.- Nombrar y remover, a propuesta del Presidente Municipal, al Secretario del Ayuntamiento, a los titulares de la Tesorería Municipal, de la Contraloría Municipal, de la Secretaria o Dirección de Desarrollo Urbano, de Servicios Públicos y de Seguridad Pública, así como de aquéllos titulares de oficina que expresamente determine este Código. Tratándose de los nombramientos o designaciones de los titulares de las áreas de seguridad pública, previamente deberán cumplir con las disposiciones de la Ley de Coordinación del Sistema de Seguridad Pública del Estado de Tamaulipas y demás disposiciones legales que correspondan.
 
 > <small>(F. DE E., P.O. 2 DE JUNIO DE 1984)</small>
 
@@ -562,6 +562,10 @@ XXXIII.- Aplicar la Ley de Responsabilidades de Servidores Públicos en la esfer
 XXXIV.- Someter a consulta pública las cuestiones que afecten a la comunidad, conforme a las Leyes y sus reglamentos.
 
 XXXV.- Crear las dependencias necesarias para el despacho de los negocios del orden administrativo y la atención de los servicios públicos, conforme a los presupuestos respectivos.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+En la integración y organización de la Unidad Operativa de Protección Civil se deberá considerar lo dispuesto en la Ley de Protección Civil para el Estado de Tamaulipas.
 
 XXXVI.- Prevenir y combatir, conforme a las leyes, los juegos prohibidos, la vagancia, el alcoholismo, la prostitución, la adicción a las drogas y toda actividad que implique una conducta antisocial
 
@@ -689,13 +693,13 @@ V.- Dar publicidad a las leyes, reglamentos y demás disposiciones de observanci
 
 VI.- Celebrar a nombre del Ayuntamiento todos los actos y contratos necesarios para el despacho de los negocios administrativos y la atención de los servicios públicos municipales. Asimismo, los Síndicos comparecerán en el otorgamiento de contratos o de cualquier otra obligación patrimonial.
 
-(REFORMADA, P.O. 12 DE FEBRERO DE 2008) (F. DE E., P.O. 3 DE ABRIL DE 2008)
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
-VII.- Proponer al Ayuntamiento los nombramientos del Secretario del Ayuntamiento, de los titulares de la Tesorería Municipal, de la Contraloría Municipal, de la Secretaria o Dirección de Desarrollo Urbano, de los Servicios Públicos y de Seguridad Pública, así como de aquéllos que expresamente determine este Código.
+VII.- Proponer al Ayuntamiento los nombramientos del Secretario del Ayuntamiento, de los titulares de la Tesorería Municipal, de la Contraloría Municipal, de la Secretaría o Dirección de Desarrollo Urbano, de los Servicios Públicos y de Seguridad Pública, así como de aquéllos que expresamente determine este Código. Tratándose de propuestas para ejercer cualquier tipo de cargo o encomienda en materia de seguridad pública, previamente deberán cumplirse las previsiones de fa Ley de Coordinación del Sistema de Seguridad Pública del Estado de Tamaulipas, así como las demás disposiciones legales que correspondan.
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
-VIII.- Nombrar y remover a los servidores públicos municipales de acuerdo con la ley, dando cuenta al Ayuntamiento para su ratificación o rectificación.
+VIII.- Nombrar y remover a los servidores públicos municipales de acuerdo con la ley. Sólo en los casos previstos por este Código dará cuenta de ello al Ayuntamiento para su ratificación o rectificación.
 
 > <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2004)</small>
 
@@ -837,6 +841,8 @@ Para el ejercicio de las facultades y obligaciones que corresponden a los Síndi
 
 ### CAPITULO XI. DEL REGIMEN ADMINISTRATIVO
 
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 62.
 
 El Ayuntamiento, en la primera quincena de enero del año siguiente de la elección, nombrará entre sus miembros comisiones que vigilarán el ramo de la administración municipal que se les encomiende.
@@ -871,9 +877,9 @@ Para tal efecto, podrán encomendarse dos o más comisiones a cada munícipe.
 
 > <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2004)</small>
 
-###### ARTICULO 65.
+###### Articulo 65.
 
-Para el despacho de los asuntos de carácter administrativo y atención de los servicios públicos municipales, los Ayuntamientos contarán con las dependencias necesarias, de acuerdo a las posibilidades económicas del Municipio, quienes auxiliarán al Presidente Municipal en el ejercicio de sus funciones.
+Para el despacho de los asuntos de carácter administrativo, atención de los servicios públicos municipales y de protección civil de la población, los Ayuntamientos contarán con las dependencias necesarias, de acuerdo a las posibilidades presupuestales del Municipio, quienes auxiliarán al Presidente Municipal en el ejercicio de sus funciones.
 
 ###### ARTICULO 66.
 
@@ -1041,31 +1047,55 @@ IX.- Las demás previstas en las leyes y reglamentos.
 
 Para ser Secretario de Desarrollo Urbano y Ecología, o en su caso, Director de Obras y Servicios Públicos Municipales, se requiere reunir los requisitos señalados en el artículo 67 de este Código. En los municipios con una población que exceda de 50,000 habitantes, se requiere poseer título de Ingeniero Civil, Arquitecto, Licenciado en Urbanismo, Ingeniero Ambiental u otros estudios técnicos o profesionales en materias análogas.
 
-> <small>(REFORMADO, P.O. 14 DE MARZO DE 2001)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 74.
 
-En cada Municipio se integrarán los cuerpos de Policía Preventiva, con el número de miembros que sean indispensables para atender las necesidades de la población y conforme a su presupuesto de egresos, los cuales serán nombrados por los Ayuntamientos.
+En cada Municipio se establecerán las Policías Preventiva y la de Tránsito, con el número de miembros que sean indispensables para atender las necesidades de la población y conforme a su presupuesto de egresos. El reclutamiento, permanencia y promoción de sus integrantes dependerá del cumplimiento y acreditación de los requisitos y previsiones de la Ley de Coordinación del Sistema de Seguridad Pública del Estado de Tamaulipas y demás disposiciones de la materia.
+
+El Ayuntamiento determinará si en una sóla institución policial se ejerzan las atribuciones propias de la policía preventiva y las de tránsito y vialidad.
+
+La actuación de las instituciones policiales del municipio se regirá por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos reconocidos por el orden jurídico mexicano.
+
+Las instituciones policiales serán de carácter civil, disciplinado y profesional.
 
 ###### ARTICULO 75.
 
 La Policía Preventiva de los municipios está destinada a mantener la tranquilidad y el orden público protegiendo los intereses de la sociedad; en consecuencia, sus funciones son de vigilancia y de defensa social, para prevenir la comisión de hechos delictuosos mediante disposiciones adecuadas y concretas que protejan eficazmente la vida, los bienes y los derechos de las personas, el orden dentro de la sociedad y la seguridad del Estado, tomando las medidas necesarias, conforme a la Ley, en caso de que se perturbe o ponga en peligro esos bienes jurídicos.
 
-Además de lo anterior, la Policía Preventiva tendrá el carácter de auxiliar del Ministerio Público y de la Administración de Justicia.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
-Tratándose de infracciones a los reglamentos de policía y buen gobierno, la Policía Preventiva deberá limitarse a conducir al infractor ante el Presidente Municipal o Juez Calificador para que se le imponga la sanción administrativa correspondiente, en su caso.
+Además de lo anterior, la Policía Preventiva estará coordinada con las diversas instancias de seguridad pública, debiendo cumplir las obligaciones que le asisten.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+Tratándose de infracciones a los reglamentos gubernativos y de policía y buen gobierno, la Policía Preventiva deberá limitarse a conducir al infractor ante el Juez Calificador para que se le imponga la sanción administrativa correspondiente, en su caso. Las sanciones únicamente consistirán en multa, arresto hasta por treinta y seis horas o en trabajo a favor de la comunidad.
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 76.
 
-La organización y funcionamiento de la Policía Preventiva se regirá por lo dispuesto en la Ley de Seguridad Pública para el Estado de Tamaulipas, y en ningún caso se permitirá el funcionamiento del servicio secreto u organizaciones similares de Policía Preventiva Municipal.
+La organización y funcionamiento de la Policía Preventiva y la de Tránsito se regirá por lo dispuesto en la Ley de Seguridad Pública para el Estado de Tamaulipas, la Ley de Coordinación del Sistema de Seguridad Pública del Estado de Tamaulipas y las demás disposiciones aplicables. En ningún caso se permitirá el funcionamiento del servicio secreto u organizaciones similares de la Policía Preventiva Municipal.
 
 > <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2007)</small>
 
 ###### ARTICULO 76 Bis.
 
 Los Centros de Mediación Municipal se regirán por lo dispuesto en la Ley de Mediación para el Estado, su reglamento y demás disposiciones que resulten aplicables.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+Artículo 76 ter.- El Titular de la Unidad Operativa de Protección Civil Municipal tendrá las siguientes facultades y obligaciones:
+
+I.- Elaborar, aplicar, evaluar y difundir el Programa Municipal de Protección Civil;
+
+II.- Promover la participación de la sociedad en la protección civil;
+
+III.- Promover la creación del Fondo de Desastres Municipal, para la atención de emergencias originadas por riesgos, altos riesgos, emergencias o desastres. La aplicación de estos Fondos, se hará conforme a las disposiciones presupuéstales y legales aplicables;
+
+IV.- Proponer las acciones y programas sobre la materia, en el Plan Municipal de Desarrollo; y
+
+V.- Proponer al Ayuntamiento la celebración de convenios de colaboración y coordinación en materia de esta ley.
 
 ### CAPITULO XIII. DE LOS ORGANISMOS DE COLABORACION
 
@@ -1220,6 +1250,10 @@ La organización, dirección y funcionamiento de las Comisiones Consultivas de D
 Son servidores públicos de los Municipios los miembros de los Ayuntamientos, así como toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la administración pública municipal o paramunicipal, o bien maneje o aplique recursos económicos de los Municipios.
 
 La Ley de Responsabilidades de los Servidores Públicos vigente en el Estado será aplicable, en lo conducente, a los servidores públicos de los Municipios, conforme a las prevenciones que se señalen en los artículos siguientes.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+Tratándose de servidores públicos asignados a las tareas de seguridad pública, se regirán en lo que corresponda por las previsiones de este Código y las propias de la materia.
 
 ###### ARTICULO 89.
 
@@ -2215,7 +2249,7 @@ Las resoluciones del Ayuntamiento en materia de cancelación o caducidad de las 
 
 ### CAPITULO II. DE LAS RELACIONES INDIVIDUALES DE TRABAJO
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 182.
 
@@ -2353,13 +2387,19 @@ Las remuneraciones a los integrantes del Comité quedarán a cargo de las depend
 
 (REUBICADO, P.O. 20 DE ABRIL DE 2004)
 
-### CAPITULO V. DE LAS OBLIGACIONES DE LOS AYUNTAMIENTOS
+### CAPITULO V
+
+DE LAS OBLIGACIONES DE LOS AYUNTAMIENTOS.
 
 ###### ARTICULO 199.
 
 Las disposiciones contenidas en el presente título regirán las relaciones laborales entre los Ayuntamientos del Estado de Tamaulipas y sus respectivos trabajadores de base. Los derechos consignados son irrenunciables, salvo las excepciones que en el mismo se establecen.
 
 Las relaciones laborales entre los organismos o empresas paramunicipales y sus respectivos trabajadores de base, se sujetarán a los preceptos del presente título.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+Tratándose del personal adscrito a las áreas de seguridad pública, se regirán en lo que corresponda por las disposiciones de este Código y las propias de la materia de seguridad.
 
 ###### ARTICULO 200.
 
@@ -2423,9 +2463,9 @@ XXI.- El Subjefe de Almacén.
 
 XXII.- El Encargado de la Mesa de Mercados.
 
-> <small>(REFORMADA, P.O. 14 DE MARZO DE 2001)</small>
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
-XXIII.- Los elementos de los cuerpos de Seguridad Pública, Tránsito y Personal Penitenciario.
+XXIII.- Los elementos y titulares de las áreas de seguridad pública y los de las instituciones policiales.
 
 XXIV.- El Juez Calificador.
 
@@ -2475,7 +2515,7 @@ En todo lo no previsto en el presente título que regula las relaciones laborale
 
 ###### ARTICULO 206.
 
-Los trabajadores al servicio del Ayuntamiento prestarán sus servicios mediante nombramiento expedido por acuerdo del Ayuntamiento, a través del servidor público u órgano facultado para extenderlo. Los trabajadores temporales por obra o por tiempo determinado, o aquellos que presten sus servicios mediante contrato civil, o que estén sujetos al pago de honorarios, quedan exceptuados del régimen establecido en este Título.
+Los trabajadores al servicio del Ayuntamiento prestarán sus servicios mediante nombramiento expedido por acuerdo del Ayuntamiento cuando así proceda, o a través del servidor público u órgano facultado para extenderlo. Los trabajadores temporales por obra o por tiempo determinado, o aquellos que presten sus servicios mediante contrato civil, o que estén sujetos al pago de honorarios, quedan exceptuados del régimen establecido en este Título.
 
 ###### ARTICULO 207.
 
@@ -3319,7 +3359,9 @@ III.- Suspensión temporal o cancelación del permiso o licencia.
 
 IV.- Clausura.
 
-V.- Arresto hasta de treinta y seis horas.
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+V.- Arresto hasta por treinta y seis horas.
 
 VI.- A los concesionarios de los servicios públicos municipales:
 
@@ -3328,6 +3370,10 @@ A).- Multa hasta por el importe de cincuenta veces el salario mínimo diario vig
 B).- Cancelación y caducidad de la concesión.
 
 VIII.- Indemnización al Ayuntamiento por daños y perjuicios que se causen, independientemente de las demás sanciones que procedan.
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+VIII.- Trabajo en favor de la comunidad.
 
 (REUBICADO, P.O. 20 DE ABRIL DE 2004)
 
@@ -3395,7 +3441,7 @@ Se abroga el Decreto No. 407, publicado en el Periódico Oficial del Estado No. 
 
 ###### ARTICULO CUARTO.
 
-Se derogan los Artículos 35, fracción III, 38, 39 y 40, de la Ley de la Policía Preventiva de los Municipios del Estado, así como todas las disposiciones que se opongan a este Código.
+Se derogan los Artículos 35, fracción III, 38, 39 y 40, de la Ley de laPolicía Preventiva de los Municipios del Estado, así como todas las disposiciones que se opongan a este Código.
 
 > <small>(F. DE E., P.O. 2 DE JUNIO DE 1984)</small>
 
@@ -3858,3 +3904,35 @@ P.O. 24 DE NOVIEMBRE DE 2010.
 ###### ARTICULO UNICO
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE DICIEMBRE DE 2010.
+
+DECRETO No. LX-1493, SE REFORMAN LOS ARTICULOS 49, FRACCION IX; 55, FRACCION VII; Y 65; Y SE ADICIONAN LOS ARTICULOS 49, FRACCION XXXV, SEGUNDO PARRAFO; Y 76 TER, DEL CODIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en et Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+El Ejecutivo del Estado deberá realizar las reformas que se requieran al Reglamento de la Ley de Protección Civil para el Estado de Tamaulipas, en un plazo no mayor de 30 días contados a partir del día siguiente a la entrada en vigor del presente Decreto.
+
+###### ARTICULO TERCERO.
+
+La Dirección General de Protección Civil del Estado, deberá instrumentar una amplia campaña de difusión de las actuales reformas y adiciones contenidas en el presente Decreto.
+
+###### ARTICULO CUARTO.
+
+Las personas morales y las públicas, así como las empresas o instituciones deberán implementar las medidas que correspondan, con base al presente Decreto y la Ley de Protección Civil, su Reglamento y aquéllas previsiones legales conducentes, en un término no mayor a 180 días contados a partir de la vigencia del presente Decreto.
+
+P.O. 16 DE DICIEMBRE DE 2010.
+
+DECRETO No. LX-1495, SE REFORMAN LOS ARTICULOS 49, FRACCION IX; 55, FRACCIONES VII Y VIII; 74; 75, PARRAFOS SEGUNDO Y TERCERO; 76; 203, FRACCION XXIII; 206; 318, FRACCION V; Y SE ADICIONAN LOS ARTICULOS 88, PARRAFO TERCERO; 199, PARRAFO TERCERO; Y 318, FRACCION VIII, DEL CODIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+El personal que se encuentre comprendido en el párrafo 9 del inciso g) del apartado A del artículo 4º de fa Ley del Trabajo de los Servidores Públicos del Estado de Tamaulipas será objeto de los procesos de evaluación y control de confianza que determine el Consejo Estatal de Seguridad Pública. Quienes a la fecha de entrada en vigor de este Decreto tengan un nombramiento de base podrán solicitar su reubicación a un área no vinculada a la organización y funcionamiento de las instituciones policiales y de procuración de justicia. Al personal que hubiere tenido nombramiento de base y continúe al servicio de las instituciones policiales y de procuración de justicia, les serán reconocidas su antigüedad y demás derechos generados para efectos de jubilación y pensión.
