@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-transito-del-estado-de-tamaulipas-antes-ley-de-8214"
 country: "mx"
 rank: "ley"
 publication_date: "1987-11-30"
-last_updated: "2010-11-02"
+last_updated: "2010-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8214&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY DE TRANSITO Y TRANSPORTE DEL ESTADO DE TAMAULIPAS
 
 > <small>[N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE TRÁNSITO Y TRANSPORTE DEL ESTADO DE TAMAULIPAS, SE DEROGA LO REFERENTE A TRANSPORTE PÚBLICO, PUBLICADO EN EL P.O. DEL 12 DE FEBRERO DE 2002]</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE NOVIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el lunes 30 de noviembre de 1987.
 
@@ -171,29 +171,41 @@ III.- Por el servicio que prestan.
 
 Las disposiciones reglamentarias estatales o las de los municipios, establecerán lo que corresponda a cada categoría.
 
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 9º.
 
-Toda persona residente en el Estado de Tamaulipas, que sea propietario de vehículos a los que esta Ley se refiere, para ponerlos en circulación deberá registrarlos en la Secretaría; requisito que se comprobará mediante las placas, la calcomanía o engomado correspondiente a ésta, copia de la tarjeta de circulación y la acreditación de la revisión mecánica, mismos que deberán llevarse en el vehículo.
+Toda persona residente en el Estado de Tamaulipas, que sea propietario de vehículos automotores a los que esta Ley se refiere, previo a ponerlos en circulación deberá registrarlos en la Secretaría; dicho requisito se comprobará mediante la portación adecuada de las placas, la calcomanía o engomado correspondiente a ésta, copia de la tarjeta de circulación y, en su caso, la acreditación de la revisión mecánica, mismos que deberán llevarse en el vehículo.
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 10.
 
-Tratándose de vehículo registrados en otra Entidad Federativa cuyo propietario establezca su domicilio en Tamaulipas, será válido el registro que ostenta únicamente durante el período de vigencia de las placas.
+Tratándose de vehículos automotores registrados en otra entidad federativa cuyo propietario establezca su domicilio en Tamaulipas, será válido el registro que ostenta únicamente durante el período de vigencia de las placas; una vez que éste concluya, deberá registrar su vehículo, preferentemente, en el Estado de Tamaulipas.
 
 ###### ARTICULO 11.
 
 Los vehículos sujetos a circulación restringida a la zona fronteriza, deberán registrarse en las Dependencias de Tránsito de los Municipios que tengan ese carácter.
 
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 12.
 
-Los vehículos registrados en el extranjero, podrán circular en el Estado durante el tiempo concedido a sus propietarios por las autoridades migratorias y aduanales mexicanas, siempre que reúnan los demás requisitos previstos en esta Ley y su Reglamento.
+Los vehículos automotores registrados en el extranjero, podrán circular en el Estado durante el tiempo concedido a sus propietarios por las autoridades migratorias y aduanales mexicanas, siempre que reúnan los demás requisitos previstos en esta Ley o su Reglamento.
+
+Cualquier autoridad comprendida entre las instituciones policiales, en términos del artículo 21 de la Constitución General de la República, podrá requerir a los conductores de los vehículos automotores la presentación de los documentos inherentes a la identificación de éste, así como los relativos a la identidad de su conductor.
 
 ###### ARTICULO 13.
 
 Cualquier alteración de los documentos del vehículo, será sancionada de acuerdo a esta Ley y su Reglamento, sin perjuicio de la responsabilidad penal en que incurra el infractor.
 
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 14.
 
-Es obligación de las autoridades de tránsito poner a disposición de la Dependencia correspondiente, todo vehículo del que no se acredite la legítima propiedad.
+Es obligación de las autoridades de tránsito poner a disposición de la dependencia correspondiente, todo vehículo automotor del que no se acredite la legítima propiedad; así como también impedirán la circulación de aquéllos vehículos automotores que no cumplan con las previsiones del artículo 9 de la presente ley.
+
+Una vez satisfechos dichos requisitos, se autorizará su circulación, previo pago de las infracciones a que se hiciera merecedor.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE NOVIEMBRE DE 2010)</small>
 
@@ -417,7 +429,7 @@ Los Ayuntamientos, a través de la dependencia competente, podrán autorizar a l
 
 ###### ARTICULO 46.
 
-(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL ARTÍCULO TERCERO DEL DECRETO NO. LX-1080, P.O. 2 DE NOVIEMBRE DE 2010)
+(DEROGADO POR EL ARTÍCULO TERCERO DEL DECRETO NO. LX-1080, P.O. 2 DE NOVIEMBRE DE 2010)
 
 ###### ARTICULO 47.
 
@@ -666,3 +678,9 @@ Lo previsto en el último párrafo del artículo 21 de la Ley de Tránsito y Tra
 ###### ARTÍCULO TERCERO.
 
 La dependencia estatal correspondiente y los Ayuntamientos de la entidad preveerán (sic) los mecanismos de comunicación que favorezcan el adecuado cumplimiento de las previsiones de esta ley. Asimismo, intercambiarán la información que se requiera en dicho propósito.
+
+P.O. 16 DE DICIEMBRE DE 2010.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
