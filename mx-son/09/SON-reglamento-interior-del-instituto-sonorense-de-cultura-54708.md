@@ -4,7 +4,7 @@ identifier: "SON-reglamento-interior-del-instituto-sonorense-de-cultura-54708"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-03-12"
-last_updated: "2007-03-12"
+last_updated: "2010-12-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54708&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SON"
 
 REGLAMENTO INTERIOR DEL INSTITUTO SONORENSE DE CULTURA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO SONORENSE DE CULTURA, PUBLICADO EN EL B.O. DE 16 DE DICIEMBRE DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: ABROGADO.
 
 Reglamento publicado en la Sección IV del Boletín Oficial del Estado de Sonora, el lunes 12 de marzo de 2007.
 
@@ -490,3 +492,19 @@ VINCULACION EDUCACIÓN BIBLIOTECAS ADMINISTRACIÓN
 Y APOYO ARTÍSTICA Y PATRIMONIO
 
 INSTITUCIONAL CULTURAL
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+B.O. 16 DE DICIEMBRE DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento Interior entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interior del Instituto Sonorense de Cultura, publicado en el Boletín Oficial del Gobierno del Estado numero 21 sección IV, tomo CLXXIX, de fecha 12 de marzo de 2007.
+
+###### ARTÍCULO TERCERO.
+
+Los manuales de organización, de procedimientos y, en su caso, de servicios al público del Instituto se deberán expedir dentro de los sesenta días posteriores a la publicación del presente Reglamento Interior. El Director General del Instituto queda facultado para resolver las cuestiones que se presenten en tanto se expiden los mencionados manuales administrativos.
