@@ -4,7 +4,7 @@ identifier: "SON-ley-de-fomento-a-la-cultura-y-las-artes-del-estado-de-sonora-16
 country: "mx"
 rank: "ley"
 publication_date: "2000-01-10"
-last_updated: "2000-01-10"
+last_updated: "2010-12-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16558&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE FOMENTO A LA CULTURA Y LAS ARTES DEL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 16 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Boletín Oficial del Gobierno del Estado de Sonora, el lunes 10 de enero del 2000.
 
@@ -149,9 +149,11 @@ VII.- Las demás que le otorgue esta Ley.
 
 ### CAPITULO III. DEL CONSEJO ESTATAL DE CULTURA Y LAS ARTES, DE SUS FACULTADES Y OBLIGACIONES
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 16 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 7o.
 
-El Consejo Estatal de la Cultura y las Artes se integrará con el Titular del Poder Ejecutivo, quien tendrá el carácter de Presidente Honorario, el Secretario de Educación y Cultura, quien será el Presidente Ejecutivo, un Secretario Técnico que nombrará el Consejo, el Director General del Instituto Sonorense de Cultura, así como un representante de la Universidad de Sonora, del Instituto Tecnológico de Sonora, del Colegio de Sonora y por un representante de las Artes Visuales, Teatro, Danza, Música, Literatura, Artes Plásticas y de los grupos indígenas acreditados ante las autoridades estatales correspondientes.
+El Consejo Estatal de la Cultura y las Artes se integrará con el Titular del Poder Ejecutivo, quien tendrá el carácter de Presidente Honorario, el Secretario de Educación y Cultura, quien será el Presidente Ejecutivo, un Secretario Técnico que nombrará el Consejo, el Director General del Instituto Sonorense de Cultura, así como un representante de la Universidad de Sonora, del Instituto Tecnológico de Sonora, del Colegio de Sonora y por un representante de las Artes Visuales, Teatro, Danza, Música, Literatura, Artes Plásticas y de los grupos indígenas acreditados ante la Comisión Estatal para el Desarrollo de los Pueblos y Comunidades Indígenas.
 
 Los municipios estarán representados por cuatro regiones principales consistentes en Región Norte, Centro, Sierra y Sur, pudiéndose convocar la participación concurrente de organismos, entidades y dependencias del Gobierno Federal, así como de organizaciones sociales y privadas dedicadas al fomento, difusión o promoción de actividades culturales y artísticas locales o nacionales.
 
@@ -338,3 +340,19 @@ Comuníquese al Ejecutivo para su sanción y promulgación.
 SALON DE SESIONES DEL H. CONGRESO DEL ESTADO. Hermosillo, Sonora, 30 de Septiembre de 1999.- AL MARGEN CENTRAL DERECHO UN SELLO CON EL ESCUDO NACIONAL QUE DICE: ESTADOS UNIDOS MEXICANOS.- H. CONGRESO DEL ESTADO DE SONORA. LV LEGISLATURA.- DIPUTADO PRESIDENTE.- C. JUAN DE DIOS CASTRO PACHECO.- RUBRICA.- DIPUTADA SECRETARIA.- C. PATRICIA ALONSO RAMÍREZ.- RUBRICA.- DIPUTADO SECRETARIO.- C. SERGIO LUGO MENDIVIL.- RUBRICA.-
 
 POR TANTO, mando se publique en el Boletín Oficial del Estado y se le dé el debido cumplimiento.- PALACIO DE GOBIERNO, Hermosillo, Sonora, veintinueve de octubre de mil novecientos noventa y nueve.- SUFRAGIO EFECTIVO NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- ARMANDO LOPEZ NOGALES.- RUBRICA.- EL SECRETARIO DE GOBIERNO.- OSCAR LOPEZ VUCOVICH.- RUBRICA.-
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+B.O. 16 DE DICIEMBRE DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro de los treinta días hábiles siguientes a la entrada en vigor del presente Decreto, la Comisión Estatal de Derechos Humanos, deberá emitir la convocatoria a que se refiere el artículo 13 de (sic) Ley de Derechos de los Pueblos y Comunidades Indígenas de Sonora, para los efectos de lo dispuesto en el artículo 19 de la Ley que Crea la Comisión Estatal de Derechos Humanos.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
