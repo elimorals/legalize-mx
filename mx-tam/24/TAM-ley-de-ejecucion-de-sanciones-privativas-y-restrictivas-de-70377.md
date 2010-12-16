@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-ejecucion-de-sanciones-privativas-y-restrictivas-de-7037
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-27"
-last_updated: "2007-12-27"
+last_updated: "2010-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70377&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE EJECUCION DE SANCIONES PRIVATIVAS Y RESTRICTIVAS DE LA LIBERTAD DEL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 27 de diciembre de 2007.
 
@@ -201,35 +201,59 @@ Los enfermos mentales, infectocontagiosos, de alta peligrosidad o adictos a sust
 
 2. De ser necesario, se le suministrará la atención correspondiente; a su vez, se procurará conocer las necesidades derivadas de su condición de salud, a fin de satisfacerlas en la medida que lo permita el presupuesto asignado al establecimiento.
 
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 15.
 
-En todo Centro se llevará al día el registro de los internos en el Sistema Informático, el cual deberá contener:
+1. En todo Centro se levantará una base de datos de los registros de cada uno de los internos que integren la población penitenciaria, la cual se integrará al Sistema Nacional de Información Penitenciaria.
 
-a) datos generales;
+2. La base de datos que se levante en cada Centro y que se integra al Sistema Nacional de Información Penitenciaria, se actualizará a diario, debiendo contener:
 
-b) datos familiares;
+I.- Ficha de identificación personal con los siguientes datos:
 
-c) ficha signalética;
+a) sexo, nombre y, en su caso, apodo del interno;
 
-d) media filiación;
+b) fotografías de frente y de perfil;
 
-e) expediente jurídico;
+c) huellas dactilares;
 
-f) información de seguridad;
+d) domicilio, fecha de nacimiento, estado civil, grado de estudios y ocupación o profesión;
 
-g) historial clínico;
+e) Clave Unica de Registro de Población; y
 
-h) educación, trabajo y capacitación;
+f) datos de sus familiares e inclusive, de ser posible, de sus amistades.
 
-i) cultura, deporte y recreación; y
+II.- Identificación antropométrica, con los datos necesarios que permitan la identificación física del sujeto;
 
-j) control de visitas.
+III.- Expediente que contenga el historial y documentos de carácter jurídico;
+
+IV.- Estudios técnicos interdisciplinarios;
+
+V.- Historial clínico; y
+
+VI- Toda aquella información necesaria para la integración de dicho sistema.
+
+3.- La información que se integrará al Sistema Nacional de Información Penitenciaria, será confidencial y reservada. A la información contenida en el Sistema solo podrán tener acceso:
+
+I.- Las autoridades competentes en materia de investigación y persecución del delito, para los fines que se prevean en los ordenamientos legales aplicables; y
+
+II.- Los probables responsables, estrictamente para la rectificación de sus datos personales y para solicitar que se asiente en el mismo el resultado del procedimiento penal, en términos de las disposiciones legales aplicables.
+
+4.- Bajo ninguna circunstancia se podrá proporcionar información contenida en la base de datos del Sistema de Información Penitenciaria a terceros. La información no podrá ser utilizada como base de discriminación, vulneración de la dignidad, intimidad, privacidad u honra de persona alguna.
+
+5.- Al servidor público que quebrante la reserva del Sistema o proporcione información sobre el mismo, se le sujetará al procedimiento de responsabilidad administrativa o penal, según corresponda.
+
+6.- Las Instituciones de Seguridad Publica serán responsables de la administración, guarda y custodia de los datos que integran este Sistema; su violación se sancionará de acuerdo con las disposiciones previstas en la legislación penal aplicable.
 
 ###### ARTICULO 16.
 
 1. Dictado el auto de formal prisión, los integrantes del Consejo procederán de inmediato a practicar el estudio integral de la personalidad del sujeto por los integrantes del Consejo.
 
 2. Dicho estudio tiene el propósito de facilitar el conocimiento de la personalidad del inculpado y obtener datos concretos que permitan su clasificación y tratamiento para su readaptación y estará a disposición del Juez para los efectos del artículo 69 del Código Penal para el Estado de Tamaulipas.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+3.- Los estudios de personalidad del sujeto se actualizarán permanentemente y se integraran a la base de datos del Sistema Nacional de Información Penitenciaria.
 
 ###### ARTICULO 17.
 
@@ -271,19 +295,29 @@ El Centro procederá a la ejecución de las medidas de seguridad que considere c
 
 Tanto las personas como los vehículos que entren o salgan de algún Centro y los objetos que sean transportados por los mismos, quedarán sujetos a las medidas de revisión y registro que por razones de seguridad se establezcan por el Reglamento Interno o por la Dirección General.
 
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 27.
 
-Para efectuar la vigilancia a que se refieren los artículos 25 y 26 de esta ley, la Dirección General podrá disponer de los elementos de seguridad penitenciaria que considere pertinente, así como auxiliarse de los equipos tecnológicos y electrónicos necesarios, y de los cuerpos de seguridad estatal y municipal de que se disponga en el lugar en que radique el sentenciado.
+1.- Para efectuar la vigilancia a que se refieren los articulas 25 y 26 de esta ley, la Dirección General podrá disponer de los elementos de seguridad penitenciaria que considere pertinente, así como auxiliarse de los equipos tecnológicos y electrónicos necesarios, y de los cuerpos de seguridad estatal y municipal de que se disponga en el lugar en que radique el sentenciado.
+
+2.- Los cuerpos de vigilancia, custodia y seguridad de los Centros de Ejecución de Sanciones, son considerados como integrantes de las instituciones de seguridad pública y estarán sujetos a los derechos y obligaciones establecidos en la Ley de Coordinación del Sistema de Seguridad Pública del Estado de Tamaulipas.
 
 ### CAPITULO SEGUNDO. DEL PERSONAL PENITENCIARIO
 
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 28.
 
-Los Centros estarán a cargo del personal directivo, administrativo, técnico, jurídico y de seguridad penitenciaria que fuere necesario para el adecuado cumplimiento de sus funciones.
+1.- Los Centros estarán a cargo del personal directivo, administrativo, técnico, jurídico y de seguridad penitenciaria que fuere necesario para el adecuado cumplimiento de sus funciones.
+
+2.- Las personas que en los Centros desempeñen funciones estrictamente administrativas no tendrán el carácter de integrantes de las instituciones de seguridad pública, aun cuando orgánicamente presten sus servicios en las instituciones de seguridad pública. A dichos servidores se les considerará como personal de confianza, su designación y remoción será libre y no estarán sujetos al servicio civil de carrera. No obstante, en los casos que determinen las autoridades competentes, se sujetarán a las evaluaciones de control de confianza y certificación, establecidas en las leyes respectivas.
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 29.
 
-Para la mejor aplicación del sistema penitenciario, la Dirección General elaborará un plan objetivo de selección del personal de seguridad de los Centros, procurando sea idóneo y adecuado; su contratación se hará tomando en cuenta la vocación, aptitudes, preparación académica y antecedentes personales de los aspirantes. Asimismo, se cumplirá con las previsiones establecidas al efecto en la Ley de Seguridad Pública para el Estado de Tamaulipas.
+Para la mejor aplicación del sistema penitenciario, la Dirección General elaborará un plan objetivo de selección del personal de seguridad de los Centros, procurando sea idóneo y adecuado; su contratación se hará tomando en cuenta la vocación, aptitudes, preparación académica y antecedentes personales de los aspirantes. Asimismo, se cumplirá con las previsiones establecidas al efecto en la Ley de Seguridad Publica para el Estado de Tamaulipas y en la Ley de Coordinación del Sistema de Seguridad Pública del Estado de Tamaulipas.
 
 ###### ARTICULO 30.
 
@@ -307,9 +341,11 @@ V. No haber sido condenado por sentencia ejecutoriada como responsable de delito
 
 El Director del Centro tendrá a su cargo el establecimiento. Al efecto, ajustará su actuación a los términos de la ley y del reglamento y cuidará primordialmente la efectiva aplicación del sistema de readaptación y reinserción social; la observancia del régimen interno; el funcionamiento y administración del Centro; la seguridad del establecimiento; y la ejecución de las medidas y órdenes que se acuerden por la Dirección General.
 
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 33.
 
-Los integrantes del personal de seguridad penitenciaria quedarán sujetos a la obligación de asistir a los cursos de capacitación, formación y actualización sobre disciplinas penitenciarias, criminológicas y de relaciones humanas que establezca la Dirección General.
+Los integrantes del personal de seguridad penitenciaria deberán estar registrados en el Registro Nacional de Personal de Seguridad Publica y quedarán sujetos a la obligación de asistir a los cursos de capacitación, formación y actualización sobre disciplinas penitenciarias, criminológicas y de relaciones humanas que establezca la Dirección General y los que determinen conforme a la Ley de Coordinación del Sistema de Seguridad Pública del Estado de Tamaulipas.
 
 ### CAPITULO TERCERO. DE LOS CONSEJOS TECNICOS INTERDISCIPLINARIOS
 
@@ -1062,3 +1098,11 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del Estado de Tamaulipas, a los siete días del mes de diciembre del año dos mil siete.
 
 ATENTAMENTE.- SUFRAGIO EFECTIVO. NO REELECCION.- GOBERNADOR CONSTITUCIONAL DEL ESTADO.- EUGENIO HERNANDEZ FLORES.- Rúbrica.- SECRETARIO GENERAL DE GOBIERNO.- ANTONIO MARTINEZ TORRES.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 16 DE DICIEMBRE DE 2010.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
