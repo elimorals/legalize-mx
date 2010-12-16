@@ -4,7 +4,7 @@ identifier: "TAM-codigo-civil-para-el-estado-de-tamaulipas-7959"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-01-10"
-last_updated: "2010-11-24"
+last_updated: "2010-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7959&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO CIVIL PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE NOVIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE DICIEMBRE DE 2010.
 
 Código publicado en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el sábado 10 de enero de 1987.
 
@@ -385,9 +385,17 @@ Para los indigentes, tienen obligación de expedir gratuitamente ese certificado
 
 V.- En su caso, las capitulaciones de los pretendientes que contraen el matrimonio bajo el régimen de sociedad conyugal convencional o el de separación de bienes. En uno u otro caso se estará a lo dispuesto en este Código respecto a dichos regímenes patrimoniales;
 
-VI.- Copia certificada del acta de defunción o de divorcio, si alguno de los pretendientes es viudo o divorciado; o copia certificada de la sentencia de nulidad de matrimonio en caso de que alguno de los pretendientes hubiese estado casado con anterioridad; y
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
-VII.- Copia de la dispensa de impedimentos si los hubo.
+VI.- Copia certificada del acta de defunción o de divorcio, si alguno de los pretendientes es viudo o divorciado, o copia certificada de la sentencia de nulidad de matrimonio en caso de que alguno de los pretendientes hubiese estado casado con anterioridad;
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+VII.- Copia de la dispensa de impedimentos si los hubo; y
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+VIII.- Constancia de haber recibido pláticas para evitar la violencia intrafamiliar, impartidas por el Instituto de la Mujer Tamaulipeca en conjunto con el Instituto Nacional de las Mujeres.
 
 ART. 86.- Todos los requisitos mencionados en el artículo que antecede, deberán estar satisfechos a más tardar cuatro días antes de la celebración del matrimonio.
 
@@ -10034,3 +10042,9 @@ P.O. 24 DE NOVIEMBRE DE 2010.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE DICIEMBRE DE 2010.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor a partir de su expedición.
