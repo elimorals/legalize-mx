@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-seguridad-publica-para-el-estado-de-tamaulipas-70382"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-27"
-last_updated: "2007-12-27"
+last_updated: "2010-12-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70382&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 27 de diciembre de 2007.
 
@@ -467,7 +467,11 @@ XIV. Sistematizar y, en su caso procesar para su propuesta al Director General d
 
 XV. Disponer las previsiones para vigilar que se cumplan los lineamientos y disposiciones legales establecidas en el cuidado y uso de armamento, equipo, uniformes y credenciales entregadas a los elementos de su institución;
 
-XVI. Llevar a cabo el proceso de detención de personas y aseguramiento de armamento, droga u otros objetos en flagrancia; así como la disposición de éstos ante las autoridades competentes, con estricto apego a la ley;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+XVI. Llevar a cabo el proceso de detención de personas y aseguramiento de armamento, droga u otros objetos en flagrancia; así como la disposición de estos ante las autoridades competentes, con estricto apego a la ley. En lo (sic) casos de narcomenudeo, ajustará su actuación a las previsiones respecto de la competencia y las atribuciones que para tal efecto establecen la Ley General de Salud. la Ley de Salud para el Estado de Tamaulipas y los Códigos Penal y de Procedimientos Penales para el Estado de Tamaulipas;
 
 XVII. Dar vista al Consejo de Honor y Justicia sobre las faltas en que incurran los integrantes de su institución policial, a los principios de actuación previstos en esta ley, así como del Reglamento de las Instituciones Policiales Preventivas del Estado. Asimismo, establecerá las medidas de control para garantizar el cumplimiento y desempeño de las funciones asignadas al personal operativo de esta Dirección;
 
@@ -515,7 +519,11 @@ XVI. Participar en las labores de ayuda en tratándose de desastres naturales, a
 
 XVII. Sistematizar y, en su caso, procesar para su propuesta al Director General de Operación Policial las medidas de prevención, combate y disminución de conductas antisociales a realizar;
 
-XVIII. Llevar a cabo el proceso de detención de personas y aseguramiento de armamento, droga u otros objetos en flagrancia; así como la disposición de éstos ante las autoridades competentes; y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+XVIII. Llevar a cabo el proceso de detención de personas y aseguramiento de armamento, droga u otros objetos en flagrancia; así como la disposición de éstos ante las autoridades competentes. En lo (sic) casos de narcomenudeo, ajustará su actuación a las previsiones respecto de la competencia y las atribuciones que para tal efecto establecen la Ley General de Salud, la Ley de Salud para el Estado de Tamaulipas y los Códigos Penal y de Procedimientos Penales para el Estado de Tamaulipas; y
 
 XIX. Las demás que le señalen las disposiciones legales y reglamentarias aplicables o le instruyan sus superiores jerárquicos.
 
@@ -553,7 +561,11 @@ V. Proponer al Director General de Operación Policial las medidas de prevenció
 
 VI. Disponer las provisiones para vigilar que se cumplan los lineamientos y disposiciones legales establecidas en el cuidado y uso de armamento, equipo, uniformes y credenciales entregadas a los elementos de su institución;
 
-VII. Llevar a cabo el proceso de detención de personas y aseguramiento de armamento, droga u otros objetos en flagrancia; así como la disposición de éstos ante las autoridades competentes, con estricto apego a la ley;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+VII. Llevar a cabo el proceso de detención de personas y aseguramiento de armamento, droga u otros objetos en flagrancia; así como la disposición de éstos ante las autoridades competentes, con estricto apego a la ley. En lo (sic) casos de narcomenudeo, ajustará su actuación a las previsiones respecto de la competencia y las atribuciones que para tal efecto establecen la Ley General de Salud, la Ley de Salud para el Estado de Tamaulipas y los Códigos Penal y de Procedimientos Penales para el Estado de Tamaulipas;
 
 VIII. Dar vista al Consejo de Honor y Justicia sobre las faltas en que incurran los integrantes de su institución, a los principios de actuación previstos en la Ley de Seguridad Pública para el Estado de Tamaulipas, así como al Reglamento de las Instituciones Policiales Preventivas del Estado;
 
@@ -585,7 +597,11 @@ IV. Obtener, analizar y sistematizar los elementos criminógenos y las zonas de 
 
 V. Participar en auxilio de cualquier autoridad que se los requiera formalmente, tratándose de tareas propias de prevención del delito y la salvaguarda de la integradas (sic) física, los bienes y los derechos de las personas;
 
-VI. Realizar detenciones en casos de flagrancia, debiendo poner inmediatamente al o los detenidos ante las autoridades competentes;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+VI. Realizar detenciones en casos de flagrancia, debiendo poner inmediatamente al o los detenidos ante las autoridades competentes. En lo (sic) casos de narcomenudeo, ajustará su actuación a las previsiones respecto de la competencia y las atribuciones que para tal efecto establecen la Ley General de Salud, la Ley de Salud para el Estado de Tamaulipas y los Códigos Penal y de Procedimientos Penales para el Estado de Tamaulipas;
 
 VII. Colaborar con las autoridades municipales que lo soliciten, siempre que exista un disturbio o peligro inminente que amenace con trastornar (sic) la integridad, seguridad y paz sociales;
 
@@ -663,7 +679,11 @@ XV. Las demás que les señalen las disposiciones legales y reglamentarias aplic
 
 Son obligaciones comunes de las policías preventivas municipales:
 
-I. Mantener el orden público y la tranquilidad social en su jurisdicción, aplicando adecuadamente sus conocimientos y estrategias, y utilizando apropiadamente el equipo con que se cuente; realizando además, rondines y patrullajes a baja velocidad y prestando total atención a su entorno;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+l. Mantener el orden público y la tranquilidad social en su jurisdicción, aplicando adecuadamente sus conocimientos y estrategias, y utilizando apropiadamente el equipo con que se cuente; realizando además, rondines y patrullajes a baja velocidad y prestando total atención a su entorno. En lo (sic) casos de narcomenudeo, ajustará su actuación a las previsiones respecto de la competencia y las atribuciones que para tal efecto establecen la Ley General de Salud, la Ley de Salud para el Estado de Tamaulipas y los Códigos Penal y de Procedimientos Penales para el Estado de Tamaulipas;
 
 II. Prevenir la comisión de faltas administrativas, conductas antisociales o delitos; proteger a las personas, sus bienes, libertades y derechos, además de mostrar el respeto y la consideración debidas a la población;
 
@@ -1476,3 +1496,13 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del Estado de Tamaulipas, a los siete días del mes de diciembre del año dos mil siete.
 
 ATENTAMENTE.- SUFRAGIO EFECTIVO. NO REELECCION.- GOBERNADOR CONSTITUCIONAL DEL ESTADO.- EUGENIO HERNANDEZ FLORES.- Rúbrica.- SECRETARIO GENERAL DE GOBIERNO.- ANTONIO MARTINEZ TORRES.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 16 DE DICIEMBRE DE 2010.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto se publicará en el Periódico Oficial del Estado y entrará en vigor el 21 de agosto del 2012.
+
+ARTlCULO SEGUNDO. Los titulares de las instituciones policiales del Estado y de los Municipios implementarán la capacitación permanente de su personal con base en las disposiciones que establece el presente Decreto.
