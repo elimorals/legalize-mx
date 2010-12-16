@@ -4,7 +4,7 @@ identifier: "SON-ley-de-desarrollo-social-del-estado-de-sonora-50024"
 country: "mx"
 rank: "ley"
 publication_date: "2006-03-30"
-last_updated: "2006-03-30"
+last_updated: "2010-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50024&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE DESARROLLO SOCIAL DEL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 16 DE DICIEMBRE DE 2010.
 
 Ley publicada en la Sección I del Boletín Oficial del Estado de Sonora, el jueves 30 de marzo de 2006.
 
@@ -197,7 +197,9 @@ f) El Secretario de Agricultura, Ganadería, Recursos Hidráulicos, Pesca y Acua
 
 g) El Director General del Instituto Sonorense de la Mujer;
 
-h) El Coordinador General de la Comisión para la Atención de los Pueblos Indígenas de Sonora;
+> <small>(REFORMADO, B.O. 16 DE DICIEMBRE DE 2010)</small>
+
+h) El Coordinador General de la Comisión Estatal para el Desarrollo de los Pueblos y Comunidades Indígenas;
 
 i) El Director General del Sistema para el Desarrollo Integral de la Familia;
 
@@ -269,7 +271,9 @@ e) La Secretaría de Agricultura, Ganadería, Recursos Hidráulicos, Pesca y Acu
 
 f) El Instituto Sonorense de la Mujer;
 
-g) La Comisión para la Atención de los Pueblos Indígenas de Sonora;
+> <small>(REFORMADO, B.O. 16 DE DICIEMBRE DE 2010)</small>
+
+g) La Comisión Estatal para el Desarrollo de los Pueblos y Comunidades Indígenas;
 
 h) El Sistema para el Desarrollo Integral de la Familia;
 
@@ -377,7 +381,9 @@ V.- Vigilar la correspondencia entre los planes estatal y nacional de desarrollo
 
 VI.- Convenir acciones y programas sociales con el gobierno federal o los municipales;
 
-VlI.- Promover, en coordinación con las Secretarías de Economía, de Agricultura, Ganadería, Recursos Hidráulicos, Pesca y Acuacultura y de Hacienda, así como con la Comisión para la Atención de Pueblos Indígenas del Estado de Sonora y el Instituto Sonorense de la Mujer, la constitución de un programa y un fondo de apoyo al sector social de ]a economía, bajo parámetros jurídicos, financieros y de fomento que puedan generar recursos para impulsar el desarrollo social productivo en condiciones de eficiencia y transparencia;
+> <small>(REFORMADA, B.O. 16 DE DICIEMBRE DE 2010)</small>
+
+VlI.- Promover, en coordinación con las Secretarías de Economía, de Agricultura, Ganadería, Recursos Hidráulicos, Pesca y Acuacultura y de Hacienda, así como con la Comisión Estatal para el Desarrollo de los Pueblos y Comunidades Indígenas y el Instituto Sonorense de la Mujer, la constitución de un programa y un fondo de apoyo al sector social de la economía, bajo parámetros jurídicos, financieros y de fomento que puedan generar recursos para impulsar el desarrollo social productivo en condiciones de eficiencia y transparencia;
 
 VllI.- Informar a la sociedad sobre las acciones de desarrollo social y su impacto; y
 
@@ -666,3 +672,19 @@ Se derogan todas las disposiciones que se opongan a la presente ley.
 COMUNIQUESE AL TITULAR DEL PODER EJECUTIVO PARA SU PUBLICACIÓN EN EL BOLETIN OFICIAL DEL GOBIERNO DEL ESTADO.- AL MARGEN CENTRAL DERECHO UN SELLO CON EL ESCUDO NACIONAL QUE DICE: ESTADOS UNIDOS MEXICANOS.- H. CONGRESO DEL ESTADO DE SONORA.- SALON DE SESIONES DEL H. CONGRESO DEL ESTADO.- HERMOSILLO, SONORA, 13 DE MARZO DE 2006.- DIPUTADO PRESIDENTE.- C. GILDARDO REAL RAMIREZ.- RUBRICA.- DIPUTADO SECRETARIO.- C. ANGEL RUIZ GARCIA.- RUBRICA.- DIPUTADO SECRETARIO.- C. FELIPE MANRIQUEZ MALLORQUIN.- RUBRICA.-
 
 POR TANTO, MANDO SE PUBLIQUE EN EL BOLETÍN OFICIAL DEL GOBIERNO DEL ESTADO Y SE LE DÉ EL DEBIDO CUMPLIMIENTO.- DADO EN LA RESIDENCIA DEL PODER EJECUTIVO, EN LA CIUDAD DE HERMOSILLO, SONORA, A LOS DIECISÉIS DÍAS (SIC) DEL AÑO DOS MIL SEIS.- SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR DEL ESTADO.- EDUARDO BOURS CASTELO.- RÚBRICA.- EL SECRETARIO DE GOBIERNO.- ROBERTO RUBIAL ASTIAZARAN.-RÚBRICA.-
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
+
+B.O. 16 DE DICIEMBRE DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro de los treinta días hábiles siguientes a la entrada en vigor del presente Decreto, la Comisión Estatal de Derechos Humanos, deberá emitir la convocatoria a que se refiere el artículo 13 de Ley de Derechos de los Pueblos y Comunidades Indígenas de Sonora, para los efectos de lo dispuesto en el artículo 19 de la Ley que Crea la Comisión Estatal de Derechos Humanos.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
