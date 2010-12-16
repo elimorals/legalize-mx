@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-regular-los-servicios-privados-de-seguridad-en-el-5896
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-08"
-last_updated: "2007-11-08"
+last_updated: "2010-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58965&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA REGULAR LOS SERVICIOS PRIVADOS DE SEGURIDAD EN EL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el jueves 8 de noviembre de 2007.
 
@@ -55,7 +55,13 @@ DISPOSICIONES GENERALES.
 
 2. Asimismo, regula lo concerniente al registro de la infraestructura, equipo, instalaciones inherentes y bases de archivo en cuanto al personal de vigilancia que preste sus servicios en esa modalidad.
 
-3. Para los efectos de esta ley, los prestadores de servicios privados de seguridad son considerados auxiliares de las autoridades e instituciones públicas en materia de seguridad.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+3. Para los efectos de esta ley, los prestadores de servicios privados de seguridad son auxiliares de las autoridades e instituciones de seguridad pública, ya sean del orden federal, estatal o municipal.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+4. Los particulares que se dediquen a estos servicios, así como el personal que preste dichos servicios, se regirán en lo conducente por las normas previstas en la Ley de Seguridad, en la Ley de Coordinación y demás aplicables que se prevén para las instituciones de seguridad pública; asimismo, les resulta obligatoria la observancia de los principios de actuación y desempeño y la obligación de aportar los datos para el registro de su personal y equipo y, en general, la de proporcionar la información estadística y sobre la delincuencia al Sistema Estatal de Información.
 
 ###### ARTÍCULO 2.
 
@@ -71,19 +77,23 @@ d) Dirección General: la Dirección General de Operación Policial de la Secret
 
 e) Ley: la Ley para regular los Servicios Privados de Seguridad en el Estado de Tamaulipas;
 
-f) Ley de Seguridad: la Ley de Seguridad Pública para el Estado de Tamaulipas;
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
-g) Prestador: la persona física o moral que preste servicios privados de seguridad;
+f) Ley de Coordinación: la Ley de Coordinación del Sistema de Seguridad Publica del Estado de Tamaulipas;
 
-h) Revalidación: la validación del permiso otorgado, en los términos de esta ley, para prestar servicios privados de seguridad, una vez que haya cumplido con los requisitos establecidos;
+g) Ley de Seguridad: la Ley de Seguridad Publica para el Estado de Tamaulipas;
 
-i) Secretaría: la Secretaría de Seguridad Pública del Estado;
+h) Prestador: la persona física o moral que preste servicios privados de seguridad;
 
-j) Secretario: el Secretario de Seguridad Pública del Estado;
+i) Revalidación: la validación del permiso otorgado, en los términos de esta ley, para prestar servicios privados de seguridad, una vez que haya cumplido con los requisitos establecidos;
 
-k) Servicios privados de seguridad: la actividad a cargo de particulares, autorizada por la autoridad competente, que tiene como propósito desempeñar acciones relacionadas con la protección, vigilancia o custodia de personas, lugares, establecimientos, bienes o valores, incluyendo el traslado, localización e información sobre personas físicas o morales y bienes, así como toda actividad de similar naturaleza, y las auxiliares relacionadas con la seguridad; y
+j) Secretaría: la Secretaría de Seguridad Pública del Estado;
 
-1) Servidor público: toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la administración pública estatal, de conformidad con lo dispuesto por el artículo 149 de la Constitución Política del Estado de Tamaulipas.
+k) Secretario: el Secretario de Seguridad Pública del Estado;
+
+l) Servicios privados de seguridad: la actividad a cargo de particulares, autorizada por la autoridad competente, que tiene como propósito desempeñar acciones relacionadas con la protección, vigilancia o custodia de personas, lugares, establecimientos, bienes o valores, incluyendo el traslado, localización e información sobre personas físicas o morales y bienes, así como toda actividad de similar naturaleza, y las auxiliares relacionada con la seguridad; y
+
+m) Servidor público: toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la administración pública estatal, de conformidad con lo dispuesto por el artículo 149 de la Constitución Política del Estado de Tamaulipas.
 
 ###### ARTÍCULO 3.
 
@@ -93,11 +103,15 @@ k) Servicios privados de seguridad: la actividad a cargo de particulares, autori
 
 ###### ARTÍCULO 4.
 
-1. Los particulares que deseen prestar servicios privados de seguridad en los términos de la presente ley deberán cumplir con las disposiciones de la Ley Federal de Armas de Fuego y Explosivos, si fueran a utilizar armamento.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+1. Los particulares que deseen prestar servicios privados de seguridad en los términos de la presente ley, además deberán cumplir con las disposiciones de la Ley Federal de Armas de Fuego y Explosivos, si fueran a utilizar armamento, así como lo previsto en la Ley de Coordinación y demás disposiciones aplicables.
 
 2. También deberán obtener la correspondiente anuencia en el municipio del Estado en donde tendrá asiento su servicio, previo a la tramitación de la autorización y registro ante la Secretaría.
 
-3. Quienes se dediquen a la instalación y operación de alarmas y sistemas de vigilancia electrónica, requerirán únicamente realizar los trámites de autorización y registro ante las instancias estatal y municipal de que se trate.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+3. Quienes se dediquen a la instalación y operación de alarmas y sistemas de vigilancia electrónica, requerirán únicamente realizar los trámites de autorización y registro ante las instancias estatal y municipal competentes, y cumplir con las previsiones de esta ley, la Ley de Seguridad y la Ley de Coordinación, en lo que corresponda.
 
 ###### ARTÍCULO 5.
 
@@ -177,6 +191,10 @@ d) Coadyuvar con la Secretaría en la revisión y control de instalaciones, equi
 
 e) Las demás que le confiera esta ley, otras disposiciones legales o la Secretaría.
 
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+3. Tanto la Secretaría como el municipio, ante el cual se tramite la constancia de anuencia para registro, deberán asegurarse que el interesado cumplió previamente con las disposiciones de la Ley de Coordinación, referentes al registro de personal, vehículos y armamento, si fuera el caso; asimismo, que su personal se sometió a los exámenes del Centro Estatal de Evaluación y Confianza, en los términos de ley.
+
 ###### ARTÍCULO 10.
 
 1. Para obtener el registro o la autorización para prestar servicios privados de seguridad, o revalidación de esta última, en su caso, los prestadores deberán suscribir su petición y presentarla ante la Dirección General, precisando claramente la modalidad de servicio que se interesan en prestar, el ámbito territorial que pretendan abarcar y, además, el cumplimiento de los siguientes requisitos:
@@ -231,6 +249,10 @@ s) Los demás que se señalen en la Ley de Seguridad.
 
 7. En caso de que los solicitantes de la autorización o los prestadores a que se refiere el párrafo anterior trasgredan las disposiciones establecidas, se negará registro, la autorización o revalidación, según sea el caso, y se procederá a la imposición de las sanciones señaladas en ésta ley.
 
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+8. El cumplimiento de los requisitos previstos en el párrafo 1 de este articulo, así como la observancia de las demás previsiones que contiene el presente precepto, no exime de la obligación, como tampoco suple el cumplimiento que el interesado debe hacer de lo dispuesto en la Ley de Coordinación.
+
 ###### ARTÍCULO 11.
 
 Los prestadores del servicio de seguridad electrónica, además de lo anterior, deberán acreditar el cumplimiento de los siguientes requisitos de operación:
@@ -267,7 +289,9 @@ d) Investigaciones de aspecto comercial y financiero.
 
 1. Tratándose de prestadores del servicio de traslado y protección de personas, deberán comprobar que cuentan con la capacitación y adiestramiento necesarios para proporcionarlos.
 
-2. Los requisitos a que se refiere el presente artículo y los artículos 10, 11, y 13 de esta ley, serán acreditados a través de los medios idóneos que establezca la Secretaría.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+2. Los requisitos a que se refiere el presente artículo y los artículos 10, 11 y 13 de esta ley, serán acreditados a través de los medios idóneos que prevén las disposiciones legales de la materia, o en su caso, la Secretaría.
 
 ###### ARTÍCULO 15.
 
@@ -443,6 +467,10 @@ l) Contar con la preparación y conocimientos suficientes.
 
 4. Los requisitos previstos en el párrafo 1 de este artículo no serán obligatorios para los trabajadores que exclusivamente realicen labores de tipo administrativo para el prestador de servicios privados de seguridad.
 
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+5. Independientemente de lo anterior, los prestadores del servicio deberán acreditar las evaluaciones del control de confianza en términos de la Ley de Coordinación.
+
 ###### ARTÍCULO 36.
 
 1. Los prestadores a quienes se les haya otorgado el registro, la autorización o revalidación, cumplirán con las siguientes obligaciones:
@@ -457,17 +485,23 @@ III. La modificación a los permisos, autorizaciones o licencias que se hayan ex
 
 IV. Los cambios de domicilio, apertura de nuevos establecimientos, así como las modificaciones a las insignias, aditamentos, uniformes y gafetes o credenciales;
 
-b) Informar a la Secretaría, dentro de los primeros cinco días hábiles de cada mes, las altas del personal operativo, así como cualquier tipo de sanción o suspensión en el servicio con motivo de algún incumplimiento a los principios de actuación y desempeño que establece la Ley de Seguridad. Asimismo, informará de las bajas, señalando los motivos que ocasionaron éstas;
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+b) Informar a la Secretaría, dentro de los primeros cinco días hábiles de cada mes, las altas del personal operativo, así como cualquier tipo de sanción o suspensión en el servicio con motivo de algún incumplimiento a los principios de actuación y desempeño que establece la Ley de Seguridad. Asimismo, informará de las bajas, señalando los motivos que ocasionaron éstas. De todo lo anterior informara debidamente al Registro Nacional de Personal de Seguridad Pública;
 
 c) Inscribir al personal operativo al régimen obligatorio del Instituto Mexicano del Seguro Social;
 
-d) Solicitar a la Secretaría la autorización de las altas y bajas del equipo, en su caso, los aditamentos de protección que pretenda utilizar en la prestación del servicio, proporcionando sus características principales, incluso de aquellos que requieran de permisos, autorizaciones o licencias, cuyo otorgamiento sea competencia de otra autoridad;
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+d) Solicitar a la Secretaría la autorización de las altas y bajas del equipo, en su caso, los aditamentos de protección que pretenda utilizar en la prestación del servicio, proporcionando sus características principales, incluso de aquellos que requieran de permisos, autorizaciones o licencias, cuyo otorgamiento sea competencia de otra autoridad. Asimismo, dará cuenta de ello al Sistema Estatal de Información;
 
 e) La descripción de las armas de fuego asignadas a cada elemento operativo, dentro de los cinco días hábiles de efectuada la asignación, en su caso;
 
 f) Permitir y facilitar las visitas de inspección que realice el personal de la Secretaría o los municipios o, en su caso, de la Procuraduría, para verificar el cumplimiento de las disposiciones contenidas en la Ley de Seguridad y esta ley, así como entregar la información que les sea solicitada;
 
-g) Presentar al personal operativo cuando se le requiera, ante quien determine la Dirección General, para la obtención o actualización de datos de identificación, así como para la integración del Registro Estatal de Seguridad Pública;
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+g) Presentar al personal operativo cuando sea requerido por autoridad competente, para la obtención o actualización de datos de identificación, así como para la integración del Sistema Estatal de Información sobre Seguridad Publica;
 
 h) Llevar un registro de actividades, que contendrá:
 
@@ -485,11 +519,15 @@ i) Responder solidariamente de los daños y perjuicios que cause su personal al 
 
 j) Hacer constar el número de autorización y registro en su papelería, documentación, publicidad, gafetes o credenciales;
 
-k) Informar a la Unidad de Enlace Informático del Consejo Estatal de Seguridad Pública, las altas, bajas e incidencias del personal autorizado para prestar los servicios de seguridad pública dentro del término de cinco días naturales siguientes;
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+k) Informar al Sistema de Información, las altas, bajas e incidencias del personal autorizado para prestar los servicios privados de seguridad dentro del término de cinco días naturales siguientes;
 
 l) Notificar a la Secretaría el cambio del jefe de operación, dentro de los tres días naturales siguientes a que esto ocurra;
 
-m) Capacitar debidamente a toda persona que se pretenda incorporar como personal operativo, previamente a la realización de las funciones que le sean asignadas;
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+m) Capacitar debidamente a toda persona que se pretenda incorporar como personal operativo, previamente a la realización de las funciones que le sean asignadas, debiendo acreditar las evaluaciones en términos de la Ley de Coordinación;
 
 n) Capacitar permanentemente al personal operativo y jefe o jefes de operación, con base en los programas señalados en el inciso q) del párrafo 1 del artículo 10 de esta ley; y
 
@@ -531,15 +569,19 @@ j) Vigencia del gafete o credencial.
 
 2. Los casos de extravío o robo del gafete o credencial de identificación personal, se notificarán a la Secretaría dentro de los tres días naturales siguientes de conocido el robo o extravío, independientemente de participar lo ocurrido a cualquier otra autoridad competente que el caso amerite.
 
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 39.
 
-1. Los prestadores consultarán a la Secretaría las solicitudes de los sujetos que pretendan contratar como personal operativo, debiendo al efecto proporcionar el nombre del aspirante, su fecha y lugar de nacimiento, así como el nombre de sus padres.
+1. Los prestadores de servicios privados de seguridad consultarán al Sistema Estatal de Seguridad Publica las solicitudes de los aspirantes que pretendan contratar como personal operativo, debiendo proporcionar, al efecto, el nombre del aspirante, su fecha y lugar de nacimiento, así como el nombre de sus padres.
 
-2. Los prestadores no podrán contratar como elemento operativo a persona alguna cuya alta no le haya sido previamente autorizada por la Secretaría.
+2. Los prestadores no podrán contratar como elemento operativo, a persona alguna cuya acta no le haya sido previamente autorizada por el Sistema Estatal, en términos de la Ley de Coordinación.
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 40.
 
-Los prestadores y el personal de servicios privados de seguridad, deberán observar, en lo correspondiente, los principios de actuación y desempeño que esta ley establece.
+Los prestadores y el personal de servicios privados de seguridad, deberán observar, en lo correspondiente, los principios de actuación y desempeño que establece esta ley y la Ley de Coordinación. Al efecto, regirán su servicio con base en los principios de legalidad, objetividad, eficiencia, honradez y respeto a los derechos humanos reconocidos por el orden jurídico nacional.
 
 ###### ARTÍCULO 41.
 
@@ -549,9 +591,11 @@ Los prestadores y su personal están obligados a poner a disposición de la auto
 
 Los prestadores y el personal de servicios privados de seguridad, solicitarán la intervención de la autoridad cuando tengan conocimiento de hechos que constituyan la comisión de un delito, o cuando cuenten con pruebas que acrediten la probable responsabilidad penal de un individuo.
 
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 43.
 
-Los prestadores diseñarán e instrumentarán sus programas de capacitación y adiestramiento, a que se refiere el párrafo 1, inciso q) del artículo 10 de esta ley, sujetándose a los lineamientos y programas que establezca la Academia de Policía, acordes al tipo de servicio autorizado por la Secretaría, a efecto de que el personal operativo cuente con los conocimientos necesarios para el eficaz desempeño de su función.
+Los prestadores diseñarán e instrumentarán sus programas de capacitación y adiestramiento, a que se refiere el párrafo 1, inciso q) del articulo 10 de esta ley, sujetándose a los lineamientos y programas que establezca el Consejo Estatal de Seguridad Pública, acordes al tipo de servicio autorizado por la Secretaría, a efecto de que el personal operativo cuente con los conocimientos necesarios para el eficaz desempeño de su función.
 
 ###### ARTÍCULO 44.
 
@@ -593,9 +637,11 @@ Los uniformes, equipos, insignias, divisas o distintivos de los elementos de seg
 
 ### CAPÍTULO SEXTO. DE LA INSPECCIÓN
 
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 47.
 
-Las visitas de inspección que lleve a cabo la Dirección General a través del servidor público autorizado, tendrán por objeto la supervisión del personal de seguridad privada, la verificación, control y evaluación del funcionamiento de dichos servicios, además de las instalaciones, armamento, equipo de radiocomunicación, equipo de seguridad, vehículos, programas de capacitación y adiestramiento de los prestadores y la actualización permanente de su documentación, así como verificar el cumplimiento de las disposiciones de la Ley de Seguridad y esta ley.
+Las visitas de inspección que lleve a cabo la Dirección General a través del servidor público autorizado, tendrán por objeto la supervisión del personal de seguridad privada, la verificación, control y evaluación del funcionamiento de dichos servicios, además de las instalaciones, armamento, equipo de radiocomunicación, equipo de seguridad, vehículos, programas de capacitación y adiestramiento de los prestadores y la actualización permanente de su documentación, así como verificar el cumplimiento de las disposiciones de la Ley de Seguridad, la Ley de Coordinación, y esta ley.
 
 ###### ARTÍCULO 48.
 
@@ -719,9 +765,17 @@ a) Reincida en cualquiera de los casos señalados en los artículos 55 y 56 inci
 
 b) Cuando habiéndose suspendido temporalmente su registro, no cumpla, dentro del plazo señalado, con la obligación que se hubiera impuesto;
 
-c) Transfiera la autorización y registro respectivo; o
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
-d) Cuando incumpla lo dispuesto en el artículo 45 párrafo 1 incisos a) y g), de esta ley.
+c) Transfiera la autorización y registro respectivo;
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+d) Cuando incumpla lo dispuesto en el articulo 45 párrafo 1 inciso a) y g), de esta ley; o
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+e) Cuando incumpla las disposiciones de la Ley de Coordinación.
 
 2. En los casos a que se refieren los incisos b), c) y d) del párrafo 1 de este artículo, además de la cancelación del registro se impondrá al infractor multa hasta por el equivalente a cinco mil veces el salario mínimo general vigente en la capital del Estado de Tamaulipas.
 
@@ -739,7 +793,9 @@ La Secretaría procederá a poner sellos de clausura al establecimiento, cuando 
 
 ###### ARTÍCULO 61.
 
-Las sanciones por incumplimiento a la Ley de Seguridad y a esta ley, serán impuestas tomando en cuenta:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+Las sanciones por incumplimiento a la Ley de Seguridad, la Ley de Coordinación y esta ley, serán impuestas tomando en cuenta:
 
 a) Las actas de inspección realizadas por el servidor público autorizado, de las que se derive que el visitado no haya cumplido con alguna de las obligaciones señaladas en la Ley de Seguridad o esta ley; y
 
@@ -1070,3 +1126,15 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del Estado de Tamaulipas, a los veintiocho días del mes de septiembre del año dos mil siete.
 
 ATENTAMENTE.- SUFRAGIO EFECTIVO. NO REELECCIÓN.- GOBERNADOR CONSTITUCIONAL DEL ESTADO.- EUGENIO HERNÁNDEZ FLORES.- Rúbrica.- SECRETARIO GENERAL DE GOBIERNO.- ANTONIO MARTÍNEZ TORRES.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 16 DE DICIEMBRE DE 2010.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+El cumplimiento de la obligación de efectuar el registro de personal, bienes y armamento, así como las previsiones referentes a evaluación y control de confianza se desarrollarán en los plazos y términos que disponga el Consejo Estatal de Seguridad Pública.
