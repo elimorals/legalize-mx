@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-educacion-para-el-estado-de-tamaulipas-16101"
 country: "mx"
 rank: "ley"
 publication_date: "1999-10-23"
-last_updated: "2010-11-02"
+last_updated: "2010-12-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE EDUCACION PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE NOVIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el sábado 23 de octubre de 1999.
 
@@ -125,7 +125,9 @@ VI.- Infundir el conocimiento y la práctica de la democracia como forma de conv
 
 VII.- Promover los valores de justicia, libertad, igualdad, de observancia de la Ley y el conocimiento y respeto de los derechos humanos; asimismo, difundir en las escuelas el contenido de la Constitución Política de los Estados Unidos Mexicanos y de la Constitución Política del Estado de Tamaulipas;
 
-VIII.- Fomentar una conciencia de respeto a los derechos fundamentales de la persona y la sociedad, como medio de conservar la paz y la convivencia, respetando la pluralidad de ideas y opiniones;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+VIII.- Fomentar una conciencia de respeto a los derechos fundamentales de la persona y la sociedad, como medio de conservar la paz, la armonía y la sana convivencia, respetando la pluralidad de ideas y opiniones;
 
 IX.- Fomentar actitudes que estimulen la investigación y la innovación científicas y tecnológicas;
 
@@ -145,23 +147,33 @@ XV.- Fomentar el respeto a los derechos de la mujer y propiciar su pleno desarro
 
 XVI.- Promover el respeto a los derechos del niño, de las personas de la tercera edad y del discapacitado;
 
-XVII.- Desarrollar las actitudes de rechazo a la violencia y privilegiar la paz como valor sustancial para el desarrollo armónico de los pueblos;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+XVII.- Desarrollar las actitudes y programas escolares de rechazo a la violencia entre estudiantes, privilegiar la paz, la dignidad humana y la tolerancia como valores sustanciales para el desarrollo armónico de los pueblos;
 
 XVIII.- Promover la participación del individuo en actividades culturales, ecológicas y políticas de la sociedad en que vive, tendientes a lograr la erradicación de las desigualdades sociales y a contribuir a la construcción y desarrollo de una sociedad con mejores condiciones de vida;
 
 XIX.- Favorecer que la educación se oriente hacia la formación de la libertad responsable, para que el educando pueda discernir y optar por los valores, conocimientos, habilidades, aptitudes y actitudes en relación con el bienestar social e individual, de una manera inteligente y ética, con justicia, pertinencia, disciplina y autonomía;
 
-> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
 XX.- Fortalecer todos los aspectos de la formación en los que se alcance el conocimiento y la valoración de la persona, su naturaleza y sus fines, y todo lo que para ella valga, como lo es la historia, la economía, la política, lo social, el arte, la ciencia y la tecnología, de manera permanente;
 
-> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
-XXI.- Alentar la participación reflexiva del educando y propiciar oportunidades para el compromiso con el desarrollo de actitudes y acciones éticas; y
+XXI.- Alentar la participación reflexiva del educando y propiciar oportunidades para el compromiso con el desarrollo de actitudes y acciones éticas;
 
 > <small>(ADICIONADA, P.O. 2 DE NOVIEMBRE DE 2010)</small>
 
 XXII.- Impulsar, en coordinación con la Secretaría de Turismo, la realización de viajes de carácter recreativo que permitan la identificación del individuo con los aspectos fundamentales de nuestra cultura en el Estado y la importancia que reviste la naturaleza, para fomentar el cuidado de las áreas naturales protegidas, la pertenencia y el respeto.
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+XXIII.- Implementar programas permanentes para erradicar el maltrato físico, psicológico y verbal entre estudiantes; y
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+XXIV.- Promover la participación de debates y expresión de las ideas en forma pacífica y respetuosa entre los alumnos.
 
 ###### ARTICULO 9°.
 
@@ -171,7 +183,9 @@ I.- Será democrático, considerando a la democracia como una estructura jurídi
 
 II.- Será nacional, en cuanto atenderá a la comprensión de nuestros problemas, al aprovechamiento de nuestros recursos, a la defensa de nuestra independencia política, al aseguramiento de nuestra independencia económica, y a la continuidad y acrecentamiento de nuestra cultura; y
 
-III.- Contribuirá a la mejor convivencia humana, tanto por los elementos que aporte a fin de robustecer en el educando, junto con el aprecio por la dignidad de la persona y la integridad de la familia, la convicción del interés general de la sociedad, cuanto por el cuidado que ponga en sustentar los ideales de fraternidad e igualdad de derechos de todos los hombres, evitando los privilegios de razas, de religión, de grupos, de sexos o de individuos.
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+III.- Contribuirá a la mejor convivencia humana, tanto por los elementos que aporte a fin de robustecer en el educando, junto con el aprecio para la dignidad de la persona y la integridad de la familia, la convicción del interés general de la sociedad, cuanto por el cuidado que ponga en sustentar los ideales de fraternidad e igualdad de derechos de todos los hombres, evitando los privilegios y la discriminación de razas, de religión, de grupos, de sexos o de individuos. Asimismo, se promoverá una cultura de paz, libre de cualquier forma de maltrato dentro y fuera de las aulas.
 
 ###### ARTICULO 10.
 
@@ -365,9 +379,17 @@ I.- Hacer que sus hijos o pupilos menores de edad, reciban la educación preesco
 
 II.- Participar en el programa escuela para padres, para dar mayor atención a sus hijos;
 
-III.- Colaborar con las instituciones educativas en las que estén inscritos sus hijos o pupilos, en las actividades que dichas instituciones realicen; y
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
-IV.- Fomentar en sus hijos o pupilos los valores cívicos y el aprecio por las tradiciones culturales y artísticas de nuestra Entidad.
+III.- Colaborar con las instituciones educativas en las que estén inscritos sus hijos o pupilos, en las actividades que dichas instituciones realicen;
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+IV.- Fomentar en sus hijos o pupilos los valores cívicos y el aprecio por las tradiciones culturales y artísticas de nuestra Entidad; y
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+V.- Propiciar un ambiente sin violencia en el núcleo familiar, privilegiando las conductas adecuadas y necesarias para poder convivir en sociedad.
 
 #### SECCION SEGUNDA. DE LOS EDUCANDOS
 
@@ -715,9 +737,11 @@ Para tales efectos la Secretaría propondrá a la SEP los contenidos regionales 
 
 Los planes y programas que la SEP determine, así como sus modificaciones, deberán publicarse en el Periódico Oficial del Estado.
 
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 61.
 
-El proceso educativo se basará en los principios de soberanía, libertad, responsabilidad, democracia y justicia social, que aseguren la armonía de relaciones entre educandos y educadores y que promueva el trabajo en equipo para asegurar la comunicación y el diálogo entre educandos, educadores, padres de familia e instituciones públicas y privadas.
+El proceso educativo se basará en los principios de soberanía, libertad, responsabilidad, democracia y justicia social, que aseguren la sana convivencia basada en el respeto e igualdad, la armonía exenta de violencia entre educandos y educadores, que promueva el trabajo en equipo para asegurar la comunicación y el diálogo entre alumnos, docentes, padres de familia e instituciones públicas y privadas.
 
 ###### ARTICULO 62.
 
@@ -881,9 +905,25 @@ IX.- Fomentarán la creación y desarrollo de asociaciones civiles y organizacio
 
 X.- Promoverán mayor participación de la sociedad en la educación, así como el apoyo de los particulares al financiamiento y a las actividades a que se refiere este Capítulo;
 
-XI.- Concederán reconocimientos y distinciones a quienes contribuyan a la consecución de los propósitos mencionados en el Artículo anterior; y
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
-XII.- Realizarán las demás actividades que permitan ampliar la calidad y cobertura de los servicios educativos, y alcanzar los propósitos mencionados en el Artículo anterior.
+XI.- Concederán reconocimientos y distinciones a quienes contribuyan a la consecución de los propósitos mencionados en el artículo anterior;
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+XII.- Realizarán las demás actividades que permitan ampliar la calidad y cobertura de los servicios educativos, y alcanzar los propósitos mencionados en el artículo anterior. El Estado y los Municipios también llevarán a cabo programas asistenciales, ayudas alimenticias, campañas de salubridad, de cuidado al medio ambiente y el desarrollo sustentable y demás medidas tendientes a contrarrestar las condiciones sociales que inciden en la efectiva igualdad de oportunidades de acceso y permanencia en los servicios educativos;
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+XIII.- Implementarán mecanismos inquebrantables, enfocados a prevenir, atender y erradicar los casos de acoso u hostigamiento privilegiando las condiciones de igualdad entre estudiantes;
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+XIV.- Evitaran la discriminación en cualquiera de sus modalidades; y
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+XV.- Capacitarán a los docentes y demás autoridades escolares sobre la forma de detectar y evitar las conductas de acoso u hostigamiento, en las instituciones educativas que dañen la equidad.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
