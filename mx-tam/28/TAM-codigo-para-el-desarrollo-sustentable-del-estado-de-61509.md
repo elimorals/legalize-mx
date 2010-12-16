@@ -4,7 +4,7 @@ identifier: "TAM-codigo-para-el-desarrollo-sustentable-del-estado-de-61509"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-06-05"
-last_updated: "2010-01-07"
+last_updated: "2010-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE ENERO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE DICIEMBRE DE 2010.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el jueves 5 de junio de 2008.
 
@@ -1459,7 +1459,9 @@ VIII. Aplicar las medidas preventivas necesarias para evitar contingencias ambie
 
 IX. Elaborar los informes sobre el estado del medio ambiente en la entidad o municipio correspondiente, estos últimos conforme a los acuerdos de coordinación que celebren;
 
-X. Imponer sanciones y medidas por infracciones a este Libro y demás disposiciones aplicables;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+X. Establecer e imponer sanciones y medidas por infracciones a este Libro y demás disposiciones aplicables;
 
 XI. Formular y aplicar programas de gestión de calidad del aire, de conformidad con las Normas Oficiales Mexicanas y las Normas Ambientales Estatales en la materia; y
 
@@ -3963,7 +3965,9 @@ a) No presente información solicitada por autoridad competente en materia ambie
 
 b) Incumpla con la presentación en tiempo y forma de la cédula de operación anual.
 
-II. Multa equivalente de 20 a 100 días de salario mínimo vigente en la capital del Estado a quien:
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+II.- Multa equivalente de 10 a 100 días de salario mínimo vigente en la capital del Estado a quien:
 
 a) Incumpla las medidas de ahorro de agua potable;
 
@@ -4264,3 +4268,17 @@ P.O. 7 DE ENERO DE 2010.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE DICIEMBRE DE 2010.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+###### ARTICULO TERCERO.
+
+Los Ayuntamientos en los que se instalen Centros de Verificación de contaminantes por fuentes móviles o en los que funcionen las unidades móviles de verificación, deberán coordinarse con la Agencia Ambiental para el Desarrollo Sustentable, a efecto de celebrar los actos jurídicos que se requieran para la exacta observancia de las disposiciones relativas a la verificación vehicular de contaminantes. Asimismo, deberán adecuar sus propias determinaciones legales que incidan en la materia para ejercer las acciones de autoridad que privilegien el cumplimiento de las normas protectoras del medio ambiente, incluidas aquellas que versen sobre la recaudación de derechos por ese concepto.
