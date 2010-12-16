@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-hacienda-para-el-estado-de-tamaulipas-59131"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2010-11-09"
+last_updated: "2010-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59131&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE NOVIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Anexo al Extraordinario No. 5 del Periódico Oficial del Estado de Tamaulipas, el lunes 31 de diciembre de 2007.
 
@@ -31,15 +31,15 @@ EUGENIO HERNANDEZ FLORES, Gobernador Constitucional del Estado Libre y Soberano 
 
 Al margen un sello que dice:- "Estados Unidos Mexicanos.- Gobierno de Tamaulipas.- Poder Legislativo.
 
-LA QUINCUAGESIMA NOVENA LEGISLATURA DEL CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE TAMAULlPAS, EN USO DE LAS FACULTADES QUE LE CONFIEREN LOS ARTICULOS 58 FRACCION I DE LA CONSTITUCION POLlTICA LOCAL; y 119 DE LA LEY SOBRE LA ORGANIZACION Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO DE TAMAULlPAS, TIENE A BIEN EXPEDIR EL SIGUIENTE:
+LA QUINCUAGESIMA NOVENA LEGISLATURA DEL CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS, EN USO DE LAS FACULTADES QUE LE CONFIEREN LOS ARTICULOS 58 FRACCION I DE LA CONSTITUCION POLITICA LOCAL; y 119 DE LA LEY SOBRE LA ORGANIZACION Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO DE TAMAULIPAS, TIENE A BIEN EXPEDIR EL SIGUIENTE:
 
-DE C R E T O No. LlX-1090
+DE C R E T O No. LIX-1090
 
-MEDIANTE EL CUAL SE EXPIDE LA LEY DE HACIENDA PARA EL ESTADO DE TAMAULlPAS.
+MEDIANTE EL CUAL SE EXPIDE LA LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS.
 
 ## TITULO I. DISPOSICIONES GENERALES
 
-### CAPITULO I. DEL AMBITO DE APLlCACION DE LA LEY
+### CAPITULO I. DEL AMBITO DE APLICACION DE LA LEY
 
 ###### Artículo 1.
 
@@ -427,7 +427,7 @@ El objeto de este impuesto es la prestación de servicios de hospedaje, el otorg
 
 Para efecto de este impuesto, se entenderá como servicios de hospedaje, además de los citados en el artículo anterior los siguientes:
 
-I. La prestación de servicios, bajo el sistema de tiempo compartido o de cualquier otra denominación, mediante el que se conceda el uso o goce y demás derechos que se convengan sobre un bien o parte del mismo, ya sea una unidad cierta, considerada en lo individual, o una unidad variable dentro de una clase determinada, durante un período específico, a intérvalos determinados o determinables;
+I. La prestación de servicios, bajo el sistema de tiempo compartido o de cualquier otra denominación, mediante el que se conceda el uso o goce y demás derechos que se convengan sobre un bien o parte del mismo, ya sea una unidad cierta, considerada en lo individual, o una unidad variable dentro de una clase determinada, durante un período específico, a intervalos determinados o determinables;
 
 II. La prestación de servicios de paraderos de casas rodantes, móviles o autotransportables, mediante los que se otorgue el espacio e instalaciones para el establecimiento temporal de estas; y
 
@@ -1333,11 +1333,9 @@ Por cada 5 días hábiles de retraso, la pequeña, mediana y gran empresa pagar�
 
 Por la entrega extemporánea de la Cédula de Operación Anual, se pagará un día de salario mínimo por cada día hábil de retraso. Las empresas que inicien operaciones durante el año calendario y quieran obtener el Registro Estatal Ambiental después de la fecha límite de entrega, solo efectuarán el pago por inscripción.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
-> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2008)</small>
-
-XII. Por el otorgamiento de licencia, autorización o concesión para el establecimiento y funcionamiento de un centro de verificación de la emisión de contaminantes atmosféricos generados por fuentes móviles, mil días de salario mínimo por centro de verificación.
+XII. Por el otorgamiento de licencia, autorización o concesión para el establecimiento y funcionamiento de un centro de verificación de contaminantes atmosféricos generados por fuentes móviles, así como por cada unidad móvil, mil días de salario mínimo, según se trate. Dicho cobro se realizará anualmente durante la vigencia de la licencia, autorización o concesión otorgada.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -1349,9 +1347,17 @@ XIII. Por los servicios de verificación vehicular de medición de los niveles d
 
 2. Por vehículos de transporte público a gas o gasolina, cinco días de salario mínimo;
 
-3. Por vehículos particulares a diesel, seis días de salario mínimo; y
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
-4. Por vehículos de transporte público a diesel, siete días de salario mínimo.
+3. Por los vehículos particulares a diesel, seis días de salario mínimo;
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+4. Por vehículos de transporte público a diesel, siete días de salario mínimo; y
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+5. Por la expedición del holograma correspondiente, hasta tres días de salario mínimo.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -1679,7 +1685,7 @@ El presente decreto entrará en vigor el día siguiente al de su publicación en
 
 Se abroga la Ley de Hacienda para el Estado de Tamaulipas, expedida mediante Decreto 220 del 23 de diciembre de 1976 y publicada en el Periódico Oficial Extraordinario número 106, de fecha 29 de diciembre de 1976, así como sus subsecuentes reformas.
 
-SALON DE SESIONES DEL H. CONGRESO DEL ESTADO.- Cd. Victoria, Tam., a 3 de diciembre del año 2007.- DIPUTADO PRESIDENTE.- JESUS EVERARDO VILLARREAL SALlNAS.- Rúbrica.- DIPUTADA SECRETARIA.- AIDA ARACELI ACUÑA CRUZ.- Rúbrica.-
+SALON DE SESIONES DEL H. CONGRESO DEL ESTADO.- Cd. Victoria, Tam., a 3 de diciembre del año 2007.- DIPUTADO PRESIDENTE.- JESUS EVERARDO VILLARREAL SALINAS.- Rúbrica.- DIPUTADA SECRETARIA.- AIDA ARACELI ACUÑA CRUZ.- Rúbrica.-
 
 DIPUTADO SECRETARIO.- FERNANDO ALEJANDRO FERNANDEZ DE LEON.- Rúbrica.
 
@@ -1687,7 +1693,7 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 
 Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del Estado de Tamaulipas, a los siete días del mes de diciembre del año dos mil siete.
 
-ATENTAMENTE.- SUFRAGIO EFECTIVO. NO REELECCION.- GOBERNADOR CONSTITUCIONAL DEL ESTADO.- EUGENIO HERNANDEZ FLORES.- Rúbrica.- SECRETARIO GENERAL DE GOBIERNO.- ANTONIO MARTlNEZ TORRES.- Rúbrica.
+ATENTAMENTE.- SUFRAGIO EFECTIVO. NO REELECCION.- GOBERNADOR CONSTITUCIONAL DEL ESTADO.- EUGENIO HERNANDEZ FLORES.- Rúbrica.- SECRETARIO GENERAL DE GOBIERNO.- ANTONIO MARTINEZ TORRES.- Rúbrica.
 
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
@@ -1731,30 +1737,16 @@ P.O. 9 DE NOVIEMBRE DE 2010.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
+P.O. 16 DE DICIEMBRE DE 2010.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
 ###### ARTICULO TERCERO.
 
-Solo para los efectos de lo dispuesto en este artículo, la substanciación y resolución de los juicios que estén pendientes de resolución a la fecha de inicio de la vigencia de esta Ley, cualquiera que sea su etapa procesal, continuarán tramitándose conforme a las previsiones de la Ley Orgánica del Tribunal de lo Contencioso Administrativo y el Código Procesal del Tribunal de lo Contencioso Administrativo que se abrogan en virtud de esta Ley.
-
-Por lo tanto envíese al Ejecutivo para su promulgación y publicación en el Periódico Oficial del Estado.
-
-Dado en el Salón de Sesiones del H. Congreso del Estado Libre y Soberano de Nuevo León, en Monterrey, su Capital a los veintidós días del mes de Enero de mil novecientos noventa y siete.- PRESIDENTE: DIP. ARMANDO LEAL RIOS.- DIP. SECRETARIO: JUAN DE D. ESPARZA MARTINEZ.- DIP. SECRETARIO: HERIBERTO CANO QUINTANILLA.- Rúbricas.
-
-Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento. Dado en el Despacho del Poder Ejecutivo del Estado de Nuevo León, en Monterrey, su Capital, a los siete días del mes de Febrero de mil novecientos noventa y siete.
-
-EL C. GOBERNADOR SUBSTITUTO DEL ESTADO
-
-BENJAMIN CLARIOND REYES-RETANA
-
-EL C. SECRETARIO GENERAL DE GOBIERNO
-
-JUAN FRANCISCO RIVERA BEDOYA
-
-El C. SECRETARIO DE FINANZAS Y TESORERO GENERAL DEL ESTADO
-
-XAVIER DORIA GONZALEZ
-
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
-
-P.O. 10 DE SEPTIEMBRE DE 2003.
-
-Artículo Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+Los Ayuntamientos en los que se instalen Centros de Verificación de contaminantes por fuentes móviles o en los que funcionen las unidades móviles de verificación, deberán coordinarse con la Agencia Ambiental para el Desarrollo Sustentable, a efecto de celebrar los actos jurídicos que se requieran para la exacta observancia de las disposiciones relativas a la verificación vehicular de contaminantes. Asimismo, deberán adecuar sus propias determinaciones legales que incidan en la materia para ejercer las acciones de autoridad que privilegien el cumplimiento de las normas protectoras del medio ambiente, incluidas aquéllas que versen sobre la recaudación de derechos por ese concepto.
