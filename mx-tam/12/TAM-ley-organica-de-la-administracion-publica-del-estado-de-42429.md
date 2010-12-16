@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-de-la-administracion-publica-del-estado-de-42429"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-12-21"
-last_updated: "2010-10-26"
+last_updated: "2010-12-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42429&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE OCTUBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el martes 21 de diciembre de 2004.
 
@@ -893,19 +893,31 @@ XXXV. Las demás que le señalen las leyes, reglamentos y otras disposiciones ju
 
 A la Secretaría de Seguridad Pública, además de las atribuciones que le confieren las leyes aplicables, le corresponde el despacho de los siguientes asuntos:
 
-I. Desarrollar las políticas de seguridad pública y proponer en el ámbito estatal los criterios para prevenir eficazmente la comisión de delitos, mediante la adopción de normas, acciones, estrategias y tácticas, así como la conjunción de los recursos a disposición del Ejecutivo del Estado;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
-II. Diseñar y ejecutar programas para fomentar la cultura de legalidad;
+I. Dar cumplimiento a las políticas de seguridad pública que establezca el Consejo Estatal de Seguridad Pública. En su caso, propondrá al Consejo los criterios para prevenir eficazmente la comisión de delitos, mediante la adopción de normas, acciones, estrategias y tácticas, así como la conjunción de los recursos a disposición del Ejecutivo del Estado;
 
-III. Proponer al Gobernador del Estado las medidas que garanticen la congruencia de la política de prevención eficaz de los delitos entre las dependencias de la administración pública;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
-IV. Participar en representación del Gobierno del Estado en el Sistema Nacional de Seguridad Pública;
+II. Diseñar y ejecutar programas para fomentar la cultura de legalidad, previa aprobación del Consejo Estatal de Seguridad Pública;
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+III. Proponer al Consejo Estatal de Seguridad Pública las medidas que garanticen la congruencia de la política de prevención eficaz de los delitos entre las dependencias de la administración pública;
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+IV. Participar en representación del Gobierno del Estado en el Sistema Nacional de Seguridad Pública, siempre que al efecto lo instruya el titular del Ejecutivo Estatal;
 
 V. Participar, conforme a lo establecido en la ley de la materia, en el Consejo Estatal de Seguridad Pública;
 
-VI. Proponer políticas, acciones y estrategias de coordinación estatal en materia de prevención del delito, al tiempo de alentar la coordinación regional en la materia;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
-VII. Fomentar la participación ciudadana en la elaboración de planes y programas de prevención del delito;
+VI. Proponer al Consejo Estatal de Seguridad Pública las políticas, acciones y estrategias de coordinación estatal en materia de prevención del delito, al tiempo de alentar la coordinación regional en la materia;
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+VII. Fomentar la participación ciudadana en la elaboración de planes y programas de prevención del delito, con base en la estrategia aprobada por el Consejo Estatal de Seguridad Pública;
 
 VIII. Promover y facilitar la participación social para el desarrollo de actividades de vigilancia sobre el ejercicio de sus atribuciones;
 
@@ -913,7 +925,9 @@ IX. Atender las denuncias y quejas ciudadanas relacionadas con el ejercicio de s
 
 X. Organizar, dirigir, administrar y supervisar la policía estatal preventiva, así como aplicar el régimen disciplinario de dicha corporación;
 
-XI. Recopilar y mantener al corriente la información sobre los atributos personales, académicos y técnicos de los cuerpos de seguridad pública y de los servidores públicos ministeriales;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+XI. Recopilar y mantener al corriente la información sobre los atributos personales, académicos y técnicos de los cuerpos de seguridad pública y de los servidores públicos ministeriales y suministrarlos oportunamente a la base de datos del Sistema Estatal de Información;
 
 XII. Salvaguardar la integridad y el patrimonio de las personas, prevenir la comisión de delitos del fuero común y preservar las libertades públicas, el orden y la paz social;
 
@@ -921,23 +935,33 @@ XIII. Establecer un sistema destinado a obtener, analizar, estudiar y procesar i
 
 XIV. Elaborar y difundir estudios multidisciplinarios y estadísticas sobre el fenómeno delictivo;
 
-XV. Efectuar, en coordinación con la Procuraduría General de Justicia, estudios sobre actos delictivos no denunciados para incorporar este elemento en el diseño de las políticas de prevención de los ilícitos penales;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
-XVI. Determinar y aplicar las normas y políticas de ingreso, capacitación, desarrollo y disciplina del personal responsable de funciones de seguridad pública, de acuerdo con las leyes y reglamentos vigentes;
+XV. Efectuar, en coordinación con la Procuraduría General de Justicia, estudios sobre actos delictivos no denunciados para incorporar este elemento en el diseño de las políticas de prevención de los ilícitos penales, proponiéndolos en su oportunidad al Consejo Estatal de Seguridad Pública;
 
-XVII. Organizar, dirigir y administrar el servicio civil de carrera de la policía estatal preventiva;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+XVI. Dar cumplimiento a las normas y políticas de ingreso, capacitación, desarrollo y disciplina del personal responsable de funciones de seguridad pública, de acuerdo con las leyes y reglamentos vigentes;
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+XVII. Organizar, dirigir y administrar el servicio civil de carrera de las instituciones policiales a su cargo, atendiendo la directriz de las instancias del Consejo Estatal de Seguridad Pública;
 
 XVIII. Otorgar autorización a empresas que presten servicios privados de seguridad, cuando los mismos se realicen exclusivamente en el territorio del Estado, así como supervisar su funcionamiento;
 
 XIX. Promover la celebración de convenios de colaboración con autoridades federales, de otras entidades federativas o municipales del Estado para el cumplimiento de sus atribuciones;
 
-XX. Colaborar, dentro del Sistema Nacional de Seguridad Pública y a requerimiento de autoridades federales competentes, de otras entidades federativas o municipales del Estado, en la protección de la integridad física de las personas y en la preservación de sus bienes, cuando se vean amenazadas por situaciones de peligro que generen disturbios, violencia o riesgo inminente;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+XX. Colaborar, dentro del Sistema Nacional de Seguridad Pública y a requerimiento de autoridades federales competentes, de otras entidades federativas, del Consejo Estatal de Seguridad Pública o de las autoridades municipales del Estado, en la protección de la integridad física de las personas y en la preservación de sus bienes, cuando se vean amenazadas por situaciones de peligro que generen disturbios, violencia o riesgo inminente;
 
 XXI. Auxiliar a los Poderes Legislativo y Judicial del Estado y a la Procuraduría General de Justicia, cuando así lo requieran para el debido ejercicio de sus funciones;
 
 XXII. Ejecutar las penas por delitos del orden común y administrar el sistema penitenciario del Estado, así como organizar y dirigir las actividades de apoyo a liberados;
 
-XXIII. Implementar, dirigir y ejecutar los programas de readaptación social de los infractores de la ley penal y administrar los Centros de Readaptación Social del Estado;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+XXIII. Implementar, dirigir y ejecutar los programas de readaptación social de los infractores de la ley penal y administrar los Centros de Ejecución de Sanciones del Estado;
 
 XXIV. Tramitar, por Acuerdo del Gobernador, las solicitudes de libertad anticipada y traslado de internos;
 
@@ -971,7 +995,9 @@ I. Ser Consejero Jurídico del Gobernador del Estado y representante legal en lo
 
 II. Promover la exacta observancia y respeto de las libertades y derechos fundamentales de los individuos;
 
-III. Procurar el cumplimiento a las normas jurídicas por parte de las dependencias y entidades y, en su caso, proponer al titular del Ejecutivo las medidas pertinentes para tal fin;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+III. Procurar el cumplimiento a las normas jurídicas por parte de las dependencias y entidades y, en su caso, proponer al titular del Ejecutivo las medidas pertinentes para tal fin. Asimismo, dar cumplimiento a las determinaciones que adopte el Consejo Estatal de Seguridad Pública;
 
 IV. Contribuir al cumplimiento y aplicación de la Ley de Responsabilidades de los Servidores Públicos del Estado, en coordinación con la Contraloría Gubernamental;
 
@@ -987,17 +1013,21 @@ IX. Dirigir y coordinar las actividades de la Policía Ministerial del Estado;
 
 X. Designar y remover, por acuerdo del Gobernador, a los Agentes del Ministerio Público y cambiarlos libremente de adscripción, según convenga al mejor servicio;
 
-XI. Coadyuvar con la Secretaría de Seguridad Pública en la elaboración de programas que tiendan a prevenir la delincuencia;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
-XII. Llevar, en coordinación con la Secretaría de Seguridad Pública, la estadística e identificación delincuencial del Estado;
+XI. Coadyuvar con las instancias encargadas de la seguridad pública en la elaboración de programas que tiendan a prevenir la delincuencia, dando cuenta de ello al Consejo Estatal de Seguridad Pública;
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+XII. Llevar, en coordinación con la Secretaría de Seguridad Pública, la estadística e identificación delincuencial del Estado, informando de inmediato a las dependencias competentes del Consejo Estatal de Seguridad Pública;
 
 XIII. Asesorar a los Municipios en el ejercicio de acciones patrimoniales y de todo orden, cuando así lo soliciten;
 
 XIV. Organizar, dirigir y administrar un servicio para la atención a las víctimas del delito y celebrar acuerdos de colaboración con instituciones federales, de otras Entidades Federativas o municipales del Estado, así como con el sector privado;
 
-> <small>(REFORMADA, P.O. 15 DE ENERO DE 2008)</small>
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
-XV. Formular y desarrollar programas de capacitación para el personal de la dependencia;
+XV. Formular y desarrollar programas de capacitación para el personal de la dependencia, previa aprobación del Consejo Estatal de Seguridad Pública;
 
 > <small>(REFORMADA, P.O. 15 DE ENERO DE 2008)</small>
 
@@ -1348,3 +1378,13 @@ P.O. 26 DE OCTUBRE DE 2010.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE DICIEMBRE DE 2010.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+El personal que se encuentre comprendido en el párrafo 9 del inciso g) del apartado A del artículo 4° de la Ley del Trabajo de los Servidores Públicos del Estado de Tamaulipas será objeto de los procesos de evaluación y control de confianza que determine el Consejo Estatal de Seguridad Pública. Quienes a la fecha de entrada en vigor de este Decreto tengan un nombramiento de base podrán solicitar su reubicación a un área no vinculada a la organización y funcionamiento de las instituciones policiales y de procuración de justicia. Al personal que hubiere tenido nombramiento de base y continúe al servicio de las instituciones policiales y de procuración de justicia, les serán reconocidas su antigüedad y demás derechos generados para efectos de jubilación y pensión.
