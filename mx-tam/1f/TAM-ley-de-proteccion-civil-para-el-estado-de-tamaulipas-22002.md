@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-proteccion-civil-para-el-estado-de-tamaulipas-22002"
 country: "mx"
 rank: "ley"
 publication_date: "2001-06-05"
-last_updated: "2008-12-23"
+last_updated: "2010-12-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22002&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE PROTECCION CIVIL PARA EL ESTADO DE TAMAULIPAS.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 5 de junio de 2001.
 
@@ -46,6 +46,10 @@ LEY DE PROTECCION CIVIL PARA EL ESTADO DE TAMAULIPAS.
 ###### ARTICULO 1°.
 
 La presente ley es de orden público e interés social, y tiene por objeto regular las acciones que en materia de protección civil se lleven a cabo en el Estado de Tamaulipas, siendo su observancia de carácter obligatorio para las autoridades, organismos, dependencias e instituciones de carácter público, social o privado, grupos voluntarios y, en general, para todas las personas que por cualquier motivo residan, habiten o transiten en la Entidad.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+Cuando en la presente ley se haga referencia a las palabras "Ley o Reglamento", se referirá a la Ley de Protección Civil para el Estado de Tamaulipas o a su propio Reglamento, según corresponda.
 
 ###### ARTICULO 2°.
 
@@ -177,9 +181,11 @@ Las autoridades estatales y municipales, promoverán la creación de órganos es
 
 Es obligación de todas las Dependencias y Entidades de la Administración Pública del Estado y de los Municipios, así como de cualquier persona que resida o transite en la Entidad, el cooperar de manera coordinada con las autoridades competentes, en la consecución de la protección civil. Las autoridades que no proporcionen la cooperación y las facilidades a las unidades y personal de protección civil, incurrirán en las responsabilidades que fije la ley en la materia.
 
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 8°.
 
-En el Presupuesto de Egresos del Estado y en el de los Municipios, se contemplarán las partidas que se estimen necesarias para el cumplimiento de las acciones que se establecen en la presente ley y las que se deriven de su aplicación, mismas que no podrán ser reducidas en ningún caso y por ningún motivo, en el período para el que fueron asignadas.
+El Gobierno del Estado y el de los Municipios contemplarán dentro de sus respectivos, Presupuestos de Egresos, las partidas necesarias para el cumplimiento de las funciones y acciones que se establecen en la presente ley. Dichas Partidas no podrán ser reducidas o transferidas a otras acciones de Gobierno.
 
 ### CAPITULO II. DEL SISTEMA ESTATAL DE PROTECCIÓN CIVIL
 
@@ -413,13 +419,17 @@ XIV.- Los demás que les confieran las leyes, sus reglamentos, el Consejo, su Pr
 
 ### CAPITULO IV. DEL CENTRO ESTATAL DE OPERACIONES
 
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 22.
 
-Cuando se presente un alto riesgo, emergencia o desastre en el Estado, el Consejo de Protección Civil del Estado de Tamaulipas, se erigirá, previa convocatoria de su Presidente o, en su ausencia, del Secretario Ejecutivo, en Centro Estatal de Operaciones, al que se podrán integrar los responsables de las Dependencias de la Administración Pública Estatal, Municipal y, en su caso, de las Federales que se encuentren establecidas en la Entidad, así como representantes de los sectores social y privado y grupos voluntarios, cuya participación sea necesaria para el auxilio y recuperación de la población de la zona afectada.
+La Dirección General contará de manera permanente un Centro Estatal de Operaciones, responsable de atender operativamente los riesgos, emergencias o desastres que afecten al Estado. El Centro podrá integrar a los responsables de las dependencias de la administración pública estatal, municipal y, en su caso, de las federales que se encuentren establecidas en la entidad, así como representantes de los sectores social y privado y grupos voluntarios, cuya participación sea necesaria para el auxilio y recuperación de la población de la zona afectada.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 23.
 
-Compete al Consejo de Protección Civil del Estado de Tamaulipas, como Centro Estatal de Operaciones:
+Compete al Centro Estatal de Operaciones:
 
 I.- Coordinar y dirigir técnica y operativamente la atención del alto riesgo, emergencia o desastre;
 
@@ -433,57 +443,35 @@ IV.- Establecer la operación de redes de comunicación disponibles en situacion
 
 ### CAPITULO V. DE LA DIRECCION DE PROTECCION CIVIL
 
-> <small>(F. DE E., P.O. 25 DE JULIO DE 2001)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 24.
 
-La Dirección de Protección Civil, dependiente de la Secretaría General de Gobierno del Estado, tendrá como función, proponer, dirigir, presupuestar, ejecutar y vigilar la protección civil en el Estado, así como el control operativo de las acciones que en la materia se efectúen, en coordinación con los sectores público, social, privado, grupos voluntarios y la población en general, en apoyo a las resoluciones que dicte el Consejo de Protección Civil del Estado de Tamaulipas, o del Centro Estatal de Operaciones.
+La Dirección General de Protección Civil es una dependencia del Poder Ejecutivo del Estado, con autonomía técnica y operativa, jerárquicamente subordinada a la Secretaría General de Gobierno, la cual tendrá por objeto ejecutar las políticas, programas y acciones de protección civil en la entidad con el fin de salvaguardar a las personas, su patrimonio y entorno, así como lo relativo a los servicios vitales y estratégicos, en casos de riesgo, emergencia, siniestro o desastre.
 
-> <small>(F. DE E., P.O. 25 DE JULIO DE 2001)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 25.
 
-La Dirección de Protección Civil se integrará por:
+La Dirección General de Protección Civil se integrará por:
 
-> <small>(F. DE E., P.O. 25 DE JULIO DE 2001)</small>
+I.- Un Director General;
 
-I.- Un Director, que será nombrado por el Gobernador del Estado;
+II.- Un Centro Estatal de Operaciones;
 
-II.- Un Director Administrativo;
+III.- Los Centros Regionales que se establezcan, conforme al Plan Estatal de Protección Civil; y
 
-III.- Un Director Técnico y de Operatividad;
+IV.- El personal técnico, administrativo u operativo que sea necesario y el presupuesto permita.
 
-IV.- Un Departamento Jurídico;
+Esta Ley y su Reglamento determinarán la estructura orgánica, atribuciones específicas y procedimientos de operación de la Dirección General, del Centro Estatal de Operaciones y de los Centros Regionales.
 
-V.- Un Departamento de Coordinación con Municipios;
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
-VI.- Un Departamento de Coordinación con Dependencias, Organismos e Instituciones;
+ARTICULO 25 BIS.- Los Centros Regionales de Protección Civil son la estructura operativa del Sistema Estatal de Protección Civil, dependientes de la Dirección General. Sus acciones las desplegaran en coordinación con las dependencias, entidades, instituciones y organismos del sector público, y la debida concertación con los sectores social y privado, con los grupos voluntarios y la población en general, en el ámbito de la competencia y jurisdicción territorial que le correspondan.
 
-VII.- Un Departamento de Capacitación y Difusión; y
+Los Centros Regionales de Protección Civil contaran con un Director y el personal técnico, administrativo y operativo necesario para el ejercicio de sus funciones, en los términos del Reglamento.
 
-VIII.- El personal técnico, administrativo u operativo que sea necesario y autorice el presupuesto respectivo.
-
-> <small>(F. DE E., P.O. 25 DE JULIO DE 2001)</small>
-
-La Dirección de Protección Civil establecerá cinco Centros Regionales de Emergencia, cuya finalidad será el apoyo a los Municipios dentro del área de influencia de cada uno; se crean estos para otorgar el apoyo expeditamente, los cuales estarán ubicados en:
-
-a).- Ciudad Miguel Alemán;
-
-b).- Ciudad Río Bravo;
-
-c).- Ciudad Victoria;
-
-d).- Ciudad Mante; y
-
-e).- Ciudad Altamira.
-
-Estos centros estarán operados por:
-
-1.- Un Jefe Operativo;
-
-2.- Una Secretaria; y
-
-3.- El personal técnico y administrativo que se requiera para su correcta funcionalidad.
+En el caso de situaciones de emergencia, el Centro Regional recibirá en sus instalaciones a los miembros del Consejo Estatal de Protección Civil en sesión permanente, quienes, agrupados en sus comisiones particulares, se abocarán a la atención de los asuntos específicos de su área de competencia.
 
 > <small>(F. DE E., P.O. 25 DE JULIO DE 2001)</small>
 
@@ -529,15 +517,21 @@ XVIII.- Coordinarse con las autoridades federales y municipales, así como con I
 
 XIX.- Ejercer la inspección, control y vigilancia, de los establecimientos de competencia estatal siguientes:
 
-a).- Viviendas para cinco familias o más y edificaciones con habitaciones colectivas para más de veinte personas, como asilos, conventos, internados, fraternidades, hoteles, moteles, campamentos turísticos y centros vacacionales;
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
-b).- Escuelas y centros de estudios superiores en general;
+a).- Viviendas para diez familias o más y edificaciones con habitaciones colectivas para más de veinte personas, como asilos, conventos, internados, fraternidades, hoteles, moteles, campamentos turísticos y centros vacacionales;
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+b).- Universidades, Tecnológicos y centros de estudios superiores en general;
 
 c).- Hospitales, maternidades, centros médicos, clínicas y puestos de socorro;
 
 d).- Cinemas, teatros, auditorios, gimnasios, estadios, arenas, autódromos, plazas de toros, hipódromos y velódromos;
 
-e).- Parques, plazas, centros o clubes sociales o deportivos y balnearios;
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+e).- Centros o clubes sociales o deportivos y balnearios;
 
 f).- Casinos, centros nocturnos, discotecas o salones de baile;
 
@@ -551,21 +545,29 @@ j).- Oficinas de la Administración Pública Estatal, incluyendo las correspondi
 
 k).- Centrales y delegaciones de policía, penitenciarias, y demás edificios e instalaciones destinados a proporcionar y preservar la seguridad pública;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
-> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
+l).- Industrias, talleres o bodegas sobre terrenos con superficies iguales o mayores a dos mil metros cuadrados;
 
-l).- Industrias, talleres o bodegas sobre terrenos con superficie iguales o mayores a mil metros cuadrados. Así como toda industria que utilice, produzca o transporte materiales contaminantes, o que impliquen cualquier peligro de contingencia a la población con su simple manipulación;
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
-m).- Destino final de desechos sólidos;
+m).- Rastros de semovientes y aves, empacadoras, granjas para ganadería, porcicultura, avicultura, cunicultura y apicultura;
 
-n).- Rastros de semovientes y aves, empacadoras, granjas para ganadería, porcicultura, avicultura, cunicultura y apicultura;
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
-o).- Centrales de correos, de teléfonos, de telégrafos, estaciones y torres de radio, televisión y sistemas de microondas;
+n).- Centrales de correos, de teléfonos, estaciones y torres de radio, televisión y sistemas de microondas;
 
-p).- Terminales y estaciones de ferrocarriles, de transportes de carga, de transportes de pasajeros urbanos y foráneos, y aeropuertos;
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
-q).- Edificios para estacionamientos de vehículos;
+o).- Terminales y estaciones de ferrocarriles, de transportes de carga, de transporte de pasajeros urbanos y foráneos, y aeropuertos;
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+p).- Edificios para estacionamientos de vehículos;
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+q).- Otros establecimientos que por sus características y magnitud sean similares a los mencionados en los incisos anteriores y ocupen un área mayor de mil quinientos metros cuadrados;
 
 r).- Edificaciones para almacenamiento, distribución o expendio de hidrocarburos y otros combustibles, así como las instalaciones para estos fines; y
 
@@ -578,6 +580,10 @@ XXI.- Señalar las medidas de seguridad necesarias e imponer las sanciones corre
 XXII.- Coadyuvar, con el Consejo de Protección Civil del Estado de Tamaulipas, en la conducción y operación del Sistema Estatal de Protección Civil, así como en la reunión, introducción y actualización de la información del mismo; y
 
 XXIII.- Las demás que le confiera el Ejecutivo del Estado, el Secretario General de Gobierno, la presente ley, y otros ordenamientos legales, así como las que se determinen por acuerdos y resoluciones del Consejo de Protección Civil del Estado de Tamaulipas.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+El Reglamento de la Ley, determinará las respectivas competencias de vigilancia y aplicación de los órganos de la Dirección General de Protección Civil.
 
 > <small>(F. DE E., P.O. 25 DE JULIO DE 2001)</small>
 
@@ -635,13 +641,23 @@ V.- Establecer y mantener, a través de sus Sistemas Municipales de Protección 
 
 3.- Bajo Riesgo
 
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 31.
 
-Los reglamentos que establezcan la organización y regulen la operación de los Sistemas Municipales, serán expedidos por cada Ayuntamiento, de acuerdo a la disponibilidad de recursos humanos, materiales y financieros, así como a la posibilidad de riesgos, altos riesgos, emergencias o desastres, incorporando a su organización a los sectores representativos del Municipio.
+Los Ayuntamientos regularán la organización y operación de los Sistemas de Protección Civil municipales, en los términos establecidos en esta Ley y de acuerdo con la disponibilidad presupuestal, así como con base en la probabilidad de riesgos y desastres, incorporando a su organización a los sectores representativos del Municipio, tomando como referencia las bases que establece esta ley para integrar el Consejo Estatal y la Dirección General de Protección Civil.
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 32.
 
-La estructura y operación de los Sistemas Municipales de Protección Civil será determinada por cada Ayuntamiento, en la expedición de su reglamento respectivo, debiendo contar por lo menos, con una unidad de protección civil de carácter operativo.
+La estructura y operación de los Sistemas Municipales de Protección Civil será determinada en los reglamentos respectivos, debiendo contar por lo menos, con una unidad de protección civil de carácter operativo, considerando en su constitución y conformación lo siguiente:
+
+I.- La población residente en el Municipio;
+
+II.- Los antecedentes de los riesgos, altos riesgo, emergencias, siniestros y desastres que ha sido afectado el Municipio; y
+
+III.- La infraestructura o instalaciones industriales, agrícolas y comerciales que puedan ser factores de afectación a la población.
 
 ###### ARTICULO 33.
 
@@ -671,25 +687,85 @@ IV.- Prestar y coordinar el auxilio a la población en caso de que acontezca un 
 
 V.- Realizar la inspección, control y vigilancia de los establecimientos e instalaciones de competencia municipal siguientes:
 
-a).- Edificios departamentales de hasta cuatro unidades de vivienda;
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
-b).- Internados o casas de asistencia, que sirvan como habitación colectiva para un número no mayor de veinte personas;
+a).- Viviendas para hasta diez familias y edificaciones con habitaciones colectivas para menos de cuarenta personas, como asilos, conventos, internados, hoteles, moteles, internados o casas de asistencia, campamentos turísticos, centros vacacionales;
 
-c).- Oficinas y servicios públicos de la administración pública municipal;
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
-d).- Terrenos para estacionamientos de servicios;
+b).- Edificios destinados a jardines de niños, escuelas de educación básica y media superior, escuelas de artes y educación especial, en general;
 
-e).- Jardines de niños, guarderías, dispensarios, consultorios y capillas de velación;
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
-f).- Lienzos charros, circos o ferias eventuales;
+c).- Guarderías, dispensarios, consultorios médicos o dentales y capillas de velación;
 
-g).- Actividades o establecimientos que tengan menos de mil quinientos metros cuadrados de construcción;
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
-h).- Instalaciones de electricidad y alumbrado público;
+d).- Edificios destinados a oficinas y servicios públicos de la administración pública municipal;
 
-i).- Drenajes hidráulicos, pluviales y de aguas residuales; y
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
-j).- Equipamientos urbanos, puentes peatonales, paraderos y señalamientos urbanos, y anuncios panorámicos;
+e).- Mercados o Centrales de abasto;
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+f).- Agua potable;
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+g).- Alcantarillado;
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+h).- Comunicaciones;
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+i).- Desarrollo Urbano;
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+j).- Electricidad;
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+k).- Salud;
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+I).- Seguridad Pública;
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+m).- Transporte.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+n).- Industrias, talleres o bodegas sobre terrenos con superficies iguales o mayores hasta dos mil metros cuadrados;
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+o).- Terrenos para estacionamiento de servicios y vehículos;
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+p).- Lienzos charros, circos o ferias eventuales;
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+q).- Actividades o establecimientos con una superficie menor de dos mil metros cuadrados de construcción;
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+r).- Destino final de desechos sólidos;
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+s).- Edificaciones para el almacenamiento, distribución y expendio de hidrocarburos y otros combustibles, así como las instalaciones para estos fines; y
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+t).- Otros establecimientos que por sus características y magnitud sean similares a los mencionados en los incisos anteriores y ocupen un área hasta de mil quinientos metros cuadrados.
 
 VI.- Diseñar y llevar a cabo campañas masivas de divulgación en materia de protección civil;
 
@@ -777,33 +853,121 @@ X.- Participar en todas aquellas actividades del Programa Estatal o Municipal, q
 
 XI.- Las demás que les confieran otros ordenamientos jurídicos aplicables.
 
-### CAPITULO VIII. DE LAS UNIDADES INTERNAS DE RESPUESTA EN LOS ESTABLECIMIENTOS
+> <small>(REFORMADA SU DENOMINACION, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+### CAPITULO VIII. OBLIGACIONES DE LAS PERSONAS FISICAS O MORALES EN MATERIA DE PROTECCION CIVIL
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 45.
 
-Las personas físicas o morales que desarrollen actividades permanentes o transitorias, que puedan ocasionar riesgos a la población en general, o a grupos especiales en particular, quedarán sujetas a las disposiciones de esta ley.
+Las personas físicas o morales que desarrollen actividades permanentes o transitorias que puedan ocasionar riesgos a la población en general, o a grupos especiales en particular, quedarán sujetas a las disposiciones de esta ley y deberán:
 
-> <small>(F. DE E., P.O. 25 DE JULIO DE 2001)</small>
+I.- Informar a las autoridades competentes de cualquier acto u omisión que cause o pueda causar una situación de emergencia o desastre;
+
+II.- Cooperar con las autoridades correspondientes en la ejecución de acciones en casos de emergencias o desastres;
+
+III.- Colaborar con las autoridades estatales y los municipales para el debido cumplimiento de los programas de protección civil; y
+
+IV.- Participar, previa solicitud de la autoridad competente, en la difusión del Plan Estatal de Protección Civil y los programas de la materia, principalmente en aquellos relacionados con riesgos que se presenten en su barrio, colonia, zona o centro de población.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+ARTICULO 45 BIS.- Para los efectos del presente capitulo, los patrones, propietarios o administradores de los establecimientos deberán capacitar a sus empleados y dotarlos del equipo necesario de respuesta, así como solicitar la asesoría de la Dirección General de Protección Civil o de la Unidad Municipal que corresponda, tanto para su capacitación, como para el desarrollo de la logística de respuesta a las contingencias.
+
+Los organizadores de eventos especiales y transitorios, en los que se reúnan masivamente personas que eventualmente puedan correr riesgos por eventos emergentes, estarán obligados a contar con la unidad que atienda su plan de contingencias y, en todo caso, se obligarán a proporcionar los recursos humanos y materiales necesarios para realizar una eficaz labor de protección civil. En este caso se observará lo dispuesto por el artículo 93 de esta ley.
+
+Cuando los efectos de los altos riesgos, emergencias o desastres rebasen la capacidad de repuesta de las unidades internas, sus titulares, sin perjuicio de que cualquier otra persona pueda hacerlo, solicitarán de inmediato la asistencia de las Unidades Municipales de Protección Civil o de la Dirección General de Protección Civil según la magnitud de la contingencia, sin perjuicio de que la respuesta sea proporcionada por ambas autoridades simultáneamente.
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 46.
 
-Los establecimientos, en los que se reúnan permanente o transitoriamente personas que puedan correr riesgos por eventos de emergencia, sean privados o de competencia estatal o municipal, tienen la obligación de contar permanentemente con un programa especifico de protección civil o plan de contingencias, el cual deberá estar autorizado y supervisado por la Dirección de Protección Civil o la Unidad Municipal según corresponda.
+Las personas físicas o morales, que desarrollen cualquier actividad que implique un riesgo a las personas, sus bienes o al medio ambiente, tienen el deber de contar con un programa especifico de protección civil o plan de contingencias, el cual deberá estar autorizado y supervisado por la Dirección General de Protección Civil o la Unidad Municipal según corresponda y además tendrán las siguientes obligaciones:
+
+I.- Elaborar y presentar ante las autoridades competentes y, a más tardar dentro de los quince días posteriores al inicio de sus actividades, los programas de prevención de accidentes internos y externos, conforme a las disposiciones que establezcan los ordenamientos aplicables;
+
+II.- Elaborar y presentar anualmente, dentro de los dos primeros meses del año de que se trate y ante la Dirección General o la Unidad de Protección Civil Municipal, la auto- declaratoria de cumplimiento de obligaciones en materia de protección civil;
+
+III.- Formular las acciones de protección civil, de contingencias, simulacros, rutas de evacuación y demás que sean necesarias para la prevención de situaciones de riesgo, así como aquellos que conforme a las disposiciones aplicables, les requieran para tal efecto las autoridades competentes;
+
+IV.- Permitir a la autoridades (sic) en materia de protección civil el acceso a sus instalaciones, a efecto de que practiquen las actividades de inspección, supervisión y verificación que establecen la presente ley y otras disposiciones aplicables;
+
+V.- Observar y, en su caso, aplicar las normas técnicas y demás medidas de prevención y protección civil que legalmente procedan;
+
+VI.- Establecer y organizar las unidades internas de protección civil que se requiera para la prevención de accidentes, así como para responder ante la eventualidad de una emergencia o desastre;
+
+VII.- Cumplir las medidas correctivas y sanciones que establezcan las autoridades competentes, como resultado de la inspección, supervisión y verificación que se realice en las instalaciones y procesos correspondientes;
+
+VIII.- Proporcionar la información que les sea requerida por las autoridades competentes para la
+
+integración de planes y programas tendientes a la prevención de accidentes y desastres;
+
+IX.- Prestar apoyo en caso de desastre en cualquier parte del Estado, cuando así se les requiera por parte de las autoridades de protección civil, con el personal y equipo especializado de que dispongan y que deberá estar registrado en el Atlas Estatal de Riesgos; y
+
+X.- La demás que determinen la presente ley, las autoridades competentes y otras disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 47.
 
-En los establecimientos deberá colocarse, en sitios visibles, equipos de seguridad, señales preventivas e informativas y equipo reglamentario.
+Los programas de prevención de accidentes de nivel interno que deberán ser presentados ante las autoridades competentes por las personas físicas o morales a que se refiere el presente capítulo, contendrán cuando menos los siguientes aspectos:
+
+I.- La organización para la prevención de accidentes en la empresa, planta o establecimiento de que se trate;
+
+II.- La descripción de los equipos y servicios de emergencia con que cuenten a nivel interno;
+
+III.- El plan de emergencia en que se determinen los procedimientos de respuesta ante la presencia de desastres;
+
+IV.- La descripción de los sistemas de comunicación y alarma, con que cuenten, incluyendo los canales de comunicación, claves, señales y mensajes concretos;
+
+V.- Los procedimientos para el retorno a condiciones normales de operación y de recuperación una vez declarada la conclusión de la emergencia;
+
+VI.- Los programas y constancias de capacitación y entrenamiento, dirigidos a personas de la empresa, planta o establecimiento;
+
+VII.- El programa de simulacros en el que participe exclusivamente el personal correspondiente;
+
+VIII.- La actualización del programa para la prevención de accidentes de nivel interno; y
+
+IX.- Los demás que determinen la presente ley, su reglamento, las autoridades competentes y otras disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 48.
 
-Los establecimientos a que hace referencia la presente ley, tienen la obligación de contar con una unidad interna de respuesta inmediata, ante los altos riesgos, emergencias o desastres, que potencialmente puedan ocurrir.
+Los programas de prevención de accidentes de nivel externo que deberán ser presentados ante las autoridades competentes por las personas físicas o morales a que se refiere el artículo 45, contendrán cuando menos los siguientes aspectos:
 
-> <small>(F. DE E., P.O. 25 DE JULIO DE 2001)</small>
+I.- La organización local para la prevención de accidentes en la que participará la empresa, planta o establecimiento, para coordinar las actividades relacionadas con el nivel externo;
+
+II.- Los equipos y servicios de emergencia con que cuenten, para su posible aplicación en el exterior de la empresa, planta o establecimiento;
+
+III.- El plan de emergencia con capacidad de respuesta a desastres, incluyendo acciones de alarma, comunicación, atención, control, retorno y recuperación de los sectores externos de la comunidad afectados por aquellos causados por la empresa, planta o establecimiento;
+
+IV.- Los sistemas de comunicación y alarma necesarias para atender siniestros que rebasen o puedan rebasar los límites de la empresa, planta o establecimiento;
+
+V.- Los procedimientos para el retorno a condiciones normales y de recuperación de la población expuesta o afectada por los desastres producidos;
+
+VI.- Los programas y constancias de capacitación y entrenamiento dirigidos a los organismos, instituciones y población local expuesta a riesgos o desastres;
+
+VII.- Los programas de simulacros en los que participen autoridades, organismos, instituciones y la población;
+
+VIII.- La orientación necesaria para la prevención y acciones en caso de desastres dirigido a la comunidad local;
+
+IX.- La actualización del programa para la prevención de accidentes de nivel externo; y
+
+X.- Los demás que determinen la presente ley, su reglamento, las autoridades competentes y otras disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 49.
 
-Para los efectos del artículo anterior, los patrones, propietarios o titulares de los establecimientos procurarán capacitar a sus empleados y dotarlos del equipo necesario de respuesta, así como solicitar la asesoría de la Dirección de Protección Civil o de la Unidad Municipal que corresponda, tanto para su capacitación como para el desarrollo de la logística de respuesta a las contingencias.
+Toda persona que realice instalaciones físicas permanentes o transitorias en un lugar sujeto a restricciones especiales, conforme a criterios de las autoridades en materia de protección civil, previo conocimiento de dicha circunstancia, se considera que acepta el riesgo, sin derecho a exigir indemnizaciones o restituciones a la autoridad correspondiente.
 
-Los organizadores de eventos especiales y transitorios, en los que se reúnan masivamente personas que eventualmente puedan correr riesgos por eventos emergentes, estarán obligados a contar con la unidad que atienda su plan de contingencias y, en todo caso, se obligarán a proporcionar los recursos humanos y materiales necesarios para realizar una eficaz labor de protección civil. En este caso se observará lo dispuesto por el artículo 93 de esta ley.
+Tal presunción no podrá ser invocada por autoridad, si ésta autorizó la instalación en el lugar sin informar a la persona del riesgo. Esto no implica que la autoridad deje de prestar el auxilio correspondiente en caso de emergencia o desastre.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+ARTICULO 49 BIS.- En los establecimientos deberá colocarse, en sitios visibles, equipos de seguridad, señales preventivas e informativas y equipo reglamentario.
 
 > <small>(F. DE E., P.O. 25 DE JULIO DE 2001)</small>
 
@@ -1073,7 +1237,7 @@ II.- En el acta que se levante con motivo de la inspección, se harán constar l
 
 ###### ARTICULO 84.
 
-Se considerarán medidas de seguridad las disposiciones de inmediata ejecución que dicte la autoridad competente, de conformidad con esta ley y demás ordenamientos aplicables, para proteger el interés publico, o evitar los riesgos, altos riesgos, emergencias o desastres que puedan ocurrir en los establecimientos a que se refiere esta ley. Las medidas de seguridad, si no se trata de un caso de alto riesgo, emergencia o desastre, se notificarán antes de su aplicación al interesado, sin perjuicio de las sanciones que en su caso correspondieran.
+Se considerarán medidas de seguridad las disposiciones de inmediata ejecución que dicte la autoridad competente, de conformidad con esta ley y demás ordenamientos aplicables, para proteger el interés público, o evitar los riesgos, altos riesgos, emergencias o desastres que puedan ocurrir en los establecimientos a que se refiere esta ley. Las medidas de seguridad, si no se trata de un caso de alto riesgo, emergencia o desastre, se notificarán antes de su aplicación al interesado, sin perjuicio de las sanciones que en su caso correspondieran.
 
 ###### ARTICULO 85.
 
@@ -1091,7 +1255,7 @@ V.- La clausura temporal o definitiva, total o parcial, de establecimientos, con
 
 VI.- La realización de actos, en rebeldía de los que están obligados a ejecutarlos;
 
-VII.- El auxilio de la fuerza publica; y
+VII.- El auxilio de la fuerza pública; y
 
 VIII.- La emisión de mensajes de alerta.
 
@@ -1155,6 +1319,16 @@ IV.- La reincidencia, en su caso.
 
 Son autoridades competentes para imponer las sanciones a que se refiere el presente capítulo, el Director de Protección Civil, y en los Municipios el titular de la Unidad Municipal de Protección Civil.
 
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+ARTICULO 91 BIS.- Las multas que se impongan por concepto de violación a lo previsto en la presente ley, podrán ser sustituidas por: la adquisición e instalación de equipos que tengan por objeto evitar mayores daños o atenuar lo que se hubiesen cometido; o, en su caso, la aportación de bienes en especie que contribuyan a reparar el daño cometido o la prestación de mejores servicios por parte de la autoridad, siempre y cuando se garanticen las obligaciones a que se sujetará el infractor.
+
+La sustitución a que se refiere este artículo sólo procederá previa solicitud escrita del infractor y una vez que se haya celebrado el convenio correspondiente con la autoridad que impuso la multa.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+ARTICULO 91 TER.- Los ingresos que se obtengan de las multas por infracciones a lo dispuesto en esta ley, su reglamento o demás disposiciones que de ella se deriven, se destinarán a la integración de fondos de protección civil para el desarrollo de programas vinculados con la protección civil de la población.
+
 > <small>(F. DE E., P.O. 25 DE JULIO DE 2001)</small>
 
 ###### ARTICULO 92.
@@ -1183,7 +1357,7 @@ Cuando en los establecimientos se presenten emergencias o desastres, inherentes 
 
 ###### ARTICULO 95.
 
-Las obras que se ordenen por parte de las autoridades de protección civil para evitar, extinguir, disminuir o prevenir riesgos, altos riesgos, emergencias o desastres, así como las que se realicen para superarlos, serán a cargo del propietario, responsable, encargado u ocupante del establecimiento, sin perjuicio de que sea la propia autoridad quien las realice en rebeldía del obligado. En este ultimo caso, además del cobro de las cantidades correspondientes, se aplicaran las sanciones económicas que correspondan.
+Las obras que se ordenen por parte de las autoridades de protección civil para evitar, extinguir, disminuir o prevenir riesgos, altos riesgos, emergencias o desastres, así como las que se realicen para superarlos, serán a cargo del propietario, responsable, encargado u ocupante del establecimiento, sin perjuicio de que sea la propia autoridad quien las realice en rebeldía del obligado. En este último caso, además del cobro de las cantidades correspondientes, se aplicaran las sanciones económicas que correspondan.
 
 Tanto las sanciones económicas, como en su caso, las cantidades por concepto de cobros por obras realizadas en rebeldía de los obligados, se consideran créditos fiscales, y serán cobrados mediante el procedimiento de ejecución, por la autoridad fiscal competente.
 
@@ -1280,3 +1454,21 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTICULO SEGUNDO.
 
 Se establece un plazo de 90 días naturales, contados a partir de la entrada en vigor del presente Decreto, para que los Municipios del Estado establezcan el registro de riesgos al que se refiere la fracción V del artículo 30 de este ordenamiento, a fin de dar cumplimiento a lo dispuesto por la presente ley.
+
+P.O. 16 DE DICIEMBRE DE 2010.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+El Ejecutivo del Estado deberá realizar las reformas que se requieran al Reglamento de la Ley de Protección Civil para el Estado de Tamaulipas, en un plazo no mayor de 30 días contados a partir del día siguiente a la entrada en vigor del presente Decreto.
+
+###### ARTICULO TERCERO.
+
+La Dirección General de Protección Civil del Estado, deberá instrumentar una amplia campaña de difusión de las actuales reformas y adiciones contenidas en el presente Decreto.
+
+###### ARTICULO CUARTO.
+
+Las personas morales y las públicas, así como las empresas o instituciones deberán implementar las medidas que correspondan, con base al presente Decreto y la Ley de Protección Civil, su Reglamento y aquéllas previsiones legales conducentes, en un término no mayor a 180 días contados a partir de la vigencia del presente Decreto.
