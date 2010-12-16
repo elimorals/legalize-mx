@@ -4,7 +4,7 @@ identifier: "SON-codigo-electoral-para-el-estado-de-sonora-45286"
 country: "mx"
 rank: "codigo"
 publication_date: "2005-06-29"
-last_updated: "2008-06-12"
+last_updated: "2010-12-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45286&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CODIGO ELECTORAL PARA EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 12 DE JUNIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 16 DE DICIEMBRE DE 2010.
 
 Código publicado en la Edición Especial No. 2 del Boletín Oficial del Estado de Sonora, el miércoles 29 de junio de 2005.
 
@@ -51,7 +51,7 @@ Para el desempeño de sus actividades, las autoridades previstas en este Código
 
 ###### ARTÍCULO 2.
 
-Pera los efectos del presente Código, se entiende por:
+Para los efectos del presente Código, se entiende por:
 
 I.- Código: el Código Electoral para el Estado de Sonora;
 
@@ -3671,7 +3671,9 @@ La Ley de Gobierno y Administración Municipal determinará el número de regido
 
 Para efecto de dar cumplimiento a la designación del regidor étnico, conforme a lo establecido en el artículo anterior, se observará el procedimiento siguiente:
 
-I.- El Consejo Estatal con el informe que le presente la Comisión para la Atención de Pueblos Indígenas del Estado de Sonora, registrará durante el mes de enero del año de la jornada electoral, la información del origen y lugar donde se encuentran asentadas las etnias locales en los municipios del Estado, así como el territorio que comprende, su forma de gobierno, los procedimientos de elección de sus representantes y los nombres de las autoridades de las etnias, ante ella registradas o reconocidas;
+> <small>(REFORMADA, B.O. 16 DE DICIEMBRE DE 2010)</small>
+
+I.- El Consejo Estatal con el informe que le presente la Comisión Estatal para el Desarrollo de Pueblos y Comunidades Indígenas, registrará durante el mes de enero del año de la jornada electoral, la información del origen y lugar donde se encuentran asentadas las etnias locales en los municipios del Estado, así como el territorio que comprende, su forma de gobierno, los procedimientos de elección de sus representantes y los nombres de las autoridades de las etnias, ante ella registradas o reconocidas;
 
 II.- De conformidad con la información señalada en la fracción anterior, el Consejo Estatal requerirá personalmente a las autoridades étnicas para que nombren, de conformidad con sus usos y costumbres, un regidor propietario y su suplente correspondiente;
 
@@ -6250,3 +6252,17 @@ El presente Decreto entrará en vigor el día de su publicación en el Boletín 
 ###### ARTÍCULO SEGUNDO.
 
 Para efectos de lo dispuesto por el artículo 176 del presente Código, se entenderá que las secciones electorales serán las determinadas por el Instituto Federal Electoral, para el Estado de Sonora y que se encuentren vigentes a la fecha de aprobación de este Decreto.
+
+B.O. 16 DE DICIEMBRE DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro de los treinta días hábiles siguientes a la entrada en vigor del presente Decreto, la Comisión Estatal de Derechos Humanos, deberá emitir la convocatoria a que se refiere el artículo 13 de la Ley de Derechos de los Pueblos y Comunidades Indígenas de Sonora, para los efectos de lo dispuesto en el artículo 19 de la Ley que Crea la Comisión Estatal de Derechos Humanos.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
