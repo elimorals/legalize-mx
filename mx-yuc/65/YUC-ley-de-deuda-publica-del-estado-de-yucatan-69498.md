@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-deuda-publica-del-estado-de-yucatan-69498"
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-24"
-last_updated: "2009-09-21"
+last_updated: "2010-12-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69498&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE DEUDA PUBLICA DEL ESTADO DE YUCATAN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 21 DE SEPTIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 16 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el viernes 24 de julio de 2009.
 
@@ -69,13 +69,17 @@ VI.- Afectación de Otros Ingresos Municipales: Aquella que se impone a los ingr
 
 VII.- Congreso: El H. Congreso del Estado de Yucatán;
 
-VIII.- Deuda o Deuda Pública: Los financiamientos derivados de las operaciones que se mencionan en el artículo 3 de esta Ley;
+> <small>(REFORMADA, D.O. 16 DE DICIEMBRE DE 2010)</small>
+
+VIII.- Deuda o Deuda Pública: Aquella que se derive de las operaciones que se mencionan en el artículo 3 de esta Ley;
 
 IX.- Deuda Contingente: Aquella que cuente con el aval o la garantía del Poder Ejecutivo, o en su caso, de los municipios;
 
 X.- Deuda Directa: La que contraten directamente los Sujetos Obligados;
 
-XI.- Endeudamiento Neto: La diferencia entre los ingresos derivados de deuda y los pagos de capital de deuda, en cada caso, durante el mismo ejercicio fiscal, el cual puede ser:
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 16 DE DICIEMBRE DE 2010)</small>
+
+XI.- Endeudamiento Neto: La diferencia entre los ingresos derivados de deuda y los pagos de principal en cada caso, durante el mismo ejercicio fiscal, el cual puede ser:
 
 a) Adicional, cuando los ingresos acumulados en el ejercicio derivados de deuda sean superiores a los pagos del monto principal de la deuda pública acumulados en el ejercicio;
 
@@ -95,7 +99,9 @@ XVI.- Reestructuración: La modificación de tasas de interés, plazos, forma de
 
 XVII.- Refinanciamiento: La contratación de una deuda pública para pagar total o parcialmente otra existente;
 
-XVIII.- Registro: El Registro Estatal de Deuda Pública a cargo de la Secretaría;
+> <small>(REFORMADA, D.O. 16 DE DICIEMBRE DE 2010)</small>
+
+XVIII.- Registro: El Registro Estatal de Deuda Pública y Afectaciones a cargo de la Secretaría;
 
 XIX.- Secretaría: La Secretaría de Hacienda del Estado de Yucatán;
 
@@ -129,31 +135,45 @@ Corresponde al Congreso, autorizar:
 
 I.- Los montos máximos de endeudamiento neto a los sujetos obligados, en las correspondientes Leyes de Ingresos;
 
-En el caso de los Municipios, deberá verificar que el pago de los servicios de la deuda de todas las obligaciones contraídas, no sea mayor al 30% por ciento (sic) del monto de las participaciones del municipio por cada año a contratar.
+> <small>(DEROGADO SEGUNDO PARRAFO, D.O. 16 DE DICIEMBRE DE 2010)</small>
 
-II.- Al Poder Ejecutivo la contratación de montos adicionales de endeudamiento neto a los aprobados en la Ley de Ingresos del Estado, cuando a juicio del propio Congreso se presenten circunstancias que así lo ameriten, y
+> <small>(REFORMADA, D.O. 16 DE DICIEMBRE DE 2010)</small>
 
-III.- Al Poder Ejecutivo y a los Ayuntamientos, según sea el caso, las afectaciones señaladas en las fracciones II, III, IV, V y VI, del artículo 2 de esta Ley, como garantía, fuente de pago o de cualquier otra forma, respecto a obligaciones financieras.
+II.- Al Poder Ejecutivo y a los Ayuntamientos, la contratación de montos y conceptos de endeudamiento neto adicionales a los autorizados, cuando a juicio del propio Congreso se presenten circunstancias que así lo ameriten, y
+
+> <small>(REFORMADA, D.O. 16 DE DICIEMBRE DE 2010)</small>
+
+III.- Al Poder Ejecutivo y a los Ayuntamientos, según sea el caso, las afectaciones señaladas en las fracciones II, III, IV, V y VI, del artículo 2 de esta Ley, como garantía, fuente de pago o de cualquier otra forma, respecto a obligaciones financieras, y de operaciones distintas a las señaladas en el artículo 3 de esta Ley que celebren los Sujetos Obligados dentro del marco jurídico estatal y de sus respectivos ámbitos de competencia.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 16 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 5.
 
-El Congreso, previa solicitud del Ejecutivo del Estado, podrá autorizar el ejercicio de montos y conceptos de Endeudamiento Neto adicionales a los previstos en la Ley de Ingresos, cuando a juicio del propio Congreso se presenten circunstancias que así lo ameriten.
+El Congreso, previa solicitud del Ejecutivo del Estado y de los Ayuntamientos, según sea el caso, podrá autorizar el ejercicio de montos y conceptos de Endeudamiento Neto adicionales a los autorizados, cuando a juicio del propio Congreso se presenten circunstancias que así lo ameriten.
 
-El Poder Ejecutivo estará autorizado para contratar Deuda Directa, en adición a los montos de Endeudamiento Neto aprobados en Ley de Ingresos del Estado, sin la aprobación específica del Congreso, siempre y cuando se cumplan los siguientes requisitos:
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 16 DE DICIEMBRE DE 2010)</small>
+
+Los Sujetos Obligados estarán autorizados para contratar Deuda Directa, en adición a los montos de Endeudamiento Neto aprobados en las leyes de ingresos correspondientes, sin la aprobación específica del Congreso, siempre y cuando se cumplan los siguientes requisitos:
 
 I.- El plazo de pago del monto principal de la deuda no exceda de ciento ochenta días naturales, ni el período constitucional de la administración que contrató dicha deuda, ni venza dentro de los noventa días hábiles anteriores a la conclusión de dicho período constitucional;
 
-II.- El saldo insoluto total del monto principal de dicha deuda, en todo momento, no exceda del 5% de los Ingresos Ordinarios, durante el ejercicio fiscal correspondiente;
+> <small>(REFORMADA, D.O. 16 DE DICIEMBRE DE 2010)</small>
+
+II.- El saldo insoluto total del monto principal de dicha deuda, en todo momento, no exceda de 5% de los Ingresos Ordinarios del Sujeto Obligado de que se trate, durante el ejercicio fiscal correspondiente;
 
 III.- No se afecte en garantía o en pago ningún ingreso o derecho;
 
-IV.- Se informe al Congreso dentro de los cuarenta y cinco días naturales posteriores a la contratación, y
+> <small>(REFORMADA, D.O. 16 DE DICIEMBRE DE 2010)</small>
 
-V.- Se señale, en caso de que se incurra en Endeudamiento Neto Adicional, en la cuenta pública y se presupueste su pago.
+IV.- Se señale, en caso de que se incurra en Endeudamiento Neto Adicional, en la cuenta pública y se presupueste su pago. En dicho supuesto se deberá notificar al Congreso dentro de los quince días hábiles posteriores al cierre del ejercicio fiscal, que se incurrió en Endeudamiento Neto Adicional al amparo del segundo párrafo de este artículo, y
 
-> <small>(REFORMADO, D.O. 21 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADA, D.O. 16 DE DICIEMBRE DE 2010)</small>
 
-La deuda a que se refiere el segundo párrafo de este artículo no podrá ser refinanciada o reestructurada. Asimismo, una vez que el saldo insoluto del capital de la deuda contratada rebase el 3% de los Ingresos Ordinarios durante el ejercicio fiscal correspondiente, no se podrá disponer de nueva deuda al amparo de lo estipulado en el segundo párrafo de este artículo sino hasta que transcurran 30 días naturales después de la fecha en la que se realice el pago total de dicho saldo insoluto de capital.
+V.- En el caso de los ayuntamientos, incluidas sus dependencias y entidades que conforman la Administración Pública Centralizada y Paramunicipal, cuenten con el acta de Cabildo que acredite la autorización.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O. 16 DE DICIEMBRE DE 2010)</small>
+
+La deuda a que se refiere el segundo párrafo de este artículo no podrá ser refinanciada o reestructurada. Sin embargo cuando el saldo insoluto del capital de la deuda contratada al amparo del párrafo segundo de este artículo, alcance el 5% de los Ingresos Ordinarios del Sujeto Obligado durante el ejercicio fiscal correspondiente, éste no podrá disponer nuevamente dicha deuda, sino hasta que transcurran 30 días naturales después de la fecha en la que se realice el pago total de dicho saldo insoluto de capital.
 
 ###### Artículo 6.
 
@@ -175,7 +195,9 @@ II.- Efectuar oportunamente, ya sea en forma directa o mediante los mecanismos q
 
 III.- Negociar, aprobar, celebrar y suscribir los contratos y documentos para la contratación de deuda a cargo del Estado, y suscribir los títulos de crédito y demás instrumentos legales requeridos para tales efectos, siempre que el endeudamiento cumpla con los términos de esta Ley;
 
-IV.- Reestructurar o refinanciar la deuda contraída ya sea como deudor, garante o avalista, o cualquier obligación contingente. Cuando una reestructura tenga como objeto mejorar las condiciones y términos originales de la deuda mediante la disminución de la tasa de interés, o la modificación de las garantías, no se requerirá la autorización del Congreso;
+> <small>(REFORMADA, D.O. 16 DE DICIEMBRE DE 2010)</small>
+
+IV.- Reestructurar o refinanciar la deuda contraída ya sea como deudor, garante o avalista, o cualquier obligación contingente. Cuando una Reestructura o Refinanciamiento tenga como objeto mejorar las condiciones y términos originales de la deuda no se requerirá la autorización del Congreso, siempre y cuando no se genere Endeudamiento Neto Adicional, no se amplíe el plazo de la deuda originalmente pactada, ni se aumenten las garantías otorgadas;
 
 V.- Ser deudor solidario, garante o avalista de la deuda contraída por cualquiera de los otros Sujetos Obligados de conformidad a lo establecido en esta Ley;
 
@@ -189,9 +211,13 @@ VIII.- Emitir valores, certificados, obligaciones, bonos y otros títulos de cr�
 
 IX.- Notificar a la Secretaría de Hacienda y Crédito Público y a cualquier otra autoridad competente conforme a la Ley de Coordinación Fiscal y demás disposiciones legales aplicables, cualquier afectación de Participaciones en Ingresos Federales y/o cualquier afectación de Aportaciones Federales, que se utilice como fuente de pago o de cualquier otra forma, que correspondan al Estado. Dicha notificación podrá contener una instrucción que señale los términos y condiciones aplicables al pago de los ingresos provenientes de las Participaciones en Ingresos Federales y/o provenientes de las Aportaciones Federales de que se trate, la cual sólo podrá ser modificada con la previa aprobación del Congreso, siempre y cuando se hayan cumplido los requisitos señalados en los contratos o documentos correspondientes para la modificación de dicha instrucción y no se afecten los derechos de los acreedores conforme a dichos contratos o documentos. Cualquier modificación a la instrucción antes mencionada notificada por el Ejecutivo del Estado, por conducto de la Secretaría, a la Secretaría de Hacienda y Crédito Público o a cualquier otra autoridad competente, deberá también notificarse al Registro;
 
-X.- Autorizar a los Sujetos Obligados Paraestatales para gestionar y contratar deuda, según se señala en el artículo 12 de esta Ley;
+> <small>(REFORMADA, D.O. 16 DE DICIEMBRE DE 2010)</small>
 
-XI.- Asesorar a los Sujetos Obligados que así lo soliciten, en todo lo relativo a la concertación y contratación de deuda;
+X.- Autorizar a los Sujetos Obligados Paraestatales para gestionar y contratar deuda, según se señala en el artículo 12 de esta Ley, siempre que acrediten ante la Secretaría la solvencia suficiente para afrontar los compromisos que pretenden contraer o adquirir;
+
+> <small>(REFORMADA, D.O. 16 DE DICIEMBRE DE 2010)</small>
+
+XI.- Interpretar la presente Ley y asesorar a los Sujetos Obligados que así lo soliciten, en todo lo relativo a la concertación y contratación de deuda;
 
 XII.- Certificar, en coordinación con la Secretaría de Planeación y Presupuesto, que la capacidad de pago de los Sujetos Obligados, respecto de las cuales el Estado esté obligado en cualquier forma, sea suficiente para cubrir puntualmente los compromisos que contraigan. Para tal efecto, deberá evaluar y supervisar el cumplimiento de las disposiciones en materia de deuda pública y la adecuada estructura financiera de los acreditados;
 
@@ -211,7 +237,9 @@ III.- Efectuar oportunamente los pagos de amortizaciones, intereses y demás mon
 
 IV.- Negociar, aprobar, celebrar y suscribir los contratos y documentos para la contratación de deuda a cargo de los municipios, y suscribir los títulos de crédito y demás instrumentos legales requeridos para tales efectos, siempre que el endeudamiento haya sido autorizado o contratado en los términos de esta Ley;
 
-V.- Reestructurar o refinanciar la deuda contraída por el Municipio, directamente o como garante o avalista de la deuda contraída por los Sujetos Obligados Paramunicipales y celebrar convenios y contratos que de esas acciones se deriven. Cuando se trate de deuda garantizada con afectación de participaciones o aportaciones autorizadas por el Congreso, la reestructura o el refinanciamiento no podrá exceder los montos y plazos establecidos en el decreto correspondiente;
+> <small>(REFORMADA, D.O. 16 DE DICIEMBRE DE 2010)</small>
+
+V.- Reestructurar o refinanciar la deuda contraída ya sea como deudor, garante o avalista, o cualquier obligación contingente. Cuando una Reestructura o Refinanciamiento tenga como objeto mejorar las condiciones y términos originales de la deuda no se requerirá la autorización del Congreso, siempre y cuando no se genere Endeudamiento Neto adicional, no se amplíe el plazo de la deuda originalmente pactada, ni se aumenten las garantías otorgadas;
 
 VI.- Informar a la Contaduría Mayor de Hacienda del Congreso sobre la situación que guarda la deuda pública municipal y paramunicipal en cada informe de cuenta pública que presente;
 
@@ -219,7 +247,9 @@ Asimismo, deberán informar al Congreso sobre la situación que guarda su deuda 
 
 VII.- Constituir al Ayuntamiento en garante o avalista de la deuda contraída por los Sujetos Obligados Paramunicipales;
 
-VIII.- Negociar los términos y condiciones de los contratos y documentos que sean necesarios para establecer los mecanismos legales para que el Municipio lleve a cabo las afectaciones a que se refiere la fracción III del artículo 4 de esta Ley, en el ámbito de su competencia, así como celebrar y suscribir dichos contratos y documentos. En los casos en que dichos mecanismos legales se implementen mediante fideicomisos, éstos no serán considerados en ningún caso parte de la Administración Pública Paramunicipal, y deberán contemplar en sus reglas de operación, mecanismos de entrega de información que garanticen la transparencia de su operación;
+> <small>(REFORMADA, D.O. 16 DE DICIEMBRE DE 2010)</small>
+
+VIII.- Negociar los términos y condiciones de los contratos y documentos que sean necesarios para establecer los mecanismos legales para que el Municipio lleve a cabo las afectaciones a que se refiere la fracción III del artículo 4 de esta Ley, en el ámbito de su competencia, así como celebrar y suscribir dichos contratos y documentos. En los casos en que dichos mecanismos legales se instrumenten mediante fideicomisos, éstos no serán considerados en ningún caso parte de la Administración Pública Paramunicipal, y deberán contemplar en sus reglas de operación, mecanismos de entrega de información que garanticen la transparencia de su operación. Lo anterior, en el entendido que los Ayuntamientos no podrán afectar más de 30% de las participaciones que en ingresos federales les correspondan anualmente;
 
 IX.- Negociar los términos y condiciones, contratar, celebrar y, en su caso, llevar a cabo cualquier acto en relación con operaciones con Instrumentos Derivados, siempre y cuando tiendan a evitar o reducir riesgos económicos o financieros relacionados con la deuda contratada por el Municipio o los Sujetos Obligados Paramunicipales o que mejoren la capacidad crediticia del Municipio;
 
@@ -251,9 +281,11 @@ La contratación de deuda por parte de los Sujetos Obligados se sujetará a los 
 
 La contratación de deuda a cargo de los Ayuntamientos deberá ser previamente autorizada por sus respectivos Cabildos.
 
+> <small>(REFORMADO, D.O. 16 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 12.
 
-Los Sujetos Obligados Paraestatales y Paramunicipales sólo podrán contratar deuda si cuentan con la autorización previa de sus Órganos de Gobierno, y del Ayuntamiento, según sea el caso.
+Para la contratación de Deuda los Sujetos Obligados Paraestatales y Paramunicipales deberán contar con la autorización previa de sus órganos de gobierno, y además, según sea el caso de la Secretaría y del Ayuntamiento respectivamente.
 
 ###### Artículo 13.
 
@@ -261,17 +293,27 @@ Los Sujetos Obligados no podrán contraer deuda pública con personas físicas o
 
 Cuando las obligaciones que asuman los Sujetos Obligados se hagan constar en valores o títulos de crédito, se deberá indicar en el texto de los mismos que sólo podrán ser negociados dentro del territorio nacional con personas físicas o morales de nacionalidad mexicana.
 
+> <small>(REFORMADO, D.O. 16 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 14.
 
-Los Sujetos Obligados sólo podrán contraer deuda directamente o indirectamente cuando tengan estados financieros dictaminados del último ejercicio fiscal, elaborados conforme a las Normas de Información Financiera por un Contador Público registrado ante las autoridades fiscales; o bien, de conformidad con lo dispuesto por la legislación aplicable al sujeto obligado de que se trate, sin que el estado financiero correspondiente al ejercicio más reciente tenga una antigüedad mayor a dieciocho meses al momento de contraer la deuda de que se trate, y siempre que dicho último estado financiero se haya publicado en un periódico de circulación en el Estado y en el Diario Oficial del Gobierno del Estado o en la gaceta municipal en su caso. No obstante lo anterior, el Congreso o el Ayuntamiento, según sea el caso, podrán autorizar a contraer deuda pública sin que se presente los estados financieros del último ejercicio fiscal dictaminado, cuando exista un estado de emergencia o una situación de fuerza mayor debidamente acreditada.
+Los Sujetos Obligados para contraer deuda pública, directa o indirecta, deberán presentar al Congreso una solicitud de autorización, acompañada de sus estados financieros, siempre que éstos:
 
-Los estados financieros deberán acompañarse de un documento que contenga la explicación de las bases o reglas contables utilizadas para el registro de las operaciones y la preparación de dicho estado de ingresos y egresos y que señale, además, las diferencias relevantes entre esas bases y las Normas de Información
+l. Hayan sido dictaminados por Contador Público registrado ante las autoridades fiscales;
 
-Financiera.
+II. Se elaboren conforme a las Normas de Información Financiera o, en su caso, en los términos establecidos en la legislación aplicable al Sujeto Obligado de que se trate. En este último caso los estados financieros deberán acompañarse de un documento que contenga la explicación de las bases o reglas contables utilizadas para el registro de las operaciones y la preparación de dicho estado de ingresos y egresos y que además señale, las diferencias relevantes entre esas bases y las Normas de Información Financiera;
 
-En caso de Sujetos Obligados Paraestatales y Paramunicipales que estén organizados como sociedades mercantiles, los estados financieros deberán prepararse conforme a Normas de Información Financiera aplicables a empresas que cotizan en la Bolsa Mexicana de Valores.
+III. Correspondan al último, o en su caso, penúltimo ejercicio fiscal;
 
-Los requisitos señalados en este artículo no aplicarán para la deuda contraída conforme a lo establecido en el artículo 5 de esta Ley.
+IV. No tengan una antigüedad mayor a 18 meses al momento de contraer la deuda, tomando como referencia al ejercicio fiscal más reciente, y
+
+V. Hubieren sido publicados en un periódico de mayor circulación en el Estado y en el Diario Oficial del Gobierno del Estado, o en su caso, en la gaceta municipal.
+
+El Congreso podrá autorizar, a los Sujetos Obligados, a contratar deuda sin que sus estados financieros estén dictaminados, cuando exista una situación de emergencia o de fuerza mayor debidamente acreditada.
+
+En caso de Sujetos Obligados Paraestatales y Paramunicipales organizados como sociedades mercantiles, los estados financieros deberán elaborarse conforme a Normas de Información Financiera aplicables a empresas que cotizan en la Bolsa Mexicana de Valores.
+
+Los requisitos señalados en este Artículo no aplicarán para la deuda contraída conforme a lo establecido en el segundo párrafo del artículo 5 de esta Ley.
 
 ###### Artículo 15.
 
@@ -295,11 +337,15 @@ II.- Comunicar trimestralmente al Registro, los datos de toda la deuda contratad
 
 III.- Proporcionar a la Secretaría y a la Secretaría de Planeación y Presupuesto toda la información necesaria para que éstas puedan realizar la certificación a que se refiere la fracción XII del artículo 7 de esta Ley.
 
-### CAPÍTULO IV. Del Registro Estatal de Deuda Pública
+> <small>(REFORMADA SU DENOMINACION, D.O. 16 DE DICIEMBRE DE 2010)</small>
+
+### CAPÍTULO IV. Del Registro Estatal de Deuda Pública y Afectaciones
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 16 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 18.
 
-Toda deuda contraída por los Sujetos Obligados de conformidad con esta Ley, y las operaciones en las que el Congreso autorice afectaciones conforme a las fracción III artículo 4 de esta Ley, deberán inscribirse en el Registro, el cual tendrá efectos declarativos. Para tal efecto, el Sujeto Obligado que corresponda deberá solicitar la inscripción y anexar la siguiente documentación:
+Toda deuda contraída por los Sujetos Obligados de conformidad con esta Ley, y las operaciones en las que el Congreso autorice afectaciones conforme a las (sic) fracción III artículo 4 de esta Ley, deberán inscribirse en el Registro Estatal de Deuda Pública y Afectaciones, el cual tendrá efectos declarativos. Para tal efecto, el Sujeto Obligado que corresponda deberá solicitar la inscripción y anexar la siguiente documentación:
 
 I.- Original o copia certificada del documento o contrato en el que conste la deuda contraída por el Sujeto Obligado correspondiente, incluida copia certificada de los títulos de crédito que en su caso hayan sido suscritos, así como de las garantías y afectaciones otorgadas en relación con dicha deuda;
 
@@ -311,19 +357,49 @@ IV.- Declaración del Sujeto Obligado correspondiente de que cumple con los requ
 
 V.- Descripción de los elementos principales de la operación cuyo registro se solicita.
 
+> <small>(ADICIONADO, D.O. 16 DE DICIEMBRE DE 2010)</small>
+
+Para el caso de la deuda que se contrate al amparo del segundo párrafo del artículo 5 únicamente se requerirá copia certificada del instrumento jurídico en el que conste la obligación contraída y, en su caso, de las autorizaciones correspondientes conforme a esta Ley.
+
+> <small>(REFORMADO, D.O. 16 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 19.
 
-La Secretaría, una vez cumplidos los requisitos a que se refiere el artículo anterior, procederá a la inscripción solicitada y notificará al Sujeto Obligado solicitante lo conducente. Si no se cumplen los requisitos para la inscripción, la propia Secretaría lo notificará al Sujeto Obligado solicitante para que, en su caso, subsane la omisión en un término no mayor de diez días hábiles contados a partir de la recepción de la notificación.
+El Registro deberá contar con un apartado en el cual se inscriban todas las afectaciones otorgadas por los Sujetos Obligados con la autorización del Congreso, para garantizar operaciones distintas a las establecidas en el artículo 3 de esta Ley.
+
+Para este caso, los Sujetos Obligados deberán anexar a su solicitud la siguiente documentación:
+
+l.- Original o copia certificada de los documentos o contratos mediante los cuales se hacen las afectaciones correspondientes;
+
+II.- Original o copia certificada del documento que acredite la autorización de la Legislatura del Estado, y
+
+III.- Una descripción general de los elementos principales de la operación cuyo registro se solicita, incluyendo: activo o ingreso afectado, porcentaje que se afecta, monto de inversión, contraprestación o pago mensual por servicios, fecha de inicio del contrato, fecha estimada de la prestación del servicio y fecha de vencimiento del mismo.
+
+Según sea el caso, cumplidos los requisitos a que se refiere este artículo y el anterior, la Secretaria procederá a la inscripción solicitada y notificará al Sujeto Obligado solicitante lo conducente. Si no se cumple con los requisitos correspondientes para la inscripción solicitada, la propia Secretaria lo notificará al Sujeto Obligado para que, en su caso, subsane la omisión en un término no mayor a diez días hábiles contados a partir de la recepción de la notificación.
+
+> <small>(REFORMADO, D.O. 16 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 20.
 
-En el Registro se anotará la fecha de registro de cada deuda inscrita y los elementos principales de la deuda de que se trate, incluidos el plazo, monto, tasa de interés y sus garantías, en su caso.
+En el Registro se anotará la fecha de registro de cada deuda inscrita y los elementos principales de la deuda de que se trate, incluidos el plazo, monto, tasa de interés y garantías, en su caso.
 
-En el caso de las certificaciones respecto de la Deuda y respecto a las demás operaciones inscritas en el Registro, la Secretaría las expedirá, a quienes acrediten su interés jurídico.
+En el Apartado de Afectaciones a que se refiere el artículo anterior se inscribirán todas aquellas autorizadas a los Sujetos Obligados para garantizar cualquier operación distinta a las establecidas en el artículo 3 de esta Ley y además deberá incluir los elementos siguientes:
 
-Conforme a la fecha y hora de inscripción en el Registro, se dará preferencia a los acreedores con respecto a afectaciones en su beneficio como garantía, fuente de pago o de cualquier otra forma. Dicha preferencia no aplicará en caso de que dichas afectaciones se hagan a través de un fideicomiso o un mecanismo similar para una o varias operaciones determinadas o determinables, en cuyo caso aplicará la prelación y preferencia en el pago indicada en los contratos de fideicomiso u otros documentos mediante los cuales se implementen los mecanismos legales correspondientes.
+l.- Fecha en que se aprobó la Afectación;
 
-A solicitud del Ayuntamiento o del Sujeto Obligado Paramunicipal correspondiente, la Secretaría podrá asumir el compromiso de hacer pagos directamente a favor de uno o más acreedores, con cargo a las participaciones, aportaciones o ingresos afectados por un Municipio o Sujeto Obligado Paramunicipal como garantía, fuente de pago o de cualquier otra forma, conforme a la disponibilidad de recursos.
+II.- El monto del activo o ingreso afectado;
+
+III.- El porcentaje del activo o ingreso que se afecta;
+
+IV.- Monto de inversión relacionado con la Afectación;
+
+V.- La contraprestación o pago mensual por servicios;
+
+VI.- La fecha de inicio del contrato;
+
+VII.- La fecha estimada de la prestación del servicio, así como la de vencimiento del mismo, y
+
+VIII.- Los demás datos que determine la Secretaría atendiendo al tipo de operación.
 
 ###### Artículo 21.
 
@@ -368,5 +444,11 @@ SECRETARIO GENERAL DE GOBIERNO
 D.O. 21 DE SEPTIEMBRE DE 2009.
 
 ###### ARTÍCULO ÚNICO.
+
+Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 16 DE DICIEMBRE DE 2010.
+
+###### ARTICULO ÚNICO.
 
 Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
