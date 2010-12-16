@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-los-derechos-de-las-personas-adultas-mayores-en-el-22840
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-06"
-last_updated: "2007-04-19"
+last_updated: "2010-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22840&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE ABRIL DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el jueves 6 de diciembre del 2001.
 
@@ -333,13 +333,15 @@ VII.- Denunciar ante las autoridades competentes, cuando sea procedente, cualqui
 
 VIII.- Procurar que las personas adultas mayores en situación de riesgo o desamparo, cuente con un lugar donde vivir, que cubra sus necesidades básicas;
 
-> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2007)</small>
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
-IX.- Vigilar que las Dependencias, y Entidades de la Administración Pública estatal, y las instituciones de salud públicas y privadas, presten el cuidado y atención preferencial adecuada a las personas adultas mayores, respetando sus derechos, a través de mecanismos de seguimiento y supervisión, en coordinación con la Secretaría de Desarrollo Social, Cultura y Deporte; y
+IX.- Vigilar que las Dependencias y Entidades de la Administración Pública estatal, y las instituciones de salud públicas y las privadas, presten el cuidado y la atención preferencial adecuada a las personas adultas mayores, respetando sus derechos, a través de mecanismos de seguimiento y supervisión, en coordinación con la Secretaria de Desarrollo Social, Cultura y Deporte;
 
-> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2007)</small>
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
-X.- Las demás que le confieran otros ordenamientos jurídicos.
+X.- Integrar el más amplio registro de las instituciones públicas o privadas que se constituyan en casas hogar, albergues, residencias de día o cualquier centro de atención a favor de las personas adultas mayores en el Estado; y
+
+XI.- Las demás que le confieran otros ordenamientos jurídicos.
 
 ## TITULO QUINTO
 
@@ -554,3 +556,9 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 19 DE ABRIL DE 2007.
 
 Artículo Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE DICIEMBRE DE 2010.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
