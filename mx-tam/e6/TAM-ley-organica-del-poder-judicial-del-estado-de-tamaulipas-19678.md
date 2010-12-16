@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-del-poder-judicial-del-estado-de-tamaulipas-19678"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-19"
-last_updated: "2010-05-26"
+last_updated: "2010-12-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19678&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE MAYO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 19 de diciembre de 2000.
 
@@ -179,7 +179,7 @@ Durante los días inhábiles deberán dejarse guardias que atiendan los término
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 6º.
 
@@ -215,7 +215,7 @@ X.- Los demás que los que la ley les confiera dicho carácter.
 
 ###### ARTICULO 9º.
 
-El Supremo Tribunal de Justicia residirá oficialmente en la capital del Estado. Las Salas Regionales, residirán en Reynosa, Victoria y Altamira. La de Reynosa, ejercerá jurisdicción sobre los siguientes Distritos: Tercero, Cuarto, Quinto, Sexto, Décimo Tercero y Décimo Cuarto; la de Victoria en los Distritos Primero, Séptimo, Octavo, Noveno, Décimo, Décimo Primero y Décimo Segundo; y, la de Altamira, en los Distritos Segundo, y Décimo Quinto. Los Jueces de Primera Instancia tendrán su residencia oficial en las cabeceras de sus respectivos distritos judiciales, los Jueces Menores y de Paz residirán en las cabeceras municipales respectivas.
+El Supremo Tribunal de Justicia residirá oficialmente en la capital del Estado. Las Salas Regionales, residirán en Reynosa, Victoria y Altamira. La de Reynosa, ejercerá jurisdicción sobre los siguientes Distritos: Tercero, Cuarto, Quinto, Sexto, Décimo Tercero y Décimo Cuarto; la de Victoria en los Distritos Primero, Séptimo, Octavo, Noveno, Décimo, Décimo Primero y Décimo Segundo; y, la de Altamira, en los Distritos Segundo, y Décimo Quinto. Los Juzgados de Primera Instancia se asentarán en las cabeceras de los distritos judiciales, con salvedad de los Especializados en Justicia para Adolescentes y en delitos contra la Salud en la modalidad de Narcomenudeo y Jueces de Ejecución de Sanciones cuya residencia fija la ley. Los Jueces Menores y de Paz residirán en las cabeceras municipales respectivas.
 
 > <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
 
@@ -225,11 +225,13 @@ Se procurará que los Juzgados de Justicia para Adolescentes tengan su domicilio
 
 El Tribunal Electoral del Poder Judicial del Estado residirá oficialmente en Victoria.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 10.
 
-El territorio del Estado de Tamaulipas, con excepción de la justicia para adolescentes y la electoral, se divide en quince Distritos, los cuales son:
+El territorio del Estado de Tamaulipas, con excepción de la justicia para adolescentes, la electoral, y la penal en materia de narcomenudeo, se divide en quince Distritos, los cuales son:
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 PRIMER DISTRITO JUDICIAL: Cabecera en Victoria, y comprende los Municipios de Victoria, Güemez y Casas.
 
@@ -237,49 +239,85 @@ PRIMER DISTRITO JUDICIAL: Cabecera en Victoria, y comprende los Municipios de Vi
 
 SEGUNDO DISTRITO JUDICIAL: Cabecera en Altamira, y comprende los Municipios de Altamira, Tampico y Ciudad Madero.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
 TERCER DISTRITO JUDICIAL: Cabecera en Nuevo Laredo, y comprende el Municipio del mismo nombre.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 CUARTO DISTRITO JUDICIAL: Cabecera en Matamoros, y comprende el Municipio del mismo nombre.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
 QUINTO DISTRITO JUDICIAL: Cabecera en Reynosa, y comprende el Municipio del mismo nombre.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 SEXTO DISTRITO JUDICIAL: Cabecera en Miguel Alemán, y comprende los Municipios de Miguel Alemán, Mier, Guerrero, Camargo y Gustavo Díaz Ordaz.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
 SEPTIMO DISTRITO JUDICIAL: Cabecera en El Mante, y comprende los Municipios de El Mante, Antiguo Morelos y Nuevo Morelos.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 OCTAVO DISTRITO JUDICIAL: Cabecera en Xicoténcatl, y comprende los Municipios de Xicoténcatl, Gómez Farías, Ocampo y Llera.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
 NOVENO DISTRITO JUDICIAL: Cabecera en Tula, y comprende los Municipios de Tula, Bustamente, Miquihuana, Jaumave y Palmillas.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 DECIMO DISTRITO JUDICIAL: Cabecera en Padilla, y comprende los Municipios de Padilla, San Carlos, San Nicolás, Jiménez, Mainero, Villagrán e Hidalgo.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
 DECIMO PRIMER DISTRITO JUDICIAL: Cabecera en San Fernando, y comprende los Municipios de San Fernando, Méndez, Burgos y Cruillas.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 DECIMO SEGUNDO DISTRITO JUDICIAL: Cabecera en Soto la Marina, y comprende los Municipios de Soto la Marina y Abasolo.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
 DECIMO TERCER DISTRITO JUDICIAL: Cabecera en Río Bravo, y comprende el Municipio del mismo nombre.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 DECIMO CUARTO DISTRITO JUDICIAL: Cabecera en Valle Hermoso, y comprende el Municipio del mismo nombre.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
 DECIMO QUINTO DISTRITO JUDICIAL: Cabecera en González, y comprende los Municipios de González y Aldama.
 
-> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 10 Bis.
 
-El territorio del Estado de Tamaulipas, en tratándose de Justicia para Adolescentes, se divide en seis Distritos Judiciales, que tendrán su residencia en las siguientes cabeceras municipales:
+El territorio del Estado de Tamaulipas, en tratándose de Justicia para Adolescentes y en materia penal en delitos contra la salud en la modalidad de narcomenudeo, se divide en seis Distritos Judiciales, que tendrán su residencia en las siguientes cabeceras municipales:
 
 > <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2007)</small>
 
 Primer Distrito Judicial: Cabecera en Victoria, y comprende los Distritos Judiciales I, IX, X y XII.
 
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+
 Segundo Distrito Judicial: Cabecera en Altamira, y comprende los Distritos Judiciales II y XV.
+
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
 
 Tercer Distrito Judicial: Cabecera en Nuevo Laredo, y comprende los Distritos Judiciales III y VI.
 
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+
 Cuarto Distrito Judicial: Cabecera en Matamoros, y comprende los Distritos Judiciales IV, XI y XIV.
 
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+
 Quinto Distrito Judicial: Cabecera en Reynosa, y comprende los Distritos Judiciales V y XIII.
+
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
 
 Sexto Distrito Judicial: Cabecera en El Mante, y comprende los Distritos Judiciales VII y VIII.
 
@@ -751,13 +789,15 @@ II.- Los Jueces de lo Familiar;
 
 III.- Los Jueces de lo Penal; y (sic),
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
-IV.- Los Jueces Especializados en Justicia para Adolescentes; y,
+IV.- Los Jueces Especializados en Justicia para Adolescentes y en delitos contra la salud en la modalidad de narcomenudeo;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
-V.- Los Jueces Mixtos.
+V.- Los Jueces de ejecución de sanciones, y
+
+VI.- Los Jueces Mixtos.
 
 ###### ARTICULO 36.
 
@@ -884,6 +924,22 @@ XI.- Desempeñar las demás funciones que les encomienden las leyes federales y 
 ###### ARTICULO 40.
 
 En los Distritos Judiciales en que el volumen de los negocios no amerite que los Juzgados se especialicen por materia, funcionarán Juzgados Mixtos, incluida la materia Familiar.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+###### ARTICULO 40 Bis.
+
+. Corresponde a los Jueces Especializados en delitos contra la salud en su modalidad de narcomenudeo:
+
+I.- Conocer de los delitos Contra la Salud en la modalidad de narcomenudeo previstos por el artículo 474 de la Ley General de Salud, aplicando en todo lo conducente, las disposiciones del Código de Procedimientos Penales Vigente en el Estado, y de manera supletoria el Código Federal de Procedimientos Penales;
+
+II.- Sustanciar los medios de comunicación procesal que les encomienden los jueces del estado u otros tribunales del país, relacionados con su función;
+
+III.- Realizar las diligencias que le encomiende el Supremo Tribunal de Justicia del Estado;
+
+IV.- Visitar mensualmente los establecimientos donde se encuentren recluidos los procesados a su disposición para los efectos del título Sexto de ésta Ley; y
+
+V.- Desempeñar las demás funciones que les encomienden las leyes del estado y las federales.
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2003)</small>
 
@@ -3012,3 +3068,13 @@ P.O. 26 DE MAYO DE 2010
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE DICIEMBRE DE 2010.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el 21 de agosto de 2012 y será publicado en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+El Titular del Poder Ejecutivo establecerá en el Presupuesto de Egresos, los recursos necesarios para las acciones derivadas para el cumplimento del presente Decreto.
