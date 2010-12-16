@@ -4,7 +4,7 @@ identifier: "TAM-ley-que-establece-las-bases-normativas-en-materia-de-bandos-803
 country: "mx"
 rank: "ley"
 publication_date: "1987-11-30"
-last_updated: "1987-11-30"
+last_updated: "2010-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8032&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY QUE ESTABLECE LAS BASES NORMATIVAS EN MATERIA DE BANDOS DE POLICIA Y BUEN GOBIERNO PARA EL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial, el 30 de noviembre de 1987.
 
@@ -45,25 +45,33 @@ LEY QUE ESTABLECE LAS BASES NORMATIVAS EN MATERIA DE BANDOS DE POLICIA Y BUEN GO
 
 DISPOSICIONES GENERALES.
 
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 1o.
 
-Esta Ley establece las bases normativas para que los Ayuntamientos expidan Bandos de Policía y Buen Gobierno en sus respectivos Municipios, y es de orden público y observancia general.
+Esta ley es de orden público y observancia general, y establece las bases normativas para la expedición de los Bandos de Policía y Buen Gobierno de cada Municipio.
 
 ###### ARTICULO 2o.
 
 Esta Ley regulará las formalidades procesales a que se sujetará la imposición de sanciones en materia de faltas de Policía y Buen Gobierno.
 
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 3o.
 
-Las disposiciones contenidas en esta Ley, serán aplicadas a las personas mayores de 16 años.
+Las disposiciones contenidas en esta ley, serán aplicadas a las personas mayores de 18 años.
+
+En tratándose de menores de edad se aplicarán las disposiciones legales que correspondan, sin embargo, con el interés de proteger a los niños y a los adolescentes que se vean implicados en alguna infracción a los Bandos de Policía y Buen Gobierno, se deberá comunicar de su detención o remisión a las celdas municipales, a quienes ejerzan la patria potestad o tutela sobre ellos, para que se impongan de lo ocurrido y actúen en consecuencia.
 
 ### CAPITULO SEGUNDO
 
 DE LAS FALTAS DE POLICIA Y BUEN GOBIERNO.
 
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 4o.
 
-Se consideran faltas de Policía y Buen Gobierno todas aquellas conductas que alteren el orden público en lugares de uso común, acceso público y libre tránsito y que tengan efectos en esos lugares.
+Se consideran faltas de Policía y Buen Gobierno todas aquellas conductas que alteren el orden público en lugares de uso común, acceso público o libre tránsito y que tengan efectos en esos lugares.
 
 ###### ARTICULO 5o.
 
@@ -85,33 +93,45 @@ DE LAS SANCIONES.
 
 Se impondrá la sanción correspondiente a toda falta de Policía y Buen Gobierno.
 
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 8o.
 
-Los Bandos de Policía y Buen Gobierno enunciarán la sanción a !as faltas, que consistirán, de acuerdo con su naturaleza y gravedad en: Apercibimiento, amonestación, multa o arresto.
+Los Bandos de Policía y Buen Gobierno enunciarán la sanción a las faltas, que de acuerdo con su naturaleza y gravedad, consistirán en: multa, arresto hasta por treinta y seis horas o en trabajo a favor de la comunidad. Si el infractor no paga la multa que se le hubiese impuesto, se permutará ésta por el arresto correspondiente, que no excederá en ningún caso de treinta y seis horas.
+
+El apercibimiento y la amonestación se podrán imponer cuando el infractor tenga entre doce años cumplidos y menos de dieciocho años de edad. En ningún caso procederá otro tipo de sanción para menores, por faltas a los Bandos de Policía y Buen Gobierno.
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 9o.
 
-Para los efectos de esta Ley, se establecen las siguientes definiciones:
+Para los efectos de esta ley, se entenderá por:
 
-I.- APERCIBIMIENTO es la conminación que el Juez Calificador hace al infractor para que haga o deje de hacer algo previsto en la Ley.
+I.- APERCIBIMIENTO: la conminación que el Juez Calificador hace al infractor para que haga o deje de hacer algo previsto en la ley;
 
-II.- AMONESTACION es la censura, pública o privada, que el Juez Calificador hace al infractor.
+II.- AMONESTACION: la censura, pública o privada, que el Juez Calificador hace al infractor;
 
-III.- MULTA es el pago de una cantidad de dinero hasta por el equivalente a 20 días de salario mínimo diario general en la zona, que el infractor hace al Ayuntamiento, la cual no podrá ser mayor de un día de salario mínimo cuando dicho infractor fuere jornalero, obrero o trabajador no asalariado.
+III.- MULTA: el pago de una cantidad de dinero que va desde un día de salario mínimo hasta por el equivalente a 20 días de salario mínimo diario general en la zona, que el infractor hace al Ayuntamiento, la cual no podrá ser mayor de un día de salario mínimo cuando dicho infractor fuere jornalero, obrero o trabajador no asalariado;
 
-IV.- ARRESTO es la privación de la libertad hasta por 36 horas; quedando prohibida la incomunicación del arrestado.
+IV.- ARRESTO: la privación de la libertad hasta por treinta y seis horas, quedando prohibida la incomunicación del arrestado; y
+
+V.- TRABAJO A FAVOR DE LA COMUNIDAD: el que consiste en la prestación de servicios no remunerados, en instituciones públicas o privadas, si estas últimas son asistenciales, educativas o no lucrativas. La ejecución se verificará en horario distinto al de labores del infractor o, en su caso, al del horario de clases, si fuera estudiante. Esta sanción no excederá de ocho horas.
 
 ###### ARTICULO 10.
 
 El arresto se cumplirá en lugares diferentes a los designados para las personas sujetas a averiguación previa, procesados o sentenciados. Los varones estarán separados de las mujeres.
 
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 11.
 
-Sólo el órgano competente podrá decretar el arresto y éste será ejecutado por la Policía Preventiva. Esta no podrá aprehender, ni privar de la libertad a ninguna persona, salvo los casos de flagrancia o notoria urgencia, poniendo al o los detenidos inmediatamente a la disposición del Juez Calificador.
+Sólo el órgano competente podrá decretar el arresto y éste será ejecutado por la Policía Preventiva. Esta no podrá aprehender, ni privar de la libertad a ninguna persona, salvo los casos de urgencia o flagrancia, poniendo al o los detenidos inmediatamente a la disposición del Juez Calificador.
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 12.
 
-El Juez Calificador pondrá de inmediato a disposición del Consejo Tutelar a los menores de 16 años.
+Toda persona mayor de doce años y menor de dieciocho años de edad, que sea puesta a disposición de un Juez Calificador o detenida por alguna institución de seguridad pública, a quien se le atribuya la realización de una conducta tipificada como delito por la ley penal, será turnado de inmediato y sin demora ante la autoridad competente, en términos de la Ley de Justicia para Adolescentes del Estado.
 
 ###### ARTICULO 13.
 
@@ -131,7 +151,9 @@ El órgano competente para conocer y sancionar las faltas de Policía y Buen Gob
 
 Los Jueces Calificadores contarán con un Secretario y con el personal administrativo necesario para el desempeño de sus funciones. El Secretario ejercerá las atribuciones asignadas legalmente al Juez Calificador, en ausencia de éste; a falta de ambos los suplirá el Síndico correspondiente.
 
-El Juez Calificador, en el ejercicio de sus atribuciones girará instrucciones a las Policías Preventivas en su jurisdicción, por conducto del superior jerárquico de éstas.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+En el ejercicio de sus atribuciones, el Juez Calificador girará instrucciones a la Policía Preventiva del Municipio en que encuentre adscrito, por conducto del superior jerárquico de ésta.
 
 ###### ARTICULO 16.
 
@@ -141,7 +163,9 @@ I.- Ser ciudadano mexicano en ejercicio de sus derechos;
 
 II.- Residir en la municipalidad;
 
-III.- De preferencia, Licenciado en Derecho o Pasante; podrá dispensarse este requisito en los lugares donde no exista este tipo de profesionistas; y,
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+III.- Ser, preferentemente, Licenciado en Derecho o pasante de dicha carrera. Podrá dispensarse este requisito en los lugares donde no exista este tipo de profesionistas; y,
 
 IV.- No haber sido condenado por delito doloso.
 
@@ -152,6 +176,10 @@ La designación de los Jueces Calificadores y de los Secretarios, corresponderá
 ###### ARTICULO 18.
 
 Será obligación de los Jueces Calificadores, rendir al Presidente Municipal, un informe anual de labores, y llevar una estadística de las Faltas de Policía y Buen Gobierno ocurridas en su Municipio, su incidencia, frecuencia y los constantes hechos que influyen en su realización.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+Asimismo, se asegurará de que el responsable de la institución policial que realiza la detención de algún infractor, o de quien éste determine, realice de inmediato el aviso administrativo de dicha detención al Centro Nacional de Información o al Sistema Estatal de Información, a través del Informe Policial Homologado, en términos de la Ley de Coordinación del Sistema de Seguridad Pública del Estado de Tamaulipas.
 
 ### CAPITULO QUINTO
 
@@ -226,3 +254,11 @@ SALON DE SESIONES DEL H. CONGRESO DEL ESTADO.- Cd. Victoria, Tam., a 14 de octub
 Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
 
 Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, capital del Estado de Tamaulipas, a los diecinueve días del mes de octubre de mil novecientos ochenta y siete.- El Gobernador Constitucional del Estado, ING. AMERICO VILLARREAL GUERRA.- El Secretario General de Gobierno, LIC. HERIBERTO BATRES GARCIA.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 16 DE DICIEMBRE DE 2010.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
