@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-gobierno-de-los-municipios-del-estado-de-yucatan-48342"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-25"
-last_updated: "2009-02-10"
+last_updated: "2010-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48342&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE GOBIERNO DE LOS MUNICIPIOS DEL ESTADO DE YUCATAN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 10 DE FEBRERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 16 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el miércoles 25 de enero de 2006.
 
@@ -2199,23 +2199,15 @@ El Ayuntamiento, por conducto de la oficina o dependencia ejecutora tendrá la f
 
 ###### Artículo 167.
 
-La deuda Pública de los Municipios, para los efectos de este Capítulo, está constituida por las obligaciones de pago directas o contingentes, derivadas de financiamiento y a cargo de las dependencias y entidades que conforman la Administración Pública Municipal. Podrá ser de corto o largo plazo; se entiende por deuda de corto plazo aquella que no obliga al Ayuntamiento por más tiempo de su período Constitucional.
+(DEROGADO, D.O. 16 DE DICIEMBRE DE 2010)
 
 ###### Artículo 168.
 
-Se entiende por financiamiento, la contratación de créditos, préstamos o empréstitos derivados de:
-
-I.- La suscripción de títulos de crédito o cualquier otro documento pagadero a plazos.
-
-II.- La adquisición de bienes de cualquier tipo así como la contratación de obras o servicios cuyo pago se pacte a plazos.
-
-III.- La celebración de actos jurídicos análogos a los anteriores.
+(DEROGADO, D.O. 16 DE DICIEMBRE DE 2010)
 
 ###### Artículo 169.
 
-El Ayuntamiento podrá contraer obligaciones o financiamientos, únicamente cuando se destine a inversión pública productiva, inclusive los que contraigan organismos descentralizados y empresas paramunicipales, conforme a las bases que se establezcan.
-
-Para efecto de la presente Ley se entiende por inversión pública productiva, la destinada a la ejecución de obras y servicios públicos, a la adquisición o manufactura de bienes, siempre que en forma directa o indirecta produzcan incremento del ingreso o bien, atiendan a propósitos de interés general que contribuyan a los fines del Plan Municipal de Desarrollo.
+(DEROGADO, D.O. 16 DE DICIEMBRE DE 2010)
 
 #### SECCIÓN TERCERA. DEL FINANCIAMIENTO A LARGO PLAZO
 
@@ -2225,7 +2217,7 @@ El Ayuntamiento podrá autorizar la contratación de financiamientos, siempre y 
 
 I.- Que exista la capacidad financiera para contraer la deuda, en base al estado de resultados de ingresos y egresos que presente la Tesorería Municipal;
 
-II.- Que el pago de los servicios de la deuda de todas las obligaciones contraídas no sea mayor al treinta por ciento del monto anual de sus participaciones, con el fin de salvaguardar la operación de la administración y la prestación eficiente de los servicios públicos, y
+II.- (DEROGADA, D.O. 16 DE DICIEMBRE DE 2010)
 
 III.- Que esté contemplada en la respectiva Ley de Ingresos del ejercicio.
 
@@ -2245,11 +2237,11 @@ III.- Las demás que establezcan las leyes aplicables.
 
 El Congreso del Estado autorizará anualmente en la Ley de Ingresos de los Municipios los montos de endeudamiento neto, que sean necesarios para el financiamiento de los programas de las dependencias y entidades que integran la Administración Pública Municipal.
 
+> <small>(REFORMADO, D.O. 16 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 173.
 
-El Ayuntamiento con base en su programa financiero anual, al someter a la Legislatura local la Ley de Ingresos, deberán proponer, en su caso, los montos globales de endeudamiento para el financiamiento de su Presupuesto de Egresos, proporcionando los elementos de juicio suficientes para fundar su propuesta.
-
-El monto de endeudamiento aprobado en las respectivas leyes de ingresos será la base para la contratación de los créditos necesarios para el financiamiento de los programas que deriven del Plan Municipal de Desarrollo e incluidos en el Presupuesto de Egresos respectivo.
+El monto de endeudamiento neto aprobado en las respectivas leyes de ingresos será la base para la contratación de proyectos de inversión pública productiva que deriven del Plan Municipal de Desarrollo e incluidos en el Presupuesto de Egresos respectivo.
 
 ###### Artículo 174.
 
@@ -2942,3 +2934,9 @@ Se derogan todas las disposiciones que se opongan al presente Decreto.
 ###### ARTÍCULO TERCERO.
 
 Los trámites de fundo legal que al entrar en vigor este Decreto estén en curso, se sujetarán a las disposiciones de este Decreto.
+
+D.O. 16 DE DICIEMBRE DE 2010.
+
+###### ARTICULO ÚNICO.
+
+Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
