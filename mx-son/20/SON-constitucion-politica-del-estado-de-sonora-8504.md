@@ -4,7 +4,7 @@ identifier: "SON-constitucion-politica-del-estado-de-sonora-8504"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-15"
-last_updated: "2010-05-13"
+last_updated: "2010-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CONSTITUCION POLITICA DEL ESTADO DE SONORA, QUE REFORMA LA DE 1o. DE NOVIEMBRE DE 1872
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 13 DE MAYO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 16 DE DICIEMBRE DE 2010.
 
 Constitución publicada en la Edición Oficial del Estado de Sonora, el 15 de septiembre de 1917.
 
@@ -45,15 +45,71 @@ Los Derechos del Hombre son la base y el objeto de las instituciones sociales. E
 
 Las autoridades, los funcionarios y empleados del Estado y Municipios tienen la ineludible obligación de respetar y hacer respetar, en la órbita de sus facultades, las garantías y las prerrogativas que esta Constitución Local concede.
 
-El Estado reconoce la composición pluricultural de su población, en particular la asentada en los grupos de nuestro origen, y proveerá lo necesario para asegurar el respeto a sus lenguas, culturas, usos, costumbres, recursos, formas específicas de organización social y garantizarles el efectivo acceso a la jurisdicción estatal, procurando consolidar los rasgos de nuestra nacionalidad.
+> <small>(REFORMADO, B.O. 16 DE DICIEMBRE DE 2010)</small>
+
+El Estado de Sonora tiene una composición pluricultural sustentada originalmente en los pueblos indígenas, que son aquellos que descienden de poblaciones que habitaban en el territorio actual del Estado al momento de iniciarse la colonización y que conservan sus propias instituciones sociales, económicas, culturales y políticas, o parte de ellas.
+
+> <small>(ADICIONADO, B.O. 16 DE DICIEMBRE DE 2010)</small>
+
+Esta Constitución reconoce y garantiza el derecho de los pueblos y las comunidades indígenas a la libre determinación y, en consecuencia, a la autonomía, asegurando la unidad estatal, para:
+
+A).- Decidir sus formas internas de convivencia y organización social, económica, política y cultural.
+
+B).- Aplicar sus propios sistemas normativos en la regulación y solución de sus conflictos internos, sujetándose a los principios generales que se establecen en la Constitución Política de los Estados Unidos Mexicanos, respetando las garantías individuales, los derechos humanos y, de manera relevante, la dignidad e integridad de las mujeres. La ley establecerá los casos y procedimientos de validación por los jueces o tribunales correspondientes.
+
+C).- Elegir de acuerdo con sus normas, usos y costumbres, procedimientos y prácticas tradicionales, a las autoridades o representantes para el ejercicio de sus formas propias de gobierno interno, garantizando la participación de las mujeres en condiciones de equidad frente a los varones, en un marco que respete el pacto federal y la soberanía del Estado.
+
+D).- Preservar y enriquecer sus lenguas, conocimientos y todos los elementos que constituyan su cultura e identidad.
+
+E).- Conservar y mejorar el hábitat y sus recursos naturales y preservar la integridad de sus tierras, en los términos establecidos en la Constitución Política de los Estados Unidos Mexicanos y las leyes respectivas.
+
+F).- Acceder, con respeto a las formas y modalidades de propiedad y tenencia de la tierra establecidas en la Constitución Política de los Estados Unidos Mexicanos y a las leyes de la materia, así como a los derechos adquiridos por terceros o por integrantes de la comunidad, al uso y disfrute preferente de los recursos naturales de los lugares que habitan y ocupan las comunidades, salvo aquellos que corresponden a las áreas estratégicas, en términos de la Constitución Política de los Estados Unidos Mexicanos. Para estos efectos, las comunidades podrán asociarse en términos de ley.
+
+G).- Elegir, en los municipios con población indígena, representantes ante los ayuntamientos, en los términos dispuestos en la Ley.
+
+H).- Acceder plenamente a la jurisdicción del Estado. Para garantizar ese derecho, en todos los juicios y procedimientos en que sean parte, individual o colectivamente, se deberán tomar en cuenta sus costumbres y especificidades culturales, respetando los preceptos de la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes respectivas. Los indígenas tienen, en todo tiempo, el derecho a ser asistidos por intérpretes y defensores que tengan conocimiento de su lengua y cultura.
+
+> <small>(ADICIONADO, B.O. 16 DE DICIEMBRE DE 2010)</small>
+
+El Estado y los municipios, para promover la igualdad de oportunidades de los indígenas y eliminar cualquier práctica discriminatoria, establecerán las instituciones y determinarán las políticas necesarias para garantizar la vigencia de los derechos de los indígenas y el desarrollo integral de sus pueblos y comunidades, las cuales deberán ser diseñadas y operadas conjuntamente con ellos. Para abatir las carencias y rezagos que afectan a los pueblos y comunidades indígenas, dichas autoridades, tienen la obligación de:
+
+A).- Impulsar el desarrollo regional de las zonas indígenas con el propósito de fortalecer las economías locales y mejorar las condiciones de vida de sus pueblos, mediante acciones coordinadas entre los diferentes órdenes de gobierno, con la participación de las comunidades. Las autoridades municipales determinarán, equitativamente, las asignaciones presupuestales que las comunidades administrarán directamente para fines específicos.
+
+B).- Garantizar e incrementar los niveles de escolaridad, favoreciendo la educación bilingüe e intercultural, la alfabetización, la conclusión de la educación básica, la capacitación productiva y la educación media superior y superior; establecer un sistema de becas para los estudiantes indígenas en todos los niveles; definir y desarrollar programas educativos de contenido regional que reconozcan la herencia cultural de sus pueblos, de acuerdo con las leyes de la materia y en consulta con las comunidades indígenas, e impulsar el respeto y conocimiento de las diversas culturas existentes en el Estado.
+
+C).- Asegurar el acceso efectivo a los servicios de salud, aprovechando debidamente la medicina tradicional, así como apoyar la nutrición de los indígenas mediante programas de alimentación, en especial para la población infantil.
+
+D).- Mejorar las condiciones de las comunidades indígenas y de sus espacios para la convivencia y recreación, mediante acciones que faciliten el acceso al financiamiento público y privado para la construcción y mejoramiento de vivienda, así como ampliar la cobertura de los servicios sociales básicos.
+
+E).- Propiciar la incorporación de las mujeres indígenas al desarrollo, mediante el apoyo a las actividades productivas, la protección de su salud, el otorgamiento de estímulos para favorecer su educación y su participación en la toma de decisiones relacionadas con la vida comunitaria.
+
+F).- Extender la red de comunicaciones que permita la integración de las comunidades, mediante la construcción y ampliación de vías de comunicación.
+
+G).- Apoyar las actividades productivas y el desarrollo sustentable de las comunidades indígenas mediante acciones que permitan alcanzar la suficiencia de sus ingresos económicos, la aplicación de estímulos para las inversiones públicas y privadas que propicien la creación de empleos, la incorporación de tecnologías para incrementar su propia capacidad productiva, así como para asegurar el acceso equitativo a los sistemas de abasto y comercialización.
+
+H).- Establecer políticas sociales para proteger a los migrantes de los pueblos indígenas, tanto en el territorio estatal como en el extranjero, mediante acciones para garantizar los derechos laborales de los jornaleros agrícolas; mejorar las condiciones de salud de las mujeres; apoyar con programas especiales de educación y nutrición a niños y jóvenes de familias migrantes; velar por el respeto de sus derechos humanos y promover la difusión de sus culturas.
+
+I).- Consultar a los pueblos indígenas en la elaboración de los planes estatal y municipales de desarrollo y, en su caso, incorporar las recomendaciones y propuestas que realicen.
+
+> <small>(ADICIONADO, B.O. 16 DE DICIEMBRE DE 2010)</small>
+
+Para garantizar el cumplimiento de las obligaciones señaladas en el párrafo que antecede, el Estado y los ayuntamientos, en el ámbito de sus respectivas competencias, establecerán las partidas específicas destinadas al cumplimiento de estas obligaciones en los presupuestos de egresos que aprueben, así como las formas y procedimientos para que las comunidades participen en el ejercicio y vigilancia de las mismas.
 
 ###### Artículo 2.
 
 En Sonora la investidura de los funcionarios públicos emana de la ley y está sujeta a ella. Las prescripciones legales constituyen el único límite a la libertad individual. En este concepto, las autoridades sólo pueden obrar ejercitando facultades expresas de la ley y los particulares pueden hacer todo lo que ésta no les prohíba.
 
-> <small>(ADICIONADO, B.O. 7 DE OCTUBRE DE 2004)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO DE LEY QUE MODIFICA ESTA CONSTITUCION.</small>
 
-El Estado garantizará el derecho de acceso a la información pública, sin más limitación que el respeto a la privacidad de los individuos y la seguridad estatal y nacional. El deber público concomitante a este derecho será cumplido directamente por las autoridades obligadas. La vigilancia de este cumplimiento quedará a cargo del Tribunal Estatal Electoral y de Transparencia Informativa que resolverá con fuerza de imperio todas las controversias que se susciten al efecto. La ley secundaria establecerá procedimientos sencillos y plazos cortos para la respuesta de la autoridad a los peticionarios particulares de información pública. Esta misma ley definirá los conceptos relacionados con el derecho de acceso a la información pública y las atribuciones competenciales de los órganos encargados de su cumplimiento y vigilancia, sobre la base de que el deber público respectivo se extiende tanto a los tres poderes del estado, como a los ayuntamientos, organizaciones paraestatales y paramunicipales y, en general, a todos los niveles de gobierno, cualquiera que sea su denominación o estructura, así como a los partidos políticos y las personas físicas o morales, inclusive de naturaleza privada, que por cualquier motivo y de cualquier modo reciban fondos públicos.
+> <small>(REFORMADO, B.O. 16 DE DICIEMBRE DE 2010)</small>
+
+El Estado garantizará el derecho de acceso a la información pública, sin más limitación que el respeto a la privacidad de los individuos, la seguridad pública y la seguridad nacional. La información pública sólo podrá ser reservada temporalmente por razones de interés público en los términos que fije la ley. El deber público concomitante con este derecho será cumplido directamente por las autoridades obligadas y en la interpretación de este derecho, deberá prevalecer el principio de máxima publicidad. La vigilancia de este cumplimiento quedará a cargo del Instituto de Transparencia Informativa del Estado de Sonora, que resolverá con fuerza de imperio todas las controversias que se susciten al efecto. La ley establecerá procedimientos sencillos y plazos cortos para la respuesta de la autoridad a los peticionarios particulares de información pública, así como procedimientos de revisión expeditos; asimismo, definirá los conceptos relacionados con el derecho de acceso a la información pública, sobre la base de que el deber publico respectivo se extiende a los tres poderes del Estado, a los ayuntamientos, entidades paraestatales y paramunicipales, organismos autónomos y, en general, a todos los entes públicos, cualquiera sea su denominación o estructura, así como a los partidos políticos y las personas privadas, físicas o morales, que por cualquier motivo y de cualquier modo, reciban recursos públicos para su ejercicio con ese carácter, en los términos que establezca la ley.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO DE LEY QUE MODIFICA ESTA CONSTITUCION.</small>
+
+> <small>(ADICIONADO, B.O. 16 DE DICIEMBRE DE 2010)</small>
+
+El Instituto de Transparencia Informativa del Estado de Sonora, es un órgano autónomo con personalidad jurídica y patrimonio propio, especializado e imparcial en materia de transparencia, acceso a la información pública y protección de datos personales, dotado de autonomía presupuestal, operativa, de gestión y de decisión; se integra con tres vocales que ejercerán las funciones del órgano de modo colegiado y ejecutarán sus decisiones por conducto de su presidente, quien fungirá como su representante legal y será designado de entre y por ellos mismos para durar en el cargo dos años. La Presidencia del Instituto será rotativa entre sus tres miembros. A su vez, los vocales durarán en su encargo 6 años y podrán ser reelectos hasta por un periodo similar adicional, previa ratificación que en dicho sentido emita expresamente el Congreso del Estado. La designación de los vocales así como su ratificación, deberá ser aprobada por el Congreso del Estado mediante el voto de las dos terceras partes de sus diputados integrantes. En la integración del Instituto de Transparencia Informativa del Estado de Sonora será obligatorio conformarlo por ambos géneros.
 
 ## TITULO PRIMERO.
 
@@ -309,27 +365,37 @@ La Ley establecerá los montos máximos que tendrán las aportaciones pecuniaria
 
 El financiamiento público de los partidos políticos y de sus campañas electorales deberá prevalecer sobre los privados, para tal efecto, el Consejo Estatal Electoral integrará un órgano de fiscalización que controlará y vigilará el uso de todos los recursos con que cuenten, sean de origen privado o público y propondrá las sanciones que deban imponerse por el uso indebido de estos recursos, de conformidad con lo que establezca la Ley.
 
-> <small>(REFORMADO, B.O. 7 DE OCTUBRE DE 2004)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO DE LEY QUE MODIFICA ESTA CONSTITUCION.</small>
 
-La Ley establecerá un sistema de medios de impugnación de los que conocerán los organismos electorales y un Tribunal Estatal Electoral y de Transparencia Informativa. Dicho sistema dará definitividad a las distintas etapas de los procesos electorales y garantizará que los actos y resoluciones se sujeten, invariablemente, al principio de legalidad. Sus sesiones serán públicas.
+> <small>(REFORMADO, B.O. 16 DE DICIEMBRE DE 2010)</small>
 
-> <small>(REFORMADO, B.O. 7 DE OCTUBRE DE 2004)</small>
+La ley establecerá un sistema de medios (sic) impugnación de los que conocerán los organismos electorales y un Tribunal Estatal Electoral. Dicho sistema dará definitividad a las distintas etapas de los procesos electorales y garantizará que los actos y resoluciones se sujeten, invariablemente, al principio de legalidad. Sus sesiones serán públicas.
 
-El Tribunal Estatal Electoral y de Transparencia Informativa tendrá plena autonomía operativa y decisión, así como personalidad jurídica y patrimonio propios. Será la máxima autoridad jurisdiccional en materia electoral, de procesos de participación ciudadana y de acceso a la información pública, funcionará de manera permanente y tendrá a su cargo la substanciación y resolución, en única instancia, de los medios de impugnación que establezcan las leyes respectivas.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO DE LEY QUE MODIFICA ESTA CONSTITUCION.</small>
 
-> <small>(REFORMADO, B.O. 7 DE OCTUBRE DE 2004)</small>
+> <small>(REFORMADO, B.O. 16 DE DICIEMBRE DE 2010)</small>
 
-El Tribunal estará compuesto por tres magistrados propietarios y dos magistrados suplentes comunes, los cuales serán nombrados por el Congreso del Estado el que deberá emitir una convocatoria pública para tal fin. El Congreso integrará una Comisión Plural que presentará al Pleno la lista de aspirantes y mediante el voto de las dos terceras partes de sus integrantes, nombrará a los magistrados del Tribunal Estatal Electoral y de Transparencia Informativa.
+El Tribunal Estatal Electoral tendrá plena autonomía operativa y de decisión, así como personalidad jurídica y patrimonio propios. Será la máxima autoridad jurisdiccional en materia electoral y de procesos de participación ciudadana, funcionará de manera permanente y tendrá a su cargo la sustanciación y resolución, en única instancia, de los medios de impugnación que establezcan las leyes relativas.
 
-> <small>(REFORMADO, B.O. 7 DE OCTUBRE DE 2004)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO DE LEY QUE MODIFICA ESTA CONSTITUCION.</small>
 
-Los magistrados del Tribunal Estatal Electoral y de Transparencia Informativa durarán en su encargo nueve años. El Tribunal Estatal será renovado parcialmente cada tres años, salvo que se actualice algún supuesto de remoción de entre los previstos por la Ley respectiva.
+> <small>(REFORMADO, B.O. 16 DE DICIEMBRE DE 2010)</small>
+
+El Tribunal estará compuesto por tres magistrados propietarios y dos magistrados suplentes comunes, los cuales serán nombrados por el Congreso del Estado el que deberá emitir una convocatoria pública para tal fin. El Congreso integrará una Comisión Plural que presentará al pleno la lista de aspirantes y mediante el voto de las dos terceras partes de sus integrantes, nombrará a los magistrados del Tribunal Estatal Electoral.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO DE LEY QUE MODIFICA ESTA CONSTITUCION.</small>
+
+> <small>(REFORMADO, B.O. 16 DE DICIEMBRE DE 2010)</small>
+
+Los magistrados del Tribunal Estatal Electoral durarán en su encargo nueve años. El Tribunal Estatal será renovado parcialmente cada tres años, salvo que se actualice algún supuesto de remoción de entre los previstos por la ley respectiva.
 
 Los Magistrados nombrados para concluir el periodo de otro, por falta definitiva o absoluta de éste, desempeñarán sus funciones hasta la conclusión del periodo de aquél.
 
-> <small>(REFORMADO, B.O. 7 DE OCTUBRE DE 2004)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO DE LEY QUE MODIFICA ESTA CONSTITUCION.</small>
 
-La organización y competencia del Tribunal Estatal Electoral y de Transparencia Informativa será fijada por la Ley.
+> <small>(REFORMADO, B.O. 16 DE DICIEMBRE DE 2010)</small>
+
+La organización y competencia del Tribunal Estatal Electoral será fijada por la ley.
 
 En materia electoral la interposición de los medios de impugnación no producirá, en ningún caso, efectos suspensivos del acto o resolución impugnado.
 
@@ -337,9 +403,11 @@ El Consejo Estatal Electoral realizará el cómputo final de la elección de Gob
 
 Las leyes en materia electoral deberán promulgarse y publicarse por lo menos noventa días naturales antes de que inicie el proceso electoral en que vayan a aplicarse y durante el mismo no podrá realizarse modificación alguna.
 
-> <small>(REFORMADO, B.O. 7 DE OCTUBRE DE 2004)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO DE LEY QUE MODIFICA ESTA CONSTITUCION.</small>
 
-En la integración de los organismos electorales habrá paridad de género y se observará, en su conformación, el principio de alternancia de género. Asimismo, en la integración del Tribunal Estatal Electoral y de Transparencia Informativa será obligatorio conformarlo por ambos géneros.
+> <small>(REFORMADO, B.O. 16 DE DICIEMBRE DE 2010)</small>
+
+En la integración de los organismos electorales habrá paridad de género y se observará, en su conformación, el principio de alternancia de género. Asimismo, en la integración del Tribunal Estatal Electoral será obligatorio conformarlo por ambos géneros.
 
 ###### Artículo 23.
 
@@ -503,9 +571,11 @@ VIII. No haber sido diputado o senador propietario al Congreso de la Unión, den
 
 IX. No haber sido condenado por la Comisión de un delito intencional, aún cuando se haya cumplido la condena o extinguido la pena.
 
-> <small>(REFORMADA, B.O. 7 DE OCTUBRE DE 2004)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO DE LEY QUE MODIFICA ESTA CONSTITUCION.</small>
 
-X. No haber sido Magistrado numerario o supernumerario del Tribunal Estatal Electoral y de Transparencia Informativa, ni consejero electoral propietario o suplente común de ningún organismo electoral, a menos que no haya ejercido o se separe del cargo dentro del plazo que establezca la Ley.
+> <small>(REFORMADA, B.O. 16 DE DICIEMBRE DE 2010)</small>
+
+X.- No haber sido magistrado propietario o suplente común del Tribunal Estatal Electoral, ni consejero electoral propietario o suplente común de ningún organismo electoral, a menos que no haya ejercido o se separe del cargo dentro del plazo que establezca la ley.
 
 ###### Artículo 34.
 
@@ -793,9 +863,11 @@ XIX. Para aceptar a dichos funcionarios la renuncia de sus respectivos cargos y 
 
 XIX Bis. Para ratificar o rechazar el nombramiento del Procurador General de Justicia que haga el Ejecutivo del Estado.
 
-> <small>(REFORMADA, B.O. 7 DE OCTUBRE DE 2004)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO DE LEY QUE MODIFICA ESTA CONSTITUCION.</small>
 
-XX. Para nombrar a los magistrados propietarios y a los magistrados suplentes comunes del Tribunal Estatal Electoral y de Transparencia Informativa y a los consejeros estatales electorales propietarios y suplentes comunes del Consejo Estatal Electoral, según el procedimiento establecido por esta Constitución y la Ley.
+> <small>(REFORMADA, B.O. 16 DE DICIEMBRE DE 2010)</small>
+
+XX. Para nombrar a los magistrados propietarios y a los magistrados suplentes comunes del Tribunal Estatal Electoral y a los consejeros estatales electorales propietarios y suplentes comunes del Consejo Estatal Electoral, según el procedimiento establecido por esta Constitución y la ley.
 
 > <small>(REFORMADA, B.O. 9 DE ABRIL DE 1984)</small>
 
@@ -1107,9 +1179,11 @@ VI. No haber figurado, directa o indirectamente, en alguna asonada, motín o cua
 
 VII. No haber sido condenado por la Comisión de un delito intencional, aún cuando se haya cumplido la condena o extinguido la pena.
 
-> <small>(REFORMADA, B.O. 7 DE OCTUBRE DE 2004)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO DE LEY QUE MODIFICA ESTA CONSTITUCION.</small>
 
-VIII. No haber sido magistrado numerario o supernumerario del Tribunal Estatal Electoral y de Transparencia Informativa, ni consejero electoral propietario o suplente común de ningún organismo electoral, a menos que no haya ejercido o se separen del cargo dentro del plazo que establezca la Ley.
+> <small>(REFORMADA, B.O. 16 DE DICIEMBRE DE 2010)</small>
+
+VIII.- No haber sido magistrado propietario o suplente común del Tribunal Estatal Electoral, ni consejero electoral propietario o suplente común de ningún organismo electoral, a menos que no haya ejercido o se separe del cargo dentro del plazo que establezca la ley.
 
 ###### Artículo 71.
 
@@ -1829,9 +1903,11 @@ IV. No haber sido condenado por la Comisión de un delito intencional, aún cuan
 
 V. (DEROGADA, B.O. 5 DE ABRIL DE 2006)
 
-> <small>(REFORMADA, B.O. 7 DE OCTUBRE DE 2004)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO DE LEY QUE MODIFICA ESTA CONSTITUCION.</small>
 
-VI. No haber sido magistrado numerario o supernumerario del Tribunal Estatal Electoral y de Transparencia Informativa, ni consejero electoral propietario o suplente común de ningún organismo electoral, a menos que no haya ejercido o se separe del cargo dentro del plazo que establezca la Ley.
+> <small>(REFORMADA, B.O. 16 DE DICIEMBRE DE 2010)</small>
+
+VI. No haber sido magistrado o suplente común del Tribunal Estatal Electoral, ni consejero electoral propietario o suplente común de ningún organismo electoral, a menos que no haya ejercido o se separe del cargo dentro del plazo que establezca la ley.
 
 > <small>(REFORMADO PRIMER PARRAFO, B.O. 8 DE NOVIEMBRE DE 1993)</small>
 
@@ -2111,11 +2187,13 @@ De conformidad con las bases establecidas en la legislación secundaria, los Con
 
 Responsabilidades de los Servidores Públicos del Estado y de los Municipios.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 7 DE OCTUBRE DE 2004)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO DE LEY QUE MODIFICA ESTA CONSTITUCION.</small>
 
-###### Artículo 143.
+> <small>(REFORMADO PARRAFO PRIMERO, B.O. 16 DE DICIEMBRE DE 2010)</small>
 
-Se reputará como servidor público para los efectos de este Título y será responsable por los actos u omisiones en que incurra en el ejercicio de su función, toda persona que desempeñe un empleo, cargo o comisión, de cualquier naturaleza, en la Administración Pública Estatal o Municipal, en el Poder Legislativo, en el Poder Judicial, así como los servidores del Consejo Estatal Electoral, Consejos Distritales Electorales, Consejos Municipales Electorales y los del Tribunal Estatal Electoral y de Transparencia Informativa.
+###### ARTÍCULO 143.
+
+Se reputará como servidor público para los efectos de este título y será responsable por los actos u omisiones en que incurra en el ejercicio de su función, toda persona que desempeñe un empleo, cargo o comisión, de cualquier naturaleza, en la administración pública estatal o municipal, en el Poder Legislativo, en el Poder Judicial, así como los servidores del Consejo Estatal Electoral, Consejeros Distritales Electorales, Consejeros Municipales Electorales, del Tribunal Estatal Electoral y los del Instituto de Transparencia Informativa del Estado de Sonora.
 
 > <small>(REFORMADO, B.O. 9 DE ABRIL DE 1984)</small>
 
@@ -2129,9 +2207,11 @@ El Congreso expedirá la Ley de Responsabilidades de los servidores públicos me
 
 I. Responsabilidad política, determinada mediante juicio político, cuando el servidor público, en el ejercicio de sus funciones, incurra en actos u omisiones graves que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho. No procede el juicio político por la mera expresión de ideas.
 
-> <small>(REFORMADO, B.O. 7 DE OCTUBRE DE 2004)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO DE LEY QUE MODIFICA ESTA CONSTITUCION.</small>
 
-Sólo podrán ser sujetos a juicio político, los diputados al Congreso del Estado, los Magistrados del Supremo Tribunal de Justicia, los Magistrados Regionales de Circuito y del Tribunal de lo Contencioso Administrativo, el Procurador General de Justicia y los subprocuradores, los secretarios y subsecretarios, los jueces de primera instancia, los agentes del ministerio público, los consejeros estatales electorales, el secretario del Consejo Estatal Electoral, los magistrados y secretario general del Tribunal Estatal Electoral y de Transparencia Informativa, presidentes municipales, síndicos, regidores, secretarios y tesoreros de los Ayuntamientos, así como los directores generales y sus equivalentes de las empresas de participación estatal o municipal mayoritaria, sociedades y asociaciones asimiladas a éstas, fideicomisos públicos y organismos descentralizados del Estado y de los Municipios.
+> <small>(REFORMADO, B.O. 16 DE DICIEMBRE DE 2010)</small>
+
+Solo podrán ser sujetos a juicio político, los diputados al Congreso del Estado, los magistrados del Supremo Tribunal de Justicia, los magistrados regionales de Circuito y del Tribunal de lo Contencioso Administrativo, el Procurador General de Justicia y los subprocuradores, los secretarios y subsecretarios, los jueces de primera instancia, los agentes del ministerio público, los consejeros estatales electorales, el secretario del Consejo Estatal Electoral, los magistrados y secretario general del Tribunal Estatal Electoral, los vocales del Instituto de Transparencia Informativa del Estado de Sonora, presidentes municipales, síndicos, regidores, secretarios y tesoreros de los Ayuntamientos, así como los directores generales y sus equivalentes de las empresas de participación estatal o municipal mayoritaria, sociedades y asociaciones asimiladas a éstas, fideicomisos públicos y organismos descentralizados del Estado y de los municipios.
 
 Las sanciones consistirán en la destitución del servidor público y, en su caso, la inhabilitación para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público.
 
@@ -2155,11 +2235,13 @@ En el caso de que el Gobernador del Estado, Diputados Locales y Magistrados del 
 
 El procedimiento de juicio político, deberá iniciarse durante el tiempo en que el servidor público desempeñe un empleo, cargo o comisión, o dentro del año siguiente al de la conclusión de sus funciones. La (sic) sanciones correspondientes se aplicarán en un período no mayor de un año, a partir de iniciado el procedimiento.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 7 DE OCTUBRE DE 2004)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO DE LEY QUE MODIFICA ESTA CONSTITUCION.</small>
 
-###### Artículo 146.
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 16 DE DICIEMBRE DE 2010)</small>
 
-Para proceder penalmente contra el Gobernador, diputados al Congreso del Estado, magistrados del Supremo Tribunal de Justicia, magistrados Regionales de Circuito y del Tribunal de lo Contencioso Administrativo, Procurador General de Justicia, secretarios y subsecretarios, presidentes municipales, síndicos y regidores de los Ayuntamientos, jueces de primera instancia y agentes del ministerio público, los consejeros estatales electorales, secretario del Consejo Estatal Electoral, los magistrados y secretario general del Tribunal Estatal Electoral y de Transparencia Informativa por la comisión de delitos durante el tiempo de su encargo, el Congreso del Estado declarará, por mayoría absoluta de sus miembros presentes en sesión y por dos terceras partes si se trata del Gobernador, si ha lugar a proceder contra el inculpado.
+###### ARTÍCULO 146.
+
+Para proceder penalmente contra el Gobernador, diputados al Congreso del Estado, magistrados del Supremo Tribunal de Justicia, magistrados regionales de Circuito y del Tribunal de lo Contencioso Administrativo, Procurador General de Justicia, secretarios y subsecretarios, presidentes municipales, síndicos y regidores de los Ayuntamientos, jueces de primera instancia y agentes del ministerio público, los consejeros estatales electorales, secretario del Consejo Estatal Electoral, los magistrados y secretario general del Tribunal Estatal Electoral, los vocales del Instituto de Transparencia Informativa del Estado de Sonora, por la comisión de delitos durante el tiempo de su encargo, el Congreso del Estado declarará, por mayoría absoluta de sus miembros presentes en sesión y por dos terceras partes si se trata del Gobernador, si ha lugar a proceder contra el inculpado.
 
 > <small>(REFORMADO, B.O. 9 DE ABRIL DE 1984)</small>
 
@@ -2693,7 +2775,7 @@ LEY No. 33, QUE REFORMA Y ADICIONA DIVERSOS ARTICULOS DE LA CONSTITUCION.
 
 ###### ARTICULO UNICO.
 
-La presente Ley entrará en vigor al día siguiente de su publicación e el Boletín Oficial del Gobierno del Estado.
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
 
 B.O. 30 DE ENERO DE 1984.
 
@@ -2973,7 +3055,7 @@ Se instruye a la Mesa Directiva o a la Diputación Permanente del Congreso del E
 
 Los Consejeros integrantes del Consejo Estatal Electoral, continuarán en sus cargos conforme a las bases de su designación por el Congreso del Estado de Sonora.
 
-La renovación parcial que establece esta Ley para el Consejo Estatal Electoral iniciará con la renovación del mismo una vez culminado el encargo de los actuales Consejeros Estatales Electorales, atendiendo a las bases que señala la Constitución Política del Estado y- la Ley Electoral, así como los principios de pandad de género y alternancia en la conformación del mismo, tanto en los Consejeros Propietarios como en los Consejeros Suplentes Comunes.
+La renovación parcial que establece esta Ley para el Consejo Estatal Electoral iniciará con la renovación del mismo una vez culminado el encargo de los actuales Consejeros Estatales Electorales, atendiendo a las bases que señala la Constitución Política del Estado y- la Ley Electoral, así como los principios de paridad de género y alternancia en la conformación del mismo, tanto en los Consejeros Propietarios como en los Consejeros Suplentes Comunes.
 
 El Congreso del Estado, al renovar los Consejeros Estatales Electorales, de conformidad con el párrafo anterior, por única ocasión y con el objeto de materializar a renovación parcial en lo sucesivo, nombrará a dos Consejeros Propietarios y dos Consejeros Suplentes para que ejerzan sus funciones por el período de un proceso electoral ordinario y, los restantes, tres Consejeros Propietarios y un Consejero Suplente, para el período de dos procesos electorales ordinarios, circunstancia que deberá asentarse en la convocatoria que se emita para tal efecto.
 
@@ -2989,7 +3071,7 @@ C).- En virtud de la nueva estructura del Tribunal Estatal Electoral que plantea
 
 Los ciudadanos Luis Enrique Pérez Alvidrez y María Teresa González Saavedra, deberán rendir protesta del cargo a la entrada en vigor de esta Ley, ante el Pleno o la Diputación Permanenete de este Congreso, según sea el caso.
 
-A fin de culminar la integración del Tribunal Estatal Electoral, el Congreso del Estado emitirá convocatoria pública para designar al tercer Magistrado Propietario y a los dos Magistrados Suplentes Comunes, cuyos períodos para el ejercicio de su encargo será de nueve años. En la desiganación de los Magistrados Suplentes Comunes se respetará el principio de equidad y paridad de género.
+A fin de culminar la integración del Tribunal Estatal Electoral, el Congreso del Estado emitirá convocatoria pública para designar al tercer Magistrado Propietario y a los dos Magistrados Suplentes Comunes, cuyos períodos para el ejercicio de su encargo será de nueve años. En la designación de los Magistrados Suplentes Comunes se respetará el principio de equidad y paridad de género.
 
 B.O. 15 DE MARZO DE 2004.
 
@@ -3146,6 +3228,42 @@ B.O. 13 DE MAYO DE 2010.
 ###### ARTÍCULO UNICO.
 
 La presente ley entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado, previo cómputo que se realice de la aprobación o rechazo que emitan los ayuntamientos del Estado, a quienes se les deberá notificar los términos de la presente ley para los efectos dispuestos por el artículo 163 de la Constitución Política del Estado de Sonora.
+
+B.O. 16 DE DICIEMBRE DE 2010.
+
+LEY NUMERO 77, POR EL QUE SE REFORMA EL PARRAFO TERCERO Y SE ADICIONAN LOS PARRAFOS CUARTO Y SUS INCISOS A AL H, QUINTO Y SUS INCISOS A AL I Y SEXTO, TODOS DEL ARTICULO 1° DE LA CONSTITUCION POLITICA DEL ESTADO DE SONORA.
+
+###### ARTÍCULO ÚNICO.
+
+La presente ley entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado, previo cómputo que se realice de la aprobación o rechazo que emitan los ayuntamientos del Estado, a quienes se les deberá notificar los términos de la presente ley, para los efectos dispuestos por el artículo 163 de la Constitución Política del Estado de Sonora.
+
+Se instruye a la Mesa Directiva o a la Diputación Permanente del Congreso del Estado, en su caso, a efecto de que realicen el cómputo respectivo y la remitan al Titular del Poder Ejecutivo para su publicación en el Boletín Oficial del Gobierno del Estado, en caso de resultar aprobada.
+
+B.O. 16 DE DICIEMBRE DE 2010.
+
+LEY NUMERO 79, POR EL QUE SE REFORMAN LOS ARTICULOS 2°, PARRAFO SEGUNDO; 22, PARRAFOS DECIMO QUINTO, DECIMO SEXTO, DECIMO SEPTIMO, DECIMO OCTAVO, VIGESIMO Y VIGESIMO CUARTO; 33, FRACCION X; 64, FRACCION XX; 70, FRACCION VIII; 132, FRACCION VI; 143, PARRAFO PRIMERO; 144, FRACCION I, PARRAFO SEGUNDO Y 146, PARRAFO PRIMERO Y SE ADICIONA UN PARRAFO TERCERO AL ARTICULO 2°, TODOS DE LA CONSTITUCION POLITICA DEL ESTADO DE SONORA.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor el día primero de enero del año siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado, previo cómputo que se realice de la aprobación o rechazo que emitan los Ayuntamientos del Estado, a quienes se les deberá notificar los términos de la presente Ley, a fin de dar cumplimiento a lo establecido por la Constitución Política del Estado Libre y Soberano de Sonora en su artículo 163.
+
+Se instruye a la Mesa Directiva o a la Diputación Permanente del Congreso del Estado, en su caso, a efecto de que realicen el cómputo respectivo y la remitan al Titular del Poder Ejecutivo para su publicación en el Boletín Oficial del Gobierno del Estado, en caso de resultar aprobada.
+
+###### ARTÍCULO SEGUNDO.
+
+Con la finalidad de realizar las adecuaciones al marco normativo relativo al derecho de acceso a la información pública, incluyendo las reformas a la ley reglamentaria, con el propósito de hacerlas congruentes con las disposiciones de la Constitución Política del Estado Libre y Soberano de Sonora, contenidas en la presente Ley, el Congreso del Estado deberá realizar las adecuaciones dentro de los ciento ochenta días siguientes al entrar en vigor la presente Ley.
+
+###### ARTÍCULO TERCERO.
+
+En el año en que se publique esta ley, el Ejecutivo Estatal, por conducto de la Secretaría de Hacienda, el Congreso del Estado, el Tribunal Estatal Electoral y el Instituto de Transparencia Informativa, realizarán las previsiones presupuestarias, la reasignación de personas, recursos materiales y financieros, así como de activos patrimoniales que resulten necesarios para que a la entrada en vigor de esta Ley, el Instituto pueda contar con los elementos suficientes para ejercer sus funciones, previa solicitud del Instituto, en términos de la normatividad aplicable y previo análisis de la asignación de recursos que se hayan otorgado, en los últimos años, al Tribunal Estatal Electoral y de Transparencia Informativa para el cumplimiento de las funciones relativas al derecho de acceso a la información pública, con el objeto de que tales recursos sean asignados al Instituto de Transparencia Informativa del Estado de Sonora.
+
+###### ARTÍCULO CUARTO.
+
+Una vez realizadas las adecuaciones normativas relativas al marco jurídico en el Estado de Sonora en materia de acceso a la información pública para hacerlas acordes a esta Ley, en términos del artículo segundo transitorio de la presente y una vez otorgada la suficiencia presupuestaria al Instituto de Transparencia Informativa del Estado de Sonora, los asuntos que en materia de acceso a la información pública se encuentren en trámite en ese momento ante el Tribunal Estatal Electoral y de Transparencia Informativa, serán remitidos al citado Instituto de Transparencia Informativa del Estado de Sonora, para que continúe substanciándolos, previa reanudación del procedimiento que se hará de conocimiento de las partes.
+
+###### ARTÍCULO QUINTO.
+
+Hasta en tanto se realicen las adecuaciones pertinentes al marco legislativo local, en todos los casos en que la legislación del Estado de Sonora haga referencia al Tribunal Estatal Electoral y de Transparencia Informativa se deberá entender que se hace referencia al Tribunal Estatal Electoral previsto en esta reforma constitucional.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 74.- QUE CONTIENE REFORMAS A DIVERSOS ARTÍCULOS DE LA LEY DE PROTECCIÓN Y BIENESTAR ANIMAL PARA LA SUSTENTABILIDAD DEL ESTADO DE DURANGO".]
 
