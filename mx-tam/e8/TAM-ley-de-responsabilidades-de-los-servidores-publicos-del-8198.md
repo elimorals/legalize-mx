@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-responsabilidades-de-los-servidores-publicos-del-8198"
 country: "mx"
 rank: "ley"
 publication_date: "1984-03-03"
-last_updated: "2010-01-20"
+last_updated: "2010-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8198&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE ENERO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el sábado 3 de marzo de 1984.
 
@@ -74,6 +74,10 @@ VI.- El registro del patrimonio de los servidores públicos del Estado y de los 
 ###### ARTICULO 2o.
 
 Son sujetos de esta Ley, los servidores públicos mencionados en el Artículo 149 de la Constitución Política local, así como todas las personas que manejen o apliquen recursos económicos estatales o municipales.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+La actuación de los integrantes de las instituciones policiales se regirá por los principios previstos en el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, y en la Ley de Coordinación del Sistema de Seguridad Pública del Estado de Tamaulipas, sin demérito de las demás disposiciones legales de la materia.
 
 ###### ARTICULO 3°.
 
@@ -484,6 +488,10 @@ Incurren en responsabilidad el servidor público que por sí o por interpósita 
 ###### ARTICULO 51.
 
 En el caso de los servidores del Poder Judicial, el Supremo Tribunal de Justicia establecerá los órganos y sistemas para identificar, investigar y determinar las responsabilidades derivadas del incumplimiento de las obligaciones establecidas en el Artículo 47, así como para aplicar las sanciones establecidas en el presente capítulo, en los términos de la Ley Orgánica del Poder Judicial. Lo propio hará el Congreso local, conforme a la legislación respectiva; y por lo que se refiere a los Ayuntamientos se estará a lo dispuesto en el Código Municipal.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+Por cuanto hace a los servidores públicos del área de seguridad pública, ya sea del Estado o de sus municipios, se regirán por sus disposiciones legales aplicables, sin demérito de aplicar de manera supletoria las previsiones de esta ley en lo que corresponda.
 
 > <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2002)</small>
 
@@ -946,3 +954,13 @@ P.O. 20 DE ENERO DE 2010.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE DICIEMBRE DE 2010.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+El personal que se encuentre comprendido en el párrafo 9 del inciso g) del apartado A del artículo 4° de la Ley del Trabajo de los Servidores Públicos del Estado de Tamaulipas será objeto de los procesos de evaluación y control de confianza que determine el Consejo Estatal de Seguridad Pública. Quienes a la fecha de entrada en vigor de este Decreto tengan un nombramiento de base podrán solicitar su reubicación a un área no vinculada a la organización y funcionamiento de las instituciones policiales y de procuración de justicia. Al personal que hubiere tenido nombramiento de base y continúe al servicio de las instituciones policiales y de procuración de justicia, les serán reconocidas su antigüedad y demás derechos generados para efectos de jubilación y pensión.
