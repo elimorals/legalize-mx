@@ -4,7 +4,7 @@ identifier: "NAY-constitucion-politica-del-estado-libre-y-soberano-de-nayarit-68
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-17"
-last_updated: "2010-12-04"
+last_updated: "2010-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE DICIEMBRE DE 2010.
 
 Constitución publicada en el Periódico Oficial del Estado de Nayarit, los días 17, 21, 24 y 28 de febrero y 3, 7, 10 y 14 de marzo de 1918.
 
@@ -53,6 +53,10 @@ El Estado es Libre y Soberano en cuanto a su régimen interior corresponde, pero
 
 El Gobierno del Estado es Repúblicano, popular y representativo, teniendo como base de su división territorial y de su organización política y administrativa el Municipio Libre, en los términos que establece la Constitución General de la República.
 
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+La ley establecerá las bases y lineamientos a los cuales habrá de sujetarse el Estado, al establecer los límites territoriales y colindancias con otras entidades federativas.
+
 ### CAPITULO II. Del Territorio del Estado
 
 > <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1989)</small>
@@ -61,15 +65,21 @@ El Gobierno del Estado es Repúblicano, popular y representativo, teniendo como 
 
 El Territorio del Estado es el que le corresponde conforme a la Constitución Federal, y se divide en los siguientes municipios: Acaponeta, Ahuacatlán, Amatlán de Cañas, Bahía de Banderas, Compostela, El Nayar, Huajicori, Ixtlán del Río, Jala, La Yesca, Rosamorada, Ruiz, San Blas, San Pedro Lagunillas, Santiago Ixcuintla, Santa María del Oro, Tecuala, Tepic, Tuxpan y Xalisco. Igualmente, forman parte del Territorio del Estado las islas que le corresponden conforme al Artículo 48o. de la Constitución General de la República.
 
-> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1941)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
 ###### Art. 4.
 
-Las Municipalidades enunciadas en el Artículo anterior conservarán la extensión y límites que actualmente tienen, salvo en los casos previstos por las fracciones III y IV del Artículo 47o de esta Constitución.
+La ley establecerá los límites, extensiones territoriales y colindancias entre las municipalidades, para la preservación de su integridad física conservarán la extensión y límites que actualmente tienen, atendiendo a lo dispuesto por el artículo 5 y las fracciones III y IV del artículo 47 de esta Constitución.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE DICIEMBRE DE 2010)</small>
 
 ###### Art. 5.
 
-(DEROGADO, P.O. 24 DE ENERO DE 2001)
+Los municipios podrán convenir entre sí sus respectivos límites; dichos arreglos no tendrán efecto sin la aprobación del Congreso del Estado.
+
+A falta de acuerdo, cualquier municipio podrá acudir ante el Congreso del Estado, el cual actuará en términos del artículo 47, fracción IV, de ésta Constitución.
+
+Las resoluciones del Congreso del Estado serán definitivas e inatacables. La Sala Constitucional-Electoral del Tribunal Superior de Justicia del Estado conocerá a través de controversia constitucional, a instancia de parte interesada, de los conflictos derivados de la ejecución del correspondiente decreto emitido por el Congreso del Estado.
 
 ### CAPITULO III. De los Habitantes
 
@@ -83,9 +93,17 @@ El Estado garantiza a sus habitantes sea cual fuere su condición:
 
 I. La más estricta igualdad ante las leyes, sin otras diferencias que las que resulten de la condición natural o jurídica de las personas.
 
-> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
-II. La protección y promoción del desarrollo de los valores de nuestras etnias indígenas, conforme a las bases y principios siguientes:
+II. La plena libertad humana sin más limitaciones que las impuestas por la propia Constitución.
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+III. La dignidad humana, los derechos que le son inherentes, el ejercicio libre de la personalidad, el respeto a la ley y al derecho ajeno, constituyen la base del estado democrático, la seguridad pública y la paz del Estado de Nayarit.
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+IV. La protección y promoción del desarrollo de los valores de nuestras etnias indígenas, conforme a las bases y principios siguientes:
 
 Nuestra composición étnica plural, se sustenta en los pueblos y comunidades indígenas que los integran y a los cuales les asiste el derecho a la libre determinación expresada en autonomía para decidir sobre sus formas internas de convivencia y organización social, económica y cultural; en la creación de sus sistemas normativos, sus usos y costumbres, formas de gobierno tradicional, desarrollo, formas de expresión religiosa y artística y en la facultad para proteger su identidad y patrimonio cultural.
 
@@ -101,39 +119,39 @@ La Ley protegerá la propiedad y posesión de sus tierras cualquiera que sea la 
 
 Los derechos sociales que esta Constitución otorga a los pueblos y comunidades indígenas, deberán ejercitarse de manera directa a través de sus autoridades o por los interesados mismos.
 
-> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 1993)</small>
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
-III. La libertad de trasladarse o cambiar de residencia.
+V. La libertad de trasladarse o cambiar de residencia.
 
-> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 1993)</small>
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
-IV. El derecho de propiedad y la libertad de disponer de ella en la forma y términos establecidos por el artículo 27 de la Constitución Política de los Estados Unidos Mexicanos.
+VI. El derecho de propiedad y la libertad de disponer de ella en la forma y términos establecidos por el artículo 27 de la Constitución Política de los Estados Unidos Mexicanos.
 
-> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 1993)</small>
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
-V. La libertad de trabajar y disponer de los productos del trabajo, de acuerdo con las prescripciones que establecen las leyes relativas.
+VII. La libertad de trabajar y disponer de los productos del trabajo, de acuerdo con las prescripciones que establecen las leyes relativas.
 
-> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 1993)</small>
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
-VI. La libertad de cultos y creencias religiosas.
+VIII. La libertad de cultos y creencias religiosas.
 
-> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 1993)</small>
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
-VII. La libertad de externar el pensamiento sin más limitaciones que el respeto a la moral, a la vida privada y la paz pública.
+IX. La libertad de externar el pensamiento sin más limitaciones que el respeto a la moral, a la vida privada y la paz pública.
 
-> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 1993)</small>
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
-VIII. La libertad de asociarse o reunirse para cualquier objeto lícito, pero con las restricciones y prerrogativas a que se refiere el artículo 9º de la Constitución General de la República.
+X. La libertad de asociarse o reunirse para cualquier objeto lícito, con las restricciones y prerrogativas a que se refiere el artículo 9º de la Constitución General de la República.
 
-> <small>(REFORMADA, P.O. 26 DE ABRIL DE 1995)</small>
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
-IX. La seguridad pública como función del Estado y de los Municipios en sus respectivas competencias señaladas por esta Constitución. La actuación de las instituciones policiales se regirá por los principios de legalidad, eficiencia, profesionalismo y honradez.
+XI. La seguridad pública como función del Estado y de los Municipios en sus respectivas competencias señaladas por esta Constitución. La actuación de las instituciones policiales se regirá por los principios de legalidad, eficiencia, profesionalismo y honradez.
 
 El Estado y los Municipios en los términos que la ley de la materia señale, establecerán un sistema de seguridad pública y se coordinarán con la Federación con ese fin.
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 14 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
-X. El derecho de acceso a la información pública y a la transparencia. La información en posesión de los entes públicos se regirá conforme a los principios de máxima publicidad y expeditez, sin más limitaciones que las relativas a los datos personales o la información que sea declarada reservada o confidencial, en los términos que disponga la ley.
+XII. El derecho de acceso a la información pública y a la transparencia. La información en posesión de los entes públicos se regirá conforme a los principios de máxima publicidad y expedites, sin más limitaciones que las relativas a los datos personales o la información que sea declarada reservada o confidencial, en los términos que disponga la ley.
 
 La ley establecerá el organismo unitario encargado de garantizar la transparencia y el derecho de acceso a la información pública, dotado de autonomía operativa, de gestión y de decisión, con personalidad jurídica y patrimonio propios, en cuyo seno funcionará un consejo consultivo en los términos que disponga la ley.
 
@@ -155,9 +173,9 @@ G. Las leyes determinarán la manera en que los sujetos obligados deberán hacer
 
 H. La inobservancia a las disposiciones en materia de acceso a la información pública será sancionada en los términos que dispongan las leyes.
 
-> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2009)</small>
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
-XI. Los derechos sociales que a continuación se enuncian:
+XIII.- Los derechos sociales que a continuación se enuncian:
 
 1.- Se reconoce, protege y garantiza el derecho a la vida de todo ser humano desde el momento de la fecundación natural o artificial y se le reputa como nacido para todos los efectos legales correspondientes, hasta su muerte natural.
 
@@ -181,13 +199,13 @@ f) El estado reconoce la ciencia y la tecnología, como bases fundamentales del 
 
 5.- Los adultos mayores tienen derecho a una vida con calidad; a la protección de su patrimonio, salud, alimentación, a la asistencia y seguridad social y a la igualdad de oportunidades, la ley protegerá esos derechos, sin restricción alguna. Las autoridades garantizarán el derecho de acceso gratuito a los servicios de salud.
 
-6.- El Estado garantizará la producción de alimentos, constituyéndose como áreas estratégicas del desarrollo, la agricultura y el turismo.
+6.- El Estado garantizará la producción de alimentos, constituyéndose como áreas estratégicas del desarrollo la agricultura y el turismo.
 
 7.- Los productores del campo, ganaderos y pescadores gozarán de un seguro de vida en los términos que disponga la Ley.
 
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2009)</small>
+8.- Todo individuo tiene derecho al agua así como a un medio ambiente sano y ecológicamente equilibrado. La ley protegerá y determinará la forma y condiciones de ejercer estos derechos.
 
-8.- Todo individuo tiene derecho a beneficiarse del progreso científico en el área de la medicina genómica, por tanto, el estado reconoce el vínculo existente entre el derecho a la protección de la salud y el derecho a la investigación y al desarrollo científico.
+9.- Todo individuo tiene derecho a beneficiarse del progreso científico en el área de la medicina genómica, por tanto, el estado reconoce el vínculo existente entre el derecho a la protección de la salud y el derecho a la investigación y al desarrollo científico.
 
 En la investigación en el área de las ciencias genómicas, deberán prevalecer los principios de dignidad humana, autonomía de la voluntad, respeto por la integridad física y psíquica, intimidad, confidencialidad, no discriminación e identidad genética; por tanto, queda prohibida cualquier práctica que atente contra estos principios, contra los derechos humanos o contra cualquier instrumento internacional que regule las ciencias genómicas.
 
@@ -195,9 +213,9 @@ Todo individuo tiene derecho a conocer la información genómica personal y sus 
 
 Toda investigación biomédica se orientará preferentemente a aliviar las enfermedades y mejorar la salud.
 
-> <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 2008)</small>
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
-XII. Los demás derechos a que se refiere el Título Primero, Capítulo I, de la Constitución General.
+XIV.- Todo individuo gozará de los derechos consagrados en la Constitución Política de los Estados Unidos Mexicanos y en los Tratados Internacionales suscritos por el Estado Mexicano.
 
 ###### Art. 8.
 
@@ -281,9 +299,21 @@ III. Tener un modo honesto de vivir.
 
 Son derechos del ciudadano Nayarita:
 
-> <small>(REFORMADA, P.O. 6 DE MARZO DE 1993)</small>
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
-I. Votar y poder ser votado en las elecciones populares del Estado, siempre que esté en el ejercicio de sus derechos cívicos y políticos en los términos que establezca la Ley.
+I. Votar y ser votado en las elecciones estatales y municipales; y participar en los procesos de plebiscito, referéndum e iniciativa popular, en los términos que establezcan las leyes.
+
+La ley regulará los mecanismos de participación ciudadana en los procesos de referéndum, plebiscito e iniciativa popular, los que se regirán por los siguientes principios:
+
+a) El referéndum tiene por objeto someter a la aprobación de los ciudadanos respecto de los siguientes supuestos:
+
+1.- Proyectos de reforma total de la Constitución, y
+
+2.- Leyes en los términos y materias que la ley determine.
+
+b) El plebiscito tiene por objeto someter a consulta ciudadana, los actos de carácter administrativo del Poder Ejecutivo y los Ayuntamientos que afecten a la generalidad de los gobernados, en los términos y condiciones que prevea la ley.
+
+c) La iniciativa popular es el derecho de los ciudadanos para presentar iniciativas de ley o decreto, en los términos y condiciones previstas por la ley.
 
 > <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 1998)</small>
 
@@ -637,11 +667,13 @@ g) Las relaciones de trabajo entre el Estado y Municipio con sus trabajadores, c
 
 h) Todos los aspectos previstos por las Constituciones federal y local, y leyes que de ellas emanen.
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
-III. Crear nuevas Municipalidades y modificar los límites de los ya existentes, en los términos y condiciones previstos en el Código para la Administración Municipal.
+III. Crear nuevas Municipalidades y modificar los límites de los ya existentes, en los términos y condiciones previstos en la ley de la materia.
 
-IV. Fijar los límites de las Municipalidades, terminando las diferencias que entre ellos se susciten, sobre las demarcaciones de sus respectivos territorios, salvo que aquellas tengan carácter contencioso.
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+IV. Resolver en forma definitiva los conflictos sobre límites territoriales de los municipios que así lo soliciten, mediante decreto aprobado por el voto de la mayoría calificada del Congreso.
 
 > <small>(REFORMADA, P.O. 17 DE MAYO DE 2004)</small>
 
@@ -661,9 +693,9 @@ VII. Aprobar las leyes de ingresos de los municipios, revisar y fiscalizar sus c
 
 VIII. Constituirse en Colegio Electoral para designar al gobernador provisional, interino o sustituto según lo establece esta Constitución; y convocar a elecciones ordinarias y extraordinarias en los términos previstos por la ley.
 
-> <small>(REFORMADA, P.O. 26 DE ABRIL DE 1995)</small>
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
-IX. Designar a los Magistrados Numerarios y Supernumerarios del Tribunal Superior de Justicia del Estado; y otorgar o negar su ratificación a la designación del Procurador General de Justicia, que haga el Gobernador en los términos de esta Constitución.
+IX. Designar a los Magistrados Numerarios y Supernumerarios del Tribunal Superior de Justicia del Estado; y otorgar o negar su ratificación a la designación del Procurador General de Justicia y del Secretario de Seguridad Pública, que haga el Gobernador en los términos de esta Constitución.
 
 X. Recibir a los mismos funcionarios, la protesta de guardar y hacer guardar la Constitución General, la Particular del Estado y las leyes que de ambas emanen.
 
@@ -767,9 +799,13 @@ XXXVI.- (DEROGADA, P.O. 6 DE OCTUBRE DE 2010)
 
 XXXVII.- Instituir la jurisdicción administrativa para resolver las controversias que se susciten en relación con la legalidad, la interpretación, cumplimiento y efectos de los actos, procedimientos y disposiciones de naturaleza administrativa emitidos por las autoridades del Estado o Municipios, para lo cual podrá crearse un tribunal administrativo dotado de plena autonomía para dictar sus fallos estableciéndose las normas de su organización, funcionamiento, competencia, procedimiento y recursos contra sus resoluciones.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
-XXXVIII.- Expedir todas las leyes que sean necesarias o propias para hacer efectivas las facultades que le anteceden y todas las otras concedidas por esta Constitución a los Poderes del Estado.
+XXXVIII.- Evaluar el cumplimiento del Plan Estatal de Desarrollo en los términos de la ley.
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+XXXIX.- Expedir todas las leyes que sean necesarias para hacer efectivas las facultades anteriores, así como las concedidas por la Constitución General de la República y esta Constitución, a los Poderes del Estado.
 
 > <small>(REFORMADO, P.O. 9 DE FEBRERO DE 1930)</small>
 
@@ -794,6 +830,18 @@ III. Al Tribunal Superior de Justicia, solamente en asuntos del orden Judicial.
 > <small>(REFORMADA, P.O. 24 DE ENERO DE 2001)</small>
 
 IV. A los Ayuntamientos en lo relativo al gobierno municipal.
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+V. A los ciudadanos en el ejercicio de la iniciativa popular.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+Dentro de los primeros cinco días hábiles siguientes al inicio de cada periodo ordinario de sesiones, el Gobernador podrá presentar una iniciativa de decreto o ley con el carácter de preferente, que deberá ser votada por el pleno del Congreso dentro de los treinta días siguientes a su presentación, de conformidad al procedimiento que establezca la ley.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+No serán preferentes las iniciativas que el Gobernador presente en materia presupuestal, fiscal y electoral, ni reformas constitucionales.
 
 > <small>(REFORMADO, P.O. 15 DE FEBRERO DE 1989)</small>
 
@@ -823,13 +871,17 @@ Es materia de Decreto toda resolución que otorgue derechos y obligaciones a det
 
 Son materia de Acuerdo, todas las demás resoluciones de la Cámara que no tengan el carácter de Ley o Decreto.
 
-> <small>(REFORMADO, P.O. 17 DE MAYO DE 2004)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
-Las leyes y decretos se comunicarán al Ejecutivo, para su promulgación y observancia, firmados por el Presidente y Secretarios de la Mesa Directiva. Aprobado por la Cámara un proyecto de ley o decreto lo enviará desde luego al Ejecutivo, para que dentro del plazo de diez días naturales haga las observaciones que estime pertinentes.
+Previo a la discusión y aprobación en el Congreso, la comisión legislativa encargada de la dictaminación, podrá consultar a la Sala Constitucional-Electoral del Tribunal Superior de Justicia respecto de la constitucionalidad de una iniciativa de ley o decreto presentada, opinión que deberá ser emitida en un término de diez días.
 
-> <small>(ADICIONADO, P.O. 17 DE MAYO DE 2004)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
-El plazo para la presentación de las observaciones a los proyectos de Ley de Ingresos y de decreto de Presupuesto de Egresos se ajustará a lo dispuesto por el artículo 38 de esta constitución.
+Las leyes y decretos se comunicarán al Ejecutivo, para su promulgación y observancia, firmados por el Presidente y Secretarios de la Mesa Directiva. Aprobado por la Cámara el proyecto de ley o decreto lo enviará desde luego al Ejecutivo, para que dentro del plazo de diez días naturales haga las observaciones que estime pertinentes.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+El plazo para la presentación de las observaciones a los proyectos de Ley de Ingresos y Presupuesto de Egresos se ajustará a lo dispuesto por el artículo 38 de esta Constitución.
 
 > <small>(REFORMADO, P.O. 17 DE MAYO DE 2004)</small>
 
@@ -877,9 +929,11 @@ I. Dictaminar sobre todos los asuntos pendientes al tiempo de receso, y proveer 
 
 II. Nombrar al Gobernador Provisional que deba sustituir al que esté en funciones.
 
-> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
-III. En su caso, designar y tomar la protesta de los integrantes del Tribunal Superior de Justicia, del Organo Jurisdiccional Electoral y del Organo Electoral del Estado; y ratificar el nombramiento del Procurador General de Justicia que haga el Gobernador conforme a esta Constitución.
+III. En su caso, designar y tomar la protesta de los integrantes del Tribunal Superior de Justicia, del Órgano Jurisdiccional Electoral y del Órgano Electoral del Estado; y ratificar el nombramiento del Procurador General de Justicia y del Secretario de Seguridad Pública que haga el Gobernador conforme a esta Constitución.
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
 Asimismo, conceder licencias con goce de sueldo o sin él, al propio Gobernador, a los Magistrados del Tribunal Superior de Justicia a los miembros del Organo Jurisdiccional Electoral, a los Diputados y a los empleados dependientes de la legislatura.
 
@@ -889,7 +943,9 @@ IV. Nombrar provisionalmente y remover a los servidores públicos de la Cámara 
 
 V. Admitir las renuncias de los funcionarios y empleados nombrados por sí o por el Congreso.
 
-VI. (DEROGADA, P.O. 18 DE NOVIEMBRE DE 1995)
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+VI. Dictar acuerdos para modificar la conformación de la Comisión de Gobierno Legislativo, las comisiones ordinarias y especiales en los términos de la ley de la materia.
 
 VII. Conceder amnistía, de acuerdo con la fracción XX del Artículo 47 de esta misma Constitución.
 
@@ -1033,7 +1089,9 @@ XI.- (DEROGADA, P.O. 5 DE SEPTIEMBRE DE 1998)
 
 XII.- Nombrar y remover libremente a los titulares de las dependencias señaladas en la Ley Orgánica del Poder Ejecutivo y a los demás servidores públicos cuyo nombramiento no esté encomendado a otras autoridades.
 
-Designar, con ratificación del Congreso, al Procurador General de Justicia.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+Designar, con ratificación del Congreso, al Procurador General de Justicia y al Secretario de Seguridad Pública.
 
 XIII.- Llevar las comunicaciones y relaciones del Estado con el Gobierno General y con los de los otros Estados.
 
@@ -1247,6 +1305,14 @@ II.- Al cumplir setenta años de edad.
 
 La Ley Orgánica del Poder Judicial fijará las causas del retiro voluntario, y los beneficios que tendrá el Magistrado o Juez que se retire forzosa o voluntariamente.
 
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+El Poder Judicial del Estado gozará de autonomía presupuestal. El presupuesto que le sea asignado deberá ser suficiente para el cumplimiento de sus funciones y no podrá ser inferior al del año fiscal anterior, considerando las ampliaciones presupuestales y el índice inflacionario que establezca el Banco de México.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+El proyecto de presupuesto que remita el Poder Judicial al Gobernador, no podrá ser modificado por éste en la iniciativa que presente a la consideración del Congreso del Estado.
+
 > <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2009)</small>
 
 ###### Art. 82.
@@ -1457,7 +1523,9 @@ Ejerce las funciones de Ministerio Público en el Estado, el Procurador General 
 
 Para ser Procurador General de Justicia del Estado, se necesitan los mismos requisitos que para ser Magistrado del Tribunal Superior de Justicia.
 
-La propuesta y ratificación respectivas, se harán dentro del plazo de diez días naturales conforme las bases estipuladas en esta Constitución. El Procurador podrá ser removido libremente por el Gobernador.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+La propuesta y ratificación respectivas, se harán dentro del plazo de diez días naturales conforme las bases estipuladas en esta Constitución. El Procurador podrá ser removido solamente en términos del Título Octavo de esta Constitución.
 
 > <small>(REFORMADO, P.O. 26 DE ABRIL DE 1995)</small>
 
@@ -1667,11 +1735,21 @@ Sin perjuicio de su competencia, en el desempeño de la prestación de los servi
 
 Los municipios, previo acuerdo entre sus Ayuntamientos, podrán coordinarse y asociarse para la más eficaz prestación de los servicios públicos o el mejor ejercicio de las funciones que les correspondan en los términos de la fracción III del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos.
 
-Los Ayuntamientos podrán celebrar convenios o autorizar concesiones a los particulares, para que éstos se hagan cargo temporalmente de la ejecución, la operación de obras y la prestación de servicios municipales en los términos que señale la ley.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+Los Ayuntamientos podrán celebrar convenios, autorizar concesiones o celebrar contratos de asociación público privadas con los particulares, para que éstos se hagan cargo temporalmente de la ejecución, la operación de obras y la prestación de servicios municipales en los términos que señale la ley.
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+Los Ayuntamientos podrán autorizar presupuestos multianuales en los términos que dispongan las leyes.
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
 La planeación pública municipal será congruente con el sistema estatal y regional de planeación para el desarrollo.
 
-Cuando dos o más centros urbanos situados en territorios de dos o más municipios del estado, formen o tiendan a formar una continuidad demográfica, el Estado y los municipios respectivos, en el ámbito de sus competencias, planearán y regularán de manera conjunta y coordinada, el desarrollo de dichos centros con apego a las leyes de la materia.
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+Cuando dos o más centros urbanos situados en territorios de dos o más municipios del Estado, formen o tiendan a formar una continuidad demográfica, el Estado y los municipios respectivos, en el ámbito de sus competencias, planearán y regularán de manera conjunta y coordinada, el desarrollo de dichos centros con apego a las leyes de la materia.
 
 > <small>(REFORMADO, P.O. 24 DE ENERO DE 2001)</small>
 
@@ -1871,9 +1949,9 @@ IV. Contar con experiencia de al menos cinco años en materia de control, audito
 
 V. Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena;
 
-VI. No haber sido Gobernador, Secretario del Despacho o titular de alguna entidad paraestatal u órgano autónomo, Magistrado, Procurador General de Justicia, miembro del Consejo de la Judicatura, Senador, Diputado Federal o Local, Presidente, Regidor, Sindico o Tesorero Municipal o dirigente de algún partido político, ni haber sido postulado para cargo de elección popular en el año inmediato a la propia designación;
+VI. No haber sido Gobernador, Secretario del Despacho o titular de alguna entidad paraestatal u órgano autónomo, Magistrado, Procurador General de Justicia, miembro del Consejo de la Judicatura, Senador, Diputado Federal o Local, Presidente, Regidor, Sindico o Tesorero Municipal o dirigente de algún partido político, ni haber sido postulado para cargo de elección popular en el año inmediato la propia designación;
 
-VII. No pertenecer al estado eclesiástico, ni ser ministro de algún culto religioso, a menos que se separe conforme a lo establecido en la Constitución Federal y la ley de la materia;
+VII. No pertenecer al estado eclesiástico, ni ser ministro de algún culto religioso, a menos que se separe conforme a lo establecido en a la Constitución Federal y la ley de la materia;
 
 VIII. Poseer, al día del nombramiento, título y cédula profesional de licenciatura en el área de Sociales, Humanidades o Económico Administrativas, expedidos por autoridad o institución legalmente facultada para ello.
 
@@ -1987,7 +2065,7 @@ Las sanciones económicas no podrán exceder de tres tantos de los beneficios ob
 
 No se requerirá declaración de procedencia del Congreso del Estado cuando alguno de los servidores públicos a que hace referencia el artículo 124 primer párrafo, cometa un delito durante el tiempo en que se encuentre separado de su encargo.
 
-Si el servidor público ha vuelto a desempeñar sus funciones propias o ha sido nombrado o electo para desempeñar otro cargo distinto, pero de los enumerados en el artículo 124, se procederá de acuerdo con lo dispuesto en dicho precepto.
+Si el servidor público ha vuelto a desempeñar sus funciones propias o ha sido nombrado o electo para desempeñar otro cargo distinto, pero de los enumerados en el artículo 124 se procederá de acuerdo con lo dispuesto en dicho precepto.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1983)</small>
 
@@ -2167,15 +2245,21 @@ Las leyes correspondientes tipificarán los delitos en materia electoral y deter
 
 La educación que imparta el Estado, se ajustará a las prevenciones del artículo 3o. de la Constitución Federal.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1983)</small>
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+La Universidad Autónoma de Nayarit es una institución autónoma de educación superior y media superior, conforme a la ley estará facultada para autogobernarse, expedir su reglamentación y nombrar a sus autoridades; con base en estos principios realizará sus fines de conservar, crear y transmitir la cultura y la ciencia, a través de la docencia, investigación, difusión y vinculación académica, con pleno respeto a las libertades de cátedra, investigación, libre examen y discusión de las ideas; determinará sus planes y programas; fijará los términos de ingreso, promoción y permanencia de su personal académico; y administrará libremente su patrimonio, el cual se integrará con las aportaciones federales y estatales, la transmisión de bienes y derechos de personas físicas o morales, nacionales o extranjeras, los recursos generados por los servicios que preste, así como por los demás que señale su ley orgánica.
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
 ###### Art. 137.
 
-Los servidores públicos que no tengan limitado el tiempo de su duración, permanecerán en sus puestos por todo aquél, a que los hiciere acreedores sus servicios y buena conducta.
+La ley regulará el servicio civil y en especial las condiciones de ingreso a éste; las promociones y ascensos con base en mérito y aptitud; los cambios, suspensiones y cesantías; los deberes de los servidores públicos y los recursos contra las resoluciones que los afecten; garantizando a los empleados públicos la estabilidad en el cargo.
 
-> <small>(ADICIONADO, P.O. 14 DE MAYO DE 1994)</small>
+Los servidores públicos del Estado, de los Municipios, de sus entidades y dependencias, así como de sus administraciones paraestatales y paramunicipales, fideicomisos públicos, instituciones y organismos autónomos, y cualquier otro ente público, recibirán una remuneración adecuada e irrenunciable por el desempeño de su función, empleo, cargo o comisión, que deberá ser proporcional a sus responsabilidades.
 
-Nadie en el Estado podrá desempeñar dos o más cargos de elección popular, pero el interesado puede elegir el que le convenga.
+La ley determinará los conceptos de retribuciones y límites salariales de los servidores públicos, la que no podrá ser igual o mayor que su superior jerárquico; salvo que el excedente sea consecuencia del desempeño de varios empleos públicos, que su remuneración sea producto de las condiciones generales de trabajo, derivado de un trabajo técnico calificado o por especialización en su función, en los términos del artículo 127 de la Constitución Política de los Estados Unidos Mexicanos.
+
+Nadie en el Estado podrá desempeñar dos o más cargos de elección popular, pero el interesado puede elegir el que le convenga. Una vez que el servidor público comience a ejercer el cargo por el que haya optado, el otro quedará sin efectos.
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1981)</small>
 
@@ -3082,3 +3166,17 @@ Artículo Primero.- El presente decreto entrará en vigor al día siguiente de s
 Artículo Segundo.- Para los efectos del artículo 131 de la Constitución Política del Estado Libre y Soberano de Nayarit, remítase el presente decreto a los Ayuntamientos Constitucionales de la entidad.
 
 Artículo Tercero.- El Congreso del Estado deberá realizar las adecuaciones normativas necesarias a más tardar dentro de los 120 días siguientes a la entrada en vigor del presente decreto.
+
+P.O. 16 DE DICIEMBRE DE 2010.
+
+Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial, Órgano del Gobierno del Estado, salvo lo dispuesto en los artículos transitorios siguientes.
+
+Artículo Segundo.- Para regular lo dispuesto en el artículo 17 del presente decreto el Congreso del Estado contará con un plazo de dos años, contados a partir (sic) su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo Tercero.- El Congreso del Estado dispondrá de un plazo de hasta un año para emitir la legislación relacionada con los artículos 2, 4, 5, 47, fracciones IV y XXXVIII y 49, párrafos segundo y tercero, de este decreto, contado a partir de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo Cuarto.- La legislación relativa a los artículos 53 y 110 contenidos en el presente decreto, deberá ser expedida por el Congreso del Estado en un plazo de 6 meses, computados a partir su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo Quinto.- El Congreso del Estado contará con un plazo de tres años para emitir la legislación secundaria relacionada con el contenido del artículo 137 primer párrafo, que comenzará a contarse a partir de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo Sexto.- Para los efectos previstos por el artículo 131 de la Constitución Política del Estado Libre y Soberano de Nayarit, remítase el presente decreto a los Ayuntamientos de la entidad.
