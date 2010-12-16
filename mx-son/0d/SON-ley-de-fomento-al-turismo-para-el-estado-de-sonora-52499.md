@@ -4,7 +4,7 @@ identifier: "SON-ley-de-fomento-al-turismo-para-el-estado-de-sonora-52499"
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-14"
-last_updated: "2006-12-14"
+last_updated: "2010-12-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52499&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE FOMENTO AL TURISMO PARA EL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 16 DE DICIEMBRE DE 2010.
 
 Ley publicada en la Sección III del Boletín Oficial del Estado de Sonora, el jueves 14 de diciembre de 2006.
 
@@ -421,7 +421,9 @@ e) Consejo para la Promoción Económica de Sonora;
 
 f) Comisión de Ecología y Desarrollo Sustentable del Estado de Sonora;
 
-g) Comisión para la Atención de los Pueblos Indígenas de Sonora; y
+> <small>(REFORMADO, B.O. 16 DE DICIEMBRE DE 2010)</small>
+
+g) La Comisión Estatal para el Desarrollo de los Pueblos y Comunidades Indígenas;
 
 h) Instituto Sonorense de Cultura;
 
@@ -864,3 +866,19 @@ EDUARDO TOURS CASTELO
 EL SECRETARIO DE GOBIERNO
 
 ROBERTO RUBIAL ASTIAZARAN
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DEL REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+B.O. 16 DE DICIEMBRE DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro de los treinta días hábiles siguientes a la entrada en vigor del presente Decreto, la Comisión Estatal de Derechos Humanos, deberá emitir la convocatoria a que se refiere el artículo 13 de Ley (sic) de Derechos de los Pueblos y Comunidades Indígenas de Sonora, para los efectos de lo dispuesto en el artículo 19 de la Ley que Crea la Comisión Estatal de Derechos Humanos.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
