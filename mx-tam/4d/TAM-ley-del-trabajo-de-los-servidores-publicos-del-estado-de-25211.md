@@ -4,7 +4,7 @@ identifier: "TAM-ley-del-trabajo-de-los-servidores-publicos-del-estado-de-25211"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-06"
-last_updated: "2006-12-05"
+last_updated: "2010-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25211&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DEL TRABAJO DE LOS SERVIDORES PUBLICOS DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el jueves 6 de diciembre de 2001.
 
@@ -77,9 +77,13 @@ b).- En los tribunales administrativos: El Presidente, Secretarios Generales, lo
 
 c).- Los Oficiales del Registro Civil;
 
-d).- Los Defensores de Oficio;
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
-e).- Los Agentes del Ministerio Público;
+d).- Los Defensores públicos;
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+e).- Los Agentes del Ministerio Público, los peritos y sus auxiliares;
 
 f).- Los titulares de los Organismos Descentralizados y lo que así determine el Decreto de su creación; y
 
@@ -101,7 +105,9 @@ g).- Los demás que desempeñen función de:
 
 8.- LOS SECRETARIOS PARTICULARES Y AYUDANTES DE LAS DEPENDENCIAS Y DIRECTORES GENERALES.- Así como el personal adscrito presupuestalmente a aquellos servidores cuyos nombramientos o ejercicio requiera la aprobación expresa del Gobernador del Estado; y
 
-9.- LOS CUERPOS DE SEGURIDAD PUBLICA.- Que se integran por la Policía Ministerial, Policía Rural, Seguridad Integral, Policía Estatal Preventiva y quienes prestan sus servicios en los Centros de Readaptación Social y que se rigen por sus propias disposiciones reglamentarias, con excepción del personal administrativo.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+9.- EN LAS INSTITUCIONES POLICIALES Y DE PROCURACION DE JUSTICIA.- Que se integran por la Policía Ministerial, Policía Rural, Seguridad Integral, Policía Estatal Preventiva, Policía Especial y el personal que labora en los Centros de Ejecución de Sanciones, ya sea para adultos, o para adolescentes, que se rigen por sus propias disposiciones reglamentarias, incluido el personal administrativo.
 
 B).- EN EL PODER LEGISLATIVO:
 
@@ -164,6 +170,10 @@ IV.- Por dependencia se entiende la unidad definida en el Presupuesto de Egresos
 ###### ARTICULO 6o.
 
 En lo no previsto por esta ley o sus reglamentos, se aplicaran supletoriamente y en su orden, la Ley Federal del Trabajo, el Código de Procedimientos Civiles para el Estado de Tamaulipas, la costumbre, el uso y los principios generales de derecho; salvo que por expresa referencia de la misma remita a otro ordenamiento, circunstancia en la cual se estará a lo establecido.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+En tratándose del personal adscrito a las instituciones policiales o de procuración de justicia, se regirán, en lo conducente, por sus propias disposiciones, sin demérito de la aplicación supletoria de esta ley.
 
 ## TITULO SEGUNDO. DERECHOS DE LOS TRABAJADORES Y DEL GOBIERNO DEL ESTADO
 
@@ -1070,3 +1080,13 @@ P.O. 5 DE DICIEMBRE DE 2006.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE DICIEMBRE DE 2010.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+El personal que se encuentre comprendido en el párrafo 9 del inciso g) del apartado A del artículo 4° de la Ley del Trabajo de los Servidores Públicos del Estado de Tamaulipas será objeto de los procesos de evaluación y control de confianza que determine el Consejo Estatal de Seguridad Pública. Quienes a la fecha de entrada en vigor de este Decreto tengan un nombramiento de base podrán solicitar su reubicación a un área no vinculada a la organización y funcionamiento de las instituciones policiales y de procuración de justicia. Al personal que hubiere tenido nombramiento de base y continúe al servicio de las instituciones policiales y de procuración de justicia, les serán reconocidas su antigüedad y demás derechos generados para efectos de jubilación y pensión.
