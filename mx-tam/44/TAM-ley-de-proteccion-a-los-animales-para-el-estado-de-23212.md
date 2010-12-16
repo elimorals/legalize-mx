@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-proteccion-a-los-animales-para-el-estado-de-23212"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-25"
-last_updated: "2005-12-06"
+last_updated: "2010-12-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23212&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "TAM"
 
 LEY DE PROTECCION A LOS ANIMALES PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE DICIEMBRE DEL 2005.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DE LA LEY DE PROTECCION A LOS ANIMALES PARA EL ESTADO DE TAMAULlPAS., PUBLICADA EN EL P.O. DE 16 DE DICIEMBRE DE 2010. EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 25 de diciembre del 2001.
 
@@ -368,3 +370,21 @@ P.O. 6 DE DICIEMBRE DEL 2005.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE DICIEMBRE DE 2010.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+El Ejecutivo del Estado expedirá los reglamentos necesarios para el cumplimiento de esta ley, en un término no mayor a 180 días contados a partir de la entrada en vigor de la presente ley.
+
+###### ARTICULO TERCERO.
+
+Se abroga la Ley de Protección a los Animales para el Estado de Tamaulipas, expedida mediante Decreto número LVII-617, del 12 de diciembre de 2001, publicada en el Periódico Oficial del Estado número 154, de fecha 25 de diciembre de 2001, y su (sic) reformas contenidas en el Decreto número LlX- 53, del 26 de octubre de 2005, publicado en el Periódico Oficial del Estado número 145, del 6 de diciembre del 2005.
+
+###### ARTICULO CUARTO.
+
+Todos los asuntos o trámites que se encuentren pendientes de resolver al entrar en vigor la presente ley, se desahogarán en los términos previstos por la ley o leyes vigentes al momento de su inicio.
