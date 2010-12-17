@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-hacienda-del-estado-nuevo-leon-7748"
 country: "mx"
 rank: "ley"
 publication_date: "1974-12-28"
-last_updated: "2009-12-28"
+last_updated: "2010-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7748&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "NLE"
 
 LEY DE HACIENDA DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2009.
+> <small>N. DE E. EN EL DECRETO NUMERO 146, POR EL QUE SE REFORMA LA LEY DE HACIENDA DEL ESTADO DE NUEVO LEON, SE MODIFICO DE MANERA SUSTANCIAL EL TITULO SEGUNDO CON SUS RESPECTIVOS CAPITULOS, Y DIVERSOS ARTICULOS QUEDARON INTACTOS CON LA MODIFICACION, YA QUE DEROGA LA DENOMINACION DE LOS CAPITULOS SEXTO, DECIMO, DECIMOSEGUNDO, DECIMOTERCERO Y DECIMOSEXTO, PASANDO LOS ACTUALES CAPITULOS SEPTIMO, OCTAVO, NOVENO, DECIMOPRIMERO, DECIMOCUARTO Y DECIMOQUINTO A SER LOS CAPITULOS SEXTO, SEPTIMO, OCTAVO, NOVENO, DECIMO Y DECIMOPRIMERO RESPECTIVAMENTE, CON LA DENOMINACION Y EL ARTICULADO QUE ACTUALMENTE ESTAN VIGENTES. P.O. 17 DE DICIEMBRE DE 2010.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 28 de diciembre de 1974.
 
@@ -93,15 +95,23 @@ La administración y recaudación de los impuestos, contribuciones especiales, d
 
 Cuando en esta Ley o en alguna otra se dé una denominación nueva o distinta a la Secretaría de Finanzas y Tesorería General del Estado o a alguna de las Direcciones, Unidades, Departamentos o Dependencias que la integran, se entenderá que dicha disposición legislativa se está refiriendo a la denominación que para cada caso concreto, de acuerdo con las funciones y atribuciones respectivas, establece el Reglamento Interior de la Secretaría de Finanzas y Tesorería General del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE ENERO DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 9o. Bis.
 
-El pago de los créditos fiscales deberá hacerse en efectivo, salvo disposición expresa en contrario. Los giros postales, telegráficos o bancarios y los cheques certificados se admitirán como efectivo y deberán expedirse a favor de la Secretaría de Finanzas y Tesorería General del Estado.
+El pago de los créditos fiscales deberá hacerse en efectivo, salvo disposición expresa en contrario. Los pagos electrónicos realizados mediante el portal oficial del Gobierno del Estado, giros postales, telegráficos o bancarios y los cheques certificados se admitirán como efectivo y deberán expedirse a favor de la Secretaría de Finanzas y Tesorería General del Estado.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+Se aceptarán como medios de pago, los cheques certificados y los giros postales, telegráficos o bancarios; los cheques personales no certificados y las tarjetas bancarias de crédito o débito y dispositivos similares, así como las transferencias electrónicas de fondos reguladas por el Banco de México, incluyendo los pagos electrónicos que podrán realizarse mediante el portal oficial del Gobierno del Estado. Las tarjetas bancarias y dispositivos similares, únicamente se aceptarán en los lugares y operaciones que así autorice la Secretaría de Finanzas y Tesorería General del Estado. Los créditos fiscales podrán ser cubiertos en especie, mediante previa autorización por escrito del Secretario de Finanzas y Tesorero General del Estado, debiendo sujetarse para su valuación en lo conducente al procedimiento de remate previsto en el Código Fiscal del Estado.
 
-Se aceptarán como medios de pago, los cheques certificados y los giros postales, telegráficos o bancarios; los cheques personales no certificados y las tarjetas electrónicas bancarias de crédito o de débito, así como las transferencias electrónicas de fondos reguladas por el Banco de México. Las tarjetas electrónicas bancarias de crédito o débito, únicamente se aceptarán en los lugares y operaciones que así autorice la Secretaría de Finanzas y Tesorería General del Estado. Las transferencias electrónicas de fondos reguladas por el Banco de México, solamente se aceptarán de acuerdo a las reglas generales que fije la Secretaría de Finanzas y Tesorería General del Estado. Los créditos fiscales podrán ser cubiertos en especie, mediante previa autorización por escrito del Secretario de Finanzas y Tesorero General del Estado, debiendo sujetarse para su valuación en lo conducente al procedimiento de remate previsto en el presente Código.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
+###### ARTICULO 9o Bis
+
+1.- La Secretaría de Finanzas y Tesorería General del Estado podrá autorizar el acreditamiento total o parcial de donativos en dinero efectuados al Gobierno del Estado, para el pago de contribuciones y aprovechamientos estatales.
 
 ## TITULO SEGUNDO. De los Impuestos
 
@@ -945,7 +955,35 @@ III.- Los empleados o Funcionarios Públicos que autoricen cualquier trámite de
 
 Es objeto de este Impuesto la percepción de premios derivados de la celebración de loterías, rifas, sorteos y concursos de toda clase que celebren los organismos públicos descentralizados de la Administración Pública Federal, cuyo objeto social sea la obtención de recursos para destinarlos a la asistencia pública.
 
-También es objeto de este impuesto la percepción de premios derivados de la celebración de juegos con apuestas.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
+También es objeto de este impuesto la percepción de premios derivados de la celebración de juegos con apuestas. Para los efectos de este impuesto, se incluyen dentro de los juegos con apuestas, independientemente del nombre con el que se les designe, aquellos en los que el premio se obtenga por la destreza del participante en el uso de máquinas, que en su desarrollo utilicen imágenes visuales electrónicas como números, cartas, símbolos, figuras u otras similares, independientemente de que en alguna etapa de su desarrollo intervenga directa o indirectamente el azar.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
+Igualmente se consideran juegos con apuestas aquellos en los que el participante deba estar presente en el juego, activamente o como espectador, y aquellos juegos en los que el participante haga uso de máquinas que utilicen algoritmos desarrollados en sistemas electrónicos o cualquier otro método mecánico, electrónico o electromagnético en el que la obtención del premio no dependa de factores controlables o susceptibles de ser conocidos o dominados por el participante.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
+Asimismo, quedan comprendidos en los juegos con apuestas, los de apuestas remotas, también conocidos como libros foráneos, autorizados por autoridad competente, para captar y operar cruces de apuestas en eventos, competencias deportivas y juegos permitidos por la Ley, realizados en el extranjero o en territorio nacional, transmitidos en tiempo real y de forma simultánea en video y audio.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
+Igualmente, quedan comprendidos en los juegos con apuestas, aquéllos establecimientos autorizados por autoridad competente, en los que se reciban, capten, crucen o exploten apuestas.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
+Para los efectos de este impuesto, se considera apuesta el monto susceptible de apreciarse en moneda nacional que se arriesga en un juego de los que requieran permiso de conformidad con lo dispuesto en la Ley Federal de Juegos y Sorteos y su Reglamento, con la posibilidad de obtener o ganar un premio, cuyo monto, sumado a la cantidad arriesgada deberá ser superior a ésta.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -963,11 +1001,21 @@ Cuando la persona que otorgue el premio pague por cuenta del contribuyente el im
 
 No se pagará el impuesto establecido en este capítulo por la obtención de reintegros.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO] Y REUBICADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 116.
 
-El impuesto que resulte de aplicar la tasa indicada en el artículo precedente, será retenido por las personas que paguen los premios, quienes deberán enterarlo a la Secretaría de Finanzas y Tesorería General del Estado, dentro del mes siguiente al en que realicen la retención.
+El impuesto que resulte de aplicar la tasa indicada en el artículo precedente, será retenido por las personas que paguen los premios, quienes deberán enterarlo a la Secretaría de Finanzas y Tesorería General del Estado, dentro del mes siguiente al en que realicen la retención. Lo anterior independientemente de que se trate de administradores, organizadores o anfitriones de algún establecimiento donde se lleven a cabo algunos de los juegos mencionados en el artículo anterior.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
+Los retenedores del impuesto mencionado en este Capítulo, deberán al momento de realizar cualquier trámite ante la Secretaría de Finanzas y Tesorería General del Estado, acreditar el permiso otorgado por la Secretaría de Gobernación así como la opinión favorable del Estado o del Ayuntamiento que corresponda para la instalación del establecimiento donde se realicen las actividades señaladas en los artículos precedentes.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 Los organismos públicos descentralizados de la Administración Pública Federal aunque conforme a otras Leyes o Decretos no causen impuestos locales o estén exentos de ellos, deberán efectuar las retenciones de este impuesto y enterarlo de acuerdo al párrafo anterior.
 
@@ -983,105 +1031,583 @@ II.- Proporcionar, cuando así lo solicite el interesado, constancia de retenci�
 
 III.- Conservar la documentación relacionada con las constancias y las retenciones de este impuesto, por plazo de cinco años, a disposición de la Secretaría de Finanzas y Tesorería General del Estado.
 
-### CAPITULO QUINTO. Del Impuesto sobre Capitales Invertidos con Garantía de Inmuebles
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
+### CAPITULO QUINTO. Del Impuesto Sobre Tenencia o Uso de Vehículos
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
+#### SECCION I. Disposiciones Generales
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
 #### SECCION SEXTA. De las oficinas recaudadoras y del empadronamiento
 
 ###### ARTICULO 118.
 
-(DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
+Están obligadas al pago del impuesto sobre tenencia o uso de vehículos, las personas físicas y las morales tenedoras o usuarias de los vehículos a que se refiere el presente capítulo, dentro de la circunscripción territorial del Estado.
+
+Para los efectos de este impuesto se considera que la tenencia o uso de vehículos se efectúa dentro de la circunscripción territorial del Estado, cuando se actualice alguno de los siguientes supuestos:
+
+I. Se inscriba el vehículo en el registro vehicular del Estado.
+
+II. El domicilio o domicilio fiscal del tenedor o usuario del vehículo se localice dentro del territorio del Estado.
+
+Para los efectos de este Capítulo, se presume que el propietario es tenedor o usuario del vehículo.
+
+Los contribuyentes pagarán el impuesto por año de calendario durante los tres primeros meses ante las oficinas autorizadas, salvo en el caso de vehículos nuevos o importados, supuesto en el que el impuesto deberá calcularse y enterarse previamente al momento en el cual se solicite el registro del vehículo en el padrón vehicular o realice cualquier trámite tendiente a obtener la autorización o permiso de cualquier índole para circulación en traslado.
+
+El impuesto se pagará en las oficinas o instituciones autorizadas por la Secretaría de Finanzas y Tesorería General del Estado.
+
+El pago antes mencionado se realizará de manera simultánea con los derechos por los servicios de control vehicular establecidos en esta Ley y demás contribuciones que resulten aplicables dentro del trámite realizado.
+
+Las personas físicas o morales cuya actividad sea la enajenación de vehículos nuevos o importados al público, que asignen dichos vehículos a su servicio o al de sus funcionarios o empleados, deberán pagar el impuesto por el ejercicio en que hagan la asignación, en los términos previstos en el cuarto párrafo de este Artículo.
+
+En la enajenación o importación de vehículos nuevos de año modelo posterior al de aplicación del impuesto a que se refiere este Capítulo, se pagará el impuesto correspondiente al año de calendario en que se enajene o importe, según corresponda. El impuesto para dichos vehículos se determinará en el siguiente año de calendario bajo el criterio de vehículo nuevo.
+
+Para los efectos de este Capítulo, también se consideran automóviles, a los omnibuses, camiones y tractores no agrícolas tipo quinta rueda.
+
+En caso de que no puedan comprobarse los años de antigüedad del vehículo, el impuesto se pagará como si éste fuese nuevo.
+
+Cuando la enajenación o importación de vehículos nuevos se efectúe después del primer mes del año de calendario, el impuesto causado por dicho año se pagará en la proporción que resulte de aplicar el factor correspondiente, de acuerdo a lo siguiente:
+
+Mes de adquisición Factor aplicable al
+
+impuesto causado
+
+Febrero 0.92
+
+Marzo 0.83
+
+Abril 0.75
+
+Mayo 0.67
+
+Junio 0.58
+
+Julio 0.50
+
+Agosto 0.42
+
+Septiembre 0.33
+
+Octubre 0.25
+
+Noviembre 0.17
+
+Diciembre 0.08
+
+La Federación, el Estado, los Organismos Autónomos, los organismos descentralizados y desconcentrados, fideicomisos públicos de la administración pública del Estado, los Municipios o cualquier otra persona, deberán pagar el impuesto que establece este Capítulo, con las excepciones que en el mismo se señalan, aún cuando de conformidad con otras Leyes o Decretos no estén obligados a pagar impuestos estatales o estén exentos de ellos.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 119.
 
-(DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
+Para efectos de este Capítulo, se entiende por:
+
+I. Vehículo nuevo:
+
+a) El que se enajena por primera vez al consumidor por el fabricante, ensamblador, distribuidor o comerciante en el ramo de vehículos.
+
+b) El importado definitivamente al país, que corresponda al año modelo posterior al de aplicación de este impuesto, al año modelo en que se efectúe la importación, o a los nueve años modelos inmediatos anteriores al año de la importación definitiva.
+
+II. Valor total del vehículo, el precio de enajenación del fabricante, ensamblador, distribuidor autorizado, importador, empresas comerciales con registro ante la Secretaría de Economía como empresa para importar autos usados o comerciantes en el ramo de vehículos, según sea el caso, al consumidor, incluyendo el equipo que provenga de fábrica o el que el enajenante le adicione a solicitud del consumidor, incluyendo las contribuciones que se deban pagar con motivo de la importación, a excepción del impuesto al valor agregado.
+
+En el valor total del vehículo a que hace referencia el párrafo anterior, no se incluirán los intereses derivados de créditos otorgados para la adquisición del mismo.
+
+III. Marca, las denominaciones y distintivos que los fabricantes de automóviles y camiones dan a sus vehículos para diferenciarlos de los demás.
+
+IV. Año Modelo, el año de fabricación o ejercicio automotriz comprendido, por el periodo entre el 1o. de octubre del año anterior y el 30 de septiembre del año que transcurra.
+
+V. Modelo, todas aquellas versiones de la carrocería básica con dos, tres, cuatro o cinco puertas que se deriven de una misma línea. Por carrocería básica se entenderá, el conjunto de piezas metálicas o de plástico, que configuran externamente a un vehículo y de la que derivan los diversos modelos.
+
+VI. Versión, cada una de las distintas presentaciones comerciales que tiene un modelo.
+
+VII. Línea:
+
+a) Automóviles con motor de gasolina o gas hasta de 4 cilindros.
+
+b) Automóviles con motor de gasolina o gas de más de 4 cilindros.
+
+c) Automóviles con motor diesel.
+
+d) Camiones con motor de gasolina, gas o diesel.
+
+e) Tractores no agrícolas tipo quinta rueda.
+
+f) Autobuses integrales.
+
+g) Automóviles eléctricos.
+
+VIII. Comerciantes en el ramo de vehículos, a las personas físicas o morales cuya actividad sea la importación y venta de vehículos nuevos o usados.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 120.
 
-(DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
+Son solidariamente responsables del pago del impuesto establecido en este Capítulo:
+
+I. Quienes por cualquier título, adquieran la propiedad, tenencia o uso del vehículo, por el adeudo del impuesto que en su caso existiera, aún cuando se trate de personas que no están obligadas al pago de dicho impuesto.
+
+II. Quienes reciban en consignación o comisión para su enajenación vehículos, por el adeudo del impuesto que en su caso existiera.
+
+III. Las autoridades federales, estatales o municipales, que autoricen el registro de vehículos, permisos provisionales para circulación en traslado, matrículas, altas, cambios o bajas de placas o efectúen la renovación de los mismos, sin haberse cerciorado de que no existan adeudos por el impuesto previsto en el presente Capítulo, correspondiente a los últimos cinco años, salvo en los supuestos en que el contribuyente acredite que se encuentra liberado de esta obligación.
+
+Las autoridades competentes solamente registrarán vehículos cuyos propietarios se encuentren domiciliados en el territorio correspondiente al Estado de Nuevo León.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 121.
 
-(DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
+Los contribuyentes comprobarán el pago del impuesto con la copia de la forma por medio de la cual lo hayan efectuado.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
+#### SECCION II. Automóviles
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 122.
 
-(DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
+Tratándose de automóviles, omnibuses, camiones y tractores no agrícolas tipo quinta rueda, el impuesto se calculará como a continuación se indica:
+
+I. En el caso de automóviles nuevos, destinados al transporte hasta de quince pasajeros, el impuesto será la cantidad que resulte de aplicar al valor total del vehículo, la siguiente:
+
+TARIFA
+
+Límite inferior Límite superior Cuota fija Tasa para
+
+aplicarse sobre
+
+el excedente
+
+del importe
+
+señalado en el
+
+límite inferior
+
+$ $ $ %
+
+De 0.01 a 526,657.78 0.00 3.0
+
+Mayor de a 1,013,523.64 15,799.73 8.7
+
+526,657.78
+
+Mayor de a 1,362,288.13 58,157.06 13.3
+
+1,013,523.64
+
+Mayor de a 1,711,052.62 104,542.74 16.8
+
+1,362,288.13
+
+Mayor de 163,135.16 19.1
+
+1,711,052.62
+
+Tratándose de automóviles blindados, excepto camiones, la tarifa a que se refiere esta fracción se aplicará sobre el valor total del vehículo, sin incluir el valor del material utilizado para el blindaje. En ningún caso el impuesto que se tenga que pagar por dichos vehículos, será mayor al que tendrían que pagarse por la versión de mayor precio de enajenación de un automóvil sin blindaje del mismo modelo y año. Cuando no exista vehículo sin blindar que corresponda al mismo modelo, año o versión del automóvil blindado, el impuesto para este último, será la cantidad que resulte de aplicar al valor total del vehículo, la tarifa establecida en esta fracción, multiplicando el resultado por el factor de 0.80.
+
+II. Para automóviles nuevos destinados al transporte de más de quince pasajeros o efectos cuyo peso bruto vehicular sea menor a 15 toneladas y para automóviles nuevos que cuenten con placas de servicio público de transporte de pasajeros y los denominados "taxis", el impuesto será la cantidad que resulte de aplicar el 0.245% al valor total del automóvil.
+
+Cuando el peso bruto vehicular sea de 15 a 35 toneladas, el impuesto se calculará multiplicando la cantidad que resulte de aplicar el 0.50% al valor total del automóvil, por el factor fiscal que resulte de dividir el peso bruto máximo vehicular expresado en toneladas, entre 30. En el caso de que el peso sea mayor de 35 toneladas se tomará como peso bruto máximo vehicular esta cantidad.
+
+Para los efectos de esta fracción, peso bruto vehicular es el peso del vehículo totalmente equipado incluyendo chasis, cabina, carrocería, unidad de arrastre con el equipo y carga útil transportable.
+
+III. Tratándose de automóviles de más de diez años modelos anteriores al de aplicación de este Capítulo, el impuesto se pagará a la tasa del 0%.
+
+Para los efectos de este Artículo, se entiende por vehículos destinados a transporte de más de 15 pasajeros o para el transporte de efectos, los camiones, vehículos Pick Up sin importar el peso bruto vehicular, tractores no agrícolas tipo quinta rueda, así como minibuses, microbuses y autobuses integrales, cualquiera que sea su tipo y peso bruto vehicular.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 123.
 
-(DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
+No se pagará el impuesto por la tenencia o uso de los siguientes vehículos:
+
+I. Los eléctricos utilizados para el transporte público de personas
+
+II. Los importados temporalmente en los términos de la legislación aduanera
+
+III. Los vehículos de la Federación, Estados, Municipios y Distrito Federal y sus organismos descentralizados, que sean utilizados para la prestación de los servicios públicos de rescate, patrullas, transportes de limpia, pipas de agua, servicios funerarios, y las ambulancias dependientes de cualquiera de esas entidades o de instituciones de beneficencia autorizadas por las leyes de la materia y los destinados a los cuerpos de bomberos.
+
+IV. Los automóviles al servicio de misiones Diplomáticas y Consulares de carrera extranjeras y de sus agentes diplomáticos y consulares de carrera, excluyendo a los cónsules generales honorarios, cónsules y vicecónsules honorarios, siempre que sea exclusivamente para uso oficial y exista reciprocidad
+
+V. Los que tengan para su venta los fabricantes, las plantas ensambladoras, sus distribuidores y los comerciantes en el ramo de vehículos, siempre que carezcan de placas de circulación.
+
+Cuando por cualquier motivo un vehículo deje de estar comprendido en los supuestos a que se refieren las fracciones anteriores, el tenedor o usuario del mismo deberá pagar el impuesto correspondiente dentro de los 15 días siguientes a aquel en que tenga lugar el hecho de que se trate.
+
+Los tenedores o usuarios de los vehículos a que se refieren las fracciones II, III y IV de este Artículo, deberán comprobar ante la autoridad competente que se encuentran comprendidos en dichos supuestos.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
+#### SECCION III. Otros vehículos
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
 #### SECCION SEPTIMA. De las declaraciones y pago del Impuesto
 
 ###### ARTICULO 124.
 
-(DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
+En esta sección se establecen las disposiciones aplicables a las aeronaves, embarcaciones, veleros, esquí acuático motorizado, motocicleta acuática, tabla de oleaje con motor, automóviles eléctricos y motocicletas.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 125.
 
-(DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
+Tratándose de aeronaves nuevas, el impuesto será la cantidad que resulte de multiplicar el peso máximo, incluyendo la carga de la aeronave expresado en toneladas, por la cantidad de $9,557.39, para aeronaves de pistón, turbohélice y helicópteros, y por la cantidad de $10,294.49, para aeronaves de reacción.
+
+Tratándose de embarcaciones, veleros, esquís acuáticos motorizados, motocicletas acuáticas y tablas de oleaje con motor, nuevos, el impuesto será la cantidad que resulte de aplicar al valor total del vehículo de que se trate el 1.5%.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 126.
 
-(DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
+Tratándose de motocicletas nuevas, el impuesto se calculará aplicando al valor total de la motocicleta, la siguiente:
+
+TARIFA
+
+Límite inferior Límite superior Cuota fija Tasa para
+
+aplicarse sobre
+
+el excedente
+
+del importe
+
+señalado en el
+
+límite inferior
+
+$ $ $ %
+
+De 0.01 a 220,660.00 0.00 3.0
+
+Mayor de a 303,459.28 6,619.80 8.7
+
+220,660.00
+
+Mayor de a 407,882.92 13,823.33 13.3
+
+303,459.28
+
+Mayor de 27,711.67 16.8
+
+407,882.92
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 127.
 
-(DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
+Tratándose de vehículos de más de diez años de fabricación anteriores al de aplicación de este Capítulo, el impuesto se pagará conforme a la siguiente:
+
+TABLA
+
+TIPO DE VEHÍCULOS CUOTA
+
+$
+
+AERONAVES:
+
+Hélice 2,115.74
+
+Turbohélice 11,710.12
+
+Reacción 16,918.38
+
+HELICÓPTEROS 2,600.99
+
+El monto de las cuotas establecidas en este Artículo se actualizará con el factor a que se refiere el Artículo 129 del presente Capítulo.
+
+Tratándose de motocicletas de más de diez años modelos anteriores al de aplicación de este Capítulo, el impuesto correspondiente se pagará a la tasa del 0%.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 128.
 
-(DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
+Tratándose de automóviles eléctricos nuevos, así como de aquellos eléctricos nuevos, que además cuenten con motor de combustión interna o con motor accionado por hidrógeno, el impuesto se pagará a la tasa de 0%.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 129.
 
-(DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
+Para los efectos de lo dispuesto en los Artículos 122, 125, 126 y 127, de este Capítulo, los montos de las cantidades que en los mismos se señalan se actualizarán en el mes de diciembre de cada año aplicando el factor correspondiente al periodo comprendido desde el mes de noviembre del penúltimo año hasta el mes de octubre inmediato anterior a aquél por el cual se efectúa la actualización, mismo que se obtendrá de conformidad con el Artículo 18 Bis del Código Fiscal del Estado de Nuevo León.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
 #### SECCION OCTAVA. De las Obligaciones de los Causantes
 
 ###### ARTICULO 130.
 
-(DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
+No se pagará el impuesto en los términos de esta sección por la tenencia o uso de los siguientes vehículos:
+
+I. Los importados temporalmente en los términos de la Ley Aduanera.
+
+II. Los vehículos de la Federación, Estados, Municipios y Distrito Federal que sean utilizados para la prestación de los servicios públicos de rescate, patrullas, y las ambulancias dependientes de cualquiera de estas Entidades o de Instituciones de Beneficencia autorizadas por las Leyes de la materia y los destinados a los cuerpos de bomberos.
+
+III. Los que tengan para su venta los fabricantes, las plantas ensambladoras, distribuidoras y los comerciantes del ramo de vehículos.
+
+IV. Las embarcaciones dedicadas al transporte mercante o a la pesca comercial.
+
+V. Las aeronaves monomotoras de una plaza, fabricadas o adaptadas para fumigar, rociar o esparcir líquidos o sólidos, con tolva de carga.
+
+VI. Las aeronaves con capacidad de más de 20 pasajeros, destinadas al aerotransporte al público en general.
+
+Cuando por cualquier motivo un vehículo deje de estar comprendido en los supuestos a que se refieren las fracciones anteriores, el tenedor o usuario del mismo deberá pagar el impuesto correspondiente dentro de los 15 días siguientes a aquel en que tenga lugar el hecho de que se trate.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 131.
 
-(DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
+El Gobierno del Estado podrá celebrar convenios con las autoridades federales competentes para expedir los certificados de aeronavegabilidad o de inspección de seguridad a embarcaciones y los certificados de matrícula para las aeronaves, a fin de facilitar la comprobación del pago del presente impuesto por parte de las personas tenedoras o usuarias de aeronaves o embarcaciones gravadas.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
+#### SECCION IV. Vehículos usados
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 132.
 
-(DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
+Tratándose de vehículos de fabricación nacional o importados, a que se refieren los Artículos 122, fracción II y 126 de la presente Ley, así como de aeronaves, excepto automóviles destinados al transporte de hasta quince pasajeros, el impuesto será el que resulte de multiplicar el importe del impuesto causado en el ejercicio fiscal inmediato anterior por el factor que corresponda conforme a los años de antigüedad del vehículo, de acuerdo con la siguiente:
+
+TABLA
+
+Años de Factor
+
+antigüedad
+
+1 0.900
+
+2 0.889
+
+3 0.875
+
+4 0.857
+
+5 0.833
+
+6 0.800
+
+7 0.750
+
+8 0.667
+
+9 0.500
+
+El resultado obtenido conforme al párrafo anterior, se actualizará de acuerdo con lo dispuesto en el Artículo 129 del presente Capítulo.
+
+Tratándose de automóviles de servicio particular que pasen a ser de servicio público de transporte denominados "taxis", el impuesto sobre tenencia o uso de vehículos se calculará, para el ejercicio fiscal siguiente a aquél en el que se dé esta circunstancia, conforme al siguiente procedimiento:
+
+I. El valor total del automóvil se multiplicará por el factor de depreciación, de acuerdo al año modelo del vehículo, de conformidad con la tabla establecida en este Artículo; y
+
+II. La cantidad obtenida conforme a la fracción anterior se actualizará de conformidad con lo dispuesto en el Artículo 129 del presente Capítulo el resultado obtenido se multiplicará por 0.245%.
+
+Para los efectos de este Artículo, los años de antigüedad se calcularán con base en el número de años transcurridos a partir del año modelo al que corresponda el vehículo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 133.
 
-(DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
+Tratándose de automóviles de fabricación nacional o importados, de hasta nueve años modelo anteriores al de aplicación de este Capítulo, destinados al transporte de hasta quince pasajeros, el impuesto será el que resulte de aplicar el procedimiento siguiente:
+
+El valor total del automóvil se multiplicará por el factor de depreciación, de acuerdo al año modelo del vehículo, de conformidad con la siguiente:
+
+TABLA
+
+Años de antigüedad Factor de depreciación
+
+1 0.850
+
+2 0.725
+
+3 0.600
+
+4 0.500
+
+5 0.400
+
+6 0.300
+
+7 0.225
+
+8 0.150
+
+9 0.075
+
+La cantidad obtenida conforme al inciso anterior, se actualizará de conformidad con lo dispuesto en el Artículo 129 del presente Capítulo y al resultado se le aplicará la tarifa a que hace referencia el Artículo 122 de este Capítulo.
+
+Para efectos de la depreciación y actualización a que se refiere este artículo, los años de antigüedad se calcularán con base en el número de años transcurridos a partir del año modelo al que corresponda el vehículo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 134.
 
-(DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
+Tratándose de embarcaciones, veleros, esquís acuáticos motorizados, motocicletas acuáticas y tablas de oleaje con motor, usados, el impuesto será el que resulte de aplicar el procedimiento siguiente:
+
+a) El valor total del vehículo de que se trate se multiplicará por el factor de depreciación de acuerdo al año modelo, de conformidad con la siguiente:
+
+TABLA
+
+Años de Antigüedad Factor de depreciación
+
+1 0.9250
+
+2 0.8500
+
+3 0.7875
+
+4 0.7250
+
+5 0.6625
+
+6 0.6000
+
+7 0.5500
+
+8 0.5000
+
+9 0.4500
+
+10 0.4000
+
+11 0.3500
+
+12 0.3000
+
+13 0.2625
+
+14 0.2250
+
+15 0.1875
+
+16 0.1500
+
+17 0.1125
+
+18 0.0750
+
+19 y siguientes 0.0375
+
+b) La cantidad obtenida conforme al inciso anterior, se actualizará de conformidad con lo dispuesto en el artículo 129 de esta Ley; al resultado se le aplicará la tasa a que hace referencia el segundo párrafo del artículo 125 de la misma.
+
+Para los efectos de la depreciación y actualización a que se refiere este Artículo, los años de antigüedad se calcularán con base en el número de años transcurridos a partir del año modelo al que corresponda el vehículo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 135.
 
-(DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
+Tratándose de motocicletas de fabricación nacional o importadas, de hasta nueve años modelo anteriores al de aplicación de este Capítulo, el impuesto será el que resulte de aplicar el procedimiento siguiente:
+
+El valor total de la motocicleta se multiplicará por el factor de depreciación, de acuerdo al año modelo de la motocicleta, de conformidad con la siguiente:
+
+TABLA
+
+Años de antigüedad Factor de depreciación
+
+1 0.9
+
+2 0.8
+
+3 0.7
+
+4 0.6
+
+5 0.5
+
+6 0.4
+
+7 0.3
+
+8 0.2
+
+9 0.1
+
+A la cantidad obtenida conforme al párrafo anterior, se le aplicará la tarifa a que hace referencia el Artículo 129 del presente Capítulo.
+
+Para efectos de la depreciación a que se refiere este Artículo, los años de antigüedad se calcularán con base en el número de años transcurridos a partir del año modelo al que corresponda la motocicleta.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
 #### SECCION NOVENA. De las obligaciones de terceros y de la responsabilidad solidaria
 
 ###### ARTICULO 136.
 
-(DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
+Los fabricantes, ensambladores y distribuidores autorizados, así como los comerciantes en el ramo de vehículos, tendrán la obligación de proporcionar a las autoridades competentes, a más tardar el día 17 de cada mes, la información relativa al precio de enajenación al consumidor de cada unidad vendida en territorio del estado en el mes inmediato anterior. Los que tengan más de un establecimiento, deberán presentar la información a que se refiere este artículo, haciendo la separación por cada uno de los establecimientos.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 137.
 
-(DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
+El Gobierno del Estado podrá celebrar convenios con las autoridades municipales, con el fin de procurar el pago del presente impuesto y otros de carácter estatal y municipal.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
 #### SECCION DECIMA. De la Vigilancia
 
 ###### ARTICULO 138.
 
-(DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
+Para efectos de este Impuesto son autoridades competentes la Secretaría de Finanzas y Tesorería General del Estado, el Instituto de Control Vehicular. Las Tesorerías municipales serán competentes en los términos de los convenios que al efecto se realicen.
 
-### CAPITULO SEXTO. Del Impuesto sobre Diversiones, Espectáculos Públicos y Apartos (sic) Fonoelectromecánicos
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-### CAPITULO SEPTIMO. Del Impuesto Sobre Compraventa o Permuta de Ganado
+(REUBICADO [N. DE E. ANTES CAPITULO SEPTIMO], P.O. 17 DE DICIEMBRE DE 2010)
+
+### CAPITULO SEXTO. Del Impuesto Sobre Compraventa o Permuta de Ganado
+
+### CAPITULO SEPTIMO. Del Impuesto sobre Venta de Gasolina y demás Derivados del Petróleo
 
 ###### ARTICULO 139.
 
@@ -1159,7 +1685,13 @@ IV.- Pagar el impuesto en la forma que se señala en el presente Capítulo, y;
 
 V.- Adoptar las medidas de control y someterse a los actos de vigilancia que para el pago de este impuesto establezca la Tesorería General.
 
-### CAPITULO OCTAVO. Del Impuesto sobre Venta de Gasolina y demás Derivados del Petróleo
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+(REUBICADO [N. DE E. ANTES CAPITULO OCTAVO], P.O. 17 DE DICIEMBRE DE 2010)
+
+### CAPITULO OCTAVO. Impuesto sobre Nóminas
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 148.
 
@@ -1185,9 +1717,13 @@ El pago de este impuesto se hará dentro de los primeros quince días de cada me
 
 La Tesorería General podrá celebrar convenios con Petróleos Mexicanos para que la recaudación de este impuesto se realice por conducto de la mencionada institucin (sic), en los términos del Reglamento del artículo 21 de la Ley del Impuesto sobre Consumo de Gasolina.
 
-### CAPITULO NOVENO. Impuesto sobre Nóminas
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2003)</small>
+(REUBICADO [N. DE E. ANTES CAPITULO NOVENO], P.O. 17 DE DICIEMBRE DE 2010)
+
+### CAPITULO NOVENO. Del Impuesto sobre Honorarios
+
+> <small>(REFORMADO, P. O. 30 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 154.
 
@@ -1213,9 +1749,11 @@ Antes de que se efectúe el primer pago de honorarios en el año de calendario d
 
 Son sujetos de este impuesto las personas físicas, las morales o las unidades económicas que realicen los pagos a que se refiere el Artículo anterior.
 
-> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-La federación, los organismos descentralizados, fideicomisos y demás entidades paraestatales, deberán cubrir el impuesto a su cargo.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
+La Federación, el Estado, los Municipios, los Organismos Descentralizados, Fideicomisos y demás entidades públicas, deberán cubrir el impuesto a su cargo.
 
 ###### ARTICULO 156.
 
@@ -1235,9 +1773,11 @@ El pago del impuesto deberá efectuarse a más tardar el día diecisiete del mes
 
 Cuando se presente una declaración sin pago, se presumirá que no existe impuesto a pagar en las declaraciones posteriores y no se presentarán las mismas, hasta que exista cantidad a pagar, siempre que se presente conjuntamente con la primera declaración sin pago, escrito libre en el que se señalen las razones por las que no se tuvieron erogaciones gravadas.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-Los contribuyentes que en el año inmediato anterior hayan efectuado pagos mensuales, cuyo monto anual globalizado del impuesto no hubiere excedido de 100 cuotas, podrán realizar el pago del impuesto en forma trimestral a más tardar el día diecisiete de los meses de Abril, Julio, Octubre y Enero.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
+Los contribuyentes que en el año inmediato anterior hayan efectuado pagos mensuales, cuyo monto anual globalizado del impuesto no hubiera excedido de $36,000.00, podrán realizar el pago del impuesto en forma trimestral a más tardar el día diecisiete de los meses de abril, julio, octubre y enero.
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -1323,9 +1863,9 @@ El Centro de Evaluación de Habilidades y Actitudes Laborales del Sistema Estata
 
 II.- Las erogaciones que efectúen:
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-a) El Estado y los Municipios.
+a) (DEROGADO, P.O. 17 DE DICIEMBRE DE 2010)
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1986)</small>
 
@@ -1459,9 +1999,11 @@ II.- En los términos del último párrafo del artículo 44 del Código Fiscal d
 
 (DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-### CAPITULO DECIMO. Del Impuesto sobre Honorarios
+(REUBICADO Y ADICIONADO [N. DE E. ANTES CAPITULOS DECIMO Y DECIMO PRIMERO], P.O. 17 DE DICIEMBRE DE 2010)
+
+### CAPITULO DECIMO. Del Impuesto sobre Expendios de Bebidas Alcohólicas
 
 ###### ARTICULO 171.
 
@@ -1661,9 +2203,13 @@ No se pagará el impuesto tratándose de la prestación de servicios de hospedaj
 
 (DEROGADO, P.O. 30 DE DICIEMBRE DE 1983)
 
-### CAPITULO DECIMO PRIMERO. Del Impuesto Sobre Hospedaje
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO, P. O. 30 DE DICIEMBRE DE 1998)</small>
+(REUBICADO Y ADICIONADO [N. DE E. ANTES CAPITULO DECIMO CUARTO], P.O. 17 DE DICIEMBRE DE 2010)
+
+### CAPITULO DECIMO PRIMERO. Impuesto sobre Ganado y Aves que se sacrifiquen
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1979)</small>
 
 ###### ARTICULO 205.
 
@@ -1919,9 +2465,11 @@ Las infracciones a esta Ley por lo que se refiere a marbetes se sancionará con 
 
 Cuando el retenedor o causante adhiera sobre el envase de bebidas alcohólicas marbetes cuyo valor no corresponda al impuesto que debió enterarse conforme al Artículo 215, se procederá como lo indica el Artículo anterior.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 28 DE DICIEMBRE DE 1979)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-### CAPITULO DECIMO SEGUNDO. Del Impuesto sobre Empresas Porteadoras de Personas o Cosas
+(REUBICADO [N. DE E. ANTES CAPITULO DECIMO QUINTO], P.O. 17 DE DICIEMBRE DE 2010)
+
+### CAPITULO PRIMERO. Disposiciones Generales
 
 ###### ARTICULO 249.
 
@@ -2001,9 +2549,9 @@ Los encargados de los rastros no permitirán la matanza de ganado o aves, si no 
 
 ## TITULO TERCERO. De los Derechos
 
-### CAPITULO DECIMO TERCERO
+### CAPITULO SEGUNDO. De los Derechos por Servicios Prestados por la Secretaría del Trabajo
 
-Del Impuesto sobre Aumento de Valor y Mejoría Específica de la Propiedad.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
 
 ###### ARTICULO 261.
 
@@ -2029,9 +2577,13 @@ ARTICULUO (SIC) 264.- En aquellos casos en que, por circunstancias especiales, e
 
 El funcionario o empleado público que preste algún servicio por el que se cause un derecho, en contravención a lo dispuesto anteriormente, será responsable de su pago.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE DICIEMBRE DE 2000)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-### CAPITULO DECIMO CUARTO. Del Impuesto sobre Expendios de Bebidas Alcohólicas
+> <small>(REFORMADA SU DENOMINACION, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
+### CAPITULO TERCERO. De los Derechos por Servicios Prestados por la Secretaría General de Gobierno
+
+> <small>(REFORMADO Y REUBICADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
 
 ###### ARTICULO 266.
 
@@ -2077,9 +2629,9 @@ Lo (sic) derechos, establecidos por este Artículo, se cubrirán por semestres a
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 30 DE DICIEMBRE DE 1985)</small>
 
-### CAPITULO DECIMO QUINTO. Impuesto sobre Ganado y Aves que se sacrifiquen
+### CAPITULO CUARTO. De los Derechos por Servicios Prestados por la Secretaría de Educación
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1979)</small>
+> <small>(ADICIONADO Y REUBICADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 269.
 
@@ -2185,9 +2737,11 @@ c) Si no se consigna valor alguno o éste es indeterminado, se pagará por hoja 
 
 d) En ningún caso la cantidad a pagar será menor a ….. 3 cuotas
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-Ni mayor a ….. 220 cuotas
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
+ni mayor a....................................................................360 cuotas
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
@@ -2503,7 +3057,9 @@ IV.- Por la expedición de informes sobre la existencia o inexistencia de testam
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
-### CAPITULO DECIMO SEXTO. Impuesto Sobre Traslado de Dominio
+### CAPITULO QUINTO. De los Derechos por Servicios Prestados por la Secretaría de Finanzas y Tesorería General
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1987)</small>
 
 ###### ARTICULO 275 Bis.
 
@@ -2647,7 +3203,11 @@ Los derechos de refrendo anual a que se refiere este artículo deberán cubrirse
 
 (REUBICADO [N. DE E. ANTES CAPITULO CUARTO] Y REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 1993)
 
-### CAPITULO PRIMERO. Disposiciones Generales
+### CAPITULO SEXTO. De los Derechos Prestados por la Secretaría de Desarrollo Sustentable
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 276.
 
@@ -2685,105 +3245,151 @@ f) Hoteles de paso N$8,500.00
 
 Tratándose de establecimientos ubicados en los demás municipios, cubrirán el 50% de las cuotas establecidas.
 
-II.- (DEROGADA, P.O. 30 DE DICIEMBRE DE 1998)
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2001)</small>
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
-III.- Por la expedición de avalúos informativos 2.5 cuotas.
+II.- Por copia de documentos existentes en el expediente catastral:
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2001)</small>
+a) Copia simple, por hoja 0.018 cuotas
 
-IV.- Por expedición de certificado de no inscripción catastral 0.50 cuotas
+b) Copias certificadas por cada documento, sin perjuicio de lo dispuesto en el inciso anterior 1 cuota
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-V.- Por expedición de constancias catastrales sin certificar, cada una 1 cuota
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+III.- Por la expedición de avalúos catastrales:
 
-VI.- Por expedición de constancias catastrales certificadas, cada una 2 cuotas
+a) Informativo de valor catastral 2.5 cuotas
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
+b) Avalúo catastral simple 2 cuotas
 
-VII.- Por la inscripción de subdivisiones, parcelaciones, relotificaciones, fraccionamientos, condominios, departamentos o disolución de copropiedades, por cada lote resultante 1 cuota
+c) Avalúo catastral certificado 3 cuotas
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-VIII.- Por información y ubicación de predios 1 cuota
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+IV.- Certificaciones de inscripción catastral:
 
-Por baja de construcción por demolición u otras causas 1 cuota
+a) Por expedición de certificado de no inscripción catastral 0.50 cuotas
 
-IX.- (DEROGADA, P.O. 26 DE DICIEMBRE DE 2001)
+b) Por expedición de certificado de inscripción catastral, por predio 1 cuota
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-En ningún caso la cantidad a pagar será inferior a 2.5 cuotas
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+V.- Por certificación de información catastral, actual o histórica,
 
-Ni mayor de 17.5 cuotas
+por lote o inmueble 4 cuotas
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-X.- Por duplicado de tarjetones de Impuesto Predial 1 cuota
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
+VI.- Por rectificación de medidas, por lote 6 cuotas
 
-XI.- Por expedición de planos:
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
-a) Manzaneros o de región 2 cuotas
+VII.- Por la inscripción de subdivisiones, parcelaciones, relotificaciones, fraccionamientos, condominios, departamentos, disolución de copropiedades y predios omisos, por cada lote resultante 1 cuota
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+Por asignación de número de expediente catastral a
 
-b) Manzaneros o de región, certificados 3 cuotas
+planos de fraccionamientos 2.5 cuotas
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-c) Lote 1 cuota
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+VIII.- Por información y ubicación de predios, por cada uno:
 
-d) Lote certificado 2 cuotas
+a) Urbanos 1 cuota
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+b) Rústicos 2 cuotas
 
-e) De construcción 2 cuotas
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
-f) De construcción, certificados 3 cuotas
+IX.- Por baja de construcción por demolición u otras causas 2.5 cuotas
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-XII.- Por asignación de número de expediente catastral a planos de fraccionamientos 2.5 cuotas
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2005)</small>
+X.- Resello de planos de construcción 2.5 cuotas
 
-XIII.- Por servicios de control vehicular, que se prestan al inscribir y refrendar anualmente el registro de un vehículo tratándose de:
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-a) Vehículos de motor, excepto motocicletas 18 cuotas
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
-b) Remolques 7 cuotas
+XI.- Por expedición de copias de planos de terreno y construcciones existentes en el archivo documental:
 
-c) Motocicletas con motor mayor de 75 centímetros cúbicos 1.5 cuotas
+a) Copia simple de planos manzaneros, fraccionamientos, condominios, subdivisiones, construcciones y otros, según las siguientes medidas:
+
+1. Carta u oficio 1 cuota
+
+2. Mayor a oficio y hasta doble carta 2 cuotas
+
+3. Mayor a doble carta y hasta 61 cm x 91 cm 3 cuotas
+
+4. Mayor a 61 cm x 91 cm 4 cuotas
+
+b) Copia certificadas de planos manzaneros, región catastral, fraccionamientos, condominios, subdivisiones:
+
+1. Carta u oficio 2 cuotas
+
+2. Mayor a oficio y hasta doble carta 3 cuotas
+
+3. Mayor a doble carta y hasta 61 cm x 91 cm 4 cuotas
+
+4. Mayor a 61 cm x 91 cm 5 cuotas
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
+XII.- Impresión de plano de terreno de cartografía digital:
+
+a) Plano simple de lote de terreno, indicando medidas y ubicación, según las siguientes medidas:
+
+1. Doble carta 3 cuotas
+
+2. Mayor a doble carta 4 cuotas
+
+b) Plano certificado de lote de terreno, indicando medidas, y ubicación, según las siguientes medidas:
+
+1. Doble carta 4 cuotas
+
+2. Mayor a doble carta 5 cuotas
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
+XIII.- Por servicios de control vehicular, que se prestan:
+
+a) Por ingreso o refrendo anual en el padrón de vehículos de
+
+motor y remolques 22 cuotas
+
+b) Por expedición o reposición de constancia de registro vehícular 5 cuotas
 
 > <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
 XIV.- Por autorización y refrendo anual de placas de demostración 30 cuotas
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2005)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-XV.- Por expedición, reposición o canje de placas tratándose de:
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
-a) Vehículos de motor, excepto motocicletas 5 cuotas
+XV.- Por expedición, reposición o canje de placas de vehículos de
 
-b) Remolques 2.5 cuotas
-
-c) Motocicletas con motor mayor de 75 centímetros cúbicos 1 cuota
+motor y remolques 5 cuotas
 
 > <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
@@ -2821,25 +3427,127 @@ Los derechos a que se refieren las fracciones XIII a XXI de este artículo, pasa
 
 > <small>(DEROGADO SEXTO PARRAFO, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
-(REUBICADO [N. DE E. ANTES CAPITULO QUINTO], P.O. 31 DE DICIEMBRE DE 1993)
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-### CAPITULO SEGUNDO. De los Derechos por Servicios Prestados por la Secretaría de Desarrollo Humano y del Trabajo
+> <small>(REFORMADA SU DENOMINACION, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
+### CAPITULO SEPTIMO. De los Derechos por Servicios Prestados por Diversas Dependencias y Entidades de los Poderes Legislativo, Ejecutivo y Judicial
 
 ###### ARTICULO 276 Bis.
 
-(DEROGADO, P.O. 26 DE DICIEMBRE DE 2003)
+Por los servicios prestados por la Secretaría de Desarrollo Sustentable, se causarán los siguientes derechos:
+
+Concepto TARIFA
+
+I. En el rubro de prestadores de servicios ambientales:
+
+a) Constancia de ingreso a la base de datos
+
+de prestadores de servicio en materia ambiental
+
+y su renovación anual 68.5 cuotas
+
+II. En el rubro de impacto ambiental:
+
+a) Evaluación de informe preventivo 187.5 cuotas
+
+b) Evaluación de manifestaciones de impacto
+
+ambiental, en la modalidad general e industrial 375 cuotas
+
+c) Evaluación de estudio de riesgo 375 cuotas
+
+III. En el rubro de residuos:
+
+a) Constancia de ingreso a la base de datos
+
+de generadores de residuos de manejo especial 34 cuotas
+
+b) Evaluación de factibilidad para realizar,
+
+recolección, transporte, reciclaje, reuso y
+
+disposición final de residuos de manejo especial 34 cuotas
+
+c) Evaluación de factibilidad de operación
+
+y manejo integral de relleno sanitario 1,410 cuotas
+
+d) Evaluación de factibilidad de operación de
+
+escombreras o sitios de disposición final de residuos
+
+provenientes de la construcción y estaciones de transferencia 103 cuotas
+
+e) Evaluación de factibilidad de instalación de
+
+plantas de tratamiento térmico de residuos 103 cuotas
+
+f) Evaluación de factibilidad para la prestación
+
+del servicio de manejo integral de los residuos
+
+sólidos urbanos, en caso que se preste en más de dos
+
+municipios 34 cuotas
+
+g) Evaluación de factibilidad para empresas
+
+dedicadas a la compra y venta de materiales
+
+reciclables de residuos especiales 34 cuotas
+
+h) Evaluación de factibilidad para la operación
+
+y manejo integral de los centros de composteo 34 cuotas
+
+IV. En el rubro de aguas residuales:
+
+a) Constancia de ingreso a la base de datos de
+
+usuarios de fosas sépticas 9 cuotas
+
+b) Constancia de ingreso a la base de datos de
+
+descargas o de plantas de tratamiento de aguas residuales 46 cuotas
+
+c) Evaluación de informes de descargas
+
+de aguas residuales 11 cuotas
+
+V. En el rubro de Saneamiento Ambiental:
+
+a) Evaluación de factibilidad de actividad
+
+de quema a cielo abierto autorizada por la
+
+dependencia competente en materia ambiental o
+
+práctica de extinguidores 9 cuotas
+
+b) Evaluación para actualización de datos
+
+e información 95 cuotas
+
+c) Validación de Cédula de Operación
+
+Anual 95 cuotas
+
+d) Evaluación de la factibilidad de
+
+aprovechamiento de recursos minerales
+
+no reservados a la Federación 72 cuotas
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
-### CAPITULO TERCERO. De los Derechos por Servicios Prestados por la Secretaría General de Gobierno
+### CAPITULO UNICO
 
-> <small>(REFORMADO Y REUBICADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
 
-### CAPITULO CUARTO. De los Derechos por Servicios Prestados por la Secretaría de Educación
+### CAPITULO UNICO
 
-> <small>(ADICIONADO Y REUBICADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
 
 ###### ARTICULO 277.
 
@@ -2949,6 +3657,12 @@ h) Predios que no formen parte de un fraccionamiento autorizado por las autorida
 
 Tratándose de fraccionamientos, cuando soliciten su incorporación únicamente a las redes de agua o sólo a las redes de drenaje, pagará el 50% de los derechos establecidos.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
+Tratándose de fraccionamientos en que existan lotes de uso mixto, se pagará proporcionalmente según la superficie y el uso que les corresponda conforme los incisos a), b), c) o d) de esta fracción.
+
 > <small>N. DE E. EN RELACION CON LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCION, VER ARTICULO CUARTO TRANSITORIO DE LA LEY DE INGRESOS DEL ESTADO DE NUEVO LEON, P.O. 13 DE ENERO DE 2007.</small>
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
@@ -3031,9 +3745,7 @@ En caso de reproducción en fotografías, cintas de video, dispositivos de archi
 
 En todos los casos, con excepción del Poder Judicial del Estado y de las solicitudes tramitadas en los términos que establece la Ley de Transparencia y Acceso a la Información del Estado de Nuevo León, por búsqueda y localización de documentos, archivos, y expedientes y demás información solicitada, generará 1 cuota, sin perjuicio del derecho que corresponda por las copias expedidas.
 
-### CAPITULO QUINTO. De los Derechos por Servicios Prestados por la Secretaría de Finanzas y Tesorería General
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1987)</small>
+### CAPITULO UNICO. (REUBICADO [N. DE E. ANTES ARTICULO 286], P.O. DE 26 DE DICIEMBRE DE 2001)
 
 ## TITULO CUARTO. De los Productos
 
@@ -3078,10 +3790,6 @@ VII. No especificados.
 Los productos se cobrarán de acuerdo con los contratos, o en los términos de las concesiones, de conformidad con las leyes o disposiciones aplicables.
 
 ## TITULO QUINTO. De los Aprovechamientos
-
-### CAPITULO UNICO
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
 
 ### CAPITULO SEPTIMO. De los Derechos por Servicios Prestados por Diversas Dependencias y Entidades de los Poderes Legislativo, Ejecutivo y Judicial
 
@@ -3152,8 +3860,6 @@ XV. Diversos.
 > <small>(N. DE E., CON FUNDAMENTO EN EL ARTICULO UNICO DEL DECRETO 120, PUBLICADO EN EL P.O. DE 26 DE DICIEMBRE DE 2001, EL CONTENIDO DEL TITULO OCTAVO PASA A SER EL CONTENIDO DEL PRESENTE TITULO)</small>
 
 ## TITULO SEXTO. Facultades del Ejecutivo
-
-### CAPITULO UNICO. (REUBICADO [N. DE E. ANTES ARTICULO 286], P.O. DE 26 DE DICIEMBRE DE 2001)
 
 ### CAPITULO UNICO
 
@@ -3234,6 +3940,14 @@ Tratándose del impuesto Sobre Enajenación de Automóviles, Camiones y Demás V
 ###### ARTICULO SEPTIMO.
 
 En caso de que la Secretaría de Desarrollo Urbano y Obras Públicas del Estado realice la prestación de los servicios mencionados en el artículo 276 bis de la Ley de Hacienda del Estado vigente hasta el 31 de Diciembre de 1999, los derechos se causarán y pagarán conforme al citado artículo, no obstante que sean prestados con posterioridad a esa fecha.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
+###### ARTICULO OCTAVO.
+
+Para efectos de lo dispuesto en el Artículo 132 de esta Ley, el impuesto causado en el ejercicio fiscal inmediato anterior es el calculado conforme a las disposiciones de la Ley del Impuesto Sobre Tenencia o Uso de Vehículos, aplicable en el ámbito Federal.
 
 Por lo tanto, envíese al Ejecutivo para su promulgación y publicación en el Periódico Oficial del Gobierno del Estado.
 
@@ -3626,3 +4340,7 @@ P.O. 19 DE DICIEMBRE DE 2008.
 P.O. 28 DE DICIEMBRE DE 2009.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE DICIEMBRE DE 2010.
+
+Único.- El presente Decreto entrará en vigor a partir del día 1º de enero del 2011.
