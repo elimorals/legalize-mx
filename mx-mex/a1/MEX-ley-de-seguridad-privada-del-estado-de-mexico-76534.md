@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-seguridad-privada-del-estado-de-mexico-76534"
 country: "mx"
 rank: "ley"
 publication_date: "2010-09-06"
-last_updated: "2010-09-06"
+last_updated: "2010-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76534&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE SEGURIDAD PRIVADA DEL ESTADO DE MEXICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 17 DE DICIEMBRE DE 2010.
 
 Ley publicada en la Sección Tercera a la Gaceta de Gobierno del Estado de México, el lunes 6 de septiembre de 2010.
 
@@ -191,7 +191,9 @@ Para prestar servicios de seguridad privada en el Estado de México, se requiere
 
 Los Prestadores del Servicio deberán cumplir con los siguientes requisitos conforme a la modalidad que realicen, así como los que establezca el reglamento de la presente Ley:
 
-I. Ser persona física de nacionalidad mexicana o jurídica colectiva constituida conforme con las leyes del País y con cláusula de exclusión a extranjeros;
+> <small>(REFORMADA, G.G. 17 DE DICIEMBRE DE 2010)</small>
+
+I. Ser persona física de nacionalidad mexicana o jurídica colectiva constituida conforme a las leyes del país;
 
 II. Exhibir original del comprobante de pago de derechos por el estudio y trámite de la solicitud de autorización; y
 
@@ -906,3 +908,13 @@ EL SECRETARIO GENERAL DE GOBIERNO
 LIC. LUIS ENRIQUE MIRANDA NAVA
 
 (RUBRICA).
+
+G.G. 17 DE DICIEMBRE DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
