@@ -4,7 +4,7 @@ identifier: "COA-reglamento-interior-de-la-auditoria-superior-del-estado-de-6149
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-04-11"
-last_updated: "2008-04-11"
+last_updated: "2010-12-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61493&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "COA"
 
 REGLAMENTO INTERIOR DE LA AUDITORIA SUPERIOR DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE DICIEMBRE DE 2010.
 
 Reglamento publicado en el Periódico Oficial del Estado de Coahuila, el viernes 11 de abril de 2008.
 
@@ -82,23 +82,39 @@ Dirección de Auditoría a Poderes y Organismos, y
 
 Dirección de Auditoría a Programas de Inversión.
 
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
 III. Auditor Especial de Desempeño;
 
 Dirección de Auditoría de Desempeño; y
 
-Dirección de Administración.
+Dirección de Contabilidad Gubernamental.
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
 IV. Auditor Especial de Planeación e Información;
 
-Dirección de Planeación, Normatividad y Análisis Económico, y
+Dirección de Planeación, Normatividad y Análisis Económico;
 
-Dirección de Informes y Control de Resultados de Auditoría.
+Dirección de Informes y Control de Resultados de Auditoría; y
 
-V. Titular del Órgano Interno de Control;
+Dirección de Administración.
+
+V. (DEROGADA, P.O. 17 DE DICIEMBRE DE 2010)
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
 VI. Titular de la Unidad de Asuntos Jurídicos;
 
+Dirección de Asuntos Jurídicos.
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
 VII. Titular de la Unidad de Tecnología de la Información;
+
+Dirección de Análisis e Implementación; y
+
+Dirección de Diseño y Soporte.
 
 VIII. Subdirectores;
 
@@ -328,11 +344,57 @@ V. Ordenar revisiones para la evaluación de los sistemas administrativos establ
 
 VI. Verificar que las operaciones que realicen las entidades sean acordes con las leyes de ingresos, presupuesto de ingresos, presupuesto de egresos y demás ordenamientos aplicables, según corresponda;
 
-VII. Determinar, en su caso, la existencia de daños y perjuicios que afecten a la hacienda pública o al patrimonio de las entidades;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
+VII. Determinar en cantidad líquida, en su caso, la existencia de daños y perjuicios que afecten a la hacienda pública o al patrimonio de las entidades;
 
 VIII. Verificar que los recursos provenientes de financiamientos se obtuvieron y ejercieron en los términos autorizados; y
 
-IX. Hacer del conocimiento del Auditor Superior las irregularidades que se adviertan de la revisión y fiscalización de los Informes de avance de gestión financiera y de las Cuentas Públicas, que hagan presumir la existencia de hechos o conductas que produzcan daños o perjuicios a la hacienda pública o al patrimonio de las entidades, para los efectos del Capítulo Quinto de la Ley.
+IX. Hacer del conocimiento del Auditor Superior las irregularidades que se adviertan de la revisión y fiscalización de los Informes de avance de gestión financiera y de las Cuentas Públicas, que hagan presumir la existencia de hechos o conductas que produzcan daños o perjuicios a la hacienda pública o al patrimonio de las entidades, para los efectos del Capítulo Quinto de la Ley;
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
+X. Organizar, coordinar, practicar y supervisar las revisiones por situaciones excepcionales, de conformidad con el Capítulo Cuarto de la Ley;
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
+XI. Aprobar los proyectos de pliegos de observaciones, de las revisiones relativas al Capítulo Cuarto de la Ley y determinar en cantidad líquida los daños y perjuicios que afecten a la hacienda pública o patrimonio de las entidades;
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
+XII. Hacer del conocimiento del Auditor Superior las irregularidades que se adviertan de la revisión y fiscalización de los informes de avance de gestión financiera y de las cuentas públicas, así como de la revisión de las situaciones excepcionales, previstas en el Capítulo Cuarto de la Ley;
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
+XIII. Formular los proyectos de pliegos de observaciones que se deriven de las revisiones de situaciones excepcionales;
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
+XIV. Celebrar convenios de colaboración con la Auditoría Superior de la Federación con el objeto de revisar la correcta aplicación de recursos federales asignados a las entidades;
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
+XV. Practicar las revisiones tendientes a verificar el cumplimiento de la aplicación de los recursos federales, que por razón de los convenios celebrados con la Auditoría Superior de la Federación le sean encomendados a la Auditoría Superior;
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
+XVI. Requerir a las entidades, a los servidores públicos, a las personas físicas y morales, públicas o privadas y, en su caso, a terceros que hubieren contratado bienes o servicios bajo cualquier título con las entidades fiscalizadas, la información y documentación relacionada con la justificación y comprobación de la aplicación y ejercicio de los recursos públicos federales que les hubieran sido asignados;
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
+XVII. Verificar el cumplimiento de las disposiciones contenidas en los convenios celebrados mediante los cuales sean asignados recursos públicos de naturaleza federal a las entidades fiscalizadas;
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
+XVIII. Determinar la existencia de los daños y perjuicios a la hacienda pública o al patrimonio de las entidades, derivadas de las auditorías de recursos federales practicadas, así como su debida cuantificación;
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
+XIX. Someter a la aprobación del Auditor Superior los resultados de las auditorías encomendadas por la Auditoría Superior de la Federación; y
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
+XX. Presentar ante las instancias correspondientes la información referente a la utilización de los recursos federales asignados a la Auditoría Superior, para el ejercicio de las atribuciones que mediante convenios de colaboración le sean atribuidas.
 
 ###### Artículo 12.
 
@@ -344,7 +406,9 @@ La Dirección de Auditoría a Municipios estará adscrita al Auditor Especial de
 
 I. Organizar y practicar, en base al Programa anual de auditorías, visitas e inspecciones, la fiscalización superior de las cuentas públicas, los Informes de avance de gestión financiera de los municipios, así como la revisión de los ingresos y de los egresos supervisando que estén debidamente comprobados y justificados, de acuerdo a la normatividad aplicable;
 
-II. Informar a su superior jerárquico de las auditorías, visitas e inspecciones que se practiquen en la Dirección a su cargo;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
+II. Informar a su superior jerárquico de las auditorías, visitas e inspecciones que se practiquen en la Dirección a su cargo, así como del resultado obtenido, ya sea que deriven de la revisión y fiscalización de las cuentas públicas presentadas por las entidades, de auditorías al ejercicio de recursos públicos federales que por razón de los convenios celebrados le sean encomendadas a la Auditoría o de las revisiones por situaciones excepcionales a que hace referencia el Capítulo Cuarto de la Ley;
 
 III. Verificar, en su caso, si los municipios elaboraron y modificaron sus presupuestos anuales y si su elaboración y modificación se ajustó a la normatividad aplicable;
 
@@ -354,13 +418,27 @@ V. Revisar los subsidios, transferencias y donativos que las entidades hayan oto
 
 VI. Evaluar el desempeño de los profesionales de auditoría independientes que dictaminan a las entidades, con base en la revisión de papeles de trabajo e informar al Auditor Especial de Cumplimiento Financiero de lo anterior.
 
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
+VII. Practicar las auditorías a las entidades fiscalizadas respecto al ejercicio de los recursos federales, que por razón de los convenios celebrados de colaboración con la Auditoría Superior de la Federación le sean encomendadas a la Auditoría Superior;
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
+VIII. Requerir a las entidades, a los servidores públicos, a las personas físicas y morales, públicas o privadas y, en su caso, a terceros que hubieren contratado bienes o servicios bajo cualquier título con las entidades fiscalizadas, la información y documentación relacionada con la justificación y comprobación de la aplicación y ejercicio de los recursos públicos federales que les hubieran sido asignados; y
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
+IX. Elaborar los informes de la utilización de los recursos federales transferidos a la Auditoría Superior para el ejercicio de las atribuciones que mediante convenios de colaboración le sean asignados.
+
 ###### Artículo 14.
 
 La Dirección de Auditoría a Poderes y Organismos estará adscrita al Auditor Especial de Cumplimiento Financiero y tendrá las siguientes atribuciones:
 
 I. Organizar y practicar, en base al Programa anual de auditorías, visitas e inspecciones, la fiscalización superior de las cuentas públicas, los Informes de avance de gestión financiera de las entidades, así como la revisión de los ingresos y de las erogaciones correspondientes, supervisando que estén debidamente comprobados y justificados, de acuerdo a la normatividad aplicable;
 
-II. Informar a su superior jerárquico de las auditorías, visitas e inspecciones que se practiquen en la Dirección a su cargo;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
+II. Informar a su superior jerárquico de las auditorías, visitas e inspecciones que se practiquen en la Dirección a su cargo, así como del resultado obtenido, ya sea que deriven de la revisión y fiscalización de las cuentas públicas presentadas por las entidades, de auditorías al ejercicio de recursos públicos federales que por razón de los convenios celebrados le sean encomendadas a la Auditoría o de las revisiones por situaciones excepcionales a que hace referencia el Capítulo Cuarto de la Ley;
 
 III. Verificar, en su caso, si los municipios elaboraron y modificaron sus presupuestos anuales y si su elaboración y modificación se ajustó a la normatividad aplicable;
 
@@ -370,17 +448,43 @@ V. Evaluar el desempeño de los despachos externos que dictaminan a las entidade
 
 VI. Evaluar el desempeño de los profesionales de auditoría independientes que dictaminan a las entidades, con base en la revisión de papeles de trabajo e informar al Auditor Especial de Cumplimiento Financiero de lo anterior.
 
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
+VII. Practicar las auditorías a las entidades fiscalizadas respecto al ejercicio de los recursos federales, que por razón de los convenios celebrados de colaboración con la Auditoría Superior de la Federación le sean encomendadas a la Auditoría Superior;
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
+VIII. Requerir a las entidades, a los servidores públicos, a las personas físicas y morales, públicas o privadas y, en su caso, a terceros que hubieren contratado bienes o servicios bajo cualquier título con las entidades fiscalizadas, la información y documentación relacionada con la justificación y comprobación de la aplicación y ejercicio de los recursos públicos federales que les hubieran sido asignados; y
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
+IX. Elaborar los informes de la utilización de los recursos federales transferidos a la Auditoría Superior para el ejercicio de las atribuciones que mediante convenios de colaboración le sean asignados.
+
 ###### Artículo 15.
 
 La Dirección de Auditoría de Programas de Inversión estará adscrita al Auditor Especial de Cumplimiento Financiero y tendrá las siguientes atribuciones:
 
 I. Organizar y practicar, en base al Programa anual de auditorías, visitas e inspecciones, la fiscalización de las cuentas públicas y los Informes de avance de gestión financiera de las entidades, en lo concerniente a la Planeación, Programación, Presupuestación y Ejecución de las Inversiones y Obras Públicas, además de verificar que estén debidamente comprobadas y justificadas, de acuerdo a la normatividad aplicable;
 
-II. Informar a su superior jerárquico de las auditorías, visitas e inspecciones que se practiquen en la Dirección a su cargo;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
+II. Informar a su superior jerárquico de las auditorías, visitas e inspecciones que se practiquen en la Dirección a su cargo, así como del resultado obtenido, ya sea que deriven de la revisión y fiscalización de las cuentas públicas presentadas por las entidades, de auditorías al ejercicio de recursos públicos federales que por razón de los convenios celebrados le sean encomendadas a la Auditoría o de las revisiones por situaciones excepcionales a que hace referencia el Capítulo Cuarto de la Ley;
 
 III. Requerir a las entidades toda la información relativa a la conclusión de las obras y programas de inversión, a fin de optimizar las auditorías, visitas e inspecciones practicadas; y
 
 IV. Requerir a las entidades la información que vincule las obras y programas concluidos con los planes aprobados y las metas y objetivos previamente establecidos.
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
+V. Practicar las auditorías a las entidades fiscalizadas respecto al ejercicio de los recursos federales, que por razón de los convenios celebrados de colaboración con la Auditoría Superior de la Federación le sean encomendadas a la Auditoría Superior;
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
+VI. Requerir a las entidades, a los servidores públicos, a las personas físicas y morales, públicas o privadas y, en su caso, a terceros que hubieren contratado bienes o servicios bajo cualquier título con las entidades fiscalizadas, la información y documentación relacionada con la justificación y comprobación de la aplicación y ejercicio de los recursos públicos federales que les hubieran sido asignados; y
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
+VII. Elaborar los informes de la utilización de los recursos federales transferidos a la Auditoría Superior para el ejercicio de las atribuciones que mediante convenios de colaboración le sean asignados.
 
 ###### Artículo 16.
 
@@ -392,11 +496,11 @@ Las Direcciones adscritas al Auditor Especial de Cumplimiento Financiero, serán
 
 Al Auditor Especial de Desempeño le corresponden las siguientes atribuciones:
 
-I. Coordinar, supervisar y controlar la formulación y ejecución del Presupuesto anual de la Auditoría Superior y presentarlo a consideración del Auditor Superior;
+l. (DEROGADA, P.O. 17 DE DICIEMBRE DE 2010)
 
 II. Coordinar y supervisar las auditorías, visitas e inspecciones de desempeño aprobadas en el Programa anual de auditorías, visitas e inspecciones para revisar el cumplimiento final de los objetivos y metas fijados en los programas y proyectos aprobados en el presupuesto de las entidades a fiscalizar;
 
-III. Coordinar y supervisar, las revisiones por situaciones excepcionales, de conformidad con el Capítulo Cuarto de la Ley;
+III. (DEROGADA, P.O. 17 DE DICIEMBRE DE 2010)
 
 IV. Requerir a las entidades, a los servidores públicos, a las personas físicas y morales, públicas o privadas, que hayan ejercido recursos públicos y, en su caso, a terceros que hubieren contratado bienes o servicios bajo cualquier título con las entidades, la información y documentación relacionada con la justificación y comprobación de los Informes de avance de gestión financiera y de la cuenta pública, a fin de facilitar la práctica de auditorías, visitas e inspecciones;
 
@@ -404,25 +508,111 @@ V. Verificar que los programas, proyectos, políticas y acciones gubernamentales
 
 VI. Verificar que en las auditorías, visitas e inspecciones se revise el cumplimiento de los objetivos y metas establecidos para cada uno de los planes, programas o proyectos, conforme a los indicadores estratégicos aprobados en el presupuesto, a efecto de verificar el desempeño y la legalidad en el uso de los recursos públicos;
 
-VII. Aprobar los proyectos de pliegos de observaciones, de las revisiones relativas al Capítulo Cuarto de la Ley y determinar los daños y perjuicios que afecten a la hacienda pública o patrimonio público de las entidades;
+VII. (DEROGADA, P.O. 17 DE DICIEMBRE DE 2010)
 
-VIII. Hacer del conocimiento del Auditor Superior las irregularidades que se adviertan de la revisión y fiscalización de los informes de avance de gestión financiera y de las cuentas públicas, así como de la revisión de las situaciones excepcionales, previstas en el Capítulo Cuarto de la Ley;
+VIII. (DEROGADA, P.O. 17 DE DICIEMBRE DE 2010)
 
-IX. Administrar los recursos humanos y materiales de la Auditoría Superior de acuerdo con las disposiciones legales, administrativas y reglamentarias que al efecto se expidan;
+IX. (DEROGADA, P.O. 17 DE DICIEMBRE DE 2010)
 
-X. Autorizar, de acuerdo con la normatividad aplicable, las adquisiciones de bienes y servicios relacionados con bienes muebles e inmuebles, la contratación de obras, arrendamientos, capacitación, mantenimiento, seguros y demás servicios que soliciten las áreas de la Auditoría Superior;
+X. (DEROGADA, P.O. 17 DE DICIEMBRE DE 2010)
 
-XI. Autorizar los trámites de movimientos laborales, terminación o suspensión, en su caso, de la relación laboral, de acuerdo a las disposiciones aplicables;
+XI. (DEROGADA, P.O. 17 DE DICIEMBRE DE 2010)
 
-XII. Implementar los sistemas para una adecuada administración de los recursos de la Auditoría Superior;
+XII. (DEROGADA, P.O. 17 DE DICIEMBRE DE 2010)
 
-XIII. Ser responsable del diseño y proponer al Auditor Superior los programas y cursos de formación y capacitación para elevar el nivel técnico y profesional del personal adscrito a la Auditoría Superior; y
+XIII. (DEROGADA, P.O. 17 DE DICIEMBRE DE 2010)
 
-XIV. Ser responsable de los sistemas y registros contables de la Auditoría Superior y elaborar los informes de avance de gestión financiera y cuenta pública correspondientes, sometiéndolos a la aprobación del Auditor Superior.
+XIV. (DEROGADA, P.O. 17 DE DICIEMBRE DE 2010)
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
+XV. Emitir y dar a conocer los indicadores de desempeño, a los cuales deberán de sujetarse las entidades fiscalizadas en el ejercicio de los recursos públicos que les sean asignados;
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
+XVI. Emitir y dar seguimiento a las recomendaciones realizadas a las entidades fiscalizadas, derivadas de los resultados finales de las auditorías de desempeño practicadas;
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
+XVII. Incluir en el informe del resultado de la revisión de la cuenta pública presentado al Congreso del Estado, los datos obtenidos de las auditorías de desempeño practicadas;
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
+XVIII. Hacer del conocimiento de la Auditoría Especial de Cumplimiento Financiero los hechos o actos que con motivo del ejercicio de las auditorías de desempeño se detecten y que presuntamente pudieran originar un detrimento en el patrimonio de la entidad o de la hacienda pública de los ayuntamientos;
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
+XIX. Encomendar al personal adscrito a su área, la práctica de visitas e inspecciones;
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
+XX. Proponer las adecuaciones necesarias al Sistema Integral de Información Financiera (SIIF) utilizado por las entidades fiscalizadas, con el fin de dar cumplimiento a las disposiciones y lineamientos establecidos en materia de Contabilidad Gubernamental;
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
+XXI. Establecer los criterios que servirán de base para la revisión del cumplimiento de las disposiciones y lineamientos en materia de Contabilidad Gubernamental por parte de las entidades fiscalizadas, al presentar el informe de avance de gestión financiera y la cuenta pública;
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
+XXII. Representar a la Auditoría Superior ante las instancias que sean creadas a nivel estatal para el efecto de establecer las directrices y lineamientos a los cuales deberán de sujetarse las entidades fiscalizadas que ejerzan recursos públicos federales o estatales, en materia de Contabilidad Gubernamental;
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
+XXIII. Someter a la aprobación del Auditor Superior los lineamientos para efectos de fiscalización y auditoría;
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
+XIV (SIC). Instruir los procedimientos de responsabilidad administrativa de los servidores públicos adscritos a la Auditoría Superior, de conformidad con la normatividad aplicable y por acuerdo del Auditor Superior;
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
+XXV. Dictar las disposiciones normativas de control interno de la Auditoría Superior;
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
+XXVI. Vigilar el estricto cumplimiento de la normatividad interna de la Auditoría Superior;
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
+XXVII. Apoyar al Auditor Superior en el control de la gestión interna de la Auditoría Superior;
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
+XXVIII. Sustanciar los procedimientos administrativos en contra de los funcionarios o empleados de la Auditoría Superior, por actos u omisiones en el desempeño de sus atribuciones;
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
+XXIX. Rendir informes en relación con las quejas presentadas por los ciudadanos ante la Auditoría Superior, sea en forma escrita o por medio del sitio electrónico oficial;
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
+XXX. Dar cuenta al Auditor Superior del trámite y estado en que se encuentren los estudios, investigaciones especiales y asuntos que le sean encomendados;
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
+XXXI. Aportar la información necesaria del área a su cargo para la elaboración del presupuesto anual de la Auditoría Superior;
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
+XXXII. Coordinarse con los Auditores Especiales y los Titulares de Unidad para el mejor desempeño de sus atribuciones;
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
+XXXIII. Participar con los Auditores Especiales en la elaboración del proyecto del Informe anual de actividades de la Auditoría Superior;
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
+XXXIV. Someter a la aprobación del Auditor Superior los programas de actividades de las direcciones a su cargo, así como las modificaciones que resulten necesarias para su óptimo cumplimiento; y
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
+XXXV. Someter a la aprobación del Auditor Superior la contratación de los servicios de profesionistas independientes, para el mejor ejercicio de las atribuciones conferidas.
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 18.
 
-El Auditor Especial de Desempeño, tendrá a su cargo la Dirección de Auditoría de Desempeño y la Dirección de Administración, las cuales tendrán las atribuciones que les determine el presente Reglamento Interior y demás disposiciones aplicables.
+El Auditor Especial de Desempeño tendrá a su cargo la Dirección de Auditoría de Desempeño y la Dirección de Contabilidad Gubernamental, las cuales tendrán las atribuciones que les determine el presente Reglamento Interior y demás disposiciones aplicables.
 
 ###### Artículo 19.
 
@@ -430,39 +620,61 @@ La Dirección de Auditoría de Desempeño estará adscrita a la Auditoría Espec
 
 I. Revisar en las auditorías, visitas e inspecciones de desempeño, el cumplimiento de los objetivos y metas fijadas en cada uno de los programas, conforme a los indicadores estratégicos aprobados en el presupuesto, a efecto de verificar el desempeño de los mismos y la legalidad en el uso de los recursos públicos;
 
-II. Organizar y practicar las revisiones por situaciones excepcionales, de conformidad con el Capítulo Cuarto de la Ley;
+II. (DEROGADA, P.O. 17 DE DICIEMBRE DE 2010)
 
 III. Requerir a las entidades, a los servidores públicos, a las personas físicas y morales, públicas o privadas, que hayan ejercido recursos públicos y, en su caso, a terceros que hubieren contratado bienes o servicios, bajo cualquier título, con las entidades, la información y documentación relacionada con la justificación y comprobación de los informes de avance de gestión financiera y de la cuenta pública, a fin de facilitar la práctica de auditorías, visitas e inspecciones;
 
-IV. Formular los proyectos de pliegos de observaciones, que se deriven de las revisiones de situaciones excepcionales;
+IV. (DEROGADA, P.O. 17 DE DICIEMBRE DE 2010)
 
-V. Hacer del conocimiento del Auditor Especial de Desempeño las irregularidades que se adviertan de la revisión y fiscalización de los informes de avance de gestión financiera y de las cuentas públicas, así como de la revisión de situaciones excepcionales, previstas en el Capítulo Cuarto de la Ley;
+V. (DEROGADA, P.O. 17 DE DICIEMBRE DE 2010)
 
 VI. Comprobar, que mediante la fiscalización de los informes de avance de gestión financiera y de la cuenta pública, se haya observado el cumplimiento del objeto establecido en la fracción III del artículo 16 de la Ley, ejerciendo para ello la atribución contenida en la fracción III del artículo 17 de la Ley; y
 
 VII. Calificar si el ejercicio de los recursos de las entidades se efectuó con la eficiencia, eficacia y economía necesarias en base a los indicadores estratégicos que al efecto se expidan.
 
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
+VIII. Elaborar los proyectos finales de las auditorías de desempeño practicadas a las entidades fiscalizadas y someterlos para su aprobación al Auditor Especial de Desempeño;
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
+IX. Incorporar al informe del resultado presentado por la Auditoría Superior ante el Congreso del Estado, los resultados de las auditorías practicadas;
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
+X. Asesorar a las entidades fiscalizadas en el establecimiento de indicadores con el propósito de verificar el cabal cumplimiento de sus programas;
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
+XI. Establecer programas de capacitación a las entidades fiscalizadas, respecto a los beneficios en el cumplimiento de los indicadores estratégicos; y
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
+XII. Las demás que le sean encomendadas por el Auditor Especial de Desempeño; (sic)
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
+Artículo 19 BIS. La Dirección de Auditoría de Contabilidad Gubernamental estará adscrita a la Auditoría Especial de Desempeño y tendrá las siguientes atribuciones:
+
+I. Participar de manera activa en la elaboración de los lineamientos y manuales en materia de Contabilidad Gubernamental que deberán de emitirse en el Estado de Coahuila;
+
+II. Elaborar programas de capacitación al personal de la Auditoría Superior en materia de Contabilidad Gubernamental, con la finalidad de que en la revisión del informe de avance de gestión financiera y de la cuenta pública, se verifique el cumplimiento de las disposiciones de la materia;
+
+III. Asesorar a las entidades fiscalizadas en el cumplimiento oportuno de la normatividad emitida en materia de Contabilidad Gubernamental en las operaciones presupuestales, contables y financieras efectuadas por ellas;
+
+IV. Realizar estudios en materia de Contabilidad Gubernamental que permitan su adecuación y óptimo cumplimiento;
+
+V. Actualizar y codificar la normatividad emitida en materia de Contabilidad Gubernamental y hacerla del conocimiento de las entidades obligadas a su cumplimiento;
+
+VI. Elaborar los lineamientos para efectos de fiscalización y auditorías en materia de Contabilidad Gubernamental;
+
+VII. Sustanciar los procedimientos administrativos en contra de los funcionarios o empleados de la Auditoría Superior, por actos u omisiones en el desempeño de sus atribuciones; y
+
+VIII. Las demás que le sean encomendadas por el Auditor Especial de Desempeño.
+
 ###### Artículo 20.
 
-La Dirección de Administración estará adscrita a la Auditoría Especial de Desempeño y tendrá las siguientes atribuciones:
-
-I. Administrar los recursos humanos y materiales de la Auditoría Superior de acuerdo con la normatividad aplicable;
-
-II. Elaborar, a solicitud del Auditor Especial de Desempeño, los trámites de movimientos laborales, de acuerdo a las disposiciones aplicables;
-
-III. Elaborar el Presupuesto anual y someterlo a la consideración del Auditor Especial de Desempeño y vigilar su cumplimiento y apego a lo autorizado;
-
-IV. Supervisar el control del gasto y el correcto registro contable de las operaciones de la Auditoría Superior, de conformidad con las disposiciones normativas aplicables;
-
-V. Programar la adquisición de bienes y contratación de servicios, obras, arrendamientos capacitación, mantenimiento y seguros que soliciten las áreas de la Auditoría Superior;
-
-VI. Implementar sistemas, procedimientos y mecanismos necesarios para una adecuada administración de los bienes y recursos de la Auditoría Superior;
-
-VII. Elaborar los estados financieros y demás informes internos y externos que se requieran, de la Auditoría Superior, de acuerdo con las disposiciones legales aplicables;
-
-VIII. Resguardar el archivo general de la Auditoría Superior; y
-
-IX. Definir los sistemas y registros contables de la Auditoría Superior y elaborar los informes de avance de gestión financiera y cuenta pública correspondientes, sometiéndolos a la aprobación del Auditor Especial de Desempeño.
+(DEROGADO, P.O. 17 DE DICIEMBRE DE 2010)
 
 ###### Artículo 21.
 
@@ -504,9 +716,55 @@ XIV. Verificar que las entidades presenten en forma oportuna y completa la cuent
 
 XV. Coordinar y someter a consideración del Auditor Superior, la elaboración del Informe anual de actividades de la Auditoría Superior.
 
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
+XVI. Coordinar, supervisar y controlar la formulación y ejecución del Presupuesto anual de la Auditoría Superior y presentarlo a consideración del Auditor Superior;
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
+XVII. Administrar los recursos humanos y materiales de la Auditoría Superior de acuerdo con las disposiciones legales, administrativas y reglamentarías que al efecto se expidan;
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
+XVIII. Autorizar, de acuerdo con la normatividad aplicable, las adquisiciones de bienes y servicios relacionados con bienes muebles e inmuebles, la contratación de obras, arrendamientos, capacitación, mantenimiento, seguros y demás servicios que soliciten las áreas de la Auditoría Superior;
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
+XIX. Autorizar los trámites de movimientos laborales, terminación o suspensión, en su caso, de la relación laboral, de acuerdo a las disposiciones aplicables;
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
+XX. Implementar los sistemas para una adecuada administración de los recursos de la Auditoría Superior;
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
+XXI. Ser responsable del diseño y proponer al Auditor Superior los programas y cursos de formación y capacitación para elevar el nivel técnico y profesional del personal adscrito a la Auditoría Superior;
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
+XXII. Ser responsable de los sistemas y registros contables de la Auditoría Superior y elaborar el informe de avance de gestión financiera y cuenta pública correspondientes, sometiéndolos a la aprobación del Auditor Superior;
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
+XXIII. Coordinar que toda la documentación proveniente de oficialía de partes sea debidamente turnada en tiempo y forma a las áreas correspondientes;
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
+XXIV. Dar a conocer a las diversas áreas, los acuerdos emitidos por el Auditor Superior;
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
+XXV. Establecer y ejecutar un sistema de control y seguimiento de los acuerdos emitidos por el Auditor Superior; y
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
+XXVI. Realizar los estudios o investigaciones especiales que le encomiende el Auditor Superior.
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 23.
 
-El Auditor Especial de Planeación e Información, tendrá a su cargo la Dirección de Planeación, Normatividad y Análisis Económico y la Dirección de Informes y Control de Resultados de Auditoría, las cuales tendrán las atribuciones que se determinen en el presente Reglamento Interior y demás disposiciones aplicables.
+El Auditor Especial de Planeación e Información, tendrá a su cargo la Dirección de Planeación, Normatividad y Análisis Económico, la Dirección de Informes y Control de Resultados de Auditoría y la Dirección de Administración, las cuales tendrán las atribuciones que se determinen en el presente Reglamento Interior y demás disposiciones aplicables.
 
 ###### Artículo 24.
 
@@ -544,6 +802,30 @@ VI. Integrar, resguardar y custodiar los archivos documentales y magnéticos del
 
 VII. Coordinar la elaboración e integración del Informe anual de actividades de la Auditoría Superior.
 
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
+Artículo 25 BIS. La Dirección de Administración estará adscrita a la Auditoría Especial de Planeación e Información y tendrá las siguientes atribuciones:
+
+I. Administrar los recursos humanos y materiales de la Auditoría Superior de acuerdo con la normatividad aplicable;
+
+II. Elaborar, a solicitud del Auditor Especial de Planeación e Información, los trámites de movimientos laborales, de acuerdo a las disposiciones aplicables;
+
+III. Elaborar el Presupuesto anual y someterlo a la consideración del Auditor Especial de Planeación e Información y vigilar su cumplimiento y apego a lo autorizado;
+
+IV. Supervisar el control del gasto y el correcto registro contable de las operaciones de la Auditoría Superior, de conformidad con las disposiciones normativas aplicables;
+
+V. Programar la adquisición de bienes y contratación de servicios, obras, arrendamientos capacitación, mantenimiento y seguros que soliciten las áreas de la Auditoría Superior;
+
+VI. Implementar sistemas, procedimientos y mecanismos necesarios para una adecuada administración de los bienes y recursos de la Auditoría Superior;
+
+VII. Elaborar los estados financieros y demás informes internos y externos que se requieran de la Auditoría Superior, de acuerdo con las disposiciones legales aplicables;
+
+VIII. Resguardar el archivo general de la Auditoría Superior;
+
+IX. Definir los sistemas y registros contables de la Auditoría Superior y elaborar el informe de avance de gestión financiera y cuenta pública correspondientes, sometiéndolos a la aprobación del Auditor Especial de Planeación e Información;
+
+X. Recibir y dar trámite a toda la documentación proveniente de oficialía de partes y distribuirla en tiempo y forma.
+
 ###### Artículo 26.
 
 Las Direcciones adscritas al Auditor Especial de Planeación e Información, serán auxiliadas por los subdirectores, auditores, asesores, profesionales de auditoría independientes que al efecto se contraten, y demás personal técnico y de apoyo que requieran para el mejor desempeño de sus funciones y contarán con las atribuciones que les determinen los manuales de organización y procedimientos y la demás normatividad aplicable.
@@ -552,57 +834,15 @@ Las Direcciones adscritas al Auditor Especial de Planeación e Información, ser
 
 ###### Artículo 27.
 
-Al Titular del Órgano Interno de Control, le corresponden las siguientes atribuciones:
-
-I. Planear y someter a consideración del Auditor Superior, el Programa de actividades del área a su cargo;
-
-II. Aportar la información necesaria del área a su cargo para la elaboración del presupuesto anual de la Auditoría Superior;
-
-III. Por Acuerdo del Auditor Superior, instruir los procedimientos de responsabilidad administrativa de los servidores públicos adscritos a la Auditoría Superior, de conformidad con la normatividad aplicable;
-
-IV. Coordinarse con los Auditores Especiales y los Titulares de Unidad para el mejor desempeño de sus atribuciones;
-
-V. Dictar las disposiciones normativas de control interno de la Auditoría Superior;
-
-VI. Vigilar el estricto cumplimiento de la normatividad interna de la Auditoría Superior;
-
-VII. Apoyar al Auditor Superior en el control de la gestión interna de la Auditoría Superior;
-
-VIII. Participar con los Auditores Especiales, en la elaboración del proyecto del Informe anual de actividades de la Auditoría Superior;
-
-IX. Sustanciar los procedimientos administrativos en contra de los funcionarios o empleados de la Auditoría Superior, por actos u omisiones en el desempeño de sus atribuciones;
-
-X. Rendir informes en relación con las quejas presentadas por los ciudadanos ante la Auditoría Superior, sea en forma escrita o por medio del sitio electrónico oficial;
-
-XI. Dar a conocer, a las diversas áreas, los acuerdos emitidos por el Auditor Superior;
-
-XII. Establecer y ejecutar un sistema de control y seguimiento de los acuerdos emitidos por el Auditor Superior;
-
-XIII. Realizar los estudios o investigaciones especiales que le encomiende el Auditor Superior; y
-
-XIV. Las demás que en el ámbito de su competencia le confieran las disposiciones normativas aplicables y las que le delegue el Auditor Superior.
+(DEROGADO, P.O. 17 DE DICIEMBRE DE 2010)
 
 ###### Artículo 28.
 
-Son requisitos para ser Titular del Órgano de Control Interno, los siguientes:
-
-I. Ser mexicano por nacimiento en pleno ejercicio de sus derechos políticos y civiles;
-
-II. Tener cuando menos veintiocho años cumplidos el día de la designación;
-
-III. Tener una residencia efectiva dentro del Estado de, cuando menos, tres años;
-
-IV. Poseer título y cédula profesional de Contador Público o su equivalente en el área a designarse;
-
-V. Tener una experiencia profesional de, cuando menos, cinco años;
-
-VI. No haber sido condenado mediante sentencia ejecutoriada por delito intencional que amerite pena privativa de libertad ni haber sido inhabilitado para desempeñar cualquier cargo en el servicio público; y
-
-VII. No haber sido militante de ningún partido político durante los tres años anteriores al día de su designación.
+(DEROGADO, P.O. 17 DE DICIEMBRE DE 2010)
 
 ###### Artículo 29.
 
-El Titular del Órgano Interno de Control, será auxiliado por el personal técnico y de apoyo y de profesionales de auditoría independientes que al efecto se contrate para el mejor desempeño de sus funciones y contarán con las atribuciones que les determinen los manuales de organización y procedimientos y la demás normatividad aplicable.
+(DEROGADO, P.O. 17 DE DICIEMBRE DE 2010)
 
 ### CAPÍTULO VI. DEL TITULAR DE LA UNIDAD JURÍDICA
 
@@ -676,9 +916,15 @@ XXXII. Llevar la agenda y calendarización de las obligaciones legales de la Aud
 
 XXXIII. Las demás que en el ámbito de su competencia le confieran las disposiciones normativas aplicables y las que le delegue el Auditor Superior.
 
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
+Artículo 30 BIS. Las atribuciones descritas en el artículo que antecede se entenderán de igual forma conferidas a la Dirección de Asuntos Jurídicos.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 31.
 
-Son requisitos para ser Titular de la Unidad Jurídica, los siguientes:
+Son requisitos para ser Titular de la Unidad Jurídica y Director de Asuntos Jurídicos los siguientes:
 
 I. Ser mexicano por nacimiento en pleno ejercicio de sus derechos políticos y civiles;
 
@@ -694,9 +940,11 @@ VI. No haber sido condenado mediante sentencia ejecutoriada por delito intencion
 
 VII. No haber sido militante de ningún partido político durante los tres años anteriores al día de su designación.
 
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 32.
 
-El Titular de la Unidad de Asuntos Jurídicos, será auxiliado por el personal técnico y de apoyo necesario que al efecto se contrate para el mejor desempeño de sus funciones y contarán con las atribuciones que les determinen los manuales de organización y procedimientos y la demás normatividad aplicable.
+El Titular de la Unidad de Asuntos Jurídicos y el Director de Asuntos Jurídicos serán auxiliados por el personal técnico y de apoyo necesario que al efecto se contrate para el mejor desempeño de sus funciones y contarán con las atribuciones que les determinen los manuales de organización y procedimientos y la demás normatividad aplicable.
 
 ### CAPÍTULO VII. DEL TITULAR DE LA UNIDAD DE TECNOLOGÍA DE LA INFORMACIÓN
 
@@ -738,6 +986,56 @@ XVI. Supervisar el adecuado funcionamiento del equipo de cómputo de la Auditor�
 
 XVII. Las demás que en el ámbito de su competencia le confieran las disposiciones normativas aplicables y las que le delegue el Auditor Superior.
 
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
+Artículo 33 BIS. La Dirección de Análisis e Implementación estará adscrita a la Unidad de Tecnología de la Información y tendrá las siguientes atribuciones:
+
+I. Asesorar y brindar apoyo técnico y de operación en materia del Sistema Integral de Información Financiera (SIIF), tanto a la Auditoría Superior como a los municipios y entidades del Estado;
+
+II. Participar en la capacitación del personal para el manejo y operación del Sistema Integral de Información Financiera (SIlF);
+
+III. Proporcionar información requerida por las diferentes áreas de la Auditoría Superior, contenida en las bases de datos del Sistema Integral de Información Financiera (SIIF);
+
+IV. Coordinación con los municipios y entidades del Estado en las actualizaciones y mejoras al Sistema Integral de Información Financiera (SIlF);
+
+V. Dirigir los procesos de implementación en las entidades municipales y estatales;
+
+VI. Analizar la operación administrativa de las entidades prospecto a implementación, para proporcionar la aplicación acorde a sus necesidades;
+
+VII. Dar seguimiento a los requerimientos registrados a través de la página de la Auditoría Superior, en el apartado de atención a entidades; y
+
+VIII. Las demás actividades que en ámbito de su competencia le confieran las disposiciones normativas aplicables y las delegadas por el Titular de la Unidad de Tecnología de la Información.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
+Artículo 33 TER. La Dirección de Diseño y Soporte estará adscrita a la Unidad de Tecnología de la Información y tendrá las siguientes atribuciones:
+
+I. Asesorar y brindar soporte técnico al personal de la Auditoría Superior, en materia de comunicaciones, informática y sistemas internos;
+
+II. Desarrollar los sistemas y aplicaciones de informática que requieran las diversas áreas de la Auditoría Superior y, en su caso, proponer la contratación de servicios externos complementarios en la materia;
+
+III. Participar en la capacitación del personal para el manejo y operación de los programas informáticos;
+
+IV. Proponer al Titular de la Unidad de Tecnología de la Información los programas y cursos de capacitación y actualización para elevar el nivel técnico y profesional del personal adscrito a su Dirección;
+
+V. Dirigir y someter a consideración del Titular de la Unidad de Tecnología de la Información, los estudios para la optimización de la plataforma tecnológica de la Auditoría Superior, mediante la adquisición, ampliación o sustitución de los recursos informáticos;
+
+VI. Proponer la adquisición de equipos informáticos, licencias, paquetería y consumibles;
+
+VII. Proponer y diseñar los programas necesarios para realizar el mantenimiento preventivo y/o correctivo de los equipos informáticos y, en su caso, proponer la contratación de servicios externos complementarios en la materia;
+
+VIII. Desarrollar y dar mantenimiento al sitio electrónico de la Auditoría Superior, coordinando su contenido con las diversas áreas, previo acuerdo con el Titular de la Unidad de Tecnología de la Información y, en su caso, proponer la contratación de servicios externos complementarios en la materia;
+
+IX. Proponer y participar en la emisión de normas y políticas en materia de informática y comunicaciones de la Auditoría Superior, previa aprobación del Titular de la Unidad de Tecnología de la Información;
+
+X. Supervisar el adecuado funcionamiento del equipo de cómputo de la Auditoría Superior y mantener actualizado el inventario del mismo;
+
+XI. Coordinarse conjuntamente con la Dirección de Análisis e Implementación de la Unidad de Tecnologías de la Información para la instalación, configuración y buen funcionamiento del Sistema Integral de Información Financiera (SIIF) en los municipios y entidades gubernamentales en lo referente a actividades del ámbito informático;
+
+XII. Colaborar y participar en la emisión de recomendaciones referentes a las características técnicas del equipo de cómputo, así como de la infraestructura y equipo necesario para la correcta operación del Sistema Integral de Información Financiera (SIIF) en municipios y entidades gubernamentales; y
+
+XIII. Las demás que en el ámbito de su competencia le confieran las disposiciones normativas aplicables y las que le delegue el Titular de la Unidad de Tecnología de la Información.
+
 ###### Artículo 34.
 
 Son requisitos para ser Titular de la Unidad de Tecnología de la Información, los siguientes:
@@ -756,9 +1054,11 @@ VI. No haber sido condenado mediante sentencia ejecutoriada por delito intencion
 
 VII. No haber sido militante de ningún partido político durante los tres años anteriores al día de su designación.
 
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 35.
 
-El Titular de la Unidad de Tecnología de la Información, será auxiliado por el personal técnico y de apoyo necesario que al efecto se contrate para el mejor desempeño de sus funciones y contarán con las atribuciones que les determinen los manuales de organización y procedimientos y la demás normatividad aplicable.
+El Titular de la Unidad de Tecnología de la Información, el Director de Análisis e Implementación y el Director de Diseño y Soporte serán auxiliados por el personal técnico y de apoyo necesario que al efecto se contrate para el mejor desempeño de sus funciones y contarán con las atribuciones que les determinen los manuales de organización y procedimientos y la demás normatividad aplicable.
 
 ###### Artículo 36.
 
@@ -785,3 +1085,11 @@ EL AUDITOR SUPERIOR DEL ESTADO
 C.P.C. JOSÉ ARMANDO PLATA SANDOVAL
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 17 DE DICIEMBRE DE 2010.
+
+PRIMERO.- Envíese la presente reforma a la Comisión de Hacienda y Cuenta Pública del H. Congreso del Estado para los efectos a que se refiere la fracción I del Apartado B del artículo 62 de la Ley de Fiscalización Superior para el Estado de Coahuila de Zaragoza.
+
+SEGUNDO.- La presente reforma entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
