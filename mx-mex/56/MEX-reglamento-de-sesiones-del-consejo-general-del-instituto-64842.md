@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-de-sesiones-del-consejo-general-del-instituto-64842"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-11-27"
-last_updated: "2008-11-27"
+last_updated: "2010-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64842&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DE SESIONES DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 17 DE DICIEMBRE DE 2010.
 
 Reglamento publicado en la Sección Cuarta de la Gaceta del Gobierno del Estado de México, el jueves 27 de noviembre de 2008.
 
@@ -277,7 +277,7 @@ La sesión se llevará a cabo de manera ordinaria en la Sala de Sesiones del Con
 
 ###### Artículo 13.
 
-El Consejero Presidente y la Secretaría, podrán realizar reuniones previas con los Consejeros Electorales, y los representantes de los partidos o coaliciones, con la finalidad de establecer consensos en cuanto al proyecto del orden del día, analizar los documentos que se presentarán en la sesión y recibir las observaciones que los mismos consideren pertinentes.
+El Consejero Presidente y el Secretario, podrán realizar reuniones previas con los Consejeros Electorales, y los representantes de los partidos o coaliciones, con la finalidad de establecer consensos en cuanto al proyecto del orden del día, analizar los documentos que se presentarán en la sesión y recibir las observaciones que los mismos consideren pertinentes.
 
 ###### Artículo 14.
 
@@ -288,6 +288,8 @@ El Consejero Presidente podrá convocar a reuniones de trabajo a los Consejeros 
 De dichas reuniones se levantará exclusivamente una minuta por el Consejero Presidente o quien él designe, a efecto única y exclusivamente de llevar cuenta de los elementos discutidos o conocidos.
 
 #### SECCIÓN QUINTA. DE LAS REUNIONES DE TRABAJO Y PREPARATORIAS
+
+> <small>(REFORMADO, G.G. 17 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 16.
 
@@ -351,9 +353,11 @@ Se considera proyecto del orden del día, aquel que no haya sido aprobado por el
 
 ###### Artículo 23.
 
-Recibida la convocatoria a una sesión ordinaria, cualquier integrante del Consejo podrá solicitar al Secretario la inclusión de asuntos en el proyecto de orden del día de la sesión, hasta veinticuatro horas antes de la fecha señalada para su celebración, acompañando su solicitud, cuando así corresponda, con los documentos necesarios para su discusión. La Secretaria, previa consulta con el Consejero Presidente, incorporará dichos asuntos en el proyecto de orden del día, cuando el contenido, conocimiento y aprobación del mismo sea competencia del Consejo. Al efecto, la Secretaría remitirá a los integrantes del Consejo un nuevo proyecto de orden del día que contenga los asuntos que se hayan agregado y los documentos necesarios para su discusión, a más tardar al día siguiente de que se haya realizado la solicitud de inclusión. Ninguna solicitud que se reciba fuera del plazo señalado en este párrafo podrá ser incorporada al proyecto de orden del día de la sesión de que se trate.
+Recibida la convocatoria a una sesión ordinaria, cualquier integrante del Consejo podrá solicitar al Secretario la inclusión de asuntos en el proyecto de orden del día de la sesión, hasta veinticuatro horas antes de la fecha señalada para su celebración, acompañando su solicitud, cuando así corresponda, con los documentos necesarios para su discusión. El Secretario, previa consulta con el Consejero Presidente, incorporará dichos asuntos en el proyecto de orden del día, cuando el contenido, conocimiento y aprobación del mismo sea competencia del Consejo. Al efecto, el Secretario remitirá a los integrantes del Consejo un nuevo proyecto de orden del día que contenga los asuntos que se hayan agregado y los documentos necesarios para su discusión, a más tardar al día siguiente de que se haya realizado la solicitud de inclusión. Ninguna solicitud que se reciba fuera del plazo señalado en este párrafo podrá ser incorporada al proyecto de orden del día de la sesión de que se trate.
 
 #### SECCIÓN CUARTA. DE LA INCLUSIÓN DE ASUNTOS EN EL PROYECTO DE ORDEN DEL DÍA
+
+> <small>(REFORMADO, G.G. 17 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 24.
 
@@ -361,7 +365,9 @@ En las sesiones ordinarias y extraordinarias, cualquier integrante del Consejo p
 
 a) Asuntos que no requieran de examen previo de documentos; y
 
-b) Asuntos que se consideren de obvia y urgente resolución, a criterio del Consejo en votación específica, previo el conocimiento del mismo. La inclusión de dichos asuntos deberá solicitarse a más tardar al inicio de la sesión de que se trate, debiendo incluirse los mismos en el punto respectivo por la Secretaría y hacerse de conocimiento del Consejo al aprobarse el orden del día correspondiente y en su caso, con los documentos que se presenten.
+> <small>(REFORMADO, G.G. 17 DE DICIEMBRE DE 2010)</small>
+
+b) Asuntos que se consideren de obvia y urgente resolución, a criterio del Consejo en votación específica, previo el conocimiento del mismo. La inclusión de dichos asuntos deberá solicitarse a más tardar al inicio de la sesión de que se trate, debiendo incluirse los mismos en el punto respectivo por el Secretario y hacerse de conocimiento del Consejo al aprobarse el orden del día correspondiente y en su caso, con los documentos que se presenten.
 
 ### CAPÍTULO V. DEL DESARROLLO DE LA SESIÓN
 
@@ -429,23 +435,29 @@ Los integrantes del Consejo solo podrán hacer uso de la palabra con autorizaci�
 
 ###### Artículo 35.
 
-En caso de que el Consejero Presidente se ausente momentáneamente de la sala de sesiones, el Secretario Ejecutivo General del Instituto lo sustituirá en la conducción de la sesión, con el propósito de no interrumpir su desarrollo.
+En caso de que el Consejero Presidente se ausente momentáneamente de la sala de sesiones, el Secretario lo sustituirá en la conducción de la sesión, con el propósito de no interrumpir su desarrollo.
+
+> <small>(REFORMADO, G.G. 17 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 36.
 
-Cuando el Consejero Presidente se ausente en forma temporal por un plazo de entre seis y quince días, el Secretario Ejecutivo General convocará al Consejo General para nombrar de entre los Consejeros Electorales al encargado del despacho.
+Cuando el Consejero Presidente se ausente en forma temporal por un plazo de entre seis y quince días, el Secretario convocará al Consejo General para nombrar de entre los Consejeros Electorales al encargado del despacho.
 
-Una vez cumplido este término si no se presentara, se entenderá como ausencia definitiva del Consejero Presidente, por lo que el Secretario Ejecutivo General solicitará a la Legislatura el nombramiento del Consejero Presidente, en caso, de que ésta se encuentre en receso, el nombramiento lo hará la Diputación Permanente.
+Una vez cumplido este término si no se presentara, se entenderá como ausencia definitiva del Consejero Presidente, por lo que el Secretario solicitará a la Legislatura el nombramiento del Consejero Presidente, en caso, de que ésta se encuentre en receso, el nombramiento lo hará la Diputación Permanente.
 
 #### SECCIÓN OCTAVA. DE LA AUSENCIA TEMPORAL O DEFINITIVA DEL PRESIDENTE
 
+> <small>(REFORMADO, G.G. 17 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 37.
 
-En caso de ausencia del Secretario Ejecutivo General de la sesión, será sustituido por el Servidor Electoral que determine el Consejo General de entre los integrantes de la Junta General.
+En caso de ausencia del Secretario, será sustituido por el Servidor Electoral que determine el Consejo General de entre los integrantes de la Junta General.
 
 Cuando la ausencia exceda de treinta días, el Consejo General lo hará del conocimiento de la Legislatura del Estado, para los efectos legales conducentes.
 
 #### SECCIÓN NOVENA. DE LA AUSENCIA TEMPORAL DEL SECRETARIO EN LA SESIÓN
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 17 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 38.
 
@@ -608,3 +620,11 @@ Los acuerdos y resoluciones aprobados por el Consejo, deberán además publicita
 ###### Artículo 58.
 
 Dentro de los tres días hábiles siguientes a la sesión en que fueron aprobados, el Secretario deberá remitir copia de los acuerdos y resoluciones a los integrantes del Consejo y en su caso, a los órganos centrales y desconcentrados del Instituto para su debido cumplimiento en el ámbito de sus respectivas atribuciones. El Consejo podrá determinar, cuando así lo estime necesario, que la Secretaría del Consejo realice la remisión de los acuerdos y resoluciones en un plazo inferior al establecido en este artículo.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.G. 17 DE DICIEMBRE DE 2010.
+
+PRIMERO.- Las reformas aprobadas por el Punto Único, entrarán en vigor al día siguiente de la publicación del presente Acuerdo en el Periódico Oficial del Gobierno del Estado Libre y Soberano de México. "Gaceta del Gobierno"
+
+SEGUNDO.- Publíquese el presente Acuerdo y su anexo en el Periódico Oficial del Gobierno del Estado Libre y Soberano de México, "Gaceta del Gobierno", así como en la página electrónica del Instituto Electoral del Estado de México.
