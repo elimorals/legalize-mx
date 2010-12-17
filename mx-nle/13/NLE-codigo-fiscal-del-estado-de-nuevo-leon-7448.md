@@ -4,7 +4,7 @@ identifier: "NLE-codigo-fiscal-del-estado-de-nuevo-leon-7448"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-11-30"
-last_updated: "2009-12-23"
+last_updated: "2010-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7448&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO FISCAL DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE DICIEMBRE DE 2010.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 30 de noviembre de 1984.
 
@@ -59,9 +59,11 @@ III.- Las que autoricen ingresos extraordinarios.
 
 IV.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 1999)
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-V.- La Ley de Ordenamiento Territorial de los Asentamientos Humanos y de Desarrollo Urbano del Estado.
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
+V.- La Ley de Desarrollo Urbano del Estado.
 
 VI.- Las que organicen los servicios administrativos para la recaudación, distribución y control de los ingresos.
 
@@ -463,6 +465,18 @@ Los contribuyentes obligados a pagar mediante declaración podrán optar por com
 
 Si la compensación se hubiera efectuado y no procediera, se causarán recargos en los términos del Artículo 22 de este Código, sobre las cantidades compensadas indebidamente y a partir de la fecha de la compensación.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
+Las autoridades fiscales podrán compensar de oficio las cantidades que los contribuyentes tengan derecho a recibir de las autoridades fiscales por cualquier concepto, en los términos de lo dispuesto en el artículo 23 de este Código, aún en el caso de que la devolución hubiera sido o no solicitada, contra las cantidades que los contribuyentes estén obligados a pagar por adeudos propios o por retención a terceros cuando estos hayan quedado firmes por cualquier causa o cuando el derecho a la devolución provenga de sentencia ejecutoriada que no extinga el adeudo fiscal a cargo del contribuyente. La compensación también se podrá aplicar contra créditos fiscales cuyo pago se haya autorizado a plazos; en este último caso, la compensación deberá realizarse sobre el saldo insoluto al momento de efectuarse dicha compensación. Las autoridades fiscales notificarán personalmente al contribuyente la resolución que determine la compensación.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
+Cuando el Estado y los particulares reúnan la calidad de acreedores y deudores recíprocos, mediante convenio, se podrán compensar créditos fiscales con adeudos de carácter civil, mercantil o de otra naturaleza.
+
 No se podrán compensar las cantidades cuya devolución se haya solicitado o cuando haya prescrito la obligación para devolverlas.
 
 Para los efectos de este Código se entenderá como una misma contribución cuando se trata del mismo impuesto, derecho o contribución especial.
@@ -611,11 +625,25 @@ Cuando se inicie el ejercicio de facultades de comprobación, únicamente se pod
 
 Si en la declaración complementaria se determina que el pago efectuado fue menor al que correspondía, los recargos se computarán sobre la diferencia, en los términos del Artículo 22 de este Código, a partir de la fecha en que se debió hacer el pago.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2006)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 33 Bis.
 
-La Administración Pública Estatal y Paraestatal, así como la Administración Pública Municipal y Paraestatal de los Municipios, en el ámbito de su competencia, contratarán sus adquisiciones, arrendamientos, servicios u obra pública, únicamente con los proveedores que acrediten encontrarse al corriente en el cumplimiento de sus obligaciones fiscales, tanto federales, como estatales y municipales.
+La Administración Pública Estatal, Central y Paraestatal, en ningún caso contratará adquisiciones, arrendamientos, servicios u obra pública con proveedores que:
+
+I.- Tengan a su cargo créditos fiscales firmes, determinados, que no se encuentren pagados o garantizados en alguna de las formas permitidas por este Código.
+
+II.- No se encuentren inscritos en el Registro Estatal o Federal de Contribuyentes, según se trate de impuestos estatales o federales, respectivamente.
+
+III.- Habiendo vencido el plazo para presentar alguna declaración, provisional o no, y con independencia de que en la misma resulte o no cantidad a pagar, ésta no haya sido presentada.
+
+La prohibición establecida en este dispositivo no será aplicable a quienes se encuentren en el supuesto de la fracción I de este Artículo, siempre que se obtenga la autorización de las autoridades fiscales en los términos que este Código establece para cubrir los pagos a plazo, ya sea diferidos o en parcialidades.
+
+Quienes se ubiquen en los supuestos de las fracciones II y III de este Artículo contarán, previo a su contratación, con un plazo de quince días para corregir su situación fiscal, a partir del día siguiente a aquél en que surta efectos las (sic) notificación que realice la autoridad respecto de la irregularidad detectada.
+
+Para estos efectos, en los contratos de adquisiciones, arrendamientos, servicios u obra pública se establecerá cláusula de retención, respecto de las contraprestaciones a favor de los contratistas o proveedores, a efecto de garantizar el pago de las contribuciones omitidas.
 
 ## TITULO III. De las Facultades de las Autoridades Fiscales
 
@@ -1775,7 +1803,11 @@ IV.- Cuando hayan cesado los efectos del acto o resolución impugnada.
 
 El interesado podrá optar por impugnar un acto a través del recurso de revocación o promover directamente contra dicho acto, juicio ante el Tribunal de lo Contencioso Administrativo del Estado. Deberá intentar la misma vía elegida si pretende impugnar un acto administrativo que sea antecedente o consecuente de otro, a excepción de las resoluciones dictadas en cumplimiento de las emitidas en el recurso de revocación.
 
-#### SECCION TERCERA. Del Recurso de Oposición al Procedimiento Administrativo de Ejecución
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE DENOMINACION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
+#### SECCION TERCERA. Del Recurso en caso del Procedimiento Administrativo de Ejecución
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
@@ -1851,11 +1883,13 @@ Las demás pruebas quedarán a la prudente apreciación de la autoridad.
 
 Si por el enlace de las pruebas rendidas y de las presunciones formadas, la autoridad adquiere convicción distinta acerca de los hechos materia del recurso, podrá valorar las pruebas sin sujetarse a lo dispuesto en este artículo, debiendo en ese caso fundar razonadamente esta parte de su resolución.
 
-> <small>(F. DE E., P.O. 28 DE DICIEMBRE DE 1984)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 130.
 
-La autoridad deberá dictar resolución y notificarla en un término que no excederá de cuarenta y cinco días contados a partir de la fecha de interposición del recurso o de la fecha en que se haya satisfecho la prevención para que se corrija o complete el recurso intentado. El silencio de la autoridad significará que se ha confirmado el acto impugnado.
+La autoridad deberá dictar resolución y notificarla en un término que no excederá de tres meses contados a partir de la fecha de interposición del recurso o de la fecha en que se haya satisfecho la prevención para que se corrija o complete el recurso intentado. El silencio de la autoridad significará que se ha confirmado el acto impugnado.
 
 El recurrente podrá decidir esperar la resolución expresa o impugnar hasta antes de su notificación la presunta confirmación del acto impugnado.
 
@@ -2389,7 +2423,7 @@ Fincado el remate de bienes muebles se aplicará el depósito constituido. Dentr
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
 
-Tan pronto como el postor cumpla con al requisito a que se refiere el párrafo anterior, se citará al contribuyente para que, dentro de un plazo de tres días hábiles, entregue las facturas o documentación comprobatoria de la enajenación de los mismos, la cual deberá expedirla cumpliendo, en lo conducente, con los requisitos a que se refiere el artículo 30 de este Código, apercibido de que si no lo hace, la autoridad ejecutara emitirá el documento correspondiente en su rebeldía.
+Tan pronto como el postor cumpla con el requisito a que se refiere el párrafo anterior, se citará al contribuyente para que, dentro de un plazo de tres días hábiles, entregue las facturas o documentación comprobatoria de la enajenación de los mismos, la cual deberá expedirla cumpliendo, en lo conducente, con los requisitos a que se refiere el artículo 30 de este Código, apercibido de que si no lo hace, la autoridad ejecutora emitirá el documento correspondiente en su rebeldía.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
 
@@ -3014,3 +3048,7 @@ P.O. 25 DE SEPTIEMBRE DE 2009.
 P.O. 23 DE DICIEMBRE DE 2009.
 
 Único.- El presente Decreto entrará en vigor el día 1° de enero de 2010.
+
+P.O. 17 DE DICIEMBRE DE 2010.
+
+Único.- El presente Decreto entrará en vigor el 1° de Enero del año 2011.
