@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-del-ayuntamiento-de-tecate-baja-24552"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-02-01"
-last_updated: "2009-12-18"
+last_updated: "2010-12-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24552&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO INTERIOR DEL AYUNTAMIENTO DE TECATE, BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE DICIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE DICIEMBRE DE 2010.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 1 de febrero de 2001.
 
@@ -841,11 +841,15 @@ XV.- Equidad de Género.
 
 XVI.- Migración.
 
-COMISIÓN DE GOBERNACIÓN Y LEGISLACION
+> <small>(REFORMADA SU DENOMINACION, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
+COMISIÓN DE GOBERNACION, LEGISLACION Y MIGRACION
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 71.
 
-La Comisión de Gobernación y Legislación tendrá las siguientes atribuciones:
+La Comisión de Gobernación, Legislación y Migración tendrá las siguientes atribuciones:
 
 I.- Dictaminar sobre proyectos de bandos, reglamentos, iniciativas de leyes y decretos, y disposiciones normativas de observancia general, por sí misma o en conjunto con la comisión o las comisiones especializadas en la materia de que se trate;
 
@@ -853,13 +857,35 @@ II.- Proponer al Cabildo los mecanismos e instrumentos necesarios para promover 
 
 III.- Dictaminar sobre las reformas a la Constitución Política del Estado Libre y Soberano de Baja California que sean propuestas por el Congreso del Estado;
 
-IV.- Las demás que el Cabildo le encomiende.
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
-COMISIÓN DE HACIENDA
+IV. Conocer y dictaminar aquellas iniciativas en donde se encuentren involucrados los derechos de los migrantes;
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
+V. Impulsar acciones que coadyuven al bienestar y prosperidad de las familias de los migrantes;
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
+VI. Atender y dar seguimiento ante las instancias públicas federal, estatal y municipal, así como privadas y sociales, a la problemática que en materia de educación, salud, cultura y desarrollo presenten los migrados y sus familiares residentes en el territorio municipal;
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
+VII. Coadyuvar con los asuntos relacionados con los planes, programas, estrategias y políticas de apoyo a favor de los migrantes, así como el fortalecimiento de la vinculación intergubernamental para su desarrollo;
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
+VIII. En general, aquellas que el Cabildo le encomiende.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
+COMISION DE HACIENDA Y ADMINISTRACION PÚBLICA
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 72.
 
-La Comisión de Hacienda tendrá las siguientes atribuciones:
+La Comisión de Hacienda y Administración Pública tendrá las siguientes atribuciones:
 
 I.- Dictaminar sobre proyectos de iniciativa de ley de ingresos municipal;
 
@@ -871,7 +897,19 @@ IV.- Proponer al Cabildo los mecanismos e instrumentos necesarios para eficienta
 
 V.- Analizar mensualmente los informes de la Tesorería Municipal respecto del estado de origen y aplicación de recursos;
 
-VI.- Las demás que el Cabildo le encomiende.
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
+VI. Dictaminar sobre proyectos de reglamentos, iniciativas de ley, decretos y disposiciones normativas de observancia general, relacionadas con la organización y distribución de competencias de la administración pública centralizada y paramunicipal;
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
+VII. Proponer al Cabildo, los mecanismos e instrumentos necesarios para modernizar y simplificar el funcionamiento y operación de la administración municipal;
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
+VIII. Vigilar que la debida aplicación de los programas de control del patrimonio municipal en materia de bienes muebles e inmuebles;
+
+IX. Las demás que el Cabildo le encomiende.
 
 COMISIÓN DE OBRAS Y SERVICIOS PUBLICOS
 
@@ -895,43 +933,41 @@ VII.-Opinar sobre la conservación y mantenimiento de vías públicas; y
 
 VIII.- Las demás que el Cabildo le encomiende.
 
-COMISIÓN DE DESARROLLO URBANO Y CONTROL ECOLOGICO
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
+COMISIÓN DE DESARROLLO URBANO Y PLANEACION
 
 ###### ARTICULO 74.
 
-La Comisión de Desarrollo Urbano y Control Ecológico tendrá las siguientes atribuciones;
+La Comisión de Desarrollo Urbano y Planeación tendrá las siguientes atribuciones;
 
-I.- Dictaminar sobre proyectos de reglamentos, iniciativas de ley, decretos y disposiciones normativas de observancia general en materia de desarrollo urbano y control ecológico;
+l. Dictaminar sobre proyectos de reglamentos, iniciativas de ley, decretos y disposiciones normativas de observancia general en materia de planeación del desarrollo integral del Municipio y de su población;
 
-II.- Vigilar la elaboración y actualización del plan y programas de desarrollo urbano del Municipio;
+II. Vigilar el cumplimiento de la Ley de Planeación del Estado, así como las acciones de evaluación y seguimiento del Plan Municipal de Desarrollo, buscando la participación de la comunidad en la elaboración del mismo;
 
-III.- Proponer al Cabildo, los mecanismos e instrumentos necesarios para eficientar los programas de desarrollo urbano y control ecológico que implemente la administración municipal;
+III. Proponer al Cabildo, los mecanismos e instrumentos necesarios para eficientar los programas de desarrollo urbano que implemente la administración municipal;
 
-IV.- Dictaminar y opinar en asuntos sobre ingeniería de tránsito;
+IV. Dictaminar y opinar en asuntos sobre ingeniería de tránsito;
 
-V.- Dictaminar y opinar sobre el alineamiento y apertura de vías públicas;
+V. Dictaminar y opinar sobre el alineamiento y apertura de vías públicas;
 
-VI.- Las demás que el Cabildo le encomiende.
+VI. Las demás que el Cabildo le encomiende.
 
 COMISIÓN DE ADMINISTRACIÓN PUBLICA
 
 ###### ARTICULO 75.
 
-La Comisión de Administración Pública tendrá las siguientes atribuciones:
+(DEROGADO, P.O. 17 DE DICIEMBRE DE 2010)
 
-I.- Dictaminar sobre proyectos de reglamentos, iniciativas de ley, decretos y disposiciones normativas de observancia general, relacionadas con la organización y distribución de competencias de la administración pública centralizada y paramunicipal;
+> <small>(REFORMADA SU DENOMINACION, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
-II.- Proponer al Cabildo, los mecanismos e instrumentos necesarios para modernizar y simplificar el funcionamiento y operación de la administración municipal;
+COMISION DE SEGURIDAD PÚBLICA, BOMBEROS Y PROTECCION CIVIL
 
-III.- Vigilar que la debida aplicación de los programas de control del patrimonio municipal en materia de bienes muebles e inmuebles;
-
-IV.- Las demás que el Cabildo le encomiende.
-
-COMISIÓN DE SEGURIDAD PUBLICA, TRANSITO Y TRANSPORTES
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 76.
 
-La Comisión de Seguridad Pública, Tránsito y Transporte tendrá las siguientes atribuciones:
+La Comisión de Seguridad Publica, Bomberos y Protección Civil tendrá las siguientes atribuciones:
 
 I.- Dictaminar sobre proyectos de reglamentos, iniciativas de ley, decretos y disposiciones normativas de observancia general en materia de seguridad pública, prevención de la delincuencia, tránsito y transporte público, bomberos y protección civil;
 
@@ -939,65 +975,69 @@ II.- Proponer al Cabildo los mecanismos e instrumentos necesarios para eficienta
 
 III.- Conocer de la aplicación de los convenios por los que el Ayuntamiento deba participar institucionalmente con otros órdenes de gobierno en asuntos de seguridad pública, protección civil, y regulación del tránsito y transporte público;
 
-IV.- Las demás que el Cabildo le encomiende.
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
+VI (SIC). Dictaminar sobre proyectos de reglamentos, iniciativas de ley, decretos, y disposiciones normativas de observancia general en materia de protección civil y prevención de incendios;
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
+VII. Proponer al Cabildo los mecanismos e instrumentos necesarios para mejorar la atención de la administración municipal en cuanto a bomberos y protección civil;
+
+VIII. Las demás que el Cabildo le encomiende.
 
 COMISIÓN DE PLANEACIÓN Y DESARROLLO MUNICIPAL
 
 ###### ARTICULO 77.
 
-La Comisión de Planeación del Desarrollo Municipal tendrá las siguientes atribuciones:
+(DEROGADO, P.O. 17 DE DICIEMBRE DE 2010)
 
-I.- Dictaminar sobre proyectos de reglamentos, iniciativas de ley, decretos y disposiciones normativas de observancia general en materia de planeación del desarrollo integral del Municipio y de su población;
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
-II.- Proponer al Cabildo los mecanismos e instrumentos necesarios para promover el equilibrio en las políticas del desarrollo económico, comercial, industrial, turístico, cultural y social del Municipio, así como la participación de la comunidad en los asuntos de interés público;
-
-III.- Vigilar el cumplimiento de la Ley de Planeación del Estado, así como las acciones de evaluación y seguimiento del Plan Municipal de Desarrollo, buscando la participación de la comunidad en la elaboración del mismo; y
-
-IV.- Las demás que el Cabildo le encomiende.
-
-COMISIÓN DE PUBLICACIONES Y ASUNTOS FRONTERIZOS
+COMISION DE ASUNTOS FRONTERIZOS Y MEDIO AMBIENTE
 
 ###### ARTICULO 78.
 
-La Comisión de Publicaciones y Asuntos Fronterizos tendrá las siguientes atribuciones:
+La Comisión de Asuntos Fronterizos y Medio Ambiente tendrá las siguientes atribuciones:
 
-I.- Dictaminar e incentivar la difusión de los valores culturales, científicos e históricos mediante programas y publicaciones que permitan acercarlos a los habitantes del Municipio;
+I. Proponer al Cabildo políticas y medidas para obtener una mayor participación en la vigilancia y cumplimiento en los programas fronterizos;
 
-II.- Promover la difusión de las actividades del Ayuntamiento y la Administración Pública Municipal, participando en su edición;
+II. Dictaminar sobre proyectos de reglamentos, iniciativas de ley, decretos y disposiciones normativas de observancia general en materia de protección del medio ambiente;
 
-III.- Proponer al Cabildo políticas y medidas para obtener una mayor participación en la vigilancia y cumplimiento en los programas fronterizos;
+III. Proponer al Cabildo, los mecanismos e instrumentos necesarios para eficientar los programas de protección al medio ambiente que implemente la administración municipal.
 
-IV.- Las demás que el Cabildo les encomiende.
+IV. Las demás que el Cabildo les encomiende.
 
 COMISIÓN DE SALUD Y ASISTENCIA SOCIAL
 
-> <small>(REFORMADO, P.O. 30 DE ENERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 79.
 
-La comisión de Salud tendrá las siguientes atribuciones:
+La Comisión de Salud y Asistencia Social tendrá las siguientes atribuciones:
 
 I.- Dictaminar sobre proyectos de reglamentos, iniciativas de ley, decretos y disposiciones normativas de observancia general en materia de salud;
 
 II.- Proponer al Cabildo los mecanismos e instrumentos necesarios para el adecuado cumplimiento de las funciones, que como autoridad sanitaria le corresponde ejercer al Ayuntamiento, de acuerdo a los ordenamientos legales aplicables.
 
-III.- Las demás que el Ayuntamiento y este reglamento le encomienden.
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
-> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2009)</small>
+III.- Dictaminar los proyectos de reglamentos, iniciativas de leyes o decretos, y disposiciones normativas de observancia general en materia de asistencia social;
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
+IV.- Proponer al Cabildo políticas y medidas para optimizar los recursos municipales aplicables a las materias señaladas en la fracción anterior, vigilando el cumplimiento de los programas correspondientes.
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
+V.- Supervisar que se apoye oportuna y adecuadamente a personas, grupos marginados, discapacitados y damnificados, con programas y recursos destinados a la asistencia social; y
+
+VI.- Las demás que el Ayuntamiento y este reglamento le encomienden.
 
 COMISIÓN DE ASISTENCIA SOCIAL
 
 ###### ARTICULO 79
 
-BIS.- La Comisión de Asistencia Social tendrá las siguientes atribuciones:
-
-I.- Dictaminar los proyectos de reglamentos, iniciativas de leyes o decretos, y disposiciones normativas de observancia general en materia de asistencia social;
-
-II.- Proponer al Cabildo políticas y medidas para optimizar los recursos municipales aplicables a las materias señaladas en la fracción anterior, vigilando el cumplimiento de los programas correspondientes.
-
-III.- Supervisar que se apoye oportuna y adecuadamente a personas, grupos marginados, discapacitados y damnificados, con programas y recursos destinados a la asistencia social; y
-
-IV.- Las demás que el Ayuntamiento y este reglamento le encomienden.
+BIS.- (DEROGADO, P.O. 17 DE DICIEMBRE DE 2010)
 
 COMISION DE EDUCACIÓN, CULTURA Y DEPORTE
 
@@ -1013,75 +1053,75 @@ III.- Proponer al Cabildo los mecanismos e instrumentos necesarios para promover
 
 IV.- Las demás que el Cabildo le encomiende.
 
-COMISIÓN DE GESTORIA SOCIAL
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
+COMISION DE EQUIDAD Y GENERO Y GESTORIA SOCIAL
 
 ###### ARTICULO 81.
 
-La Comisión de Gestoría Social tendrá las siguientes atribuciones:
+La Comisión de Equidad y Género y Gestoría Social tendrá las siguientes atribuciones.
 
-I.- Dictaminar sobre proyectos de reglamentos, iniciativas de ley, decretos y disposiciones normativas de observancia general en materia de gestión social;
+I. Impulsar las propuestas de la sociedad para alcanzar la equidad de género en el ámbito político, social, cultural y económico para incluir este principio en la planeación de nuestra comunidad.
 
-II.- Proponer al Cabildo la adopción de programas y medidas que tiendan a incentivar la promoción del empleo y desarrollo integral de sus habitantes;
+II. Solicitar ante las autoridades de los tres niveles de gobierno acciones encaminadas al ejercicio pleno de los derechos de las mujeres y de los hombres.
 
-III.- Las demás que el Cabildo le encomiende.
+III. Vincularse con organismos no gubernamentales para establecer estrategias y programas en relación a la equidad de género y propiciar su difusión y beneficios de la comunidad.
+
+IV. Promover el reconocimiento público tanto de hombres como mujeres sobresalientes en los ámbitos, políticos, social, cultural, deportivo y demás actividades que resalten la oportunidad de equidad de género.
+
+V. Gestionar ante las diferentes dependencias gubernamentales recursos suficientes para generar y apoyar programas de Instituciones dedicadas a la promoción y fortalecimiento de la equidad de género.
+
+VI. Dictaminar sobre proyectos de reglamentos, iniciativas de ley, decretos y disposiciones normativas de observancia general en materia de gestión social;
+
+VII. Proponer al Cabildo la adopción de programas y medidas que tiendan a incentivar la promoción del empleo y desarrollo integral de sus habitantes;
+
+VIII. Las demás que el Cabildo le encomiende.
 
 COMISIÓN DE BOMBEROS Y PROTECCIÓN CIVIL
 
 ###### ARTICULO 82.
 
-La Comisión de Bomberos y Protección Civil tendrá las siguientes atribuciones:
+(DEROGADO, P.O. 17 DE DICIEMBRE DE 2010)
 
-I.- Dictaminar sobre proyectos de reglamentos, iniciativas de ley, decretos, y disposiciones normativas de observancia general en materia de protección civil y prevención de incendios;
+> <small>(ADICIONADA SU DENOMINACION, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
-II.- Proponer al Cabildo los mecanismos e instrumentos necesarios para mejorar la atención de la administración municipal en cuanto a bomberos y protección civil;
+COMISION DE DESARROLLO SOCIAL, RURAL Y COMUNIDADES INDIGENAS
 
-III.- Las demás que el Cabildo le encomiende.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
-> <small>(ADICIONADO, P.O. 2 DE MAYO DE 2008)</small>
-
-ARTICULO 82 BIS.- La Comisión de Desarrollo Rural y Comunidades Indígenas tendrá las siguientes atribuciones:
-
-I).- Dictaminar sobre los proyectos de Reglamentos, Iniciativas de Ley, Decretos y Disposiciones normativas de observancia general en materia de desarrollo Rural y Comunidades Indígenas.
-
-II).- Proponer al Cabildo la adopción de programas y medidas que tiendan a incentivar el Desarrollo Rural y Comunidades Indígenas.
-
-III).- Proponer acciones tendientes a incentivar la participación y desarrollo integral de la zona rural.
-
-IV).- Proponer al Cabildo mecanismos e instrumentos necesarios para promover el equilibrio de las políticas del desarrollo económico, comercial, turístico, cultural y social del municipio, así como la participación de la (sic) comunidades rurales e indígenas en los asuntos de interés publico.
-
-V).- Las demás que el Cabildo le encomiende.
+ARTICULO 82 BIS.- La Comisión de Desarrollo Social, Desarrollo Rural y Comunidades Indígenas tendrá las siguientes atribuciones:
 
 > <small>(ADICIONADO, P.O. 2 DE MAYO DE 2008)</small>
 
-ARTICULO 82 TER.- La Comisión de Equidad de Genero, tendrá las siguientes atribuciones:
+I.- Dictaminar sobre los proyectos de Reglamentos, Iniciativas de Ley, Decretos y Disposiciones normativas de observancia general en materia de desarrollo Rural y Comunidades Indígenas.
 
-I).- Impulsar las propuestas de la sociedad para alcanzar la equidad de genero en el ámbito político, social, cultural y económico para incluir este principio en la planeación de nuestra comunidad.
+> <small>(ADICIONADO, P.O. 2 DE MAYO DE 2008)</small>
 
-II).- Solicitar ante las autoridades de los tres niveles de gobierno acciones encaminadas al ejercicio pleno de los derechos de las mujeres y de los hombres.
+II.- Proponer al Cabildo la adopción de programas y medidas que tiendan a incentivar el Desarrollo Rural y Comunidades Indígenas.
 
-III).- Vincularse con organismos no gubernamentales para establecer estrategias y programas en relación a la equidad de genero y propiciar su difusión y beneficios de la comunidad.
+> <small>(ADICIONADO, P.O. 2 DE MAYO DE 2008)</small>
 
-IV).- Promover el reconocimiento publico tanto de hombres como mujeres sobresalientes en los ámbitos, políticos, social, cultural, deportivo y demás actividades que resalten la oportunidad de equidad de genero.
+III.- Proponer acciones tendientes a incentivar la participación y desarrollo integral de la zona rural.
 
-V).- Gestionar ante las diferentes dependencias gubernamentales recursos suficientes para generar y apoyar programas de Instituciones dedicadas a la promoción y fortalecimiento de la equidad de genero.
+> <small>(ADICIONADO, P.O. 2 DE MAYO DE 2008)</small>
 
-VI).- Las demás que el Cabildo le encomiende.
+IV.- Proponer al Cabildo mecanismos e instrumentos necesarios para promover el equilibrio de las políticas del desarrollo económico, comercial, turístico, cultural y social del municipio, así como la participación de la (sic) comunidades rurales e indígenas en los asuntos de interés publico.
 
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2009)</small>
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
-ARTICULO 82 CUATER.- La Comisión de Migración tendrá las siguientes atribuciones:
+V. Proponer al Cabildo los mecanismos e instrumentos necesarios para promover el equilibrio en las políticas del desarrollo económico, comercial, industrial, turístico, cultural y social del Municipio, así como la participación de la comunidad en los asuntos de interés público.
 
-I.- Conocer y dictaminar aquellas iniciativas en donde se encuentren involucrados los derechos de los migrantes;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
-II.- Impulsar acciones ante el Gobierno del Estado, que coadyuven al bienestar y prosperidad de las familias de los migrantes;
+VI. Las demás que el Cabildo le encomiende
 
-III.- Atender y dar seguimiento ante las instancias públicas federal, estatal y municipal, así como privadas y sociales, a la problemática que en materia de educación, salud, cultura y desarrollo presenten los migrados y sus familiares residentes en el territorio municipal;
+COMISION DE EQUIDAD DE GÉNERO
 
-IV.- Realizar foros y estudios sobre las causas de migración y proponer las medidas para la atención de estas;
+ARTICULO 82 TER.- (DEROGADO, P.O. 17 DE DICIEMBRE DE 2010)
 
-V.- Los asuntos relacionados con los planes, programas, estrategias y políticas de apoyo a favor de los migrantes, así como el fortalecimiento de la vinculación intergubernamental para su desarrollo;
+COMISION DE MIGRACION
 
-En general, aquellas que el Cabildo le encomiende.
+ARTICULO 82 CUATER.- (DEROGADO, P.O. 17 DE DICIEMBRE DE 2010)
 
 REMISION A COMISIONES
 
@@ -1248,3 +1288,9 @@ EL ACUERDO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 P.O. 18 DE DICIEMBRE DE 2009.
 
 EL ACUERDO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL VIGENTE.
+
+P.O. 17 DE DICIEMBRE DE 2010.
+
+PRIMERO.- Las presentes Reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Publíquese el presente Acuerdo en el Periódico Oficial del Estado de Baja California.
