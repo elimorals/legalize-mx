@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2010-10-15"
+last_updated: "2010-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE OCTUBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE DICIEMBRE DE 2010.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -601,7 +601,7 @@ Catálogo y clases de medidas.- Las medidas de seguridad que se pueden imponer c
 
 I.- Tratamiento en internamiento o en libertad de inimputables o de imputables disminuídos;
 
-> <small>(REFORMADA, P.O 19 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2007)</small>
 
 II.- Tratamiento para dependientes de bebidas alcohólicas, estupefacientes y psicotrópicos;
 
@@ -617,7 +617,7 @@ VII.- Las demás que prevengan las leyes.
 
 ### CAPITULO III. TRATAMIENTO PARA DEPENDIENTES A LAS BEBIDAS ALCOHÓLICAS, ESTUPEFACIENTES Y PSICOTRÓPICOS
 
-> <small>(REFORMADO, P.O 19 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2007)</small>
 
 ###### Artículo 56.
 
@@ -639,7 +639,7 @@ Modificación o conclusión de la medida.- La autoridad ejecutora podrá resolve
 
 Duración de la medida.- En ningún caso la medida de tratamiento impuesta por el juez penal excederá de la duración que corresponda al máximo de la pena aplicable al delito. Si concluido este tiempo la autoridad ejecutora considera que el sujeto continúe necesitando el tratamiento, podrá ampliarlo hasta en una mitad mas del máximo de la pena aplicable al delito.
 
-> <small>(REFORMADA SU DENOMINACION, P.O 19 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 19 DE OCTUBRE DE 2007)</small>
 
 ### CAPITULO IV. PROHIBICION DE IR A CIRCUNSCRIPCION DETERMINADA O DE RESIDIR EN ELLA
 
@@ -873,7 +873,7 @@ I.- El reo haya delinquido por primera vez;
 
 II.- Pague o garantice, a satisfacción del Juez, la multa y la reparación de los daños y perjuicios causados; y
 
-III.- La pena substitutiva sea mas adecuada que la prisión, en atención a las condiciones personales del sujeto y a los fines que con ella se persiguen.
+III.- La pena substitutiva sea más adecuada que la prisión, en atención a las condiciones personales del sujeto y a los fines que con ella se persiguen.
 
 ###### Artículo 87.
 
@@ -937,11 +937,11 @@ III.- Asegurar que desarrollará una ocupación lícita dentro del plazo que se 
 
 IV.- Abstenerse del abuso de bebidas embriagantes y del empleo de estupefacientes, psicotrópicos u otras substancias que produzcan efectos similares, salvo que lo haga por prescripción médica; y (sic)
 
-> <small>(REFORMADA, P.O 19 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2007)</small>
 
 V.- Cumplir con las modalidades que le imponga el tratamiento para dependientes de bebidas alcohólicas, estupefacientes y psicotrópicos apercibido respecto de su incumplimiento;
 
-((REFORMADA [N. DE E. ADICIONADA], P.O 19 DE OCTUBRE DE 2007)
+((REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE OCTUBRE DE 2007)
 
 VI.- Pagar o garantizar la reparación de los daños y perjuicios causados.
 
@@ -1633,7 +1633,7 @@ Tipo y punibilidad.- Se impondrán de tres meses a dos años de prisión hasta c
 
 ### CAPITULO PRIMERO. REVELACION DEL SECRETO
 
-(REFORMANDO, P.O 14 DE SEPTIEMBRE DE 2007)
+(REFORMANDO, P.O. 14 DE SEPTIEMBRE DE 2007)
 
 ### CAPITULO SEGUNDO. ACCESO ILICITO A SISTEMAS Y EQUIPOS DE INFORMATICA
 
@@ -2707,11 +2707,7 @@ Pérdidas de derechos.- El que cometa alguno de los delitos expresados en el art
 
 ### CAPITULO V. DELITOS CONTRA LA PRESTACION DE UN SERVICIO PUBLICO
 
-> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2010)</small>
-
-Artículo 250 TER.- Tipo y Punibilidad.- Se impondrá una pena de seis meses a dos años de prisión y multa de hasta cien veces el salario mínimo vigente en el Estado, a quien preste el servicio público de transporte de pasajeros en cualquiera de sus modalidades, sin que exista el correspondiente permiso o concesión vigente o bien contando con dicho documento, lo realice en un vehículo diverso al autorizado.
-
-En cuanto corresponda al operador de un vehículo irregular que demuestre ser ajeno a tal ilícito sufrirá la sanción administrativa que la Ley General de Transporte Público del Estado de Baja California y el Reglamento Municipal de la Materia.
+Artículo 250 TER.- (DEROGADO, P.O. 17 DE DICIEMBRE DE 2010)
 
 ###### Artículo 241.
 
@@ -2993,7 +2989,7 @@ IV.- Se empleare violencia física o moral en la comisión del delito,
 
 V.- El agente fuere ministro de un culto religioso,
 
-VI.- El agente se valiese de la función pública o de una situación de subordinación de la victima o desempeñe o ejerza una profesión, oficio o cargo aprovechando los medios o circunstancias que ello le proporciona.
+VI.- El agente se valiese de la función pública o de una situación de subordinación de la víctima o desempeñe o ejerza una profesión, oficio o cargo aprovechando los medios o circunstancias que ello le proporciona.
 
 En el supuesto previsto en la fracción I de este artículo, además se les privará de todo derecho a los bienes de la víctima y del derecho a alimentos que le correspondiera por su relación con la víctima, así como del ejercicio de la patria potestad de manera definitiva.
 
@@ -3543,7 +3539,7 @@ I.- El servidor público que por sí o por interpósita persona, utilizando la v
 
 II.- El servidor público que con motivo de la querella, denuncia o información a que se hace referencia la fracción anterior realice una conducta ilícita u omita una lícita debida que lesione los intereses de las personas que las presente o aporte, o de algún tercero con quien dichas personas guarden algún vínculo familiar, de negocios o afectivo.
 
-> <small>(REFORMADO, P.O 12 DE JUNIO DE 1998)</small>
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 1998)</small>
 
 Al que cometa el delito de intimidación se le impondrán de dos a seis años de prisión y de cincuenta a trescientos días multa.
 
@@ -3569,7 +3565,7 @@ II.- Indebidamente solicite o promueva alguna resolución o la realización de c
 
 ### CAPITULO IV. QUEBRANTAMIENTO DE PENAS NO PRIVATIVAS DE LIBERTAD Y MEDIDAS DE SEGURIDAD
 
-> <small>(REFORMADO, P.O 19 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2007)</small>
 
 ### CAPITULO V. ENCUBRIMIENTO POR FAVORECIMIENTO
 
@@ -4704,3 +4700,7 @@ DECRETO NUMERO 446, POR EL QUE SE ADICIONA EL ARTICULO 160 BIS Y UN CAPITULO IX 
 PRIMERO.- Las presentes reformas entrarán en vigor a partir del 21 de agosto del 2012.
 
 SEGUNDO.- Las autoridades locales desde el momento en que se publique este Decreto realizarán las acciones necesarias, según sea el caso, a fin de dar el debido cumplimiento a las atribuciones contenidas en el mismo, a efecto de que asuman las mismas a partir de la entrada en vigor del presente Decreto.
+
+P.O. 17 DE DICIEMBRE DE 2010.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
