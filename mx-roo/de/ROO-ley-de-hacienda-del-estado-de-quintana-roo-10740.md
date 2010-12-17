@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-hacienda-del-estado-de-quintana-roo-10740"
 country: "mx"
 rank: "ley"
 publication_date: "1994-12-30"
-last_updated: "2010-10-05"
+last_updated: "2010-12-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10740&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ROO"
 
 LEY DE HACIENDA DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE OCTUBRE DE 2010.
+> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTICULO PRIMERO TRANSITORIO DEL DECRETO NUMERO 401, PUBLICADO EN EL P.O. 17 DE DICIEMBRE DE 2010, EN TANTO EL ESTADO DE QUINTANA ROO, PERMANEZCA ADHERIDO AL SISTEMA NACIONAL DE COORDINACION FISCAL, SUSCRITO MEDIANTE CONVENIO Y ANEXOS RESPECTIVOS CON LA SECRETARIA DE HACIENDA Y CREDITO PUBLICO, QUEDAN EN SUSPENSO LOS IMPUESTOS Y DERECHOS QUE SE MENCIONAN EN EL MENCIONADO TRANSITORIO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el viernes 30 de diciembre de 1994.
 
@@ -921,9 +923,11 @@ g) Las asociaciones civiles organizadas con fines científicos, políticos, reli
 
 No se considerarán para estos fines las instituciones educativas a menos que sus servicios sean gratuitos.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE DICIEMBRE DE 1998)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
-VIII.- El ahorro cuando se integre por un depósito de cantidad semanaria, quincenal o mensual igual del trabajador y de la empresa.
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
+VIII.- El ahorro cuando se integre por un depósito igual del trabajador y de la empresa, siempre y cuando éste se realice con la misma periodicidad al pago de las remuneraciones del trabajador;
 
 > <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2004)</small>
 
@@ -2125,11 +2129,13 @@ Los sujetos de este impuesto, deberán llevar el registro de sus operaciones dia
 
 #### SECCION PRIMERA. DEL OBJETO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE DICIEMBRE DE 2006)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 168-A.
 
-Es objeto del impuesto, el pago por servicios de hospedaje que se otorguen en hoteles, moteles, mesones, posadas, hosterías, campamentos, paraderos de casas rodantes y de tiempo compartido, considerados como el albergue temporal de personas.
+Es objeto del Impuesto el pago por servicios de hospedaje que se otorguen en hoteles, moteles, mesones, posadas, hosterías, campamentos, paraderos de casas rodantes, de tiempo compartido, y demás establecimientos en donde se brinde albergue temporal de personas.
 
 > <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 1996)</small>
 
@@ -2359,13 +2365,19 @@ b) Cuando el contribuyente haga dictaminar por contador público autorizado sus 
 
 BIS-E.- Son obligaciones de los contribuyentes de este impuesto, además de las establecidas en el Código Fiscal del Estado, las siguientes:
 
-I.-Las personas físicas y morales o unidades económicas que para efecto de impuestos federales tengan su domicilio fiscal en otras entidades, pero que realicen las actividades a que se refiere este capítulo, deberán registrar como domicilio fiscal estatal, el lugar en donde se originen sus actos.
+I.- Las personas físicas y morales o unidades económicas que para efecto de impuestos federales tengan su domicilio fiscal en otras entidades, pero que realicen las actividades a que se refiere este capítulo, deberán registrar como domicilio fiscal estatal, el lugar en donde se originen sus actos.
 
 II.- Pagar el impuesto correspondiente en la forma y los términos previstos en este capítulo.
 
 III - Registrarse o empadronarse en la oficina de la recaudadora de rentas que corresponda al lugar de la ubicación de los terrenos explotados.
 
 IV.- Llevar un libro de registros de extracción en el que se hará constar diariamente la cantidad en metros cúbicos de material que se extraiga del suelo y subsuelo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
+V.- Presentar a más tardar el último día hábil del mes de febrero, a través de las formas aprobadas por la Secretaría, la declaración informativa en la que conste de manera clara, el Registro Federal de Contribuyentes, domicilio, nombre, denominación o razón social de las personas físicas, morales o unidades económicas a quienes, en el ejercicio anterior le hubiese suministrado cualquier material de los referidos en el artículo 168-BIS; así como el volúmen del material proveído.
 
 > <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
@@ -6047,69 +6059,57 @@ De más de 10 metros 51.75 S.M.G.
 
 II.- Derechos por control vehícular
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
-a).- Para automóviles y camionetas particulares, hasta de 2 toneladas el 11.5% del Impuesto sobre Tenencia o Uso de Vehículos en el año calendario vigente, ú 9.20 veces el S.M.G. vigente en el estado, aquella cuyo monto sea mayor.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+a) Para automóviles, camionetas, camiones y autobuses particulares y del servicio público 13.50 veces el S.M.G. vigente en el Estado.
 
-b) Para camiones particulares hasta de 8 toneladas de capacidad de carga, un 63.25% del Impuesto sobre Tenencia o Uso de Vehículos en el año calendario vigente o 9.20 veces el S.M.G. vigente en el estado, aquella cuyo monto sea mayor.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+b) (DEROGADO, P.O. 17 DE DICIEMBRE DE 2010)
 
-De mas de 8 toneladas de capacidad de carga, un 64.40% del Impuesto o Tenencia del Uso de Vehículos en el año calendario vigente, o 10.35 veces el S.M.G. vigente en el estado, aquella cuyo monto sea mayor.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
-c) Para automóviles y camionetas del servicio público.
+c) (DEROGADO, P.O. 17 DE DICIEMBRE DE 2010)
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
-1.- Taxis un 11.5% del Impuesto sobre Tenencia o Uso de Vehículos en el año calendario vigente, o 9.20 veces el S.M.G. vigente en el estado, aquella cuyo monto sea mayor.
+d) (DEROGADO, P.O. 17 DE DICIEMBRE DE 2010)
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
-2.- Arrendadoras un 20.7% del Impuesto sobre Tenencia o Uso de Vehículos en el año calendario vigente, o 19.55 veces el S.M.G. vigente en el estado, aquella cuyo monto sea mayor.
+e) (DEROGADO, P.O. 17 DE DICIEMBRE DE 2010)
 
-d) Para camiones de servicio público local
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+f) (DEROGADO, P.O. 17 DE DICIEMBRE DE 2010)
 
-1.- Hasta de 8 toneladas de capacidad de carga, un 69% del Impuesto sobre Tenencia o Uso de Vehículos en el año calendario vigente, o 9.20 veces el S.M.G vigente en el estado, aquella cuyo monto sea mayor.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
-2.- Mas de 8 toneladas de capacidad de carga, un 69% del Impuesto sobre Tenencia o Uso de Vehículos en el año calendario vigente, o 13.23 veces el S.M.G. vigente en el estado, aquella cuyo monto sea mayor.
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
-
-e) Para autobuses de servicio público local 12.65 veces el S.M.G. vigente en el Estado, o el 57.5% del Impuesto sobre Tenencia o Uso de Vehículos, aquella cuyo monto sea mayor.
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
-
-f) Para autobuses particulares un 57.5% del Impuesto sobre Tenencia o Uso de Vehículos en el año calendario vigente, o 7.25 veces el S.M.G. vigente en el estado, aquella cuyo monto sea mayor.
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
-
-g) Para remolques 3.45 veces el S.M.G. vigente en el estado.
+g) Para remolques 6.25.veces el S.M.G. vigente en el Estado.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 h) Para motocicletas:
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERO, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
-1.- Particulares 2.30 veces el S.M.G. vigente en el estado.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+1.- particulares y del servicio público 4.50 veces el S.M.G. vigente en el Estado.
 
-2.- Servicio público 4.60 veces el S.M.G. vigente en el estado.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERO, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
-3.- Por su refrendo:
+2.- Por su refrendo:
 
-servicio particular 1.15 S.M.G.
+A. Servicio particular 1.15 S.M.G.
 
-servicio público 2.00 S. M. G.
+B. Servicio Público 2.00 S.M.G.
 
 i) Para bicicletas cada año.
 
@@ -6151,9 +6151,11 @@ m) Por permisos provisionales para circulación de vehículos por:
 
 n) Por expedición y reposición de tarjetas de circulación 0.58 veces el S.M.G. en el estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2002)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
-ñ) Por revalidar la calcomanía vehicular un 11.5% del Impuesto Sobre Tenencia o Uso de Vehículos en el año calendario vigente, o 3.45 veces el S.M.G. vigente en el Estado, aquella cuyo monto sea mayor.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
+ñ) Por revalidar la calcomanía vehicular 3.45 veces el S.M.G. vigente en el Estado.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
@@ -6167,9 +6169,11 @@ o) Por placas de demostración 17.25 S.M.G. y por su refrendo anual 4.60 S.M.G
 
 Estas placas deberán presentarse para su refrendo en el mismo plazo a que se refiere el último párrafo del inciso ñ.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
-Tratándose de los incisos de la a) a la n) deberán pagarse en un plazo de quince días hábiles siguientes a la causación del supuesto.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
+Tratándose de los incisos de la a), g), h), i), j), k), l), m) y n) deberán pagarse en un plazo de quince días hábiles siguientes a la causación del supuesto.
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2002)</small>
 
@@ -6261,13 +6265,13 @@ VI.- Por día de estancia en el corralón 0.46 veces el S.M.G. vigente en el Est
 
 VII.- Permiso para circular con cristales polarizados por 1 año, según su tipo:
 
-a).- De un humo para• servicio público 4.03 veces el S.M.G. vigente en el Estado.
+a).- De un humo para· servicio público 4.03 veces el S.M.G. vigente en el Estado.
 
 b).- De un humo para servicio particular 6.01 veces el S.M.G. vigente en el Estado.
 
 c).- De dos humos para servicio particular 12.09 veces el S.M.G. vigente en el Estado.
 
-d).- Hasta de tres humos para servicio oficial 12.09 veces el S.M.G. vigente en el Estado.
+d).- Hasta de tres humos para servicio oficial 12.09veces el S.M.G. vigente en el Estado.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -6555,7 +6559,7 @@ III.- Recibir y en su caso requerir los avisos, manifestaciones y demás documen
 
 IV.- Diseñar y emitir los formatos para control vehicular, que deberán contener como mínimo los requisitos que al efecto señale la Secretaría de Hacienda y Crédito Público.
 
-V.- Informar a la Secretaría de Hacienda y Crédito Público de los movimientos efectuados en el "Registro Estatal Vehícular" y reponer dicho registro en su totalidad, conforme a los medios magnéticos y periodicidad que establezca dicha Secretaría.
+V.- Informar a la Secretaría de Hacienda y Crédito Público de los movimientos efectuados en el "Registro Estatal Vehícular' y reponer dicho registro en su totalidad, conforme a los medios magnéticos y periodicidad que establezca dicha Secretaría.
 
 VI.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 1995)
 
@@ -8683,23 +8687,43 @@ Con respecto a las tarifas de la tabla anterior, la Secretaría deberá contempl
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
-### CAPITULO UNICO
+### CAPITULO XXVI. DEL REGISTRO ESTATAL DE PERITOS VALUADORES
 
-### CAPITULO I. DISPOSICIONES GENERALES DE LOS RECARGOS
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
+### CAPITULO UNICO
 
 ###### Artículo 207-O.
 
-Les derechos por los servicios que prestan las autoridades laborales del Estado, a través del Tribunal, Junta Local y Juntas Especiales todas de Conciliación y Arbitraje, Procuraduría de la Defensa del Trabajo y sus Procuradurías Auxiliares, la Dirección General del Trabajo y Previsión Social y los Inspectores de Trabajo, se pagarán conforme a lo siguiente:
+Los derechos por los servicios que prestan las autoridades laborales del Estado, a través del Tribunal, Junta Local y Juntas Especiales todas de Conciliación y Arbitraje, Procuraduría de la Defensa del Trabajo y sus Procuradurías Auxiliares, la Dirección General del Trabajo y Previsión Social y los Inspectores de Trabajo, se pagarán conforme a la siguiente:
 
 TARIFA
 
 I.- Constancia de permiso para trabajar a menores de edad 1 S.M.G
 
-II.- Por la expedición de de documentos en copia simple 0.011 S.M.G por cada foja tamaño carta y 0.012 S.M.G por cada foja en tamaño oficio y legal.
+II.- Por la expedición de documentos en copia simple 0.011 S.M.G por cada foja tamaño carta y 0.012 S.M.G por cada foja en tamaño oficio y legal.
 
 En la expedición de copias simples, el cobro a que se refiere la fracción I se realizará únicamente cuando la reproducción de información exceda (sic) diez fotocopias.
 
-III.- Por la expedición de copas certificadas, independientemente del mínimo de fotocopias, además del precio de la copia a que se refiere la fracción II de este artículo, se realizará el pago a que se refiere la fracción IV del Artículo 188 de esta Ley.
+III.- Por la expedición de copias certificadas, independientemente del número de fotocopias, además del precio de la copia a que se refiere la fracción II de este artículo, se realizará el pago a que se refiere la fracción IV del Artículo 188 de esta Ley.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
+### CAPITULO I. DISPOSICIONES GENERALES DE LOS RECARGOS
+
+###### Artículo 207-P.
+
+Los derechos por los servicios que prestan la Secretaría de Gobierno, relacionados con el registro estatal de peritos valuadores de conformidad con la Ley de Valuación para el Estado de Quintana Roo, se pagarán conforme a la siguiente:
+
+T A R I F A:
+
+a).- Por inscripción y refrendo
+
+en el registro 25.00 S.M.G.
 
 ### CAPITULO II. CONTRIBUCIONES GENERADAS EN EJERCICIOS ANTERIORES
 
@@ -8711,21 +8735,17 @@ III.- Por la expedición de copas certificadas, independientemente del mínimo d
 
 ### CAPITULO VI. INGRESOS POR COORDINACION
 
-### CAPITULO VII. APROVECHAMIENTOS DIVERSOS
-
 #### SECCION SEXTA. IMPRENTA DE GOBIERNO
 
 #### SECCION SEPTIMA. PUBLICACIONES OFICIALES
 
+### CAPITULO VII. APROVECHAMIENTOS DIVERSOS
+
 ### CAPITULO UNICO
-
-### CAPITULO I. INGRESOS FEDERALES POR COORDINACION
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 ## TITULO IV. DE LOS PRODUCTOS
 
-### CAPITULO II. INGRESOS MUNICIPALES POR COORDINACION
+### CAPITULO I. INGRESOS FEDERALES POR COORDINACION
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
@@ -8771,11 +8791,11 @@ TARIFA
 
 I.- Periódico hasta 5 hojas 1 S.M.G.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
-II.- Periódico de 5 hasta 100 hojas 1.50 S.M.G.
+II.- Periódico de 6 hasta 100 hojas 1.50 S.M.G.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -8817,11 +8837,11 @@ VIII. Suscripción anual: 24 números ordinarios, vía internet 9.62 S.M.G.
 
 IX. Suscripción semestral: 12 números ordinarios, vía internet 6.73 S.M.G.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
-X. Publicaciones especiales de más de más de 100 hojas, vía internet 0.50 S.M.G.
+X. Periódico de más de 100 hojas, vía internet 0.50 S.M.G.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -8829,11 +8849,11 @@ X. Publicaciones especiales de más de más de 100 hojas, vía internet 0.50 S.M
 
 XI. Publicaciones por renglón 0.50 S.M.G.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
-> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
-XII. Publicaciones de más de 100 hojas 4.00 S.M.G.
+XII. Periódico de más de 100 hojas 4.00 S.M.G.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -8841,17 +8861,29 @@ XII. Publicaciones de más de 100 hojas 4.00 S.M.G.
 
 XIII. Búsqueda de publicación 1.00 S.M.G.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
-> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
-XIV. Publicaciones extraordinarias menos de 5 hojas 119.00 S.M.G.
+XIV. Publicaciones extraordinarias menor de 5 hojas 119.00 S.M.G.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
-> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
-XV. Número especial de más de 200 hojas 9.00 S.M.G.
+XV. Periódico de más de 200 hojas 9.00 S.M.G.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE DICIEMBRE DE 2010)</small>
+
+XVI. Certificación de periódicos agotados 1.00 S.M.G.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE DICIEMBRE DE 2010)</small>
+
+XVII. Certificación de inexistencia de periódicos 1.00 S.M.G.
 
 El pago de los productos anteriores se harán por adelantado en las oficinas recaudadoras de rentas del Estado.
 
@@ -8927,7 +8959,7 @@ BIS.- Son todas las ganancias que en forma de intereses o por cambio de moneda p
 
 ## TITULO V. APROVECHAMIENTOS
 
-### CAPITULO UNICO
+### CAPITULO II. INGRESOS MUNICIPALES POR COORDINACION
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
@@ -8936,6 +8968,10 @@ BIS.- Son todas las ganancias que en forma de intereses o por cambio de moneda p
 Los contribuyentes que no cumplan con las obligaciones fiscales establecidas por esta ley en materia de impuestos y derechos causarán una cuota por concepto de recargos que será de acuerdo a lo establecido en el Código Fiscal del Estado.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 30 DE DICIEMBRE DE 2002)</small>
+
+### CAPITULO UNICO
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 220.
 
@@ -9852,6 +9888,82 @@ P.O. 5 DE OCTUBRE DE 2010.
 PRIMERO.- El presente Decreto entrará en vigor el primero de Enero del año 2011, previa su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se dejan sin efecto las disposiciones legales de igual o menor jerarquía que se opongan al presente Decreto.
+
+T R A N S I T O R I O:
+
+ÚNICO.- Publíquese el presente Decreto en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 17 DE DICIEMBRE DE 2010.
+
+PRIMERO.- En tanto el Estado de Quintana Roo, permanezca adherido al Sistema Nacional de Coordinación Fiscal, suscrito mediante convenio y anexos respectivos con la Secretaría de Hacienda y Crédito Público, quedan en suspenso los siguientes:
+
+I. IMPUESTOS:
+
+Sobre enajenación de vehículos de motor y bienes muebles usados entre particulares de manera parcial.
+
+1. Sobre productos y rendimientos de capital.
+
+2. Al comercio y la industria.
+
+3. Sobre producción de azúcar, piloncillo y mieles cristalizables e incristalizables.
+
+4. Sobre compraventa de primera mano de azúcar, piloncillo y mieles cristalizables e incristalizables.
+
+5. Sobre la compraventa de primera mano de productos agrícolas.
+
+6. Sobre compraventa o permuta de ganado o sus esquilmos.
+
+7. Sobre la cría de ganado.
+
+8. Al libre ejercicio de profesiones y actividades lucrativas de manera parcial.
+
+9. Sobre explotación y venta de primera mano de diversos materiales para construcción.
+
+II. DERECHOS:
+
+A). Licencias, anuencias previas al otorgamiento de las mismas, en general concesiones, permisos o autorizaciones, o bien obligaciones y requisitos que condicionen el ejercicio de actividades comerciales o industriales y de prestación de servicios. Asimismo, los que resulten como consecuencia de permitir o tolerar excepciones a una disposición administrativa tales como la ampliación de horario, con excepción de los siguientes numerales:
+
+1. Licencias de construcción.
+
+2. Licencias o permisos para efectuar conexiones a las redes públicas de agua y alcantarillado.
+
+3. Licencias para fraccionar o lotificar terrenos.
+
+4. Licencias para conducir vehículos.
+
+5. Expedición de placas y tarjetas para la circulación de vehículos.
+
+6. Licencias, permisos o autorizaciones para el funcionamiento de establecimientos o locales cuyos giros sean la enajenación de bebidas alcohólicas o la prestación de servicios que incluyan el expendio de dichas bebidas, siempre que se efectúen total o parcialmente con el público en general.
+
+7. Licencias, permisos o autorizaciones para la colocación de anuncios y carteles o la realización de publicidad, excepto las que se realicen por medio de televisión, radio, periódicos y revistas.
+
+B).- Registros o cualquier acto relacionado con los mismos, a excepción de los siguientes:
+
+1. Registro civil.
+
+2. Registro de la Propiedad y del Comercio.
+
+C).- Uso de las vías públicas o la tenencia de bienes sobre las mismas.
+
+No se considerarán comprendidos dentro de lo dispuesto en esta fracción los derechos de estacionamiento de vehículos, el uso de la vía pública por comerciantes ambulantes o con puestos fijos o semifijos, ni por el uso o tenencia de anuncios.
+
+D). Actos de inspección y vigilancia.
+
+Los derechos locales o municipales no podrán ser diferenciales considerando el tipo de actividad a que se dedique el contribuyente, excepto cuando se trate de derechos diferenciales por los conceptos a los que se refieren los numerales del 1 al 7 del inciso A) y el inciso C).
+
+Las certificaciones de documentos, así como la reposición de éstos por extravío o destrucción parcial o total, no quedarán comprendidas dentro de lo dispuesto en los incisos A) y B) de este artículo. Tampoco quedan comprendidas las concesiones por el uso o aprovechamiento de bienes pertenecientes al Estado y a los Municipios.
+
+En ningún caso lo dispuesto en este artículo, limitará la facultad del Estado y los Municipios para requerir licencias, registros, permisos o autorizaciones, otorgar concesiones y realizar actos de inspección y vigilancia. Para el ejercicio de estas facultades no se podrá exigir cobro alguno, con las salvedades expresamente señaladas en este artículo.
+
+Para los efectos de coordinación con las entidades, se considerarán derechos, aun cuando tengan una denominación distinta en la legislación estatal y municipal correspondiente, las contribuciones que tengan las características de derechos conforme al Código Fiscal de la Federación y a la Ley de Ingresos de la Federación.
+
+También se consideran como derechos para los efectos de este Artículo, las contribuciones u otros cobros, cualquiera que sea su denominación, que tengan la característica de derechos de acuerdo con el Código Fiscal de la Federación, aún cuando se cobren por concepto de aportaciones, cooperaciones, donativos, productos, aprovechamientos o como garantía de pago por posibles infracciones.
+
+SEGUNDO.- Tratándose de empresas dedicadas a la construcción, que deseen efectuar la contribución del impuesto en una sola exhibición en forma anticipada, siempre y cuando se trate de obra privada, se aplicarán los valores y porcentajes publicados en el Diario Oficial de la Federación, del costo de mano de obra por metro cuadrado para obra privada, mismos que se publican de forma anual a petición de la Dirección de afiliación y cobranza del Instituto Mexicano del Seguro Social.
+
+TERCERO.- Se dejan sin efecto todas las disposiciones legales de (sic) que se opongan al presente decreto.
+
+CUARTO.- El presente decreto entrará en vigor a partir del 1o. de enero de 2011, previa publicación en el Periódico Oficial del Estado.
 
 T R A N S I T O R I O:
 
