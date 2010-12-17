@@ -4,7 +4,7 @@ identifier: "COA-ley-de-ejecucion-de-sanciones-privativas-y-restrictivas-de-4743
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-02"
-last_updated: "2009-06-19"
+last_updated: "2010-12-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47436&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE EJECUCION DE SANCIONES PRIVATIVAS Y RESTRICTIVAS DE LA LIBERTAD PARA EL ESTADO DE COAHUILA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JUNIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 2 de diciembre de 2005.
 
@@ -336,6 +336,10 @@ XIX. Copia de la resolución donde se autorice, en su caso, el tratamiento semi-
 > <small>(REFORMADO, P.O. 19 DE JUNIO DE 2009)</small>
 
 Dicho archivo se integrará a fin de dar cumplimiento a la información de antecedentes penales, cartas u oficios a que se refiera la Ley de la materia.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
+No se cobrará ningún derecho por concepto de expedición de carta o certificado de no antecedentes penales.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -1776,3 +1780,9 @@ TERCERO. Las dependencias y entidades que actualmente ejecutan funciones que med
 CUARTO. El Titular de la Unidad Desconcentrada para la Ejecución de Penas y Reinserción Social, concluirá su cargo al término del período para el cual fue conferido o al finalizar el período de Gobierno dentro del cual hubiere sido otorgado; pero sus efectos se extenderán hasta que el nuevo funcionario designado entre en funciones o hasta que se expida nuevo nombramiento, sin que por tal motivo se entienda prorrogado o ratificado.
 
 QUINTO. Se derogan todas las disposiciones legales que se opongan a lo establecido por este Decreto.
+
+P.O. 17 DE DICIEMBRE DE 2010.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
