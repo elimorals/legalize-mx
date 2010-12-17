@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-interior-de-la-policia-preventiva-y-transito-del-747
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-05-07"
-last_updated: "2010-10-27"
+last_updated: "2010-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74799&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 REGLAMENTO INTERIOR DE LA POLICIA PREVENTIVA Y TRANSITO DEL MUNICIPIO DE AHOME DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE OCTUBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE DICIEMBRE DE 2010.
 
 Reglamento publicado en el Periódico Oficial del Estado de Sinaloa, el viernes 7 de mayo de 2010.
 
@@ -1225,13 +1225,21 @@ III. Llevar a cabo el proceso para la promoción de ascenso, desde la publicaci�
 
 IV. Proponer a la Dirección General las distinciones que deban otorgarse a los miembros de la corporación, por hechos meritorios o de desempeño profesional;
 
-V. Resolver sobre sanción de baja que deba imponerse a los elementos de la Dirección General, de acuerdo con los establecimientos en este Reglamento;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
+V. Resolver sobre la sanción de baja que deba imponerse a los elementos de la Dirección General contando para ello con facultades ejecutivas para el caso de modificaciones de bajas negativas a positivas de los agentes de seguridad publica;
 
 VI. Participar en los términos de este reglamento y demás ordenamiento (sic) legales aplicables, en el Servicio Policial de Carrera de la Policía Municipal;
 
 VII. Solicitar al Director General la imposición de arrestos a los elementos de la Policía Municipal que hayan faltado injustificadamente a la Audiencia a que se refiere el Artículo 80 de este cuerpo normativo; y,
 
 VIII. Las demás que correspondan, conforme a los fines y objetivos propuestos para esta Comisión.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
+###### ARTÍCULO 66 Bis.
+
+Las Resoluciones Administrativas emitidas por la Comisión de Honor y Justicia de la Dirección General de la Policía Preventiva y Transito Municipal, serán analizadas y resueltas respecto de la ratificación y/o modificación final mediante dictamen del Sindico Procurador mismas que deberán ser ratificadas en votación del Ayuntamiento.
 
 ###### ARTÍCULO 67.
 
@@ -1781,9 +1789,15 @@ Insuficiente 59 ó menos puntos.
 
 ## TÍTULO QUINTO. DEL SERVICIO POLICIAL DE CARRERA
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 127.
 
-La Comisión de Honor y Justicia coordinará el Servicio Policial de Carrera, de acuerdo con los manuales que al efecto se emitan, mismos que deberán contener, por lo menos, los aspectos siguientes:
+Se crea la Comisión del Servicio Profesional de Carrera Policial, con el fin de conocer y resolver en sus respectivos ámbitos de competencia, toda controversia que se suscite con relación a los procedimientos de la Carrera Policial y el Régimen Disciplinario, para dar cumplimiento a lo establecido en el Articulo 105 de La Ley del Sistema Nacional de Seguridad Publica.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE DICIEMBRE DE 2010)</small>
+
+La Comisión del Servicio Profesional de Carrera Policial, coordinara de acuerdo con los manuales que para tal efecto emita la Secretaria de Seguridad Pública Federal, mismos que deberán contener los aspectos siguientes:
 
 I. Coordinar y dirigir el Servicio Profesional de Carrera Policial, en el ámbito de su competencia;
 
@@ -1810,6 +1824,32 @@ XI. Participar en los procedimientos de bajas relativos a la separación del ser
 XII. Coordinarse con todas las demás autoridades e instituciones, a cuya área de atribuciones y actividades correspondan obligaciones relacionadas con el Servicio Profesional de Carrera Policial, y
 
 XIII. Las demás que le señalen estos Procedimientos, las disposiciones legales y administrativas aplicables y todas las que sean necesarias para el óptimo funcionamiento del Servicio Profesional de Carrera Policial.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
+ARTÍCULO 127 BIS.- La Comisión del Servicio profesional de Carrera Policial se integra por:
+
+I.- Un Presidente, quien será un Regidor integrante de la Comisión de Gobernación del H. Ayuntamiento.
+
+II.- Un Secretario Técnico, quien será el Secretario Ejecutivo del Consejo Municipal de Seguridad Pública.
+
+III.- Los Vocales, que serán:
+
+Primer Vocal.- El Director General de Seguridad Pública y Tránsito Municipal.
+
+Segundo Vocal.- El Presidente de la Comisión de Honor y Justicia en turno.
+
+Tercer Vocal.- Un Representante del área de Tesorería del H. Ayuntamiento de Ahome.
+
+Cuarto Vocal.- El Encargado del Departamento de Capacitación de la Policia Municipal.
+
+Quinto Vocal.- El Encargado del Departamento de Selección y Reclutamiento de la Policía Municipal.
+
+Sexto Vocal.- El Encargado del Departamento Jurídico de la Policía Municipal.
+
+Séptimo Vocal.- Dos elementos operativos de la Policía Municipal, de alto rango, que serán designados por el Presidente Municipal.
+
+Los asientos en la Comisión del Servicio profesional de Carrera Policial, se entienden conferidos a los representantes de las Instituciones Públicas y Organismos que se mencionan, por lo que son honoríficos y no son de carácter personal ni vitalicios.
 
 ### CAPÍTULO I. DEL RECLUTAMIENTO
 
@@ -2185,15 +2225,19 @@ Para reingresar a la corporación, los elementos que tengan más de dos años y 
 
 Para el óptimo funcionamiento del Servicio Profesional de Carrera Policial, la coordinación de acciones, la homologación de la función policial, y su seguridad jurídica contará con los órganos colegiados siguientes:
 
-I. Comisión de Honor y Justicia; y
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
+I.- Comisión del Servicio Profesional de Carrera Policial; y
 
 II. Consejo de Participación Ciudadana.
 
 ### CAPÍTULO II. DEL CONSEJO DE PARTICIPACIÓN CIUDADANA
 
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 175.
 
-El Consejo de Participación Ciudadana es un órgano externo de asesoría y opinión, que tiene como finalidad coadyuvar con la Comisión de Honor y Justicia, en el adecuado funcionamiento del Servicio Profesional de Carrera Policial.
+El Consejo de Participación Ciudadana es un órgano externo de asesoría y opinión, que tiene como finalidad coadyuvar con la Comisión del Servicio Profesional de Carrera Policial, en el adecuado funcionamiento del Servicio Profesional de Carrera Policial.
 
 ### CAPÍTULO III. DE LA INTEGRACIÓN DEL CONSEJO DE PARTICIPACIÓN CIUDADANA
 
@@ -2255,25 +2299,35 @@ Quienes asistan a las sesiones deberán guardar la confidencialidad debida respe
 
 ### CAPÍTULO V. DE LAS FACULTADES DEL CONSEJO DE PARTICIPACIÓN CIUDADANA
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 185.
 
-Dentro del Servicio Profesional de Carrera Policial el Consejo de Participación Ciudadana tendrá las facultades siguientes:
+Dentro del Servicio Profesional de Carrera Policial el Consejo de Participación Ciudadana tendrá las siguientes facultades:
 
 I. Recibir informes trimestrales sobre la operación del (sic) los Policías de Carrera y de designación especial que someta a su consideración el Titular de la Institución Policial o su equivalente y hacer las recomendaciones pertinentes;
 
 II. Coadyuvar en la recepción y canalización de denuncias sobre corrupción, negligencia o violaciones de los derechos humanos por parte de los Policías de Carrera, con la participación que corresponda a la Comisión de Honor y Justicia;
 
-III. Coadyuvar con la Comisión de Honor y Justicia en el adecuado funcionamiento del Servicio, así como auxiliar en el diseño y operación de los procedimientos y medios que permitan efectuar la vigilancia y, en su caso, corrección de su operación;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
+III. Coadyuvar con la Comisión del Servicio Profesional de Carrera Policial, en el adecuado funcionamiento del Servicio, así como auxiliar en el diseño y operación de los procedimientos y medios que permitan efectuar la vigilancia y, en su caso, corrección de su operación;
 
 IV. Sugerir las normas necesarias para la regulación de su organización y funcionamiento interno;
 
-V. Coadyuvar en la supervisión y evaluación con la Comisión de Honor y Justicia, así como recomendar el establecimiento de políticas y criterios generales para tal efecto;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
-VI. Coadyuvar con la Comisión de Honor y Justicia en la elaboración de los criterios para la selección de los Policías de Carrera;
+V. Coadyuvar con la Comisión del Servicio Profesional de Carrera Policial, en la supervisión y evaluación, así como recomendar el establecimiento de políticas y criterios generales para tal efecto;
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
+VI. Coadyuvar con la Comisión del Servicio Profesional de Carrera Policial, en la elaboración de los criterios para la selección de los Policías de Carrera;
 
 VII. Proponer las políticas y programas específicos de todos los procedimientos que conforman el Servicio Profesional de Carrera Policial;
 
-VIII. Colaborar, conjuntamente con la Comisión de Honor y Justicia, en la aplicación del Procedimiento de Percepciones Extraordinarias no Regularizables y Estímulos;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
+VIII. Colaborar, conjuntamente con la Comisión del Servicio Profesional de Carrera Policial, en la aplicación del Procedimiento de Percepciones Extraordinarias no Regularizables y Estímulos;
 
 IX. Realizar estudios y estrategias de prospectiva sobre la función y operación de la Policía, con el fin de hacer más eficiente la función Policial;
 
@@ -2330,3 +2384,19 @@ P.O. 27 DE OCTUBRE DE 2010.
 PRIMERO.- El presente Decreto comenzará a surtir sus efectos a partir del día de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 SEGUNDO.- Comuníquese al Ejecutivo Municipal para su sanción, publicación y observancia.
+
+P.O. 17 DE DICIEMBRE DE 2010.
+
+DECRETO MUNICIPAL NO. 111
+
+###### ARTÍCULO UNICO.
+
+El presente Decreto comenzará a surtir sus efectos a partir del día de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 17 DE DICIEMBRE DE 2010.
+
+DECRETO MUNICIPAL NO. 112
+
+###### ARTÍCULO UNICO.
+
+El presente Decreto comenzará a surtir sus efectos a partir del día de su publicación en el Periódico Oficial "El Estado de Sinaloa".
