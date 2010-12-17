@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-del-instituto-estatal-de-educacion-para-403
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-07-16"
-last_updated: "2004-07-16"
+last_updated: "2010-12-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40381&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "PUE"
 
 REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL DE EDUCACION PARA ADULTOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL DE EDUCACION PARA ADULTOS, PUBLICADO EN EL P.O. DE 17 DE DICIEMBRE DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: DEROGADO.
 
 Reglamento publicado en la Cuarta Sección del Periódico Oficial del Estado de Puebla, el viernes 16 de julio de 2004.
 
@@ -338,3 +340,15 @@ PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publi
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Reglamento.
 
 Dado en la Sala de Juntas de las instalaciones del Instituto Estatal de Educación para Adultos, a los quince días del mes de diciembre del año dos mil tres.- Conforme al acuerdo 7.06/1404 de la XIV Reunión de la Honorable Junta de Gobierno.- Por el Presidente Ejecutivo.- DOCTOR OTHÓN C. RÍOS VÁZQUEZ.- Rúbrica.- Por el Secretario de Gobernación.- LICENCIADO EDGAR HERNANDEZ PIMENTEL.- Rúbrica.- Por la Secretaria de Finanzas y Administración.- CONTADOR PÚBLICO ADRIÁN LÓPEZ VILLA.- Rúbrica.- Por la Secretaria de Cultura.- PROFESOR JOSÉ LUIS SOSA SALAS.- Rúbrica.- Por el Presidente del Comité Central Ejecutivo de la Liga de Comunidades Agrarias y Sindicatos Campesinos.- CIUDADANO BENITO LUNA MORALES.- Rúbrica.- Por el Instituto Nacional para la Educación de los Adultos.- LICENCIADO LUIS MANUEL AUDIFFRED FLORES.- Rúbrica.- Por la Secretaría Ejecutiva.- PROFESORA ESTELA MARTÍNEZ PONCE.- Rúbrica.- Para su Conocimiento y Observancia.- El Director General del I.E.E.A.- PROFESOR ENRIQUE CRUZ GUTIÉRREZ- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 17 DE DICIEMBRE DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se deroga el Reglamento Interior del Instituto Estatal de Educación para los Adultos, publicado en el Periódico Oficial del Estado el 16 de julio de 2004.
