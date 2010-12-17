@@ -4,7 +4,7 @@ identifier: "COA-ley-que-crea-el-instituto-estatal-de-la-vivienda-popular-4818"
 country: "mx"
 rank: "ley"
 publication_date: "1975-12-31"
-last_updated: "2009-02-10"
+last_updated: "2010-12-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4818&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COA"
 
 LEY QUE CREA EL INSTITUTO ESTATAL DE LA VIVIENDA POPULAR
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE FEBRERO DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE VIVIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADA EN EL P.O. DE 17 DE DICIEMBRE DE 2010. EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el miércoles 31 de diciembre de 1975.
 
@@ -538,3 +540,23 @@ PRIMERO. Este decreto será vigente al día siguiente de su publicación en el P
 SEGUNDO. Hasta en tanto no se expidan los acuerdos de sectorización de los organismos públicos descentralizados que forman parte de la Administración Pública del Estado, continuarán bajo la sectorización que dispongan los instrumentos jurídicos que los hubiesen creado.
 
 TERCERO. Se dejan sin efectos las disposiciones que se opongan a lo previsto en este decreto.
+
+P.O. 17 DE DICIEMBRE DE 2010.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se abroga la Ley que crea el Instituto Estatal de la Vivienda Popular, publicada en el periódico oficial en fecha 31 de diciembre de 1975. Por lo que se determina la extinción de dicho Instituto. Los activos del Instituto y sus reservas territoriales pasan a formar parte del patrimonio de la Comisión de Vivienda del Estado.
+
+TERCERO.- Se abroga el Decreto que crea la Comisión Estatal para la Regularización de la Tenencia de la Tierra Urbana en Coahuila, publicado en el periódico oficial No. 103 del 26 de diciembre de 1995 y sus reformas, por lo que se determina su extinción y se derogan todas las disposiciones legales y reglamentarias que se opongan al presente.
+
+CUARTO.- El personal del Instituto Estatal de la Vivienda Popular y de la Comisión Estatal para la Regularización de la Tenencia de la Tierra Urbana en Coahuila, que en aplicación de la presente ley pasen a formar parte de la Comisión Estatal de Vivienda, en ninguna forma resultará afectado en los derechos que haya adquirido en virtud de su relación laboral con estas entidades.
+
+QUINTO.- Se autoriza a la Secretaria de la Función Pública para que nombre un liquidador respecto a los dos organismos que se extinguen, con las facultades suficientes para realizar los actos que se requieran para la correcta terminación de los asuntos que se encuentren en trámite.
+
+SEXTO.- El mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y, en general, el equipo de los organismos que se extinguen pasaran a los activos y patrimonio de la Comisión Estatal de Vivienda.
+
+SÉPTIMO.- Se otorga un plazo de sesenta días contados a partir del día siguiente a la entrada en vigor la Ley de Vivienda para el Estado de Coahuila de Zaragoza, para que se instale y entre en funcionamiento el Consejo Estatal de la Vivienda.
+
+OCTAVO.- En un plazo de noventa días contados a partir de la entrada en vigor de la Ley de Vivienda para el Estado de Coahuila de Zaragoza, deberán implementarse las acciones para la elaboración de los programas Estatal, regionales y municipales de vivienda.
+
+NOVENO.- La Comisión deberá elaborar el reglamento de la Ley de Vivienda para el Estado de Coahuila de Zaragoza y someterlo a consideración y aprobación del Titular del Ejecutivo del Estado, en un plazo no mayor de 90 días contados a partir de la entrada en vigor de esta ley.
