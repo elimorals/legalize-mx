@@ -4,7 +4,7 @@ identifier: "NLE-ley-que-crea-el-instituto-de-control-vehicular-del-estado-47160
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-02"
-last_updated: "2009-12-23"
+last_updated: "2010-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47160&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY QUE CREA EL INSTITUTO DE CONTROL VEHICULAR DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 2 de diciembre de 2005.
 
@@ -531,27 +531,39 @@ Artículo Décimo Transitorio. Durante el año 2007, los Municipios que se coord
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
 
-Artículo Décimo Primero.- El Instituto de Control Vehicular, podrá cubrir total o parcialmente, con cargo a su presupuesto, las comisiones y otras cantidades análogas que se generen por el uso de medios electrónicos y tarjetas de crédito para la recaudación de las contribuciones que le correspondan.
+Artículo Décimo Primero. El Instituto de Control Vehicular, podrá cubrir total o parcialmente, con cargo a su presupuesto, las comisiones y otras cantidades análogas que se generen por el uso de medios electrónicos y tarjetas de crédito para la recaudación de las contribuciones que le correspondan.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
 
-Artículo Décimo Segundo.- Durante el año 2008, los Municipios que se coordinen con el Instituto de Control Vehicular del Estado para la vigilancia en el cumplimiento de las obligaciones en materia de control vehicular, percibirán por concepto de incentivos el equivalente a 0.6 cuotas de lo efectivamente cobrado por vehículo registrado dentro de su jurisdicción, que sean objeto de dicha vigilancia.
+Artículo Décimo Segundo. Durante el año 2008, los Municipios que se coordinen con el Instituto de Control Vehicular del Estado para la vigilancia en el cumplimiento de las obligaciones en materia de control vehicular, percibirán por concepto de incentivos el equivalente a 0.6 cuotas de lo efectivamente cobrado por vehículo registrado dentro de su jurisdicción, que sean objeto de dicha vigilancia.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
 
-Artículo Décimo Tercero.- Para los efectos de lo dispuesto en el artículo 276, fracción XV de la Ley de Hacienda para el Estado, para tramitar el canje de las placas de circulación emitidas para los ejercicios 2005, 2006 y 2007, cuya vigencia concluyó el 31 de diciembre de 2007, los propietarios de vehículos inscritos en el padrón vehicular, deberán acudir a tramitar el canje de sus placas a más tardar el 31 de agosto de 2008.
+Artículo Décimo Tercero. Para los efectos de lo dispuesto en el artículo 276, fracción XV de la Ley de Hacienda para el Estado, para tramitar el canje de las placas de circulación emitidas para los ejercicios 2005, 2006 y 2007, cuya vigencia concluyó el 31 de diciembre de 2007, los propietarios de vehículos inscritos en el padrón vehicular, deberán acudir a tramitar el canje de sus placas a más tardar el 31 de agosto de 2008.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-Artículo Décimo Cuarto.- Durante el año 2009, los Municipios que se coordinen con el Instituto de Control Vehicular del Estado de Nuevo León para la vigilancia en el cumplimiento de las obligaciones en materia de control vehicular, percibirán por concepto de incentivos el equivalente a 0.6 cuotas de lo efectivamente cobrado por vehículo registrado dentro de su jurisdicción, que sean objeto de dicha vigilancia.
+Artículo Décimo Cuarto. Durante el año 2009, los Municipios que se coordinen con el Instituto de Control Vehicular del Estado de Nuevo León para la vigilancia en el cumplimiento de las obligaciones en materia de control vehicular, percibirán por concepto de incentivos el equivalente a 0.6 cuotas de lo efectivamente cobrado por vehículo registrado dentro de su jurisdicción, que sean objeto de dicha vigilancia.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2009)</small>
 
-Artículo Décimo Quinto.- Durante el año 2010, los Municipios que se coordinen con el Instituto de Control Vehicular para la vigilancia en el cumplimiento de las obligaciones en materia de control vehicular, percibirán por concepto de incentivos el equivalente a 0.6 cuotas de lo efectivamente cobrado por vehículo registrado dentro de su jurisdicción, que sean objeto de dicha vigilancia.
+Artículo Décimo Quinto. Durante el año 2010, los Municipios que se coordinen con el Instituto de Control Vehicular para la vigilancia en el cumplimiento de las obligaciones en materia de control vehicular, percibirán por concepto de incentivos el equivalente a 0.6 cuotas de lo efectivamente cobrado por vehículo registrado dentro de su jurisdicción, que sean objeto de dicha vigilancia.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
+Articulo Décimo Sexto. Durante el año 2011, los Municipios que coadyuven con el Instituto de Control Vehicular del Estado para la vigilancia en el cumplimiento de las obligaciones en materia de control vehicular, percibirán por concepto de incentivos el equivalente a 0.6 cuotas por vehículo registrado dentro de su jurisdicción, que sean objeto de dicha vigilancia, y que se haya liquidado en su totalidad.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
+
+Artículo Décimo Séptimo. Para los efectos de lo dispuesto en el artículo 276, fracción XV, de la Ley de Hacienda del Estado, para tramitar el canje de las placas de circulación emitidas para los ejercicios 2008, 2009 y 2010, los propietarios de vehículos inscritos en el padrón vehicular, deberán realizar dicho tramite a más tardar el 31 de Marzo de 2011, fecha en que concluirá la vigencia de las placas expedidas para los mencionados ejercicios.
 
 Por lo tanto envíese al Ejecutivo del Estado, para su promulgación y publicación en el Periódico Oficial del Estado.
 
@@ -574,3 +586,7 @@ P.O. 31 DE DICIEMBRE DE 2008.
 P.O. 23 DE DICIEMBRE DE 2009.
 
 Único.- El presente Decreto entrará en vigor el día 1° de enero de 2010.
+
+P.O. 17 DE DICIEMBRE DE 2010.
+
+Único.- El presente Decreto entrará en vigor el 1° de Enero del año 2011.
