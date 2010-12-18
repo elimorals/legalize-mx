@@ -4,7 +4,7 @@ identifier: "COL-reglamento-interior-de-los-servicios-de-salud-del-estado-de-226
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-07-14"
-last_updated: "2009-07-11"
+last_updated: "2010-12-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "COL"
 
 REGLAMENTO INTERIOR DE LOS SERVICIOS DE SALUD DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE JULIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE DICIEMBRE DE 2010.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 14 de julio de 2001.
 
@@ -480,7 +480,17 @@ XVIII. Organizar a nivel estatal la conformación y permanente actualización de
 
 XIX. Delegar, a los diferentes órganos de los Servicios de Salud, las facultades de vigilancia y control sanitario en las materias de su competencia; y
 
-XX. Las demás que le señalen las leyes, reglamentos, decretos y acuerdos, o las autoridades superiores.
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2010)</small>
+
+XX. Ejercer el control, manejo y distribución de los ingresos propios que se captan por el cobro de derechos que se prestan en materia de regulación de servicios de salud, control sanitario de bienes y servicios, insumos para la salud y salud ambiental, así como de los servicios que brinda el laboratorio estatal de salud pública;
+
+> <small>(ADICIONADA P.O. 18 DE DICIEMBRE DE 2010)</small>
+
+XXI. Realizar y presentar informe de ingresos y egresos en las sesiones de Junta de Gobierno del Organismo Público Descentralizado;
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2010)</small>
+
+XXII. Las demás que le señalen las leyes, reglamentos, decretos y acuerdos, o las autoridades superiores.
 
 > <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2007)</small>
 
@@ -941,3 +951,9 @@ TERCERO.- El presente Decreto no crea nuevas plazas, ya que con el mismo persona
 P.O. 11 DE JULIO DE 2009.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su Publicación en el Periódico Oficial del Gobierno Constitucional "El Estado de Colima".
+
+P.O. 18 DE DICIEMBRE DE 2010.
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- El presente Decreto no crea nuevas plazas, ya que con el mismo personal adscrito y laborando en los Servicios de Salud del Estado, se reorganizará la conformación de la Comisión Estatal para la Protección contra Riesgos Sanitarios.
