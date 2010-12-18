@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-para-el-municipio-de-comala-colima-26790"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-11"
-last_updated: "2009-12-19"
+last_updated: "2010-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26790&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE COMALA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE DICIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el lunes 11 de noviembre de 2002.
 
@@ -55,19 +55,31 @@ LEY DE HACIENDA PARA EL MUNICIPIO DE COMALA
 
 ### CAPITULO UNICO
 
-###### ARTICULO 1º.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
 
-El Municipio de Comala, para cubrir su gasto público, percibirá en cada ejercicio fiscal los ingresos derivados de los impuestos, derechos, contribuciones especiales, productos y aprovechamientos que se establecen en esta Ley, en porcentajes, tasas específicas o en salarios de la zona económica a que corresponde el municipio, así como las participaciones y fondos federales y locales derivadas de las leyes y convenios de coordinación respectivos. La facultad del Ayuntamiento en el cobro de impuestos, derechos, contribuciones especiales, productos y aprovechamientos es irrenunciable.
+###### ARTICULO 1°.
+
+El Municipio de Comala para cubrir su gasto público, percibirá en cada ejercicio fiscal los ingresos derivados de los impuestos, derechos, contribuciones de mejoras, productos y aprovechamientos que se establecen en esta Ley, en porcentajes, tasas específicas o en salarios mínimos de la zona económica a que corresponde el municipio, así como las participaciones, aportaciones y recursos transferidos derivados de las leyes y convenios de coordinación respectivos. La facultad del Ayuntamiento en el cobro de impuestos, derechos, contribuciones de mejoras, productos y aprovechamientos es irrenunciable.
 
 ###### ARTICULO 2º.
 
 Únicamente el Congreso del Estado, mediante disposición de carácter general, podrá condonar o eximir total o parcialmente del cumplimiento de obligaciones fiscales cuando por causas graves se afecte la situación de alguna región o rama de actividad económica del municipio, con excepción de lo previsto por el artículo 115, fracción IV, inciso c), párrafo segundo de la Constitución Política de los Estados Unidos Mexicanos.
 
-El Cabildo, de conformidad con la reglamentación correspondiente, podrá otorgar incentivos y apoyos para promover la inversión, a fin de impulsar el crecimiento económico de los sectores productivos, de manera integral, sostenido y sustentable del Municipio e incrementar el bienestar social de sus habitantes.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
+
+El Ayuntamiento, de conformidad con la reglamentación correspondiente, podrá otorgar incentivos y apoyos para promover la inversión, a fin de impulsar el crecimiento económico de los sectores productivos, de manera integral, sostenido y sustentable e incrementar el bienestar social de sus habitantes.
 
 > <small>(ADICIONADO, P.O. 16 DE OCTUBRE DE 2004)</small>
 
 Para determinar el pago de las contribuciones se considerarán, inclusive, las fracciones del peso. Sin embargo, para efecto de la determinación y liquidación del monto a pagar en las oficinas ó módulos de atención automatizados se deberá observar la regla de ajuste prevista en el artículo 12 del Código Fiscal Municipal del Estado de Colima. No se considerará como error en la determinación y liquidación de contribuciones o créditos fiscales, cuando se aplique la regla de ajuste correspondiente a que se refiere el citado precepto.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
+
+ARTICULO 2° A.- Los honorarios, recargos y gastos de ejecución a que se refiere el Código, solo serán condonables con la autorización del Congreso y a petición del Ayuntamiento.
+
+Los gastos de cobranza y de ejecución que se generen con motivo de la realización del procedimiento administrativo de ejecución, se registrarán por la tesorería municipal, hasta el momento en que efectivamente se cobren.
+
+Con el propósito de elevar la recaudación tributaria y obtener una mayor eficiencia administrativa, se creará un fondo integrado por los gastos de cobranza y ejecución, que se destinará a incentivar al personal, repartiéndolo entre los que participen directa e indirectamente en la recuperación de los mismos, debiendo crear la partida presupuestal correspondiente.
 
 ###### ARTICULO 3º.
 
@@ -81,7 +93,9 @@ III. Registro, al Registro Público de la Propiedad y del Comercio del Estado de
 
 IV. Congreso, al Congreso del Estado de Colima; y
 
-V. Código, al Código Fiscal Municipal.
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2010)</small>
+
+V. Código, Código Fiscal Municipal del Estado de Colima.
 
 Los días a que se refiere este ordenamiento, se computarán en hábiles, salvo disposición en contrario.
 
@@ -743,11 +757,23 @@ Garantizarán preferentemente el pago de este impuesto con los bienes inmuebles 
 
 No se pagará el impuesto por los espectáculos públicos de funciones de cine y palenques de gallos.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2010)</small>
+
+### CAPITULO IV. DE LOS ACCESORIOS DE LOS IMPUESTOS
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
+
+ARTICULO 51 A.- En los términos de lo dispuesto en el último párrafo del artículo 6° del Código, el municipio percibirá de manera accesoria a los Impuestos señalados en este Título, los recargos, la indemnización, las multas, los gastos y los honorarios a que se refieren los artículos 25, 26, 50, 51 y 69, respectivamente, de ese Código, clasificándolos como parte de los Impuestos.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
+
+ARTICULO 51 B.- En el supuesto del párrafo cuarto del artículo 19 de ésta Ley, se cobrará a los contribuyentes ahí señalados, el 50 por ciento de los recargos y multas que se hayan generado hasta que se efectúe el pago correspondiente.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 18 DE DICIEMBRE DE 2010)</small>
+
+## TITULO TERCERO. CONTRIBUCIONES DE MEJORAS
+
 ### CAPITULO UNICO
-
-## TITULO TERCERO. CONTRIBUCIONES ESPECIALES
-
-### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### ARTICULO 52.
 
@@ -767,7 +793,7 @@ Son solidariamente responsables del pago de esta contribución los adquirentes d
 
 ## TITULO CUARTO. DE LOS DERECHOS
 
-### CAPITULO II. DE LAS LICENCIAS, PERMISOS, AUTORIZACIONES, REFRENDOS, REGISTROS, CERTIFICACIONES Y LEGALIZACIONES
+### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### ARTICULO 56.
 
@@ -795,7 +821,7 @@ El servidor público que preste algún servicio por el que se cause un derecho, 
 
 En caso de discrepancia acerca de la procedencia o cuantificación del derecho, cuando de su pago dependa la prestación del servicio, el depósito en la Tesorería Municipal del importe fijado por el Tesorero, en los términos establecidos en las leyes fiscales, tomando en cuenta la opinión del titular de la dependencia municipal a que corresponda el derecho, dará lugar a la prestación de dicho servicio.
 
-### CAPITULO III. OTROS DERECHOS
+### CAPITULO II. DE LAS LICENCIAS, PERMISOS, AUTORIZACIONES, REFRENDOS, REGISTROS, CERTIFICACIONES Y LEGALIZACIONES
 
 #### SECCION PRIMERA. DE LAS LICENCIAS, PERMISOS, AUTORIZACIONES Y REFRENDOS
 
@@ -1389,7 +1415,11 @@ e) Manufacturas y usos industriales 0.04
 
 f) Otros 0.03 a 0.08
 
-V. Por la expedición de la licencia de urbanización en cualquier clasificación se pagará: 127.05
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2010)</small>
+
+V. Por la expedición de la licencia de urbanización
+
+en cualquier clasificación se pagará: 250.00
 
 Más por cada lote vendible de acuerdo a la siguiente clasificación:
 
@@ -1441,7 +1471,9 @@ VII. Por la supervisión de las obras de urbanización se cobrará el 1.81 por c
 
 En caso de que el promotor no asigne supervisor para los trabajos de urbanización, el Ayuntamiento realizará la supervisión de las obras. En este caso, el promotor pagará al Ayuntamiento aplicando la tasa del uno por ciento del valor catastral del predio.
 
-VIII. Por la incorporación municipal de predios rústicos interurbanos a zona urbana, de conformidad con la Ley de Asentamientos Humanos del Estado, se pagará el monto que se determine en función del estudio técnico elaborado por la dependencia municipal competente, por lote:
+> <small>(REFORMADA PRIMER PARRAFO, P.O. 18 DE DICIEMBRE DE 2010)</small>
+
+VIII.- Por el trámite de incorporación municipal de predios rústicos a zona urbana, de conformidad con la Ley de Asentamientos Humanos del Estado, se pagará el monto que se determine en función del estudio técnico elaborado por la dependencia municipal competente, por lote:
 
 Unidad de salario
 
@@ -1729,7 +1761,9 @@ pública cada vez que se solicite 2.00
 
 5.- Carteles publicitarios por promoción 2.00
 
-6.- Autoparlantes sonoros móvil por día 1.00
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
+
+6.- Autoparlantes sonoros por día 1.00
 
 7.- Otros no especificados 1.00 a 3.00
 
@@ -1813,7 +1847,53 @@ y Cerveza de 100.00 a 200.00
 
 18.- Tiendas de conveniencia 150.00 a 200.00
 
-19.- Otros giros no especificados de 20.00 a 500.00
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
+
+19.- Ventas de productos regionales de 20.00 a 50.00
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
+
+20.- Salón de fiestas de 20.00 a 50.00
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
+
+21.- Salón de eventos de 30.00 a 60.00
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
+
+22.- Birrierías de 20.00 a 40.00
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
+
+23.- Menuderías de 20.00 a 40.00
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
+
+24.- Parianes de 100.00 a 250.00
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
+
+25.- Pizzerías de 50.00 a 70.00
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
+
+26.- Rosticerías de 20.00 a 40.00
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
+
+27.- Taquerías de 20.00 a 40.00
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
+
+28.- Fondas de 20.00 a 40.00
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
+
+29.- Ramadas de 30.00 a 60.00
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
+
+30.- Otros giros no especificados de 20.00 a 500.00
 
 b).- Por el refrendo anual de licencias de funcionamiento, por cada una
 
@@ -1857,7 +1937,53 @@ y Cerveza de 25.00 a 50.00
 
 18.- Tiendas de conveniencia 75.00 a 100.00
 
-19.- Otros giros no especificados de 10.00 a 250.00
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
+
+19.- Ventas de productos regionales de 10.00 a 25.00
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
+
+20.- Salón de fiestas de 10.00 a 25.00
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
+
+21.- Salón de eventos de 15.00 a 30.00
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
+
+22.- Birrierías de 10.00 a 20.00
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
+
+23.- Menuderías de 10.00 a 20.00
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
+
+24.- Parianes de 50.00 a 125.00
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
+
+25.- Pizzerías de 25.00 a 35.00
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
+
+26.- Rosticerías de 10.00 a 20.00
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
+
+27.- Taquerías de 10.00 a 20.00
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
+
+28.- Fondas de 10.00 a 20.00
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
+
+29.- Ramadas de 15.00 a 30.00
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
+
+30.- Otros giros no especificados de 10.00 a 250.00
 
 c).- Por la expedición de permisos para el funcionamiento temporal de establecimientos en que se expendan bebidas alcohólicas por cada día:
 
@@ -1901,7 +2027,53 @@ o similares de 2.00 a 10.00
 
 17.- Tiendas de conveniencia 10.00
 
-18.- Otros giros no especificados de 1.00 a 30.00
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
+
+18.- Ventas de productos regionales 5.00
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
+
+20.- Salón de fiestas 5.00
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
+
+21.- Salón de eventos 10.00
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
+
+22.- Birrierías 5.00
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
+
+23.- Menuderías 5.00
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
+
+24.- Parianes 20.00
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
+
+25.- Pizzerías 2.00
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
+
+26.- Rosticerías 2.00
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
+
+27.- Taquerías 2.00
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
+
+28.- Fondas 2.00
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
+
+29.- Ramadas 3.00
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
+
+30.- Otros giros no especificados de 1.00 a 30.00
 
 d).- Por la expedición de autorizaciones de funcionamiento en horario extraordinario, de establecimientos que se expendan bebidas alcohólicas por cada hora:
 
@@ -1943,13 +2115,75 @@ o similares de 5.00 a 15.00
 
 16.- Tiendas de conveniencia 1.50
 
-17.- Otros giros no especificados de 1.00 a 30.00
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
 
-CAMBIO DE PROPIETARIO
+18.- Ventas de productos regionales de 2.00 a 10.00
 
-Por cambio de propietario, las personas físicas o morales deberán solicitar la expedición de una nueva licencia, teniendo como costo el 50 por ciento de lo señalado en el inciso a) de este artículo.
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
+
+19.- Salón de fiestas de 2.00 a 10.00
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
+
+20.- Salón de eventos de 4.00 a 10.00
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
+
+21.- Birrierías de 2.00 a 10.00
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
+
+22.- Menuderías de 2.00 a 10.00
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
+
+23.- Parianes de 2.00 a 10.00
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
+
+24.- Pizzerías de 2.00 a 10.00
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
+
+25.- Rosticerías de 2.00 a 10.00
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
+
+26.- Taquerías de 2.00 a 10.00
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
+
+27.- Fondas de 1.00 a 8.00
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
+
+28.- Ramadas de 1.00 a 5.00
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
+
+29.- Otros giros no especificados de 1.00 a 30.00
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
+
+CAMBIO DE DOMICILIO:
+
+Por el cambio de domicilio de licencias de funcionamiento se pagará el 25 por ciento del costo total por expedición de la licencia correspondiente.
 
 Las licencias de funcionamiento de giros distintos a los referidos en el artículo 79 de esta Ley, no causarán el pago de derechos pero deberán obtenerse por los interesados dentro de los treinta días siguientes a la fecha de inicio de operaciones y refrendarse durante los meses de enero y febrero de cada año.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 18 DE DICIEMBRE DE 2010)</small>
+
+D) OTRAS LICENCIAS Y PERMISOS
+
+Unidades de salario
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
+
+ARTICULO 81 A.- Las personas físicas o morales que exploten el uso de máquinas de video juegos y sinfonolas, pagarán anualmente durante los meses de enero y febrero, por cada una, conforme a la siguiente tarifa:
+
+1.- Máquinas de video juegos 3.00
+
+2.- Sinfonolas 6.00
 
 #### SECCION SEGUNDA. DE LOS REGISTROS, CERTIFICACIONES Y LEGALIZACIONES
 
@@ -1967,9 +2201,11 @@ a).- Registro de nacimiento dentro
 
 del término de ley (180 días) 0.00
 
-b).- Por registro extemporáneo de
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
 
-nacimiento 1.00 a 5.00
+b).- Por registro extemporáneo
+
+de nacimiento 5.00
 
 c).- Registro de reconocimiento de hijos 2.07
 
@@ -1987,17 +2223,41 @@ g).- Anotaciones marginales y/o
 
 exhortos 1.21
 
-h).- Resolución Administrativa dictada por
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
 
-el oficial de registro civil para
+h).- Trámite para la inscripción de resolución
+
+administrativa dictada por la autoridad
+
+competente para la aclaración o
 
 complementación de acta 3.00
 
-i).- Solicitar acta de registro civil a diversas
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
 
-oficialías por correspondencia 5.00
+i).- Servicio de tramitación de actas de
 
-j).- Los demás actos, cada uno 1.00 a 5.00
+registro civil a diversas oficialías por
+
+correspondencia. 5.00
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
+
+j).- Búsqueda de actas en libros 1.00
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
+
+k).- Expedición de constancia de registro de
+
+cualquier acto del registro civil 1.00
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
+
+I).- Inscripción de adopción 10.00
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
+
+m).- Los demás actos, cada uno 1.00 a 5.00
 
 II.- A domicilio:
 
@@ -2017,9 +2277,9 @@ c).- Registro de los demás actos hasta 13.50
 
 III. Registro de Divorcios:
 
-a).- Por mutuo consentimiento
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
 
-(administrativo.) 10.78
+a).- Administrativo 10.78
 
 b).- Inscripción 5.98
 
@@ -2029,151 +2289,233 @@ Los derechos que se originen por concepto de campañas de regularización del es
 
 B).- CATASTRO
 
-###### ARTICULO 83.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
 
-Los derechos por servicios que preste el catastro municipal se causarán y pagarán conforme a la siguiente tarifa, por cada pieza:
+###### ARTÍCULO 83.
 
-Unidad de salario
+Los derechos por servicios que preste el catastro municipal se causarán y pagarán conforme a la siguiente tarifa, por cada pieza o evento:
 
-I.- Copias heliográficas y fotostáticas:
+UNIDAD DE SALARIO
 
-a).- Copia certificada en heliográfica o
+I.- Copias fotostáticas simples e impresiones:
 
-fotostática de planos generales 2.25
+a).- De planos generales 2.25
 
-b).- Copia fotostática certificada de un
+b).- De plano de un predio con acotaciones 3.60
 
-predio con Acotaciones 3.60
+c).- De plano manzanero 3.60
 
-c).- Copia heliográfica certificada de
+d).- De plano manzanero graficado 5.00
 
-plano manzanero 3.60
+e).- De plano de fraccionamiento 4.60
 
-d).- Servicio de copias a Dependencias Oficiales o particulares de planos no catastrales:
+f).- De plano general a diferentes escalas:
 
-1.- Si no proporciona papel heliográfico,
+1. Graficado, incluyendo manzanas,
 
-por m2 1.08
+predios y calles 8.00
 
-2.- Si proporciona papel heliográfico,
+2. Por cada impresión hasta de 1.10 x 0.84 mts 8.00
 
-por m2 0.45
+3. Por cada capa adicional al plano general 5.00
 
-e).- Fotos aéreas, más costo de laboratorio,
+g).- De planos de predios rústicos:
 
-según tamaño 10.00
+1. Hasta 1-00-00 hectárea 10.00
 
-f).- Plano manzanero 1:500 graficado y
+2. De 1-00-01 a 3-00-00 hectáreas 15.00
 
-certificado 5.00
+3. De 3-00-01 a 5-00-00 hectáreas 20.00
 
-g).- Plano general a diferentes escalas:
+4. Más de 5-00-00 hectáreas 25.00
 
-1.- Graficado y certificado, incluyendo,
+h).- De planos de predios urbanos con medidas, superficie y nombre de calles:
 
-manzanas predios y calles 8.00
+1. Sin nombres de colindantes 3.60
 
-Por cada impresión hasta de
+2. Con nombres de colindantes 4.60
 
-1.10x0.84 Mts 8.00
+i).- De fotos aéreas, más costo de
 
-> <small>(F. DE E., P.O. 22 DE FEBRERO DE 2003)</small>
+laboratorio, según tamaño 10.00
 
-2.- Por cada capa adicional al plano
+j).-De cada fotografía de contacto en
 
-general 5.00
+formato 23 x 23 cm. Escala 1,4500 1.00
 
-Por cada impresión hasta de
+k).- De tarjeta de registro de cuenta catastral 1.00
 
-1.10x0.84 Mts 5.00
+I).- De traslado de dominio 1.00
 
-h).- Por copia fotostática de cada fotografía
+m).- De avalúos catastrales 1.00
 
-de contacto en formato 23x23cm.
+n).- De cartografía catastral a nivel predio
 
-Escala 1,4500 1.00
+o manzana 1.00
 
-i).- Copia fotostática de planos de predios rústicos
+ñ).- De título de propiedad ejidal, certificado
 
-1.- Hasta 1-00-00 hectárea 10.00
+parcelario o derecho de posesión 1.00
 
-2.- De 1-00-01 a 3-00-00 hectáreas 15.00
+II.- Certificaciones:
 
-3.- De 3-00-01 a 5-00-00 hectáreas 20.00
+a).- Certificaciones de documentos catastrales 1.80
 
-4.- Más de 5-00-00 hectáreas 25.00
+b).- Certificación catastral de un predio
 
-j).- Por expedición de planos de predios Urbanos con medidas, superficie y nombre de calles:
+para tramitar juicio a favor del poseedor 9.00
 
-1.- Sin nombres de colindantes 3.60
+c).- Constancia certificada de inscripción
 
-2.- Con nombres de colindantes 4.60
+o no en los registros catastrales 1.80
 
-k).- Por cada copia fotostática de planos
+d).- Constancia de pago del impuesto predial. 1.00
 
-de fraccionamientos 4.60
+III.- Avalúos, asignación de claves y mediciones:
 
-Por avalúo o rectificación de avalúo de predio rústico que se practique sobre plano levantado y firmado por el perito responsable incluyendo clasificación de suelo; a solicitud del interesado:
+a).-Por avalúo o rectificación de avalúo:
 
-1.- Hasta un valor catastral equivalente a
+1. Hasta un valor catastral equivalente a
 
 3,814 días de salario mínimo 2.00
 
-2.- Cuando el valor catastral este entre
+2. Cuando el valor catastral esté entre
 
 3,815 y 4,964 días de salario mínimo 2.50
 
-3.- Cuando el valor catastral este entre los
+3. Cuando el valor catastral esté entre
 
-4,965 y 6,116 días de salario mínimo 3.50
+los 4,965 y 6,116 días de salario mínimo 3.50
 
-4.- Más de un valor catastral equivalente
+4. Más de un valor catastral equivalente a
 
-a 6,116 días de salario mínimo, se pagará
+6,116 días de salario mínimo, se pagará
 
-sobre dicho valor, el 0.1 por ciento
+sobre dicho valor el 0.1 por ciento
 
-Cuando por motivo de una solicitud de rectificación o medición de un predio, sea necesario el traslado del personal técnico para la verificación física respectiva, se cubrirá previamente el siguiente derecho:
+b).- Por asignación de claves catastrales urbanas en nuevos fraccionamientos o relotificación, se cubrirá el siguiente derecho:
 
-1.- En la ciudad de las oficinas
+1. POPULAR:
 
-catastrales 1.80
+- Por fraccionamiento 9
 
-2.- Fuera de la ciudad de oficinas
+- Más por lote 0.09
 
-centrales 1.80
+2. GRANJAS:
+
+-Por fraccionamiento 11.25
+
+-Más por lote 0.27
+
+3. INDUSTRIAL:
+
+-Por fraccionamiento 11.25
+
+-Más por lote 0.27
+
+4. RESIDENCIAL CAMPESTRE:
+
+-Por fraccionamiento 13
+
+-Más por lote 0.45
+
+5. RESIDENCIAL:
+
+-Por fraccionamiento 15.76
+
+-Más por lote 0.18
+
+c).- Cuando por motivo de una solicitud de rectificación o medición de un predio, sea necesario el traslado del personal técnico para la verificación física respectiva, se cubrirá previamente el siguiente derecho:
+
+1. En la cabecera municipal 1.80
+
+2. Fuera de la cabecera municipal 1.80
 
 - Más, por cada kilómetro recorrido 0.09
 
-l).- Por asignar coordenadas geodésicas
+d).- Por asignar coordenadas geodésicas para la orientación de fraccionamientos:
 
-para la orientación de fraccionamientos 10.00
+-Por cada punto geodésico 10.00
 
-m).- Por medición de terreno y expedición de planos a escala, de la medición efectuada.
+e).- Por medición de terreno, elaboración y expedición de planos, de conformidad con la siguiente clasificación:
 
-1.- Tratándose de predios urbanos:
+1. Tratándose de predios urbanos:
 
-De 0 a 120.00 M2 5.00
+Hasta 120 m2 5.00
 
-De 120.01 a 200.00 M2 6.00
+De 120.01 a 200.00 m2 6.00
 
-De 200.01 a 300.00 M2 7.00
+De 200.01 a 300.00 m2 7.00
 
-De 300.01 a 500.00 M2 7.50
+De 300.01 a 500.00 m2 7.50
 
-De 500.01 a 1,000.00 M2 8.50
+De 500.01 a 1,000.00 m2 8.50
 
-De 1,000.01 a 2,000.00 M2 11.00
+De 1,000.01 a 2,000.00 m2 11.00
 
-De 2,000.01 en adelante 11.00
+Más de 2,000.00 m2 15.00
 
-Por cartografía a escala 1:1,000 en forma digital de la zona urbana de la cabecera Municipal de Comala.
+2. Tratándose de predios rústicos:
 
-n).- Archivos DXF(manzanas, predios y
+Hasta 10-00-00 hectáreas 5.00
 
-nomenclaturas) 75.00
+Más de 10-00-00 hectáreas 8.50
 
-ñ).- Archivos DXF (manzanas, predios,
+IV.- Fusiones, subdivisiones, cesiones y registros:
+
+a).- Por la fusión o subdivisión de predios, cuando el valor catastral de los predios fusionados o subdivididos sea de:
+
+1. Hasta un valor catastral equivalente a
+
+2,250.00 unidades de salario 2.25
+
+2. Más de un valor catastral equivalente
+
+a 2,250.00 unidades de salario, se pagará
+
+sobre dicho valor, el 0.1 por ciento
+
+b).- Registro de cesión de derechos
+
+de predios registrados catastralmente sólo
+
+para el pago de impuesto predial 2.25
+
+c).- Por el registro de actas o avisos notariales en los que se constituya o modifique el régimen de propiedad en condominio:
+
+-Por cada lote, departamento, finca o local 1.80
+
+d).- Por inscripción o registro de títulos documentos públicos o privados, en virtud de los cuales se adquiera, transmita, modifique o extinga el dominio o posesión de bienes inmuebles o modifiquen los registros catastrales:
+
+1. Cuando el valor del inmueble sea hasta
+
+el equivalente a 6,116.00 unidades de
+
+salario 1.80
+
+2. Cuando el valor del inmueble sea mayor
+
+al equivalente de 6,116.00 unidades de
+
+salario 2.70
+
+e).- Por la búsqueda y expedición de
+
+información catastral de predios
+
+rústicos y urbanos 1.80
+
+V.- Por modificar registros
+
+manifestados erróneamente 1.80
+
+VI.- Por cartografía a escala 1:1,000 en forma digital, por cada zona catastral:
+
+a).- Archivos DXF (manzanas, predios
+
+y nomenclaturas) 75.00
+
+b).- Archivos DXF (manzanas, predios,
 
 construcciones, nomenclaturas, cotas
 
@@ -2181,13 +2523,21 @@ fotogramétricas en coordenadas Universal
 
 Transversal de Mercator 120.00
 
-o) Por cartografía a escala 1:10,000 en
+VIl.- Por cartografía del plano general, en formato digital, de la zona urbana de la cabecera municipal:
 
-formato digital de la zona urbana de la
+a).- Archivos DXF (manzanas, predios,
 
-cabecera Municipal de Comala 120.00
+construcciones, nomenclatura de calles,
 
-p).- Archivos DXF (manzanas, predios,
+hidrografía, vías de comunicación,
+
+cotas fotogramétricas en coordenadas
+
+Universal Transversal de Mercator 145.00
+
+VIII.- Por cartografía a escala 1:10,000 en formato digital, por cada población o comunidad:
+
+a).- Archivos DXF (manzanas, predios,
 
 construcciones, nomenclatura de calles,
 
@@ -2195,7 +2545,7 @@ hidrografía, vías de comunicación, cotas
 
 fotogramétricas en coordenadas Universal
 
-Transversal de Mercator 145.00
+Transversal de Mercator 120.00
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 29 DE DICIEMBRE DE 2007)</small>
 
@@ -2241,29 +2591,109 @@ En caso de ser necesario, la unidad de protección civil municipal emitirá su o
 
 El pago de los derechos a que se refiere esta fracción será anual. Deberá cubrirse a la expedición de la licencia municipal de funcionamiento y en el refrendo de la misma.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
 
-D).- OTROS
+D).-ECOLOGÍA
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
 
-###### ARTICULO 84 Bis.
+ARTICULO 84 BIS.- Los montos establecidos para que la dependencia municipal competente otorgue las siguientes autorizaciones, certificaciones y permisos, son:
+
+Unidad de salario
+
+I.- Por el dictamen del informe de factibilidad ambiental para:
+
+a) Obras o actividades con inversión menor
+
+de 650.00 unidades de salario 5.00
+
+b) Obras o actividades con inversión mayor de 650.00 unidades de salario
+
+1.- Por la recepción y evaluación 20.00
+
+2.- Por el otorgamiento del dictamen 10.00
+
+3.- Por la revalidación del dictamen 10.00
+
+II.- Por la autorización para la poda o derribo de cada árbol, tomando en cuenta la Norma Oficial Mexicana NOM- 059-ECOL-2001, de:
+
+a) Especies comerciales (frutales y de ornato) o industriales
+
+1.- Por poda: 0.00
+
+2.- Por derribo:
+
+- Árboles hasta 30 cm. de diámetro de
+
+fuste principal 2.00
+
+- Árboles de 31 hasta 50 cm. de
+
+diámetro de fuste principal 3.00
+
+- Árboles de 51 hasta 70 cm. de
+
+diámetro de fuste principal 5.00
+
+- Árboles de más de 70 cm. de
+
+diámetro de fuste principal 10.00
+
+- Por guía de traslado de madera
+
+obtenida del derribo 1.00
+
+III.- Por la expedición de la cédula de calibración de equipo de perifoneo:
+
+a) Por la emisión de 1 a 2 mensajes 1.00
+
+b) Por la emisión de 3 a 4 mensajes 2.00
+
+IV.- Por la expedición de autorizaciones,
+
+certificaciones y dictámenes no previstos
+
+en este artículo de 1.00 a 100.00
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 18 DE DICIEMBRE DE 2010)</small>
+
+E).- OTROS
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
+
+###### ARTICULO 84 Bis 1.
 
 Por la expedición de otros documentos:
 
 I. Certificación de firmas, por cada una 0.89
 
-II. Certificados, certificaciones, constancias o copias, inclusive de actos de Registro Civil, por cada una 1.00
+II. Certificados, certificaciones,
 
-III. Cuando el certificado, copia o informe requiera búsqueda de antecedentes, excepto copias de actas de Registro Civil, por cada una 1.79
+constancias o copias, inclusive de actos
+
+de Registro Civil, por cada una 1.00
+
+III.- Cuando el certificado, copia o informe
+
+requiera búsqueda de antecedentes,
+
+excepto copias de actas de Registro Civil,
+
+por cada una 1.79
 
 IV. Certificados de residencia 1.79
 
 V. Solvencias fiscales 1.04
 
-VI. Certificados de residencia para fines de naturalización y regulación de situación migratoria y otros fines análogos, por cada uno 2.99
+VI. Certificados de residencia para fines
 
-### CAPITULO IV. DE LOS SERVICIOS PUBLICOS
+de naturalización y regulación de situación
+
+migratoria y otros fines análogos,
+
+por cada uno 2.99
+
+### CAPITULO III. OTROS DERECHOS
 
 #### SECCION PRIMERA. SERVICIOS MEDICOS
 
@@ -2305,7 +2735,7 @@ con base en la zonificación aprobada por
 
 el H. Cabildo de 0.00 a 0.30
 
-(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2005) (F. DE E., P.O. 15 DE MAYO DE 2006
+(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2005) (F. DE E., P.O. 15 DE MAYO DE 2006)
 
 Por los conceptos a que se refiere esta fracción, las personas mayores de 60 años y los tianguistas, pagarán el 50 por ciento de la tarifa aplicable.
 
@@ -2313,11 +2743,63 @@ IV.- Vehículos de transporte urbano colectivo,
 
 anualmente, por cajón 7.34
 
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2010)</small>
+
+V. Las personas físicas o morales que
+
+instalen o tengan instalados aparatos
+
+de telefonía en las vías y áreas
+
+públicas urbanas del municipio pagarán
+
+mensualmente por caseta 2.00
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2010)</small>
+
+VI. Por el uso de la vía pública para
+
+negocios establecidos, por metro lineal,
+
+mensualmente. 1.00 a 2.00
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2010)</small>
+
+VII. Por el uso de la vía pública (materiales
+
+para construcción, escombro, cascajo,
+
+grava, arena y piedra), por metro lineal;
+
+diariamente 0.50 a 2.00
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2010)</small>
+
+VIII. Otros derechos no especificados
+
+en esta sección 2.30
+
+> <small>(ADICIONADA CON EL ARTICULO QUE LO INTEGRA, P.O. 18 DE DICIEMBRE DE 2010)</small>
+
+#### SECCIÓN TERCERA. SERVICIOS DE SEGURIDAD PÚBLICA
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2010)</small>
+
+ARTICULO 86 A.- Los servicios de seguridad pública que soliciten los particulares, se pagarán por cada elemento, por día, conforme a la siguiente tarifa:
+
+Unidades de salario
+
+1. Discotecas 3.00
+
+2. Comercial de 5.00 a 10.00
+
+3. Fiestas particulares de 10.00 a 20.00
+
+4. Otros de 1.00 a 10.00
+
+### CAPITULO IV. DE LOS SERVICIOS PUBLICOS
+
 #### SECCION PRIMERA. ALUMBRADO PUBLICO
-
-### CAPITULO V. DE LAS CONCESIONES DE BIENES Y SERVICIOS PUBLICOS
-
-#### SECCION SEGUNDA. ASEO PUBLICO
 
 ###### ARTICULO 87.
 
@@ -2365,7 +2847,7 @@ de 30,000,001 a 45,000,000 0.50
 
 de 45,000,001 en adelante 0.40
 
-#### SECCION TERCERA. CEMENTERIOS
+#### SECCION SEGUNDA. ASEO PUBLICO
 
 ###### ARTICULO 92.
 
@@ -2453,7 +2935,7 @@ III. Al momento de prestarse el servicio: en los casos señalados en las fraccio
 
 IV. Cinco días posteriores al requerimiento de pago al propietario o poseedor del predio, en el supuesto de la fracción IV.
 
-#### SECCION CUARTA. RASTRO MUNICIPAL
+#### SECCION TERCERA. CEMENTERIOS
 
 ###### ARTICULO 96.
 
@@ -2487,6 +2969,8 @@ VI.- Traspaso de títulos de propiedad 1.80
 
 Por el permiso de construcción de monumentos, se cobrará el uno por ciento del monto de la construcción, incluyendo materiales y mano de obra. Si este pago resulta inferior a dos unidades de salario, se cobrará esta cantidad.
 
+#### SECCION CUARTA. RASTRO MUNICIPAL
+
 ###### ARTICULO 98.
 
 Los derechos por rastro municipal deberán ser cubiertos en forma anticipada en la Tesorería Municipal o en las oficinas de rastro, cuando haya recaudadores autorizados para ese fin.
@@ -2519,13 +3003,19 @@ La autoridad municipal que corresponda, queda facultada para retener pieles y ca
 
 Igualmente queda facultada para decomisar carnes no aptas para el consumo humano, las cuales deberán ser incineradas de inmediato.
 
-### CAPITULO I. VENTA DE BIENES MUEBLES E INMUEBLES PROPIEDAD DEL MUNICIPIO
+### CAPITULO V. DE LAS CONCESIONES DE BIENES Y SERVICIOS PUBLICOS
 
 ###### ARTICULO 103.
 
 Los servicios públicos que de conformidad con la Ley del Municipio Libre del Estado sean concesionados, causarán los derechos que se establezcan en el título de concesión correspondiente y en las disposiciones específicas que expida el Cabildo.
 
-### CAPITULO II. ARRENDAMIENTO, EXPLOTACION O USO DE BIENES MUEBLES E INMUEBLES PROPIEDAD DEL MUNICIPIO
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 18 DE DICIEMBRE DE 2010)</small>
+
+### CAPITULO VI. DE LOS ACCESORIOS DE LOS DERECHOS
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
+
+ARTICULO 103 A.- En los términos de lo dispuesto en el último párrafo del artículo 6° del Código, el municipio percibirá de manera accesoria a los Derechos señalados en este Título, los recargos, la indemnización, las multas, los gastos y los honorarios a que se refieren los artículos 25, 26, 50, 51 y 69, respectivamente, de ese Código, clasificándolos como parte de los Derechos.
 
 ## TITULO QUINTO. DE LOS PRODUCTOS
 
@@ -2537,13 +3027,13 @@ Son productos los ingresos que perciba el municipio por actividades que no corre
 
 El importe de los ingresos por concepto de productos que se señale en los siguientes capítulos deberá ser cubierto en la Tesorería Municipal o en el lugar que ésta designe. También se efectuará en las oficinas o módulos de atención automatizados, permanentes o temporales, establecidos fuera de las instalaciones de la Tesorería. Para determinar el pago por concepto de productos se considerarán, inclusive, las fracciones del peso. Sin embargo, para efecto de la determinación y liquidación del monto a pagar en los módulos de atención automatizados se deberá observar la siguiente regla de ajuste: los montos que contengan cantidades que incluyan de 1 hasta 50 centavos se ajustarán a la unidad inmediata inferior y los que contengan cantidades de 51 a 99 centavos, se ajustarán a la unidad inmediata superior.
 
-### CAPITULO III. RENDIMIENTOS FINANCIEROS DE CAPITAL Y VALORES
+### CAPITULO I. VENTA DE BIENES MUEBLES E INMUEBLES PROPIEDAD DEL MUNICIPIO
 
 ###### ARTICULO 105.
 
 El municipio obtendrá ingresos por la enajenación de bienes, siempre y cuando ésta se realice con la autorización del Cabildo, en los términos de las leyes respectivas.
 
-### CAPITULO IV. VENTA DE PUBLICACIONES
+### CAPITULO II. ARRENDAMIENTO, EXPLOTACION O USO DE BIENES MUEBLES E INMUEBLES PROPIEDAD DEL MUNICIPIO
 
 ###### ARTICULO 106.
 
@@ -2577,37 +3067,37 @@ b) Sección nueva 7.18
 
 II. En los cementerios ubicados fuera de la cabecera municipal, se causará y pagará sólo el 50 por ciento del total del costo.
 
-### CAPITULO V. VENTA DE BIENES VACANTES, MOSTRENCOS Y OBJETOS DECOMISADOS
+### CAPITULO III. RENDIMIENTOS FINANCIEROS DE CAPITAL Y VALORES
 
 ###### ARTICULO 108.
 
 Los ingresos que se obtengan por los rendimientos financieros o intereses generados por las inversiones y valores que realice el Ayuntamiento, se incorporarán al fondo o cuenta correspondiente.
 
-### CAPITULO VI. VENTA DE PRODUCTOS PROCEDENTES DE VIVEROS, CAMELLONES Y JARDINES PUBLICOS
+### CAPITULO IV. VENTA DE PUBLICACIONES
 
 ###### ARTICULO 109.
 
 A las publicaciones se les fijará su precio, tomando en cuenta su costo.
 
-### CAPITULO VII. VENTA DE ESQUILMOS, PRODUCTOS DE APARCERIA, DESECHOS Y BASURA
+### CAPITULO V. VENTA DE BIENES VACANTES, MOSTRENCOS Y OBJETOS DECOMISADOS
 
 ###### ARTICULO 110.
 
 La venta de bienes a que se refiere este Capítulo será a través de subastas observando las disposiciones que sobre el remate de bienes embargados prevé el Código.
 
-### CAPITULO VIII. OTROS PRODUCTOS
+### CAPITULO VI. VENTA DE PRODUCTOS PROCEDENTES DE VIVEROS, CAMELLONES Y JARDINES PUBLICOS
 
 ###### ARTICULO 111.
 
 El cobro por la venta de productos procedentes de viveros y jardines públicos, será de conformidad con el acuerdo del Cabildo.
 
-### CAPITULO UNICO
+### CAPITULO VII. VENTA DE ESQUILMOS, PRODUCTOS DE APARCERIA, DESECHOS Y BASURA
 
 ###### ARTICULO 112.
 
 La venta de esquilmos, productos de aparcería, desechos y basura, será de conformidad con el acuerdo del Cabildo.
 
-### CAPITULO UNICO
+### CAPITULO VIII. OTROS PRODUCTOS
 
 ###### ARTICULO 113.
 
@@ -2649,33 +3139,15 @@ especificados Según acuerdo de Cabildo
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 114.
 
-Los ingresos por concepto de aprovechamientos serán los que el municipio perciba por:
+Los ingresos por concepto de aprovechamientos serán los que el municipio perciba por las multas de orden administrativo que en el uso de sus facultades imponga la autoridad municipal, incluidos los descuentos a las mismas.
 
-I. Recargos.
+Se consideran aprovechamientos también los ingresos que obtenga el municipio por intereses, indemnizaciones de terceros o por responsabilidades de los servidores públicos, reintegros, aportaciones y apoyos de terceros, depósitos y otros no especificados.
 
-II. Multas.
-
-III. Intereses.
-
-IV. Reintegros.
-
-V. Indemnizaciones.
-
-VI. Aportaciones de los gobiernos federal, estatal y de terceros para obras y servicios de beneficio social a cargo del municipio.
-
-VII. Apoyos especiales o extraordinarios.
-
-VIII. Depósitos.
-
-IX. Gastos de ejecución.
-
-X. Otros no especificados.
-
-> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 2006)</small>
-
-En el supuesto del párrafo tercero del artículo 19 de esta Ley, se cobrará a los contribuyentes ahí señalados, el 50 por ciento de los recargos y multas que se hayan generado hasta que se efectúe el pago correspondiente.
+En los términos de lo dispuesto en el último párrafo del artículo 6°-A del Código, el municipio percibirá de manera accesoria a los Aprovechamientos señalados en este Título, los recargos, la indemnización, las multas, los gastos y los honorarios a que se refieren los artículos 25, 26, 50, 51 y 69, respectivamente, de ese Código, clasificándolos como parte de los Aprovechamientos.
 
 ###### ARTICULO 115.
 
@@ -2689,33 +3161,59 @@ El importe de los ingresos por concepto de multas deberá ser cubierto en la Tes
 
 Para determinar el pago por concepto de multas se considerarán, inclusive, las fracciones del peso. Sin embargo, para efecto de la determinación y liquidación del monto a pagar en los módulos de atención automatizados se deberá observar la siguiente regla de ajuste: los montos que contengan cantidades que incluyan de 1 hasta 50 centavos se ajustarán a la unidad inmediata inferior y los que contengan cantidades de 51 a 99 centavos, se ajustarán a la unidad inmediata superior.
 
-## TITULO SEPTIMO. DE LAS PARTICIPACIONES FEDERALES
+> <small>(REFORMADA SU DENOMINACION, P.O. 18 DE DICIEMBRE DE 2010)</small>
 
-### CAPITULO UNICO
+## TITULO SÉPTIMO. DE LAS PARTICIPACIONES, APORTACIONES Y RECURSOS TRANSFERIDOS
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
+
+### CAPITULO I. DE LAS PARTICIPACIONES
+
+> <small>(REFORMADO Y REUBICADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 116.
 
-Los honorarios, recargos y gastos de ejecución a que se refiere el Código, serán condonables con la autorización del Congreso y a petición del Cabildo.
+Las participaciones federales son aquellos ingresos que recibe el municipio de conformidad con las leyes de coordinación fiscal, el Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal, al Convenio de Colaboración Administrativa en Materia Fiscal Federal y sus anexos.
 
-Los gastos de cobranza y de ejecución que se generen con motivo de la realización del procedimiento administrativo de ejecución, se registrarán por la Tesorería Municipal, hasta el momento en que efectivamente se cobren, sin clasificarlos en el concepto de la contribución o aprovechamiento del cual son accesorios.
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
 
-Con el propósito de elevar la recaudación tributaria y obtener una mayor eficiencia administrativa, se creará un fondo integrado por los gastos de cobranza y ejecución, que se destinará a incentivar al personal, repartiéndolo entre los que participen directa e indirectamente en la recuperación de los mismos, debiendo crear la partida presupuestal correspondiente.
+### CAPITULO II. DE LAS APORTACIONES
+
+> <small>(REFORMADO Y REUBICADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 117.
 
-Las participaciones federales son aquellos ingresos que recibe el municipio de conformidad con las leyes de coordinación fiscal, el Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal, al Convenio de Colaboración Administrativa en Materia Fiscal Federal y sus anexos.
+Son los ingresos que percibirá el Ayuntamiento en forma independiente y adicional a las participaciones que obtiene de la Federación, con base en las estimaciones que se tengan de la recaudación federal participable, señaladas en el Presupuesto de Egresos de la Federación.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
+
+### CAPITULO III. DE LOS RECURSOS TRANSFERIDOS
+
+> <small>(REFORMADO Y REUBICADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 118.
 
-Son los ingresos que percibirá el Ayuntamiento en forma independiente y adicional a la (sic) participaciones que obtiene de la federación, con base en las estimaciones que se tengan de la recaudación federal participable.
+Son los ingresos que percibirá el Ayuntamiento por los convenios suscritos con el gobierno federal o estatal destinados a la ejecución de programas federales o estatales mediante la reasignación de responsabilidades y recursos presupuestarios al municipio, de conformidad con las reglas de operación autorizadas, así como los que se deriven de los convenios de colaboración administrativa en materia de coordinación fiscal pactados con el Estado o la Federación.
 
-## TITULO OCTAVO. RECURSOS FEDERALIZADOS
+> <small>(REFORMADA SU DENOMINACION, P.O. 18 DE DICIEMBRE DE 2010)</small>
+
+## TITULO OCTAVO. INGRESOS EXTRAORDINARIOS
+
+### CAPITULO UNICO
+
+> <small>(REFORMADO Y REUBICADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 119.
 
-Son ingresos extraordinarios los que perciba la hacienda pública municipal, de conformidad con las leyes correspondientes.
+Son ingresos extraordinarios los que perciba la hacienda pública municipal por financiamientos, transferencias, subsidios y subvenciones, ayudas sociales y otros ingresos que obtenga el municipio, de conformidad con las leyes correspondientes.
 
-## TITULO NOVENO. INGRESOS EXTRAORDINARIOS
+> <small>(DEROGADO CON EL CAPITULO QUE LO INTEGRA, P.O. 18 DE DICIEMBRE DE 2010)</small>
+
+## TITULO NOVENO
+
+> <small>(DEROGADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
+
+### CAPITULO UNICO
 
 ## TRANSITORIOS
 
@@ -2864,3 +3362,7 @@ UNICO.- El presente Decreto entrará en vigor el día de su aprobación y deber�
 P.O. 19 DE DICIEMBRE DE 2009.
 
 ÚNICO.- El presente Decreto entrará en vigor el 01 de enero de 2010, previa su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 18 DE DICIEMBRE DE 2010.
+
+ÚNICO.- El presente Decreto entrará en vigor el 1°. de enero de 2011, previa su publicación en el Periódico Oficial "El Estado de Colima".
