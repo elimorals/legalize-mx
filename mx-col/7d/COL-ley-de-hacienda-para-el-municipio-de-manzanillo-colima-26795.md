@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-para-el-municipio-de-manzanillo-colima-26795"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-11"
-last_updated: "2009-12-19"
+last_updated: "2010-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26795&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,73 +23,27 @@ state: "COL"
 ---
 # LEY DE HACIENDA PARA EL MUNICIPIO DE MANZANILLO, COLIMA
 
-ACUERDO GENERAL NÚMERO 11/2025 (12A.) DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE TRES DE SEPTIEMBRE DE DOS MIL VEINTICINCO, QUE REGULA LA REMISIÓN DE RECURSOS DE REVISIÓN EN AMPARO INDIRECTO POR LOS TRIBUNALES COLEGIADOS DE CIRCUITO EN ASUNTOS DE SU COMPETENCIA
+LEY DE HACIENDA PARA EL MUNICIPIO DE MANZANILLO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE DICIEMBRE DE 2010.
 
-Acuerdo publicado en el Diario Oficial de la Federación, el lunes 22 de septiembre de 2025.
+Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el lunes 11 de noviembre de 2002.
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Suprema Corte de Justicia de la Nación.- Secretaría General de Acuerdos.
+FERNANDO MORENO PEÑA, Gobernador Constitucional del Estado Libre y Soberano de Colima, a sus habitantes sabed:
 
-ACUERDO GENERAL NÚMERO 11/2025 (12a.) DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE TRES DE SEPTIEMBRE DE DOS MIL VEINTICINCO, QUE REGULA LA REMISIÓN DE RECURSOS DE REVISIÓN EN AMPARO INDIRECTO POR LOS TRIBUNALES COLEGIADOS DE CIRCUITO EN ASUNTOS DE SU COMPETENCIA.
+Que el H. Congreso del Estado me ha dirigido para su publicación el siguiente
 
-RECONOCIMIENTO
+D E C R E T O
 
-La competencia para conocer del recurso de revisión en amparo indirecto corresponde originariamente a la Suprema Corte de Justicia de la Nación (SCJN); sin embargo, por la carga de trabajo se delegó la competencia a los Tribunales Colegiados de Circuito para resolver las cuestiones de legalidad o de constitucionalidad tratándose de leyes locales, reglamentos o cualquier disposición de observancia local o bien, de leyes federales o tratados internacionales en los que exista jurisprudencia aplicable emitida por los Plenos Regionales o por la SCJN, o tres precedentes resueltos en el mismo sentido.
+EL HONORABLE CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE COLIMA, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIEREN LOS ARTICULOS 33 FRACCION IV Y 39, DE LA CONSTITUCION POLITICA LOCAL, Y
 
-No obstante, la SCJN conservó su competencia originaria en los casos en que subsista el problema de constitucionalidad de leyes federales, tratados internacionales, o la interpretación directa de algún precepto constitucional o convencional, no exista jurisprudencia o tres precedentes resueltos en el mismo sentido, conforme al artículo 107, fracción VIII, de la Constitución Política de los Estados Unidos Mexicanos (CPEUM); o bien, cuando se trate de un asunto que por su interés y trascendencia la SCJN ejerza su facultad de atracción o reasuma su competencia originaria.
+...
 
-Por este motivo, se expide el presente Acuerdo General a fin de establecer las reglas que deben seguir los Tribunales Colegiados de Circuito, al conocer de los recursos de revisión en amparo indirecto, cuando estimen que la SCJN deba conocer del asunto.
+Por lo anteriormente expuesto se expide el siguiente
 
-CONSIDERANDO
+DECRETO 277
 
-PRIMERO. Problemática. Conforme al segundo informe anual de labores 2024 de la SCJN(1), en ese año de los 16,129 asuntos recibidos se registraron 832 amparos en revisión, de los cuales 486 fueron admitidos, 263 desechados, 80 devueltos a Tribunales Colegiados de Circuito y 3 remitidos a Juzgados de Distrito.
-
-(1) https://www.scjn.gob.mx/informedelabores/pjf/pdf/informe-anual-de-labores-2024.pdf
-
-El principal objeto de análisis en los amparos en revisión fueron las leyes del Congreso de la Unión sobre las que no existía criterio, así como las leyes de las Entidades Federativas. Asimismo, se contabilizaron 39 asuntos que la SCJN decidió atraer por su interés y trascendencia.
-
-SEGUNDO. Base constitucional y legal. El artículo 107, fracción VIII, de la CPEUM establece que procede el recurso de revisión contra sentencias dictadas en amparo por Juezas y Jueces de Distrito o por Tribunales Colegiados de Apelación y que corresponderá conocer a la SCJN cuando en la demanda se hayan impugnado normas generales por considerarlas contrarias a la CPEUM, siempre que en el recurso subsista el problema de constitucionalidad, así como en los casos relacionados con lo previsto en las fracciones II y III del artículo 103 de la CPEUM.
-
-También prevé que la SCJN podrá conocer de los amparos en revisión que, por su interés y trascendencia, así lo ameriten. En el mismo sentido, los artículos 81, fracción I, inciso e) y 83 de la Ley de Amparo (LA), así como el artículo 16, fracción III, de la Ley Orgánica del Poder Judicial de la Federación (LOPJF), establecen los supuestos en los que procede el recurso de revisión en amparo indirecto cuyo conocimiento corresponde a la SCJN, cuando en la sentencia se haya abordado la constitucionalidad de normas generales o se realice una interpretación directa de preceptos constitucionales.
-
-Así, en el punto Cuarto del Acuerdo General 2/2025 del Pleno de la SCJN se delegó a los Tribunales Colegiados de Circuito competencia para conocer de los recursos de revisión, salvo que se trate de la constitucionalidad de leyes federales, tratados internacionales, o la interpretación directa de algún precepto constitucional o convencional, en los que no exista precedente, o bien, se hubiera ejercido la facultad de atracción o reasumido la competencia originaria.
-
-TERCERO. Regulación. Considerando que no existe disposición expresa sobre los aspectos que deberán verificar los Tribunales Colegiados de Circuito antes de remitir un recurso de revisión en amparo indirecto a la SCJN, se estima necesario emitir el presente Acuerdo General.
-
-Por ello, con fundamento en el artículo 94, párrafos quinto y noveno, de la CPEUM, el Pleno de la SCJN expide el siguiente:
-
-ACUERDO
-
-PRIMERO. Objeto. Las disposiciones contenidas en el presente Acuerdo General tienen por objeto establecer las reglas que deben observar los Tribunales Colegiados de Circuito para remitir los recursos de revisión en amparo indirecto a la SCJN, conforme a los artículos 107, fracción VIII, de la CPEUM; 81, fracción I, inciso e), de la LA y, 16, fracción III, de la LOPJF.
-
-SEGUNDO. Procedencia y trámite en los Tribunales Colegiados de Circuito. Cuando los Tribunales Colegiados de Circuito, conozcan de los recursos de revisión interpuestos en contra de sentencias pronunciadas por los Juzgados de Distrito o por los Tribunales Colegiados de Apelación, deberán proceder de la forma siguiente:
-
-I. Verificarán la procedencia del recurso de revisión, la vía procesal correspondiente y en su caso, resolverán sobre el desistimiento o la reposición del procedimiento;
-
-II. Abordarán el estudio de los agravios relacionados con las causas de improcedencia del juicio y, en su caso, examinarán las formuladas por las partes, cuyo estudio se hubiese omitido en la sentencia recurrida, así como las que adviertan de oficio;
-
-Si determinan que debe sobreseerse en el juicio o que el recurso de revisión es notoriamente improcedente, deberán dictar la resolución correspondiente sin remitir el asunto a la SCJN;
-
-III. De resultar procedente el juicio, cuando el asunto no quede comprendido en los supuestos de competencia delegada del recurso de revisión por subsistir el problema de constitucionalidad de una ley federal, tratado internacional o la interpretación directa de algún precepto constitucional o convencional, respecto de los cuales no exista jurisprudencia o tres precedentes resueltos en el mismo sentido por la SCJN con la misma integración que se encuentre en funciones, el Tribunal Colegiado de Circuito dejará a salvo la jurisdicción de la SCJN y le remitirá los autos, sin analizar los conceptos de violación expuestos, aun los de mera legalidad, y
-
-IV. Si el problema de fondo es de la competencia del Tribunal Colegiado de Circuito, examinará si el asunto reviste interés y trascendencia, en cuyo caso lo hará del conocimiento de la SCJN para que se pronuncie sobre la reasunción de competencia. En caso contrario, resolverá el problema de inconstitucionalidad de normas generales planteado en la demanda y, enseguida los de mera legalidad.
-
-TERCERO. Reasunción de competencia. Cuando el Tribunal Colegiado advierta que el asunto reviste interés y trascendencia, seguirá el trámite establecido en el diverso “ACUERDO GENERAL 4/2025 (12a.) DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN QUE ESTABLECE EL TRÁMITE DE LAS SOLICITUDES DE EJERCICIO DE LA FACULTAD DE ATRACCIÓN Y DE REASUNCIÓN DE COMPETENCIA” y, mediante resolución colegiada, remitirá por vía electrónica la solicitud y anexos que estime necesarios para resolver.
-
-CUARTO. Remisión a la SCJN. En todos los casos en que se deba remitir el asunto a la SCJN, el Tribunal Colegiado de Circuito incluirá un oficio en el que exponga las razones por las que considera que deba conocer la SCJN.
-
-## TRANSITORIOS
-
-PRIMERO. El presente Acuerdo General entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-SEGUNDO. Publíquese el presente Acuerdo General en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta así como en medios electrónicos de consulta pública, en términos de lo dispuesto en el artículo 65, fracción I, de la Ley General de Transparencia y Acceso a la Información Pública.
-
-El Presidente de la Suprema Corte de Justicia de la Nación, Ministro Hugo Aguilar Ortiz.- Rúbrica.- El Secretario General de Acuerdos, Lic. Rafael Coello Cetina.- Rúbrica.
-
-El licenciado Rafael Coello Cetina, Secretario General de Acuerdos de la Suprema Corte de Justicia de la Nación, CERTIFICA: Este ACUERDO GENERAL NÚMERO 11/2025 (12a.) DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE TRES DE SEPTIEMBRE DE DOS MIL VEINTICINCO, QUE REGULA LA REMISIÓN DE RECURSOS DE REVISIÓN EN AMPARO INDIRECTO POR LOS TRIBUNALES COLEGIADOS DE CIRCUITO EN ASUNTOS DE SU COMPETENCIA, fue aprobado por el Tribunal Pleno en Sesión Privada celebrada el día de hoy, por unanimidad de nueve votos de las señoras Ministras Lenia Batres Guadarrama, Yasmín Esquivel Mossa, Loretta Ortiz Ahlf, María Estela Ríos González y Sara Irene Herrerías Guerra así como por los señores Ministros Giovanni Azael Figueroa Mejía, Irving Espinosa Betanzo, Arístides Rodrigo Guerrero García y Presidente Hugo Aguilar Ortiz.- Ciudad de México, a tres de septiembre de dos mil veinticinco.- Rúbrica.
-
-EL LICENCIADO RAFAEL COELLO CETINA, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, CERTIFICA: Que esta copia fotostática constante de cinco fojas útiles, incluyendo esta certificación, concuerda fiel y exactamente con el original del ACUERDO GENERAL NÚMERO 11/2025 (12a.) DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE TRES DE SEPTIEMBRE DE DOS MIL VEINTICINCO, QUE REGULA LA REMISIÓN DE RECURSOS DE REVISIÓN EN AMPARO INDIRECTO POR LOS TRIBUNALES COLEGIADOS DE CIRCUITO EN ASUNTOS DE SU COMPETENCIA, que obra en los archivos de la sección de instrumentos normativos de esta Secretaría General de Acuerdos y se expide para su publicación en el Diario Oficial de la Federación.- Ciudad de México, a cinco de septiembre de dos mil veinticinco. Doy fe.- Rúbrica.
+POR EL QUE SE EXPIDE LA LEY DE HACIENDA PARA EL MUNICIPIO DE MANZANILLO
 
 ###### ARTICULO UNICO.
 
@@ -101,19 +55,31 @@ LEY DE HACIENDA PARA EL MUNICIPIO DE MANZANILLO
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 1º.
 
-El Municipio de Manzanillo, para cubrir su gasto público, percibirá en cada ejercicio fiscal los ingresos derivados de los impuestos, derechos, contribuciones especiales, productos y aprovechamientos que se establecen en esta Ley, en porcentajes, tasas específicas o en salarios mínimos de la zona económica a que corresponde el municipio, así como las participaciones y fondos federales y locales derivadas de las leyes y convenios de coordinación respectivos. La facultad del Ayuntamiento en el cobro de impuestos, derechos, contribuciones especiales, productos y aprovechamientos es irrenunciable.
+El Municipio de Manzanillo, para cubrir su gasto público, percibirá en cada ejercicio fiscal los ingresos derivados de los impuestos, derechos, contribuciones de mejoras, productos y aprovechamientos que se establecen en esta Ley, en porcentajes, tasas específicas o en salarios mínimos de la zona económica a que corresponde el municipio, así como las participaciones aportaciones y recursos transferidos derivados de la leyes y convenios de coordinación respectivos. La facultad del Ayuntamiento en el cobro de impuestos, derechos, contribuciones de mejoras, productos y aprovechamientos es irrenunciable.
 
 ###### ARTICULO 2º.
 
 Únicamente el Congreso del Estado, mediante disposición de carácter general, podrá condonar o eximir total o parcialmente del cumplimiento de obligaciones fiscales cuando por causas graves se afecte la situación de alguna región o rama de actividad económica del municipio, con excepción de lo previsto por el artículo 115, fracción IV, inciso c), párrafo segundo de la Constitución Política de los Estados Unidos Mexicanos.
 
-El Cabildo, de conformidad con la reglamentación correspondiente, podrá otorgar incentivos y apoyos para promover la inversión, a fin de impulsar el crecimiento económico de los sectores productivos, de manera integral, sostenido y sustentable del Municipio e incrementar el bienestar social de sus habitantes.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
+
+El Ayuntamiento, de conformidad con la reglamentación correspondiente, podrá otorgar incentivos y apoyos para promover la inversión, a fin de impulsar el crecimiento económico de los sectores productivos, de manera integral, sostenido y sustentable, e incrementar el bienestar social de sus habitantes.
 
 > <small>(ADICIONADO, P.O. 16 DE OCTUBRE DE 2004)</small>
 
 Para determinar el pago de las contribuciones se considerarán, inclusive, las fracciones del peso. Sin embargo, para efecto de la determinación y liquidación del monto a pagar en las oficinas ó módulos de atención automatizados se deberá observar la regla de ajuste prevista en el artículo 12 del Código Fiscal Municipal del Estado de Colima. No se considerará como error en la determinación y liquidación de contribuciones o créditos fiscales, cuando se aplique la regla de ajuste correspondiente a que se refiere el citado precepto.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
+
+ARTICULO 2° A.- Los honorarios, recargos y gastos de ejecución a que se refiere el Código, serán condonables con la autorización del Congreso y a petición del Ayuntamiento.
+
+Los gastos de cobranza y de ejecución que se generen con motivo de la realización del procedimiento administrativo de ejecución, se registrarán por la tesorería municipal, hasta el momento en que efectivamente se cobren.
+
+Con el propósito de elevar la recaudación tributaria y obtener una mayor eficiencia administrativa, se creará un fondo integrado por los gastos de cobranza y ejecución, que se destinará a incentivar al personal, repartiéndolo entre los que participen directa e indirectamente en la recuperación de los mismos, debiendo crear la partida presupuestal correspondiente.
 
 ###### ARTICULO 3º.
 
@@ -127,7 +93,9 @@ III. Registro, al Registro Público de la Propiedad y del Comercio del Estado de
 
 IV. Congreso, al Congreso del Estado de Colima; y
 
-V. Código, al Código Fiscal Municipal.
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2010)</small>
+
+V. Código, al Código Fiscal Municipal del Estado de Colima.
 
 > <small>(ADICIONADA, P.O. 15 DE ENERO DE 2003)</small>
 
@@ -305,9 +273,11 @@ Los notarios públicos, para autorizar en forma definitiva escrituras en que se 
 
 Únicamente están exentos del pago de este impuesto los bienes del dominio público de la federación, del Estado y de sus municipios, salvo que sean utilizados por entidades paraestatales, paramunicipales o por particulares, bajo cualquier título, con fines administrativos o propósitos distintos a su objeto público.
 
-> <small>(REFORMADO, P.O. 6 DE MARZO DE 2005)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-Se concede el 12 por ciento de bonificación a los contribuyentes que paguen el impuesto predial por anualidad adelantada durante los meses de enero, febrero y marzo, siempre que el monto de dicho impuesto sea mayor a 2 unidades de salarios, en predios urbanos y 3 unidades de salarios en predios rústicos. Quienes cubran la anualidad por adelantado quedan liberados del pago de los incrementos que sufra el salario mínimo general durante el ejercicio correspondiente.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+
+Se concede el 14, 12 y 10 por ciento de bonificación a los contribuyentes que paguen el impuesto predial por anualidad adelantada durante los meses de enero, febrero y marzo, respectivamente; siempre que el monto de dicho impuesto sea mayor a 2 unidades de salarios, en predios urbanos y 3 unidades de salarios en predios rústicos. Quienes cubran la anualidad por adelantado quedan liberados del pago de los incrementos que sufra el salario mínimo general durante el ejercicio correspondiente.
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
@@ -693,11 +663,23 @@ Garantizarán preferentemente el pago de este impuesto con los bienes inmuebles 
 
 No se pagará el impuesto por los espectáculos públicos de funciones de cine y palenques de gallos.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2010)</small>
+
+### CAPÍTULO IV. DE LOS ACCESORIOS DE LOS IMPUESTOS
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
+
+ARTICULO 51 A.- En los términos de lo dispuesto en el último párrafo del artículo 6o del Código, el municipio percibirá de manera accesoria a los Impuestos señalados en este Título, los recargos, la indemnización, las multas, los gastos y los honorarios a que se refieren los artículos 25, 26, 50, 51 y 69, respectivamente, de ese Código, clasificándolos como parte de los Impuestos.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
+
+ARTICULO 51 B.- En el supuesto del párrafo tercero del artículo 19 de esta Ley, se cobrará a los contribuyentes ahí señalados, el 50 por ciento de los recargos y multas que se hayan generado hasta que se efectúe el pago correspondiente.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 18 DE DICIEMBRE DE 2010)</small>
+
+## TITULO TERCERO. CONTRIBUCIONES DE MEJORAS
+
 ### CAPITULO UNICO
-
-## TITULO TERCERO. CONTRIBUCIONES ESPECIALES
-
-### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### ARTICULO 52.
 
@@ -717,7 +699,7 @@ Son solidariamente responsables del pago de esta contribución los adquirentes d
 
 ## TITULO CUARTO. DE LOS DERECHOS
 
-### CAPITULO II. DE LAS LICENCIAS, PERMISOS, AUTORIZACIONES, REFRENDOS, REGISTROS, CERTIFICACIONES Y LEGALIZACIONES
+### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### ARTICULO 56.
 
@@ -745,7 +727,7 @@ El servidor público que preste algún servicio por el que se cause un derecho, 
 
 En caso de discrepancia acerca de la procedencia o cuantificación del derecho, cuando de su pago dependa la prestación del servicio, el depósito en la Tesorería Municipal del importe fijado por el Tesorero, en los términos establecidos en las leyes fiscales, tomando en cuenta la opinión del titular de la dependencia municipal a que corresponda el derecho, dará lugar a la prestación de dicho servicio.
 
-### CAPITULO III. OTROS DERECHOS
+### CAPITULO II. DE LAS LICENCIAS, PERMISOS, AUTORIZACIONES, REFRENDOS, REGISTROS, CERTIFICACIONES Y LEGALIZACIONES
 
 #### SECCION PRIMERA. DE LAS LICENCIAS, PERMISOS, AUTORIZACIONES Y REFRENDOS
 
@@ -3127,7 +3109,7 @@ III. Solvencias fiscales 1.96
 
 IV. Constancias 1.00
 
-### CAPITULO IV. DE LOS SERVICIOS PUBLICOS
+### CAPITULO III. OTROS DERECHOS
 
 #### SECCION PRIMERA. SERVICIOS MEDICOS
 
@@ -3265,7 +3247,7 @@ vehículos de carga pesada dentro del
 
 primer cuadro, por cada evento 1.50
 
-### CAPITULO V. DE LAS CONCESIONES DE BIENES Y SERVICIOS PUBLICOS
+### CAPITULO IV. DE LOS SERVICIOS PUBLICOS
 
 #### SECCION PRIMERA. ALUMBRADO PUBLICO
 
@@ -3605,13 +3587,19 @@ La autoridad municipal que corresponda, queda facultada para retener pieles y ca
 
 Igualmente queda facultada para decomisar carnes no aptas para el consumo humano, las cuales deberán ser incineradas de inmediato.
 
-### CAPITULO I. VENTA DE BIENES MUEBLES E INMUEBLES PROPIEDAD DEL MUNICIPIO
+### CAPITULO V. DE LAS CONCESIONES DE BIENES Y SERVICIOS PUBLICOS
 
 ###### ARTICULO 106.
 
 Los servicios públicos que de conformidad con la Ley del Municipio Libre del Estado sean concesionados, causarán los derechos que se establezcan en el título de concesión correspondiente y en las disposiciones específicas que expida el Cabildo.
 
-### CAPITULO II. ARRENDAMIENTO, EXPLOTACION O USO DE BIENES MUEBLES E INMUEBLES PROPIEDAD DEL MUNICIPIO
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 18 DE DICIEMBRE DE 2010)</small>
+
+### CAPÍTULO VI. DE LOS ACCESORIOS DE LOS DERECHOS
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
+
+ARTICULO 106 A.- En los términos de lo dispuesto en el último párrafo del artículo 6° del Código, el municipio percibirá de manera accesoria a los Derechos señalados en este Título, los recargos, la indemnización, las multas, los gastos y los honorarios a que se refieren los artículos 25, 26, 50, 51 y 69, respectivamente, de ese Código, clasificándolos como parte de los Derechos.
 
 ## TITULO QUINTO. DE LOS PRODUCTOS
 
@@ -3627,13 +3615,13 @@ El importe de los ingresos por concepto de productos que se señale en los sigui
 
 Para determinar el pago por concepto de productos se considerarán, inclusive, las fracciones del peso. Sin embargo, para efecto de la determinación y liquidación del monto a pagar en los módulos de atención automatizados se deberá observar la siguiente regla de ajuste: los montos que contengan cantidades que incluyan de 1 hasta 50 centavos se ajustarán a la unidad inmediata inferior y los que contengan cantidades de 51 a 99 centavos, se ajustarán a la unidad inmediata superior.
 
-### CAPITULO III. RENDIMIENTOS FINANCIEROS DE CAPITAL Y VALORES
+### CAPITULO I. VENTA DE BIENES MUEBLES E INMUEBLES PROPIEDAD DEL MUNICIPIO
 
 ###### ARTICULO 108.
 
 El municipio obtendrá ingresos por la enajenación de bienes, siempre y cuando ésta se realice con la autorización del Cabildo, en los términos de las leyes respectivas.
 
-### CAPITULO IV. VENTA DE FORMAS OFICIALES IMPRESAS
+### CAPITULO II. ARRENDAMIENTO, EXPLOTACION O USO DE BIENES MUEBLES E INMUEBLES PROPIEDAD DEL MUNICIPIO
 
 ###### ARTICULO 109.
 
@@ -3739,13 +3727,13 @@ II. Construcción y venta de gavetas para fosas en el cementerio según contrato
 
 III. En los cementerios ubicados fuera de la cabecera municipal, se causará y pagará sólo el 50 por ciento del total del costo.
 
-### CAPITULO V. VENTA DE PUBLICACIONES
+### CAPITULO III. RENDIMIENTOS FINANCIEROS DE CAPITAL Y VALORES
 
 ###### ARTICULO 112.
 
 Los ingresos que se obtengan por los rendimientos financieros o intereses generados por las inversiones y valores que realice el Ayuntamiento, se incorporarán al fondo o cuenta correspondiente.
 
-### CAPITULO VI. VENTA DE BIENES VACANTES, MOSTRENCOS Y OBJETOS DECOMISADOS
+### CAPITULO IV. VENTA DE FORMAS OFICIALES IMPRESAS
 
 ###### ARTICULO 113.
 
@@ -3775,31 +3763,31 @@ X. Formato para el registro de un fraccionamiento, rectificación o cancelación
 
 XI. Solicitud de otro tipo 2.00
 
-### CAPITULO VII. VENTA DE PRODUCTOS PROCEDENTES DE VIVEROS, CAMELLONES Y JARDINES PUBLICOS
+### CAPITULO V. VENTA DE PUBLICACIONES
 
 ###### ARTICULO 114.
 
 A las publicaciones se les fijará su precio, tomando en cuenta su costo.
 
-### CAPITULO VIII. VENTA DE ESQUILMOS, PRODUCTOS DE APARCERIA, DESECHOS Y BASURA
+### CAPITULO VI. VENTA DE BIENES VACANTES, MOSTRENCOS Y OBJETOS DECOMISADOS
 
 ###### ARTICULO 115.
 
 La venta de bienes a que se refiere este Capítulo será a través de subastas observando las disposiciones que sobre el remate de bienes embargados prevé el Código.
 
-### CAPITULO IX. SERVICIO DE ARRASTRE DE GRUAS Y MANIOBRAS
+### CAPITULO VII. VENTA DE PRODUCTOS PROCEDENTES DE VIVEROS, CAMELLONES Y JARDINES PUBLICOS
 
 ###### ARTICULO 116.
 
 El cobro por la venta de productos procedentes de viveros y jardines públicos, será de conformidad con el acuerdo del Cabildo.
 
-### CAPITULO X. OTROS PRODUCTOS
+### CAPITULO VIII. VENTA DE ESQUILMOS, PRODUCTOS DE APARCERIA, DESECHOS Y BASURA
 
 ###### ARTICULO 117.
 
 La venta de esquilmos, productos de aparcería, desechos y basura, será de conformidad con el acuerdo del Cabildo.
 
-### CAPITULO UNICO
+### CAPITULO IX. SERVICIO DE ARRASTRE DE GRUAS Y MANIOBRAS
 
 ###### ARTICULO 118.
 
@@ -3817,7 +3805,7 @@ IV. Por vehículo detenido en el corralón, por día 1.00
 
 V. Otros Según acuerdo de Cabildo.
 
-### CAPITULO UNICO
+### CAPITULO X. OTROS PRODUCTOS
 
 ###### ARTICULO 119.
 
@@ -3841,37 +3829,15 @@ VI. Otros productos no especificados Según acuerdo de Cabildo.
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 120.
 
-Los ingresos por concepto de aprovechamientos serán los que el municipio perciba por:
+Los ingresos por concepto de aprovechamientos serán los que el municipio perciba por las multas de orden administrativo que en el uso de sus facultades imponga la autoridad municipal, incluidos los descuentos a las mismas.
 
-I. Recargos;
+Se consideran aprovechamientos también los ingresos que obtenga el municipio por intereses, indemnizaciones de terceros o por responsabilidades de los servidores públicos, reintegros, aportaciones y apoyos de terceros, depósitos y otros no especificados.
 
-II. Multas;
-
-III. Intereses;
-
-IV. Reintegros;
-
-V. Indemnizaciones;
-
-VI. Aportaciones de los gobiernos federal, estatal y de terceros para obras y servicios de beneficio social a cargo del municipio;
-
-VII. Apoyos especiales o extraordinarios;
-
-VIII. Donativos, herencias y legados;
-
-IX. Empréstitos;
-
-X. Depósitos;
-
-XI. Gastos de ejecución;
-
-XII. Otros no especificados.
-
-> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 2006)</small>
-
-En el supuesto del párrafo tercero del artículo 19 de ésta Ley, se cobrará a los contribuyentes ahí señalados, el 50 por ciento de los recargos y multas que se hayan generado hasta que se efectúe el pago correspondiente.
+En los términos de lo dispuesto en el último párrafo del artículo 6° A del Código, el municipio percibirá de manera accesoria a los Aprovechamientos señalados en este Título, los recargos, la indemnización, las multas, los gastos y los honorarios a que se refieren los artículos 25, 26, 50, 51 y 69, respectivamente, de ese Código, clasificándolos como parte de los Aprovechamientos.
 
 ###### ARTICULO 121.
 
@@ -3885,41 +3851,67 @@ El importe de los ingresos por concepto de multas deberá ser cubierto en la Tes
 
 Para determinar el pago por concepto de multas se considerarán, inclusive, las fracciones del peso. Sin embargo, para efecto de la determinación y liquidación del monto a pagar en los módulos de atención automatizados se deberá observar la siguiente regla de ajuste: los montos que contengan cantidades que incluyan de 1 hasta 50 centavos se ajustarán a la unidad inmediata inferior y los que contengan cantidades de 51 a 99 centavos, se ajustarán a la unidad inmediata superior.
 
-## TITULO SEPTIMO. DE LAS PARTICIPACIONES FEDERALES
+> <small>(REFORMADA SU DENOMINACION, P.O. 18 DE DICIEMBRE DE 2010)</small>
 
-### CAPITULO UNICO
+## TITULO SEPTIMO. DE LAS PARTICIPACIONES, APORTACIONES Y RECURSOS TRANSFERIDOS
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 18 DE DICIEMBRE DE 2010)</small>
+
+### CAPITULO I. DE LAS PARTICIPACIONES
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 122.
 
-Los honorarios, recargos y gastos de ejecución a que se refiere el Código, serán condonables con la autorización del Congreso y a petición del Cabildo.
+Las participaciones federales son aquellos ingresos que recibe el municipio de conformidad con las leyes de coordinación fiscal, el Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal, al Convenio de Colaboración Administrativa en Materia Fiscal Federal y sus anexos.
 
-Los gastos de cobranza y de ejecución que se generen con motivo de la realización del procedimiento administrativo de ejecución, se registrarán por la Tesorería Municipal, hasta el momento en que efectivamente se cobren, sin clasificarlos en el concepto de la contribución o aprovechamiento del cual son accesorios.
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
 
-Con el propósito de elevar la recaudación tributaria y obtener una mayor eficiencia administrativa, se creará un fondo integrado por los gastos de cobranza y ejecución, que se destinará a incentivar al personal, repartiéndolo entre los que participen directa e indirectamente en la recuperación de los mismos, debiendo crear la partida presupuestal correspondiente.
+### CAPÍTULO II. DE LAS APORTACIONES
 
-### CAPITULO UNICO
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 123.
 
-Las participaciones federales son aquellos ingresos que recibe el municipio de conformidad con las leyes de coordinación fiscal, el Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal, al Convenio de Colaboración Administrativa en Materia Fiscal Federal y sus anexos.
+Son los ingresos que percibirá el Ayuntamiento en forma independiente y adicional a las participaciones que obtiene de la Federación, con base en las estimaciones que se tengan de la recaudación federal participable, señaladas en el Presupuesto de Egresos de la Federación.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
+
+### CAPÍTULO III. DE LOS RECURSOS TRANSFERIDOS
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 124.
 
-Son los ingresos que percibirá el Ayuntamiento en forma independiente y adicional a la (sic) participaciones que obtiene de la federación, con base en las estimaciones que se tengan de la recaudación federal participable.
+Son los ingresos que percibirá el Ayuntamiento por los convenios suscritos con el gobierno federal o estatal destinados a la ejecución de programas federales o estatales mediante la reasignación de responsabilidades y recursos presupuestarios al municipio, de conformidad con las reglas de operación autorizadas, así como los que se deriven de los convenios de colaboración administrativa en materia de coordinación fiscal pactados con el Estado o la Federación.
 
-## TITULO OCTAVO. RECURSOS FEDERALIZADOS
+> <small>(REFORMADA SU DENOMINACION, P.O. 18 DE DICIEMBRE DE 2010)</small>
+
+## TITULO OCTAVO. INGRESOS EXTRAORDINARIOS
+
+### CAPITULO UNICO
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 125.
 
-Son ingresos extraordinarios los que perciba la hacienda pública municipal, de conformidad con las leyes correspondientes.
+Son ingresos extraordinarios los que perciba la hacienda pública municipal por financiamientos, transferencias, subsidios y subvenciones, ayudas sociales y otros ingresos que obtenga el municipio, de conformidad con las leyes correspondientes.
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 15 DE ENERO DE 2003)</small>
+> <small>(DEROGADO CON EL CAPITULO QUE LO INTEGRA, P.O. 18 DE DICIEMBRE DE 2010)</small>
 
 ## TITULO NOVENO. INGRESOS EXTRAORDINARIOS
+
+> <small>(DEROGADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
+
+### CAPITULO UNICO
+
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 15 DE ENERO DE 2003)</small>
 
 ## TITULO DECIMO. ESTIMULOS FISCALES Y FINANCIEROS
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 15 DE ENERO DE 2003)</small>
+
+### CAPITULO UNICO
 
 ###### ARTICULO 126.
 
@@ -4102,3 +4094,11 @@ P.O. 7 DE MARZO DE 2009.
 P.O. 4 DE ABRIL DE 2009.
 
 UNICO.- El presente Decreto entrará en vigor el día de su aprobación y deberá publicarse en el Periódico Oficial "El Estado de Colima".
+
+P.O. 19 DE DICIEMBRE DE 2009.
+
+ÚNICO.- El presente Decreto entrará en vigor el 01 de enero de 2010, previa su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 18 DE DICIEMBRE DE 2010.
+
+ÚNICO.- El presente Decreto entrará en vigor el 1°. de enero de 2011, previa su publicación en el Periódico Oficial "El Estado de Colima".
