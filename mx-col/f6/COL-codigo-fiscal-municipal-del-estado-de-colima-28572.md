@@ -4,7 +4,7 @@ identifier: "COL-codigo-fiscal-municipal-del-estado-de-colima-28572"
 country: "mx"
 rank: "codigo"
 publication_date: "2003-01-11"
-last_updated: "2008-12-20"
+last_updated: "2010-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28572&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CODIGO FISCAL MUNICIPAL DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE DICIEMBRE DE 2010.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado de Colima, el sábado 11 de enero de 2003.
 
@@ -111,51 +111,47 @@ IV. Los organismos descentralizados que operan y administran los servicios de ag
 
 V. Las previstas en otras leyes municipales que normen su estructura orgánica.
 
-###### ARTICULO 6º.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
 
-Son ingresos los que percibe el municipio por las prestaciones a cargo del contribuyente y por la realización de los supuestos previstos en las leyes fiscales. Los ingresos municipales se clasifican en:
+###### ARTICULO 6°.
 
-a) Impuestos;
+Son ingresos los que percibe el municipio por las prestaciones a cargo del contribuyente y por la realización de los supuestos previstos en las leyes fiscales.
 
-b) Contribuciones especiales;
+Las contribuciones se clasifican en impuestos, contribuciones de mejoras y derechos, las que se definen de la siguiente manera:
 
-c) Derechos;
+I. Impuestos: son las contribuciones establecidas en ley que deben pagar las personas físicas y morales que se encuentren en la situación jurídica o de hecho prevista por la misma y que sean distintas de las aportaciones de seguridad social, contribuciones de mejoras y derechos.
 
-d) Productos;
+II. Contribuciones de mejoras: son las establecidas en Ley o en Decreto expedido por el Congreso del Estado, a cargo de las personas físicas y morales que se beneficien de manera directa por la realización de obras públicas;
 
-e) Participaciones;
+III. Derechos: son las contribuciones establecidas en Ley por el uso o aprovechamiento de los bienes de dominio público, así como por recibir servicios que presta el municipio en sus funciones de derecho público, excepto cuando se presten por organismos descentralizados u órganos desconcentrados cuando en este último caso, se trate de contraprestaciones qué no se encuentren previstas en Ley. También son derechos las contribuciones a cargo de los organismos públicos descentralizados por prestar servicios exclusivos del gobierno municipal;
 
-f) Recursos federalizados;
+Los recargos, la indemnización, las multas, los gastos y los honorarios a que se refieren los artículos 25, 26, 50, 51 y 69, respectivamente, de este Código son accesorios de las contribuciones y participan de la naturaleza de éstas.
 
-g) Aprovechamientos; y
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
 
-h) Ingresos extraordinarios.
+ARTICULO 6° A.- Los Productos son las contraprestaciones por los servicios que presta el municipio en sus funciones de derecho privado, así como por el uso, aprovechamiento o enajenación de bienes del dominio privado.
 
-Son impuestos las prestaciones unilaterales que fijan las leyes para contribuir al gasto público. Dicha prestación estará a cargo de toda persona física y moral cuya situación jurídica o de hecho coincida con la que la ley señala como objeto del gravamen. El pago de impuestos no implica contraprestación alguna, por lo que no se podrá destinar su recaudación a un fin específico, salvo los casos expresamente previstos en la ley.
+Son Aprovechamientos los ingresos que percibe el municipio por sus funciones de derecho público distintos de las contribuciones, de los ingresos derivados de financiamientos y de los que obtengan los organismos descentralizados y las empresas de participación municipal.
 
-Son contribuciones especiales las prestaciones que se fijan conforme a ley o decreto que expida el Congreso, a cargo de las personas físicas o morales que por la realización de obras o la prestación de servicios públicos municipales, se vean diferencialmente beneficiadas.
+Los recargos, la indemnización, las multas, los gastos y los honorarios a que se refieren los artículos 25, 26, 50, 51 y 69, respectivamente, que se apliquen en relación a los aprovechamientos, son accesorios de éstos y participan de su naturaleza.
 
-Son derechos las prestaciones que se fijan conforme a la ley en pago por el uso o aprovechamiento de los bienes del dominio público de los municipios, por los servicios públicos prestados por ellos, incluso cuando se presten por organismos descentralizados o por la regulación que realizan los municipios respecto de los actos de particulares.
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
 
-Son productos las contraprestaciones por los servicios que presten los municipios en sus funciones de derecho privado así como por el uso, aprovechamiento o enajenación de bienes de dominio privado.
+ARTICULO 6° B.- Se consideran ingresos por Participaciones, Aportaciones y Recursos Transferidos los que percibe el municipio por las disposiciones establecidas en las leyes de coordinación fiscal, las señaladas en forma anual en el Presupuesto de Egresos de la Federación o en el Presupuesto de Egresos del Gobierno del Estado, así como los recursos destinados a la ejecución de programas federales o estatales a través de los gobiernos municipales mediante la reasignación de responsabilidades y recursos presupuestarios, en los términos de los convenios que celebre el Ayuntamiento con el gobierno federal o estatal.
 
-Son participaciones los recursos que se establecen en favor de los municipios en las leyes de coordinación fiscal.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE DICIEMBRE DE 2010)</small>
 
-Son recursos federalizados aquellos que, con base en la ley y de manera anual se determinan en el presupuesto de egresos de la Federación o del Estado, en beneficio de los municipios.
+###### ARTICULO 7°.
 
-Son aprovechamientos los ingresos derivados de recargos, gastos de ejecución, multas y otros que perciban los municipios por sus funciones de derecho público y cuya naturaleza no sean clasificables como impuestos, derechos, contribuciones especiales, productos, participaciones o recursos federalizados.
-
-Son ingresos extraordinarios los recursos que obtiene el municipio por conceptos diferentes a los señalados anteriormente.
-
-###### ARTICULO 7º.
-
-Se consideran ingresos ordinarios de los municipios los impuestos, contribuciones especiales, derechos, productos, aprovechamientos, participaciones y recursos federalizados que regulan las leyes, decretos, presupuestos y convenios respectivos.
+Se consideran ingresos ordinarios de los municipios los impuestos, contribuciones de mejoras, derechos, productos, aprovechamientos, participaciones, aportaciones y recursos transferidos que regulan las leyes, decretos, presupuestos y convenios respectivos.
 
 Los productos se regularán, además, por las disposiciones especiales o por las que, en su caso, establezcan los contratos o convenios.
 
-###### ARTICULO 8º.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
 
-Se consideran ingresos extraordinarios los subsidios, herencias, donaciones, financiamientos y otros ingresos que obtenga el municipio por parte de los particulares, del Estado o de la Federación.
+###### ARTICULO 8°.
+
+Se consideran ingresos extraordinarios los que provengan de financiamientos, transferencias, subsidios y subvenciones, ayudas sociales y otros ingresos que obtenga el municipio.
 
 ###### ARTICULO 9º.
 
@@ -333,9 +329,11 @@ Se aceptarán como medios de pago los cheques certificados o de caja, los giros 
 
 Los pagos que se hagan se aplicarán a los créditos más antiguos, siempre que se trate de la misma contribución y en forma proporcional al adeudo principal y sus accesorios.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 25.
 
-Cuando no se cubran las contribuciones en la fecha o dentro de los plazos fijados por las disposiciones fiscales, deberán pagarse recargos por concepto de indemnización al fisco municipal por la falta de pago oportuno. Dichos recargos se aplicarán por cada mes o fracción de mes que transcurra desde la fecha en que debió hacerse el pago y hasta que el mismo se efectúe, aplicando la tasa que corresponda para el período que se trate.
+Cuando no se cubran las contribuciones o los aprovechamientos o en la fecha o dentro de los plazos fijados por las disposiciones fiscales o los convenios respectivos, deberán pagarse recargos por concepto de indemnización al fisco municipal por la falta de pago oportuno. Dichos recargos se aplicarán por cada mes o fracción de mes que transcurra desde la fecha en que debió hacerse el pago y hasta que el mismo se efectúe, aplicando la tasa que corresponda para el período que se trate.
 
 Los recargos se causarán hasta por cinco años y se calcularán sobre el total de la contribución omitida excluyendo los propios recargos, los gastos de ejecución y las multas por infracciones a las disposiciones fiscales.
 
@@ -1416,3 +1414,7 @@ El presente Decreto entrará en vigor el día de su publicación en el Periódic
 P.O. 20 DE DICIEMBRE DE 2008.
 
 ÚNICO.- El presente Decreto entrará en vigor el 01 de enero de 2009, previa su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 18 DE DICIEMBRE DE 2010.
+
+ÚNICO.- El presente Decreto entrará en vigor el 1o. de enero de 2011, previa su publicación en el Periódico Oficial "El Estado de Colima".
