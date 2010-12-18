@@ -4,7 +4,7 @@ identifier: "TAB-constitucion-politica-del-estado-libre-y-soberano-de-tabasco-77
 country: "mx"
 rank: "constitucion"
 publication_date: "1919-04-05"
-last_updated: "2010-09-29"
+last_updated: "2010-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7788&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE SEPTIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE DICIEMBRE DE 2010.
 
 Constitución publicada por Bando Solemne en el Estado de Tabasco, el 5 de abril de 1919.
 
@@ -134,6 +134,10 @@ Los ciudadanos tienen la obligación de contribuir, participar y exigir la prese
 > <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2008)</small>
 
 La manifestación de las ideas no será objeto de inquisición judicial o administrativa, sino en el caso de que ataque a la moral, los derechos de terceros, provoque algún delito, o perturbe el orden público; el derecho de réplica será ejercido en los términos dispuestos por la legislación aplicable.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
+
+Toda persona tiene derecho a decidir de manera libre, responsable e informada sobre el número y espaciamiento de sus hijos. El Estado garantizará, el respeto, la protección, acceso y libre ejercicio del derecho a la salud reproductiva de las tabasqueñas y tabasqueños.
 
 > <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2007)</small>
 
@@ -337,7 +341,7 @@ V. En la ley secundaria se establecerán las normas para la procedencia, aplicac
 
 ### CAPITULO II. FORMA DE GOBIERNO
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 9°.
 
@@ -471,7 +475,7 @@ VI.- En materia electoral la interposición de los medios de impugnaciones const
 
 ###### ARTICULO 10.
 
-El Estado adopta para su régimen interior, la forma de Gobierno Republicana, Representativa y Popular, teniendo como base de su organización política y administrativa el Municipio Libre.
+Inspirado en los principios de democracia y laicidad el Estado adopta para su régimen interior, la forma de Gobierno Republicana, Representativa y Popular, teniendo como base de su organización política y administrativa el Municipio Libre.
 
 > <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2008)</small>
 
@@ -2836,3 +2840,23 @@ P.O. 29 DE SEPTIEMBRE DE 2010.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Artículo Segundo.- De conformidad con lo establecido en el artículo 83 de la Constitución Política del Estado Libre y Soberano de Tabasco, las presentes reformas fueron aprobadas por los Ayuntamientos de la entidad.
+
+P.O. 18 DE DICIEMBRE DE 2010.
+
+DECRETO NUMERO 045, POR EL QUE SE REFORMA EL ARTICULO 10 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DEL ESTADO DE TABASCO.
+
+PRIMERO.- El correspondiente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- De conformidad con lo establecido en el artículo 83 de la Constitución Política del Estado Libre y Soberano de Tabasco, las presentes reformas fueron aprobadas por los 17 Ayuntamientos de la entidad.
+
+P.O. 18 DE DICIEMBRE DE 2010.
+
+DECRETO NUMERO 046, POR EL QUE SE ADICIONA UN PARRAFO SEPTIMO AL ARTICULO 4 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO.
+
+PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO.- La Secretaría de Salud tendrá un término de sesenta días, a partir de la entrada en vigor de esta ley, para implementar las acciones conducentes a su cumplimiento.
+
+TERCERO.- Se derogan todas la disposiciones que se opongan al presente Decreto.
+
+CUARTO.- De conformidad con lo establecido en el artículo 83 de la Constitución Política del Estado Libre y Soberano de Tabasco, las presentes reformas fueron aprobadas por los 17 Ayuntamientos de la entidad.
