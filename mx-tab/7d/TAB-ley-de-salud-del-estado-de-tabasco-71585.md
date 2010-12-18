@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-salud-del-estado-de-tabasco-71585"
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-12"
-last_updated: "2010-05-22"
+last_updated: "2010-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71585&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE SALUD DEL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MAYO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 12 de diciembre de 2009.
 
@@ -131,9 +131,11 @@ II. La Secretaría de Salud; y
 
 III. Los Ayuntamientos en el ámbito de su respectiva competencia.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 5.
 
-Corresponde al Poder Ejecutivo del Estado de Tabasco, por conducto de la Secretaría de Salud:
+Corresponde al Ejecutivo del Estado de Tabasco, por conducto de la Secretaría de Salud estatal:
 
 A) En materia de salubridad general:
 
@@ -141,7 +143,9 @@ I. La atención médica, preferentemente en beneficio de grupos vulnerables;
 
 II. La atención materno-infantil;
 
-III. La prestación de servicios de planificación familiar;
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2010)</small>
+
+III. La prestación de servicios de salud sexual y reproductiva.
 
 IV. La salud mental;
 
@@ -427,7 +431,9 @@ Para los efectos del artículo anterior el Ejecutivo del Estado y el Ejecutivo f
 
 La administración del organismo publico mencionado estará a cargo del Gobierno del Estado en los términos que se convengan en el acuerdo de coordinación correspondiente, dicho organismo tendrá a su cargo la aplicación en del (sic) ámbito estatal de la legislación sanitaria federal, conforme a las disposiciones legales aplicables.
 
-## TÍTULO TERCERO. PRESTACIÓN DE LOS SERVICIOS DE LA SALUD
+> <small>(REFORMADA SU DENOMINACION, P.O. 18 DE DICIEMBRE DE 2010)</small>
+
+## TÍTULO TERCERO. PRESTACIÓN DE LOS SERVICIOS DE SALUD
 
 ### CAPÍTULO I. DISPOSICIONES COMUNES
 
@@ -777,11 +783,15 @@ Los centros educativos en el Estado deberán brindar las facilidades al personal
 
 Las autoridades sanitarias y educativas del estado se coordinarán para que exista en todas las escuelas primarias un programa de fomento a la salud que incluya temas de higiene personal y alimentaría, y en el 5° y 6° grados de educación primaria y los tres de educación secundaria, además, programas de salud mental, prevención de adicciones, salud reproductiva y fomento al deporte.
 
-### CAPÍTULO VI. SERVICIO DE PLANIFICACIÓN FAMILIAR
+> <small>(REFORMADA SU DENOMINACION, P.O. 18 DE DICIEMBRE DE 2010)</small>
+
+### CAPÍTULO VI. Servicios de Salud Sexual y Reproductiva
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 66.
 
-La planificación familiar tiene carácter prioritario, en sus actividades se deben incluir la información y la orientación educativa para los adolescentes y jóvenes. Asimismo para disminuir el riesgo reproductivo, se debe de informar a la mujer y al hombre sobre la inconveniencia del embarazo antes de los 20 años de edad o bien después de los 35 años, así como la conveniencia de espaciar los embarazos y reducir su número; todo ello, mediante una correcta información anticonceptiva, la cual debe ser oportuna, eficaz y completa a la pareja.
+La salud sexual y reproductiva tiene carácter prioritario y es la capacidad de disfrutar de una vida sexual, satisfactoria y sin riesgos y de tomar todas las decisiones concernientes favorables a la procreación. Esta última condición lleva implícito el derecho de mujeres y hombres a obtener información y acceso a los métodos de planificación familiar de su elección, seguros, efectivos, asequibles, y aceptables, así como a otros métodos legales para la regulación de la fecundidad, y el derecho a recibir servicios adecuados de atención de la salud que permitan los embarazos y los partos sin riesgos y den a las parejas las máximas posibilidades de tener hijos sanos. La salud sexual y reproductiva tiene carácter prioritario en el Sistema Nacional de Salud.
 
 Los servicios que se presten en esta materia constituyen un medio para el ejercicio del derecho de toda persona a decidir de manera libre, responsable e informada sobre el número y espaciamiento de los hijos, con pleno respeto a su dignidad. Quienes practiquen esterilización sin voluntad del paciente o ejerzan presión para que éste la admita serán sancionados conforme a las disposiciones de esta Ley, independientemente de la responsabilidad penal en que incurran.
 
@@ -791,19 +801,21 @@ Toda persona en edad fértil tiene derecho a utilizar medidas de control de la f
 
 En la utilización de las medidas de control de la fertilidad se deberá observar lo dispuesto en la normatividad aplicable y a la prescripción medica.
 
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 68.
 
-Los servicios de planificación familiar comprenden:
+Los Servicios de Salud Sexual y Reproductiva comprenden:
 
-I. La promoción del desarrollo de programas de comunicación educativa en materia de servicios de planificación familiar y educación sexual, con base en los contenidos y estrategias que establezca el Consejo Nacional de Población;
+I. La promoción del desarrollo de programas de comunicación educativa en materia de servicios de salud sexual y reproductiva, con base en los contenidos y estrategias que establezca el Consejo Nacional de Población;
 
-II. La atención y vigilancia de los aceptantes y usuarios de servicios de planificación familiar;
+II. La atención y vigilancia de los aceptantes y usuarios de servicios de salud sexual y reproductiva;
 
-III. La asesoría para la prestación de servicios de planificación familiar a cargo de los sectores públicos, social y privado y la supervisión y evaluación en su ejecución, de acuerdo con la política establecida por el Consejo Nacional de Población;
+III. La asesoría para la prestación de servicios de salud sexual y reproductiva a cargo de los sectores públicos, social y privado y la supervisión y evaluación en su ejecución, de acuerdo con la política establecida por el Consejo Nacional de Población;
 
-IV. El apoyo y fomento de la investigación en materia de anticoncepción, infertilidad humana, planificación familiar y biológica de la reproducción humana;
+IV. El apoyo y fomento de la investigación en materia de anticoncepción, infertilidad humana, salud sexual, reproductiva y biológica.
 
-V. La participación en el establecimiento de mecanismos idóneos para la determinación, elaboración, adquisición, almacenamiento y distribución de medicamentos y otros insumos destinados a los servicios de planificación familiar; y
+V. La participación en el establecimiento de mecanismos idóneos para la determinación, elaboración, adquisición, almacenamiento y distribución de medicamentos y otros insumos destinados a los servicios de salud sexual y reproductiva; y
 
 VI. La recopilación, sistematización y actualización de la información necesaria para el adecuado seguimiento de las actividades desarrolladas.
 
@@ -811,13 +823,19 @@ VI. La recopilación, sistematización y actualización de la información neces
 
 Los comités de Salud a que se refiere el artículo 55 de esta Ley, promoverán que en las poblaciones y comunidades semiurbanas y rurales del Estado se impartan pláticas de orientación en materia de planificación familiar y educación sexual, las instituciones de salud y educativa brindarán al efecto el apoyo necesario.
 
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 70.
 
-En materia de planificación familiar las actividades de promoción y orientación a las comunidades indígenas deberán llevarse a cabo en español y en la lengua o lenguas indígenas en uso en la región o comunidad de que se trate.
+En materia de salud sexual y reproductiva las actividades de promoción y orientación a las comunidades indígenas deberán llevarse a cabo en español y en la lengua o lenguas indígenas en uso en la región o comunidad de que se trate.
 
 ###### ARTÍCULO 71.
 
 El Gobierno del Estado, coadyuvará con la Secretaría de Salud Federal, en las acciones del Programa Nacional de Planificación Familiar que formule el Consejo Nacional de Población y del Programa de Planificación Familiar del Sector Salud, y cuidará que se incorporen en los programas estatales de salud.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
+
+La Secretaría de Salud, con base en las políticas establecidas por el Consejo Nacional de Población para la prestación de servicios de salud sexual y reproductiva y de educación sexual y reproductiva, definirá las bases para evaluar las prácticas de métodos anticonceptivos, por lo que toca a su prevalencia y a sus efectos sobre la salud.
 
 ### CAPÍTULO VII. SALUD MENTAL
 
@@ -1727,7 +1745,7 @@ La Secretaría de Salud para la prestación de servicios de atención y rehabili
 
 El Gobierno del Estado y los municipios promoverán la creación de establecimientos en los que se dé la atención a personas con discapacidad, para lo cual la Secretaría de Salud podrá autorizar la constitución de instituciones privadas cuyo objeto sea la prestación de servicios asistenciales de rehabilitación de personas con discapacidad.
 
-## TÍTULO UNDÉCIMO. DE LA ATENCION DE LA REHABILlTACION
+## TÍTULO UNDÉCIMO. DE LA ATENCION DE LA REHABILITACION
 
 ### CAPÍTULO ÚNICO
 
@@ -3746,3 +3764,13 @@ PRIMERO.- Este Decreto entrará en vigor a partir del 1 de enero del año 2011.
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO.- La Secretaría de Salud del Estado, conforme a la disposición presupuestal, desarrollará un plan de trabajo para dar cumplimiento en todo el Estado, a lo establecido por la fracción IX del artículo 267 del presente Decreto.
+
+P.O. 18 DE DICIEMBRE DE 2010.
+
+PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO.- La Secretaría de Salud tendrá un término de sesenta días, a partir de la entrada en vigor de esta ley, para implementar las acciones conducentes a su cumplimiento.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+CUARTO.- De conformidad con lo establecido en el artículo 83 de la Constitución Política del Estado Libre y Soberano de Tabasco, las presentes reformas fueron aprobadas por los 17 Ayuntamientos de la entidad.
