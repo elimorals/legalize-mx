@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-para-el-municipio-de-minatitlan-colima-26789"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-11"
-last_updated: "2009-12-19"
+last_updated: "2010-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26789&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE MINATITLAN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE DICIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el lunes 11 de noviembre de 2002.
 
@@ -55,19 +55,31 @@ LEY DE HACIENDA PARA EL MUNICIPIO DE MINATITLÁN
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 1º.
 
-El Municipio de Minatitlán, para cubrir su gasto público, percibirá en cada ejercicio fiscal los ingresos derivados de los impuestos, derechos, contribuciones especiales, productos y aprovechamientos que se establecen en esta Ley, en porcentajes, tasas específicas o en salarios mínimos de la zona económica a que corresponde el municipio, así como las participaciones y fondos federales y locales derivadas de las leyes y convenios de coordinación respectivos. La facultad del Ayuntamiento en el cobro de impuestos, derechos, contribuciones especiales, productos y aprovechamientos es irrenunciable.
+El Municipio de Minatitlán para cubrir su gasto público, percibirá en cada ejercicio fiscal los ingresos derivados de los impuestos, derechos, contribuciones de mejoras, productos y aprovechamientos que se establecen en esta Ley, en porcentajes, tasas específicas o en salarios mínimos de la zona económica a que corresponde el municipio, así como las participaciones, aportaciones y recursos transferidos derivados de las leyes y convenios de coordinación respectivos. La facultad del Ayuntamiento en el cobro de impuestos, derechos, contribuciones de mejoras, productos y aprovechamientos es irrenunciable.
 
 ###### ARTICULO 2º.
 
 Únicamente el Congreso del Estado, mediante disposición de carácter general, podrá condonar o eximir total o parcialmente del cumplimiento de obligaciones fiscales cuando por causas graves se afecte la situación de alguna región o rama de actividad económica del municipio, con excepción de lo previsto por el artículo 115, fracción IV, inciso c), párrafo segundo de la Constitución Política de los Estados Unidos Mexicanos.
 
-El Cabildo, de conformidad con la reglamentación correspondiente, podrá otorgar incentivos y apoyos para promover la inversión, a fin de impulsar el crecimiento económico de los sectores productivos, de manera integral, sostenido y sustentable del Municipio e incrementar el bienestar social de sus habitantes.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
+
+El Ayuntamiento, de conformidad con la reglamentación correspondiente, podrá otorgar incentivos y apoyos para promover la inversión, a fin de impulsar el crecimiento económico de los sectores productivos, de manera integral, sostenido y sustentable e incrementar el bienestar social de sus habitantes.
 
 > <small>(ADICIONADO, P.O. 16 DE OCTUBRE DE 2004)</small>
 
 Para determinar el pago de las contribuciones se considerarán, inclusive, las fracciones del peso. Sin embargo, para efecto de la determinación y liquidación del monto a pagar en las oficinas ó módulos de atención automatizados se deberá observar la regla de ajuste prevista en el artículo 12 del Código Fiscal Municipal del Estado de Colima. No se considerará como error en la determinación y liquidación de contribuciones o créditos fiscales, cuando se aplique la regla de ajuste correspondiente a que se refiere el citado precepto.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
+
+ARTICULO 2º A.- Los honorarios, recargos y gastos de ejecución a que se refiere el Código, serán condonables con la autorización del Congreso y a petición del Ayuntamiento.
+
+Los gastos de cobranza y de ejecución que se generen con motivo de la realización del procedimiento administrativo de ejecución, se registrarán por la tesorería municipal, hasta el momento en que efectivamente se cobren.
+
+Con el propósito de elevar la recaudación tributaria y obtener una mayor eficiencia administrativa, se creará un fondo integrado por los gastos de cobranza y ejecución, que se destinará a incentivar al personal, repartiéndolo entre los que participen directa e indirectamente en la recuperación de los mismos, debiendo crear la partida presupuestal correspondiente.
 
 ###### ARTICULO 3º.
 
@@ -81,7 +93,9 @@ III. Registro, al Registro Público de la Propiedad y del Comercio del Estado de
 
 IV. Congreso, al Congreso del Estado de Colima; y
 
-V. Código, al Código Fiscal Municipal.
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2010)</small>
+
+V. Código, al Código Fiscal Municipal del Estado de Colima.
 
 Los días a que se refiere este ordenamiento, se computarán en hábiles, salvo disposición en contrario.
 
@@ -615,11 +629,23 @@ Garantizarán preferentemente el pago de este impuesto con los bienes inmuebles 
 
 No se pagará el impuesto por los espectáculos públicos de funciones de cine.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2010)</small>
+
+### CAPITULO IV. DE LOS ACCESORIOS DE LOS IMPUESTOS
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
+
+ARTICULO 51 A.- En los términos de lo dispuesto en el último párrafo del artículo 6° del Código, el municipio percibirá de manera accesoria a los Impuestos señalados en este Título, los recargos, la indemnización, las multas, los gastos y los honorarios a que se refieren los artículos 25, 26, 50, 51 y 69, respectivamente, de ese Código, clasificándolos como parte de los Impuestos.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
+
+ARTICULO 51 B.- En el supuesto del párrafo tercero del artículo 19 de esta Ley, se cobrará a los contribuyentes ahí señalados, el 50 por ciento de los recargos y multas que se hayan generado hasta que se efectúe el pago correspondiente.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 18 DE DICIEMBRE DE 2010)</small>
+
+## TITULO TERCERO. CONTRIBUCIONES DE MEJORAS
+
 ### CAPITULO UNICO
-
-## TITULO TERCERO. CONTRIBUCIONES ESPECIALES
-
-### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### ARTICULO 52.
 
@@ -639,7 +665,7 @@ Son solidariamente responsables del pago de esta contribución los adquirentes d
 
 ## TITULO CUARTO. DE LOS DERECHOS
 
-### CAPITULO II. DE LAS LICENCIAS, PERMISOS, AUTORIZACIONES, REFRENDOS, REGISTROS, CERTIFICACIONES Y LEGALIZACIONES
+### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### ARTICULO 56.
 
@@ -667,7 +693,7 @@ El servidor público que preste algún servicio por el que se cause un derecho, 
 
 En caso de discrepancia acerca de la procedencia o cuantificación del derecho, cuando de su pago dependa la prestación del servicio, el depósito en la Tesorería Municipal del importe fijado por el Tesorero, en los términos establecidos en las leyes fiscales, tomando en cuenta la opinión del titular de la dependencia municipal a que corresponda el derecho, dará lugar a la prestación de dicho servicio.
 
-### CAPITULO III. OTROS DERECHOS
+### CAPITULO II. DE LAS LICENCIAS, PERMISOS, AUTORIZACIONES, REFRENDOS, REGISTROS, CERTIFICACIONES Y LEGALIZACIONES
 
 #### SECCION PRIMERA. DE LAS LICENCIAS, PERMISOS, AUTORIZACIONES Y REFRENDOS
 
@@ -2521,7 +2547,7 @@ III.- Solvencias fiscales 1.10
 
 IV.- Constancias 1.00
 
-### CAPITULO IV. DE LOS SERVICIOS PUBLICOS
+### CAPITULO III. OTROS DERECHOS
 
 #### SECCION PRIMERA. SERVICIOS MEDICOS
 
@@ -2653,7 +2679,7 @@ Unidades de salario
 
 5. Otros 1.00 a 10.00
 
-### CAPITULO V. DE LAS CONCESIONES DE BIENES Y SERVICIOS PUBLICOS
+### CAPITULO IV. DE LOS SERVICIOS PUBLICOS
 
 #### SECCION PRIMERA. ALUMBRADO PUBLICO
 
@@ -2923,13 +2949,19 @@ La autoridad municipal que corresponda, queda facultada para retener pieles y ca
 
 Igualmente queda facultada para decomisar carnes no aptas para el consumo humano, las cuales deberán ser incineradas de inmediato.
 
-### CAPITULO I. VENTA DE BIENES MUEBLES E INMUEBLES PROPIEDAD DEL MUNICIPIO
+### CAPITULO V. DE LAS CONCESIONES DE BIENES Y SERVICIOS PUBLICOS
 
 ###### ARTICULO 106.
 
 Los servicios públicos que de conformidad con la Ley del Municipio Libre del Estado sean concesionados, causarán los derechos que se establezcan en el título de concesión correspondiente y en las disposiciones específicas que expida el Cabildo.
 
-### CAPITULO II. ARRENDAMIENTO, EXPLOTACION O USO DE BIENES MUEBLES E INMUEBLES PROPIEDAD DEL MUNICIPIO
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 18 DE DICIEMBRE DE 2010)</small>
+
+### CAPITULO VI. DE LOS ACCESORIOS DE LOS DERECHOS
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
+
+ARTICULO 106 A.- En los términos de lo dispuesto en el último párrafo del artículo 6º del Código, el municipio percibirá de manera accesoria a los Derechos señalados en este Título, los recargos, la indemnización, las multa (sic), los gastos y los honorarios a que se refieren los artículos 25, 26, 50, 51 y 69, respectivamente, de ese Código, clasificándolos como parte de los Derechos.
 
 ## TITULO QUINTO. DE LOS PRODUCTOS
 
@@ -2941,13 +2973,13 @@ Son productos los ingresos que perciba el municipio por actividades que no corre
 
 El importe de los ingresos por concepto de productos que se señale en los siguientes capítulos deberá ser cubierto en la Tesorería Municipal o en el lugar que ésta designe. También se efectuará en las oficinas o módulos de atención automatizados, permanentes o temporales, establecidos fuera de las instalaciones de la Tesorería. Para determinar el pago por concepto de productos se considerarán, inclusive, las fracciones del peso. Sin embargo, para efecto de la determinación y liquidación del monto a pagar en los módulos de atención automatizados se deberá observar la siguiente regla de ajuste: los montos que contengan cantidades que incluyan de 1 hasta 50 centavos se ajustarán a la unidad inmediata inferior y los que contengan cantidades de 51 a 99 centavos, se ajustarán a la unidad inmediata superior.
 
-### CAPITULO III. RENDIMIENTOS FINANCIEROS DE CAPITAL Y VALORES
+### CAPITULO I. VENTA DE BIENES MUEBLES E INMUEBLES PROPIEDAD DEL MUNICIPIO
 
 ###### ARTICULO 108.
 
 El municipio obtendrá ingresos por la enajenación de bienes, siempre y cuando ésta se realice con la autorización del Cabildo, en los términos de las leyes respectivas.
 
-### CAPITULO IV. VENTA DE FORMAS OFICIALES IMPRESAS
+### CAPITULO II. ARRENDAMIENTO, EXPLOTACION O USO DE BIENES MUEBLES E INMUEBLES PROPIEDAD DEL MUNICIPIO
 
 ###### ARTICULO 109.
 
@@ -3023,13 +3055,13 @@ fosas en el cementerio Según contrato
 
 III. En los cementerios ubicados fuera de la cabecera municipal, se causará y pagará sólo el 50 por ciento del total del costo.
 
-### CAPITULO V. VENTA DE PUBLICACIONES
+### CAPITULO III. RENDIMIENTOS FINANCIEROS DE CAPITAL Y VALORES
 
 ###### ARTICULO 112.
 
 Los ingresos que se obtengan por los rendimientos financieros o intereses generados por las inversiones y valores que realice el Ayuntamiento, se incorporarán al fondo o cuenta correspondiente.
 
-### CAPITULO VI. VENTA DE BIENES VACANTES, MOSTRENCOS Y OBJETOS DECOMISADOS
+### CAPITULO IV. VENTA DE FORMAS OFICIALES IMPRESAS
 
 ###### ARTICULO 113.
 
@@ -3071,31 +3103,31 @@ cancelación, por cada juego 1.00
 
 XI. Solicitud de otro tipo 2.00
 
-### CAPITULO VII. VENTA DE PRODUCTOS PROCEDENTES DE VIVEROS, CAMELLONES Y JARDINES PUBLICOS
+### CAPITULO V. VENTA DE PUBLICACIONES
 
 ###### ARTICULO 114.
 
 A las publicaciones se les fijará su precio, tomando en cuenta su costo.
 
-### CAPITULO VIII. VENTA DE ESQUILMOS, PRODUCTOS DE APARCERIA, DESECHOS Y BASURA
+### CAPITULO VI. VENTA DE BIENES VACANTES, MOSTRENCOS Y OBJETOS DECOMISADOS
 
 ###### ARTICULO 115.
 
 La venta de bienes a que se refiere este Capítulo será a través de subastas observando las disposiciones que sobre el remate de bienes embargados prevé el Código.
 
-### CAPITULO IX. SERVICIO DE ARRASTRE DE GRUAS Y MANIOBRAS
+### CAPITULO VII. VENTA DE PRODUCTOS PROCEDENTES DE VIVEROS, CAMELLONES Y JARDINES PUBLICOS
 
 ###### ARTICULO 116.
 
 El cobro por la venta de productos procedentes de viveros y jardines públicos, será de conformidad con el acuerdo del Cabildo.
 
-### CAPITULO X. OTROS PRODUCTOS
+### CAPITULO VIII. VENTA DE ESQUILMOS, PRODUCTOS DE APARCERIA, DESECHOS Y BASURA
 
 ###### ARTICULO 117.
 
 La venta de esquilmos, productos de aparcería, desechos y basura, será de conformidad con el acuerdo del Cabildo.
 
-### CAPITULO UNICO
+### CAPITULO IX. SERVICIO DE ARRASTRE DE GRUAS Y MANIOBRAS
 
 ###### ARTICULO 118.
 
@@ -3119,7 +3151,7 @@ por día 1.00
 
 V. Otros Según acuerdo de Cabildo
 
-### CAPITULO UNICO
+### CAPITULO X. OTROS PRODUCTOS
 
 ###### ARTICULO 119.
 
@@ -3165,37 +3197,15 @@ especificados Según acuerdo de Cabildo
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 120.
 
-Los ingresos por concepto de aprovechamientos serán los que el municipio perciba por:
+Los ingresos por concepto de aprovechamientos serán los que el municipio perciba por las multas de orden administrativo que en el uso de sus facultades imponga la autoridad municipal, incluidos los descuentos a las mismas.
 
-I. Recargos.
+Se consideran aprovechamientos también los ingresos que obtenga el municipio por intereses, indemnizaciones de terceros o por responsabilidades de los servidores públicos, reintegros, aportaciones y apoyos de terceros, depósitos y otros no especificados.
 
-II. Multas.
-
-III. Intereses.
-
-IV. Reintegros.
-
-V. Indemnizaciones.
-
-VI. Aportaciones de los gobiernos federal, estatal y de terceros para obras y servicios de beneficio social a cargo del municipio.
-
-VII. Apoyos especiales o extraordinarios.
-
-VIII. Donativos, herencias y legados.
-
-IX. Empréstitos.
-
-X. Depósitos.
-
-XI. Gastos de ejecución.
-
-XII. Otros no especificados.
-
-> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 2006)</small>
-
-En el supuesto del párrafo tercero del artículo 19 de esta Ley, se cobrará a los contribuyentes ahí señalados, el 50 por ciento de los recargos y multas que se hayan generado hasta que se efectúe el pago correspondiente.
+En los términos de lo dispuesto en el último párrafo del artículo 6º A del Código, el municipio percibirá de manera accesoria a los Aprovechamientos señalados en este Título, los recargos, la indemnización, las multas, los gastos y los honorarios a que se refieren los artículos 25, 26, 50, 51 y 69, respectivamente, de ese Código, clasificándolos como parte de los Aprovechamientos.
 
 ###### ARTICULO 121.
 
@@ -3209,33 +3219,59 @@ El importe de los ingresos por concepto de multas deberá ser cubierto en la Tes
 
 Para determinar el pago por concepto de multas se considerarán, inclusive, las fracciones del peso. Sin embargo, para efecto de la determinación y liquidación del monto a pagar en los módulos de atención automatizados se deberá observar la siguiente regla de ajuste: los montos que contengan cantidades que incluyan de 1 hasta 50 centavos se ajustarán a la unidad inmediata inferior y los que contengan cantidades de 51 a 99 centavos, se ajustarán a la unidad inmediata superior.
 
-## TITULO SEPTIMO. DE LAS PARTICIPACIONES FEDERALES
+> <small>(REFORMADA SU DENOMINACION, P.O. 18 DE DICIEMBRE DE 2010)</small>
 
-### CAPITULO UNICO
+## TITULO SEPTIMO. DE LAS PARTICIPACIONES, APORTACIONES Y RECURSOS TRANSFERIDOS
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
+
+### CAPITULO I. DE LAS PARTICIPACIONES
+
+> <small>(REFORMADO Y REUBICADO P.O. 18 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 122.
 
-Los honorarios, recargos y gastos de ejecución a que se refiere el Código, serán condonables con la autorización del Congreso y a petición del Cabildo.
+Las participaciones federales son aquellos ingresos que recibe el municipio de conformidad con las leyes de coordinación fiscal, el Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal, al Convenio de Colaboración Administrativa en Materia Fiscal Federal y sus anexos.
 
-Los gastos de cobranza y de ejecución que se generen con motivo de la realización del procedimiento administrativo de ejecución, se registrarán por la tesorería municipal, hasta el momento en que efectivamente se cobren, sin clasificarlos en el concepto de la contribución o aprovechamiento del cual son accesorios.
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
 
-Con el propósito de elevar la recaudación tributaria y obtener una mayor eficiencia administrativa, se creará un fondo integrado por los gastos de cobranza y ejecución, que se destinará a incentivar al personal, repartiéndolo entre los que participen directa e indirectamente en la recuperación de los mismos, debiendo crear la partida presupuestal correspondiente.
+### CAPITULO II. DE LAS APORTACIONES
+
+> <small>(REFORMADO Y REUBICADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 123.
 
-Las participaciones federales son aquellos ingresos que recibe el municipio de conformidad con las leyes de coordinación fiscal, el Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal, al Convenio de Colaboración Administrativa en Materia Fiscal Federal y sus anexos.
+Son los ingresos que percibirá el Ayuntamiento en forma independiente y adicional a las participaciones que obtiene de la Federación, con base en las estimaciones que se tengan de la recaudación federal participable, señaladas en el Presupuesto de Egresos de la Federación.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
+
+### CAPITULO III. DE LOS RECURSOS TRANSFERIDOS
+
+> <small>(REFORMADO Y REUBICADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 124.
 
-Son los ingresos que percibirá el Ayuntamiento en forma independiente y adicional a la (sic) participaciones que obtiene de la federación, con base en las estimaciones que se tengan de la recaudación federal participable.
+Son los ingresos que percibirá el Ayuntamiento por los convenios suscritos con el gobierno federal o estatal destinados a la ejecución de programas federales o estatales mediante la reasignación de responsabilidades y recursos presupuestarios al municipio, de conformidad con las reglas de operación autorizadas, así como los que se deriven de los convenios de colaboración administrativa en materia de coordinación fiscal pactados con el Estado o la Federación.
 
-## TITULO OCTAVO. RECURSOS FEDERALIZADOS
+> <small>(REFORMADA SU DENOMINACION, P.O. 18 DE DICIEMBRE DE 2010)</small>
+
+## TITULO OCTAVO. INGRESOS EXTRAORDINARIOS
+
+### CAPITULO UNICO
+
+> <small>(REFORMADO Y REUBICADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 125.
 
-Son ingresos extraordinarios los que perciba la hacienda pública municipal, de conformidad con las leyes correspondientes.
+Son ingresos extraordinarios los que perciba la hacienda pública municipal por financiamientos, transferencias, subsidios y subvenciones, ayudas sociales y otros ingresos que obtenga el municipio, de conformidad con las leyes correspondientes.
 
-## TITULO NOVENO. INGRESOS EXTRAORDINARIOS
+> <small>(DEROGADO CON EL CAPITULO QUE LO INTEGRA, P.O. 18 DE DICIEMBRE DE 2010)</small>
+
+## TITULO NOVENO
+
+> <small>(DEROGADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
+
+### CAPÍTULO UNICO
 
 ## TRANSITORIOS
 
@@ -3374,3 +3410,7 @@ UNICO.- El presente Decreto entrará en vigor el día de su aprobación y deber�
 P.O. 19 DE DICIEMBRE DE 2009.
 
 ÚNICO.- El presente Decreto entrará en vigor el 01 de enero de 2010, previa su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 18 DE DICIEMBRE DE 2010.
+
+ÚNICO.- El presente Decreto entrará en vigor el 1º. de enero de 2011, previa su publicación en el Periódico Oficial "El Estado de Colima".
