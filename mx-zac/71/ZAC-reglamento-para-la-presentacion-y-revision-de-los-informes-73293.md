@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-para-la-presentacion-y-revision-de-los-informes-7329
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-12-05"
-last_updated: "2009-12-05"
+last_updated: "2010-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=73293&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 REGLAMENTO PARA LA PRESENTACION Y REVISION DE LOS INFORMES FINANCIEROS Y FISCALIZACION DE LOS RECURSOS DE LOS PARTIDOS POLITICOS Y COALICIONES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE DICIEMBRE DE 2010.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 5 de diciembre del 2009
 
@@ -947,7 +947,9 @@ II. Respecto del manejo de los egresos resultarán aplicables las reglas de comp
 
 ###### Artículo 98.
 
-1. El presente capítulo establece el procedimiento conforme al cual se erogará y comprobará el equivalente al tres por ciento (3%) del monto total del financiamiento público ordinario que reciben los partidos políticos para apoyo de las actividades especificas que realicen en los términos del artículo 47, párrafo 1, fracción X, de la Ley Electoral.
+1. El presente capítulo establece el procedimiento conforme al cual se erogará y comprobará el equivalente al tres por ciento (3%) del monto total del financiamiento público ordinario que reciben los partidos políticos para apoyo de las actividades específicas que realicen en los términos del artículo 47, numeral 1, fracción X, de la Ley Electoral.
+
+2. Respecto del 3% del financiamiento público ordinario que los partidos políticos destinarán a la capacitación, promoción y desarrollo del liderazgo político, que se estipula en el párrafo segundo de la fracción X señalada en el numeral que antecede, se estará a lo que se establezca en los Lineamientos que para tal efecto expida el Consejo General.
 
 ###### Artículo 99.
 
@@ -1155,25 +1157,39 @@ VI. Cualquier otro elemento que, a juicio del funcionario electoral del Institut
 
 5. De las constancias que se levanten con motivo de la observación a que se hace referencia en el presente artículo, el Secretario Ejecutivo expedirá una copia al partido político interesado, a más tardar dentro de los siete (7) días hábiles siguientes a la fecha en que se realizó la actividad.
 
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 105.
 
-1. Los partidos políticos deberán destinar el tres por ciento (3%) de su financiamiento público ordinario que reciban, para la capacitación, promoción y el desarrollo del liderazgo político de las mujeres en los términos del artículo 47, párrafo 1, fracción X de la Ley Electoral.
+1. Los partidos políticos deberán destinar el tres por ciento (3%) de su financiamiento público ordinario que reciban, para la capacitación, promoción y el desarrollo del liderazgo político de las mujeres en los términos de lo establecido en el artículo 47, numeral 1, fracción X, párrafo segundo de la Ley Electoral y en los lineamientos que para tal efecto se expidan.
 
 2. Dichas actividades deberán sujetarse a lo establecido en el artículo 45 Bis fracciones III, V, VI, VIII y IX de la Ley Orgánica.
 
 ###### Artículo 106.
 
-1. Los partidos políticos deberán presentar ante la Secretaría Técnica de la Comisión, a más tardar dentro de los treinta (30) días siguientes a la conclusión del trimestre que corresponda, la totalidad de los formatos únicos de gastos directos e indirectos, los documentos y muestras que comprueben los gastos erogados en el trimestre por cualquiera de las actividades que se señalan en el artículo 100 de este Reglamento con que cuente. Excepcionalmente, los partidos contarán con treinta (30) días adicionales para presentar los comprobantes o muestras de las actividades realizadas. Ningún documento o comprobante de gasto o muestra de la actividad correspondiente a un ejercicio fiscal podrá ser presentada en otro distinto.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
 
-2. En caso de existir errores u omisiones en el formato o en la comprobación de los gastos que presenten los partidos políticos en los plazos establecidos en el párrafo anterior del presente artículo, la Secretaria Técnica de la Comisión, cantará con un plazo de cincuenta (50) días naturales contados a partir de la presentación de la documentación correspondiente a cada trimestre, para solicitar las aclaraciones correspondientes y precisará los montos y las actividades específicas susceptibles de aclaración.
+1. Los partidos políticos deberán presentar ante la Secretaría Técnica de la Comisión, a más tardar dentro de los treinta (30) días naturales a la conclusión del trimestre que corresponda, la totalidad de los formatos únicos de gastos directos e indirectos, los documentos y muestras que comprueben los gastos erogados en el trimestre por cualquiera de las actividades que se señalan en el artículo 100 de este Reglamento con que cuente. Ningún documento o comprobante de gasto o muestra de la actividad correspondiente a un ejercicio fiscal podrá ser presentada en otro distinto.
 
-3. La Secretaría Técnica de la Comisión, podrá solicitar elementos y documentación adicional, para acreditar las actividades específicas a que se refiere este capítulo.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
 
-4. Los partidos políticos contarán con un plazo de diez (10) días hábiles a partir de la notificación, para manifestar lo que a su derecho convenga, respecto de los requerimientos que se les realicen en los términos de lo establecido en los dos párrafos anteriores.
+2. La Comisión, contará con un plazo de cincuenta días naturales contados a partir de la presentación de la documentación correspondiente a cada trimestre, para solicitar las aclaraciones correspondientes y precisará los montos y las actividades específicas susceptibles de aclaración.
 
-5. Si a pesar de los requerimientos formulados al partido político persisten deficiencias en la comprobación de los gastos erogados, o en las muestras para la acreditación de las actividades realizadas, o si persiste la falta de vinculación entre los gastos y la actividad específica, tales gastos no serán considerados como gastos en actividades especificas.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
 
-6. La documentación comprobatoria, muestras, formatos y en general todo elemento o documento adicional que sea presentado por los partidos políticos ante la Oficialía de Partes del Instituto, deberá ser debidamente sellada y razonada de su recepción.
+3. Si al momento de la revisión de los informes financieros la Comisión, la Unidad de Fiscalización y la Dirección detectan la existencia de errores u omisiones en el formato o en la comprobación de los gastos que presenten los partidos políticos, realizarán las observaciones correspondientes y notificarán a los partidos políticos que hubieren incurrido en ellos a efecto de que en el plazo de diez días contados a partir del día siguiente a dicha notificación, presenten las rectificaciones o aclaraciones que estimen pertinentes para acreditar las actividades específicas a que se refiere este capítulo;
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
+
+4. La Comisión notificará al partido político correspondiente, si las aclaraciones o rectificaciones hechas por éste subsanan los errores u omisiones encontrados, otorgándole, en su caso, un plazo improrrogable de cinco días contados a partir de la notificación para que los subsane;
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
+
+5. La Comisión notificará al partido político respectivo, del resultado de las aclaraciones o rectificaciones formuladas, antes del vencimiento del plazo de treinta días que la Comisión tiene para elaborar el dictamen consolidado que someterá a la consideración del Consejo General; y
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
+
+6. En caso, de que el partido político de que se trate, sea omiso en informar o no manifieste lo que a su interés convenga en el término señalado, se tendrá por incumplido el requerimiento formulado.
 
 7. Con base en el artículo 4 de la Ley Electoral, y cuando la Comisión lo juzgue pertinente, el Secretario Ejecutivo enviara a la Secretaría de Hacienda y Crédito Público copia certificada de los comprobantes señalados, a fin de asegurar la autenticidad de la documentación.
 
@@ -1183,11 +1199,17 @@ VI. Cualquier otro elemento que, a juicio del funcionario electoral del Institut
 
 10. En caso de que la Comisión, considere que el precio del bien o servicio está notoriamente fuera de mercado, solicitará a la Secretaría Técnica tres (3) cotizaciones diferentes para el tipo de actividad en cuestión, con lo cual la comisión determinará el porcentaje del gasto que aceptará como erogación por dicha actividad.
 
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
+
 ### Capítulo Cuarto. De los Gastos por Actividades Específicas y por Actividades para la capacitación, promoción y el desarrollo del liderazgo político de las mujeres
 
-###### Articulo 107.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
 
-1. En el dictamen consolidado que se elabore de los informes anuales, la Secretaría Técnica de la Comisión, consolidará las comprobaciones de gastos presentados, así como la comprobación de las erogaciones de las actividades de capacitación, educación y desarrollo del liderazgo de las mujeres en la política, e informará a la Comisión del importe al que ascendieron los gastos que los partidos políticos comprobaron haber erogado en dicha anualidad para la realización de las actividades específicas señaladas en el artículo 100 del Reglamento.
+###### Artículo 107.
+
+1. En el dictamen consolidado que se elabore de los informes anuales, la Secretaria Técnica de la Comisión, consolidará las comprobaciones de gastos presentados, así como la comprobación de los gastos por actividades específicas y por actividades para la capacitación, promoción y desarrollo del liderazgo de las mujeres, de conformidad con lo establecido en el presente capítulo y el procedimiento que se establezca en los Lineamientos específicos de la materia, e informará a la Comisión del importe al que ascendieron los gastos que los partidos políticos comprobaron haber erogado en dicha anualidad para la realización de esas actividades, en términos de lo previsto en la fracción X, numeral 1 del artículo 47 de la Ley Electoral.
+
+(REFORMADO, P.O. 18 DE DICIEMBRE DE 2010
 
 ###### Artículo 108.
 
@@ -1203,7 +1225,7 @@ II. El setenta por ciento (70%) restante de acuerdo con el porcentaje de votos q
 
 4. El Consejo General, a través de la Unidad de Fiscalización, vigilará que los partidos políticos destinen el financiamiento, exclusivamente a las actividades señaladas.
 
-5. Derivado de la revisión de los informes financieros anuales, a los partidos políticos que no hubieren acreditado comprobar la erogación de por lo menos el tres por ciento (3%) del financiamiento público ordinario para la capacitación, promoción y el desarrollo del liderazgo político de las mujeres, establecido en el artículo 47, párrafo 1, fracción X, de la Ley Electoral, el Instituto les aplicará las sanciones correspondientes.
+5. Derivado de la revisión de los informes financieros anuales, a los partidos políticos que no comprueben la erogación de por lo menos el tres por ciento (3%) del financiamiento público ordinario para la capacitación, promoción y el desarrollo del liderazgo político de las mujeres, establecido en el artículo 47, numeral 1, fracción X, párrafo segundo de la Ley Electoral, el Instituto les aplicará las sanciones correspondientes.
 
 ###### Artículo 109.
 
@@ -1516,3 +1538,15 @@ Tercero.- Se abroga el Reglamento para la Presentación y Revisión de los Infor
 Cuarto.- Publíquese en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 > <small>N. DE E. VEASE FORMATOS Y ANEXOS EN EL SUPLEMENTO DEL P.O. DE 5 DE DICIEMBRE DE 2009, PAGINAS DE LA 144 A LA 216.</small>
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 18 DE DICIEMBRE DE 2010.
+
+SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.
+
+TERCERO: Las reformas y adiciones a los artículos 98, 105, 106, 107 Y 108 del Reglamento para la presentación y revisión de los informes financieros y fiscalización de los recursos de los partidos políticos y coaliciones, y los Lineamientos que establecen el procedimiento al que deberán sujetarse los partidos políticos para destinar y comprobar el 3% de su financiamiento público ordinario para la capacitación, promoción y desarrollo del liderazgo político de las mujeres, entrarán en vigor a partir del día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+CUARTO: Publíquese el presente Acuerdo y su anexo en el Periódico Oficial, Órgano del Gobierno del Estado y en la página de internet www.ieez.org.mx.
+
+QUINTO: Notifíquese conforme a derecho el presente Acuerdo y su anexo.
