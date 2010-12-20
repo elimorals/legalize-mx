@@ -4,7 +4,7 @@ identifier: "SON-ley-de-educacion-para-el-estado-de-sonora-8518"
 country: "mx"
 rank: "ley"
 publication_date: "1994-12-30"
-last_updated: "2010-06-28"
+last_updated: "2010-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8518&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE EDUCACION PARA EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 28 DE JUNIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el viernes 30 de diciembre de 1994.
 
@@ -77,7 +77,7 @@ Todo individuo tiene derecho a recibir educación y, por lo tanto, todos los hab
 
 La educación es el medio fundamental para adquirir, transmitir y acrecentar la cultura, es proceso permanente que contribuye al desarrollo del individuo y a la transformación de la sociedad y es factor determinante para la adquisición de conocimientos y para formar al hombre de manera que tenga sentido de solidaridad social.
 
-En el proceso educativo deberá asegurarse la participación activa del educando, estimulando su iniciativa y su sentido de responsabilidad social, para alcanzar los fines a que se refieren los artículos tercero de la Constitución y el séptimo de la Ley General.
+En el proceso educativo deberá asegurarse la participación activa del educando, estimulando su iniciativa y su sentido de responsabilidad social, para alcanzar los fines a que se refieren los artículos (sic) tercero de la Constitución y el séptimo de la Ley General.
 
 ###### ARTICULO 5o.
 
@@ -101,6 +101,38 @@ La educación básica que imparta el Estado, sus organismos descentralizados, y 
 
 Las donaciones destinadas a dicha educación, en ningún caso se entenderán como contraprestación del servicio educativo.
 
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2010)</small>
+
+Para garantizar la gratuidad en la educación básica que imparta el Estado, el Ejecutivo Estatal destinará en el proyecto de presupuesto de egresos del Gobierno del Estado que presente al Congreso del Estado, anualmente, una previsión de recursos para la constitución y operación de un fondo para el mantenimiento, mejora y equipamiento de las escuelas públicas de nivel básico pertenecientes al sistema educativo del Estado. Los recursos del fondo a los que se hace mención en este párrafo no deberán ser menores al equivalente a, cuando menos, el 1% del presupuesto de egresos que anualmente apruebe el Congreso del Estado para el Poder Ejecutivo.
+
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2010)</small>
+
+ARTÍCULO 8 BIS.- El 80% de los recursos del fondo referido en el tercer párrafo del artículo anterior se destinarán, de forma igualitaria, a todas las escuelas públicas de nivel básico, en razón de la matrícula con que cuente cada una de ellas al inicio de cada ciclo escolar; el restante 20% de los recursos del fondo se destinarán a aquellas escuelas públicas del nivel básico que se encuentren ubicadas en zonas urbanas o rurales del Estado con altos niveles de marginación y pobreza, con población indígena o que requieran apoyo especial, en razón de las condiciones de infraestructura en las que se encuentran.
+
+El Ejecutivo del Estado deberá incluir en la iniciativa que presente al Congreso del Estado de proyecto de presupuesto de egresos del Gobierno del Estado para el ejercicio fiscal que corresponda, la relación de todas las escuelas públicas de nivel básico en el Estado con su respectiva matrícula, la clave del centro de trabajo asignado por la Secretaría, su ubicación y los respectivos montos, por separado, que le correspondan a cada una de las escuelas, en relación a lo que se dispone en el párrafo anterior.
+
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2010)</small>
+
+ARTÍCULO 8 BIS A.- La Secretaría realizará la entrega de los recursos del fondo a que se refiere el párrafo tercero del artículo 8° para su ejercicio directo en las escuelas públicas del nivel básico, señalando como ejecutor del gasto al director del respectivo plantel educativo, atendiendo a lo siguiente:
+
+I.- Los recursos del fondo serán depositados a las respectivas cuentas bancarias que para tales efectos cuenten cada una de las escuelas beneficiadas. En caso de que por su naturaleza o situación geográfica, alguna escuela no pueda tener cuenta bancaria, los recursos deberán de ser entregados en cheque nominativo o a través del medio idóneo que determine la Secretaría; y
+
+II.- Del total de los recursos del fondo que le corresponden a cada escuela, éstos deberán entregarse a cada una de ellas a más tardar en el mes de marzo de cada año.
+
+El Director de cada plantel educativo deberá tener un registro actualizado de los recursos recibidos y ejercidos. En los meses de junio y diciembre deberá elaborar y presentar al Consejo Escolar de Participación Social, un informe sobre el estado que guarda la aplicación de los recursos del fondo a que se refiere el párrafo tercero del artículo 8 de esta ley.
+
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2010)</small>
+
+ARTÍCULO 8 BIS B.- Los recursos provenientes del fondo a que se refiere el párrafo tercero del artículo 8°, sólo deberán destinarse para realizar las acciones de mantenimiento, mejora y equipamiento que sean aprobadas por el Consejo Escolar de Participación Social y el director de cada escuela, debiendo informar a la Secretaría de las acciones realizadas.
+
+Los recursos provenientes del fondo referido en el artículo 8 de esta ley, podrán ser aplicados en proyectos de inversión conjunta con autoridades municipales, estatales o federales.
+
+Todas las operaciones que se realicen deberán estar soportadas con la documentación comprobatoria correspondiente. Dicha documentación quedará bajo guarda y custodia de los respectivos planteles educativos y estará a disposición de la Secretaría y de los Órganos de Control correspondientes.
+
+Para la asignación y ejecución de las obras de mantenimiento y mejora, así como de adquisiciones, deberán sujetarse a las disposiciones legales aplicables, para lo cual deberá observarse lo establecido en el Capítulo II del Título Tercero de la Ley de Obras Publicas y Servicios Relacionadas con las Mismas para el Estado de Sonora, así como a las disposiciones relativas y aplicables de la Ley de Adquisiciones, Arrendamientos y Prestación de Servicios Relacionados con Bienes Muebles de la Administración Pública Estatal.
+
+En las obras de mejoras a las escuelas no podrá considerarse la construcción de nuevas aulas, así como tampoco podrá considerarse en equipamiento la adquisición de mesabancos, pizarrones y escritorios para maestros y directivos, ya que estos rubros deberán ser atendidos directamente por la Secretaría.
+
 ###### ARTICULO 9o.
 
 El Sistema Educativo tendrá una estructura que permita al educando, en cualquier tiempo, incorporarse a la vida económica y social, así como que el trabajador, sin detrimento de sus labores, pueda estudiar.
@@ -108,6 +140,18 @@ El Sistema Educativo tendrá una estructura que permita al educando, en cualquie
 ###### ARTICULO 10.
 
 Los servicios de la educación que en los términos de esta Ley se impartan, deberán extenderse a quienes carecen de ellos, para contribuir a eliminar los desniveles económicos y sociales. Se considerarán las necesidades educativas de la población en la Entidad y las características particulares de los grupos sociales que la integran, respetando e impulsando el desarrollo de su acervo cultural.
+
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2010)</small>
+
+Con ese propósito, el Ejecutivo Estatal deberá incluir en el proyecto del Presupuesto de Egresos del Gobierno del Estado que presente al Congreso del Estado, recursos suficientes que le permitan atender la transportación escolar gratuita de aquellos estudiantes cuyo domicilio se encuentre ubicado en una comunidad que no cuente con el plantel de educación básica que le corresponda de acuerdo a su edad y preparación escolar y que, por su misma lejanía, al residir en un centro poblacional distinto al de escuela a la que debería asistir, no cuente con acceso a los medios de transporte que están a disposición de los estudiantes que habitan la misma comunidad en que se localiza el plantel escolar respectivo.
+
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2010)</small>
+
+ARTICULO 10 BIS.- El Ejecutivo del Estado deberá incluir en la iniciativa que presente al Congreso del Estado de proyecto de presupuesto de egresos del Gobierno del Estado para el ejercicio fiscal que corresponda, la relación de todas aquellas poblaciones que no cuenten con alguna de las escuelas públicas del nivel básico y que, por su misma lejanía, tengan necesidad de contar con transportación escolar de sus estudiantes, a una población distinta a la que habitan; así como el número de escuelas, el nombre oficial, clave del centro de trabajo y ubicación, detallando el monto que será aplicado en cada una de ellas por concepto de transporte escolar, en relación al número de alumnos que habrán de transportarse y la lejanía del plantel escolar con la comunidad de origen de sus alumnos.
+
+Estos recursos serán aplicados a través del Programa de Transporte Escolar de la Secretaría y no deberán destinarse a otro fin distinto al de transporte escolar de los estudiantes que tengan necesidad de este servicio, por las razones que se describen en el segundo párrafo del artículo anterior.
+
+El servicio de transporte escolar gratuito será prestado con los recursos materiales y humanos con que cuente la Secretaría, o por medio de convenio con los sistemas de transporte escolar establecido por particulares, las mismas escuelas o la sociedad de padres de familia del plantel que corresponda, por lo que no se cobrará cuota alguna que tenga la finalidad de financiar este servicio, ya sea de manera directa o indirecta.
 
 ###### ARTICULO 11.
 
@@ -1008,3 +1052,31 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Dentro de un plazo de 90 días contados a partir de la entrada en vigor del presente Decreto, el Titular del Poder Ejecutivo del Estado deberá emitir la normatividad correspondiente con el propósito de hacer efectivas las disposiciones del presente Decreto.
+
+B.O. 20 DE DICIEMBRE DE 2010.
+
+DECRETO NUMERO 77, POR EL QUE SE ADICIONAN UN PARRAFO TERCERO AL ARTICULO 8°, Y LOS ARTICULOS 8° BIS, 8° BIS A Y 8° BIS B, A LA LEY DE EDUCACION.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+En virtud de que a la fecha de aprobación del presente Decreto, el Ejecutivo del Estado ha presentado la iniciativa de presupuesto de egresos del gobierno del Estado para el ejercicio fiscal del año 2011, el Congreso del Estado deberá realizar las reasignaciones que resulten necesarias para que pueda materializarse la operación del fondo referido en el artículo 8 que se reforma mediante la aprobación del presente Decreto.
+
+B.O. 20 DE DICIEMBRE DE 2010.
+
+DECRETO NUMERO 78, POR EL QUE SE ADICIONA UN PARRAFO SEGUNDO AL ARTICULO 10 Y UN ARTICULO 10 BIS A LA LEY DE EDUCACION.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro de un plazo de 90 días, contado a partir de la entrada en vigor del presente Decreto, el Titular del Poder Ejecutivo del Estado deberá emitir la normatividad correspondiente con el propósito de hacer efectivas las disposiciones del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+En virtud de que a la fecha de aprobación del presente Decreto, el Ejecutivo del Estado ha presentado la iniciativa de presupuesto de egresos del gobierno del Estado para el ejercicio fiscal del año 2011, el Congreso del Estado deberá realizar las reasignaciones que resulten necesarias para que puedan materializarse las disposiciones del presente Decreto.
