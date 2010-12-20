@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-la-administracion-publica-del-distrito-12954"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1998-12-29"
-last_updated: "2009-07-01"
+last_updated: "2010-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12954&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1998-12-14"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 1 DE JULIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 20 DE DICIEMBRE DE 2010.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 29 de diciembre de 1998.
 
@@ -490,11 +490,71 @@ XVII. Integrar el patronato y participar en la integración de la junta de Gobie
 
 XVIII. Llevar el padrón de los certificados de cumplimiento de los establecimientos mercantiles señalados como de su competencia en la Ley de Establecimientos Mercantiles del Distrito Federal, y
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, G.O. 20 DE DICIEMBRE DE 2010)</small>
+
+XIX. Coordinar y supervisar el funcionamiento del Sistema de Protección Civil para garantizar, mediante la adecuada planeación, la prevención, auxilio y recuperación de la población y de su entorno ante situaciones de desastre, incorporando la participación activa y comprometida de la sociedad;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, G.O. 20 DE DICIEMBRE DE 2010)</small>
+
+XX. Coordinar a las partes del Sistema de Protección Civil en la elaboración de los planes y programas básicos de atención, auxilio y apoyo al restablecimiento de la normalidad, frente a los desastres provocados por los diferentes tipos de agentes perturbadores;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, G.O. 20 DE DICIEMBRE DE 2010)</small>
+
+XXI. Solicitar al Jefe de Gobierno la emisión de las declaratorias de emergencia o desastre, acompañando dicha solicitud con un informe técnico de la situación por la que se requiere la intervención inmediata del Sistema de Protección Civil y de los recursos del FOPREDE o del FODEM, en los términos de las reglas de operación de los mismos;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, G.O. 20 DE DICIEMBRE DE 2010)</small>
+
+XXII. Suscribir convenios de colaboración administrativa con las partes integrantes del Sistema de Protección Civil, en materia de diagnóstico, prevención y atención de desastres;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, G.O. 20 DE DICIEMBRE DE 2010)</small>
+
+XXIII. Operar, en términos de la normatividad aplicable, el Fondo Revolvente del FODEM para la adquisición de suministros de auxilio en situaciones de emergencia y desastre;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, G.O. 20 DE DICIEMBRE DE 2010)</small>
+
+XXIV. Determinar, en los términos de las Reglas de Operación, la adquisición de equipo especializado de transporte, comunicación, alertamiento y atención de emergencias y desastres, atención de emergencias y desastres (sic), así como indumentaria especializada para la atención y rescate con cargo al FOPREDE;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, G.O. 20 DE DICIEMBRE DE 2010)</small>
+
+XXV. Elaborar las normas técnicas complementarias y términos de referencia en materia de protección civil;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, G.O. 20 DE DICIEMBRE DE 2010)</small>
+
+XXVI. Impulsar la actualización de las empresas capacitadoras, de consultoría y de estudios de riesgo vulnerabilidad vinculadas a la materia de protección civil;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, G.O. 20 DE DICIEMBRE DE 2010)</small>
+
+XXVII. Iniciar y resolver el procedimiento administrativo con la finalidad de revocar el registro a las empresas capacitadoras, de consultoría y de estudios de riesgo vulnerabilidad, y a los terceros acreditados, que incurran en violaciones a la presente Ley o su reglamento; y (sic)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, G.O. 20 DE DICIEMBRE DE 2010)</small>
+
+XXVIII. Las demás que la presente Ley, así como otras disposiciones le asignen.
+
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, G.O. 26 DE ENERO DE 2009)</small>
 
-XIX. Las demás que le atribuyan expresamente las leyes y reglamentos.
+XXIX. Las demás que le atribuyan expresamente las leyes y reglamentos.
 
 > <small>(ADICIONADO, G.O. 6 DE FEBRERO DE 2007)</small>
 
@@ -1444,13 +1504,13 @@ La Administración Pública del Distrito Federal contará con órganos político
 
 Los titulares de los Organos Político-Administrativo de cada demarcación territorial serán elegidos en forma universal, libre, secreta y directa en los términos establecidos en la legislación aplicable y se auxiliarán para el despacho de los asuntos de su competencia de los Directores Generales, Directores de Area, Subdirectores y Jefes de Unidad Departamental, que establezca el Reglamento Interior.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 17 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 20 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 39.
 
-Corresponde a los titulares de los órganos Político-Administrativos de cada demarcación territorial:
+Corresponde a los Titulares de los Órganos Político-Administrativos de cada demarcación territorial:
 
 I. Legalizar las firmas de sus subalternos, y certificar y expedir copias y constancias de los documentos que obren en los archivos de la Delegación;
 
@@ -1630,11 +1690,25 @@ LXXXI. Proponer el Jefe de Gobierno, los proyectos de Programas Operativos Anual
 
 > <small>(ADICIONADA, G.O. 4 DE AGOSTO DE 2004)</small>
 
-LXXXII. Coadyuvar con la dependencia de la administración Pública del Distrito Federal que resulte competente, en las tareas de seguridad pública y protección civil en la Delegación; y
+LXXXII. Coadyuvar con la dependencia de la administración Pública del Distrito Federal que resulte competente, en las tareas de seguridad pública y protección civil en la Delegación; y (sic)
 
-> <small>(ADICIONADA, G.O. 4 DE AGOSTO DE 2004)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-LXXXIII. Las demás que le atribuyan expresamente las leyes y reglamentos.
+> <small>(ADICIONADA, G.O. 20 DE DICIEMBRE DE 2010)</small>
+
+LXXXIII. Solicitar al Jefe de Gobierno del Distrito Federal, la emisión de la declaratoria de emergencia o la declaratoria de desastre en los términos de la Ley de Protección Civil;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, G.O. 20 DE DICIEMBRE DE 2010)</small>
+
+LXXXIV. Elaborar su respectivo Atlas de Riesgo Delegacional y mantenerlo actualizado;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, G.O. 20 DE DICIEMBRE DE 2010)</small>
+
+LXXXV. Las demás que le atribuyan expresamente las Leyes y reglamentos.
 
 ## TITULO TERCERO. DE LA ADMINISTRACION PUBLICA PARAESTATAL
 
@@ -2149,3 +2223,17 @@ G.O. 1 DE JULIO DE 2009.
 PRIMERO. Publíquese el presente Decreto en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente después de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 20 DE DICIEMBRE DE 2010.
+
+PRIMERO.- El presente decreto entrará en vigor el 1 de enero de 2011.
+
+SEGUNDO.- El Gobierno del Distrito Federal publicará el Programa General de Protección Civil del Distrito Federal en un plazo no mayor a 60 días posteriores a la publicación del presente decreto.
+
+TERCERO.- El Gobierno del Distrito Federal expedirá las Reglas de Operación y Lineamientos a que hace referencia el presente decreto sin que la publicación exceda el 1 de enero de 2011.
+
+CUARTO.- A partir del ejercicio fiscal 2011, el Presupuesto de Egresos del Distrito Federal contemplará los recursos necesarios para la operación del Fondo de Desastres y del Fondo Preventivo de Desastres Naturales.
+
+QUINTO.- El Presupuesto de Egresos del Distrito Federal contemplará para el ejercicio fiscal 2011, por única ocasión, los recursos necesarios para la creación y operación del Fideicomiso Preventivo de Desastres.
+
+SEXTO.- Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
