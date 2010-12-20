@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-turismo-para-el-estado-de-baja-california-sur-43838"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-31"
-last_updated: "2004-12-31"
+last_updated: "2010-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43838&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCS"
 
 LEY DE TURISMO PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE TURISMO PARA EL ESTADO DE BAJA CALIFORNIA SUR PUBLICADA EN EL B.O. DE 20 DE DICIEMBRE DE 2010. EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el día 31 de diciembre de 2004.
 
@@ -652,3 +654,21 @@ C. LIC. LEONEL EFRAIN COTA MONTAÑO
 EL SECRETARIO GENERAL DE GOBIERNO
 
 C. PROFR. VICTOR MANUEL LIZARRAGA PERAZA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+B.O. 20 DE DICIEMBRE DE 2010.
+
+Primero.- La presente Ley entrará en vigor al siguiente día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+Segundo.- Se abroga la Ley de Turismo para el Estado de Baja California Sur, publicada en Boletín Oficial del Gobierno del Estado de Baja California Sur, el 31 de Diciembre de 2004, contenida en el Decreto 1509.
+
+Tercero.- El Ejecutivo Estatal deberá emitir el Reglamento que se derive de la presente Ley, dentro de los ciento veinte días naturales a partir de la entrada en vigor del presente Decreto.
+
+Cuarto.- Todos los procedimientos, recursos administrativos y demás asuntos relacionados con las materias a que se refiere esta Ley, iniciados con anterioridad a la entrada en vigor del presente Decreto, se tramitarán y resolverán conforme a las disposiciones vigentes en el momento de su inicio.
+
+Quinto.- La Secretaría de Turismo en el Estado en coordinación con los Municipios, deberá establecer los mecanismos que faciliten a los prestadores de servicios turísticos, su inscripción el Registro Nacional de Turismo, para los efectos del Artículo Sexto Transitorio de la Ley General de Turismo.
+
+Sexto.- El Consejo Consultivo Estatal de Turismo, deberá instalarse dentro del plazo de noventa días, contados a partir de la fecha de entrada en vigor de la presente Ley.
+
+Séptimo.- En un plazo de sesenta días a partir de la constitución del Consejo Consultivo Estatal de Turismo, deberán de conformarse los Consejos Consultivos de Turismo Municipales.
