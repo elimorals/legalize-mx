@@ -4,7 +4,7 @@ identifier: "SON-ley-de-hacienda-del-estado-de-sonora-8444"
 country: "mx"
 rank: "ley"
 publication_date: "1976-12-31"
-last_updated: "2010-07-01"
+last_updated: "2010-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8444&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "SON"
 
 LEY DE HACIENDA DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 2009.
-
-> <small>N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2010, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN EL B.O. DE 1 DE JULIO DE 2010.</small>
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el viernes 31 de diciembre de 1976.
 
@@ -1983,7 +1981,7 @@ El otorgamiento del estímulo en el pago del impuesto a que se refiere el presen
 
 > <small>(ADICIONADO, B.O. 15 DE ENERO DE 2009)</small>
 
-Los contribuyentes beneficiarios al (sic) estímulo previsto en este artículo, deberán presentar sus declaraciones fiscales de conformidad con las disposiciones vigentes, señalando el monto del impuesto causado y el monto del estímulo a que sean acreedores, mismo que será deducido del impuesto causado.
+Los contribuyentes beneficiarios al estímulo previsto en este artículo, deberán presentar sus declaraciones fiscales de conformidad con las disposiciones vigentes, señalando el monto del impuesto causado y el monto del estímulo a que sean acreedores, mismo que será deducido del impuesto causado.
 
 > <small>(ADICIONADO, B.O. 15 DE ENERO DE 2009)</small>
 
@@ -3537,9 +3535,9 @@ Tratándose de publicaciones de convenios autorización de fraccionamientos
 
 habitacionales se aplicará la cuota correspondiente reducida en un 75%.
 
-> <small>(ADICIONADO, B.O. 29 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 20 DE DICIEMBRE DE 2010)</small>
 
-Tratándose de publicación de reglamentos que aprueben los ayuntamientos del Estado se otorgará una reducción conforme a la siguiente tabla:
+Tratándose de publicación de los actos que por disposición de alguna ley deban publicarse en el Boletín Oficial, reglamentos y disposiciones administrativas de observancia general expedidos o aprobados por los ayuntamientos del Estado, que no actualicen los supuestos contemplados en el artículo 4o, fracciones I y II de la Ley del Boletín Oficial, se sujetarán a las reducciones conforme a la siguiente tabla:
 
 a).- A los municipios con población menor a 2,500 habitantes, la reducción será del 75 por ciento.
 
@@ -4837,7 +4835,7 @@ d).- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2009)
 
 e).- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2009)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2008)</small>
 
@@ -4903,7 +4901,7 @@ fuera del límite del centro de población $3,500.00
 
 > <small>(ADICIONADO, B.O. 29 DE DICIEMBRE DE 2006)</small>
 
-Los servicios a que se refieren los puntos 8, 9, 11, 12, 13, 14, 15, 17 Y 18 de esta fracción se prestarán por conducto de la Comisión de Ecología y Desarrollo Sustentable del Estado de Sonora.
+Los servicios a que se refieren los puntos 8, 9, 11, 12, 13, 14, 15, 17 y 18 de esta fracción se prestarán por conducto de la Comisión de Ecología y Desarrollo Sustentable del Estado de Sonora.
 
 III.- Servicios Prestados por la Secretaría de Salud Pública del Estado.
 
@@ -4977,7 +4975,7 @@ as Normas Oficiales Mexicanas y Normas Técnicas. $400.00
 
 11.- Expedición de copias certificadas de documentos,
 
-por hoja u oficio. N$3.20
+por cada hoja u oficio. N$3.20
 
 12.- Reposición de constancias o duplicado de las
 
@@ -5912,3 +5910,17 @@ B.O. 31 DE DICIEMBRE DE 2009.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor a partir del 1° de enero de 2010, previa su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 20 DE DICIEMBRE DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo Estatal, a más tardar quince días naturales contados a partir de la entrada en vigor del presente Decreto, deberá realizar las previsiones presupuestales que garanticen el efectivo cumplimiento de las disposiciones contenidas en el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Para las disposiciones y actos generados por los Ayuntamientos, a los que hace referencia el artículo 4o de la Ley del Boletín Oficial, que no se encuentren vigentes por falta de publicación en el Boletín Oficial o, en su caso, que no hayan sido aprobados a la fecha y sean derivados de normatividad que establece un plazo para el efecto que al día de hoy se encuentra vencido, se otorgará exención del pago por publicación por el término de 1 año, contado a partir de la fecha de publicación de este Decreto, transcurrido dicho término, se sujetarán al pago de la cuota para su publicación, en los términos establecidos en el presente Decreto.
