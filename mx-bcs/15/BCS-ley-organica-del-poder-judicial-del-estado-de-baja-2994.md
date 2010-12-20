@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-poder-judicial-del-estado-de-baja-2994"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1996-04-20"
-last_updated: "2009-07-31"
+last_updated: "2010-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2994&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCS"
 ---
 # LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 20 DE MARZO DE 2011 EN EL B.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE JULIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el sábado 20 de abril de 1996.
 
@@ -112,6 +114,14 @@ V. El de Los Cabos, con la extensión territorial del Municipio del mismo nombre
 ###### ARTICULO 5.
 
 El Tribunal Superior de Justicia tendrá su residencia en la capital del Estado y solo podrá cambiarla cuando así lo decrete el H. Congreso del Estado; estará constituido por siete Magistrados que durarán en su encargo seis años.
+
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2010)</small>
+
+Los Magistrados que aspiren a ser reelectos deberán ser evaluados y deben conservar los requisitos cumplidos para su elección previstos en la Constitución Política del Estado de Baja California Sur, así como no encontrarse en ninguno de los supuestos previstos en su artículo 93. La evaluación del desempeño de los magistrados deberá sujetarse a criterios objetivos relativos a la excelencia y ética profesionales (sic), honestidad, eficiencia, diligencia y buena reputación.
+
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2010)</small>
+
+Las resoluciones del Congreso del Estado respecto a la reelección o no reelección de magistrados serán definitivas e inatacables, por lo que no procederá juicio, recurso o medio de defensa ordinario o extraordinario alguno en contra de las mismas.
 
 > <small>(REFORMADO, B.O. 24 DE DICIEMBRE DE 2008)</small>
 
@@ -229,6 +239,32 @@ XXXII. Determinar los casos de retiro de los Magistrados del Tribunal Superior d
 
 XXXIII. Las demás facultades que le confieren las Leyes y Reglamentos.
 
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2010)</small>
+
+###### ARTICULO 11
+
+BIS.- El Pleno del Tribunal Superior de Justicia deberá rendir al Congreso del Estado, los informes y documentación que este le solicite en relación con las actividades y labores del Poder Judicial, así como toda información que le requiera para los procedimientos de reelección de magistrados, en su caso.
+
+La información para procedimiento de reelección de algún magistrado, deberá entregarse dentro del plazo de diez días naturales contados a partir del día siguiente a aquel en que se formula la solicitud, incluyendo la siguiente:
+
+I. La información estadística, que contendrá el número total de asuntos que fueron turnados a su adscripción y los que fueron resueltos, incluyendo el porcentaje de los pendientes de resolución;
+
+II. El total de asuntos asignados a la ponencia del Magistrado, durante el periodo en que integró Sala Colegiada, así como los resueltos por su ponencia incluyéndose el total de pendientes de resolución;
+
+III. El total de asuntos turnados a la sala que preside el magistrado, precisando cuantos han sido resueltos y cuantos están pendientes de resolución;
+
+IV. El número desglosado del total de sentencias elaboradas por la Sala a la que pertenezca el Magistrado, en las que se concedió el amparo y protección de la justicia federal, diferenciando aquéllas que implicaron modificaciones de forma y cuáles de fondo así como la concesión lisa y llana, de plano o para efectos y sobreseídos.
+
+V. La información de los resultados que el Pleno haya recibido en materia de quejas procesales o administrativas contra la ponencia del Magistrado en cuestión, las cuales deberán contener la evolución de los procedimientos respectivos y el resultado de su procedencia o no, así como las sanciones impuestas;
+
+VI. Las comisiones realizadas en el desempeño de su encargo;
+
+VII. La documentación que acredite la impartición de cursos, conferencias, seminarios por parte del Magistrado dentro del Poder Judicial, tendientes a mejorar la impartición de justicia y los dirigidos hacia la sociedad, para promover la cultura jurídica; así como las constancias que demuestren la preparación y actualización de sus conocimientos durante el desempeño de su
+
+cargo; y
+
+VIII. El total de sesiones del Pleno del Tribunal celebradas, tanto ordinarias como extraordinarias, y el número total de estas a las que asistió la magistrada o el magistrado sujeto al procedimiento de reelección.
+
 ###### ARTICULO 12.
 
 Las resoluciones del Pleno se tomarán por mayoría de votos de los Magistrados presentes. En caso de empate el Presidente del Tribunal o el Magistrado que lo sustituya tendrá voto de calidad.
@@ -339,7 +375,7 @@ La Presidencia del Tribunal Superior de Justicia contará con el auxilio de un S
 
 El Tribunal Superior de Justicia funcionará en Salas especializadas por materia o por ramo, siendo estas Unitarias las cuales serán especializadas en materia civil, penal, justicia para adolescentes y justicia administrativa. Para distinguirlas serán designadas por número ordinal. Cada Magistrado integrará una sala, con excepción del Presidente del Tribunal Superior de Justicia.
 
-En caso de ausencia, recusación o excusa de un Magistrado, de Sala·Unitaria, integrará Sala un Magistrado de otra Sala que designe el Pleno. En el supuesto de que los Magistrados de las Salas Unitarias estuvieren impedidos para conocer del negocio, se integrará una sala especial que conocerá del asunto, con un Juez de Primera Instancia, designado por el Pleno del Tribunal Superior de Justicia, que para tal efecto se integrará inmediatamente, sin perjuicio de sus labores o funciones.
+En caso de ausencia, recusación o excusa de un Magistrado, de Sala Unitaria, integrará Sala un Magistrado de otra Sala que designe el Pleno. En el supuesto de que los Magistrados de las Salas Unitarias estuvieren impedidos para conocer del negocio, se integrará una sala especial que conocerá del asunto, con un Juez de Primera Instancia, designado por el Pleno del Tribunal Superior de Justicia, que para tal efecto se integrará inmediatamente, sin perjuicio de sus labores o funciones.
 
 > <small>(ADICIONADO, B.O. 24 DE DICIEMBRE DE 2008)</small>
 
@@ -475,7 +511,7 @@ I.- Conocer de los juicios contenciosos administrativos de acuerdo a lo establec
 
 II.- Intervenir en los juicios de amparo que se promuevan en contra de las resoluciones dictadas por la Sala Unitaria en Justicia Administrativa;
 
-III.- Vigilar que los Secretarios de Acuerdos y demás servidores públicos de la Sala cumplan con sus deberes respectivos, aplicando las correcciones disciplinarias que sean necesarias y en su caso, dar cuenta al·Pleno, para los efectos conducentes;
+III.- Vigilar que los Secretarios de Acuerdos y demás servidores públicos de la Sala cumplan con sus deberes respectivos, aplicando las correcciones disciplinarias que sean necesarias y en su caso, dar cuenta al Pleno, para los efectos conducentes;
 
 IV.- Conocer de las excitativas de justicia que se promuevan en materia del orden administrativo;
 
@@ -2904,3 +2940,9 @@ B.O. 31 DE JULIO DE 2009.
 PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
 
 SEGUNDO.- El Presidente de la Gran Comisión del Congreso del Estado y el Presidente del Tribunal Superior de Justicia del Estado, elaborarán los formatos de instructivos de las actas administrativas de Entrega-Recepción, informes y anexos establecidos en el presente decreto, a los que deberán ajustarse los servidores públicos obligados en el mismo.
+
+B.O. 20 DE DICIEMBRE DE 2010.
+
+PRIMERO.- El presente decreto entrara en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+SEGUNDO.- Para los efectos del artículo 93 BIS fracción I de contenido en el presente decreto, y para los magistrados que concluyen su periodo durante el primer semestre del año 2011, por única ocasión, el procedimiento de evaluación deberá iniciar con una anticipación no menor a treinta días ni mayor a noventa, de que concluya el periodo constitucional del magistrado de que se trate.
