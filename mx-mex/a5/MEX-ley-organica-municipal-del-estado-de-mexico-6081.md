@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2010-12-01"
+last_updated: "2010-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA MUNICIPAL DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 1 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE DICIEMBRE DE 2010.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -588,6 +588,10 @@ I. Expedir y reformar el Bando Municipal, así como los reglamentos, circulares 
 I Bis. Aprobar programas y acciones que promuevan un proceso constante de mejora regulatoria, con base en las propuestas que sean sometidas a su consideración, de acuerdo con la Ley para la Mejora Regulatoria del Estado de México y Municipios, y el reglamento municipal correspondiente;
 
 II. Celebrar convenios, cuando así fuese necesario, con las autoridades estatales competentes; en relación con la prestación de los servicios públicos a que se refiere el artículo 115, fracción III de la Constitución General, así como en lo referente a la administración de contribuciones fiscales;
+
+> <small>(ADICIONADA, G.G. 20 DE DICIEMBRE DE 2010)</small>
+
+II Bis. Autorizar la exención del pago de trámites a cargo de las Oficialías del Registro Civil, para los habitantes de escasos recursos económicos en los municipios. Para tales efectos, deberán llevar a cabo por lo menos una campaña de regularización al año, en coordinación con las autoridades estatales competentes;
 
 III. Proponer ante la Legislatura local iniciativas de leyes o decretos en materia municipal, en su caso, por conducto del Ejecutivo del Estado;
 
@@ -3092,3 +3096,9 @@ CUARTO.- Los ayuntamientos de los municipios del Estado de México, harán las a
 QUINTO.- Se derogan las disposiciones de igualo menor jerarquía que se opongan al presente Decreto.
 
 SEXTO.- El titular del Poder Ejecutivo del Estado de México realizará las adecuaciones que resulten pertinentes al Reglamento de Tránsito del Estado de México, conforme a las disposiciones del presente Decreto.
+
+G.G. 20 DE DICIEMBRE DE 2010.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
