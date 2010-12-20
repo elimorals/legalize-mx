@@ -4,7 +4,7 @@ identifier: "REG_SENADO"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-06-04"
-last_updated: "2010-06-04"
+last_updated: "2010-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75171&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "REG_SENADO"
 
 REGLAMENTO DEL SENADO DE LA REPUBLICA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE DICIEMBRE DE 2010.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 4 de junio de 2010.
 
@@ -2226,25 +2226,27 @@ Artículo 218
 
 2. Si durante un receso vencen los plazos establecidos sin que se produzca dictamen, el Presidente de la Mesa da cuenta de ello en el informe a que se refiere el artículo 215 de este Reglamento. El Pleno toma conocimiento de los informes generados durante el receso dentro de las tres primeras sesiones del período ordinario siguiente.
 
+> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 2010)</small>
+
 Artículo 219
 
-1. Al iniciar una Legislatura que no implica la renovación del Senado, la Mesa presenta al Pleno, dentro de las cinco primeras sesiones, un informe escrito sobre las iniciativas o proyectos pendientes de dictamen.
+1. Al iniciar cada año de ejercicio legislativo, la Mesa presenta al Pleno, dentro de las cinco primeras sesiones, un informe escrito sobre las iniciativas o proyectos pendientes de dictamen, precisando las diferentes actuaciones recaídas en cada una de ellas. El informe se publica en la Gaceta.
 
-2. De tratarse del inicio de una Legislatura que implica la renovación del Senado, respecto de las iniciativas y proyectos pendientes la Mesa procede, una vez que se integran las comisiones, en los siguientes términos:
+2. Respecto de las iniciativas y proyectos pendientes de dictamen la Mesa procede, en su caso una vez que se integren las comisiones, en los siguientes términos:
 
-I. Los expedientes de las iniciativas del Presidente de la República, los diputados federales, las legislaturas locales y la Asamblea Legislativa del Distrito Federal, así como de los proyectos de la Cámara de Diputados, se entregan a las comisiones que en cada caso corresponde para que se continúe su trámite;
+I. Las iniciativas presentadas por el Presidente de la República, los diputados federales, las legislaturas locales y la Asamblea Legislativa del Distrito Federal, así como los proyectos de la Cámara de Diputados, continúan su trámite en las comisiones que en cada caso corresponda;
 
-II. Las iniciativas de senadores de las que se disponga dictamen debidamente formulado sin haberse sometido al Pleno, también culminan su trámite legislativo;
+II. Las iniciativas de senadores de las que se disponga dictamen debidamente formulado sin haberse sometido aún al Pleno, también culminan su trámite legislativo;
 
-III. Respecto de las iniciativas de senadores presentadas en legislaturas anteriores pendientes de dictamen:
+III. Respecto de las iniciativas de senadores presentadas durante el año de ejercicio legislativo inmediato anterior, respecto de las cuales hayan transcurrido los plazos o incumplido las disposiciones previstas en los artículos 212 al 217 de este Reglamento, y que continúen sin dictaminar, se procede a lo siguiente:
 
-a) Dentro de los treinta días hábiles siguientes al inicio de la Legislatura, la Mesa remite a la Junta de Coordinación Política el listado correspondiente, a fin de que cada Grupo se pronuncie en forma escrita por aquellas que son de su interés, en un plazo no mayor a diez días hábiles;
+a) Dentro de los treinta días hábiles siguientes al inicio del año de ejercicio legislativo la Mesa, por conducto de la Secretaría General de Servicios Parlamentarios, remite a cada Grupo Parlamentario el listado de iniciativas presentadas por sus integrantes, a fin de que en un plazo no mayor a diez días hábiles, se pronuncien en forma escrita para mantener vigentes aquéllas que son de su interés;
 
-b) La Mesa también consulta al respecto a las juntas directivas de las comisiones;
+b) La Mesa también consulta, en iguales plazos y para los mismos efectos referidos en el inciso anterior, a las juntas directivas de las comisiones dictaminadoras;
 
 c) Las iniciativas así seleccionadas continúan el procedimiento legislativo, según corresponda en cada caso; y
 
-d) Las iniciativas no seleccionadas por los grupos ni por las juntas directivas de comisiones serán materia de un acuerdo que la Mesa somete al Pleno para descargar el turno correspondiente y enviarlas al Archivo Histórico y Memoria Legislativa para su resguardo.
+d) Las iniciativas no seleccionadas por los grupos ni por las juntas directivas de comisiones son materia de un proyecto de acuerdo que la Mesa somete directamente al Pleno para concluir los trámites legislativos, descargar los turnos correspondientes y enviar los expedientes al Archivo Histórico y Memoria Legislativa para su resguardo.
 
 ### CAPITULO SEPTIMO. DE LA REMISION A LA CAMARA DE DIPUTADOS Y DE SUS OBSERVACIONES
 
@@ -3179,3 +3181,15 @@ TERCERO. Dentro de un año contado a partir de la publicación del Reglamento de
 CUARTO. Se derogan las Reglas Provisionales y disposiciones económicas del Senado emitidas hasta antes de la entrada en vigor de este Reglamento.
 
 Dado en el salón de sesiones de la Cámara de Senadores a los veintidós días del mes de abril de dos mil diez.- Sen. Carlos Navarrete Ruiz, Presidente.- Rúbrica.- Sen. Francisco Arroyo Vieyra, Vicepresidente.- Rúbrica.- Sen. Ricardo García Cervantes, Vicepresidente.- Rúbrica.- Sen. Arturo Núñez Jiménez, Vicepresidente.- Rúbrica.- Sen. Martha Leticia Sosa Govea, Secretaria.- Rúbrica.- Sen. Renán Cleominio Zoreda Novelo, Secretario.- Rúbrica.- Sen. Adrián Rivera Pérez, Secretario.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 20 DE DICIEMBRE DE 2010.
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+###### ARTICULO SEGUNDO.
+
+Las iniciativas de senadores acumuladas y pendientes de dictaminar durante los primeros dos años de ejercicio de la LXI legislatura, que al 31 de agosto de 2011 se hallen en el supuesto de la fracción III del artículo 219 serán sometidas al procedimiento ahí previsto, al iniciar el Tercer Año de Ejercicio Legislativo de la LXI Legislatura.
