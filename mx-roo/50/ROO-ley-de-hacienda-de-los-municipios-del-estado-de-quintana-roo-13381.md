@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-hacienda-de-los-municipios-del-estado-de-quintana-roo-13
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-15"
-last_updated: "2009-12-18"
+last_updated: "2010-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13381&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ROO"
 
 LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE DICIEMBRE DE 2009.
+> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN LOS ARTICULOS PRIMERO AL NOVENO TRANSITORIOS DEL DECRETO NUMERO 409, PUBLICADO EN EL P.O. 20 DE DICIEMBRE DE 2010, EN TANTO EL ESTADO Y LOS MUNICIPIOS PERMANEZCAN ADHERIDOS AL SISTEMA NACIONAL DE COORDINACION FISCAL, SUSCRITO MEDIANTE CONVENIO Y ANEXOS RESPECTIVOS CON LA SECRETARIA DE HACIENDA Y CREDITO PUBLICO, QUEDAN EN SUSPENSO LOS IMPUESTOS Y DERECHOS QUE SE MENCIONAN EN DICHOS TRANSITORIOS.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 15 de diciembre de 1997.
 
@@ -53,11 +55,11 @@ Las normas tributarias que establezcan cargas de los particulares y las que señ
 
 A falta de disposición de esta ley, siempre que no la contravengan, serán aplicables el Código Fiscal Municipal, los Ordenamientos Fiscales del Estado, los Ordenamientos Fiscales Federales y como supletorias las normas de derecho común.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 4º.
 
-La administración y recaudación de los gravámenes fiscales previstos en esta ley serán de competencia exclusiva de los Ayuntamientos, sus dependencias y órganos auxiliares; y bajo la vigilancia de los Síndicos, con estricto apego a las leyes. Los ingresos municipales deberán determinarse, liquidarse y recaudarse y la facultad económica-coactiva, ejercitarse conforme a lo señalado en el código fiscal municipal y en esta Ley.
+La administración y recaudación de los gravámenes fiscales previstos en esta Ley serán de competencia exclusiva de los Ayuntamientos, sus dependencias y órganos auxiliares; y bajo la vigilancia de los Síndicos, con estricto apego a las leyes. Los ingresos municipales deberán determinarse, liquidarse y recaudarse y la facultad económica-coactiva, ejercitarse conforme a lo señalado en el código fiscal municipal y en las leyes fiscales municipales que correspondan.
 
 La recaudación y administración de los impuestos, derechos, productos y aprovechamientos, es competencia de las Tesorerías Municipales, sus dependencias y órganos auxiliares.
 
@@ -669,9 +671,7 @@ i) La cesión de derechos en los contratos de arrendamiento financiero, sobre in
 
 j) La adquisición de inmuebles en dación de pago.
 
-El impuesto se calculará aplicando la tasa del 2% al valor del inmueble.
-
-> <small>(DEROGADO ULTIMO PARRAFO, P.O. 12 DE DICIEMBRE DE 2008)</small>
+> <small>(DEROGADO ULTIMO PARRAFO, P.O. 20 DE DICIEMBRE DE 2010)</small>
 
 > <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2008)</small>
 
@@ -683,11 +683,11 @@ ARTÍCULO 29 BIS.- Es sujeto de este impuesto, la persona física o jurídica qu
 
 No se pagará el impuesto establecido en el artículo 29 de esta Ley en las adquisiciones de inmuebles hechas por entes u organismos Estatales o Municipales para la vivienda, su legalización, y regularización y, a personas que resulten beneficiadas con sus programas, que no sean propietarias de otro inmueble y que lo destinen a casa habitación.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 31.
 
-El valor del inmueble que se considerará para efectos del Artículo 29 de esta Ley, será el que resulte más alto entre:
+El valor del inmueble que se considerará para la determinación del impuesto sobre adquisición de inmuebles, será el que resulte más alto entre:
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO NOVENO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -718,6 +718,12 @@ Cuando no exista el valor o precio pactado a que se refiere la fracción I, se a
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2009)</small>
 
 Para los fines de esta ley, se considera que el usufructo o la nuda propiedad tienen un valor cada uno de ellos del 50% del valor de la propiedad a que se refiere este artículo.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2010)</small>
+
+###### ARTÍCULO 31
+
+BIS. - El impuesto se calculará aplicando la tasa del 2% al valor del inmueble.
 
 ###### ARTÍCULO 32.
 
@@ -1217,19 +1223,53 @@ p).- Por placas de demostración 6.3 S.M.G.
 
 Tratándose de derecho vehicular, del inciso "a" a la "n" deberán de pagar en un plazo de 30 días, en el caso del inciso "o", el plazo del pago será los primeros tres meses de cada año;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2010)</small>
 
-III.- Por la expedición y duplicado de licencias para conducir vehículos de motor cada dos años.
+III.- Por la expedición, renovación y reposición de licencias para conducir vehículos de motor cada:
 
-a).- Licencia de servicio público estatal 4.0 S.M.G.
+a).- dos años:
 
-b).- Licencia de chofer 5.0 S.M.G.
+1.- Licencia de servicio público estatal 4.60 veces el S.M.G. vigente en el Estado.
 
-c).- Licencia de automovilista 4.5 S.M.G.
+2.- Licencia de chofer 5.75 veces el S.M.G. vigente en el Estado.
 
-d).- Licencia de motociclista 2.0 S.M.G.
+3.- Licencia de automovilista 5.18 veces el S.M .G. vigente en el Estado.
 
-e).- Permiso provisional para manejar sin licencia por 30 días 1.0 S.M.G.
+4.- Licencia de motociclista 2.30 veces el S.M.G. vigente en el Estado.
+
+b).- tres años:
+
+1.- Licencia de servicio público estatal 6.90 veces el S.M.G. vigente en el Estado.
+
+2.- Licencia de chofer 8.62 veces el S.M.G. vigente en el Estado.
+
+3.- Licencia de automovilista 7.77 veces el S.M.G. vigente en el Estado.
+
+4.- Licencia de motociclista 3.45 veces el S.M.G. vigente en el Estado.
+
+c).- cuatro años:
+
+1.- Licencia de servicio público estatal 9.20 veces el S.M.G. vigente en el Estado.
+
+2.- Licencia de chofer 11.49 veces el S.M.G. vigente en el Estado.
+
+3.- Licencia de automovilista 10.36 veces el S.M.G. vigente en el Estado.
+
+4.- Licencia de motociclista 4.6 veces el S.M.G. vigente en el Estado.
+
+d).- cinco años:
+
+1.- Licencia de servicio público estatal 11.50 veces el S.M.G. vigente en el Estado.
+
+2.- Licencia de chofer 14.36 veces el S.M. G. vigente en el Estado.
+
+3.- Licencia de automovilista 12.95 veces el S.M.G. vigente en el Estado.
+
+4.- Licencia de motociclista 5.75 veces el S.M.G. vigente en el Estado.
+
+Permiso provisional para manejar sin licencia por 30 días 1.0 S.M.G.
+
+Tratándose de personas afiliadas al Instituto Nacional para las Personas Adultas Mayores que acrediten su vigencia, gozarán del 50% de descuento en los pagos a que se refiere esta fracción
 
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2007)</small>
 
@@ -3833,6 +3873,214 @@ DONATIVOS: Son los ingresos que perciba el municipio a título gratuito, que sea
 
 Se entiende por financiamientos los ingresos que perciba el municipio por créditos que le sean concedidos por instituciones financieras, ya sean públicos, privadas o mixtas, y a corto plazo.
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2010)</small>
+
+PRIMERO.- En tanto el Estado y los Municipios permanezcan adheridos al Sistema Nacional de Coordinación Fiscal, suscrito mediante convenio y anexos respectivos con la Secretaría de Hacienda y Crédito Público, quedan en suspenso los siguientes:
+
+I. DERECHOS
+
+A). Licencias, anuencias previas al otorgamiento de las mismas, en general concesiones, permisos o autorizaciones, o bien obligaciones y requisitos que condicionen el ejercicio de actividades comerciales o industriales y de prestación de servicios. Así mismo, los que resulten como consecuencia de permitir o tolerar excepciones a una disposición administrativa tales como la ampliación de horario, con excepción de los siguientes numerales:
+
+Licencias de construcción.
+
+Licencias o permisos para efectuar conexiones a las redes públicas de agua y alcantarillado.
+
+Licencias para fraccionar o lotificar terrenos.
+
+Licencias para conducir vehículos.
+
+Expedición de placas y tarjeta para la circulación de vehículos.
+
+Licencias, permisos o autorizaciones para el funcionamiento de establecimientos o locales cuyos giros sean la enajenación de bebidas alcohólicas o la prestación de servicios que incluyan el expendio de dichas bebidas, siempre que se efectúen total o parcialmente con el público en general.
+
+Licencias, permisos o autorizaciones para la colocación de anuncios y carteles o la realización de publicidad, excepto las que se realicen por medio de televisión, radio, periódicos y revistas.
+
+Licencias, permisos o autorizaciones para la colocación de anuncios y carteles o la realización de publicidad, excepto las que se realicen por medio de televisión, radio, periódicos y revistas.
+
+Licencias, permisos o autorizaciones para la colocación de anuncios y carteles o la realización de publicidad, excepto las que se realicen por medio de televisión, radio, periódicos y revistas.
+
+Licencias, permisos o autorizaciones para la colocación de anuncios y carteles o la realización de publicidad, excepto las que se realicen por medio de televisión, radio, periódicos y revistas.
+
+B).- Registros o cualquier acto relacionado con los mismos, a excepción de los siguientes:
+
+Registro civil.
+
+Registro de la Propiedad y del Comercio.
+
+C).- Uso de las vías públicas o la tenencia de bienes sobre las mismas.
+
+No se considerarán comprendidos dentro de lo dispuesto en esta fracción los derechos de estacionamiento de vehículos, el uso de la vía pública por comerciantes ambulantes o con puestos fijos o semifijos, ni por el uso o tenencia de anuncios.
+
+D).- Actos de inspección y vigilancia.
+
+Los derechos locales o municipales no podrán ser diferenciales considerando el tipo de actividad a que se dedique el contribuyente, excepto cuando se trate de derechos diferenciales por los conceptos a los que se refieren los numerales del 1 al 7 del inciso A) y el inciso C).
+
+Las certificaciones de documentos, así como la reposición de éstos por extravío o destrucción parcial o total, no quedarán comprendidas dentro de lo dispuesto en los incisos A) y B) de este artículo. Tampoco quedan comprendidas las concesiones por el uso o aprovechamiento de bienes pertenecientes al Estado y a los Municipios.
+
+En ningún caso lo dispuesto en este artículo, limitará la facultad del Estado y los Municipios para requerir licencias, registros, permisos o autorizaciones, otorgar concesiones y realizar actos de inspección y vigilancia. Para el ejercicio de estas facultades no se podrá exigir cobro alguno, con las salvedades expresamente señaladas en este artículo.
+
+Para los efectos de coordinación con las entidades, se considerarán derechos, aún cuando tengan una denominación distinta en la legislación estatal y municipal correspondiente, las contribuciones que tengan las características de derechos conforme al Código Fiscal de la Federación y a la Ley de Ingresos de la Federación.
+
+También se consideran como derechos para los efectos de este Artículo, las contribuciones u otros cobros, cualquiera que sea su denominación, que tengan la característica de derechos de acuerdo con el Código Fiscal de la Federación, aún cuando se cobren por concepto de aportaciones, cooperaciones, donativos, productos, aprovechamientos o como garantía de pago por posibles infracciones.
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2010)</small>
+
+SEGUNDO.- Para la determinación del impuesto Predial en el ejercicio fiscal 2011, en el Municipio de Othón P. Blanco, del Estado de Quintana Roo, se aplicará la tabla del cálculo anual del mencionado impuesto, siendo la siguiente:
+
+TASAS APLICABLES PARA EL CALCULO DEL IMPUESTO PREDIAL PARA EL MUNICIPIO DE OTHON P. BLANCO
+
+Clasificados de predios Tasa al millar
+
+l. Urbanos
+
+a. Edificados 2.1
+
+b. Baldíos 14.4
+
+II. Rústicos 2.0
+
+III. Ubicados en la Costa Maya 1.1
+
+> <small>(REFORMADO [N. DE. ADICIONADO], P.O. 20 DE DICIEMBRE DE 2010)</small>
+
+TERCERO.- Para la determinación del impuesto Predial en el ejercicio fiscal 2011, en el Municipio de Cozumel, del Estado de Quintana Roo, se aplicará la tabla del cálculo anual del mencionado impuesto, siendo la siguiente:
+
+RANGO LIMITE LIMITE CUOTA FACTOR
+
+INFERIOR SUPERIOR FIJA PARA
+
+DEL DEL APLICARSE
+
+VALOR VALOR SOBRE EL
+
+CATASTRAL CATASTRAL EXCEDENTE
+
+DE UN DE UN DEL LlM. INF.
+
+INMUEBLE INMUEBLE
+
+A $0.01 $139,795.00 $76.60 0.001
+
+B $139,795.01 $419,795.00 $216.39 0.002
+
+C $419,795.01 $1'268,155.00 $775.57 0.003
+
+D $1'268,155.01 $3'774,465.00 $3,291.88 0.004
+
+E $3´774,465.01 $11'323,395.00 $13,357.12 0.005
+
+F $11´323,395.01 $33'970,185.00 $51,101.77 0.006
+
+G $33'970,395.01 EN ADELANTE $186,982.51 0.007
+
+> <small>(REFORMADO [N. DE. ADICIONADO], P.O. 20 DE DICIEMBRE DE 2010)</small>
+
+CUARTO.- Para la determinación del Impuesto Predial en el ejercicio fiscal 2011, en el Municipio de Isla Mujeres, del Estado de Quintana Roo, se aplicará la tabla de cálculo anual del mencionado impuesto, siendo la siguiente:
+
+TABLA DE TASAS PARA EL COBRO DEL IMPUESTO PREDIAL APLICABLE A PARTIR DEL EJERCICIO FISCAL 2011.
+
+Tipo Predio Tasa
+
+Urbano Construido 0.0022
+
+Urbano Baldío 0.0050
+
+Rústico 0.0025
+
+> <small>(REFORMADO [N. DE. ADICIONADO], P.O. 20 DE DICIEMBRE DE 2010)</small>
+
+QUINTO.- Para la determinación del Impuesto Predial en el ejercicio fiscal 2011, en el Municipio de Solidaridad, del Estado de Quintana Roo, se aplicarán las siguientes tasas para el cálculo anual del mencionado impuesto:
+
+TASAS APLICABLES PARA DETERMINACIÓN Y LIQUIDACIÓN DEL IMPUESTO PREDIAL
+
+PREDIOS URBANOS EDIFICADOS 0.0022
+
+PREDIOS PLAYA DEL CARMEN 0.0047
+
+URBANOS TULUM PUERTO AVENTURAS 0.0100
+
+BALDIOS OTRAS ZONAS URBANAS 0.00742
+
+PREDIOS RÚSTICOS 0.0063
+
+> <small>(REFORMADO [N. DE. ADICIONADO], P.O. 20 DE DICIEMBRE DE 2010)</small>
+
+SEXTO.- Para la determinación del impuesto predial en el Ejercicio Fiscal 2011, en el Municipio de Tulum, del Estado de Quintana Roo, se aplicará la tabla de cálculo anual del mencionado impuesto, siendo la siguiente:
+
+TASAS APLICABLES PARA DETERMINACIÓN Y LIQUIDACIÓN DEL IMPUESTO PREDIAL
+
+PREDIOS URBANOS EDIFICADOS 0.0017
+
+PREDIOS TULUM 0.0050
+
+URBANOS AKUMAL, CHEMUYlL 0.0050
+
+BALDIOS OTRAS ZONAS URBANAS 0.00567
+
+PREDIOS RÚSTICOS 0.00380
+
+> <small>(REFORMADO [N. DE. ADICIONADO], P.O. 20 DE DICIEMBRE DE 2010)</small>
+
+SEPTIMO. Para la determinación del impuesto predial en el Ejercicio Fiscal 2011, en el Municipio de Benito Juárez, del Estado de Quintana Roo, se aplicará la tabla de cálculo anual del mencionado impuesto, siendo la siguiente:
+
+TASAS IMPOSITIVAS PARA LOS VALORES CATASTRALES
+
+CATEGORIA CONDICION VOCACION TASAS AL
+
+MILLAR
+
+Urbano y Baldío 6.2
+
+Suburbano
+
+Obra en Habitacional 2.45
+
+Construcción
+
+No Hab. 2.45
+
+Obra en Habitacional 2.45
+
+Funcionamiento
+
+No Hab. 2.45
+
+Rústico 1.9
+
+TASAS IMPOSITIVAS PARA LOS VALORES DECLARADOS
+
+CATEGORIA CONDICION VOCACION TASAS AL
+
+MILLAR
+
+Urbano y Baldío 6.6
+
+Suburbano
+
+Obra en Habitacional 2.8
+
+Construcción
+
+No Hab. 2.8
+
+Obra en Habitacional 2.8
+
+Funcionamiento
+
+No Hab. 2.8
+
+Rústico 2.9
+
+> <small>(REFORMADO [N. DE. ADICIONADO], P.O. 20 DE DICIEMBRE DE 2010)</small>
+
+OCTAVO.- En el momento en el (sic) quede sin efecto lo dispuesto en los artículos segundo, tercero, cuarto, quinto, sexto y séptimo transitorios de ésta Ley, los Municipios de Othón P. Blanco, Cozumel, Isla Mujeres, Solidaridad, Tulum y Benito Juárez deberán presentar a la Legislatura local dentro de los plazos establecidos en la Constitución Política del Estado de Quintana Roo y demás disposiciones que le sean aplicables, un análisis del impacto que implique la utilización de las tasas establecidas en el artículo 13 de la presente Ley.
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2010)</small>
+
+NOVENO.- El presente decreto entrará en vigor a partir del 1o. de Enero del año 2011, previa publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2009)</small>
+
 ###### ARTÍCULO DÉCIMO.
 
 Durante el Ejercicio Fiscal 2009, se faculta a los Ayuntamientos a conceder a los contribuyentes un estímulo consistente en un descuento de hasta un 15% del total del importe del impuesto predial, así como realizar un descuento del 10% al pago de los derechos por el servicio de recolección y transporte de basura o residuos sólidos en el plazo del 01 de julio al 31 de agosto del año en curso, conforme a las disposiciones generales que expidan los Ayuntamientos.
@@ -3894,6 +4142,68 @@ DECRETO NUMERO 25
 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO.
 
 ## TRANSITORIOS
+
+PRIMERO.- En tanto el Estado y los Municipios permanezcan adheridos al Sistema Nacional de Coordinación Fiscal, quedan en suspenso los siguientes
+
+I.- DERECHOS:
+
+A. Licencias, anuencias previas al otorgamiento de las mismas, en general concesiones, permisos o autorizaciones, o bien obligaciones y requisitos que condicionen el ejercicio de actividades comerciales o industriales y de prestación de servicios. Por lo anterior, quedan en suspenso los siguientes numerales:
+
+1. Licencias y refrendos de funcionamiento comercial, industrial y de servicios.
+
+2. Licencias de funcionamiento en horas extraordinarias.
+
+3. Rastro e inspección sanitaria.
+
+4. Registro o búsqueda de fierros y señales para ganado.
+
+5. Servicios de inspección y vigilancia.
+
+6. Servicios de promoción y publicidad turística.
+
+B. Asimismo, los que resulten como consecuencia de permitir o tolerar las excepciones a una disposición administrativa, tales como la ampliación de horario, con excepción de los siguientes numerales:
+
+1. Licencias de construcción.
+
+2. Licencias o permisos para efectuar conexiones a las redes públicas de agua y alcantarillado.
+
+3. Licencias para fraccionar o lotificar terrenos.
+
+4. Licencias para conducir vehículos.
+
+5. Expedición de placas y tarjetas para la circulación de vehículos.
+
+6. Licencias, permisos o autorizaciones para el funcionamiento de establecimientos o locales, cuyos giros sean la enajenación de bebidas alcohólicas o la prestación de servicios que incluyan el expendio de dichas bebidas, siempre que se efectúen total o parcialmente con el público en general.
+
+7. Licencias, permisos o autorizaciones para la colocación de anuncios y carteles o la realización de publicidad, excepto los que se realicen por medio de televisión, radio, periódicos y revistas.
+
+C. Registro o cualquier acto relacionado con los mismos, a excepción del Registro Civil.
+
+D. Uso de las vías públicas o la tenencia de bienes sobre las mismas.
+
+No se considerarán comprendidos dentro de lo dispuesto en este inciso los derechos de estacionamiento de vehículos, el uso de la vía pública por comerciantes ambulantes o con puestos fijos o semifijos en la vía pública, ni por el uso o tenencia de anuncios.
+
+E. Actos de inspección y vigilancia.
+
+Los derechos no podrán ser diferenciales considerando el tipo de actividad a que se dedique el contribuyente, excepto tratándose de derechos diferenciales por los conceptos a los que se refieren los numerales 1 al 7 del inciso B y el inciso D.
+
+Los certificados de documentos así como la reposición de éstos, por extravío o destrucción parcial o total, no quedarán comprendidos dentro de lo dispuesto en los incisos B y C de este artículo. Tampoco quedan comprendidas las concesiones por el uso o aprovechamiento de bienes pertenecientes a las entidades federativas o a los municipios.
+
+En ningún caso, lo dispuesto en este artículo limitará la facultad de los Estado (sic) y Municipios para requerir licencias, registros, permisos o autorizaciones, otorgar concesiones y realizar actos de inspección y vigilancia. Para el ejercicio de estas facultades no se podrá exigir cobro alguno, con las salvedades expresamente señaladas en este artículo.
+
+Para los efectos de coordinación con las entidades, se considerarán derechos, aún cuando tengan una denominación distinta en la legislación local correspondiente, las contribuciones que tengan las características de Derechos conforme al Código Fiscal de la Federación y a la Ley de Ingresos de la Federación.
+
+También se consideran como Derechos para los efectos de este artículo, las contribuciones u otros cobros, cualquiera que sea su denominación, que tengan las características de Derechos de acuerdo con el Código Fiscal de la Federación, aún cuando se cobren por concepto de aportaciones, cooperaciones, donativos, productos, aprovechamientos o como garantía de pago por posibles infracciones.
+
+SEGUNDO.- El presente decreto entrará en vigor a partir del 1° de Enero del año 2003, previa publicación en el Periódico Oficial del Gobierno del Estado.
+
+TERCERO: Para la determinación del Impuesto Predial en el ejercicio fiscal 2003, en el Municipio de Cozumel, se aplicará la tabla del cálculo anual del mencionado impuesto, siendo el siguiente:
+
+TABLA PARA EL CALCULO ANUAL DEL IMPUESTO PREDIAL 2003
+
+(VEASE ARCHIVO ANEXO)
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE ABRIL DE 2003)</small>
 
 ###### ARTICULO CUARTO.
 
@@ -4094,84 +4404,6 @@ P.O. 28 DE ABRIL DE 2005.
 ÚNICO.- El presente Decreto entrará en vigor, el día de su publicación el Periódico Oficial del Gobierno del Estado de Quintana Roo.
 
 P.O. 30 DE NOVIEMBRE DE 2005.
-
-###### ARTÍCULO PRIMERO.
-
-Este decreto entrará en vigor a partir del día 1 de enero de 1998, previa publicación en el Periódico Oficial del Estado.
-
-###### ARTÍCULO SEGUNDO.
-
-Se abroga la Ley de Hacienda Municipal publicada en el Periódico Oficial el 1 de enero de mil novecientos ochenta y dos, así como las reformas subsecuentes a la propia Ley.
-
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 12 DE MAYO DE 2008)</small>
-
-ARTÍCULO NOVENO (SIC).- Durante el Ejercicio Fiscal 2008, se faculta a los Ayuntamientos, a conceder a los contribuyentes un estímulo consistente en un descuento de hasta un 15% de total del importe del impuesto predial, en el plazo del 15 de mayo al 31 de julio del año en curso, conforme a las disposiciones generales que expidan los Ayuntamientos.
-
-> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2009)</small>
-
-## TRANSITORIOS
-
-PRIMERO.- En tanto el Estado y los Municipios permanezcan adheridos al Sistema Nacional de Coordinación Fiscal, quedan en suspenso los siguientes
-
-I.- DERECHOS:
-
-A. Licencias, anuencias previas al otorgamiento de las mismas, en general concesiones, permisos o autorizaciones, o bien obligaciones y requisitos que condicionen el ejercicio de actividades comerciales o industriales y de prestación de servicios. Por lo anterior, quedan en suspenso los siguientes numerales:
-
-1. Licencias y refrendos de funcionamiento comercial, industrial y de servicios.
-
-2. Licencias de funcionamiento en horas extraordinarias.
-
-3. Rastro e inspección sanitaria.
-
-4. Registro o búsqueda de fierros y señales para ganado.
-
-5. Servicios de inspección y vigilancia.
-
-6. Servicios de promoción y publicidad turística.
-
-B. Asimismo, los que resulten como consecuencia de permitir o tolerar las excepciones a una disposición administrativa, tales como la ampliación de horario, con excepción de los siguientes numerales:
-
-1. Licencias de construcción.
-
-2. Licencias o permisos para efectuar conexiones a las redes públicas de agua y alcantarillado.
-
-3. Licencias para fraccionar o lotificar terrenos.
-
-4. Licencias para conducir vehículos.
-
-5. Expedición de placas y tarjetas para la circulación de vehículos.
-
-6. Licencias, permisos o autorizaciones para el funcionamiento de establecimientos o locales, cuyos giros sean la enajenación de bebidas alcohólicas o la prestación de servicios que incluyan el expendio de dichas bebidas, siempre que se efectúen total o parcialmente con el público en general.
-
-7. Licencias, permisos o autorizaciones para la colocación de anuncios y carteles o la realización de publicidad, excepto los que se realicen por medio de televisión, radio, periódicos y revistas.
-
-C. Registro o cualquier acto relacionado con los mismos, a excepción del Registro Civil.
-
-D. Uso de las vías públicas o la tenencia de bienes sobre las mismas.
-
-No se considerarán comprendidos dentro de lo dispuesto en este inciso los derechos de estacionamiento de vehículos, el uso de la vía pública por comerciantes ambulantes o con puestos fijos o semifijos en la vía pública, ni por el uso o tenencia de anuncios.
-
-E. Actos de inspección y vigilancia.
-
-Los derechos no podrán ser diferenciales considerando el tipo de actividad a que se dedique el contribuyente, excepto tratándose de derechos diferenciales por los conceptos a los que se refieren los numerales 1 al 7 del inciso B y el inciso D.
-
-Los certificados de documentos así como la reposición de éstos, por extravío o destrucción parcial o total, no quedarán comprendidos dentro de lo dispuesto en los incisos B y C de este artículo. Tampoco quedan comprendidas las concesiones por el uso o aprovechamiento de bienes pertenecientes a las entidades federativas o a los municipios.
-
-En ningún caso, lo dispuesto en este artículo limitará la facultad de los Estado (sic) y Municipios para requerir licencias, registros, permisos o autorizaciones, otorgar concesiones y realizar actos de inspección y vigilancia. Para el ejercicio de estas facultades no se podrá exigir cobro alguno, con las salvedades expresamente señaladas en este artículo.
-
-Para los efectos de coordinación con las entidades, se considerarán derechos, aún cuando tengan una denominación distinta en la legislación local correspondiente, las contribuciones que tengan las características de Derechos conforme al Código Fiscal de la Federación y a la Ley de Ingresos de la Federación.
-
-También se consideran como Derechos para los efectos de este artículo, las contribuciones u otros cobros, cualquiera que sea su denominación, que tengan las características de Derechos de acuerdo con el Código Fiscal de la Federación, aún cuando se cobren por concepto de aportaciones, cooperaciones, donativos, productos, aprovechamientos o como garantía de pago por posibles infracciones.
-
-SEGUNDO.- El presente decreto entrará en vigor a partir del 1° de Enero del año 2003, previa publicación en el Periódico Oficial del Gobierno del Estado.
-
-TERCERO: Para la determinación del Impuesto Predial en el ejercicio fiscal 2003, en el Municipio de Cozumel, se aplicará la tabla del cálculo anual del mencionado impuesto, siendo el siguiente:
-
-TABLA PARA EL CALCULO ANUAL DEL IMPUESTO PREDIAL 2003
-
-(VEASE ARCHIVO ANEXO)
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE ABRIL DE 2003)</small>
 
 ###### ARTÍCULO ÚNICO.
 
@@ -4710,3 +4942,7 @@ NOVENO.- El presente Decreto entrará en vigor a partir del primero de enero del
 ARTÍCULO TRANSITORIO:
 
 ÚNICO.- Publíquese el presente Decreto en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 20 DE DICIEMBRE DE 2010.
+
+UNICO.- Publíquese el presente Decreto en el Periódico Oficial del Estado de Quintana Roo.
