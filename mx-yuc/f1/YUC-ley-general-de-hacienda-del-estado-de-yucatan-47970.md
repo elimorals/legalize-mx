@@ -4,7 +4,7 @@ identifier: "YUC-ley-general-de-hacienda-del-estado-de-yucatan-47970"
 country: "mx"
 rank: "ley_general"
 publication_date: "2005-12-29"
-last_updated: "2010-02-03"
+last_updated: "2010-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47970&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY GENERAL DE HACIENDA DEL ESTADO DE YUCATAN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 3 DE FEBRERO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 20 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Diario Oficial del Gobierno del Estado de Yucatán, el jueves 29 de diciembre de 2005.
 
@@ -249,7 +249,7 @@ El impuesto se pagará mediante declaración mensual definitiva, que presentará
 
 #### SECCIÓN PRIMERA. DEL OBJETO
 
-> <small>(F. DE E., D.O. 9 DE ENERO DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
 ### CAPÍTULO III. IMPUESTO SOBRE EROGACIONES POR REMUNERACIÓN AL TRABAJO PERSONAL
 
@@ -263,7 +263,7 @@ El impuesto se pagará mediante declaración mensual definitiva, que presentará
 
 #### SECCIÓN CUARTA. DE LA TASA
 
-> <small>(F. DE E., D.O. 9 DE ENERO DE 2006)</small>
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
 #### SECCIÓN QUINTA. DE LA CAUSACIÓN
 
@@ -343,9 +343,11 @@ ARTÍCULO 27 D.- Para disfrutar de los beneficios que establece esta sección, l
 
 ###### ARTÍCULO 21.
 
-El objeto de este impuesto lo constituyen las erogaciones por concepto de remuneración al trabajo personal subordinado, así como las erogaciones por remuneraciones a honorarios asimilables a salarios, siempre y cuando los servicios que las generen se efectúen en el territorio del Estado de Yucatán.
+El objeto de este impuesto lo constituyen las erogaciones que se efectúen en el Estado de Yucatán por concepto de remuneración al trabajo personal subordinado, así como las erogaciones por remuneraciones a honorarios asimilables a salarios, siempre y cuando los servicios que las generen se efectúen en el territorio de este Estado. También, se considera objeto de este impuesto, el servicio personal subordinado, cuando se preste en el territorio del Estado de Yucatán no obstante que se cubra su remuneración en otra entidad federativa o en el Distrito Federal.
 
-Para los efectos de este artículo, se entienden por erogaciones destinadas a remunerar el trabajo personal subordinado, los salarios y demás contraprestaciones que deriven de una relación laboral, incluyendo las provenientes de comisiones, premios, gratificaciones, primas dominicales, vacacionales y por antigüedad; así como cualquier otra contraprestación, destinada a remunerar el trabajo personal subordinado, independientemente de la designación que se le dé.
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
+
+Para los efectos de este artículo, se entienden por erogaciones destinadas a remunerar el trabajo personal subordinado, los salarios y demás contraprestaciones que deriven de una relación laboral, incluyendo las provenientes de comisiones, premios, gratificaciones, primas dominicales, vacacionales y por antigüedad; así como cualquier otra contraprestación destinada a remunerar el trabajo personal subordinado, independientemente de la designación que se le dé, así como las cantidades que por concepto de alimentos proporcionen sociedades universales y particulares a sus integrantes de acuerdo con la legislación civil del Estado de Yucatán, así mismo, los rendimientos y anticipos, que obtengan los miembros de las sociedades cooperativas de producción, los anticipos que reciban los miembros de sociedades y asociaciones civiles. Además, los fondos de previsión social a que se refiere el artículo 58 de la Ley General de Sociedades Cooperativas, que se entreguen a los cooperativistas, cuando dicho fondo no sea deducible en los términos de la fracción XXIII del artículo 31 del (sic) la Ley del Impuesto sobre la Renta.
 
 Se entiende por honorarios asimilables a salarios, las erogaciones por concepto de contraprestación al servicio personal independiente, siempre y cuando éste se preste bajo la dirección del prestatario, en forma preponderante y, siempre que el servicio se lleve a cabo en las instalaciones del mismo.
 
@@ -389,7 +391,7 @@ La base de este impuesto es el monto total de las erogaciones que se realicen en
 
 ###### ARTÍCULO 24.
 
-El impuesto se determinará aplicando a la base la tasa del 2%.
+El impuesto se determinará aplicando a la base la tasa del 2.5%.
 
 #### SECCIÓN PRIMERA. DEL OBJETO
 
@@ -452,6 +454,8 @@ j) Unidades agrícolas industriales de la mujer campesina.
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O. 26 DE DICIEMBRE DE 2006)</small>
 
 #### SECCIÓN CUARTA. DE LA TASA
+
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
 #### SECCIÓN QUINTA. DE LA CAUSACIÓN
 
@@ -707,17 +711,15 @@ Cuando el servicio de hospedaje incluya servicios accesorios, tales como transpo
 
 ARTÍCULO 47 F.- Tratándose de vehículos nuevos el impuesto se determinará de conformidad con lo siguiente:
 
-> <small>(REFORMADA, 3 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
-I.- Para los vehículos de hasta 15 pasajeros, vehículos eléctricos, mixtos o híbridos y de combustión interna o con motor accionado por hidrógeno y automóviles blindados, así como los vehículos Pick Up cuyo valor total sea mayor a lo equivalente a 6,334 salarios mínimos del área geográfica a la que corresponde el Estado, el impuesto se determinará aplicando al valor total del vehículo la siguiente:
+l.- Para los vehículos de hasta 15 pasajeros, vehículos blindados y los vehículos Pick Up cuyo valor total sea mayor a lo equivalente a 6,334 salarios mínimos del área geográfica a la que corresponde el Estado, el impuesto se determinará aplicando al valor total del vehículo la siguiente:
 
-TARIFA
+TABLA
 
-Límite Límite Cuota Tasa para aplicarse
+Límite Límite Cuota fija Tasa para aplicarse
 
-inferior superior fija sobre el excedente del
-
-$ $ $ limite inferior %
+inferior $ superior $ $ sobre el excedente del límite inferior %
 
 0.01 477,347.76 0.00 3.0
 
@@ -728,6 +730,8 @@ $ $ $ limite inferior %
 1,234,739.55 1,550,849.83 94,754.59 16.8
 
 1,550,849.84 En adelante 147,861.11 19.1
+
+Tratándose de automóviles eléctricos nuevos, así como de aquellos que además cuenten con motor de combustión interna o con motor accionado por hidrógeno, el impuesto se pagará a la tasa de 0%.
 
 II.- Para vehículos destinados al transporte de más de 15 pasajeros o de carga cuyo peso bruto vehicular sea menor a 15 toneladas y para vehículos que cuenten con placas de servicio público de transporte de pasajeros y los denominados "taxis", el impuesto será la cantidad que resulte de aplicar el 0.245% al valor total del vehículo.
 
@@ -769,7 +773,9 @@ VI.- Tratándose de aeronaves nuevas, el impuesto será la cantidad que resulte 
 
 VlI.- En la enajenación o importación de vehículos de año modelo posterior al de aplicación de este capítulo, se pagará el impuesto correspondiente al año de calendario en el que se enajene o importe, según corresponda. El impuesto para dichos vehículos se determinará en el siguiente año de calendario de acuerdo con el procedimiento que corresponda al tipo de vehículo de que se trate, bajo el criterio de vehículo nuevo.
 
-Las cantidades establecidas en las tarifas de este artículo se actualizarán y publicarán por la Secretaria de Hacienda del Estado en el Diario Oficial del Gobierno del Estado en el mes de diciembre de cada año, aplicando el factor que se obtenga de dividir el índice Nacional de Precios al Consumidor del mes de noviembre del año inmediato anterior a aquel para el que se calcula el impuesto, entre el Índice Nacional de Precios al Consumidor del mes de noviembre de dos años inmediatos anteriores al referido año para el cual se calcula el impuesto. Esta tarifa se aplicará a partir del mes de enero de cada año.
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
+
+Las cantidades establecidas en las tarifas de este artículo, se actualizarán y publicarán por la Secretaría de Hacienda del Estado en el Diario Oficial del Gobierno del Estado en el mes de diciembre de cada año, aplicando el factor que se obtenga de dividir el Índice Nacional de Precios al Consumidor del mes de noviembre del año inmediato anterior a aquel para el que se calcula el impuesto, entre el Índice Nacional de Precios al Consumidor del mes de noviembre en que se actualizó por última vez. Estas tarifas se aplicarán a partir del mes de enero de cada año. Para efectos del artículo 47 G fracción I incisos b), c) fracción II inciso b); fracción IV inciso b) y fracción VII inciso b), el resultado se actualizará aplicando el factor que se obtenga de dividir el Índice Nacional de Precios al Consumidor del mes de noviembre del año inmediato anterior a aquel en que se va a calcular el impuesto, entre el Índice Nacional de Precios al Consumidor del mes de noviembre del año correspondiente al modelo del vehículo.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO ARTICULO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -777,9 +783,9 @@ Las cantidades establecidas en las tarifas de este artículo se actualizarán y 
 
 ARTÍCULO 47 G.- Tratándose de vehículos usados de fabricación nacional o importada, el impuesto se determinará conforme a lo siguiente:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
-I.- En los casos de vehículos destinados al transporte de más de 15 pasajeros o de carga, y para vehículos que cuenten con placas de servicio público de transporte de pasajeros y los denominados "taxis", embarcaciones, veleros, esquís acuáticos motorizados, motocicletas acuáticas, tablas de oleaje con motor, incluyendo los vehículos Pick Up cuyo valor total no rebase lo equivalente a 6,334 salarios mínimos del área geográfica a la que corresponde el Estado, así como aeronaves, el impuesto será el que resulte de lo siguiente:
+I.- En los casos de vehículos destinados al transporte de más de 15 pasajeros o de carga, y para vehículos que cuenten con placas de servicio público de transporte de pasajeros y los denominados "taxis", embarcaciones, veleros, esquís acuáticos motorizados, motocicletas acuáticas, tablas de oleaje con motor, incluyendo los vehículos Pick Up cuyo valor total no rebase el equivalente a 6,334 salarios mínimos del área geográfica a la que corresponde el Estado, así como aeronaves, vehículos eléctricos, mixtos o híbridos y de combustión interna con motor accionado por hidrógeno el impuesto será el que resulte de lo siguiente:
 
 a).- Multiplicar el importe del impuesto causado en el ejercicio fiscal inmediato anterior por el factor que corresponda conforme a los años de antigüedad del vehículo, de acuerdo con la siguiente:
 
@@ -807,27 +813,33 @@ Antigüedad
 
 9 o más 0.500
 
-b).- El resultado obtenido conforme al inciso anterior se actualizará aplicando el factor que se obtenga de dividir el índice Nacional de Precios al Consumidor del mes de noviembre del año inmediato anterior a aquel para el que se calcula el impuesto, entre el índice Nacional de Precios al Consumidor del mes de noviembre de dos años inmediatos anteriores al referido año para el cual se calcula el impuesto; el resultado obtenido será el impuesto a pagar.
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
-c).- En el caso de aeronaves y helicópteros de más de diez años de fabricación, el im0puesto se pagará conforme a la siguiente:
+b).- El resultado obtenido conforme al inciso anterior se actualizará conforme al segundo párrafo de la fracción VII del artículo 47-F de esta Ley, el resultado obtenido será el impuesto a pagar.
 
-TIPO DE VEHICULOS CUOTA
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
-AERONAVES: $
+c).- En el caso de aeronaves y helicópteros de más de diez años de fabricación, el impuesto se pagará conforme a lo siguiente:
 
-Hélice 448.00
+CUOTA
 
-Turbohélice 2,480.00
+TIPO DE VEHÍCULOS $
 
-Reacción 3,583.00
+AERONAVES:
 
-HELlCOPTEROS 551.00
+Pistón o Hélice 2,115.74
 
-El monto de las cuotas establecidas en la tabla anterior se actualizará de conformidad con el mecanismo establecido en el inciso b) de esta fracción.
+Turbohélice 11,710.12
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE FEBRERO DE 2010)</small>
+Reacción 16,918.38
 
-II. Tratándose de automóviles usados, de fabricación nacional o importados, destinados al transporte de hasta 15 pasajeros, automóviles eléctricos, mixtos o híbridos y de combustión interna o con motor accionado por hidrógeno y automóviles blindados, así como vehículos Pick Up cuyo valor total sea mayor a lo equivalente a 6,334 salarios mínimoºs (sic) del área geográfica a la que corresponde el Estado, el impuesto será el que resulte de aplicar el procedimiento siguiente:
+HELICÓPTEROS 2,600.99
+
+El monto de las cuotas establecidas en la tabla anterior se actualizará de conformidad al segundo párrafo de la fracción VII del artículo 47-F de esta Ley.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 20 DE DICIEMBRE DE 2010)</small>
+
+II.- Tratándose de automóviles usados, de fabricación nacional o importados, destinados al transporte de hasta 15 pasajeros y automóviles blindados, así como vehículos pick up cuyo valor total sea mayor a 6,334 salarios mínimos del área geográfica a la que corresponde el Estado, el impuesto será el que resulte de aplicar procedimiento (sic) siguiente:
 
 a).- El valor total del vehículo se multiplicará por el factor de antigüedad aplicable de acuerdo al año modelo del vehículo, de conformidad a la siguiente:
 
@@ -855,7 +867,9 @@ Antigüedad depreciación
 
 9 o más 0.075
 
-b).- El resultado obtenido conforme al inciso anterior se actualizara aplicando el factor a que se refiere el inciso b) de la fracción primera de este artículo; a la cantidad resultante se le aplicará la tarifa a que hace referencia la fracción I del artículo 47-F de este capítulo;
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
+
+b).- El resultado obtenido conforme al inciso anterior se actualizará de conformidad con el segundo párrafo de la fracción VII del artículo 47-F de esta Ley; a la cantidad resultante se le aplicará la tarifa a que hace referencia la fracción I del artículo 47-F de este capítulo;
 
 III.- Tratándose de motocicletas, bicimotos, cuatrimotos, motonetas y triciclos automotores, de fabricación nacional o importada, el impuesto será el que resulte de aplicar al valor total de la factura del vehículo, el factor de depreciación consignado en la siguiente tabla:
 
@@ -887,7 +901,9 @@ IV.- Tratándose de vehículos de servicio particular, que pasen a ser de servic
 
 a).- El valor total del vehículo se multiplicará por el factor que corresponda según los años de antigüedad de la tabla del inciso a) de la fracción I de este artículo, y
 
-b).- La cantidad resultante se actualizará aplicando el factor a que se refiere el inciso b) de la fracción I de este artículo y el resultado se multiplicará por el 0.245%.
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
+
+b).- La cantidad resultante se actualizará de conformidad al segundo párrafo de la fracción VII del artículo 47-F de esta Ley, y el resultado se multiplicará por el 0.245%.
 
 V. Tratándose de vehículos de servicio público, para transporte de pasajeros o de carga, que pasen a ser de servicio particular, el impuesto se calculará de la manera siguiente:
 
@@ -923,11 +939,63 @@ Noviembre 0.17
 
 Diciembre 0.08
 
-A la cantidad obtenida se le restará el importe pagado en el ejercicio del cambio.
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
+
+A la cantidad obtenida se le restará el importe proporcional pagado en el ejercicio del cambio.
 
 VI.- Tratándose de vehículos de más de diez años modelos anteriores al de aplicación de este capítulo, el impuesto se pagará a la tasa del 0%.
 
 Para los efectos de este artículo, los años de antigüedad se calcularán con base en el número de años transcurridos a partir del año modelo al que corresponda el vehículo.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 20 DE DICIEMBRE DE 2010)</small>
+
+VII.- Tratándose de embarcaciones, veleros, esquís acuáticos motorizados, motocicletas acuáticas y tablas de oleaje con motor, usados, el impuesto será el que resulte de aplicar el procedimiento siguiente:
+
+a).- El valor total del vehículo de que se trate se multiplicará por el factor de depreciación de acuerdo al año modelo, de conformidad con la siguiente:
+
+TABLA
+
+Años de Antigüedad Factor de depreciación
+
+1 0.9250
+
+2 0.8500
+
+3 0.7875
+
+4 0.7250
+
+5 0.6625
+
+6 0.6000
+
+7 0.5500
+
+8 0.5000
+
+9 0.4500
+
+10 0.4000
+
+11 0.3500
+
+12 0.3000
+
+13 0.2625
+
+14 0.2250
+
+15 0.1875
+
+16 0.1500
+
+17 0.1125
+
+18 0.0750
+
+19 y siguientes 0.0375
+
+b) La cantidad obtenida conforme al inciso anterior, se actualizará de conformidad al segundo párrafo de la fracción VII del artículo 47-F de esta Ley, y el resultado será el impuesto a pagar.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO ARTICULO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -985,7 +1053,7 @@ Diciembre 0.08
 
 ARTÍCULO 47 I.- No se pagará el impuesto sobre tenencia o uso de los siguientes vehículos:
 
-I.- Los importados temporalmente en los términos de la legislación aduanera;
+I.- (DEROGADA, D.O. 20 DE DICIEMBRE DE 2010)
 
 II.- Los vehículos de la Federación, Estados, Municipios y Distrito Federal que sean utilizados para la prestación de los servicios públicos de rescate, patrullas, transportes de limpia, pipas de agua, servicios funerarios, y las ambulancias dependientes de cualquiera de esas entidades o de instituciones de beneficencia autorizadas por las leyes de la materia y los destinados a los cuerpos de bomberos;
 
@@ -1043,7 +1111,9 @@ Septiembre 74.97
 
 Octubre a Diciembre 100
 
-Los contribuyentes tendrán derecho a la devolución cuando efectúen su solicitud dentro de los quince días hábiles siguientes al de la determinación del siniestro por parte de la autoridad o instancia correspondiente, la cual se realizará en forma proporcional al mes en que ocurra el siniestro conforme a la siguiente tabla:
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
+
+Los contribuyentes tendrán derecho a la devolución cuando efectúen su solicitud dentro de los cuarenta y cinco días hábiles siguientes al de la determinación del siniestro por parte de la autoridad o instancia correspondiente, la cual se realizará en forma proporcional al mes en que ocurra el siniestro conforme a la siguiente:
 
 TABLA
 
@@ -1093,7 +1163,7 @@ Se consideran erogaciones gravadas, los pagos totales a que se refiere el artíc
 
 ###### ARTÍCULO 38.
 
-La tasa que se aplicará a la base de cálculo de este impuesto, es del 2%; y su resultado se pagará en las oficinas autorizadas por la Secretaría de Hacienda, en las formas oficiales autorizadas por la misma.
+La tasa que se aplicará a la base de cálculo de este impuesto es del 3% y su resultado se pagará en las oficinas autorizadas por la Secretaría de Hacienda, en las formas oficiales autorizadas por la misma.
 
 #### SECCIÓN SEGUNDA. DE COMERCIO
 
@@ -1203,6 +1273,10 @@ VII. Derechos por la verificación de emisión de contaminantes, generados por v
 
 VIII. Derechos por el Uso, Goce o Aprovechamiento de bienes de dominio público del Estado.
 
+> <small>(ADICIONADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
+
+IX. Derechos por los servicios que prestan las unidades del Patronato de las Unidades de Servicios Culturales y Turísticos del Estado de Yucatán.
+
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO ARTICULO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, D.O. 30 DE DICIEMBRE DE 2009)</small>
@@ -1297,6 +1371,12 @@ o alguna otra documentación relativa a trámites
 
 de control vehicular. 2 S.M.G.
 
+> <small>(ADICIONADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
+
+XI.- Reposición de la Credencial Inteligente de Transporte Urbano (CITUR) 0.53
+
+S.M.G
+
 No se pagarán derechos por la expedición de documentos o copias certificadas de los mismos, que sean solicitados por el Estado, salvo que esta solicitud derive de la petición de un particular.
 
 > <small>(ADICIONADO, D.O. 24 DE DICIEMBRE DE 2007)</small>
@@ -1319,41 +1399,75 @@ I.- Automóviles, camiones y camionetas:
 
 a) De servicio particular:
 
-1.- Modelo del año y hasta 3 años anteriores
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
-con valor de factura, sin incluir el Impuesto al
+1.- Modelo del año y hasta 3 años anteriores con valor de factura, sin incluir el Impuesto al Valor Agregado, de $250,000.00 en adelante 9.03 S.M.G.
 
-Valor Agregado, de $250,000.00 en adelante 9.00 S.M.G.
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
-2.- Modelo del año y hasta 3 años anteriores
+2.- Modelo del año y hasta 3 años anteriores con valor de factura, sin incluir el Impuesto al Valor Agregado, menor de $250,000.00 5.77 S.M.G.
 
-con valor de factura, sin incluir el Impuesto al
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
-Valor Agregado, menor de $250,000.00 5.75 S.M.G.
+3.- Modelo de 4 y hasta 9 años de antigüedad 5.77 S.M.G.
 
-3.- Modelo de 4 y hasta 9 años de antigüedad 5.75 S.M.G.
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
-4.- Modelo de 10 años de antigüedad y anteriores 4.75 S.M.G.
+4.- Modelo de 10 años de antigüedad y anteriores 4.78 S.M.G.
 
-b) De servicio público 7.00 S.M.G.
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
-c) De arrendadoras 10.00 S.M.G.
+b) De servicio público 15.00 S.M.G.
 
-d) De demostración 19.50 S.M.G.
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
-e) Provisionales 6.00 S.M.G.
+c) De arrendadoras 10.41 S.M.G.
+
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
+
+d) De demostración 19.94 S.M.G.
+
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
+
+e) Provisionales 6.17 S.M.G.
 
 II.- Motocicletas:
 
-a) De 350 C.C. de cilindrada o más 4.00 S.M.G.
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
-b) De menos de 350 C.C. de cilindrada 2.50 S.M.G.
+a) De 350 C.C. de cilindrada o más 4.02 S.M.G
 
-III.- Remolques 3.50 S.M.G.
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
-IV.- Por baja de placas para todos los
+b) De menos de 350 C.C. de cilindrada 2.68 S.M.G.
 
-mencionados en las fracciones anteriores 0.75 S.M.G.
+> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
+
+III.- Remolques 3.53 S.M.G.
+
+> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
+
+IV.- Por baja de placas para todos los mencionados en las fracciones anteriores 0.83 S.M.G.
+
+> <small>(ADICIONADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
+
+###### ARTÍCULO 49-A.
+
+Por control vehicular, se causarán derechos por los siguientes:
+
+a).- Verificación de factura 2.64 S.M.G.
+
+b).- Verificación de baja vehicular de otra
+
+Entidad Federativa 2.64 S.M.G.
+
+c).- Copia de la factura del vehículo que
+
+obre en el archivo 3.53 S.M.G.
+
+d).- Verificación física de vehículo fuera
+
+del módulo central 2.64 S.M.G.
 
 ###### ARTÍCULO 50.
 
@@ -1369,25 +1483,43 @@ el Impuesto al Valor Agregado, de $250,000.00 en adelante:
 
 2.- Modelo de más de 3 años anteriores 1.75 S.M.G.
 
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
+
 b) Modelo con valor de factura, sin incluir el
 
-Impuesto al Valor Agregado, menor de $250,000.00 0.75 S.M.G.
+Impuesto al Valor Agregado, menor
 
-II.- De servicio público 2.75 S.M.G.
+de $250,000.00 0.83 S.M.G.
+
+> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
+
+II.- De servicio público 2.77 S.M.G.
 
 III.- De arrendadoras 3.00 S.M.G.
 
-IV.- De demostración 6.00 S.M.G.
+> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
-V.- De motocicleta 0.75 S.M.G.
+IV.- De demostración 6.03 S.M.G.
 
-VI.- De remolque 0.75 S.M.G.
+> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
-VII.- Permiso para circular sin placas, por cada día 0.13 S.M.G.
+V.- De motocicleta 0.83 S.M.G.
+
+> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
+
+VI.- De remolque 3.31 S.M.G.
+
+> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
+
+VII.- Permiso para circular sin placas,
+
+por cada día 0.14 S.M.G.
+
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 51.
 
-Por reposición de tarjetas de circulación o constancia de calcomanía, de automóviles, camiones, camionetas, motocicletas y remolques, se pagará 0.75 S.M.G.
+Por reposición de tarjetas de circulación o constancia de calcomanía de automóviles, camiones, camionetas, motocicletas y remolques, se pagará 0.83 S.M.G.
 
 ###### ARTÍCULO 52.
 
@@ -1397,19 +1529,33 @@ Se causará los derechos establecidos en el artículo 51 de esta ley, cuando sea
 
 Por la expedición de licencia para conducir vehículos, con vigencia de dos años, se causará derechos conforme a lo siguiente:
 
-I.- De chofer 4.25 S.M.G.
+> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
-II.- De automovilista 3.25 S.M.G.
+I.- De chofer de:
 
-III.- De motociclista 2.00 S.M.G.
+a) Transporte Público 9.78 S.M.G.
 
-IV.- Permiso temporal para conducir, por un término
+b) Particulares 5.29 S.M.G.
 
-hasta de seis meses 3.00 S.M.G.
+> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
-V.- Permiso temporal para aprender a conducir,
+II.- De automovilista 4.96 S.M.G.
 
-por un término de hasta treinta días 1.50 S.M.G.
+> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
+
+III.- De motociclista 2.87 S.M.G.
+
+> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
+
+IV.- Permiso temporal para conducir por un término
+
+hasta de seis meses 3.72 S.M.G.
+
+> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
+
+V.- Permiso temporal para aprender a conducir por
+
+un término de hasta treinta días 1.87 S.M.G.
 
 VI.- Constancias de licencias de conducir 0.50 S.M.G.
 
@@ -1423,19 +1569,29 @@ La estancia en el corralón, causará un derecho diario por vehículo, de acuerd
 
 I.- Automóviles, camiones y camionetas:
 
-a) Por los primeros diez días 0.75 S.M.G.
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
-b) Por cada uno de los siguientes días 0.15 S.M.G.
+a) Por los primeros diez días 0.83 S.M.G.
+
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
+
+b) Por cada uno de los siguientes días 0.16 S.M.G.
 
 II.- Motocicletas:
 
-a) Por los primeros diez días 0.25 S.M.G.
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
-b) Por cada uno de los siguientes días 0.04 S.M.G.
+a) Por los primeros diez días 0.30 S.M.G.
+
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
+
+b) Por cada uno de los siguientes días 0.07 S.M.G.
+
+> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
 III.- Bicicletas, carruajes, carretas y
 
-carretones de mano 0.07 S.M.G.
+carretones de mano 0.08 S.M.G.
 
 IV.- Remolques y otros vehículos no
 
@@ -1449,37 +1605,51 @@ El servicio de grúa causará derechos de la siguiente forma:
 
 I.- En la ciudad de Mérida, considerando todas sus colonias y fraccionamientos:
 
-a) para vehículos con peso bruto vehicular hasta de 4 toneladas 5.00 S.M.G.
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
-b) Para vehículos con peso bruto vehicular de más de 4 toneladas 14.75 S.M.G.
+a) Para vehículos con peso bruto vehicular hasta de 4 toneladas 5.19 S.M.G.
+
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
+
+b) Para vehículos con peso bruto vehicular de más de 4 toneladas 14.82 S.M.G
 
 II.- Cuando el recorrido sea fuera de la ciudad de Mérida:
 
-a) Para vehículos con peso vehicular hasta de 4 toneladas 5.00 S.M.G.
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
-más 0.13 S.M.G. por kilómetro recorrido, desde el lugar en que se encuentre el vehículo objeto del servicio hasta el de su traslado.
+a) Para vehículos con peso bruto vehicular hasta de 4 toneladas 5.01 S.M.G. Más 0.14 S.M.G. por kilómetro recorrido, desde el lugar en que se encuentre el vehículo objeto del servicio hasta el de su traslado.
 
-b) Para vehículos con peso bruto vehicular de más de 4 toneladas 14.75 S.M.G.
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
-más 0.13 S.M.G. por kilómetro recorrido, desde el lugar en que se encuentra el vehículo objeto del servicio hasta el de su traslado.
+b) Para vehículos con peso bruto vehicular de más de 4 toneladas 14.82 S.M.G.
+
+Más 0.14 S.M.G. por kilómetro recorrido, desde el lugar en que se encuentra el vehículo objeto del servicio hasta el de su traslado.
 
 III.- Salvamento, rescate y traslado de vehículos accidentados:
 
 a) En la ciudad de Mérida
 
-1.- Para vehículos con peso bruto vehicular hasta de 4 toneladas 19.75 S.M.G.
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
-2.- Para vehículos con peso bruto vehicular de más de 4 toneladas 31.50 S.M.G.
+1.- Para vehículos con peso bruto vehicular hasta de 4 toneladas 19.86 S.M.G.
+
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
+
+2.- Para vehículos con peso bruto vehicular de más de 4 toneladas 31.68 S.M.G.
 
 b) En carreteras estatales
 
-1.- Para vehículos con peso bruto vehicular hasta de 4 toneladas 19.75 S.M.G.
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
-más 0.13 S.M.G. por kilómetro recorrido, desde el lugar en que se encuentre el vehículo objeto del servicio hasta el de su traslado.
+1.- Para vehículos con peso bruto vehicular hasta de 4 toneladas 19.86 S.M.G.
 
-2.- Para vehículos con peso bruto vehicular de más de 4 toneladas 31.50 S.M.G.
+Más 0.14 S.M.G, por kilómetro recorrido desde el lugar en que se encuentra el vehículo objeto del servicio hasta el de su traslado.
 
-más 0.13 S.M.G. por kilómetro recorrido, desde el lugar en que se encuentra el vehículo objeto del servicio hasta el de su traslado.
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
+
+2.- Para vehículos con peso bruto vehicular de más de 4 toneladas 31.68 S.M.G.
+
+Más 0.14 S.M.G, por kilómetro recorrido desde el lugar en que se encuentra el vehículo objeto del servicio hasta el de su traslado.
 
 ### CAPÍTULO XI. DERECHOS POR SERVICIO DE ALUMBRADO PÚBLICO
 
@@ -1493,61 +1663,111 @@ Por los servicios que presta la Dirección del Registro Civil, se causarán dere
 
 I.- (DEROGADA, D.O. 30 DE DICIEMBRE DE 2009)
 
-II.- Registro de reconocimiento 0.25 S.M.G.
+> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
-III.- Registro de adopción 1.25 S.M.G.
+II.- Registro de reconocimiento 1.20 S.M.G.
+
+> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
+
+III.- Registro de adopción 2.17 S.M.G.
+
+> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
 IV.- Registro de Matrimonio:
 
-a) Celebrado en oficina 1.75 S.M.G.
+a) Celebrado en oficina 3.53 S.M.G.
 
-b) Celebrado en la ciudad de Mérida, fuera de oficina 40.25 S.M.G.
+b) Celebrado en la ciudad de Mérida, fuera de oficina 43.26 S.M.G.
 
-c) Celebrado en las demás localidades, fuera de oficina 20.00 S.M.G.
+c) Celebrado en las demás localidades, fuera de oficina 21.64 S.M.G.
+
+> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
 V.- Registro de Divorcio:
 
-a) Por mutuo consentimiento 12.50 S.M.G.
+a) Por mutuo consentimiento 14.42 S.M.G.
 
-b) Por sentencia Judicial 8.75 S.M.G.
+b) Por sentencia Judicial 9.62 S.M.G.
 
-VI.- Registro de defunción: 0.25 S.M.G.
+> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
+
+VI.- Registro de defunción 0.77 S.M.G.
+
+> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
 VII.- Autorización para el traslado de cadáver o cenizas:
 
-a) A otros estados del país 1.00 S.M.G.
+a) A otros estados del país 1.92 S.M.G.
 
-b) Al extranjero 1.75 S.M.G.
+b) Al extranjero 2.64 S.M.G.
 
-VIII.- Inscripción de actas procedentes del extranjero 2.00 S.M.G.
+> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
-IX.- Cambio de nombre 1.75 S.M.G.
+VIII.- Inscripción de actas procedentes del extranjero 3.53 S.M.G.
+
+> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
+
+IX.- Cambio de nombre 1.69 S.M.G.
+
+> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
 X.- Anotaciones marginales:
 
-a) Por sentencia judicial 3.75 S.M.G.
+a) Por sentencia judicial 3.84 S.M.G.
 
-b) Las demás 1.00 S.M.G.
+b) Las demás 0.97 S.M.G.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO ARTICULO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
-> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2009)</small>
+XI.- Certificaciones 0.81 S.M.G.
 
-XI.- Certificaciones 0.80 S.M.G.
+> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
 XII.- Registro extemporáneo de nacimiento:
 
-a) De 8 a 17 años 1.00 S.M.G.
+a) De 8 a 17 años 1.44 S.M.G.
 
-b) De 18 años en adelante 1.75 S.M.G.
+b) De 18 años en adelante 2.17 S.M.G.
 
-XIII.- Legalización de firma del Oficial del Registro Civil 0.25 S.M.G.
+> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
-XIV.- Corrección de actas 1.00 S.M.G.
+XIII.- Legalización de firma del Oficial del Registro Civil 1.58 S.M.G.
 
-XV.- Autorización de Exhumación 0.25 S.M.G.
+> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
-XVI.- Autorización de Inhumación o Cremación 0.25 S.M.G.
+XIV.- Corrección de actas 0.97 S.M.G.
+
+> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
+
+XV.- Autorización de Exhumación 0.97 S.M.G.
+
+> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
+
+XVI.- Autorización de Inhumación o Cremación 0.27 S.M.G.
+
+> <small>(ADICIONADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
+
+XVII.- Búsqueda de actas del estado civil sin datos concretos por búsqueda hasta 5 años mediante manual en oficialía y archivo 1.65 S.M.G
+
+> <small>(ADICIONADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
+
+XVIII.- Registro de nacimiento a domicilio 4.59 S.M.G
+
+> <small>(ADICIONADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
+
+XIX.- Por expedición:
+
+a) De copia simples por la primera hoja 0.50 S.M.G.
+
+b) Por cada hoja excedente 0.02 S.M.G.
+
+> <small>(ADICIONADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
+
+XX.- Por expedición de fotocopias de actos registrados certificada 0.02 S.M.G.
+
+> <small>(ADICIONADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
+
+XXI.- Constancia de existencia o inexistencia de registro 1.38 S.M.G.
 
 Los servicios dispuestos en las fracciones III, V, VIII, y IX, incluyen la expedición de un certificado. El Ejecutivo, mediante decreto, podrá eximir total o parcialmente el pago de los derechos que se establecen en las fracciones I, II, III, IV, VI, XI, XII y XIV, en los términos dispuestos en el Código Fiscal del Estado de Yucatán.
 
@@ -1621,35 +1841,37 @@ interior del Estado 1.00 S.M.G.
 
 Por los servicios que preste la Dirección del Registro Público de la Propiedad y del Comercio, en su sección de Propiedad, se causarán los derechos conforme a lo siguiente:
 
-I.- Por la calificación de cualquier documento 1.00 S.M.G.
+> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO ARTICULO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+I.- Por la calificación de cualquier documento 1.32 S.M.G.
 
-> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
-II.- Por cualquier inscripción 4.00 S.M.G.
+II.- Por cualquier inscripción 5.31 S.M.G.
 
-III.- Por la anotación de cualquier aviso 0.25 S.M.G.
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 20 DE DICIEMBRE DE 2010)</small>
+
+III.- Por la anotación de cualquier aviso 0.35 S.M.G.
 
 No se causarán los derechos a que se refieren las fracciones I, II y III de este artículo, en los casos en que el servicio se preste para la inscripción de contratos, en los cuales sean parte el Instituto del Fondo Nacional para la Vivienda de los Trabajadores, la Comisión Ordenadora del Uso del Suelo del Estado de Yucatán, la Comisión Reguladora de la Tenencia de la Tierra o el Registro Agrario Nacional, o los relativos a contratos de créditos celebrados por cualesquiera de las instituciones públicas o de crédito autorizadas, cuyo objeto sea la adquisición o la construcción de viviendas; siempre y cuando el monto de la operación, individualmente considerada, no exceda de la cantidad que resulte de multiplicar por veinticinco veces el salario mínimo general vigente en el Estado de Yucatán, elevado al año.
 
-IV.- Por la expedición de cualquier constancia 2.00 S.M.G.
+> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO ARTICULO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+IV.- Por la expedición de cualquier constancia 2.66 S.M.G.
 
-> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
-V.- Por la expedición de cualquier certificado,
-
-por cada predio 4.00 S.M.G.
+V.- Por la expedición de cualquier certificado, por cada predio 5.31 S.M.G.
 
 VI.- Por la forma de solicitud de certificado o de constancia 0.02 S.M.G.
 
-VII.- Por la rectificación o la reposición de inscripción 1.00 S.M.G.
+> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 24 DE DICIEMBRE DE 2007)</small>
+VII.- Por la rectificación o la reposición de inscripción 1.32 S.M.G.
 
-VIII.- Por la verificación de cualquier predio 0.50 S.M.G.
+> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
+
+VIII.- Por la verificación de cualquier predio 0.65 S.M.G.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO ARTICULO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -1659,43 +1881,37 @@ VIII.- Por la verificación de cualquier predio 0.50 S.M.G.
 
 Por los servicios que presta la Dirección del Registro Público de la Propiedad y del Comercio, en su sección de Comercio, se causarán derechos de acuerdo a lo siguiente:
 
-I.- Por la calificación de cualquier documento 1.00 S.M.G.
+> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
-II.- Por la inscripción de cualquier matrícula 1.00 S.M.G.
+I.- Por la calificación de cualquier documento 1.32 S.M.G.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO ARTICULO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
-> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2009)</small>
+II.- Por la inscripción de cualquier matrícula 1.32 S.M.G.
 
-III.- Por la inscripción de cualquier acto o convenio,
+> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
-relacionado con sociedades mercantiles, con excepción
+III.- Por la inscripción de cualquier acto o convenio relacionado con sociedades mercantiles, con excepción de poderes o mandatos 11.93 S.M.G.
 
-de poderes o mandatos 9.00 S.M.G.
+> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO ARTICULO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+IV.- Por la inscripción de actos o convenios relacionados con poderes o mandatos o su revocación y que sean de sociedades mercantiles 3.97 S.M.G.
 
-> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
-IV.- Por la inscripción de actos o convenios relacionados,
-
-con poderes o mandatos o su revocación y, que sean
-
-de sociedades mercantiles 3.00 S.M.G.
-
-V.- Por la rectificación o reposición de inscripción es 1.00 S.M.G.
+V.- Por la rectificación o reposición de inscripciones 1.32 S.M.G.
 
 ###### ARTÍCULO 61.
 
 Por los servicios que preste la Dirección del Registro Público de la Propiedad y del Comercio, que no estuvieren relacionados en los artículos 59 y 60 de esta ley, se causará los derechos siguientes, por:
 
-I.- La calificación de cualquier documento 1.00 S.M.G.
+> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO ARTICULO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+I.- La calificación de cualquier documento 1.32 S.M.G.
 
-> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
-II.- La inscripción de cualquier acto o convenio 4.00 S.M.G.
+II.- La inscripción de cualquier acto o convenio 5.31 S.M.G.
 
 ###### ARTÍCULO 62.
 
@@ -1713,41 +1929,49 @@ III.- En los casos en que un documento tenga que inscribirse en varias secciones
 
 Por las siguientes escrituras públicas que se otorguen ante notario o escribano públicos, se causará derechos conforme a lo siguiente:
 
-I.- De protesto 1.75 S.M.G.
+> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
-II.- De poder o mandato: 1.75 S.M.G.
+I.- De protesto 2.31 S.M.G.
 
-III.- De testamento 2.50 S.M.G.
+> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
-> <small>(F. DE E., D.O. 9 DE ENERO DE 2006)</small>
+II.- De poder o mandato 2.31 S.M.G.
+
+> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
+
+III.- De testamento 3.30 S.M.G.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 64.
 
-Cuando las escrituras o contratos otorgados ante cualquier fedatario público contengan precio de operación, se pagarán derechos conforme a las siguientes:
+Cuando las escrituras o contratos otorgados ante cualquier fedatario público contengan precio de operación, se pagarán derechos conforme a la siguiente:
 
-TARIFAS
+TARIFA
 
 PESOS
 
-HASTA 10,000.00 4.00 S.M.G.
+HASTA 10,000.00 5.31 S.M.G.
 
-DE 10,000.01 A 20,000.00 6.00 S.M.G.
+DE 10,000.01 A 20,000.00 7.96 S.M.G.
 
-DE 20,000.01 A 50,000.00 9.00 S.M.G.
+DE 20,000.01 A 50,000.00 11.93 S.M.G.
 
-DE 50,000.01 A 80,000.00 11.75 S.M.G.
+DE 50,000.01 A 80,000.00 15.58 S.M.G.
 
-DE 80,000.01 A 110,000.00 15.25 S.M.G.
+DE 80,000.01 A 110,000.00 20.24 S.M.G.
 
-DE 110,000.01 A 500,000.00 23.75 S.M.G.
+DE 110,000.01 A 500,000.00 31.52 S.M.G.
 
-DE 500,000.01 A 1'000,000.00 30.00 S.M.G.
+DE 500,000.01 A 1'000,000.00 39.80 S.M.G.
 
-DE 1'000,000.01 EN ADELANTE 35.00 S.M.G
+DE 1'000,000.01 EN ADELANTE 46.42 S.M.G.
 
 En los contratos o convenios en los que se pacte la ocupación o la desocupación de inmuebles y se estipule un plazo indefinido, se tomará la cuantía correspondiente a un año, aplicándose la tarifa del párrafo anterior.
 
-Cualquier escritura pública o documento que contenga un contrato o convenio, otorgado ante fedatario público, que se refiera o no a cantidad determinada y no esté gravada en este capítulo, causará un derecho de: 2.75 S.M.G.
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
+
+Cualquier escritura pública o documento que contenga un contrato o convenio, otorgado ante fedatario público, que se refiera o no a cantidad determinada y no esté gravada en este capítulo, causará un derecho de: 3.65 S.M.G.
 
 No se causará este derecho, en los casos en que no se causen los establecidos en las fracciones I, II y III del artículo 59 de esta ley.
 
@@ -1775,6 +1999,12 @@ testamentario y contestación 3.00 S.M.G.
 
 V.- Registro y archivo de testamentos ológrafos 3.00 S.M.G.
 
+> <small>(ADICIONADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
+
+VI.- Por la recepción y revisión de cada aviso de escritura
+
+que se otorga ante Escribano Público 0.75 S.M.G.
+
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO ARTICULO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA SU DENOMINACION, D.O. 30 DE DICIEMBRE DE 2009)</small>
@@ -1787,191 +2017,465 @@ V.- Registro y archivo de testamentos ológrafos 3.00 S.M.G.
 
 ARTÍCULO 85 A.- Los servicios que presta la Secretaría de Salud, para la verificación, protección y control sanitario, causarán derechos de conformidad con lo siguiente:
 
-I.- Determinaciones sanitarias:
+> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
+
+I.- Determinaciones Sanitarias
 
 a) Apertura
 
-1.- Estacionamiento tipo A 69.30 S.M.G.
+1. Expendio de cerveza en envase cerrado 707 S.M.G.
 
-2.- Estacionamiento tipo B 92.40 S.M.G.
+2. Licorería 883 S.M.G.
 
-3.- Estacionamiento tipo C 115.50 S.M.G.
+3. Tienda de autoservicio tipo A 707 S.M.G.
 
-4.- Estacionamiento tipo D 138.60 S.M.G
+4. Tienda de autoservicio tipo B 1,060 S.M.G.
+
+5. Bodega o distribuidora de bebidas alcohólicas 707 S.M.G.
+
+6. Centro Nocturno 1,766 S.M.G.
+
+7. Discoteca 1,766 S.M.G.
+
+8. Cabaret 1,766 S.M.G.
+
+9. Restaurante de lujo 354 S.M.G.
+
+10. Restaurante 265 S.M.G.
+
+11. Pizzería 265 S.M.G.
+
+12. Bar 1,236 S.M.G.
+
+13. Video bar 1, 236 S.M.G.
+
+14. Salón de baile 707 S.M.G.
+
+15. Sala de recepción 354 S.M.G.
+
+> <small>(F. DE E., D.O. 22 DE DICIEMBRE DE 2010)</small>
+
+16. Restaurante de lujo en establecimientos
+
+donde se realicen juegos con apuestas y
+
+sorteos en términos de la Ley Federal de
+
+Juegos y Sorteos y su Reglamento. 5,296 S.M.G.
 
 b) Renovaciones
 
-1.- Establecimiento tipo A 11.50 S.M.G.
+1. Expendio de cerveza en envase cerrado 89 S.M.G.
 
-2.- Establecimiento tipo B 18.40 S.M.G.
+2. Licorería 124 S.M.G.
 
-3.- Establecimiento tipo C 23.10 S.M.G.
+3. Tienda de autoservicio tipo A 89 S.M.G.
 
-4.- Establecimiento tipo D 69.30 S.M.G.
+4. Tienda de autoservicio tipo B 124 S.M.G.
 
-c) Modificación de horario 21.00 S.M.G.
+5. Bodega o distribuidora de bebidas
 
-d) Cambio de denominación 25.20 S.M.G.
+alcohólicas 89 S.M.G.
 
-e) Cambio de propietario 37.80 S.M.G.
+6. Centro Nocturno 301 S.M.G.
 
-f) Cambio de domicilio 50.40 S.M.G.
+7. Discoteca 301 S.M.G.
+
+8. Cabaret 301 S.M.G.
+
+9. Cantina 124 S.M.G.
+
+10. Restaurante de lujo 80 S.M.G.
+
+11. Restaurante 71 S.M.G.
+
+12. Pizzería 45 S.M.G.
+
+13. Bar 265 S.M.G.
+
+14. Video bar 265 S.M.G.
+
+15. Salón de baile 89 S.M.G.
+
+16. Sala de recepción 89 S.M.G.
+
+17. Restaurante de lujo en establecimientos
+
+donde se realicen juegos con apuestas y
+
+sorteos en términos de la Ley Federal de
+
+Juegos y Sorteos y su Reglamento. 1,766 S.M.G.
+
+c) Modificación de horario
+
+1. Expendio de cerveza en envase cerrado,
+
+licorería, tienda de autoservicio tipo A,
+
+tienda de autoservicio tipo B, bodega o
+
+distribuidora de bebidas alcohólicas, centro
+
+nocturno, discoteca, cabaret, cantina,
+
+restaurante de lujo, restaurante, pizzería,
+
+bar, videobar, salón de baile y sala
+
+de recepción. 53 S.M.G.
+
+2. Restaurante de lujo en establecimientos
+
+donde se realicen juegos con apuestas y
+
+sorteos en términos de la Ley Federal de
+
+Juegos y Sorteos y su Reglamento. 883 S.M.G. o
+
+d) Cambio de denominación
+
+1. Expendio de cerveza en envase cerrado,
+
+licorería, tienda de autoservicio tipo A,
+
+tienda de autoservicio tipo B, bodega o
+
+distribuidora de bebidas alcohólicas, centro
+
+nocturno, discoteca, cabaret, cantina,
+
+restaurante de lujo, restaurante, pizzería,
+
+bar, videobar, salón de baile y sala de
+
+recepción. 195 S.M.G.
+
+2. Restaurante de lujo en establecimientos
+
+donde se realicen juegos con apuestas y
+
+sorteos en términos de la Ley Federal de
+
+Juegos y Sorteos y su Reglamento. 883 S.M.G.
+
+e) Cambio de propietario
+
+1. Expendio de cerveza en envase cerrado,
+
+licorería, tienda de autoservicio tipo A,
+
+tienda de autoservicio tipo B, bodega o
+
+distribuidora de bebidas alcohólicas, centro
+
+nocturno, discoteca, cabaret, cantina,
+
+restaurante de lujo, restaurante, pizzería,
+
+bar, videobar, salón de baile y sala de recepción. 354 S.M.G.
+
+2. Restaurante de lujo en establecimientos
+
+donde se realicen juegos con apuestas y
+
+sorteos en términos de la Ley Federal de
+
+Juegos y Sorteos y su Reglamento. 5,296 S.M.G.
+
+f) Cambio de domicilio
+
+1. Expendio de cerveza en envase cerrado,
+
+licorería, tienda de autoservicio tipo A, tienda
+
+de autoservicio tipo B, bodega o distribuidora
+
+de bebidas alcohólicas, centro nocturno,
+
+discoteca, cabaret, cantina, restaurante
+
+de lujo, restaurante, pizzería, bar, videobar,
+
+salón de baile y sala de recepción. 354 S.M.G
+
+2. Restaurante de lujo en establecimientos donde
+
+se realicen juegos con apuestas y sorteos
+
+en términos de la Ley Federal de Juegos
+
+y Sorteos y su Reglamento. 5,296 S.M.G.
 
 II.- Certificado de defunción 0.60 S.M.G.
 
+> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
+
 III.- Por la expedición de certificado sobre
 
-pozo de agua para abastecimiento privado; 12.00 S.M.G
+pozo de agua para abastecimiento privado; 20.00 S.M.G.
 
-IV.- Por la revalidación de certificado; 6.00 S.M.G.
+> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
+
+IV.- Por la revalidación de certificado; 10.00 S.M.G.
+
+> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
 V.- Por la autorización de libro de medicamento
 
-controlado; 6.00 S.M.G.
+controlado; 7.00 S.M.G.
 
-VI.- Permiso sanitario de construcción, 2.40 S.M.G.
+> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
-VII.- Por levantamiento o aplicación de medida
+VI.- Permiso sanitario de construcción; 20.00 S.M.G.
 
-de seguridad; 12.00 S.M.G
+> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
+
+VII.- Por levantamiento o aplicación de
+
+medida de seguridad; 16.00 S.M.G.
+
+> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
 VIII.- Por día de capacitación; 4.80 S.M.G.
 
+> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
+
 IX.- Por visita de establecimientos a petición
 
-de parte; 6.00 S.M.G.
+de parte; 15.00 S.M.G.
 
-X.- Por muestra a petición de parte; 6.00 S.M.G.
+> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
-XI.- Por permiso para otorgar degustaciones; 6.00 S.M.G.
+X.- Por muestra a petición de parte; 15.00 S.M.G.
 
-XII.- Por autorización de corrección de
+> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
-nomenclatura; 6.00 S.M.G.
+XI.- Por permiso para otorgar degustaciones; 8.00 S.M.G.
+
+> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
+
+XII.- Por autorización de corrección
+
+de nomenclatura; 20.00 S.M.G.
 
 XIII.- Autorización temporal para expendio y
 
 suministro de bebidas alcohólicas:
 
-Tipo A 12.00 S.M.G.
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
-Tipo B 24.00 S.M.G.
+Tipo A 21.00 S.M.G.
 
-Tipo C 36.00 S.M.G.
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
-XIV.- Por expedición de código de barras para
+Tipo B 35.00 S.M.G.
 
-el manejo de estupefacientes; 6.00 S.M.G.
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
-XV.- Por autorización de compra y venta de
+Tipo C 40.00 S.M.G.
 
-medicamentos controlados; 6.00 S.M.G.
+> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
-XVI.- Por autorización de libros para el registro
+XIV.- Por expedición de código de barras
 
-del manejo de sangre y sus derivados; 6.00 S.M.G.
+para el manejo de estupefacientes; 10.00 S.M.G.
 
-XVII.- Por validación de planos de construcción; 6.00 S.M.G.
+> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
+
+XV.- Por autorización de compra y venta
+
+de medicamentos controlados; 10.00 S.M.G.
+
+> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
+
+XVI.- Por autorización de libros para el
+
+registro del manejo de sangre y sus derivados; 10.00 S.M.G.
+
+> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
+
+XVII.- Por validación de planos de construcción; 10.00 S.M.G.
+
+> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
 XVIII.- Por verificación a solicitud de parte,
 
-con muestreo; 9.60 S.M.G.
+con muestreo; 18.00 S.M.G.
 
-XIX.- Autorización de libros de sustancias toxicas 6.00 S.M.G.
+> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
-> <small>(ADICIONADO, D.O. 26 DE DICIEMBRE DE 2006)</small>
+XIX.- Autorización de libros de sustancias tóxicas; 10.00 S.M.G.
 
-ARTÍCULO 85 B.- Por reposición de las determinaciones sanitarias, se causará el equivalente al 50% del monto de la cuota de expedición de la apertura o renovación.
+> <small>(ADICIONADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
-> <small>(ADICIONADO, D.O. 26 DE DICIEMBRE DE 2006)</small>
+XX.-Renovación de Licencia Sanitaria de
 
-ARTÍCULO 85 C.- Para los fines previstos en los artículos 85-A y 85-B:
+Plaguicidas; 30.00 S.M.G.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO ARTICULO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(ADICIONADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
-> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2009)</small>
+XXI.- Aviso de Funcionamiento Tipo A; 13.00 S.M.G.
 
-I.- Los establecimientos con categoría A, son:
+> <small>(ADICIONADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
-Expendios de cerveza, licorería, pizzería, restaurante, tienda de autoservicio con venta de cerveza, sala de recepciones y salón de baile;
+XXII.- Aviso de Funcionamiento Tipo B; 45.00 S.M.G.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO ARTICULO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(ADICIONADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
-> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2009)</small>
+XXIII.- Solicitud de verificación para
 
-II.- Los establecimientos con categoría B son:
+destrucción y/o desactivación de
 
-Restaurantes de lujo, tienda de autoservicio con venta de cerveza y licor y cantinas;
+medicamento no controlado; 10.00 S.M.G.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO ARTICULO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(ADICIONADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
-> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2009)</small>
+XXIV.- Solicitud de verificación sanitaria
 
-III.- Los establecimientos con categoría C, son:
+para destrucción de alimentos; 10.00 S.M.G
 
-Bar, videobar, bodega o distribuidora de bebidas alcohólicas, y
+> <small>(ADICIONADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO ARTICULO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+XXV.- Expedición de copias certificadas de documentos que obren en los archivos de la Dirección hasta 20 hojas 6.00 S.M.G. Por hoja adicional se cobrará $ 20.00
 
-> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2009)</small>
+> <small>(ADICIONADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
-IV.- Los cabarets, centros nocturnos y discotecas serán considerados como establecimientos con categoría D.
+XXVI.- Visitas de verificación para
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+constatación de corrección de anomalías; 15.00 S.M.G.
 
-> <small>(ADICIONADO, D.O. 27 DE DICIEMBRE DE 2008)</small>
+> <small>(ADICIONADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
+
+XXVII.- Balance de medicamentos; 100.00 S.M.G.
+
+> <small>(ADICIONADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
+
+XXVIII.- Autorización de inhumación o cremación
+
+de cadáveres, durante las primeras doce horas; 5.00 S.M.G.
+
+> <small>(ADICIONADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
+
+XXIX.- Cambio de responsable sanitario y libros
+
+de control en farmacias; 9.00 S.M.G.
+
+> <small>(ADICIONADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
+
+XXX.- Por trámite de importación y exportación 30.00 S.M.G.
+
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 66.
 
 Las suscripciones y publicaciones en el Diario Oficial del Gobierno del Estado, causarán derechos conforme a lo siguiente:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO ARTICULO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
 I.- Suscripciones por un año:
 
-a) Sin suplemento 13.00 S.M.G.
+a) Sin suplemento 22.11 S.M.G.
 
-b) Con suplemento 16.00 S.M.G.
+b) Con suplemento 28.84 S.M.G.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO ARTICULO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
 II.- Suscripciones por un semestre:
 
-a) Sin suplemento 6.00 S.M.G.
+a) Sin suplemento 11.54 S.M.G.
 
-b) Con suplemento 8.00 S.M.G.
+b) Con suplemento 15.39 S.M.G.
 
 III.- Publicaciones, por:
 
-a) Edictos, circulares, avisos o cualquiera
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
-que no pase de diez líneas de columna,
-
-por cada publicación 1.50 S.M.G.
+a) Edictos, circulares, avisos o cualquiera que no pase de diez líneas de columna, por cada publicación 1.92 S.M.G.
 
 b) Cada palabra adicional 0.03 S.M.G.
 
-c) Una plana 10.50 S.M.G.
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
-d) Media plana 5.50 S.M.G.
+c) Una plana 13.46 S.M.G.
 
-e) Un cuarto de plana 3.00 S.M.G.
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
+
+d) Media plana 6.72 S.M.G.
+
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
+
+e) Un cuarto de plana 3.84 S.M.G.
+
+> <small>(ADICIONADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
+
+IV.- Por ejemplar:
+
+a) Del día sin suplemento 0.14 S.M.G.
+
+b) Suplemento del día por hoja 0.01 S.M.G.
+
+c) De fecha anterior sin suplemento 0.21 S.M.G.
+
+d) Por el suplemento de fecha anterior por hoja 0.01 S.M.G.
+
+> <small>(ADICIONADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
+
+V.- Por expedición de copias certificadas por hoja 0.10 S.M.G.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO ARTICULO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA SU DENOMINACION, D.O. 30 DE DICIEMBRE DE 2009)</small>
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO XVII. DERECHOS POR LOS SERVICIOS QUE PRESTA LA UNIDAD ESTATAL DE PROTECCIÓN CIVIL
+
+> <small>(ADICIONADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
+
+###### ARTÍCULO 85-E.
+
+Los servicios que presta la Unidad de Protección Civil, causarán los siguientes derechos:
+
+I.- Registro a empresas capacitadoras 150.00 S.M.G.
+
+II.- Registro a instructores independientes 150.00 S.M.G.
+
+III.- Registro a empresas de consultoría y
+
+estudios de riesgo vulnerabilidad 200.00 S.M.G
+
+IV.- Cursos de capacitación básico en
+
+materia de Protección Civil 10 S.M.G. por persona
+
+V.- Taller de Elaboración de Programas
+
+Internos de Protección Civil 10 S.M.G. por persona
+
+VI.- Capacitación en la formación de Brigadas 10 S.M.G. por persona
+
+VII.- Autorización o aprobación de programas
+
+internos de Protección Civil 50.00 S.M.G
+
+VIII.- Renovación del Registro de Empresas
+
+e Instructores 100.00 S.M.G
+
+> <small>(ADICIONADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
+
+###### ARTÍCULO 85-F.
+
+Están exentas del pago de los derechos establecidos en este capítulo, las dependencias federales, estatales y municipales, y las instituciones y asociaciones sin fines de lucro.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 67.
 
 Los servicios que presta la Consejería Jurídica, causarán derechos de conformidad con lo siguiente:
 
-I.- Legalización de firmas 0.25 S.M.G.
+> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
+
+I.- Legalización de firmas 0.97 S.M.G.
 
 II.- Legalización de firmas en documentos
 
@@ -1985,17 +2489,19 @@ para el uso de explosivos por empresas constructoras 4.50 S.M.G.
 
 IV.- (DEROGADA, D.O. 30 DE DICIEMBRE DE 2009)
 
-> <small>(F. DE E., D.O. 9 DE ENERO DE 2006)</small>
+> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
-V.- Expedición y otorgamiento de dispensa a
+V.- Expedición y otorgamiento de dispensa a menores de
 
-menores de edad para contraer matrimonio 0.25 S.M.G.
+edad para contraer matrimonio 0.26 S.M.G.
 
-### CAPÍTULO ÚNICO. APROVECHAMIENTOS
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 20 DE DICIEMBRE DE 2010)</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+VI.- Certificación de plicas 0.47 S.M.G.
 
-> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2008)</small>
+### CAPÍTULO XVIII. DERECHOS POR SERVICIOS QUE PRESTA EL PATRONATO DE LAS UNIDADES DE SERVICIOS CULTURALES Y TURÍSTICOS DEL ESTADO DE YUCATÁN
+
+> <small>(ADICIONADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 68.
 
@@ -2009,11 +2515,11 @@ parcelas, formas de manifestación de traslación
 
 de dominio o cualquier otra manifestación 0.28 S.M.G.
 
-> <small>(REFORMADO, D.O. 24 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
-b) Planos mayores al tamaño oficio y hasta 4 veces
+b) Planos mayores al tamaño oficio y hasta cuatro
 
-tamaño carta 1.19 S.M.G.
+veces tamaño carta 1.20 S.M.G.
 
 > <small>(ADICIONADO, D.O. 24 DE DICIEMBRE DE 2007)</small>
 
@@ -2021,27 +2527,25 @@ c) Planos mayores a 4 veces tamaño carta 3.03 S.M.G.
 
 II.- Expedición de copias fotostáticas certificadas de:
 
-> <small>(REFORMADO, D.O. 24 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
-a) Cada hoja certificada tamaño carta u oficio de
+a) Cada hoja certificada tamaño carta u oficio
 
-cédulas, planos, parcelas, formas de manifestación
+de cédulas, planos, parcelas formas de
 
-de traslación de dominio o cualquier otro documento 0.59 S.M.G.
+manifestación de traslación de dominio o
 
-> <small>(REFORMADO, D.O. 24 DE DICIEMBRE DE 2007)</small>
+cualquier otro documento 0.76 S.M.G.
 
-b) Planos mayores al tamaño oficio y hasta 4 veces
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
-tamaño carta 1.89 S.M.G.
+b) Planos mayores al tamaño oficio y hasta 4 veces tamaño carta 2.45 S.M.G.
 
-> <small>(REFORMADO, D.O. 24 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
-c) Planos mayores a 4 veces tamaño carta 3.70 S.M.G.
+c) Planos mayores a 4 veces tamaño carta 4.76 S.M.G.
 
-d) Planos mayores de 4 veces tamaño oficio
-
-por cada una 3.00 S.M.G.
+d) (DEROGADO, D.O. 20 DE DICIEMBRE DE 2010)
 
 III.- Por expedición de:
 
@@ -2055,127 +2559,101 @@ b) Oficios de rectificación de medidas, urbanización
 
 y cambio de nomenclatura 1.21 S.M.G.
 
-> <small>(REFORMADO, D.O. 24 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
-c) Cédulas catastrales 1.01 S.M.G.
+c) Cédulas catastrales 1.94 S.M.G.
 
 > <small>(REFORMADO, D.O. 24 DE DICIEMBRE DE 2007)</small>
 
 d) Oficios de unión de predios por cada parte 0.51 S.M.G.
 
-> <small>(REFORMADO, D.O. 24 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
-e) Constancias de No Propiedad individual 1.26 S.M.G.
+e) Constancias de No Propiedad, 1.64 S.M.G.
 
-> <small>(ADICIONADO, D.O. 24 DE DICIEMBRE DE 2007)</small>
+f) (DEROGADO, D.O. 20 DE DICIEMBRE DE 2010)
 
-f) Constancia de No Propiedad Matrimonial sin
+g) (DEROGADO, D.O. 20 DE DICIEMBRE DE 2010)
 
-importar el régimen y unión libre 1.26 S.M.G.
+h) (DEROGADO, D.O. 20 DE DICIEMBRE DE 2010)
 
-> <small>(ADICIONADO, D.O. 24 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
-g) Constancia de No Propiedad de hijos o
+i) Constancia de Única Propiedad familiar 1.27 S.M.G.
 
-dependientes económicos 1.26 S.M.G.
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
-> <small>(ADICIONADO, D.O. 24 DE DICIEMBRE DE 2007)</small>
+j) Certificado de Número Oficial de Predio 1.64 S.M.G.
 
-h) Constancia de No Propiedad Familiar 1.26 S.M.G.
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
-> <small>(ADICIONADO, D.O. 24 DE DICIEMBRE DE 2007)</small>
+k) Certificado de Inscripción Predial Vigente 1.27 S.M.G.
 
-i) Constancia de Única Propiedad 1.26 S.M.G.
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
-> <small>(ADICIONADO, D.O. 24 DE DICIEMBRE DE 2007)</small>
+l) Certificado de No Inscripción Predial 1.64 S.M.G.
 
-j) Certificado de Número Oficial de Predio 1.26 S.M.G.
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
-> <small>(ADICIONADO, D.O. 24 DE DICIEMBRE DE 2007)</small>
+m) Constancia de Valor Catastral Vigente 1.27 S.M.G.
 
-k) Certificado de Inscripción Predial Vigente 1.26 S.M.G.
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
-> <small>(ADICIONADO, D.O. 24 DE DICIEMBRE DE 2007)</small>
+n) Constancia de Historia del Predio 1.64 S.M.G.
 
-I) Certificado de No Inscripción Predial 1.26 S.M.G.
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
-> <small>(ADICIONADO, D.O. 24 DE DICIEMBRE DE 2007)</small>
+o) Constancia de Historia del Predio con
 
-m) Constancia de Valor Catastral Vigente 1.26 S.M.G.
+aplicación de valor 1.99 S.M.G.
 
-> <small>(ADICIONADO, D.O. 24 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
-n) Constancia de Historia del Predio 1.26 S.M.G.
+p) Constancia de Información de Valor 1.85 S.M.G.
 
-> <small>(ADICIONADO, D.O. 24 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
-o) Constancia de Historia del Predio con aplicación
+q) Certificado de Valor Catastral 1.64 S.M.G.
 
-de valor 1.35 S.M.G.
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
-> <small>(ADICIONADO, D.O. 24 DE DICIEMBRE DE 2007)</small>
+r) Información de bienes por propietario y/o por predio
 
-p) Constancia de Información de Valor 1.43 SM.G.
+De 1 a 5 direcciones 1.64 S.M.G.
 
-> <small>(ADICIONADO, D.O. 24 DE DICIEMBRE DE 2007)</small>
+De 6 a 10 direcciones 3.26 S.M.G.
 
-q) Certificado de Valor Catastral 1.26 S.M.G.
+De 11 a 20 direcciones 4.90 S.M.G.
 
-> <small>(ADICIONADO, D.O. 24 DE DICIEMBRE DE 2007)</small>
+De 21 en adelante por cada dirección
 
-r) Información de bienes inmuebles:
-
-Por Predio:
-
-de 1 a 5 direcciones 1.26 S.M.G.
-
-de 6 a 10 direcciones 2.53 S.M.G
-
-de 11 a 15 direcciones 3.79 S.M.G.
-
-de 16 a 20 direcciones 5.02 S.M.G.
-
-De 21 direcciones en adelante, 0.22 S.M.G. por cada dirección excedente.
-
-Por Propietario:
-
-de 1 a 5 predios 1.26 S.M.G.
-
-de 6 a 10 predios 2.53 S.M.G.
-
-de 11 a 15 predios 3.79 S.M.G.
-
-de 16 a 20 predios 5.02 S.M.G.
-
-De 21 predios en adelante, 0.22 S.M.G. por cada predio excedente.
+excedente 031 S.M.G.
 
 IV.- Elaboración de planos:
 
-> <small>(REFORMADO, D.O. 24 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
-a) Catastrales a escala 2.02 S.M.G.
+a) Catastrales a escala 3.88 S.M.G.
 
-> <small>(REFORMADO, D.O. 24 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
 b) Planos topográficos
 
-De 1 m2 a 9,999 m2 5.77 S.M.G.
+De 1 m2 a 9,999 m 7.20 S.M.G.
 
-De 01 - 00 - 00 Ha A 10 - 00 - 00 Ha 6.94 S.M.G.
+De 01 - 00 - 00 Ha A 10 - 00 - 00 Ha 13.36 S.M.G.
 
-De 10 - 00 - 01 Ha A 20 - 00 - 00 Ha 8.30 S.M.G.
+De 10 - 00 - 01 Ha A 20 - 00 - 00 Ha 15.95 S.M.G.
 
-De 20 - 00 - 01 Ha A 30 - 00 - 00 Ha 9.98 S.M.G.
+De 20 - 00 - 01 Ha A 30 - 00 - 00 Ha 19.20 S.M.G.
 
-De 30 - 00 - 01 Ha A 40 - 00 - 00 Ha 12.00 S.M.G.
+De 30 - 00 - 01 Ha A 40 - 00 - 00 Ha 23.10 S.M.G.
 
-De 40 - 00 - 01 H A 50 - 00 - 00 Ha 14.36 S.M.G.
+De 40 - 00 - 01 Ha A 50 - 00 - 00 Ha 27.60 S.M.G.
 
-De 50 - 00 - 01 Ha A 75 - 00 - 00 Ha 17.24 S.M.G.
+De 50 - 00 - 01 Ha A 75 - 00 - 00 Ha 33.15 S.M.G.
 
-De 75 - 00 - 01 Ha A 100 - 00 - 00 Ha 20.69 S.M.G.
-
-De 100 - 00 - 01 Ha en adelante por cada 5 has. Además se cobrará un 10% sobre el último costo.
+De 75 - 00 - 01 Ha A 100 - 00 - 00 Ha 39.78 S.M.G.
 
 > <small>(REFORMADA, D.O. 24 DE DICIEMBRE DE 2007)</small>
 
@@ -2189,43 +2667,45 @@ y cambio de nomenclatura 1.21 S.M.G.
 
 c) Oficios de unión 0.51 S.M.G.
 
-> <small>(REFORMADA, D.O. 24 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
-VI.- Diligencias de verificación o rectificación de
+VI.- Diligencias de verificación o rectificación de medidas
 
-medidas físicas y de colindancias de predios 4.21 S.M.G:
+físicas y de colindancias de predios 4.78 S.M.G.
 
-Más 0.10 S.M.G. por kilómetro recorrido considerados a partir de 17 kms. sin que el derecho establecido en esta fracción exceda de 17 S.M.G., tomando como punto de referencia la ubicación de la Dirección del Catastro del Estado.
+Más 0.10 S.M.G. por kilómetro recorrido considerados a partir de 17 kms sin que el derecho establecido en esta fracción exceda de 17 S.M.G., tomando como punto de referencia la ubicación de la Dirección del Catastro del Estado.
 
 > <small>(REFORMADA, D.O. 24 DE DICIEMBRE DE 2007)</small>
 
 VII.- Cuando la elaboración de planos o la diligencia de verificación o rectificación incluya trabajos de topografía, adicionalmente a la tarifa de las fracciones IV y VI, por estos trabajos se cobrará de acuerdo con la siguiente tabla:
 
-De 00 - 00 - 01 Ha a 01 - 00 - 00 Ha 12.02 S.M.G.
+> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
-De 01 - 00 - 01 Ha a 05 - 00 - 00 Ha 13.45 S.M.G.
+De 00 - 00 - 01 Ha a 01 - 00 - 00 Ha 15.04 S.M.G.
 
-De 05 - 00 - 01 Ha a 10 - 00 - 00 Ha 20.20 S.M.G.
+De 01 - 00 - 01 Ha a 05 - 00 - 00 Ha 16.82 S.M.G.
 
-De 10 - 00 - 01 Ha a 15 - 00 - 00 Ha 26.87 S.M.G.
+De 05 - 00 - 01 Ha a 10 - 00 - 00 Ha 25.24 S.M.G.
 
-De 15 - 00 - 01 Ha a 20 - 00 - 00 Ha 35.74 S.M.G.
+De 10 - 00 - 01 Ha a 15 - 00 - 00 Ha 33.59 S.M.G.
 
-De 20 - 00 - 01 Ha a 25 - 00 - 00 Ha 48.18 S.M.G.
+De 15 - 00 - ·01 Ha a 20 - 00 -00 Ha 44.67 S.M.G.
 
-De 25 - 00 - 01 Ha a 30 - 00 - 00 Ha 62.73 S.M.G.
+De 20 - 00 - 01 Ha a 25 - 00 - 00 Ha 60.23 S.M.G.
 
-De 30 - 00 - 01 Ha a 35 - 00 - 00 Ha 79.04 S.M.G.
+De 25 - 00 - 01 Ha a 30 - 00 - 00 Ha 78.41 S.M.G.
 
-De 35 - 00 - 01 Ha a 40 - 00 - 00 Ha 97.56 S.M.G.
+De 30 - 00 - 01 Ha a 35 - 00 - 00 Ha 98.80 S.M.G.·
 
-De 40 - 00 - 01 Ha a 45 - 00 - 00 Ha 118.54 S.M.G.
+De 35 - 00 - 01 Ha a 40 - 00 - 00 Ha 121.94 S.M.G.
 
-De 45 - 00 - 01 Ha a 50 - 00 - 00 Ha 142.24 S.M.G.
+De 40 - 00 - 01 Ha a 45 - 00 - 00 Ha 148.17 S.M.G.
 
-De 50 - 00 - 01 Ha en adelante se cobrará el derecho anterior, más
+De 45 - 00 - 01 Ha a 50 - 00 - 00 Ha 177.81 S.M.G.
 
-2.02 S.M.G. por cada hectárea.
+De 50 - 00 - 01 Ha en adelante se cobrará el derecho anterior, más 2.52
+
+S.M.G. por cada hectárea.
 
 > <small>(REFORMADA, D.O. 24 DE DICIEMBRE DE 2007)</small>
 
@@ -2235,7 +2715,9 @@ a) Tamaño carta 0.84 S.M.G.
 
 b) Tamaño dos cartas 1.68 S.M.G.
 
-c) Tamaño cuatro cartas (Ploter) 3.37 S.M.G.
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
+
+c) Tamaño cuatro cartas (Plotter) 3.39 S.M.G.
 
 d) Planos mayores a 4 veces tamaño carta 6.73 S.M.G.
 
@@ -2253,15 +2735,17 @@ fundo legal
 
 Por las mejoras de predios urbanos se causará y pagarán los siguientes derechos:
 
+> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
+
 De un valor de $ 1,000.00 a $ 4,000.00 0.00 S.M.G.
 
-De un valor de $ 4,001.00 a $ 10,000.00 2.95 S.M.G.
+De un valor de $ 4,001.00 a $ 10,000.00 3.67 S.M.G.
 
-De un valor de $ 10,001.00 a $ 75,000.00 6.31 S.M.G.
+De un valor de $ 10,001.00 a $ 75,000.00 9.10 S.M.G.
 
-De un valor de $ 75,001.00 a $200,000.00 7.91 S.M.G.
+De un valor de $ 75,001.00 a $ 200,000.00 12.92 S.M.G.
 
-De un valor de $ 200,000.01 en adelante 10.10 S.M.G.
+De un valor de $ 200,000.01 en adelante 19.41 S.M.G.
 
 > <small>(REFORMADO, D.O. 24 DE DICIEMBRE DE 2007)</small>
 
@@ -2273,21 +2757,15 @@ No se causará derecho alguno por las divisiones o fracciones de terrenos rústi
 
 Los fraccionamientos causarán derechos de deslinde, a excepción de lo señalado en el artículo anterior, de conformidad con lo siguiente:
 
-> <small>(REFORMADO, D.O. 24 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
-Hasta 5,000 m2 (por m2) 0.0007 S.M.G.
+Hasta 5,000 m2 (por m2) 0.0008 S.M.G.
 
-> <small>(REFORMADO, D.O. 24 DE DICIEMBRE DE 2007)</small>
+De 5,001 m2 hasta 10,000 m2 (por m2) 0.0013 S.M.G.
 
-De 5,001 m2 hasta 10,000 m2 (por m2) 0.0009 S.M.G.
+De 10,001 m2 hasta 160,000 m2 (por m2) 0.0014 S.M.G.
 
-> <small>(REFORMADO, D.O. 24 DE DICIEMBRE DE 2007)</small>
-
-De 10,001 m2 hasta 160,000 m2 (por m2) 0.0012 S.M.G.
-
-> <small>(REFORMADO, D.O. 24 DE DICIEMBRE DE 2007)</small>
-
-Más de 160,000 m2, (por metros excedentes) 0.0004 S.M.G.
+Más de 160,000 m2, (por metros excedentes) 0.0005 S.M.G.
 
 ###### ARTÍCULO 72.
 
@@ -2343,7 +2821,11 @@ Las instituciones públicas estatales y municipales siempre que el servicio sea 
 
 (DEROGADO, D.O. 27 DE DICIEMBRE DE 2008)
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO ÚNICO. APROVECHAMIENTOS
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 80.
 
@@ -2351,13 +2833,21 @@ Los servicios que presta la Procuraduría General de Justicia del Estado, causar
 
 I.- La expedición de certificados del Departamento de Dactiloscopía y Criminología:
 
-a) Para trámites consulares 1.00 S.M.G.
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
-b) De antecedentes o no antecedentes penales 0.50 S.M.G.
+a) Para trámites consulares 1.23 S.M.G.
+
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
+
+b) De antecedentes o no antecedentes
+
+penales 0.61 S.M.G.
 
 II.- (DEROGADA, P.O. 26 DE DICIEMBRE DE 2006)
 
-III.- La autorización, registro y revalidación del permiso para prestar los servicios de seguridad privada en el Estado, se pagará un derecho equivalente a 20.00 S.M.G.
+> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
+
+III.- La autorización, registro y revalidación del permiso para prestar los servicios de seguridad privada en el Estado, se pagará un derecho equivalente a 24.99 S.M.G.
 
 > <small>(DEROGADO ULTIMO PARRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
@@ -2437,25 +2927,43 @@ VII.- Autorización a particulares, para impartir
 
 estudios de, nivel:
 
-a) Preescolar 15.75 S.M.G.
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
-b) Primaria y Secundaria 19.75 S.M.G.
+a) Preescolar 70.11 S.M.G.
 
-VIII.- Reconocimiento de validez oficial a particulares,
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
-por cada plan de estudios de, nivel:
+b) Primaria 80.14 S.M.G.
 
-a) Inicial 15.75 S.M.G.
+> <small>(ADICIONADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
-b) Medio Superior y Extraescolar 31.00 S.M.G.
+c) Secundaria 90.15 S.M.G.
 
-c) Técnico Superior Universitario y Licenciatura 55.00 S.M.G.
+> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
-d) Postgrado 63.50 S.M.G.
+VIII.- Reconocimiento de validez oficial a particulares, por cada plan de estudios de nivel:
 
-IX.- Cambio de domicilio de instituciones educativas
+a) Inicial 60.10 S.M.G.
 
-particulares, de todos los niveles 8.25 S.M.G.
+b) Medio Superior y Extraescolar 100.17 S.M.G.
+
+c) Técnico Superior Universitario y
+
+Licenciatura 150.25 S.M.G.
+
+d) Postgrado 180.31 S.M.G.
+
+> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
+
+IX.- Cambio de domicilio de instituciones educativas particulares, de todos los niveles:
+
+a) Inicial, preescolar, primaria o secundaria 30.04 S.M.G.
+
+b) Medio Superior 40.07 S.M.G.
+
+c) Superior o postgrado 60.10 S.M.G.
+
+d) Formación para el trabajo 30.04 S.M.G.
 
 X.- Inspección y vigilancia de establecimiento (sic)
 
@@ -2529,7 +3037,15 @@ educación normal (trascripción) 1.75 S.M.G.
 
 d) Acta de examen profesional y título (trascripción) 2.25 S.M.G.
 
-e) Dictamen de revalidación o equivalencia 1.50 S.M.G.
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
+
+e) Dictamen de revalidación o equivalencia
+
+1.- Inicial, preescolar, primaria o secundaria 1.50 S.M.G.
+
+2.- Medio superior 2.20 S.M.G.
+
+3.- Superior 6.51 S.M.G.
 
 XIV.- Por expedición de constancia de estudios 1.00 S.M.G.
 
@@ -2539,25 +3055,221 @@ XVI.- Equivalencias de estudios de nivel:
 
 a) Medio Superior 4.00 S.M.G.
 
-b) Superior 11.50 S.M.G.
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
+
+b) Superior 11.59 S.M.G
 
 XVII.- Revalidación de estudios de nivel:
 
 a) Primaria 0.50 S.M.G.
 
-b) Secundaria 0.50 S.M.G.
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
-c) Medio Superior 4.00 S.M.G.
+b) Secundaria 1.50 S.M.G.
 
-d) Superior 11.50 S.M.G.
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
+
+c) Medio Superior 4.02 S.M.G.
+
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
+
+d) Superior 11.59 S.M.G.
+
+> <small>(ADICIONADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
+
+XVIII.- Cambio de titular de un acuerdo de 50.08 S.M.G.
+
+incorporación
+
+> <small>(ADICIONADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
+
+XIX.- Cambio de nombre de plantel educativo 15.02 S.M.G.
+
+> <small>(ADICIONADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
+
+XX.- Cambio de nombre de plantel educativo 15.02 S.M.G.
+
+> <small>(ADICIONADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
+
+XXI.- Ampliación de domicilio
+
+a) Inicial, preescolar, primaria o secundaria 30.04 S.M.G.
+
+b) Medio superior 40.07 S.M.G.
+
+c) Superior 60.10 S.M.G.
+
+d) Formación para el trabajo 40.07 S.M.G.
+
+### CAPÍTULO ÚNICO
 
 ###### ARTÍCULO 82.
 
 Los servicios que presta la Secretaría de Ecología, causarán derechos de conformidad con lo siguiente:
 
-1.- Por la verificación de emisión de contaminantes,
+> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
-generados por vehículos automotores 1.50 S.M.G.
+I.- Por la verificación de emisión de contaminantes, generados por vehículos
+
+automotores 1.50 S.M.G.
+
+> <small>(ADICIONADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
+
+II.- Por cada cuota de conservación de cazador nacional 26.47 S.M.G.
+
+> <small>(ADICIONADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
+
+III.- Por cada cuota de conservación de cazador extranjero 39.71 S.M.G.
+
+> <small>(ADICIONADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
+
+IV.- Por cada cintillo de cobro cinegético 4.41 S.M.G.
+
+> <small>(ADICIONADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
+
+V.- Por cada evaluación y resolución de informe preventivo 62.49 S.M.G.
+
+> <small>(ADICIONADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
+
+VI.- Por cada evaluación y resolución de manifestación
+
+de impacto ambiental 115.37 S.M.G.
+
+> <small>(ADICIONADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
+
+VII.- Por la expedición de exención de presentación de estudio de impacto ambiental 14.42 S.M.G.
+
+> <small>(ADICIONADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
+
+VIII.- Por cada evaluación y resolución de estudio
+
+de riesgo 38.46 S.M.G.
+
+> <small>(ADICIONADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
+
+IX.- Por cada evaluación y resolución de la modificación
+
+del proyecto autorizado 35.57 S.M.G.
+
+> <small>(ADICIONADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
+
+X.- Por cada ratificación de autorizaciones otorgadas 26.92 S.M.G.
+
+> <small>(ADICIONADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
+
+XI.- Por cada verificación e inspección de áreas,
+
+predios y obras 21.14 S.M.G.
+
+> <small>(ADICIONADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
+
+XII.- Por cada evaluación y resolución de funcionamiento
+
+de fuente fija 28.84 S.M.G.
+
+> <small>(ADICIONADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
+
+XIII.- Por cada renovación de cédula de operación anual 14.42 S.M.G.
+
+### CAPÍTULO ÚNICO
+
+###### ARTÍCULO 85-G.
+
+Por los servicios que presta el Patronato de las Unidades de Servicios Culturales y Turísticos del Estado de Yucatán, se cobrarán los siguientes derechos:
+
+I.- Chichén Itzá Unidad de servicio 1.15 S.M.G.
+
+II.- Chichén Itzá Unidad de servicio (extranjeros) 2.03 S.M.G.
+
+III.- Chichén Itzá Niños entrada general menores de 13 años 0.09 S.M.G.
+
+IV.- Chichén Itzá Estudiante 0.09 S.M.G.
+
+V.- Chichén Itzá Luz y Sonido 0.78 S.M.G.
+
+VI.- Chichén Itzá Luz y Sonido (extranjeros) 1.22 S.M.G.
+
+VII.- Uxmal Unidad de Servicios 1.15 S.M.G.
+
+VIII.- Uxmal Unidad de Servicios (extranjeros) 2.03 S.M.G.
+
+IX.- Uxmal Niños general menores de 13 años 0.09 S.M.G.
+
+X.- Uxmal estudiantes 0.09 S.M.G.
+
+XI.- Uxmal Luz y Sonido 0.78 S.M.G.
+
+XII.- Uxmal Luz y Sonido (extranjeros) 1.22 S.M.G.
+
+XIII.- Grutas Loltún 0.58 S.M.G.
+
+XIV.- Grutas Loltún (extranjeros) 1.02 S.M.G.
+
+XV.- Grutas Loltún niños generales menores de 13 años 0.09 S.M.G
+
+XVI.- Grutas Loltún Estudiante 0.09 S.M.G.
+
+XVII.- Dzibilchaltún 0.58 S.M.G
+
+XVIII.- Dzibilchaltún (extranjeros) 1.02 S.M.G.
+
+XIX.- Dzibilchaltún de Loltún niños generales menores de 13 años 0.09 S.M.G.
+
+XX.- Dzibilchaltún estudiantes 0.09 S.M.G.
+
+XXI.- Grutas de Balankanché 0.58 S.M.G.
+
+XXII.- Grutas de Balankanché (extranjeros) 1.02 .S.M.G
+
+XXIII.- Grutas de Balankanché niños generales menores
+
+de 13 años 0.09 S.M.G.
+
+XXIV.- Grutas de Balankanché estudiantes 0.09 S.M.G.
+
+XXV.- Celestún 0.58 .S.M.G.
+
+XXVI.- Celestún (extranjeros) 1.02 S.M.G.
+
+XXVII.- Celestún niños generales menores de 13 años 0.43 S.M.G.
+
+XXVIII.- Celestún estudiantes 0.09 S.M.G.
+
+XXIX.- Cenotes X'Kekén adultos 1.59 S.M.G.
+
+XXX.- Cenotes X'Kekén(extranjeros) 0.92 S.M.G.
+
+XXXI.- Cenotes X'Kekén (menores de 13 años) y estudiantes 0.30 S.M.G.
+
+XXXII.- Cenotes X'Kekén INSEN 0.39 S.M.G.
+
+XXXIII.- Cenote Samulá adulto 0.48 S.M.G.
+
+XXXIV.- Cenote Samulá (extranjeros) 0.92 S.M.G.
+
+XXXV.- Cenote Samulá niños (menores de 13 años) y estudiantes 0.30 S.M.G.
+
+XXXVI.- Cenote Samulá INSEN 0.39 S.M.G.
+
+XXXVII.- Izamal (Luz y Sonido) 0.95 S.M.G.
+
+XXXVIII.- Izamal (Luz y Sonido) extranjero 1.39 S.M.G.
+
+XXXIX.- Ek Balam Unidad de Servicios 0.58 S.M.G.
+
+XL.- Ek Balam Unidad de Servicios extranjero 1.02 S.M.G.
+
+XLI.- Ek Balam Unidad de Servicios (menores de 13 años) 0.09 S.M.G.
+
+XLII.- Ek Balam Unidad de Servicios Estudiantes 0.09 S.M.G.
+
+Los ciudadanos mexicanos no pagarán el derecho a que se refiere este artículo por los servicios que se presten los domingos, en las unidades de Chichén Itzá, Uxmal, Dzibilchaltún y Ek Balam.
+
+Los días festivos se cobrará el 50% del derecho que establece este artículo a los ciudadanos mexicanos.
+
+Para disfrutar de la cuota preferencial establecida en este artículo, los estudiantes deberán obtener la autorización del Patronato de las Unidades de Servicios Culturales y Turísticos del Estado de Yucatán, previamente a la prestación del servicio.
+
+La recaudación de este derecho se destinará a un fideicomiso cuyo fin principal será apoyar e impulsar las actividades y los objetivos turísticos y culturales del Estado de Yucatán.
 
 ###### ARTÍCULO 83.
 
@@ -2589,9 +3301,59 @@ del anuncio publicitario o señal informativa 1 S.M.G
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O. 26 DE DICIEMBRE DE 2006)</small>
 
+###### ARTÍCULO 85-B.
+
+Por reposición de las determinaciones sanitarias, se causará un derecho equivalente al 4% del costo de las determinaciones sanitarias por apertura o renovaciones establecidas en el artículo anterior.
+
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
+
+###### ARTÍCULO 85-C.
+
+Para los fines de clasificación de los derechos por concepto de expedición de determinaciones sanitarias, renovaciones y autorizaciones temporales quedarán de la siguiente manera:
+
+Apartado A
+
+Determinaciones sanitarias y renovaciones
+
+I.- Los establecimientos con categoría A, son:
+
+Expendios de cerveza en envase cerrado, licorería, pizzería, restaurante, tienda de autoservicio Tipo A, sala de recepciones y salón de baile;
+
+II.- Los establecimientos con categoría B, son:
+
+Restaurantes de lujo, tienda de autoservicio Tipo B y cantinas;
+
+III.- Los establecimientos con categoría C, son:
+
+Bar, videobar, bodega o distribuidora de bebidas alcohólicas, y;
+
+IV.- Los cabarets, centros nocturnos y discotecas serán considerados como establecimientos con categoría D.
+
+Apartado B
+
+Autorizaciones temporales
+
+I.- Las autorizaciones con categoría A, son para:
+
+Kermés, verbena popular y demás eventos con carácter similar a los anteriores;
+
+II.- Las autorizaciones con categoría B, son para:
+
+Eventos deportivos o espectáculos, fiestas y ferias tradicionales, puestos autorizados durante las fiestas de carnaval y demás eventos con carácter similar a los anteriores;
+
+III.- Las autorizaciones con categoría C, son para:
+
+Cualquier otro de carácter eventual o extraordinario que no esté considerado dentro de los tipos A o B.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O. 27 DE DICIEMBRE DE 2008)</small>
+
 ###### ARTÍCULO 85-D.
 
 Los ingresos que se obtengan por la recaudación de los derechos a que se refiere el artículo 85-A se destinarán al organismo público descentralizado denominado "Servicios de Salud de Yucatán", para el mantenimiento y operación de los servicios que presta.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
 ## TÍTULO CUARTO. DE LOS PRODUCTOS
 
@@ -2744,3 +3506,21 @@ P.O. 3 DE FEBRERO DE 2010.
 ###### ARTÍCULO ÚNICO.
 
 Las disposiciones de este Decreto entrarán en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 20 DE DICIEMBRE DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+Este Decreto entrará en vigor el primer día del mes de enero del 2011, previa publicación en el Diario Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Capítulo IV, del Título Tercero de la Ley General de Hacienda del Estado de Yucatán dejará de ser aplicable a los municipios a partir de que se hagan cargo del servicio público de panteones y la función recaudatoria inherente al mismo.
+
+###### ARTÍCULO TERCERO.
+
+Se abroga el Decreto Número 323 publicado en el Diario Oficial del Gobierno del Estado el 26 de julio de 2010.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan todas las disposiciones de igual o menor rango en lo que se opongan a este Decreto.
