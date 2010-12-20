@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-la-procuraduria-de-defensa-del-ciudadano-del-7125
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-11-23"
-last_updated: "2010-12-01"
+last_updated: "2010-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71255&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "NLE"
 ---
 # REGLAMENTO DE LA PROCURADURIA DE DEFENSA DEL CIUDADANO DEL MUNICIPIO DE GUADALUPE, NUEVO LEON
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 20 DE DICIEMBRE DE 2010 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 REGLAMENTO DE LA PROCURADURIA DE DEFENSA DEL CIUDADANO DEL MUNICIPIO DE GUADALUPE, NUEVO LEON
 
 ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE DICIEMBRE DE 2010.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL EL 20 DE DICIEMBRE DE 2011.</small>
 
 Reglamento Publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 23 de noviembre de 2009.
 
@@ -111,8 +111,6 @@ Para los fines anteriormente descritos, las dependencias del municipio están ob
 
 ### CAPÍTULO II. DE LA INTEGRACIÓN Y FACULTADES DE LA PROCURADURÍA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 20 DE DICIEMBRE DE 2010 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### ARTÍCULO 5.
 
 La Procuraduría, tendrá como máxima autoridad al Presidente Municipal; y para el debido cumplimiento de sus fines, ésta se integrará por:
@@ -128,6 +126,18 @@ III).- Director de Procedimientos de Investigación: Es el responsable de vigila
 IV).- Coordinador de Procedimientos de Investigación: Será el encargado de coordinar las funciones de los auxiliares.
 
 Auxiliares: Serán los encargados de realizar las investigaciones y notificaciones encomendadas por la Dirección de Procedimientos de Investigación, e integrar los expedientes de responsabilidad administrativa.
+
+> <small>(F. DE E., P.O. 20 DE DICIEMBRE DE 2010)</small>
+
+V).- Perito Médico Legista: Es la persona experta en la materia, con conocimientos técnico-científicos y especiales que se requieran.
+
+> <small>(F. DE E., P.O. 20 DE DICIEMBRE DE 2010)</small>
+
+VI).- Director Técnico: Es el responsable de promover y aplicar las políticas, prioridades y acciones institucionales en materia de fomento a la cultura de respeto a los derechos de los ciudadanos en el territorio que comprende el municipio.
+
+> <small>(F. DE E., P.O. 20 DE DICIEMBRE DE 2010)</small>
+
+VII).- Coordinador de Enlaces Estratégicos y Capacitación: Es el encargado de dejar establecido por escrito y reforzando además con esquemas gráficos, relaciones de hechos significativos para la historia de la Procuraduría; así como ser enlace entre ésta y las distintas entidades gubernamentales o no, para apoyo y coordinación mutua.
 
 ###### ARTÍCULO 6.
 
