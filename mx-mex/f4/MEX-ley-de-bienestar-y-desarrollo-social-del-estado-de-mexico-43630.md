@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-bienestar-y-desarrollo-social-del-estado-de-mexico-43630
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-31"
-last_updated: "2010-12-15"
+last_updated: "2010-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43630&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE DESARROLLO SOCIAL DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN EL GACETA DEL GOBIERNO: 15 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL GACETA DEL GOBIERNO: 20 DE DICIEMBRE DE 2010.
 
 Ley publicada en la Tercera Sección de la Gaceta del Gobierno, el viernes 31 de diciembre de 2004.
 
@@ -213,9 +213,11 @@ XXVIII. Equidad y Género: A la construcción cultural que se hace a partir de l
 
 ### CAPITULO II. DE LOS DERECHOS SOCIALES
 
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 4.
 
-Son considerados derechos sociales: la educación, la salud, el trabajo, la alimentación, la vivienda, el disfrute de un medio ambiente sano, la seguridad social y los relativos a la no discriminación en los términos de la Constitución Política de los Estados Unidos Mexicanos.
+Son considerados derechos sociales: la educación, la salud, el trabajo, la alimentación segura, la vivienda, el disfrute de un medio ambiente sano, la seguridad social y los relativos a la no discriminación en los términos de la Constitución Política de los Estados Unidos Mexicanos.
 
 ### CAPITULO III. DE LA APLICACION Y LOS SUJETOS DEL DESARROLLO SOCIAL
 
@@ -467,6 +469,10 @@ El Presupuesto para el Desarrollo Social, Combate a la Pobreza y programas de de
 
 El Presupuesto asignado a programas de desarrollo social deberá privilegiar los aspectos prioritarios que contempla el Artículo 11 de esta Ley.
 
+> <small>(ADICIONADO, G.G. 20 DE DICIEMBRE DE 2010)</small>
+
+Artículo 21 bis.- Los programas de desarrollo social que sean evaluados positivamente y que se justifique su continuidad, de acuerdo al Sistema Estatal de Indicadores de Desarrollo Social y Humano a que se refiere el artículo 25 quinquies de esta Ley, deberán contar con un presupuesto para su permanencia en el año fiscal siguiente, el cual no podrá ser inferior, en términos reales, al asignado en el año fiscal anterior.
+
 ###### Artículo 22.
 
 Dentro del presupuesto de Egresos del Estado, se establecerán:
@@ -521,9 +527,13 @@ Artículo 25 quater.- El Ejecutivo Estatal emitirá la determinación de zonas d
 
 Artículo 25 quinquies.- Los lineamientos y criterios para la determinación de indicadores de desarrollo social y humano serán establecidos por el CIEPS, con base en la información que genere el CONEVAL, el Instituto Nacional de Estadística y Geografía, el Consejo Nacional de Población, el Consejo Estatal de Población, además de otras fuentes que estime pertinentes.
 
-> <small>(ADICIONADO, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
+> <small>(ADICIONADO, G.G. 20 DE DICIEMBRE DE 2010)</small>
 
-Artículo 25 sexies.- Los indicadores a los que se refiere el artículo anterior serán instrumentos públicos que permitan planear, diseñar, ejecutar y evaluar el impacto de la política social en el Estado y municipios, los cuales tendrán carácter obligatorio para las dependencias y organismos del Gobierno del Estado y los municipios, en términos de la Ley de Planeación del Estado de México y Municipios.
+Para los efectos del párrafo anterior, el CIEPS deberá contar con un Sistema Estatal de Indicadores de Desarrollo Social y Humano, cuyo propósito central será medir la política de desarrollo social del Estado y municipios, para que sea acorde con el Plan Estatal de Desarrollo y los indicadores nacionales e internacionales, así como contribuir al diseño de nuevos programas de desarrollo social y garantizar la institucionalización de la política de desarrollo social y la continuidad de los programas que sean evaluados positivamente, en base a sus resultados objetivos.
+
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2010)</small>
+
+Artículo 25 sexies.- El Sistema Estatal de Indicadores de Desarrollo Social y Humano será un instrumento público que, entre otros objetivos, permita planear, diseñar, ejecutar y, evaluar el impacto de la política de desarrollo social en el Estado y municipios, y tendrá carácter obligatorio para las dependencias y organismos del Gobierno del Estado y los municipios, en términos de la Ley de Planeación del Estado de México y Municipios.
 
 ## TITULO TERCERO. DE LA SOCIEDAD ORGANIZADA
 
@@ -1062,3 +1072,23 @@ G.G. 15 DE DICIEMBRE DE 2010.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
 SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 20 DE DICIEMBRE DE 2010.
+
+DECRETO NUMERO 245, POR EL QUE SE REFORMA EL ARTICULO 4 DE LA LEY DE DESARROLLO SOCIAL DEL ESTADO DE MÉXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de que entre en vigor la reforma al último párrafo del artículo 5 de la Constitución Política del Estado Libre y Soberano de México, expedido el 28 de octubre de 2010.
+
+TERCERO.- El Ejecutivo del Estado, a través de la dependencia correspondiente, elaborará políticas públicas en materia de Seguridad Alimentaria y Nutricional.
+
+G.G. 20 DE DICIEMBRE DE 2010.
+
+DECRETO NUMERO 246, POR EL QUE SE ADICIONAN LOS ARTICULOS 21 BIS, 25 QUINQUIES CON UN SEGUNDO PARRAFO, Y SE REFORMA EL ARTICULO 25 SEXIES, DE LA LEY DE DESARROLLO SOCIAL DEL ESTADO DE MÉXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+TERCERO.- En un plazo no mayor a seis meses, contados a partir de la publicación de este Decreto, el Ejecutivo Estatal, por conducto del Consejo de Investigación y Evaluación de la Política Social, deberá expedir los lineamientos relativos a la operación del Sistema Estatal de Indicadores de Desarrollo Social y Humano, a que se refiere el presente Decreto.
