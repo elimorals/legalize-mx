@@ -4,7 +4,7 @@ identifier: "CMX-codigo-electoral-del-distrito-federal-57899"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-01-10"
-last_updated: "2008-01-10"
+last_updated: "2010-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57899&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,9 @@ issue_date: "2008-01-02"
 
 CODIGO ELECTORAL DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DEL CODIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL DISTRITO FEDERAL, PUBLICADO EN LA G.O. DE 20 DE DICIEMBRE DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: ABROGADO
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el jueves 10 de enero de 2008.
 
@@ -5193,3 +5195,29 @@ Artículo Décimo Quinto. En tanto no se modifique la Ley de Transparencia y Acc
 Recinto de la Asamblea Legislativa del Distrito Federal, a los veinte días del mes de noviembre del año dos mil siete. POR LA MESA DIRECTIVA.- DIP. RAÚL ALEJANDRO RAMÍREZ RODRÍGUEZ, PRESIDENTE.- DIP. SERGIO MIGUEL CEDILLO FERNÁNDEZ, SECRETARIO.- DIP. MIGUEL ÁNGEL ERRASTI ARANGO, SECRETARIO.- Firmas.
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II del Estatuto de Gobierno del Distrito Federal y para su debida publicación y observancia, expido el presente Decreto Promulgatorio, en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México a los dos días del mes de enero de dos mil ocho. EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MARCELO LUIS EBRARD CASAUBON.- FIRMA.- EL SECRETARIO DE GOBIERNO, JOSÉ ÁNGEL ÁVILA PÉREZ.- FIRMA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+G.O. 20 DE DICIEMBRE DE 2010.
+
+Artículo Primero. El presente Código, entrada en vigor a partir del día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+Artículo Segundo. Remítase al Jefe de Gobierno del Distrito Federal para su Promulgación y Publicación en la Gaceta Oficial del Distrito Federal. Para su mayor difusión, publíquese también en el Diario Oficial de la Federación.
+
+Artículo Tercero. Se abroga el Código Electoral del Distrito Federal publicado el 10 de enero de 2008 en la Gaceta Oficial del Distrito Federal.
+
+Artículo Cuarto. El Consejo General del Instituto Electoral del Distrito Federal y el Pleno del Tribunal Electoral del Distrito Federal, tendrán un plazo de 30 días contados a partir de la entrada en vigor del presente Código para adecuar su estructura.
+
+Artículo Quinto. La estructura y personal de la rama administrativa que se encontraban como áreas adscritas a la Dirección Ejecutiva del Servicio Profesional Electoral se integrarán a la Unidad del Centro de Formación y Desarrollo a la entrada en vigor del presente Decreto.
+
+Artículo Sexto. Dentro de los 60 días siguientes a la entrada en vigor del presente Código, el Consejo General del IEDF revisará y determinará la conformación de las Comisiones Permanentes del dicho órgano. En el transcurso del mismo periodo los consejeros que ocupan las presidencias de las Comisiones previstas en el Código que se deroga presentarán al Consejo General un informe de los trabajos realizados en dichos grupos de trabajo durante el periodo en que los presidieron.
+
+Artículo Séptimo. Lo dispuesto por los artículos 282 y 283 del presente Código, estará sujeto a que se apruebe 90 días antes del inicio del proceso electoral 2011 - 2012. En caso contrario dicho proceso se llevará a cabo con el marco geográfico vigente a la emisión del presente Código.
+
+Artículo Octavo. El Consejo General del Instituto Electoral del Distrito Federal deberá nombrar al Titular o designar un encargado de la Dirección Ejecutiva de Participación Ciudadana, en la primera quincena del mes de enero de 2011. Hasta en tanto el Consejo General haga los nombramientos correspondientes, las funciones y tareas respecto a participación ciudadana serán realizadas por el Comité conformado para tal efecto.
+
+Artículo Noveno. Los procedimientos administrativos y jurisdiccionales que se hayan iniciado durante la vigencia del Código Electoral del Distrito Federal publicado el 10 de enero de 2008 en la Gaceta Oficial del Distrito Federal, deberán concluirse conforme a dicho ordenamiento.
+
+Artículo Décimo. El Consejo General del Instituto Electoral del Distrito Federal y el Pleno del Tribunal Electoral del Distrito Federal, tendrán un plazo de 60 días contados a partir de la entrada en vigor del presente Código para emitir y/o modificar las disposiciones reglamentarias internas que correspondan.
+
+Artículo Décimo Primero. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
