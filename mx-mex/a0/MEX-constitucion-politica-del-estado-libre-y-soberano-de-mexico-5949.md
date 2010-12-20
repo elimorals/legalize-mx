@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "2010-09-21"
+last_updated: "2010-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE SEPTIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE DICIEMBRE DE 2010.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -31,9 +31,7 @@ EL CIUDADANO GENERAL AGUSTIN MILLAN, Gobernador Constitucional del Estado Libre 
 
 "La XXVI Legislatura Constitucional del Estado de México, en funciones de Constituyente, de acuerdo con el Decreto y autorización expedidos por el Ciudadano Primer Jefe del Ejército Constitucionalista, Encargado del Poder Ejecutivo de la Unión, el veintidós de marzo y catorce de abril del año en curso, respectivamente; así como con el Decreto número cinco expedido por el Ciudadano Gobernador Preconstitucional del Estado, el dieciséis de abril de mil novecientos diecisiete, decreta la siguiente:
 
-CONSTITUCION POLITICA DEL ESTADO
-
-LIBRE Y SOBERANO DE MEXICO
+CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
 Que Reforma y adiciona la del 31 de octubre de 1917
 
@@ -151,9 +149,11 @@ VI. La ley reglamentaria, determinará la manera en que los sujetos obligados de
 
 VII. La inobservancia de las disposiciones en materia de acceso a la información pública será sancionada en los términos que dispongan las leyes.
 
-> <small>(ADICIONADO, G.G. 7 DE MAYO DE 2010)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
 
-En el Estado de México se fomentará a sus habitantes el cuidado de su salud, procurando que las autoridades atiendan la nutrición adecuada y la promoción de la activación física y deportiva de las familias, con primordial atención en la calidad de la alimentación que consumen los niños y jóvenes. En esta tarea participarán las dependencias y organismos competentes de la Administración Pública del Gobierno del Estado de México, así como los correspondientes de los Municipios de la Entidad.
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2010)</small>
+
+En el Estado de México se fomentará a sus habitantes el cuidado de su salud, procurando que las autoridades atiendan la nutrición adecuada, la promoción de la activación física y deportiva de las familias, la alimentación segura, así como los medios para obtenerla, con primordial atención en la calidad de la alimentación que consumen los niños y jóvenes, en esta tarea participarán las dependencias y organismos competentes de la administración pública del Gobierno del Estado de México, así como los correspondientes de los Municipios de la Entidad.
 
 > <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
 
@@ -531,7 +531,7 @@ El Poder Público del Estado de México se divide para su ejercicio en Legislati
 
 Los poderes Legislativo y Ejecutivo del Estado se depositan en ciudadanos electos mediante sufragio universal, libre, secreto y directo, conforme a las leyes correspondientes.
 
-> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 36.
 
@@ -939,7 +939,7 @@ Si cumplidos los plazos a que se refiere el párrafo anterior no se hubieren apr
 
 > <small>(ADICIONADO, G.G. 31 DE AGOSTO DE 2010)</small>
 
-Si llegado el 3I de enero no se hubiese aprobado la Ley de Ingresos del Estado o el Presupuesto de Egresos correspondientes al ejercicio fiscal en transcurso, o ambos, se turnará al Pleno de la Legislatura para su votación la iniciativa que en su momento hubiese mandado el Titular del Ejecutivo.
+Si llegado el 31 de enero no se hubiese aprobado la Ley de Ingresos del Estado o el Presupuesto de Egresos correspondientes al ejercicio fiscal en transcurso, o ambos, se turnará al Pleno de la Legislatura para su votación la iniciativa que en su momento hubiese mandado el Titular del Ejecutivo.
 
 > <small>(REFORMADO, G.G. 30 DE JULIO DE 2010)</small>
 
@@ -3392,3 +3392,11 @@ PRIMERO.- Publíquese el presente Decreto en el periódico oficial "Gaceta del G
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno" del Estado de México.
 
 TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+G.G. 20 DE DICIEMBRE DE 2010.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor a los 90 días siguientes de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+TERCERO.- El Ejecutivo del Estado, a través de la dependencia correspondiente, elaborará políticas públicas en materia de seguridad alimentaria y nutricional.
