@@ -4,7 +4,7 @@ identifier: "BCS-constitucion-politica-del-estado-libre-y-soberano-de-baja-2884"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-15"
-last_updated: "2010-07-20"
+last_updated: "2010-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCS"
 ---
 # CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
+> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 20 DE MARZO DE 2011 EN EL B.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE JULIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE DICIEMBRE DE 2010.
 
 Constitución publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el 15 de enero de 1975.
 
@@ -649,11 +651,15 @@ XIX.- Declarar si ha lugar o no al proceso a que se refiere el Artículo 159 de 
 
 XX.- Elegir la Diputación Permanente;
 
-> <small>(REFORMADA, B.O. 6 DE ABRIL DE 1999)</small>
+(NOTA: EL 21 DE JUNIO DE 2012, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 11/2011, DECLARÓ LA INVALIDEZ DE LAS PORCIONES NORMATIVAS DEL PÁRRAFO PRIMERO DE LA FRACCIÓN XXI DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE JUNIO DE 2012 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-XXI.- Nombrar a los Magistrados del Tribunal Superior de Justicia del Estado, de la terna que el Gobernador someta a la consideración, el cual, previa comparecencia de las personas propuestas, designará al Magistrado que deba cubrir la vacante. La designación de los Magistrados se hará por el voto de las dos terceras partes de los miembros del Congreso, dentro del improrrogable plazo de diez días naturales. Si el Congreso no resolviere dentro de ese plazo, ocupará el cargo de Magistrado la persona que, dentro de dicha terna, designe el Gobernador del Estado.
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 20 DE DICIEMBRE DE 2010)</small>
 
-En caso de que el Congreso del Estado rechace la totalidad de la terna propuesta, el Gobernador del Estado someterá una nueva en los términos del párrafo anterior. Si esta segunda terna fuere rechazada, ocupará el cargo la persona que dentro de dicha terna designe el Gobernador del Estado.
+XXI.- Resolver SOBERANA Y DISCRECIONALMENTE respecto a la elección y remoción de los Magistrados del Tribunal Superior de Justicia, así como resolver SOBERANAMENTE respecto a la reelección o no reelección de los mismos.
+
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2010)</small>
+
+Dichas resoluciones serán definitivas e inatacables, por lo que no procederá juicio, recurso o medio de defensa ordinario o extraordinario alguno en contra de las mismas.
 
 > <small>(REFORMADO, B.O. 6 DE FEBRERO DE 2002)</small>
 
@@ -1181,15 +1187,65 @@ VI.- (DEROGADA, B.O. 24 DE DICIEMBRE DE 2008)
 
 Los Magistrados del Tribunal Superior de Justicia serán designados preferentemente entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la Administración de Justicia o que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica.
 
-92.- (DEROGADO, B.O. 6 DE ABRIL DE 1999)
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2010)</small>
 
-> <small>(REFORMADO, B.O. 6 DE ABRIL DE 1999)</small>
+92.- Los Magistrados del Tribunal Superior de Justicia del Estado serán electos por el Congreso del Estado, de la terna que el Gobernador someta a su consideración, el cual, previa comparecencia de las personas propuestas, designará al Magistrado que deba cubrir la vacante.
 
-93.- Los Magistrados del Tribunal Superior de Justicia durarán en su encargo seis años. El ciudadano que haya desempeñado el cargo de Magistrado, en ningún caso y por ningún motivo podrá volver a ocupar ese cargo en el periodo inmediato.
+La designación de los Magistrados se hará por el voto de las dos terceras partes de los miembros del Congreso, dentro del improrrogable plazo de diez días naturales. Si el Congreso no resolviere dentro de ese plazo, ocupará el cargo de Magistrado la persona que, dentro de dicha terna, designe el Gobernador del Estado.
 
-> <small>(ADICIONADO, B.O. 10 DE JUNIO DE 2007)</small>
+En caso de que el Congreso del Estado rechace la totalidad de la terna propuesta, el Gobernador del Estado someterá una nueva en los términos del párrafo anterior. Si esta segunda terna fuere rechazada, ocupará el cargo la persona que dentro de dicha terna designe el Gobernador del Estado.
 
-Los Magistrados y Jueces de Primera Instancia del Tribunal Superior de Justicia del Estado no podrán desempeñar los cargos de Secretarios de Despacho, Procurador General de Justicia del Estado o Regidor de Ayuntamiento durante los próximos dos años siguientes al término de su encargo.
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2010)</small>
+
+93.- Los Magistrados del Tribunal Superior de Justicia durarán en su cargo seis años, contados a partir de la fecha en que rindan protesta de Ley y podrán ser reelectos por un periodo igual de seis años, al término del cual tendrán derecho a un haber de retiro.
+
+En caso de resultar reelectos los magistrados, sólo podrán ser privados de su cargo en cualquiera de los siguientes supuestos:
+
+I. Al cumplir doce años en el cargo de Magistrado;
+
+II. Por incapacidad física o mental que impida el buen desempeño de sus funciones;
+
+III. Si no conserva los requisitos establecidos para su nombramiento, previstos en nuestra constitución;
+
+IV. Incurran en faltas de probidad u honradez, mala conducta o negligencia en el desempeño de sus labores;
+
+V. Si no gozan de buena reputación con motivo del ejercicio de su encargo;
+
+VI. Sean condenados por sentencia ejecutoriada en juicio de responsabilidad administrativa de servidores públicos o juicio político que los inhabilite o destituya, en los casos que éstos procedan;
+
+VII. Sean jubilados en los términos legales o renuncien a su puesto;
+
+VIII. Desempeñen otro empleo o encargo de la Federación, del Estado, de algún Municipio o particulares, salvo los cargos en las instituciones educativas o en asociaciones científicas, literarias o de beneficencia;
+
+IX. En los demás casos que establezca esta constitución y la Ley de Responsabilidades de los Servidores Públicos del Estado; y
+
+X. No excusarse de conocer los asuntos de los que tenga conocimiento que está impedido conforme a la ley
+
+Tratándose de la fracción I, el Congreso del Estado, a través del Presidente de la Mesa Directiva en turno, notificará al Magistrado, a más tardar seis meses antes, la fecha en que concluirá en definitiva su encargo, señalando la causa en que se funda la privación de su puesto. Para las demás hipótesis previstas en el presente artículo, el Congreso del Estado proveerá lo conducente a fin de iniciar procedimiento de privación del puesto de magistrado respetando en todo caso la garantía de audiencia.
+
+Los Magistrados y Jueces de Primera Instancia del Tribunal Superior de Justicia del Estado no podrán desempeñar los cargos de Secretarios de Despacho, Procurador General de Justicia del Estado, Secretario General o Tesorero de Ayuntamiento durante los dos años siguientes al término de su encargo.
+
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2010)</small>
+
+93 BIS.- Para la reelección de Magistrados, estos deberán demostrar poseer los atributos que se les reconocieron al habérseles designado, y que su trabajo cotidiano lo desempeñaron de manera pronta, completa e imparcial, como expresión de honorabilidad, diligencia, excelencia profesional y honestidad invulnerable, remitiendo al Congreso del Estado los escritos y documentos conducentes a tal efecto.
+
+Para la reelección o no de los magistrados, se seguirá el siguiente procedimiento:
+
+I.- Con una anticipación no menor a sesenta días ni mayor a noventa, de que concluya el período para el que fue nombrado el Magistrado de que se trate, el Congreso del Estado, a través del Presidente de la Mesa Directiva o de la Diputación Permanente, requerirá al magistrado para que en uso de su garantía de audiencia presente por escrito los planteamientos que a su derecho convengan.
+
+Con el duplicado del requerimiento a que se refiere el párrafo anterior, se dará vista a la Comisión dictaminadora correspondiente;
+
+II.- La Comisión Legislativa dictaminadora que corresponda, deberá requerir la información a que se refiere el articulo 11 bis de la Ley Orgánica del Poder Judicial del Estado, tanto a los magistrados que integran el Pleno del Tribunal Superior de Justicia como al magistrado que se evaluara, además de estar facultada para solicitar todo tipo de expedientes e informes al Pleno del Tribunal Superior de Justicia y este queda obligado a proporcionarlos en breve término. La Infracción a estas disposiciones por los integrantes del Pleno, será causa de juicio político.
+
+La Comisión dictaminadora, podrá asimismo requerir a personas e instituciones públicas y privadas, todo tipo de información relativa al desempeño del cargo del magistrado, y estas quedan obligadas a proporcionarla en breve término;
+
+III.- Una vez reunida la documentación a que se refieren las fracciones I y II de este articulo, lo (sic) Comisión dictaminadora, deberá emitir el dictamen de evaluación correspondiente, en el cual se deberá señalar si el Magistrado posee los atributos que se le reconocieron al habérsele designado, cumpliendo los requisitos satisfechos para su nombramiento y si se actualiza o no alguno o algunos de los supuestos previstos en el artículo 93 de esta Constitución, así como contener todos aquellos elementos objetivos que den a conocer, si durante el desempeño de su trabajo cotidiano, lo ha ejercido de manera pronta, completa e imparcial, como expresión de diligencia, excelencia profesional y honestidad invulnerable;
+
+IV.- El Congreso del Estado con base en lo anterior, resolverá en definitiva sobre su reelección o no reelección al menos quince días antes de que concluya el periodo para el que fue electo dicho funcionario judicial, con una votación de mayoría absoluta.
+
+Si el Congreso resuelve la no reelección, se procederá a realizar un nuevo nombramiento en los términos que establece esta Constitución y el Magistrado cesará en sus funciones a la conclusión del periodo para el que fue nombrado; y
+
+V.- La resolución del Congreso se hará del conocimiento del funcionario, mediante notificación personal, y de la sociedad en general, mediante su publicación en el Boletín oficial del Gobierno del Estado.
 
 > <small>(REFORMADO PRIMER PARRAFO, B.O. 6 DE ABRIL DE 1999)</small>
 
@@ -1296,6 +1352,12 @@ VII.- No desempeñar ni haber desempeñado cargo de dirección nacional, estatal
 VIII.- No ocupar cargo alguno en la administración pública estatal o municipal por lo menos dos años del día de la celebración de las elecciones, excepto los relativos en materia electoral o la docencia; y
 
 IX.- Estar inscrito en el Padrón Electoral y poseer credencial para votar con fotografía.
+
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2010)</small>
+
+99 BIS.- Los Magistrados del Tribunal Estatal Electoral durarán en su cargo seis años, contados a partir de la fecha en que rindan protesta de Ley, al término de los cuales podrán ser reelectos y, si lo fueren, sólo podrán ser privados de su cargo en cualquiera de los supuestos previstos por el artículo 93 de esta Constitución.
+
+Para el procedimiento de reelección o no de los magistrados del Tribunal Estatal Electoral, se seguirá el procedimiento previsto por el artículo 93 BIS de esta Constitución.
 
 100.- Ningún funcionario judicial podrá tener ocupación o empleo diverso, con excepción de los docentes, cuyo desempeño no perjudique las funciones o labores propias de su cargo.
 
@@ -2718,3 +2780,11 @@ PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publi
 B.O. 20 DE JULIO DE 2010.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja de California Sur.
+
+> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTOS TRANSITORIOS, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 20 DE MARZO DE 2011 EN EL B.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
+B.O. 20 DE DICIEMBRE DE 2010.
+
+PRIMERO.- El presente decreto entrara en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+SEGUNDO.- Para los efectos del articulo 93 BIS fracción I de contenido en el presente decreto, y para los magistrados que concluyen su periodo durante el primer semestre del año 2011, por única ocasión, el procedimiento de evaluación deberá iniciar con una anticipación no menor a treinta días ni mayor a noventa, de que concluya el periodo constitucional del magistrado de que se trate.
