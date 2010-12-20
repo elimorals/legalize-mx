@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-proteccion-civil-para-el-distrito-federal-25387"
 country: "mx"
 rank: "ley"
 publication_date: "2002-07-23"
-last_updated: "2009-01-26"
+last_updated: "2010-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25387&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-05-07"
 
 LEY DE PROTECCION CIVIL PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 26 DE ENERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 20 DE DICIEMBRE DE 2010.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 23 de julio de 2002.
 
@@ -100,11 +100,53 @@ VI. Consejo Delegacional: Consejo Delegacional de Protección Civil, un órgano 
 
 VII. Consejo de Protección Civil: El Consejo de Protección Civil es el órgano superior de consulta y opinión de las acciones en la materia, en el que se integran en forma multidisciplinaria e interinstitucional, los órganos de gobierno del Distrito Federal, las organizaciones civiles e instituciones científicas, académicas y profesionales, cuyos fines, funciones o atribuciones se vinculan a las acciones de la protección civil;
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, G.O. 20 DE DICIEMBRE DE 2010)</small>
+
+VII Bis. Declaratoria de desastre.- Acto mediante el cual el Gobierno del Distrito Federal, reconoce que uno o varios fenómenos perturbadores han causado daños que rebasan la capacidad de recuperación de los órganos político administrativos del Distrito Federal;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, G.O. 20 DE DICIEMBRE DE 2010)</small>
+
+VII Ter. Declaratoria de emergencia.- Reconocimiento por parte del Gobierno del Distrito Federal de que existe riesgo inminente a que ocurra un desastre que ponga en riesgo la vida humana, el patrimonio de la población, los servicios vitales o los servicios estratégicos; por lo que la actuación expedita del Sistema de Protección Civil se vuelve esencial para evitar la ocurrencia;
+
 VIII. Delegaciones: Se refiere a los Órganos Político-Administrativos de cada demarcación territorial;
 
 IX. Desastre: Evento súbito y nocivo que rebasa la capacidad de respuesta del sistema;
 
-IX Bis.- (DEROGADA, G.O. 30 DE ABRIL DE 2007)
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 20 DE DICIEMBRE DE 2010)</small>
+
+IX Bis. Fenómenos perturbadores.- Los fenómenos de carácter geológico, hidrometeorológico, físico-químico, sanitario-ecológico o socio-organizativo que pueden producir riesgo, emergencia o desastre;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, G.O. 20 DE DICIEMBRE DE 2010)</small>
+
+IX Ter. FIDEICOMISO DEL FODEM: Instrumento que se integra con los recursos presupuestales remanentes provenientes de los ejercicios financieros anuales del FODEM;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, G.O. 20 DE DICIEMBRE DE 2010)</small>
+
+IX Quater. FIPREDE: Fideicomiso Preventivo de Desastres, instrumento financiero operado por el Gobierno del Distrito Federal, a través de la reglamentación expedida, con la finalidad de realizar acciones preventivas de carácter urgente, surgidas de momento a momento, para evitar afectaciones a la vida y patrimonio de la población o la estructura de la Ciudad ante la inminente ocurrencia de fenómenos de carácter natural o humano;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, G.O. 20 DE DICIEMBRE DE 2010)</small>
+
+IX Quintus. FODEM: Fondo de Atención a Desastres y Emergencias, instrumento operado por el Gobierno del Distrito Federal, activado mediante las declaratorias de emergencia y desastre, en los términos de esta ley y las Reglas de Operación para el otorgamiento de suministros de auxilio y asistencia por la ocurrencia de fenómenos humanos o naturales y la recuperación de los daños causados por los mismos.
+
+Se integra por los recursos que le sean asignados en el Presupuesto de Egresos del Distrito Federal, así como con la totalidad de los recursos obtenidos por el pago de derechos en materia de protección civil a que se refiere el Código Fiscal del Distrito Federal;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, G.O. 20 DE DICIEMBRE DE 2010)</small>
+
+IX Sextus. FOPREDE: Fondo de Prevención de Desastres, instrumento financiero operado por Gobierno del Distrito Federal, a través de la reglamentación expedida, con la finalidad de realizar acciones programadas de carácter preventivo para mitigar los efectos causados por la posible ocurrencia de fenómenos de carácter natural o humano;
 
 X. Emergencia: Evento súbito e imprevisto que resulta en un daño, sin rebasar la capacidad de respuesta del sistema en cuestión;
 
@@ -134,7 +176,11 @@ XX. Programa Delegacional de Protección Civil: Es el instrumento de planeación
 
 XXI. Programa Especial de Protección Civil: Es aquél cuyo contenido se establece para la prevención de problemas específicos derivados de eventos o espectáculos públicos de afluencia masiva en áreas o inmuebles diferentes a su uso habitual, que conllevan un nivel elevado de riesgo, y que es implementado por los particulares y las áreas sustantivas y estratégicas de la Administración Pública del Distrito Federal;
 
-XXII. Programa General de Protección Civil del Distrito Federal: Instrumento de planeación para definir el curso de las acciones destinadas a la atención de las situaciones generadas por el impacto de fenómenos destructivos en la población, sus bienes y entorno. A través de éste se determinan los participantes, sus responsabilidades, relaciones y facultades, se establecen los objetivos, políticas, estrategias, líneas de acción y recursos necesarios para llevarlo a cabo. Se basa en un diagnóstico en función de las particularidades urbanas, económicas y sociales del Distrito Federal. Este deberá contemplar las fases de prevención, mitigación, preparación, auxilio, rehabilitación, restablecimiento y reconstrucción, agrupadas en programas de trabajo. Este programa forma parte del Programa General de Desarrollo del Distrito Federal;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, G.O. 20 DE DICIEMBRE DE 2010)</small>
+
+XXII. Programa General de Protección Civil del Distrito Federal: Instrumento de planeación para definir el curso de las acciones destinadas a la atención de las situaciones generadas por el impacto de fenómenos destructivos en la población, sus bienes y entorno. A través de éste se determinan los participantes, sus responsabilidades, relaciones y facultades, se establecen los objetivos, políticas, estrategias, líneas de acción y recursos necesarios para llevarlo a cabo. Se basa en un diagnóstico en función de las particularidades urbanas, económicas y sociales del Distrito Federal. Este deberá contemplar las fases de prevención, mitigación, preparación, auxilio, rehabilitación, restablecimiento y reconstrucción, agrupadas en programas de trabajo. Este programa será elaborado de conformidad a lo establecido en la ley, la Ley de Planeación del Desarrollo del Distrito Federal y otras disposiciones normativas aplicables;
 
 XXIII. Programa Interno de Protección Civil: Aquél que se circunscribe al ámbito de una dependencia, entidad, institución y organismo, pertenecientes al sector público del Distrito Federal, al privado y al social; se aplica en los inmuebles correspondientes, con el fin de salvaguardar la integridad física de los empleados y de las personas que concurren a ellos, así como de proteger las instalaciones, bienes e información vital, ante la ocurrencia de un riesgo, emergencia, siniestro o desastre;
 
@@ -145,6 +191,12 @@ XXV. Queja Civil: Se denomina al derecho de toda persona para hacer del conocimi
 XXVI. Recuperación: Proceso orientado a la reconstrucción y mejoramiento del sistema afectado (población y entorno), así como a la reducción del riesgo de ocurrencia y la magnitud de los desastres futuros;
 
 XXVII. Riesgo: Es una condición relativa, objetiva y específica de daño, inherente al medio, una probabilidad del mismo;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, G.O. 20 DE DICIEMBRE DE 2010)</small>
+
+XXVII Bis. Riesgo inminente.- Riesgo cuya probabilidad de daño se encuentra en desarrollo;
 
 > <small>(REFORMADA, G.O. 30 DE ABRIL DE 2007)</small>
 
@@ -196,13 +248,35 @@ IV.- Actualizar los instrumentos de la protección civil;
 
 V.- Actuar como Coordinador Ejecutivo del Sistema de Protección Civil, por sí mismo o por medio del titular de la Secretaría;
 
-VI.- Convocar a sesiones del Consejo de Protección Civil; y,
+VI.- Convocar a sesiones del Consejo de Protección Civil; y, (sic)
 
-VII.- Solicitar al Presidente de la República en los términos establecidos en la Ley General realice la declaratoria de emergencia.
+VII.- Solicitar al Presidente de la República en los términos establecidos en la Ley General realice la declaratoria de emergencia;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, G.O. 20 DE DICIEMBRE DE 2010)</small>
+
+VIII.- Incluir en el Proyecto de Presupuesto de Egresos del Distrito Federal, el FODEM y FOPREDE, estableciendo los montos para la operación de cada uno de ellos conforme a las disposiciones aplicables;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, G.O. 20 DE DICIEMBRE DE 2010)</small>
+
+IX.- Disponer la utilización y destino de los recursos del FODEM con arreglo a la regulación que al respecto se emita;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, G.O. 20 DE DICIEMBRE DE 2010)</small>
+
+X.- Resolver y en su caso emitir, a solicitud de la Secretaría o de los Titulares de los órganos político administrativos, las declaratorias de emergencia o desastre, en los términos del capítulo II Bis, del Título VI de esta Ley.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 20 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 6°.
 
-En materia de protección civil, corresponden a la Secretaría las siguientes atribuciones:
+La Secretaría de Protección Civil del Distrito Federal, tendrá las siguientes atribuciones:
 
 I.- Presidir las sesiones del Consejo de Protección Civil en ausencia del Jefe de Gobierno del Distrito Federal;
 
@@ -268,19 +342,61 @@ XVI.- En los establecimientos mercantiles que operen con licencia de funcionamie
 
 XVII.- En los supuestos señalados en la fracción anterior, dictar medidas de seguridad e imponer sanciones por infracciones a la Ley;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(ADICIONADA, G.O. 26 DE ENERO DE 2009)</small>
+> <small>(ADICIONADA, G.O. 20 DE DICIEMBRE DE 2010)</small>
 
-XVIII.- Las demás que la presente ley, así como otras disposiciones le asignen.
+XVIII.- Coordinar y supervisar el funcionamiento del Sistema de Protección Civil para garantizar, mediante la adecuada planeación, la prevención, auxilio y recuperación de la población y de su entorno ante situaciones de desastre, incorporando la participación activa y comprometida de la sociedad, tanto en lo individual como en lo colectivo;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 26 DE ENERO DE 2009)</small>
+> <small>(ADICIONADA, G.O. 20 DE DICIEMBRE DE 2010)</small>
 
-###### Artículo 7°.
+XIX.- Coordinar a las partes del Sistema de Protección Civil en la elaboración de los planes y programas básicos de atención, auxilio y apoyo al restablecimiento de la normalidad, frente a los desastres provocados por los diferentes tipos de agentes perturbadores;
 
-Corresponde a las Delegaciones, en materia de Protección Civil, las siguientes atribuciones:
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, G.O. 20 DE DICIEMBRE DE 2010)</small>
+
+XX.- Solicitar al Jefe de Gobierno la emisión de las declaratorias de emergencia o desastre, acompañando dicha solicitud con un informe técnico de la situación por la que se requiere la intervención inmediata del Sistema de Protección Civil y de los recursos del FOPREDE o del FODEM, en los términos de las reglas de operación de los mismos;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, G.O. 20 DE DICIEMBRE DE 2010)</small>
+
+XXI.- Suscribir convenios de colaboración administrativa con las partes integrantes del Sistema de Protección Civil, en materia de prevención y atención de desastres;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, G.O. 20 DE DICIEMBRE DE 2010)</small>
+
+XXII.- Instrumentar, en términos de las Reglas de Operación, el Fondo Revolvente del FODEM para la adquisición de suministros de auxilio en situaciones de emergencia y desastre;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, G.O. 20 DE DICIEMBRE DE 2010)</small>
+
+XXIII.- Determinar, en los términos de las Reglas de Operación, la adquisición de equipo especializado de transporte, comunicación, alertamiento y atención de emergencias y desastres, así como indumentaria especializada para la atención y rescate con cargo al FOPREDE;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, G.O. 20 DE DICIEMBRE DE 2010)</small>
+
+XXIV.- En el ámbito de su competencia y en coordinación con los Titulares de los órganos político-administrativos, elaborar y supervisar la permanente actualización de los Atlas de Riesgo;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, G.O. 20 DE DICIEMBRE DE 2010)</small>
+
+XXV.- Las demás que la presente Ley, así como otras disposiciones le asignen.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 20 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 7º.
+
+Corresponde a los Titulares de los órganos político administrativos, en materia de protección civil, las siguientes atribuciones:
 
 I.- Constituir un Consejo Delegacional de Protección Civil en los términos del Título Cuarto, Capítulo II de esta Ley;
 
@@ -298,9 +414,37 @@ IV.- Vigilar, verificar y, en su caso, a través de las Direcciones Generales Ju
 
 > <small>(REFORMADA, G.O. 30 DE ABRIL DE 2007)</small>
 
-V.- Recibir, evaluar, y en su caso aprobar los Programas Internos y Especiales que presenten los respectivos obligados, que no correspondan a lo especificado en las atribuciones de la Secretaría; y
+V.- Recibir, evaluar, y en su caso aprobar los Programas Internos y Especiales que presenten los respectivos obligados, que no correspondan a lo especificado en las atribuciones de la Secretaría; y (sic)
 
-VI.- Las demás que determine esta Ley y su reglamento.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, G.O. 20 DE DICIEMBRE DE 2010)</small>
+
+VI.- Solicitar al Jefe de Gobierno del Distrito Federal, en los términos que establece la presente ley, emita la declaratoria de emergencia o la declaratoria de desastre;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, G.O. 20 DE DICIEMBRE DE 2010)</small>
+
+VII.- Solicitar, en los términos de las Reglas de Operación, la adquisición de equipo especializado de transporte, comunicación, alertamiento y atención de emergencias y desastres atención de emergencias y desastres (sic), así como indumentaria especializada para la atención y rescate con cargo al FOPREDE;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, G.O. 20 DE DICIEMBRE DE 2010)</small>
+
+VIII.- Elaborar su respectivo Atlas de Riesgo Delegacional y mantenerlo actualizado;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, G.O. 20 DE DICIEMBRE DE 2010)</small>
+
+IX.- Coordinarse con la Secretaría para integrar, en el ámbito de su competencia, el Atlas de Riesgos del Distrito Federal;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, G.O. 20 DE DICIEMBRE DE 2010)</small>
+
+X.- Las demás que determine esta Ley y su Reglamento.
 
 > <small>(ADICIONADO, G.O. 10 DE ENERO DE 2005)</small>
 
@@ -534,7 +678,11 @@ VII.- Integrar comisiones y emitir recomendaciones para el cumplimiento de esta 
 
 VIII.- Con base en la información proporcionada por el Sistema de Protección Civil, proponer normas técnicas complementarias y términos de referencia en materia de protección civil;
 
-IX.- Vigilar la adecuada racionalización, uso y destino de los recursos que se asignen a la prevención, auxilio y apoyo a la población en caso de siniestro o desastre, así como establecer acciones encaminadas a la creación de un Fondo de recursos orientados al fomento de la prevención y cultura de la Protección Civil en términos del artículo 94 de esta ley;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, G.O. 20 DE DICIEMBRE DE 2010)</small>
+
+IX.- Vigilar la adecuada racionalización, uso y destino de los recursos que se asignen a la prevención, auxilio y apoyo a la población en caso de siniestro o desastre, así como establecer acciones encaminadas a la creación del FODEM, FOPREDE y FIPREDE, orientados a la atención de desastres y emergencias, acciones preventivas y la formación de una cultura de la protección civil, en términos de (sic) primer párrafo del artículo 94 de esta Ley;
 
 X.- Dar difusión pública a esta Ley, a su reglamento, a las normas técnicas complementarias y a los acuerdos y recomendaciones;
 
@@ -560,7 +708,11 @@ XVIII.- Fomentar la participación de las Demarcaciones Territoriales en el Sist
 
 XIX.- (DEROGADA, G.O. 10 DE ENERO DE 2005)
 
-XX.- Promover la creación de un Fideicomiso para administrar, de manera transparente, toda donación destinada a la protección civil del Distrito Federal;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, G.O. 20 DE DICIEMBRE DE 2010)</small>
+
+XX.- Identificar y promover el funcionamiento del instrumento financiero para administrar, de manera transparente, toda donación destinada a la protección civil del Distrito Federal;
 
 > <small>(ADICIONADA, G.O. 10 DE ENERO DE 2005)</small>
 
@@ -772,11 +924,13 @@ El cumplimiento de los programas y subprogramas será obligatorio para la Admini
 
 ### CAPÍTULO II. DE LOS PROGRAMAS DE PROTECCIÓN CIVIL
 
-> <small>(REFORMADO, G.O. 10 DE ENERO DE 2005)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, G.O. 20 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 40.
 
-El Programa General de Protección Civil del Distrito Federal deberá ser congruente con el Programa Nacional de Protección Civil y formará parte del Programa General de Desarrollo del Distrito Federal.
+El Programa General de Protección Civil del Distrito Federal deberá ser congruente con el Programa Nacional de Protección Civil y será elaborado de conformidad a lo establecido en la ley, la Ley de Planeación del Desarrollo del Distrito Federal y otras disposiciones normativas aplicables.
 
 > <small>(ADICIONADO, G.O. 10 DE ENERO DE 2005)</small>
 
@@ -1012,25 +1166,61 @@ IX. En general todo aquel material impreso, magnético o audiovisual, que tenga 
 
 ### CAPÍTULO II. DE LA OPERACIÓN Y COORDINACIÓN EN CASO DE EMERGENCIA O DESASTRE
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, G.O. 20 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 55.
 
-El Jefe de Gobierno, en los casos de emergencia o desastre, podrá solicitar una declaratoria formal de emergencia, al Titular del Ejecutivo Federal de acuerdo al procedimiento establecido en la Ley General de Protección Civil.
+El Jefe de Gobierno, en los casos de emergencia o desastre, podrá solicitar al Titular del Ejecutivo Federal, una Declaratoria de Emergencia o, una Declaratoria de Desastre, de acuerdo con el procedimiento establecido en la Ley General de Protección Civil.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, G.O. 20 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 55 Bis.
+
+El Jefe de Gobierno, en los casos de emergencia o desastre, podrá emitir una declaratoria de emergencia o, una de desastre, de acuerdo con el procedimiento establecido en esta Ley y en las Reglas de Operación del FODEM y las disposiciones normativas que de la misma emanen.
 
 ###### Artículo 56.
 
 Los planes de acción deberán privilegiar la capacitación e información de la población a efecto de propiciar la adopción de conductas ante la ocurrencia de fenómenos socio-organizativos y fomentar una actividad de corresponsabilidad.
 
-> <small>(REFORMADO, G.O. 30 DE ABRIL DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, G.O. 20 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 57.
 
-La Secretaría coordinará el monitoreo y recibirá los reportes sobre la situación que guardan los servicios vitales, los sistemas estratégicos y, en general, el Distrito Federal, durante todas las horas y días del año.
+Le competerá al Gobierno del Distrito Federal, sin perjuicio de lo que les corresponda realizar a los Órganos político administrativos, lo siguiente:
 
-> <small>(REFORMADO, G.O. 30 DE ABRIL DE 2007)</small>
+I.- Realizar acciones en situaciones de emergencia para dar atención a las necesidades prioritarias de la población, particularmente en materia de protección a la vida, salud, alimentación, servicios médicos, vestido, albergue temporal, el restablecimiento de las vías de comunicación que impliquen facilitar el movimiento de personas y bienes, incluyendo la limpieza inmediata y urgente de escombros y derrumbes en calles, caminos y accesos, así como para la reanudación del servicio eléctrico, y el abastecimiento de agua.
+
+II.- Destinar recursos del FODEM para la atención de emergencias y desastres en la realización de acciones preventivas.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, G.O. 20 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 57 Bis.
+
+Para efectos de la constitución del FIPREDE, los recursos financieros, serán asignados en un 20 por ciento del remanente no ejercido del año anterior del FODEM. Si en el año del ejercicio respectivo no quedara remanente alguno, se podrá utilizar hasta un 20 por ciento de la cantidad que del fideicomiso FODEM se hubiere constituido con los remanentes de años inmediatos al anterior. Los recursos del FIPREDE serán administrados por la Secretaría de Finanzas del Gobierno del Distrito Federal.
+
+Para efectos de la autorización de recursos del FIPREDE, la instancia facultada verificará el cumplimiento de los siguientes requisitos:
+
+a) La notificación técnica que sustente la necesidad y urgencia de la acción o acciones a realizar;
+
+b) Que las condiciones que originen la asignación de recursos, no se hayan incorporado a los programas y acciones de prevención, con cargo al presupuesto de las propias dependencias u órganos político administrativos solicitantes.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, G.O. 20 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 58.
 
-Los responsables de los servicios vitales y de los sistemas estratégicos asentados en el Distrito Federal, así como las dependencias, órganos desconcentrados y entidades de la Administración Pública del Distrito Federal, deberán proporcionar a la Secretaría la información que ésta requiera.
+La Secretaría de Protección Civil del Distrito Federal, coordinará el monitoreo y recibirá los reportes sobre la situación que guardan los servicios vitales, los sistemas estratégicos y, en general, el Distrito Federal, durante todas las horas y días del año.
+
+Los responsables de los servicios vitales y de los sistemas estratégicos asentados en el Distrito Federal, así como las dependencias, órganos desconcentrados y entidades de la Administración Pública del Distrito Federal, deberán proporcionar a la Secretaría de Protección Civil del Distrito Federal la información que requiera.
 
 ###### Artículo 59.
 
@@ -1062,11 +1252,21 @@ IX. La determinación de las acciones que deberán ejecutar las diferentes área
 
 Cuando la carencia de uno o varios de los servicios vitales o de los sistemas estratégicos, constituya por sí misma una situación de emergencia o desastre, el Jefe de Gobierno, a través de la Secretaría, podrá convocar a los responsables de la operación de éstos para coordinar las acciones necesarias para su rehabilitación o restablecimiento.
 
-> <small>(REFORMADO, G.O. 30 DE ABRIL DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, G.O. 20 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 61.
 
-Ante una emergencia o desastre que afecte a la población, sus bienes y entorno, la Secretaría, dentro de los mecanismos de implementación de acciones de mitigación, auxilio y restablecimiento, podrá solicitar al Jefe de Gobierno del Distrito Federal la tramitación de la declaratoria de emergencia o desastre correspondiente.
+Ante una emergencia o desastre que afecte a la población, sus bienes y entorno, la Secretaría de Protección Civil del Distrito Federal, dentro de los mecanismos de implementación de acciones de mitigación, auxilio y restablecimiento, por instrucciones del Jefe de Gobierno del Distrito Federal, realizará los dictámenes, estudios, informes y trámites necesarios para que el propio Titular del Ejecutivo Local solicite al Ejecutivo Federal la emisión de una declaratoria de emergencia o de desastre.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, G.O. 20 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 61 Bis.
+
+Para la emisión de la declaratoria de emergencia o desastre local, la Secretaría de Protección Civil, además de cumplir con la realización de los estudios e informes correspondientes, podrá solicitar al Jefe de Gobierno, en los términos de esta ley, la emisión de dichas declaratorias.
 
 > <small>(REFORMADO, G.O. 30 DE ABRIL DE 2007)</small>
 
@@ -1086,13 +1286,53 @@ Para la coordinación de la atención de situaciones de emergencia o desastre, l
 
 En situaciones de emergencia o desastre, la Secretaría establecerá los puestos de coordinación que se requieran preferentemente en unidades móviles equipadas con medios tecnológicos que posibiliten la ágil coordinación y toma de decisiones.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 20 DE DICIEMBRE DE 2010)</small>
+
+### CAPITULO II BIS. DE LAS DECLARATORIAS DE EMERGENCIA Y DE DESASTRE
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, G.O. 20 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 64 Bis.
+
+Ante la inminencia o alta probabilidad de que ocurra un desastre que ponga en riesgo la vida humana, el patrimonio de la población, los servicios vitales y los servicios estratégicos y cuando la actuación expedita del Sistema de Protección Civil sea esencial, el Jefe de Gobierno del Distrito Federal podrá emitir una declaratoria de emergencia, la cual se divulgará a través de los medios masivos de comunicación.
+
+Una vez emitida la declaratoria a la que se refiere el primer párrafo, la Secretaría, en términos de las Reglas de Operación, deberá erogar, con cargo al Fondo Revolvente del FODEM asignado, los montos suficientes para atenuar los efectos del posible desastre, así como para responder en forma inmediata a las necesidades urgentes generadas por el mismo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, G.O. 20 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 64 Ter.
+
+Una vez emitida la declaratoria de desastre, el Gobierno del Distrito Federal, podrá erogar, con cargo al FONDEM, los recursos necesarios para restituir las condiciones de vida de la población y la normalización de los servicios públicos, en términos de las Reglas de Operación.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, G.O. 20 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 64 Quater.
+
+Esta Ley, el Presupuesto de Egresos del Distrito Federal, así como las disposiciones administrativas en la materia regularán los medios, formalidades y demás requisitos para la emisión de las declaratorias de emergencia y de desastre, y para acceder y hacer uso de los recursos financieros tendientes a la prevención y atención de desastres, atendiendo a la urgencia provocada por la presencia del agente perturbador.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, G.O. 20 DE DICIEMBRE DE 2010)</small>
+
+Artículo 64 Quintus.- Las declaratorias previstas en este capítulo, deberán ser publicadas en la Gaceta Oficial del Distrito Federal, sin perjuicio de que se difundan a través de otros medios de información. La declaratoria de emergencia podrá publicarse en dicho órgano de difusión con posterioridad a su emisión, sin que ello afecte su validez y efectos.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, G.O. 20 DE DICIEMBRE DE 2010)</small>
+
+Artículo 64 Sextus.- En caso de falta temporal del Jefe de Gobierno, el Secretario de Gobierno en funciones asumirá las atribuciones que el presente capítulo otorga al Titular del Ejecutivo del Distrito Federal para la emisión de las declaratorias de emergencia y desastre.
+
 ### CAPÍTULO III. DE LA OPERACIÓN DE LA PROTECCIÓN CIVIL EN LAS DELEGACIONES
 
 > <small>(REFORMADO, G.O. 30 DE ABRIL DE 2007)</small>
-
-### CAPÍTULO IV. DE LAS UNIDADES DE PROTECCIÓN CIVIL DELEGACIONALES
-
-> <small>(REFORMADO, G.O. 8 DE NOVIEMBRE DE 2007)</small>
 
 ###### Artículo 65.
 
@@ -1116,7 +1356,9 @@ Toda solicitud de apoyo ante un área central de la Administración Pública del
 
 Las dependencias, órganos desconcentrados y entidades estarán obligados a coadyuvar en las acciones que comprendan las diversas fases de la protección civil, atendiendo los lineamientos de la Secretaría.
 
-### CAPITULO V. DEL USO DEL SÍMBOLO DE PROTECCIÓN CIVIL
+### CAPÍTULO IV. DE LAS UNIDADES DE PROTECCIÓN CIVIL DELEGACIONALES
+
+> <small>(REFORMADO, G.O. 8 DE NOVIEMBRE DE 2007)</small>
 
 ###### Artículo 69.
 
@@ -1164,7 +1406,7 @@ IV.- Establecer los planes y programas básicos de atención, auxilio y apoyo al
 
 V.- Las demás que la presente ley, así como otras disposiciones le asignen.
 
-### CAPÍTULO I. DE LA CULTURA DE PROTECCIÓN CIVIL
+### CAPITULO V. DEL USO DEL SÍMBOLO DE PROTECCIÓN CIVIL
 
 ###### Artículo 74.
 
@@ -1188,9 +1430,7 @@ La Administración Pública del Distrito Federal, a través de la Secretaría, t
 
 > <small>(REFORMADA SU DENOMINACION, G.O. 10 DE ENERO DE 2005)</small>
 
-### CAPÍTULO II. DE LA CAPACITACIÓN DE PROTECCIÓN CIVIL
-
-> <small>(REFORMADO, G.O. 30 DE ABRIL DE 2007)</small>
+### CAPÍTULO I. DE LA CULTURA DE PROTECCIÓN CIVIL
 
 ###### Artículo 77.
 
@@ -1224,7 +1464,7 @@ La Secretaría, con la intervención que corresponda de los sectores público, s
 
 > <small>(REFORMADA SU DENOMINACION, G.O. 10 DE ENERO DE 2005)</small>
 
-### CAPÍTULO I. DEL REGISTRO DE LAS ORGANIZACIONES CIVILES
+### CAPÍTULO II. DE LA CAPACITACIÓN DE PROTECCIÓN CIVIL
 
 > <small>(REFORMADO, G.O. 30 DE ABRIL DE 2007)</small>
 
@@ -1238,9 +1478,9 @@ Asimismo, esta instancia emitirá publicaciones técnicas sobre análisis y prev
 
 ## TÍTULO OCTAVO. DEL REGISTRO DE LAS ORGANIZACIONES CIVILES, TERCEROS ACREDITADOS Y EMPRESAS CAPACITADORAS, DE CONSULTORÍA Y ESTUDIOS RIESGO VULNERABILIDAD
 
-### CAPÍTULO II. DEL REGISTRO Y AUTORIZACIÓN DE TERCEROS ACREDITADOS Y EMPRESAS CAPACITADORAS, DE CONSULTORÍA Y ESTUDIOS RIESGO VULNERABILIDAD
+### CAPÍTULO I. DEL REGISTRO DE LAS ORGANIZACIONES CIVILES
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE ABRIL DE 2007)</small>
+> <small>(REFORMADO, G.O. 30 DE ABRIL DE 2007)</small>
 
 ###### Artículo 81.
 
@@ -1262,7 +1502,9 @@ Las Asociaciones y Colegios de Profesionales, podrán capacitar a sus integrante
 
 > <small>(REFORMADA SU DENOMINACION, G.O. 10 DE ENERO DE 2005)</small>
 
-### CAPÍTULO I. DE LOS FENÓMENOS DE MAYOR RECURRENCIA EN LA CIUDAD DE MÉXICO
+### CAPÍTULO II. DEL REGISTRO Y AUTORIZACIÓN DE TERCEROS ACREDITADOS Y EMPRESAS CAPACITADORAS, DE CONSULTORÍA Y ESTUDIOS RIESGO VULNERABILIDAD
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE ABRIL DE 2007)</small>
 
 ###### Artículo 83.
 
@@ -1290,9 +1532,7 @@ Las empresas que prestan servicios de mantenimiento y recarga de extintores, deb
 
 ## TÍTULO NOVENO. DE LOS FENÓMENOS DE MAYOR RECURRENCIA EN LA CIUDAD DE MÉXICO
 
-### CAPÍTULO II. DE LOS ESTUDIOS DE RIESGO
-
-> <small>(REFORMADO, G.O. 30 DE ABRIL DE 2007)</small>
+### CAPÍTULO I. DE LOS FENÓMENOS DE MAYOR RECURRENCIA EN LA CIUDAD DE MÉXICO
 
 ###### Artículo 86.
 
@@ -1312,7 +1552,9 @@ El Gobierno del Distrito Federal, a través de las Unidades de Protección Civil
 
 El Gobierno del Distrito Federal impulsará la creación de una base de datos computarizada, a fin de que se lleve el registro estadístico de las calamidades por incendios, la ubicación, conformación y estado que guarden las instalaciones, redes y ductos de gas, las instalaciones y complejos industriales, las redes de distribución y venta de combustibles y lubricantes, para prevenir y actuar de manera coordinada, tanto en el ámbito urbano como en el rural.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO II. DE LOS ESTUDIOS DE RIESGO
+
+> <small>(REFORMADO, G.O. 30 DE ABRIL DE 2007)</small>
 
 ###### Artículo 90.
 
@@ -1326,9 +1568,7 @@ Los requisitos para obtener la opinión técnica a que se refiere el artículo a
 
 ## TÍTULO DÉCIMO. DEL FINANCIAMIENTO DE LA PROTECCIÓN CIVIL
 
-### CAPÍTULO I. DE LA VIGILANCIA
-
-> <small>(REFORMADO, G.O. 30 DE ABRIL DE 2007)</small>
+### CAPÍTULO ÚNICO
 
 ###### Artículo 92.
 
@@ -1338,23 +1578,29 @@ Las erogaciones correspondientes al financiamiento del Sistema de Protección Ci
 
 La Administración Pública del Distrito Federal, podrá recibir donaciones para fortalecer una cultura en materia de protección civil en la población, así como para la mitigación, auxilio, restablecimiento, rehabilitación y reconstrucción en caso de emergencia, siniestro o desastre.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, G.O. 20 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 94.
 
-Es tarea del Gobierno del Distrito Federal Impulsar en los procesos de planeación y presupuestación que operan en el Distrito Federal, destinados a la creación de un Fondo de Apoyo Económico que permita el desarrollo de los programas y el cumplimiento de los objetivos del Sistema de Protección Civil, especialmente en aquellos enfocados a la prevención, generación y consolidación de la cultura de protección civil. Dicho fondo podrá recibir aportaciones voluntarias y obligatorias por derechos de registro de Organizaciones no Gubernamentales.
+Corresponde al Gobierno del Distrito Federal proponer en los procesos de planeación y presupuestación que operan en el Distrito Federal, recursos destinados a la creación del FODEM, del FOPREDE y del FIPREDE, que permitan el desarrollo de los programas y el cumplimiento de los objetivos del sistema de Protección Civil.
+
+El Gobierno del Distrito Federal operará el instrumento financiero, que reciba aportaciones voluntarias y obligatorias por derechos de registro de Organizaciones no Gubernamentales.
 
 > <small>(REFORMADO [N. DE E. ANTES TITULO DUODECIMO], G.O. 23 DE ENERO DE 2003)</small>
 
 ## TÍTULO UNDÉCIMO. DE LA VIGILANCIA, MEDIDAS DE SEGURIDAD, SANCIONES Y RECURSOS
 
-### CAPÍTULO II. MEDIDAS DE SEGURIDAD
+### CAPÍTULO I. DE LA VIGILANCIA
+
+> <small>(REFORMADO, G.O. 30 DE ABRIL DE 2007)</small>
 
 ###### Artículo 95.
 
 La Administración Pública del Distrito Federal, a través de la Secretaría y las Delegaciones, ejercerán, conforme a sus respectivas competencias, la vigilancia de las disposiciones de esta Ley.
 
-### CAPÍTULO III. SANCIONES ADMINISTRATIVAS
-
-> <small>(REFORMADO, G.O. 30 DE ABRIL DE 2007)</small>
+### CAPÍTULO II. MEDIDAS DE SEGURIDAD
 
 ###### Artículo 96.
 
@@ -1388,11 +1634,9 @@ Asimismo, podrán promover la ejecución de las medidas de seguridad ante la aut
 
 Las Delegaciones y la Secretaría, con base en los resultados de la visita de verificación, realizada conforme a las disposiciones de la Ley de Procedimiento Administrativo del Distrito Federal y su Reglamento de Verificación Administrativa, podrán dictar medidas de seguridad en cumplimiento a la normatividad, para corregir las irregularidades que se hubiesen encontrado, notificándolas al interesado y otorgándole un plazo que no podrá exceder de cuarenta y cinco días naturales para su realización. Dichas medidas tendrán la duración estrictamente necesaria para la corrección de las irregularidades respectivas.
 
-### CAPÍTULO IV. RECURSO DE INCONFORMIDAD
+### CAPÍTULO III. SANCIONES ADMINISTRATIVAS
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, G.O. 26 DE ENERO DE 2009)</small>
+> <small>(REFORMADO, G.O. 30 DE ABRIL DE 2007)</small>
 
 ###### Artículo 98.
 
@@ -1461,6 +1705,12 @@ A las Organizaciones Civiles y Terceros Acreditados que proporcionen informació
 ###### Artículo 105.
 
 Para la imposición de las sanciones a que se refiere este ordenamiento, que lleven a cabo la Secretaría y las Delegaciones, se estará a lo dispuesto en la Ley de Procedimiento Administrativo del Distrito Federal.
+
+### CAPÍTULO IV. RECURSO DE INCONFORMIDAD
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, G.O. 26 DE ENERO DE 2009)</small>
 
 ###### Artículo 106.
 
@@ -1549,3 +1799,17 @@ El uso del suelo que se deberá acreditar es el correspondiente al giro mercanti
 CUARTO. Los titulares de los establecimientos mercantiles que actualmente operen como cine sin venta de bebidas alcohólicas podrán realizar la venta de bebidas alcohólicas, de conformidad con la licencia con la que venían operando. Igualmente, a aquellos que operaban con licencia tipo B les será sustituida por la Licencia Ordinaria, en el momento que lo soliciten o en su caso al llevar a cabo la revalidación de la misma.
 
 ...
+
+G.O. 20 DE DICIEMBRE DE 2010.
+
+PRIMERO.- El presente decreto entrará en vigor el 1 de enero de 2011.
+
+SEGUNDO.- El Gobierno del Distrito Federal publicará el Programa General de Protección Civil del Distrito Federal en un plazo no mayor a 60 días posteriores a la publicación del presente decreto.
+
+TERCERO.- El Gobierno del Distrito Federal expedirá las Reglas de Operación y Lineamientos a que hace referencia el presente decreto sin que la publicación exceda el 1 de enero de 2011.
+
+CUARTO.- A partir del ejercicio fiscal 2011, el Presupuesto de Egresos del Distrito Federal contemplará los recursos necesarios para la operación del Fondo de Desastres y del Fondo Preventivo de Desastres Naturales.
+
+QUINTO.- El Presupuesto de Egresos del Distrito Federal contemplará para el ejercicio fiscal 2011, por única ocasión, los recursos necesarios para la creación y operación del Fideicomiso Preventivo de Desastres.
+
+SEXTO.- Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
