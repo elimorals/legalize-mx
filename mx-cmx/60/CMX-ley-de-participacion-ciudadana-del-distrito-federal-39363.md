@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-participacion-ciudadana-del-distrito-federal-39363"
 country: "mx"
 rank: "ley"
 publication_date: "2004-05-17"
-last_updated: "2010-11-30"
+last_updated: "2010-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39363&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2004-05-14"
 
 LEY DE PARTICIPACION CIUDADANA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 30 DE NOVIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 20 DE DICIEMBRE DE 2010.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 17 de mayo de 2004.
 
@@ -1220,17 +1220,13 @@ El Gobierno del Distrito Federal y las demarcaciones territoriales otorgarán la
 
 El Comité Ciudadano es el órgano de representación ciudadana de la colonia.
 
-> <small>(REFORMADO, G.O. 27 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, G.O. 20 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 92.
 
 En cada colonia se elegirá un Comité Ciudadano conformado por nueve integrantes, salvo lo dispuesto en el inciso h) del párrafo segundo del artículo 112 de esta Ley.
 
-Para efectos de la máxima homologación en cuanto a la representación, el Instituto Electoral procederá a dividir las colonias que rebasen tres mil ciudadanos, procurando conservar en esa división la identidad cultural de los habitantes, factores históricos el trazo de las vialidades y de la infraestructura urbana, con la finalidad de facilitar la identificación de la subdivisión por parte de los ciudadanos.
-
-Dicha subdivisión será difundida a la comunidad por medio de una campaña de información realizada y en su caso supervisada por el Instituto Electoral del Distrito Federal.
-
-En el caso de los consejos de pueblos, el ámbito territorial para la elección será el que corresponda al pueblo originario enlistados en el Transitorio Décimo Tercero.
+En el caso de los consejos de los pueblos, el ámbito territorial para la elección será el que corresponda al pueblo originario enlistado en el Transitorio Décimo Tercero.
 
 La representación será honorífica y el tiempo de duración de los cargos del Comité Ciudadano será de tres años, sin posibilidad de reelección.
 
@@ -3961,3 +3957,11 @@ TLALPAN
 Se entiende que no son todos los pueblos originarios del Distrito Federal, sólo se enlistan los que guardan la característica descrita en la fracción VI del artículo 6 de la presente Ley.
 
 ...
+
+G.O. 20 DE DICIEMBRE DE 2010.
+
+PRIMERO.- Remítase al Jefe de Gobierno del Distrito Federal, para su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal, desechándose los procedimientos contrarios a este ordenamiento.
+
+TERCERO.- Se derogan todas las disposiciones contrarias a este Decreto.
