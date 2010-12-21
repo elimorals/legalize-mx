@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-los-derechos-de-las-ninas-y-ninos-en-el-estado-de-21996"
 country: "mx"
 rank: "ley"
 publication_date: "2001-06-05"
-last_updated: "2009-07-07"
+last_updated: "2010-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21996&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS Y NIÑOS EN EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JULIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 5 de junio del 2001.
 
@@ -242,6 +242,14 @@ Cuando se suscite un conflicto respecto de los derechos consignados en esta Ley,
 ###### ARTICULO 7º.
 
 Las autoridades competentes están obligadas a otorgar y garantizar, de la mejor forma posible, los servicios de defensa y representación jurídica para preservar los intereses de las niñas y niños, mismos que deberán ser gratuitos, a través del Sistema DIF Tamaulipas, la Defensoría de Oficio, la Procuraduría de la Defensa del Menor, la Mujer y la Familia y las demás dependencias o entidades, estatales o municipales, creadas para este fin.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
+Las instituciones públicas estatales implementarán en forma coordinada con la Federación y los municipios, en el ámbito de sus respectivas atribuciones, los programas, mecanismos y protocolos de seguridad que tengan por objeto la búsqueda inmediata de menores de edad desaparecidos, para lo cual implementarán las acciones que se requieran a fin de facilitar su localización.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
+Asimismo, en el ámbito de su competencia, vigilarán el cumplimiento de la normatividad prevista e implementarán los mecanismos necesarios para que los centros públicos, privados y los sociales que atienden a niñas, niños y adolescentes, cumplan los requerimientos mínimos de infraestructura, recursos y funcionamiento necesarios que garanticen su salud física y mental.
 
 ## TITULO TERCERO. DE LAS OBLIGACIONES DE LA FAMILIA
 
@@ -888,3 +896,9 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 21 DE DICIEMBRE DE 2010.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
