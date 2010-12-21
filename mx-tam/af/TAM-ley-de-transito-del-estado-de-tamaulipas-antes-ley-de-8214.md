@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-transito-del-estado-de-tamaulipas-antes-ley-de-8214"
 country: "mx"
 rank: "ley"
 publication_date: "1987-11-30"
-last_updated: "2010-12-16"
+last_updated: "2010-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8214&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY DE TRANSITO Y TRANSPORTE DEL ESTADO DE TAMAULIPAS
 
 > <small>[N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE TRÁNSITO Y TRANSPORTE DEL ESTADO DE TAMAULIPAS, SE DEROGA LO REFERENTE A TRANSPORTE PÚBLICO, PUBLICADO EN EL P.O. DEL 12 DE FEBRERO DE 2002]</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el lunes 30 de noviembre de 1987.
 
@@ -328,6 +328,40 @@ Los vehículos automotores que no reúnan los requisitos para su uso, serán ret
 ###### ARTICULO 25.
 
 Previo estudio que se realice, los Ayuntamientos determinarán las condiciones y forma en que deben ser estacionados los vehículos automotores en la vía pública, considerando el interés social, el orden y la armónica convivencia, privilegiando los espacios para discapacitados.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
+Los lugares con estacionamiento disponible para el público, que cuenten con más de cinco cajones incluido el espacio que reserven para conductores discapacitados, deberán destinar por lo menos uno para mujeres en estado de embarazo.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
+Para ocupar el cajón correspondiente, las mujeres embarazadas, deberán mostrar en su vehículo el permiso especial, que para tal efecto les conceda la autoridad competente.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
+###### ARTICULO 25 Bis.
+
+El permiso que refiere el artículo anterior, deberá ajustarse a lo siguiente:
+
+I. El permiso le permitirá estacionarse en los lugares reservados para las mujeres embarazadas.
+
+II. El permiso será expedido por el Estado a través de los Sistemas para el Desarrollo Integral de la Familia de los Municipios, una vez que se acredite plenamente el estado de embarazo, de quien acude a solicitarlo;
+
+III. Se acreditará el estado de embarazo mediante la constancia de gravidez oficial correspondiente.
+
+IV. El permiso tendrá vigencia hasta que la solicitante haya dado a luz.
+
+V. El permiso se expedirá en forma gratuita.
+
+VI. Este permiso solo será válido siempre y cuando el vehículo sea conducido por la titular o esta se traslade a bordo del mismo;
+
+VII. El diseño del permiso queda sujeto a lo que dispongan los Sistemas para el Desarrollo Integral de la Familia de los Municipios, debiendo llevar siempre el sello y folio oficiales que permitan distinguir su autenticidad;
+
+VIII. El permiso será único e intransferible;
+
+IX. En caso de extravío del permiso durante el embarazo, la mujer deberá reportarlo a las oficinas del Sistema para el Desarrollo Integral de la Familia del Municipio que lo expidió, para que sea de su conocimiento y le puedan restituir el mismo; y
+
+X. En el supuesto de que el producto no se logre, deberá notificarse de este hecho al Sistema para el Desarrollo Integral de la Familia del Municipio que le compete, para los efectos administrativos correspondientes.
 
 ###### ARTICULO 26.
 
@@ -680,6 +714,12 @@ Lo previsto en el último párrafo del artículo 21 de la Ley de Tránsito y Tra
 La dependencia estatal correspondiente y los Ayuntamientos de la entidad preveerán (sic) los mecanismos de comunicación que favorezcan el adecuado cumplimiento de las previsiones de esta ley. Asimismo, intercambiarán la información que se requiera en dicho propósito.
 
 P.O. 16 DE DICIEMBRE DE 2010.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE DICIEMBRE DE 2010.
 
 ###### ARTICULO UNICO.
 
