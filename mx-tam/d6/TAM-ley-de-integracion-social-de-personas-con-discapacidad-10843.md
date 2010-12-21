@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-integracion-social-de-personas-con-discapacidad-10843"
 country: "mx"
 rank: "ley"
 publication_date: "1997-02-19"
-last_updated: "2010-11-02"
+last_updated: "2010-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10843&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE INTEGRACION SOCIAL DE PERSONAS CON DISCAPACIDAD
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE NOVIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 19 de febrero de 1997.
 
@@ -277,11 +277,17 @@ VI.- Difundir la Ley de Integración Social de Personas con Discapacidad en Tama
 
 VII.- Promover la adopción de compromisos para la prevención y atención de la discapacidad por parte de los miembros que forman el Consejo, y dar seguimiento y evaluación a los avances de su cumplimiento, conforme a la función o actividad que desarrollen los responsables;
 
-> <small>(REFORMADA, P.O. 7 DE ENERO DE 2004)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
-VIII.- Celebrar foros de consulta en materia de discapacidad; y
+VIII.- Celebrar foros de consulta en materia de discapacidad;
 
-IX.- Las demás que le señale esta Ley y otras disposiciones legales.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE DICIEMBRE DE 2010)</small>
+
+IX.- Determinar un programa de becas orientado al fomento de actividades educativas, culturales, deportivas, artísticas, tecnológicas que faciliten la integración social de las personas con discapacidad; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 21 DE DICIEMBRE DE 2010)</small>
+
+X.- Las demás que le señale esta Ley y otras disposiciones legales.
 
 > <small>(ADICIONADO, P.O. 7 DE ENERO DE 2004)</small>
 
@@ -926,6 +932,12 @@ P.O. 23 DE DICIEMBRE DE 2008.
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 P.O. 2 DE NOVIEMBRE DE 2010.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE DICIEMBRE DE 2010.
 
 ###### ARTICULO UNICO.
 
