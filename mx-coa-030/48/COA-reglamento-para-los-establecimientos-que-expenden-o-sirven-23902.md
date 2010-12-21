@@ -4,7 +4,7 @@ identifier: "COA-reglamento-para-los-establecimientos-que-expenden-o-sirven-2390
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-02-19"
-last_updated: "2002-02-19"
+last_updated: "2010-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23902&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 REGLAMENTO PARA LOS ESTABLECIMIENTOS QUE EXPENDEN O SIRVEN BEBIDAS ALCOHÓLICAS EN EL MUNICIPIO DE SALTILLO, COAHUILA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2010.
 
 Reglamento publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 19 de febrero de 2002.
 
@@ -83,7 +83,7 @@ El presente Reglamento es de interés público y de observancia obligatoria en e
 
 ###### ARTICULO 2.
 
-En los términos del articulo 182, fracción III, incisos 35, 36, 37 y 38 del Código Municipal, este Reglamento regula el funcionamiento de los establecimientos donde se expenden o sirven en cualquier modalidad bebidas alcohólicas.
+En los términos del artículo 182, fracción III, incisos 35, 36, 37 y 38 del Código Municipal, este Reglamento regula el funcionamiento de los establecimientos donde se expenden o sirven en cualquier modalidad bebidas alcohólicas.
 
 Se entiende por bebidas alcohólicas, aquellas que determina la Ley General de Salud, con la clasificación que la misma señala.
 
@@ -97,7 +97,7 @@ II.- Dirección de Servicios Concesionados; y
 
 III.- Subdirección de Alcoholes.
 
-El Reglamento Interior del Municipio de Saltillo, este Reglamento y las disposiciones que en ejercicio de sus facultades expida el Ayuntamiento o el Presidente Municipal, determinarán las atribuciones específicas de las autoridades antes señaladas y la forma de delegarlas. Las autoridades a que se refiere este articulo podrán auxiliarse de otras dependencias municipales para el cumplimiento de sus atribuciones.
+El Reglamento Interior del Municipio de Saltillo, este Reglamento y las disposiciones que en ejercicio de sus facultades expida el Ayuntamiento o el Presidente Municipal, determinarán las atribuciones específicas de las autoridades antes señaladas y la forma de delegarlas. Las autoridades a que se refiere este artículo podrán auxiliarse de otras dependencias municipales para el cumplimiento de sus atribuciones.
 
 ###### ARTÍCULO 4.
 
@@ -239,7 +239,7 @@ I.- En los establecimientos que cuenten con licencias para Clubes Social o Depor
 
 II.- En los establecimientos que cuenten con licencias para Estadios o similares se podrá expender durante el desarrollo del evento y en los horarios autorizados en el artículo anterior;
 
-III.- De las 0:00 a las 03:00 horas en los casos que señalan las fracciones I, IV, y V del articulo anterior y de las 0:00 a las 05:00 horas en el supuesto señalado en la fracción VI del citado articulo; y
+III.- De las 0:00 a las 03:00 horas en los casos que señalan las fracciones I, IV, y V del artículo anterior y de las 0:00 a las 05:00 horas en el supuesto señalado en la fracción VI del citado artículo; y
 
 IV.- En el mes de diciembre y enero con motivo de las fiestas navideñas y el inicio de un nuevo año el Ayuntamiento con el voto calificado de sus integrantes podrá autorizar la apertura de algunos de los giros que señala este Reglamento.
 
@@ -251,7 +251,7 @@ I.- A una distancia no menor a 150 m. perimetrales de centros educativos, hospit
 
 II.- A una distancia no menor a 250 m. a la redonda de establecimientos con licencias de Bar y Cantina, Expendios, Depósitos, Agencias Sub Agencias, Mayoristas y Vinotecas, quedando exentos de esta disposición los establecimientos del sector referente a la Zona de Tolerancia.
 
-Los establecimientos señalados en las fracciones I, II, VII, XII. XIII, XV, XVI, XVII y XIX del articulo 6° del presente Reglamento, estarán exentos de observar las distancias especificadas en este articulo.
+Los establecimientos señalados en las fracciones I, II, VII, XII. XIII, XV, XVI, XVII y XIX del artículo 6° del presente Reglamento, estarán exentos de observar las distancias especificadas en este artículo.
 
 ###### ARTÍCULO 13.
 
@@ -353,37 +353,67 @@ Las solicitudes serán resueltas por escrito en un término de treinta días há
 
 La autoridad que expida las licencias para la comercialización de las bebidas a que se refiere este Reglamento, deberá vigilar que no se contravengan los principios que señala el artículo 4 de este ordenamiento.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 25.
 
 Para obtener licencia en cualquiera de las modalidades que señala este ordenamiento se requiere:
 
-I.- Presentar solicitud en los formatos que al efecto elabore la Dirección de Servicios Concesionados en los que se deberá señalar:
+I. Presentar solicitud en los formatos que al efecto elabore la Dirección de Servicios Concesionados en los que se deberá señalar:
 
-a) Nombre y domicilio de la persona jurídica que hace el pedimento y de la persona física que será responsable de su funcionamiento.
+a) Nombre, firma y domicilio de la persona jurídica que hace el pedimento y de la persona física que será responsable de su funcionamiento; y
 
-b) Nombre del negocio, que no deberá contener términos lesivos a la moral y a las buenas costumbres.
+b) Nombre del negocio, que no deberá contener términos lesivos a la moral y a las buenas costumbres;
 
-II.- Acompañar a la solicitud los siguiente documentos:
+II. Acompañar a la solicitud los siguiente (sic) documentos:
 
 a) Autorizaciones para el uso del suelo y plano autorizado por la Dirección de Desarrollo Urbano, en el que se precisen las características físicas del inmueble y se garantice la seguridad de la estructura.
 
-b) Aprobación de la Coordinación de Prevención y Control de Siniestros Municipal de las condiciones de seguridad del inmueble y las áreas vecinas.
+b) Aprobación de la Jefatura de la Unidad Municipal de Protección Civil de las condiciones de seguridad del inmueble y las áreas vecinas.
 
-c) Autorizaciones sanitarias que expidan dependencias de esta materia, así como aquellas que por su ubicación o características requieran de permisos de autoridades que regulen el desarrollo urbano o el patrimonio histórico.
+c) Autorizaciones sanitarias que expidan dependencias de esta materia, así como aquéllas que por su ubicación o características requieran de permisos de autoridades que regulen el desarrollo urbano o el patrimonio histórico.
 
-III.- Opinión favorable de la oficina del centro histórico y de la junta de mejoras correspondiente cuando el establecimiento se pretende instalar en esta área de la ciudad o de la primera tratándose de un edificio con valor arquitectónico e histórico independientemente de su ubicación;
+d) 3 cartas de referencias personales en original con datos, teléfono y copia de identificación oficial con fotografía de la persona que resida en Saltillo, Coahuila o su zona conurbada.
 
-IV.- Opinión mayoritaria favorable de vecinos que residan en un radio de 250 m, contados a partir del perímetro del establecimiento; y
+e) 3 cartas de referencias comerciales original con datos, teléfono y copia de identificación oficial con fotografía de la persona que firma y/o del representante legal en caso de persona moral que resida en Saltillo, Coahuila o su zona conurbada.
 
-V.- Cumplir con el pago de los derechos que señale la Ley de Ingresos y estar al corriente en el resto de sus obligaciones fiscales municipales.
+f) 2 fotografías tamaño credencial del propietario y del comodatario
+
+g) Carta de No antecedentes penales del solicitante que no renga más de sesenta días su expedición por la autoridad competente en el Estado de Coahuila. En caso de haber sido condenado el solicitante por delito grave le será negada la licencia.
+
+h) En caso de persona moral presentar copia del acta constitutiva, copia de la carta poder notariada del representante legal así como copia de su identificación con fotografía.
+
+i) Presentar documento que acredite la propiedad del inmueble ó presentar contrato de arrendamiento del local donde se pretende activar la licencia.
+
+j) Comprobante de domicilio del establecimiento.
+
+k) Comprobante de domicilio del solicitante que resida en Saltillo, Coahuila o su zona conurbada.
+
+l) Copia de identificación oficial con fotografía del solicitante.
+
+m) Copia de la licencia por asignar, salvo los de nueva creación.
+
+n) Croquis de ubicación del establecimiento en donde se determinen las distintas distancias en cumplimento con lo establecido en el artículo 12 de este ordenamiento.
+
+o) En el caso de establecimientos de Abarrotes, Abarrotes 1 y Mini súper, se tendrá que presentar inventario en cumplimiento con lo dispuesto por el artículo 6 de este ordenamiento.
+
+p) Carta compromiso del solicitante.
+
+q) Documento que acredite el consentimiento mayoritario firmado por los vecinos que residan dentro de un rango no mayor a 250 metros del establecimiento, en caso de que por la ubicación del establecimiento no se cuente con vecinos se deberá acompañar certificación de tal hecho por parte de la Subdirección de Alcoholes.
+
+r) Opinión favorable de la oficina del centro histórico y de la junta de mejoras correspondiente, cuando el establecimiento se pretende instalar en esta área de la ciudad o de la primera, tratándose de un edificio con valor arquitectónico e histórico, independientemente de su ubicación;
+
+III. Visto bueno por parte de la Subdirección de alcoholes municipales de la documentación presentada por el solicitante.
+
+IV. Cumplir el solicitante con el pago de los derechos que señale la Ley de Ingresos y estar al corriente en el resto de sus obligaciones fiscales municipales.
 
 ###### ARTÍCULO 26.
 
 La autoridad tiene la obligación, antes de expedir cualquier documento de verificar el cumplimento estricto de los requisitos, no hacerlo acarrea responsabilidad para el servidor público. El superior o cualquier otro funcionario que tenga conocimiento del hecho deberá informarlo al Órgano del Control Interno Municipal.
 
-Para autorizar el cambio del domicilio que amparan las licencias, operarán las reglas del articulo anterior, así como las contenidas en el artículo 12.
+Para autorizar el cambio del domicilio que amparan las licencias, operarán las reglas del artículo anterior, así como las contenidas en el artículo 12.
 
-El titular de la licencia deberá renovar, por lo menos cada dos años, los permisos señalados en los inciso b) y c) de la fracción II del artículo anterior.
+El titular de la licencia deberá renovar, por lo menos cada dos años, los permisos señalados en los inciso (sic) b) y c) de la fracción II del artículo anterior.
 
 La autoridad tendrá un plazo improrrogable de treinta días hábiles para resolver las solicitudes a que se refieren los párrafos anteriores.
 
@@ -511,7 +541,7 @@ a) Ingieran bebidas alcohólicas en vehículos durante su trayecto.
 
 b) Adquiera bebidas alcohólicas en establecimientos o en horarios no autorizados.
 
-Las sanciones a que se refiere este articulo podrán imponerse conjunta o separadamente sin que en ningún caso exceda la multa del monto equivalente a mil quinientos días de salario mínimo.
+Las sanciones a que se refiere este artículo podrán imponerse conjunta o separadamente sin que en ningún caso exceda la multa del monto equivalente a mil quinientos días de salario mínimo.
 
 ###### ARTÍCULO 34.
 
@@ -535,11 +565,11 @@ IV.- Circunstancias económicas, sociales y antecedentes del infractor.
 
 ###### ARTÍCULO 37.
 
-Cuando el infractor disfrute por arrendamiento o cualquier otro titulo de una licencia propiedad de otra persona física o jurídica, la autoridad atendiendo a las circunstancias señaladas en el artículo anterior dará aviso por escrito al titular de la licencia para que subsane las anomalías encontradas, apercibido de que en caso de no hacerlo dentro del plazo que al efecto se señale, las sanciones que representen suspensión o cancelación también tendrán efecto sobre la referida licencia.
+Cuando el infractor disfrute por arrendamiento o cualquier otro título de una licencia propiedad de otra persona física o jurídica, la autoridad atendiendo a las circunstancias señaladas en el artículo anterior dará aviso por escrito al titular de la licencia para que subsane las anomalías encontradas, apercibido de que en caso de no hacerlo dentro del plazo que al efecto se señale, las sanciones que representen suspensión o cancelación también tendrán efecto sobre la referida licencia.
 
 ###### ARTÍCULO 38.
 
-No se aplicará la sanción señalada en el inciso a) de la fracción I, del articulo 33 de este ordenamiento, cuando el dueño o encargado del establecimiento dé aviso oportuno a la autoridad correspondiente de las irregularidades que se presenten.
+No se aplicará la sanción señalada en el inciso a) de la fracción I, del artículo 33 de este ordenamiento, cuando el dueño o encargado del establecimiento dé aviso oportuno a la autoridad correspondiente de las irregularidades que se presenten.
 
 ###### ARTÍCULO 39.
 
@@ -598,3 +628,11 @@ ATENTAMENTE
 RUBEN IGNACIO MOREIRA VALDEZ
 
 Secretario del R. Ayuntamiento
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 21 DE DICIEMBRE DE 2010.
+
+PRIMERO. La presente reforma entrará en vigor al día siguiente al de su publicación en la Gaceta Municipal, independientemente de que se haga lo propio en el Periódico Oficial del Estado.
+
+SEGUNDO. Túrnese a la Secretaría del Ayuntamiento para los efectos legales a los que haya lugar.
