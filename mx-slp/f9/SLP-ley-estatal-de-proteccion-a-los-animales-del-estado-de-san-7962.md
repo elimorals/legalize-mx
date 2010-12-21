@@ -4,7 +4,7 @@ identifier: "SLP-ley-estatal-de-proteccion-a-los-animales-del-estado-de-san-7962
 country: "mx"
 rank: "ley"
 publication_date: "1995-03-17"
-last_updated: "2009-03-07"
+last_updated: "2010-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7962&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ESTATAL DE PROTECCION A LOS ANIMALES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE MARZO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 2010.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el viernes 17 de marzo de 1995.
 
@@ -51,11 +51,11 @@ La presente ley es de interés público y observancia general, y tiene por objet
 
 I. Proteger la vida y el crecimiento de los animales;
 
-II. Favorecer el respeto y buen trato de los animales;
+II. Favorecer el respeto y buen trato a los animales;
 
 III. Erradicar y sancionar los actos de crueldad con los animales, y
 
-IV. Promover actives responsables y humanitarias hacia los animales.
+IV. Promover actitudes responsables y humanitarias hacia los animales.
 
 > <small>(REFORMADO, P.O. 8 DE JULIO DE 2006)</small>
 
@@ -549,9 +549,11 @@ VI.- Elaborar con fines educativos y turísticos una carta geográfica ilustrada
 
 VII.- Proponer ante las Dependencias correspondientes de la administración pública federal, el establecimiento de medidas de regulación sobre la importación o exportación de animales silvestres con fines de preservación y aprovechamiento.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 70.
 
-Los Presidentes Municipales en el ámbito de su competencia, aplicarán las disposiciones de esta Ley y tendrán las siguientes obligaciones y facultades:
+Los ayuntamientos, en el ámbito de su competencia, aplicarán las disposiciones de esta Ley y tendrán las siguientes obligaciones y facultades:
 
 I.- Colaborar con el Estado y la Federación para integrar el inventario de la fauna silvestre que corresponda a su jurisdicción municipal;
 
@@ -583,9 +585,13 @@ XI.- Cooperar con la Secretaría de Desarrollo Agropecuario y Recursos Hidráuli
 
 XII.- Difundir por todos los medios posibles, en coordinación con otras dependencias, las disposiciones tendientes a la protección de los animales, así como, fomentar la cultura de la adopción, y
 
-> <small>(ADICIONADA, P.O. 8 DE JULIO DE 2006)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
-XIII.- Llevar el registro de los médicos responsables de las farmacias y clínicas u hospitales veterinarios; de los lugares destinados a la crianza y venta de animales; de los lugares en que únicamente se comercialicen; de los albergues; de las estéticas; de los que se dediquen a entrenarlos; y de las sociedades protectoras de animales.
+XIII.- Expedir licencias de funcionamiento de farmacias, clínicas y hospitales veterinarios; lugares destinados a la crianza y venta de perros, gatos y otras mascotas, que incluya aquéllas no convencionales; lugares en que únicamente se comercialicen; albergues; estéticas y lugares de entrenamiento; siempre y cuando quien lo solicite exhiba cédula profesional que lo acredite como médico veterinario zootecnista; con base en el cumplimiento de las disposiciones de este Ordenamiento y de las normas de calidad en materia de protección animal. Debiendo llevar un registro detallado y actualizado de dichos establecimientos, de las sociedades protectoras de animales, y de los médicos responsables de éstos.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
+La licencia de funcionamiento de establecimientos únicamente destinados a la estética animal, deberá especificar que en dicho lugar no se realizarán actividades de medicina veterinaria.
 
 ###### ARTICULO 71.
 
@@ -770,3 +776,9 @@ SEGUNDO. Se derogan todas las disposiciones legales y administrativas que se opo
 P.O. 7 DE MARZO DE 2009.
 
 UNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE DICIEMBRE DE 2010.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales en lo que se opongan al presente Decreto.
