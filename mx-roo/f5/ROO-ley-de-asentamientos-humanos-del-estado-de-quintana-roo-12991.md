@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-asentamientos-humanos-del-estado-de-quintana-roo-12991"
 country: "mx"
 rank: "ley"
 publication_date: "1998-06-15"
-last_updated: "2010-11-30"
+last_updated: "2010-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12991&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE ASENTAMIENTOS HUMANOS DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE NOVIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial el 15 de junio de 1998.
 
@@ -943,137 +943,39 @@ El reglamento de zonificación regulará las características que correspondan a
 
 ###### ARTICULO 56.
 
-Se establece el Sistema Estatal de Vivienda, como el conjunto integrado y armónico de acciones e inversiones de los sectores público, social y privado, para fomentar el acceso a las familias del Estado a una vivienda digna y decorosa.
+(DEROGADO, POR ARTICULO SEGUNDO DEL DECRETO NUMERO 400, DE LA LEY DE VIVIENDA DEL ESTADO DE QUINTANA ROO, P.O. 21 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 57.
 
-El Sistema Estatal de Vivienda orientará al cumplimiento de los objetivos siguientes:
-
-I.- Ampliar las posibilidades de acceso a la vivienda de la población urbana y rural, preferentemente de más bajo ingreso;
-
-II.- Aumentar el inventario habitacional, organizando y estimulando la producción, mejoramiento y conservación de la vivienda urbana y rural;
-
-III.- Optimizar los procesos de producción de vivienda, promoviendo preferentemente la utilización de sistemas constructivos tradicionales y adecuados al medio, así como de arraigo de los habitantes a sus lugares de origen;
-
-IV.- Propiciar que la vivienda sea un factor de ordenación territorial y de desarrollo urbano sustentable de los centros de población, de la mejoría de las condiciones de vida de la población, así como de arraigo de los habitantes a sus lugares de residencia;
-
-V.- Canalizar y diversificar los recursos para el mejoramiento de la vivienda de los sectores sociales más desprotegidos;
-
-VI.- Fomentar la participación de los sectores social y privado en las acciones y programas habitacionales;
-
-VII.- Promover la constitución de reservas territoriales y programar su utilización en la vivienda, de acuerdo a políticas y lineamientos previstos en los programas de desarrollo urbano;
-
-VIII.- Apoyar y fomentar la reducción de costos de la vivienda y de sus materiales básicos;
-
-IX.- Promover las actividades solidarias de la población en el desarrollo habitacional, impulsando la autoconstrucción a través de diversas formas de organización social;
-
-X.- Informar y difundir los programas públicos habitacionales, con el objeto de que la población beneficiaria tenga un mejor conocimiento y participación de los mismos;
-
-XI.- Integrar a la vivienda con su entorno urbano, con su medio ambiente y con la preservación de los recursos naturales, y
-
-XII.- Promover la canalización de recursos de los sectores público, social y privado a la construcción de vivienda de interés social y popular.
+(DEROGADO, POR ARTICULO SEGUNDO DEL DECRETO NUMERO 400, DE LA LEY DE VIVIENDA DEL ESTADO DE QUINTANA ROO, P.O. 21 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 58.
 
-El Instituto, coordinará el Sistema Estatal de Vivienda, para lo cual tendrá las funciones siguientes:
-
-I.- Formular el Programa Estatal de Vivienda y presentarlo al Gobernador del Estado, para su revisión y aprobación en su caso;
-
-II.- Formular, conducir y evaluar la política Estatal de vivienda, de conformidad con las disposiciones de esta ley y con las medidas que determine el Gobernador;
-
-III.- Coordinar los programas y acciones de vivienda que realicen otras entidades de la administración pública estatal y municipal, así como coordinarse con las entidades federales en la realización de programas de vivienda;
-
-IV.- Intervenir en los programas federales de vivienda, conforme a los convenios que celebre el Gobierno del Estado con la Federación, con la participación de los municipios;
-
-V.- Promover la producción y distribución de materiales de construcción a bajo costo, para la vivienda de interés social y popular;
-
-VI.- Fomentar, en coordinación con las autoridades competentes, la constitución de organizaciones comunitarias, sociedades cooperativas y otras similares para la adquisición, producción y mejoramiento de vivienda y de insumos para su construcción;
-
-VII.- Participar en la integración y la formulación de normas de diseño y construcción de la vivienda;
-
-VIII.- Proponer a los sectores social y privado, mecanismos de financiamiento y estímulos para el cumplimiento de los programas institucionales de vivienda, así como sistemas de control, seguimiento y evaluación de los mismos;
-
-IX.- Dictaminar, previamente a su ejecución, la congruencia de los programas institucionales de vivienda y de las acciones habitacionales que realicen las dependencias y entidades estatales y municipales, con el Programa Estatal de vivienda;
-
-X.- Administrar las reservas territoriales del Estado, y
-
-XI.- Las demás que le otorguen esta ley y otras disposiciones jurídicas.
+(DEROGADO, POR ARTICULO SEGUNDO DEL DECRETO NUMERO 400, DE LA LEY DE VIVIENDA DEL ESTADO DE QUINTANA ROO, P.O. 21 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 59.
 
-En la formulación del programa Estatal de Vivienda, el Instituto tomará en cuenta las propuestas de las Dependencias y entidades federales, Estatales y Municipales, así como los sectores social y privado.
+(DEROGADO, POR ARTICULO SEGUNDO DEL DECRETO NUMERO 400, DE LA LEY DE VIVIENDA DEL ESTADO DE QUINTANA ROO, P.O. 21 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 60.
 
-El instituto, previa opinión de la comisión consultiva del Desarrollo Urbano y Vivienda del Estado someterá el proyecto del programa Estatal de Vivienda a la consideración y en su caso, aprobación del Gobernador del Estado. Dicho programa, una vez aprobado, se publicará en el periódico oficial del Gobierno del Estado y, en forma abreviada, en dos periódicos de mayor circulación en la entidad.
+(DEROGADO, POR ARTICULO SEGUNDO DEL DECRETO NUMERO 400, DE LA LEY DE VIVIENDA DEL ESTADO DE QUINTANA ROO, P.O. 21 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 61.
 
-El Programa Estatal de Vivienda contendrá:
-
-I.- El diagnostico de la situación habitacional en el Estado;
-
-II.- La política objetivos, estrategias y lineamientos, de acción;
-
-III.- Los lineamientos para la programación anual en materia de Vivienda, de los organismos Estatales y Municipales con el señalamiento de metas y previsión de recursos;
-
-IV.- La congruencia del programa del gasto público Estatal o Municipal y su vinculación presupuestal;
-
-V.- Las bases para la coordinación para la federación y los municipios;
-
-VI.- Las bases para la concertación con los sectores social y privado;
-
-VII.- La Ejecución, en su caso, de proyectos estratégicos;
-
-VIII.- El sistema de evaluación, y
-
-IX.- Los demás que señalen otros Ordenamientos legales.
+(DEROGADO, POR ARTICULO SEGUNDO DEL DECRETO NUMERO 400, DE LA LEY DE VIVIENDA DEL ESTADO DE QUINTANA ROO, P.O. 21 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 62.
 
-El Programa Estatal de Vivienda será obligatorio para las Dependencias y entidades Estatales y Municipales, en la formulación y ejecución de sus programas institucionales y operativos anuales de vivienda y de las acciones habitacionales que lleven a cabo.
+(DEROGADO, POR ARTICULO SEGUNDO DEL DECRETO NUMERO 400, DE LA LEY DE VIVIENDA DEL ESTADO DE QUINTANA ROO, P.O. 21 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 63.
 
-Las entidades y Dependencias Estatales y Municipales que lleven a cabo acciones de Vivienda, formularán sus programas operativos anuales que servirán de base para la integración de los anteproyectos anuales de presupuesto y contendrá:
-
-I.- Su vinculación con el programa Estatal de Vivienda;
-
-II.- Los medios de financiamiento y asignación de sus recursos, señalando el numero de beneficiarios del nivel de sus ingresos;
-
-III.- El establecimiento de medidas tendientes a recuperar los recursos económicos invertidos;
-
-IV.- La congruencia con los Programas de Desarrollo Urbano;
-
-V.- Las necesidades de suelo y reservas territoriales, así como la forma de atenderlas;
-
-VI.- La utilización preferente de diseños, sistemas y procedimientos constructivos, que fomenten el arraigo de las familias a su medio, la utilización de materiales locales, la preservación del equilibrio ecológico, así como el uso de tecnologías y sistemas constructivos que coadyuven a elevar los niveles de habitabilidad de la vivienda y de salud y bienestar de las familias;
-
-VII.- El plazo de ejecución de las obras, y
-
-VIII.- Las acciones de concertación con los sectores social y privado.
-
-Las dependencias y entidades estatales o municipales que lleven a cabo acciones de vivienda, informarán al Instituto de los avances y evaluación de sus programas operativos anuales. El Instituto tomará en cuenta dichos informes y evaluaciones para la revisión y evaluación del programa estatal de vivienda.
+(DEROGADO, POR ARTICULO SEGUNDO DEL DECRETO NUMERO 400, DE LA LEY DE VIVIENDA DEL ESTADO DE QUINTANA ROO, P.O. 21 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 64.
 
-Las enajenaciones que realicen el Instituto y las dependencias y entidades municipales, de vivienda de interés social y popular, así como de los lotes para los mismos efectos, se sujetarán a las normas siguientes:
-
-I.- Que el beneficiario sea mexicano por nacimiento o naturalización, mayor de edad, jefe o sostén de familia, no sea propietario de inmuebles en el Estado; tenga como mínimo dos años de residencia en el centro de población o sus inmediaciones, y se obligue a utilizar el lote o vivienda para su casa-habitación;
-
-II.- Que las condiciones de pago establezcan una correlación ingreso-vivienda adecuada a la capacidad de pago de los adquirientes;
-
-III.- Que la superficie de los lotes o las características de la vivienda, se apegue a la prevista en la ley de fraccionamientos del Estado y en el reglamento de construcciones del municipio en el que se ubique el inmueble;
-
-IV.- Que el precio del lote o vivienda se determine en base al dictamen valuatorio expedido por la Dirección del Catastro del Estado o una institución de crédito;
-
-V.- El Instituto instrumentará un Sistema de investigación social, por el cual se determine que el beneficiario del lote o vivienda reúna el perfil establecido por esta ley;
-
-VI.- En ningún caso, podrá enajenarse más de un lote o vivienda a cada jefe o sostén de familia, y
-
-VII.- El contrato respectivo estipulará, que el adquiriente sólo podrá ceder o enajenar sus derechos a otra persona que reúna los mismos requisitos y condiciones establecidas en este artículo, para lo cual deberá contar con la autorización expresa del Instituto o de la dependencia o entidad municipal que haya enajenado originalmente el inmueble.
-
-El instituto o las Dependencias y entidades municipales, publicarán los listados de las personas beneficiadas de las enajenaciones a que se refiere este artículo, a través de los medios de difusión de los lugares donde se lleven a cabo las acciones.
+(DEROGADO, POR ARTICULO SEGUNDO DEL DECRETO NUMERO 400, DE LA LEY DE VIVIENDA DEL ESTADO DE QUINTANA ROO, P.O. 21 DE DICIEMBRE DE 2010)
 
 ### CAPITULO VIII
 
@@ -1536,3 +1438,11 @@ P.O. 30 DE NOVIEMBRE DE 2010.
 ## TRANSITORIO
 
 ÚNICO. Publíquese el decreto que en su caso se expida en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 21 DE DICIEMBRE DE 2010.
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+TRANSITORIO:
+
+ÚNICO.- Publíquese el Decreto en el Periódico Oficial del Estado de Quintana Roo.
