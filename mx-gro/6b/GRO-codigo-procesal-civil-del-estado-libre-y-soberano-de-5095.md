@@ -4,7 +4,7 @@ identifier: "GRO-codigo-procesal-civil-del-estado-libre-y-soberano-de-5095"
 country: "mx"
 rank: "codigo"
 publication_date: "1993-03-26"
-last_updated: "2010-07-02"
+last_updated: "2010-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5095&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CODIGO PROCESAL CIVIL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO NUMERO 364
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE JULIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 2010.
 
 Código publicado en el Periódico Oficial del Estado de Guerrero, el viernes 26 de marzo de 1993.
 
@@ -269,9 +269,9 @@ VII. El del lugar en que se hizo una inscripción en el Registro Público de la 
 
 VIII. En los actos de jurisdicción voluntaria, salvo disposición contraria de la ley, es juzgador competente el del domicilio del que promueve; pero, si se trata de bienes raíces, lo es del lugar en que estén ubicados, observándose, en lo aplicable, lo dispuesto en la fracción III.
 
-> <small>(ADICIONADA, P.O. 9 DE NOVIEMBRE DE 1999)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
-IX. El del domicilio del actor o del demandado a elección del primero, en los juicios que versen sobre alimentos o violencia intrafamiliar.
+IX. El del domicilio del actor o demandado a elección del primero, en los juicios que versen sobre alimentos o violencia intrafamiliar.
 
 Cuando haya varios tribunales competentes, conforme a las reglas anteriores, en caso de conflicto de competencia, se decidirá en favor del que haya prevenido en el conocimiento.
 
@@ -297,9 +297,9 @@ Regla de competencia en actos preparatorios a juicio. Para conocer de los actos 
 
 Reglas de competencia en providencias cautelares. Para conocer de las providencias cautelares será competente el juzgador que lo sea para conocer de la demanda principal. Si el expediente estuviere en segunda instancia, será competente para dictar la providencia precautoria; el juzgador que conoció de ellos en primera instancia. En caso de urgencia puede dictarla el del lugar donde se halle la persona o el bien objeto de la providencia y efectuada, se remitirán las actuaciones al competente.
 
-> <small>(ADICIONADO, P.O. 9 DE NOVIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
-Artículo 36 BIS.- Reglas de competencia en violencia intrafamiliar. Para conocer de la violencia intrafamiliar será competente el Juez que lo sea para conocer de la demanda principal. Por las repercusiones propias de la violencia intrafamiliar, podrá recibir la comparecencia cualquier Juzgador, efectuada ésta remitirá las actuaciones al competente.
+Artículo 36 BIS.- Reglas de competencia en violencia familiar será competente el Juez que lo sea para conocer de la demanda principal. Por las repercusiones propias de la violencia familiar, podrá recibir la comparecencia cualquier Juzgador, efectuada ésta, remitirá las actuaciones al Juez competente.
 
 ###### Artículo 37.
 
@@ -1001,9 +1001,9 @@ Costas con motivo de apelación. En caso de apelación será condenada en las co
 
 Asuntos en los que no se causarán gastos y costas. No se condenará en gastos y costas a ninguna de las partes.
 
-> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 1999)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
-I. En los procesos que versen cuestiones familiares a excepción de los juicios de alimentos, divorcio necesario tratándose del cónyuge culpable, reconocimiento de la paternidad y violencia intrafamiliar; y
+I. En los procesos que versen cuestiones familiares a excepción de los juicios de alimentos, divorcio necesario, reconocimiento de la paternidad y violencia familiar; y
 
 II. En los asuntos de la competencia de los jueces de paz.
 
@@ -1075,9 +1075,9 @@ Recibo de escritos y documentos. El tribunal o juzgado, por conducto del emplead
 
 En los lugares donde se establezca una Oficialía de Partes Común, los escritos iniciales de demanda deberán presentarse ante dicha oficialía, lo mismo los escritos subsecuentes que se presenten fuera de las horas de labores de los juzgadores, pero dentro de horas hábiles.
 
-> <small>(ADICIONADO, P.O. 9 DE NOVIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
-Tratándose de los supuestos relativos a solicitudes y demandas por comparecencia incluyendo la de violencia intrafamiliar, el Juez receptor después de dictar las medidas cautelares procedentes, remitirá a la Oficialía de Partes Común el escrito por comparecencia a fin de que ésta lo turne al Juzgado correspondiente.
+Tratándose de los supuestos relativos a solicitudes y demandas por comparecencias incluyendo la de violencia familiar, el Juez receptor después de dictar las medidas cautelares procedentes, remitirá a la oficialía de partes común el escrito por comparecencia a fin de que ésta lo turne al Juzgado correspondiente.
 
 ###### Artículo 123.
 
@@ -1689,19 +1689,19 @@ El notario se limitará a hacer el ofrecimiento y expedir al deudor la certifica
 
 ### CAPITULO IV. SEPARACION DE PERSONAS
 
-> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 196.
 
-Juez competente. El que intenta demandar o denunciar o querellarse contra su cónyuge, puede solicitar su separación al Juez de Primera Instancia, donde los cónyuges estén haciendo vida marital. En los casos de violencia intrafamiliar el agredido o su representante, tratándose de menor o incapaz, podrá solicitar al Juez de Primera Instancia, la separación del agresor del lugar donde cohabitan. Sólo que por circunstancias especiales no pueda ocurrirse al Juez de Primera competente, el Juez del lugar podrá decretar la separación provisionalmente, remitiendo las diligencias al competente.
+Juez competente. El que intenta demandar o denunciar o querellarse contra su cónyuge, puede solicitar su separación al Juez de Primera Instancia, donde los cónyuges estén haciendo vida marital. En los casos de violencia familiar el agredido o su representante, tratándose de menor o incapaz, podrá solicitar al Juez de Primera Instancia, la separación del agresor del lugar donde cohabitan. Sólo que por circunstancias especiales no pueda ocurrirse al Juez de Primera Instancia competente, el Juez del lugar podrá decretar la separación provisionalmente, remitiendo las diligencias al competente.
 
 ###### Artículo 197.
 
 Solicitud y medidas provisionales que pueden decretarse. La solicitud puede ser escrita o verbal, en la que se señalarán las causas en que se funde, el domicilio para su habitación, la existencia de hijos menores y las demás circunstancias del caso.
 
-> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
-El juzgador podrá si lo estima conveniente, practicar las diligencias que a su juicio sean necesarias antes de dictar la resolución. En los casos de violencia intrafamiliar deberá considerar los dictámenes u opiniones realizadas por las Instituciones Públicas o Privadas dedicadas a atender los asuntos de esta índole, debiendo valorarlas debidamente.
+El juzgador podrá si lo estima conveniente, practicará las diligencias que a su juicio sean necesarias antes de dictar resolución. En los casos de violencia familiar deberá considerar los dictámenes u opiniones realizadas por las instituciones públicas o privadas dedicadas a atender los asuntos de esta índole, debiendo valorarlas debidamente.
 
 > <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 1999)</small>
 
@@ -1713,9 +1713,9 @@ Facultades de la autoridad judicial. Presentada la solicitud, el Juzgador sin m�
 
 Otras determinaciones que deberá tomar el juzgador al decretar la separación judicial. En la resolución se señalará el término de que dispondrá el solicitante para presentar la demanda, denuncia o querella, que podrá ser hasta de quince días hábiles contados a partir del día siguiente de efectuada la separación. A juicio del juzgador podrá concederse por una sola vez una prórroga por igual término.
 
-> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
-En la misma resolución ordenará la notificación al otro cónyuge o al agresor tratándose de violencia intrafamiliar, previniéndole que se abstenga de impedir la separación o causar molestias al solicitante, bajo apercibimiento de procederse en su contra en los términos a que hubiere lugar.
+En la misma resolución ordenará la notificación al otro cónyuge o al agresor tratándose de violencia familiar, previniéndole que se abstenga de impedir la separación o causar molestias al solicitante, bajo apercibimiento de procederse en su contra en los términos a que hubiere lugar.
 
 > <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 1999)</small>
 
@@ -1903,21 +1903,21 @@ IV. Cuando se cumpla o ejecute la sentencia definitiva; y
 
 V. Si se pidiera como acto preparatorio y no se presenta la demanda dentro del término fijado por el juzgador.
 
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
 #### SECCION CUARTA. ALIMENTOS PROVISIONALES
 
 ###### Artículo 223.
 
-Casos en que puede decretarse una pensión alimenticia provisional. En casos de urgente necesidad podrán decretarse alimentos provisionales a quien tenga derecho de exigirlos y contra quien deba pagarlos. En este caso debe acreditarse el título en cuya virtud se piden, las posibilidades de quien deba darlos y la urgencia de la medida. Cuando se pidan por razón del parentesco, deberá acreditarse éste. Si se funda en testamento, contrato o convenio, debe exhibirse el documento en que consten.
+(DEROGADO, P.O. 21 DE DICIEMBRE DE 2010)
 
 ###### Artículo 224.
 
-Otorgamiento de los alimentos provisionales y su ejecución. Rendida la justificación a que se refiere el artículo anterior, el juzgador fijará la suma o el porcentaje en que deban consistir los alimentos, mandando abonarlos por meses o quincenas anticipados.
-
-La providencia se ejecutará sin necesidad de otorgamiento de caución. La resolución que niegue los alimentos es recurrible en queja ante el superior. La que los conceda es apelable en el efecto devolutivo.
+(DEROGADO, P.O. 21 DE DICIEMBRE DE 2010)
 
 ###### Artículo 225.
 
-Reclamaciones. En la providencia no se permitirá ninguna discusión sobre el derecho de percibir alimentos. Cualquier reclamación sobre este derecho se substanciará en juicio distinto y entre tanto se seguirá abonando la suma señalada para alimentos. Las cuestiones que se susciten sobre el monto de los alimentos se substanciarán en la vía incidental.
+(DEROGADO, P.O. 21 DE DICIEMBRE DE 2010)
 
 #### SECCION QUINTA. PROVIDENCIA SOBRE OBRA NUEVA Y DAÑO TEMIDO
 
@@ -3357,9 +3357,9 @@ I. Sólo podrá admitirse la apelación en el efecto suspensivo, en los siguient
 
 a) Cuando la Ley de una manera expresa ordene que la apelación se admita con este efecto;
 
-> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
-b) Contra las sentencias que se dicten en los juicios que versen sobre divorcio o nulidad de matrimonio, violencia intrafamiliar y demás cuestiones de familia o estado de las personas, salvo disposición en contrario;
+b) Contra las sentencias que se dicten en los juicios que versen sobre divorcio o nulidad de matrimonio, violencia familiar y demás cuestiones de familia o estado de las personas, salvo disposición en contrario;
 
 c) Contra las sentencias interlocutorias que paralicen o pongan término al juicio, haciendo imposible su continuación;
 
@@ -4639,17 +4639,47 @@ Irrecusabilidad de los jueces de paz. Los jueces de paz no son recusables; pero 
 
 ### CAPITULO I. DISPOSICIONES COMUNES
 
-> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 520.
 
-Orden público de los asuntos del orden familiar. Todos los asuntos inherentes a la familia se considerarán de orden público por constituir la base de la integración de la sociedad, estando facultado el juzgador para decretar las medidas cautelares que tiendan a preservarla y a proteger a sus miembros dentro de los lineamientos legales previstos en el Libro Segundo Título Primero Capítulos IV y VI de este Código. Por tanto, en todos los asuntos que trate este Título deberá tener intervención el Ministerio Público y el Sistema Estatal para el Desarrollo Integral de la Familia.
+Orden público de los asuntos del orden familiar. Todos los asuntos inherentes a la familia se considerarán de orden público por constituir la base de la integración de la sociedad, estando facultado el juzgador para intervenir de oficio en los asuntos que afecten a la familia, especialmente tratándose de menores, de los alimentos y de cuestiones relacionadas con violencia familiar, decretando las medidas cautelares que tiendan a preservarla y a proteger a sus miembros dentro de los lineamientos legales previstos en el Libro Segundo Título Primero Capítulos IV y VI de este Código. Por tanto, en todos los asuntos que verse este Título, tratándose de los menores, deberá tener intervención el Ministerio Público y el Sistema Estatal para el Desarrollo Integral de la Familia.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
+Artículo 520 BIS.- Para los procedimientos previstos en el presente Título se observarán los principios siguientes:
+
+I. No discriminación y respeto a la dignidad de las personas. El juzgador en todo momento deberá evitar conductas encaminadas a impedir, limitar o negar el ejercicio de un derecho de las personas que participen a un proceso, por razón del sexo, pertenencia étnica, discapacidad, preferencia sexual o cualquier otra que atente contra la dignidad de las personas;
+
+II. Interés superior de la infancia. El juzgador tratándose de procedimientos que involucren a menores de edad, deberá garantizarles a éstas sus derechos, procurando su bienestar e integridad física y emocional;
+
+III. Igualdad entre hombres y mujeres. El Juzgador deberá garantizar la igualdad jurídica de las partes en el proceso, reconociendo las diferencias sociales, culturales y económicas existentes entre mujeres y hombres;
+
+IV. Economía procesal. El juzgador tomará de oficio las medidas tendientes a evitar la paralización de un proceso y adelantar su trámite con la mayor celeridad posible, así mismo podrá concentrar las diligencias cuando lo considere conveniente; y
+
+V. Gratuidad. El trámite de cualquier procedimiento que regula este Título, no generará costas judiciales, el tribunal deberá dictar las medidas necesarias a fin de evitarle a las partes gastos innecesarios.
 
 ###### Artículo 521.
 
 Suplencia de la deficiencia de las partes. En todos los asuntos del orden familiar los jueces y tribunales están obligados a suplir la deficiencia de las partes en sus planteamientos de derecho.
 
-En los mismos asuntos, con la salvedad de las prohibiciones legales relativas a alimentos, el juzgador deberá exhortar a los interesados a lograr un avenimiento, resolviendo sus diferencias mediante convenio, con el que pueda evitarse la controversia o darse por terminado el procedimiento.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
+No se requieren formalidades especiales para acudir ante el Juez tratándose de alimentos, de calificación de impedimentos de matrimonio o de las diferencias que surjan entre marido y mujer sobre la administración de bienes comunes, educación de hijos, oposición de padres y tutores y en general, de todas las cuestiones familiares que reclamen la intervención judicial.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
+En los mismos asuntos, el juzgador podrá exhortar a los interesados a lograr un avenimiento, resolviendo sus diferencias mediante convenio, con el que pueda evitarse la controversia o darse por terminado el procedimiento.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
+Artículo 521 BIS.- Podrá acudirse ante el Juez por comparecencia personal en los casos que versen sobre cuestiones familiares, exponiendo de manera breve y concisa los hechos de que se trate. Las copias respectivas de la comparecencia y demás documentos que se presenten, serán tomados como prueba. El Juez al momento de conocer los hechos deberá decretar las medidas provisionales que considere.
+
+El Juez le hará saber al compareciente o al interesado, que puede contar con la asesoría y patrocinio de un Defensor de Oficio, dando parte a la institución de Defensoría de Oficio para que, en su caso, asesore o patrocine al compareciente.
+
+Una vez hecho lo anterior, se correrá traslado a la parte demandada, la que deberá comparecer, en la misma forma, señalando día y hora de la audiencia, que deberá celebrarse en un plazo no mayor de cinco días. En tal comparecencia, las partes ofrecerán las pruebas que consideren.
+
+Será optativo para las partes acudir asesoradas. En caso de que una de las partes se encuentre asesorada y la otra no, se solicitarán de inmediato los servicios de un Defensor de Oficio el que deberá acudir, desde luego, a enterarse del asunto, en un término que no podrá exceder de tres días para hacerlo, .por cuya razón se diferirá la audiencia en un término igual.
 
 ###### Artículo 522.
 
@@ -4657,7 +4687,9 @@ Reglas generales aplicables a los asuntos de orden familiar. En los juicios del 
 
 I. Las reglas sobre repartición de la carga de la prueba no tendrán aplicación;
 
-II. Para la investigación de la verdad, el juzgador puede ordenar cualquier prueba, aunque no la ofrezcan las partes;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
+II. Para la investigación de la verdad, el juzgador puede ordenar cualquier prueba, aunque no la ofrezcan las partes, para lo cual podrá cerciorarse personalmente, o con el apoyo de trabajadores sociales, profesionales en otras disciplinas o autoridades que presten su servicio dentro de la administración pública, quienes presentarán el informe correspondiente, y en su caso, podrán ser interrogados por el Juez y las partes;
 
 III. El principio preclusivo, en cuanto signifique un obstáculo para el logro de la verdad no tendrá aplicación; y (sic)
 
@@ -4666,6 +4698,10 @@ IV. La admisión de hechos y el allanamiento no vinculan al juzgador;
 > <small>(ADICIONADA, P.O. 2 DE JULIO DE 2010)</small>
 
 V. En los juicios o acciones donde se encuentren inmersos menores de edad, el juzgador emitirá sus decisiones y determinaciones atendiendo al interés superior del menor, privilegiando los derechos fundamentales de los niños, por encima de cualquier otro, para ello, el juzgador no estará sujeto a resolver solamente con las pruebas que aporten las partes, sino que ejercerá las pruebas e investigaciones de oficio que considere pertinentes a fin de garantizar el bien y la protección de los menores. Asimismo deberá resolver sobre las medidas provisionales y aquellas que tiendan (sic) la preservación de los derechos del menor de manera oportuna.
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
+VI. A petición de parte o de oficio el Juez decretará la asistencia psicológica a las partes o a los menores involucrados, ya sea durante el procedimiento o una vez concluido a través de las áreas establecidas para ello en el Tribunal Superior de Justicia, la Secretaría de Salud, el Sistema para el Desarrollo Integral de la Familia, la Procuraduría de la Defensa de los Derechos de la Mujer o cualquier otra institución pública que estime conveniente.
 
 ###### Artículo 523.
 
@@ -4749,67 +4785,49 @@ V. Precauciones que deben adoptarse respecto de la mujer que quede encinta al de
 
 Inscripción de la sentencia. Ejecutoriada la sentencia, el juzgador, enviará copia certificada al Oficial del Registro Civil ante quien se celebró el matrimonio para su anotación.
 
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
 ### CAPITULO IV. JUICIO DE DIVORCIO
 
 ###### Artículo 534.
 
-Legitimación activa. El divorcio necesario sólo puede ser demandado por el cónyuge que no haya dado causa a él, salvo disposición contraria de la ley. La acción de divorcio sólo podrá ejercitarse por los cónyuges.
+(DEROGADO, P.O. 21 DE DICIEMBRE DE 2010)
 
 ###### Artículo 535.
 
-Divorcio de cónyuges menores de edad. Los cónyuges menores de edad necesitan de un tutor o de representante legítimo para litigar en asuntos de divorcio. La demanda será suscrita también con la firma del menor y con la huella dígito pulgar derecha del mismo, quien la ratificará ante la presencia judicial.
+(DEROGADO, P.O. 21 DE DICIEMBRE DE 2010)
 
 ###### Artículo 536.
 
-Representación voluntaria. Los cónyuges pueden hacerse representar por procuradores; pero el poder deberá ser especial y expreso.
+(DEROGADO, P.O. 21 DE DICIEMBRE DE 2010)
 
 ###### Artículo 537.
 
-Medidas de aseguramiento de carácter personal. Al admitirse la demanda de divorcio se dictarán provisionalmente y mientras dure el juicio, las medidas que procedan. El señalamiento y aseguramiento de alimentos para el cónyuge acreedor y los hijos no podrá demorarse por el hecho de no tener el juzgador datos para hacer la fijación del monto de la pensión, sino que se decretará tan pronto se pida. El monto de la pensión y la resolución que la establece pueden ser modificados durante el juicio cuando cambien las circunstancias o el juzgador tenga mayores datos sobre las posibilidades económicas y posición de los cónyuges.
+(DEROGADO, P.O. 21 DE DICIEMBRE DE 2010)
 
 ###### Artículo 538.
 
-Tramitación del juicio. El divorcio necesario se tramitará de acuerdo con las reglas del juicio ordinario, con las siguientes modalidades:
-
-I. Aunque medie confesión o allanamiento se abrirá el juicio a prueba;
-
-II. El demandado rebelde, se estimará que contesta negativamente la demanda;
-
-III. El juzgador podrá exigir la identificación adecuada de las partes cuando lo considere necesario;
-
-IV. Los cónyuges no podrán celebrar transacción sobre la acción de divorcio;
-
-V. La muerte de uno de los cónyuges pone fin al juicio de divorcio, sin que puedan continuarlo los herederos; y
-
-VI. La contrademanda sobre nulidad del matrimonio o divorcio, será admisible.
+(DEROGADO, P.O. 21 DE DICIEMBRE DE 2010)
 
 ###### Artículo 539.
 
-Acumulación de acciones de nulidad de matrimonio y divorcio. Las acciones sobre nulidad de matrimonio y divorcio pueden acumularse. Si se declara la nulidad, la sentencia se abstendrá de resolver sobre el divorcio.
+(DEROGADO, P.O. 21 DE DICIEMBRE DE 2010)
 
 ###### Artículo 540.
 
-Terminación de la instancia. La instancia concluirá sin sentencia:
-
-I. Si hubiere inactividad total de las partes en el proceso por más de seis meses naturales;
-
-II. Si se demostrare la reconciliación de los cónyuges en cualquier estado del juicio, mientras no hubiere sentencia ejecutoria; y
-
-III. Porque el cónyuge que no haya dado causa al divorcio prescinda de sus derechos y otorgue el perdón al otro.
+(DEROGADO, P.O. 21 DE DICIEMBRE DE 2010)
 
 ###### Artículo 541.
 
-Facultades del juzgador. La sentencia, en los juicios de divorcio necesario resolverá de oficio lo relativo al cuidado de los hijos, patria potestad, división de los bienes comunes, alimentos de los cónyuges y de los hijos, aunque las partes no lo hayan pedido.
-
-Para ello, desde la iniciación del procedimiento el juzgador deberá recabar, de oficio, los medios de prueba que sean útiles para decidir sobre tales cuestiones.
+(DEROGADO, P.O. 21 DE DICIEMBRE DE 2010)
 
 ###### Artículo 542.
 
-Inscripción de la sentencia. Ejecutoriado el divorcio, el juzgador remitirá copia al Oficial del Registro Civil ante quien se celebró el matrimonio para que levante el acta correspondiente, anote la partida de matrimonio con la disolución del vínculo y para que publique un extracto de la resolución, durante quince días en las tablas destinadas al efecto.
+(DEROGADO, P.O. 21 DE DICIEMBRE DE 2010)
 
 ###### Artículo 543.
 
-Impugnación de las sentencias. La sentencia definitiva es apelable en el efecto suspensivo por lo que no podrá ejecutarse hasta que la apelación se decida, excepto en lo que se refiera a pensión alimenticia.
+(DEROGADO, P.O. 21 DE DICIEMBRE DE 2010)
 
 ### CAPITULO V. JUICIOS SOBRE PATERNIDAD, FILIACION Y PATRIA POTESTAD
 
@@ -4975,79 +4993,79 @@ Una vez ejecutoriada la sentencia, se comunicará a la oficina Estatal del Regis
 
 ### CAPITULO VIII. JUICIO DE ALIMENTOS
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 563.
 
-Demanda. En el juicio de alimentos la demanda podrá presentarse por escrito o expresarse por comparecencia personal ante el juzgador, de la cual se levantará el acta correspondiente. En ambos casos la demanda deberá reunir los requisitos previstos en el artículo 232 de este Código, y la actora deberá acompañar los documentos que funden su derecho.
+Demanda. En el juicio de alimentos la demanda podrá presentarse por, escrito o expresarse por comparecencia personal ante el juzgador, debiendo acompañarse los documentos en que funde su derecho.
 
-En la demanda la parte actora podrá solicitar el otorgamiento de alimentos provisionales en los términos previstos en los artículos 223 y 224 de este Código. La recusación no podrá impedir que el juzgador adopte las medidas provisionales sobre alimentos.
+El Juez fijará en un plazo no mayor a tres días, la pensión alimenticia provisional, sin que para ello medie audiencia del deudor alimentario, mientras se resuelve el juicio.
 
-En la misma demanda, la parte demandante deberá ofrecer las pruebas.
+Hecho lo anterior, el Juez girará oficio al centro laboral del demandado, al Registro Público de la Propiedad del Comercio y Crédito Agrícola del Estado, a las instituciones de seguridad social, a la Secretaría de Hacienda y Crédito Público Federal, a la Secretaría de Finanzas y Administración del Gobierno del Estado, y a la Contraloría General del Estado o a la Auditoría General del Estado, según corresponda, para que informen sobre sueldos, prestaciones, ingresos y bienes declarados por el deudor alimentario, debiéndose remitir la información solicitada en un plazo no mayor a ocho días, con el apercibimiento de que de no hacerlo se aplicarás medidas de apremio.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 564.
 
-Emplazamiento y contestación de la demanda. En el auto de admisión de la demanda, el juzgador ordenará que se emplace a la parte demandada para que conteste la demanda dentro de los nueve días siguientes. En el escrito de contestación a la demanda, el demandado deberá ofrecer las pruebas respectivas.
+Emplazamiento y contestación de la demanda. En el auto de admisión de la demanda, el juzgador ordenará que a emplace a la parte demandada, en un término no mayor de tres días; el demandado una vez emplazado contará con un plazo de cinco días para contestar la demanda y ofrecer las pruebas que considere.
 
-En el mismo auto el juzgador señalará el día y la hora para que tenga verificativo la audiencia de pruebas y alegatos.
+En el mismo auto el juzgador señalará el día y la hora para que tenga verificativo la audiencia de pruebas y alegatos, que no deberá exceder de un mes desde que se fijó la pensión alimenticia provisional.
 
 ###### Artículo 565.
 
 Audiencia. La audiencia se practicará con o sin asistencia de las partes. El juzgador para resolver el problema que se planteé, podrá cerciorarse personalmente o con auxilio de trabajadores sociales, de la veracidad de los hechos. Aquellos presentarán el informe correspondiente en la audiencia, y podrán ser interrogados por el juzgador y por las partes. Su valoración se hará conforme a lo dispuesto por el artículo 349 de este Código. En el fallo se expresarán en todo caso los medios de prueba en que se haya fundado el juzgador para dictarlo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 566.
 
-Sentencia. La sentencia se pronunciará de manera breve y concisa, en el mismo momento de la audiencia de ser así posible o dentro de los ocho días siguientes.
+Sentencia. La sentencia se pronunciará de manera breve y concisa, en el mismo momento de la audiencia de ser así posible o dentro de los cinco días siguientes.
 
 Las resoluciones sobre alimentos que fueren apeladas, se ejecutarán sin fianza.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE NOVIEMBRE DE 1999)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
-### CAPITULO VIII BIS. VIOLENCIA INTRAFAMILIAR
+### CAPITULO VIII BIS. VIOLENCIA FAMILIAR
 
-> <small>(ADICIONADO, P.O. 9 DE NOVIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
-Artículo 566 A.- Solicitud. Tratándose de violencia intrafamiliar la solicitud de intervención judicial podrá presentarse por escrito o expresarse por comparecencia personal ante el Juzgador, en ella se expondrá de manera breve y concisa los hechos que se trate. Con las copias respectivas de la solicitud escrita o comparecencia y de los documentos que en su caso se presentan como pruebas se correrá traslado al demandado señalándose el día y hora en que deberán comparecer dentro del término de nueve días al Juzgado para la práctica de audiencia y valoración de pruebas. En las comparecencias o solicitud presentadas las partes deberán ofrecer las pruebas respectivas, sin más limitación que no sean contrarias a la moral o estén prohibidas por la ley.
+Artículo 566 A.- Solicitud. Tratándose de violencia familiar la solicitud de intervención judicial podrá presentarse por escrito o expresarse por comparecencia personal ante el Juzgador, en ella se expondrá de manera breve y concisa los hechos que se trate.
 
-> <small>(ADICIONADO, P.O. 9 DE NOVIEMBRE DE 1999)</small>
+Con las copias respectivas de la solicitud escrita o comparecencia y de los documentos que en su caso se presentan como pruebas, se correrá traslado al demandado señalándoles el día y hora en que deberán comparecer dentro del término de cinco días ante el Juzgado para la práctica de audiencia y valoración de pruebas. En las comparecencias o solicitud presentadas las partes deberán ofrecer las pruebas respectivas.
 
-Artículo 566 B.- Competencia. Para conocer de la violencia intrafamiliar será competente el del domicilio del actor o del demandado a elección del primero. Por las repercusiones propias de la violencia intrafamiliar, podrá recibir la comparecencia cualquier Juzgador el que una vez que la haya recibido y dictado las medidas cautelares, remitirá las actuaciones al competente.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
-En auxilio de los Jueces de Primera Instancia podrán recibir la solicitud los Jueces de Paz, quienes una vez que la hayan recibido y dictado en su caso las medidas cautelares, las remitirán al Juez de Primera Instancia de su adcripción.
+Artículo 566 B.- Competencia. Para conocer de la violencia familiar será competente el Juzgador del domicilio del actor o del demandado a elección del primero. Por las repercusiones propias de la violencia familiar, podrá recibir la comparencia (sic) cualquier Juzgador, quien una vez que la haya recibido y dictado las medidas cautelares, remitirá las actuaciones al competente.
 
-> <small>(ADICIONADO, P.O. 9 DE NOVIEMBRE DE 1999)</small>
+En auxilio de los Jueces de Primera Instancia podrán recibir la solicitud los Jueces de Paz, quienes una vez que la hayan recibido y dictado las medidas cautelares, remitirán sus actuaciones dentro de los siguientes tres días al Juez de Primera Instancia.
 
-Artículo 566 C.- Las partes. Las partes de la violencia intrafamiliar son: la víctima y el victimario, entendiéndose por éste al sujeto que realice cualquier acto u omisión recurrente e intencional, realizado con el fin de dominar, someter o controlar o maltratar física, verbal, psico-emocional o sexualmente a cualquiera de las siguientes víctimas, independientemente de que pueda o no producir otro delito:
+Artículo 566 C.- (DEROGADO, P.O. 21 DE DICIEMBRE DE 2010)
 
-I.- Su cónyuge;
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
-II.- La pareja a la que esté unida fuera de matrimonio;
+Artículo 566 D.- Legitimación activa. Podrá solicitar la intervención judicial el receptor de la violencia familiar, tratándose de menor o incapaz su representante legal.
 
-III.- Sus parientes consanguíneos en línea recta ascendente o descendente, sin limitación de grados;
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
-IV.- Sus parientes consanguíneos colaterales, hasta el cuarto;
+Artículo 566 E.- Medida cautelares. Al admitirse la solicitud o comparecencia el Juez dictará las medidas cautelares que corresponda, pudiendo ser entre otras:
 
-V.- Sus parientes por afinidad;
+I. Separación de personas, ordenando la salida del cónyuge o concubino demandado, de vivienda donde habita el grupo familiar;
 
-VI.- Sus parientes consanguíneos hasta el cuarto grado, de la pareja a la que esté unida fuera de matrimonio;
+II. Prohibición de ir a un lugar determinado, tal como el domicilio, lugar de trabajo donde estudien los agraviados
 
-VII.- Sus parientes civiles, ya sea que se trate del adoptante o adoptado;
+III. Prevención al presunto victimario de que no moleste al agredido;
 
-VIII.- Cualquier otro miembro de la familia, ya sea menor de edad, incapaz, discapacitado o anciano, que esté sujeto a su patria potestad, custodia, guarda, protección, educación, instrucción o cuidado; y,
+IV. Ordenar la restitución de los agredidos al domicilio familiar, en caso de que hayan tenido que abandonarlo, así como la restitución de sus bienes personales y documentos identidad;
 
-IX.- La persona con la que tuvo relación conyugal, de concubinato o de pareja unida fuera de matrimonio, en época anterior.
+V. Proporcionar asistencia psicológica y médica para la o los agraviados;
 
-> <small>(ADICIONADO, P.O. 9 DE NOVIEMBRE DE 1999)</small>
+VI. Fijar una pensión alimenticia provisional;
 
-Artículo 566 D.- Legitimación activa. Podrá solicitar la intervención judicial el receptor de la violencia intrafamiliar, tratándose de menor o incapaz su representante legal.
+VII. Suspensión temporal de visitas y convivencia con sus descendientes, cuando proceda; y
 
-> <small>(ADICIONADO, P.O. 9 DE NOVIEMBRE DE 1999)</small>
+VIII. Prohibición de vender o enajenar los bienes del patrimonio familiar.
 
-Artículo 566 E.- Medidas cautelares. Al admitirse la solicitud o comparecencia, el Juez dictará las medidas cautelares que correspondan, pudiendo ser entre otras:
-
-a).- Separación de personas;
-
-b).- Prohibición de ir a lugar determinado; y
-
-c).- Prevención al presunto victimario de que no moleste al agredido.
+Las medidas cautelares antes mencionadas deberán ser ratificadas por el Juez en la sentencia, en caso de ser procedentes para salvaguardar la seguridad y la integridad física y emocional de las personas receptoras de esta violencia.
 
 En auxilio de los Jueces de Primera Instancia podrán dictar las medidas cautelares provisionales los Jueces de Paz.
 
@@ -5055,9 +5073,9 @@ En auxilio de los Jueces de Primera Instancia podrán dictar las medidas cautela
 
 Artículo 566 F.- Tramitación del Juicio. En la práctica de audiencia y valoración de pruebas, ésta se realizará con o sin asistencia de las partes; en ella el agresor manifestará lo que a su derecho corresponda y ofrecerá las pruebas que corroboren su dicho. En caso de no comparecer se darán por ciertos los hechos aludidos por la víctima.
 
-> <small>(ADICIONADO, P.O. 9 DE NOVIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
-Artículo 566 G.- Resolución. Dentro de los tres días siguientes a la celebración de la audiencia el Juez valorando las pruebas ofrecidas, el contenido de los informes que al respecto hayan sido elaborados por las Instituciones Públicas o Privadas facultadas para ello y escuchando al Ministerio Público, dictará resolución pronunciando las medidas de protección al receptor de la violencia intrafamiliar o dejando firmes las ya pronunciadas, las formas de tratamiento a practicar al agresor para su rehabilitación y todo aquello que conforme a derecho proceda.
+Artículo 566 G.- Resolución. Dentro de los tres días siguientes a la celebración de la audiencia el Juez valorando las pruebas ofrecidas, el contenido de los informes que al respecto hayan sido elaborados por las Instituciones Públicas o Privadas facultadas para ello y escuchando al Ministerio Público, dictará resolución pronunciando las medidas de protección al receptor de la violencia familiar o dejando firmes las ya pronunciadas, las formas de tratamiento a practicar al agresor para su rehabilitación y todo aquello que conforme a derecho proceda.
 
 ## TITULO TERCERO. JUICIOS SOBRE POSESION Y PROPIEDAD
 
@@ -7022,3 +7040,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Remítase el presente Decreto al Titular del Poder Ejecutivo Estatal, para los efectos de lo dispuesto en el párrafo tercero del artículo 53 de la Constitución Política del Estado Libre y Soberano de Guerrero.
+
+P.O. 21 DE DICIEMBRE DE 2010.
+
+ÚNICO.- El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico oficial del Gobierno del Estado de Guerrero.
