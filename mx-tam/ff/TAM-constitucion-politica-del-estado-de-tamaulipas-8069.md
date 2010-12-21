@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "2010-11-24"
+last_updated: "2010-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE NOVIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 2010.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -815,7 +815,7 @@ IV. Fijar, a propuesta de los respectivos Ayuntamientos, las contribuciones y ot
 
 > <small>(REFORMADA, P.O. 20 DE MARZO DE 2007)</small>
 
-V. Nombrar y remover a sus servidores públicos en los términos que señale la Ley sobre la Organización y Funcionamiento Internos del Congreso; así como al Auditor Superior del Estado en los términos dispuestos por esta Constitución y la ley.
+V.- Nombrar y remover a sus servidores públicos en los términos que señale la Ley sobre la Organización y Funcionamiento Internos del Congreso; así como al Auditor Superior del Estado en los términos dispuestos por esta Constitución y la ley.
 
 > <small>(REFORMADA, P.O. 12 DE JUNIO DE 2009)</small>
 
@@ -933,7 +933,7 @@ XXXVII. Recibir la protesta constitucional a los Diputados, al Gobernador, y a q
 
 XXXVIII. Fomentar e impulsar la educación pública y todos los ramos de prosperidad en general;
 
-XXXIX.- Estimular la beneficencia pública, reglamentarla para que llene sus fines y para que estén debidamente asegurados sus bienes;
+XXXIX. Estimular la beneficencia pública, reglamentarla para que llene sus fines y para que estén debidamente asegurados sus bienes;
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
 
@@ -1465,9 +1465,9 @@ III.- Impedir los abusos de la fuerza pública contra los ciudadanos y los puebl
 
 IV.- Conforme a la libertad de creencias y el principio histórico de la separación del Estado y las iglesias, ejercer las atribuciones que le confiera la ley reglamentaria de las disposiciones de la Constitución Política de los Estados Unidos Mexicanos en materia de agrupaciones religiosas e iglesias, asociaciones religiosas y culto público;
 
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
-V. Promulgar y mandar publicar, cumplir y hacer cumplir la Constitución del Estado, las leyes y decretos del Congreso, y proveer en la esfera administrativa cuando fuere necesario a su exacta observancia, expidiendo para el efecto los reglamentos respectivos;
+V.- Cumplir y hacer cumplir la Constitución Política del Estado, las leyes y decretos del Congreso, los acuerdos, reglamentos, circulares y demás determinaciones que expidan el Poder Judicial, los Ayuntamientos y los organismos autónomos de los Poderes debiendo promulgar y mandarlos publicar en el órgano institucional, de carácter único, permanente e interés público del Gobierno Constitucional del Estado, para su aplicación y observación debidas; asimismo, proveer en la esfera administrativa cuanto fuere necesario a su exacta observancia, expidiendo los reglamentos y demás disposiciones respectivas;
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
 
@@ -1833,13 +1833,13 @@ El Poder Judicial del Estado goza de autonomía presupuestal, orgánica y funcio
 
 > <small>(REFORMADO, P.O. 17 DE JUNIO DE 2009)</small>
 
-Los Magistrados del Poder Judicial, los consejeros de la Judicatura y los jueces percibirán remuneración adecuada e irrenunciable, determinada anualmente, la cual no podrá ser disminuida durante su encargo.
+Los Magistrados del Poder Judicial, los consejeros de la o Judicatura y los jueces percibirán remuneración adecuada e irrenunciable, determinada anualmente, la cual no podrá ser disminuida durante su encargo.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
 
 > <small>(REFORMADO, P.O. 17 DE JUNIO DE 2009)</small>
 
-El Poder Judicial constituirá un Fondo Auxiliar para la Administración de Justicia se integrará y funcionará en los términos previstos en la ley, del cual y sin perjuicio de las remuneraciones que correspondan de acuerdo al presupuesto, el Consejo de la Judicatura aplicará un porcentaje de los recursos económicos que lo integren para incrementar la capacitación, adquisición de equipo y mejorar las condiciones de trabajo de los servidores públicos del Poder Judicial, conforme a lo que al efecto acuerde el Pleno del propio Consejo.
+El Poder Judicial constituirá un Fondo Auxiliar para la Administración de Justicia que se integrará y funcionará en los términos previstos en la ley, del cual y sin perjuicio de las remuneraciones que correspondan de acuerdo al presupuesto, el Consejo de la Judicatura aplicará un porcentaje de los recursos económicos que lo Integren para incrementar la capacitación, adquisición de equipo y mejorar las condiciones de trabajo de los servidores públicos del Poder Judicial, conforme a lo que al efecto acuerde el Pleno del propio Consejo.
 
 > <small>(REFORMADO, P.O. 20 DE MARZO DE 2007)</small>
 
@@ -3970,6 +3970,12 @@ DECRETO NUMERO LX-1481, POR EL QUE SE ADICIONAN LOS PARRAFOS SEXTO Y SEPTIMO, RE
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE DICIEMBRE DE 2010.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTÍCULO QUINTO.
 
