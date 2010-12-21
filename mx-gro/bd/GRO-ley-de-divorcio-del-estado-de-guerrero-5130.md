@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-divorcio-del-estado-de-guerrero-5130"
 country: "mx"
 rank: "ley"
 publication_date: "1990-03-13"
-last_updated: "1999-11-09"
+last_updated: "2010-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5130&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY DE DIVORCIO DEL ESTADO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE NOVIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 13 de marzo de 1990.
 
@@ -71,11 +71,29 @@ En el caso de divorcio por mutuo consentimiento, la mujer tendrá derecho a reci
 
 El mismo derecho señalado en el párrafo anterior, tendrá el varón que se encuentre imposibilitado para trabajar y carezca de ingresos suficientes, mientras no contraiga nuevas nupcias o se una en concubinato.
 
-Cuando por el divorcio se originen daños o perjuicios a los intereses del cónyuge inocente, el culpable responderá de ellos como autor de un hecho ilícito.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
+Cuando durante el divorcio se cometa un hecho ilícito por un cónyuge a otro se cubrirán los daños y perjuicios ocasionados.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
+###### ARTICULO 7o. Bis.
+
+En la demanda de divorcio el cónyuge podrá demandar del otro, una indemnización de hasta el 50% del valor de los bienes que hubiere adquirido durante el matrimonio, siempre que:
+
+I. Hubieran estado casados bajo el régimen de separación de bienes;
+
+II. El demandante se hubiere dedicado, en el tiempo que duró el matrimonio, preponderantemente al desempeño del trabajo del hogar y en su caso al cuidado de los hijos e hijas; y
+
+III. El demandante no haya adquirido bienes propios o habiéndolos adquirido, sean notoriamente menores a los de la contraparte.
+
+El Juez competente en la sentencia de divorcio, habrá de resolver atendiendo a las circunstancias especiales de cada caso.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 8o.
 
-Para fijar la pensión alimenticia, se tomará en cuenta la capacidad económica del deudor alimentario, que nunca será inferior al 40% del salario mínimo general diario vigente en la región, mismo que se incrementará proporcionalmente al aumento salarial.
+Para fijar la pensión alimenticia, se tomará en cuenta la capacidad económica del deudor alimentario, y las necesidades de las o los acreedores alimentarios y nunca podrá ser inferior al 40% del salario mínimo vigente, o del salario percibido y de las prestaciones a que tenga derecho, fijada por convenio o sentencia. La pensión alimenticia se incrementará proporcionalmente al aumento salarial, en todo caso el Juez considerará al momento de resolver lo que beneficie a los acreedores alimentarios.
 
 ###### ARTICULO 9o.
 
@@ -123,27 +141,41 @@ Para el caso de que los solicitantes al divorcio administrativo no hayan celebra
 
 DIVORCIO VOLUNTARIO.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 16.
 
-Los consortes que no se encuentren en el caso previsto en los anteriores artículos del capítulo precedente, pueden divorciarse por mutuo consentimiento, ocurriendo al Juez competente, acompañando a su solicitud, copia certificada del acta de matrimonio, de las de nacimiento de los hijos menores y un convenio en el que fijarán los siguientes puntos:
+Los consortes que no se encuentren en el caso previsto en los anteriores artículos del capítulo precedente, pueden divorciarse por mutuo consentimiento, acudiendo al Juez competente, acompañando a su solicitud, copia certificada de las actas de matrimonio, de nacimiento de los hijos menores y un convenio en el que fijarán los puntos siguientes:
 
-I.- La madre tendrá en todo momento la guarda y custodia de los hijos durante el procedimiento, salvo el caso en que ésta expresamente delegue la custodia mencionada;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
-II.- El modo de subvenir a las necesidades de los hijos, tanto durante en el procedimiento como después de ejecutoriado el divorcio;
+I.- La guardia y custodia de los menores;
 
-III.- En los términos del artículo 8, la cantidad que a título de alimentos un cónyuge debe pagar a otro durante el procedimiento y después de ejecutoriado el divorcio, así como la forma de hacer el pago y la garantía que debe otorgarse para asegurarlo;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
-IV.- La casa que servirá de habitación a cada uno de los cónyuges durante el procedimiento;
+II.- La pensión alimenticia que se habrá de otorgar, durante el procedimiento y después de ejecutoriado el divorcio;
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
+III.- La garantía de la pensión alimenticia;
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
+IV.- El domicilio en que radicarán cada uno de los cónyuges durante el procedimiento;
 
 V.- La manera de administrar los bienes de la sociedad conyugal durante el procedimiento, y la de liquidar dicha sociedad después de ejecutoriado el divorcio, así como la designación de liquidadores. A ese efecto se acompañará un inventario y avalúo de todos los bienes muebles o inmuebles de la sociedad;
 
 VI.- La comprobación de que la cónyuge se encuentra o no encinta;
 
-VII.- Acordar que el padre y la madre según sea el caso, podrán convivir con sus hijos, sin que el otro pueda impedirlo excepto que sea en detrimento de las cuestiones escolares o de la salud, estableciéndose que cualquier acuerdo en contrario de esa disposición, será nulo. En caso de viaje deberá recabarse por escrito el permiso del otro cónyuge, si hay conflicto el Juez lo resolverá.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
+VII.- La convivencia que el padre y la madre, tendrá con sus hijos, sin que el otro pueda impedirlo excepto que sea en detrimento de las cuestiones escolares o de la salud, estableciéndose que cualquier acuerdo en contrario de esa disposición, será nulo. En caso de viaje deberá recabarse por escrito el permiso del otro cónyuge, si hay conflicto el Juez lo resolverá.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 17.
 
-El divorcio por mutuo consentimiento no puede pedirse sino pasado un año de la celebración del matrimonio.
+El divorcio por mutuo consentimiento podrá solicitarse en cualquier momento del matrimonio.
 
 ###### ARTICULO 18.
 
@@ -199,29 +231,41 @@ Son causas de divorcio:
 
 I.- El adulterio debidamente probado de uno de los cónyuges;
 
-II.- El hecho de que la mujer dé a luz, durante el matrimonio, un hijo concebido antes de celebrarse este contrato y que judicialmente sea declarado ilegítimo;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
+II.- El hecho de que la mujer dé a luz, durante el matrimonio, un hijo concebido antes de celebrarse este contrato;
 
 III.- La propuesta del marido para prostituir a su mujer, no solo cuando el mismo marido la haya hecho directamente, sino cuando se pruebe que ha recibido dinero o cualquiera remuneración con el objeto expreso de permitir que otro tenga relaciones carnales con su mujer;
 
-IV.- La incitación o la violencia hecha por un cónyuge al otro o hacia los hijos para cometer algún delito, aunque no sea de incontinencia carnal;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
-V.- Los actos inmorales ejecutados por el marido o por la mujer, con el fin de corromper a los hijos, ya sean éstos de ambos, o de uno solo de ellos; así como la tolerancia en su corrupción consistente en actos comisivos y omisivos;
+IV.- La incitación o la violencia hecha por un cónyuge al otro o hacia los hijos para cometer algún delito;
 
-VI.- Padecer cualquier enfermedad crónica o incurable que sea, además, contagiosa o hereditaria y la impotencia sexual incurable que sobrevenga después de celebrado el matrimonio;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
-VII.- Padecer enajenación mental incurable, previa declaración de interdicción que se haga respecto del cónyuge demente;
+V.- Las conductas orientadas a corromper a los hijos, ya sean éstos de ambos, o de uno solo de ellos; así como la tolerancia en su corrupción;
 
-VIII.- El abandono del domicilio conyugal por más de seis meses sin causa justificada;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
+VI.- Padecer cualquier enfermedad crónica o incurable que sea, siempre que no tenga su origen en la edad avanzada;
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
+VII.- Padecer enajenación mental incurable, previa declaración de interdicción;
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
+VIII.- El abandono del domicilio conyugal por más de dos meses sin causa justificada;
 
 IX.- La declaración de ausencia legalmente hecha, o la de presunción de muerte, en los casos de excepción, en que no se necesita para que se haga ésta que preceda la declaración de ausencia;
 
-> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 1999)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
-X.- Las conductas de violencia intrafamiliar en los términos de lo dispuesto por el artículo 27 bis del Código Civil para el Estado de Guerrero, así como el incumplimiento injustificado de las determinaciones de las autoridades administrativas o judiciales tendientes a corregir las conductas de violencia intrafamiliar realizadas contra el cónyuge o los hijos.
+X.- Las conductas de violencia familiar, en los términos de lo dispuesto por el artículo 27 BIS del Código Civil para el Estado de Guerrero, así como el incumplimiento injustificado de las determinaciones de las autoridades administrativas o judiciales tendientes a corregir las conductas de violencia familiar realizadas contra el otro, cónyuge o los hijos e hijas;
 
-> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 1999)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
-XI.- La negativa injustificada de los cónyuges a cumplir con las obligaciones señaladas en el artículo 425 del Código Civil sin que sea necesario agotar previamente los procedimientos, sin justa causa, por alguno de los cónyuges de la sentencia ejecutoriada en el caso del artículo 428 del Código Civil;
+XI.- La negativa injustificada de los cónyuges a colaborar en las actividades domésticas y en el cuidado de los hijos e hijas, o a no cumplir con las obligaciones relativas al sostenimiento del hogar;
 
 XII.- La acusación calumniosa hecha por un cónyuge contra el otro, por el delito que merezca pena corporal o alternativa;
 
@@ -233,9 +277,13 @@ XV.- Cometer un cónyuge contra la persona o los bienes del otro, un acto que se
 
 XVI.- La separación de los cónyuges por más de un año independientemente del motivo que haya originado la separación, la cual podrá ser invocada por cualesquiera de ellos;
 
-XVII.- La incompatibilidad permanente de caracteres;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
-XVIII.- Cometer un cónyuge contra sus descendientes, ascendientes o parientes colaterales, cualquier acto de carácter sexual.
+XVII.- La incompatibilidad de caracteres; y
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
+XVIII.- Cometer un cónyuge contra sus descendientes, ascendientes o parientes colaterales, cualquier acto de violencia sexual.
 
 ###### ARTICULO 28.
 
@@ -285,15 +333,17 @@ Los hijos deberán quedar al cuidado de la cónyuge, salvo que decline ésta pre
 
 VII.- Dictar las medidas precautorias que la Ley establece para la mujer que quede encinta.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 36.
 
-La sentencia de divorcio fijará la situación de los hijos, para lo cual el Juez gozará de las más amplias facultades para resolver todo lo relativo a los derechos y obligaciones inherentes a la patria potestad, su pérdida, suspensión o limitación, según el caso, y en especial a la custodia y al cuidado de los hijos, debiendo obtener los elementos de juicio necesarios para ello. El Juez observará las normas previstas en el Código Civil para los fines de llamar al ejercicio de la patria Potestad a quien legalmente tenga derecho a ello en su caso, o de designar tutor.
+La sentencia de divorcio fijará la situación de los hijos e hijas, para lo cual el Juez gozará de las más amplias facultades para resolver todo lo relativo a los derechos y obligaciones inherentes a la patria potestad, su pérdida, suspensión o limitación, según el caso, y en especial a la custodia y al cuidado de los hijos, debiendo obtener los elementos de juicio necesarios para ello. El Juez observará las normas previstas en el Código Civil para los fines de llamar al ejercicio de la patria potestad a quien legalmente tenga derecho a ello en su caso, o de designar tutor.
 
-El Juez podrá modificar esta decisión atento a lo dispuesto en los artículos 422, 423 y 444, fracción III del Código Civil.
+El Juez podrá modificar esta decisión atento a lo dispuesto en los artículos 422 y 444 del Código Civil.
 
 ###### ARTICULO 37.
 
-Si ambos cónyuges son culpables del divorcio, ninguno tendrá derecho a percibir alimentos del otro, independientemente del derecho de los hijos en este renglón y en los términos del artículo 40 de esta Ley.
+(DEROGADO, P.O. 21 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 38.
 
@@ -311,25 +361,125 @@ Ejecutoriado el divorcio, se procederá desde luego a la división de los bienes
 
 En virtud del divorcio, los cónyuges recobrarán su entera capacidad para contraer nuevo matrimonio.
 
-El cónyuge que haya dado causa al divorcio, no podrá volver a casarse, sino después de dos años, a contar desde que se decretó el divorcio.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
-Para que los cónyuges que se divorcien voluntariamente puedan volver a contraer matrimonio, es indispensable que haya transcurrido un año desde que obtuvieron el divorcio.
+> <small>(DEROGADO TERCER PARRAFO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 42.
 
 La muerte de uno de los cónyuges pone fin al juicio de divorcio, y los herederos del muerto tienen los mismos derechos y obligaciones que tendrían si no hubiere existido dicho juicio.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 43.
 
-Ejecutoriada una sentencia de divorcio, el Juez de Primera Instancia remitirá copia de ella al Juez del Registro Civil ante quien se celebró el matrimonio, para que levante el acta correspondiente y, además para que publiquen un extracto de la resolución, durante quince días, en las tablas destinadas al efecto.
+Ejecutoriada la sentencia de divorcio, el Juez de Primera Instancia remitirá copia de ella a la Coordinación Técnica del sistema Estatal del Registro Civil y al Oficial del Registro Civil ante quien se celebró el matrimonio, para efecto de que se realice la anotación marginal correspondiente en el acta de matrimonio respectivo, y para que este último realice el registro correspondiente y además, para que publique un extracto de la resolución durante quince días, en las tablas destinadas al efecto.
 
 ## TITULO VI
 
 PROCEDIMIENTO PARA LA TRAMITACION DEL DIVORCIO NECESARIO.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 44.
 
-Para los efectos de la tramitación del juicio de divorcio necesario, se seguirán las reglas y términos procesales señalados en el Título VII del Código de Procedimientos Civiles vigente en el Estado.
+Para los efectos de la tramitación del juicio de divorcio necesario, se seguirán las reglas y términos procesales señalados en la presente Ley.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
+###### ARTICULO 45.
+
+El divorcio necesario sólo podrá demandarse por los cónyuges, en base a las causales establecidas en la presente Ley.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
+###### ARTICULO 46.
+
+El cónyuge menor de edad que solicite el divorcio necesario será asistido por cualquiera de sus padres o en su caso de un tutor.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
+###### ARTICULO 47.
+
+Se presentará la demanda por escrito, acompañándolos documentos en que funde su acción.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
+###### ARTICULO 48.
+
+Una vez admitida la demanda, en un plazo no mayor a quince días el juzgador deberá recabar, de oficio, los medios de prueba que sean útiles para decidir sobre las cuestiones de la controversia.
+
+Este procedimiento desde la presentación de la demanda hasta que se dicte sentencia no podrá tener una duración mayor a un año.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
+###### ARTICULO 49.
+
+El demandado tendrá un plazo de ochos días para contestar la demanda, acompañando las pruebas que considere.
+
+Cuando transcurrido el plazo para contestar la demanda el demandado no lo hiciere, se presumirán admitidos los hechos de la demanda que se dejo de contestar.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
+###### ARTICULO 50.
+
+Contestada la demanda se fijará la litis y se abrirá el juicio a prueba, en un plazo de quince días; aunque medie confesión o allanamiento se abrirá el juicio a prueba.
+
+El juzgador podrá solicitar la identificación de las partes cuando lo considere necesario.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
+###### ARTICULO 51.
+
+Las acciones sobre nulidad de matrimonio y divorcio pueden acumularse. Si se declara la nulidad, la sentencia a se abstendrá de resolver sobre el divorcio.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
+###### ARTICULO 52.
+
+La instancia concluirá sin sentencia, cuando:
+
+I. Hubiere inactividad total de las partes en el proceso por más de tres meses;
+
+II. Por la reconciliación de los cónyuges; y
+
+III. Por la muerte de uno de los cónyuges.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
+###### ARTICULO 53.
+
+La sentencia, en los juicios de divorcio necesario resolverá de oficio lo relativo al cuidado de los hijos, patria potestad, división de los bienes comunes, alimentos de los cónyuges y de los hijos, aunque las partes no lo hayan pedido.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
+###### ARTICULO 54.
+
+La sentencia definitiva es apelable en el efecto suspensivo, por lo que no podrá ejecutarse hasta que la apelación se decida, excepto en lo que se refiera a pensión alimenticia.
+
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULO QUE LO INTEGRAN, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
+## TITULO VII. DE LOS PRINCIPIOS A OBSERVARSE EN LOS PROCEDIMIENTOS DE DIVORCIO
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA. P.O. 21 DE DICIEMBRE DE 2010)</small>
+
+### CAPITULO UNICO
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
+###### ARTICULO 55.
+
+Para los procedimientos previstos en la presente Ley, se observarán los principios siguientes:
+
+I. No discriminación y respeto a la dignidad de las personas. El juzgador en todo momento deberá evitar conductas encaminada (sic) a impedir, limitar o negar el ejercicio de un derecho de las personas que participen en un proceso, por razón del sexo, pertenencia étnica, discapacidad, preferencia sexual o cualquier otra que atente contra la dignidad de, las personas;
+
+II. Interés superior de la infancia. El juzgador tratándose de procedimientos que involucren a menores de edad, deberá garantizarles a éstos sus derechos, procurando su bienestar e integridad física y emocional;
+
+III. Igualdad entre hombres y mujeres. El juzgador deberá garantizar la igualdad jurídica de las partes en el proceso, reconociendo las diferencias sociales, culturales y económicas existentes entre mujeres y hombres;
+
+IV. Economía procesal. El juzgador tomará de oficio las medidas tendientes a evitar la paralización de un proceso y adelantar su trámite, con la mayor celeridad posible, así mismo podrá concentrar las diligencias cuando lo considere conveniente; y
+
+V. Gratuidad. El trámite de cualquier procedimiento que regula este Título, no generará costas judiciales, el tribunal deberá dictar las medidas necesarias a fin de evitarle a las partes gastos innecesarios.
 
 T R A N S I T O R I O S
 
@@ -376,3 +526,15 @@ Rúbrica.
 P.O. 9 DE NOVIEMBRE DE 1999.
 
 PRIMERO.- El presente Decreto que reforma, adiciona y deroga diversas disposiciones del Código Penal del Estado de Guerrero; del Código de Procedimientos Penales para el Estado de Guerrero; del Código Civil del Estado de Guerrero; del Código Procesal Civil del Estado Libre y Soberano de Guerrero; de la Ley de Divorcio del Estado de Guerrero; y de la Ley Orgánica del Poder Judicial del Estado de Guerrero, entrará en vigor al día siguiente despues de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 21 DE DICIEMBRE DE 2010.
+
+DECRETO NUMERO 496 POR EL QUE SE REFORMA EL ARTICULO 43 DE LA LEY DE DIVORCIO DEL ESTADO LIBRE Y SOBERANO DE GUERRERO.
+
+ÚNlCO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+P.O. 21 DE DICIEMBRE DE 2010.
+
+DECRETO NUMERO 499 POR EL QUE SE REFORMA, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE DIVORCIO DEL ESTADO LIBRE Y SOBERANO DE GUERRERO.
+
+ÚNICO.- El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico oficial del Gobierno del Estado de Guerrero.
