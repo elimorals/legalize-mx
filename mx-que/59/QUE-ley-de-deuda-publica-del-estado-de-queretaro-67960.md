@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-deuda-publica-del-estado-de-queretaro-67960"
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-20"
-last_updated: "2009-10-14"
+last_updated: "2010-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67960&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE DEUDA PUBLICA DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE OCTUBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 20 de marzo de 2009.
 
@@ -81,7 +81,11 @@ V. Obligaciones Contingentes: Compromisos derivados de los empréstitos que cont
 
 Corresponde a la Legislatura:
 
-I. Autorizar la contratación de empréstitos a los sujetos de la presente Ley;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
+I. Autorizar la contratación de empréstitos a los sujetos de la presente Ley, hasta por los montos máximos previstos en la ley de ingresos aplicable, así como el ejercicio de montos y conceptos de endeudamientos no previstos o adicionales a los autorizados en la ley de ingresos respectiva.
+
+Asimismo, la Legislatura del Estado, podrá autorizar mediante Decretos, esquemas globales de financiamiento a favor de todos los municipios del estado, cuando medie propuesta por parte del Poder Ejecutivo del Estado y cuando menos un municipio, o dos o más municipios conjuntamente, a través de la afectación de aportaciones federales susceptibles de afectarse de conformidad con la legislación aplicable como garantía y/o fuente de pago de los financiamientos que respectivamente contraten, incluyendo el mecanismo, el cual se podrá constituir por conducto de la Secretaría, en el entendido de que, cuando sea a través de fideicomiso, este podrá captar la totalidad de las aportaciones susceptibles de afectarse de conformidad con la legislación aplicable y el mismo no será considerado parte de la administración pública paraestatal ni paramunicipal. A dichos esquemas se podrán adherir a los municipios que así lo consideren conveniente y obtengan la autorización de sus respectivos Ayuntamientos;
 
 II. Autorizar al Poder Ejecutivo del Estado o al ayuntamiento respectivo, para que intervengan como aval o deudor solidario, previa solicitud de los mismos, de los empréstitos que contraten los sujetos de esta Ley;
 
@@ -125,7 +129,17 @@ VIII. Autorizar a las entidades de carácter estatal, señaladas en las fraccion
 
 IX. Emitir opinión, tratándose de los empréstitos que pretendan contratar los municipios y sus entidades; y
 
-X. Llevar el Registro Estatal de Deuda Pública, en los términos de la presente Ley.
+X. Llevar el Registro Estatal de Deuda Pública, en los términos de la presente Ley;
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
+XI. Afectar previa autorización de la Legislatura del Estado, como fuente y/o garantía de pago de los financiamientos que contrate el Poder Ejecutivo del Estado, los ingresos que obtenga por las participaciones y/o aportaciones federales que le correspondan y que pueda utilizar para ese fin, de conformidad con lo dispuesto por la legislación aplicable, así como de celebrar los actos jurídicos a través de los cuales se formalicen los mecanismos legales de garantía o pago de dichos financiamientos.
+
+A los mecanismos constituidos por la Secretaría, podrán adherirse los municipios para instrumentar la garantía o fuente de pago de los financiamientos que estos contraten, con la afectación de las aportaciones federales que respectivamente les correspondan y de las que puedan disponer para ese fin, de conformidad a la legislación aplicable; y
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
+XII. Realizar, previa instrucción de los Ayuntamientos, pagos por cuenta de los mismos, con cargo a los ingresos de las aportaciones federales que le correspondan y que puedan utilizar para ese fin, de conformidad con lo dispuesto en la legislación aplicable.
 
 ### Capítulo Tercero. De la contratación, garantías y avales
 
@@ -340,3 +354,9 @@ P.O. 14 DE OCTUBRE DE 2009.
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
 
 Artículo Segundo. Remítase al titular del Poder Ejecutivo del Estado, para su debida publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+P.O. 21 DE DICIEMBRE DE 2010.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
