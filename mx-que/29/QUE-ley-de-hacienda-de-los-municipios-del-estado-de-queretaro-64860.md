@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-hacienda-de-los-municipios-del-estado-de-queretaro-64860
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-02"
-last_updated: "2009-12-23"
+last_updated: "2010-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64860&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "QUE"
 ---
 # LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUERETARO
 
-LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUERETARO
+LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUERÉTARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el martes 2 de diciembre de 2008.
 
@@ -43,7 +43,7 @@ LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUERÉTARO
 
 La presente Ley es de orden público y de observancia general; tiene por objeto regular la hacienda pública de los municipios del Estado de Querétaro y la totalidad de sus ingresos, por los conceptos contenidos en esta Ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2009)</small>
 
@@ -213,9 +213,9 @@ b) Una vez el salario mínimo diario general vigente del Estado, quienes cumplan
 
 c) El cincuenta por ciento del total de este impuesto, quienes cumplan con los requisitos a que se refieren los artículo a) al d) del artículo 24 de la presente Ley y perciban más de tres salarios mínimos vigentes de la zona económica correspondiente por día.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO PRIMERO TRANSITORIO DE LA LEY QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DE LA LEY QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 26.
 
@@ -347,15 +347,23 @@ En los casos de fusión de predios, cuando se haya hecho el pago anual anticipad
 
 El pago del impuesto al hacerse por anualidad anticipada, durante el primer bimestre de cada año, tendrá las siguientes reducciones:
 
-a) Del veinte por ciento sobre la cantidad total que le corresponda pagar, en caso de que el pago se efectúe en el mes de enero.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
-b) Del ocho por ciento sobre la cantidad total que le corresponda pagar, en caso de que el pago se efectúe en el mes de febrero.
+a) Hasta el veinte por ciento sobre la cantidad total que le corresponda pagar, en caso de que el pago se efectúe en el mes de enero.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
+b) Hasta el ocho por ciento sobre la cantidad total que le corresponda pagar, en caso de que el pago se efectúe en el mes de febrero.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
+Los ayuntamientos mediante acuerdo determinarán el porcentaje de reducción aplicable a cada ejercicio fiscal sin que excedan de los porcentajes señalados en el presente artículo.
 
 Se exceptúan de lo dispuesto en el presente artículo, los predios de fraccionamientos en proceso de ejecución.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO PRIMERO TRANSITORIO DE LA LEY QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DE LA LEY QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(DEROGADO ULTIMO PARRAFO, P.O. 23 DE OCTUBRE DE 2009)</small>
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 23 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 41.
 
@@ -1533,6 +1541,14 @@ El pago de rentas de locales en mercados y zonas de comercio en la vía pública
 
 También podrá hacerse la recaudación mediante tarjetones impresos, que obrarán en poder de los locatarios y en los que diariamente se hará la anotación por las personas autorizadas para tal efecto por los municipios, de haberse efectuado el pago. Al finalizar el mes, los indicados tarjetones se entregarán a la dependencia encargada de las finanzas públicas municipales, para comprobar la corrección de los ingresos diarios que, mediante el recibo oficial correspondiente, hayan amparado la entrega de las personas autorizadas para tal efecto por los municipios.
 
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 164 Bis.
+
+Por el uso e instalación de canalizaciones subterráneas, en relación al metro lineal, para la prestación del servicio de gas y por la instalación del número de casetas telefónicas en la vía pública, así como por la instalación del número de postes en la vía pública para energía eléctrica, telefonía y similares, se causará y pagará conforme a lo establecido en la Ley de Ingresos de cada municipio.
+
+Este producto se deberá cubrir por las personas que instalen dichos muebles, previa autorización de la autoridad municipal correspondiente.
+
 ### Capítulo Segundo. De los productos financieros
 
 ###### Artículo 165.
@@ -1725,7 +1741,7 @@ Artículo Primero. La presente Ley entrará en vigor al día siguiente al de su 
 
 Artículo Segundo. Se abroga la Ley de Hacienda de los Municipios del Estado de Querétaro Arteaga y la Ley del Impuesto Predial de los Municipios del Estado de Querétaro, publicadas en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga", número 51, de fecha 13 de noviembre de 2002.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO ARTICULO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2009)</small>
 
@@ -1733,7 +1749,7 @@ Artículo Tercero. Los ayuntamientos del Estado de Querétaro, para el ejercicio
 
 Se exceptúan de lo anterior, aquellos inmuebles que hayan incrementado su valor por sufrir modificaciones físicas, cambio de uso de suelo o cambio de situación jurídica.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO ARTICULO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2009)</small>
 
@@ -1775,7 +1791,7 @@ Secretario de Gobierno
 
 Rúbrica
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LAS LEYES DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LAS LEYES DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 23 DE OCTUBRE DE 2009.
 
@@ -1787,7 +1803,7 @@ Artículo Tercero. Publíquese la presente Ley en el Periódico Oficial del Gobi
 
 P.O. 23 DE DICIEMBRE DE 2009.
 
-LEY POR LA QUE SE REFORMA EL ARTICULO 2 DE LA LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUERETARO.
+LEY POR LA QUE SE REFORMA EL ARTÍCULO 2 DE LA LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUERÉTARO.
 
 Artículo Primero. Las disposiciones de vigencia anual relativas a la Ley de Hacienda del Estado de Querétaro, para el ejercicio fiscal 2010, serán las siguientes:
 
@@ -1907,8 +1923,14 @@ Artículo Cuarto. Publíquese en el Periódico Oficial del Gobierno del Estado "
 
 P.O. 23 DE DICIEMBRE DE 2009.
 
-LEY POR LA QUE SE ADICIONAN LOS ARTICULOS TERCERO Y CUARTO TRANSITORIOS A LA LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUERETARO.
+LEY POR LA QUE SE ADICIONAN LOS ARTÍCULOS TERCERO Y CUARTO TRANSITORIOS A LA LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUERÉTARO.
 
 Artículo Primero. La presente Ley entrará en vigor a partir del 01 de enero de 2010; envíese al titular del Poder Ejecutivo del Estado de Querétaro para su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
 
 Artículo Segundo. Se derogan todas las disposiciones legales que se opongan a la presente Ley.
+
+P.O. 21 DE DICIEMBRE DE 2010.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
