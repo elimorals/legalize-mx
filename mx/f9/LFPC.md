@@ -4,7 +4,7 @@ identifier: "LFPC"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1992-12-24"
-last_updated: "2010-11-30"
+last_updated: "2010-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,6 +23,8 @@ abbreviation: "LFPC"
 LEY FEDERAL DE PROTECCION AL CONSUMIDOR
 
 ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE NOVIEMBRE DE 2010.
+
+ULTIMA ACTUALIZACION POR ACUERDO EXPEDIDO POR LA PROCURADURIA FEDERAL DEL CONSUMIDOR PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 24 de diciembre de 1992.
 
@@ -392,15 +394,15 @@ I. Apercibimiento;
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL ACUERDO QUE MODIFICA LA LEY.</small>
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 21 DE DICIEMBRE DE 2009)
+(ACTUALIZADA EN SU MONTO, D.O.F. 21 DE DICIEMBRE DE 2010)
 
-II. Multa de $190.64 a $19,064.70;
+II. Multa de $198.87 a $19,887.70;
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL ACUERDO QUE MODIFICA LA LEY.</small>
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 21 DE DICIEMBRE DE 2009)
+(ACTUALIZADA EN SU MONTO, D.O.F. 21 DE DICIEMBRE DE 2010)
 
-III. En caso de que persista la infracción podrán imponerse nuevas multas por cada día que transcurra sin que se obedezca el mandato respectivo, hasta por $7,625.88, y
+III. En caso de que persista la infracción podrán imponerse nuevas multas por cada día que transcurra sin que se obedezca el mandato respectivo, hasta por $7,955.08, y
 
 IV. El auxilio de la fuerza pública.
 
@@ -1338,9 +1340,9 @@ IV. Señalar el lugar o forma en que solicita se desahogue su reclamación.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL ACUERDO QUE MODIFICA LA LEY.</small>
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 21 DE DICIEMBRE DE 2009)
+(ACTUALIZADO EN SU MONTO, D.O.F. 21 DE DICIEMBRE DE 2010)
 
-Las reclamaciones de las personas físicas o morales a que se refiere la fracción primera del artículo 2 de esta ley, que adquieran, almacenen, utilicen o consuman bienes o servicios con objeto de integrarlos en procesos de producción, transformación, comercialización o prestación de servicios a terceros, serán procedentes siempre que el monto de la operación motivo de la reclamación no exceda de $381,294.10.
+Las reclamaciones de las personas físicas o morales a que se refiere la fracción primera del artículo 2 de esta ley, que adquieran, almacenen, utilicen o consuman bienes o servicios con objeto de integrarlos en procesos de producción, transformación, comercialización o prestación de servicios a terceros, serán procedentes siempre que el monto de la operación motivo de la reclamación no exceda de $397,754.11.
 
 La Procuraduría podrá solicitar a las autoridades federales, estatales, municipales o del Distrito Federal, que le proporcionen los datos necesarios para identificar y localizar al proveedor. Las autoridades antes señaladas deberán contestar la solicitud dentro de los quince días siguientes a la fecha de su presentación.
 
@@ -1594,9 +1596,9 @@ La Procuraduría podrá actuar como árbitro entre consumidores y proveedores cu
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL ACUERDO QUE MODIFICA LA LEY.</small>
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 21 DE DICIEMBRE DE 2009)
+(ACTUALIZADO EN SU MONTO, D.O.F. 21 DE DICIEMBRE DE 2010)
 
-Cuando se trate de aquellas personas físicas o morales a que se refiere la fracción primera del artículo 2 de esta ley, que adquieren, almacenen, utilicen o consuman bienes o servicios con objeto de integrarlos en procesos de producción, transformación, comercialización o prestación de servicios a terceros, la Procuraduría podrá fungir como árbitro siempre que el monto de lo reclamado no exceda de $381,294.10.
+Cuando se trate de aquellas personas físicas o morales a que se refiere la fracción primera del artículo 2 de esta ley, que adquieren, almacenen, utilicen o consuman bienes o servicios con objeto de integrarlos en procesos de producción, transformación, comercialización o prestación de servicios a terceros, la Procuraduría podrá fungir como árbitro siempre que el monto de lo reclamado no exceda de $397,754.11
 
 ###### ARTICULO 118.
 
@@ -1658,33 +1660,33 @@ Las infracciones a lo dispuesto en esta ley serán sancionadas por la Procuradur
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL ACUERDO QUE MODIFICA LA LEY.</small>
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 21 DE DICIEMBRE DE 2009)
+(ACTUALIZADO EN SU MONTO, D.O.F. 21 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 126.
 
-Las infracciones a lo dispuesto por los artículos 8 BIS, 11, 15, 16 y demás disposiciones que no estén expresamente mencionadas en los artículos 127 y 128, serán sancionadas con multa de $190.64 a $610,070.56.
+Las infracciones a lo dispuesto por los artículos 8 BIS, 11, 15, 16 y demás disposiciones que no estén expresamente mencionadas en los artículos 127 y 128, serán sancionadas con multa de $198.87 a $636,406.58.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL ACUERDO QUE MODIFICA LA LEY.</small>
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 21 DE DICIEMBRE DE 2009)
+(ACTUALIZADO EN SU MONTO, D.O.F. 21 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 127.
 
-Las infracciones a lo dispuesto por los artículos 7 BIS, 13, 17, 18 BIS, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 45, 47, 48, 49, 50, 52, 53, 54, 55, 57, 58, 59, 60, 61, 62, 66, 67, 68, 69, 70, 72, 75, 77, 78, 79, 81, 82, 85, 86 QUATER, 87 BIS, 90, 91, 93, 95 y 113 serán sancionadas con multa de $381.30 a $1'220,141.12.
+Las infracciones a lo dispuesto por los artículos 7 BIS, 13, 17, 18 BIS, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 45, 47, 48, 49, 50, 52, 53, 54, 55, 57, 58, 59, 60, 61, 62, 66, 67, 68, 69, 70, 72, 75, 77, 78, 79, 81, 82, 85, 86 QUATER, 87 BIS, 90, 91, 93, 95 y 113 serán sancionadas con multa de $397.76 a $1'272,813.16.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL ACUERDO QUE MODIFICA LA LEY.</small>
 
-(REFORMADO, D.O.F. 29 DE ENERO DE 2009) (ACTUALIZADO EN SU MONTO, D.O.F. 21 DE DICIEMBRE DE 2009)
+(REFORMADO, D.O.F. 29 DE ENERO DE 2009) (ACTUALIZADO EN SU MONTO, D.O.F. 21 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 128.
 
-Las infracciones a lo dispuesto por los artículos 7, 8, 10, 12, 44, 63, 63 BIS, 63 TER, 63 QUINTUS, 65, 65 BIS, 73, 73 BIS, 73 TER, 73 QUÁTER, 73 QUINTUS, 74, 76 BIS, 80, 86 BIS, 87, 87 TER, 92, 92 TER, 98 BIS y 121 serán sancionadas con multa de $571.94 a $2'236,925.40.
+Las infracciones a lo dispuesto por los artículos 7, 8, 10, 12, 44, 63, 63 BIS, 63 TER, 63 QUINTUS, 65, 65 BIS, 73, 73 BIS, 73 TER, 73 QUÁTER, 73 QUINTUS, 74, 76 BIS, 80, 86 BIS, 87, 87 TER, 92, 92 TER, 98 BIS y 121 serán sancionadas con multa de $596.63 a $2'333,490.80.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL ACUERDO QUE MODIFICA LA LEY.</small>
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 21 DE DICIEMBRE DE 2009)
+(ACTUALIZADO EN SU MONTO, D.O.F. 21 DE DICIEMBRE DE 2010)
 
-ARTICULO 128 BIS.- En casos particularmente graves, la Procuraduría podrá sancionar con clausura total o parcial, la cual podrá ser hasta de noventa días y con multa de $114,388.23 a $3'202,870.46.
+ARTICULO 128 BIS.- En casos particularmente graves, la Procuraduría podrá sancionar con clausura total o parcial, la cual podrá ser hasta de noventa días y con multa de $119,326.23 a $3'341,134.55.
 
 > <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
@@ -1774,9 +1776,9 @@ En ningún caso será sancionado el mismo hecho constitutivo de la infracción e
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL ACUERDO QUE MODIFICA LA LEY.</small>
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 21 DE DICIEMBRE DE 2009)
+(ACTUALIZADO EN SU MONTO, D.O.F. 21 DE DICIEMBRE DE 2010)
 
-Cuando por un mismo hecho u omisión se cometan varias infracciones a las que esta ley imponga una sanción, el total de las mismas no deberá rebasar de $6'405,740.92.
+Cuando por un mismo hecho u omisión se cometan varias infracciones a las que esta ley imponga una sanción, el total de las mismas no deberá rebasar de $6'682,269.10.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 19 DE AGOSTO DE 2010)</small>
 
@@ -2065,3 +2067,13 @@ Segundo.- A los procedimientos iniciados antes de la publicación del presente D
 D.O.F. 30 DE NOVIEMBRE DE 2010.
 
 Único.- El presente Decreto entrará en vigor a los noventa días de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 21 DE DICIEMBRE DE 2010.
+
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA, A CONTINUACION SE TRANSCRIBE EL ARTICULO NOVENO DEL ACUERDO POR EL QUE SE ACTUALIZAN LOS MONTOS.</small>
+
+NOVENO.- Las actualizaciones a que se refiere el presente Acuerdo estarán vigentes del 1 de enero al 31 de diciembre de 2011.
+
+## TRANSITORIO
+
+UNICO.- El presente Acuerdo entrará en vigor el 1 de enero de 2011.
