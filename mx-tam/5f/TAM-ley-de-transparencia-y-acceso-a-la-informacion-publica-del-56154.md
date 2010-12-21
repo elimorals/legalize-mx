@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-5615
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-05"
-last_updated: "2009-11-04"
+last_updated: "2010-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56154&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE NOVIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el jueves 5 de julio de 2007.
 
@@ -233,7 +233,9 @@ V. Lista general del personal, distinguiéndose la naturaleza de su relación de
 
 VI. Lista general de jubilados y pensionados, incluyendo el monto de la pensión que perciban;
 
-VII. Presupuesto autorizado y avance de su ejercicio por trimestre;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
+VII. Presupuesto autorizado y avance de su ejercicio por trimestre, así como los montos asignados a los grupos parlamentarios, señalando los criterios de su asignación, el tiempo de ejecución, los mecanismos de evaluación y los responsables de su recepción y ejecución final;
 
 VIII. Estado de los ingresos y egresos;
 
@@ -1219,7 +1221,7 @@ i) Según sea el caso, la firma del promovente o su huella digital y firma de la
 
 ###### ARTÍCULO 75.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE NOVIEMBRE DE 2009)</small>
 
 Una vez recibido el recurso de revisión por el Instituto, dentro del término de cinco días hábiles solicitará a la Unidad responsable el respectivo informe circunstanciado, el cual deberá contener:
 
@@ -1439,10 +1441,16 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 
 ATENTAMENTE.- SUFRAGIO EFECTIVO. NO REELECCIÓN.- GOBERNADOR CONSTITUCIONAL DEL ESTADO.- EUGENIO HERNÁNDEZ FLORES.- Rúbrica.- SECRETARIO GENERAL DE GOBIERNO.- ANTONIO MARTÍNEZ TORRES.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 4 DE NOVIEMBRE DE 2009.
 
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE DICIEMBRE DE 2010.
+
+###### ARTICULO UNICO.
+
+El presente Punto de Acuerdo entrará en vigor el siguiente día al de de (sic) su publicación en el Periódico Oficial del Estado.
