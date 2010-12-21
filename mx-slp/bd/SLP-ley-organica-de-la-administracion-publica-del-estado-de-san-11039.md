@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-de-la-administracion-publica-del-estado-de-san-110
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-10-24"
-last_updated: "2009-12-22"
+last_updated: "2010-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11039&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE DICIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 2010.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el viernes 24 de octubre de 1997.
 
@@ -617,7 +617,9 @@ I. Instrumentar anualmente su programa de operación, el cual será sometido a l
 
 II. Establecer y aplicar la política de desarrollo del transporte en el Estado, y formular el programa estatal respectivo;
 
-III. Proponer la creación de nuevas áreas administrativas para el correcto cumplimiento de los objetivos planteados en el programa estatal del transporte;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
+III. Proponer la creación de nuevas áreas administrativas para el correcto cumplimiento de los objetivos planteados en el programa estatal del transporte, y lo concerniente al fortalecimiento de las comunicaciones del Estado;
 
 IV. Ejercer el presupuesto autorizado, así como vigilar su ejercicio de contabilidad;
 
@@ -641,9 +643,41 @@ XIII. Tramitar lo referente a la caducidad, rescisión, cancelación y modificac
 
 XIV. Fomentar la organización de sociedades que se dediquen al servicio de transporte público;
 
-XV. Proponer al titular del Ejecutivo para su aprobación, el Reglamento Interior de la Secretaría, y
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
-XVI. Las demás que le señalen las leyes y reglamentos vigentes en el Estado.
+XV. Proponer, al titular del Ejecutivo, para su aprobación, el Reglamento Interior de la Secretaría;
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
+XVI. Impulsar las comunicaciones en todo el Estado;
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
+XVII. Contribuir al mejoramiento del uso y aprovechamiento de las telecomunicaciones, de conformidad con la normatividad federal, entre la Federación, Estados y municipios, así como con la población en general;
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
+XVIII. Implementar y ejecutar las políticas de conectividad plasmadas en el Plan Estatal de Desarrollo;
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
+XIX. Coordinarse y celebrar convenios con la Federación, las Entidades Federativas o los municipios, así como con los sectores social y privado, para el desarrollo de las comunicaciones en el Estado;
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
+XX. Impulsar los sistemas de comunicación de cobertura social, en coordinación con instancias federales, estatales y municipales, así como con los sectores social y privado;
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
+XXI. Distribuir la red estatal de educación, salud y gobierno, de conformidad con los lineamientos establecidos por la propia Secretaría, y de acuerdo a los criterios normativos señalados por la autoridad Federal;
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
+XXII. Emitir la normatividad correspondiente para la distribución de la red estatal de educación, salud y gobierno; y las telecomunicaciones en la competencia de Entidad, así como la operación de las mismas, y
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
+XXIII. Las demás que señalen las leyes y reglamentos vigentes en el Estado.
 
 ###### ARTICULO 37.
 
@@ -1481,9 +1515,9 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO. La situación jurí dica (sic) de las personas que se encuentren compurgando una pena de prisión, por haber cometido un delito siendo menores de dieciocho años de edad, será resuelta sobre la base de las reformas al artí culo (sic) 18 de la Constitución Polí tica (sic) de los Estados Unidos Mexicanos, de la siguiente manera:
 
-El Juez Penal que conoció de la causa, remitirá el expediente correspondiente al Juez Especializado para que resuelva lo procedente.
+El Juez Penal que conoció de la causa, remitirá el expediente correspondiente al Juez de Ejecución para que resuelva lo procedente.
 
-CUARTO. El Juez o la Sala Penal que estén conociendo del proceso seguido en contra de personas menores de dieciocho años, por haber cometido un delito previsto por las leyes locales, o que lo cometieron cuando eran menores de dieciocho años, se declarará incompetente y enviará los autos al Juez de Ejecución, quien resolverá conforme al procedimiento establecido en la Ley de Justicia para Menores del Estado de San Luis Potosí.
+CUARTO. El Juez o la Sala Penal que estén conociendo del proceso seguido en contra de personas menores de dieciocho años, por haber cometido un delito previsto por las leyes locales, o que lo cometieron cuando eran menores de dieciocho años, se declarará incompetente y enviará los autos al Juez Especializado, quien resolverá conforme al procedimiento establecido en la Ley de Justicia para Menores del Estado de San Luis Potosí.
 
 La Sala Penal del Supremo Tribunal de Justicia que estéconociendo (sic) de recursos relacionados con menores de dieciocho años, o que hayan tenido menos de dieciocho años al momento de la comisión del ilí cito (sic) que se les atribuya, aplicará la Ley de Justicia para Menores del Estado de San Luis Potosí.
 
@@ -1530,3 +1564,9 @@ P.O. 22 DE DICIEMBRE DE 2009.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 21 DE DICIEMBRE DE 2010.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones legales que se opongan a este Decreto.
