@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-553-de-acceso-de-las-mujeres-a-una-vida-libre-de-614
 country: "mx"
 rank: "ley"
 publication_date: "2008-02-08"
-last_updated: "2008-02-08"
+last_updated: "2010-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61463&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NUMERO 553 DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 8 de febrero de 2008.
 
@@ -41,13 +41,17 @@ LEY NÚMERO 553 DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTAD
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 1.
 
-Las disposiciones contenidas en la presente ley son de orden público e interés social y tienen por objeto prevenir, atender, sancionar y erradicar la violencia contra las mujeres, así como establecer los principios, instrumentos y mecanismos, para garantizar su acceso a una vida libre de violencia que favorezca su desarrollo y bienestar.
+Las disposiciones contenidas en la presente ley son de orden público e interés social, y tienen por objeto prevenir, atender, sancionar y erradicar la violencia contra las mujeres, así como establecer los principios, instrumentos y mecanismos, para garantizar su acceso a una vida libre de violencia, que favorezca su desarrollo y bienestar.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 2.
 
-Las disposiciones contempladas en este ordenamiento deberán interpretarse de acuerdo a lo señalado en los principios consagrados en la Constitución Política de los Estados Unidos Mexicanos, en la Ley General de Acceso de las Mujeres a Una vida Libre de Violencia, en la legislación federal y local respectiva y en los instrumentos internacionales que protejan la integridad de las garantías y derechos humanos de las mujeres.
+Las disposiciones contempladas en este ordenamiento deberán interpretarse de acuerdo a lo señalado en los principios consagrados en la Constitución Política de los Estados Unidos Mexicanos, en la Ley General de Acceso de las Mujeres a una vida Libre de Violencia, en la legislación federal y local respectiva y en los instrumentos internacionales que protegen las garantías y derechos humanos de las mujeres.
 
 ###### ARTÍCULO 3.
 
@@ -59,67 +63,75 @@ Todas las observaciones y medidas que se deriven de la presente ley, garantizar�
 
 ### CAPÍTULO II. DE LAS DEFINICIONES
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 5.
 
-Para los efectos de la presente ley se entenderá por:
+Para los efectos de la presente Ley, se entenderá por:
 
-I. Ley General: Ley General de Acceso de las Mujeres a una vida libre de violencia;
+I. Acciones afirmativas: son las medidas especiales de carácter temporal, correctivo, compensatorio y de promoción, encaminadas a acelerar la igualdad entre hombres y mujeres; y
 
-II. Ley: La presente Ley de Acceso de las mujeres a una Vida Libre de Violencia del Estado de Guerrero;
+II. Alerta de violencia de género: es el conjunto de acciones gubernamentales de emergencia, derivadas de la declaratoria emitida por la autoridad competente para enfrentar y erradicar la violencia feminicida en un territorio determinado, ya sea ejercida por individuos o por la propia comunidad.
 
-III. Mujer: Persona del sexo femenino, independientemente de su edad;
+III. Derechos humanos de las mujeres: refiere a los derechos que son parte inalienable, integrante e indivisible de los derechos humanos universales contenidos en la Convención sobre la Eliminación de Todos (sic) las Formas de Discriminación contra la Mujer (CEDAW), la Convención sobre los Derechos de la Niñez, la Convención Interamericana para Prevenir, Sancionar y Erradicar la Violencia contra la Mujer (Belém do Pará) y demás instrumentos internacionales en la materia;
 
-IV. Derechos Humanos de las Mujeres: Refiere a los derechos que son parte inalienable, integrante e indivisible de los derechos humanos universales contenidos en la Convención sobre la Eliminación de Todos (sic) las Formas de Discriminación contra la Mujer (CEDAW), la Convención sobre los Derechos de la Niñez, la Convención Interamericana para Prevenir, Sancionar y Erradicar la Violencia contra la Mujer (Belem Do Pará) y demás instrumentos internacionales en la materia;
+IV. Estado de riesgo: es la característica de género, que implica la probabilidad de un ataque social, sexual o delictivo individual o colectivo, a partir de la construcción social de desigualdad, y que genera en las mujeres miedo, intimidación, incertidumbre o ansiedad, ante un evento predecible de violencia;
 
-V. Violencia contra las Mujeres: Cualquier acción u omisión, basada en su género, que les cause daño o sufrimiento psicológico, físico, patrimonial, económico, sexual o la muerte tanto en el ámbito privado como en el público;
+V. Estado de indefensión: la imposibilidad de defensa de las mujeres para responder o repeler cualquier tipo de agresión o violencia que se ejerza sobre ellas;
 
-VI. Violencia feminicida.- Es la forma extrema de violencia de género contra las mujeres, producto de la violación de sus derechos humanos, en los ámbitos público y privado, conformada por el conjunto de conductas misóginas que pueden conllevar impunidad social y de Estado y puede culminar en homicidio y otras formas de muerte violenta contra las mujeres;
+VI. Empoderamiento de las mujeres: es un proceso por medio del cual, las mujeres transitan de cualquier situación de opresión, desigualdad, discriminación, explotación o exclusión, a un estadío de conciencia, autodeterminación y autonomía, el cual se manifiesta en el ejercicio del poder democrático y en el goce pleno de los derechos y libertades;
 
-VII. Tolerancia de la Violencia: La acción o inacción permisiva de la sociedad o del Estado, que favorece la existencia de la violencia e incrementa la prevalencia de conductas abusivas y discriminatorias hacia las mujeres;
+VII. Homofobia: el odio hacia personas con preferencia homosexual;
 
-VIII. Estado de Riesgo: Es la característica de género, que implica la probabilidad de un ataque social, sexual o delictivo individual o colectivo, a partir de la construcción social de desigualdad y que genera en las mujeres miedo, intimidación, incertidumbre o ansiedad ante un evento impredecible de violencia;
+VIII. Ley: la presente Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Guerrero;
 
-IX. Estado de Indefensión: La imposibilidad de defensa de las mujeres para responder o repeler cualquier tipo de agresión o violencia que se ejerza sobre ellas;
+IX. Ley General: la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia;
 
-X. Órdenes de Protección: Son las medidas preventivas que se deben tomar, dictar y otorgar a las víctimas y receptoras de la violencia familiar para garantizar su seguridad y protección, así como la de terceros que pudiesen verse afectados por la dinámica de violencia;
+X. Lesiones infamantes: aquel daño corporal cuya visibilidad y exposición pública genere indignación, estupor e induzca al miedo, máxime cuando se presenta en zonas genitales;
 
-XI. Víctima: La mujer de cualquier edad a quien se le inflige cualquier tipo de violencia;
+XI. Misoginia: son conductas de odio hacia la mujer y se manifiestan en actos violentos y crueles contra ella, por el hecho de ser mujer;
 
-XII. Victima indirecta: familiares de la víctima y/o personas que tengan relación o convivencia con la misma, y que sufran o se encuentren en estado de riesgo por motivo de la violencia ejercida contra las mujeres;
+XII. Mujer: la persona del sexo femenino, independientemente de su edad;
 
-XIII. Persona Agresora: La persona que inflige cualquier tipo de violencia de género contra las mujeres y las niñas;
+XIII. Órdenes de protección: son las medidas preventivas que se deben tomar, dictar y otorgar a las víctimas y receptoras de la violencia familiar, para garantizar su seguridad y protección, así como la de terceros que pudiesen verse afectados por la dinámica de violencia;
 
-XIV. Refugios: son los centros o establecimientos constituidos por instituciones gubernamentales y por asociaciones civiles para la atención y protección de las mujeres y sus familias victimas de violencia;
+XIV. Perspectiva de género: es una visión científica, analítica y política sobre las mujeres y los hombres. Se propone eliminar las causas de la opresión de género, como la desigualdad, la injusticia y la jerarquización de las personas basada en el género. Promueve la igualdad entre los géneros, a través de la equidad, el adelanto y el bienestar de las mujeres; contribuye a construir una sociedad en donde las mujeres y los hombres tengan el mismo valor, la igualdad de derechos y oportunidades para acceder a los recursos económicos y a la representación política y social en los ámbitos de toma de decisiones;
 
-XV. Perspectiva de Género: Es una visión científica, analítica y política sobre las mujeres y los hombres. Se propone eliminar las causas de la opresión de género como la desigualdad, la injusticia y la jerarquización de las personas basada en el género. Promueve la igualdad entre los géneros a través de la equidad, el adelanto y el bienestar de las mujeres; contribuye a construir una sociedad en donde las mujeres y los hombres tengan el mismo valor, la igualdad de derechos y oportunidades para acceder a los recursos económicos y a la representación política y social en los ámbitos de toma de decisiones;
+XV. Persona agresora: la persona que infringe cualquier tipo de violencia de género contra las mujeres y las niñas;
 
-XVI. Empoderamiento de las Mujeres: Es un proceso por medio del cual las mujeres transitan de cualquier situación de opresión, desigualdad, discriminación, explotación o exclusión a un estadio de conciencia, autodeterminación y autonomía, el cual se manifiesta en el ejercicio del poder democrático y en el goce pleno de los derechos y libertades;
+XVI. Presupuestos con perspectiva de género: presupuestos que en su diseño, implementación y evaluación consideran los intereses necesidades y prioridades de mujeres y hombres. El objetivo primordial es la integración transversal de la política de género en planes, programas y acciones gubernamentales;
 
-XVII. Misoginia: Son conductas de odio hacia la mujer y se manifiesta en actos violentos y crueles contra ella por el hecho de ser mujer;
+XVII. Refugios: son los centros o establecimientos constituidos por instituciones gubernamentales y por asociaciones civiles, para la atención y protección de las mujeres y sus familias víctimas de violencia;
 
-XVIII. Lesiones Infamantes: Aquel daño corporal cuya visibilidad y exposición pública, genere indignación, estupor e induzca al miedo, máxime cuando se presenta en zonas genitales;
+XVIII. Tipos de Violencia: son los actos u omisiones que constituyen delito y dañan la dignidad, la integridad y la libertad de las mujeres;
 
-XIX. Homofobia: El odio irracional hacia personas con preferencia sexoafectiva homosexual;
+XIX. Tolerancia de la violencia: la acción o inacción permisiva de la sociedad o del Estado, que favorece la existencia de la violencia e incrementa la prevalencia de conductas abusivas y discriminatorias hacia las mujeres;
 
-XX. Presupuestos con perspectiva de género: presupuestos que en su diseño, implementación y evaluación consideran los intereses necesidades y prioridades de mujeres y hombres. El objetivo primordial es la integración, transversal de la política de género en planes, programas y acciones gubernamentales;
+XX. Víctima: la mujer de cualquier edad, a quien se le inflinge cualquier tipo de violencia;
 
-XXI. Acciones Afirmativas: Son las medidas especiales de carácter temporal, correctivo, compensatorio y de promoción encaminadas a acelerar la igualdad entre hombres y mujeres;
+XXI. Víctima indirecta: familiares de la víctima y/o personas que tengan relación o convivencia con la misma, y que sufran o se encuentren en estado de riesgo por motivo de la violencia ejercida contra las mujeres;
 
-XXII. Alerta de violencia de género. Es el conjunto de acciones gubernamentales de emergencia derivadas de la declaratoria emitida por la autoridad competente para enfrentar y erradicar la violencia feminicida en un territorio determinado ya sea ejercida por individuos o por la propia comunidad.
+XXII. Violencia contra las mujeres: cualquier acción u omisión, basada en su género, que les cause daño o sufrimiento psicológico, físico, patrimonial, económico, sexual o la muerte, tanto en el ámbito privado como en el público; y
+
+XXIII. Violencia feminicida: es la forma extrema de violencia de género contra las mujeres, producto de la violación de sus derechos humanos, en los ámbitos público y privado, conformado por el conjunto de conductas misóginas que pueden conllevar impunidad social y del Estado, y puede culminar en homicidio y otras formas de muerte violenta contra las mujeres.
 
 ## TÍTULO SEGUNDO (SIC)
 
 ### CAPÍTULO I. PRINCIPIOS Y FINES FUNDAMENTALES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 6.
 
-Los principios fundamentales de esta ley deberán ser adoptados en las diversas políticas públicas que articule el Estado y los municipios, y se basaran en:
+Los principios fundamentales de esta Ley deberán ser adoptados en las diversas políticas públicas, que articule el Estado y los municipios, y se basaran en:
 
 I. La igualdad jurídica entre hombres y mujeres;
 
 II. La no discriminación;
 
 III. El derecho a tener una vida libre de violencia;
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
 IV. La libertad de las mujeres;
 
@@ -167,9 +179,11 @@ XVII. Evitar que se excluya a las mujeres, o que sólo se beneficien marginalmen
 
 ### CAPÍTULO II. RESPONSABILIDAD DEL ESTADO Y DE LOS GOBIERNOS MUNICIPALES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 8.
 
-Es responsabilidad del Estado, de los poderes legalmente constituidos, y de los municipios buscar los mecanismos -en los ámbitos de sus respectivas competencias- para eliminar las desigualdades entre hombres y mujeres; en consecuencia deberán:
+Es responsabilidad del Estado, de los poderes legalmente constituidos, y de los municipios buscar los mecanismos, en los ámbitos de sus respectivas competencias, para eliminar las desigualdades entre hombres y mujeres; en consecuencia deberán:
 
 I.- Dar debido y cabal cumplimiento a las convenciones y tratados internacionales en materia de derechos, discriminación y violencia contra la mujer, en los términos que establece el artículo 133 de la Constitución Política de los Estados Unidos Mexicanos;
 
@@ -199,25 +213,29 @@ XII.- Garantizar que los funcionarios públicos observen los principios fundamen
 
 ### CAPÍTULO I. TIPOS DE VIOLENCIA
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 9.
 
-Tipos de Violencia: Son los actos u omisiones que constituyen delito y dañan la dignidad, la integridad y la libertad de las mujeres. Los tipos de violencia son: física, psico - emocional, sexual, patrimonial y económica.
+Los tipos de violencia contra las mujeres son:
 
-a) Violencia física. Toda agresión en la que se utilice alguna parte del cuerpo, algún objeto, arma o sustancia para sujetar, inmovilizar o causar daño a la integridad física del otro, ya sea que provoque o no lesiones internas, externas, o ambas.
+I. Violencia física: toda agresión en la que se utilice alguna parte del cuerpo, algún objeto, arma o sustancia para sujetar, inmovilizar o causar daño a la integridad física del otro, ya sea que provoque o no lesiones internas, externas, o ambas;
 
-b) Violencia psico-emocional. El patrón de conducta que consiste en actos u omisiones, cuyas formas de expresión pueden ser prohibiciones, condicionamientos, coacciones, intimidaciones, amenazas, actitudes devaluatorias o de abandono, negligencia, descuido reiterado, celotipia, insultos, humillaciones, devaluación, marginación, indiferencia, infidelidad, comparaciones destructivas, rechazo, restricción a la autodeterminación y amenazas, las cuales conllevan a la victima a la depresión, al aislamiento, a la devaluación de su autoestima e incluso al suicidio.
+II. Violencia psico-emocional: el patrón de conducta que consiste en actos u omisiones, cuyas formas de expresión pueden ser prohibiciones, condicionamientos, coacciones, intimidaciones, amenazas, actitudes devaluatorias o de abandono, negligencia, descuido reiterado, celotipia, insultos, humillaciones, devaluación, marginación, indiferencia, infidelidad, comparaciones destructivas, rechazo, restricción a la autodeterminación y amenazas, las cuales conllevan a la victima a la depresión, al aislamiento, a la devaluación de su autoestima e incluso al suicidio;
 
-c) Violencia sexual. Es cualquier acto que degrada o daña el cuerpo y/o la sexualidad de la Víctima y que por tanto atenta contra su libertad, dignidad e integridad física. Es una expresión de abuso de poder que implica la supremacía masculina sobre la mujer, al denigrarla y concebirla como objeto, y
+III. Violencia sexual. es cualquier acto que degrada o daña el cuerpo y/o la sexualidad de la Víctima y que por tanto atenta contra su libertad, dignidad e integridad física. Es una expresión de abuso de poder que implica la supremacía masculina sobre la mujer, al denigrarla y concebirla como objeto;
 
-d) Violencia patrimonial. es (sic) cualquier acto u omisión que afecta la supervivencia de la víctima. Se manifiesta en: la transformación, sustracción, destrucción, retención o distracción de objetos, documentos personales, bienes y valores, derechos patrimoniales o recursos económicos destinados a satisfacer sus necesidades y puede abarcar los daños a los bienes comunes o propios de la víctima.
+IV. Violencia patrimonial: es cualquier acto u omisión que afecta la supervivencia de la víctima. Se manifiesta en: la transformación, sustracción, destrucción, retención o distracción de objetos, documentos personales, bienes y valores, derechos patrimoniales o recursos económicos destinados a satisfacer sus necesidades y puede abarcar los daños a los bienes comunes o propios de la víctima; y
 
-e) Violencia económica. Es toda acción u omisión del agresor que afecta la supervivencia económica de la víctima. Se manifiesta a través de limitaciones encaminadas a controlar el ingreso de sus percepciones económicas.
+V. Violencia económica: es toda acción u omisión del agresor que afecta la supervivencia económica de la víctima. Se manifiesta a través de limitaciones encaminadas a controlar el ingreso de sus percepciones económicas.
 
 ### CAPÍTULO II. DE LA VIOLENCIA FAMILIAR
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 10.
 
-La violencia familiar es el acto abusivo de poder u omisión intencional, dirigido a dominar, someter, controlar, o agredir de manera física, verbal, psicológica, patrimonial, económica y sexual a las mujeres, dentro o fuera del domicilio familiar, cuyo Agresor tenga o haya tenido relación de parentesco por consanguinidad o afinidad, de matrimonio, concubinato o mantengan o hayan mantenido una relación de hecho.
+La violencia familiar son las conductas dirigidas a dominar, controlar o agredir física, psicológica, patrimonial o económicamente, a alguna persona con la que se encuentre o haya estado unida por un vínculo matrimonial, de parentesco por consanguinidad, afinidad o civil, concubinato, o una relación de hecho, dentro o fuera del domicilio familiar.
 
 Comprende de manera enunciativa pero no limitativa:
 
@@ -237,7 +255,9 @@ c. La violencia feminicida cometida por el cónyuge, pareja, ex pareja, novio, o
 
 d. Las acciones u omisiones que induzcan al suicidio;
 
-e. el hostigamiento y acoso sexual;
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
+e. El hostigamiento y acoso sexual; y
 
 f. La imposición de una preferencia sexual determinada.
 
@@ -249,17 +269,23 @@ Los modelos de atención, prevención y sanción que establezca el estado y los 
 
 Los modelos de atención, prevención y erradicación de la violencia deberán tomar en consideración lo siguiente:
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
 I. Distinguir las diversas clases de violencia familiar y las escalas que comprenden;
 
 II. Proporcionar atención y tratamiento psicológico a las víctimas de la violencia familiar, que favorezcan su empoderamiento, y disminuyan el impacto de dicha violencia;
 
 III. Otorgar atención psicológica especializada al probable responsable o generador de la violencia familiar para disminuir o eliminar las conductas violentas, en la dinámica de violencia, consecuentemente buscarán la reeducación y el cambio de patrones que generaron la violencia en él;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
 IV. Diseñar modelos psicoterapéuticos y jurídicos que deberán considerar los aspectos clínicos y sociales de la violencia familiar, incorporando a los mismos, la perspectiva de género;
 
-V. Contemplar en los dictámenes de psicología victimal de violencia familiar, la sintomatología existente, la relación histórica de los hechos de violencia familiar, así como los que motivaron el procedimiento administrativo o la indagatoria, de acuerdo con las alteraciones que produjeron;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
-VI. Los dictámenes psicológicos sobre probables responsables y generadores acreditarán los rasgos presentes en los perfiles de éstos; (sic)
+V. Contemplar en los dictámenes de psicología victimal de violencia familiar, la sintomatología existente, la relación histórica de los hechos de violencia familiar, así como los que motivaron el procedimiento administrativo o la indagatoria, de acuerdo con las alteraciones que produjeron; y
+
+VI. Los dictámenes psicológicos sobre probables responsables y generadores acreditarán los rasgos presentes en los perfiles de éstos;
 
 ###### ARTÍCULO 12.
 
@@ -387,29 +413,33 @@ Constituyen violencia escolar: aquellas conductas que dañen la autoestima de la
 
 El hostigamiento sexual es el ejercicio del poder, en una relación de subordinación real de la víctima frente a la persona agresora en los ámbitos laboral y/o escolar. Se expresa en conductas verbales, físicas o ambas, relacionadas con la sexualidad de connotación lasciva.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 21 DE DICIEMBRE DE 2010)</small>
+
 El acoso sexual es una forma de violencia en la que, si bien no existe la subordinación, hay un ejercicio abusivo de poder que conlleva a un estado de indefensión y de riesgo para la víctima.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 25.
 
-Para los efectos del hostigamiento y/o acoso sexual, el gobierno del estado y de los municipios, deberán:
+Para los efectos del hostigamiento y/o acoso sexual, el gobierno estatal y municipal, deberá:
 
 I. Garantizar el respeto a la dignidad de las mujeres en todos los ámbitos de la vida;
 
 II. Asegurar la sanción a quienes hostigan y acosan en el ámbito escolar y laboral;
 
-II (SIC). Establecer mecanismos que lo erradiquen en escuelas y centros laborales, privados o públicos, mediante acuerdos y convenios con asociaciones escolares y sindicatos;
+III. Establecer mecanismos que lo erradiquen en escuelas y centros laborales, privados o públicos, mediante acuerdos y convenios con asociaciones escolares y sindicatos;
 
-III. Impulsar procedimientos administrativos claros y precisos en escuelas y centros laborales del Estado, para la sanción de éste, que de manera inmediata evite que el hostigador o acosador continúe con su práctica;
+IV. Impulsar procedimientos administrativos claros y precisos en escuelas y centros laborales del Estado, para la sanción de éste, que de manera inmediata evite que el hostigador o acosador continúe con su práctica.
 
-IV. En estos procedimientos no se podrá hacer público el nombre de la victima, con la finalidad de evitar algún tipo de sobrevictimización, o que sea boletinada o presionada para abandonar la escuela o trabajo;
+En estos procedimientos no se podrá hacer público el nombre de la víctima, con la finalidad de evitar algún tipo de sobrevictimización, o que sea boletinada o presionada para abandonar la escuela o trabajo.
 
-V. Para los efectos de la fracción anterior, deberán sumarse las quejas anteriores o que se hagan evidentes sobre el mismo acosador u hostigador, guardando públicamente el anonimato de la quejosa o las quejosas;
+Asimismo deberán sumarse las quejas anteriores o que se hagan evidentes sobre el mismo acosador u hostigador, guardando públicamente el anonimato de la quejosa o las quejosas;
 
-VI. Proporcionar atención psicológica a quien viva eventos de hostigamiento o acoso sexual. La impresión diagnóstica o dictamen victimal correspondiente se aportará como prueba en los procedimientos correspondientes;
+V. Proporcionar atención psicológica a quien viva eventos de hostigamiento o acoso sexual. La impresión diagnóstica o dictamen victimal correspondiente se aportará como prueba en los procedimientos correspondientes;
 
-VII. Implementar las sanciones administrativas respectivas para los superiores jerárquicos del hostigador o acosador cuando sean omisos en recibir y dar curso a una queja de este tipo, o favorezcan el desistimiento de dicha queja; y
+VI. Implementar las sanciones administrativas respectivas para los superiores jerárquicos del hostigador o acosador cuando sean omisos en recibir y dar curso a una queja de este tipo, o favorezcan el desistimiento de dicha queja; y
 
-VIII. Promover y difundir en la sociedad que el hostigamiento sexual y el acoso sexual son delitos.
+VII. Promover y difundir en la sociedad que el hostigamiento sexual y el acoso sexual son delitos.
 
 ### CAPÍTULO IV. DE LA VIOLENCIA EN LA COMUNIDAD
 
@@ -419,29 +449,31 @@ La violencia en la comunidad, es la que se ejerce por diversos actores sociales,
 
 Ese tipo de conductas, fomenta la discriminación, marginación y exclusión de las mujeres en el ámbito público, motivo por el cual la presente Ley tendrá la finalidad de erradicarla.
 
-En ésta, se puede incluir, entre otras, las siguientes conductas e ilícitos penales:
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
-a) Delitos sexuales cometidos por personas sin parentesco o relación con la víctima, generando terror e inseguridad en las mujeres de la comunidad;
+En ésta, se puede incluir, entre otras, las conductas e ilícitos penales siguientes:
 
-b) Acoso y hostigamiento sexual;
+I. Delitos sexuales cometidos por personas sin parentesco o relación con la víctima, generando terror e inseguridad en las mujeres de la comunidad;
 
-c) La prostitución forzada y/o la trata de mujeres;
+II. Acoso y hostigamiento sexual;
 
-d) La pornografía que degrada a la mujer y pondera la violencia;
+III. La prostitución forzada y/o la trata de mujeres;
 
-e) La exposición de la violencia contra las mujeres con fines de lucro;
+IV. La pornografía que degrada a la mujer y pondera la violencia;
 
-f) Las prácticas tradicionales y nocivas basadas en usos y costumbres;
+V. La exposición de la violencia contra las mujeres con fines de lucro;
 
-g) La práctica de explotación sexual de mujeres migrantes nacionales y extranjeras;
+VI. Las prácticas tradicionales y nocivas basadas en usos y costumbres;
 
-h) La ridiculización de las mujeres en los medios de comunicación masivos;
+VII. La práctica de explotación sexual de mujeres migrantes nacionales y extranjeras;
 
-i) La discriminación contra las mujeres en la vida social, cultural y religiosa;
+VIII. La ridiculización de las mujeres en los medios de comunicación masivos;
 
-j) La imposición de una preferencia sexual determinada;
+IX. La discriminación contra las mujeres en la vida social, cultural y religiosa;
 
-k) El feminicidio; (sic)
+X. La imposición de una preferencia sexual determinada; y
+
+XI. El feminicidio.
 
 ###### ARTÍCULO 27.
 
@@ -483,9 +515,13 @@ A efecto de no incurrir en actos de violencia institucional, los sistemas penite
 
 I. Abstenerse de establecer criterios discriminatorios y valorativos como los de calificar de convenientes o inconvenientes las relaciones sociales que establezca la interna;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 21 DE DICIEMBRE DE 2010)</small>
+
 II. Abstenerse de controlar la visita íntima para las mujeres recluidas;
 
-III. Proporcionar servicios de salud y de planificación familiar a las internas;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
+III. Proporcionar servicios de salud y de planificación familiar a las internas; y
 
 IV. Establecer comités de recepción y análisis sobre quejas de hostigamiento, acoso sexual, instigación a la prostitución o a cualquier práctica discriminatoria.
 
@@ -533,13 +569,23 @@ El Gobierno Estatal, cuando así lo requiera, podrá solicitar a la federación 
 
 En casos de violencia feminicida y/o cuando haya declaratoria de alerta de violencia de género el Estado debe tomar las medidas para garantizar la seguridad de las mujeres y el cese de la violencia en su contra, para lo cual, el gobierno estatal y los gobiernos municipales deberán:
 
-I. Asignar los recursos presupuestales necesarios.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
-II. Implementar las acciones preventivas, de seguridad y justicia para enfrentar y abatir la violencia feminicida.
+I. Asignar los recursos presupuestales necesarios;
 
-III. Elaborar reportes especiales sobre la zona y el comportamiento de los indicadores de violencia contra las mujeres.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
-IV. Establecer un grupo interinstitucional e interdisciplinario que le dé seguimiento a las políticas públicas establecidas.
+II. Implementar las acciones preventivas, de seguridad y justicia para enfrentar y abatir la violencia feminicida;
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
+III. Elaborar reportes especiales sobre la zona y el comportamiento de los indicadores de violencia contra las mujeres;
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
+IV. Establecer un grupo interinstitucional e interdisciplinario que le dé seguimiento a las políticas públicas establecidas; y
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
 V. Hacer del conocimiento público el motivo de las acciones y medidas implementadas y la zona territorial que abarcan.
 
@@ -555,11 +601,17 @@ II. La rehabilitación: Es la prestación de servicios jurídicos, médicos y ps
 
 III. La satisfacción: Son las medidas que buscan reparación orientada a la prevención de violaciones. Entre las medidas a adoptar se encuentran.
 
-a) La aceptación del gobierno del Estado de su responsabilidad ante el daño causado y su compromiso de repararlo.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
+a) La aceptación del gobierno del estado de su responsabilidad ante el daño causado y su compromiso de repararlo;
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 21 DE DICIEMBRE DE 2010)</small>
 
 b) La investigación y sanción de los actos de autoridades omisas o negligentes que llevaron la violación de los derechos humanos de las victimas a la impunidad.
 
-c) El diseño e instrumentación de políticas públicas integrales que eviten la comisión de delitos contra mujeres.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
+c) El diseño e instrumentación de políticas públicas integrales que eviten la comisión de delitos contra las mujeres; y
 
 d) La verificación de los hechos y la publicidad de la verdad.
 
@@ -615,6 +667,8 @@ TÌTULO QUINTO
 
 ### CAPÍTULO II. DEL PROGRAMA INTEGRAL PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 39.
 
 El Gobierno del Estado y los gobiernos Municipales, se coordinarán para la integración y funcionamiento del Sistema. Este Sistema se Coordinara con el Sistema Federal. El objeto es conjuntar esfuerzos, instrumentos, políticas, servicios y acciones interinstitucionales para la prevención, atención, sanción y erradicación de la violencia contra las mujeres.
@@ -625,27 +679,49 @@ Todas las medidas que lleven a cabo, deberán ser realizadas sin discriminación
 
 El Sistema se conformará por las y los titulares de:
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 21 DE DICIEMBRE DE 2010)</small>
+
 I.- Secretaría General de Gobierno, quien lo presidirá;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 21 DE DICIEMBRE DE 2010)</small>
 
 II.- Secretaría de Desarrollo Social;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 21 DE DICIEMBRE DE 2010)</small>
+
 III.- Secretaría de Finanzas y Administración;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 21 DE DICIEMBRE DE 2010)</small>
 
 IV.- Secretaría de Seguridad Pública y Protección Civil;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 21 DE DICIEMBRE DE 2010)</small>
+
 V.- Secretaría de Educación Guerrero;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 21 DE DICIEMBRE DE 2010)</small>
 
 VI.- Secretaría de Salud;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 21 DE DICIEMBRE DE 2010)</small>
+
 VII.- Secretaría de Fomento Turístico;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 21 DE DICIEMBRE DE 2010)</small>
 
 VIII.- Secretaría de Asuntos Indígenas;
 
 IX.- Secretaria de la Mujer, quien ocupará la Secretaría Ejecutiva del Sistema;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 21 DE DICIEMBRE DE 2010)</small>
+
 X.- Secretaría de la Juventud;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 21 DE DICIEMBRE DE 2010)</small>
+
 XI.- El Sistema Estatal para el Desarrollo Integral de la Familia;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 21 DE DICIEMBRE DE 2010)</small>
 
 XII.- Procuraduría General de Justicia;
 
@@ -655,7 +731,9 @@ XIV.- La Comisión de Defensa de los Derechos Humanos;
 
 XV.- El Consejo Estatal para Prevenir la Discriminación;
 
-XVI.- Las instancias de atención a las mujeres en los Municipios;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
+XVI.- Las instancias de atención a las mujeres en los Municipios; y
 
 XVII.- Las organizaciones civiles especializadas en derechos humanos de las mujeres.
 
@@ -667,7 +745,7 @@ La Secretaría Ejecutiva del Sistema elaborará el proyecto de reglamento para e
 
 ###### ARTÍCULO 42.
 
-La formulación del programa estatal será coordinado por la Secretaria de la Mujer, dicho programa deberá ser congruente con el Programa Nacional Integral para Prevenir, Atender, Sancionar y Erradicar la violencia contra las Mujeres, el Plan Nacional y el Plan Estatal de Desarrollo y contendrá las estrategias para que el gobierno del estado, los municipios y los ciudadanos en general, cumplan con las obligaciones señaladas en esta ley.
+La formulación del programa estatal será coordinado por la Secretaria de la Mujer, dicho programa deberá ser congruente con el Programa Nacional Integral para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres, el Plan Nacional y el Plan Estatal de Desarrollo y contendrá las estrategias para que el gobierno del estado, los municipios y los ciudadanos en general, cumplan con las obligaciones señaladas en esta Ley.
 
 ###### ARTÍCULO 43.
 
@@ -697,7 +775,9 @@ VII. Vigilar que los usos y costumbres de toda la sociedad no atenten contra los
 
 VIII. Promover, en coordinación con la federación, la creación de Programas de reeducación e inserción social, con perspectiva de género, para agresores de mujeres;
 
-IX. Garantizar una adecuada coordinación entre la Federación, las entidades federativas y los municipios, con la finalidad de erradicar la violencia contra las mujeres;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
+IX. Garantizar una adecuada coordinación entre el gobierno estatal y los municipios, para ello establecerá Sistemas Regionales para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
 
 X. Realizar a través de la Secretaria de la Mujer y con el apoyo de las instancias municipales de atención a la mujer, campañas de información, con énfasis en la doctrina de la protección integral de los derechos humanos de las mujeres, en el conocimiento de las leyes y las medidas y los programas que las protegen, así como de los recursos jurídicos que las asisten;
 
@@ -741,13 +821,17 @@ V. Coordinar y dar seguimiento a los trabajos de promoción y defensa de los der
 
 VI. Establecer las políticas públicas transversales y con perspectiva de género que garanticen el derecho de las mujeres a una vida libre de violencia en sus relaciones laborales;
 
-VII. Vigilar el respeto de los derechos laborales de las mujeres y establecer condiciones para eliminar la discriminación de las mujeres por razones de género para e (sic) acceso al trabajo;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
+VII. Vigilar el respeto de los derechos laborales de las mujeres y establecer condiciones para eliminar la discriminación de las mujeres por razones de género para el acceso al trabajo;
 
 VIII. Establecer mecanismos para erradicar el hostigamiento y acoso sexual a las mujeres en los centros laborales y aplicar procedimientos para sancionar a la persona agresora;
 
 IX. Prevenir la violencia contra las mujeres con programas y acciones afirmativas dirigidas especialmente aquellas que por su edad, etnia, condición social, económica, educativa u otra, han tenido menos oportunidades de empleo;
 
-X. Proponer la actualización de las medidas de seguridad e higiene en los centros de trabajo para la protección de las mujeres trabajadoras en términos de la ley;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
+X. Proponer la actualización de las medidas de seguridad e higiene en los centros de trabajo para la protección de las mujeres trabajadoras en términos de la Ley;
 
 XI. Crear mecanismos internos de denuncia para las mujeres víctimas de violencia laboral en el ámbito público, con independencia de cualquier otro procedimiento jurídico que inicien ante una instancia diversa;
 
@@ -819,11 +903,17 @@ VII. Diseñar, con una visión transversal, la política integral con perspectiv
 
 VIII. Establecer, utilizar, supervisar y mantener todos los instrumentos y acciones encaminados al mejoramiento del Sistema y del Programa;
 
-IX. Celebrar convenios de cooperación, coordinación y concertación en la materia, y
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
-X. Promover la integración laboral de las mujeres recluidas en los centros de readaptación social;
+IX. Celebrar convenios de cooperación, coordinación y concertación en la materia;
 
-XI. Las demás previstas para el cumplimiento de la presente ley.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
+X. Promover la integración laboral de las mujeres recluidas en los centros de readaptación social; y
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
+XI. Las demás previstas para el cumplimiento de la presente Ley.
 
 #### SECCIÓN SEXTA. DE LA SECRETARÍA DE EDUCACIÓN GUERRERO
 
@@ -833,39 +923,73 @@ Corresponde a la Secretaría de Educación Guerrero:
 
 I. Definir en las políticas educativas los principios de igualdad, equidad y no discriminación entre mujeres y hombres y el respeto pleno a los derechos humanos;
 
-I (SIC). Desarrollar programas educativos, en todos los niveles de escolaridad, que fomenten la cultura de una vida libre de violencia contra las mujeres, así como el respeto a su dignidad;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
-II. Desarrollar talleres dirigidos a padres, madres y familiares, con el objetivo de promover medidas para prevenir y erradicar la violencia contra las mujeres;
+II. Desarrollar programas educativos, en todos los niveles de escolaridad, que fomenten la cultura de una vida libre de violencia contra las mujeres, así como el respeto a su dignidad;
 
-III. Eliminar de los centros educativos la discriminación por motivos de embarazo, así como implementar medidas para evitar la deserción escolar por ese motivo;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
-IV. Garantizar acciones y mecanismos que favorezcan el adelanto de las mujeres en todas las etapas del proceso educativo;
+III. Implementar talleres dirigidos a padres, madres y familiares, con el objetivo de promover medidas para prevenir y erradicar la violencia contra las mujeres;
 
-V. Garantizar el derecho de las niñas y mujeres a la educación: a la alfabetización y al acceso, permanencia y terminación de estudios en todos los niveles. A través de la obtención de becas y otras subvenciones;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
-VI. Crear modelos de detección de la violencia contra las mujeres y capacitar al personal docente para que canalicen a las victimas de violencia a las instancias de justicia y a los centros de atención a victimas que correspondan;
+IV. Eliminar de los centros educativos la discriminación por motivos de embarazo, así como implementar medidas para evitar la deserción escolar por ese motivo;
 
-VII. Incorporar en los programas educativos, en todos los niveles de la instrucción, el respeto a los derechos humanos de las mujeres, así como contenidos educativos tendientes a modificar los modelos de conducta sociales y culturales que impliquen prejuicios y que estén basados en la idea de la inferioridad o superioridad de uno de los sexos y en funciones estereotipadas asignadas a las mujeres y a los hombres;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
-VIII. Formular y aplicar programas que permitan la detección temprana de los problemas de violencia contra las mujeres en los centros educativos, para que se dé una primera respuesta urgente a las alumnas que sufren algún tipo de violencia;
+V. Garantizar acciones y mecanismos que favorezcan el adelanto de las mujeres en todas las etapas del proceso educativo;
 
-IX. Establecer como un requisito de contratación a todo el personal, no contar con antecedentes de haber ejercido violencia contra las mujeres;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
-X. Cesar de sus funciones al personal que haya cometido violencia laboral o docente;
+VI. Garantizar el derecho de las niñas y mujeres a la educación: a la alfabetización y al acceso, permanencia y terminación de estudios en todos los niveles. A través de la obtención de becas y otras subvenciones;
 
-XI. Diseñar y difundir materiales educativos que promuevan la prevención y atención de la violencia contra las mujeres;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
-XII. Proporcionar acciones formativas a todo el personal de los centros educativos, en materia de derechos humanos de las niñas y las mujeres y políticas de prevención, atención, sanción y erradicación de la violencia contra las mujeres;
+VII. Crear modelos de detección de la violencia contra las mujeres y capacitar al personal docente para que canalicen a las víctimas de violencia a las instancias de justicia y a los centros de atención a víctimas que correspondan;
 
-XIII. Eliminar de los programas educativos los materiales que hagan apología de la violencia contra las mujeres o contribuyan a la promoción de estereotipos que discriminen y fomenten la desigualdad entre mujeres y hombres;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
-XIV. Establecer, utilizar, supervisar y mantener todos los instrumentos y acciones encaminados al mejoramiento del Sistema y del Programa;
+VIII. Incorporar en los programas educativos, en todos los niveles de la instrucción, el respeto a los derechos humanos de las mujeres, así como contenidos educativos tendientes a modificar los modelos de conducta sociales y culturales que impliquen prejuicios y que estén basados en la idea de la inferioridad o superioridad de uno de los sexos y en funciones estereotipadas asignadas a las mujeres y a los hombres;
 
-XV. Diseñar, con una visión transversal, la política integral con perspectiva de género orientada a la prevención, atención, sanción y erradicación de los delitos violentos contra las mujeres;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
-XVI. Celebrar convenios de cooperación, coordinación y concertación en la materia;
+IX. Formular y aplicar programas que permitan la detección temprana de los problemas de violencia contra las mujeres en los centros educativos, para que se dé una primera respuesta urgente a las alumnas que sufren algún tipo de violencia;
 
-XVII. Las demás previstas para el cumplimiento de la presente ley.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
+X. Establecer como un requisito de contratación a todo el personal, no contar con antecedentes de haber ejercido violencia contra las mujeres;
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
+XI. Cesar de sus funciones al personal que haya cometido violencia laboral o docente;
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
+XII. Diseñar y difundir materiales educativos que promuevan la prevención y atención de la violencia contra las mujeres;
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
+XIII. Proporcionar acciones formativas a todo el personal de los centros educativos, en materia de derechos humanos de las niñas y las mujeres y políticas de prevención, atención, sanción y erradicación de la violencia contra las mujeres;
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
+XIV. Eliminar de los programas educativos los materiales que hagan apología de la violencia contra las mujeres o contribuyan a la promoción de estereotipos que discriminen y fomenten la desigualdad entre mujeres y hombres;
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
+XV. Establecer, utilizar, supervisar y mantener todos los instrumentos y acciones encaminados al mejoramiento del Sistema y del Programa;
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
+XVI. Diseñar, con una visión transversal, la política integral con perspectiva de género orientada a la prevención, atención, sanción y erradicación de los delitos violentos contra las mujeres;
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
+XVII. Celebrar convenios de cooperación, coordinación y concertación en la materia; y
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
+XVIII. Las demás previstas para el cumplimiento de la presente Ley.
 
 #### SECCIÓN SÉPTIMA. DE LA SECRETARÍA DE SALUD
 
@@ -877,7 +1001,9 @@ I. En el marco de la política de salud integral de las mujeres, diseñar con pe
 
 II. Brindar por medio de las instituciones del sector salud, de manera integral e interdisciplinaria, atención médica y psicológica de calidad y con perspectiva de género a las víctimas;
 
-III. Crear programas de capacitación para el personal del sector salud, respecto de la violencia contra las mujeres y se garanticen la atención a las víctimas y la aplicación de la NOM 190-SSA1-1999: Prestación de servicios de salud. Criterios para la atención médica de la violencia familiar;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
+III. Crear programas de capacitación para el personal del sector salud, respecto de la violencia contra las mujeres y se garanticen la atención a las víctimas y la aplicación de la NOM-046-SSA2-2005. Violencia familiar, sexual y contra las mujeres. Criterios para la prevención y atención;
 
 IV. Establecer programas y servicios profesionales y eficaces, con horario de veinticuatro horas en las dependencias públicas relacionadas con la atención de la violencia contra las mujeres;
 
@@ -919,7 +1045,9 @@ XIV. Las demás previstas para el cumplimiento de la presente ley.
 
 Corresponde a la Secretaría de Fomento Turístico:
 
-I. Implementar acciones de prevención, sanción y erradicación del turismo sexual infantil y la trata de personas.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
+I. Implementar acciones de prevención, sanción y erradicación del turismo sexual infantil y la trata de personas; y
 
 II. Instalar en los centros turísticos, módulos de información para la población local sobre las causas y los efectos de la violencia de género contra las mujeres.
 
@@ -965,7 +1093,9 @@ VII. Canalizar a las víctimas a programas reeducativos integrales que les permi
 
 VIII. Promover y vigilar que la atención ofrecida en las diversas instituciones públicas o privadas, sea proporcionada por especialistas en la materia, sin prejuicios ni discriminación alguna;
 
-IX. Contar con asesores legales que puedan asesorar y representar a las mujeres, y así fomentar la cultura de la denuncia;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
+IX. Contar con asesores legales que representen a las mujeres a través de la Procuraduría de la Defensa de los Derechos de la Mujer;
 
 X. Difundir la cultura de respeto a los derechos humanos de las mujeres;
 
@@ -997,9 +1127,13 @@ V. Las demás previstas para el cumplimiento de la ley.
 
 Corresponde al Sistema Estatal para el Desarrollo Integral de la Familia:
 
-I.- Contar con asesores legales que puedan representar a las mujeres, ya sea en la averiguación previa o durante el proceso penal, así como en las diferentes ramas del derecho.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
-II.- Proporcionar atención psicoterapéutica, no solo de intervención en crisis, sino tendiente a disminuir el impacto psicoemocional del delito en la víctima u ofendido, incorporando aspectos clínicos, somáticos y psicoemocionales, como la exteriorización de la culpa y la extensión del síndrome con motivo de la respuesta familiar y social al evento; (sic)
+I.- Contar con asesores legales que puedan representar a las mujeres, ya sea en la averiguación previa o durante el proceso penal, así como en las diferentes ramas del derecho, y
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
+II.- Proporcionar atención psicoterapéutica, no sólo de intervención en crisis, sino tendiente a disminuir el impacto psicoemocional del delito en la víctima u ofendido, incorporando aspectos clínicos, somáticos y psicoemocionales, como la exteriorización de la culpa y la extensión del síndrome con motivo de la respuesta familiar y social al evento.
 
 #### SECCIÓN DÉCIMA TERCERA. DEL TRIBUNAL SUPERIOR DE JUSTICIA
 
@@ -1087,21 +1221,35 @@ VIII. Participar y coadyuvar en la prevención, atención y erradicación de la 
 
 IX. Llevar a cabo, de acuerdo con el Sistema, programas de información a la población respecto de la violencia contra las mujeres;
 
-X. Celebrar convenios de cooperación, coordinación y concertación en la materia, y
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
+X. Celebrar convenios de cooperación, coordinación y concertación en la materia;
 
 XI. La atención de los demás asuntos que en materia de violencia contra las mujeres que les conceda esta ley u otros ordenamientos legales;
 
-XII. El presidente municipal propondrá en el Proyecto de Presupuesto de Egresos del Municipio, la asignación de una partida presupuestaria para garantizar el cumplimiento de los objetivos del Sistema y
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
-XIII. Solicitar al Ejecutivo del Estado, la declaratoria de Alerta de Violencia de Género, cuando la persistencia de delitos en contra de mujeres, dentro del territorio municipal, así lo demande.
+XII. El presidente municipal propondrá en el Proyecto de Presupuesto de Egresos del Municipio, la asignación de una partida presupuestaria para garantizar el cumplimiento de los objetivos del Sistema;
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
+XIII. Solicitar al Ejecutivo del Estado, la declaratoria de Alerta de Violencia de Género, cuando la persistencia de delitos en contra de mujeres, dentro del territorio municipal, así lo demande; y
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
+XIV. Instalar el Sistema Municipal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres, contando con la participación de representantes del Ayuntamiento, de la administración pública municipal y de las organizaciones de mujeres en el municipio.
 
 ###### ARTÍCULO 60.
 
 Corresponde a las organizaciones civiles:
 
-I. Vigilar el cumplimiento del Programa para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
-II. Solicitar la Declaratoria de Alerta de Violencia de Género y el Agravio Comparado cuando las circunstancias lo demanden.
+I. Vigilar el cumplimiento del Programa para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
+II. Solicitar la Declaratoria de Alerta de Violencia de Género t (sic) el agravio comparado cuando las circunstancias lo demanden; y
 
 III. Auxiliar a las instancias que integran el Sistema en el cumplimiento de los objetivos de la presente Ley.
 
@@ -1109,19 +1257,33 @@ III. Auxiliar a las instancias que integran el Sistema en el cumplimiento de los
 
 Los refugios para atención a víctimas de violencia familiar impulsados por el Gobierno del Estado, los Gobiernos Municipales y/o las Organizaciones Civiles deberán:
 
-I. Aplicar el Programa Estatal para prevenir, atender, sancionar y erradicar la violencia contra las mujeres.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
-II. Velar por la seguridad de las personas que se encuentren en ellos.
+I. Aplicar el Programa Estatal para prevenir, atender, sancionar y erradicar la violencia contra las mujeres;
 
-III. Proporcionar a las mujeres, y a sus hijas e hijos, la atención necesaria para su recuperación física y psicológica, que les permita participar plenamente en la vida pública, social y privada.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
-IV. Dar información a las víctimas sobre las instituciones encargadas de prestar asesoría jurídica gratuita.
+II. Velar por la seguridad de las personas que se encuentren en ellos;
 
-V. Brindar a las víctimas la información necesaria que les permita decidir sobre las opciones de atención.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
-VI. Contar con el personal debidamente capacitado y especializado en la materia, para proporcionar los servicios y realizar las acciones inherentes a la protección y atención de las personas que s (sic) encuentran en ellos.
+III. Proporcionar a las mujeres, y a sus hijas e hijos, la atención necesaria para su recuperación física y psicológica, que les permita participar plenamente en la vida pública, social y privada;
 
-En ningún caso podrán laboral (sic) en los refugios personas que hayan cometido delitos de carácter intencional.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
+IV. Dar información a las víctimas sobre las instituciones encargadas de prestar asesoría jurídica gratuita;
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
+V. Brindar a las víctimas la información necesaria que les permita decidir sobre las opciones de atención; y
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
+VI. Contar con el personal debidamente capacitado y especializado en la materia, para proporcionar los servicios y realizar las acciones inherentes a la protección y atención de las personas que se encuentran en ellos.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
+En ningún caso podrán laborar en los refugios personas que hayan cometido delitos de carácter intencional.
 
 ###### ARTÍCULO 62.
 
@@ -1146,6 +1308,8 @@ VI. Apoyo psicológico;
 VII. Programas reeducativos integrales a fin de que estén en condiciones de participar plenamente en la vida pública, social y privada;
 
 VIII. Capacitación para que puedan adquirir conocimientos para el desempeño de una actividad laboral;
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 21 DE DICIEMBRE DE 2010)</small>
 
 IX. Bolsa de trabajo, con la finalidad de que puedan tener una actividad laboral remunerada en caso de que lo soliciten.
 
@@ -1244,3 +1408,9 @@ LA SECRETARIA DE LA MUJER.
 PROFRA. ROSA MARÍA GÓMEZ SAAVEDRA.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 21 DE DICIEMBRE DE 2010.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
