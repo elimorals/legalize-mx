@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-del-poder-judicial-del-estado-de-tamaulipas-19678"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-19"
-last_updated: "2010-12-16"
+last_updated: "2010-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19678&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAM"
 ---
 # LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE TAMAULIPAS
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 13 DE ENERO DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 19 de diciembre de 2000.
 
@@ -179,7 +181,9 @@ Durante los días inhábiles deberán dejarse guardias que atiendan los término
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 13 DE ENERO DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA, ASÍ COMO EL ARCHIVO ANEXO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 6º.
 
@@ -215,7 +219,7 @@ X.- Los demás que los que la ley les confiera dicho carácter.
 
 ###### ARTICULO 9º.
 
-El Supremo Tribunal de Justicia residirá oficialmente en la capital del Estado. Las Salas Regionales, residirán en Reynosa, Victoria y Altamira. La de Reynosa, ejercerá jurisdicción sobre los siguientes Distritos: Tercero, Cuarto, Quinto, Sexto, Décimo Tercero y Décimo Cuarto; la de Victoria en los Distritos Primero, Séptimo, Octavo, Noveno, Décimo, Décimo Primero y Décimo Segundo; y, la de Altamira, en los Distritos Segundo, y Décimo Quinto. Los Juzgados de Primera Instancia se asentarán en las cabeceras de los distritos judiciales, con salvedad de los Especializados en Justicia para Adolescentes y en delitos contra la Salud en la modalidad de Narcomenudeo y Jueces de Ejecución de Sanciones cuya residencia fija la ley. Los Jueces Menores y de Paz residirán en las cabeceras municipales respectivas.
+El Supremo Tribunal de Justicia residirá oficialmente en la capital del Estado. Las Salas Regionales, residirán en Reynosa, Victoria y Altamira. La de Reynosa, ejercerá jurisdicción sobre los siguientes Distritos: Tercero, Cuarto, Quinto, Sexto, Décimo Primer, Décimo Tercer y Décimo Cuarto; la de Victoria en los Distritos Primero, Noveno, Décimo, y Décimo Segundo; y, la de Altamira, en los Distritos Segundo, Séptimo y Décimo Quinto. Los Jueces de Primera Instancia tendrán su residencia oficial en las cabeceras de sus respectivos distritos judiciales, los Jueces Menores y los de Paz residirán en las cabeceras municipales respectivas.
 
 > <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
 
@@ -225,7 +229,7 @@ Se procurará que los Juzgados de Justicia para Adolescentes tengan su domicilio
 
 El Tribunal Electoral del Poder Judicial del Estado residirá oficialmente en Victoria.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 10.
 
@@ -291,7 +295,7 @@ DECIMO CUARTO DISTRITO JUDICIAL: Cabecera en Valle Hermoso, y comprende el Munic
 
 DECIMO QUINTO DISTRITO JUDICIAL: Cabecera en González, y comprende los Municipios de González y Aldama.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 10 Bis.
 
@@ -625,6 +629,8 @@ X.- Imponer a su personal, así como a Jueces, Secretarios y demás servidores p
 
 XI.- Ejercer las demás atribuciones que le asigne esta ley y los acuerdos generales del Pleno del Supremo Tribunal.
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 13 DE ENERO DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA, ASÍ COMO EL ARCHIVO ANEXO.</small>
+
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE MAYO DE 2008)</small>
 
 ###### ARTICULO 27.
@@ -635,7 +641,9 @@ Los Magistrados de número podrán actuar en segunda instancia en forma colegiad
 
 En materia penal los Magistrados de las Salas Colegiadas deberán conocer de las apelaciones en los casos siguientes:
 
-a).- Contra sentencias definitivas dictadas en procesos instruidos por delito grave;
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
+a).- Contra sentencias definitivas dictadas en procesos instruidos por delito grave, cuando la pena privativa de libertad impuesta sea superior a cinco años de prisión;
 
 b).- Cuando el Ministerio Público formule las conclusiones reclasificando el delito como grave en los términos del Código de Procedimientos Penales para el Estado y, el juez de primera instancia no lo haya considerado como tal al dictar la sentencia respectiva; y
 
@@ -653,9 +661,9 @@ La Sala Especializada en Justicia para Adolescentes atenderá las cuestiones rel
 
 Las Salas Colegiadas y las Salas Unitarias, conservarán jurisdicción mixta para conocer de aquellos asuntos en que se excusen o sean recusados los Magistrados que las integren.
 
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
-Las Salas Regionales conocerán en segunda instancia de apelaciones contra autos y resoluciones interlocutorias en materia penal, en términos del Código de Procedimientos Penales para el Estado.
+Las Salas Regionales conocerán en segunda instancia de apelaciones contra autos, resoluciones interlocutorias y sentencias dictadas por jueces menores en dicha materia penal, en términos del Código de Procedimientos Penales para el Estado.
 
 > <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2007)</small>
 
@@ -1171,7 +1179,7 @@ Para ser integrante del Jurado de Ciudadanos se requiere:
 
 I.- Ser ciudadano mexicano, en pleno goce de sus derechos;
 
-II.- Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal de mas de dos años de prisión; pero si se tratare de robo, peculado, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, quedará inhabilitado para el cargo, cualquiera que haya sido la pena;
+II.- Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal de más de dos años de prisión; pero si se tratare de robo, peculado, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, quedará inhabilitado para el cargo, cualquiera que haya sido la pena;
 
 III.- Saber leer y escribir;
 
@@ -1527,7 +1535,7 @@ No podrá recaer nombramiento de administración de justicia en ministros o repr
 
 ###### ARTICULO 94.
 
-Las renuncias de los Magistrados serán sometidas al conocimiento del Pleno del Supremo Tribunal de Justicia y, si éste las acepta, enviará comunicado al titular del Ejecutivo del Estado para los efectos del artículo 9I fracción XIV y 109 de la Constitución Política del Estado. El Consejo de la Judicatura conocerá de las renuncias de los Jueces de Primera Instancia, Menores y de Paz y de los demás servidores públicos del Poder Judicial.
+Las renuncias de los Magistrados serán sometidas al conocimiento del Pleno del Supremo Tribunal de Justicia y, si éste las acepta, enviará comunicado al titular del Ejecutivo del Estado para los efectos del artículo 91 fracción XIV y 109 de la Constitución Política del Estado. El Consejo de la Judicatura conocerá de las renuncias de los Jueces de Primera Instancia, Menores y de Paz y de los demás servidores públicos del Poder Judicial.
 
 ### CAPITULO V. DE LA REMOCION Y DE LA SUSPENSION DE LOS SERVIDORES PUBLICOS DE LA ADMINISTRACION DE JUSTICIA
 
@@ -1655,7 +1663,7 @@ Las faltas temporales de los Jueces Menores y los Jueces de Paz hasta por treint
 
 ###### ARTICULO 107.
 
-En los casos de excusa o impedimento de Jueces Menores y los Jueces de Paz, el Juez de Primera Instancia del distrito judicial a que corresponda el impedido, designará, si hubiere otro u otros Jueces Menores en la misma municipalidad, a cualquiera de ellos; si no lo hubiere, al Secretario del propio Juzgado y, en caso de no ser posible, la sustitución se hará con el Juez del lugar mas próximo.
+En los casos de excusa o impedimento de Jueces Menores y los Jueces de Paz, el Juez de Primera Instancia del distrito judicial a que corresponda el impedido, designará, si hubiere otro u otros Jueces Menores en la misma municipalidad, a cualquiera de ellos; si no lo hubiere, al Secretario del propio Juzgado y, en caso de no ser posible, la sustitución se hará con el Juez del lugar más próximo.
 
 ###### ARTICULO 108.
 
@@ -2037,7 +2045,7 @@ Las disposiciones del presente Capítulo son reglamentarias de los párrafos seg
 
 ###### ARTICULO 134.
 
-El Fondo Auxiliar para la Administración de Justicia acatará las instrucciones del Consejo de la Judicatura y se ocupará de servir de apoyo a éste para mejorar las condiciones de trabajo de los servidores públicos del Poder Judicial, mediante la aplicación de estímulos y recompensas, y su capacitación; adquisición de mobiliario y equipo, libros y demás material de contenido jurídico que considere útil para el mas eficaz cumplimiento de las funciones.
+El Fondo Auxiliar para la Administración de Justicia acatará las instrucciones del Consejo de la Judicatura y se ocupará de servir de apoyo a éste para mejorar las condiciones de trabajo de los servidores públicos del Poder Judicial, mediante la aplicación de estímulos y recompensas, y su capacitación; adquisición de mobiliario y equipo, libros y demás material de contenido jurídico que considere útil para el más eficaz cumplimiento de las funciones.
 
 ###### ARTICULO 135.
 
@@ -2277,7 +2285,7 @@ I.- Practicar visitas generales o especiales a los Juzgados de Primera Instancia
 
 > <small>(REFORMADA, P.O. 26 DE MAYO DE 2010)</small>
 
-II.- Proponer al Presidente del Consejo de la Judicatura, a mas tardar en el mes de noviembre, un calendario o agenda de visita anual; y,
+II.- Proponer al Presidente del Consejo de la Judicatura, a más tardar en el mes de noviembre, un calendario o agenda de visita anual; y,
 
 > <small>(REFORMADA, P.O. 26 DE MAYO DE 2010)</small>
 
@@ -2791,7 +2799,7 @@ V.- Realizar los engroses de los fallos aprobados por el Pleno, cuando sean desi
 
 VI.- Admitir los medios de impugnación y los escritos de terceros interesados o coadyuvantes, en los términos que señale la ley de la materia;
 
-Vll.- Someter a consideración del Pleno, cuando proceda, la acumulación de las impugnaciones así como la procedencia de la conexidad, en los términos de las leyes aplicables;
+VII.- Someter a consideración del Pleno, cuando proceda, la acumulación de las impugnaciones así como la procedencia de la conexidad, en los términos de las leyes aplicables;
 
 VIII.- Formular los requerimientos ordinarios necesarios para la integración de los expedientes en los términos de la legislación aplicable, y requerir cualquier informe o documento que, obrando en poder de los órganos del Instituto Electoral de Tamaulipas, de las autoridades federales, estatales o municipales, de los partidos políticos o de particulares, puada servir para la sustanciación de los expedientes, siempre que ello no sea obstáculo para resolver dentro de los plazos establecidos, de conformidad con lo señalado en las leyes aplicables; y
 
@@ -3078,3 +3086,9 @@ El presente Decreto entrará en vigor el 21 de agosto de 2012 y será publicado 
 ###### ARTICULO SEGUNDO.
 
 El Titular del Poder Ejecutivo establecerá en el Presupuesto de Egresos, los recursos necesarios para las acciones derivadas para el cumplimento del presente Decreto.
+
+P.O. 21 DE DICIEMBRE DE 2010.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
