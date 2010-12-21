@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-municipio-libre-del-estado-de-san-luis-17434"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-07-11"
-last_updated: "2010-06-24"
+last_updated: "2010-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17434&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGANICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE JUNIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 2010.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 11 de julio de 2000.
 
@@ -343,6 +343,10 @@ El Ayuntamiento saliente dará posesión de las oficinas, bienes y fondos munici
 
 Rendida la protesta de ley, el Presidente Municipal enunciará las líneas generales de trabajo que se propone realizar el Ayuntamiento durante el período de su gestión. Acto seguido, en la misma sesión, el Cabildo, a propuesta del Presidente Municipal, designará conforme a lo dispuesto en las fracciones V del artículo 70 y XXIV del inciso c) del artículo 31 de la presente Ley, al Secretario, al Tesorero, al Contralor y, en su caso, al Oficial Mayor y delegados municipales; levantándose la respectiva Acta de Cabildo.
 
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
+El nombramiento de secretario, tesorero, contralor, oficial mayor, y delegados municipales, será por un periodo máximo igual a la duración de la administración que los designó; pudiendo removerlos libremente a propuesta del Presidente Municipal y por acuerdo del Cabildo, sin responsabilidad para el ayuntamiento.
+
 ###### ARTICULO 20.
 
 El Ayuntamiento residirá en la cabecera del Municipio. Podrá funcionar temporal o permanentemente en otro centro de población del propio Municipio, mediante la aprobación del Pleno del Cabildo y con el acuerdo del Congreso del Estado.
@@ -507,7 +511,9 @@ c) En materia Operativa:
 
 I. Solicitar al Ejecutivo del Estado, previo acuerdo aprobado por lo menos por las dos terceras partes de sus integrantes, y a través del Presidente Municipal, la expropiación de bienes por causa de utilidad pública;
 
-II. Nombrar a propuesta del Presidente Municipal, al Secretario, al Tesorero, al Contralor y, en su caso, al Oficial Mayor, y removerlos por causa justificada;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
+II. Nombrar, a propuesta del Presidente Municipal, al Secretario, al Tesorero, al Contralor y, en su caso, al Oficial Mayor; pudiendo removerlos libremente a propuesta del Presidente Municipal y por acuerdo del cabildo, sin responsabilidad para el ayuntamiento;
 
 III. Acordar con la aprobación de cuando menos las dos terceras partes de sus integrantes, previamente a la autorización del Congreso del Estado, la concesión de los bienes y servicios públicos municipales. En ningún caso podrán concesionarse los de seguridad pública, policía preventiva municipal y tránsito;
 
@@ -891,7 +897,11 @@ IV. Celebrar a nombre del Ayuntamiento y por acuerdo de éste, los actos y contr
 
 V. Proponer al Ayuntamiento en la primera sesión de Cabildo, los nombramientos del Secretario, del Tesorero, del Contralor, y del Oficial Mayor y Delegados en su caso. La propuesta que presente el Presidente Municipal será sometida a la aprobación del Cabildo; de no acordarse procedente, el Presidente Municipal presentará en la misma sesión una terna de candidatos para cada puesto, de entre los cuales el Cabildo hará la designación respectiva; si dicho cuerpo colegiado no acordare favorablemente o negare en su caso la propuesta de los candidatos, el Presidente Municipal expedirá inmediatamente el nombramiento en favor de cualquiera de los integrantes de la terna propuesta para cada cargo;
 
-VI. Nombrar a los servidores públicos municipales cuya designación no sea facultad exclusiva del Cabildo, garantizando que las relaciones laborales entre el Ayuntamiento y sus trabajadores, se apeguen a lo dispuesto en la Ley de los Trabajadores al Servicio de las Instituciones Públicas del Estado y Municipios de San Luis Potosí;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
+VI. Nombrar a los servidores públicos municipales cuya designación no sea facultad exclusiva del Cabildo, garantizando que las relaciones laborales entre el Ayuntamiento y sus trabajadores, se apeguen a lo dispuesto en la Ley de los Trabajadores al Servicio de las Instituciones Públicas del Estado y Municipios de San Luis Potosí.
+
+Tratándose de directores, subdirectores de área, o jefes de área o departamento, así como todo servidor público que ejerza funciones de dirección, inspección, vigilancia y fiscalización, cuando tengan carácter general, así como todas aquéllas que por su naturaleza se definan como tales en los catálogos o tabuladores generales de puestos a que se refiere la Ley de los Trabajadores de las Instituciones Públicas del Estado de San Luis Potosí, el nombramiento será por el periodo de duración de la administración que los designó; pudiendo removerlos anticipadamente por causa justificada sin que proceda, reinstalación o pago de salarios vencidos, más allá del periodo establecido en el nombramiento respectivo;
 
 VII. Nombrar al Presidente del Sistema Municipal para el Desarrollo Integral de la Familia;
 
@@ -1043,7 +1053,9 @@ El Síndico tendrá las siguientes facultades y obligaciones:
 
 I. La procuración, defensa y promoción de los intereses municipales;
 
-II. La representación jurídica del Ayuntamiento en los asuntos en que éste sea parte, y en la gestión de los negocios de la hacienda municipal;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
+II. La representación jurídica del Ayuntamiento en los asuntos en que éste sea parte, y en la gestión de los negocios de la hacienda municipal, con todas las facultades de un apoderado general para pleitos y cobranzas, pudiendo además nombrar ante los tribunales, delegados, representantes legales, apoderados, coadyuvantes, según sea el caso, ello en los términos que establezca la ley que rija la materia en cuyo procedimiento comparezca;
 
 III. Vigilar la correcta aplicación del presupuesto municipal;
 
@@ -2262,6 +2274,12 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
 
 P.O. 24 DE JUNIO DE 2010.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 21 DE DICIEMBRE DE 2010.
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
