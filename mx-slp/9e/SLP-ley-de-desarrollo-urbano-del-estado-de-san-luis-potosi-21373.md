@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-desarrollo-urbano-del-estado-de-san-luis-potosi-21373"
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-07"
-last_updated: "2010-09-11"
+last_updated: "2010-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21373&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE DESARROLLO URBANO DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE SEPTIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 2010.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 7 de octubre de 2000.
 
@@ -1741,7 +1741,7 @@ IV. Zonas Típicas: Aquellas áreas que por su aspecto peculiar contienen un nú
 
 V. Lugares de bellezas naturales: Los sitios cuyas características de flora y fauna requieran de conservación y mejoramiento, y
 
-VI. Inventario: El catálogo de los bienes muebles e inmuebles clasificados por su reelevancia (sic)arqueológica, histórica, arquitectónica, artística y natural en el Estado.
+VI. Inventario: El catálogo de los bienes muebles e inmuebles clasificados por su reelevancia (sic) arqueológica, histórica, arquitectónica, artística y natural en el Estado.
 
 ###### ARTICULO 97.
 
@@ -2895,7 +2895,9 @@ c) Reunirán las características físicas que se indican: no exceder su pendien
 
 d) Su localización dentro del respectivo desarrollo urbano, será determinada por el ayuntamiento, a fin de responder debidamente a la mejor distribución, acceso y funcionamiento de los servicios públicos urbanos.
 
-El ayuntamiento deberá respetar en las áreas de donación de que se trate, el cuarenta por ciento de área verde, que quedará al cuidado de los vecinos del fraccionamiento; y el resto lo podrá utilizar para equipamiento urbano u obras que considere de beneficio para la población; en caso de que se vaya a transferir el área a un tercero, deberá ser aprobado por cuando menos las dos terceras partes de los integrantes del cabildo, y la posterior autorización del Honorable Congreso del Estado, para que tenga validez.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
+El ayuntamiento reservará en las áreas de donación de que se trate, el cincuenta por ciento para área verde, la que quedará al cuidado de los vecinos del fraccionamiento; y el resto deberá ser utilizado exclusivamente para equipamiento urbano, en beneficio social.
 
 La formalización del cumplimiento de esta obligación deberá efectuarse en el mismo acto en que conste la protocolización del acta de notificación del fraccionamiento autorizado. El incumplimiento de la escrituración respectiva, dejará sin efecto la aprobación del fraccionamiento, girando el ayuntamiento la notificación respectiva a catastro municipal, y al Registro Público de la Propiedad y del Comercio; sin perjuicio de las demás sanciones a que se haga acreedor el titular de la autorización;
 
@@ -3077,7 +3079,7 @@ V. Plazo para solicitar la autorización de iniciación de obras y para dar tér
 
 VI. Monto del impuesto y derechos que deban pagarse de conformidad a la legislación de la materia, y
 
-VII. Apercibimiento de que la autorización no habilita para dar inicio a la ejecución de obras ni a llevar a acabo ninguno de los actos para los cuales ésta Ley y su reglamento exijan autorización específica.
+VII. Apercibimiento de que la autorización no habilita para dar inicio a la ejecución de obras ni a llevar a acabo (sic) ninguno de los actos para los cuales ésta Ley y su reglamento exijan autorización específica.
 
 ### CAPITULO XV. DE LA MUNICIPALIZACION DE LOS FRACCIONAMIENTOS
 
@@ -3679,7 +3681,7 @@ VIII. La demolición total o parcial de las obras efectuadas en contravención a
 
 Los Servidores Públicos Estatales y Municipales que tramiten documentos, contratos o convenios que contravengan ésta Ley y falten a la obligación de guardar el secreto respecto de los escritos que conozcan, revelando asuntos confidenciales, haciendo mal uso de la información contenida en éstos, o aprovechándose de ellos, exijan a título de cooperación o colaboración u otro semejante, cualquier prestación pecuniaria o de otra índole, serán sancionados con multa de treinta días hábiles de sueldo, sin perjuicio de la responsabilidad en que incurran conforme a la Ley de los Servidores Públicos del Estado y Municipios de San Luis Potosí.
 
-No podrán, por tanto, realizar ningún contrato translativo de dominio para adquirir acciones, terrenos y viviendas o locales de un desarrollo en el que intervinieron en su trámite oficial o bien utilizar la información de dicho trámite para obtener un beneficio para sí, su cónyuge, parientes consanguíneos, sin límite de grado, o por afinidad hasta el octavo grado.
+No podrán, por tanto, realizar ningún contrato translativo (sic) de dominio para adquirir acciones, terrenos y viviendas o locales de un desarrollo en el que intervinieron en su trámite oficial o bien utilizar la información de dicho trámite para obtener un beneficio para sí, su cónyuge, parientes consanguíneos, sin límite de grado, o por afinidad hasta el octavo grado.
 
 ###### ARTICULO 232.
 
@@ -3848,6 +3850,12 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 SEGUNDO. Se derogan todas las disposiciones, ordenamientos legales y administrativos que se opongan a este Decreto.
 
 P.O. 11 DE SEPTIEMBRE DE 2010.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones y ordenamientos legales y administrativas que se opongan al presente Decreto.
+
+P.O. 21 DE DICIEMBRE DE 2010.
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
