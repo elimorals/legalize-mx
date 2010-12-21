@@ -4,7 +4,7 @@ identifier: "GRO-codigo-penal-del-estado-de-guerrero-5098"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-11-14"
-last_updated: "2008-01-01"
+last_updated: "2010-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5098&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CODIGO PENAL DEL ESTADO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE ENERO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 2010.
 
 Código publicado en el Periódico Oficial del Estado de Guerrero, el viernes 14 de noviembre de 1986.
 
@@ -351,7 +351,9 @@ Tratándose de mujeres con hijos menores de edad; jóvenes menores de 23 años q
 
 I.- La restitución de la cosa obtenida por el delito y si no fuere posible, el pago del precio de la misma;
 
-II.- La indemnización del daño material o legal y moral causado, incluyendo el pago de los tratamientos curativos que, como consecuencia del delito, sean necesarios para la recuperación de la salud de la víctima. En los casos de delitos contra la libertad e inexperiencia sexuales y de violencia intrafamiliar, además comprenderá el pago de los tratamientos psicoterapéuticos que sean necesarios para la víctima y los familiares de ésta que así lo requieran.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
+II.- La indemnización del daño material o legal y moral causado, incluyendo el pago de los tratamientos curativos que, como consecuencia del delito, sean necesarios para la recuperación de la salud de la víctima. En los casos de delitos contra la libertad e inexperiencia sexuales y de violencia familiar, además comprenderá el pago de los tratamientos psicoterapéuticos que sean necesarios para la víctima y los familiares de ésta que así lo requieran.
 
 ES MATERIAL O LEGAL, en tratándose de personas, bienes muebles o inmuebles o del bien jurídico vulnerado.
 
@@ -841,9 +843,9 @@ La prescripción de la potestad de ejecutar las demás penas y medidas de seguri
 
 103.- Al que prive de la vida a otro, se le impondrá prisión de ocho a veinte años.
 
-> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 1991)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
-104.- Al que dolosamente prive de la vida a su ascendiente o descendiente consanguíneo, en línea recta, hermano, cónyuge, concubina o concubinario, adoptante o adoptado con conocimiento de ese parentesco o relación, se le impondrá prisión de veinte a cuarenta años.
+104.- Al que dolosamente prive de la vida a su ascendiente o descendiente consanguíneo, en línea recta, hermano, cónyuge, concubina o concubinario; o persona con quien se tenga o haya tenido una relación de hecho, adoptante o adoptado con conocimiento de ese parentesco o relación, se le impondrá prisión de veinte a cuarenta años.
 
 # LIBRO SEGUNDO. PARTE ESPECIAL
 
@@ -885,7 +887,9 @@ Para los efectos de este artículo se entiende como adulto mayor a la persona qu
 
 Si se tratare de un menor y éste, al sufrir el daño, se comprueba mediante dictamen médico y previa opinión de especialistas en la materia, que su desarrollo integral será afectado al agente activo se le aplicará lo establecido en el último párrafo de la fracción IV del artículo 108 de este ordenamiento.
 
-107.- Al que dolosamente lesione a su ascendiente o descendiente consanguíneo o línea recta, hermano, cónyuge, concubina o concubinario, adoptante o adoptado con conocimiento de ese parentesco o relación, se le impondrá hasta una mitad más de las penas aplicables por la lesión inferida.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
+107.- Al que dolosamente lesione a su ascendiente o descendiente consanguíneo en línea recta, hermano, cónyuge, concubina o concubinario, o persona con quien se tenga o haya tenido una relación de hecho, adoptante o adoptado con conocimiento de ese parentesco o relación, se le impondrá hasta una mitad más de las penas aplicables por la lesión inferida.
 
 ### CAPITULO III. DISPOSICIONES COMUNES AL HOMICIDIO Y LESIONES
 
@@ -911,7 +915,13 @@ c).- Cuando se empleen medios o aprovechando circunstancias o situaciones tales 
 
 d).- Cuando el ofendido se haya inerme o caído y el activo esté armado de pie.
 
-e).- Cuando el activo sea un hombre y el pasivo una mujer, notoriamente superior en fuerza, destreza o capacidad intelectual, de aquél respecto a ésta;
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
+e).- Cuando el activo sea un hombre y el pasivo una mujer o cuando sea motivado por la discriminación.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
+f).- Cuando exista una situación de vulnerabilidad motivada por la discriminación.
 
 > <small>(REFORMADA, P.O. 20 DE ABRIL DE 1999)</small>
 
@@ -930,6 +940,36 @@ Se aplicará la misma pena a que se refiere el artículo 108 de este ordenamient
 > <small>(ADICIONADO, P.O. 14 DE MAYO DE 2002)</small>
 
 El que cometa este delito no tendrá derecho a gozar de los beneficios de remisión parcial de la pena, tratamiento preliberacional y libertad preparatoria que prevé la Ley de Ejecución de Penas Privativas y Restrictivas de la Libertad del Estado.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
+### CAPITULO IV. INSTIGACION O AYUDA AL SUICIDIO
+
+115.- Al que instigue o ayude a otro para que se suicide, se le impondrá prisión de uno a ocho años, si el suicidio se consumare.
+
+Si el suicidio no se consuma la prisión será de tres meses a cuatro años, pero si se causan lesiones se aplicarán de seis meses a seis años de prisión.
+
+Cuando la persona a quien se instigue o ayude al suicidio fuere menor de edad o no tuviere capacidad de comprender la relevancia de su conducta o de determinarse de acuerdo a esa comprensión, las penas previstas en este artículo se aumentarán hasta en una mitad más y se impondrán de diez a cincuenta días multa.
+
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 1991)</small>
+
+Cuando el cónyuge, concubino o amasio, instiguen o auxilien al otro a suicidarse, las penas previstas en este artículo se aumentarán hasta en una mitad más y se impondrán de diez a cincuenta días multa.
+
+###### ARTÍCULO 108 Bis.
+
+Comete el delito de feminicidio y se le impondrán de treinta a cincuenta años de prisión, al que prive de la vida a una mujer, cuando concurra cualquiera de las circunstancias siguientes:
+
+l.- Para ocultar una violación;
+
+II.- Por desprecio u odio a la víctima;
+
+III. - Por tortura o tratos crueles o degradantes;
+
+IV.- Exista o haya existido una relación de afecto entre la víctima y el agresor;
+
+V.- Se haya realizado por violencia familiar; o
+
+VI.- La víctima se haya encontrado en estado de indefensión.
 
 > <small>(REFORMADO, P.O. 20 DE ABRIL DE 1999)</small>
 
@@ -982,18 +1022,6 @@ IV.- Con prisión de cinco a trece años, si comete lesiones a dos o más agravi
 113.- Las lesiones previstas en las fracciones I y II del artículo 105 se perseguirán por querella, salvo que el agente se encontrase bajo el influjo de bebidas embriagantes, estupefacientes o sustancias que produzcan efectos similares y en estos últimos casos no fuere por prescripción médica; o bien, cuando se diere a la fuga y no auxiliáse a la víctima del delito.
 
 114.- Además de las sanciones que se deban imponer conforme a los artículos que preceden, el juzgador podrá, si lo estima pertinente, declarar a los reos sujetos a vigilancia de la autoridad.
-
-### CAPITULO IV. INSTIGACION O AYUDA AL SUICIDIO
-
-115.- Al que instigue o ayude a otro para que se suicide, se le impondrá prisión de uno a ocho años, si el suicidio se consumare.
-
-Si el suicidio no se consuma la prisión será de tres meses a cuatro años, pero si se causan lesiones se aplicarán de seis meses a seis años de prisión.
-
-Cuando la persona a quien se instigue o ayude al suicidio fuere menor de edad o no tuviere capacidad de comprender la relevancia de su conducta o de determinarse de acuerdo a esa comprensión, las penas previstas en este artículo se aumentarán hasta en una mitad más y se impondrán de diez a cincuenta días multa.
-
-> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 1991)</small>
-
-Cuando el cónyuge, concubino o amasio, instiguen o auxilien al otro a suicidarse, las penas previstas en este artículo se aumentarán hasta en una mitad más y se impondrán de diez a cincuenta días multa.
 
 ### CAPITULO V. ABORTO
 
@@ -1129,25 +1157,17 @@ XII. Que la secuestrada se encuentre en estado de gravidez.
 
 129 BIS 3.- A quien cometa el delito de secuestro comprendido en los artículos 129, 129 Bis, 129 Bis 1 y 129 Bis 2 no tendrá derecho a gozar de la conmutación de sanciones, remisión parcial de la pena, tratamiento preliberacional, libertad preparatoria o cualquiera de los otros beneficios que la Ley respectiva establece.
 
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
 ### CAPITULO IV. PRIVACION ILEGAL DE LA LIBERTAD CON PROPOSITOS SEXUALES
 
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 1999)</small>
+130.- (DEROGADO, P.O. 21 DE DICIEMBRE DE 2010)
 
-130.- Al que prive de su libertad, sustraiga o retenga a una persona por medio de la violencia o del engaño para realizar un acto sexual, satisfacer un acto erótico o para casarse con ella, se le impondrá prisión de tres a cinco años.
+131.- (DEROGADO, P.O. 21 DE DICIEMBRE DE 2010)
 
-> <small>(REFORMADO Y REUBICADO, P.O. 20 DE ABRIL DE 1999)</small>
+132.- (DEROGADO, P.O. 21 DE DICIEMBRE DE 2010)
 
-131.- Al que con los fines a que se refiere el artículo precedente, sustraiga o retenga a una persona menor de catorce años de edad o que no tenga capacidad de comprender o que por cualquier causa no pudiere resistir, se le impondrá prisión de cuatro a siete años. Si el medio empleado fuese la violencia, la pena se aumentará hasta en una mitad.
-
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 1999)</small>
-
-132.- Si el sujeto activo desiste de su conducta dentro de los tres días siguientes y coloca a la agraviada en un lugar seguro, sin haber llegado a la realización de la cópula, la pena podrá disminuirse hasta la mitad.
-
-Las penas a que se refiere el presente artículo se aplicarán con independencia de las que pudieran corresponder por otros delitos cometidos en la ejecución del secuestro o plagio.
-
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 1999)</small>
-
-133.- El delito de privación ilegal de la libertad con propósitos sexuales, se perseguirá por querella de parte ofendida o de su legítimo representante.
+133.- (DEROGADO, P.O. 21 DE DICIEMBRE DE 2010)
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 17 DE ABRIL DE 2007)</small>
 
@@ -1183,13 +1203,15 @@ c) Si el delito es cometido en contra de quien no tenga capacidad para comprende
 
 d) Cuando el sujeto activo del delito tenga parentesco por consanguinidad, afinidad o civil, habite en el mismo domicilio con la víctima, tenga una relación similar al parentesco o una relación sentimental o de confianza con el sujeto pasivo; además, en los casos que proceda, perderá la patria potestad, guarda y custodia o régimen de visitas y convivencias, el derecho de alimentos que le correspondiera por su relación con la víctima y el derecho que pudiere tener respecto de los bienes de ésta.
 
-### CAPITULO I. AMENAZAS
+### CAPITULO I. AMENAZAS Y DISCRIMINACIÓN
 
 > <small>(REFORMADO, P.O. 19 DE FEBRERO DE 1993)</small>
 
 134.- Al que amenace a otro con causarle daño en alguno de sus bienes jurídicos o en los de un tercero con quien el ofendido tenga vínculos de amor, amistad, parentesco, gratitud o cualquier otro, se le impondrá prisión de 3 meses a 2 años o multa de 180 a 360 días de salario y trabajo en favor de la comunidad hasta por 6 meses.
 
 El delito previsto en este artículo se perseguirá a petición de la parte ofendida.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
 ### CAPITULO II. ASALTO
 
@@ -1199,11 +1221,33 @@ El delito previsto en este artículo se perseguirá a petición de la parte ofen
 
 ## TITULO V. DELITOS CONTRA LA PAZ Y LA SEGURIDAD DE LAS PERSONAS
 
+> <small>(REFORMADO EN SU DENOMINACION, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
 ### CAPITULO UNICO. ALLANAMIENTO DE MORADA
 
 137.- Al que sin el consentimiento de la persona que legítimamente pueda otorgarlo o empleando engaño, se introduzca a una casa habitación o a sus dependencias o permanezca en ellas, se le impondrá prisión de seis meses a tres años.
 
 Si el medio empleado fuese la violencia, la penalidad se aumentará hasta en una mitad más.
+
+Este delito se perseguirá por querella.
+
+###### ARTÍCULO 134 Bis.
+
+Se impondrán de uno a tres años de prisión o de veinticinco a cien días de trabajo a favor de la comunidad y multa de cincuenta a doscientos días al que, por razón de edad, sexo, estado civil, embarazo, raza, procedencia étnica, idioma, religión, ideología, orientación sexual, color de piel, nacionalidad, origen o posición social, trabajo o profesión, posición económica, características físicas, discapacidad o estado de salud o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas cuando:
+
+I.- Provoque o incite al odio o a la violencia;
+
+II. - Niegue a una persona un servicio o una prestación a la que tenga derecho;
+
+III.- Veje o excluya a alguna persona o grupo de personas; o
+
+IV.- Niegue o restrinja derechos laborales.
+
+Para los efectos de la fracción II, se considera que toda persona tiene derecho a los servicios o prestaciones que se ofrecen al público en general.
+
+Al servidor público que, por razones previstas en el primer párrafo de éste artículo, niegue o retarde a una persona un trámite, servicio o prestación al que tenga derecho, se le aumentará en una mitad la pena prevista en el primer párrafo del presente artículo, y además se le impondrá destitución e inhabilitación para el desempeño de cualquier cargo, empleo o comisión públicos, por el mismo lapso de la privación de la libertad impuesta.
+
+No serán consideradas discriminatorias todas aquellas medidas tendientes a la protección de los grupos socialmente desfavorecidos.
 
 Este delito se perseguirá por querella.
 
@@ -1221,43 +1265,49 @@ Este delito se perseguirá por querella.
 
 139.- Al que por medio de la violencia física o moral realice cópula con persona de cualquier sexo, se le impondrá prisión de ocho a dieciséis años y de sesenta a cuatrocientos días multa.
 
-Se entiende por cópula, cualquier forma de ayuntamiento carnal en el cuerpo de la víctima, sea ésta por vía vaginal, anal u oral, independientemente del sexo.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
-> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 1999)</small>
+Se entiende por cópula, la introducción del miembro viril en el cuerpo de la víctima, sea ésta por vía vaginal, anal u oral, independientemente del sexo.
 
-139 BIS.- Se aplicará la misma pena establecida para el delito de violación, cuando el agente introduzca por vía vaginal o anal, cualquier objeto o instrumento distinto al miembro viril, por medio de la violencia física o moral, independientemente del sexo del ofendido.
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE MAYO DE 2002)</small>
+La misma pena será aplicable cuando este delito se cometa por el cónyuge.
 
-140.- Se equipara a la violación y se sancionará de doce a dieciocho años de prisión y de ciento veinte a quinientos días multa:
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 1999)</small>
+139 BIS.- Se equipara a la violación y se aplicará la misma pena señalada en el artículo 139, cuando el agente introduzca por vía vaginal o anal, cualquier objeto o instrumento distinto al miembro viril, por medio de la violencia física o moral, independientemente del sexo del ofendido.
 
-I.- Cuando se realice cópula con persona menor de doce años de edad; y
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 1999)</small>
+140.- La violación se sancionará de doce a dieciocho años de prisión y de ciento veinte a quinientos días multa, cuando las conductas señaladas en los artículos 139 y 139 Bis se realicen:
 
-II.- Al que realice cópula con persona, que independientemente de su edad se encuentre incapacitada para comprender el significado del hecho o sin posibilidad de resistir la conducta delictuosa.
+I.- Con persona menor de doce años de edad; o
+
+II.- Con persona que independientemente de su edad se encuentre incapacitada para comprender el significado del hecho o sin posibilidad de resistir la conducta delictuosa.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE MAYO DE 2002)</small>
 
 141. Se aplicará de dieciocho a veintidós años de prisión y de ciento veinte a quinientos días multa:
 
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 1999)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
-I.- Cuando al imponer la cópula en los casos previstos en el artículo anterior se ejerza violencia;
+I.- Cuando se ejerza violencia en los casos previstos en el artículo anterior;
 
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 1999)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
-II.- Cuando la acción copulativa, se efectúe por parte del activo, aprovechando la autoridad que ejerza legalmente, sobre la víctima ascendiente contra su descendiente, tutor contra su pupilo, sancionándose además con la pérdida del ejercicio de la patria potestad, tutela, custodia, guarda o educación y, en su caso de los derechos sucesorios o de administrar los bienes con respecto de la víctima;
+II.- Cuando se aproveche la autoridad que se ejerza legalmente, sobre la víctima ascendiente contra su descendiente, tutor contra su pupilo, sancionándose además con la pérdida del ejercicio de la patria potestad, tutela, custodia, guarda o educación y, en su caso, de los derechos sucesorios o de administrar los bienes con respecto de la víctima;
 
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 1999)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
-III.- Cuando la acción copulativa se realice por el activo, aprovechando los medios o circunstancias que le proporcione el empleo, cargo público o comisión que ejerza en atención a su profesión. El agente además será condenado a la destitución del cargo o empleo y a la inhabilitación por el término de ocho años;
+III.- Cuando el activo aproveche los medios o circunstancias que le proporcione el empleo, cargo público o comisión para cometer el delito. Además de la sanción correspondiente será condenado a la destitución del cargo o empleo y a la inhabilitación por el término de ocho años;
 
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 1999)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
-IV.- Cuando por la realización de estos delitos resultare un grave daño a la salud de la víctima o pusiere en peligro su vida.
+IV.- Cuando por la realización de este delito resultare un grave daño a la salud de la víctima o pusiere en peligro su vida; y
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
+V.- Cuando este delito sea cometido por ministro de culto religioso.
 
 > <small>(REFORMADO, P.O. 20 DE ABRIL DE 1999)</small>
 
@@ -1271,9 +1321,11 @@ La misma pena se aplicará cuando la violación se ejecute con motivo de un asal
 
 142 BIS.- El que cometa el delito de violación en cualquiera de las modalidades previstas en este Capítulo, no tendrá derecho a gozar de la conmutación de sanciones, remisión parcial de la pena, tratamiento preliberacional, libertad preparatoria o cualquiera de los otros beneficios que la Ley respectiva establece.
 
+> <small>(REFORMADO EN SU DENOMINACION, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
 ## TITULO VII. DELITOS CONTRA LA INVIOLABILIDAD DEL SECRETO
 
-### CAPITULO II. ABUSOS DESHONESTOS
+### CAPÍTULO II. ABUSO SEXUAL
 
 > <small>(REFORMADO, P.O. 20 DE ABRIL DE 1999)</small>
 
@@ -1287,9 +1339,21 @@ Se aplicarán las mismas penas cuando el agente del delito obligue al pasivo a e
 
 144.- Se aumentarán hasta en una mitad más las penas previstas en el artículo anterior cuando:
 
-I.- Se hiciera uso de violencia física o moral, y
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
-II.- Si el ilícito fuese cometido por un ascendiente contra su descendiente; de éste contra aquél; entre hermanos; el tutor contra su pupilo; por el padrastro, madrastra o amasio de la madre o el padre del ofendido en contra el hijastro; o por la persona que tiene al ofendido bajo su custodia, guarda o educación o aproveche la confianza en él depositada.
+I.- Se hiciere uso de violencia física o moral;
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
+II.- Si el delito fuese cometido por un ascendiente contra su descendiente; de éste contra aquél; entre hermanos; el tutor contra su pupilo; por el padrastro, madrastra o amasio de la madre o el padre del ofendido en contra el hijastro; o por la persona que tiene al ofendido bajo su custodia, guarda o educación o aproveche la confianza en él depositada; o
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
+III. - Si el ilícito fuera cometido por ministro de culto religioso o por servidor público.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
+Tratándose de ministro de culto religioso, Además de la sanción prevista, se hará del conocimiento a la autoridad competente para solicitar su destitución e inhabilitación, y en el caso del servidor público será destituido del cargo o empleo e inhabilitado por el término de ocho años.
 
 ## TITULO VIII. DELITOS CONTRA LA LIBERTAD SEXUAL
 
@@ -1299,11 +1363,11 @@ II.- Si el ilícito fuese cometido por un ascendiente contra su descendiente; de
 
 145.- Al que tenga cópula con persona mayor de doce y menor de dieciocho años de edad, logrando su consentimiento por medio de seducción o engaño, se le impondrá prisión de uno a seis años y de sesenta a trescientos días multa.
 
-En el delito de estupro, el matrimonio del agente con la ofendida extingue la acción penal y la potestad de ejecución en relación con todos los participantes.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
-> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 1999)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
-Este delito sólo será perseguido a petición de la parte ofendida o de sus padres y a falta de éstos, por su legítimo representante; para efecto del perdón se deberá tomar en forma prioritaria la decisión del ofendido.
+Este delito sólo será perseguido a petición de la parte ofendida o de sus padres y a falta de éstos, por su legítimo representante; para efecto del perdón se deberá tomar en forma prioritaria la decisión del ofendido y reparar los daños sufridos por la comisión de este ilícito.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 20 DE ABRIL DE 1999)</small>
 
@@ -1335,9 +1399,15 @@ Igual pena se aplicará al que imponga la misma condición a que se refiere el p
 
 147.- Al que sin consentimiento de una mujer mayor de edad, o con el consentimiento de una incapaz, realice en ella una fecundación a través de medios clínicos, se le aplicará de dos a seis años de prisión y multa de cincuenta a doscientos días. La pena se aumentará hasta en una mitad más si la fecundación se realiza con violencia.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 20 DE ABRIL DE 1999)</small>
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
-### CAPITULO VI. FECUNDACION A TRAVES DE MEDIOS CLINICOS
+ARTÍCULO 147 B.- Comete el delito de esterilidad provocada, quien sin el consentimiento de una persona practique en ella procedimientos quirúrgicos con el propósito de provocar esterilidad.
+
+Se sancionará con una pena de cuatro a siete años de prisión y multa de cuarenta a ciento veinte días de salario mínimo, además de la reparación del daño.
+
+> <small>(REFORMADO EN SU DENOMINACION, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
+### CAPITULO VI. FECUNDACION A TRAVES DE MEDIOS CLINICOS Y ESTERILIDAD PROVOCADA
 
 > <small>(ADICIONADO, P.O. 20 DE ABRIL DE 1999)</small>
 
@@ -1353,13 +1423,13 @@ III.- Se lleve a cabo por dos o más personas.
 
 ### CAPITULO VII. DISPOSICIONES COMUNES
 
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 1999)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
-148.- Los delitos previstos en este Título serán perseguibles por querella, con excepción de la violación y los abusos deshonestos a que elude (sic) el segundo párrafo del artículo 143 y la fracción II del artículo 144.
+148.- Los delitos previstos en este Título serán perseguibles de oficio, a excepción de los que se señalen por querella de parte ofendida.
 
-> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 1999)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
-148 BIS.- Cuando a consecuencia de la comisión de alguno de los delitos previstos en los capítulos I, III, V y VI de este Título; resulten hijos, la reparación del daño comprenderá el pago de alimentos para éstos y para la madre en los términos que fija la Ley de Divorcio y la Legislación Civil.
+148 BIS.- Cuando a consecuencia de la comisión de alguno de los delitos previstos en los Capítulos I, III, V y VI de este Título; resulte descendencia además de la reparación del daño, se fijará el pago de alimentos para los descendientes y para la madre.
 
 ### CAPITULO I. INJURIAS
 
@@ -1761,9 +1831,7 @@ El agraviado o el representante podrá optar por demandar previamente ante las a
 
 Si el obligado paga todas las cantidades debidas o se somete al régimen de pago que el Juez le señale, garantizando el pago de las cantidades que en el futuro le corresponda satisfacer, se decretará el sobreseimiento en la causa, atendiendo a las reglas establecidas en el Código de Procedimientos Penales.
 
-189.- Al que dolosamente se coloque en estado de insolvencia, con el objeto de eludir el cumplimiento de las obligaciones alimentarias que la ley determina, se le impondrá prisión de tres meses a tres años. El juez resolverá sobre la aplicación del producto del trabajo que realice el agente, a la satisfacción de las obligaciones alimentarias de éste.
-
-> <small>(REFORMADA SU DENOMINACION, P.O. 20 DE ABRIL DE 1999)</small>
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
 ### CAPITULO II. SUSTRACCION DE MENORES O INCAPACES Y ROBO DE INFANTE
 
@@ -1811,6 +1879,16 @@ Cuando en la comisión del delito no exista el consentimiento a que se refiere e
 
 A quienes teniendo el ejercicio de la patria potestad, tutela o custodia, cometan el delito previsto por este artículo, se les sancionará, además, con privación de aquél y de los derechos de familia en relación con el ofendido.
 
+###### ARTÍCULO 188 Bis.
+
+Las mismas sanciones se impondrán a quienes con el propósito de eludir o suspender el cumplimiento de sus obligaciones alimentarias decretadas por autoridad judicial, renuncie, abandone su trabajo, u obtenga licencia sin causa justificada.
+
+Se impondrá prisión de seis meses a dos años y multa de cincuenta a cien salarios mínimos, a aquellas personas que obligadas a informar acerca de los ingresos de quienes deban cumplir con las obligaciones señaladas, incumplan con la orden judicial de hacerlo.
+
+189.- Al que dolosamente se coloque en estado de insolvencia, con el objeto de eludir el cumplimiento de las obligaciones alimentarias que la ley determina, se le impondrá prisión de tres meses a tres años. El juez resolverá sobre la aplicación del producto del trabajo que realice el agente, a la satisfacción de las obligaciones alimentarias de éste.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 20 DE ABRIL DE 1999)</small>
+
 ### CAPITULO IV. DELITOS CONTRA LA FILIACION Y EL ESTADO CIVIL
 
 192.- Se aplicará prisión de tres meses a dos años y privación de los derechos inherentes al parentesco, a la custodia o a la tutela en relación con el ofendido, al que:
@@ -1839,57 +1917,37 @@ VIII.- Declare falsamente el fallecimiento de una persona en el acta respectiva.
 
 ### CAPITULO VI. INCESTO
 
-194.-A los parientes consanguíneos, sean ascendientes, descendientes o hermanos, que con conocimiento de su parentesco tengan cópula entre sí, se les impondrá prisión de tres meses a tres años.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE ABRIL DE 1999)</small>
+194.- A los parientes consanguíneos, sean ascendientes, descendientes o hermanos, mayores de edad, que con conocimiento de su parentesco tengan cópula entre sí, se les impondrá prisión de tres meses a tres años.
 
-### CAPITULO VII. VIOLENCIA INTRAFAMILIAR
+> <small>(REFORMADO EN SU DENOMINACIÓN, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2006)</small>
+### CAPITULO VII. VIOLENCIA FAMILIAR
 
-194 A.- Se entiende por violencia intrafamiliar el acto u omisión intencional realizada con el fin de dominar, someter o controlar, o maltratar física, verbal, psico-emocional o sexualmente a cualquiera de las personas señaladas en las fracciones del artículo 194-B del presente Código, independientemente de que pueda o no producir otro delito.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
-Para los efectos de este capítulo se entiende por:
+194 A.- Comete el delito de violencia familiar el que realice conductas dirigidas a dominar, controlar o agredir física, psicológica, patrimonial o económicamente a alguna persona con la que se encuentre o haya estado unida por un vínculo matrimonial, de parentesco por consanguinidad, afinidad o civil; concubinato, o una relación de hecho, dentro o fuera del domicilio familiar y se le impondrá de uno a cinco años de prisión.
 
-I. Maltrato físico.- Toda agresión intencional, en la que se utilice alguna parte del cuerpo, algún objeto, arma o sustancia para sujetar, inmovilizar o causar daño a la integridad física de otro;
+Ninguna forma de maltrato cometido contra los menores, podrá ser justificada como parte de la educación o formación de los mismos.
 
-II. Maltrato psico-emocional.- Al patrón de conducta consistente en actos u omisiones, cuyas formas de expresión pueden ser prohibiciones, condicionamientos, coacciones, intimidaciones, amenazas, actitudes devaluatorias o de abandono, que provoquen en quien las reciba deterioro, disminución o afectación a su personalidad; y
+Este delito se perseguirá de oficio.
 
-III. Maltrato Sexual.- Los actos u omisiones intencionales para el control, manipulación o dominio de la pareja que generen un daño, cuyas formas de expresión pueden ser entre otras: negar las necesidades afectivas, inducir a la realización de prácticas sexuales no deseadas o que generen dolor.
+194 B.- (DEROGADO, P.O. 21 DE DICIEMBRE DE 2010)
 
-> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 1999)</small>
+> <small>(REFORMADO PARRAFO PRIMERO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
-194 B.- Comete el delito de violencia intrafamiliar el que realice cualquier acto u omisión de los señalados en el artículo anterior y ocurra en agravio de:
-
-I.- Su cónyuge;
-
-II.- La pareja a la que esté unida fuera de matrimonio;
-
-III.- Sus parientes consanguíneos en línea recta ascendente o descendente, sin limitación de grados;
-
-IV.- Sus parientes consanguíneos colaterales, hasta el cuarto grado;
-
-V.- Sus parientes por afinidad;
-
-VI.- Los parientes consanguíneos hasta el cuarto grado, de la pareja a la que está unida fuera de matrimonio;
-
-VII.- Sus parientes civiles, ya sea que se trate del adoptante o del adoptado;
-
-VIII.- Cualquier otro miembro de la familia, ya sea menor de edad, incapaz, discapacitado o anciano, que esté sujeto a su patria potestad, custodia, guarda, protección, educación, instrucción o cuidado, y
-
-IX.- La persona con la que tuvo relación conyugal, de concubinato o de pareja unida fuera del matrimonio, en época anterior.
-
-> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 1999)</small>
-
-194 C.- Al que cometa el delito de violencia intrafamiliar se le impondrá de seis meses a cinco años de prisión y la restricción o suspensión de los derechos de familia; si de la comisión de la violencia intrafamiliar resultasen consecuencias señaladas como lesiones u homicidio, se aplicarán las reglas del concurso.
+194 C.- Al que cometa el delito de violencia familiar, además de la sanción prevista se le restringirá o suspenderán sus derechos de familia; si de la comisión de la violencia familiar resultaren otras conductas constitutivas de delitos como lesiones, homicidio o contra la libertad sexual, se aplicarán las reglas del concurso.
 
 Asimismo se sujetará al activo del delito a tratamiento psicológico especializado.
 
-En todos los casos se impondrán como medidas de seguridad, la separación del agresor del domicilio si ambas partes cohabitan en el mismo, la prohibición de ir a algún lugar determinado, la prevención al agresor de que no moleste a la víctima y la sujeción a tratamiento psicológico especializado del sujeto activo del delito. El Juez a petición de parte o de oficio solicitará la intervención del Ministerio Público para el cumplimiento de las medidas anteriores.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
+En todos los casos el Ministerio Público al momento de recibir la denuncia, acordará medidas de seguridad a favor de la o las víctimas, entre ellas, la separación del agresor del domicilio si ambas partes cohabitaran en el mismo, la prohibición al agresor de acudir a lugar determinado, de no molestar a la víctima y la sujeción a tratamiento psicológico especializado. Estas medidas podrán ser ratificadas por el juez, para ello contará con el apoyo de la fuerza pública.
 
 Cuando exista reincidencia por parte del activo, se aumentará la pena en una tercera parte establecida entre el mínimo y el máximo.
 
-El delito de violencia intrafamiliar se perseguirá por querella, salvo que los ofendidos sean menores de edad o incapaces.
+> <small>(DEROGADO ULTIMO PARRAFO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
 ### CAPITULO I. PELIGRO DE DEVASTACION
 
@@ -2387,9 +2445,17 @@ III.- Indebidamente retarde o niegue a los particulares la protección o servici
 
 IV.- Encargado de una fuerza pública, requerido legalmente por una autoridad competente para que le preste auxilio, se niegue indebidamente a dárselo;
 
-V.- Con cualquier pretexto obtenga de un subalterno parte de los sueldos de éste, dádivas o algún servicio indebido, o
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
-VI.- Haga que se le entreguen fondos, valores u otra cosa que no se le haya confiado a él y se los apropie o disponga de ellos indebidamente.
+V.- Con cualquier pretexto obtenga de un subalterno parte de los sueldos de éste, dádivas o algún servicio indebido;
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
+VI.- Haga que se le entreguen fondos, valores u otra cosa que no se le haya confiado a él y se los apropie o disponga de ellos indebidamente; o
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
+VII.- Excluya, limite o impida el ejercicio de un derecho motivado en la discriminación.
 
 > <small>(REFORMADO, P.O. 20 DE ABRIL DE 1999)</small>
 
@@ -2611,7 +2677,13 @@ XXIX.- Poner indebidamente en libertad o favorecer la evasión de una persona qu
 
 XXX.- Propiciar o favorecer el quebrantamiento de alguna pena no privativa de libertad o medida de seguridad impuestas, o
 
-XXXI.- Aprovechar el poder, el empleo o el cargo para satisfacer indebidamente un interés propio.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
+XXXI.- Aprovechar el poder, el empleo o el cargo para satisfacer indebidamente un interés propio; o
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
+XXXXII.- Ejercer presión de cualquier índole a una persona o sus representantes para otorgar el perdón en los delitos que se persigan por querella.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE MAYO DE 2002)</small>
 
@@ -3292,3 +3364,9 @@ SEGUNDO.- Comuníquese el presente decreto al Titular del Poder Ejecutivo Estata
 P.O. 1 DE ENERO DE 2008.
 
 ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 21 DE DICIEMBRE DE 2010.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
