@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-legislativo-del-estado-de-san-luis-52349
 country: "mx"
 rank: "ley_organica"
 publication_date: "2006-06-13"
-last_updated: "2010-12-02"
+last_updated: "2010-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52349&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 2010.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 13 de junio de 2006.
 
@@ -269,7 +269,7 @@ VII. Autorizar las concesiones que otorguen los ayuntamientos, previa solicitud 
 
 VIII. Aprobar conforme lo establece la Constitución Política del Estado y en los términos que señala la Ley Orgánica del Municipio Libre, los contratos y convenios que celebren los ayuntamientos en relación con la prestación de servicios públicos, administración de la hacienda municipal y los que se refieren en el segundo párrafo de la fracción VII del artículo 116 de la Constitución General de la República, así como la asociación que para tales efectos pretendan efectuar con municipios de otras entidades federativas. Asimismo, de conformidad con el ordenamiento citado, determinar los casos y los términos en que los servicios públicos deberán ser asumidos por el Ejecutivo del Estado, y
 
-IX. Resolver conforme al procedimiento que establece el artículo 7° de la Ley Orgánica del Municipio Libre, los conflictos que se susciten entre uno o más municipios, entre éstos y el Poder Ejecutivo del Estado, en los casos a los que se refieren los incisos c) y d) de la fracción II del artículo114 de la Constitución.
+IX. Resolver conforme al procedimiento que establece el artículo 7° de la Ley Orgánica del Municipio Libre, los conflictos que se susciten entre uno o más municipios, entre éstos y el Poder Ejecutivo del Estado, en los casos a los que se refieren los incisos c) y d) de la fracción II del artículo 114 de la Constitución.
 
 ### Capítulo V. De las Atribuciones para Asuntos Internos
 
@@ -367,7 +367,7 @@ l. Velar por la observancia de la Constitución y de las leyes, informando al Co
 
 II. Convocar al Congreso del Estado a periodo extraordinario de sesiones cuando así lo demanden las necesidades, urgencias o gravedad de las circunstancias, a su juicio o a petición fundada del titular del Ejecutivo del Estado, o de alguno de los diputados;
 
-IIII. Ejercer las facultades conferidas al Congreso del Estado en cuanto corresponda al nombramiento y toma de protesta del gobernador provisional;
+III. Ejercer las facultades conferidas al Congreso del Estado en cuanto corresponda al nombramiento y toma de protesta del gobernador provisional;
 
 IV. Recibir, en su caso, la protesta de ley que ante el Congreso del Estado deban rendir los servidores públicos;
 
@@ -527,7 +527,7 @@ Cuando la falta de gobernador ocurriese en los últimos cuatro años del periodo
 
 El Gobernador del Estado en el acto de posesión de su cargo rendirá la protesta del mismo ante el Congreso del Estado, en la siguiente forma:
 
-"PROTESTO GUARDAR Y HACER GUARDAR LA CONSTITUCION POLlTICA DE LOS ESTADOS UNIDOS MEXICANOS, LA DEL ESTADO DE SAN LUIS POTOSI, LAS LEYES QUE DE ELLAS EMANEN; Y DESEMPEÑAR CON LEALTAD Y PATRIOTISMO EL CARGO DE GOBERNADOR DEL ESTADO, PARA BIEN DE LA NACION Y DE ESTE ESTADO.
+"PROTESTO GUARDAR Y HACER GUARDAR LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS, LA DEL ESTADO DE SAN LUIS POTOSI, LAS LEYES QUE DE ELLAS EMANEN; Y DESEMPEÑAR CON LEALTAD Y PATRIOTISMO EL CARGO DE GOBERNADOR DEL ESTADO, PARA BIEN DE LA NACION Y DE ESTE ESTADO.
 
 Acto seguido el Presidente del Congreso declarará: "SI ASI LO HICIERE, QUE EL PUEBLO DE SAN LUIS POTOSI SE LO RECONOZCA; Y SI NO, QUE SE LO DEMANDE."
 
@@ -1109,9 +1109,15 @@ l. Los relacionados a la expedición, reforma, adición y derogación de la legi
 
 II. Los relativos a autorizaciones que solicite el Ejecutivo del Estado, cuya materia sea relativa a vías de comunicación estatales;
 
-III. La realización, en coordinación con las autoridades en la materia, de foros, consultas o mesas de trabajo con los grupos interesados y con la población en general, para la actualización de la legislación en materia de transporte en el Estado;
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
-IV. Los análogos a los anteriores que, a juicio del Presidente de la Directiva en los periodos ordinarios, o del Presidente de la Diputación Permanente en los recesos del Congreso, sean materia del análisis de esta Comisión.
+III. Requerir, a la autoridad competente, la información que considere necesaria relativa a los acuerdos, decisiones, y acciones de las dependencias y/o entidades de la administración pública del Estado, que tengan injerencia directa o indirecta con los temas relacionados con proyectos de infraestructura en, caminos rurales, municipales y estatales, así como los concesionados por el Estado de San Luis Potosí;
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
+IV. La realización, en coordinación con las autoridades en la materia, de foros, consultas o mesas de trabajo con los grupos interesados y con la población en general, para la actualización de la legislación en materia de transporte en el Estado, y
+
+V. Los análogos a los anteriores que, a juicio del Presidente de la Directiva en los periodos ordinarios, o del Presidente de la Diputación Permanente en los recesos del Congreso, sean materia del análisis de esta Comisión.
 
 ###### ARTICULO 103.
 
@@ -1889,6 +1895,12 @@ TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 2 DE DICIEMBRE DE 2010.
 
-PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
+
+P.O. 21 DE DICIEMBRE DE 2010.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones legales que se opongan a este Decreto.
