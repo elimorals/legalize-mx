@@ -4,7 +4,7 @@ identifier: "SLP-ley-para-la-administracion-de-las-aportaciones-transferidas-139
 country: "mx"
 rank: "ley"
 publication_date: "1999-03-16"
-last_updated: "2008-12-18"
+last_updated: "2010-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY PARA LA ADMINISTRACION DE LAS APORTACIONES TRANSFERIDAS AL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 2010.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 16 de marzo de 1999.
 
@@ -337,7 +337,7 @@ De conformidad con el Programa de Inversiones, se podrán afectar en fideicomiso
 
 ###### ARTICULO 38.
 
-En caso de que el Fondo Estatal para la Infraestructura Social recibiera recursos adicionales a los establecidos en el Presupuesto de Egresos Estatal, éstos quedarán sujetos en cuanto a su administración y ejecución, a lo establecido en la presente Ley.
+En caso de que el Fondo Estatal para la Infraestructura Social recibiera recursos adicionales a los establecidos en el Presupuesto de Egresos Estatal, estos quedarán sujetos en cuanto a su administración y ejecución, a lo establecido en la presente Ley.
 
 > <small>(REFORMADO, P.O. 12 DE JUNIO DE 2007)</small>
 
@@ -611,9 +611,11 @@ Asimismo, se impulsará la participación social de manera intensiva y permanent
 
 ### CAPITULO III. De los Consejos de Desarrollo Social Municipal
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 66.
 
-En cada uno de los ayuntamientos deberá constituirse cada tres años un Consejo de Desarrollo Social Municipal que se integrará de la siguiente manera:
+En cada uno de los ayuntamientos se constituirá un Consejo de Desarrollo Social Municipal, el cual deberá estar en funciones durante el periodo constitucional que dure el ayuntamiento, y que se integrará de la siguiente manera:
 
 I. Un Presidente del Consejo, que será el Presidente Municipal;
 
@@ -631,9 +633,11 @@ VI. Un Equipo de Asesores Técnicos, conformado preferentemente por el Secretari
 
 Los Asesores Técnicos sólo tendrán participación con voz pero no con voto. Los demás miembros del Consejo participarán con voz y voto. En caso de empate el Presidente tendrá voto de calidad. La participación de los miembros del Consejo será de carácter honorífico.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 67.
 
-El Consejo electo se constituirá formalmente en asamblea con mayoría simple, la cual se hará constar en un acta, debiendo presentar su Reglamento Interno para este efecto, durante la primera semana del segundo mes del año en que deba constituirse.
+El Consejo electo se constituirá formalmente en asamblea con mayoría simple, lo cual se hará constar en un acta, debiendo presentar su Reglamento Interno para este efecto, durante la segunda semana del segundo mes subsiguiente a la entrada en funciones del nuevo ayuntamiento.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2003)</small>
 
@@ -657,7 +661,7 @@ El Titular del Ejecutivo del Estado o los funcionarios estatales que designe, po
 
 ###### ARTICULO 71.
 
-El Ejecutivo del Estado, a través de la Secretaría de Desarrollo Social y Regional, coadyuvará con los ayuntamientos a la realización de estrategias y esquemas para impulsar la participación social.
+El Ejecutivo del Estado, a través de la Secretarí a de Desarrollo Social y Regional, coadyuvará con los ayuntamientos a la realización de estrategias y esquemas para impulsar la participación social.
 
 ###### ARTICULO 72.
 
@@ -817,7 +821,7 @@ El Estado y los municipios efectuarán los pagos de las obligaciones contraídas
 
 El Estado y los municipios, que en el ejercicio de sus atribuciones de control y supervisión, conozcan que los recursos de los fondos no han sido aplicados a los fines que por cada Fondo se señale en esta Ley, deberán hacerlo del conocimiento en forma inmediata a la Secretaría de la Función Pública, así como a la Auditoría Superior del Estado para proceder en los términos del artículo 49 de la Ley de Coordinación Fiscal Federal.
 
-Cuando la Auditoría Superior del Estado detecte que los recursos de los fondos no se han destinado a los fines establecidos en esta Ley, deberá hacerlo del conocimiento inmediato a la Auditorí a (sic) Superior de la Federación de la Cámara de Diputados del Congreso de la Unión.
+Cuando la Auditoría Superior del Estado detecte que los recursos de los fondos no se han destinado a los fines establecidos en esta Ley, deberá hacerlo del conocimiento inmediato a la Auditori a (sic) Superior de la Federación de la Cámara de Diputados del Congreso de la Unión.
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -888,3 +892,11 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 18 DE DICIEMBRE DE 2008.
 
 UNICO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE DICIEMBRE DE 2010.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Para efecto de dar cumplimiento a este Decreto, los consejos de Desarrollo Social que se encuentren en funciones deberán concluir su periódo al término de las presentes administraciones municipales.
