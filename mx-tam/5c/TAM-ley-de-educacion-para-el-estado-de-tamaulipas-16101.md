@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-educacion-para-el-estado-de-tamaulipas-16101"
 country: "mx"
 rank: "ley"
 publication_date: "1999-10-23"
-last_updated: "2010-12-16"
+last_updated: "2010-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "TAM"
 ---
 # LEY DE EDUCACION PARA EL ESTADO DE TAMAULIPAS
 
-LEY DE EDUCACION PARA EL ESTADO DE TAMAULIPAS
+LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el sábado 23 de octubre de 1999.
 
@@ -69,7 +69,7 @@ VI.- SEP, la Secretaría de Educación Pública; y
 
 VII.- Ley General, la Ley General de Educación.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JUNIO DE 2006)</small>
 
 ###### ARTICULO 3°.
 
@@ -213,13 +213,13 @@ II.- Promover y prestar de manera concurrente con la SEP, servicios educativos d
 
 III.- Planificar, programar, evaluar y promover la cobertura y las modalidades del Sistema Educativo Estatal, considerando la opinión de los sectores sociales;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
 
 IV.- Proponer a la Secretaría de Educación Pública los contenidos regionales que hayan de incluirse en los planes y programas de estudios para la educación primaria, secundaria, normal y demás para la formación de maestros de educación básica. En tales contenidos promoverá asignaturas o unidades sobre el cuidado al medio ambiente y el desarrollo sustentable, la orientación nutricional y el fomento de valores y prácticas sanas y saludables de alimentación, asimismo tomará en cuenta medidas para propiciar la actividad física en los planteles educativos;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
 
@@ -235,7 +235,9 @@ IX.- Realizar eventos y actividades que tiendan a elevar el nivel cultural y soc
 
 X.- Fomentar la formación para el trabajo, vinculándola con los sectores productivos de la Entidad;
 
-XI.- Otorgar becas a los hijos de personas de escasos recursos económicos y/o con alto nivel de aprovechamiento, de acuerdo con las normas respectivas;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
+XI.- Otorgar becas a los hijos de personas de escasos recursos económicos y/o con alto nivel de aprovechamiento, así como a las personas con algún tipo de discapacidad de acuerdo con las normas respectivas;
 
 XII.- Promover la difusión de programas de radio y televisión que impulsen el desarrollo cultural y educativo de la población, exaltando los valores humanos en que se sustenta la convivencia armónica de los miembros de la comunidad;
 
@@ -253,7 +255,7 @@ XVII.- Expedir los Reglamentos de la presente Ley y las disposiciones que de la 
 
 #### SECCION SEGUNDA. ATRIBUCIONES DE LA SECRETARIA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE ENERO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ENERO DE 2006)</small>
 
 ###### Artículo 12.
 
@@ -331,9 +333,11 @@ IX.- Apoyar las gestiones de la Secretaría, de las Subsecretarías y de los res
 
 X.- Velar para que en los casos de epidemia las autoridades sanitarias y educativas procedan de inmediato a la clausura temporal de los establecimientos escolares;
 
-XI.- Otorgar becas a los estudiantes destacados y de escasos recursos;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+XI.- Otorgar becas a los estudiantes destacados y de escasos recursos; así como a las personas con algún tipo de discapacidad;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, 5 DE JUNIO DE 2008)</small>
 
@@ -491,7 +495,7 @@ El tipo medio superior comprende el nivel de bachillerato, los demás niveles eq
 
 Las escuelas de educación media terminal o de enseñanza técnica, normarán sus trabajos de acuerdo a los programas que cubran las necesidades del alumnado y de la Entidad, con el fin de generar recursos humanos en las diferentes actividades de la industria y del trabajo en general.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JUNIO DE 2006)</small>
 
 ###### ARTICULO 29.
 
@@ -511,7 +515,7 @@ Al impartir educación a los menores de edad, se tomarán medidas que aseguren a
 
 El bachillerato o los equivalentes de éste tienen por objeto proporcionar al educando la formación necesaria para ingresar a una institución de educación superior y, en su caso, también prepararlo con conocimientos éticos y técnicos especializados de acuerdo a las ramas productivas existentes en la Entidad y a las exigencias del desarrollo regional.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE OCTUBRE DEL 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE OCTUBRE DEL 2002)</small>
 
 ###### ARTICULO 32.
 
@@ -519,11 +523,15 @@ El tipo superior es el que se imparte después de acreditado el bachillerato o s
 
 La educación superior tiene como propósito formar profesionistas, investigadores, profesores, universitarios y técnicos útiles a la sociedad; organizar y realizar investigaciones, principalmente de las condiciones y problemas regionales, estatales y nacionales, y extender con la mayor amplitud los beneficios de la cultura a la comunidad.
 
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
+Las instituciones de educación superior deberán incorporar las adecuaciones académicas necesarias para permitir que las personas que presenten algún tipo de discapacidad tengan acceso a las carreras que impartan asegurando su permanencia y progreso en ella.
+
 ###### ARTICULO 33.
 
 La educación normal cualesquiera que sean sus modalidades, adoptará los planes y programas de estudios establecidos por la SEP y tendrá por objeto la formación de maestros para satisfacer las necesidades educativas de la Entidad, a fin de que éstos apliquen la política educativa del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JUNIO DE 2006)</small>
 
 ###### ARTICULO 34.
 
@@ -595,7 +603,7 @@ Los Servicios Educativos que imparte el Estado quedarán bajo la responsabilidad
 
 El establecimiento de las instituciones educativas que realice el Ejecutivo del Estado por conducto de otras dependencias de la administración pública estatal, se harán en coordinación con la Secretaría.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE OCTUBRE DEL 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE OCTUBRE DEL 2002)</small>
 
 ###### ARTICULO 40.
 
@@ -717,9 +725,9 @@ A través del proceso educativo se desarrollarán las facultades y aptitudes del
 
 > <small>(ADICIONADO, P.O. 16 DE OCTUBRE DEL 2002)</small>
 
-El Estado impulsará la enseñanza de valores éticos universales en la educación básica –preescolar, primaria y secundaria– y media superior, otorgando en forma gratuita los libros y materiales didácticos correspondientes.
+El Estado impulsará la enseñanza de valores éticos universales en la educación básica – preescolar, primaria y secundaria – y media superior, otorgando en forma gratuita los libros y materiales didácticos correspondientes.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 5 DE JUNIO DE 2008)</small>
 
@@ -843,7 +851,7 @@ VIII.- Pugnará por la constante actualización y superación académica del mag
 
 #### SECCION QUINTA. DE LA EVALUACION DEL SISTEMA EDUCATIVO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE OCTUBRE DEL 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE OCTUBRE DEL 2002)</small>
 
 ###### ARTICULO 72.
 
@@ -925,7 +933,7 @@ XIV.- Evitaran la discriminación en cualquiera de sus modalidades; y
 
 XV.- Capacitarán a los docentes y demás autoridades escolares sobre la forma de detectar y evitar las conductas de acoso u hostigamiento, en las instituciones educativas que dañen la equidad.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 5 DE JUNIO DE 2008)</small>
 
@@ -935,9 +943,11 @@ El Estado y los Municipios también llevarán a cabo programas asistenciales, ay
 
 El Ejecutivo del Estado y los ayuntamientos, podrán celebrar convenios con la Federación para coordinar las actividades contenidas en el presente Capítulo.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 80.
 
-En Tamaulipas funcionará un sistema estatal de becas, créditos y estímulos que integrará y coordinará los diferentes esfuerzos destinados a apoyar la permanencia en la escuela y a alentar el aprendizaje en los alumnos de todos los tipos, niveles y modalidades de educación, con los requisitos que se establezcan en el Reglamento que para tal efecto se expida. Comprenderá tanto programas que propicien el desempeño escolar sobresaliente -- criterio de competencia -- como programas compensatorios -- criterio de equidad -- para los alumnos con carencias económicas. Las becas se destinarán a alumnos de educación básica y de educación media superior, los créditos a estudiantes de educación superior y los estímulos a la superación personal a estudiantes de todos los niveles.
+En Tamaulipas funcionará un sistema estatal de becas, créditos y estímulos que integrará y coordinará los diferentes esfuerzos destinados a apoyar la permanencia en la escuela y a alentar el aprendizaje en los alumnos de todos los tipos, niveles y modalidades de educación, con los requisitos que se establezcan en el Reglamento que para tal efecto se expida. Comprenderá tanto programas que propicien el desempeño escolar sobresaliente, criterio de competencia -- como programas compensatorios, -- criterio de equidad -- para los alumnos con carencias económicas, así como a personas con algún tipo de discapacidad. Las becas se destinarán a alumnos de educación básica y de educación media superior, los créditos a estudiantes de educación superior y los estímulos a la superación personal a estudiantes de todos los niveles.
 
 ### CAPITULO VIII. LA PARTICIPACION SOCIAL EN LA EDUCACION
 
@@ -1021,7 +1031,7 @@ I.- Gestionará ante el ayuntamiento y ante el Ejecutivo del Estado el mejoramie
 
 II.- Conocerá de los resultados de las evaluaciones educativas que se realicen y llevará a cabo labores de seguimiento de las actividades de las escuelas públicas de educación básica del propio Municipio;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
 
@@ -1057,7 +1067,7 @@ En dicho Consejo se asegurará la participación de padres de familia y represen
 
 El Consejo Estatal de Participación Social en la educación tendrá las atribuciones siguientes:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
 
@@ -1223,7 +1233,7 @@ Las disposiciones de este Artículo no son aplicables a los trabajadores de la e
 
 No obstante lo dispuesto en el párrafo anterior, se aplicará lo dispuesto en la fracción I del artículo siguiente, según la gravedad de la falta, al director, subdirector, profesor o prefecto de un establecimiento escolar, o a cualquier otra autoridad educativa, que condicione o niegue, sin causa justificada, el servicio educativo que tenga obligación de prestar, o exija el pago de cuotas escolares obligatorias, aportaciones o cualquier otra contra prestación que infrinja al principio de gratuidad de la educación que imparte el Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE FEBRERO DE 2008)</small>
 
 ###### ARTICULO 104.
 
@@ -1343,7 +1353,7 @@ Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Tamaulipas, a los
 
 El Gobernador Constitucional del Estado, TOMAS YARRINGTON RUVALCABA.- Rúbrica.- La Secretaria General de Gobierno. LAURA ALICIA GARZA GALINDO Rúbrica.
 
-N. DE E., A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 16 DE OCTUBRE DEL 2002.
 
@@ -1408,6 +1418,12 @@ P.O. 26 DE OCTUBRE DE 2010.
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 P.O. 2 DE NOVIEMBRE DE 2010.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE DICIEMBRE DE 2010.
 
 ###### ARTICULO UNICO.
 
