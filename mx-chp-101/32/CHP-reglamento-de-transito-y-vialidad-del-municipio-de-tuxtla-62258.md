@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-de-transito-y-vialidad-del-municipio-de-tuxtla-62258
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-07-09"
-last_updated: "2010-05-12"
+last_updated: "2010-12-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62258&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "CHP"
 ---
 # REGLAMENTO DE TRANSITO Y VIALIDAD DEL MUNICIPIO DE TUXTLA GUTIERREZ, CHIAPAS
 
-REGLAMENTO DE TRANSITO Y VIALIDAD DEL MUNICIPIO DE TUXTLA GUTIERREZ, CHIAPAS.
+REGLAMENTO DE TRANSITO Y VIALIDAD DEL MUNICIPIO DE TUXTLA GUTIÉRREZ, CHIAPAS.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MAYO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2010.
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 9 de julio de 2008.
 
@@ -1271,11 +1271,29 @@ III. Cuando resulten lesionados y no existiera detenido se dará aviso al Fiscal
 
 Todo lo anterior sin perjuicio de la aplicación de las sanciones a que se hagan acreedores, cuando sean puestos a disposición ante la autoridad competente.
 
-### Capítulo Único. De los Programas Especiales
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE DICIEMBRE DE 2010)</small>
+
+### Capítulo X. Del Traslado de Semovientes
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2010)</small>
+
+Artículo 76 A.- En el traslado de semovientes, ganado vacuno, porcino, equino y caballar, en las vías del Municipio de Tuxtla Gutiérrez, Chiapas, los vehículos deberán contar con la autorización específica así como la debida documentación expedida por la autoridad competente.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2010)</small>
+
+Artículo 76 B.- Los propietarios y conductores de vehículos que trasladen semovientes, deberán cumplir con las medidas sanitarias y de protección para evitar accidentes y daños al medio ambiente, estando obligados a cubrir el importe de la reparación de los daños que causen, además de sufrir la sanción a que se hayan hecho acreedores.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2010)</small>
+
+Artículo 76 C.- El transporte de semovientes, únicamente podrá llevarse a cabo en vehículos de carga, sean de uso particular, comercial o del servicio público, debiendo de contar con su respectiva razón social.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2010)</small>
+
+Artículo 76 D.- Los propietarios y conductores de vehículos tienen la obligación de identificarse y exhibir la documentación que ampare la propiedad de lo que transporta, caso contrario, serán puesto (sic) a disposición de la autoridad competente, y se harán acreedores de las sanciones administrativas y penales según sea el caso.
 
 ## Título Cuarto
 
-### Capítulo I. De la Educación e Información Vial
+### Capítulo Único. De los Programas Especiales
 
 ###### Artículo 77.
 
@@ -1285,7 +1303,7 @@ Para la mejor ejecución de estos programas, los agentes podrán disponer de tod
 
 ## Título Quinto. De la Educación Vial y Medios de Protección del Medio Ambiente
 
-### Capítulo II. De los Medios de Protección al Medio Ambiente
+### Capítulo I. De la Educación e Información Vial
 
 ###### Artículo 78.
 
@@ -1325,7 +1343,7 @@ X. Uso adecuado de las vialidades.
 
 El Ayuntamiento y la Secretaría de Seguridad Pública Municipal, podrán celebrar convenios con instituciones públicas o privadas, Estatales o Federales, para dar a conocer a los medios de comunicación masiva, los programas de educación vial, así como para informar al público en general con oportunidad, acerca de la intensidad del tráfico, de las vialidades y de los siniestros que ocurran en las mismas, con el propósito de evitar congestionamientos y prevenir accidentes.
 
-### Capítulo I. De las Infracciones
+### Capítulo II. De los Medios de Protección al Medio Ambiente
 
 ###### Artículo 81.
 
@@ -1351,7 +1369,7 @@ A los conductores de vehículos que circulen en contravención a las restriccion
 
 ## Título Sexto. De las Infracciones o Sanciones a los Conductores
 
-### Capítulo II. De la Circulación de Vehículos, con Permisos Provisionales
+### Capítulo I. De las Infracciones
 
 ###### Artículo 85.
 
@@ -1449,6 +1467,10 @@ XXIV. Por circular con vehículos con placas 'de otra entidad que se encuentren 
 
 XXV. Por permanecer los vehículos más tiempo del indicado en los paraderos.
 
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2010)</small>
+
+XXVI.- Por transportar semovientes sin cumplir con lo dispuesto en el capitulo X, Titulo Tercero, artículo 76 A al 76 D del presente reglamento.
+
 Si como consecuencia de todos los casos antes señalados, hubiere delito que perseguir inmediatamente se pondrá a disposición de la autoridad competente sin perjuicio de las sanciones administrativas que correspondiesen.
 
 Únicamente en caso de flagrante infracción a las disposiciones del presente Reglamento, los Agentes de Tránsito podrán detener la marcha de un vehículo y exigir a su conductor la entrega de su licencia, así como la tarjeta de circulación o permiso provisional que ampare la circulación de la unidad.
@@ -1495,7 +1517,7 @@ IV. Comunicarán al infractor la falta cometida, le solicitarán su licencia de 
 
 V. Comunicarán al infractor la acción a tomar, según lo dispuesto en el artículo 92, del presente reglamento.
 
-### Capítulo III. De los Responsables de las Sanciones
+### Capítulo II. De la Circulación de Vehículos, con Permisos Provisionales
 
 ###### Artículo 89.
 
@@ -1507,7 +1529,7 @@ II. Cuando vayan a ser trasladados de un lugar a otro, dentro o fuera del Estado
 
 III. En los casos de pérdidas o deterioro de una o ambas placas, mientras se sustituyen por otras.
 
-### Capítulo V (sic). De los Recursos
+### Capítulo III. De los Responsables de las Sanciones
 
 ###### Artículo 90.
 
@@ -1777,6 +1799,8 @@ VI. Insultar y/o agredir al personal de tránsito;
 
 VII. Conducir con placas sobrepuestas, sin permiso de sustitución.
 
+### Capítulo V (sic). De los Recursos
+
 ###### Artículo 100.
 
 En caso de inconformidad de las resoluciones que se emitan con fundamento en el presente Reglamento, los afectados podrán promover el recurso administrativo establecido en el Capítulo de Recursos de la Ley Orgánica Municipal para el Estado de Chiapas.
@@ -1815,7 +1839,7 @@ Que el presente documento es copia fiel y exacta reproducción del Reglamento de
 
 A petición de la parte interesada y para los fines legales procedentes, se extiende la presente en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los 12 días del mes de junio de 2008.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 12 DE MAYO DE 2010.
 
@@ -1824,3 +1848,11 @@ Primero.- La presente reforma entrará en vigor al día siguiente de su publicac
 Segundo.- Quedan derogadas todas aquellas disposiciones que se opongan al presente acuerdo.
 
 Tercero.- Para su debido conocimiento publíquese la presente reforma en la Gaceta Municipal, y remítase al Director del Periódico Oficial del. Estado para su publicación.
+
+P.O. 22 DE DICIEMBRE DE 2010.
+
+Primero.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Chiapas.
+
+Segundo.- Quedan derogadas todas aquellas disposiciones que se opongan al presente acuerdo.
+
+Tercero.- Para su debido conocimiento publíquese el presente Reglamento en la Gaceta Municipal, en los Estrados del Palacio Municipal y en cinco lugares de mayor afluencia vecinal de las Agencias Municipales.
