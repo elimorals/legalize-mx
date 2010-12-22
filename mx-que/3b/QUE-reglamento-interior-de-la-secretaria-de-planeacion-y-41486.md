@@ -4,7 +4,7 @@ identifier: "QUE-reglamento-interior-de-la-secretaria-de-planeacion-y-41486"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-10-20"
-last_updated: "2004-10-20"
+last_updated: "2010-12-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41486&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE PLANEACION Y FINANZAS DEL ESTADO DE QUERETARO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE DICIEMBRE DE 2010.
 
 Reglamento publicado en el Periódico Oficial del Estado de Querétaro, el miércoles 20 de octubre de 2004.
 
@@ -47,9 +47,11 @@ Para el adecuado cumplimiento de las funciones de la Secretaría de Planeación 
 
 ## TÍTULO II. DE LA INTEGRACIÓN DE LA SECRETARÍA DE PLANEACIÓN Y FINANZAS
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 4.
 
-Para el ejercicio de sus funciones, atribuciones y facultades, y el despacho de los asuntos de su competencia, la Secretaría de Planeación y Finanzas, contará con las siguientes unidades administrativas:
+Para el ejercicio de sus funciones, atribuciones y facultades, y el despacho de los asuntos de su competencia, la Secretaría de Planeación y Finanzas, contará con una Coordinación General de Desarrollo Social, una Secretaría Particular, una Secretaría Técnica y el personal que resulte necesario para el debido cumplimiento de su encomienda, así como con las siguientes unidades administrativas:
 
 I. Dirección de Tesorería.
 
@@ -100,6 +102,32 @@ II. Apoyar al Secretario en los estudios y proyectos a llevar a cabo, para el fo
 III. Apoyar en la realización, evaluación y control de los sistemas de información que permitan la mejora de los procesos de competencia de la Secretaría.
 
 IV. Las demás que le encomiende el Secretario.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2010)</small>
+
+###### ARTÍCULO 4
+
+BIS.- Al frente de la Coordinación General de Desarrollo Social habrá un Coordinador General, quien será nombrado por el Secretario de Planeación y Finanzas, previo acuerdo con el Gobernador del Estado, y tendrá a su cargo el ejercicio de las siguientes atribuciones:
+
+I. Coordinar la operación general de los programas sociales implementados por el Poder Ejecutivo del Estado para la atención de las necesidades de la población del estado.
+
+II. Promover y coordinar la realización de obras, acciones y proyectos dirigidos a desarrollar las capacidades de los integrantes de las familias para que a través de su propio esfuerzo y comprometiéndose en las decisiones que toman, se desenvuelvan propositivamente en su comunidad y logren la consecución de su proyecto de vida.
+
+III. Promover y coordinar las obras y acciones tendientes al mejoramiento de la infraestructura social básica que aseguren el acceso a las condiciones materiales óptimas en la comunidad privilegiando la participación que promueve la cohesión social.
+
+IV. Impulsar obras, acciones y proyectos tendientes a favorecer el incremento del ingreso de las familias y diversificando las oportunidades de empleo a través del fomento del sector social de la economía.
+
+V. Coordinar la realización de obras, acciones y proyectos que fomenten la inclusión social y el disfrute de los derechos sociales, individuales y colectivos a los grupos que por causas de diversa naturaleza su condición de marginación se agrava.
+
+VI. Dar seguimiento, por instrucciones del Secretario, ante las dependencias ejecutoras, de las obras, acciones y proyectos que den respuestas específicas para atender las distintas vertientes de los programas sociales implementados por el Poder Ejecutivo del Estado.
+
+VII. Realizar todas aquellas obras y acciones que conlleven al desarrollo social y humano en beneficio de la población en desventaja del Estado de Querétaro.
+
+VIII. Solicitar, por instrucción del Secretario, a las dependencias ejecutoras de los programa (sic) sociales, la información que requiera para el debido ejercicio de sus funciones.
+
+IX. Las demás que le señale expresamente el Secretario.
+
+Para el mejor desempeño de sus funciones, el Coordinador General de Desarrollo Social podrá nombrar a un Secretario Técnico, además del apoyo que le brinde el Comité de Planeación para el Desarrollo del Estado de Querétaro, a través de su Coordinador Operativo.
 
 ## TÍTULO III. DE LAS FACULTADES DEL SECRETARIO DE PLANEACIÓN Y FINANZAS
 
@@ -1381,7 +1409,7 @@ II. Coordinar el registro y control de las afectaciones al sistema contable.
 
 III. Participar en la elaboración del programa de trabajo para formular el proyecto de Iniciativa de Decreto de Presupuesto de Egresos del Estado.
 
-IV. Coordinar la elaboración de estados financieros del poder ejecutivo sector central de (sic Gobierno del Estado, así como turnar a la Contaduría Mayor de Hacienda la información correspondiente al estado que guarde la Cuenta de la Hacienda Pública.
+IV. Coordinar la elaboración de estados financieros del poder ejecutivo sector central de (sic) Gobierno del Estado, así como turnar a la Contaduría Mayor de Hacienda la información correspondiente al estado que guarde la Cuenta de la Hacienda Pública.
 
 V. Revisar, y en su caso elaborar los estudios especiales que sean solicitados por las dependencias competentes sobre la situación contable de Gobierno del Estado, y otros que se relacionen con la Dirección de Contabilidad.
 
@@ -1786,3 +1814,11 @@ Ing. Juan Manuel Alcocer Gamba
 Secretario de Planeación y Finanzas
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 22 DE DICIEMBRE DE 2010.
+
+Primero. El presente Decreto de reforma y adición al Reglamento, entrará en vigor el día siguiente de su publicación en el periódico oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente.
