@@ -4,7 +4,7 @@ identifier: "ROO-ley-del-organo-de-fiscalizacion-superior-del-estado-de-36856"
 country: "mx"
 rank: "ley"
 publication_date: "2003-12-16"
-last_updated: "2010-02-22"
+last_updated: "2010-12-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=36856&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DEL ORGANO DE FISCALIZACION SUPERIOR DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE FEBRERO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE DICIEMBRE DE 2010.
 
 Ley Publicada en el Extraordinario del Periódico Oficial del Estado de Quintana Roo, el miércoles 16 de diciembre de 2003.
 
@@ -135,11 +135,13 @@ d) El resultado de las operaciones de los Poderes del Estado, Municipios y entes
 
 e) La documentación original comprobatoria y justificativa.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE FEBRERO DE 2010)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-###### Artículo 7º.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE DICIEMBRE DE 2010)</small>
 
-Las cuentas públicas deberán ser presentadas a la Auditoría Superior del Estado a más tardar el cinco de abril posterior al año del ejercicio fiscal que corresponda, por:
+###### Artículo 7°.
+
+Las cuentas públicas deberán ser presentadas a la Auditoría Superior del Estado, a más tardar el treinta y uno de marzo posterior al año del ejercicio fiscal que corresponda, por:
 
 a) El Poder Legislativo del Estado;
 
@@ -291,11 +293,13 @@ La Auditoría Superior del Estado será responsable solidaria de los daños y pe
 
 ### CAPÍTULO TERCERO. Del Informe del Resultado
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE FEBRERO DE 2010)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 22.
 
-La Auditoría Superior del Estado, deberá entregar a la Legislatura, por conducto de la Comisión de Hacienda, Presupuesto y Cuenta, el Informe del Resultado correspondiente, a más tardar el 27 de septiembre del mismo año de presentación de la cuenta pública.
+La Auditoría Superior del Estado, deberá entregar a la Legislatura, por conducto de la Comisión de Hacienda, Presupuesto y Cuenta, el Informe del Resultado correspondiente, a más tardar el 5 de septiembre del mismo año de presentación de la Cuenta Pública.
 
 El Informe del Resultado tendrá carácter público a partir de la fecha de su presentación a la Legislatura; hasta en tanto, la Auditoría Superior del Estado deberá guardar reserva de sus actuaciones e informaciones sobre el mismo.
 
@@ -781,7 +785,9 @@ XI. Ejercer las atribuciones que correspondan a la Auditoría Superior del Estad
 
 XII. Resolver el Recurso de Reconsideración interpuesto en contra de sus resoluciones y multas;
 
-XIII. Formular y entregar, por conducto de la Comisión, el Informe del Resultado de la revisión de la Cuenta Pública a la Legislatura, a más tardar en los diez días siguientes a la apertura del segundo período ordinario de sesiones del mismo año de la presentación de la Cuenta Pública;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2010)</small>
+
+XIII. Formular y entregar, por conducto de la Comisión, el Informe del Resultado de la revisión de la Cuenta Pública a la Legislatura, en la fecha prevista para tal efecto;
 
 XIV. Presentar denuncias en los términos del Código de Procedimientos Penales para el Estado de Quintana Roo, en los casos de presuntas conductas delictivas de servidores públicos y en contra de particulares cuando tenga conocimiento de hechos que pudieran implicar la comisión de un delito relacionado con daños a la Hacienda Pública del Estado o Municipios, o a su Patrimonio, o al Patrimonio de los entes públicos estatales y municipales, así como denuncias de juicio político de conformidad con lo señalado en el Título Octavo de la Constitución Política del Estado de Quintana Roo;
 
@@ -1013,27 +1019,37 @@ Todos los bienes adquiridos con recursos del Fondo se registrarán en el inventa
 
 Para los efectos de lo dispuesto en el segundo párrafo de la fracción IV del artículo 75 de la Constitución Política del Estado, la Comisión tendrá a su cargo coordinar las relaciones entre la Legislatura y la Auditoría Superior del Estado, evaluar el desempeño de esta última y constituir el enlace que permita garantizar la debida coordinación entre ambos órganos.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 94.
 
-Son atribuciones de la Comisión:
+La Comisión de Hacienda, Presupuesto y Cuenta de la H. Legislatura del Estado, coordinará y evaluará el funcionamiento del Órgano y tendrá las siguientes atribuciones:
 
-I. Ser el conducto de comunicación entre la Legislatura y la Auditoría Superior del Estado;
+I.- Ser el conducto de comunicación entre la Legislatura y el Órgano de Fiscalización Superior del Estado;
 
-II. Recibir el Informe del Resultado de la revisión de la Cuenta Pública;
+II.- Recibir los Informes de Resultados de las Cuentas Públicas de las entidades señaladas en el artículo 2 fracción IX de la presente Ley, incluyendo la del Órgano de Fiscalización Superior, a efecto de emitir el dictamen o acuerdo correspondiente y turnarlo al Pleno Legislativo para su aprobación en su caso;
 
-III. Conocer el programa anual de actividades, así como el programa anual de auditorías, visitas e inspecciones que para el debido cumplimiento de sus funciones, elabore la Auditoría Superior del Estado, así como sus modificaciones, y evaluar su cumplimiento;
+III.- Evaluar el cumplimiento de los objetivos y metas del Programa Operativo Anual del Órgano, a efecto de conocer si éste cumple con las atribuciones que conforme a la Constitución Política del Estado de Quintana Roo y esta Ley, le corresponden. Así como fiscalizar en los términos previstos por esta Ley, por sí o a través de servicios de auditoría externos, la debida aplicación de los recursos a cargo de éste; planear, programar, ordenar y efectuar auditorías, inspecciones o visitas a las diversas unidades administrativas que integran el Órgano, cumpliendo con las formalidades legales;
 
-IV. Citar, por conducto de su Presidente, al Auditor Superior del Estado para conocer en lo específico el Informe del Resultado de la revisión de la Cuenta Pública;
+IV.- Citar por conducto de su Presidente al Auditor Superior del Estado para conocer en lo específico el Informe del Resultado de la Revisión de las Cuentas Públicas;
 
-V. Conocer el proyecto de presupuesto anual de la Auditoría Superior del Estado, así como el informe anual de su ejercicio, y turnarlo a la Gran Comisión de la Legislatura para los efectos legales conducentes;
+V.- Presentar a la Legislatura la propuesta de los candidatos a ocupar el cargo de Auditor Superior del Estado, así como la solicitud de su remoción, en términos de lo dispuesto por los artículos 62, 63, 64 y 65 de esta Ley;
 
-VI. Evaluar si la Auditoría Superior del Estado cumple con las funciones que conforme a la Constitución Política del Estado, esta Ley y demás disposiciones legales y reglamentarias le corresponden;
+VI.- Vigilar que el funcionamiento del Órgano y la conducta de sus servidores públicos se apeguen a lo dispuesto por esta Ley y demás disposiciones aplicables;
 
-VII. Presentar a la Legislatura la propuesta de los candidatos a ocupar el cargo de Auditor Superior del Estado, así como la solicitud de su remoción, en términos de lo dispuesto, según el caso, en los artículos 62, 63, 64 y 65 de esta Ley;
+VII.- Conocer y realizar las investigaciones sobre las quejas, denuncias o inconformidades en contra de los servidores públicos del Órgano que presenten los sujetos de fiscalización, los particulares y cualquier persona física o moral, pública o privada, siempre y cuando aporten pruebas idóneas, por el incumplimiento de las disposiciones legales a efecto de determinar las responsabilidades a que hubiere lugar y la imposición de las sanciones que correspondan en términos de esta Ley y la Ley de Responsabilidades de los Servidores Públicos del Estado de Quintana Roo;
 
-VIII. De acuerdo a las posibilidades presupuestales del Poder Legislativo del Estado, contratar asesores para el adecuado cumplimiento de sus atribuciones; y
+VIII.- Presentar denuncias o querellas ante la autoridad competente, en caso de detectar conductas presumiblemente constitutivas de delito, imputables a los servidores públicos del Órgano;
 
-IX. Las demás que establezca esta Ley y demás disposiciones aplicables.
+IX.- Llevar el registro y análisis de la situación patrimonial de los servidores públicos adscritos al Órgano;
+
+X.- Expedir certificaciones de los documentos que obren en sus archivos en los casos en que sean solicitados por autoridades competentes en el ejercicio de sus funciones;
+
+XI.- Contar con los servicios de apoyo técnico o asesoría que apruebe la Gran Comisión de conformidad a las posibilidades presupuestales;
+
+XII.- Informar al Congreso de las denuncias o quejas presentadas contra los servidores públicos del Órgano; y
+
+XIII.- Las demás que le atribuyan expresamente las disposiciones legales y la normatividad interior del Congreso.
 
 ###### Artículo 95.
 
@@ -1144,3 +1160,11 @@ Artículo Tercero.- Las referencias que en las leyes se hagan al Órgano Superio
 ARTÍCULO TRANSITORIO:
 
 ÚNICO.- Publíquese el presente Decreto en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 22 DE DICIEMBRE DE 2010.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo. Salvo lo dispuesto por los artículos 7° párrafo primero y 22 párrafo primero que entrarán en vigor, el día de la entrada en vigor de la reforma al Artículo 77 fracción II párrafo primero de la Constitución Política del Estado de Quintana Roo.
+
+## TRANSITORIO
+
+ÚNICO.- Públíquese el presente Decreto en el Periódico Oficial del Estado de Quintana Roo.
