@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-transito-y-vialidad-del-municipio-de-general-4109
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-09-08"
-last_updated: "2010-12-08"
+last_updated: "2010-12-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41091&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE TRANSITO Y VIALIDAD DEL MUNICIPIO DE GENERAL ESCOBEDO, NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE DICIEMBRE DE 2010.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 8 de septiembre de 2004.
 
@@ -1621,15 +1621,19 @@ XI. CHOQUE CON MOVIL DE VEHÍCULO.- Ocurre cuando alguna parte de un vehículo e
 
 XII. CHOQUES DIVERSOS.- En esta clasificación queda cualquier accidente no especificado en los puntos anteriores.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 111.
 
-La atención y diligencias respecto de accidentes se hará en primer lugar por el personal designado por el Municipio antes de cualquier otra autoridad. El Oficial de Tránsito que atienda un accidente deberá cumplir con lo siguiente:
+La atención y diligencias respecto de accidentes se hará en primer lugar por el personal designado por el Municipio antes de cualquier otra autoridad. El oficial de tránsito que atienda un accidente deberá cumplir con lo siguiente:
 
 I. Tomar las medidas necesarias y solicitar apoyo de la Dependencia correspondiente a fin de evitar un nuevo accidente y agilizar la circulación;
 
 II. En caso de que haya pérdida de vidas humanas, dar aviso inmediato al Agente del Ministerio Público que corresponda y esperar su intervención, procurando que los cadáveres no sean movidos, preservando en lo posible rastros y evidencias del hecho vial;
 
-III. En caso de lesionados, solicitará o prestará auxilio inmediato según las circunstancias y turnará el caso al Agente del Ministerio Público que corresponda;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2010)</small>
+
+III. En caso de lesionados, solicitará o prestará auxilio inmediato según las circunstancias y turnará el caso al Agente del Ministerio Público que corresponda. Los gastos que se originen por el traslado de los lesionados en ambulancias del Municipio, deberán ser cubiertos por el responsable del accidente;
 
 IV. Abordará al conductor o conductores haciendo lo siguiente:
 
@@ -2234,3 +2238,7 @@ Publíquese el presente acuerdo en el Periódico Oficial del Estado, hágase pos
 P.O. 8 DE DICIEMBRE DE 2010.
 
 ÚNICO.- La presente reforma por modificación, entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE DICIEMBRE DE 2010.
+
+ÚNICO.- Las presentes reformas por modificación por adición a la fracción III del artículo 111 del Reglamento de tránsito y Vialidad, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
