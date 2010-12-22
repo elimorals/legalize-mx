@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-procedimientos-penales-para-el-estado-de-mexico-16228
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2010-03-06"
+last_updated: "2010-12-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16228&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -39,7 +39,7 @@ El uno de octubre del año dos mil once entrará en vigor en los Distritos Judic
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE MARZO DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE DICIEMBRE DE 2010.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
@@ -155,17 +155,17 @@ IV. La privativa de libertad que establezca mayor penalidad, en los casos de con
 
 Las actuaciones deberán constar por escrito, podrán practicarse a toda hora y aun en días inhábiles, sin necesidad de previa habilitación, y en cada una de ellas se expresará el lugar, la hora, día, mes y año en que se realicen.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2010)</small>
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], G.G. 6 DE MARZO DE 2010)</small>
-
-En todas las actuaciones del Ministerio Público y del Órgano Jurisdiccional se asentarán los nombres y apellidos de todos los servidores públicos y demás personas que intervengan en ellas, observando la denominación del género en todo momento.
+En todas las actuaciones del órgano jurisdiccional se asentarán los nombres, apellidos y firma de todos los servidores públicos y demás personas que intervengan en ellas.
 
 El tribunal de segunda instancia asentará al margen de sus actuaciones los nombres y apellidos de los servidores públicos que las firmen.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 22 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 13.
 
-Los agentes del Ministerio Público, jueces y magistrados estarán asistidos en las diligencias que practiquen, por el secretario y a falta de éste, por dos testigos de asistencia que darán fe de lo que en ellas ocurra.
+Los jueces y magistrados estarán asistidos en las diligencias que practiquen, por el secretario y a falta de éste, por dos testigos de asistencia que darán fe de lo que en ellas ocurra.
 
 En las diligencias podrá emplearse cualquier medio tecnológico que posibilite su reproducción, haciéndose constar tal circunstancia en el acta respectiva.
 
@@ -3406,3 +3406,9 @@ El uno de agosto de dos mil once, en los distritos judiciales de El Oro, Jilotep
 QUINTO.- Los procedimientos y actuaciones penales y civiles que se hayan iniciado con anterioridad a la entrada en vigor del presente Decreto, continuarán tramitándose hasta su conclusión de conformidad con las disposiciones jurídicas aplicables en ese momento.
 
 SEXTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+G.G. 22 DE DICIEMBRE DE 2010.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
