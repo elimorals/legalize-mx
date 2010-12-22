@@ -4,7 +4,7 @@ identifier: "CMX-codigo-fiscal-de-la-ciudad-de-mexico-antes-codigo-fiscal-71178"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-12-29"
-last_updated: "2010-11-26"
+last_updated: "2010-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71178&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2009-12-28"
 
 CODIGO FISCAL DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 26 DE NOVIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 22 DE DICIEMBRE DE 2010.
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el martes 29 de diciembre de 2009.
 
@@ -5694,15 +5694,29 @@ Para obtener los beneficios a que se refiere este artículo, las personas físic
 
 También gozarán de este beneficio, las personas físicas o morales que obtengan los premios derivados o relacionados con las actividades a que se refiere el primer párrafo de este artículo.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, G.O. 22 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 296.
-
-Los propietarios de inmuebles destinados a casa habitación que cuenten con árboles adultos y vivos o con áreas verdes no arboladas en su superficie, tendrán derecho a una reducción equivalente al 25% del Impuesto Predial, siempre y cuando el arbolado o las áreas verdes ocupen cuando menos la tercera parte de la superficie de los predios.
-
-Para la obtención de la reducción a que se refiere este artículo, los contribuyentes deberán presentar una constancia expedida por la Secretaría del Medio Ambiente con la que acredite que el predio objeto de la reducción cuenta con árboles adultos y vivos o con áreas verdes no arboladas en su superficie y que éstos ocupan cuando menos la tercera parte de la superficie de los predios. Para gozar de los beneficios a que se refiere este artículo, en el caso de los árboles adultos y vivos deberán estar unidos a la tierra, y no a las plantaciones en macetas, macetones u otros recipientes similares, y recibir el mantenimiento necesario de conformidad con la normatividad ambiental.
 
 Los predios que sean ejidos o constituyan bienes comunales que sean explotados totalmente para fines agropecuarios, tendrán derecho a una reducción equivalente al 50% respecto del pago de impuesto predial, para lo cual deberán acreditar que el predio de que se trate sea un ejido explotado totalmente para fines agropecuarios mediante la constancia del Registro Agrario Nacional correspondiente.
 
 Asimismo, las personas físicas o morales que acrediten ser propietarias de edificios respecto de los cuales demuestren la aplicación de sistemas sustentables ante la Secretaría del Medio Ambiente, gozarán en un periodo de un año de la reducción del 10% del impuesto predial, correspondiente a dicho inmueble, previa obtención de constancia emitida por la Secretaría antes mencionada.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.O. 22 DE DICIEMBRE DE 2010)</small>
+
+###### ARTICULO 296 Bis.
+
+Los propietarios de inmuebles destinados a casa habitación que se encuentren en cualquiera de los siguientes supuestos, tendrán derecho a la reducción del Impuesto Predial que se especifica en cada caso:
+
+I) de 25% a los que cuenten en su inmueble con árboles adultos y vivos o con áreas verdes no arboladas en su superficie, siempre y cuando el arbolado o las áreas verdes ocupen cuando menos la tercera parte de la superficie de los predios. En el caso de los árboles adultos y vivos deberán estar unidos a la tierra, y no a las plantaciones en macetas, macetones u otros recipientes similares, y recibir el mantenimiento necesario de conformidad con la normatividad ambiental.
+
+II) de 10% a los que realicen la naturación del techo de su casa habitación, conforme lo establece la Norma Ambiental 013 emitida por la Secretaría del Medio Ambiente.
+
+Para la obtención de las reducciones a que se refiere este artículo, los contribuyentes deberán presentar la respectiva constancia expedida por la Secretaría del Medio Ambiente con la que acrediten que su inmueble cuenta con la constancia de preservación ambiental señaladas en los incisos I y II del presente artículo.
 
 ###### ARTICULO 297.
 
@@ -8903,3 +8917,11 @@ G.O. 26 DE NOVIEMBRE DE 2010.
 PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
 
 SEGUNDO.- La presente Ley (sic) entrará en vigor al día siguiente al de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 22 DE DICIEMBRE DE 2010.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+SEGUNDO.- La presente Decreto entrará en vigor a partir del 1° de enero del 2011.
+
+TERCERO.- En un plazo no mayor de treinta días hábiles contados a partir del día siguiente al que se publique en la Gaceta Oficial del Distrito Federal el presente Decreto, la Secretaría de Medio Ambiente del Distrito Federal elaborará los lineamientos que servirán de base para la emisión de las constancias respectivas a los particulares que acrediten el cumplimiento de las medidas de protección ambiental a que se refiere la presente reforma al artículo 296 del Código Fiscal del Distrito Federal. La Tesorería del Distrito Federal realizará en 30 días adicionales los lineamientos de carácter fiscal y la Procuraduría Fiscal del Distrito Federal contará con 30 días hábiles más para validar ambos grupos de lineamientos, y enviarlos en su caso al Secretario de Finanzas para su publicación, o bien devolverlos a la Secretaría del Medio Ambiente o a la Tesorería para su corrección.
