@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-hacienda-del-estado-de-campeche-72269"
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-21"
-last_updated: "2009-12-21"
+last_updated: "2010-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72269&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE HACIENDA DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el lunes 21 de diciembre de 2009.
 
@@ -49,7 +49,9 @@ La Hacienda Pública del Estado de Campeche, para atender los gastos y cumplir l
 
 La Hacienda Pública del Estado de Campeche se compone:
 
-I.- De los ingresos provenientes de los impuestos al comercio de libros, periódicos y revistas; sobre la extracción de materiales del suelo y subsuelo; sobre nóminas; sobre servicios de hospedaje; sobre loterías, rifas, sorteos y concursos; sobre tenencia o uso de vehículos;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2010)</small>
+
+I. De los ingresos provenientes de los impuestos al comercio de libros, periódicos y revistas; sobre la extracción de materiales del suelo y subsuelo; sobre nóminas; sobre servicios de hospedaje; sobre loterías, rifas, sorteos, concursos y juegos con cruce de apuestas legalmente permitidos; y sobre tenencia o uso de vehículos;
 
 II.- De los ingresos provenientes de los derechos derivados de la prestación de servicios públicos;
 
@@ -80,6 +82,10 @@ Los ingresos fiscales, que se establecen en este Ordenamiento, se regularán por
 ###### ARTÍCULO 3.
 
 El pago de las contribuciones a que se refiere esta Ley, deberá efectuarse en los plazos que la misma establece, en las oficinas recaudadoras de la Dirección de Ingresos de la Secretaría de Finanzas del Estado que correspondan al domicilio fiscal del contribuyente, o en las instituciones de crédito, centros comerciales, módulos fijos o itinerantes, o medios electrónicos debidamente autorizados por la misma Secretaría, a través de cualesquiera de los medios de pago establecidos en el Código Fiscal del Estado.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2010)</small>
+
+Los comprobantes que se expidan por concepto de pago de derechos, tendrán vigencia hasta el 31 de diciembre del mismo año fiscal de su expedición. Concluida la vigencia únicamente podrá exigirse la contraprestación siempre y cuando se pague la diferencia que pudiera tener el costo presente de la misma, esta actualización no podrá extenderse por más de 5 años, plazo en el cual de manera definitiva quedarán sin efecto el o los pagos, sin derecho a devolución como tampoco a la contraprestación.
 
 ###### ARTÍCULO 4.
 
@@ -194,6 +200,10 @@ Son sujetos del pago de este impuesto las personas físicas y morales o unidades
 ###### ARTÍCULO 15.
 
 La base para el cálculo de este impuesto será el volumen de metros cúbicos de material extraído en términos del artículo anterior.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2010)</small>
+
+Para efectos de cuantificar o determinar el volumen de material, la Secretaría de Finanzas podrá hacer uso de los instrumentos que sean necesarios incluyendo los denominados sistemas de posicionamiento global o cualquier otro que tecnológicamente permita determinar el volumen.
 
 #### SECCIÓN CUARTA. DE LA TASA
 
@@ -465,49 +475,85 @@ X.- Poner a disposición de las autoridades competentes, para los efectos del ej
 
 XI.- Las demás que señale esta Ley y los ordenamientos fiscales aplicables.
 
-### CAPÍTULO V. DEL IMPUESTO SOBRE LOTERÍAS, RIFAS, SORTEOS Y CONCURSOS
+> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE DICIEMBRE DE 2010)</small>
+
+### CAPÍTULO V. IMPUESTO SOBRE LOTERIAS, RIFAS, SORTEOS, CONCURSOS Y JUEGOS CON CRUCE DE APUESTAS LEGALMENTE PERMITIDOS
 
 #### SECCIÓN PRIMERA. DEL OBJETO
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 35.
 
-Es objeto de este impuesto, la obtención de premios derivados de loterías, rifas, sorteos y concursos de toda clase, realizados por organismos públicos descentralizados de la Administración Pública Federal cuyo objeto sea la obtención de recursos para destinarlos a la Asistencia Pública.
+Es objeto de este impuesto, el ingreso en efectivo, en especie o en valor de servicios, que perciban las personas físicas y morales organizadoras o beneficiarias de loterías, rifas, sorteos, concursos y juegos con cruce de apuestas legalmente permitidos, aún cuando por dichas actividades no se cobre cantidad alguna que represente el derecho a participar en las mismas.
 
-No se considerará como premio el reintegro correspondiente al billete, boleto o contraseña que permitió participar en la lotería, rifa, sorteo o concurso.
+Este impuesto se causará independientemente de la denominación que se le dé al pago necesario para participar en las actividades anteriormente mencionadas.
 
 #### SECCIÓN SEGUNDA. DE LOS SUJETOS
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 36.
 
-Son sujetos de este impuesto, las personas físicas, morales o unidades económicas que obtengan premios a que se refiere el artículo anterior.
+Están obligados al pago de este impuesto las personas físicas y morales que en el Estado, habitual u ocasionalmente:
 
-Se consideran unidades económicas entre otras, a las empresas, las sucesiones, los fideicomisos y las asociaciones en participación o cualquiera otra forma de asociación, que obtengan los premios por las que deban pagar el impuesto establecido en este capítulo.
+I. Organicen, administren, exploten o patrocinen loterías, rifas, sorteos, concursos y juegos con cruce de apuestas legalmente permitidos; asimismo las que obtengan o cobren premios en efectivo, en especie o en el valor de los servicios;
+
+II. Reciban o registren apuestas dentro del Estado, independientemente de que el organizador del evento esté fuera del Estado y/o el desarrollo del evento sea fuera del mismo Estado;
+
+III. Cobren los premios derivados de las actividades enunciadas en la fracción primera de este artículo, cuando los billetes, boletos o contraseñas sean cobrados en el Estado, independientemente del lugar en que se realice el evento, y
+
+IV. Reciban o cobren premios en el territorio del Estado, sin importar que el evento se hubiere celebrado fuera de éste.
 
 #### SECCIÓN TERCERA. DE LA BASE
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 37.
 
-Será base del impuesto, el valor determinado o determinable que se obtenga del premio correspondiente a cada billete, boleto o contraseña, sin deducción alguna.
+La base de este impuesto será el total de los ingresos en efectivo, en especie o en el valor de los servicios que se obtenga por la celebración de loterías, rifas, sorteos, concursos y juegos con cruce de apuestas legalmente permitidos.
 
-Tratándose de premios en especie, la base será el valor con el que se promocione cada uno de los premios, en su defecto, el valor de facturación y en ausencia de ambos el de avalúo comercial.
+De igual manera, será base de este impuesto los premios obtenidos en efectivo, en especie o en el valor de los servicios como resultado de la celebración de dichas loterías, rifas, sorteos, concursos y juegos con cruce de apuestas legalmente permitidos.
 
-Cuando no se desglose y compruebe a satisfacción de la autoridad fiscal el valor o precio que corresponda a la lotería, rifa, sorteo o concurso de que se trate, se considerará que el valor o precio total del evento, corresponde al objeto del impuesto.
+Para el caso de los premios en especie se tomará como base gravable el valor de la facturación o el valor del avalúo que realicen las autoridades fiscales en este orden.
+
+Cuando no exista una contraprestación para participar en una lotería, rifa, sorteo, concurso o juego con cruce de apuestas legalmente permitidas, se considerará como base gravable el valor del premio otorgado, ya sea en efectivo, en especie o en el valor de los servicios.
 
 #### SECCIÓN CUARTA. DE LA TASA
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 38.
 
-El monto del impuesto se determinará aplicando a la base gravable a que se refiere el artículo anterior la tasa del 6%.
+Este impuesto se determinará y recaudará aplicando a la base gravable la tasa que para cada evento se establece:
+
+I. El 6% al valor nominal de la suma de los billetes, boletos, contraseñas, documentos, objetos, registros distribuidos para participar en loterías, rifas y sorteos. Cuando los billetes, boletos, contraseñas, documentos, objetos o registros sean distribuidos gratuitamente o no se exprese su valor o la suma del valor de éstos sea inferior al monto de los premios, el impuesto se calculará sobre el valor total de los premios;
+
+II. En el caso de organización, realización o explotación de juegos permitidos con cruce y/o captación de apuestas, el impuesto de (sic) determinará aplicando la tasa del 6% sobre el monto total de los ingresos obtenidos, sin deducción alguna por quien organice, realice o explote el juego permitido o por quien reciba, registre, cruce o capte las apuestas;
+
+III. En el caso de concursos, el impuesto se determinará aplicando la tasa del 6% sobre el monto total de los ingresos obtenidos por las inscripciones que permitan participar en el evento;
+
+IV. Quienes obtengan premios derivados de las loterías, rifas, sorteos o concursos a que se refiere esta sección, pagarán el impuesto que resulte de aplicar la tasa del 6% al valor del premio, mismo que será retenido y enterado por el organizador, o por quien organice, realice o explote los eventos, debiendo proporcionar la constancia de retención;
+
+V. Quienes obtengan premios derivados de juegos permitidos con cruce o captación de apuestas, pagarán el impuesto que resulte de aplicar la tasa del 6% al valor del premio, mismo que será retenido y enterado por quien organice, realice o explote los eventos, o por quien reciba, registre, cruce o capte las apuestas, debiendo proporcionar la constancia de retención correspondiente.
 
 #### SECCIÓN QUINTA. DEL PAGO
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 39.
 
-Este impuesto se causa en el momento en que los premios sean pagados y quienes entreguen los premios a que se refiere este capítulo, deberán retener el impuesto correspondiente, independientemente del lugar donde se realice el evento.
+El pago de este impuesto deberá efectuarse dentro de los plazos siguientes:
 
-Las personas físicas o morales que retengan este impuesto, realizarán el entero respectivo a más tardar el día veinte del mes siguiente al en que se realice la retención, presentando la declaración mediante formulario que apruebe y publique la Secretaría de Finanzas, ante la oficina recaudadora que corresponda o institución de crédito autorizada. Dicho pago se entenderá definitivo.
+I. Cuando las loterías, las rifas, los sorteos, los concursos y juegos con cruce de apuestas legalmente permitidos se realicen por contribuyentes habituales, se pagará el impuesto dentro de los cinco días hábiles siguientes a la fecha de su celebración, conjuntamente con el importe del impuesto retenido, a cargo de quien obtuvo el premio, y
 
-Los sujetos contribuyentes obligados en los términos del presente Capítulo, deberán presentar declaraciones aun cuando no exista impuesto a pagar y en tanto no se presente el aviso de suspensión, disminución o cancelación en el Registro Estatal de Contribuyentes, según corresponda.
+II. Cuando se trate de contribuyentes eventuales, deberán otorgar un depósito equivalente al cincuenta por ciento del impuesto correspondiente al total del boletaje emitido, en efectivo o mediante fianza expedida por institución legalmente autorizada y presentarse ante las autoridades fiscales al día hábil siguiente de la realización del evento o actividad con el boletaje sobrante en su caso, a fin de determinar los boletos vendidos y como consecuencia, la diferencia a cargo o a favor del contribuyente, con base en los porcentajes establecidos en este capítulo, debiendo enterar en ese mismo día el impuesto o cargo que resulte.
+
+Lo anterior, sin perjuicio de que la autoridad fiscalizadora intervenga directamente el día en que se celebre la actividad.
+
+El pago de este impuesto no libera de la obligación de obtener previamente los permisos o autorizaciones correspondientes.
+
+Los contribuyentes eventuales no podrán iniciar la lotería, rifa, sorteo, concurso o juego con cruce de apuestas legalmente permitido, si no han pagado el impuesto correspondiente a algún evento anterior, en caso de que lo adeude.
 
 #### SECCIÓN SEXTA. DE LAS OBLIGACIONES
 
@@ -579,7 +625,9 @@ De comprobarse que no se ha cumplido con la obligación de pago, dichas oficinas
 
 En el caso de vehículos nuevos el impuesto se calculará conforme a lo siguiente:
 
-I.- Para los vehículos terrestres de hasta 15 pasajeros, eléctricos, mixtos o híbridos y de combustión interna o con motor accionado por hidrógeno y automóviles blindados, el impuesto se determinará aplicando al valor total del vehículo la siguiente:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE DICIEMBRE DE 2010)</small>
+
+I. Para los vehículos terrestres de hasta 15 pasajeros, eléctricos, mixtos o híbridos y de combustión interna o con motor accionado por hidrógeno y automóviles blindados, así como los vehículos Pick Up cuyo valor total sea mayor a lo equivalente a 6,334 salarios mínimos del área geográfica a la que corresponde el Estado, el impuesto se determinará aplicando al valor total del vehículo la siguiente:
 
 TARIFA
 
@@ -604,6 +652,10 @@ $ $ del límite inferior
 > <small>(F. DE E., P.O. 30 DE DICIEMBRE DE 2009)</small>
 
 II.- Para vehículos nuevos destinados al transporte de más de 15 pasajeros o de carga cuyo peso bruto vehicular sea menor a 15 toneladas y para vehículos nuevos que cuenten con placas de servicio público de transporte de pasajeros y los denominados "Taxis", el impuesto será la cantidad que resulte de aplicar el 0.245% al valor total del vehículo.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2010)</small>
+
+Para efectos de esta fracción se entiende como vehículos de más de 15 pasajeros, a los camiones, minibuses, microbuses, omnibuses, autobuses integrales, tractores no agrícolas tipo quinta rueda, cualquiera que sea su tipo, además de los vehículos Pick Up cuyo valor total no rebase el equivalente a 6, 334 salarios mínimos del área geográfica a la que corresponde el Estado;
 
 III.- Para vehículos nuevos, cuyo peso bruto vehicular sea de 15 o más toneladas, el impuesto se calculará multiplicando la cantidad que resulte de aplicar el 0.50% al valor total del vehículo, por el factor fiscal que resulte de dividir el peso bruto máximo vehicular expresado en toneladas, entre 30.
 
@@ -647,7 +699,9 @@ VEHÍCULOS USADOS
 
 Tratándose de vehículos usados de fabricación nacional o importada, el impuesto se determinará conforme a lo siguiente:
 
-I.- En los casos de vehículos destinados al transporte de más de 15 pasajeros o de carga, y para vehículos que cuenten con placas de servicio público de transporte de pasajeros y los denominados "taxis", embarcaciones, veleros, esquís acuáticos motorizados, motocicletas acuáticas, tablas de oleaje con motor, incluyendo los vehículos Pick Up, el impuesto se determinará multiplicando el importe del impuesto causado en el ejercicio fiscal inmediato anterior por el factor de años de antigüedad que corresponda, de acuerdo con la siguiente:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE DICIEMBRE DE 2010)</small>
+
+I.- En los casos de vehículos destinados al transporte de más de 15 pasajeros o de carga, y para vehículos que cuenten con placas de servicio público de transporte de pasajeros y los denominados "taxis", embarcaciones, veleros, esquís acuáticos motorizados, motocicletas acuáticas, tablas de oleaje con motor, incluyendo los vehículos Pick Up, cuyo valor total no rebase el equivalente a 6, 334 salarios mínimos del área geográfica a la que corresponde el Estado; el impuesto se determinará multiplicando el importe del impuesto causado en el ejercicio fiscal inmediato anterior por el factor de años de antigüedad que corresponda, de acuerdo con la siguiente:
 
 TABLA
 
@@ -673,7 +727,9 @@ Años de Antigüedad Factor
 
 El resultado anterior se actualizará de conformidad con el procedimiento establecido en la fracción VI de este artículo.
 
-II.- Tratándose de vehículos de fabricación nacional o importados usados, destinados al transporte de hasta 15 pasajeros, automóviles eléctricos, mixtos o híbridos y de combustión interna o con motor accionado por hidrógeno y automóviles blindados, el impuesto será el que resulte de aplicar el procedimiento siguiente:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE DICIEMBRE DE 2010)</small>
+
+II.- Tratándose de vehículos de fabricación nacional o importados usados, destinados al transporte de hasta 15 pasajeros, automóviles eléctricos, mixtos o híbridos y de combustión interna o con motor accionado por hidrógeno y automóviles blindados, así como los vehículos Pick Up cuyo valor total sea mayor a lo equivalente a 6, 334 salarios mínimos del área geográfica a la que corresponde el Estado el impuesto será el que resulte de aplicar el procedimiento siguiente:
 
 a).- El valor total del vehículo se multiplicará por el factor de depreciación de acuerdo al año de antigüedad del vehículo, de conformidad con la siguiente:
 
@@ -765,9 +821,9 @@ Años de antigüedad Factor de depreciación
 
 A la cantidad obtenida conforme al párrafo anterior, se aplicará la tarifa al que hace referencia el artículo 45 fracción VI.
 
-> <small>(F. DE E., P.O. 30 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2010)</small>
 
-VI.- El factor de actualización a que se refiere este artículo se determinará aplicando el factor que se obtenga de dividir el Índice Nacional de Precios al Consumidor del mes de noviembre del año inmediato anterior a aquel en que se va calcular el impuesto, entre el Índice Nacional de Precios al Consumidor del mes de noviembre de dos años inmediatos anteriores al año de aplicación. Dicho factor se publicará en el Periódico Oficial del Estado, a más tardar el 31 de diciembre de cada año.
+VI.- El factor de actualización a que se refiere este artículo se determinará aplicando el factor que se obtenga de dividir el Índice Nacional de Precios al Consumidor del mes de noviembre del año inmediato anterior a aquel en que se va aplicar la tarifa entre el mes de noviembre inmediato anterior al año de adquisición del vehículo.
 
 > <small>(F. DE E., P.O. 30 DE DICIEMBRE DE 2009)</small>
 
@@ -1561,11 +1617,43 @@ f).- Pitahaya 0.32
 
 VI.- Cuando se efectúe la venta de productos avícolas consistente en un paquete familiar de aves que conste de 8 hembras y 2 machos, se causarán y pagarán derechos, por un importe de 3.23 salarios mínimos generales diarios vigentes en el Estado.
 
-VII.- Por la recepción y evaluación del informe preventivo para el Aprovechamiento de materiales pétreos:
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2010)</small>
 
-a) De 1 a 10 hectáreas 80
+VII.- Por la evaluación, dictaminación y autorización del informe preventivo para el aprovechamiento de materiales pétreos:
 
-b) De 10 a 30 hectáreas 172
+Salario Mínimo
+
+General
+
+Diario Vigente
+
+De 0.1 a 3 hectáreas 180
+
+b) (sic) De 3.1 a 5 hectáreas 250
+
+c) De 5.1 a 10 hectáreas 300
+
+d) Mayores a 10 hectáreas y
+
+menores a 30 hectáreas 500
+
+Para los efectos de esta fracción, previo a la solicitud de esta contraprestación será requisito indispensable que los contribuyentes acrediten haber cumplido con las obligaciones fiscales que les imponen, en su caso, las fracciones I y III del artículo 19 de esta Ley y, conforme se den las situaciones jurídicas de hecho, cumplir con el resto de obligaciones que les impone el referido artículo 19 y demás aplicables de esta misma Ley.
+
+> <small>(ADICIONADA P.O. 22 DE DICIEMBRE DE 2010)</small>
+
+VII Bis.- Por la evaluación y dictaminación del informe preventivo para la realización de obras públicas o privadas:
+
+Salario Mínimo
+
+General
+
+Diario Vigente
+
+a) De 0.1 a 3 hectáreas 180
+
+b) De 3.1 a 5 hectáreas 250
+
+c) De 5.1 a 10 hectáreas 270
 
 VIII.- Por la recepción y evaluación del informe preventivo, para fraccionamientos, unidades habitacionales, desarrollo turístico estatales, obra pública estatal o privada:
 
@@ -1573,17 +1661,21 @@ a) De 5000 a 10000 m2 80
 
 b) De 10001 m2 en adelante 172
 
-IX.- Por la recepción y evaluación del informe
+IX.- Por la recepción y evaluación del
 
-preventivo, de las industrias señaladas en el inciso c)
+Informe preventivo, de las industrias
 
-del artículo 34 de la Ley del Equilibrio Ecológico y
+señaladas en el inciso c) del artículo
 
-Protección al Ambiente del Estado de Campeche, a
+34 de la Ley del Equilibrio Ecológico y
 
-excepción de maquiladoras 80
+Protección al Ambiente del Estado de
 
-X.- Por la recepción y evaluación del informe preventivo
+Campeche, a excepción de maquiladoras 80
+
+X.- Por la recepción y evaluación del
+
+informe preventivo
 
 de maquiladoras 172
 
@@ -1591,33 +1683,113 @@ XI.- Por la recepción y evaluación del informe preventivo
 
 para la construcción de caminos estatales o rurales 172
 
-XII.- Por la evaluación de la manifestación de impacto ambiental
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2010)</small>
 
-a) Modalidad general 172
+XII.- Por la evaluación y dictaminación de la manifestación de Impacto Ambiental
 
-b) Refrendo anual 86
+Salario Mínimo
 
-c) Modalidad intermedia 267
+General
 
-d) Refrendo anual 134
+Diario Vigente
 
-e) Modalidad específica 354
+a).- Modalidad General 180
 
-f) Refrendo anual 177
+b).- Modalidad Intermedia 270
 
-XIII.- Por la recepción y evaluación del Estudio de Riesgo 90
+c).- Modalidad específica 360
 
-a) Refrendo anual 45
+d).- Por la renovación o refrendo anual
 
-XIV.- Por la expedición de cédula de operación 40
+en cualquiera de sus modalidades 100
 
-XV.- Por la recepción y evaluación del dictamen de
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2010)</small>
 
-impacto ambiental en su modalidad general para el
+XIII.- Por la evaluación y dictaminación de:
 
-aprovechamiento forestal y selvas tropicales 172
+a).- Estudio de Daños 180
+
+b).- Estudio de Riesgo 180
+
+XIV.- Por la expedición de cédula
+
+de operación 40
+
+XV.- Por la recepción y evaluación del
+
+dictamen de impacto ambiental en su
+
+modalidad general para el aprovechamiento
+
+forestal y selvas tropicales 172
 
 XVI.- Por la inscripción al padrón del Registro Estatal Vehicular de vehículos usados de procedencia extranjera, regularizados en cualquier parte del territorio Nacional pagarán 6 veces el salario mínimo general diario vigente.
+
+> <small>(ADICIONADA P.O. 22 DE DICIEMBRE DE 2010)</small>
+
+XVII.- Por la evaluación y dictaminación
+
+de modificaciones a proyectos autorizados
+
+en materia de impacto ambiental 100
+
+> <small>(ADICIONADA P.O. 22 DE DICIEMBRE DE 2010)</small>
+
+XVIII.- Por la aclaración, rectificación o
+
+ampliación al contenido de la Manifestación
+
+del Impacto Ambiental 100
+
+> <small>(ADICIONADA P.O. 22 DE DICIEMBRE DE 2010)</small>
+
+XIX.- Por la evaluación técnica para la
+
+procedencia Operativa de un centro de
+
+Verificación Vehicular de manera anual 180
+
+> <small>(ADICIONADA P.O. 22 DE DICIEMBRE DE 2010)</small>
+
+XX.- Por el ingreso a las áreas protegidas de competencia estatal:
+
+a) En unidades motorizadas particulares 30
+
+b) En unidades no motorizadas particulares 1
+
+c) En unidades para actividades de turismo,
+
+educativas o científicas 20
+
+d) Para le realización de actividades
+
+de pernocta o turismo 2
+
+> <small>(ADICIONADA P.O. 22 DE DICIEMBRE DE 2010)</small>
+
+XXI.- Por la expedición de la autorización
+
+para la posesión de un animal manifiestamente
+
+feroz o peligroso por naturaleza, a que se refiere
+
+el art. 7 de la Ley de Protección de los Animales
+
+del Estado. 5
+
+> <small>(ADICIONADA P.O. 22 DE DICIEMBRE DE 2010)</small>
+
+XXII.- Por consulta que se realice al padrón vehicular 2
+
+Están exentas de este pago las consultas al padrón vehicular que sean solicitadas por autoridades administrativas o judiciales.
+
+> <small>(ADICIONADA P.O. 22 DE DICIEMBRE DE 2010)</small>
+
+XXIII.- Por expedición de la constancia de
+
+carácter informativo prevista en el artículo
+
+17 del Código Fiscal del Estado de Campeche . 3
 
 ### CAPÍTULO III. POR TALLERES GRÁFICOS Y PERIÓDICO OFICIAL DEL ESTADO
 
@@ -1697,7 +1869,11 @@ General Diario
 
 Vigente
 
-I.- Cabaret o Centro Nocturno, Bar, Cantina 11
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2010)</small>
+
+I.- Cabaret o Centro Nocturno, Bar, Cantina 22
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2010)</small>
 
 II.- Discoteca, Salón Cerveza, Salón de Baile,
 
@@ -1705,19 +1881,25 @@ Restaurant con venta de bebidas alcohólicas,
 
 Distribuidora, Bodega, Almacén, Hotel, Motel,
 
-Salón de Billar, Boliche 9
+Salón de Billar, Boliche y Supermercados 20
 
-III.- Vinatería, Licorería, Supermercado, Minisuper,
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2010)</small>
 
-Tienda de Abarrotes, Agencia, Subagencia, Depósito,
+III.- Vinatería, Licorería, Minisuper, Agencia,
 
-Expendio, Botanero 7
+Subagencia, Depósito, Expendio, Botanero 14
 
-IV.- Lonchería, Coctelería, Taquería 5
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2010)</small>
 
-V.- Centro Recreativo y Deportivo, Casino, Club Social,
+IV.- Lonchería, Coctelería, Taquería, Tienda de
 
-otros 3
+Abarrotes 10
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2010)</small>
+
+V.- Centro Recreativo y Deportivo, Casinon (sic)
+
+o Club Social, otros 6
 
 ###### ARTÍCULO 76.
 
@@ -1905,6 +2087,8 @@ Ingresarán a la Hacienda Pública las multas impuestas administrativamente por 
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 96.
 
 Las cantidades pagadas de más o indebidamente con cargo al Presupuesto de Egresos, se ingresarán por concepto de reintegros.
@@ -1920,6 +2104,8 @@ También ingresarán por este concepto las responsabilidades administrativas que
 Ingresarán al Erario Estatal las donaciones que se hagan en favor del Estado. Cuando los bienes objeto de la donación no consistan en dinero, serán inventariados como bienes patrimoniales del Estado, para darles el uso o aprovechamiento que acuerde el Ejecutivo; en caso contrario en los términos fijados por el donante.
 
 ### CAPÍTULO ÚNICO
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 99.
 
@@ -1977,7 +2163,7 @@ Los ingresos a que se refiere el artículo que antecede, serán los siguientes:
 
 ###### ARTÍCULO 106.
 
-Las participaciones por ingresos federales, se percibirán de acuerdo con lo dispuesto en la Ley de Coordinación Fiscal, el Decreto de Presupuesto de Egresos de la Federación, el Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal y el Convenio de Colaboración Administrativa en Materia Fiscal Federal y sus anexos; las cuales ingresarán íntegramente a la Secretaría de Finanzas del Estado.
+Las participaciones por ingresos federales, se percibirán de acuerdo con lo dispuesto en la Ley de Coordinación Fiscal, el Decreto de Presupuesto de Egresos de la Federación, el Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal y sus anexos, el Convenio de Colaboración Administrativa en Materia Fiscal Federal y sus anexos; las cuales ingresarán a la Secretaría de Finanzas del Estado, salvo aquellas que hayan sido afectadas como fuente de pago o garantía de las obligaciones contraídas por el Estado o sus municipios, de conformidad con la Ley de Deuda Pública Estatal.
 
 ## TÍTULO DÉCIMO. DE LOS FONDOS DE APORTACIONES FEDERALES
 
@@ -1987,7 +2173,7 @@ Los incentivos que se establezca (sic) en el Convenio de Colaboración Administr
 
 ###### ARTÍCULO 108.
 
-Los Fondos de Aportaciones Federales, se percibirán en los plazos, por los conceptos y montos que estén establecidos en la Ley de Coordinación Fiscal y el Decreto de Presupuesto de Egresos de la Federación, los cuales ingresarán íntegramente a la Secretaría de Finanzas del Estado y serán destinados y distribuidos de conformidad con lo establecido en la precitada Ley Federal.
+Los Fondos de Aportaciones Federales se percibirán en los plazos, conceptos y montos establecidos en la Ley de Coordinación Fiscal y el Decreto de Presupuesto de Egresos de la Federación, los cuales serán destinados y distribuidos de conformidad con lo establecido en la precitada Ley Federal. Estos Fondos ingresarán a la Secretaría de Finanzas del Estado, salvo aquellos que en los términos, condiciones y porcentajes establecidos en la Ley de Coordinación Fiscal hayan sido afectados para garantizar obligaciones o servir como fuente de pago de dichas obligaciones contraídas por el Estado o sus municipios.
 
 T R A N S I T O R I O S
 
@@ -2130,3 +2316,11 @@ Dado en el Salón de Sesiones del Palacio Legislativo, en la Ciudad de San Franc
 En cumplimiento de lo dispuesto por los artículos 48, 49 y 71 fracción XVIII de la Constitución Política del Estado, lo sanciono, mando se imprima, publique y circule para su debida observancia.
 
 Dado en el Palacio de Gobierno del Estado, en San Francisco de Campeche, Campeche, a los dieciséis días del mes de diciembre del año dos mil nueve.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. FERNANDO EUTIMIO ORTEGA BERNES.- EL SECRETARIO DE GOBIERNO, LIC. WILLIAM ROBERTO SARMIENTO URBINA.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 22 DE DICIEMBRE DE 2010.
+
+Primero.- El presente decreto entrará en vigor el día 1 de enero de 2011, previa publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
