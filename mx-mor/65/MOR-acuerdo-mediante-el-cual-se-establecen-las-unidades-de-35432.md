@@ -4,7 +4,7 @@ identifier: "MOR-acuerdo-mediante-el-cual-se-establecen-las-unidades-de-35432"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2003-11-28"
-last_updated: "2005-03-30"
+last_updated: "2010-12-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35432&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 ACUERDO MEDIANTE EL CUAL SE ESTABLECEN LAS UNIDADES DE INFORMACIÓN PÚBLICA Y SE CREA EL CONSEJO DE INFORMACIÓN CLASIFICADA DE LA GUBERNATURA DEL ESTADO DE MORELOS
 
-> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL ACUERDO MEDIANTE EL CUAL SE ESTABLECEN LAS UNIDADES DE INFORMACIÓN PÚBLICA Y SE CREA EL CONSEJO DE INFORMACIÓN CLASIFICADA DE LA GUBERNATURA DEL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DE 30 DE MARZO DE 2005, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL ACUERDO POR EL QUE SE ESTABLECEN LAS UNIDADES DE INFORMACIÓN PÚBLICA Y SE CREA EL CONSEJO DE INFORMACIÓN CLASIFICADA DE LAS UNIDADES ADMINISTRATIVAS DE ASESORÍA, APOYO TÉCNICO Y DE COORDINACIÓN, QUE SE ENCUENTRAN BAJO ADSCRIPCIÓN DIRECTA DEL TITULAR DEL EJECUTIVO DEL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DE 22 DE DICIEMBRE DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
@@ -136,3 +136,13 @@ P.O. 30 DE MARZO DE 2005.
 PRIMERO. El presente acuerdo entrará en vigor el mismo día de su publicación en el Periódico Oficial "Tierra y Libertad", órgano informativo del Gobierno del Estado de Morelos.
 
 SEGUNDO. El presente acuerdo abroga el Acuerdo mediante el cual se establecen las Unidades de Información Pública y se crea el Consejo de Información Clasificada de la Gubernatura del Estado de Morelos, publicado el veintiocho de noviembre del año dos mil tres, en el Periódico Oficial "Tierra y Libertad", número cuatro mil doscientos noventa y dos.
+
+P.O. 22 DE DICIEMBRE DE 2010.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDO. Se abrogan el Acuerdo mediante el cual se establecen las Unidades de Información Pública y el Consejo de Información Clasificada de la Gubernatura del Estado de Morelos, publicado en el Periódico Oficial "Tierra y Libertad" número 4680 de fecha 04 de febrero de 2009, y sus Acuerdos precedentes publicados en el Periódico Oficial "Tierra y Libertad" número 4385, de fecha treinta de marzo de dos mil cinco, y en el Periódico Oficial "Tierra y Libertad", número 4292, del veintiocho de noviembre del año dos mil tres.
+
+TERCERO. Una vez publicado el presente Acuerdo, el Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, deberá emitir en un plazo de quince días hábiles el Acuerdo correspondiente para establecer su Unidad de Información Pública y su Consejo de Información Clasificada, en los términos que para tal efecto señala la Ley de Información Pública, Estadística y Protección de Datos Personales del Estado de Morelos.
+
+CUARTO. Se derogan todas las disposiciones administrativas que se opongan al presente Acuerdo.
