@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-defensoria-publica-del-estado-de-mexico-73111"
 country: "mx"
 rank: "ley"
 publication_date: "2010-02-03"
-last_updated: "2010-03-06"
+last_updated: "2010-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=73111&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE DEFENSORIA PUBLICA DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE MARZO DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE DICIEMBRE DE 2010.
 
 Ley publicada en la Sección Cuarta de la Gaceta del Gobierno del Estado de México, el miércoles 3 de febrero de 2010.
 
@@ -107,7 +107,11 @@ III. Proporcionar gratuitamente patrocinio de defensa en materia mercantil, siem
 
 IV. Gestionar en los asuntos en los que intervengan adolescentes o incapaces representándolos en cualquier materia, su tratamiento y, en su caso, su remisión a las autoridades competentes y establecimientos que correspondan;
 
-V. Proporcionar obligatoria y gratuitamente patrocinio de defensa de los derechos de los indígenas, así como asesorarlos en todos los casos en que lo soliciten sin importar la materia de que se trate, a través de defensores públicos que posean conocimientos de su lengua y cultura;
+V. Proporcionar obligatoria y gratuitamente patrocinio de defensa de los derechos de los indígenas, así como asesorarlos en todos los casos en que lo soliciten sin importar la materia de que se trate, a través de defensores públicos que posean conocimientos de su lengua y cultura.
+
+> <small>(ADICIONADO, G.G. 22 DE DICIEMBRE DE 2010)</small>
+
+Para los efectos del párrafo anterior, el Instituto podrá actuar en coordinación con traductores e intérpretes que tengan conocimiento de la lengua y cultura a la que pertenezcan los indígenas, mediante la celebración de convenios de colaboración con las instituciones que puedan coadyuvar a la obtención de esos fines, y seguirá promoviendo la formación de defensores públicos bilingües.
 
 VI. El patrocinio a la parte actora en materia civil, se autorizará previo estudio socioeconómico, excepcionalmente en los casos de extrema pobreza, ignorancia o indigencia, así como a adultos mayores, sin medio comprobable de subsistencia o dependencia de familiares directos;
 
@@ -468,3 +472,9 @@ El uno de agosto de dos mil once, en los distritos judiciales de El Oro, Jilotep
 QUINTO.- Los procedimientos y actuaciones penales y civiles que se hayan iniciado con anterioridad a la entrada en vigor del presente Decreto, continuarán tramitándose hasta su conclusión de conformidad con las disposiciones jurídicas aplicables en ese momento.
 
 SEXTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+G.G. 22 DE DICIEMBRE DE 2010.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
