@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-banco-de-mexico-1152"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-09-30"
-last_updated: "2010-10-05"
+last_updated: "2010-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1152&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1994-09-23"
 
 REGLAMENTO INTERIOR DEL BANCO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE OCTUBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE DICIEMBRE DE 2010.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 30 de septiembre de 1994.
 
@@ -1241,7 +1241,9 @@ IV. Requerir a las Unidades Administrativas auditadas, informes respecto de la a
 
 V. Elaborar y expedir las reglas necesarias para su operación, y
 
-VI. Nombrar y remover a su secretario, quien deberá ser un funcionario o trabajador de rango equivalente, adscrito a la Dirección de Auditoría.
+> <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 2010)</small>
+
+VI. Nombrar y remover a su secretario, quien deberá ser un funcionario o trabajador de rango equivalente, adscrito ya sea a la Dirección de Auditoría, a la Contraloría o a la Dirección General Jurídica, que cuente con título profesional de licenciado en derecho o de abogado.
 
 > <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2010)</small>
 
@@ -1896,3 +1898,7 @@ Asimismo, en la fecha señalada en el primer párrafo de este Transitorio desapa
 TERCERO. Las referencias a cualquier Unidad Administrativa que en virtud de las presentes modificaciones hayan desaparecido o cambiado de denominación, contenidas en cualquier otro instrumento jurídico, deberán entenderse hechas a la Unidad Administrativa que las sustituya o cuente con las atribuciones respectivas.
 
 CUARTO. La totalidad de los actos jurídicos realizados durante la vigencia de los artículos modificados conservarán todo su valor y fuerza legales.
+
+D.O.F. 22 DE DICIEMBRE DE 2010.
+
+UNICO. La presente reforma entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
