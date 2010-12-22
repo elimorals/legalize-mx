@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-financiera-nacional-de-desarrollo-30022
 country: "mx"
 rank: "estatuto"
 publication_date: "2003-04-21"
-last_updated: "2010-10-14"
+last_updated: "2010-12-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=30022&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2003-04-09"
 
 ESTATUTO ORGANICO DE LA FINANCIERA RURAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE OCTUBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE DICIEMBRE DE 2010.
 
 Estatuto publicado en el Diario Oficial de la Federación, el lunes 21 de abril de 2003.
 
@@ -411,9 +411,9 @@ IV. Coadyuvar con el Comité de Auditoría y con el Comité de Administración I
 
 V. Dirigir las actividades de administración y control de la Normateca Institucional de la Financiera, y (sic)
 
-> <small>(ADICIONADA, D.O.F. 20 DE JULIO DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 2010)</small>
 
-V Bis. Expedir copias certificadas de las constancias que obren en los archivos de la Dirección Ejecutiva de Contraloría Interna, cuando deban ser exhibidas ante autoridades judiciales, administrativas, laborales y/o el Ministerio Público;
+V Bis. Expedir copias debidamente cotejadas con los originales de los documentos que obren en los archivos de la Dirección Ejecutiva de Contraloría Interna;
 
 VI. Preparar los asuntos relacionados con el ámbito de su competencia, que el Director General deba someter a consideración del Consejo;
 
@@ -425,11 +425,11 @@ VII. Fungir como enlace y coordinador ante los Organos Fiscalizadores en las Aud
 
 (DEROGADO, D.O.F. 23 DE JULIO DE 2008)
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE JULIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 23.
 
-Corresponde a la Dirección General Adjunta Técnica y de Instrumentación Legal:
+Corresponde a la Dirección General Adjunta Jurídica y Fiduciaria:
 
 > <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
 
@@ -459,43 +459,45 @@ VI. Dentro de su esfera de atribuciones, suplir al Director General de la Financ
 
 VII. Instruir estrategias de coordinación técnica dirigidas a las gerencias jurídicas de las coordinaciones regionales, así como de apoyo corporativo jurídico a las unidades administrativas de la Financiera.
 
-Para tales efectos, las gerencias jurídicas de las coordinaciones regionales dependerán en materia técnica y decisoria de la Dirección General Adjunta Técnica y de Instrumentación Legal, cuyas resoluciones vincularán en todo momento a dichas gerencias jurídicas;
+> <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 2010)</small>
+
+Para tales efectos, las gerencias jurídicas de las coordinaciones regionales dependerán en materia técnica y decisoria de la Dirección General Adjunta Jurídica y Fiduciaria, cuyas resoluciones vincularán en todo momento a dichas gerencias jurídicas;
 
 > <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
 
 VIII. Proponer el nombramiento, remover, cambiar de adscripción y promover, de conformidad con la normatividad institucional, a los gerentes jurídicos de las coordinaciones regionales de la Financiera, a los servidores públicos adscritos a las gerencias jurídicas, así como a los asesores jurídicos de las agencias de Crédito Rural, y (sic)
 
-> <small>(REFORMADA, D.O.F. 23 DE JULIO DE 2008)</small>
+> <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 2010)</small>
 
-IX. Atraer los asuntos en materia jurídica, que a su consideración deban ser atendidos por los servidores públicos adscritos a la Dirección General Adjunta Técnica y de Instrumentación Legal;
+IX. Atraer los asuntos en materia jurídica, que a su consideración deban ser atendidos por los servidores públicos adscritos a la Dirección General Adjunta Jurídica y Fiduciaria;
 
 > <small>(ADICIONADA, D.O.F. 23 DE JULIO DE 2008)</small>
 
 X. Diseñar y coordinar la política de relaciones interinstitucionales con las dependencias y entidades de la administración pública federal, los poderes legislativo y judicial, los representantes de los diversos órganos de gobierno, así como con los sectores privado y social;
 
-> <small>(ADICIONADA, D.O.F. 23 DE JULIO DE 2008)</small>
-
-XI. Coordinar las políticas de comunicación social de la Financiera;
+XI. (DEROGADA, D.O.F. 22 DE DICIEMBRE DE 2010)
 
 > <small>(ADICIONADA, D.O.F. 23 DE JULIO DE 2008)</small>
 
 XII. Representar al Director General en los asuntos que le encomiende;
 
-> <small>(ADICIONADA, D.O.F. 23 DE JULIO DE 2008)</small>
-
-XIII. Dar seguimiento a los acuerdos tomados por el Consejo Directivo cuando funja como Secretario del mismo;
+XIII. (DEROGADA, D.O.F. 22 DE DICIEMBRE DE 2010)
 
 > <small>(ADICIONADA, D.O.F. 23 DE JULIO DE 2008)</small>
 
 XIV. Preparar los asuntos relacionados con el ámbito de su competencia, que el Director General deba someter a consideración del Consejo;
 
+> <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 2010)</small>
+
+XV. Presentar al Consejo políticas y dirigir las acciones relacionadas con la selección, aceptación y administración de negocios fiduciarios, de la prestación de la actividad valuatoria así como de la administración de fondos que deriven de las disposiciones aplicables;
+
 > <small>(ADICIONADA, D.O.F. 23 DE JULIO DE 2008)</small>
 
-XV. Llevar a cabo las demás actividades que dentro del ámbito de su competencia deriven de las disposiciones legales y administrativas aplicables, así como aquellas que por instrucción expresa le encomienden el Director General o el Consejo; y
+XVI. Dirigir las actividades que propicien la generación de vínculos estratégicos, de cooperación e intercambio de información, experiencias y tecnología con entidades nacionales e internacionales;
 
-> <small>(ADICIONADA, D.O.F. 23 DE JULIO DE 2008)</small>
+> <small>(ADICIONADA, D.O.F. 22 DE DICIEMBRE DE 2010)</small>
 
-XVI. Dirigir las actividades que propicien la generación de vínculos estratégicos, de cooperación e intercambio de información, experiencias y tecnología con entidades nacionales e internacionales.
+XVII. Llevar a cabo las demás actividades que dentro del ámbito de su competencia deriven de las disposiciones legales y administrativas aplicables, así como aquellas que por instrucción expresa le encomienden el Director General o el Consejo.
 
 > <small>(ADICIONADO, D.O.F. 13 DE JULIO DE 2009)</small>
 
@@ -511,7 +513,9 @@ IV. Dirigir la ejecución de los trámites realizados por la Financiera ante fed
 
 V. Coadyuvar en la coordinación técnica dirigida a las gerencias jurídicas de las Coordinaciones Regionales, así como el apoyo jurídico a las unidades administrativas de la Financiera;
 
-VI. Coadyuvar con la Dirección General Adjunta Técnica y de Instrumentación Legal en las funciones derivadas de la fracción VIII del artículo 23 de este Estatuto;
+> <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 2010)</small>
+
+VI. Coadyuvar con la Dirección General Adjunta Jurídica y Fiduciaria en las funciones derivadas de la fracción VIII del artículo 23 de este Estatuto;
 
 VII. Supervisar la implementación de acciones para la administración del riesgo legal de la Financiera; y (sic)
 
@@ -523,13 +527,11 @@ VIII. Sancionar los contratos y convenios típicos y atípicos que presenten las
 
 IX. Dirigir las acciones jurídico corporativas tendientes a la rendición de los informes que en materia corporativa sean requeridos por las autoridades competentes con domicilio en la Ciudad de México;
 
-> <small>(ADICIONADA, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
+X. (DEROGADA, D.O.F. 22 DE DICIEMBRE DE 2010)
 
-X. Fungir como Prosecretario del Consejo Directivo, en cuyo caso tendrá las facultades señaladas en el artículo 25 Quáter del Estatuto;
+> <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 2010)</small>
 
-> <small>(ADICIONADA, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
-
-XI. Las demás que dentro del área de su competencia, se deriven de las disposiciones aplicables, así como aquellas que le encomiende el titular de la Dirección General Adjunta Técnica y de Instrumentación Legal.
+XI. Las demás que dentro del área de su competencia, se deriven de las disposiciones aplicables, así como aquellas que le encomiende el titular de la Dirección General Adjunta Jurídica y Fiduciaria.
 
 > <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
 
@@ -569,6 +571,34 @@ V. Coadyuvar con el Prosecretario en el control de la información, integración
 
 VI. Llevar a cabo las demás actividades dentro del área de su competencia, que se deriven de las disposiciones aplicables, de los poderes de representación otorgados, así como aquellas que le encomiende el Director Ejecutivo Jurídico.
 
+> <small>(ADICIONADO, D.O.F. 22 DE DICIEMBRE DE 2010)</small>
+
+ARTICULO 24 QUATER (SIC).- Corresponde a la Subdirección Corporativa Fiduciaria:
+
+I. Proponer lineamientos para el desarrollo de la actividad fiduciaria y la relacionada con mandatos, comisiones y avalúos en la Financiera;
+
+II. Proponer lineamientos para la contratación, administración y operación del servicio fiduciario, mandatos y comisiones y de avalúos;
+
+III. Supervisar la atención que se proporcione a los usuarios de los servicios fiduciarios, de avalúos, mandatos y comisiones;
+
+IV. Emitir procedimientos de supervisión en el desarrollo de las actividades en materia fiduciaria, de avalúos, mandatos y comisiones;
+
+V. Supervisar el cumplimiento de los fines de los negocios fiduciarios a cargo de la Financiera;
+
+VI. Supervisar la ejecución de las disposiciones de la Comisión Nacional Bancaria y de Valores en materia de fideicomisos, avalúos, mandatos y comisiones;
+
+VII. Realizar la actividad de administración de fondos que deriven de las disposiciones aplicables y que le sean encomendadas;
+
+VIII. Supervisar el cumplimiento de los lineamientos y procedimientos aplicables en materia de negocios fiduciarios, avalúos, mandatos y comisiones;
+
+IX. Desarrollar procedimientos de supervisión en el desarrollo de las actividades en materia fiduciaria, de mandatos, comisiones y avalúos;
+
+X. Desarrollar procesos, metodologías y procedimientos que reduzcan los riesgos operativos de los negocios fiduciarios, mandatos, comisiones y avalúos;
+
+XI. Generar y proponer políticas y estrategias para el desarrollo de los negocios fiduciario (sic) y de avalúos, y
+
+XII. Llevar a cabo las demás actividades dentro del área de su competencia, que se deriven de las disposiciones aplicables, de los poderes de representación otorgados, así como aquellas que le encomiende el Director General Adjunto Jurídico y Fiduciario.
+
 > <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
 
 ###### ARTICULO 25.
@@ -601,89 +631,23 @@ VIII. Coordinar las acciones jurídico corporativas y ser el conducto de la Fina
 
 IX. Llevar a cabo las demás actividades dentro del área de su competencia, que se deriven de las disposiciones aplicables, de los poderes de representación otorgados, así como aquellas que le encomiende el Director Ejecutivo Jurídico.
 
-> <small>(ADICIONADO, D.O.F. 23 DE JULIO DE 2008)</small>
+ARTICULO 25 BIS.- (DEROGADO, D.O.F. 22 DE DICIEMBRE DE 2010)
 
-ARTICULO 25 BIS.- Corresponde a la Dirección Ejecutiva de Vinculación y Desarrollo Institucional:
-
-I. (DEROGADA, D.O.F. 22 DE ENERO DE 2010)
-
-II. (DEROGADA, D.O.F. 22 DE ENERO DE 2010)
-
-III. (DEROGADA, D.O.F. 22 DE ENERO DE 2010)
-
-> <small>(REFORMADA, D.O.F. 22 DE ENERO DE 2010)</small>
-
-IV. Promover vínculos estratégicos y de cooperación, así como propiciar la celebración de convenios de colaboración e intercambio de información, experiencias y tecnología, con entidades nacionales e internacionales;
-
-> <small>(ADICIONADA, D.O.F. 22 DE ENERO DE 2010)</small>
-
-V. Coordinar las acciones para el establecimiento de vínculos interinstitucionales y con los sectores públicos, privados, académicos y sociales, nacionales e internacionales;
-
-> <small>(ADICIONADA, D.O.F. 22 DE ENERO DE 2010)</small>
-
-VI. Coordinar reuniones y eventos con instituciones vinculadas al sector rural, instituciones académicas, empresas y organismos nacionales e internacionales;
-
-> <small>(ADICIONADA, D.O.F. 22 DE ENERO DE 2010)</small>
-
-VII. Establecer y mantener canales de comunicación y mecanismos de coordinación con los entes vinculados al sector;
-
-> <small>(ADICIONADA, D.O.F. 22 DE ENERO DE 2010)</small>
-
-VIII. Dar seguimiento a las iniciativas legislativas y a puntos de acuerdo de las cámaras vinculados al sector rural;
-
-> <small>(ADICIONADA, D.O.F. 22 DE ENERO DE 2010)</small>
-
-IX. Coordinar la atención de requerimientos de los sujetos vinculados con la Institución;
-
-> <small>(ADICIONADA, D.O.F. 22 DE ENERO DE 2010)</small>
-
-X. Fungir como Titular de la Unidad de Enlace y dirigir y coordinar las acciones para el cumplimiento de las disposiciones conforme a la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental;
-
-> <small>(ADICIONADA, D.O.F. 22 DE ENERO DE 2010)</small>
-
-XI. Asegurar el cumplimiento y difundir los acuerdos del Comité de Información;
-
-> <small>(ADICIONADA, D.O.F. 22 DE ENERO DE 2010)</small>
-
-XII. Coordinar la instrumentación de los mecanismos de acceso a la información pública institucional en apego a las disposiciones en la materia;
-
-> <small>(ADICIONADA, D.O.F. 22 DE ENERO DE 2010)</small>
-
-XIII. Coordinar la atención de solicitudes de información pública y vigilar el cumplimiento de las resoluciones del Instituto Federal de Acceso a la Información (IFAI);
-
-> <small>(ADICIONADA, D.O.F. 22 DE ENERO DE 2010)</small>
-
-XIV. Coordinar la actualización de la información del Portal de Obligaciones de Transparencia, y
-
-> <small>(ADICIONADA, D.O.F. 22 DE ENERO DE 2010)</small>
-
-XV. Coordinar el registro de trámites ante la Comisión Federal de Mejora Regulatoria (COFEMER).
-
-> <small>(ADICIONADO, D.O.F. 23 DE JULIO DE 2008)</small>
+> <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 2010)</small>
 
 ARTICULO 25 TER.- Corresponde a la Subdirección Corporativa de Desarrollo Institucional:
 
-I. Efectuar las actividades que permitan vincular a la Financiera con dependencias y entidades de la administración pública federal; comisiones intersecretariales y equivalentes; poderes legislativo y judicial; gobiernos de las entidades federativas; gobiernos municipales; organismos académicos y empresariales de los sectores privado y social; organizaciones de productores; y organismos internacionales a fin de enriquecer las políticas relacionadas con el objeto de la Financiera;
+I. Efectuar las actividades que permitan vincular a la Financiera con dependencias y entidades de la administración pública federal; comisiones intersecretariales y equivalentes; poderes legislativo y judicial; gobiernos de las entidades federativas; gobiernos municipales; organismos académicos y empresariales de los sectores privado y social; organizaciones de productores y organismos internacionales, a fin de enriquecer las políticas relacionadas con el objeto de la Financiera;
 
-II. Dar seguimiento a las solicitudes de información hechas por las dependencias y entidades, así como los señalados en la fracción anterior;
+II. Formular recomendaciones sobre los programas de financiamiento, apoyo y capacitación;
 
-III. Llevar a cabo las demás actividades que dentro del ámbito de su competencia deriven de las disposiciones legales y administrativas aplicables, así como aquellas que le encomiende el Director Ejecutivo de Vinculación y Desarrollo Institucional;
+III. Dar seguimiento a las iniciativas legislativas y a puntos de acuerdo de las cámaras vinculados al sector rural;
 
-> <small>(ADICIONADA, D.O.F. 22 DE ENERO DE 2010)</small>
+IV. Coordinar y facilitar las reuniones de los directivos de la Institución con las autoridades de los gobiernos estatales y municipales, con los representantes de las distintas organizaciones vinculadas al sector rural, instituciones académicas, empresas y organismos nacionales e internacionales;
 
-IV. Organizar reuniones y eventos con instituciones vinculadas al sector;
+V. Promover vínculos estratégicos y de cooperación, así como propiciar la celebración de convenios de colaboración e intercambio de información, experiencias y tecnología, con entidades nacionales e internacionales, y
 
-> <small>(ADICIONADA, D.O.F. 22 DE ENERO DE 2010)</small>
-
-V. Establecer y mantener comunicación con todas las entidades, dependencias, empresas y organismos vinculados con la Institución;
-
-> <small>(ADICIONADA, D.O.F. 22 DE ENERO DE 2010)</small>
-
-VI. Formular recomendaciones sobre los programas de financiamiento, apoyo y capacitación, y
-
-> <small>(ADICIONADA, D.O.F. 22 DE ENERO DE 2010)</small>
-
-VII. Coordinar y facilitar las reuniones de los directivos de la Institución con las autoridades de los gobiernos estatales y municipales y con los representantes de las distintas organizaciones.
+VI. Llevar a cabo las demás actividades que dentro del ámbito de su competencia deriven de las disposiciones legales y administrativas aplicables, así como aquellas que le encomiende el Director General Adjunto Jurídico y Fiduciario.
 
 > <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
@@ -697,33 +661,45 @@ Corresponde a la Dirección General Adjunta de Planeación Estratégica y Análi
 
 I. (DEROGADA, D.O.F. 23 DE ENERO DE 2008)
 
-> <small>(REFORMADA, D.O.F. 23 DE ENERO DE 2008)</small>
+> <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 2010)</small>
 
-II. Dirigir las actividades de seguimiento y evaluación de la operación crediticia de las Coordinaciones Regionales y Agencias;
+II. Dirigir las actividades de seguimiento y evaluación de las Coordinaciones Regionales y Agencias;
 
 > <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
 
 III. Coadyuvar con las unidades administrativas correspondientes para el desarrollo del programa operativo anual, y (sic)
 
-> <small>(REFORMADA, D.O.F. 23 DE ENERO DE 2008)</small>
-
-IV. Presentar al Consejo políticas para la selección, aceptación y administración de negocios fiduciarios, de la prestación de la actividad valuatoria así como de la administración de fondos que deriven de las disposiciones aplicables;
+IV. (DEROGADA, D.O.F. 22 DE DICIEMBRE DE 2010)
 
 V. (DEROGADA, D.O.F. 1 DE DICIEMBRE DE 2008)
 
 > <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 2008)</small>
 
-VI. Dirigir las actividades de análisis del mercado objetivo de la Financiera Rural y análisis de las tendencias nacionales e internacionales de los mercados vinculados al medio rural; y
+VI. Dirigir las actividades de análisis del mercado objetivo de la Financiera Rural y análisis de las tendencias nacionales e internacionales de los mercados vinculados al medio rural; y (sic)
 
 > <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 2008)</small>
 
-VII. Dirigir las actividades relativas a la planeación estratégica de la institución.
+VII. Dirigir las actividades relativas a la planeación estratégica de la institución;
+
+> <small>(ADICIONADA, D.O.F. 22 DE DICIEMBRE DE 2010)</small>
+
+VIII. Dirigir las políticas de comunicación social de la Financiera;
+
+> <small>(ADICIONADA, D.O.F. 22 DE DICIEMBRE DE 2010)</small>
+
+IX. Coordinar las acciones y resultados de la Agencia Corporativa de Crédito Rural en los aspectos de portafolio de negocios, calidad de cartera, expedientes, promoción de negocios y recuperación de cartera, y
+
+> <small>(ADICIONADA, D.O.F. 22 DE DICIEMBRE DE 2010)</small>
+
+X. Apoyar las gestiones específicas que realice la Agencia Corporativa de Crédito Rural.
 
 > <small>(ADICIONADO, D.O.F. 19 DE JUNIO DE 2009)</small>
 
 ARTICULO 26 BIS.- Corresponde a la Dirección Ejecutiva de Enlace y Evaluación de Coordinaciones Regionales:
 
-I. Dirigir la evaluación de la operación crediticia de las Coordinaciones Regionales y Agencias;
+> <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 2010)</small>
+
+I. Coadyuvar en la evaluación de las Coordinaciones Regionales y Agencias;
 
 II. Participar en la planeación, desarrollo y mantenimiento del sistema de información gerencial, que permita generar y administrar la información de la operación crediticia de la Institución;
 
@@ -737,9 +713,19 @@ VI. Participar en la preparación de la información que por Ley y disposiciones
 
 VII. Promover acciones para la mejora continua e innovación de los programas, productos y procesos de la Financiera Rural;
 
-VIII. Establecer esquemas de coordinación para la planeación, evaluación y seguimiento de la operación de las Coordinaciones Regionales y Agencias de Crédito Rural; y
+VIII. Establecer esquemas de coordinación para la planeación, evaluación y seguimiento de la operación de las Coordinaciones Regionales y Agencias de Crédito Rural; y (sic)
 
-IX. Las demás que le encomiende el Director General Adjunto de Planeación Estratégica y Análisis Sectorial en el ámbito de su competencia.
+> <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 2010)</small>
+
+IX. Coadyuvar en la coordinación de las acciones y resultados de la Agencia Corporativa de Crédito Rural en los aspectos de portafolio de negocios, calidad de cartera, expedientes, promoción de negocios y recuperación de cartera;
+
+> <small>(ADICIONADA, D.O.F. 22 DE DICIEMBRE DE 2010)</small>
+
+X. Coadyuvar en el apoyo de las gestiones específicas que realice la Agencia Corporativa de Crédito Rural, y
+
+> <small>(ADICIONADA, D.O.F. 22 DE DICIEMBRE DE 2010)</small>
+
+XI. Las demás que le encomiende el Director General Adjunto de Planeación Estratégica y Análisis Sectorial en el ámbito de su competencia.
 
 > <small>(REFORMADO, D.O.F. 19 DE JUNIO DE 2009)</small>
 
@@ -793,9 +779,9 @@ V. Las demás funciones que le encomiende el Director Ejecutivo de Análisis Sec
 
 ARTICULO 27 TER.- Corresponde a la Subdirección Corporativa de Coordinación y Evaluación Regional:
 
-> <small>(ADICIONADA, D.O.F. 16 DE ABRIL DE 2008)</small>
+> <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 2010)</small>
 
-I. Coadyuvar en la coordinación y evaluación de la operación crediticia de las Coordinaciones Regionales y Agencias;
+I. Participar en la coordinación y evaluación de las Coordinaciones Regionales y Agencias;
 
 > <small>(ADICIONADA, D.O.F. 16 DE ABRIL DE 2008)</small>
 
@@ -831,6 +817,44 @@ XI. (DEROGADA, D.O.F. 19 DE JUNIO DE 2009)
 
 XII. Las demás que le encomiende el Director Ejecutivo de Enlace y Evaluación de Coordinaciones Regionales en el ámbito de su competencia.
 
+> <small>(ADICIONADO, D.O.F. 22 DE DICIEMBRE DE 2010)</small>
+
+ARTICULO 27 QUATER.- Corresponde a la Agencia Corporativa de Crédito Rural, que tendrá su domicilio en la Ciudad de México, Distrito Federal:
+
+I. Coordinar y llevar a cabo la aplicación de los productos, programas y apoyos de crédito con apego a los lineamientos establecidos, a fin de lograr las metas de negocios y los objetivos de atención a usuarios en apoyo a los objetivos de negocio establecidos;
+
+II. Verificar que el proceso de promoción, evaluación, originación, autorización, contratación, disposición, supervisión y recuperación, se realice con oportunidad, a fin de asegurar la calidad en el proceso crediticio;
+
+III. Coordinar las acciones y resultados de la Agencia en los aspectos de portafolio de negocios, calidad de cartera, expedientes, promoción de negocios y recuperación de cartera;
+
+IV. Representar a la Financiera en las comisiones que se le asignen, así como legalmente en el ámbito de su competencia;
+
+V. Atender de manera directa las solicitudes de financiamiento, asesoría y capacitación que presenten los productores y los Intermediarios Financieros Rurales;
+
+VI. Asegurar que la presencia de la Financiera llegue a los productores e Intermediarios Financieros Rurales directamente a sus unidades de producción, a través de la promoción en sitio;
+
+VII. Vincular las necesidades de los Productores y los Intermediarios Financieros Rurales, a fin de que las mismas sean atendidas por la Financiera;
+
+VIII. Identificar proyectos productivos que impulsen el desarrollo rural a fin de promoverlos ante instituciones nacionales o extranjeras dedicadas a la inversión y al financiamiento;
+
+IX. Realizar las actividades de guarda y custodia de documentos valor conforme a la normativa establecida;
+
+X. Definir acciones de coordinación para la operación de los productos y modelos de atención de crédito en la agencia;
+
+XI. Supervisar y coordinar las gestiones y desarrollo de sus áreas, verificando la atención a las funciones, actividades y comisiones asignadas;
+
+XII. Promover el desarrollo de proyectos y nuevos negocios en los sectores estratégicos identificados por Financiera Rural;
+
+XIII. Atender de manera directa las solicitudes de financiamiento que presenten las empresas y productores rurales;
+
+XIV. Coordinar y supervisar la estructuración de financiamientos y cofinanciamientos acorde a la profundidad del mercado, considerando las tendencias de los instrumentos financieros existentes tanto en mercado nacional como internacional;
+
+XV. Identificar a las entidades Gubernamentales, así como a otras instituciones financieras y fondos de inversión privados, involucrados en los financiamientos y cofinanciamientos estructurados y fungir como enlace entre éstos y las empresas y productores rurales involucrados en los proyectos a financiarse;
+
+XVI. Desarrollar y establecer las bases para determinar nuevas formas de financiamiento que se consideren viables y necesarias para la institución, y
+
+XVII. Realizar las demás funciones y/o responsabilidades dentro del ámbito de su competencia, que se deriven de las disposiciones aplicables, así como de aquellas que le encomiende el Director General Adjunto de Planeación Estratégica y Análisis Sectorial.
+
 ###### ARTICULO 28.
 
 (DEROGADO, D.O.F. 23 DE ENERO DE 2008)
@@ -839,59 +863,9 @@ XII. Las demás que le encomiende el Director Ejecutivo de Enlace y Evaluación 
 
 (DEROGADO, D.O.F. 23 DE ENERO DE 2008)
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 12 DE MARZO DE 2010)</small>
-
 ###### ARTICULO 30.
 
-Corresponde a la Subdirección Corporativa Fiduciaria:
-
-> <small>(REFORMADA, D.O.F. 22 DE ENERO DE 2010)</small>
-
-I. Proponer lineamientos para el desarrollo de la actividad fiduciaria y la relacionada con mandatos, comisiones y avalúos en la Financiera;
-
-> <small>(REFORMADA, D.O.F. 22 DE ENERO DE 2010)</small>
-
-II. Proponer lineamientos para la contratación, administración y operación del servicio fiduciario, mandatos y comisiones y de avalúos;
-
-III. (DEROGADA, D.O.F. 22 DE ENERO DE 2010)
-
-> <small>(REFORMADA, D.O.F. 17 DE ABRIL DE 2009)</small>
-
-IV. Supervisar la atención que se proporcione a los usuarios de los servicios fiduciarios, de avalúos, mandatos y comisiones;
-
-> <small>(REFORMADA, D.O.F. 17 DE ABRIL DE 2009)</small>
-
-V. Emitir procedimientos de supervisión en el desarrollo de las actividades en materia fiduciaria, de avalúos, mandatos y comisiones;
-
-> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
-
-VI. Supervisar el cumplimiento de los fines de los negocios fiduciarios a cargo de la Financiera;
-
-VII. (DEROGADA, D.O.F. 22 DE ENERO DE 2010)
-
-> <small>(REFORMADA, D.O.F. 17 DE ABRIL DE 2009)</small>
-
-VIII. Supervisar la ejecución de las disposiciones de la Comisión Nacional Bancaria y de Valores en materia de fideicomisos, avalúos, mandatos y comisiones;
-
-> <small>(REFORMADA, D.O.F. 23 DE ENERO DE 2008)</small>
-
-IX. Realizar la actividad de administración de fondos que deriven de las disposiciones aplicables y que le sean encomendadas; y (sic)
-
-> <small>(REFORMADA, D.O.F. 17 DE ABRIL DE 2009)</small>
-
-X. Supervisar el cumplimiento de los lineamientos y procedimientos aplicables en materia de negocios fiduciarios, avalúos, mandatos y comisiones;
-
-> <small>(ADICIONADA, D.O.F. 22 DE ENERO DE 2010)</small>
-
-XI. Desarrollar procedimientos de supervisión en el desarrollo de las actividades en materia fiduciaria, de mandatos, comisiones y avalúos;
-
-> <small>(ADICIONADA, D.O.F. 22 DE ENERO DE 2010)</small>
-
-XII. Desarrollar procesos, metodologías y procedimientos que reduzcan los riesgos operativos de los negocios fiduciarios, mandatos, comisiones y avalúos, y
-
-> <small>(ADICIONADA, D.O.F. 22 DE ENERO DE 2010)</small>
-
-XIII. Generar y proponer políticas y estrategias para el desarrollo de los negocios fiduciario y de avalúos.
+(DEROGADO, D.O.F. 22 DE DICIEMBRE DE 2010)
 
 > <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
 
@@ -953,6 +927,36 @@ XIII. Dirigir las acciones de supervisión a los Almacenes Generales de Depósit
 
 XIV. Dirigir las acciones para el seguimiento del proceso de crédito.
 
+> <small>(ADICIONADO, D.O.F. 22 DE DICIEMBRE DE 2010)</small>
+
+ARTICULO 31 BIS.- Corresponde a la Dirección Ejecutiva de Análisis y Normatividad de Crédito:
+
+I. Coordinar y vigilar que el proceso de crédito se conduzca de manera eficiente a través de la correcta aplicación y seguimiento de las normas y políticas institucionales, estableciendo los controles, mecanismos y actividades de verificación con todas las áreas de la institución que participan en el mismo;
+
+II. Dirigir y vigilar la correcta aplicación de las políticas, lineamientos, normas, reglas y procedimientos de las operaciones de financiamiento (crédito y reporto), así como sus modificaciones;
+
+III. Dirigir y vigilar la correcta aplicación de las disposiciones normativas que complementen y/o interpreten las políticas, lineamientos, normas y procedimientos de crédito;
+
+IV. Vigilar y asegurar la correcta aplicación de los criterios y herramientas con los que se analicen, resuelvan y otorguen los créditos solicitados;
+
+V. Participar en el Comité de Crédito;
+
+VI. Mantener la relación de la Financiera con las sociedades de información crediticia;
+
+VII. Proponer al Director General Adjunto de Crédito el nombramiento, remoción, cambio de adscripción y promoción, de conformidad con la normatividad institucional, de los Gerentes de Análisis de Crédito y de los Gerentes de Supervisión y Cobranza de las Coordinaciones Regionales de la Financiera, de los servidores públicos adscritos a dichas gerencias, así como de los asesores de crédito de las agencias de crédito rural;
+
+VIII. Atraer los asuntos en materia crediticia, que a consideración del Director General Adjunto de Crédito deban ser atendidos directamente por la Dirección Ejecutiva;
+
+IX. Dirigir y vigilar la correcta aplicación de los mecanismos para el seguimiento de crédito a los clientes de la institución;
+
+X. Dirigir, establecer y vigilar la correcta aplicación de los lineamientos, políticas y procedimientos para la cobranza administrativa y extrajudicial de la cartera crediticia de la Financiera;
+
+XI. Dirigir el proceso de la calificación de la cartera crediticia;
+
+XII. Dirigir el proceso de revisión de las operaciones crediticias, y
+
+XIII. Las demás que le encomiende el Director General Adjunto de Crédito en el ámbito de su competencia.
+
 ###### ARTICULO 32.
 
 (DEROGADO, D.O.F. 23 DE ENERO DE 2008)
@@ -963,13 +967,11 @@ XIV. Dirigir las acciones para el seguimiento del proceso de crédito.
 
 Corresponde a la Subdirección Corporativa de Mesa de Control:
 
-> <small>(REFORMADA, D.O.F. 22 DE ENERO DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 2010)</small>
 
-I. Establecer los mecanismos para que las operaciones de crédito y reporto se apeguen a los términos y condiciones aprobados por los órganos e instancias facultadas;
+I. Asegurar el cumplimiento de los términos y condiciones que se establecen en los acuerdos de las instancias de autorización, vigilando la correcta aplicación conforme a la normatividad de la institución;
 
-> <small>(REFORMADA, D.O.F. 20 DE JULIO DE 2010)</small>
-
-II. Vigilar periódicamente que las agencias designadas, cuenten en el guardavalores con la documentación original que respalde las operaciones de crédito;
+II. (DEROGADA, D.O.F. 22 DE DICIEMBRE DE 2010)
 
 III. (DEROGADA, D.O.F. 20 DE JULIO DE 2010)
 
@@ -979,9 +981,7 @@ IV. Vigilar el procesamiento de las operaciones de crédito y reporto en la mesa
 
 V. (DEROGADA, D.O.F. 20 DE JULIO DE 2010)
 
-> <small>(REFORMADA, D.O.F. 20 DE JULIO DE 2010)</small>
-
-VI. Supervisar las acciones, para verificar que los documentos valor que respaldan las operaciones de financiamiento realizadas, se encuentren registrados y resguardos en los lugares definidos por los Coordinadores Regionales;
+VI. (DEROGADA, D.O.F. 22 DE DICIEMBRE DE 2010)
 
 VII. (DEROGADA, D.O.F. 20 DE JULIO DE 2010)
 
@@ -1025,9 +1025,9 @@ VII. Coordinar la agenda de asuntos sometidos a consideración del Comité de Cr
 
 VIII. Coordinar las actividades internas y externas relacionadas con las Sociedades de Información Crediticia, y/o con las Instituciones de Banca de Desarrollo en lo relacionado a este tema; y
 
-> <small>(ADICIONADA, D.O.F. 20 DE JULIO DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 2010)</small>
 
-IX. Las demás que le encomiende el Director General Adjunto de Crédito en el ámbito de su competencia.
+IX. Llevar a cabo las actividades dentro del área de su competencia, que le encomiende el Director Ejecutivo de Análisis y Normatividad de Crédito.
 
 > <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
 
@@ -1069,9 +1069,9 @@ VIII. (DEROGADA, D.O.F. 22 DE ENERO DE 2010)
 
 IX. Coordinar la supervisión a los almacenes Generales de Depósito como emisores de Certificados de Depósito, en el marco del Manual de Normas y Políticas de Crédito y de Reporto; y
 
-> <small>(ADICIONADA, D.O.F. 20 DE JULIO DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 2010)</small>
 
-X. Las demás que le encomiende el Director General Adjunto de Crédito en el ámbito de su competencia.
+X. Llevar a cabo las actividades dentro del área de su competencia, que le encomiende el Director Ejecutivo de Análisis y Normatividad de Crédito.
 
 > <small>(ADICIONADO, D.O.F. 19 DE JUNIO DE 2009)</small>
 
@@ -1101,9 +1101,15 @@ V. Coordinar la evaluación de la calidad de los reportes de seguimiento al acre
 
 VI. Coordinar la correcta administración e integración de los expedientes de financiamiento;
 
+> <small>(ADICIONADA, D.O.F. 22 DE DICIEMBRE DE 2010)</small>
+
+VI Bis. Supervisar periódicamente que las Agencias cuenten en el guardavalores con la documentación original que respalde las operaciones de crédito;
+
 VII. Coordinar el seguimiento de crédito a productores e intermediarios financieros rurales y de otras figuras jurídicas, y
 
-VIII. Las demás que le encomiende el Director General Adjunto de Crédito en el ámbito de su competencia.
+> <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 2010)</small>
+
+VIII. Llevar a cabo las actividades dentro del área de su competencia, que le encomiende el Director Ejecutivo de Análisis y Normatividad de Crédito.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE ENERO DE 2008)</small>
 
@@ -1131,9 +1137,9 @@ IV. Proporcionar apoyos y servicios de promoción, capacitación, consultoría y
 
 V. Administrar los recursos asignados a las actividades de promoción, capacitación, asesoría, consultoría y organización, en el Presupuesto de la Financiera;
 
-> <small>(REFORMADA, D.O.F. 23 DE JULIO DE 2008)</small>
+> <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 2010)</small>
 
-VI. Celebrar todo tipo de convenios con los sectores público, social y privado a nivel nacional e internacional que contribuyan a ampliar, mejorar y realizar las actividades de promoción, diseño, incubación y fortalecimiento de proyectos productivos, empresas rurales, entidades dispersoras de crédito e Intermediarios Financieros Rurales, previa validación de la Dirección General Adjunta Técnica y de Instrumentación Legal;
+VI. Celebrar todo tipo de convenios con los sectores público, social y privado a nivel nacional e internacional que contribuyan a ampliar, mejorar y realizar las actividades de promoción, diseño, incubación y fortalecimiento de proyectos productivos, empresas rurales, entidades dispersoras de crédito e Intermediarios Financieros Rurales, previa validación de la Dirección General Adjunta Jurídica y Fiduciaria;
 
 > <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
 
@@ -1831,9 +1837,9 @@ XIII. Participar en los comités que apruebe el Consejo o en otros comités inte
 
 XIV. Representar al Director General en los asuntos que le encomiende;
 
-> <small>(ADICIONADA, D.O.F. 20 DE JULIO DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 2010)</small>
 
-XIV Bis. Expedir copias certificadas de las constancias que obren en los archivos de sus respectivas direcciones generales adjuntas, cuando deban ser exhibidas ante autoridades judiciales, administrativas, laborales y/o el Ministerio Público;
+XIV Bis. Expedir copias debidamente cotejadas con los originales de los documentos que obren en los archivos de sus respectivas direcciones generales adjuntas;
 
 XV. Representar a la Financiera, en el ámbito de su competencia, ante organismos e instituciones públicas y privadas, nacionales e internacionales, por acuerdo del Director General, y
 
@@ -1875,11 +1881,11 @@ XIII. Llevar a cabo las demás actividades dentro del área de su competencia, q
 
 ### CAPITULO V. DE LAS COORDINACIONES REGIONALES
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 19 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 51.
 
-Corresponde a las Coordinaciones Regionales:
+Corresponde a las coordinaciones regionales:
 
 > <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
 
@@ -1935,9 +1941,9 @@ XIII. Coordinar las actividades para dar seguimiento a la cobranza administrativ
 
 Para el ejercicio de dichas atribuciones, contarán con las Gerencias Regionales de Supervisión y Cobranza las cuales dependerán orgánicamente de éstas;
 
-> <small>(ADICIONADA, D.O.F. 20 DE JULIO DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 2010)</small>
 
-XIII Bis. Expedir copias certificadas de las constancias que obren en los archivos de sus respectivas coordinaciones regionales, cuando deban ser exhibidas ante autoridades judiciales, administrativas, laborales y/o el Ministerio Público; y
+XIII Bis. Expedir copias debidamente cotejadas con los originales de los documentos que obren en los archivos de sus respectivas coordinaciones regionales; y
 
 > <small>(ADICIONADA, D.O.F. 19 DE JUNIO DE 2009)</small>
 
@@ -2013,9 +2019,9 @@ XIX. (DEROGADA, D.O.F. 22 DE ENERO DE 2010)
 
 XX. Realizar las demás funciones y/o responsabilidades dentro del ámbito de su competencia, que se deriven de las disposiciones aplicables, así como de aquellas que le encomiende su jefe inmediato superior;
 
-> <small>(ADICIONADA, D.O.F. 22 DE ENERO DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 2010)</small>
 
-XXI. Participar en el área de adscripción, la operación para la guarda y custodia de documentos valor considerando para su control: la normativa para su manejo, medidas de seguridad, entrega documentos valor derivados de operaciones de crédito, consulta de documentos valor, para la salida de documentos valor por asignación jurídica y liquidación de adeudos;
+XXI. Realizar las actividades de guarda y custodia de documentos valor conforme a la normativa establecida;
 
 > <small>(ADICIONADA, D.O.F. 22 DE ENERO DE 2010)</small>
 
@@ -2083,9 +2089,7 @@ I. Baja California,
 
 II. Baja California Sur,
 
-> <small>(ADICIONADA, D.O.F. 3 DE JUNIO DE 2010)</small>
-
-II Bis. Nayarit;
+II Bis. (DEROGADA, D.O.F. 22 DE DICIEMBRE DE 2010)
 
 III. Sinaloa, y
 
@@ -2157,7 +2161,15 @@ VI. (DEROGADA, D.O.F. 12 DE MARZO DE 2010)
 
 > <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
 
-VII. Aguascalientes.
+VII. Aguascalientes;
+
+> <small>(ADICIONADA, D.O.F. 22 DE DICIEMBRE DE 2010)</small>
+
+VIII. Michoacán; y
+
+> <small>(ADICIONADA, D.O.F. 22 DE DICIEMBRE DE 2010)</small>
+
+IX. Nayarit.
 
 ###### ARTICULO 59.
 
@@ -2183,9 +2195,7 @@ V. Tlaxcala,
 
 VI. Morelos,
 
-> <small>(ADICIONADA, D.O.F. 3 DE JUNIO DE 2010)</small>
-
-VI Bis. Michoacán,
+VI Bis. (DEROGADA, D.O.F. 22 DE DICIEMBRE DE 2010)
 
 VII. Las zonas rurales del Distrito Federal,
 
@@ -2315,9 +2325,9 @@ V. El Director General Adjunto de Fomento y Promoción de Negocios;
 
 VI. El Director General Adjunto de Administración;
 
-> <small>(REFORMADA, D.O.F. 23 DE JULIO DE 2008)</small>
+> <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 2010)</small>
 
-VII. El Director General Adjunto Técnico y de Instrumentación Legal;
+VII. El Director General Adjunto Jurídico y Fiduciario;
 
 > <small>(REFORMADA, D.O.F. 23 DE ENERO DE 2008)</small>
 
@@ -2337,9 +2347,9 @@ XI. El Director Ejecutivo de Contraloría Interna, en calidad de asesor.
 
 Los integrantes previstos en los incisos I, II, IX, X y XI acudirán con derecho a voz pero sin voto. En los casos en que los titulares integrantes del Comité no puedan asistir a la sesión, nombrarán a un suplente con el nivel jerárquico inmediato inferior al de ellos.
 
-> <small>(ADICIONADO, D.O.F. 22 DE ENERO DE 2010)</small>
+> <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 2010)</small>
 
-En el caso del Director General Adjunto Técnico y de Instrumentación Legal, éste podrá nombrar como suplente indistintamente al Director Ejecutivo Jurídico o a los Subdirectores Corporativos que dependen de éste.
+En el caso del Director General Adjunto Jurídico y Fiduciario, éste podrá nombrar como suplente indistintamente al Director Ejecutivo Jurídico o a los Subdirectores Corporativos que dependen de éste.
 
 > <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
 
@@ -2371,7 +2381,7 @@ VII. Autorizar el otorgamiento de líneas de reporto, de conformidad con los Lin
 
 VIII. Las demás que determine la Ley, el Estatuto, el Consejo y las Reglas de Operación del Comité.
 
-> <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 71.
 
@@ -2379,59 +2389,39 @@ El Comité de Crédito estará integrado de la siguiente forma:
 
 I. Presidente: El Director General Adjunto de Crédito;
 
-> <small>(REFORMADA, D.O.F. 19 DE JUNIO DE 2009)</small>
-
-II. Secretario: El Subdirector Corporativo de Análisis de Crédito;
-
-> <small>(REFORMADA, D.O.F. 19 DE JUNIO DE 2009)</small>
+II. El Director General Adjunto de Fomento y Promoción de Negocios;
 
 III. El Director General Adjunto de Planeación Estratégica y Análisis Sectorial;
 
-> <small>(REFORMADA, D.O.F. 17 DE SEPTIEMBRE DE 2008)</small>
+IV. El Titular de la Unidad para la Administración Integral de Riesgos;
 
-IV. El Director General Adjunto de Fomento y Promoción de Negocios;
+V. El Director General Adjunto de Finanzas, Operaciones y Sistemas;
 
-> <small>(REFORMADA, D.O.F. 17 DE SEPTIEMBRE DE 2008)</small>
+VI. El Director Ejecutivo de Análisis y Normatividad de Crédito;
 
-V. El Director General Adjunto Técnico y de Instrumentación Legal;
+VII. Un representante de la Secretaría de Hacienda y Crédito Público, en calidad de asesor;
 
-> <small>(REFORMADA, D.O.F. 17 DE SEPTIEMBRE DE 2008)</small>
+VIII. Un representante del Banco de México, en calidad de asesor;
 
-VI. El Subdirector Corporativo de Normatividad de Crédito;
+IX. Un representante del área jurídica de la Financiera Rural, en calidad de asesor;
 
-> <small>(REFORMADA, D.O.F. 17 DE SEPTIEMBRE DE 2008)</small>
+X. El Titular del Organo Interno de Control de la Financiera, en calidad de asesor;
 
-VII. El Titular de la Unidad para la Administración Integral de Riesgos;
+XI. El Titular de la Contraloría Interna, en calidad de asesor;
 
-VII Bis. (DEROGADA, D.O.F. 20 DE JULIO DE 2010)
+XII. El Subdirector Corporativo de Supervisión y Cobranza, en calidad de asesor;
 
-VIII. Un representante de la Secretaría de Hacienda y Crédito Público, en calidad de asesor;
+XIII. El Subdirector Corporativo de Normatividad de Crédito, en calidad de asesor, y
 
-IX. Un representante del Banco de México, en calidad de asesor;
+XIV. El Subdirector Corporativo de Análisis de Crédito, en calidad de secretario;
 
-X. El Subdirector Corporativo Jurídico de Normatividad y Consulta, en calidad de asesor;
-
-> <small>(REFORMADA, D.O.F. 17 DE SEPTIEMBRE DE 2008)</small>
-
-XI. El Titular del Organo Interno de Control de la Financiera, en calidad de asesor; y
-
-> <small>(REFORMADA, D.O.F. 17 DE SEPTIEMBRE DE 2008)</small>
-
-XII. El Titular de la Contraloría Interna, en calidad de asesor.
-
-> <small>(REFORMADO, D.O.F. 20 DE JULIO DE 2010)</small>
-
-Los integrantes previstos en los incisos I al VII acudirán con derecho a voz y voto. En el caso de los integrantes de los incisos VIII al XII acudirán sólo con derecho a voz. En los casos en que los titulares integrantes del Comité no puedan asistir a la sesión, nombrarán a un suplente con el nivel jerárquico inmediato inferior al de ellos.
+Los integrantes previstos en los incisos I al VI acudirán con derecho a voz y voto. En el caso de los integrantes de los incisos VII al XIV acudirán sólo con derecho a voz. En los casos en que los titulares integrantes del Comité no puedan asistir a la sesión, nombrarán a un suplente con el nivel jerárquico inmediato inferior al de ellos.
 
 Para casos específicos podrán invitarse a expertos externos en calidad de asesores.
 
-> <small>(ADICIONADO, D.O.F. 19 DE JUNIO DE 2009)</small>
+El suplente del presidente del Comité será el Director Ejecutivo de Análisis y Normatividad de Crédito y en la ausencia de ambos, será designado conforme a la mecánica establecida en las Reglas de Operación del Comité de Crédito.
 
-El suplente del presidente del Comité será designado conforme a la mecánica establecida en las Reglas de Operación del Comité de Crédito.
-
-> <small>(ADICIONADO, D.O.F. 22 DE ENERO DE 2010)</small>
-
-En el caso del Director General Adjunto Técnico y de Instrumentación Legal, éste podrá nombrar como suplente indistintamente al Director Ejecutivo Jurídico o a los Subdirectores Corporativos que dependen de éste.
+El representante del área jurídica deberá tener un nivel jerárquico mínimo de Subdirector Corporativo.
 
 > <small>(REFORMADO, D.O.F. 22 DE ENERO DE 2010)</small>
 
@@ -2515,9 +2505,9 @@ Los integrantes previstos en los incisos VI, VII acudirán con voz pero sin voto
 
 En las ausencias del Director General, éste será suplido por los titulares de las direcciones generales adjuntas de acuerdo con el ámbito de competencia que les corresponda.
 
-> <small>(REFORMADO, D.O.F. 23 DE JULIO DE 2008)</small>
+> <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 2010)</small>
 
-En los juicios de amparo o, en cualquier otro procedimiento jurisdiccional o contencioso administrativo, inclusive en materia laboral, el Director General podrá ser suplido por el Director General Adjunto Técnico y de Instrumentación Legal.
+En los juicios de amparo o, en cualquier otro procedimiento jurisdiccional o contencioso administrativo, inclusive en materia laboral, el Director General podrá ser suplido por el Director General Adjunto Jurídico y Fiduciario.
 
 Los directores generales adjuntos serán suplidos en sus ausencias por los directores ejecutivos, en los asuntos de su respectiva competencia o, en su caso, por los subdirectores corporativos correspondientes.
 
@@ -2626,5 +2616,9 @@ D.O.F. 20 DE JULIO DE 2010.
 UNICO.- La presente reforma al Estatuto Orgánico entra en vigor al día siguiente de su aprobación por el H. Consejo Directivo y deberá publicarse en el Diario Oficial de la Federación.
 
 D.O.F. 14 DE OCTUBRE DE 2010.
+
+UNICO.- La presente reforma al Estatuto Orgánico entra en vigor al día siguiente de su aprobación por el H. Consejo Directivo y deberá publicarse en el Diario Oficial de la Federación.
+
+D.O.F. 22 DE DICIEMBRE DE 2010.
 
 UNICO.- La presente reforma al Estatuto Orgánico entra en vigor al día siguiente de su aprobación por el H. Consejo Directivo y deberá publicarse en el Diario Oficial de la Federación.
