@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-vialidad-transito-y-control-vehicular-del-estado-de-6164
 country: "mx"
 rank: "ley"
 publication_date: "2008-06-09"
-last_updated: "2008-06-09"
+last_updated: "2010-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61646&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE VIALIDAD, TRANSITO Y CONTROL VEHICULAR DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE DICIEMBRE DE 2010.
 
 Ley publicada en la Sección Legislativa del Periódico Oficial del Estado de Campeche, el lunes 9 de junio de 2008.
 
@@ -447,11 +447,11 @@ IV. Conocimiento del significado de las señalizaciones, así como su clasificac
 
 V. Respeto al peatón y a las vialidades de transito peatonal, prohibiendo arrojar objetos o basura desde el interior de los vehículos hacia las vialidades;
 
-VI. Carriles de conducción, condiciones para rebasar vehiculos, cambios de dirección, preferencias de paso, aplicación del método de cruce de uno por uno en cruceros y uso de dispositivos luminosos del vehiculo;
+VI. Carriles de conducción, condiciones para rebasar vehículos, cambios de dirección, preferencias de paso, aplicación del método de cruce de uno por uno en cruceros y uso de dispositivos luminosos del vehículo;
 
-VII. Prohibición de uso de teléfonos celulares a menos que el vehiculo cuente con dispositivo de manos libres, y en general el uso de cualquier dispositivo electrónico o mecánico que distraiga la atención del conductor así como la instalación de televisores o pantallas para reproducir imágenes en la parte interior delantera del vehículo;
+VII. Prohibición de uso de teléfonos celulares a menos que el vehiculo cuente con dispositivo de manos libres, y en general el uso de cualquier dispositivo electrónico o mecánico que distraiga la atención del conductor así como la instalación de televisores o pantallas para reproducir imágenes en la parte interior delantera del vehiculo;
 
-VIII. Prohibición de instalar faros deslumbrantes al vehículo que pongan en riesgo la seguridad de los demás conductores y peatones;
+VIII. Prohibición de instalar faros deslumbrantes al vehiculo que pongan en riesgo la seguridad de los demás conductores y peatones;
 
 IX. Ningún vehículo podrá circular en el estado si se obstruye la visibilidad del conductor o hacia el interior del vehículo debido a la intensidad del polarizado, oscurecido o ahumado de los vidrios o por la colocación de cualquier otro aditamento. Quedando prohibida la instalación de lo antes señalado en el cristal delantero;
 
@@ -670,6 +670,10 @@ El Reglamento de esta ley, señalará de manera enunciativa, los documentos y me
 ###### Artículo 64.
 
 Las personas que deseen obtener el registro y tarjeta de circulación de automóviles, autobuses para transporte de pasajeros y camiones de carga destinados al servicio público, además de cumplir con los requisitos antes señalados, deberán presentar el permiso o concesión otorgada por la autoridad correspondiente para la explotación del servicio de que se trate.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2010)</small>
+
+En la tarjeta de circulación que se expida deberá contener los nombres de: propietario, tenedor y concesionario. Este último dato será el que el Instituto Estatal del Transporte comunique a la autoridad para que ésta incluya la fecha de terminación de la concesión.
 
 ###### Artículo 65.
 
@@ -1322,3 +1326,11 @@ En cumplimiento de lo dispuesto por los Artículos 48, 49 y 71 Fracción XVIII d
 Dado en el Palacio del Gobierno del Estado, en San Francisco de Campeche, Campeche, a los seis días del mes de junio del año dos mil ocho.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, C.P. JORGE CARLOS HURTADO VALDEZ.- EL SECRETARIO DE GOBIERNO, M. EN D. RICARDO MEDINA FARFAN. RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 22 DE DICIEMBRE DE 2010.
+
+Primero.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
