@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-fomento-de-procesos-productivos-eficientes-para-la-68062
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-23"
-last_updated: "2009-04-23"
+last_updated: "2010-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68062&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2009-04-22"
 
 LEY DE FOMENTO DE PROCESOS PRODUCTIVOS EFICIENTES PARA EL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 22 DE DICIEMBRE DE 2010.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 23 de abril de 2009.
 
@@ -292,11 +292,11 @@ En caso de que cualquier empresa o individuo viole las previsiones establecidas 
 
 Si cualquier empresa o individuo viola las previsiones establecidas en el tercer párrafo del artículo 31 de esta Ley, falla al implementar revisiones de producción eficiente, o ha efectuado estas revisiones pero no reporta los resultados, la Secretaría del Medio Ambiente deberá ordenar a la parte efectuar la rectificación correspondiente dentro de un término de veinte días contados a partir de la notificación, e imponer, además, una multa de 50 a 70 días de salario mínimo general vigente en el Distrito Federal si la parte no hace la rectificación correspondiente.
 
-(NOTA: EL 2 DE MARZO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO Y EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 47/2009, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 3 DE MARZO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>(REFORMADO, G.O. 22 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 44.
 
-En caso de que cualquier empresa o individuo viole las previsiones del artículo 34 de esta Ley, o no realice la publicación de los requerimientos respecto a la información de emisión de contaminantes, la Secretaría de Medio Ambiente impondrá una multa de 50 días de salario mínimo general vigente en el Distrito Federal, y deberá publicar la información relativa a las circunstancias de la parte emisora de contaminantes.
+En caso de que cualquier empresa o individuo viole las previsiones del artículo 34 de esta Ley, o no realice la publicación de los requerimientos respecto a la información de emisión de contaminantes, la Secretaría de Medio Ambiente impondrá una multa de cuarenta a sesenta días de salario mínimo general vigente en el Distrito Federal, y deberá publicar la información relativa a las circunstancias de la parte emisora de contaminantes.
 
 ## TRANSITORIOS
 
@@ -313,3 +313,11 @@ QUINTO.- Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Of
 Recinto de la Asamblea Legislativa del Distrito Federal, a los diecinueve días del mes de marzo del año dos mil nueve.- POR LA MESA DIRECTIVA.- DIP. CARLA ALEJANDRA SÁNCHEZARMAS GARCÍA, PRESIDENTA.- DIP. REBECA PARADA ORTEGA, SECRETARIA.- DIP. LAURA PIÑA OLMEDO, SECRETARIA.- FIRMAS
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, para su debida aplicación y observancia, expido el presente decreto promulgatorio en la residencia oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los veintidós días del mes de abril del año dos mil nueve.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MARCELO LUIS EBRARD CASAUBON.- FIRMA.- EL SECRETARIO DE GOBIERNO, JOSÉ ÁNGEL ÁVILA PÉREZ.- FIRMA.- LA SECRETARIA DE DESARROLLO ECONÓMICO, LAURA VELÁZQUEZ ALZUA.- FIRMA.- LA SECRETARIA DEL MEDIO AMBIENTE, MARTHA DELGADO PERALTA.- FIRMA.- EL SECRETARIO DE SALUD, ARMANDO AHUED ORTEGA.- FIRMA.- EL SECRETARIO DE EDUCACIÓN, AXEL DIDRIKSSON TAKAYANAGUI.- FIRMA.- LA SECRETARIA DE DESARROLLO RURAL Y EQUIDAD PARA LAS COMUNIDADES, MARÍA ROSA MÁRQUEZ CABRERA.- FIRMA.- EL SECRETARIO DE FINANZAS, MARIO MARTÍN DELGADO CARRILLO.- FIRMA.- EL SECRETARIO DE OBRAS Y SERVICIOS, JORGE ARGANIS DÍAZ LEAL.- FIRMA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 22 DE DICIEMBRE DE 2010.
+
+PRIMERO.- Túrnese el presente Decreto al Jefe de Gobierno del Distrito Federal, para su promulgación y debido cumplimiento.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
