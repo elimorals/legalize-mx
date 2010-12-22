@@ -4,7 +4,7 @@ identifier: "ROO-constitucion-politica-del-estado-libre-y-soberano-de-7319"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-12"
-last_updated: "2010-03-09"
+last_updated: "2010-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2010.
 
 Constitución publicada en el Periódico Oficial del Estado de Quintana Roo, el 12 de enero de 1975.
 
@@ -119,6 +119,10 @@ Igual protección asume respecto de los derechos fundamentales que, en ejercicio
 
 El Estado de Quintana Roo reconoce, protege y garantiza el derecho a la vida de todo ser humano, al sustentar expresamente que desde el momento de la concepción entra bajo la protección de la ley y se le reputa como sujeto de derechos para todos los efectos legales correspondientes, hasta su muerte. Salvo las excepciones que establezca la ley.
 
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2010)</small>
+
+Queda prohibida toda discriminación motivada por origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias, la condición sexual, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas que habitan en este Estado. El Estado diseñara, promoverá y llevará a cabo las acciones y medidas necesarias para garantizar el derecho a la no discriminación.
+
 > <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 1983)</small>
 
 El Estado garantiza la igualdad jurídica respecto de sus habitantes sin distinción de origen, sexo, condición o actividad social.
@@ -127,13 +131,13 @@ El Estado garantiza la igualdad jurídica respecto de sus habitantes sin distinc
 
 Todo varón y mujer serán sujetos de iguales derechos y obligaciones ante la Ley. Toda referencia de esta Constitución y de las leyes del Estado al género masculino, lo es también para el género femenino, cuando de su texto y contexto no se establezca que es expresamente para uno u otro género.
 
-> <small>(REFORMADO, P.O. 2 DE JULIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2010)</small>
 
-Toda familia tiene derecho a disfrutar de vida digna y decorosa. La Ley establecerá los instrumentos y apoyos necesarios a fin de alcanzar tal objetivo, en concordancia y coordinación con las leyes federales sobre la materia. Toda persona tiene derecho a la protección de la salud. La Ley definirá las bases y modalidades para el acceso a los servicios de salud. En materia de salubridad general se estará a las disposiciones que dicte la Federación de conformidad al contenido de la fracción XVI del Artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
+Toda familia tiene derecho a disfrutar de vivienda digna y decorosa. La Ley establecerá los instrumentos y apoyos necesarios a fin de alcanzar tal objetivo, en concordancia y coordinación con las leyes federales sobre la materia. Toda persona tiene derecho a la protección de la salud. La Ley definirá las bases y modalidades para el acceso a los servicios de salud. En materia de salubridad general se estará a las disposiciones que dicte la Federación de conformidad al contenido de la fracción XVI del Artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
 
-> <small>(REFORMADO, P.O. 2 DE JULIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2010)</small>
 
-El Estado de Quintana Roo, como parte de la Nación mexicana, tiene una composición pluricultural, sustentada originariamente en sus comunidades y pueblos indígenas mayas, que se encuentran asentados y conviven en su territorio.
+El Estado de Quintana Roo, como parte de la nación mexicana, tiene una composición pluricultural, sustentada originariamente en sus comunidades y pueblos indígenas mayas, que se encuentran asentados y conviven en su territorio.
 
 > <small>(REFORMADO, P.O. 2 DE JULIO DE 2008)</small>
 
@@ -181,9 +185,9 @@ I. Impulsar el desarrollo regional de las zonas indígenas con el propósito de 
 
 II. Garantizar e incrementar los niveles de escolaridad, favoreciendo la educación bilingüe intercultural, la alfabetización, la conclusión de la educación básica, la capacitación productiva y la educación media superior y superior. Establecer un sistema de becas para los estudiantes indígenas en todos los niveles. Definir y desarrollar programas educativos de contenido regional que reconozcan la herencia cultural de sus pueblos, de acuerdo con las leyes de la materia y en consulta con las comunidades indígenas. Impulsar el respeto y conocimiento de las diversas culturas existentes en la nación;
 
-III. Asegurar el acceso efectivo a los servicios de salud, aprovechando debidamente la medicina tradicional, así coma apoyar la nutrición de los indígenas mediante programas de alimentación, en especial para la población infantil;
+III. Asegurar el acceso efectivo a los servicios de salud, aprovechando debidamente la medicina tradicional, así coma (sic) apoyar la nutrición de los indígenas mediante programas de alimentación, en especial para la población infantil;
 
-IV. Mejorar las condiciones de las comunidades indígenas y de sus espacios para la convivencia y recreación, mediante acciones que faciliten el acceso al financiamiento público y privado para la construcción y mejoramiento de vivienda; así como ampliar la cobertura de los servicios sociales básicos;
+IV. Mejorar las condiciones de las comunidades indígenas y de sus espacios para la convivencia y recreación, mediante acciones que faciliten el acceso al financiamiento público y privado para la construcción y mejoramiento de vivienda, así como ampliar la cobertura de los servicios sociales básicos;
 
 V. Propiciar la incorporación de las mujeres indígenas al desarrollo, mediante el apoyo a los proyectos productivos, la protección de su salud, el otorgamiento de estímulos para favorecer su educación y su participación en la toma de decisiones relacionadas con la vida comunitaria;
 
@@ -197,11 +201,15 @@ IX. Consultar a los pueblos indígenas en la elaboración del Plan Estatal de De
 
 Para garantizar el cumplimiento de las obligaciones señaladas en este apartado, la Legislatura del Estado y los Ayuntamientos, en el ámbito de sus respectivas competencias, establecerán las partidas especificas destinadas al cumplimiento de estas obligaciones en los presupuestos de egresos que aprueben, así como las formas y procedimientos para que las comunidades participen en el ejercicio y vigilancia de las mismas.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2010)</small>
+
 Sin perjuicio de los derechos establecidos en este artículo a favor de los indígenas, sus comunidades y pueblos, toda comunidad equiparable a aquéllos tendrá en lo conducente los mismos derechos tal y como lo establezca la ley. Asimismo, la ley reconocerá y protegerá a los indígenas pertenecientes a otras comunidades, o pueblos, o que procedentes de otra Entidad Federativa residan temporal o permanentemente dentro del territorio del Estado.
 
 Para asegurar que las comunidades y pueblos indígenas, así como sus integrantes puedan comunicarse de manera efectiva en las actuaciones políticas, jurídicas y administrativas, el Estado proporcionará, cuando sea necesario, servicios de intérprete u otros medios adecuados.
 
-Es responsabilidad del Poder Ejecutivo vigilar que todas las leyes o decretos de observancia obligatoria, sean publicadas en el Periódico Oficial del Estado en lengua maya.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2010)</small>
+
+Es responsabilidad del Poder Ejecutivo vigilar que todas las leyes o decretos de observancia obligatoria, sean publicadas en el Periódico Oficial del Estado de Quintana Roo en lengua maya.
 
 ###### ARTICULO 14.
 
@@ -961,21 +969,29 @@ Cuando algún diputado deje de asistir a más de cinco sesiones consecutivas de 
 
 ###### ARTICULO 65.
 
-Incurrán (sic) en responsabilidad y se harán acreedores a las sanciones que la Ley señale, quienes habiendo sido electos diputados no se presenten sin causa justificada, a juicio de la Legislatura, a desempeñar el cargo.
+Incurran en responsabilidad y se harán acreedores a las sanciones que la Ley señale, quienes habiendo sido electos diputados no se presenten sin causa justificada, a juicio de la Legislatura, a desempeñar el cargo.
 
 También incurrirán en responsabilidad, sancionada por la misma Ley, los partidos políticos que habiendo postulado candidatos en una elección, acuerden que sus miembros electos no se presenten a desempeñar sus funciones.
 
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 66.
 
-En la apertura del primer período de sesiones de cada año de ejercicio de la Legislatura, el Gobernador del Estado de Quintana Roo presentará un informe por escrito, en el que manifieste el estado general que guarda la administración pública del Estado.
+Entre el 5 y el 10 de septiembre de cada año, el Gobernador del Estado de Quintana Roo, presentará ante la Legislatura del Estado, un informe por escrito, en el que manifieste el estado general que guarda la administración pública del Estado.
+
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
 
 La Legislatura realizará el análisis del informe y podrá solicitar al Gobernador del Estado de Quintana Roo ampliar la información mediante pregunta por escrito y citar a los titulares de las dependencias y entidades paraestatales de la Administración Pública del Estado, quienes comparecerán y rendirán informes bajo protesta de decir verdad.
 
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
+
 La Legislatura podrá convocar a los titulares de las dependencias y entidades paraestatales, así como a los titulares de los órganos públicos autónomos, para que informen bajo protesta de decir verdad, cuando se discuta una ley o se estudie un negocio concerniente a sus respectivos ramos o actividades o para que respondan a interpelaciones o preguntas.
 
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
+
 La Legislatura podrá requerir información o documentación al Gobernador del Estado de Quintana Roo, y a los titulares de las dependencias y entidades paraestatales, mediante pregunta o solicitud por escrito, la cual deberá ser respondida o entregada en un término no mayor a 15 días naturales a partir de su recepción.
+
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
 
 La Ley Orgánica del Poder Legislativo de Quintana Roo, regulará el ejercicio de estas facultades.
 
@@ -1051,7 +1067,7 @@ III.- Iniciar leyes y decretos ante el Congreso de la Unión.
 
 IV.- Expedir su Ley Orgánica y su Reglamento Interior, así como la Ley del Órgano de Fiscalización Superior del Estado y su Reglamento Interior.
 
-La Legislatura del Estado coordinará y evaluará, a través de la Comisión de Hacienda, Presupuesto y Cuenta, sin perjuicio de su autonomía técnica y de gestión, el desempeño de las funciones del Organo de Fiscalización Superior del Estado, en los términos que disponga la ley.
+La Legislatura del Estado coordinará y evaluará, a través de la Comisión de Hacienda, Presupuesto y Cuenta, sin perjuicio de su autonomía técnica y de gestión, el desempeño de las funciones del Órgano de Fiscalización Superior del Estado, en los términos que disponga la ley.
 
 > <small>(REFORMADA, P.O. 17 DE JULIO DE 2002)</small>
 
@@ -1261,7 +1277,7 @@ La Legislatura del Estado, al elegir al Titular del Órgano de Fiscalización Su
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE FEBRERO DE 2010)</small>
 
-El Organo de Fiscalización Superior del Estado tendrá a su cargo:
+El Órgano de Fiscalización Superior del Estado tendrá a su cargo:
 
 > <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2010)</small>
 
@@ -1269,19 +1285,31 @@ I.- Revisar y fiscalizar en forma posterior la cuenta pública que los gobiernos
 
 También fiscalizará directamente los recursos estatales y municipales que se destinen y se ejerzan por cualquier entidad, persona física o moral, pública o privada, y los transferidos a fideicomisos, mandatos, fondos o cualquier otra figura jurídica, de conformidad con los procedimientos establecidos en las leyes y sin perjuicio de la competencia de otras autoridades y de los usuarios del sistema financiero.
 
-> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE DICIEMBRE DE 2010)</small>
 
-II.- Entregar a la Legislatura Estatal el informe de resultados de la revisión y fiscalización de la cuenta pública, a más tardar el 27 de septiembre del mismo año de su presentación al Órgano de Fiscalización Superior del Estado de Quintana Roo. Dicho informe contendrá al menos, las auditorías practicadas, los dictámenes de su revisión, el apartado correspondiente a la fiscalización del manejo de los recursos estatales o municipales, así como de las participaciones federales o estatales en su caso, por parte de las entidades fiscalizadas y a la verificación del desempeño en el cumplimiento de los objetivos de los programas estatales o municipales, el cumplimiento de las normas de información financiera para el sector público, los resultados de la gestión financiera, la comprobación de que las entidades se ajustaron a la ley de la materia o al presupuesto de egresos que corresponda, el análisis de las desviaciones presupuestarias en su caso, así como también un apartado específico con las observaciones del Órgano de Fiscalización Superior del Estado que incluya las justificaciones y aclaraciones que, en su caso, las entidades fiscalizadas hayan presentado sobre las mismas.
+II.- Entregar a la Legislatura Estatal el informe de resultados de la revisión y fiscalización de la cuenta pública, a más tardar el 5 de septiembre del mismo año de su presentación al Órgano de Fiscalización Superior del Estado de Quintana Roo. Dicho informe contendrá al menos, las auditorías practicadas, los dictámenes de su revisión, el apartado correspondiente a la fiscalización del manejo de los recursos estatales o municipales, así como de las participaciones federales o estatales en su caso, por parte de las entidades fiscalizadas y a la verificación del desempeño en el cumplimiento de los objetivos de los programas estatales o municipales, el cumplimiento de las normas de información financiera para el sector público, los resultados de la gestión financiera, la comprobación de que las entidades se ajustaron a la ley de la materia o al presupuesto de egresos que corresponda, el análisis de las desviaciones presupuestarias en su caso, así como también un apartado específico con las observaciones del Órgano de Fiscalización Superior del Estado que incluya las justificaciones y aclaraciones que, en su caso, las entidades fiscalizadas hayan presentado sobre las mismas.
+
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2010)</small>
 
 Para tal efecto, de manera previa a la presentación del informe del resultado, se darán a conocer a las entidades fiscalizadas la parte que les corresponda de los resultados de su revisión, a efecto de que éstas presenten las justificaciones y aclaraciones que correspondan, las cuales deberán ser valoradas por el Órgano de Fiscalización Superior del Estado para la elaboración del informe del resultado de la revisión de la Cuenta Pública.
 
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2010)</small>
+
 El Titular del Órgano de Fiscalización Superior del Estado enviará a las entidades fiscalizadas, a más tardar a los 3 días hábiles posteriores a que sea entregado a la Legislatura el informe del resultado, las recomendaciones y acciones promovidas que correspondan para que, en un plazo de hasta 5 días hábiles, presenten la información y realicen las consideraciones que estimen pertinentes; en caso de no hacerlo se harán acreedores a las sanciones establecidas en la ley. Este término podrá ser ampliado hasta por 5 días hábiles más, previa petición y si a juicio del Titular del Órgano de Fiscalización Superior así lo amerita el caso en concreto. Los plazos anteriores no aplicarán a los pliegos de observaciones y a las promociones de responsabilidades, las cuales se sujetarán a los procedimientos y términos que establezca la ley.
+
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2010)</small>
 
 El Órgano de Fiscalización Superior del Estado deberá pronunciarse en un plazo de 15 días hábiles sobre las respuestas emitidas por las entidades fiscalizadas; en caso de no hacerlo, se tendrán por atendidas las recomendaciones y acciones promovidas.
 
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2010)</small>
+
 En el caso de las recomendaciones al desempeño, las entidades fiscalizadas deberán precisar ante el Órgano de Fiscalización Superior del Estado las mejoras realizadas o, en su caso, justificar su improcedencia.
 
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2010)</small>
+
 El Órgano de Fiscalización Superior del Estado deberá entregar a la Legislatura, en los meses de julio y noviembre de cada año, un informe sobre la situación que guardan las observaciones, recomendaciones y acciones promovidas.
+
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2010)</small>
 
 El Órgano de Fiscalización Superior del Estado tendrá la obligación de guardar reserva respecto de sus actuaciones e informaciones hasta la fecha en que se entregue a la Legislatura el informe de resultados.
 
@@ -1971,7 +1999,7 @@ No podrá hacerse pago alguno que no esté comprendido en el Presupuesto de Egre
 
 ###### ARTICULO 122.
 
-Las cuentas de los caudales públicos deberán glosarse sin excepción por el Organo de Fiscalización Superior del Estado.
+Las cuentas de los caudales públicos deberán glosarse sin excepción por el Órgano de Fiscalización Superior del Estado.
 
 ###### ARTICULO 123.
 
@@ -2879,7 +2907,7 @@ P.O. 21 DE NOVIEMBRE DE 1983.
 
 ###### ARTICULO UNICO.
 
-Las presentes reformas y adiciones a esta Ley entrarán en vigor al día siguiente de su publicación en le Periódico Oficial del Estado.
+Las presentes reformas y adiciones a esta Ley entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 20 DE JULIO DE 1984.
 
@@ -3263,7 +3291,7 @@ DÉCIMO.- Los Programas de Desarrollo Urbano y los proyectos de inversión para 
 
 P.O. 19 DE MAYO DE 2008.
 
-DECRETO NUM. 009, POR EL QUE SE ADICIONAN EL ARTICULO21 DE LA CONSTITUCION POLITICA DEL ESTADO DE QUINTANA ROO.
+DECRETO NUM. 009, POR EL QUE SE ADICIONAN EL ARTICULO 21 DE LA CONSTITUCION POLITICA DEL ESTADO DE QUINTANA ROO.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
@@ -3279,7 +3307,7 @@ P.O. 9 DE JUNIO DE 2008.
 
 P.O. 2 DE JULIO DE 2008.
 
-DECRETO NO. 027 QUE REFORMA EL PARRAFO SEGUNDO DEL ARTICULO 13, DE LA CONSTITUCION POLIITICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO.
+DECRETO NO. 027 QUE REFORMA EL PARRAFO SEGUNDO DEL ARTICULO 13, DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO.
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
@@ -3460,6 +3488,42 @@ P.O. 9 DE MARZO DE 2010.
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 Segundo.- Los Municipios de Isla Mujeres y Benito Juárez deberán adecuar los instrumentos de planeación urbana y ecológica correspondiente a su municipio en donde tengan jurisdicción en la zona limítrofe de conformidad con los procedimientos y plazos que para tal efecto señalen las leyes de la materia.
+
+T R A N S I T O R I O:
+
+ÚNICO.- Publíquese el presente Decreto en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 22 DE DICIEMBRE DE 2010.
+
+DECRETO NUMERO 406, POR EL QUE SE REFORMA EL ARTICULO 66 PRIMER PARRAFO DE LA CONSTITUCION POLITICA DEL ESTADO DE QUINTANA ROO.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo, observándose, la previsión contenida en los artículos siguientes.
+
+SEGUNDO.- El primer informe sobre el estado que guarda la Administración Pública del Estado que deberá rendir el Gobernador Constitucional del Estado en el año 2012, tendrá lugar entre el 5 y el 10 de septiembre del 2012.
+
+TERCERO.- Para los efectos del segundo informe sobre el estado que guarda la Administración Pública del Estado, que deberá rendir el Gobernador Constitucional del Estado en el año 2013, la Diputación Permanente, convocará a los ciudadanos Diputados integrantes de la H. XIII Legislatura del Estado, para llevar a cabo una Sesión Extraordinaria y Solemne en la fecha correspondiente.
+
+CUARTO.- Se derogan todas aquellas disposiciones que se contrapongan al presente Decreto.
+
+T R A N S I T O R I O:
+
+ÚNICO.- Publíquese el presente Decreto en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 22 DE DICIEMBRE DE 2010.
+
+DECRETO NUMERO 407, POR EL QUE SE REFORMA EL ARTICULO 77 FRACCION II PRIMER PARRAFO DE LA CONSTITUCION POLITICA DEL ESTADO DE QUINTANA ROO.
+
+PRIMERO.- El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+T R A N S I T O R I O:
+
+ÚNICO.- Publíquese el presente Decreto en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 22 DE DICIEMBRE DE 2010.
+
+DECRETO NUMERO 408, POR EL QUE SE ADICIONA UN PARRAFO SEGUNDO RECORRIENDOSE EN SU ORDEN LOS PARRAFOS SUBSECUENTES Y SE REFORMA EL PARRAFO CUARTO QUE PASA A SER QUINTO DEL ARTICULO 13 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO.
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 T R A N S I T O R I O:
 
