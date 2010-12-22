@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2010-11-10"
+last_updated: "2010-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO ADMINISTRATIVO DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE NOVIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE DICIEMBRE DE 2010.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -3445,7 +3445,9 @@ V. Las utilidades, intereses, dividendos, rendimientos de bienes, derechos y dem
 
 Los ingresos del Instituto, así como los productos e instrumentos financieros autorizados serán destinados y aplicados a las actividades señaladas en los programas aprobados por el consejo directivo.
 
-## TITULO OCTAVO. Del Comité de Instalaciones Educativas
+## TÍTULO OCTAVO. DEL INSTITUTO MEXIQUENSE DE LA INFRAESTRUCTURA FÍSICA EDUCATIVA
+
+> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 3.
 
@@ -3459,45 +3461,73 @@ Los ingresos del Instituto, así como los productos e instrumentos financieros a
 
 57.- (DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE LA JUVENTUD DEL ESTADO DE MEXICO, G.G. 31 DE AGOSTO DE 2010)
 
+> <small>(REFORMADA SU DENOMINACION, G.G. 22 DE DICIEMBRE DE 2010)</small>
+
 ## TITULO NOVENO. Del mérito civil
 
 ###### Artículo 3.
 
-58.- El Comité de Instalaciones Educativas del Estado de México es un organismo público descentralizado, con personalidad jurídica y patrimonio propios, que tiene por objeto planear y programar la construcción, reparación, mantenimiento, habilitación y equipamiento de la infraestructura educativa en todos los niveles y modalidades, para contribuir a la ampliación de la cobertura del servicio.
+58.- El Instituto Mexiquense de la Infraestructura Física Educativa es un organismo público descentralizado, de carácter estatal con personalidad jurídica y patrimonio propios, que tiene por objeto normar el desarrollo de la infraestructura física educativa en todos sus niveles y modalidades, así como planear, programar y ejecutar su construcción, reparación, rehabilitación, mantenimiento y equipamiento.
 
-El Comité, para el cumplimiento de su objeto, tiene las atribuciones siguientes:
+El Instituto, para el cumplimiento de su objeto, tiene las atribuciones siguientes:
 
-I. Formular, conducir, normar, regular y evaluar la política de construcción, rehabilitación, mantenimiento, habilitación y equipamiento de la infraestructura educativa;
+I. Generar y promover normas y políticas que regulen el desarrollo de la infraestructura física educativa en el Estado de México;
 
-II. Organizar, dirigir y llevar a cabo los programas para la construcción, equipamiento, mantenimiento y rehabilitación de los espacios educativos para la educación básica, normal, inicial, especial, indígena, para los adultos, media superior y superior, con arreglo a los planes de desarrollo urbano estatales y municipales;
+II. Programar, administrar y ejercer por si o a través de terceros los recursos destinados a la construcción, reparación, rehabilitación, mantenimiento y equipamiento de la infraestructura física educativa;
 
-III. Promover, en forma permanente y progresiva, la participación de las administraciones municipales para que asuman gradualmente su responsabilidad en la planeación, programación, ejecución y supervisión de la construcción de los espacios educativos;
+III. Promover la participación de las administraciones municipales para que asuman gradualmente su responsabilidad en la planeación, programación, ejecución y supervisión de la construcción de los espacios educativos;
 
 IV. Alentar la participación social de las comunidades en la supervisión de la construcción de espacios educativos, así como de su conservación y mantenimiento;
 
-V. Proporcionar asesoría y apoyo técnico y administrativo a los municipios para mejorar sus capacidades en el desarrollo de la infraestructura educativa;
+V. Realizar estudios y proyectos que permitan definir las políticas y acciones para el desarrollo de programas de construcción, reparación, rehabilitación, mantenimiento y equipamiento de espacios educativos;
 
-VI. Realizar estudios y proyectos que permitan definir las políticas y acciones para el desarrollo de programas de construcción, mantenimiento, habilitación y equipamiento de espacios educativos;
+VI. Establecer los criterios técnicos para la evaluación del estado físico de la infraestructura física educativa;
 
-VII. Establecer mecanismos para el control y evaluación de la infraestructura educativa;
+VII. Evaluar las condiciones de la infraestructura física educativa en el Estado de México;
 
-VIII. Supervisar las obras de infraestructura educativa para que éstas se ejecuten conforme a las especificaciones, proyectos, precios unitarios y programas aprobados y, en su caso, conforme a lo estipulado en los contratos de obra;
+VIII. Vigilar que las obras de infraestructura física educativa se ejecuten conforme a las especificaciones, proyectos, precios unitarios y programas aprobados y, en su caso, conforme a lo estipulado en los contratos de obra;
 
-IX. Las demás que se establezcan en otras disposiciones legales.
+IX. Proporcionar asesoría, apoyo técnico y administrativo especializado, a los municipios del Estado de México, dependencias del gobierno estatal, así como a los particulares que lo soliciten, para mejorar sus capacidades en el desarrollo de la infraestructura física educativa;
+
+X. Realizar la supervisión en materia de ejecución de obra de la infraestructura física educativa en instituciones de control federal, con base en los convenios que, en su caso, se suscriban con el Instituto Nacional de la Infraestructura Física Educativa u otras instancias federales;
+
+XI. Dictaminar los proyectos ejecutivos de la infraestructura física educativa conforme a la normatividad aplicable;
+
+XII. Elaborar diagnósticos y, en su caso, dictámenes relativos a la infraestructura física educativa, en materia estructural y de mantenimiento;
+
+XIII. Analizar y dictaminar los proyectos ejecutivos para la construcción de la infraestructura física educativa así como las condiciones físicas de las instalaciones de las escuelas particulares que estén en trámite de incorporación a través del Reconocimiento de Validez Oficial de Estudios o de la autorización correspondiente;
+
+XIV. Certificar la calidad de la infraestructura física educativa en la entidad conforme a las normas y especificaciones que para tal efecto se establezcan;
+
+XV. Establecer los precios y tarifas por los bienes y servicios que el instituto preste;
+
+XVI. Determinar las previsiones presupuestales y financieras para la atención de daños en la infraestructura física educativa;
+
+XVII. Convenir con instancias federales, estatales y municipales, la construcción, reparación, rehabilitación, mantenimiento y equipamiento de obras inherentes al desarrollo educativo, social, cultural y deportivo;
+
+XVIII. Expedir las normas internas necesarias para el cumplimiento de sus atribuciones;
+
+XIX. Las demás que se establezcan en otras disposiciones legales.
+
+> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 3.
 
-59.- La dirección y administración del Comité está a cargo de una junta directiva y un director general.
+59.- La dirección y administración del Instituto estará a cargo de una junta directiva y un director general.
 
-La junta directiva se integra en los términos previstos en la Ley para la Coordinación y Control de Organismos Auxiliares y Fideicomisos del Estado de México y cuenta con seis vocales, que son los representantes de las secretarías de Finanzas y Planeación, y de Administración; los subsecretarios de Educación Básica y Normal, de Educación Media Superior y Superior, y de Planeación y Administración; y el Director General de los Servicios Educativos Integrados al Estado de México.
+La junta directiva estará integrada por un presidente, que será el Secretario de Educación del Gobierno del Estado de México, un secretario designado por el propio cuerpo colegiado a propuesta del presidente, un comisario, que será el representante de la Secretaría de la Contraloría, y cinco vocales, que serán el representante de la Secretaría de Finanzas, el Subsecretario de Educación Básica y Normal, el Subsecretario de Educación Media Superior y Superior, el Subsecretario de Planeación y Administración de la Secretaría de Educación y el Director General de los Servicios Educativos integrados al Estado de México.
 
-El director general será nombrado por el Gobernador del Estado, a propuesta del presidente de la junta.
+Se podrán considerar invitados a propuesta de los propios integrantes.
+
+El Director General será nombrado por el Gobernador del Estado, a propuesta del presidente de la junta directiva.
 
 La organización y funcionamiento del Instituto se regirá por el reglamento interno que expida la junta directiva.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 22 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 3.
 
-60.- El patrimonio del Comité se integra con:
+60.- El patrimonio del Instituto se integra con:
 
 I. Los bienes, instalaciones, derechos y activos que aporten los gobiernos federal, estatal y municipal;
 
@@ -3509,7 +3539,9 @@ IV. Los subsidios y donaciones que le otorguen los gobiernos federal, estatal y 
 
 V. Los bienes o recursos que reciba por cualquier título legal.
 
-Los ingresos del Comité, así como los productos e instrumentos financieros autorizados serán destinados y aplicados a las actividades señaladas en los programas aprobados por la junta directiva.
+> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2010)</small>
+
+Los ingresos del Instituto, así como los productos e instrumentos financieros autorizados serán destinados y aplicados a las actividades señaladas en los programas aprobados por la junta directiva.
 
 ## TITULO DECIMO. De las infracciones y sanciones
 
@@ -10499,13 +10531,13 @@ El Secretario Técnico, tiene las facultades y obligaciones que se establecen en
 
 ###### Artículo 14.
 
-55.- El control y vigilancia del IGECEM, recaerá en el Comisario, que asistirá a todas las sesiones del Consejo Directivo, con voz pero sin voto. El Comisario será nombrado conforme lo dispone la Ley para la Coordinación y Control de Organismos Auxiliares del Estado de México.
+56.- Corresponde al Comisario ejercer las facultades y obligaciones establecidas en el Reglamento de la Ley para la Coordinación y Control de Organismos Auxiliares del Estado de México.
 
 > <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
 
 ###### Artículo 14.
 
-56.- Corresponde al Comisario ejercer las facultades y obligaciones establecidas en el Reglamento de la Ley para la Coordinación y Control de Organismos Auxiliares del Estado de México.
+55.- El control y vigilancia del IGECEM, recaerá en el Comisario, que asistirá a todas las sesiones del Consejo Directivo, con voz pero sin voto. El Comisario será nombrado conforme lo dispone la Ley para la Coordinación y Control de Organismos Auxiliares del Estado de México.
 
 > <small>(ADICIONADO CON LOS CAPITULOS, Y ARTICULOS QUE LO INTEGRAN, G.G. 22 DE AGOSTO DE 2005)</small>
 
@@ -12508,3 +12540,25 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
 TERCERO.- El Ejecutivo Estatal deberá expedir el reglamento respectivo, para dar cumplimiento al presente Decreto, así como modificar la normatividad administrativa vigente, con el mismo propósito.
+
+G.G. 22 DE DICIEMBRE DE 2010.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+TERCERO.- Los recursos humanos, materiales y financieros con los que venía operando el Comité de Instalaciones Educativas del Estado de México, se transferirán al Instituto Mexiquense de la Infraestructura Física Educativa.
+
+CUARTO.- En todo caso, se respetarán los derechos laborales adquiridos por los servidores públicos adscritos al Comité de Instalaciones Educativas del Estado de México, que pasen a formar parte del Instituto Mexiquense de la Infraestructura Física Educativa.
+
+QUINTO.- Los actos, procedimientos, programas y proyectos que se encuentran en trámite al entrar en vigor el presente Decreto, serán atendidos hasta su conclusión por el Instituto Mexiquense de la Infraestructura Física Educativa, conforme a las disposiciones aplicables al momento de su inicio.
+
+SEXTO.- Los recursos económicos, pagos y otros actos que se encuentren en trámite a favor del Comité de Instalaciones Educativas del Estado de México, al momento de la entrada en vigor del presente Decreto, se entenderán transferidos o aplicables aj Instituto Mexiquense de la Infraestructura Física Educativa.
+
+SÉPTIMO.- Cuando en otros ordenamientos legales, reglamentos administrativos y documentación se haga referencia al Comité del Instalaciones Educativas del Estado de México, se entenderá que se refiere al Instituto Mexiquense de la Infraestructura Física Educativa.
+
+OCTAVO.- Las Secretarías de Finanzas, de la Contraloría y de Educación, en el ámbito de sus respectivas competencias, proveerán lo necesario para el debido cumplimiento del presente Decreto.
+
+NOVENO.- El Instituto Mexiquense de la Infraestructura Física Educativa deberá expedir su Reglamento Interno en un plazo no mayor a 90 días naturales contados a partir de la entrada en vigor del presente Decreto.
+
+DÉCIMO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
