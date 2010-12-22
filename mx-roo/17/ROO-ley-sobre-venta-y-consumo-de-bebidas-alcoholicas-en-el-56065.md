@@ -4,7 +4,7 @@ identifier: "ROO-ley-sobre-venta-y-consumo-de-bebidas-alcoholicas-en-el-56065"
 country: "mx"
 rank: "ley"
 publication_date: "2007-06-18"
-last_updated: "2010-12-13"
+last_updated: "2010-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56065&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "ROO"
 ---
 # LEY SOBRE VENTA Y CONSUMO DE BEBIDAS ALCOHOLICAS EN EL ESTADO DE QUINTANA ROO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 22 DE DICIEMBRE DE 2010 EN EL P.O. DEL ESTADO DE QUINTANA ROO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY SOBRE VENTA Y CONSUMO DE BEBIDAS ALCOHOLICAS EN EL ESTADO DE QUINTANA ROO
 
 ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE DICIEMBRE DE 2010.
+
+> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 22 DE DICIEMBRE DE 2010 NO APLICA AL ARTICULADO DEL DECRETO 389 PUBLICADO EN EL P.O. DE 13 DE DICIEMBRE DE 2010.</small>
 
 Ley publicada en el Número 33 Extraordinario al Periódico Oficial del Estado de Quintana Roo, el lunes 18 de junio de 2007.
 
