@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-vivienda-del-distrito-federal-15815"
 country: "mx"
 rank: "ley"
 publication_date: "2000-03-02"
-last_updated: "2004-01-29"
+last_updated: "2010-12-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15815&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-01-10"
 
 LEY DE VIVIENDA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE ENERO DE 2004.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 22 DE DICIEMBRE DE 2010.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 2 de marzo de 2000.
 
@@ -54,7 +54,11 @@ II. Definir los lineamientos generales de la política y los programas de vivien
 
 III. Regular las acciones de los sectores público, privado y social dirigidas a garantizar el derecho y disfrute de una vivienda digna y decorosa para toda familia que habite el Distrito Federal;
 
-IV. Establecer los criterios de protección y promoción para la población vulnerable de bajos recursos económicos y en situación de riesgo del Distrito Federal;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, G.O. 22 DE DICIEMBRE DE 2010)</small>
+
+IV. Establecer los criterios de protección y promoción para la población vulnerable de bajos recursos económicos y en situación de riesgo que habitan en el Distrito Federal; atendiendo de manera especial a la población indígena;
 
 V. Establecer el carácter normativo y regulador en materia habitacional, del Gobierno del Distrito Federal y;
 
@@ -62,15 +66,25 @@ VI. Propiciar y fomentar la participación de los sectores social y privado para
 
 Artículo 2 Serán de aplicación supletoria a lo dispuesto en este ordenamiento, la Ley General de Asentamientos Humanos, la Ley Federal de Vivienda, la Ley Ambiental del Distrito Federal, la Ley de Desarrollo Urbano del Distrito Federal, el Reglamento de Construcciones y demás ordenamientos legales relacionados con la materia de vivienda, vigentes en el Distrito Federal.
 
-Artículo 3 Todos los habitantes del Distrito Federal tienen derecho a una vivienda digna y decorosa, entendida como el lugar seguro, salubre y habitable que permita el disfrute de la intimidad y la integración social y urbana; sin que sea obstáculo, para su obtención, su condición económica, social, origen étnico o nacional, edad, género, situación migratoria, creencias políticas o religiosas.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-Artículo 4 Para efectos de esta Ley, se entiende por:
+> <small>(REFORMADO, G.O. 22 DE DICIEMBRE DE 2010)</small>
+
+Artículo 3 Todos los habitantes del Distrito Federal tienen derecho a una vivienda digna y decorosa, entendida como lugar seguro, salubre y habitable que permita el disfrute de la intimidad, la integración y desarrollo personal, familiar y comunitario, así como la inclusión a la dinámica social y urbana con base en el respeto a la diversidad cultural, sin discriminación para acceder a ella sea por su condición económica, social, origen étnico o nacional, lengua, dialecto, edad, género, situación migratoria, creencias políticas o religiosas.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 22 DE DICIEMBRE DE 2010)</small>
+
+Artículo 4 Para efectos de esta ley se entiende por,
 
 I. ACCIÓN HABITACIONAL- La actividad tendiente a la producción, distribución, uso y mejoramiento de viviendas, así como el equipamiento y los servicios urbanos de las mismas;
 
 II. ASAMBLEA- La Asamblea Legislativa del Distrito Federal;
 
-III. AYUDA DE BENEFICIO SOCIAL- Aquellos porcentajes o montos fijados por la administración que significan un no pago y que disminuyen la deuda de los beneficiarios;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE EL ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.(REFORMADA, G.O. 22 DE DICIEMBRE DE 2010)</small>
+
+III. AYUDA DE BENEFICIO SOClAL- Aquellos porcentajes o montos fijados por la administración que significan un no pago y que disminuyen la deuda de los beneficiarios;
 
 IV. BENEFICIARIOS- Los sujetos favorecidos de una acción habitacional o de un crédito de vivienda de interés social o popular;
 
@@ -119,6 +133,18 @@ XXV. VIVIENDA DE INTERÉS POPULAR- La vivienda cuyo precio de venta al público 
 XXVI. VIVIENDA DE INTERÉS SOCIAL- La vivienda cuyo precio máximo de venta al público es de 15 salarios mínimos anuales vigentes en el Distrito Federal;
 
 XXVII. VIVIENDA TERMINADA- La acción habitacional que se realiza en un proceso continuo y único de construcción.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE EL ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.(ADICIONADA, G.O. 22 DE DICIEMBRE DE 2010)</small>
+
+XXVIII. INDÍGENA- Es la persona integrante de algún pueblo o comunidad indígena, la conciencia de su identidad indígena, es el criterio fundamental para determinar a quienes se aplican las disposiciones de la presente Ley;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE EL ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.(ADICIONADA, G.O. 22 DE DICIEMBRE DE 2010)</small>
+
+XXIX. PUEBLOS ORIGINARIOS- Núcleos de población, que conforman una unidad social, económica y cultural, y que su asentamiento territorial es preexistente al inicio de la colonización, y que reconocen autoridades propias de acuerdo con sus sistemas normativos internos;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE EL ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.(ADICIONADA, G.O. 22 DE DICIEMBRE DE 2010)</small>
+
+XXX. COMUNIDADES INDÍGENAS RESIDENTES- Son aquellas que se han constituido en una unidad social, económica y cultural, a partir de su asentamiento y permanencia en el Distrito Federal, que son producto de la migración hacia el (sic) ciudad de México, y que mantienen y reproducen sus formas de organización e instituciones; o parte de ellas.
 
 ### CAPÍTULO II. DE LAS AUTORIDADES Y DE LOS ORGANISMOS RESPONSABLES
 
@@ -532,21 +558,57 @@ Artículo 69 La participación de los promotores sociales en los programas de vi
 
 Artículo 70 El Instituto celebrará convenios con productores sociales y las universidades e instituciones de educación superior, dirigidas a la investigación, asesoría y apoyo técnico. Cuando se trate de algún convenio de prestación de servicios a título oneroso, se sujetará a las disposiciones que dicte su Consejo Directivo.
 
-### CAPÍTULO X. MEDIDAS DE SEGURIDAD, SANCIONES Y RECURSOS
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE EL ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-Artículo 71 Las dependencias y organismos del Gobierno del Distrito Federal, dentro del ámbito de sus respectivas competencias, vigilarán el cumplimiento de las disposiciones de esta Ley.
+> <small>(ADICIONADO, G.O. 22 DE DICIEMBRE DE 2010)</small>
 
-Artículo 72 Son aplicables en lo que corresponda a la vivienda, las disposiciones referentes a medidas de seguridad así como las sanciones y procedimientos establecidos en la Ley de Desarrollo Urbano del Distrito Federal.
+### CAPÍTULO X. DE LA VIVIENDA PARA LAS POBLACIONES DE INDÍGENAS QUE HABITAN EN EL DISTRITO FEDERAL
 
-Artículo 73 Para los efectos de este Capítulo serán responsables de las infracciones a las disposiciones de esta Ley;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-I. Quienes ejecuten, ordenen o favorezcan las acciones u omisiones constitutivas de infracción, y
+> <small>(REFORMADO, G.O. 22 DE DICIEMBRE DE 2010)</small>
 
-II. Quienes con su conducta contravengan las disposiciones de la presente Ley, independientemente de las sanciones administrativas que se impongan el infractor, la autoridad competente, en su caso, hará del conocimiento del Ministerio Público los hechos que pudieren constituir delito.
+Artículo 71 Se reconoce que en el Distrito Federal habitan pueblos originarios y comunidades de indígenas residentes lo que define a la ciudad de México como una entidad pluricultural.
 
-Artículo 74 En el caso de que sea de estricta necesidad demoler total o parcialmente las construcciones realizadas sin licencia o autorización o en contravención a lo dispuesto por esta Ley, el costo de los trabajos será a cargo de los infractores, y las autoridades de la Administración Pública del Distrito Federal no tendrán obligación de pagar indemnización alguna.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, G.O. 22 DE DICIEMBRE DE 2010)</small>
+
+Artículo 72 Que los pueblos originarios y comunidades indígenas residentes que se asientan en el Distrito Federal son personas morales de derecho público y colectivos para todos los efectos jurídicos a que haya lugar.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, G.O. 22 DE DICIEMBRE DE 2010)</small>
+
+Artículo 73 Las dependencias y autoridades del Distrito Federal en las políticas y programas que se aplican para el derecho y acceso a la vivienda para la población indígena se contemplará en lo establecido en el Artículo 2 apartado B y 4 ambos de la Constitución, el Convenio 169 sobre pueblos indígenas y tribales en países independientes de la Organización Internacional del Trabajo, y la Declaración de las Naciones Unidas Sobre los Derechos de los Pueblos Indígenas.
+
+I. El mejoramiento y producción social de viviendas que contribuyan al mejoramiento del nivel de vida de la población indígena del D.F.
+
+II. Que los programas del Instituto de la Vivienda del Distrito Federal para la población indígena, contemple las particularidades culturales y el respeto al hábitat de dicha población o comunidad indígena, ya sea originaria y/o residente en el Distrito Federal.
+
+III. En la edificación y construcción de la vivienda específica para la población indígena se incorporarán los espacios comunitarios destinados a desarrollar actividades culturales y productivas propias de sus usos y costumbres que fortalezca su identidad y étnica en el Distrito Federal;
+
+IV. Para el acceso a la información y requerimientos y servicios a la población en términos de lo que establecen los artículos 39, 40, 41 y 42 de esta ley se le informará a la población indígena en su lengua materna cuando así lo requieran.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, G.O. 22 DE DICIEMBRE DE 2010)</small>
+
+Artículo 74 El financiamiento de vivienda para la población indígena se aplicarán esquemas de crédito y subsidio específicos de acuerdo a su situación económica o social previniendo lo establecido por esta ley y demás leyes aplicables.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE EL ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+### CAPÍTULO XI. MEDIDAS DE SEGURIDAD, SANCIONES Y RECURSOS
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE EL ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+(REUBICADO, G.O. 22 DE DICIEMBRE DE 2010)
 
 Artículo 75 La adulteración o falsificación de la documentación aportada, así como cualquier falsedad u ocultamiento en la declaración de ingresos será causal suficiente para desechar una solicitud de crédito o para obligar a la cancelación de los préstamos concedidos, haciéndolos exigibles inmediatamente, inclusive por la vía de apremio, sin perjuicio de las sanciones que establezca la autoridad civil o penal.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+(REUBICADO, G.O. 22 DE DICIEMBRE DE 2010)
 
 Artículo 76 Para garantizar el cumplimiento de contratos entre particulares o entre particulares y organismos públicos de vivienda, se recurrirá a las previsiones normativas y sanciones establecidas en la Ley Federal de Protección al Consumidor y los Códigos Civil y de Procedimientos Civiles del Distrito Federal y la Ley de Procedimientos Administrativos.
 
@@ -591,3 +653,9 @@ G.O. 29 DE ENERO DE 2004.
 PRIMERO.- En tanto se expiden las disposiciones administrativas que derivan de las presentes adiciones y modificaciones, seguirán en vigor aquellas que no las contravengan.
 
 SEGUNDO.- Las referencias hechas al Consejo Asesor de Vivienda del Distrito Federal, en esta Ley y en otros ordenamientos, se entenderán hechas al Consejo Asesor de Desarrollo Urbano y Vivienda, establecido en la Ley de Desarrollo Urbano del Distrito Federal.
+
+G.O. 22 DE DICIEMBRE DE 2010.
+
+PRIMERO.- El presente decreto entrará en vigor a los treinta días siguientes de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Publíquese el presente Decreto en la Gaceta Oficial del Distrito Federal.
