@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-de-la-administracion-publica-del-estado-de-70183"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-09-14"
-last_updated: "2009-09-14"
+last_updated: "2010-12-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE DICIEMBRE DE 2010.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el lunes 14 de septiembre de 2009.
 
@@ -124,6 +124,10 @@ Para ser Procurador General de Justicia del Estado se deben cumplir los requisit
 ###### Artículo 12.
 
 Corresponde originalmente a los titulares de las dependencias la representación legítima de ellas, así como el trámite y resolución de los asuntos de su competencia, pero para la mejor organización del trabajo podrán delegar en los servidores públicos que les estén subordinados jerárquicamente cualesquiera de sus facultades, excepto aquellas que por disposición legal o reglamentaria, deban ser ejercidas precisamente por dichos titulares. En los procedimientos contenciosos o no contenciosos, judiciales o administrativos, la representación de esos titulares estará a cargo del titular de su respectiva oficina de asuntos jurídicos o representantes legales en los términos de las disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2010)</small>
+
+Los titulares de las dependencias quedan facultados para expedir certificaciones de los documentos y expedientes relativos a los asuntos de su competencia o de sus unidades administrativas que tengan bajo su adscripción. En caso de ausencia, esta facultad podrá ejercerla el servidor público de la jerarquía inmediata inferior competente en el asunto; sin perjuicio de lo que, en su caso, establezcan los reglamentos interiores.
 
 ###### Artículo 13.
 
@@ -1224,3 +1228,11 @@ Dado en el Salón de Sesiones del Palacio Legislativo, en la ciudad de San Franc
 En cumplimiento de lo dispuesto por los artículos 48, 49 y 71 fracción XVIII de la Constitución Política del Estado, lo sanciono, mando se imprima, publique y circule para su debida observancia.
 
 Dado en el Palacio de Gobierno del Estado, en San Francisco de Campeche, Campeche, a los doce días del mes de septiembre del año dos mil nueve.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, C.P. JORGE CARLOS HURTADO VALDEZ.- EL SECRETARIO DE GOBIERNO, M. en D. RICARDO M. MEDINA FARFAN.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 22 DE DICIEMBRE DE 2010.
+
+Primero.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
