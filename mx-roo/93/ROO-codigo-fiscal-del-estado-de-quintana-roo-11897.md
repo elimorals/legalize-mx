@@ -4,7 +4,7 @@ identifier: "ROO-codigo-fiscal-del-estado-de-quintana-roo-11897"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-01-13"
-last_updated: "2010-12-13"
+last_updated: "2010-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11897&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "ROO"
 ---
 # CODIGO FISCAL DEL ESTADO DE QUINTANA ROO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EN EL P.O. DEL 22 DE DICIEMBRE DE 2010, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 CODIGO FISCAL DEL ESTADO DE QUINTANA ROO
 
 ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE DICIEMBRE DE 2010.
+
+> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 22 DE DICIEMBRE DE 2010 NO APLICA AL ARTICULADO DEL DECRETO NUMERO 388 PUBLICADO EN EL P.O. DE 13 DE DICIEMBRE DE 2010.</small>
 
 Código publicado en el Periódico Oficial del Gobierno del Estado de Quintana Roo, el viernes 13 de enero 1995.
 
