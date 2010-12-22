@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-556-reglamentaria-del-articulo-84-de-la-51131"
 country: "mx"
 rank: "ley"
 publication_date: "2006-07-12"
-last_updated: "2006-07-12"
+last_updated: "2010-12-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51131&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "VER"
 
 LEY NUMERO 556 REGLAMENTARIA DEL ARTICULO 84 DE LA CONSTITUCION POLITICA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, EN MATERIA DE REFORMAS CONSTITUCIONALES PARCIALES
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY NUMERO 7 REGLAMENTARIA DEL ARTICULO 84 DE LA CONSTITUCION POLITICA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, EN MATERIA DE REFORMAS CONSTITUCIONALES PARCIALES, PUBLICADA EN LA G.O. EL 22 DE DICIEMBRE DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: ABROGADA.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el miércoles 12 de julio de 2006.
 
@@ -162,3 +164,13 @@ Lic. Fidel Herrera Beltrán
 Gobernador del Estado
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 22 DE DICIEMBRE DE 2010.
+
+Primero. La presente Ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+Segundo. Se abroga la Ley número 556 Reglamentaria del Artículo 84 de la Constitución Política del Estado de Veracruz de Ignacio de la Llave, en Materia de Reformas Constitucionales Parciales, publicada en la Gaceta Oficial del Estado el 12 de julio de 2006, y se derogan todas las disposiciones que se opongan a la presente Ley.
+
+Tercero. Las iniciativas de decreto de reforma constitucional que, al iniciar su vigencia esta Ley, se hubieren presentado ante el Congreso del Estado y no estuvieren dictaminadas, que tengan por objeto dar cumplimiento a un mandato de la Constitución Política de los Estados Unidos Mexicanos, podrán tramitarse conforme al procedimiento especial que establecen el artículo 84 de la Constitución Política del Estado y la presente Ley.
