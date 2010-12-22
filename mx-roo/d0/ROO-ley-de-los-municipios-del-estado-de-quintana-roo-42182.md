@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-los-municipios-del-estado-de-quintana-roo-42182"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-20"
-last_updated: "2010-11-22"
+last_updated: "2010-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42182&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE NOVIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 20 de diciembre de 2004.
 
@@ -943,9 +943,9 @@ IX. Proponer al Ayuntamiento, los nombramientos del Secretario General del Ayunt
 
 X. Nombrar y remover a los servidores públicos municipales cuya designación no sea facultad exclusiva del Ayuntamiento;
 
-> <small>(REFORMADA, P.O. 15 DE MARZO DE 2010)</small>
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2010)</small>
 
-XI. Rendir al Ayuntamiento, entre el 6 y el 14 de septiembre de cada año, un informe detallado sobre el estado que guarda la Administración Pública Municipal. Dicha sesión será pública y solemne;
+XI. Rendir al Ayuntamiento, entre el 11 y el 20 de septiembre de cada año, un informe detallado sobre el estado que guarda la Administración Pública Municipal. Dicha sesión será pública y solemne;
 
 XII. Proponer al Ayuntamiento, el número y composición de las diversas Comisiones que deberán constituirse en el Ayuntamiento;
 
@@ -2720,3 +2720,11 @@ El presente Decreto entrará en vigor el mismo día de su publicación en el Per
 ## TRANSITORIO
 
 ÚNICO.- Publíquese el presente Decreto en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 22 DE DICIEMBRE DE 2010.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo observándose la previsión contenida en el artículo siguiente.
+
+SEGUNDO.- El primer informe sobre el estado que guarda la Administración Pública Municipal que deberán rendir los Presidentes Municipales de los H. Ayuntamientos del Estado, tendrán lugar entre el 11 y el 20 de septiembre del año 2012.
+
+TERCERO.- Se derogan todas aquellas disposiciones que se contrapongan al presente Decreto.
