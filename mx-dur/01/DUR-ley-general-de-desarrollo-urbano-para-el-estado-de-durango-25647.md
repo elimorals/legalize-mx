@@ -4,7 +4,7 @@ identifier: "DUR-ley-general-de-desarrollo-urbano-para-el-estado-de-durango-2564
 country: "mx"
 rank: "ley_general"
 publication_date: "2002-06-06"
-last_updated: "2009-12-20"
+last_updated: "2010-12-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25647&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY GENERAL DE DESARROLLO URBANO PARA EL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE DICIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 6 de junio de 2002.
 
@@ -2385,9 +2385,13 @@ I.- Lotificación: Sus lotes no podrán tener un frente menor de 6 metros, ni un
 
 II.- Usos y destinos del suelo: El aprovechamiento predominante será de vivienda y se permitirá solamente hasta el 20% de la superficie vendible para áreas comerciales o de servicios, en las zonas autorizadas;
 
-En este tipo de fraccionamientos se permitirá la construcción de viviendas multifamiliares o edificios habitacionales en un máximo del 60% de la superficie vendible, en las zonas autorizadas salvo casos especiales;
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2010)</small>
 
-III.- Donaciones: El fraccionador deberá donar al Gobierno Municipal el 15% del área vendible del fraccionamiento;
+Se permitirá la construcción de viviendas multifamiliares en un máximo del 80% de la superficie vendible, en las zonas autorizadas, salvo casos especiales;
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2010)</small>
+
+III.- Donaciones: El fraccionador deberá donar al Gobierno Municipal el 15% del área vendible del fraccionamiento o en su caso, el 10% del área vendible con equipamiento a su cargo, conforme al destino que sobre dicha área, dispongan el Reglamento Municipal respectivo;
 
 El Ayuntamiento proveerá la superficie de terreno al Gobierno del Estado, a efecto de que pueda garantizarse la prestación de servicios educativos y de salud, conforme a los planes específicos que al efecto se elaboren.
 
@@ -3740,3 +3744,17 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones legales y que se opongan al presente decreto.
+
+P.O. 23 DE DICIEMBRE DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que contravengan a lo estipulado por el presente decreto.
+
+###### ARTÍCULO TERCERO.
+
+Los Ayuntamientos, en un plazo de 30 días naturales siguientes a la publicación del presente decreto en el Periódico Oficial del Gobierno Constitucional del Estado, reglamentarán el destino que deba darse al área de donación con equipamiento al que se refiere el presente decreto.
