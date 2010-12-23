@@ -4,7 +4,7 @@ identifier: "DUR-codigo-de-justicia-administrativa-del-estado-de-durango-39018"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-03-11"
-last_updated: "2010-11-28"
+last_updated: "2010-12-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39018&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CODIGO DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE DURANGO
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DEL DECRETO NUMERO 11, POR EL QUE SE REFORMA LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO, PUBLICADO EN EL P.O. DE 28 DE NOVIEMBRE DE 2010. EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE JUSTICIA FISCAL Y ADMINISTRATIVA DEL ESTADO DE DURANGO, PUBLICADO EN EL P.O. DE 23 DE DICIEMBRE DE 2010. EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
 ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
@@ -3072,3 +3072,13 @@ I. Las disposiciones transitorias del presente decreto, entrarán en vigor el d�
 II. Las demás disposiciones del presente decreto entrarán en vigor el día 15 (quince) de diciembre del año 2010 (dos mil diez).
 
 DÉCIMO CUARTO. Se derogan todas las disposiciones legales que contravengan lo previsto en el presente decreto.
+
+P.O. 23 DE DICIEMBRE DE 2010.
+
+PRIMERO.- El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+SEGUNDO.- El Código de Justicia Administrativa para el Estado de Durango, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, número 21, de fecha 11 de marzo de 2004, se abroga a partir de las cero horas con un minuto del día 15 de diciembre del 2010, exceptuando lo dispuesto en el artículo siguiente; asimismo, se deroga cualquier disposición que se oponga a lo preceptuado en este ordenamiento.
+
+TERCERO.- En los asuntos tramitados ante el Tribunal de lo Contencioso Administrativo, hasta antes de las cero horas con un minuto del día 15 de diciembre del 2010, se seguirán aplicando las disposiciones normativas del Código de Justicia Administrativa para el Estado de Durango.
+
+CUARTO.- La Comisión del Tribunal de Justicia Fiscal y Administrativa del Poder Judicial, deberá emitir el Reglamento Interno del Tribunal, en un plazo que no exceda de 90 días a partir de la entrada en vigor de la presente Ley.
