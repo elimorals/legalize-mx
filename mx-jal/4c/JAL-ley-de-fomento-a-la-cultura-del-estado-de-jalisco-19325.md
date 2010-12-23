@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-fomento-a-la-cultura-del-estado-de-jalisco-19325"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-21"
-last_updated: "2004-02-21"
+last_updated: "2010-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19325&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE FOMENTO A LA CULTURA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE FEBRERO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 2010.
 
 Ley Publicada en el Periódico Oficial el 21 de diciembre de 2000 Sección II.
 
@@ -423,9 +423,13 @@ i) Tres representantes de culturas indígenas.
 
 Se procurará un equilibrio entre los intérpretes, ejecutantes, directores, autores, compositores, promotores, académicos e investigadores, quienes deberán contar con un prestigio ante la comunidad cultural del Estado; conocer la situación del quehacer artístico regional y ser residentes del Estado de Jalisco.
 
-Los Consejeros que se enuncian en esta fracción serán designados por el titular del Poder Ejecutivo, previa consulta a la comunidad cultural, a través de convocatoria pública que al efecto se formule. Durarán en su cargo tres años, pudiendo ser ratificados por una única vez y por un período igual.
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2010)</small>
 
-En caso de ausencia injustificada de los miembros del Consejo que representan a la comunidad cultural, el titular del Poder Ejecutivo podrá sustituirlos, siguiendo el mismo mecanismo de designación;
+Los consejeros que se enuncian en esta fracción serán designados por el titular del Poder Ejecutivo, previa convocatoria pública, de la cual se elegirá como consejeros a los que tengan mayor representatividad, trayectoria y experiencia. Durarán en su cargo tres años, pudiendo ser ratificados por una única vez y por un periodo igual.
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2010)</small>
+
+En caso de ausencia injustificada de los miembros del Consejo que representan a la comunidad cultural, el titular del Poder Ejecutivo podrá sustituirlos siguiendo el mismo mecanismo de designación;
 
 V. Un representante de la Universidad de Guadalajara;
 
@@ -433,7 +437,9 @@ VI. Un representante del Colegio de Jalisco;
 
 VII. Un representante de la Benemérita Sociedad de Geografía y Estadística, Capítulo Jalisco; y
 
-VIII. Los ganadores del Premio Jalisco de Artes y de Literatura, quienes formarán parte del Consejo por el término de un año, a partir de la fecha en que se le otorgó.
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2010)</small>
+
+VIII. Los ganadores del Premio Jalisco de Artes y de Literatura y del Humanístico, quienes formarán parte del Consejo por el término de un año, a partir de la fecha en que se les otorgó.
 
 El cargo de consejero será honorífico y por lo tanto no remunerado, con excepción del Presidente y el Secretario Ejecutivo del Consejo, quienes recibirán la remuneración que se establezca en el Presupuesto de Egresos vigente.
 
@@ -483,13 +489,19 @@ XII. Las demás que establezcan los ordenamientos jurídicos aplicables.
 
 El Consejo sesionará en forma ordinaria y extraordinaria. Celebrará tres sesiones ordinarias en el año y las extraordinarias que sean necesarias, previa convocatoria de su Presidente o de una tercera parte de sus integrantes.
 
+> <small>(REFORMADO PRIMER PARRAFO,[N. DE E. REPUBLICADO], P.O. 23 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 23.
 
 Para la realización de sus fines, el Consejo contará con los siguientes recursos y apoyos:
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 23 DE DICIEMBRE DE 2010)</small>
+
 I. Los bienes que le sean destinados por la Secretaría; y
 
-II. El personal administrativo que le sea comisionado por la Secretaría.
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2010)</small>
+
+II. El personal administrativo que le sea comisionado por la Secretaría, el cual será asignado de acuerdo con su perfil y responsabilidades.
 
 ## TITULO SEXTO. DEL FONDO ESTATAL PARA LA CULTURA Y LAS ARTES
 
@@ -585,41 +597,55 @@ En caso de que los beneficiarios del fondo no cumplan con los compromisos señal
 
 Para alentar la formación y profesionalización de quienes se dedican a la creación artística y cultural, se establece el Sistema Estatal de Creadores, como un sistema de estímulo y reconocimiento en apoyo a la creación libre e independiente.
 
+> <small>N. DE E. DE LAS REFORMAS APROBADAS POR EL ARTICULO UNICO DEL DECRETO NUMERO 23449/LIX/10, PUBLICADO EN EL P.O. DE 23 DE DICIEMBRE DE 2010, SE MODIFICO DE FORMA SUSTANCIAL LA ESTRUCTURA DEL PRESENTE ARTICULO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 31.
 
-En el Sistema Estatal de Creadores se reconocerá la creación artística y cultural bajo tres modalidades: Nuevo Creador, Creador con Trayectoria y Creador Emérito.
+En el Sistema Estatal de Creadores se reconocerá la creación artística y cultural bajo dos modalidades: nuevo creador y creador emérito.
 
 Para ingresar al Sistema Estatal de Creadores, se deberán acreditar los siguientes requisitos:
 
 I. Para nuevo Creador: Comprobar tres años como mínimo de experiencia en el campo de la creación artística o cultural, tener la formación adecuada a su disciplina y presentar un proyecto anual de actividades a consideración del Consejo;
 
-II. Creador con Trayectoria: Participar activamente en trabajos de creación artística o cultural original y de alta calidad, lo que se demostrará mediante la publicación, ejecución o presentación de sus trabajos, avalados por el Consejo, así como realizar de manera regular actividades de difusión cultural;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2010)</small>
 
-III. Creador Emérito: Además de cumplir con los requisitos previos, haber realizado una aportación de carácter cultural o artístico que represente una contribución de trascendencia para el Estado de Jalisco; y
+II. Creador emérito: Además de cumplir con los requisitos previos, haber realizado una aportación de carácter cultural o artístico que represente una contribución de trascendencia para el estado de Jalisco, y
 
-IV. Los demás que establezca el Reglamento.
+III. Los demás que establezca el reglamento.
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 32.
 
-Los nuevos creadores podrán percibir hasta tres salarios mínimos mensuales, durante un año calendario. Este apoyo podrá renovarse hasta por tres años. La asignación, entrega y prórroga de dichos estímulos estará sujeta a las condiciones establecidas por el Reglamento respectivo, así como a la existencia y disponibilidad de recursos. Los Creadores con Trayectoria y Eméritos, tendrán carácter honorífico y vitalicio.
+Los nuevos creadores podrán percibir hasta tres salarios mínimos mensuales, durante un año calendario. Este apoyo podrá renovarse hasta por tres años. La asignación, entrega y prórroga de dichos estímulos estará sujeta a las condiciones establecidas por el reglamento respectivo, así como a la existencia y disponibilidad de recursos. Los creadores eméritos tendrán carácter honorífico y vitalicio.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 33.
 
-El Consejo convocará en el mes de septiembre de cada año a los creadores artísticos y culturales para que presenten sus candidaturas en los términos que establezca la propia convocatoria. La distinción de Creadores con Trayectoria y Eméritos podrá adjudicarse sin que medie solicitud del candidato, previa deliberación y acuerdo del Consejo.
+El Consejo convocará en el mes de septiembre de cada año a los creadores artísticos y culturales para que presenten sus candidaturas en los términos que establezca la propia convocatoria. La distinción de creadores eméritos podrá adjudicarse sin que medie solicitud del candidato, previa deliberación y acuerdo del Consejo.
 
 Cuando se solicite cualquier tipo de estímulo económico ante el Consejo, y medie por parte del solicitante hasta un cuarto grado de parentesco con alguno de los consejeros, el consejero del que se trate deberá de excusarse para opinar sobre la citada solicitud.
 
 El reglamento especificará los requisitos y procedimientos de ingreso, permanencia y exclusión del Sistema Estatal de Creadores.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 34.
 
-La Secretaría organizará y administrará el Registro Estatal de Creadores, el cual será público y funcionará bajo tres modalidades: nuevos creadores, creadores con trayectoria y creadores eméritos.
+La Secretaría organizará y administrará el registro estatal de creadores, el cual será público y funcionará bajo dos modalidades: nuevos creadores y creadores eméritos.
 
 Los nuevos creadores serán inscritos en el Registro, cuando el Consejo notifique que se han hecho acreedores a algún apoyo económico o cuando así lo soliciten expresamente a la Secretaría y acrediten los requisitos que determine el propio Consejo para cada disciplina, los cuales habrán de ser establecidos en el Reglamento.
 
-Los creadores con trayectoria y eméritos que hayan desarrollado o desarrollen su actividad cultural en el Estado, serán incorporados al Registro, previa notificación del Consejo a la Secretaría.
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2010)</small>
 
-La Secretaría emitirá una constancia de inscripción al Registro a los nuevos creadores y a los creadores con trayectoria y eméritos que así lo soliciten.
+Los creadores eméritos que hayan desarrollado o desarrollen su actividad cultural en el estado serán incorporados al registro, previa notificación del Consejo de la Secretaría.
+
+REFORMADO [N. DE E. REPUBLICADO], P.O. 23 DE DICIEMBRE DE 2010)
+
+La Secretaría emitirá una constancia de inscripción al registro a los nuevos creadores y a los creadores eméritos que así lo soliciten.
 
 ## TITULO OCTAVO. DE LAS ACCIONES ESPECIALES DE FOMENTO A LA CULTURA
 
@@ -744,3 +770,7 @@ Lic. Felipe de Jesús Preciado Coronado
 P.O. 21 DE FEBRERO DE 2004.
 
 ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 23 DE DICIEMBRE DE 2010.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
