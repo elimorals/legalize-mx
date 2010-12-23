@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-salud-del-estado-de-jalisco-antes-ley-estatal-de-5890"
 country: "mx"
 rank: "ley"
 publication_date: "1986-12-30"
-last_updated: "2010-12-09"
+last_updated: "2010-12-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5890&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ESTATAL DE SALUD
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 2010.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 30 de diciembre de 1986.
 
@@ -2295,6 +2295,46 @@ El Consejo Estatal para la Prevención de Adicciones, y las autoridades sanitari
 
 Las autoridades jurisdiccionales y administrativas del Gobierno del Estado darán apoyo institucional para propiciar la reinserción social integral de los adictos rehabilitados.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2010)</small>
+
+###### Art. 129
+
+Bis. La Secretaría de Salud, en el marco del Sistema Nacional de Salud, y para ejecutar los programas nacionales de prevención y tratamiento de la farmacodependencia de conformidad con los convenios respectivos, realizará, entre otras, las siguientes acciones:
+
+I. Promover y llevar a cabo campañas permanentes de información y orientación al público para la prevención de daños a la salud provocados por el consumo de estupefacientes y psicotrópicos;
+
+II. Coordinar y promover con los sectores público, privado y social las acciones para prevenir la farmacodependencia;
+
+III. Crear centros especializados en tratamiento, atención y rehabilitación, con base en sistemas modernos de tratamiento y rehabilitación fundamentados en el respeto a la integridad y a la libre decisión del farmacodependiente;
+
+IV. Crear y mantener actualizado un padrón de instituciones y organismos públicos y privados que realicen actividades de prevención, tratamiento, atención y reinserción social en materia de farmacodependencia;
+
+V. Crear indicadores y bases de datos que permitan identificar zonas, sectores y grupos de alto riesgo en materia de farmacodependencia;
+
+VI. Supervisar a las instituciones y organismos públicos y privados para que realicen actividades de prevención, tratamiento, atención y reinserción social en materia de farmacodependencia, apegándose al respeto de la integridad y libre decisión del farmacodependiente;
+
+VII. Construir indicadores públicos sobre los índices de farmacodependencia en el estado de Jalisco, y
+
+VIII. Fomentar la participación comunitaria y la coordinación con las autoridades federales y las instituciones públicas o privadas para la planeación, programación, ejecución y evaluación de los programas y acciones del proceso de superación de la farmacodependencia.
+
+Todos los programas y acciones para el combate a la farmacodependencia se regirán en el respeto a la integridad y a la libre voluntad del farmacodependiente.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2010)</small>
+
+###### Art. 129
+
+Ter. Las instituciones y organismos públicos y privados que realicen actividades de prevención, tratamiento, atención y reinserción social en materia de farmacodependencia, deberán emitir a la Secretaría, en los plazos que se precisan, la siguiente información:
+
+I. Dentro de los diez días hábiles siguientes a la fecha de ingreso, los datos generales de las personas que reciben con la finalidad de recibir tratamiento, señalando el tipo de tratamiento o rehabilitación. Los datos personales que sean remitidos se consideran información confidencial en los términos de la ley de la materia, por lo que no está permitida su divulgación, y
+
+II. El número de farmacodependientes que concluyeron o no exitosamente sus tratamientos.
+
+Esta información se utilizará exclusivamente con fines estadísticos y sin señalar identidades, para la prevención de la farmacodependencia.
+
 #### SECCION PRIMERA. Definición
 
 ###### Art. 130.
@@ -3726,3 +3766,11 @@ P.O. 5 DE FEBRERO DE 2009.
 P.O. 9 DE DICIEMBRE DE 2010.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 23 DE DICIEMBRE DE 2010.
+
+PRIMERO. El presente decreto entrará en vigor el 21 de agosto de 2012, previa su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. Previa entrada en vigor del presente decreto, los poderes Ejecutivo y Judicial del Estado deberán realizar las acciones necesarias para su debida instrumentación.
+
+De igual forma, se autoriza a las secretarías de Finanzas y de Administración a realizar las adecuaciones presupuestales y administrativas necesarias para el debido cumplimiento tanto del párrafo anterior como del presente decreto.
