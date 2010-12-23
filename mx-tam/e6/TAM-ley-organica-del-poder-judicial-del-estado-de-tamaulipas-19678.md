@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-del-poder-judicial-del-estado-de-tamaulipas-19678"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-19"
-last_updated: "2010-12-21"
+last_updated: "2010-12-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19678&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 19 de diciembre de 2000.
 
@@ -229,7 +229,7 @@ Se procurará que los Juzgados de Justicia para Adolescentes tengan su domicilio
 
 El Tribunal Electoral del Poder Judicial del Estado residirá oficialmente en Victoria.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 10.
 
@@ -295,7 +295,7 @@ DECIMO CUARTO DISTRITO JUDICIAL: Cabecera en Valle Hermoso, y comprende el Munic
 
 DECIMO QUINTO DISTRITO JUDICIAL: Cabecera en González, y comprende los Municipios de González y Aldama.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 10 Bis.
 
@@ -1669,11 +1669,33 @@ En los casos de excusa o impedimento de Jueces Menores y los Jueces de Paz, el J
 
 Las faltas temporales de los servidores públicos no comprendidos en los artículos anteriores, serán cubiertas por las personas que designe el Presidente del Supremo Tribunal de Justicia.
 
-### CAPITULO I
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 2010)</small>
+
+### CAPITULO SEPTIMO (SIC). DEL HABER PARA EL RETIRO
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2010)</small>
+
+ARTICULO 108 bis.- De conformidad con los párrafos tercero de la fracción I y séptimo de la fracción II, del artículo 106 de la Constitución Política del Estado, los magistrados del Supremo Tribunal de Justicia y los consejeros de la Judicatura, tendrán derecho a un haber de retiro de conformidad con las bases establecidas en esta Ley, y en el Reglamento del Haber para el Retiro que al efecto expida el Pleno del Consejo de la Judicatura y el Pleno del Supremo Tribunal de Justicia del Estado.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2010)</small>
+
+ARTICULO 108 ter.- Para los efectos del presente capítulo, se entenderá por haber para el retiro, aquélla remuneración económica que se otorga a los magistrados del Supremo Tribunal de Justicia y a los consejeros de la Judicatura, que se encuentren en situación de retiro, ya sea por la conclusión de su período, o por cualesquiera de las causas de retiro forzoso establecidas en la Constitución Política del Estado.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2010)</small>
+
+ARTICULO 108 quater.- El haber de retiro se integrará de la siguiente manera:
+
+I.- Quienes cumplan el cien por ciento del término legal de ejercicio señalado en la Constitución local, tendrán derecho, independientemente de sus prestaciones laborales tales como vacaciones, prima de vacaciones y de antigüedad, bonos y demás que prevea el Presupuesto de Egresos, al equivalente a tres meses de la percepción que el cargo de Magistrado o Consejero tenga asignada conforme al Presupuesto de Egresos del Poder Judicial del año que corresponda al pago de esta prestación, asimismo, al equivalente del sueldo mensual del rubro 01 contenido en el Presupuesto de Egresos del Poder Judicial, por cada mes que se encuentre impedido para actuar como patrono, abogado o representante en cualquier proceso ante los órganos del Poder Judicial del Estado, así como el aguinaldo y el seguro de gastos médicos y de vida contratados por el Supremo Tribunal de Justicia.
+
+II.- A los magistrados o consejeros que no hubieran cumplido el término legal del ejercicio para el cual fueron designados, se les pagará proporcionalmente lo que corresponda de acuerdo a lo previsto en la fracción anterior, salvo que hayan sido removidos de su cargo en aplicación de los artículos 116 y 152 de la Constitución Política del Estado, en cuyo caso no tendrán derecho al haber por retiro.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2010)</small>
+
+ARTICULO 108 quinquies.- En caso de fallecimiento del magistrado o consejero en funciones, únicamente se entregará la prestación económica determinada en la fracción I del artículo anterior a su cónyuge supérstite y a sus hijos menores o incapaces, independientemente de los seguros y demás prestaciones a que tenga derecho conforme a las condiciones generales de trabajo y de seguridad social en beneficio de los trabajadores al servicio del Estado.
 
 ## TITULO QUINTO. DE LAS RESPONSABILIDADES ADMINISTRATIVAS
 
-### CAPITULO II. DEL PROCEDIMIENTO DE QUEJA ADMINISTRATIVA
+### CAPITULO I
 
 ###### ARTICULO 109.
 
@@ -1685,15 +1707,13 @@ Los Magistrados del Supremo Tribunal de Justicia, los Jueces y todos los miembro
 
 Corresponde al Pleno del Supremo Tribunal de Justicia conocer de las faltas cometidas por los magistrados. Al Consejo de la Judicatura le compete conocer de las faltas cometidas por cualquier otro servidor público del Poder Judicial, en términos del artículo anterior.
 
-### CAPITULO UNICO
+### CAPITULO II. DEL PROCEDIMIENTO DE QUEJA ADMINISTRATIVA
 
 ###### ARTICULO 111.
 
 Quien tenga interés jurídico podrá presentar queja administrativa ante la Presidencia del Supremo Tribunal de Justicia, en contra de cualquiera de los servidores públicos del Poder Judicial, dentro de los diez días siguientes al en que se haya suscitado el acto o la omisión que de origen al procedimiento.
 
-### CAPITULO I. DE LA DIRECCION DE ADMINISTRACION
-
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
+### CAPITULO UNICO
 
 ###### ARTICULO 112.
 
@@ -1731,9 +1751,9 @@ Cuando se tenga conocimiento de hechos que pudieran constituir alguna falta admi
 
 ## TITULO SEXTO. DE LAS VISITAS A LOS RECLUSORIOS
 
-### CAPITULO II. DE LA DIRECCION DE FINANZAS
+### CAPITULO I. DE LA DIRECCION DE ADMINISTRACION
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
 
 ###### ARTICULO 116.
 
@@ -1883,9 +1903,9 @@ XXIX.- Las demás facultades y obligaciones que las leyes le otorguen.
 
 Las dependencias administrativas estarán a cargo de un director, y tendrán los jefes de área y el número de auxiliares que determine el Consejo de la Judicatura y permita el presupuesto de egresos.
 
-### CAPITULO III. DE LA DIRECCION DE CONTRALORIA
+### CAPITULO II. DE LA DIRECCION DE FINANZAS
 
-> <small>(REFORMADO EL PRIMER PARRAFO, P.O. 26 DE MAYO DE 2010)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE MAYO DE 2010)</small>
 
 ###### ARTICULO 124.
 
@@ -1979,9 +1999,9 @@ V.- Llevar a cabo un control efectivo de los artículos necesarios con que cuent
 
 VI.- Las demás que ésta o cualquier otra ley les asignen.
 
-### CAPITULO IV. DEL FONDO AUXILIAR PARA LA ADMINISTRACION DE JUSTICIA
+### CAPITULO III. DE LA DIRECCION DE CONTRALORIA
 
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
+> <small>(REFORMADO EL PRIMER PARRAFO, P.O. 26 DE MAYO DE 2010)</small>
 
 ###### ARTICULO 130.
 
@@ -2001,7 +2021,7 @@ V.- Instrumentar y operar conjuntamente con el Director del Fondo Auxiliar para 
 
 VI.- Las demás que le asigne el Consejo de la Judicatura.
 
-### CAPITULO V. DEL CENTRO DE ACTUALIZACION JURIDICA E INVESTIGACION PROCESAL
+### CAPITULO IV. DEL FONDO AUXILIAR PARA LA ADMINISTRACION DE JUSTICIA
 
 > <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
 
@@ -2033,7 +2053,7 @@ VI.- Las demás que le señale el reglamento y el Consejo de la Judicatura.
 
 Para la consecución de sus objetivos, la Contraloría contará con un Director y el apoyo de auditoría indispensable, así como con el personal permanente o temporal, que conforme a las circunstancias se requiera y autorice el Consejo de la Judicatura.
 
-### CAPITULO VI. DE LA DIRECCION DE INFORMATICA
+### CAPITULO V. DEL CENTRO DE ACTUALIZACION JURIDICA E INVESTIGACION PROCESAL
 
 > <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
 
@@ -2159,9 +2179,9 @@ III.- La impartición de toda clase de cursos de capacitación para el mejoramie
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 4 DE DICIEMBRE DE 2007)</small>
 
-### CAPITULO VII. DE LA VISITADURIA JUDICIAL
+### CAPITULO VI. DE LA DIRECCION DE INFORMATICA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
 
 ###### ARTICULO 144.
 
@@ -2219,7 +2239,9 @@ X.- Sustentar estudios de propuestas de reforma legislativa, de aquellas disposi
 
 XI.- Realizar las demás funciones y asumir las responsabilidades que las disposiciones legales y reglamentarias le asigne el Consejo de la Judicatura.
 
-### CAPITULO UNICO. OTRAS DEPENDENCIAS DEL PODER JUDICIAL
+### CAPITULO VII. DE LA VISITADURIA JUDICIAL
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE MAYO DE 2010)</small>
 
 ###### ARTICULO 147.
 
@@ -2269,9 +2291,7 @@ X.- Diseñar, elaborar y mantener actualizada una página de Internet y los sist
 
 XI.- Las demás que el (sic) asigne el Consejo de la Judicatura.
 
-### CAPITULO XIII (SIC). DE LA UNIDAD DE INFORMACION PUBLICA
-
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
+### CAPITULO UNICO. OTRAS DEPENDENCIAS DEL PODER JUDICIAL
 
 ###### ARTICULO 151.
 
@@ -2293,9 +2313,9 @@ III.- Rendir al Presidente del Consejo de la Judicatura un informe escrito del r
 
 ## TITULO OCTAVO
 
-### CAPITULO I. DEL PLENO, SU INTEGRACION Y COMPETENCIA
+### CAPITULO XIII (SIC). DE LA UNIDAD DE INFORMACION PUBLICA
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
 
 #### SECCION PRIMERA. DE LA OFICIALIA DE PARTES
 
@@ -2601,7 +2621,7 @@ VII.- Las demás que le asigne el Consejo de la Judicatura.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
-### CAPITULO II. DEL MAGISTRADO PRESIDENTE
+### CAPITULO I. DEL PLENO, SU INTEGRACION Y COMPETENCIA
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
@@ -2733,7 +2753,7 @@ Al Tribunal Electoral, su Pleno, sus integrantes y demás órganos del mismo, le
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
-### CAPITULO III. DE LOS MAGISTRADOS ELECTORALES Y SUS PONENCIAS
+### CAPITULO II. DEL MAGISTRADO PRESIDENTE
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
@@ -2779,7 +2799,7 @@ Las ausencias del Presidente serán suplidas, si no exceden de dos meses, por el
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
-### CAPITULO IV. DE LA SECRETARIA GENERAL DE ACUERDOS
+### CAPITULO III. DE LOS MAGISTRADOS ELECTORALES Y SUS PONENCIAS
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
@@ -2825,7 +2845,7 @@ Todos los servidores del Tribunal serán considerados personal de confianza.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
-### CAPITULO V. DE LA COMISION DE ADMINISTRACION, VIGILANCIA Y DISCIPLINA
+### CAPITULO IV. DE LA SECRETARIA GENERAL DE ACUERDOS
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
@@ -2873,7 +2893,7 @@ El Secretario General percibirá la remuneración prevista en el presupuesto de 
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
-### CAPITULO VI. DE LA JURISPRUDENCIA ELECTORAL
+### CAPITULO V. DE LA COMISION DE ADMINISTRACION, VIGILANCIA Y DISCIPLINA
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
@@ -2940,6 +2960,10 @@ La Comisión contará con una Secretaria Administrativa y con los órganos auxil
 La Comisión de Administración, Vigilancia y Disciplina del Tribunal Electoral funcionará conforme las disposiciones reglamentarias aplicables.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 2008)</small>
+
+### CAPITULO VI. DE LA JURISPRUDENCIA ELECTORAL
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 204.
 
@@ -3092,3 +3116,13 @@ P.O. 21 DE DICIEMBRE DE 2010.
 ###### ARTICULO PRIMERO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE DICIEMBRE DE 2010.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Para efectos de este Decreto el período de ejercicio de los actuales magistrados y consejeros se considerará a partir de la fecha de su nombramiento y por el término para el que hayan sido designados.
