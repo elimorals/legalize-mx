@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-residuos-solidos-de-la-ciudad-de-mexico-antes-ley-de-301
 country: "mx"
 rank: "ley"
 publication_date: "2003-04-22"
-last_updated: "2010-11-26"
+last_updated: "2010-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=30102&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2003-04-05"
 
 LEY DE RESIDUOS SOLIDOS DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 26 DE NOVIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 23 DE DICIEMBRE DE 2010.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 22 de abril de 2003.
 
@@ -814,9 +814,11 @@ IV. Area para segregar y almacenar temporalmente los residuos, por tiempos acord
 
 V. Los demás requisitos que determine el Reglamento y normas aplicables.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 23 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 46.
 
-Las plantas de selección y tratamiento de los residuos sólidos deberán contar con la infraestructura necesaria para la realización del trabajo especializado para el depósito de dichos residuos de acuerdo a sus características y conforme (sic) separación clasificada de los residuos sólidos que esta Ley establece.
+Las plantas de selección y tratamiento de los residuos sólidos que pertenezcan al Distrito Federal, deberán contar con la infraestructura tecnológica de vanguardia necesaria, para la realización del trabajo especializado que permita generar energía renovable y limpia.
 
 > <small>(REFORMADO, G.O. 26 DE NOVIEMBRE DE 2010)</small>
 
@@ -848,9 +850,13 @@ Los residuos sólidos que no puedan ser tratados por medio de los procesos estab
 
 La selección de los sitios para disposición final, así como la construcción y operación de las instalaciones deberá sujetarse a lo estipulado en las normas oficiales mexicanas y demás ordenamientos jurídicos aplicables.
 
+> <small>(REFORMADO, G.O. 23 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 51.
 
 Los sitios de disposición final tendrán un acceso restringido a materiales reutilizables o reciclables y deberá recibir un menor porcentaje de residuos orgánicos. Además, emplearán mecanismos para instalar sistemas de extracción de biogás y tratamiento de lixiviados para su recolección.
+
+Los sitios de disposición final de los residuos sólidos que pertenezcan al Distrito Federal, deberán contar con infraestructura tecnológica de vanguardia necesaria, para la realización del trabajo especializado que permita generar energía renovable y limpia.
 
 ###### Artículo 52.
 
@@ -864,7 +870,7 @@ El personal que labore en los sitios de disposición final deberá estar debidam
 
 ###### Artículo 54.
 
-Los rellenos sanitarios que hayan cumplido su vida útil se destinarán únicamente como parques, jardines, centros de educación ambiental o sitios para el fomento de la recreación y la cultura.
+Los rellenos sanitarios que hayan cumplido su vida útil se destinarán únicamente como parques, jardínes, centros de educación ambiental o sitios para el fomento de la recreación y la cultura.
 
 ## TÍTULO QUINTO. DE LA VALORIZACIÓN Y COMPOSTEO DE LOS RESIDUOS SÓLIDOS
 
@@ -1141,3 +1147,9 @@ TERCERO. La Secretaria contará con un plazo de seis meses contados a partir de 
 CUARTO. Se derogan todas aquellas disposiciones que contravengan el contenido del presente Decreto.
 
 QUINTO. Publíquese el presente Decreto en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+G.O. 23 DE DICIEMBRE DE 2010.
+
+PRIMERO.- El presente decreto entrará en vigor a partir del día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y, para su mayor difusión, en el Diario Oficial de la Federación.
