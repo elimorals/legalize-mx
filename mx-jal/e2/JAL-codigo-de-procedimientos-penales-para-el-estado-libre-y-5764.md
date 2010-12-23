@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-procedimientos-penales-para-el-estado-libre-y-5764"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-12-07"
-last_updated: "2010-10-07"
+last_updated: "2010-12-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE OCTUBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 2010.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el martes 7 de diciembre de 1982.
 
@@ -43,11 +43,13 @@ Código de Procedimientos Penales para el Estado Libre y Soberano de Jalisco
 
 ### CAPITULO I. Competencia
 
-> <small>(F. DE E., P.O. 10 DE FEBRERO DE 1983)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2010)</small>
 
 ###### Art. 1º.
 
-Los Jueces del Estado de Jalisco son competentes para conocer, en la forma y términos que prescribe este Código, de los delitos del fuero común cometidos dentro del territorio del propio Estado.
+Los jueces del estado de Jalisco son competentes para conocer, en la forma y términos que prescribe este código, de los delitos del fuero común y los establecidos en la legislación federal que por disposición de la misma competa conocer y resolver a las entidades federativas, cometidos dentro del territorio del propio estado.
 
 ###### Art. 2º.
 
@@ -711,17 +713,33 @@ Si quien inicie una investigación no tiene a su cargo la función de proseguirl
 
 Inmediatamente que el Ministerio Público, o el servidor público encargado de practicar diligencias de averiguación previa, tengan conocimiento de la probable existencia de un delito, dictará todas las medidas y providencias necesarias, para proporcionar seguridad y auxilio a las víctimas, incluyendo en su caso, la atención médica de urgencia que requieran y la asesoría jurídica necesaria; impedir que se pierdan, destruyan o alteren las huellas o vestigios del hecho delictuoso, los instrumentos o cosas objeto o efecto del mismo, saber que personas fueron testigos; evitar que el delito se siga cometiendo y, en general, impedir que se dificulte la averiguación; además, procederá a la aprehensión de los responsables en los casos de flagrante delito.
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 1994)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-El ministerio público sólo podrá ordenar la detención del inculpado cuando se trate de caso urgente y se cometa algún delito de los señalados como graves en el artículo 342 de este Código conforme a lo dispuesto por el artículo 16 de la Constitución política de los Estados Unidos Mexicanos.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE DICIEMBRE DE 2010)</small>
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 1994)</small>
+Cuando exista aseguramiento de estupefacientes o psicotrópicos previstos en la tabla del artículo 479 de la Ley General de Salud, el Ministerio Público o el Juez solicitarán la elaboración del dictamen pericial correspondiente, a la autoridad competente, sobre los caracteres organolépticos o químicos de la sustancia asegurada. Este dictamen, cuando hubiere detenido, será rendido dentro del término de doce horas, a partir de su legal solicitud, a fin de no vulnerar lo dispuesto en el artículo 16 de la Constitución Política de los Estados Unidos Mexicanos.
 
-Si el inculpado fue detenido o se presentó de manera voluntaria ante el ministerio público, se procederá de la siguiente forma:
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2010)</small>
+
+El Ministerio Público sólo podrá ordenar la detención del inculpado cuando se trate de caso urgente y se cometa algún delito de los señalados como graves en el artículo 342 de este código conforme a lo dispuesto por el artículo 16 de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE DICIEMBRE DE 2010)</small>
+
+Si el inculpado fue detenido o se presentó de manera voluntaria ante el Ministerio Público, se procederá de la siguiente forma:
+
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 1994)</small>
 
 I. Se hará constar por quien realice la detención o ante quien haya comparecido, el día, hora y lugar de su captura o comparecencia y, en su caso, el nombre y cargo de quien la ordenó. Sí ésta se practicó por una autoridad no dependiente del ministerio público, se asentará informe circunstanciado suscrito por la persona que la efectuó o en su caso por quien hubiese recibido al detenido;
 
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 1994)</small>
+
 II. Se le hará saber la imputación que existe en su contra, el nombre del denunciante y la naturaleza de la acusación;
+
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 1994)</small>
 
 III. Se le hará saber igualmente los derechos que dentro de la averiguación previa le otorga la Constitución Política de los Estados Unidos Mexicanos y particularmente los siguientes:
 
@@ -738,6 +756,8 @@ e) Tan luego lo solicite, si procede, se le otorgue el beneficio de la libertad 
 > <small>(REFORMADA, P.O. 11 DE ENERO DE 2007)</small>
 
 f) Si el detenido desconoce el castellano, se le designará un traductor para que lo asista, quien le hará saber los derechos que tiene; tratándose de personas pertenecientes a los pueblos o comunidades indígenas, tanto el defensor como el intérprete correspondiente deberán tener pleno conocimiento de su lengua y cultura. Si se tratare de extranjeros la detención se comunicará de inmediato a la representación diplomática o consular que corresponda, o a la delegación de servicios migratorios; y
+
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 1994)</small>
 
 IV. En todo caso se mantendrán separados los hombres y las mujeres en los lugares de detención o reclusión.
 
@@ -937,19 +957,29 @@ I. Cuando de los hechos que logre averiguar se advierta plenamente que no existe
 
 II. Cuando, aún pudiendo serlo, resulte imposible la prueba de la existencia de los hechos;
 
-> <small>(REFORMADA, P.O. 30 DE ENERO DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-III. Cuando se encuentre extinguida; y
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2010)</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+III. Cuando se encuentre extinguida;
 
-> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2008)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-IV. Cuando se hubieren cumplido las obligaciones impuestas a las partes en el convenio final del método alternativo de solución de conflictos en los delitos no excluidos por la Ley de Justicia Alternativa del estado de Jalisco.
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2010)</small>
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE ENERO DE 2007)</small>
+IV. Cuando se hubieren cumplido las obligaciones impuestas a las partes en el convenio final del método alternativo de solución de conflictos en los delitos no excluidos por la Ley de Justicia Alternativa del Estado de Jalisco, y
 
-La resolución que se emita en los términos de la fracción IV de este artículo, no requerirá de aprobación del Procurador General de Justicia, para surtir efectos.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE DICIEMBRE DE 2010)</small>
+
+V. En los demás casos que señalen las leyes.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2010)</small>
+
+La resolución que se emita en los términos de la fracción IV de este artículo no requerirá aprobación del Procurador General de Justicia para surtir efectos.
 
 ###### Art. 110.
 
@@ -1182,6 +1212,46 @@ En los casos de daños por incendio se recabará dictamen pericial respecto del 
 ###### Art. 131.
 
 En todos aquellos delitos en que se requieran conocimientos especiales para su comprobación, se utilizarán, asociadas, las pruebas de inspección ocular y de peritos, sin perjuicio de las demás pertinentes.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2010)</small>
+
+###### Art. 131 Bis.
+
+El Ministerio Público deberá informar oportunamente al Ministerio Público de la Federación del inicio de las averiguaciones previas, tratándose de los delitos previstos en el artículo 474 de la Ley General de Salud, a efecto de que éste cuente con los elementos necesarios para que, en su caso, solicite la remisión de la investigación.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2010)</small>
+
+###### Art. 131 Ter.
+
+Cuando se trate de los casos previstos en el segundo párrafo del artículo 474 de la Ley General de Salud, el Ministerio Público podrá practicar las diligencias de averiguación previa que correspondan y remitirá al Ministerio Público de la Federación, dentro de los tres días de haberlas concluido, el acta o actas levantadas y todo lo que con ellas se relacione.
+
+Si hubiere detenidos, la remisión se hará sin demora y se observarán las disposiciones relativas a la retención ministerial por flagrancia.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2010)</small>
+
+###### Art. 131 Quater.
+
+Si de las constancias del procedimiento se advierte la incompetencia de las autoridades del fuero común, remitirá el expediente al Ministerio Público de la Federación o al Juez federal que corresponda, dependiendo de la etapa procesal en que se encuentre, a fin de que se continúe el procedimiento, para lo cual las diligencias desahogadas hasta ese momento por la autoridad considerada incompetente gozarán de plena validez.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2010)</small>
+
+###### Art. 131 Quinquies.
+
+El Ministerio Público o la autoridad judicial del conocimiento, tan pronto identifiquen que una persona relacionada con un procedimiento es farmacodependiente, deberán informar de inmediato y, en su caso, dar intervención a las autoridades sanitarias competentes, para los efectos del tratamiento que corresponda.
+
+La unidad especializada puede auxiliarse del Instituto Jalisciense de Ciencias Forenses para la debida investigación y persecución de los delitos.
+
+Para la correcta integración de las averiguaciones, el titular de esta unidad puede solicitar directamente la colaboración de otras dependencias o entidades del Poder Ejecutivo del Estado o de los municipios.
+
+En caso necesario, el Ministerio Público encargado de las averiguaciones está facultado para requerir información, documentos o certificados relativos a cualquier entidad pública o privada cuando la solicitud tenga relación con la investigación.
 
 > <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2001)</small>
 
@@ -3932,3 +4002,11 @@ SEGUNDO. Se autoriza al Poder Ejecutivo del Estado, por conducto de la Secretar�
 P.O. 7 DE OCTUBRE DE 2010.
 
 ÚNICO El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 23 DE DICIEMBRE DE 2010.
+
+PRIMERO. El presente decreto entrará en vigor el 21 de agosto de 2012, previa su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. Previa entrada en vigor del presente decreto, los poderes Ejecutivo y Judicial del Estado deberán realizar las acciones necesarias para su debida instrumentación.
+
+De igual forma, se autoriza a las secretarías de Finanzas y de Administración a realizar las adecuaciones presupuestales y administrativas necesarias para el debido cumplimiento tanto del párrafo anterior como del presente decreto.
