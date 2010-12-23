@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-judicial-del-estado-de-jalisco-12789"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-07-01"
-last_updated: "2009-12-31"
+last_updated: "2010-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12789&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2010.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 1 de julio de 1997.
 
@@ -96,6 +96,12 @@ Los tribunales de justicia del fuero común del Estado de Jalisco, ejercerán su
 > <small>(ADICIONADO, P.O. 11 DE ENERO DE 2007)</small>
 
 En términos del artículo 73 fracción XXI de la Constitución Política de los Estados Unidos Mexicanos, los tribunales de justicia del fuero común del Estado de Jalisco conocerán de los delitos que las leyes federales les otorguen jurisdicción.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE DICIEMBRE DE 2010)</small>
+
+Los órganos jurisdiccionales en materia penal del Estado, tomarán conocimiento de las consignaciones en materia de narcomenudeo de conformidad con los términos y formalidades establecidos en el Título Décimo Octavo, Capítulo VII, de la Ley General de Salud, así como llevarán un registro de las mismas y realizarán las actualizaciones concernientes. En los procedimientos penales que se sustancien con motivo de los mismos, se observarán las disposiciones previstas en el artículo 480 de dicho ordenamiento.
 
 > <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2006)</small>
 
@@ -3350,3 +3356,11 @@ TERCERO. Se derogan todas las normas y disposiciones que se opongan al presente 
 P.O. 31 DE DICIEMBRE DE 2009.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 23 DE DICIEMBRE DE 2010.
+
+PRIMERO. El presente decreto entrará en vigor el 21 de agosto de 2012, previa su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. Previa entrada en vigor del presente decreto, los poderes Ejecutivo y Judicial del Estado deberán realizar las acciones necesarias para su debida instrumentación.
+
+De igual forma, se autoriza a las secretarías de Finanzas y de Administración a realizar las adecuaciones presupuestales y administrativas necesarias para el debido cumplimiento tanto del párrafo anterior como del presente decreto.
