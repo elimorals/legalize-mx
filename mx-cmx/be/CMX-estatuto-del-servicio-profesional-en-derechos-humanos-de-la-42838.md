@@ -4,7 +4,7 @@ identifier: "CMX-estatuto-del-servicio-profesional-en-derechos-humanos-de-la-428
 country: "mx"
 rank: "estatuto"
 publication_date: "2005-01-31"
-last_updated: "2008-12-31"
+last_updated: "2010-12-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42838&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2004-10-12"
 
 ESTATUTO DEL SERVICIO PROFESIONAL EN DERECHOS HUMANOS DE LA COMISION DE DERECHOS HUMANOS DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 31 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 23 DE DICIEMBRE DE 2010.
 
 Estatuto publicado en el Número Bis de la Gaceta Oficial del Distrito Federal, el lunes 31 de enero de 2005.
 
@@ -42,7 +42,13 @@ Todo ordenamiento derivado del presente Estatuto deberá ceñirse a lo estableci
 
 Para los efectos del presente Estatuto se entenderá por:
 
-Asuntos Jurídicos: La Coordinación de Asuntos Jurídicos de la Comisión de Derechos Humanos del Distrito Federal.
+> <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2010)</small>
+
+Administración: La Dirección General de Administración.
+
+> <small>(REFORMADO, G.O. 23 DE DICIEMBRE DE 2010)</small>
+
+Asuntos Jurídicos: La Consultoría General Jurídica y de lo Contencioso de la Comisión de Derechos Humanos del Distrito Federal.
 
 > <small>(REFORMADO, G.O. 12 DE DICIEMBRE DE 2007)</small>
 
@@ -54,15 +60,21 @@ Comisión: La Comisión de Derechos Humanos del Distrito Federal.
 
 Consejo: El Consejo de la Comisión.
 
-Dirección Ejecutiva: La Dirección Ejecutiva de Investigación y Desarrollo Institucional de la Comisión.
+> <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2010)</small>
 
-Dirección General: La Dirección General de Administración de la Comisión.
+Coordinador Académico: Las y los Coordinadores Académicos de Área designados por la Dirección General de Educación.
+
+> <small>(N. DE E. SE DEROGA EL CONCEPTO DE DIRECCIÓN EJECUTIVA, G.O. 23 DE DICIEMBRE DE 2010)</small>
+
+> <small>(REFORMADO, G.O. 23 DE DICIEMBRE DE 2010)</small>
+
+Dirección General o Dirección General de Educación: La Dirección General de Educación por los Derechos Humanos de la Comisión.
 
 Estatuto: El Estatuto del Servicio Profesional en Derechos Humanos de la Comisión.
 
-> <small>(ADICIONADO, G.O. 12 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, G.O. 23 DE DICIEMBRE DE 2010)</small>
 
-Estrados: Los espacios visibles ubicados en la sede que ocupe la Comisión, en los que se dará publicidad a las determinaciones en materia del Servicio Profesional en Derechos Humanos.
+Estrados: Los espacios visibles ubicados en la sede que ocupe la Comisión y los electrónicos, en los que se dará publicidad a las determinaciones en materia del Servicio Profesional en Derechos Humanos;
 
 Ley: La Ley de la Comisión.
 
@@ -132,9 +144,13 @@ I. El Consejo;
 
 II. El Presidente;
 
-III. La Dirección General;
+> <small>(REFORMADA, G.O. 23 DE DICIEMBRE DE 2010)</small>
 
-IV. La Dirección Ejecutiva; y
+III. Administración;
+
+> <small>(REFORMADA, G.O. 23 DE DICIEMBRE DE 2010)</small>
+
+IV. La Dirección General de Educación; y
 
 V. Asuntos Jurídicos.
 
@@ -168,69 +184,63 @@ VI. Coordinar el trabajo de los diferentes órganos y áreas de apoyo de la Comi
 
 VII. Las demás que sean necesarias para el adecuado funcionamiento del Servicio y para el cumplimiento de las disposiciones de este Estatuto y del Manual, en el ámbito de su competencia.
 
+> <small>(REFORMADO, G.O. 23 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 13o.
 
-Son atribuciones de la Dirección General:
+Son atribuciones de Administración:
 
-> <small>(REFORMADA, G.O. 12 DE DICIEMBRE DE 2007)</small>
+I. Colaborar con la Dirección General de Educación en el estudio de los gastos de presupuesto destinados a la operación del Servicio, así como los montos y las modalidades de los incentivos establecidos por este Estatuto;
+
+II. Colaborar con la determinación de los efectos presupuestales relativos a la elaboración y emisión de las convocatorias a los concursos de oposición o a los cursos de capacitación y selección;
+
+III. Colaborar con la Dirección General de Educación en la determinación del impacto presupuestal del proceso de incentivos en los términos de este Estatuto;
+
+IV. Coadyuvar con la Dirección General de Educación en la determinación del impacto presupuestal derivado de las propuestas de modificación al Catálogo;
+
+V. Llevar a cabo las acciones necesarias para garantizar la confidencialidad de la información derivada de los procedimientos a su cargo; y
+
+VI. Las demás que le confiera el Presidente y que sean necesarias para el adecuado funcionamiento del Servicio y para el cumplimiento de las disposiciones de este Estatuto y del Manual, en el ámbito de su competencia.
+
+> <small>(REFORMADO, G.O. 23 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 14o.
+
+Son atribuciones de la Dirección General de Educación:
 
 I. Dirigir, coordinar, supervisar, implementar y evaluar la operación de los procedimientos establecidos en el presente Estatuto y en el Manual para el mejor funcionamiento del Servicio, con excepción de aquellos expresamente atribuidos por este Estatuto a otros órganos o áreas de apoyo de la Comisión;
 
 II. Expedir los oficios de adscripción del Personal Profesional;
 
-III. Estudiar y proponer los gastos de presupuesto destinados a la operación del Servicio, así como los montos y las modalidades de los incentivos establecidos por este Estatuto;
+III. Estudiar y proponer los gastos de presupuesto, tomando en consideración la opinión de la Dirección General de Administración destinados a la operación del Servicio, así como los montos y las modalidades de los incentivos establecidos por este Estatuto;
 
 IV. Llevar el registro del Personal Profesional;
 
 V. Implementar el proceso de ingreso y ascenso del Personal Profesional, en los términos de este Estatuto y del Manual, en acuerdo con el Presidente;
 
-VI. Elaborar y emitir las convocatorias a los concursos de oposición o a los cursos de capacitación y selección, previa consulta con la Dirección Ejecutiva;
+VI. Elaborar y emitir las convocatorias a los concursos de oposición o a los cursos de capacitación y selección, previa consulta con la Dirección General de Administración para determinar los efectos presupuestales;
 
 VII. Proponer al Presidente los cambios de adscripción, así como el otorgamiento de licencias y permisos al Personal Profesional;
 
-VIII. Implementar el proceso de incentivos, en los términos de este Estatuto y establecer los procedimientos correspondientes en el Manual, en acuerdo con el Presidente;
+VIII. Implementar, tomando en cuenta la opinión de la Dirección General de Administración, el proceso de incentivos en los términos de este Estatuto y establecer los procedimientos correspondientes en el Manual, en acuerdo con el Presidente;
 
-IX. Proponer al Presidente modificaciones al Catálogo, en consulta con la Dirección Ejecutiva, en función de las necesidades del Servicio, de las disponibilidades de presupuesto y del objeto de la Comisión;
-
-> <small>(REFORMADA, G.O. 12 DE DICIEMBRE DE 2007)</small>
+IX. Proponer al Presidente modificaciones al Catálogo, en consulta con la Dirección General de Administración, en función de las necesidades del Servicio, de las disponibilidades de presupuesto y del objeto de la Comisión;
 
 X. Coordinar, elaborar, integrar y proponer al Presidente para su aprobación el anteproyecto de Evaluación Anual del Desempeño del Personal Profesional;
 
-> <small>(REFORMADA, G.O. 12 DE DICIEMBRE DE 2007)</small>
+XI. Elaborar las propuestas de modificaciones y reformas al Estatuto y al Manual conforme a la operación de las normas y los procedimientos de los procesos generales del Servicio, en función de las necesidades, de las disponibilidades de presupuesto y del objeto de la Comisión;
 
-XI. Coadyuvar en coordinación con la Dirección Ejecutiva la elaboración de propuestas de modificaciones y reformas al Estatuto y al Manual conforme a la operación de las normas y los procedimientos de los procesos generales del Servicio, en función de las necesidades, de las disponibilidades de presupuesto y del objeto de la Comisión;
+XII. Implementar el proceso de formación profesional, en los términos señalados en este Estatuto, en el Manual y el (sic) Programa conforme a las necesidades del Servicio, oportunidades y posibilidades de presupuesto;
 
-XII. Implementar el proceso de formación profesional, en los términos señalados en este Estatuto, en el Manual y el Programa conforme a las necesidades del Servicio, oportunidades y posibilidades de presupuesto;
+XIII. Diseñar el Programa, en acuerdo con el Presidente, para que éste lo someta a la aprobación del Consejo;
 
-XIII. Actuar como primera instancia para resolver los recursos de inconformidad que, en su caso, interponga el Personal Profesional como resultado de la aplicación del Estatuto y del Manual;
+XIV. Actuar como primera instancia para resolver los recursos de inconformidad que, en su caso, interponga el Personal Profesional como resultado de la aplicación del Estatuto y del Manual;
 
-XIV. Ejecutar las destituciones del Personal Profesional, conforme al procedimiento disciplinario y la normatividad aplicable;
+XV. Ejecutar las destituciones del Personal Profesional, conforme al procedimiento disciplinario y la normatividad aplicable;
 
-XV. Llevar a cabo las acciones necesarias para garantizar la confidencialidad de la información derivada de los procedimientos a su cargo; y
+XVI. Llevar a cabo las acciones necesarias para garantizar la confidencialidad de la información derivada de los procedimientos a su cargo, y
 
-XVI. Las demás que le confiera el Presidente y que sean necesarias para el adecuado funcionamiento del Servicio y para el cumplimiento de las disposiciones de este Estatuto y del Manual, en el ámbito de su competencia.
-
-###### Artículo 14o.
-
-Son atribuciones de la Dirección Ejecutiva:
-
-I. Proponer al Presidente modificaciones al Estatuto así como al Manual, en consulta con la Dirección General, en función de las necesidades del Servicio, de las disponibilidades de presupuesto y del objeto de la Comisión;
-
-II. Diseñar el Programa, en acuerdo con el Presidente, para que éste lo someta a la aprobación del Consejo;
-
-III. Diseñar los exámenes aplicables al Personal Profesional derivados del Programa;
-
-> <small>(REFORMADA, G.O. 12 DE DICIEMBRE DE 2007)</small>
-
-IV. Coadyuvar con la Dirección General en los cursos de capacitación y selección celebrados para cada cargo y puesto del Personal Profesional, en los términos y con las modalidades que establezca el Manual;
-
-> <small>(REFORMADA, G.O. 12 DE DICIEMBRE DE 2007)</small>
-
-V. Llevar a cabo las acciones necesarias para garantizar la confidencialidad de la información derivada de los procedimientos a su cargo; y
-
-> <small>(ADICIONADA, G.O. 12 DE DICIEMBRE DE 2007)</small>
-
-VI. Las demás que le confiera el Presidente y que sean necesarias para el adecuado funcionamiento del Servicio y para el cumplimiento de las disposiciones de este Estatuto y del Manual, en el ámbito de su competencia.
+XVII. Las demás que le confiera el Presidente y que sean necesarias para el adecuado funcionamiento del Servicio y para el cumplimiento de las disposiciones de este Estatuto y del Manual, en el ámbito de su competencia.
 
 ###### Artículo 15o.
 
@@ -440,21 +450,25 @@ El Personal Profesional puede solicitar la revisión de los resultados obtenidos
 
 El proceso de formación profesional tiene como propósito mejorar, a través del Programa, los conocimientos, capacidades y aptitudes necesarias para el adecuado desempeño de las funciones del Personal Profesional de manera permanente y sistemática, de acuerdo a las distintas áreas de especialidad señaladas en el artículo 22o. de este Estatuto.
 
-> <small>(REFORMADO, G.O. 12 DE DICIEMBRE DE 2007)</small>
+> <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2010)</small>
+
+Para el diseño, implementación y evaluación del Programa, la Dirección General de Educación podrá auxiliarse de las o los coordinadores académicos para las áreas modulares, que estime pertinente.
+
+> <small>(REFORMADO, G.O. 23 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 38o.
 
 El Programa estará integrado por cinco fases:
 
-I. Inducción: que tendrá el propósito de introducir al Personal Profesional a una base común mínima en los conocimientos relativos al objeto de la Comisión, sus bases constitucionales, legales y reglamentarias y sus programas institucionales, entre otros;
+I. Inducción: que tendrá el propósito, entre otras cosas, de introducir al Personal Profesional a una base común mínima en los conocimientos relativos al objeto de la Comisión, sus bases constitucionales, legales y reglamentarias y sus programas institucionales, la determinación de herramientas metodológicas básicas para el desempeño de sus funciones y aspectos relacionados con la protección y defensa de los derechos humanos;
 
-II. Formación Básica: que abordará de forma general los aspectos teóricos y prácticos más importantes de los instrumentos jurídicos y de los mecanismos de garantía, a nivel nacional e internacional, para la promoción y protección de los derechos humanos, tomando en cuenta el contexto político y social actual, así como el de los grupos que se encuentran en situación de vulnerabilidad;
+II.Formación Básica: que abordará entre otras cosas los aspectos teóricos y prácticos más importantes de los instrumentos jurídicos y de los mecanismos de garantía, a nivel nacional e internacional, para la promoción y protección de los derechos humanos, tomando en cuenta el contexto político y social actual, así como los sistemas de protección y atención a las víctimas;
 
-III. Formación Profesional: que está vinculada con los programas específicos que desarrolla la Comisión a través de la profundización del aprendizaje teórico y práctico en temas relevantes, para las áreas de Defensa, Promoción y Estudio, con el propósito de lograr el fortalecimiento institucional y un mejor servicio para el público usuario;
+III. Formación Profesional: que será un nivel en donde se profundizará entre otras cosas sobre los conocimientos relacionados con la protección de los derechos humanos en el ámbito nacional e internacional en aspectos que podrán vincularse con la investigación de violaciones a los mismos; las herramientas metodológicas para la argumentación e interpretación jurídica en asuntos relacionados con los derechos humanos, así como aspectos vinculados con las políticas públicas en la materia;
 
-IV. Formación Especializada: que será el nivel superior de adquisición de conocimientos al enfocarse a la especialización del Personal Profesional en la defensa, la promoción y el estudio de los derechos humanos; y
+IV. Formación Especializada: que está vinculada con los programas específicos que desarrolla la Comisión a través de la profundización del aprendizaje teórico y práctico en temas relevantes, para las áreas de Defensa, Promoción y Estudio, con el propósito de lograr el fortalecimiento institucional y un mejor servicio para el público usuario, y
 
-V. Actualización Permanente: que se compondrá de cursos y actividades de formación destinadas a mantener vigentes los conocimientos adquiridos por el Personal Profesional. Esta fase podrá consistir, en su caso, además de lo anterior, de un sistema de intercambio con instituciones gubernamentales y organizaciones civiles de defensa de los derechos humanos, así como con instituciones académicas, nacionales e internacionales, al que podrá inscribirse el Personal Profesional que haya acreditado las fases anteriores.
+V. Actualización Permanente: que se compondrá de clínicas de estudio, cursos, talleres y actividades de formación destinadas a mantener vigentes los conocimientos adquiridos por el Personal Profesional. Esta fase podrá consistir, en su caso, además de lo anterior, de un sistema de intercambio con instituciones gubernamentales y organizaciones civiles de defensa de los derechos humanos, así como con instituciones académicas, nacionales e internacionales, al que podrá inscribirse el Personal Profesional que haya acreditado las fases anteriores.
 
 ###### Artículo 39o.
 
@@ -492,39 +506,93 @@ Las calificaciones obtenidas por el Personal Profesional en los exámenes de con
 
 El proceso de la evaluación del desempeño es el sistema de valoración de la actuación de un Miembro del Servicio en su cargo y puesto, así como de su desarrollo y comprende un conjunto de normas y procedimientos diseñados para tal fin.
 
-La evaluación del desempeño se realiza al término de cada ejercicio fiscal, está destinada a medir los factores siguientes: calidad, eficiencia o rendimiento, responsabilidad y organización del trabajo, mediante la valoración de los indicadores correspondientes según está delineado en este Estatuto y en el Manual, e incorporados en la Evaluación Anual del Desempeño del Personal Profesional y abarca el periodo del 1 de enero al 31 de diciembre, considerando la fecha de ingreso del Miembro del Servicio, en los términos siguientes:
+> <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2010)</small>
 
-I. Corresponde al superior jerárquico inmediato conforme al Catálogo evaluar y calificar el desempeño laboral de los Miembros del Servicio bajo su dirección o a quien ejerza la supervisión directa del personal que deba ser calificado;
+La evaluación del desempeño se realizará al término de cada ejercicio fiscal y estará destinada a medir:
 
-II. Los responsables de evaluar y calificar el desempeño laboral del Personal Profesional tienen la obligación de hacerlo dentro de los quince días hábiles posteriores al término del ejercicio fiscal, por calificar;
+I. Las metas alcanzadas en función de los indicadores de eficacia y eficiencia mediante la valoración de los indicadores correspondientes según está delineado en este Estatuto y en el Manual;
 
-III. En caso que el responsable de evaluar se retire de su empleo por cualquier circunstancia, tiene la responsabilidad de evaluar y calificar el desempeño laboral del Personal Profesional a su cargo, antes de su separación;
+II. Los comportamientos desarrollados para el logro de las metas de conformidad con las disposiciones aplicables del presente Estatuto y el Manual.
 
-IV. La evaluación del desempeño se realizará mediante cédulas especiales, diseñadas por la Dirección General y permitirán valorar los factores o dimensiones del trabajo realizado por el Personal Profesional, conforme se establezca en el Manual;
+> <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2010)</small>
 
-> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2008)</small>
+La Evaluación Anual del Desempeño abarcará el periodo comprendido entre el 1º de enero y 31 de diciembre de cada año. Excepcionalmente, y sólo por circunstancias previstas en el presente Estatuto así como en el Manual el período antes referido podrá ser menor.
 
-V. La o el evaluador será responsable de documentar y registrar todos aquellos elementos que le permitan sustentar la evaluación del desempeño de la o el Miembro del Servicio; a su vez, podrá realizar al menos ejercicios semestrales de retroalimentación con la persona evaluada, a fin de clarificar los criterios de su evaluación y darle a conocer el avance de su desempeño en el periodo;
+> <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2010)</small>
+
+Con el propósito de asegurar la certeza en el proceso, sólo podrá evaluarse a aquellas personas que hayan suscrito un acuerdo de desempeño en los términos establecidos en el presente Estatuto así como el Manual.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 23 DE DICIEMBRE DE 2010)</small>
+
+La Evaluación Anual del Desempeño se realizará en los términos siguientes:
+
+> <small>(REFORMADA, G.O. 23 DE DICIEMBRE DE 2010)</small>
+
+I. Corresponde al superior jerárquico inmediato conforme al Catálogo o a quien ejerza la supervisión directa del personal que deba ser calificado; evaluar y calificar las metas alcanzadas relativas al desempeño laboral de los Miembros del Servicio bajo su dirección.
+
+Los comportamientos asignados a cada Miembro del Servicio Profesional, de conformidad con el acuerdo de desempeño suscrito entre el evaluado, evaluador y/o titular, serán estimados de conformidad con las disposiciones establecidas en el presente Estatuto y el Manual;
+
+> <small>(REFORMADA, G.O. 23 DE DICIEMBRE DE 2010)</small>
+
+II. Los responsables de evaluar y calificar el desempeño laboral del Personal Profesional, tienen la obligación de hacerlo dentro de los treinta días hábiles posteriores al término del ejercicio fiscal por calificar.
+
+Tanto evaluados como evaluadores deberán elaborar, a lo largo del período a evaluar, una bitácora de evidencias que permitan convalidar el cumplimiento de las metas de cada miembro del servicio, en los términos establecidos por el presente ordenamiento así como por el Manual;
+
+> <small>(REFORMADA, G.O. 23 DE DICIEMBRE DE 2010)</small>
+
+III. En caso que el responsable de la evaluación de las metas se retire de su empleo por cualquier circunstancia, tendrá la responsabilidad de integrar, suscribir y entregar al titular del área la bitácora de evidencias que acredite el desempeño laboral del Personal Profesional a su cargo, antes de su separación.
+
+A partir del momento de la separación del responsable de la evaluación, el cumplimiento del acuerdo del desempeño será responsabilidad del superior jerárquico inmediato del evaluado, quien a partir de la bitácora de evidencias, así como de la verificación del cumplimiento del acuerdo del desempeño, determinará la calificación definitiva del evaluado.
+
+Todo acuerdo del desempeño tendrá vigencia durante el año de su aplicación, no obstante podrá ser modificado de común acuerdo por evaluados, evaluadores y la o el titular del área, de conformidad con las disposiciones del presente Estatuto y el Manual.
+
+No limitará los efectos del acuerdo del desempeño, el que la persona que evalúe no sea la misma que lo suscribió.
+
+> <small>(REFORMADA, G.O. 23 DE DICIEMBRE DE 2010)</small>
+
+IV. La Evaluación del Desempeño se realizará mediante la elaboración de cédulas especiales, diseñadas por la Dirección General de Educación con base en los acuerdos del desempeño.
+
+El acuerdo del desempeño es el instrumento metodológico que permite definir las metas y comportamientos que serán objeto de la Evaluación del Desempeño y brinda certeza jurídica al proceso.
+
+El presente Estatuto y el Manual definirán los elementos y requisitos que deberá contener el acuerdo de desempeño.
+
+> <small>(REFORMADA, G.O. 23 DE DICIEMBRE DE 2010)</small>
+
+V. La o el evaluador y la o el evaluado serán corresponsables de documentar y registrar, en la Bitácora del desempeño, todos aquellos elementos que permitan sustentar la evaluación del desempeño de la o el Miembro del Servicio.
+
+La Bitácora de Desempeño es el conjunto de archivos, impresos o electrónicos, comentarios y observaciones que pueden servir de evidencia sobre el cumplimiento de las acciones programadas.
+
+Con la finalidad de facilitar la elaboración de la Bitácora del Desempeño, la Dirección General de Educación facilitará a las y los titulares y miembros del Servicio Profesional el formato o formatos aprobados.
+
+No obstante lo anterior, el Personal Profesional podrá someter a consideración de su evaluador y/o del titular, la incorporación de formatos especiales para acreditar el cumplimiento de alguna meta; de aprobarse dicho formato se integrará a la bitácora de evidencias, glosándose además la documentación que avale el cumplimiento de la misma;
+
+> <small>(REFORMADA, G.O. 12 DE DICIEMBRE DE 2007)</small>
 
 VI. La elaboración de los indicadores que servirán para evaluar los factores de desempeño señalados se basará en las definiciones que aparecen en el Manual;
 
+> <small>(REFORMADA, G.O. 12 DE DICIEMBRE DE 2007)</small>
+
 VII. Como parte de los procedimientos de evaluación, se incluirán indicadores que permitan obtener información sobre la forma en que los evaluadores realizaron sus tareas de evaluación.
+
+> <small>(REFORMADO, G.O. 23 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 45o.
 
-La Evaluación Anual del Desempeño del Personal Profesional establecerá los indicadores y las ponderaciones que se definirán cada año para evaluar los factores referidos en el artículo 44o., así como los instrumentos específicos para realizar dicha evaluación. El Manual establecerá las modalidades y los procedimientos a los que se sujetará la evaluación del desempeño.
+Los acuerdos de desempeño de la Evaluación Anual del Desempeño del Personal Profesional establecerán las metas y comportamientos que se definirán cada año para evaluar los factores referidos en el artículo 44o. El Manual establecerá las modalidades y los procedimientos a los que se sujetará la evaluación del desempeño.
 
-> <small>(REFORMADO, G.O. 12 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, G.O. 23 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 46o.
 
-La Dirección General será la responsable de difundir, con antelación al ejercicio fiscal correspondiente, las normas y procedimientos aprobados, en materia de evaluación anual del desempeño de los miembros del Servicio Profesional.
+La Dirección General de Educación será la responsable de difundir, con antelación al ejercicio fiscal correspondiente, las normas y procedimientos aprobados, en materia de evaluación anual del desempeño de las y los miembros del Servicio Profesional.
 
-> <small>(REFORMADO, G.O. 12 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, G.O. 23 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 47o.
 
-Conforme a las modalidades establecidas en el Manual, los indicadores podrán ser revisados y ajustados durante el ejercicio anual, cuando así lo exijan las necesidades del Servicio y se informe previamente a su aplicación al Personal Profesional cuya evaluación resultará afectada.
+Conforme a las modalidades establecidas en el Manual, se deberá realizar al menos un ejercicio de evaluación en carácter de retroalimentación entre la o el evaluador y la persona evaluada al finalizar el primer semestre del año y otro al finalizar el mismo, a fin de revisar el grado de cumplimiento del acuerdo del desempeño, y cuando así lo exijan las necesidades del Servicio proceder a su revisión, en los términos establecidos en el presente Estatuto y el Manual.
+
+La realización de este ejercicio no tiene por objeto la determinación de una calificación anticipada, sino solamente analizar el grado de cumplimiento del acuerdo de desempeño.
 
 ###### Artículo 48o.
 
@@ -540,11 +608,15 @@ En caso de que un Miembro del Servicio realice aportaciones institucionales extr
 
 El Manual establecerá las modalidades y los términos para que el Personal Profesional pueda solicitar la revisión por los resultados obtenidos en la evaluación del desempeño; y se garantizará una respuesta sobre dicha revisión.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 23 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 51o.
 
-El proceso de evaluación del desempeño brindará información a la Dirección General, a la Dirección Ejecutiva, al Presidente y al Consejo para:
+El proceso de evaluación del desempeño generará información a la Dirección General de Educación, al Presidente y al Consejo para:
 
-I. Determinar, en su caso, el otorgamiento de estímulos al desempeño destacado del Personal Profesional, los cuales serán establecidos por la Dirección General en acuerdo con el Presidente;
+> <small>(REFORMADA, G.O. 23 DE DICIEMBRE DE 2010)</small>
+
+I. Determinar, en su caso, el otorgamiento de estímulos al desempeño destacado del Personal Profesional, los cuales serán establecidos por la Dirección General de Educación en acuerdo con el Presidente;
 
 II. Aportar información para mejorar el desempeño general de la Comisión en el cumplimiento de cada uno de los programas institucionales;
 
@@ -558,11 +630,11 @@ V. Identificar medidas institucionales correctivas, de conformidad con las neces
 
 VI. Otros fines institucionales.
 
-> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, G.O. 23 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 52o.
 
-El Personal Profesional que haya obtenido los cinco resultados más altos al considerar las calificaciones obtenidas tanto en el proceso de evaluación del desempeño como en los exámenes de conocimientos del Programa, los cuales deberán haberse acreditado en la primera oportunidad, recibirá incentivos anuales, en función de la disponibilidad presupuestal de la Comisión, previa autorización de la Dirección General, quién emitirá un dictamen fundado y motivado.
+El Personal Profesional que haya obtenido los cinco resultados más altos al considerar las calificaciones obtenidas tanto en el proceso de evaluación del desempeño como en los exámenes de conocimientos del Programa, los cuales deberán haberse acreditado en la primera oportunidad, recibirá incentivos anuales, en función de la disponibilidad presupuestal de la Comisión, previa autorización de la Dirección General de Educación, quién emitirá un dictamen fundado y motivado, tomando en consideración la opinión de Administración.
 
 ### CAPÍTULO CUARTO. Incentivos
 
@@ -983,3 +1055,9 @@ G.O. 31 DE DICIEMBRE DE 2008.
 Artículo primero. Las reformas y adiciones que se contienen en el Acuerdo del Consejo de la Comisión de Derechos Humanos del Distrito Federal, aprobado en sesión ordinaria de fecha 12 de diciembre de 2008, entrarán en vigor al día hábil siguiente de su publicación en la Gaceta Oficial del Distrito Federal, derogando las disposiciones que las contravengan.
 
 Artículo segundo. Los procedimientos del Servicio Profesional en Derechos Humanos que se hayan iniciado conforme a las disposiciones del Estatuto del Servicio Profesional en Derechos Humanos y Manual de Procedimientos Específicos del Servicio Profesional en Derechos Humanos que se reforman y adicionan, deberán continuar sustanciándose hasta su conclusión, de conformidad con los preceptos de dicho ordenamiento legal.
+
+G.O. 23 DE DICIEMBRE DE 2010.
+
+SE TRANSCRIBE UNICAMENTE EL PUNTO DEL ACUERDO QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.
+
+SEGUNDO.- El presente Acuerdo entrará en vigor al siguiente día hábil de su publicación en la Gaceta Oficial del Distrito Federal, derogándose todas aquellas disposiciones del Estatuto del Servicio Profesional en Derechos Humanos de la Comisión de Derechos Humanos del Distrito Federal y de su Manual de Procedimientos Específicos que contravengan el presente Acuerdo.
