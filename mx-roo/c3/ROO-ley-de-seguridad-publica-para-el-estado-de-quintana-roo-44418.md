@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-seguridad-publica-para-el-estado-de-quintana-roo-44418"
 country: "mx"
 rank: "ley"
 publication_date: "2005-03-28"
-last_updated: "2007-11-27"
+last_updated: "2010-12-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44418&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE NOVIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 28 de marzo de 2005.
 
@@ -140,6 +140,64 @@ VIII. Director del Centro de Observación y Diagnóstico para Menores Infractore
 IX. El Director del Instituto de Profesionalización de la Seguridad Pública; y
 
 X. Las demás que determinen con ese carácter, otras disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 12
+
+BIS.- Es de interés público proteger la integridad física de los servidores públicos del Poder Ejecutivo del Estado que lo requieran en razón de la naturaleza propia de su encomienda, esto en razón de que generen o hayan generado políticas y acciones públicas en contra de los infractores de la ley, durante el ejercicio del encargo, así como una vez concluido el mismo; para tal efecto se constituye el servicio público de escolta.
+
+El servicio público de escolta será una unidad administrativa de la Secretaría de Seguridad Pública.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 12
+
+TER.- El servicio público de escolta tiene como finalidad proveer la protección que se indica en el artículo que antecede; la organización y funcionamiento del mismo se preverá en el reglamento respectivo que al efecto se expida, atendiendo las disposiciones que se contemplan en la presente ley.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 12
+
+QUÁTER.- En el presupuesto del Poder Ejecutivo se contemplarán los recursos pertinentes para proveer al servicio público de escolta de todo lo necesario para desempeñar correctamente la función asignada.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 12
+
+QUINQUIES.- El servicio público de escolta tendrá dos órganos de decisión respecto del otorgamiento de la protección a servidores y ex servidores públicos: El Comité de Autorización de Escoltas a Servidores Públicos, y el Comité de Autorización de Escoltas a Ex Servidores Públicos.
+
+El Comité de Autorización de Escoltas para Servidores Públicos que se encuentren en funciones se integra con el Secretario de Gobierno, el Secretario de Seguridad Pública y el Procurador General de Justicia de la entidad, presidiendo el primero.
+
+El Comité de Autorización de Escoltas para Ex Servidores Públicos se integra con el Secretario de Gobierno, Secretario de Hacienda y el Oficial Mayor del Gobierno del Estado, presidiendo el primero. Concurren solamente con voz al Comité referido, el Secretario de Seguridad Pública y el Procurador General de Justicia.
+
+En todos los casos, la petición de los interesados para solicitar la protección por medio del servicio público de escolta se deberá dirigir al Comité correspondiente y, para otorgarse, se requerirá al menos el voto mayoritario de los integrantes del respectivo comité.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 12
+
+SEXIES.- El Gobernador del Estado tendrá derecho a continuar con la protección, de manera automática, una vez que haya concluido el encargo.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 12
+
+SEPTIES.- Tendrá derecho a continuar con la protección, cualquier otro ex servidor público del Poder Ejecutivo que, en razón de los servicios prestados en materia de seguridad pública, procuración de justicia o en la Secretaría de Gobierno que por sus funciones estrechamente vinculadas a los servicios citados anteriormente, dentro de la administración pública del Estado y que tenga la necesidad de ser protegido, previa solicitud que formule al Comité de Autorización respectivo, a más tardar en los quince días naturales posteriores a la conclusión del encargo. Se procederá en los mismos términos, en tratándose del cónyuge e hijos del ex servidor público mencionado en el artículo que precede.
+
+La respuesta, y en su caso, el otorgamiento de la protección, deberá producirse dentro de las 48 horas siguientes a la recepción de la solicitud de mérito.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 12
+
+OCTlES.- Los ex servidores públicos para gozar del servicio público de escolta requieren haber desempeñado el cargo durante dos años como mínimo. La protección se otorgará por un tiempo igual al que se estuvo en funciones, prorrogable por un máximo de dos períodos iguales, en tanto subsista la necesidad.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 12
+
+NONIES.- El número de personal, equipo, vehículos y demás instrumentos para la protección de los ex servidores públicos y, en su caso, de sus familiares, serán al menos la mitad de los que éstos contaban mientras desempeñaron el encargo.
 
 ###### Artículo 13.
 
@@ -1318,3 +1376,9 @@ N. DE E.: A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRET
 P.O. 27 DE NOVIEMBRE DE 2007.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Quintana Roo.
+
+P.O. 23 DE DICIEMBRE DE 2010.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, observando las disposiciones contenidas en el artículo siguiente.
+
+SEGUNDO.- El reglamento del servicio público de escolta deberá emitirse en un plazo de sesenta días contados a partir de la entrada en vigor del presente Decreto.
