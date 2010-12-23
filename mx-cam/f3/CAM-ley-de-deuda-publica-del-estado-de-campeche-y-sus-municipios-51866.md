@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-deuda-publica-del-estado-de-campeche-y-sus-municipios-51
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-19"
-last_updated: "2010-10-18"
+last_updated: "2010-12-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51866&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE DEUDA PUBLICA DEL ESTADO DE CAMPECHE Y SUS MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE OCTUBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el martes 19 de septiembre de 2006.
 
@@ -147,9 +147,13 @@ VI. Autorizar a los entes públicos la contratación de créditos o empréstitos
 
 VII. Vigilar que los recursos obtenidos en las operaciones a que se refiere esta Ley sean destinados a las inversiones públicas productivas objeto del financiamiento;
 
-VIII. Autorizar a la Secretaría de Finanzas y Administración y a los Ayuntamientos, como únicos entes públicos facultados, para que en representación del Estado y de los Municipios, respectivamente, constituyan fideicomisos de administración y pago de garantía o cualquier otro mecanismo de pago que tenga como propósito otorgar como fuente de pago de empréstitos o créditos a las participaciones federales, derechos al cobro e ingresos derivados de cuotas, derechos, productos o cualquier otro ingreso federal o local de los que puedan disponer, de conformidad con la legislación aplicable u otro Ingreso propio que corresponda al Estado ó a los Municipios, siempre que el crédito o empréstito sea mayor al autorizado en el artículo 8; y
+VIII. Autorizar a la Secretaría de Finanzas y Administración y a los Ayuntamientos, como únicos entes públicos facultados, para que en representación del Estado y de los Municipios, respectivamente, constituyan fideicomisos de administración y pago de garantía o cualquier otro mecanismo de pago que tenga como propósito otorgar como fuente de pago de empréstitos o créditos a las participaciones federales, derechos al cobro e ingresos derivados de cuotas, derechos, productos o cualquier otro ingreso federal o local de los que puedan disponer, de conformidad con la legislación aplicable u otro Ingreso propio que corresponda al Estado ó a los Municipios, siempre que el crédito o empréstito sea mayor al autorizado en el artículo 8; y (sic)
 
-IX. Autorizar la contratación de financiamientos a dos o más Municipios, bajo el amparo de una línea de crédito global, o en su caso, la emisión conjunta de valores entre dos o más Municipios, las cuales serán negociadas y gestionadas por sus respectivos Ayuntamientos con la asesoría de la Secretaría de Finanzas y Administración.
+IX. Autorizar la contratación de financiamientos a dos o más Municipios, bajo el amparo de una línea de crédito global, o en su caso, la emisión conjunta de valores entre dos o más Municipios, las cuales serán negociadas y gestionadas por sus respectivos Ayuntamientos con la asesoría de la Secretaría de Finanzas y Administración;
+
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2010)</small>
+
+X. Autorizar, a las entidades paraestatales y paramunicipales, la afectación del derecho al cobro o los ingresos que integran su patrimonio, de los que puedan disponer de conformidad con la legislación aplicable, cuando dicha afectación tenga por finalidad ser fuente de pago o garantía de la deuda pública a su cargo, a través de fideicomisos, mandatos o cualquier otro mecanismo que autorice al H. Congreso para tales efectos.
 
 ###### Artículo 12.
 
@@ -207,6 +211,10 @@ XIV. Obtener dos calificaciones crediticias para determinar los factores de pond
 
 La Secretaría de Finanzas y Administración sólo podrá autorizar o contratar empréstitos, créditos u operaciones financieras y, en su caso, otorgar la garantía del Estado, cuando estén contenidos en el Programa Financiero Estatal, salvo las excepciones previstas por esta Ley.
 
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2010)</small>
+
+La garantía de Estado respecto de las operaciones de deuda de sus entidades paraestatales podrá consistir en el otorgamiento de avales, la asunción de obligaciones como deudor solidario o subsidiario o cualquiera otra que autorice el Congreso del Estado pudiendo afectar, como fuente de pago o garantía de las mismas, los derechos o ingresos a que se refiere el artículo 11, fracción VIII de esta Ley.
+
 ###### Artículo 16.
 
 A los Ayuntamientos corresponde:
@@ -237,6 +245,10 @@ X. Obtener dos calificaciones crediticias para determinar los factores de ponder
 
 Las dependencias de la Administración Pública Estatal únicamente podrán contratar empréstitos a través de la Secretaría de Finanzas y Administración. Las entidades paraestatales quedan facultadas para contratar directamente esos empréstitos, pero requerirán de la previa autorización de dicha Secretaría.
 
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2010)</small>
+
+Las entidades paraestatales para la contratación de créditos o empréstitos deberán contar con la autorización de su junta de gobierno, consejo de administración o comité técnico, según corresponda.
+
 ###### Artículo 18.
 
 Los empréstitos o créditos que contraten los entes públicos estatales, así como las garantías que el Estado otorgue, deberán estar incluidos en el Programa Financiero Estatal, excepto el caso previsto en el artículo 12 de esta Ley, los cuales deben especificar:
@@ -254,6 +266,12 @@ V. El monto de las partidas que se destinará en el año para el pago del servic
 VI. Las garantías que se ofrecerán; y,
 
 VII. La información relativa al estado que guarda su deuda pública.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 18 Bis.
+
+Los entes públicos a que se refiere el artículo 2 de esta Ley podrán celebrar convenios para otorgarse transferencias o financiamientos entre sí. En el caso de financiamientos, éstos se llevarán a cabo siempre y cuando se restituya su importe y el respectivo costo financiero.
 
 ###### Artículo 19.
 
@@ -428,3 +446,9 @@ P.O. 18 DE OCTUBRE DE 2010.
 PRIMERO: El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO: Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal en lo que se opongan al contenido de este decreto.
+
+P.O. 23 DE DICIEMBRE DE 2010.
+
+Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones legales y reglamentarias que se opongan a lo dispuesto en el presente decreto.
