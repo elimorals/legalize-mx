@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-legislativo-del-estado-de-jalisco-37204"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-02-07"
-last_updated: "2010-12-09"
+last_updated: "2010-12-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37204&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 2010.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Jalisco, el sábado 7 de febrero de 2004.
 
@@ -2487,11 +2487,17 @@ III. Aprobar una resolución referente a las facultades del Congreso del Estado 
 
 ###### Artículo 152.
 
-1. La iniciativa de acuerdo legislativo tiene carácter de dictamen por lo que no se turna a comisiones. Una vez presentada se agenda en el punto correspondiente de acuerdos legislativos, según el orden del día aprobado, y se discute en esa misma sesión.
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2010)</small>
 
-2. La iniciativa de acuerdo legislativo debe presentarse por escrito con copias para que se distribuya entre los diputados. El autor de la iniciativa puede leer el acuerdo legislativo o exponer una síntesis de su contenido.
+1. La iniciativa de acuerdo legislativo tiene carácter de dictamen, por lo que no se turna a comisiones. Una vez presentada, se agenda en el punto correspondiente de acuerdos legislativos de la siguiente sesión.
 
-3. Cuando así lo determina la mayoría de los diputados, porque se requiere mayor tiempo para su estudio, la iniciativa de acuerdo legislativo es agendada para sesión subsecuente. En tal caso debe existir al menos un día y a lo sumo quince días naturales entre ambas sesiones.
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2010)</small>
+
+2. La iniciativa de acuerdo legislativo debe presentarse por escrito y por medio electrónico. El autor de la iniciativa puede leer el acuerdo legislativo o exponer una síntesis de su contenido.
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2010)</small>
+
+3. Cuando así lo determine la asamblea por mayoría, en caso de urgencia o por trascendencia de la iniciativa de acuerdo legislativo, ésta puede ser agendada y discutida en la misma sesión en la que se presenta.
 
 4. Cuando así lo determine la Asamblea por mayoría, la iniciativa de acuerdo legislativo puede ser turnada a comisiones.
 
@@ -3914,5 +3920,9 @@ DECRETO NUMERO 23178/LIX/10, POR EL QUE SE REFORMA DE LA FRACCION VI DEL ARTICUL
 P.O. 9 DE DICIEMBRE DE 2010.
 
 NUMERO 23180/LIX/10, POR EL QUE SE MODIFICA Y ADICIONA UNA FRACCION XIV RECORRIENDOSE EL TEXTO EN SU ORDEN, AL ARTICULO 22 DE LA LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 23 DE DICIEMBRE DE 2010.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
