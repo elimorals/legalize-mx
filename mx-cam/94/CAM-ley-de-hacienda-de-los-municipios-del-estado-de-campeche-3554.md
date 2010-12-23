@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-hacienda-de-los-municipios-del-estado-de-campeche-3554"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-04"
-last_updated: "2005-12-27"
+last_updated: "2010-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3554&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el sábado 4 de diciembre de 1993.
 
@@ -833,6 +833,8 @@ Los administradores o encargados de los rastros públicos municipales o lugares 
 
 Este derecho se causará y pagará de acuerdo a la siguiente:
 
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2010)</small>
+
 T A R I F A
 
 C O N C E P T O
@@ -841,55 +843,67 @@ GRUPO I GRUPO 2 GRUPO 3
 
 I.- Uso de rastro municipal para sacrificios de semovientes (por cabeza)
 
-A.- Ganado vacuno
+A.- Ganado Vacuno
 
-N$ 33.00 N$ 15.00 N$ 13.00
+$ 150.00 $ 15.00 $ 13.00
 
-B.- Ganado porcino
+B.- Ganado Porcino
 
-N$ 20.00 N$ 12.00 N$ 7.00
+$ 50.00 $ 12.00 $ 7.00
 
 C.- Ganado caprino, equino y bovino
 
-N$ 8.00 N$ 8.00 N$ 7.00
+$ 40.00 $ 8.00 $ 7.00
 
 II.- Sacrificio de aves (por cabeza)
 
-N$ 0.25 N$ 0.20 N$ 0.20
+$ 0.25 $ 0.20 $ 0.20
 
 III.- Por sacrificio de otras especies (por cabeza)
 
-N$ 0.35 N$ 0.25 N$ 0.20
+$ 0.35 $ 0.25 $ 0.20
 
 IV.- Servicios de corrales (por cabeza por día)
 
 A.- Ganado vacuno
 
-N$ 3.00 N$ 2.00 N$ 2.00
+$ 20.00 $ 2.00 $ 2.00
 
 B.- Ganado porcino
 
-N$ 1.00 N$ 1.00 N$ 1.00
+$ 15.00 $ 1.00 $ 1.00
 
 C.- Ganado caprino, equino y bovino
 
-N$ 0.50 N$ 0.30 N$ 0.20
+$ 10.50 $ 0.30 $ 0.20
 
-V.- Por uso de refrigeración
+V.- Por uso de refrigeración por día
 
-N$ 5.00 $ 4.00
+$ 40.00 $ 4.00
 
 VI.- Por uso de báscula
 
-N$ 3.00 N$ 5.00
+$ 10.00 $ 5.00
 
 VII.- Por aseo de panzas
 
-N$ 2.00 N$ 1.00
+$ 50.00 $ 1.00
 
 VIII.- Por aseo de patas
 
-N$ 1.00 N$ 1.00
+$ 20.00 $ 1.00
+
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2010)</small>
+
+IX.- Los servicios por transporte de semovientes en vehículos propiedad del ayuntamiento
+
+A. Res
+
+$ 80.00
+
+B. Cerdo y otros
+
+$ 40.00
 
 ###### ARTICULO 76.
 
@@ -1365,6 +1379,40 @@ IX.- Por los demás certificados, certificaciones y constancias
 
 1.00 1.00 1.00
 
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2010)</small>
+
+ARTICULO 112 bis.- Tratándose de los servicios a que se refiere la Ley de Transparencia y Acceso a la Información Pública del Estado de Campeche, se apegarán derechos conforme a las cuotas que para cada caso se señala, salvo en aquellos casos que expresamente se establezcan excepciones.
+
+Concepto Salario Mínimo General
+
+Diario Vigente en el Estado
+
+I.- Por expedición de copias certificadas, constancias y cualesquiera otra certificación de documentos que expidan los entes públicos.
+
+a) Por la primera hoja. 1.50
+
+b) Por las hojas subsecuentes, cada una. 0.10
+
+II.- Por expedición de copias simple, cada hoja. 0.07
+
+III.- Por reproducción de copias en medios electrónicos.
+
+a) Disco magnético y CD, por cada uno. 0.91
+
+b) DVD, por cada uno. 1.82
+
+Si el interesado aporta el medio magnético en el que será almacenada la información, la reproducción será sin costo. Lo anterior queda sujeto a la compatibilidad del medio magnético que aporte el solicitante y el equipo de reproducción o grabación con que cuente el ente público.
+
+IV.- Por conceptos de costos de envío.
+
+a) Dentro del Estado. 3.00
+
+b) Fuera del Estado, pero dentro del territorio nacional. 7.00
+
+No se cobraran costos de envío cuando el solicitante manifieste expresamente en su solicitud que se presentará personalmente a recoger la información solicitada.
+
+El pago de estos derechos deberán ser cubiertos en las oficinas recaudadoras del Ayuntamiento de Campeche o ante las instituciones de crédito autorizadas, las que expedirán el comprobante correspondiente, mismo que deberá ser presentado ante la autoridad respectiva, previo a la obtención del servicio.
+
 ###### ARTICULO 113.
 
 Para lo no previsto en este capítulo, se estará a lo dispuesto en el Reglamento de Construcciones para el Municipio y la Ley de Catastro del Estado, en vigor.
@@ -1501,15 +1549,33 @@ T A R I F A
 
 I.- PANTEONES MUNICIPALES
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2010)</small>
+
 G R U P O 1
 
 A.- En los panteones de:
 
-San Román Sta. Lucía Samulá Lerma
+1. Bóveda por cincs años
 
-1.- Fosa común por tres años
+SAN ROMÁN SANTA LUCÍA SAMULÁ LERMA SIGLO XXI
 
-N$ 150.00 N$ 150.00 N$ 150.00 N$ 150.00
+35 a 50 35 a 50 35 a 50 35 a 50 35 a 50
+
+VSM VSM VSM VSM VSM
+
+2. Cripta por cinco años
+
+35 a 50 35 a 50 35 a 50 35 a 50 35 a 50
+
+VSM VSM VSM VSM VSM
+
+3. Por metra cuadrado por cinco años
+
+20 20 20 20 20
+
+VSM VSM VSM VSM VSM
+
+Se causarán y pagarán estos derecho de acuerdo al número de veces el salario mínimo diario vigente en el Estado
 
 B.- En los panteones del interior del Municipio:
 
@@ -1663,11 +1729,13 @@ V.- Por hora
 
 Asimismo, por el uso de baños públicos, administrados por los Ayuntamientos se pagará la siguiente:
 
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2010)</small>
+
 T A R I FA
 
 GRUPO 1 GRUPO 2 GRUPO 3
 
-$ 1.00
+$ 1 A 5
 
 ###### ARTICULO 123.
 
@@ -1904,3 +1972,9 @@ P.O. 27 DE DICIEMBRE DE 2005.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas aquellas disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
+
+P.O. 23 DE DICIEMBRE DE 2010.
+
+PRIMERO.- El presente decreto entrará en vigor el día primero de enero del año dos mil once, previa publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
