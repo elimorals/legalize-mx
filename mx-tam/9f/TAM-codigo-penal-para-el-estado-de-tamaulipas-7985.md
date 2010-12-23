@@ -4,7 +4,7 @@ identifier: "TAM-codigo-penal-para-el-estado-de-tamaulipas-7985"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-20"
-last_updated: "2010-12-16"
+last_updated: "2010-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7985&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO PENAL PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 2010.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 20 de diciembre de 1986.
 
@@ -581,7 +581,7 @@ Quienes cumplan prisión intermitente, en los periodos que deban internarse perm
 
 II.- El trabajo en favor de la comunidad, que consiste en la prestación de servicios no remunerados, en instituciones públicas o privadas, si estas últimas son asistenciales, educativas o no lucrativas. Sin perjuicio de las facultades del juez, este trabajo se llevará a cabo bajo la orientación y vigilancia de la dependencia del Ejecutivo encargada de la ejecución de la pena privativa de libertad, en jornadas distintas al horario de labores que represente la fuente de ingresos para la subsistencia del sentenciado y de su familia, sin exceder de la jornada extraordinaria que establece el artículo 66 de la Ley Federal del Trabajo.
 
-El trabajo en favor de la comunidad puede ser pena sustitutiva de la prisión o de la multa. Cada día de prisión será sustituida por una hora de trabajo a favor de la comunidad, de acuerdo a las jornadas que fije el juzgador, según las circunstancias del caso.
+El trabajo en favor de la comunidad puede ser pena sustitutiva de prisión o de la multa. Cada día de prisión será sustituida por una hora de trabajo a favor de la comunidad, de acuerdo a las jornadas que fije el juzgador, según las circunstancias del caso.
 
 Por ningún concepto se desarrollará este trabajo en forma que resulte degradante o humillante al condenado.
 
@@ -3585,13 +3585,37 @@ Si en la comisión del delito de filicidio participara un médico, partero o enf
 
 Comete el delito de aborto el que priva de la vida al producto de la concepción en cualquier momento de la preñez.
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 357.
 
-A la mujer que voluntariamente procure su aborto o consienta en que otro la haga abortar, se le impondrá una sanción de uno a cinco años de prisión.
+A la mujer que voluntariamente procure su aborto o consienta en que otro la haga abortar, se le impondrá una sanción de uno a cinco años de prisión, quedando facultado el juez para sustituirla por tratamiento médico integral, para lo cual sólo bastará que lo solicite y ratifique la responsable.
+
+El tratamiento referido en este precepto será provisto por las Instituciones de Salud del Estado y tendrá como objeto apoyar a las mujeres a superar los efectos causados como consecuencia del aborto provocado, así como reafirmar los valores humanos por la maternidad ayudando al fortalecimiento de la familia.
+
+No se concederá el beneficio de sustituir la sanción privativa de libertad por el de tratamiento médico integral, a la mujer que reincida en la comisión del delito de aborto.
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 358.
 
-Al que hiciere abortar a una mujer se le impondrá una sanción de uno a cinco años de prisión, siempre que lo haga con el consentimiento de ella. Cuando falte el consentimiento, la prisión será de tres a seis años y si mediare violencia física o moral se impondrán al autor de seis a ocho años de prisión.
+A la persona que provoque la muerte del producto de la concepción de una mujer embarazada, se le impondrán:
+
+I.- De cuatro a seis años de prisión, cuando provoque el aborto a solicitud o ruego de la mujer embarazada y sea mayor de edad;
+
+II.- De cuatro a ocho años de prisión, cuando provoque el aborto a solicitud o ruego de la mujer embarazada y ésta sea menor de edad o incapaz;
+
+III.- De cinco a siete años de prisión, cuando provoque el aborto sin el consentimiento expreso de la mujer embarazada y ésta sea mayor de edad;
+
+IV.- De seis a nueve años de prisión, cuando provoque el aborto sin el consentimiento de la mujer embarazada cuando sea menor de edad o incapaz;
+
+La persona que provoque el aborto, además de la pena privativa de libertad, tendrá la obligación de reparar los daños y perjuicios ocasionados, que incluyen la imposición específica de pagar los tratamientos curativos que, como consecuencia del delito, sean necesarios para la recuperación de la salud física, psíquica y emocional de la mujer embarazada a la que se haya provocado el aborto.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2010)</small>
+
+###### ARTICULO 358 Bis.
+
+Al cónyuge, concubino, pareja sentimental o familiar de la mujer embarazada que engañe, amenace o ejerza violencia física o moral contra ésta última, para que se provoque un aborto o permita que otro se lo provoque, se le impondrán de uno a cinco años de prisión.
 
 ###### ARTICULO 359.
 
@@ -3603,9 +3627,11 @@ II.- Que haya ocultado su embarazo; y
 
 III.- Que éste no sea resultado de unión matrimonial o concubinato.
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 360.
 
-Si el aborto lo causare un médico, partero o enfermero, además de la sanción que le corresponda conforme al artículo 358 se le suspenderá de dos a cinco años en el ejercicio de su profesión.
+Si el aborto lo causare un médico, partero o enfermero, además de la sanción que le corresponda conforme al Artículo 358, se le suspenderá de tres a seis años en el ejercicio de su profesión, técnica u oficio.
 
 ###### ARTICULO 361.
 
@@ -5224,6 +5250,12 @@ El presente Decreto entrará en vigor el 21 de agosto de 2012 y será publicado 
 ###### ARTICULO SEGUNDO.
 
 El Titular del Poder Ejecutivo establecerá en el Presupuesto de Egresos, los recursos necesarios para las acciones derivadas para el cumplimento del presente Decreto.
+
+P.O. 23 DE DICIEMBRE DE 2010.
+
+###### ARTÍCULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTICULO OCTAVO
 
