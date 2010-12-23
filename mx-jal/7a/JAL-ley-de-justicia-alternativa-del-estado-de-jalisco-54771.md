@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-justicia-alternativa-del-estado-de-jalisco-54771"
 country: "mx"
 rank: "ley"
 publication_date: "2007-01-30"
-last_updated: "2009-04-07"
+last_updated: "2010-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54771&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE JUSTICIA ALTERNATIVA DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE ABRIL DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 2010.
 
 Ley publicada en la Sección IX del Periódico Oficial del Estado de Jalisco, el martes 30 de enero de 2007.
 
@@ -125,7 +125,11 @@ IX. Protección a los más vulnerables: Los convenios finales se suscribirán ob
 
 X. Economía: Los prestadores del servicio procurarán ahorrar tiempo y gastos a las partes;
 
-XII (SIC). Inmediatez: El prestador del servicio tendrá conocimiento directo del conflicto y de las partes;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE DICIEMBRE DE 2010)</small>
+
+XI. Ejecutoriedad: Una vez sancionado y registrado el convenio en el Instituto, se podrá exigir su cumplimiento forzoso ante un juez de primera instancia en la vía y términos establecidos en el Código de Procedimientos Civiles del Estado;
+
+XII. Inmediatez: El prestador del servicio tendrá conocimiento directo del conflicto y de las partes;
 
 XIII. Informalidad: Estará ausente de las formas preestablecidas en los procedimientos jurisdiccionales, sujetándose únicamente a esta ley y la voluntad de las partes;
 
@@ -141,11 +145,9 @@ XV. Alternatividad: Procurará el conciliador proponer diversas soluciones al co
 
 Los métodos alternos serán aplicables a todos los asuntos del orden civil susceptibles de convenio o transacción. Cuando el procedimiento pueda afectar intereses de terceros, éstos deberán ser llamados para la salvaguarda de sus derechos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2010)</small>
 
-> <small>(REFORMADO [N. DE E. DEROGADO SEGUNDO PARRAFO], P.O. 29 DE ABRIL DE 2008)</small>
-
-En materia penal, no procederá el trámite del método alternativo, respecto a las siguientes conductas:
+En materia penal, no procederá el trámite del método alternativo respecto a las siguientes conductas, aun cuando éstas se cometan en grado de tentativa:
 
 I. Código Penal para el Estado Libre y Soberano de Jalisco:
 
@@ -287,6 +289,8 @@ En todos los casos el método alterno se aplicará siempre y cuando se trate de 
 
 Cuando el inculpado se encuentre privado de su libertad personal dentro del procedimiento penal, las invitaciones se le notificaran en el sitio donde se encuentre recluido.
 
+> <small>(F. DE E., P. O. 26 DE FEBRERO DE 2011)</small>
+
 El arbitraje procederá conforme a lo establecido en los códigos civil y de procedimientos civiles del Estado.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
@@ -305,11 +309,9 @@ Las partes tendrán los siguientes derechos:
 
 I. Tratándose de un centro privado, a elegir al prestador del servicio. En el caso de un centro público que preste servicios de solución de conflictos por métodos alternos, a que se les asigne uno de acuerdo al sistema que se tenga implementado;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2010)</small>
 
-> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2008)</small>
-
-II. Recusar con justa causa y sin causa por una sola ocasión al prestador del servicio que les haya sido designado por las mismas causas que se prevé para los jueces conforme al Código de Procedimientos Penales del estado de Jalisco;
+II. Recusar al prestador del servicio que les haya sido designado por las mismas causas que se prevén para los jueces, conforme al Código de Procedimientos que resulte aplicable según la materia sobre la que verse el método alternativo.
 
 III. Intervenir personalmente en todas y cada una de las sesiones, excepto en los casos en que acepten que el otro participante celebre sesiones individuales con el prestador del servicio;
 
@@ -351,9 +353,15 @@ V. Lo dispuesto en los Códigos Penal y de Procedimientos Penales del Estado de 
 
 VI. Ley Orgánica de la Procuraduría General de Justicia del Estado de Jalisco;
 
-VII. La jurisprudencia, los principios generales del derecho, los usos y costumbres aplicables; y
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2010)</small>
 
-VIII. El acuerdo voluntario entre los participantes.
+VII. Ley Orgánica de la Procuraduría Social del Estado de Jalisco;
+
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2010)</small>
+
+VIII. La Jurisprudencia, los principios generales del Derecho, los usos y costumbres aplicables, y
+
+IX. El acuerdo voluntario entre los participantes.
 
 ###### Artículo 9.
 
@@ -379,6 +387,10 @@ En caso, de que alguna de las partes se encuentre recluida, por la causa que se 
 
 Las autoridades que tengan a su cargo la custodia de alguna de las partes, deberán garantizar la seguridad y la confidencialidad de las audiencias.
 
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2010)</small>
+
+El procedimiento de mediación o conciliación puede darse por concluido en cualquier etapa hasta antes de la firma del convenio que se eleve a categoría de sentencia, por decisión de una de las partes o por ausencia injustificada de los interesados a las sesiones programadas.
+
 ### CAPÍTULO II. DE LOS PRESTADORES DEL SERVICIO DE JUSTICIA ALTERNATIVA
 
 ###### Artículo 12.
@@ -397,9 +409,13 @@ Los mediadores, conciliadores y árbitros que operen en las instituciones que pr
 
 Las cámaras empresariales, los colegios de profesionistas y los organismos estatal y municipales del Sistema (sic) Desarrollo Integral de la Familia, podrán funcionar como centros de resolución de conflictos a través de los medios alternos, en las áreas de su actividad, previa acreditación otorgada en los términos del artículo 13, salvo aquellos que tengan dichas facultades por disposición de la ley.
 
-> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2009)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2010)</small>
 
-La Secretaría General de Gobierno en materia notarial, la Procuraduría General de Justicia del Estado, la Procuraduría Social y demás autoridades que por disposición legal tengan atribuciones para ello, podrán desempeñar las funciones de mediación o conciliación conforme a lo previsto en la presente ley y demás disposiciones aplicables, sin requerir acreditación ante el Instituto para ejercerlas.
+La Secretaría General de Gobierno, la Procuraduría General de Justicia del Estado, la Procuraduría Social y demás autoridades que por disposición legal tengan atribuciones para ello, podrán desempeñar las funciones de mediación o conciliación conforme a lo previsto en la presente ley y demás disposiciones aplicables, sin requerir la certificación ni las acreditaciones a que se refiere la presente ley.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2010)</small>
+
+Todas las personas acreditadas como centros de resolución de conflictos, a través de los medios alternos, invariablemente deberán dar cuenta al Instituto de los convenios que realicen para su sanción y registro.
 
 ###### Artículo 16.
 
@@ -423,9 +439,11 @@ VII. Pagar los derechos correspondientes en los términos de la Ley de Ingresos 
 
 Los prestadores del servicio deberán refrendar la certificación cada dos años, previa revisión del cumplimiento de las obligaciones que señala esta Ley y el reglamento.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 18.
 
-Son obligaciones de los prestadores de servicio, las siguientes:
+Son obligaciones de los prestadores de servicio las siguientes:
 
 I. Desarrollar el método alternativo elegido en los términos que se establezcan en el convenio o cláusula compromisoria suscrita por los participantes;
 
@@ -437,27 +455,43 @@ IV. Declarar la improcedencia del método alternativo elegido en los casos en qu
 
 V. Excusarse de conocer del Método Alternativo elegido cuando se encuentre en alguno de los supuestos en que la legislación procesal aplicable al conflicto, obligue al juzgador a excusarse, salvo cuando los participantes con pleno conocimiento y por estimar que no se afecta la imparcialidad del prestador, lo acepten por escrito;
 
-VI. Actualizarse permanentemente en la materia; y
+VI. Actualizarse permanentemente en la materia; y (sic)
 
-VII. Acudir a las revisiones y evaluaciones del instituto así como proporcionar los informes estadísticos o relacionados con su actividad que le requiera el mismo, de conformidad con lo dispuesto en esta ley y en el reglamento.
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2010)</small>
+
+VII. Acudir a las revisiones y evaluaciones del instituto así como proporcionar los informes estadísticos o relacionados con su actividad que le requiera el mismo, de conformidad con lo dispuesto en esta ley y en el reglamento, y
+
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2010)</small>
+
+VIII. Cumplir lo dispuesto por el reglamento interno que expida el Consejo del Instituto.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 19.
 
-Los Centros Privados deberán acreditarse ante el Instituto, cumpliendo los requisitos siguientes:
+Los centros privados deberán acreditarse ante el Instituto, cumpliendo los requisitos siguientes:
 
 I. Demostrar jurídicamente su constitución, existencia y representación así como definir su objeto general, objetivos específicos misión y visión;
 
 II. Contar con prestadores debidamente certificados;
 
-III. Contar con el reglamento o reglamentos institucionales necesarios para su desempeño, entregando copia de cada uno al Instituto; y
+III. Contar con el reglamento o reglamentos institucionales necesarios para su desempeño, entregando copia de cada uno al Instituto; y (sic)
 
-IV. Contar con instalaciones adecuadas para las sesiones y demás actividades.
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2010)</small>
+
+IV. Contar con instalaciones adecuadas para las sesiones y demás actividades, y
+
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2010)</small>
+
+V. Cumplir lo dispuesto por el reglamento interno que expida el Consejo del Instituto.
 
 Los centros públicos distintos al Instituto para obtener la acreditación a que se refiere el presente artículo deberán cumplir los requisitos a que se refieren las fracciones II y IV.
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 20.
 
-Los centros deberán solicitar el refrendo de su acreditación ante el Instituto cada dos años, la que será resuelta conforme al resultado de la revisión de su desempeño en los términos del reglamento.
+Los centros privados deberán solicitar el refrendo de su acreditación ante el Director General del Instituto cada dos años, lo que será resuelto por el mismo Director, de manera fundada y motivada, conforme al resultado de la revisión de su desempeño, en los términos del reglamento.
 
 ###### Artículo 21.
 
@@ -471,13 +505,17 @@ III. Permitir las visitas de inspección de conformidad con lo dispuesto en la p
 
 ### CAPÍTULO III. DEL INSTITUTO DE JUSTICIA ALTERNATIVA DEL ESTADO DE JALISCO Y LOS CENTROS
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 22.
 
-El Instituto de Justicia Alternativa del Estado de Jalisco, es un órgano del Poder Judicial del Estado de Jalisco, rector en materia de medios alternativos de justicia, con autonomía técnica y administrativa, y con las facultades y atribuciones establecidas en esta ley.
+El Instituto de Justicia Alternativa del Estado de Jalisco es un órgano del Poder Judicial competente y rector en materia de medios alternativos de justicia, con autonomía técnica, así como administrativa y con las facultades y atribuciones establecidas en esta ley.
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 23.
 
-El Instituto tendrá su domicilio en el Primer Partido Judicial y contará con las sedes regionales o municipales que resulten necesarias, de conformidad con el presupuesto.
+El Instituto tendrá su domicilio en el Primer Partido Judicial y contará con las sedes regionales o municipales que resulten necesarias, a juicio del Director General del Instituto y de conformidad con el presupuesto, previa opinión del Consejo.
 
 ###### Artículo 24.
 
@@ -491,15 +529,21 @@ III. Prestar el servicio de Información y orientación sobre los procedimientos
 
 IV. Difundir y fomentar la cultura de los Medios alternos, como solución pacífica de los conflictos;
 
-V. Autorizar los Centros, mediante la entrega de la acreditación correspondiente y supervisarlos periódicamente;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2010)</small>
 
-VI. Revocar o suspender la Acreditación de los Centros, o la certificación a los prestadores, en los casos que así proceda, previa garantía de audiencia y defensa, fundando y motivando dicha resolución;
+V. Registrar y sancionar los convenios realizados en los Centros de Mediación para que sean considerados como sentencia ejecutoriada;
+
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2010)</small>
+
+VI. Llevar una base de datos y estadísticas de los convenios registrados en el Instituto;
 
 VII. Evaluar y en su caso certificar a los Mediadores, Conciliadores y Árbitros, así como llevar el registro de los mismos, en los términos del reglamento;
 
 VIII. Promover la capacitación y actualización permanente de los Mediadores, Conciliadores y Árbitros;
 
-IX. Suscribir a través del Presidente convenios de colaboración con Instituciones afines tanto Nacionales como extranjeras para cumplimentar los fines del instituto;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2010)</small>
+
+IX. Suscribir, a través del Director General, convenios de colaboración con instituciones afines, tanto nacionales como extranjeras, para cumplimentar los fines del Instituto;
 
 X. Realizar investigaciones, análisis y diagnósticos relacionados con sus funciones;
 
@@ -511,9 +555,15 @@ XIII. Difundir el resultado de sus investigaciones, Informes y actividades en ge
 
 XIV. Organizar y encargarse de la función del Instituto y de sus sedes regionales;
 
-XV. Promover la cooperación Nacional e Internacional para el uso de los medios Alternativos de Justicia y su validez en esos ámbitos; y
+XV. Promover la cooperación Nacional e Internacional para el uso de los medios Alternativos de Justicia y su validez en esos ámbitos; y (sic)
 
-XVI. Evaluar los procedimientos de los medios alternativos de justicia, haciendo las recomendaciones necesarias para su buen desarrollo y calidad.
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2010)</small>
+
+XVI. Evaluar los procedimientos de los medios alternativos de justicia, haciendo las recomendaciones necesarias para su buen desarrollo y calidad, y
+
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2010)</small>
+
+XVII. Las demás que establezcan las leyes y reglamentos.
 
 ###### Artículo 25.
 
@@ -541,27 +591,25 @@ d) De Capacitación y Difusión; y
 
 V. Con el personal técnico y administrativo necesario y que el presupuesto permita.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2008)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 27.
 
-El Director General será nombrado por el Congreso del Estado, y deberá reunir los requisitos que establece la Constitución Política del Estado para ser magistrado del Supremo Tribunal de Justicia.
+La responsabilidad y representación del Instituto de Justicia Alternativa estará a cargo del Director General, mismo que será nombrado por el Congreso del Estado, y deberá reunir los mismos requisitos que exige la Constitución Política del Estado de Jalisco para ser Magistrado del Supremo Tribunal de Justicia:
 
-El nombramiento del Director General del Instituto lo hará el Congreso del Estado de acuerdo al siguiente procedimiento:
+El nombramiento del Director General del Instituto lo hará el Congreso del Estado, de acuerdo al siguiente procedimiento:
 
-I. Para otorgar el nombramiento de Director General del Instituto, el Congreso, a través de la Comisión de Justicia, deberá convocar a la sociedad en general, con excepción de los partidos políticos, para que propongan candidatos. Con la propuesta deberá entregarse el expediente que acredite el cumplimiento de los requisitos señalados en el párrafo primero;
+I. Para otorgar el nombramiento de Director General del Instituto el Congreso, a través de la Comisión de Justicia, deberá convocar a la sociedad en general, con excepción de los partidos políticos, para que propongan candidatos. Con la propuesta deberá entregarse el expediente que acredite el cumplimiento de los requisitos señalados en el párrafo primero;
 
-II. La Comisión de Justicia podrá aplicar a los candidatos exámenes de aptitud para reconocer su perfil profesional;
+II. La Comisión de Justicia podrá aplicar a los candidatos exámenes de aptitud para conocer su perfil profesional;
 
 III. Será sometida a la consideración del pleno del Congreso del Estado la lista de todos los candidatos que cumplan con los requisitos del cargo;
 
 IV. El Director General será nombrado con el voto de cuando menos las dos terceras partes de los diputados presentes;
 
-V. El Director General durará en el cargo cuatro años, pudiendo ser reelecto por una sola ocasión, en igualdad de circunstancias con todos los aspirantes, para desempeñarlo por otro periodo igual, y
+V. En caso de que no se reúnan los votos en una primera ronda de votación, se realizarán tantas rondas sean necesarias hasta contabilizar los votos conforme a la fracción IV del presente artículo;
 
-VI. En caso de que el Congreso rechace la totalidad de los candidatos propuestos, se deberá realizar una nueva convocatoria que deberá aplicarse para proponer nuevos aspirantes; si también fuere rechazada, ocupará el cargo la persona que dentro de dichas listas hubiere obtenido mayor número de votos.
+VI. El Director General durará en el cargo cuatro años, pudiendo ser reelecto por una sola ocasión, en igualdad de circunstancias con todos los aspirantes, para desempeñarlo por otro periodo igual.
 
 ###### Artículo 28.
 
@@ -571,7 +619,9 @@ I. Vigilar el cumplimiento de esta ley;
 
 II. Llevar la dirección técnica y administrativa del Instituto;
 
-III. Representar al instituto y celebrar los convenios de colaboración necesarios para el desarrollo del mismo;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2010)</small>
+
+III. Representar al Instituto y ejercer las atribuciones que se le confieran en esta ley, así como suscribir toda clase de convenios para el cumplimiento de sus fines;
 
 IV. Convocar a concurso para prestadores de servicio del Instituto y sus sedes regionales;
 
@@ -585,15 +635,41 @@ VIII. Presentar los planes y programas anuales del instituto al Consejo, para su
 
 IX. Proponer al Consejo el reglamento interno, reglamentos institucionales, y los manuales de procedimientos y de organización del instituto y sus sedes regionales, así como los formatos de las sesiones que utilizaran los centros de justicia alternativa, revisarlos anualmente y en su caso actualizar los mismos;
 
-X. Proponer al Consejo una terna de candidatos para su designación como directores, los cuales deberán contar con título profesional con mínimo tres años de antigüedad y registrado en la Dirección estatal de profesiones y demás requisitos que disponga el reglamento de la presente ley;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2010)</small>
+
+X. Proponer al Consejo una terna de candidatos como directores de cada área, los cuales deberán contar con título profesional con un mínimo de tres años de antigüedad y registrado en la Dirección Estatal de Profesiones;
 
 XI. Divulgar las funciones del Instituto y los beneficios sociales de los servicios de Justicia Alternativa y sus organismos;
 
 XII. Presentar dentro de los primeros quince días de cada año un informe de actividades;
 
-XIII. Elaborar el anteproyecto de presupuesto de egresos y presentarlo al Consejo para su aprobación, una vez aprobado el mismo, remitirlo a la Secretaría de Finanzas y de conformidad con la Ley de Presupuesto, Contabilidad y Gasto Público del Estado; y
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2010)</small>
 
-XIV. Sancionar los convenios que resuelvan los conflictos que se le presenten al Instituto y elevarlos a la categoría de sentencia ejecutoriada, una vez que cumplan con los requisitos establecidos por la Ley.
+XIII. Elaborar el anteproyecto de presupuesto de egresos y presentarlo al Consejo para su aprobación. Una vez aprobado el mismo, remitirlo al Presidente del Supremo Tribunal de Justicia para que lo integre en el proyecto de presupuesto de egresos del Poder Judicial;
+
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2010)</small>
+
+XIV. Sancionar los convenios que resuelvan los conflictos que se le presenten al Instituto, registrarlos y elevarlos a la categoría de sentencia ejecutoriada, una vez que cumplan con los requisitos establecidos por la ley;
+
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2010)</small>
+
+XV. Ordenar visitas de inspección o supervisión a los centros para verificar el cumplimiento de las disposiciones legales que regulen los métodos alternos de solución de conflictos;
+
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2010)</small>
+
+XVI. Renovar, revocar o suspender la acreditación de los Centros, o la certificación a los prestadores, en los casos que así proceda, previa garantía de audiencia y defensa, fundando y motivando dicha resolución;
+
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2010)</small>
+
+XVII. Nombrar al personal necesario para el funcionamiento del Instituto, conforme al presupuesto;
+
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2010)</small>
+
+XVIII. Autorizar la expedición de copias certificadas por el Secretario Técnico, de los convenios elevados a categoría de sentencia ejecutoriada, previo pago de los derechos correspondientes, cuando así lo soliciten las personas que acrediten interés jurídico, y
+
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2010)</small>
+
+XIX. Las demás que establezcan las leyes y reglamentos.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -605,11 +681,17 @@ El Consejo estará integrado de la siguiente manera:
 
 I. El Director General, quien lo presidirá;
 
-II. Un representante del Poder Ejecutivo, que será el Gobernador o quien éste designe;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2010)</small>
 
-III. Un representante del Poder Judicial, que será el Presidente del Supremo Tribunal de Justicia del estado de Jalisco, o quien éste designe;
+II. Dos representantes del Poder Ejecutivo, que serán designados por el Gobernador, preferentemente de la Procuraduría General de Justicia del Estado o de la Procuraduría Social del Estado;
 
-IV. Dos representantes del Poder Legislativo, que serán los presidentes de las comisiones legislativas de Justicia y de Puntos Constitucionales, Estudios Legislativos y Reglamentos, y
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2010)</small>
+
+III. Dos representantes del Poder Judicial, que serán el Presidente del Supremo Tribunal de Justicia del Estado de Jalisco o quien éste designe, así como un juez de primera instancia designado por el Consejo de la Judicatura del Poder Judicial del Estado de Jalisco, y
+
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2010)</small>
+
+IV. Dos representantes del Poder Legislativo, que serán los presidentes de las comisiones legislativas de Justicia y de Puntos Constitucionales, Estudios Legislativos y Reglamentos, o quienes éstos designen;
 
 V. Un representante del Consejo Económico y Social del estado de Jalisco.
 
@@ -620,6 +702,10 @@ A propuesta de cualquier integrante se podrá invitar, con derecho a voz, a inst
 Los integrantes del Consejo no devengarán sueldo, es honorífico y no remunerativo.
 
 Las decisiones del Consejo serán tomadas por mayoría de votos, en caso de empate, el Presidente tiene voto de calidad.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2010)</small>
+
+El Secretario Técnico únicamente tendrá derecho a voz, a menos que supla al Director General en las funciones de Presidente del Consejo del Instituto.
 
 ###### Artículo 31.
 
@@ -637,9 +723,15 @@ V. Programar para los prestadores del servicio cursos de actualización profesio
 
 VI. Nombrar a los Directores del Instituto a propuesta del Director General y previa evaluación y acreditación del cumplimiento de los requisitos establecidos en esta Ley y en el Reglamento;
 
-VII. Aprobar anualmente, a propuesta del Director, el anteproyecto de presupuesto de egresos del Instituto; y
+VII. Aprobar anualmente, a propuesta del Director, el anteproyecto de presupuesto de egresos del Instituto; y (sic)
 
-VIII. Las demás que le otorgue la presente ley y otras disposiciones jurídicas aplicables.
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2010)</small>
+
+VIII. Establecer los costos de recuperación por los servicios de capacitación que preste el Instituto, y
+
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2010)</small>
+
+IX. Las demás que le otorguen la presente ley y otras disposiciones jurídicas aplicables.
 
 ###### Artículo 32.
 
@@ -655,9 +747,13 @@ II. Auxiliar al Consejo en el ejercicio de sus funciones y fungir como Secretari
 
 III. Suplir en sus funciones al Director General en el caso de ausencias temporales;
 
-IV. Convocar a sesiones a los integrantes del Consejo, previa solicitud del Presidente del Consejo o del Director General;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2010)</small>
 
-V. Llevar el libro de actas del Consejo;
+IV. Convocar a sesiones a los integrantes del Consejo, previa solicitud del Presidente del mismo;
+
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2010)</small>
+
+V. Llevar el libro de actas del Consejo, y
 
 V. Las demás que se deriven de la aplicación de esta ley.
 
@@ -669,7 +765,7 @@ I. El director de Métodos Alternativos de Solución de Conflictos y de sede reg
 
 II. El director de Acreditación, Certificación y Evaluación deberá ser abogado o licenciado en derecho;
 
-III. El director de Coordinación deberá ser licenciado en administración o contar con titulo profesional en alguna carrera afín.
+III. El director de Coordinación deberá ser licenciado en administración o contar con título profesional en alguna carrera afín.
 
 ###### Artículo 35.
 
@@ -679,7 +775,9 @@ I. Turnar los asuntos que le sean planteados al prestador del servicio que corre
 
 II.- Cuidar el buen funcionamiento de la dirección y la calidad de sus servicios;
 
-III.- Rendir al Presidente del Instituto en la primera quincena de noviembre, un informe general anual sobre el funcionamiento, actividades y resultados obtenidos; y
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2010)</small>
+
+III.- Rendir al Director General del Instituto, en la primera quincena de noviembre, un informe general anual sobre el funcionamiento, actividades y resultados obtenidos, y
 
 IV. Las demás que señale el reglamento interno.
 
@@ -695,9 +793,13 @@ III. Recoger las experiencias del Centro para la realización de estudios y aná
 
 IV. Proporcionar al Instituto datos para el control del registro de prestadores de servicio así como mantenerlo actualizado;
 
-V. Evaluar, calificar el desempeño del prestador de servicios o centro, y en su caso, proponer al Presidente el refrendo de la certificación o acreditación otorgada a éstos;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2010)</small>
 
-VI. Rendir al Presidente del Instituto en la primera quincena de noviembre, un informe general anual sobre el funcionamiento, actividades y resultados obtenidos; y
+V. Evaluar, calificar el desempeño del prestador de servicios o centro, y en su caso proponer al Director General del Instituto el refrendo de la certificación o acreditación otorgada a éstos;
+
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2010)</small>
+
+VI. Rendir al Director General del Instituto, en la primera quincena de noviembre, un informe general anual sobre el funcionamiento, actividades y resultados obtenidos, y
 
 VII. Las demás que conforme a las disposiciones de esta ley y su reglamento interno le correspondan.
 
@@ -705,13 +807,21 @@ VII. Las demás que conforme a las disposiciones de esta ley y su reglamento int
 
 El Director de Administración y Planeación es el encargado de la coordinación, supervisión y ejecución de las tareas que permitan el mejor cumplimiento de las funciones propias del instituto, así como la eficiente atención de las necesidades administrativas, materiales y financieras y le corresponde:
 
-I. Auxiliar al Presidente en el desempeño de sus funciones administrativas internas;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2010)</small>
 
-II. Acordar con el Presidente el despacho de los asuntos de las áreas administrativas adscritas a su cargo;
+I. Auxiliar al Director General del Instituto en el desempeño de sus funciones administrativas internas;
 
-III. Proponer al Presidente el programa anual de actividades de la dependencia a su cargo;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2010)</small>
 
-IV. Auxiliar al Presidente en la elaboración del proyecto de presupuesto del Instituto;
+II. Acordar con el Director General del Instituto el despacho de los asuntos de las áreas administrativas adscritas a su cargo;
+
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2010)</small>
+
+III. Proponer al Director General del Instituto el programa anual de actividades de la dependencia a su cargo;
+
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2010)</small>
+
+IV. Auxiliar al Director General del Instituto en la elaboración del proyecto de presupuesto del Instituto;
 
 V. Dictar y establecer, con la aprobación del Director General, las normas, sistemas y procedimientos para la administración de los recursos humanos, materiales y financieros del Instituto, de acuerdo con la legislación vigente y con sus programas y objetivos;
 
@@ -723,13 +833,17 @@ VIII. Rendir al Director General del Instituto en la primera quincena de noviemb
 
 IX. Las demás que conforme a las disposiciones de esta ley y el reglamento interno le correspondan.
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 38.
 
-El Centro de Capacitación y Difusión elaborará los programas de capacitación y actualización de los mediadores, conciliadores y árbitros, y los remitirá por conducto del Presidente al Consejo para su aprobación.
+El Centro de Capacitación y Difusión elaborará los programas de capacitación y actualización de los mediadores, conciliadores y árbitros, y los remitirá, por conducto del Director General del Instituto, al Consejo para su aprobación.
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 39.
 
-Los cursos de formación y difusión que imparta el Centro de Capacitación y Difusión serán gratuitos; tratándose de los cursos, diplomados o seminarios de actualización para los prestadores de servicios o centros se atenderá a las disposiciones del reglamento y las leyes tributarias.
+Los cursos de formación y difusión que imparta el Centro de Capacitación y Difusión del Instituto serán gratuitos para los Centros Públicos.
 
 ###### Artículo 40.
 
@@ -787,19 +901,33 @@ Una vez estudiada la solicitud de servicios de alguno de los medios de justicia 
 
 La invitación a la parte complementaria deberá contener los siguientes datos:
 
-II (SIC). Nombre y domicilio de las partes;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2010)</small>
 
-III. Número de asunto e invitación girada;
+I. Nombre y domicilio de las partes;
 
-IV. Lugar y fecha de expedición;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2010)</small>
 
-V. Indicación del día, hora y lugar de celebración de la entrevista inicial;
+II. Número de asunto e invitación girada;
 
-VI. Nombre de la persona que solicitó el servicio;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2010)</small>
 
-VII. Nombre del prestador con el que deberá tener contacto el invitado para confirmar su asistencia, o bien, señalar nueva fecha; y
+III. Lugar y fecha de expedición;
 
-VIII. Nombre y firma del director del Centro o sede regional.
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2010)</small>
+
+IV. Indicación del día, hora y lugar de celebración de la entrevista inicial;
+
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2010)</small>
+
+V. Nombre de la persona que solicitó el servicio;
+
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2010)</small>
+
+VI. Nombre del prestador con el que deberá tener contacto el invitado para confirmar su asistencia, o bien, señalar nueva fecha, y
+
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2010)</small>
+
+VII. Nombre y firma del director del Centro o sede regional.
 
 ###### Artículo 51.
 
@@ -841,7 +969,7 @@ e) Las reglas que deben observarse durante el procedimiento;
 
 f) El carácter voluntario, profesional, neutral, confidencial, imparcial, ágil y equitativo; y
 
-g) El carácter gratuito del procedimiento, tratándose de un centro publico, o la forma de fijar los honorarios si se trata de un centro o prestador privado.
+g) El carácter gratuito del procedimiento, tratándose de un centro público, o la forma de fijar los honorarios si se trata de un centro o prestador privado.
 
 IV. Invitará a las partes para que con la información proporcionada por el prestador elijan el método de justicia alternativa que estimen más adecuado a su asunto; en igual forma para que se fijen las reglas y duración para el trámite elegido y lo plasmen en el acuerdo inicial.
 
@@ -854,6 +982,18 @@ Las partes podrán asistir a la entrevista inicial acompañados de su asesor jur
 ###### Artículo 56.
 
 Si las partes no aceptan ninguno de los medios alternativos propuestos se dará por concluido el trámite.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 56
+
+Bis.- Los métodos alternos en materia penal procederán hasta antes de dictarse sentencia definitiva.
+
+Desde su primera intervención, el Ministerio Público, de oficio o, en su caso, el Juez, o ambos a solicitud de cualquiera de las partes o del defensor público o agente de la Procuraduría Social, invitarán a los interesados a que sometan su controversia a un método alterno en los casos en que proceda, y les explicarán los efectos y los mecanismos de mediación ó conciliación disponibles, así como sus alcances.
+
+El Ministerio Público o, en su caso, el Juez, suspenderá el trámite de la averiguación previa o el proceso, según sea el caso, hasta por treinta días para que las partes medien o concilien. En caso de interrumpirse la mediación o conciliación, cualquiera de las partes puede solicitar la continuación de la averiguación previa o del proceso correspondiente.
+
+Si las partes están de acuerdo en someter su conflicto a la resolución mediante la justicia alternativa, quedarán suspendidos desde ese instante el procedimiento de averiguación previa o del proceso jurisdiccional, según sea el caso, así como el término de la prescripción de la acción penal hasta en tanto se dé por cumplido el convenio definitivo, y el Instituto informará dicha decisión de sometimiento a la resolución alternativa (sic) la autoridad que conozca de la investigación, proceso o procedimiento.
 
 #### SECCIÓN TERCERA. TRÁMITE
 
@@ -879,7 +1019,7 @@ II. Las partes deberán manifestar sus puntos de vista respecto al conflicto y l
 
 III. Una vez que las partes consideren suficientemente explicada la naturaleza y origen del conflicto, si el prestador de servicios estima que existen condiciones para desahogar la fase de resolución de conflicto, ésta se llevará a cabo conforme a lo señalado en esta ley;
 
-IV. Se levantará un resumen de lo mas destacado de la sesión o de los acuerdos a los que se hubieren llegado, en su caso; y
+IV. Se levantará un resumen de lo más destacado de la sesión o de los acuerdos a los que se hubieren llegado, en su caso; y
 
 V. Si fuere necesario se fijará día y hora para la siguiente sesión.
 
@@ -887,27 +1027,23 @@ V. Si fuere necesario se fijará día y hora para la siguiente sesión.
 
 Los acuerdos que se propongan deberán ser viables, equitativos, legales y convenientes y serán examinados por los participantes.
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 61.
 
-Las partes podrán solicitar al prestador un término hasta de tres días para tomar una decisión respecto de la aceptación, variación o rechazo del acuerdo propuesto en la sesión que se contiene en borrador.
+Las partes podrán solicitar al prestador un término hasta de tres días hábiles para tomar una decisión respecto de la aceptación, variación o rechazo del acuerdo propuesto en la sesión y, aceptado éste último, se firmará el convenio final.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2008)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 62.
 
-Una vez concluido el plazo a que se refiere el artículo 61 de esta ley, el prestador del servicio solicitará ante el juez de primera instancia que corresponda la ratificación del convenio final, en una audiencia en la que concurran las partes y, en su caso, el agente de la Procuraduría Social, que deberá desahogarse dentro de un término máximo de cinco días.
+Una vez concluido el plazo a que se refiere el artículo 61 de esta ley, dentro de un término máximo de tres días hábiles siguientes, el prestador del servicio solicitará ante el Instituto la sanción del convenio final, notificando su resolución personalmente a las partes, y en caso de haber sido aprobado, registrarlo en sus archivos como convenio equiparado a sentencia ejecutoriada.
 
-En caso de ser ratificado, el juez lo validará inmediatamente, siempre y cuando cumpla con los requisitos que establece esta ley, y lo notificará a las partes y al prestador del servicio con un ejemplar original del mismo, en la misma audiencia.
-
-Si el convenio final carece de los requisitos previstos por esta ley, se estará a lo dispuesto por el artículo 73 de la misma.
-
-Si alguna de las partes no ratificare el convenio final o se opusiere el agente de la Procuraduría Social en lo asuntos en los que éste pueda intervenir, el juez acordará inmediatamente en la misma audiencia la terminación del método alternativo y lo notificará en ese mismo momento a las partes y al prestador del servicio, entregándoles una copia del acuerdo respectivo.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 63.
 
-El convenio final del método alternativo, parcial o total resultante, además de los requisitos establecidos en la legislación que regule la materia del conflicto, deberá cumplir con los siguientes:
+El convenio del método alternativo, parcial o total resultante, además de los requisitos establecidos en la legislación que regule la materia del conflicto, deberá cumplir con los requisitos siguientes:
 
 I.- Constar por escrito;
 
@@ -915,15 +1051,15 @@ II.- Señalar hora, lugar y fecha de su celebración;
 
 III.- Señalar los generales de las partes, así como el documento oficial con el que se identifiquen;
 
-IV.- Describir solo en caso necesario el conflicto y anexar el acuerdo inicial alternativo o el documento que contenga la cláusula compromisoria y los demás antecedentes que resulten pertinentes;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2010)</small>
+
+IV.- Contener la firma de quienes lo suscriben, del prestador de servicio y sanción del Instituto.
+
+El convenio se levantará por escrito, entregándose un ejemplar a cada una de las partes, y conservándose otro en los archivos de la entidad a la que pertenezca el prestador del servicio y otro tanto ante el Instituto que lo sancionó;
 
 V.- Especificar el contenido del acuerdo en forma clara y precisa, detallando las circunstancias de tiempo, modo y lugar en que se cumplirán con las obligaciones contraídas por cada una de las partes; y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2008)</small>
-
-VI. Contener la firma de quienes lo suscriben, del prestador de servicio y del juez que lo valide.
+VI.- (DEROGADA, P.O. 23 DE DICIEMBRE DE 2010)
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -943,13 +1079,11 @@ Las obligaciones de contenido ético o moral podrán constar en el convenio pero
 
 Cuando alguna de las partes no sepa o no pueda firmar, estamparán sus huellas dactilares, firmando a su ruego persona de su confianza, dejándose constancia de ello.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2008)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 67.
 
-El juez ante quien se valide el convenio final vigilará que las partes sean personas con capacidad para obligarse legalmente y que estén debidamente legitimadas o representadas en la sesión de que se trate, y se cerciorará de que la suscripción del convenio se realiza libre de vicios en el consentimiento de las partes.
+Los prestadores del servicio vigilarán que las partes sean personas con capacidad para obligarse legalmente y que estén debidamente legitimadas o representadas en la sesión de que se trate, y se cerciorarán de que la suscripción del convenio se realiza libre de vicios en el consentimiento de las partes. En la realización del convenio y tratándose de asuntos que afecten intereses de menores, incapaces o ausentes, se deberá dar vista al agente de la Procuraduría Social para efectos de su representación.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -973,23 +1107,19 @@ El convenio sólo deberá suscribirse cuando se trate de materia objeto de algú
 
 (DEROGADO, P.O. 29 DE ABRIL DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2008)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 72.
 
-El convenio final validado se considerará sentencia ejecutoria.
+El convenio ratificado y sancionado por el Instituto, se considerará como sentencia que hubiere causado ejecutoria, con todos los efectos que para la ejecución forzosa de la sentencias prevén las leyes. El Instituto comunicará el incumplimiento del convenio a la autoridad correspondiente para los efectos de continuar con el trámite de la averiguación previa o del proceso, así como para que el término de la prescripción del ejercicio de la acción penal por el delito cometido siga corriendo. Una vez cumplido el convenio, el Instituto informará de ello al Juez competente para que sobresea el proceso y extinga la acción correspondiente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+En materia penal, no se extinguirá la acción penal ni se sobreseerá el proceso hasta en tanto el Ministerio Público o el Juez correspondiente tenga por apegado a la ley el convenio referido y por acreditado el cumplimiento del mismo. Una vez revisado por el Juez y sancionado por éste el convenio y su cumplimiento, el Ministerio Público o el Juez tendrá por satisfecha la reparación del daño y se extinguirá la acción penal o se sobreseerá el proceso, según corresponda, otorgando la libertad del procesado o reo.
 
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2008)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 73.
 
-Cuando el convenio final del método alternativo no reúna requisitos que prevé esta ley, el juez ante quien se presente prevendrá a las partes y al prestador del servicio para que dentro de un plazo de cinco días, se subsanen las deficiencias señaladas.
-
-Si dentro del plazo señalado en el párrafo anterior no son solventados los requisitos y observaciones formuladas por el juez, éste acordará inmediatamente la improcedencia del convenio final.
+Cuando el convenio final del método alternativo presentado ante el Instituto para su sanción no reúna los requisitos que prevé esta ley, el Instituto prevendrá a las partes y al prestador del servicio para que dentro de un plazo de cinco días se subsanen las deficiencias señaladas. Si dentro del plazo señalado anteriormente no son solventados los requisitos y observaciones formuladas por el Instituto, éste acordará inmediatamente la no sanción del convenio final.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -997,9 +1127,11 @@ Si dentro del plazo señalado en el párrafo anterior no son solventados los req
 
 (DEROGADO, P.O. 29 DE ABRIL DE 2008)
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 75.
 
-Para la ejecución forzosa del convenio homologado se deberá de acudir al juez de Primera Instancia. Las excepciones oponibles a la ejecución del convenio homologado se harán valer ante la autoridad judicial en los términos que dispone el Código de Procedimientos Civiles.
+Para la ejecución forzosa del convenio sancionado, se deberá acudir al Juez de Primera Instancia en la vía y forma que así proceda. Las excepciones oponibles a la ejecución del convenio sancionado se harán valer ante la autoridad judicial en los términos que dispone el Código de Procedimientos Civiles del Estado de Jalisco.
 
 ###### Artículo 76.
 
@@ -1057,9 +1189,11 @@ Cuando no fuere posible restituir el orden para el desarrollo de la sesión el p
 
 La reanudación de la sesión será valorada por el prestador del servicio cuando considere que existen condiciones de orden suficientes para su continuación.
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 81.
 
-El prestador del servicio hará del conocimiento del director de medios alternativos o de sede regional cualquier conducta irregularidad de las partes o abogados.
+El prestador del servicio hará del conocimiento del Director General del Instituto o, en su caso, del que funja como Director de Medios Alternativos o de sus equivalentes en la sede regional, cualquier conducta irregular de las partes o abogados.
 
 ###### Artículo 82.
 
@@ -1147,61 +1281,41 @@ El Director General del Instituto, los directores de centros públicos podrán s
 
 ### CAPÍTULO VII. DE LOS RECURSOS
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 91.
 
-En contra de las resoluciones del Instituto o Sedes regionales, que impongan sanciones, nieguen las solicitudes de autorización, acreditación, renovación o certificación a que se refiere esta ley podrá interponerse recurso de revisión dentro de los veinte días hábiles siguientes a la fecha de su notificación.
+En contra de las resoluciones del Instituto mediante las cuales se impongan sanciones, nieguen las solicitudes de autorización, acreditación, renovación o certificación a que se refiere esta ley, se podrán interponer el recurso de revisión previsto en la Ley de Procedimiento Administrativo del Estado, o bien, en forma optativa, promover el juicio de nulidad ante el Tribunal de lo Administrativo del Estado de Jalisco.
 
-Transcurrido el plazo a que se refiere el párrafo anterior sin que el interesado interponga el recurso, la resolución tendrá el carácter de definitiva.
+El recurso de revisión se interpondrá ante el Director General del Instituto o, en su caso, ante sus equivalentes en las sedes regionales, aun cuando se promueva contra sus actos o resoluciones.
 
 ###### Artículo 92.
 
-El recurso de revisión se interpondrá por escrito ante el Instituto o sedes regionales. La autoridad receptora del recurso deberá sellarlo o firmarlo de recibido y anotará la fecha y hora en que se presente y el número de anexos que se acompañe. En el mismo acto devolverá copia debidamente sellada o firmada al interesado.
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 2010)
 
 ###### Artículo 93.
 
-En escrito que se contengan tanto el recurso de queja como de revisión deberán expresarse el nombre y el domicilio del recurrente y los agravios, acompañándose los elementos de prueba que se consideren necesarios, así como las constancias que acrediten la personalidad del promovente.
-
-En caso de incumplimiento de los requisitos antes señalados, el Instituto prevendrá por una sola ocasión al promovente para que en el término de cinco días satisfaga los requisitos que dispone este ordenamiento, de no hacer en el plazo concedido se decretará la improcedencia del recurso planteado.
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 2010)
 
 ###### Artículo 94.
 
-Al interponerse el recurso de revisión podrá ofrecerse toda clase de pruebas, excepto la confesional, y acompañarse con los documentos relativos. Si se ofrecen pruebas que requieren desahogo, se abrirá un plazo no menor de cinco ni mayor de treinta días hábiles para tales efectos. El Instituto podrá allegarse los elementos de convicción adicionales que considere necesarios.
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 2010)
 
 ###### Artículo 95.
 
-El Instituto dictará resolución del recurso planteado dentro de los treinta días hábiles siguientes a partir de la fecha:
-
-I. Del acuerdo de admisión del recurso, cuando no se hubiesen ofrecido pruebas o las ofrecidas no requieran plazo especial de desahogo; y
-
-II. De la conclusión de desahogo de pruebas o, en su caso, cuando haya transcurrido el plazo concedido para ello y no se hubieren desahogado.
-
-Las resoluciones se notificarán a los interesados, o a sus representantes legales, personalmente o por correo certificado con acuse de recibo.
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 2010)
 
 ###### Artículo 96.
 
-La interposición del recurso de revisión suspenderá la ejecución de la resolución impugnada en cuanto al pago de multas.
-
-Respecto de cualquier otra clase de resoluciones administrativas y de sanciones no pecuniarias, la suspensión sólo se otorgará si concurren los requisitos siguientes:
-
-I. Que lo solicite el recurrente;
-
-II. Que el recurso haya sido admitido;
-
-III. Que de otorgarse no implique la continuación o consumación de actos u omisiones que ocasionen infracciones a esta Ley; y
-
-IV. Que no ocasione daños o perjuicios a terceros en términos de esta Ley.
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 2010)
 
 ###### Artículo 97.
 
-El recurso de queja se presentará ante el Director del Instituto cuando el Instituto o sedes regionales no den respuesta en un plazo de sesenta días hábiles siguientes a la presentación de las solicitudes de autorización, acreditación, renovación o certificación.
-
-El recurso de queja se tramitará y se substanciara con los mismos requisitos del recurso de revisión.
-
-El plazo para interponer el recurso será dentro de los diez días hábiles siguientes al cumplimiento del plazo establecido en el párrafo primero del presente artículo.
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 2010)
 
 ###### Artículo 98.
 
-Los recursos contemplados en el presente capitulo serán optativos para el particular, quien tendrá la opción de interponerlos o acudir al Tribunal de lo Administrativo, para promover el juicio de nulidad correspondiente.
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 2010)
 
 ## TRANSITORIOS
 
@@ -1268,3 +1382,27 @@ P.O. 29 DE ABRIL DE 2008.
 P.O. 7 DE ABRIL DE 2009.
 
 ÚNICO. El presente decreto entrará en vigor el día siguiente al de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 23 DE DICIEMBRE DE 2010.
+
+PRIMERO. Quedan sin efecto las disposiciones contrarias al presente decreto.
+
+SEGUNDO. La Ley de Ingresos del Estado de Jalisco deberá contemplar los costos que por concepto de pago de los siguientes servicios inherentes al Instituto de Justicia Alternativa se deban efectuar:
+
+1. Acreditación de centros privados de mediación.
+
+2. Certificación de mediadores, conciliadores y árbitros.
+
+3. Renovación de acreditación.
+
+4. Renovación de certificación.
+
+TERCERO. Dentro de los seis meses posteriores a la entrada en vigor del presente decreto, el Congreso del Estado decretará el arancel que fije el cobro por la prestación de los servicios de justicia alternativa que se realicen en los centros privados. En tanto se expida y publique el arancel referido deberá aplicarse, en lo conducente, lo dispuesto por el arancel para abogados vigente en esta entidad.
+
+CUARTO. Una vez tomada la protesta de ley por parte del Director General del Instituto, y nombrado su Secretario Técnico, se procederá a la integración del Consejo de conformidad con lo que dispone el artículo 29 de esta ley.
+
+QUINTO. Una vez integrado el Consejo, deberá expedir el reglamento interno para la aplicación de la presente ley, en un plazo máximo de sesenta días naturales.
+
+SEXTO. Se autoriza al titular del Poder Ejecutivo a realizar las adecuaciones presupuestales y administrativas para el debido cumplimiento del presente decreto.
+
+SÉPTIMO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
