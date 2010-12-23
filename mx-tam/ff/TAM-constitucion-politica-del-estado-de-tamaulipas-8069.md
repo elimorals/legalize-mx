@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "2010-12-21"
+last_updated: "2010-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 2010.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -197,9 +197,9 @@ III. Por ausencia con ocasión de estudios o comisiones científicas o artístic
 
 Son habitantes del Estado todas las personas que residen en su territorio, sea cual fuere su estado y condición.
 
-> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2010)</small>
 
-El pueblo de Tamaulipas establece que el respeto a las libertades y derechos fundamentales constituye la base y el objeto de las instituciones públicas y sociales. En consecuencia, en el Estado toda persona goza de las garantías individuales reconocidas por la Constitución Política de los Estados Unidos Mexicanos, las cuales no podrán restringirse ni suspenderse sino en los casos y condiciones que la misma establece; y disfruta de las libertades y derechos fundamentales contenidos en los tratados internacionales de los que forma parte el Estado Mexicano, en términos de lo dispuesto por el artículo 133 de la propia Constitución Política de los Estados Unidos Mexicanos.
+El pueblo de Tamaulipas establece que el respeto a las libertades y derechos fundamentales constituye la base y e (sic) objeto de las instituciones públicas y sociales. En consecuencia, el Estado de Tamaulipas reconoce, protege y garantiza el derecho a la vida de todo ser humano desde el momento de la fecundación hasta su muerte natural; esta disposición no deroga las excusas absolutorias ya previstas en la legislación penal. Asimismo en el Estado toda persona goza de las garantías individuales reconocidas por la Constitución Política de los Estados Unidos Mexicanos, las cuales no podrán restringirse ni suspenderse sino en los casos y condiciones que la misma establece; y disfruta de las libertades y derechos fundamentales contenidos en los tratados internacionales de los que forma parte el Estado Mexicano, en términos de lo dispuesto por el artículo 133 de la propia Constitución Política de los Estados Unidos Mexicanos.
 
 > <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2004)</small>
 
@@ -815,7 +815,7 @@ IV. Fijar, a propuesta de los respectivos Ayuntamientos, las contribuciones y ot
 
 > <small>(REFORMADA, P.O. 20 DE MARZO DE 2007)</small>
 
-V.- Nombrar y remover a sus servidores públicos en los términos que señale la Ley sobre la Organización y Funcionamiento Internos del Congreso; así como al Auditor Superior del Estado en los términos dispuestos por esta Constitución y la ley.
+V. Nombrar y remover a sus servidores públicos en los términos que señale la Ley sobre la Organización y Funcionamiento Internos del Congreso; así como al Auditor Superior del Estado en los términos dispuestos por esta Constitución y la ley.
 
 > <small>(REFORMADA, P.O. 12 DE JUNIO DE 2009)</small>
 
@@ -1833,13 +1833,13 @@ El Poder Judicial del Estado goza de autonomía presupuestal, orgánica y funcio
 
 > <small>(REFORMADO, P.O. 17 DE JUNIO DE 2009)</small>
 
-Los Magistrados del Poder Judicial, los consejeros de la o Judicatura y los jueces percibirán remuneración adecuada e irrenunciable, determinada anualmente, la cual no podrá ser disminuida durante su encargo.
+Los Magistrados del Poder Judicial, los consejeros de la Judicatura y los jueces percibirán remuneración adecuada e irrenunciable, determinada anualmente, la cual no podrá ser disminuida durante su encargo.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
 
 > <small>(REFORMADO, P.O. 17 DE JUNIO DE 2009)</small>
 
-El Poder Judicial constituirá un Fondo Auxiliar para la Administración de Justicia que se integrará y funcionará en los términos previstos en la ley, del cual y sin perjuicio de las remuneraciones que correspondan de acuerdo al presupuesto, el Consejo de la Judicatura aplicará un porcentaje de los recursos económicos que lo Integren para incrementar la capacitación, adquisición de equipo y mejorar las condiciones de trabajo de los servidores públicos del Poder Judicial, conforme a lo que al efecto acuerde el Pleno del propio Consejo.
+El Poder Judicial constituirá un Fondo Auxiliar para la Administración de Justicia que se integrará y funcionará en los términos previstos en la ley, del cual y sin perjuicio de las remuneraciones que correspondan de acuerdo al presupuesto, el Consejo de la Judicatura aplicará un porcentaje de los recursos económicos que lo integren para incrementar la capacitación, adquisición de equipo y mejorar las condiciones de trabajo de los servidores públicos del Poder Judicial, conforme a lo que al efecto acuerde el Pleno del propio Consejo.
 
 > <small>(REFORMADO, P.O. 20 DE MARZO DE 2007)</small>
 
@@ -3976,6 +3976,12 @@ P.O. 21 DE DICIEMBRE DE 2010.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE DICIEMBRE DE 2010.
+
+###### ARTÍCULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTÍCULO QUINTO.
 
