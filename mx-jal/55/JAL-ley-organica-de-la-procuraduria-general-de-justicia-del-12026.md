@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-de-la-procuraduria-general-de-justicia-del-12026"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1998-02-05"
-last_updated: "2008-05-27"
+last_updated: "2010-12-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12026&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE MAYO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 2010.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 5 de febrero de 1998.
 
@@ -47,9 +47,13 @@ Esta ley tiene por objeto la organización de la Procuraduría General de Justic
 
 El Ministerio Público en el Estado, estará a cargo del Procurador General de Justicia del Estado, al cual le corresponde las siguientes atribuciones, que podrá delegar o ejercer por sí mismo, de conformidad con lo que establezca el presente ordenamiento y su reglamento:
 
-> <small>(REFORMADA, P.O. 11 DE ENERO DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
-I. Perseguir los delitos del orden común cometidos en el Estado y los federales autorizados por las leyes de conformidad con el artículo 73 fracción XXI de la Constitución Política de los Estados Unidos Mexicanos;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2010)</small>
+
+I. Perseguir los delitos del orden común cometidos en el estado y los federales autorizados por las leyes de conformidad con el artículo 73, fracción XXI, de la Constitución Política de los Estados Unidos Mexicanos.
+
+Para efectos del párrafo anterior, respecto de los delitos federales, conocerá de los delitos a que se refiere el Título Décimo Octavo, Capítulo VII, de la Ley General de Salud, que corresponde a los delitos contra la salud en su modalidad de narcomenudeo, cuando los narcóticos objeto de los mismos estén previstos en la tabla contenida en el artículo 479 de la citada ley, siempre y cuando la cantidad de que se trate sea inferior a la que resulte de multiplicar por mil el monto de las previstas en dicha tabla y no existan elementos suficientes para presumir delincuencia organizada;
 
 II. Velar por la legalidad y por el respeto de los derechos humanos en la esfera de su competencia, así como promover la pronta, completa y debida impartición de justicia;
 
@@ -111,21 +115,41 @@ d) De las diligencias practicadas se desprenda plenamente la existencia de una e
 
 e) Resulte imposible la prueba de la existencia de los hechos constitutivos de delito, por obstáculo material insuperable;
 
-> <small>(REFORMADO, P.O. 30 DE ENERO DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
-f) Cuando se eleve a la categoría de sentencia ejecutoriada, el acuerdo final del método alternativo de solución de conflictos en los delitos no excluidos por la ley de Justicia Alternativa del Estado de Jalisco, salvo que se declare la nulidad del convenio final señalado; y
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2010)</small>
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE ENERO DE 2007)</small>
+f) Cuando se eleve a la categoría de sentencia ejecutoriada el acuerdo final del método alternativo de solución de conflictos en los delitos no excluidos por la Ley de Justicia Alternativa del Estado de Jalisco, salvo que se declare la nulidad del convenio final señalado;
 
-g) En los demás casos que determinen las normas aplicables.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
-> <small>(REFORMADO, P.O. 30 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2010)</small>
 
-Para los efectos de esta fracción, el Procurador resolverá en definitiva los casos en que el agente del Ministerio Público proponga el no ejercicio de la acción penal; esta resolución deberá ser notificada al ofendido para los efectos que establece el párrafo cuarto del artículo 21 de la Constitución Política de los Estados Unidos Mexicanos.
+g) El farmacodependiente o consumidor posea alguno de los narcóticos señalados en la tabla contenida en el artículo 479 de la Ley General de Salud en igual o inferior cantidad a la prevista en la misma, para su estricto consumo personal y fuera de los lugares señalados en la fracción II del artículo 475 de la citada ley, y
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE ENERO DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
-La resolución que se emita en los términos del inciso f) de está fracción, no requerirá de aprobación del Procurador General de Justicia, para surtir efectos;
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2010)</small>
+
+h) En los demás casos que determinen las normas aplicables.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2010)</small>
+
+Para los efectos de esta fracción, el Procurador resolverá en definitiva los casos en que el Agente del Ministerio Público proponga el no ejercicio de la acción penal; esta resolución deberá ser notificada al ofendido para los efectos que establece el párrafo cuarto del artículo 21 de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2010)</small>
+
+La resolución que se emita en los términos del inciso f) de esta fracción, no requerirá aprobación del Procurador General de Justicia, para surtir efectos;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2010)</small>
+
+Para los efectos del inciso g), la autoridad ministerial informará al consumidor la ubicación de las instituciones o centros para el tratamiento médico o de orientación para la prevención de la farmacodependencia. El Ministerio Público hará reporte del no ejercicio de la acción penal a la autoridad sanitaria, con el propósito de que ésta promueva la correspondiente orientación médica o de prevención.
 
 XI. Poner a disposición de las autoridades y órganos encargados de la aplicación de la Ley de Readaptación Juvenil del Estado, a los menores de edad que hubieren cometido infracciones correspondientes a los ilícitos tipificados por las leyes penales;
 
@@ -615,6 +639,20 @@ La unidad especializada, debe contar con un cuerpo técnico de control, que en l
 
 Los servidores públicos de esta unidad especializada, son responsables por la guarda y reserva en el manejo de la información relacionada con las averiguaciones a su cargo. En el curso de las averiguaciones la información relacionada con éstas se considera reservada y confidencial y solo podrá ser consultada por las personas implicadas en forma directa en la averiguación.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 53
+
+Bis. Le corresponde a la Unidad Especializada de Delitos contra la Salud en su modalidad de narcomenudeo, la atención, investigación y persecución de los delitos de narcomenudeo en los términos y modalidades establecidas en la Ley General de Salud.
+
+La unidad especializada puede auxiliarse del Instituto Jalisciense de Ciencias Forenses para la debida investigación y persecución de los delitos.
+
+Para la correcta integración de las averiguaciones, el titular de esta unidad puede solicitar directamente la colaboración de otras dependencias o entidades del Poder Ejecutivo del Estado o de los municipios.
+
+En caso necesario, el Ministerio Público encargado de las averiguaciones está facultado para requerir información, documentos o certificados relativos a cualquier entidad pública o privada cuando la solicitud tenga relación con la investigación.
+
 > <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2004)</small>
 
 ###### Artículo 54.
@@ -716,3 +754,11 @@ CUARTO. El Consejo Estatal deberá integrarse dentro de los siguientes 60 días 
 QUINTO. El Ejecutivo del Estado y los gobiernos municipales, acorde a su disponibilidad presupuestal, procurarán instalar y mantener centros de refugios temporales distribuidos en el estado de acuerdo a las necesidades, buscando tener cobertura para todas las mujeres víctimas de violencia que lo requieran.
 
 SEXTO. Los procedimientos de mediación y conciliación contemplados en la Ley para la Prevención y Atención de la Violencia Intrafamiliar del estado de Jalisco, se llevarán acabo (sic) de conformidad con el procedimiento vigente hasta su conclusión, aplicándose los métodos alternos para la prevención y en su caso la solución de conflictos, a partir de que entre en vigor la Ley de Justicia Alternativa del estado de Jalisco.
+
+P.O. 23 DE DICIEMBRE DE 2010.
+
+PRIMERO. El presente decreto entrará en vigor el 21 de agosto de 2012, previa su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. Previa entrada en vigor del presente decreto, los poderes Ejecutivo y Judicial del Estado deberán realizar las acciones necesarias para su debida instrumentación.
+
+De igual forma se autoriza a las secretarías de Finanzas y de Administración a realizar las adecuaciones presupuestales y administrativas necesarias para el debido cumplimiento tanto del párrafo anterior como del presente decreto.
