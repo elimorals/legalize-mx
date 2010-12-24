@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-instituto-de-seguridad-y-servicios-sociales-de-los-7509
 country: "mx"
 rank: "ley"
 publication_date: "1993-10-13"
-last_updated: "2000-10-16"
+last_updated: "2010-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE OCTUBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 13 de octubre de 1993.
 
@@ -1355,9 +1355,11 @@ Para que el Comité pueda sesionar válidamente se requerirá la asistencia de p
 
 #### SECCION 4. Comité de Vigilancia
 
+> <small>(REFORMADO PARRAFO PRIMERO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 140.
 
-El Comité de Vigilancia estará integrado por nueve miembros, los cuales serán designados y removidos libremente por los organismos y entidades públicas representados en el Consejo Directivo, a excepción del Instituto. La Secretaría de la Contraloría General del Estado designará un representante a este Comité, en los términos de la Ley de la Administración Pública del Estado.
+El Comité de Vigilancia estará integrado por nueve miembros, los cuales serán designados y removidos libremente por los organismos y entidades públicas representados en el Consejo Directivo, a excepción del Instituto. La Contraloría y Transparencia Gubernamental designará un representante a este comité, en los términos de la Ley de la Administración Pública del Estado.
 
 El Consejo Directivo, cada seis meses, designará de entre los miembros de la Comisión de Vigilancia, a quien deba presidirla.
 
@@ -1499,9 +1501,11 @@ Los servidores públicos del Instituto estarán sujetos a las responsabilidades 
 
 En salvaguarda de los intereses económicos y solidez financiera del Instituto, deberán motivar sus decisiones en estudios económicos, los que una vez aprobados, se relacionarán y anexarán a las actas que contengan los respectivos acuerdos.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 161.
 
-Las sanciones previstas en los artículos anteriores, a que se hicieren acreedores los servidores públicos del Instituto, serán impuestas por el Director General después de oír al interesado, y son revisables por el Consejo Directivo si se hace valer la inconformidad por escrito dentro del plazo de quince días. Cuando se trate de los servidores públicos de las entidades públicas, intervendrá la Secretaría de la Contraloría General del Estado, en ejercicio de sus facultades con vista de la documentación que envíe a dicha dependencia el Director General del Instituto.
+Las sanciones previstas en los artículos anteriores, a que se hicieren acreedores los servidores públicos del Instituto, serán impuestas por el director general después de oír al interesado, y son revisables por el Consejo Directivo si se hace valer la inconformidad por escrito dentro del plazo de quince días. Cuando se trate de los servidores públicos de las entidades públicas, intervendrá la Contraloría y Transparencia Gubernamental, en ejercicio de sus facultades con vista de la documentación que envíe a dicha dependencia el director general del Instituto.
 
 ###### Artículo 162.
 
@@ -1634,3 +1638,7 @@ TERCERO.- Para el debido cumplimiento de los artículos que se adicionan, el Con
 P.O. 16 DE OCTUBRE DE 2000.
 
 Artículo Único.- Este decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE DICIEMBRE DE 2010.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
