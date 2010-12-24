@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-proteccion-de-los-derechos-de-las-ninas-ninos-y-49290"
 country: "mx"
 rank: "ley"
 publication_date: "2006-02-17"
-last_updated: "2006-09-10"
+last_updated: "2010-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49290&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE PROTECCION DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 17 de febrero de 2006.
 
@@ -1079,7 +1079,9 @@ VIII. Titular de la Secretaría de Seguridad Pública;
 
 IX. Titular de la Procuraduría General de Justicia en el Estado;
 
-X. Titular del Consejo de Desarrollo Social;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+X. Titular de la Secretaría de Desarrollo Social;
 
 XI. Presidente Ejecutivo del Instituto Estatal de Cultura Física y Deporte;
 
@@ -1412,3 +1414,7 @@ Lo anterior sin perjuicio de la continuación del procedimiento conforme a la Le
 El Presidente del Consejo Estatal de Menores procederá en los términos establecidos por el párrafo primero de este artículo, en caso de que ya se hubiere pronunciado sentencia ejecutoria.
 
 Artículo Décimo Primero.- Las autoridades competentes expedirán los reglamentos necesarios para el cumplimiento de las disposiciones del presente Decreto, en un término que no deberá exceder de seis meses, contados a partir de la entrada en vigor del presente Decreto.
+
+P.O. 24 DE DICIEMBRE DE 2010.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
