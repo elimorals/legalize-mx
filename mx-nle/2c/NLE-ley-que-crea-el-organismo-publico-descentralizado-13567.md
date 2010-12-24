@@ -4,7 +4,7 @@ identifier: "NLE-ley-que-crea-el-organismo-publico-descentralizado-13567"
 country: "mx"
 rank: "ley"
 publication_date: "1987-06-01"
-last_updated: "2005-08-17"
+last_updated: "2010-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DEL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO SISTEMA INTEGRAL PARA EL MANEJO ECOLOGICO Y PROCESAMIENTO DE DESECHOS (SIMEPRODE)
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE AGOSTO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 1 de junio de 1987.
 
@@ -173,9 +173,11 @@ b) El Secretario de Finanzas y Tesorero General del Estado;
 
 c) El Secretario de Obras Públicas;
 
-d) El Presidente Ejecutivo de la Agencia para la Planeación del Desarrollo Urbano de Nuevo León;
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
-e) El Director General de la Agencia de Protección al Medio Ambiente y Recursos Naturales;
+d) El Secretario de Desarrollo Sustentable;
+
+e) (DEROGADO, P.O. 24 DE DICIEMBRE DE 2010);
 
 f) El Delegado en el Estado de la Secretaría de Medio Ambiente y Recursos Naturales;
 
@@ -396,3 +398,7 @@ P.O. 17 DE AGOSTO DE 2005.
 Artículo Primero.- Este Decreto entrará en vigor a los 15 días siguientes de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- El Reglamento para los usuarios de los servicios del Sistema Metropolitano de Procesamiento de Desechos Sólidos, deberá ser adecuado a las disposiciones de la presente Ley en un término que no exceda de 60 días naturales a partir de la entrada en vigor del presente Decreto.
+
+P.O. 24 DE DICIEMBRE DE 2010.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
