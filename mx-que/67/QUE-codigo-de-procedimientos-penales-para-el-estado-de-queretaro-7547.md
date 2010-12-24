@@ -4,7 +4,7 @@ identifier: "QUE-codigo-de-procedimientos-penales-para-el-estado-de-queretaro-75
 country: "mx"
 rank: "codigo"
 publication_date: "1989-07-06"
-last_updated: "2009-12-07"
+last_updated: "2010-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7547&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE QUERETARO
 
 > <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO DE LA LEY PUBLICADA EN EL P.O. DE 7 DE DICIEMBRE DE 2009, SE RESTABLECE LA VIGENCIA DEL PRESENTE ORDENAMIENTO.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE DICIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 6 de julio de 1989.
 
@@ -1829,9 +1829,13 @@ III.- (No presunción de riesgos graves). Que de las circunstancias del hecho y 
 
 IV.- (Requisito de reparación de daños y perjuicios).- Que se haya pagado la reparación de los daños y perjuicios causados al ofendido o a quien tenga derecho a ello. Esto no se entenderá como aceptación de culpabilidad.
 
-> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
-ARTICULO 300 C.- El imputado que considere tener derecho al beneficio de la suspensión a prueba del procedimiento penal, deberá solicitarlo dentro del plazo de cinco días hábiles siguientes al que declare cerrada la instrucción, debiéndose tramitar al efecto un incidente en términos de los no especificados.
+ARTICULO 300 C.- El imputado que considere tener derecho al beneficio de la suspensión a prueba del procedimiento penal, podrá solicitarlo inmediatamente después de haberse dictado auto de formal prisión o de sujeción a proceso y hasta cinco días hábiles siguientes al que declare cerrada la instrucción.
+
+Para el caso de que no se tenga precisado el monto de la reparación del daño al momento del dictado del auto de término, el beneficio se podrá solicitar durante la fase de instrucción y hasta dentro de los cinco días siguientes al auto que declara cerrada la instrucción, siempre y cuando haya quedado establecido el monto de reparación del daño.
+
+El beneficio de la suspensión a prueba del procedimiento penal, se tramitará incidentalmente, en los términos de los no especificados.
 
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 1996)</small>
 
@@ -2608,3 +2612,9 @@ Artículo Segundo. Todo procedimiento penal que estuviere en trámite, se sujeta
 Artículo Tercero. Se derogan todas las disposiciones previstas en otros ordenamientos, que contravengan lo previsto en la presente Ley.
 
 Artículo Cuarto. Todas las disposiciones previstas en otros ordenamientos que hicieren mención al Código que se deja sin efectos, se entenderán hechas al Código que recobra vigencia, tanto en contenido como en la numeración respectiva.
+
+P.O. 24 DE DICIEMBRE DE 2010.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
