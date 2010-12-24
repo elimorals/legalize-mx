@@ -4,7 +4,7 @@ identifier: "NLE-ley-que-crea-el-organismo-publico-descentralizado-13559"
 country: "mx"
 rank: "ley"
 publication_date: "1994-08-01"
-last_updated: "1994-08-01"
+last_updated: "2010-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13559&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO MUSEO DE HISTORIA MEXICANA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 1o. de agosto de 1994.
 
@@ -115,7 +115,9 @@ V.- Un Vocal que será el Secretario de Educación.
 
 VI.- Un Vocal que será el Secretario de Finanzas y Tesorero General del Estado.
 
-VII.- Un Vocal que será el Secretario de la Contraloría General del Estado.
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+VII.- Un Vocal que será el Contralor General del Estado.
 
 VIII.- Un Vocal designado por el Instituto Nacional de Antropología e Historia.
 
@@ -234,3 +236,9 @@ GUSTAVO ALARCON MARTINEZ
 EL C. SECRETARIO DE DESARROLLO SOCIAL
 
 MENTOR TIJERINA MARTINEZ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 24 DE DICIEMBRE DE 2010.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
