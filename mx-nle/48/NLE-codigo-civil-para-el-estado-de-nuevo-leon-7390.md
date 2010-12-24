@@ -4,7 +4,7 @@ identifier: "NLE-codigo-civil-para-el-estado-de-nuevo-leon-7390"
 country: "mx"
 rank: "codigo"
 publication_date: "1935-07-06"
-last_updated: "2010-12-08"
+last_updated: "2010-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7390&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO CIVIL PARA EL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2010.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el sábado 6 de julio de 1935.
 
@@ -2505,11 +2505,11 @@ Tratándose de adopción semiplena, el adoptante y el adoptado tienen obligació
 
 En la adopción plena, se aplicará lo dispuesto por los artículos 303, 304, 305 y 306.
 
-> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
 ###### Art. 308.
 
-Los alimentos comprenden la comida, el vestido, la habitación y la asistencia en casos de enfermedad. Respecto de los menores los alimentos comprenden, además, los gastos necesarios para la educación primaria y secundaria del alimentista y para proporcionarle algún oficio, arte o profesión honestos y adecuados a sus circunstancias personales.
+Los alimentos comprenden la manutención en general que incluye entre otros, la comida, el vestido, la habitación y la salud. Respecto de los menores de edad, los alimentos comprenderán además, los gastos necesarios para la educación preescolar, primaria y secundaria del alimentista y para proporcionarle algún oficio, arte o profesión honestos y adecuados a su edad y circunstancias personales, lo cual también deberá considerarse respecto de los mayores de edad, cuando el caso así lo amerite.
 
 ###### Art. 309.
 
@@ -2559,13 +2559,19 @@ IV.- Los hermanos y demás parientes colaterales dentro del cuarto grado;
 
 V.- El Ministerio Público.
 
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+VI.- La persona que tenga bajo su cuidado, custodia o depósito a un menor de edad.
+
 ###### Art. 316.
 
 Si las personas a que se refieren las fracciones II, III y IV del artículo anterior no pueden representar al acreedor alimentario en el juicio en que se pida el aseguramiento de alimentos, se nombrará por el juez un tutor interino.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
 ###### Art. 317.
 
-El aseguramiento podrá consistir en hipoteca, prenda, fianza o depósito de cantidad bastante a cubrir los alimentos.
+El aseguramiento podrá consistir en hipoteca, prenda, fianza, fideicomiso o depósito de cantidad suficiente a cubrir los alimentos, o cualquier otra forma de garantía que resulte suficiente a juicio del Juez.
 
 ###### Art. 318.
 
@@ -2602,6 +2608,32 @@ El cese de la obligación de dar alimentos sólo afectará al que hubiere dado l
 ###### Art. 321.
 
 El derecho de recibir alimentos no es renunciable, ni puede ser objeto de transacción.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+###### Art. 321 Bis.
+
+Los menores, las personas con discapacidad, los adultos mayores, los sujetos de interdicción y el cónyuge que se dedique al hogar, gozan de la presunción de necesitar alimentos.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+###### Art. 321 Bis 1.
+
+El acreedor alimentario, tendrá derecho preferente sobre los ingresos y bienes del deudor alimentista y podrá demandar el aseguramiento de esos bienes, para hacerlo efectivo, considerando para esto también lo dispuesto por el Artículo 165.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+###### Art. 321 Bis 2.
+
+Cuando cambien las circunstancias económicas del deudor alimentario, éste se encuentra obligado a hacerlo del conocimiento del Juez dentro del término de treinta días, en la vía y forma correspondiente, apercibido que en caso de no hacerlo, se le impondrá una multa en los términos previstos por la fracción I del Artículo 42 del Código de Procedimientos Civiles en vigor.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+###### Art. 321 Bis 3.
+
+Toda persona a quien por su cargo, corresponda proporcionar informes sobre la capacidad económica de los deudores alimentarios, está obligada a suministrar los datos exactos que le solicite el Juez.
+
+Quienes se resistan a acatar las órdenes judiciales de descuento, o auxilien al obligado a ocultar o disminuir sus bienes, o a eludir el cumplimiento de las obligaciones con independencia del delito que le resulte, será sancionado con una multa de hasta ciento cincuenta cuotas, la cual se aplicará a favor de los acreedores alimentarios.
 
 ###### Art. 322.
 
@@ -16689,7 +16721,7 @@ P.O. 27 DE DICIEMBRE DE 2005.
 
 Artículo Primero.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-Artículo Segundo.- Los procesos que se encuentren vigentes a la entrada en vigor del presente decreto se regirán por la ley vigente al inicio de los mismos, sin perjuicio de los beneficios que la legislación penal otorga.
+Artículo Segundo.- Los procesos que se encuentren vigentes a la entrada en vigor del presente decreto se regirán por la ley vigente al inicio de los mismos, sin perjuicios de los beneficios que la legislación penal otorga.
 
 Artículo Tercero.- Los hechos ocurridos con anterioridad a la entrada en vigor del presente decreto se regirán con la ley vigente al momento de ocurrir los mismos.
 
@@ -16782,6 +16814,10 @@ DECRETO NUMERO 117, POR EL QUE SE REFORMAN POR MODIFICACION LOS ARTICULOS 649, 6
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 8 DE DICIEMBRE DE 2010.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE DICIEMBRE DE 2010.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
