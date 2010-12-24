@@ -4,7 +4,7 @@ identifier: "MEX-codigo-para-la-biodiversidad-del-estado-de-mexico-50454"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-05-03"
-last_updated: "2008-05-29"
+last_updated: "2010-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50454&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO PARA LA BIODIVERSIDAD DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE MAYO DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE DICIEMBRE DE 2010.
 
 Código publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el miércoles 3 de mayo de 2006.
 
@@ -1413,9 +1413,11 @@ En los parques estatales sólo podrá permitirse la realización de actividades 
 
 98. Los paisajes protegidos se constituirán sobre áreas de tipo mixto, naturales, modificadas o cultivadas de valor estético, recreativo o cultural para mantener el paisaje de poblados tradicionales y su entorno, así como en ambientes rurales o semiurbanos que requieran ser preservados y conservados. En tales áreas se podrá autorizar la realización de las actividades propias de las comunidades previamente asentadas, así como las relativas a la recreación, la cultura, la preservación o restauración de sus ecosistemas y aspectos arquitectónicos siempre y cuando sean congruentes con el programa de manejo que al efecto se emita y los objetivos de protección del decreto correspondiente. Los paisajes protegidos se exceptúan de lo establecido por la parte final del artículo 2.91.
 
+> <small>(REFORMADO, G.G. 24 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 2.
 
-99. Las zonas de preservación ecológica de los centros de población se integran por los parques, corredores, andadores, camellones, y en general cualquier área de uso público en zonas industriales o circunvecinas de los asentamientos humanos en las que existan ecosistemas en buen estado que se destinen a preservar los elementos naturales indispensables para el equilibrio ecológico y el bienestar de la población de la localidad correspondiente. Tales áreas quedan exceptuadas de lo establecido por la parte final del artículo 2.91 del presente Libro, sin embargo los Municipios podrán imponer las medidas de protección, administración y vigilancia que consideren pertinentes para la consecución de los objetivos por los que se someta al presente régimen de este tipo de áreas naturales protegidas.
+99.- Las zonas de preservación ecológica de los centros de población se integran por los parques, corredores, andadores, camellones, y en general cualquier área de uso público en zonas industriales o circunvecinas de los asentamientos humanos en las que existan ecosistemas en buen estado que se destinen a preservar los elementos naturales indispensables para el equilibrio ecológico y el bienestar de la población de la localidad correspondiente. Tales áreas quedan exceptuadas de lo establecido por la parte final del artículo 2.91 del presente Libro, sin embargo los Municipios podrán imponer las medidas de creación, protección, administración y vigilancia que consideren pertinentes para la consecución de los objetivos por los que se someta al presente régimen de este tipo de áreas naturales protegidas.
 
 ###### Artículo 2.
 
@@ -7406,3 +7408,9 @@ G.G. 29 DE MAYO DE 2008.
 PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente decreto entrará en vigor a los quince días naturales siguientes al de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 24 DE DICIEMBRE DE 2010.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
