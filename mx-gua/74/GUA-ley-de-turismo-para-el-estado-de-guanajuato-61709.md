@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-turismo-para-el-estado-de-guanajuato-61709"
 country: "mx"
 rank: "ley"
 publication_date: "2008-06-13"
-last_updated: "2008-06-13"
+last_updated: "2010-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61709&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GUA"
 
 LEY DE TURISMO PARA EL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE TURISMO PARA El ESTADO DE GUANAJUATO Y SUS MUNICIPIOS, PUBLICADA EN EL P.O. DE 24 DE DICIEMBRE DE 2010. EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 13 de junio de 2008.
 
@@ -524,3 +526,31 @@ JUAN MANUEL OLIVA RAMÍREZ
 EL SECRETARIO DE GOBIERNO
 
 JOSÉ GERARDO MOSQUEDA MARTÍNEZ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 24 DE DICIEMBRE DE 2010.
+
+Inicio de vigencia
+
+Artículo Primero. La presente Ley entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Abrogación de la vigente Ley de Turismo
+
+Artículo Segundo. Se abroga la Ley de Turismo para el Estado de Guanajuato, contenida en el Decreto Legislativo Número 155, publicada en el Periódico Oficial del Gobierno del Estado número 95, Tercera Parte de fecha 13 de junio de 2008.
+
+Derogación tácita
+
+Artículo Tercero. Se derogan todas las disposiciones que se opongan al presente ordenamiento.
+
+Adecuación del Consejo Consultivo Turístico
+
+Artículo Cuarto. El Ejecutivo del Estado realizará las acciones que estime pertinentes, a efecto de que el Consejo Consultivo Turístico creado mediante el Acuerdo Gubernativo número 15, publicado en el Periódico Oficial del Gobierno del Estado número 84, Cuarta Parte de fecha 25 de mayo de 2007, esté acorde con esta Ley.
+
+Término para expedir la normativa reglamentaria estatal
+
+Artículo Quinto. La Secretaría expedirá los reglamentos que refiere la presente Ley, dentro de los ciento veinte días siguientes a la entrada en vigencia de ésta.
+
+Término para expedir la normativa reglamentaria municipal
+
+Artículo Sexto. Los municipios expedirán sus reglamentos dentro de los ciento ochenta días siguientes a la entrada en vigor de esta Ley.
