@@ -4,7 +4,7 @@ identifier: "NLE-ley-que-crea-el-organismo-publico-descentralizado-16173"
 country: "mx"
 rank: "ley"
 publication_date: "1989-01-30"
-last_updated: "1989-01-30"
+last_updated: "2010-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16173&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO "SISTEMA DE CAMINOS DE NUEVO LEON"
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 30 de enero 1989.
 
@@ -71,7 +71,9 @@ X.- Ejecutar las demás obras que determine el Consejo de Administración relati
 
 XI.- Vigilar que se respete el derecho de vía, e intervenir en el otorgamiento de las autorizaciones para la ejecución, de obras dentro del derecho de vía o para la instalación de servicios conexos o auxiliares del transporte;
 
-XII.- Intervenir en el estudio para la autorización de los vehículos y cargas que deban transitar por la red carretera a su cuidado, en los términos de la Ley de Comunicaciones y Transportes para el Estado de Nuevo León;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+XII.- Intervenir en el estudio para la autorización de los vehículos y cargas que deban transitar por la red carretera a su cuidado, en los términos de la Ley de Transporte para la Movilidad Sustentable para el Estado de Nuevo León;
 
 XIII.- Establecer la coordinación necesaria con la autoridad competente para la reparación de los daños ocasionados por terceros a la red estatal;
 
@@ -119,17 +121,23 @@ II.- Un Secretario, que será designado por el Presidente;
 
 III.- El Secretario de Finanzas y Tesorero General del Estado, con el carácter de vocal;
 
-IV.- El Secretario de Obras Públicas y Transportes, con el carácter de vocal;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+IV.- El Secretario de Obras Públicas, con el carácter de vocal;
 
 V.- El Secretario de Programación y Desarrollo, con el carácter de vocal;
 
-VI.- El Secretario de Fomento Agropecuario, con el carácter de vocal;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+VI.- El Director de la Corporación para el Desarrollo Agropecuario, con el carácter de vocal;
 
 VII.- El Secretario de Desarrollo Urbano, con el carácter de vocal:
 
 VIII.- El Director del Organismo "RED ESTATAL DE AUTOPISTAS DE NUEVO LEON", con el carácter de vocal, y
 
-IX.- El Director General del Centro de la Secretaría de Comunicaciones y Transportes en el Estado de Nuevo León.
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+IX.- El Delegado General del Centro de la Secretaría de Comunicaciones y Transportes en el Estado de Nuevo León.
 
 Por cada miembro propietario se designará un suplente.
 
@@ -233,9 +241,11 @@ X.- Nombrar, suspender y remover, en su caso, a los trabajadores que presten sus
 
 XI.- Las demás que le confiera esta Ley, el reglamento interior del Organismo y el Consejo de Administración.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 14o.
 
-Para llevar a cabo las labores de vigilancia de la operación del Organismo, habrá un Comisario designado por el Ejecutivo Estatal a propuesta de la Contraloría General del Estado en los términos de la Ley Orgánica de la Administración Pública y de las demás disposiciones aplicables.
+Para llevar a cabo las labores de vigilancia de la operación del Organismo, habrá un Comisario designado por el Ejecutivo Estatal a propuesta de la Contraloría y Transparencia Gubernamental en los términos de la Ley Orgánica de la Administración Pública y de las demás disposiciones aplicables.
 
 ###### ARTICULO 15o.
 
@@ -280,3 +290,9 @@ LIC. JORGE A. TREVIÑO
 EL C. SECRETARIO GENERAL DE GOBIERNO
 
 LIC. JOSE N. GONZALEZ PARAS
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 24 DE DICIEMBRE DE 2010.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
