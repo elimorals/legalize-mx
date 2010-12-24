@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2010-12-22"
+last_updated: "2010-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO ADMINISTRATIVO DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE DICIEMBRE DE 2010.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -3941,7 +3941,9 @@ III. Se propiciará que el aprovechamiento del suelo en colonias y predios se ha
 
 IV. En relación con la infraestructura y equipamiento urbano:
 
-a) Las plazas cívicas, jardines y espacios semejantes, se ubicarán de preferencia en sitios centrales de cada uno de los distintos barrios o colonias del centro de población y a su alrededor se situarán edificios destinados a fines que, guardando concordancia con el carácter de tales espacios, contribuyan a elevar la imagen del entorno;
+> <small>(REFORMADO, G.G. 24 DE DICIEMBRE DE 2010)</small>
+
+a) Las plazas cívicas, jardines, áreas verdes que contribuyan a elevar el nivel de vida y propicien la convivencia social de los habitantes, así como la preservación del medio ambiente y espacios semejantes, se ubicarán de preferencia en sitios centrales de cada uno de los distintos barrios o colonias del centro de población y a su alrededor se situarán edificios destinados a fines que, guardando concordancia con el carácter de tales espacios, contribuyan a elevar la imagen del entorno;
 
 b) Los edificios de establecimientos dedicados a la atención de la salud y a la educación se ubicarán de preferencia en las inmediaciones de las áreas verdes, procurando que queden alejados del ruido y demás elementos contaminantes y, en caso de los establecimientos de educación, evitar que tengan acceso directo a vías públicas primarias;
 
@@ -9789,13 +9791,13 @@ El Secretario Técnico, tiene las facultades y obligaciones que se establecen en
 
 ###### Artículo 14.
 
-56.- Corresponde al Comisario ejercer las facultades y obligaciones establecidas en el Reglamento de la Ley para la Coordinación y Control de Organismos Auxiliares del Estado de México.
+55.- El control y vigilancia del IGECEM, recaerá en el Comisario, que asistirá a todas las sesiones del Consejo Directivo, con voz pero sin voto. El Comisario será nombrado conforme lo dispone la Ley para la Coordinación y Control de Organismos Auxiliares del Estado de México.
 
 > <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
 
 ###### Artículo 14.
 
-55.- El control y vigilancia del IGECEM, recaerá en el Comisario, que asistirá a todas las sesiones del Consejo Directivo, con voz pero sin voto. El Comisario será nombrado conforme lo dispone la Ley para la Coordinación y Control de Organismos Auxiliares del Estado de México.
+56.- Corresponde al Comisario ejercer las facultades y obligaciones establecidas en el Reglamento de la Ley para la Coordinación y Control de Organismos Auxiliares del Estado de México.
 
 > <small>(ADICIONADO CON LOS CAPITULOS, Y ARTICULOS QUE LO INTEGRAN, G.G. 22 DE AGOSTO DE 2005)</small>
 
@@ -9891,11 +9893,11 @@ II. Interceptar, interferir, reproducir, sustraer, comercializar, divulgar, alte
 
 2.- El Periódico Oficial “Gaceta del Gobierno”, es el órgano informativo del Gobierno del Estado Libre y Soberano de México, de carácter permanente e interés público, que tiene por objeto publicar las Leyes, Decretos, Reglamentos, Acuerdos, Notificaciones, Avisos, Manuales y demás disposiciones de carácter general de los Poderes del Estado, Organismos Autónomos, Organismos Auxiliares, Ayuntamientos y de particulares.
 
-> <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
+> <small>(REFORMADO, G.G. 24 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 15.
 
-3.- El Periódico Oficial se editará y distribuirá dentro del territorio del Estado de México.
+3.- El Periódico Oficial "Gaceta del Gobierno" se editará en la ciudad de Toluca de Lerdo, aún cuando los talleres de impresión se ubiquen en otro municipio, y se repartirá ampliamente en el territorio del Estado.
 
 > <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
 
@@ -9907,13 +9909,17 @@ I. La leyenda impresa de “Gobierno del Estado Libre y Soberano de México”;
 
 II. El nombre del Periódico Oficial: “Gaceta del Gobierno”;
 
-III. Fecha y número de publicación;
+> <small>(ADICIONADA, G.G. 24 DE DICIEMBRE DE 2010)</small>
 
-IV. Un sumario de su contenido;
+III. El nombre de su Director Técnico;
 
-V. Los escudos Nacional y del Estado de México;
+IV. Fecha y número de publicación;
 
-VI. El número de ejemplares impresos.
+V. Un sumario de su contenido;
+
+VI. Los escudos Nacional y del Estado de México;
+
+VII. El número de ejemplares impresos.
 
 > <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
 
@@ -9935,13 +9941,13 @@ VI. El número de ejemplares impresos.
 
 Las publicaciones en el Periódico Oficial “Gaceta del Gobierno”, se realizarán en el siguiente orden: Poderes Legislativo, Ejecutivo y Judicial, Organismos Autónomos, Organismos Auxiliares, Ayuntamientos y particulares.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 5 DE ENERO DE 2006)</small>
+> <small>(ADICIONADO, G.G. 24 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 15.
 
-8.- La Secretaría General de Gobierno, es la dependencia del Poder Ejecutivo encargada de ordenar la organización, administración, edición, publicación y circulación del Periódico Oficial del Gobierno del Estado de México.
+7 Bis.- El Periódico Oficial del Gobierno del Estado de México, deberá proveerse con recursos tecnológicos y humanos adecuados, así como materiales necesarios para la oportuna elaboración, impresión y distribución en cantidad suficiente para que la sociedad este enterada en tiempo y forma de las disposiciones que nos rigen.
 
-> <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 5 DE ENERO DE 2006)</small>
 
 ### CAPITULO TERCERO. Del procedimiento de licitación pública
 
@@ -9949,17 +9955,29 @@ Las publicaciones en el Periódico Oficial “Gaceta del Gobierno”, se realiza
 
 ###### Artículo 15.
 
+8.- La Secretaría General de Gobierno, es la dependencia del Poder Ejecutivo encargada de ordenar la organización, administración, edición, publicación y circulación del Periódico Oficial del Gobierno del Estado de México.
+
+> <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
+
+###### Artículo 15.
+
 9.- El responsable del Periódico Oficial, tendrá las siguientes atribuciones:
 
-I. Editarlo, publicarlo y circularlo;
+> <small>(REFORMADA, G.G. 24 DE DICIEMBRE DE 2010)</small>
 
-II. Recibir en custodia la documentación que habrá de publicarse;
+I. Editar, imprimir y publicar la "Gaceta del Gobierno" en tiempo y forma;
+
+> <small>(REFORMADA, G.G. 24 DE DICIEMBRE DE 2010)</small>
+
+II. Recibir en custodia la documentación que habrá de publicarse, siempre que cumpla con los requisitos señalados en el artículo 15.14 de este Libro;
 
 III. Compilar cronológicamente los ejemplares;
 
 IV. Elaborar los índices anuales de publicaciones;
 
-V. Distribuir el Periódico Oficial en el Estado;
+> <small>(REFORMADA, G.G. 24 DE DICIEMBRE DE 2010)</small>
+
+V. Distribuir el Periódico Oficial en el Estado de México;
 
 VI. Establecer sistemas de venta y suscripción a los particulares;
 
@@ -9989,6 +10007,10 @@ IV. Donaciones a instituciones privadas.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 5 DE ENERO DE 2006)</small>
 
+### CAPITULO CUARTO. De las excepciones a la licitación pública
+
+> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
+
 ###### Artículo 15.
 
 12.- Serán materia de publicación en el Periódico Oficial.
@@ -10005,23 +10027,19 @@ V. Los actos o resoluciones que así determinen los titulares de los Poderes del
 
 VI. Las actas, documentos o avisos de los Organismos Auxiliares de la administración Pública Estatal y municipal, que conforme a la ley, deban ser publicados o se tenga interés en hacerlo; y
 
-VII. Las actas, documentos o avisos de particulares que conforme a la ley, deban ser publicados o tengan interés en hacerlo.
+VII. (DEROGADA, G.G. 24 DE DICIEMBRE DE 2010)
 
 > <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
-
-### CAPITULO CUARTO. De las excepciones a la licitación pública
-
-> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
 ###### Artículo 15.
 
 13.- Para acreditar el contenido de las publicaciones, será suficiente el cotejo del documento presentado con el publicado.
 
-> <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 24 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 15.
 
-14. En ningún caso se publicará documento alguno, cualquiera que sea su naturaleza jurídica, si no está debidamente respaldado con la firma o las firmas del responsable o responsables de la publicación.
+14.- En ningún caso se publicará documento alguno, cualquiera que sea su naturaleza jurídica, si no está debidamente respaldado con la firma o las firmas del responsable o responsables de la publicación y el sello correspondiente.
 
 El documento a publicar deberá presentarse en papel membretado, original y copia, y su respaldo magnético, no se aceptarán documentos con enmendaduras, borrones o letras ilegibles.
 
@@ -10039,7 +10057,17 @@ Por motivos técnicos, en la publicación del documento se podrá omitir la impr
 
 16.- Para los efectos de la venta del Periódico Oficial y el pago de los servicios que éste presta, se atenderá a lo establecido en la Ley de Ingresos del Estado del ejercicio fiscal correspondiente.
 
+> <small>(ADICIONADA, G.G. 24 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 15.
+
+16 Bis.- El Director Técnico y del Periódico Oficial "Gaceta del Gobierno", archivará y mantendrá en custodia los documentos originales que presente el Ejecutivo para su publicación, archivo que resguardará durante un término de cinco años.
+
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 5 DE ENERO DE 2006)</small>
+
+### CAPITULO PRIMERO. Generalidades
+
+> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
 ###### Artículo 15.
 
@@ -10052,10 +10080,6 @@ Por motivos técnicos, en la publicación del documento se podrá omitir la impr
 18.- Los documentos serán publicados dentro de los cinco días hábiles siguientes a la fecha de su recepción en la Secretaría General de Gobierno.
 
 > <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
-
-### CAPITULO PRIMERO. Generalidades
-
-> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
 ###### Artículo 15.
 
@@ -10077,7 +10101,17 @@ IV.- Aquellos cuya publicación este determinada por los Poderes Legislativo, Ej
 
 Para los efectos del presente artículo, se entiende que el periódico oficial se pone en circulación cuando se encuentre a disposición del público en general para su consulta electrónica, distribución y venta.
 
+> <small>(ADICIONADO, G.G. 24 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 15.
+
+20 Bis.- La "Gaceta del Gobierno" se podrá consultar y difundir gratuitamente vía internet.
+
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 5 DE ENERO DE 2006)</small>
+
+### CAPITULO SEGUNDO. Incumplimiento, rescisión y terminación
+
+> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
 ###### Artículo 15.
 
@@ -10093,23 +10127,23 @@ I.- Por errores de impresión durante la elaboración del Periódico Oficial; y
 
 II.- Por errores en el texto de los documentos originales que contengan la materia de publicación.
 
-> <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
+> <small>(REFORMADO, G.G. 24 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 15.
 
-23.- Cuando se trate de errores de impresión, la Secretaría General de Gobierno, por si o a petición del solicitante de la publicación, ordenará la inserción de la fe de erratas.
+23.- Cuando se trate de errores de impresión, la Dirección Técnica y del Periódico Oficial "Gaceta del Gobierno", por si o a petición del solicitante de la publicación, ordenará la inserción de la fe de erratas.
 
-> <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
-
-### CAPITULO SEGUNDO. Incumplimiento, rescisión y terminación
-
-> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADO, G.G. 24 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 15.
 
-24.- Cuando se trate de errores en el contenido del documento original, la Secretaría General de Gobierno a petición del responsable de la publicación ordenará la inserción de la fe de erratas.
+24.- Cuando el contenido del instrumento original publicado contenga errores insertos, el Director Técnico y del Periódico Oficial "Gaceta del Gobierno", previa solicitud del responsable de la publicación, y previo el pago de derechos publicará una fe de erratas, en la que conste el error y éste sea subsanado.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 5 DE ENERO DE 2006)</small>
+
+### CAPITULO UNICO
+
+> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
 ###### Artículo 15.
 
@@ -10120,10 +10154,6 @@ I. Dejen de cumplir con las disposiciones que les impone el presente Libro; y
 II. Por actos u omisiones que entorpezcan los procedimientos de edición, publicación y circulación del Periódico Oficial.
 
 > <small>(ADICIONADO CON LOS TITULOS, CAPITULOS Y ARTICULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
-
-### CAPITULO UNICO
-
-> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
 # LIBRO DECIMO SEXTO. De la Participación Pública-Privada en Proyectos para Prestación de Servicios
 
@@ -11804,3 +11834,19 @@ OCTAVO.- Las Secretarías de Finanzas, de la Contraloría y de Educación, en el
 NOVENO.- El Instituto Mexiquense de la Infraestructura Física Educativa deberá expedir su Reglamento Interno en un plazo no mayor a 90 días naturales contados a partir de la entrada en vigor del presente Decreto.
 
 DÉCIMO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+G.G. 24 DE DICIEMBRE DE 2010.
+
+DECRETO NUMERO 256, POR EL QUE SE REFORMA EL INCISO A) DE LA FRACCION IV DEL ARTICULO 5.34 DEL CODIGO ADMINISTRATIVO DEL ESTADO DE MEXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 24 DE DICIEMBRE DE 2010.
+
+DECRETO NUMERO 257, POR EL QUE SE REFORMA EL ARTICULO 15.3, LAS FRACCIONES I, II Y V DEL ARTICULO 15.9, EL PRIMER PARRAFO DEL ARTICULO 15.14, EL ARTICULO 15.23 Y EL ARTICULO 15.24; SE ADICIONA AL ARTICULO 15.4 LA FRACCION III RECORRIENDOSE LA ACTUAL PARA SER IV Y LAS SUBSECUENTES, LOS ARTICULOS 15.7 BIS, 15.16 BIS, 15.20 BIS; Y SE DEROGA LA FRACCION VII DEL ARTICULO 15.12 DEL LIBRO DECIMO QUINTO DEL CODIGO ADMINISTRATIVO DEL ESTADO DE MEXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
