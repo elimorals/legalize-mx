@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-los-derechos-de-las-personas-adultas-mayores-en-el-42844
 country: "mx"
 rank: "ley"
 publication_date: "2005-01-07"
-last_updated: "2005-07-27"
+last_updated: "2010-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42844&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE JULIO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 7 de enero de 2005.
 
@@ -143,9 +143,17 @@ b) Expresar su opinión libremente, conocer sus derechos y participar en el ámb
 
 c) Recibir un trato digno y apropiado en cualquier procedimiento judicial o administrativo que los involucre;
 
-d) Recibir el apoyo del gobierno estatal y de los municipales de acuerdo a sus respectivas competencias en lo relativo al ejercicio y respeto de sus derechos, a través de las instituciones creadas para tal efecto; y
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
-e) Contar con asesoría jurídica gratuita y con un representante legal cuando lo considere necesario, poniendo especial cuidado en la protección de su patrimonio personal y familiar y cuando sea el caso, testar sin presiones ni violencia.
+d) Recibir el apoyo del gobierno estatal y de los municipales de acuerdo a sus respectivas competencias en lo relativo al ejercicio y respecto de sus derechos, a través de las instituciones creadas para tal efecto;
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+e) Contar con asesoría jurídica y con un representante legal cuando lo considere necesario, poniendo especial cuidado en la protección de su patrimonio personal y familiar y cuando sea el caso, testar sin presiones ni violencia; y
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+f) Obtener oportunamente de parte de las instituciones de seguridad social o quien corresponda, la información necesaria para gestionar la jubilación o retiro, así como de los programas que operen a favor de las personas adultas mayores en los ámbitos estatal y municipal.
 
 III. La salud y la alimentación, que comprenden:
 
@@ -237,11 +245,15 @@ XI. Crear los mecanismos o instancias correspondientes para el cumplimiento de e
 
 XII. Las demás que le confieran otros ordenamientos jurídicos.
 
-### CAPÍTULO II. DEL CONSEJO DE DESARROLLO SOCIAL
+> <small>(REFORMADA SU DENOMINACION, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+### CAPÍTULO II. DE LA SECRETARIA DE DESARROLLO SOCIAL
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 11.
 
-Conforme lo dispone la Ley del Consejo de Desarrollo Social, le corresponde a éste, en lo referente a las Personas Adultas Mayores:
+Conforme lo dispone la Secretaría de Desarrollo Social, le corresponde a ésta, en lo referente a las Personas Adultas Mayores:
 
 I. Establecer, coordinar, ejecutar y evaluar las políticas de desarrollo social;
 
@@ -271,11 +283,21 @@ II. Proporcionar a las Personas Adultas Mayores una cartilla médica de autocuid
 
 III. Implementar programas con el objeto de proporcionar a las Personas Adultas Mayores los medicamentos que necesiten para mantener un buen estado de salud, en coordinación con el Sistema para el Desarrollo Integral de la Familia en el Estado;
 
-IV. Fomentar la creación de redes de apoyo en materia de Atención Médica, cuidados y rehabilitación, a través de la capacitación y sensibilización sobre la problemática específica de las Personas Adultas Mayores; y
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
-V. Fomentar la creación de organismos auxiliares de Adultos Mayores, que los atenderán en primeros auxilios, terapias de rehabilitación, asistencia para que ingieran sus alimentos y medicamentos, movilización y atención personalizada en caso de encontrarse postrados, en coordinación con el Sistema para el Desarrollo Integral de la Familia en el Estado.
+IV. Fomentar la creación de redes de apoyo en materia de Atención Pública, cuidados y rehabilitación, a través de la capacitación y sensibilización sobre la problemática específica de las Personas Adultas Mayores;
 
-VI. Dar cauce, ante las autoridades competentes, de casos de personas Adultas Mayores que fallezcan y sus familias no cuente (sic) con recursos patrimoniales para hacer frente a los gastos derivados de su servicio funerario, con el fin de que se les otorgue apoyo económico o en especie, en los términos de las disposiciones legales conducentes.
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+V. Fomentar la creación de organismos auxiliares de Adultos Mayores, que los atenderán en primeros auxilios, terapias de rehabilitación, asistencia para que ingieran sus alimentos y medicamentos, movilización y atención personalizada en caso de encontrarse postrado, en coordinación con el Sistema para el Desarrollo Integral de la Familia en el Estado;
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+VI. Promover la capacitación integral y de forma permanente del personal de las instituciones públicas, privadas y sociales autorizadas para prestar servicios de salud a personas adultos mayores; y
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+VII. Dar cauce, ante las autoridades competentes, de casos de Personas Adultas Mayores que fallezcan y sus familias no cuenten con recursos patrimoniales para hacer frente a los gastos derivados de su servicio funerario, con el fin de que se le otorgue apoyo económico o en especie en los términos de las disposiciones legales conducentes.
 
 ###### Artículo 13.
 
@@ -307,15 +329,21 @@ La Corporación para el Desarrollo Turístico de Nuevo León, en coordinación c
 
 Para garantizar el derecho a la recreación y turismo, la Corporación para el Desarrollo Turístico de Nuevo León, difundirá permanentemente a través de los medios masivos de comunicación, las actividades, que se realicen a favor de las Personas Adultas Mayores.
 
-### CAPÍTULO VI. DEL CONSEJO DE RELACIONES LABORALES Y PRODUCTIVIDAD
+> <small>(REFORMADA SU DENOMINACION, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+### CAPÍTULO VI. DE LA SECRETARÍA DEL TRABAJO
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 19.
 
-El Consejo de Relaciones Laborales y Productividad en coordinación con el Sistema para el Desarrollo Integral de la Familia en el Estado y el Consejo de Desarrollo Social estatal, deberá implementar los programas necesarios, para promover el empleo de las Personas Adultas Mayores, tanto en el sector público como privado, atendiendo a su profesión u oficio y a su experiencia y conocimientos teóricos y prácticos.
+La Secretaría del Trabajo en coordinación con el Sistema para el Desarrollo Integral de la Familia en el Estado y con la Secretaría de Desarrollo Social estatal, deberá implementar los programas necesarios, para promover el empleo de las Personas Adultas Mayores, tanto en el sector público como privado, atendiendo a su profesión u oficio y a su experiencia y conocimientos teóricos y prácticos.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 20.
 
-Dicho Consejo en coordinación con el Sistema Estatal para el Desarrollo Integral de la Familia en el Estado, impulsará programas de autoempleo para las Personas Adultas Mayores, de acuerdo a su profesión u oficio, a través de apoyos financieros, de capacitación y la creación de redes de producción, distribución y comercialización.
+Dicha Secretaría en coordinación con el Sistema Estatal para el Desarrollo Integral de la Familia en el Estado, impulsará programas de autoempleo para las Personas Adultas Mayores, de acuerdo a su profesión u oficio, a través de apoyos financieros, de capacitación y la creación de redes de producción, distribución y comercialización.
 
 ### CAPÍTULO VII. DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA EN EL
 
@@ -379,7 +407,9 @@ El Comité Técnico estará integrado de la siguiente manera:
 
 I. Un Presidente, que será el Gobernador del Estado;
 
-II. Un Secretario Técnico, que será el Presidente Ejecutivo del Consejo de Desarrollo Social;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+II. Un Secretario Técnico, que será el Secretario de Desarrollo Social;
 
 III. Vocales, que serán los titulares de las siguientes dependencias, entidades públicas y organizaciones de la sociedad civil:
 
@@ -389,7 +419,9 @@ b) Secretaría de Salud del Estado de Nuevo León;
 
 c) Secretaría de Educación del Estado de Nuevo León;
 
-d) Consejo de Relaciones Laborales y Productividad;
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+d) Secretaria de Trabajo;
 
 e) Instituto Estatal de las Mujeres;
 
@@ -517,9 +549,11 @@ La Agencia para la Racionalización y Modernización del Sistema de Transporte P
 
 La Administración Pública del Estado y de los Municipios, a través de sus órganos correspondientes, implementará programas de protección al patrimonio de la población de Personas Adultas Mayores, de tal manera que éstas se beneficien al adquirir bienes o al utilizar servicios y que además estén debidamente informadas para hacer valer este derecho.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 37.
 
-La Administración Pública del Estado a través del Consejo de Desarrollo Social y los Municipios promoverán la celebración de convenios con la iniciativa privada y el sector social a fin de que se instrumenten campañas de promociones y descuentos en bienes y servicios que beneficien a las Personas Adultas Mayores.
+La Administración Pública del Estado a través de la Secretaría de Desarrollo Social y los Municipios promoverán la celebración de convenios con la iniciativa privada y el sector social a fin de que se instrumenten campañas de promociones y descuentos en bienes y servicios que beneficien a las Personas Adultas Mayores.
 
 ###### Artículo 38.
 
@@ -531,9 +565,11 @@ La Administración Pública Estatal y Municipal, de conformidad con las disposic
 
 Las Secretarías y demás Dependencias que integran las Administración Pública Estatal, los Organismos Públicos Descentralizados de Participación Ciudadana y demás Entidades Paraestatales del Estado, así como los municipios en el ámbito de sus respectivas competencias y jurisdicción, vigilarán y garantizarán la defensa de los derechos de las Personas Adultas Mayores otorgándoles una atención preferencial que agilice los trámites y procedimientos administrativos a realizar.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 40.
 
-El Consejo de Desarrollo Social del Estado de Nuevo León, promoverá la celebración de convenios de concertación con la iniciativa privada, a fin de que la atención preferencial para las Personas Adultas Mayores, también sea proporcionado en instituciones bancarias, tiendas de autoservicio y otras empresas mercantiles.
+La Secretaría Desarrollo Social del Estado de Nuevo León, promoverá la celebración de convenios de concertación con la iniciativa privada, a fin de que la atención preferencial para las Personas Adultas Mayores, también sea proporcionado en instituciones bancarias, tiendas de autoservicio y otras empresas mercantiles.
 
 ## TÍTULO SÉPTIMO
 
@@ -549,9 +585,11 @@ Toda persona que tenga conocimiento de que una Persona Adulta Mayor se encuentre
 
 En todo momento las instituciones públicas, privadas y sociales deberán garantizar y observar el total e irrestricto respeto a los derechos de las Personas Adultas Mayores que esta Ley consagra.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 43.
 
-Las instituciones públicas, privadas y sociales que presten asistencia a las Personas Adultas Mayores, deberán contar con personal capacitado para prestar este tipo de servicios.
+Las instituciones públicas, privadas y sociales que presten servicios de asistencia social a las Personas Adultas Mayores, deberán contar con personal especializado y capacitado, para tal efecto.
 
 ## TÍTULO OCTAVO. DE LA DENUNCIA POPULAR Y DE LAS RESPONSABILIDADES Y SANCIONES
 
@@ -659,7 +697,7 @@ II. Representar a la Procuraduría de la Defensa del Adulto Mayor ante cualquier
 
 III. Aprobar los manuales de organización y de procedimientos administrativos de la Procuraduría de la Defensa del Adulto Mayor;
 
-IV. Rendir un informe bimestral de actividades de la Procuraduría de la Defensa del Adulto Mayor a la Junta de Gobierno del Sistema para el Desarrollo Integral de la Familia del Estado de Nuevo León, O.P.D., y al Comité Técnico para la Atención a los Adultos Mayores;
+IV. Rendir un informe bimestral de actividades de la Procuraduría de la Defensa del Adulto Mayor a la Junta de Gobierno del Sistema para el Desarrollo Integral del Estado de Nuevo León, O.P.D., y al Comité Técnico para la Atención a los Adultos Mayores;
 
 V. Observar las disposiciones que le señalen esta Ley y su Reglamento Interior;
 
@@ -732,3 +770,15 @@ Artículo Primero.- Este Decreto entrará en vigor a los treinta días siguiente
 Artículo Segundo.- La Junta de Gobierno del Sistema para el Desarrollo Integral de la Familia del Estado de Nuevo León, O.P.D. deberá aprobar el Reglamento Interior de la Procuraduría de la Defensa del Adulto Mayor en un plazo no mayor a noventa días contados a partir de la fecha de entrada en vigor de la presente ley.
 
 Artículo Tercero.- El Sistema para el Desarrollo Integral de la Familia del Estado de Nuevo León, O.P.D. conforme a su presupuesto y con cargo a él, ejercerá las acciones que resulten necesarias para la asignación del personal y presupuesto para el funcionamiento de la Procuraduría de la Defensa del Adulto Mayor.
+
+P.O. 24 DE DICIEMBRE DE 2010.
+
+DECRETO NUMERO 135 POR EL QUE SE REFORMAN LOS ARTICULOS 11 PARRAFO PRIMERO; 19; 20; 23 FRACCIONES II Y III INCISO D), 37; 40 Y LA DENOMINACION DE LOS CAPITULOS II Y VI, DEL TITULO IV DENOMINADO DE LAS FACULTADES Y OBLIGACIONES DE LAS AUTORIDADES, DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE NUEVO LEON.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE DICIEMBRE DE 2010.
+
+DECRETO NUMERO 144 POR EL QUE SE REFORMAN LOS ARTICULOS 5° FRACCION II INCISOS D) Y E); 12 FRACCIONES IV Y V Y 43; SE ADICIONA UN INCISO F) A LA FRACCIÓN II DEL ARTICULO 5°, Y UNA FRACCIÓN VI AL ARTICULO 12 PASANDO LA VI A SER VII, TODOS DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE NUEVO LEÓN.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
