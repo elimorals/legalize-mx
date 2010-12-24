@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-administracion-financiera-para-el-estado-de-nuevo-7422"
 country: "mx"
 rank: "ley"
 publication_date: "1994-11-18"
-last_updated: "2006-09-29"
+last_updated: "2010-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7422&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE ADMINISTRACION FINANCIERA PARA EL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 18 de noviembre de 1994.
 
@@ -75,11 +75,11 @@ El Ejecutivo del Estado expedirá la reglamentación necesaria para la aplicaci�
 
 Para que surtan efectos las resoluciones, acuerdos, convenios o disposiciones, de carácter general, que establezcan obligaciones, afecten o generen derechos a particulares, deberán publicarse en el Periódico Oficial del Estado.
 
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 5o.
 
-La aplicación de esta ley se efectuará por el Ejecutivo, a través de la Secretaría de Finanzas y Tesorería General del Estado, la Oficialía Mayor de Gobierno y de la Contraloría Interna, en sus respectivos ámbitos de competencia.
+La aplicación de esta Ley se efectuará por el Ejecutivo, a través de la Secretaría de Finanzas y Tesorería General del Estado, y la Contraloría y Transparencia Gubernamental, en sus respectivos ámbitos de competencia.
 
 ###### ARTICULO 6o.
 
@@ -413,15 +413,19 @@ La Secretaría de Finanzas y Tesorería General del Estado y los Consejos de Adm
 
 La Secretaría de Finanzas y Tesorería General del Estado llevará la contabilidad del sector central conforme al catálogo de cuentas aprobado en el Reglamento de esta Ley, en el cual, por lo menos, se incluirán las partidas y conceptos previstos en las leyes de Egresos y de Ingresos.
 
-Los órganos encargados de llevar la contabilidad de las entidades a que se refiere el artículo 2o., fracción III, incisos b) y c), procurarán coordinarse con la Secretaría de Finanzas y Tesorería General del Estado, con la Secretaría de la Contraloría General del Estado y con la Contaduría Mayor de Hacienda, para el establecimiento uniforme, en la medida de lo factible, de sus respectivos catálogos de cuentas, sistemas y procedimientos de registro contable.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+Los órganos encargados de llevar la contabilidad de las entidades a que se refiere el Artículo 2o., fracción III, incisos b) y c), procurarán coordinarse con la Secretaría de Finanzas y Tesorería General del Estado, con la Contraloría y Transparencia Gubernamental y con la Auditoría Superior del Estado, para el establecimiento uniforme, en la medida de lo factible, de sus respectivos catálogos de cuentas, sistemas y procedimientos de registro contable.
 
 ### CAPITULO VII. DEL CONTROL INTERNO DEL EJERCICIO DE LAS FINANZAS PUBLICAS
 
 #### SECCION PRIMERA. DE LOS ORGANOS DE CONTROL
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 51.
 
-Las funciones relativas al control del ejercicio de las finanzas públicas del Estado serán ejercidas por la Secretaría de Finanzas y Tesorería General del Estado, por la Secretaría de la Contraloría General del Estado y por los órganos internos de control en el ámbito de su competencia, respecto de las entidades a que se refiere el artículo 2o. de esta Ley.
+Las funciones relativas al control del ejercicio de las finanzas públicas del Estado serán ejercidas por la Secretaría de Finanzas y Tesorería General del Estado, por la Contraloría y Transparencia Gubernamental y por los órganos internos de control en el ámbito de su competencia, respecto de las entidades a que se refiere el Artículo 2o. de esta Ley.
 
 ###### ARTICULO 52.
 
@@ -429,7 +433,9 @@ El Estado y sus organismos descentralizados y fideicomisos deberán dictaminar l
 
 El Ejecutivo del Estado, a través de la Secretaría de Finanzas y Tesorería General del Estado, podrá disponer la utilización de servicios de auditores externos en dependencias del sector centralizado que ejerzan o administren fondos públicos.
 
-Los auditores externos a que se refiere este artículo, que dictaminen los estados financieros del Estado y sus organismos descentralizados y fideicomisos, serán designados por el titular del Ejecutivo, a propuesta conjunta del Secretario de Finanzas y Tesorero General del Estado y del Secretario de la Contraloría General del Estado.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+Los auditores externos a que se refiere este Artículo, que dictaminen los estados financieros del Estado y sus organismos descentralizados y fideicomisos, serán designados por el titular del Ejecutivo, a propuesta conjunta del Secretario de Finanzas y Tesorero General del Estado y del Contralor General del Estado.
 
 En el Reglamento de esta Ley se regulará el ejercicio de las funciones a que se refiere este artículo.
 
@@ -461,17 +467,23 @@ El control interno que ejerzan los órganos a que se refiere el artículo 51 de 
 
 Las revisiones que efectúen estos órganos, podrán ser de tipo financiero, técnico, operacional, de resultado de programas y de legalidad.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 56.
 
-Las entidades a que se refiere el artículo 2o., las dependencias que las integren, los servidores públicos adscritos a ellas y las personas que administren los recursos financieros de las entidades a que se refiere la fracción IV de dicho artículo, deberán proporcionar a la Secretaría de la Contraloría General del Estado la información y documentos relacionados con la presupuestación y ejercicio de las finanzas públicas, que ésta les requiera, debiendo permitir la práctica de visitas en los domicilios, oficinas, locales, bodegas, almacenes y recintos oficiales de las dependencias que integren estas entidades, permitiéndoles incluso el acceso a los archivos propios de cada dependencia.
+Las entidades a que se refiere el Artículo 2o., las dependencias que las integren, los servidores públicos adscritos a ellas y las personas que administren los recursos financieros de las entidades a que se refiere la fracción IV de dicho Artículo, deberán proporcionar a la Contraloría y Transparencia Gubernamental la información y documentos relacionados con la presupuestación y ejercicio de las finanzas públicas, que ésta les requiera, debiendo permitir la práctica de visitas en los domicilios, oficinas, locales, bodegas, almacenes y recintos oficiales de las dependencias que integren estas entidades, permitiéndoles incluso el acceso a los archivos propios de cada dependencia.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 57.
 
-La Secretaría de la Contraloría General del Estado, en el ejercicio de sus funciones, podrá actuar en cumplimiento a instrucciones giradas por el titular del Ejecutivo del Estado, por iniciativa propia o a solicitud de las entidades y dependencias del Poder Ejecutivo a ser revisadas. En lo que respecta a las solicitudes de revisión formuladas por las entidades y dependencias del Poder Ejecutivo, éstas únicamente podrán ser presentadas por los Secretarios del Ejecutivo y por los Directores Generales de los organismos paraestatales, o los servidores públicos equivalentes.
+La Contraloría y Transparencia Gubernamental, en el ejercicio de sus funciones, podrá actuar en cumplimiento a instrucciones giradas por el titular del Ejecutivo del Estado, por iniciativa propia o a solicitud de las entidades y dependencias del Poder Ejecutivo a ser revisadas. En lo que respecta a las solicitudes de revisión formuladas por las entidades y dependencias del Poder Ejecutivo, éstas únicamente podrán ser presentadas por los Secretarios del Ejecutivo y por los Directores Generales de los organismos paraestatales, o los servidores públicos equivalentes.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 58.
 
-La Secretaría de la Contraloría General del Estado informará al titular del Ejecutivo, así como al titular de la dependencia o entidad sujeta a revisión, de los resultados obtenidos con motivo de sus actividades. De encontrar irregularidades, se procederá en los términos de esta Ley y de las demás disposiciones legales aplicables.
+La Contraloría y Transparencia Gubernamental informará al titular del Ejecutivo, así como al titular de la dependencia o entidad sujeta a revisión, de los resultados obtenidos con motivo de sus actividades. De encontrar irregularidades, se procederá en los términos de esta Ley y de las demás disposiciones legales aplicables.
 
 ###### ARTICULO 59.
 
@@ -549,25 +561,27 @@ Por lo que respecta a los inmuebles propiedad del Estado, Entidades Descentraliz
 
 Las operaciones inmobiliarias, incluso las enajenaciones, que realicen los organismos paraestatales a que se refiere el artículo 2o., se sujetarán a lo dispuesto en sus respectivas leyes, decretos o acuerdos de creación, a las disposiciones aplicables de esta Ley, así como a sus estatutos internos y a las reglas que al efecto expida el Ejecutivo del Estado.
 
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 68.
 
-Las dependencias y entidades de carácter estatal a que se refiere al artículo 2o. de esta Ley y, en general, cualquier persona física y moral, pública o privada, que tengan asignados para su custodia, administración, uso o aprovechamiento, bienes propiedad del Estado, estarán obligadas a cumplir con las disposiciones que sobre control y mantenimiento dicte la Oficialía Mayor de Gobierno, debiendo informar a esta dependencia, a la mayor brevedad posible, bajo su responsabilidad, toda circunstancia o eventualidad distinta de su uso normal, que implique o pueda implicar un desgaste, deterioro o pérdida de los bienes que le fueron asignados.
-
-Las personas físicas y morales así como las de dependencias y entidades señaladas en el párrafo anterior estarán obligadas a cumplir las disposiciones sobre control de recursos financieros que al efecto emita la Secretaría de Finanzas y Tesorería General del Estado.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
-
-###### ARTICULO 69.
-
-El activo fijo consistente en los bienes a que se refiere el artículo 76, se mantendrá bajo un estricto control de inventarios, conforme a los sistemas que establezca la Oficialía Mayor de Gobierno.
-
-Las dependencias del Gobierno del Estado y sus organismos descentralizados y fideicomisos deberán llevar un registro y control de su patrimonio, con sistemas que permitan conocer las altas y bajas y su valor actualizado.
+Las dependencias y entidades de carácter estatal a que se refiere al (sic) Artículo 2o. de esta Ley y, en general, cualquier persona física y moral, pública o privada, que tengan asignados para su custodia, administración, uso o aprovechamiento, bienes propiedad del Estado, estarán obligadas a cumplir con las disposiciones que sobre control y mantenimiento dicte la Secretaría de Finanzas y Tesorería General del Estado, debiendo informar a esta dependencia, a la mayor brevedad posible, bajo su responsabilidad, toda circunstancia o eventualidad distinta de su uso normal, que implique o pueda implicar un desgaste, deterioro o pérdida de los bienes que le fueron asignados.
 
 > <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
 
-La Oficialía Mayor de Gobierno expedirá la normatividad relacionada con estas funciones y resolverá en lo administrativo las consultas que se le presenten.
+Las personas físicas y morales así como las de dependencias y entidades señaladas en el párrafo anterior estarán obligadas a cumplir las disposiciones sobre control de recursos financieros que al efecto emita la Secretaría de Finanzas y Tesorería General del Estado.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+###### ARTICULO 69.
+
+El activo fijo consistente en los bienes a que se refiere el Artículo 76, se mantendrá bajo un estricto control de inventarios, conforme a los sistemas que establezca la Secretaría de Finanzas y Tesorería General del Estado.
+
+Las dependencias del Gobierno del Estado y sus organismos descentralizados y fideicomisos deberán llevar un registro y control de su patrimonio, con sistemas que permitan conocer las altas y bajas y su valor actualizado.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+La Secretaría de Finanzas y Tesorería General del Estado expedirá la normatividad relacionada con estas funciones y resolverá en lo administrativo las consultas que se le presenten.
 
 ###### ARTICULO 70.
 
@@ -589,9 +603,9 @@ Tratándose de inmuebles propiedad del Gobierno del Estado o de sus organismos d
 
 El Ejecutivo, a través de la Secretaría de Finanzas y Tesorería General del Estado, en los términos previstos en la Constitución Política del Estado Libre y Soberano de Nuevo León, en la Ley Orgánica de la Administración Pública para el Estado y en las demás leyes aplicables, ejercerá los actos de enajenación, afectación, limitación, gravamen o transmisión de dominio por cualquier titulo sobre los bienes inmuebles propiedad del Estado.
 
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
-Para los efectos de este artículo, las dependencias y los organismos paraestatales de la administración pública estatal, así como las demás personas que usen o tengan a su cuidado bienes muebles e inmuebles estatales, deberán proporcionar a las dependencias competentes los informes, datos, documentos y demás facilidades que se requieran. Así mismo, la Secretaría de Finanzas y Tesorería General del Estado y la Oficialía Mayor de Gobierno, en el ámbito de su competencia examinarán periódicamente la documentación y demás información relacionada con las operaciones que realice el Gobierno del Estado, sus organismos descentralizados y fideicomisos públicos, en relación con los bienes muebles e inmuebles a fin de determinar el cumplimiento de esta Ley y las disposiciones que de ella emanen.
+Para los efectos de este Artículo, las dependencias y los organismos paraestatales de la administración pública estatal, así como las demás personas que usen o tengan a su cuidado bienes muebles e inmuebles estatales, deberán proporcionar a las dependencias competentes los informes, datos, documentos y demás facilidades que se requieran. Así mismo, la Secretaría de Finanzas y Tesorería General del Estado, examinará periódicamente la documentación y demás información relacionada con las operaciones que realice el Gobierno del Estado, sus organismos descentralizados y fideicomisos públicos, en relación con los bienes muebles e inmuebles a fin de determinar el cumplimiento de esta Ley y las disposiciones que de ella emanen.
 
 ###### ARTICULO 73.
 
@@ -609,15 +623,15 @@ IV.- Adquisiciones y enajenaciones a título oneroso o gratuito que realice el G
 
 V.- Adquisiciones que deriven de actos expropiatorios en favor del Estado o de afectaciones con motivo de la realización de obras públicas.
 
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
-En los casos a que se refiere este artículo, el documento que consigne la operación respectiva tendrá el carácter de escritura pública y será inscrito en el Registro Público de la Propiedad y del Comercio. Tratándose de afectaciones derivadas de la realización de obras públicas, se estará a lo dispuesto en la Ley de Ordenamiento Territorial de los Asentamientos Humanos y de Desarrollo Urbano del Estado de Nuevo León.
+En los casos a que se refiere este Artículo, el documento que consigne la operación respectiva tendrá el carácter de escritura pública y será inscrito en el Registro Público de la Propiedad y del Comercio. Tratándose de afectaciones derivadas de la realización de obras públicas, se estará a lo dispuesto en la Ley de Desarrollo Urbano del Estado de Nuevo León.
 
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 74.
 
-Las dependencias y entidades de la administración pública estatal y las demás instituciones públicas o privadas que por cualquier concepto usen, administren o tengan a su cuidado bienes y recursos propiedad del Estado, tendrán la obligación de llevar los catálogos y actualizar los inventarios de dichos bienes, conforme a las normas y procedimientos aprobados. Adicionalmente, estarán obligadas a proporcionar los datos y los informes que les soliciten la Secretaría de Finanzas y Tesorería General del Estado, la Oficialía Mayor de Gobierno y la Contraloría Interna.
+Las dependencias y entidades de la administración pública estatal y las demás instituciones públicas o privadas que por cualquier concepto usen, administren o tengan a su cuidado bienes y recursos propiedad del Estado, tendrán la obligación de llevar los catálogos y actualizar los inventarios de dichos bienes, conforme a las normas y procedimientos aprobados. Adicionalmente, estarán obligadas a proporcionar los datos y los informes que les soliciten la Secretaría de Finanzas y Tesorería General del Estado, y la Contraloría y Transparencia Gubernamental.
 
 #### SECCION SEGUNDA. DE LAS FACULTADES DE LAS AUTORIDADES
 
@@ -629,15 +643,17 @@ El Secretario de Finanzas y Tesorero General del Estado está facultado para exp
 
 No se podrán adquirir, enajenar, constituir gravámenes, derechos reales o limitaciones sobre los bienes inmuebles del Estado, si no se cuenta previamente con la autorización expresa del Secretario de Finanzas y Tesorero General del Estado, sin menoscabo de lo dispuesto por el artículo 106 de esta Ley.
 
-En el caso de bienes muebles, la autorización que emita la Secretaría de Finanzas y Tesorería General del Estado podrá otorgarse mediante resoluciones de carácter general correspondiendo la ejecución y aplicación de dichas reglas a la Oficialía Mayor de Gobierno.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
+En el caso de bienes muebles, la autorización que emita la Secretaría de Finanzas y Tesorería General del Estado podrá otorgarse mediante resoluciones de carácter general correspondiendo la ejecución y aplicación de dichas reglas a la misma Secretaría.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 76.
 
-El registro unitario de bienes y el control e inventario del patrimonio del Estado, consistente en inmuebles y en mobiliario y equipo de oficina, equipo de cómputo, maquinaria, instrumentos, equipo de transporte y, en general, bienes muebles similares, así como la construcción, reconstrucción, mantenimiento, remodelación, conservación, adaptación y adecuación de espacios para oficinas de bienes inmuebles del Estado, se ejercerá por la Oficialía Mayor de Gobierno, en los términos previstos por la Ley Orgánica de la Administración Pública para el Estado y demás disposiciones aplicables.
+El registro unitario de bienes y el control e inventario del patrimonio del Estado, consistente en inmuebles y en mobiliario y equipo de oficina, equipo de cómputo, maquinaria, instrumentos, equipo de transporte y, en general, bienes muebles similares, así como la construcción, reconstrucción, mantenimiento, remodelación, conservación, adaptación y adecuación de espacios para oficinas de bienes inmuebles del Estado, se ejercerá por la Secretaría de Finanzas y Tesorería General del Estado, en los términos previstos por la Ley Orgánica de la Administración Pública para el Estado y demás disposiciones aplicables.
 
-Asimismo, la Oficialía Mayor del Gobierno ejercerá la vigilancia e inspección de los inmuebles propiedad del Estado, los que de hecho se utilicen por el Estado a un servicio público o fines de interés social, así como aquellos cuya posesión tenga el Estado por cualquier otro acto jurídico.
+Asimismo, la Secretaría de Finanzas y Tesorería General del Estado, ejercerá la vigilancia e inspección de los inmuebles propiedad del Estado, los que de hecho se utilicen por el Estado a un servicio público o a fines de interés social, así como aquellos cuya posesión tenga el Estado por cualquier otro acto jurídico.
 
 ###### ARTICULO 77.
 
@@ -653,29 +669,49 @@ El titular del Ejecutivo del Estado podrá disponer sobre el destino de los rema
 
 El patrimonio consistente en los activos financieros del Estado, será custodiado y administrado por la Secretaría de Finanzas y Tesorería General del Estado. Los órganos competentes de los Poderes Judicial y Legislativo serán responsables de la custodia y administración de los recursos públicos que les haya sido ministrados.
 
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 80.
 
-Con relación al patrimonio público del Estado, corresponderá a la Oficialía Mayor de Gobierno:
+Con relación al patrimonio público del Estado, corresponderá a la Secretaría de Finanzas y Tesorería General del Estado:
+
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
 
 I.- Celebrar, con sujeción a lo establecido en el artículo 106 de esta Ley y previa autorización de la Secretaría de Finanzas y Tesorería General del Estado, los contratos relacionados con la enajenación, arrendamiento, comodato, concesión, gravamen, afectación o cualquier otro derecho real sobre bienes inmuebles propiedad del Estado;
 
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
+
 II.- Efectuar, respecto de bienes muebles del patrimonio estatal, las operaciones relacionadas con los actos a que se refiere la fracción anterior, sujetándose en su caso, a las normas generales que expida la Secretaría de Finanzas y Tesorería General del Estado;
+
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
 
 III.- Vigilar, inspeccionar, conservar y dar mantenimiento a los inmuebles del Estado;
 
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
+
 IV.- Llevar el inventario del patrimonio mobiliario e inmobiliario del Estado, así como operar el sistema de información correspondiente;
+
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
 
 V.- Proponer políticas, así como establecer y aplicar normas, sistemas y procedimientos para el control e inventario de los bienes muebles e inmuebles del Estado;
 
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
+
 VI.- Dictar normas generales y, en su caso, realizar la reconstrucción y conservación de los edificios públicos, monumentos, obras de ornato y demás que realice el Estado por sí o en cooperación con los municipios, con entidades paraestatales o con particulares, excepto las encomendadas expresamente por las leyes a otras dependencias;
+
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
 
 VII.- Fijar las normas y procedimientos a los que se sujetarán las licitaciones públicas para la enajenación de bienes muebles e inmuebles propiedad del Estado, así como presentar para dictamen del Comité de Operaciones Inmobiliarias del Estado las excepciones para realizar la enajenación a través de concursos por invitación o por adjudicación directa;
 
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
+
 VIII.- Ejercer, en el ámbito de su competencia, las acciones o defensas administrativas, civiles, mercantiles, penales, laborales o de cualquier índole que procedan en asuntos en que se vea involucrado el patrimonio del Estado;
 
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
+
 IX.- Asesorar en materia inmobiliaria a las dependencias y entidades del Estado y a los municipios que lo soliciten; y
+
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
 
 X.- Ejercer las demás atribuciones que le otorgan ésta y las demás leyes.
 
@@ -709,15 +745,15 @@ g) Practicar los demás avalúos y justipreciaciones relacionados con inmuebles 
 
 V.- Ejercer las demás atribuciones que le otorgan ésta y las demás leyes.
 
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 82.
 
-La Secretaría de Finanzas y Tesorería General del Estado, la Oficialía Mayor de Gobierno y la Contraloría Interna, podrán practicar indistintamente en forma conjunta o separada, visitas de inspección en las dependencias del Gobierno Estatal, para verificar la existencia en oficinas, locales, bodegas, almacenes e inventarios de los bienes muebles a que se refiere el artículo 76 de ésta Ley, y el destino y afectación de los mismos.
+La Secretaría de Finanzas y Tesorería General del Estado, y la Contraloría y Transparencia Gubernamental, podrán practicar indistintamente en forma conjunta o separada, visitas de inspección en las dependencias del Gobierno Estatal, para verificar la existencia en oficinas, locales, bodegas, almacenes e inventarios de los bienes muebles a que se refiere el Artículo 76 de ésta Ley, y el destino y afectación de los mismos.
 
-El registro de la propiedad inmobiliaria del Estado, así como de aquellos inmuebles que por cualquier título o circunstancia tenga en posesión o utilice el Estado, estará a cargo de la Oficialía Mayor de Gobierno. El sistema de captación, almacenamiento y procesamiento de datos para el desempeño de la función registral, será definido en el reglamento respectivo.
+El registro de la propiedad inmobiliaria del Estado, así como de aquellos inmuebles que por cualquier título o circunstancia tenga en posesión o utilice el Estado, estará a cargo de la Secretaría de Finanzas y Tesorería General del Estado. El sistema de captación, almacenamiento y procesamiento de datos para el desempeño de la función registral, será definido en el reglamento respectivo.
 
-La Contraloría Interna, en el ámbito de su competencia, está facultada para vigilar que las dependencias y entidades de la administración pública estatal y las demás instituciones públicas o privadas, proporcionen a la Oficialía Mayor de Gobierno la información a que se refiere el párrafo que antecede.
+La Contraloría y Transparencia Gubernamental, en el ámbito de su competencia, está facultada para vigilar que las dependencias y entidades de la administración pública estatal y las demás instituciones públicas o privadas, proporcionen a la Secretaría de Finanzas y Tesorería General del Estado, la información a que se refiere el párrafo que antecede.
 
 ###### ARTICULO 83.
 
@@ -927,11 +963,11 @@ Los bienes de dominio privado pueden ser objeto de todos los contratos que regul
 
 Para optimizar la utilización de los inmuebles pertenecientes al patrimonio del Estado, las dependencias de los Poderes Legislativo, Judicial y Ejecutivo presentarán a la Secretaría de Finanzas y Tesorería General del Estado, por los conductos legales correspondientes, las necesidades inmobiliarias para recabar la información que fundamente las políticas, directrices y decisiones que formulen las autoridades competentes en la materia.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 104.
 
-Para satisfacer los requerimientos de inmuebles que planteen las dependencias del Gobierno del Estado y racionalizar y optimizar sus recursos, la Oficialía Mayor de Gobierno, con base en la información disponible en el registro de la propiedad inmobiliaria a su cargo, procederá como sigue:
+Para satisfacer los requerimientos de inmuebles que planteen las dependencias del Gobierno del Estado y racionalizar y optimizar sus recursos, la Secretaría de Finanzas y Tesorería General del Estado, con base en la información disponible en el registro de la propiedad inmobiliaria a su cargo, procederá como sigue:
 
 I.- Cuantificará y calificará los requerimientos, atendiendo a las características de los inmuebles solicitados y a su localización;
 
@@ -955,9 +991,9 @@ Cuando se requiera ejecutar obras de construcción, modificación, adaptación, 
 
 La enajenación de inmuebles propiedad del Estado, así como su afectación por gravamen o cualquier acto que en alguna forma se afecte su libre uso por un término mayor de cinco años, será efectuada por los servidores públicos que señale el Congreso del Estado en el decreto por el cual se autoricen estas operaciones. En caso de no preverse en el decreto respectivo la designación del funcionario autorizado para efectuar la operación, se entenderá que corresponde al Titular de la Secretaría de Finanzas y Tesorería General del Estado.
 
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
-La Oficialía Mayor de Gobierno será la autoridad facultada para celebrar los actos en donde se haga constar la enajenación de bienes muebles del Estado.
+La Secretaría de Finanzas y Tesorería General del Estado será la autoridad facultada para celebrar los actos en donde se haga constar la enajenación de bienes muebles del Estado.
 
 Tratándose de inmuebles propiedad de entidades públicas del sector paraestatal, para su enajenación o afectación bastará la autorización que expida su respectivo consejo de administración u órgano equivalente. Del uso de esta facultad se informará al rendirse la cuenta pública correspondiente.
 
@@ -991,11 +1027,11 @@ En los casos de donación a que se refiere el artículo 107 de esta ley, el decr
 
 Tanto el bien objeto de la donación como sus mejoras revertirán en favor del Estado, si el donatario no iniciare la utilización del bien en el fin señalado, dentro del plazo máximo previsto, o si, habiéndolo hecho, diere al inmueble un uso distinto antes de que concluya el período mínimo a que se refiere el párrafo anterior, sin contar con la previa autorización del Ejecutivo del Estado. Cuando la donataria sea una asociación o institución privada, también procederá la reversión del bien y sus mejoras en favor del Estado, si la donataria desvirtúa la naturaleza o el carácter no lucrativo de sus fines, si deja de cumplir con su objeto o si se extingue antes de que concluya el plazo mencionado en el párrafo anterior. Las condiciones a que se refiere este artículo se insertarán en la escritura de donación respectiva, sin que su omisión afecte la aplicación de este artículo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 110.
 
-La venta a particulares de bienes del Estado y sus organismos descentralizados y fideicomisos, cuyo valor de avalúo exceda de la cantidad que anualmente establezca el Congreso del Estado en la Ley de Egresos, deberá hacerse en licitación pública. La convocatoria se publicará por la Oficialía Mayor de Gobierno, tratándose de bienes del Estado, o por el Director General o funcionario equivalente en el caso de organismos descentralizados y fideicomisos, con quince días de anticipación, por lo menos, en el Periódico Oficial del Estado y en dos de los periódicos de mayor circulación en el Estado.
+La venta a particulares de bienes del Estado o de sus organismos descentralizados y fideicomisos, cuyo valor de avalúo exceda de la cantidad que anualmente establezca el Congreso del Estado en la Ley de Egresos, deberá hacerse en licitación pública. La convocatoria se publicará por la Secretaría de Finanzas y Tesorería General del Estado, tratándose de bienes del Estado, o por el director general o funcionario equivalente en el caso de organismos descentralizados y fideicomisos, con quince días de anticipación, por lo menos, en el Periódico Oficial del Estado y en dos de los periódicos de mayor circulación en el Estado.
 
 En los demás casos, la operación podrá hacerse, a juicio del Ejecutivo, en licitación pública, en licitación por invitación o a través de enajenación directa.
 
@@ -1075,7 +1111,7 @@ I. Con voz y voto:
 
 a) La Secretaría de Finanzas y Tesorería General del Estado;
 
-b) La Oficialía Mayor de Gobierno;
+b) (DEROGADO, P.O. 24 DE DICIEMBRE DE 2010)
 
 c) La Procuraduría General de Justicia;
 
@@ -1087,7 +1123,9 @@ f) Las demás dependencias que el Ejecutivo determine.
 
 II. Sólo con voz:
 
-a) La Contraloría Interna; y
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+a) La Contraloría y Transparencia Gubernamental; y
 
 b) La Dependencia promovente.
 
@@ -1257,9 +1295,11 @@ Las entidades a que se refiere el párrafo anterior deberán además proporciona
 
 ### CAPITULO XI. DE LOS INFORMES FINANCIEROS
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 144.
 
-El Ejecutivo del Estado y sus organismos descentralizados y fideicomisos rendirán su cuenta pública en forma anual al Congreso del Estado, en los términos previstos por la Ley de la Contaduría Mayor de Hacienda.
+El Ejecutivo del Estado y sus organismos descentralizados y fideicomisos rendirán su cuenta pública en forma anual al Congreso del Estado, en los términos previstos por la Ley del Órgano de Fiscalización Superior del Estado.
 
 > <small>(REFORMADO, P.O. 26 DE ENERO DE 1996)</small>
 
@@ -1269,7 +1309,9 @@ Dentro de los tres primeros meses de cada año, el titular del Ejecutivo del Est
 
 El titular del Ejecutivo del Estado rendirá trimestralmente al Congreso del Estado, basado en lo que dispone el artículo 63, fracción XIII, de la Constitución Política del Estado, un informe para su revisión y en su caso aprobación, que formará parte integrante de la cuenta pública anual, sobre las cuentas de origen y aplicación de los recursos públicos, que incluya los ingresos percibidos, el ejercicio de los programas previstos en la Ley de Egresos y los saldos del crédito público autorizado por el Congreso, comprendiendo los períodos de Enero a Marzo, de Abril a Junio, de Julio a Septiembre y de Octubre a Diciembre, a más tardar el día 15 del segundo mes inmediato posterior al período que corresponda.
 
-Las entidades paraestatales mencionadas en el artículo 144 presentarán los informes trimestrales a que se refiere el párrafo anterior, con el objeto de que la Contaduría Mayor de Hacienda inicie sus facultades de revisión y fiscalización.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+Las entidades paraestatales mencionadas en el Artículo 144 presentarán los informes trimestrales a que se refiere el párrafo anterior, con el objeto de que la Auditoria Superior del Estado inicie sus facultades de revisión y fiscalización.
 
 ###### ARTICULO 146.
 
@@ -1331,21 +1373,31 @@ El gasto público de las entidades será ejercido por las unidades administrativ
 
 El Ejecutivo del Estado podrá disponer que el gasto público de las entidades se ejerza en forma directa por la Secretaría de Finanzas y Tesorería General del Estado.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 157.
 
-El titular de los órganos de control interno de las entidades, así como los comisarios propietario y suplente, serán designados por el titular del Ejecutivo, a propuesta en terna del Secretario de la Contraloría General del Estado.
+El titular de los órganos de control interno de las entidades, así como los comisarios propietario y suplente, serán designados por el titular del Ejecutivo, a propuesta en terna del Contralor General del Estado.
 
 En el Consejo de Administración u órgano equivalente de las entidades, participará el comisario respectivo, con derecho a voz.
 
-Los comisarios evaluarán el desempeño general y por funciones de la entidad paraestatal; realizarán estudios sobre la eficiencia con la que se ejerzan los egresos, se recauden los ingresos y se administre y custodie el patrimonio de la entidad y, en general, solicitarán la información y documentación y efectuarán los actos que se requieran para el adecuado cumplimiento de sus funciones, sin perjuicio de las tareas que le encomiende la Secretaría de la Contraloría General del Estado. Para el desempeño de estas funciones, el Consejo de Administración y el Director General o sus equivalentes, deberán proporcionar la información que soliciten los comisarios.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
-Los comisarios deben rendir anualmente a la Secretaría de la Contraloría General del Estado, un informe sobre su labor de vigilancia. A solicitud de esa Dependencia, informarán respecto de los resultados de sus funciones y de las actividades de estas Entidades, remitiéndole los documentos y constancias que sean necesarios.
+Los comisarios evaluarán el desempeño general y por funciones de la entidad paraestatal; realizarán estudios sobre la eficiencia con la que se ejerzan los egresos, se recauden los ingresos y se administre y custodie el patrimonio de la entidad y, en general, solicitarán la información y documentación y efectuarán los actos que se requieran para el adecuado cumplimiento de sus funciones, sin perjuicio de las tareas que le encomiende la Contraloría y Transparencia Gubernamental. Para el desempeño de estas funciones, el Consejo de Administración y el Director General o sus equivalentes, deberán proporcionar la información que soliciten los comisarios.
 
-Lo dispuesto en este artículo no limita las facultades que esta y otras leyes otorgan a la Secretaría de la Contraloría General del Estado.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+Los comisarios deben rendir anualmente a la Contraloría y Transparencia Gubernamental, un informe sobre su labor de vigilancia. A solicitud de esa Dependencia, informarán respecto de los resultados de sus funciones y de las actividades de estas Entidades, remitiéndole los documentos y constancias que sean necesarios.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+Lo dispuesto en este Artículo no limita las facultades que esta y otras leyes otorgan a la Contraloría y Transparencia Gubernamental.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 158.
 
-La evaluación financiera de las entidades será realizada a través de sus órganos internos, con la intervención que corresponda a la Secretaría de Finanzas y Tesorería General del Estado y a la Secretaría de la Contraloría General del Estado.
+La evaluación financiera de las entidades será realizada a través de sus órganos internos, con la intervención que corresponda a la Secretaría de Finanzas y Tesorería General del Estado y a la Contraloría y Transparencia Gubernamental.
 
 > <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2004)</small>
 
@@ -1417,19 +1469,21 @@ Los plazos a que se refiere este artículo serán interrumpidos en caso de prór
 
 La Secretaría de Finanzas y Tesorería General del Estado proporcionará asesoría en materia financiera a las entidades y dependencias del Estado y de los Municipios, que lo soliciten.
 
-> <small>(REFORMADO, P.O. 7 DE JULIO DE 1995)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 167.
 
-La Secretaría de Finanzas y Tesorería General del Estado, la Secretaría de la Contraloría General del Estado, las Tesorerías Municipales y, en general, las dependencias, entidades y órganos públicos que ejerzan funciones relacionadas con las finanzas públicas, procurarán coordinarse para un mejor, adecuado y eficaz desempeño de sus funciones.
+La Secretaría de Finanzas y Tesorería General del Estado, la Contraloría y Transparencia Gubernamental, las Tesorerías Municipales y, en general, las dependencias, entidades y órganos públicos que ejerzan funciones relacionadas con las finanzas públicas, procurarán coordinarse para un mejor, adecuado y eficaz desempeño de sus funciones.
 
 ###### ARTICULO 168.
 
 El servidor público que contravenga lo establecido en los artículos 56, 65 y 74 de esta Ley, será responsable administrativamente de acuerdo a lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos para el Estado de Nuevo León.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 169.
 
-Contra los actos o resoluciones definitivos dictados por las autoridades administrativas, basados y fundamentados en esta Ley, gozarán los particulares de los derechos de defensa a que se refiere la Ley Orgánica del Tribunal de lo Contencioso Administrativo y el Código Procesal de la misma.
+Contra los actos o resoluciones definitivos dictados por las autoridades administrativas, basados y fundamentados en esta Ley, gozarán los particulares de los derechos de defensa a que se refiere la Ley de Justicia Administrativa del Estado de Nuevo León.
 
 ARTICULOS TRANSITORIOS:
 
@@ -1536,3 +1590,7 @@ Artículo Único.- El presente Decreto entrará en vigor el día 1º de enero de
 P.O. 29 DE SEPTIEMBRE DE 2006.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE DICIEMBRE DE 2010.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
