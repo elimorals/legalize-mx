@@ -4,7 +4,7 @@ identifier: "NLE-ley-que-crea-el-instituto-de-control-vehicular-del-estado-47160
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-02"
-last_updated: "2010-12-17"
+last_updated: "2010-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47160&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY QUE CREA EL INSTITUTO DE CONTROL VEHICULAR DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 2 de diciembre de 2005.
 
@@ -145,7 +145,9 @@ c) El Procurador General de Justicia del Estado;
 
 d) El Director General de la Agencia para la Racionalización y Modernización del Sistema de Transporte Público del Estado; y
 
-e) El Director General de la Agencia para la Protección al Medio Ambiente y Recursos Naturales.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+e) El Secretario de Desarrollo Sustentable.
 
 La ausencia del Gobernador del Estado, o de quien éste designe para presidir la Junta, será suplida por el Secretario de Finanzas y Tesorero General del Estado, y en su defecto, por la persona que éste último designe. El resto de los integrantes de la Junta de Gobierno podrán ser representados en sus ausencias por quienes designen para ese efecto con el carácter de suplentes.
 
@@ -590,3 +592,7 @@ P.O. 23 DE DICIEMBRE DE 2009.
 P.O. 17 DE DICIEMBRE DE 2010.
 
 Único.- El presente Decreto entrará en vigor el 1° de Enero del año 2011.
+
+P.O. 24 DE DICIEMBRE DE 2010.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
