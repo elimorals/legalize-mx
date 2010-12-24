@@ -4,7 +4,7 @@ identifier: "NLE-ley-que-crea-el-organismo-publico-descentralizado-51661"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-04"
-last_updated: "2010-12-03"
+last_updated: "2010-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51661&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY QUE CREA AL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO PARQUES Y VIDA SILVESTRE DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial en el Estado de Nuevo León, el lunes 4 de septiembre de 2006.
 
@@ -269,7 +269,9 @@ II. Un Secretario, que será el Director General del Organismo, que participará
 
 III. Cinco vocales que serán integrados por los titulares de cada una de las siguientes dependencias y entidades públicas o las que en su caso las sustituyan:
 
-a) La Agencia de Protección al Medio Ambiente y Recursos Naturales;
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+a) La Secretaría de Desarrollo Sustentable;
 
 b) La Corporación para el Desarrollo Agropecuario de Nuevo León;
 
@@ -409,9 +411,11 @@ XXI. Las demás que determine esta Ley, la Ley Ambiental del Estado de Nuevo Le�
 
 #### SECCIÓN CUARTA. DEL COMISARIO
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 24.
 
-A propuesta de la Contraloría Interna, el Gobernador del Estado designará y removerá al Comisario, de conformidad con la normatividad estatal aplicable.
+A propuesta de la Contraloría y Transparencia Gubernamental, el Gobernador del Estado designará y removerá al Comisario, de conformidad con la normatividad estatal aplicable.
 
 ###### Artículo 25.
 
@@ -419,9 +423,13 @@ El Comisario tendrá las siguientes facultades:
 
 I. Vigilar que los gastos, cuentas y administración de los recursos del Organismo se encaminen adecuadamente para el cumplimiento de sus objetivos, ajustándose en todo momento a lo que dispone esta Ley, los planes y presupuestos aprobados, así como otras disposiciones aplicables;
 
-II. Solicitar la información y documentación y efectuar los actos que se requieran para el adecuado cumplimiento de sus funciones, sin perjuicio de las tareas que le encomiende la Contraloría Interna del Ejecutivo;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
-III. Rendir un informe anual tanto a la Junta de Gobierno como a la Contraloría Interna del Ejecutivo;
+II. Solicitar la información y documentación y efectuar los actos que se requieran para el adecuado cumplimiento de sus funciones, sin perjuicio de las tareas que le encomiende la Contraloría y Transparencia Gubernamental;
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+III. Rendir un informe anual tanto a la Junta de Gobierno como a la Contraloría y Transparencia Gubernamental;
 
 IV. Recomendar a la Junta de Gobierno y a la Dirección General, las medidas preventivas y correctivas que sean convenientes para el mejoramiento de la organización y funcionamiento de la misma;
 
@@ -534,3 +542,7 @@ Quinto.- Se deroga toda norma que contravenga el presente Decreto.
 P.O. 3 DE DICIEMBRE DE 2010.
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 24 DE DICIEMBRE DE 2010.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
