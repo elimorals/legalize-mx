@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-fomento-a-las-actividades-agropecuarias-del-estado-16192
 country: "mx"
 rank: "ley"
 publication_date: "1977-12-28"
-last_updated: "1984-11-02"
+last_updated: "2010-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16192&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE FOMENTO A LAS ACTIVIDADES AGROPECUARIAS DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE NOVIEMBRE DE 1984.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 28 de diciembre de 1977.
 
@@ -77,15 +77,15 @@ V.- DERECHO DE INSCRIPCION EN EL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO
 
 Para disfrutar de los beneficios indicados en el artículo anterior, las empresas interesadas deberán reunir los siguientes requisitos:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE NOVIEMBRE DE 1984)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
-I.- Presentarán solicitud ante la Secretaría de Fomento Industrial y Comercial, del Gobierno del Estado de Nuevo León, la cual deberá ser firmada por quien tenga capacidad legal para ello.
+I.- Presentarán solicitud ante la Secretaría de Desarrollo Económico del Gobierno del Estado de Nuevo León, la cual deberá ser firmada por quien tenga capacidad legal para ello.
 
 Con dicha solicitud deberán anexar los elementos de convicción que acrediten que la empresa reúne los requisitos indispensables para gozar de los estímulos fiscales antes señalados.
 
-> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 1984)</small>
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
-II.- Proporcionarán los datos e informes que soliciten la Secretaría de Fomento Industrial y Comercial y la Secretaría de Finanzas y Tesorería General del Estado.
+II.- Proporcionarán los datos e informes que soliciten la Secretaría de Desarrollo Económico y la Secretaría de Finanzas y Tesorería General del Estado.
 
 III.- Permitirán en todo tiempo a los técnicos de las secretarías indicadas en la fracción anterior, la verificación de las condiciones que funden la concesión de los estímulos.
 
@@ -95,11 +95,11 @@ V.- Destinarán por un plazo de cinco a diez años los inmuebles materia del est
 
 VI.- Aceptarán la asesoría técnica en materia agropecuaria por parte del Gobierno del Estado, tendiente al incremento de la productividad de su explotación.
 
-> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 1984)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 6o.
 
-La Secretaría de Fomento Industrial y Comercial y la Secretaría de Finanzas y Tesorería General del Estado, analizarán las solicitudes que se formulen, emitirán conjuntamente la resolución que corresponda, firmada por sus titulares.
+La Secretaría de Desarrollo Económico y la Secretaría de Finanzas y Tesorería General del Estado, analizarán las solicitudes que se formulen, emitirán conjuntamente la resolución que corresponda, firmada por sus titulares.
 
 ###### ARTICULO 7o.
 
@@ -152,3 +152,7 @@ SEGUNDO.- Las franquicias respecto de los impuestos municipales que se hubieren 
 P.O. 2 DE NOVIEMBRE DE 1984.
 
 UNICO:- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE DICIEMBRE DE 2010.
+
+Único.- El presente Decreto entrerá en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
