@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-desarrollo-forestal-sustentable-del-estado-de-nuevo-6695
 country: "mx"
 rank: "ley"
 publication_date: "2009-02-07"
-last_updated: "2009-02-07"
+last_updated: "2010-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66955&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "NLE"
 
 LEY DE DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 7 de febrero de 2009.
 
-EL C. JOSÉ NATIVIDAD GONZÁLEZ PARÁS, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON, A TODOS SUS HABITANTES HAGO SABER:
+EL C. JOSÉ NATIVIDAD GONZÁLEZ PARÁS, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN, A TODOS SUS HABITANTES HAGO SABER:
 
 Que el H. Congreso del Estado ha tenido a bien decretar lo que sigue:
 
@@ -435,7 +435,9 @@ II. El Titular de la Corporación para el Desarrollo Agropecuario;
 
 III. El Titular de Parques y Vida Silvestre;
 
-IV. El Titular de la Agencia de Protección al Medio Ambiente y Recursos Naturales;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+IV. El Secretario de Desarrollo Sustentable;
 
 V. El Titular de la Policía de Caminos y Medio Ambiente;
 
@@ -1161,7 +1163,7 @@ IV. La ejecución de acciones de prevención y combate de incendios y saneamient
 
 V. En las reforestaciones y forestaciones, mejorar la calidad y elevar la supervivencia de la planta en el terreno;
 
-VI. La capacitación, formación y evaluación continúa de prestadores de servicios técnicos forestales;
+VI. La capacitación, formación y evaluación continua de prestadores de servicios técnicos forestales;
 
 VII. El impulso a la participación comunitaria en la zonificación forestal y la ordenación ecológica, así como al fortalecimiento de las Unidades de Manejo Forestal;
 
@@ -1652,3 +1654,9 @@ REYES S. TAMEZ GUERRA
 EL C. SECRETARIO DE DESARROLLO ECONÓMICO
 
 ALEJANDRO ALBERTO CARLOS PÁEZ Y ARAGON
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 24 DE DICIEMBRE DE 2010.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
