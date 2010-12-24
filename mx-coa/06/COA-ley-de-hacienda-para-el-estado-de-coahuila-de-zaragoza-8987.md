@@ -4,7 +4,7 @@ identifier: "COA-ley-de-hacienda-para-el-estado-de-coahuila-de-zaragoza-8987"
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-22"
-last_updated: "2010-06-18"
+last_updated: "2010-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8987&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE JUNIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 22 de diciembre de 1995.
 
@@ -1999,11 +1999,53 @@ IV.- Por constancias del padrón vehicular, $116.00 (CIENTO DIECISEIS PESOS 00/1
 
 El pago de los derechos a que se refiere esta Sección deberá efectuarse en las Instituciones de Crédito o establecimientos autorizados, previamente a la prestación del servicio.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+### CAPITULO SEGUNDO-BIS. POR SERVICIOS CAUSADOS POR EL USO Y/O APROVECHAMIENTO DE AUTOPISTAS ESTATALES
+
+OBJETO
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+###### ARTICULO 113-A.
+
+Los servicios prestados por el Servicio de Administración Tributaria del Estado de Coahuila, por el uso y/o aprovechamiento de la Autopista Allende-Agujita-Estancias, causaran derechos conforme a la siguiente:
+
+TARIFA
+
+I. Automóvil, pick up panel con o sin remolque y motos $ 84.00 (OCHENTA Y CUATRO PESOS 00/100 M.N.)
+
+II. Autobuses de pasajeros $123.00 (CIENTO VEINTITRES PESOS 00/100 M.N.)
+
+III. Camiones de 2 ejes $123.00 (CIENTO VEINTITRES PESOS 00/100 M.N.)
+
+IV. Camiones de 3 y 4 ejes $123.00 (CIENTO VEINTITRES PESOS 00/100 M.N.)
+
+V. Camiones de 5 y 6 ejes $170.00 (CIENTO SETENTA PESOS 00/100 M.N.)
+
+VI. De más de 6 ejes $190.00 (CIENTO NOVENTA PESOS 00/100 M.N.)
+
+Las tarifas establecidas en este artículo deberán actualizarse trimestralmente, conforme al índice nacional de precios al consumidor, en términos del artículo 15-A del Código fiscal para el Estado de Coahuila.
+
+SUJETOS
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+###### ARTICULO 113-B.
+
+Son sujetos de este derecho, las personas físicas o morales que utilicen o aprovechen los servicios mencionados en el artículo anterior.
+
+PAGO
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+###### ARTICULO 113-C.
+
+El pago de estos derechos deberá efectuar en las casetas de cobro instaladas en la autopista Allende-Agujita-Estancias por el Servido de Administración Tributaria del Estado de Coahuila.
+
 ### CAPITULO TERCERO. POR SERVICIOS DE LA SECRETARIA DE DESARROLLO SOCIAL
 
 > <small>(REFORMADO, P.O. 2 DE ENERO DE 1998)</small>
-
-### CAPITULO CUARTO. POR SERVICIOS DE LA SECRETARIA DE OBRAS PUBLICAS Y TRANSPORTE
 
 ###### ARTICULO 114.
 
@@ -2135,9 +2177,7 @@ No se causará este derecho cuando los servicios que se presten tengan por objet
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 22 DE DICIEMBRE DE 2006)</small>
 
-### CAPITULO QUINTO. POR SERVICIOS DE LA SECRETARIA DE EDUCACION Y CULTURA
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE DICIEMBRE DE 2006)</small>
+### CAPITULO CUARTO. POR SERVICIOS DE LA SECRETARIA DE OBRAS PUBLICAS Y TRANSPORTE
 
 #### SECCION PRIMERA. POR SERVICIOS DE CONTROL VEHICULAR
 
@@ -2513,9 +2553,9 @@ El pago de los derechos a que se refiere esta Sección, deberá efectuarse en la
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 22 DE DICIEMBRE DE 2006)</small>
 
-### CAPITULO QUINTO BIS. POR SERVICIOS DE LA SECRETARÍA DE MEDIO AMBIENTE
+### CAPITULO QUINTO. POR SERVICIOS DE LA SECRETARIA DE EDUCACION Y CULTURA
 
-> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 129.
 
@@ -2649,9 +2689,9 @@ El pago de los derechos a que se refiere este Capítulo, deberá efectuarse en l
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 2008)</small>
 
-### CAPITULO SEXTO. POR SERVICIOS DE LA SECRETARIA DE (SIC) FUNCION PUBLICA
+### CAPITULO QUINTO BIS. POR SERVICIOS DE LA SECRETARÍA DE MEDIO AMBIENTE
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2006)</small>
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 131-A.
 
@@ -2695,11 +2735,9 @@ El pago de los derechos a que se refiere este capítulo deberán efectuarse en l
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 22 DE DICIEMBRE DE 2006)</small>
 
-### CAPITULO SEPTIMO. POR SERVICIOS DE LA FISCALIA GENERAL DEL ESTADO
+### CAPITULO SEXTO. POR SERVICIOS DE LA SECRETARIA DE (SIC) FUNCION PUBLICA
 
-OBJETO
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE MAYO DE 2009)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 132.
 
@@ -2749,9 +2787,11 @@ El pago de los derechos por los servicios a que se refiere el artículo 119, deb
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 12 DE MAYO DE 2009)</small>
 
-### CAPITULO OCTAVO. POR SERVICIOS AEROPORTUARIOS
+### CAPITULO SEPTIMO. POR SERVICIOS DE LA FISCALIA GENERAL DEL ESTADO
 
 OBJETO
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE MAYO DE 2009)</small>
 
 ###### ARTICULO 136.
 
@@ -2883,11 +2923,9 @@ El pago de los servicios a que se refiere este Capítulo deberá efectuarse en l
 
 Instituciones de Crédito o establecimientos autorizados, previamente a la prestación del servicio.
 
-### CAPITULO NOVENO. DE LOS SERVICIOS PRESTADOS POR LAS DEPENDENCIAS DE LA ADMINISTRACIÓN PÚBLICA CENTRALIZADA RELATIVOS AL DERECHO DE ACCESO A LA INFORMACIÓN PUBLICA
+### CAPITULO OCTAVO. POR SERVICIOS AEROPORTUARIOS
 
 OBJETO
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 138.
 
@@ -2907,11 +2945,11 @@ PAGO
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2004)</small>
 
-### CAPITULO PRIMERO. CONTRIBUCION POR GASTO
+### CAPITULO NOVENO. DE LOS SERVICIOS PRESTADOS POR LAS DEPENDENCIAS DE LA ADMINISTRACIÓN PÚBLICA CENTRALIZADA RELATIVOS AL DERECHO DE ACCESO A LA INFORMACIÓN PUBLICA
 
 OBJETO
 
-(REUBICADO [N. DE E. ANTES ARTICULO 101], P.O. 24 DE DICIEMBRE DE 1996)
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 140-A.
 
@@ -2987,11 +3025,11 @@ La Dependencia, al realizar la liquidación para el pago de los derechos a que s
 
 ## TITULO IV. CONTRIBUCIONES ESPECIALES
 
-### CAPITULO SEGUNDO. PARA EL FOMENTO A LA EDUCACION EN EL ESTADO
+### CAPITULO PRIMERO. CONTRIBUCION POR GASTO
 
 OBJETO
 
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+(REUBICADO [N. DE E. ANTES ARTICULO 101], P.O. 24 DE DICIEMBRE DE 1996)
 
 ###### ARTICULO 141.
 
@@ -3061,11 +3099,11 @@ Las autoridades fiscales, formularán y notificarán la resolución que determin
 
 En lo no previsto en este Capítulo, la aplicación y recaudación de las contribuciones, se hará con apego a las disposiciones del Código Fiscal para el Estado de Coahuila.
 
-### CAPITULO TERCERO. PARA MANTENIMIENTO Y CONSERVACION DEL CENTRO HISTORICO DE LAS CIUDADES DE SALTILLO, RAMOS ARIZPE Y TORREON
+### CAPITULO SEGUNDO. PARA EL FOMENTO A LA EDUCACION EN EL ESTADO
 
 OBJETO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE DICIEMBRE DE 2006)</small>
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 149.
 
@@ -3113,11 +3151,11 @@ El pago de esta contribución deberá efectuarse en las autoridades fiscales (si
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 22 DE DICIEMBRE DE 2006)</small>
 
-### CAPITULO CUARTO. CONTRIBUCION POR OBRA PUBLICA
+### CAPITULO TERCERO. PARA MANTENIMIENTO Y CONSERVACION DEL CENTRO HISTORICO DE LAS CIUDADES DE SALTILLO, RAMOS ARIZPE Y TORREON
 
 OBJETO
 
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 154.
 
@@ -3165,7 +3203,7 @@ PAGO
 
 El pago de esta contribución deberá efectuarse en las instituciones de crédito o establecimientos autorizados, en el mismo recibo con que se realicen los pagos de los derechos objeto de esta contribución.
 
-### CAPITULO QUINTO. CONTRIBUCION POR RESPONSABILIDAD OBJETIVA
+### CAPITULO CUARTO. CONTRIBUCION POR OBRA PUBLICA
 
 OBJETO
 
@@ -3388,6 +3426,12 @@ Para hacer efectivas estas contribuciones, de ser necesario, se aplicará el pro
 ###### ARTICULO 175.
 
 Estarán exentos del pago de esta contribución los bienes del dominio público de la federación, del Estado y de los municipios.
+
+### CAPITULO QUINTO. CONTRIBUCION POR RESPONSABILIDAD OBJETIVA
+
+OBJETO
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 176.
 
@@ -3844,3 +3888,13 @@ El presente Decreto deberá publicarse en el Periódico Oficial del Gobierno del
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan las disposiciones que contravengan lo dispuesto en el presente Decreto.
+
+P.O. 24 DE DICIEMBRE DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto deberá publicarse en el Periódico Oficial del Gobierno del Estado y entrará en vigor a partir del primero de enero del año 2011
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
