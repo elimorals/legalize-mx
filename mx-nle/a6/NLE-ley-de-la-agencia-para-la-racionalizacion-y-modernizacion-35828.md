@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-la-agencia-para-la-racionalizacion-y-modernizacion-35828
 country: "mx"
 rank: "ley"
 publication_date: "2003-12-24"
-last_updated: "2010-12-03"
+last_updated: "2010-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35828&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE LA AGENCIA PARA LA RACIONALIZACION Y MODERNIZACION DEL SISTEMA DE TRANSPORTE PUBLICO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 24 de diciembre de 2003.
 
@@ -93,13 +93,17 @@ IV. Incrementar la calidad del servicio mediante el diseño y aplicación de fó
 
 Para el cumplimiento de su objeto y objetivos específicos, la Agencia tendrá las siguientes atribuciones:
 
-I. Otorgar las concesiones relativas al servicio público de transporte de pasajeros en sus modalidades de vehículos de alquiler y especializado, y del servicio público de transporte de carga general y especializada, que se determinan en la Ley de Transporte para el Estado de Nuevo León y otras disposiciones aplicables;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+I. Otorgar las concesiones relativas al servicio público de transporte de pasajeros en sus modalidades de vehículos de alquiler y especializado, y del servicio público de transporte de carga general y especializada, que se determinan en la Ley de Transporte para la Movilidad Sustentable del Estado de Nuevo León;
 
 II. Autorizar las tarifas aplicables al transporte público de pasajeros con base en la propuesta que le formule el Consejo Estatal de Transporte y Vialidad;
 
 III. Dictar las normas técnicas a las que deberá sujetarse la instalación de publicidad en los medios de transporte;
 
-IV. Elaborar en coordinación con la Agencia para la Planeación del Desarrollo Urbano de Nuevo León el Plan Sectorial de Transporte y Vialidad, y presentarlo a la consideración del Titular del Ejecutivo para su aprobación;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+IV. Elaborar en coordinación con la Secretaría de Desarrollo Sustentable, el Plan Sectorial de Transporte y Vialidad, y presentarlo a la consideración del Titular del Ejecutivo para su aprobación;
 
 V. Expedir, previo acuerdo con el Titular del Ejecutivo, las normas generales estatales de carácter técnico, relativas a las características del transporte;
 
@@ -109,17 +113,25 @@ VII. Operar y administrar el Sistema Estatal de Información y Registro de Trans
 
 VIII. Calificar y aplicar las sanciones correspondientes a las violaciones a la Ley del Transporte para el Estado de Nuevo León o su Reglamento, en las que incurran los concesionarios o conductores del servicio público del transporte, así como las relativas a las infracciones derivadas de la circulación de vehículos en las comunicaciones viales de jurisdicción estatal;
 
-IX. Ordenar y ejecutar las medidas de seguridad previstas en la Ley de Transporte para el Estado de Nuevo León o en su Reglamento;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+IX. Ordenar y ejecutar las medidas de seguridad previstas en la Ley de Transporte para la Movilidad Sustentable del Estado de Nuevo León o en su Reglamento;
 
 X. Vigilar que la instalación de publicidad en los medios de transporte público se ajuste a las normas técnicas que dicte la Agencia para estos efectos;
 
 XI. Ejecutar verificaciones técnicas a los vehículos destinados al servicio público de transporte, en los términos de lo establecido en las disposiciones jurídicas aplicables;
 
-XII. Vigilar y controlar en los términos de lo establecido por la Ley de Transporte para el Estado de Nuevo León o su Reglamento, lo relativo al peso, dimensiones y capacidad a que deban sujetarse los vehículos de transporte de pasajeros y de carga;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
-XIII. Realizar los trámites y procedimientos inherentes al otorgamiento de las concesiones a que se refieren la Ley de Transporte para el Estado de Nuevo León y su Reglamento, vigilando el exacto cumplimiento de las condiciones y términos establecidos, y
+XII. Vigilar y controlar en los términos de lo establecido por la Ley de Transporte para la Movilidad Sustentable del Estado de Nuevo León o su Reglamento, lo relativo al peso, dimensiones y capacidad a que deban sujetarse los vehículos de transporte de pasajeros y de carga;
 
-XIV. Las que le sean asignadas por el Titular del Ejecutivo del Estado, las demás que le otorguen la Ley del Transporte para el Estado de Nuevo León y su Reglamento, otros ordenamientos legales y el Reglamento Interior de la Agencia.
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+XIII. Realizar los trámites y procedimientos inherentes al otorgamiento de las concesiones a que se refieren la Ley de Transporte para la Movilidad Sustentable del Estado de Nuevo León y su Reglamento, vigilando el exacto cumplimiento de las condiciones y términos establecidos, y
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+XIV. Las que le sean asignadas por el Titular del Ejecutivo del Estado, las demás que le otorguen la Ley del Transporte para la Movilidad Sustentable del Estado de Nuevo León y su Reglamento, otros ordenamientos legales y el Reglamento Interior de la Agencia.
 
 ### CAPÍTULO II. DE LA ESTRUCTURA ORGÁNICA Y FUNCIONAL DE LA AGENCIA
 
@@ -181,7 +193,9 @@ III. Cuatro vocales, que serán:
 
 3. El Titular de la Corporación de Proyectos Estratégicos de Nuevo León, y
 
-4. El Presidente Ejecutivo de la Agencia para la Planeación del Desarrollo Urbano de Nuevo León.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+4. El Secretario de Desarrollo Sustentable;
 
 Los integrantes de la Junta de Gobierno nombrarán en forma oficial y por escrito a su respectivo suplente.
 
@@ -374,3 +388,7 @@ RUBÉN EDUÁRDO MARTÍNEZ DONDÉ
 P.O. 3 DE DICIEMBRE DE 2010.
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 24 DE DICIEMBRE DE 2010.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
