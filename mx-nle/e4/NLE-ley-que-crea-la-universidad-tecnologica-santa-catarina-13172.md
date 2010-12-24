@@ -4,7 +4,7 @@ identifier: "NLE-ley-que-crea-la-universidad-tecnologica-santa-catarina-13172"
 country: "mx"
 rank: "ley"
 publication_date: "1998-09-30"
-last_updated: "2006-08-02"
+last_updated: "2010-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13172&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY QUE CREA LA UNIVERSIDAD TECNOLOGICA SANTA CATARINA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE AGOSTO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 30 de septiembre de 1998.
 
@@ -169,9 +169,11 @@ El Rector y el Comisario participarán en las sesiones del Consejo con voz pero 
 
 Los asuntos a ser resueltos por el Consejo se votarán por mayoría simple y en caso de empate el Presidente tendrá voto de calidad.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 11.
 
-Para llevar a cabo las labores de vigilancia de la operación de la Universidad, habrá un Comisario Propietario y un suplente designados por el Ejecutivo del Estado a propuesta en terna de la Secretaría de la Contraloría General del Estado, en los términos del Artículo 157 de la Ley de Administración Financiera del Estado de Nuevo León y tendrán las funciones y obligaciones que le asignan las disposiciones legales aplicables.
+Para llevar a cabo las labores de vigilancia de la operación de la Universidad, habrá un Comisario Propietario y un suplente designados por el Ejecutivo del Estado a propuesta en terna de la Contraloría y Transparencia Gubernamental, en los términos del Artículo 157 de la Ley de Administración Financiera del Estado de Nuevo León y tendrán las funciones y obligaciones que le asignan las disposiciones legales aplicables.
 
 ###### Artículo 12.
 
@@ -408,3 +410,7 @@ LIC. FERNANDO ELIZONDO BARRAGAN
 P.O. 2 DE AGOSTO DE 2006.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE DICIEMBRE DE 2010.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
