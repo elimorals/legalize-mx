@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-patrimonio-cultural-del-estado-de-nuevo-leon-9177"
 country: "mx"
 rank: "ley"
 publication_date: "1991-12-23"
-last_updated: "1995-06-07"
+last_updated: "2010-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9177&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY QUE REGIRA TODO LO RELATIVO AL PATRIMONIO CULTURAL DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JUNIO DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 23 de diciembre de 1991.
 
@@ -95,11 +95,13 @@ I.- El Gobernador del Estado;
 
 II.- La Secretaría General de Gobierno;
 
-N. DE E., LAS FACULTADES, ATRIBUCIONES Y OBLIGACIONES QUE CORRESPONDAN A LA SECRETARIA DE DESARROLLO SOCIAL SERAN ASUMIDAS POR EL CONSEJO PARA LA CULTURA DE NUEVO LEON, CONFORME AL ARTICULO QUINTO TRANSITORIO DE LA LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO CONSEJO PARA LA CULTURA DE NUEVO LEON, P.O. 7 DE JUNIO DE 1995.
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
-III.- La Secretaría de Desarrollo Social y con las Sub-secretarías de Cultura y de Educación;
+III.- La Secretaría de Desarrollo Social;
 
-IV.- La Secretaría de Desarrollo Urbano y Obras Públicas;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+IV.- La Secretaría de Obras Públicas;
 
 V.- Los Ayuntamientos;
 
@@ -257,15 +259,21 @@ La declaratoria se pronunciará dentro de los 30 días siguientes a la expiraci�
 
 Los bienes muebles e inmuebles declarados adscritos al patrimonio cultural, estarán sujetos a la protección jurídica del Estado, únicamente en lo que respecta a su valor cultural, sin importar quienes sean sus propietarios o poseedores.
 
-Cualquier transmisión de propiedad requerirá previo permiso de la Secretaría de Desarrollo Urbano y Obras Públicas.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+Cualquier transmisión de propiedad requerirá previo permiso de la Secretaría de Obras Públicas.
 
 ###### ARTICULO 27o.
 
 La adscripción al patrimonio cultural del estado, de un bien propiedad de los organismos públicos descentralizados, de las empresas paraestatales o paramunicipales y de las personas físicas o morales privadas, producirá los siguientes efectos:
 
-I.- Sólo podrá ser gravado u objeto de actos de traslación de dominio previo aviso por escrito a la Secretaría de Desarrollo Social a través de sus respectivas Su secretarías (SIC) de Educación y Cultura del Estado y a la Junta de Protección y Conservación.
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
-II.- Sólo podrá ser restaurado, adaptado o modificado, en cualquier forma, previa autorización escrita por la Junta de Protección y Conservación a la que corresponda o en su defecto de la Secretaría de Desarrollo urbano y Obras Públicas del Estado, quienes la expedirán siempre que se respete su estructura y peculiaridad de su valor histórico, artístico y científico; y
+I.- Solo podrá ser gravado u objeto de actos de traslación de dominio previo aviso por escrito a la Secretaria de Desarrollo Social y a la Junta de Protección y Conservación;
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+II.- Sólo podrá ser restaurado, adaptado o modificado, en cualquier forma, previa autorización escrita por la Junta de Protección y Conservación a la que corresponda o en su defecto de la Secretaría de Obras Públicas del Estado, quienes la expedirán siempre que se respete su estructura y peculiaridad de su valor histórico, artístico y científico; y
 
 III.- Deberá ser inscrito en el registro y catálogo de los bienes adscritos al patrimonio cultural.
 
@@ -283,17 +291,21 @@ Los propietarios o poseedores de bienes adscritos al patrimonio cultural están 
 
 El Estado tomará por su cuenta esos trabajos cuando su propietario esté imposibilitado económicamente y sean inaplazables.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 31o.
 
-Corresponde a la Junta de Protección y Conservación o en su defecto a la Secretaría de Desarrollo Urbano y Obras Públicas del Estado, vigilar y cuidar que la conservación, restauración, adaptación o modificación de un bien adscrito al patrimonio cultural, se ejecute de acuerdo con lo ordenado o autorizado.
+Corresponde a la Junta de Protección y Conservación o en su defecto a la Secretaría de Obras Públicas del Estado, vigilar y cuidar que la conservación, restauración, adaptación o modificación de un bien adscrito al patrimonio cultural, se ejecute de acuerdo con lo ordenado o autorizado.
 
 ###### ARTICULO 32.
 
 El Titular del Ejecutivo, mediante decreto y previa opinión de la Junta que corresponda, podrá excluir o retirar bien de la adscripción al patrimonio cultural del Estado, a solicitud de parte o de oficio, cuando hubiere razón fundada para ello.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 33o.
 
-Cuando en un bien adscrito al patrimonio cultural se ejecuten obras sin autorización o se viole lo ordenado o autorizado, la Secretaría de Desarrollo Urbano y Obras Públicas del Estado, por sí misma o a instancia de la Junta ordenará de proceder así, su suspención (sic) y la demolición de lo hecho, y, si fuere necesario, la restauración o reconstrucción del bien, en los siguientes supuestos:
+Cuando en un bien adscrito al patrimonio cultural se ejecuten obras sin autorización o se viole lo ordenado o autorizado, la Secretaría de Obras Públicas del Estado, por sí misma o a instancia de la Junta ordenará de proceder así, su suspensión y la demolición de lo hecho, y, si fuere necesario, la restauración o reconstrucción del bien, en los siguientes supuestos:
 
 I.- Si la obra realizada modifica o destruye la autenticidad del contenido histórico y artístico; y
 
@@ -545,7 +557,9 @@ Corresponde a la Procuraduría General de Justicia del Estado, el ejercicio de l
 
 El Ministerio Público podrá ordenar al iniciarse una averiguación previa o durante su substanciación, o solicitarlo al juez del proceso el aseguramiento de los bienes adscritos al Patrimonio Cultural del Estado, que sean objeto o efecto de los delitos previstos en esta Ley.
 
-Los bienes asegurados se entregarán para su custodia a la Junta de Protección y Conservación, si la hay, o la Secretaría de Desarrollo Urbano y Obras Públicas del Estado, en su caso.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+Los bienes asegurados se entregarán para su custodia a la Junta de Protección y Conservación, si la hay, o la Secretaría de Obras Públicas del Estado, en su caso.
 
 ###### ARTICULO 79.
 
@@ -598,3 +612,7 @@ LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO CONSEJO PARA LA CUL
 PRIMERO:- ESTA LEY ENTRARA EN VIGOR EL DIA DE SU PUBLICACION EN EL PERIODICO OFICIAL DEL ESTADO.
 
 QUINTO:- LAS FACULTADES, ATRIBUCIONES Y OBLIGACIONES QUE CORRESPONDAN A LA SECRETARIA DE DESARROLLO SOCIAL Y QUE ESTAN CONTENIDAS EN LOS ARTICULOS 8o., FRACCION III, 13o., 63o., 64o., Y 68. DE LA LEY DEL PATRIMONIO CULTURAL DEL ESTADO DE NUEVO LEON, SERAN ASUMIDAS POR EL CONSEJO PARA LA CULTURA DE NUEVO LEON.
+
+P.O. 24 DE DICIEMBRE DE 2010.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
