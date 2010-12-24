@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-la-beneficencia-privada-para-el-estado-de-nuevo-leon-744
 country: "mx"
 rank: "ley"
 publication_date: "1984-01-02"
-last_updated: "2008-10-27"
+last_updated: "2010-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7446&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE LA BENEFICENCIA PRIVADA PARA EL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE OCTUBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 2 de enero de 1984.
 
@@ -641,35 +641,35 @@ Son órganos de vigilancia en materia de beneficencia privada:
 
 a).- El Gobernador Constitucional del Estado.
 
-> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2008)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
-b).- El Consejo de Desarrollo Social.
+b).- La Secretaría de Desarrollo Social.
 
 c).- La Junta de Beneficencia Privada.
 
-> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2008)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 80o.
 
-El Consejo de Desarrollo Social fomentará la solidaridad social y promoverá, entre las instituciones de beneficencia privada, su más estrecha coordinación.
+La Secretaría de Desarrollo Social fomentará la solidaridad social y promoverá, entre las instituciones de beneficencia privada, su más estrecha coordinación.
 
-> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2008)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 81o.
 
-El Consejo de Desarrollo Social brindará asesoría a las Instituciones de Beneficencia Privada que así lo soliciten, procurando una permanente relación entre ésta y su similar del sector público.
+La Secretaría de Desarrollo Social brindará asesoría a las Instituciones de Beneficencia Privada que así lo soliciten, procurando una permanente relación entre ésta y su similar del sector público.
 
-> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2008)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 82o.
 
-Los programas y políticas que el sector público presta en materia de asistencia social a través del Consejo de Desarrollo Social, por conducto de la Junta, serán comunicados y puestos a disposición de las Instituciones de Beneficencia Privada, así como los sistemas de capacitación de personal que para elevar los niveles de atención fueren susceptibles de implementarse.
+Los programas y políticas que el sector público presta en materia de asistencia social a través de la Secretaría de Desarrollo Social, por conducto de la Junta, serán comunicados y puestos a disposición de las Instituciones de Beneficencia Privada, así como los sistemas de capacitación de personal que para elevar los niveles de atención fueren susceptibles de implementarse.
 
-> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2008)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 83o.
 
-El Consejo de Desarrollo Social servirá de conducto con las diversas autoridades para facilitar a las Instituciones de Beneficencia Privada el desarrollo de sus actividades.
+La Secretaría de Desarrollo Social servirá de conducto con las diversas autoridades para facilitar a las Instituciones de Beneficencia Privada el desarrollo de sus actividades.
 
 > <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2008)</small>
 
@@ -891,9 +891,13 @@ IX. Las demás que le confiera esta ley o la Junta.
 
 La Junta deberá celebrar sesiones ordinarias al menos una vez al mes, el día y hora que acuerde la misma y podrá celebrar sesiones extraordinarias cuando así lo determine su Presidente o dos de sus vocales. Las sesiones ordinarias y extraordinarias serán válidas con la asistencia de al menos tres de los integrantes de la Junta. Las resoluciones se tomarán por mayoría de los votos de los presentes, en caso de empate, el Presidente tendrá voto de calidad.
 
-La Junta se reunirá, además, cada vez que sea requerida directamente para ello por el Ejecutivo del Estado o por el Consejo de Desarrollo Social.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
-De todas las reuniones de la Junta, se levantará un acta en la que se asentarán los acuerdos que se tomen y que firmarán los que en ella participan, remitiendo copia de la misma al Consejo de Desarrollo Social.
+La Junta se reunirá, además, cada vez que sea requerida directamente para ello por el Ejecutivo del Estado o por la Secretaría de Desarrollo Social.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+De todas las reuniones de la Junta, se levantará un acta en la que se asentarán los acuerdos que se tomen y que firmarán los que en ella participan, remitiendo copia de la misma a la Secretaría de Desarrollo Social.
 
 > <small>(REFORMADO, P.O. 11 DE ABRIL DE 2008)</small>
 
@@ -1085,9 +1089,9 @@ I.- El que sin previa autorización constituya indebidamente una institución de
 
 II.- No dar cumplimiento a las normas que el presente ordenamiento establece para la constitución, funcionamiento y administración de las instituciones que esta Ley rige.
 
-> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2008)</small>
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
-III.- No acatar los responsables de las instituciones de beneficencia, las prevenciones que dicten con fundamento en la presente Ley, el Ejecutivo del Estado, el Consejo de Desarrollo Social o la Junta de Beneficencia Privada.
+III.- No acatar los responsables de las instituciones de beneficencia, las prevenciones que dicten con fundamento en la presente Ley, el Ejecutivo del Estado, la Secretaría de Desarrollo Social o la Junta de Beneficencia Privada.
 
 > <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2000)</small>
 
@@ -1224,3 +1228,7 @@ Artículo Tercero: Quienes actualmente funjan como integrantes de la Junta de Be
 P.O. 27 DE OCTUBRE DE 2008.
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE DICIEMBRE DE 2010.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
