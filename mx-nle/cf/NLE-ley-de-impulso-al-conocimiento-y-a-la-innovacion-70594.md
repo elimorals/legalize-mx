@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-impulso-al-conocimiento-y-a-la-innovacion-70594"
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-28"
-last_updated: "2009-09-28"
+last_updated: "2010-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70594&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE IMPULSO AL CONOCIMIENTO Y A LA INNOVACION TECNOLOGICA PARA EL DESARROLLO DEL ESTADO DE NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 28 de septiembre de 2009.
 
@@ -221,15 +221,19 @@ b) La Secretaría de Desarrollo Económico;
 
 c) La Secretaría de Educación;
 
-d) La Corporación de Proyectos Estratégicos de Nuevo León;
+d) (DEROGADO, P.O. 24 DE DICIEMBRE DE 2010);
 
 e) La Corporación para el Desarrollo Agropecuario de Nuevo León;
 
 f) La Coordinación de Ciencia y Tecnología de Nuevo León;
 
-g) El Consejo de Relaciones Laborales y Productividad; y
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
-h) El Coordinador General del Comité de Planeación para el Desarrollo del Estado de Nuevo León.
+g) La Secretaría del trabajo; y
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+h) El Coordinador de Planeación, Evaluación e Innovación Gubernamental.
 
 V. Por el sector académico y científico, el Presidente del Consejo Académico Ciudadano; los rectores de la Universidad Autónoma de Nuevo León, del Instituto Tecnológico y de Estudios Superiores de Monterrey, de la Universidad de Monterrey, y de la Universidad Regiomontana; respectivamente;
 
@@ -679,7 +683,9 @@ d) La Oficina Ejecutiva de la Gubernatura;
 
 e) La Coordinación de Ciencia y Tecnología de Nuevo León; y
 
-f) El Consejo de Relaciones Laborales y Productividad.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+f) La Secretaría del trabajo.
 
 Los integrantes de la Junta de Gobierno acreditarán en forma oficial y por escrito a sus respectivos suplentes.
 
@@ -829,7 +835,9 @@ d) La Secretaría de Salud;
 
 e) El Instituto del Agua del Estado de Nuevo León;
 
-f) La Agencia de Protección al Medio Ambiente y Recursos Naturales;
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+f) La Secretaría de Desarrollo Sustentable;
 
 g) La Corporación para el Desarrollo Agropecuario de Nuevo León;
 
@@ -982,3 +990,9 @@ LOMBARDO VICTORIANO GUAJARDO GUAJARDO
 EL C. OFICIAL MAYOR DE GOBIERNO
 
 ROBERTO CANTÚ FLORES
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 24 DE DICIEMBRE DE 2010.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
