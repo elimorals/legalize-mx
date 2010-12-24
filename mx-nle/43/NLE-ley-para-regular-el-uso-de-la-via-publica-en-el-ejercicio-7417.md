@@ -4,7 +4,7 @@ identifier: "NLE-ley-para-regular-el-uso-de-la-via-publica-en-el-ejercicio-7417"
 country: "mx"
 rank: "ley"
 publication_date: "1994-02-02"
-last_updated: "1994-02-02"
+last_updated: "2010-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7417&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY PARA REGULAR EL USO DE LA VIA PUBLICA EN EL EJERCICIO DE LA ACTIVIDAD COMERCIAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 2 de febrero de 1994.
 
@@ -169,9 +169,13 @@ III.- El Secretario de Desarrollo Social.
 
 IV.- El Secretario de Desarrollo Económico.
 
-V.- El Secretario de Desarrollo Urbano y Obras Públicas.
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
-VI.- El Coordinador para el Desarrollo Municipal quien fungirá como Secretario Técnico del Consejo.
+V.- Secretario de Obras Públicas.
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+VI.- El Director de Desarrollo Municipal que fungirá como Secretario Técnico del Consejo.
 
 VII.- Los Presidentes Municipales de:
 
@@ -231,9 +235,11 @@ El Ejecutivo del Estado, a solicitud del Presidente Municipal, otorgará el apoy
 
 El Ejecutivo del Estado, en aquellos casos que lo exija el interés público y a solicitud de las Autoridades Municipales en tal sentido, proveerá el cumplimiento del presente Ordenamiento.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 21.
 
-Las Autoridades Municipales, en el ejercicio de las atribuciones que se les confieren, proveerán al cumplimiento de las disposiciones contenidas en el Código de Comercio, Código Fiscal del Estado y demás leyes fiscales aplicables, Ley Estatal de Salud, Ley del Equilibrio Ecológico y la Protección al Ambiente del Estado de Nuevo León, Ley de Desarrollo Urbano del Estado de Nuevo León y demás ordenamientos aplicables, observando los principios de legalidad, y de seguridad y justicia.
+Las Autoridades Municipales, en el ejercicio de las atribuciones que se les confieren, proveerán al cumplimiento de las disposiciones contenidas en el Código de Comercio, Código Fiscal del Estado y demás leyes fiscales aplicables, Ley Estatal de Salud, Ley Ambiental del Estado de Nuevo León, Ley de Desarrollo Urbano del Estado de Nuevo León y demás ordenamientos aplicables, observando los principios de legalidad, y de seguridad y justicia.
 
 ## TRANSITORIOS
 
@@ -276,3 +282,9 @@ LEOPOLDO ESPINOSA BENAVIDES.
 EL C. SECRETARIO DE DESARROLLO URBANO Y OBRAS PUBLICAS.
 
 RAMIRO GARZA VILLARREAL.
+
+N. DE E.: A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.
+
+P.O. 24 DE DICIEMBRE DE 2010.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
