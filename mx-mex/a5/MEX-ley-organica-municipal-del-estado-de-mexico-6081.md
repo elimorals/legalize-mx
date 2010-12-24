@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2010-12-20"
+last_updated: "2010-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA MUNICIPAL DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE DICIEMBRE DE 2010.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -665,7 +665,9 @@ XXI Quáter. Promover la creación, desarrollo y actualización permanente, de l
 
 XXII. Dotar de servicios públicos a los habitantes del municipio;
 
-XXIII. Preservar, conservar y restaurar el medio ambiente;
+> <small>(REFORMADA, G.G. 24 DE DICIEMBRE DE 2010)</small>
+
+XXIII. Preservar, conservar y restaurar el medio ambiente; así como generar las acciones necesarias a fin de crear áreas verdes que permitan mejorar la calidad de vida y convivencia social de los habitantes del municipio, establecidos como espacios públicos de conservación ambiental;
 
 XXIV. Participar en la creación y administración de sus reservas territoriales y ecológicas; convenir con otras autoridades el control y la vigilancia sobre la utilización del suelo en sus jurisdicciones territoriales; intervenir en la regularización de la tenencia de la tierra urbana; otorgar licencias y permisos para construcciones privadas; planificar y regular de manera conjunta y coordinada el desarrollo de las localidades conurbadas;
 
@@ -3098,6 +3100,12 @@ QUINTO.- Se derogan las disposiciones de igualo menor jerarquía que se opongan 
 SEXTO.- El titular del Poder Ejecutivo del Estado de México realizará las adecuaciones que resulten pertinentes al Reglamento de Tránsito del Estado de México, conforme a las disposiciones del presente Decreto.
 
 G.G. 20 DE DICIEMBRE DE 2010.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 24 DE DICIEMBRE DE 2010.
 
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
