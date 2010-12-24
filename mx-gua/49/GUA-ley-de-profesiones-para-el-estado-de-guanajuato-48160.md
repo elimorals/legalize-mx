@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-profesiones-para-el-estado-de-guanajuato-48160"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-20"
-last_updated: "2005-12-20"
+last_updated: "2010-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48160&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE PROFESIONES PARA EL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Guanajuato, el martes 20 de diciembre de 2005.
 
@@ -499,7 +499,9 @@ III. Elaborar o modificar sus estatutos a efecto de mantener congruencia con las
 
 IV. Informar a la Secretaría, dentro de los treinta días naturales posteriores a la celebración de la Asamblea que corresponda, las modificaciones a sus estatutos, cambio de consejo directivo, de domicilio social, altas y bajas de integrantes y demás relativas a su funcionamiento;
 
-V. Abstenerse de establecer como requisitos para la admisión o exclusión de sus integrantes, condiciones relativas al origen étnico o nacional, el género, la edad, las capacidades diferentes, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+V. Abstenerse de establecer como requisitos para la admisión o exclusión de sus integrantes, condiciones relativas al origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas;
 
 VI. Atender las determinaciones del Consejo de Profesionistas del Estado de Guanajuato relativas a la admisión, suspensión o exclusión de sus integrantes;
 
@@ -1188,3 +1190,11 @@ JUAN CARLOS ROMERO HICKS
 EL SECRETARIO DE GOBIERNO
 
 RICARDO TORRES ORIGEL
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 24 DE DICIEMBRE DE 2010.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
