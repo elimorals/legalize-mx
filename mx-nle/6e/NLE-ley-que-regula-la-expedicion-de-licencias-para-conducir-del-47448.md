@@ -4,7 +4,7 @@ identifier: "NLE-ley-que-regula-la-expedicion-de-licencias-para-conducir-del-474
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-30"
-last_updated: "2005-12-30"
+last_updated: "2010-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47448&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY QUE REGULA LA EXPEDICIÓN DE LICENCIAS PARA CONDUCIR DEL ESTADO DE NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 30 de diciembre de 2005.
 
@@ -111,9 +111,11 @@ V. Autorizar instituciones de enseñanza de manejo o conducción de vehículos; 
 
 VI. Las demás que dispongan las normas de carácter general.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 7º.
 
-En lo no previsto expresamente en esta Ley en materia de transporte, se aplicará supletoriamente la Ley del Transporte para el Estado de Nuevo León y el Reglamento de la Ley del Transporte para el Estado de Nuevo León. En materia de tránsito y vialidad, los reglamentos correspondientes definirán las normas administrativas correspondientes para el cumplimiento de la presente Ley.
+En lo no previsto expresamente en esta Ley en materia de transporte, se aplicará supletoriamente la Ley del Transporte para la Movilidad Sustentable del Estado de Nuevo León y su Reglamento. En materia de tránsito y vialidad, los reglamentos correspondientes definirán las normas administrativas correspondientes para el cumplimiento de la presente Ley.
 
 ### CAPÍTULO II. DE LAS LICENCIAS PARA CONDUCIR Y DE SU EXPEDICIÓN
 
@@ -155,9 +157,11 @@ Las licencias para conducir de chofer son las que se expiden a los conductores d
 
 El titular de la licencia de chofer estará facultado para conducir vehículos de acuerdo a lo mencionado en el párrafo anterior, así como para los usos señalados en el artículo 9 de la presente Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 12.
 
-Las licencias especiales son las que se expiden a los conductores de vehículos que prestan el servicio público de transporte, de acuerdo a lo dispuesto en la Ley de Transporte para el Estado de Nuevo León.
+Las licencias especiales son las que se expiden a los conductores de vehículos que presten el servicio público de transporte, de acuerdo a lo dispuesto en la Ley de Transporte para la Movilidad Sustentable del Estado de Nuevo León.
 
 El titular de la licencia especial estará facultado para conducir vehículos en la modalidad correspondiente al servicio que se señale en la licencia, así como para los usos señalados en los artículos 9º y 11 de la presente Ley.
 
@@ -169,7 +173,7 @@ La vigencia de las licencias para conducir de las personas de dieciséis años o
 
 Para autorizar la expedición de licencias para conducir, reposición o renovación de la misma, los solicitantes, según su edad, deberán acreditar, según corresponda, lo siguiente:
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 Para la acreditación de lo anterior se deberán presentar, en original y copia, los documentos que se señalan a continuación:
 
@@ -201,7 +205,9 @@ Para el trámite de expedición de licencia, la acreditación de los requisitos 
 
 En caso de trámites de reposición o renovación de las licencias para conducir, la acreditación de los requisitos señalados en el presente artículo deberá realizarse ante la autoridad estatal competente en materia de expedición de licencias.
 
-Para la expedición de licencias especiales, reposición o renovación de las mismas, se deberá presentar a la autoridad estatal competente en materia de expedición de licencias la autorización de la Agencia, de acuerdo a lo dispuesto en la Ley de Transporte para el Estado de Nuevo León.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+Para la expedición de licencias especiales, reposición o renovación de las mismas, se deberá presentar a la autoridad estatal competente en materia de expedición de licencias la autorización de la Agencia, de acuerdo a lo dispuesto en la Ley de Transporte para la Movilidad Sustentable del Estado de Nuevo León.
 
 El curso de manejo deberá incluir una presentación audiovisual, por medio de la cual se les informará con relación a los inconvenientes y consecuencias de conducir bajo el efecto de las bebidas alcohólicas o intoxicado con cualquier sustancia.
 
@@ -209,7 +215,9 @@ El curso de manejo deberá incluir una presentación audiovisual, por medio de l
 
 Las licencias podrán ser renovadas hasta por dos ocasiones consecutivas cuando la autoridad estatal competente revise la Base de Datos y se desprenda de esta que el conductor no tiene impedimento judicial o administrativo para conducir vehículos.
 
-El conductor deberá acreditar los requisitos que señala el artículo 14 fracciones VII, IX y XI de la presente Ley, y en el caso de licencias especiales acreditar además los requisitos que establece la Ley de Transporte del Estado y su Reglamento, cuando:
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+El conductor deberá acreditar los requisitos que señala el artículo 14 fracciones VII, IX y XI de la presente Ley, y en el caso de licencias especiales acreditar además los requisitos que establece la Ley de Transporte para la Movilidad Sustentable del Estado y su Reglamento, cuando:
 
 I. Pierda la consecutividad de la renovación;
 
@@ -221,9 +229,11 @@ III. Su registro indique la comisión de infracciones consideradas como graves c
 
 La autoridad estatal competente en materia de expedición de licencias podrá verificar la información proporcionada para los trámites señalados en el artículo 14 de esta Ley, conforme a los sistemas y procedimientos informáticos que resulten aplicables y, en su caso, solicitará las aclaraciones pertinentes. En los casos en que la autoridad estatal competente en materia de expedición de licencias detecte que la información proporcionada para el trámite de licencia, reposición o renovación de la misma es falsa, procederá a dar parte al Ministerio Público para los efectos legales que procedan.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 17.
 
-En los casos de extravío o robo de la licencia, se podrá solicitar reposición de la misma ante la autoridad estatal competente en materia de expedición de licencias, mediante la acreditación del requisito que señala el artículo 14 fracción XI de esta Ley y en el caso de licencias especiales acreditar además los requisitos que establece la Ley de Transporte del Estado y su reglamento.
+En los casos de extravío o robo de la licencia, se podrá solicitar reposición de la misma ante la autoridad estatal competente en materia de expedición de licencias, mediante la acreditación del requisito que señala el Artículo 14 fracción XI de esta Ley y en el caso de licencias especiales acreditar además los requisitos que establece la Ley de Transporte para la Movilidad Sustentable del Estado y su reglamento.
 
 ###### Artículo 18.
 
@@ -255,7 +265,9 @@ b) Número de licencia; y
 
 c) Tipo de licencia, de acuerdo a lo dispuesto en el artículo 8º de la presente Ley.
 
-En el caso de las licencias especiales se deberá incluir el tipo de vehículo y la modalidad de servicio que se autoriza a prestar de acuerdo a lo dispuesto en la Ley de Transporte para el Estado de Nuevo León.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+En el caso de las licencias especiales se deberá incluir el tipo de vehículo y la modalidad de servicio que se autoriza a prestar de acuerdo a lo dispuesto en la Ley de Transporte para la Movilidad Sustentable del Estado de Nuevo León.
 
 La calidad de donador de órganos o tejidos se registrará en la licencia siempre y cuando el titular de la misma así lo autorice voluntaria y expresamente mediante un formulario que le proporcionará la autoridad estatal competente en materia de expedición de licencias.
 
@@ -344,3 +356,9 @@ LIC. ROGELIO CERDA PÉREZ
 EL C. SECRETARIO DE FINANZAS Y TESORERO GENERAL DEL ESTADO
 
 RUBÉN EDUARDO MARTÍNEZ DONDÉ
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 24 DE DICIEMBRE DE 2010.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
