@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-personas-con-discapacidad-del-estado-de-nuevo-leon-49568
 country: "mx"
 rank: "ley"
 publication_date: "2006-03-08"
-last_updated: "2008-12-24"
+last_updated: "2010-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49568&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 8 de marzo de 2006.
 
@@ -263,9 +263,11 @@ VI. Asistir en materia técnica a los sectores social y privado, en materia de d
 
 El Estado instrumentará incentivos fiscales a las empresas que apoyen el equipamiento de los centros especializados destinados a la formación de personas con discapacidad y asegurar de esta manera la respuesta a las demandas de desempeño del mercado del trabajo.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 16.
 
-El Estado instrumentará convenios entre el Consejo de Relaciones Laborales y Productividad del Gobierno del Estado y las empresas que planteen los perfiles de los puestos disponibles para el desarrollo de estrategias de formación en el trabajo, y para desarrollar programas tendientes a la capacitación y actualización continua para y en el trabajo de personas con discapacidades.
+El Estado instrumentará convenios entre la Secretaría del Trabajo y las empresas que planteen los perfiles de los puestos disponibles para el desarrollo de estrategias de formación en el trabajo, y para desarrollar programas tendientes a la capacitación y actualización continua para y en el trabajo de personas con discapacidades.
 
 Así, mismo, las autoridades estatales y municipales competentes convocarán a las organizaciones no gubernamentales, a los empresarios y sus representantes, los Sindicatos, el sector social y el Sistema de Desarrollo Integral de la Familia del Estado, para que creen e impulsen programas de capacitación e integración laboral para personas con discapacidad, que por alguna razón no tuvieran otra opción para integrarse o capacitarse para el trabajo.
 
@@ -473,6 +475,12 @@ II. Establecer condiciones de inclusión de personas con discapacidad para logra
 
 III. Promover la realización de las adecuaciones materiales necesarias para que las personas con discapacidad tengan acceso a todo recinto donde se desarrolle cualquier actividad cultural. Así, mismo, la difusión de las actividades culturales. El impulso a la capacitación de recursos humanos y el uso de materiales y tecnología a fin de lograr la integración de las personas con discapacidad en las actividades culturales; y el fomento la (sic) elaboración de materiales de lectura.
 
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+Artículo 34 bis.- En los eventos deportivos, culturales y artísticos que se realicen en el Estado, deberá procurar se reserve al menos el uno y hasta el dos por ciento del total de los lugares para personas con discapacidad, ubicados en distintas posiciones y de diferentes costos, debiendo destinar al menos un lugar de mayor y uno de menor valor, proporcionando el espacio que se requiera para su comodidad.
+
+Asimismo, se deberá procurar destinar sin ningún costo, mínimo el diez por ciento de la cantidad de lugares que se reserven para personas con discapacidad, para aquellas de escasos recursos que cuenten con identificación expedida por el Gobierno del Estado de acuerdo al padrón de apoyo a personas con discapacidad.
+
 ### Capítulo VIII. De la Seguridad Jurídica
 
 ###### Artículo 35.
@@ -507,9 +515,11 @@ De las Medidas Positivas y Compensatorias.
 
 Las Secretarías, agencias y demás dependencias que integran la Administración Pública Estatal, los Organismos Públicos Descentralizados de Participación Ciudadana y demás Entidades Paraestatales del Estado, así como los municipios en el ámbito de sus respectivas competencias y jurisdicción, vigilarán y garantizarán la defensa de los derechos de las personas con discapacidad otorgándoles una atención preferencial que agilice los trámites y procedimientos administrativos que las mismas realicen.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 41.
 
-El Consejo de Desarrollo Social del Estado de Nuevo León, promoverá la celebración de convenios de concertación con la iniciativa privada, a fin de que la atención preferencial para las personas con discapacidad, también sea proporcionada en instituciones bancarias, tiendas de autoservicio y otras empresas mercantiles.
+La Secretaría de Desarrollo Social del Estado de Nuevo León, promoverá la celebración de convenios de concertación con la iniciativa privada, a fin de que la atención preferencial para las personas con discapacidad, también sea proporcionada en instituciones bancarias, tiendas de autoservicio y otras empresas mercantiles.
 
 ### Capítulo XI. De la Concurrencia
 
@@ -861,13 +871,19 @@ III. Vocales, que serán los titulares de las siguientes dependencias, entidades
 
 a) Agencia para la Racionalización y Modernización del Sistema de Transporte Público de Nuevo León;
 
-b) Agencia para la Planeación del Desarrollo Urbano de Nuevo León;
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
-c) Consejo de Desarrollo Social;
+b) Secretaría de Desarrollo Sustentable;
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+c) Secretaría de Desarrollo Social;
 
 d) Consejo para la Cultura y las Artes de Nuevo León;
 
-e) Consejo de Relaciones Laborales y Productividad;
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+e) Secretaría del Trabajo;
 
 f) Sistema para el Desarrollo Integral de la Familia del Estado de Nuevo León;
 
@@ -1086,3 +1102,15 @@ Primero.- La entrada en vigor del presente decreto, será en noventa días natur
 Segundo.- Los perros de asistencia existentes en la actualidad, deberán adecuarse a los requisitos de reconocimiento e identificación previstos en esta Ley, dentro del plazo de seis meses a partir del desarrollo reglamentario de ésta Ley.
 
 Tercero.- Los Municipios, dentro del ámbito de sus respectivas competencias, adaptarán sus reglamentos municipales sobre la materia a las normas contenidas en la presente Ley, en el plazo de seis meses a partir de la entrada en vigor de esta Ley.
+
+P.O. 24 DE DICIEMBRE DE 2010.
+
+DECRETO NUMERO 135, SE REFORMAN LOS ARTICULOS 16 PARRAFO PRIMERO; 41; 46 FRACCION III, INCISOS B), C) Y E) DE LA LEY DE PERSONAS CON DISCAPACIDAD DEL ESATDO DE NUEVO LEON
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE DICIEMBRE DE 2010.
+
+DECRETO NUMERO 145, SE REFORMA POR ADICION CON UN ARTICULO 34 BIS, LA LEY DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE NUEVO LEON.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
