@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-la-corporacion-para-el-desarrollo-agropecuario-de-35229"
 country: "mx"
 rank: "ley"
 publication_date: "2003-12-15"
-last_updated: "2010-12-03"
+last_updated: "2010-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35229&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE LA CORPORACION PARA EL DESARROLLO AGROPECUARIO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 15 de diciembre de 2003.
 
@@ -99,7 +99,9 @@ XIII. Organizar, difundir y mantener actualizada la información estadística de
 
 XIV. Incorporar en los programas y acciones el concepto de desarrollo regional, a fin de generar zonas económicas autosuficientes;
 
-XV. Impulsar, en coordinación con la Agencia de Protección al Medio Ambiente y Desarrollo Rural, la biodiversidad y mejoramiento de la calidad de los recursos naturales;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+XV. Impulsar, en coordinación con la Secretaría de Desarrollo Sustentable, la biodiversidad y mejoramiento de la calidad de los recursos naturales;
 
 XVI. Representar al Estado ante todos los organismos y dependencias involucradas en el sector rural, coordinando sus esfuerzos en concordancia con lo previsto en la Ley de Desarrollo Rural sustentable, y
 
@@ -389,7 +391,9 @@ b) El Secretario de Finanzas y Tesorero General del Estado;
 
 c) El Secretario de Desarrollo Económico, y
 
-d) El Director General de la Agencia de Protección al Medio Ambiente y Recursos Naturales.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+d) El Secretario de Desarrollo Sustentable.
 
 Los integrantes de la Junta de Gobierno podrán ser representados en sus ausencias, por quienes designen para este efecto con el carácter de suplente, mediante documento que se le remita a la Junta de Gobierno; las ausencias del Titular del Ejecutivo del Estado serán cubiertas por el Presidente Delegado.
 
@@ -510,3 +514,7 @@ Artículo Segundo.- Las disposiciones de esta reforma se aplicarán en la próxi
 P.O. 3 DE DICIEMBRE DE 2010.
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 24 DE DICIEMBRE DE 2010.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
