@@ -4,7 +4,7 @@ identifier: "GUA-codigo-reglamentario-de-desarrollo-urbano-para-el-municipio-758
 country: "mx"
 rank: "codigo"
 publication_date: "2010-08-06"
-last_updated: "2010-12-03"
+last_updated: "2010-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75881&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 CODIGO REGLAMENTARIO DE DESARROLLO URBANO PARA EL MUNICIPIO DE LEON, GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE DICIEMBRE DE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE DE 2010.
 
 Código publicado en la Segunda Parte al Periódico Oficial del Estado de Guanajuato, el viernes 6 de agosto de 2010.
 
@@ -5915,7 +5915,7 @@ En contra de los actos y resoluciones de las autoridades competentes en la aplic
 
 ANEXOS
 
-> <small>N. DE E. VEASE ANEXO 1: MANUAL TECNICO DE USOS DEL SUELO, EN EL P.O. 6 DE AGOSTO DE 2010, PAGINAS 163 A LA 194. REFORMAS EN EL P.O. 3 DE DICIEMBRE DE DE 2010, PAGINAS 53 A LA 54.</small>
+> <small>N. DE E. VEASE ANEXO 1: MANUAL TECNICO DE USOS DEL SUELO, EN EL P.O. 6 DE AGOSTO DE 2010, PAGINAS 163 A LA 194. REFORMAS EN EL P.O. 3 DE DICIEMBRE DE DE 2010, PAGINAS 53 A LA 54; P.O. 24 DE DICIEMBRE DE DE 2010, PAGINAS 21 A LA 22.</small>
 
 > <small>N. DE E. VEASE ANEXO 2: TABLA DE GIROS DEL SISTEMA DE APERTURA RÁPIDA DE EMPRESAS CON ACTIVIDADES DE INTENSIDAD MINIMA, BAJA Y MEDIA, EN EL P.O. 6 DE AGOSTO DE 2010, PAGINAS 194 A LA 201.</small>
 
@@ -5984,3 +5984,9 @@ PRIMERO.- La presente adición, entrará en vigor al cuarto día siguiente al de
 SEGUNDO.- Podrán ser susceptibles de autorización los espacios existentes que demuestren estar funcionando de forma licita en cuanto permisos de la secretaría de gobernación se refiere. Se otorgará un plazo máximo de tres meses para la regularización de este tipo de espacios en funcionamiento, previa notificación de la Dirección General de Desarrollo Urbano y/o de la Dirección de Fiscalización y Control, siempre y cuando cumplan con los requisitos marcados en el artículo 51 del presente Código.
 
 TERCERO.- Se derogan todas aquellas disposiciones legales, reglamentarias y administrativas municipales que se opongan a la presente adición.
+
+P.O. 24 DE DICIEMBRE DE DE 2010.
+
+PRIMERO.- Las presentes reformas y adiciones, entrará en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones legales, reglamentarias y administrativas municipales que se opongan a las presentes modificaciones.
