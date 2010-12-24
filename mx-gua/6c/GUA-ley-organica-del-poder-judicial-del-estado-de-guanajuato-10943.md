@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-del-poder-judicial-del-estado-de-guanajuato-10943"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-04-01"
-last_updated: "2010-09-03"
+last_updated: "2010-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10943&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE SEPTIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2010.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el miércoles 1 de abril de 1997.
 
@@ -69,13 +69,21 @@ El Supremo Tribunal de Justicia ejerce la función jurisdiccional en todo el Est
 
 Los jueces para adolescentes ejercerán en la circunscripción territorial, denominada distrito, que determine el Consejo del Poder Judicial.
 
-> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
-Los jueces de ejecución tendrán la competencia que la Ley de Justicia para Adolescentes del Estado de Guanajuato les confiera.
+Los jueces de ejecución para adolescentes tendrán la competencia que la Ley de Justicia para Adolescentes del Estado de Guanajuato les confiera.
 
 > <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
 
 Los jueces de partido en materia penal designados para conocer de los delitos contra la salud en su modalidad de narcomenudeo, tendrán la competencia territorial que determine el Consejo del Poder Judicial.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+Los Jueces de Control, los Jueces de Tribunal de Juicio Oral y los Jueces de Ejecución que operen el sistema penal acusatorio y oral, ejercerán sus funciones en la Región que determine el Consejo del Poder Judicial, sin perjuicio de que podrán hacerlo en otra Región del Estado si el servicio de administración de justicia así lo requiere.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+En cada Región habrá un juzgado integrado por las Sedes que determine el Consejo del Poder Judicial.
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
@@ -109,11 +117,13 @@ VI.- Proporcionar a las autoridades competentes con veracidad los datos e inform
 
 VII.- Las demás que las leyes les confieran.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 8o.
 
-Los magistrados, los consejeros, los jueces, los secretarios y actuarios no podrán ejercer la profesión de abogado, sino en negocio propio, de su cónyuge, de sus ascendientes o descendientes, sin limitación de grado, ni desempeñar otro empleo o cargo público o privado, a excepción de los docentes.
+Los servidores públicos del Poder Judicial del Estado de Guanajuato que tengan título de Licenciado en derecho u otro equivalente, no podrán ejercer la profesión de abogado, sino en causa propia, de su cónyuge, de sus ascendientes o descendientes, sin limitación de grado.
+
+Los magistrados, los consejeros, los jueces, los secretarios y actuarios además de lo prohibición del párrafo anterior no podrán desempeñar otro empleo o cargo público o privado a excepción de los docentes.
 
 ###### Artículo 9o.
 
@@ -149,7 +159,9 @@ El Supremo Tribunal de Justicia se integrará con el número de magistrados prop
 
 El Supremo Tribunal de Justicia funcionará en Pleno o en salas.
 
-Los magistrados ejercerán sus funciones en Pleno y en la sala que integren. El Consejo del Poder Judicial podrá cambiar la sala de adscripción de los magistrados, cuando exista causa justificada.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+Los magistrados ejercerán sus funciones en Pleno, o en la sala unitaria o colegiada que integren. El Consejo del Poder Judicial podrá cambiar la sala de adscripción de los magistrados, cuando exista causa justificada.
 
 ###### Artículo 15.
 
@@ -189,7 +201,9 @@ IV.- Conocer de la responsabilidad administrativa de los consejeros; la resoluci
 
 V.- Conocer y decidir el recurso administrativo de revisión;
 
-VI.- Conocer del recurso de reclamación contra los acuerdos del Presidente;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+VI.- Conocer del recurso de inconformidad contra los acuerdos del presidente;
 
 VII.- Designar, de entre sus miembros, a un representante para que integre el jurado en los concursos de oposición;
 
@@ -229,9 +243,13 @@ XIX.- Designar al magistrado supernumerario que supla las faltas temporales de u
 
 XX.- Proponer al Congreso del Estado la separación de consejeros del Poder Judicial, en los términos previstos en el artículo 63 de la Constitución Política del Estado; y
 
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+XXI.- Decidir, atendiendo a los principios contenidos en la Ley del Proceso Penal para el Estado de Guanajuato y a los derechos y garantías de los intervinientes, la forma en que deba procederse cuando una circunstancia no prevista en la Ley del Proceso Penal para el Estado de Guanajuato obstaculice o impida la operatividad del sistema penal acusatorio y oral; y
+
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 1 DE AGOSTO DE 2006)</small>
 
-XXI.- Las demás que ésta y otras leyes le confieran.
+XXII.- Las demás que ésta y otras leyes le confieran.
 
 ###### Artículo 18.
 
@@ -297,11 +315,11 @@ XII.- Rendir, en sesión pública, ante el Pleno del Supremo Tribunal de Justici
 
 XIII.- Las demás que le señalen las leyes.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 25.
 
-Contra los acuerdos tomados por el Presidente del Supremo Tribunal de Justicia en ese carácter o corno en el del Consejo del Poder Judicial, podrá interponerse el recurso de reclamación ante el Pleno del Supremo Tribunal de Justicia, siempre que se haga por escrito, expresando agravios y se interponga por la parte interesada, dentro del término de cinco días hábiles contados a partir del siguiente al de la notificación o al en que haya tenido conocimiento. El recurso se resolverá en un término de quince días hábiles.
+Contra los acuerdos tomados por el Presidente del Supremo Tribunal de Justicia en ese carácter o en el de Presidente del Consejo del Poder Judicial, podrá interponerse el recurso de inconformidad ante el Pleno del Supremo Tribunal de Justicia, siempre que se haga por escrito, expresando agravios y se interponga por la parte interesada, dentro del término de cinco días hábiles contados a partir del siguiente al de la notificación o al en que haya tenido conocimiento. El recurso se resolverá en un término de quince días hábiles.
 
 ###### Artículo 26.
 
@@ -347,15 +365,19 @@ VI.- Recibir las renuncias que presenten los consejeros, remitiéndolas para su 
 
 Recibir y resolver la renuncia presentada por el juez de partido designado como consejero;
 
-VII.- Designar a su secretario general, al contralor del Poder Judicial, así como al personal técnico y de apoyo;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+VII.- Designar a su secretario general, al contralor del Poder Judicial, al Coordinador General del Sistema de Gestión de los juzgados que operen el sistema penal acusatorio y oral, así como al personal técnico y de apoyo;
 
 VIII.- Designar al jurado que en cooperación con instituciones públicas o privadas se integrará para el examen que presentarán las personas que deban ejercer los cargos de peritos, en los asuntos que se tramiten ante el Poder Judicial y dentro de los requisitos que esta Ley señale;
 
 IX.- Designar, de entre sus miembros, un representante para que integre el jurado en los concursos de oposición;
 
-> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
-X.- Determinar el número de orden y especialización por materia de los juzgados de partido y menores; el número de orden y circunscripción territorial de los juzgados para adolescentes y la distribución de los asuntos de que conocerán los jueces de ejecución; así como el número de orden y circunscripción territorial de los juzgados de partido en su materia penal designados para conocer de los delitos contra la salud en su modalidad de narcomenudeo;
+X.- Determinar el número de orden y especialización por materia de los juzgados de partido y menores; el número de orden y circunscripción territorial de los juzgados para adolescentes y la distribución de los asuntos de que conocerán los jueces de ejecución en esta materia; así como el número de orden y circunscripción territorial de los juzgados de partido en su materia penal designados para conocer de los delitos contra la salud en su modalidad de narcomenudeo.
+
+Así como determinar la Región y Sede de los jueces que operen el sistema penal acusatorio y oral; y (sic)
 
 > <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
@@ -495,7 +517,9 @@ IV.- Si no hubiere impugnaciones o una vez resueltas las presentadas, el Pleno d
 
 a) El informe de calidad sobre el desempeño que proporcione el Pleno del Supremo Tribunal de Justicia, conforme a las bases generales emitidas;
 
-b) El resultado de las auditorías y visitas que se hayan realizado a los juzgados a cargo de los seleccionados;
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+b) El resultado de las auditorías y visitas que se hayan realizado a los juzgados u oficinas a cargo de los seleccionados;
 
 c) El expediente personal de los seleccionados;
 
@@ -577,9 +601,11 @@ Corresponderá al Consejo del Poder Judicial la ejecución de sus propios actos,
 
 ### CAPITULO QUINTO. DE LAS SALAS DEL SUPREMO TRIBUNAL DE JUSTICIA
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 43.
 
-Cada magistrado integrará una sala, con excepción del Presidente del Supremo Tribunal de Justicia.
+Los magistrados integrarán sala unitaria o colegiada, según corresponda al asunto que deba resolverse, con excepción del Presidente del Supremo Tribunal de Justicia.
 
 ###### Artículo 44.
 
@@ -603,21 +629,109 @@ IV.- De la queja contra la resolución que no de entrada a la denegada apelació
 
 V.- De los asuntos que les confieran esta Ley y otras disposiciones legales.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 47.
 
-Las salas en materia penal conocerán:
+Las salas unitarias en materia penal conocerán:
 
-I.- En primera instancia de los delitos dolosos del fuero común que merezcan pena privativa de libertad, cometidos por los servidores públicos que determina el artículo 126 de la Constitución Política Local, así como de los cometidos por jueces de partido, jueces menores y agentes del Ministerio Público;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
-II.- De los recursos de apelación y de la denegada apelación, en los términos del Código de Procedimientos Penales;
+l.- En primera instancia de los delitos dolosos del fuero común que merezcan pena privativa de libertad, cometidos por los servidores públicos que determina el artículo 126 de la Constitución Política Local, así como de los cometidos por jueces de partido, jueces menores y agentes del Ministerio Público. Cuando el proceso deba regirse por la Ley del Proceso Penal para el Estado de Guanajuato, la intervención de la sala unitaria concluirá al pronunciar el auto de apertura del juicio oral y ordenar su remisión a la sala colegiada a la que corresponda sustanciar la etapa del juicio oral y pronunciar la sentencia correspondiente;
 
-III.- De las recusaciones y de las excusas de los jueces de partido y menores en materia penal;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
-IV.- De las excitativas de justicia;
+II.- De los recursos de apelación y de la denegada apelación; en los términos del Código de Procedimientos Penales y de la apelación en el sistema penal acusatorio y oral;
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+III.- De las recusaciones y de las excusas de los jueces de partido, menores en materia penal y de los jueces que operan el sistema penal acusatorio y oral;
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+IV.- De las excitativas de justicia o de la queja prevista en la Ley del Proceso Penal para el Estado de Guanajuato, en funciones de Tribunal de Queja;
 
 V.- Del juicio de amparo en los términos que establece el artículo 37 de la Ley de Amparo; y
 
 VI.- De los demás asuntos que les confieran esta Ley y otras disposiciones legales.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 47-A.
+
+Las salas para la aplicación del sistema penal acusatorio y oral serán colegiadas para conocer y decidir la casación y la revisión de sentencia a que alude la Ley del Proceso Penal paro el Estado de Guanajuato; se integrarán por tres magistrados, funcionaran en Pleno y tomarán sus acuerdos por unanimidad o mayoría de votos de sus integrantes, quienes no podrán abstenerse de votar salvo que tengan excusa o impedimento legal. Los magistrados podrán formular voto particular o concurrente dentro de las veinticuatro horas siguientes a la fecha del acuerdo, el cual se insertará al final de la resolución respectiva.
+
+Tratándose de los servidores públicos a que se refiere la fracción I del artículo 47 de esta Ley, corresponderá a las salas colegiadas el desahogo de la etapa del juicio oral a partir del auto de radicación hasta el pronunciamiento de la sentencia, su lectura y explicación, la remisión de la copia de la sentencia a las autoridades competentes y en su caso al juez de ejecución.
+
+Las salas colegiadas contarán con un presidente seleccionado de entre sus integrantes.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 47- B.
+
+Una vez iniciada una audiencia, ante la imposibilidad de que uno de sus integrantes siga estando presente en lo misma, la sala colegiada podrá continuar funcionando legalmente con dos de sus integrantes, uno de los cuales fungirá como presidente.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 47-C.
+
+Las salas colegiadas sesionarán los días y horas que las mismas establezcan mediante acuerdos publicados en los estrados con al menos veinticuatro horas de anticipación.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 47-D.
+
+Son atribuciones del Pleno de las salas colegiadas:
+
+l.- Elegir de entre sus miembros a su presidente;
+
+II.- Pronunciar las sentencias que correspondan dentro de los asuntos de su competencia;
+
+III.- Expedir los acuerdos necesarios para el mejor ejercicio de sus funciones;
+
+IV.- Resolver sobre las excusas y recusaciones de sus integrantes; y
+
+V. - Las demás que le asignen las leyes o reglamentos.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 47-E.
+
+Son atribuciones del presidente de la sala colegiada:
+
+l.- Representar o la sala colegiada;
+
+II.- Presidir las sesiones del Pleno de la sala, dirigir los debates y tomar las medidas pertinentes para conservar el orden;
+
+III.- Vigilar el cumplimiento de las determinaciones de la sala;
+
+IV.- Emitir los acuerdos de trámite;
+
+V.- Acordar la correspondencia de la sala;
+
+VI.- Rendir los informes de actividades de la sala; y
+
+VII.- Las demás que le asignen las leyes o reglamentos.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 47- F.
+
+Son atribuciones de los magistrados de las salas colegiadas las siguientes:
+
+I.- Concurrir, participar y votar en las sesiones y reuniones a las que sean convocados por el presidente de la sala;
+
+II.- Integrar la sala para resolver colegiadamente los asuntos de su competencia;
+
+III.- Discutir y votar la sentencia correspondiente y en su caso, formular voto particular en los asuntos en los que disienta del acuerdo mayoritario;
+
+IV.- Redactar el fallo aprobado por la sala cuando sean designados para tales efectos;
+
+V.- Someter a consideración de la sala la acumulación de las impugnaciones en los casos en que procedan;
+
+VI.- Excusarse del conocimiento de los asuntos en donde tengan causa de impedimento; y
+
+VII.- Las demás que le asignen las leyes o reglamentos.
 
 ### CAPITULO SEXTO. DE LOS MAGISTRADOS
 
@@ -729,9 +843,11 @@ Los magistrados supernumerarios desempeñarán el despacho de los asuntos de la 
 
 Los magistrados supernumerarios en ejercicio tendrán las mismas atribuciones y gozarán de la misma retribución que corresponda al magistrado.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 52.
 
-Si un magistrado dejare de conocer de algún asunto por excusa o recusación, conocerá de éste el magistrado al que corresponda por turno.
+Si un magistrado que integre sala unitaria dejare de conocer de algún asunto por excusa o recusación, conocerá de éste el magistrado al que corresponda por turno.
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
@@ -1025,13 +1141,15 @@ Si un juez de impugnación dejare de conocer de algún asunto por excusa o recus
 
 Para ser juez de impugnación deberán de cumplirse los mismos requisitos exigidos al juez de partido, además de contar con experiencia profesional de cuando menos siete años y tener especialización en la materia de adolescentes.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES CAPITULO NOVENO], P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO EN SU DENOMINACION, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
-### CAPÍTULO DÉCIMO PRIMERO. DE LOS JUZGADOS DE PARTIDO Y DE LOS TRIBUNALES ESPECIALIZADOS PARA ADOLESCENTES
+### CAPÍTULO DÉCIMO PRIMERO. DE LOS JUZGADOS DE PARTIDO, DE LOS TRIBUNALES ESPECIALIZADOS PARA ADOLESCENTES Y DE LOS JUZGADOS REGIONALES DEL SISTEMA PENAL ACUSATORIO Y ORAL
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 56.
 
-Para los efectos de esta Ley, el territorio del Estado de Guanajuato se dividirá en el número de partidos judiciales que determine el Consejo del Poder Judicial, atendiendo a las necesidades del servicio.
+Para los efectos de esta Ley, el territorio del Estado de Guanajuato se dividirá en el número de distritos, partidos judiciales y regiones que determine el Consejo del Poder Judicial atendiendo a las necesidades del servicio.
 
 En cada uno de los partidos judiciales, el Consejo del Poder Judicial establecerá el número de juzgados de partido.
 
@@ -1041,9 +1159,9 @@ Cuando en un partido judicial exista más de un juzgado del mismo ramo, se desig
 
 El Consejo del Pode Judicial fijará la circunscripción territorial correspondiente a los juzgados de partido en materia penal desginados para conocer de los delitos contra la salud en su modalidad de narcomenudeo; en caso de ser varios en un mismo lugar, se designarán por orden numérico.
 
-> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
-El Consejo del Poder Judicial determinará la circunscripción territorial, denominada distrito, que corresponda a los juzgados para adolescentes y la distribución de los asuntos entre los jueces de ejecución y de impugnación; en caso de ser varios, se designarán por orden numérico.
+El Consejo del Poder Judicial determinará la circunscripción territorial, denominada distrito, que corresponda a los juzgados para adolescentes y la distribución de los asuntos entre los jueces de ejecución y de impugnación en esta materia; en caso de ser varios, se designarán por orden numérico.
 
 ###### Artículo 57.
 
@@ -1075,13 +1193,47 @@ III.- Secretarios proyectistas; y
 
 IV.- Actuarios y demás personal de apoyo que determine el Consejo del Poder Judicial.
 
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 58-A.
+
+Los juzgados regionales que apliquen el sistema penal acusatorio y oral contarán con el número de jueces y sedes que determine el Consejo del Poder Judicial. Además de los jueces, los juzgados regionales contarán con el personal de apoyo que determine el Consejo.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 58-B.
+
+La administración de los juzgados que operen el sistema penal acusatorio y oral estará a cargo de una Coordinación General de Gestión, cuya función esencial será planificar, organizar, implementar, controlar y dirigir un equipo multidisciplinario de gestión que permita desarrollar con efectividad en todo el territorio del Estado, el sistema de justicia penal acusatorio y oral; la cual tendrá las siguientes atribuciones:
+
+l.- Ejecutar las acciones necesarias para la implementación del sistema de gestión en apoyo al servicio de impartición de justicia, bajo los lineamientos autorizados por el Consejo del Poder judicial;
+
+II.- Dirigir los trabajos y supervisar el desempeño der personal de apoyo;
+
+III.- Vigilar la correcta y eficiente aplicación de los recursos asignados al sistema de gestión; y
+
+IV.- Las demás que le asignen las leyes o reglamentos.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 58-C.
+
+Para cumplir sus funciones, la Coordinación General de Gestión contará con el personal de apoyo que el Consejo le asigne, atendiendo a las necesidades del servicio y a las posibilidades presupuestales.
+
 > <small>(REFORMADO [N. DE E. REUBICADO, ANTES CAPITULO DECIMO], P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 ### CAPÍTULO DÉCIMO SEGUNDO. DE LOS JUECES DE PARTIDO
 
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+#### SECCIÓN PRIMERA. DE LOS JUECES DE PARTIDO, DE LOS JUECES ESPECIALIZADOS PARA ADOLESCENTES Y DE LOS JUECES REGIONALES DEL SISTEMA PENAL ACUSATORIO Y ORAL
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 59.
 
-Los jueces de partido serán designados por el Consejo del Poder Judicial, de acuerdo con las reglas que para la carrera judicial establece esta Ley.
+Los jueces de partido, los jueces especializados para adolescentes y los jueces del sistema penal acusatorio y oral, serán designados por el Consejo del Poder Judicial, de acuerdo con las reglas que para la carrera judicial establece esta Ley.
+
+Los jueces especializados para adolescentes y los jueces del sistema penal acusatorio y oral se ubican dentro de la misma categoría y estarán comprendidos en la denominación genérica de juez de partido.
 
 ###### Artículo 60.
 
@@ -1152,6 +1304,150 @@ El juez de impugnación en materia de adolescentes por la índole de sus funcion
 Para ser titular de un juzgado para adolescentes o para ser juez de ejecución se requerirá, además de lo exigido a los demás jueces de partido, que tengan especialización en la materia.
 
 En los casos de recusación o excusa del titular de un juzgado para adolescentes o de un juez de ejecución será sustituido por el juzgador de la misma materia más cercano; si éste no puede conocer del asunto, por el juez de partido en materia penal con residencia en el lugar de ubicación del juez originalmente competente.
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+#### SECCIÓN SEGUNDA. DE LOS JUECES DEL SISTEMA PENAL ACUSATORIO Y ORAL
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 64-B.
+
+Los jueces que operen el sistema penal acusatorio y oral podrán ejercer como: jueces de control, jueces del tribunal del juicio oral o jueces de ejecución. En ejercicio de sus funciones tendrán fe pública.
+
+Los jueces de control integrarán los tribunales del juicio oral en asuntos en donde no hayan intervenido previamente.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 64-C.
+
+Son atribuciones de los jueces de control:
+
+I.- Resolver sobre la aplicación, modificación, sustitución o cancelación de las medidas cautelares de carácter real o personal que le sean solicitados por quien esté legitimado para ello;
+
+II.- Presidir la audiencia de vinculación a proceso, la de apertura del juicio oral y emitir las decisiones que en ellas corresponda, así como celebrar cualquier otra audiencia que legalmente le sea solicitada y asumir las decisiones atinentes al caso;
+
+III.- Sustanciar y resolver los medios impugnativos de revocación, reclamación y de aclaración de resoluciones;
+
+IV.- Acordar, sustanciar y decidir las solicitudes de suspensión condicional del proceso;
+
+V.- Calificar y en su caso aprobar los acuerdos asumidos en justicia restaurativa para cuya validez sean necesarias estas determinaciones;
+
+VI.- Validar las resoluciones asumidas en justicia restaurativa emitidas conforme al sistema normativo de pueblos o comunidades indígenas;
+
+VII.- Instruir, sustanciar y decidir el procedimiento abreviado;
+
+VIII.- Calificar y asumir la decisión que corresponda en los casos de detención en flagrancia;
+
+IX.- Vigilar que se respeten los derechos constitucionales del inculpado y de la víctima u ofendido: y
+
+X.- Las demás que le asignen las leyes o reglamentos.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+###### Articulo 64-D.
+
+Son atribuciones de los jueces del Tribunal del Juicio Oral:
+
+l.- Integrar el Tribunal del Juicio Oral, asumiendo las funciones para las que fueron seleccionados;
+
+II.- Presenciar el desahogo de la audiencia del juicio oral desde el momento en que se declare legalmente instalado el Tribunal, hasta aquél en que el presidente declare cerrado los debates y se proceda a la fase de deliberación;
+
+III.- Intervenir en las deliberaciones para determinar si se considera o no probada la culpabilidad del inculpado y en su caso, la determinación de la sanción aplicable;
+
+IV.- Emitir su voto respecto al sentido de la sentencia, la naturaleza y magnitud de la punición;
+
+V.- Estar presentes en la audiencia en la que la sentencia sea leída y explicada;
+
+VI.- Ejercer el poder de disciplina, cuidar que se mantenga el buen orden, exigir que se guarde respeto y consideraciones debidas a ellos y a los demás intervinientes de la audiencia, corrigiendo en el acto las faltas que se cometieren; y
+
+VII.- Las demás que le asignen las leyes o reglamentos.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 64-E.
+
+Son atribuciones del Presidente del Tribunal del Juicio Oral:
+
+I.- Decretar la fecha para la celebración de la audiencia del debate dentro del plazo legal e informar la integración del tribunal;
+
+II.- Citar oportunamente a las partes e intervinientes a la audiencia de debate;
+
+III.- Verificar la presencia de los demás jueces, de las partes, de los testigos, peritos o intérpretes que deban participar en el debate y de la existencia de las cosas y documentos que deban exhibirse en él;
+
+IV.- Declarar abierta la audiencia de debate advirtiendo al inculpado y al público sobre la importancia del significado de lo que en ella va a ocurrir;
+
+V.- Presidir el debate en todo su desarrollo y en su caso, decretar los recesos que correspondan;
+
+VI.- Decretar los aplazamientos diarios de la audiencia del juicio oral indicando la hora en que continuará el debate;
+
+VII. - Emitir de manera verbal, fundada y motivada las decisiones indispensables para el correcto desahogo de la audiencia de debate;
+
+VIII.- Dirigir el debate y ordenar las lecturas pertinentes, hacer las advertencias que correspondan, exigir las ratificaciones solemnes y moderar la discusión en audiencia de debate;
+
+IX.- Ordenar la suspensión de la audiencia del debate cuando las circunstancias así lo justifiquen;
+
+X.- Ordenar la detención del inculpado y levantar el acta respectiva en los casos en que durante lo audiencia de debate se cometa algún delito;
+
+XI.- Presidir la deliberación;
+
+XII.- Impedir intervenciones y derivaciones impertinentes que no conduzcan al esclarecimiento de la verdad en el desahogo de la audiencia de debate;
+
+XIII.- Ejercer el poder de disciplina, cuidar que se mantenga el buen orden, exigir que se guarde respeto y consideraciones debidas a él y a los demás intervinientes de la audiencia, corrigiendo en el acto las faltas que se cometieren;
+
+XIV.- Aplicar los medios de apremio autorizados por la ley;
+
+XV.- Leer los resolutivos y explicar la sentencia en la audiencia respectiva;
+
+XVI.- Instruir los recursos que se promuevan en contra de la sentencia pronunciada en la audiencia del juicio oral; y
+
+XVII.- Las demás que le asignen las leyes o reglamentos.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 64-F.
+
+Son atribuciones de los Jueces de Ejecución:
+
+I.- Velar porque se organice el sistema penitenciario sobre la base del trabajo, la capacitación para el mismo, la educación, la salud, el deporte y la cultura física como medios para lograr la reinserción del sentenciado a la sociedad;
+
+II.- Procurar la aplicación de medios idóneos para que el sentenciado no vuelva a delinquir;
+
+III.- Buscar las formas más adecuadas para que se observen los beneficios que prevé la ley en favor del sentenciado;
+
+IV.- Recibir y decidir los planteamientos correspondientes a las solicitudes y observaciones promovidas por el sentenciado, su abogado o por el defensor público durante la ejecución de la pena;
+
+V.- Adecuar las penas y medidas de seguridad, su extinción o sustitución en caso de ley más favorable;
+
+VI.- Ejecutar, mantener, sustituir, modificar o declarar extintas las penas o las medidas de seguridad, así como las condiciones de su cumplimiento;
+
+VII.- Decidir en audiencia oral sobre la preliberación, libertad anticipada, remisión parcial de la sanción o la revocación de estos beneficios, así como citar a testigos y peritos que deban proporcionarle la información que requiera para asumir tales decisiones;
+
+VIII.- Resolver sobre la reducción de las penas cuando se modifique la punibilidad en favor del sentenciado;
+
+IX.- Aprobar las propuestas que formulen las autoridades penitenciarias o las solicitudes de reconocimiento de beneficios que supongan una modificación en las condiciones de cumplimiento de la condena o una reducción del tiempo de privación efectiva de la libertad;
+
+X.- Inspeccionar el lugar y condiciones en que deban cumplirse las penas o las medidas de seguridad;
+
+XI.- Vigilar y controlar la correcta aplicación de las sanciones disciplinarias u ordenar su imposición si se desatienden;
+
+XII.- Vigilar la forma como se cumplan las medidas de seguridad impuestas a los inimputables; participar con los directores de los centros de rehabilitación en todo lo concerniente a la situación de los sentenciados inimputables y ordenar la modificación o cesación de las respectivas medidas, de acuerdo con los informes suministrados por las áreas terapéuticas responsables de su cuidado, tratamiento y rehabilitación;
+
+XIII.- Resolver las solicitudes que se presenten en relación con la extinción de la sanción penal y sobre la cancelación de antecedentes penales;
+
+XIV.- Resolver sobre la ineficacia de la sentencia condenatoria, y en su caso, ordenar la libertad inmediata del sentenciado cuando la ley deje de considerar delictuoso el hecho por el cual se le privó de libertad en sentencia ejecutoria o cuando el tipo penal en el que se fundó la sentencia, sea declarado inconstitucional en jurisprudencia;
+
+XV.- Resolver las peticiones o quejas que los internos formulen en relación con el régimen y el tratamiento penitenciario en cuanto puedan afectar sus derechos;
+
+XVI.- Resolver los reclamos que formulen los internos sobre sanciones disciplinarias;
+
+XVII.- Resolver oficiosamente o a petición de parte sobre la aplicación de las normas de concurso de delitos cuando existan varias sentencias ejecutorias en contra de un mismo sentenciado, cuando por cualquier causa no se hubiere decretado la acumulación de procesos;
+
+XVIII.- Vigilar el cumplimiento de las condiciones relativas a los beneficios y sustitutivos que el Código Penal para el Estado de Guanajuato prevea;
+
+XIX.- Recibir e instruir los recursos de apelación que se interpongan en contra de sus resoluciones que admitan este medio de impugnación; y
+
+XX.- Las demás que le asignen las leyes o reglamentos.
 
 > <small>(REFORMADO [N. DE E. REUBICADO, ANTES CAPITULO DECIMO PRIMERO], P.O. 26 DE DICIEMBRE DE 2006)</small>
 
@@ -1423,15 +1719,17 @@ I.- Actuario;
 
 II.- Secretario de juzgado menor;
 
-III.- Secretario de juzgado de partido;
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+III.- Secretario de juzgado de partido o encargado de sala en el sistema penal acusatorio y oral;
 
 IV.- Secretario de sala;
 
 V.- Juez menor;
 
-> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
-VI.- Juez de partido, o titular de tribunal especializado en la impartición de justicia para adolescentes; y
+VI.- Juez de partido, titular de tribunal especializado en la impartición de justicia para adolescentes y jueces del sistema penal acusatorio y oral; y
 
 VII.- Magistrado.
 
@@ -1501,6 +1799,14 @@ VI.- Plazo, lugar y requisitos para la inscripción de los aspirantes; y
 
 VII.- Todos los demás elementos que se estimen necesarios.
 
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 100-A.
+
+Para acceder al concurso de oposición los aspirantes deberán de haber acreditado los cursos de capacitación que se hubieren impartido para ese efecto.
+
+Asimismo, deberán haber satisfecho las características y requisitos para el desempeño de la categoría que se concursa con base en el resultado de los instrumentos de evaluación de personalidad que se realicen.
+
 ###### Artículo 101.
 
 Para la elección de la persona que deba ocupar cualquiera de las categorías que se concursen, el Consejo del Poder Judicial deberá atender a los siguientes elementos:
@@ -1513,9 +1819,19 @@ III.- La disciplina y desarrollo profesional;
 
 IV.- La antigüedad en el Poder Judicial, en su caso;
 
-V.- El promedio de calificación obtenido en el curso de formación impartido por el Instituto; y
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
-VI.- El expediente personal.
+V.- El promedio de calificación obtenido en el curso de formación que se hubiere impartido;
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+VI.- El resultado de la evaluación continua que se hubiere practicado al aspirante en los cargos desempeñados;
+
+VII.- El expediente personal; y
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+VIII.- El resultado de la aplicación de los instrumentos de evaluación de personalidad que se realicen de acuerdo a las características y requisitos para el desempeño de la categoría que se concursa.
 
 ###### Artículo 102.
 
@@ -1549,15 +1865,25 @@ VII.- En el caso de que ninguno de los aspirantes obtuviera calificación aproba
 
 VIII.- De todo lo anterior se levantará acta y el presidente del jurado declarará quien o quienes hayan resultado aprobados y se procederá a la realización de los trámites respectivos.
 
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 102-A.
+
+Tratándose de jueces para el sistema penal acusatorio y oral, la prueba práctica consistirá en simulacros de tres audiencias; entre las que podrán incluirse las de vinculación a proceso, apertura del juicio oral o de debate.
+
+Respecto a los aspirantes a encargados de sala, el Consejo del Poder Judicial determinará la forma en que se efectúe la prueba práctica en forma tal que permita evaluar las habilidades, destrezas y capacidades que deban dominar.
+
 ###### Artículo 103.
 
 El jurado calificará cada prueba en una escala de cero a cien puntos y promediará los dos resultados para obtener la calificación final, cuya mínima aprobatoria será de setenta puntos.
 
 El jurado remitirá al Consejo del Poder Judicial el resultado de los exámenes, el que resolverá sobre la asignación de la categoría concursada y ordenará su publicación
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 104.
 
-En caso de que algunos de los aspirantes con resultado aprobatorio empaten en la puntuación obtenida en las pruebas teórica y práctica, el Consejo del Poder Judicial resolverá atendiendo a los elementos señalados en el artículo 102 de esta Ley. En este supuesto, los aspirantes que no hayan sido seleccionados, serán considerados para ocupar las vacantes que se generen en la categoría concursada, sin necesidad de realizar nueva oposición.
+En caso de que algunos de los aspirantes con resultado aprobatorio empaten en la puntuación obtenida en las pruebas teórica y práctica el Consejo del Poder Judicial resolverá atendiendo a los elementos señalados en el artículo 101 de esta Ley.
 
 ###### Artículo 105.
 
@@ -1671,9 +1997,19 @@ IV.- Las de los demás servidores públicos, por quienes designe el Consejo del 
 
 ## TITULO QUINTO
 
-### CAPITULO PRIMERO. DE LA OFICIALIA COMUN DE PARTES
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
-### CAPITULO SEGUNDO. DE LAS CENTRALES DE ACTUARIOS
+### CAPÍTULO PRIMERO. DEL CENTRO ESTATAL DE JUSTICIA ALTERNATIVA
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 118-A.
+
+Al Centro Estatal de Justicia Alternativa corresponde la aplicación de la mediación y la conciliación como formas alternativas de solución de controversias en sede judicial. Contará con un director, los subdirectores, los mediadores y los conciliadores y el personal de apoyo que determine el Consejo del Poder Judicial. Ejercerá sus funciones en sedes permanentes o itinerantes, según lo disponga el Consejo del Poder Judicial.
+
+(REUBICADO [N. DE E. ANTES CAPITULO PRIMERO], P.O. 24 DE DICIEMBRE DE 2010)
+
+### CAPÍTULO SEGUNDO. DE LA OFICIALÍA COMÚN DE PARTES
 
 ###### Artículo 119.
 
@@ -1695,7 +2031,9 @@ El oficial tendrá fe pública en todo lo relativo al ejercicio de su cargo.
 
 Los turnos de los diversos asuntos deberán ser hechos conforme al sistema que establezca el Consejo del Poder Judicial.
 
-### CAPITULO TERCERO. DEL ARCHIVO DEL PODER JUDICIAL
+(REUBICADO [N. DE E. ANTES CAPITULO SEGUNDO], P.O. 24 DE DICIEMBRE DE 2010)
+
+### CAPÍTULO TERCERO. DE LAS CENTRALES DE ACTUARIOS
 
 ###### Artículo 124.
 
@@ -1705,7 +2043,9 @@ El Consejo del Poder Judicial designará al titular responsable de la oficina ce
 
 Los actuarios dependerán administrativamente del titular de la oficina central de actuarios, pero estarán sometidos a la autoridad del juez que dicte la resolución que se cumplimente, por lo que a esta se refiere.
 
-### CAPITULO UNICO. DE LA CONTRALORIA
+(REUBICADO [N. DE E. ANTES CAPITULO TERCERO], P.O. 24 DE DICIEMBRE DE 2010)
+
+### CAPÍTULO CUARTO. DEL ARCHIVO DEL PODER JUDICIAL
 
 ###### Artículo 125.
 
@@ -1715,9 +2055,9 @@ El Consejo del Poder Judicial organizará y vigilará el correcto funcionamiento
 
 Se depositarán en el archivo del Poder Judicial:
 
-> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
-I.- Todos los expedientes concluidos del orden civil, penal y en materia de adolescentes;
+I.- Todos los expedientes concluidos del orden civil, penal, en materia de adolescentes y en aplicación de medios alternativos de solución de controversias, ya sea que conste en base papel o en cualquier dispositivo de almacenamiento de datos;
 
 II.- Cualesquiera otros expedientes que conforme a la Ley se integren por los órganos judiciales del Estado de Guanajuato;
 
@@ -1765,7 +2105,7 @@ El Consejo del Poder Judicial podrá acordar en todo caso las disposiciones que 
 
 ## TITULO SEXTO
 
-### CAPITULO UNICO. DE LA JURISPRUDENCIA
+### CAPITULO UNICO. DE LA CONTRALORIA
 
 ###### Artículo 135.
 
@@ -1787,7 +2127,7 @@ V.- Las demás que determinen las leyes, los reglamentos y acuerdos generales co
 
 ## TITULO SEPTIMO
 
-### CAPITULO PRIMERO. DE LA AUTONOMIA PRESUPUESTAL
+### CAPITULO UNICO. DE LA JURISPRUDENCIA
 
 ###### Artículo 137.
 
@@ -1817,7 +2157,7 @@ La contradicción de tesis deberá denunciarse por escrito al Pleno del Supremo 
 
 ## TITULO OCTAVO
 
-### CAPITULO SEGUNDO. DEL FONDO AUXILIAR PARA LA IMPARTICION DE JUSTICIA
+### CAPITULO PRIMERO. DE LA AUTONOMIA PRESUPUESTAL
 
 ###### Artículo 141.
 
@@ -1827,7 +2167,7 @@ El Poder Judicial tiene facultad para manejar en forma autónoma e independiente
 
 El presupuesto del Poder Judicial se ejercerá por el Consejo, el que deberá sujetarse a las disposiciones previstas en la Ley del Presupuesto, Contabilidad y Gasto Público y demás ordenamientos aplicables.
 
-### CAPITULO TERCERO. DE LAS BASES PARA LA APLICACION DEL FONDO AUXILIAR
+### CAPITULO SEGUNDO. DEL FONDO AUXILIAR PARA LA IMPARTICION DE JUSTICIA
 
 ###### Artículo 143.
 
@@ -1865,7 +2205,7 @@ Las sumas o valores depositadas por los particulares, serán reintegradas a los 
 
 El Pleno del Supremo Tribunal de Justicia informará al Congreso del Estado en la cuenta pública semestral que se presente, sobre el manejo y aplicación del fondo.
 
-### CAPITULO UNICO. DE LA RESPONSABILIDAD
+### CAPITULO TERCERO. DE LAS BASES PARA LA APLICACION DEL FONDO AUXILIAR
 
 ###### Artículo 147.
 
@@ -1899,7 +2239,7 @@ No podrán emplearse los recursos del fondo auxiliar para el otorgamiento de est
 
 ## TITULO NOVENO
 
-### CAPITULO UNICO. DEL RECURSO ADMINISTRATIVO DE REVISION
+### CAPITULO UNICO. DE LA RESPONSABILIDAD
 
 ###### Artículo 149.
 
@@ -1947,7 +2287,11 @@ XV.- Abstenerse, durante el ejercicio de sus funciones de solicitar, aceptar o r
 
 XVI.- Presentar con oportunidad y veracidad las declaraciones de su situación patrimonial; y
 
-XVII.- Proporcionar en forma oportuna y veraz, toda información y datos solicitados por la Procuraduría de los Derechos Humanos, a efecto de que aquélla pueda cumplir con las facultades y atribuciones que le correspondan.
+XVII.- Proporcionar en forma oportuna y veraz, toda información y datos solicitados por la Procuraduría de los Derechos Humanos, a efecto de que aquélla pueda cumplir con las facultades y atribuciones que le correspondan;
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+XVIII.- Acatar los acuerdos generales emitidos por el Pleno del Supremo Tribunal de Justicia, el Consejo del Poder Judicial del Estado y por la Presidencia de dichos órganos en el ámbito de sus atribuciones.
 
 ###### Artículo 152.
 
@@ -1959,7 +2303,9 @@ II.- Dictar dolosamente resolución contra el texto expreso de la Ley o contra l
 
 III.- Impedir material e intencionalmente que las partes ejerzan en los procedimientos judiciales, los derechos que les correspondan;
 
-IV.- Ejercer cualquiera de las actividades incompatibles con el cargo de magistrado, juez, secretario o actuario;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+IV. - Ejercer cualquiera de las actividades incompatibles con el cargo;
 
 V.- Desatender o retrasar injustificada y generalizadamente la iniciación, tramitación o resolución de los asuntos a su cargo;
 
@@ -1971,7 +2317,9 @@ VIII.- Faltar a la verdad en los informes que rindan o en los datos que proporci
 
 IX.- Valerse de la condición de servidor público del Poder Judicial, para obtener un beneficio injustificado de autoridades, funcionarios, profesionales o de cualquier otra persona;
 
-X.- Destruir, mutilar, ocultar o alterar expedientes o documentos que se conserven en el secreto del juzgado;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+X.- Destruir, mutilar, ocultar o alterar expedientes, documentos o dispositivos de almacenamiento de datos a los que tenga acceso en ejercicio de sus funciones;
 
 XI.- Emitir opinión pública que implique prejuzgar sobre un asunto concreto de su conocimiento;
 
@@ -2103,9 +2451,7 @@ III.- Que haya transcurrido un plazo de tres años, contados a partir de que se 
 
 ## TITULO DECIMO
 
-### CAPITULO UNICO
-
-DE LOS CONFLICTOS LABORALES ENTRE EL PODER JUDICIAL DEL ESTADO Y SUS SERVIDORES.
+### CAPITULO UNICO. DEL RECURSO ADMINISTRATIVO DE REVISION
 
 ###### Artículo 162.
 
@@ -2137,7 +2483,9 @@ Será aplicable supletoriamente el Código de Procedimientos Civiles para el Est
 
 ## TITULO DECIMO PRIMERO
 
-### CAPITULO UNICO. DE LAS EXCITATIVAS DE JUSTICIA
+### CAPITULO UNICO
+
+DE LOS CONFLICTOS LABORALES ENTRE EL PODER JUDICIAL DEL ESTADO Y SUS SERVIDORES.
 
 ###### Artículo 169.
 
@@ -2177,11 +2525,17 @@ Los proyectos serán turnados a los magistrados cuando menos cinco días hábile
 
 ## TITULO DECIMO SEGUNDO
 
+### CAPITULO UNICO. DE LAS EXCITATIVAS DE JUSTICIA
+
 ###### Artículo 177.
 
 Toda excitativa de justicia se promoverá por escrito y se despachará o denegará, previo informe justificado de la autoridad contra quien se solicite. El informe deberá rendirse dentro del término de tres días hábiles, y la resolución se dictará en igual plazo.
 
 La falta del informe que se menciona en este artículo, implica la presunción de ser cierto el acto que se atribuye a la autoridad en contra de la cual se promueve la excitativa, salvo prueba en contrario.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+En el sistema penal acusatorio y oral se aplicará lo dispuesto por la Ley del Proceso Penal para el Estado de Guanajuato en relación con la queja como medio de impugnación.
 
 ## TRANSITORIOS
 
@@ -2264,3 +2618,13 @@ Artículo Segundo. Las autoridades e instituciones del Estado, a más tardar el 
 Artículo Tercero. Los procedimientos penales que se estén substanciando a la entrada en vigor del presente Decreto se seguirán conforme a las disposiciones vigentes al momento de la comisión de los hechos.
 
 Artículo Cuarto. A las personas que hayan cometido un delito de los contemplados en el presente Decreto con anterioridad a su entrada en vigor, incluidas las procesadas o sentenciadas, les serán aplicables las disposiciones vigentes en el momento en que se haya cometido.
+
+P.O. 24 DE DICIEMBRE DE 2010.
+
+Artículo Primero.- El presente Decreto entrará en vigencia al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Artículo Segundo. Las cuestiones que se presenten por la aplicación ultractiva del Código de Procedimientos Penales y por la aplicación retroactiva de la Ley del Proceso Penal para el Estado de Guanajuato, a que se refieren los transitorios tercero y sexto de la Ley del Proceso Penal para el Estado de Guanajuato, serán resueltas por los jueces de partido que estén conociendo de los respectivos asuntos.
+
+Artículo Tercero. En relación con la carrera judicial y hasta antes de la entrada en vigor del sistema penal acusatorio y oral en la Región IV, el Consejo del Poder Judicial, podrá convocar a los jueces menores penales y mixtos y secretarios de sala penal para participar en los concursos de oposición para designar a los jueces que operen este sistema.
+
+Los jueces de partido y los secretarios de juzgado de partido que deseen integrar el sistema penal acusatorio y oral, deberán someterse a un proceso de selección cuyos reglas y bases se contendrán en la convocatoria respectiva.
