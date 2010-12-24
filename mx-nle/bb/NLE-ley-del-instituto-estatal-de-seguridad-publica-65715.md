@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-instituto-estatal-de-seguridad-publica-65715"
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-15"
-last_updated: "2010-12-03"
+last_updated: "2010-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65715&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DEL INSTITUTO ESTATAL DE SEGURIDAD PUBLICA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 15 de diciembre de 2008.
 
@@ -233,9 +233,11 @@ XV. Las demás que le confiara la Junta da Gobierno.
 
 ### CAPÍTULO TERCERO. DEL COMISARIO
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 11.
 
-Para llevar a cabo las labores de vigilancia de la operación del Instituto, habrá un Comisario designado por el Titular del Poder Ejecutivo a propuesta de la Contraloría Interna del Gobierno del Estado, en los términos de la Ley Orgánica de la Administración Pública para el Estado de Nuevo León y demás disposiciones jurídicas aplicables.
+Para llevar a cabo las labores de vigilancia de la operación del Instituto, habrá un Comisario designado por el Titular del Poder Ejecutivo a propuesta de la Contraloría y Transparencia Gubernamental, en los términos de la Ley Orgánica de la Administración Pública para el Estado de Nuevo León y demás disposiciones jurídicas aplicables.
 
 ###### Artículo 12.
 
@@ -243,7 +245,9 @@ El Comisario tendrá las siguientes facultades:
 
 I. Vigilar que los gastos, cuentas y administración de los recursos del Instituto se ejerzan adecuadamente para el cumplimiento de su objeto, así como lo relativo a los ingresos que tuviere con motivo de sus actividades, ajustándose en todo momento a lo que dispone esta Ley, los planes y presupuestos aprobados, así como otras disposiciones aplicables;
 
-II. Solicitar la información y documentación y efectuar los actos que se requieran para el adecuado cumplimiento de sus funciones, sin perjuicio de las tareas que le encomiende la Contraloría Interna del Gobierno del Estado;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+II. Solicitar la información y documentación y efectuar los actos que se requieran para el adecuado cumplimiento de sus funciones, sin perjuicio de las tareas que le encomiende la Contraloría y Transparencia Gubernamental;
 
 III. Rendir un informe anual a la Junta de Gobierno;
 
@@ -376,3 +380,7 @@ LUIS CARLOS TREVIÑO BERCHELMANN
 P.O. 3 DE DICIEMBRE DE 2010.
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 24 DE DICIEMBRE DE 2010.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
