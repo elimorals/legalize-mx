@@ -4,7 +4,7 @@ identifier: "NLE-ley-que-crea-el-organismo-publico-descentralizado-13565"
 country: "mx"
 rank: "ley"
 publication_date: "1987-11-09"
-last_updated: "1997-01-31"
+last_updated: "2010-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13565&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO SISTEMA DE TRANSPORTE COLECTIVO "METRORREY"
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE ENERO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 9 de noviembre de 1987.
 
@@ -115,7 +115,9 @@ I.- Un Presidente, que será el Gobernador del Estado o la persona que éste des
 
 II.- El Secretario General de Gobierno.
 
-III.- El Secretario de Obras Públicas y Transporte.
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+III.- El Secretario de Obras Públicas.
 
 IV.- El Secretario de Desarrollo Urbano.
 
@@ -123,7 +125,9 @@ V.- El Secretario de Programación y Desarrollo.
 
 VI.- El Secretario de Finanzas y Tesorero General del Estado.
 
-VII.- El Presidente del Consejo Estatal de Transporte.
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+VII.- El Director de la Agencia para la Racionalización y Modernización del Sistema de Transporte Público.
 
 VIII.- Dos Dirigentes de la clase trabajadora. Invariablemente estarán representados la Confederación de Trabajadores de México y la Confederación Revolucionaria de Obreros y Campesinos.
 
@@ -201,11 +205,11 @@ VI.- Velar por la buena marcha del organismo y tomar las medidas administrativas
 
 VII.- Las demás que establezcan las disposiciones jurídicas aplicables.
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1997)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 13o.
 
-Para llevar a cabo las labores de vigilancia de la operación del Organismo, habrá un Comisario designado por el Ejecutivo Estatal a propuesta de la Secretaria de la Contraloría General del Estado, en los términos de la Ley Orgánica de la Administración Pública y para el Estado y demás disposiciones jurídicas aplicables.
+Para llevar a cabo las labores de vigilancia de la operación del Organismo, habrá un Comisario designado por el Ejecutivo Estatal a propuesta de la Contraloría y Transparencia Gubernamental del Estado, en los términos de la Ley Orgánica de la Administración Pública para el Estado y demás disposiciones jurídicas aplicables.
 
 ### CAPITULO III
 
@@ -268,3 +272,7 @@ P.O. 31 DE ENERO DE 1997.
 Artículo Primero:- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo segundo:- Por conducto de METRORREY, en coordinación con las Dependencias competentes y considerando las recomendaciones técnicas del Consejo Estatal de Transporte, de manera previa a la entrada en operación del servicio público urbano y en su caso suburbano de transporte de personas en camiones u otro medio de transporte que sirva de enlace con el Metro, se establecerán y difundirán los itinerarios, frecuencias de paso, horarios, tarifas y demás aspectos inherentes al servicio.
+
+P.O. 24 DE DICIEMBRE DE 2010.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
