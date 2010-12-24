@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-la-corporacion-para-el-desarrollo-turistico-de-nuevo-380
 country: "mx"
 rank: "ley"
 publication_date: "2004-02-26"
-last_updated: "2010-12-03"
+last_updated: "2010-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38023&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE LA CORPORACION PARA EL DESARROLLO TURISTICO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el jueves 26 de febrero de 2004.
 
@@ -205,7 +205,9 @@ a) El Secretario de Finanzas y Tesorero General del Estado;
 
 b) El Secretario de Desarrollo Económico;
 
-c) El Director General de la Agencia de Protección al Medio Ambiente y Recursos Naturales; y
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+c) El Secretario de Desarrollo Sustentable; y
 
 d) El titular de la Corporación de Proyectos Estratégicos de Nuevo León.
 
@@ -440,3 +442,7 @@ RUBÉN EDUARDO MARTÍNEZ DONDÉ
 P.O. 3 DE DICIEMBRE DE 2010.
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 24 DE DICIEMBRE DE 2010.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
