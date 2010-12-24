@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-del-ministerio-publico-del-estado-de-guanajuato-17
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-09-29"
-last_updated: "2009-03-27"
+last_updated: "2010-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17497&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "GUA"
 ---
 # LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE GUANAJUATO
 
-LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE GUANAJUATO
+LEY ORGÁNICA DEL MINISTERIO PÚBLICO DEL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE MARZO DE 2009.
+> <small>N. DE E. EL PRESENTE ORDENAMIENTO SERÁ ABROGADO PROGRESIVAMENTE POR EL ARTÍCULO PRIMERO Y SEGUNDO TRANSITORIOS DE LA LEY ORGÁNICA DEL MINISTERIO PÚBLICO DEL ESTADO DE GUANAJUATO, PERO CONTINUARÁ APLICÁNDOSE EN LO CONDUCENTE A LOS CASOS DEL SISTEMA PROCESAL PENAL MIXTO, ASÍ COMO HASTA LA IMPLEMENTACIÓN INTEGRAL DEL SERVICIO DE CARRERA Y EL DESARROLLO POLICIAL DE LA PROCURADURÍA CONFORME A LA LEY GENERAL DEL SISTEMA NACIONAL DE SEGURIDAD PÚBLICA, EN TANTO NO SE OPONGAN, Y EN LO NO PREVISTO POR ESTA LEY, PUBLICADA EN EL P.O. DE 24 DE DICIEMBRE DE 2010.</small>
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 29 de septiembre de 2000.
 
@@ -792,3 +792,39 @@ P.O. 27 DE MARZO DE 2009.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en .vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 24 DE DICIEMBRE DE 2010.
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto entrará en vigencia el uno de enero de 2011, previa publicación en el Periódico Oficial del Gobierno del Estado.
+
+Abrogación y ultractividad de la Ley Orgánica del Ministerio Público
+
+Artículo Segundo. Se abroga la Ley Orgánica del Ministerio Público del Estado de Guanajuato, contenida en el Decreto Legislativo número 371, de Legislatura Constitucional y publicado en el Periódico Oficial del Gobierno del Estado, número 78, Segunda Parte de fecha 29 de septiembre del 2000, salvo lo establecido en el siguiente párrafo.
+
+Las disposiciones de la Ley Orgánica del Ministerio Público para el Estado de Guanajuato que se abroga, continuarán aplicándose en lo conducente a los casos del sistema procesal penal mixto, así como hasta la implementación integral del servicio de carrera y el desarrollo policial de la Procuraduría conforme a la Ley General del Sistema Nacional de Seguridad Pública, en tanto no se opongan y en lo no previsto por esta ley.
+
+Reglamento de la Ley Orgánica del Ministerio Público y término para expedir la nueva reglamentación
+
+Artículo Tercero. El Reglamento de la Ley Orgánica del Ministerio Público que se abroga seguirá rigiendo para el trámite y desahogo de los casos relativos al sistema procesal mixto, en los apartados y términos que establezca la nueva reglamentación de esta Ley, que deberá emitir el Ejecutivo del Estado antes de junio de 2011, La cual deberá incluir las categorías de la carrera ministerial, acorde a los lineamientos de la Ley General del Sistema Nacional de Seguridad Pública y de este ordenamiento.
+
+Presupuesto
+
+Artículo Cuarto. Previo al inicio de los plazos indicados en el artículo primero transitorio de la Ley del Proceso Penal para el Estado de Guanajuato, se conformarán gradualmente las agencias del Ministerio Público, demás áreas y unidades de la Procuraduría General de Justicia propias del sistema procesal penal acusatorio, de acuerdo con los recursos que se aprueben en los respectivos ejercidos presupuestales.
+
+Procedimientos de responsabilidad administrativa
+
+Artículo Quinto. Los procedimientos de responsabilidad administrativa iniciados con antelación a la entrada en vigor de la presente Ley se tramitarán hasta su debida conclusión con base a los ordenamientos con que fueron iniciados.
+
+Vigencia de acuerdos, lineamientos y demás disposiciones
+
+Artículo Sexto. Los acuerdos, circulares y demás disposiciones administrativas emitidas por el Procurador General de Justicia, con fundamento en la Ley Orgánica que se abroga mediante el presente decreto, continuarán vigentes en lo que no se opongan a la presente Ley.
+
+Servicio de Carrera Ministerial y Pericial, y del Desarrollo Policial
+
+Artículo Séptimo. En tanto se expiden las disposiciones reglamentarias de esta Ley, seguirán vigentes las disposiciones existentes en materia del Servicio de Carrera Ministerial y Pericial y las del Desarrollo Policial.
+
+Estructura de la organización jerárquica de la Policía Ministerial
+
+Artículo Octavo. Por lo que hace a la estructura de la organización jerárquica de la Policía Ministerial a que se refiere la presente ley, la misma estará supeditada a la emisión del acuerdo del Procurador en donde, acorde al presupuesto y capacidad operativa, se señale la fecha a partir de la cual se observarán de manera plena tales premisas.
