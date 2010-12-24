@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-instituto-estatal-de-la-juventud-35835"
 country: "mx"
 rank: "ley"
 publication_date: "2003-12-24"
-last_updated: "2010-12-03"
+last_updated: "2010-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35835&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DEL INSTITUTO ESTATAL DE LA JUVENTUD
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 24 de diciembre de 2003.
 
@@ -207,9 +207,13 @@ IV. Veintisiete Vocales Consejeros, con voz y voto, que serán los siguientes:
 
 a) El titular de la Dirección General del Sistema para el Desarrollo Integral de la Familia del Estado de Nuevo León;
 
-b) El titular de la Presidencia Ejecutiva del Consejo de Desarrollo Social;
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
-c) El titular de la Presidencia Ejecutiva del Consejo de Relaciones Laborales y Productividad;
+b) El Secretario de Desarrollo Social;
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+c) El Secretario del Trabajo;
 
 d) El titular de la Dirección General del Instituto Estatal de Cultura Física y Deporte;
 
@@ -449,9 +453,11 @@ XXIII. Las demás que establezca esta Ley, otros ordenamientos legales, el Regla
 
 #### Sección Cuarta. Del Comisario
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 22.
 
-A propuesta de la Contraloría Interna, en los términos de la legislación aplicable, el Gobernador del Estado designará y removerá a un Comisario, quien deberá llevar a cabo las funciones de vigilancia y control interno del Instituto, en los términos de la Ley de Administración Financiera para el Estado de Nuevo León.
+A propuesta de la Contraloría y Transparencia Gubernamental, en los términos de la legislación aplicable, el Gobernador del Estado designará y removerá a un Comisario, quien deberá llevar a cabo las funciones de vigilancia y control interno del Instituto, en los términos de la Ley de Administración Financiera para el Estado de Nuevo León.
 
 ###### Artículo 23.
 
@@ -459,9 +465,13 @@ El Comisario tendrá las siguientes facultades:
 
 I. Vigilar que los gastos, cuentas y administración de los recursos del Instituto se encaminen adecuadamente para el cumplimiento de su objeto, ajustándose en todo momento a lo que dispone esta ley, los planes y presupuestos aprobados, así como otras disposiciones aplicables;
 
-II. Solicitar la información y documentación y efectuar los actos que se requieran para el adecuado cumplimiento de sus funciones, sin perjuicio de las tareas que le encomiende la Contraloría Interna de la Administración Pública Estatal;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
-III. Rendir un Informe anual tanto a la Junta de Gobierno como a la Contraloría Interna de la Administración Pública Estatal;
+II. Solicitar la información y documentación y efectuar los actos que se requieran para el adecuado cumplimiento de sus funciones, sin perjuicio de las tareas que le encomiende la Contraloría y Transparencia Gubernamental;
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+III. Rendir un informe anual tanto a la Junta de Gobierno como a la Contraloría y Transparencia Gubernamental;
 
 IV. Recomendar a la Junta de Gobierno y al Director General del Instituto las medidas preventivas y correctivas que sean convenientes para el mejoramiento de la organización y funcionamiento del Instituto;
 
@@ -544,3 +554,7 @@ Artículo Segundo.- La Junta de Gobierno del Instituto Estatal de la Juventud di
 P.O. 3 DE DICIEMBRE DE 2010.
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 24 DE DICIEMBRE DE 2010.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
