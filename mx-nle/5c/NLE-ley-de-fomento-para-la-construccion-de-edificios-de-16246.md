@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-fomento-para-la-construccion-de-edificios-de-16246"
 country: "mx"
 rank: "ley"
 publication_date: "1980-12-31"
-last_updated: "1984-11-02"
+last_updated: "2010-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16246&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE FOMENTO, PARA LA CONSTRUCCION DE EDIFICIOS DE ESTACIONAMIENTO DE VEHICULOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE NOVIEMBRE DE 1984.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 31 de diciembre de 1980.
 
@@ -49,9 +49,9 @@ Se declara de interés social la construcción de edificios de estacionamiento, 
 
 4.- Que tengan capacidad para la guarda de cuando menos veinticinco automóviles.
 
-> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 1984)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
-5.- Que se construyan con la aprobación expresa de la Secretaría de Asentamientos Humanos y Planificación o sus dependencias competentes.
+5.- Que se construyan con la aprobación expresa de la Secretaría de Desarrollo Sustentable o sus dependencias competentes.
 
 ###### ARTICULO 3o.
 
@@ -150,3 +150,13 @@ SEGUNDO:- Las franquicias municipales que se hubieren otorgado conforme a la pre
 P.O. 2 DE NOVIEMBRE DE 1984.
 
 UNICO:- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE DICIEMBRE DE 2010
+
+## TRANSITORIO
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE DICIEMBRE DE 2010.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
