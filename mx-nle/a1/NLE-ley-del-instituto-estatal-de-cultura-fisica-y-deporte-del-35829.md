@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-instituto-estatal-de-cultura-fisica-y-deporte-del-35829
 country: "mx"
 rank: "ley"
 publication_date: "2003-12-24"
-last_updated: "2010-12-03"
+last_updated: "2010-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35829&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DEL INSTITUTO ESTATAL DE CULTURA FISICA Y DEPORTE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 24 de diciembre de 2003.
 
@@ -295,7 +295,9 @@ b) La Secretaría de Educación;
 
 c) La Secretaría de Salud, y
 
-d) La Presidencia Ejecutiva del Consejo de Desarrollo Social.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+d) La Secretaria de Desarrollo social.
 
 Los vocales de la Junta de Gobierno podrán ser representados en sus ausencias por quienes designen para este efecto con el carácter de suplente, mediante documento que se le remita a la misma.
 
@@ -423,6 +425,8 @@ XXI. Las demás que establezca esta Ley, otros ordenamientos legales, el Reglame
 
 #### Sección Cuarta. Del Comisario
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 19.
 
 El Secretario del Consejo de Cultura Física y Deporte y el Secretario de la Junta de Gobierno, tendrán respectivamente las siguientes facultades:
@@ -457,7 +461,7 @@ VIII. Las demás que le sean encomendadas para el debido cumplimiento del objeto
 
 ###### Artículo 20.
 
-A propuesta de la Contraloría Interna, el Gobernador del Estado designará y removerá a un Comisario, quien deberá llevar a cabo las funciones de vigilancia y control interno del Instituto, en los términos de la Ley de Administración Financiera para el Estado de Nuevo León y demás legislación aplicable.
+A propuesta de la Contraloría y Transparencia Gubernamental, el Gobernador del Estado designara y removerá a un Comisario, quien deberá llevar a cabo las funciones de vigilancia y control interno del instituto, en los términos del la Ley de Administración Financiera para el Estado de Nuevo León y demás legislación aplicable.
 
 ###### Artículo 21.
 
@@ -465,9 +469,13 @@ El Comisario tendrá las siguientes facultades:
 
 I. Vigilar que los gastos, cuentas y administración de los recursos del Instituto se encaminen adecuadamente para el cumplimiento de su objeto y atribuciones, ajustándose en todo momento a lo que dispone esta Ley, los planes y presupuestos aprobados, así como otras disposiciones aplicables;
 
-II. Solicitar la información y documentación y efectuar los actos que se requieran para el adecuado cumplimiento de sus funciones, sin perjuicio de las tareas que le encomiende la Contraloría Interna de la Administración Pública Estatal;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
-III. Rendir un informe anual tanto a la Junta de Gobierno como a la Contraloría Interna de la Administración Pública Estatal;
+II. Solicitar la información y documentación y efectuar los actos que se requieran para el adecuado cumplimiento de sus funciones, sin perjuicio de las tareas que le encomiende la Contraloría y Transparencia Gubernamental;
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+III. Rendir un informe anual tanto a la Junta de Gobierno como a la Contraloría y Transparencia Gubernamental;
 
 IV. Recomendar a la Junta de Gobierno y al Director General las medidas preventivas y correctivas que sean convenientes para el mejoramiento de la organización y funcionamiento del Instituto;
 
@@ -550,3 +558,7 @@ Segundo.- Dentro de 30 días naturales contados a partir de la entrada en vigor 
 P.O. 3 DE DICIEMBRE DE 2010.
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 24 DE DICIEMBRE DE 2010.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
