@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-instituto-de-la-vivienda-de-nuevo-leon-35831"
 country: "mx"
 rank: "ley"
 publication_date: "2003-12-24"
-last_updated: "2010-12-03"
+last_updated: "2010-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35831&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NLE"
 ---
 # LEY DEL INSTITUTO DE LA VIVIENDA DE NUEVO LEON
 
-LEY DEL INSTITUTO DE LA VIVIENDA DE NUEVO LEON
+LEY DEL INSTITUTO DE LA VIVIENDA DE NUEVO LEÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE DICIEMBRE DE 2010
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 24 de diciembre de 2003.
 
@@ -129,9 +129,11 @@ III. El Director General, y
 
 IV. El Comisario.
 
+> <small>(REFORMADO. P.O. 24 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 6.
 
-En las situaciones de orden legal no previstas en el presente ordenamiento, se aplicarán de manera supletoria la Ley de Ordenamiento Territorial de los Asentamientos Humanos y de Desarrollo Urbano del Estado de Nuevo León, los ordenamientos estatales y los ordenamientos federales que regulen lo referente a la vivienda.
+En las situaciones de orden legal no previstas en el presente ordenamiento, se aplicarán de manera supletoria la Ley de Desarrollo Urbano del Estado de Nuevo León, los ordenamientos estatales y los ordenamientos federales que regulen lo referente a la vivienda.
 
 #### SECCIÓN SEGUNDA. DEL CONSEJO TÉCNICO CIUDADANO
 
@@ -219,7 +221,9 @@ IV. Vocal: El Secretario de Desarrollo Económico del Estado;
 
 V. Vocal: El Secretario de Obras Públicas del Estado de Nuevo León;
 
-VI. Vocal: El Presidente Ejecutivo de la Agencia para la Planeación del Desarrollo Urbano de Nuevo León, Y
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+VI. Vocal: El Secretario de Desarrollo Sustentable, y
 
 VII. Vocal: El Director General de Servicios de Agua y Drenaje de Monterrey, IPD.
 
@@ -351,9 +355,11 @@ XVI. Las demás que establezca esta Ley, otros ordenamientos legales y el Reglam
 
 #### SECCIÓN QUINTA. DEL COMISARIO
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 18.
 
-Para llevar a cabo las labores de vigilancia de la operación del organismo, habrá un Comisario designado y removido por el Ejecutivo Estatal a propuesta de la Contraloría Interna, en los términos de la Ley de Administración Financiera para el Estado de Nuevo León y demás legislación aplicable.
+Para llevar a cabo las labores de vigilancia de la operación del organismo, habrá un Comisario designado y removido por el Ejecutivo Estatal a propuesta de la Controlaria (sic) y Transparencia Gubernamental, en los temimos (sic) de la Ley de Administración Financiera para el Estado de Nuevo León y demás legislación aplicable.
 
 ###### Artículo 19.
 
@@ -451,8 +457,12 @@ EL C. SECRETARIO DE FINANZAS Y TESORERO GENERAL DEL ESTADO
 
 RUBÉN EDUARDO MARTÍNEZ DONDÉ
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 3 DE DICIEMBRE DE 2010.
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 24 DE DICIEMBRE DE 2010.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
