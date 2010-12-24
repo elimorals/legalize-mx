@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-hacienda-para-los-municipios-del-estado-de-guanajuato-53
 country: "mx"
 rank: "ley"
 publication_date: "1989-12-26"
-last_updated: "2002-12-24"
+last_updated: "2010-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5355&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2010.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el 26 de diciembre de 1989.
 
@@ -1717,11 +1717,19 @@ a).- Cuando el fideicomisario designado ceda sus derechos o dé instrucciones al
 
 b).- Cuando el fideicomitente ceda sus derechos, si entre éstos se incluye el de que los bienes se transmitan a su favor.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 180.
 
-La base de este impuesto será el valor más alto entre el Fiscal registrado, en su caso, el de operación y el pericial realizado por peritos fiscales autorizados por la Tesorería Municipal correspondiente con antigüedad no mayor de seis meses.
+La base de este impuesto será el valor más alto entre el fiscal registrado, en su caso, el de operación y el pericial realizado por peritos fiscales autorizados por la Tesorería Municipal correspondiente o por valuadores y unidades de valuación certificados, con antigüedad no mayor a un año.
 
-Para los efectos de este Impuesto, también podrá presentarse peritaje bancario con antigüedad no mayor de seis meses.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+Para los efectos de este impuesto, también podrá presentarse peritaje bancario con antigüedad no mayor a un año.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+Sin perjuicio de lo señalado en el párrafo primero del presente artículo, para el caso de vivienda de interés social, en los términos de la Ley de Vivienda para el Estado de Guanajuato, adquirida solamente con crédito del Instituto de Fondo Nacional de la Vivienda para los Trabajadores, del Fondo Nacional de la Vivienda para los Trabajadores, del Fondo de la Vivienda del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado o del Instituto de Seguridad Social del Estado de Guanajuato o, en cofinanciamiento con algún intermediario financiero, podrá presentarse el avalúo practicado por la unidad de valuación que haya servido de base paro el otorgamiento del crédito.
 
 > <small>(REFORMADO, P. O. 22 DE DICIEMBRE DE 1998)</small>
 
@@ -1789,7 +1797,9 @@ No se causará este Impuesto:
 
 I.- Cuando los inmuebles sean adquiridos por herencia o legado.
 
-II.- Cuando se trate de división de cosa común que haya permanecido en estado de indivisión durante tres años o más.
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+II.- Cuando la división de cosa común se dé en virtud de una donación entre cónyuges, ascendientes o descendientes en línea recta sin limitación de grado.
 
 III.- Cuando la división de cosa común no tenga como resultado tipificar cualquiera de los supuestos legales sobre lotificación y fraccionamientos.
 
@@ -2510,3 +2520,7 @@ Artículo Segundo.- Se derogan todas las disposiciones que se opongan al present
 P.O. 24 DE DICIEMBRE DE 2002.
 
 Artículo Único.- El presente decreto entrará en vigor el día 1º primero de enero del año 2003.
+
+P.O. 24 DE DICIEMBRE DE 2010.
+
+Artículo Único.- El presente decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
