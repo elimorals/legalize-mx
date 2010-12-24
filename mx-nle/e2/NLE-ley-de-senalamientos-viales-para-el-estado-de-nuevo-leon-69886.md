@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-senalamientos-viales-para-el-estado-de-nuevo-leon-69886"
 country: "mx"
 rank: "ley"
 publication_date: "2009-08-21"
-last_updated: "2009-08-21"
+last_updated: "2010-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69886&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NLE"
 ---
 # LEY DE SEÑALAMIENTOS VIALES PARA EL ESTADO DE NUEVO LEON
 
-LEY DE SEÑALAMIENTOS VIALES PARA EL ESTADO DE NUEVO LEON
+LEY DE SEÑALAMIENTOS VIALES PARA EL ESTADO DE NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 21 de agosto de 2009.
 
@@ -105,9 +105,11 @@ XI. Las demás establecidas en las Normas Técnicas Estatales para el Control de
 
 Para los efectos de esta Ley, se entenderá por Norma Técnica Estatal para el Control del Tránsito, la regulación técnica de observancia general en el Estado, mediante la cual se sistematizarán y definirán los dispositivos para el control del tránsito, y se determinará lo relativo a la planeación de su colocación; los casos y condiciones en que deberán instalarse; utilidad; estudios técnicos que se requieran; forma, diseño, tamaño, características, contenido, mensajes, tipografía y distribución de la información en los tableros; color; ubicación; altura; ángulo de colocación; materiales; soportes; instalación; evaluación de efectividad; mantenimiento; retiro y cualquier otra información técnica que se relacione con dichos dispositivos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 5.
 
-La formulación de las Normas Técnicas Estatales para el Control del Tránsito corresponderá de forma coordinada a la Agencia para la Planeación del Desarrollo Urbano, la Agencia para la Racionalización y Modernización del Sistema de Transporte Público, el Consejo Estatal de Transporte y Vialidad, y el Sistema de Caminos de Nuevo León.
+La formulación de las Normas Técnicas Estatales para el Control del Tránsito corresponderá de forma coordinada a la Secretaría de Desarrollo Sustentable, la Agencia para la Racionalización y Modernización del Sistema de Transporte Público, el Consejo Estatal de Transporte y Vialidad, y el Sistema de Caminos de Nuevo León.
 
 Asimismo, durante el proceso de consulta podrán participar en la formulación de las Normas Técnicas Estatales para el Control del Tránsito las autoridades municipales correspondientes, y las instituciones y personas físicas con experiencia en la materia.
 
@@ -131,9 +133,11 @@ V. La bibliografía que corresponda a la Norma; y
 
 VI. La demás información que se considere necesaria para la debida comprensión y observancia de la Norma.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 8.
 
-Las personas físicas o morales, públicas o privadas, podrán proponer a la Agencia para la Planeación del Desarrollo Urbano la elaboración o modificación de las Normas Técnicas Estatales para el Control del Tránsito.
+Las personas físicas o morales, públicas o privadas, podrán proponer a la Secretaría de Desarrollo Sustentable la elaboración o modificación de las Normas Técnicas Estatales para el Control del Tránsito.
 
 Para tal efecto, el interesado deberá presentar por escrito su propuesta, indicando la información detallada en el artículo anterior.
 
@@ -141,11 +145,15 @@ Para tal efecto, el interesado deberá presentar por escrito su propuesta, indic
 
 La planeación, instalación, evaluación y mantenimiento de los dispositivos de señalización vial deberá realizarse de conformidad con lo previsto por las Normas Técnicas Estatales para el Control del Tránsito, cuya elaboración y modificación se sujetará al siguiente procedimiento:
 
-I. La propuesta ciudadana o el proyecto oficial deberá turnarse a la Agencia para la Planeación del Desarrollo Urbano, quien lo presentará ante las autoridades y el órgano de consulta indicados respectivamente en los artículos 11 fracciones II y III y 12 de esta Ley, para su análisis;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+I. La propuesta ciudadana o el proyecto oficial deberá turnarse a la Secretaría de Desarrollo Sustentable, quien lo presentará ante las autoridades y el órgano de consulta indicados respectivamente en los artículos 11 fracciones II y III y 12 de esta Ley, para su análisis;
 
 II. A partir de la fecha de recepción de la propuesta o proyecto, las autoridades y el órgano de consulta indicados en la fracción I de este artículo contarán con un plazo de dos meses para resolver lo que proceda, elaborando en su caso un proyecto de Norma Técnica Estatal para el Control del Tránsito. Dicho plazo podrá ser prorrogable por dos meses cuando la complejidad del análisis lo requiera;
 
-III. La Agencia para la Planeación del Desarrollo Urbano publicará un aviso en el Periódico Oficial del Estado, en el cual informará del inicio de un proceso de consulta ciudadana con respecto al proyecto de Norma Técnica Estatal para el Control del Tránsito y la pondrá a disposición del público a través de los medios que en dicho aviso se determinen;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+III. La Secretaría de Desarrollo Sustentable publicará un aviso en el Periódico Oficial del Estado, en el cual informará del inicio de un proceso de consulta ciudadana con respecto al proyecto de Norma Técnica Estatal para el Control del Tránsito y la pondrá a disposición del público a través de los medios que en dicho aviso se determinen;
 
 IV. La consulta ciudadana se realizará hasta por un plazo de dos meses, según lo que se especifique en el mencionado aviso;
 
@@ -153,7 +161,9 @@ V. Durante el plazo de la consulta los interesados podrán presentar por escrito
 
 VI. Las autoridades y el órgano de consulta señalados en la fracción I del presente artículo, analizarán las observaciones, comentarios o sugerencias recibidas, y contarán con un plazo de un mes para resolver lo que proceda. Dicho plazo podrá ser prorrogable por un mes cuando la complejidad del análisis lo requiera; y
 
-VII. Elaborado el proyecto final, se suscribirá por la Agencia para la Planeación del Desarrollo Urbano y se publicará en el Periódico Oficial del Estado.
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+VII. Elaborado el proyecto final, se suscribirá por la Secretaría de Desarrollo Sustentable y se publicará en el Periódico Oficial del Estado.
 
 ###### Artículo 10.
 
@@ -167,7 +177,9 @@ Una vez publicadas las Normas Técnicas Estatales para el Control del Tránsito 
 
 Son autoridades para aplicar esta Ley y vigilar su cumplimiento:
 
-I. La Agencia para la Planeación del Desarrollo Urbano, a la que le corresponderá:
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+I. La Secretaría de Desarrollo Sustentable, a la que le corresponderá:
 
 a) Participar en la elaboración de las Normas Técnicas Estatales para el Control del Tránsito;
 
@@ -288,3 +300,9 @@ JOSÉ NATIVIDAD GONZÁLEZ PARÁS
 EL SECRETARIO GENERAL DE GOBIERNO
 
 JORGE CANTÚ VALDERRAMA
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 24 DE DICIEMBRE DE 2010.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
