@@ -4,7 +4,7 @@ identifier: "COA-ley-del-impuesto-sobre-envase-distribucion-venta-y-3967"
 country: "mx"
 rank: "ley"
 publication_date: "1969-02-22"
-last_updated: "1972-08-19"
+last_updated: "2010-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3967&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COA"
 
 LEY DEL IMPUESTO SOBRE ENVASE, DISTRIBUCION, VENTA Y TRANSPORTE DE ALCOHOL Y DE BEBIDAS ALCOHOLICAS EN EL ESTADO DE COAHUILA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE AGOSTO DE 1972.
+> <small>N. DE E. DE CONFORMIDAD CON EL DECRETO NUMERO 358 ARTICULO UNICO POR EL QUE SE ABOGA LA LEY DEL IMPUESTO SOBRE ENVASE, DISTRIBUCION, VENTA Y TRANSPORTE DE ALCOHOL Y BEBIDAS ALCOHOLICAS EN EL ESTADO DE COAHUILA, PUBLICADA EN EL P.O. DE 24 DE DICIEMBRE DE 2010. EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el sábado 22 de febrero de 1969.
 
@@ -536,3 +538,7 @@ P.O. 19 DE AGOSTO DE 1972.
 ###### ARTICULO UNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 24 DE DICIEMBRE DE 2010.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
