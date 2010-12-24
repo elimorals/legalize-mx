@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-del-poder-ejecutivo-para-el-estado-de-18976"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-15"
-last_updated: "2010-06-11"
+last_updated: "2010-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18976&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY ORGANICA DEL PODER EJECUTIVO PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE JUNIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2010.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 15 de diciembre del año 2000.
 
@@ -83,9 +83,9 @@ El Gobernador del Estado podrá suprimir o fusionar las unidades auxiliares a qu
 
 El Gobernador del Estado contará con una Unidad de Planeación e Inversión Estratégica, a la que corresponderá ejercer las atribuciones en materia de planeación y evaluación del desarrollo, así como de inversión estratégica, y generar las políticas de población en el Estado.
 
-> <small>(ADICIONADO, P.O. 21 DE NOVIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
-La representación del Titular del Poder Ejecutivo del Estado en todos los juicios en que éste intervenga con cualquier carácter estará a cargo de quienes integren la Coordinación General Jurídica, la cual será además la encargada de someter a consideración del Gobernador del Estado los diversos instrumentos de carácter jurídico que sean de la competencia del mismo, así como coordinar a las dependencias y entidades del Poder Ejecutivo en materia jurídica.
+La representación del Titular del Poder Ejecutivo del Estado en todos los juicios en que éste intervenga con cualquier carácter estará a cargo de quienes integren la Coordinación General Jurídica, la cual será además la encargada de someter a consideración del Gobernador del Estado los diversos instrumentos de carácter jurídico que sean de la competencia del mismo, así como coordinar a las dependencias y entidades del Poder Ejecutivo en materia jurídica; asimismo, su Titular estará facultado para representar directamente al Gobernador del Estado, conforme a la Ley de Amparo, respecto de los actos que a éste te reclamen.
 
 > <small>(ADICIONADO, P.O. 21 DE NOVIEMBRE DE 2003)</small>
 
@@ -109,9 +109,11 @@ El Gobernador del Estado, atendiendo a la materia del convenio, determinará que
 
 Se publicarán en el Periódico Oficial del Gobierno del Estado, aquellos convenios que puedan tener efectos jurídicos para los particulares, los cuales tendrán vigencia a partir de su publicación.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 9o.
 
-Las leyes que el Poder Ejecutivo promulgue, así como los decretos, reglamentos y demás disposiciones de carácter general que expida, deberán estar firmadas para su validez y cumplimiento por el Gobernador del Estado, por el Secretario de Gobierno y por el Secretario o los Secretarios del ramo al que el asunto corresponda.
+Las leyes que el Poder Ejecutivo promulgue, deberán estar firmadas para su cumplimiento por el Gobernador del Estado, y contar con el refrendo del Secretario de Gobierno o por quien haga sus veces; tratándose de los decretos, reglamentos y demás disposiciones de carácter general que expida deberán contar con el refrendo del Secretario de Gobierno y de los Secretarios del ramo al que el asunto corresponda.
 
 ###### Artículo 10.
 
@@ -189,9 +191,11 @@ Los titulares de las Secretarías, en sus ausencias temporales serán suplidos e
 
 Para el trámite de los asuntos de su competencia, las dependencias del Poder Ejecutivo se auxiliarán de las unidades administrativas que establezca el reglamento interior respectivo y que se requieran para el eficaz desempeño de sus atribuciones. Sólo podrán adicionar, transferir, fusionar o suprimir unidades administrativas que se encuentren referidas en sus reglamentos.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 18.
 
-Corresponde a los titulares de las dependencias del Poder Ejecutivo el trámite y resolución de los asuntos de su competencia. Para la mejor organización del trabajo, podrán delegar en sus colaboradores cualesquiera de las actividades que no estén expresamente señaladas en las leyes o reglamentos como exclusivas de los propios titulares.
+Corresponde a los titulares de las dependencias del Poder Ejecutivo o por quien haga sus veces, el trámite y resolución de los asuntos de su competencia. Para la mejor organización del trabajo, podrán delegar en sus colaboradores cualesquiera de las actividades que no estén expresamente señaladas en las leyes o reglamentos como exclusivas de los propios titulares.
 
 Asimismo, deberán instrumentar las acciones concernientes para que los servicios a su cargo se otorguen con calidad.
 
@@ -289,17 +293,21 @@ k) Participar con las demás dependencias del Poder Ejecutivo competentes en la 
 
 III.- En materia de defensoría pública:
 
-a) Ejercer las atribuciones de la representación gratuita en materia civil;
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
-b) Organizar y supervisar la defensoría de oficio para hacer efectiva la garantía de una adecuada defensa a los inculpados;
+a) Organizar y supervisar la representación gratuita en materia civil;
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+b) Organizar y supervisar la Defensoría Pública para hacer efectiva la garantía de una adecuada defensa a los inculpados, en materia penal;
 
 > <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2006)</small>
 
 c) Organizar y supervisar la Unidad de Defensoría Administrativa del Servidor Público;
 
-> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
-d) Organizar y supervisar la defensoría de oficio especializada para hacer efectiva la garantía de una adecuada defensa legal a los adolescentes que al tener entre doce años cumplidos y menos de dieciocho años de edad, realicen una conducta tipificada como delito en las leyes del Estado;
+d) Organizar y supervisar la Defensoría Pública especializada para hacer efectiva la garantía de una adecuada defensa legal a los adolescentes que al tener entre doce años cumplidos y menos de dieciocho años de edad, realicen una conducta tipificada como delito en las leyes del Estado;
 
 IV.- En materia administrativa:
 
@@ -311,7 +319,9 @@ c) Establecer anualmente el Calendario Oficial que regirá en el Estado y organi
 
 d) Establecer la demarcación y conservar los límites del Estado; así como señalar la demarcación de los municipios, de conformidad con los límites que fije el Congreso;
 
-e) Tramitar lo relacionado con los nombramientos y ratificaciones de los Magistrados del Supremo Tribunal de Justicia en el orden que conforme a la Ley le corresponda al Poder Ejecutivo del Estado; así como los concernientes al Consejero Magistrado del Consejo del Poder Judicial que le corresponda proponer;
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+e) Tramitar lo relacionado con los nombramientos y reelecciones de los Magistrados del Supremo Tribunal de Justicia en el orden que conforme a la Ley le corresponda al Poder Ejecutivo del Estado; así como lo concerniente al Consejero del Poder Judicial que le corresponda proponer;
 
 f) Tramitar los nombramientos, licencias y renuncias de los Magistrados del Tribunal de lo Contencioso Administrativo;
 
@@ -331,7 +341,11 @@ k) Vigilar la prestación del servicio público de transporte;
 
 l) Vigilar y regular el tránsito en las carreteras, caminos y áreas de jurisdicción estatal, así como la seguridad en las mismas y prestar y ordenar el servicio público de transporte de competencia estatal, en los términos de la Ley de la materia;
 
-m) Realizar en coordinación con las Secretarías que señale esta Ley, así como con las dependencias y entidades de la Administración Pública Federal y con los municipios, acciones para la regularización de la tenencia de la tierra; y
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+m) Vigilar el cumplimiento de las disposiciones legales estatales de los medios masivos de comunicación, así como dirigir y supervisar la administración de aquellos pertenecientes al Poder Ejecutivo del Estado;
+
+n) Realizar en coordinación con las Secretarías que señale esta Ley, así como con las dependencias y entidades de la Administración Pública Federal y con los municipios, acciones para la regularización de la tenencia de la tierra; y
 
 V.- Las demás que le señalen las leyes y reglamentos aplicables en la Entidad o que le asigne legalmente el Gobernador del Estado.
 
@@ -623,9 +637,9 @@ La Secretaría de Desarrollo Económico Sustentable es la dependencia encargada 
 
 I.- En materia de desarrollo económico:
 
-> <small>(REFORMADO, P.O. 18 DE MAYO DE 2007)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
-a) Ejecutar y evaluar las políticas y programas relativos al fomento de las actividades industriales, mineras, comerciales, artesanales y de servicios, en materia de empleo y de capacitación, de conformidad con los planes nacional y estatal de desarrollo y las leyes de la materia;
+a) Ejecutar y evaluar las políticas y programas relativos al fomento de las actividades industriales, mineras, comerciales, artesanales y de servicios, en materia de empleo y de capacitación, así como de certificación de competencias y habilidades laborales, de conformidad con los planes Nacional y Estatal de Desarrollo y las leyes de la materia;
 
 > <small>(REFORMADO, P.O. 18 DE MAYO DE 2007)</small>
 
@@ -773,7 +787,9 @@ f) Establecer y operar el Sistema Estatal de Información sobre Seguridad Públi
 
 g) Aplicar las normas, políticas y programas que deriven del Sistema Nacional de Seguridad Pública;
 
-h) (DEROGADO, P.O. 20 DE MAYO DE 2005)
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+h) Informar en forma inmediata al Ministerio Público toda denuncia que reciba y preservar el lugar de los hechos, en los términos de la legislación de la materia; así como auxiliar al Ministerio Público cuando así se le requiera en la investigación y persecución de los delitos por conducto de los cuerpos de policía con conocimientos en funciones de investigación;
 
 i) Controlar en coordinación con la Procuraduría General de Justicia del Estado, la portación de armas para los servidores públicos de la Entidad, de acuerdo a los convenios celebrados con las dependencias federales y de conformidad a la legislación aplicable;
 
@@ -1534,3 +1550,9 @@ P.O. 11 DE JUNIO DE 2010.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el cuarto día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 24 DE DICIEMBRE DE 2010.
+
+Artículo Primero. El presente decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. La adición del artículo 31 fracción I, inciso h), entrará en vigencia de manera sucesiva conforme se implemente el sistema procesal penal acusatorio en el Estado de Guanajuato, de acuerdo a las regiones que establece el artículo primero Transitorio de la" Ley del Proceso Penal para el Estado de Guanajuato.
