@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-proteccion-para-los-no-fumadores-del-estado-de-nuevo-420
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-14"
-last_updated: "2009-09-29"
+last_updated: "2010-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42078&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE PROTECCION PARA LOS NO FUMADORES DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN LA PERIODICO OFICIAL: 29 DE SEPTIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN LA PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el martes 14 de diciembre de 2004.
 
@@ -77,11 +77,11 @@ I. Al Ejecutivo del Estado, por conducto de las dependencias y entidades que sea
 
 II. A los Municipios por conducto de las dependencias y entidades municipales competentes en términos de esta Ley y sus Reglamentos respectivos.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 3.
 
-A falta de disposición expresa y en cuanto no se oponga a lo que describe este ordenamiento, se aplicará supletoriamente, según corresponda, la Ley Estatal de Salud, la Ley de Educación del Estado, la Ley de Transporte para el Estado de Nuevo León y los demás ordenamientos que por su naturaleza y materia deban observarse para el debido cumplimiento de la presente ley.
+A falta de disposición expresa y en cuanto no se oponga a lo que describe este ordenamiento, se aplicará supletoriamente, según corresponda, la Ley Estatal de Salud, la Ley de Educación del Estado, la Ley de Transporte para la Movilidad Sustentable del Estado de Nuevo León y los demás ordenamientos que por su naturaleza y materia deban observarse para el debido cumplimiento de la presente Ley.
 
 ###### Artículo 4.
 
@@ -428,3 +428,7 @@ Tercero.- El presente Decreto entrará en vigor al día siguiente de su publicac
 P.O. 29 DE SEPTIEMBRE DE 2009.
 
 Único.- El presente Decreto entrará en vigor a los 30 días siguientes al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE DICIEMBRE DE 2010.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
