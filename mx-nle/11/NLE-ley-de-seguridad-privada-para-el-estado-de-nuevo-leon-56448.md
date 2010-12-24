@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-seguridad-privada-para-el-estado-de-nuevo-leon-56448"
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-25"
-last_updated: "2007-07-25"
+last_updated: "2010-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56448&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE SEGURIDAD PRIVADA PARA EL ESTADO DE NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 25 de julio de 2007.
 
@@ -113,9 +113,11 @@ VI.-La consolidación de un régimen que privilegie la función preventiva, a fi
 
 VII.-Procurar políticas, lineamientos y acciones, mediante la suscripción de convenios con las autoridades competentes de la Federación, los Estados y Municipios, para la mejor organización, funcionamiento, regulación y control de los servicios de seguridad privada.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 4.
 
-En todo lo no previsto por la presente Ley, será aplicable en forma supletoria, la Ley del Sistema de Seguridad Pública del Estado de Nuevo León.
+En todo lo no previsto por la presente Ley, será aplicable en forma supletoria, la Ley de Seguridad Pública del Estado de Nuevo León.
 
 ###### Artículo 5.
 
@@ -187,9 +189,11 @@ IV.- La verificación del cumplimiento a la normatividad federal y estatal.
 
 La Secretaría, implementará y mantendrá actualizado un Registro Estatal con la información necesaria para la supervisión, control, vigilancia y evaluación de los prestadores de servicios, su personal, armamento y equipo, mismo que constituirá un sistema de consulta y acopio de información integrado por una base de datos suministrado por el prestador de servicios y las autoridades competentes.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 12.
 
-La Secretaría será responsable de la guarda, custodia y reserva de la información inscrita en el Registro Estatal de Empresas, Personal y Equipo de Seguridad Privada, de acuerdo con las normas jurídicas establecidas en la presente Ley. La información contenida en dicho Registro se considerará como confidencial para los fines de la Ley de Acceso a la Información Pública.
+La Secretaria será responsable de la guarda, custodia y reserva de la información inscrita en el Registro Estatal de Empresas, Personal y Equipo de Seguridad Privada, de acuerdo con las normas jurídicas establecidas en la presente Ley. La información contenida en dicho Registro se considerará como confidencial para los fines de la Ley de Transparencia y Acceso a la Información Pública.
 
 ###### Artículo 13.
 
@@ -501,7 +505,9 @@ IV.- Acatar toda solicitud de auxilio, en caso de urgencia, desastre o cuando as
 
 V.- Portar en lugar visible, durante el desempeño de sus funciones, la identificación y demás medios que lo acrediten como personal de seguridad privada;
 
-VI.- Conducirse en todo momento, con profesionalismo, honestidad y respeto hacia los derechos de las personas, evitando abusos, arbitrariedades y violencia, además de regirse por los principios de actuación y deberes previstos para los integrantes de las instituciones de seguridad pública en la Ley del Sistema de Seguridad Pública del Estado de Nuevo León;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+VI.- Conducirse en todo momento, con profesionalismo, honestidad y respeto hacia los derechos de las personas, evitando abusos, arbitrariedades y violencia, además de regirse por los principios de actuación y deberes previstos para los integrantes de las instituciones de seguridad pública en la Ley de Seguridad Pública del Estado de Nuevo León;
 
 VII.- En caso de portar armas, hacer uso responsable de ellas y contar con la licencia o su equivalente que autorice su portación; y
 
@@ -658,3 +664,9 @@ ROGELIO CERDA PÉREZ
 EL C. SECRETARIO DE SEGURIDAD PÚBLICA
 
 ANTONIO GARZA GARCÍA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 24 DE DICIEMBRE DE 2010.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
