@@ -4,7 +4,7 @@ identifier: "NLE-ley-que-crea-la-unidad-de-integracion-educativa-de-nuevo-16168"
 country: "mx"
 rank: "ley"
 publication_date: "1992-06-03"
-last_updated: "1992-06-03"
+last_updated: "2010-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16168&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY QUE CREA LA UNIDAD DE INTEGRACION EDUCATIVA DE NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 3 de junio de 1992.
 
@@ -133,9 +133,11 @@ VI.- Coordinarse con la Secretaría de Desarrollo Social, o en su caso, con el T
 
 VII.- En general, dirigir el servicio educativo administrando adecuadamente los recursos humanos, financieros y materiales correspondientes.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO DECIMO TERCERO
 
-- La Unidad contará con un Órgano de Vigilancia, integrado por un Comisario Propietario y un Suplente, los que serán designados por el Titular de la Secretaría de la Contraloría del Gobierno del Estado y tendrá las atribuciones propias de su cargo.
+- La Unidad contará con un Órgano de Vigilancia, integrado por un Comisario Propietario y un Suplente, los que serán designados por el Contralor General del Estado y tendrá las atribuciones propias de su cargo.
 
 ###### ARTICULO DECIMO CUARTO
 
@@ -174,3 +176,9 @@ LIC. ALEJANDRO LAMBRETON NARRO
 EL SECRETARIO DE DESARROLLO SOCIAL
 
 LIC. JORGE MANJARREZ RIVERA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 24 DE DICIEMBRE DE 2010.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
