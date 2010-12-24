@@ -4,7 +4,7 @@ identifier: "GUA-ley-para-las-personas-con-discapacidad-en-el-estado-de-25456"
 country: "mx"
 rank: "ley"
 publication_date: "2002-07-16"
-last_updated: "2002-07-16"
+last_updated: "2010-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25456&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY PARA LAS PERSONAS CON CAPACIDADES DIFERENTES EN EL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Guanajuato, el 16 de julio de 2002.
 
@@ -35,23 +35,33 @@ DECRETO NUMERO 121.
 
 LA H. QUINCUAGESIMA OCTAVA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, DECRETA:
 
-LEY PARA LAS PERSONAS CON CAPACIDADES DIFERENTES EN EL ESTADO DE GUANAJUATO.
+> <small>(REFORMADA SU DENOMINACION, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+LEY PARA LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE GUANAJUATO.
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 1o.
 
-Las disposiciones contenidas en la presente Ley son de orden público y de interés social y tienen por objeto la equiparación de oportunidades y atención de las personas con capacidades diferentes en el Estado.
+Las disposiciones contenidas en la presente Ley son de orden público y de interés social y tienen por objeto la equiparación de oportunidades y atención de las personas con discapacidad en el Estado.
 
 ###### Artículo 2o.
 
 Para los efectos de esta Ley se entenderá por:
 
-I.- Personas con capacidades diferentes: Aquellas que padecen temporal o permanentemente una disminución en sus facultades físicas, mentales o sensoriales, que les limitan a realizar una actividad considerada como normal;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
-II.- Consejo: Al Consejo Estatal para la Atención de las Personas con Capacidades Diferentes; y
+I.- Personas con discapacidad: Aquéllos que presentan una deficiencia física, mental o sensorial, ya sea de naturaleza permanente o temporal, que limita la capacidad de ejercer una o más actividades esenciales de la vida diaria, que puede ser causada o agravada por el entorno económico y social;
 
-III.- Programa: Al Programa Estatal para la Equiparación de Oportunidades y Atención de las Personas con Capacidades Diferentes.
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+II.- Consejo: Al Consejo Estatal para la Atención de las Personas con Discapacidad; y
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+III.- Programa: Al Programa Estatal para la Equiparación de Oportunidades y Atención de las Personas con Discapacidad.
 
 ### CAPÍTULO SEGUNDO. DE LAS AUTORIDADES Y SUS ATRIBUCIONES
 
@@ -69,11 +79,21 @@ Son atribuciones del Gobernador del Estado:
 
 I.- Aprobar el Programa propuesto por el Consejo;
 
-II.- Establecer políticas e implementar las acciones necesarias para que en el ámbito estatal, se dé cumplimiento a los programas cuyo objetivo sea el desarrollo integral de las personas con capacidades diferentes;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+II.- Establecer políticas e implementar las acciones necesarias paro que en el ámbito estatal, se dé cumplimiento a los programas cuyo objetivo sea el desarrollo integral de las personas con discapacidad;
 
 III.- Celebrar los convenios necesarios para el cumplimiento del objeto de esta Ley; y
 
-IV.- Las demás que le otorgue la presente Ley u otras disposiciones legales aplicables.
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+IV.- Proponer en el Proyecto de Presupuesto General de Egresos del Estado de Guanajuato las partidas correspondientes para la aplicación y ejecución de los programas federales dirigidos a las personas con discapacidad;
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+V.- Promover el otorgamiento de estímulos fiscales o personas físicas o morales que realicen acciones a favor de las personas con discapacidad, de conformidad con lo establecido en el artículo 41 fracción II del Código Fiscal para el Estado de Guanajuato; y
+
+VI.- Las demás que le otorgue la presente Ley u otras disposiciones legales aplicables.
 
 ###### Artículo 5o.
 
@@ -83,15 +103,21 @@ I.- Celebrar convenios y acuerdos para el cumplimiento del objeto de esta Ley;
 
 II.- Emitir y revisar los reglamentos y disposiciones administrativas de observancia general, de conformidad a lo establecido en la presente Ley;
 
-III. Contemplar en sus planes y programas acciones en favor de las personas con capacidades diferentes; y
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+III. Contemplar en sus planes y programas acciones a favor de las personas con discapacidad; y
 
 IV. Las demás que les otorgue la presente Ley u otras disposiciones legales aplicables.
 
-### CAPÍTULO TERCERO. DEL CONSEJO ESTATAL PARA LA ATENCIÓN DE LAS PERSONAS CON CAPACIDADES DIFERENTES
+> <small>(REFORMADA SU DENOMINACION, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+### CAPÍTULO TERCERO. DEL CONSEJO ESTATAL PARA LA ATENCION DE LAS PERSONAS CON DISCAPACIDAD
+
+> <small>(REFORMADO PARRAFO PRIMERO, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 6o.
 
-El Consejo es un organismo consultivo y auxiliar del Ejecutivo en la elaboración de las políticas públicas para el desarrollo integral y la igualdad de derechos de las personas con capacidades diferentes, en los términos de esta Ley.
+El Consejo es un organismo consultivo y auxiliar del Ejecutivo en la elaboración de las políticos públicas pero el desarrollo integral y la igualdad de derechos de las personas con discapacidad, en los términos de esta Ley.
 
 El Consejo se regirá en lo que hace a su organización, estructura y funcionamiento, además de lo dispuesto por esta Ley, por lo que establezca el reglamento que se expida para tal efecto.
 
@@ -111,7 +137,9 @@ V.- El Director General del Sistema Estatal para el Desarrollo Integral de la Fa
 
 VI.- El Procurador de los Derechos Humanos del Estado; y
 
-VII.- Dos representantes de organizaciones sociales de reconocido prestigio y amplia representatividad entre las personas con capacidades diferentes.
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+VII.- Dos representantes de organizaciones sociales de reconocido prestigio y amplia representatividad entre las personas con discapacidad.
 
 Por cada miembro del Consejo habrá un suplente que lo cubrirá en sus ausencias. El Gobernador será suplido por el vocal que para tal efecto designe. Los representantes de las organizaciones sociales serán nombrados por el Gobernador del Estado, a propuesta del Secretario Técnico.
 
@@ -121,9 +149,11 @@ Los cargos de los integrantes del Consejo serán honoríficos, por lo que no rec
 
 Los representantes de las organizaciones sociales durarán en sus funciones dos años, pudiendo ser ratificados para un segundo periodo.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 8o.
 
-El Gobernador del Estado, podrá invitar a participar a las sesiones del Consejo a quienes sean titulares de otras dependencias y entidades del Poder Ejecutivo Estatal, representantes del Poder Legislativo y Judicial, autoridades municipales, representantes de cámaras, organizaciones patronales y organismos del sector productivo y a representantes de organizaciones sociales de personas con capacidades diferentes, atendiendo al tema que se vaya a desarrollar.
+El Gobernador del Estado, podrá invitar a participar a las sesiones del Consejo a quienes sean titulares de otras dependencias y entidades del Poder Ejecutivo Estatal, representantes del Poder legislativo y Judicial, autoridades municipales, representantes de cámaras, organizaciones patronales y organismos del sector productivo y representantes de organizaciones sociales de personas con discapacidad, atendiendo al tema que se vaya o desarrollar.
 
 ###### Artículo 9o.
 
@@ -141,9 +171,13 @@ III.- Dar seguimiento y evaluar el desarrollo del Programa y en su caso, formula
 
 IV.- Proponer al Gobernador del Estado la obtención de recursos provenientes de fuentes alternas de financiamiento, para el cumplimiento del objeto de esta Ley;
 
-V.- Difundir los programas que contribuyan al desarrollo integral de las personas con capacidades diferentes con la finalidad de concientizar e informar a la sociedad respecto de los mismos;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
-VI.- Proponer al Gobernador del Estado, anteproyectos de iniciativas de Ley que contengan las adecuaciones al marco jurídico estatal para la protección de los derechos de las personas con capacidades diferentes;
+V.- Difundir los programas que contribuyan al desarrollo integral de las personas con discapacidad con la finalidad de concientizar e informar a la sociedad respecto de los mismos;
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+VI.- Proponer al Gobernador del Estado, anteproyectos de iniciativas de Ley que contengan las adecuaciones al marco jurídico estatal para la protección de los derechos de las personas con discapacidad;
 
 VII.- Promover la colaboración e intercambio de información entre las dependencias, entidades, instituciones, organizaciones, agrupaciones docentes, de investigación o asistencia que se relacionen con el objeto de esta Ley;
 
@@ -167,19 +201,27 @@ V.- Ejecutar los acuerdos y decisiones del Consejo;
 
 VI.- Coordinar los trabajos técnicos que apoyen la realización, seguimiento y evaluación del Programa;
 
-VII.- Establecer un Sistema Estatal de Información que permita la identificación, el registro, la atención y el seguimiento de la población con capacidades diferentes en el Estado; y
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+VII.- Establecer un Sistema Estatal de Información que permita la identificación, el registro, la atención y el seguimiento de la población con discapacidad en el Estado; y
 
 VIII.- Las demás que le encomiende el Consejo.
 
-### CAPÍTULO CUARTO. DEL PROGRAMA ESTATAL PARA LA EQUIPARACIÓN DE OPORTUNIDADES Y ATENCIÓN DE LAS PERSONAS CON CAPACIDADES DIFERENTES
+> <small>(REFORMADA SU DENOMINACION, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+### CAPÍTULO CUARTO. DEL PROGRAMA ESTATAL PARA LA EQUIPARACION DE OPORTUNIDADES Y ATENCION DE LAS PERSONAS CON DISCAPACIDAD
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 12.
 
-En los términos de esta Ley, son prioridades de las administraciones públicas estatal y municipales el desarrollo integral y la inclusión social de las personas con capacidades diferentes, a través de políticas públicas tendientes a la equiparación de oportunidades en el Estado.
+En los términos de esta Ley, son prioridades de las administraciones públicas estatal y municipales el desarrollo integral y la inclusión social de los personas con discapacidad, a través de políticas públicas tendientes a la equiparación de oportunidades en el Estado.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 13.
 
-El Gobernador del Estado y los ayuntamientos en el ámbito de sus respectivas competencias, determinarán las políticas públicas, las estrategias, las acciones y los objetivos a que deberán sujetarse las dependencias y entidades de la administración pública estatal o municipal, con la participación que corresponda a los sectores privado y social, para equiparar oportunidades, generar condiciones de accesibilidad y propiciar el desarrollo integral y la inclusión social de todas las personas con capacidades diferentes en el Estado.
+El Gobernador del Estado y los ayuntamientos en el ámbito de sus respectivas competencias, determinarán las políticas públicas, las estrategias, las acciones y los objetivos a que deberán sujetarse las dependencias y entidades de la administración pública estatal o municipal, con la participación que corresponda a los sectores privado y social, para equiparar oportunidades, generar condiciones de accesibilidad y propiciar el desarrollo integral y la inclusión social de todas las personas con discapacidad en el Estado.
 
 Las políticas públicas, las estrategias, las acciones y los objetivos que aprueben los ayuntamientos deberán estar en concordancia con el Programa, el cual en términos de la Ley de Planeación para el Estado de Guanajuato, tiene la naturaleza de un Programa Especial.
 
@@ -199,13 +241,21 @@ El Gobernador del Estado y los ayuntamientos podrán convenir entre ellos, así 
 
 Las políticas y acciones en materia de educación deberán:
 
-I.- Desarrollar las habilidades, aptitudes y capacidad de aprendizaje necesarias que permitan a las personas con capacidades diferentes, la mayor autonomía posible y su incorporación a la vida social y productiva;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
-II.- Promover la integración de las personas con capacidades diferentes al sistema escolar convencional;
+I.- Desarrollar las habilidades, aptitudes y capacidad de aprendizaje necesarias que permitan a los personas con discapacidad, la mayor autonomía posible y su incorporación a la vida social y productiva;
 
-III.- Incorporar como criterios básicos para los servicios de educación especial, la identificación de las necesidades reales de los educandos; la accesibilidad y ubicación próxima al domicilio de las personas con capacidades diferentes; y la universalidad, de manera que ningún educando quede fuera de la educación por su edad o tipo de discapacidad;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
-IV.- Incorporar contenidos formativos en los planes oficiales de estudio, dirigidos a propiciar la atención y respeto a las personas con capacidades diferentes;
+II.- Promover la integración de las personas con discapacidad al sistema escolar convencional;
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+III.- Incorporar como criterios básicos para los servicios de educación especial, la identificación de las necesidades reales de los educandos; la accesibilidad y ubicación próxima al domicilio de las personas con discapacidad; y la universalidad, de manera que ningún educando quede fuera de la educación por su edad o tipo de discapacidad;
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+IV.- Incorporar contenidos formativos en los planes oficiales de estudio, dirigidos a propiciar la atención y respeto a las personas con discapacidad;
 
 V.- Promover en las instituciones formadoras de docentes que en los cursos de actualización, capacitación y formación se consideren las necesidades educativas especiales en los diferentes niveles y tipos de educación;
 
@@ -213,7 +263,9 @@ VI.- Estar encaminadas a la atención de las personas adultas que no hayan cursa
 
 VII.- Propiciar la dotación oportuna y suficiente de libros de texto y material didáctico, para garantizar el acceso a la educación básica de los menores con necesidades educativas especiales;
 
-VIII.- Promover la asignación de becas a las personas con capacidades diferentes en instituciones públicas y privadas incorporadas, en todos sus niveles; y
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+VIII.- Promover la asignación de becas a las personas con discapacidad en instituciones públicas y privadas incorporadas, en todos sus niveles; y
 
 IX.- Implementar sistemas de aprendizaje para las personas con discapacidades visuales o auditivas.
 
@@ -225,13 +277,21 @@ I.- Promover la prevención de las discapacidades, contemplando aspectos fundame
 
 II.- Incluir mecanismos para la prevención, detección temprana, evaluación, atención oportuna y rehabilitación integral de las diferentes discapacidades, incluyendo la asesoría y orientación física y psicológica a quienes presenten una discapacidad, así como a sus familiares;
 
-III.- Orientarse a la realización de estudios e investigaciones y emprender campañas permanentes para la detección de personas con capacidades diferentes;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
-IV.- Dictar los lineamientos para presupuestar y gestionar los recursos necesarios para impulsar los programas de adquisición y obtención de órtesis, prótesis y ayudas funcionales para la rehabilitación de las personas con capacidades diferentes;
+III.- Orientarse a la realización de estudios e investigaciones y emprender campañas permanentes para lo detección de personas con discapacidad;
 
-V.- Considerar programas de orientación sexual, que permitan a las personas con capacidades diferentes disfrutar de su vida sexual plena y la orientación sexual para padres de familia con hijos con capacidades diferentes;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
-VI.- Promover ante las instituciones de salud del Estado, la creación de comités internos encargados del desarrollo, aplicación, seguimiento y evaluación de los programas y acciones de prevención, detección temprana, atención adecuada y rehabilitación de personas con capacidades diferentes; y
+IV.- Dictar los lineamientos para presupuestar y gestionar los recursos necesarios para impulsar los programas de adquisición y obtención de órtesis, prótesis y ayudas funcionales para la rehabilitación de las personas con discapacidad;
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+V.- Considerar programas de orientación sexual, que permitan a las personas con discapacidad disfrutar de su vida sexual plena y lo orientación sexual para padres de familia con hijos con discapacidad;
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+VI.- Promover ante las instituciones de salud del Estado, la creación de comités internos encargados del desarrollo, aplicación, seguimiento y evaluación de los programas y acciones de prevención, detección temprana, atención adecuada y rehabilitación de personas con discapacidad; y
 
 VII.- Promover la capacitación de los profesionales, técnicos y auxiliares de la salud, así como de los maestros, funcionarios públicos, empresarios, asociaciones, clubes de servicio y miembros de la comunidad que realicen actividades de apoyo a la salud.
 
@@ -239,39 +299,61 @@ VII.- Promover la capacitación de los profesionales, técnicos y auxiliares de 
 
 Las políticas y acciones en materia de capacitación y empleo deberán:
 
-I.- Promover la integración de las personas con capacidades diferentes en el sistema ordinario de trabajo o, en su caso, en un sistema de trabajo protegido de acuerdo a sus características individuales, en condiciones dignas y adecuadas y de mínimo riesgo de accidentes, vigilando que las condiciones en que desempeñen su trabajo no sean discriminatorias;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+I.- Promover la integración de los personas con discapacidad en el sistema ordinario de trabajo o, en su caso, en un sistema de trabajo protegido de acuerdo a sus características individuales, en condiciones dignas y adecuadas y de mínimo riesgo de accidentes, vigilando que las condiciones en que desempeñen su trabajo no sean discriminatorias;
 
 II.- Impulsar entre los sectores público, social y privado la creación y desarrollo de bolsas de trabajo, de programas de capacitación y de becas de empleo;
 
-III.- Promover el otorgamiento de estímulos para aquellas personas físicas o morales que contraten personas con capacidades diferentes, así como beneficios adicionales para quienes en virtud de tales contrataciones realicen adaptaciones, eliminen barreras físicas o rediseñen sus áreas de trabajo;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
-IV.- Implementar un sistema de evaluación y acreditación de las destrezas y habilidades para el trabajo de las personas con capacidades diferentes;
+III.- Promover el otorgamiento de estímulos para aquellas personas físicas o morales que contraten personas con discapacidad, así como beneficios adicionales para quienes en virtud de tales contrataciones realicen adaptaciones, eliminen barreras físicas o rediseñen sus áreas de trabajo;
 
-V.- Incorporar en los programas de capacitación y adiestramiento laboral, cursos especiales auxiliados con intérpretes y material didáctico especial para las personas con capacidades diferentes;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
-VI.- Desarrollar programas de autoempleo, de microempresas y empresas familiares para las personas con capacidades diferentes; y
+IV.- Implementar un sistema de evaluación y acreditación de las destrezas y habilidades para el trabajo de las personas con discapacidad;
 
-VII.- Impulsar en coordinación con las autoridades educativas estatales, el establecimiento de carreras técnicas adaptadas a las personas con capacidades diferentes.
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+V.- Incorporar en los programas de capacitación y adiestramiento laboral, cursos especiales auxiliados con intérpretes y material didáctico especial para las personas con discapacidad;
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+VI.- Desarrollar programas de autoempleo de microempresas y empresas familiares para las personas con discapacidad; y
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+VII.- Impulsar en coordinación con las autoridades educativas estatales, el establecimiento de carreras técnicas adoptadas a las personas con discapacidad.
 
 ###### Artículo 20.
 
 Las políticas y acciones en materia de condiciones urbanísticas de accesibilidad y vivienda deberán:
 
-I.- Estar encaminadas a garantizar que la construcción de la infraestructura urbana de carácter público facilite el tránsito, desplazamiento y uso de los espacios y se respeten los reservados a las personas con capacidades diferentes, para que puedan disfrutar de los servicios públicos en equidad de circunstancias que cualquier otro habitante; y
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
-II.- Contener los lineamientos para la ejecución de programas de construcción o adaptación de viviendas para personas con capacidades diferentes. Este tipo de viviendas deberá cumplir con las normas y especificaciones técnicas y de construcción que determinen las autoridades estatales y municipales responsables de los programas de vivienda.
+I.-Estar encaminadas o garantizar que la construcción de la infraestructura urbana de carácter público facilite el tránsito, desplazamiento y uso de los espacios y se respeten los reservados a las personas con discapacidad, para que puedan disfrutar de los servicios públicos en equidad de circunstancias que cualquier otro habitante; y
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+II.- Contener los lineamientos para lo ejecución de programas de construcción o adaptación de viviendas para personas con discapacidad. Este tipo de viviendas deberá cumplir con las normas y especificaciones técnicas y de construcción que determinen las autoridades estatales y municipales responsables de los programas de vivienda.
 
 ###### Artículo 21.
 
 En materia de comunicaciones y transportes, el Programa determinará las acciones a seguir por las autoridades estatales y municipales para:
 
-I.- Dictar, de conformidad con la legislación aplicable, las especificaciones técnicas y especiales que permitan el acceso, el uso y el libre desplazamiento de las personas con capacidades diferentes a los servicios de transporte público, en las que se incluyan las medidas de adecuación a los vehículos destinados a la prestación de este servicio público;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
-II.- Asegurar que en las unidades destinadas a la prestación del servicio público de transporte, se reserven asientos y espacios preferenciales para personas con capacidades diferentes;
+I.- Dictar, de conformidad con la legislación aplicable, las especificaciones técnicas y especiales que permitan el acceso, el uso y el libre desplazamiento de las personas con discapacidad o los servicios de transporte público, en las que se incluyan las medidas de adecuación o los vehículos destinados a lo prestación de este servicio público;
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+II.- Asegurar que en las unidades destinadas a lo prestación del servicio público de transporte, se reserven asientos y espacios preferenciales para personas con discapacidad;
 
 III.- Incorporar las disposiciones contenidas en las fracciones anteriores, como obligaciones a cargo de los concesionarios dentro de los Títulos - Concesión que se otorguen para la prestación del servicio público de transporte;
 
-IV.- Realizar programas y campañas de educación vial y cortesía urbana, encaminados a generar hábitos de respeto hacia las personas con capacidades diferentes en su tránsito por la vía pública y en lugares de acceso al público; y
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+IV.- Realizar programas y campañas de educación vial y cortesía urbana, encaminados a generar hábitos de respeto hacia las personas con discapacidad en su tránsito por la vía pública y en lugares de acceso al público; y
 
 V.- Convenir con las empresas de telefonía pública para que realicen las adecuaciones necesarias a sus aparatos en la vía pública, a efecto de colocarlos a una altura que sea de fácil acceso para las personas que se desplacen en sillas con ruedas.
 
@@ -279,23 +361,31 @@ V.- Convenir con las empresas de telefonía pública para que realicen las adecu
 
 Las políticas y acciones en materia de deporte, recreación y cultura deberán:
 
-I.- Considerar el otorgamiento de becas para la participación de las personas con capacidades diferentes en las competencias deportivas estatales, nacionales e internacionales, y de premios e incentivos a los deportistas que destaquen en las diversas disciplinas deportivas;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
-II.- Establecer medidas tendientes al desarrollo de las capacidades creadoras, artísticas e intelectuales de las personas con capacidades diferentes, así como fomentar su participación en actividades culturales y artísticas; y
+I.- Considerar el otorgamiento de becas para la participación de las personas con discapacidad en las competencias deportivas estatales, nacionales e internacionales, y de premios e incentivos a los deportistas que destaquen en las diversas disciplinas deportivas;
 
-III.- Destinar, en las bibliotecas públicas, áreas y equipamiento apropiados para personas con capacidades diferentes.
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+II.- Establecer medidas tendientes al desarrollo de las capacidades creadoras, artísticas e intelectuales de las personas con discapacidad, así como fomentar su participación en actividades culturales y artísticas; y
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+III.- Destinar, en las bibliotecas públicas, áreas y equipamiento apropiados para personas con discapacidad.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 23.
 
-Las políticas y acciones en materia de protección de los derechos de las personas con capacidades diferentes, deberán:
+Las políticas y acciones en materia de protección de los derechos de las personas con discapacidad, deberán:
 
-I.- Impulsar el estudio, la promoción, la divulgación y la defensa de los derechos de las personas con capacidades diferentes;
+I.- Impulsar el estudio, la promoción, la divulgación y la defensa de los derechos de las personas con discapacidad;
 
-II.- Promover campañas permanentes para la sensibilización de la sociedad respecto a los derechos de las personas con capacidades diferentes que contribuyan a crear una cultura de respeto a su dignidad;
+II.- Promover campañas permanentes para la sensibilización de la sociedad respecto a los derechos de los personas con discapacidad que contribuyan a crear una cultura de respeto a su dignidad;
 
-III.- Establecer programas de capacitación a los servidores públicos del Estado para brindar a las personas con capacidades diferentes un trato digno, equitativo y preferente y garantizar el respeto a sus derechos humanos; y
+III. Establecer programas de capacitación a los servidores públicos del Estado para brindar a las personas con discapacidad un trato digno, equitativo y preferente y garantizar el respeto o sus derechos humanos; y
 
-IV.- Garantizar la asistencia de intérpretes para las personas con capacidades diferentes cuando deban de comparecer ante las autoridades judiciales o de procuración de justicia del Estado.
+IV.- Garantizar la asistencia de intérpretes para las personas con discapacidad cuando deban de comparecer ante las autoridades judiciales o de procuración de justicia del Estado.
 
 ## TRANSITORIOS
 
@@ -320,3 +410,11 @@ JUAN CARLOS ROMERO HICKS.
 EL SECRETARIO DE GOBIERNO
 
 JUAN MANUEL OLIVA RAMÍREZ.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 24 DE DICIEMBRE DE 2010.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
