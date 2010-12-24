@@ -4,7 +4,7 @@ identifier: "NLE-ley-que-crea-el-colegio-de-educacion-profesional-tecnica-13157"
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-30"
-last_updated: "1998-12-30"
+last_updated: "2010-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13157&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY QUE CREA EL COLEGIO DE EDUCACION PROFESIONAL TECNICA DEL ESTADO DE NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 30 de diciembre de 1998.
 
@@ -165,7 +165,9 @@ II. Tres representantes del sector productivo, miembros del Comité de Vinculaci
 
 III. Dos representantes del Gobierno Federal, designados, uno por la Secretaría de Educación Pública, y el otro por el CONALEP.
 
-La Secretaría de la Contraloría General del Estado tendrá un representante en la Junta de Gobierno, quien asistirá a las sesiones de la misma, con voz pero sin voto. Los cargos de la Junta Directiva serán honoríficos y exoficio. En ningún caso la Junta Directiva podrá tener más de nueve miembros titulares.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+La Contraloría y Transparencia Gubernamental tendrá un representante en la Junta de Gobierno, quien asistirá a las sesiones de la misma, con voz pero sin voto. Los cargos de la Junta Directiva serán honoríficos y exoficio. En ningún caso la Junta Directiva podrá tener más de nueve miembros titulares.
 
 ###### Artículo 10.
 
@@ -239,9 +241,11 @@ En el CONALEPNL funcionará un Comité de Vinculación Estatal, integrado por re
 
 En cada plantel se constituirá un Comité de Vinculación, acreditado por la Junta Directiva, que funcionará como mecanismo propositivo, que permita la participación de la comunidad y de los sectores productivos, público, social y privado en sus actividades.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 15.
 
-Con la participación de la Secretaría de la Contraloría General del Estado, el CONALEPNL contará con las instancias y mecanismos de vigilancia, fiscalización y control previstos en la legislación estatal.
+Con la participación de la Contraloría y Transparencia Gubernamental, el CONALEPNL contará con las instancias y mecanismos de vigilancia, fiscalización y control previstos en la legislación estatal.
 
 ### CAPÍTULO IV. DE LOS PLANTELES Y DE LAS UNIDADES DESCONCENTRADAS
 
@@ -342,3 +346,9 @@ LIC.FERNANDO ELIZONDO BARRAGAN
 EL C. SECRETARIO DE EDUCACION
 
 LIC.JOSE MARTINEZ GONZALEZ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 24 DE DICIEMBRE DE 2010.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
