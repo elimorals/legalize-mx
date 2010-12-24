@@ -4,7 +4,7 @@ identifier: "NLE-ley-sobre-el-sistema-estatal-de-asistencia-social-del-7443"
 country: "mx"
 rank: "ley"
 publication_date: "1988-12-12"
-last_updated: "2010-05-26"
+last_updated: "2010-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7443&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE MAYO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 12 de diciembre de 1988.
 
@@ -291,9 +291,11 @@ VI.- Las demás necesarias para el ejercicio de las anteriores.
 
 El Patronato celebrará dos sesiones ordinarias al año y las extraordinarias que se requieran de conformidad con el reglamento respectivo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 19o.
 
-La Junta de Gobierno estará integrada por el Gobernador del Estado quien la presidirá, así como por los titulares de la Secretaría Estatal de Salud, Secretaría General de Gobierno, Secretaría de Finanzas y Tesorería General del Estado, Secretaría de Educación y Cultura, Secretaría de Servicios para los Trabajadores y Productividad, Procuraduría General de Justicia, así como el Delegado de la CONASUPO, Delegado del IMSS y Delegado del ISSSTE. Los miembros de la Junta podrán ser suplidos por los representantes que al efecto ellos mismos designen y que sean aprobados por quien preside la Junta.
+La Junta de Gobierno estará integrada por el Gobernador del Estado quien la presidirá, así como por los titulares de la Secretaría Estatal de Salud, Secretaría General de Gobierno, Secretaría de Finanzas y Tesorería General del Estado, Secretaría de Educación, Secretaría del Trabajo, Procuraduría General de Justicia, así como el Delegado de la CONASUPO, Delegado del IMSS y Delegado del ISSSTE. Los miembros de la Junta podrán ser suplidos por los representantes que al efecto ellos mismos designen y que sean aprobados por quien preside la Junta.
 
 La Junta de Gobierno contará con su Secretario Técnico designado por la misma a propuesta del Director General del Organismo.
 
@@ -377,9 +379,11 @@ IV.- Asistir a las sesiones del patronato y de la junta de gobierno, y
 
 V.- Las demás necesarias para el ejercicio de las anteriores.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 27o.
 
-Las facultades del comisario se señalan sin perjuicio de aquellas que por ley le corresponde a la Contraloría General del Estado.
+Las facultades del comisario se señalan sin perjuicio de aquellas que por ley le corresponde a la Contraloría y Transparencia Gubernamental del Estado.
 
 ###### ARTICULO 28o.
 
@@ -526,3 +530,7 @@ P.O. 3 DE ENERO DE 2000.
 P.O. 26 DE MAYO DE 2010.
 
 Único.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE DICIEMBRE DE 2010.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
