@@ -4,7 +4,7 @@ identifier: "NLE-ley-estatal-de-planeacion-40287"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-28"
-last_updated: "2009-02-20"
+last_updated: "2010-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40287&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ESTATAL DE PLANEACION
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE FEBRERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 28 de julio de 2004.
 
@@ -187,7 +187,9 @@ II. El Jefe de la Oficina Ejecutiva de la Gubernatura;
 
 III. El Oficial Mayor de Gobierno;
 
-IV. El Titular de la Contraloría Interna;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+IV. El Titular de la Contraloría y Transparencia Gubernamental;
 
 > <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2006)</small>
 
@@ -626,3 +628,7 @@ Segundo. El Consejo de Planeación y Evaluación del Estado de Nuevo León, debe
 Tercero. El Reglamento de la presente Ley, deberá presentarse dentro de los 90 días siguientes a la aprobación de este Decreto.
 
 Cuarto. El Reglamento del Consejo deberá aprobarse a más tardar 30 días hábiles después de instalado el mismo.
+
+P.O. 24 DE DICIEMBRE DE 2010.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
