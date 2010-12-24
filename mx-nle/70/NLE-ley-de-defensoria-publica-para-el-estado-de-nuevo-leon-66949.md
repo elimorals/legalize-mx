@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-defensoria-publica-para-el-estado-de-nuevo-leon-66949"
 country: "mx"
 rank: "ley"
 publication_date: "2009-02-06"
-last_updated: "2009-07-17"
+last_updated: "2010-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE DEFENSORIA PUBLICA PARA EL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JULIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2010.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Nuevo León, el viernes 6 de febrero de 2009.
 
@@ -235,7 +235,9 @@ El Consejo Consultivo se integrará con un Presidente, un Secretario de Actas co
 
 I. Un representante del Ejecutivo del Estado;
 
-II. El Titular del Consejo de Desarrollo Social;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+II. El Secretario de Desarrollo Social;
 
 III. El Diputado Presidente de la Comisión de Desarrollo Social y Derechos Humanos del H. Congreso del Estado;
 
@@ -610,5 +612,9 @@ ALFREDO GERARDO GARZA DE LA GARZA
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 17 DE JULIO DE 2009.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE DICIEMBRE DE 2010.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
