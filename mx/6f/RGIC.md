@@ -4,7 +4,7 @@ identifier: "RGIC"
 country: "mx"
 rank: "reglamento"
 publication_date: "1934-03-20"
-last_updated: "2010-06-04"
+last_updated: "2010-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=586&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,9 @@ REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO GENERAL DE LOS ESTADOS UNIDOS 
 
 > <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL REGLAMENTO DEL SENADO DE LA REPUBLICA, PUBLICADO EN EL D.O.F. DE 4 DE JUNIO DE 2010, DEJAN DE SER APLICABLES EN CUANTO SE REFIERE AL SENADO DE LA REPUBLICA LAS DISPOSICIONES RELATIVAS DEL PRESENTE ORDENAMIENTO A PARTIR DEL PRIMERO DE SEPTIEMBRE DE 2010.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE JUNIO DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO DE LA CAMARA DE DIPUTADOS, PUBLICADO EN EL D.O.F. DE 24 DE DICIEMBRE DE 2010, DEJAN DE SER APLICABLES EN CUANTO SE REFIERE A LA CAMARA DE DIPUTADOS LAS DISPOSICIONES RELATIVAS DEL PRESENTE ORDENAMIENTO A PARTIR DEL PRIMERO DE ENERO DE 2011.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE DICIEMBRE DE 2010.
 
 Reglamento publicado en el Diario Oficial de la Federación el martes 20 de marzo de 1934.
 
@@ -1267,3 +1269,49 @@ SEGUNDO. La Mesa Directiva y los grupos parlamentarios realizarán programas y a
 TERCERO. Dentro de un año contado a partir de la publicación del Reglamento del Senado, la Mesa someterá a la consideración del Pleno, el proyecto de Estatuto para los Servicios Parlamentarios, Administrativos y Técnicos. Dicho proyecto será coordinado por la Mesa Directiva, con la colaboración de las comisiones de Reglamentos y Prácticas Parlamentarias y de Administración.
 
 CUARTO. Se derogan las Reglas Provisionales y disposiciones económicas del Senado emitidas hasta antes de la entrada en vigor de este Reglamento.
+
+D.O.F. 24 DE DICIEMBRE DE 2010.
+
+REGLAMENTO DE LA CAMARA DE DIPUTADOS
+
+Primero. El presente Reglamento entrará en vigor a partir del primero de enero de 2011.
+
+Segundo. Se abrogan los acuerdos siguientes:
+
+a) El Acuerdo de la Mesa Directiva de la Cámara de Diputados por el que se norman los trámites del cambio o ampliación de turnos de iniciativas o proposiciones con punto de acuerdo presentadas en las sesiones plenarias publicado en la Gaceta Parlamentaria número 1781, del miércoles 22 de junio de 2005;
+
+b) El Acuerdo de la Conferencia para la dirección y programación de los trabajos legislativos, relativo al Orden del día de las sesiones, las discusiones de los Dictámenes y la operación del Sistema Electrónico de votación publicado en la Gaceta Parlamentaria número 2100 del miércoles 27 de septiembre de 2006;
+
+c) El Acuerdo de la Conferencia para la dirección y programación de los trabajos legislativos, que establece los lineamientos para acreditar las asistencias de las diputadas y los diputados a las sesiones plenarias, así como para la justificación de las inasistencias, publicado en la Gaceta Parlamentaria número 2100, del 27 de septiembre de 2006;
+
+d) El Acuerdo de la Mesa Directiva mediante el cual se especifican los criterios para las justificaciones de inasistencias y los permisos del propio órgano de gobierno en términos del artículo 20, numeral 1, inciso B) de la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos, publicado en la Gaceta Parlamentaria el 12 de octubre de 2006;
+
+e) El Acuerdo de la Mesa Directiva, mediante el cual se define la fecha en que habrá de aplicarse el acuerdo que establece los lineamientos para acreditar las asistencias de las diputadas y los diputados a las Sesiones Plenarias, así como la justificación de las inasistencias, en términos del artículo 20, numeral 1, inciso b), de la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos, publicado en la Gaceta Parlamentaria el 28 de octubre de 2006;
+
+f) El Acuerdo de la Mesa Directiva por el que se determina continuar observando y aplicando los acuerdos relacionados con la conducción y el funcionamiento de los trabajos del Pleno formulados por la Conferencia, en tanto se realizan las modificaciones pertinentes o en su caso, se expiden los que correspondan para la LXI Legislatura, publicado en la Gaceta Parlamentaria, año XII, número 2848, el viernes 18 de septiembre de 2009, el 18 de septiembre de 2009 (sic);
+
+g) El Acuerdo de la Conferencia para la dirección y programación de los trabajos legislativos, mediante el que se determina que las directivas de las comisiones deberán informar a ese órgano parlamentario sobre la asistencia de servidores públicos federales, aprobado el 28 de febrero de 2007, y
+
+h) El Acuerdo de la Conferencia para la dirección y programación de los trabajos legislativos por el que se establecen las Normas relativas al funcionamiento de las comisiones y comités de la Cámara de Diputados, publicado en la Gaceta Parlamentaria número 2907-IV, del martes 8 de diciembre de 2009.
+
+Tercero. Quedan sin efecto para la Cámara de Diputados, las disposiciones contenidas en el Reglamento para el Gobierno Interior del Congreso General de los Estados Unidos Mexicanos publicado en el Diario Oficial de la Federación el 20 de marzo de 1934 y sus reformas.
+
+Cuarto. La Mesa Directiva y la Junta, tendrán a su cargo los procedimientos de divulgación y capacitación de los contenidos del presente Reglamento tanto entre los diputados y las diputadas, como entre el personal de la Cámara, para lo que podrán contar con la participación de la Comisión de Régimen, Reglamentos y Prácticas Parlamentarias.
+
+Quinto. La Mesa Directiva se encargará de establecer un programa de instrumentación del Servicio de Carrera de la Cámara, dentro de los seis meses posteriores a la entrada en vigor del presente Reglamento, dejando a salvo los derechos adquiridos del personal hasta ahora considerado como Aspirante al Servicio Parlamentario de Carrera.
+
+Sexto. Los autores de las iniciativas presentadas del 1 de septiembre de 2009 hasta la entrada en vigor del presente reglamento, que no hayan sido dictaminadas, podrán solicitar a la Mesa Directiva que sus propuestas sean procesadas bajo las nuevas reglas que señala este ordenamiento mediante escrito libre. La Mesa Directiva deberá acordar lo conducente y turnar el asunto nuevamente a Comisión para que le corra término a partir de que la reciba oficialmente.
+
+Séptimo. Las Mesas Directivas de la Cámara de Diputados y de la Cámara de Senadores, acordarán los procedimientos a los que se sujetarán las Minutas pendientes de dictamen en la Cámara de Diputados, presentadas desde el 1 de septiembre de 2009, hasta la fecha de entrada en vigor del presente Reglamento.
+
+Octavo. La Conferencia resolverá respecto de todas las iniciativas, minutas y proposiciones con punto de acuerdo, presentadas antes del 1 de septiembre de 2009, que se encuentran pendientes de dictamen.
+
+Noveno. Todas aquellas disposiciones del Reglamento para el Gobierno Interior del Congreso General de los Estados Unidos Mexicanos que sean materia de Congreso General, así como de la Comisión Permanente, seguirán vigentes en tanto no se expida el ordenamiento específico.
+
+Décimo. La Comisión de Régimen, Reglamentos y Prácticas Parlamentarias tendrá seis meses a partir de la entrada en vigor del presente reglamento, para establecer los Criterios para Inscripciones de Honor en el Recinto de la Cámara de Diputados, a que se refiere el artículo 262 de este Reglamento.
+
+Décimo Primero. El término para dictaminar las iniciativas en materia de Inscripciones de Honor que la Comisión de Régimen, Reglamentos y Prácticas Parlamentarias haya recibido a partir del 1 de septiembre de 2009, no correrá sino hasta que entren en vigor los Criterios para Inscripciones de Honor en la Cámara de Diputados.
+
+Décimo Segundo. Para atender las reservas presentadas, así como las observaciones y propuestas de modificación que presenten los grupos parlamentarios a la Mesa Directiva de la Cámara de Diputados hasta el lunes 20 de diciembre de 2010, se acuerda la conformación de un Grupo de Trabajo coordinado por la Mesa Directiva de la Comisión de Régimen, Reglamentos y Prácticas Parlamentarias, el cual se encargará, durante los meses de enero y febrero de 2011, de hacer el análisis de dichos documentos, de consensar y presentar ante el Pleno las reformas pertinentes a más tardar a la conclusión del segundo periodo ordinario de sesiones del segundo año de ejercicio de la LXI Legislatura, a efecto de que a partir del 1o. de septiembre de 2011 el presente cuerpo normativo sea aplicado en plenitud.
+
+Décimo Tercero. Los artículos 89, 95, 105, 139, numeral 1, fracción III, 142, 175, 184, numeral 1 y 239 del presente Reglamento, relativos a la preclusión de la facultad de dictaminación de las comisiones ordinarias por vencimiento de plazo, entrarán en vigor a partir del 1o. de enero de 2011.
