@@ -4,7 +4,7 @@ identifier: "CMX-codigo-fiscal-de-la-ciudad-de-mexico-antes-codigo-fiscal-71178"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-12-29"
-last_updated: "2010-12-22"
+last_updated: "2010-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71178&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2009-12-28"
 
 CODIGO FISCAL DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 22 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 24 DE DICIEMBRE DE 2010.
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el martes 29 de diciembre de 2009.
 
@@ -2980,6 +2980,10 @@ Para los consumos mayores a 120,000 litros se cobrarán por cada 1,000 litros ad
 
 IV. Cuando por razón que el medidor haya transcurrido su vida útil y no se pueda obtener una lectura confiable del mismo se cobrará para el caso doméstico el promedio de consumo de la colonia catastral en donde se encuentre el predio a la tarifa aplicable.
 
+> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 2010)</small>
+
+El contribuyente podrá pagar los derechos por el suministro de agua de que se trate, de conformidad con la tarifa correspondiente, pudiendo renunciar a la aplicación de los subsidios que se establecen en las fracciones I, II y III del presente artículo, comunicándolo por escrito al Sistema de Aguas de la Ciudad de México, que publicitará el procedimiento requerido.
+
 ###### ARTICULO 173.
 
 Las personas físicas y las morales que usen o aprovechen agua residual o residual tratada que suministre el Distrito Federal en el caso de contar con excedentes, así como agua potable proporcionada por el mismo Distrito Federal, a través de los medios que en este artículo se indican, pagarán derechos conforme a las siguientes cuotas:
@@ -3745,6 +3749,12 @@ h). Anuncios en lona o en material similar en inmuebles y/o monumentos en constr
 i). Anuncios denominativos pintados en bardas, vidrieras y escaparates, cortinas metálicas, muros laterales de acceso a establecimientos que den a la calle, orla o cenefa de toldos y cortinas de tela, fachadas, así como integrados, adosados o en gabinete en fachada, con las superficies autorizadas por la legislación vigente, se pagarán los derechos que resulten de multiplicar cada metro cuadrado de cartelera por $1,402.00
 
 Por la revalidación anual de los anuncios a que se refiere esta fracción, se cobrará el mismo monto que se pagó por la expedición de la licencia, a excepción de los anuncios denominativos, en cuyo caso se cobrará un 20% del costo de la Licencia.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 2010)</small>
+
+Los establecimientos mercantiles que tengan como giro comercial: estéticas, peluquerías y salones de belleza que se encuentren ubicados en las manzanas con índice de desarrollo Popular y Bajo, de conformidad con la definición establecida en el Artículo Vigésimo Primero Transitorio del presente Código, sólo realizarán un pago de derechos por concepto de revalidación, durante el mismo ejercicio fiscal, la anualidad la deberán cubrir conforme lo previsto en la fracción I del presente artículo.
 
 II. Autorización temporal para construir, instalar, fijar, modificar o ampliar los siguientes anuncios:
 
@@ -8925,3 +8935,19 @@ PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor 
 SEGUNDO.- La presente Decreto entrará en vigor a partir del 1° de enero del 2011.
 
 TERCERO.- En un plazo no mayor de treinta días hábiles contados a partir del día siguiente al que se publique en la Gaceta Oficial del Distrito Federal el presente Decreto, la Secretaría de Medio Ambiente del Distrito Federal elaborará los lineamientos que servirán de base para la emisión de las constancias respectivas a los particulares que acrediten el cumplimiento de las medidas de protección ambiental a que se refiere la presente reforma al artículo 296 del Código Fiscal del Distrito Federal. La Tesorería del Distrito Federal realizará en 30 días adicionales los lineamientos de carácter fiscal y la Procuraduría Fiscal del Distrito Federal contará con 30 días hábiles más para validar ambos grupos de lineamientos, y enviarlos en su caso al Secretario de Finanzas para su publicación, o bien devolverlos a la Secretaría del Medio Ambiente o a la Tesorería para su corrección.
+
+G.O. 24 DE DICIEMBRE DE 2010.
+
+DECRETO POR EL QUE SE REFORMA EL ARTICULO 172 DEL CODIGO FISCAL DEL DISTRITO FEDERAL.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+Segundo. El Sistema de Aguas de la Ciudad de México elaborará y publicitará los lineamientos para que los usuarios puedan cumplimentar lo que se establece en el último párrafo del artículo 172, dentro de los 30 días hábiles siguientes a la publicación de este decreto.
+
+G.O. 24 DE DICIEMBRE DE 2010.
+
+DECRETO POR EL QUE SE REFORMA EL ARTICULO 193 DEL CODIGO FISCAL DEL DISTRITO FEDERAL.
+
+PRIMERO.- El presente decreto entrará en vigor el 1° de enero del 2011.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal.
