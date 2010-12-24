@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-responsabilidades-de-los-servidores-publicos-del-10645"
 country: "mx"
 rank: "ley"
 publication_date: "1997-01-29"
-last_updated: "2010-11-12"
+last_updated: "2010-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10645&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO Y MUNICIPIOS DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE NOVIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 29 de enero de 1997.
 
@@ -81,7 +81,9 @@ III. La Contraloría Interna, a la que se denominará la Contraloría;
 
 IV. Los Ayuntamientos, los Presidentes Municipales y los órganos de control interno de las Administraciones Públicas Municipales;
 
-V. La Contaduría Mayor de Hacienda;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+V. La Auditoría Superior del Estado;
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
@@ -103,11 +105,13 @@ Los procedimientos para la aplicación de las sanciones a que se refiere esta Le
 
 Cuando la Comisión Estatal de Derechos Humanos detecte actos u omisiones que ameriten ser sancionados en los términos de esta Ley, lo hará del conocimiento de las Autoridades Competentes, para la aplicación de las sanciones correspondientes.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 6°.
 
-En la Ley del Sistema de Seguridad Pública del Estado de Nuevo León, se establecerán los órganos estatales y municipales competentes para substanciar el procedimiento de responsabilidad administrativa y para la aplicación de sanciones a los miembros de las instituciones policíacas, de tránsito y de readaptación social, en los términos de esta Ley.
+En la Ley de Seguridad Pública del Estado de Nuevo León, se establecerán los órganos estatales y municipales competentes para substanciar el procedimiento de responsabilidad administrativa y para la aplicación de sanciones a los miembros de las instituciones policíacas, de tránsito y de readaptación social, en los términos de esta Ley.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
 Los órganos previstos en el párrafo anterior remitirán a la Contraloría copia de las resoluciones mediante las cuales se impongan sanciones por responsabilidad administrativa, a efecto de inscribirlas en el registro de Servidores Públicos Sancionados e Inhabilitados.
 
@@ -459,7 +463,9 @@ XXXV. Abstenerse de distraer o desviar recursos económicos públicos, bienes mu
 
 XXXVI. Abstenerse de aumentar su patrimonio ilícitamente, o no comprobar la legítima procedencia de los bienes a su nombre o de aquéllos respecto a los cuales se conduzca como dueño;
 
-XXXVII. Proporcionar o suministrar oportunamente los datos, la información y los documentos relacionados con la administración y ejercicio de las finanzas públicas, y no obstaculizar la práctica de visitas, inspecciones o auditorías y el acceso a los archivos, que le requieran las autoridades competentes en las formas, términos y condiciones señaladas en la Ley de Administración Financiera para el Estado y la Ley de la Contaduría Mayor de Hacienda del Estado;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+XXXVII. Proporcionar o suministrar oportunamente los datos, la información y los documentos relacionados con la administración y ejercicio de las finanzas públicas, y no obstaculizar la práctica de visitas, inspecciones o auditorías y el acceso a los archivos, que le requieran las autoridades competentes en las formas, términos y condiciones señaladas en la Ley de Administración Financiera para el Estado y la Ley del Órgano Superior de Fiscalización del Estado de Nuevo León;
 
 XXXVIII. Formular las observaciones pertinentes e informar a sus jefes inmediatos sobre las irregularidades o los ilícitos detectados, que puedan dar origen al fincamiento y determinación de responsabilidades, o a la presentación de denuncias penales, derivadas de las inspecciones, revisiones o auditorías internas o externas que se practiquen conforme a sus funciones en los procedimientos de fiscalización, control y evaluación gubernamental;
 
@@ -511,7 +517,9 @@ LX. Observar en las funciones de seguridad pública, tránsito, administración 
 
 LXI. Preservar el secreto de los asuntos de seguridad pública que por razón del desempeño de su función conozcan, con las excepciones que determine la Ley;
 
-LXII. Cumplir con las obligaciones y abstenerse de cometer las prohibiciones señaladas en la Ley Orgánica de los Cuerpos de Seguridad Pública del Estado, la Ley del Sistema de Seguridad Pública del Estado y demás leyes, convenios o Acuerdos de Coordinación que se establezcan y que por razón de su encargo, empleo o comisión se le hayan encomendado a su función;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+LXII. Cumplir con las obligaciones y abstenerse de cometer las prohibiciones señaladas en la Ley Orgánica de los Cuerpos de Seguridad Pública del Estado, la Ley (sic) Seguridad Pública del Estado, y demás leyes, convenios o Acuerdos de Coordinación que se establezcan y que por razón de su encargo, empleo o comisión se le hayan encomendado a su función;
 
 > <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2005)</small>
 
@@ -673,13 +681,13 @@ Tratándose de responsabilidades cuyo conocimiento sea competencia del Gobernado
 
 No se aplicará lo dispuesto en el párrafo anterior cuando la responsabilidad se derive por el incumplimiento de las obligaciones del responsable de la Contraloría, y será el Gobernador del Estado o el servidor público al que éste le delegue dicha atribución, quien conozca del procedimiento de responsabilidades.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE JULIO DE 2002)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 68.
 
-En el Poder Legislativo será superior jerárquico, para los efectos de esta Ley, la Asamblea en Pleno del Congreso del Estado tratándose de los Diputados. Para el resto de los servidores públicos del Poder Legislativo, lo será la Comisión de Coordinación y Régimen Interno. En la Contaduría Mayor de Hacienda el superior jerárquico será el Contador Mayor y sobre éste el Pleno del Congreso.
+En el Poder Legislativo será superior jerárquico, para los efectos de esta Ley, la Asamblea en Pleno del Congreso del Estado tratándose de los Diputados. Para el resto de los servidores públicos del Poder Legislativo, lo será la Comisión de Coordinación y Régimen Interno. En la Auditoría Superior del Estado el superior jerárquico será el Auditor General y sobre éste el Pleno del Congreso.
 
-El Contador Mayor de Hacienda en representación del Congreso del Estado, fincará y determinará responsabilidades a los servidores públicos estatales y municipales, así como a toda persona física o moral imputable, que con dolo o culpa cause daño o perjuicio a la Hacienda Pública Estatal o Municipal o a sus organismos y entidades del sector paraestatal, o no dé cumplimiento a las disposiciones jurídicas vigentes en el Estado, en relación al gasto público, fiscal, obra pública, adquisiciones y demás materias relacionadas con aspectos presupuestales.
+El Auditor General en representación del Congreso del Estado, fincará y determinará responsabilidades a los servidores públicos estatales y municipales, así como a toda persona física o moral imputable, que con dolo o culpa cause daño o perjuicio a la Hacienda Pública Estatal o Municipal o a sus organismos y entidades del sector paraestatal, o no dé cumplimiento a las disposiciones jurídicas vigentes en el Estado, en relación al gasto público, fiscal, obra pública, adquisiciones y demás materias relacionadas con aspectos presupuestales.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE JULIO DE 2004)</small>
 
@@ -1047,9 +1055,11 @@ La ejecución de las sanciones administrativas y económicas impuestas en resolu
 
 ### CAPÍTULO I. DEL REGISTRO DE LA MANIFESTACIÓN DE BIENES DE LOS SERVIDORES PÚBLICOS
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 111.
 
-En la Legislatura del Estado, tiene la obligación de presentar manifestación de bienes, los Diputados, el Oficial Mayor, el Tesorero y Directores, el personal de la Contaduría Mayor de Hacienda desde el Contador Mayor de Hacienda hasta el nivel Directivo.
+En la Legislatura del Estado, tiene la obligación de presentar manifestación de bienes, los Diputados, el Oficial Mayor, el Tesorero y Directores, el personal de la Auditoría Superior del Estado desde el Auditor General hasta el nivel Directivo.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
@@ -1235,7 +1245,9 @@ Las dependencias, organismos y entidades de la Administración Pública Estatal 
 
 En el ámbito de los Municipios, corresponderá a los síndicos u órganos de control interno dar cumplimiento a lo establecido en el presente Artículo, poniendo los bienes a disposición de las instancias Municipales equivalentes.
 
-En los Poderes Legislativo y Judicial, corresponderá a la Contaduría Mayor de Hacienda y al órgano de vigilancia y disciplina que establezca la Ley Orgánica del Poder Judicial respectivamente, dar cumplimiento a los lineamientos establecidos en el presente Artículo.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+En los Poderes Legislativo y Judicial, corresponderá a la Auditoría Superior del Estado y al órgano de vigilancia y disciplina que establezca la Ley Orgánica del Poder Judicial respectivamente, dar cumplimiento a los lineamientos establecidos en el presente Artículo.
 
 ###### Artículo 135.
 
@@ -1418,5 +1430,9 @@ P.O. 3 DE JULIO DE 2010.
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 12 DE NOVIEMBRE DE 2010.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE DICIEMBRE DE 2010.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
