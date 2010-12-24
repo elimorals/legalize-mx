@@ -4,7 +4,7 @@ identifier: "NLE-ley-que-crea-el-comite-de-construccion-de-escuelas-11737"
 country: "mx"
 rank: "ley"
 publication_date: "1998-04-29"
-last_updated: "1998-04-29"
+last_updated: "2010-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11737&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY QUE CREA EL COMITE DE CONSTRUCCION DE ESCUELAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 29 de abril 1998.
 
@@ -133,7 +133,9 @@ II.- Por un Secretario Ejecutivo, que será el titular de la Secretaría de Educ
 
 III.- Por el Secretario de Finanzas y Tesorero General del Estado, con el carácter de Vocal;
 
-IV.- Por el Secretario de Desarrollo Urbano y Obras Públicas del Estado, con el carácter de Vocal;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+IV.- Por el Secretario de Obras Públicas del Estado, con el carácter de Vocal;
 
 V.- Por el Secretario de Desarrollo Económico, con el carácter de Vocal;
 
@@ -141,7 +143,9 @@ VI.- Por el Vocal Ejecutivo para el Desarrollo Municipal, con el carácter de Vo
 
 VII.- Por el Representante en el Estado de la Secretaría de Educación Pública, con el carácter de Vocal; y
 
-VIII.- Por un representante del CAPFCE, con el carácter de Vocal.
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+VIII.- Por el Representante del Instituto Nacional de Infraestructura Física Educativa, con el carácter de Vocal.
 
 Por cada miembro propietario habrá un suplente designado por el Gobernador, quien en su caso podrá removerlos libremente, a excepción de los correspondientes a las fracciones VII y VIII quienes serán designados y removidos en su caso, por el titular respectivo. Los cargos de la Junta serán honoríficos y exoficio, por lo que las personas que los desempeñen no percibirán retribución, emolumento o compensación alguna.
 
@@ -265,9 +269,11 @@ El. Comité, en el ámbito de su competencia, procederá a coordinarse con las a
 
 ### CAPÍTULO III. De la Vigilancia
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 16.
 
-Para llevar a cabo las labores de vigilancia de la operación del Comité, habrá un Comisario Propietario y un suplente designados por el Ejecutivo del Estado, a propuesta en terna de la Secretaría de la Contraloría General del Estado, en los términos del Artículo 157 de la Ley de Administración Financiera del Estado de Nuevo León. Lo anterior, sin menoscabo de las atribuciones de vigilancia, fiscalización y evaluación que por Ley le corresponde desempeñar en forma directa a esa dependencia.
+Para llevar a cabo las labores de vigilancia de la operación del Comité, habrá un Comisario Propietario y un suplente designados por el Ejecutivo del Estado, a propuesta en terna de la Contraloría y Transparencia Gubernamental, en los términos del Artículo 157 de la Ley de Administración Financiera del Estado de Nuevo León. Lo anterior, sin menoscabo de las atribuciones de vigilancia, fiscalización y evaluación que por Ley le corresponde desempeñar en forma directa a esa dependencia.
 
 ###### ARTÍCULO 17.
 
@@ -277,7 +283,9 @@ I.- Evaluar el desempeño general y por funciones del Comité;
 
 II.- Evaluar y efectuar estudios sobre la eficiencia con la que se ejerzan los egresos, se recauden los ingresos y se administre y custodie el patrimonio del Comité;
 
-III.- Rendir trimestral y anualmente a la Secretaría de la Contraloría General del Estado, un informe sobre su labor de vigilancia; y
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+III.- Rendir trimestral y anualmente a la Contraloría y Transparencia Gubernamental, un informe sobre su labor de vigilancia; y
 
 IV.- Las demás que esta Ley y demás disposiciones aplicables le confieran.
 
@@ -314,3 +322,9 @@ LIC. JOSE LUIS COINDREAU GARCIA
 EL C. SECRETARIO DE EDUCACION
 
 LIC. JOSE MARTINEZ GONZALEZ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 24 DE DICIEMBRE DE 2010.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
