@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-atencion-y-apoyo-a-las-victimas-y-a-los-ofendidos-de-551
 country: "mx"
 rank: "ley"
 publication_date: "2007-04-18"
-last_updated: "2007-04-18"
+last_updated: "2010-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55149&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE ATENCION Y APOYO A LAS VICTIMAS Y A LOS OFENDIDOS DE DELITOS EN EL ESTADO DE NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 18 de abril de 2007.
 
@@ -157,13 +157,17 @@ III.- El Sistema para el Desarrollo Integral de la Familia del Estado de Nuevo L
 
 IV.- La Secretaría de Seguridad Pública;
 
-V.- El Consejo de Desarrollo Social;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+V.- La Secretaría de Desarrollo Social;
 
 VI.- La Secretaría de Educación;
 
 VII.- El Instituto Estatal de las Mujeres;
 
-VIII.- La Dirección de Defensoría de Oficio; y,
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+VIII.- La Dirección de la Defensoría Pública; y
 
 IX.- La Procuraduría General de la República, en los términos de los convenios suscritos entre ésta y el Estado.
 
@@ -221,9 +225,11 @@ III. Psiquiátrico.
 
 Cuando así se solicite y la índole de la afectación lo amerite, la atención deberá estar a cargo de un médico del mismo sexo que la víctima u ofendido. Tratándose de menores la atención será proporcionada por personal femenino.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 21.
 
-El Sistema para el Desarrollo Integral de la Familia del Estado de Nuevo León y el Consejo de Desarrollo. Social, en el ámbito de sus respectivas competencias, proporcionarán apoyo de tipo asistencial y económico a la víctima o al ofendido. Para cumplir esta obligación deberán establecer una partida especial en su presupuesto.
+El Sistema para el Desarrollo Integral de la Familia del Estado de Nuevo León y la Secretaría de Desarrollo. Social, en el ámbito de sus respectivas competencias, proporcionarán apoyo de tipo asistencial y económico a la víctima o al ofendido. Para cumplir esta obligación deberán establecer una partida especial en su presupuesto.
 
 ###### Artículo 22.
 
@@ -295,7 +301,9 @@ III.- El titular de la Secretaría de Seguridad Pública;
 
 IV.- El titular de la Secretaría de Salud;
 
-V.- El titular del Consejo de Desarrollo Social;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+V.- El titular de la Secretaría de Desarrollo Social;
 
 VI.- El titular de la Secretaría de Finanzas y Tesorería General del Estado;
 
@@ -437,9 +445,11 @@ V.- Descripción de los recursos recuperados.
 
 El Procurador General de Justicia del Estado, de conformidad con los lineamientos en materia de presupuesto y gasto público, aprobará el proyecto de egresos trimestral, que el Centro le presente para el ejercicio de los recursos del Fondo para hacer efectivo el otorgamiento de apoyos a que se refiere la presente Ley.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 41.
 
-La Contraloría Interna del Gobierno del Estado, administrativamente comprobará la debida aplicación de los recursos a que se refiere la presente Ley.
+La Contraloría y Transparencia Gubernamental, administrativamente comprobará la debida aplicación de los recursos a que se refiere la presente Ley.
 
 ###### Artículo 42.
 
@@ -548,3 +558,9 @@ REYES SILVESTRE TAMEZ GUERRA
 EL C. SECRETARIO DE SALUD
 
 GILBERTO MONTIEL AMOROSO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 24 DE DICIEMBRE DE 2010.
+
+Único.- El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
