@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-desarrollo-social-para-el-estado-de-nuevo-leon-52035"
 country: "mx"
 rank: "ley"
 publication_date: "2006-10-16"
-last_updated: "2008-12-15"
+last_updated: "2010-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52035&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 16 de octubre de 2006.
 
@@ -67,13 +67,19 @@ La aplicación de la presente Ley corresponde a las dependencias, organismos y e
 
 En lo no previsto en esta Ley se aplicará en forma supletoria el siguiente marco jurídico:
 
+###### Artículo 3°.
+
+En lo no previsto en esta Ley se aplicará en forma supletoria el siguiente marco jurídico:
+
 I. Ley General de Desarrollo Social;
 
-II. Ley del Consejo de Desarrollo Social en el Estado de Nuevo León;
+II. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2010)
 
 III. Ley de los Derechos de las Personas Adultas Mayores en el Estado de Nuevo León;
 
-IV. Ley para la Promoción y Protección de la Equidad y Accesibilidad Universal de las Personas con Discapacidad del Estado de Nuevo León;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+IV. Ley de Personas con Discapacidad del Estado de Nuevo León;
 
 V. Ley de Protección de los Derechos de las Niñas, Niños y Adolescentes para el Estado de Nuevo León;
 
@@ -89,7 +95,9 @@ Para los efectos de esta Ley se entiende por:
 
 I. Beneficiarios: Aquellas personas u organizaciones que forman parte de la población atendida por los programas de desarrollo social que cumplen los requisitos de la normatividad correspondiente;
 
-II. Consejo: El Consejo de Desarrollo Social del Gobierno del Estado;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+II. Secretaría: La Secretaría de Desarrollo Social del Gobierno del Estado;
 
 III. Desarrollo social: El proceso de crecimiento integral cuyo fin es el mejoramiento de las condiciones de vida de la población, así como la creación y el fortalecimiento de oportunidades, la erradicación de la desigualdad y la exclusión entre los individuos y grupos, con el propósito de lograr su incorporación plena a la vida económica, social y cultural del Estado;
 
@@ -127,9 +135,11 @@ VIII. Transparencia: La información relativa al desarrollo social es pública e
 
 El Titular del Ejecutivo del Estado, dentro de su respectiva competencia, será la autoridad rectora del desarrollo social del Estado en la planeación y ejecución de las políticas y programas de la materia.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 7°.
 
-Para el cumplimiento de esta Ley, el Titular del Ejecutivo, a través del Consejo, deberá:
+Para el cumplimiento de esta Ley, el Titular del Ejecutivo, a través de la Secretaría, deberá:
 
 I. Formular y ejecutar el Programa Estatal de Desarrollo Social como parte del Plan Estatal de Desarrollo;
 
@@ -243,25 +253,33 @@ IV. Las reglas de operación y términos de referencia para la implementación, 
 
 ### CAPÍTULO II. DE LA PARTICIPACIÓN CIUDADANA
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 20.
 
-El Ejecutivo del Estado, a través del Consejo y los Municipios en el ámbito de su competencia, fomentarán la participación de la sociedad de manera activa y corresponsable en la planeación, diseño, evaluación y supervisión de la Política de Desarrollo Social.
+El Ejecutivo del Estado, a través de la Secretaría y los Municipios en el ámbito de su competencia, fomentarán la participación de la sociedad de manera activa y corresponsable en la planeación, diseño, evaluación y supervisión de la Política de Desarrollo Social.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 21.
 
-Cualquier persona podrá denunciar ante el Consejo o ante la Autoridad Municipal, aquellas zonas, familias o individuos en estado de pobreza y vulnerabilidad en cualquiera de sus formas.
+Cualquier persona podrá denunciar ante la Secretaría o ante la Autoridad Municipal, aquellas zonas, familias o individuos en estado de pobreza y vulnerabilidad en cualquiera de sus formas.
 
 ###### Artículo 22.
 
 Los ciudadanos de Nuevo León podrán participar corresponsablemente en las políticas de desarrollo social, así como generar iniciativas de proyectos y programas.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 23.
 
-La Sociedad Civil podrá recibir recursos o fondos públicos para operar programas para el desarrollo social, quedando sujetas a la supervisión, control y vigilancia del Consejo y de los Municipios según sea el caso, sin perjuicio de lo que establezcan las leyes respectivas.
+La Sociedad Civil podrá recibir recursos o fondos públicos para operar programas para el desarrollo social, quedando sujetas a la supervisión, control y vigilancia de la Secretaría y de los Municipios según sea el caso, sin perjuicio de lo que establezcan las leyes respectivas.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 24.
 
-El Ejecutivo del Estado, a través del Consejo, y los Municipios en el ámbito de su competencia, fomentarán el apoyo a la organización, promoción y participación social mediante:
+El Ejecutivo del Estado, a través de la Secretaría, y los Municipios en el ámbito de su competencia, fomentarán el apoyo a la organización, promoción y participación social mediante:
 
 I. La creación de condiciones que estimulen la realización de programas, estrategias y orientación de recursos;
 
@@ -291,7 +309,9 @@ Los beneficiarios de los Programas Sociales podrán:
 
 I. Participar y acceder a los Programas Sociales;
 
-II. Recibir la información acerca de los programas y servicios que promuevan el Consejo y los Municipios, así como de aquellos que la Federación aplique en el Estado;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+II. Recibir la información acerca de los programas y servicios que promuevan la Secretaría y los Municipios, así como de aquellos que la Federación aplique en el Estado;
 
 III. Recibir los servicios y prestaciones de los programas conforme a sus lineamientos generales y requisitos;
 
@@ -317,9 +337,11 @@ IV. Informar a la instancia correspondiente si se es beneficiario de dos o más 
 
 Con el propósito de asegurar la transparencia, la equidad y la eficacia de los programas sociales, el Estado integrará el Padrón de Beneficiarios de los Programas Sociales el cual estará a disposición de la ciudadanía en los términos de la Ley de Acceso a la Información Pública.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 31.
 
-El Consejo será responsable de la integración y actualización de los datos relativos al Padrón de Beneficiarios de los Programas Sociales.
+La Secretaría será responsable de la integración y actualización de los datos relativos al Padrón de Beneficiarios de los Programas Sociales.
 
 ## TÍTULO V. DEL FOMENTO Y FINANCIAMIENTO
 
@@ -343,9 +365,11 @@ El Gobierno Estatal y los Municipios destinarán recursos públicos para propici
 
 Los programas, fondos y recursos destinados al desarrollo social son prioritarios y de interés público, por lo cual serán objeto de seguimiento y valuación de acuerdo con esta Ley, independientemente de la fiscalización de que sean objeto por las instancias correspondientes, en los términos de las disposiciones legales en la materia.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 36.
 
-El presupuesto asignado al Consejo y a los programas de apoyo a grupos vulnerables y combate a la pobreza que corresponda administrar al consejo, destinado al gasto social no podrá ser inferior, en términos reales, al del año fiscal anterior una vez que sea autorizado por el Congreso del Estado, ni destinarse a fines distintos a los aprobados; salvo cuando el Estado enfrente alguna situación grave y extrema que lo justifique.
+El presupuesto asignado a la Secretaría y a los programas de apoyo a grupos vulnerables y combate a la pobreza que corresponda administrar, destinado al gasto social no podrá ser inferior, en términos reales, al del año fiscal anterior una vez que sea autorizado por el Congreso del Estado, ni destinarse a fines distintos a los aprobados; salvo cuando el Estado enfrente alguna situación grave y extrema que lo justifique.
 
 Asimismo se podrán destinar partidas extraordinarias para programas sociales, las cuales no serán consideradas para los efectos del párrafo anterior.
 
@@ -395,13 +419,17 @@ Las zonas de atención prioritaria tendrán como referente las evaluaciones de l
 
 Los Programas de Desarrollo Social destinarán acciones y medidas específicas para atender a las zonas de atención prioritaria. Para su ejecución, el Estado asignará los recursos humanos, técnicos y financieros necesarios para lograr el desarrollo de las personas y las familias que forman parte de estas áreas.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 45.
 
-El Estado, por medio del Consejo y en coordinación con otras instituciones competentes, será responsable de elaborar y mantener actualizados los sistemas de información geo-referenciados, que se relacionen con las condiciones sociales y económicas de los hogares nuevoleoneses, y permitan formular estrategias orientadas a la lucha contra la pobreza con el fin de lograr las metas propuestas en materia de Desarrollo Social.
+El Estado, por medio de la Secretaría y en coordinación con otras instituciones competentes, será responsable de elaborar y mantener actualizados los sistemas de información geo-referenciados, que se relacionen con las condiciones sociales y económicas de los hogares nuevoleoneses, y permitan formular estrategias orientadas a la lucha contra la pobreza con el fin de lograr las metas propuestas en materia de Desarrollo Social.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 46.
 
-Las acciones del Consejo, y en su caso las de los Municipios, en las zonas de atención prioritaria tendrán como objeto:
+Las acciones de la Secretaría, y en su caso las de los Municipios, en las zonas de atención prioritaria tendrán como objeto:
 
 I. Lograr una mejor calidad y expectativas de vida personal, familiar y social a través de acciones educativas, proyectos productivos, fomento de la participación comunitaria y corresponsabilidad social que permitan crear conciencia de la dignidad humana;
 
@@ -413,17 +441,23 @@ IV. Prever los recursos financieros necesarios para dar atención especial a los
 
 ### CAPÍTULO ll. DE LA DEFINICIÓN Y MEDICIÓN DE LA POBREZA
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 47.
 
-El Consejo y los Municipios deberán prestar particular atención a la colaboración interinstitucional para el intercambio de información y la asesoría y transferencia de técnicas, así como a la recopilación de datos y presentación de informes para mejorar el conocimiento y la ordenación del Desarrollo Social en el Estado, atendiendo a la naturaleza multisectorial y multifactorial de la pobreza, que se encuentra relacionada con numerosos aspectos del desarrollo.
+La Secretaría y los Municipios deberán prestar particular atención a la colaboración interinstitucional para el intercambio de información y la asesoría y transferencia de técnicas, así como a la recopilación de datos y presentación de informes para mejorar el conocimiento y la ordenación del Desarrollo Social en el Estado, atendiendo a la naturaleza multisectorial y multifactorial de la pobreza, que se encuentra relacionada con numerosos aspectos del desarrollo.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 48.
 
-El Estado, a través del Consejo y en función a lo que establece la ley, utilizará la información que genere el Instituto Nacional de Estadística Geografía e informática, el Consejo Nacional de Población y otras instituciones competentes en la materia, para definir y medir la pobreza.
+El Estado, a través de la Secretaría y en función a lo que establece la ley, utilizará la información que genere el Instituto Nacional de Estadística Geografía e Informática, el Consejo Nacional de Población y otras instituciones competentes en la materia, para definir y medir la pobreza.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 49.
 
-El Consejo Invitará a investigadores y académicos de reconocida trayectoria y amplio prestigio profesional en la materia, quienes apoyarán en el establecimiento de definiciones, normas y directrices unificadas tanto de la terminología como de las técnicas y metodologías utilizadas en la definición y medición de la pobreza, así como de supervisar estudios e investigaciones que coadyuven al cumplimiento de esta Ley.
+La Secretaría invitará a investigadores y académicos de reconocida trayectoria y amplio prestigio profesional en la materia, quienes apoyarán en el establecimiento de definiciones, normas y directrices unificadas tanto de la terminología como de las técnicas y metodologías utilizadas en la definición y medición de la pobreza, así como de supervisar estudios e investigaciones que coadyuven al cumplimiento de esta Ley.
 
 ###### Artículo 50.
 
@@ -522,3 +556,7 @@ N. DE. E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRET
 P.O. 15 DE DICIEMBRE DE 2008.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+P.O. 24 DE DICIEMBRE DE 2010.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
