@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-hacienda-para-los-municipios-del-estado-de-nuevo-leon-77
 country: "mx"
 rank: "ley"
 publication_date: "1974-12-28"
-last_updated: "2008-12-19"
+last_updated: "2010-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7749&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 28 de diciembre de 1974.
 
@@ -1547,11 +1547,11 @@ En lo no previsto por esta Ley, la aplicación y recaudación del impuesto sobre
 
 Al expedirse el decreto legislativo que autoriza la aplicación del Impuesto Sobre Aumento de Valor y Mejoría Específica de la Propiedad para una obra pública, la Tesorería Municipal o la autoridad con facultades delegadas, notificará por oficio al Registro Público de la Propiedad y del Comercio para que realice las anotaciones marginales e inscripción del gravamen en relación con las propiedades afectas al citado impuesto. Los Notarios y Corredores Públicos no autorizarán, ni los Registradores Públicos de la Propiedad inscribirán, actos o contratos que impliquen transmisión de dominio, desmembración del mismo o constitución voluntaria de servidumbres o garantías reales, que tengan relación con inmuebles afectados a este impuesto, si no se les demuestra que se está al corriente en el pago del mismo.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 41 Bis 26.
 
-En lo no previsto en este Capítulo, será de aplicación supletoria, en lo relativo, la Ley de Ordenamiento Territorial de los Asentamientos Humanos y Desarrollo Urbano del Estado, la Ley de Obras Públicas para el Estado y Municipios de Nuevo León, la Ley del Catastro del Estado y la Ley de Expropiación del Estado.
+En lo no previsto en este Capítulo, será de aplicación supletoria, en lo relativo, la Ley de Desarrollo Urbano del Estado (sic) del Estado de Nuevo León, la Ley de Obras Públicas para el Estado y Municipios de Nuevo León, la Ley del Catastro del Estado y la Ley de Expropiación del Estado.
 
 ## TITULO TERCERO. DERECHOS
 
@@ -2919,17 +2919,15 @@ V.- Por ocupar la vía pública los organismos descentralizados del gobierno fed
 
 VI.- No especificados.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
-## TITULO CUARTO
+## TITULO CUARTO. CONTRIBUCIONES POR NUEVOS FRACCIONAMIENTOS, EDIFICACIONES, RELOTIFICACIONES Y SUBDIVISIONES PREVISTAS EN LA LEY DE DESARROLLO URBANO DEL ESTADO
 
-CONTRIBUCIONES POR NUEVOS FRACCIONAMIENTOS, EDIFICACIONES, RELOTIFICACIONES Y SUBDIVISIONES PREVISTAS EN LA LEY DE ORDENAMIENTO TERRITORIAL DE LOS ASENTAMIENTOS HUMANOS Y DESARROLLO URBANO DEL ESTADO
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 65 Bis 2.
 
-Los fraccionadores, en la autorización de nuevos fraccionamientos, cederán suelo al Municipio para destinos, en los mismos términos a que se refiere la Ley de Ordenamiento Territorial de los Asentamientos Humanos y de Desarrollo Urbano del Estado, en los términos de los artículos 151, 156, 162, 163 y 165, según el tipo de fraccionamiento. En los conjuntos urbanos o desarrollos sujetos al régimen de propiedad en condominio, los desarrolladores cederán suelo al Municipio en los términos de lo dispuesto por el artículo 185 de la citada Ley.
+Los fraccionadores, en la autorización de nuevos fraccionamientos, cederán suelo al Municipio para destinos, en los mismos términos a que se refiere la Ley de Desarrollo Urbano del Estado de Nuevo León, según el tipo de fraccionamiento. En los conjuntos urbanos o desarrollos sujetos al régimen de propiedad en condominio, los desarrolladores cederán suelo al Municipio en los términos de lo dispuesto por la citada Ley.
 
 > <small>(REFORMADO, P.O. 13 DE ENERO DE 2007)</small>
 
@@ -3642,5 +3640,9 @@ P.O. 13 DE ENERO DE 2007.
 Artículo Único.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
 
 P.O. 19 DE DICIEMBRE DE 2008.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE DICIEMBRE DE 2010.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
