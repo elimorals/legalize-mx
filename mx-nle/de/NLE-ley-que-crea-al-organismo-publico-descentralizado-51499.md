@@ -4,7 +4,7 @@ identifier: "NLE-ley-que-crea-al-organismo-publico-descentralizado-51499"
 country: "mx"
 rank: "ley"
 publication_date: "2006-08-16"
-last_updated: "2006-08-16"
+last_updated: "2010-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51499&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY QUE CREA AL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO INSTITUTO DEL AGUA DEL ESTADO DE NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 16 de agosto de 2006.
 
@@ -137,7 +137,9 @@ a) El Secretario de Finanzas y Tesorero General del Estado;
 
 b) El Director General de Servicios de Agua y Drenaje de Monterrey, Institución Pública Descentralizada;
 
-c) El Director General de la Agencia de Protección al Medio Ambiente y Recursos Naturales;
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+c) El Secretario de Desarrollo Sustentable;
 
 d) El Director General del Instituto de Innovación y Transferencia de Tecnología de Nuevo León;
 
@@ -289,9 +291,11 @@ XXII. Las demás que le confieran esta Ley, el Consejo de Administración, el Re
 
 ### CAPÍTULO V. DEL COMISARIO
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 16.
 
-A propuesta de la Contraloría Interna, en los términos de la legislación aplicable, el Gobernador del Estado designará y removerá a un Comisario, quien deberá llevar a cabo las funciones de vigilancia y control interno del Instituto.
+A propuesta de la Contraloría y Transparencia Gubernamental en los términos de la legislación aplicable, el Gobernador del Estado designará y removerá a un Comisario, quien deberá llevar a cabo las funciones de vigilancia y control interno del Instituto.
 
 ###### Artículo 17.
 
@@ -299,9 +303,13 @@ Al Comisario le corresponden las siguientes atribuciones:
 
 I. Vigilar que los gastos, cuentas y administración de los recursos del Instituto se encaminen adecuadamente para el cumplimiento de su objeto, ajustándose en todo momento a lo que dispone esta Ley, los planes y presupuestos aprobados, así como las disposiciones aplicables;
 
-II. Solicitar la información y documentación y efectuar los actos que se requieran para el adecuado cumplimiento de sus funciones, sin perjuicio de las tareas que le encomiende la Contraloría Interna de la Administración Pública Estatal;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
-III. Rendir un informe anual, tanto al Consejo de Administración como a la Contraloría Interna de la Administración Pública Estatal;
+II. Solicitar la información y documentación y efectuar los actos que se requieran para el adecuado cumplimiento de sus funciones, sin perjuicio de las tareas que le encomiende la Contraloría y Transparencia Gubernamental;
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+III. Rendir un informe anual, tanto al Consejo de Administración como a la Contraloría y Transparencia Gubernamental;
 
 IV. Recomendar al Consejo de Administración y al Director General del Instituto las medidas preventivas y correctivas que sean convenientes para el mejoramiento de la organización y funcionamiento del Organismo;
 
@@ -384,3 +392,9 @@ ROGELIO CERDA PÉREZ
 EL C. SECRETARIO DE FINANZAS Y TESORERO GENERAL DEL ESTADO
 
 RUBÉN EDUARDO MARTÍNEZ DONDÉ.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 24 DE DICIEMBRE DE 2010.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
