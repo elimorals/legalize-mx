@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5696
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-20"
-last_updated: "2010-05-07"
+last_updated: "2010-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE MAYO DE 2010
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el jueves 20 de septiembre de 2007.
 
@@ -293,9 +293,13 @@ VI. Secretaría de Educación;
 
 VII. Secretaría de Salud;
 
-VIII. Consejo de Desarrollo Social;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
-IX. Consejo de Relaciones Laborales y Productividad;
+VIII. Secretaría de Desarrollo Social;
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+IX. Secretaría de Trabajo;
 
 X. El Sistema para el Desarrollo Integral de la Familia;
 
@@ -631,9 +635,11 @@ XII. Celebrar convenios de cooperación, coordinación y concertación en la mat
 
 XIII. Las demás previstas para el cumplimiento de la presente Ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 39.
 
-Corresponde al Consejo de Desarrollo Social:
+Corresponde a la Secretaría de Desarrollo Social:
 
 I. Fomentar el desarrollo social desde la visión de protección integral de los derechos humanos de las mujeres con perspectiva de género, para garantizarles una vida libre de violencia;
 
@@ -653,9 +659,11 @@ VIII. Celebrar convenios de cooperación, coordinación y concertación en la ma
 
 IX. Las demás previstas para el cumplimiento de la presente Ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 40.
 
-Corresponde al Consejo de Relaciones Laborales y Productividad:
+Corresponde a la Secretaría de Trabajo:
 
 I. Implementar los programas necesarios para promover el empleo de mujeres víctimas de violencia para favorecer la construcción de un nuevo proyecto para sus vidas;
 
@@ -900,3 +908,7 @@ GILBERTO MONTIEL AMOROSO
 P.O. 7 DE MAYO DE 2010.
 
 Único. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE DICIEMBRE DE 2010.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
