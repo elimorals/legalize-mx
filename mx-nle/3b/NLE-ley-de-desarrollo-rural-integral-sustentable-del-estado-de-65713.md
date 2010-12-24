@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-desarrollo-rural-integral-sustentable-del-estado-de-6571
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-31"
-last_updated: "2008-12-31"
+last_updated: "2010-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65713&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE DESARROLLO RURAL INTEGRAL SUSTENTABLE DEL ESTADO DE NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 31 de diciembre de 2008.
 
@@ -233,7 +233,9 @@ II. La Secretaría de Finanzas y Tesorería General;
 
 III. La Secretaría General de Gobierno;
 
-IV. El Consejo de Desarrollo Social;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+IV. La Secretaría de Desarrollo Social;
 
 V. La Procuraduría General de Justicia;
 
@@ -823,6 +825,8 @@ Se fomentará y fortalecerá en coadyuvancia con las autoridades competentes, la
 
 ### CAPÍTULO I. DEL DESARROLLO SOCIAL
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
 ## TÍTULO VI. DE LA COMERCIALIZACIÓN DE BIENES Y SERVICIOS DEL SECTOR RURAL
 
 ### CAPÍTULO II. DE LOS TRABAJADORES Y JORNALEROS AGRÍCOLAS
@@ -1041,7 +1045,7 @@ Para fines de consolidar la formación rural, se crea la Comisión Estatal de Ca
 
 ###### Artículo 102.
 
-El Ejecutivo del Estado, a través del Consejo de Desarrollo Social y la Corporación, dará atención prioritaria, mediante acciones de política social, a las personas, comunidades y organizaciones que enfrenten menor desarrollo o capacidades diferentes y vulnerables, de conformidad con los estudios que elaboren para el efecto, la Federación y el Estado.
+El Ejecutivo del Estado, a través de la Secretaría de Desarrollo Social y la Corporación, dará atención prioritaria, mediante acciones de política social, a las personas, comunidades y organizaciones que enfrenten menor desarrollo o capacidades diferentes y vulnerables, de conformidad con los estudios que elaboren para el efecto, la Federación y el Estado.
 
 ###### Artículo 103.
 
@@ -1220,3 +1224,9 @@ LOMBARDO GUAJARDO GUAJARDO
 EL C. SECRETARIO DE SALUD
 
 GILBERTO MONTIEL AMOROSO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 24 DE DICIEMBRE DE 2010.
+
+Único.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
