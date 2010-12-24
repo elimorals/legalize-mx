@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-transporte-para-la-movilidad-sustentable-del-estado-5192
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-30"
-last_updated: "2009-06-10"
+last_updated: "2010-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE TRANSPORTE PARA LA MOVILIDAD SUSTENTABLE DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JUNIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 30 de septiembre de 2006.
 
@@ -169,7 +169,9 @@ IV.- Los Municipios por conducto de sus Presidentes Municipales o la dependencia
 
 V.- Los demás que señalen esta Ley, su Reglamento y demás disposiciones legales aplicables, o aquellos que sean designados mediante acuerdos o convenios de las autoridades señaladas en las fracciones que anteceden o con las Autoridades Federales.
 
-En las acciones en materia de vialidad en Zonas Conurbadas, las Comisiones establecidas en los términos de la Ley de Ordenamiento Territorial de los Asentamientos Humanos y de Desarrollo Urbano del Estado de Nuevo León, fungirán como mecanismos de coordinación entre el Estado y los Municipios.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+En las acciones en materia de vialidad en Zonas Conurbadas, las Comisiones establecidas en los términos de la Ley de Desarrollo Urbano del Estado de Nuevo León, fungirán como mecanismos de coordinación entre el Estado y los Municipios.
 
 Para la autorización de nuevos desarrollos inmobiliarios los municipios recabarán la factibilidad de la prestación de transporte público de pasajeros a través de la Agencia, sin la cual no se dará la autorización correspondiente.
 
@@ -271,7 +273,9 @@ I. Servir como foro de concertación para conciliar y equilibrar las opiniones y
 
 II. Proponer a la Agencia la realización de acciones de mejora y aseguramiento de la calidad de los servicios que se proporcionen conforme a esta Ley;
 
-III. Colaborar con la Agencia para la Planeación del Desarrollo Urbano de Nuevo León en la elaboración y diseño de los planes, programas y estudios de transporte y vialidad;
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+III. Colaborar con la Secretaria de Desarrollo Sustentable en la elaboración y diseño de los planes, programas y estudios de transporte y vialidad;
 
 IV. Colaborar con el SINTRAM en los proyectos y actividades que se acuerden con el Comité Técnico del mismo;
 
@@ -311,7 +315,9 @@ IV. Vocales:
 
 1) Un representante de la Secretaría General de Gobierno del Estado;
 
-2) Un representante de la Agencia para la Planeación del Desarrollo Urbano del Estado;
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+2) Un representante de la Secretaria de Desarrollo Sustentable;
 
 > <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2007)</small>
 
@@ -323,7 +329,9 @@ IV. Vocales:
 
 6) Un representante de los demás Municipios del Estado que no formen parte del Área Metropolitana de Monterrey, cuando se traten en el Consejo asuntos relacionados con sus respectivas jurisdicciones;
 
-7) Dos representantes de organizaciones que representen los intereses de los trabajadores usuarios del servicio público de transporte, nombrados por el Titular del Consejo de Relaciones Laborales y Productividad del Estado;
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+7) Dos representantes de organizaciones que representen los intereses de los trabajadores usuarios del servicio público de transporte, nombrados por el Secretario del Trabajo.;
 
 8) Un representante de la Universidad Autónoma de Nuevo León;
 
@@ -569,9 +577,11 @@ III.- El Sistema de Transporte de Carga, SITCA, Se define en los términos del a
 
 ### CAPÍTULO II. DE LA PLANEACIÓN
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 20.
 
-De conformidad a lo establecido en la Ley Estatal de Planeación, la Agencia, Metrorrey y la Agencia para la Planeación del Desarrollo Urbano de Nuevo León tendrán la responsabilidad conjunta y la atribución de elaborar, aprobar, ejecutar y evaluar el Plan Sectorial de Transporte y Vialidad.
+De conformidad a lo establecido en la Ley Estatal de Planeación, la Agencia, Metrorrey y la Secretaría de Desarrollo Sustentable tendrán la responsabilidad conjunta y la atribución de elaborar, aprobar, ejecutar y evaluar el Plan Sectorial de Transporte y Vialidad.
 
 ###### Artículo 21.
 
@@ -589,7 +599,9 @@ III.- Establecerá los sistemas de gestión financiera entre las autoridades del
 
 IV.- Promoverá el equilibrio de los sectores público y privado tendientes a la estabilidad económica y social;
 
-V.- En su operación se regirá bajo los principios de transparencia de objetivos, metas y acciones y de conformidad con la Ley de Acceso a la Información Pública;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+V.- En su operación se regirá bajo los principios de transparencia de objetivos, metas y acciones y de conformidad con la Ley de Transparencia y Acceso a la Información;
 
 VI.- Establecerá por conducto del Consejo mecanismos para la participación activa y responsable de la sociedad y de las organizaciones del transporte así como su incorporación al proceso de planeación;
 
@@ -1241,9 +1253,9 @@ X. En todas las etapas del proceso estará presente un Comité integrado por un 
 
 Para efectos del apartado B) del presente artículo, no se otorgarán concesiones del servicio de transporte público en la modalidad de vehículos de alquiler a los representantes de elección popular y a los miembros del Poder Judicial, así como a todas aquellas personas que recauden, manejen, administren o resguarden recursos económicos federales, estatales, o municipales, cuando estos últimos sean transferidos, descentralizados, concertados o convenidos por el Estado con la Federación o con sus Municipios.
 
-> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
-Tampoco se otorgarán concesiones del servicio de transporte público en la modalidad de vehículos de alquiler a los ciudadanos que conformen los organismos electorales, los que fueren designados para integrar el Tribunal Electoral a que se refiere la Ley Electoral del Estado y los Comisionados de la Comisión de Acceso a la Información Pública; ni a los cónyuges de los servidores públicos de éste y el párrafo anterior, ni a sus parientes hasta el cuarto grado por afinidad o consanguinidad.
+Tampoco se otorgarán concesiones del servicio de transporte público en la modalidad de vehículos de alquiler a los ciudadanos que conformen los organismos electorales, los que fueren designados para integrar el Tribunal Electoral a que se refiere la Ley Electoral del Estado y los Comisionados de la Comisión de Transparencia y Acceso a la Información; ni a los cónyuges de los servidores públicos de éste y el párrafo anterior, ni a sus parientes hasta el cuarto grado por afinidad o consanguinidad.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE NOVIEMBRE DE 2007)</small>
 
@@ -1547,9 +1559,11 @@ IV.- Haber sido previamente calificado de cualquier incapacidad mental o física
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 88.
 
-El Sistema Estatal de Información y Registro de Transporte será público, por lo que cualquier persona podrá obtener la información y copias certificadas que solicite previo el pago de los derechos correspondientes. Salvo las excepciones que señala la Ley de Acceso a la Información Pública del Estado de Nuevo León, las prescripciones contenidas en este capítulo no aplican al SITCA.
+El Sistema Estatal de Información y Registro de Transporte será público, por lo que cualquier persona podrá obtener la información y copias certificadas que solicite previo el pago de los derechos correspondientes. Salvo las excepciones que señala la Ley de Transparencia y Acceso a la Información del Estado de Nuevo León, las prescripciones contenidas en este capítulo no aplican al SITCA.
 
 Las autoridades estatales y municipales, así como los concesionarios y conductores, están obligados a proporcionar la información necesaria para integrar y mantener actualizado el Sistema Estatal de Información y Registro de Transporte.
 
@@ -1966,3 +1980,7 @@ Artículo Único. El presente Decreto entrará en vigor al día siguiente de su 
 P.O. 10 DE JUNIO DE 2009.
 
 Único.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE DICIEMBRE DE 2010.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
