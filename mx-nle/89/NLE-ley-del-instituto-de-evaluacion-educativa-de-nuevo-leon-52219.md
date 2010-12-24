@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-instituto-de-evaluacion-educativa-de-nuevo-leon-52219"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-30"
-last_updated: "2010-12-03"
+last_updated: "2010-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52219&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DEL INSTITUTO DE EVALUACION EDUCATIVA DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 30 de diciembre de 2005.
 
@@ -357,9 +357,11 @@ XXI. Las que le confieran las demás disposiciones jurídicas aplicables, así c
 
 #### SECCIÓN CUARTA. DEL COMISARIO
 
+> <small>(REFORMADO, 24 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 22.
 
-El Gobernador del Estado a propuesta de la Contraloría Interna, en los términos de la legislación aplicable, designará y removerá a un Comisario propietario y un suplente, quien deberá llevar a cabo las funciones de vigilancia de la operación del Instituto.
+El Gobernador del Estado a propuesta de la Contraloría y Transparencia Gubernamental, en los términos de la legislación aplicable, designará y removerá a un Comisario propietario y un suplente, quien deberá llevar a cabo las funciones de vigilancia de la operación del Instituto.
 
 ###### Artículo 23.
 
@@ -367,9 +369,13 @@ El Comisario tendrá las siguientes facultades:
 
 Vigilar que los gastos, cuentas y administración de los recursos del Instituto se encaminen adecuadamente para el cumplimiento de su objeto y facultades, ajustándose en todo momento a lo que dispone esta Ley, los planes y presupuestos aprobados, así como otras disposiciones aplicables;
 
-Solicitar la información y documentación necesarias y efectuar los actos que se requieran para el adecuado cumplimiento de sus funciones, sin perjuicio de las tareas que le encomiende la Contraloría Interna de la Administración Pública Estatal;
+> <small>(REFORMADO, 24 DE DICIEMBRE DE 2010)</small>
 
-Rendir un informe anual tanto a la Junta Directiva como a la Contraloría Interna de la Administración Pública Estatal;
+Solicitar la información y documentación necesarias y efectuar los actos que se requieran para el adecuado cumplimiento de sus funciones, sin perjuicio de las tareas que le encomiende la Contraloría y Transparencia Gubernamental;
+
+> <small>(REFORMADO, 24 DE DICIEMBRE DE 2010)</small>
+
+Rendir un informe anual tanto a la Junta Directiva como a la Contraloría y Transparencia Gubernamental;
 
 Recomendar a la Junta Directiva y al Director General las medidas preventivas y correctivas que sean convenientes para el mejoramiento de la organización y funcionamiento del Instituto;
 
@@ -462,3 +468,7 @@ Artículo Tercero.- Se respetarán los derechos del personal y trabajadores que 
 P.O. 3 DE DICIEMBRE DE 2010.
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 24 DE DICIEMBRE DE 2010.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
