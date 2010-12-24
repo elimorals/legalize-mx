@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-prevencion-y-atencion-integral-de-la-violencia-49106"
 country: "mx"
 rank: "ley"
 publication_date: "2006-02-15"
-last_updated: "2008-07-07"
+last_updated: "2010-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49106&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE PREVENCION Y ATENCION INTEGRAL DE LA VIOLENCIA FAMILIAR EN EL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JULIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 15 de febrero de 2006.
 
@@ -101,9 +101,11 @@ h) Por Omisión: Abuso de poder mediante supresión o privación de alimento, ma
 
 Corresponde al Gobernador, a las dependencias y entidades que integran la administración pública estatal, la aplicación de esta Ley, así como la coordinación y vinculación con los municipios y los organismos de los sectores privado y social.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O, 24 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 4º.
 
-El Consejo Estatal para la Prevención y Atención Integral de la Violencia Familiar en el Estado de Nuevo León, es un órgano que tendrá por objeto coordinar las acciones derivadas de los programas a cargo de las dependencias y entidades de la administración pública estatal, tendientes prevenir y atender la violencia familiar, en colaboración con los otros Poderes del Estado, las instituciones y organismos de los sectores público, privado y social. Estará presidido en forma honoraria por el Titular del Ejecutivo del Estado e integrado por los titulares de las siguientes dependencias y entidades:
+El Consejo Estatal para la Prevención y Atención Integral de la Violencia Familiar en el Estado de Nuevo León, es un órgano que tendrá por objeto coordinar las acciones derivadas de los programas a cargo de las dependencias y entidades de la administración pública estatal, tendientes (sic) prevenir y atender la violencia familiar, en colaboración con los otros Poderes del Estado, las instituciones y organismos de los sectores público, privado y social. Estará presidido en forma honoraria por el Titular del Ejecutivo del Estado e integrado por los titulares de las siguientes dependencias y entidades:
 
 La Secretaría General de Gobierno;
 
@@ -115,7 +117,7 @@ La Secretaría de Educación;
 
 La Procuraduría General de Justicia;
 
-El Consejo de Desarrollo Social;
+La Secretaría de Desarrollo Social;
 
 El Instituto Estatal de las Mujeres;
 
@@ -492,3 +494,7 @@ GILBERTO MONTIEL AMOROSO
 P.O. 7 DE JULIO DE 2008.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE DICIEMBRE DE 2010.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
