@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-instituto-estatal-de-las-mujeres-nuevo-leon-35808"
 country: "mx"
 rank: "ley"
 publication_date: "2003-12-17"
-last_updated: "2010-12-03"
+last_updated: "2010-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35808&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DEL INSTITUTO ESTATAL DE LAS MUJERES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 17 de diciembre de 2003.
 
@@ -235,7 +235,9 @@ f) Secretaría de Salud;
 
 g) Secretaría de Desarrollo Económico;
 
-h) Consejo de Desarrollo Social;
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+h) Secretaría de Desarrollo Social;
 
 i) El Sistema para el Desarrollo Integral de la Familia del Estado de Nuevo León; y
 
@@ -401,9 +403,9 @@ XVI. Coordinarse con los responsables del área de equidad de género en cada de
 
 XVII. Impulsar la creación de institutos municipales de las mujeres y la apertura de oficinas regionales y municipales del Instituto Estatal de las Mujeres;
 
-> <small>(ADICIONADA, P.O. 14 DE JULIO DE 2006)</small>
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
-XVIII. Brindar la información pública que le sea solicitada al Organismo de conformidad con la Ley de Acceso a la Información Pública; y
+XVIII. Brindar información pública que le sea solicitada a el Organismo de conformidad a la Ley de Transparencia y Acceso a la Información; y
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 14 DE JULIO DE 2006)</small>
 
@@ -441,9 +443,11 @@ VI. Las demás que establezca esta Ley, otros ordenamientos legales y el Reglame
 
 #### Sección Quinta. Del Órgano de Vigilancia y Control Interno del Instituto
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 24.
 
-A propuesta de la Contraloría Interna, el Gobernador del Estado designará y removerá a un Comisario o Comisaria quien deberá llevar a cabo las funciones de vigilancia y control interno del Instituto Estatal de las Mujeres, de conformidad con la normatividad estatal aplicable.
+A propuesta de la Contraloría y Transparencia Gubernamental, el Gobernador del Estado Designara y removerá a un Comisario o Comisaria quien deberá llevar a cabo las funciones de vigilancia y control interno del Instituto Estatal de las Mujeres, de conformidad con la normatividad estatal aplicable.
 
 ###### Artículo 25.
 
@@ -451,15 +455,15 @@ El Comisario o Comisaria tendrá las siguientes facultades:
 
 I. Vigilar que los gastos, cuentas y administración de los recursos del Instituto Estatal de las Mujeres se encaminen adecuadamente para el cumplimiento de sus objetivos, ajustándose en todo momento a lo que dispone esta Ley, los planes y presupuestos aprobados, así como otras disposiciones aplicables;
 
-> <small>(REFORMADA, P.O. 14 DE JULIO DE 2006)</small>
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
-II. Solicitar la información y documentación y efectuar los actos que se requieran para el adecuado cumplimiento de sus funciones, sin perjuicio de las tareas que le encomiende la Contraloría Interna del Ejecutivo;
+II. Solicitar la información y documentación y efectuar los actos que se requieran para el adecuado cumplimiento de sus funciones, sin perjuicio de las tareas que le encomiende la Contraloría y Transparencia Gubernamental;
 
 III. Recomendar a la Junta de Gobierno y a la Presidencia Ejecutiva las medidas preventivas y correctivas que sean convenientes para el mejoramiento de la organización y funcionamiento del Instituto;
 
-> <small>(REFORMADA, P.O. 14 DE JULIO DE 2006)</small>
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
-IV. Rendir un informe anual a la Junta de Gobierno remitiéndole copia del mismo a la Contraloría Interna del Ejecutivo; y
+IV. Rendir un informe anual a la Junta de Gobierno remitiéndole copia del mismo a la Contraloría y Transparencia Gubernamental; y
 
 > <small>(REFORMADA, P.O. 14 DE JULIO DE 2006)</small>
 
@@ -568,3 +572,7 @@ Artículo Único.- El presente Decreto entrará en vigor al siguiente día de su
 P.O. 3 DE DICIEMBRE DE 2010.
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 24 DE DICIEMBRE DE 2010.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
