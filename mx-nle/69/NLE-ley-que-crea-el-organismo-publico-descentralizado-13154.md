@@ -4,7 +4,7 @@ identifier: "NLE-ley-que-crea-el-organismo-publico-descentralizado-13154"
 country: "mx"
 rank: "ley"
 publication_date: "1988-09-09"
-last_updated: "2004-11-12"
+last_updated: "2010-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13154&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO "RED ESTATAL DE AUTOPISTAS DE NUEVO LEON"
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE NOVIEMBRE DE 2004 Y REPUBLICADA, 15 DE NOVIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 9 de septiembre de 1988.
 
@@ -115,7 +115,9 @@ II. Un Secretario, que será designado por el Presidente;
 
 III. El Secretario de Finanzas y Tesorero General del Estado, con el carácter de Vocal;
 
-IV. El Secretario de Obras Públicas y Transportes, con carácter de Vocal; y
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
+IV. El Secretario de Obras Públicas, con carácter de Vocal; y
 
 V. El Secretario de Programación y Desarrollo, con el carácter de Vocal.
 
@@ -195,9 +197,11 @@ VII. Las demás que establezcan las disposiciones jurídicas aplicables.
 
 Para el eficaz y eficiente despacho de los asuntos que le sean encomendados, el Director general se auxiliará de las unidades administrativas y del personal necesario para el ejercicio de sus atribuciones en los términos de la fracción III del artículo que antecede de esta Ley, de la Ley Orgánica de la Administración Pública y de las demás disposiciones jurídicas aplicables.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 13o.
 
-Para llevar a cabo las labores de vigilancia de la operación del organismo, habrá un Comisario designado por el Ejecutivo Estatal a propuesta de la Contraloría General del Estado en los términos de la Fracción IX del Artículo 28 de la Ley Orgánica de la Administración Pública y de las demás disposiciones jurídicas aplicables.
+Para llevar a cabo las labores de vigilancia de la operación del organismo, habrá un Comisario designado por el Ejecutivo Estatal a propuesta de la Contraloría y Transparencia Gubernamental en los términos del artículo 33 Fracción VI de la Ley Orgánica de la Administración Pública del Estado de Nuevo León y las demás disposiciones jurídicas aplicables.
 
 ###### ARTICULO 14o.
 
@@ -310,3 +314,7 @@ Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de s
 Artículo Segundo.- Toda referencia a fideicomisos en la Ley de Administración Financiera para el Estado de Nuevo León, se entenderá hecha a fideicomisos públicos, a menos que se especifique lo contrario.
 
 Artículo Tercero.- Las disposiciones del presente Decreto no le serán aplicables a los fideicomisos constituidos antes de la entrada en vigor del mismo.
+
+P.O. 24 DE DICIEMBRE DE 2010.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
