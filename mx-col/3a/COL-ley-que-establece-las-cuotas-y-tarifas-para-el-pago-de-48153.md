@@ -4,7 +4,7 @@ identifier: "COL-ley-que-establece-las-cuotas-y-tarifas-para-el-pago-de-48153"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-31"
-last_updated: "2009-05-09"
+last_updated: "2010-12-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48153&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PUBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE ARMERIA, COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE MAYO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 31 de diciembre de 2005.
 
@@ -1047,17 +1047,25 @@ I.- 4 por ciento de descuento a los usuarios de cuota fija que paguen el servici
 
 II.- 8 por ciento de descuento a los usuarios de cuota fija que paguen el servicio de agua potable, alcantarillado y saneamiento por anualidad durante los meses de enero y febrero.
 
-> <small>(REFORMADA PRIMER PARRAFO, P.O. 4 DE ABRIL DE 2006)</small>
+> <small>(REFORMADA PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
-III.- Los usuarios que acrediten ser ciudadanos mexicanos y tener la calidad de pensionados o jubilados tendrán derecho a un descuento del 40 por ciento en el pago de los derechos por servicios públicos de agua potable, alcantarillado y saneamiento respecto de la casa que habitan, para lo cual deberán exhibir a el Organismo previamente los siguientes documentos:
+III.- Los usuarios que acrediten ser ciudadanos mexicanos y tener la calidad de pensionados o jubilados tendrán derecho a un descuento del 50 por ciento en el pago de los derechos por servicios públicos de agua potable, alcantarillado y saneamiento, respecto de-la casa que habitan, siempre y cuando se cubra de manera anticipada todo el año en los meses de enero a abril o en pago puntual, para lo cual deberán exhibir a el Organismo previamente los siguientes documentos:
+
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2006)</small>
 
 a).- Original y copia del talón o recibo de ingresos y credencial que lo acredite como pensionado o jubilado expedidos por institución oficial mexicana; y
 
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2006)</small>
+
 b).- Identificación oficial con fotografía.
+
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2006)</small>
 
 En caso de que el usuario sujeto al beneficio de esta fracción, realice su pago por anualidad adelantada, no tendrá derecho al descuento por pago anticipado.
 
-IV.- 50 por ciento de descuento a los usuarios de cuota fija mayores de 60 años de edad o discapacitados, dicho descuento se aplicará respecto de la casa que habiten, siempre y cuando se cubra de manera anticipada todo el año en los meses de enero y febrero, para tal efecto, deberán de acreditar cualquiera de las dos hipótesis a que hace referencia esta fracción con documento idóneo para ello, dejando copia del mismo para los efectos que procedan.
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2010)</small>
+
+IV.- 50 por ciento de descuento en el pago bimestral o anual, adelantado o puntual de los servicios públicos de agua potable, alcantarillado y saneamiento a usuarios de cuota fija, mayores de 60 años de edad o discapacitados. Dicho descuento se aplicara respecto de la casa que habiten, para tal efecto, deberán de acreditar cualquiera de las dos hipótesis a que hace referencia esta fracción con documento idóneo para ello, dejando copia del mismo para los efectos que procedan.
 
 V.- 50 por ciento de descuento a los usuarios de cuota fija trabajadores del H. Ayuntamiento de Armería, Colima y sus Organismos Descentralizados, dicho descuento se aplicará respecto de la casa que habiten, siempre y cuando se cubra de manera anticipada todo el año en los meses de enero y febrero, para tal efecto, deberán de acreditar cualquiera de las dos hipótesis a que hace referencia esta fracción con documento idóneo para ello, dejando copia del mismo para los efectos que procedan.
 
@@ -1124,3 +1132,7 @@ P.O. 7 DE MARZO DE 2009.
 P.O. 9 DE MAYO DE 2009.
 
 ÚNICO.- El presente Decreto entrará en vigor el día (sic) su aprobación y deberá publicarse en el Periódico Oficial "El Estado de Colima".
+
+P.O. 25 DE DICIEMBRE DE 2010.
+
+ÚNICO.- El presente Decreto entrará en vigor el 1° de enero de 2011, previa su publicación en el Periódico Oficial "EL Estado de Colima".
