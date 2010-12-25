@@ -4,7 +4,7 @@ identifier: "COL-ley-que-establece-las-cuotas-y-tarifas-para-el-pago-de-48149"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-31"
-last_updated: "2009-09-26"
+last_updated: "2010-12-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48149&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "COL"
 ---
 # LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PUBLICOS DE AGUA POTABLE Y ALCANTARILLADO DEL MUNICIPIO DE COQUIMATLAN, COLIMA
 
-LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PUBLICOS DE AGUA POTABLE Y ALCANTARILLADO DEL MUNICIPIO DE COQUIMATLAN, COLIMA
+LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE Y ALCANTARILLADO DEL MUNICIPIO DE COQUIMATLAN, COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE SEPTIEMBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Colima, el sábado 31 de diciembre de 2005.
 
@@ -51,7 +51,7 @@ D E C R E T O No. 315
 
 "ARTÍCULO ÚNICO.- Es de aprobarse y se aprueba la Ley que Establece las Cuotas y Tarifas para el Pago de Derechos por los Servicios Públicos de Agua Potable y Alcantarillado del Municipio de Coquimatlán, Colima, para quedar en los siguientes términos:
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 Ley que Establece las Cuotas y Tarifas para el Pago de Derechos por los Servicios Públicos de Agua Potable, Alcantarillado y Saneamiento del Municipio de Coquimatlán, Colima.
 
@@ -87,7 +87,7 @@ b) Doméstico zona urbana:
 
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
-Comprende: La cabecera municipal, Las colonias: Camichines I, Camichines II, Cazumba I, Cazumba II, Las Higueras I, Las Higueras II, Elías Zamora, Emiliano Zapata, Jardines del Llano, Las Moras, Las Moras II,Santa Rita y San Miguel, 2.775 S/M
+Comprende: La cabecera municipal, Las colonias: Camichines I, Camichines II, Cazumba I, Cazumba II, Las Higueras I, Las Higueras II, Elías Zamora, Emiliano Zapata, Jardines del Llano, Las Moras, Las Moras II, San Miguel I, II y III, Santa Rita y Valle de las Huertas, 2.775 S/M
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
@@ -113,13 +113,17 @@ Comprenden los negocios que a continuación se describen: abarrotes, abarrotes c
 
 b).- Consumo medio:
 
-Comprenden: academias y escuelas, alquiler de loza, muebles y manteles, billares, carnicerías, cenadurías, estacionamientos, fabricación de dulces, fondas y cocinas económicas, funerarias, gasolineras sin servicio de lavado, neverías, paleterías, servicios de auxiliares de diagnóstico, salones de belleza, talleres de artesanías, tenerías y curtidurías, vulcanizadoras y/o vitalizadoras de llantas; cubrirán una cuota bimestral de: 3.629 S/M
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+
+Comprenden: academias y escuelas, alquiler de loza, muebles y manteles, locales para eventos, locales para fiestas y locales comerciales para renta, billares, carnicerías, cenadurías, tortillerías, estacionamientos, fabricación de dulces, fondas, cocinas económicas y rosticerías, funerarias, gasolineras sin servicio de lavado, fabricación de nieves y paletas, servicios de auxiliares de diagnóstico, salones de belleza, talleres de artesanías, tenerías y curtidurías, auto detallado, vulcanizadoras y/o vitalizadoras de llantas; cubrirán una cuota bimestral de: 3.629 S/M
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 c).- Consumo alto:
 
-Comprenden: cantinas, bares, empaques de fruta, hoteles, restaurantes, centros botaneros, lavanderías, lavados de carros, purificador y embotelladora de agua, para consumo humano, rastros, empacadoras, ruedos para jaripeos, plazas de toros y viveros; pagarán una cuota bimestral de: 19.457 S/M
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+
+Comprenden: cantinas, bares, empaques de fruta, hoteles, restaurantes, centros bataneros, lavanderías, lavados de carros, purificador y embotelladora de agua para consumo humano, rastros, empacadoras, ruedos para jaripeos, plazas de toros, viveros jardines públicos y jardines en camellones; pagarán una cuota bimestral de: 19.457 S/M
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
@@ -317,7 +321,7 @@ I.- Se concede un 12% de descuento en el pago de los derechos por el servicio de
 
 II.- Se concede un 8% de descuento a los usuarios de cuota fija que paguen el servicio de agua potable, alcantarillado y saneamiento por anualidad durante los meses de marzo y abril.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 III.- Los usuarios que acrediten ser ciudadanos mexicanos y tener la calidad de pensionados o jubilados con una percepción no mayor a 3 salarios mínimos diarios de la zona económica del Estado de Colima, tendrán derecho a un descuento del 50 por ciento en el pago de los derechos por servicios públicos de agua potable, alcantarillado y saneamiento, respecto de la casa que habitan, para lo cual deberán exhibir a La Comisión previamente los siguientes documentos:
 
@@ -369,7 +373,7 @@ Dado en Palacio de Gobierno, a los 31 días del mes de diciembre del año dos mi
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. JESÚS SILVERIO CAVAZOS CEBALLOS. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, LIC. JUAN JOSÉ SEVILLA SOLÓRZANO. Rúbrica. EL SECRETARIO DE FINANZAS, ING. HUGO A. VÁZQUEZ MONTES. Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 4 DE ABRIL DE 2006.
 
@@ -398,3 +402,7 @@ P.O. 9 DE MAYO DE 2009.
 P.O. 26 DE SEPTIEMBRE DE 2009.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 25 DE DICIEMBRE DE 2010.
+
+ÚNICO.- El presente Decreto entrará en vigor el día 10 de Enero de 2011, previa su publicación en el Periódico Oficial del Estado.
