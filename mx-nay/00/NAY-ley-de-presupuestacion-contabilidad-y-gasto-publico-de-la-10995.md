@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-presupuestacion-contabilidad-y-gasto-publico-de-la-10995
 country: "mx"
 rank: "ley"
 publication_date: "1989-11-29"
-last_updated: "2007-12-15"
+last_updated: "2010-12-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10995&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE PRESUPUESTACION, CONTABILIDAD Y GASTO PUBLICO DE LA ADMINISTRACION DEL GOBIERNO DEL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 2010.
 
 Ley publicada en la Séptima Sección del Periódico Oficial del Estado de Nayarit, el miércoles 29 de noviembre de 1989.
 
@@ -73,11 +73,11 @@ La Presupuestación del Gasto Público Estatal se basará en las orientaciones, 
 
 Las Dependencias Coordinadoras de Sector, en los términos de las disposiciones aplicables, coordinarán la programación y la presupuestación de las Entidades agrupadas en su Sector.
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 6o.
 
-En el Poder Ejecutivo, las actividades objeto del presente ordenamiento se ajustarán a las bases, procedimientos y requisitos que establece esta Ley, su Reglamento y a las disposiciones administrativas que en el ámbito de sus respectivas competencias, expidan las Secretarías de Finanzas y de la Contraloría General del Estado.
+En el Poder Ejecutivo, las actividades objeto del presente ordenamiento se ajustarán a las bases, procedimientos y requisitos que establece esta Ley, su Reglamento y a las disposiciones administrativas que en el ámbito de sus respectivas competencias, expidan las Secretarías de Administración y de la Contraloría General del Estado.
 
 ### CAPITULO II. DE LOS PRESUPUESTOS DE EGRESOS
 
@@ -87,9 +87,11 @@ En el Poder Ejecutivo, las actividades objeto del presente ordenamiento se ajust
 
 El Gasto Público Estatal se basará en presupuestos que se formularán con apoyo en programas que señalen objetivos, metas y unidades responsables de su ejecución.
 
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 8o.
 
-La Secretaría de Finanzas, al examinar los Presupuestos cuidará que simultáneamente se defina el tiempo y fuente de recursos para su financiamiento.
+La Secretaría de Administración, al examinar los Presupuestos cuidará que simultáneamente se defina el tiempo y fuente de recursos para su financiamiento.
 
 ###### ARTICULO 9o.
 
@@ -99,9 +101,9 @@ El Presupuesto de Egresos del Estado de Nayarit será el que contenga el Decreto
 
 Para la formulación del Proyecto del Presupuesto de Egresos, los entes públicos que deban quedar incluidos en el mismo, elaborarán sus Anteproyectos con base en los programas respectivos.
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
-Los entes públicos, con excepción de los Poderes Legislativo y Judicial, remitirán su respectivo Anteproyecto a la Secretaría de Finanzas, con sujeción a las normas, montos y plazos que el Titular del Poder Ejecutivo establezca por medio de la propia Secretaría.
+Los entes públicos, con excepción de los Poderes Legislativo y Judicial, remitirán su respectivo Anteproyecto a la Secretaría de Administración, con sujeción a las normas, montos y plazos que el Titular del Poder Ejecutivo establezca por medio de la propia Secretaría.
 
 > <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2007)</small>
 
@@ -111,9 +113,11 @@ Los Poderes Legislativo y Judicial, a través de sus Órganos competentes, formu
 
 ARTICULO 10 A.- En el proyecto de Presupuesto de Egresos se deberán prever las partidas que sean necesarias para cumplir con cualesquier obligación de llevar a cabo aportaciones a los fideicomisos de financiamiento, o las que se requieran para efectos de cumplimiento a los compromisos plurianuales de los contratos administrativos de largo plazo; incluyendo las obligaciones contraídas en estos en virtud de su celebración, constitución y durante la vigencia de dichas obligaciones, las que se considerarán preferentes en el ejercicio fiscal correspondiente y los subsecuentes hasta su total cumplimiento.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 11.
 
-La Secretaría de Finanzas queda facultada para formular el proyecto de Presupuesto de los entes públicos cuando no le sea presentado en los plazos que al efecto se les hubiera señalado.
+La Secretaría de Administración queda facultada para formular el proyecto de Presupuesto de los entes públicos cuando no le sea presentado en los plazos que al efecto se les hubiera señalado.
 
 Cuando la situación señalada en el párrafo que antecede se presente en los Poderes Legislativo y Judicial, se establecerá como propuesta de Presupuesto la del ejercicio inmediato anterior.
 
@@ -139,11 +143,11 @@ VIII.- Situación de las Finanzas Públicas al fin del último Ejercicio Fiscal 
 
 IX. En general, toda información que se considere útil para mostrar la proposición en forma clara y completa.
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 13.
 
-El Proyecto de Presupuesto de Egresos deberá ser presentado al Titular del Ejecutivo Estatal por la Secretaría de Finanzas a más tardar el día 15 de octubre de cada año, para ser enviado al Congreso del Estado a más tardar el día 31 de octubre del año inmediato anterior al que corresponde.
+El Proyecto de Presupuesto de Egresos deberá ser presentado al Titular del Ejecutivo Estatal por la Secretaría de Administración a más tardar el día 15 de octubre de cada año, para ser enviado al Congreso del Estado a más tardar el día 31 de octubre del año inmediato anterior al que corresponde.
 
 Cuando se trate del año en que el titular del Ejecutivo inicie su encargo en los términos del artículo 63 de la Constitución Política del Estado Libre y Soberano de Nayarit, o en su caso se trate de aquel en que entra en funciones el titular del Poder Ejecutivo federal en los términos del artículo 83 de la Constitución Política de los Estados Unidos Mexicanos, la presentación a la que se alude deberá realizarse a más tardar el 15 de diciembre.
 
@@ -155,23 +159,27 @@ A toda proposición de aumento o creación de Partidas al Proyecto de Presupuest
 
 DEL EJERCICIO Y DE LOS REGISTROS PRESUPUESTALES.
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 15.
 
-La Secretaría de Finanzas del Estado o las instituciones autorizadas por la misma, con base en las disposiciones Jurídicas aplicables, serán las encargadas de recaudar los Ingresos correspondientes a fin de solventar el ejercicio del gasto establecido en el Presupuesto de Egresos del Estado.
+La Secretaría Hacienda (sic) del Estado o las instituciones autorizadas por la misma, con base en las disposiciones jurídicas aplicables, serán las encargadas de recaudar los ingresos correspondientes a fin de solventar el ejercicio del gasto establecido en el Presupuesto de Egresos del Estado.
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 16.
 
-Será facultad del Titular del Ejecutivo y por conducto de la Secretaría de Finanzas, realizar la apertura del Presupuesto de Egresos del Estado, previa aprobación que del mismo haya efectuado el Congreso Local.
+Será facultad del Titular del Ejecutivo y por conducto de la Secretaría de Administración, realizar la apertura del Presupuesto de Egresos del Estado, previa aprobación que del mismo haya efectuado el Congreso Local.
 
 ###### ARTICULO 17.
 
 En apego a las disposiciones de esta Ley, el ejercicio del Presupuesto de Egresos tendrá como único fin el dar cumplimiento a los programas establecidos.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 18.
 
-El Titular del Ejecutivo, por conducto de la Secretaría de Finanzas, podrá autorizar erogaciones adicionales a las señaladas en el Presupuesto de Egresos del Estado, hasta por el importe de los Ingresos que se obtengan en los diversos rubros de la Ley de Ingresos aprobada y por los Ingresos Extraordinarios que se obtengan, así como de los que se deriven de Empréstitos y Financiamientos diversos autorizados, pero de estos casos los compromisos excedentes no cubiertos quedarán sujetos para los fines de su ejecución y pago, a la disponibilidad presupuestal de los años subsecuentes.
+El Titular del Ejecutivo, por conducto de la Secretaría de Administración, podrá autorizar erogaciones adicionales a las señaladas en el Presupuesto de Egresos del Estado, hasta por el importe de los ingresos que se obtengan en los diversos rubros de la Ley de Ingresos aprobada y por los Ingresos Extraordinarios que se obtengan, así como de los que se deriven de Empréstitos y Financiamientos diversos autorizados, pero de estos casos los compromisos excedentes no cubiertos quedarán sujetos para los fines de su ejecución y pago, a la disponibilidad presupuestal de los años subsecuentes.
 
 > <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2007)</small>
 
@@ -189,13 +197,17 @@ Una vez cumplidas las obligaciones precisadas en el párrafo anterior, los ingre
 
 Los montos asignados a los programas que integran el Presupuesto de Egresos, establecen el límite máximo de su ejercicio; por tanto, no podrán suministrarse recursos presupuestales mayores, salvo que de conformidad con las disposiciones aplicables, se efectúen transferencias o se otorguen ampliaciones, autorizadas por el Titular del Ejecutivo del Estado.
 
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 20.
 
-La Secretaría de Finanzas efectuará los pagos correspondientes a las erogaciones que efectúe la Administración Pública Centralizada, de conformidad con el Presupuesto de Egresos aprobado por el Congreso del Estado.
+La Secretaría de Administración efectuará los pagos correspondientes a las erogaciones que efectúe la Administración Pública Centralizada, de conformidad con el Presupuesto de Egresos aprobado por el Congreso del Estado.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 21.
 
-Las Entidades de la Administración Pública Paraestatal, dispondrán por conducto de sus Órganos de Administración de los recursos Presupuestales que se les asignen, debiendo en toda caso justificar trimestralmente ante la Secretaría de Finanzas su correcta aplicación.
+Las Entidades de la Administración Pública Paraestatal, dispondrán por conducto de sus Órganos de Administración de los recursos Presupuestales que se les asignen, debiendo en toda caso justificar trimestralmente ante la Secretaría de Administración su correcta aplicación.
 
 Los pagos correspondientes a los Poderes Legislativo y Judicial, se efectuarán por conducto de sus respectivas áreas administrativas.
 
@@ -241,15 +253,17 @@ Cuando algún Servidor Público de Confianza, perteneciente a la Administración
 
 Quienes efectúen Gasto Público Estatal estarán obligados a proporcionar a la Secretaría de la Contraloría General del Estado la información que les solicite y a permitirle a su personal la práctica de visitas y Auditorias para la comprobación del cumplimiento de las obligaciones derivadas de esta ley y de las disposiciones expedidas con base en ella.
 
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 28.
 
-Para la ejecución del Gasto Público Estatal, la Administración Pública Centralizada y Paraestatal deberá sujetarse a las previsiones de esta Ley y con exclusión de los Poderes Legislativo y Judicial, observar las disposiciones que al efecto expida la Secretaría de Finanzas.
+Para la ejecución del Gasto Público Estatal, la Administración Pública Centralizada y Paraestatal deberá sujetarse a las previsiones de esta Ley y con exclusión de los Poderes Legislativo y Judicial, observar las disposiciones que al efecto expida la Secretaría de Administración.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 29.
 
-Los beneficiarios de subsidios, aportaciones o transferencias, otorgados con cargo al Presupuesto de Egresos del Estado, deberán rendir cuenta detallada de la aplicación de los fondos relativos a las Secretarías de Finanzas y de la Contraloría General del Estado, así como la información y justificación correspondiente, en la forma y plazos en que las mismas Dependencias lo requieran, exceptuándose de esta obligación las Instituciones y Entidades dotadas de autonomía que, por determinación expresa de la Ley deban hacerla ante el Congreso del Estado.
+Los beneficiarios de subsidios, aportaciones o transferencias, otorgados con cargo al Presupuesto de Egresos del Estado, deberán rendir cuenta detallada de la aplicación de los fondos relativos a las Secretarías de Administración y de la Contraloría General del Estado, así como la información y justificación correspondiente, en la forma y plazos en que las mismas Dependencias lo requieran, exceptuándose de esta obligación las Instituciones y Entidades dotadas de autonomía que, por determinación expresa de la Ley deban hacerla ante el Congreso del Estado.
 
 El incumplimiento en la rendición de la cuenta comprobada motivará, en su caso, la inmediata suspensión de las subsecuentes ministraciones de fondos que por el mismo concepto se hubieren autorizado, así como el reintegro de lo que se haya suministrado.
 
@@ -257,27 +271,35 @@ El incumplimiento en la rendición de la cuenta comprobada motivará, en su caso
 
 Las obligaciones contempladas en este precepto se cumplirán por lo que respecta a los fideicomisos de financiamiento constituidos en términos de la Ley de Deuda Pública del Estado de Nayarit, con la presentación de los informes que se establezcan en el contrato de fideicomiso respectivo, sin que en ningún caso pueda suspenderse la ministración de los fondos que se hayan afectado a dichos contratos.
 
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 30.
 
-El Ejecutivo a través de la Secretaría de Finanzas, coordinará el establecimiento de los criterios de Contabilidad y Registro del Gasto con los Poderes Legislativo y Judicial, con la finalidad de unificarlos para los efectos de la elaboración de la Cuenta Pública.
+El Ejecutivo a través de la Secretaría de Administración, coordinará el establecimiento de los criterios de Contabilidad y Registro del Gasto con los Poderes Legislativo y Judicial, con la finalidad de unificarlos para los efectos de la elaboración de la Cuenta Pública.
 
-La Secretaría de Finanzas girará las instrucciones sobre la forma y términos en que los entes públicos especificados en el Artículo 2o., fracción III de esta Ley deban llevar su control y en su caso, rendirle sus informes para efectos de contabilización y consolidación.
+La Secretaría de Administración girará las instrucciones sobre la forma y términos en que los entes públicos especificados en el Artículo 2o., fracción III de esta Ley deban llevar su control y en su caso, rendirle sus informes para efectos de contabilización y consolidación.
 
 ### CAPITULO IV. DE LA CONTABILIDAD
 
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 31.
 
-La Secretaría de Finanzas, tendrá a su cargo la Contabilidad General del Gobierno del Estado, la cual se llevará con base acumulativa en cuanto al gasto y con base en efectivo en cuanto al Ingreso, para obtener la información financiera y facilitar la evaluación de los Presupuestos.
+La Secretaría de Administración, tendrá a su cargo la Contabilidad General del Gobierno del Estado, la cual se llevará con base acumulativa en cuanto al gasto y con base en efectivo en cuanto al Ingreso, para obtener la información financiera y facilitar la evaluación de los Presupuestos.
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 32.
 
-Será competencia de la Secretaría de Finanzas, el diseño y la instrumentación de los sistemas contables que permitan el control de las operaciones Presupuestales y Financieras de los entes públicos a que se refiere la fracción III del Artículo 2o., de esta Ley. Los establecidos en las Fracciones I y II del citado Artículo, procurarán coordinar sus criterios al respecto, con los que establezca la Secretaría de Finanzas.
+Será competencia de la Secretaría de Administración, el diseño y la instrumentación de los sistemas contables que permitan el control de las operaciones Presupuestales y Financieras de los entes públicos a que se refiere la fracción III del Articulo 2o., de esta Ley. Los establecidos en las Fracciones I y II del citado Artículo, procurarán coordinar sus criterios al respecto, con los que establezca la Secretaría de Administración.
 
-Los catálogos de cuentas que utilizarán los Organismos Descentralizados, las Empresas de participación Estatal mayoritaria y los Fideicomisos Públicos, serán autorizados expresamente por la Secretaría de Finanzas, cuando sus prevenciones de gasto hayan sido incorporados al Presupuesto de Egresos del Estado.
+Los catálogos de cuentas que utilizarán los Organismos Descentralizados, las Empresas de participación Estatal mayoritaria y los Fideicomisos Públicos, serán autorizados expresamente por la Secretaría de Administración, cuando sus prevenciones de gasto hayan sido incorporados al Presupuesto de Egresos del Estado.
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 33.
 
-Los estados financieros y demás información presupuestal que emane de la Contabilidad General, serán utilizados por la Secretaría de Finanzas, para la formulación de la Cuenta Pública Anual, la cual se someterá a consideración del Gobernador del Estado para su análisis y aprobación en su caso por la Legislatura del Estado.
+Los estados financieros y demás información presupuestal que emane de la Contabilidad General, serán utilizados por la Secretaría de Administración, para la formulación de la Cuenta Pública Anual, la cual se someterá a consideración del Gobernador del Estado para su análisis y aprobación en su caso por la Legislatura del Estado.
 
 > <small>(ADICIONADO, P.O. 4 DE MAYO DE 1994)</small>
 
@@ -285,11 +307,11 @@ Los estados financieros y demás información presupuestal que emane de la Conta
 
 ELABORACION Y PRESENTACION DE LA CUENTA PUBLICA.
 
-> <small>(REFORMADO, P.O. 4 DE MAYO DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 34.
 
-La Secretaría de Finanzas tendrá bajo su responsabilidad la contabilidad del Gobierno del Estado, la cual incluirá las cuentas para registrar tanto los activos, pasivos, capital o patrimonio, ingresos, costos y gastos, así como las asignaciones, compromisos y ejercicios correspondientes a los programas y partidas del presupuesto del Gobierno del Estado.
+La Secretaría de Administración tendrá bajo su responsabilidad la contabilidad del Gobierno del Estado, la cual incluirá las cuentas para registrar tanto los activos, pasivos, capital o patrimonio, ingresos, costos y gastos, así como las asignaciones, compromisos y ejercicios correspondientes a los programas y partidas del presupuesto del Gobierno del Estado.
 
 El catálogo de cuentas que se utilizará, será emitido y autorizado por dicha Secretaría.
 
@@ -313,19 +335,23 @@ Cada una de las dependencias llevará su propia contabilidad que se sujetará a 
 
 Cada una de las entidades llevará su propia contabilidad, la cual incluirá las cuentas para registrar los activos, pasivos, capital o patrimonio, ingresos, costos correspondientes a los programas y partidas de su propio presupuesto.
 
-> <small>(REFORMADO, P.O. 4 DE MAYO DE 1994)</small>
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 38.
 
-Las dependencias y entidades suministrarán a la Secretaría de Finanzas, con la periodicidad que éste determine, la información presupuestal, contable, financiera y de otra índole que requiera.
+Las dependencias y entidades suministrarán a la Secretaría de Administración, con la periodicidad que éste determine, la información presupuestal, contable, financiera y de otra índole que requiera.
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 39.
 
-Los estados financieros y demás información que emane de las contabilidades de las Dependencias y Entidades comprendidas en el Presupuesto de Egresos, serán consolidados por la Secretaría de Finanzas, la cual será responsable de la formulación de la Cuenta de la Hacienda Pública Estatal y someterá a la consideración del Gobernador del Estado para su presentación trimestral, ante el Congreso del Estado, a más tardar cuarenta y cinco días posteriores a la terminación del trimestre que se informe. Además, el Ejecutivo Estatal, informará de igual manera, el monto de las Participaciones Federales recibidas y la forma de distribución hacia los Municipios.
+Los estados financieros y demás información que emane de las contabilidades de las Dependencias y Entidades comprendidas en el Presupuesto de Egresos, serán consolidados por la Secretaría de Administración, la cual será responsable de la formulación de la Cuenta de la Hacienda Pública Estatal y someterá a la consideración del Gobernador del Estado para su presentación trimestral, ante el Congreso del Estado, a más tardar cuarenta y cinco días posteriores a la terminación del trimestre que se informe. Además, el Ejecutivo Estatal, informará de igual manera, el monto de las Participaciones Federales recibidas y la forma de distribución hacia los Municipios.
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 1995)</small>
 
 Una vez aprobada la Cuenta Pública, deberán publicarse en el Periódico Oficial, Órgano del Gobierno del Estado, los principales resultados alcanzados con los recursos ejercidos.
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 1995)</small>
 
 Cuando por motivos específicos de la transición del Poder Ejecutivo, relativos al último año de gestión gubernamental, la remisión de la última Cuenta Pública, se hará de manera bimestral por los meses de Julio-Agosto; y las dos primeras remisiones de la Administración del Poder Ejecutivo entrante, se efectuarán de igual manera bimestral, y comprenderán los períodos de Septiembre-Octubre y Noviembre-Diciembre.
 
@@ -373,15 +399,21 @@ Quienes ejerzan Gasto Público Estatal en cualquier monto, estarán obligados a 
 
 La Secretaría de la Contraloría General, realizará periódicamente la evaluación del ejercicio del gasto, en función de los objetivos y metas de los programas aprobados.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 39], P.O. 4 DE MAYO DE 1994)
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 45.
 
-Con base en los informes que se deriven de las evaluaciones que efectúe la Secretaría de la Contraloría, la Secretaría de Finanzas, conjuntamente con las Dependencias involucradas, efectuará las siguientes actividades:
+Con base en los informes que se deriven de las evaluaciones que efectúe la Secretaría de la Contraloría, la Secretaría de Administración, conjuntamente con las Dependencias involucradas, efectuará las siguientes actividades:
 
-I. Modificación a las Políticas, Disposiciones Administrativas y Lineamientos en materia de Gasto.
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 1994)</small>
 
-II. Determinación de las previsiones que constituyan una de las bases para el proceso, programación-presupuestación del ejercicio siguiente, y
+I.- Modificación a las Políticas, Disposiciones Administrativas y Lineamientos en materia de Gasto.
+
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 1994)</small>
+
+II.- Determinación de las previsiones que constituyan una de las bases para el proceso, programación-presupuestación del ejercicio siguiente, y
+
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 1994)</small>
 
 III.- Las demás que señalen los ordenamientos jurídicos aplicables.
 
@@ -443,7 +475,7 @@ P.O. 20 DE DICIEMBRE DE 1995.
 
 El presente Decreto, entrará en vigor el día Primero de Enero de mil novecientos noventa y seis, debiéndose publicar en el Periódico Oficial Órgano de Gobierno del Estado.
 
-P.O. 17 DE AGOSTO DE 2002
+P.O. 17 DE AGOSTO DE 2002.
 
 > <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2002)</small>
 
@@ -479,7 +511,7 @@ Séptimo.- El Congreso del Estado, en coordinación con el Poder Ejecutivo y los
 
 En cualquier caso, el Ejecutivo del Estado deberá realizar la publicación por conducto del Periódico Oficial de al menos 2000 ejemplares para que se difundan entre todas las dependencias de la administración pública estatal, los Ayuntamientos y la población en general.
 
-P.O. 28 DE SEPTIEMBRE DE 2002
+P.O. 28 DE SEPTIEMBRE DE 2002.
 
 ÚNICO.- EL PRESENTE DECRETO ENTRARÁ EN VIGOR AL DÍA SIGUIENTE DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL, ÓRGANO DE GOBIERNO DEL ESTADO.
 
@@ -488,3 +520,7 @@ P.O. 15 DE DICIEMBRE DE 2007.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+P.O. 25 DE DICIEMBRE DE 2010.
+
+Artículo Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
