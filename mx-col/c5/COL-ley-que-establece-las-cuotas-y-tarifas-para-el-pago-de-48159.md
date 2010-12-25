@@ -4,7 +4,7 @@ identifier: "COL-ley-que-establece-las-cuotas-y-tarifas-para-el-pago-de-48159"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-31"
-last_updated: "2009-05-09"
+last_updated: "2010-12-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48159&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "COL"
 ---
 # LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PUBLICOS DE AGUA POTABLE Y ALCANTARILLADO DEL MUNICIPIO DE TECOMAN, COLIMA
 
-LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PUBLICOS DE AGUA POTABLE Y ALCANTARILLADO DEL MUNICIPIO DE TECOMAN, COLIMA
+LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE Y ALCANTARILLADO DEL MUNICIPIO DE TECOMAN, COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE MAYO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 31 de diciembre de 2005.
 
@@ -49,435 +49,717 @@ LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIO
 
 ### CAPITULO I. DISPOSICIONES PRELIMINARES
 
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 1.
 
-Los usuarios de los servicios públicos de agua potable y alcantarillado, y demás que presta la Comisión de Agua Potable, Drenaje y Alcantarillado del Municipio de Tecomán, Colima, en lo sucesivo la COMAPAT, pagarán los derechos que resulten de aplicar las cuotas y tarifas establecidas en la presente ley, expresadas en unidades de salario mínimo general diario vigente en el área geográfica en la que está ubicado el Estado de Colima.
+Los usuarios de los servicios públicos de agua potable y alcantarillado, saneamiento y demás que presta la Comisión de Agua Potable, Drenaje y Alcantarillado del Municipio de Tecomán, Colima, en lo sucesivo la COMAPAT, pagarán los derechos que resulten de aplicar las cuotas y tarifas establecidas en la presente ley, expresadas en unidades de salario mínimo general diario vigente en el área geográfica en la que está ubicado el Estado de Colima.
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 2.
 
-Los derechos a que se refiere el artículo anterior se pagarán durante los primeros 15 días del mes siguiente al vencimiento del bimestre que corresponda, en las cajas recaudadoras de la COMAPAT, en las instituciones bancarias o en los establecimientos autorizados por la propia Comisión.
+Los derechos a que se refiere el artículo anterior se pagarán durante los primeros 15 días del mes siguiente al vencimiento del bimestre de que se trate o el primero día hábil siguiente de esta fecha, si aquel no lo fuera, en las cajas recaudadoras de “LA COMAPAT”, en las instituciones bancarias o en los establecimientos autorizados por la propia Comisión.
 
-Las cuotas y tarifas establecidas en la presente Ley, están determinadas en forma mensual en el caso de cuota fija, y en forma bimestral en servicio medido, pero el pago de los derechos se realizará bimestralmente, en los términos del párrafo anterior.
+Las cuotas y tarifas establecidas en la presente Ley, están determinadas en forma mensual, pero el pago de los derechos se realizará bimestralmente en los términos del párrafo anterior.
 
-### CAPITULO II. DEL SERVICIO DE AGUA POTABLE
+Tratándose de los derechos de alcantarillado a que se refiere el artículo anterior, estos representan el veinte por ciento respecto de agua potable para los efectos del pago por ese derecho.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE DICIEMBRE DE 2010)</small>
+
+### CAPITULO II. DE LAS CUOTAS Y TARIFAS DE LOS DERECHOS DEL AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 3.
 
-Por el servicio doméstico se pagarán los derechos de conformidad con las siguientes tarifas y cuotas:
+Por los servicios de agua potable, alcantarillado y saneamiento para uso doméstico:
 
-I) CUOTA FIJA:
+I.- Por los servicios de agua potable en servicio “sin medidor”, alcantarillado y saneamiento se pagarán los derechos de conformidad con las siguientes cuotas fijas mensuales:
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+Los usuarios cuyos servicios se ubiquen en estos incisos pagarán la siguiente cuota fija mensual:
 
-Comprende:
+CUOTA
 
-1.1. Popular uno.
+AGUA ALCANTA SANEA
+
+POTABLE RILLADO MIENTO
+
+a).-Popular uno. Comprende:
 
 Casas de materiales económicos,
 
-no duraderos. 1.205 SM
+no duraderos. 1.205 SM .2410 .65126
 
-1.2. Popular dos
+b).- Popular dos. Comprende:
 
-Casas de Ladrillo con teja de barro,
+Casas de ladrillo con teja de barro,
 
-cemento o asbesto. 1.724 SM
+cemento o asbesto. 1.724 .3448 .65126
 
-1.3. Popular tres
+c).- Popular tres. Comprende:
 
-Pie de casa, con habitación de vaciado
+Pie de casa, con habitación
 
-y acabados económicos. 1.842 SM
+de vaciado y acabados
 
-1.4. Popular cuatro
+económicos. 1.842 .3684 .65126
 
-Casa habitación, de vaciado, bóveda y
+d).- Popular cuatro. Comprende:
 
-concreto con acabado económico. 2.244 SM
+Casa habitación de vaciado,
 
-1.5. Popular cinco
+bóveda y concreto con acabado
 
-Casa habitación con bóveda y vaciado de
+económico. 2.244 .4488 .94538
 
-concreto, de dos plantas, de interés social,
+e).- Popular cinco. Comprende:
 
-acabados económicos. 2.480 SM
+Casa habitación con bóveda y
 
-1.6. Popular seis
+vaciado de concreto, de dos
 
-Casa habitación con bóveda y vaciado de
+plantas de interés social,
 
-concreto, de dos plantas, con acabados de
+acabados económicos 2.480 .496 .94538
 
-primera. 3.047 SM
+f).- Popular seis. Comprende:
 
-1.7. Servicio Mixto popular:
+Casa Habitación con bóveda y
 
-Comprende casas habitación de popular
+vaciado de concreto, de dos
 
-uno a popular cuatro con tendajón. 2.267 SM
+plantas, con acabados de primera. 3.047 .6094 1.19748
 
-1.8. Residencial.
+g).- Servicio mixto popular:
 
-Comprende: Todas aquellas casas habitación que por su tipo de construcción se consideren como residenciales, teniendo un frente mínimo de terreno de 10 metros y una superficie mínima de 300 metros cuadrados; así mismo encuadran en esta categoría las casas habitación de más de dos pisos y casas habitación de vaciado, bóveda y concreto con acabados de primera calidad. 4.535 SM
+Comprende casas habitación de
 
-1.9. Instituciones de Beneficencia Pública y Social:
+popular a cuatro con tendajón. 2.267 .4534 1.8965
 
-a) Consumo Bajo. 1.323 SM
+h).-Residencial. Comprende:
 
-b) Consumo Alto. 2.669 SM
+Todas aquellas casas habitación
 
-1.10. En playa
+que por su tipo de construcción se
 
-a).- Enramadas. 2.386 SM
+consideren como residenciales,
 
-b).- Construcción pequeña. 2.669 SM
+teniendo un frente mínimo de terreno
 
-c).- Construcción grande. 3.826 SM
+de 10 metros y una superficie
 
-II) SERVICIO MEDIDO:
+mínima de 300 metros cuadrados;
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+así mismo encuadran en esta
 
-DOMÉSTICO.- Comprende las señaladas en la fracción anterior y pagarán las cuotas que resulten de conformidad con la siguiente:
+categoría las casas habitación de
 
-TARIFA BIMESTRAL
+más de dos pisos y casas habitación
 
-RANGOS DE CONSUMO AGUA POTABLE
+de vaciado, bóveda y concreto con
 
-POR METROS CUBICOS
+acabados de primera calidad. 4.535 .907 3.03508
+
+i).- Instituciones de Beneficencia Pública y Social; comprende: Los usuarios cuyo servicio se ubique en estos puntos, pagarán la siguiente cuota fija mensual:
+
+CUOTA
+
+AGUA
+
+POTABLE ALCANTARILLADO SANEAMIENTO
+
+1).- Consumo Bajo 1.323 .2646 1.1907
+
+2).- Consumo Alto 2.669 .5338 2.4221
+
+j).- En Playa, comprende: Los usuarios cuyo servicio se ubique en estos puntos, pagarán la siguiente cuota fija mensual:
+
+CUOTA
+
+TIPO DE SERVICIO AGUA
+
+POTABLE ALCANTARILLADO SANEAMIENTO
+
+1).- Enramadas 2.386 .4772 1.4316
+
+2).-Construcción
+
+pequeña 2.669 .5338 1.6014
+
+3).- Construcción
+
+grande 3.826 .7652 2.2956
+
+No estarán obligados al pago de derechos por servicio de saneamiento aquellos usuarios de este inciso, que aun cuando cuenten con el servicio de alcantarillado, no sea factible proporcionar el servicio de saneamiento.
+
+II.- Por los servicios de agua potable en “servicio medido”, alcantarillado y saneamiento para uso doméstico se pagarán los derechos de conformidad con la siguiente tarifa:
+
+a).- DOMÉSTICO.- Comprende las señaladas en la fracción anterior y pagarán la siguiente tarifa mensual que resulte de conformidad con aplicar la siguiente tabla:
+
+TARIFAS DOMESTICAS
+
+RANGOS DE CONSUMO
+
+POR METROS CUBICOS AGUA DRENAJE SANEAMIENTO
+
+CUOTA FIJA
 
 DE HASTA
 
-00.00 a 10.00 0.531 SM
+00 a 10 0.8662 0.1732 0.61963
 
-10.01 a 20.00 0 0.055 SM
+10.01 a 20.00 0.055 0.0110 0.61963
 
-20.01 a 30.00 0.061 SM
+20.01 a 30.00 0.061 0.0122 0.61963
 
-30.01 a 45.00 0.077 SM
+30.01 a 45.00 0.077 0.0154 0.61963
 
-45.01 a 60.00 0.080 SM
+45.01 a 60.00 0.08 0.0160 0.61963
 
-60.01 a 90.00 0.114 SM
+60.01 a 90.00 0.114 0.0228 0.61963
 
-90.01 a 110.00 0.147 SM
+90.01 a 110.00 0.147 0.0294 0.61963
 
-110.01 en adelante 0.183 SM
+110.01 en adelante 0.183 0.0366 0.61963
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 4.
 
-Al aplicar la tarifa señalada en el artículo 3, fracción II, de la presente Ley, cuando el consumo se ubique dentro del rango mínimo, se cobrará la cuota señalada para dicho rango; al rebasar éste, el importe a pagar se obtendrá de la sumatoria resultante de aplicar la cuota respectiva a cada uno de los rangos.
+Al aplicar la tarifa señalada en el artículo 3, fracción II, 5 fracción II, 7 fracción II y en las demás disposiciones en que se aplique trifa en servicio medido, de la presente Ley, cuando el consumo se ubique dentro del rango mínimo, se cobrará la cuota señalada para dicho rango; al rebasar éste, el importe a pagar se obtendrá de la sumatoria resultante de aplicar la cuota respectiva a cada uno de los rangos.
 
 Además de lo anterior, se aplicarán las siguientes consideraciones:
 
 I.- Los metros cúbicos de la cuota mínima no son acumulables en función de los cortes de lectura bimestrales; y
 
 II.- Cuando por cualquier razón no pueda determinarse el consumo de agua potable en un periodo de lectura o más, la tarifa por el servicio de agua potable se cobrará promediando el consumo de los últimos tres períodos.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+
+No estarán obligados al pago de derechos por servicio de saneamiento aquellos usuarios de las comunidades rurales, que aun cuando cuente con el servicio de alcantarillado, no sea factible proporcionar el servicio de saneamiento ni tampoco aquellos que paguen por el derecho de mantenimiento de redes y los de servicio medido que acrediten cero consumo.
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 5.
 
-Por el servicio comercial se pagarán las siguientes cuotas y tarifas:
+Por el servicio de agua potable, alcantarillado y saneamiento para uso comercial:
 
-I) CUOTA FIJA
+I).- Por los servicios de agua potable en servicios “sin medidor”, alcantarillado y saneamiento, se pagarán los derechos de conformidad con las siguientes cuotas fijas mensuales:
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+a).- COMERCIAL CONSUMO BAJO: El servicio comercial consumo bajo comprende: Abarrotes, agencias de viaje, almacenes de ropa, salones de belleza, boutiques, bufetes, consultorios, despachos y oficinas, carpinterías en pequeño (operadas únicamente por la familia), cerrajerías, depósitos de cerveza, dulces, estacionamientos, estanquillos, farmacias, ferreterías, florerías, estudios de fotografía, funerarias, guarachearías, imprentas, jugueterías, licorerías, loncherías, cenadurías, materiales para construcción, misceláneas, mini súper, mueblerías, panaderías, papelerías, peluquerías, pintura y laminado de vehículos, refaccionarías, reparación de aparatos electrodomésticos, reparación de llantas, relojerías, sastrerías, servicio de transporte y fletes (sin lavado), talleres mecánicos, eléctricos y tornos, tapicerías, taquerías, telas, templos, tlapalerías, venta de libros, periódicos y revistas, videocasetes, alquiler de videojuegos, vidrierías, zapaterías, renta ( ciber café ) y venta de equipos de computo, joyerías.
 
-A) COMERCIAL CONSUMO BAJO: Los comercios que a continuación se mencionan se clasifican como Comercial consumo bajo y pagarán una cuota de. 2.267 SM
+Los usuarios cuyo servicio se ubique en esta fracción pagaran la siguiente cuota fija mensual:
 
-El servicio comercial consumo bajo comprende: Abarrotes, agencias de viaje, almacenes de ropa, salones de belleza, boutiques, bufetes, consultorios, despachos y oficinas, carpinterías en pequeño (operadas únicamente por la familia), cerrajerías, depósitos de cerveza, dulces, estacionamientos, estanquillos, farmacias, ferreterías, florerías, estudios de fotografía, funerarias, guarachearías (sic), imprentas, jugueterías, licorerías, loncherías, cenadurías, materiales para construcción, misceláneas, mini súper, mueblerías, panaderías, papelerías, peluquerías, pintura y laminado de vehículos, refaccionarías, reparación de aparatos electrodomésticos, reparación de llantas, relojerías, sastrerías, servicio de transporte y fletes (sin lavado), talleres mecánicos, eléctricos y tornos, tapicerías, taquerías, telas, templos, tlapalerías, venta de libros, periódicos y revistas, videocasetes, alquiler de videojuegos, vidrierías, zapaterías, renta ( ciber café ) y venta de equipos de computo, joyerías.
+CUOTA
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+AGUA POTABLE ALCANTARILLADO SANEAMIENTO
 
-B) COMERCIAL CONSUMO MEDIO: Los comercios que a continuación se mencionan se clasifican como Comercial consumo medio y pagarán una cuota de. 3.874 SM
+2.267 .4534 1.8506
 
-El servicio comercial consumo medio comprende: Academias y escuelas particulares (por cada aula), alquileres de loza, muebles y manteles, billares, bodegas de fruta y verdura, bodegas de almacenamiento, carnicerías, carpinterías que cuenten con trabajadores bajo relación laboral, cenadurías, clubes sociales (sin alberca, no restaurante), fábrica de dulces, fondas y cocinas económicas, obradores, paleterías y reverías (sic), salas de velación, pescaderías, tiendas de autoservicio, instituciones bancaria (sic) y demás actividades financieras.
+b).- COMERCIAL CONSUMO MEDIO: El servicio comercial consumo medio comprende: Academias y escuelas particulares (por cada aula), alquileres de loza, muebles y manteles, billares, bodegas de fruta y verdura, bodegas de almacenamiento, carnicerías, carpinterías que cuenten con trabajadores bajo relación laboral, cenadurías, clubes sociales (sin alberca, no restaurante), fábrica de dulces, fondas y cocinas económicas, obradores, paleterías y reverías, salas de velación, pescaderías, tiendas de autoservicio, instituciones bancarias y demás actividades financieras.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+Los usuarios cuyo servicio se ubique en esta fracción pagaran la siguiente cuota fija mensual:
 
-C) COMERCIAL CONSUMO ALTO: Los comercios cuyos giros a continuación se mencionan se clasifican como “comercial consumo alto” y pagarán los derechos conforme a las siguientes cuotas:
+CUOTA
 
-c.1. Casas de Huéspedes
+AGUA POTABLE ALCANTARILLADO SANEAMIENTO
 
-c.1.1. Por cada habitación con baño privado 1.228 SM
+3.874 .7748 2.9836
 
-c.1.2. Por cada habitación con baño común 1.086 SM
+c).- COMERCIAL CONSUMO ALTO: Los comercios cuyos giros a continuación se mencionan se clasifican como “comercial consumo alto” y pagarán los derechos conforme a las siguientes cuotas:
 
-c.2. Centros Botaneros
+1. Casas de Huéspedes.- Los usuarios cuyo servicio se ubique en estos puntos pagarán la siguiente cuota fija mensual:
 
-c.2.1. Consumo bajo 20.761 SM
+CUOTA
 
-c.2.2. Consumo medio 25.059 SM
+AGUA ALCANTA SANEA
 
-c.3. Edificios de Espectáculos:
+POTABLE RILLADO MIENTO
 
-c.3.1. Cines 4.700 SM
+1.1. Por cada habitación
 
-c.3.2. Plazas de toros 9.424 SM
+con baño privado 1.228 .2456 1.1052
 
-c.3.3. Bares y Discotecas 9.424 SM
+1.2. Por cada habitación
 
-c.3.4. Otros (por cada sanitario) 2. 314 SM
+con baño común 1.086 1.086 .9774
 
-c.3.5. Salón de fiestas 4.700 SM
+2. Centros Botaneros.- Los usuarios cuyo servicio se ubique en estos puntos pagarán la
 
-c.3.6. Salón de fiestas con áreas verdes 9.802 SM
+siguiente cuota fija mensual:
 
-c.4 Viveros de plantas:
+CUOTA
 
-c.4.1. De 0.01 m2 hasta 100.00 m2 2.669 SM
+AGUA POTABLE ALCANTARILLADO SANEAMIENTO
 
-c.4.2. De 100.01 m2 hasta 300.00 m2 3.991 SM
+2.1. Consumo
 
-c.4.3. De 300.01 hasta 500.00 m2 7.984 SM
+bajo 20.761 4.1522 18.6849
 
-c.4.4. Mayores de 500.00 m2 hasta 1,500 m2 15.990 SM
+2.2. Consumo
 
-c.5. Aserraderos 8.408 SM
+medio 25.059 5.0118 22.55
 
-c.6. Hoteles y Moteles. (Se cubrirá el 50 % del total de las habitaciones, pero tratándose de moteles de paso el pago será del 70% del total de sus habitaciones)
+3. Edificios de Espectáculos.- Los usuarios cuyo servicio se ubique en estos puntos pagarán la siguiente cuota fija mensual:
 
-c.6.1. Por cada habitación con baño privado 2.433 SM
+CUOTA
 
-c.6.2. Por cada habitación con baño común 2.362 SM
+AGUA POTABLE ALCANTARILLADO SANEAMIENTO
 
-c.6.3. Servicio de restaurante adicional 1.819 SM
+3.1. Cines 4.700 .94 4.2300
 
-c.7. En Playas:
+3.2. Plazas
 
-c.7.1. Fondas 3.212 SM
+de toros 9.424 1.8848 8.4816
 
-c.7.2. Restaurante de bajo consumo 7.842 SM
+3.3. Bares y
 
-c.7.3. Restaurante de consumo medio 15.990 SM
+Discotecas 9.424 1.8848 8.4816
 
-c.7.4. Restaurante de alto consumo 24.871 SM
+3.4. Otros
 
-c.8. Clínicas, Hospitales, Sanatorios:
+(por cada
 
-c.8.1. Por cada habitación con baño privado 2.433 SM
+sanitario) 2.314 .4628 2.0826
 
-c.8.2. Por cada habitación con baño común 2.362 SM
+3.5. Salón
 
-c.8.3. Servicio de cafetería adicional 1.819 SM
+de fiestas 4.700 .94 4.23
 
-c.9. Vecindades, Internados, Conventos y Similares:
+3.6. Salón
 
-c.9.1. Por cada habitación con baño privado 1.110 SM
+de fiestas con
 
-c.9.2. Por cada habitación con baño común 0.921 SM
+áreas verdes 9.802 1.9604 8.8218
 
-c.10. Restaurantes
+4. Viveros de plantas.- Los usuarios cuyo servicio se ubique en estos puntos pagarán la siguiente cuota fija mensual:
 
-c. 10.1. Consumo bajo 4.464 SM
+CUOTA
 
-c. 10.2. Consumo medio 8.314 SM
+AGUA POTABLE ALCANTARILLADO SANEAMIENTO
 
-c.11. Lavado De Carros
+4.1. De 0.01 m2
 
-c.11.1. Consumo bajo 12.093 SM
+hasta 100.00 m2 2.669 .5338 1.3345
 
-c.11.2. Consumo medio 17.171 SM
+4.2. De 100.01 m2
 
-c.12. Gasolineras
+hasta 300.00 m2 3.991 .7982 1.9955
 
-c.12.1. Sin servicio de lavado 11.172 SM
+4.3. De 300.01
 
-c.12.2. Con servicio de lavado 12.542 SM
+hasta 500.00 m2 7.984 1.5968 3.992
 
-c.12.3. Servicio de restaurante adicional 2.267 SM
+4.4.- Mayores de
 
-c.13. Lavanderías Automáticas, (Hasta
+500.00 m2 hasta
 
-Tres Máquinas). 5.120 SM
+1,500 m2 15.990 3.198 7.995
 
-c.13.1. Por cada máquina excedente de tres 1.063 SM
+5. Aserraderos.- Los usuarios cuyo servicio se ubique en este punto pagarán la siguiente cuota fija mensual:
 
-c.14. Molinos De Nixtamal 4.889 SM
+CUOTA
 
-c.15. Tortillerías:
+AGUA POTABLE ALCANTARILLADO SANEAMIENTO
 
-c.15.1. Sin molino 3.732 SM
+8.408 1.6816 7.5672
 
-c.15.2. Con molino 8.361 SM
+6. Hoteles y Moteles.- (Se cubrirá el 50 % del total de las habitaciones, pero tratándose de moteles de paso el pago será del 70% del total de sus habitaciones).- Los usuarios cuyo servicio se ubique en estos puntos pagarán la siguiente cuota fija mensual:
 
-c.16. Tintorerías:
+CUOTA
 
-c.16.1. Chica 5.952 SM
+AGUA POTABLE ALCANTARILLADO SANEAMIENTO
 
-c.16.2. Mediana 7.510 SM
+6.1. Por cada
 
-II) SERVICIO MEDIDO.
+habitación
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+con baño
 
-A) COMERCIAL CONSUMO BAJO.- Comprende todos los giros comerciales señalados en la fracción I, inciso A) de este artículo y pagarán las cuotas que resulten de conformidad con la siguiente:
+privado 2.433 .4866 2.1897
 
-TARIFA BIMESTRAL
+6.2. Por cada
 
-RANGOS DE CONSUMO AGUA POTABLE
+habitación
 
-POR METROS CUBICOS
+con baño común 2.362 .4724 2.1258
+
+6.3. Servicio de
+
+restaurante
+
+adicional 1.819 .3638 1.6371
+
+7. En Playas: Los usuarios cuyo servicio se ubique en estos puntos pagarán la siguiente cuota fija mensual.
+
+CUOTA
+
+AGUA POTABLE ALCANTARILLADO SANEAMIENTO
+
+7.1. Fondas 3.2112 .6424 2.8900
+
+7.2. Restaurante
+
+de bajo consumo 7.842 1.5684 7.0578
+
+7.3. Restaurante
+
+de consumo
+
+medio 15.99 3.198 14.39
+
+7.4. restaurante
+
+de alto consumo 24.871 4.956 22.38
+
+8. Clínicas, Hospitales, Sanatorios.- Los usuarios cuyo servicio se ubique en estos puntos pagarán la siguiente cuota fija mensual:
+
+CUOTA
+
+AGUA ALCANTA SANEA
+
+POTABLE RILLADO MIENTO
+
+8.1. Por cada
+
+Habitación con
+
+baño privado 2.433 .4866 2.1897
+
+8.2. Por cada
+
+Habitación con
+
+baño común 2.362 .4724 2.1258
+
+8.3. Servicio
+
+de cafetería
+
+adicional 1.819 .3638 1.6371
+
+9. Vecindades, Internados, Conventos y Similares.- Los usuarios cuyo servicio se ubique en estos puntos pagarán la siguiente cuota fija mensual:
+
+CUOTA
+
+AGUA POTABLE ALCANTARILLADO SANEAMIENTO
+
+9.1. Por cada
+
+habitación
+
+con baño
+
+privado 1.110 .222 .999
+
+9.2. Por cada
+
+habitación
+
+con baño
+
+común 0.921 0.1842 0.8316
+
+10. Restaurantes.- Los usuarios cuyo servicio se ubique en estos puntos pagarán la siguiente cuota fija mensual:
+
+CUOTA
+
+AGUA POTABLE ALCANTARILLADO SANEAMIENTO
+
+10.1. Consumo
+
+bajo 4.464 . 8928 4.0176
+
+10.2. Consumo
+
+medio 8.314 1.6628 7.4826
+
+11. Lavado de Carros.- Los usuarios cuyo servicio se ubique en estos puntos pagarán la siguiente cuota fija mensual:
+
+CUOTA
+
+AGUA POTABLE ALCANTARILLADO SANEAMIENTO
+
+10.1. Consumo
+
+bajo 12.093 2.4189 10.8837
+
+10.2. Consumo
+
+medio 17.171 3.4342 15.453
+
+12. Gasolineras.- Los usuarios cuyo servicio se ubique en estos puntos pagarán la siguiente cuota fija mensual:
+
+CUOTA
+
+AGUA POTABLE ALCANTARILLADO SANEAMIENTO
+
+12.1. Sin servicio
+
+de lavado 11.172 2.2344 10.0548
+
+12.2. Con servicio
+
+de Lavado 12.542 2.5084 11.2878
+
+12.3. Servicio de
+
+restaurante adicional 2.267 . 4534 2.034
+
+13. Lavanderías Automáticas.- Los usuarios cuyo servicio se ubique en estos puntos pagarán la siguiente cuota fija mensual:
+
+CUOTA
+
+AGUA POTABLE ALCANTARILLADO SANEAMIENTO
+
+13.1. Hasta tres
+
+máquinas 5.120 1.024 4.608
+
+13.2. Por cada
+
+máquina excedente
+
+de tres 1.063 .2126 .9567
+
+14. Molinos de Nixtamal.- Los usuarios cuyo servicio se ubique en este punto pagarán la siguiente cuota fija mensual:
+
+CUOTA
+
+AGUA POTABLE ALCANTARILLADO SANEAMIENTO
+
+4.889 .9778 4.4001
+
+15. Tortillerías.- Los usuarios cuyo servicio se ubique en estos puntos pagarán la siguiente cuota fija mensual:
+
+CUOTA
+
+AGUA POTABLE ALCANTARILLADO SANEAMIENTO
+
+15.1. Sin molino 3.732 .7464 3.3588
+
+15.2. Con molino 8.361 1.6722 7.5249
+
+16. Tintorerías.- Los usuarios cuyo servicio se ubique en estos puntos pagarán la siguiente cuota fija mensual:
+
+CUOTA
+
+AGUA POTABLE ALCANTARILLADO SANEAMIENTO
+
+16.1. Chica 5.952 1.1904 5.3568
+
+16.2. Mediana 7.510 1.502 6.759
+
+II.- Por los servicios de agua potable en “servicio medido”, alcantarillado y saneamiento para uso comercial, se pagarán los derechos de conformidad con las siguientes Tarifas mensuales.
+
+a) COMERCIAL CONSUMO BAJO.- Comprende todos los giros comerciales señalados en el inciso a) del artículo 5 y pagarán las tarifas que resulten de aplicar con la siguiente:
+
+TARIFA
+
+RANGOS DE
+
+CONSUMO
+
+POR METROS
+
+CUBICOS AGUA DRENAJE SANEAMIENTO
 
 DE HASTA
 
-0 a 10 0.665 SM
+00 a 10 1.126 0.3378 0.6756
 
-10.01 a 20.00 0.107 SM
+10.01 a 20.00 0.107 0.021 0.06159
 
-20.01 a 30.00 0.114 SM
+20.01 a 30.00 0.114 0.0228 0.06352
 
-30.01 a 45.00 0.121 SM
+30.01 a 45.00 0.121 0.0242 0.06544
 
-45.01 a 60.00 0.129 SM
+45.01 a 60.00 0.129 0.0258 0.06929
 
-60.01 a 90.00 0.152 SM
+60.01 a 90.00 0.152 0.0304 0.07314
 
-90.01 a 110.00 0.183 SM
+90.01 a 110.00 0.183 0.0366 0.08084
 
-110.01 en adelante 0.230 SM
+110.01 en adelante 0.23 0.046 0.09047
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+b) COMERCIAL CONSUMO MEDIO.- Comprende todos los giros comerciales señalados en el inciso b) del artículo 5 y pagarán las tarifas que resulten de aplicar con la siguiente:
 
-B) COMERCIAL CONSUMO MEDIO.- Comprende los giros comerciales señalados en la fracción I, inciso B) de este artículo y pagarán las cuotas que resulten de conformidad con la siguiente:
+TARIFA
 
-TARIFA BIMESTRAL
+RANGOS DE
 
-RANGOS DE CONSUMO AGUA POTABLE
+CONSUMO
 
-POR METROS CUBICOS
+POR METROS
 
-DE HASTA
-
-0 a 10 0.718 SM
-
-10.01 a 20.00 0.115 SM
-
-20.01 a 30.00 0.123 SM
-
-30.01 a 45.00 0.132 SM
-
-45.01 a 60.00 0.140 SM
-
-60.01 a 90.00 0.164 SM
-
-90.01 a 110.00 0.197 SM
-
-110.01 en adelante 0.248 SM
-
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
-
-C) COMERCIAL CONSUMO ALTO: Comprende todos los giros comerciales señalados en la fracción I, inciso C) de este artículo y pagarán las cuotas que resulten de conformidad con la siguiente:
-
-TARIFA BIMESTRAL
-
-RANGOS DE CONSUMO AGUA POTABLE
-
-POR METROS CUBICOS
+CUBICOS AGUA DRENAJE SANEAMIENTO
 
 DE HASTA
 
-0 a 10 0.775 SM
+00 a 10 1.3005 0.2601 0.7803
 
-10.01 a 20.00 0.124 SM
+10.01 a 20.00 0.1150 0.0230 0.0690
 
-20.01 a 30.00 0.134 SM
+20.01 a 30.00 0.1230 0.0246 0.0738
 
-30.01 a 45.00 0.142 SM
+30.01 a 45.00 0.1320 0.0264 0.0792
 
-45.01 a 60.00 0.151 SM
+45.01 a 60.00 0.1400 0.0280 0.0840
 
-60.01 a 90.00 0.177 SM
+60.01 a 90.00 0.1640 0.0328 0.0984
 
-90.01 a 110.00 0.213 SM
+90.01 a 110.00 0.1970 0.0394 0.1182
 
-110.01 en adelante 0.267 SM
+110.01 en adelante 0.2480 0.0496 0.1488
+
+c) COMERCIAL CONSUMO ALTO.- Comprende todos los giros comerciales señalados en el inciso c), del artículo 5 y pagarán las cuotas que resulten de aplicar con la siguiente:
+
+TARIFA
+
+RANGOS DE
+
+CONSUMO
+
+POR METROS
+
+CUBICOS AGUA DRENAJE SANEAMIENTO
+
+DE HASTA
+
+00 a 10 1.4956 0.2991 0.8974
+
+10.01 a 20.00 0.1240 0.0248 0.0744
+
+20.01 a 30.00 0.1340 0.0268 0.0804
+
+30.01 a 45.00 0.1420 0.0284 0.0852
+
+45.01 a 60.00 0.1510 0.0302 0.0906
+
+60.01 a 90.00 0.1770 0.0354 0.1062
+
+90.01 a 110.00 0.2130 0.0426 0.1278
+
+110.01 en adelante 0.2670 0.0534 0.1602
+
+Los usuarios a que se refiere este artículo cubrirán adicionalmente, el importe del IVA de conformidad con la Ley del impuesto al Valor Agregado.
 
 ###### ARTICULO 6.
 
-Al aplicar la tarifa señalada en el artículo 5, fracción II, de la presente Ley, cuando el consumo se ubique dentro del rango mínimo, se cobrará la cuota mínima; al rebasar dicho rango, el importe a pagar se obtendrá de la sumatoria resultante de aplicar la cuota respectiva a cada uno de los rangos.
+(DEROGADO, P.O. 25 DE DICIEMBRE DE 2010)
 
-Además de lo anterior, se aplicarán las siguientes consideraciones:
-
-I.- Los metros cúbicos de la cuota mínima no son acumulables en función de los cortes de lectura bimestrales; y
-
-II.- Cuando por cualquier razón no pueda determinarse el consumo de agua potable en un periodo de lectura o más, la tarifa por el servicio de agua potable se cobrará promediando el consumo de los últimos tres períodos.
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 7.
 
-Por el servicio industrial de agua potable se pagarán las siguientes cuotas y tarifas:
+Por el servicio de agua potable, alcantarillado y saneamiento para uso industrial:
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+I.- Por los servicios de agua potable en servicio “sin medidor”, alcantarillado y saneamiento, se pagarán los derechos de conformidad con las siguientes cuotas fijas mensuales:
 
-I.- CUOTA FIJA
+a) Fábrica de Materiales para Construcción, Comprende: Los usuarios cuyo servicio se ubique en estos puntos pagarán la siguiente cuota fija mensual:
 
-1. Fábrica de Materiales para Construcción
+CUOTA
 
-1.1. Consumo bajo 7.605 SM
+AGUA ALCANTARILLADO SANEAMIENTO
 
-1.2 Consumo medio 10.156 SM
+POTABLE
 
-2. Industria de Frutas:
+1. Consumo
 
-2.1. Empaques 16.745 SM
+Bajo 7.605 1.5210 4.563
 
-2.2. Armadora de rejas 6.447 SM
+2. Consumo
 
-2.3. Procesadora de limón y agroindustrias 24.776 SM
+Medio 10.156 2.0312 6.0936
 
-3. Servicios Industriales de Agua y hielo
+b) Industria de Frutas, comprende: los usuarios cuyo servicio se ubique en estos puntos pagarán la siguiente cuota fija mensual:
 
-3.1. Plantas purificadoras con procesos y
+CUOTA
 
-lavado de garrafón 31.838 SM
+AGUA ALCANTARILLADO SANEAMIENTO
 
-3.2. Plantas expendedoras de agua 23.548 SM
+POTABLE
 
-3.3. Fabricas de Hielo 76.925 SM
+1).- Empaques 16.745 3.349 10.047
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+2).- Armadora
 
-II.- SERVICIO MEDIDO.- Comprende las señaladas en la fracción anterior y todas demás las (sic) actividades económicas de transformación y pagarán las cuotas que resulten de conformidad con la siguiente:
+de rejas 6.447 1.2894 3.8682
 
-TARIFA BIMESTRAL
+3).- Procesadora
 
-RANGOS DE CONSUMO AGUA POTABLE
+de limón y
 
-POR METROS CUBICOS
+agroindustrias 24.776 4.9552 14.8656
 
-DE HASTA
+c) Servicios Industriales de Agua y hielo, comprende: los usuarios cuyo servicio se ubique en estos puntos pagarán la siguiente cuota fija mensual:
 
-0 a 10 0.775 SM
+CUOTA
 
-10.01 a 70.0 0.124 SM
+AGUA ALCANTARILLADO SANEAMIENTO
 
-70.01 a 170.00 0.134 SM
+POTABLE
 
-170.01 a 290.00 0.142 SM
+1).- Plantas
 
-290.01 a 430.00 0.151 SM
+purificadoras
 
-430.01 a 570.00 0.201 SM
+con procesos
 
-570.01 a 700.00 0.213 SM
+y lavado de
 
-700.01 en adelante 0.267 SM
+garrafón 31.838 6.3676 19.1028
+
+2).-Plantas
+
+expendedoras
+
+de agua 23.548 4.7096 14.1288
+
+3).- Fabricas
+
+de hielo 76.925 15.385 46.155
+
+II.- Por los servicios de agua potable en “servicio medido”, alcantarillado y saneamiento para uso industrial, pagarán los derechos de conformidad con las siguientes tarifas:
+
+a) SERVICIO MEDIDO.- Comprende las señaladas en la fracción anterior y todas las demás actividades económicas de transformación y pagarán las cuotas que resulten de conformidad con la siguiente:
+
+TARIFA
+
+INDUSTRIAL SERVICIO MEDIDO
+
+RANGOS DE
+
+CONSUMO POR
+
+METROS CUBICOS AGUA DRENAJE SANEAMIENTO
+
+0.00 a 10.00 1.7947 0.3589 1.0768
+
+10.01 a 70.00 0.1240 0.0248 0.0744
+
+70.01 a 170.00 0.1340 0.0268 0.0804
+
+170.01 a 290.00 0.1420 0.0284 0.0852
+
+290.01 a 430.00 0.1510 0.302 0.0906
+
+430.01 a 570.00 0.2010 0.0402 0.1206
+
+570.01 a 700.00 0.2130 0.0426 0.1278
+
+700.01 en adelante 0.2670 0.0534 0.1602
 
 ###### ARTICULO 8.
 
-Al aplicar la tarifa señalada en el artículo 7, fracción II, de la presente Ley, cuando el consumo se ubique dentro del rango mínimo, se cobrará la cuota mínima; al rebasar dicho rango, el importe a pagar se obtendrá de la sumatoria resultante de aplicar la cuota respectiva a cada uno de los rangos.
+(DEROGADO, P.O. 25 DE DICIEMBRE DE 2010)
 
-Además de lo anterior, se aplicarán las siguientes consideraciones:
-
-I.- Los metros cúbicos de la cuota mínima no son acumulables en función de los cortes de lectura bimestrales; y
-
-II.- Cuando por cualquier razón no pueda determinarse el consumo de agua potable en un periodo de lectura o más, la tarifa por el servicio de agua potable se cobrará promediando el consumo de los últimos tres períodos.
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 9.
 
-Por el servicio de uso mixto de agua potable se pagarán las siguientes cuotas y tarifas:
-
-I.- CUOTA FIJA
+Por los servicios de agua potable, alcantarillado y saneamiento “sin medidor” para uso mixto se pagarán la siguiente cuota fija mensual:
 
 En el caso de que en un mismo predio se localice una vivienda y un negocio y ambos se alimenten de una sola toma de agua potable y no tengan servicio medido, se pagarán los derechos de la siguiente forma:
 
@@ -485,57 +767,117 @@ a) Si es casa habitación con un negocio comercial o industrial, la cuota mayor 
 
 b) Si son más de dos los tipos de uso en el mismo predio, la cuota mayor se pagará al 100 por ciento y las demás al 50 por ciento de su cuota.
 
-II.- SERVICIO MEDIDO.
-
-Tratándose del servicio medido, la cuota mayor se pagará al 100 por ciento del importe del rango de consumo que corresponda, mientras que la otra u otras solo se cubrirá(n) en un 50 por ciento del importe del rango de consumo.
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 10.
 
-Los usuarios que pagan los derechos por los servicios de agua potable mediante cuota fija, que cuenten en los inmuebles con instalaciones especiales de las señaladas en los incisos a) y b) siguientes, pagarán en forma adicional las siguientes cuotas:
+Los usuarios que pagan los derechos por los servicios de agua potable "sin medidor" mediante cuota fija, que cuenten en los inmuebles con instalaciones especiales de las señaladas en los incisos a) y b) siguientes, pagarán en forma adicional las siguientes cuotas:
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+I) Albercas, Chapoteaderos, Fuentes y Espejos de agua, con equipamiento de Purificación y Retorno, los usuarios cuyo servicio se ubique en este inciso pagarán la siguiente cuota fija mensual:
 
-a) Albercas, Chapoteaderos, Fuentes y Espejos de agua, con equipamiento de Purificación y Retorno,
+CUOTA
 
-a.1. Hasta 40 m3 2.669 SM
+AGUA ALCANTARILLADO SANEAMIENTO
 
-a.2. Más de 40 m3. 3.047 SM
+POTABLE
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+a).- Hasta
 
-b) Albercas, Chapoteaderos, Fuentes y Espejos de Agua sin equipo de purificación:
+40 m3 2.669 .5338 1.6014
 
-b.1. De 0.01 m3 a 25.00 m3 5.409 SM
+b).- Más de
 
-b.2. De 25.01 m3 hasta 40.00 m3 7.463 SM
+40 m3 3.047 .6094 1.8282
 
-b.3. Más de 40.00 m3 10.703 SM
+II) Albercas, Chapoteaderos, Fuentes y Espejos de Agua sin equipo de purificación:
+
+a).- De 0.01 m3 a 25.00 m3. Los usuarios cuyo servicio se ubique en estos incisos pagarán la siguiente cuota fija mensual:
+
+CUOTA
+
+AGUA ALCANTARILLADO SANEAMIENTO
+
+POTABLE
+
+a).- De 0.01 m3
+
+a 25.00 m3 5.409 1.0818 3.2454
+
+b).- De 25.01 m3
+
+hasta 40.00 m3 7.463 1.4926 4.4778
+
+c).- Más de
+
+40.00 m3 10.703 2.1406 6.4218
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+
+APARTADO A
+
+DISPOSICIONES COMPLEMENTARIAS
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 11.
 
-La COMAPAT, determinará la clasificación de los negocios no considerados en los artículos 3, 5 y 7 de este ordenamiento, en base a la información que disponga.
+La COMAPAT, determinará la clasificación de los negocios no considerados en los artículos 3, 5, 7, 9 y 10 de este ordenamiento, en base a la información que disponga, en tanto se incorpora a la que le corresponda en la presente ley.
+
+Se presume que las viviendas ubicadas en cada una de las clasificaciones sirven de referencia para las distintas tarifas o cuotas, corresponden al tipo en el que se ubican, salvo que tomando en cuenta las definiciones se ubiquen en uno diferente, caso éste en el que “LA COMPAT”, a través de su área de comercialización, previa verificación de tal circunstancia, ubicará al usuario, mediante resolución debidamente fundada y motivada, en la tarifa o cuota que corresponda, a partir de la fecha de la resolución o la que determine “LA COMAPAT”.
+
+Asimismo, el usuario que por su clasificación no esté conforme con la tarifa o cuota que esté pagando, podrá solicitar por escrito al área de comercialización de “LA COMAPAT”, para que previa verificación que se lleve a cabo y mediante resolución debidamente fundada y motivada, se le ubique en la tarifa o cuota que le corresponda a partir de la fecha de trámite.
+
+Los actos de verificación que lleve a cabo “LA COMAPAT” a través de su área de comercialización y la emisión de resoluciones que de los mismos deriven de conformidad con lo dispuesto en esta Ley, deberán apegarse a los procedimientos y formalidades previstos en el Titulo III del Código Fiscal Municipal del Estado de Colima .
+
+El usuario, que no esté conforme con la resolución, en el improrrogable plazo de 5 días hábiles contados a partir del día siguiente al que se notifique la misma, deberá acudir por escrito, en inconformidad ante el Director General de “LA COMAPAT”, el cual deberá ser presentado dentro del horario de labores del organismo operador de agua, que son de las 8:00 a las 15:00 horas.
+
+Se consideran días hábiles para los efectos de los plazos previstos en el presente artículo, de lunes a viernes, exceptuando aquellos días que por disposición del Código Fiscal Municipal del Estado de Colima se consideren como inhábiles.
+
+El escrito que contenga la inconformidad, deberá ser firmado en forma autógrafa por el interesado o su representante legal, además en el mismo se ofrecerán y exhibirán las pruebas que ofrezca en sustento de su inconformidad, expresando los agravios que considere le cause el acto impugnado. Dicho escrito no estará sujeto a formalidad alguna, asimismo podrá ofrecerse cualquier medio de prueba permitido por la Ley y no sea contrario a la moral o al derecho, excepto tratándose de la prueba testimonial o a la confesional de los servidores públicos de “LA COMAPAT”, pero si puede ofrecerse la de informes de los titulares de las diversas dependencias del organismo operador del agua que estén relacionados con los hechos mencionados en su inconformidad.
+
+En caso de que el escrito que contenga la inconformidad no esté firmado en forma autógrafa, se tendrá por no presentada la misma y en el supuesto que no acompañe las pruebas o no exprese agravios, no es motivo para desechar la inconformidad, pero no podrá hacerlo si transcurrió el plazo para inconformarse.
+
+Cuando el escrito de informidad (sic) no contenga domicilio para oír y recibir notificaciones, se tendrá como tal el que tenga registrado en el padrón de usuarios de “LA COMAPAT”.
+
+Cuando se promueva a nombre y representación del interesado se deberá acompañar el documento que justifique la personería del promovente; en el caso de que no se acompañe dicho documento, por una sola vez se requerirá a éste para que en el término de 3 días hábiles siguientes al de su notificación, exhiba el documento idóneo; concluido el plazo sin que se exhiba el documento en el que conste la personalidad del promovente o el documento no sea idóneo, se tendrá por no interpuesta la inconformidad.
+
+En materia de inconformidad se prohíbe la gestión de negocios por lo que deberá ser promovida por el interesado o su representante legal, debiéndose acreditar que la representación se otorgó a más tardar en la fecha que se presentó el escrito de inconformidad.
+
+Una vez desahogada la totalidad de las pruebas, el expediente se considera que se encuentra totalmente integrado.
+
+El Director General de “LA COMAPAT”, una vez integrado el expediente respectivo, deberá emitir resolución debidamente fundada y motivada en un plazo no mayor a 30 días hábiles, transcurrido dicho plazo, se considera que existe resolución negativa, caso éste que será optativo para el particular de acudir al Tribunal Contencioso Administrativo o esperar a que se le notifique resolución expresa.
 
 ###### ARTICULO 12.
 
 En las conexiones eventuales a la red de agua potable, siempre que se refiera a una toma de ½” de diámetro, se cobrará el tipo de uso del que se trate por el tiempo de utilización del servicio; cuando sea en un término menor a seis meses, se cubrirá el costo en una sola exhibición en el momento de celebrar el contrato.
 
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+
+APARTADO B
+
+DEL COBRO DE LOS DERECHOS POR REGULARIZACIÓN DE LA CONEXIÓN Y RECONEXIÓN AL SISTEMA DE RED
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 13.
 
-En caso de que sea detectada una toma de agua potable no registrada, el cobro de los derechos correspondientes será de acuerdo al siguiente criterio:
+En caso de que sea detectada una toma de agua potable o descarga de drenaje sanitario no registrada, el cobro de los derechos correspondientes será de acuerdo al siguiente criterio:
 
-a).- En el caso de tomas domésticas se tomará como base para el cobro, lo que resulte de considerar un gasto de 300 litros por habitante por día, considerando 4.5 habitantes por familia, por un máximo de hasta 5 años, salvo que el usuario demuestre que data de un período menor; y
+a).- En el caso de tomas domésticas de agua potable y de descargas al drenaje, se tomará como base para el cobro, lo que resulte de considerar un gasto de 300 litros por habitante por día, considerando 4.5 habitantes por familia, por un máximo de hasta 5 años, salvo que el usuario demuestre que data de un período menor, caso éste que el cobro se ajustara a lo demostrado;
 
-b).- Tratándose de tomas distintas a las del tipo doméstico, se aplicará el factor de 0.9 litros por segundo por hectárea, siendo el cobro por estas tomas lo que resulte demultiplicar este factor por un máximo de hasta 24 horas y hasta por 5 años, a la tarifa no doméstica vigente en el período en que se trate, salvo que el usuario demuestre que la toma data de un periodo menor.
+b).- Tratándose de tomas de agua potable y/o descargas al drenaje distintas a las del tipo doméstico, se aplicará el factor de 0.9 litros por segundo por hectárea, siendo el cobro por estas tomas lo que resulte de multiplicar este factor por un máximo de hasta 24 horas y hasta por 5 años, a la tarifa no doméstica vigente en el período en que se trate, salvo que el usuario demuestre que la toma data de un período en que se trate, salvo que el usuario demuestre que la toma data de un período menor y que su consumo de agua es inferior al presuntamente establecido y (sic)
+
+c).- Tratándose de tomas de agua clandestina a que se refiere la fracción V del artículo 10 de la Ley de Aguas para el Estado de Colima, se presume un consumo de agua equivalente a 10,000 metros cúbicos por hectárea por año, a la cual se le aplicará la cuota correspondiente al concepto de agua potable considerada en el rango de 16 a 20 metros cúbicos de la tarifa popular uno, hasta por cinco años, salvo que se demuestre que la conexión clandestina data de un período menor.
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 14.
 
-Los usuarios de los servicios de agua potable, con excepción de los considerados como “eventuales” a que se refiere el artículo 12, pagarán los derechos por la conexión a la red, de conformidad con las siguientes cuotas:
+Los usuarios de los servicios de agua potable, con excepción de los considerados como “eventuales” a que se refiere el artículo 12, pagarán los derechos por la conexión del entronque a la red, de conformidad con las siguientes cuotas:
 
 I.- Contratación individual:
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
-
-a) Tratándose de tomas de 1/2” de diámetro:
+A) Tratándose de tomas de ½ pulgada de diámetro, hasta 6 metros de longitud o fracción:
 
 1) Uso doméstico 11.658 SM
 
@@ -545,13 +887,9 @@ a) Tratándose de tomas de 1/2” de diámetro:
 
 4) Uso comercial alto 46.731 SM
 
-5) Uso industrial, previo acuerdo
+5) Uso industrial, previo acuerdo de factibilidad 60.395 SM
 
-de factibilidad 60.395 SM
-
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
-
-b) Tratándose de tomas de 3/4” de diámetro:
+B) Tratándose de tomas de ¾ pulgadas de diámetro:
 
 1) Uso doméstico 27.970 SM
 
@@ -559,33 +897,37 @@ b) Tratándose de tomas de 3/4” de diámetro:
 
 3) Uso industrial según acuerdo de factibilidad emitido por la COMAPAT.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
-
-c) Tratándose de tomas de 1” de diámetro:
+C) Tratándose de tomas de 1 pulgada de diámetro:
 
 1) Uso comercial 116.175 SM
 
-2) Uso industrial según acuerdo de factibilidad emitido por la COMAPAT.
+2) Uso industrial, según acuerdo de factibilidad emitido por la COMAPAT.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
-
-d) Tratándose de tomas de 1 1/2” de diámetro:
+D) Tratándose de tomas de 1 1/2 pulgada de diámetro:
 
 1) Uso comercial 255.577 SM
 
 2) Uso industrial según acuerdo de factibilidad emitido por la COMAPAT.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
-
-e) Tratándose de tomas de 2” de diámetro:
+E) Tratándose de tomas de 2 pulgadas de diámetro:
 
 1) Uso comercial 511.154 SM
 
 2) Uso industrial según acuerdo de factibilidad emitido por la COMAPAT.
 
-Las cuotas anteriores no incluyen el costo de los materiales ni del medidor empleados en las obras necesarias para la conexión.
+II.- Los usuarios a que se refiere este artículo, que excedan los 6 metros de longitud cubrirán adicionalmente:
 
-Las conexiones industriales al sistema se cobrarán según resultado del estudio de factibilidad.
+A).- En uso doméstico por cada metro lineal 2.30 SM
+
+B).- En uso comercial bajo por cada metro lineal 3.4839 SM
+
+C).- En uso comercial medio por cada metro lineal 5.8053 SM
+
+D).- En uso comercial medio por cada metro lineal 5.8053 SM
+
+Las cuotas anteriores no incluyen el costo de los materiales ni del medidor empleados en las obras necesarias para la conexión. Por lo que el costo de los materiales y los derechos que se causen por la mano de obra, serán por cuenta del interesado.
+
+Las conexiones industriales al sistema se cobraran según resultado del estudio de factibilidad.
 
 ###### ARTICULO 15.
 
@@ -625,15 +967,49 @@ VI.- En los sistemas rurales y
 
 comerciales en playas 8.571 SM
 
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 16.
 
-Al autorizarse nuevas colonias, fraccionamientos y para los negocios que no estén considerados en algún uso de la clasificación señalada en los artículos del 3, 5 y 7, del presente ordenamiento, la COMAPAT determinará la clasificación que les corresponda, en base a la información de que disponga.
+Al autorizarse nuevas colonias, fraccionamientos y para los negocios que no estén considerados en algún uso de la clasificación señalada en los artículos del 3, 5 y 7 del presente ordenamiento, la COMAPAT determinará la clasificación que les corresponda, en base a la información de que disponga.
+
+En el caso de usuarios sujetos al régimen de propiedad en condominio, se observarán las siguientes disposiciones:
+
+I. Cuando los condóminos, tanto para uso habitacional como comercial o industrial, cuente con toma individual, pagarán los derechos de conformidad con los artículos segundo y tercero de la presente Ley;
+
+II. Si no existe medidor instalado, el derecho por la prestación del servicio de agua potable, drenaje y saneamiento a pagar por cada condómino será determinado conforme a la cuota fija que se señala en el Capítulo Tercero de la presente Ley;
+
+III. Si el condominio cuenta con una sola toma, los usuarios deberán acreditar la existencia legal del mismo, para estar en condiciones de prestar los servicios de agua potable, drenaje y saneamiento, respondiendo en primer término del pago la persona moral de que se trate y solidariamente los usuarios de los inmuebles;
+
+IV. En el caso de las tomas de agua potable y descargas de drenaje destinadas a las áreas comunes de los condominios, para efectos de contratación, prestación del servicio y pago, las asociaciones de condóminos deberán exhibir y acreditar la existencia legal de la asociación. En los casos de las ya existentes, se les otorgará un plazo no mayor a 60 días naturales a partir de la entrada en vigor de la presente ley, para que regularicen su situación legal y estar en condiciones de continuar haciendo uso del servicio;
+
+V. En caso de que el condominio cuente con una sola toma y ésta tenga instalado un solo medidor, el responsable del pago del servicio de agua potable, drenaje y saneamiento, será en primer término la asociación de condóminos, quién deberá acreditar la existencia legal de la asociación, y
+
+VI. En las nuevas contrataciones para módulos habitacionales o edificios para locales comerciales, el promotor deberá contratar tantas tomas de agua y descargas de drenaje como número de viviendas o establecimientos comerciales existan, colocando medidor y reportándolo a “LA COMAPAT”, de acuerdo a las especificaciones técnicas y administrativas que ésta establezca.
+
+Tratándose del pago de los derechos mediante cuota fija del servicio de agua potable y drenaje, se tomarán en cuenta las siguientes disposiciones:
+
+I. En caso de que dos o más predios se alimentan por una sola toma de agua potable y la misma descarga de drenaje, pagarán por separado la cuota fija que corresponda, y
+
+II. Los usuarios que dispongan de una toma mayor de media pulgada, deberán pagar los derechos por servicio de agua potable y drenaje en los términos que se establecen para el servicio medido en la presente ley.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+
+APARTADO C
+
+DERECHO DE ENTRONQUE A LAS REDES DE LA COMAPAT
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 17.
 
-En el caso de nuevos fraccionamientos o predios, edificaciones comerciales e industriales, cuyo servicio de agua potable se vaya a incorporar a las redes existentes, se pagarán las siguientes cuotas:
+En el caso del pago por el derecho de entronque Colectivo a la red de agua potable para abastecer a un fraccionamiento o predios, desarrollo comercial, industrial o habitacional, se pagarán las siguientes cuotas:
 
-I.- Si se cuenta con fuente de abastecimiento se pagará la incorporación al sistema de red de agua potable y drenaje municipal.
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2010)</small>
+
+I.- Si se cuenta con fuente de abastecimiento se pagará la incorporación al sistema de red de agua potable municipal. El desarrollador deberá presentar la solicitud de entronque, con copia del título de la concesión de la Comisión Nacional del Agua, así como lo siguiente: Inventario y características del pozo, el gasto de aforo en litros por segundo y análisis de calidad fisicoquímica y bacteriológica con dictamen de la Secretaría de Salud y Bienestar Social que la califique como apta para el uso y consumo humano. De proceder la solicitud, el desarrollador cubrirá el importe de los gastos de materiales y mano de obra que origine el entronque de la red de agua potable.
+
+Una vez que se hayan cumplido las condiciones y pagados los derechos de entronque, según estudio de factibilidad, si no se encuentra especificado en la presente ley, y demás derechos correspondientes, el concesionario hará el traslado de la concesión a “LA COMAPAT”, mediante acta de entrega recepción, y
 
 II.- Si no se cuenta con fuente de abastecimiento, además de pagarse la incorporación al sistema de red municipal de agua potable y drenaje, se pagará un derecho adicional por la cantidad de $ 20,000.00 por cada litro por segundo de agua potable que requieran como gasto máximo diario, mismo que será determinado por la COMAPAT, en base al proyecto autorizado del desarrollo en cuestión.
 
@@ -647,11 +1023,27 @@ La COMAPAT realizará la inspección de las instalaciones destinadas a los servi
 
 La infraestructura hidráulica se integrará al patrimonio de la COMAPAT una vez que esté en operación y previo pago de los derechos correspondientes.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+
+Para la construcción de casas habitación, condominios, departamentos o locales comerciales, éstos invariablemente deberán de contar con un medidor para cada vivienda o establecimiento bajo los lineamientos que le establezca “LA COMAPAT”, para que los consumos determinen el monto a pagar.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+
+###### ARTICULO 17 Bis.
+
+Tratándose de fraccionamientos que cuenten con planta de tratamiento propia y que deseen incorporarlos a “LA COMAPAT”, deberán presentar la solicitud así como lo siguiente: Inventario y características de la planta de tratamiento, la capacidad de la misma y, que la calidad de las aguas tratadas cumpla las normas establecidas por la Comisión Nacional del Agua y la Secretaría de Salud, además el manual de operación de la misma. Si los resultados son positivos, el desarrollador deberá cumplir con las condiciones que “LA COMAPAT” establezca para dar trámite a la solicitud.
+
+Una vez que se hayan cumplido las condiciones establecidas, la planta de tratamiento pasará a ser propiedad de “LA COMAPAT” formalizando dicha acción mediante acta de entrega recepción.
+
+El desarrollador o fraccionador, deberá presentar sus proyectos con la aprobación de la autoridad en materia de desarrollo urbano, a fin de verificar que cumplan con los requisitos señalados por “LA COMAPAT”
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 18.
 
-Para efectuar las incorporaciones de fraccionamientos al sistema de agua potable y drenaje, se cobrara el 70 por ciento de los derechos de conexión de agua y drenaje vigentes por cada lote, tratándose de fraccionamientos que no excedan de 200 (doscientos) lotes; y el 50 por ciento para aquellos fraccionamientos cuyo numero de lotes sea mayor de 201. Este pago es independiente de los derechos de contratación que deberá pagar el usuario en el momento correspondiente.
+Para efectuar las incorporaciones de fraccionamientos al sistema de agua potable y drenaje, se cobrara el 70 por ciento de los derechos de entronque de agua y drenaje vigentes por cada lote, tratándose de fraccionamientos que no excedan de 200 (doscientos) lotes; y el 50 porciento para aquellos fraccionamientos cuyo número de lotes sea mayor de 201. Este pago es independiente de los derechos de contratación que deberá pagar el usuario en el momento correspondiente.
+
+Dicho descuento se aplicará exclusivamente a los lotes que se encuentren considerados en densidad alta o habitacional unifamiliar en la clasificación H4-U, de acuerdo al plano de notificación autorizado por la Dirección de Desarrollo Urbano del Municipio al que corresponda o por la autoridad competente.
 
 ###### ARTICULO 19.
 
@@ -679,17 +1071,25 @@ Para la construcción de cualquier tipo de obra, deberá celebrarse un convenio 
 
 La COMAPAT prestará el servicio requerido para la celebración de espectáculos públicos mediante la elaboración de convenios en los que se estimen los consumos con base en los requerimientos y se realice el pago por adelantado.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 24.
 
-Los fraccionamientos empezarán a cubrir sus cuotas o tarifas a partir de la fecha de incorporación a la red del sistema de agua y tendrán la obligación de entregar mensualmente una relación de los nuevos poseedores o propietarios de lotes, para la actualización del padrón de usuarios mediante la celebración de contrato individual de cada poseedor o propietario, en los términos del Artículo 14 del presente ordenamiento.
+Los fraccionamientos empezarán a cubrir sus cuotas o tarifas a partir de la fecha de incorporación a la red del sistema de agua y tendrán la obligación de entregar mensualmente una relación de los nuevos poseedores o propietarios de lotes, para la actualización del padrón de usuarios mediante la celebración de contrato individual de cada poseedor o propietario, en los términos del Artículo 11 del presente ordenamiento.
+
+Los desarrolladores de vivienda deben informar a los usuarios de la obligación de contratar los servicios de agua potable y alcantarillado, antes de hacer uso de la vivienda.
+
+Los desarrolladores de vivienda deben instalar un medidor para el suministro de agua potable en cada vivienda, o los que sean necesarios, según las tomas de agua instaladas en el predio, con base en las especificaciones técnicas y administrativas que establezca “LA COMAPAT”, además de cubrir los derechos por instalación y derechos por uso de medidor de ½ pulgada, antes de entregarlas a los usuarios.
+
+En todos los casos relacionados con tomas de agua, ya sea de entronque individual o colectivo, los diámetros de las tomas serán determinados por “LA COMAPAT”, dependiendo de las necesidades de consumo de agua del predio edificado.
 
 ### CAPITULO III. DEL ALCANTARILLADO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 25.
 
-Los usuarios de los servicios de agua potable, pagarán por la conexión a la red de alcantarillado cuando la descarga se realice por abajo de las concentraciones permisibles conforme a las normas técnicas ecológicas y las condiciones particulares de descarga vigentes, los derechos conforme a las siguientes cuotas:
+Los usuarios de los servicios de drenaje, pagarán los derechos por la conexión del entronque a las redes de alcantarillado cuando la descarga se realice por abajo de las concentraciones permisibles conforme a las normas técnicas ecológicas y las condiciones particulares de descarga vigentes, los derechos conforme a las siguientes cuotas:
 
 > <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
@@ -709,9 +1109,45 @@ I.- Contratación individual tratándose de descargas de aguas residuales con di
 
 de factibilildad (sic) 90.740 SM
 
-Las cuotas anteriores no incluye el costo de los materiales empleados en las obras necesarias.
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+
+En este caso se deberá recabar la factibilidad técnica de “LA COMAPAT” independientemente de cumplir con lo establecido en la Norma Oficial Mexicana NOM-02-ECOL-1996 que establece los límites máximos permisibles de contaminantes en las descargas de aguas residuales a los sistemas de alcantarillado urbano o municipal, de lo contrario no descargaran.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+
+Los Usuarios a que se refiere esta fracción, que excedan los 6 metros de longitud cubrirán adicionalmente:
+
+A) En uso domésticos por cada metro lineal 4.0746 SM
+
+B) En uso doméstico en playas por cada metro lineal 4.0746 SM
+
+C) En uso comercial bajo por cada metro lineal 6.9798 SM
+
+D) En uso comercial medio por cada metro lineal 8.3007 SM
+
+E) En uso comercial alto por cada metro lineal 10.5885 SM
+
+F) En uso comercial por cada metro lineal 18.144 SM
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+
+Las cuotas anteriores no incluyen la conexión física de la obra, por lo que, el costo de los materiales y los derechos que se causen por la mano de obra, serán por cuenta del interesado.
 
 Las conexiones industriales al sistema de drenaje se cobrarán según resultado del estudio de factibilidad.
+
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2010)</small>
+
+II.- Por la mano de obra hasta 6 metros de longitud o fracción en la conexión a la red de drenaje y alcantarillado, se pagarán las siguientes cuotas.
+
+Tipo de calle en que se ubica
+
+el predio del solicitante Importe
+
+Empedrado 13.87906
+
+Asfalto 28.29742
+
+Concreto hidráulico 28.17233
 
 ###### ARTICULO 26.
 
@@ -741,407 +1177,13 @@ de la descarga 14.526 SM
 
 ###### ARTICULO 27.
 
-Los usuarios que paguen el servicio de agua potable mediante cuota fija, pagarán por la prestación del servicio de drenaje y alcantarillado, los derechos de conformidad con las siguientes cuotas:
-
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
-
-I .- DOMÉSTICO
-
-1.1. Popular uno.
-
-Casas de materiales económicos,
-
-no duraderos 0.241 SM
-
-1.2. Popular dos
-
-Casas de Ladrillo con teja de barro,
-
-cemento o asbesto 0.345 SM
-
-1.3. Popular tres
-
-Pie de casa, con habitación de vaciado
-
-y acabados económicos 0.368 SM
-
-1.4. Popular cuatro
-
-Casa habitación, de vaciado, bóveda y
-
-concreto con acabado económico 0.449 SM
-
-1.5. Popular cinco
-
-Casa habitación con bóveda y vaciado de
-
-concreto, de dos plantas, de interés social,
-
-acabados económicos .0.496 SM
-
-1.6. Popular seis
-
-Casa habitación con bóveda y vaciado de
-
-concreto, de dos plantas, con acabados de
-
-primera 0.609 SM
-
-1.7. Servicio Mixto popular:
-
-Comprende casas habitación de popular
-
-uno a popular cuatro con tendajón 0.454 SM
-
-1.8. Residencial.
-
-Comprende: Todas aquellas casas habitación
-
-que por su tipo de construcción se consideren
-
-como residenciales, teniendo un frente mínimo
-
-de terreno de 10 metros y una superficie
-
-mínima de 300 metros cuadrados; así mismo
-
-encuadran en esta categoría las casas
-
-habitación de más de dos pisos y casas
-
-habitación de vaciado, bóveda y concreto con
-
-acabados de primera calidad 0.907 SM
-
-1.9. Instituciones de Beneficencia Pública y Social:
-
-a) Consumo Bajo 0.264 SM
-
-b) Consumo Alto 0.533 SM
-
-1.10. En playa
-
-a).- Enramadas 0.477 SM
-
-b).- Construcción pequeña 0.533 SM
-
-c).- Construcción grande 0.765 SM
-
-II.- COMERCIAL.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
-
-A) COMERCIAL CONSUMO BAJO: Los comercios que a continuación se mencionan se clasifican como Comercial consumo bajo y pagarán una cuota de 0.454 SM
-
-El servicio comercial consumo bajo comprende: Abarrotes, agencias de viaje, almacenes de ropa, salones de belleza, boutiques, bufetes, consultorios, despachos y oficinas, carpinterías en pequeño (operadas únicamente por la familia), cerrajerías, depósitos de cerveza, dulces, estacionamientos, estanquillos, farmacias, ferreterías, florerías, estudios de fotografía, funerarias, huaracherías, imprentas, jugueterías, licorerías, loncherías, materiales para construcción, misceláneas, minisuper, mueblerías, panaderías, papelerías, peluquerías, pintura y laminado de vehículos, refaccionarias, reparación de aparatos electrodomésticos, reparación de llantas, relojerías, sastrerías, servicio de transporte y fletes (sin lavado), talleres mecánicos, eléctricos y tornos, tapicerías, taquerías, telas, templos, tlapalerías, venta de libros, periódicos y revistas, videocassetes, alquiler de videojuegos, vidrierías, y zapaterías.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
-
-B) COMERCIAL CONSUMO MEDIO: Los comercios que a continuación se mencionan se clasifican como Comercial consumo medio y pagarán una cuota de 0.775 SM
-
-El servicio comercial consumo medio comprende: Academias y escuelas particulares (por cada aula), alquileres de loza, muebles y manteles, billares, bodegas de fruta y verdura, bodegas de almacenamiento, carnicerías, carpinterías que cuenten con trabajadores bajo relación laboral, cenadurías, clubes sociales (sin alberca, no restaurante), fábrica de dulces, fondas y cocinas económicas, obradores, paleterías y neverías, salas de velación y tiendas de autoservicio.
-
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
-
-C) COMERCIAL CONSUMO ALTO: Los comercios cuyos giros a continuación se mencionan se clasifican como “comercial consumo alto” y pagarán los derechos conforme a las siguientes cuotas
-
-c.1. Casas de Huéspedes
-
-c.1.1. Por cada habitación con baño privado 0.246 SM
-
-c.1.2. Por cada habitación con baño común 0.217 SM
-
-c.2. Centros Botaneros
-
-c2.1. Consumo bajo 4.152 SM
-
-c2.2. Consumo medio 5.012 SM
-
-c.3. Edificios de Espectáculos:
-
-c.3.1. Cines 0.940 SM
-
-c.3.2. Plazas de toros 1.885 SM
-
-c.3.3. Bares y Discotecas 1.885 SM
-
-c.3.4. Otros (por cada sanitario) 0.463 SM
-
-c.3.5. Salón de fiestas 0.940 SM
-
-c.3.6.Salón de fiestas con áreas verdes 1.960 SM
-
-c.4 Viveros de plantas:
-
-c.4.1. De 0.01 m2 hasta 100.00 m2 0.533 SM
-
-c.4.2. De 100.01 m2 hasta 300.00 m2 0.799 SM
-
-c.4.3. De 300.01 hasta 500.00 m2 1.596 SM
-
-c.4.4. Mayores de 500.00 m2 hasta 1,500 m2 3.198 SM
-
-c.5. Aserraderos 1.682 SM
-
-c.6. Hoteles y Moteles. (Se cubrirá el 50 % del total de las habitaciones, pero tratándose de moteles de paso el pago será del 70% del total de sus habitaciones)
-
-c.6.1. Por cada habitación con baño privado 0.643 SM
-
-c.6.2. Por cada habitación con baño común 0.472 SM
-
-c.6.3. Servicio de restaurante adicional 0.364 SM
-
-c.7. En Playas:
-
-c.7.1. Fondas 0.643 SM
-
-c.7.2. Restaurante de bajo consumo 1.569 SM
-
-c.7.3. Restaurante de consumo medio 3.198 SM
-
-c.7.4. Restaurante de alto consumo 4.975 SM
-
-c.8. Clínicas, Hospitales, Sanatorios:
-
-c.8.1. Por cada habitación con baño 0.487 SM
-
-c.8.2. Por cada habitación con baño común 0.472 SM
-
-c.8.3. Servicio de cafetería adicional 0.364 SM
-
-c.9. Vecindades, Internados, Conventos y Similares:
-
-c.9.1. Por cada habitación con baño privado 0.222 SM
-
-c.9.2. Por cada habitación con baño común 0.185 SM
-
-c.10. Restaurantes
-
-c. 10.1. Consumo bajo 0.893 SM
-
-c. 10.2. Consumo medio 1.663 SM
-
-c.11. Lavado De Carros
-
-c.11.1. Consumo bajo 2.418 SM
-
-c.11.2. Consumo medio 3.434 SM
-
-c.12. Gasolineras
-
-c.12.1. Sin servicio de lavado 2.232 SM
-
-c.12.2. Con servicio de lavado 2.508 SM
-
-c.12.3. Servicio de restaurante adicional 0.454 SM
-
-c.13. Lavanderías Automáticas,
-
-(Hasta Tres Máquinas) 1.228 SM
-
-c.13.1. Por cada máquina excedente de tres 0.212 SM
-
-c.14. Molinos De Nixtamal 0.978 SM
-
-c.15. Tortillerías:
-
-c.15.1. Sin molino 0.747 SM
-
-c.15.2. Con molino 1.672 SM
-
-c.16. Tintorerías:
-
-c.16.1. Chica 1.190 SM
-
-c.16.2. Mediana 1.502 SM
-
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
-
-III.- INDUSTRIAL
-
-1. Fábrica de Materiales para Construcción
-
-1.1. Consumo bajo 1.521 SM
-
-1.2 Consumo medio 2.031 SM
-
-2. Industria de Frutas:
-
-2.1. Empaques 3.349 SM
-
-2.2. Armadora de rejas 1.289 SM
-
-2.3. Procesadora de limón y agroindustrias 4.955 SM
-
-3. Servicios Industriales de Agua y hielo
-
-3.1. Plantas purificadoras con procesos y
-
-lavado de garrafón 6.368 SM
-
-3.2. Plantas expendedoras de agua 4.709 SM
-
-3.3. Fabricas de Hielo 15.385 SM
+(DEROGADO, P.O. 25 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 28.
 
-Los usuarios que paguen el servicio de agua potable mediante el régimen de servicio medido, pagarán por la prestación del servicio de drenaje y alcantarillado, los derechos que resulten de aplicar las siguientes cuotas:
+(DEROGADO, P.O. 25 DE DICIEMBRE DE 2010)
 
-I.- DOMESTICO
-
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
-
-Comprende las señaladas en la fracción II, del artículo 3 y pagarán las cuotas que resulten de conformidad con la siguiente:
-
-TARIFA BIMESTRAL
-
-RANGOS DE ALCANTARILLADO
-
-CONSUMO POR
-
-METROS CUBICOS
-
-DE HASTA
-
-0 a 10.00 0.106 SM
-
-10.01 a 20.00 0.011 SM
-
-20.01 a 30.00 0.012 SM
-
-30.01 a 45.00 0.015 SM
-
-45.01 a 60.00 0.018 SM
-
-60.01 a 90.00 0.022 SM
-
-90.01 a 110.00 0.030 SM
-
-110.01 en adelante 0.037 SM
-
-II.- COMERCIAL.
-
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
-
-A) COMERCIAL CONSUMO BAJO.- Comprende todos los giros comerciales señalados en la fracción I, inciso A) del artículo 5 y pagarán las cuotas que resulten de conformidad con la siguiente:
-
-TARIFA BIMESTRAL
-
-RANGOS DE ALCANTARILLADO
-
-CONSUMO POR
-
-METROS CUBICOS
-
-DE HASTA
-
-0 a 10.00 0.133 SM
-
-10.01 a 20.00 0.021 SM
-
-20.01 a 30.00 0.022 SM
-
-30.01 a 45.00 0.024 SM
-
-45.01 a 60.00 0.026 SM
-
-60.01 a 90.00 0.031 SM
-
-90.01 a 110.00 0.037 SM
-
-110.01 en adelante 0.046 SM
-
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
-
-B) COMERCIAL CONSUMO MEDIO.- Comprende todos los giros comerciales señalados en la fracción I, inciso B) del artículo 5 y pagarán las cuotas que resulten de conformidad con la siguiente:
-
-TARIFA BIMESTRAL
-
-RANGOS DE ALCANTARILLADO
-
-CONSUMO POR
-
-METROS CUBICOS
-
-DE HASTA
-
-0 a 10.00 0.144 SM
-
-10.01 a 20.00 0.023 SM
-
-20.01 a 30.00 0.024 SM
-
-30.01 a 45.00 0.027 SM
-
-45.01 a 60.00 0.028 SM
-
-60.01 a 90.00 0.033 SM
-
-90.01 a 110.00 0.040 SM
-
-110.01 en adelante 0.050 SM
-
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
-
-C) COMERCIAL CONSUMO ALTO: Comprende todos los giros comerciales señalados en la fracción I, inciso C) del artículo 5 y pagarán las cuotas que resulten de conformidad con la siguiente:
-
-TARIFA BIMESTRAL
-
-RANGOS DE ALCANTARILLADO
-
-CONSUMO POR
-
-METROS CUBICOS
-
-DE HASTA
-
-0 a 10.00 0.155 SM
-
-10.01 a 20.00 0.024 SM
-
-20.01 a 30.00 0.027 SM
-
-30.01 a 45.00 0.029 SM
-
-45.01 a 60.00 0.031 SM
-
-60.01 a 90.00 0.036 SM
-
-90.01 a 110.00 0.043 SM
-
-110.01 en adelante 0.053 SM
-
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
-
-III.- INDUSTRIAL.- Comprende las señaladas en la fracción I, del artículo 7 y todas demás las (sic) actividades económicas de transformación y pagarán las cuotas que resulten de conformidad con la siguiente:
-
-TARIFA BIMESTRAL
-
-RANGOS DE ALCANTARILLADO
-
-CONSUMO POR
-
-METROS CUBICOS
-
-DE HASTA
-
-0 a 10.00 0.155 SM
-
-10.01 a 20.00 0.024 SM
-
-20.01 a 30.00 0.027 SM
-
-30.01 a 45.00 0.029 SM
-
-45.01 a 60.00 0.031 SM
-
-60.01 a 90.00 0.036 SM
-
-90.01 a 110.00 0.043 SM
-
-110.01 en adelante 0.053 SM
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 29.
 
@@ -1157,9 +1199,19 @@ III.- En el caso de descargas que contengan desechos tales como lodos, ácidos, 
 
 Por la prestación del servicio de drenaje y alcantarillado provenientes de actividades productivas, cuando la descarga se realice por debajo de las concentraciones permisibles conforme a las normas técnicas ecológicas y condiciones particulares de descarga vigente, en los términos de equilibrio ecológico y protección del ambiente, se pagará adicionalmente un 40 por ciento de la cuota que la corresponda conforme a los artículos precedentes de este capítulo.
 
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 31.
 
 Por incorporaciones colectivas al sistema de drenaje, se pagará el 70 por ciento de los derechos de conexión por cada lote. Este pago es independiente de los derechos de contratación que deberá pagar el usuario en el momento correspondiente.
+
+Los desarrolladores y/o urbanizadores con obras terminadas, que cuenten con redes conectadas al servicio en predios aún sin enajenar y que tengan instaladas las descargas domiciliarias de drenaje, deberán pagar los derechos por la prestación del servicio de acuerdo a la tarifa o cuota que le corresponda, en tanto no transmitan la propiedad de los predios.
+
+Los constructores de conjuntos habitacionales o desarrollos comerciales, deberán construir por su cuenta las instalaciones y conexiones de alcantarillado necesarias y estarán obligados a tramitar ente “LA COMAPAT” la revisión y autorización de los proyectos respectivos.
+
+Dichas obras se integrarán al patrimonio de “LA COMAPAT”, una vez que estén en operación y previo pago de los derechos correspondientes.
+
+“LA COMAPAT” realizará la suspensión de la construcción de las redes de drenaje, por medio de personal que comisione al efecto, debiendo pagar el promotor por este servicio el 2 por ciento del costo de la obra supervisada.
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
@@ -1193,71 +1245,111 @@ II.- De servicios de Alcantarillado.
 
 En el caso de viviendas de interés social y popular, la COMAPAT podrá otorgar una reducción hasta del 50 por ciento del concepto de contrato de conexión del servicio de drenaje, a los fraccionamientos y desarrollos habitacionales de este tipo cuando el usuario así lo solicite y se justifique mediante un estudio socioeconómico.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 37.
 
-Los usuarios de los servicios de descargas de aguas residuales derivadas de servicios sanitarios portátiles, limpieza de fosas sépticas y fosas desgrasadoras en las plantas de tratamiento, pagarán los derechos previstos en la siguiente tarifa:
+Los usuarios que soliciten los servicios de descargas de aguas residuales derivadas de servicios sanitarios portátiles, limpieza de fosas sépticas y fosas desgrasadoras pagarán por la carga, traslado, descarga y saneamiento de sus desechos los derechos previstos en la siguiente tarifa:
 
-TIPO DE DESCARGA CUOTAS POR
+CUOTAS POR METRO CÚBICO
 
-RECEPCION DE
+TIPO DE DESECHO
 
-DESCARGAS.
+DESCARGA SANEAMIENTO
 
-Aguas de sanitarios portátiles
+Aguas de sanitarios
 
-(excretas humanas) 0.377 SM
+portátiles (excretas
 
-Aguas de fosas sépticas (mezcla
+humanas) 21.00840 0.05250
 
-de residuos domésticos e
+Aguas de fosas sépticas
 
-industriales no peligrosos) 0.388 SM
+(mezcla de residuos
 
-Aguas con grasas orgánicas
+domésticos e industriales
 
-(de origen animal y vegetal
+no peligrosos). 21.00840 0.07550
+
+Aguas con grasas
+
+orgánicas (de origen
+
+animal y vegetal
 
 provenientes de fosas
 
-desgrasadoras de restaurantes
+desgrasadoras de
 
-y giros similares ) 1.601 SM
+restaurantes y giros
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+similares). 21.00840 0.10500
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 38.
 
 Para recibir los servicios señalados en el artículo anterior, los solicitantes deberán celebrar contrato de prestación de servicios con la COMAPAT y pagar un derecho de: 5.013 SM
 
-Las empresas dedicadas a la renta de sanitarios portátiles, limpieza de fosas sépticas y fosas desgrasadoras mencionadas deberán de presentar a la COMAPAT el registro y permiso vigente de la autoridad competente, como requisito para la celebración del contrato de servicio que refiere el presente acuerdo.
+Las empresas dedicadas a la renta de sanitarios portátiles, limpieza de fosas sépticas y fosas desgrasadoras mencionadas deberán de presentar a la COMAPAT el registro y permiso vigente de la autoridad competente, como requisito para la celebración del contrato de servicio.
 
-Los usuarios que suscriban el contrato a que se refiere este artículo estarán obligados a descargar las aguas residuales recolectadas de sanitarios portátiles y fosas sépticas en el punto que la COMAPAT señale para el efecto.
+Los usuarios que suscriban el contrato a que se refiere este artículo estarán obligados a descargar las aguas residuales en el punto determinado que la COMAPAT señale para el efecto.
 
-Los usuarios a que se refiere este artículo estarán obligados a que sus descargas cumplan con las disposiciones legales aplicables, así como los parámetros más estrictos, condiciones, restricciones y demás estipulaciones que en razón de los tipos y características de las aguas residuales que la COMAPAT establezca en forma general o que se estipulen en los contratos de servicio que se celebren con el propio organismo, pudiéndose realizar por éste las muestras y análisis en las aguas residuales a descargar que resulten necesarios para vigilar el cumplimiento de las disposiciones legales, cuyo costo será con cargo al usuario. Se rechazarán las descargas que no cuenten con los requisitos mencionados en este artículo.
+Las empresas a que se refiere este artículo estarán obligadas a que sus descargas cumplan con las disposiciones legales aplicables, así como los parámetros más estrictos, condiciones, restricciones y demás estipulaciones que en razón de los tipos y características de las aguas residuales que la COMAPAT establezcan en forma general o que se estipulen en los contratos de servicio que se celebren con el propio organismo, pudiéndose realizar por éste las muestras y análisis en las aguas residuales a descargas que resulten necesarios para vigilar el cumplimiento de las disposiciones legales, cuyo costo será con cargo al usuario. Se rechazarán las descargas que no cuenten con los requisitos mencionados en éste artículo.
 
-### CAPITULO V (SIC). DE OTROS SERVICIOS NO ESPECIFICADOS
+Los usuarios previstos en los párrafos 3 y 5 de éste artículo pagarán los servicios conforme a la siguiente tabla de tarifas:
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+TIPO DE DESECHOS
 
-### CAPITULO VI. DISPOSICIONES GENERALES
+CUOTA POR METRO CÚBICO
 
-T R A N S I T O R I O S :
+SANEAMIENTO
 
-> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2006)</small>
+Aguas de sanitarios portátiles
+
+(excretas humanas) 2.10080
+
+Aguas de fosas sépticas
+
+(mezcla de residuos domésticos
+
+e industriales no peligrosos). 3.15120
+
+Aguas con grasas orgánicas
+
+(de origen animal y vegetal provenientes
+
+de fosas desgrasadoras de restaurantes
+
+y giros similares). 6.30250
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+
+### CAPITULO IV. DE LAS CUOTAS O TARIFAS POR EL DERECHO A LA UTILIZACIÓN DE LA PLANTA DE TRATAMIENTO
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+
+ARTICULO 38 BIS.- Los desarrolladores y/o urbanizadores con obras terminadas, que cuenten con redes conectadas al servicio en predios aun sin enajenar y que tengan instaladas las descargas domiciliarias de drenaje, deberán pagar los derechos por la prestación del servicio de saneamiento de acuerdo a la tarifa o cuota que le corresponda, en tanto no transmitan la propiedad de los predios.
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+
+### CAPITULO V. DE OTROS SERVICIOS NO ESPECIFICADOS
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 39.
 
-Los propietarios o poseedores de predios urbanos que no estén conectados a las redes de agua potable y alcantarillado y cuenten con las instalaciones adecuadas para que los servicios sean utilizados, están obligados a contratar los mismos y pagar las cuotas de conformidad con la siguiente tarifa:
+Los propietarios o poseedores de lotes baldíos, predios urbanos que no estén conectados a las redes de agua potable y alcantarillado y cuenten con las instalaciones adecuadas para que los servicios sean utilizados, están obligados a contratar los mismos y pagar las cuotas por mantenimiento a redes de conformidad con la siguiente tarifa:
 
-De 0.01 m2 hasta 200.00 m2 1.772 SM
+De 0.01 m2 hasta 200.00 m2 0.9412 SM
 
-De 200.01 m2 hasta 500.01 m2 2.669 SM
+De 200.01 m2 hasta 500.01 m2 1.3345 SM
 
-De 500.01 m2 hasta 1,000.00 m2 3.991 SM
+De 500.01 m2 hasta 1,000.00 m2 1.9955 SM
 
-De 1000.01 m2 o más 5.338 SM
+De 1000.01 m2 o más 2.669 SM
+
+Las casas deshabitadas pagarán la siguiente cuota por mantenimiento a redes de conformidad con la siguiente tarifa 0.9412 SM.
 
 ###### ARTICULO 40.
 
@@ -1287,7 +1379,7 @@ c) industrial 35.428 SM
 
 d) Otras 1.725 SM
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 III.- cambio de propietario 1.725 SM
 
@@ -1383,6 +1475,38 @@ XV.- metro cúbico de agua
 
 vendido a particulares 0.398 SM
 
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2010)</small>
+
+XVI.- Por reparación de medidores de ½” a 2” 7.69 SM
+
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2010)</small>
+
+XVII.- Por cancelación provisional del
+
+servicio de agua potable en predios baldíos 6.00000 SM
+
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2010)</small>
+
+XVIII.- Por reubicación de medidor 12.00000 SM
+
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2010)</small>
+
+XIX.- Por instalación de cuadro 6.00000 SM
+
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2010)</small>
+
+XX.- por instalación de válvula 2.00000 SM
+
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2010)</small>
+
+XXI.- Por expedición de constancia de
+
+descarga de aguas residuales 3.00000 SM
+
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2010)</small>
+
+XXII.- Suspensión del servicio de agua potable 6.00000 SM
+
 (REUBICADO, P.O. 26 DE DICIEMBRE DE 2006)
 
 ###### ARTICULO 41.
@@ -1399,19 +1523,37 @@ I.- 12 por ciento de descuento a los usuarios de cuota fija que paguen el servic
 
 A los usuarios de cuota mínima que paguen por anualidad en los términos de esta fracción y que posteriormente se les instale medidor, se les ajustará su facturación en los términos de la fracción anterior.
 
-II.- En caso de servicio medido, se concede un 12 por ciento de descuento a los usuarios que paguen el servicio de agua potable y alcantarillado de forma anual durante los meses de enero, febrero y marzo. De acuerdo a sus consumos históricos se realizará el cálculo para el registro del pago y, periódicamente se harán supervisiones para la evaluación del consumo, tomando en cuenta que si varía el registro se efectuarán los cargos correspondientes a la cuenta del usuario.
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
-III.- Los usuarios que acrediten ser mexicanos y tener la calidad de pensionados o jubilados con una percepción no mayor a 3 salarios mínimos diarios de la zona económica del Estado de Colima, tendrán derecho a un descuento del 50 por ciento en el pago de los derechos por servicios públicos de agua potable y alcantarillado, respecto de la casa que habitan, para lo cual deberán exhibir a el Organismo previamente los siguientes documentos:
+De resultar insuficiente el pago anticipado, se facturará el importe que resulte de acuerdo a la tarifa que le corresponda, debiendo pagar el usuario las diferencias en los bimestres siguientes a aquel en el que se agote el pago anticipado, y en caso contrario se hará la devolución del remanente a solicitud del usuario o se aplicará el pago de los servicios subsecuentes.
 
-a).- Original y copia del talón o recibo de ingresos y credencial que lo acredite como pensionado o jubilado expedidos por institución oficial mexicana; y
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
-b).- Identificación oficial con fotografía.
+II. A los usuarios de servicio medido, se concede un 12 por ciento de descuento a los que paguen el servicio de agua potable, alcantarillado y saneamiento, de forma anual adelantada durante los meses de enero, febrero y marzo. El cálculo se hará con base en el promedio de los consumos registrados durante el ejercicio anterior de que se trate y se continuará tomando lectura de los consumos al usuario.
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2010)</small>
+
+En caso de que el consumo medio exceda al estimado, se facturará la diferencia de acuerdo a la tarifa que le corresponda, debiendo pagar el usuario el importe dentro del plazo que se especifique en el estado de cuenta que se emita para el efecto.
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2010)</small>
+
+III. Los usuarios que paguen el servicio de agua potable, alcantarillado y saneamiento, por anualidad durante los meses de enero y febrero, que acrediten ser ciudadanos mexicanos y tener la calidad de pensionados o jubilados con una percepción no mayor a 3 salarios mínimos diarios de la zona económica del Estado de colima, tendrán derecho a un descuento del 50 por ciento en el pago de los derechos por servicios públicos de agua potable, alcantarillado y saneamiento, respecto de la casa que habitan, para lo cual deberá exhibir a el Organismo previamente los siguientes documentos:
+
+a) Original y copia del talón o recibo de ingresos y credencial que lo acredite como pensionado o jubilado expedidos por institución oficial mexicana; y
+
+b) Identificación oficial con fotografía.
 
 En caso de que el usuario sujeto al beneficio establecido en este artículo realice su pago por anualidad adelantada, no tendrá derecho al descuento por pago anticipado.
 
-IV.- 50 por ciento de descuento a los usuarios de cuota fija mayores de 60 años de edad o discapacitados que acrediten una situación económica precaria; dicho descuento se aplicará respecto de la casa que habiten.
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
-V.- Tratándose de los servicios mixtos se estará a lo dispuesto por la fracción II o en su defecto, la Fracción I del presente Artículo.
+IV. 50 por ciento de descuento a los usuarios que paguen el servicio de agua potable, alcantarillado y saneamiento, por anualidad durante los meses de enero y febrero, de cuota fija mayores de 60 años de edad o discapacitados que acrediten una situación económica precaria; dicho descuento se aplicará respecto de la casa que habiten.
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2010)</small>
+
+V. Tratándose de los servicios mixtos se estará a lo dispuesto por la fracción II o en su defecto, la Fracción I del presente artículo.
+
+A los usuarios de cuota mínima que paguen por anualidad en los términos de ésta fracción y que posteriormente se les instale medidor, se les ajustará su facturación.
 
 (REUBICADO, P.O. 26 DE DICIEMBRE DE 2006)
 
@@ -1433,7 +1575,9 @@ La COMAPAT queda facultada para celebrar convenios para la recaudación de ingre
 
 El Director General del Organismo, bajo su más estricta responsabilidad, estará facultado para realizar ajustes a la facturación por lecturas incorrectamente tomadas, por fugas, problemas de presión, tarifas incorrectamente aplicadas o medidores descalibrados.
 
-> <small>(DEROGADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+T R A N S I T O R I O S :
+
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2006)</small>
 
 ###### ARTÍCULO PRIMERO.
 
@@ -1457,7 +1601,7 @@ Dado en Palacio de Gobierno, a los 31 días del mes de diciembre del año dos mi
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. JESÚS SILVERIO CAVAZOS CEBALLOS. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, LIC. JUAN JOSÉ SEVILLA SOLÓRZANO. Rúbrica. EL SECRETARIO DE FINANZAS, ING. HUGO A. VÁZQUEZ MONTES. Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 4 DE ABRIL DE 2006.
 
@@ -1484,6 +1628,16 @@ P.O. 7 DE MARZO DE 2009.
 P.O. 9 DE MAYO DE 2009.
 
 ÚNICO.- El presente Decreto entrará en vigor el día (sic) su aprobación y deberá publicarse en el Periódico Oficial "El Estado de Colima".
+
+P.O. 25 DE DICIEMBRE DE 2010.
+
+PRIMERO.- El presente Decreto entrará en vigor el 1º. de enero de 2011, previa su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Con el fin de evitar impactos desproporcionados en el pago de las cuotas y tarifas para el pago de derechos por los servicios públicos de saneamiento previstos en esta Ley, a excepción de las cuotas previstas en los artículos 3, fracción I, de los incisos a) al h) y la fracción II; la base para la determinación de la cuota o tarifa será el porcentaje que corresponda al ejercicio previsto en el cuadro que procede, hasta alcanzar el 100 por ciento del valor del saneamiento en los términos del artículo 1° de esta ley, como a continuación se señala:
+
+AÑO 2011 2012 2013 2014 2015
+
+BASE 52% 64% 76% 88% 100%
 
 ###### ARTÍCULO UNICO.
 
