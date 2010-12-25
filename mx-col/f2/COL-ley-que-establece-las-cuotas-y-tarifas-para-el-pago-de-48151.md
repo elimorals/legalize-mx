@@ -4,7 +4,7 @@ identifier: "COL-ley-que-establece-las-cuotas-y-tarifas-para-el-pago-de-48151"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-31"
-last_updated: "2009-05-09"
+last_updated: "2010-12-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48151&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PUBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE CUAUHTEMOC, COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE MAYO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Colima, el sábado 31 de diciembre de 2005.
 
@@ -73,9 +73,9 @@ I.- CUOTA FIJA ALTA 2.67 SM
 
 Comprende la zona Centro de la Cabecera Municipal y las Colonias siguientes: Las Higueras, La Presa, la Griselda Álvarez, Los Monos, El Rastro, Ejidal, San Jerónimo, El Toreo y las Localidades de Quesería, Alcaraces, Palmillas, Alzada, Cóbano, El Parían, El Trapiche, San Joaquín Buenavista, Bajío de la Leona y Ejido Fernández.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
-II.- CUOTA FIJA BAJA 1.86 SM
+II.- CUOTA FIJA BAJA 1.93 SM
 
 Comprende las Localidades de Chiapa, Ocotillo, Montitlán y Cerro Colorado
 
@@ -84,6 +84,10 @@ Comprende las Localidades de Chiapa, Ocotillo, Montitlán y Cerro Colorado
 III.- CUOTA FIJA RESIDENCIAL 3.73 SM
 
 Comprende el Fraccionamiento San Rafael de la Cabecera Municipal.
+
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2010)</small>
+
+IV.- CUOTA FIJA RURAL 1.86 SM
 
 ###### ARTÍCULO 4.
 
@@ -149,6 +153,48 @@ M3 C/MTS3
 
 Los metros cúbicos de la cuota mínima no son acumulables, tampoco serán acumulables después de cada lectura de bimestre.
 
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2010)</small>
+
+III .- CONSUMO DOMESTICO RURAL:
+
+DE HASTA M3 TARIFA C/MTS3/MES
+
+0 30 5.00
+
+31 40 7.02
+
+41 60 13.20
+
+61 10 30.00
+
+101 Adelante 35.35
+
+Además de lo anterior y previa a la contratación del servicio, el usuario tendrá las siguientes obligaciones y derechos:
+
+a).- Cubrir el importe de 305 días de salarios, por cada toma conectada a la red sin permiso de la Comisión. Además de pagar el contrato o convenio por regularizar.
+
+b).- Tendrá derecho a una paja de ½ pulgada, para una pila de 2X2X1.2 con su medidor.
+
+c).- La cuota por contrato o convenio por cada paja a otorgar, siempre y cuando la línea pase por su parcela, será de 101.01 salarios mínimos.
+
+d).- Las tomas que se otorguen serán para uso doméstico, debiendo colocar por parte del usuario un medidor de agua, del cual estará pendiente su funcionamiento.
+
+e).- Durante el período de agosto a octubre no se dará el servicio por mantenimiento de la red.
+
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2010)</small>
+
+IV. CONSUMO INDUSTRIAL
+
+DE HASTAM3 TARIFA C/MTS3 TRIMESTRAL
+
+0 60 3.00
+
+61 100 3.86
+
+101 En adelante 4.00
+
+Los metros cúbicos de la cuota mínima no son acumulables, tampoco serán acumulables después de cada lectura de bimestre.
+
 ###### ARTÍCULO 6.
 
 Los usuarios de los servicios de agua potable pagarán los derechos por la conexión individual de media pulgada a la red no incluye mano de obra, ni los materiales, en los entronques o conexiones éstos son cubiertos por los usuarios que solicitan, siendo supervisados por personal de la C.A.P.A.M.C. cumpliendo con la normatividad de la Comisión Nacional del Agua.
@@ -179,9 +225,11 @@ En el caso de que un mismo predio se localice una vivienda y un negocio y ambos 
 
 Los usuarios a que se refiere este artículo pagarán adicionalmente por el servicio público de alcantarillado, una cuota que equivale al 35 por ciento del importe correspondiente al servicio de agua potable, así mismo pagarán por el servicio público de saneamiento una cuota equivalente al 15 por ciento del importe correspondiente al servicio de agua potable.
 
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 8.
 
-Los predios urbanos no construidos y casas solas y que pasen las redes de agua potable y alcantarillado están obligados a pagar el 50 por ciento de la cuota correspondiente al tipo de servicio de acuerdo a la vocación de uso de suelo.
+Los predios urbanos no construidos ubicados en zonas que cuenten con el servicio de agua potable y alcantarillado, aun no entroncados con las redes, pagaran el 50 por ciento de la cuota correspondiente al tipo de servicio de acuerdo a la vocación de uso de suelo.
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
@@ -251,19 +299,31 @@ Los desarrolladores y/o urbanizadores con obra terminadas (sic), cuando solicite
 
 Los usuarios de los servicios públicos de agua potable, alcantarillado y saneamiento, deberán hacer el pago de los derechos en los siguientes 15 días al bimestre que corresponda.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 16.
 
-A los usuarios que acrediten ser ciudadanos mexicanos y tener la calidad de pensionados, jubilados, de la tercera edad y discapacitados tendrán derecho a un descuento del 50 por ciento en el pago de los derechos y 25 por ciento a los sindicalizados del H. Ayuntamiento de este municipio, por servicios públicos de agua potable, alcantarillado y saneamiento, respecto de la casa que habitan y que comprueben ser propietarios debiendo exhibir los siguientes documentos:
+A los usuarios que acrediten ser ciudadanos mexicanos y tener la calidad de pensionados, jubilados, de la tercera edad y discapacitados tendrán derecho a un descuento del 50 por ciento en el pago de los derechos; así como un 25 por ciento a los trabajadores sindicalizados del H. Ayuntamiento de este municipio, por servicios públicos de agua potable, alcantarillado y saneamiento, respecto del año en curso y de la casa que habitan y que comprueben ser propietarios debiendo exhibir los siguientes documentos:
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 a) Original y copia de credencial que acredite como pensionado, jubilado o de la tercera edad.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
 b) Credencial de elector en la que aparezca el domicilio respecto del cual solicita descuento.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 Este beneficio se otorgará respecto a un solo inmueble.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+
 En caso de que el usuario sujeto al beneficio establecido en este artículo realice su pago por anualidad adelantada, no tendrá derecho al descuento por pago anticipado.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+
+A los usuarios que paguen los derechos por los servicios de agua potable y alcantarillado por anualidad anticipada durante el periodo de enero y febrero se les concede un 12% de descuento, así como un 8% de descuento durante los meses de marzo y abril.
 
 ###### ARTÍCULO 17.
 
@@ -322,6 +382,10 @@ P.O. 7 DE MARZO DE 2009.
 P.O. 9 DE MAYO DE 2009.
 
 ÚNICO.- El presente Decreto entrará en vigor el día (sic) su aprobación y deberá publicarse en el Periódico Oficial "El Estado de Colima".
+
+P.O. 25 DE DICIEMBRE DE 2010.
+
+ÚNICO.- El presente Decreto entrará en vigor el 1° de enero de 2011, previa su publicación en el Periódico Oficial "El Estado de Colima".
 
 ###### ARTÍCULO UNICO.
 
