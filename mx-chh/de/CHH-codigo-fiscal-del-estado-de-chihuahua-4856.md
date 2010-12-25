@@ -4,7 +4,7 @@ identifier: "CHH-codigo-fiscal-del-estado-de-chihuahua-4856"
 country: "mx"
 rank: "codigo"
 publication_date: "1970-12-30"
-last_updated: "2010-04-17"
+last_updated: "2010-12-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4856&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO FISCAL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE ABRIL DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 2010.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 30 de diciembre de 1970.
 
@@ -1581,8 +1581,6 @@ Para el cálculo del Impuesto derivado de juegos con apuestas, se aplicará a la
 
 En ningún caso quedarán exentos del pago del impuesto los premios obtenidos.
 
-N. DE E., LOS ARTICULOS 149 A 165, QUE INTEGRAN EL CAPITULO III DEL TITULO TERCERO, DEL CODIGO FISCAL DEL ESTADO, FUERON SUSPENDIDOS CON MOTIVO DEL CONVENIO DE ADHESION SISTEMA NACIONAL DE COORDINACION FISCAL CELEBRADO ENTRE EL ESTADO DE CHIHUAHUA Y LA SECRETARIA DE HACIENDA Y CREDITO PUBLICO, P.O. 21 DE OCTUBRE DE 1978.
-
 #### SECCION PRIMERA. OBJETO Y SUJETO
 
 > <small>(REFORMADO, P.O. 9 DE FEBRERO DE 1994)</small>
@@ -1651,149 +1649,39 @@ VIII.- Conservar 5 años los libros de contabilidad, libros especiales fiscales 
 
 ### CAPITULO III. IMPUESTO SOBRE TENENCIA O USO DE VEHICULOS
 
-N. DE E., SUSPENDIDO POR CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL, P.O. 21 DE OCTUBRE DE 1978.
+149.- (DEROGADO, P.O. 25 DE DICIEMBRE DE 2010)
 
-149.- El objeto de este impuesto es la tenencia o uso de automóviles y camiones.
+150.- (DEROGADO, P.O. 25 DE DICIEMBRE DE 2010)
 
-N. DE E., SUSPENDIDO POR CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL, P.O. 21 DE OCTUBRE DE 1978.
+151.- (DEROGADO, P.O. 25 DE DICIEMBRE DE 2010)
 
-150.- Son sujetos del impuesto las personas físicas o morales tenedoras o usuarios de los vehículos a que se refiere el artículo anterior.
+152.- (DEROGADO, P.O. 25 DE DICIEMBRE DE 2010)
 
-N. DE E., SUSPENDIDO POR CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL, P.O. 21 DE OCTUBRE DE 1978.
+153.- (DEROGADO, P.O. 25 DE DICIEMBRE DE 2010)
 
-151.- Las plantas ensambladoras, sus distribuidores y los demás comerciantes en el ramo de automóviles, causarán el impuesto por los vehículos que estando registrados en las Oficinas de Tránsito a su nombre, estén al servicio de la negociación o de sus funcionarios y empleados.
+154.- (DEROGADO, P.O. 25 DE DICIEMBRE DE 2010)
 
-N. DE E., SUSPENDIDO POR CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL, P.O. 21 DE OCTUBRE DE 1978.
+155.- (DEROGADO, P.O. 25 DE DICIEMBRE DE 2010)
 
-152.- Quedan exceptuados del impuestos (sic) los tenedores y los usuarios de los vehículos a que se refieren las siguientes fracciones:
+156.- (DEROGADO, P.O. 25 DE DICIEMBRE DE 2010)
 
-I.- Modelos anteriores en 12 años o más al de la aplicación de la Ley;
+157.- (DEROGADO, P.O. 25 DE DICIEMBRE DE 2010)
 
-II.- Los que circulen con placas de servicio público de transportes;
+158.- (DEROGADO, P.O. 25 DE DICIEMBRE DE 2010)
 
-III.- Los que estén al servicio de los Cuerpos Diplomáticos y Consulares extranjeros acreditados ante nuestro País;
+159.- (DEROGADO, P.O. 25 DE DICIEMBRE DE 2010)
 
-IV.- Las ambulancias que estén al servicio de la Federación, Estados, Municipios, Organismos descentralizados dependientes de cualquiera de esas Entidades o Instituciones y Asociaciones de Beneficencia Pública y Privada, y
+160.- (DEROGADO, P.O. 25 DE DICIEMBRE DE 2010)
 
-V.- Los que tengan para su venta las plantas ensambladoras, sus distribuidores y los comerciantes en el ramo de automóviles, siempre que carezcan de placas de circulación.
+161.- (DEROGADO, P.O. 25 DE DICIEMBRE DE 2010)
 
-N. DE E., SUSPENDIDO POR CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL, P.O. 21 DE OCTUBRE DE 1978.
+162.- (DEROGADO, P.O. 25 DE DICIEMBRE DE 2010)
 
-153.- A los vehículos comprendidos en la fracción III del artículo anterior, se les expedirá un oficio de exención del tributo y una calcomanía especial diferentes a la de los vehículos por los que se haya cubierto el gravamen, previa comprobación por parte de la Tesorería General del Estado de que los mismos quedan comprendidos dentro del supuesto de esa fracción.
+163.- (DEROGADO, P.O. 25 DE DICIEMBRE DE 2010)
 
-N. DE E., SUSPENDIDO POR CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL, P.O. 21 DE OCTUBRE DE 1978.
+164.- (DEROGADO, P.O. 25 DE DICIEMBRE DE 2010)
 
-154.- Los tenedores o usuarios de vehículos que por cualquier motivo dejen de estar comprendidos en alguna de las fracciones del artículo 152, causarán el impuesto correspondiente, el cual se cubrirá dentro de los 15 días siguientes al cambio de situación.
-
-N. DE E., SUSPENDIDO POR CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL, P.O. 21 DE OCTUBRE DE 1978.
-
-155.- Quienes por cualquier título adquieran la propiedad, la tenencia o uso de vehículos sujetos al impuesto, son solidariamente responsables del pago que por concepto de tal impuesto se adeudare respecto del vehículo o vehículos materia del traspaso de la propiedad, de la tenencia o del uso; aunque como consecuencia del traspaso y del servicio a que los vehículos se destinen, queden comprendidos en las fracciones I, II y V del artículo 152.
-
-N. DE E., SUSPENDIDO POR CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL, P.O. 21 DE OCTUBRE DE 1978.
-
-156.- Las personas que reciban en consignación o comisión para su venta automóviles cuya tenencia o uso grava este capítulo, son solidariamente responsables por los impuestos que se adeuden.
-
-N. DE E., SUSPENDIDO POR CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL, P.O. 21 DE OCTUBRE DE 1978.
-
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1971)</small>
-
-157.- El impuesto se causará anualmente y deberá quedar cubierto dentro de los dos primeros meses de cada año.
-
-N. DE E., SUSPENDIDO POR CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL, P.O. 21 DE OCTUBRE DE 1978.
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1972)</small>
-
-158.- El impuesto se causará en efectivo conforme a la siguiente
-
-TARIFA:
-
-CATEGORIA
-
-MODELO 1 2 3
-
-A.- Del año de la aplicación de
-
-la Ley $300.00 $500.00 $750.00
-
-B.- De un año anterior al de la
-
-aplicación de la Ley "275.00 "400.00 "600.00
-
-C.- De dos años anteriores al de
-
-la aplicación de la Ley "250.00 "300.00 "400.00
-
-D.- De tres años anteriores al de
-
-la aplicación de la Ley "200.00 "300.00 "400.00
-
-E.- De cuatro años anteriores al de
-
-la aplicación de la Ley "200.00 "250.00 "350.00
-
-F.- De cinco años anteriores al de
-
-la aplicación de la Ley "150.00 "200.00 "300.00
-
-G.- De seis años anteriores al de
-
-la aplicación de la Ley "150.00 "150.00 "200.00
-
-H.- Del séptimo al décimo primer
-
-año anteriores al de la aplicación
-
-de la Ley "150.00 "150.00 "150.00
-
-N. DE E., SUSPENDIDO POR CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL, P.O. 21 DE OCTUBRE DE 1978.
-
-159.- Para la aplicación de la tarifa se tomará en cuenta la siguiente clasificación:
-
-I.- Primera categoría: Comprende vehículos cuyo precio oficial de venta al público sea hasta de $35,000.00.
-
-II.- Segunda categoría: Comprende vehículos cuyo precio oficial de venta al público esté comprendido entre $35,000.01 a $50,000.00.
-
-III.- Tercera categoría: Comprende vehículos cuyo precio oficial de venta al público exceda de $50,000.00.
-
-N. DE E., SUSPENDIDO POR CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL, P.O. 21 DE OCTUBRE DE 1978.
-
-160.- Como modelo debe considerarse el año del modelo o el de fabricación; como marca el nombre comercial del vehículo; y como tipo, las características especiales del mismo.
-
-N. DE E., SUSPENDIDO POR CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL, P.O. 21 DE OCTUBRE DE 1978.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE DICIEMBRE DE 1971)</small>
-
-161.- Los tenedores o usuarios enterarán el importe en las Recaudaciones de Rentas, dentro del plazo señalado en el Artículo 157.
-
-El tenedor o usuario del vehículo formulará una manifestación, en las formas aprobadas por la Tesorería General del Estado, en la que anotará los siguientes datos:
-
-I.- Nombre y domicilio del causante;
-
-II.- Marca, clase, modelo y tipo de vehículo, y
-
-III.- Cuota que corresponda cubrir conforme al artículo 158 de este Capítulo o cita de la fracción aplicable del artículo 152 en la hipótesis de que esté exento el propietario o usuario del vehículo.
-
-La Tesorería General del Estado por conducto de sus oficinas recaudadoras entregará la calcomanía que compruebe el pago o la exención del impuesto, que sólo servirá para amparar el vehículo para la que fué entregada.
-
-N. DE E., SUSPENDIDO POR CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL, P.O. 21 DE OCTUBRE DE 1978.
-
-162.- Las Oficinas de Tránsito del Estado no autorizarán altas ni cambios de placas si el vehículo no ostenta en el parabrisas la calcomanía que compruebe el pago del impuesto, o en su caso la exención del gravamen. Siempre que comprueben que no se ha cubierto el impuesto, lo harán del conocimiento de la Recaudación de Rentas respectiva para que proceda a su cobro. Las autoridades que infrinjan esta disposición serán responsables solidariamente del impuesto omitido.
-
-N. DE E., SUSPENDIDO POR CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL, P.O. 21 DE OCTUBRE DE 1978.
-
-163.- Los tenedores o usuarios de los vehículos están obligados a fijar en el parabrisas la calcomanía que compruebe el pago del impuesto. En caso de que por falta de dicha calcomanía no puedan demostrar al ser requeridos para ello, que están al corriente en el pago del impuesto, se procederá en los términos del artículo 337.
-
-N. DE E., SUSPENDIDO POR CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL, P.O. 21 DE OCTUBRE DE 1978.
-
-164.- El hecho de no fijarse en el vehículo la calcomanía que compruebe el pago del impuesto como se establece en el artículo anterior, se sancionará con una multa equivalente al 20% del impuesto que corresponda.
-
-N. DE E., SUSPENDIDO POR CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL, P.O. 21 DE OCTUBRE DE 1978.
-
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1971)</small>
-
-165.- El pago del impuesto respecto de cada ejercicio fiscal y del anterior, se comprobará exclusivamente con la calcomanía fijada en el vehículo en la forma que prescribe el artículo 163, salvo que haya sido destruída, caso en el que el pago del impuesto se acreditará de acuerdo con las reglas que expida la Tesorería General del Estado.
-
-El correspondiente a años anteriores, se comprobará con las copias de las manifestaciones formuladas por los tenedores o usuarios conforme al Artículo 161, en las que las oficinas recaudadoras hagan constar los pagos, con la indicación de los datos de control de los ingresos respectivos.
+165.- (DEROGADO, P.O. 25 DE DICIEMBRE DE 2010)
 
 > <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 29 DE SEPTIEMBRE DE 1979)</small>
 
@@ -4888,3 +4776,11 @@ El presente Decreto entrará en vigor el día primero de abril del año 2010.
 ###### ARTÍCULO SEGUNDO.
 
 Se otorga un estímulo fiscal por el ejercicio fiscal de 2010, al Estado y los Municipios, así como a sus organismos descentralizados y demás entidades paraestatales y entes de derecho público con autonomía derivada de la Constitución Política del Estado de Chihuahua, consistente en el no pago de impuestos estatales y contribuciones extraordinarias o especiales establecidas en las disposiciones fiscales del Estado.
+
+P.O. 25 DE DICIEMBRE DE 2010.
+
+PRIMERO.- Una vez publicado el presente Decreto en el Periódico Oficial del Estado, sus disposiciones entrarán en vigor el primer día del mes de enero del año 2011.
+
+SEGUNDO.- Los adeudos de los contribuyentes obligados al pago del impuesto federal sobre la Tenencia o Uso de Vehículos por el ejercicio fiscal 2010 y anteriores, serán exigibles hasta su liquidación y pago en los términos de los convenios de coordinación y colaboración administrativa en materia fiscal federal, celebrados entre el Gobierno Federal y el Poder Ejecutivo del Estado, vigentes hasta antes de la entrada en vigor del presente Decreto.
+
+TERCERO.- La Secretaría de Hacienda del Gobierno del Estado, deberá continuar con la actualización de los datos del Padrón Estatal Vehicular, a fin de generar certidumbre y seguridad jurídica a los tenedores o propietarios de los vehículos, en términos del Decreto Federal del 21 de diciembre de 2007, así corno de los convenios y leyes que resulten aplicables.
