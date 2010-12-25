@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-hacienda-del-estado-de-nayarit-11036"
 country: "mx"
 rank: "ley"
 publication_date: "1990-12-26"
-last_updated: "2009-12-15"
+last_updated: "2010-12-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11036&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE HACIENDA DEL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE DICIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 2010.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el miércoles 26 de diciembre de 1990.
 
@@ -95,13 +95,13 @@ Este impuesto se liquidará y pagará de conformidad con las tasas que estipule 
 
 #### SECCION QUINTA. DEL PAGO
 
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 7o.
 
-El pago de este impuesto se hará mensualmente a más tardar el día 10 del mes siguiente al de la percepción en las oficinas autorizadas por la Secretaría de Finanzas, del domicilio que le corresponde.
+El pago de este impuesto se hará mensualmente a más tardar el día 10 del mes siguiente al de la percepción en las oficinas autorizadas por la Secretaría de Hacienda, del domicilio que le corresponde.
 
-Quienes hagan pagos a contribuyentes que eventualmente sean sujetos de este impuesto deberán retenerlo y enterarlo en la oficina recaudadora o institución de crédito autorizada por la Secretaría de Finanzas, correspondiente a su domicilio, en las formas aprobadas por la propia Secretaría.
+Quienes hagan pagos a contribuyentes que eventualmente sean sujetos de este impuesto deberán retenerlo y enterarlo en la oficina recaudadora o institución de crédito autorizada por la Secretaría de Hacienda, correspondiente a su domicilio, en las formas aprobadas por la propia Secretaría.
 
 #### SECCION SEXTA. DE LAS OBLIGACIONES
 
@@ -159,13 +159,15 @@ El impuesto sobre nóminas se liquidará aplicando la tasa del dos por ciento a 
 
 #### SECCION QUINTA. DEL PAGO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 14.
 
-El pago del impuesto deberá efectuarse, dentro de los primeros 10 días de calendario del mes siguiente a aquel en que se causó. El pago deberá hacerse mediante declaración en las oficinas o instituciones autorizadas por la Secretaría de Finanzas que corresponda al domicilio fiscal del contribuyente, en las formas que apruebe la propia Secretaría.
+El pago del impuesto deberá efectuarse, dentro de los primeros 10 días de calendario del mes siguiente a aquel en que se causó. El pago deberá hacerse mediante declaración en las oficinas o instituciones autorizadas por la Secretaría de Hacienda que corresponda al domicilio fiscal del contribuyente, en las formas que apruebe la propia Secretaría.
 
-La Secretaría de Finanzas podrá celebrar convenios con los sujetos de este Impuesto, a efecto de que éstos puedan anticipar pagos semestrales, con un descuento del 5% sobre la estimación que la misma Secretaría determine.
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+
+La Secretaría de Hacienda podrá celebrar convenios con los sujetos de este Impuesto, a efecto de que éstos puedan anticipar pagos semestrales, con un descuento del 5% sobre la estimación que la misma Secretaría determine.
 
 La obligación de presentar declaración subsistirá, aún cuando no se hayan efectuado erogaciones gravadas.
 
@@ -201,17 +203,23 @@ h). Aguinaldos;
 
 II.- Las erogaciones que efectúen:
 
-a). Instituciones sin fines de lucro que realicen o promuevan asistencia social en cualquiera de sus formas;
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
-b), Asociaciones de trabajadores, organismos empresariales que no realicen actividades lucrativas y colegios de profesionistas, y
+a) Instituciones de beneficencia como la Cruz Roja o similares, que prestan asistencia social en cualquiera de sus formas;
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+
+b) Asociaciones de trabajadores, organismos empresariales y colegios de profesionistas debidamente registrados; y
 
 c). Los partidos políticos.
 
 #### SECCION SEPTIMA. DE LA ESTIMACION DE EROGACIONES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 16.
 
-La Secretaría de Finanzas podrá estimar las erogaciones en los siguientes casos:
+La Secretaría de Hacienda podrá estimar las erogaciones en los siguientes casos:
 
 I.- Cuando no presenten sus declaraciones o no lleven los libros o registros contables que legalmente estén obligados a llevar, y
 
@@ -235,9 +243,9 @@ III.- Presentar los avisos, datos documentos e informes que les soliciten las au
 
 IV.- Las sucursales, bodegas, agencias y otras dependencias de la matriz, que se establezcan fuera del domicilio fiscal de ésta, deberán empadronarse por separado, y las que estén ubicadas en la misma localidad, se deberán empadronar sólo para efectos de control.
 
-> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
-V.- Las personas físicas o morales cuyo domicilio fiscal, para efecto de impuestos federales, se encuentre en otra Entidad Federativa, pero que efectúen pagos en el Estado por remuneraciones al trabajo personal subordinado, tendrán la obligación de registrar como domicilio fiscal estatal, el lugar donde se origine la actividad o contraprestación, además deberán enterar el impuesto correspondiente en la oficina recaudadora de su jurisdicción o institución de crédito autorizada por la Secretaría de Finanzas.
+V.- Las personas físicas o morales cuyo domicilio fiscal, para efecto de impuestos federales, se encuentre en otra Entidad Federativa, pero que efectúen pagos en el Estado por remuneraciones al trabajo personal subordinado, tendrán la obligación de registrar como domicilio fiscal estatal, el lugar donde se origine la actividad o contraprestación, además deberán enterar el impuesto correspondiente en la oficina recaudadora de su jurisdicción o institución de crédito autorizada por la Secretaría de Hacienda.
 
 ### CAPITULO III
 
@@ -277,9 +285,11 @@ I.- Cuando se pueda determinar previamente el monto del impuesto, el pago se har
 
 II.- Cuando el impuesto se cause sobre el importe de los boletos vendidos o cuotas de admisión y en general, cuando el importe del gravamen no se pueda determinar con anticipación, diariamente al finalizar el espectáculo o diversión, los interventores fiscales formularán la liquidación respectiva y el impuesto se pagará a más tardar el siguiente día hábil.
 
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 22.
 
-El pago del Impuesto se hará en los formatos oficiales aprobados por la Secretaria de Finanzas en las Oficinas Recaudadoras de su jurisdicción.
+El pago del Impuesto se hará en los formatos oficiales aprobados por la Secretaría de Hacienda en las Oficinas Recaudadoras de su jurisdicción o en las instituciones autorizadas por la misma.
 
 #### SECCION QUINTA. DE LAS OBLIGACIONES
 
@@ -299,13 +309,19 @@ III.- Presentar ante la Oficina de Recaudación respectiva, para su resello, el 
 
 IV.- No vender boletos en tanto no estén resellados.
 
-V.- Permitir a los interventores que designe la Secretaría de Finanzas o sus Oficinas Recaudadoras, la verificación y determinación del pago del Impuesto, dándoles las facilidades que requieran para su cumplimiento.
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
-VI.- En general, adoptar las medidas de control que para la correcta determinación de este Impuesto, establezca la Secretaría de Finanzas.
+V.- Permitir a los interventores que designe la Secretaría de Hacienda o sus oficinas recaudadoras, la verificación y determinación del pago del impuesto, dándoles las facilidades que requieran para su cumplimiento.
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2010)</small>
+
+VI.- En general, adoptar las medidas de control que para la correcta determinación de este Impuesto, establezca la Secretaría de Hacienda.
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 24.
 
-Quienes organicen, exploten o patrocinen diversiones o espectáculos públicos de manera accidental, tendrán además de las obligaciones establecidas en las Fracciones I y II del Artículo anterior, la de garantizar a satisfacción de la Secretaría de Finanzas del Estado, el pago del Impuesto a que se refiere este Título.
+Quienes organicen, exploten o patrocinen diversiones o espectáculos públicos de manera accidental, tendrán además de las obligaciones establecidas en las fracciones I y II del Artículo anterior, la de garantizar a satisfacción de la Secretaría de Hacienda del Estado, el pago del impuesto a que se refiere este Título.
 
 #### SECCION SEXTA. DE LAS EXENCIONES
 
@@ -313,11 +329,11 @@ Quienes organicen, exploten o patrocinen diversiones o espectáculos públicos d
 
 No causan este Impuesto las diversiones o espectáculos públicos organizados directamente por la Federación, el Estado o los Municipios, así como los realizados por los Organismos auxiliares de éstos últimos. En consecuencia, no se gozará del beneficio que establece esta exención si las propias Entidades solo patrocinan las diversiones o espectáculos públicos.
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 26.
 
-El Secretario de Finanzas del Estado, esta facultado para reducir o exentar el impuesto a que se refiere este título cuando se trate de diversiones o espectáculos públicos organizados con fines exclusivamente culturales o de beneficencia, previa solicitud que al respecto formulen los organizadores.
+El Secretario de Hacienda del Estado, esta facultado para reducir o exentar el impuesto a que se refiere este título cuando se trate de diversiones o espectáculos públicos organizados con fines exclusivamente culturales o de beneficencia, previa solicitud que al respecto formulen los organizadores.
 
 ### CAPITULO IV. DEL IMPUESTO SOBRE JUEGOS Y APUESTAS PERMITIDAS Y SOBRE RIFAS, LOTERIAS Y SORTEOS
 
@@ -365,9 +381,11 @@ Este Impuesto se causará y pagará conforme a las cuotas y tasas que señale la
 
 #### SECCION CUARTA. DEL PAGO
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 30.
 
-El pago de los impuestos que establece este Título, se hará en los formatos oficiales aprobados por la Secretaria de Finanzas en la Recaudación de Rentas que corresponda a su domicilio, en la siguiente forma:
+El pago de los impuestos que establece este Título, se hará en los formatos oficiales aprobados por la Secretaría de Hacienda en la Recaudación de Rentas que corresponda a su domicilio, en la siguiente forma:
 
 I.- El Impuesto sobre juegos permitidos, mensualmente.
 
@@ -383,13 +401,17 @@ Están exentos del pago de este impuesto los sujetos a que se refiere el Artícu
 
 Las personas que habitualmente organicen o exploten las operaciones gravadas por este título tendrán las obligaciones siguientes:
 
-I.- Registrarse en la Secretaría de Finanzas del Estado, dentro de los diez días siguientes al de la iniciación de sus operaciones, haciendo uso de las formas oficialmente aprobadas, anexando la Licencia de Funcionamiento.
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2010)</small>
+
+I.- Registrarse en la Secretaría de Hacienda del Estado, dentro de los diez días siguientes al de la iniciación de sus operaciones, haciendo uso de las formas oficialmente aprobadas, anexando la Licencia de Funcionamiento.
 
 II.- A manifestar por escrito a la misma Secretaría, la baja de la explotación o del establecimiento cuando menos con tres días de anticipación al hecho.
 
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 32.
 
-Las personas que accidentalmente organicen o exploten las operaciones gravadas por este Título, tendrán además de las obligaciones señaladas en el Artículo anterior la de garantizar a satisfacción de la Secretaria de Finanzas el pago del impuesto a que se refiere este capítulo.
+Las personas que accidentalmente organicen o exploten las operaciones gravadas por este Título, tendrán además de las obligaciones señaladas en el artículo anterior la de garantizar a satisfacción de la Secretaría de Hacienda el pago del impuesto a que se refiere este capítulo.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -449,11 +471,17 @@ Asimismo, para efectos de este impuesto, se considera que el uso o tenencia del 
 
 Están obligadas al pago de este impuesto las personas físicas y morales que sean usuarias o tenedoras de los vehículos a que se refiere este Apartado, de modelo anterior a los diez últimos ejercicios fiscales, que circulen de manera habitual por la circunscripción territorial del Estado de Nayarit. Se presumirá lo anterior cuando el propietario, usuario o tenedor, tenga domicilio en el propio Estado.
 
-Este impuesto se causará por ejercicios fiscales, los cuales se fijarán por año calendario. El pago del impuesto se efectuará durante los tres primeros meses del ejercicio a que corresponda, ante las instituciones u oficinas autorizadas por la Secretaría de Finanzas del Estado, y en las formas por ella aprobadas.
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
-No estarán obligados al pago de este impuesto los tenedores o usuarios de vehículos automotores que circulen con placas definitivas asignadas por otras entidades federativas, que acrediten ante la Secretaría de Finanzas que se pagó un gravamen similar por el mismo ejercicio fiscal. Para aquellos vehículos que circulen con placas de transporte público federal, el impuesto se pagará en las oficinas correspondientes al domicilio fiscal que el contribuyente tenga registrado ante la Secretaría de Hacienda y Crédito Público.
+Este impuesto se causará por ejercicios fiscales, los cuales se fijarán por año calendario. El pago del impuesto se efectuará durante los tres primeros meses del ejercicio a que corresponda, ante las instituciones u oficinas autorizadas por la Secretaría de Hacienda del Estado, y en las formas por ella aprobadas.
 
-Para los efectos de este impuesto, la autoridad fiscal presumirá, salvo prueba en contrario, que el tenedor o usuario del vehículo automotor objeto de este impuesto, es quien se encuentra registrado como propietario ante la Secretaría de Finanzas del Estado y que el año modelo del vehículo es el de su fabricación.
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+
+No estarán obligados al pago de este impuesto los tenedores o usuarios de vehículos automotores que circulen con placas definitivas asignadas por otras entidades federativas, que acrediten ante la Secretaría de Hacienda que se pagó un gravamen similar por el mismo ejercicio fiscal. Para aquellos vehículos que circulen con placas de transporte público federal, el impuesto se pagará en las oficinas correspondientes al domicilio fiscal que el contribuyente tenga registrado ante la Secretaría de Hacienda y Crédito Público.
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+
+Para los efectos de este impuesto, la autoridad fiscal presumirá, salvo prueba en contrario, que el tenedor o usuario del vehículo automotor objeto de este impuesto, es quien se encuentra registrado como propietario ante la Secretaría de Hacienda del Estado y que el año modelo del vehículo es el de su fabricación.
 
 La Federación, el Estado, los Municipios, así como sus organismos y entidades, deberán pagar el Impuesto sobre Tenencia o Uso de Vehículos, con las excepciones que en la misma se señalan, aún cuando de conformidad con otras leyes o decretos no estén obligados a pagar contribuciones estatales o municipales o estén exentos de ellos.
 
@@ -561,21 +589,33 @@ Cuando el vehículo sufra descompostura que implique la inutilización o pérdid
 
 #### SECCION SEPTIMA. DEL PADRON VEHICULAR DEL ESTADO DE NAYARIT
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO Y REUBICADO, P.O. 15 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 39.
 
-El Padrón Vehicular del Estado, estará a cargo de la Secretaría de Finanzas, en el cual se inscribirán las unidades que por mandato de la Ley de Tránsito y Transportes del Estado deban de portar placas de circulación asignadas por el Gobierno del Estado.
+El Padrón Vehicular del Estado, estará a cargo de la Secretaría de Hacienda, en el cual se inscribirán las unidades que por mandato de la Ley de Tránsito y Transporte del Estado deban de portar placas de circulación asignadas por el Gobierno del Estado.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO Y REUBICADO, P.O. 15 DE DICIEMBRE DE 2009)</small>
 
 En el Padrón a que se refiere el párrafo anterior, sólo procederá el registro de los siguientes trámites:
 
 Inscripción, Cambios, Rectificaciones y Bajas.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO Y REUBICADO, P.O. 15 DE DICIEMBRE DE 2009)</small>
+
 En los trámites a que se refiere el párrafo anterior, los interesados deberán acreditar la propiedad del vehículo, la residencia o domicilio en el Estado, así como no tener adeudos por contribuciones federales y estatales derivadas por la tenencia o uso de dicho vehículo. Para tal efecto, deberán cumplir con los requisitos que establezcan la Ley o Reglamento respectivo.
 
-La Secretaría de Finanzas mantendrá actualizado el Padrón Vehicular, para lo cual verificará y comprobará la veracidad de los documentos aportados para los diversos trámites. Los propietarios de los vehículos refrendarán su registro y pagarán el derecho de control vehicular a más tardar el 31 de marzo de cada año.
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+
+La Secretaría de Hacienda mantendrá actualizado el Padrón Vehicular, para lo cual verificará y comprobará la veracidad de los documentos aportados para los diversos trámites. Los propietarios de los vehículos refrendarán su registro y pagarán el derecho de control vehicular a más tardar el 31 de marzo de cada año.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO Y REUBICADO, P.O. 15 DE DICIEMBRE DE 2009)</small>
 
 Los propietarios de los vehículos registrados, además de las obligaciones señaladas en párrafos anteriores, deberán cumplir con lo siguiente:
 
@@ -597,11 +637,19 @@ f) Baja por robo o destrucción
 
 g) Alta por recuperación del vehículo robado o destruido.
 
-Los trámites deberán efectuarse ante las oficinas de la Secretaría de Finanzas, cumpliendo los requisitos que establezca el Reglamento del Padrón Vehicular.
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+
+Los trámites deberán efectuarse ante las oficinas de la Secretaría de Hacienda, cumpliendo los requisitos que establezca el Reglamento del Padrón Vehicular.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO Y REUBICADO, P.O. 15 DE DICIEMBRE DE 2009)</small>
 
 Para obtener la baja en el Padrón o realizar el canje de placas, será preciso devolver las placas respectivas, salvo en los casos de robo o destrucción.
 
-Se presume, salvo prueba en contrario, que el tenedor o usuario del vehículo automotor, es quien se encuentra registrado como propietario ante la Secretaría de Finanzas del Estado.
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+
+Se presume, salvo prueba en contrario, que el tenedor o usuario del vehículo automotor, es quien se encuentra registrado como propietario ante la Secretaría de Hacienda del Estado.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE APARTADO, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -625,29 +673,45 @@ DEL IMPUESTO SOBRE TENENCIA O USO DE VEHICULOS NUEVOS Y DE HASTA 9 AÑOS MODELO 
 
 Están obligadas al pago de este impuesto las personas físicas y las morales, tenedoras o usuarias de los vehículos a que se refiere este Apartado, y señalados en el artículo 33 de esta Ley, que circulen de manera habitual por la circunscripción territorial del Estado de Nayarit y tenga su domicilio en el mismo. Para efectos de esta Ley, se presume que el propietario es tenedor o usuario del vehículo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 39-B.
 
-Los contribuyentes pagarán el impuesto por año de calendario durante los tres primeros meses ante las oficinas o instituciones autorizadas, salvo en el caso de vehículos nuevos o importados, supuesto en el que el impuesto deberá calcularse y enterarse en el momento en el cual se solicite el registro del vehículo, permiso provisional para circulación en traslado o alta del vehículo. El impuesto se pagará en las oficinas de la Secretaría de Finanzas que autoricen el registro, alta del vehículo o expida el permiso provisional para circulación en traslado, de dicho vehículo. Para aquellos vehículos que circulen con placas de transporte público federal, el impuesto se pagará en esta Secretaría cuando el contribuyente acredite tener registrado su domicilio fiscal ante la Secretaría de Finanzas. No obstante lo dispuesto en este párrafo, los contribuyentes que se encuentren inscritos en el citado registro para efectos del pago de otras contribuciones, deberán anotar su clave del registro federal de contribuyentes correspondiente en los formatos de pago de este impuesto.
+Los contribuyentes pagarán el impuesto por año de calendario durante los tres primeros meses ante las oficinas o instituciones autorizadas, salvo en el caso de vehículos nuevos o importados, supuesto en el que el impuesto deberá calcularse y enterarse en el momento en el cual se solicite el registro del vehículo, permiso provisional para circulación en traslado o alta del vehículo. El impuesto se pagará en las oficinas de la Secretaría de Hacienda que autoricen el registro, alta del vehículo o expida el permiso provisional para circulación en traslado, de dicho vehículo. Para aquellos vehículos que circulen con placas de transporte público federal, el impuesto se pagará en esta Secretaría cuando el contribuyente acredite tener registrado su domicilio fiscal ante la Secretaría de Hacienda. No obstante lo dispuesto en este párrafo, los contribuyentes que se encuentren inscritos en el citado registro para efectos del pago de otras contribuciones, deberán anotar su clave del registro federal de contribuyentes correspondiente en los formatos de pago de este impuesto.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+
+###### ARTICULO 39-C.
+
+Los importadores ocasionales efectuarán el pago del impuesto a que se refiere este apartado, correspondiente al primer año de calendario en la Secretaría de Hacienda, en el momento en que los vehículos queden a su disposición en la aduana, recinto fiscal o fiscalizado o en el caso de importación temporal al convertirse en definitiva y se registren en el Padrón Vehicular del Estado. Por el segundo y siguientes años de calendario se estará a lo dispuesto en el artículo anterior.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2009)</small>
 
-###### ARTICULO 39-C.
-
-Los importadores ocasionales efectuarán el pago del impuesto a que se refiere este Apartado, correspondiente al primer año de calendario en la Secretaría de Finanzas, en el momento en que los vehículos queden a su disposición en la aduana, recinto fiscal o fiscalizado o en el caso de importación temporal al convertirse en definitiva y se registren en el Padrón Vehicular del Estado. Por el segundo y siguientes años de calendario se estará a lo dispuesto en el Artículo anterior.
-
 Las personas físicas o morales cuya actividad sea la enajenación de vehículos nuevos o importados al público, que asignen dichos vehículos a su servicio o al de sus funcionarios o empleados, deberán pagar este impuesto por el ejercicio en que hagan la asignación, en los términos previstos en el tercer párrafo de este Artículo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2009)</small>
 
 En la enajenación o importación de vehículos nuevos de año modelo posterior al de aplicación de este Apartado, se pagará el impuesto correspondiente al año de calendario en que se enajene o, importe, según corresponda. El impuesto para dichos vehículos se determinará en el siguiente año de calendario bajo el criterio de vehículo nuevo.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2009)</small>
+
 Para los efectos de este Apartado, también se consideran automóviles, a los ómnibus; camiones; pick up's y tractores no agrícolas tipo quinta rueda.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2009)</small>
+
 En caso de que no puedan comprobarse los años de antigüedad del vehículo, el impuesto a que se refiere este Apartado, se pagará como si éste fuese nuevo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2009)</small>
 
 Cuando la enajenación o importación de vehículos nuevos se efectúe después del primer mes del año de calendario, el impuesto causado por dicho año se pagará en la proporción que resulte de aplicar el factor correspondiente:
 
@@ -1021,7 +1085,9 @@ II. Los importados temporalmente en los términos de la legislación aduanera.
 
 III. Los vehículos de la Federación, Estados y Municipios que sean utilizados para la prestación de los servicios públicos de rescate, patrullas, transporte de limpia, pipas de agua, servicios funerarios; así como las ambulancias dependientes de cualquiera de esas entidades o de instituciones de beneficencia autorizadas por las leyes de la materia y los vehículos destinados a los cuerpos de bomberos.
 
-Los tenedores o usuarios de los vehículos a que se refieren las fracciones II y III de este artículo, para gozar del beneficio que el mismo establece, deberán comprobar ante la Secretaría de Finanzas que se encuentran comprendidos en dichos supuestos.
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+
+Los tenedores o usuarios de los vehículos a que se refieren las fracciones II y III de este artículo, para gozar del beneficio que el mismo establece, deberán comprobar ante la Secretaría de Hacienda que se encuentran comprendidos en dichos supuestos.
 
 IV. Los automóviles al servicio de misiones Diplomáticas y Consulares de carrera extranjeras y de sus agentes diplomáticos y consulares de carrera, excluyendo a los cónsules generales honorarios, cónsules y vicecónsules honorarios, siempre que sea exclusivamente para uso oficial y exista reciprocidad.
 
@@ -1211,11 +1277,13 @@ Este impuesto se calculará y liquidará aplicando la tasa que al efecto estable
 
 #### SECCION QUINTA. DEL PAGO
 
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 62.
 
-Los contribuyentes deberán presentar declaración bimestral ante la oficina recaudadora o institución de crédito autorizada por la Secretaría de Finanzas del Estado, a más tardar el día 10 del mes siguiente a aquél en que nace la obligación de presentarlas, utilizando las formas oficiales aprobadas.
+Los contribuyentes deberán presentar declaración bimestral ante la oficina recaudadora o institución de crédito autorizada por la Secretaría de Hacienda del Estado, a más tardar el día 10 del mes siguiente a aquél en que nace la obligación de presentarlas, utilizando las formas oficiales aprobadas.
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1996)</small>
 
 El pago será la cantidad que resulte de aplicar la tasa del impuesto sobre el total de los ingresos por la prestación de los servicios a que se refiere este Capítulo, obtenido en el periodo por el que se efectúa la declaración.
 
@@ -1247,13 +1315,17 @@ F) Internados.
 
 DE LA ESTIMACION DE LAS EROGACIONES.
 
-> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 64.
 
-La Secretaría de Finanzas del Estado podrá estimar los ingresos por los cuales se deba pagar el impuesto referido a este capítulo en los siguientes casos:
+La Secretaría de Hacienda del Estado podrá estimar los ingresos por los cuales se deba pagar el impuesto referido a este capítulo en los siguientes casos:
+
+> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 1996)</small>
 
 I.- Cuando no presenten sus declaraciones, o no lleven los libros y registros contables referidos en la fracción VI del artículo 65 de esta Ley.
+
+> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 1996)</small>
 
 II.- Cuando por los informes que se obtengan se ponga de manifiesto que entre la tributación pagada en la que debió enterarse, exista discrepancia mayor a un 3%.
 
@@ -1267,7 +1339,9 @@ II.- Cuando por los informes que se obtengan se ponga de manifiesto que entre la
 
 Son obligaciones de los contribuyentes de este impuesto:
 
-I.- Solicitar su inscripción en el Registro Estatal de Contribuyentes ante la oficina recaudadora que corresponda a su domicilio, mediante la forma oficial aprobada para ello por la Secretaría de Finanzas del Estado, proporcionando la información relacionada con su identidad, su domicilio y aquella que le sea solicitada, dentro del mes siguiente, al día en que se inicien sus obligaciones de enterar los pagos a que se refiere el artículo 62 de esta Ley.
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2010)</small>
+
+I.- Solicitar su inscripción en el Registro Estatal de Contribuyentes ante la oficina recaudadora que corresponda a su domicilio, mediante la forma oficial aprobada para ello por la Secretaría de Hacienda del Estado, proporcionando la información relacionada con su identidad, su domicilio y aquella que le sea solicitada, dentro del mes siguiente, al día en que se inicien sus obligaciones de enterar los pagos a que se refiere el artículo 62 de esta Ley.
 
 II.- Presentar ante las autoridades fiscales, dentro del plazo que señala la fracción anterior, los avisos de cambio de domicilio, nombre, razón social o suspensión de actividades.
 
@@ -1277,9 +1351,11 @@ IV.- Enterar en las oficinas autorizadas dentro del plazo señalado en este cap�
 
 Los contribuyentes de este impuesto están obligados a enterarlo, aún cuando no lo hubieren trasladado, pero si hubiesen prestado el servicio.
 
-V.- Los sujetos de este impuesto que se establezcan fuera del domicilio fiscal de la matriz deberán inscribirse al padrón de contribuyentes y presentar sus declaraciones por separado en oficina autorizada por la Secretaría de Finanzas del Estado, que corresponda a su domicilio fiscal determinado de conformidad con lo dispuesto en el Código Fiscal del Estado.
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
-Las personas físicas o morales que para efecto de impuestos federales, su domicilio fiscal se encuentre en otra Entidad Federativa, pero que perciban ingresos en el Estado de Nayarit por la prestación de servicios de hospedaje tendrán la obligación de registrar como domicilio fiscal para efectos de este impuesto el lugar donde se origine el servicio o la contraprestación, además deberán hacer dichos pagos en la oficina autorizada por la Secretaría de Finanzas que corresponda a su jurisdicción.
+V.- Los sujetos de este impuesto que se establezcan fuera del domicilio fiscal de la matriz deberán inscribirse al padrón de contribuyentes y presentar sus declaraciones por separado en oficina autorizada por la Secretaría de Hacienda del Estado, que corresponda a su domicilio fiscal determinado de conformidad con lo dispuesto en el Código Fiscal del Estado.
+
+Las personas físicas o morales que para efecto de impuestos federales, su domicilio fiscal se encuentre en otra entidad federativa, pero que perciban ingresos en el Estado de Nayarit por la prestación de servicios de hospedaje tendrán la obligación de registrar como domicilio fiscal para efectos de este impuesto el lugar donde se origine el servicio o la contraprestación, además deberán hacer dichos pagos en la oficina autorizada por la Secretaría de Hacienda que corresponda a su jurisdicción.
 
 VI.- Expedir comprobantes por la contraprestación objeto de este impuesto, llevar libros y registros contables de los mismos y conservarlos en los términos previstos en el Código Fiscal del Estado.
 
@@ -1357,11 +1433,13 @@ Para los efectos de esta Sección se consideran ingresos por la prestación de s
 
 En lo relativo a los ingresos y a las deducciones de este impuesto se atenderá en lo que corresponda, adicionalmente a lo previsto en esta Ley, lo establecido en el apartado correspondiente a Disposiciones Generales y a los Capítulos II, Sección I, y X, todos del Título IV y al Título VII, de la Ley del Impuesto Sobre la Renta.
 
-> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 65-H.
 
-Los contribuyentes a que se refiere esta Sección, efectuarán pagos provisionales mensuales a cuenta del impuesto del ejercicio, a más tardar el día 17 del mes inmediato posterior a aquél al que corresponda el pago, mediante declaración que presentarán ante las oficinas e instituciones de crédito autorizadas por la Secretaría de Finanzas.
+Los contribuyentes a que se refiere esta sección, efectuarán pagos provisionales mensuales a cuenta del impuesto del ejercicio, a más tardar el día 17 del mes inmediato posterior a aquél al que corresponda el pago, mediante declaración que presentarán ante las oficinas e instituciones de crédito autorizadas por la Secretaría de Hacienda.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2007)</small>
 
 El pago provisional se determinará restando de la totalidad de los ingresos obtenidos en el mes por el que declara, las deducciones del mismo periodo a que se refiere el artículo anterior. Al resultado que se obtenga se le aplicará la tasa que establezca anualmente la Ley de Ingresos para el Estado de Nayarit.
 
@@ -1370,6 +1448,8 @@ El pago provisional se determinará restando de la totalidad de los ingresos obt
 > <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2009)</small>
 
 Cuando los contribuyentes presten servicios profesionales a las personas morales, éstas deberán retener por concepto del impuesto correspondiente, el monto que resulte de aplicar la tasa del 3%, sobre el monto de los pagos que les efectúen, sin deducción alguna, debiendo proporcionar a los contribuyentes constancia de la retención; dichas retenciones deberán enterarse, en su caso, conjuntamente con las señaladas en el artículo 14 de esta Ley. El impuesto retenido en los términos de este párrafo será acreditable contra el impuesto a pagar que resulte en los pagos provisionales de conformidad con este artículo.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2007)</small>
 
 El impuesto del ejercicio se calculará disminuyendo a la totalidad de los ingresos obtenidos, las deducciones autorizadas correspondientes al mismo periodo. Al resultado se le aplicará la tasa que establezca anualmente la Ley de Ingresos para el Estado de Nayarit. Contra el impuesto anual calculado en los términos de este párrafo, se podrá acreditar el importe de los pagos provisionales efectuados durante el año de calendario. La declaración anual a que se refiere este párrafo se presentará en el mes de abril del año siguiente, ante las oficinas e instituciones de crédito autorizadas.
 
@@ -1439,11 +1519,11 @@ La parte proporcional a que se refiere el párrafo que antecede, se calculará c
 
 Cuando el uso o goce temporal del bien de que se trate no se hubiese otorgado por todo el ejercicio, las deducciones a que se refiere el primer párrafo de este articulo, se aplicaran únicamente cuando correspondan al periodo por el cual se otorgó el uso o goce temporal del bien inmueble o a los tres meses inmediatos anteriores al que se otorgue dicho uso o goce.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 65-D], P.O. 17 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
-###### ARTICULO 65-N.
+###### Artículo 65-N.
 
-Los contribuyentes que obtengan ingresos de los señalados en esta Sección efectuarán pagos provisionales mensuales a cuenta del impuesto del ejercicio que se pagará a la tasa que fije anualmente la Ley de Ingresos del Estado de Nayarit, que se aplicará a los ingresos por arrendamiento y en general por otorgar el uso o goce temporal de bienes inmuebles disminuyendo las deducciones autorizadas por esta ley en ese período. El entero de los pagos provisionales se realizará en las oficinas e instituciones de crédito autorizadas por la Secretaría de Finanzas, teniendo como fecha límite de presentación a más tardar el día 17 del mes inmediato siguiente al mes que corresponde el pago.
+Los contribuyentes que obtengan ingresos de los señalados en esta sección efectuarán pagos provisionales mensuales a cuenta del impuesto del ejercicio que se pagará a la tasa que fije anualmente la Ley de Ingresos del Estado de Nayarit, que se aplicará a los ingresos por arrendamiento y en general por otorgar el uso o goce temporal de bienes inmuebles disminuyendo las deducciones autorizadas por esta ley en ese período. El entero de los pagos provisionales se realizará en las oficinas e instituciones de crédito autorizadas por la Secretaría de Hacienda, teniendo como fecha límite de presentación a más tardar el día 17 del mes inmediato siguiente al mes que corresponde el pago.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -1451,11 +1531,11 @@ Los contribuyentes que obtengan ingresos de los señalados en esta Sección efec
 
 Cuando los ingresos a que se refiere esta Sección se obtengan por pagos que efectúen las personas morales, éstas deberán retener como pago provisional el monto que resulte de aplicar la tasa del 3% sobre el monto de los mismos, sin deducción alguna, debiendo proporcionar a los contribuyentes constancia de la retención; dichas retenciones deberán enterarse, en su caso, conjuntamente con las señaladas por el artículo 14 de esta Ley. El impuesto retenido en los términos de este párrafo, podrá acreditarse contra el que resulte de conformidad con el párrafo anterior.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 65-E], P.O. 17 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 65-O.
 
-El impuesto del ejercicio se calculará anualmente y se pagará a la tasa que establezca anualmente la Ley de Ingresos del Estado de Nayarit, que se aplicará a la totalidad de los ingresos por arrendamiento y en general por otorgar el uso o goce temporal de bienes inmuebles, disminuyendo las deducciones autorizadas por esta ley en ese ejercicio. Contra el impuesto anual calculado en los términos de este párrafo, se podrá acreditar el importe de los pagos provisionales efectuados durante el año a que se refiere el artículo anterior. La declaración del ejercicio deberá presentarse a más tardar el día 30 de abril del año siguiente al que corresponda el pago en las oficinas o instituciones de crédito autorizadas por la Secretaría de Finanzas.
+El impuesto del ejercicio se calculará anualmente y se pagará a la tasa que establezca anualmente la Ley de Ingresos del Estado de Nayarit, que se aplicará a la totalidad de los ingresos por arrendamiento y en general por otorgar el uso o goce temporal de bienes inmuebles, disminuyendo las deducciones autorizadas por esta ley en ese ejercicio. Contra el impuesto anual calculado en los términos de este párrafo, se podrá acreditar el importe de los pagos provisionales efectuados durante el año a que se refiere el artículo anterior. La declaración del ejercicio deberá presentarse a más tardar el día 30 de abril del año siguiente al que corresponda el pago en las oficinas o instituciones de crédito autorizadas por la Secretaría de Hacienda.
 
 > <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 65-F], P.O. 17 DE NOVIEMBRE DE 2007)</small>
 
@@ -2032,3 +2112,7 @@ P.O. 15 DE DICIEMBRE DE 2009.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor a partir del 1° de Enero del año dos mil diez, previa publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Nayarit.
+
+P.O. 25 DE DICIEMBRE DE 2010.
+
+Artículo Único.- El contenido del presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit, con excepción lo (sic) previsto en el artículo 15 que entrará en vigor el día 1° de Enero del año dos mil once.
