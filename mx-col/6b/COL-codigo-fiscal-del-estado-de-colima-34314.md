@@ -4,7 +4,7 @@ identifier: "COL-codigo-fiscal-del-estado-de-colima-34314"
 country: "mx"
 rank: "codigo"
 publication_date: "2003-10-04"
-last_updated: "2003-10-04"
+last_updated: "2010-12-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34314&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CODIGO FISCAL DEL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 2010.
 
 Código publicado en Suplemento No. 3 del Periódico Oficial del Estado de Colima, el sábado 4 de octubre de 2003.
 
@@ -51,9 +51,11 @@ CODIGO FISCAL DEL ESTADO DE COLIMA
 
 ### CAPITULO UNICO
 
-###### ARTICULO 1º.
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
-La Hacienda Pública del Estado de Colima, para cubrir el gasto público y demás obligaciones a su cargo, percibirá en cada ejercicio fiscal los ingresos públicos derivados de los impuestos, derechos, contribuciones de mejoras, productos, aprovechamientos, participaciones en ingresos federales, aportaciones y transferencias de recursos federalizados, empréstitos, apoyos y subsidios federales, así como los demás que se decreten excepcionalmente.
+###### ARTICULO 1°.
+
+La Hacienda Pública del Estado de Colima, para cubrir el gasto público y demás obligaciones a su cargo, percibirá en cada ejercicio fiscal los ingresos públicos derivados de las contribuciones y sus accesorios, productos, aprovechamientos, participaciones en ingresos federales, aportaciones y transferencias de recursos federalizados, empréstitos, apoyos y subsidios federales, así como los demás que se decreten excepcionalmente.
 
 ###### ARTICULO 2º.
 
@@ -86,6 +88,10 @@ Son derechos las prestaciones que se fijan conforme a la ley en pago por el uso 
 ###### ARTICULO 7º.
 
 Son contribuciones de mejoras los tributos que el poder público fija a quienes, independientemente de la utilidad general colectiva, obtengan beneficios diferenciales particulares derivados de la realización de obras públicas, de la dotación de equipamiento o equipo, de la prestación de servicios públicos por los que no se causen derechos en los términos de la Ley de Hacienda del Estado, o de la expropiación de bienes inmuebles que pasen a constituirse en reservas ecológicas o en bienes de uso común.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+
+ARTICULO 7° BIS.- Los recargos, las sanciones, los gastos de ejecución y la indemnización a que se refiere el cuarto párrafo del artículo 28 de este Código, son accesorios de las contribuciones y participan de la naturaleza de éstas. Siempre que en este Código se haga referencia únicamente a contribuciones, no se entenderán incluidos los accesorios.
 
 ###### ARTICULO 8º.
 
@@ -159,13 +165,17 @@ Las Leyes y demás disposiciones de carácter general que se refieren a la hacie
 
 Corresponde al titular del Ejecutivo del Estado la interpretación fiscal administrativa de las leyes u ordenamientos de la materia, en los casos dudosos que se sometan a su consideración. El Ejecutivo del Estado, por conducto de la Secretaría de Finanzas, a través de resoluciones que establezcan disposiciones de carácter general, podrá dictar normas de vigencia anual relativas a la administración, control, formas de pago, procedimientos y obligaciones secundarias para facilitar la aplicación de las leyes fiscales del Estado, sin que por ningún motivo se puedan variar el objeto, sujeto, base, tasa o tarifas, período de pago, infracciones y sanciones.
 
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 19.
 
-La administración, recaudación, fiscalización y, en su caso, la determinación de los impuestos, derechos, contribuciones de mejoras, productos y aprovechamientos que establezca la Ley de Hacienda del Estado, serán competencia exclusiva de la Secretaría de Finanzas.
+La administración, recaudación, fiscalización y, en su caso, la determinación de las contribuciones y sus accesorios, productos y aprovechamientos que establezca la Ley de Hacienda del Estado, serán competencia exclusiva de la Secretaría de Finanzas.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 20.
 
-En los plazos fijados en días no se contarán los sábados, los domingos ni el 1º de enero, el 5 de febrero, el 21 de marzo, el 1º y 5 de mayo, el 16 de septiembre, el 20 de noviembre, el 1º de diciembre de cada seis años cuando corresponda a la transmisión del Poder Ejecutivo Federal y el 25 de diciembre.
+En los plazos fijados en días no se contarán los sábados, los domingos ni el 1° de enero, el primer lunes de febrero en conmemoración del 5 de febrero, el tercer lunes de marzo en conmemoración del 21 de marzo, el 1° y 5 de mayo, el 16 de septiembre, el tercer lunes de noviembre en conmemoración del 20 de noviembre, el 1° de diciembre de cada seis años cuando corresponda a la transmisión del Poder Ejecutivo Federal y el 25 de diciembre.
 
 Tampoco se contarán en dichos plazos los días en que tengan vacaciones generales las autoridades fiscales estatales, excepto cuando se trate de plazos para la presentación de declaraciones y pago de contribuciones, exclusivamente, en cuyos casos esos días se consideran hábiles. No son vacaciones generales las que se otorguen en forma escalonada.
 
@@ -277,17 +287,17 @@ En ningún trámite administrativo se admitirá la gestión de negocios. La repr
 
 Los particulares o sus representantes podrán autorizar por escrito a personas que a su nombre reciban notificaciones.
 
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 28.
 
-El pago de los créditos fiscales deberá hacerse en efectivo y en moneda nacional, salvo que las disposiciones aplicables establezcan que se haga en especie. El pago por medio de giros telegráficos o postales procederá cuando el domicilio del deudor se encuentre en población distinta del lugar de residencia de la oficina recaudadora. La sola expedición del giro será suficiente para probar esta circunstancia. Los cheques certificados se considerarán como efectivo para los efectos del pago de cualquier crédito fiscal.
+El pago de las contribuciones, sus accesorios y aprovechamientos deberá hacerse en efectivo y en moneda nacional, salvo que las disposiciones aplicables establezcan que se haga en especie. Se aceptarán también como medio de pago los cheques certificados o de caja. Los cheques personales sin certificar podrán aceptarse solo en los casos en que el pago se realice a través de una institución bancaria y el cheque que se expida sea del mismo banco.
 
-También se admitirán como medio de pago los cheques personales del contribuyente sin certificar, cuando sean expedidos por el mismo. Los notarios y los fedatarios públicos que conforme a las disposiciones fiscales se encuentren obligados a determinar y enterar contribuciones a cargo de terceros, podrán hacerlo mediante cheques sin certificar de las cuentas personales de los contribuyentes, siempre que cumplan con los demás requisitos a que se refiere este artículo y los que señale el Reglamento de este Código.
+Los cheques a que se refiere este artículo no serán negociables y su importe deberá abonarse exclusivamente a la cuenta del Gobierno del Estado de Colima.
 
-Los cheques a que se refiere este artículo no serán negociables y su importe deberá abonarse exclusivamente a la cuenta de la Secretaría.
+Asimismo se aceptará como medio de pago la transferencia electrónica de fondos a favor del Gobierno del Estado de Colima. Se entiende por transferencia electrónica de fondos, el pago que por instrucción del contribuyente, a través de la afectación de fondos de su cuenta bancaria a favor del Gobierno del Estado de Colima, se realiza por las instituciones de crédito, en forma electrónica. Igualmente se aceptará como medio de pago el cargo autorizado por el contribuyente a una tarjeta de crédito o débito emitida por una institución autorizada, de la cual sea titular. De los pagos que se realicen conforme a los procedimientos señalados en este párrafo, así como de las declaraciones, solicitudes, avisos y demás documentos que se presenten ante las autoridades fiscales en forma electrónica, se integrarán archivos en medios magnéticos, los que tendrán la misma validez jurídica que los archivos documentales.
 
-El cheque recibido por las autoridades fiscales que sea presentado en tiempo y no sea pagado, dará lugar al cobro del monto del cheque y a una indemnización que será siempre del 20% del valor de éste, que se exigirá independientemente de los demás conceptos que procedan por el pago extemporáneo del crédito fiscal, así como de las comisiones bancarias generadas. Para tal efecto, la autoridad requerirá al librador del cheque para que, dentro de un plazo de tres días, efectúe el pago junto con la mencionada indemnización del 20%, o bien, acredite fehacientemente, con las pruebas documentales procedentes, que se realizó el pago o que el mismo no se realizó por causas exclusivamente imputables a la institución de crédito. Transcurrido el plazo señalado sin que se obtenga el pago o se demuestre cualquiera de los extremos antes señalados, la autoridad continuará el procedimiento administrativo de ejecución, sin perjuicio de que se tenga por no cumplida la obligación cubierta con el cheque devuelto y de la acción penal que pudiera intentarse en contra del librador.
-
-Cuando la Secretaría lo autorice, los créditos fiscales podrán pagarse mediante transferencia electrónica de fondos a favor de la Secretaría. De los pagos que se realicen conforme a dichos procedimientos, así como de las declaraciones, solicitudes, avisos y demás documentos que se presenten ante las autoridades fiscales en forma electrónica, se integrarán archivos en medios magnéticos, los que tendrán la misma validez jurídica que los archivos documentales.
+El cheque recibido por las autoridades fiscales que sea presentado en tiempo y no sea pagado por falta de fondos del librador, dará lugar al cobro del monto del cheque y a una indemnización que será siempre del 20% del valor de éste, que se exigirá independientemente de los demás conceptos que procedan por el pago extemporáneo del crédito fiscal, así como de las comisiones bancarias generadas. Para tal efecto, la autoridad requerirá al librador del cheque para que, dentro de un plazo de tres días, efectúe el pago junto con la mencionada indemnización del 20%, o bien, acredite fehacientemente, con las pruebas documentales procedentes, que se realizó el pago o que el mismo no se realizó por causas exclusivamente imputables a la institución de crédito. Transcurrido el plazo señalado sin que se obtenga el pago o se demuestre cualquiera de los extremos antes señalados, la autoridad continuará el procedimiento, administrativo de ejecución, sin perjuicio de que se tenga por no cumplida la obligación cubierta con el cheque devuelto y de la acción penal que pudiera intentarse en contra del librador.
 
 Los pagos que se hagan se aplicarán a los créditos más antiguos siempre que se trate de la misma contribución, y antes que al adeudo principal, a los accesorios en el siguiente orden:
 
@@ -395,15 +405,21 @@ XIV.- Las demás personas que señalen las leyes fiscales.
 
 Las personas físicas y morales así como las unidades económicas sin personalidad jurídica que habitualmente realicen actividades gravadas por contribuciones estatales, deberán cumplir con las siguientes obligaciones:
 
-I.- Solicitar su inscripción en el Registro por conducto de la oficina recaudadora de su jurisdicción, dentro de los quince días siguientes a aquel en que se inicien las actividades gravadas, en las formas oficiales aprobadas para el efecto, proporcionando todos los datos que en las mismas se exijan y anexando a la solicitud copia del documento equivalente que se hubiera presentado para efectos del Registro Federal de Contribuyentes;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2010)</small>
+
+I.- Solicitar su inscripción en el Registro por conducto de la oficina recaudadora de su jurisdicción, dentro de los quince días siguientes a aquel en que se inicien las actividades gravadas, en las formas oficiales aprobadas para el efecto, proporcionando todos los datos que en las mismas se exijan y anexando a la solicitud copia del documento equivalente que se hubiera presentado para efectos del Registro Federal de Contribuyentes así como la documentación relacionada con su identidad, su domicilio y en general con su situación fiscal;
 
 II.- Presentar las declaraciones y pagar los créditos fiscales en la forma y términos que establezcan las disposiciones fiscales.
 
-Los contribuyentes obligados a presentar declaraciones para el pago de contribuciones de conformidad con la Ley de Hacienda del Estado, lo harán utilizando los formatos aprobados por la Secretaría, pudiendo presentarlas a través de las oficinas recaudadoras e instituciones de crédito autorizadas o utilizando los procedimientos y medios electrónicos diseñados para el efecto.
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+
+Los contribuyentes obligados a presentar declaraciones para el pago de contribuciones de conformidad con la Ley de Hacienda del Estado, lo harán utilizando los formatos aprobados por la Secretaría, en las Receptorías de Rentas de la propia Secretaría, en las instituciones de crédito, en los establecimientos autorizados o utilizando los procedimientos y medios electrónicos diseñados para el efecto.
 
 Los pagos que resulten de las declaraciones, podrán efectuarse en cualquiera de las formas previstas en el artículo 28 del presente Código;
 
-III.- Presentar ante la autoridad y en la forma señalada en la fracción I de este artículo, dentro de los quince días siguientes a la fecha en que ocurran, los avisos de cambio al Registro, que a continuación se señalan:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+
+III.· Presentar ante la autoridad y en los términos señalados en la fracción I de este artículo, dentro de los quince días siguientes a la fecha en que ocurran, los avisos de cambio al Registro, que a continuación se señalan:
 
 a).- Cambio de denominación o razón social;
 
@@ -420,6 +436,10 @@ f).- Apertura o cierre de sucursales, establecimientos o bodegas; y
 g).- Cancelación en el Registro.
 
 La solicitud de inscripción a que se refiere la fracción I y los avisos señalados en ésta, cuando así lo autorice la Secretaría podrán presentarse mediante procedimientos y medios electrónicos;
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+
+En los casos en que las formas para la presentación de avisos, declaraciones y expedición de Constancias, que prevengan las disposiciones fiscales, no hubieran sido aprobadas y publicadas en el Periódico Oficial del Estado por la autoridad fiscal a más tardar quince días antes de la fecha en que el contribuyentes esté obligado a utilizarlas, los obligados a presentarlas deberán utilizar las últimas formas publicadas y, si no existiera forma publicada, las formularán en escrito que contenga su nombre, denominación o razón social, domicilio y clave del Registro Federal de Contribuyente, así como el ejercicio y los datos relativos a la obligación que pretenda cumplir; en el caso de que se trate de la obligación de pago, se deberá señalar además el monto del mismo.
 
 IV.- Llevar los libros y registros exigidos por las disposiciones fiscales y realizar los asientos de acuerdo con la técnica contable, dentro de los dos meses siguientes a la fecha en que hayan sido efectuadas las operaciones que los originen, sin incurrir en alteraciones, borraduras o enmendaduras;
 
@@ -719,9 +739,11 @@ Los hechos que se conozcan con motivo del ejercicio de las facultades de comprob
 
 El personal oficial que intervenga en los diversos trámites relativos a la aplicación de las disposiciones tributarias, estará obligado a guardar absoluta reserva en lo que concierne a las declaraciones y datos suministrados por los contribuyentes o por terceros con ellos relacionados. Dicha reserva no comprenderá los casos que señalen las leyes fiscales y aquellos en que deban suministrarse datos a servidores públicos encargados de la administración y de la defensa de los intereses fiscales estatales, a las autoridades judiciales en procesos del orden penal o a los tribunales competentes que conozcan de pensiones alimenticias.
 
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 55.
 
-Las contribuciones omitidas que las autoridades fiscales determinen como consecuencia del ejercicio de sus facultades de comprobación, deberán pagarse o garantizarse, junto con sus accesorios, dentro de los treinta días siguientes a aquél en que haya surtido efectos su notificación.
+Las contribuciones omitidas que las autoridades fiscales determinen como consecuencia del ejercicio de sus facultades de comprobación, así como los demás créditos fiscales, deberán pagarse o garantizarse, junto con sus accesorios, dentro de los 30 días siguientes a aquél en que haya surtido efectos su notificación.
 
 ###### ARTICULO 56.
 
@@ -1497,6 +1519,10 @@ Si las notificaciones se refieren a requerimientos para el cumplimiento de oblig
 
 Cuando se deje sin efectos una notificación practicada ilegalmente, se impondrá al notificador una multa de diez unidades de salario.
 
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+
+Por concepto de honorarios por notificación a que se refiere el primer párrafo de este artículo, se pagará el equivalente a tres unidades de salario, por cada notificación.
+
 ###### ARTICULO 128.
 
 Cuando una notificación se realice en contravención a las disposiciones señaladas en este Capítulo, será nula y así deberá declararse de oficio o a petición de parte.
@@ -1677,9 +1703,21 @@ II.- La preferencia corresponderá al titular del derecho real, en caso de que e
 
 III.- Si ambos o todos los acreedores públicos poseen derechos reales, la preferencia corresponderá al primer embargante.
 
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 149.
 
-Cuando sea necesario emplear el procedimiento administrativo de ejecución para hacer efectivo un crédito fiscal, el contribuyente estará obligado a pagar los gastos de ejecución en la proporción que señale la Ley de Hacienda, por cada una de las etapas que en la misma se establecen.
+Cuando sea necesario emplear el procedimiento administrativo de ejecución para hacer efectivo un crédito fiscal, las personas físicas y morales estarán obligadas a pagar el 2% del crédito fiscal por concepto de gastos de ejecución, por cada una de las diligencias que a continuación se indican:
+
+I.- Por el requerimiento señalado en el primer párrafo del artículo 150 de este Código;
+
+II.- Por el embargo incluyendo los señalados en los artículos 44 fracción II y 133, fracción IV de este Código;
+
+III.- Por el remate, enajenación fuera de remate o adjudicación al fisco estatal.
+
+Cuando en los casos de los incisos anteriores, el 2% del crédito sea inferior a tres unidades de salario, se cobrará está cantidad en vez del 2% del crédito.
+
+En ningún caso los gastos de ejecución por cada una de las diligencias a que se refiere este artículo, excluyendo las erogaciones extraordinarias y las contribuciones que se paguen por el Estado para liberar de cualquier gravamen bienes que sean objeto de remate, podrán exceder de 400 unidades de salario.
 
 Asimismo, se pagarán por concepto de gastos de ejecución, los extraordinarios en que se incurra con motivo del procedimiento administrativo de ejecución, que únicamente comprenderán los de transporte de los bienes embargados, de avalúos, de impresión y publicación de convocatorias y edictos, de investigaciones, de inscripciones o de cancelaciones en el Registro Público que corresponda, los erogados por la obtención del certificado de liberación de gravamen, los honorarios de los depositarios y de los peritos, así como los honorarios de las personas que contraten los interventores, salvo cuando dichos depositarios renuncien expresamente al cobro de tales honorarios y las contribuciones que se paguen por el Estado para liberar de cualquier gravamen, bienes que sean objeto de remate.
 
@@ -1697,6 +1735,10 @@ II.- A embargar negociaciones con todo lo que de hecho y por derecho les corresp
 
 El embargo de bienes raíces, de derechos reales o negociaciones de cualquier género, se inscribirá en el Registro Público que le corresponda, en atención a la naturaleza de los bienes o derechos de que se trate.
 
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+
+Si la exigibilidad se origina por vencimiento de obligaciones de pago periódico determinadas en ley o por cese de la prórroga o de la autorización de pagar en parcialidades o por error aritmético en las declaraciones, el deudor podrá efectuar el pago dentro de los seis días hábiles siguientes a la fecha en que surta sus efectos la notificación del requerimiento.
+
 ###### ARTICULO 151.
 
 El ejecutor que designe la oficina en que se radique el crédito fiscal, se constituirá en el domicilio del deudor y practicará la diligencia de requerimiento de pago y de embargo de bienes, con intervención de la negociación en su caso, cumpliendo las formalidades señaladas en este Código para las notificaciones personales. De esta diligencia se levantará acta pormenorizada de la que se entregará copia a la persona con quien se entienda la misma.
@@ -1707,7 +1749,9 @@ Si la notificación del crédito se hizo por edicto, la diligencia de embargo se
 
 El deudor o la persona con quien se entienda la diligencia de embargo, tendrá derecho de señalar los bienes en que éste se deba trabar, sujetándose al orden siguiente:
 
-I.- Dinero y metales preciosos;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2010)</small>
+
+I.- Dinero, metales preciosos, depósitos bancarios o cualquier otro depósito en moneda nacional o extranjera, que se realicen en cualquier tipo de cuenta que tenga a su nombre el contribuyente en alguna de las entidades financieras o sociedades cooperativas de ahorro o préstamo, salvo los depósitos que una persona tenga en su cuenta individual de ahorro para el retiro hasta por el monto de las aportaciones que se hayan realizado de manera obligatoria conforme a la ley de la materia y las aportaciones voluntarias y complementarias hasta por un monto de 20 unidades de salario, tal como lo establece la Ley de los Sistemas de Ahorro para el Retiro.
 
 II.- Acciones, bonos, cupones vencidos, valores mobiliarios y, en general, créditos de inmediato y fácil cobro a cargo de entidades o dependencias de la Federación, Estados y municipios y de instituciones o empresas de reconocida solvencia;
 
@@ -2100,3 +2144,11 @@ Por tanto mando se imprima, publique, circule y observe.
 Dado en el Palacio de Gobierno, a los 30 días del mes de septiembre del año 2003.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. FERNANDO MORENO PEÑA. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, LIC. JOSÉ GILBERTO GARCÍA NAVA. Rúbrica. EL SECRETARIO DE FINANZAS, ING. ALMAR PETTERSEN MORA. Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 25 DE DICIEMBRE DE 2010.
+
+PRIMERO.- El presente Decreto entrará en vigor el 1o. de enero de 2011, previa su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Para los efectos del ajuste monetario en el pago de las contribuciones a que se refiere el artículo segundo transitorio del decreto de reformas a la Ley de Hacienda del Estado, publicado en el Periódico Oficial "El Estado de Colima" el 31 de diciembre de 1997 y en el caso concreto de los derechos que se causan por los servicios prestados en los Kioscos de Servicios e Información de Gobierno, durante el año 2011 el monto se ajustará a la decena de pesos inferior más próxima.
