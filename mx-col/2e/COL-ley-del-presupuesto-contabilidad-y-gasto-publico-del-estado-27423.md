@@ -4,7 +4,7 @@ identifier: "COL-ley-del-presupuesto-contabilidad-y-gasto-publico-del-estado-274
 country: "mx"
 rank: "ley"
 publication_date: "2002-12-21"
-last_updated: "2004-07-24"
+last_updated: "2010-12-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=27423&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COL"
 
 LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE JULIO DE 2004.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DE LA LEY DE PRESUPUESTO Y GASTO PUBLICO DEL ESTADO DE COLIMA, PUBLICADA EN EL P.O. DE FECHA 25 DE DICIEMBRE DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Suplemento No. 4 del Periódico Oficial del Estado de Colima, el sábado 21 de diciembre de 2002.
 
@@ -448,3 +450,11 @@ P.O. 24 DE JULIO DE 2004.
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Colima".
 
 Segundo.- La revisión y fiscalización de la cuenta pública municipal correspondiente al ejercicio fiscal 2003, se sujetará a las bases y disposiciones constitucionales del sistema anual de rendición de cuentas establecidas antes de la presente reforma.
+
+P.O. 25 DE DICIEMBRE DE 2010.
+
+PRIMERO .La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Colima, publicada en el Periódico Oficial del Estado, el 21 de diciembre del año 2002, y demás disposiciones legales que se opongan al presente ordenamiento.
+
+TERCERO.- Cuando otros ordenamientos se refieran a la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Colima, se entenderá referida a la Ley contenida en este Decreto.
