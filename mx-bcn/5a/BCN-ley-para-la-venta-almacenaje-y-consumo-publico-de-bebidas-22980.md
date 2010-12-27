@@ -4,7 +4,7 @@ identifier: "BCN-ley-para-la-venta-almacenaje-y-consumo-publico-de-bebidas-22980
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-09"
-last_updated: "2007-10-19"
+last_updated: "2010-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22980&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY PARA LA VENTA, ALMACENAJE Y CONSUMO PUBLICO DE BEBIDAS ALCOHOLICAS DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE OCTUBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 2010.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el viernes 9 de noviembre de 2001.
 
@@ -269,15 +269,21 @@ No se considerará área de servicio al cliente, los espacios dedicados a estaci
 
 De los servicios adicionales.- Los permisionarios de los establecimientos o giros cuya actividad autorizada incluya la venta para consumo de bebidas alcohólicas, deberán solicitar a la autoridad municipal la autorización para la explotación de servicios adicionales que no se encuentren incluidos en el permiso originario, conforme se establezca en el reglamento.
 
-###### ARTÍCULO 17.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2010)</small>
 
-De los horarios de la actividad.- Los establecimientos autorizados para realizar las actividades, podrán iniciar la venta o venta para consumo de bebidas alcohólicas a partir de las diez horas del día, no debiendo excederse de las tres horas del día siguiente, de conformidad con los horarios que para las diferentes modalidades de establecimientos o giros, se determinen en el reglamento municipal correspondiente.
+###### ARTICULO 17.
+
+De los horarios de la actividad.- Los establecimientos autorizados para realizar las actividades, podrán iniciar la venta o venta para consumo de bebidas alcohólicas a partir de las diez horas del día, no debiendo excederse de la primera hora del día siguiente, de conformidad con los horarios que para las diferentes modalidades de establecimientos o giros, se determinen en el reglamento municipal correspondientes.
 
 Los Municipios podrán autorizar horarios extraordinarios que excedan el límite anterior, en determinadas zonas o establecimientos, o durante la celebración de eventos especiales, verbenas, o festivales, tomando en cuenta la ubicación del evento a realizarse o del establecimiento o giro solicitante, conforme a las recomendaciones que emita el consejo consultivo.
 
-Asimismo, podrán reducir los horarios autorizados, sea de manera temporal o definitiva, cuando se afecte el interés público o los permisionarios incurran en infracciones conforme lo estipula esta Ley, los reglamentos y demás ordenamientos legales aplicables.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2010)</small>
 
-En ningún caso, la autorización de horario extraordinario podrá extenderse a más de dos horas por día.
+Asimismo, podrán reducir los horarios autorizados, sea de manera temporal o definitiva, cuando se afecte el interés social o los permisionarios incurran en infracciones conforme lo estipula esta ley, los reglamentos y demás ordenamientos legales aplicables.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2010)</small>
+
+En ningún caso, la autorización de horario extraordinario podrá extenderse a mas de dos horas y solo podrá concederse hasta por tres días a la semana.
 
 La distribución al mayoreo de bebidas alcohólicas en envase cerrado a los establecimientos autorizados para realizar las actividades, se deberá efectuar dentro de los horarios que el ayuntamiento determine para cada zona.
 
@@ -558,3 +564,17 @@ P.O. 29 DE SEPTIEMBRE DE 2006.
 P.O. 19 DE OCTUBRE DE 2007.
 
 ÚNICO.- Las presentes reformas entrarán en vigor un día después al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE DICIEMBRE DE 2010.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan a lo establecido en el presente Decreto de reforma.
+
+TERCERO.- Los ayuntamientos dispondrán de un plazo de tres meses, contados a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones que correspondan a su respectiva reglamentación.
+
+CUARTO.- A las personas físicas o morales que hayan solicitado la autorización de horarios extraordinarios antes de la entrada en vigor del presente decreto, les serán aplicables las disposiciones vigentes en el momento de presentar dicha solicitud.
+
+QUINTO.- A las personas físicas o morales que se les haya otorgado permiso para operar establecimientos, locales o giros dedicados a la venta o venta para consumo de bebidas alcohólicas, con anterioridad a la entrada en vigor del presente decreto, les serán aplicables las disposiciones vigentes en el momento en que aquel les haya sido otorgado; pero para su revalidación, en su caso; se estará a lo dispuesto por este decreto.
+
+SEXTO.- Las solicitudes de permiso para operar establecimientos, locales o giros dedicados a la venta o venta para consumo de bebidas alcohólicas que se estén substanciando a la entrada en vigor del presente decreto, se seguirán conforme a las disposiciones vigentes al momento de la presentación de dicha solicitud, pero para su revalidación, en su caso, se estará a lo dispuesto por este decreto.
