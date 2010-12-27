@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-para-la-ciudad-de-tecate-b-c-de-anuncios-2705"
 country: "mx"
 rank: "reglamento"
 publication_date: "1983-03-20"
-last_updated: "1983-03-20"
+last_updated: "2010-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2705&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCN"
 
 REGLAMENTO DE ANUNCIOS, PINTURAS Y REMODELACIONES DE FACHADAS, PARA LA CIUDAD DE TECATE
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL PRIMER TRANSITORIO DEL REGLAMENTO DE ANUNCIOS, ROTULOS, PINTURAS Y REMODELACIONES DE FACHADAS PARA EL MUNICIPIO DE TECATE, BAJA CALIFORNIA, PUBLICADO EN LA SECCION III DEL P.O. DE FECHA 27 DE DICIEMBRE DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: DEROGADO
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el domingo 20 de marzo de 1983.
 
@@ -548,3 +550,11 @@ EL REGIDOR MUNICIPAL,
 RAMON MONTERO GOMEZ.
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 27 DE DICIEMBRE DE 2010.
+
+PRIMERO.- Se deroga el Reglamento Para la Ciudad de Tecate, B. C. de Anuncios Pinturas y Remodelaciones de Fachadas publicado en el Periódico Oficial de fecha 20 de marzo de 1983.
+
+SEGUNDO.- El presente reglamento entrara en vigor al día siguiente en que sea publicado en el Periódico Oficial del Estado de Baja California.
