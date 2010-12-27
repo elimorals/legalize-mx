@@ -4,7 +4,7 @@ identifier: "CMX-ley-del-regimen-patrimonial-y-del-servicio-publico-9230"
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-20"
-last_updated: "2008-09-15"
+last_updated: "2010-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9230&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1996-12-10"
 
 LEY DEL REGIMEN PATRIMONIAL Y DEL SERVICIO PUBLICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 15 DE SEPTIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 27 DE DICIEMBRE DE 2010.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el viernes 20 de diciembre de 1996.
 
@@ -1396,6 +1396,12 @@ La prestación de los servicios públicos en el Distrito Federal corresponde a l
 
 Para los efectos de esta Ley, se entiende por servicio público la actividad organizada que se realice conforme a las leyes vigentes en el Distrito Federal, con el fin de satisfacer necesidades de interés general en forma obligatoria, regular y continua, uniforme y en igualdad de condiciones.
 
+> <small>(ADICIONADO, G.O. 27 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 128 Bis.
+
+En la prestación de servicios públicos, se tomarán en consideración criterios ambientales, procurando el uso de tecnologías y sistemas sustentables.
+
 ###### Artículo 129.
 
 Cuando el Jefe de Gobierno del Distrito Federal decida que un servicio público debe ser prestado en colaboración con particulares, dicho Jefe de Gobierno tendrá a su cargo la organización del mismo y la dirección correspondiente.
@@ -1481,3 +1487,17 @@ Artículo Segundo.- Publíquese en el Diario Oficial de la Federación para su m
 G.O. 15 DE SEPTIEMBRE DE 2008.
 
 PRIMERO.- Las presentes reformas y adiciones, entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 27 DE DICIEMBRE DE 2010.
+
+PRIMERO. El presente decreto entrará en vigor a partir del día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO. Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+TERCERO.- Para el cumplimiento de lo dispuesto en la fracción VI del artículo 10 de la Ley Ambiental del Distrito Federal, esta Asamblea Legislativa sujeto a disponibilidad presupuestal, deberá incluir en el Presupuesto de Egresos del Distrito Federal del Ejercicio Fiscal inmediato a la aprobación de la presente reforma, una partida especial para que las delegaciones políticas cumplan con las disposiciones relativas al establecimiento de sistemas de ahorro de energía ó tecnologías que permitan el aprovechamiento de la energía solar, en mobiliario destinado al servicio de alumbrado público.
+
+Cada año, sujeto a disponibilidad presupuestal se deberá asignar una partida especial en el Presupuesto de Egresos del Distrito Federal, para el establecimiento de sistemas de ahorro de energía ó tecnologías que aprovechen la energía solar, a que se refiere la fracción VI del artículo 10 de la presente reforma en la Ley Ambiental del Distrito Federal.
+
+Durante el primer año, cuando haya presupuesto asignado, las demarcaciones procurarán cambiar el 15 por ciento del mobiliario por sistemas de ahorro de energía ó tecnologías que permitan el aprovechamiento de la energía solar; asimismo, tendrán que cambiar anualmente el 10 por ciento de su mobiliario hasta llegar sucesivamente a la totalidad en la demarcación.
+
+Las Delegaciones presentaran con 6 meses de anticipación en coordinación con la Secretaría de Medio Ambiente estos programas a su aprobación.
