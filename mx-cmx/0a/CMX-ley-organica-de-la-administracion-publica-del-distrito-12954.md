@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-la-administracion-publica-del-distrito-12954"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1998-12-29"
-last_updated: "2010-12-20"
+last_updated: "2010-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12954&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1998-12-14"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 20 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 27 DE DICIEMBRE DE 2010.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 29 de diciembre de 1998.
 
@@ -490,61 +490,41 @@ XVII. Integrar el patronato y participar en la integración de la junta de Gobie
 
 XVIII. Llevar el padrón de los certificados de cumplimiento de los establecimientos mercantiles señalados como de su competencia en la Ley de Establecimientos Mercantiles del Distrito Federal, y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(ADICIONADA, G.O. 20 DE DICIEMBRE DE 2010)</small>
 
 XIX. Coordinar y supervisar el funcionamiento del Sistema de Protección Civil para garantizar, mediante la adecuada planeación, la prevención, auxilio y recuperación de la población y de su entorno ante situaciones de desastre, incorporando la participación activa y comprometida de la sociedad;
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, G.O. 20 DE DICIEMBRE DE 2010)</small>
 
 XX. Coordinar a las partes del Sistema de Protección Civil en la elaboración de los planes y programas básicos de atención, auxilio y apoyo al restablecimiento de la normalidad, frente a los desastres provocados por los diferentes tipos de agentes perturbadores;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(ADICIONADA, G.O. 20 DE DICIEMBRE DE 2010)</small>
 
 XXI. Solicitar al Jefe de Gobierno la emisión de las declaratorias de emergencia o desastre, acompañando dicha solicitud con un informe técnico de la situación por la que se requiere la intervención inmediata del Sistema de Protección Civil y de los recursos del FOPREDE o del FODEM, en los términos de las reglas de operación de los mismos;
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, G.O. 20 DE DICIEMBRE DE 2010)</small>
 
 XXII. Suscribir convenios de colaboración administrativa con las partes integrantes del Sistema de Protección Civil, en materia de diagnóstico, prevención y atención de desastres;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(ADICIONADA, G.O. 20 DE DICIEMBRE DE 2010)</small>
 
 XXIII. Operar, en términos de la normatividad aplicable, el Fondo Revolvente del FODEM para la adquisición de suministros de auxilio en situaciones de emergencia y desastre;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(ADICIONADA, G.O. 20 DE DICIEMBRE DE 2010)</small>
 
-XXIV. Determinar, en los términos de las Reglas de Operación, la adquisición de equipo especializado de transporte, comunicación, alertamiento y atención de emergencias y desastres, atención de emergencias y desastres (sic), así como indumentaria especializada para la atención y rescate con cargo al FOPREDE;
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+XXIV. Determinar, en los términos de las Reglas de Operación, la adquisición de equipo especializado de transporte, comunicación, alertamiento y atención de emergencias y desastres, atención de emergencias y desastres, así como indumentaria especializada para la atención y rescate con cargo al FOPREDE;
 
 > <small>(ADICIONADA, G.O. 20 DE DICIEMBRE DE 2010)</small>
 
 XXV. Elaborar las normas técnicas complementarias y términos de referencia en materia de protección civil;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(ADICIONADA, G.O. 20 DE DICIEMBRE DE 2010)</small>
 
 XXVI. Impulsar la actualización de las empresas capacitadoras, de consultoría y de estudios de riesgo vulnerabilidad vinculadas a la materia de protección civil;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(ADICIONADA, G.O. 20 DE DICIEMBRE DE 2010)</small>
 
-XXVII. Iniciar y resolver el procedimiento administrativo con la finalidad de revocar el registro a las empresas capacitadoras, de consultoría y de estudios de riesgo vulnerabilidad, y a los terceros acreditados, que incurran en violaciones a la presente Ley o su reglamento; y (sic)
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+XXVII. Iniciar y resolver el procedimiento administrativo con la finalidad de revocar el registro a las empresas capacitadoras, de consultoría y de estudios de riesgo vulnerabilidad, y a los terceros acreditados, que incurran en violaciones a la presente Ley o su reglamento; y
 
 > <small>(ADICIONADA, G.O. 20 DE DICIEMBRE DE 2010)</small>
 
@@ -898,13 +878,17 @@ XIX. Auxiliar a los Centros de Educación privada en la elaboración de su Progr
 
 XX. Las demás que le atribuyan expresamente las leyes y reglamentos.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 27 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 27.
 
-A la Secretaría de Obras y Servicios corresponde el despacho de las materias relativas a la normatividad de obras públicas y servicios urbanos; la construcción y operación hidráulica; los proyectos y construcción de las obras del sistema de transporte colectivo; los proyectos y construcción de obras públicas, así como proponer la política de tarifas y prestar el servicio de agua potable.
+A la Secretaría de Obras y Servicios corresponde el despacho de las materias relativas a la normatividad de obras públicas y servicios urbanos; la construcción y operación hidráulica; los proyectos y construcción de las obras del Sistema de Transporte Colectivo; los proyectos y construcción de obras públicas, así como proponer la política de tarifas y prestar el servicio de agua potable.
 
 Específicamente cuenta con las siguientes atribuciones:
 
-I. Planear, organizar, normar y controlar la prestación de los servicios públicos de su competencia, así como la planeación y ejecución de obras y servicios públicos de impacto en más de una demarcación territorial o de alta especialidad técnica, de acuerdo con las clasificaciones que se hagan en las disposiciones aplicables;
+> <small>(REFORMADA, G.O. 27 DE DICIEMBRE DE 2010)</small>
+
+I. Planear, organizar, normar y controlar la prestación de los servicios públicos de su competencia, así como la planeación y ejecución de obras y servicios públicos de impacto en más de una demarcación territorial o de alta especialidad técnica, de acuerdo con las clasificaciones que se hagan en las disposiciones aplicables, para lo cual se deberán considerar criterios ambientales que garanticen un desarrollo sustentable.
 
 II. Vigilar y evaluar la contratación, ejecución y liquidación de las obras y servicios de su competencia, conforme a las leyes aplicables;
 
@@ -1504,8 +1488,6 @@ La Administración Pública del Distrito Federal contará con órganos político
 
 Los titulares de los Organos Político-Administrativo de cada demarcación territorial serán elegidos en forma universal, libre, secreta y directa en los términos establecidos en la legislación aplicable y se auxiliarán para el despacho de los asuntos de su competencia de los Directores Generales, Directores de Area, Subdirectores y Jefes de Unidad Departamental, que establezca el Reglamento Interior.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 20 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 39.
@@ -1580,7 +1562,9 @@ XXX. Ejercer las funciones de vigilancia y verificación administrativa sobre el
 
 XXXI.- Rehabilitar y mantener escuelas, así como construir, rehabilitar y mantener bibliotecas, museos y demás centros de servicio social, cultural y deportivo a su cargo, así como atender y vigilar su adecuado funcionamiento, incluyendo la instalación de bebederos de agua potable, y el mantenimiento a los ya instalados en las escuelas del Distrito Federal, así como la construcción y rehabilitación de espacios con la infraestructura humana, inmobiliaria y material necesaria y adecuada destinados para la Educación Física y la Práctica Deportiva, de conformidad con la normatividad que al efecto expida la Secretaria de Educación;
 
-XXXII. Prestar el servicio de alumbrado público en las vialidades y mantener sus instalaciones en buen estado y funcionamiento, de conformidad con la normatividad que al efecto expida la Dependencia competente;
+> <small>(REFORMADA, G.O. 27 DE DICIEMBRE DE 2010)</small>
+
+XXXII. Prestar el servicio de alumbrado público en las vialidades, observando criterios ambientales, en materia de sistemas de ahorro de energía y aprovechamiento de energías renovables, y mantener sus instalaciones en buen estado y funcionamiento, de conformidad con la normatividad que al efecto expida la Dependencia competente;
 
 XXXIII. Construir, rehabilitar y mantener los parques públicos que se encuentren a su cargo, de conformidad con la normatividad que al efecto expida la Dependencia competente;
 
@@ -1690,21 +1674,15 @@ LXXXI. Proponer el Jefe de Gobierno, los proyectos de Programas Operativos Anual
 
 > <small>(ADICIONADA, G.O. 4 DE AGOSTO DE 2004)</small>
 
-LXXXII. Coadyuvar con la dependencia de la administración Pública del Distrito Federal que resulte competente, en las tareas de seguridad pública y protección civil en la Delegación; y (sic)
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+LXXXII. Coadyuvar con la dependencia de la administración Pública del Distrito Federal que resulte competente, en las tareas de seguridad pública y protección civil en la Delegación; y
 
 > <small>(ADICIONADA, G.O. 20 DE DICIEMBRE DE 2010)</small>
 
-LXXXIII. Solicitar al Jefe de Gobierno del Distrito Federal, la emisión de la declaratoria de emergencia o la declaratoria de desastre en los términos de la Ley de Protección Civil;
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+LXXXIII. Solicitar al Jefe de Gobierno del Distrito Federal, la emisión de la declaratoria de emergencia o la declaratoria de desastre en los términos de la Ley de Protección Civil.
 
 > <small>(ADICIONADA, G.O. 20 DE DICIEMBRE DE 2010)</small>
 
-LXXXIV. Elaborar su respectivo Atlas de Riesgo Delegacional y mantenerlo actualizado;
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+LXXXIV. Elaborar su respectivo Atlas de Riesgo Delegacional y mantenerlo actualizado.
 
 > <small>(REFORMADA, G.O. 20 DE DICIEMBRE DE 2010)</small>
 
@@ -2226,14 +2204,28 @@ SEGUNDO. El presente Decreto entrará en vigor al día siguiente después de su 
 
 G.O. 20 DE DICIEMBRE DE 2010.
 
-PRIMERO.- El presente decreto entrará en vigor el 1 de enero de 2011.
+PRIMERO.-El presente decreto entrará en vigor el 1 de enero de 2011.
 
-SEGUNDO.- El Gobierno del Distrito Federal publicará el Programa General de Protección Civil del Distrito Federal en un plazo no mayor a 60 días posteriores a la publicación del presente decreto.
+SEGUNDO.-El Gobierno del Distrito Federal publicará el Programa General de Protección Civil del Distrito Federal en un plazo no mayor a 60 días posteriores a la publicación del presente decreto.
 
-TERCERO.- El Gobierno del Distrito Federal expedirá las Reglas de Operación y Lineamientos a que hace referencia el presente decreto sin que la publicación exceda el 1 de enero de 2011.
+TERCERO.-El Gobierno del Distrito Federal expedirá las Reglas de Operación y Lineamientos a que hace referencia el presente decreto sin que la publicación exceda el 1 de enero de 2011.
 
-CUARTO.- A partir del ejercicio fiscal 2011, el Presupuesto de Egresos del Distrito Federal contemplará los recursos necesarios para la operación del Fondo de Desastres y del Fondo Preventivo de Desastres Naturales.
+CUARTO.-A partir del ejercicio fiscal 2011, el Presupuesto de Egresos del Distrito Federal contemplará los recursos necesarios para la operación del Fondo de Desastres y del Fondo Preventivo de Desastres Naturales.
 
-QUINTO.- El Presupuesto de Egresos del Distrito Federal contemplará para el ejercicio fiscal 2011, por única ocasión, los recursos necesarios para la creación y operación del Fideicomiso Preventivo de Desastres.
+QUINTO.-El Presupuesto de Egresos del Distrito Federal contemplará para el ejercicio fiscal 2011, por única ocasión, los recursos necesarios para la creación y operación del Fideicomiso Preventivo de Desastres.
 
-SEXTO.- Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
+SEXTO.-Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
+
+G.O. 27 DE DICIEMBRE DE 2010.
+
+PRIMERO. El presente decreto entrará en vigor a partir del día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+TERCERO.- Para el cumplimiento de lo dispuesto en la fracción VI del artículo 10 de la Ley Ambiental del Distrito Federal, esta Asamblea Legislativa sujeto a disponibilidad presupuestal, deberá incluir en el Presupuesto de Egresos del Distrito Federal del Ejercicio Fiscal inmediato a la aprobación de la presente reforma, una partida especial para que las delegaciones políticas cumplan con las disposiciones relativas al establecimiento de sistemas de ahorro de energía ó tecnologías que permitan el aprovechamiento de la energía solar, en mobiliario destinado al servicio de alumbrado público.
+
+Cada año, sujeto a disponibilidad presupuestal se deberá asignar una partida especial en el Presupuesto de Egresos del Distrito Federal, para el establecimiento de sistemas de ahorro de energía ó tecnologías que aprovechen la energía solar, a que se refiere la fracción VI del artículo 10 de la presente reforma en la Ley Ambiental del Distrito Federal.
+
+Durante el primer año, cuando haya presupuesto asignado, las demarcaciones procurarán cambiar el 15 por ciento del mobiliario por sistemas de ahorro de energía ó tecnologías que permitan el aprovechamiento de la energía solar; asimismo, tendrán que cambiar anualmente el 10 por ciento de su mobiliario hasta llegar sucesivamente a la totalidad en la demarcación.
+
+Las Delegaciones presentaran con 6 meses de anticipación en coordinación con la Secretaría de Medio Ambiente estos programas a su aprobación.
