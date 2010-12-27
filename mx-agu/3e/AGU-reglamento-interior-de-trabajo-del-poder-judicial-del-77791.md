@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interior-de-trabajo-del-poder-judicial-del-77791"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-10-20"
-last_updated: "2003-10-20"
+last_updated: "2010-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77791&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "AGU"
 
 REGLAMENTO INTERIOR DE TRABAJO DEL PODER JUDICIAL DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 2010.
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 20 de octubre de 2003.
 
@@ -358,19 +358,27 @@ Cuando un servidor público sin tener derecho a gozar del período vacacional po
 
 Las licencias de los servidores públicos para separarse de sus funciones serán económicas, voluntarias, necesarias y por fuerza mayor.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 41.
 
-Son licencias económicas con goce de sueldo, las que se conceden a los servidores públicos hasta por dos días hábiles consecutivos dentro de un año calendario y deberán ajustarse a lo siguiente:
+Son licencias económicas con goce de sueldo, las que se conceden a los servidores públicos hasta por dos días hábiles dentro de un año calendario y deberán ajustarse a lo siguiente:
 
 I.- Que los servidores públicos tengan cuando menos dos años consecutivos de servicios.
 
-II.- Los días económicos se deberán solicitar por escrito al titular del juzgado o área cuando menos con cinco días hábiles de anticipación.
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2010)</small>
 
-III.- No deberán ir seguidas por días festivos o de periodo vacacional, incapacidades, permisos y licencias.
+II.- Los días económicos se deberán solicitar por escrito al titular del juzgado o área cuando menos con seis días hábiles de anticipación.
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2010)</small>
+
+III.- No deberán ir seguidas por periodo vacacional.
 
 IV.- El criterio en cuanto a las fechas a otorgar dependerá de las necesidades del trabajo del juzgado o área a que pertenezca el servidor público, no debiendo ser más de dos personas por juzgado o área a la vez.
 
-El titular del área o juzgado enviará a la Dirección de Administración de Personal el aviso de día económico por lo menos con tres días antes de su disfrute, pudiendo rechazar un aviso de permiso económico cuando no cumpla los requisitos anteriormente mencionados, informándolo por escrito al área o juzgado que lo solicita.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2010)</small>
+
+El titular del área o juzgado enviará a la Dirección de Administración de Personal el aviso de día económico por lo menos cinco días antes de su disfrute, pudiendo rechazar un permiso económico cuando no cumpla los requisitos anteriormente mencionados, informándolo por escrito al área o juzgado que lo solicita.
 
 ###### ARTICULO 42.
 
@@ -417,6 +425,20 @@ Cuando la incapacidad se genere por un accidente o enfermedad que tenga como con
 I.- Diez días al cien por ciento del salario que perciba el Servidor Público.
 
 II.- Diez días al sesenta por ciento del Salario del Servidor Público.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 46 Bis.
+
+El Presidente del Tribunal podrá autorizar se cubra el salario hasta por noventa días naturales al sesenta por ciento al servidor público que continúe incapacitado una vez transcurridos los días establecidos en los artículos 45 y 46 del Reglamento; previa exhibición de la documentación que acredite el diagnóstico del padecimiento.
+
+Si concluido dicho periodo el servidor público continúa incapacitado, se enviará al área médica del ISSSSPEA para que lo valore e informe su estado de salud; en caso de que el servidor público aún no esté en condiciones de presentarse a laborar, se podrá prorrogar el porcentaje de pago del sesenta por ciento, por otro periodo igual de noventa días naturales.
+
+En caso de que al concluir dicho periodo, el servidor público continúe incapacitado, se enviará nuevamente al área médica del ISSSSPEA para que analice si procede el dictamen de pensión por invalidez. En caso de no ser procedente y el Instituto Mexicano del Seguro Social continúe expidiendo incapacidades, se le continuará pagando el salario al sesenta por ciento, hasta el plazo máximo de un año desde la fecha de inicio de la incapacidad.
+
+Transcurrido el año, se enviará nuevamente al área médica del ISSSSPEA para ver si procede el dictamen de invalidez.
+
+Si el área médica del ISSSSPEA informa que el servidor público ya no está en condiciones de continuar prestando sus servicios y le dictamina pensión por invalidez, se le continuará pagando hasta la fecha de inicio de la misma, con el sesenta por ciento del salario.
 
 ###### ARTICULO 47.
 
@@ -1147,3 +1169,11 @@ OFICIAL MAYOR DEL SUPREMO TRIBUNAL DE JUSTICIA.
 Rodolfo Puentes López,
 
 SECRETARIO GENERAL DEL SINDICATO UNICO DE TRABAJADORES ESTATALES Y MUNICIPALES.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 27 DE DICIEMBRE DE 2010.
+
+###### ARTÍCULO ÚNICO.
+
+El presente acuerdo entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
