@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-de-la-secretaria-de-desarrollo-economico-389
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-04-09"
-last_updated: "2006-09-22"
+last_updated: "2010-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38970&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ state: "BCN"
 
 REGLAMENTO INTERNO DE LA SECRETARIA DE DESARROLLO ECONOMICO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE SEPTIEMBRE DE 2006.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO INTERNO (SIC) SECRETARIA DE DESARROLLO ECONOMICO, PUBLICADO EN LA SECCION I DEL P.O. DE FECHA 27 DE DICIEMBRE DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 9 de abril de 2004.
 
@@ -238,3 +240,19 @@ Las funciones y atribuciones de estas entidades se desarrollarán por separado e
 PRIMERO.- El presente reglamento entra en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Baja California, y deberá publicarse en un diario de mayor circulación en el Municipio.
 
 SEGUNDO.- Se abrogan las disposiciones reglamentarias y administrativas de carácter municipal que se opongan a las presentes disposiciones.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 27 DE DICIEMBRE DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entra en vigor al momento de su aprobación y deberá publicarse en el Periódico Oficial del Gobierno del Estado, de Baja California y en un diario de mayor circulación en el Municipio.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el REGLAMENTO INTERNO DE LA SECRETARIA DE DESARROLLO ECONOMICO, publicado en el Periódico Oficial del Estado No. 16, Sección II, Tomo CXI, de fecha de 09 de abril del 2004, a partir del momento de la entrada en vigor del presente Reglamento Interno de la Secretaría de Desarrollo Económico, y se derogan las disposiciones reglamentarias municipales que se opongan a las presente
+
+###### ARTÍCULO TERCERO.
+
+Las adecuaciones organizacionales, programáticas y presupuestales derivadas del Reglamento de la Administración Publica Municipal de Tijuana y del presente Reglamento Interno de la Secretaría de Desarrollo Económico, deberán realizarse a más tardar el día 31 de diciembre de 2010 y consignarse en el Presupuesto de Egresos para el ejercicio fiscal del año 2011. Hasta entonces se deberá de seguir atendiendo la administración municipal conforme al reglamento que se abroga hasta concluir el ejercicio fiscal de de año 2011.
