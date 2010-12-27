@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-58-organica-del-poder-ejecutivo-del-estado-de-116013
 country: "mx"
 rank: "ley"
 publication_date: "2000-05-19"
-last_updated: "2010-12-14"
+last_updated: "2010-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116013&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 14 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE DICIEMBRE DE 2010.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 19 de mayo de 2000.
 
@@ -1481,6 +1481,10 @@ XIV. Coordinar y ejecutar las políticas y acciones que corresponden al Gobierno
 
 XV. Establecer las normas para orientar los servicios de asistencia social en materia de salud, que presten los sectores público, social y privado y proveer su cumplimiento.
 
+> <small>(ADICIONADA, G.O. 27 DE DICIEMBRE DE 2010)</small>
+
+XVI. Instrumentar, coordinar y operar el Registro Estatal de Personas Morales Prestadoras de Servicios Médicos, Guarderías y Velatorios.
+
 > <small>(REFORMADA SU DENOMINACIÓN, G.O. 10 DE AGOSTO DE 2010)</small>
 
 De la Secretaría de Turismo, Cultura y Cinematografía
@@ -2326,3 +2330,13 @@ Cuarto. El reglamento de la Secretaría de Desarrollo Social y Medio Ambiente re
 Quinto. Los asuntos en trámite, a la entrada en vigor de este ordenamiento, serán resueltos por el área administrativa a la que se le atribuya la competencia correspondiente.
 
 Sexto. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+G.O. 27 DE DICIEMBRE DE 2010.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 10 QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO FINANCIERO PARA EL ESTADO, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO Y LA LEY DE SALUD DEL ESTADO”.]
+
+Primero. El presente Decreto entrará en vigor el día primero de enero de dos mil once, previa publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Todos aquellos casos que se encuentren en trámite a la entrada en vigor del presente Decreto, continuarán rigiéndose por las disposiciones entonces vigentes y se resolverán conforme a ellas.
+
+Tercero. Cualesquiera disposiciones jurídicas o tributarias que hagan referencia al Impuesto Sobre Nóminas, y que no hayan sido expresamente reformadas, modificadas, abrogadas o derogadas por virtud del presente decreto, se entenderán referidas al Impuesto Sobre Erogaciones por Remuneraciones al Trabajo Personal.
