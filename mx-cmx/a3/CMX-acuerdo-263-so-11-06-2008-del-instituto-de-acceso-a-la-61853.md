@@ -4,7 +4,7 @@ identifier: "CMX-acuerdo-263-so-11-06-2008-del-instituto-de-acceso-a-la-61853"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2008-07-09"
-last_updated: "2008-07-09"
+last_updated: "2010-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61853&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2008-07-09"
 ---
 # ACUERDO 263/SO/11-06/2008 DEL INSTITUTO DE ACCESO A LA INFORMACION PUBLICA DEL DISTRITO FEDERAL
 
-ACUERDO MEDIANTE EL CUAL SE APRUEBA EL PROCEDIMIENTO PARA LA RECEPCION, SUBSTANCIACION, RESOLUCION Y SEGUIMIENTO DE LOS RECURSOS DE REVISION INTERPUESTOS ANTE EL INSTITUTO DE ACCESO A LA INFORMACION PUBLICA DEL DISTRITO FEDERAL, Y SE ABROGA EL ACUERDO 094/SO/31-08/2006
+ACUERDO MEDIANTE EL CUAL SE APRUEBA EL PROCEDIMIENTO PARA LA RECEPCIÓN, SUBSTANCIACIÓN, RESOLUCIÓN Y SEGUIMIENTO DE LOS RECURSOS DE REVISIÓN INTERPUESTOS ANTE EL INSTITUTO DE ACCESO A LA INFORMACIÓN PÚBLICA DEL DISTRITO FEDERAL, Y SE ABROGA EL ACUERDO 094/SO/31-08/2006
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ACUERDO 1096/SO/01-12/2010 MEDIANTE EL CUAL SE APRUEBA EL PROCEDIMIENTO PARA LA RECEPCIÓN, SUSTANCIACIÓN, RESOLUCIÓN Y SEGUIMIENTO DE LOS RECURSOS DE REVISIÓN INTERPUESTOS ANTE EL INSTITUTO DE ACCESO A LA INFORMACIÓN PÚBLICA DEL DISTRITO FEDERAL, Y SE ABROGA EL ACUERDO 263/SO/11-06/2008, PUBLICADO EN LA G.O. DE 27 DE DICIEMBRE DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: ABROGADO.
 
 Acuerdo publicado en la Gaceta Oficial del Distrito Federal, el miércoles 9 de julio de 2008.
 
@@ -331,3 +333,13 @@ SEGUNDO. Se abroga el acuerdo 094/SO/31-08/2006, de fecha treinta y uno de agost
 TERCERO. El domicilio para interponer un recurso de revisión, cuando el Ente Público entregue respuesta en cumplimiento a una resolución del Pleno dictada en un recurso de revisión promovido por omisión de respuesta, y ésta no satisfaga al recurrente, será conforme a lo establecido en el numeral 49, incisos A y B, de este procedimiento, en tanto sea habilitado para ello el Sistema Electrónico INFOMEX.
 
 CUARTO. Los recursos de revisión interpuestos ante el INFODF cuya solicitud de información original fue realizada antes del veintiocho de mayo de dos mil ocho, serán atendidos conforme al Procedimiento aprobado por el Pleno del INFODF mediante el Acuerdo 094/SO/31-08/2006.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 27 DE DICIEMBRE DE 2010.
+
+PRIMERO. El presente procedimiento entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO. Se abroga el acuerdo 263/SO/11-06/2008, de fecha once de junio de dos mil ocho, aprobado por el Pleno del Instituto de Acceso a la Información Pública del Distrito Federal.
+
+TERCERO. Los recursos de revisión interpuestos ante el INFODF cuya solicitud de información fue realizada antes de que entre en vigor el presente Acuerdo, serán atendidos conforme al Procedimiento aprobado por el Pleno del INFODF mediante el Acuerdo 263/SO/11-06/2008.
