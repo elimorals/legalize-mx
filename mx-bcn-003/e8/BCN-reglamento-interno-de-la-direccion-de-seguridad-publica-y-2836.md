@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-de-la-direccion-de-seguridad-publica-y-2836"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-03-03"
-last_updated: "2005-06-03"
+last_updated: "2010-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2836&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,9 @@ state: "BCN"
 
 REGLAMENTO INTERNO DE LA DIRECCION DE SEGURIDAD PUBLICA Y TRANSITO DEL MUNICIPIO DE TECATE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JUNIO DE 2005.
+> <small>N. DE E. DE CONFORMIDAD CON EL PRIMER TRANSITORIO DEL REGLAMENTO INTERNO DE LA DIRECCION DE SEGURIDAD PUBLICA Y TRANSITO MUNICIPAL DE TECATE, BAJA CALIFORNIA, PUBLICADO EN LA SECCION II DEL P.O. DE FECHA 27 DE DICIEMBRE DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: DEROGADO
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 3 de marzo de 1995.
 
@@ -751,3 +753,11 @@ C. HECTOR ARMANDO CARREÑO CASTRO
 P.O. 3 DE JUNIO DE 2005.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL VIGENTE.
+
+P.O. 27 DE DICIEMBRE DE 2010.
+
+PRIMERO.- Se deroga el Reglamento Interno de la Dirección de Seguridad Publica y Transito del Municipio de Tecate Baja California, publicado en el Periódico Oficial no. 9 de fecha 3 de marzo de 1995.
+
+SEGUNDO.- El presente reglamento entrara en vigor al día siguiente en que sea publicado en el Periódico Oficial del Estado de Baja California.
+
+TERCERO.- El Comisario General, contará con el pleca de 90 días a partir de la entrada en vigor del presente Reglamento, para implementar las adecuaciones presupuestales y programáticas para cumplir con la estructura orgánica y de mando de la Dirección de Seguridad Pública y Transito Municipal de Tecate, Baja California.
