@@ -4,7 +4,7 @@ identifier: "VER-codigo-financiero-para-el-estado-de-veracruz-de-ignacio-de-2138
 country: "mx"
 rank: "codigo"
 publication_date: "2001-04-03"
-last_updated: "2010-10-18"
+last_updated: "2010-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21383&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CODIGO NUMERO 18 FINANCIERO PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
 > <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTICULO PRIMERO Y SEGUNDO DEL DECRETO NUMERO 918, PUBLICADO EN LA G.O. 15 DE AGOSTO DE 2007, SE MODIFICA EL NOMBRE DEL MUNICIPIO DE TEMAPACHE POR EL DE ÁLAMO TEMAPACHE. EN CONSECUENCIA, LAS DISPOSICIONES LEGALES QUE SE REFIERAN A ESTE MUNICIPIO UNICAMENTE COMO TEMAPACHE SE ENTENDERAN REFERIDOS AL MISMO CON SU NUEVO NOMBRE DE "ÁLAMO TEMAPACHE".</small>
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE OCTUBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE DICIEMBRE DE 2010.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz, el martes 3 de abril de 2001.
 
@@ -1209,41 +1209,69 @@ V. Altere documentación oficial o expida una falsa en cualquier tipo de trámit
 
 ## TÍTULO PRIMERO. DE LOS IMPUESTOS
 
-### CAPÍTULO PRIMERO. DEL IMPUESTO SOBRE NÓMINAS
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA SU DENOMINACION, G.O. 27 DE DICIEMBRE DE 2010)</small>
+
+### CAPÍTULO PRIMERO. DEL IMPUESTO SOBRE EROGACIONES POR REMUNERACIONES AL TRABAJO PERSONAL
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, G.O. 27 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 98.
 
-Son objeto de este impuesto las erogaciones en efectivo o en especie, por concepto de remuneraciones al trabajo personal subordinado, por los servicios prestados dentro del territorio del Estado, bajo la dirección o dependencia de un patrón o de un tercero que actúe en su nombre, aún cuando estos tengan su domicilio fuera de la entidad.
+Son objeto de ese impuesto:
 
-Para los efectos de este impuesto quedan comprendidas en el concepto de remuneraciones al trabajo personal subordinado, los sueldos y salarios, los cuales se integran con los pagos hechos en efectivo por cuota diaria, gratificaciones, percepciones, habitación, primas, comisiones y prestaciones en especie, con excepción de las señaladas en el artículo 103 de este Código.
+I. Las erogaciones en efectivo o en especie, por concepto de remuneraciones al trabajo personal subordinado, por los servicios prestados dentro del territorio del Estado, bajo la dirección o dependencia de un patrón o de un tercero que actúe en su nombre, aun cuando cualesquiera de los sujetos mencionados en esta fracción, o todos ellos tengan su domicilio fuera de la Entidad.
 
-> <small>(ADICIONADO, G.O. 4 DE JULIO DE 2002)</small>
+II. Las erogaciones en efectivo o en especie, por concepto de remuneraciones al trabajo personal, por los servicios prestados dentro del territorio del Estado, aun cuando los prestadores del servicio o los beneficiarios del mismo, o ambos, tengan su domicilio fuera de la Entidad.
 
-Las personas físicas o morales que contraten la prestación de servicios con personas domiciliadas fuera del territorio del Estado, cuando ello implique la contratación de trabajadores y el servicio personal se preste en los términos del primer párrafo de este artículo, estarán obligadas a retener y enterar el impuesto de conformidad con lo previsto en el presente Capítulo. En este caso, se deberá proporcionar constancia de retención por parte de la persona que realizó la contratación.
+Para los efectos de este impuesto quedan comprendidas en el concepto de remuneraciones al trabajo personal, ya sea subordinado o no, los sueldos y salarios, los cuales se integran con los pagos hechos en efectivo por cuota diaria; gratificaciones, percepciones, habitación, primas, comisiones, prestaciones en especie; los honorarios profesionales, emolumentos; contraprestaciones contractuales, cuando el contrato tenga como objeto la prestación de un servicio; los pagos a los administradores, comisarios o miembros de los consejos directivos, de vigilancia o de administración de sociedades o asociaciones como remuneración a dichos cargos; los pagos realizados a fiduciarios como remuneración a sus servicios; los pagos por concepto de servicios personales; y cualquier otra de la misma naturaleza que las anteriores, con independencia de la denominación que reciba. Lo anterior, sin perjuicio de las excepciones señaladas en el artículo 103 de este Código.
+
+En el caso de la fracción I de este artículo, las personas físicas o morales que contraten la prestación de servicios con personas domiciliadas dentro o fuera del territorio del Estado, cuando ello implique la contratación de trabajadores y el servicio personal se preste en los términos de dicha fracción, estarán obligadas a retener y enterar el impuesto de conformidad con lo previsto en el presente Capítulo. En este caso, se deberá proporcionar constancia de retención por parte de la persona que realizó la contratación.
+
+En el caso de la fracción II de este artículo, las personas morales que contraten la prestación de servicios con personas domiciliadas fuera del territorio del Estado, cuando el servicio personal se preste en los términos de la misma fracción, estarán obligadas a retener y enterar el impuesto de conformidad con lo previsto en el presente Capítulo. De igual manera, se deberá proporcionar constancia de retención por parte de la persona que realizó la contratación.
+
+Para efectos del presente artículo, se entenderá por personas morales a todas aquellas que tengan reconocido ese carácter por el derecho, en términos del artículo 32 del Código Civil para el Estado de Veracruz de Ignacio de la Llave, incluyendo en forma enunciativa, y no limitativa, a las entidades de la administración pública estatal y federal. Asimismo, se entenderá como personas morales obligadas en términos de este precepto a las asociaciones en participación y todas aquellas personas que con el carácter de fiduciarios contraten cualesquiera servicios personales, con cargo a un patrimonio fideicomitido.
 
 ###### Artículo 99.
 
 Son sujetos de este impuesto las personas físicas y morales que realicen las erogaciones a que se refiere el artículo anterior, así como los Gobiernos Federal, Estatal y Municipal, los organismos descentralizados, los desconcentrados, los autónomos y los fideicomisos de los tres órdenes de Gobierno.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, G.O. 27 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 100.
 
-La base del impuesto es el monto total de las erogaciones realizadas por concepto de remuneraciones al trabajo personal subordinado, en términos del artículo 98 de este Código.
+La base del impuesto es el monto total de las erogaciones realizadas por concepto de remuneraciones al trabajo personal en términos del artículo 98 de este Código.
 
 ###### Artículo 101.
 
 Este impuesto se causará, liquidará y pagará aplicando la tasa del 2% sobre la base que señala el artículo anterior.
 
-> <small>(REFORMADO, G.O. 6 DE ENERO DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 27 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 102.
 
-El impuesto se causará en el momento en que se efectúen las erogaciones por el trabajo personal subordinado.
+El impuesto se causará en el momento en que se efectúen las erogaciones por el trabajo personal.
+
+> <small>(REFORMADO, G.O. 6 DE ENERO DE 2003)</small>
 
 Los contribuyentes pagarán mediante declaración mensual, a través de la forma oficial autorizada para tal efecto, a más tardar el día diecisiete del mes siguiente al de la causación del impuesto, en la Oficina de Hacienda del Estado correspondiente al domicilio fiscal del contribuyente o en las instituciones bancarias autorizadas por la Secretaría.
 
+> <small>(REFORMADO, G.O. 6 DE ENERO DE 2003)</small>
+
 El pago que realicen los contribuyentes de este impuesto se entenderá como definitivo.
 
+> <small>(REFORMADO, G.O. 6 DE ENERO DE 2003)</small>
+
 La obligación de presentar la declaración mensual subsistirá aún cuando no hubiese cantidad a cubrir.
+
+> <small>(REFORMADO, G.O. 6 DE ENERO DE 2003)</small>
 
 Cuando con posterioridad a la presentación de la declaración mensual de pago, el contribuyente compruebe que cubrió en exceso el monto de este impuesto, podrá optar por:
 
@@ -1251,9 +1279,13 @@ a) Solicitar la devolución de la cantidad pagada indebidamente.
 
 b) Compensar las cantidades que tenga a su favor contra el importe que deba enterar en el mes siguiente.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 27 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 103.
 
-Se exceptúan del pago del impuesto sobre nóminas:
+Se exceptúan del pago del Impuesto Sobre Erogaciones por Remuneraciones al Trabajo Personal:
 
 I. Las erogaciones que se efectúen por concepto de:
 
@@ -1315,6 +1347,12 @@ f) Unidad agrícola industrial de la mujer campesina.
 
 g) Colonias agrícolas y ganaderas.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADA, G.O. 27 DE DICIEMBRE DE 2010)</small>
+
+III. Los pagos realizados a personas físicas por la prestación de su trabajo personal independiente, por el cual se deba pagar y en su caso retener el Impuesto al Valor Agregado.
+
 ###### Artículo 104.
 
 Los sujetos de este impuesto están obligados a:
@@ -1327,7 +1365,11 @@ Tratándose de empresas de nueva creación, las personas morales y las personas 
 
 II. Presentar ante la Oficina de Hacienda del Estado que corresponda a la jurisdicción de su domicilio fiscal, los avisos establecidos en el artículo 60 del presente Código; dentro del plazo de 15 días siguientes al en que ocurra cualquiera de estos supuestos.
 
-III. Presentar copia del dictamen ante la autoridad fiscal estatal para efectos del impuesto sobre nóminas, cuando conforme a lo establecido en el Código Fiscal de la Federación, los contribuyentes estén obligados o hayan optado por dictaminar sus estados financieros por Contador Público autorizado. La copia del dictamen deberá presentarse dentro de los ocho meses siguientes a la terminación del ejercicio que se dictamine conforme a lo dispuesto en el Código Fiscal de la Federación.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, G.O. 27 DE DICIEMBRE DE 2010)</small>
+
+III. Dictaminar la determinación y pago del Impuesto Sobre Erogaciones por Remuneraciones al Trabajo Personal por medio de contador público autorizado, en los términos y plazos del Código Fiscal de la Federación y de las demás disposiciones legales y tributarias aplicables, y de conformidad con las reglas de carácter general que al efecto expidan las autoridades fiscales.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 10 DE AGOSTO DE 2005)</small>
 
@@ -1339,13 +1381,17 @@ La recaudación total proveniente del impuesto a que se refiere este capítulo, 
 
 Al efecto, el Gobierno del Estado constituirá un fideicomiso al que se destinará el 100% de la recaudación obtenida por este impuesto. El Comité Técnico del Fideicomiso se integrará paritariamente con representantes de los sectores público y privado de la entidad. En el Comité el Poder Ejecutivo y el sector privado tendrán igual número de representantes y se ajustarán en lo conducente a lo dispuesto por la Ley Orgánica del Poder Ejecutivo del Estado. Además estará facultado para conocer y, en su caso, aprobar y controlar los proyectos de obras y acciones públicas, así como fijar el monto destinado al otorgamiento de créditos que se sometan a su aprobación, con el propósito de garantizar la correcta aplicación de los recursos al fin señalado en el párrafo anterior.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 24 DE JULIO DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-En casos excepcionales, el Ejecutivo del Estado, previa aprobación del Congreso, podrá afectar un porcentaje de la recaudación que se obtenga del Impuesto sobre Nóminas al pago de obligaciones contraídas de conformidad con el Título Quinto del Libro Quinto del presente Código, para financiar el gasto público en el rubro de obra pública, obligaciones que incluirán, en su caso, todos los gastos directos o indirectos relacionados con los financiamientos respectivos, durante la vigencia de los mismos y siempre y cuando los recursos derivados de dichos financiamientos, menos, en su caso, las cantidades necesarias para cubrir los gastos de estructuración y ejecución de los financiamientos, así como las reservas correspondientes, se aporten invariablemente al fideicomiso público a que se refiere este artículo y se destinen íntegramente a financiar el gasto público en el rubro de obra pública.
+> <small>(REFORMADO, G.O. 27 DE DICIEMBRE DE 2010)</small>
 
-(ADICIONADO, G.O. 24 DE JULIO DE 2003) (F. DE E., G.O. 1 DE AGOSTO DE 2003)
+En casos excepcionales, el Ejecutivo del Estado, previa aprobación del Congreso, podrá afectar un porcentaje de la recaudación que se obtenga del Impuesto Sobre Erogaciones por Remuneraciones al trabajo Personal al pago de Obligaciones contraídas de conformidad con el Título Quinto del Libro Quinto del presente Código, para financiar el gasto público en el rubro de obra pública, obligaciones que incluirán, en su caso, todos los gastos directos o indirectos relacionados con los financiamientos respectivos, durante la vigencia de los mismos y siempre y cuando los recursos derivados de dichos financiamientos, menos en su caso, las cantidades necesarias para cubrir los gastos de estructuración y ejecución de los financiamientos, así como las reservas correspondientes, se aporten invariablemente al fideicomiso público a que se refiere este artículo y se destinen íntegramente a financiar el gasto público en el rubro de obra pública.
 
-El Congreso podrá autorizar la afectación de un porcentaje de la recaudación del Impuesto sobre Nóminas al pago de obligaciones contraídas en términos de lo dispuesto por el párrafo anterior, cuando el plazo de su vigencia no rebase el período de ejercicio sexenal constitucional del Titular del Ejecutivo Estatal que haya solicitado la autorización para implementar este mecanismo.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, G.O. 27 DE DICIEMBRE DE 2010)</small>
+
+El Congreso podrá autorizar la afectación de un porcentaje de la recaudación del Impuesto Sobre Erogaciones por Remuneraciones al Trabajo Personal al pago de obligaciones contraídas en términos de lo dispuesto por el párrafo anterior, cuando el plazo de su vigencia no rebase el periodo de ejercicio constitucional del Titular del Ejecutivo Estatal que haya solicitado la autorización para implementar este mecanismo.
 
 > <small>(ADICIONADO [N. DE E. REUBICADO], G.O. 24 DE JULIO DE 2003)</small>
 
@@ -1797,9 +1843,13 @@ Queda eximido del pago de este impuesto, cuando por el mismo concepto se cause e
 
 ### CAPÍTULO QUINTO. DEL IMPUESTO ADICIONAL PARA EL FOMENTO DE LA EDUCACION
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 27 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 134.
 
-Es objeto de este impuesto, la realización de pagos por concepto de impuesto y derechos que establece este Código.
+Es objeto de este impuesto, la realización de pagos por concepto de impuestos y derechos establecidos en las disposiciones de carácter tributario.
 
 Son sujetos de este impuesto, quienes realicen los pagos a que se refiere el párrafo anterior.
 
@@ -1811,21 +1861,13 @@ Este impuesto se liquidará formando parte de los impuestos y derechos sobre los
 
 El ingreso que se perciba se aplicará íntegramente al fomento de la educación.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
 ###### Artículo 136.
 
-Este impuesto no se causará por las siguientes contribuciones estatales:
-
-I. Impuesto sobre Nóminas;
-
-II. Impuesto por la prestación de servicios de hospedaje;
-
-III. Impuesto sobre loterías, rifas, sorteos y concursos;
-
-IV. Por los derechos por servicios de tránsito y transporte por la expedición de licencias para conducir vehículos de motor, y
-
-V. Por los derechos por servicios de la Secretaría en materia de registro y control vehicular, relacionado con la dotación de placas, calcomanías y expedición de tarjetas de circulación de vehículos de motor; y por los derechos por el uso de puentes o carreteras federales concesionadas el (sic) Estado.
+(DEROGADO, G.O. 27 DE DICIEMBRE DE 2010)
 
 ## TÍTULO SEGUNDO. DE LOS DERECHOS
 
@@ -2693,13 +2735,19 @@ a) Para automóvil, camión y ómnibus: 10 salarios mínimos
 
 b) Para remolque y motocicleta: 5 salarios mínimos
 
-> <small>(REFORMADA, G.O. 6 DE ENERO DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-II. Derechos de Control Vehicular, el cual deberá pagarse en el mismo periodo establecido para el pago del Impuesto Federal sobre Tenencia o Uso de Vehículos, y de manera conjunta cuando se esté obligado al pago de dicho Impuesto. El recibo oficial de pago será el comprobante fiscal:
+> <small>(REFORMADA, G.O. 27 DE DICIEMBRE DE 2010)</small>
 
-a) Automóvil, camión y ómnibus: 5 salarios mínimos
+II. Derechos de Control Vehicular, el cual deberá pagarse en los meses de enero a marzo, sin perjuicio del pago de cualquier impuesto relativo a la posesión o uso de vehículos. El recibo oficial de pago será el comprobante fiscal:
 
-b) Remolque y motocicleta: 2.5 salarios mínimos
+a) Automóvil, camión y ómnibus 9 salarios
+
+mínimos
+
+b) Remolque y motocicleta 5 salarios
+
+mínimos
 
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 6 DE ENERO DE 2003)</small>
 
@@ -2743,9 +2791,15 @@ D. Por Registro y control de vehículos de servicio público:
 
 I. Alta en el Registro Estatal de Contribuyentes de un vehículo nuevo o usado con dotación de placas, calcomanía numeral y tarjeta de circulación expedida por la Dirección General de Tránsito y Transporte del Estado, para taxi, colectivo, escolar, exclusivo turismo, transporte de personal de empresas, urbano, suburbano y foráneo, rural mixto, carga general, carga materialista y carga especializada: 8 salarios mínimos.
 
-> <small>(REFORMADA, G.O. 6 DE ENERO DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-II. Derechos de Control Vehicular, el cual deberá pagarse en el mismo periodo establecido para el pago del Impuesto Federal sobre Tenencia o Uso de Vehículos, y de manera conjunta cuando se esté obligado al pago de dicho Impuesto. El recibo oficial de pago será el comprobante fiscal: 5 salarios mínimos
+> <small>(REFORMADA, G.O. 27 DE DICIEMBRE DE 2010)</small>
+
+II. Derechos de Control Vehicular, el cual deberá pagarse en los meses de Enero a Marzo, sin perjuicio del pago de cualquier impuesto relativo a la posesión o uso de vehículos. El recibo oficial de pago será el comprobante fiscal:
+
+9 salarios
+
+mínimos
 
 > <small>(REFORMADA, G.O. 4 DE JULIO DE 2002)</small>
 
@@ -3630,6 +3684,26 @@ III. Por información grabada en disco de 3.5 pulgadas o disco compacto, por cop
 0.30 salarios mínimos.
 
 El costo del envío de información corresponderá a las tarifas que apliquen las empresas de servicios de mensajería contratadas, así como a las determinadas por el Servicio Postal Mexicano, para el caso de envíos por correo certificado.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.O. 27 DE DICIEMBRE DE 2010)</small>
+
+Artículo 150 ter. Por los servicios prestados por la Secretaría de Salud, se causarán y pagarán los derechos siguientes:
+
+I. Por concepto de cuota anual por alta de cada trabajador adscrito a una unidad prestadora de servicios médicos, de guardería, o de velación, independientemente de las funciones que desempeñe:
+
+20 salarios
+
+mínimos
+
+II. Por concepto de baja o cualquier otro movimiento de personal, de cada trabajador adscrito a una unidad prestadora de servicios médicos, de guardería, o de velación, independientemente de las funciones que desempeñe:
+
+10 salarios
+
+mínimos
+
+Este derecho será acreditable al 100% contra el pago del Impuesto sobre Erogaciones por Remuneraciones al Trabajo Personal.
 
 ## TÍTULO TERCERO. DE LOS PRODUCTOS
 
@@ -8477,9 +8551,11 @@ Las afectaciones a estos ingresos deberán estar debidamente inscritas en el Reg
 
 El Estado por conducto del Gobernador, a través de la Secretaría y previa autorización del Congreso, podrá afectar los ingresos estatales derivados de impuestos, derechos, productos, aprovechamientos, sus respectivos accesorios, así como las participaciones federales y los demás ingresos derivados de la coordinación fiscal como fuente o garantía de pago, o ambas, sobre las obligaciones que contraigan por sí o a través de los fideicomisos bursátiles establecidos de conformidad con el artículo 175 del presente código, incluyendo los valores emitidos en términos de este Código.
 
-> <small>(ADICIONADO, G.O. 24 DE JULIO DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-Tratándose específicamente de los ingresos derivados de la recaudación del impuesto sobre nóminas, su afectación como fuente o garantía de pago, o ambas, sobre obligaciones contraídas en términos de este Código, sólo será procedente cuando los recursos netos derivados de los financiamientos se manejen y destinen en los términos que establece el artículo 105 de este Código.
+> <small>(REFORMADO, G.O. 27 DE DICIEMBRE DE 2010)</small>
+
+Tratándose específicamente de los ingresos derivados de la recaudación del Impuesto Sobre Erogaciones por Remuneraciones al Trabajo Personal, su afectación como fuente o garantía de pago, o ambas, sobre obligaciones contraídas en términos de este Código, sólo será procedente cuando los recursos netos derivados de los financiamientos se manejen y destinen en los términos que establece el artículo 105 de este Código.
 
 ###### ARTÍCULO 349.
 
@@ -8774,3 +8850,7 @@ Artículo primero. El presente Decreto entrará en vigor a partir de su publicac
 Artículo segundo. Se señala un término de cuatro meses para el cumplimiento de las disposiciones señaladas en los artículos 46 y 67 fracción IV de la Ley de Tránsito y Transporte para el estado.
 
 Artículo tercero. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 27 DE DICIEMBRE DE 2010.
+
+Primero. El presente Decreto entrará en vigor el día primero de enero de dos mil once, previa publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
