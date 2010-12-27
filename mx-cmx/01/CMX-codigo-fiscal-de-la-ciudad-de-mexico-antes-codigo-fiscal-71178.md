@@ -4,7 +4,7 @@ identifier: "CMX-codigo-fiscal-de-la-ciudad-de-mexico-antes-codigo-fiscal-71178"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-12-29"
-last_updated: "2010-12-24"
+last_updated: "2010-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71178&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2009-12-28"
 
 CODIGO FISCAL DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 24 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 27 DE DICIEMBRE DE 2010.
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el martes 29 de diciembre de 2009.
 
@@ -2790,73 +2790,41 @@ Para los consumos mayores a 120,000 litros se cobrarán por cada 1,000 litros ad
 
 Las autoridades fiscales determinarán el consumo de agua por medio de la lectura de los aparatos medidores, con base al promedio del consumo diario resultante de las dos lecturas más recientes con antigüedad no mayor de un año.
 
-II. En el caso de que no haya medidor instalado, el medidor esté descompuesto o exista la imposibilidad de efectuar la lectura del consumo, los derechos señalados se pagarán de acuerdo a lo siguiente:
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 27 DE DICIEMBRE DE 2010)</small>
 
-a). Tratándose de tomas de uso doméstico, se pagará el derecho considerando el consumo promedio que corresponda a la colonia catastral en que se encuentre el inmueble en que esté instalada la toma, siempre que en dicha colonia catastral el número de tomas con medidor sea mayor o igual al 70% del total de tomas existentes en esa colonia. Cuando el medidor esté descompuesto se pagará el derecho considerando el consumo histórico del usuario hasta por un año.
+II. En el caso de que no haya medidor instalado, el medidor esté descompuesto o exista la imposibilidad de efectuar la lectura del consumo, se aplicará la cuota fija de $2,500.00.
 
-En los casos en que no se cumplan ninguna de las condiciones anteriores, se aplicará la cuota fija de $2,500.00.
+> <small>(REFORMADO, G.O. 27 DE DICIEMBRE DE 2010)</small>
 
-Para tal efecto, se considerará el subsidio y la ubicación del inmueble donde se tenga instalada la toma, con base en el tipo de colonia catastral a que refiere este Código.
+(SIC) A esta tarifa se le otorgarán subsidios de acuerdo a la manzana donde se ubique la toma de agua de los usuarios del servicio, que podrá ser popular, bajo, medio y alto; para tal efecto la Asamblea emitirá la relación considerando las regiones y manzanas.
 
-Tipo de colonia nominal en que se Subsidio
+Dicha tarifa se pagará conforme a lo siguiente:
 
-ubique el inmueble y esté instalada
+Clasificación de la manzana en que se ubique Subsidio %
 
-una toma de agua.
+el inmueble y esté instalada una toma de agua
 
-0 97.4000%
+Popular 97.4000%
 
-1 96.4400%
+Bajo 96.4400%
 
-2, 3 y 8 95.2400%
+Medio 95.2400%
 
-4, 5 y 7 77.8800%
-
-6 55.6000%
-
-Los inmuebles ubicados en las colonias
-
-tipo 6 y 7 que tengan un valor catastral
-
-que corresponda al rango marcado con
-
-la literal "M" a la "P" de la tarifa establecida
-
-en la fracción I del artículo 130 de
-
-este Código. 1.2480%
+Alto 47.3768%
 
 Lo cual se traduce en lo siguiente:
 
-Tipo de colonia nominal en que se Cuota Fija Bimestral
+Clasificación de la manzana en que se Cuota Fija Bimestral expresada en pesos ubique el inmueble y esté instalada
 
-ubique el inmueble y esté instalada expresada en pesos
+una toma de agua
 
-una toma de agua.
+Popular $65.00
 
-0 $65.00
+Bajo $89.00
 
-1 $89.00
+Medio $119.00
 
-2, 3 y 8 $119.00
-
-4, 5 y 7 $553.00
-
-6 $1,110.00
-
-Los inmuebles ubicados en las colonias
-
-tipo 6 y 7 que tengan un valor catastral
-
-que corresponda al rango marcado
-
-con la literal "M" a la "P" de la tarifa
-
-establecida en la fracción I del artículo
-
-130 de este Código. $2,468.80
-
-El Sistema de Aguas publicará en la Gaceta Oficial del Distrito Federal, las listas de las colonias catastrales que vayan contando con un 70% o más de tomas con medidor instalado.
+Alto $363.10
 
 b). En el caso de tomas de agua consideradas para efectos de este Código como de uso no doméstico, se pagará una cuota fija bimestral, considerando el diámetro de la toma, conforme a la siguiente:
 
@@ -3750,7 +3718,7 @@ i). Anuncios denominativos pintados en bardas, vidrieras y escaparates, cortinas
 
 Por la revalidación anual de los anuncios a que se refiere esta fracción, se cobrará el mismo monto que se pagó por la expedición de la licencia, a excepción de los anuncios denominativos, en cuyo caso se cobrará un 20% del costo de la Licencia.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 > <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 2010)</small>
 
@@ -8938,16 +8906,18 @@ TERCERO.- En un plazo no mayor de treinta días hábiles contados a partir del d
 
 G.O. 24 DE DICIEMBRE DE 2010.
 
-DECRETO POR EL QUE SE REFORMA EL ARTICULO 172 DEL CODIGO FISCAL DEL DISTRITO FEDERAL.
-
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 Segundo. El Sistema de Aguas de la Ciudad de México elaborará y publicitará los lineamientos para que los usuarios puedan cumplimentar lo que se establece en el último párrafo del artículo 172, dentro de los 30 días hábiles siguientes a la publicación de este decreto.
 
 G.O. 24 DE DICIEMBRE DE 2010.
 
-DECRETO POR EL QUE SE REFORMA EL ARTICULO 193 DEL CODIGO FISCAL DEL DISTRITO FEDERAL.
-
 PRIMERO.- El presente decreto entrará en vigor el 1° de enero del 2011.
 
 SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+G.O. 27 DE DICIEMBRE DE 2010.
+
+PRIMERO. Túrnese al Jefe de Gobierno del Distrito Federal para su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO. El presente Decreto entrará en vigor el 1° de enero del 2011.
