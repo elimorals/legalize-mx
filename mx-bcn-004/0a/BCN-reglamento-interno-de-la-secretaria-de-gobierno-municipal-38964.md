@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-de-la-secretaria-de-gobierno-municipal-38964
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-04-09"
-last_updated: "2006-09-22"
+last_updated: "2010-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38964&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ state: "BCN"
 
 REGLAMENTO INTERNO DE LA SECRETARIA DE GOBIERNO MUNICIPAL DE TIJUANA, BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE SEPTIEMBRE DE 2006.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO INTERNO DE LA SECRETARIA DE GOBIERNO MUNICIPAL DE TIJUANA, BAJA CALIFORNIA, PUBLICADO EN LA SECCION I DEL P.O. DE FECHA 27 DE DICIEMBRE DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 9 de abril de 2004.
 
@@ -1332,3 +1334,17 @@ SEGUNDO.- Publíquese en el Periódico Oficial del Estado, en un Diario de circu
 TERCERO.- Realícense las adecuaciones presupuéstales para efecto del cumplimiento del presente acuerdo.
 
 CUARTO.- Los recursos materiales, humanos y financieros con los que cuenten las diversas dependencias, que por razones de la presente iniciativa tengan modificaciones en cuanto a su reestructuración, pasarán a formar parte de la Secretaría a la que pertenezcan.
+
+P.O. 27 DE DICIEMBRE DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entra en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Baja California y deberá publicarse en un diario de mayor circulación en la localidad para conocimiento de la ciudadanía.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el REGLAMENTO INTERNO DE LA SECRETARIA DE GOBIERNO MUNICIPAL, publicado en el Periódico Oficial del Estado No. 16 Sección II, Tomo CXI, de fecha de 09 de abril del 2004, a partir del momento de la entrada en vigor del presente Reglamento Interno de la Secretaria de Gobierno Municipal, y se derogan las disposiciones reglamentarias municipales que se opongan a las presentes disposiciones.
+
+###### ARTÍCULO TERCERO.
+
+Las adecuaciones organizacionales, programáticas y presupuéstales derivadas del Reglamento de la Administración Publica Municipal de Tijuana y del presente Reglamento Interno de la Secretaría de Gobierno Municipal, deberán realizarse a más tardar el día 31 de diciembre de 2010 y consignarse en el Presupuesto de Egresos para el ejercicio fiscal del año 2011. Hasta entonces se deberá de seguir atendiendo la administración municipal conforme al reglamento que se deroga hasta concluir el ejercicio fiscal de del (sic) año 2011.
