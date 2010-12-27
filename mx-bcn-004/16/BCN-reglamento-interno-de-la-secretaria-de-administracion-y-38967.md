@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-de-la-secretaria-de-administracion-y-38967"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-04-09"
-last_updated: "2007-05-25"
+last_updated: "2010-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38967&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ state: "BCN"
 
 REGLAMENTO INTERNO DE LA SECRETARIA DE ADMINISTRACION Y FINANZAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE MAYO DE 2007.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERNO DE LA SECRETARIA DE ADMINISTRACION Y FINANZAS, PUBLICADO EN EL P.O. DE 27 DE DICIEMBRE DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 09 de abril de 2004.
 
@@ -1000,3 +1002,11 @@ P.O. 25 DE MAYO DE 2007.
 PRIMERO. El presente Acuerdo entrará en vigor en el momento de su aprobación.
 
 SEGUNDO. Publíquese el presente en el Periódico Oficial del Estado, en un diario local de mayor circulación y/o en la Gaceta Municipal para conocimiento de los vecinos.
+
+P.O. 27 DE DICIEMBRE DE 2010.
+
+PRIMERO.- El presente Reglamento entra en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Baja California y deberá publicarse en un diario de mayor circulación en la localidad para conocimiento de la ciudadanía.
+
+SEGUNDO.- Se abroga el REGLAMENTO INTERNO DE LA SECRETARIA DE ADMINISTRACION Y FINANZAS, publicado en el Periódico Oficial del Estado No. 16 Sección II, Tomo CXI, de fecha de 09 de abril del 2004, a partir del momento de la entrada en vigor del presente Reglamento Interno de la Secretaria de Administración y Finanzas, y se derogan las disposiciones reglamentarias municipales que se opongan a las presentes disposiciones.
+
+TERCERO.- Las adecuaciones organizacionales, programáticas y presupuestales derivadas del Reglamento de la Administración Publica Municipal de Tijuana y del presente Reglamento Interno de la Secretaría de Administración y Finanzas, deberán realizarse a más tardar el día 31 de diciembre de 2010 y consignarse en el Presupuesto de Egresos para el ejercicio fiscal del año 2011. Hasta entonces se deberá de seguir atendiendo la administración municipal conforme al reglamento que se abroga hasta concluir el ejercicio fiscal de (sic) del año 2011.
