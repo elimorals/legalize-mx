@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-la-juventud-para-el-estado-de-nuevo-leon-62363"
 country: "mx"
 rank: "ley"
 publication_date: "2008-07-28"
-last_updated: "2010-03-30"
+last_updated: "2010-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62363&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE LA JUVENTUD PARA EL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE MARZO DE 2010
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 28 de julio de 2008.
 
@@ -55,13 +55,25 @@ I. Ejecutivo: Al Ejecutivo del Estado de Nuevo León;
 
 II. Jóvenes: A todas las personas hombres y mujeres comprendidas entre los 12 y 29 años de edad;
 
-II (SIC). Juventud: Al conjunto de las y los jóvenes;
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2010)</small>
 
-III. Instituto: Al Instituto Estatal de la Juventud del Estado de Nuevo León;
+III. Joven Trabajador de Primer Empleo: joven trabajador mujer u hombre que no tenga registro previo de aseguramiento en el régimen obligatorio ante el Instituto Mexicano del Seguro Social, por no haber prestado en forma permanente o eventual un servicio remunerado, personal y subordinado a un patrón;
 
-IV. Programa: Al Programa Estatal de la Juventud; y
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2010)</small>
 
-V. Institutos: A los Institutos Municipales y a los órganos encargados de la juventud en los municipios.
+IV. Juventud: al conjunto de las y los jóvenes;
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2010)</small>
+
+V. Instituto: al Instituto Estatal de la Juventud del Estado de Nuevo León;
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2010)</small>
+
+VI. Programa: al Programa Estatal de la Juventud, y
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2010)</small>
+
+VII. Institutos: a los Institutos Municipales u a los órganos encargados de la juventud en los municipios.
 
 ###### Artículo 3.
 
@@ -129,19 +141,29 @@ Las políticas y programas de fomento al empleo de los jóvenes deberán dirigir
 
 I. Abrir los espacios laborales que brinden a la población juvenil oportunidades para desempeñar sus capacidades, tomando en consideración las disposiciones laborales aplicables;
 
-II. Promover programas de financiamiento bajo supervisión, que permitan a los jóvenes acceder a créditos sociales para el desarrollo de sus proyectos;
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2010)</small>
 
-III. Generar oportunidades laborales que no afecten la educación, salud y dignidad de los jóvenes;
+II. Promover y estimular la contratación de jóvenes trabajadores de primer empleo;
 
-IV. Garantizar la no discriminación en el empleo a las jóvenes embarazadas o en período de lactancia; y
+III. Promover programas de financiamiento bajo supervisión, que permitan a los jóvenes acceder a créditos sociales para el desarrollo de sus proyectos;
 
-V. Promover convenios de colaboración con instituciones públicas y privadas para fomentar las pasantías remuneradas, vinculadas a la formación profesional de los jóvenes.
+IV. Generar oportunidades laborales que no afecten la educación, salud y dignidad de los jóvenes;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2010)</small>
+
+V. Garantizar la no discriminación en el empleo a las jóvenes embarazadas o en período de lactancia, y
+
+VI. Promover convenios de colaboración con instituciones públicas y privadas para fomentar las pasantías remuneradas, vinculadas a la formación profesional de los jóvenes.
 
 ###### Artículo 8.
 
 El Ejecutivo promoverá a través de las instancias correspondientes el empleo y programas que contribuyan a la capacitación laboral de los jóvenes, y el apoyo al desarrollo de proyectos productivos juveniles.
 
 Así como la creación de una bolsa de trabajo en la que se incluyan a los jóvenes no importando su escolaridad, e impulsará la generación de micro y pequeña empresa con apoyo de organismos públicos y privados.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2010)</small>
+
+Asimismo, establecer estímulos e incentivos para la contratación de jóvenes de primer empleo, conforme a esta Ley y demás disposiciones aplicables.
 
 ###### Artículo 9.
 
@@ -365,17 +387,25 @@ II. Un sistema de empleo, bolsa de trabajo, capacitación laboral, recursos econ
 
 III. Acciones que tomen en cuenta que el trabajo para los jóvenes menores de edad será motivo de las normas de protección al empleo y de una supervisión exhaustiva;
 
-IV. Lineamientos que incentiven la creación, promoción y protección del empleo de los jóvenes del Estado en la modalidad de Primer Empleo;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2010)</small>
+
+IV. Lineamientos que promuevan la creación, conservación y protección de empleo para los jóvenes del Estado. Así como las acciones que fomenten el otorgamiento de estímulos e incentivos por la contratación de jóvenes trabajadores de primer empleo;
 
 V. Acciones encaminadas, a la creación de una incubadora de empresas;
 
-VI. El desarrollo del Primer Empleo los jóvenes del Estado por medio del cumplimiento de los siguientes objetivos:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2010)</small>
+
+VI. Lineas de acción para promover la inclusión en la vida laboral y productiva de los jóvenes trabajadores de primer empleo, bajo los siguientes objetivos:
 
 a) Fomentar que los jóvenes puedan adquirir conocimientos prácticos sin suspender sus estudios;
 
-b) Consolidar su incorporación a la actividad económica mediante una ocupación específica y formal, promoviendo su contratación en el sector público o privado; y
+b) Consolidar su incorporación a la actividad económica mediante una ocupación específica y formal, promoviendo su contratación en el sector público o privado; y (sic)
 
-c) Establecer mecanismos para garantizar los derechos de los jóvenes en el área laboral, sin menospreciar su condición social o económica.
+c) Establecer mecanismos para garantizar los derechos de los jóvenes en el área laboral, sin menospreciar su condición social o económica;
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2010)</small>
+
+d) Fomentar la contratación de jóvenes a fin de que adquieran conocimientos prácticos y experiencia profesional;
 
 VII. Sistema de becas e intercambios académicos nacionales y extranjeros que promuevan, apoyen y fortalezcan el desarrollo educativo de los jóvenes;
 
@@ -428,3 +458,9 @@ JOSÉ NATIVIDAD GONZÁLEZ PARÁS
 P.O. 30 DE MARZO DE 2010.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE DICIEMBRE DE 2010.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- El Ejecutivo del Estado deberá realizar las modificaciones que correspondan al Reglamento de la Ley de Fomento a la Inversión y al Empleo en el Estado de Nuevo León, en un plazo de noventa días naturales contados desde el día de la entrada en vigor del presente Decreto.
