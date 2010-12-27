@@ -4,7 +4,7 @@ identifier: "CMX-ley-ambiental-de-proteccion-a-la-tierra-en-la-ciudad-de-15464"
 country: "mx"
 rank: "ley"
 publication_date: "2000-01-13"
-last_updated: "2010-11-29"
+last_updated: "2010-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15464&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1999-12-31"
 
 LEY AMBIENTAL DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 29 DE NOVIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 27 DE DICIEMBRE DE 2010.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 13 de enero de 2000.
 
@@ -168,7 +168,15 @@ ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL: conjunto de órganos, centrales, 
 
 AGUAS RESIDUALES: Son las provenientes de actividades domésticas, industriales, comerciales, agrícolas, pecuarias o de cualquier otra actividad que, por el uso de que han sido objeto, contienen materia orgánica y otras sustancias químicas que alteran su calidad original;
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 27 DE DICIEMBRE DE 2010)</small>
+
+ALUMBRADO PÚBLICO: Servicio público consistente en la iluminación de las vías públicas, parques públicos, y demás espacios de libre circulación que no se encuentren a cargo de ninguna persona física o moral, con el objeto de proporcionar la visibilidad adecuada para el normal desarrollo de las actividades y seguridad de los habitantes de la Ciudad;
+
 AMBIENTE: El conjunto de elementos naturales y artificiales o inducidos por el hombre que hacen posible la existencia y desarrollo de los seres humanos y demás organismos vivos que interactúan en un espacio y tiempo determinados. Deberá entenderse también como medio ambiente;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 27 DE DICIEMBRE DE 2010)</small>
+
+APROVECHAMIENTO SUSTENTABLE DE LA ENERGÍA: El uso y aprovechamiento óptimo de la energía.
 
 > <small>(ADICIONADO, G.O. 21 DE JUNIO DE 2006)</small>
 
@@ -227,6 +235,10 @@ EDUCACIÓN AMBIENTAL: El proceso permanente de carácter interdisciplinario, ori
 > <small>(REFORMADO, G.O. 9 DE FEBRERO DE 2007)</small>
 
 EMISIONES CONTAMINANTES: La generación o descarga de materia o energía, en cualquier cantidad, estado físico o forma, que al incorporarse, acumularse o actuar en los seres vivos, en la atmósfera, agua, suelo, subsuelo o cualquier elemento natural, afecte negativamente su salud, composición o condición natural;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 27 DE DICIEMBRE DE 2010)</small>
+
+ENERGÍA SOLAR: Radiación electromagnética emitida por el sol;
 
 ESTUDIO DE RIESGO: Documento mediante el cual se dan a conocer, con base en el análisis de las acciones proyectadas para el desarrollo de una obra o actividad, los riesgos que éstas representan para los ecosistemas, la salud o el ambiente, así como las medidas técnicas preventivas, correctivas y de seguridad, tendientes a mitigar, reducir o evitar los efectos adversos que se causen al ambiente, en caso de un posible accidente durante la realización u operación normal de la obra o actividad de que se trate;
 
@@ -526,7 +538,11 @@ La información registrada será pública y tendrá efectos declarativos. La Sec
 
 XXXIX Establecer y operar de manera directa, o indirectamente a través de autorización, el sistema de monitoreo de la contaminación ambiental, así como los sistemas de verificación de fuentes de competencia local, y determinar las tarifas máximas aplicables por concepto de dichas verificaciones;
 
-XL. Promover el uso de fuentes de energías alternas, de igual forma que sistemas y equipos para prevenir o minimizar las emisiones contaminantes en los vehículos en los que se preste el servicio público local de transporte de pasajeros o carga en el Distrito Federal, así como fomentar su uso en los demás automotores;
+> <small>(REFORMADA, G.O. 27 DE DICIEMBRE DE 2010)</small>
+
+XL. Promover el uso de fuentes de energías alternas, de igual forma que sistemas y equipos para prevenir o minimizar las emisiones contaminantes en los vehículos en los que se preste el servicio público local de transporte de pasajeros o carga en el Distrito Federal, así como fomentar su uso en los demás automotores.
+
+En concordancia con lo establecido en el artículo 10 fracción VI de la presente Ley, referente al servicio de alumbrado público, supervisar el cumplimiento de la citada disposición, así como, realizar las pruebas suficientes a los sistemas de ahorro de energía de tecnologías existentes, nuevas ó tecnologías que permitan el aprovechamiento de energía solar, para verificar que generen un aprovechamiento sustentable de la energía;
 
 XLI. Restringir y sujetar a horarios nocturnos, el tránsito y las maniobras en la vía pública de los vehículos de carga, en coordinación con las autoridades correspondientes;
 
@@ -586,9 +602,11 @@ IV. Implementar acciones de conservación y restauración del equilibrio ecológ
 
 V. Difundir los programas y estrategias relacionadas con el equilibrio ecológico, la protección al ambiente y la contingencia o emergencia ambiental;
 
-> <small>(REFORMADA, G.O. 10 DE FEBRERO DE 2004)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 27 DE DICIEMBRE DE 2010)</small>
 
-VI. Ordenar la realización de visitas de inspección para vigilar el cumplimiento de los preceptos de esta Ley, su Reglamento, normas aplicables en materia ambiental, ordenamiento ecológico del territorio, así como todas las disposiciones legales aplicables al Suelo de Conservación existente dentro de su demarcación territorial, en términos de los lineamientos y acreditaciones que emita la Secretaría; y
+VI. Establecer de forma gradual en el total de mobiliario destinado al servicio de alumbrado público de su demarcación, sistemas de ahorro de energía con tecnologías existentes ó nuevas que permitan el aprovechamiento de energía solar.
+
+Para tal efecto, las delegaciones deberán destinar, en la medida de sus posibilidades, una parte de su presupuesto para dar exacto cumplimiento a lo anterior. La Secretaría en el ámbito de sus atribuciones, supervisará y verificará que las demarcaciones cumplan dicha disposición;
 
 > <small>(ADICIONADA, G.O. 10 DE FEBRERO DE 2004)</small>
 
@@ -3693,3 +3711,17 @@ G.O. 29 DE NOVIEMBRE DE 2010.
 PRIMERO.- El presente decreto entrará en vigor en enero del 2012, después de su publicación en la Gaceta Oficial para el Distrito Federal.
 
 SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+G.O. 27 DE DICIEMBRE DE 2010.
+
+PRIMERO. El presente decreto entrará en vigor a partir del día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+TERCERO.- Para el cumplimiento de lo dispuesto en la fracción VI del artículo 10 de la Ley Ambiental del Distrito Federal, esta Asamblea Legislativa sujeto a disponibilidad presupuestal, deberá incluir en el Presupuesto de Egresos del Distrito Federal del Ejercicio Fiscal inmediato a la aprobación de la presente reforma, una partida especial para que las delegaciones políticas cumplan con las disposiciones relativas al establecimiento de sistemas de ahorro de energía ó tecnologías que permitan el aprovechamiento de la energía solar, en mobiliario destinado al servicio de alumbrado público.
+
+Cada año, sujeto a disponibilidad presupuestal se deberá asignar una partida especial en el Presupuesto de Egresos del Distrito Federal, para el establecimiento de sistemas de ahorro de energía ó tecnologías que aprovechen la energía solar, a que se refiere la fracción VI del artículo 10 de la presente reforma en la Ley Ambiental del Distrito Federal.
+
+Durante el primer año, cuando haya presupuesto asignado, las demarcaciones procurarán cambiar el 15 por ciento del mobiliario por sistemas de ahorro de energía ó tecnologías que permitan el aprovechamiento de la energía solar; asimismo, tendrán que cambiar anualmente el 10 por ciento de su mobiliario hasta llegar sucesivamente a la totalidad en la demarcación.
+
+Las Delegaciones presentaran con 6 meses de anticipación en coordinación con la Secretaría de Medio Ambiente estos programas a su aprobación.
