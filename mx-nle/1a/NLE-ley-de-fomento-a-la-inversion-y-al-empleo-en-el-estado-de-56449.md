@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-fomento-a-la-inversion-y-al-empleo-en-el-estado-de-56449
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-20"
-last_updated: "2010-06-26"
+last_updated: "2010-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56449&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE FOMENTO A LA INVERSION Y AL EMPLEO EN EL ESTADO DE NUEVO LEON
 
-ULTMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE JUNIO DE 2010.
+ULTMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 30 de julio de 2007.
 
@@ -55,43 +55,81 @@ En lo que no se oponga a la presente Ley se aplicará supletoriamente la Ley Org
 
 Para los efectos de esta Ley, se entenderá por:
 
-AGRUPAMIENTO EMPRESARIAL: es una concentración de empresas relacionadas entre sí, pertenecientes a un mismo sector, en una zona geográfica relativamente definida, de modo de conformar en sí misma un polo productivo especializado con ventajas competitivas.
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2010)</small>
 
-CADENAS PRODUCTIVAS: los sistemas productivos que integran conjuntos de organismos y empresas, que proporcionan un alto valor agregado a los procesos de generación de productos o servicios.
+l. AGRUPAMIENTO EMPRESARIAL: es una concentración de empresas relacionadas entre sí, pertenecientes a un mismo sector, en una zona geográfica relativamente definida, de modo de conformar en sí misma un polo productivo especializado con ventajas competitivas.
 
-COMITÉ: el Comité de Incentivos a la Inversión.
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2010)</small>
 
-CONSEJO: el Consejo Estatal de Promoción a la Inversión.
+II. CADENAS PRODUCTIVAS: los sistemas productivos que integran conjuntos de organismos y empresas, que proporcionan un alto valor agregado a los procesos de generación de productos o servicios.
 
-CONSEJO CIUDADANO ASESOR: aquel que nombra el Presidente del Consejo, y que está integrado por empresarios de un mismo sector, instituciones educativas y gubernamentales, cuya función es coadyuvar en la formulación de políticas públicas para el fortalecimiento del Agrupamiento Empresarial que representan en términos de esta Ley.
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2010)</small>
 
-CONSEJO REGIONAL: Consejo Regional de Fomento a la Inversión, nombrados por el Consejo Estatal en los términos de esta Ley.
+III. COMITÉ: el Comité de Incentivos a la Inversión.
 
-EMPRESA: la persona física o moral legalmente constituida, cuyo objeto sea el de llevar a cabo actividades económicas para la producción o el intercambio de bienes o servicios para el mercado.
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2010)</small>
 
-EMPRESA INTEGRADORA: es una forma de organización empresarial que asocia a personas físicas o morales de escala micro, pequeña y mediana (PYMES) formalmente constituidas. Su objeto es prestar servicios especializados a sus socios, tales como: gestionar el financiamiento; comprar de manera conjunta materias primas e insumos y, vender de manera consolidada la producción.
+IV. CONSEJO: el Consejo Estatal de Promoción a la Inversión.
 
-FONDO: el Fondo Económico de Incentivos a la Inversión.
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2010)</small>
 
-GABINETE ECONÓMICO: aquel compuesto por los titulares de las Secretarías y demás dependencias estatales involucradas en las distintas áreas relativas al desarrollo económico del Estado, según lo determine el titular del Ejecutivo de acuerdo a la Ley Orgánica de la Administración Pública del Estado.
+V. CONSEJO CIUDADANO ASESOR: aquel que nombra el Presidente del Consejo, y que está integrado por empresarios de un mismo sector, instituciones educativas y gubernamentales, cuya función es coadyuvar en la formulación de políticas públicas para el fortalecimiento del Agrupamiento Empresarial que representan en términos de esta Ley.
 
-INCENTIVO: es el estímulo directo o indirecto que otorga el Poder Ejecutivo del Estado de Nuevo León a un inversionista, con el fin de facilitar la realización de una inversión directa.
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2010)</small>
 
-INVERSIÓN DIRECTA: aportación de capital para la creación de una nueva empresa o para incrementar la capacidad de producción u operación de una que ya existe.
+VI. CONSEJO REGIONAL: Consejo Regional de Fomento a la Inversión, nombrados por el Consejo Estatal en los términos de esta Ley.
 
-INVERSIONISTA: la persona física o moral que realiza una inversión directa.
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2010)</small>
 
-MICRO, PEQUEÑA Y MEDIANA EMPRESA: aquellas empresas de los sectores industrial, comercial y de servicios con características definidas en los términos de las leyes y reglamentos federales vigentes.
+VII. EMPRESA: la persona física o moral legalmente constituida, cuyo objeto sea el de llevar a cabo actividades económicas para la producción o el intercambio de bienes o servicios para el mercado.
 
-PLAN ESTATAL DE DESARROLLO: el instrumento rector para la planeación en la esfera de la administración pública estatal en los términos de la Ley Estatal de Planeación.
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2010)</small>
 
-SECRETARÍA: la Secretaría de Desarrollo Económico del Gobierno del Estado de Nuevo León.
+VIII. EMPRESA INTEGRADORA: es una forma de organización empresarial que asocia a personas físicas o morales de escala micro, pequeña y mediana (PYMES) formalmente constituidas. Su objeto es prestar servicios especializados a sus socios, tales como: gestionar el financiamiento; comprar de manera conjunta materias primas e insumos y, vender de manera consolidada la producción.
 
-> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2010)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2010)</small>
 
-SECTORES ESTRATÉGICOS: Clasificación de empresas Que por su especialidad tecnológica representan una Importancia en el desarrollo económico del Estado; siendo aquellos que se establecen como tales en el Plan Estatal de Desarrollo y los Que así determine el Consejo Estatal de Promoción a la Inversión, y sean publicados en el Periódico Oficial del Estado.
+IX. FONDO: el Fondo Económico de Incentivos a la Inversión.
 
-SMG: el Salario mínimo general diario vigente en el área geográfica “B”.
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2010)</small>
+
+X. GABINETE ECONÓMICO: aquel compuesto por los titulares de las Secretarías y demás dependencias estatales involucradas en las distintas áreas relativas al desarrollo económico del Estado, según lo determine el titular del Ejecutivo de acuerdo a la Ley Orgánica de la Administración Pública del Estado.
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2010)</small>
+
+Xl. INCENTIVO: es el estimulo directo o indirecto que otorga el Poder Ejecutivo del Estado de Nuevo León a un inversionista, con el fin de facilitar la realización de una inversión directa.
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2010)</small>
+
+XII. INVERSIÓN DIRECTA: aportación de capital para la creación de una nueva empresa o para incrementar la capacidad de producción u operación de una que ya existe.
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2010)</small>
+
+XIII. INVERSIONISTA: la persona física o moral que realiza una inversión directa.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE DICIEMBRE DE 2010)</small>
+
+XIV. JOVEN TRABAJADOR DE PRIMER EMPLEO: joven trabajador mujer u hombre que no tenga registro previo de aseguramiento en el régimen obligatorio ante el Instituto Mexicano del Seguro Social, por no haber prestado en forma permanente o eventual un servicio remunerado, personal y subordinado a un patrón.
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2010)</small>
+
+XV. MICRO, PEQUEÑA y MEDIANA EMPRESA: aquellas empresas de los sectores industrial, comercial y de servicios con características definidas en los términos de las leyes y reglamentos federales vigentes.
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2010)</small>
+
+XVI. PLAN ESTATAL DE DESARROLLO: el instrumento rector para la planeación en la esfera de la administración pública estatal en los términos de la Ley Estatal de Planeación.
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2010)</small>
+
+XVII. SECRETARIA: la Secretaria de Desarrollo Económico del Gobierno del Estado de Nuevo León.
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2010)</small>
+
+XVIII. SECTORES ESTRATÉGICOS: clasificación de. empresas que por su especialidad tecnológica representan una importancia en el desarrollo económico del Estado; siendo aquellos que se establecen como tales en el Plan Estatal de Desarrollo y los que así determine el Consejo Estatal de Promoción a la Inversión, y sean publicados en el Periódico Oficial del Estado.
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2010)</small>
+
+XIX. SMG: el Salario mínimo general diario vigente en el área geográfica “B”.
 
 ###### ARTÍCULO 4.
 
@@ -369,33 +407,37 @@ I. El número de empleos directos a generar;
 
 II. La remuneración promedio de los nuevos empleos;
 
-III. La correspondencia con los sectores y proyectos estratégicos de inversión para el desarrollo económico del Estado;
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2010)</small>
 
-IV. El monto de la inversión directa;
+III. Número de empleos de nueva creación y remuneración promedio para jóvenes trabajadores de primer empleo;
 
-V. Ubicación del proyecto de inversión;
+IV. La correspondencia con los sectores y proyectos estratégicos de inversión para el desarrollo económico del Estado;
 
-VI. La contribución de la inversión a la innovación, al desarrollo tecnológico y científico;
+V. El monto de la inversión directa;
 
-VII. El compromiso de permanencia en la entidad por el inversionista;
+VI. Ubicación del proyecto de inversión;
 
-VIII. El tiempo máximo para la creación de los nuevos empleos;
+VII. La contribución de la inversión a la innovación, al desarrollo tecnológico y científico;
 
-IX. El tiempo máximo para la aplicación de la inversión;
+VIII. El compromiso de permanencia en la entidad por el inversionista;
 
-X. El fortalecimiento de la proveeduría de empresas locales;
+IX. El tiempo máximo para la creación de los nuevos empleos;
 
-XI. El volumen de exportación esperado;
+X. El tiempo máximo para la aplicación de la inversión;
 
-XII. Los programas de capacitación y desarrollo de capital humano que se lleven a cabo;
+XI. El fortalecimiento de la proveeduría de empresas locales;
 
-XIII. El consumo y tratamiento del agua;
+XII. El volumen de exportación esperado;
 
-XIV. El uso de tecnologías más limpias que permitan la protección y el mejoramiento del medio ambiente;
+XIII. los programas de capacitación y desarrollo de capital humano que se lleven a cabo;
 
-XV. La descentralización geográfica de la inversión en el Estado; y
+XIV. El consumo y tratamiento del agua;
 
-XVI. Los demás que en los términos de esta Ley y su reglamento consideren relevantes según el caso de que se trate sin omitir la referencia y consideración de las anteriores.
+XV. El uso de tecnologías más limpias que permitan la protección y el mejoramiento del medio ambiente;
+
+XVI. La descentralización geográfica de la inversión en el Estado, y
+
+XVII. Los demás que en los términos de esta ley y su reglamento consideren relevantes según el caso de que se trate sin omitir la referencia y consideración de las anteriores.
 
 ###### ARTÍCULO 27.
 
@@ -676,3 +718,9 @@ Segundo. El Ejecutivo del Estado deberá realizar las modificaciones que corresp
 P.O. 26 DE JUNIO DE 2010.
 
 Único: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE DICIEMBRE DE 2010
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- El Ejecutivo del Estado deberá realizar las modificaciones que correspondan al Reglamento de la Ley de Fomento a la Inversión y el Empleo en el Estado de Nuevo León, en un plazo de noventa días naturales contados desde el día de la entrada en vigor del presente Decreto.
