@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-de-la-presidencia-municipal-de-tijuana-38961
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-04-09"
-last_updated: "2010-10-29"
+last_updated: "2010-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ state: "BCN"
 
 REGLAMENTO INTERNO DE LA PRESIDENCIA MUNICIPAL DE TIJUANA BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE OCTUBRE DE 2010.
+> <small>N. DE E. DE CONFORMIDAD DEL TRANSITORIO SEGUNDO DEL ACUERDO QUE MODIFICA AL REGLAMENTO INTERNO DE LA PRESIDENCIA MUNICIPAL DE TIJUANA BAJA CALIFORNIA, PUBLICADO EN EL P.O. DE FECHA 27 DE DICIEMBRE DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 09 de abril del 2004.
 
@@ -476,3 +478,11 @@ SE TRANSCRIBE EL PUNTO DEL ACUERDO QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO
 .
 
 TERCERO.- Las presentes reformas entran en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California, órgano de difusión del Gobierno del Estado.
+
+P.O. 27 DE DICIEMBRE DE 2010
+
+PRIMERO.- El presente Reglamento entra en vigor al momento de su aprobación y deberá publicarse en el Periódico Oficial del Gobierno del Estado, de Baja California y en un diario de mayor circulación en el Municipio.
+
+SEGUNDO.- Se abroga el REGLAMENTO INTERNO PRESIDENCIA (sic), publicado en el Periódico Oficial del Estado No. 16, Sección II, Tomo CXI, de fecha de 09 de abril del 2004, a partir del momento de la entrada en vigor del presente Reglamento Interno de Presidencia, y se derogan las disposiciones reglamentarias municipales que se opongan a las presentes disposiciones.
+
+TERCERO.- Las adecuaciones organizacionales, programáticas y presupuéstales derivadas del Reglamento de la Administración Publica Municipal de Tijuana y del presente Reglamento de interno Presidencia (sic), deberán realizarse a más tardar el día 31 de diciembre de 2010 y consignarse en el Presupuesto de Egresos para el ejercicio fiscal del año 2011. Hasta entonces se deberá de seguir atendiendo la administración municipal conforme al reglamento que se deroga hasta concluir el ejercicio fiscal de del año 2011.
