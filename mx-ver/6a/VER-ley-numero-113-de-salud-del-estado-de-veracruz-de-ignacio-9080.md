@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-113-de-salud-del-estado-de-veracruz-de-ignacio-9080"
 country: "mx"
 rank: "ley"
 publication_date: "1988-05-17"
-last_updated: "2008-04-30"
+last_updated: "2010-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9080&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE SALUD DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE ABRIL DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE DICIEMBRE DE 2010.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el martes 17 de mayo de 1988.
 
@@ -264,6 +264,10 @@ XVI.- Las demás atribuciones, afines a las anteriores, que se requieran para el
 La Secretaría de Salud y Asistencia del Estado, promoverá la participación, en el Sistema Estatal de Salud, de los prestadores de servicios de salud de los sectores público, social y privado, así como de sus trabajadores y de los usuarios de los mismos, en los términos de las disposiciones que al efecto se expidan.
 
 Asimismo, fomentarán la coordinación con los proveedores de insumos para la salud, a fin de racionalizar y procurar la disponibilidad de estas últimas.
+
+> <small>(ADICIONADO, G.O. 27 DE DICIEMBRE DE 2010)</small>
+
+De igual forma, la Secretaría instrumentará, coordinará y operará en el ámbito de sus atribuciones un registro obligatorio de las personas morales que presten servicios médicos, de guardería o de velación, en el Estado, en el cual deberán inscribir a todo el personal que labore en cada unidad prestadora del servicio, independientemente de las funciones que desempeñe.
 
 ###### ARTICULO 9°.
 
@@ -2822,3 +2826,11 @@ G.O. 30 DE ABRIL DE 2008.
 Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
 
 Artículo segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 27 DE DICIEMBRE DE 2010.
+
+Primero. El presente Decreto entrará en vigor el día primero de enero de dos mil once, previa publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Todos aquellos casos que se encuentren en trámite a la entrada en vigor del presente Decreto, continuarán rigiéndose por las disposiciones entonces vigentes y se resolverán conforme a ellas.
+
+Tercero. Cualesquiera disposiciones jurídicas o tributarias que hagan referencia al Impuesto Sobre Nóminas, y que no hayan sido expresamente reformadas, modificadas, abrogadas o derogadas por virtud del presente decreto, se entenderán referidas al Impuesto Sobre Erogaciones por Remuneraciones al Trabajo Personal.
