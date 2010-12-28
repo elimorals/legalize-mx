@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transporte-publico-del-estado-de-san-luis-potosi-68766"
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-23"
-last_updated: "2010-07-20"
+last_updated: "2010-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68766&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE TRANSPORTE PUBLICO DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JULIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2010.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de abril de 2009.
 
@@ -243,7 +243,7 @@ La Secretaría coordinará y llevará a cabo, en los términos de esta Ley, prog
 
 ## TITULO SEGUNDO. DE LAS AUTORIDADES Y SUS ATRIBUCIONES
 
-### Capitulo I. De las Autoridades
+### Capítulo I. De las Autoridades
 
 ###### ARTICULO 14.
 
@@ -467,9 +467,9 @@ II. Contar con la factibilidad o licencia de uso de suelo, en su caso, expedido 
 
 III. Acreditar la propiedad de un vehículo con las características a que se refiere el dictamen técnico.
 
-> <small>(REFORMADO, P.O. 20 DE JULIO DE 2010)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2010)</small>
 
-En todos los casos, las concesiones se otorgarán preferentemente a los solicitantes que acrediten la vecindad en la cabecera, delegación o comunidad del municipio de origen, en todas las modalidades, y que garanticen la prestación del servicio en las mejores condiciones, atendiendo para ello a los criterios que se contengan en el Reglamento de esta Ley.
+Las concesiones se otorgarán preferentemente, a los solicitantes que acrediten la vecindad en la cabecera, delegación o comunidad del municipio de origen, en las modalidades donde concursen personas físicas señaladas en el artículo 38 en sus párrafos tercero y cuarto de esta Ley, y que garanticen la prestación del servicio en las mejores condiciones, atendiendo para ello a los criterios que se contengan en el Reglamento de esta Ley.
 
 ###### ARTICULO 32.
 
@@ -975,7 +975,7 @@ b) Que la distribución de formas diferentes de prepago sea la que marque la Sec
 
 Lo establecido en este artículo será obligatorio, sin perjuicio de la aplicación de otras disposiciones establecidas por la presente Ley y sus reglamentos.
 
-### Capitulo II. De los Estándares de Calidad para el Servicio de Automóvil de Alquiler
+### Capítulo II. De los Estándares de Calidad para el Servicio de Automóvil de Alquiler
 
 ###### ARTICULO 68.
 
@@ -1149,9 +1149,9 @@ IV. Cuando el interesado no cuente con tarjeta de identificación vigente, y
 
 V. Cuando así lo ordene la autoridad judicial o administrativa.
 
-## TITULO OCTAVO. DE LAS OBLIGACIONES DE LOS CONCESIONARIOS, PERMISIONARlOS, OPERADORES Y USUARIOS
+## TITULO OCTAVO. DE LAS OBLIGACIONES DE LOS CONCESIONARIOS, PERMISIONARIOS, OPERADORES Y USUARIOS
 
-### Capitulo II. De las Obligaciones de los Operadores del Servicio Público de Transporte
+### Capítulo II. De las Obligaciones de los Operadores del Servicio Público de Transporte
 
 ###### ARTICULO 81.
 
@@ -1249,7 +1249,7 @@ Por ningún motivo se transportarán pasajeros en los estribos de ascenso y desc
 
 El incumplimiento de las obligaciones señaladas a los permisionarios, concesionarios u operadores, sin perjuicio de la responsabilidad civil o penal en la que incurran, será sancionado de conformidad con lo establecido en la presente Ley y demás disposiciones legales y administrativas aplicables.
 
-### Capitulo Único
+### Capítulo Único
 
 ###### ARTICULO 88.
 
@@ -1701,7 +1701,7 @@ XI. Para suplir la baja de los consejeros propietarios que acumulen tres faltas 
 
 ## TITULO DECIMO QUINTO. DE LAS SANCIONES Y DEL PROCEDIMIENTO PARA SU APLICACIÓN
 
-### Capitulo II. Del Procedimiento para la Aplicación de las Sanciones
+### Capítulo II. Del Procedimiento para la Aplicación de las Sanciones
 
 ###### ARTICULO 127.
 
@@ -1858,3 +1858,9 @@ P.O. 20 DE JULIO DE 2010.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 28 DE DICIEMBRE DE 2010.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
