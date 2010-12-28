@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-para-el-municipio-de-motul-yucatan-36790"
 country: "mx"
 rank: "ley"
 publication_date: "2003-12-31"
-last_updated: "2008-12-27"
+last_updated: "2010-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=36790&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE MOTUL, YUCATAN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 27 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el miércoles 31 de diciembre de 2003.
 
@@ -879,9 +879,11 @@ La base del Impuesto Sobre Diversiones y Espectáculos Públicos, será la total
 
 DE LA TASA
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 28 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 69.
 
-La tasa del Impuesto Sobre Diversiones y Espectáculos Públicos, será de 10% misma que se aplicará sobre la base determinada, conforme al artículo inmediato anterior.
+La tasa del impuesto sobre diversiones y espectáculos públicos, será de 3% misma que se aplicará sobre la base determinada, conforme al artículo inmediato anterior.
 
 Cuando el espectáculo público consista en la puesta en escena de obras teatrales la tasa será de cero, en espectáculos de circo la tasa será del 4%, aplicada a la totalidad del ingreso percibido.
 
@@ -901,9 +903,9 @@ El pago de este impuesto se sujetará a lo siguiente:
 
 a) Tratándose de contribuyentes eventuales y si se pudiera determinar o calcular previamente el monto del ingreso, el pago se efectuará antes de la realización de la diversión o espectáculo respectivo.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O. 22 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 28 DE DICIEMBRE DE 2010)</small>
 
-b) Si no pudiera determinarse previamente el monto del ingreso, se garantizará el interés del Municipio mediante depósito ante la Tesorería Municipal, del 70% del importe del impuesto determinado sobre el total de los boletos autorizados para el espectáculo que se trate, el pago del impuesto se efectuará al término del propio espectáculo, pagando el contribuyente la diferencia que existiere a su cargo, o bien, reintegrándose al propio contribuyente, la diferencia que hubiere a su favor.
+b) Si no pudiera determinarse previamente el monto del ingreso, se garantizará el interés del Municipio mediante depósito ante la Tesorería Municipal, del 10% del importe del impuesto determinado sobre el total de los boletos autorizados para el espectáculo que se trate, el pago del impuesto se efectuará al término del propio espectáculo, pagando el contribuyente la diferencia que existiere a su cargo, o bien, reintegrándose al propio contribuyente, la diferencia que hubiere a su favor.
 
 Cuando los sujetos obligados a otorgar la garantía a que se refiere el párrafo anterior, no cumplan con tal obligación, la Tesorería Municipal, podrá suspender el evento hasta en tanto no se otorgue dicha garantía, para ello la autoridad fiscal municipal podrá solicitar el auxilio de la fuerza pública.
 
@@ -1207,7 +1209,9 @@ I.- Por espacios ubicados en mercados construidos, así como plazas, calles, ter
 
 II.- Por cuota fija para comerciantes ambulantes, se pagarán desde 0.44 salario mínimo por día;
 
-III.- Por metro cuadrado de superficie asignada en mercados construidos, plazas, calles, terrenos y espacios, se pagarán 2 salarios mínimos diarios.
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2010)</small>
+
+III.- Por metro cuadrado de superficie asignada en mercados construidos, plazas, calles, terrenos y espacios, se pagarán 3.67 salarios mínimos diários vigentes en el Estado.
 
 DE LA RENUNCIA Y OTORGAMIENTO DE CONCESIONES
 
@@ -1235,19 +1239,23 @@ Son sujetos de este derecho, las personas físicas o morales que soliciten los s
 
 Es objeto de este derecho el servicio de limpia y/o recolección de basura a domicilio o en los lugares que al efecto se establezcan en los Reglamentos Municipales correspondientes, así como la limpieza de predios baldíos que sean aseados por el Ayuntamiento a solicitud del propietario de los mismos, fuera de este último caso, se estará a lo dispuesto en la reglamentación municipal respectiva.
 
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 107.
 
-Servirá de base el cobro de este derecho:
+Servirá de base para realizar el cobro del derecho de los servicios de limpieza en terrenos baldíos, por parte del Ayuntamiento:
 
-I) Tratándose del servicio de recolección de basura, la periodicidad y forma en que se preste el servicio.
+I.- La superficie total del predio que deba limpiarse, a solicitud del propietario $5.00 pesos m2
 
-II) La superficie total del predio que deba limpiarse, a solicitud del propietario.
+II.- Cuando la Dirección de Servicios Públicos Municipales determine la limpieza de un predio baldío, después de haberse agotado el procedimiento procesal administrativos (sic), conforme al reglamento municipal correspondiente, la cantidad de $10.00 pesos m2
 
-> <small>(REFORMADO, D.O. 28 DE ENERO DE 2005)</small>
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 108.
 
-Por los servicios correspondientes a la recolecta de basura se causará y pagará la cantidad de $ 25.00 mensual.
+Por los servicios correspondientes a la recolecta de basura se causará y pagará la cantidad de $45.00 domiciliario y $55.00 comercial mensual.
+
+El derecho por el uso del relleno sanitario del Municipio de Motul, para los recolectores, particulares y demás prestadores de este servicio que se encuentren concesionados será de .20 pesos por kilogramo.
 
 ###### ARTÍCULO 109.
 
@@ -1415,7 +1423,9 @@ eventual 0.20 diariamente
 
 Los derechos a que se refiere este capítulo se causarán y pagarán de conformidad con la siguiente tarifa en salarios mínimos:
 
-I.- Por renta de bóvedas del Ayuntamiento por un período de 2 años 3.5
+I.- Por renta de bóvedas del Ayuntamiento
+
+por un período de 2 años 3.5
 
 II.- Por empadronamiento 1
 
@@ -1423,19 +1433,37 @@ III.- Por uso de fosa común 1
 
 IV.- Cambio de concesionario 1
 
-V.- Por construcción y remodelación por metro cuadrado. 0.070
+V.- Por construcción y remodelación
+
+por metro cuadrado. 0.070
 
 VI.- Por inhumación 3.5
 
 VII.- Por exhumación 1
 
-VIII.- Por concesión de terreno a perpetuidad de 2.40 por 1.20 metros 64
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2010)</small>
 
-IX.- Por concesión de terreno de 1.00 por 1.00 metros 32
+VIII.- Por concesión de terreno a
 
-X.- Por concesión de terreno en las comisaría de Ucí y Kini de 2.40 por 1.20 metros
+perpetuidad de 2.40 por 1.20 metros 100
 
-XI.- Por concesión de terreno en las comisaría (sic) de Ucí y Kini de 1.00 por 1.00 metros 16
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2010)</small>
+
+IX.- Por concesión de terreno de
+
+1.00 por 1.00 metros 50
+
+X.- Por concesión de terreno en las
+
+comisaría (sic) de Ucí y Kini de
+
+2.40 por 1.20 metros 32
+
+XI.- Por concesión de terreno en las
+
+comisaría (sic) de Ucí y Kini de
+
+1.00 por 1.00 metros 16
 
 XII.- Por servicios en las demás comisarías se pagará:
 
@@ -2058,3 +2086,35 @@ D.O. 27 DE DICIEMBRE DE 2008.
 ###### ARTÍCULO ÚNICO.
 
 Este Decreto entrará en vigor al día siguiente a su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 28 DE DICIEMBRE DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+Para el ejercicio fiscal 2011, en vez de aplicar lo dispuesto en el segundo párrafo del artículo 38, los descuentos se otorgarán de conformidad con la siguiente tabla:
+
+Fecha en que se paga el equivalente Factor de descuento
+
+a una anualidad sobre el impuesto
+
+causado.
+
+Del 01 de Enero al 15 de Febrero 15%
+
+Del 16 de Febrero al 31 de Marzo 10%
+
+Para estos efectos, los contribuyentes que paguen el importe correspondiente a una anualidad en el mes de marzo no pagarán actualización y recargos sobre el impuesto correspondiente a los meses de enero y febrero del año de 2011.
+
+###### ARTÍCULO SEGUNDO.
+
+Para efectos de lo dispuesto en el artículo 57 fracción II; en tanto se modifica el reglamento de espectáculos, se estará a lo dispuesto por el H. Cabildo.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones de los reglamentos municipales que se opongan a la presente Ley.
+
+TRANSITORIO:
+
+###### ARTÍCULO ÚNICO.
+
+Este decreto entrará en vigor el día 1 de enero del año 2011, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
