@@ -4,7 +4,7 @@ identifier: "SLP-codigo-de-procedimientos-penales-para-el-estado-de-san-luis-181
 country: "mx"
 rank: "codigo"
 publication_date: "2000-09-30"
-last_updated: "2010-06-04"
+last_updated: "2010-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18105&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JUNIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2010.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 30 de septiembre de 2000.
 
@@ -1578,6 +1578,14 @@ Toda persona en cuyo poder se hallen cosas o documentos que deban servir de medi
 ###### ARTICULO 233.
 
 La confesión es la declaración voluntaria hecha por persona no menor de dieciséis años de edad, en pleno uso de sus facultades mentales, rendida ante el Ministerio Público, el Juez o Tribunal de la causa, sobre hechos propios constitutivos del tipo delictivo materia de la imputación, emitida con las formalidades señaladas por el artículo 20 de la Constitución Política de los Estados Unidos Mexicanos: Se admitirá en cualquier estado del procedimiento, hasta antes de dictar sentencia irrevocable.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2010)</small>
+
+Ninguna confesión o información que haya sido obtenida mediante tortura, podrá invocarse como prueba, salvo en contra de una persona acusada de tortura como prueba de que se ha formulado la declaración.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2010)</small>
+
+No tendrá valor probatorio alguno la confesión rendida ante el Ministerio Público durante la averiguación previa, o por la autoridad judicial que conozca del proceso, sin la presencia del defensor o persona de confianza designada por el inculpado y, en su caso, el traductor.
 
 ###### ARTICULO 234.
 
@@ -3232,6 +3240,12 @@ PRIMERO. Este Decreto entrará en vigor el día treinta de marzo del año dos mi
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 4 DE JUNIO DE 2010.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 28 DE DICIEMBRE DE 2010.
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
