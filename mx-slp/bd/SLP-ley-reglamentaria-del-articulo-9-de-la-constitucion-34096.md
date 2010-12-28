@@ -4,7 +4,7 @@ identifier: "SLP-ley-reglamentaria-del-articulo-9-de-la-constitucion-34096"
 country: "mx"
 rank: "ley"
 publication_date: "2003-09-13"
-last_updated: "2008-05-01"
+last_updated: "2010-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34096&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY REGLAMENTARIA DEL ARTICULO 9° DE LA CONSTITUCION POLITICA DEL ESTADO, SOBRE DERECHOS Y CULTURA INDIGENAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE MAYO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2010.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 13 de septiembre de 2003.
 
@@ -177,11 +177,17 @@ El Juez Auxiliar fungirá como el certificador del aval comunitario para los asu
 
 Toda persona radicada en una comunidad indígena que tenga necesidad de emigrar temporal o permanentemente, podrá acudir ante el Juez Auxiliar a fin de que éste levante un acta en la que se haga constar el mayor número de datos que eventualmente pudieran ser de alguna utilidad para efectos laborales, familiares, administrativos, judiciales u otros; tales como el nombre completo del interesado y de su cónyuge, en su caso, así como el de sus familiares más cercanos; lugar de destino, motivo del viaje, duración aproximada, persona que en su caso la haya contratado laboralmente, y demás que se estimen necesarios.
 
-El Juez Auxiliar estará facultado para expedir las cartas de conocimiento y comprobantes de domicilio para los efectos a que se refiere el artículo 41 fracción II del Código Civil del Estado, y otros fines legales.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2010)</small>
+
+El Juez Auxiliar estará facultado para expedir las cartas de conocimiento y comprobantes de domicilio para los efectos a que se refiere el artículo 479 fracción II inciso b) del Código Familiar del Estado; así como para otros fines legales.
 
 ###### ARTICULO 29.
 
 El Juez Auxiliar contará con colaboradores, titulares y suplentes, que le auxilien en el desempeño de sus funciones, tales como un comandante, notificadores, policías, mayules o tequihuas, secretarios, tesoreros y comités de trabajo.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2010)</small>
+
+Los nombramientos de los jueces auxiliares serán expedidos de conformidad con la Ley Orgánica del Poder Judicial del Estado; y lo de sus colaboradores serán emitidos por el presidente municipal respectivo, en el que debe constar explícitamente que se extiende en razón de su elección por parte de la comunidad y en cumplimiento a esta Ley, señalando el nombre completo, cargo y periodo a ejercer, sin que la simple expedición del documento implique o suponga relación laboral alguna con el ayuntamiento respectivo.
 
 ###### ARTICULO 30.
 
@@ -365,6 +371,10 @@ La vigilancia y control de las partidas presupuestales administradas directament
 
 El Sistema Estatal para el Desarrollo Humano y Social de los Pueblos y Comunidades Indígenas, es la instancia de coordinación, concertación y consulta en la que participan los diversos órganos de gobierno, estatal y municipales, y las comunidades indígenas, para el desarrollo de sus pueblos. En todo caso, este Sistema Estatal coordinará sus programas y acciones con las autoridades comunitarias.
 
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2010)</small>
+
+El Poder Ejecutivo del Estado será la instancia responsable de la instalación y funcionamiento del Sistema Estatal para el Desarrollo Humano y Social de los Pueblos y Comunidades Indígenas, a través de la Coordinación para la Atención de los Pueblos Indígenas. Las atribuciones de este sistema, su forma de integrarse y de funcionar, estarán previstas en el Reglamento que para tal efecto expida el Ejecutivo del Estado.
+
 ###### ARTICULO 61.
 
 El Sistema Estatal para el Desarrollo Humano y Social de los Pueblos y Comunidades Indígenas, definirá un modelo de política de estado orientada a promover el desarrollo, la participación y la consulta directa de los pueblos y comunidades indígenas, facilitando la concurrencia de la acción pública, del gobierno y la sociedad en su conjunto.
@@ -460,3 +470,11 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
 
 TERCERO. El presente Decreto deberá publicarse además en las lenguas indígenas del Estado.
+
+P.O. 28 DE DICIEMBRE DE 2010.
+
+PRIMERO. Este Decreto entrará en .vigencia el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. El Ejecutivo del Estado, a través de la Coordinación para la Atención de los Pueblos Indígenas, deberá instalar el Sistema Estatal para el Desarrollo Humano y Social de los Pueblos y Comunidades Indígenas, dentro del plazo de sesenta días hábiles, plazo que se contará a partir de la entrada en vigor de este Decreto.
+
+TERCERO. El Ejecutivo del Estado expedirá en un plazo de noventa días hábiles el Reglamento para la Integración y Funcionamiento del Sistema Estatal para el Desarrollo Humano y Social de los Pueblos y Comunidades Indígenas, plazo que se contará a partir de la entrada en vigencia de este Decreto.
