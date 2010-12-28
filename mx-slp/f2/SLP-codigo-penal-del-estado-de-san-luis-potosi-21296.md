@@ -4,7 +4,7 @@ identifier: "SLP-codigo-penal-del-estado-de-san-luis-potosi-21296"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-09-30"
-last_updated: "2010-12-15"
+last_updated: "2010-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21296&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CODIGO PENAL DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2010.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 30 de septiembre de 2000.
 
@@ -251,13 +251,27 @@ En toda pena de prisión que se imponga se computará el tiempo que la persona h
 
 La reparación del daño comprende:
 
-I. La restitución de la cosa obtenida por el delito y, si no fuere posible, el pago del precio de la misma;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2010)</small>
 
-> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2002)</small>
+I. La restitución de la cosa obtenida por el delito y, si esto no fuere posible, el pago del precio de la misma, o la entrega de un bien que cubra su valor;
 
-II. La indemnización del daño material y moral causado, incluyendo el pago de los tratamientos curativos que, como consecuencia del delito, sean necesarios para la recuperación de la salud del ofendido. En los casos de delitos contra la libertad y el normal desarrollo psicosexual y de violencia familiar, además se comprenderá el pago de los tratamientos psicoterapéuticos que sean necesarios para la víctima, y
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2010)</small>
 
-III. Tratándose de los delitos cometidos contra la administración pública, la reparación del daño abarcará la restitución de la cosa o de su valor y, además, hasta dos tantos del valor de la cosa o los bienes obtenidos por el delito.
+II. La indemnización del daño material y moral causado, incluyendo gastos de asesoría legal, médicos necesarios para la recuperación de la salud de la víctima u ofendido, funerarios, de rehabilitación o de cualquier otra índole, que haya erogado la víctima o sus familiares, como consecuencia del delito.
+
+En los casos de delitos contra la libertad, el normal desarrollo psicosexual, violencia familiar, y tortura, además, se comprenderá el pago de los tratamientos psicoterapéuticos que sean necesarios para la víctima;
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2010)</small>
+
+III. Cuando se trate de delitos que afecten la vida o la integridad corporal, el monto de la reparación se determinará atendiendo a lo dispuesto por la Ley Federal del Trabajo. Para calcular la reparación que corresponda en aquellos delitos que afecten la vida, se tomará como base el cuádruplo del salario mínimo diario vigente al momento de ocurridos los hechos, y se multiplicará por el número de días que para el caso de indemnización por muerte establece dicha ley, y además lo relativo a los gastos funerarios. El importe de ambos conceptos corresponderá a las personas que tengan derecho conforme a este capítulo;
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2010)</small>
+
+IV. Tratándose de los delitos cometidos contra la administración pública, la reparación del daño abarcará la restitución de la cosa obtenida por el delito y, si esto no fuere posible, el pago del precio de la misma, o la entrega de un bien que cubra su valor; y además, hasta dos tantos del valor de la cosa o los bienes obtenidos por el delito, y
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2010)</small>
+
+V. En general, tratándose de delitos patrimoniales, será siempre por la totalidad del daño causado.
 
 ###### ARTICULO 23.
 
@@ -301,9 +315,11 @@ Se exceptúa de esta regla a la sociedad conyugal, pues, en todo caso, cada cón
 
 VI. El Estado, subsidiariamente, cuando los daños o perjuicios se ocasionen por sus funcionarios o servidores públicos, exclusivamente en el ejercicio de las funciones que les estén encomendadas.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 27.
 
-La reparación del daño debe exigirse, de oficio, por el Ministerio Público, por el mismo ofendido o por las personas a las que se refiere el artículo 23 de éste Código.
+La reparación del daño tiene el carácter de pena pública y debe exigirse, de oficio, por el Ministerio Público, por el mismo ofendido o por las personas a las que se refiere el artículo 23 de este Código, quienes deberán acreditar su procedencia y monto de acuerdo a las bases mínimas de este Capítulo. En caso de que la Comisión Estatal de Derechos Humanos advierta que no se ha exigido la reparación del daño, instará al Ministerio Público para que actúe en consecuencia.
 
 Quien se considere con derecho a la reparación del daño y no hubiere obtenido la misma ante el juez penal, podrá recurrir a la vía civil en los términos de la legislación correspondiente.
 
@@ -2787,6 +2803,8 @@ Cuando los delitos de abuso de autoridad y cohecho sean cometidos por servidores
 
 ### CAPITULO VII. TORTURA
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 274.
 
 Comete el delito de cohecho:
@@ -2917,9 +2935,19 @@ El delito de abuso de autoridad se sancionará, en los casos de las fracciones I
 
 ###### ARTICULO 282.
 
-Comete el delito de tortura el servidor público, que con motivo de su cargo, por sí o valiéndose de terceros, inflija a una persona dolores o sufrimientos, sean físicos o psíquicos, con el fin de obtener del torturado, o de un tercero, información o una confesión, o bien, de coaccionarla a un comportamiento determinado o de castigarla por un acto que cometió o se sospeche que haya cometido.
+Comete el delito de tortura, el servidor público que con motivo de su cargo, por sí, o a través de un tercero, inflija a una persona:
 
-Este delito se sancionará con una pena de dos a diez años de prisión, sanción pecuniaria de cuarenta a doscientos días de salario mínimo e inhabilitación para el desempeño de cualquier cargo, empleo o comisión públicos por dos tantos del mismo tiempo de duración de la pena privativa de libertad impuesta.
+l. Dolores o sufrimientos, sean físicos o psíquicos, con el fin de obtener del torturado o de un tercero, información o una confesión, o de castigarla por un acto que cometió o se sospeche que haya cometido;
+
+II. Intimidación o coacción para que realice o deje de realizar una conducta o acto determinado;
+
+III. Anulación de su personalidad o la disminución de su capacidad física o mental, aunque los métodos empleados no causen dolor físico o angustia psíquica, y
+
+IV. Otros daños causados por cualquier razón basada en algún tipo de discriminación.
+
+Incurre en la misma responsabilidad penal, el tercero que con cualquier finalidad, instigado o autorizado, explícita o implícitamente por un servidor público, cometa alguno de los supuestos enunciados anteriormente.
+
+Este delito se sancionará con una pena de dos a diez años de prisión, sanción pecuniaria de cien a quinientos días de salario mínimo; inhabilitación para el desempeño de cualquier cargo, empleo o comisión públicos por dos tantos del mismo tiempo de duración de la pena privativa de libertad impuesta; y la reparación del daño.
 
 ###### ARTICULO 283.
 
@@ -2928,6 +2956,14 @@ No se consideran como tortura las molestias o afectaciones que sean consecuencia
 ###### ARTICULO 284.
 
 No se considerarán como causas excluyentes de responsabilidad del delito de tortura, el que se invoquen o existan circunstancias excepcionales, como inestabilidad política interna, urgencia en las investigaciones o cualquier otra emergencia.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2010)</small>
+
+No justifican la comisión del delito de tortura, la peligrosidad del detenido, procesado o sentenciado, ni la inseguridad del establecimiento carcelario o penitenciario.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2010)</small>
+
+Tampoco podrá invocarse como justificación la orden de un superior jerárquico o de cualquier otra autoridad.
 
 ###### ARTICULO 285.
 
@@ -3560,3 +3596,9 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 15 DE DICIEMBRE DE 2010.
 
 UNICO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE DICIEMBRE DE 2010.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
