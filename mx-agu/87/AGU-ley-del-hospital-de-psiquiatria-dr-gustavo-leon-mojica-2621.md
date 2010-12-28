@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-hospital-de-psiquiatria-dr-gustavo-leon-mojica-2621"
 country: "mx"
 rank: "ley"
 publication_date: "1989-12-17"
-last_updated: "2003-05-26"
+last_updated: "2010-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2621&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "AGU"
 
 LEY DEL HOSPITAL DE PSIQUIATRIA "DR. GUSTAVO LEON MOJICA GARCIA"
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE MAYO DE 2003.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO QUINTO TRANSITORIO DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES, PUBLICADA EN EL P.O. DE 28 DE DICIEMBRE DE 2010. EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el 17 de diciembre de 1989.
 
@@ -314,3 +316,93 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO.
 
 Los servidores públicos que actualmente laboran en el Centro de Neuropsiquiatría conservarán sus derechos laborales y antigüedad.
+
+P.O. 28 DE DICIEMBRE DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley Orgánica de la Administración Pública del Estado de Aguascalientes, publicada en el Periódico Oficial del· Estado en fecha 8 de noviembre del 2001 en el Periódico Oficial del Estado de Aguascalientes mediante Decreto Número 213.
+
+###### ARTÍCULO TERCERO.
+
+Se abroga la Ley que Crea el Instituto del Medio Ambiente del Estado de Aguascalientes, publicada en el Periódico Oficial del Estado de Aguascalientes el 11 de abril del 2005 mediante Decreto Número 40, así como los ordenamientos que de ella deriven, y en consecuencia se extingue el Organismo Público Descentralizado denominado Instituto de Medio Ambiente del Estado de Aguascalientes.
+
+###### ARTÍCULO CUARTO.
+
+Se abroga la Ley que Crea el Organismo Público Descentralizado Denominado Comisión para el Desarrollo Agropecuario del Estado de Aguascalientes, publicada en el Periódico Oficial del Estado de Aguascalientes el 18 de marzo de 1990 mediante Decreto Número 25 y en consecuencia se extingue el Organismo Público Descentralizado denominado Comisión para el Desarrollo Agropecuario del Estado de Aguascalientes.
+
+###### ARTÍCULO QUINTO.
+
+Se deroga el Título 3 Tercero, Capítulo Único, que comprende del Artículo 13 al 27 de la Ley de Salud del Estado de Aguascalientes.
+
+El Organismo Público Descentralizado denominado Instituto de Salud del Estado de Aguascalientes se transforma en Instituto de Servicios de Salud del Estado de Aguascalientes.
+
+El Decreto de Creación del Instituto de Servicios de Salud del Estado de Aguascalientes, lo deberá expedir el Congreso del Estado, dentro de los 60 días naturales contados a partir de la entrada en vigencia de la presente ley.
+
+Se abroga la ley del Centenario Hospital Miguel Hidalgo del Estado de Aguascalientes, publicada en el Periódico Oficial del Estado de Aguascalientes el 26 de noviembre del 2007 mediante Decreto Número 396 y en consecuencia el Hospital Centenario Miguel Hidalgo pasa a formar parte de las unidades administrativas de la Secretaría de Salud.
+
+Se abroga la Ley del Hospital de Psiquiatría "Dr. Gustavo León Mojica García" del Estado de Aguascalientes, publicada en el Periódico Oficial del Estado de Aguascalientes el 26 de mayo del 2003 mediante Decreto Número 91 y en consecuencia el Hospital de Psiquiatría "Dr. Gustavo León Mojica García" pasa a formar parte de las unidades administrativas de la Secretaría de Salud.
+
+El Poder Ejecutivo del Estado, en un plazo no mayor de 30 días naturales contados a partir del inicio de vigencia del presente ordenamiento, deberá expedir los Acuerdos por virtud de los cuales se establezca el esquema administrativo y organizacional de cada uno de los hospitales referidos con antelación.
+
+Hasta en tanto se expidan los ordenamientos referidos, se seguirá aplicando el Título Tercero, Capítulo Único, que comprende del Artículo 13 al 27 de la ley de Salud del Estado de Aguascalientes, la normativa reglamentaria vigente y, en su caso, los lineamientos que emita el Secretario de Salud.
+
+###### ARTÍCULO SEXTO.
+
+Se abroga la Ley del Centro Estatal de Estudios Municipales de Aguascalientes, publicada en el Periódico Oficial del Estado de Aguascalientes el 21 de septiembre del 1984 y en consecuencia se extingue el Organismo Público Descentralizado denominado Centro Estatal de Estudios Municipales.
+
+###### ARTÍCULO SÉPTIMO.
+
+A la entrada en vigencia del presente Decreto se realizarán las siguientes transferencias de personal, de recursos financieros y materiales:
+
+a) Del Instituto de Medio Ambiente a la Secretaría de Medio Ambiente;
+
+b) De la Comisión para el Desarrollo Agropecuario a la Secretaría de Desarrollo Rural y Agroempresarial; y
+
+c) De una Entidad o Dependencia a otra, según proceda.
+
+Los acuerdos y convenios celebrados con el Gobierno Federal, así como los compromisos, derechos y procedimientos que hubieren suscrito, contraído, adquirido o desarrollado las respectivas Entidades y Dependencias extintas, así como las atribuciones que otras leyes les asignen, serán asumidos por la Dependencia o Entidad correspondiente.
+
+###### ARTÍCULO OCTAVO.
+
+Las obligaciones laborales de cada Entidad o Dependencia que se extinga o desaparezca, serán asumidas por la respectiva Dependencia o Entidad, respetando los derechos de los trabajadores, en términos de las disposiciones aplicables.
+
+Los derechos laborales de los trabajadores de base del Instituto de Servicios de Salud del Estado de Aguascalientes, así como su afiliación al Sindicato que les corresponda en su ámbito laboral, serán garantizados atendiendo a lo establecido en la Ley de Salud del Estado de Aguascalientes y en el Estatuto de los Trabajadores al Servicio de los Gobiernos del Estado de Aguascalientes, sus Municipios y Organismos Descentralizados, en la transferencia institucional que se realice a la Secretaría de Salud, según corresponda.
+
+En su caso, los Titulares de las Entidades y Dependencias que se transformen y las de nueva creación, de acuerdo con las necesidades institucionales, podrán determinar, conjuntamente con la Oficialía Mayor y demás autoridades correspondientes, las transferencias de personal, su reubicación en otras Dependencias o Entidades, o la terminación de la relación laboral.
+
+###### ARTÍCULO NOVENO.
+
+Las transferencias del personal y recursos materiales y financieros a que se refieren los artículos que anteceden, serán coordinadas y vigiladas por la Secretaría de Finanzas, la de Fiscalización y Rendición de Cuentas y por la Oficialía Mayor, y deberán concluir a más tardar en el mes de noviembre del 2011.
+
+Dichas transferencias incluirán las adecuaciones presupuestarias derivadas de las modificaciones a la estructura orgánica, programática y financiera, a los calendarios financieros y de metas, así como por las de recursos humanos y de activos patrimoniales· según correspondan.
+
+Las Secretarías de Finanzas, la de Fiscalización y Rendición de Cuentas y la Oficialía Mayor, con la participación de las Dependencias y Entidades correspondientes, al concluir dichos traspasos deberán rendir el informe respectivo a la Legislatura del Estado, para su sanción.
+
+El Titular del Poder Ejecutivo, publicará en el Periódico Oficial del Estado la conclusión del proceso de transferencia de cada una de las Dependencias y Entidades respectivas.
+
+###### ARTÍCULO DÉCIMO.
+
+Cuando esté siendo sustanciado un asunto competencia de alguna Dependencia o Entidad establecida con anterioridad a la vigencia del presente Decreto y que por disposición de éste, deba ser ejercida por otra u otras, deberán transferirse los expedientes en trámite y el archivo a la nueva Dependencia o Entidad la cual deberá concluir dichos asuntos y dictar la resolución correspondiente.
+
+Los asuntos que con motivo de este Decreto deban pasar de una Dependencia o Entidad a otra, permanecerán en el último trámite que hubieren alcanzado, a excepción de aquellos urgentes o sujetos a término, los cuales se atenderán por quien los venía despachando.
+
+En relación a los expedientes, asuntos, procedimientos y recursos instaurados en la Contraloría General del Estado, que serán asumidos por la Secretaría de Fiscalización y Rendición de Cuentas, ésta publicará en el Periódico Oficial del Estado el Acuerdo de Inicio de Funciones, que hará las veces de notificación de que dicha Secretaría continuará con el trámite y resolución de los mismos, para todos los efectos legales.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+El Titular del Poder Ejecutivo del Estado deberá expedir los reglamentos interiores de las Dependencias de nueva creación a que se refiere el presente ordenamiento, así como adecuar los de las Dependencias cuyas atribuciones se reforman o modifican, dentro del plazo de 60 días naturales, contados a partir de la entrada en vigencia del presente Decreto. Entre tanto, se aplicarán los reglamentos que han regido en lo que no contravengan al presente Decreto, quedando facultado el Jefe de Gabinete para resolver las cuestiones de competencia reglamentaria que al efecto se presenten.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+La Secretaría de Finanzas, en coordinación con la Oficialía Mayor y la Secretaría de Fiscalización y Rendición de Cuentas, será la encargada de dictaminar la estructura orgánica, creación, modificación y supresión de las unidades administrativas y plazas de cada Dependencia, de manera funcional y presupuestal.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+Se derogan todas las disposiciones legales, reglamentarias y administrativas que se opongan a la presente Ley, de igual o menor jerarquía.
+
+Cuando en esta Ley se dé una denominación distinta a alguna Dependencia o Entidad con funciones o atribuciones establecidas por otro ordenamiento jurídico, dichas funciones o atribuciones se entenderán conferidas a la Dependencia o Entidad que determine la presente Ley y demás disposiciones relativas, en tanto no se expidan o reformen los ordenamientos jurídicos correspondientes.
