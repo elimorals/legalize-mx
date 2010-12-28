@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-hacienda-para-los-municipios-del-estado-de-nuevo-leon-77
 country: "mx"
 rank: "ley"
 publication_date: "1974-12-28"
-last_updated: "2010-12-24"
+last_updated: "2010-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7749&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 28 de diciembre de 1974.
 
@@ -1537,9 +1537,27 @@ V.- Rendidas las pruebas y recibidos, en su caso, los informes, se dictará reso
 
 En lo no previsto por esta Ley, la aplicación y recaudación del impuesto sobre Aumento de Valor y Mejoría Específica de la Propiedad, se hará con apego a las disposiciones del Código Fiscal vigente en el Estado.
 
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 41 Bis 24.
 
-(DEROGADO, P.O. 12 DE FEBRERO DE 1997)
+Para efectos de lo dispuesto en el Artículo 41 bis-9, el sujeto del impuesto podrá solicitar por escrito a la autoridad fiscal, la sustitución de la garantía real que gravite sobre el predio beneficiado por la obra pública, por una diversa garantía real.
+
+Asimismo, podrá solicitar la liberación de una parte del predio beneficiado, cuando el área restante sea suficiente para garantizar el impuesto en los términos establecidos en este Artículo.
+
+Dicha garantía deberá comprender, además de la contribución adeudada actualizada, los accesorios causados, así como los que se causen en los doce meses siguientes a su otorgamiento. Al terminar este período y en tanto no se cubra el crédito, deberá actualizarse su importe cada año y ampliarse la garantía para que cubra el crédito actualizado y el importe de los recargos, incluso los correspondientes a los doce meses siguientes.
+
+La autoridad fiscal vigilará en todo momento que las garantías sean suficientes, y si no lo fueren, exigirá su ampliación o procederá al secuestro de otros bienes, previo requerimiento al particular para que mejore la garantía otorgada.
+
+Para garantizar el interés fiscal en las formas a que se refiere este Artículo, se requerirá autorización de la autoridad fiscal, previo el cumplimiento de los siguientes requisitos:
+
+1. Que el bien inmueble que se otorgue en garantía se encuentre dentro del territorio del Estado;
+
+2. Que no se haya interpuesto por parte del sujeto obligado ningún medio de defensa en contra del impuesto sobre Aumento de Valor y Mejoría Específica de la Propiedad que se pretende garantizar;
+
+3. Que el contribuyente acepte expresamente su compromiso de cubrir oportunamente el crédito fiscal; y
+
+4. Los demás que considere necesario la autoridad fiscal.
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
 
@@ -1547,11 +1565,19 @@ En lo no previsto por esta Ley, la aplicación y recaudación del impuesto sobre
 
 Al expedirse el decreto legislativo que autoriza la aplicación del Impuesto Sobre Aumento de Valor y Mejoría Específica de la Propiedad para una obra pública, la Tesorería Municipal o la autoridad con facultades delegadas, notificará por oficio al Registro Público de la Propiedad y del Comercio para que realice las anotaciones marginales e inscripción del gravamen en relación con las propiedades afectas al citado impuesto. Los Notarios y Corredores Públicos no autorizarán, ni los Registradores Públicos de la Propiedad inscribirán, actos o contratos que impliquen transmisión de dominio, desmembración del mismo o constitución voluntaria de servidumbres o garantías reales, que tengan relación con inmuebles afectados a este impuesto, si no se les demuestra que se está al corriente en el pago del mismo.
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 41 Bis 26.
 
-En lo no previsto en este Capítulo, será de aplicación supletoria, en lo relativo, la Ley de Desarrollo Urbano del Estado (sic) del Estado de Nuevo León, la Ley de Obras Públicas para el Estado y Municipios de Nuevo León, la Ley del Catastro del Estado y la Ley de Expropiación del Estado.
+En lo no previsto en este Capítulo, será de aplicación supletoria, en lo relativo, la Ley de Desarrollo Urbano del Estado de Nuevo León, la Ley de Obras Públicas para el Estado y Municipios de Nuevo León, la Ley del Catastro del Estado y la Ley de Expropiación del Estado.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2010)</small>
+
+ARTÍCULO 41 bis 27.- Las facultades de las autoridades fiscales no se extinguirán, para efectos de la comprobación del cumplimiento del pago del impuesto sobre Aumento de Valor y Mejoría Específica de la Propiedad y sus accesorios, así como para determinar y fijar en cantidad liquida el impuesto y sus accesorios e imponer las sanciones que correspondan.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2010)</small>
+
+ARTÍCULO 41 bis 28.- Los créditos fiscales que correspondan al Impuesto Sobre Aumento de Valor y Mejoría Específica de la Propiedad, y sus accesorios, serán imprescriptibles.
 
 ## TITULO TERCERO. DERECHOS
 
@@ -1713,21 +1739,21 @@ La construcción de obras públicas y cooperación para una zona o sector podrá
 
 RASTRO.- En los Municipios de Allende, Apodaca, Cadereyta Jiménez, García, General Escobedo, Guadalupe, Linares, Juárez, Montemorelos, Monterrey, Sabinas Hidalgo, San Nicolás de los Garza, San Pedro Garza García, Santa Catarina y Santiago, en materia de rastro, se aplicarán las cuotas siguientes, incluyendo servicios de corrales, uso de maquinaria y edificios:
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2010)</small>
 
-I.- Por cabeza de ganado mayor con más de 500 kilogramos de peso 3.5 cuotas
+I.- Por cabeza de ganado mayor con más de 500 kilogramos de peso 4 cuotas
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2010)</small>
 
-II.- Por cabeza de ganado mayor con peso de hasta 500 kilogramos 2 cuotas
+II.- Por cabeza de ganado mayor con peso de hasta 500 kilogramos 3.5 cuotas
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2010)</small>
 
-III.- Por cabeza de ganado porcino con más de 100 kilogramos de peso 2 cuotas
+III.- Por cabeza de ganado porcino con más de 100 kilogramos de peso 2.5 cuotas
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2010)</small>
 
-IV.- Por cabeza de ganado porcino con peso de hasta 100 kilogramos 1.5 cuotas
+IV.- Por cabeza de ganado porcino con peso de hasta 100 kilogramos 1.7 cuotas
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -1755,21 +1781,21 @@ En los demás Municipios del Estado se pagará el 50% (cincuenta por ciento) de 
 
 REFRIGERACION.- Por el servicio de refrigeración de animales prestado en los rastros municipales, diariamente:
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2010)</small>
 
-I.- Por cabeza de ganado mayor con más de 500 kilogramos de peso 1.5 cuotas
+I.- Por cabeza de ganado mayor con más de 500 kilogramos de peso 1.65 cuotas
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2010)</small>
 
-II.- Por cabeza de ganado mayor con peso de hasta 500 kilogramos 0.75 cuotas
+II.- Por cabeza de ganado mayor con peso de hasta 500 kilogramos 0.825 cuotas
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2010)</small>
 
-III.- Por cabeza de ganado porcino con más de 100 kilogramos de peso 0.5 cuotas
+III.- Por cabeza de ganado porcino con más de 100 kilogramos de peso 0.55 cuotas
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2010)</small>
 
-IV.- Por cabeza de ganado porcino con peso de hasta 100 kilogramos .303 cuotas
+IV.- Por cabeza de ganado porcino con peso de hasta 100 kilogramos 0.3333 cuotas
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
@@ -1791,13 +1817,13 @@ Cuando se trate de animales incompletos se causarán los derechos que establece 
 
 Por servicios prestados en materia sanitaria por concepto de control de higiene de carnes frescas o refrigeradas, de ganado o aves:
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2010)</small>
 
-I.- Ganado mayor por canal .178 cuotas
+I.- Ganado mayor por canal 0.1958 cuotas
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2010)</small>
 
-II.- Ganado porcino por canal .132 cuotas
+II.- Ganado porcino por canal 0.1452 cuotas
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
@@ -1815,17 +1841,17 @@ V.- Aves, por cada una .012 cuotas
 
 VI.- Guajolotes, por cada uno .035 cuotas
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2010)</small>
 
-VII.- Cabeza de res o cerdo .035 cuotas
+VII.- Cabeza de res o cerdo 0.0385 cuotas
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2010)</small>
 
-VIII.- Asadura, por pieza .012 cuotas
+VIII.- Asadura, por pieza 0.0132 cuotas
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2010)</small>
 
-IX.- Menudo, por pieza .012 cuotas
+IX.- Menudo, por pieza 0.0132 cuotas
 
 Cuando se trate de animales incompletos, se causarán los derechos que establece este Artículo si la carne que se presenta corresponde a más de 50% del animal, si es menor se cobrará el 50% de la cuota.
 
@@ -2911,6 +2937,14 @@ IV.- Por estacionamiento de vehículos en la vía pública, en aquellos lugares 
 
 Cuando los parquímetros estén instalados frente a casas-habitación, los habitantes de las mismas no deberán cubrir los derechos a que se refiere la fracción anterior, por el estacionamiento de sus vehículos, por lo que el Municipio deberá expedir las constancias necesarias para hacer efectiva esta exención, a favor de quienes acrediten encontrarse en los supuestos mencionados.
 
+(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2010) (F. DE E. P.O. 14 DE ENERO DE 2011)
+
+Cuando los parquímetros se instalen para el ordenamiento vial de una zona determinada, y la cuota se destine a sufragar la construcción de estacionamientos o la habilitación de equipamiento urbano, así como de infraestructura vial lo que tendrá que licitarse conforme los ordenamientos correspondientes, el Ayuntamiento, por acuerdo de las dos terceras partes de sus integrantes, podrá establecer cuotas extraordinarias siempre y cuando éstas se destinen exclusivamente para la recuperación de la inversión y el costo financiero de dichas obras. Lo anterior no presupone que los parquímetros al igual que el espacio público podrán concesionarse, pues en todo momento deberán seguir formando parte del patrimonio municipal.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2010)</small>
+
+En el caso de que la autoridad municipal determine hacer uso de esa facultad, deberá informarlo en un plazo no mayor de 30 días al Congreso del Estado, señalando con precisión el fin al que serán destinados los recursos que se recauden en virtud de esta circunstancia, para que sea analizada su aplicación en la revisión de la cuenta pública correspondiente.
+
 > <small>N. DE E. POR DISPOSICION DEL ARTICULO TERCERO DEL DECRETO NUM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCION, P.O. 31 DE DICIEMBRE DE 1999.</small>
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1998)</small>
@@ -2919,27 +2953,23 @@ V.- Por ocupar la vía pública los organismos descentralizados del gobierno fed
 
 VI.- No especificados.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 24 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 28 DE DICIEMBRE DE 2010)</small>
 
-## TITULO CUARTO. CONTRIBUCIONES POR NUEVOS FRACCIONAMIENTOS, EDIFICACIONES, RELOTIFICACIONES Y SUBDIVISIONES PREVISTAS EN LA LEY DE DESARROLLO URBANO DEL ESTADO
+## TITULO CUARTO. CONTRIBUCIONES POR NUEVOS FRACCIONAMIENTOS, EDIFICACIONES, RELOTIFICACIONES Y SUBDIVISIONES PREVISTAS EN LA LEY DE DESARROLLO URBANO DEL ESTADO DE NUEVO LEÓN
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+(REFORMADO, P.O. 28 DE DICIEMBRE DE 2010) (F. DE E., P.O. 12 DE ENERO DE 2011)
 
 ###### ARTICULO 65 Bis 2.
 
-Los fraccionadores, en la autorización de nuevos fraccionamientos, cederán suelo al Municipio para destinos, en los mismos términos a que se refiere la Ley de Desarrollo Urbano del Estado de Nuevo León, según el tipo de fraccionamiento. En los conjuntos urbanos o desarrollos sujetos al régimen de propiedad en condominio, los desarrolladores cederán suelo al Municipio en los términos de lo dispuesto por la citada Ley.
+Los fraccionadores, en la autorización de nuevos fraccionamientos, cederán suelo al Municipio para destinos, en los mismos términos a que se refiere la Ley de Desarrollo Urbano del Estado de Nuevo León, conforme a lo dispuesto en los artículos 201, 205, 208, 209, 210, 212, 214 y 215 según el tipo de fraccionamiento. En los conjuntos urbanos o desarrollos sujetos al régimen de propiedad en condominio, los desarrolladores cederán suelo al Municipio en los términos de lo dispuesto por los artículos 201 y 217 de la citada Ley.
 
-> <small>(REFORMADO, P.O. 13 DE ENERO DE 2007)</small>
+Las personas que realicen construcciones para nuevas edificaciones en terrenos no comprendidos en fraccionamientos autorizados, deberán ceder la superficie o pagar al Municipio, en los términos que se refiere el artículo 203 de la misma Ley.
 
-Las personas que realicen construcciones para nuevas edificaciones en terrenos no comprendidos en fraccionamientos autorizados, deberán ceder la superficie o pagar al municipio, en los términos a que se refiere el artículo 149 de la misma Ley.
+> <small>(F. DE E., P.O. 12 DE ENERO DE 2011)</small>
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
+A quien se le autorice realizar un fraccionamiento funerario o cementerio cederá la superficie al Municipio en los mismos términos a que se refieren los artículos 201 y 211 de la Ley de referencia.
 
-A quien se le autorice realizar un fraccionamiento funerario o cementerio cederá la superficie o pagará al Municipio en los mismos términos a que se refiere el Artículo 149 de la misma Ley.
-
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2001)</small>
-
-Las personas físicas o morales que soliciten el trámite de relotificaciones o subdivisiones, en su caso deberán complementar proporcionalmente las áreas para equipamientos y fines públicos, o pagarlas al Municipio en los términos a que se refiere el artículo 168 en correlación con el artículo 151 fracción II de la citada Ley; tratándose de inmuebles en el que los lotes resultantes cuenten o vayan a contar con el uso habitacional unifamiliar, se deberá pagar al Municipio el equivalente del porcentaje a ceder en efectivo, según valor catastral.
+Las personas físicas o morales que soliciten el trámite de relotificaciones o subdivisiones, en su caso deberán complementar proporcionalmente las áreas para equipamientos y fines públicos, o pagarlas al Municipio, cuando proceda, en los términos a que se refieren los artículos 201, 221 y 222 en correlación con el artículo 205, fracción II, de la citada Ley; tratándose de inmuebles en los que los lotes resultantes cuenten o vayan a contar con el uso habitacional unifamiliar, se deberán pagar al Municipio el equivalente del porcentaje a ceder en efectivo, según valor catastral.
 
 ## TITULO QUINTO. PRODUCTOS
 
@@ -3646,3 +3676,15 @@ P.O. 19 DE DICIEMBRE DE 2008.
 P.O. 24 DE DICIEMBRE DE 2010.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE DICIEMBRE DE 2010.
+
+DECRETO NUM. 157 QUE REFORMA LOS ARTICULOS 41 BIS-26, LAS FRACCIONES I, II, III Y IV DEL ARTICULO 50 BIS, LAS FRACCIONES I, II, VII, VIII Y IX DEL ARTICULO 51, EL ARTICULO 65 BIS-2 Y LA DENOMINACION DEL TITULO IV, Y SE ADICIONAN LOS ARTICULOS 41 BIS-24, 41 BIS-27 Y 41 BIS-28, TODOS DE LA LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE NUEVO LEÓN.
+
+Único.- El presente Decreto entrará en vigor a partir del día 1° de enero del 2011.
+
+P.O. 28 DE DICIEMBRE DE 2010.
+
+DECRETO NUM. 162 QUE ADICIONA DOS PARRAFOS A LA FRACCION IV DEL ARTICULO 65 BIS-14 DE LA LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE NUEVO LEÓN.
+
+Único.- El presente Decreto entrará en vigor a partir del día 1° de enero del 2011.
