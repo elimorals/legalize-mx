@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "2010-11-29"
+last_updated: "2010-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
 > <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 1, PUBLICADO EN EL P.O. 13 DE DICIEMBRE DE 1992, TODO ORDENAMIENTO Y DEMÁS ESCRITOS QUE REFIERAN LA DENOMINACIÓN "TESORERÍA GENERAL" O "TESORERO GENERAL", EN LO SUCESIVO SERÁN "SECRETARÍA DE FINANZAS" O "SECRETARIO DE FINANZAS", SEGÚN CORRESPONDA.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2010.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -255,7 +255,7 @@ Los partidos políticos nacionales acreditados en el Estado tendrán como fin el
 
 La ley de la materia regulará los derechos, prerrogativas y obligaciones de los partidos políticos nacionales acreditados en el Estado, al igual que los respectivos de los ciudadanos y la población en general para la participación en la vida política del Estado y el acceso al poder. Se establecerán en dicha norma los procedimientos, requisitos y normas para el desarrollo de las elecciones ordinarias y extraordinarias estatales y municipales, así como la participación y procedimientos jurisdiccionales y medios de impugnación que darán certeza al Sistema Estatal Electoral y sus procesos.
 
-(NOTA: EL 12 DE NOVIEMBRE DE 2009, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 52/2009 Y SU ACUMULADA 53/2009, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL APARTADO B, PÁRRAFO DÉCIMO SEGUNDO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 13 DE NOVIEMBRE DE 2009 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+(NOTA: EL 12 DE NOVIEMBRE DE 2009, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 52/2009 Y SU ACUMULADA 53/2009, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL APARTADO B, PÁRRAFO DÉCIMO SEGUNDO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 13 DE NOVIEMBRE DE 2009 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
 El Tribunal Estatal Electoral, será un órgano jurisdiccional, TEMPORAL, autónomo en su funcionamiento e independiente en sus decisiones. Estará integrado por tres Magistrados, adscritos al Poder Judicial del Estado. EN TIEMPO NO ELECTORAL SERÁ EL PLENO DEL SUPREMO TRIBUNAL DE JUSTICIA DEL ESTADO QUIEN CONOZCA Y RESUELVA DE LOS RECURSOS. El Tribunal Estatal Electoral, tendrá entre sus facultades, resolver los medios de impugnación y nulidades que la ley electoral establezca, así como declarar la validez de las elecciones.
 
@@ -477,11 +477,17 @@ X.- Convocar a elecciones conforme a la Ley.
 
 XI.- Para erigirse en Colegio Electoral en términos de lo dispuesto por los Artículos 42 y 44 de esta Constitución.
 
-XII.- Designar, en los términos que previene esta Constitución, al ciudadano que debe suplir al Gobernador en sus faltas temporales o absolutas.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2010)</small>
 
-XIII.- Conceder licencia al Gobernador, para salir del territorio del Estado, cuando fuere por más de veinte días, en cuyo caso se nombrará al ciudadano que deba sustituirlo durante su ausencia.
+XII.- Designar en los términos que prevé esta Constitución, al ciudadano que deba suplir al Gobernador en sus faltas absolutas, así como conceder licencia al Gobernador para salir del territorio del Estado por más de veinte días, así como para separarse del cargo hasta por noventa días;
 
-XIV.- Decidir sobre la renuncia del cargo de Gobernador; conceder licencia a dicho servidor público para separarse del cargo, hasta por noventa días.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2010)</small>
+
+XIII.- Decidir sobre la renuncia del cargo de Gobernador;
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2010)</small>
+
+XIV.- Ratificar, con el voto de la mayoría de los integrantes del Congreso, el nombramiento de Jefe de Gabinete que otorgue el Titular del Poder Ejecutivo;
 
 XV.- Designar a los Magistrados del Supremo Tribunal de Justicia del Estado, del Tribunal de lo Contencioso Administrativo y del Tribunal Local Electoral, de la terna propuesta por el Ejecutivo; en caso de que los rechace, aceptar una nueva terna en términos del Artículo 54 de esta Constitución.
 
@@ -791,23 +797,19 @@ El Gobernador del Estado será electo directamente por el pueblo, en los términ
 
 "PROTESTO GUARDAR Y HACER GUARDAR LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS, LA PARTICULAR DEL ESTADO Y LAS LEYES QUE DE AMBAS EMANEN, Y DESEMPEÑAR LEAL Y PATRIOTICAMENTE EL CARGO DE GOBERNADOR QUE EL PUEBLO ME HA CONFERIDO, MIRANDO EN TODO POR EL BIEN Y PROSPERIDAD DEL ESTADO; Y SI ASI NO LO HICIERE, QUE EL PUEBLO ME LO DEMANDE".
 
-> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 1953)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 42.
 
-En caso de falta absoluta de Gobernador, ocurrida dentro de los dos primeros años del período respectivo, si el Congreso estuviere en sesiones se constituirá inmediatamente en Colegio Electoral y concurriendo cuando menos las dos terceras partes del número total de sus miembros, nombrará en escrutinio secreto y por mayoría absoluta de votos un Gobernador Interino; el propio Congreso expedirá, dentro de los diez días siguientes al de la designación de Gobernador Interino, la convocatoria para la elección de Gobernador que deba concluír el período respectivo, debiendo mediar entre la fecha de la convocatoria y la que se señale para la verificación de las elecciones, un plazo no menor de seis meses ni mayor de ocho.
+En caso de falta absoluta de Gobernador, ocurrida dentro de los dos primeros años del período respectivo, el Jefe de Gabinete será el encargado del despacho del Poder Ejecutivo. El Congreso expedirá dentro de los veinte días siguientes la Convocatoria para la elección de Gobernador que debe concluir el período respectivo, debiendo mediar entre la fecha de la convocatoria y la que se señale para la verificación de las elecciones, un plazo no menor de seis meses ni mayor de ocho. La persona así elegida asumirá el cargo de Gobernador en un plazo no mayor de dos meses contados a partir de que sea electo.
 
-Si el Congreso no estuviere en sesiones, la Diputación Permanente nombrará desde luego un Gobernador Provisional y convocará a sesiones al Congreso para que éste, a su vez, designe Gobernador Interino y expida la convocatoria a elecciones extraordinarias en los términos del párrafo anterior.
+Cuando la falta de Gobernador ocurriese en los cuatro últimos años del período correspondiente, el Jefe de Gabinete se encargará del despacho del Poder Ejecutivo, en tanto el Congreso se erige en Colegio Electoral y nombra por mayoría absoluta al Gobernador Sustituto que deberá concluir el período.
 
-> <small>(REFORMADO, P.O. 13 DE JULIO DE 2009)</small>
-
-Cuando la falta de Gobernador ocurriese en los cuatro últimos años del período correspondiente, el Congreso, si se encontrare en sesiones, designará con las formalidades que establece este Artículo, al Gobernador Sustituto que deberá concluir el período; si estuviere en receso, la Diputación Permanente nombrará un Gobernador Provisional y convocará al Congreso a período extraordinario de sesiones para que el Pleno haga la designación de Gobernador Sustituto.
-
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 43.
 
-En las faltas temporales del Gobernador, ejercerá el Poder Ejecutivo, con carácter de Interino, la persona que designe el Congreso con los requisitos y formalidades que esta Constitución establece. Si el Congreso no estuviere reunido, la Diputación Permanente nombrará Gobernador Provisional y convocará de inmediato al Congreso para la designación del Interino.
+En las faltas temporales del Gobernador, ejercerá el Poder Ejecutivo el Jefe de Gabinete como encargado del Despacho.
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
@@ -815,11 +817,11 @@ En las faltas temporales del Gobernador, ejercerá el Poder Ejecutivo, con cará
 
 Si al comenzar un período constitucional no se presentase el Gobernador electo, o la elección no estuviere hecha y declarada el primero de diciembre, cesará, sin embargo, el Gobernador cuyo período haya concluido y se encargará desde luego del Poder Ejecutivo, en calidad de Gobernador Interino, el ciudadano que designe el Congreso, o en su receso, con el carácter de Provisional, el que designe la Diputación Permanente, observándose lo dispuesto en los artículos 42 y 43 de esta Constitución.
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 45.
 
-En los casos en que el Gobernador pueda legalmente ausentarse del Territorio del Estado, sin separarse de su cargo, el Secretario General de Gobierno quedará encargado del Despacho, quien se limitará a conocer de los asuntos que fueren inaplazables y de los de mero trámite.
+En los casos en que el Gobernador se ausente legalmente del territorio del Estado, sin separarse de su cargo, el Jefe de Gabinete quedará encargado del Despacho, y se limitará a conocer de los asuntos que fueren inaplazables y de los de mero trámite.
 
 > <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2001)</small>
 
@@ -857,13 +859,9 @@ VIII.- Concertar empréstitos en los términos de la fracción IV del Artículo 
 
 IX.- Ejercer actos de dominio sobre los bienes de la propiedad del Estado, con autorización del Congreso, tratándose de inmuebles.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2010)</small>
 
-> <small>(REFORMADA, P.O. 26 DE JULIO DE 2010)</small>
-
-X.- Nombrar y remover al Secretario General de Gobierno, al Secretario de Finanzas y a los demás servidores públicos del Poder Ejecutivo Estatal.
-
-Proponer al Congreso del Estado una terna, para que éste, por el voto de más de la mitad de sus miembros, designe al Procurador General de Justicia, el cual sólo podrá ser removido de su cargo por las causas que señale la Ley.
+X.- Nombrar y remover al Jefe del Gabinete y al Procurador General de Justicia del Estado cuyos nombramientos serán ratificados por el Congreso del Estado, y nombrar y remover al Secretario de Gobierno, al Secretario de Finanzas y a los demás servidores públicos del Poder Ejecutivo Estatal;
 
 XI.- Facilitar al Poder Judicial el auxilio que necesite para el ejercicio de sus funciones y hacer que se cumplan las sentencias de los Tribunales.
 
@@ -889,37 +887,35 @@ XIX.- Las demás que esta Constitución y la General de la República le confier
 
 El cargo de Gobernador solo es renunciable por causa grave que calificará el Congreso, ante el que se presentará la renuncia.
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 28 DE DICIEMBRE DE 2010)</small>
 
-### CAPITULO UNDECIMO
+### CAPITULO UNDECIMO. Del Jefe de Gabinete
 
-Del Secretario General de Gobierno.
-
-> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 1991)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 48.
 
-Para el despacho de los negocios de la Administración Pública del Estado, habrá un Secretario General de Gobierno, quien deberá reunir los siguientes requisitos:
+La coordinación de la Administración Pública del Estado y la función de interlocución del Poder Ejecutivo con los Poderes Legislativo y Judicial del Estado, así como con las autoridades municipales se realizará a través del Jefe de Gabinete, quien deberá reunir los requisitos siguientes:
 
-> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2003)</small>
-
-I.- Ser ciudadano mexicano por nacimiento y nativo del Estado con residencia efectiva en él no menor de diez años inmediatamente anteriores al día de la designación.
+I.- Ser ciudadano mexicano por nacimiento, nativo del Estado o con residencia efectiva en él, no menor de cinco años inmediatamente anteriores al día de la designación;
 
 II.- Estar en pleno ejercicio de sus derechos; y
 
-III.- Ser mayor de treinta años.
+III.- Ser mayor de 30 años.
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
+Los mismos requisitos se necesitarán para ser Secretario de Gobierno.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 49.
 
-Todos los despachos del Gobernador deberán ser firmados por el Secretario General de Gobierno.
+Todos los despachos del Gobernador deberán ser firmados por el Jefe de Gabinete.
 
-> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 50.
 
-Las faltas temporales del Secretario General de Gobierno serán suplidas por el servidor público inmediato inferior de la Secretaría que establezca la Ley, quien deberá firmar también cuando aquél quede encargado del Despacho.
+Las faltas temporales del Jefe del Gabinete serán suplidas por el Secretario de Gobierno, en cuyo caso éste deberá firmar los despachos del Gobernador.
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
@@ -1039,7 +1035,9 @@ Corresponde al Supremo Tribunal de Justicia del Estado:
 
 I.- Conocer en los juicios civiles y penales de las instancias y recursos que sean de su competencia, conforme a las leyes secundarias.
 
-II.- Conocer, en los términos de esta Constitución de los procesos que por ilícitos oficiales se sigan en contra del Gobernador, de los Diputados, del Secretario General de Gobierno, del Procurador General de Justicia y de los Regidores y Síndicos de los Ayuntamientos.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2010)</small>
+
+II.- Conocer, en los términos de esta Constitución de los procesos que por ilícitos se sigan en contra del Gobernador, de los Diputados, del Jefe de Gabinete, del Secretario de Gobierno, del Procurador General de Justicia, el Presidente Municipal, Regidores y Síndicos de los Ayuntamientos.
 
 III.- Declarar si ha lugar a formación de causa en contra de los jueces, por ilícitos oficiales o del orden común.
 
@@ -1059,79 +1057,57 @@ VIII.- Las demás facultades que le concede esta Constitución y las que estable
 
 Los Magistrados, antes de tomar posesión de sus cargos, deberán rendir la protesta de ley, ante el Congreso o la Diputación Permanente.
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 28 DE DICIEMBRE DE 2010)</small>
 
 CAPITULO DECIMOTERCERO
 
-Del Ministerio Público.
+Del Ministerio Público y del Sistema de Seguridad
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
-
-> <small>(REFORMADO, P.O. 26 DE JULIO DE 2010)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 59.
 
-El Ministerio Público será un organismo público, autónomo e independiente, con personalidad jurídica y patrimonio propio, que estará presidido por un Procurador General de Justicia del Estado, propuesto de una terna que presente el Ejecutivo del Estado, y designado por más de la mitad de los miembros del Congreso del Estado.
+La Ley organizará el Ministerio Público del Estado, cuyos servidores públicos serán nombrados y removidos libremente por el Ejecutivo Estatal. El Ministerio Público del Estado estará presidido por un Procurador General de Justicia del Estado, designado por el titular del Ejecutivo del Estado, y ratificado por el Congreso del Estado, con el voto de la mayoría de sus integrantes.
 
-El Procurador General de Justicia durará en su cargo cinco años, y podrá ser reelecto una sola vez, y deberá reunir los mismos requisitos que se requieren para ser Magistrado del Supremo Tribunal de Justicia de acuerdo con el Artículo 53 de esta Constitución.
+El Procurador General de Justicia deberá reunir los mismos requisitos que se requieren para ser Magistrado del Supremo Tribunal de Justicia de acuerdo con el Artículo 53 de esta Constitución.
 
-La Ley organizará el Ministerio Público del Estado, el cual ejercerá las funciones previstas en el Articulo 21 de la Constitución Política de los Estados Unidos Mexicanos, cuyos servidores públicos serán nombrados y removidos por el Consejo del Ministerio.
+La Ley organizará el Ministerio Público del Estado, el cual ejercerá las funciones previstas en el Artículo 21 de la Constitución Política de los Estados Unidos Mexicanos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
-
-> <small>(REFORMADO, P.O. 26 DE JULIO DE 2010)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 60.
 
-El Ministerio Público y el Sistema de Seguridad Pública se regirán por las siguientes disposiciones:
+El Ministerio Público estará sujeto a lo siguiente:
 
-A. DEL MINISTERIO PÚBLICO
+I.- La investigación de los delitos corresponde al Ministerio Público y a las policías, las cuáles actuarán bajo la conducción y mando de aquél en el ejercicio de esta función;
 
-I. La investigación de los delitos corresponde al Ministerio Público y a las policías, las cuales actuarán bajo la conducción y mando de aquél en el ejercicio de esta función;
+II.- El ejercicio de la acción penal ante los tribunales corresponde al Ministerio Público, quien podrá considerar criterios de oportunidad para su ejercicio de acuerdo con los supuestos establecidos en la ley;
 
-II. El ejercicio de la acción penal ante los tribunales corresponde al Ministerio Público. La Ley determinará los casos en que los particulares podrán ejercer la acción penal ante la autoridad judicial;
+III.- El Ministerio Público procurará que los juicios se sigan con toda regularidad para que la administración de justicia sea pronta y expedita, pedir la aplicación de las penas e intervenir en todos los negocios que la Ley determine;
 
-III. El Ministerio Público podrá considerar criterios de oportunidad para el ejercicio de la acción penal, en los supuestos y condiciones que fije la Ley;
+IV.- El Ministerio Público deberá garantizar la protección de las víctimas, ofendidos, testigos y en general de todos los sujetos que intervengan en el proceso. Los jueces deberán vigilar el cumplimiento de esta obligación;
 
-IV. El Ministerio Público deberá garantizar la protección de víctimas, ofendidos, testigos y en general todas (sic) los sujetos que intervengan en el proceso. Los jueces deberán vigilar el buen cumplimiento de esta obligación; y
+V.- La Ley establecerá los casos en que proceda la impugnación de las resoluciones del Ministerio Público del Estado, así como las sanciones aplicables a aquellas personas que las interpongan de manera dolosa; y
 
-V. La Ley establecerá los casos en que proceda la impugnación de las resoluciones del Ministerio Público del Estado sobre el no ejercicio de la acción penal, así como las sanciones aplicables a aquellas personas que los interpongan de manera dolosa.
+VI.- Los agentes del Ministerio Público estarán sujetos a un sistema profesional de carrera en los términos de la normativa que al efecto se expida.
 
-El Consejo del Ministerio tendrá a su cargo la Carrera Ministerial. Las condiciones para el ingreso, formación y permanencia, en los diversos órganos que conforman el Ministerio Público, así como las facultades y obligaciones de éstos y de los servidores públicos que los integran, se regirán por lo dispuesto en esta Constitución y en su Ley Orgánica.
-
-El Consejo del Ministerio se integrará por cinco miembros: el Procurador General de Justicia, que será su Presidente; dos agentes del Ministerio Público, un representante del Poder Judicial y un representante del Poder Legislativo, el cual no podrá recaer en un Diputado.
-
-Los Consejeros deberán reunir los requisitos que la Ley determine y durarán en el cargo cuatro años, y serán sustituidos en forma escalonada por cuartas partes; el Presidente durará el mismo tiempo que dure en su encargo como Procurador General de Justicia.
-
-Los Agentes del Ministerio Público, deberán ser nombrados mediante un concurso de oposición aplicado por el Consejo del Ministerio, en la forma en que disponga en su Ley Orgánica, y durarán en su cargo diez años, con la posibilidad de que previa evaluación, puedan ser ratificados por el Consejo.
-
-B. DEL SISTEMA DE SEGURIDAD PÚBLICA
-
-I. Las instituciones de seguridad pública serán de carácter civil, disciplinado y profesional. El Ministerio Público y las instituciones policiales del Estado y los Municipios deberán coordinarse entre sí y con las instituciones policiales federales, para cumplir con los objetivos de la seguridad pública y conformarán el Sistema Estatal de Seguridad Pública, que estará sujeto a las siguientes bases mínimas:
-
-a) La regulación de la selección, ingreso, formación, permanencia, evaluación, reconocimiento y certificación de los integrantes de las instituciones de seguridad pública. La operación y desarrollo de estas acciones será competencia del Estado y los Municipios en el ámbito de sus respectivas atribuciones;
-
-b) El establecimiento de las bases de datos criminalísticos y de personal para las instituciones de seguridad pública. Ninguna persona podrá ingresar a las instituciones de seguridad pública si no ha sido debidamente certificado y registrado en el sistema;
-
-c) La formulación de políticas públicas tendientes a prevenir la comisión de delitos; y
-
-d) Se determinará la participación de la comunidad que coadyuvará, entre otros, en los procesos de evaluación de las políticas de prevención del delito así como de las instituciones de seguridad pública;
-
-II. Los Agentes del Ministerio Público, los peritos y los miembros de las instituciones policiales del Estado y los Municipios, podrán ser separados de sus cargos si no cumplen con los requisitos que las leyes vigentes en el momento del acto señalen para permanecer en dichas instituciones, o removidos por incurrir en responsabilidad en el desempeño de sus funciones. Si la autoridad jurisdiccional resolviere que la separación, remoción, baja, cese o cualquier otra forma de terminación del servicio fue injustificada, el Estado sólo estará obligado a pagar la indemnización y demás prestaciones a que tenga derecho, sin que en ningún caso proceda su reincorporación al servicio, cualquiera que sea el resultado del juicio o medio de defensa que se hubiere promovido; y
-
-III. Las autoridades estatales y municipales, a fin de propiciar el fortalecimiento del sistema de seguridad social del personal del Ministerio Público, de las corporaciones policiales y de los servicios periciales, de sus familias y dependientes, instrumentarán sistemas complementarios de seguridad social.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
-
-> <small>(REFORMADO, P.O. 26 DE JULIO DE 2010)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 61.
 
-El Procurador General de Justicia del Estado intervendrá en todos los asuntos judiciales en que la Ley de intervención al Ministerio Público. El Procurador podrá intervenir directamente o por medio de sus agentes.
+Las instituciones de seguridad públicas (sic) serán de carácter civil, disciplinado y profesional. El Ministerio Público, las instituciones policiales del Estado y los Municipios deberán coordinarse entre sí para cumplir con los objetivos de la seguridad pública y conformarán el Sistema Estatal de Seguridad Pública que estará sujeto a las siguientes bases:
 
-Además dará parte al Procurador General de la República de toda aquella norma jurídica de carácter general, a excepción de la materia electoral, que a su criterio estime que se contrapone a la Ley suprema.
+I.- Sus integrantes deberán coordinarse con las instituciones policiales federales, en los términos de la legislación aplicable;
 
-Tanto él como sus agentes se someterán estrictamente a las disposiciones de la Ley, siendo responsables de toda falta, omisión o violación en que incurran con motivo de sus funciones.
+II.- Los integrantes de las instituciones de seguridad pública estatal estarán sujetos a un sistema de desarrollo policial que comprenderá los esquemas de servicio de carrera, profesionalización, certificación y su régimen disciplinario en los términos de la Ley de la materia;
+
+III.- Se deberá (sic) integrar y mantener actualizadas permanentemente las bases de datos criminalísticos y del personal de las instituciones de seguridad pública;
+
+IV.- Se garantizará la formulación y ejecución de políticas públicas tendientes a prevenir la comisión de delitos, así como la participación social en los procesos de evaluación de dichas políticas de prevención del delito; y
+
+V.- Los agentes del Ministerio Público, los peritos y los miembros de las instituciones policiales del Estado y los Municipios, podrán ser separados de sus cargos si no cumplen con los requisitos que las leyes vigentes en el momento del acto señalen para permanecer en dichas instituciones, o removidos por incurrir en responsabilidad en el desempeño de sus funciones. Si la autoridad jurisdiccional resolviere que la separación, remoción, baja, cese o cualquier otra forma de terminación del servicio fue injustificada, el Estado sólo estará obligado a pagar la indemnización y demás prestaciones a que tenga derecho, sin que en ningún caso proceda su reincorporación al servicio, cualquiera que sea el resultado del juicio o medio de defensa que se hubiere promovido.
+
+Las autoridades estatales y municipales fortalecerán el sistema se seguridad social del personal del Ministerio Público, de las corporaciones policiales y de los servicios periciales, de sus familias y dependientes mediante un sistema complementario de seguridad social y de reconocimientos.
 
 > <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2001)</small>
 
@@ -1345,11 +1321,9 @@ En lo conducente y de conformidad a los fines señalados en el párrafo tercero 
 
 X.- Elaborar las tablas de valores unitarios de suelo y construcciones, y someterlas a la aprobación del Congreso, para que sirvan de base para el cobro de contribuciones sobre la propiedad inmobiliaria; y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2010)</small>
 
-> <small>(REFORMADA, P.O. 26 DE JULIO DE 2010)</small>
-
-XI.- La policía preventiva estará al mando del Presidente Municipal en los términos de la Ley de Seguridad Pública del Estado. Aquélla acatará las órdenes que el Gobernador del Estado le transmita en aquellos casos que éste juzgue como de fuerza mayor o alteración grave del orden público.
+XI.- La Policía Preventiva Municipal estará al mando del Presidente Municipal, en los términos de la Ley del Sistema Estatal de Seguridad Pública del Estado. Aquélla acatará las órdenes que el Gobernador del Estado le transmita en los casos en que éste juzgue como de fuerza mayor o alteración grave del orden público y cuando así se disponga en los convenios o en las normas correspondientes.
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
@@ -1461,7 +1435,7 @@ La Capital del Estado es la ciudad de Aguascalientes, y en ella deben radicar lo
 
 ###### Artículo 84.
 
-Todos los servidores públicos, del Estado y Municipios antes de tomar posesión de sus puestos, protestarán ante quien corresponda, guardar y hacer guardar la Constitución General, la particular del Estado, las leyes emanadas de ambas y desempeñar fielmente sus deberes.
+Todos los servidores públicos, del Estado y Municipios antes de tomar posesión de sus puestos, protestarán ante quien corresponda, guardar y hacer guardar la Constitución General, la particular de Estado, las leyes emanadas de ambas y desempeñar fielmente sus deberes.
 
 > <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
@@ -1481,7 +1455,7 @@ Los servidores públicos de elección popular que sin causa justificada, o sin l
 
 ###### Artículo 87.
 
-Los servidores públicos que entren a ejercer su encargo después del día señalado por esta Constitución o por las Leyes, como principio del período que les corresponde, sólo durarán en sus funciones el tiempo que les faltare para cumplir dicho período.
+Los servidores público que entren a ejercer su encargo después del día señalado por esta Constitución o por las Leyes, como principio del período que les corresponde, sólo durarán en sus funciones el tiempo que les faltare para cumplir dicho período.
 
 > <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
@@ -1511,11 +1485,11 @@ Los recursos económicos de que dispongan el Estado y los Municipios, se adminis
 
 Todos los contratos que el Gobierno tenga que celebrar para la ejecución de obras públicas, serán adjudicados en subasta, mediante convocatoria, para que se presenten proposiciones en sobre cerrado, que será abierto en junta pública; tratándose de proyectos de Prestación de Servicios además se deberá asegurar al Estado o a los Municipios las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes, así como la obtención de mayores beneficios en igualdad de inversión en comparación con las realización del proyecto a través de inversión presupuestaria. La adjudicación directa de Proyectos de Prestación de Servicios, en los casos de excepción que así determine la ley que regule dichos proyectos, deberá ser ratificada por el Congreso del Estado.
 
-> <small>(REFORMADO, P.O. 18 DE JUNIO DE 1978)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 91.
 
-En caso de que desaparecieren los Poderes Ejecutivo y Legislativo, el Supremo Tribunal de Justicia nombrará un Gobernador Provisional. Si desaparecieren todos los Poderes, será Gobernador Provisional el último Presidente del Supremo Tribunal de Justicia, a falta de éste, y por su orden, el último Secretario General de Gobierno, el Presidente de la Comisión Permanente, o bien, quien haya fungido como Presidente de la anterior Legislatura.
+En caso de que desaparecieren los Poderes Ejecutivo y Legislativo, el Supremo Tribunal de Justicia nombrará un Gobernador Provisional. Si desaparecieren todos los Poderes, será Gobernador Provisional el último Presidente del Supremo Tribunal de Justicia, a falta de éste y por su orden, el último Jefe de Gabinete, el Presidente de la Diputación Permanente, o bien, quien haya fungido como Presidente de la anterior legislatura.
 
 > <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
@@ -1575,17 +1549,17 @@ Por tanto, mando se imprima, publique por bando y se circule para los fines cons
 
 Sancionada en Aguascalientes, capital del Estado del mismo nombre, a los seis días del mes de septiembre de mil novecientos diecisiete.- Aurelio L. González.- Lic. A. Delgado, Srio.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
-
-P.O. 25 DE JUNIO DE 1919.
-
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
-
 P.O. 15 DE ENERO DE 1926.
 
 ###### Artículo 2°.
 
 El presente decreto comenzará a surtir sus efectos desde la fecha de su expedición.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 25 DE JUNIO DE 1919.
+
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
 
 P.O. 2 DE MAYO DE 1926.
 
@@ -2284,3 +2258,21 @@ P.O. 29 DE NOVIEMBRE DE 2010.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE DICIEMBRE DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se deja sin efecto el Decreto Número 396, por el que se reforman y adicionan los Artículos 46, Fracción X; 59; 60; 61 y 71, Fracción XI de la Constitución Política del Estado de Aguascalientes, publicado en el Periódico Oficial del Estado en fecha 26 de julio de 2010.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+Para el cumplimiento del presente Decreto el Congreso del Estado llevará a cabo las reformas legales y reglamentarias correspondientes en un plazo de treinta días hábiles, contados a partir de su publicación. En tanto no se expidan dichas reformas, el Congreso del Estado y el Titular del Poder Ejecutivo resolverán de común acuerdo, los aspectos operativos que al efecto se requieran.
