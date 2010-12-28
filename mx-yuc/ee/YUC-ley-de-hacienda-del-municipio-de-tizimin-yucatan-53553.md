@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-del-municipio-de-tizimin-yucatan-53553"
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-28"
-last_updated: "2008-12-27"
+last_updated: "2010-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53553&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "YUC"
 
 LEY DE HACIENDA DEL MUNICIPIO DE TIZIMIN, YUCATAN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 27 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el jueves 28 de diciembre de 2006.
 
@@ -142,7 +142,11 @@ Para los efectos de esta Ley, se entenderá por territorio municipal, el área g
 
 Las personas a que se refiere el artículo 8 anterior, además de las obligaciones especiales contenidas en la presente Ley, deberán cumplir con las siguientes:
 
-I.- Empadronarse en la Dirección de Finanzas y Tesorería, a más tardar treinta días naturales después de la apertura del comercio, negocio o establecimiento, o de la iniciación de actividades, si realizan actividades permanentes con el objeto de obtener la licencia Municipal de funcionamiento;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2010)</small>
+
+I.- Empadronarse en la Dirección de Finanzas y Tesorería a más tardar treinta días naturales después de la apertura del comercio, negocio o establecimiento, o del inicio de actividades si las realizan de manera permanente, con el objeto de obtener la licencia Municipal de funcionamiento;
 
 II.- Recabar de la Dirección de Obras Públicas y Desarrollo Urbano la carta de uso de suelo en donde se determine que el giro del comercio, negocio o establecimiento que se pretende instalar, es compatible con la zona, de conformidad con el Plan de Desarrollo Urbano del Municipio y que cumple además, con lo dispuesto en el Reglamento de Construcciones del propio Municipio;
 
@@ -188,13 +192,21 @@ III.- Los retenedores de impuestos, y
 
 IV.- Los funcionarios, fedatarios y demás personas que señala la presente ley y que en el ejercicio de sus funciones, no cumplan con las obligaciones que las leyes y disposiciones fiscales les imponen exigir, a quienes están obligados a hacerlo, que acrediten que están al corriente en el pago de sus contribuciones o créditos fiscales al Municipio.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 15.
 
-Los contribuyentes deberán efectuar los pagos de sus créditos fiscales municipales, en las cajas recaudadoras de la Dirección de Finanzas y Tesorería o en los lugares que la misma designe para tal efecto; sin aviso previo o requerimiento alguno, salvo en los casos en que las disposiciones legales determinen lo contrario.
+Los contribuyentes deberán efectuar los pagos de sus créditos fiscales municipales, en las cajas recaudadoras de la Dirección de Finanzas y Tesorería, en los lugares que la misma designe para tal efecto, o a través de los medios electrónicos que determine la misma autoridad; sin aviso previo o requerimiento alguno, salvo en los casos en que las disposiciones legales determinen lo contrario.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 16.
 
-Los créditos fiscales que las autoridades determinen y notifiquen, deberán pagarse o garantizarse dentro del término de quince días hábiles contados a partir del siguiente a aquel en que surta sus efectos la notificación, conjuntamente con las multas, recargos y los gastos correspondientes, salvo en los casos en que la ley señale otro plazo y además, deberán hacerse en moneda nacional y de curso legal.
+Los créditos fiscales que las autoridades determinen y notifiquen, deberán pagarse o garantizarse dentro del término de quince días hábiles contados a partir del día siguiente a aquel en que surta efectos la notificación, conjuntamente con las multas, recargos, y los gastos correspondientes, salvo en los casos en que la ley señale otro plazo y además deberán hacerse en moneda nacional y de curso legal, o bien, a través de cheque certificado por institución bancaria, expedido a nombre del "Municipio de Tizimín, Yucatán".
 
 ###### Artículo 17.
 
@@ -238,9 +250,13 @@ Para efectos de la determinación, cálculo y pago de los recargos a que se refi
 
 Ninguna licencia de funcionamiento podrá otorgarse por un plazo que exceda el del ejercicio constitucional del Ayuntamiento.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 24.
 
-Las licencias de funcionamiento serán expedidas por la Dirección de Finanzas y Tesorería. Estarán vigentes desde el día de su otorgamiento hasta el día 31 de diciembre del año en que se soliciten, y deberán ser revalidadas dentro de los primeros dos meses del año siguiente.
+Las licencias de funcionamiento serán expedidas por la Dirección de Finanzas y Tesorería. Estarán vigentes desde el día de su otorgamiento hasta el 31 de diciembre del año en que se soliciten, y deberán ser revalidadas dentro de los dos meses siguientes a la fecha de expiración de su licencia anterior.
 
 ###### Artículo 25.
 
@@ -266,9 +282,13 @@ V.- El recibo de pago del derecho correspondiente en su caso.
 
 VI.- Copia del comprobante de inscripción en el Registro Federal de Contribuyentes.
 
-VII.- Copia del comprobante de su Clave Única de Registro de Población, en su caso.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-VIII.- Autorización de ocupación en los casos previstos en el Reglamento de Construcciones del Municipio de Tizimín.
+VII.- (DEROGADA, D.O. 28 DE DICIEMBRE DE 2010)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+VIII.- (DEROGADA, D.O. 28 DE DICIEMBRE DE 2010)
 
 ###### Artículo 28.
 
@@ -396,7 +416,37 @@ Cuando la base del impuesto predial sea el valor catastral del inmueble, el pago
 
 El impuesto predial sobre la base de valor catastral deberá cubrirse por bimestres anticipados dentro de los primeros quince días de cada uno de los meses de enero, marzo, mayo, julio, septiembre y noviembre de cada año.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO EN TRANSITORIOS, D.O. 28 DE DICIEMBRE DE 2010)</small>
+
 Cuando el contribuyente pague el impuesto predial correspondiente a una anualidad, durante los meses de enero, febrero y marzo de cada año, gozará de un descuento del 10% sobre el importe de dicho impuesto.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O. 28 DE DICIEMBRE DE 2010)</small>
+
+Así mismo, la Dirección de Finanzas y Tesorería podrá establecer programas de estímulo que incentiven el cumplimiento de obligaciones de pago de los contribuyentes del impuesto predial.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O. 28 DE DICIEMBRE DE 2010)</small>
+
+Entre dichos programas se podrá incluir la organización de loterías, sorteos o rifas fiscales con diversos premios, en los que participarán las personas que hayan cumplido con la obligación del pago a que se refiere el presente artículo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O. 28 DE DICIEMBRE DE 2010)</small>
+
+Artículo 38 bis.- Cuando el contribuyente obligado al pago del impuesto predial base valor catastral, sea adulto mayor, la Dirección de Finanzas y Tesorería podrá otorgar un descuento del 50% siempre que el solicitante acredite los siguientes requisitos:
+
+I.- Tener 65 años o más al día 31 de diciembre del año inmediato anterior al de causación del impuesto;
+
+II.- Ser propietario del inmueble por el que solicita el descuento;
+
+III.- No ser propietario de otro inmueble en el Municipio de Tizimín; y
+
+IV.- El valor del inmueble no rebase los mil salarios mínimos generales diarios vigentes en el Estado.
 
 ###### Artículo 39.
 
@@ -608,13 +658,27 @@ b. Clase o Tipo de Diversión o Espectáculo
 
 c. Ubicación del lugar donde se llevará a cabo el evento
 
-II. Cumplir con las disposiciones que para tal efecto fije el cabildo, en el caso de que el Municipio que no cuente con el reglamento respectivo.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2010)</small>
+
+II. Cumplir con las disposiciones que para tal efecto fije el reglamento respectivo.
 
 III. Presentar a la Dirección de Finanzas y Tesorería, cuando menos tres días antes de la realización del evento, la emisión total de los boletos de entrada, señalando el número de boletos que corresponden a cada clase y su precio al público, a fin que se autoricen con el sello respectivo.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, D.O. 28 DE DICIEMBRE DE 2010)</small>
+
+IV. Cubrir el pago respectivo por derecho de recolección de basura por los días en que se presente el espectáculo o diversión pública, a efecto de garantizar la limpieza del sitio en que se presente y sus inmediaciones.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 58.
 
-Los contribuyentes eventuales de este impuesto deberán presentar ante la Dirección de Finanzas y Tesorería, solicitud de permiso en las formas oficiales expedidas por la misma para la celebración del evento, adjuntando los boletos o tarjetas para que sean sellados o foliados, cuando menos con tres días de anticipación a la celebración del evento.
+Los contribuyentes eventuales de este impuesto deberán presentar ante la Dirección de Finanzas y Tesorería, solicitud de permiso para la celebración del evento, en las formas oficiales expedidas por la misma, adjuntando los boletos o tarjetas para que sean sellados o foliados cuando menos con tres días de anticipación al día de inicio de venta de los mismos.
 
 ###### Artículo 59.
 
@@ -707,6 +771,12 @@ VIII.- Los permisos para fraccionamientos serán en función de los metros cuadr
 ###### Artículo 70.
 
 El pago de los derechos a que se refiere esta Sección deberá cubrirse con anticipación al otorgamiento de las licencias o permisos referidos, con excepción de los que en su caso disponga la reglamentación correspondiente.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O. 28 DE DICIEMBRE DE 2010)</small>
+
+Artículo 70 bis.- La Dirección de Finanzas y Tesorería podrá establecer programas de estímulo que incentiven el cumplimiento de la obligación de pago de los contribuyentes por derechos de revalidación de licencias de funcionamiento; entre dichos programas se podrá incluir la organización de loterías, sorteos o rifas fiscales con diversos premios, en los que participarán las personas que hayan cumplido con la obligación del pago a que se refiere el presente artículo, dentro de los dos meses siguientes a la fecha de expiración de su licencia anterior.
 
 ###### Artículo 71.
 
@@ -838,9 +908,13 @@ Por los derechos a que se refiere esta Sección, se pagarán cuotas de acuerdo c
 
 #### Sección Cuarta. Derechos por expedición de Certificados, Constancias, Copias, Fotografías y Formas Oficiales
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 85.
 
-Son objeto de los Derechos por los Servicios de expedición de formas, certificados, constancias, duplicados, copias y fotografías, que se soliciten a las diversas oficinas municipales.
+Son objeto de los derechos de esta sección, la prestación de los servicios de expedición de formas, certificados, constancias duplicados, copias y fotografías que se soliciten a las diversas oficinas municipales diferentes a los señalados en las secciones segunda y décimo primera de este capítulo.
 
 ###### Artículo 86.
 
@@ -1054,25 +1128,41 @@ La cuota a pagar por los derechos a que se refiere la presente Sección, será d
 
 #### Sección Décima Segunda. Derechos por Servicios de Agua Potable
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 125.
 
-Es objeto de este derecho la prestación de los servicios de agua potable a los habitantes del municipio de Tizimín.
+Es objeto de los derechos a que se refiere la presente sección, la prestación de los servicios de agua potable que presta el Ayuntamiento de Tizimín.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 126.
 
-Son sujetos del pago de estos derechos, las personas físicas o morales, propietarios, poseedores por cualquier título, del predio o la construcción objeto de la prestación del servicio, considerándose que el servicio se presta, con la sola existencia de éste en el frente del predio, independientemente que se hagan o no las conexiones al interior del mismo.
+Son sujetos del pago de estos derechos, las personas físicas o morales, propietarios, poseedores por cualquier titulo del predio o la construcción objeto de la prestación del servicio, así como aquellas que soliciten conectar los servicios señalados en esta sección, a una nueva red de suministro que brinde el abasto de agua potable a unidades habitacionales de al menos 3 predios.
 
 ###### Artículo 127.
 
 Son responsables solidarios del pago de estos derechos los Notarios Públicos y demás encargados de llevar la fe pública, que autoricen instrumentos en los que se consigne la enajenación de predios o giros sin que previamente se compruebe con las constancias oficiales correspondientes que se está al corriente del pago de los derechos de agua potable.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 128.
 
-Serán base de este derecho, el consumo en metros cúbicos de agua, en los casos que se haya instalado medidor y, a falta de éste, la cuota establecida en la Ley de Ingresos del Municipio de Tizimín; así como el costo del material utilizado en la instalación de tomas de agua potable.
+Serán base de este derecho el consumo en metros cúbicos de agua, en los casos que se haya instalado medidor y, a falta de este, la cuota establecida en la ley de ingresos del municipio de Tizimín; así como el costo del material utilizado en la instalación de tomas de agua potable y, en su caso, el número de predios de una unidad habitacional que se beneficie con una nueva red de suministro a conectar con la ya existente.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 129.
 
-La cuota de este derecho será la que al efecto determine la ley de Ingresos de cada municipio.
+La cuota de este derecho será la que al efecto determine la Ley de Ingresos del Municipio de Tizimín.
 
 ###### Artículo 130.
 
@@ -1088,9 +1178,13 @@ Los usuarios de este servicio están obligados a permitir que las autoridades fi
 
 ### CAPÍTULO III. Contribuciones Especiales
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 133.
 
-Contribuciones Especiales son las prestaciones que se establecen a cargo de quienes se beneficien específicamente con alguna obra o servicio público efectuado por el Ayuntamiento.
+Contribuciones especiales son las contraprestaciones que se establecen a cargo de quienes se beneficien específicamente con alguna obra o servicio público efectuado por el ayuntamiento.
 
 ###### Artículo 134.
 
@@ -1178,9 +1272,13 @@ El Director de Finanzas y Tesorería previa solicitud por escrito del interesado
 
 ### CAPÍTULO IV. Productos
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 142.
 
-Productos son las contraprestaciones por los servicios que preste el Municipio en sus funciones de derecho privado, así como por el uso, aprovechamiento o enajenación de bienes del dominio privado, que deben pagar las personas físicas y morales de acuerdo con lo previsto en los contratos, convenios o concesiones correspondientes.
+Son productos la (sic) contraprestaciones que recibe el ayuntamiento por los servicios que presta en sus funciones de derecho privado, así como por el uso, aprovechamiento o enajenación de bienes del dominio privado del patrimonio municipal, y en general cualquier ingreso derivado de los bienes muebles e inmuebles propiedad del municipio en su uso distinto a la prestación de un servicio público.
 
 ###### Artículo 143.
 
@@ -1230,13 +1328,25 @@ Los productos que percibirá el Municipio por los daños que sufrieren las vías
 
 ### CAPÍTULO V. Aprovechamientos
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 151.
 
-La Hacienda Pública del Municipio de Tizimín, percibirá ingresos en concepto de Aprovechamientos por funciones de derecho público distintos de las contribuciones; por ingresos derivados de financiamientos; por ingresos que obtenga de organismos descentralizados y empresas de participación municipal; por multas derivadas de infracciones fiscales o administrativas, así como por actualizaciones, recargos y gastos de ejecución de las contribuciones no pagadas en tiempo, y por ingresos derivados del cobro de multas administrativas, impuestas por autoridades federales no fiscales.
+Son aprovechamientos los ingresos que percibe el ayuntamiento por sus funciones de derecho público, distintos de las contribuciones y se conforman por los que obtienen de los organismos descentralizados y las empresas de participación municipal en su caso. Los recargos, las multas, las indemnizaciones y los gastos de ejecución derivados de los aprovechamientos son accesorios de estos y participan de su naturaleza.
 
 ###### Artículo 152.
 
 Las multas impuestas por el Ayuntamiento por infracciones a los reglamentos administrativos, tendrán el carácter de aprovechamientos y se turnarán a la Dirección de Finanzas y Tesorería para su cobro. Cuando estas multas no fueren cubiertas dentro del plazo señalado serán cobradas mediante el procedimiento administrativo de ejecución.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O. 28 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 152 Bis.
+
+Los recargos, actualizaciones, multas, indemnizaciones y los gastos de ejecución forman parte de los aprovechamientos y se calcularán de conformidad con lo establecido en la presente Ley, el Código Fiscal del Estado de Yucatán y el Código Fiscal de la Federación.
 
 ###### Artículo 153.
 
@@ -1264,21 +1374,37 @@ X.- Derechos por el Otorgamiento de la Concesión y por el Uso o Goce de la Zona
 
 ### CAPÍTULO VI. Participaciones y Aportaciones
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 154.
 
-La Hacienda Pública del Municipio de Tizimín, podrá percibir ingresos en concepto de Participaciones y Aportaciones, conforme a lo establecido en las leyes respectivas.
+Son participaciones las cantidades que el municipio tiene derecho a percibir de los ingresos federales conforme a lo dispuesto en la Ley de Coordinación Fiscal, el Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal, y sus Anexos, el Convenio de Colaboración Administrativa en Materia Fiscal o cualesquiera otros convenios que se suscribiesen para tal efecto; así como aquellas cantidades que tiene derecho a percibir de los ingresos estatales conforme a la Ley de Coordinación Fiscal del Estado de Yucatán, y aquellas que se designen con este carácter por el Congreso del Estado a favor del Municipio.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O. 28 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 154 Bis.
+
+Las aportaciones son los recursos que la federación transfiere a las haciendas públicas de los estados y en su caso, al municipio, condicionando su gasto a la consecución y cumplimiento de los objetivos que para cada tipo de recurso establece la Ley de Coordinación Fiscal.
 
 ### CAPÍTULO VII. Ingresos Extraordinarios
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 155.
 
-La Hacienda Pública del Municipio de Tizimín, podrá percibir ingresos extraordinarios por los siguientes conceptos:
+Son ingresos extraordinarios los recursos que puede percibir la hacienda pública municipal, distintos de los anteriores, por los conceptos siguientes:
 
-I.- Empréstitos aprobados por el Cabildo;
+I.- Los empréstitos que se obtengan cumpliendo con las disposiciones de ley;
 
-II.- Subsidios;
+II.- Los recibidos del Estado y la federación por conceptos diferentes a participaciones, y aportaciones;
 
-III.- Los que reciba de la Federación o del Estado, por conceptos diferentes a Participaciones o Aportaciones.
+III.- Otros ingresos no especificados, entre ellos la recuperación de créditos otorgados o pagos realizados en ejercicios anteriores.
 
 ## TÍTULO TERCERO. INFRACCIONES Y MULTAS
 
@@ -1467,3 +1593,35 @@ D.O. 27 DE DICIEMBRE DE 2008.
 ###### ARTÍCULO ÚNICO.
 
 Este Decreto entrará en vigor al día siguiente a su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 28 DE DICIEMBRE DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+Para el ejercicio fiscal 2011, en vez de aplicar lo dispuesto en el segundo párrafo del artículo 38, los descuentos se otorgarán de conformidad con la siguiente tabla:
+
+Fecha en que se paga el equivalente Factor de descuento
+
+a una anualidad sobre el impuesto
+
+causado.
+
+Del 01 de Enero al 15 de Febrero 15%
+
+Del 16 de Febrero al 31 de Marzo 10%
+
+Para estos efectos, los contribuyentes que paguen el importe correspondiente a una anualidad en el mes de marzo no pagarán actualización y recargos sobre el impuesto correspondiente a los meses de enero y febrero del año de 2011.
+
+###### ARTÍCULO SEGUNDO.
+
+Para efectos de lo dispuesto en el artículo 57 fracción II; en tanto se modifica el reglamento de espectáculos, se estará a lo dispuesto por el H. Cabildo.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones de los reglamentos municipales que se opongan a la presente Ley.
+
+TRANSITORIO:
+
+###### ARTÍCULO ÚNICO.
+
+Este decreto entrará en vigor el día 1 de enero del año 2011, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
