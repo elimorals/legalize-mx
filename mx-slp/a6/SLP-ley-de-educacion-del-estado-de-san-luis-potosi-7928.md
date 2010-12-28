@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-educacion-del-estado-de-san-luis-potosi-7928"
 country: "mx"
 rank: "ley"
 publication_date: "1995-06-16"
-last_updated: "2010-11-18"
+last_updated: "2010-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE EDUCACION DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE NOVIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2010.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de San Luis Potosí, el viernes 16 de junio de 1995.
 
@@ -97,9 +97,11 @@ Los servicios educativos que el Gobierno del Estado imparta serán gratuitos. La
 
 La educación que el Gobierno del Estado imparta será laica y por tanto se mantendrá por completo ajena a cualquier doctrina religiosa.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 9º.
 
-La educación que el Gobierno del Estado y los municipios impartan; los organismos descentralizados y los particulares con autorización o reconocimiento de validez oficial de estudios tendrá los siguientes fines:
+La educación que el Gobierno del Estado y los municipios impartan; los organismos descentralizados y los particulares con autorización reconocimiento de validez oficial de estudios tendrá, además de los fines establecidos en el párrafo segundo del artículo 3° de la Constitución Política de los Estados Unidos Mexicanos, los siguientes:
 
 I.- Contribuir al desarrollo integral del individuo, para que ejerza plenamente sus capacidades humanas;
 
@@ -107,15 +109,17 @@ II.- Favorecer el desarrollo de facultades para adquirir conocimientos, así com
 
 III.- Fortalecer la conciencia de la nacionalidad y de la soberanía, el aprecio por la historia, por los símbolos patrios y por las instituciones nacionales, así como la valoración de las tradiciones y particularidades culturales de las diversas regiones del país y de la entidad;
 
-> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2010)</small>
 
-IV.- Promover mediante la enseñanza de la lengua nacional -el español-, un idioma común para todos los mexicanos, así como proteger y promover el desarrollo de las lenguas indígenas, a través de la educación bilingüe e intercultural;
+IV.- Promover mediante la enseñanza de la lengua nacional -el español-, un idioma común para todos los mexicanos, así como proteger y promover el desarrollo de las lenguas indígenas, a través de la educación bilingüe e intercultural.
+
+Los hablantes de lenguas indígenas tendrán acceso a la educación obligatoria en su propia lengua, y el español;
 
 V.- Infundir el conocimiento y práctica de la democracia como la forma de gobierno y convivencia que permite a todos participar en la toma de decisiones para el mejoramiento de la sociedad;
 
-> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2010)</small>
 
-VI.- Promover el valor de la justicia, de la observancia de la ley, y de la igualdad de los individuos ante ésta; de la equidad de género; y de la riqueza multicultural y pluriétnica de la nación; así como propiciar el conocimiento de los derechos humanos, y el respeto a los mismos;
+VI.- Promover el valor de la justicia, de la observancia de la ley, y de la igualdad de los individuos ante ésta; el desarrollo de una cultura por la paz y la no violencia en cualquier tipo de sus manifestaciones; de la equidad de género; y de la riqueza multicultural y pluriétnica de la nación; así como propiciar el conocimiento de los derechos humanos, y el respeto a los mismos;
 
 VII.- Fomentar actitudes que estimulen la investigación y la innovación científica y tecnológica;
 
@@ -125,7 +129,9 @@ IX.- Estimular la educación física y la práctica del deporte, así como fomen
 
 X.- Desarrollar actitudes solidarias en los individuos, para crear conciencia sobre la preservación de la salud, la planeación familiar, la paternidad responsable y el valor de la convivencia; sin menoscabo de la libertad y del respeto absoluto a la moral y a la dignidad humana;
 
-XI.- Contribuir a la formación e impulso de una cultura ecológica creando conciencia de la relación naturaleza-hombre;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2010)</small>
+
+XI.- Inculcar los conceptos y principios fundamentales de la ciencia ambiental, el desarrollo sustentable, así como de la valoración de la protección y conservación del ambiente, como elementos esenciales para el desenvolvimiento armónico e integral del individuo y la sociedad;
 
 > <small>(REFORMADA, P.O. 4 DE JULIO DE 2009)</small>
 
@@ -135,17 +141,31 @@ XII.- Fomentar actitudes solidarias y positivas hacia el trabajo, la productivid
 
 XIII.- Propiciar el rechazo a los vicios;
 
-> <small>(REFORMADA, P.O. 30 DE ENERO DE 2010)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2010)</small>
 
-XIV.- Llevar, en coordinación con las diversas autoridades de la Entidad, programas permanentes de educación y seguridad vial, necesarios para la prevención de accidentes, y
+XIV.- Coordinar con las diversas autoridades de la Entidad, programas permanentes de educación y seguridad vial, necesarios para la prevención de accidentes;
 
-> <small>(ADICIONADA, P.O. 30 DE ENERO DE 2010)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2010)</small>
 
-XV.- Fomentar la cultura de la transparencia y la rendición de cuentas, así como el conocimiento en los educandos de su derecho al acceso a la información pública gubernamental, y de las mejores prácticas para ejercerlo.
+XV.- Fomentar la cultura de la transparencia y la rendición de cuentas, así como el conocimiento en los educandos de su derecho al acceso a la información pública gubernamental y de las mejores prácticas para ejercerlo;
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2010)</small>
+
+XVI.- Fomentar los valores y principios del cooperativismo;
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2010)</small>
+
+XVII.- Promover y fomentar la lectura y el libro, con el propósito de fortalecer la vida cultural de niños, jóvenes y adultos, y
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2010)</small>
+
+XVIII.- Difundir los derechos y deberes de niños, niñas y adolescentes, así como las formas de protección con que cuentan para ejercitarlos.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 10.
 
-El criterio que orientará a la educación que el Gobierno del Estado, municipios, organismos descentralizados, órganos desconcentrados y la que los particulares con autorización o reconocimiento de validez oficial de estudios que impartan, se basará en los resultados del progreso científico, luchará contra la ignorancia y sus efectos, las servidumbres, los fanatismos y los prejuicios; además:
+La educación -preescolar, primaria, secundaria, normal y demás para la formación de maestros de educación básica- que impartan el Gobierno del Estado, municipios, organismos descentralizados, órganos desconcentrados y los particulares con autorización o reconocimiento de validez oficial de estudios, estará orientada por un criterio que se basará en los resultados del progreso científico, luchará contra la ignorancia, sus causas y efectos, las servidumbres, los fanatismos, los prejuicios, la formación de estereotipos, la discriminación y la violencia, especialmente la que se ejerce contra las mujeres, niñas y niños, debiendo instrumentar políticas públicas orientadas a la transversalidad de criterios en los órdenes de gobierno estatal· y municipal; además:
 
 I.- Será democrático, considerando a la democracia no solamente como una estructura jurídica y un régimen político, sino como un sistema de vida fundado en el constante mejoramiento económico, social y cultural del pueblo;
 
@@ -1586,6 +1606,12 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
 
 P.O. 18 DE NOVIEMBRE DE 2010.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 18 DE DICIEMBRE DE 2010.
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
