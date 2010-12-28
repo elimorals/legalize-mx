@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-5752
 country: "mx"
 rank: "ley"
 publication_date: "2007-10-18"
-last_updated: "2008-06-06"
+last_updated: "2010-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57526&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE JUNIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2010.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 18 de octubre de 2007.
 
@@ -129,37 +129,75 @@ VIII. Constitución: Constitución Política del Estado Libre y Soberano de San 
 
 IX. Comité de información: órgano colegiado que se integrará en cada una de las entidades públicas, para resolver sobre la información que deberá clasificarse como reservada y confidencial;
 
-X. Derecho de acceso a la información pública: prerrogativa de las personas para acceder a la información pública en posesión de los entes obligados, en los términos de esta Ley;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2010)</small>
 
-XI. Documento: oficios, acuerdos, correspondencia, directivas, circulares, minutas, expedientes, reportes, estudios, contratos, actas, convenios, resoluciones, instructivos, memorandos, notas, estadísticas, sondeos, encuestas, expresiones y representaciones materiales que den constancia de un hecho o acto del pasado o del presente, de las entidades y servidores públicos en el ejercicio de sus funciones; o cualquier otro registro que documente la existencia y actividades de los entes obligados, sin excepción de su fuente, tipo o fecha de elaboración. Los documentos pueden ser papeles escritos, o en cualquier medio o formato impreso, sonoro, electrónico, fotográfico, gráfico, visual, holográfico, electrónico o digital;
+X. Datos personales: toda información sobre una persona física identificada o identificable, como lo es la relativa a su origen étnico o racial, características físicas, morales o emocionales, a su vida afectiva y familiar, domicilio, número telefónico, correo electrónico, patrimonio, ideología y opiniones políticas, afiliación sindical, creencias o convicciones religiosas o filosóficas, los estados de salud físicos o mentales, información genética, preferencia sexual, y otras análogas que afecten su intimidad.
 
-XII. Entes obligados: los poderes del Estado, los ayuntamientos, los organismos constitucionales autónomos, los tribunales administrativos, las dependencias y entidades que conforman la administración pública centralizada y descentralizada del Estado y los municipios, los partidos y agrupaciones políticas con registro o inscripción estatal y, en general, cualquier persona física o moral, pública o privada, que recaude, administre, maneje o ejerza recursos públicos, o que tenga concesionada la explotación de bienes del dominio público o la prestación de un servicio público; así como las personas de derecho público y privado, cuando en el ejercicio de sus actividades actúen en auxilio de los órganos antes citados, reciban subsidio o subvención pública; o manejen fondos integrados por financiamiento, aportaciones y subvenciones privadas nacionales e internacionales destinadas a financiar actividades relacionadas con la función pública;
+Se considerará identificable toda persona cuya identidad pueda determinarse, directa o indirectamente, en particular mediante un número de identificación o uno o varios elementos específicos, característicos de su identidad física, fisiológica, psíquica, económica, cultural o social;
 
-XIII. Entidades públicas: los poderes del Estado, los municipios, sus dependencias y entidades, y los organismos constitucionales autónomos;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2010)</small>
 
-XIV. Indicadores de gestión: los parámetros que permiten medir y evaluar el desempeño de la entidad pública, frente a sus objetivos, actividades, metas, estrategias y responsabilidades;
+XI. Derecho de acceso a la información pública: prerrogativa de las personas para acceder a la información pública en posesión de los entes obligados, en los términos de esta Ley;
 
-XV. Información confidencial: es la que contiene datos personales relativos a las características físicas, morales o emocionales, origen étnico o racial, domicilio, vida familiar, privada, íntima y afectiva, patrimonio, número telefónico, correo electrónico, ideología, opiniones políticas, preferencias sexuales, salud y expediente médico, y toda aquella información susceptible de ser tutelada por los derechos humanos a la privacidad, intimidad, honor y dignidad, que se encuentra en posesión de alguno de los entes obligados y sobre la que no puede realizarse ningún acto o hecho, sin la autorización debida de los titulares o sus representantes legales;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2010)</small>
 
-XVI. Información reservada: aquélla clasificada con carácter temporal como restringida al acceso del público;
+XII. Documento: oficios, acuerdos, correspondencia, directivas, circulares, minutas, expedientes, reportes, estudios, contratos, actas, convenios, resoluciones, instructivos, memorandos, notas, estadísticas, sondeos, encuestas, expresiones y representaciones materiales que den constancia de un hecho o acto del pasado o del presente, de las entidades y servidores públicos en el ejercicio de sus funciones; o cualquier otro registro que documente la existencia y actividades de los entes obligados, sin excepción de su fuente, tipo o fecha de elaboración. Los documentos pueden ser papeles escritos, o en cualquier medio o formato impreso, sonoro, electrónico, fotográfico, gráfico, visual, holográfico, electrónico o digital;
 
-XVII. Información pública: la información creada, administrada o en posesión de los sujetos obligados, exceptuando la clasificada como reservada o confidencial;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2010)</small>
 
-XVIII. Información pública de oficio: la información que las entidades y servidores públicos están obligados a difundir de manera obligatoria, permanente y actualizada, sin que medie para ello, solicitud de acceso;
+XIII. Entes o sujetos obligados: los poderes del Estado, los ayuntamientos, los organismos constitucionales autónomos, los tribunales administrativos, las dependencias y entidades que conforman la administración pública centralizada y descentralizada del Estado y los municipios, los partidos y agrupaciones políticas con registro o inscripción estatal y, en general, cualquier persona física o moral, pública o privada, que recaude, administre, maneje o ejerza recursos públicos, o que tenga concesionada la explotación de bienes del dominio público o la prestación de un servicio público; así como las personas de derecho público y privado, cuando en el ejercicio de sus actividades actúen en auxilio de los órganos antes citados, reciban subsidio o subvención pública; o manejen fondos integrados por financiamiento, aportaciones y subvenciones privadas nacionales e internacionales destinadas a financiar actividades relacionadas con la función pública;
 
-XIX. Interés público: valoración positiva que se asigna a determinada información, con el objeto de que sea conocida por el público, para que puedan formarse opiniones o tomar decisiones, con énfasis en el interés general, respeto a la legalidad y a los valores de la democracia;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2010)</small>
 
-XX. Protección de datos personales: tutela de los datos personales en ejercicio del derecho a la privacidad de las personas;
+XIV. Entidades públicas: los poderes del Estado, los municipios, sus dependencias y entidades, y los organismos constitucionales autónomos;
 
-XXI. Prueba de daño: la expresión de las razones lógico-jurídicas que acrediten que el daño que pueda producirse, con la liberación de información pública catalogada como reservada, es mayor que el interés público de conocer la información de referencia;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2010)</small>
 
-XXII. Servidores públicos: las personas a las que el artículo 24 de la Constitución Política del Estado, la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios, y las demás leyes, les otorguen ese carácter;
+XV. Indicadores de gestión: los parámetros que permiten medir y evaluar el desempeño de la entidad pública, frente a sus objetivos, actividades, metas, estrategias y responsabilidades;
 
-XXIII. Solicitante: cualquier persona física o moral que solicite, requiera o peticione a los entes obligados, información pública;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2010)</small>
 
-XXIV. Unidad de información pública: las unidades administrativas de cada una de las entidades públicas, responsables de atender las solicitudes de acceso a la información pública, y
+XVI. Información confidencial: es la que contiene datos personales relativos a las características físicas, morales o emocionales, origen étnico o racial, domicilio, vida familiar, privada, íntima y afectiva, patrimonio, número telefónico, correo electrónico, ideología, opiniones políticas, preferencias sexuales, salud y expediente médico, y toda aquella información susceptible de ser tutelada por los derechos humanos a la privacidad, intimidad, honor y dignidad, que se encuentra en posesión de alguno de los entes obligados y sobre la que no puede realizarse ningún acto o hecho, sin la autorización debida de los titulares o sus representantes legales;
 
-XXV. Versión pública: documento elaborado por el ente obligado, que contiene información pública, sin que aparezca la clasificada como reservada o confidencial.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2010)</small>
+
+XVII. Información reservada: aquélla clasificada con carácter temporal como restringida al acceso del público;
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2010)</small>
+
+XVIII. Información pública: la información creada, administrada o en posesión de los sujetos obligados, exceptuando la clasificada como reservada o confidencial;
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2010)</small>
+
+XIX. Información pública de oficio: la información que las entidades y servidores públicos están obligados a difundir de manera obligatoria, permanente y actualizada, sin que medie para ello, solicitud de acceso;
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2010)</small>
+
+XX. Interés público: valoración positiva que se asigna a determinada información, con el objeto de que sea conocida por el público, para que puedan formarse opiniones o tomar decisiones, con énfasis en el interés general, respeto a la legalidad y a los valores de la democracia;
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2010)</small>
+
+XXI. Protección de datos personales: tutela de los datos personales en ejercicio del derecho a la privacidad de las personas;
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2010)</small>
+
+XXII. Prueba de daño: la expresión de las razones lógico-jurídicas que acrediten que el daño que pueda producirse, con la liberación de información pública catalogada como reservada, es mayor que el interés público de conocer la información de referencia;
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2010)</small>
+
+XXIII. Servidores públicos: las personas a las que el artículo 124 de la Constitución Política del Estado; la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios; y las demás leyes, les otorguen ese carácter;
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2010)</small>
+
+XXIV. Solicitante: cualquier persona física o moral que solicite, requiera o peticione a los entes obligados, información pública;
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2010)</small>
+
+XXV. Unidad de información pública: las unidades administrativas de cada una de las entidades públicas, responsables de atender las solicitudes de acceso a la información pública, y
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2010)</small>
+
+XXVI. Versión pública: documento elaborado por el ente obligado, que contiene información pública, sin que aparezca la clasificada como reservada o confidencial.
 
 ###### ARTICULO 4º.
 
@@ -361,7 +399,9 @@ Además de la señalada en el artículo 18 de esta Ley, las entidades públicas 
 
 I. La creación, fusión, modificación o extinción de las áreas de apoyo administrativo de los poderes del Estado;
 
-II. La estructura orgánica, normatividad, nombramientos y funciones que realiza cada dependencia y unidad administrativa;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2010)</small>
+
+II. La estructura orgánica, normatividad, nombramientos, funciones que realiza cada dependencia y unidad administrativa, perfil de puestos y plazas conforme a lo prescrito por la normatividad de la materia, así como versión pública del currículum vítae de sus funcionarios;
 
 III. El directorio de servidores públicos con referencia a su nombramiento oficial, tabulador, sueldos, salarios, remuneraciones mensuales por puesto, viáticos, viajes, gastos de representación, así como cualquier percepción o remuneración que reciban los servidores en ejercicio de sus funciones; en este caso no se podrá apelar al derecho de protección de datos personales;
 
@@ -461,9 +501,9 @@ X. Las demás que establezcan su Ley Orgánica y demás disposiciones aplicables
 
 Además de la señalada en los artículos 18 y 19 de esta Ley, el Poder Ejecutivo deberá poner a disposición del público, de oficio, y en forma completa y actualizada, la siguiente información:
 
-I. El Plan Estatal de Desarrollo, los programas operativos anuales sectoriales y las modificaciones que a los mismos se propongan, y
+I. El Plan Estatal de Desarrollo, los programas operativos anuales sectoriales y las modificaciones que a los mismos se propongan, y (sic)
 
-II. La información de los padrones de beneficiarios de los programas sociales aplicados por el Estado, así como, la información sobre el diseño, montos, acceso, ejecución y beneficiarios de los programas de subsidio.
+II. (DEROGADA, P.O. 28 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 23.
 
@@ -857,6 +897,10 @@ La unidad de información pública será la encargada de realizar las gestiones 
 
 En el caso de que la respuesta a la solicitud sea negativa por cualquiera de las razones previstas en la Ley, la unidad de información pública deberá comunicarlo al solicitante, dentro del mismo plazo a que se refiere el párrafo anterior.
 
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2010)</small>
+
+Los entes obligados, al otorgar respuesta a una solicitud de acceso a la información, con independencia de su sentido, harán del conocimiento del solicitante sobre el medio de defensa que le asiste para inconformarse, así como el plazo para su interposición, conforme a lo establecido por los artículos 98 y 99 de esta Ley.
+
 ###### ARTICULO 74.
 
 Contra los actos o resoluciones que de cualquier forma no satisfagan las solicitudes de información, sólo procede la queja que se interpondrá ante la CEGAIP.
@@ -869,17 +913,21 @@ Si transcurridos diez días hábiles de presentada la solicitud de información,
 
 Las unidades de información pública de cada entidad sólo estarán obligadas a entregar documentos que se encuentren en sus archivos. De no estar en sus archivos, las unidades deberán justificar la inexistencia o pérdida de la información solicitada. La obligación de acceso se cumplirá cuando el solicitante tenga a su disposición las copias simples, certificadas o cualquier otro soporte técnico, en el que se encuentre contenida la información solicitada, o cuando realice la consulta de la información en el lugar en el que ésta se encuentre. Cuando la información solicitada ya esté disponible para consulta, se le hará saber por escrito al solicitante, el lugar donde puede consultarla y las formas para reproducir o adquirir dicha información. Una vez entregada la información, el solicitante acusará recibo por escrito en el formato que le proporcione la unidad.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 77.
 
-En caso de que la entidad pública no localice la información solicitada, la CEGAIP podrá ordenar la búsqueda exhaustiva de esa información, confirmar la pérdida o inexistencia de los documentos que la contienen y, si lo considera pertinente, hacer la denuncia correspondiente, para determinar si se cometió algún delito.
+En el caso de que la información solicitada no se encuentre en los archivos de la unidad de información pública, ésta deberá remitir la solicitud al comité de información, con copia al interesado, con el objeto de que el comité tome las medidas necesarias para localizar la información en la entidad pública de que se trate. En caso de no localizarse la información solicitada, el comité de información dará parte a la CEGAIP para que resuelva en definitiva.
 
 ###### ARTICULO 78.
 
 Las unidades administrativas podrán entregar documentos que contengan información reservada o confidencial, únicamente cuando los documentos en que conste la información, permitan eliminar las partes o secciones clasificadas.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 79.
 
-En el caso de que la información solicitada no se encuentre en los archivos de la unidad de información pública, ésta deberá remitir la solicitud al comité de información, con copia al interesado, con el objeto de que el comité tome las medidas necesarias, para localizar la información en la entidad pública de que se trate. En caso de no localizarse la información solicitada, el comité de información dará parte a la CEGAIP, para que resuelva en definitiva.
+En caso de que la entidad pública no localice la información solicitada, la CEGAIP podrá ordenar la búsqueda exhaustiva de esa información, confirmar la pérdida o inexistencia de los documentos que la contienen y, si lo considera pertinente, hacer la denuncia correspondiente para determinar si se cometió algún delito.
 
 ###### ARTICULO 80.
 
@@ -893,7 +941,9 @@ Todas las solicitudes de acceso a la información con sus respectivas respuestas
 
 La Comisión Estatal de Garantía de Acceso a la Información Pública, es el órgano de autoridad, promoción, difusión e investigación, sobre el derecho de acceso a la información pública del Estado; autónomo en términos de lo dispuesto en la Constitución.
 
-La CEGAIP manejará autónomamente su presupuesto, y remitirá con oportunidad al Ejecutivo su proyecto de presupuesto anual, para que éste lo incluya en el Presupuesto de Egresos del Estado, que presente al Congreso Local.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2010)</small>
+
+La CEGAIP manejará autónomamente su presupuesto, el que deberá elaborar integrando los tabuladores desglosados de las remuneraciones que se propone perciban sus servidores públicos, sujetándose a las bases previstas en el artículo 127 de la Constitución Política de los Estados Unidos Mexicanos; debiendo remitir con oportunidad al Ejecutivo su proyecto de presupuesto anual, para que éste lo incluya en el Presupuesto de Egresos del Estado, que presenta al Congreso Local.
 
 ###### ARTICULO 82.
 
@@ -1145,6 +1195,10 @@ II. Confirmar el acto o resolución impugnado, o
 
 III. Revocar o modificar el acto o resolución impugnado, y ordenar al ente obligado que permita al particular el acceso a la información solicitada, o a los datos personales; que reclasifique la información, que modifique tales datos, o bien, señalar los términos precisos en que deberá emitirse un nuevo acto o resolución.
 
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2010)</small>
+
+Cuando exista causa que lo justifique, por acuerdo del Pleno de la CEGAIP, el que deberá estar fundado y motivado, podrá ampliar por una vez y hasta por un periodo igual, el plazo a que se refiere este artículo.
+
 ###### ARTICULO 106.
 
 El cumplimiento perentorio de las solicitudes de información no exime al ente público, o al servidor público de que se trate, de la responsabilidad en que hubiese incurrido de acuerdo con la presente Ley y con la legislación de responsabilidades de los servidores públicos del Estado.
@@ -1352,3 +1406,29 @@ P.O. 6 DE JUNIO DE 2008.
 PRIMERO. Este Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 28 DE DICIEMBRE DE 2010.
+
+DECRETO NUMERO 406, POR EL QUE SE REFORMA EL ARTICULO, 3° EN SUS FRACCIONES X A XXV, 19 EN SU FRACCION II, 77 Y 79; SE ADICIONA AL ARTICULO 3° LA FRACCION XXVI, Y AL 73 EL PARRAFO TERCERO; Y DEROGA EN EL ARTICULO 22 LA FRACCION II, DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE SAN LUIS POTOSI.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 28 DE DICIEMBRE DE 2010.
+
+DECRETO NUMERO 407, POR EL QUE SE ADICIONA PARRAFO ULTIMO AL ARTICULO 105 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE SAN LUIS POTOSI.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 28 DE DICIEMBRE DE 2010.
+
+DECRETO NUMERO 408, POR EL QUE SE REFORMA EL ARTICULO 81 EN SU PARRAFO SEGUNDO DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE SAN LUIS POTOSI.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Las remuneraciones que en el ejercicio dos mil diez sean superiores a la máxima establecida en la ley de la materia, deberán ser ajustadas o disminuidas en el presupuesto de egresos correspondiente al ejercicio fiscal del año dos mil once.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
