@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "2010-11-29"
+last_updated: "2010-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,27 +21,43 @@ state: "AGU"
 ---
 # CONSTITUCION POLITICA DEL ESTADO DE AGUASCALIENTES
 
-CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
+ACUERDO POR EL QUE SE AUTORIZA LA CREACIÓN DEL COMITÉ DE EVALUACIÓN Y SEGUIMIENTO DE LAS MEDIDAS DE RACIONALIDAD Y AUSTERIDAD, ASÍ COMO DE LAS REGLAS DE SU INTEGRACIÓN Y FUNCIONAMIENTO
 
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 1, PUBLICADO EN EL P.O. 13 DE DICIEMBRE DE 1992, TODO ORDENAMIENTO Y DEMÁS ESCRITOS QUE REFIERAN LA DENOMINACIÓN "TESORERÍA GENERAL" O "TESORERO GENERAL", EN LO SUCESIVO SERÁN "SECRETARÍA DE FINANZAS" O "SECRETARIO DE FINANZAS", SEGÚN CORRESPONDA.</small>
+TEXTO ORIGINAL.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2010.
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 7 DE MARZO DE 2022.]</small>
 
-Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
+Acuerdo publicado en el Diario Oficial de la Federación, el viernes 4 de febrero de 2022.
 
-AURELIO L. GONZALEZ, Gobernador Constitucional del Estado libre y soberano de Aguascalientes, a sus habitantes, sabed:
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Tribunal Electoral del Poder Judicial de la Federación.
 
-Que por el Congreso del Estado se me ha comunicado lo siguiente:
+ACUERDO POR EL QUE SE AUTORIZA LA CREACIÓN DEL COMITÉ DE EVALUACIÓN Y SEGUIMIENTO DE LAS MEDIDAS DE RACIONALIDAD Y AUSTERIDAD, ASÍ COMO DE LAS REGLAS DE SU INTEGRACIÓN Y FUNCIONAMIENTO.
 
-El Congreso Constituyente del Estado libre y soberano de Aguascalientes, en uso de sus facultades, previos los requisitos señalados en el artículo 1° del decreto de fecha 8 de mayo del año en curso, reforma en los siguientes términos la Constitución Política del Estado, expedida el 18 de octubre de 1868.
+ANTECEDENTES
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
+PRIMERO. Por decretos publicados en el Diario Oficial de la Federación del treinta y uno de diciembre de mil novecientos noventa y cuatro, veintidós de agosto de mil novecientos noventa y seis, once de junio de mil novecientos noventa y nueve y trece de noviembre de dos mil siete, se reformaron, entre otros, los artículos 94, 99 y 100 de la Constitución Política de los Estados Unidos Mexicanos, que modificaron la estructura y competencia del Poder Judicial de la Federación.
+
+SEGUNDO. El artículo 186 de la Ley Orgánica del Poder Judicial de la Federación establece que la administración, vigilancia, disciplina y carrera judicial del Tribunal Electoral, estarán a cargo de la Comisión de Administración. El propio ordenamiento, en su numeral 190, fracciones III, IV y XXV faculta a dicho órgano para ejercer el presupuesto de egresos del citado Tribunal y expedir las normas en materia administrativa y establecer los criterios para modernizar las estructuras orgánicas, los sistemas y procedimientos administrativos internos; así como los servicios al público.
+
+TERCERO. El ejercicio y la administración de los recursos públicos federales a disposición de los Poderes de la Unión, debe realizarse con base en criterios de legalidad, honestidad, austeridad, economía, racionalidad, eficacia, eficiencia, control, rendición de cuentas, transparencia y equidad de género.
+
+CUARTO. Que la autonomía e independencia judicial constituyen características esenciales de la función judicial y se integran por los principios básicos de permanencia, estabilidad en el ejercicio del cargo, seguridad económica y la consagración de la carrera judicial, que a su vez favorecen que los jueces emitan sus decisiones con plena imparcialidad y en estricto apego a la normativa aplicable al caso, sin acatar o someterse a indicaciones, instrucciones, sugerencias, o insinuaciones de carácter externo o, incluso, de otros poderes del estado.
+
+QUINTO. El diecinueve de noviembre de dos mil diecinueve fue publicada en el Diario Oficial de la Federación la Ley Federal de Austeridad Republicana, cuyo artículo primero establece que el Poder Judicial de la Federación deberá tomar las acciones necesarias para implementar los parámetros en materia de austeridad referidos al ejercicio del gasto público federal y contribuir a que los recursos económicos de los que se dispongan se administren conforme a los citados principios constitucionales.
+
+SEXTO. Con fecha quince de febrero de dos mil veintiuno, la Suprema Corte de Justicia de la Nación, el Consejo de la Judicatura Federal y el Tribunal Electoral del Poder Judicial de la Federación emitieron el Acuerdo General del Comité Coordinador para Homologar Criterios en Materia Administrativa e Interinstitucional del Poder Judicial de la Federación, que establece las medidas de racionalidad, austeridad, disciplina presupuestal y modernización de la gestión del PJF para el ejercicio fiscal dos mil veintiuno, publicado en el Diario Oficial de la Federación del veintiséis de febrero de 2021, el cual tiene por objeto establecer las medidas de contención del gasto, basadas en principios de racionalidad, austeridad, disciplina presupuestal y modernización de la gestión, para el ejercicio fiscal dos mil veintiuno en el Poder Judicial de la Federación, como órgano responsable de promover y evaluar las políticas y medidas de austeridad republicana, la Ley Federal de Austeridad Republicana en su artículo 27 dispuso la conformación de un Comité de Evaluación.
+
+SÉPTIMO. En sesión celebrada el tres de mayo de dos mil veintiuno, el Comité Interinstitucional de Coordinación y Modernización Administrativa del Poder Judicial de la Federación, acordó que cada órgano del Poder Judicial de la Federación presente a sus instancias correspondientes, un diagnóstico sobre las medidas a aplicar en materia de austeridad republicana, así como la integración de un Comité de Evaluación, encargado de promover, evaluar y dar seguimiento, a través de los indicadores que cada órgano determine.
+
+OCTAVO. En consecuencia, para apoyar la ejecución de políticas de austeridad republicana en el Tribunal Electoral del Poder Judicial de la Federación, así como continuar con la promoción de medidas que permitan generar ahorros para apoyar actividades prioritarias, se estima conveniente la creación de un órgano colegiado que evalúe y dé seguimiento a tales políticas y medidas en el ámbito interno de este Alto Tribunal.
+
+Por lo anteriormente expuesto y con fundamento en las disposiciones jurídicas señaladas, se expide el siguiente:
+
+ACUERDO
+
+DISPOSICIONES GENERALES
 
 ### CAPITULO PRIMERO
-
-Declaraciones.
-
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
 ###### Artículo 1o.
 
@@ -109,63 +125,53 @@ Todas las Autoridades, dentro de la esfera de sus atribuciones, velarán por la 
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
-### CAPITULO SEGUNDO
-
-De la forma de Gobierno.
-
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
+### CAPÍTULO SEGUNDO. DEL OBJETO E INTEGRACIÓN DEL COMITÉ DE EVALUACIÓN Y SEGUIMIENTO
 
 ###### Artículo 8.
 
-Se crea el Consejo General para Impulsar el Conocimiento y la Innovación Tecnológica para el Desarrollo, con carácter de organismo consultivo de interés público, con las atribuciones que se establecen en esta Ley.
+El Comité de Evaluación y Seguimiento tendrá las funciones siguientes:
 
-El Consejo General estará integrado por miembros de carácter honorífico, siendo miembros permanentes del mismo los siguientes:
+I. Examinar la eficiencia del gasto, así como su congruencia con el presupuesto anual autorizado, en materia de medidas de austeridad y racionalidad;
 
-I. El Titular del Ejecutivo del Estado, o su representante quien lo presidirá;
+II. Aprobar los rubros y forma en que las áreas gestoras del gasto deberán presentar los informes en materia de racionalidad y austeridad, para su visto bueno;
 
-II. Un Vicepresidente, que será designado por el propio Consejo General de entre los integrantes de los sectores no gubernamentales, a propuesta del Titular del Ejecutivo del Estado;
+III. Establecer las características de presentación de los informes que en materia de racionalidad y austeridad deberán presentar las áreas gestoras del gasto, los cuales deberán contener la información relativa a: 1. Medidas tomadas por el Tribunal Electoral; 2. Impacto presupuestal de las medidas; 3. Temporalidad de los efectos del ahorro; 4. Posibles mejoras a las medidas de austeridad republicana, y 5 Destino del ahorro obtenido;
 
-III. El Director General del Instituto, quien fungirá como Secretario Ejecutivo;
+IV. Emitir recomendaciones a las áreas gestoras del gasto a fin de dar cumplimiento a las medidas de racionalidad y austeridad;
 
-IV. Por la Administración Pública Estatal, los titulares de las siguientes Secretarías y directores generales o equivalentes de organismos públicos descentralizados de participación ciudadana:
+V. Proponer la expedición o, en su caso, modificaciones a la normatividad interna relacionada con las prácticas de racionalidad, austeridad y eficiencia administrativa;
 
-a) La Secretaría de Finanzas y Tesorería General del Estado;
+VI. Otorgar el visto. bueno del informe anual de evaluación de las medidas de racionalidad y austeridad, a fin de que se someta a consideración de la Comisión de Administración, con el fin de que la misma conozca las acciones y su implementación durante el ejercicio fiscal en curso, para el cumplimiento de la Ley Federal de Austeridad Republicana;
 
-b) La Secretaría de Desarrollo Económico;
+VII. Proponer a la Comisión de Administración para su aprobación los Indicadores de austeridad y evaluar su cumplimiento con base en los informes emitidos por las áreas gestoras del gasto, para verificar su cumplimiento;
 
-c) La Secretaría de Educación;
+VIII. Promover la adopción de las medidas de austeridad y racionalidad dispuestas en la Ley, en el Acuerdo y en las disposiciones que de ellos emanen;
 
-d) (DEROGADO, P.O. 24 DE DICIEMBRE DE 2010);
+IX. Evaluar las medidas de racionalidad, austeridad y eficiencia administrativa adoptadas por las áreas correspondientes;
 
-e) La Corporación para el Desarrollo Agropecuario de Nuevo León;
+X. Aprobar el calendario de sesiones ordinarias en la última sesión ordinaria de cada año, y
 
-f) La Coordinación de Ciencia y Tecnología de Nuevo León;
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
-
-g) La Secretaría del trabajo; y
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
-
-h) El Coordinador de Planeación, Evaluación e Innovación Gubernamental.
-
-V. Por el sector académico y científico, el Presidente del Consejo Académico Ciudadano; los rectores de la Universidad Autónoma de Nuevo León, del Instituto Tecnológico y de Estudios Superiores de Monterrey, de la Universidad de Monterrey, y de la Universidad Regiomontana; respectivamente;
-
-Por acuerdo del Consejo General se podrá invitar a representantes permanentes de organizaciones empresariales y sociales, entre otras las siguientes:
-
-a) La Cámara de la Industria de la Transformación de Nuevo León (CAINTRA);
-
-b) El Centro de Competitividad de Monterrey (CCM);
-
-c) La representación de la Confederación Patronal de la República Mexicana (COPARMEX) en el Estado; y
-
-d) Un representante común de los Consejeros Ciudadanos asesores para el desarrollo de los agrupamientos empresariales estratégicos en la Entidad.
-
-En el caso de la modificación o supresión de algunas de las dependencias, entidades u organizaciones empresariales y sociales se sustituirán por sus equivalentes.
+XI. Las demás que le asigne el Magistrado Presidente y la Comisión.
 
 ###### Artículo 9.
 
-El Presidente del Consejo General, por conducto del Secretario Ejecutivo, podrá invitar a participar a las sesiones del Consejo, a representantes de la Administración Pública Federal, Estatal o Municipal, organismos internacionales, universidades e instituciones públicas y privadas nacionales y extranjeras, de los ámbitos científico, tecnológico, económico y cualesquiera otros que puedan aportar conocimientos, o experiencias a los temas de la agenda del propio Consejo General, quienes asistirán con voz pero sin voto.
+La o el Presidente del Comité de Evaluación y Seguimiento tendrá las funciones siguientes:
+
+I. Emitir la convocatoria de la sesión que corresponda;
+
+II. Presidir, coordinar y dirigir los debates de las sesiones del Comité de Evaluación y Seguimiento;
+
+III. Aprobar la convocatoria a las sesiones ordinarias y extraordinarias del Comité de Evaluación y Seguimiento;
+
+IV. Someter a consideración del Comité de Evaluación y Seguimiento el orden del día de las sesiones, así como sus acuerdos y resoluciones;
+
+V. Proponer al Comité de Evaluación y Seguimiento la integración de grupos de trabajo y la realización de estudios y análisis en temas específicos;
+
+VI. Invitar a las sesiones del Comité de Evaluación y Seguimiento a servidoras y servidores públicos del PJF, especialistas u otras personas que puedan colaborar en el análisis de temas particulares;
+
+VII. Firmar las actas de las sesiones del Comité de Evaluación y Seguimiento, y
+
+VIII. Las demás que disponga el Comité de Evaluación y Seguimiento en el ámbito de su competencia o que le hayan sido encomendadas por el Magistrado Presidente del Tribunal Electoral o la Comisión.
 
 ###### Artículo 8o.
 
@@ -173,11 +179,7 @@ El Estado adopta para su régimen interior la forma de Gobierno Republicano, Rep
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
-### CAPITULO TERCERO
-
-Del Territorio del Estado.
-
-> <small>(REFORMADO, P.O. 1 DE MARZO DE 1992)</small>
+### CAPÍTULO TERCERO. DE LAS FUNCIONES DEL COMITÉ DE EVALUACIÓN Y SEGUIMIENTO
 
 ###### Artículo 9o.
 
@@ -187,45 +189,69 @@ El territorio del Estado es el que de hecho y por derecho le pertenece, dentro d
 
 ###### Artículo 10.
 
-La Ley Orgánica Municipal del Estado de Aguascalientes, determinará los requisitos necesarios para la creación de Municipios.
+Corresponde a los integrantes del Comité de Evaluación y Seguimiento:
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
+I. Asistir y participar en las sesiones del Comité de Evaluación y Seguimiento con voz y voto;
 
-### CAPITULO CUARTO
+II. Proponer a la o el Presidente del Comité de Evaluación y Seguimiento los invitados que pueden asistir a las sesiones;
 
-De los Habitantes del Estado.
+III. Proponer a la Secretaría Técnica los asuntos que considere se deban tratar en las sesiones del Comité de Evaluación y Seguimiento;
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
+IV. Aprobar el informe anual de medidas de evaluación y austeridad para presentarlo en el mes de febrero del siguiente ejercicio fiscal, a la Comisión de Administración;
+
+V. Solicitar a la o el Presidente del Comité de Evaluación y Seguimiento la convocatoria a sesión extraordinaria, con el señalamiento de los asuntos específicos a tratar y su justificación;
+
+VI. Proporcionar a la Secretaría Técnica la información que solicite en el ejercicio de sus atribuciones;
+
+VII. Firmar las actas de las sesiones del Comité de Evaluación y Seguimiento a las que hubiese asistido, y
+
+VIII. Las demás que les encomiende la o el Presidente del Comité de Evaluación y Seguimiento en el ámbito de su competencia.
+
+### CAPÍTULO CUARTO. DE LA OPERACIÓN DEL COMITÉ DE EVALUACIÓN Y SEGUIMIENTO
 
 ###### Artículo 11.
 
-Son habitantes del Estado, las personas que residen en su territorio.
+Corresponde a la o el Secretario Técnico del Comité de Evaluación y Seguimiento:
 
-La residencia no se pierde por ausencia en el desempeño de cargos públicos de elección popular o de comisiones oficiales del Estado de Aguascalientes.
+I. Auxiliar a la o el Presidente del Comité de Evaluación y Seguimiento en el desarrollo de las sesiones;
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 1973)</small>
+II. Declarar la existencia de quórum y someter a consideración del Comité de Evaluación y Seguimiento el orden del día de las sesiones;
+
+III. Distribuir la convocatoria de las sesiones a petición de la o el Presidente del Comité de Evaluación y Seguimiento, así como confirmar la asistencia de sus integrantes;
+
+IV. Integrar las carpetas y demás información de los asuntos que se discutirán en las sesiones, en forma electrónica, y enviarlas a los integrantes del Comité de Evaluación y Seguimiento;
+
+V. Elaborar el proyecto de acta de cada sesión con los proyectos de acuerdos, así como remitirla a los integrantes y asesores del Comité de Evaluación y Seguimiento, dentro de los cinco días hábiles siguientes a la celebración de la sesión para su revisión, comentarios y, en su caso, firma;
+
+VI. Solicitar a las áreas gestoras del gasto la información sobre las acciones relacionadas con la ejecución de las medidas de racionalidad y austeridad;
+
+VII. Registrar los acuerdos que deriven de las sesiones, los cuales deberán incluir el nombre del área o áreas responsables de su cumplimiento; así como la fecha compromiso para su atención; dar seguimiento a su cumplimiento, y comunicar su avance al Comité de Evaluación y Seguimiento en la sesión correspondiente;
+
+VIII. Firmar de manera electrónica las actas de las sesiones del Comité de Evaluación y Seguimiento;
+
+IX. Llevar a cabo el control, resguardo y certificación de las actas y documentos del Comité de Evaluación y Seguimiento;
+
+X. Proponer al Comité de Evaluación y Seguimiento los Indicadores de Austeridad;
+
+XI. Analizar el cumplimiento de las medidas de racionalidad y austeridad, en coordinación con las áreas gestoras del gasto competentes, así como comunicar los resultados y proponer las medidas conducentes al Comité de Evaluación y Seguimiento;
+
+XII. Elaborar el informe anual de evaluación de las medidas de racionalidad y austeridad;
+
+XIII. Proponer a la o el Presidente del Comité de Evaluación y Seguimiento la celebración de sesiones extraordinarias;
+
+XIV. Someter a consideración del Comité de Evaluación y Seguimiento el proyecto de calendario anual de sesiones ordinarias, y
+
+XV. Las demás que determine el Comité de Evaluación y Seguimiento o la o el Presidente del mismo.
 
 ###### Artículo 12.
 
-Son derechos de los habitantes del Estado, varones y mujeres:
-
-I.- Votar en las elecciones populares, si son ciudadanos mexicanos en ejercicio de sus derechos y tienen una residencia en el Estado no menor de seis meses;
-
-II.- Ser votado en las elecciones populares y desempeñar cualquier empleo del Estado, cuando, además de los requisitos que fija la fracción anterior, el individuo reúna las condiciones que esta Constitución o la ley relativa, exijan para cada caso.
-
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
+El Comité de Evaluación y Seguimiento sesionará de manera ordinaria por lo menos tres veces por año, y de manera extraordinaria cuando sea necesario.
 
 ###### Artículo 13.
 
-Son obligaciones de los habitantes del Estado:
+A las sesiones del Comité de Evaluación y Seguimiento podrán asistir como invitados, con voz, pero sin voto, servidoras y servidores públicos del PJF, especialistas o cualquier otra persona, que puedan aportar conocimientos o experiencias según los temas a tratar.
 
-I.- Si son mexicanos, las que se detallan en el artículo 31 de la Constitución Federal.
-
-II.- Si son ciudadanos, las contenidas en el artículo 36 de la misma Constitución; y
-
-III.- Si son extranjeros, contribuir para los gastos públicos de la manera que dispongan las leyes, obedecer y respetar las Instituciones, Leyes y Autoridades del Estado; sujetarse a los fallos y sentencias de los Tribunales, sin poder intentar otros recursos que los que se conceden a los mexicanos.
-
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
+Los invitados solamente estarán presentes durante la discusión del tema para el cual fueron convocados.
 
 ### CAPITULO QUINTO
 
@@ -235,9 +261,9 @@ De la División de los Poderes.
 
 ###### Artículo 14.
 
-El Supremo Poder del Estado se divide, para su ejercicio, en Legislativo, Ejecutivo y Judicial. Nunca podrán reunirse dos o más de estos Poderes en un sólo individuo o corporación, ni depositarse el Legislativo en una persona.
+Las sesiones del Comité de Evaluación y Seguimiento se considerarán válidas estando presente la o el Presidente o en su caso, el suplente.
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
+Los acuerdos se aprobarán por mayoría de votos de los miembros presentes; en caso de empate, la o el Presidente del Comité de Evaluación y Seguimiento tendrá voto de calidad.
 
 ### CAPITULO SEXTO
 
@@ -247,121 +273,19 @@ Del Poder Legislativo.
 
 ###### Artículo 15.
 
-El Poder Legislativo se deposita en una corporación que se denomina Congreso del Estado.
+En la última sesión de cada año se aprobará el calendario de sesiones ordinarias del Comité de Evaluación y Seguimiento aplicable al año siguiente.
 
-> <small>(REFORMADO, P.O. 24 DE JULIO DE 1994)</small>
+La Secretaría Técnica distribuirá la convocatoria de sesiones ordinarias a los integrantes, asesores e invitados, con una anticipación de cuando menos siete días naturales previos a la fecha de celebración.
+
+La convocatoria deberá incluir el orden del día, las carpetas en forma electrónica y demás información a tratar en la sesión correspondiente.
 
 ###### Artículo 16.
 
-El Congreso se integrará con representantes del pueblo que residan en el territorio del Estado, electos en su totalidad cada tres años y que se denominarán Diputados.
-
-Por cada Diputado Propietario se eligirá (sic) un Suplente.
-
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2008)</small>
+Las convocatorias para las sesiones extraordinarias del Comité de Evaluación y Seguimiento se emitirán, cuando menos, con cinco días naturales de anticipación a la fecha de la celebración de la sesión, a la cual se anexará el orden del día, las carpetas en forma electrónica, así como la información a tratar en la sesión correspondiente.
 
 ###### Artículo 17.
 
-En el Estado la renovación de los Poderes Legislativo y Ejecutivo, así como los Ayuntamientos se verificarán por medio de elecciones democráticas directas, a través del ejercicio del sufragio universal y secreto.
-
-A. El Congreso del Estado estará integrado por dieciocho Diputados electos según el principio de votación de mayoría relativa mediante el sistema de Distritos electorales uninominales y nueve Diputados electos según el principio de representación proporcional, mediante el sistema de listas votadas en una circunscripción plurinominal cuya demarcación es el Estado.
-
-El Instituto Estatal Electoral, fijará el ámbito territorial de los distritos electorales uninominales basados en un criterio poblacional. Se tomarán en cuenta los principios de contigüidad de fronteras, conectividad, compacidad y respeto a la división seccional; se propiciará la unidad geográfica de los distritos electorales. El número de habitantes que contendrá cada distrito electoral. El número de habitantes que contendrá cada distrito no podrá diferir en veinte por ciento, más o menos del cociente resultante. La revisión o adecuación, se realizará después de cada Censo General de Población o Conteo de Población más reciente que realicen (sic) el Instituto Nacional de Estadística y Geografía.
-
-La asignación de los Diputados según el principio de representación proporcional, se sujetará a las siguientes bases y a lo que en particular determine la Ley en materia electoral:
-
-l. El partido político deberá acreditar que tiene su registro nacional e inscribir candidatos a Diputados por mayoría relativa, en por lo menos catorce de los dieciocho distritos uninominales;
-
-II. Las diputaciones por el principio de representación proporcional, se otorgarán a todo partido político que obtenga por lo menos el dos punto cinco por ciento de la votación emitida; y
-
-III. La Ley de la materia determinará la fórmula y el procedimiento que se observará en dicha asignación.
-
-Los Diputados por mayoría relativa y de representación proporcional, tendrán la misma jerarquía e igualdad de derechos y obligaciones.
-
-Las obligaciones de los Diputados consisten en el ejercicio de las funciones, legislativa, de representación popular, fiscalización, nombramiento, presupuestal, de control, jurisdiccional, sanción y demás que establezcan las leyes; y desempeñarán sus funciones en el Pleno del Congreso del Estado, Diputación Permanente, Gran Jurado, Comisiones y Comités del Poder Legislativo.
-
-> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2009)</small>
-
-B. El Sistema Estatal Electoral se regirá por los principios rectores de certeza, legalidad, independencia, imparcialidad, definitividad y objetividad.
-
-La organización de las elecciones en el Estado, así como del fomento del modelo de vida democrático, de participación y representación es una función pública que se ejerce a través de un organismo público autónomo denominado, Instituto Estatal Electoral.
-
-El Instituto Estatal Electoral, como ente de interés público, será autoridad en la materia, actuará con independencia en sus decisiones, funcionamiento y profesionalismo en su desempeño; estará dotado de autonomía, personalidad jurídica y patrimonio propios, tendrá como autoridad máxima de gobierno un Consejo General.
-
-El Consejo General será electo por el voto de la mayoría calificada de los integrantes del Congreso del Estado y estará integrado por cinco Consejeros Electorales, de los cuales uno será presidente y cuatro vocales, durarán en su encargo tres años y podrán ser reelectos hasta por un nuevo período.
-
-Por cada Consejero se elegirá un suplente.
-
-El cargo de Consejero Electoral, no será compatible con cargo de servidor público alguno, así como con cualquier cargo por el que se reciba pago o retribución alguna con recursos públicos.
-
-La Ley de la materia determinará la organización del Instituto, sus facultades y estructura orgánica, debiendo contar el Instituto con un órgano auxiliar para la fiscalización de los recursos de los partidos políticos y asociaciones políticas estatales; una Contraloría especializada en la fiscalización de los recursos y programas del Instituto, ambos dotados con autonomía técnica y de gestión, así como la estructura del servicio profesional electoral necesaria para el cumplimento de sus labores. El titular de la Contraloría, será electo mediante el voto de la mayoría calificada de los integrantes del Congreso del Estado.
-
-Las elecciones ordinarias deberán celebrase, el primer domingo de julio del año de la elección.
-
-Los partidos políticos nacionales acreditados en el Estado, serán entidades de interés público, podrán y serán los únicos facultados para participar en las elecciones estatales, distritales y municipales; estando asimismo facultados para participar en la vida política del Estado, para lo cual tendrán acceso a financiamiento público y apoyos gubernamentales en términos de lo estipulado en la Ley de la materia
-
-Los partidos políticos nacionales acreditados en el Estado tendrán como fin el promover la participación del pueblo en la vida democrática, en la representación estatal y el acceso al poder público.
-
-La ley de la materia regulará los derechos, prerrogativas y obligaciones de los partidos políticos nacionales acreditados en el Estado, al igual que los respectivos de los ciudadanos y la población en general para la participación en la vida política del Estado y el acceso al poder. Se establecerán en dicha norma los procedimientos, requisitos y normas para el desarrollo de las elecciones ordinarias y extraordinarias estatales y municipales, así como la participación y procedimientos jurisdiccionales y medios de impugnación que darán certeza al Sistema Estatal Electoral y sus procesos.
-
-(NOTA: EL 12 DE NOVIEMBRE DE 2009, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 52/2009 Y SU ACUMULADA 53/2009, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL APARTADO B, PÁRRAFO DÉCIMO SEGUNDO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 13 DE NOVIEMBRE DE 2009 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-El Tribunal Estatal Electoral, será un órgano jurisdiccional, TEMPORAL, autónomo en su funcionamiento e independiente en sus decisiones. Estará integrado por tres Magistrados, adscritos al Poder Judicial del Estado. EN TIEMPO NO ELECTORAL SERÁ EL PLENO DEL SUPREMO TRIBUNAL DE JUSTICIA DEL ESTADO QUIEN CONOZCA Y RESUELVA DE LOS RECURSOS. El Tribunal Estatal Electoral, tendrá entre sus facultades, resolver los medios de impugnación y nulidades que la ley electoral establezca, así como declarar la validez de las elecciones.
-
-La norma penal del Estado, determinará los delitos en materia electoral, así como las sanciones aplicables.
-
-Los partidos políticos, en ningún momento podrán contratar o adquirir por sí o por terceras personas, tiempos o espacios en cualquier modalidad de radio, televisión o prensa escrita o electrónica.
-
-El Sistema Estatal Electoral, estará regulado por la Ley de la materia, y deberá garantizar en todo momento los siguientes derechos y obligaciones:
-
-a) Los partidos políticos se constituirán sólo por ciudadanos sin intervención de organizaciones gremiales, afiliación corporativa, quienes tendrán el derecho exclusivo para solicitar el registro de candidatos a cargos de elección popular;
-
-b) Las autoridades electorales sólo intervendrán en la vida interna de los partidos en términos de lo establecido en el Código Electoral;
-
-c) Establecer las fórmulas y criterios para la asignación de financiamiento y prerrogativas de los partidos políticos, así como los topes y límites del financiamiento que estos pueden recibir de sus simpatizantes;
-
-d) Fijar criterios y límites para establecer las erogaciones de los partidos políticos en sus precampañas y campañas;
-
-e) Establecer las bases y procedimientos para la liquidación y destino de los bienes y recursos de los partidos políticos que pierdan su registro;
-
-f) Establecer las bases para los procedimientos relativos al control, vigilancia y sanción, respecto del origen y destino de los recursos de los partidos políticos; y
-
-g) Establecer las bases y normas para las precampañas y campañas de los partidos políticos, así como las conductas prohibidas y las sanciones por incumplimiento y el respectivo sistema de medios de impugnación.
-
-C. Con relación a las figuras del Plebiscito y el Referéndum, el Instituto Estatal Electoral será el órgano responsable de organizarlo, previa aprobación del H. Congreso del Estado.
-
-El Plebiscito y Referéndum podrán solicitarlos:
-
-a) El dos punto cinco por ciento de los ciudadanos inscritos en el Padrón Electoral, cuya identificación se acreditará con el folio, nombre y firma que se contiene en la credencial de elector;
-
-b) Una tercera parte de los Diputados que integran el H. Congreso del Estado;
-
-c) Los Ayuntamientos de los Municipios del Estado, en el ámbito de su competencia; o
-
-d) El Gobernador del Estado.
-
-Para que la solicitud se declare aprobada se requiere el voto favorable de las dos terceras partes de los integrantes del H. Congreso del Estado la cual, deberá ser turnada al Instituto Estatal Electoral para que a su vez, elabore la pregunta para expedir enseguida la convocatoria correspondiente.
-
-No podrán someterse a referéndum ni a Plebiscito aquéllas Leyes o Artículos que contemplen las siguientes materias:
-
-a) Las disposiciones constitucionales y legales en materia tributaria o fiscal, así como la Ley de Ingresos y Presupuestos de Egresos en el Estado de Aguascalientes;
-
-b) Ley Orgánica de la Administración Pública del Estado de Aguascalientes;
-
-c) Ley Orgánica del Poder Legislativo y sus Reglamentos;
-
-d) Ley Orgánica del Poder Judicial del Estado; y
-
-e) Las demás que determinen las leyes.
-
-Los procedimientos, mecanismos, plazos, términos, medios de impugnación y publicidad de los procesos electorales serán aplicables a las figuras del plebiscito y el referéndum.
-
-Se establece en el Estado la Iniciativa Popular, como un medio ciudadano para proponer al Congreso del Estado la creación, reformas, adición, derogación o abrogación de leyes del marco jurídico estatal, la cual opera bajo los siguientes requisitos;
-
-a) Podrán solicitarla, el dos punto cinco por ciento de los ciudadanos inscritos en el Padrón Electoral.
-
-b) Deberán acreditar los solicitantes estar inscritos en el Padrón Electoral Federal.
-
-c) Se dará trámite a la Iniciativa en los términos y procedimientos de la Ley Orgánica del Poder Legislativo.
+La convocatoria se podrá realizar por cualquier medio que facilite la pronta y eficaz comunicación, incluidos los medios tecnológicos con los que cuente el Tribunal Electoral.
 
 ###### Artículo 17 Bis.
 
@@ -371,59 +295,23 @@ c) Se dará trámite a la Iniciativa en los términos y procedimientos de la Ley
 
 ###### Artículo 18.
 
-Los diputados no podrán ser reelectos para el período inmediato.
+Las sesiones del Comité de Evaluación y Seguimiento que no puedan llevarse a cabo por falta de quórum o cualquier otra circunstancia, se realizarán dentro de los cinco días siguientes, convocando a ésta con al menos un día hábil de anticipación.
 
-Los Suplentes podrán ser electos para el período inmediato, con el carácter de Propietarios, siempre que no hubieren estado en ejercicio; pero los Propietarios no podrán ser electos para el período inmediato, con el carácter de Suplentes.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JUNIO DE 1978)</small>
+En las sesiones ordinarias que, una vez iniciadas, se deban suspender, serán reanudadas en la misma fecha, siempre que las circunstancias o el motivo por el cual se suspendieron lo permitan. En caso de que ello no sea posible, se convocará a su reanudación dentro de los cinco días siguientes a la fecha de suspensión. La convocatoria se realizará en los términos del párrafo anterior.
 
 ###### Artículo 19.
 
-Para ser Diputado se requiere:
-
-> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 1950)</small>
-
-I.- Ser ciudadano mexicano, por nacimiento, en ejercicio de sus derechos.
-
-> <small>(REFORMADA, P.O. 8 DE JULIO DE 1973)</small>
-
-II.- Tener veintiún años cumplidos el día de la elección;
-
-> <small>(REFORMADA, P.O. 24 DE JULIO DE 1994)</small>
-
-III.- Haber nacido en el Estado o tener una residencia efectiva en él, no menor de cuatro años inmediatamente anteriores al día de la elección.
-
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
+Las sesiones podrán celebrarse presencialmente o en forma remota, mediante el uso de cualquier medio tecnológico con el que cuente el Tribunal Electoral.
 
 ###### Artículo 20.
 
-No pueden ser electos Diputados:
-
-I.- Las personas que desempeñen cargos públicos de elección popular, sean de la Federación, del Estado o Municipales.
-
-> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 1991)</small>
-
-II.- Los Magistrados, tanto del Supremo Tribunal de Justicia, como del Tribunal Electoral y de la Comisión Estatal Electoral; los Jueces y Secretarios de los diversos ramos, el Procurador de Justicia y los delegados de las dependencias federales en el Estado.
-
-III.- Los individuos que hayan sido condenados por delito intencional a sufrir pena privativa de la libertad; y
-
-IV.- Los que pertenezcan al estado eclesiástico o sean ministros de cualquier culto.
-
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1953)</small>
-
-Los ciudadanos comprendidos en las fracciones I y II de este artículo, podrán ser electos Diputados, si se separan de sus cargos o empleos noventa días antes de la elección.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE JULIO DE 1994)</small>
+En cada sesión se levantará un acta, la cual se someterá a la consideración de los integrantes del Comité de Evaluación y Seguimiento, y deberá ser firmada de forma electrónica dentro de los cinco días siguientes a su celebración.
 
 ###### Artículo 21.
 
-Los Diputados son inviolables por la manifestación de sus ideas en ejercicio de sus funciones y jamás podrán ser reconvenidos ni juzgados por ello, sin embargo, serán responsables de los delitos que cometan durante el tiempo de su encargo, pero no podrá ejercitarse acción penal en su contra hasta que seguido el procedimiento constitucional, se decida la separación del cargo y la sujeción a la acción de los tribunales.
+Las personas servidoras públicas del Tribunal Electoral serán responsables, en el ámbito de sus atribuciones, del cumplimiento de las medidas de racionalidad y austeridad, así como de los acuerdos que emita el Comité de Evaluación y Seguimiento.
 
-> <small>(REFORMADO, P.O. 18 DE JUNIO DE 1978)</small>
-
-El Presidente del Congreso o de la Diputación Permanente, en su caso, velará por el respeto al fuero constitucional de los integrantes del mismo, y, por la inviolabilidad del Recinto donde se reúnan a sesionar.
-
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
+Asimismo, deberán remitir al Comité de Evaluación y Seguimiento los informes que éste solicite con base en lo previsto en el presente Acuerdo.
 
 ###### Artículo 22.
 
@@ -1609,55 +1497,45 @@ DE LAS RESPONSABILIDADES DE LOS FUNCIONARIOS Y EMPLEADOS PUBLICOS.
 
 Esta Constitución conservará su vigor, aunque un trastorno público interrumpa su observancia. Si se estableciere un Gobierno contrario a sus principios, luego que el pueblo recobre su libertad volverá a ser acatada, y con sujeción a la misma, y a las leyes a que diere origen, serán juzgados los que la hubieren infringido.
 
-## ARTICULOS TRANSITORIOS.
+## TRANSITORIOS
 
-1° Esta Constitución comenzará a regir el 10 de septiembre del presente año.
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
-2° El actual Poder Legislativo durará hasta el 15 de Septiembre de 1918, y los Poderes actuales, Ejecutivo y Judicial, hasta el 30 de noviembre de 1920.
+SEGUNDO. El Comité de Evaluación y Seguimiento de las medidas de racionalidad y austeridad del Tribunal Electoral del Poder Judicial de la Federación deberá celebrar su sesión de instalación dentro de los diez días siguientes a la entrada en vigor del presente Acuerdo.
 
-3° El actual Congreso se ocupará de preferencia de las reformas de la Legislación del Estado en consonancia con la Constitución General del país, y la particular del Estado.
+TERCERO. Para mayor difusión, publíquese el presente Acuerdo en las páginas de Intranet e internet del Tribunal Electoral del Poder Judicial de la Federación.
 
-Expedida en el Salón de sesiones del Congreso del Estado a los tres días del mes de septiembre de mil novecientos diecisiete.- Mariano Ramos, Diputado propietario por el 1er. Distrito electoral, Presidente.- Manuel S. Flores, Diputado propietario por el 13° Distrito electoral, Vicepresidente.- Juan Díaz Infante, Diputado propietario por el 3er. Distrito de la Capital.- Rafael Sotura, Diputado propietario por el 5° Distrito de la Capital.- Blas E. Romo, Diputado propietario por el 6° Distrito perteneciente a Rincón de Romos.- Manuel I. Ramírez, Diputado suplente por el 7° Distrito.- Jesús Díaz Infante, Diputado suplente por el 8° Distrito.- R. V. Romo, Diputado suplente por el 9° Distrito.- Ezequiel Palacio, Diputado propietario por el 10° Distrito perteneciente a Calvillo.- Rafael Morán, Diputado suplente por el 11° Distrito electoral perteneciente a Calvillo.- Juan E. López, Diputado propietario por el 12° Distrito perteneciente a Jesús María.- Gabriel Landín, Diputado propietario por el 14° Distrito.- Samuel G. García, Diputado propietario por el 15° Distrito.- Alberto E. Pedroza, Diputado propietario por el 4° Distrito electoral, Secretario.- Samuel J. Guerra, Diputado propietario por el 2° Distrito electoral, Secretario."
+La suscrita, Marcela Loredana Montero de Alba, Secretaria Administrativa y de la Comisión de Administración del Tribunal Electoral del Poder Judicial de la Federación, con fundamento en lo dispuesto por el artículo 208, fracciones XIV y XXIV, del Reglamento Interno del citado Órgano Jurisdiccional
 
-Por tanto, mando se imprima, publique por bando y se circule para los fines consiguientes.
+C E R T I F I C A
 
-Sancionada en Aguascalientes, capital del Estado del mismo nombre, a los seis días del mes de septiembre de mil novecientos diecisiete.- Aurelio L. González.- Lic. A. Delgado, Srio.
+Que el presente documento, integrado por 7 fojas útiles impresas por anverso y reverso y 1 foja útil impresa únicamente por anverso, corresponde al Acuerdo por el que se autoriza la creación del Comité de Evaluación y Seguimiento de las Medidas de Racionalidad y Austeridad, así como de las reglas de su integración y funcionamiento, aprobado por los integrantes de la Comisión de Administración de este Tribunal Electoral, mediante Acuerdo 03/SO11(25-XI-2021), en su Décima Primera Sesión Ordinaria celebrada el 25 de noviembre de 2021, cuyo original tuve a la vista. DOY FE.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+Ciudad de México, a 24 de enero de 2022.- Secretaria Administrativa y de la Comisión de Administración del Tribunal Electoral del Poder Judicial de la Federación, Marcela Loredana Montero de Alba.- Firmado digitalmente.
 
-P.O. 25 DE JUNIO DE 1919.
+###### Artículo 2.
 
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+Para los efectos de este Acuerdo se entenderá por:
 
-P.O. 15 DE ENERO DE 1926.
+> <small>(F. DE E., P.O. 7 DE MARZO DE 2022)</small>
 
-###### Artículo 2°.
+I. Acuerdo: Acuerdo General del Comité Coordinador para Homologar Criterios en Materia Administrativa e Interinstitucional del Poder Judicial de la Federación (PJF), que establece las medidas de racionalidad, austeridad, disciplina presupuestal y modernización de la gestión del Poder Judicial de la Federación para el ejercicio fiscal correspondiente;
 
-El presente decreto comenzará a surtir sus efectos desde la fecha de su expedición.
+II. Áreas Gestoras del Gasto: Son las unidades administrativas del Tribunal Electoral que cuentan con presupuesto asignado y proyectos a ejecutar en el ejercicio fiscal que corresponda;
 
-P.O. 2 DE MAYO DE 1926.
+III. Comité de Evaluación y Seguimiento: el Comité de Evaluación y Seguimiento de las medidas de racionalidad y austeridad del Tribunal Electoral del Poder Judicial de la Federación;
 
-> <small>N. DE E. POR ANTICONSTITUCIONAL, SE DEROGA EL DECRETO No. 126, EXPEDIDO EL 26 DE ABRIL Y PUBLICADO EL 2 DE MAYO DE 1926, POR LO QUE LOS PRESENTES ARTICULOS QUEDAN SIN EFECTO ALGUNO P.O. 24 DE MARZO DE 1929.</small>
+IV. Comisión: Comisión de Administración;
 
-I.- (DEROGADA, P.O. 22 DE JULIO DE 1926)
+V. Indicadores de Austeridad: las expresiones cuantitativas mediante las cuales se medirá y evaluará el desempeño de las áreas gestoras del gasto en la aplicación de las medidas de racionalidad y austeridad, las cuales son emitidas anualmente por la Comisión de Administración;
 
-> <small>(REFORMADA, P.O. 17 DE JUNIO DE 1928)</small>
+VI. Ley: Ley Federal de Austeridad Republicana;
 
-II.- En el año de 1928 se renovarán totalmente los miembros del H. Congreso, en las elecciones ordinarias que se verifiquen de conformidad con la Ley debiendo comenzar sus funciones los Diputados electos, el 16 de septiembre del propio año y durarán en su cargo, los de número impar dos años y los de número par cuatro años.
+VII. Medidas de Racionalidad y Austeridad: las que se establecen con tal carácter, en materia de gasto público, en la Ley Federal de Presupuesto y Responsabilidad Hacendaria; la Ley Federal de Austeridad Republicana; el Presupuesto de Egresos de la Federación del ejercicio fiscal que corresponda, y las disposiciones emitidas por el Comité Coordinador para Homologar Criterios en Materia Administrativa e Interinstitucional del Poder Judicial de la Federación y las que determine la Comisión de Administración;
 
-P.O. 22 DE JULIO DE 1926.
+VIII. PJF: Poder Judicial de la Federación;
 
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
-
-P.O. 25 DE DICIEMBRE DE 1927.
-
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
-
-P.O. 10 DE JUNIO DE 1928.
-
-UNICO.- El presente decreto surtirá sus efectos desde la fecha de su expedición.
-
-P.O. 17 DE JUNIO DE 1928.
+IX. Tribunal Electoral: Tribunal Electoral del Poder Judicial de la Federación.
 
 ###### Art. 3°.
 
@@ -1667,87 +1545,55 @@ P.O. 24 DE MARZO DE 1929.
 
 > <small>N. DE E. POR SU IMPORTANCIA SE TRANSCRIBEN LOS ARTÍCULOS DEL DECRETO NÚMERO 160.</small>
 
-###### Artículo 1°
+###### Artículo 1.
 
-Por anticonstitucional, se deroga el decreto núm. 126 expedido por la H. Legislatura el 26 de abril del año de 1926.
+El presente Acuerdo tiene por objeto establecer la integración, atribuciones y funcionamiento del Comité de Evaluación y Seguimiento de las medidas de racionalidad y austeridad del Tribunal Electoral del Poder Judicial de la Federación.
+
+Las disposiciones contenidas en este Acuerdo de creación son de observancia general y obligatoria para las áreas gestoras del gasto del Tribunal Electoral del Poder Judicial de la Federación
 
 ###### Artículo 2°
 
 El H. Congreso en su oportunidad reformará la Constitución Política del Estado, de conformidad con lo preceptuado por su artículo 72.
 
-###### Artículo 3°
+###### Artículo 3.
 
-El presente decreto surtirá sus efectos desde la fecha de su publicación en el Periódico Oficial del Estado.
-
-P.O. 19 DE MAYO DE 1929.
+El Comité de Evaluación y Seguimiento tendrá a su cargo la promoción, evaluación y seguimiento de las medidas de racionalidad y austeridad del Tribunal Electoral, sin perjuicio de las atribuciones de las instancias competentes en materia de auditoría y fiscalización.
 
 ###### Artículo 4.
 
-Los sectores público, científico, académico, tecnológico, social y productivo participarán en la integración y realización de políticas públicas en materia del conocimiento y la innovación tecnológica conforme a los siguientes principios:
+El Comité de Evaluación y Seguimiento se integrará por las personas titulares de las áreas siguientes:
 
-I. La toma de decisiones en materia de impulso al conocimiento y la innovación tecnológica para el desarrollo del Estado, se llevará a cabo con la participación de los sectores público, científico, académico, tecnológico, social y productivo;
+I. Secretaría Administrativa;
 
-II. El conocimiento y la innovación tecnológica son factores estratégicos que contribuyen al crecimiento económico y el bienestar social del Estado, y son parte fundamental para lograr el desarrollo sustentable, mejorar la competitividad y elevar la calidad de vida de los nuevoleoneses;
+II. Dirección General de Planeación y Evaluación Institucional;
 
-III. La generación de conocimiento y de innovaciones tecnológicas son la base para fomentar el desarrollo, impulsar su transferencia, favorecer la valoración social y estimular la competitividad empresarial;
+III. Dirección General de Recursos Financieros;
 
-IV. La construcción de la sociedad del conocimiento estará centrada en las personas, de manera incluyente y orientada al desarrollo social, cultural y económico de las mismas, así como el combate a la pobreza;
+IV. Dirección General de Administración Regional
 
-V. Se promoverá la divulgación de conocimientos, innovaciones tecnológicas y sus impactos, con el propósito de ampliar y fortalecer la cultura científica y tecnológica en la sociedad;
+V. Dirección General de Adquisiciones, Servicios y Obra Pública.
 
-VI. La política estatal de impulso al conocimiento preverá áreas prioritarias, proyectos estratégicos y apoyos a largo plazo a la investigación científica, el desarrollo y la innovación tecnológica, con el propósito de garantizar el fortalecimiento del potencial humano, la creación de instituciones científicas, el mejoramiento y modernización de la enseñanza de la ciencia, la integración de la ciencia en la cultura de los nuevoleoneses, la creación de infraestructuras y el fomento de capacidades;
+VI. Dirección General de Recursos Humanos;
 
-VII. Las políticas, instrumentos y criterios con los que el Gobierno del Estado impulse el conocimiento y la innovación tecnológica, deberán buscar el mayor efecto benéfico en la enseñanza y el aprendizaje de la ciencia, la tecnología y la innovación, en la calidad de la educación en todos los niveles, e incentivará la participación y desarrollo de nuevas generaciones de investigadores y tecnólogos;
+VII. Dirección General de Sistemas.
 
-VIII. El Gobierno del Estado, de conformidad con lo dispuesto por esta Ley, debe participar en el otorgamiento de recursos económicos y financieros para el desarrollo del conocimiento y la innovación tecnológica, considerándolos como inversión para el mejoramiento de la calidad de vida y el desarrollo económico del Estado;
-
-IX. Se promoverá a través de incentivos y mecanismos de fomento que el sector privado realice inversiones crecientes para la generación de conocimiento e innovaciones tecnológicas de amplio impacto económico y social;
-
-X. La vinculación entre el conocimiento y el sector productivo público y privado deberá contribuir al desarrollo científico y tecnológico del Estado, permitiendo incursionar en nuevas líneas de trabajo y formar recursos humanos de alta calidad;
-
-XI. La utilización y generación del conocimiento debe considerar diversos aspectos éticos relacionados con la salud humana, el medio ambiente, el beneficio social, el respeto a la diversidad cultural, el apego al marco jurídico, así como las ventajas y riesgos que representa tanto el uso como la ausencia de la aplicación de nuevas tecnologías;
-
-XII. El Gobierno del Estado y los sectores público, social y privado realizarán los esfuerzos que les correspondan en el marco de esta Ley para detonar la generación de conocimientos e innovaciones tecnológicas, mediante la eliminación y reducción de barreras y restricciones que obstaculicen su desarrollo; y,
-
-XIII. Se impulsará la formación de técnicos especialistas, profesionales tecnólogos y científicos del más alto nivel en las áreas estratégicas del conocimiento para el desarrollo del Estado.
+Dichos integrantes contarán con voz y voto. Los Acuerdos serán aprobados por mayoría de votos.
 
 ###### Artículo 5.
 
-Para el debido cumplimiento del Programa Estratégico, en concordancia con el objeto y objetivos de la presente Ley, y en el ámbito de sus respectivas competencias, corresponderá:
+Las personas titulares de la Contraloría Interna y de la Dirección General de Asuntos Jurídicos serán asesores permanentes del Comité y asistirán a las sesiones con voz pero sin voto.
 
-I. A la Secretaría de Desarrollo Económico: la promoción de manera prioritaria de programas de impulso y apoyo para:
+La persona titular de la Secretaría Técnica de la Presidencia de la Comisión de Administración fungirá como invitada permanente del Comité, con voz, pero sin voto.
 
-a) Desarrollos tecnológicos e innovaciones para el sector productivo, especialmente para micro, pequeñas y medianas empresas; y
-
-b) Conformación de agrupamientos empresariales, incubadoras de empresas del conocimiento, empresas especializadas en vinculación y empresas de base tecnológica.
-
-II. A la Secretaría de Educación: la promoción de la incorporación de la temática de investigación, desarrollo e innovación tecnológica en la educación estatal a todos los niveles; y,
-
-III. A las Secretarías y demás entidades del Gobierno Estatal: la promoción de programas, proyectos, presupuestos y mecanismos necesarios para impulsar la formación de capital humano, la investigación científica y la innovación tecnológica.
+Las personas titulares de las áreas gestoras del gasto serán invitadas no permanentes del Comité y serán escuchadas cuando las políticas y asuntos que sean sometidos a consideración del Comité tengan afectación o impacto en su ámbito de competencia.
 
 ###### Artículo 6.
 
-Para la ejecución de los objetivos de esta Ley, sus organismos y mecanismos complementarios de apoyo serán los siguientes:
-
-I. El Consejo General;
-
-II. El Programa Estratégico;
-
-III. El Sistema Estatal de Información;
-
-IV. El Instituto; y
-
-V. Los fondos para financiar el impulso al conocimiento y a la innovación tecnológica.
+El Comité de Evaluación y Seguimiento contará con una o un Secretario Técnico, quien será designado por los integrantes de dicho Comité, a propuesta de su Presidente.
 
 ###### Artículo 7.
 
-La participación y coordinación de los sectores público y privado de carácter académico, científico, tecnológico y empresarial se realizará a través de:
-
-I. El Consejo General para Impulsar el Conocimiento y la Innovación Tecnológica para el Desarrollo;
-
-II. El Consejo Académico Ciudadano de las Ciencias; y
-
-III. El Comité Ciudadano del Instituto.
+Cada uno de los integrantes del Comité de Evaluación y Seguimiento, y los asesores designarán a sus respectivos suplentes, quienes deberán tener el nivel jerárquico inmediato inferior dentro de la estructura del órgano auxiliar o área que corresponda. Para el caso de las ausencias de la o el Presidente del Comité, su suplente será el Director General de Planeación y Evaluación Institucional.
 
 ###### Artículo 3°.
 
