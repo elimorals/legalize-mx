@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-hospital-de-psiquiatria-dr-gustavo-leon-mojica-2621"
 country: "mx"
 rank: "ley"
 publication_date: "1989-12-17"
-last_updated: "2003-05-26"
+last_updated: "2010-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2621&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,321 +21,255 @@ state: "AGU"
 ---
 # LEY DEL HOSPITAL DE PSIQUIATRIA "DR. GUSTAVO LEON MOJICA GARCIA" - ANTES LEY DEL CENTRO DE NEUROPSIQUIATRIA -
 
-LEY PARA LA PREVENCIÓN, MITIGACIÓN E IDENTIFICACIÓN DE RIESGOS Y RESPONSABILIDADES REFERENTE A INFRAESTRUCTURA ENERGÉTICA EXISTENTE, PARA PREVER LA SEGURIDAD Y PROTECCIÓN DE LA POBLACIÓN QUE HABITA EN EL ESTADO DE TAMAULIPAS
+LEY DEL HOSPITAL DE PSIQUIATRIA "DR. GUSTAVO LEON MOJICA GARCIA"
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO QUINTO TRANSITORIO DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES, PUBLICADA EN EL P.O. DE 28 DE DICIEMBRE DE 2010. EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-Ley publicada en el Extraordinario Número 48 del Periódico Oficial del Estado de Tamaulipas, el viernes 7 de noviembre de 2025.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
-AMÉRICO VILLARREAL ANAYA, Gobernador Constitucional del Estado de Tamaulipas, a sus habitantes hace saber:
+Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el 17 de diciembre de 1989.
 
-Que el Honorable Congreso del Estado, ha tenido a bien expedir el siguiente Decreto:
+MIGUEL ANGEL BARBERENA VEGA, Gobernador Constitucional del Estado Libre y Soberano de Aguascalientes, a sus habitantes, sabed:
 
-Al margen un sello que dice:- “Estados Unidos Mexicanos.- Gobierno de Tamaulipas.- Poder Legislativo.
+Que por el H. Congreso del Estado, se me ha comunicado lo siguiente:
 
-LA LEGISLATURA SESENTA Y SEIS CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS, EN USO DE LAS FACULTADES QUE LE CONFIEREN LOS ARTÍCULOS 58, FRACCIÓN I DE LA CONSTITUCIÓN POLÍTICA LOCAL; Y 119 DE LA LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS, TIENE A BIEN EXPEDIR EL SIGUIENTE:
+El H. Congreso del Estado en sesión ordinaria celebrada hoy, tuvo a bien expedir el siguiente Decreto:
 
-D E C R E T O No. 66-529
+"NUMERO 1
 
-MEDIANTE EL CUAL SE EXPIDE LA LEY PARA LA PREVENCIÓN, MITIGACIÓN E IDENTIFICACIÓN DE RIESGOS Y RESPONSABILIDADES REFERENTE A INFRAESTRUCTURA ENERGÉTICA EXISTENTE, PARA PREVER LA SEGURIDAD Y PROTECCIÓN DE LA POBLACIÓN QUE HABITA EN EL ESTADO DE TAMAULIPAS.
+La H. LIV Legislatura del Estado Libre y Soberano de Aguascalientes, en uso de las facultades que le concede el Artículo 27 de la Constitución Política Local, en nombre del Pueblo, tuvo a bien expedir la siguiente
 
-###### ARTÍCULO ÚNICO.
+> <small>(REFORMADA SU DENOMINACION, P.O. 26 DE MAYO DE 2003)</small>
 
-Se expide la Ley para la Prevención, Mitigación e Identificación de Riesgos y Responsabilidades referente a Infraestructura Energética existente, para prever la Seguridad y Protección de la Población que habita en el Estado de Tamaulipas, para quedar como sigue:
+LEY DEL HOSPITAL DE PSIQUIATRIA "DR. GUSTAVO LEON MOJICA GARCIA"
 
-LEY PARA LA PREVENCIÓN, MITIGACIÓN E IDENTIFICACIÓN DE RIESGOS Y RESPONSABILIDADES REFERENTE A INFRAESTRUCTURA ENERGÉTICA EXISTENTE, PARA PREVER LA SEGURIDAD Y PROTECCIÓN DE LA POBLACIÓN QUE HABITA EN EL ESTADO DE TAMAULIPAS.
-
-### CAPÍTULO PRIMERO. Disposiciones Generales
-
-###### Artículo 1.
-
-Esta ley será aplicable para la prevención de peligros inminentes en la ejecución de obras públicas o privadas que se desarrollen en alguno de los municipios del territorio del Estado de Tamaulipas donde se encuentre instalada infraestructura energética.
-
-###### Artículo 2.
-
-Se considerará como un peligro inminente, cualquier condición o situación anormal en ductos o instalaciones utilizadas para el transporte de gas natural, etano y gas asociado al carbón mineral, así como petrolíferos, que pueda poner en riesgo la integridad de las personas, el medio ambiente o la infraestructura:
-
-a) Grado 1: fugas peligrosas que se caracterizan por lo siguiente:
-
-I. Fuga que, a juicio del personal operativo en el sitio de la fuga, la considere un peligro inmediato;
-
-II. Cualquier escape de gas que se haya encendido;
-
-III. Cualquier indicación de que el gas haya migrado al interior o debajo de un edificio o dentro de un túnel;
-
-IV. Cualquier indicación de presencia de gas próxima a complejos habitacionales o predios catalogados para uso habitación;
-
-V. Cualquier lectura mayor o igual que 80% del límite inferior de explosividad del gas en un espacio confinado;
-
-VI. Cualquier lectura mayor o igual que 80% del límite inferior de explosividad del gas en otras subestructuras pequeñas, no asociadas con el gas por las cuales es probable que el gas migre al lado exterior de la pared de un edificio; y
-
-VII. Cualquier fuga que pueda ser detectada por medio de la vista, oído u olfato, y que está en una localización que puede ser peligrosa para las personas y sus bienes;
-
-b) Grado 2: las fugas que no representan un peligro inmediato al momento de ser detectadas pero que pueden constituir un riesgo potencial a futuro; por ello, es necesario programar su reparación de manera oportuna para prevenir que evolucionen en condiciones peligrosas; y
-
-c) Grado 3: fugas no peligrosas cuando se detectan y tampoco representan un riesgo probable para el futuro, por lo que, solo es necesario reevaluar periódicamente cada 3 meses hasta que sean reparadas para asegurarse que no cambien de grado.
-
-###### Artículo 3.
-
-Para los efectos de esta Ley se entiende por:
-
-I. Agentes Destructivos: a los fenómenos de carácter geológico, hidrometeorológico, químico-tecnológico, sanitario-ecológico, y socio-organizativo que pueden producir riesgo, alto riesgo, emergencia o desastre;
-
-II. Alto Riesgo: cuestión inminente o muy probable que ocurra una emergencia o desastre;
-
-III. Coordinación Estatal de Protección Civil: dependencia del Poder Ejecutivo del Estado, con autonomía técnica y operativa, jerárquicamente subordinada a la Secretaría General de Gobierno del Estado de Tamaulipas, la cual tendrá por objeto ejecutar las políticas, programas y acciones de protección civil en la entidad con el fin de salvaguardar a las personas, su patrimonio y entorno;
-
-IV. Emergencia: la situación derivada de fenómenos naturales, actividades humanas o desarrollo tecnológico que pueden afectar la vida y bienes de la población, instalaciones, los servicios públicos y el medio ambiente, cuya atención debe ser inmediata;
-
-V. Gestión Integral de Riesgos: el conjunto de acciones encaminadas a la identificación, análisis, evaluación, control y reducción de los riesgos, considerándolos por su origen multifactorial y en un proceso permanente de construcción, que involucre a los tres niveles de gobierno, así como a los sectores de la sociedad, lo que facilita la realización de acciones dirigidas a la creación e implementación de políticas públicas, estrategias y procedimientos integrados al logro de pautas de desarrollo sostenible, que combatan las causas estructurales de los desastres y fortalezcan las capacidades de resiliencia o resistencia de la sociedad. Involucra las etapas de: identificación de los riesgos y/o su proceso de formación, previsión, prevención, mitigación, preparación, auxilio, recuperación y reconstrucción;
-
-VI. Mitigación: es toda acción orientada a disminuir el impacto o daños ante la presencia de un agente perturbador sobre un agente afectable;
-
-VII. Municipio: constituye la unidad básica de la división territorial y de la organización social, política y administrativa del estado de Tamaulipas. Es una institución de orden público, dotado de personalidad jurídica y patrimonio propio, autónomo en su régimen interior y con libre administración de su Hacienda, recursos y servicios destinados a la comunidad local, sin más límites que los señalados expresamente en las leyes;
-
-VIII. Peligro: probabilidad de ocurrencia de un agente perturbador potencialmente dañino de cierta intensidad, durante un cierto periodo y en un sitio determinado;
-
-IX. Protección Civil: al conjunto de acciones, principios, normas, políticas y procedimientos preventivos o de auxilio, recuperación, y apoyo, tendientes a proteger la integridad física, la salud y el patrimonio de las personas, la planta productiva, la prestación de servicios públicos y el medio ambiente; realizadas ante los riesgos, altos riesgos, emergencias o desastres; que sean producidos por causas de origen natural, artificial o humano, llevados a cabo por las autoridades, organismos, dependencias e instituciones de carácter público, social o privado, grupos voluntarios y en general, por todas las personas que por cualquier motivo residan, habiten, o transiten en el Estado;
-
-X. Riesgo: la probabilidad de peligro o contingencia de que se produzca un desastre;
-
-XI. SEDENER: se entenderá como la Secretaría de Desarrollo Energético del Gobierno del Estado de Tamaulipas, misma que cuenta con las facultades y atribuciones para coordinar el desarrollo del sector energético en el Estado, de conformidad con lo establecido en la normatividad y disposiciones jurídicas aplicables;
-
-XII. Sistema de Información Energética Estatal de Tamaulipas (SIEET): herramienta desarrollada por la Secretaría de Desarrollo Energético para la recopilación y organización de datos, promoviendo la transparencia y el acceso a la información energética en el estado de Tamaulipas; y
-
-XIII. Titular de la infraestructura energética: titulares de Inmueble con certificaciones y permisos (o en proceso de obtención) requeridos para el desarrollo de actividades del sector energético.
-
-### CAPÍTULO SEGUNDO. Política de Seguridad
-
-###### Artículo 4.
-
-Los municipios, previo a otorgar permiso a cualquier desarrollador para la realización de una obra, le requerirán un informe emitido por la SEDENER en el que se exponga si dentro del programa de perforación existe la instalación de infraestructura energética.
-
-###### Artículo 5.
-
-Los desarrolladores que pretenda (sic) realizar actividades de excavación, perforación, cimentación o construcción de cualquier índole dentro de una franja de 50 metros a cada lado del eje de ductos de transporte o distribución de gas natural deberán:
-
-I. Solicitar a la SEDENER se verifique si dentro del Sistema de Información Energética Estatal de Tamaulipas se encuentra información relacionada con los ductos de transporte o distribución de gas natural en la zona a realizar; y
-
-II. La SEDENER informará si existe infraestructura energética, así como vincular al regulado para que, en la fecha programada para realizar la perforación, el mismo cuente con presencia en la obra con el objeto de vigilar que la obra se desarrolle sin ningún peligro inminente.
-
-###### Artículo 6.
-
-Es obligación del desarrollador que pretenda realizar actividades de excavación, perforación, cimentación o construcción de cualquier índole, que la obra civil o industrial no comprometa la integridad de la infraestructura energética y que se salvaguardan las condiciones de seguridad y operación, conforme a lo establecido en las normas oficiales mexicanas NOM-007-ASEA-2016 y NOM-007-SECRE-2010, o la que las sustituyan o actualicen; respetar las distancias mínimas de seguridad establecidas por la normativa vigente, en particular:
-
-I. Una distancia mínima de 10 metros entre cualquier edificación permanente y la infraestructura energética identificada;
-
-II. Una separación de 15 metros respecto a instalaciones que almacenen sustancias peligrosas o inflamables; y
-
-III. Una separación de 50 metros respecto a hospitales, escuelas, guarderías, iglesias, centros recreativos u otros lugares de concentración de personas.
-
-### CAPÍTULO TERCERO. Actividades y Supuestos de Riesgo
-
-###### Artículo 7.
-
-Las actividades de construcción incluyen: la excavación, uso de explosivos, perforación, limpieza y descubrimiento de la tubería, excavación de túneles, relleno, remoción de estructuras superficiales, ya sea con explosivos o por medios mecánicos, y cualquier otra operación de movimiento de tierra, así como lo siguiente:
-
-I. En materia de prevención de daños los regulados deben, como mínimo:
-
-a) Proporcionar a la SEDENER información actualizada de la infraestructura energética existente en el territorio;
-
-b) Implementar un censo de las personas físicas o morales que pueden estar involucradas en actividades de construcción en el área en donde se localiza la infraestructura energética; y
-
-c) Establecer un programa de difusión de información a las personas físicas o morales mencionadas en el inciso anterior;
-
-II. En materia de prevención de daños los desarrolladores deben, como mínimo:
-
-a) Proporcionar los medios para recibir y registrar las notificaciones de las actividades planeadas de construcción;
-
-b) Proporcionar a la SENEDER información sobre las actividades de construcción cercanas a las zonas identificadas con infraestructura energética;
-
-c) Identificar con señalamientos temporales las tuberías enterradas en el área de construcción antes de que la actividad se inicie; y
-
-d) Solicitar al regulado las inspecciones que deban realizarse a tuberías cuando puedan ser dañadas por las actividades de construcción. La inspección debe realizarse tan frecuentemente como sea necesario durante y después de las actividades para verificar la integridad de la tubería, y en su caso deberá incluir supervisión de fugas.
-
-###### Artículo 8.
-
-Al finalizar la construcción el regulado y el desarrollador deberán firmar un acta de conformidad en la que se establezca el estado que guarda el desarrollo en cuestión, mismo que deberá ingresarse al municipio y a la SEDENER para su conocimiento y seguimiento.
-
-### CAPÍTULO CUARTO. Mecanismo de Canalización
-
-###### Artículo 9.
-
-La SEDENER será la autoridad facultada para identificar la existencia de infraestructura energética, así como vincular al sector público o privado que realizará la obra y al sector privado que tenga bajo su propiedad o posesión el dueto.
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2003)</small>
 
 ###### ARTICULO 1o.
 
-El Centro de Neuropsiquiatría es un organismo del Poder Ejecutivo del Estado dependiente en lo técnico y operativo del Instituto de Salud del Estado de Aguascalientes sujeto a las disposiciones del presente ordenamiento. Su domicilio será la ciudad de Aguascalientes.
+El Hospital de Psiquiatría "Dr. Gustavo León Mojica García" es un organismo del Poder Ejecutivo del Estado, dependiente en lo técnico y operativo del Instituto de Salud del Estado de Aguascalientes y sujeto a las disposiciones del presente ordenamiento.
+
+Su domicilio será la ciudad de Aguascalientes.
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2003)</small>
 
 ###### ARTICULO 2o.
 
-El Centro de Neuropsiquiatría tiene por objeto:
+El Hospital de Psiquiatría "Dr. Gustavo León Mojica García" tiene por objeto:
 
-I.- La atención de las enfermedades mentales a la población abierta que lo requiera, de acuerdo a las disposiciones de la Ley Estatal de Salud y de las políticas y programas del Instituto de Salud del Estado de Aguascalientes;
+I.- La atención de las enfermedades mentales a la población abierta que lo requiera, para su tratamiento y rehabilitación psicosocial, de acuerdo a las disposiciones de la Ley Estatal de Salud y de las políticas y programas del Instituto de Salud del Estado de Aguascalientes, con apego a la Norma Oficial Mexicana para la prestación de servicios de salud en unidades de atención integral hospitalaria médico-psiquiátrica vigente y demás normas oficiales aplicables;
 
-II.- La atención a los enfermos mentales que se encuentren en reclusorios del Estado o en otras instituciones estatales no especializadas en salud mental, conforme a las normas técnicas que establezcan la Secretaría de Salud y el Instituto de Salud del Estado; y
+II.- La atención a personas con problemas de adicciones que requieran tratamiento, de acuerdo a las disposiciones de la Ley Estatal de Salud y de las políticas y programas del Instituto de Salud del Estado de Aguascalientes, con apego a la Norma Oficial Mexicana para la prevención, tratamiento y control de las adicciones vigente y demás normas oficiales vigentes aplicables; y
 
 III.- Desarrollar los programas de atención a usuarios de conformidad con las normas, políticas y estrategias que establezcan en sus respectivos ámbitos de competencia el Ejecutivo Federal a través de la Secretaría de Salud y el Gobierno del Estado a través del Instituto de Salud del Estado de Aguascalientes.
 
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2003)</small>
+
 ###### ARTICULO 3o.
 
-El Centro de Neuropsiquiatría estará integrado a los sistemas nacional y estatal de salud.
+El Hospital de Psiquiatría "Dr. Gustavo León Mojica García" estará integrado a los sistemas nacional y estatal de salud.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE MAYO DE 2003)</small>
 
 ###### ARTICULO 4o.
 
-El Centro de Neuropsiquiatría contará para el desempeño de sus funciones con:
+El Hospital de Psiquiatría "Dr. Gustavo León Mojica García" contará para el desempeño de sus funciones con:
 
 I.- Los bienes muebles e inmuebles que le asignen los Gobiernos Federal y Estatal;
 
-II.- Las aportaciones o asignaciones que hagan los Gobiernos Federal y Estatal, las entidades o instituciones públicas y privadas y los particulares;
+II.- Las aportaciones o asignaciones que hagan los Gobiernos Federal y Estatal, las entidades o instituciones públicas o privadas y los particulares;
 
 III.- Los legados, donaciones, participaciones, fideicomisos y demás liberalidades que en su favor se constituyan;
 
-IV.- Las utilidades, rentas, dividendos y aprovechamientos que generen sus inversiones, bienes y operaciones;
+IV.- Las utilidades, rentas, dividendos y aprovechamientos que generen inversiones, bienes y operaciones;
 
 V.- Las cuotas que por sus servicios recaude; y
 
-VI.- En general los demás bienes, derechos y recursos que adquiera por cualquier título legal.
+VI.- En general, los demás bienes, derechos y recursos que adquiera por cualquier título legal.
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2003)</small>
 
 ###### ARTICULO 5o.
 
-El Centro de Neuropsiquiatría gozará de autonomía en su organización interna, en su funcionamiento y en el manejo de los recursos que le sean asignados, sin más limitaciones que las que provengan de las decisiones y de las políticas administrativas de sus órganos de gobierno y de las leyes aplicables.
+El Hospital de Psiquiatría "Dr. Gustavo León Mojica García" gozará de autonomía en su organización interna, en su funcionamiento y en el manejo de los recursos que le sean asignados, sin más limitaciones que las que provengan de las decisiones y de las políticas administrativas de sus órganos de gobierno y de las leyes aplicables.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE MAYO DE 2003)</small>
 
 ###### ARTICULO 6o.
 
-Los órganos de gobierno del Centro de Neuropsiquiatría serán:
+Los órganos de gobierno del Hospital de Psiquiatría "Dr. Gustavo León Mojica García" son:
 
 I.- El Gobernador del Estado; y
 
 II.- El Director General del Instituto de Salud del Estado de Aguascalientes.
 
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2003)</small>
+
 ###### ARTICULO 7o.
 
-El Centro de Neuropsiquiatría contará con una junto (sic) de gobierno como órgano auxiliar de asesoría y apoyo de su Dirección.
+El Hospital de Psiquiatría "Dr. Gustavo León Mojica García" contará con una Junta de Gobierno como órgano auxiliar de asesoría y apoyo de su Dirección.
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2003)</small>
 
 ###### ARTICULO 8o.
 
-La Junta de Gobierno estará integrada por el Director General del Instituto de Salud del Estado de Aguascalientes quien fungirá como Presidente, un representante del Gobierno del Estado y tres vocales nombrados por el Gobernador del Estado.
+La Junta de Gobierno estará integrada por el Director General del Instituto de Salud del Estado de Aguascalientes, quien fungirá como Presidente, un representante del Gobierno del Estado y tres vocales nombrados por el Gobernador del Estado.
 
-Cada miembro titular designará a quien lo supla en sus ausencias.
-
-Los miembros de la Junta de Gobierno desempeñarán sus cargos con carácter honorífico y por lo tanto sin retribución o compensación alguna.
+Cada miembro titular designará a quien lo supla en sus ausencias. Los miembros de la Junta de Gobierno desempeñarán sus cargos con carácter honorífico y por lo tanto sin retribución o compensación alguna.
 
 ###### ARTICULO 9o.
 
 La Junta de Gobierno tendrá las siguientes facultades:
 
-I.- Conocer y emitir recomendaciones sobre el programa de trabajo, presupuestos, informes y estados financieros del Centro que proponga o elabore el Director;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2003)</small>
 
-II.- Analizar y opinar sobre el estatuto orgánico y los manuales de operación, de procedimientos y de servicios del Centro;
+I.- Conocer y emitir recomendaciones sobre el programa de trabajo, presupuestos, informes y estados financieros del Hospital que proponga o elabore el Director;
 
-III.- Opinar sobre las cuotas de recuperación por los servicios que preste el Centro;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2003)</small>
 
-IV.- Analizar y sugerir sobre la estructura orgánica del Centro y las modificaciones que a la misma procedan;
+II.- Analizar y opinar sobre el estatuto orgánico y los manuales de operación, de procedimientos y de servicios del Hospital;
 
-V.- Conocer y opinar en relación a los cambios en la Dirección del Centro, previa consulta con los órganos de gobierno del mismo; y
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2003)</small>
+
+III.- Opinar sobre las cuotas de recuperación por los servicios que preste el Hospital;
+
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2003)</small>
+
+IV.- Analizar y sugerir sobre la estructura orgánica del Hospital y las modificaciones que a la misma procedan;
+
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2003)</small>
+
+V.- Conocer y opinar con relación a los cambios en la Dirección del Hospital, previa consulta con los órganos de gobierno del mismo; y
 
 VI.- Las demás que le sean delegadas por los órganos de gobierno y que fueren necesarias para el ejercicio de las facultades anteriores.
 
-###### Artículo 10.
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2003)</small>
 
-Los municipios serán los encargados de autorizar las obras públicas en su territorio.
+###### ARTICULO 10.
 
-###### Artículo 11.
+La Junta de Gobierno celebrará como mínimo cuatro sesiones ordinarias al año y las extraordinarias que proponga su Presidente o tres de sus miembros.
 
-En caso de existir algún riesgo inminente, se deberá avisar a la Coordinación Estatal de Protección Civil, para que la misma en atención a sus facultades y atribuciones atienda en el incidente a la brevedad, utilizando los protocolos existentes y en total apego a la normatividad aplicable.
+La Junta sesionará válidamente con la asistencia de por lo menos la mitad más uno de los miembros. Los acuerdos se tomarán por mayoría de votos de los miembros presentes y el Presidente tendrá voto de calidad en caso de empate.
 
-T R A N S I T O R I O S
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2003)</small>
+
+###### ARTICULO 11.
+
+El Director y los Subdirectores Médico y Administrativo del Hospital de Psiquiatría "Dr. Gustavo León Mojica García" serán nombrados y removidos por el Gobernador del Estado, a propuesta de la Junta de Gobierno del Hospital.
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2003)</small>
 
 ###### ARTICULO 12.
 
-El Director del Centro será mexicano por nacimiento, con título profesional de médico cirujano expedido por lo menos cinco años anteriores a su designación y de preferencia contar con la especialidad en psiquiatría y dirección y administración de instituciones especializadas en el área de salud mental.
+El Director del Hospital de Psiquiatría "Dr. Gustavo León Mojica García" será mexicano, con título profesional de médico cirujano con especialidad en psiquiatría, expedido por lo menos cinco años anteriores a su designación y de preferencia contar con las especialidades en dirección y administración de instituciones especializadas en el área de salud mental.
 
 ###### ARTICULO 13.
 
 Los órganos de gobierno tendrán las siguientes facultades:
 
-I.- Administrar el Centro de acuerdo a las políticas administrativas y reglamentarias del Instituto de Salud del Estado de Aguascalientes;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2003)</small>
 
-II.- Presentar para su conocimiento a la Junta de Gobierno, los planes de labores, presupuestos, informes de utilidades y estados financieros del Centro;
+I.- Administrar el Hospital de acuerdo a las políticas administrativas y reglamentarias del Instituto de Salud del Estado de Aguascalientes;
 
-III.- Autorizar de conformidad con las disposiciones legales y reglamentarias aplicables, las políticas, bases y programas generales que regulen los convenios, contratos, pedidos y acuerdos que deba celebrar el Centro con terceros, respecto a obras públicas, adquisiciones, arrendamientos y prestación de servicios relacionados con bienes muebles e inmuebles;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2003)</small>
 
-IV.- Celebrar convenios, contratos y demás actos jurídicos que sean necesarios para el cumplimiento del objeto del Centro;
+II.- Presentar para su conocimiento a la Junta de Gobierno, los planes de labores, presupuestos, informes de utilidades y estados financieros del Hospital;
+
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2003)</small>
+
+III.- Autorizar de conformidad con las disposiciones legales y reglamentarias aplicables, las políticas, bases y programas generales que regulen los convenios, contratos, pedidos, y acuerdos que deba celebrar el Hospital con terceros, respecto a obras públicas, adquisiciones, arrendamientos y prestación de servicios relacionados con bienes muebles o inmuebles;
+
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2003)</small>
+
+IV.- Celebrar convenios, contratos y demás actos jurídicos que sean necesarios para el cumplimiento del objetivo del Hospital;
 
 V.- Fijar los lineamientos a que deberán sujetarse los convenios, contratos y demás actos jurídicos que se celebren con dependencias y entidades federales y estatales, así como organismos de los sectores social y privado;
 
 VI.- Informar a la Junta de Gobierno sobre los proyectos de inversión;
 
-VII.- Dar a conocer a la Junta de Gobierno los informes, dictámenes y recomendaciones del Auditor Externo, así como los informes y estados financieros bimestrales del Centro;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2003)</small>
+
+VII.- Dar a conocer a la Junta de Gobierno los informes, dictámenes y recomendaciones del Auditor Externo, así como los informes y estados financieros bimestrales del Hospital;
 
 VIII.- Aplicar y vigilar el correcto ejercicio del gasto presupuestal autorizado;
 
-IX.- Planear, dirigir, organizar y evaluar el desarrollo de los programas del Centro;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2003)</small>
 
-X.- El nombramiento del personal a propuesta de la Dirección del Centro y llevar las relaciones laborales de acuerdo con las disposiciones legales y las políticas administrativas del Instituto de Salud del Estado de Aguascalientes;
+IX.- Planear, dirigir, organizar y evaluar el desarrollo de los programas del Hospital;
 
-XI.- Delegar en el Director del Centro, las facultades necesarias para el desempeño de su cargo;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2003)</small>
+
+X.- El nombramiento del personal a propuesta de la Dirección del Hospital y llevar las relaciones laborales de acuerdo con las disposiciones legales y las políticas administrativas del Instituto de Salud del Estado de Aguascalientes;
+
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2003)</small>
+
+XI.- Delegar en el Director del Hospital, las facultades necesarias para el desempeño de su cargo;
 
 XII.- Los órganos de gobierno podrán delegar en forma total o parcial sus facultades; y
 
 XIII.- Las demás que sean necesarias para el desempeño de las anteriores.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE MAYO DE 2003)</small>
+
 ###### ARTICULO 14.
 
-El Auditor Externo es el órgano de vigilancia del Centro de Neuropsiquiatría, será nombrado por la Contraloría General del Gobierno del Estado y tendrá las siguientes atribuciones:
+El Auditor Externo es el órgano de vigilancia del Hospital de Psiquiatría "Dr. Gustavo León Mojica García", será nombrado por la Contraloría General del Gobierno del Estado y tendrá las siguientes atribuciones:
 
 I.- Practicar las auditorías de los estados financieros y las de carácter administrativo que se requieran;
 
-II.- Recomendar a los órganos de gobierno del Centro las medidas preventivas y correctivas que sean convenientes para su mejoramiento; y
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2003)</small>
+
+II.- Recomendar a los órganos de gobierno del Hospital las medidas preventivas y correctivas que sean convenientes para su mejoramiento; y
 
 III.- Asistir a las sesiones de la Junta de Gobierno con carácter informativo, con voz pero sin voto.
 
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2003)</small>
+
 ###### ARTICULO 15.
 
-Los gastos correspondientes a la operación del Centro se cubrirán con sus ingresos de acuerdo a las políticas administrativas aprobadas por los órganos de gobierno.
+Los gastos correspondientes a la operación del Hospital de Psiquiatría "Dr. Gustavo León Mojica García" se cubrirán con sus ingresos de acuerdo a las políticas administrativas aprobadas por los órganos de gobierno.
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2003)</small>
 
 ###### ARTICULO 16.
 
-La Tesorería General del Estado tendrá amplias facultades de control y fiscalización respecto de la administración de los fondos que ingresen al Centro de Neuropsiquiatría.
+La Tesorería General del Estado tendrá amplias facultades de control y fiscalización respecto de la administración de los fondos que ingresen al Hospital de Psiquiatría "Dr. Gustavo León Mojica García".
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2003)</small>
 
 ###### ARTICULO 17.
 
-El Gobierno Federal tendrá amplias facultades de control y fiscalización respecto del manejo de fondo que le destine al Centro, de acuerdo a las disposiciones legales vigentes.
+El Gobierno Federal tendrá amplias facultades de control y fiscalización respecto del manejo de fondo que le destine al Hospital de Psiquiatría "Dr. Gustavo León Mojica García", de acuerdo a las disposiciones legales vigentes.
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2003)</small>
 
 ###### ARTICULO 18.
 
-El personal del Centro de Neuropsiquiatría estará sujeto al régimen laboral que tienen los servidores públicos del Gobierno del Estado de Aguascalientes.
+El personal del Hospital de Psiquiatría "Dr. Gustavo León Mojica García" estará sujeto al régimen laboral que tienen los servidores públicos del Gobierno del Estado de Aguascalientes.
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2003)</small>
 
 ###### ARTICULO 19.
 
-En el Estatuto Orgánico del Centro se fijarán todas las cuestiones relativas a su organización y funcionamiento interno que no se encuentren previstas en este Ordenamiento.
+En el Estatuto Orgánico del Hospital de Psiquiatría "Dr. Gustavo León Mojica García" se fijarán todas las cuestiones relativas a su organización y funcionamiento interno que no se encuentren previstas en este Ordenamiento.
 
 ## TRANSITORIOS
 
-###### ARTÍCULO PRIMERO.
+###### ARTICULO PRIMERO.
 
-La presente ley entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-###### ARTÍCULO SEGUNDO.
+###### ARTICULO SEGUNDO.
 
-La Secretaría de Desarrollo Energético, expedirá dentro de los 180 días siguientes a la entrada en vigor de la presente Ley, el instrumento denominado Sistema de Información Energética Estatal de Tamaulipas, con la información proporcionada e identificada por aquellas personas o entidades vinculadas al sector energético.
+La Junta de Gobierno expedirá el Estatuto Orgánico del Centro en un plazo de noventa días naturales a partir de su constitución.
 
-###### ARTÍCULO TERCERO.
+###### ARTICULO TERCERO.
 
-La Secretaría de Desarrollo Energético, realizará modificaciones a su Reglamento Interior, así como a sus Manuales de Organización, con el objeto de integrar las facultades que este ordenamiento le otorga, asimismo; realizará las adecuaciones de carácter orgánico, estructural y funcional para su debido cumplimiento.
+La Tesorería General del Estado fijará en el Presupuesto de Egresos la partida correspondiente al Centro.
 
-###### ARTÍCULO CUARTO.
+###### ARTICULO CUARTO.
 
-Las erogaciones que se generen con motivo de la entrada en vigor de la presente Ley, se cubrirán con cargo al presupuesto aprobado a la Secretaría de Desarrollo Energético, para el ejercicio fiscal que corresponda a la entrada en vigor de esta ley y los subsecuentes que correspondan.
-
-CENTRO DE CONVENCIONES Y EXPOSICIONES.- Tampico, Tam., a 30 de octubre del año 2025.- DIPUTADA PRESIDENTA.- EVA ARACELI REYES GONZÁLEZ.- Rúbrica.- DIPUTADA SECRETARIA.- PATRICIA MIREYA SALDÍVAR CANO.- Rúbrica.- DIPUTADO SECRETARIO.- FRANCISCO HERNÁNDEZ NIÑO.- Rúbrica.”
-
-Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
-
-Dado en la residencia del Poder Ejecutivo, en Victoria, Capital del Estado de Tamaulipas, a los treinta y un días del mes de octubre del año dos mil veinticinco.
-
-ATENTAMENTE.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS.- AMÉRICO VILLARREAL ANAYA.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO.- HÉCTOR JOEL VILLEGAS GONZÁLEZ.- Rúbrica.
+Los servidores públicos que actualmente laboran en el Centro de Neuropsiquiatría, conservarán sus derechos laborales y antigüedad.
 
 ###### ARTICULO QUINTO.
 
@@ -370,3 +304,105 @@ Ing. Miguel Angel Barberena Vega.
 EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Héctor Valdivia Carreón.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 26 DE MAYO DE 2003.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Los servidores públicos que actualmente laboran en el Centro de Neuropsiquiatría conservarán sus derechos laborales y antigüedad.
+
+P.O. 28 DE DICIEMBRE DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley Orgánica de la Administración Pública del Estado de Aguascalientes, publicada en el Periódico Oficial del· Estado en fecha 8 de noviembre del 2001 en el Periódico Oficial del Estado de Aguascalientes mediante Decreto Número 213.
+
+###### ARTÍCULO TERCERO.
+
+Se abroga la Ley que Crea el Instituto del Medio Ambiente del Estado de Aguascalientes, publicada en el Periódico Oficial del Estado de Aguascalientes el 11 de abril del 2005 mediante Decreto Número 40, así como los ordenamientos que de ella deriven, y en consecuencia se extingue el Organismo Público Descentralizado denominado Instituto de Medio Ambiente del Estado de Aguascalientes.
+
+###### ARTÍCULO CUARTO.
+
+Se abroga la Ley que Crea el Organismo Público Descentralizado Denominado Comisión para el Desarrollo Agropecuario del Estado de Aguascalientes, publicada en el Periódico Oficial del Estado de Aguascalientes el 18 de marzo de 1990 mediante Decreto Número 25 y en consecuencia se extingue el Organismo Público Descentralizado denominado Comisión para el Desarrollo Agropecuario del Estado de Aguascalientes.
+
+###### ARTÍCULO QUINTO.
+
+Se deroga el Título 3 Tercero, Capítulo Único, que comprende del Artículo 13 al 27 de la Ley de Salud del Estado de Aguascalientes.
+
+El Organismo Público Descentralizado denominado Instituto de Salud del Estado de Aguascalientes se transforma en Instituto de Servicios de Salud del Estado de Aguascalientes.
+
+El Decreto de Creación del Instituto de Servicios de Salud del Estado de Aguascalientes, lo deberá expedir el Congreso del Estado, dentro de los 60 días naturales contados a partir de la entrada en vigencia de la presente ley.
+
+Se abroga la ley del Centenario Hospital Miguel Hidalgo del Estado de Aguascalientes, publicada en el Periódico Oficial del Estado de Aguascalientes el 26 de noviembre del 2007 mediante Decreto Número 396 y en consecuencia el Hospital Centenario Miguel Hidalgo pasa a formar parte de las unidades administrativas de la Secretaría de Salud.
+
+Se abroga la Ley del Hospital de Psiquiatría "Dr. Gustavo León Mojica García" del Estado de Aguascalientes, publicada en el Periódico Oficial del Estado de Aguascalientes el 26 de mayo del 2003 mediante Decreto Número 91 y en consecuencia el Hospital de Psiquiatría "Dr. Gustavo León Mojica García" pasa a formar parte de las unidades administrativas de la Secretaría de Salud.
+
+El Poder Ejecutivo del Estado, en un plazo no mayor de 30 días naturales contados a partir del inicio de vigencia del presente ordenamiento, deberá expedir los Acuerdos por virtud de los cuales se establezca el esquema administrativo y organizacional de cada uno de los hospitales referidos con antelación.
+
+Hasta en tanto se expidan los ordenamientos referidos, se seguirá aplicando el Título Tercero, Capítulo Único, que comprende del Artículo 13 al 27 de la ley de Salud del Estado de Aguascalientes, la normativa reglamentaria vigente y, en su caso, los lineamientos que emita el Secretario de Salud.
+
+###### ARTÍCULO SEXTO.
+
+Se abroga la Ley del Centro Estatal de Estudios Municipales de Aguascalientes, publicada en el Periódico Oficial del Estado de Aguascalientes el 21 de septiembre del 1984 y en consecuencia se extingue el Organismo Público Descentralizado denominado Centro Estatal de Estudios Municipales.
+
+###### ARTÍCULO SÉPTIMO.
+
+A la entrada en vigencia del presente Decreto se realizarán las siguientes transferencias de personal, de recursos financieros y materiales:
+
+a) Del Instituto de Medio Ambiente a la Secretaría de Medio Ambiente;
+
+b) De la Comisión para el Desarrollo Agropecuario a la Secretaría de Desarrollo Rural y Agroempresarial; y
+
+c) De una Entidad o Dependencia a otra, según proceda.
+
+Los acuerdos y convenios celebrados con el Gobierno Federal, así como los compromisos, derechos y procedimientos que hubieren suscrito, contraído, adquirido o desarrollado las respectivas Entidades y Dependencias extintas, así como las atribuciones que otras leyes les asignen, serán asumidos por la Dependencia o Entidad correspondiente.
+
+###### ARTÍCULO OCTAVO.
+
+Las obligaciones laborales de cada Entidad o Dependencia que se extinga o desaparezca, serán asumidas por la respectiva Dependencia o Entidad, respetando los derechos de los trabajadores, en términos de las disposiciones aplicables.
+
+Los derechos laborales de los trabajadores de base del Instituto de Servicios de Salud del Estado de Aguascalientes, así como su afiliación al Sindicato que les corresponda en su ámbito laboral, serán garantizados atendiendo a lo establecido en la Ley de Salud del Estado de Aguascalientes y en el Estatuto de los Trabajadores al Servicio de los Gobiernos del Estado de Aguascalientes, sus Municipios y Organismos Descentralizados, en la transferencia institucional que se realice a la Secretaría de Salud, según corresponda.
+
+En su caso, los Titulares de las Entidades y Dependencias que se transformen y las de nueva creación, de acuerdo con las necesidades institucionales, podrán determinar, conjuntamente con la Oficialía Mayor y demás autoridades correspondientes, las transferencias de personal, su reubicación en otras Dependencias o Entidades, o la terminación de la relación laboral.
+
+###### ARTÍCULO NOVENO.
+
+Las transferencias del personal y recursos materiales y financieros a que se refieren los artículos que anteceden, serán coordinadas y vigiladas por la Secretaría de Finanzas, la de Fiscalización y Rendición de Cuentas y por la Oficialía Mayor, y deberán concluir a más tardar en el mes de noviembre del 2011.
+
+Dichas transferencias incluirán las adecuaciones presupuestarias derivadas de las modificaciones a la estructura orgánica, programática y financiera, a los calendarios financieros y de metas, así como por las de recursos humanos y de activos patrimoniales· según correspondan.
+
+Las Secretarías de Finanzas, la de Fiscalización y Rendición de Cuentas y la Oficialía Mayor, con la participación de las Dependencias y Entidades correspondientes, al concluir dichos traspasos deberán rendir el informe respectivo a la Legislatura del Estado, para su sanción.
+
+El Titular del Poder Ejecutivo, publicará en el Periódico Oficial del Estado la conclusión del proceso de transferencia de cada una de las Dependencias y Entidades respectivas.
+
+###### ARTÍCULO DÉCIMO.
+
+Cuando esté siendo sustanciado un asunto competencia de alguna Dependencia o Entidad establecida con anterioridad a la vigencia del presente Decreto y que por disposición de éste, deba ser ejercida por otra u otras, deberán transferirse los expedientes en trámite y el archivo a la nueva Dependencia o Entidad la cual deberá concluir dichos asuntos y dictar la resolución correspondiente.
+
+Los asuntos que con motivo de este Decreto deban pasar de una Dependencia o Entidad a otra, permanecerán en el último trámite que hubieren alcanzado, a excepción de aquellos urgentes o sujetos a término, los cuales se atenderán por quien los venía despachando.
+
+En relación a los expedientes, asuntos, procedimientos y recursos instaurados en la Contraloría General del Estado, que serán asumidos por la Secretaría de Fiscalización y Rendición de Cuentas, ésta publicará en el Periódico Oficial del Estado el Acuerdo de Inicio de Funciones, que hará las veces de notificación de que dicha Secretaría continuará con el trámite y resolución de los mismos, para todos los efectos legales.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+El Titular del Poder Ejecutivo del Estado deberá expedir los reglamentos interiores de las Dependencias de nueva creación a que se refiere el presente ordenamiento, así como adecuar los de las Dependencias cuyas atribuciones se reforman o modifican, dentro del plazo de 60 días naturales, contados a partir de la entrada en vigencia del presente Decreto. Entre tanto, se aplicarán los reglamentos que han regido en lo que no contravengan al presente Decreto, quedando facultado el Jefe de Gabinete para resolver las cuestiones de competencia reglamentaria que al efecto se presenten.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+La Secretaría de Finanzas, en coordinación con la Oficialía Mayor y la Secretaría de Fiscalización y Rendición de Cuentas, será la encargada de dictaminar la estructura orgánica, creación, modificación y supresión de las unidades administrativas y plazas de cada Dependencia, de manera funcional y presupuestal.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+Se derogan todas las disposiciones legales, reglamentarias y administrativas que se opongan a la presente Ley, de igual o menor jerarquía.
+
+Cuando en esta Ley se dé una denominación distinta a alguna Dependencia o Entidad con funciones o atribuciones establecidas por otro ordenamiento jurídico, dichas funciones o atribuciones se entenderán conferidas a la Dependencia o Entidad que determine la presente Ley y demás disposiciones relativas, en tanto no se expidan o reformen los ordenamientos jurídicos correspondientes.
