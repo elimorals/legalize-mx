@@ -4,7 +4,7 @@ identifier: "SLP-ley-estatal-de-proteccion-a-los-animales-del-estado-de-san-7962
 country: "mx"
 rank: "ley"
 publication_date: "1995-03-17"
-last_updated: "2010-12-21"
+last_updated: "2010-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7962&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ESTATAL DE PROTECCION A LOS ANIMALES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2010.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el viernes 17 de marzo de 1995.
 
@@ -169,13 +169,17 @@ Para los efectos de esta Ley se entiende por animal doméstico, cualquier especi
 
 Se entienden por animales silvestres todas aquellas especies que no han sido domesticadas por el hombre.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 16.
 
-Esta ley considera animales de trabajo, todos aquellos cuadrúpedos que auxilien o compartan actividades con el hombre.
+Esta Ley considera animales de trabajo, todos aquellos cuadrúpedos que auxilien o compartan actividades con el hombre para facilitar el trabajo de campo, arreo o carga, siempre estando bajo responsabilidad y custodia del mismo, el cual proveerá a los animales de trabajo los cuidados correspondientes a su salud, alimentación y bienestar.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 17.
 
-Los animales de trabajo deberán contar con espacios adecuados que garanticen su seguridad y salud.
+Los animales de trabajo deberán contar con espacios adecuados que por su naturaleza requieren para el movimiento y acomodo, a fin de que cuenten con un descanso suficiente para el día siguiente en que se requiera su ayuda, siempre procurando la seguridad, higiene y salud de los mismos.
 
 ###### ARTICULO 18.
 
@@ -197,13 +201,17 @@ Los carruajes de tracción animal, no deberán ser cargados con un peso despropo
 
 Los animales de tiro y de carga, deben ser tratados de la siguiente manera:
 
-I.- Alimentarlos y proporcionarles el agua necesaria;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2010)</small>
+
+I.- Proporcionarles alimento y agua en cantidad y calidad adecuada, de acuerdo a su especie;
 
 II.- Deberán estar protegidos de las inclemencias de la naturaleza antes y después de prestar servicio;
 
 III.- Después de una jornada de trabajo, no deberán prestarse o alquilarse para realizar otros trabajos similares;
 
-IV.- Cuando cargados caigan al suelo, deberán ser descargados de inmediato para evitar que se lastimen y de ninguna manera golpearlos para que se levanten;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2010)</small>
+
+IV.- Cuando cargados caigan al suelo, deberán ser descargados de inmediato para evitar que se lastimen, y de ninguna manera golpearlos para que se levanten, asimismo, se les deberá brindar el cuidado y auxilio que requieran;
 
 > <small>(REFORMADA, P.O. 8 DE JULIO DE 2006)</small>
 
@@ -671,19 +679,23 @@ Para la aplicación de sanciones, por incumplimiento de las disposiciones de est
 
 Las infracciones denunciadas por escrito serán sancionadas por la secretaría de los ayuntamientos, tomando en cuenta las circunstancias señaladas en el segundo párrafo del Artículo 87 de esta Ley.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 82.
 
-Las conductas a que hace referencia el artículo anterior serán sancionadas por los secretarios de los ayuntamientos con multa de uno hasta cincuenta días de salario mínimo vigente en la Entidad.
+Las conductas a que hace referencia el artículo anterior, serán sancionadas por los secretarios de los ayuntamientos, con multa de cincuenta hasta doscientos días de salario mínimo vigente en la Entidad.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 83.
 
-Se sancionará con multa de uno hasta cien días de salario mínimo a quienes cometan los siguientes actos:
+Se sancionará con multa de doscientos hasta quinientos días de salario mínimo, a quienes cometan los siguientes actos:
 
 I.- Ocasionar la muerte intencional por cualquier medio no autorizado por esta Ley y que produzca una prolongada agonía al animal, causándole un sufrimiento innecesario;
 
-> <small>(REFORMADA, P.O. 7 DE MARZO DE 2009)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2010)</small>
 
-II.- La mutilación del animal sin las medidas indoloras necesarias;
+II.- La mutilación del animal sin las medidas indoloras necesarias; por negligencia o crueldad;
 
 > <small>(REFORMADA, P.O. 7 DE MARZO DE 2009)</small>
 
@@ -693,9 +705,11 @@ III.- Privar de aire, luz, alimento, espacio suficiente al animal en forma negli
 
 IV. Hostigue, maltrate o torture a cualquier animal.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 84.
 
-De comprobarse que los animales han sido torturados y maltratados con brutalidad excesiva y grave negligencia, la sanción podrá ser de uno hasta doscientas veces el salario mínimo vigente en la Entidad.
+De comprobarse que los animales han sido torturados y maltratados con brutalidad excesiva y grave negligencia, la sanción podrá ser de trescientos hasta seiscientos días de salario mínimo vigente en la Entidad.
 
 Igual sanción se impondrá a las personas reincidentes.
 
@@ -778,6 +792,12 @@ P.O. 7 DE MARZO DE 2009.
 UNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 21 DE DICIEMBRE DE 2010.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales en lo que se opongan al presente Decreto.
+
+P.O. 28 DE DICIEMBRE DE 2010.
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
