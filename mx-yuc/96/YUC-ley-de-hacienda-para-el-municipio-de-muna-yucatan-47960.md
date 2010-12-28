@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-para-el-municipio-de-muna-yucatan-47960"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-03"
-last_updated: "2008-12-27"
+last_updated: "2010-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47960&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE MUNA, YUCATAN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 27 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2010.
 
 Ley publicada en la Edición Vespertina del Diario Oficial del Estado de Yucatán, el martes 3 de enero de 2006.
 
@@ -927,15 +927,19 @@ La base del Impuesto Sobre Diversiones y Espectáculos Públicos, será la total
 
 DE LA TASA
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 28 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 70.
 
-La tasa del Impuesto Sobre Diversiones y Espectáculos Públicos, será de 0.08, misma que se aplicará sobre la base determinada, conforme al Artículo inmediato anterior, con excepción de los siguientes espectáculos:
+La tasa del impuesto sobre diversiones y espectáculos públicos, será de 0.05, misma que se aplicará sobre la base determinada, conforme al artículo inmediato anterior, con excepción de los siguientes espectáculos:
 
 I.- Cuando el espectáculo público consista en la puesta en escena de obras teatrales la tasa será de cero.
 
-II.- En espectáculos de circo, la tarifa será equivalente a 35 salarios mínimos.
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2010)</small>
 
-III.- En los permisos otorgados con motivo de bailes populares, luz y sonido, verbenas y otros, se cobrarán 11 salarios mínimos por día o un salario mínimo por hora.
+II.- En espectáculos de circo, la tarifa será de 4%.
+
+III.- (DEROGADA, D.O. 28 DE DICIEMBRE DE 2010)
 
 DE LA FACULTAD DE DISMINUIR LA TASA
 
@@ -1143,29 +1147,31 @@ Clase 3 --- 020 de un salario mínimo vigente en el Estado de Yucatán.
 
 Clase 4 --- 030 de un salario mínimo vigente en el Estado de Yucatán.
 
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2010)</small>
+
 La tarifa del derecho por los servicios mencionados en los demás incisos del artículo 81 de esta Ley será de:
 
-Por el servicio previsto en el inciso c) 02 de un salario por metro cuadrado.
+Por el servicio previsto en el inciso c) .02 de un salario por metro cuadrado.
 
-Por el servicio previsto en el inciso d) 10 de un salario por metro lineal.
+Por el servicio previsto en el inciso d) .10 de un salario por metro lineal.
 
-Por el servicio previsto en el inciso e) 25 de un salario por el servicio.
+Por el servicio previsto en el inciso e) 1.00 veces el salario mínimo.
 
-Por el servicio previsto en el inciso f) 50 de un salario por el servicio.
+Por el servicio previsto en el inciso f) 1.00 veces el salario mínimo.
 
-Por el servicio previsto en el inciso g) 10 de un salario por metro lineal.
+Por el servicio previsto en el inciso g) .10 de un salario por metro lineal.
 
-Por el servicio previsto en el inciso h) 20 de un salario por el resultante.
+Por el servicio previsto en el inciso h) 2.00 veces el salario mínimo.
 
-Por el servicio previsto en el inciso i) 02 de un salario por metro cuadrado
+Por el servicio previsto en el inciso i) .02 de un salario por metro cuadrado
 
 de vía pública.
 
-Por el servicio previsto en el inciso j) 30 de un salario por el servicio.
+Por el servicio previsto en el inciso j) 2.00 veces el salario mínimo.
 
-Por el servicio previsto en el inciso l) 25 de un salario por metro cúbico.
+Por el servicio previsto en el inciso l) .25 de un salario por metro cúbico.
 
-Por el servicio previsto en el inciso m) 05 de un salario por metro cuadrado.
+Por el servicio previsto en el inciso m) .05 de un salario por metro cuadrado.
 
 Las construcciones, excavaciones, demoliciones y demás obras o trabajos iniciados o llevados a cabo sin la licencia, autorización o constancia correspondiente, se entenderán extemporáneos y pagarán una sanción correspondiente a tres tantos del importe de la tarifa respectiva.
 
@@ -1233,6 +1239,10 @@ Quedan obligados al pago de los derechos para la obtención de las licencias de 
 
 9.- Salón Cerveza.
 
+> <small>(ADICIONADO, D.O. 28 DE DICIEMBRE DE 2010)</small>
+
+Asimismo, se podrá otorgar permisos y autorizaciones de tipo eventual que se establezcan en esta Ley.
+
 DE LA VIGENCIA
 
 ###### Artículo 89.
@@ -1249,11 +1259,29 @@ TARIFA
 
 La tarifa de los derechos para la obtención de la Licencias (sic) de Funcionamiento de los establecimientos que se señalan en el Artículo 88 de esta Ley, serán los siguientes:
 
-I.- Por apertura $ 2,500.00
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2010)</small>
 
-II.- Por revalidación $ 600.00
+I.- Por apertura de expendios $ 12,000.00
+
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2010)</small>
+
+II.- Por apertura de mini súper y/o
+
+Restaurante $ 10,000.00
 
 III.- Por permisos eventuales $ 500.00
+
+> <small>(DEROGADA [N. DE E. ADICIONADA], D.O. 28 DE DICIEMBRE DE 2010)</small>
+
+IV.- Por revalidación $ 800.00
+
+> <small>(ADICIONADO, D.O. 28 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 90 Bis.
+
+Por el otorgamiento de permisos con motivo de bailes populares, luz y sonido, verbenas y otros, se cobrarán $ 1,000.00 por día.
+
+Por permiso de cierre de calles la tarifa será de $ 80.00 por día. Cuando el cierre de calle sea por algún fallecimiento la tarifa será de cero pesos.
 
 DE LAS MULTAS Y CLAUSURAS
 
@@ -1355,9 +1383,13 @@ PAGO
 
 El pago de este derecho deberá efectuarse mensualmente en la caja de la Tesorería Municipal o en el domicilio de los contribuyentes a través de una persona que el Ayuntamiento designe para tal efecto.
 
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 103.
 
-Solamente quedarán exentos del pago de este derecho los bienes de dominio público de la Federación, Estado y Municipios.
+El pago por contratación y conexión de tomas nuevas será de $480.00 cuando incluya materiales y de $180.00 sin materiales.
+
+Solamente quedarán exentos del pago de este derecho los bienes de dominio público de la Federación, Estado y municipios.
 
 ### Capítulo VI. Derechos por Servicios de Mercados
 
@@ -1391,11 +1423,17 @@ a) De Vacuno $ 5.00 diario.
 
 b) De Porcino $ 2.50 diario.
 
+> <small>(ADICIONADA, D.O. 28 DE DICIEMBRE DE 2010)</small>
+
+IV.- Vendedores Ambulantes $ 50.00 diario.
+
 PAGO
+
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 107.
 
-El pago de estos derechos deberá realizarse mensualmente por los comerciantes con locales o puestos fijos o semifijos, así como por los comerciantes ambulantes permanentes. En los casos de comerciantes que realicen sus actividades de manera esporádica, ya sea fija o ambulante, el pago debe ser realizado cada vez que se solicite la asignación de lugares o espacios a la autoridad municipal.
+El pago de estos derechos deberá realizarse semanal o mensualmente por los comerciantes con locales o puestos fijos o semifijos, así como por los comerciantes ambulantes permanentes. En los casos de comerciantes que realicen sus actividades de manera esporádica, ya sea fija o ambulante, el pago debe ser realizado cada vez que se solicite la asignación de lugares o espacios a la autoridad municipal.
 
 ### Capítulo VII. Derechos de Seguridad Pública
 
@@ -1432,6 +1470,10 @@ I.- Inhumaciones en fosas y criptas
 a) Por temporalidad de 3 años $ 1,300.00
 
 b) Adquirida a Perpetuidad $ 2,700.00
+
+> <small>(ADICIONADO, D.O. 28 DE DICIEMBRE DE 2010)</small>
+
+c) Derecho de inhumación general $100.00
 
 II.- Adquisición de osarios a perpetuidad (1 m2) $ 1,000.00
 
@@ -1653,13 +1695,23 @@ Servicio Factor Salario
 
 Mínimo
 
-A) Por participar en licitaciones 10.
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2010)</small>
 
-B) Certificaciones y constancias expedidas por el Ayuntamiento .25
+A) Por participar en licitaciones $1,000.00
 
-C) Venta de formas oficiales 2.
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2010)</small>
 
-D) Venta de discos magnéticos 50
+B) Certificaciones y constancias
+
+expedidas por el Ayuntamiento $20.00
+
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2010)</small>
+
+C) Venta de formas oficiales $10.00
+
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2010)</small>
+
+D) Venta de discos magnéticos $50.00
 
 ### Capítulo XII. De los Derechos por el Uso y Aprovechamiento de los Bienes de Dominio Público del Patrimonio Municipal
 
@@ -2190,3 +2242,35 @@ D.O. 27 DE DICIEMBRE DE 2008.
 ###### ARTÍCULO ÚNICO.
 
 Este Decreto entrará en vigor al día siguiente a su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 28 DE DICIEMBRE DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+Para el ejercicio fiscal 2011, en vez de aplicar lo dispuesto en el segundo párrafo del artículo 38, los descuentos se otorgarán de conformidad con la siguiente tabla:
+
+Fecha en que se paga el equivalente Factor de descuento
+
+a una anualidad sobre el impuesto
+
+causado.
+
+Del 01 de Enero al 15 de Febrero 15%
+
+Del 16 de Febrero al 31 de Marzo 10%
+
+Para estos efectos, los contribuyentes que paguen el importe correspondiente a una anualidad en el mes de marzo no pagarán actualización y recargos sobre el impuesto correspondiente a los meses de enero y febrero del año de 2011.
+
+###### ARTÍCULO SEGUNDO.
+
+Para efectos de lo dispuesto en el artículo 57 fracción II; en tanto se modifica el reglamento de espectáculos, se estará a lo dispuesto por el H. Cabildo.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones de los reglamentos municipales que se opongan a la presente Ley.
+
+TRANSITORIO:
+
+###### ARTÍCULO ÚNICO.
+
+Este decreto entrará en vigor el día 1 de enero del año 2011, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
