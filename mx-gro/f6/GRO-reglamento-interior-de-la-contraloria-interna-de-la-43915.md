@@ -4,7 +4,7 @@ identifier: "GRO-reglamento-interior-de-la-contraloria-interna-de-la-43915"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-02-25"
-last_updated: "2005-02-25"
+last_updated: "2010-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43915&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GRO"
 
 REGLAMENTO INTERIOR DE LA CONTRALORIA INTERNA DE LA SECRETARIA DE EDUCACION GUERRERO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE EDUCACION GUERRERO, PUBLICADO EN EL P.O. DE 28 DE DICIEMBRE DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Guerrero, el viernes 25 de febrero de 2005.
 
@@ -530,3 +532,33 @@ El Contralor General del Estado.
 C. LIC. MARCELINO MIRANDA AÑORVE.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 28 DE DICIEMBRE DE 2010.
+
+Primero. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Segundo. Se abroga el Reglamento Interior de la Secretaría de Educación Guerrero, publicado en el Periódico Oficial del Gobierno del Estado número 25, con fecha 28 de marzo de 2003.
+
+Tercero. Se abroga el Reglamento Interior de la Contraloría Interna de la Secretaría de Educación Guerrero, publicado en él Periódico Oficial del Gobierno del Estado número 17, con fecha 25 de febrero de 2005.
+
+Cuarto. Se derogan todas aquellas disposiciones administrativas que se opongan a este Reglamento.
+
+Quinto. Los asuntos pendientes al entrar en vigor el presente Reglamento, que conforme al mismo deban pasar de una unidad administrativa a otra, continuarán su trámite y serán resueltos por aquella o aquellas unidades administrativas a las que se les hayan atribuido competencia en este ordenamiento.
+
+Sexto. Cuando en este Reglamento se dé una denominación nueva o distinta a alguna unidad administrativa establecida con anterioridad a la vigencia del mismo, los asuntos en trámite serán atendidos por la unidad administrativa con la nueva denominación.
+
+Séptimo. En cumplimiento a lo dispuesto por el artículo 1o. de la Ley de Reestructuración del Sector Educativo del Estado de Guerrero número 243, en un plazo no mayor a los noventa días siguientes a la fecha en que entre en vigor el presente Reglamento, la Secretaría a través de la Subsecretaría de Administración y Finanzas, deberá conformar una comisión encargada de realizar los estudios correspondientes para la debida integración de los servicios educativos que atiende el Gobierno del Estado.
+
+Octavo. Los recursos humanos, financieros y materiales que estuvieran asignados a las unidades administrativas que desaparecen o modifican su competencia, en virtud de lo dispuesto en el presente ordenamiento, serán concedidos a las unidades administrativas que asuman las correspondientes atribuciones, con la intervención de la Subsecretaría de Administración y Finanzas y la Contraloría Interna de la Secretaría, de conformidad con las instrucciones que al efecto dicte el Secretario.
+
+Noveno. El Reglamento de las Condiciones General (sic) de Trabajo para los servidores públicos del sector educativo, se elaborará dentro de los noventa días siguientes a la fecha en que entre en vigor el presente.
+
+Décimo. En tanto se expide el Reglamento, se estará a lo dispuesto por la Ley de Trabajo de los Servidores Públicos del Estado de Guerrero número 248.
+
+Décimo Primero. El Manual General de Organización de la Secretaría, se elaborará dentro de los noventa días siguientes a la fecha en que entre en vigor el presente Reglamento.
+
+Décimo Segundo. En tanto se expide el Manual a que se refiere este Reglamento, el Secretario, queda facultado para resolver las cuestiones de procedimiento y operación que se originen por la aplicación del presente Reglamento.
+
+Décimo Tercero. Los derechos de los trabajadores serán respetados, conforme a la Ley y, en ningún caso, serán afectados por la reorganización que implica el presente Reglamento.
