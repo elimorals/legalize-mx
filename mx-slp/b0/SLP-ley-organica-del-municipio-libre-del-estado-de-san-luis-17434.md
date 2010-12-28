@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-municipio-libre-del-estado-de-san-luis-17434"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-07-11"
-last_updated: "2010-12-21"
+last_updated: "2010-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17434&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGANICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2010.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 11 de julio de 2000.
 
@@ -371,11 +371,13 @@ El Ayuntamiento podrá realizar las sesiones antes citadas, fuera del recinto of
 
 Los ayuntamientos no podrán sesionar en recintos de organismos políticos o religiosos.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 23.
 
-A las sesiones ordinarias deberá citarse a los integrantes del Cabildo con por lo menos cuarenta y ocho horas de anticipación.
+A las sesiones ordinarias deberá citarse a los integrantes del cabildo, con por lo menos cuarenta y ocho horas de anticipación; debiendo acompañar al citatorio el orden del día correspondiente, al cual deberá ajustarse la sesión, así como la documentación de los asuntos que se van a tratar en dicha sesión.
 
-Para el caso de sesiones extraordinarias deberá citarse a los integrantes del Ayuntamiento, cuando menos con veinticuatro horas de anticipación, debiendo acompañar al citatorio el orden del día correspondiente al cual deberá ajustarse la sesión.
+Para el caso de sesiones extraordinarias, la convocatoria se hace para tratar uno o más asuntos urgentes, no aplica el punto de asuntos generales; y deberá citarse a los integrantes del ayuntamiento cuando menos con veinticuatro horas de anticipación, debiendo acompañar al citatorio el orden del día correspondiente, al cual deberá ajustarse la sesión, así como la documentación de los asuntos que se tratarán en dicha sesión.
 
 ###### ARTICULO 24.
 
@@ -489,7 +491,9 @@ VII. Los ayuntamientos podrán solicitar al Congreso del Estado las modificacion
 
 VIII. Remitir anualmente al Congreso del Estado, durante el mes de enero de cada año, el inventario general de bienes muebles e inmuebles de su propiedad, para efectos del control y registro de los mismos;
 
-IX. Aprobar el presupuesto anual de egresos; así como la cuenta pública municipal anual que le presente el Tesorero del Ayuntamiento, remitiéndola al Congreso del Estado para su revisión y fiscalización, a más tardar el día 31 de enero del año siguiente al del ejercicio.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2010)</small>
+
+IX. Aprobar el presupuesto anual de egresos, el cual deberá incluir los tabuladores desglosados de las remuneraciones que se propone perciban sus servidores públicos, sujetándose a las bases previstas en el artículo 133 de la Constitución Política del Estado; así como la cuenta pública municipal anual que le presente el Tesorero del Ayuntamiento, remitiéndola al Congreso del Estado para su revisión y fiscalización, a más tardar el día 31 de enero del año siguiente al del ejercicio.
 
 > <small>(ADICIONADO, P.O. 3 DE ABRIL DE 2007)</small>
 
@@ -1023,9 +1027,9 @@ Son facultades y obligaciones de los regidores las siguientes:
 
 I. Asistir puntualmente a las sesiones de Cabildo, participando en las discusiones con voz y voto;
 
-> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2007)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2010)</small>
 
-II. Desempeñar las comisiones que les encomiende el Cabildo, informando a éste de sus resultados;
+II. Desempeñar las comisiones que les encomiende el cabildo, informando a más tardar cada dos meses en sesión ordinaria, del trabajo realizado y de los resultados obtenidos;
 
 > <small>(REFORMADA, P.O. 3 DE ABRIL DE 2007)</small>
 
@@ -1211,9 +1215,9 @@ IX. Ejercer el presupuesto anual de egresos y vigilar que los gastos se apliquen
 
 X. Intervenir en la formulación de convenios de coordinación fiscal con el Gobierno del Estado;
 
-> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2007)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2010)</small>
 
-XI. Elaborar el proyecto y someter a la aprobación de Cabildo en forma oportuna, la cuenta pública anual municipal y el presupuesto anual de egresos, y
+XI. Elaborar el proyecto y someter a la aprobación del cabildo en forma oportuna, la cuenta pública anual municipal y el presupuesto anual de egresos, el cual deberá incluir los tabuladores desglosados de las remuneraciones que se propone perciban sus servidores públicos, sujetándose a las bases previstas en el artículo 133 de la Constitución Política del Estado, y
 
 XII. Las demás que le señalen las leyes y reglamentos municipales.
 
@@ -1301,9 +1305,11 @@ XII. Las demás que le señalen las leyes y reglamentos municipales.
 
 En los municipios que cuenten con una población indígena significativa, los ayuntamientos contarán con un Departamento de Asuntos Indígenas para atender o canalizar, con respeto a su cultura, usos, costumbres, tradiciones y formas de organización comunitaria, las demandas y propuestas de las personas y comunidades indígenas de su circunscripción y que correspondan a su competencia.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 88.
 
-El Departamento de Asuntos Indígenas estará a cargo de una persona que hable y escriba suficientemente la lengua o lenguas indígenas de la región de que se trate, designada por el Cabildo a propuesta del Presidente Municipal, quien preferentemente consultará a las autoridades tradicionales de las principales comunidades para presentar la misma.
+El Departamento de Asuntos Indígenas estará a cargo de una persona que hable y escriba suficientemente la lengua o lenguas indígenas de la región de que se trate, designada por el presidente municipal, a propuesta de las comunidades y pueblos indígenas del municipio respectivo.
 
 El Jefe del Departamento realizará las funciones y ejercerá las atribuciones que señale el Reglamento Interior del Municipio correspondiente. Se procurará que el personal de este Departamento sea preferentemente indígena.
 
@@ -2284,3 +2290,9 @@ P.O. 21 DE DICIEMBRE DE 2010.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 28 DE DICIEMBRE DE 2010.
+
+PRIMERO. Este Decreto entrará en vigencia al día·siguiente de su publicación en el periódico oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
