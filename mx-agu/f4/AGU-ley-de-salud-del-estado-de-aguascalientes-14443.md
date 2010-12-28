@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-salud-del-estado-de-aguascalientes-14443"
 country: "mx"
 rank: "ley"
 publication_date: "1999-06-06"
-last_updated: "2010-03-01"
+last_updated: "2010-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14443&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE SALUD DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE MARZO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2010.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 6 de junio de 1999.
 
@@ -205,8 +205,6 @@ Asimismo, fomentará la coordinación con los proveedores de insumos para la sal
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
-
 ###### ARTICULO 10.
 
 La concertación de acciones entre el Instituto de Salud del Estado de Aguascalientes y los integrantes de los sectores públicos, sociales y privados, se realizará mediante convenios y contratos, los cuales se ajustarán a las siguientes bases:
@@ -229,245 +227,73 @@ La competencia de las autoridades sanitarias en la planeación, regulación, pre
 
 El titular del Ejecutivo del Estado con la participación que corresponda al Instituto de Salud del Estado de Aguascalientes, a la Secretaría de Planeación y Desarrollo Regional y a los Ayuntamientos, elaborará el Programa Estatal de Salud, tomando en cuenta las prioridades y los servicios del Sistema Estatal de Salud.
 
+> <small>(DEROGADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, POR ARTICULO QUINTO TRANSITORIO DEL DECRETO NUMERO 19 QUE APRUEBA LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 28 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 13.
 
-La estructura administrativa a que se refieren los Artículos 19 y 20 de la Ley General de Salud, se denominará "Instituto de Salud del Estado de Aguascalientes". Este Instituto es un organismo público descentralizado, con personalidad jurídica, patrimonio propio y funciones de autoridad, que tiene como objetivo la prestación de servicios de salud a la población abierta en el Estado de Aguascalientes, en cumplimiento a lo dispuesto por la Ley General de Salud, por esta Ley, sus Reglamento (sic), y de conformidad con lo establecido en los Acuerdos de Coordinación y Descentralización que suscriba el Gobierno del Estado sobre la materia.
-
-Su domicilio oficial será el Municipio de Aguascalientes.
+(DEROGADO POR ARTICULO QUINTO TRANSITORIO DEL DECRETO NUMERO 19 QUE APRUEBA LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 28 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 14.
 
-El patrimonio del Instituto de Salud del Estado de Aguascalientes estará constituido por:
-
-I.- Los derechos que tenga sobre los bienes muebles e inmuebles y recursos que le transfieran los Gobiernos Federal, Estatal y Municipales;
-
-II.- Las aportaciones que los Gobiernos Federal, Estatal y Municipales le otorguen;
-
-III.- Las aportaciones, donaciones, legados y demás análogas que reciba de los sectores social y privado;
-
-IV.- Las cuotas de recuperación que reciba por los servicios que preste;
-
-V.- Los rendimientos, recuperaciones y demás ingresos que obtenga de la inversión de los recursos a que se refieren las fracciones anteriores;
-
-VI.- Las concesiones, permisos, licencias y autorizaciones que se le otorguen conforme a la Ley; y
-
-VII.- En general, todos los bienes, derechos y obligaciones que entrañen utilidad económica o sean susceptibles de estimación pecuniaria y que se obtengan por cualquier título legal.
+(DEROGADO POR ARTICULO QUINTO TRANSITORIO DEL DECRETO NUMERO 19 QUE APRUEBA LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 28 DE DICIEMBRE DE 2010)
 
 ## TITULO TERCERO. DEL ORGANISMO ENCARGADO DE OPERAR LOS SERVICIOS DE SALUD
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR ARTICULO QUINTO TRANSITORIO DEL DECRETO NUMERO 19 QUE APRUEBA LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 28 DE DICIEMBRE DE 2010)</small>
 
 ### CAPITULO UNICO
 
 ###### ARTICULO 15.
 
-El Organismo administrará su patrimonio con sujeción y controles que establecen las disposiciones legales federales y estatales aplicables y lo destinará al cumplimiento de su objeto, de conformidad con lo establecido en el presente ordenamiento y en los Acuerdos de Coordinación y Descentralización suscritos por el Gobierno del Estado sobre la materia.
+(DEROGADO POR ARTICULO QUINTO TRANSITORIO DEL DECRETO NUMERO 19 QUE APRUEBA LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 28 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 16.
 
-La dirección y administración del Organismo corresponderá:
-
-I.- Al Consejo Interno; y
-
-II.- Al Director General del Organismo.
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+(DEROGADO POR ARTICULO QUINTO TRANSITORIO DEL DECRETO NUMERO 19 QUE APRUEBA LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 28 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 17.
 
-El Consejo Interno quedará integrado de la siguiente forma:
-
-I.- Por un Presidente que será el Gobernador del Estado;
-
-II.- Por un Vicepresidente, que será designado por el Ejecutivo del Estado de entre las personas que administren centros prestadores de servicios de salud y representantes de organizaciones profesionales que agrupen a profesionistas y personas dedicadas a la prestación de este servicio;
-
-III.- Por un representante de la Secretaría de Desarrollo Social del Gobierno del Estado;
-
-IV.- Por un representante de la Secretaría de Salud del Gobierno Federal;
-
-V.- Por un representante del Sindicato, que será nombrado por el Comité Ejecutivo Nacional del Sindicato Nacional de Trabajadores de la Secretaría de Salud;
-
-VI.- Por un representante del Instituto Mexicano del Seguro Social;
-
-VII.- Por un representante del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado;
-
-VIII.- Por un representante del Sistema para el Desarrollo Integral de la Familia;
-
-IX.- Por un representante del Colegio de Médicos Cirujanos;
-
-X.- Por un representante del Colegio de Cirujanos Dentistas;
-
-XI.- Por un representante del Colegio de Optometría;
-
-XII.- Por un representante del Colegio de Enfermería;
-
-> <small>(REFORMADA, P.O. 17 DE JULIO DE 2006)</small>
-
-XIII.- Por un representante del Congreso del Estado;
-
-> <small>(REFORMADA, P.O. 17 DE JULIO DE 2006)</small>
-
-XIV.- Por un representante de los Municipios del Estado; y
-
-> <small>(ADICIONADA, P.O. 17 DE JULIO DE 2006)</small>
-
-XV.- Por un representante de la Comisión Estatal de Arbitraje Médico para el Estado de Aguascalientes.
-
-El Presidente del Consejo Interno podrá invitar a las sesiones de dicho órgano al Director del Organismo, a los representantes de instituciones públicas federales, estatales o municipales, representantes sindicales que guarden relación con el objeto del Organismo, y representantes de los colegios, asociaciones y organismos de profesionales, técnicos y auxiliares de la salud del Estado, cuando se traten asuntos que correspondan a la materia de éstos, los cuales tendrán voz pero no voto en la sesión.
-
-Por cada miembro propietario habrá un suplente, con excepción del Presidente. El Presidente tendrá voto de calidad.
-
-El Consejo Interno contará con un Secretario Técnico, designado por el propio Consejo a propuesta del Director General del Instituto de Salud del Estado de Aguascalientes, sin que pueda ser este mismo funcionario.
-
-Los cargos en el Consejo Interno serán honoríficos y por su desempeño no se percibirá retribución, emolumento o compensación alguna.
+(DEROGADO POR ARTICULO QUINTO TRANSITORIO DEL DECRETO NUMERO 19 QUE APRUEBA LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 28 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 18.
 
-El Consejo Interno tendrá las siguientes facultades:
-
-I.- Otorgar poderes al Director General del Organismo o a quien en términos del Reglamento Interior del Organismo se prevea, para efecto de que realicen actos de administración para la mejor organización y funcionamiento del organismo;
-
-II.- Emitir los acuerdos de delegación de facultades necesarios para la mejor organización y funcionamiento del organismo;
-
-III.- Examinar, discutir y aprobar, en su caso, los planes de trabajo que se propongan, así como los informes de actividades presupuestales y estados financieros que se presenten a su consideración y autorizar su publicación;
-
-IV.- Aprobar el Reglamento Interior y los Manuales de Procedimientos y de Servicios al Público, los cuales deben ser publicados en el Periódico Oficial del Estado;
-
-V.- Designar y promover, a propuesta del Director General del Organismo a los servidores públicos que ocupen cargos en los dos niveles jerárquicos inferiores a éste;
-
-VI.- Conocer los informes, dictámenes y recomendaciones del Comisario;
-
-VII.- Aprobar la aceptación de herencias, legados, donaciones y demás liberalidades;
-
-VIII.- Estudiar y aprobar los proyectos de inversión;
-
-IX.- Conocer y aprobar los convenios de coordinación que hayan de celebrarse con dependencias y entidades públicas, así como los que se celebren con las entidades sociales y privadas;
-
-X.- Determinar la integración de comités técnicos y grupos de trabajo temporales;
-
-XI.- Analizar y en su caso aprobar los programas de corto, mediano y largo plazo a que quedarán sujetos los servicios de salud;
-
-XII.- Integrar comités técnicos para el estudio y propuesta de mecanismos que aseguren la coordinación interinstitucional en la prestación de los servicios de salud;
-
-XIII.- Definir, en congruencia con los planes y programas nacionales y estatales, las políticas en materia de salud a seguir por el Organismo;
-
-XIV.- Aprobar los proyectos de programas del Organismo y presentarlos a consideración del Comité de Planeación para el Desarrollo del Estado, para su opinión y sugerencias;
-
-XV.- Evaluar el debido cumplimiento de los programas técnicos aprobados;
-
-XVI.- Vigilar la correcta aplicación de los recursos asignados al Organismo;
-
-XVII.- Aprobar la estructura orgánica básica del Organismo, así como las modificaciones que procedan;
-
-XVIII.- Analizar y, en su caso, aprobar los informes periódicos que rinda el Director General;
-
-XIX.- Aprobar la creación de nuevas unidades de investigación, capacitación y servicio;
-
-XX.- Autorizar la creación de comisiones de apoyo y determinar las bases de su funcionamiento;
-
-XXI.- Analizar y en su caso aprobar los presupuestos del Organismo, así como sus modificaciones, en los términos de la legislación aplicable;
-
-XXII.- Fijar y ajustar las cuotas de recuperación por los servicios que preste el Organismo;
-
-XXIII.- Aprobar la concertación de préstamos para el financiamiento de los programas aprobados por el Organismo, observando las disposiciones legales de la materia;
-
-XXIV.- Expedir la normatividad aplicable para que el Director General pueda disponer de los activos fijos del Organismo que no corresponden a las operaciones propias del mismo;
-
-XXV.- Analizar y en su caso aprobar, de acuerdo con las leyes aplicables, las políticas, bases y programas generales que regulen los convenios, contratos, pedidos o acuerdos que deba celebrar el Organismo con terceros, en obras públicas, adquisiciones, arrendamientos y prestación de servicios relacionados con bienes muebles e inmuebles;
-
-XXVI.- Aprobar las normas y bases para cancelar adeudos a cargo de terceros y a favor del Organismo cuando fuere notoria la imposibilidad de su cobro, debiendo informar a la Contraloría General del Estado;
-
-XXVII.- Determinar las sanciones que correspondan a aquellas acciones u omisiones que infrinjan el contenido de esta Ley; y
-
-XXVIII.- Las demás que sean necesarias para el ejercicio de las facultades anteriores.
+(DEROGADO POR ARTICULO QUINTO TRANSITORIO DEL DECRETO NUMERO 19 QUE APRUEBA LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 28 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 19.
 
-El Consejo Interno celebrará sesiones ordinarias cada tres meses, y las extraordinarias que se requieran.
+(DEROGADO POR ARTICULO QUINTO TRANSITORIO DEL DECRETO NUMERO 19 QUE APRUEBA LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 28 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 20.
 
-El Director General del Organismo será nombrado por el Consejo Interno del mismo a propuesta del Gobernador del Estado, quien deberá reunir los siguientes requisitos:
-
-I.- Ser ciudadano mexicano en pleno ejercicio de sus derechos;
-
-II.- Ser mayor de 35 años de edad, profesionista en el área de la salud y haber desempeñado cargos directivos; con conocimientos y experiencia en materia administrativa y de salud pública;
-
-III.- No tener ninguno de los impedimentos a que se refiere el Artículo 12 de la Ley de Control de Entidades Paraestatales del Estado de Aguascalientes; y
-
-IV.- Tener una residencia mínima de cinco años en el Estado de Aguascalientes.
+(DEROGADO POR ARTICULO QUINTO TRANSITORIO DEL DECRETO NUMERO 19 QUE APRUEBA LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 28 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 21.
 
-El Director General tendrá las siguientes facultades y obligaciones:
-
-I.- Ejecutar los acuerdos y disposiciones del Consejo Interno;
-
-II.- Autorizar los actos de autoridad que esta Ley ordene, pudiendo delegar esta facultad en otros servidores públicos, por Acuerdo del Consejo Interno;
-
-III.- Presentar al Consejo Interno, los informes y estados financieros trimestrales, acompañados de los comentarios que estime pertinentes respecto a los reportes, informes y recomendaciones que al efecto formule el Comisario;
-
-IV.- Presentar al conocimiento y aprobación del Consejo Interno, los planes de trabajo, presupuestos, informes de actividades y estados financieros anuales del Organismo;
-
-V.- Proponer al Consejo Interno la designación y remoción de los servidores públicos que ocupen cargos en los dos niveles inferiores al Director General, así como nombrar y remover a los demás servidores públicos conforme a los ordenamientos legales aplicables;
-
-VI.- Expedir los nombramientos del personal y llevar las relaciones laborales de acuerdo con las disposiciones legales;
-
-VII.- Planear, dirigir y controlar el funcionamiento del Organismo con sujeción a las instrucciones del Consejo Interno;
-
-VIII.- Celebrar los convenios, contratos y actos jurídicos que sean indispensables para el cumplimiento de los objetivos del Organismo;
-
-IX.- Actuar en representación del Organismo, con facultades generales para actos de administración, pleitos y cobranzas, así como aquellos que requieran cláusula especial conforme a las leyes y, otorgar, sustituir y revocar poderes generales o especiales;
-
-X.- Ejercer los actos que se le ordenen, pudiendo delegar esa facultad en otros servidores públicos, previo acuerdo del Consejo Interno;
-
-XI.- Proponer al Consejo Interno las políticas generales del Organismo;
-
-XII.- Vigilar el cumplimiento del objeto del Organismo;
-
-XIII.- Formular el anteproyecto de presupuesto anual del Organismo y someterlo a consideración del Consejo Interno;
-
-XIV.- Instrumentar los sistemas y procedimientos que permitan la mejor aplicación de los recursos;
-
-XV.- Proponer al Consejo Interno el Reglamento Interior de Trabajo y los Manuales de Procedimientos y de Servicios al Público;
-
-XVI.- Imponer sanciones conforme a la legislación aplicable;
-
-XVII.- Notificar los acuerdos y resoluciones que emita el Organismo, pudiendo delegar dicha facultad en otros servidores públicos; y
-
-XVIII.- Las demás que sean necesarias para el ejercicio de las anteriores.
+(DEROGADO POR ARTICULO QUINTO TRANSITORIO DEL DECRETO NUMERO 19 QUE APRUEBA LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 28 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 22.
 
-El Organismo contará con un órgano de vigilancia que recaerá en un Comisario Público propietario y un suplente, que deberán ser designados por la Contraloría General del Estado.
+(DEROGADO POR ARTICULO QUINTO TRANSITORIO DEL DECRETO NUMERO 19 QUE APRUEBA LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 28 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 23.
 
-El Comisario Público tendrá las siguientes facultades;
-
-I.- Evaluar el desempeño general y las funciones realizadas por el Organismo;
-
-II.- Realizar estudios sobre la eficiencia con la que se ejercieron los desembolsos en los rubros de gasto corriente, de inversión y de ingresos;
-
-III.- Solicitar información y efectuar los actos que requiera el adecuado cumplimiento de sus funciones; y
-
-IV.- Llevar a cabo las funciones y cumplir con las obligaciones que establece la Ley de Control de Entidades Paraestatales del Estado de Aguascalientes y demás disposiciones aplicables.
+(DEROGADO POR ARTICULO QUINTO TRANSITORIO DEL DECRETO NUMERO 19 QUE APRUEBA LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 28 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 24.
 
-El Organismo aplicará y respetará las Condiciones Generales de Trabajo de la Secretaría de Salud y sus reformas futuras, así como los Reglamentos que de dichas condiciones emanen; entre otros, los de Escalafón y Capacitación; para Controlar y Estimular al Personal de Base de la Secretaría de Salud por su Asistencia, Puntualidad y Permanencia en el Trabajo; para Evaluar y Estimular al Personal de la Secretaría de Salud por su Productividad en el Trabajo y el de Becas, así como el Reglamento y Manual de Seguridad e Higiene, elaborados conforme a la normatividad federal aplicable en sus relaciones laborales con los trabajadores pertenecientes a la Secretaría de Salud, para que esta dependencia proceda a su registro ante los organismos jurisdiccionales correspondientes.
+(DEROGADO POR ARTICULO QUINTO TRANSITORIO DEL DECRETO NUMERO 19 QUE APRUEBA LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 28 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 25.
 
-Las relaciones de trabajo entre el Organismo y los trabajadores no contemplados en el artículo anterior se regirán conforme al "Estatuto Jurídico de los Trabajadores al Servicio de los Gobiernos del Estado de Aguascalientes, sus Municipios y Organismos Descentralizados".
+(DEROGADO POR ARTICULO QUINTO TRANSITORIO DEL DECRETO NUMERO 19 QUE APRUEBA LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 28 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 26.
 
-Los ingresos que obtenga el Instituto de Salud del Estado de Aguascalientes por la prestación de los servicios en materia de salubridad general, quedarán sujetos a lo que se disponga en los Acuerdos de Coordinación celebrados con la Secretaría de Salud del Gobierno Federal y lo que determine la legislación fiscal aplicable.
-
-Asimismo, los ingresos que se obtengan por los servicios de salubridad local que se presten de acuerdo con los convenios suscritos en términos de esta ley, se afectarán a los mismos conceptos y en la forma que establezca la legislación fiscal aplicable.
+(DEROGADO POR ARTICULO QUINTO TRANSITORIO DEL DECRETO NUMERO 19 QUE APRUEBA LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 28 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 27.
 
-Los pagos que deban efectuarse por concepto de multas por violaciones a esta Ley en materia de salubridad local y general, tienen el carácter de fiscales y se realizarán en las oficinas que se determinen en los Convenios de Coordinación respectivos.
+(DEROGADO POR ARTICULO QUINTO TRANSITORIO DEL DECRETO NUMERO 19 QUE APRUEBA LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 28 DE DICIEMBRE DE 2010)
 
 ## TITULO CUARTO. DISTRIBUCION DE COMPETENCIAS
 
@@ -3258,3 +3084,93 @@ El presente Decreto iniciará su vigencia a los sesenta días naturales siguient
 ###### ARTÍCULO SEGUNDO.
 
 En un plazo de cuarenta días naturales, contados a partir de la publicación del presente Decreto se deberá adecuar el Reglamento de la Ley de Salud del Estado de Aguascalientes, de conformidad con las reformas aprobadas.
+
+P.O. 28 DE DICIEMBRE DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley Orgánica de la Administración Pública del Estado de Aguascalientes, publicada en el Periódico Oficial del· Estado en fecha 8 de noviembre del 2001 en el Periódico Oficial del Estado de Aguascalientes mediante Decreto Número 213.
+
+###### ARTÍCULO TERCERO.
+
+Se abroga la Ley que Crea el Instituto del Medio Ambiente del Estado de Aguascalientes, publicada en el Periódico Oficial del Estado de Aguascalientes el 11 de abril del 2005 mediante Decreto Número 40, así como los ordenamientos que de ella deriven, y en consecuencia se extingue el Organismo Público Descentralizado denominado Instituto de Medio Ambiente del Estado de Aguascalientes.
+
+###### ARTÍCULO CUARTO.
+
+Se abroga la Ley que Crea el Organismo Público Descentralizado Denominado Comisión para el Desarrollo Agropecuario del Estado de Aguascalientes, publicada en el Periódico Oficial del Estado de Aguascalientes el 18 de marzo de 1990 mediante Decreto Número 25 y en consecuencia se extingue el Organismo Público Descentralizado denominado Comisión para el Desarrollo Agropecuario del Estado de Aguascalientes.
+
+###### ARTÍCULO QUINTO.
+
+Se deroga el Título 3 Tercero, Capítulo Único, que comprende del Artículo 13 al 27 de la Ley de Salud del Estado de Aguascalientes.
+
+El Organismo Público Descentralizado denominado Instituto de Salud del Estado de Aguascalientes se transforma en Instituto de Servicios de Salud del Estado de Aguascalientes.
+
+El Decreto de Creación del Instituto de Servicios de Salud del Estado de Aguascalientes, lo deberá expedir el Congreso del Estado, dentro de los 60 días naturales contados a partir de la entrada en vigencia de la presente ley.
+
+Se abroga la ley del Centenario Hospital Miguel Hidalgo del Estado de Aguascalientes, publicada en el Periódico Oficial del Estado de Aguascalientes el 26 de noviembre del 2007 mediante Decreto Número 396 y en consecuencia el Hospital Centenario Miguel Hidalgo pasa a formar parte de las unidades administrativas de la Secretaría de Salud.
+
+Se abroga la Ley del Hospital de Psiquiatría "Dr. Gustavo León Mojica García" del Estado de Aguascalientes, publicada en el Periódico Oficial del Estado de Aguascalientes el 26 de mayo del 2003 mediante Decreto Número 91 y en consecuencia el Hospital de Psiquiatría "Dr. Gustavo León Mojica García" pasa a formar parte de las unidades administrativas de la Secretaría de Salud.
+
+El Poder Ejecutivo del Estado, en un plazo no mayor de 30 días naturales contados a partir del inicio de vigencia del presente ordenamiento, deberá expedir los Acuerdos por virtud de los cuales se establezca el esquema administrativo y organizacional de cada uno de los hospitales referidos con antelación.
+
+Hasta en tanto se expidan los ordenamientos referidos, se seguirá aplicando el Título Tercero, Capítulo Único, que comprende del Artículo 13 al 27 de la ley de Salud del Estado de Aguascalientes, la normativa reglamentaria vigente y, en su caso, los lineamientos que emita el Secretario de Salud.
+
+###### ARTÍCULO SEXTO.
+
+Se abroga la Ley del Centro Estatal de Estudios Municipales de Aguascalientes, publicada en el Periódico Oficial del Estado de Aguascalientes el 21 de septiembre del 1984 y en consecuencia se extingue el Organismo Público Descentralizado denominado Centro Estatal de Estudios Municipales.
+
+###### ARTÍCULO SÉPTIMO.
+
+A la entrada en vigencia del presente Decreto se realizarán las siguientes transferencias de personal, de recursos financieros y materiales:
+
+a) Del Instituto de Medio Ambiente a la Secretaría de Medio Ambiente;
+
+b) De la Comisión para el Desarrollo Agropecuario a la Secretaría de Desarrollo Rural y Agroempresarial; y
+
+c) De una Entidad o Dependencia a otra, según proceda.
+
+Los acuerdos y convenios celebrados con el Gobierno Federal, así como los compromisos, derechos y procedimientos que hubieren suscrito, contraído, adquirido o desarrollado las respectivas Entidades y Dependencias extintas, así como las atribuciones que otras leyes les asignen, serán asumidos por la Dependencia o Entidad correspondiente.
+
+###### ARTÍCULO OCTAVO.
+
+Las obligaciones laborales de cada Entidad o Dependencia que se extinga o desaparezca, serán asumidas por la respectiva Dependencia o Entidad, respetando los derechos de los trabajadores, en términos de las disposiciones aplicables.
+
+Los derechos laborales de los trabajadores de base del Instituto de Servicios de Salud del Estado de Aguascalientes, así como su afiliación al Sindicato que les corresponda en su ámbito laboral, serán garantizados atendiendo a lo establecido en la Ley de Salud del Estado de Aguascalientes y en el Estatuto de los Trabajadores al Servicio de los Gobiernos del Estado de Aguascalientes, sus Municipios y Organismos Descentralizados, en la transferencia institucional que se realice a la Secretaría de Salud, según corresponda.
+
+En su caso, los Titulares de las Entidades y Dependencias que se transformen y las de nueva creación, de acuerdo con las necesidades institucionales, podrán determinar, conjuntamente con la Oficialía Mayor y demás autoridades correspondientes, las transferencias de personal, su reubicación en otras Dependencias o Entidades, o la terminación de la relación laboral.
+
+###### ARTÍCULO NOVENO.
+
+Las transferencias del personal y recursos materiales y financieros a que se refieren los artículos que anteceden, serán coordinadas y vigiladas por la Secretaría de Finanzas, la de Fiscalización y Rendición de Cuentas y por la Oficialía Mayor, y deberán concluir a más tardar en el mes de noviembre del 2011.
+
+Dichas transferencias incluirán las adecuaciones presupuestarias derivadas de las modificaciones a la estructura orgánica, programática y financiera, a los calendarios financieros y de metas, así como por las de recursos humanos y de activos patrimoniales· según correspondan.
+
+Las Secretarías de Finanzas, la de Fiscalización y Rendición de Cuentas y la Oficialía Mayor, con la participación de las Dependencias y Entidades correspondientes, al concluir dichos traspasos deberán rendir el informe respectivo a la Legislatura del Estado, para su sanción.
+
+El Titular del Poder Ejecutivo, publicará en el Periódico Oficial del Estado la conclusión del proceso de transferencia de cada una de las Dependencias y Entidades respectivas.
+
+###### ARTÍCULO DÉCIMO.
+
+Cuando esté siendo sustanciado un asunto competencia de alguna Dependencia o Entidad establecida con anterioridad a la vigencia del presente Decreto y que por disposición de éste, deba ser ejercida por otra u otras, deberán transferirse los expedientes en trámite y el archivo a la nueva Dependencia o Entidad la cual deberá concluir dichos asuntos y dictar la resolución correspondiente.
+
+Los asuntos que con motivo de este Decreto deban pasar de una Dependencia o Entidad a otra, permanecerán en el último trámite que hubieren alcanzado, a excepción de aquellos urgentes o sujetos a término, los cuales se atenderán por quien los venía despachando.
+
+En relación a los expedientes, asuntos, procedimientos y recursos instaurados en la Contraloría General del Estado, que serán asumidos por la Secretaría de Fiscalización y Rendición de Cuentas, ésta publicará en el Periódico Oficial del Estado el Acuerdo de Inicio de Funciones, que hará las veces de notificación de que dicha Secretaría continuará con el trámite y resolución de los mismos, para todos los efectos legales.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+El Titular del Poder Ejecutivo del Estado deberá expedir los reglamentos interiores de las Dependencias de nueva creación a que se refiere el presente ordenamiento, así como adecuar los de las Dependencias cuyas atribuciones se reforman o modifican, dentro del plazo de 60 días naturales, contados a partir de la entrada en vigencia del presente Decreto. Entre tanto, se aplicarán los reglamentos que han regido en lo que no contravengan al presente Decreto, quedando facultado el Jefe de Gabinete para resolver las cuestiones de competencia reglamentaria que al efecto se presenten.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+La Secretaría de Finanzas, en coordinación con la Oficialía Mayor y la Secretaría de Fiscalización y Rendición de Cuentas, será la encargada de dictaminar la estructura orgánica, creación, modificación y supresión de las unidades administrativas y plazas de cada Dependencia, de manera funcional y presupuestal.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+Se derogan todas las disposiciones legales, reglamentarias y administrativas que se opongan a la presente Ley, de igual o menor jerarquía.
+
+Cuando en esta Ley se dé una denominación distinta a alguna Dependencia o Entidad con funciones o atribuciones establecidas por otro ordenamiento jurídico, dichas funciones o atribuciones se entenderán conferidas a la Dependencia o Entidad que determine la presente Ley y demás disposiciones relativas, en tanto no se expidan o reformen los ordenamientos jurídicos correspondientes.
