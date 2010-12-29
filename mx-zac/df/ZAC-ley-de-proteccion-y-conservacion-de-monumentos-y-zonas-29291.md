@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-proteccion-y-conservacion-de-monumentos-y-zonas-29291"
 country: "mx"
 rank: "ley"
 publication_date: "1987-04-15"
-last_updated: "1987-04-15"
+last_updated: "2010-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29291&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE PROTECCION Y CONSERVACION DE MONUMENTOS Y ZONAS TIPICAS DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el miércoles 15 de abril de 1987.
 
@@ -93,13 +93,25 @@ VI. Declarar cuando, obras en proyecto o realizadas, colindantes o vecinas a las
 
 VII. Tener conocimiento y emitir opinión acerca de los proyectos que los organismos públicos u otras entidades presenten para la construcción, modificación o demolición de obras de ornato y fachadas de edificios públicos;
 
-VIII. Elaborar catálogos e inventarios de monumentos del Estado de Zacatecas;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+VIII. Elaborar catálogos, inventarios y planes de manejo de Zona de Monumentos Históricos y Zonas Típicas del Estado de Zacatecas, a que se refiere el artículo 8 de la presente Ley.
 
 IX. Ordenar o en su caso retirar los anuncios, rótulos, letreros, etc., que violen lo dispuesto en el artículo 9 de esta Ley;
 
-X. Aplicar sanciones a los infractores de esta Ley en los términos que la misma establece;
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
-XI. Las demás que le atribuye la presente Ley.
+X. Proponer al Titular del Ejecutivo Estatal se promueva ante la Legislatura del Estado la declaratoria correspondiente por la cual los sitios quedan sujetos a lo dispuesto por esta Ley.
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+XI. Coadyuvar con otras autoridades competentes de las poblaciones declaradas Zona Típica o Zona de Monumentos, en la elaboración de los reglamentos derivados de esta Ley.
+
+Asimismo, coordinar la elaboración de los planes de manejo de las zonas declaradas Patrimonio Cultural de la Humanidad.
+
+XII. Aplicar sanciones a los infractores de esta Ley en los términos que la misma establece;
+
+XIII. Las demás que le atribuye la presente Ley.
 
 ###### Art. 6º.
 
@@ -124,6 +136,10 @@ a).- Estar vinculadas a nuestra historia;
 b).- Que su valor artístico o arquitectónico las haga exponentes de la historia de nuestra cultura;
 
 c).- Por formar parte de un conjunto urbano digno de conservarse atentas las circunstancias anteriores.
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+III. Zona de Monumentos: Los centros históricos de las cabeceras y/o comunidades municipales del Estado, que comprendan varios monumentos de conformidad con la fracción anterior; misma que será protegida por esta Ley.
 
 ###### Art. 9.
 
@@ -175,13 +191,13 @@ La Junta podrá solicitar al propietario, el otorgamiento de una fianza que gara
 
 ###### Art. 15.
 
-Queda prohibido levantar construcciones cuya arquitectura no armonice con la fisonomía propia de la zona de su ubicación
+Queda prohibido levantar construcciones cuya arquitectura no armonice con la fisonomía propia de la Zona de su ubicación.
 
 En los casos de fincas ubicadas en la vecindad de las Zonas Típicas declaradas en el artículo 9 de esta Ley, se deberá mantenerse la unidad estilística, prevaleciendo las características arquitectónicas de las mismas.
 
 ###### Art. 16.
 
-No podrán emplearse en las fachadas existentes dentro de las zonas típicas, ni en las que en ellas se construyan, materiales que no sean tradicionales en el Estado, tales como piedra, cantera regional o aplanado de cal; los barandales y rejas deberán ser de fierro estructural.
+No podrán emplearse en las fachadas existentes dentro de las Zonas Típicas, ni en las que en ellas se construyan, materiales que no sean tradicionales en el Estado, tales como piedra, cantera regional o aplanado de cal; los barandales y rejas deberán ser de fierro estructural.
 
 ###### Art. 17.
 
@@ -233,23 +249,23 @@ La Junta tendrá facultad para efectuar en todo tiempo visitas de inspección a 
 
 ###### Art. 29.
 
-Se prohíbe colocar o establecer kioscos, tabaretes, templetes, puestos, bolerías o cualesquiera otras construcciones provisionales o permanentes, en las zonas protegidas por el artículo 9 de esta Ley
+Se prohíbe colocar o establecer kioscos, tabaretes, templetes, puestos, bolerías o cualesquiera otras construcciones provisionales o permanentes, en las zonas protegidas por el artículo 9 de esta Ley.
 
 ###### Art. 30.
 
-En los mismos lugares a que se refiere el artículo anterior, queda prohibida la instalación visible de: hilos telegráficos y telefónicos, conductores eléctricos, transformadores, postes y en general cualquier instalación eléctrica o electrónica. Las antenas de todo tipo deberán quedar ocultas dentro de los límites de la finca de su ubicación.
+En los mismos lugares a que se refiere el artículo anterior, queda prohibida la instalación visible de: Hilos telegráficos y telefónicos, conductores eléctricos, transformadores, postes y en general cualquier instalación eléctrica o electrónica. Las antenas de todo tipo deberán quedar ocultas dentro de los límites de la finca de su ubicación.
 
 ###### Art. 31.
 
-No podrán colocarse en los lugares mencionados: anuncios, letreros, logotipos, avisos, volantes y en general todo tipo de propaganda visual, sin la autorización expresa de la Junta, que deberá ser previa a la que concedan otras autoridades, a cuyo efecto se establecerán lugares y elementos adecuados para ese objeto, que se localizarán mediante coordinación entre la Junta y las autoridades municipales.
+No podrán colocarse en los lugares mencionados: anuncios, letreros, logotipos, avisos, volantes y en general todo tipo de propaganda visual, sin la autorización expresa de la Junta, que deberá ser previa a la que concedan otras Autoridades, a cuyo efecto se establecerán lugares y elementos adecuados para ese objeto, que se localizarán mediante coordinación entre la Junta y las Autoridades Municipales.
 
 ###### Art. 32.
 
-Los elementos de publicidad visual promovidos por entidades del poder público que se instalen en las zonas típicas, no deberán contener mensajes de tipo comercial y la colocación de los mismos será decidida coordinadamente por la entidad responsable y la Junta.
+Los elementos de publicidad visual promovidos por entidades del Poder Público que se instalen en las Zonas Típicas, no deberán contener mensajes de tipo comercial y la colocación de los mismos será decidida coordinadamente por la entidad responsable y la Junta.
 
 ###### Art. 33.
 
-Cuando un giro se establezca sin contar con la autorización correspondiente, prevista en la presente Ley, la Junta procederá a dar parte a las autoridades competentes, para que las mismas obren en consecuencia.
+Cuando un giro se establezca sin contar con la autorización correspondiente, prevista en la presente Ley, la Junta procederá a dar parte a las Autoridades competentes, para que las mismas obren en consecuencia.
 
 ###### Art. 34.
 
@@ -263,7 +279,7 @@ Cuando la Junta considere conveniente que un edificio integrante de la Zona Típ
 
 Para los efectos de este capítulo, serán solidariamente responsables de las violaciones a las disposiciones de esta Ley:
 
-I. Los propietarios de los inmuebles involucrados en las citadas violaciones;
+I. Los propietarios de los inmuebles involucrados en las citadas violaciones.
 
 II. Quienes ordenen o hayan ordenado las acciones u omisiones constitutivas de violación.
 
@@ -342,3 +358,13 @@ LIC. GENARO BORREGO ESTRADA
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. DANIEL DAVILA GARCIA
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 29 DE DICIEMBRE DE 2010.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+Segundo.- Se derogan todas las disposiciones que se opongan al contenido de este Decreto.
+
+Tercero.- Dentro de los siguientes treinta días naturales a la vigencia del presente Decreto, deberá presentarse ante esta Legislatura, a través del Ejecutivo del Estado, la Iniciativa de Declaratoria del Teúl de González Ortega, la cual deberá formularse de acuerdo al artículo 184 del Código Urbano del Estado de Zacatecas.
