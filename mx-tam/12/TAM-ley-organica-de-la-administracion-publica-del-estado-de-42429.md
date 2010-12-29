@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-de-la-administracion-publica-del-estado-de-42429"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-12-21"
-last_updated: "2010-12-16"
+last_updated: "2010-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42429&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el martes 21 de diciembre de 2004.
 
@@ -45,7 +45,9 @@ LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE TAMAULIPAS
 
 1. Las disposiciones de esta ley son de orden público y tienen por objeto regular la organización y funcionamiento de la administración pública del Estado de Tamaulipas, que se integra por la administración pública central y la paraestatal.
 
-2. La administración pública central está conformada por la Procuraduría General de Justicia, las secretarías del despacho, y demás dependencias y unidades administrativas de coordinación, asesoría o consulta, cualquiera que sea su denominación.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+2. La administración pública central está conformada por la Procuraduría General de Justicia, las Secretarías del despacho, y demás dependencias y unidades administrativas de control, coordinación, asesoría o consulta, cualquiera que sea su denominación.
 
 3. La administración pública paraestatal está conformada por los organismos públicos descentralizados, las empresas de participación estatal y los fideicomisos públicos, cualquiera que sea su denominación.
 
@@ -153,23 +155,15 @@ Las dependencias del Ejecutivo se coordinarán para el mejor cumplimiento de sus
 
 4. Las comisiones intersecretariales podrán invitar a participar en sus reuniones a representantes de los sectores sociales y privado, cuando así lo amerite la materia del asunto a tratar.
 
-> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2008)</small>
+ARTICULO 19 BIS. (DEROGADO, P.O. 29 DE DICIEMBRE DE 2010)
 
-###### ARTICULO 19 Bis.
-
-1. Con carácter de comisión intersecretarial se establece el Consejo de Gobierno para el Desarrollo Sustentable.
-
-2. El Consejo tiene por objeto planear, aprobar y vigilar la emisión y cumplimiento de la política estatal en materia ambiental y de desarrollo sustentable.
-
-3. La integración, funciones y normas de organización y funcionamiento del Consejo se establecerán por el Gobernador del Estado en el Acuerdo correspondiente.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 20.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE ENERO DE 2008)</small>
+1. Los titulares de las dependencias a que se refieren los artículos 24 al 37 de esta ley, acordarán directamente con el titular del Ejecutivo, y los titulares de las entidades lo harán a través del Secretario del ramo a que correspondan, salvo disposiciones en contrario del Gobernador del Estado, sin perjuicio de las facultades que a la Secretaría General de Gobierno le confieren los artículos 87 y 95 de la Constitución Política del Estado.
 
-1. Los titulares de las dependencias a que se refieren los artículos 24 al 36 bis de esta ley, acordarán directamente con el titular del Ejecutivo, y los titulares de las entidades lo harán a través del Secretario del ramo a que correspondan, salvo disposiciones en contrario del Gobernador del Estado, sin perjuicio de las facultades que a la Secretaría General de Gobierno le confieren los artículos 87 y 95 de la Constitución Política del Estado.
-
-2. Todas las dependencias a que se refieren los artículos 24 al 34 de esta ley, se denominarán Secretarías, tendrán igual rango y entre ellas no habrá preeminencia alguna.
+2. Todas las dependencias a que se refieren los artículos 24 al 35 de esta ley, se denominarán Secretarías, tendrán igual rango y entre ellas no habrá preeminencia alguna.
 
 ###### ARTICULO 21.
 
@@ -197,27 +191,43 @@ II. Secretaría de Finanzas;
 
 III. Secretaría de Administración;
 
-IV. Secretaría de Desarrollo Económico y del Empleo;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
-V. Secretaria de Turismo;
+IV. Secretaría de Desarrollo Económico y Turismo;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+V. Secretaría del Trabajo;
 
 VI. Secretaría de Desarrollo Rural;
 
-VII. Secretaría de Desarrollo Social, Cultura y Deporte;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+VII. Secretaría de Desarrollo Social;
 
 VIII. Secretaría de Educación;
 
 IX. Secretaría de Salud;
 
-X. Secretaría de Obras Públicas y Desarrollo Urbano;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
-XI. Secretaría de Seguridad Pública;
+X. Secretaría de Desarrollo Urbano y Medio Ambiente;
 
-XII. Procuraduría General de Justicia;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
-XIII. Contraloría Gubernamental; y
+XI. Secretaría de Obras Públicas;
 
-XIV. Agencia Ambiental para el Desarrollo Sustentable.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+XII. Secretaría de Seguridad Pública;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+XIII. Procuraduría General de Justicia; y
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+XIV. Contraloría Gubernamental.
 
 2. Los demás organismos de coordinación, planeación y asesoría que dispongan otras leyes o determine el Ejecutivo.
 
@@ -235,11 +245,17 @@ III. Conducir las relaciones del Poder Ejecutivo con los Poderes de la Unión, l
 
 IV. Proporcionar asesoría jurídica a las dependencias y entidades, así como a los Ayuntamientos, cuando éstos lo soliciten;
 
-V. Participar en la elaboración de los proyectos de iniciativa de ley o de decreto del Gobernador ante el Congreso del Estado, y enviarlos a este último para el procedimiento legislativo correspondiente;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
-VI. Preparar y dar trámite a la presentación de observaciones del Gobernador con relación a las leyes o decretos que apruebe el Congreso del Estado;
+V. Participar en la elaboración de los proyectos de iniciativa de ley o de Decreto del Gobernador ante el Congreso del Estado y ser el conducto para su envío a éste con motivo del procedimiento legislativo correspondiente; preparar y dar trámite a la presentación de observaciones del Ejecutivo con relación a las leyes o decretos que apruebe el Congreso del Estado, y elaborar los decretos de promulgación de las leyes, decretos o acuerdo (sic) que apruebe el Poder Legislativo y efectuar su publicación en el Periódico Oficial del Estado;
 
-VII. Elaborar los decretos de promulgación de las leyes, decretos o acuerdos que aprueben el Poder Legislativo y promover su publicación en el Periódico Oficial del Estado;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+VI. Coordinar y, en su caso, ejercer la representación del Ejecutivo del Estado en los asuntos de su competencia en materia de litigios previstos en los artículos 103 y 107 y en el artículo 105 de la Constitución Política de los Estados Unidos Mexicanos, así como atender la promoción y defensa de los asuntos del Ejecutivo del Estado en los tribunales competentes;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+VII. Establecer la coordinación necesaria con las dependencias y entidades de la Administración Pública Estatal para alentar la congruencia de los criterios jurídicos del Gobierno del Estado y promover el funcionamiento de la Comisión de Estudios Jurídicos del Gobierno del Estado;
 
 VIII. Intervenir en la elaboración de reglamentos, decretos, acuerdos, circulares y cualquier otra disposición jurídica cuya emisión competa al Gobernador del Estado;
 
@@ -265,9 +281,11 @@ XVIII. Tramitar el ejercicio de las atribuciones del Gobernador en materia de de
 
 XIX. Dar trámite a los nombramientos, licencias, remociones y renuncias de los titulares de las dependencias y, en su caso, participar en lo conducente a esas acciones en las entidades, conjuntamente con la dependencia a la que corresponda coordinar el sector administrativo específico;
 
-XX. Coordinar las relaciones del Poder Ejecutivo con las autoridades agrarias, la Junta Local de Conciliación y Arbitraje, el Tribunal de Arbitraje y el tribunal competente para dirimir controversias contencioso-administrativas;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
-XXI. Coordinar y vigilar el cumplimiento de las normas de trabajo y previsión social en el Estado y apoyar las acciones de las Juntas de Conciliación y Arbitraje;
+XX. Coordinar las relaciones del Poder Ejecutivo con las autoridades agrarias, el Tribunal Fiscal y los tribunales de lo contencioso-administrativo del Estado;
+
+XXI. (DEROGADA, P.O. 29 DE DICIEMBRE DE 2010)
 
 XXII. Ejecutar los actos de expropiación, de ocupación temporal y de limitación de dominio por causa de utilidad pública, de conformidad con la legislación aplicable;
 
@@ -275,7 +293,9 @@ XXIII. Organizar y vigilar el funcionamiento de la defensoría de oficio;
 
 XXIV. Coordinar la prestación de los servicios del Registro Civil, conforme a las leyes que lo rigen;
 
-XXV. Coordinar la prestación de los servicios del Registro Público de la Propiedad y del Comercio, conforme a las leyes que lo rigen;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+XXV. Coordinar administrativamente las actividades del Instituto Registral y Catastral del Estado de Tamaulipas;
 
 XXVI. Tramitar los nombramientos que expida el Gobernador para el ejercicio de la función notarial y disponer la práctica periódica de visitas de inspección a quienes la realicen;
 
@@ -285,11 +305,13 @@ XXVIII. Fomentar los valores cívicos, divulgar el calendario cívico del Estado
 
 XXIX. Organizar, editar y publicar el Periódico Oficial del Estado, y mantener un archivo actualizado del mismo en el Archivo General del Estado;
 
-> <small>(REFORMADA, P.O. 15 DE ENERO DE 2008)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
-XXX. Participar, en coordinación con la Secretaría de Obras Públicas y Desarrollo Urbano, en la realización de los programas para la regularización de la tenencia de la tierra;
+XXX. Participar, en coordinación con la Secretaría de Desarrollo Urbano y Medio Ambiente, en la realización de los programas para la regularización de la tenencia de la tierra;
 
-XXXI. Dar trámite a las atribuciones del Poder Ejecutivo en materia de otorgamiento y cancelación de permisos y concesiones para la prestación de servicios de autotransporte en las carreteras estatales, caminos vecinales, zonas urbanas y demás guías de jurisdicción estatal en términos de las leyes aplicables;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+XXXI. Coordinar al Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública;
 
 XXXII. Tramitar, por Acuerdo del Gobernador, las solicitudes de extradición, amnistía e indultos.
 
@@ -315,11 +337,15 @@ I. Proponer, formular y ejecutar los programas hacendarios, económicos, financi
 
 II. Formular y dirigir la política de ingresos y egresos del Estado, de acuerdo a los lineamientos señalados por el Gobernador del Estado, así como representar al Gobierno del Estado en los juicios y controversias que se ventilen ante cualquier tribunal, y tramitar y resolver los recursos administrativos en la esfera de su competencia;
 
-III. Proponer al área de planeación correspondiente las medidas administrativas para la programación, presupuestación, control, evaluación y ejecución del gasto público estatal;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+III. Proponer las medidas administrativas para la programación, presupuestación, control, evaluación y ejecución del gasto público estatal;
 
 IV. Recaudar y administrar los impuestos, derechos, contribuciones especiales, productos y aprovechamientos del Estado, así como aquellos derivados de los convenios con (sic) se celebren con la Federación y los Municipios, así como dictar las medidas administrativas necesarias para estos efectos;
 
-V. Formular, en coordinación con el área de planeación, el Programa del Gasto Público Estatal y presentar al titular del Poder Ejecutivo los anteproyectos de Ley de Ingresos y de Decreto de Presupuesto de Egresos del Estado, así como las demás propuestas de adecuación al orden normativo para optimizar la administración de las finanzas públicas;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+V. Formular el Programa de Gasto Público Estatal y presentar al titular del Poder Ejecutivo los proyectos de Ley de Ingresos y de Decreto del Presupuesto de Egresos del Estado, así como las demás propuestas de adecuación al orden normativo para optimizar la administración de las finanzas públicas;
 
 VI. Dar curso a los trámites y efectuar los registros que requiere el control, vigilancia y evaluación del ejercicio del gasto público estatal, de acuerdo con las leyes y ordenamientos respectivos;
 
@@ -339,13 +365,17 @@ XII. Determinar contribuciones omitidas y sus accesorios, así como los demás c
 
 XIII. Aplicar el procedimiento administrativo de ejecución e imponer sanciones por infracciones a las disposiciones fiscales, así como autorizar el pago a plazos de los créditos fiscales;
 
-XIV. Coordinar, en el ámbito de su competencia, la operación de los fondos y fideicomisos de fomento establecidos por el titular del Ejecutivo con los gobiernos federal y municipales, y los sectores social y privado;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+XIV. Presidir, mediante facultad indelegable del Secretario, los órganos de administración o decisión de los fondos y fideicomisos del Estado y ser el principal representante estatal en los demás fondos y fideicomisos en que participa el Estado; llevar registro contable de los ingresos y egresos de los fondos y fideicomisos, y mantener actualizados los instrumentos jurídicos relacionados con los mismos;
 
 XV. Resolver las consultas que le formulen los contribuyentes, proporcionarles asistencia gratuita para el debido cumplimiento de sus obligaciones fiscales, así como dictar reglas de carácter general en materia fiscal, promoviendo en todo caso, una cultura de cumplimiento al deber tributario;
 
 XVI. Ejercer las atribuciones que al Ejecutivo del Estado le confiere la Ley de Deuda Pública Estatal y Municipal y hacerse cargo de la administración de la deuda pública estatal;
 
-XVII. Diseñar, poner en práctica y ejecutar las políticas de recaudación por los derechos que se generen en virtud de los servicios que presta el Registro Público de la Propiedad y del Comercio;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+XVII. Diseñar, poner en práctica y ejecutar las políticas de recaudación por los derechos que se generen en virtud de los servicios que preste el Instituto Registral y Catastral del Estado;
 
 XVIII. Determinar los criterios y montos de los subsidios y estímulos fiscales, así como estudiar, proyectar y evaluar sus efectos en los ingresos estatales;
 
@@ -381,7 +411,9 @@ IV. Mantener actualizado el Reglamento de Escalafón y el Tabulador de Sueldos d
 
 V. Elaborar y vigilar el cumplimiento de las condiciones generales de trabajo de los servidores públicos del Estado;
 
-VI. Otorgar becas, estímulos y promover actividades socioculturales y deportivas para los servidores públicos del Estado, en coordinación con la Secretaría de Desarrollo Social, Cultura y Deporte;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+VI. Otorgar becas, estímulos y promover actividades socioculturales y deportivas para los servidores públicos del Estado, en coordinación con coordinación (sic) con el Instituto Tamaulipeco para la Cultura y las Artes y el Instituto Tamaulipeco del Deporte;
 
 VII. Mantener una compilación actualizada de los manuales de organización, de procedimientos y de servicios al público que expidan los titulares de las dependencias;
 
@@ -397,7 +429,9 @@ XII. Imprimir y difundir las publicaciones oficiales, y mantener un archivo actu
 
 XIII. Organizar y administrar el Archivo General del Poder Ejecutivo del Estado;
 
-XIV. Concentrar la información de las dependencias y entidades que cuenten con valor administrativo, legal o fiscal, estableciendo los lineamientos para su administración, coordinándose con la Secretaría de Desarrollo Social, Cultura y Deporte para la valoración y custodia de documentos potencialmente históricos;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+XIV. Concentrar la información de las dependencias y entidades que cuenten con valor administrativo, legal o fiscal, estableciendo los lineamientos para su administración, coordinándose con el Instituto Tamaulipeco para la Cultura y las Artes para la valoración y custodia de documentos potencialmente históricos;
 
 XV. Administrar la correspondencia oficial y responsabilizarse de su recepción, clasificación, distribución y envío, así como coordinar y uniformar el manejo de la correspondencia oficial en las dependencias y entidades;
 
@@ -415,7 +449,9 @@ XXI. Analizar las necesidades de información de las diferentes dependencias y e
 
 XXII. Emitir dictamen para la adquisición de equipo de procesamiento electrónico de datos y coordinar el otorgamiento de los servicios que en la materia requieran las distintas dependencias y entidades de la administración pública;
 
-XXIII. Administrar el Centro Cívico Gubernamental;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+XXIII. Administrar el Centro Cívico Gubernamental; y llevar y mantener actualizado el Padrón de Proveedores de la Administración Pública del Estado, determinando los criterios y procedimientos para clasificar las personas inscritas en el mismo;
 
 > <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2008)</small>
 
@@ -423,13 +459,19 @@ XXIV. Coordinar administrativamente a la entidad estatal denominada Unidad de Pr
 
 XXV. Las demás que le señalen las leyes, reglamentos y otras disposiciones jurídicas, así como las que le encomiende el Gobernador del Estado con relación a sus competencias.
 
-#### Sección IV. De la Secretaría de Desarrollo Económico y del Empleo
+> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+#### Sección IV. De la Secretaría de Desarrollo Económico y Turismo
 
 ###### ARTICULO 27.
 
-A la Secretaría de Desarrollo Económico y del Empleo, además de las atribuciones que le confieren las leyes aplicables, le corresponde el despacho de los siguientes asuntos:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
-I. Formular y ejecutar los planes y programas de promoción y desarrollo de la actividad industrial, comercial y de servicios;
+A la Secretaría de Desarrollo Económico y Turismo, además de las atribuciones que le confieren las leyes aplicables, le corresponde el despacho de los siguientes asuntos:
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+I. Formular y ejecutar los planes y programas de promoción y desarrollo de la actividad industrial, comercial, turística y de servicios;
 
 II. Coordinar, promover y concertar la interacción de acciones y recursos federales y estatales con los productores, empresarios, trabajadores y consumidores;
 
@@ -447,17 +489,19 @@ VIII. Impulsar el establecimiento y crecimiento de la micro, pequeña y mediana 
 
 IX. Efectuar los estudios técnicos que determinen la creación de parques industriales, centros de abasto y comerciales, a fin de promover el desarrollo económico integral del Estado;
 
-> <small>(REFORMADA, P.O. 15 DE ENERO DE 2008)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
-X. Promover esquemas de participación de la inversión privada o pública, nacional o extranjera, en proyectos de infraestructura otorgados bajo el sistema de concesiones y participar particularmente en los relativos a redes carreteras, autopistas, vías fluviales, vías férreas, puertos marítimos, cruces y puentes internacionales, en coordinación con la Secretaría de Obras Públicas y Desarrollo Urbano;
+X. Promover esquemas de participación de la inversión privada o pública, nacional o extranjera, en proyectos de infraestructura otorgados bajo el sistema de concesiones y participar, en coordinación con la Secretaría de Obras Públicas, en los relativos a redes carreteras, autopistas, vías fluviales, vías férreas, puertos marítimos, cruces y puentes internacionales;
 
 XI. Participar en la formulación de estudios técnicos, financieros, jurídicos, de tenencia de la tierra y de impacto ambiental, para contribuir en la promoción de obras de infraestructura concesionables, mismas que podrá gestionar, previo acuerdo con el Ejecutivo Estatal, ante las dependencias del Gobierno Federal y organismos nacionales e internacionales;
 
-XII. Coadyuvar con las autoridades federales, estatales y municipales en el establecimiento y operación de mecanismos para la planeación, administración, coordinación y evaluación de las obras concesionadas en materia de vías de comunicación, transporte y demás infraestructura;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
-> <small>(REFORMADA, P.O. 15 DE ENERO DE 2008)</small>
+XII. Coadyuvar en coordinación con la Secretaría de Obras Públicas, con las autoridades federales, estatales y municipales en el establecimiento y operación de mecanismos para la planeación, administración, coordinación y evaluación de las obras concesionadas en materia de vías de comunicación, transporte y demás infraestructura;
 
-XIII. Participar y promover conjuntamente con las Secretarías de Finanzas y de Obras Públicas y de Desarrollo Urbano, en los ámbitos nacional e internacional, los planes de financiamiento y ejecución de obras de infraestructura y de servicios, necesarios para el desarrollo económico del Estado;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+XIII. Participar y promover conjuntamente con las Secretarías de Finanzas y de Obras Públicas, en los ámbitos nacional e internacional, los planes de financiamiento y ejecución de obras de infraestructura y de servicios, necesarios para el desarrollo económico del Estado;
 
 XIV. Organizar y operar el Sistema Integral de Información sobre los recursos, características y participantes en las actividades económicas del Estado;
 
@@ -473,21 +517,25 @@ XIX. Gestionar de manera coordinada con los organismos involucrados en las activ
 
 XX. Vigilar que la operación industrial, minera, comercial y de servicios, se ajuste a las disposiciones contenidas en los ordenamientos jurídico-administrativos vigentes en los ámbitos federal y estatal;
 
-XXI. Impulsar programas para la generación y cogeneración de energía eléctrica, conforme a las disposiciones de la Ley Federal del Servicio Público de Energía Eléctrica;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
-> <small>(REFORMADA, P.O. 15 DE ENERO DE 2008)</small>
+XXI. Impulsar, en coordinación con la Secretaría de Desarrollo Urbano y Medio Ambiente, programas para la generación y cogeneración de energía eléctrica, conforme a las disposiciones de la Ley Federal del Servicio Público de Energía Eléctrica;
 
-XXII. Promover coordinadamente con la Agencia Ambiental para el Desarrollo Sustentable, programas para la protección del medio ambiente y el confinamiento de desechos sólidos y aguas residuales, en apoyo a un desarrollo sustentable de los sectores industrial y comercial;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
-XXIII. Representar al Gobierno del Estado, por acuerdo del titular del Ejecutivo, en las asambleas de Consejo, juntas directivas y comités técnicos de las entidades paraestatales relacionadas con los sectores económicos en el Estado;
+XXII. Promover coordinadamente con la Secretaría de Desarrollo Urbano y Medio Ambiente, programas para la protección del medio ambiente y el confinamiento de desechos sólidos y aguas residuales, propiciando el desarrollo sustentable de los sectores industrial, comercial y turístico;
 
-XXIV. Coordinar el Servicio Estatal del Empleo y establecer, conjuntamente con otras dependencias, instancias u organismos federales y con la Secretaría de Educación en el ámbito estatal, los programas de adiestramiento y capacitación industrial que se requieran;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+XXIII. Participar, por acuerdo del ejecutivo, en las asambleas de consejo, juntas directivas y comités técnicos de las entidades paraestatales relacionadas con los sectores del desarrollo económico y turismo en el Estado.
+
+XXIV. (DEROGADA, P.O. 29 DE DICIEMBRE DE 2010)
 
 XXV. Dirigir y coordinar el funcionamiento técnico-administrativo de sus delegaciones ubicadas en el Estado, en el país y en el extranjero;
 
 XXVI. Establecer criterios para llevar a cabo la desregulación empresarial, eliminando requisitos, simplificando trámites y acortando plazos previstos en disposiciones administrativas de carácter estatal, así como elaborar propuestas de reformas a disposiciones jurídico-administrativas en los ámbitos federal, estatal o municipal, con la misma finalidad, sometiendo éstas a las instancias correspondientes;
 
-XXVII. Establecer y promover estrategias que eleven la competitividad y productividad de la mano de obra en el Estado, así como las que vinculen el sector productivo con el educativo, en coordinación con la Secretaría de Educación, y establecer mecanismos que faciliten el contacto entre la oferta y la demanda de trabajo;
+XXVII. (DEROGADA, P.O. 29 DE DICIEMBRE DE 2010)
 
 XXVIII. Proponer al Ejecutivo Estatal, la firma de convenios de colaboración con los demás Estados miembros de la Federación, particularmente con las Entidades vecinas, a fin de promover de manera conjunta, la creación de polos de desarrollo que beneficien a los Estados participantes;
 
@@ -499,71 +547,103 @@ XXXI. Administrar y operar los fondos para financiar a la micro, pequeña y medi
 
 XXXII. Coordinar, en el ámbito de su competencia, la operación de los fondos y fideicomisos de fomento establecidos por el titular del Ejecutivo con los gobiernos federal y municipales, y los sectores social y privado;
 
-XXXIII. Coordinar como cabeza de sector, las actividades de las entidades denominadas: Canal Intracostero de Tamaulipas, S.A. de C.V.; Administración Portuaria Integral de Tamaulipas, A. C.; Servicios Aeroportuarios Tamaulipecos, S.A. de C.V.; y Consejo Tamaulipeco de Ciencia y Tecnología; así como las demás entidades que determine el Ejecutivo del Estado de acuerdo a la materia de su competencia; y
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
-XXXIV. Las demás que le señalen las leyes, reglamentos y otras disposiciones jurídicas, así como las que le encomiende el Gobernador del Estado con relación a sus competencias.
+XXXIII. Coordinar administrativamente las actividades de las entidades denominadas: Administración Portuaria Integral de Tamaulipas, A. C.; Servicios Aeroportuarios Tamaulipecos, S.A. de C.V.;
 
-#### Sección V. De la Secretaría de Turismo
+Comisión Estatal para la Conservación y Aprovechamiento Económico de la Vida Silvestre;
+
+Zoológico, Parque Recreativo y de Investigación Tamatán, así como las demás entidades que determine el Ejecutivo del Estado, de acuerdo a la materia de su competencia;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+XXXIV. Promover, en coordinación con los Ayuntamientos del Estado, las zonas de desarrollo turístico;
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+XXXV. Elaborar y mantener actualizado el Padrón de Prestadores de Servicios Turísticos y llevar a cabo el proceso de certificación de los mismos;
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+XXXVI. Emitir opiniones para el establecimiento de estímulos fiscales necesarios para el fomento a la actividad turística;
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+XXXVII. Autorizar precios y tarifas de los servicios turísticos, en los términos establecidos por las leyes y reglamentos, y vigilar su correcta aplicación;
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+XXXVIII. Regular las medidas de protección al turista y vigilar su cumplimiento, en coordinación con las autoridades federales, estatales y municipales;
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+XXXIX. Promover el intercambio turístico en el exterior del Estado;
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+XL. Formular y difundir la información estatal de turismo, así como coordinar la publicidad que en esta materia efectúen los Ayuntamientos del Estado y las que lleven a cabo los sectores social y privado;
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+XLI. Promover y, en su caso, organizar, en coordinación con el Instituto Tamaulipeco para la Cultura y las Artes, los espectáculos, congresos, audiciones, representaciones y otras actividades tradicionales y folclóricas para atracción turística;
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+XLII. Autorizar los reglamentos interiores de los establecimientos de servicios turísticos;
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+XLIII. Fijar e imponer, de acuerdo a las leyes y reglamentos, el tipo y monto de las sanciones por el incumplimiento y violación a las disposiciones en materia turística;
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+XLIV. Participar, en el ámbito de su competencia, con la Secretaría de Desarrollo Urbano y Medio Ambiente, en la creación, implementación, inspección y vigilancia del orden normativo, los proyectos y los programas para la conservación y aprovechamiento sustentable de las áreas naturales protegidas de competencia estatal;
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+XLV. Formular, promover y conducir las estrategias, objetivos y normas en materia de turismo de naturaleza y turismo cinegético, en coordinación con la Secretaría de Desarrollo Urbano y Medio Ambiente, con objeto de lograr el uso óptimo de los recursos, manteniéndose los procesos ambientales esenciales e impulsándose la conservación de los recursos naturales y la diversidad biológica; y (sic)
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+XLVI. Regular y promover la protección de los recursos de fauna y flora silvestres en el territorio del Estado, así como regular y controlar su aprovechamiento sustentable;
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+XLVII. Las demás que le señalen las leyes, reglamentos y otras disposiciones jurídicas, así como las que le encomiende el Gobernador del Estado con relación a sus competencias.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+#### Sección V. De la Secretaría del Trabajo
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 28.
 
-A la Secretaría de Turismo, además de las atribuciones que le confieren las leyes aplicables, le corresponde el despacho de los siguientes asuntos:
+A la Secretaría del Trabajo, además de las atribuciones que le confieren las leyes aplicables, le corresponde el despacho de los siguientes asuntos:
 
-I. Formular y conducir, por acuerdo del Gobernador del Estado, la política de desarrollo de la actividad turística estatal;
+I. Ejercer las funciones que en materia de trabajo y previsión social correspondan al Ejecutivo del Estado y llevar la estadística general del ramo;
 
-II. Promover, en coordinación con los Ayuntamientos del Estado, las zonas de desarrollo turístico;
+II. Coadyuvar con las autoridades federales en la aplicación y vigilancia de las normas de trabajo, proporcionándoles la información que soliciten para el cumplimiento de sus funciones;
 
-> <small>(REFORMADA, P.O. 15 DE ENERO DE 2008)</small>
+III. Participar en la integración y funcionamiento de la Comisión Consultiva Estatal de Seguridad e Higiene en el Trabajo;
 
-III. Elaborar y mantener actualizado el Padrón de Prestadores de Servicios Turísticos y llevar a cabo el proceso de certificación de los mismos;
+IV. Intervenir, a petición de parte, en la revisión de los contratos colectivos de trabajo, así como en los conflictos que surjan por violación a las leyes o a los citados contratos;
 
-IV. Emitir opiniones para el establecimiento de estímulos fiscales necesarios para el fomento a la actividad turística;
+V. Proporcionar el apoyo administrativo que para su funcionamiento requieran las Juntas Locales de Conciliación y Arbitraje y el Tribunal Local de Conciliación y Arbitraje del Estado;
 
-V. Autorizar precios y tarifas de los servicios turísticos, en los términos establecidos por las leyes y reglamentos, y vigilar su correcta aplicación;
+VI. Coordinar el funcionamiento de las Juntas Locales de Conciliación y Arbitraje y de las comisiones que se formen para regular las relaciones obrero-patronales, así como vigilar el funcionamiento de las mismas;
 
-VI. Emitir opinión ante la Secretaría de Desarrollo Económico y del Empleo, en aquellos casos en que concurra la inversión extranjera o de otros Estados de la República en proyectos de desarrollo turístico;
+VII. Coordinar y vigilar el debido funcionamiento de la Procuraduría de la Defensa del Trabajo para el Estado de Tamaulipas;
 
-VII. Regular las medidas de protección al turista y vigilar su cumplimiento, en coordinación con las autoridades federales, estatales y municipales;
+VIII. Coordinar el Servicio Estatal del Empleo y establecer, conjuntamente con otras dependencias, instancias u organismos federales y con la Secretaría de Educación en el ámbito estatal, los programas de adiestramiento y capacitación industrial que se requieran;
 
-VIII. Promover el intercambio turístico en el exterior del Estado;
+IX. Establecer y promover estrategias que eleven la competitividad y productividad de la mano de obra en el Estado, así como las que vinculen el sector productivo con el educativo, en coordinación con la Secretaría de Educación, y establecer mecanismos que faciliten el contacto entre la oferta y la demanda de trabajo;
 
-IX. Formular y difundir la información estatal de turismo, así como coordinar la publicidad que en esta materia efectúen los Ayuntamientos del Estado y las que lleven a cabo los sectores social y privado;
+X. Impulsar la igualdad de oportunidades laborales de los grupos sociales vulnerables y en desventaja;
 
-X. Promover, coordinar y, en su caso, organizar, los espectáculos, congresos, audiciones, representaciones y otras actividades tradicionales y folclóricas para atracción turística;
+XI. Diseñar, proponer y ejecutar, en coordinación con la Secretaría de Desarrollo Social, programas para la generación de oportunidades de empleo para la juventud; y
 
-XI. Autorizar los reglamentos interiores de los establecimientos de servicios turísticos;
-
-XII. Llevar las estadísticas en materia de turismo;
-
-XIII. Promover y apoyar el desarrollo de infraestructura turística y estimular la participación de los sectores social y privado;
-
-XIV. Fijar e imponer, de acuerdo a las leyes y reglamentos, el tipo y monto de las sanciones por el incumplimiento y violación a las disposiciones en materia turística;
-
-XV. Promover conjuntamente con las dependencias y entidades estatales correspondientes, el establecimiento de empresas turísticas;
-
-XVI. Representar al Gobierno del Estado, por acuerdo del titular del Ejecutivo, en las asambleas de consejo, juntas directivas y comités técnicos de las entidades paraestatales relacionadas con el sector turismo en el Estado;
-
-XVII. Establecer y operar los mecanismos de seguimiento y evaluación de los programas, proyectos y acciones en general, que se lleven a cabo en el ámbito de su competencia;
-
-> <small>(REFORMADA, P.O. 15 DE ENERO DE 2008)</small>
-
-XVIII. Promover, coordinadamente con la Agencia Ambiental para el Desarrollo Sustentable, programas para la protección del medio ambiente y el confinamiento de desechos sólidos y aguas residuales, en apoyo a un desarrollo sustentable del sector turismo;
-
-XIX. Coordinar, en el ámbito de su competencia, la operación de los fondos y fideicomisos de fomento establecidos por el titular del Ejecutivo con los gobiernos federal y municipales, y los sectores social y privado;
-
-XX. Coordinar las entidades que determine el Ejecutivo del Estado de acuerdo a la materia de su competencia; y (sic)
-
-> <small>(REFORMADA, P.O. 15 DE ENERO DE 2008)</small>
-
-XXI. Participar, en el ámbito de su competencia, con la Agencia Ambiental para el Desarrollo Sustentable, en la creación, implementación, inspección y vigilancia del orden normativo, los proyectos y los programas para la conservación y aprovechamiento sustentable de las áreas naturales protegidas de competencia estatal;
-
-> <small>(ADICIONADA, P.O. 15 DE ENERO DE 2008)</small>
-
-XXII. Formular, promover y conducir las estrategias, objetivos y normas en materia de turismo de naturaleza y turismo cinegético, en coordinación con la Agencia Ambiental para el Desarrollo Sustentable, con objeto de lograr el uso óptimo de los recursos, manteniéndose los procesos ambientales esenciales e impulsándose la conservación de los recursos naturales y la diversidad biológica; y
-
-> <small>(ADICIONADA, P.O. 15 DE ENERO DE 2008)</small>
-
-XXIII. Las demás que le señalen las leyes, reglamentos y otras disposiciones jurídicas, así como las que le encomiende el Gobernador del Estado con relación a sus competencias.
+XII. Las demás que le señalen las leyes, reglamentos y otras disposiciones jurídicas, así como las que le encomiende el Gobernador del Estado con relación a sus competencias.
 
 #### Sección VI. De la Secretaría de Desarrollo Rural
 
@@ -587,17 +667,19 @@ VII. Realizar, en coordinación con las autoridades federales y municipales, cam
 
 VIII. Elaborar programas de obras de infraestructura agrícola, pecuaria, forestal, pesquera y acuícola, así como promover su ejecución ante las instancias competentes;
 
-> <small>(REFORMADA, P.O. 15 DE ENERO DE 2008)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
-IX. Vigilar la preservación de los recursos naturales agrícolas, pecuarios, forestales y pesqueros del Estado, en forma coordinada con la Agencia Ambiental para el Desarrollo Sustentable, en los términos de las disposiciones vigentes;
+IX. Vigilar la preservación de los recursos naturales agrícolas, pecuarios, forestales y pesqueros del Estado, en forma coordinada con la Secretaría de Desarrollo Urbano y Medio Ambiente, en los términos de las disposiciones vigentes;
 
 X. Promover el establecimiento y funcionamiento de los servicios climatológicos y meteorológicos en el Estado;
 
-> <small>(REFORMADA, P.O. 15 DE ENERO DE 2008)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
-XI. Establecer, en coordinación con la Secretaría de Obras Públicas y Desarrollo Urbano, políticas, estrategias, objetivos y normas para la debida operación de los programas relacionados con el uso y abastecimiento del agua para efectos agrícolas, pecuarios, forestales y acuícolas, así como de los bienes inherentes que la Federación haya transferido o transfiera al Estado;
+XI. Establecer, en coordinación con la Comisión Estatal del Agua de Tamaulipas, políticas, estrategias, objetivos y normas para la debida operación de los programas relacionados con el uso y abastecimiento del agua para efectos agrícolas, pecuarios, forestales y acuícolas, así como de los bienes inherentes que la Federación haya transferido o transfiera al Estado;
 
-XII. Promover y apoyar la industrialización y comercialización de los productos agrícolas, pecuarios, forestales, pesqueros y acuícolas generados en el Estado, en coordinación con la Secretaría de Desarrollo Económico y del Empleo;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+XII. Promover y apoyar la industrialización y comercialización de los productos agrícolas, pecuarios, forestales, pesqueros y acuícolas generados en el Estado, en coordinación con la Secretaría de Desarrollo Económico y Turismo;
 
 XIII. Organizar y participar en actos y ferias que promuevan el desarrollo y la competitividad de las actividades agrícolas, pecuarias, forestales, pesqueras y acuícolas en el Estado, así como en las misiones orientadas a la consolidación y apertura de mercados;
 
@@ -609,39 +691,57 @@ XVI. Promover un sistema para la certificación de origen y calidad de los produ
 
 XVII. Organizar y fomentar servicios relacionados con las actividades agrícolas, pecuarias, forestales, pesqueras y acuícolas, considerando la disponibilidad de recursos naturales y de productos generados en cada región, así como la situación del mercado;
 
-XVIII. Proponer y apoyar el desarrollo de infraestructura hidráulica, agrícola, pecuaria, pesquera y acuícola del Estado, en coordinación con la Federación y los Ayuntamientos del Estado y en concertación con las organizaciones de productores;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+XVIII. Proponer y apoyar el desarrollo de infraestructura hidráulica, agrícola, pecuaria, pesquera y acuícola del Estado, en coordinación con la Federación, la Comisión Estatal del Agua de Tamaulipas y los Ayuntamientos del Estado y en concertación con las organizaciones de productores;
 
 XIX. Fomentar programas reproductivos para elevar la calidad genética de la producción agrícola, pecuaria, pesquera y acuícola;
 
-XX. Fomentar y apoyar la conservación, preservación y uso racional de los recursos hidráulicos, suelos, agrícolas, agostaderos, áreas forestales y recursos pesqueros y acuícolas, en coordinación con la Federación, otras Entidades Federativas y Ayuntamientos del Estado, así como con otras dependencias de la propia administración pública del Estado;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
-XXI. Promover y contribuir a la conservación de flora y fauna marinas y acuícola de agua dulce, así como fomentar su desarrollo;
+XX. Fomentar y apoyar la conservación, preservación y uso racional de los recursos hidráulicos, suelos, agrícolas, agostaderos, áreas forestales y recursos pesqueros y acuícolas, en coordinación con la Federación, la Secretaría de Desarrollo Urbano y Medio Ambiente, otras Entidades Federativas y Ayuntamientos del Estado, así como con otras dependencias de la propia administración pública del Estado;
 
-XXII. Ejercer las funciones, ejecutar y operar las obras y prestar los servicios públicos que asuma el Estado en virtud de convenios de coordinación celebrados con la Federación o los Ayuntamientos del Estado en materia hidráulica, agrícola, pecuaria, forestal, pesquera o acuícola, cuando así se establezca en los mismos;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
-XXIII. Colaborar con el Gobierno Federal en la integración y revisión del Registro Nacional de Pesca, Registro de Derechos de Agua y Padrones de Usuarios de los Distritos de Riego; y
+XXI. Promover y contribuir, en coordinación con la Secretaría de Desarrollo Urbano y Medio Ambiente, a la conservación de flora y fauna marinas y acuícola de agua dulce, así como fomentar su desarrollo;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+XXII. Ejercer, en coordinación con las dependencias y entidades estatales correspondientes, las funciones que asuma el Estado en virtud de convenios de coordinación celebrados con la Federación o los Ayuntamientos del Estado en materia hidráulica, agrícola, pecuaria, forestal, pesquera o acuícola, cuando así se establezca en los mismos;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+XXIII. Colaborar con el Gobierno Federal en la integración y revisión del Registro Nacional de Pesca y, en coordinación con la Comisión Estatal del Agua de Tamaulipas, del Registro de Derechos de Agua y Padrones de Usuarios de los Distritos de Riego;
 
 XXIV. Promover la actualización de las disposiciones jurídicas y normas oficiales mexicanas aplicables en las materias agrícola, pecuaria, pesquero, acuícola, forestal e hidroagrícola;
 
-XXV. Formular el inventario de los recursos e infraestructura hidráulica, agrícola, pecuaria, forestal, pesquera y acuícola existentes en el Estado;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+XXV. Formular el inventario de los recursos e infraestructura agrícola, pecuaria, forestal, pesquera y acuícola y, en coordinación con la Comisión Estatal del Agua de Tamaulipas, de los recursos de infraestructura hidráulica, existentes en el Estado;
 
 XXVI. Establecer y aplicar los procedimientos para la internación y movilización de ganado, aves y subproductos pecuarios, en los términos de la legislación aplicable;
 
-XXVII. Coordinar las entidades que determine el Ejecutivo del Estado de acuerdo a la materia de su competencia; y (sic)
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
-> <small>(REFORMADA, P.O. 15 DE ENERO DE 2008)</small>
+XXVII. Coordinar las entidades que determine el Ejecutivo del Estado de acuerdo a la materia de su competencia;
 
-XXVIII. Promover y participar, de manera conjunta con la Agencia Ambiental para el Desarrollo Sustentable, en acciones de protección, conservación, reforestación, fomento y vigilancia de los recursos forestales del Estado; y
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+XXVIII. Promover y participar, de manera conjunta con la Secretaría de Desarrollo Urbano y Medio Ambiente, en acciones de protección, conservación, reforestación, fomento y vigilancia de los recursos forestales del Estado; y
 
 > <small>(ADICIONADA, P.O. 15 DE ENERO DE 2008)</small>
 
 XXIX. Las demás que le señalen las leyes, reglamentos y otras disposiciones jurídicas, así como las que le encomiende el Gobernador del Estado con relación a sus competencias.
 
-#### Sección VII. De la Secretaría de Desarrollo Social, Cultura y Deporte
+> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+#### Sección VII. De la Secretaría de Desarrollo Social
 
 ###### ARTICULO 30.
 
-A la Secretaría de Desarrollo Social, Cultura y Deporte, además de las atribuciones que le asignan las disposiciones legales vigentes, le corresponde el despacho de los siguientes asuntos:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+A la Secretaría de Desarrollo Social, además de las atribuciones que le asignan las disposiciones legales vigentes, le corresponde el despacho de los siguientes asuntos:
 
 I. Proponer, conducir y evaluar la política estatal de desarrollo social, así como los programas y las acciones específicas para el combate a la pobreza, la atención especial a grupos vulnerables y en desventaja y, en general, la superación de las desigualdades sociales;
 
@@ -663,7 +763,9 @@ IX. Participar en la planeación, formulación y aplicación de programas de des
 
 X. Promover las inversiones pública y privada para el desarrollo social del Estado, en coordinación con el Gobierno Federal y los Ayuntamientos del Estado;
 
-XI. Fomentar la construcción de obras de infraestructura y equipamiento para el desarrollo regional y el bienestar social, en coordinación con los Ayuntamientos del Estado y con la participación de los sectores social y privado;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+XI. Fomentar la construcción de obras de infraestructura y equipamiento para el desarrollo regional y el bienestar social, en coordinación con las dependencias y entidades estatales correspondientes, los Ayuntamientos del Estado y con la participación de los sectores social y privado;
 
 XII. Promover la concertación de acciones en materia de desarrollo social con la Federación, otras Entidades Federativas, los Municipios del Estado y las organizaciones sociales de todo tipo;
 
@@ -677,33 +779,35 @@ XVI. Elaborar y presentar al Ejecutivo del Estado el proyecto del Programa Estat
 
 XVII. Diseñar, proponer y ejecutar la política estatal de atención a la juventud, promoviéndose la adopción de políticas en materia de educación sexual, prevención de enfermedades, oportunidades de empleo, expresión cultural y artística y lucha contra las adicciones y la delincuencia;
 
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
 XVIII. Organizar, coordinar y vigilar el funcionamiento del Instituto de la Mujer Tamaulipeca y del Instituto Tamaulipeco de la Juventud;
 
-XIX. Fomentar, conforme a las disposiciones legales aplicables, las relaciones de orden deportivo con instituciones del ramo de la Federación, de las Entidades Federativas y de otros países; así como fomentar, planear y coordinar la investigación en el campo de la educación física y del deporte, y regular la creación y funcionamiento de asociaciones y organismos deportivos de carácter público o privado;
+XIX. (DEROGADA, P.O. 29 DE DICIEMBRE DE 2010)
 
-XX. Coordinar y fomentar la enseñanza y práctica de los deportes en el Estado, así como organizar el Sistema Estatal del Deporte y todo género de eventos deportivos oficiales, cuando no corresponda hacerlo expresamente a otra dependencia del Gobierno del Estado;
+XX. (DEROGADA, P.O. 29 DE DICIEMBRE DE 2010)
 
-XXI. Organizar y operar bibliotecas públicas, hemerotecas, casas de cultura, museos y pinacotecas, vigilando la conservación del patrimonio cultural;
+XXI. (DEROGADA, P.O. 29 DE DICIEMBRE DE 2010)
 
-XXII. Fomentar, planear y coordinar la investigación en el campo de las tradiciones y el arte populares;
+XXII. (DEROGADA, P.O. 29 DE DICIEMBRE DE 2010)
 
-XXIII. Llevar y mantener actualizado el Registro del Patrimonio Histórico-Artístico y Cultural y organizar el Archivo Histórico del Estado;
+XXIII. (DEROGADA, P.O. 29 DE DICIEMBRE DE 2010)
 
-XXIV. Realizar, por sí o a través de terceros, la valoración histórica de los documentos en poder del Estado y de los Ayuntamientos, estableciendo coordinación previa con éstos, en estricto apego de su autonomía;
+XXIV. (DEROGADA, P.O. 29 DE DICIEMBRE DE 2010)
 
-XXV. Promover y, en su caso, realizar conferencias, congresos, convenciones, actos, competencias y concursos de carácter cultural, artístico y deportivo;
+XXV. (DEROGADA, P.O. 29 DE DICIEMBRE DE 2010)
 
-XXVI. Promover y apoyar las tradiciones y el arte populares y fortalecer el sentido de identidad cultural de los tamaulipecos;
+XXVI. (DEROGADA, P.O. 29 DE DICIEMBRE DE 2010)
 
-XXVII. Promover y apoyar las manifestaciones artísticas relacionadas con el teatro, la música, la literatura, la cinematografía, la pintura, la escultura, la danza y demás bellas artes;
+XXVII. (DEROGADA, P.O. 29 DE DICIEMBRE DE 2010)
 
-XXVIII. Promover esquemas de participación de asociaciones públicas, privadas y de la sociedad en general para el desarrollo de la cultura y la conservación y mantenimiento del patrimonio histórico-cultural del Estado;
+XXVIII. (DEROGADA, P.O. 29 DE DICIEMBRE DE 2010)
 
-XXIX. Diseñar y promover la política editorial del sector cultural y proponer directrices en relación con las publicaciones del mismo;
+XXIX. (DEROGADA, P.O. 29 DE DICIEMBRE DE 2010)
 
-XXX. Fomentar, conforme a las disposiciones legales aplicables, las relaciones de orden cultural con instituciones del ramo de la Federación, de los Estados y de otros países;
+XXX. (DEROGADA, P.O. 29 DE DICIEMBRE DE 2010)
 
-XXXI. Coordinar, salvo disposición del Gobernador del Estado en los términos de esta ley, las actividades de las entidades denominadas: Centro Cultural Tamaulipas, Instituto Tamaulipeco de Cultura, Instituto Tamaulipeco para la Cultura y las Artes, Museo de Arte Contemporáneo, Espacio Cultural Metropolitano; y las demás entidades que determine el Ejecutivo del Estado de acuerdo a la materia de su competencia; y
+XXXI. (DEROGADA, P.O. 29 DE DICIEMBRE DE 2010)
 
 XXXII. Las demás que le señalen las leyes, reglamentos y otras disposiciones jurídicas, así como las que le encomiende el Gobernador del Estado con relación a sus competencias.
 
@@ -739,7 +843,9 @@ XII. Promover y, en su caso, realizar conferencias, congresos, convenciones, act
 
 XIII. Diseñar e implementar programas, en coordinación con otras dependencias, tendentes a la vinculación de la educación media superior y superior a las necesidades y oportunidades de desarrollo del Estado;
 
-XIV. Coordinar como cabeza de sector las actividades de las entidades denominadas: Colegio de Bachilleres del Estado de Tamaulipas, Colegio de Educación Profesional Técnica del Estado de Tamaulipas, Colegio de San Juan Siglo XXI, Instituto Tamaulipeco de Educación para Adultos, Universidad Tecnológica de Tamaulipas Norte, Universidad Tecnológica de Matamoros, Universidad Tecnológica de Altamira y Universidad Tecnológica de Nuevo Laredo, y el Instituto de Crédito Educativo, y las demás entidades que determine el Ejecutivo del Estado de acuerdo a la materia de su competencia; y
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+XIV. Coordinar administrativamente las actividades de las entidades denominadas: Consejo Tamaulipeco de Ciencia y Tecnología, Colegio de Bachilleres del Estado de Tamaulipas, Colegio de Educación Profesional Técnica del Estado de Tamaulipas, Colegio de San Juan Siglo XXI, Instituto Tamaulipeco de Educación para Adultos, Universidad Tecnológica de Tamaulipas Norte, Universidad Tecnológica de Matamoros, Universidad Tecnológica de Altamira, Universidad Tecnológica de Nuevo Laredo, Universidad Tecnológica del Mar Tamaulipas Bicentenario, Universidad Politécnica de Victoria, Universidad Politécnica de Altamira, Universidad Politécnica de la Región Ribereña de Miguel Alemán, Instituto Tecnológico Superior de El Mante, Instituto Tamaulipeco de Capacitación para el Empleo, el Instituto de Crédito Educativo y las demás entidades que determine el Ejecutivo del Estado de acuerdo a la materia de su competencia; y
 
 XV. Las demás que le señalen las leyes, reglamentos y otras disposiciones jurídicas, así como las que le encomiende el Gobernador del Estado con relación a sus competencias.
 
@@ -789,135 +895,203 @@ XIX. Dirigir y coordinar el Consejo de Higiene Pública del Estado;
 
 XX. Organizar seminarios, congresos, conferencias y demás actos análogos en materia de salud y de asistencia;
 
-XXI. Coordinar el organismo público desconcentrado denominado Administración para la Beneficencia Pública en el Estado, y otorgar los apoyos que requiera, previa opinión del Sistema para el Desarrollo Integral de la Familia del Estado;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
-XXII. Coordinar las entidades que determine el Ejecutivo del Estado de acuerdo a la materia de su competencia;
+XXI. Coordinar el organismo desconcentrado denominado Administración para la Beneficencia Pública en el Estado, y otorgar los apoyos que requiera;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+XXII. Coordinar administrativamente las actividades del Sistema para el Desarrollo Integral de la Familia del Estado y de las demás entidades que determine el Ejecutivo del Estado de acuerdo a la materia de su competencia; y
 
 XXIII. Las demás que le señalen las leyes, reglamentos y otras disposiciones jurídicas, así como las que le encomiende el Gobernador del Estado con relación a sus competencias.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 15 DE ENERO DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
-#### Sección X. De la Secretaría de Obras Públicas y Desarrollo Urbano
+#### Sección X. De la Secretaría de Desarrollo Urbano y Medio Ambiente
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 33.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE ENERO DE 2008)</small>
+A la Secretaría de Desarrollo Urbano y Medio Ambiente, además de las atribuciones que le asignan las disposiciones legales vigentes, le corresponde el despacho de los siguientes asuntos:
 
-A la Secretaría de Obras Públicas y Desarrollo Urbano, además de las atribuciones que le asignan las disposiciones legales vigentes, le corresponde el despacho de los siguientes asuntos:
+I. Formular y conducir la política general de asentamientos humanos, medio ambiente, recursos naturales y desarrollo sustentable; elaborar, actualizar y ejecutar los instrumentos de la planeación del ordenamiento territorial y desarrollo urbano y participar coordinadamente con los Municipios en la elaboración de sus Planes Municipales respectivos;
 
-I. Formular y conducir la política general de los asentamientos humanos, elaborar, actualizar y ejecutar los instrumentos de la planeación del ordenamiento territorial y desarrollo urbano y participar coordinadamente con los Municipios en la elaboración de sus Planes Municipales respectivos;
+II. Aplicar las disposiciones legales y administrativas estatales en materia de ordenamiento territorial, desarrollo urbano, asentamientos humanos, vivienda, medio ambiente, forestal, áreas naturales protegidas, residuos, recursos naturales y desarrollo sustentable; vigilar su cumplimiento, y proponer al Ejecutivo Estatal las reformas que estime pertinentes;
 
-> <small>(REFORMADA, P.O. 15 DE ENERO DE 2008)</small>
+III. Procurar la integración de los asentamientos humanos irregulares al desarrollo urbano, de acuerdo con las leyes que rigen en la materia y las disposiciones administrativas que dicte el Ejecutivo;
 
-II. Aplicar las disposiciones legales y administrativas estatales en materia de ordenamiento territorial, desarrollo urbano, asentamientos humanos y vivienda; vigilar su cumplimiento, y proponer al Ejecutivo Estatal las reformas que estime pertinentes;
+IV. Integrar, operar y mantener actualizado el Sistema Estatal de Información Geográfica y Urbana, y el Archivo Cartográfico del Estado;
 
-III. Procurar la integración de los asentamiento (sic) humanos irregulares al desarrollo urbano, de acuerdo con las leyes que rigen en la materia y las disposiciones administrativas que dicte el Ejecutivo;
+V. Integrar y mantener actualizada, en coordinación con la Secretaría General de Gobierno, la información catastral del Estado en los términos de la ley de la materia;
 
-IV. Expedir y suscribir, por acuerdo del Ejecutivo, las escrituras y títulos de propiedad que deba otorgar en cumplimiento de sus atribuciones;
+VI. Proponer normas y lineamientos en material de financiamiento privado, total o parcial, y su pago, para el desarrollo urbano y la vivienda;
 
-V. Integrar, operar y mantener actualizado el Sistema Estatal de Información Geográfica y Urbana, y el Archivo Cartográfico del Estado;
+VII. Promover y apoyar, mecanismos de financiamiento para el desarrollo urbano, el desarrollo regional y la vivienda, con la participación de dependencias y entidades de la administración pública federal, estatal y municipal, de instituciones de crédito y de grupos sociales;
 
-VI. Integrar y mantener actualizada la información catastral del Estado en los términos de la ley de la materia;
+VIII. Ejecutar o coordinar, en su caso, las acciones concertadas por el Ejecutivo con los sectores público, social y privado; celebrar convenios de coordinación y asistencia técnica con éstos y con dependencias, entidades y organismos que apoyen los planes y programas de desarrollo urbano, vivienda, urbanización, medio ambiente y desarrollo sustentable;
 
-> <small>(REFORMADA, P.O. 15 DE ENERO DE 2008)</small>
+IX. Proponer y ejecutar el Programa Estatal de Desarrollo Sustentable;
 
-VII. Proponer normas y lineamientos en material de financiamiento privado, total o parcial, y su pago, para la realización de la obra pública, el desarrollo urbano y la vivienda;
+X. Aplicar y vigilar el cumplimiento de los instrumentos y programas de política ambiental, recursos naturales y desarrollo sustentable previstos en los ordenamientos del Estado;
 
-VIII. Sugerir y operar los mecanismos de coordinación y consulta entre los sectores público, social y privado para la realización de la obra pública estatal;
+XI. Convenir con los Gobiernos Federal, de otras Entidades Federativas y de los Municipios del Estado, la realización conjunta y coordinada de acciones de protección, conservación y mejoramiento del medio ambiente y recursos naturales para el desarrollo sustentable;
 
-IX. Promover y apoyar, mecanismos de financiamiento para el desarrollo urbano, el desarrollo regional y la vivienda, con la participación de dependencias y entidades de la administración pública federal, estatal y municipal, de instituciones de crédito y de grupos sociales;
+XII. Proponer, ejecutar y vigilar el desarrollo y cumplimiento de planes y programas de preservación y desarrollo de la flora, fauna y recursos naturales renovables y regular su aprovechamiento racional, en coordinación con las Secretarías de Desarrollo Económico y Turismo y de Desarrollo Rural, así como con la Federación y los Ayuntamientos;
 
-> <small>(REFORMADA, P.O. 15 DE ENERO DE 2008)</small>
+XIII. Adoptar las medidas y realizar las acciones necesarias en el ámbito de su competencia, cuando haya peligro de daño grave e irreversible al medio ambiente o de emergencia ambiental en donde exista una afectación continua y grave al mismo, y que afecte los recursos naturales o la biodiversidad del territorio estatal, aún tratándose de actividades u obras de competencia de otras autoridades en caso de que éstas representen un riesgo inminente a la salud pública; al efecto, actuará de inmediato, sin demérito de la coordinación con la Secretaría de Salud, y el ejercicio que ésta haga de sus atribuciones;
 
-X. Ejecutar o coordinar, en su caso, las acciones concertadas por el Ejecutivo con los sectores público, social y privado; celebrar convenios de coordinación y asistencia técnica con éstos y con dependencias, entidades y organismos que apoyen los planes y programas de desarrollo urbano, vivienda y urbanización;
+XIV. Normar y supervisar, en el ámbito de su competencia, la gestión integral de los residuos sólidos urbanos y de manejo especial, y el tratamiento y disposición final de contaminantes y de sustancias peligrosas, que el Estado tenga asignados;
 
-XI. Formular, coordinar, promover y ejecutar, en coordinación con las dependencias correspondientes, los programas de vivienda, particularmente de las de bajo costo, edificios multifamiliares y zonas habitacionales para trabajadores de escasos recursos, y procurar la regeneración de zonas marginadas y viviendas insalubres e inadecuadas;
+XV. Coadyuvar con los Municipios en el diseño e implementación de mecanismos de prevención y restricción a la contaminación visual y auditiva;
 
-XII. Fomentar, en coordinación con las dependencias correspondientes, la organización de sociedades cooperativas de vivienda y materiales para construcción;
+XVI. Promover, coordinar y participar, de manera conjunta con la Secretaría de Desarrollo Rural, en acciones de protección, conservación, reforestación, fomento y vigilancia de los recursos forestales en el Estado;
 
-XIII. Establecer los lineamientos a que deben ajustarse los proyectos de obra pública y desarrollo urbano que realicen las dependencias y entidades oficiales o particulares;
+XVII. Proponer al Ejecutivo del Estado la declaración de las áreas naturales protegidas de interés estatal;
 
-XIV. Elaborar los programas de obras y servicios públicos del Gobierno Estatal, en coordinación con las dependencias que correspondan, y atender a los criterios de la comunidad y sectores involucrados;
+XVIII. Administrar, vigilar y controlar las áreas naturales protegidas y parques, así como fomentar el desarrollo de las comunidades que las integran, generando programas de identificación y respuestas a las necesidades de la región que forman;
 
-XV. Ejecutar, por sí misma o a través de terceros, las obras públicas estatales y los servicios relacionados con las mismas;
+XIX. Crear, propiciar y administrar los Fideicomisos para la Administración de las Areas Naturales Protegidas de competencia estatal; de protección, conservación y restauración de los recursos naturales; de fomento e incentivos al cumplimiento de la normatividad y, en general toda actividad vinculada con el desarrollo sustentable en el Estado, con la participación de las dependencias estatales a las cuáles competa y la participación de los sectores social y privado, cuando corresponda;
 
-XVI. Elaborar y ejecutar los programas de construcción y conservación de los caminos estatales y demás vías de comunicación, competencia del Gobierno del Estado;
+XX. Promover y fomentar el desarrollo y uso de energías, tecnologías y combustibles alternativos, así como la investigación ambiental, fomentándose la participación de las instituciones de educación superior;
 
-XVII. Proponer al Ejecutivo la expropiación de inmuebles por causa de utilidad pública, en el cumplimiento de sus objetivos;
+XXI. Evaluar y, en su caso, autorizar o negar manifestaciones de impacto ambiental y estudios de daños de la competencia del Estado;
 
-XVIII. Realizar estudios sobre disposiciones legales y administrativas relativas a las etapas que integran la obra pública y los servicios relacionados con la misma;
+XXII. Difundir los programas y estrategias relacionadas con el equilibrio ecológico y la protección al ambiente;
 
-XIX. Proponer reformas a las disposiciones legales y administrativas relacionadas con la planeación, programación, presupuestación, ejecución y control de la obra pública, así como vigilar el cumplimiento de las mismas;
+XXIII. Promover y fomentar las investigaciones sobre el medio ambiente y el desarrollo sustentable;
 
-XX. Determinar, previos los estudios técnicos y administrativos correspondientes, la conveniencia de realizar la obra pública directamente o a través de terceros;
+XXIV. Coordinar administrativamente a las entidades que determine el Ejecutivo del Estado, de acuerdo a la materia de su competencia;
 
-XXI. Expedir, de acuerdo a las leyes de la materia, las bases a que deben sujetarse los concursos y licitaciones públicos para la ejecución de obras públicas en el Estado, así como para la adjudicación, cancelación y vigilancia en el cumplimiento de los contratos de obras, celebrados por la administración pública estatal;
+XXV. Elaborar y mantener actualizado el inventario de los recursos naturales en el Estado;
 
-XXII. Participar, conforme a las leyes o decretos de su creación, en los organismos públicos estatales y municipales relacionados con la obra pública, promoviéndose que la misma se realice conforme a las disposiciones legales y administrativas aplicables;
+XXVI. Formular los lineamientos para la elaboración de los estudios para la cuantificación del daño ambiental causado por obras y actividades antropogénicas, dictaminar los estudios de impacto ambiental presentados por los responsables de las obras y actividades presuntamente causantes de dicho daño; así como aplicar las sanciones y requerir las medidas de compensación ambiental que sean procedentes;
 
-> <small>(REFORMADA, P.O. 15 DE ENERO DE 2008)</small>
+XXVII. Ejercer acciones de inspección y vigilancia, imponer medidas de seguridad y urgente aplicación, así como determinar las sanciones previstas en las disposiciones legales de la materia;
 
-XXIII. Asesorar y apoyar técnica y administrativamente a los Ayuntamientos y sus organismos, cuando lo requieran, en la realización de sus planes y programas de obras públicas, desarrollo urbano, agua potable y alcantarillado y vivienda;
+XXVIII. Iniciar las acciones que procedan en el ámbito de su competencia, ante las autoridades competentes, cuando conozca de actos, hechos u omisiones que constituyan violaciones a la legislación administrativa o penal, así como participar como legitimado procesal para emitir dictámenes, rendir pruebas e informes en los procesos que para el efecto se instruyan;
 
-XXIV. Planear, programar y ejecutar las atribuciones que correspondan al Estado en términos del párrafo quinto del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos y las leyes reglamentarias que expida el Congreso de la Unión;
+XXIX. Diseñar, instrumentar y aplicar, programas temporales de fomento a la regularización voluntaria del cumplimiento de la normatividad ambiental;
 
-XXV. Conducir la política de coordinación del Ejecutivo del Estado con las autoridades federales, de otras Entidades Federativas y municipales en materia de agua, a fin de lograr el mejor aprovechamiento del recurso;
+XXX. Prevenir y controlar la contaminación de la atmósfera generada por fuentes fijas y móviles que le correspondan al Estado, así como operar, por sí o a través de terceros, los Centros de Verificación de Contaminantes Atmosféricos;
 
-> <small>(REFORMADA, P.O. 15 DE ENERO DE 2008)</small>
+XXXI. Desarrollar y ejercer las facultades en materia ambiental que con motivo de los Acuerdos y Convenios se asuman de la Federación;
 
-XXVI. Formular, de manera coordinada con la Agencia Ambiental para el Desarrollo Sustentable, la adopción de medidas de carácter administrativo en el orden estatal para la optimización del uso y aprovechamiento del recurso del agua; así como promover para ese propósito, en forma conjunta con la Agencia, la adopción de ese tipo de medidas en los ámbitos federal y municipal;
+XXXII. Participar, de manera coordinada con la Secretaría de Obras Públicas, en la instrumentación y vinculación con el Programa Estatal de Desarrollo Sustentable, de los programas de desarrollo urbano en la entidad, fomentándose su congruencia;
 
-XXVII. Participar, con el carácter de representante del Gobierno del Estado, en los consejos u organismos de cuenca de los que forma parte el Estado, de conformidad con la legislación aplicable;
+XXXIII. Instrumentar, aplicar y administrar, a través de los instrumentos económicos respectivos que al efecto se constituyan, el cobro y pago de servicios ambientales en compensación de los beneficios que generan los propietarios y poseedores de cualquier régimen de tenencia de la tierra en las Areas Naturales Protegidas Estatales, con la participación de las Secretarías de Obras Públicas, de Desarrollo Económico y Turismo, de Desarrollo Rural, así como de las demás instancias encargadas de la regulación y del aprovechamiento de los recursos naturales en el Estado;
 
-XXVIII. Coadyuvar con los Ayuntamientos, cuando así lo requieran y exista disponibilidad presupuestal, en la instalación, desarrollo y mantenimiento de obras de ornato y alumbrado público;
+XXXIV. Promover la participación del Estado en programas globales de acceso a financiamiento de acciones de recuperación de ecosistemas, de mejoramiento ambiental, de atención y reversión a los problemas de efecto invernadero y de acceso a tecnología que garantice el desarrollo sustentable;
 
-XXIX. (DEROGADA, P.O. 15 DE ENERO DE 2008)
+XXXV. Instrumentar y propiciar la participación ciudadana en la atención y consecución de los objetivos del Programa Estatal de Desarrollo Sustentable, fomentando la conciencia ambiental y el reconocimiento de la importancia de la preservación de los recursos naturales;
 
-XXX. (DEROGADA, P.O. 15 DE ENERO DE 2008)
+XXXVI. Elaborar y publicar lineamientos, guías, normas ambientales, estatales, planes de manejo y demás ordenamientos para el ejercicio de la política estatal ambiental;
 
-XXXI. (DEROGADA, P.O. 15 DE ENERO DE 2008)
+XXXVII. Formular, ejecutar, evaluar, vigilar y modificar los programas de ordenamiento ambiental, así como participar con la Federación y en su caso con otros Estados en los procesos de ordenamiento ambiental de competencia federal;
 
-XXXII. Vigilar y opinar previamente a la modificación o demolición de inmuebles que pudieran tener valor cívico, arquitectónico o histórico en los Municipios;
+XXXVIII. Establecer y aplicar las sanciones administrativas por violaciones a las disposiciones ambientales, así como, en su caso, acordar la compensación de las mismas por obras o acciones de beneficio colectivo ambiental;
 
-> <small>(REFORMADA, P.O. 15 DE ENERO DE 2008)</small>
+XXXIX. Recibir, investigar y atender o, en su caso, canalizar a las autoridades competentes, denuncias por la inobservancia de la normatividad ambiental, aplicando medidas de seguridad e imponiendo las sanciones que sean de su competencia en los términos de las disposiciones jurídicas aplicables;
 
-XXXIII. Elaborar y mantener actualizado el inventario del patrimonio histórico-cultural, y promover la conservación del entorno urbano original de las poblaciones del Estado;
+XL. Coordinar la política estatal sobre cambio climático y sobre la protección de la capa de ozono, de acuerdo con las competencias de las autoridades federales;
 
-XXXIV. Coordinar como cabeza de sector a las entidades estatales denominadas: Instituto Tamaulipeco de Vivienda y Urbanización, Comité Administrador del Programa de Construcción de Escuelas en Tamaulipas, las Comisiones Municipales de Agua Potable y Alcantarillado; y las otras entidades que determine el Ejecutivo del Estado de acuerdo a la materia de su competencia; y
+XLI. Expedir y suscribir, por acuerdo del Ejecutivo y por conducto del Instituto Tamaulipeco de Vivienda y Urbanismo, las escrituras y títulos de propiedad que deba otorgar en cumplimiento de sus atribuciones;
 
-XXXV. Las demás que le señalen las leyes, reglamentos y otras disposiciones jurídicas, así como las que le encomiende el Gobernador del Estado con relación a sus competencias.
+XLII. Formular, coordinar, promover y ejecutar, por conducto del Instituto Tamaulipeco de Vivienda y Urbanismo, y en coordinación con las dependencias correspondientes, los programas de vivienda, particularmente de las de bajo costo, edificios multifamiliares y zonas habitacionales para trabajadores de escasos recursos, y procurar la regeneración de zonas marginadas y viviendas insalubres e inadecuadas;
 
-#### Sección XI. De la Secretaría de Seguridad Pública
+XLIII. Fomentar, por conducto del Instituto Tamaulipeco de Vivienda y Urbanismo, y en coordinación con las dependencias correspondientes, la organización de sociedades cooperativas de vivienda y materiales para construcción;
+
+XLIV. Establecer los lineamientos urbanísticos a que deben ajustarse los proyectos de obra pública y desarrollo urbano que realicen las dependencias y entidades oficiales o particulares;
+
+XLV. Elaborar los programas de servicios públicos del Gobierno Estatal, en coordinación con las dependencias que correspondan, y atender a los criterios de la comunidad y sectores involucrados;
+
+XLVI. Asesorar y apoyar técnica y administrativamente a los Ayuntamientos y sus organismos, cuando lo requieran, en la realización de sus planes y programas de desarrollo urbano, agua potable y alcantarillado y vivienda;
+
+XLVII. Dar trámite a las atribuciones del Poder Ejecutivo en materia de otorgamiento y cancelación de permisos y concesiones para la prestación de servicios de autotransporte en las carreteras estatales, caminos vecinales, zonas urbanas y demás guías de jurisdicción estatal en términos de las leyes aplicables;
+
+XLVIII. Planear, programar y ejecutar, por conducto de la Comisión Estatal del Agua de Tamaulipas, las atribuciones que correspondan al Estado en términos del párrafo quinto del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos y las leyes reglamentarias que expida el Congreso de la Unión;
+
+XLIX. Instrumentar, por conducto de la Comisión Estatal del Agua de Tamaulipas, la política de coordinación del Ejecutivo del Estado con las autoridades federales, de otras Entidades Federativas y municipales en materia de agua, a fin de lograr el mejor aprovechamiento del recurso;
+
+L. Formular, por conducto de la Comisión Estatal del Agua de Tamaulipas, la adopción de medidas de carácter administrativo en el orden estatal para la optimización del uso y aprovechamiento del recurso del agua; así como promover para ese propósito, en forma conjunta con la Secretaría, la adopción de ese tipo de medidas en los ámbitos federal y municipal;
+
+LI. Participar, por conducto de la Comisión Estatal del Agua de Tamaulipas, con el carácter de representante del Gobierno del Estado, en los consejos u organismos de cuenca de los que forma parte el Estado, de conformidad con la legislación aplicable;
+
+LlI. Coadyuvar con los Ayuntamientos, cuando así lo requieran y exista disponibilidad presupuestal, en la instalación, desarrollo y mantenimiento de obras de ornato y alumbrado público;
+
+LIII. Vigilar y opinar previamente a la modificación o demolición de inmuebles que pudieran tener valor cívico, arquitectónico o histórico en los Municipios;
+
+LlV. Elaborar y mantener actualizado el inventario del patrimonio histórico-cultural, y promover la conservación del entorno urbano original de las poblaciones del Estado;
+
+LV. Coordinar administrativamente las actividades de la (sic) entidades estatales denominadas: Comisión Estatal de Areas Naturales Protegidas; Instituto Tamaulipeco de Vivienda y Urbanismo; Comisión Estatal de Agua de Tamaulipas; Comisiones Municipales de Agua Potable y Alcantarillado; y de las otras entidades que determine el Ejecutivo del Estado, de acuerdo a la materia de su competencia; y
+
+LVI. Las demás que le señalen las leyes, reglamentos y otras disposiciones jurídicas, así como las que le encomiende el Gobernador del Estado con relación a sus competencias.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+#### Sección XI. De la Secretaría de Obras Públicas
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 34.
 
+A la Secretaría de Obras Públicas, además de las atribuciones que le asignan las disposiciones legales vigentes, le corresponde el despacho de los siguientes asuntos:
+
+I. Sugerir y operar los mecanismos de coordinación y consulta entre los sectores público, social y privado para la realización de la obra pública estatal;
+
+II. Elaborar los programas de obras del Gobierno Estatal, en coordinación con las dependencias que correspondan, y atender a los criterios de la comunidad y sectores involucrados;
+
+III. Ejecutar, por sí misma o a través de terceros, las obras públicas estatales y los servicios relacionados con las mismas;
+
+IV. Elaborar y ejecutar los programas de construcción y conservación de los caminos estatales, puertos, aeropuertos, vías fluviales y marítimas y demás vías de comunicación, competencia del Gobierno del Estado;
+
+V. Realizar los trámites y gestiones necesarios para la liberación de derechos de vía para la ejecución de las obras públicas estatales y, en su caso, proponer al Ejecutivo la expropiación de inmuebles por causa de utilidad pública, en el cumplimiento de sus objetivos;
+
+VI. Realizar estudios sobre disposiciones legales y administrativas relativas a las etapas que integran la obra pública y los servicios relacionados con la misma;
+
+VII. Proponer reformas a las disposiciones legales y administrativas relacionadas con la planeación, programación, presupuestación, ejecución y control de la obra pública, así como vigilar el cumplimiento de las mismas;
+
+VIII. Determinar, previos los estudios técnicos y administrativos correspondientes, la conveniencia de realizar la obra pública directamente o a través de terceros;
+
+IX. Expedir, de acuerdo a las leyes de la materia, las bases a que deben sujetarse los concursos y licitaciones públicos para la ejecución de obras públicas en el Estado, así como para la adjudicación, cancelación y vigilancia en el cumplimiento de los contratos de obras, celebrados por la administración pública estatal;
+
+X. Participar, conforme a las leyes o decretos de su creación, en los organismos públicos estatales y municipales relacionados con la obra pública, promoviéndose que la misma se realice conforme a las disposiciones legales y administrativas aplicables;
+
+XI. Asesorar y apoyar técnica y administrativamente a los Ayuntamientos y sus organismos, cuando lo requieran, en la realización de sus planes y programas de obras públicas;
+
+XII. Coordinar administrativamente las actividades del Instituto Tamaulipeco de Infraestructura Física Educativa, y de las otras entidades que determine el Ejecutivo del Estado, de acuerdo a la materia de su competencia;
+
+XIII. Integrar y mantener actualizados los catálogos de conceptos, especificaciones y precios unitarios para la ejecución de las obras públicas estatales;
+
+XIV. Proponer normas y lineamientos en material (sic) de financiamiento privado, total o parcial, y su pago, para la realización de las obras públicas estatales;
+
+XV. Llevar y mantener actualizado el Padrón de Contratistas de Obras Públicas del Estado y fijar los criterios y procedimientos para clasificar las personas inscritas en el mismo; y
+
+XVI. Las demás que le señalen las leyes, reglamentos y otras disposiciones jurídicas, así como las que le encomiende el Gobernador del Estado con relación a sus competencias.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+#### Sección XII. De la Secretaría de Seguridad Pública
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+###### ARTICULO 35.
+
 A la Secretaría de Seguridad Pública, además de las atribuciones que le confieren las leyes aplicables, le corresponde el despacho de los siguientes asuntos:
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
+I. Desarrollar las políticas de seguridad pública y proponer en el ámbito estatal los criterios para prevenir eficazmente la comisión de delitos, mediante la adopción de normas, acciones, estrategias y tácticas, así como la conjunción de los recursos a disposición del Ejecutivo del Estado;
 
-I. Dar cumplimiento a las políticas de seguridad pública que establezca el Consejo Estatal de Seguridad Pública. En su caso, propondrá al Consejo los criterios para prevenir eficazmente la comisión de delitos, mediante la adopción de normas, acciones, estrategias y tácticas, así como la conjunción de los recursos a disposición del Ejecutivo del Estado;
+II. Diseñar y ejecutar programas para fomentar la cultura de legalidad;
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
+III. Proponer al Gobernador del Estado las medidas que garanticen la congruencia de la política de prevención eficaz de los delitos entre las dependencias de la administración pública;
 
-II. Diseñar y ejecutar programas para fomentar la cultura de legalidad, previa aprobación del Consejo Estatal de Seguridad Pública;
-
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
-
-III. Proponer al Consejo Estatal de Seguridad Pública las medidas que garanticen la congruencia de la política de prevención eficaz de los delitos entre las dependencias de la administración pública;
-
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
-
-IV. Participar en representación del Gobierno del Estado en el Sistema Nacional de Seguridad Pública, siempre que al efecto lo instruya el titular del Ejecutivo Estatal;
+IV. Participar en representación del Gobierno del Estado en el Sistema Nacional de Seguridad Pública;
 
 V. Participar, conforme a lo establecido en la ley de la materia, en el Consejo Estatal de Seguridad Pública;
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
+VI. Proponer políticas, acciones y estrategias de coordinación estatal en materia de prevención del delito, al tiempo de alentar la coordinación regional en la materia;
 
-VI. Proponer al Consejo Estatal de Seguridad Pública las políticas, acciones y estrategias de coordinación estatal en materia de prevención del delito, al tiempo de alentar la coordinación regional en la materia;
-
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
-
-VII. Fomentar la participación ciudadana en la elaboración de planes y programas de prevención del delito, con base en la estrategia aprobada por el Consejo Estatal de Seguridad Pública;
+VII. Fomentar la participación ciudadana en la elaboración de planes y programas de prevención del delito;
 
 VIII. Promover y facilitar la participación social para el desarrollo de actividades de vigilancia sobre el ejercicio de sus atribuciones;
 
@@ -925,9 +1099,7 @@ IX. Atender las denuncias y quejas ciudadanas relacionadas con el ejercicio de s
 
 X. Organizar, dirigir, administrar y supervisar la policía estatal preventiva, así como aplicar el régimen disciplinario de dicha corporación;
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
-
-XI. Recopilar y mantener al corriente la información sobre los atributos personales, académicos y técnicos de los cuerpos de seguridad pública y de los servidores públicos ministeriales y suministrarlos oportunamente a la base de datos del Sistema Estatal de Información;
+XI. Recopilar y mantener al corriente la información sobre los atributos personales, académicos y técnicos de los cuerpos de seguridad pública y de los servidores públicos ministeriales;
 
 XII. Salvaguardar la integridad y el patrimonio de las personas, prevenir la comisión de delitos del fuero común y preservar las libertades públicas, el orden y la paz social;
 
@@ -935,59 +1107,45 @@ XIII. Establecer un sistema destinado a obtener, analizar, estudiar y procesar i
 
 XIV. Elaborar y difundir estudios multidisciplinarios y estadísticas sobre el fenómeno delictivo;
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
+XV. Efectuar, en coordinación con la Procuraduría General de Justicia, estudios sobre actos delictivos no denunciados para incorporar este elemento en el diseño de las políticas de prevención de los ilícitos penales;
 
-XV. Efectuar, en coordinación con la Procuraduría General de Justicia, estudios sobre actos delictivos no denunciados para incorporar este elemento en el diseño de las políticas de prevención de los ilícitos penales, proponiéndolos en su oportunidad al Consejo Estatal de Seguridad Pública;
+XVI. Determinar y aplicar las normas y políticas de ingreso, capacitación, desarrollo y disciplina del personal responsable de funciones de seguridad pública, de acuerdo con las leyes y reglamentos vigentes;
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
-
-XVI. Dar cumplimiento a las normas y políticas de ingreso, capacitación, desarrollo y disciplina del personal responsable de funciones de seguridad pública, de acuerdo con las leyes y reglamentos vigentes;
-
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
-
-XVII. Organizar, dirigir y administrar el servicio civil de carrera de las instituciones policiales a su cargo, atendiendo la directriz de las instancias del Consejo Estatal de Seguridad Pública;
+XVII. Organizar, dirigir y administrar el servicio civil de carrera de la policía estatal preventiva;
 
 XVIII. Otorgar autorización a empresas que presten servicios privados de seguridad, cuando los mismos se realicen exclusivamente en el territorio del Estado, así como supervisar su funcionamiento;
 
 XIX. Promover la celebración de convenios de colaboración con autoridades federales, de otras entidades federativas o municipales del Estado para el cumplimiento de sus atribuciones;
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
-
-XX. Colaborar, dentro del Sistema Nacional de Seguridad Pública y a requerimiento de autoridades federales competentes, de otras entidades federativas, del Consejo Estatal de Seguridad Pública o de las autoridades municipales del Estado, en la protección de la integridad física de las personas y en la preservación de sus bienes, cuando se vean amenazadas por situaciones de peligro que generen disturbios, violencia o riesgo inminente;
+XX. Colaborar, dentro del Sistema Nacional de Seguridad Pública y a requerimiento de autoridades federales competentes, de otras entidades federativas o municipales del Estado, en la protección de la integridad física de las personas y en la preservación de sus bienes, cuando se vean amenazadas por situaciones de peligro que generen disturbios, violencia o riesgo inminente;
 
 XXI. Auxiliar a los Poderes Legislativo y Judicial del Estado y a la Procuraduría General de Justicia, cuando así lo requieran para el debido ejercicio de sus funciones;
 
 XXII. Ejecutar las penas por delitos del orden común y administrar el sistema penitenciario del Estado, así como organizar y dirigir las actividades de apoyo a liberados;
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
-
-XXIII. Implementar, dirigir y ejecutar los programas de readaptación social de los infractores de la ley penal y administrar los Centros de Ejecución de Sanciones del Estado;
+XXIII. Implementar, dirigir y ejecutar los programas de readaptación social de los infractores de la ley penal y administrar los Centros de Readaptación Social del Estado;
 
 XXIV. Tramitar, por Acuerdo del Gobernador, las solicitudes de libertad anticipada y traslado de internos;
 
 XXV. Ser conducto para el ejercicio de la atribución del Gobernador del Estado en materia de inclusión de reos del orden común para su traslado a su país de origen para el cumplimiento de la condena que les hubiere sido impuesta, conforme a lo dispuesto por el párrafo quinto del artículo 18 de la Constitución Política de los Estados Unidos Mexicanos;
 
-> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
-
 XXVI. Ejecutar las medidas impuestas por las autoridades judiciales competentes en términos de las leyes de justicia para adolescentes, por conducto de las instituciones y órganos establecidos por dichos ordenamientos y demás leyes aplicables, velando por el estricto respeto de los derechos y garantías de los adolescentes;
 
 XXVII. Coordinar los programas y comisiones de seguridad pública;
 
-> <small>(REFORMADA, P.O. 15 DE ENERO DE 2008)</small>
-
 XXVIII. Coordinar actividades en materia vehicular con las autoridades federales;
 
-> <small>(REFORMADA, P.O. 15 DE ENERO DE 2008)</small>
-
-XXIX. Coordinar las tareas de vigilancia, con el apoyo de la Agencia Ambiental para el Desarrollo Sustentable, tendentes a prevenir y combatir las acciones que afecten el medio ambiente y los recursos naturales en el Estado, en especial la cacería furtiva, la afectación de la actividad cinegética, el uso inadecuado del agua y la disposición de materiales o residuos en lugares no autorizados para ello; así como vigilar la observancia y cumplimiento de las disposiciones establecidas en los ordenamientos en materia ambiental y desarrollo sustentable del Estado; y
-
-> <small>(ADICIONADA, P.O. 15 DE ENERO DE 2008)</small>
+XXIX. Coordinar las tareas de vigilancia, con el apoyo de la Secretaría de Desarrollo Económico y Turismo, tendentes a prevenir y combatir las acciones que afecten el medio ambiente y los recursos naturales en el Estado, en especial la cacería furtiva, la afectación de la actividad cinegética, el uso inadecuado del agua y la disposición de materiales o residuos en lugares no autorizados para ello; así como vigilar la observancia y cumplimiento de las disposiciones establecidas en los ordenamientos en materia ambiental y desarrollo sustentable del Estado; y
 
 XXX. Las demás que le señalen las leyes, reglamentos y otras disposiciones jurídicas, así como las que le encomiende el Gobernador del Estado con relación a sus competencias.
 
-#### Sección XII. De la Procuraduría General de Justicia
+> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
-###### ARTICULO 35.
+#### Sección XIII. De la Procuraduría General de Justicia
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+###### ARTICULO 36.
 
 A la Procuraduría General de Justicia, además de las atribuciones que le confieren la Constitución Política del Estado, la Ley Orgánica del Ministerio Público del Estado de Tamaulipas y demás disposiciones vigentes, le corresponde el despacho de los siguientes asuntos:
 
@@ -995,9 +1153,7 @@ I. Ser Consejero Jurídico del Gobernador del Estado y representante legal en lo
 
 II. Promover la exacta observancia y respeto de las libertades y derechos fundamentales de los individuos;
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
-
-III. Procurar el cumplimiento a las normas jurídicas por parte de las dependencias y entidades y, en su caso, proponer al titular del Ejecutivo las medidas pertinentes para tal fin. Asimismo, dar cumplimiento a las determinaciones que adopte el Consejo Estatal de Seguridad Pública;
+III. Procurar el cumplimiento a las normas jurídicas por parte de las dependencias y entidades y, en su caso, proponer al titular del Ejecutivo las medidas pertinentes para tal fin;
 
 IV. Contribuir al cumplimiento y aplicación de la Ley de Responsabilidades de los Servidores Públicos del Estado, en coordinación con la Contraloría Gubernamental;
 
@@ -1013,33 +1169,29 @@ IX. Dirigir y coordinar las actividades de la Policía Ministerial del Estado;
 
 X. Designar y remover, por acuerdo del Gobernador, a los Agentes del Ministerio Público y cambiarlos libremente de adscripción, según convenga al mejor servicio;
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
+XI. Coadyuvar con la Secretaría de Seguridad Pública en la elaboración de programas que tiendan a prevenir la delincuencia;
 
-XI. Coadyuvar con las instancias encargadas de la seguridad pública en la elaboración de programas que tiendan a prevenir la delincuencia, dando cuenta de ello al Consejo Estatal de Seguridad Pública;
-
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
-
-XII. Llevar, en coordinación con la Secretaría de Seguridad Pública, la estadística e identificación delincuencial del Estado, informando de inmediato a las dependencias competentes del Consejo Estatal de Seguridad Pública;
+XII. Llevar, en coordinación con la Secretaría de Seguridad Pública, la estadística e identificación delincuencial del Estado;
 
 XIII. Asesorar a los Municipios en el ejercicio de acciones patrimoniales y de todo orden, cuando así lo soliciten;
 
 XIV. Organizar, dirigir y administrar un servicio para la atención a las víctimas del delito y celebrar acuerdos de colaboración con instituciones federales, de otras Entidades Federativas o municipales del Estado, así como con el sector privado;
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
-
-XV. Formular y desarrollar programas de capacitación para el personal de la dependencia, previa aprobación del Consejo Estatal de Seguridad Pública;
-
-> <small>(REFORMADA, P.O. 15 DE ENERO DE 2008)</small>
+XV. Formular y desarrollar programas de capacitación para el personal de la dependencia;
 
 XVI. Adoptar las determinaciones de su competencia con relación a los delitos ambientales establecidos en los ordenamientos en materia ambiental y desarrollo sustentable del Estado y demás leyes aplicables, así como sustanciar las investigaciones que al efecto se inicien por conductas delictivas en materia ambiental, y deducir en los procesos penales que se instauren la representación de la sociedad; y
 
-> <small>(ADICIONADA, P.O. 15 DE ENERO DE 2008)</small>
-
 XVII. Las demás que le señalen las leyes, reglamentos y otras disposiciones jurídicas, así como las que le encomiende el Gobernador del Estado con relación a sus competencias.
 
-#### Sección XIII. De la Contraloría Gubernamental
+ARTICULO 36 BIS. (DEROGADO, P.O. 29 DE DICIEMBRE DE 2010)
 
-###### ARTICULO 36.
+> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+#### Sección XIV. De la Contraloría Gubernamental
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+###### ARTICULO 37.
 
 A la Contraloría Gubernamental, además de las atribuciones que le asignan las disposiciones legales vigentes, le corresponde el despacho de los siguientes asuntos:
 
@@ -1047,7 +1199,7 @@ I. Supervisar y vigilar el funcionamiento de los sistemas y procedimientos de pl
 
 II. Establecer y dictar las bases generales para la realización de auditorías, inspecciones y evaluaciones a las dependencias y entidades de la administración pública estatal e informar al titular del Ejecutivo del resultado de las mismas;
 
-III. Planear, organizar y coordinar el Sistema de Control y Evaluación Gubernamental;
+III. Planear, organizar y coordinar el Sistema de Control Gubernamental y la evaluación del desempeño de los servidores públicos;
 
 IV. Fiscalizar e inspeccionar el ejercicio del gasto público del Ejecutivo y su congruencia con el presupuesto de egresos;
 
@@ -1073,8 +1225,6 @@ XIV. Vigilar el cumplimiento de la Ley de Responsabilidades de los Servidores P�
 
 XV. Conocer e investigar los actos, omisiones o conductas de los servidores públicos que puedan implicar responsabilidad administrativa, aplicando la sanción que corresponda y, en su caso, turnarlos al Ministerio Público;
 
-> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2007)</small>
-
 XVI. Intervenir, para efectos de verificación y recepción intermedia y final de las unidades administrativas de las dependencias y entidades de la administración pública estatal;
 
 XVII. Brindar asesoría y apoyo técnico a los órganos de control interno del gasto público municipal, cuando así lo soliciten;
@@ -1085,101 +1235,13 @@ XIX. Formular e implantar, por sí o a través de terceros, estudios y programas
 
 XX. Analizar y dictaminar las estructuras orgánico-funcionales de las dependencias y entidades públicas, en coordinación con las Secretarías de Finanzas y de Administración, para los efectos presupuestales correspondientes;
 
-XXI. Emitir las normas y lineamientos que deben observar las dependencias y entidades en la formulación de sus manuales administrativos y, en su caso, autorizar los mismos, previo acuerdo del titular del Ejecutivo;
+XXI. Emitir las normas y lineamientos que deben observar las dependencias y entidades en la formulación de sus manuales administrativos y, en su caso, autorizar los mismos, previo acuerdo del titular del Ejecutivo; y
 
-XXII. Llevar y mantener actualizados el Padrón de Proveedores de la Administración Pública del Estado y del Padrón de Contratistas de Obras Públicas del Estado; y fijar los criterios y procedimientos para clasificar las personas inscritas en ellos; y
+XXII. Las demás que le señalen las leyes, reglamentos y otras disposiciones jurídicas, así como las que le encomiende el Gobernador del Estado con relación a sus competencias.
 
-XXIII. Las demás que le señalen las leyes, reglamentos y otras disposiciones jurídicas, así como las que le encomiende el Gobernador del Estado con relación a sus competencias.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
-> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 15 DE ENERO DE 2008)</small>
-
-#### Sección XIV. De la Agencia Ambiental para el Desarrollo Sustentable
-
-> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2008)</small>
-
-###### ARTICULO 36 Bis.
-
-A la Agencia Ambiental para el Desarrollo Sustentable, además de las atribuciones que le confieren las leyes aplicables, le corresponde el despacho de los siguientes asuntos:
-
-I. Proponer los elementos para que el Consejo de Gobierno para el Desarrollo Sustentable formule la política estatal en materia ambiental, recursos naturales y desarrollo sustentable, y conducir la ejecución de dicha política;
-
-II. Proponer y ejecutar el Programa Estatal de Desarrollo Sustentable;
-
-III. Aplicar y vigilar el cumplimiento de los instrumentos y programas de política ambiental, recursos naturales y desarrollo sustentable previstos en los ordenamientos del Estado;
-
-IV. Aplicar las disposiciones legales y administrativas estatales en materia de medio ambiente, vida silvestre, forestal, áreas naturales protegidas y residuos, así como vigilar su cumplimiento y proponer al Ejecutivo Estatal las reformas que estime pertinentes;
-
-V. Convenir con los Gobiernos Federal, de otras Entidades Federativas y de los Municipios del Estado, la realización conjunta y coordinada de acciones de protección, conservación y mejoramiento del medio ambiente y recursos naturales para el desarrollo sustentable;
-
-VI. Ejecutar o coordinar, en su caso, las acciones concertadas por el Ejecutivo con los sectores público, social y privado; celebrar convenios de coordinación y asistencia técnica con éstos, y con dependencias, entidades y organismos que apoyen los programas estatales en materia de medio ambiente y desarrollo sustentable;
-
-VII. Proponer, ejecutar y vigilar el desarrollo y cumplimiento de planes y programas de preservación y desarrollo de la flora, fauna y recursos naturales renovables y regular su aprovechamiento racional, en coordinación con las Secretarías de Desarrollo Económico y del Empleo, de Turismo y de Desarrollo Rural, así como con la Federación y los Ayuntamientos;
-
-VIII. Adoptar las medidas y realizar las acciones necesarias en el ámbito de su competencia cuando haya peligro de daño grave e irreversible al medio ambiente o de emergencia ambiental en donde exista una afectación continua y grave al mismo, y que afecte los recursos naturales o la biodiversidad del territorio estatal, aún tratándose de actividades u obras de competencia de otras autoridades en caso de que éstas representen un riesgo inminente a la salud pública; al efecto, actuará de inmediato, sin demérito de la coordinación con la Secretaría de Salud, y el ejercicio que ésta haga de sus atribuciones;
-
-IX. Normar y supervisar, en el ámbito de su competencia, la gestión integral de los residuos sólidos urbanos y de manejo especial, y el tratamiento y disposición final de contaminantes y de sustancias peligrosas, que el Estado tenga asignados;
-
-X. Coadyuvar con los Municipios en el diseño e implementación de mecanismos de prevención y restricción a la contaminación visual y auditiva;
-
-XI. Promover, coordinar y participar, de manera conjunta con la Secretaría de Desarrollo Rural, en acciones de protección, conservación, reforestación, fomento y vigilancia de los recursos forestales en el Estado;
-
-XII. Regular y promover la protección de los recursos de fauna y flora silvestres en el territorio del Estado, así como regular y controlar su aprovechamiento sustentable;
-
-XIII. Proponer al Ejecutivo del Estado la declaración de las áreas naturales protegidas de interés estatal;
-
-XIV. Administrar, vigilar y controlar las áreas naturales protegidas y parques, así como fomentar el desarrollo de las comunidades que las integran, generando programas de identificación y respuestas a las necesidades de la región que forman;
-
-XV. Crear, propiciar y administrar los Fideicomisos para la Administración de las Areas Naturales Protegidas de competencia estatal; de protección, conservación y restauración de los recursos naturales; de fomento e incentivos al cumplimiento de la normatividad y, en general toda actividad vinculada con el desarrollo sustentable en el Estado, con la participación de las dependencias estatales a las cuáles competa y la participación de los sectores social y privado, cuando corresponda;
-
-XVI. Promover y fomentar el desarrollo y uso de energías, tecnologías y combustibles alternativos, así como la investigación ambiental, fomentándose la participación de las instituciones de educación superior;
-
-XVII. Evaluar y, en su caso, autorizar o negar manifestaciones de impacto ambiental y estudios de daños de la competencia del Estado;
-
-XVIII. Difundir los programas y estrategias relacionadas con el equilibrio ecológico y la protección al ambiente;
-
-XIX. Promover y fomentar las investigaciones sobre el medio ambiente y el desarrollo sustentable;
-
-(REFORMADA, P.O. 24 DE DICIEMBRE DE 2008) (F. DE E., P.O. 17 DE MARZO DE 2009)
-
-XX. Coordinar administrativamente a las entidades estatales denominadas: Comisión Estatal para la Conservación y Aprovechamiento Económico de la Vida Silvestre; Comisión Estatal de Areas Naturales Protegidas; Zoológico y Parque Recreativo Tamatán y las demás entidades que determine el Ejecutivo del Estado, de acuerdo a la materia de su competencia;
-
-XXI. Elaborar y mantener actualizado el inventario de los recursos naturales en el Estado;
-
-XXII. Formular los lineamientos para la elaboración de los estudios para la cuantificación del daño ambiental causado por obras y actividades antropogénicas, dictaminar los estudios de impacto ambiental presentados por los responsables de las obras y actividades presuntamente causantes de dicho daño; así como aplicar las sanciones y requerir las medidas de compensación ambiental que sean procedentes;
-
-XXIII. Ejercer acciones de inspección y vigilancia, imponer medidas de seguridad y urgente aplicación, así como determinar las sanciones previstas en las disposiciones legales de la materia;
-
-XXIV. Iniciar las acciones que procedan en el ámbito de su competencia, ante las autoridades competentes, cuando conozca de actos, hechos u omisiones que constituyan violaciones a la legislación administrativa o penal, así como participar como legitimado procesal para emitir dictámenes, rendir pruebas e informes en los procesos que para el efecto se instruyan;
-
-XXV. Diseñar, instrumentar y aplicar, programas temporales de fomento a la regularización voluntaria del cumplimiento de la normatividad ambiental;
-
-XXVI. Prevenir y controlar la contaminación de la atmósfera generada por fuentes fijas y móviles que le correspondan al Estado, así como operar, por si o a través de terceros, los Centros de Verificación de Contaminantes Atmosféricos;
-
-XXVII. Desarrollar y ejercer las facultades en materia ambiental que con motivo de los Acuerdos y Convenios se asuman de la Federación,
-
-XXVIII. Participar, de manera coordinada con la Secretaría de Obras Públicas y Desarrollo Urbano, en la instrumentación y vinculación con el Programa Estatal de Desarrollo Sustentable, de los programas de desarrollo urbano en la entidad, fomentándose su congruencia;
-
-XXIX. Instrumentar, aplicar y administrar, a través de los instrumentos económicos respectivos que al efecto se constituyan, el cobro y pago de servicios ambientales en compensación de los beneficios que generan los propietarios y poseedores de cualquier régimen de tenencia de la tierra en las Areas Naturales Protegidas Estatales, con la participación de la Secretaría de Obras Públicas y Desarrollo Urbano, a través de las entidades estatales encargadas del recurso del agua; de Turismo y de Desarrollo Rural, así como de las demás instancias encargadas de la regulación y del aprovechamiento de los recursos naturales en el Estado;
-
-XXX. Promover la participación del Estado en programas globales de acceso a financiamiento de acciones de recuperación de ecosistemas, de mejoramiento ambiental, de atención y reversión a los problemas de efecto invernadero y de acceso a tecnología que garantice el desarrollo sustentable;
-
-XXXI. Instrumentar y propiciar la participación ciudadana en la atención y consecución de los objetivos del Programa Estatal de Desarrollo Sustentable, fomentando la conciencia ambiental y el reconocimiento de la importancia de la preservación de los recursos naturales;
-
-XXXll. Elaborar y publicar lineamientos, guías, normas técnicas ambientales, planes de manejo y demás ordenamientos para el ejercicio de la política estatal ambiental;
-
-XXXIII. Formular, ejecutar, evaluar, vigilar y modificar los programas de ordenamiento ambiental, así como participar con la Federación y en su caso con otros Estados en los procesos de ordenamiento ambiental de competencia federal;
-
-XXXIV. Establecer y aplicar las sanciones administrativas por violaciones a las disposiciones ambientales, así como, en su caso, acordar la compensación de las mismas por obras o acciones de beneficio colectivo ambiental;
-
-XXXV. Recibir, investigar y atender o, en su caso, canalizar a las autoridades competentes, denuncias por la inobservancia de la normatividad ambiental, aplicando medidas de seguridad e imponiendo las sanciones que sean de su competencia en los términos de las disposiciones jurídicas aplicables;
-
-XXXVI. Coordinar la política estatal sobre cambio climático y sobre la protección de la capa de ozono, de acuerdo con las competencias de las autoridades federales; y
-
-XXXVII. Las demás que le señalen las leyes, reglamentos y otras disposiciones jurídicas, así como las que le encomiende el Gobernador del Estado con relación a sus competencias.
-
-### CAPITULO CUARTO. DE LAS ENTIDADES PARAESTATALES
-
-###### ARTICULO 37.
+###### ARTICULO 38.
 
 1. Son organismos públicos descentralizados las entidades creadas por ley o decreto del Poder Legislativo o por decreto del Gobernador del Estado, cuyo objeto sea la prestación de un servicio público o social, la obtención o aplicación de recursos para fines de seguridad social o de asistencia social, la explotación de bienes o recursos propiedad del Gobierno del Estado o la satisfacción de intereses generales del Estado y acciones de beneficio colectivo.
 
@@ -1187,7 +1249,11 @@ XXXVII. Las demás que le señalen las leyes, reglamentos y otras disposiciones 
 
 3. El órgano de gobierno de estos organismos tendrá carácter colegiado y participarán en él titulares de dependencias de la administración pública.
 
-###### ARTICULO 38.
+4. El Ejecutivo del Estado determinará la adscripción específica de los organismos públicos descentralizados a la coordinación administrativa de las dependencias, sin demérito de reservar su coordinación en las oficinas del propio Ejecutivo.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+###### ARTICULO 39.
 
 1. Son empresas de participación estatal mayoritaria las entidades creadas en los términos de las disposiciones legales aplicables, cuyo objeto sea la satisfacción de necesidades colectivas a través de la producción de bienes y servicios de naturaleza económica, a fin de promover el desarrollo del Estado y obtener recursos que contribuyan al erario público.
 
@@ -1205,15 +1271,21 @@ IV. El estatuto de la empresa reserve al Gobierno del Estado la facultad de veta
 
 4. Se asimilan a las empresas de participación estatal mayoritaria, las asociaciones y sociedades civiles en las que la mayoría de sus miembros son dependencias o entidades de la administración pública estatal, servidores públicos estatales que participen en ellas en razón de sus cargos o alguna o varias de aquellas realicen o se obliguen a realizar las aportaciones económicas preponderantes.
 
-###### ARTICULO 39.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
-1. Los fideicomisos públicos, son los constituidos por el Ejecutivo con recursos del Gobierno del Estado, con el objeto de auxiliarlo en la realización de actividades prioritarias, de interés público o beneficio colectivo de su competencia.
+###### ARTICULO 40.
+
+1. Los fideicomisos públicos son los constituidos por el Gobierno del Estado con objeto de auxiliarlo en la realización de actividades prioritarias, de interés público o beneficio colectivo.
 
 2. Los fideicomisos públicos podrán contar con estructura análoga a la de las otras entidades, y regirán sus actividades por Comités Técnicos.
 
-3. El Ejecutivo del Estado será invariablemente el fideicomitente y en los documentos contractuales que los creen y regulen, deberán quedar precisados los derechos y obligaciones que corresponda ejercer al fiduciario sobre el patrimonio fideicomitido, sus limitaciones, así como las facultades y derechos que el fideicomitente se reserve.
+3. En los fideicomisos constituidos por el Gobierno del Estado, la Secretaría de Finanzas será el fideicomitente único de la Administración Pública del Estado.
 
-###### ARTICULO 40.
+4. En los documentos contractuales que creen y regulen los fideicomisos públicos del Estado, deberán precisarse los derechos y obligaciones que corresponda ejercer al fiduciario sobre el patrimonio fideicomitido, sus limitaciones, así como las facultades y derechos que el fideicomitente se reserve.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+###### ARTICULO 41.
 
 1. En el ordenamiento legal del Congreso o del Gobernador del Estado para la creación de un organismo público descentralizado, así como en el decreto, en su caso, para la creación de una empresa de participación estatal o de un fideicomiso, se establecerán, por lo menos, los siguientes elementos:
 
@@ -1229,7 +1301,7 @@ V. Designación o integración del órgano de gobierno, así como la forma de de
 
 VI. Atribuciones del Director General;
 
-VII. Organos de vigilancia y sus atribuciones;
+VII. Órganos de vigilancia y sus atribuciones;
 
 VIII. Régimen laboral a que se sujetarán las relaciones de trabajo; y
 
@@ -1237,7 +1309,9 @@ IX. Forma y términos de su extinción y liquidación.
 
 2. Las entidades remitirán su cuenta pública trimestral a la Secretaría de Finanzas en términos de la Ley de Fiscalización Superior, a fin de que sea presentada al Congreso del Estado para su revisión y calificación.
 
-###### ARTICULO 41.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+###### ARTICULO 42.
 
 1. El Gobernador determinará la agrupación de las entidades por sectores administrativos, con objeto de promover los diferentes aspectos del desarrollo del Estado. Al efecto, podrán establecerse tantos sectores administrativos como se estime pertinente para dicho propósito.
 
@@ -1247,31 +1321,37 @@ IX. Forma y términos de su extinción y liquidación.
 
 4. Los sectores administrativos normarán su actuación con base en los principios de la planeación democrática del desarrollo, el Plan Estatal de Desarrollo y los programas que se deriven de éste.
 
-###### ARTICULO 42.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+###### ARTICULO 43.
 
 La liquidación o extinción de una entidad se realizará mediante el mismo procedimiento seguido para su creación, previa opinión de la dependencia coordinadora del sector al que pertenezca.
 
-###### ARTICULO 43.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+###### ARTICULO 44.
 
 1. El control y vigilancia de las entidades estará a cargo de comisarios designados por la Contraloría Gubernamental, previo acuerdo del Gobernador del Estado, y su función, podrá ser temporal o permanente.
 
 2. Las atribuciones del comisario se determinarán en la ley o decreto que establezca o autorice la creación de la entidad, y en el cumplimiento de su encargo estará obligado a observar la demás normatividad correspondiente.
 
-### CAPITULO QUINTO. DE LOS TRIBUNALES ADMINISTRATIVOS
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
-###### ARTICULO 44.
+###### ARTICULO 45.
 
-1. Para resolver los conflictos que se presenten en las relaciones laborales entre el Estado y sus trabajadores, entre los patrones y sus trabajadores, o las controversias que se susciten entre las autoridades del Estado y los particulares, existirán un Tribunal de Arbitraje, una Junta Local de Conciliación y Arbitraje, y un Tribunal de lo Contencioso-Administrativo.
+1. Para resolver los conflictos que se presenten en las relaciones laborales entre el Estado y sus trabajadores, entre los patrones y sus trabajadores, o las controversias que se susciten entre las autoridades del Estado y los particulares, existirán un Tribunal de Arbitraje, una Junta Local de Conciliación y Arbitraje y un Tribunal Fiscal.
 
 2. Los tribunales administrativos gozarán de plena autonomía jurisdiccional para emitir sus laudos y resoluciones.
 
 3. El nombramiento y remoción de los titulares de los tribunales administrativos se hará en los términos de las leyes que los rigen.
 
-###### ARTICULO 45.
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+###### ARTICULO 46.
 
 1. Para el ejercicio de sus funciones, los tribunales administrativos contarán con el apoyo del Poder Ejecutivo.
 
-2. La Secretaría General de Gobierno apoyará la operación del Tribunal de Arbitraje y de las Juntas de Conciliación y Arbitraje.
+2. La Secretaría del Trabajo apoyará la operación del Tribunal de Arbitraje y de las Juntas de Conciliación y Arbitraje.
 
 3. La Secretaría de Finanzas prestará el apoyo que requiera el tribunal competente para dirimir controversias contencioso-administrativas.
 
@@ -1388,3 +1468,33 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTICULO SEGUNDO.
 
 El personal que se encuentre comprendido en el párrafo 9 del inciso g) del apartado A del artículo 4° de la Ley del Trabajo de los Servidores Públicos del Estado de Tamaulipas será objeto de los procesos de evaluación y control de confianza que determine el Consejo Estatal de Seguridad Pública. Quienes a la fecha de entrada en vigor de este Decreto tengan un nombramiento de base podrán solicitar su reubicación a un área no vinculada a la organización y funcionamiento de las instituciones policiales y de procuración de justicia. Al personal que hubiere tenido nombramiento de base y continúe al servicio de las instituciones policiales y de procuración de justicia, les serán reconocidas su antigüedad y demás derechos generados para efectos de jubilación y pensión.
+
+P.O. 29 DE DICIEMBRE DE 2010.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Con motivo de la creación de las Secretarías de Desarrollo Económico y Turismo, del Trabajo y de Desarrollo Urbano y Medio Ambiente, se transferirán a las mismas los recursos humanos, los activos patrimoniales constituidos por los bienes inmuebles, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y, en general, el equipo utilizado, respectivamente para la atención de las funciones asignadas a dichas dependencias, por las Secretarías de Turismo, General de Gobierno, de Obras Públicas y Desarrollo Urbano y por la Agencia Ambiental para el Desarrollo Sustentable. Con relación al surgimiento administrativo de las Secretarías de Desarrollo Social y de Obras Públicas, estas tendrán a su cargo los activos patrimoniales enunciados anteriormente que se refieran a esas funciones, de conformidad con la anterior existencia de las Secretarías de Desarrollo Social, Cultura y Deporte y de Obras Públicas y Desarrollo Urbano.
+
+###### ARTICULO TERCERO.
+
+Las transferencias que con motivo de la expedición del presente Decreto deban realizarse de una dependencia a otra, incluirán los recursos presupuestales asignados a los asuntos de las nuevas competencias que se establecen, así como los programas y calendarios financieros correspondientes.
+
+###### ARTICULO CUARTO.
+
+La transferencia de un área administrativa entre una dependencia existente con antelación al presente decreto y las que surgen con motivo del mismo, se hará con la intervención de la Contraloría Gubernamental. El cambio de personal de una dependencia a otra no implicará afectación a los derechos adquiridos por los trabajadores.
+
+###### ARTICULO QUINTO.
+
+En cumplimiento del presente Decreto se faculta al Ejecutivo para reorganizar las estructuras de las dependencias y, mediante el procedimiento aplicable, de las entidades; así como para crear las áreas y unidades necesarias, y modificar y redistribuir las partidas del Presupuesto de Egresos de Estado para el ejercicio fiscal de 2011, sin excederse del monto total autorizado del gasto público para el propio ejercicio.
+
+###### ARTICULO SEXTO.
+
+Los asuntos que con motivo del presente decreto pasen del conocimiento de una dependencia a otra, permanecerán en el último trámite que hubieren alcanzado hasta que las unidades administrativas que los tramitan se incorporen a la dependencia que deba atenderlos conforme al reglamento que se expide, salvo los trámites urgentes o sujetos a plazos improrrogables.
+
+###### ARTICULO SEPTIMO.
+
+Cuando con motivo del presente decreto se confieran una denominación nueva o distinta a alguna dependencia cuyas funciones sean referidas por otros ordenamientos legales, dichas atribuciones se entenderán concedidas a la dependencia que determine el presente decreto.
