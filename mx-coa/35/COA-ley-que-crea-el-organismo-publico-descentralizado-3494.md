@@ -4,7 +4,7 @@ identifier: "COA-ley-que-crea-el-organismo-publico-descentralizado-3494"
 country: "mx"
 rank: "ley"
 publication_date: "1993-08-31"
-last_updated: "2009-04-03"
+last_updated: "2010-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3494&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "COA"
 ---
 # LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO "COMISION ESTATAL DE AGUAS Y SANEAMIENTO DE COAHUILA"
 
-LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO "COMISION ESTATAL DE AGUAS Y SANEAMIENTO DE COAHUILA"
+LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO "COMISIÓN ESTATAL DE AGUAS Y SANEAMIENTO DE COAHUILA"
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE ABRIL DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 31 de agosto de 1993.
 
@@ -39,9 +39,11 @@ LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO "COMISION ESTATAL D
 
 ### CAPITULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO PRIMERO.
 
-Se crea el Organismo Público Descentralizado "Comisión Estatal de Aguas y Saneamiento de Coahuila", con personalidad jurídica y patrimonio propios, que en lo sucesivo se denominará "El Organismo", con domicilio en la Ciudad de Saltillo, Coahuila sin perjuicio de que pueda establecer en otras poblaciones del Estado las delegaciones y oficinas que estime necesarias para la realización de sus actividades.
+Se crea el Organismo Público Descentralizado "Comisión Estatal de Aguas y Saneamiento de Coahuila", con personalidad jurídica y patrimonio propios, que en lo sucesivo se denominará "El Organismo", con domicilio en la Ciudad de Saltillo, Coahuila, sin perjuicio de que pueda establecer en otras poblaciones del Estado las delegaciones y oficinas que estime necesarias para la realización de sus actividades, y que estará sectorizado al Servicio de Administración Tributaria del Estado de Coahuila.
 
 El Gobierno del Estado asignará al organismo el presupuesto suficiente para su operación.
 
@@ -109,23 +111,33 @@ La dirección y administración del Organismo estarán a cargo de un Consejo Dir
 
 El Consejo Directivo será el órgano superior de Gobierno de la Comisión y se integrará de la siguiente manera:
 
-I.- Un Presidente, que será el Gobernador del Estado; y
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
-II.- Siete vocales, que serán:
+I.- Un Presidente Honorario, que será el Gobernador del Estado;
 
-a). El Secretario de Gobierno;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE DICIEMBRE DE 2010)</small>
 
-b). El Secretario de Finanzas;
+II.- Un Presidente Ejecutivo que será el Secretario Ejecutivo del Servicio de Administración Tributaria del Estado de Coahuila.
 
-c). El Secretario de Desarrollo Urbano y Obras Públicas;
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 29 DE DICIEMBRE DE 2010)</small>
 
-d). El Secretario de Programación y Desarrollo;
+III.- Cuatro vocales, que serán:
 
-e). El Secretario de Salud.
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 29 DE DICIEMBRE DE 2010)</small>
 
-f). El Director de la Comisión Estatal de Desarrollo Municipal; y
+a). El Tesorero General del Estado;
 
-g). El titular del Departamento de Ecología.
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+b). El Secretario de Fomento Económico;
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+c). El Secretario de Obras Públicas y Transporte, y
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+d). El Secretario de Salud.
 
 Cada uno de los miembros del Consejo designará a un suplente.
 
@@ -151,7 +163,7 @@ VII.- Planear y autorizar la gestión de los créditos que requiera el Organismo
 
 VIII.- Conocer y aprobar los reglamentos internos del Organismo;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE NOVIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE NOVIEMBRE DE 2006)</small>
 
 IX.- Otorgar al Director General o a personas distintas a éste, poder general para pleitos y cobranzas y actos de administración, con todas las facultades aún las que requieran poder especial conforme a la Ley, en los términos del Artículo 2554 del Código Civil Federal y su correlativo, el Artículo 3008 del Código Civil del Estado de Coahuila. Estará facultado, además, para desistirse de amparos y para formular querellas y acusaciones de carácter penal, así como para otorgar y suscribir títulos de crédito.
 
@@ -217,7 +229,11 @@ VI.- Asistir a las sesiones del Congreso Directivo, sin tener voto en los acuerd
 
 VII.- Nombrar, remover y reubicar al personal del Organismo, en los términos de las disposiciones legales aplicables; y
 
-VIII.- Las demás que por acuerdo del Consejo se le atribuyan, así como las que le competan dentro del Reglamento Interno del Organismo.
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+VIII.- Requerir el pago y ejecutar las acciones necesarias para hacer efectivas las garantías que se otorguen consistentes en fianza, hipoteca, prenda o embargo en la vía administrativa cuando proceda, y
+
+IX.- Las demás que por acuerdo del Consejo se le atribuyan, así como las que le competan dentro del Reglamento Interno del Organismo.
 
 ###### ARTICULO DECIMO CUARTO.
 
@@ -279,6 +295,18 @@ El balance anual del Organismo deberá publicarse en el Periódico Oficial del G
 
 Los bienes muebles e inmuebles pertenecientes al Organismo, gozarán de las franquicias, prerrogativas y privilegios concedidos a los fondos y bienes del Estado.
 
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+###### ARTICULO VIGESIMO SEGUNDO
+
+A.- "El Organismo", deberá radicar al día hábil siguiente, en las cuentas del Servicio de Administración Tributaria del Estado de Coahuila, los ingresos que perciba por cualquier concepto, incluso los provenientes de financiamiento, distintos de los recursos presupuéstales de operación del mismo y de los que tengan un fin o destino específico.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+###### ARTICULO VIGESIMO SEGUNDO
+
+B.- Para obtener financiamientos o recursos que permitan a través del Servicio de Administración Tributaria del listado de Coahuila, el logro de sus objetivos, "el Organismo" podrá utilizar y/o comprometer, total o parcialmente los ingresos que genera o que llegare a generar presentes o futuros por cualquier concepto, previo acuerdo del Consejo Directivo, como fuente de pago yo garantía de deuda pública y/o fuente de pago, previa aprobación del Consejo Directivo.
+
 ###### ARTICULO VIGESIMO TERCERO.
 
 Se considerarán créditos fiscales los adeudos por la prestación de los servicios de agua potable, drenaje, alcantarillado y saneamiento, quedando facultado el Organismo para hacer efectivo su pago, mediante la aplicación del procedimiento económico coactivo previsto en el Código Fiscal del Estado.
@@ -329,7 +357,7 @@ EL SECRETARIO DE GOBIERNO
 
 LIC. FELIPE A. GONZALEZ RODRIGUEZ
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 7 DE NOVIEMBRE DE 2006.
 
@@ -340,3 +368,13 @@ P.O. 3 DE ABRIL DE 2009.
 PRIMERO. Publíquese el presente decreto en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. La presente reforma entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 29 DE DICIEMBRE DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto deberá publicarse en el Periódico Oficial del Gobierno del Estado y entrará en vigor al día siguiente de su publicación.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que contravengan lo dispuesto en el presente Decreto.
