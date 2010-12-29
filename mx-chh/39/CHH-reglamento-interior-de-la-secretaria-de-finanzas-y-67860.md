@@ -4,7 +4,7 @@ identifier: "CHH-reglamento-interior-de-la-secretaria-de-finanzas-y-67860"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-08-27"
-last_updated: "2008-08-27"
+last_updated: "2010-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67860&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHH"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE FINANZAS Y ADMINISTRACION
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE HACIENDA, PUBLICADO EN EL P.O. DE 29 DE DICIEMBRE DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 27 de agosto de 2008.
 
@@ -2002,3 +2004,15 @@ Dado en la residencia del Poder Ejecutivo, en la ciudad de Chihuahua, Chih., a l
 SUFRAGIO EFECTIVO. NO REELECCIÓN
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. JOSÉ REYES BAEZA TERRAZAS. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO. LIC. SERGIO GRANADOS PINEDA. Rúbrica. EL SECRETARIO DE FINANZAS Y ADMINISTRACIÓN. LIC. CRISTIÁN RODALLEGAS HINOJOSA. Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 29 DE DICIEMBRE DE 2010.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO.- Se abrogan el Reglamento Interior de la Secretaría de Finanzas y Administración, publicado en el Periódico Oficial del Estado No. 69 del 27 de Agosto de 2008, y el Reglamento Interior de la Secretaría de Planeación y Evaluación, publicado en el Periódico Oficial del Estado No. 67 del 19 de agosto de 2000; y se derogan todas las demás disposiciones administrativas que se opongan a este Reglamento.
+
+La referencia que en cualquier disposición se haga a los reglamentos abrogados se entenderá hecha, en lo conducente y cuando no se le oponga, al presente.
+
+TERCERO.- Los procedimientos o actos iniciados antes de la entrada en vigor del presente Reglamento, serán continuados conforme al mismo, independientemente del estado en que se encuentren.
