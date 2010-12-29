@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-desarrollo-rural-integral-sustentable-del-estado-de-4820
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-18"
-last_updated: "2010-05-17"
+last_updated: "2010-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48201&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE DESARROLLO RURAL INTEGRAL SUSTENTABLE DEL ESTADO DE MICHOACAN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE MAYO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2010.
 
 Ley publicada en el periódico oficial del Estado de Michoacán de Ocampo, el miércoles 18 de enero de 2006.
 
@@ -343,9 +343,11 @@ IX. Aprobar los proyectos y asignación de apoyos que establezcan las reglas de 
 
 X. Opinar sobre controversias y actuar como instancia recursiva entre particulares y entre éstos y la autoridad.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 12.
 
-Competen a la Secretaría de Desarrollo Rural, las atribuciones siguientes:
+Compete a la Secretaría de Desarrollo Rural, las atribuciones siguientes:
 
 I. Coordinar las instancias, procesos y acciones que promuevan el desarrollo rural integral sustentable en el Estado, observando la normatividad de las dependencias y entidades concurrentes y coadyuvantes;
 
@@ -390,6 +392,10 @@ XX. Favorecer el desarrollo de actividades económicas rurales cuidando el ambie
 XXI. Elaborar los estudios, proyectos de construcción y conservación de las obras públicas estatales a cargo o convenidas en materia rural, consideradas como estratégicos y realizarlos directamente o a través de terceros;
 
 XXII. Impulsar la creación y fortalecimiento de la agroindustria, incrementar el valor agregado, la integración de circuitos económicos con sentido empresarial, así como coadyuvar en la comercialización para una mayor competitividad del sector;
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+XXII Bis. Censar, elaborar y publicar anualmente el registro de los viveros existentes, con la finalidad de conocer el volumen y destino de la producción total de plantas de los cultivos agrícolas del Estado;
 
 XXIII. Participar en la vigilancia, prevención y combate de incendios; en el control del pastoreo en las zonas boscosas y en la realización de todas las labores de investigación, protección y repoblación que se estimen convenientes y necesarias para la conservación de los recursos forestales de la entidad y supervisar las que ejecuten los particulares, en los términos de los convenios que se celebren con la Federación y los municipios del Estado, y atendiendo las disposiciones establecidas en la Ley de Desarrollo Forestal del Estado de Michoacán de
 
@@ -775,6 +781,12 @@ VII. Las condiciones de organización de los productores para atender de manera 
 
 VIII. La determinación de necesidades de productos y establecimiento de los cultivos más significativos en el Estado.
 
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 56 Bis.
+
+La Secretaría en coordinación con las autoridades competentes en materia de cambio de uso de suelo, deberá prever la obligación a que se destine el veinte por ciento de la superficie para la plantación de especies forestales nativas, una vez otorgada la autorización con el fin de contribuir a la recuperación del equilibrio ecológico.
+
 ###### Artículo 57.
 
 Prevista la demanda de los diversos productos señalados en el artículo anterior, la Secretaría coordinará las acciones para las superficies a sembrar de cada cultivo, según aptitud productiva por cada región del Estado, incentivando y consensando (sic) con los productores la regulación de las superficies de siembra y plantaciones agrícolas.
@@ -956,6 +968,12 @@ Las dependencias y entidades del Gobierno Estatal, en coordinación con los ayun
 ###### Artículo 96.
 
 El Ejecutivo, con la participación del Consejo Estatal, dependencias y entidades competentes, establecerá las medidas necesarias para garantizar la integridad del patrimonio de la biodiversidad, incluidos los organismos generados en condiciones naturales y bajo cultivo por los productores, así como la defensa de los derechos de propiedad intelectual de las comunidades indígenas y campesinos.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 96 Bis.
+
+La Secretaría, realizará el empadronamiento anual de las tierras destinadas a cultivos agrícolas, señalando su ubicación a través del Sistema de Posicionamiento Global (GPS), con la finalidad de conocer el volumen, destino de la producción y los cultivos agrícolas del Estado.
 
 ### Capítulo II. De la Sanidad e Inocuidad Agropecuaria, Forestal y Pesquera
 
@@ -1358,3 +1376,7 @@ SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- L�
 P.O. 17 DE MAYO DE 2010.
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 29 DE DICIEMBRE DE 2010.
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
