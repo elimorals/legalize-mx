@@ -4,7 +4,7 @@ identifier: "COA-ley-de-coordinacion-fiscal-del-estado-de-coahuila-59300"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-28"
-last_updated: "2010-04-23"
+last_updated: "2010-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59300&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE COORDINACION FISCAL DEL ESTADO DE COAHUILA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ABRIL DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 28 de diciembre de 2007.
 
@@ -55,7 +55,9 @@ Para efectos de esta Ley se entiende por:
 
 Ley: La Ley de Coordinación Fiscal Estado de Coahuila.
 
-SECRETARÍA: La Secretaria de Finanzas del Estado de Coahuila.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+SATEC: Servicio de Administración Tributaria del Estado de Coahuila.
 
 REUNIÓN: La Reunión Estatal de Funcionarios Fiscales.
 
@@ -63,9 +65,11 @@ COMISIÓN: La Comisión Permanente Estatal de Funcionarios Fiscales.
 
 ### CAPÍTULO II. DE LA COLABORACIÓN FISCAL
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 3.
 
-El Ejecutivo del Estado, por medio de la Secretaría de Finanzas y los Municipios, podrá celebrar Convenios de Colaboración Administrativa en las siguientes funciones:
+El Ejecutivo del Estado, por medio del SATEC y los Municipios, podrá celebrar Convenios de Colaboración Administrativa en las siguientes funciones.
 
 I. Registro de Contribuyentes.
 
@@ -91,37 +95,47 @@ XI. Intervención en Juicios.
 
 El ejercicio de las facultades que se convengan será exclusivamente en los ingresos federales coordinados, contribuciones estatales y municipales, así como en los ingresos por concepto de multas administrativas no fiscales impuestas por autoridades federales o estatales.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 4.
 
-En los Convenios a que se refiere el artículo anterior, se especificarán los ingresos de que se trate, las facultades que ejercerán y las limitaciones de las mismas.
+En los Convenios a que se refiere el artículo anterior, se especificaran los ingresos de que se trate, las facultades que ejercerán y las limitaciones de las mismas.
 
-Dichos Convenios se publicarán en el Periódico Oficial del Gobierno del Estado y surtirán sus efectos a partir de las fechas que en el propio Convenio se establezcan, o en su defecto, a partir del día siguiente de la publicación en el Periódico Oficial del Gobierno del Estado.
+Los Fondos constituidos por ingresos estatales coordinados que reciban los municipios por el ejercicio de las facultades de la administración, en ningún caso podrán destinarse a fines distintos a los expresamente previstos en los convenios de colaboración.
 
-El Estado o el Municipio podrán dar por terminados parcial o totalmente los Convenios a que se refiere este precepto, previo aviso con treinta días de anticipación a la otra parte, el acuerdo de terminación deberá ser publicado en el Periódico Oficial del Gobierno del Estado y tendrá efectos conforme al párrafo anterior.
+Los recursos de los fondos, serán administrados y ejercidos por los propios municipios y por lo tanto, deberán registrarse como ingresos propios.
 
 ###### ARTÍCULO 5.
 
 Las autoridades fiscales municipales serán consideradas, en el ejercicio de las facultades que se deleguen en los Convenios o acuerdos respectivos, como autoridades fiscales estatales. En contra de los actos que realicen cuando actúen de conformidad con este precepto, sólo procederán los recursos y medios de defensa que establezcan las leyes estatales.
 
-La Secretaría de Finanzas, conservará la facultad de fijar a los Municipios los criterios generales de interpretación y de aplicación de las disposiciones fiscales y de las reglas de colaboración administrativa que señalen los Convenios y Acuerdos respectivos.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+El SATEC, conservará la facultad de fijar a los Municipios los criterios generales de interpretación y de aplicación de las disposiciones fiscales y de las reglas de colaboración administrativa que señalen los Convenios y Acuerdos respectivos.
 
 ###### ARTÍCULO 6.
 
 Las autoridades fiscales estatales serán consideradas, en el ejercicio de las facultades que se deleguen en los Convenios o acuerdos respectivos, como autoridades fiscales municipales. En contra de los actos que realicen cuando actúen de conformidad con este precepto, sólo procederán los recursos y medios de defensa que establezcan las leyes municipales.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 7.
 
-La recaudación de los ingresos estatales se hará por las oficinas autorizadas por la Secretaría de Finazas (sic) o por las oficinas autorizadas por los Municipios, según se establezca en los Convenios o Acuerdos respectivos.
+La recaudación de los ingresos estatales se hará por las oficinas autorizadas por el SATEC o por las oficinas autorizadas por los Municipios, según se establezca en los Convenios o Acuerdos respectivos.
 
-Cuando el Municipio recaude ingresos estatales, los concentrará directamente en la Secretaría y rendirá cuenta pormenorizada de recaudación que efectúen de cada uno de los gravámenes estatales.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+Cuando el Municipio recaude ingresos estatales, los concentrará directamente en el SATEC y rendirá cuenta pormenorizada de recaudación que efectúen de cada uno de los gravámenes estatales.
 
 La falta de entero en los plazos establecidos dará lugar a que las cantidades respectivas se actualicen por inflación y a que se causen, a cargo del Municipio, intereses a la tasa de recargos que establezca anualmente el Congreso del Estado para los casos de autorizaciones de pago a plazo de contribuciones.
 
 ### CAPÍTULO III. DE LOS ORGANISMOS EN MATERIA DE COORDINACIÓN HACENDARIA
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 8.
 
-El Gobierno del Estado por sí o por conducto de la Secretaría de Finanzas y los Ayuntamientos del Estado, participará en el desarrollo, vigilancia y perfeccionamiento del Sistema de Coordinación Fiscal del Estado, a través de:
+El Gobierno del Estado por sí o por conducto del SATEC y los Ayuntamientos del Estado, participará en el desarrollo, vigilancia y perfeccionamiento del Sistema de Coordinación Fiscal del Estado, a través de:
 
 I. La Reunión Estatal de Funcionarios Fiscales; y
 
@@ -133,15 +147,17 @@ II. La Comisión Permanente Estatal de Funcionarios Fiscales.
 
 La Reunión Estatal de Funcionarios Fiscales se constituye como instancia de coordinación de los Ayuntamientos del Estado entre sí y con el Gobierno del Estado de Coahuila, para la adopción de los sistemas de su administración tributaria.
 
-> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2010)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 10.
 
-La reunión estatal de funcionarios fiscales, se integrará por el Secretario Ejecutivo del Servicio de Administración Tributaria del Estado de Coahuila, el Coordinador de la Comisión de Finanzas del Congreso del Estado, los Tesoreros Municipales y el funcionario que designe el Secretario Ejecutivo que fungirá como Secretario Técnico.
+La reunión estatal de funcionarios fiscales, se integrará por el Secretario Ejecutivo del SATEC, el Coordinador de la Comisión de Finanzas del Congreso de (sic) Estado, los Tesoreros Municipales y el funcionario de la Administración General Tributaria que designe el Secretario Ejecutivo que fungirá como Secretario Técnico.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 11.
 
-La Reunión será presidida por el titular de la Secretaría de Finanzas o por quien éste designe, y desarrollará sus trabajos de acuerdo a las bases que la propia Reunión determine. Las sesiones serán, cuando menos anualmente y se llevarán a cabo en el lugar que determinen sus integrantes. Será convocada por el Secretario de Finanzas o por el Subsecretario de Ingresos de la propia Secretaría.
+La Reunión será presidida por el Secretario Ejecutivo del SATEC o por quien éste designe, y desarrollará sus trabajos de acuerdo a las bases que la propia Reunión determine. Las sesiones serán, cuando menos anualmente y se llevarán a cabo en el lugar que determinen sus integrantes. Será convocada por el Secretario Ejecutivo del SATEC o por el funcionario de la Administración General Tributaria que tenga a bien designar el propio Secretario Ejecutivo.
 
 ###### ARTÍCULO 12.
 
@@ -171,9 +187,9 @@ La Comisión Permanente Estatal de Funcionarios Fiscales, se integrará de la si
 
 I. Por el Secretario Ejecutivo del Servicio de Administración Tributaria, quien la presidirá;
 
-> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2010)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
-II. Por el funcionario que designe el Secretario Ejecutivo del Servicio de Administración Tributaria, quien fungirá como Secretario Técnico;
+II. Por el funcionario de la Administración General Tributaria que tenga a bien designar el propio Secretario Ejecutivo del SATEC, quien fungirá como Secretario Técnico;
 
 III. Por los Municipios de la Entidad, representados por cinco de éstos que al efecto elijan, los cuales actuarán a través de sus Tesoreros Municipales;
 
@@ -201,9 +217,11 @@ En ningún caso podrá un representante del Municipio ser reelecto como miembro 
 
 Los representantes de los Municipios, miembros de la Comisión Permanente Estatal de Funcionarios Fiscales, durarán en su encargo dos años, pero continuarán en funciones aún después de terminado su periodo, en tanto no sean elegido (sic) quien deba sustituirlos.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 16.
 
-La Comisión Permanente Estatal de Funcionarios Fiscales, se reunirá de manera ordinaria cada trimestre y de forma extraordinaria cuando sea necesario, debiendo ser convocada con cinco días de anticipación por el Secretario de Finanzas o el Subsecretario de Ingresos, o por tres de los miembros de dicha Comisión.
+La Comisión Permanente Estatal de Funcionarios Fiscales, se reunirá de manera ordinaria cada trimestre y de forma extraordinaria cuando sea necesario, debiendo ser convocada con cinco días de anticipación por el Secretario Ejecutivo del SATEC o bien por el funcionario de la Administración General Tributaria que tenga a bien designar el propio Secretario Ejecutivo, o por tres de los miembros de dicha Comisión.
 
 ###### ARTÍCULO 17.
 
@@ -284,3 +302,17 @@ Para efectos de los artículos 10 y 11 de esta Ley, las atribuciones establecida
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE DICIEMBRE DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto deberá publicarse en el Periódico Oficial del Gobierno del Estado y entrará en vigor al día siguiente de su publicación.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que contravengan lo dispuesto en el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Publíquese en el Periódico Oficial del Gobierno del Estado.
