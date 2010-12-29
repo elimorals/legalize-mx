@@ -4,7 +4,7 @@ identifier: "MOR-codigo-de-procedimientos-penales-del-estado-de-morelos-57615"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-22"
-last_updated: "2010-10-20"
+last_updated: "2010-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57615&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CÓDIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2010.
 
 Código publicado en el Periódico Oficial del Estado de Morelos, el jueves 22 de noviembre de 2007.
 
@@ -575,7 +575,9 @@ Regla general.
 
 Las resoluciones pronunciadas durante las audiencias judiciales se entenderán notificadas a los intervinientes en el procedimiento que hubieren asistido o debido asistir a las mismas.
 
-Los interesados podrán pedir copias de los registros en que consten estas resoluciones, las que se expedirán sin demora y sin costo alguno.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+Los interesados podrán pedir copias de los registros en que consten estas resoluciones, las que se expedirán en plazo de dos horas y sin costo alguno.
 
 Las resoluciones que sean dictadas fuera de audiencia deberán notificarse a quien corresponda, dentro de las veinticuatro horas siguientes a su dictado, salvo que la autoridad judicial disponga un plazo menor. Solo obligarán a las personas debidamente notificadas.
 
@@ -1198,6 +1200,10 @@ Funciones del Ministerio Público.
 El Ministerio Público ejercerá la acción penal en la forma establecida por la ley y practicará u ordenará todos los actos de investigación necesarios para obtener las evidencias e indicios indispensables para el esclarecimiento de los hechos materia de la denuncia o querella.
 
 Dirigirá la investigación, bajo control jurisdiccional en los actos que lo requieran. En el cumplimiento de sus funciones, el Ministerio Público vigilará que la policía cumpla con los requisitos de la legalidad de los actos de investigación que lleva a cabo.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+El Ministerio Público, podrá dar fe o certificar las actuaciones que se encuentren integradas en las carpetas de investigación para lo cual antes de autorizar alguna copia con su sello y firma, hará el debido cotejo. Las copias o certificaciones de dichas actuaciones podrán ser solicitadas por la víctima, ofendido y el imputado.
 
 ###### Artículo 111.
 
@@ -2999,9 +3005,21 @@ I. El nombre y cargo del juez que autoriza el cateo y la identificación del pro
 
 II. La determinación concreta del lugar o los lugares que habrán de ser cateados y lo que se espera encontrar como resultado de éste;
 
-III. El motivo del cateo, debiéndose indicar o expresar los indicios de los que se desprenda como posible que en el lugar se encuentran la persona o personas que hayan de aprenderse (sic) o los objetos o documentos que se buscan; y,
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
-IV. La autorización para el uso de la fuerza pública y los medios necesarios para ingresar al lugar en caso de que no se encontrase a alguien o bien hubiese oposición al cateo.
+III. La autorización del lugar o lugares en caso de ser solicitado así por el Ministerio Público;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+IV. El motivo del cateo, debiéndose indicar o expresar los indicios de los que se desprenda como posible que en el lugar o lugares se encuentran la persona o personas que hayan de aprenderse (sic) o los objetos o documentos que se buscan;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+V. La autorización para el uso de la fuerza pública y los medios necesarios para ingresar al lugar en caso de que no se encontrase a alguien o bien hubiese oposición al cateo; y
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+VI. La eficiencia de nuevos indicios permitirá en cualquier tiempo a solicitud del Ministerio Público decretarse un nuevo cateo.
 
 > <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2009)</small>
 
@@ -5340,3 +5358,13 @@ Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el pres
 ###### ARTÍCULO SEXTO.
 
 Remítase para su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 29 DE DICIEMBRE DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano oficial de difusión del Gobierno del Estado de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+Los juicios y procedimientos relacionados con las reformas contenidas en este decreto, serán substanciados hasta su culminación, conforme a las normas bajo las cuales fueron iniciados.
