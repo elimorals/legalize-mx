@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-justicia-para-adolescentes-del-estado-de-morelos-62577"
 country: "mx"
 rank: "ley"
 publication_date: "2008-08-18"
-last_updated: "2008-08-18"
+last_updated: "2010-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62577&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el lunes 18 de agosto de 2008.
 
@@ -891,13 +891,17 @@ Cuando el hecho que motivó la privación de libertad del adolescente no esté t
 
 Detenido menor de doce años.
 
-Si el detenido es menor de doce años, el Ministerio Público lo pondrá inmediatamente en libertad entregándoselo a sus padres o responsables. En ausencia de éstos o en caso de que resulte notoriamente perjudicial entregárselo a sus padres por ser ello contrario a los derechos del menor, lo remitirá a la institución encargada por la ley de la protección de los menores de edad.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+Si el detenido es menor de doce años, el Ministerio Público lo pondrá inmediatamente en libertad entregándoselo a sus padres o responsables. En ausencia de éstos o en caso de que resulte notoriamente perjudicial entregárselo a sus padres por ser ello contrario a los derechos del menor, lo remitirá a la institución encargada por la ley de protección de los menores de edad, donde será sujeto a rehabilitación y asistencia social.
 
 ###### Artículo 81.
 
 Calificación de la detención.
 
-Inmediatamente de que el adolescente detenido en flagrancia o caso urgente sea puesto a disposición del juez de garantía, éste deberá convocar a una audiencia en la que le informará de sus derechos constitucionales y legales si no se le hubiese informado de los mismos con anterioridad y procederá a calificar la detención, ratificándola en caso de encontrarse ajustada a la ley o decretando la libertad con las reservas de ley. Si se ordena la libertad del imputado y el Ministerio Público desea formularle imputación, ésta deberá llevarse a cabo en audiencia diversa.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+Inmediatamente de que el adolescente detenido en flagrancia o caso urgente sea puesto a disposición del juez de garantía, éste deberá convocar a una audiencia en la que le informará de sus derechos constitucionales y legales sino (sic) se le hubiese informado de los mismos con anterioridad y procederá a calificar la detención, ratificándola en caso de encontrarse ajustada a la ley o decretando la libertad con las reservas de ley. Si se ordena la libertad del imputado y el Ministerio Público desea formularle imputación, ésta podrá llevarse a cabo de forma inmediata.
 
 A esta audiencia deberá concurrir el Ministerio Público quien deberá justificar ante el juez los motivos de la detención. La ausencia injustificada del Ministerio Público en la audiencia dará lugar a la liberación del adolescente.
 
@@ -1550,3 +1554,15 @@ SECRETARIO DE GOBIERNO
 LIC. SERGIO ALVAREZ MATA
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 29 DE DICIEMBRE DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano oficial de difusión del Gobierno del Estado de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+Los juicios y procedimientos relacionados con las reformas contenidas en este decreto, serán substanciados hasta su culminación, conforme a las normas bajo las cuales fueron iniciados.
