@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-coordinacion-del-sistema-de-seguridad-publica-del-72764"
 country: "mx"
 rank: "ley"
 publication_date: "2009-06-16"
-last_updated: "2009-06-16"
+last_updated: "2010-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE COORDINACION DEL SISTEMA DE SEGURIDAD PUBLICA DEL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el martes 16 de junio de 2009.
 
@@ -741,9 +741,11 @@ XXIII. Dictar las medidas necesarias y celebrar convenios y contratos, en acuerd
 
 XXIV. Las demás que sean necesarias para cumplir los acuerdos del Consejo.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 31.
 
-El Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública será un órgano desconcentrado de la Secretaría, dotado de autonomía técnica y operativa, integrado por la estructura y las funciones que establezca el Reglamento Interior y los manuales de organización y de procedimientos correspondientes, y su objeto será soportar el cumplimiento de las atribuciones que le competen al Secretario Ejecutivo.
+El Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública será un órgano desconcentrado de la Secretaría General de Gobierno, dotado de autonomía técnica y operativa, integrado por la estructura y las funciones que establezca el Reglamento Interior y los manuales de organización y de procedimientos correspondientes, y su objeto será soportar el cumplimiento de las atribuciones que le competen al Secretario Ejecutivo.
 
 #### SECCION SEGUNDA. DE LOS CONSEJOS MUNICIPALES DE SEGURIDAD PUBLICA
 
@@ -1826,3 +1828,19 @@ ATENTAMENTE.- "SUFRAGIO EFECTIVO. NO REELECCION".- GOBERNADOR
 CONSTITUCIONAL DEL ESTADO.- EUGENIO HERNANDEZ FLORES.- Rúbrica.-
 
 SECRETARIO GENERAL DE GOBIERNO.- ANTONIO MARTINEZ TORRES.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 29 DE DICIEMBRE DE 2010.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+En términos de las atribuciones que le confieren las normas constitucionales y legales aplicables, el Ejecutivo del Estado contará con 180 días a partir de la publicación del presente Decreto para reformar o en su caso expedir las disposiciones reglamentarias necesarias que se deriven del mismo.
+
+###### ARTICULO TERCERO.
+
+Las Secretarías General de Gobierno, de Seguridad Pública, Finanzas y Administración, con la intervención de la Contraloría Gubernamental, harán las adaptaciones presupuestales y en materia de asignación de recursos humanos, oficinas, bienes inmuebles y muebles que se requieran para el cumplimiento del presente Decreto. Asimismo, se mantendrán a salvo los derechos laborales adquiridos por los integrantes de las instituciones policiales del Estado.
