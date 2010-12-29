@@ -4,7 +4,7 @@ identifier: "CHH-reglamento-organico-de-la-administracion-publica-del-44506"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-02-09"
-last_updated: "2010-12-11"
+last_updated: "2010-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44506&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 REGLAMENTO ORGANICO DE LA ADMINISTRACION PUBLICA DEL MUNICIPIO DE JUAREZ, ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2010.
 
 Reglamento publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 9 de febrero de 2005.
 
@@ -97,45 +97,49 @@ La aplicación del presente Reglamento, estará a cargo del Presidente y los tit
 
 ### CAPITULO SEGUNDO: DE LAS DEPENDENCIAS DE LA ADMINISTRACION MUNICIPAL
 
-> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 5.
 
-Para el estudio, planeación y despacho de las diversas ramas de la Administración, el Municipio contará con las siguientes dependencias:
+Para el estudio, planeación y despacho de las diversas ramas de la Administración, el Municipio contará con las siguientes Dependencias:
 
-Secretaría
+I. Secretaría;
 
-Tesorería
+II. Tesorería;
 
-Secretaría de Seguridad Pública y Protección Ciudadana
+III. Secretaría de Seguridad Pública Municipal;
 
-Dirección General de Tránsito
+IV. Dirección General de Tránsito;
 
-Dirección General de Obras Públicas
+V. Dirección General de Obras Públicas;
 
-Dirección General de Desarrollo Urbano
+VI. Dirección General de Desarrollo Urbano;
 
-Dirección General de Servicios Públicos
+VII. Dirección General de Servicios Públicos;
 
-Oficialía Mayor
+VIII. Oficialía Mayor;
 
-Contraloría
+IX. Contraloría;
 
-Dirección General de Ecología y Protección Civil
+X. Dirección General de Ecología y Protección Civil;
 
-Dirección General de Promoción Financiera y Económica
+XI. Dirección General de Promoción Financiera y Económica;
 
-Dirección General de Asentamientos Humanos
+XII. Dirección General de Asentamientos Humanos;
 
-Dirección General de Desarrollo Social
+XIII. Dirección General de Desarrollo Social;
 
-Dirección General de Educación y Cultura
+XIV. Dirección General de Educación y Cultura;
 
-Dirección General de Centros Comunitarios
+XV. Dirección General de Centros Comunitarios;
 
-Dirección General del Deporte
+XVI. Dirección General del Deporte;
 
-Dirección General de Salud Municipal
+XVII. Dirección General de Salud Municipal, y
+
+XVIII. Las Unidades de Coordinación y Apoyo adscritas al Presidente.
+
+Independientemente de lo anterior, el Ayuntamiento podrá crear y suprimir las dependencias, de acuerdo a las necesidades de la Administración, de conformidad con las facultades que le confiere el artículo 60 del Código Municipal para el Estado de Chihuahua.
 
 ###### Artículo 6.
 
@@ -427,23 +431,31 @@ El Director de Contabilidad llevará el registro de los ingresos y egresos munic
 
 (DEROGADO, P.O. 23 DE FEBRERO DE 2008)
 
-SECRETARIA DE SEGURIDAD PÚBLICA Y PROTECCIÓN CIUDADANA
+> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+SECRETARÍA DE SEGURIDAD PÚBLICA MUNICIPAL
 
 ###### Artículo 34.
 
 El Presidente es la máxima autoridad en materia de Seguridad Pública en el Municipio.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 35.
 
-La Secretaría de Seguridad Pública y Protección Ciudadana estará a cargo de un Secretario que en lo sucesivo se le denominará Comisionado, quien tendrá las siguientes atribuciones:
+La Secretaría de Seguridad Pública Municipal, estará a cargo de un Secretario, que tendrá las siguientes atribuciones:
 
-I. Organizar, preparar y dirigir a los cuerpos de policía;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+I. Organizar, preparar y dirigir a la Secretaría de Seguridad Pública Municipal, y a su personal, conforme a los lineamientos establecidos en la Ley del Sistema Estatal de Seguridad Pública, en la Ley del Servicio Profesional de Carrera Policial, ambas del Estado de Chihuahua, en el Reglamento del Sistema Municipal de Seguridad Pública del Municipio de Juárez, Estado de Chihuahua, y en los demás ordenamientos legales aplicables en materia de seguridad pública;
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 9 DE SEPTIEMBRE DE 2006)</small>
 
 II. Mantener la seguridad, tranquilidad, moralidad y orden público;
 
-III. Prevenir la comisión de delitos y proteger a las personas en sus derechos;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+III. Prevenir la comisión de delitos e infracciones administrativas, y salvaguardar la integridad y derechos de las personas, así como preservar las libertades, el orden y la paz públicos;
 
 IV. Proporcionar el auxilio necesario, a las autoridades competentes, en caso de siniestros, emergencias o desastres;
 
@@ -465,61 +477,45 @@ XI. Organizar el despacho de la Secretaría con un Director Administrativo y el 
 
 XII. Las demás que señalen las leyes, reglamentos y manuales de organización.
 
-> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2006)</small>
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
-Para los efectos del presente Reglamento, se entiende que estarán bajo el mando directo del Presidente Municipal, a través del Secretario de Seguridad Pública y Protección Ciudadana, los cuerpos de seguridad publica siguientes:
+> <small>(DEROGADO TERCER PARRAFO, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
-1.- Los Cuerpos de Seguridad Pública Municipales con todas sus unidades y agrupamientos;
+> <small>(DEROGADO CUARTO PARRAFO, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
-2.- Los cuerpos de Tránsito Municipal, con todas sus unidades y agrupamientos;
+> <small>(DEROGADO QUINTO PARRAFO, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
-3.- Los cuerpos de seguridad y custodios de los Penales Municipales;
+> <small>(DEROGADO SEXTO PARRAFO, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
-4.- El Cuerpo Operativo de la Dirección de Protección Civil;
-
-5.- Los Cuerpos de Bomberos Municipales;
-
-6.- La Policía Comunitaria;
-
-7.- Las demás que en el futuro se constituyan.
-
-> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2006)</small>
-
-También se consideran como elementos de los cuerpos de seguridad pública, aquellos a quienes expresamente se les atribuya ese carácter mediante nombramiento o instrumento jurídico equivalente expedido por autoridad competente.
-
-> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2006)</small>
-
-No forman parte de los cuerpos de seguridad pública aquellas personas que desempeñen funciones de carácter administrativo o ajeno a la seguridad pública, aún cuando laboren en las dependencias encargadas de prestar ese servicio.
-
-> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2006)</small>
-
-Queda prohibido que un elemento de seguridad preste simultáneamente su servicio con tal carácter en un cuerpo de segundad (sic) pública y otro de seguridad privada, con excepción de los miembros de la Policía Comunitaria, quienes también podrán formar parte de grupos o empresas de seguridad privada.
-
-> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2006)</small>
-
-A los Cuerpos Municipales de Seguridad Pública corresponden aquellas acciones dirigidas a prevenir la comisión de todo tipo de delitos y faltas administrativas, así como mantener el orden, la paz y la tranquilidad pública dentro de la jurisdicción municipal que les corresponda.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 36.
 
-Para el ejercicio de las funciones de Seguridad Pública, el Comisionado organizará el Cuerpo de Policía Municipal, con base en los lineamientos brindados por el Código y los reglamentos aplicables.
+Son Instituciones de Seguridad Pública Municipales, y estarán al mando del Presidente Municipal por conducto de sus titulares, las siguientes:
 
-El Presidente podrá, mediante acuerdo, dividir el territorio del Municipio en los distritos policiales necesarios, de acuerdo a los índices delictivos, circunstancias socio-económicas, continuidad territorial, y demás criterios técnicos aplicables; escuchando para ello la opinión del Instituto Municipal de Investigación y Planeación.
+I. La Secretaría de Seguridad Pública Municipal, con su personal operativo, en los términos de las disposiciones del Reglamento del Sistema Municipal de Seguridad Pública del Municipio de Juárez, Estado de Chihuahua, y que se regirá bajo las mismas, así como de diversas disposiciones legales aplicables en la materia;
 
-En cada distrito existirá un Director, quien estará encargado del cumplimiento de las funciones policiales que establecen el Código y las demás leyes y reglamentos aplicables en la materia, y tendrá el mando del Cuerpo de Policía adscrito a esa demarcación territorial; subordinado siempre al Comisionado.
+II. La Dirección General de Tránsito Municipal, con su personal operativo, en los términos de las disposiciones del Reglamento de Vialidad y Tránsito del Municipio de Juárez, Estado de Chihuahua, y que se regirá bajo las mismas, así como de diversas disposiciones legales aplicables en la materia y
+
+III. Los Departamentos de Bomberos y de Rescate Municipales, con su personal operativo, en los términos de las disposiciones del Reglamento de los Departamentos de Bomberos y de Rescate del Municipio de Juárez, Estado de Chihuahua, y que se regirán bajo las mismas, así como de diversas disposiciones legales aplicables en la materia.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 37.
 
-Para dirigir las actividades de formación policiaca y la ejecución de los programas aprobados para la capacitación de los cuerpos que integran la Secretaria, existirá un Director de Academia en quien recaerá la responsabilidad del entrenamiento de los cadetes de policía de acuerdo a las leyes, reglamentos y manuales de organización y procedimientos.
+Por lo que respecta a la Academia Municipal, y al Servicio Profesional de Carrera Policial, en todos sus ámbitos, el personal operativo de las Instituciones de Seguridad Pública Municipales, se regirá conforme lo establece la Ley del Sistema Estatal de Seguridad Pública, la Ley del Servicio Profesional de Carrera Policial, ambas del Estado de Chihuahua, el Reglamento del Sistema Municipal de Seguridad Pública del Municipio de Juárez, Estado de Chihuahua, así como de diversos ordenamientos legales aplicables en la materia, incluyendo las obligaciones y derechos del personal operativo, el régimen disciplinario y el procedimiento disciplinario, siendo competentes las Comisiones del Servicio Profesional de Carrera Policial y de Honor y Justicia, para ejercer sus atribuciones respecto del personal operativo aquí mencionado.
 
-> <small>(ADICIONADO, P.O. 2 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
-Artículo 37 bis.- En tanto el Municipio tenga bajo su responsabilidad la administración del Centro de Readaptación Social para Adultos, el mismo estará a cargo de un Director que será designado por el Presidente y formará parte de la Secretaría de Seguridad Pública y Protección Ciudadana.
+Artículo 37 bis.- Las Instituciones de Seguridad Pública Municipales, serán de carácter civil, disciplinario y profesional, su actuación se regirá, además, por los principios de legalidad, objetividad, eficiencia, honradez y respeto a los derechos fundamentales reconocidos por la Constitución Política de los Estados Unidos Mexicanos, en los Tratados Internacionales de los cuales México sea parte y en la Constitución Política del Estado de Chihuahua. Dichas instituciones deberán fomentar la participación ciudadana y rendir cuentas en términos de ley.
 
-> <small>(ADICIONADO, P.O. 2 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
-Artículo 37 ter.- El Director del Centro de Readaptación Social para Adultos estará encargado de la seguridad de los reos, la administración del establecimiento carcelario, así como de la reclusión de los procesados cuando las autoridades competentes lo determinen.
+Artículo 37 ter.- También se considerará como personal operativo de las Instituciones de Seguridad Pública Municipales, aquellos a quienes expresamente se les atribuya ese carácter mediante nombramiento o instrumento jurídico equivalente expedido por autoridad competente.
 
-En el ejercicio de su función procurará la readaptación efectiva de los sentenciados, y que la reclusión de las personas se de en circunstancias que permitan la rehabilitación, de acuerdo a la dignidad que como personas les corresponde.
+No forman parte del personal operativo de las Instituciones de Seguridad Pública Municipales aquellos servidores públicos que no pertenezcan a la Carrera Policial, o ejerzan funciones administrativas o ajenas a la seguridad pública, aún cuando laboren en dichas Instituciones.
+
+Queda prohibido que el personal operativo de las Instituciones de Seguridad Pública Municipales, presten simultáneamente su servicio con tal carácter en un cuerpo de seguridad privada.
 
 DIRECCION GENERAL DE TRANSITO
 
@@ -938,6 +934,10 @@ III. Dirección de Contraloría Fiscal y Auditoría Interna.
 Son atribuciones del Director de Asuntos Internos:
 
 I. Tramitar las quejas y denuncias que se presenten en contra de los servidores públicos municipales, substanciar el procedimiento y resolución correspondiente, así como emitir recomendaciones de conformidad con lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos;
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+Tratándose de quejas o denuncias en contra del personal operativo de las Instituciones de Seguridad Pública Municipales, la Dirección integrará el expediente y lo remitirá a la Comisión de Honor y Justicia, quien conocerá y resolverá lo conducente de conformidad a lo previsto en el Reglamento del Sistema Municipal de Seguridad Pública del Municipio de Juárez, Estado de Chihuahua;
 
 II. Recibir y canalizar las denuncias, quejas y sugerencias presentadas por los particulares con relación a los servidores públicos de la Administración;
 
@@ -1471,6 +1471,10 @@ VII. Promover, en coordinación con las Dependencias municipales competentes, la
 
 El Secretario de Comunicación Social procurará la identificación de la actividad pública municipal con la ciudadanía. Para ello, realizará, coordinará e instrumentará las actividades de difusión de las acciones que lleve a cabo el Presidente, el Ayuntamiento y la Administración. Tendrá a su cargo el diseño y control de las políticas y estrategias de comunicación, la elaboración y control del presupuesto global de comunicación y publicidad de la Administración, la relación con los medios informativos, el análisis de opinión, la contratación de espacios en los medios, la imagen publicitaria y las publicaciones de la Administración. Procurará establecer y mantener recursos de información, documentación y comunicación tanto al interior de la Administración como hacia los ciudadanos.
 
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+Artículo 99 bis.- Para el mejor desempeño de sus atribuciones el Secretario de Comunicación Social, contará con la Dirección de Prensa, que se encargará de la difusión y cobertura en medios de comunicación de las actividades de la Administración Pública Municipal, así como de las demás funciones que le encomiende el Presidente Municipal y el Secretario de Comunicación Social.
+
 > <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 100.
@@ -1650,3 +1654,7 @@ P.O. 23 DE OCTUBRE DE 2010.
 P.O. 11 DE DICIEMBRE DE 2010.
 
 ÚNICO: La presente reforma, entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 29 DE DICIEMBRE DE 2010.
+
+UNICO.- Las presentes reformas, entrarán en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Chihuahua.
