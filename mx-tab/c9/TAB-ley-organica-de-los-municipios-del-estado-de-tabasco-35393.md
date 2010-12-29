@@ -4,7 +4,7 @@ identifier: "TAB-ley-organica-de-los-municipios-del-estado-de-tabasco-35393"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-12-03"
-last_updated: "2009-12-26"
+last_updated: "2010-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35393&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY ORGANICA DE LOS MUNICIPIOS DEL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 3 de diciembre de 2003.
 
@@ -313,11 +313,21 @@ El día 31 del mismo mes, en el último año del ejercicio del Ayuntamiento, tam
 
 El Ayuntamiento saliente invitará a los Poderes del Estado, a los habitantes y vecinos del Municipio para que asistan a la ceremonia y continuará en funciones hasta las nueve horas del día primero de enero siguiente.
 
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+Cuando uno o más miembros del Ayuntamiento entrante no se presentaren al acto de protesta, sin acreditar causa justa para ello, el presidente, el síndico de hacienda que corresponda, o cualquier otro regidor del Ayuntamiento entrante que se encuentre presente, exhortará a los faltantes para que se presenten en un término de tres días como máximo y al no hacerlo se entenderá que no aceptan el cargo y se llamará a los suplentes, los que de manera definitiva substituirán a los propietarios. De no acudir los suplentes se estará a lo dispuesto en los artículos 57, 58 y 62 de esta Ley.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+Se considera válidamente instalado un Ayuntamiento con la presencia de la mayoría de sus miembros.
+
 ###### Artículo 24.
 
 Los miembros del Ayuntamiento, el secretario del mismo, directores, así como los titulares de los organismos paramunicipales, estarán obligados a comparecer ante el Congreso del Estado, o ante la comisión que éste designe, cuando la Legislatura estime necesario recabar alguna información relativa a los ayuntamientos y acorde a las atribuciones del servidor público de que se trate. La citación se hará a través del presidente municipal, quien determinará lo conducente.
 
-### CAPÍTULO II. De la Instalación de los Ayuntamientos
+> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+### CAPÍTULO II. De la Instalación y proceso de entrega-recepción de los Ayuntamientos
 
 ###### Artículo 25.
 
@@ -333,87 +343,167 @@ Una vez que esté debidamente instalado, el Ayuntamiento sesionará para asignar
 
 Al instalarse el Ayuntamiento, deberá comunicar los nombres de sus integrantes, así como el de los titulares de las dependencias señaladas en el artículo 73 de esta Ley, a los Poderes del Estado y a los titulares de las oficinas federales y estatales que se encuentren establecidas en el Municipio.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 27.
 
-Al renovarse los ayuntamientos, los miembros entrantes recibirán del saliente los fondos municipales, mediante el corte de caja respectivo y demás estados financieros, así como los inventarios cuya verificación podrá hacerse de manera inmediata o dentro de los quince días siguientes, si así lo acepta el Ayuntamiento entrante.
+El proceso de entrega-recepción de la administración pública municipal es un acto administrativo de interés público, de cumplimiento obligatorio y formal, a través del cual los servidores públicos, al concluir o separarse de su empleo, cargo o comisión, preparan y entregan a quienes los sustituyan en sus funciones, los asuntos y recursos que les hayan sido asignados para el ejercicio de sus atribuciones legales.
 
-Asimismo, deberán entregarse cuando menos los siguientes expedientes y documentación, firmados por los servidores públicos hasta esa fecha responsables de cada dependencia o ente administrativo, así como cualquier otra información que con motivo de sus funciones hayan tenido bajo su responsabilidad y resguardo:
+I. La entrega-recepción puede ser:
 
-I. EXPEDIENTE PROTOCOLARIO:
+a) Intermedia.- Cuando por causas distintas al cambio de administración, se separe el servidor público y/o sujeto obligado de su cargo, empleo o comisión;
 
-a) Acta de entrega-recepción.
+b) Final.- El que se realiza al término e inicio de un periodo constitucional o legal y, en su caso, con motivo de la suspensión o desaparición de los Ayuntamientos.
 
-II. DOCUMENTACIÓN FINANCIERA Y PRESUPUESTAL:
+En caso de trasferencia de área, cese, despido, destitución, suspensión, renuncia, inhabilitación del cargo o licencia por más de quince días hábiles o tiempo indefinido, en los términos de sus leyes respectivas, el servidor público saliente, no quedará relevado de las obligaciones establecidas por la presente Ley, ni de las responsabilidades en que pudiese haber incurrido con motivo del desempeño de su cargo.
 
-a) Estado de situación financiera;
+En caso de muerte, incapacidad física o mental, la reclusión por la comisión de algún delito sustentada en un auto de formal prisión y que no permita la libertad bajo fianza, que imposibilite al servidor público o sujeto obligado para llevar a cabo la Entrega-Recepción, el superior jerárquico lo notificará a la Contraloría Municipal, quien levantará acta circunstanciada a fin de dejar constancia del estado en que se encuentran los asuntos y recursos, requiriéndose información a los servidores públicos adscritos a dicha área. Posteriormente, en un plazo no mayor de 15 días hábiles, contados a partir de la fecha en que se presente la renuncia, se notifique la baja o se lleve a cabo el cambio de cargo se procederá a realizar la entrega a la persona que sea nombrada como encargada o titular definitivo.
 
-b) Estado de ingresos y egresos;
+En caso de urgencia el superior jerárquico podrá habilitar días y horas inhábiles para hacer la entrega-recepción correspondiente.
 
-c) Estado de origen y aplicación de recursos;
+II. Los servidores públicos del Ayuntamiento para efectuar la entrega-recepción que corresponda, deberán implementar previamente un programa de trabajo por área de responsabilidades, que tendrá como propósito la realización de las actividades relativas a la preparación, actualización e integración de la información, que permita efectuar la entrega de una manera ágil y transparente conforme a los lineamientos, metodología y formatos que se establezcan en el Manual de Procedimientos para el Proceso de Entrega-Recepción, que para tal efecto dicte la Contraloría Municipal en coordinación con el Órgano Superior de Fiscalización del Estado, conforme a los criterios señalados en el artículo 28 de esta Ley, mismo que deberá ser aprobado por el Cabildo y publicado en el Periódico Oficial del Estado.
 
-d) Corte de caja;
+Para dar cumplimiento a la presente Ley, los servidores públicos deberán mantener permanentemente actualizados sus registros, controles, inventarios y demás documentación relativa a su despacho, a fin de hacer posible la entrega oportuna del mismo; asimismo en la ejecución de los trabajos de la entrega-recepción deberán atender los principios de eficiencia, eficacia, honradez, legalidad, certeza, imparcialidad y objetividad en el ejercicio de sus respectivas funciones.
 
-e) Estado de ejercicio presupuestal; y
+III. Tratándose del acto de entrega-recepción final, los miembros del Ayuntamiento saliente, mediante acuerdo con quienes sean reconocidos legal y definitivamente electos por el órgano electoral competente, nombrarán representantes para integrar una comisión de enlace para el proceso de entrega-recepción, a la que podrán invitar a servidores públicos designados por el Titular del Órgano Superior de Fiscalización del Estado.
 
-f) Relación de cuentas.
+Los representantes del Ayuntamiento entrante, sólo conocerán los asuntos y recursos que habrán de recibirse por parte de los servidores públicos de cada uno de los órganos de la administración municipal saliente; por lo que no podrán sustraer información, ni tomar posesión de bienes antes de la entrega-recepción final. Durante su actuación no tendrán el carácter de servidores públicos ni percibirán retribución alguna con cargo al erario del Ayuntamiento, por lo que deberán abstenerse de efectuar cualquier acción tendente a obtener algún beneficio.
 
-III. DOCUMENTACIÓN PATRIMONIAL:
+El acto de entrega-recepción final se formalizará al entrar en funciones el Ayuntamiento electo, firmándose el acta administrativa de entrega-recepción final por el Presidente Municipal y Contralor Municipal, entrante y saliente, ante la presencia de un representante del Órgano Superior de Fiscalización del Estado.
 
-a) Bienes de almacén;
+IV. En caso de que el servidor público entrante, se percate de irregularidades en los documentos y recursos recibidos, previa confrontación con la información entregada por el Ayuntamiento saliente, dentro de un término de sesenta días hábiles, contados a partir de la fecha del acto de entrega-recepción, deberá hacerlas del conocimiento de la Contraloría Municipal, a fin de que sea requerido el servidor público saliente y proceda a su aclaración.
 
-b) Bienes inmuebles;
+En caso de que algún servidor público, entrante o saliente, no cumpla con lo dispuesto en la presente Ley, la Contraloría Municipal, llevará a cabo el procedimiento respectivo para deslindar las responsabilidades y para los efectos de la sanción que se le imponga. Lo anterior, sin perjuicio de lo que dispongan otros ordenamientos jurídicos penales o administrativos.
 
-c) Bienes muebles; y
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
-d) Expedientes en archivo.
+###### Artículo 28.
 
-IV. EXPEDIENTES DIVERSOS:
+La información que formará parte de la entrega-recepción, se integrará junto con los formatos y anexos correspondientes, conforme a los criterios que a continuación se enlistan y de acuerdo a la naturaleza de la actividad desarrollada:
 
-a) Plantilla de personal;
+I.- El Expediente Protocolario que contendrá:
 
-b) Informe de obras;
+a) Acto solemne de toma de protesta;
 
-c) Acuerdos de Cabildo pendientes de cumplir;
+b) Acta administrativa de Entrega-Recepción;
 
-d) Relación de asuntos en trámite;
+c) Informe de los asuntos de su competencia, y
 
-e) Juicios en proceso y recursos en trámite;
+d) En su caso, acta circunstanciada.
 
-f) Relación de convenios suscritos con el Estado o la Federación;
+II.- El marco jurídico administrativo; conformado por leyes, decretos, acuerdos y reglamentos, autorizados y publicados en el Periódico Oficial del Estado, manuales de organización y procedimientos, otros ordenamientos legales y administrativos aplicables, así como la estructura orgánica actualizada con el nombre y cargo del servidor público.
 
-g) Inventario de bienes ajenos en proceso administrativo de ejecución; y
+III.- La planeación estratégica, que comprende los panes (sic), programas y acciones especificando la fuente de los recursos con los que se financia cada uno.
 
-h) De auditorías internas y externas efectuadas o en trámite.
+IV.- Los recursos humanos, señalándose la plantilla de personal autorizada por condición laboral, base, confianza, supernumerario y otros; detallando los que se encuentren bajo la clasificación de activos, licencia, comisionado, eventual, honorarios asimilables a salarios, así como los que se encuentran en lista de raya, suplencias, con permiso, incapacidad o comisión; estableciendo la comisión y la unidad de adscripción.
 
-V. EXPEDIENTES FISCALES:
+Tanto las nóminas como la plantilla deberán incluir el detalle de las percepciones y deducciones mensuales.
+
+En el caso del personal eventual que labora bajo contrato, por obra o tiempo determinado y de los prestadores de servicios por honorarios, los contratos respectivos no podrán exceder su vigencia más allá del último día de la entrega-recepción.
+
+Los órganos de la administración municipal deberán efectuar los trámites pertinentes, a fin de que el personal comisionado se reintegre, antes del cierre del ejercicio, a su área original de adscripción.
+
+El Ayuntamiento saliente deberá especificar y asegurar la disponibilidad de recursos para el pago de aguinaldo completo, prima vacacional y demás prestaciones de los trabajadores de la administración municipal.
+
+V. Los recursos financieros y presupuestales:
+
+a) Estados financieros y presupuestales;
+
+b) Resumen de arqueos y corte de caja;
+
+c) Cuentas de cheques y depósitos en inversión;
+
+d). Cheques o transferencias pendientes de entregar o realizar;
+
+e) Deudores diversos;
+
+f) Cuentas por cobrar y cuentas y retenciones por pagar;
+
+g) Deuda directa e indirecta, y
+
+h) Formas valoradas, así como valores y bienes en custodia.
+
+VI. La hacienda municipal a que se refiere el artículo 106 de esta Ley, así como inventarios de almacén y archivos documentales.
+
+VII. Los sistemas de información:
+
+a) Software adquirido;
+
+b) Software desarrollado, y
+
+c) Respaldos de información en medios magnéticos.
+
+VIII. Las obras públicas:
+
+a) Inventario de obras concluidas y en proceso;
+
+b) Anticipos y saldos pendientes de amortizar, y
+
+c) Cartera de estudios y proyectos.
+
+IX. Los acuerdos y convenios interinstitucionales como pueden ser acuerdos de coordinación, anexos de ejecución, convenios de colaboración, de integración a algún programa, acuerdos con organizaciones no gubernamentales, con la iniciativa privada o particulares y otros.
+
+X. Las adquisiciones de bienes y/o servicios en trámite y los contratos de servicios vigentes.
+
+XI. Los informes especiales con la documentación soporte correspondiente especificando su status, respecto de los pasivos de las anteriores administraciones que no hubieren sido finiquitados, como deudas directas e indirectas, laudos, convenios, acreedores diversos y otros.
+
+XII. Los expedientes fiscales que contendrá:
 
 a) Padrón de contribuyentes;
 
 b) Inventario de formas valoradas;
 
-c) Arqueo y corte de formas valoradas;
+c) Inventario de recibos de ingresos;
 
-d) Relación de rezagos; y
+d) Relación de rezago, y
 
 e) Legislación fiscal.
 
-Una vez levantado un inventario minucioso de los bienes del Municipio, se confrontará con el entregado por la administración anterior a fin de que se advierta claramente si existen aumentos o faltantes, anexando al inventario una relación del estado en que se encuentran los edificios públicos municipales, pavimento de las calles, jardines, obras de ornato y demás inmuebles y obras materiales incluyendo los bienes muebles e inmuebles de todas las dependencias del Ayuntamiento, la cual deberá hacerse dentro de los quince días siguientes a la fecha de la toma de posesión.
+Para que el Acta Administrativa de entrega-recepción final o intermedia, cumpla con su finalidad y tenga la validez necesaria para los efectos legales a que dé lugar, deberá reunir, señalar y en su caso especificar como mínimo los siguientes requisitos:
 
-En la entrega y recepción de lo anteriormente señalado, los órganos de la administración municipal podrán intervenir directamente, si así lo estima necesario el Ayuntamiento. Pero, en todo caso, las comisiones del ramo que integren los ayuntamientos saliente y entrante firmarán las actas correspondientes, conjuntamente con los titulares de dichos órganos.
+I.- Fecha, lugar y hora en que da inicio el acto de entrega-recepción;
 
-Los servidores públicos del Ayuntamiento saliente que intervengan en la entrega de oficinas y bienes municipales, así como cualquier otro funcionario que deje de prestar sus servicios, podrá ser llamado dentro de un plazo de sesenta días por las nuevas autoridades municipales para cualquier aclaración sobre los bienes o asuntos que haya tenido a su cargo.
+II.- Nombre, cargo u ocupación de las personas que intervienen, quienes se identificarán plenamente;
 
-La responsabilidad política, legal y administrativa será exigible dentro de los plazos establecidos por las leyes correspondientes.
+III.- Especificar el asunto u objeto principal del acto de Entrega-Recepción, o evento del cual se va a dejar constancia;
 
-De todas las actas de entrega-recepción y demás actuaciones que con este motivo se originen, dentro de los treinta días siguientes a la conclusión de las mismas, se deberá remitir copia al Órgano Superior de Fiscalización del Estado.
+IV.- Ser circunstanciada, relacionando por escrito y a detalle, el conjunto de hechos que comprende el acto de entrega-recepción o evento del cual se va a .dejar constancia, así como las situaciones que acontezcan durante su desarrollo, situación que deberá manifestarse bajo protesta de decir verdad;
 
-Para los efectos señalados en este artículo, el presidente municipal electo, podrá acordar con su homólogo del Ayuntamiento saliente, la formación de una comisión de enlace, para que en los últimos siete días del ejercicio constitucional, y sin detrimento de la autoridad que concluye, lleven a cabo la coordinación de tareas, para la entrega-recepción correspondiente. Dicha comisión se integrará con los servidores públicos que designe el edil saliente y las personas que el presidente municipal que entrará en funciones, autorice para ello.
+V.- Realizarse en presencia de personas que funjan como testigos;
 
-###### Artículo 28.
+VI.- Especificar número, tipo y contenido de los documentos que se anexan y complementen el acta;
 
-Cuando uno o más miembros del Ayuntamiento entrante no se presentaren al acto de protesta, sin acreditar causa justa para ello, el presidente, el síndico de hacienda que corresponda, o cualquier otro regidor del Ayuntamiento entrante que se encuentre presente, exhortará a los faltantes para que se presenten en un término de tres días como máximo y al no hacerlo se entenderá que no aceptan el cargo y se llamará a los suplentes, los que de manera definitiva substituirán a los propietarios. De no acudir los suplentes se estará a lo dispuesto en los artículos 57, 58 y 62 de esta Ley.
+VII.- Indicar fecha, lugar y hora en que concluye el acto de entrega-recepción o evento de cual se va a dejar constancia;
 
-Se considera válidamente instalado un Ayuntamiento con la presencia de la mayoría de sus miembros.
+VIII.- Formularse cuando menos en cuatro tantos;
+
+IX.- No deberá contener tachaduras, enmendaduras o borraduras; en todo caso, los errores deben corregirse mediante testado, antes del cierre del acta, y los espacios o renglones no utilizados deben ser cancelados con guiones;
+
+X.- Todas y cada una de las hojas que integran el acta circunstanciada del acto de entrega-recepción, deberán ser firmadas por las personas que en ella intervinieron, haciéndose constar, en su caso, el hecho de la negativa para hacerlo;
+
+XI.- En caso de no existir formato especial de acta, ésta deberá levantarse en papel oficial de la dependencia, organismo o entidad de que se trate;
+
+XII.- Las cantidades deben ser asentadas con número y letra;
+
+XIII.- Las hojas que integran el acta deben foliarse en forma consecutiva;
+
+XIV.- Hacer el señalamiento del domicilio legal del servidor público entrante y saliente;
+
+XV.- El apercibimiento de conducirse con la verdad ante la autoridad administrativa en el acto de entrega-recepción.
+
+XVI.- La manifestación de que los formatos y/o anexos forman parte integrante del acta, y
+
+XVII.- La mención de que la entrega del despacho y de los asuntos, no eximen de la responsabilidad en que hubiera incurrido el servidor público saliente.
+
+El acta de entrega-recepción correspondiente y sus anexos se presentarán en carpetas o medios magnéticos en su caso, que serán integrados en original y dos copias para distribuirse de la siguiente forma:
+
+a) El original para el servidor público entrante;
+
+b) La primera copia para el servidor público saliente;
+
+c) La segunda copia para la Contraloría Municipal, y
+
+d) La tercera copia para el Órgano Superior de Fiscalización del Estado.
 
 ### CAPÍTULO III. De las Facultades y Obligaciones de los Ayuntamientos
 
@@ -3616,3 +3706,11 @@ P.O. 26 DE DICIEMBRE DE 2009.
 PRIMERO.- El presente Decreto entrará en vigor a los 30 días siguientes a partir de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones jurídicas que se opongan al presente Decreto.
+
+P.O. 29 DE DICIEMBRE DE 2010.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- Los 17 Ayuntamientos deberán expedir su Manual de Procedimientos para el proceso de entrega-recepción, a más tardar 90 días después de la entrada en vigor de este decreto.
