@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-hacienda-del-estado-de-zacatecas-19080"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-30"
-last_updated: "2009-12-30"
+last_updated: "2010-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19080&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE HACIENDA DEL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Zacatecas, el sábado 30 de diciembre del 2000.
 
@@ -643,9 +643,9 @@ Salarios Mínimos
 
 I. La Dirección de Fraccionamientos:
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
-a) Expedición de Título 5 cuotas
+a) Expedición de Título 8 cuotas
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
 
@@ -659,9 +659,9 @@ c) Otras constancias 1 cuota
 
 d) Autorización para créditos con bancos 1.5 cuotas
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
-e) Adjudicaciones 6 6% avalúo catastral
+e) Adjudicaciones 3% avalúo catastral
 
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2004)</small>
 
@@ -703,69 +703,59 @@ n) Trámite relativo a la reproducción en copia
 
 heliográfica de plano general y/o fraccionamiento 18 cuotas
 
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
-o) Diligencias de apeo o deslinde (levantamiento topográfico de predios rústicos
+o) Diligencias de apeo y deslinde, levantamientos topográficos en general e inscripción ocular:
 
-TERRENO DERRENO TERRENO
+SUPERFICIE TERRENO TERRENO TERRENO PLANO LOMERÍO ACCIDEN- TADO
 
-PLANO DE ACCIDENTADO
+1.- Hasta 5-00-00 Has 10 Cuotas 15 Cuotas 25 Cuotas;
 
-LOMERÍO
+2.- De 5-00-01 a 15-00-00 Has. 15 Cuotas 20 Cuotas 35 Cuotas;
 
-1) Hasta 5-00-00 has. 5 cuotas 10 cuotas 25 cuotas
+3.- De 15-00-01 a 30-00-00 Has 20 Cuotas 30 Cuotas 45 Cuotas
 
-2) De 5-00-01 has. a
+4.- De 30-00-01 a 50-00-00 Has 30 Cuotas 35 Cuotas 50 Cuotas
 
-15-00-00 has 10 cuotas 15 cuotas 30 cuotas
+5. De 50-00-01 a 80-00-00 Has 40 Cuotas 45 Cuotas 55 Cuotas;
 
-3) De 15-00-01 has. a
+6.- De 80-00-01 a 110-00-00 Has 60 Cuotas 70 Cuotas 80 Cuotas
 
-30-00-00 15 cuotas 20 cuotas 35 cuotas
+7.- De 110-00-001 a 200-00-00 Has 70 Cuotas 80 Cuotas 90 Cuotas
 
-4) De 30-00-01 has. a
+8.- De 200-00-01 Hectáreas en
 
-50-00-00 20 cuotas 25 cuotas 40 cuotas
+adelante, se aumentará por cada
 
-5) De 50-00-01 has. a
+hectárea excedente 1 Cuota 1 Cuota 1 Cuota
 
-80-00-00 25 cuotas 30 cuotas 45 cuotas
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
-6) De 80-00-01 has. a
+p) Por registro de disposición testamentaria 6 cuotas;
 
-110-00-00 30 cuotas 35 cuotas 50 cuotas
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
-7) De 110-00-01 has. a
+q) Trámite por cambio de régimen de propiedad 20 cuotas;
 
-200-00-00 45 cuotas 60 cuotas 80 cuotas
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
-8) De 200-00-01 has. en
-
-adelante, se aumentará por
-
-cada hectárea excedente 1 cuota 1 cuota 1 cuota
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2005)</small>
-
-p) Por registro de disposición testamentaria 2 cuotas
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2005)</small>
-
-q) Trámite por cambio de régimen de propiedad 15 cuotas
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
-
-r) Escrito de desistimiento y/o adjudicación. 2 cuotas;
+r) Escrito de desistimiento y/o adjudicación 3 cuotas;
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
 
 s) Escrito de denuncia de juicio sucesorio. 3 cuotas;
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
-t) Escrito de adjudicación previa declaración
+t) Escrito de adjudicación previa declaración de vacancia 3 cuotas;
 
-de vacancia. 2 cuotas;
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+u) Elaboración de planos 2 cuotas;
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+v) Solicitudes varias 3 cuotas;
 
 > <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2002)</small>
 
@@ -781,13 +771,7 @@ b) Expedición y entrega de constancia de
 
 inexistencia 1.5 cuotas
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2005)</small>
-
-c) Remisión de actas a personas radicadas fuera de la ciudad capital del Estado:
-
-Por un acta 5 cuotas
-
-Por acta adicional 1.5 cuotas
+c) (DEROGADO, P.O. 29 DE DICIEMBRE DE 2010)
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2005)</small>
 
@@ -825,23 +809,11 @@ Protocolo abierto 5 cuotas por libro
 
 c) Expedición de copia certificada 1 cuota por hoja
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+d) (REFORMADO [N. DE E DEROGADO], P.O. 29 DE DICIEMBRE DE 2010)
 
-d) Copia simple año 2007. Primera $ 4.10;
+e) (REFORMADO [N. DE E DEROGADO], P.O. 29 DE DICIEMBRE DE 2010)
 
-Siguiente 2.21;
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
-
-e) Copia simple año 2006. Primera $ 6.16;
-
-Siguiente 2.21;
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
-
-f) Copia simple año 2005 y anteriores. Primera $ 7.78;
-
-Siguiente $ 2.21;
+f) (REFORMADO [N. DE E DEROGADO], P.O. 29 DE DICIEMBRE DE 2010)
 
 > <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2004)</small>
 
@@ -855,9 +827,9 @@ c) De cualquier materia. 2 cuotas
 
 d) Notarios públicos. 2 cuotas
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
-e) Apostilla de documentos 4 cuotas
+e) Apostilla de documentos 5 cuotas
 
 ### CAPITULO IV. SERVICIOS DE CATASTRO
 
@@ -1547,7 +1519,7 @@ XV. Los conceptos no considerados en el presente artículo se tasarán de acuerd
 
 Del ingreso percibido por concepto de servicios catastrales, un 5% será destinado a la modernización integral de la administración hacendaria estatal, conforme al contrato de fideicomiso que para tal efecto se suscriba.
 
-> <small>(REFORMADA SU DENOMINACION, P.O.31 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2005)</small>
 
 ### CAPITULO VI. SERVICIOS DE OBRAS PÚBLICAS
 
@@ -2009,11 +1981,11 @@ por hectárea o fracción 4.5 cuotas.
 
 b) Urbano, por m2 $2.00;
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE 2008)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
 III. Expedición de constancia estatal de
 
-compatibilidad urbanística: 6 cuotas
+compatibilidad urbanística: 7 cuotas
 
 > <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
 
@@ -2047,11 +2019,11 @@ Urbano o de Fraccionamientos Urbanos
 
 autorizados: 5 cuotas
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE 2008)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
 VIII. Expedición de dictamen en materia de
 
-planeación y desarrollo urbano: 5 cuotas
+planeación y desarrollo urbano: 6 cuotas
 
 ###### ARTICULO 59.
 
@@ -2097,43 +2069,35 @@ Las verificaciones posteriores a que se refiere el artículo anterior, deberán 
 
 Los servicios que presten por concepto de:
 
-Salarios Mínimos
+l. Por registro con vigencia de un año en el padrón:
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
-I. Inscripción con vigencia de un año en el padrón de proveedores y contratistas, al capital contable se le aplicará la siguiente tarifa:
+a) De proveedores 5 cuotas;
 
-Límite Inferior Límite Superior
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
-$0.01 $50,000.00 6 cuotas;
+b) De contratistas 7 cuotas;
 
-$50,000.01 $100,000.00 10 cuotas;
+II. Por revalidación del registro con vigencia de un año:
 
-$100,000.01 $500,000.00 16 cuotas;
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
-$500,000.01 $1,000,000.00 20 cuotas;
+a) De proveedores 3 cuotas;
 
-$1,000,000.01 en adelante 26 cuotas;
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2009)</small>
+b) De contratistas 5 cuotas;
 
-II. Revalidación de la inscripción:
+III. Por reposición de la cedula de registro:
 
-Límite Inferior Límite Superior
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
-$0.01 $50,000.00 3 cuotas;
+a) De proveedores 5 cuotas;
 
-$50,000.01 $100,000.00 5 cuotas;
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
-$100,000.01 $500,000.00 8 cuotas;
-
-$500,000.01 $1,000,000.00 10 cuotas;
-
-$1,000,000.01 en adelante 13 cuotas;
-
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2009)</small>
-
-III. Reposición de la cédula de registro 3 cuotas
+b) De contratistas 7 cuotas;
 
 > <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2004)</small>
 
@@ -2145,9 +2109,9 @@ por invitación 12 cuotas;
 
 V. Inscripción a concursos de obra por invitación 22 cuotas;
 
-> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
-VI. Expedición de constancias de no inhabilitación 1 cuota.
+VI. Por la expedición de constancia de no inhabilitación 2 cuotas;
 
 ### CAPITULO IX. SERVICIOS DE OFICIALIA MAYOR
 
@@ -2865,15 +2829,15 @@ I. Arrendamientos, adjudicaciones, enajenaciones, explotación, uso y aprovecham
 
 II. Venta de impresos oficiales y papel especial para:
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
-a) Certificación de actas de registro civil $3.50;
+a) Certificación de actas de registro civil $5.50
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
 b) Asentamiento de actas de registro civil,
 
-cada juego $15.50;
+cada juego $18.00
 
 c) Asentamiento de escritura pública $ 2.50;
 
@@ -2901,47 +2865,65 @@ IV. Los provenientes del Periódico Oficial. Estos se causarán conforme a la si
 
 a) Por suscripción; Salarios Mínimos
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
-1.- Por semestre 8 cuotas;
+1.- Por semestre 20 cuotas;
 
-2.- Por año 10 cuotas;
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+2.- Por año 30 cuotas;
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2005)</small>
 
 b) Por enviar a otros lugares fuera de la ciudad de Zacatecas en el país;
 
-1.- Por semestre 17 cuotas;
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
-2.- Por año 30 cuotas;
+1.- Por semestre 25 cuotas;
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+2.- Por año 40 cuotas;
 
 c) Por enviar al extranjero;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
-1.- Por semestre 20 cuotas;
+1.- Por semestre 40 cuotas;
 
-2.- Por año 26 cuotas;
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+2.- Por año 60 cuotas;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2005)</small>
 
 V. Valor por ejemplar:
 
-a) Del día $ 5.00;
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+a) Del día $ 8.00
 
 b) De fechas anteriores;
 
-1.- Hasta seis meses $ 7.00;
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
-2.- Hasta de un año $ 8.00;
+1.- Hasta seis meses $ 10.00
 
-3.- De más de un año $ 10.00;
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+2.- Hasta de un año $ 15.00
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+3.- De más de un año $ 20.00
 
 > <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2004)</small>
 
 VI. Aviso judicial, administrativo, edicto, notificación y otros actos que se publiquen conforme a disposiciones legales, causarán la siguiente cuota por inserción;
 
-Por publicación, por palabra $ 0.20; (sic)
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+Por publicación, por palabra $ 0.40
 
 ###### ARTICULO 71.
 
@@ -3092,3 +3074,9 @@ P.O. 30 DE DICIEMBRE DE 2009.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+P.O. 29 DE DICIEMBRE DE 2010.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, órgano del Gobierno del Estado de Zacatecas.
