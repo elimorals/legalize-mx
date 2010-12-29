@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-ingresos-del-estado-de-zacatecas-para-el-ejercicio-72057
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2009-12-30"
-last_updated: "2009-12-30"
+last_updated: "2010-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72057&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ZAC"
 
 LEY DE INGRESOS DEL ESTADO DE ZACATECAS PARA EL EJERCICIO FISCAL 2010
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DE LA LEY DE INGRESOS DEL ESTADO DE ZACATECAS PRA EL EJERCICIO FISCAL DE 2011, PUBLICADA EN EL P.O. DE FECHA 29 DE DICIEMBRE DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 30 de diciembre de 2009.
 
@@ -292,3 +294,15 @@ LIC. CARLOS PINTO NÚÑEZ.
 EL SECRETARIO DE FINANZAS
 
 L.C. JORGE MIRANDA CASTRO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 29 DE DICIEMBRE DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrara en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Ingresos para el año 2010 contenida en el Decreto No. 445 publicado el 30 de diciembre del 2009 en el suplemento número 104 del Periódico Oficia, Órgano del Gobierno del Estado.
