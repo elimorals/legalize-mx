@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-de-la-procuraduria-general-de-justicia-del-76520"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-09-02"
-last_updated: "2010-09-02"
+last_updated: "2010-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76520&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el jueves 2 de septiembre de 2010.
 
@@ -303,7 +303,7 @@ XXV. Las demás que prevean otras disposiciones legales aplicables.
 
 El Procurador tendrá las siguientes atribuciones indelegables:
 
-l. Informar periódicamente al Gobernador sobre el cumplimiento de sus atribuciones;
+I. Informar periódicamente al Gobernador sobre el cumplimiento de sus atribuciones;
 
 II. Proponer al Gobernador iniciativas de ley para el adecuado funcionamiento de la procuración y la administración de justicia;
 
@@ -321,7 +321,7 @@ VIII. Crear consejos asesores y de apoyo que coadyuven en la solución de la pro
 
 IX. Autorizar la coordinación de acciones con autoridades federales, estatales y municipales;
 
-X. Presidir el Consejo del Servicio Profesional de Carrera;
+X.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 2010)
 
 XI. Convocar al Consejo de Consulta y Participación de la Comunidad;
 
@@ -373,7 +373,7 @@ El Procurador ejercerá autoridad jerárquica sobre todo el personal de la insti
 
 A) Con funciones de Ministerio Público:
 
-l. Primer Subprocurador General;
+I. Primer Subprocurador General;
 
 II. Segundo Subprocurador General;
 
@@ -393,7 +393,9 @@ IX. Agentes del Ministerio Público.
 
 B) Con funciones auxiliares del Ministerio Público:
 
-l. Director de la Policía Estatal Investigadora;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+I. Comisario de la Policía Estatal Investigadora;
 
 II. Director de Servicios Periciales;
 
@@ -405,25 +407,35 @@ V. Oficiales Ministeriales.
 
 C) Con funciones administrativas:
 
-l. Director General del Servicio Profesional de Carrera;
+I. Director General del Servicio Profesional de Carrera;
 
-II. Director General de Prospectiva Criminal y Concertación Social;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
-III. Director del Instituto de Capacitación Técnica y Profesional;
+II. Director Técnico del Servicio Profesional de Carrera;
 
-IV. Director de Informática y Estadística;
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
-V. Director de Administración;
+III. Director de Atención y Servicios a la Comunidad;
 
-VI. Visitador General;
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
-VII. Titulares de los Centros de Mediación;
+IV. Director General del organismo desconcentrado denominado Instituto Tamaulipeco de Atención a las Víctimas de los Delitos;
 
-VIII. Coordinador de Asesoría;
+V. Director del Instituto de Capacitación Técnica y Profesional;
 
-IX. Coordinador de Vinculación y Enlace; y,
+VI. Director de Informática y Estadística;
 
-X. Coordinador de Comunicación Social.
+VII. Director de Administración;
+
+VIII. Visitador General;
+
+IX. Titulares de los Centros de Mediación;
+
+X. Coordinador de Asesoría;
+
+XI. Coordinador de Vinculación y Enlace; y,
+
+XII. Coordinador de Comunicación Social.
 
 Los Agentes del Ministerio Público asignados como auxiliares de las distintas unidades administrativas que componen la Procuraduría, serán designados libremente por el titular de cada una de ellas, previo acuerdo con el Procurador.
 
@@ -459,9 +471,15 @@ VIII. Acordar con el Procurador los asuntos de su competencia;
 
 IX. Distribuir y dar trámite a la correspondencia oficial;
 
-X. Resolver los conflictos de competencia que se presenten entre los Agentes del Ministerio Público de distintas delegaciones; y,
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
-XI. Las demás que otras disposiciones legales aplicables o el Procurador les confieran.
+X. Resolver los conflictos de competencia que se presenten entre los Agentes del Ministerio Público de distintas delegaciones;
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+XI. Suscribir, en ausencia del Procurador, y conforme al Reglamento de esta Ley, los informes que deban rendirse en los Juicios de Amparo, demandas, recursos y promociones en procedimientos judiciales, laborales y contencioso administrativos; y
+
+XII. Las demás que otras disposiciones legales aplicables o el Procurador les confieran.
 
 ###### ARTICULO 15.
 
@@ -563,7 +581,9 @@ IV. Calificar fundada y motivadamente los acuerdos de reserva que dicten los Age
 
 V. Remitir para conocimiento de sus superiores jerárquicos las constancias de las averiguaciones previas que les sean requeridas o aquellas que por su trascendencia, naturaleza o repercusión social deban conocer y resolver;
 
-VI. Levantar acta administrativa al servidor público de su adscripción que haya incurrido en falta laboral, de acuerdo a la normatividad aplicable y turnarla a la Dirección Jurídica;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+VI. Elaborar acta administrativa al servidor público de su adscripción que haya incurrido en falta laboral, de acuerdo a la normatividad aplicable y turnarla a la Coordinación de Asuntos Internos;
 
 VII. Resolver los conflictos de competencia que surjan entre los Agentes del Ministerio Público de su adscripción;
 
@@ -667,13 +687,19 @@ XXIII. Garantizar que no se divulguen, total o parcialmente, por cualquier medio
 
 XXIV. Las demás que otras disposiciones legales, el Procurador o los Subprocuradores le confieran.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 24.
 
-El Director de la Policía Estatal Investigadora tendrá las siguientes atribuciones:
+El Comisario de la Policía Estatal Investigadora tendrá las siguientes atribuciones:
 
-I. Proponer al Procurador las políticas generales de actuación de la Dirección a su cargo y sus corporaciones, vigilando que sus miembros actúen, en los casos que así proceda, bajo la autoridad y mando inmediato del Ministerio Público, según los términos previstos constitucionalmente y en el Código de Procedimientos Penales vigente en el Estado;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
-II. Dirigir y coordinar los servicios de la Dirección a su cargo para cumplir con las órdenes del Procurador y de las unidades administrativas a cargo de la investigación y persecución de los delitos;
+I. Proponer al Procurador las políticas generales de actuación de la Comisaría a su cargo y sus corporaciones, vigilando que sus miembros actúen, en los casos que así proceda, bajo la autoridad y mando inmediato del Ministerio Público, según los términos previstos constitucionalmente y en el Código de Procedimientos Penales vigente en el Estado;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+II. Dirigir y coordinar los servicios de la Comisaría a su cargo para cumplir con las órdenes del Procurador y de las unidades administrativas a cargo de la investigación y persecución de los delitos;
 
 III. Instruir y supervisar a los elementos de las corporaciones a su cargo que le auxilien, en los términos de ley, sobre los elementos o indicios que deben ser investigados o recabados, así como de otras acciones de investigación que fueren necesarias para la acreditación del cuerpo del delito y la probable responsabilidad del indiciado;
 
@@ -687,19 +713,27 @@ VII. Informar al Procurador y a las instancias competentes, de las irregularidad
 
 VIII. Ser el enlace con otras instituciones o corporaciones policiales de la Procuraduría General de la República, y de las procuradurías de justicia del Distrito Federal y de otras entidades federativas, a efecto de implementar acciones policiales y operativos conjuntos;
 
-IX. Determinar la asignación de recursos materiales relativos al armamento, municiones, parque vehicular y demás equipo policial, destinados al desarrollo de las actividades de la Dirección;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+IX. Determinar la asignación de recursos materiales relativos al armamento, municiones, parque vehicular y demás equipo policial, destinados al desarrollo de las actividades de la Comisaría;
 
 X. Proponer a la Dirección General del Servicio Profesional de Carrera de la Procuraduría General de Justicia del Estado, programas de profesionalización, especialización y actualización que requieran los elementos de las corporaciones a su cargo;
 
 XI. Coordinar con la Dirección de Administración, la actualización de los registros únicos de los Agentes de la Policía y el registro de autorizaciones individuales de portación de armas de fuego, de conformidad con las disposiciones legales aplicables;
 
-XII. Llevar el control de radiocomunicación de la Dirección y de su personal en cuanto a los servicios que presta, así como canalizar a las instancias pertinentes la información respectiva;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
-XIII. Llevar a cabo con los elementos de la Dirección, las investigaciones de hechos delictivos de especial importancia o gravedad, en los términos de las instrucciones que al efecto emita el Procurador;
+XII. Llevar el control de radiocomunicación de la Comisaría y de su personal en cuanto a los servicios que presta, así como canalizar a las instancias pertinentes la información respectiva;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+XIII. Llevar a cabo con los elementos de la Comisaría, las investigaciones de hechos delictivos de especial importancia o gravedad, en los términos de las instrucciones que al efecto emita el Procurador;
 
 XIV. Vigilar que se atiendan de inmediato y con eficacia, las llamadas de auxilio de la comunidad;
 
-XV. Proponer al Procurador los manuales y procedimientos sistemáticos operativos para la debida actuación de los integrantes de la Dirección;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+XV. Proponer al Procurador los manuales y procedimientos sistemáticos operativos para la debida actuación de los integrantes de la Comisaría;
 
 XVI. Vigilar el cumplimiento de las disposiciones en materia de derechos humanos y de uso legítimo de la fuerza; y,
 
@@ -753,33 +787,69 @@ VIII. Fungir como Secretario del Consejo; y,
 
 IX. Las demás que otras disposiciones legales, el Procurador o los Subprocuradores le confieran.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 27.
 
-El Director General de Prospectiva Criminal y Concertación Social tendrá las siguientes atribuciones:
+El Director Técnico del Servicio Profesional de Carrera tendrá las atribuciones siguientes:
 
-I. Diseñar políticas de prevención del delito con base en programas y acciones que permitan identificar la causalidad delictiva en la entidad;
+I. Operar los sistemas de información que permitan la implementación y administración del Servicio Profesional de Carrera de forma eficiente, unificada, mejorar los procesos de Recursos Humanos, transparentar el servicio, uniformar los criterios de control y evaluación de los subsistemas, desarrollar, evaluar y certificar al personal con igualdad;
 
-II. Establecer mecanismos de coordinación con la Secretaría de Seguridad Pública del Estado a fin de formular estrategias conjuntas de prevención integrales;
+II. Integrar un registro pormenorizado del historial de los miembros del Servicio Profesional de Carrera, de sus datos generales, ingreso, desarrollo profesional, capacitación y certificación de capacidades, evaluación del desempeño y separación del sistema y, en general, toda aquella información útil para la toma de decisiones en el marco del Servicio Profesional de Carrera;
 
-III. Elaborar diagnósticos para evaluar los programas de prevención de delitos de mayor incidencia y con base en ello proponer proyectos que permitan guiar la toma de decisiones;
+III. Generar reportes y estadística que permita a la Dirección General del Servicio Profesional de Carrera sustentar programas de mejora continua en los distintos procesos y la incorporación permanente de mejores prácticas en las distintas áreas de actuación;
 
-IV. Formular técnicas para promover una cultura de legalidad, de fortalecimiento de las instituciones y de fomento para una conciencia cívica respetuosa y participativa de la sociedad;
+IV. Participar en la elaboración de instrumentos y metodología relacionados con la operación del Servicio Profesional de Carrera; y
 
-V. Auxiliar al Procurador en lo que respecta a la integración, funcionamiento y seguimiento de acuerdos del Consejo de Participación Ciudadana, a que se refiere el Título Octavo de esta Ley;
+V. Las demás que le atribuyan el Procurador y el Director del Servicio Profesional de Carrera.
 
-VI. Elaborar estudios especializados sobre los principales factores de criminalística y fenómenos delictivos detectados en la entidad;
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
-VII. Fortalecer las acciones institucionales para proporcionar la protección necesaria a las víctimas del delito;
+###### ARTICULO 27 Bis.
 
-VIII. Proponer y fomentar la participación conjunta de los diversos sectores de la sociedad a fin de combatir los orígenes de la criminalidad y establecer espacios seguros;
+El Director de Atención y Servicios a la Comunidad tendrá las siguientes atribuciones:
 
-IX. Brindar la atención personalizada necesaria a la ciudadanía que ocurra a la institución para facilitarle la orientación y ayuda que precise, ya sea que solicite atención o información, la que en ningún caso implicará una interpretación normativa, consideración o asesoramiento jurídico;
+I. Brindar la atención personalizada necesaria a la ciudadanía que ocurra a la institución para facilitarle la orientación y ayuda que precise, ya sea que solicite atención o información, la que en ningún caso implicará una interpretación normativa, consideración o asesoramiento jurídico;
 
-X. Establecer la coordinación necesaria con dependencias y entidades tanto estatales como federales en la realización de programas y acciones conforme a la Estrategia Nacional de Prevención del Delito y Combate a la Delincuencia;
+II. Auxiliar al Procurador en lo que respecta a la integración, funcionamiento y seguimiento de acuerdos del Consejo de Participación Ciudadana, a que se refiere el Titulo Octavo de esta Ley; y
 
-XI. Informar permanentemente al Procurador sobre los asuntos de su competencia; y,
+III. Las demás que otras disposiciones legales, el Procurador o el Segundo Subprocurador le confieran.
 
-XII. Las demás que otras disposiciones legales, el Procurador o los Subprocuradores le confieran.
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+###### ARTICULO 27 Ter.
+
+El Director General del Instituto Tamaulipeco de Atención a las Víctimas de los Delitos tiene las atribuciones siguientes:
+
+I. Formular y proponer al Procurador los proyectos de programas anuales de actividades del Instituto;
+
+II. Planear, programar, organizar, dirigir, coordinar y evaluar las funciones del Instituto;
+
+III. Dirigir, coordinar y evaluar a las unidades administrativas del Instituto y disponer lo necesario para el cumplimiento de sus funciones;
+
+IV. Establecer, previo acuerdo del Procurador, albergues temporales para la protección de las víctimas del delito, así como supervisar su funcionamiento;
+
+V. Proponer al Procurador el establecimiento de Unidades de Atención a Víctimas del Delito y módulos para la búsqueda y localización de personas abandonadas, extraviadas o ausentes;
+
+VI. Establecer mecanismos de coordinación y colaboración con instituciones públicas, sociales y privadas, a fin de atender oportunamente las necesidades inmediatas de las víctimas del delito;
+
+VII. Promover la cultura de protección y atención a las víctimas del delito y difundir los servicios del Instituto;
+
+VIII. Someter a la consideración del Procurador las modificaciones jurídicas y administrativas que tiendan a mejorar el funcionamiento del Instituto y vigilar su cumplimiento;
+
+IX. Validar la estructura de organización y los manuales administrativos del Instituto y, previo acuerdo con el Procurador, someterlos a la aprobación de la autoridad competente;
+
+X. Emitir los dictámenes, opiniones, estudios e informes que le sean solicitados por el Procurador y los que le correspondan en razón de sus atribuciones;
+
+XI. Proponer al Procurador el nombramiento de los titulares de las unidades administrativas del Instituto y resolver lo conducente, en el ámbito de su competencia, respecto a los demás servidores públicos de este órgano;
+
+XII. Suscribir los documentos relativos al ejercicio de sus atribuciones y aquellos que le corresponda por delegación o suplencia;
+
+XIII. Desempeñar las comisiones y funciones que le encomiende el Procurador, manteniéndolo informado del cumplimiento de las mismas;
+
+XIV. Coordinar las actividades de las unidades administrativas a su cargo; y
+
+XV. Las demás que le confieren otras disposiciones legales y aquellas que le encomiende el Procurador.
 
 ###### ARTICULO 28.
 
@@ -985,6 +1055,10 @@ Los Subprocuradores, Directores, Visitador, Coordinadores, Delegados Regionales,
 
 Los Agentes del Ministerio Público y de la Policía Estatal Investigadora, así como los peritos, serán nombrados, y removidos de conformidad con lo dispuesto en esta Ley.
 
+> <small>(ADICIONADO P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+El Procurador, para la mejor organización y funcionamiento de la Procuraduría General de Justicia del Estado y cuando así lo requieran las necesidades del servicio, podrá designar a Agentes del Ministerio Público, Agentes de la Policía Estatal Investigadora y Peritos, cuando se trate de personas de amplia y acreditada experiencia profesional, debiendo previamente haber acreditado los exámenes que comprenden los procesos de evaluación de control de confianza.
+
 ###### ARTICULO 46.
 
 Para ser designado Procurador, Subprocurador, Director General, Director, Visitador, Coordinador de Asuntos Internos, Delegado, Titular de Unidad y Fiscal para Asuntos Electorales, se requiere:
@@ -1061,11 +1135,15 @@ Los auxiliares del Ministerio Público informarán inmediatamente a éste, respe
 
 ## TITULO SEGUNDO. DE LA POLICIA ESTATAL INVESTIGADORA
 
-### CAPITULO I. DE LA DIRECCION
+> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+### CAPITULO I. DE LA COMISARIA
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 54.
 
-La Policía Estatal Investigadora será dirigida por un Director, que tendrá el más alto rango y sobre la cual ejercerá atribuciones de mando inmediato, dirección y disciplina, cuyas atribuciones se encuentran previstas de manera enunciativa más no limitativa en el artículo 24 de esta Ley.
+La Policía Estatal Investigadora será dirigida por un Comisario, que tendrá el más alto rango y sobre la cual ejercerá atribuciones de mando inmediato, dirección y disciplina, cuyas atribuciones se encuentran previstas de manera enunciativa más no limitativa en el artículo 24 de esta Ley.
 
 ###### ARTICULO 55.
 
@@ -1151,9 +1229,11 @@ XXVIII. Cumplir puntualmente los compromisos asumidos por el Estado con la Feder
 
 XXIX. Las demás que otras disposiciones legales, el Procurador o los Subprocuradores le confieran, así como las que le instruya el Ministerio Público.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 61.
 
-Los Policías Estatales Investigadores, así como las unidades que se llegasen a constituir, ejercerán las atribuciones señaladas en el artículo anterior de acuerdo al lugar de su adscripción el cual les será asignado en la Dirección de la Policía Estatal Investigadora, previo acuerdo con el Procurador.
+Los Policías Estatales Investigadores, así como las unidades que se llegasen a constituir, ejercerán las atribuciones señaladas en el artículo anterior de acuerdo al lugar de su adscripción el cual les será asignado en la Comisaría de la Policía Estatal Investigadora, previo acuerdo con el Procurador.
 
 ### CAPITULO III. DE LOS REQUISITOS
 
@@ -1459,13 +1539,19 @@ VIII. Abstenerse de promover en la vía incidental ante la autoridad judicial el
 
 IX. No registrar la detención conforme a las disposiciones legales aplicables o abstenerse de actualizar el registro correspondiente;
 
-X. Incumplir cualquiera de las obligaciones a que se refiere la ley; y,
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
-XI. Las demás que establezcan otras disposiciones aplicables.
+X.- Faltar a sus labores sin causa justificada por tres veces en un período de treinta días;
+
+XI. Incumplir cualquiera de las obligaciones a que se refiere la ley; y,
+
+XII. Las demás que establezcan otras disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 73.
 
-Las quejas que se presenten por presuntas irregularidades o por el incumplimiento de las obligaciones, serán tramitadas por la Coordinación de Asuntos Internos.
+Las quejas que se presenten por presuntas irregularidades o por el incumplimiento de las obligaciones, así como los procedimientos administrativos que de éstas deriven, serán tramitadas por la Coordinación de Asuntos Internos.
 
 ### CAPITULO III. DEL CONSEJO DEL SERVICIO PROFESIONAL DE CARRERA
 
@@ -1479,7 +1565,9 @@ II. Un Subprocurador designado por el Procurador;
 
 III. El Director del Instituto de Capacitación Técnica y Profesional;
 
-IV. El Director del Servicio Profesional de Carrera, quien fungirá como Secretario Técnico del Consejo;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+IV. El Director General del Servicio Profesional de Carrera, quien fungirá como Secretario Técnico del Consejo;
 
 V. Dos académicos o especialistas de reconocido prestigio y buena reputación, propuestos por el Consejo de Consulta y Participación de la Comunidad; y,
 
@@ -1489,7 +1577,7 @@ VI. Los demás funcionarios que determinen el Reglamento o los acuerdos del Proc
 
 El Consejo tendrá las siguientes atribuciones:
 
-l. Aprobar las normas, políticas y criterios generales para los Procedimientos del servicio, a propuesta del Director;
+I. Aprobar las normas, políticas y criterios generales para los Procedimientos del servicio, a propuesta del Director;
 
 II. Supervisar permanentemente y realizar una evaluación integral anual de la naturaleza y desarrollo del servicio, así como dar a conocer a la sociedad los diagnósticos y propuestas de mejora que resulten de estos procesos;
 
@@ -1503,9 +1591,15 @@ VI. Dictar las normas para regular su organización y funcionamiento;
 
 VII. Aprobar el Programa Rector de Profesionalización propuesto por la Dirección General del Servicio Profesional de Carrera;
 
-VIII. Establecer, en su caso, órganos y comisiones que le auxilien en el desempeño de sus funciones; y,
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
-IX. Las demás que le otorguen otras disposiciones legales aplicables.
+VIII. Establecer, en su caso, órganos y comisiones que le auxilien en el desempeño de sus funciones;
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+IX.- Conocer del recurso de revisión interpuesto contra las resoluciones que dicte la Coordinación de Asuntos Internos, contemplado en el artículo 86 de la presente Ley; y
+
+X. Las demás que le otorguen otras disposiciones legales aplicables.
 
 ### CAPITULO IV. DE LA TERMINACION DEL SERVICIO PROFESIONAL DE CARRERA
 
@@ -1567,9 +1661,11 @@ La acumulación de tres amonestaciones dará lugar a la suspensión.
 
 La suspensión es la interrupción temporal de los efectos del nombramiento, la cual podrá ser hasta por treinta días, sin goce de sueldo, a juicio del Procurador o Subprocuradores cuando la falta cometida no amerite remoción.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 82.
 
-La remoción es la destitución, eliminación o separación del cargo y procederá en los casos de faltas graves. En todo caso, se impondrá la remoción en el supuesto de contravención a los casos a que se refieren las fracciones IV, V, VII, VIII, XII y XIII del artículo 71; así como las fracciones VI y VII del artículo 73 de esta ley.
+La remoción es la destitución, eliminación o separación del cargo y procederá en los casos de faltas graves. En todo caso, se impondrá la remoción en el supuesto de contravención a los casos a que se refieren las fracciones IV, V, VII, VIII, XII y XIII del artículo 71; así como las fracciones VI, VII y X del artículo 72 de esta ley.
 
 ###### ARTICULO 83.
 
@@ -1605,7 +1701,9 @@ III. Se enviará una copia de la queja o de la vista y sus anexos al servidor p�
 
 IV. Se citará al servidor público a una audiencia en la que se desahogarán las pruebas respectivas, y si las hubiere, se recibirán sus alegatos, por sí o por medio de su defensor;
 
-V. Una vez verificada la audiencia y desahogadas las pruebas, la Coordinación de Asuntos Internos resolverá sobre la inexistencia de la responsabilidad o determinará la sanción que debe imponerse al servidor público; y,
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+V. Una vez verificada la audiencia y desahogadas las pruebas, la Coordinación de Asuntos Internos resolverá sobre la inexistencia de la responsabilidad o determinará y notificará la sanción que debe imponerse al servidor público; y
 
 VI. Si del informe o de los resultados de la audiencia no se desprenden elementos suficientes para resolver o se advierten otros que impliquen nueva responsabilidad a cargo del presunto responsable o de otras personas, se podrá disponer la práctica de investigaciones y acordar la celebración de otra u otras audiencias.
 
@@ -1920,3 +2018,19 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del Estado de Tamaulipas, a los dos días del mes de septiembre del año dos mil diez.
 
 ATENTAMENTE.- SUFRAGIO EFECTIVO. NO REELECCION.- GOBERNADOR CONSTITUCIONAL DEL ESTADO.- EUGENIO HERNANDEZ FLORES.- Rúbrica.- SECRETARIO GENERAL DE GOBIERNO.- HUGO ANDRES ARAUJO DE LA TORRE.- Rúbrica.
+
+P.O. 29 DE DICIEMBRE DE 2010.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+El Instituto Tamaulipeco de Atención a las Víctimas de los Delitos no generará altas laborales para conformarse, sino que deberá integrarse con personal que ya se encuentre adscrito a la Procuraduría General de Justicia del Estado.
+
+###### ARTICULO TERCERO.
+
+El Instituto Tamaulipeco de Atención a las Víctimas de los Delitos deberá quedar conformado a más tardar 180 días después de la publicación del presente Decreto.
