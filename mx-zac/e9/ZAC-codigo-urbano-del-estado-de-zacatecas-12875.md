@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-urbano-del-estado-de-zacatecas-12875"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-09-11"
-last_updated: "2009-09-26"
+last_updated: "2010-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12875&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CODIGO URBANO DEL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE SEPTIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2010.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 11 de septiembre de 1996.
 
@@ -2253,9 +2253,11 @@ II.- Del inventario a que alude la fracción VII del artículo 168 de este orden
 
 En ningún caso podrán expedirse dichas declaratorias en ausencia o contravención de los instrumentos a que se refiere el artículo anterior.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 181.
 
-El Gobernador del Estado, previa opinión de la Comisión del Patrimonio Cultural, formulará las iniciativas de declaratoria a que se refieren los artículos 178 y 179 de este Código, enviándolas a la Legislatura del Estado para su aprobación en su caso.
+El Gobernador del Estado, previa opinión de la Comisión del Patrimonio Cultural o de la Junta de Protección y Conservación de Monumentos y Zonas Típicas del Estado de Zacatecas, formulará las iniciativas de declaratoria a que se refieren los artículos 178 y 179 de este Código, enviándolas a la Legislatura del Estado para su aprobación en su caso.
 
 ###### ARTICULO 182.
 
@@ -4864,3 +4866,11 @@ P.O. 3 DE AGOSTO DE 2005.
 P.O. 26 DE SEPTIEMBRE DE 2009.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+P.O. 29 DE DICIEMBRE DE 2010.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+Segundo.- Se derogan todas las disposiciones que se opongan al contenido de este Decreto.
+
+Tercero.- Dentro de los siguientes treinta días naturales a la vigencia del presente Decreto, deberá presentarse ante esta Legislatura, a través del Ejecutivo del Estado, la Iniciativa de Declaratoria del Teúl de González Ortega, la cual deberá formularse de acuerdo al artículo 184 del Código Urbano del Estado de Zacatecas.
