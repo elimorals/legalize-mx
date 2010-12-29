@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-seguridad-publica-para-el-estado-de-tamaulipas-70382"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-27"
-last_updated: "2010-12-16"
+last_updated: "2010-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70382&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 27 de diciembre de 2007.
 
@@ -393,25 +393,23 @@ La Secretaría de Seguridad Pública es la dependencia encargada de la función 
 
 ### CAPITULO II. DE LAS INSTITUCIONES PREVENTIVAS DE SEGURIDAD PUBLICA
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 20.
 
 1.- Son instituciones preventivas de seguridad pública estatales:
 
-I. La Policía Estatal Preventiva;
+I.- La Policía Estatal;
 
-II. La Policía Rural;
+II.- La Policía de (sic) Auxiliar;
 
-III. La Policía de Seguridad Integral;
+III.- Los elementos de seguridad y custodia de los Centros de Ejecución de Sanciones del Estado;
 
-IV. La Policía Especial de Tamaulipas;
+IV.- Los elementos de seguridad y custodia de los Centros de Reintegración Social y Familiar para Adolescentes; y
 
-V. Los elementos de seguridad y custodia de los Centros de Ejecución de Sanciones del Estado;
+V.- Cualquiera otra que así lo decrete el titular del Ejecutivo Estatal.
 
-VI. Los elementos de seguridad y custodia de los Centros de Reintegración Social y Familiar para Adolescentes; y
-
-VII. Cualquiera otra que así lo decrete el titular del Ejecutivo Estatal.
-
-2.- Las instituciones policiales previstas en las fracciones I a la IV del párrafo anterior estarán a cargo de un Director, quien será nombrado y removido libremente por el Ejecutivo del Estado. El Director ejercerá las atribuciones que correspondan a cada institución con base a esta ley.
+2.- Las instituciones policiales previstas en las fracciones I y II del párrafo anterior estarán a cargo del Director General de Operación Policial, quien será nombrado y removido libremente por el Ejecutivo del Estado. El Director General ejercerá las atribuciones que correspondan a cada institución con base a esta ley.
 
 ###### ARTICULO 21.
 
@@ -431,107 +429,133 @@ II. Policía de Tránsito y Vialidad.
 
 A la Policía Estatal Preventiva, le corresponde:
 
-I. Garantizar, mantener y, en su caso, restablecer el orden y la paz públicos; proteger la integridad de las personas, sus derechos, bienes y libertades, así como prevenir la comisión de delitos, en:
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
-a) Carreteras, caminos estatales y medios de transporte que operen en dichas vías de comunicación, así como sus servicios auxiliares;
+I.- Realizar patrullajes, labores de vigilancia preventiva y, en su caso, elaborar y desarrollar acciones y operativos que se requieran para garantizar, mantener y, en su caso, restablecer el orden y la paz públicos; proteger la integridad de las personas, sus derechos, bienes y libertades, así como prevenir la comisión de delitos, en:
 
-b) Parques y espacios urbanos considerados como zonas estatales, así como los inmuebles, instalaciones y servicios dependientes del Estado; y
+a).- Carreteras, áreas rurales, caminos estatales y medios de transporte que operen en dichas vías de comunicación, así como sus servicios auxiliares;
 
-c) Todos aquellos espacios, zonas o lugares del territorio estatal sujetos a la jurisdicción asignada, conforme a lo establecido por las leyes respectivas;
+b).- Parques y espacios urbanos considerados como zonas estatales, así como los inmuebles, instalaciones y servicios dependientes del Estado; y
 
-II. Cumplir con los programas y acciones que en materia de prevención de delitos establezca la Secretaría de Seguridad Pública;
+c).- Todos aquellos espacios, zonas o lugares del territorio estatal sujetos a la jurisdicción asignada, conforme a lo establecido por las leyes respectivas;
 
-III. Conocer, sistematizar, analizar e indagar los elementos criminógenos y las zonas de incidencia delictiva, a fin de evitar las conductas antisociales o aprehender en flagrancia;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
-IV. Vigilar y patrullar lugares estratégicos para la seguridad pública de la Entidad;
+II.- Prevenir la comisión de las faltas administrativas a los Bandos de Policía y Buen Gobierno, conductas antisociales, delitos y cualquier acto que se pretenda cometer en detrimento de la propiedad agrícola y ganadera, del medio ambiente o de los recursos naturales en apego a las leyes de observancia general, las leyes sobre medio ambiente y desarrollo sustentable para el Estado y los reglamentos forestales y agropecuarios;
 
-V. Obtener, analizar y procesar información, así como instrumentar métodos para la prevención de delitos, directamente o en coordinación con otras autoridades o instituciones policiales de seguridad pública;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
-VI. Participar en auxilio de las autoridades competentes en la prevención y persecución de delitos, en la detención de personas o en el aseguramiento de bienes que sean objeto de un delito, en los casos en que sea formalmente requerida;
+III.- Diseñar, definir y ejecutar los programas, estrategias y acciones que en materia de prevención del delito, de capacitación y adiestramiento y de ayuda en caso de siniestros establezca la Secretaría de Seguridad Pública;
 
-VII. Participar en operativos conjuntos con otras instituciones policiales federales, estatales o municipales, que se determinen en el seno del Consejo Estatal de Seguridad Pública, o a solicitud formal del titular de cualquier institución de seguridad pública que lo requiera;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
-VIII. Practicar detenciones o aseguramientos en casos de flagrancia o cuasi-flagrancia, poniendo a las personas detenidas y los bienes que se hayan asegurado o que estén bajo su custodia, a disposición de las autoridades competentes en los términos y plazos constitucionales y legales establecidos;
+IV.- Obtener, conocer, sistematizar, analizar e indagar los elementos criminógenos y las zonas de incidencia delictiva, a fin de evitar y prevenir las conductas antisociales o aprehender en flagrancia, pudiendo definir estrategias diseñadas para tal efecto;
 
-IX. Brindar protección a las personas que acudan a eventos masivos no lucrativos, cuando así lo requiera el interés público;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
-X. Colaborar, a solicitud de las autoridades competentes, en los servicios de protección civil;
+V.- Vigilar y patrullar lugares estratégicos para la seguridad pública de la Entidad;
 
-XI. Apoyar a las autoridades encargadas de la ejecución de sanciones del Estado, en la ejecución de operativos de revisión, mantenimiento del orden, excarcelaciones o traslado de internos a solicitud de los Centros de Ejecución de sanciones;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
-XII. Llevar a cabo el control del armamento y municiones asignadas, así como llevar el registro de los resguardos correspondientes;
+VI.- Obtener, analizar y procesar información, así como instrumentar métodos para la prevención de delitos, directamente o en coordinación con otras autoridades o instituciones policiales de seguridad pública;
 
-XIII. Integrar y atender el parte de novedades diario que rinden los elementos integrantes de la institución, por conducto de su titular;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
-XIV. Sistematizar y, en su caso procesar para su propuesta al Director General de Operación Policial de las medidas de prevención, combate y disminución de conductas antisociales a realizar, por conducto de su titular;
+VII.- Participar en auxilio de las autoridades competentes en la prevención y persecución de delitos, en la detención de personas o en el aseguramiento de bienes que sean objeto de un delito y en la investigación de hechos denunciados por cualquier particular en materia agrícola, ganadera o ambiental en los casos en que sea legal y formalmente requerida;
 
-XV. Disponer las previsiones para vigilar que se cumplan los lineamientos y disposiciones legales establecidas en el cuidado y uso de armamento, equipo, uniformes y credenciales entregadas a los elementos de su institución;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+VIII.- Colaborar en auxilio de cualquier autoridad que se los requiera formalmente, tratándose de tareas propias de salvaguarda de la integridad física, los bienes y los derechos de las personas;
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
-XVI. Llevar a cabo el proceso de detención de personas y aseguramiento de armamento, droga u otros objetos en flagrancia; así como la disposición de estos ante las autoridades competentes, con estricto apego a la ley. En lo (sic) casos de narcomenudeo, ajustará su actuación a las previsiones respecto de la competencia y las atribuciones que para tal efecto establecen la Ley General de Salud. la Ley de Salud para el Estado de Tamaulipas y los Códigos Penal y de Procedimientos Penales para el Estado de Tamaulipas;
+IX.- Participar en operativos conjuntos con otras instituciones policiales federales, estatales o municipales, que se determinen en el seno del Consejo Estatal de Seguridad Pública, o a solicitud formal del titular de cualquier institución de seguridad pública que lo requiera;
 
-XVII. Dar vista al Consejo de Honor y Justicia sobre las faltas en que incurran los integrantes de su institución policial, a los principios de actuación previstos en esta ley, así como del Reglamento de las Instituciones Policiales Preventivas del Estado. Asimismo, establecerá las medidas de control para garantizar el cumplimiento y desempeño de las funciones asignadas al personal operativo de esta Dirección;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
-XVIII. Promover la capacitación de los elementos que integran su institución policial; y
+X.- Practicar detenciones o aseguramientos en casos de flagrancia o cuasi-flagrancia, poniendo a las personas detenidas y los bienes que se hayan asegurado o que estén bajo su custodia, a disposición de las autoridades competentes en los términos y plazos constitucionales y legales establecidos;
 
-XIX. Las demás que le confieran otras disposiciones jurídicas aplicables o sus superiores jerárquicos.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+XI.- Brindar protección a las personas que acudan a eventos masivos no lucrativos, cuando así lo requiera el interés público;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+XII.- Vigilar la observancia de las disposiciones legales sobre medio ambiente y desarrollo sustentable del Estado, y prevenir y combatir las actuaciones que afecten los recursos naturales en la entidad, en especial la tala ilegal, la cacería furtiva, la afectación de la actividad cinegética, el uso inadecuado del agua y la disposición de materiales o residuos en lugares no autorizados para ello;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+XIII.- Implementar acciones de inspección, vigilancia y supervisión en áreas naturales protegidas, en coordinación con la autoridad estatal competente y con base en los convenios que al efecto se celebren, en parques estatales, zonas lacustres o cuerpos de agua en el Estado;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+XIV.- Colaborar y participar en los servicios de protección civil y labores de ayuda en caso de desastres naturales, actuando en coordinación con las autoridades de los tres niveles de Gobierno, a solicitud de las autoridades competentes;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+XV.- Colaborar con las autoridades municipales que lo soliciten, siempre que exista un disturbio o peligro inminente que amenace con trastornar la integridad, seguridad y paz sociales;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+XVI.- Apoyar a las autoridades encargadas de la ejecución de sanciones del Estado, en la ejecución de operativos de revisión, mantenimiento del orden, excarcelaciones o traslado de internos a solicitud de los Centros de Ejecución de sanciones;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+XVII.- Actuar con inmediatez y celeridad que se requiera en casos graves que alteren el orden público, y cuando así lo disponga el Secretario o el Director General de Operación Policial, debiendo trasladarse sin demora al sitio que se le instruya;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+XVIII.- Llevar a cabo el control del armamento y municiones asignadas, así como llevar el registro de los resguardos correspondientes;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+XIX.- Integrar y atender el parte de novedades diario que rinden los elementos integrantes de la institución, por conducto de su titular;
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+XX.- Participar en labores en reuniones de coordinación con las instituciones de los tres niveles de gobierno, asociaciones agrícolas y ganaderas en materia de seguridad del medio rural;
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+XXI.- Sistematizar y, en su caso procesar para su propuesta al Director General de Operación Policial de las medidas de prevención, combate y disminución de conductas antisociales a realizar, por conducto de su titular;
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+XXII.- Disponer las previsiones para vigilar que se cumplan los lineamientos y disposiciones legales establecidas en el cuidado y uso de armamento, equipo, uniformes y credenciales entregadas a los elementos de su institución;
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+XXIII.- Llevar a cabo el proceso de detención de personas y aseguramiento de armamento, droga u otros objetos en flagrancia; así como la disposición de éstos ante las autoridades competentes, con estricto apego a la ley. En lo (sic) casos de narcomenudeo, ajustará su actuación a las previsiones respecto de la competencia y las atribuciones que para tal efecto establecen la Ley General de Salud, la Ley de Salud para el Estado de Tamaulipas y los Códigos Penal y de Procedimientos Penales para el Estado de Tamaulipas;
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+XXIV.- Dar vista al Consejo de Honor y Justicia sobre las faltas en que incurran los integrantes de su institución policial, a los principios de actuación previstos en esta ley, así como del Reglamento de las Instituciones Policiales Preventivas del Estado. Asimismo, establecerá las medidas de control para garantizar el cumplimiento y desempeño de las funciones asignadas al personal operativo de esta Dirección;
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+XXV.- Promover la capacitación de los elementos que integran su institución policial; y
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+XXVI.- Las demás que le confieran otras disposiciones jurídicas aplicables o sus superiores jerárquicos.
+
+> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
 ### CAPITULO IV. DE LA POLICIA RURAL DEL ESTADO
 
 ###### ARTICULO 23.
 
-A la Policía Rural del Estado, le corresponde:
+(DEROGADO, P.O. 29 DE DICIEMBRE DE 2010)
 
-I. Cumplir con los programas de trabajo y acciones que al respecto se establezcan por la Secretaría de Seguridad Pública;
+> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
-II. Realizar patrullajes y labores de vigilancia preventiva en las áreas rurales del Estado y en las ciudades, cuando así se le requiera, a fin de que se dé cumplimiento a las leyes de observancia general, las leyes sobre medio ambiente y desarrollo sustentable para el Estado y los reglamentos forestales y agropecuarios;
-
-III. Prevenir la comisión de las faltas administrativas a los Bandos de Policía y Buen Gobierno, conductas antisociales, delitos y cualquier acto que se pretenda cometer en detrimento de la propiedad agrícola y ganadera, del medio ambiente o de los recursos naturales;
-
-IV. Auxiliar a las autoridades, cuando se le requiera legalmente, en la investigación de hechos denunciados por cualquier particular en materia agrícola, ganadera o ambiental, que pudieran tipificar algún delito relacionado con esas actividades o el medio ambiente;
-
-V. Instrumentar campañas y operativos especiales en el área rural para prevenir y combatir el robo de semovientes; el expendio ilícito de bebidas alcohólicas; y la transportación, portación y el uso ilícito de armas de fuego y explosivos;
-
-VI. Practicar detenciones o aseguramientos en casos de flagrancia, poniendo a disposición de las autoridades competentes a las personas detenidas o los bienes que se hayan asegurado o que estén bajo custodia, en los términos legales establecidos;
-
-VII. Colaborar, a solicitud de las autoridades competentes, en los servicios de protección civil;
-
-VIII. Brindar protección a las personas que acudan a eventos masivos no lucrativos, o cuando así lo requiera el interés público;
-
-IX. Vigilar la observancia de las disposiciones legales sobre medio ambiente y desarrollo sustentable del Estado, y prevenir y combatir las actuaciones que afecten los recursos naturales en la entidad, en especial la tala ilegal, la cacería furtiva, la afectación de la actividad cinegética, el uso inadecuado del agua y la disposición de materiales o residuos en lugares no autorizados para ello;
-
-X. Implementar acciones de inspección, vigilancia y supervisión en áreas naturales protegidas, en coordinación de la autoridad estatal competente y con base en los convenios que al efecto se celebren, en parques estatales, zonas lacustres o cuerpos de agua en el Estado;
-
-XI. Informar al Secretario y Director General de Operación Policial de las acciones implementadas para llevar a cabo los partes informativos y las estadísticas del delito, por conducto de su Director;
-
-XII. Participar en operativos en forma coordinada con otras instituciones policiales federales, estatales o municipales, cuando así lo ordene la Dirección General de Operación Policial;
-
-XIII. Coadyuvar con las diversas autoridades federales, estatales o municipales, para el debido cumplimiento de las leyes de observancia general y sus reglamentos, cuando así lo determine el Director General de Operación Policial;
-
-XIV. Dar vista al Consejo de Honor y Justicia sobre las faltas en que incurran los integrantes de su Institución, a los principios de actuación previstos en esta ley, así como del Reglamento de las Instituciones Policiales Preventivas del Estado;
-
-XV. Participar en reuniones de coordinación con las instituciones de los tres niveles de Gobierno, asociaciones agrícolas y ganaderas en materia de seguridad en el medio rural;
-
-XVI. Participar en las labores de ayuda en tratándose de desastres naturales, actuando en coordinación con las autoridades de los tres niveles de Gobierno, cuando así se requiera;
-
-XVII. Sistematizar y, en su caso, procesar para su propuesta al Director General de Operación Policial las medidas de prevención, combate y disminución de conductas antisociales a realizar;
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
-
-XVIII. Llevar a cabo el proceso de detención de personas y aseguramiento de armamento, droga u otros objetos en flagrancia; así como la disposición de éstos ante las autoridades competentes. En lo (sic) casos de narcomenudeo, ajustará su actuación a las previsiones respecto de la competencia y las atribuciones que para tal efecto establecen la Ley General de Salud, la Ley de Salud para el Estado de Tamaulipas y los Códigos Penal y de Procedimientos Penales para el Estado de Tamaulipas; y
-
-XIX. Las demás que le señalen las disposiciones legales y reglamentarias aplicables o le instruyan sus superiores jerárquicos.
-
-### CAPITULO V. DE LA POLICIA DE SEGURIDAD INTEGRAL
+### CAPITULO V. DE LA POLICIA AUXILIAR
 
 ###### ARTICULO 24.
 
-1. La Policía de Seguridad Integral del Estado tiene a su cargo la prestación de los servicios de seguridad, custodia, traslado de valores, protección y vigilancia, a personas físicas o morales, públicas o privadas, que lo soliciten, en las modalidades siguientes:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+1.- La Policía Auxiliar del Estado tiene a su cargo la prestación de los servicios de seguridad, custodia, traslado de valores, protección y vigilancia, a personas físicas o morales, públicas o privadas, que lo soliciten, en las modalidades siguientes:
 
 I. Bancaria;
 
@@ -547,13 +571,17 @@ VI. Personal; y
 
 VII. Las que determinen otros ordenamientos legales.
 
-2. A la Policía de Seguridad Integral, le corresponde:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+2.- A la Policía Auxiliar, le corresponde:
 
 I. Integrar los expedientes de las personas físicas o morales que soliciten autorización para prestar servicios privados de seguridad, y proponerlos para su autorización al Secretario cuando cumplan con los requisitos establecidos en esta ley, así como en la Ley de la materia;
 
 II. Vigilar y sancionar a las personas físicas o morales que hayan sido autorizadas para prestar servicios de seguridad privada, cuando no cumplan con lo señalado en esta ley, así como en la ley de la materia;
 
-III. Organizar el funcionamiento administrativo y operativo de las Delegaciones de Seguridad Integral abiertas en el Estado, vigilando que se cumplan las normas, reglas y disposiciones establecidas;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+III. Organizar el funcionamiento administrativo y operativo de las Delegaciones de la Policía Auxiliar abiertas en el Estado, vigilando que se cumplan las normas, reglas y disposiciones establecidas;
 
 IV. Llevar a cabo el control del armamento y municiones asignadas, así como llevar el registro de los resguardos correspondientes en dicha institución;
 
@@ -579,35 +607,17 @@ XI. Las demás que le confieran otras disposiciones jurídicas aplicables o sus 
 
 1. La prestación de los servicios señalados en el artículo anterior, se efectuarán mediante contratación por escrito; en el contrato se establecerá el tipo, tiempo, costo y condiciones del servicio.
 
-2. El personal operativo de la Policía de Seguridad Integral auxiliará a las demás instituciones policiales, estatales y municipales, cuando así se requiera, previa autorización del Secretario de Seguridad Pública o del Director de Operación Policial.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+2. El personal operativo de la Policía Auxiliar, apoyará a las demás instituciones policiales, estatales y municipales, cuando así se requiera, previa autorización del Secretario de Seguridad Pública o del Director General de Operación Policial.
+
+> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
 ### CAPITULO VI. DE LA POLICIA ESPECIAL DE TAMAULIPAS
 
 ###### ARTICULO 26.
 
-A la Policía Especial de Tamaulipas corresponde:
-
-I. Garantizar, mantener y, en su caso, restablecer el orden y la paz públicos en el territorio estatal, previa elaboración y desarrollo de las acciones y operativos que se requieran para dichos efectos;
-
-II. Proteger la integridad de las personas, sus derechos, bienes y libertades, así como prevenir la comisión de delitos que establecen las leyes estatales;
-
-III. Diseñar, definir y ejecutar los programas, estrategias y acciones en materia de prevención del delito, de capacitación y adiestramiento y de ayuda en caso de siniestros;
-
-IV. Obtener, analizar y sistematizar los elementos criminógenos y las zonas de su incidencia, a fin de evitar y prevenir la comisión de conductas antisociales, mediante el uso de estrategias diseñadas al efecto;
-
-V. Participar en auxilio de cualquier autoridad que se los requiera formalmente, tratándose de tareas propias de prevención del delito y la salvaguarda de la integradas (sic) física, los bienes y los derechos de las personas;
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
-
-VI. Realizar detenciones en casos de flagrancia, debiendo poner inmediatamente al o los detenidos ante las autoridades competentes. En lo (sic) casos de narcomenudeo, ajustará su actuación a las previsiones respecto de la competencia y las atribuciones que para tal efecto establecen la Ley General de Salud, la Ley de Salud para el Estado de Tamaulipas y los Códigos Penal y de Procedimientos Penales para el Estado de Tamaulipas;
-
-VII. Colaborar con las autoridades municipales que lo soliciten, siempre que exista un disturbio o peligro inminente que amenace con trastornar (sic) la integridad, seguridad y paz sociales;
-
-VIII. Actuar con inmediatez y celeridad que se requiera en casos graves que alteren el orden público, y cuando así lo disponga el Secretario o el Director General de Operación Policial, debiendo trasladarse sin demora al sitio que se le instruya; y
-
-IX. Las demás que le confieran otras disposiciones jurídicas aplicables o sus superiores jerárquicos.
+(DEROGADO, P.O. 29 DE DICIEMBRE DE 2010)
 
 ### CAPITULO VII
 
@@ -1079,7 +1089,9 @@ El Presidente podrá celebrar reuniones de evaluación y análisis con miembros 
 
 ###### ARTICULO 56.
 
-1. El Consejo Estatal de Seguridad Pública contará con un organismo administrativo que tendrá la función de apoyar a las autoridades de seguridad pública para el cumplimiento de sus objetivos. Este organismo dependerá directamente del Secretario de Seguridad Pública.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+1. El Consejo Estatal de Seguridad Pública contará con un organismo administrativo que tendrá la función de apoyar a las autoridades de seguridad pública para el cumplimiento de sus objetivos. Este organismo dependerá directamente del Secretario General de Gobierno.
 
 2. La estructura, organización y funciones del Consejo, se establecerán en el reglamento respectivo.
 
@@ -1506,3 +1518,17 @@ P.O. 16 DE DICIEMBRE DE 2010.
 El presente Decreto se publicará en el Periódico Oficial del Estado y entrará en vigor el 21 de agosto del 2012.
 
 ARTlCULO SEGUNDO. Los titulares de las instituciones policiales del Estado y de los Municipios implementarán la capacitación permanente de su personal con base en las disposiciones que establece el presente Decreto.
+
+P.O. 29 DE DICIEMBRE DE 2010.
+
+###### ARTICULO SEGUNDO.
+
+En términos de las atribuciones que le confieren las normas constitucionales y legales aplicables, el Ejecutivo del Estado contará con 180 días a partir de la publicación del presente Decreto para reformar o en su caso expedir las disposiciones reglamentarias necesarias que se deriven del mismo.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO TERCERO.
+
+Las Secretarías General de Gobierno, de Seguridad Pública, Finanzas y Administración, con la intervención de la Contraloría Gubernamental, harán las adaptaciones presupuestales y en materia de asignación de recursos humanos, oficinas, bienes inmuebles y muebles que se requieran para el cumplimiento del presente Decreto. Asimismo, se mantendrán a salvo los derechos laborales adquiridos por los integrantes de las instituciones policiales del Estado.
