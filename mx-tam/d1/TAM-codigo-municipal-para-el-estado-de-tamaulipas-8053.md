@@ -4,7 +4,7 @@ identifier: "TAM-codigo-municipal-para-el-estado-de-tamaulipas-8053"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-02-04"
-last_updated: "2010-12-16"
+last_updated: "2010-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2010.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 4 de febrero de 1984.
 
@@ -332,6 +332,26 @@ Los Ayuntamientos electos se instalarán solemne y públicamente protestando gua
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 Los Ayuntamientos iniciarán su ejercicio el día primero de octubre inmediato a su elección.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+El acto protocolario de instalación de un nuevo Ayuntamiento se verificará en el Salón de Cabildos; sin embargo, de ser el caso, bastará la propuesta de al menos la tercera parte de los integrantes del cabildo, ya sea el que actúa en funciones o, en su caso, el cabildo electo, para acordar que la instalación del nuevo cabildo pueda realizarse en el local que se decida, siempre que se encuentre en el territorio municipal, lo que será plenamente válido para ese único propósito.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+En todo caso, para el único efecto de la instalación del cabildo, el Secretario del Ayuntamiento en funciones realizará las acciones que el asunto amerite, atestiguará y participará en la asamblea con base en sus atribuciones, elaborará el acta y se encargará de todas las gestiones y protocolo que se requiera.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+Asimismo, con base en la declaratoria de validez de la elección y la constancia de mayoría expedida a la planilla que hubiere obtenido el triunfo, procederá a su convocatoria; en caso de que algún miembro del Cabildo electo como propietario no atienda la convocatoria, de manera inmediata y por cualquier medio convocará al suplente respectivo, a efecto de que proteste el cargo que corresponda, privilegiando en todo momento el adecuado desarrollo del acto de instalación.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+Si se tratara del Presidente Municipal, se convocará desde luego a su suplente, quien rendirá protesta y asumirá el cargo, tras lo cual recibirá la de los demás integrantes del Cabildo.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+Lo anterior no impide que cuando comparezca el titular del cargo, cese la función de su suplente, sin importar el momento en que esto ocurra, bastando simple comunicación al Cabildo para que se convoque a sesión del mismo para dicho propósito, sin que transcurran más de siete días desde que se formule la petición hasta que se realice la toma de protesta del edil propietario.
 
 ###### ARTICULO 32.
 
@@ -3441,7 +3461,7 @@ Se abroga el Decreto No. 407, publicado en el Periódico Oficial del Estado No. 
 
 ###### ARTICULO CUARTO.
 
-Se derogan los Artículos 35, fracción III, 38, 39 y 40, de la Ley de laPolicía Preventiva de los Municipios del Estado, así como todas las disposiciones que se opongan a este Código.
+Se derogan los Artículos 35, fracción III, 38, 39 y 40, de la Ley de la Policía Preventiva de los Municipios del Estado, así como todas las disposiciones que se opongan a este Código.
 
 > <small>(F. DE E., P.O. 2 DE JUNIO DE 1984)</small>
 
@@ -3936,3 +3956,9 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTICULO SEGUNDO.
 
 El personal que se encuentre comprendido en el párrafo 9 del inciso g) del apartado A del artículo 4º de fa Ley del Trabajo de los Servidores Públicos del Estado de Tamaulipas será objeto de los procesos de evaluación y control de confianza que determine el Consejo Estatal de Seguridad Pública. Quienes a la fecha de entrada en vigor de este Decreto tengan un nombramiento de base podrán solicitar su reubicación a un área no vinculada a la organización y funcionamiento de las instituciones policiales y de procuración de justicia. Al personal que hubiere tenido nombramiento de base y continúe al servicio de las instituciones policiales y de procuración de justicia, les serán reconocidas su antigüedad y demás derechos generados para efectos de jubilación y pensión.
+
+P.O. 29 DE DICIEMBRE DE 2010.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
