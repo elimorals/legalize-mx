@@ -4,7 +4,7 @@ identifier: "COA-ley-de-deuda-publica-para-el-estado-de-coahuila-de-zaragoza-125
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-06"
-last_updated: "2010-06-18"
+last_updated: "2010-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12500&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE DEUDA PUBLICA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE JUNIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 6 de diciembre de 1996.
 
@@ -131,11 +131,11 @@ XI.- Reestructuración: modificación de tasas de interés, plazos, forma de pag
 
 XII.- Refinanciamiento: contratación de una deuda para pagar total o parcialmente otra existente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 4.
 
-La Secretaría de Finanzas es la dependencia del Ejecutivo Estatal encargada de aplicar e interpretar en la esfera administrativa la presente ley, así como de expedir las disposiciones necesarias para su debido cumplimiento. En el ámbito municipal, en su caso, corresponderá al Ayuntamiento esta última atribución.
+El Ejecutivo Estatal, a través del Servicio de Administración Tributaria del Estado de Coahuila, es el encargado de aplicar e interpretar en la esfera administrativa la presente ley, así como de expedir las disposiciones necesarias para su debido cumplimiento, en el ámbito municipal, en su caso, corresponderá al Ayuntamiento está última atribución.
 
 Los titulares de las entidades a que se refiere el artículo 2 de esta ley serán responsables del estricto cumplimiento de la misma, así como de las disposiciones que con base en ésta se emitan. Las infracciones a la presente ley y a sus disposiciones administrativas se sancionarán en los términos que legalmente correspondan y de conformidad al régimen de responsabilidades de los servidores públicos.
 
@@ -199,7 +199,7 @@ No obstante lo anterior, las entidades podrán contratar deuda directa sin la pr
 
 I. El plazo de pago del monto principal de la deuda no deberá exceder de ciento ochenta días naturales, ni vencer dentro de los noventa días naturales anteriores al término del periodo constitucional de la administración que contrató la deuda, en el entendido que dicha deuda deberá ser cubierta en su totalidad por la administración que la contrató;
 
-II. El saldo total acumulado de dicha deuda no exceda del 5% de los ingresos ordinarios de la entidad que se trate, durante el ejercicio fiscal correspondiente;
+II. (DEROGADA, P.O. 29 DE DICIEMBRE DE 2010)
 
 III. No se afecten en garantía o en pago el derecho a recibir participaciones derivadas de la coordinación fiscal;
 
@@ -215,9 +215,7 @@ VI. Se trate de operaciones que realicen las entidades a que se refieren las fra
 
 En las operaciones que celebren al amparo de esta fracción no le serán aplicables las fracciones I a III de este artículo.
 
-> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2008)</small>
-
-La deuda a que se refiere el segundo párrafo de este artículo no podrá ser refinanciada o reestructurada. Asimismo, una vez que el saldo insoluto de principal de la deuda contratada conforme al segundo párrafo de este artículo rebase el 5% de los ingresos ordinarios de la entidad de que se trate durante el ejercicio fiscal correspondiente, la entidad respectiva no podrá disponer nueva deuda al amparo de dicho párrafo sino hasta que transcurran 30 días naturales después de la fecha en que se pague en su totalidad dicho saldo insoluto de principal.
+> <small>(DEROGADO ULTIMO PARRAFO, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 7.
 
@@ -241,17 +239,17 @@ VII.- (DEROGADA, P.O. 7 DE SEPTIEMBRE DE 2007)
 
 VIII.- (DEROGADA, P.O. 7 DE SEPTIEMBRE DE 2007)
 
-> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
-IX.- Negociar los términos y condiciones y celebrar las operaciones de derivados financieros, siempre y cuando tiendan a evitar o reducir riesgos económicos o financieros en relación con la deuda contratada por el Estado o las entidades paraestatales o que mejoren la capacidad crediticia del Estado;
+IX.- Negociar los términos y condiciones y celebrar y contratar las operaciones de derivados financieros y/o garantías financieras, siempre y cuando tiendan a evitar o reducir riesgos económicos o financieros en relación con la deuda contratada por el Estado o las Entidades Paraestatales o que mejoren la capacidad crediticia del Estado;
 
-> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
-X.- Negociar los términos y condiciones de los contratos y documentos que sean necesarios para establecer los mecanismos legales para que el Estado lleve a cabo la afectación a que se refiere la fracción II del artículo 6 de la presente Ley, en el entendido que, en que los casos en que dichos mecanismos legales se implementen mediante fideicomisos, los mismos no serán considerados, en ningún caso, parte de la administración pública paraestatal o paramunicipal;
+X.- Negociar los términos y condiciones y celebrar los contratos y documentos que sean necesarios para establecer los mecanismos legales para que el Estado lleve a cabo la afectación a que se refiere la fracción II del artículo 6 de la presente ley, en el entendido que, en los casos en que dichos mecanismos legales se implementen mediante fideicomisos, los mismos no serán considerados, en ningún caso, parte de la administración pública paraestatal o paramunicipal;
 
-> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
-XI.- Notificar a la Secretaría de Hacienda y Crédito Público o a cualquier otra autoridad competente conforme al artículo 9 de la Ley de Coordinación Fiscal, cualquier afectación en garantía, como fuente de pago o de cualquier otra forma, del derecho a recibir las participaciones federales que correspondan al Estado. Dicha notificación podrá contener una instrucción que señale los términos y condiciones aplicables al pago de las participaciones federales de que se trate, la cual sólo podrá ser modificada con la previa aprobación del Congreso, siempre y cuando se hayan cumplido los requisitos señalados en los contratos o documentos correspondientes, para la modificación de dicha instrucción y no se afecten los derechos de los acreedores conforme a dichos contratos o documentos. Cualquier modificación a la instrucción antes mencionada notificada por el Ejecutivo del Estado, por conducto de la Secretaría, a la Secretaría de Hacienda y Crédito Público o a cualquier otra autoridad competente conforme al artículo 9 de la Ley de Coordinación Fiscal, deberá también notificarse al Registro;
+XI.- Notificar a la Secretaria de Hacienda y Crédito Público o a cualquier otra autoridad competente conforme al artículo 9 de la Ley de Coordinación fiscal, cualquier afectación en garantía, como fuente de pago o de cualquier otra forma, del derecho a recibir las participaciones federales que correspondan al Estado. Dicha notificación podrá contener una instrucción que señale los términos y condiciones aplicables al pago de las participaciones federales de que se trate, la cual sólo podrá ser modificada con la previa aprobación del Congreso, siempre y cuando se hayan cumplido los requisitos señalados en los contratos o documentos correspondientes, para la modificación de dicha instrucción y no se afecten los derechos de los acreedores conforme a dichos contratos o documentos. Cualquier modificación a la instrucción antes mencionada notificada por el Ejecutivo del Estado, por conducto del Servicio de Administración Tributaria del Estado de Coahuila a la Secretaría de Hacienda y Crédito Público o a cualquier otra autoridad competente conforme al artículo 9 de la Ley de Coordinación Fiscal, deberá también notificarse al Registro;
 
 > <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2007)</small>
 
@@ -307,9 +305,9 @@ VIII.- Afectar en fideicomiso las participaciones federales, así como otros ing
 
 IX.- Acordar los términos y condiciones de la compensación de adeudos contraídos con la Federación, de conformidad con lo dispuesto por el artículo 9 de la Ley de Coordinación Fiscal;
 
-> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
-X.- Notificar a la Secretaría de Hacienda y Crédito Público o a cualquier otra autoridad competente conforme al artículo 9 de la Ley de Coordinación Fiscal, por conducto del responsable de las finanzas públicas municipales y a través de la Secretaría de Finanzas del Estado, cualquier afectación en garantía, como fuente de pago o de cualquier otra forma, del derecho a recibir las participaciones federales que correspondan al Municipio. Dicha notificación podrá contener una instrucción que señale los términos y condiciones aplicables al pago de las participaciones federales de que se trate, la cual sólo podrá ser modificada con la previa aprobación del Congreso y siempre y cuando se hayan cumplido los requisitos señalados en los contratos o documentos correspondientes, para la modificación de dicha instrucción y no se afecten los derechos de los acreedores conforme a dichos contratos o documentos. Cualquier modificación a la instrucción antes mencionada notificada por el Ayuntamiento, por conducto del responsable de las finanzas públicas municipales, a la Secretaría de Hacienda y Crédito Público o a cualquier otra autoridad competente conforme al artículo 9 de la Ley de Coordinación Fiscal, deberá también notificarse al registro de deuda pública municipal y al Registro;
+X.- Notificar a la Secretaría de Hacienda y Crédito Público o a cualquier otra autoridad competente conforme al artículo 9 de la Ley de Coordinación Fiscal, por conducto del responsable de las finanzas públicas municipales y a través del Servicio de Administración Tributaria del listado de Coahuila, cualquier afectación en garantía, como fuente de pago o de cualquier otra forma, del derecho a recibir las participaciones federales que correspondan al Municipio. Dicha notificación podrá contener una instrucción que señale los términos y condiciones aplicables al pago de las participaciones federales de que se trate, el cual sólo podrá ser modificada con la previa aprobación del Congreso y siempre y cuando se hayan cumplido los requisitos señalados en los contratos o documentos correspondientes, para la modificación de dicha instrucción y no se afecten los derechos de los acreedores conforme a dichos contratos o documentos. Cualquier modificación a la instrucción antes mencionada notificada por el Ayuntamiento, por conducto del responsable de las finanzas públicas municipales, a la Secretaria de Hacienda y Crédito Público o a cualquier otra autoridad competente conforme al artículo 9 de la Ley de Coordinación Fiscal, deberá también notificarse al registro de deuda pública municipal y al Registro;
 
 > <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2007)</small>
 
@@ -337,7 +335,9 @@ Las atribuciones a que se refiere el artículo anterior serán ejercidas, en lo 
 
 La Comisión Técnica de Financiamiento es el órgano técnico auxiliar del Congreso del Estado, del Ejecutivo Estatal y de los Municipios en materia de deuda pública. La Comisión estará integrada por cinco comisionados:
 
-a).- Un Presidente que será el Secretario de Finanzas del Gobierno del Estado;
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+a).- Un Presidente que será el Secretario Ejecutivo del Servicio de Administración Tributaria del Estado de Coahuila;
 
 b).- Un representante del Congreso, que será designado por éste;
 
@@ -537,17 +537,17 @@ Las entidades a que se refieren las fracciones III, IV y V, del artículo 2 de e
 
 Las entidades, en cumplimiento de lo previsto por la fracción VIII del artículo 117 de la Constitución General de la República, sólo podrán contraer directa o indirectamente deuda, pagadera en moneda nacional y dentro del territorio de la República. Las entidades no podrán contraer dicha deuda con personas físicas o morales extranjeras o con gobiernos de otras naciones.
 
-Una entidad sólo podrá contraer directa o indirectamente deuda cuando tenga estados financieros de los últimos tres ejercicios fiscales, dictaminados por un contador público independiente que cuente con capacidad técnica certificada por algún órgano colegiado de contadores públicos reconocido a nivel nacional y elaborados conforme a los principios de contabilidad generalmente aceptados, o bien, de conformidad con lo dispuesto por la legislación aplicable a la entidad de que se trate, sin que el estado financiero correspondiente al ejercicio más reciente tenga una antigüedad superior a dieciséis meses al momento de contraer la deuda de que se trate, y siempre que dicho último estado financiero se haya publicado en un periódico de circulación en el Estado.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
-Los estados financieros deberán acompañarse de un documento que contenga la explicación de las bases o reglas contables utilizadas para el registro de las operaciones y la preparación de dicho estado de ingresos y egresos y que señale, además, las diferencias relevantes entre esas bases y los principios de contabilidad referidos en el párrafo anterior.
+> <small>(DEROGADO TERCER PARRAFO, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
-En caso de entidades paraestatales y paramunicipales que estén organizadas como sociedades mercantiles, los estados financieros deberán prepararse y dictaminarse conforme a los principios de contabilidad generalmente aplicables a empresas que cotizan en una bolsa en México.
+> <small>(DEROGADO CUARTO PARRAFO, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
-> <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 19-B.
 
-Cuando los Municipios, entidades paraestatales o entidades paramunicipales requieran de la garantía del Estado, deberán formular la solicitud correspondiente, acompañando la información que determine la Secretaría de Finanzas del Estado, presentando además en la forma en que dicha dependencia lo requiera, información que permita determinar su capacidad de pago y la necesidad debidamente razonada del tipo de gasto que se pretende financiar con los recursos de la deuda de que se trate. El Estado solamente garantizará deuda a cargo de una entidad paramunicipal si el Municipio correspondiente la garantiza.
+Cuando los Municipios, entidades paraestatales o entidades paramunicipales requieran de la garantía del Estado, deberán formular la solicitud correspondiente, acompañando la información que determine el Servicio de Administración Tributaria del Estado de Coahuila, presentando además en la forma en que dicha dependencia lo requiera, información que permita determinar su capacidad de pago y la necesidad debidamente razonada del tipo de gasto que se pretende financiar con los recursos de la deuda de que se trate. El Estado solamente garantizará deuda a cargo de una entidad paramunicipal si el Municipio correspondiente la garantiza.
 
 > <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2007)</small>
 
@@ -581,9 +581,11 @@ En cumplimiento de lo previsto por la fracción VIII del artículo 117 de la Con
 
 #### Sección Primera. De las Formas de las Garantías
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 25.
 
-Las garantías que se otorguen en la celebración de las operaciones de financiamiento que realicen las entidades, se regirán por las disposiciones legales de la materia, así como por la presente ley y demás reglas y disposiciones administrativas que al efecto expida la Secretaría de Finanzas.
+Las garantías que se otorguen en la celebración de las operaciones de financiamiento que realicen las entidades, se regirán por las disposiciones legales de la materia, así como por la presente ley de demás reglas y disposiciones administrativas que al efecto expida el Servicio de Administración Tributaria del Estado de Coahuila.
 
 ###### ARTICULO 26.
 
@@ -651,13 +653,15 @@ La cancelación de las garantías otorgadas deberá inscribirse en el Registro U
 
 ### CAPITULO VII. Del Registro de las Operaciones de Endeudamiento
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 35.
 
-Las entidades estarán obligadas a llevar un control interno de sus operaciones de financiamiento e inscribirlas en el Registro Único de Deuda Pública, que será la instancia única de registro de la deuda pública en el Estado. En dicho Registro también se inscribirán aquellas operaciones en las que el Congreso autorice afectaciones conforme a la parte final de la fracción II del artículo 6 de esta Ley. La inscripción deberá realizarse en un plazo que no exceda a los treinta días posteriores a su contratación; en ningún caso se iniciará el desembolso del crédito sin haber efectuado el registro correspondiente.
+Las entidades estarán obligadas a llevar un control interno de sus operaciones de financiamiento e inscribirlas en el Registro Único de Deuda Pública, que estará a cargo del Servicio de Administración Tributaria del Estado de Coahuila, que será la instancia única de registro de Deuda Pública del Estado.
 
-La Secretaría de Finanzas será la dependencia del Ejecutivo Estatal, que tendrá a su cargo dicho Registro.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+La inscripción deberá realizarse en un plazo que no exceda de los treinta días posteriores a su contratación: en ningún caso se iniciará el desembolso del crédito sin haber realizado el registro correspondiente.
 
 > <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2007)</small>
 
@@ -697,7 +701,9 @@ IX.- Las características de las operaciones de reestructuración que al efecto 
 
 X.- Los demás que determinen otras leyes y disposiciones.
 
-La Secretaría de Finanzas, fijará mediante disposiciones generales de carácter administrativo el detalle de los datos, requisitos y procedimientos para el registro de la deuda.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+El Servicio de Administración Tributaria del Estado de Coahuila, fijará mediante disposiciones generales de carácter administrativo el detalle de los datos, requisitos y procedimientos para el registro de la deuda.
 
 > <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2007)</small>
 
@@ -713,19 +719,21 @@ El número progresivo y la fecha de inscripción de la operación de financiamie
 
 A solicitud del Ayuntamiento o de la entidad paramunicipal correspondiente, la Secretaría podrá asumir el compromiso de hacer pagos directamente a favor de uno o más acreedores, con cargo a las participaciones o ingresos afectados por un Municipio o entidad paramunicipal como garantía, fuente de pago o de cualquier otra forma, conforme a la disponibilidad de recursos.
 
-La Secretaría de Finanzas expedirá a todos aquellos que acrediten su interés jurídico, las certificaciones que soliciten respecto de las obligaciones inscritas en el Registro Único de Deuda Pública.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+El Servicio de Administración Tributaria del Estado de Coahuila expedirá a todos aquellos que acrediten su interés jurídico, las certificaciones que soliciten respecto de las obligaciones inscritas en el Registro Único de Deuda Pública.
 
 ###### ARTICULO 38.
 
 Una vez efectuado el registro de las operaciones de financiamiento, sólo podrá modificarse con las mismas formalidades de su inscripción y con la aceptación expresa de las partes interesadas.
 
-> <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 39.
 
-Las entidades deberán informar trimestralmente a la Secretaría, la situación que guarde la deuda contraída u operación a que hace referencia la parte final de la fracción II del artículo 6 de la presente Ley, celebrada por las mismas e inscrita en el Registro.
+Las entidades deberán informar trimestralmente al Servicio de Administración Tributaria del Estado de Coahuila, la situación que guarde la deuda contraída u operación a que hace referencia la parte final de la fracción II del artículo 6 de la presente Ley, celebrada por las mismas e inscrita en el Registro.
 
-La entidad que haya cumplido con todas sus obligaciones derivadas de una deuda inscrita en el Registro, deberá solicitar a la Secretaría la cancelación de dicha deuda, previa comprobación de su cumplimiento.
+La entidad que haya cumplido con todas sus obligaciones derivadas de una deuda inscrita en el Registro, deberá solicitar al Servicio de Administración Tributaria del Estado de Coahuila la cancelación de dicha deuda, previa comprobación de su cumplimiento.
 
 T R A N S I T O R I O S
 
@@ -818,3 +826,17 @@ El presente Decreto deberá publicarse en el Periódico Oficial del Gobierno del
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan las disposiciones que contravengan lo dispuesto en el presente Decreto.
+
+P.O. 29 DE DICIEMBRE DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que contravengan lo dispuesto en el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Publíquese en el Periódico Oficial del Gobierno del Estado.
