@@ -4,7 +4,7 @@ identifier: "OAX-codigo-fiscal-para-el-estado-de-oaxaca-24302"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-30"
-last_updated: "2009-12-30"
+last_updated: "2010-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24302&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "OAX"
 ---
 # CODIGO FISCAL PARA EL ESTADO DE OAXACA
 
-CODIGO FISCAL PARA EL ESTADO DE OAXACA
+CÓDIGO FISCAL PARA EL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2010.
 
 Código publicado en el Periódico Oficial del Estado de Oaxaca, el domingo 30 de diciembre de 2001.
 
@@ -41,7 +41,7 @@ CODIGO FISCAL PARA EL ESTADO DE OAXACA
 
 ## TITULO PRIMERO. DISPOSICIONES GENERALES
 
-> <small>(REFORMADA SU NUMERACION, P.O. 30 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 30 DE DICIEMBRE DE 2006)</small>
 
 ### CAPITULO I
 
@@ -49,51 +49,41 @@ CODIGO FISCAL PARA EL ESTADO DE OAXACA
 
 El presente Código rige el Sistema Fiscal del Estado de Oaxaca; sus disposiciones son de orden público, de observancia general y obligatoria. A falta de disposición expresa en las leyes fiscales, serán aplicables las contenidas en este Código, siempre que no sea en contravención a las mismas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 2.
 
-De acuerdo con la Constitución Política del Estado, la hacienda pública para cubrir el gasto y demás obligaciones a su cargo, percibirá en cada ejercicio fiscal, los impuestos, derechos, contribuciones de mejoras, productos, aprovechamientos, participaciones federales, incentivos por administración de ingresos federales, subsidios federales y los fondos de aportaciones federales que establezcan los ordenamientos, sistemas y convenios de coordinación, así como otros ingresos extraordinarios establecidos en Ley.
+Los ingresos de la Hacienda Pública Estatal se clasifican en contribuciones y otros ingresos. Dentro de las primeras se incluyen a los impuestos, contribuciones de mejoras y derechos; y, entre los segundos, los productos, aprovechamientos, ingresos por venta de bienes y servicios, participaciones aportaciones, transferencias, asignaciones, subsidios y otras ayudas, así como los ingresos derivados de financiamientos.
 
 El Estado, los municipios y sus organismos descentralizados quedan obligados a pagar contribuciones, cuando las leyes lo establezcan expresamente.
 
 Las personas que de conformidad con los ordenamientos fiscales no estén obligadas a pagar contribuciones, únicamente tendrán las otras obligaciones que establezcan en forma expresa los propios ordenamientos.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 3.
 
-Los ingresos se clasifican en contribuciones y otros ingresos. Dentro de las primeras se incluyen a los impuestos, derechos y contribuciones de mejoras; y, entre los segundos, a los productos, aprovechamientos, participaciones federales, incentivos por administración de ingresos federales, subsidios federales y los fondos de aportaciones federales, así como los ingresos extraordinarios; que se definen como sigue:
+Los ingresos a que se refiere el artículo que antecede se definen de la siguiente manera:
 
-I Impuestos, son las prestaciones en dinero o en especie, que el estado fija unilateralmente y con carácter obligatorio, para cubrir el gasto público, a cargo de personas físicas y morales, que se encuentren en la situación jurídica o de hecho prevista por la Ley;
+I. Impuestos: Son las contribuciones establecidas en ley que deban pagar las personas físicas y morales que se encuentran en la situación jurídica o de hecho previsto por la misma y que sean distintas de las contribuciones de mejoras y derechos;
 
-II Son derechos, las contraprestaciones establecidas en ley, por el uso o aprovechamiento de bienes del dominio público del estado, así como por recibir servicios que presta el estado en sus funciones de derecho público;
+II. Contribuciones de mejoras: Son las establecidas en Ley a cargo de las personas físicas y morales que se beneficien de manera directa por obras públicas;
 
-III Son contribuciones de mejoras, las establecidas en ley a cargo de las personas físicas o morales que se beneficien de manera directa por obras públicas;
+III. Derechos: Son las contribuciones establecidas en Ley por el uso o aprovechamiento de los bienes del dominio público, así como por recibir servicios que presta el Estado en sus funciones de derecho público, excepto cuando se prestan por organismos descentralizados u órganos desconcentrados cuando en este último caso, se trate de contraprestaciones que no se encuentren previstas en la Ley de Ingresos del Estado. También son derechos las contribuciones a cargo de los organismos públicos descentralizados por prestar servicios exclusivos del Estado;
 
-IV Son productos, los ingresos que percibe el estado como contraprestación por actividades que no corresponden a sus funciones de derecho público, así como por el uso, aprovechamiento o enajenación de bienes del dominio privado;
+IV. Son productos las contraprestaciones por los servicios que preste el Estado en sus funciones de derecho privado, así como por el uso, aprovechamiento o enajenación de bienes del dominio privado;
 
-V Son aprovechamientos, los ingresos que percibe el estado por funciones de derecho público, distintos de las contribuciones, de los ingresos derivados de financiamientos y de los que obtengan los organismos descentralizados y las empresas de participación estatal;
+V. Los aprovechamientos son los ingresos que percibe el Estado por funciones de derecho público distintos de las contribuciones, de los ingresos derivados de financiamiento y de los que obtengan los organismos descentralizados y de empresas de participación estatal.
 
-Los recargos, las sanciones, los gastos de ejecución y la indemnización a que se refiere el artículo 31 de este Código, que se apliquen en relación con aprovechamientos, son accesorios de éstos y participan de su naturaleza;
+Los recargos, sanciones, gastos de ejecución, los honorarios de notificación, así como la indemnización a que se refiere el 31 de este Código, que se apliquen en relación con aprovechamientos, son accesorios de éstos y participan de su naturaleza;
 
-VI Son participaciones federales e incentivos por administración de ingresos federales, los que se derivan de la Ley de Coordinación Fiscal a favor del Estado, por la adhesión al Sistema Nacional de Coordinación Fiscal y del Convenio de Colaboración Administrativa en Materia Fiscal Federal;
+VI. Son transferencias, asignaciones, subsidios y otras ayudas, los recursos destinados en forma directa o indirecta a los sectores públicos, privado y externo, organismos y empresas paraestatales y apoyos como parte de su política económica y social, de acuerdo a las estrategias y prioridades de desarrollo para el sostenimiento y desempeño de sus actividades;
 
-VII Son fondos de aportaciones federales, los recursos que percibe el estado y en su caso los municipios, en términos de la Ley de Coordinación Fiscal y del Presupuesto de Egresos de la Federación;
+VII. Son Ingresos por ventas de bienes y servicios, los recursos propios que obtienen las diversas entidades que conforman el sector paraestatal y gobierno central por sus actividades de producción y/o comercialización;
 
-VIII Son subsidios federales, los recursos que percibe el estado para el desarrollo de actividades prioritarias de interés general; y
+VIII. Las participaciones y aportaciones son recursos que por disposición de la Ley de Coordinación Fiscal le corresponden al Estado y Municipios de la Entidad; incluye los recursos destinados a la ejecución de programas federales que mediante la reasignación de recursos presupuestarios se obtienen en los términos de los convenios que celebre el Gobierno del Estado con la Federación; y,
 
-IX Son ingresos extraordinarios:
-
-a) Los que con ese carácter y excepcionalmente decrete la Legislatura del Estado, para el pago de obras o servicios derivados de casos fortuitos o de fuerza mayor;
-
-b) Los que procedan de préstamos, financiamientos y obligaciones que adquiera el Ejecutivo a través de la Secretaría de Finanzas del Gobierno del Estado para fines extraordinarios y de interés público;
-
-c) Aportaciones del gobierno federal distintas a las señaladas en las fracciones VI y VII de este artículo; y
-
-d) Otros no especificados.
-
-Ningún gravamen podrá recaudarse si no está previsto en la Ley de Ingresos del Estado o por una disposición fiscal especial.
-
-> <small>(DEROGADO TERCER PARRAFO, P.O. 5 DE SEPTIEMBRE DE 2007)</small>
-
-Las cuotas que se fijen en ley por los servicios de seguridad especializada que preste el estado a los particulares que los soliciten, son derechos, y en consecuencia créditos fiscales, por lo que les serán aplicables las disposiciones contenidas en este Código.
+IX. Son Ingresos derivados de Financiamientos los obtenidos por la celebración de empréstitos autorizados por el H. Congreso del Estado, siendo principalmente los créditos por instrumento de emisiones en los mercados nacionales e internacionales de capital, organismos financieros internacionales y otras fuentes. Asimismo, incluye los financiamientos derivados de la aplicación de activos financieros.
 
 > <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2007)</small>
 
@@ -175,7 +165,7 @@ XI Los servidores públicos dependientes de la Secretaría de Finanzas del Gobie
 
 XII Quienes conforme a las disposiciones legales estatales o convenios de colaboración tengan facultades para administrar ingresos fiscales.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 8.
 
@@ -195,7 +185,7 @@ Los ordenamientos fiscales y reglamentos, así como las disposiciones generales 
 
 La Secretaría de Finanzas del Gobierno del Estado, podrá dictar las disposiciones correspondientes a la administración, control, formas y lugares de pago, así como a los procedimientos recaudatorios, relativos a los ingresos tributarios.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 11.
 
@@ -219,9 +209,9 @@ También se prorrogará el plazo hasta el siguiente día hábil, cuando sea vier
 
 La práctica de diligencias por las autoridades fiscales deberá efectuarse en días y horas hábiles, que son las comprendidas entre las 07:30 y las 18:00 horas. Toda diligencia iniciada en horas hábiles, podrá concluirse en hora inhábil sin afectar su validez.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
-Las autoridades fiscales, para la práctica de visitas domiciliarias, intervenciones, actuaciones relativas al procedimiento administrativo de ejecución o de notificaciones y embargos precautorios, podrán habilitar los días u horas inhábiles cuando el sujeto obligado o responsable con quien se vaya a practicar la diligencia realice las actividades por las que se deben pagar contribuciones, en días u horas inhábiles. De igual forma procederá la indicada habilitación cuando el sujeto obligado o responsable no atienda al citatorio que al efecto se le hubiere dejado, con la finalidad de llevar a cabo la diligencia de que se trate, en días y horas hábiles.
+Las autoridades fiscales, para la práctica de visitas domiciliarias, intervenciones, actuaciones relativas al procedimiento administrativo de ejecución o de notificaciones y embargos precautorios, podrán habilitar los días u horas inhábiles cuando el sujeto obligado o responsable con quien se vaya a practicar la diligencia realice las actividades por las que se deben pagar contribuciones, en días u horas inhábiles. ·De igual forma procederá la indicada habilitación cuando el sujeto obligado o responsable no atienda al citatorio que al efecto se le hubiere dejado, con la finalidad de llevar a cabo la diligencia de que se trate, en días y horas hábiles. Tratándose de la verificación de bienes y de mercancías en transporte, se considerarán hábiles todos los días del año y las 24 horas del día.
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2005)</small>
 
@@ -251,13 +241,23 @@ a) En el acto en que el fideicomisario designado ceda sus derechos o dé instruc
 
 b) En el acto en el que el fideicomitente ceda sus derechos, si entre éstos se incluye el de que los bienes se transmitan a su favor;
 
-VII La transmisión de dominio de un bien tangible o del derecho para adquirirlo que se efectúe a través de enajenación de títulos de crédito o de la cesión de los derechos que los representen. Lo dispuesto en esta fracción no es aplicable a las acciones o partes sociales.
+VII La transmisión de dominio de un bien tangible o del derecho para adquirirlo que se efectúe a través de enajenación de títulos de crédito o de la cesión de los derechos que los representen. Lo dispuesto en esta fracción no es aplicable a las acciones o partes sociales;
 
-Se entiende que se efectúan enajenaciones a plazo con pago diferido o en parcialidades, cuando el plazo exceda de doce meses y se difiera más de la mitad del precio para después del sexto mes.
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+VIII. La transmisión de derechos de crédito relacionados a proveeduría de bienes, de servicios o de ambos a través de un contrato de factoraje financiero en el momento de la celebración de dicho contrato, excepto cuando se transmitan a través de factoraje con mandato de cobranza o con cobranza delegada así como en el caso de transmisión de derechos de crédito a cargo de personas físicas, en los que se considerará que existe enajenación hasta el momento en que se cobre los créditos correspondientes; y,
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+IX. La que se realice mediante fusión o escisión de sociedades.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+Se entiende que se efectúan enajenaciones a plazo con pago diferido o en parcialidades, cuando se efectúen con clientes que sean público en general, se difiera más del 50% del precio para después del sexto mes y el plazo pactado exceda de doce meses. No se consideran operaciones efectuadas con el público en general cuando por las mismas se expidan comprobantes que cumplan con los requisitos a que se refiere el artículo 29-A del Código Fiscal de la Federación.
 
 Cuando de conformidad con este artículo se entienda que hay enajenación, el adquirente se considerará propietario de los bienes, para efectos fiscales.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2006)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2006)</small>
 
 ### CAPITULO II. DE LOS MEDIOS ELECTRONICOS
 
@@ -277,6 +277,10 @@ ARTICULO 13 B.- La Secretaría de Finanzas del Gobierno del Estado establecerá 
 
 ARTICULO 13 C.- El uso de las claves de identificación personal que se establezcan para la presentación de documentos, declaraciones y realización de pagos a través de los medios electrónicos, sustituye a la firma autógrafa y producirá los mismos efectos que las leyes otorgan a las declaraciones y pagos efectuados en las recaudaciones o establecimientos autorizados, en consecuencia, las declaraciones y pagos realizados mediante el uso de la red electrónica tendrán el mismo valor probatorio.
 
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+Las claves de identificación personal son intransferibles y de uso exclusivo del contribuyente, por lo cual es responsable del uso de las mismas.
+
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2006)</small>
 
 ### CAPITULO III. DEL SERVICIO FISCAL
@@ -293,7 +297,7 @@ ARTICULO 13 D.- La Secretaría de Finanzas del Gobierno del Estado instrumentar�
 
 La obligación fiscal nace cuando se realizan las situaciones jurídicas o de hecho previstas en los ordenamientos fiscales. Estas obligaciones se determinarán conforme a las disposiciones vigentes en el momento de su nacimiento, pero les serán aplicables las normas sobre procedimiento que se expidan con posterioridad.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 15.
 
@@ -301,7 +305,7 @@ Son créditos fiscales, los que tenga derecho a percibir el Estado que provengan
 
 Para la determinación de los créditos fiscales, se considerarán incluso, las fracciones del peso.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 16.
 
@@ -387,9 +391,11 @@ II De los propietarios de negociaciones comerciales, industriales, agrícolas, s
 
 III En los demás casos previstos en las leyes fiscales locales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 21.
 
-Existe responsabilidad solidaria, cuando dos o más personas estén obligadas al cumplimiento de la misma obligación.
+Son responsables solidarios con los contribuyentes:
 
 Están obligados solidariamente:
 
@@ -413,9 +419,43 @@ IX Los representantes legales o mandatarios, por las obligaciones a cargo de sus
 
 X Quienes adquieran bienes o negociaciones que reporten créditos exigibles a favor del estado y que correspondan a períodos anteriores a la adquisición;
 
-XI Los representantes de los sujetos obligados que hayan librado cheques para cubrir créditos fiscales sin tener fondos disponibles, o que teniéndolos dispongan de ellos antes de que transcurra el plazo de presentación del título respectivo; y,
+XI Los representantes de los sujetos obligados que hayan librado cheques para cubrir créditos fiscales sin tener fondos disponibles, o que teniéndolos dispongan de ellos antes de que transcurra el plazo de presentación del título respectivo; y, (sic)
 
-XII Las demás personas que señalen las disposiciones fiscales.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+XII Los retenedores y las personas a quienes las leyes impongan la obligación de recaudar contribuciones a cargo de los contribuyentes, hasta por el monto de dichas contribuciones.
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+XIII Las personas que estén obligadas a efectuar pagos provisionales por cuenta del contribuyente, hasta por el monto de estos pagos;
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+XIV Los liquidadores y síndicos por las contribuciones que debieron pagar a cargo de la sociedad en liquidación o quiebra, así como de aquellas que se causaron durante su gestión;
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+XV La persona o personas cualquiera que sea el nombre con que se les designe, que tengan conferida la dirección general, la gerencia general, o la administración única de las personas morales, serán responsables solidarios por las contribuciones causadas o no retenidas por dichas personas morales durante su gestión, así como por las que debieron pagarse o enterarse durante la misma, en la parte del interés fiscal que no alcance a ser garantizada con los bienes de la persona moral que dirigen, cuando dicha persona moral incurra en cualquiera de los siguientes supuestos:
+
+a) No solicite su inscripción en el padrón de contribuyentes.
+
+b) Cambie su domicilio sin presentar el aviso correspondiente en los términos de este Código, siempre que dicho cambio se efectúe después de que se le hubiera notificado el inicio del ejercicio de las facultades de comprobación previstas en este Código y antes de que se haya notificado la resolución que se dicte con motivo de dicho ejercicio, o cuando el cambio se realice después de que se le hubiera notificado un crédito fiscal y antes de que éste se haya cubierto o hubiera quedado sin efectos
+
+c) No lleve contabilidad, la oculte o la destruya.
+
+d) Desocupe el local donde tenga su domicilio fiscal, sin presentar el aviso de cambio de domicilio.
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+XVI los socios o accionistas, respecto de las contribuciones que se hubieran causado en relación con las actividades realizadas por la sociedad cuando tenía tal calidad, en la parte de interés fiscal que no alcance a ser garantizada con los bienes de la misma, siempre que dicha sociedad incurra en cualquiera de los supuestos a que se refieren los incisos a), b) y c) de la fracción XIV de este articulo, sin que la responsabilidad exceda de la participación que tenía en el capital social de la sociedad durante el periodo o a la fecha de que se trate;
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+XVII La adquirente escindida o fusionante por las contribuciones causadas por la transmisión de los bienes, así como las contribuciones causadas por estas con anterioridad, sin que la responsabilidad exceda del valor del capital de cada una de ellas al momento de la escisión o fusión, y,
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+XVIII Las demás personas físicas o morales que señalen las disposiciones fiscales.
 
 ### CAPITULO IV. DE LA EXTINCION DE LA OBLIGACION FISCAL
 
@@ -433,7 +473,9 @@ El pago liso, llano y en una sola exhibición de la cantidad debida, es la forma
 
 I Cuando corresponda a las autoridades fiscales la cuantificación de la obligación, dentro de los quince días siguientes a su determinación;
 
-II Si la cuantificación de la obligación es a cargo de cualquier sujeto obligado, dentro de los quince días siguientes a su nacimiento; y
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+II Si la cuantificación de la obligación es a cargo de cualquier sujeto obligado, dentro de los quince días siguientes al nacimiento de dicha obligación; y,
 
 III Respecto de las obligaciones derivadas de contratos o concesiones que no tengan señalada fecha de pago, dentro de los quince días siguientes a su celebración u otorgamiento y en el supuesto de vencimientos mensuales o con una periodicidad mayor, dentro del mismo plazo, contado a partir de dicho vencimiento.
 
@@ -445,21 +487,21 @@ Para efectos de pago de los créditos a cargo de los sujetos pasivos u obligados
 
 Las contribuciones omitidas que las autoridades fiscales determinen como consecuencia del ejercicio de sus facultades de comprobación, así como los demás créditos fiscales, deberán pagarse o garantizarse, junto con sus accesorios, dentro de los 15 días siguientes a aquél en que haya surtido efectos su notificación.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 25.
 
 Se aceptarán como medios de pago de los créditos fiscales, el efectivo y los cheques certificados o de caja, giros quirográficos, postales, bancarios, así como los cheques de la cuenta personal del obligado, librados a favor de la Secretaría de Finanzas del Gobierno del Estado de Oaxaca y a cargo de institución de crédito del domicilio correspondiente a la oficina en que deba efectuarse dicho pago. La Secretaría de Finanzas podrá, en su caso, autorizar algún otro medio o forma de pago.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
 
 Los pagos de los créditos fiscales que se realicen mediante cheques personales por parte de los contribuyentes sin certificar, deberán ser expedidos por los mismos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
 
@@ -473,19 +515,19 @@ II.- En el reverso:
 
 “Cheque librado para el pago de contribuciones federales, coordinados o estatales, según sea el caso, a cargo del contribuyente (nombre, denominación o razón social del contribuyente) con Registro Federal de Contribuyentes (clave de Registro Federal de Contribuyentes); para abono en cuenta bancaria de la Secretaría de Finanzas del Gobierno del Estado de Oaxaca";
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
 
 Los cheques a que se refiere este artículo no serán negociables y su importe deberá abonarse exclusivamente en la cuenta bancaria de la Secretaría de Finanzas del Gobierno del Estado de Oaxaca.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
 
 Podrá hacerse el pago de créditos fiscales con cheques personales del contribuyente sin certificar que cumplan con los requisitos señalados en este artículo, por conducto de los notificadores ejecutores en el momento de realizarse cualquier diligencia del procedimiento administrativo de ejecución.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
 
@@ -497,7 +539,7 @@ Las contribuciones y sus accesorios se causarán y pagarán en moneda nacional.
 
 Cuando en este Código se haga referencia a salario mínimo, se entenderá el último salario mínimo general vigente en el Estado de Oaxaca.
 
-> <small>(REFORMADO PRIMERO PARRAFO, P.O. 26 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMERO PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 26.
 
@@ -549,7 +591,7 @@ VII Una vez recibida la solicitud de autorización de pago a plazos, ya sea en p
 
 Los requisitos y procedimientos que deberán observar los contribuyentes que opten por cumplir con sus obligaciones conforme a este artículo, se establecerán en las Reglas de Carácter General que para tal efecto emita la Secretaría de Finanzas del Gobierno del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 27.
 
@@ -621,7 +663,7 @@ I Cuando se trate de créditos o deudas, a cargo del estado, derivados de crédi
 
 II Cuando se trate de cualquier clase de créditos o deudas a cargo de la federación, otras entidades federativas, municipios u organismos descentralizados o empresas de participación estatal, a favor del estado; y,
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2009)</small>
 
@@ -631,7 +673,7 @@ Si el saldo a favor cuya compensación se pretende no se hubiere reflejado en un
 
 En los casos previstos en las fracciones I y II de este artículo, la compensación procederá previo acuerdo de las partes.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
 
@@ -647,19 +689,19 @@ Cuando se efectúe parcialmente la compensación, se podrá continuar compensand
 
 Si la compensación se hubiera efectuado y no procediera o se hiciere en cantidad mayor a la que legalmente se tuviere derecho, se causarán recargos sobre la cantidad compensada indebidamente y su correspondiente actualización, en términos de este Código, por el periodo transcurrido a partir de la fecha de la citada compensación y hasta que se efectúe el reintegro respectivo. Lo anterior sin perjuicio de las sanciones que en su caso haya lugar en los términos de los ordenamientos fiscales aplicables tanto para el contribuyente como para el responsable solidario en su caso.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
 
 La compensación también se podrá aplicar contra créditos fiscales inclusive aquellos cuyo pago se haya autorizado a plazos; en este último caso, la compensación deberá realizarse sobre el saldo insoluto al momento de efectuarse dicha compensación.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
 
 Las autoridades fiscales notificaran personalmente al contribuyente la resolución que determine la compensación.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
 
@@ -689,7 +731,7 @@ Se faculta al ejecutivo del estado para que, a través de la Secretaría de Fina
 
 La Secretaría de Finanzas del Gobierno del Estado podrá condonar, total o parcialmente, las multas por infracción a las disposiciones fiscales, para lo cual apreciará discrecionalmente las circunstancias del caso y los motivos que tuvo para imponer la sanción.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
 
@@ -701,7 +743,7 @@ Sólo procederá la condonación de las multas que hubieren quedado firmes y sie
 
 #### SECCION QUINTA. DE LA PRESCRIPCION Y LA CADUCIDAD
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 36.
 
@@ -727,7 +769,7 @@ Cuando se suspenda el procedimiento administrativo de ejecución en los término
 
 Los obligados podrán solicitar a la autoridad, la declaratoria de prescripción de los créditos fiscales.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 37.
 
@@ -767,7 +809,7 @@ La Secretaría de Finanzas del Gobierno del Estado podrá acordar la cancelació
 
 La propia Secretaría, dictará las normas y procedimientos para llevar a cabo la indicada cancelación.
 
-> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 31 DE DICIEMBRE DE 2002)</small>
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 31 DE DICIEMBRE DE 2002)</small>
 
 #### SECCION SEPTIMA. DE LAS RESOLUCIONES GENERALES
 
@@ -797,7 +839,7 @@ II Tratándose de créditos fiscales cuyo importe hubiere sido retenido alos (si
 
 III No procederá la devolución de cantidades pagadas indebidamente, cuando el crédito fiscal haya sido recaudado por tercero o repercutido por el obligado que hizo el entero correspondiente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
 
@@ -839,7 +881,7 @@ A los sujetos pasivos de la relación tributaria u obligados les asiste el derec
 
 Las autoridades se abstendrán de resolver consultas relativas a la interpretación general, abstracta, hipotética o impersonal de las disposiciones fiscales.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 45.
 
@@ -867,9 +909,9 @@ En el supuesto de que las instancias o peticiones no reúnan los requisitos a qu
 
 Cuando la autoridad fiscal ante quien se presente la instancia o petición, advierta que alguna de éstas ostenta una firma notoriamente distinta de la que obra en el expediente administrativo en que se actúe, podrá ordenar la ratificación de la firma cuestionada. Si el promovente no se presentara dentro del plazo improrrogable de tres días, la promoción se tendrá también por no presentada.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 46.
 
@@ -879,7 +921,7 @@ No obstante la prevención anterior, los particulares o sus representantes podr�
 
 Quien promueva a nombre de otro deberá acreditar que la representación le fue otorgada a más tardar en la fecha en que se presenta la promoción.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
 
@@ -899,9 +941,9 @@ Para estos efectos, en el convenio referido en el párrafo que antecede se estab
 
 Los requisitos y procedimientos que deberán observar los Poderes del Estado, incluidas en el Poder Ejecutivo las entidades paraestatales para el cumplimiento de este artículo, se establecerán en las Reglas de Carácter General que para tal efecto emita la Secretaría de Finanzas del Gobierno del Estado de Oaxaca.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2009)</small>
 
 ARTICULO 46 B.- Los Poderes del Estado, incluidas en el Poder Ejecutivo las entidades paraestatales, a través de sus Titulares o responsables de sus unidades administrativas, tendrán la obligación de presentar ante las autoridades fiscales estatales, en la forma y términos que señale la Secretaría de Finanzas del Gobierno del Estado de Oaxaca en las Reglas de Carácter General que para tal efecto emita, la información relativa a:
 
@@ -917,7 +959,7 @@ II. Los proveedores a los que les hubieren efectuado pagos por la adquisición d
 
 La información a que se refiere el párrafo anterior se deberá presentar a más tardar el día 10 del mes posterior al que corresponda dicha información.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
 
@@ -929,13 +971,13 @@ Son obligaciones de los sujetos pasivos:
 
 I Obtener previamente al ejercicio de sus actividades o inicio de operaciones, los permisos, licencias o registros que al efecto prevengan los ordenamientos fiscales, así como cumplir los requisitos señalados en los mismos y exhibirlos o acreditarlos ante las autoridades competentes, cuando éstas así lo requieran;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2006)</small>
 
 II Inscribirse en la Secretaría de Finanzas del Gobierno del Estado dentro del mes siguiente, a partir de la fecha de inicio de operaciones o actividades;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2006)</small>
 
@@ -999,7 +1041,7 @@ En los casos en que las demás disposiciones de este Código hagan referencia a 
 
 La Secretaría de Finanzas llevará registros de contribuyentes, basándose en los datos que éstos le proporcionen de conformidad con este Capítulo y en los que la propia Secretaría obtenga por cualquier otro medio. Asimismo, asignará el número de cuenta que corresponda a cada contribuyente inscrito, quien deberá citarla en todo documento que presente ante las autoridades fiscales.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
 
@@ -1113,9 +1155,15 @@ I Solicitar el auxilio de la fuerza pública;
 
 II Imponer la multa que corresponda de conformidad con lo establecido por el artículo 83 fracción I del presente Código;
 
-III Solicitar a la autoridad competente, se proceda por desobediencia a mandato legítimo de autoridad competente; y
+III Solicitar a la autoridad competente, se proceda por desobediencia a mandato legítimo de autoridad competente; y (sic)
 
-IV Proceder a la clausura temporal de establecimientos, la que en caso de reincidencia, podrá convertirse en definitiva, a juicio de la autoridad.
+IV Proceder a la clausura temporal de establecimientos, la que en caso de reincidencia, podrá convertirse en definitiva, a juicio de la autoridad;
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+V Decretar el aseguramiento precautorio de los bienes o negociación del Contribuyente.
+
+Para los efectos de esta fracción, la autoridad que practique el aseguramiento precautorio deberá levantar acta circunstanciada en la que precise de que manera el contribuyente se opuso, impidió u obstaculizó físicamente el inicio o desarrollo del ejercicio de las facultades de las autoridades fiscales, y deberá observar en todo momento las disposiciones contenidas en la Sección Segunda del Capítulo I del Título Octavo de este Código.
 
 ###### ARTICULO 56.
 
@@ -1129,9 +1177,13 @@ I Constar por escrito;
 
 II Señalar la autoridad que lo emite;
 
-III Estar fundado y motivado y expresar la resolución, objeto o propósito de que se trate; y
+III Estar fundado y motivado y expresar la resolución, objeto o propósito de que se trate; y (sic)
 
 IV Ostentar la firma autógrafa de servidor público competente y, en su caso, el nombre o nombres de las personas a las que se dirige. Cuando se ignore el nombre de la persona a la que va dirigida, se señalarán los datos suficientes que permitan su identificación.
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+V Señalar lugar y fecha de emisión.
 
 En el caso de la orden de visita domiciliaria, además de los requisitos señalados en este artículo, se deberá indicar:
 
@@ -1141,7 +1193,7 @@ b) El nombre de la persona o personas que deban efectuar la visita, las cuales p
 
 c) Las contribuciones de cuya verificación se trate y en su caso, los ejercicios o período a los que deberá limitarse la visita.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 58.
 
@@ -1215,7 +1267,7 @@ Las actuaciones que realice la Secretaría de Finanzas tendrán el valor probato
 
 Las autoridades fiscales podrán ejercer estas facultades conjunta, indistinta o sucesivamente, entendiéndose que se inician con el primer acto que se notifique al contribuyente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 61.
 
@@ -1241,7 +1293,7 @@ V Que los depósitos en la cuenta bancaria del obligado o responsable, que no co
 
 VI Que las diferencias entre los activos registrados en contabilidad y las existencias reales, corresponden a ingresos gravables del último ejercicio que se revisa.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 62.
 
@@ -1267,13 +1319,13 @@ II Si la contabilidad y documentación del obligado no permite reconstruir las o
 
 Al ingreso estimado presuntivamente por alguno de los procedimientos anteriores se le aplicará la tasa, cuota o tarifa que corresponda.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 64.
 
 En los casos de visita domiciliaria las autoridades fiscales, los visitados, responsables solidarios y terceros relacionados estarán a lo siguiente:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2002)</small>
 
 I La visita se realizará en el lugar o lugares señalados en la orden de visita expedida por autoridad competente, la cual expresará:
 
@@ -1335,7 +1387,7 @@ En el caso de que los visitadores obtengan copias certificadas de la contabilida
 
 Lo dispuesto en el párrafo anterior no es aplicable cuando los visitadores obtengan copias de sólo parte de la contabilidad. En este caso, se levantará el acta parcial señalando los documentos de los que se obtuvieron copias pudiéndose continuar la visita en el domicilio o establecimientos del visitado. En ningún caso las autoridades fiscales podrán recoger la contabilidad del visitado, salvo lo previsto en la fracción VIII de este artículo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 66.
 
@@ -1381,7 +1433,7 @@ III Como consecuencia de la revisión, las autoridades formularán oficio de obs
 
 El oficio de observaciones se notificará, cumpliendo con las formalidades previstas en la fracción I de este artículo;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2002)</small>
 
 IV Una vez notificado el oficio de observaciones, el sujeto obligado contará con un plazo de veinte días computados a partir del día hábil siguiente al en que hubiere surtido efectos la notificación, para presentar las pruebas documentales, para desvirtuar los hechos u omisiones consignados en el mencionado oficio de observaciones o bien, para optar por corregir su situación fiscal.
 
@@ -1395,13 +1447,13 @@ VI Cuando no hubiere observaciones, la autoridad fiscalizadora comunicará media
 
 VII Dentro del plazo para desvirtuar los hechos u omisiones asentados en el oficio de observaciones, a que se refiere la fracción IV el contribuyente o responsable solidario podrá optar por corregir su situación fiscal en las distintas contribuciones objeto de la revisión.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 68.
 
 Las autoridades fiscales deberán concluir la visita que se desarrolle en el domicilio fiscal de los contribuyentes, o la revisión de la contabilidad de los mismos que se efectúe en las oficinas de las propias autoridades, dentro de un plazo máximo de doce meses contados a partir de que se le notifique a los contribuyentes el inicio de las facultades de comprobación.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2006)</small>
 
 El plazo para concluir las visitas domiciliarias o las revisiones que se efectúen en las oficinas de las propias autoridades fiscales a que se refiere el primer párrafo, se suspenderán en los casos de:
 
@@ -1557,7 +1609,7 @@ I. La omisión sea descubierta por las autoridades fiscales; o,
 
 II. La omisión haya sido corregida por el contribuyente después de que las autoridades fiscales hubieren notificado una orden de visita domiciliaria, o haya mediado requerimiento o cualquier otra gestión notificada por las mismas tendiente a la comprobación del cumplimiento de las disposiciones fiscales.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 74.
 
@@ -1737,9 +1789,17 @@ ARTICULO 83 B.- Al contador público que cometa las infracciones a que se refier
 
 ARTICULO 83 C.- Son infracciones cuya responsabilidad recae sobre terceros las que a continuación se señalan, por las que se impondrá las sanciones que se indican:
 
-I Asesorar, aconsejar o prestar servicios para omitir el pago de una contribución en contravención a las disposiciones fiscales, dará lugar a una multa por el equivalente de 150 a 200 veces el salario mínimo; y,
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
-II Colaborar en la alteración o la inscripción de cuentas, asientos o datos falsos en la contabilidad o en los documentos que se expidan, dará lugar a una multa por el equivalente de 100 a 150 veces el salario mínimo.
+I. Asesorar, aconsejar o prestar servicios para omitir el pago de una contribución en contravención a las disposiciones fiscales, dará lugar a una multa por el equivalente de 730 a 1145 veces el salario mínimo;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+II. Colaborar en la alteración o la inscripción de cuentas, asientos o datos falsos en la contabilidad o en los documentos que se expidan, dará lugar a una multa por el equivalente de 730 a 1145 veces el salario mínimo, y,
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+III. Ser coparticipe en cualquier forma no prevista en la comisión de infracciones fiscales, dará lugar a una multa por el equivalente de 730 a 1145 veces el salario mínimo
 
 No se incurrirá en la infracción a que se refiere la fracción I de este artículo, cuando se manifieste en la opinión que se otorgue por escrito, que el criterio contenido en ella es diverso a los criterios dados a conocer por las autoridades fiscales en los términos de la fracción VII del artículo 48 de este Código, o bien manifiesten también por escrito al contribuyente que su asesoría puede ser contraria a la interpretación de las autoridades fiscales estatales.
 
@@ -1747,103 +1807,115 @@ No se incurrirá en la infracción a que se refiere la fracción I de este artí
 
 ARTICULO 83 D.- Es infracción de los contadores, abogados o cualquier otro asesor en materia fiscal, no advertir a los destinatarios de la opinión que otorgue por escrito, si el criterio contenido en la misma es diverso a los criterios que en su caso hubiere dado a conocer la autoridad fiscal conforme a la fracción VII del artículo 48 de este Código.
 
-La infracción prevista en el párrafo anterior dará lugar a una multa por el equivalente de 100 a 200 veces el salario mínimo.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+La infracción prevista en el párrafo anterior dará lugar a una multa por el equivalente de 1000 a 1500 veces el salario mínimo.
 
 ###### ARTICULO 84.
 
 Son infracciones cuya responsabilidad corresponde a los Jueces, directores del Registro Público de la Propiedad y del Comercio, notarios, corredores y en general a toda aquella persona que lleve la fé pública, las que a continuación se indican, señalándose las sanciones correspondientes:
 
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+I. Expedir o autorizar sin que estén pagadas las contribuciones correspondientes, los testimonios de escrituras, documentos, minutas o cualquier contrato otorgado ante su fe, u omitir la manifestación de tales actos, o efectuarla, pero sin sujetarse a lo previsto por las disposiciones fiscales, dará lugar a una multa por el equivalente de 225 a 450 veces el salario mínimo;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+II. No proporcionar informes o datos, o no exhibir documentos cuando deban hacerlo, o cuando lo soliciten las autoridades competentes en el plazo concedido para tal efecto o presentarlos incompletos, inexactos, alterados o falsificados, dará lugar a una sanción por el equivalente de 275 a 460 veces el salario mínimo por cada solicitud no atendida; conforme a lo siguiente:
+
+a) El plazo para atender el primer requerimiento será de quince días hábiles;
+
+b) El plazo para los subsecuentes requerimientos será de seis días hábiles.
+
+Si no se atiende el requerimiento, se impondrá la sanción que corresponda por cada requerimiento conforme a la presente fracción.
+
+La autoridad en ningún caso formulará más de tres requerimientos por una misma omisión.
+
+En los supuestos previstos en esta fracción y agotados los actos señalados en la misma, se pondrán los hechos en conocimiento de la autoridad competente, para que se proceda por desobediencia a mandato legítimo de autoridad competente.
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+III. Extender constancias de haberse cumplido con las obligaciones fiscales en los casos en que intervengan, cuando no proceda su otorgamiento, dará lugar a una multa por el equivalente de 1720 a 2290 veces el salario mínimo;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+IV. Traficar o disponer ilegalmente de los documentos y comprobantes de pago de contribuciones y otros ingresos del estado o hacer uso indebido de ellos, por cada uno, dará lugar a una multa por el equivalente de 1720 a 2290 veces el salario mínimo;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+V. Cooperar con los infractores o facilitarles en cualquier forma, la omisión total o parcial en el pago de contribuciones, mediante alteraciones, ocultamientos y otros hechos y omisiones, dará lugar a una multa por el equivalente de 1720 a 2290 veces el salario mínimo;
+
+VI. No enterar dentro del plazo legal, los créditos fiscales correspondientes a los actos en que intervengan, dará lugar a una multa de un 50 a un 100% del importe del crédito fiscal y los accesorios legales respectivos; e
+
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
-I Expedir o autorizar sin que estén pagadas las contribuciones correspondientes, los testimonios de escrituras, documentos, minutas o cualquier contrato otorgado ante su fé, u omitir la manifestación de tales actos, o efectuarla, pero sin sujetarse a lo previsto por las disposiciones fiscales, dará lugar a una multa por el equivalente de 100 a 150 veces el salario mínimo;
-
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2003)</small>
-
-II No proporcionar informes o datos, o no exhibir documentos cuando deban hacerlo, en el plazo que fijen las disposiciones fiscales aplicables o cuando lo pidan las autoridades competentes o presentarlos incompletos, inexactos, alterados o falsificados, dará lugar a una sanción por el equivalente de 50 a 100 veces el salario mínimo;
-
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2003)</small>
-
-III Extender constancias de haberse cumplido con las obligaciones fiscales en los casos en que intervengan, cuando no proceda su otorgamiento, dará lugar a una multa por el equivalente de 100 a 150 veces el salario mínimo;
-
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2003)</small>
-
-IV Traficar ilegalmente con los documentos y comprobantes de pago de prestaciones fiscales o hacer uso indebido de ellos, por cada uno, dará lugar a una multa por el equivalente de 300 a 500 veces el salario mínimo;
-
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2003)</small>
-
-V Cooperar con los infractores o facilitarles en cualquier forma, la omisión total o parcial en el pago de contribuciones, mediante alteraciones, ocultamientos y otros hechos y omisiones, dará lugar a una multa por el equivalente de 300 a 500 veces el salario mínimo;
-
-VI No enterar dentro del plazo legal, los créditos fiscales correspondientes a los actos en que intervengan, dará lugar a una multa de un 50 a un 100% del importe del crédito fiscal y los accesorios legales respectivos; e
-
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2003)</small>
-
-VII Infringir otras disposiciones fiscales en forma no prevista en las fracciones precedentes, dará lugar a una multa por el equivalente de 50 a 500 veces el salario mínimo.
+VII. Infringir otras disposiciones fiscales en forma no prevista en las fracciones precedentes, dará lugar a una multa por el equivalente de 50 a 500 veces el salario mínimo.
 
 ###### ARTICULO 85.
 
 Son infracciones cuya responsabilidad recae en los servidores públicos del estado, las que a continuación se indican, por las que se impondrán las sanciones que igualmente se señalan:
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
-I Dar entrada o curso a documentos o libros que carezcan en todo o en parte de los requisitos establecidos en las disposiciones fiscales y en general, no vigilar el cumplimiento de éstas, dará lugar a una multa por el equivalente de 50 a 100 veces el salario mínimo;
+I Dar entrada o curso a documentos o libros que carezcan en todo o en parte de los requisitos establecidos en las disposiciones fiscales y en general, no vigilar el cumplimiento de éstas, dará lugar a una multa por el equivalente de 1720 a 2290 veces el salario mínimo;
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
-II Extender actas, legalizar firmas, expedir certificados o certificaciones, autorizar documentos o libros, inscribirlos o registrarlos, sin que exista constancia de pago de los gravámenes correspondientes, dará lugar a una multa por el equivalente de 80 a 100 veces el salario mínimo;
+II Extender actas, legalizar firmas, expedir certificados o certificaciones, autorizar documentos o libros, inscribirlos o registrarlos, sin que exista constancia de pago de los gravámenes correspondientes, dará lugar a una multa por el equivalente de 1720 a 2290 veces el salario mínimo;
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
-III Recibir el pago de un crédito fiscal y no contabilizar o enterar su importe de inmediato o dentro de los plazos que al efecto prevengan las disposiciones fiscales, dará lugar a una multa por el equivalente de 50 a 100 veces el salario mínimo, más los accesorios legales que se hubieren causado;
+III Recibir el pago de un ·crédito fiscal y no contabilizar o enterar su importe de inmediato o dentro de los plazos que al efecto prevengan las disposiciones fiscales, dará lugar a una multa por el equivalente de 1720 a 2290 veces el salario mínimo, más los accesorios legales que se hubieren causado;
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
 IV No presentar ni proporcionar o hacerlo extemporáneamente, los informes, avisos, datos o documentos que exijan las disposiciones fiscales o presentarlos incompletos o inexactos; o no prestar el auxilio y colaboración que este Código establece a las autoridades fiscales, inspectores, valuadores y ejecutores que tengan encomendadas la determinación o cobro de las diversas prestaciones fiscales, o presentar cualesquiera de los elementos a que se contrae esta fracción, alterados o falsificados, dará lugar a una multa por el equivalente de 50 a 80 veces el salario mínimo;
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
-V Asentar falsamente que se ha dado cumplimiento a las disposiciones fiscales o que se han practicado visitas de inspección, intervenciones o auditorías, o incluir en las actas relativas datos falsos, dará lugar a una multa por el equivalente de 150 a 200 veces el salario mínimo;
+V Asentar falsamente que se ha dado cumplimiento a las disposiciones fiscales o que se han practicado visitas de inspección, Intervenciones o auditorías, o incluir en las actas relativas datos falsos, dará lugar a una multa por el equivalente de 1720 a 2290 veces el salario mínimo;
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
-VI Faltar a la obligación de guardar secreto respecto de los asuntos que conozcan; revelar los datos manifestados por los sujetos obligados o responsables, o aprovecharse de ellos, dará lugar a una multa por el equivalente de 80 a 100 veces el salario mínimo;
+VI Faltar a la obligación de guardar secreto respecto de los asuntos que conozcan; revelar los datos manifestados por los sujetos obligados o responsables, o aprovecharse de ellos, dará lugar a una multa por el equivalente de 1720 a 2290 veces el salario mínimo;
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
-VII Intervenir en la tramitación o resolución de algún asunto, cuando tengan impedimento de acuerdo con las disposiciones fiscales, dará lugar a una multa por el equivalente de 150 a 200 veces el salario mínimo;
+VII Intervenir en la tramitación o resolución de algún asunto, cuando tengan impedimento de acuerdo con las disposiciones fiscales, dará lugar a una multa por el equivalente de 1720 a 2290 veces el salario mínimo;
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
-VIII Exigir bajo el título de cooperación, colaboración u otro semejante, cualquier prestación que no esté expresamente prevista en la ley, aún cuando se aplique a la realización de las funciones propias del cargo, dará lugar a una multa por el equivalente de 150 a 200 veces el salario mínimo;
+VIII Exigir bajo el titulo de cooperación, colaboración u otro semejante, cualquier prestación que no esté expresamente prevista en la ley, aún cuando se aplique a la realización de las funciones propias del cargo, dará lugar a una multa por el equivalente de 1720 a 2290 veces el salario mínimo;
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
-IX Adquirir los bienes objeto de un remate efectuado por el fisco local, por sí o por medio de interpósita persona, dará lugar a una multa por el equivalente de 80 a 100 veces el salario mínimo;
+IX Adquirir los bienes objeto de un remate efectuado por el fisco local, por sí o por medio de interpósita persona, dará lugar a una multa por el equivalente de 1720 a 2290 veces el salario mínimo;
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
-X Exigir el pago de las prestaciones fiscales, recaudar, permitir u ordenar que se recaude alguna prestación fiscal sin cumplir con las disposiciones aplicables y en perjuicio del control e interés del fisco, dará lugar a una multa por el equivalente de 100 a 150 veces el salario mínimo;
+X Exigir el pago de las prestaciones fiscales, recaudar, permitir u ordenar que se recaude alguna prestación fiscal sin cumplir con las disposiciones aplicables y en perjuicio del control e interés del fisco, dará lugar a una multa por el equivalente de 1720 a 2290 veces el salario mínimo;
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
-XI Omitir la comprobación de la exactitud en los cálculos de contribuciones, sometidas por los notarios o jueces que actúen por receptoría o incurrir en los mismos errores de aquéllos, si ello entraña omisión en el entero de una obligación, dará lugar a una multa por el equivalente de 80 a 100 veces el salario mínimo;
+XI Omitir la comprobación de la exactitud en los cálculos de contribuciones, sometidas por los notarios o jueces que actúen por receptoría o incurrir en los mismos errores de aquéllos, si ello entraña omisión en el entero de una obligación, dará lugar a una multa por el equivalente de 1720 a 2290 veces el salario mínimo;
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
-XII Alterar las bases o tasas vigentes, para el cobro de cualquier gravamen u otorgar beneficio o estímulos fiscales a los obligados, sin estar legalmente facultados para ello, dará lugar a una multa por el equivalente de 100 a 150 veces el salario mínimo;
+XII Alterar las bases o tasas vigentes, para el cobro de cualquier gravamen u otorgar beneficio o estímulos fiscales a los obligados, sin estar legalmente facultados para ello, dará lugar a una multa por el equivalente de 1720 a 2290 veces el salario mínimo; y (sic)
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
-XIII No dar debido cumplimiento a las funciones o actividades que en materia de asistencia o difusión fiscal establezcan los ordenamientos y disposiciones administrativas de la materia, dará lugar a una multa por el equivalente de 300 a 500 veces el salario mínimo;
+XIII No dar debido cumplimiento a las funciones o actividades que en materia de asistencia o difusión fiscal establezcan los ordenamientos y disposiciones administrativas de la materia, dará lugar a una multa por el equivalente de 1720 a 2290 veces el salario mínimo;
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
-XIV Infringir disposiciones fiscales en forma distinta de las previstas en las fracciones precedentes, dará lugar a una multa por el equivalente de 50 a 500 veces el salario mínimo; y,
+XIV Infringir disposiciones fiscales en forma distinta de las previstas en las fracciones precedentes, dará lugar a una multa por el equivalente de 1720 a 2290 veces el salario mínimo; y,
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
 XV Por la pérdida o extravío de formas valoradas de 10 a 20 salarios mínimos, por cada formato.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 86.
 
@@ -1951,9 +2023,11 @@ II Ayude en cualquier forma al inculpado para eludir las investigaciones de la a
 
 El encubrimiento a que se refiere este artículo, se sancionará con prisión de tres meses a tres años.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 99.
 
-Se impondrá prisión de tres años, a quien desempeñe o pretenda desempeñar funciones fiscales, sin mandamiento escrito de autoridad competente.
+Se impondrá prisión de dos a nueve años, a quien desempeñe o pretenda desempeñar facultades fiscales, sin mandamiento escrito de autoridad competente.
 
 ###### ARTICULO 100.
 
@@ -2023,7 +2097,7 @@ Por la comisión del presente delito, se impondrá la pena de un mes a cinco añ
 
 Se impondrá pena de tres meses a tres años de prisión, al depositario o interventor designado por las autoridades fiscales, que con perjuicio del fisco disponga para sí o para otro del bien depositado, de sus productos o de las garantías que de cualquier crédito fiscal se hubieren constituido, si el valor de lo dispuesto no excede el importe de doscientas veces el salario mínimo; cuando exceda, la pena será de tres a nueve años de prisión.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 106.
 
@@ -2047,7 +2121,7 @@ En todo lo no previsto por el presente Código, se aplicarán las disposiciones 
 
 Las notificaciones de los actos administrativos, se harán:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2009)</small>
 
@@ -2063,9 +2137,9 @@ IV Por estrados, cuando la persona a quien deba notificarse desaparezca después
 
 V Por instructivo, en los casos y con las formalidades previstas en el presente Código.
 
-###### ARTICULO 110.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
-Las notificaciones surtirán sus efectos el día hábil siguiente a aquél en que fueron hechas y al practicarlas, deberá proporcionarse al sujeto obligado o persona con quien se entienda la diligencia, copia del acto administrativo que se notifique. Cuando la notificación la hagan personalmente las autoridades fiscales, se levantará el acta correspondiente, en la que se señalará la fecha y hora en que ésta se efectúe, recabando el nombre y firma de la persona con quien se entienda la diligencia y si ésta se negare a una u otra cosa, se hará constar tal circunstancia en la propia acta. De negarse a proporcionar el nombre, así como a firmar el acta, se asentarán sus principales rasgos físicos.
+ARTICULO 110,- Las notificaciones surtirán sus efectos el día hábil siguiente a aquél en que fueron hechas y al practicarlas, deberá proporcionarse al sujeto obligado o persona con quien se entienda la diligencia, copia del acto administrativo que se notifique. Cuando la notificación la hagan personalmente las autoridades fiscales, se levantará el acta correspondiente, en la que se señalará la fecha y hora en que ésta se efectúe, recabando el nombre y firma de la persona con quien se entienda la diligencia y si ésta se negare a una u otra cosa, se hará constar tal circunstancia en la propia acta. De negarse a proporcionar el nombre, así como a firmar el acta, se asentarán sus principales rasgos físicos, la autoridad fiscal podrá, si los hubiere, nombrar testigos de asistencia que se encuentren en el lugar del acto y asentando los datos que los identifiquen; si los testigos designados se negaren a firmar, así lo hará constar la autoridad fiscal en el acta, sin que tales circunstancias afecten la legalidad de la notificación.
 
 La manifestación que haga el sujeto obligado o su representante legal de conocer el acto administrativo, surtirá efectos de notificación en forma, desde la fecha en que se manifieste haber tenido tal conocimiento, si ésta es anterior a aquella en que debiera surtir efectos la notificación de acuerdo con el párrafo anterior.
 
@@ -2105,6 +2179,10 @@ Las notificaciones por estrados, se harán fijando durante tres días el documen
 
 Si las notificaciones se refieren a requerimientos para el cumplimiento de obligaciones no satisfechas dentro de los plazos legales, se causarán honorarios por notificación, que serán a cargo de quien o quienes incurrieron en el incumplimiento, equivalentes a la cantidad que resulte mayor entre el 5% del importe total del crédito, incluidos los recargos, y la equivalente a 5 salarios mínimos. Si la obligación de que se trata no fuere cuantificable o no diere lugar a pago, el monto de los indicados gastos será por el equivalente a los 5 salarios mínimos. En ningún caso el monto de los referidos honorarios podrá exceder del máximo previsto en el artículo 122 del presente Código.
 
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+ARTICULO 115 A.- Cuando por resolución firme de autoridad competente se deje sin efecto una notificación, se impondrá al notificador una multa de 5 a 10 veces el salario mínimo general vigente en el Estado de Oaxaca.
+
 ## TITULO SEPTIMO. DE LA GARANTIA DEL INTERES FISCAL
 
 ### CAPITULO UNICO
@@ -2127,7 +2205,7 @@ V Obligación solidaria asumida por tercero que compruebe su idoneidad y solvenc
 
 La garantía deberá comprender, además de las cantidades adeudadas y cuando así proceda, su correspondiente actualización y accesorios causados, así como de los que se causen en los doce meses siguientes a su otorgamiento. Al terminar este período y en tanto no se cubra el crédito o se extinga la causa que le dio origen, deberá actualizarse su importe cada año y ampliarse en su caso, para que cubra el crédito actualizado y el importe de los accesorios, incluso los correspondientes a los doce meses siguientes.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
@@ -2137,7 +2215,7 @@ Cuando se trate de garantía prendaria o hipotecaria, se estará al valor que fi
 
 En ningún caso las autoridades fiscales podrán dispensar el otorgamiento de la garantía.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
@@ -2215,7 +2293,7 @@ El embargo precautorio quedará sin efectos si la autoridad no emite dentro del 
 
 El embargo precautorio practicado antes de la fecha en que el crédito fiscal sea exigible, se convertirá en definitivo al momento de su exigibilidad y se aplicará el procedimiento administrativo de ejecución.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
 
@@ -2245,7 +2323,7 @@ II Por la de embargo, incluyendo los señalados en los artículos 58 fracción I
 
 III Por la de remate, enajenación fuera de remate o adjudicación al fisco estatal.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
 
@@ -2279,7 +2357,7 @@ Los vencimientos que ocurran durante el procedimiento, incluso recargos, gastos 
 
 #### SECCION SEGUNDA. DEL EMBARGO
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
@@ -2319,27 +2397,27 @@ El servidor público designado para la práctica de la diligencia se constituir�
 
 Si la notificación del crédito adeudado o del requerimiento en su caso, se hizo por edictos, la diligencia se entenderá con la autoridad fiscal correspondiente de la circunscripción de los bienes, salvo que al momento de iniciarse la diligencia compareciere el deudor o su representante legal debidamente acreditado, en cuyo caso se entenderá con él.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 129.
 
 Los bienes o negociaciones embargadas quedarán bajo la guarda del depositario o depositarios que se hicieren necesarios. El servidor público que hubiere emitido el mandamiento de ejecución, bajo su responsabilidad, nombrará o removerá libremente a los depositarios, quienes desempañarán (sic) su cargo hasta en tanto les sea revocado el nombramiento. Cuando se efectúe la remoción del depositario, este deberá poner a disposición de la autoridad ejecutora en el plazo de cinco días hábiles siguientes al en que surta efectos la notificación efectuada, los bienes que fueron objeto de la depositaría, pudiendo la autoridad ejecutora realizar la sustracción de los bienes para depositarlos en almacenes bajo su resguardo o entregarlos al nuevo depositario.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 En los embargos de bienes inmuebles o de negociaciones, los depositarios tendrán el carácter de administradores o de interventores con cargo a la caja, según sea el caso, debiendo regirse por lo establecido en este Código y, en su defecto, por las disposiciones del Código de Procedimientos Civiles para el Estado de Oaxaca.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 En el caso de embargo de bienes inmuebles o de negociaciones, éste comprenderá la propiedad, posesión, los frutos, o productos de los mismos que por hecho y por derecho les corresponda.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
@@ -2349,7 +2427,7 @@ Si la negociación embargada fuera improductiva, la Secretaría de Finanzas del 
 
 En igualdad de circunstancias, será preferido para el arrendamiento el propio deudor, si la improductividad tuvo como origen causas no imputables a él.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
@@ -2363,7 +2441,7 @@ La responsabilidad de los depositarios cesará con la entrega de los bienes emba
 
 El embargo podrá ampliarse en cualquier momento del procedimiento administrativo de ejecución, cuando la oficina ejecutora estime que los bienes embargados son insuficientes para cubrir los créditos fiscales, previo requerimiento que se haga al contribuyente para que amplíe la garantía del interés fiscal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 131.
 
@@ -2395,19 +2473,19 @@ g) Negociaciones comerciales, industriales, agrícolas, ganaderas, pesqueras o s
 
 h) (DEROGADO, P.O. 26 DE DICIEMBRE DE 2005)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
 
 La persona con quien se entienda la diligencia de embargo tendrá derecho a designar dos testigos que asistan a la misma, si no lo hiciere o al término de la diligencia éstos se negaren a firmar, así lo hará constar el ejecutor en el acta respectiva sin que tales circunstancias afecten la legalidad del embargo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(DEROGADO CUARTO PARRAFO, P.O. 30 DE DICIEMBRE DE 2009)</small>
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2009)</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 132.
 
@@ -2429,31 +2507,31 @@ b) Bienes que ya reporten cualquier gravamen.
 
 c) Bienes de fácil descomposición o deterioro o materias inflamables.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
 
 El notificador-ejecutor designado deberá señalar, invariablemente, bienes de fácil realización o venta. En el caso de bienes inmuebles, el notificador-ejecutor designado solicitará al deudor o a la persona con quien se entiende la diligencia que manifieste bajo protesta de decir verdad si dichos bienes reportan cualquier gravamen, se encuentran en copropiedad o pertenecen a sociedad conyugal legal o voluntaria. Para estos efectos, el deudor o la persona con quien se entienda la diligencia deberá acreditar fehacientemente dichos hechos dentro de los 15 días siguientes a aquel en que se inició la diligencia correspondiente, haciéndose constar esta situación en el acta que se levante o bien, su negativa.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
 
 Si al estarse practicando la diligencia de requerimiento de pago, el deudor hiciere el pago del crédito y de los accesorios causados, el notificador-ejecutor asentará este hecho en el acta de requerimiento, señalando que por este motivo no se continuará con la diligencia de embargo; siendo legalmente válido el requerimiento de pago efectuado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
 
 Si dicho pago se hiciere durante la diligencia de embargo, el notificador-ejecutor hará constar este hecho en el acta respectiva, asentando asimismo la suspensión de la diligencia por este motivo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
 
 En ambos casos, el notificador-ejecutor deberá asentar en el acta correspondiente la forma de pago utilizada por el deudor, con base en lo dispuesto en el artículo 25 de este Código, procediendo a asentar su nombre y firma en dicha acta, cuya copia con firma autógrafa será entregada al deudor como constancia de lo actuado, además del correspondiente mandamiento de ejecución, debiendo dicho notificador-ejecutor enterar el pago a más tardar al día hábil siguiente en la oficina ejecutora, misma que pondrá a disposición del contribuyente el comprobante del pago respectivo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
 
@@ -2561,7 +2639,7 @@ Si el titular de los créditos embargados se rehusare a cumplir en el plazo indi
 
 Si el crédito es litigioso, se hará además saber del embargo al juez que conozca de la controversia, a efecto de que se abstenga de decretar o autorizar cualquier acto de disposición. El Ministerio Público asumirá, en este caso, las facultades que concede a los depositarios el Código de Procedimientos Civiles para el Estado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
@@ -2605,7 +2683,7 @@ Cuando el interventor tenga conocimiento de irregularidades en el manejo de la n
 
 Si las medidas a que se refiere el párrafo anterior no fueren acatadas, la oficina ejecutora ordenará que cese la intervención con cargo a caja y se convierta en administración, o bien se proceda a enajenar la negociación, conforme a este Código y las demás disposiciones legales aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 142.
 
@@ -2849,7 +2927,7 @@ c) Afecten el interés jurídico de terceros, en los casos a que se refieren los
 
 d) Determinen el valor de los bienes embargados a que se refiere el artículo 150 de este Código.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 171.
 
@@ -2863,7 +2941,7 @@ En los casos de incapacidad o declaración de ausencia, decretadas por autoridad
 
 Cuando un recurso se interponga ante autoridad fiscal incompetente, ésta lo turnará a la que sea competente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 172.
 
@@ -2973,7 +3051,7 @@ Si las violaciones tuvieren lugar con posterioridad a la mencionada convocatoria
 
 En el recurso de revocación se admitirá toda clase de pruebas, excepto la testimonial y la de confesión de las autoridades mediante absolución de posiciones. No se considerará comprendida en esta prohibición la petición de informes a las autoridades fiscales, respecto de hechos que consten en sus expedientes o de documentos agregados a ellos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
 
@@ -2986,6 +3064,8 @@ Las pruebas supervenientes podrán presentarse siempre que no se haya dictado la
 Harán prueba plena la confesión expresa del recurrente, las presunciones legales que no admitan prueba en contrario, así como los hechos legalmente afirmados por autoridad en documentos públicos, incluyendo los digitales; pero si en los documentos públicos se contienen declaraciones de verdad o manifestaciones de hechos de particulares, los documentos sólo prueban plenamente que, ante la autoridad que los expidió, se hicieron tales declaraciones o manifestaciones, pero no prueban la verdad de lo declarado o manifestado.
 
 Las demás pruebas quedarán a la prudente apreciación de la autoridad fiscal.
+
+> <small>(F. DE E., P. O. 16 DE ENERO DE 2010)</small>
 
 Si por el enlace de las pruebas rendidas y de las presunciones formadas, las autoridades adquieren convicción distinta acerca de los hechos materia del recurso, podrán valorar las pruebas sin sujetarse a lo dispuesto en este artículo, debiendo en ese caso fundar razonadamente esta parte de su resolución.
 
@@ -3071,7 +3151,7 @@ LIC. HECTOR ANUARD MAFUD MAFUD.
 
 AL C.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO.</small>
 
 P.O. 31 DE DICIEMBRE DE 2002.
 
@@ -3116,3 +3196,7 @@ P.O. 29 DE DICIEMBRE DE 2008.
 P.O. 30 DE DICIEMBRE DE 2009.
 
 ÚNICO.- El presente Decreto entrará en vigor a partir del día 1 de enero del año 2010, previa publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 29 DE DICIEMBRE DE 2010.
+
+ÚNICO.- El presente Decreto entrará en vigor a partir del día 1 de enero del año 2011.
