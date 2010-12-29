@@ -4,7 +4,7 @@ identifier: "COA-constitucion-politica-del-estado-de-coahuila-de-zaragoza-3509"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-19"
-last_updated: "2010-10-22"
+last_updated: "2010-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "COA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2010.
 
 Constitución publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el 19 de febrero de 1918.
 
@@ -628,15 +628,13 @@ Esta Ley no podrá ser vetada ni necesitará de promulgación del Ejecutivo Esta
 
 De las Sesiones del Congreso.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 46.
 
-El Congreso tendrá dos períodos ordinarios de sesiones cada año. El primero iniciará el 1º de marzo y terminará a más tardar el 30 de junio. El segundo iniciará el 1º de octubre y concluirá a más tardar el 31 de diciembre. Estos períodos serán improrrogables.
+El Congreso tendrá dos períodos ordinarios de sesiones cada año. El primero iniciará el 1º de enero y terminará a más tardar el 30 de abril. El segundo iniciará el 1º de septiembre y concluirá a más tardar el 31 de diciembre. Estos períodos serán improrrogables.
 
-> <small>(REFORMADO, P.O. 22 DE ABRIL DE 1994)</small>
-
-Al renovarse el Congreso del Estado, los diputados electos concurrirán el día primero de enero del año inmediato posterior al de la elección, a efecto de iniciar el período de instalación de la Legislatura correspondiente.
+Al renovarse el Congreso del Estado, los diputados electos concurrirán a la sede oficial del Poder Legislativo, el día primero de enero del año inmediato posterior al de la elección, a efecto de proceder a la instalación de la Legislatura correspondiente, así como para que, dentro de los primeros quince días del período ordinario que se inicia en esa fecha y conforme a lo establecido en la Ley Orgánica del propio Congreso del Estado, realicen los demás trabajos relacionados con la organización y funcionamiento de la nueva legislatura.
 
 ###### Artículo 47.
 
@@ -842,7 +840,7 @@ Que el Congreso del Estado Independiente, Libre y Soberano de Coahuila de Zarago
 
 Dado en el Salón de Sesiones del Congreso del Estado.
 
-(lugar, fecha y firmas del Presidente y Secretarios).
+(Lugar, fecha y firmas del Presidente y Secretarios).
 
 IMPRIMASE, COMUNIQUESE Y OBSERVESE.
 
@@ -1140,11 +1138,11 @@ En el caso de que el Congrero (sic) del Estado se halle en receso, la Diputació
 
 De la Diputación Permanente.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 70.
 
-Durante los recesos del Congreso habrá una Diputación Permanente que se integrará con once diputados propietarios, de los cuales se nombrará un Presidente, un Vicepresidente, dos secretarios y siete vocales, además de once suplentes, los cuales se elegirán de entre los que estén en funciones un día antes de la clausura del período de sesiones o en el período de instalación de la legislatura, en la forma que determina la Ley.
+Cuando el Congreso no esté en período de sesiones, estará en funciones una Diputación Permanente que se integrará con once diputados propietarios, de los cuales se nombrará un Presidente, un Vicepresidente, dos secretarios y siete vocales, además de once suplentes, los cuales se elegirán de entre los que estén en funciones un día antes de la clausura del período de sesiones, en la forma que determina la Ley.
 
 ###### Artículo 71.
 
@@ -1790,7 +1788,7 @@ VI. Formular iniciativas de ley ante el Congreso del Estado, en materia de segur
 
 VII. Emitir los reglamentos, circulares y demás disposiciones administrativas que regulen los procedimientos, materias, funciones y servicios públicos de su competencia;
 
-VlIl. Dirigir y coordinar las funciones de la Policía del Estado Operativa e Investigadora; así como los demás organismos que señale la ley;
+VIII. Dirigir y coordinar las funciones de la Policía del Estado Operativa e Investigadora; así como los demás organismos que señale la ley;
 
 IX. Investigar, por sí o por conducto del personal de su dependencia, de oficio o con base en la denuncia o querella formulada, los hechos que puedan constituir delito;
 
@@ -1858,7 +1856,7 @@ I. Para la ocupación del cargo se requerirá:
 
 2. Haber cumplido treinta y cinco años de edad para el día de la designación;
 
-3. Poseer en la fecha de nombramiento, con antigüedad mínima de 10 años de práctica profesional, titulo oficial de licenciado en derecho, expedido por autoridad o institución legalmente facultada para ello y contar con cédula profesional que acredite su registro ante autoridad competente;
+3. Poseer en la fecha de nombramiento, con antigüedad mínima de 10 años de práctica profesional, título oficial de licenciado en derecho, expedido por autoridad o institución legalmente facultada para ello y contar con cédula profesional que acredite su registro ante autoridad competente;
 
 4. Gozar de buena reputación y no haber sido condenado por la comisión de delito doloso, y
 
@@ -2736,7 +2734,7 @@ El Municipio Libre es un orden constitucional de gobierno natural y autónomo, c
 
 ###### Artículo 158-C.
 
-La autonomía del Municipio Libre se expresa en la facultad de gobernar y administrar por sí los asuntos propios de su comunidad, en el ámbito de su competencia municipal y sin interferencia de otros poderes, salvo lo dispuesto por los artículos 21, 73, fracción XXIll y 115 de la Constitución Política de los Estados Unidos Mexicanos.
+La autonomía del Municipio Libre se expresa en la facultad de gobernar y administrar por sí los asuntos propios de su comunidad, en el ámbito de su competencia municipal y sin interferencia de otros poderes, salvo lo dispuesto por los artículos 21, 73, fracción XXIII y 115 de la Constitución Política de los Estados Unidos Mexicanos.
 
 > <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
 
@@ -3014,7 +3012,7 @@ Toda contribución que establezca el Congreso del Estado para integrar la hacien
 
 Para fijar la distribución de las participaciones o aportaciones federales y estatales a los Municipios, el Congreso del Estado deberá tomar en cuenta, por lo menos, los criterios de población, marginación social, desarrollo económico, esfuerzo recaudatorio y eficiencia de los servicios públicos, a fin de que la distribución de los ingresos a los Municipios genere un desarrollo integral armónico, sustentable y equitativo en todas las regiones del Estado, bajo los principios de fidelidad federal y municipal.
 
-ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE MARZO DE 2001)
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE MARZO DE 2001)</small>
 
 APARTADO TERCERO.
 
@@ -3238,7 +3236,7 @@ Derechos Sociales y Prevenciones Generales.
 
 ###### Artículo 159.
 
-Para los efectos de las responsabilidades a que alude este Título, se considerarán servidores públicos, los representantes de elección popular, los miembros del Poder Judicial y de la Fiscalía General, los funcionarios y empleados del Estado, y de los Municipios, y en general, toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la Administración Pública, Estatal o Municipal yen las entidades paraestatales y paramunicipales, así como a los servidores públicos de los organismos a los que esta Constitución otorga autonomía, quienes serán responsables por los actos y omisiones en que incurran en el desempeño de sus funciones.
+Para los efectos de las responsabilidades a que alude este Título, se considerarán servidores públicos, los representantes de elección popular, los miembros del Poder Judicial y de la Fiscalía General, los funcionarios y empleados del Estado, y de los Municipios, y en general, toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la Administración Pública, Estatal o Municipal y en las entidades paraestatales y paramunicipales, así como a los servidores públicos de los organismos a los que esta Constitución otorga autonomía, quienes serán responsables por los actos y omisiones en que incurran en el desempeño de sus funciones.
 
 > <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
@@ -4527,3 +4525,7 @@ SEGUNDO.- Las referencias que cualquier ordenamiento haga a la Secretaría de Fi
 TERCERO.- A partir de la entrada en vigor de este Decreto, las atribuciones relacionadas con la planeación financiera del Gobierno del Estado y coordinación correspondiente a las entidades paraestatales; el conocimiento e integración de las propuestas de gasto e inversión que formulen las Dependencias y Entidades de la administración pública estatal; la presentación al Ejecutivo del Estado para su aprobación de los programas de inversión pública y autorización de los proyectos derivados de los mismos; la autorización de los montos globales de inversión pública del estado; la programación y operación de recursos destinados a los programas de inversión pública de las dependencias del Ejecutivo, de sus organismos auxiliares y de las entidades paraestatales; el establecimiento y operación del sistema de seguimiento de los programas federales y estatales de inversión, conforme a las leyes y acuerdos de coordinación; y la representación del Ejecutivo en la celebración de negociaciones y convenios que involucren transferencias de fondos, ante la federación, los estados y entidades u organismos de los sectores paraestatal y privado, serán ejercidas por el Servicio de Administración Tributaria del Estado de Coahuila.
 
 CUARTO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
+
+P.O. 29 DE DICIEMBRE DE 2010.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
