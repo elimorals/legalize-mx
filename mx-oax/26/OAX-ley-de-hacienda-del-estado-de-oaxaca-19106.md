@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-hacienda-del-estado-de-oaxaca-19106"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-30"
-last_updated: "2009-12-30"
+last_updated: "2010-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19106&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE HACIENDA DEL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2010.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Oaxaca, el sábado 30 de diciembre del 2000.
 
@@ -49,9 +49,11 @@ Forman la Hacienda Pública del Estado de Oaxaca, los ingresos a que se refiere 
 
 A falta de disposición expresa, se aplicarán las previstas en el Código Fiscal del Estado y en su defecto, las contenidas en la legislación común, en lo que no se opongan a la naturaleza del derecho fiscal.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 2.
 
-En la Ley de Ingresos del Estado de Oaxaca, se establecerán anualmente los impuestos, derechos, contribuciones de mejoras, productos y aprovechamientos que deban recaudarse en el ejercicio fiscal de que se trate, así como las participaciones federales, incentivos por administración de ingresos federales y los fondos de aportaciones y subsidios federales que establezcan los ordenamientos, sistemas y convenios de coordinación, y otros ingresos extraordinarios contemplados en la Ley.
+En la Ley de Ingresos del Estado de Oaxaca, se establecerán anualmente los impuestos, contribuciones de mejoras, derechos y accesorios; los productos, aprovechamientos que deban recaudarse en el ejercicio fiscal de que se trate, así como los ingresos por ventas de bienes y servicios, participaciones, aportaciones, trasferencias, asignaciones, subsidios y otras ayudas, así como ingresos derivados de financiamientos.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE SEPTIEMBRE DE 2007)</small>
 
@@ -279,85 +281,421 @@ DE LAS EXCEPCIONES
 
 Tratándose de diversiones y espectáculos públicos que se celebren con fines de asistencia o interés social en forma general, el Titular del Poder Ejecutivo, a través de la Secretaría de Finanzas del Gobierno del Estado de Oaxaca, tendrá la facultad de exentar total o parcialmente del pago del impuesto. Para tal efecto los sujetos obligados deberán de solicitarlo por escrito a la Secretaría de Finanzas, con quince días de anticipación a la realización del acto.
 
-### CAPITULO IV. DEL IMPUESTO SOBRE TENENCIA O USO DE VEHICULOS
+> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE DICIEMBRE DEL 2001)</small>
+### CAPITULO IV. IMPUESTO SOBRE TENENCIA O USO DE VEHICULOS
 
-DEL OBJETO
+> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
-> <small>(REFORMADO Y REUBICADO, P.O. 30 DE DICIEMBRE DE 2001)</small>
+DISPOSICIONES GENERALES
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 24.
 
-Es objeto de este impuesto la tenencia o uso de vehículos automotores de más de 10 años del modelo original del vehículo a que se refiere el artículo 5 fracción V, de la Ley del Impuesto Sobre Tenencia o Uso de Vehículos.
+Están obligadas al pago del impuesto previsto en este Capítulo, las personas físicas y las morales tenedoras o usuarias de los vehículos a que el mismo se refiere, siempre que el Estado de Oaxaca expida placas de circulación en su jurisdicción territorial a dichos vehículos.
 
-Para los efectos de este impuesto, se considera que el propietario es tenedor o usuario del vehículo.
+Para los efectos de este Capítulo, se presume que el propietario es tenedor o usuario del vehículo.
 
-El año modelo del vehículo, es el de fabricación automotriz.
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE DICIEMBRE DE 2001)</small>
+ARTICULO 24 A.- Los contribuyentes pagarán el impuesto a que se refiere este Capítulo, por año de calendario, durante los tres primeros meses, ante las oficinas autorizadas, salvo que en el apartado correspondiente se establezca disposición en contrario.
 
-DE LOS SUJETOS
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+ARTICULO 24 B.- El impuesto se pagará en las oficinas en las que la Secretaría de Finanzas del Gobierno del Estado de Oaxaca autorice el registro, alta del vehículo o expida el permiso provisional para circulación en traslado de dicho vehículo. Para aquellos vehículos que circulen con placas de transporte público federal, el impuesto se pagará en las oficinas de la mencionada Secretaría, siempre y cuando el domicilio fiscal que el contribuyente tenga registrado ante la Secretaría de Hacienda y Crédito Público se encuentre dentro del territorio del Estado de Oaxaca.
+
+Los contribuyentes del impuesto a que se refiere este Capítulo, no están obligados a presentar, por dicha contribución, la solicitud de inscripción ni los avisos al registro estatal de contribuyentes. No obstante lo dispuesto en este párrafo, los contribuyentes que se encuentren inscritos en el citado registro para efectos del pago de otras contribuciones, deberán anotar su clave correspondiente en los formatos de pago de este impuesto.
+
+El pago antes mencionado se realizará de manera simultánea con los derechos por los servicios de control vehicular establecida en esta Ley.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 25.
 
-Son sujetos de este impuesto las personas físicas, morales o unidades económicas sin personalidad jurídica, que tengan la tenencia o uso de vehículos automotores de más de 10 años del modelo original del vehículo, y que su domicilio esté establecido dentro del territorio del Estado de Oaxaca.
+Para los efectos de este capítulo se considera como:
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE DICIEMBRE DE 2001)</small>
+I. Marca, las denominaciones y distintivos que los fabricantes de automóviles y camiones dan a sus vehículos para diferenciarlos de los demás;
 
-DE LA BASE
+II. Año Modelo, el año de fabricación o ejercicio automotriz comprendido por el período entre el 1 de octubre del año anterior y el 30 de septiembre del año que transcurra;
 
-> <small>(REFORMADO Y REUBICADO, P.O. 30 DE DICIEMBRE DE 2001)</small>
+III. Modelo todas aquellas versiones de la carrocería básica con dos, tres, cuatro o cinco puertas que se deriven de una misma línea. Por carrocería básica se entenderá, el conjunto de piezas metálicas o de plástico que configuran externamente a un vehículo y de las que derivan los diversos modelos;
+
+IV. Versión, cada una de las distintas presentaciones comerciales que tiene un modelo;
+
+V. Línea:
+
+a) Automóviles con motor de gasolina o gas hasta de 4 cilindros.
+
+b) Automóviles con motor de gasolina o gas de 6 u 8 cilindros.
+
+c) Automóviles con motor diesel.
+
+d) Camiones con motor de gasolina, gas o diesel.
+
+e) Tractores no agrícolas tipo quinta rueda.
+
+f) Autobuses integrales.
+
+g) Automóviles eléctricos.
+
+VI. Comerciantes en el ramo de vehículos, a las personas físicas y morales cuya actividad sea la importación y venta de vehículos nuevos o usados.
+
+VII. Vehículo nuevo:
+
+a) El que se enajena por primera vez al consumidor por el fabricante, ensamblador, distribuidor o comerciantes en el ramo de vehículos.
+
+b) El importado definitivamente al país que corresponda al año modelo posterior al de aplicación de este apartado, al año modelo en que se efectúe la importación o a los nueve años modelos inmediatos anteriores al año de la importación definitiva; y
+
+VIII. Valor total del vehículo, el precio de enajenación del fabricante, ensamblador, distribuidor autorizado, importador, empresas comerciales con registro ante la Secretaría de Economía como empresa para importar autos usados o comerciantes en el ramo de vehículos, según sea el caso, al consumidor, incluyendo el equipo que provenga de fábrica o el que el enajenante le adicione a solicitud del consumidor, incluyendo las contribuciones que se deban pagar con motivo de la importación, a excepción del impuesto al valor agregado.
+
+En el valor total del vehículo a que hace referencia el párrafo anterior, no se incluirán los intereses derivados de créditos otorgados para la adquisición del mismo. esta Ley.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+ARTICULO 25 A.- Son solidariamente responsables del pago del impuesto establecido en este Capítulo:
+
+I. Quienes por cualquier título adquieran la propiedad, tenencia o uso del vehículo, por el adeudo del impuesto previsto en este Capítulo, que en su caso existiera, aún cuando se trate de personas que no están obligadas al pago de dicha contribución.
+
+II. Quienes reciban vehículos en consignación o comisión, para su enajenación, por el adeudo del impuesto previsto en este Capítulo, que en su caso existiera; y
+
+III. Los servidores públicos competentes que autoricen el registro de vehículos, permisos provisionales para circulación en traslado, matrículas, altas, cambios o bajas de placas o efectúen la renovación de los mismos, sin haberse cerciorado que no existan adeudos por el impuesto previsto en este Capítulo, a favor del Estado de Oaxaca o del impuesto sobre tenencia o uso de vehículos previsto en la legislación federal, ya sea a favor de la Entidad, de otros Estados o de la Federación, según sea el caso, correspondiente a los últimos cinco años, salvo en los supuestos en que el contribuyente acredite que se encuentra liberado de la obligación que corresponda.
+
+Las autoridades competentes, solamente registrarán vehículos cuyos propietarios se encuentren domiciliados en el territorio del Estado de Oaxaca.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+ARTICULO 25 B.- Cuando por cualquier causa un vehículo cambie de propietario, salga de la posesión o deje de ser usado por la persona o nombre de quien está inscrito en el padrón vehicular estatal o dicho vehículo sea registrado en otra entidad federativa, dicha persona estará obligada a dar de baja el vehículo y placas de circulación del registro mencionado, debiendo cumplir con lo establecido en el artículo 42 de esta Ley y los que al efecto se consignen en la Ley de Ingresos del Estado de Oaxaca del ejercicio fiscal que corresponda.
+
+En caso de incumplimiento, será considerado responsable solidario del pago del impuesto a que se refiere este Capítulo.
+
+Cuando los particulares sean omisos en el cumplimiento de la obligación a que se refiere el primer párrafo de este precepto, el plazo a que se refiere el artículo 36 del Código Fiscal del Estado de Oaxaca, se computará a partir de la fecha en la que las autoridades fiscales tengan conocimiento del cambio de propietario, poseedor o usuario del vehículo en cuestión.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 26.
 
-Se tomará como base de este impuesto el cilindraje del motor y la capacidad de carga o transporte de pasajeros, para cuyo cálculo y determinación se aplicará la cuota correspondiente que se determine en la Ley de Ingresos del Estado de Oaxaca del ejercicio fiscal que corresponda.
+La Federación, el Distrito Federal, los Estados, los Municipios, sus organismos descentralizados o cualquier otra persona, deberán pagar el impuesto que establece este Capítulo, con las excepciones que en el mismo se señalan, aún cuando de conformidad con otras leyes o decretos no estén obligados a pagar impuestos o estén exentos de ellos.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 30 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
-DEL PAGO
+ARTICULO 26 A.- No se causará el impuesto a que se refiere este Capítulo por la tenencia o uso de los siguientes vehículos:
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2001)</small>
+I. Los eléctricos utilizados para el transporte público de personas;
 
-ARTICULO 26 A.- El pago del impuesto es anual y deberá ser enterado dentro de los tres primeros meses de cada ejercicio fiscal.
+II. Los importados temporalmente, en los términos de la legislación aduanera;
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 30 DE DICIEMBRE DE 2001)</small>
+III. Los vehículos de la Federación, Estados, Municipios y Distrito Federal y sus organismos descentralizados, que sean utilizados para la prestación de los servicios públicos de rescate, patrullas, transportes de limpia, pipas de agua, servicios funerarios y las ambulancias dependientes de cualquiera de esas entidades o de instituciones de beneficencia autorizadas por las leyes de la materia y los destinados a los cuerpos de bomberos;
 
-DE LOS RESPONSABLES SOLIDARIOS
+IV. Los automóviles al servicio de misiones Diplomáticas y Consulares de carrera extranjeras y de sus agentes diplomáticos y consulares de carrera, excluyendo a los cónsules generales honorarios, cónsules y vicecónsules honorarios, siempre que sea exclusivamente para uso oficial y exista reciprocidad;
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2001)</small>
+V. Los que tengan para su venta los fabricantes, las plantas ensambladoras, sus distribuidores y los comerciantes en el ramo de vehículos. Tratándose de automóviles, el impuesto no se causará, siempre que carezcan de placas de circulación;
 
-ARTICULO 26 B.- Son responsables solidarios del pago de este impuesto:
+VI. Las embarcaciones dedicadas al transporte marítimo;
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2007)</small>
+VII. Las aeronaves monomotoras de una plaza, fabricadas o adaptadas para fumigar, rociar o esparcir líquidos o sólidos, con tolva de carga; y
 
-I.- Quienes por cualquier título, adquieran la propiedad, tenencia o uso del vehículo, hasta por el monto del impuesto y sus accesorios que en su caso estuvieran pendientes de liquidar;
+VIII. Las aeronaves con capacidad de más de 20 pasajeros, destinadas al aerotransporte al público en general.
 
-II.- Quienes reciban en consignación o comisión, para su enajenación, los vehículos a que se refiere este capítulo, hasta por el momento del impuesto y sus accesorios, que hubieren dejado de pagar; y
+Cuando por cualquier motivo un vehículo deje de estar comprendido en los supuestos a que se refieren las fracciones anteriores, el tenedor o usuario del mismo deberá pagar el impuesto correspondiente, dentro de los 15 días siguientes a aquél en que tenga lugar el hecho de que se trate.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2007)</small>
+Los tenedores o usuarios de los vehículos a que se refieren las fracciones II y III de este artículo, deberán comprobar ante la Secretaría de Finanzas del Estado de Oaxaca que se encuentran comprendidos en dichos supuestos.
 
-III.- Los servidores públicos que en ejercicio de sus funciones autoricen el registro de vehículos, altas, cambio o baja de placas, sin cerciorarse del pago de este impuesto y sus accesorios legales correspondientes a los últimos cinco años.
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 30 DE DICIEMBRE DE 2001)</small>
+APARTADO A
 
-DE LAS EXENCIONES
+VEHÍCULOS DE DIEZ O MAS AÑOS MODELO ANTERIOR
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
-ARTICULO 26 C.- Están exentos del pago de este impuesto, los vehículos así considerados por la Ley del Impuesto sobre Tenencia o Uso de Vehículos.
+ARTICULO 26 B.- Los tenedores o usuarios de vehículos cuyo año modelo tenga más de diez años de antigüedad al ejercicio fiscal en curso, pagarán aplicando la tarifa que al efecto se consigne en la Ley de Ingresos del Estado de Oaxaca del ejercicio fiscal que corresponda.
 
-Cuando por cualquier motivo un vehículo deje de estar comprendido en los supuestos a que se refiere a la Ley del Impuesto sobre Tenencia o Uso de Vehículos, el tenedor o usuario deberá pagar el impuesto correspondiente dentro de los 15 días siguientes a aquel en que tenga lugar el hecho a que hace mención la referida Ley.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+ARTICULO 26 C.- Tratándose de aeronaves, hélice, turbohélice, reacción y helicópteros, cuyo modelo tenga más de 10 años de antigüedad al ejercicio fiscal en curso, pagarán aplicando la cuota que al efecto se consigne en la Ley de Ingresos del Estado de Oaxaca del ejercicio fiscal que corresponda, cuyo monto se actualizará con el factor a que se refiere el artículo 26-L de esta Ley.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+APARTADO B
+
+VEHICULOS NUEVOS Y DE HASTA NUEVE AÑOS MODELO ANTERIOR
+
+DISPOSICIONES GENERALES
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+ARTICULO 26 D.- En el caso de vehículos nuevos o importados, el impuesto deberá calcularse y enterarse en el momento en el cual se solicite el registro del vehículo, permiso provisional para circulación en traslado o alta del vehículo.
+
+Los importadores ocasionales efectuarán el pago del impuesto a que se refiere este Capítulo, correspondiente al primer año de calendario, en el momento en que soliciten el registro del vehículo de que se trate, ante las oficinas de la Secretaría de Finanzas del Gobierno del Estado de Oaxaca. Por el segundo y siguientes años de calendario, se estará a lo dispuesto en el artículo 24-A de esta Ley.
+
+Para los efectos del párrafo anterior, el impuesto se entenderá causado en el momento en el que queden a su disposición en la aduana, recinto fiscal o fiscalizado o en el caso de importación temporal al convertirse en definitiva.
+
+Las personas físicas o morales cuya actividad sea la enajenación de vehículos nuevos o importados al público, que asignen dichos vehículos a su servicio o al de sus funcionarios o empleados, deberán pagar el impuesto por el ejercicio en que hagan la asignación, en los términos previstos en el siguiente párrafo.
+
+En la enajenación o importación de vehículos nuevos de año modelo posterior al de aplicación del impuesto a que se refiere este apartado, se pagará el impuesto correspondiente al año de calendario en que se enajene o importe, según corresponda. El impuesto para dichos vehículos se determinará en el siguiente año de calendario bajo el criterio de vehículo nuevo.
+
+Para los efectos de este apartado, también se consideran automóviles a los ómnibuses, camiones y tractores no agrícolas tipo quinta rueda.
+
+En caso de que no puedan comprobarse los años de antigüedad del vehículo, el impuesto a que se refiere este apartado, se pagará como si éste fuese nuevo.
+
+Cuando la enajenación o importación de vehículos nuevos se efectúe después del primer mes del año de calendario, el impuesto causado por dicho año se pagará en la proporción que resulte de aplicar el factor correspondiente:
+
+Mes de Adquisición Factor aplicable al
+
+impuesto causado
+
+Febrero 0.92
+
+Marzo 0.83
+
+Abril 0.75
+
+Mayo 0.67
+
+Junio 0.58
+
+Julio 0.50
+
+Agosto 0.42
+
+Septiembre 0.33
+
+Octubre 0.25
+
+Noviembre 0.17
+
+Diciembre 0.08
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+ARTICULO 26 E.- Los contribuyentes comprobarán el pago del impuesto con el original de la forma por medio de la cual lo hayan efectuado.
+
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+#### SECCIÓN I. AUTOMÓVILES
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+ARTÍCULO 26 F.- Tratándose de automóviles, ómnibuses, camiones y tractores no agrícolas tipo quinta rueda, el impuesto se calculará como a continuación se indica:
+
+I. En el caso de automóviles nuevos, destinados al transporte hasta de quince pasajeros, el impuesto será la cantidad que resulte de aplicar al valor total del vehículo, la tarifa que al efecto se consigne en la Ley de Ingresos del Estado de Oaxaca del ejercicio fiscal que corresponda.
+
+Tratándose de automóviles blindados, excepto camiones, la tarifa a que se refiere esta fracción, se aplicará sobre el valor total del vehículo, sin incluir el valor del material utilizado para el blindaje. En ningún caso el impuesto que se tenga que pagar por dichos vehículos será mayor al que tendrían que pagarse por la versión de mayor precio de enajenación de un automóvil sin blindaje del mismo modelo y año. Cuando no exista vehículo sin blindar que corresponda al mismo modelo, año o versión del automóvil blindado, el impuesto para este último será la cantidad que resulte de aplicar al valor total del vehículo, la tarifa establecida en esta fracción, multiplicando el resultado por el factor de 0.80; y
+
+II. Para automóviles nuevos destinados al transporte de más de quince pasajeros o efectos cuyo peso bruto vehicular sea menor a 15 toneladas y para automóviles nuevos que cuenten con placas de servicio público de transporte de pasajeros y los denominados “taxis”, el impuesto será la cantidad que resulte de aplicar el porcentaje que al efecto se consigne en la Ley de Ingresos del Estado de Oaxaca del ejercicio fiscal que corresponda, al valor total del automóvil.
+
+Cuando el peso bruto vehicular sea de 15 a 35 toneladas, el impuesto se calculará multiplicando la cantidad que resulte de aplicar el porcentaje que al efecto se consigne en la Ley de Ingresos del Estado de Oaxaca del ejercicio fiscal que corresponda, al valor total del automóvil, por el factor fiscal que resulte de dividir el peso bruto máximo vehicular expresado en toneladas, entre 30. En el caso de que el peso sea mayor de 35 toneladas se tomará como peso bruto máximo vehicular esta cantidad.
+
+Para los efectos de esta fracción, peso bruto vehicular es el peso del vehículo totalmente equipado, incluyendo chasis, cabina, carrocería, unidad de arrastre y carga útil transportable.
+
+Para los efectos de este artículo, se entiende por vehículos destinados a transporte de más de 15 pasajeros o para el transporte de efectos, los camiones, vehículos Pick Up sin importar el peso bruto vehicular, tractores no agrícolas tipo quinta rueda, así como minibuses, microbuses y autobuses integrales, cualquiera que sea su tipo y peso bruto vehicular.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+#### SECCIÓN II. OTROS VEHÍCULOS
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+ARTICULO 26 G.- En esta sección se establecen las disposiciones aplicables a las aeronaves, embarcaciones, veleros, esquí acuático motorizado, motocicleta acuática, tabla de oleaje con motor, automóviles eléctricos y motocicleta.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+ARTICULO 26 H.- Tratándose de aeronaves nuevas, el impuesto será la cantidad que resulte de multiplicar el peso máximo, incluyendo la carga de la aeronave expresado en toneladas, por las cantidades que al efecto se consignen en la Ley de Ingresos del Estado de Oaxaca del ejercicio fiscal que corresponda.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+ARTICULO 26 I.- Tratándose de embarcaciones, veleros, esquís acuáticos motorizados, motocicletas acuáticas y tablas de oleaje con motor nuevos, el impuesto será la cantidad que resulte de aplicar al valor total del vehículo del que se trate el porcentaje que al efecto se consigne en la Ley de Ingresos del Estado de Oaxaca del ejercicio fiscal que corresponda.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+ARTICULO 26 J.- Tratándose de motocicletas nuevas, el impuesto se calculará aplicando el valor total de la motocicleta, la tarifa que al efecto se consigne en la Ley de Ingresos del Estado de Oaxaca del ejercicio fiscal que corresponda.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+ARTICULO 26 K.- Tratándose de automóviles eléctricos nuevos, así como de aquellos eléctricos nuevos que además cuenten con motor de combustión interna o con motor accionado por hidrógeno, el impuesto se pagará a la tasa que al efecto se establezca en la Ley de Ingresos del Estado de Oaxaca del ejercicio fiscal que corresponda.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+ARTICULO 26 L.- Para los efectos de lo dispuesto en los artículos 26 F, 26 H, 26-I y 26-J de esta Ley, los montos de las cantidades que en los mismos se señalan se actualizarán cuando el incremento porcentual acumulado del Índice Nacional de Precios al Consumidor desde el mes en que se actualizaron por última vez, exceda del 10%. Dicha actualización se llevará a cabo a partir del mes de enero del siguiente ejercicio fiscal a aquél en el que se haya dado dicho incremento, aplicando el factor correspondiente al período comprendido desde el mes en el que éstas se actualizaron por última vez y hasta el último mes del ejercicio en el que se exceda el porcentaje citado, mismo que se obtendrá de conformidad con el artículo 17 A del Código Fiscal de la Federación.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+ARTICULO 26 M.- Las autoridades competentes, para expedir los certificados de aeronavegabilidad o de inspección de seguridad a embarcaciones y los certificados de matrícula para las aeronaves, se abstendrán de expedirlos cuando el tenedor o usuario del vehículo no compruebe el pago del impuesto a que se refiere este apartado, a excepción de los casos en que se encuentre liberado de ese pago. De no comprobarse que se ha cumplido con la obligación de pago, dichas oficinas lo harán del conocimiento de las autoridades fiscales correspondientes.
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+#### SECCIÓN III. VEHÍCULOS USADOS
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+ARTICULO 26 N.- Tratándose de vehículos de fabricación nacional o importados, a que se refieren los artículos 26-F, fracción II y 26-K de esta Ley, así como de aeronaves, excepto automóviles destinados al transporte de hasta quince pasajeros, el impuesto será el que resulte de multiplicar el importe del impuesto causado en el ejercicio fiscal inmediato anterior por el factor que corresponda, conforme a los años de antigüedad del vehículo, de acuerdo con la siguiente:
+
+TABLA
+
+Años de Factor
+
+antigüedad
+
+1 0.900
+
+2 0.889
+
+3 0.875
+
+4 0.857
+
+5 0.833
+
+6 0.800
+
+7 0.750
+
+8 0.667
+
+9 0.500
+
+El resultado obtenido conforme al párrafo anterior, se actualizará de acuerdo con lo dispuesto en el artículo 26 L de esta Ley.
+
+Tratándose de automóviles de servicio particular que pasen a ser de servicio público de transporte denominados “taxis”, el impuesto a que se refiere este apartado se calculará, para el ejercicio fiscal siguiente a aquél en el que se dé esta circunstancia conforme al siguiente procedimiento:
+
+I. El valor total del automóvil se multiplicará por el factor de depreciación, de acuerdo al año modelo del vehículo, de conformidad con la tabla establecida en este artículo; y
+
+II. La cantidad obtenida conforme a la fracción anterior se actualizará de conformidad con lo dispuesto en el artículo 26-L de esta Ley, el resultado obtenido se multiplicará por el porcentaje que al efecto se consigne en la Ley de Ingresos del Estado de Oaxaca del ejercicio fiscal que corresponda.
+
+Para los efectos de este artículo, los años de antigüedad se calcularán con base en el número de años transcurridos a partir del año modelo al que corresponda el vehículo.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+ARTICULO 26 O.- Tratándose de automóviles de fabricación nacional o importada, de hasta nueve años modelo (sic) anteriores al de aplicación de este apartado, destinados al transporte de hasta quince pasajeros, el impuesto será el que resulte de aplicar el procedimiento siguiente:
+
+a) El valor total del automóvil se multiplicará por el factor de depreciación, de acuerdo al año modelo del vehículo, de conformidad con la siguiente:
+
+TABLA
+
+Años de Factor de
+
+Antigüedad depreciación
+
+1 0.850
+
+2 0.725
+
+3 0.600
+
+4 0.500
+
+5 0.400
+
+6 0.300
+
+7 0.225
+
+8 0.150
+
+9 0.075
+
+b) La cantidad obtenida conforme al inciso anterior, se actualizará de acuerdo con lo dispuesto en el artículo 26-L de esta Ley; al resultado se le aplicará la tarifa a que hace referencia el artículo 26-F de esta Ley.
+
+Para efectos de la depreciación y actualización a que se refiere este artículo, los años de antigüedad se calcularán con base en el número de años transcurridos a partir del año modelo al que corresponda el vehículo.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+ARTICULO 26 P.- Tratándose de embarcaciones, veleros, esquís acuáticos motorizados, motocicletas acuáticas y tablas de oleaje con motor, usados, el impuesto será el que resulte de aplicar el procedimiento siguiente:
+
+a) El valor total del vehículo de que se trate se multiplicará por el factor de depreciación de acuerdo al año modelo, de conformidad con la siguiente:
+
+TABLA
+
+Años de Factor de
+
+Antigüedad depreciación
+
+1 0.9250
+
+2 0.8500
+
+3 0.7875
+
+4 0.7250
+
+5 0.6625
+
+6 0.6000
+
+7 0.5500
+
+8 0.5000
+
+9 0.4500
+
+10 0.4000
+
+11 0.3500
+
+12 0.3000
+
+13 0.2625
+
+14 0.2250
+
+15 0.1875
+
+16 0.1500
+
+17 0.1125
+
+18 0.0750
+
+19 y siguientes 0.0375
+
+b) La cantidad obtenida conforme al inciso anterior, se actualizará de acuerdo con lo dispuesto en el artículo 26-L de esta Ley; al resultado se le aplicará la tasa a la que hace referencia el artículo 26-I de la misma.
+
+Para los efectos de la depreciación y actualización a que se refiere este artículo, los años de antigüedad se calcularán con base en el número de años transcurridos a partir del año modelo al que corresponda el vehículo.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+ARTICULO 26 Q.- Tratándose de motocicletas de fabricación nacional o importada, de hasta nueve años modelo anteriores al de aplicación de este apartado, el impuesto será el que resulte de aplicar el procedimiento siguiente:
+
+El valor total de la motocicleta se multiplicará por el factor de depreciación, de acuerdo al año modelo de la motocicleta, de conformidad con la siguiente:
+
+TABLA
+
+Años de Factor de
+
+Antigüedad depreciación
+
+1 0.9
+
+2 0.8
+
+3 0.7
+
+4 0.6
+
+5 0.5
+
+6 0.4
+
+7 0.3
+
+8 0.2
+
+9 0.1
+
+A la cantidad obtenida conforme al párrafo anterior, se le aplicará la tarifa a que hace referencia el artículo 26-J de esta Ley.
+
+Para efectos de la depreciación a que se refiere este artículo, los años de antigüedad se calcularán con base en el número de años transcurridos a partir del año modelo al que corresponda la motocicleta.
 
 ### CAPITULO V. DEL IMPUESTO SOBRE LA PRESTACION DE SERVICIOS DE HOSPEDAJE
 
 DEL OBJETO DEL IMPUESTO
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 27.
 
-Es objeto de este impuesto, el servicio de hospedaje que se reciba en hoteles, moteles, albergues, posadas, hosterías, mesones, campamentos, paraderos de casas rodantes y otros establecimientos que presten servicios de esta naturaleza.
+Es objeto de este impuesto, el servicio de hospedaje que se reciba en hoteles, moteles, albergues, posadas, hosterías, mesones, campamentos, paraderos de casas rodantes, casas de huéspedes y otros establecimientos que presten servicios de esta naturaleza, incluyendo los prestados bajo la modalidad de tiempo compartido.
 
 No se considerarán servicios de hospedaje, el albergue o alojamiento prestados por hospitales, clínicas, asilos, conventos, seminarios, internados y aquellos prestados por establecimientos con fines no lucrativos.
 
@@ -379,6 +717,10 @@ La base para el cálculo y determinación del impuesto, será el importe que se 
 
 No formará parte de la base del impuesto del importe de los pagos efectuados por concepto de alimentación y demás distintos a los de hospedaje, así como en ningún caso se considerará que el importe del Impuesto al Valor Agregado forma parte de la base de este impuesto.
 
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+Cuando los servicios de hospedaje incluyan servicios accesorios, tales como transporte, alimentación, lavandería, uso de instalaciones y otros similares, y en la documentación comprobatoria no se desglosen de tal forma que permitan acreditar la prestación de estos últimos, se entenderá que el valor de la contraprestación respectiva corresponde en su totalidad a servicios de hospedaje.
+
 DE LA TASA
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2001)</small>
@@ -397,6 +739,14 @@ Los sujetos obligados de este impuesto deberán pagarlo en el momento de liquida
 
 Los prestadores de los servicios a que hace referencia el artículo 27 de esta Ley deberán retener dicho impuesto al momento de hacer efectivo los importes señalados en el artículo 29 del mismo ordenamiento y enterarlo a la Secretaría de Finanzas con base en lo dispuesto por el artículo 33 de la presente Ley.
 
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+Son responsables solidarios del pago de este impuesto, los prestadores de los servicios de hospedaje.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+Los prestadores de servicios de hospedaje están obligados a enterar una cantidad equivalente a la que debieron retener en los términos de este Capítulo, aún cuando no hubieren hecho la retención correspondiente o no hayan recibido el pago de las contraprestaciones relativas al servicio prestado.
+
 ###### ARTICULO 32.
 
 (DEROGADO, P.O. 31 DE DICIEMBRE DE 2002)
@@ -408,6 +758,14 @@ Los prestadores de los servicios a que hace referencia el artículo 27 de esta L
 Los retenedores de este impuesto tendrán las siguientes obligaciones:
 
 I.- Enterar el importe del mismo mediante declaración bimestral definitiva a más tardar el día 17 de los meses de marzo; mayo; julio; septiembre; noviembre; y, enero del siguiente año, mediante las formas aprobadas por la Secretaría de Finanzas del Gobierno del Estado de Oaxaca y ante las oficinas autorizadas por la propia Secretaría de Finanzas.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+Tratándose de contribuyentes con establecimientos en diversos lugares del territorio del Estado, deberán presentar una sola declaración en la Oficina Recaudadora correspondiente a su domicilio fiscal, o bien, en las oficinas autorizadas que correspondan, acumulando en la misma el valor total de las operaciones realizadas en los diversos establecimientos y el total del impuesto retenido.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+Los sujetos obligados a presentar declaraciones periódicas de conformidad con esta fracción, las seguirán presentando, aún cuando no haya importe a pagar, en tanto no presenten los avisos que correspondan.
 
 II.- Presentar ante la Secretaría de Finanzas del Gobierno del Estado de Oaxaca a través de la Dirección de Ingresos o ante la Oficina Recaudadora correspondiente al domicilio fiscal, cuando así proceda, los siguientes avisos:
 
@@ -435,7 +793,9 @@ II.- No proporcione los comprobantes, registros y demás documentos que integren
 
 III.- Se imposibilite por cualquier medio, el conocimiento real del importe de las operaciones correspondientes a los servicios objeto de este impuesto.
 
-IV.- No se entere el impuesto retenido, dentro de los plazos establecidos en los artículos 31 y 32 de la presente Ley.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+IV.- No se entere el impuesto retenido, en un plazo de 30 días hábiles, posterior a la fecha de cumplimiento de la obligación.
 
 ###### ARTICULO 35.
 
@@ -469,6 +829,18 @@ DE LOS SUJETOS
 
 ARTICULO 36 A.- Están obligados al pago del impuesto sobre nóminas las personas físicas o morales y las unidades económicas sin personalidad jurídica que efectúen erogaciones por remuneración al trabajo de persona subordinada por los servicios prestados dentro del territorio del Estado de Oaxaca, bajo la dirección o dependencia de un patrón o de un tercero aún cuando éstos tengan su domicilio fuera del Estado.
 
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+Cuando el pago de las erogaciones por remuneraciones al trabajo de persona subordinada se realice a través de un intermediario laboral, cualquiera que sea la denominación que patrón e intermediarios asuman, ambos serán responsables solidarios entre sí, respecto del cumplimiento de las obligaciones contenidas en éste capítulo.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+Cuando una persona física o moral, en virtud de un contrato, cualquiera que sea su forma o denominación, como parte de las obligaciones contraídas, ponga a disposición trabajadores para que ejecuten los servicios o trabajos acordados bajo la dirección del beneficiario de los mismos, en las instalaciones que este determine, el beneficiario de los trabajos o servicios asumirá las obligaciones establecidas en este capítulo respecto del pago del impuesto sobre nómina, en relación con dichos trabajadores, en el supuesto de que la persona física o moral omita su cumplimiento.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+La responsabilidad solidaria subsistirá hasta en tanto el intermediario laboral cumpla con todas las obligaciones a que se encuentra sujeto en éste capítulo.
+
 > <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2002)</small>
 
 DEL OBJETO
@@ -476,6 +848,10 @@ DEL OBJETO
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2002)</small>
 
 ARTICULO 36 B.- Constituye el objeto de este impuesto, las erogaciones, en efectivo o en especie por concepto de remuneraciones al trabajo personal subordinado, incluyendo los pagos por concepto de cuota diaria, gratificaciones, percepciones, habitación, primas, comisiones, y cualquier prestación que se entregue al trabajador por su trabajo.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+Asimismo se consideran erogaciones por remuneraciones al trabajo personal subordinado los que la Ley del Impuesto sobre la Renta asimila a salarios.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2002)</small>
 
@@ -503,7 +879,7 @@ VI.- La alimentación y la habitación cuando no se proporcionen gratuitamente a
 
 La excepción establecida se limitará al 10% del salario del trabajador, para cada uno de los conceptos aludidos en el primer párrafo de esta fracción;
 
-VII.- Los premios por asistencia y puntualidad;
+VII.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 2010)
 
 VIII.- Las cantidades aportadas para fines sociales, considerándose como tales las entregadas para constituir fondos de algún plan de pensiones establecido por el patrón o derivado de la contratación colectiva. Los planes de pensiones serán solo los que reúnan los requisitos que establezca la Secretaría de Hacienda y Crédito Público;
 
@@ -537,7 +913,9 @@ Las personas físicas, morales o unidades económicas sin personalidad jurídica
 
 Las personas físicas o morales presentarán sus declaraciones o avisos de las autoridades fiscales del Estado, en las formas oficiales que al efecto apruebe la Secretaría de Finanzas del Gobierno del Estado de Oaxaca, mismas que deberán publicar en el Periódico Oficial del Gobierno del Estado.
 
-Los sujetos obligados que deban de presentar declaraciones periódicas de conformidad con las leyes fiscales estatales, las seguirán presentando aún cuando no haya pago a efectuar en tanto no presente los avisos que correspondan.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+Los sujetos obligados que deban de presentar declaraciones periódicas de conformidad con este capítulo, las seguirán presentando aún cuando no haya pago a efectuar en tanto no presente los avisos que correspondan.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2002)</small>
 
@@ -599,7 +977,11 @@ DE LAS OBLIGACIONES
 
 ARTICULO 36 G.- Los sujetos obligados al pago de este impuesto tendrán a su cargo, además de las que específicamente se consignan en este ordenamiento, las siguientes obligaciones:
 
-I. Registrarse en la Oficina Recaudadora de Rentas u Oficina autorizada por la Secretaría de Finanzas del Gobierno del Estado de Oaxaca, que corresponda a su domicilio fiscal, dentro del mes siguiente a la fecha de inicio de sus operaciones, en las formas oficiales autorizadas por la Secretaría de Finanzas.
+I.- Registrarse en la Oficina Recaudadora de Rentas u Oficina autorizada por la Secretaría de Finanzas del Gobierno del Estado de Oaxaca, que corresponda a su domicilio fiscal, dentro del mes siguiente a la fecha de inicio de sus operaciones, en las formas oficiales autorizadas por la Secretaría de Finanzas.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+Cuando el domicilio fiscal de las personas físicas, morales o unidades económicas sin personalidad jurídica, se encuentre ubicado fuera del territorio del Estado de Oaxaca, deberán señalar un domicilio dentro del Estado de Oaxaca para su registro.
 
 II.- Las personas físicas, morales o unidades económicas sin personalidad jurídica, cuyo domicilio fiscal y establecimientos se encuentren ubicados en el territorio del Estado de Oaxaca, deberán presentar una sola declaración en la Oficina Recaudadora de Rentas u Oficina autorizada por la Secretaría de Finanzas del Gobierno del Estado de Oaxaca, correspondiente a su domicilio fiscal, acumulando los pagos por la prestación de un servicio personal subordinado que efectúen tanto en el domicilio fiscal como en sus establecimientos.
 
@@ -607,9 +989,19 @@ III.- Cuando el domicilio fiscal de las personas físicas, morales o unidades ec
 
 IV.- Llevar el sistema de registros contables de conformidad con el Código Fiscal para el Estado de Oaxaca; y,
 
-V.- Las personas físicas, morales o unidades económicas sin personalidad jurídica, presentarán las declaraciones aún cuando no haya cantidad a pagar, en tanto no presenten el aviso correspondiente.
+V.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 2010)
 
-Para los efectos de esta Ley se considera establecimiento cualquier lugar de negocios en el que se desarrollen parcial o totalmente actividades empresariales, se presten servicios independientes, o se otorgue el uso o goce temporal de bienes. Se entenderá como establecimiento entre otros, las sucursales, agencias, oficinas, despachos, fábricas, talleres, instalaciones, minas, canteras, o cualquier lugar de exploración, extracción o explotación de recursos naturales, incluyendo bodegas o cualquier lugar en que el sujeto obligado tenga trabajadores a su servicio.
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+VI.- Están obligados a presentar declaración anual informativa dentro de los dos primeros meses del año, las personas físicas o morales y las unidades económicas sin personalidad jurídica que realicen los siguientes actos:
+
+a).- Presten servicios mediante los cuales proporcionen trabajadores a terceros cuyo domicilio se encuentre dentro o fuera del territorio del Estado.
+
+b).- Contraten en territorio del Estado, servicios mediante los cuales se le proporcione trabajadores.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+La presentación de declaraciones informativas a que refiere este artículo, se harán conforme a las reglas de carácter general que emita la autoridad fiscal competente, mismas que habrán de publicarse en el Periódico Oficial del Estado.
 
 ADICIONADO CON LOS TITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 26 DICIEMBRE DE 2005)
 
@@ -627,15 +1019,39 @@ ARTICULO 36 H.- Es objeto de este impuesto, las erogaciones que se efectúen por
 
 No son objeto de este impuesto los pagos correspondientes a:
 
-I Impuesto sobre Nóminas;
+I.- Impuesto sobre Nóminas;
 
-II Impuesto sobre Diversiones y Espectáculos Públicos, relativos a eventos cinematográficos, teatrales y de circo;
+II.- Impuesto sobre Diversiones y Espectáculos Públicos, relativos a eventos cinematográficos, teatrales y de circo;
 
-III Impuesto sobre Rifas, Sorteos, Loterías y Concursos;
+III.- Impuesto sobre Rifas, Sorteos, Loterías y Concursos;
 
-IV Impuesto sobre la Prestación de Servicios de Hospedaje; y,
+IV.- Impuesto sobre la Prestación de Servicios de Hospedaje; y, (sic)
 
-V Impuesto Cedular a los Ingresos por el Otorgamiento del Uso o Goce Temporal de Bienes Inmuebles.
+V.- Impuesto Cedular a los Ingresos por el Otorgamiento del Uso o Goce Temporal de Bienes Inmuebles;
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+VI.- Los derechos por Servicios de Vigilancia, Control y Evaluación;
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+VII.- Los derechos por los Servicios que prestan otras Dependencias y Entidades de la Administración Pública del Estado de Oaxaca;
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+VIII.- Los derechos por los Servicios que prestan los Talleres Gráficos del Gobierno del Estado de Oaxaca;
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+IX.- Los derechos por los Servicios que presta la Casa de la Cultura Oaxaqueña;
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+X.- Los derechos por el Uso de Bienes de Dominio Público; e
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+XI.- Impuesto sobre tenencia o uso de vehículos.
 
 > <small>(ADICIONADO, P.O. 26 DICIEMBRE DE 2005)</small>
 
@@ -767,6 +1183,10 @@ DEL PAGO
 
 ARTICULO 36 P.- Los contribuyentes que obtengan ingresos de los señalados en este Capítulo, efectuarán pagos bimestrales definitivos y enterarán el impuesto dentro de los primeros 17 días de los meses de marzo, mayo, julio, septiembre, noviembre y enero del siguiente año, ante la oficina Recaudadora de Rentas u oficina autorizada por la Secretaría de Finanzas del Gobierno del Estado de Oaxaca.
 
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+Los sujetos obligados a presentar declaraciones periódicas de conformidad con este artículo, las seguirán presentando, aún cuando no haya importe a pagar, en tanto no presenten los avisos que correspondan.
+
 > <small>(ADICIONADO CON EL TITULO Y ARTICULO QUE LO INTEGRA, P.O. 26 DICIEMBRE DE 2005)</small>
 
 DE LAS OBLIGACIONES
@@ -781,7 +1201,9 @@ II Llevar contabilidad de conformidad con el Código Fiscal para el Estado de Oa
 
 III Expedir comprobantes que reúnan los requisitos fiscales previstos en el Código Fiscal para el Estado de Oaxaca, por las contraprestaciones recibidas; y,
 
-IV. Presentar declaraciones en los términos del presente Capítulo.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+IV Presentar las declaraciones bimestrales definitivas en este impuesto de conformidad con las leyes fiscales estatales, mismas que seguirán presentando aún cuando no haya pago a efectuar en tanto no se presenten los avisos que correspondan.
 
 Cuando los ingresos a que se refiere este Capítulo sean percibidos a través de operaciones de fideicomiso, será la Institución fiduciaria la que cumpla con las obligaciones previstas en este artículo.
 
@@ -1011,7 +1433,7 @@ ARTICULO 53 G.- Estos derechos deberán ser pagados en la oficina Recaudadora de
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
-### CAPITULO XlII. POR LOS SERVICIOS QUE PRESTA LA SECRETARIA DE ADMINISTRACION
+### CAPITULO XIII. POR LOS SERVICIOS QUE PRESTA LA SECRETARIA DE ADMINISTRACION
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -1097,23 +1519,59 @@ ARTICULO 53 O.- Por los servicios que presta el Estado a través de otras depend
 
 ARTICULO 53 P.- Los derechos que correspondan deberán ser pagados en la Oficina Recaudadora de Rentas u Oficina autorizada por la Secretaría de Finanzas del Gobierno del Estado de Oaxaca.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+### CAPITULO XVIII
+
+POR LOS SERVICIOS QUE PRESTAN LOS TALLERES GRAFICOS DEL GOBIERNO DEL ESTADO.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+ARTICULO 53 Q.- Por los servicios que prestan los Talleres Gráficos de (sic) Gobierno del Estado se pagarán los derechos previstos en la Ley de Ingresos del Estado de Oaxaca del ejercicio fiscal que corresponda.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+ARTICULO 53 R.- Estos derechos deberán ser pagados en la oficina Recaudadora de Rentas u Oficina autorizada por la Secretaría de Finanzas del Poder Ejecutivo del Gobierno del Estado de Oaxaca.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+### CAPITULO XIX. POR LOS SERVICIOS QUE PRESTA LA CASA DE LA CULTURA OAXAQUEÑA
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+ARTICULO 53 S.- Por los servicios que presta la casa de la cultura oaxaqueña, se pagarán los derechos previstos en la Ley de Ingresos del Estado de Oaxaca, del ejercicio fiscal que corresponda.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+ARTICULO 53 T.- Los derechos que correspondan deberán ser pagados en la oficina Recaudadora de Rentas u oficina autorizada por la Secretaría de Finanzas del Gobierno del Estado de Oaxaca.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+### CAPITULO XX. POR EL USO DE BIENES DE DOMINO PUBLICO
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+ARTICULO 53 U.- Por el uso de bienes de dominio público, se pagarán los derechos previstos en la Ley de Ingresos del Estado de Oaxaca, del ejercicio fiscal que corresponda.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+ARTICULO 53 V.- Estos derechos deberán ser pagados en la oficina Recaudadora de Rentas u Oficina autorizada por la Secretaría de Finanzas del Poder Ejecutivo del Gobierno del Estado de Oaxaca.
+
 DISPOSICION GENERAL
 
-### CAPITULO UNICO. DEL SANEAMIENTO
-
-### CAPITULO UNICO
-
-### CAPITULO UNICO
-
-### CAPITULO UNICO
+### CAPITULO UNICO. POR OBRAS PUBLICAS
 
 ###### ARTICULO 54.
 
 Tratándose de los derechos a que se refiere el Título Tercero de esta Ley, que se causen con fines de asistencia o interés social, el Titular del Poder Ejecutivo, a través de la Secretaría de Finanzas del Gobierno del Estado de Oaxaca, tendrá la facultad de reducir y condonar los mismos. Para tal efecto los sujetos obligados deberán de solicitarlo previamente por escrito a la Secretaría de Finanzas.
 
+> <small>(REFORMADA SU DENOMINACION [N. DE E. REPUBLICADA], P.O. 29 DE DICIEMBRE DE 2010)</small>
+
 ## TITULO CUARTO. CONTRIBUCIONES DE MEJORAS
 
-### CAPITULO I. DE LOS FONDOS DE APORTACIONES FEDERALES
+> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+### CAPITULO UNICO
 
 ###### ARTICULO 55.
 
@@ -1121,17 +1579,19 @@ Los costos de las obras de infraestructura necesarias para realizar las conexion
 
 Para el caso de que no se publiquen cuotas específicas de recuperación para alguna obra determinada o no se celebren con anterioridad a la ejecución de la misma, convenios con los usuarios o propietarios de los predios, se aplicará la tarifa que se establezca en la Ley de Ingresos del Estado de Oaxaca del ejercicio fiscal que corresponda.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 56.
 
-Las cuotas que por estos conceptos corresponda cubrir a los particulares beneficiados con las obras de saneamiento, tendrán el carácter de créditos fiscales y constituirán gravámenes reales sobre los inmuebles beneficiados con tales obras; por lo tanto, serán pagadas preferentemente con el valor de los inmuebles y en las mismas condiciones de los adeudos provenientes de impuestos.
+Las cuotas que por estos conceptos corresponda cubrir a los particulares beneficiados con las obras públicas, tendrán el carácter de créditos fiscales y constituirán gravámenes reales sobre los inmuebles beneficiados con tales obras; por lo tanto, serán pagadas preferentemente con el valor de los inmuebles y en las mismas condiciones de los adeudos provenientes de impuestos.
 
 La recaudación de las cuotas o derechos por este concepto, corresponde a la Secretaría de Finanzas del Gobierno del Estado de Oaxaca, la cual por los medios legales las hará efectivas y las aplicará a los fines específicos que les corresponda, debiendo de llevar en cada caso una cuenta especial.
 
 ## TITULO QUINTO. DE LOS PRODUCTOS
 
-### CAPITULO II. DE LOS SUBSIDIOS FEDERALES
+### CAPITULO UNICO
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 57.
 
@@ -1139,11 +1599,15 @@ Quedan comprendidos dentro de este capítulo, los ingresos que obtenga el Estado
 
 I.- De la venta de papel para actos del Registro Civil.
 
-II.- Ventas de bienes muebles e inmuebles propiedad del Estado.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
-III.- Arrendamiento de bienes muebles e inmuebles del Estado.
+II.- Por el uso, aprovechamiento o enajenación de bienes del dominio privado del Estado.
 
-IV.- Por publicaciones y venta del Periódico Oficial del Estado.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+III.- Por los rendimientos financieros.
+
+IV.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 58.
 
@@ -1153,55 +1617,71 @@ Los productos por conceptos diversos de los señalados en el artículo que antec
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 59.
 
-Dentro de este capítulo, quedan comprendidos los ingresos ordinarios del Estado, no clasificables como impuestos, derechos, contribuciones de mejoras y productos, entre los que se encuentran:
+Dentro de este capítulo, quedan comprendidos los ingresos que percibe el Estado por funciones de derecho público, distintos de las contribuciones, de los ingresos derivados de financiamientos y de los que obtengan los organismos descentralizados y las empresas de participación estatal mismas que se clasifican de la siguiente manera:
 
-I.- Multas.
+I. Aprovechamientos de tipo corriente;
 
-II.- Recargos.
+II. Aprovechamientos de capital; y,
 
-III.- Bienes mostrencos.
+III. Aprovechamientos no comprendidos en las fracciones de la Ley de Ingresos causadas en ejercicios fiscales anteriores pendientes de liquidación o pago.
 
-IV.- Cauciones cuya pérdida haya sido declarada por autoridad competente.
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
-V.- El 20% de los tesoros descubiertos.
+## TITULO SEXTO BIS. DE LOS INGRESOS POR VENTAS DE BIENES Y SERVICIOS
 
-VI.- Herencias, legados o donaciones a favor del fisco o de otras instituciones que dependan del Gobierno del Estado.
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
-VII.- Reintegros diversos.
+ARTICULO 59 A.- Quedan comprendidos dentro de este Título los recursos propios que obtienen las diversas entidades que conforman el sector paraestatal y gobierno central por sus actividades de producción y/o comercialización, entre los cuales se encuentran:
 
-VIII.- Aprovechamientos diversos.
+I. Ingresos por ventas de bienes y servicios de organismos descentralizados;
 
-## TITULO SEPTIMO. DE LAS PARTICIPACIONES E INCENTIVOS FEDERALES
+II. Ingresos de operación de entidades paraestatales empresariales; e,
 
-## TITULO OCTAVO. DE LOS FONDOS DE APORTACIONES Y SUBSIDIOS FEDERALES
+III. Ingresos por ventas de bienes y servicios producidos en establecimientos del gobierno central.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+## TITULO SEPTIMO. DE LAS PARTICIPACIONES Y APORTACIONES
+
+### CAPITULO UNICO
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 60.
 
-Son ingresos por Participaciones Federales e Incentivos por Administración de Ingresos Federales, los que se derivan de la Ley de Coordinación Fiscal a favor del Estado, como resultado de la adhesión al Sistema Nacional de Coordinación Fiscal y al Convenio de Colaboración Administrativa en Materia Fiscal Federal, respectivamente.
+Son los recursos que por disposición de la Ley de Coordinación Fiscal le corresponden al Estado y Municipios de la Entidad; incluye los recursos destinados a la ejecución de programas federales que mediante la reasignación de recursos presupuestarios se obtiene en los términos de los Convenios que celebre el Gobierno del Estado con la Federación.
 
-## TITULO NOVENO. DE LOS INGRESOS EXTRAORDINARIOS
+> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+## TITULO OCTAVO. TRANSFERENCIAS, ASIGNACIONES, SUBSIDIOS Y OTRAS AYUDAS
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES CAPITULO I], P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+### CAPITULO II (SIC). DE LOS SUBSIDIOS FEDERALES
 
 ###### ARTICULO 61.
 
-Los fondos de Aportaciones Federales son recursos que percibe el Estado y en su caso los Municipios, conforme a lo que establece el Capítulo V de la Ley de Coordinación Fiscal y el Ramo 33 del Presupuesto de Egresos de la Federación.
+Son los recursos destinados en forma directa o indirecta a los sectores públicos, privado y externo, organismos y empresas paraestatales y apoyos como parte de su política económica y social, de acuerdo a las estrategias y prioridades de desarrollo para el sostenimiento y desempeño de sus actividades.
+
+### CAPITULO UNICO
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 62.
 
-Son subsidios federales los recursos que percibe el estado para el desarrollo de actividades prioritarias de interés general.
+(DEROGADO, P.O. 29 DE DICIEMBRE DE 2010)
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+## TITULO NOVENO. INGRESOS DERIVADOS DE FINANCIAMIENTOS
 
 ###### ARTICULO 63.
 
-Bajo el concepto de ingresos extraordinarios se consideran:
-
-I.- Los que con ese carácter y excepcionalmente decrete la Legislatura del Estado, para el pago de obras o servicios accidentales.
-
-II.- Los que proceden de prestamos, financiamientos y obligaciones que adquiera el Ejecutivo a través de la Secretaría de Finanzas del Gobierno del Estado para fines extraordinarios y de interés público.
-
-III.- Aportaciones del Gobierno Federal distintas de las participaciones.
-
-IV.- Cualesquiera otros no especificados.
+Son ingresos derivados de financiamientos los obtenidos por la celebración de empréstitos autorizados por el H. Congreso del Estado. Siendo principalmente los créditos por instrumento de emisiones en los mercados nacionales e internacionales de capital, organismos financieros internacionales y otras fuentes. Asimismo, incluye los financiamientos derivados de la aplicación de activos financieros.
 
 ## TRANSITORIOS
 
@@ -1292,3 +1772,7 @@ P.O. 29 DE DICIEMBRE DE 2008.
 P.O. 30 DE DICIEMBRE DE 2009.
 
 ÚNICO.- El presente Decreto entrará en vigor a partir del día 1 de enero del año 2010, previa publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 29 DE DICIEMBRE DE 2010.
+
+ÚNICO.- El presente Decreto entrará en vigor a partir del día 1 de enero del año 2011.
