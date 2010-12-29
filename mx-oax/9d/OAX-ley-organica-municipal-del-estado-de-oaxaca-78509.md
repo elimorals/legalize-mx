@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-municipal-del-estado-de-oaxaca-78509"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-11-30"
-last_updated: "2010-11-30"
+last_updated: "2010-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ORGANICA MUNICIPAL DEL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el martes 30 de noviembre de 2010.
 
@@ -501,9 +501,13 @@ LXI.- Enajenar y dar en arrendamiento, usufructo o comodato los bienes del Munic
 
 LXII.- Otorgar poderes para pleitos y cobranzas a propuesta del Síndico cuando sea necesario;
 
-LXIII.- Formular y desarrollar programas de atención a personas con capacidades diferentes y senescentes en el marco de los sistemas nacional y estatal de salud y conforme a sus principios y objetivos; para tal efecto, deberán celebrar los convenios necesarios para observar y prever facilidades urbanísticas y arquitectónicas, supresión de obstáculos viales y el cumplimiento de la ley estatal de la materia;
+LXIII.- Formular y desarrollar programas de atención a personas con capacidades diferentes y senescentes en el marco de los sistemas nacional y estatal de salud y conforme a sus principios y objetivos; para tal efecto, deberán celebrar los convenios necesarios para observar y prever facilidades urbanisticas y arquitectónicas, supresión de obstáculos viales y el cumplimiento de la ley estatal de la materia;
 
 LXIV.- Acordar las remuneraciones de sus miembros en términos de esta Ley;
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+La remuneración de los Concejales y demás servidores públicos municipales, se fijará por el Ayuntamiento en el Presupuesto de Egresos del Municipio, atendiendo las bases del artículo 138 de la Constitución Política del Estado Libre y Soberano de Oaxaca;
 
 LXV.- Las demás que les señalen las leyes y reglamentos municipales.
 
@@ -1892,3 +1896,9 @@ DR. EVENCIO NICOLÁS MARTÍNEZ RAMÍREZ.
 Al C.
 
 NOTA: Las presentes firmas corresponden al Decreto No. 2107, aprobado por la Sexagésima Legislatura Constitucional del Estado Libre y Soberano de Oaxaca, mediante el cual se aprueba la Ley Orgánica Municipal del Estado de Oaxaca.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 29 DE DICIEMBRE DE 2010.
+
+UNICO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
