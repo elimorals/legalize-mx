@@ -4,7 +4,7 @@ identifier: "COA-ley-de-ingresos-del-estado-para-el-ejercicio-fiscal-2010-71329"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2009-12-11"
-last_updated: "2009-12-11"
+last_updated: "2010-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71329&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE INGRESOS DEL ESTADO PARA EL EJERCICIO FISCAL 2010
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2010.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 11 de diciembre de 2009.
 
@@ -159,37 +159,53 @@ Cuando se autorice el pago de contribuciones en forma diferida o en parcialidade
 
 Cuando no se cubran las contribuciones en la fecha o dentro de los plazos fijados por las disposiciones fiscales, se pagarán recargos por concepto de indemnización al fisco estatal a razón del 2% por cada mes o fracción que transcurra, a partir del día en que debió hacerse el pago y hasta que el mismo se efectúe.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 6.
 
-Se autoriza al Gobierno del Estado para que, por conducto de la Secretaría de Finanzas contrate y/o ejerza los créditos que fueron autorizados por el H. Congreso del Estado mediante Decreto No. 510, publicado en el Periódico Oficial del Gobierno del Estado en fecha 11 de julio de 2008 y en su caso, modifique los contratos celebrados al amparo de dicha autorización, en los términos de la Ley de Deuda Pública para el Estado de Coahuila de Zaragoza.
+Se autoriza al Gobierno del Estado para que, por conducto de la Tesorería General del Estado y/o del Servicio de Administración Tributaria del Estado de Coahuila contrate y/o ejerza los créditos que fueron autorizados por el H. Congreso del Estado mediante Decreto N° 510, publicado en el Periódico Oficial del Gobierno del Estado en fecha 11 de julio de 2008 y en su caso, modifique los contratos celebrados al amparo de dicha autorización, en los términos de la Ley de Deuda Pública para el Estado de Coahuila de Zaragoza.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 7.
 
-Se autoriza al Gobierno del Estado para que, por conducto de la Secretaría de Finanzas contrate y/o ejerza líneas de crédito hasta por la cantidad de $1,753'000,000.00 (MIL SETECIENTOS CINCUENTA Y TRES MIL MILLONES DE PESOS 00/100 M.N.).
+Se autoriza al Gobierno del Estado para que, por conducto de la Tesorería General del Estado y/o del Servicio de Administración Tributaria del Estado de Coahuila. contrate y/o ejerza líneas de créditos hasta por la cantidad de $1'753,000,0000.00 (MIL SETECIENTOS CINCUENTA Y TRES MILLONES DE PESOS 00/100 MN).
 
-El Ejecutivo del Estado, por medio de la Secretaría de Finanzas, deberá dar cuenta al Congreso del Estado del ejercicio que realice conforme a la autorización que se otorga en este artículo.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+El Ejecutivo del Estado, por medio de la Tesorería General del Estado y/o del Servicio de Administración Tributaria del Estado de Coahuila, según corresponda, deberán dar cuenta al Congreso del Estado del ejercicio que realice conforme a la autorización que se otorgue en este artículo.
 
 Los créditos que se contraten con base en la presente autorización deberán destinarse a la ejecución de los programas de inversión y obra pública.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 8.
 
-Se autoriza al Ejecutivo del Estado para que, por conducto del Secretario de Finanzas, afecte en garantía y/o fuente de pago de todas y cada una de las obligaciones que contraiga por los créditos o empréstitos que contrate como deudor directo o contingente en términos de los artículos 6 y 7 de esta Ley, las participaciones que en ingresos federales le correspondan al Estado, sin perjuicio de afectaciones anteriores.
+Se autoriza al Ejecutivo del Estado para que, por conducto de la Tesorería General del Estado y/o del Servicio de Administración Tributaria del Estado de Coahuila, afecte en garantía y/o fuente de pago de todas y cada una de las obligaciones que contraiga por los créditos o empréstitos que contrate como deudor directo o contingente en términos de los artículos 6 y 7 de esta Ley, las participaciones que en ingresos federales le correspondan al Estado, sin perjuicio de afectaciones anteriores.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 9.
 
-Se autoriza al Ejecutivo del Estado para que, por conducto de la Secretaría de Finanzas, realice operaciones bursátiles, emita bonos y/o certificados de deuda pública, que podrá colocar en el mercado de valores bajo las mejores condiciones que prevalezcan en el mercado al momento de su colocación.
+Se autoriza al Ejecutivo del Estado para que. por conducto de la Tesorería General del Estado y/o del Servicio de Administración Tributaria del Estado de Coahuila, realice operaciones bursátiles, emita bonos y/o certificados de deuda pública, que podrá colocar en el mercado de valores bajo las mejores condiciones que prevalezcan en el mercado al momento de su colocación.
 
-Para efectos del párrafo anterior, se autoriza a la Secretaría de Finanzas para que previo acuerdo del Titular del Ejecutivo, la recaudación que se obtenga de la aplicación de cualquier contribución, pueda ser utilizada total o parcialmente a fomentar el desarrollo económico del Estado, a generar condiciones para la creación de más empleos, con las organizaciones productivas del Estado y a ser utilizada como fuente de pago y/o garantía de deuda pública del Estado.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+Para efectos del párrafo anterior, se autoriza a la Tesorería General del Estado y/o Servicio de Administración Tributaria del Estado de Coahuila para que previo acuerdo del Titular del Ejecutivo, la recaudación que se obtenga de la aplicación de cualquier contribución pueda ser utilizada total o parcialmente a fomentar el desarrollo económico del Estado, a generar condiciones para la creación de más empleos, con las organizaciones productivas del Estado y a ser utilizada como garantía de deuda pública y/o fuente de pago.
 
 El Ejecutivo del Estado al presentar la Cuenta Pública informará al Congreso del Estado respecto del monto obtenido por la recaudación de la contribución y en su caso, de su aplicación.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 10.
 
-Se autoriza al Ejecutivo del Estado para que, por conducto del Secretario de Finanzas, cuando sea procedente, otorgue el aval del Gobierno del Estado y afecte las participaciones que en Ingresos Federales le correspondan, en garantía y/o fuente de pago, de todas y cada una de las obligaciones solidarias que contraiga, por los créditos o empréstitos que autorice el Congreso del Estado a contratar a los municipios o a las entidades de la Administración Pública Paraestatal o de los Municipios, en términos de la Ley de Deuda Pública para el Estado de Coahuila de Zaragoza.
+Se autoriza al Ejecutivo del listado para que, por conducto de la Tesorería General del Estado, y/o del Servicio de Administración Tributaria del Estado de Coahuila, cuando sea procedente, otorgue el aval del Gobierno del Estado y afecte las participaciones que en ingresos federales le correspondan en garantía y/o fuente de pago, de todas y cada una de las obligaciones solidarias que contraiga, por los créditos o empréstitos que autorice el Congreso del Estado a contratar a los Municipios o a las entidades de la Administración Pública Paraestatal o Paramunicipal, en términos de la Ley de Deuda Pública para el Estado de Coahuila de Zaragoza.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 11.
 
-La Secretaría de Finanzas podrá condonar total o parcialmente los recargos de contribuciones Estatales que se hubieren causado por los ejercicios 2009 y anteriores.
+El Servicio de Administración Tributaria del Estado de Coahuila podrá condonar total o parcialmente los recargos de contribuciones estatales que se hubieren causado por los ejercicios 2009 y anteriores.
 
 I.- La condonación a que se refiere este artículo, se autorizará cuando:
 
@@ -205,9 +221,11 @@ Sólo procederá la condonación de recargos correspondientes a créditos fiscal
 
 Lo previsto en este artículo no constituye instancia y no reinicia, interrumpe o suspende la interposición de los medios de defensa que pudieren hacerse valer en contra de los créditos fiscales que hubiesen dado lugar a la causación de los recargos a que se refiere este precepto.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 12.
 
-La Secretaría de Finanzas podrá cancelar créditos fiscales por razones de incosteabilidad en el cobro o por insolvencia del deudor o de los responsables solidarios.
+El Servicio de Administración Tributaria del Estado de Coahuila podrá cancelar créditos fiscales por razones de incosteabilidad en el cobro o por insolvencia del deudor o de los responsables solidarios.
 
 Se consideran créditos de cobro incosteable, aquellos cuyo importe sea inferior o igual a 200 unidades de inversión y aquellos cuyo costo de recuperación rebase el 75% del importe del crédito.
 
@@ -215,9 +233,11 @@ Cuando el deudor tenga dos o más créditos a su cargo, todos ellos se sumarán 
 
 Se consideran insolventes los deudores o los responsables solidarios cuando no tengan bienes para cubrir el crédito, cuando éstos no se puedan localizar o cuando hubieran fallecido sin dejar bienes que puedan ser objeto del procedimiento administrativo de ejecución.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 13.
 
-La Secretaría de Finanzas, los organismos públicos descentralizados y demás entidades públicas del Ejecutivo del Estado, tendrán la obligación de publicar en sus respectivas páginas de internet, la información y documentos necesarios, en términos del artículo 24 de la Ley de Acceso a la Información Pública y Protección de Datos Personales del Estado de Coahuila.
+La Tesorería General del Estado, los organismos públicos descentralizados y demás entidades públicas del Ejecutivo del Estado, tendrán la obligación de publicar en sus respectivas páginas de Internet, la información y documentos necesarios, en términos del artículo 15 de la Ley de Acceso a la Información Pública del Estado de Coahuila de Zaragoza.
 
 T R A N S I T O R I O S
 
@@ -550,3 +570,19 @@ EXCEDENTES Y
 FINANCIAMIENTOS $ - 0.0%
 
 T O T A L $29.711.856 100%
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 29 DE DICIEMBRE DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto deberá publicarse en el Periódico Oficial del Gobierno del Estado y entrará en vigor al día siguiente de su publicación.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que contravengan lo dispuesto en el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Publíquese en el Periódico Oficial del Gobierno del Estado.
