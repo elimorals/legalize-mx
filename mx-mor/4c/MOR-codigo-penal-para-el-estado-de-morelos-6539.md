@@ -4,7 +4,7 @@ identifier: "MOR-codigo-penal-para-el-estado-de-morelos-6539"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-10-09"
-last_updated: "2010-10-20"
+last_updated: "2010-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6539&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CODIGO PENAL PARA EL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE OCTUBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2010.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 9 de octubre de 1996.
 
@@ -105,7 +105,7 @@ Puesto que las causas mencionadas excluyen la existencia del delito, y habida cu
 
 6.- El Título Cuarto del Libro Primero regula uno de los temas más relevantes del Derecho penal, en el que se expresan las convicciones sociales acerca del control social por la más intensa vía jurídica: la sanción. El Código se refiere precisamente a sanciones, consecuencias jurídicas de la conducta antisocial, sin tomar partido, que sería innecesario, en el deslinde entre penas y medidas de seguridad. Por supuesto, en el conjunto campea la idea de readaptación social, considerando la terminante norma constitucional que dispone organizar el sistema penal en el sentido de la readaptación social del delincuente (segundo párrafo del artículo 18). Esta es una de las más importantes guías para el quehacer punitivo del Estado.
 
-En el primer Capítulo de ese Título figura el catálogo de sanciones: tanto las tradicionales como las renovadas, y aquellas otras que sólo recientemente han ingresado en el Derecho mexicano, principalmente por obra de las reformas penales y penitenciarias de los últimos lustros (artículo 26). Queda claro que los llamados sustitutivos de la pena privativa de libertad pueden funcionar, asimismo, como penas autónomas en aquellos casos que determina el Libro Segundo del Código. Así se recoge una sana tendencia abierta por el proyecto de (sic) Código Penal para Veracruz del Instituto Nacional de Ciencias Penales, en 1979, y proseguida por el ordenamiento de esa entidad y por las reformas de 1983 al Código de la Federación y el Distrito Federal.
+En el primer Capítulo de ese Título figura el catálogo de sanciones: tanto las tradicionales como las renovadas, y aquellas otras que sólo recientemente han ingresado en el Derecho mexicano, principalmente por obra de las reformas penales y penitenciarias de los últimos lustros (artículo 26). Queda claro que los llamados sustitutivos de la pena privativa de libertad pueden funcionar, asimismo, como penas autónomas en aquellos casos que determina el Libro Segundo del Código. Así se recoge una sana tendencia abierta por el proyecto de Código Penal para Veracruz del Instituto Nacional de Ciencias Penales, en 1979, y proseguida por el ordenamiento de esa entidad y por las reformas de 1983 al Código de la Federación y el Distrito Federal.
 
 Se considera que la pena de prisión no debe tener una duración excesivamente breve, que la convierte en medida inoperante o injusta, ni prolongarse en forma excesiva. De ahí que fije sus extremos en tres meses, por lo menos, y cuarenta años, cuando más (artículo 29).
 
@@ -275,7 +275,7 @@ Es absolutamente necesario evitar el aprovechamiento del delito como medio para 
 
 Con el propósito de racionalizar el empleo de la vía penal, moderando su uso y consecuencias, se previenen casos de exención de sanciones o de reducción considerable de éstas, cuando tal cosa resulta aconsejable en función de los intereses prevalecientes del ofendido o de la sociedad. En estas hipótesis se toma en cuenta, como factor principal, la restitución del objeto mal habido y la reparación de daños y perjuicios (artículo 199).
 
-El Título Decimoprimero se refiere a los delitos contra la familia o el orden familiar. Aquí aparecen tipos que tutelan diversos bienes jurídicos, todos ellos vinculados con la subsistencia y la salud de la familia. Es el caso de la figura de incumplimiento de las obligaciones de asistencia familiar, que no se sanciona con prisión, sino con semilibertad (artículo 201), para evitar que la sanción agrave las circunstancias que dieron lugar al incumplimiento, lo cual redundaría, de nueva cuenta, en perjuicio de la víctima. El mismo propósito tutelar del ofendido rige el sistema de querella y extinción de la pretensión punitiva y de la potestad ejecutiva en este caso (artículo 202).
+El Título Decimoprimero se refiere a los delitos contra la familia o el orden familiar. Aquí aparecen tipos que tutelan diversos bienes jurídicos, todos ellos vinculados con la subsistencia y la salud de la familia. Es el caso de la figura de incumplimiento de la obligaciones de asistencia familiar, que no se sanciona con prisión, sino con semilibertad (artículo 201), para evitar que la sanción agrave las circunstancias que dieron lugar al incumplimiento, lo cual redundaría, de nueva cuenta, en perjuicio de la víctima. El mismo propósito tutelar del ofendido rige el sistema de querella y extinción de la pretensión punitiva y de la potestad ejecutiva en este caso (artículo 202).
 
 Además de los supuestos, bien conocidos, de sustracción o retención indebida de menores, tráfico de éstos que no se denomina "robo de infante", pues no se trata de la sustracción de un bien mueble, delitos contra la filiación y el estado civil y bigamia, el Código recoge el delito consistente en contraer matrimonio a sabiendas de que existe un impedimento que determinará la nulidad absoluta, no sólo la nulidad relativa o anulabilidad, de dicha unión (artículo 207). En el mismo conjunto de delitos contra la familia figuran el incesto y la controvertida figura del adulterio, que se incorpora en los términos previstos por la legislación vigente. Ambas hipótesis son, en efecto, conductas que pugnan con el orden familiar socialmente aceptado; no se trata, propiamente, de delitos contra la libertad o el normal desarrollo sexual, aunque ambos tengan, obviamente, un contenido sexual.
 
@@ -329,7 +329,7 @@ Si bien es cierto que el sentenciado está sujeto al poder ejecutivo del Estado,
 
 En el propio Título Vigésimoprimero figura un Capítulo destinado a los delitos cometidos por abogados, defensores y litigantes (artículo 310), tanto particulares como servidores públicos. Se trata de ilícitos de profesionistas, que pudieron agruparse con las restantes conductas delictuosas en que pueden incurrir los profesionistas, artistas y técnicos. Sin embargo, se estimó conveniente reunir aquí estos ilícitos, para destacar la importancia social que reviste la administración de justicia, de la que depende la paz pública y la seguridad privada.
 
-El Libro Segundo aborda el régimen penal del encubrimiento por favorecimiento (artículos 311y 312). Ya se vio que el encubrimiento, como género delictuoso, abarca dos especies. Por una parte, el encubrimiento por receptación, que tiene un contenido esencialmente patrimonial. Quien lo comete pretende obtener un lucro ilícito a partir del delito encubierto, que también implica apoderamiento o aprovechamiento ilícito de carácter patrimonial. En cambio, la otra expresión del encubrimiento, que se denomina por favorecimiento, no apareja un propósito de codicia, sino sólo el designio de favorecer o ayudar al autor del delito encubierto para que se sustraiga a la acción de la justicia. Aquí operan, como ha sido tradicional, las excusas absolutorias sustentadas en la relación estrecha entre el encubridor y el autor o partícipe del delito encubierto. Sin embargo, la excusa no favorece a quien obre por motivos reprobables o emplee, con el objetivo de realizar el encubrimiento, medios de carácter delictivo.
+El Libro Segundo aborda el régimen penal del encubrimiento por favorecimiento (artículos 311 y 312). Ya se vio que el encubrimiento, como género delictuoso, abarca dos especies. Por una parte, el encubrimiento por receptación, que tiene un contenido esencialmente patrimonial. Quien lo comete pretende obtener un lucro ilícito a partir del delito encubierto, que también implica apoderamiento o aprovechamiento ilícito de carácter patrimonial. En cambio, la otra expresión del encubrimiento, que se denomina por favorecimiento, no apareja un propósito de codicia, sino sólo el designio de favorecer o ayudar al autor del delito encubierto para que se sustraiga a la acción de la justicia. Aquí operan, como ha sido tradicional, las excusas absolutorias sustentadas en la relación estrecha entre el encubridor y el autor o partícipe del delito encubierto. Sin embargo, la excusa no favorece a quien obre por motivos reprobables o emplee, con el objetivo de realizar el encubrimiento, medios de carácter delictivo.
 
 Finalmente se contempla en el Título Vigésimo Segundo la protección de los derechos electorales de los ciudadanos, incorporándose dentro del cuerpo del nuevo Código los delitos que actualmente estaban considerados por la legislación electoral, con el ánimo de que formen parte del código sustantivo.
 
@@ -1749,13 +1749,13 @@ I. Que se realice con violencia o se veje al ofendido;
 
 II. Que el ofendido sea menor de dieciséis o mayor de sesenta años, o por cualquier otra circunstancia esté en imposibilidad de resistir o en situación de inferioridad física con respecto al agente;
 
-> <small>(REFORMADA, P.O.25 DE MARZO DE 2009)</small>
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2009)</small>
 
 III. Que el agente sea servidor público;
 
 IV. Que la privación de libertad se prolongue por más de ocho días;
 
-> <small>(ADICIONADA, P.O.25 DE MARZO DE 2009)</small>
+> <small>(ADICIONADA, P.O. 25 DE MARZO DE 2009)</small>
 
 V. Que la privación de la libertad tenga el propósito de realizar un acto erótico o sexual.
 
@@ -2075,7 +2075,7 @@ Al que sin propósito de llegar a la cópula ejecute un acto erótico sexual en 
 
 > <small>(REFORMADO, P.O. 14 DE MAYO DE 2008)</small>
 
-Si el sujeto activo convive con el pasivo con motivo de su familiaridad, de su actividad docente, como autoridad o empleado administrativo en algún centro educativo o de asistencia social, se le impondrá una pena de ocho a doce años de prisión y además, en el caso de prestar sus servicios en alguna institución pública, se le destituirá e inhabilitará en el cargo por un término igual a la prisión impuesta; en caso de reincidencia, la inhabilitación será definitiva.
+Si el sujeto activo convive con el pasivo con motivo de su familiaridad, de sus actividad docente, como autoridad o empleado administrativo en algún centro educativo o de asistencia social, se le impondrá una pena de ocho a doce años de prisión y además, en el caso de prestar sus servicios en alguna institución pública, se le destituirá e inhabilitará en el cargo por un término igual a la prisión impuesta; en caso de reincidencia, la inhabilitación será definitiva.
 
 > <small>(REFORMADO, P.O. 29 DE JUNIO DE 2004)</small>
 
@@ -2213,9 +2213,15 @@ XI. Respecto de documentos que se conserven en oficinas públicas, cuando la sus
 
 En estos casos no operará la fracción I del artículo 174. Cuando el valor de lo sustraído se halla en los términos de dicha fracción se estará a lo estipulado en la fracción II para determinar la pena que servirá de base para establecer el incremento que corresponde conforme a este precepto.
 
-XII. Cuando se realice sobre embarcaciones o cosas que se encuentren en ellas; y
+XII. Cuando se realice sobre embarcaciones o cosas que se encuentren en ellas; y (sic)
 
 XIII. Cuando se realice sobre equipaje o valores de viajeros en cualquier lugar durante el viaje.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+XIV. Cuando el objeto del robo sean vales de papel, o cualquier dispositivo electrónico en forma de tarjeta plástica, emitido por personas morales utilizados para canjear bienes y servicios, se impondrán de seis meses a tres años de prisión.
 
 > <small>(F. DE E., P.O. 29 DE NOVIEMBRE DE 1996)</small>
 
@@ -2424,6 +2430,18 @@ V. Realice un acto jurídico, un contrato o un acto judicial, simulados, con per
 VI. Siendo fabricante, empresario, contratista o constructor de una obra emplee en ésta materiales o realice construcciones de calidad o cantidad inferior a las estipuladas, si ha recibido el precio convenido; o no realice las obras que amparen la cantidad pagada, y
 
 VII. Provoque deliberadamente cualquier acontecimiento, simulando que se trata de caso fortuito o fuerza mayor, para liberarse de obligaciones o cobrar fianzas o seguros.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+VIII. Quien venda o intercambie por algún otro bien, vales de papel o cualquier dispositivo electrónico en forma de tarjeta plástica, emitido por personas morales utilizados para canjear bienes y servicios con conocimientos de que son falsos.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+IX. Quien haga efectivos vales de papel o cualquier dispositivo electrónico en forma de tarjeta plástica, emitido por personas morales utilizados para canjear bienes y servicios, ante las tiendas o establecimientos que los acepten, con conocimientos de que son falsos.
 
 ### CAPITULO XI. ENCUBRIMIENTO POR RECEPTACION
 
@@ -2739,7 +2757,7 @@ Comete el delito de utilización de imágenes y/o voz de personas menores de eda
 
 l. Quien produzca, fije, grabe, videograbe, fotografíe o filme de cualquier forma imágenes, sonidos o la voz de una persona menor de edad o de una persona que no tenga la capacidad para comprender el significado del hecho, sea en forma directa, informática, audiovisual, virtual o por cualquier otro medio en las que se manifiesten actividades sexuales o eróticas, explícitas o no, reales o simuladas, con o sin fines lucrativos;
 
-II. Quien reproduzca, publique, ofrezca, publicite, distribuya, difunda, exponga, envíe, transmita, importe, exporte o comercialice de cualquier forma imágenes, sonidos o la voz de una persona menor de edad o de una persona que no tenga la capacidad para comprender el significado del hecho, sea en forma directa, informática, audiovisual, virtual o por cualquier otro medio en las que se manifiesten actividades sexuales o eróticas, explícitas o no, reales o simuladas;
+II. Quien reproduzca, publique, ofrezca, publicite, distribuya, difunda, exponga, envíe, transmita, importe, exporte o comercialice de cualquier forma imágenes, sonidos o la voz de una persona menor de edad o de una persona que no tenga la capacidad para comprender el significado del hecho, sea en forma directa, informática, audiovisual, virtual o por cualquier otro medio en las que se manifiesten actividades sexuales o eróticas, explicitas o no, reales o simuladas;
 
 III. Quien posea o almacene intencionalmente para cualquier fin, imágenes, sonidos o la voz de personas menores de edad o de personas que no tengan la capacidad de comprender el significado del hecho, sea en forma directa, informática, audiovisual, virtual o por cualquier otro medio en las que se manifiesten actividades sexuales o eróticas, explícitas o no, reales o simuladas; y
 
@@ -2878,6 +2896,14 @@ Cuando el objeto falsificado, alterado o utilizado indebidamente sea de aquéllo
 ###### ARTICULO 220.
 
 A quien falsifique una obra artística de carácter plástico o la haga pasar por auténtica siendo falsa, si su conducta no se halla sancionada por la legislación autoral, se le impondrán las sanciones mencionadas en el artículo anterior.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+###### ARTICULO 220 Bis.
+
+Se impondrán de cuatro a nueve años de prisión y multa de mil a cinco mil días de salario, al que sin consentimiento de quien esté facultado para ello, produzca, imprima, enajene, distribuya, altere, o falsifique vales de papel o cualquier dispositivo electrónico en forma de tarjeta plástica, emitido por personas morales utilizados para canjear bienes y servicios.
 
 ### CAPITULO II. REBELION
 
@@ -4252,3 +4278,7 @@ P.O. 20 DE OCTUBRE DE 2010.
 Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
 
 Segundo.- Remítase al Ejecutivo del Estado para su publicación en el Periódico Oficial "Tierra y Libertad" órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 29 DE DICIEMBRE DE 2010.
+
+Único.- El presente decreto entrará en vigor a los 20 días siguientes de su publicación en el Periódico Oficial del Estado.
