@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-adquisiciones-para-la-administracion-publica-del-8022"
 country: "mx"
 rank: "ley"
 publication_date: "1990-08-15"
-last_updated: "2007-12-27"
+last_updated: "2010-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8022&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "TAM"
 
 LEY DE ADQUISICIONES PARA LA ADMINISTRACION PUBLICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 2007.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE ADQUISICIONES PARA LA ADMINISTRACION PUBLICA DEL ESTADO DE TAMAULIPAS Y SUS MUNICIPIOS, PUBLICADA EN EL P.O. DE 29 DE DICIEMBRE DE 2010. EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 15 de agosto de 1990.
 
@@ -602,3 +604,23 @@ P.O. 27 DE DICIEMBRE DE 2007.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE DICIEMBRE DE 2010.
+
+###### ARTICULO PRIMERO.
+
+Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Por única ocasión, toda aquélla obligación de carácter perentorio a que haga referencia la presente ley, se deberá cumplimentar en un término no mayor a 90 días naturales contados a partir de la vigencia de la presente ley.
+
+###### ARTICULO SEGUNDO.
+
+Se abroga la Ley de Adquisiciones para la Administración Pública del Estado de Tamaulipas expedida mediante Decreto número 26 de la Quincuagésima Cuarta Legislatura del H. Congreso del Estado de fecha 19 de abril de 1990, publicado en el Periódico Oficial del Estado el 15 de agosto de ese mismo año.
+
+###### ARTICULO TERCERO.
+
+Los procedimientos iniciados bajo la vigencia de la Ley de Adquisiciones para la Administración Pública del Estado de Tamaulipas que se abroga, seguirán aplicándose con la misma Ley hasta la formalización de los contratos respectivos.
+
+###### ARTICULO CUARTO.
+
+En tratándose de municipios cuya población no exceda de cien mil habitantes y, considerando sus posibilidades presupuestales, así como su capacidad administrativa, tomarán las providencias que el caso amerite a efecto de que los supuestos que prevé esta ley no rebasen su propia capacidad técnica, financiera y administrativa y les facilite su cumplimiento inspirados en los principios de buena fe, transparencia y adecuado ejercicio de los recursos públicos.
