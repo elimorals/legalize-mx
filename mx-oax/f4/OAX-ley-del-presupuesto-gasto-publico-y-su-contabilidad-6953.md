@@ -4,7 +4,7 @@ identifier: "OAX-ley-del-presupuesto-gasto-publico-y-su-contabilidad-6953"
 country: "mx"
 rank: "ley"
 publication_date: "1994-10-08"
-last_updated: "2010-10-02"
+last_updated: "2010-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6953&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DEL PRESUPUESTO, GASTO PUBLICO Y SU CONTABILIDAD
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE OCTUBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 8 de octubre de 1994.
 
@@ -47,9 +47,11 @@ LEY DEL PRESUPUESTO, GASTO PUBLICO Y SU CONTABILIDAD
 
 El Presupuesto, Gasto Público y su Contabilidad, se norman y regulan por las disposiciones de esta Ley, que será aplicada por el Ejecutivo Estatal a través de la Secretaría de Finanzas y la Secretaría de la Controlaría, en el ámbito de sus respectivas atribuciones.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 2o.
 
-El Gasto Público Estatal, comprende las erogaciones por concepto de Gasto Corriente, Gasto de Inversión, Transferencias y Deuda Pública que realizan:
+El Gasto Público Estatal, comprende las erogaciones por concepto de Gasto Corriente, Gasto de Capital, Amortización de la deuda y disminución de pasivos que realizan:
 
 I.- El Poder Legislativo;
 
@@ -91,11 +93,11 @@ La programación del Gasto Público Estatal, se basará en las directrices que e
 
 Corresponderá a la Secretaría de Finanzas, de Administración y la Coordinación General del Comité Estatal de Planeación para el Desarrollo de Oaxaca, en el ámbito de sus respectivas competencias y de conformidad con los ordenamientos legales vigentes, establecer los mecanismos operativos que permitan llevar a cabo el manejo de la información relacionada con las operaciones que afecten el Presupuesto de Egresos del Gobierno del Estado, hacerse cargo del registro y consolidación de las mismas y responsabilizarse de la formulación de los reportes en que se consignen los datos del compromiso y el ejercicio del Presupuesto autorizado por el Congreso del Estado.
 
-> <small>(REFORMADO, P.O. 7 DE MAYO DE 2009)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 5o.
 
-Cada entidad será responsable de planear, programar y presupuestar sus actividades respecto al gasto público asignado; en el caso de programas y proyectos que conciban y ejecuten con base en el Plan Estatal de Desarrollo tendrán siempre en cuenta la obtención de resultados a través de indicadores de desempeño, mismos que les servirán de referencia para medir los avances alcanzados en los objetivos y resultados durante la operación de los programas o proyectos referidos. Asimismo, las Dependencias del Ejecutivo son responsables de orientar, coordinar en la planeación, programación, presupuestación, control y evaluación del gasto, así como del cumplimiento de los programas de los organismos que queden ubicados en el sector que esté bajo su coordinación; lo anterior se efectuará atendiendo al principio de equidad de género a través de acciones afirmativas, así como la concordancia de estas actividades con los principios y directrices del Plan Estatal de Desarrollo.
+Cada entidad será responsable de planear, programar y presupuestar sus actividades respecto al gasto público asignado, en el caso de programas y proyectos que conciban y ejecuten con base en el Plan Estatal de Desarrollo. El ejercicio de su gasto se medirá por la obtención de resultados a través de indicadores de desempeño, mismos que servirán de referencia para medir los avances alcanzados en los objetivos y resultados durante la operación de los programas o proyectos referidos. Asimismo, las Dependencias del Ejecutivo son responsables de orientar, coordinar la planeación, programación, presupuestación, control y evaluación del gasto, así como del cumplimiento de los programas de los organismos que queden ubicados en el sector que esté bajo su coordinación, lo anterior se efectuará atendiendo al principio de equidad de género a través de acciones afirmativas, así como la concordancia de estas actividades con los principios y directrices del Plan Estatal de Desarrollo.
 
 ###### Artículo 6o.
 
@@ -145,9 +147,9 @@ Artículo 12,- las Secretarías de Finanzas, de Administración, y la Coordinaci
 
 El Presupuesto de Egresos será el que a iniciativa del Titular del Poder Ejecutivo, decrete el Congreso del Estado. Con dichos recursos y bajo un enfoque de resultados se atenderán las actividades, las obras y los servicios públicos programados, a cargo de las entidades. Cuando un programa comprenda más de un año, se sujetará a las cantidades asignadas en el Presupuesto de Egresos de cada año.
 
-> <small>(ADICIONADO, P.O 7 DE MAYO DE 2009)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
-Se concibe el enfoque de resultados, como la posibilidad que tiene el Estado de precisar el tipo, magnitud y sentido de la transformación, evolución, impacto o beneficio que se prevé lograr, respecto de los objetivos estratégicos generales y específicos establecidos en el Plan Estatal de Desarrollo en el proceso de gestión de los recursos públicos que ejerzan las Entidades.
+Se concibe el enfoque de resultados, como la facultad que tiene el Estado para establecer y precisar el tipo, magnitud y sentido de la transformación, evolución, impacto o beneficio que se prevé lograr· respecto de los objetivos estratégicos generales y específicos establecidos en el Plan Estatal de Desarrollo en el proceso de gestión de los recursos públicos que ejerzan las Entidades.
 
 > <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2005)</small>
 
@@ -195,15 +197,19 @@ Los órganos competentes del Congreso del Estado, del Tribunal Superior de Justi
 
 El proyecto de Presupuesto de Egresos del Estado se integrará con los documentos que se refieren a:
 
-> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
-I.- Descripción de los programas que sean la base del proyecto, en los que se señalen además los objetivos, acciones, metas y unidades responsables de su ejecución, así como su valuación estimada por programa; los beneficiarios hombres y mujeres, su edad y el tipo de localidad en la que habitan;
+l.- Descripción de los programas que sean la base del proyecto, en los que se señalen además de los objetivos, acciones, metas y unidades de cada entidad, la clasificación por tipo de gasto, por objeto del gasto y funcional. Los beneficiarios hombres y mujeres, su edad y el tipo de localidad en la que habitan;
 
 II.- Explicación y comentarios de los principales programas y en especial de aquellos que abarquen dos o más ejercicios fiscales;
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2004)</small>
 
-III.- Exposición de motivos, en los que se integre la información necesaria que fundamente y motive las actividades programadas, con base en los principios de equidad de género y lineamientos que señala el Plan Estatal de Desarrollo.
+III.- Exposición de motivos, en los que se integre la información necesaria que fundamente y motive las actividades programadas, con base en los principios de equidad de género y lineamientos que señala el Plan Estatal de Desarrollo;
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+IV.- Las remuneraciones y sus tabuladores en los que se especifiquen y diferencien la totalidad de sus elementos fijos y variables tanto en efectivo como en especie.
 
 ###### Artículo 18.
 
@@ -347,6 +353,10 @@ II.- Todas las evaluaciones podrán hacerse públicas y se darán a conocer por 
 
 III.- Las evaluaciones que se refieran al ejercicio de recursos públicos federales deberán enviarse al Ejecutivo Federal y, por conducto de éste, a la Cámara de Diputados del Congreso de la Unión, en términos de lo dispuesto en la Ley Federal de Presupuesto y Responsabilidad Hacendaria y Ley de Coordinación Fiscal;
 
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+La Instancia Técnica remitirá a la Comisión de Presupuesto y Programación del Congreso del Estado los resultados y el contenido de las evaluaciones señaladas en este artículo realizadas al ejercicio de todos los recursos públicos incluidos en el Presupuesto de Egresos que apruebe el Poder legislativo del Estado, a más tardar el 1 de diciembre de cada ejercicio fiscal.
+
 IV.- Las evaluaciones deberán contener, por lo menos, la siguiente información:
 
 a) Los datos generales del evaluador, destacando al coordinador de la evaluación y a su principal equipo colaborador;
@@ -393,7 +403,9 @@ II.- Eficacia, que mide el grado de cumplimiento de los objetivos;
 
 III.- Eficiencia, que mide la relación entre la cantidad de los bienes y servicios generados y los insumos o recursos utilizados para su producción;
 
-IV.- Impacto económico y social, que mide o valora la transformación relativa en el sector económico o social atendido, o en las características de una población objetivo, en términos de bienestar, oportunidades, condiciones de vida, desempeño institucional, económico y productivo;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+IV.- Impacto económico y social, que mide o valora la transformación relativa en el sector económico o social atendido o en las características de una población objetivo, en términos de bienestar, oportunidades, condiciones de vida, desempeño institucional, económico y productivo. Las actividades de las entidades en materia social y económica deberán ser evaluadas por lo menos con ésta fracción;
 
 V.- Calidad, que mide los atributos, propiedades o características que tienen los bienes y servicios públicos generados para cumplir con los objetivos, y su relación con la aceptación del usuario o beneficiario;
 
@@ -407,15 +419,21 @@ VII.- Equidad, que mide los elementos relativos al acceso, valoración, particip
 
 La responsabilidad del manejo de los registros contables consolidados de la Administración Pública Estatal, quedará a cargo de la Secretaría de Finanzas, la que deberá de suministrar periódicamente al Titular del Poder Ejecutivo del Estado, la información de índole contable, financiera, presupuestal y económica, que éste le solicite.
 
-Cada entidad además, llevará su propia contabilidad, la cual incluirá las cuentas para registrar tanto los activos, pasivos, capital o patrimonio, ingresos, costos y gastos, como las asignaciones, compromisos y ejercicios correspondientes a los programas y partidas de su propio presupuesto.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
-Los catálogos e instructivos para la aplicación de las cuentas contables y de las partidas presupuestales que utilizarán las Entidades, serán emitidos por la Secretaría de Finanzas.
+Cada Entidad será responsable de su contabilidad, de las operaciones del Sistema de Contabilidad Gubernamental que este en función, así como del cumplimiento de las disposiciones legales y administrativas que en materia de Contabilidad Gubernamental se establezcan.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+Para el registro único de las operaciones presupuestarias y contables la Secretaría de Finanzas emitirá los clasificadores presupuestarios, listas de cuentas y catálogos de bienes o instrumentos similares que permitan su interrelación automática.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 34.
 
-La contabilidad de las entidades se llevará con base acumulativa para determinar costos y facilitar la formulación, ejercicio y evaluación de los presupuestos; sus programas, objetivos y metas por alcanzar y las acciones definidas para ello; así como las unidades responsables de su ejecución.
+Los registros contables de las Entidades se llevarán con base acumulativa en apego estricto de los postulados básicos de contabilidad gubernamental.
 
-Los sistemas contables deben diseñarse y operarse de tal forma que faciliten la fiscalización de los activos, pasivos, ingresos, costos, gastos y avances en la ejecución de programas, de manera que permitan medir la eficacia y eficiencia del Gasto Público Estatal.
+Los sistemas contables deberán diseñarse y operarse de tal forma que faciliten el reconocimiento de las operaciones de ingresos, gastos, costos, activos, pasivos y patrimoniales de las Entidades.
 
 > <small>(REFORMADO, P.O. 22 DE MARZO DE 2005)</small>
 
@@ -423,11 +441,11 @@ Los sistemas contables deben diseñarse y operarse de tal forma que faciliten la
 
 Las Dependencias del Estado enviarán a la Secretaría de Finanzas y a la Secretaría de la Controlaría, con la periodicidad y forma que las mismas determinen, toda la información que éstas les soliciten.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 36.
 
-La Secretaría de Finanzas girará las instrucciones sobre la forma y términos en que las Entidades deban llevar sus registros de contabilidad y, en su caso rendirle los informes y cuentas para fines de contabilización y consolidación en su caso.
-
-Asimismo, dicha Secretaría a través de visitas examinará periódicamente el funcionamiento del sistema contable y los procedimientos de contabilidad de cada Entidad pudiendo autorizar por escrito, su modificación o simplificación.
+La Secretaría de Finanzas establecerá los lineamientos para la rendición de informes y cuentas para fines de consolidación de la contabilidad gubernamental.
 
 > <small>(REFORMADO, P.O. 7 DE MAYO DE 2009)</small>
 
@@ -461,15 +479,11 @@ Las responsabilidades que se constituyan tendrán por objeto reparar o indemniza
 
 Dichas responsabilidades se harán efectivas por la Secretaría de Finanzas mediante el procedimiento económico coactivo, en los términos de los ordenamientos fiscales aplicables.
 
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 2005)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 41.
 
-Cuando la Secretaría de Finanzas en el ámbito de sus atribuciones de fiscalización, control, vigilancia e inspección del presupuesto, su contabilidad y el gasto público estatal, detecte irregularidades a las que se refiere el artículo 38 de esta Ley, procederá a levantar acta administrativa en la que se consignarán las irregularidades y dentro del plazo de 3 días hábiles la remitirán junto con toda la documentación comprobatoria de las irregularidades, a la Secretaría de la Controlaría, para que ésta proceda al fincamiento del pliego preventivo de responsabilidad correspondiente.
-
-Cuando los órganos de control interno de las entidades paraestatales en el ámbito de sus atribuciones de auditoría, fiscalización, control, vigilancia e inspección de la gestión gubernamental, sean los que detecten las irregularidades, fincarán, previo acuerdo de la Secretaría de la Controlaría, los pliegos preventivos de responsabilidad respectivos.
-
-Correspondiendo a la Secretaría de la Controlaría la atribución de aplicación e interpretación de las disposiciones de este Capítulo, se faculta a dicha Dependencia para dictar las normas procedimentales relativas a la constitución y efectos administrativos de los pliegos preventivos de responsabilidad, previa autorización del Titular del Poder Ejecutivo del Estado.
+Cuando la Secretaría de Finanzas en el ámbito de sus atribuciones de control, vigilancia e inspección del presupuesto, su contabilidad y el gasto público estatal, detecte irregularidades a las que se refiere el artículo 38 de esta Ley, procederá a levantar acta administrativa en la que se consignarán las irregularidades y dentro del plazo de 3 días hábiles la remitirá junto con toda Ia documentación comprobatoria de las irregularidades a la Secretaria de la Contraloría, para que ésta proceda al fincamiento del pliego preventivo de responsabilidad correspondiente.
 
 > <small>(REFORMADO, P.O. 22 DE MARZO DE 2005)</small>
 
@@ -602,3 +616,13 @@ PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente de s
 SEGUNDO.- Por el presente ejercicio se exime a las diferentes Entidades de finiquitar ante la Secretaria de Finanzas los saldos de las cuentas de anticipos y gastos a comprobar, en los plazos previstos para tales efectos, procurando las Entidades no excederse del 31 de diciembre del año en curso.
 
 TERCERO.- Queda sin efecto cualquier disposición que se oponga al presente.
+
+P.O. 29 DE DICIEMBRE DE 2010.
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- De conformidad con el Acuerdo emitido por el Consejo Nacional de Armonización Contable a que se refiere el punto VI de la sesión de fecha cuatro de noviembre de 2010 llevada a cabo por dicho órgano colegiado, se establece que el plazo con que cuentan los poderes legislativo y judicial, organismos autónomos y entidades de la administración pública centralizada y paraestatal del poder ejecutivo, todos del Estado de Oaxaca, incluidos sus municipios, para que adopten e implementen las adecuaciones de la clasificación funcional, vence el 31 de diciembre de 2011, razón por la que durante el transcurso del citado año procederán a adecuar sus sistemas correspondientes para cumplir en tiempo y forma con dicha obligación.
+
+TERCERO.- Las entidades darán cumplimiento a las reformas de los artículos 5, 13, 32 A y 32 B antes de la presentación del proyecto de Decreto de egresos del ejercicio 2012.
+
+CUARTO.- Se autoriza a las entidades del Poder Ejecutivo, para que en un plazo de 90 días contados a partir de la entrada en vigencia del presente Decreto, realicen los ajustes a sus programas operativos anuales e indicadores en el marco de la asignación presupuestal aprobada; a fin de cumplir con las fracciones VII y VIII del artículo 9 de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Oaxaca.
