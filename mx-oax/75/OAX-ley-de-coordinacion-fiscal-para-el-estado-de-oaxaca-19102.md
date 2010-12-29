@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-coordinacion-fiscal-para-el-estado-de-oaxaca-19102"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-30"
-last_updated: "2009-12-30"
+last_updated: "2010-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19102&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE COORDINACION FISCAL PARA EL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2010.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Oaxaca, el sábado 30 de diciembre de 2000.
 
@@ -95,7 +95,7 @@ II. El 100% del Fondo de Fomento Municipal;
 
 III. El 20% de las Participaciones por Impuestos Especiales sobre Cerveza, Bebidas Refrescantes con una Graduación Alcohólica de hasta 6° G. L., Alcohol, Bebidas Alcohólicas, y Tabacos Labrados;
 
-IV. El 20% del Impuesto sobre Tenencia o Uso de Vehículos.
+IV. (DEROGADO, P.O. 29 DE DICIEMBRE DE 2010)
 
 V. El 20% del Impuesto sobre Automóviles Nuevos; y (sic),
 
@@ -363,6 +363,30 @@ Lo previsto en el párrafo anterior, será aplicable aún y cuando el servicio d
 
 La Comisión Nacional del Agua podrá ceder, afectar y en términos generales transferir los recursos derivados de la retención a que se refiere este artículo a fideicomisos u otros mecanismos de fuente de pago o de garantía constituidos para el financiamiento de infraestructura prioritaria en las materias de abastecimiento de agua potable, drenaje o saneamiento de aguas residuales.
 
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+ARTÍCULO 23 A.- El Estado enviará al Ejecutivo Federal, por conducto de la Secretaría, informes sobre el ejercicio y destino de los recursos de los Fondos de Aportaciones Federales a que se refiere este Capítulo.
+
+Para los efectos del párrafo anterior, el Estado reportará tanto su información, como aquélla de sus Municipios, en los Fondos que correspondan, señalando los resultados obtenidos; y remitiendo la información consolidada a más tardar a los 20 días naturales posteriores a la terminación de cada trimestre del ejercicio fiscal.
+
+El Estado y los Municipios publicarán los informes a que se refiere el párrafo primero de este artículo en los medios locales de difusión, y los pondrán a disposición del público en general a través de sus respectivas páginas electrónicas de internet o de otros medios locales de difusión, a más tardar a los 5 días hábiles posteriores a la fecha señalada en el párrafo anterior.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+ARTÍCULO 23 B.- El control, evaluación y fiscalización del manejo de los recursos federales a que se refiere este Capítulo quedará a cargo de las siguientes autoridades, en las etapas que se indican:
+
+I. Desde el inicio del proceso de presupuestación, en términos de la legislación presupuestaria estatal y hasta la entrega de los recursos correspondientes a los Municipios, corresponderá a la Secretaría de la Contraloría y Transparencia Gubernamental;
+
+II. Recibidos los recursos de los Fondos de que se trate por el Estado y sus Municipios, hasta su erogación total, corresponderá a la Auditoría Superior del Estado.
+
+La supervisión y vigilancia no podrán implicar limitaciones ni restricciones, de cualquier índole, en la administración y ejercicio de dichos Fondos, y deberá estar supeditada a lo que establecen las leyes y disposiciones de la materia; y,
+
+III. La fiscalización de las Cuentas Públicas del Estado y Municipios, será efectuada por la Legislatura del Estado, por conducto de la Auditoría Superior del Estado, a fin de verificar que las dependencias del Ejecutivo Estatal y los Municipios respectivamente, aplicaron los recursos de los Fondos para los fines previstos en esta Ley.
+
+Cuando la Auditoría Superior del Estado, detecte que los recursos de los Fondos no se han destinado a los fines establecidos en esta Ley, deberá hacerlo del conocimiento inmediato de la Auditoría Superior de la Federación de la Cámara de Diputados del Congreso de la Unión.
+
+Las responsabilidades administrativas, civiles y penales en que incurran los servidores públicos municipales por el manejo o aplicación indebidos de los recursos de los Fondos a que se refiere este Capítulo, serán determinadas y sancionadas conforme a las disposiciones aplicables.
+
 ###### ARTICULO 24.
 
 Las Agencias Municipales y de Policía recibirán mensualmente de los Ayuntamientos, los montos que el propio Ayuntamiento destine en su presupuesto de egresos a cada una de ellas, de los recursos que ingresen a la hacienda municipal, derivados de participaciones federales, fondos de aportaciones federales, impuestos, productos, derechos y aprovechamientos municipales, a través de sus autoridades municipales auxiliares, aplicándose al menos los siguientes criterios para distribución de dicho monto:
@@ -428,6 +452,16 @@ En aquellos impuestos en que concurran Estado y Municipios, ambas autoridades co
 ###### ARTÍCULO 27.
 
 Cuando las autoridades fiscales municipales actúen con base en los convenios respectivos como autoridades fiscales estatales, deberán ajustar su actuación conforme a lo dispuesto por el Código Fiscal del Estado de Oaxaca y demás ordenamientos fiscales estatales aplicables.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+### CAPITULO CUARTO. DE LOS INGRESOS ESTATALES PARTICIPABLES A LOS MUNICIPIOS
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+###### ARTÍCULO 28.
+
+El Estado por conducto de la Secretaría, constituirá con el 20% de las cantidades que perciba en el ejercicio que se trate por concepto del Impuesto sobre Tenencia o Uso de Vehículos a que se refiere el TÍTULO SEGUNDO.- DE LOS IMPUESTOS.- CAPÍTULO IV, APARTADO B.- VEHÍCULOS NUEVOS Y DE HASTA NUEVE AÑOS MODELO ANTERIOR de la Ley de Hacienda del Estado de Oaxaca, un Fondo que se participará a los municipios de la entidad, con base en el incremento de sus ingresos propios por encima de la inflación y de las disposiciones que al efecto establezca la Secretaría.
 
 TRANSITORIO (sic):
 
@@ -538,3 +572,7 @@ P.O. 29 DE DICIEMBRE DE 2008.
 P.O. 30 DE DICIEMBRE DE 2009.
 
 ÚNICO.- El presente Decreto entrará en vigor a partir del día 1 de enero del año 2010, previa publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 29 DE DICIEMBRE DE 2010.
+
+ÚNICO.- El presente Decreto entrará en vigor a partir del día 1 de enero del año 2011, salvo lo dispuesto por el artículo 28 del Capítulo Cuarto de la presente Ley, que iniciará su vigencia el 1 de enero del año 2012.
