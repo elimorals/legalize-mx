@@ -4,7 +4,7 @@ identifier: "ROO-ley-del-notariado-para-el-estado-de-quintana-roo-59498"
 country: "mx"
 rank: "ley"
 publication_date: "2007-10-29"
-last_updated: "2008-03-14"
+last_updated: "2010-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59498&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DEL NOTARIADO PARA EL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE MARZO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Número 69 Extraordinario al Periódico Oficial del Estado de Quintana Roo, el lunes 29 de octubre de 2007.
 
@@ -313,7 +313,9 @@ VIII.- No ser ministro de algún culto religioso;
 
 IX.- No haber sido separado del ejercicio del Notariado dentro de la República, con causa justificada;
 
-X.- No haber sido condenado en proceso penal por delito doloso;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+X.- No haber sido condenado ni estar bajo proceso penal por delito doloso;
 
 XI.- Presentar y aprobar, con un mínimo de 75 puntos en una escala del 0 al 100, el examen de oposición teórico-práctico ante el jurado que se integre para tal efecto; y
 
@@ -325,7 +327,9 @@ Para efectos de la fracción IX, se entenderá que causa justificada se refiere 
 
 Los requisitos señalados en el artículo anterior, se justificarán en la siguiente forma:
 
-El indicado en la fracción I, por los medios que establece el Código Civil para justificar el estado de las personas; el indicado en la fracción II, con el certificado que expida la autoridad municipal correspondiente; el indicado en la fracción III por medio del título respectivo y la cédula profesional; el indicado en la fracción IV por declaración de dos testigos bajo protesta de decir verdad ante Notario Público; el indicado en la fracción V, por medio de certificados expedidos por dos médicos titulados, los requisitos establecidos por las fracciones VI, VII, VIII y IX, no requieren prueba, pero sí la declaración bajo protesta del interesado de no encontrarse comprendido en estos impedimentos; el requisito indicado en la fracción X, por medio de certificado de no tener antecedentes penales.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+El indicado en la fracción I, por los medios que establece el Código Civil para justificar el estado de las personas; el indicado en la fracción II, con el certificado que expida la autoridad municipal correspondiente; el indicado en la fracción III por medio del título respectivo y la cédula profesional; el indicado en la fracción IV por declaración de dos testigos bajo protesta de decir verdad ante Notario Público; el indicado en la fracción V, por medio de certificados expedidos por dos médicos titulados; los requisitos establecidos por las fracciones VI, VII, VIII y IX, no requieren prueba, pero sí la declaración bajo protesta del interesado de no encontrarse comprendido en estos impedimentos; el requisito indicado en la fracción X, por medio de certificado de no tener antecedentes penales, así como declaración bajo protesta del interesado de no estar bajo proceso penal por delito doloso.
 
 ###### Artículo 30.
 
@@ -475,9 +479,11 @@ En el caso de deterioro del sello de autorizar debido a su uso, la Secretaría d
 
 ### CAPÍTULO PRIMERO. De los Notarios Auxiliares
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 45.
 
-Los Notarios Titulares con una antigüedad mayor de tres años, tendrán derecho a solicitar la designación de un Notario Auxiliar. El nombramiento de Notario Auxiliar, lo extenderá el Titular del Poder Ejecutivo del Estado a partir del análisis que realice, y a solicitud del Notario Titular, de la persona propuesta por éste, en el sentido de que reúne los requisitos establecidos por el artículo 28 de esta ley, con excepción de los señalados en las fracciones XI y XII.
+Los Notarios Titulares tendrán derecho a solicitar la designación de un Notario Auxiliar. El Nombramiento de Notario Auxiliar, lo extenderá el Titular del Poder Ejecutivo del Estado a partir del análisis que realice, y a solicitud del Notario Titular, de la persona propuesta por éste, en el sentido de que reúne los requisitos establecidos por el artículo 28 de esta Ley, con excepción de los señalados en las fracciones XI y XII.
 
 En un término improrrogable de quince días hábiles contados a partir de la recepción de la solicitud, el Titular del Poder Ejecutivo del Estado, deberá aprobar o en su caso, rechazar la propuesta presentada a su consideración. En el caso de aprobarla, en los diez días hábiles siguientes hará la designación y emitirá el nombramiento respectivo, para lo cual deberá atenderse lo dispuesto en el artículo 47 de esta Ley.
 
@@ -496,6 +502,12 @@ El Auxiliar actuará, siempre en ausencia del Notario Titular, teniendo igual ca
 ###### Artículo 47.
 
 Para obtener el nombramiento de Notario Auxiliar, el propuesto acreditará los requisitos que previene el Artículo 28 de esta Ley, con excepción de los requisitos indicados en las fracciones XI y XII y deberá otorgar la garantía, rendir la protesta y registrar su nombramiento y firma, como lo previene esta Ley para los Notarios Titulares, cumplido lo cual, la Secretaría de Gobierno mandará hacer la publicación correspondiente en el Periódico Oficial y en al menos dos de los diarios de mayor circulación en el lugar de adscripción respectiva.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 47
+
+Bis.- En caso de terminación de la función notarial de un Notario Público Titular, si éste tiene designado algún Notario Auxiliar, el Titular del Poder Ejecutivo, a partir del análisis que realice y en su caso, a solicitud del Notario Público Titular; podrá otorgarle al Notario Público Auxiliar, la patente de Notario Público Titular de la misma notaría en que actúa.
 
 ###### Artículo 48.
 
@@ -1309,9 +1321,11 @@ En los casos de separación de los Notarios Titulares por suspensión, quedará 
 
 ### CAPÍTULO TERCERO. Terminación del Cargo
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 160.
 
-El cargo de Notario termina, debiendo cancelarse la patente respectiva, por cualquiera de los siguientes casos:
+El cargo de Notario termina por cualquiera de los siguientes casos:
 
 I.- Por renuncia expresa;
 
@@ -1319,9 +1333,11 @@ II.- Por fallecimiento; y
 
 III.- Por revocación de la Patente.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 161.
 
-Cuando un Notario deje de actuar definitivamente por cualquiera de las causas mencionadas en el artículo que antecede, el Titular del Poder Ejecutivo del Estado hará, dentro del término de cinco días hábiles contados a partir de la fecha de la causa que motive la terminación de su actuación, la declaración de que queda sin efecto la patente respectiva, y por conducto de la Secretaría de Gobierno lo hará del conocimiento público por una vez en el Periódico Oficial y en al menos dos de los diarios de mayor circulación en el lugar de adscripción respectiva.
+Cuando un Notario deje de actuar definitivamente por cualquiera de las causas mencionadas en el artículo que antecede, el Titular del Poder Ejecutivo del Estado hará, dentro del término de quince días hábiles contados a partir de la fecha de la causa que motive la terminación de su actuación, el otorgamiento de la patente de acuerdo a lo previsto en el artículo 47 bis o la declaración de cancelación de la misma, y por conducto de la Secretaría de Gobierno lo hará del conocimiento público por una vez en el Periódico Oficial y en al menos dos de los diarios de mayor circulación en el lugar de adscripción respectiva.
 
 En todo caso el Notario de que se trate quedará impedido para intervenir como abogado con cualquier carácter, en los litigios que se relacionen con las escrituras o actas notariales que hubiere autorizado, salvo que se trate de causa propia.
 
@@ -1850,3 +1866,13 @@ P.O. 14 DE MARZO DE 2008.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+P.O. 29 DE DICIEMBRE DE 2010.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+T R A N S I T O R I O:
+
+ÚNICO.- Publíquese el presente Decreto en el Periódico Oficial del Estado de Quintana Roo.
