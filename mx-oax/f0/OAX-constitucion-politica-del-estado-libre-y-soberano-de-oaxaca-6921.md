@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "2010-10-02"
+last_updated: "2010-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE OCTUBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2010.
 
 Constitución promulgada por bando solemne, el martes 4 de abril de 1922.
 
@@ -1185,7 +1185,7 @@ VIII. Suprimir Municipios, siempre que sus rentas no alcancen a cubrir sus Presu
 
 IX. La Legislatura Local, por acuerdo de las dos terceras partes de sus integrantes, podrá suspender Ayuntamientos, declarar que estos han desaparecido y suspender o revocar el mandato a alguno de sus miembros por alguna de las causas graves que la ley reglamentaria prevenga, siempre y cuando sus miembros hayan tenido oportunidad suficiente para rendir pruebas y hacer los alegatos que a su juicio convengan.
 
-En caso de declararse desaparecido un Ayuntamiento o por renuncia o falta absoluta de la mayoría de sus miembros, si conforme a la ley no procede que entraren en funciones los suplentes, ni que se celebren nuevas elecciones, la Legislatura designará entre los vecinos a los Concejos Municipales que concluirán los periodos respectivos; estos Concejos estarán integrados por el número de miembros que determine la ley, quienes deberán cumplir con los requisitos de elegibilidad establecidos para los regidores.
+En caso de declararse desaparecido un Ayuntamiento o por renuncia o falta absoluta de la mayoría de sus miembros, si conforme a la ley no procede que entraren en funciones los suplentes, ni que se celebraren nuevas elecciones, la Legislatura designará entre los vecinos a los Concejos Municipales que concluirán los periodos respectivos; estos Concejos estarán integrados por el número de miembros que determine la ley, quienes deberán cumplir con los requisitos de elegibilidad establecidos para los regidores.
 
 Si alguno de los miembros dejare de desempeñar su cargo, será substituido por su suplente o se procederá, según lo disponga la ley;
 
@@ -1428,6 +1428,14 @@ La Legislatura tiene facultades para pedir el apoyo de los Jefes y Oficiales de 
 ###### ARTICULO 61.
 
 La Legislatura no podrá dejar de señalar la retribución que corresponda a un empleo que esté establecido por ley anterior; en caso de que por cualquiera circunstancia se omita fijar dicha remuneración, se entenderá señalada la que hubiere tenido fijada en el Presupuesto anterior o en la ley que estableció el empleo.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+En todo caso, dicho señalamiento deberá respetar las bases previstas en el artículo 138 de esta Constitución y demás disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+Los poderes Legislativo, Ejecutivo y Judicial, así como los organismos con autonomía reconocida en esta Constitución que ejerzan recursos del Presupuesto de Egresos del Estado, deberán incluir dentro de sus proyectos de presupuestos, los tabuladores desglosados de las remuneraciones que se propone perciban sus servidores públicos. Estas propuestas deberán observar el procedimiento que para tal efecto determine esta Constitución y demás disposiciones legales aplicables.
 
 > <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 1990)</small>
 
@@ -2271,7 +2279,9 @@ Las leyes locales no establecerán exenciones o subsidios respecto de las mismas
 
 Los Ayuntamientos en el ámbito de sus competencias, propondrán a la Legislatura del Estado las tasas, las cuotas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras y las tablas de valores unitarios del suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria.
 
-La Legislatura del Estado aprobará la ley de ingresos de los Municipios, revisará y fiscalizará su cuenta pública. Los presupuestos de egresos serán aprobados por los Ayuntamientos con base en sus ingresos disponibles. Los recursos que integran la hacienda municipal serán ejercidos en forma directa por los ayuntamientos o bien, por quien ellos autoricen, conforme a la ley.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+La Legislatura del Estado aprobará las leyes de ingresos de los Municipios, revisará y fiscalizará sus cuentas públicas. Los Presupuestos de Egresos serán aprobados por los Ayuntamientos con base en sus ingresos disponibles, y deberán incluir en los mismos, los tabuladores desglosados de las remuneraciones que perciban los servidores públicos municipales, sujetándose a lo dispuesto en el artículo 138 de esta Constitución. Los recursos que integran la hacienda municipal serán ejercidos en forma directa por los ayuntamientos o bien, por quien ellos autoricen, conforme a la ley.
 
 III.- Los Municipios tendrán a su cargo las funciones y servicios públicos siguientes:
 
@@ -2727,11 +2737,27 @@ La propaganda, bajo cualquier modalidad de comunicación social, que difundan co
 
 Las leyes, en sus respectivos ámbitos de aplicación, garantizarán el estricto cumplimiento de lo previsto en los dos párrafos anteriores, incluyendo el régimen de sanciones a que haya lugar.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 161], P.O. 8 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 138.
 
-Todos los servidores públicos del Estado y de los Municipios recibirán una remuneración adecuada e irrenunciable por el desempeño de su función, empleo, cargo o comisión que será determinada anual y equitativamente en el Presupuesto de Egresos del Estado o en los presupuestos de los Municipios, según corresponda.
+Todos los servidores públicos del Estado y de los Municipios, de sus dependencias, así como las entidades paraestatales y paramunicipales, fideicomisos públicos, instituciones y organismos autónomos y cualquier otro ente público, recibirán una remuneración adecuada e irrenunciable por el desempeño de su función, empleo, cargo o comisión, que deberá ser proporcional a sus responsabilidades.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+
+Dicha remuneración será determinada anual y equitativamente en los Presupuestos de Egresos correspondientes, bajo las siguientes bases:
+
+I. Se considera remuneración o retribución toda percepción en efectivo o en especie, incluyendo dietas, aguinaldos, gratificaciones, premios, recompensas, bonos, estímulos, comisiones, compensaciones y cualquier otra, con excepción de los apoyos y los gastos sujetos a comprobación que sean propios del desarrollo del trabajo y los gastos de viaje en actividades oficiales.
+
+II. Ningún servidor público podrá recibir remuneración, en términos de la fracción anterior, por el desempeño de su función, empleo, cargo o comisión, mayor a la establecida para el Gobernador del Estado o Presidente Municipal en el presupuesto correspondiente.
+
+III. Ningún servidor publico podrá tener una remuneración igual o mayor que su superior jerárquico, salvo que el excedente sea consecuencia del desempeño de varios empleos públicos en los términos del artículo 136 de esta Constitución, que su remuneración sea producto de las condiciones generales de trabajo, derivado de un trabajo técnico calificado o por especialización en su función, la suma de dichas retribuciones no deberá exceder la mitad de la remuneración establecida para el Gobernador del Estado o presidente Municipal en el presupuesto correspondiente.
+
+IV. No se concederán ni cubrirán jubilaciones, pensiones o haberes de retiro, ni liquidaciones por servicios prestados, como tampoco préstamos o créditos, sin que estas se encuentren asignadas por la Ley, decreto legislativo, contrato colectivo o condiciones generales de trabajo. Estos conceptos no formaran parte de la remuneración. Quedan excluidos los servicios de seguridad que requieran los servidores públicos por razón del cargo desempeñado.
+
+V. Las remuneraciones y sus tabuladores serán públicos, y deberán especificar y diferenciar la totalidad de sus elementos fijos y variables tanto en efectivos como en especie.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2000)</small>
 
 Toda ministración de dinero, todo emolumento o gratificación concedida a los referidos servidores, ya sea por concepto de gastos de representación, sobresueldo, o cualquier otro, se considerará como fraude al Estado, y las leyes y las autoridades impondrán las penas correspondientes, así a quien las autorice como a quien las reciba.
 
@@ -3452,3 +3478,7 @@ P.O. 21 DE SEPTIEMBRE DE 2009.
 P.O. 2 DE OCTUBRE DE 2010.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 29 DE DICIEMBRE DE 2010.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
