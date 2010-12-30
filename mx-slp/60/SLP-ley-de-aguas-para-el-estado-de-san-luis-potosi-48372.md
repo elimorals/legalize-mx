@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-aguas-para-el-estado-de-san-luis-potosi-48372"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-12"
-last_updated: "2010-11-04"
+last_updated: "2010-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48372&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE AGUAS PARA EL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE NOVIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2010.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 12 de enero de 2006.
 
@@ -2161,7 +2161,9 @@ El prestador de los servicios podrá determinar una estructura tarifaria, que to
 
 A su vez, el Estado o el ayuntamiento, podrán reglamentar la instrumentación de un subsidio directo, determinado en un padrón de usuarios elaborado por ellos mismos, en donde para cada caso se indique el porcentaje a subsidiar, debiendo retribuir la compensación correspondiente al subsidio, a los prestadores de los servicios en los términos que se convengan.
 
-Dicho subsidio se otorgará condicionado a que se instale medidor; que el consumo no sea mayor al volumen que establezca el ayuntamiento; y, al pago oportuno de los servicios, en el plazo que determine el ayuntamiento.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2010)</small>
+
+Dicho subsidio se otorgará condicionado a que se instale medidor; que el consumo no sea mayor al volumen que establezca el ayuntamiento; y al pago oportuno de los servicios.
 
 El subsidio a que se refiere el párrafo anterior se indicará en los recibos de manera separada a la cantidad a pagar por los usuarios, en relación con el valor total de los servicios públicos.
 
@@ -2229,11 +2231,13 @@ En los lugares en donde no haya medidores o mientras éstos no se instalen, los 
 
 Cuando no sea posible medir el consumo debido a la destrucción total o parcial del medidor respectivo, el prestador de los servicios podrá optar por determinar los cargos en función de los consumos anteriores en los términos del artículo 228 de esta Ley, independientemente de los cargos a cubrir por la reposición del medidor.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 183.
 
-Todo usuario está obligado al pago de los servicios públicos que se presten, con base a las tarifas fijadas en los términos de esta Ley, dentro del plazo que en cada caso señale el recibo correspondiente y en las oficinas que determine el prestador de los servicios.
+Todo usurario está obligado al pago mensual de los servicios públicos de agua potable, alcantarillado y saneamiento, con base en las cuotas o tarifas fijadas en los términos de la presente Ley.
 
-Los usuarios deberán pagar el importe de la tarifa o cuota dentro del plazo razonable que en cada caso señale el recibo correspondiente, y en las oficinas que determine el prestador de los servicios.
+Los usuarios deben pagar el importe de la tarifa o cuota, dentro del plazo razonable que señala el recibo correspondiente.
 
 ###### ARTICULO 184.
 
@@ -2864,6 +2868,12 @@ SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
 P.O. 4 DE NOVIEMBRE DE 2010.
 
 DECRETO NUMERO 367, POR EL QUE SE DEROGA EL ARTICULO 83 DE LA LEY DE AGUAS PARA EL ESTADO DE SAN LUIS POTOSI.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
+
+P.O. 30 DE DICIEMBRE DE 2010.
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
