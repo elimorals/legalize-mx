@@ -4,7 +4,7 @@ identifier: "CHP-ley-estatal-de-derechos-58004"
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-21"
-last_updated: "2010-05-26"
+last_updated: "2010-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY ESTATAL DE DERECHOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE MAYO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2010.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Chiapas, el miércoles 21 de noviembre de 2007.
 
@@ -177,15 +177,15 @@ SERVICIO TARIFA
 
 S.M.D.V.E.
 
-> <small>(REFORMADA, P.O. 26 DE MAYO DE 2010)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2010)</small>
 
-I. Registro de nacimiento en la oficialía,
+I. Registro de nacimiento de mayores de 1 año
 
-de mayores de 1 año a menores de
+a menores de 18 años en oficialía, registro
 
-18 años o registro de nacimiento por
+de nacimiento por adopción plena o anotación
 
-adopción plena. 2.5
+por adopción simple 2.5
 
 II. Registro de nacimiento a domicilio. 12.0
 
@@ -302,6 +302,10 @@ hasta por 15 años. 2.5
 XXIV. Matrimonios Colectivos. 7.0
 
 El registro de nacimiento a menores a 180 días en oficialías está exceptuado del pago de derechos que establece este artículo, salvo lo establecido en la fracción II del presente artículo.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2010)</small>
+
+Únicamente realizarán el pago de 0.5 salarios tratándose de la expedición de la primera certificada de nacimiento, siempre y cuando ésta se solicite de manera conjunta y se pague con el registro de nacimiento; también aplicará la referida tarifa en los casos de excepción de pago que establece el presente artículo, siempre y cuando se compruebe que se está llevando a cabo el registro de nacimiento en ese mismo acto.
 
 #### Sección Segunda. Servicios que Presta la Dirección del Registro Público de la Propiedad y de Comercio
 
@@ -525,6 +529,8 @@ testamentarias o intestamentarias ante Notario
 
 Público. 20.0
 
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2010)</small>
+
 XIX. Por la inscripción de los documentos en que consten los actos que a continuación se señalan:
 
 a) Actos, contratos, convenios o resoluciones
@@ -535,13 +541,13 @@ constituya un fraccionamiento, se lotifique,
 
 relotifique, divida o subdivida un inmueble,
 
-por cada lote. 6.5
+por cada lote. 8.00
 
 b) Fusión, por cada lote. 10.0
 
 c) Constitución del régimen de propiedad en
 
-condominio, por cada unidad privativa. 12.5
+condominio, por cada unidad privativa. 8.0
 
 XX. Por la inscripción de documentos en que consten los actos que a continuación se relacionan:
 
@@ -915,15 +921,431 @@ haber sido cesado o suspendido de la misma. 10.5
 
 XVI. Constancias de disposiciones testamentarias. 6.5
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2010)</small>
 
-#### Sección Primera. Derechos por Servicios que Presta la Dirección de Asuntos Jurídicos
+XVII. Registro de poderes que realicen los
+
+notarios públicos. 3.0
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 2010)</small>
+
+#### Sección Cuarta. Derechos por los Servicios que presta la Dirección de Catastro Urbano Rural
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2010)</small>
+
+Artículo 16 A.- Las personas físicas o morales que constituyan fraccionamientos, Régimen de Propiedad en condominio o predios resultantes de la regularización de la tenencia de la tierra, pagarán derechos por registro y expedición de cédula catastral, por cada lote de área vendible de fraccionamiento o unidad de propiedad en condominio o regularización, en la forma siguiente:
+
+CLASIFICACIÓN TARIFA
+
+S.M.D.V.E.
+
+l. Habitacionales urbanos de interés social,
+
+de tipo popular, campestres y granjas de
+
+explotación agropecuaria, condominios
+
+horizontales y verticales de tipo interés social
+
+o popular. 6.0
+
+II. Habitacionales urbanos tipo medio,
+
+industriales e industriales de tipo selectivo. 8.0
+
+III. Habitacionales urbanos de primera,
+
+horizontal y vertical tipo residencial. 14.0
+
+IV. Colonias, barrios o asentamientos
+
+humanos regularizados por los municipios
+
+o las dependencias facultadas. 2.0
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2010)</small>
+
+Artículo 16 B.- Por los servicios que presta la Dirección de Catastro Urbano y Rural, se causarán y pagarán por cada uno, los siguientes derechos:
+
+CLASIFICACIÓN TARIFA
+
+S.M.D.V.E.
+
+l.- Por la expedición de la Cédula - Avalúo Catastral:
+
+Valor del inmueble:
+
+a). De $00,001 hasta $ 50,000. 8.0
+
+b). De $50,001 hasta $ 100,000. 9.0
+
+c). De $100,001 hasta $ 200,000. 13.0
+
+d). De $200,001 hasta $ 300,000. 18.0
+
+e). De $300,001 hasta $ 400,000. 25.0
+
+f). De $400,001 hasta $ 500,000. 32.0
+
+g). De $500,001 hasta $ 1, 000,000. 40.0
+
+h). De $1,000,001 hasta $ 5, 000,000. 60.0
+
+i). De $ 5,000,001 en adelante. 80.0
+
+II. Expedición de cédula catastral, por predio:
+
+a) Tratándose de predios de interés social. 2.0
+
+b) En los demás casos. 3.0
+
+III. Por la verificación de avalúos efectuados por peritos autorizados por la Secretaría de Hacienda; de conformidad con el valor del inmueble objeto del avalúo, de acuerdo a lo siguiente:
+
+a) De $00.001.00 hasta $ 100,000 4.0
+
+b) De $100,001 hasta $ 200,000 8.0
+
+c) De $200,001 hasta $ 300,000 12.0
+
+d) De $300,001 hasta $ 400,000 16.0
+
+e) De $400,001 hasta $ 500,000 20.0
+
+f) De $500,001 hasta $ 600,000 24.0
+
+g) De $600,001 hasta $800,000 32.0
+
+h) De $800,001 hasta $1'000,000 40.0
+
+i) De $1'000,001 hasta $1'500,000 60.0
+
+j) De $1'500,001 hasta $2'000,000 80.0
+
+k) De $2'000,001 hasta $2'500,000 101.0
+
+l) De $2'500,001 hasta $3'000,000 121.0
+
+m) De $3'000,001 hasta $3'500,000 141.0
+
+n) De $3'500,001 hasta $4'000,000 161.0
+
+o) De 4,000,001 hasta $5'000,000 202.0
+
+p) De $5'000,001 hasta $10'000,000 242.0
+
+q) De $10'000,001 en adelante. 500.0
+
+El pago de este Derecho deberá ser enterado antes de la presentación del avalúo ante las autoridades catastrales.
+
+IV. Expedición de constancias y reportes catastrales, por predio:
+
+a) De medidas y colindancias. 5.0
+
+b) De registro de datos catastrales. 3.0
+
+c) De reporte catastral generado por el
+
+sistema de gestión catastral. 2.0
+
+V. Búsquedas catastrales, por predio:
+
+a) Por búsqueda en el sistema de gestión
+
+catastral. 3.0
+
+b) Por búsqueda de documentos, que sean
+
+competencia de esta Dirección y que obren
+
+en sus archivos. 4.0
+
+VI. Expedición de copias simples de documentos con los que se registró catastralmente un predio, por cada predio, en fotostática, hasta 20 hojas.
+
+Por hoja adicional se cobrarán $3.00
+
+Por certificación de los documentos a que se
+
+refiere está fracción, hasta 20 hojas. 205
+
+Por hoja certificada adicional se pagará $5.00. 6.5
+
+VII. Expedición de plano catastral de predio urbano que figure en el registro gráfico a escala solicitada, con medidas y colindancias:
+
+En tamaño carta u oficio.
+
+VIII. Expedición de plano catastral, con información general y en niveles de información específica de localidades, impresas por decímetro cuadrado:
+
+a) A nivel manzana que figure en el registro gráfico. 0.3
+
+b) Temáticos cartográficos especiales, impresos
+
+con niveles de información extra. 0.1
+
+IX. Certificación de planos topográficos presentados incluyendo verificación de campo:
+
+a) Hasta cinco hectáreas. 13.0
+
+b) Mayor de cinco hasta diez hectáreas. 25.0
+
+c) Por cada hectárea o fracción adicional,
+
+después de diez. 1.0
+
+X. Levantamiento con equipo topográfico y elaboración de planos correspondientes:
+
+a) Hasta una hectárea. 15.0
+
+b) Mayor de una hasta cinco hectáreas. 30.0
+
+c) Mayor de cinco hasta diez hectáreas. 40.0
+
+d) Mayor de diez hasta veinte hectáreas. 60.0
+
+e) Mayor de veinte hasta cuarenta hectáreas. 100.0
+
+f) Mayor de cuarenta, se cobrará por hectárea
+
+o fracción adicional. 3.0
+
+El levantamiento con curvas de nivel implicará un costo adicional del 50%.
+
+Los gastos de traslado y estancia del personal corren a cargo del solicitante del levantamiento, el personal que ejecuta el trabajo no realiza las labores de limpia de callejones o linderos.
+
+XI. Deslinde catastral y elaboración de planos correspondientes:
+
+a) Hasta una hectárea. 30.0
+
+b) Mayor de una hasta cinco hectáreas. 40.0
+
+c) Mayor de cinco hasta diez hectáreas. 60.0
+
+d) Mayor de diez hasta veinte hectáreas. 75.0
+
+e) Mayor de veinte hasta cuarenta hectáreas. 150.0
+
+f) Mayor de cuarenta, se cobrará por hectárea
+
+o fracción adicional. 5.0
+
+Los gastos de traslado y estancia del personal corren a cargo del solicitante del levantamiento, el personal que ejecuta el trabajo no realiza las labores de limpia de callejones o linderos.
+
+XII. Información de coordenadas geográficas
+
+de puntos monumentados de la red
+
+geodésica estatal por punto, así como la
+
+lectura de las estaciones base para corrección
+
+diferencial GPS en forma digital por hora. 2.0
+
+XIII. Establecimiento de puntos monumentados
+
+GPS, por punto, sin incluir la construcción del
+
+monumento. 2.0
+
+XIV. Por registro catastral de fusión de predios y expedición de cédula catastral:
+
+a) Urbano:
+
+1. De dos hasta cinco. 8.0
+
+2. De seis en adelante. 20.0
+
+b) Rústico, por cada predio fusionado. 2.0
+
+XV. Por registro de cada lote resultante de la
+
+subdivisión de un predio y expedición de
+
+cédula catastral. 6.0
+
+XVI. Por registro y expedición de cédula
+
+catastral de predios con estudio técnico. 3.0
+
+XVII. Captura gráfica digital (vectorización) en 2d de información no contenida en archivos catastrales sobre levantamientos topográficos:
+
+a) Plano topográfico a color de poligonales,
+
+curvas de nivel y temáticos. 10.0
+
+b) Plano topográfico blanco y negro de
+
+poligonales, curvas de nivel y temáticos. 6.0
+
+c) Respaldo magnético en formato gráfico
+
+DGN. 25.0
+
+XVIII. Captura gráfica digital (vectorización) en 2d de información no contenida en archivos catastrales de colonias y fraccionamientos:
+
+a) Respaldo en CD magnético con
+
+características estandarizadas en niveles
+
+de información y en formato gráfico DGN. 37.0
+
+XIX. Impresiones de captura gráfica digital en 2d de información no contenida en archivos catastrales de fraccionamientos y colonias.
+
+a) Impresiones a escalas solicitadas en blanco
+
+y negro o en color estandarizado, hasta tamaño
+
+doble legal. 2.0
+
+b) Expedición de planos en blanco y negro
+
+o a color estándar, por decímetro cuadrado. 0.15
+
+XX. Conversión de formatos gráficos de
+
+lectura cartográfica a específicos por DGN
+
+A, DXF A o DWG A. 4.5
+
+XXI. Levantamiento y proceso para cálculo de coordenadas en proyección UTM de puntos de apoyo terrestre, (estos precios varían en función de la distancia que exista entre la estación base y el punto de control terrestre en cuestión):
+
+a) Local. 20.0
+
+b) Foráneo. 56.0
+
+XXII. Escaneo fotogramétrico (resolución
+
+25 Mb, archivo de 80 Mb, quemado en
+
+CD): fotografía. 8.0
+
+XXIII. Armado de modelos, orientación
+
+absoluta y relativa, restitución, conversión
+
+de archivos 3d, 2d, claves de niveles y limpieza
+
+topológica por modelo (2 Km2). 202.0
+
+XXIV. Impresión de Orthofoto en papel bond.
+
+a) 1 (uno) metro cuadrado de cubrimiento
+
+cartográfico 0.01
+
+El tamaño de la hoja de impresión de este Derecho, queda a juicio de la Autoridad Catastral.
+
+XXV. Por impresión de padrones o fichas
+
+de datos catastrales que contengan
+
+información catastral de predios urbanos
+
+o rústicos en medios magnéticos o impresos,
+
+siempre y cuando sea mayor de cinco predios,
+
+por registro, a solicitud de personas físicas o
+
+morales. 0.5
+
+XXVI. Dictamen de Avalúo Catastral. 10.0
+
+XXVII. Modelo Digital de elevación y terreno
+
+de formato digital (1 Km2) 23.0
+
+XXVIII. Línea base de control GPS modo estático (Línea de Control Azimutal). Entrega de un informe ejecutivo escrito de las coordenadas resultantes del levantamiento.
+
+a) Levantamiento Foráneo. 100.0
+
+b) Levantamiento Local. 80.0
+
+Este servicio no incluye los gastos por traslado y estancia del personal mismos que correrán por cuenta del solicitante del servicio, el personal no realiza labores de limpia de callejones o linderos ni la construcción del monumento.
+
+XXIX. Punto de levantamiento Geodésico con receptor GPS en modo RTK (cinemática-tiempo real). Local y Foráneo. Entregando un informe ejecutivo escrito de las coordenadas resultantes del levantamiento.
+
+a) Foráneo. 40.0
+
+b) Local. 20.0
+
+Este servicio no incluye los gastos por traslado y estancia del personal mismos que correrán por cuenta del solicitante del servicio, el personal no realiza labores de limpia de callejones o linderos ni la construcción del monumento.
+
+XXX. Replanteo de un punto geodésico con equipos GPS, incluyendo el levantamiento y proceso para cálculo de coordenadas en proyección UTM de puntos de apoyo terrestre, Local y Foráneo. Entrega de informe ejecutivo escrito de las coordenadas resultantes del levantamiento, verificación del expediente técnico proporcionado por el contribuyente, ubicación del control terrestre para ser utilizado en la fase inicial del replanteo, verificación del inicio de los trabajos, conversión y/o transformación de coordenadas en el sistema WGS84, calibración de coordenadas y líneas para el inicio de replanteo, verificación de coordenadas replanteadas.
+
+a) Foráneo 100.0
+
+b) Local. 80.0
+
+Este servicio no incluye los gastos por traslado y estancia del personal del mismo que correrán por cuenta del solicitante del servicio, el personal no realiza labores de limpia de callejones o linderos ni la construcción del monumento.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2010)</small>
+
+Artículo 16 C.- Por los servicios relacionados con la propiedad inmobiliaria municipal que administre el Estado, se causarán y pagarán por cada uno, los siguientes derechos:
+
+SERVICIO TARIFA
+
+S.M.D.V.E.
+
+I. Certificación del último pago predial de los
+
+municipios que administra el Estado; expedición
+
+de constancias incluyendo la búsqueda de
+
+comprobantes de pagos en materia inmobiliaria
+
+municipal. 1.5
+
+II. Certificado de no adeudo predial en municipios
+
+que administra el Estado. 2.0
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2010)</small>
+
+Artículo 16 D.- Por autorización y registro de licencias para peritos valuadores causarán los derechos por cada especialidad de la siguiente forma:
+
+SERVICIO TARIFA
+
+S.M.D.V.E.
+
+I. Registro definitivo en todas las especialidades. 60.0
+
+II. Registro provisional en todas las especialidades. 35.0
+
+III. Revalidación anual del registro en todas las
+
+especialidades. 50.0
+
+IV. Aplicación de examen a aspirantes a
+
+perito valuador. 8.0
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2010)</small>
+
+Artículo 16 E.- Para el registro en el padrón de Catastro Urbano y Rural del Estado, como Ingeniero topógrafo en cualquiera de sus especialidades así como Ingenieros en Geomática para realizar levantamientos topográficos con fines catastrales, causarán los siguientes derechos:
+
+CLASIFICACIÓN TARIFA
+
+S.M.D.V.E.
+
+I. Registro por 1 (uno) año. 6.0
+
+II. Revalidación anual del registro. 50.0
+
+III. Aplicación de examen a aspirantes
+
+para estar inscritos en el padrón de profesionistas
+
+especializados en materia de levantamientos
+
+topográficos catastrales. 80.0
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ### Capítulo II. Derechos por Servicios que Presta la Secretaría General de Gobierno
 
 > <small>(REFORMADA Y REUBICADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-#### Sección Segunda. Derechos por otros Servicios que Presta la Secretaría General de Gobierno
+#### Sección Primera. Derechos por Servicios que Presta la Dirección de Asuntos Jurídicos
 
 ###### Artículo 17.
 
@@ -957,11 +1379,7 @@ Quedan exceptuados del pago de derechos por publicaciones, las dependencias y ó
 
 > <small>(REFORMADA Y REUBICADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-#### Sección Primera. Derechos por los Servicios que Presta la Dirección de Ingresos
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+#### Sección Segunda. Derechos por otros Servicios que Presta la Secretaría General de Gobierno
 
 ###### Artículo 18.
 
@@ -1063,9 +1481,149 @@ fotostática, hasta 20 hojas. 6.5
 
 Por hoja adicional se pagará $ 5.00.
 
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2010)</small>
+
+Artículo 18 B.- Quienes cuenten con establecimientos que tengan como actividad la venta de bebidas alcohólicas deberán obtener las constancias de inscripción y funcionamiento que para tales efectos expida la Secretaría de Hacienda, mismos que se causarán y pagarán por cada uno los servicios:
+
+SERVICIO TARIFA
+
+S.M.D.V.E.
+
+l. Por la expedición de la constancia de
+
+funcionamiento del establecimiento que tenga
+
+como actividad la venta de bebidas alcohólicas
+
+en envase abierto, al copeo y licencias para
+
+giros eventuales o eventos públicos en una
+
+sola ocasión, en salones de baile y/o salones
+
+de fiesta. 125.0
+
+II. Por la expedición de la constancia de
+
+funcionamiento del establecimiento que tenga
+
+como actividad la venta de bebidas alcohólicas
+
+en envase abierto, al copeo para giros eventuales
+
+o eventos públicos en una sola ocasión,
+
+salones de boxeo y lucha libre, espectáculos
+
+taurinos y ecuestres, lienzo charro, eventos
+
+musicales, palenques de gallos, espectáculos
+
+deportivos y ferias regionales. 260.0
+
+III. Por la expedición de la constancia de
+
+inscripción del establecimiento que tenga
+
+como actividad la venta de bebidas alcohólicas
+
+en envase cerrado en agencias de distribución,
+
+establecimientos de almacenaje y venta de
+
+bebidas alcohólicas al mayoreo y fabricante o
+
+distribuidor mayoritario. 325.0
+
+IV. Por la expedición de la constancia de
+
+inscripción del establecimiento que tenga
+
+como actividad la venta de bebidas alcohólicas
+
+en envase cerrado en tiendas de abarrotes
+
+con venta de cerveza y/o vinos y licores. 50.0
+
+V. Por la expedición de la constancia de
+
+inscripción del establecimiento que tenga
+
+como actividad la ventas de bebidas
+
+alcohólicas en envase abierto, al copeo
+
+en cantinas, bar diurno, bar nocturno,
+
+bar de centro de apuestas remotas y
+
+similares, cervecerías, centro botanero; y
+
+en envase cerrado en mini súper,
+
+depósitos de cerveza, vinos y licores,
+
+supermercados, tiendas de autoservicio y
+
+centros comerciales. 190.0
+
+VI. Por la expedición de la constancia de
+
+inscripción del establecimiento que tenga
+
+como actividad la venta de bebidas
+
+alcohólicas en envase abierto o al copeo
+
+en restaurantes con venta de cervezas, vinos
+
+y licores, billares y boleramas. 75.0
+
+VII. Por la expedición de la constancia de
+
+inscripción del establecimiento que tenga
+
+como actividad la venta de bebidas
+
+alcohólicas en envase abierto, al
+
+copeo en cabaret, centros nocturnos y
+
+discotecas. 275.0
+
+VIII. Por cada hora adicional de
+
+funcionamiento en horario extraordinario,
+
+por cada ocasión se pagará: 50.0
+
+IX. Por cambio de giro manifestado en
+
+las constancias expedidas en semestres o
+
+ejercicios anteriores. 13.5
+
+Las constancias establecidas de la fracción III a la VII de este artículo, tendrán vigencia semestral, el primer periodo comprenderá del primero de enero al treinta de junio y el segundo periodo será del primero de julio al treinta y uno de diciembre.
+
+El pago deberá realizarse dentro de los primeros cuarenta y cinco días naturales de cada semestre.
+
+Para los propietarios de establecimientos que inicien su actividad con venta de bebidas alcohólicas durante la segunda mitad de los periodos a que se refiere el segundo párrafo de este artículo, el derecho causado por dicho semestre se pagará en proporción del 60%.
+
+Cuando por su denominación algún establecimiento no se encuentre comprendido en las fracciones III a la VII de este artículo, se ubicará en aquel que por sus características le sea más semejante.
+
+Para la expedición de la constancia de funcionamiento a que se refieren las fracciones I y II de este artículo y en horario extraordinario, deberán presentar el dictamen de aprobación de la autoridad sanitaria.
+
+Se aplicará un descuento del 50% en las tarifas de los derechos contemplados en el presente artículo en sus fracciones III a la VII, para aquellos contribuyentes que realicen el pago dentro de los cuarenta y cinco días del primer y segundo semestre, para quienes lo realicen fuera del plazo establecido, el descuento a aplicar será del 20% sobre la tarifa semestral, y se le aplicarán los accesorios correspondientes por la mora de acuerdo a la norma aplicable; salvo disposición en contrario.
+
+Para efecto de que los contribuyentes se hagan acreedores a las reducciones contempladas en el párrafo anterior, es requisito indispensable que estos regularicen los adeudos generados por la omisión de sus contribuciones hasta el Ejercicio Fiscal 2010 y que venían tributando bajo el artículo 36 de la Ley Estatal de Derechos.
+
+Los contribuyentes que hayan realizado el pago de los derechos contemplados en el presente artículo en su totalidad, podrán solicitar la devolución del excedente sujetándose a lo establecido en los artículos 51 y 81 del Código de la Hacienda Pública para el Estado de Chiapas.
+
+Para el caso de los contribuyentes que inicien sus operaciones y se inscriban por primera vez en el padrón, no se aplicará descuento alguno durante el primer semestre en el que ocurra su inscripción en el padrón estatal de contribuyentes, el descuento se iniciará a partir del semestre inmediato posterior.
+
 > <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-#### Sección Segunda. Derechos por los Servicios de Control Vehicular
+#### Sección Primera. Derechos por los Servicios que Presta la Dirección de Ingresos
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -1195,13 +1753,31 @@ procedencia extranjera, se encuentran en
 
 proceso de verificación. 2.0
 
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2010)</small>
+
+X. Por la práctica de visita de verificación
+
+para otorgamiento del permiso de de (sic) apertura,
+
+instalación y funcionamiento de establecimientos
+
+que tengan como actividad principal ofertar al
+
+público la celebración de contratos de mutuo
+
+con interés y garantía prendaría, a través de las
+
+llamadas casas de empeño. 15.0
+
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
-#### Sección Tercera. Derechos por Los Servicios que Presta La Dirección de Catastro Urbano y Rural
+#### Sección Segunda. Derechos por los Servicios de Control Vehicular
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 20.
 
@@ -1271,623 +1847,31 @@ Para el otorgamiento de las placas de demostración y de placas especiales a veh
 
 Para el otorgamiento de placas de circulación de vehículos eléctricos o que además cuenten con motor de combustión interna, los propietarios de estos estarán sujetos a las Reglas de Carácter General que para tal efecto emita la Secretaría de Hacienda.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+Artículo 20 A.- (DEROGADO, P.O. 30 DE DICIEMBRE DE 2010)
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+Artículo 20 B.- (DEROGADO, P.O. 30 DE DICIEMBRE DE 2010)
 
-Artículo 20 A.- Por los servicios relacionados con la propiedad inmobiliaria municipal que administre el Estado, se causarán y pagarán por cada uno, los siguientes derechos:
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 2010)</small>
 
-SERVICIO TARIFA
+#### Sección Tercera
 
-S.M.D.V.E.
+###### Artículo 21.
 
-l. Certificación del último pago predial de los
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2010)
 
-municipios que administra el Estado;
+###### Artículo 22.
 
-expedición de constancias, incluyendo
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2010)
 
-la búsqueda de comprobantes de pagos
+###### Artículo 23.
 
-en materia inmobiliaria municipal. 1.5
-
-II. Certificado de no adeudo predial en
-
-municipios que administra el Estado. 2.0
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
-
-Artículo 20 B.- Quienes cuenten con establecimientos que tengan como actividad la venta de bebidas alcohólicas, deberán obtener las constancias de inscripción y funcionamiento que para tales efectos expida la Secretaría de Hacienda, mismos que se causarán y pagarán por cada uno de los servicios:
-
-SERVICIO TARIFA
-
-S.M.D.V.E.
-
-I. Por la expedición de la constancia de
-
-funcionamiento del establecimiento
-
-que tenga como actividad la venta de
-
-bebidas alcohólicas en envase abierto,
-
-al copeo y licencias para giros eventuales
-
-o eventos públicos en una sola ocasión,
-
-en salones de baile y/o salones de fiesta. 125.0
-
-II. Por la expedición de la constancia de
-
-funcionamiento del establecimiento
-
-que tenga como actividad la venta de
-
-bebidas alcohólicas en envase abierto,
-
-al copeo para giros eventuales o eventos
-
-públicos en una sola ocasión, salones de
-
-boxeo y lucha libre, espectáculos
-
-taurinos y ecuestres, lienzo charro,
-
-eventos musicales, palenques de
-
-gallos, espectáculos deportivos
-
-y ferias regionales. 260.0
-
-III. Por la expedición de la constancia de
-
-inscripción del establecimiento que
-
-tenga como actividad la venta de
-
-bebidas alcohólicas en envase
-
-cerrado en agencias de distribución,
-
-establecimientos de almacenaje y
-
-venta de bebidas alcohólicas al
-
-mayoreo y fabricante
-
-o distribuidor mayoritario. 325.0
-
-IV. Por la expedición de la constancia de
-
-inscripción del establecimiento que
-
-tenga como actividad la venta de bebidas
-
-alcohólicas en envase cerrado en tiendas
-
-de abarrotes con venta de cerveza
-
-y/o vinos y licores. 50.0
-
-V. Por la expedición de la constancia de
-
-inscripción del establecimiento que tenga
-
-como actividad la ventas de bebidas
-
-alcohólicas en envase abierto, al copeo
-
-en cantinas, bar diurno, bar nocturno,
-
-bar de centro de apuestas remotas y
-
-similares, cervecerías, centro botanero;
-
-y en envase cerrado en mini súper,
-
-depósitos de cerveza, vinos y licores,
-
-supermercados, tiendas de autoservicio
-
-y centros comerciales. 190.0
-
-VI. Por la expedición de la constancia de
-
-inscripción del establecimiento que tenga
-
-como actividad la venta de bebidas alcohólicas
-
-en envase abierto o al copeo en restaurantes
-
-con venta de cervezas, vinos y licores,
-
-billares y boleramas. 75.0
-
-VII. Por la expedición de la constancia de
-
-inscripción del establecimiento que tenga
-
-como actividad la venta de bebidas alcohólicas
-
-en envase abierto, al copeo en cabaret, centros
-
-nocturnos y discotecas. 275.0
-
-VIII. Por cada hora adicional de funcionamiento
-
-en horario extraordinario, por cada ocasión
-
-se pagará: 50.0
-
-IX. Por cambio del giro manifestado en las
-
-constancias expedidas en semestres o
-
-ejercicios anteriores. 13.5
-
-Las constancias establecidas de la fracción III a la VII de este artículo, tendrán vigencia semestral, el primer periodo comprenderá del primero de enero al treinta de junio y el segundo periodo será del primero de julio al treinta y uno de diciembre.
-
-El pago deberá realizarse dentro de los primeros cuarenta y cinco días naturales de cada semestre.
-
-Para los propietarios de establecimientos que inicien su actividad con venta de bebidas alcohólicas durante la segunda mitad de los periodos a que se refiere el segundo párrafo de este artículo, el derecho causado por dicho semestre se pagará en proporción del 60%.
-
-Cuando por su denominación algún establecimiento no se encuentre comprendido en las fracciones III a la VII de este artículo, se ubicará en aquel que por sus características le sea más semejante.
-
-Para la expedición de la constancia de funcionamiento a que se refieren las fracciones I y II de este artículo y en horario extraordinario, deberán presentar el dictamen de aprobación de la autoridad sanitaria.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2010)
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 #### Sección Cuarta. Derechos por los Servicios que Presta la Dirección de Cobranza
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
-
-###### Artículo 21.
-
-Las personas físicas o morales que constituyan fraccionamientos, Régimen de Propiedad en condominio o predios resultantes de la regularización de la tenencia de la tierra, pagarán derechos por registro y expedición de cédula catastral, por cada lote de área vendible de fraccionamiento o unidad de propiedad en condominio o regularización, en la forma siguiente:
-
-Clasificación Tarifa
-
-S.M.D.V.E.
-
-I. Habitacionales urbanos de interés social, de tipo
-
-popular, campestres y granjas de explotación
-
-agropecuaria, condominios horizontales y
-
-verticales de tipo interés social o popular. 6.0
-
-II. Habitacionales urbanos tipo medio, industriales
-
-e industriales de tipo selectivo. 8.0
-
-III. Habitacionales urbanos de primera, horizontal
-
-y vertical tipo residencial. 14.0
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 31 DE DICIEMBRE DE 2009)</small>
-
-IV. Colonias, barrios o asentamientos humanos
-
-regularizados por los Municipios o las
-
-dependencias facultadas. 2.0
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2009)</small>
-
-###### Artículo 22.
-
-Por los servicios que presta la Dirección de Catastro Urbano y Rural, se causarán y pagarán por cada uno de los servicios, los siguientes derechos:
-
-SERVICIO TARIFA
-
-S.M.D.V.E.
-
-I. Por la expedición de la Cédula - Avalúo Catastral:
-
-Valor del inmueble:
-
-a) De $00,001 hasta $50,000. 8.0
-
-b) De $50,001 hasta $100,000. 9.0
-
-c) De $100,001 hasta $200,000. 13.0
-
-d) De $200,001 hasta $300,000. 18.0
-
-e) De $300,001 hasta $400,000. 25.0
-
-f) De $400,001 hasta $500,000. 32.0
-
-g) De $500,001 hasta $1,000,000. 40.0
-
-h) De $1,000,001 hasta $5,000,000. 60.0
-
-> <small>(F. DE E., P. O. 20 DE ENERO DE 2010)</small>
-
-i) De $5,000,001 en adelante. 80.0
-
-II. Expedición de cédula catastral, por predio:
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
-
-a) Tratándose de predios de interés social. 2.0
-
-b) En los demás casos. 3.0
-
-(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008) (F. DE E., P.O. 14 DE ENERO DE 2009)
-
-III. Por la verificación de avalúos efectuados por peritos autorizados por la Secretaría de Hacienda; de conformidad con el valor del inmueble objeto del avalúo, de acuerdo a lo siguiente:
-
-a) De $00.001.00 hasta $100,000 4.0
-
-b) De $100,001 hasta $200,000 8.0
-
-c) De $200,001 hasta $300,000 12.0
-
-d) De $300,001 hasta $400,000 16.0
-
-e) De $400,001 hasta $500,000 20.0
-
-f) De $500,001 hasta $ 600,000 24.0
-
-g) De $600,001 hasta $800,000 32.0
-
-h) De $800,001 hasta $1'000,000 40.0
-
-i) De $1'000,001 hasta $1'500,000 60.0
-
-j) De $1'500,001 hasta $2'000,000 80.0
-
-k) De $2'000,001 hasta $2'500,000 101.0
-
-l) De $2'500,001 hasta $3'000,000 121.0
-
-m) De $3'000,001 hasta $3'500,000 141.0
-
-n) De $3'500,001 hasta $4'000,000 161.0
-
-o) De $4,000,001 hasta $5'000,000 202.0
-
-p) De $5'000,001 hasta $10'000,000 242.0
-
-q) De $10'000,001 en adelante. 500.0
-
-El pago de este derecho deberá ser enterado antes de la presentación del avalúo ante las autoridades catastrales.
-
-IV. Expedición de constancias y reportes catastrales, por predio:
-
-a) De medidas y colindancias. 5.0
-
-b) De registro de datos catastrales. 3.0
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
-
-c) De reporte catastral generado por el sistema
-
-de gestión catastral. 2.0
-
-V. Búsquedas catastrales, por predio:
-
-(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008) (F. DE E., P.O. 14 DE ENERO DE 2009)
-
-a) Por la búsqueda en el sistema de gestión
-
-catastral. 3.0
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
-
-b) Por búsqueda de documentos, que sean
-
-competencia de esta Dirección y que
-
-obren en sus archivos. 4.0
-
-VI. Expedición de copias simples de documentos
-
-con los que se registró catastralmente un predio,
-
-por cada predio, en fotostática, hasta 20 hojas. 2.5
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
-
-Por hoja adicional se cobrarán $3.00
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE FEBRERO DE 2008)</small>
-
-Por certificación de los documentos a que se
-
-refiere esta fracción, hasta 20 hojas. 6.5
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE FEBRERO DE 2008)</small>
-
-Por hoja certificada adicional se pagará $5.00.
-
-VII. Expedición de plano catastral de predio urbano
-
-que figure en el registro gráfico a escala solicitada,
-
-con medidas y colindancias: 4.0
-
-En tamaño carta u oficio.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
-
-VIII. Expedición de plano catastral, con información general y en niveles de información específica de localidades, impresas por decímetro cuadrado:
-
-a) A nivel manzana que figure en el registro
-
-gráfico. 0.3
-
-b) Temáticos cartográficos especiales,
-
-impresos con niveles de información extra. 0.1
-
-IX. Certificación de planos topográficos presentados incluyendo verificación de campo:
-
-a) Hasta cinco hectáreas. 13.0
-
-b) Mayor de cinco hasta diez hectáreas. 25.0
-
-c) Por cada hectárea o fracción adicional,
-
-después de diez. 1.0
-
-Este pago no incluye el transporte. El personal que ejecuta el trabajo no realiza las labores de limpia de callejones o linderos.
-
-X. Levantamiento con equipo topográfico y elaboración de planos correspondientes:
-
-a) Hasta una hectárea. 15.0
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
-
-b) Mayor de una hasta cinco hectáreas. 30.0
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
-
-c) Mayor de cinco hasta diez hectáreas. 40.0
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
-
-d) Mayor de diez hasta veinte hectáreas. 60.0
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
-
-e) Mayor de veinte hasta cuarenta hectáreas. 100.0
-
-f) Mayor de cuarenta, se cobrará por hectárea o
-
-fracción adicional. 3.0
-
-El levantamiento con curvas de nivel implicara un costo adicional del 50%.
-
-Los gastos de traslado y estancia del personal corren a cargo del solicitante del levantamiento, el personal que ejecuta el trabajo no realiza las labores de limpia de callejones o linderos.
-
-XI. Deslinde catastral y elaboración de planos correspondientes:
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
-
-a) Hasta una hectárea. 30.0
-
-b) Mayor de una hasta cinco hectáreas. 40.0
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
-
-c) Mayor de cinco hasta diez hectáreas. 60.0
-
-d) Mayor de diez hasta veinte hectáreas. 75.0
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
-
-e) Mayor de veinte hasta cuarenta hectáreas. 150.0
-
-f) Mayor de cuarenta, se cobrará por hectárea o
-
-fracción adicional. 5.0
-
-Los gastos de traslado y estancia del personal corren a cargo del solicitante del levantamiento, el personal que ejecuta el trabajo no realiza las labores de limpia de callejones o linderos.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
-
-XII. Información de coordenadas geográficas
-
-de puntos monumentados de la red geodésica
-
-estatal por punto, así como la lectura de
-
-las estaciones base para corrección diferencial
-
-GPS en forma digital por hora. 2.0
-
-XIII. Establecimiento de puntos monumentazos
-
-GPS, por punto, sin incluir la construcción del
-
-monumento. 20.0
-
-XIV. Por registro catastral de fusión de predios y expedición de cédula catastral:
-
-a) Urbano:
-
-1) De dos hasta cinco. 8.0
-
-2) De seis en adelante. 20.0
-
-b) Rústico, por cada predio fusionado. 2.0
-
-XV. Por registro de cada lote resultante de la
-
-subdivisión de un predio y expedición de cédula
-
-catastral. 6.0
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
-
-XVI. Por registro y expedición de cédula catastral
-
-de predios con estudio técnico. 3.0
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
-
-XVII. Captura gráfica digital (vectorización) en 2d de información no contenida en archivos catastrales sobre Levantamientos Topográficos:
-
-a) Plano topográfico a color de poligonales, 10.0
-
-curvas de nivel y temáticos.
-
-b) Plano Topográfico blanco y negro de
-
-poligonales, curvas de nivel y temáticos. 6.0
-
-c) Respaldo magnético en formato gráfico DGN. 25.0
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
-
-XVIII. Captura gráfica digital (vectorización) en 2d de información no contenida en archivos catastrales de colonias y fraccionamientos:
-
-a) Respaldo en CD magnético con características
-
-estandarizadas en niveles de información y
-
-en formato gráfico DGN. 37.0
-
-XIX. Impresiones de captura gráfica digital en 2d de información no contenida en archivos catastrales de fraccionamientos y colonias.
-
-a) Impresiones a escalas solicitadas en blanco y
-
-negro o en color estandarizado, hasta tamaño
-
-doble legal. 2.0
-
-b) Expedición de planos en blanco y negro o a
-
-color están dar, por decímetro cuadrado. 0.15
-
-XX. Conversión de formatos gráficos de lectura
-
-cartográfica a específicos por DGN A, DXF A o
-
-DWG A. 4.5
-
-XXI. Levantamiento y proceso para cálculo de coordenadas en proyección UTM de puntos de apoyo terrestre, (estos precios varían en función de la distancia que exista entre la estación base y el punto de control terrestre en cuestión):
-
-a) Local. 20.0
-
-b) Foráneo. 56.0
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
-
-XXII. Escaneo fotogramétrico (resolución 25 Mb,
-
-archivo de 80 Mb, quemado en CD): fotografía. 8.0
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
-
-XXIII. Armado de modelos, orientación absoluta
-
-y relativa, restitución, conversión de archivos
-
-3d, 2d, claves de niveles y limpieza topológica
-
-por modelo (2 Km2). 202.0
-
-(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008) (F. DE E., P.O. 14 DE ENERO DE 2009)
-
-XXIV. Orthofoto digital impresa en papel por
-
-metro lineal:
-
-a) Bond. 12.0
-
-b) Vegetal. 17.0
-
-c) Fotográfico (escala 1:1000). 23.0
-
-d) Bond 21.0
-
-e) Vegetal 22.0
-
-f) Fotográfico (escala 1:1000). 26.0
-
-XXV. Por impresión de padrones o fichas de
-
-datos catastrales que contengan información
-
-catastral de predios urbanos o rústicos en medios
-
-magnéticos o impresos, siempre y cuando sea
-
-mayor de cinco predios, por registro, a solicitud
-
-de personas físicas o morales. 0.5
-
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
-
-XXVI. Dictamen de Avalúo Catastral. 10.0
-
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
-
-XXVII. Modelo Digital de elevación y terreno de
-
-formato digital (1 Km2) 23.0
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
-
-XXVIII. Línea base de control GPS modo estático (Línea de control acimutal), local y foráneo. Entrega de informe ejecutivo escrito de las coordenadas resultantes de levantamientos.
-
-a) Levantamiento Foráneo. 100.0
-
-b) Levantamiento Local. 80.0
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
-
-Este servicio no incluye los gastos por traslado y estancia del personal mismos que correrán por cuenta del solicitante del servicio, el personal no realiza labores de limpia de callejones o linderos ni la construcción del monumento.
-
-###### Artículo 23.
-
-Por autorización y registro de licencias para peritos valuadores causarán los derechos por cada especialidad de la siguiente forma:
-
-Servicio Tarifa
-
-S.M.D.V.E.
-
-I. Registro definitivo en todas las especialidades. 60.0
-
-II. Registro provisional en todas las especialidades. 35.0
-
-III. Revalidación anual del registro en todas las
-
-especialidades. 50.0
-
-IV. Aplicación de examen a aspirantes a perito
-
-valuador. 8.0
-
-> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2008)</small>
-
-#### Sección Quinta. Derechos por los Servicios que presta la Dirección de Auditoría Fiscal
 
 ###### Artículo 24.
 
@@ -1939,9 +1923,7 @@ VI. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2008) (F. DE E., P.O. 14 DE ENERO DE 2009
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-#### Sección Sexta. Derechos por los Servicios que Presta la Unidad de Coordinación Hacendaria
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+#### Sección Quinta. Derechos por los Servicios que presta la Dirección de Auditoría Fiscal
 
 ###### Artículo 25.
 
@@ -1973,23 +1955,11 @@ competencia de esta Dirección y que obren en
 
 sus archivos. 1.5
 
-IV. Por la práctica de visita de verificación para
-
-otorgamiento del permiso de apertura,
-
-instalación y funcionamiento de establecimientos
-
-que tengan como actividad principal ofertar al
-
-público la celebración de contratos de mutuo
-
-con interés y garantía prendaría, a través de las
-
-llamadas casas de empeño. 15.0
+IV. (DEROGADA, P.O. 30 DE DICIEMBRE DE 2010)
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-#### Sección Séptima. Derechos por los Servicios que Presta la Dirección de Remuneraciones y Retenciones
+#### Sección Sexta. Derechos por los Servicios que Presta la Unidad de Coordinación Hacendaria
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -2011,7 +1981,7 @@ Por hoja adicional se cobrara $5.00.
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-#### Sección Primera. Derechos por Servicios que Presta La Dirección de Sanidad
+#### Sección Séptima. Derechos por los Servicios que Presta la Dirección de Remuneraciones y Retenciones
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -2033,7 +2003,7 @@ I. Por la expedición de constancias de sueldo. 1.5
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-#### Sección Primera. Derechos por Servicios que Presta la Dirección de La Policía Auxiliar y de servicios Privados de Seguridad
+#### Sección Primera. Derechos por Servicios que Presta La Dirección de Sanidad
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -2087,17 +2057,33 @@ I. Servicio armado por elemento de 12 horas,
 
 de lunes a sábado, por mes. 156.0
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE DICIEMBRE DE 2010)</small>
+
+Cuando el servicio referido en la fracción anterior comience a prestarse posterior al primer día de cada mes, siempre que no rebase de un periodo de 30 días, se cobrarán 6.0 S.M.D.V.E., por cada día de servicio proporcionado.
+
 II. Servicio armado por elementos de 12 horas,
 
-De lunes a domingo, por mes. 175.0
+de lunes a domingo, por mes. 175.0
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE DICIEMBRE DE 2010)</small>
+
+Cuando el servicio referido en la fracción anterior comience a prestarse posterior al primer día de cada mes, siempre que no rebase de un periodo de 30 días, se cobrarán 6.0 S.M.D.V.E., por cada día de servicio proporcionado.
 
 III. Servicio desarmado por elemento de 12
 
 horas, de lunes a sábado por mes. 142.0
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE DICIEMBRE DE 2010)</small>
+
+Cuando el servicio referido en la fracción anterior comience a prestarse posterior al primer día de cada mes, siempre que no rebase de un periodo de 30 días, se cobrarán 6.0 S.M.D.V.E., por cada día de servicio proporcionado.
+
 IV. Servicio desarmado por elemento de 12
 
 horas, de lunes a domingo, por mes. 160.0
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE DICIEMBRE DE 2010)</small>
+
+Cuando el servicio referido en la fracción anterior comience a prestarse posterior al primer día de cada mes, siempre que no rebase de un periodo de 30 días, se cobrarán 6.0 S.M.D.V.E., por cada día de servicio proporcionado.
 
 V. Servicio armado a instituciones de banca
 
@@ -2227,13 +2213,11 @@ actividades que se relacionen directamente
 
 con servicios de seguridad privada. 100.0
 
+#### Sección Primera. Derechos por Servicios que Presta la Dirección de La Policía Auxiliar y de servicios Privados de Seguridad
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 #### Sección Segunda. Servicios que Presta la Dirección de Tránsito
-
-#### Sección Tercera. Servicios que Presta El Instituto de Protección Civil para el Manejo Integral de Riesgos de Desastres
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 31.
 
@@ -2371,25 +2355,11 @@ extravío. 3.0
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
-#### Sección Cuarta. Derechos por Servicios que Presta el Centro Único de Capacitación Policiaca de Investigación y Preventiva del Estado de Chiapas
+#### Sección Tercera. Servicios que Presta El Instituto de Protección Civil para el Manejo Integral de Riesgos de Desastres
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
-
-Artículo 32 A.- Por los servicios que presta el Centro Único de Capacitación Policiaca de Investigación y Preventiva del Estado de Chiapas, se causarán y pagarán por cada uno de los servicios, los siguientes derechos:
-
-S E R V I C I O T A R I F A
-
-S.M.D.V.E.
-
-I. Reclutamiento y Selección de personal. 6.1
-
-II. Capacitación Externa (por persona). 15.3
-
-III. Expedición de Constancias de
-
-Capacitación de Formación Policial. 1.2
 
 ###### Artículo 32.
 
@@ -2475,199 +2445,55 @@ a) Plan de contingencias. 20.0
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
-#### Sección Primera. Servicios que Presta la Dirección de Concesiones y Autorizaciones
+#### Sección Cuarta. Derechos por Servicios que Presta el Centro Único de Capacitación Policiaca de Investigación y Preventiva del Estado de Chiapas
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-#### Sección Segunda. Servicios que Presta la Dirección del Registro y Control del Transporte
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+Artículo 32 A.- Por los servicios que presta el Centro Único de Capacitación Policiaca de Investigación y Preventiva del Estado de Chiapas, se causarán y pagarán por cada uno de los servicios, los siguientes derechos:
 
-Artículo 33 A.- Por los servicios que presta la Dirección de Registro y Control del Transporte Público, causarán por cada uno de los conceptos los siguientes derechos:
-
-Servicio Tarifa
+S E R V I C I O T A R I F A
 
 S.M.D.V.E.
 
-I. Por constancia para determinar las condiciones
+I. Reclutamiento y Selección de personal. 6.1
 
-de seguridad, comodidad y uniforme de los
+II. Capacitación Externa (por persona). 15.3
 
-vehículos automotores destinados a la
+III. Expedición de Constancias de
 
-prestación del servicio público de transporte
+Capacitación de Formación Policial. 1.2
 
-en sus distintas modalidades. 5.0
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 30 DE DICIEMBRE DE 2010)</small>
 
-II. Por la expedición de constancias de no
+#### Sección Quinta. Servicios que presta el Centro Estatal de Control de Confianza Certificado
 
-infracción. 5.0
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2010)</small>
 
-III. Por expedición de permisos de zona para el
+Artículo 32 B.- Por los servicios que presta el Centro Estatal de Control de Confianza Certificado, se causaran y pagaran los siguientes Derechos:
 
-transporte público de carga; en las modalidades
+SERVICIO TARIFA
 
-de vehículos cerrados para el transporte de
+S.M.D.V.E.
 
-carga exprés y de servicio mixto de carga y
+l. Por examen en la especialidad de poligrafía. 48.0
 
-pasaje con capacidad de hasta tres toneladas. 12.0
+II. Por examen en la especialidad de Psicología. 13.0
 
-IV. Por el refrendo anual de permisos de zona
+III. Por examen en la especialidad de
 
-para el transporte público de carga; en las
+investigación socioeconómica. 12.0
 
-modalidades de vehículos cerrados para el
+IV. Por examen en la especialidad Médica. 17.5
 
-transporte de carga exprés y de servicio mixto
-
-de carga y pasaje con capacidad de hasta tres
-
-toneladas. 6.0
-
-V. Por la expedición de permiso temporal de
-
-sustitución de vehículos del servicio público de
-
-pasaje y carga por 30 días. 9.0
-
-VI. Por la expedición de permiso de zona en
-
-las modalidades de bajo tonelaje; acarreo de
-
-materiales para la construcción agranel (sic). 16.0
-
-VII. Por expedición de certificado de aptitud de
-
-operador de transporte público. 2.0
-
-VIII. Por refrendo anual de permisos de zona en
-
-las modalidades de bajo tonelaje; acarreo de
-
-materiales para la construcción agranel (sic); previa
-
-presentación en el módulo de pago, del recibo
-
-de cobro anterior por concepto de expedición
-
-de permiso de zona. 8.0
-
-IX. Por expedición de permisos para la
-
-explotación del servicio de transporte, en las
-
-modalidades de bicicletas, triciclos y motocicletas. 8.0
-
-X. Expedición del permiso de ruta o zona para
-
-las modalidades de transporte de pasajeros en
-
-servicio urbano y foráneo realizados en colectivo
-
-ordinario tipo vagoneta (modalidad combi);
-
-automóviles de alquiler taxis, autobuses y
-
-minibuses urbanos o foráneos. 30.0
-
-XI. Refrendo anual del permiso de ruta o zona
-
-para las modalidades de transporte de pasajeros
-
-en servicio urbano y foráneo realizados en
-
-colectivo ordinario tipo vagoneta (modalidad
-
-combi); automóviles de alquiler taxi, autobuses
-
-y minibuses urbanos o foráneos. 15.0
-
-XII. Expedición del permiso de ruta o zona de
-
-vehículos de carga en general de bajo y alto
-
-tonelaje. 23.0
-
-XIII. Refrendo anual del permiso de ruta o zona
-
-para las modalidades de transporte de
-
-pasajeros en servicio urbano y foráneo
-
-realizados en colectivo ordinario tipo combi,
-
-vanette o van; automóviles de alquiler taxis,
-
-autobuses y microbuses urbanos o foráneos. 11.5
-
-XIV. Por la revalidación anual de los permisos
-
-para vehículos de transporte de personal a
-
-campo y empresas, transporte especial en
-
-las modalidades de ambulancia, carroza o
-
-transporte escolar. 11.5
-
-XV. Por la revalidación anual de los permisos
-
-de vehículos para el transporte especial en las
-
-modalidades de pipas, centro de aprendizaje de
-
-conducción vehicular y grúas. 11.5
-
-XVI. Por la revalidación anual de permisos de
-
-paso o penetración para el transporte federal de
-
-pasaje. 6.0
-
-XVII. Revalidación anual del permiso para la
-
-prestación del servicio de transporte especial
-
-de carga y pasaje en bicicletas con remolque,
-
-triciclos o motocicletas. 6.0
-
-XVIII. Por la autorización de reposición de placas
-
-de servicio público de transporte de carga y
-
-pasaje en cualquiera de sus modalidades. 100.0
-
-XIX. Por la autorización de reposición de la tarjeta
-
-de circulación de servicio público de transporte
-
-de carga y pasaje en cualquiera de sus
-
-modalidades. 20.0
-
-> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+V. Por examen en la especialidad Toxicológico. 11.5
 
 ### Capítulo VI. Derechos por Servicios que Presta la Secretaría de Transportes
 
-#### Sección Tercera. Derechos por Servicios que Presta la Dirección de Capacitación al Sector
+#### Sección Primera. Servicios que Presta la Dirección de Concesiones y Autorizaciones
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
-
-Artículo 33 B.- Por los servicios que presta la Dirección de Capacitación al Sector, causarán por cada uno de los conceptos los siguientes derechos:
-
-Servicio Tarifa
-
-S.M.D.V.E.
-
-I. Por expedición del certificado de aptitud de
-
-operador de transporte público. 2.0
-
-II. Por la reposición del certificado de aptitud de
-
-operador del transporte público. 3.0
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 33.
 
@@ -2709,31 +2535,35 @@ carga y pasaje con capacidad hasta tres
 
 toneladas. 17.0
 
-V. Expedición de títulos de concesión para el
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2010)</small>
+
+V. Por la expedición de títulos de concesión para el
 
 servicio de transporte público en las
 
-modalidades de bajo tonelaje y volteos. 23.0
+modalidades de carga tipo general bajo tonelaje y de
+
+materiales para la construcción a granel tipo volteo. 23.0
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2010)</small>
 
 VI. Por la expedición de permisos para vehículos
 
-para el transporte de personal a campo y
+en la modalidad de personal al campo y
 
-empresas, transporte especial en las
+empresas, y de transporte especial, tipo ambulancias,
 
-modalidades de ambulancias, carroza o
+carrozas, escolar, pipa y centros de aprendizaje de
 
-transporte escolar. 23.0
+conducción vehicular. 23.0
 
-VII. Por la expedición de permiso para el
+VII. (DEROGADA, P.O. 30 DE DICIEMBRE DE 2010)
 
-transporte especial en las modalidades de pipas
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2010)</small>
 
-y centro de aprendizaje de conducción vehicular. 23.0
+VIII. Por la expedición de permiso para vehículos en
 
-VIII. Por la expedición de permiso para el
-
-transporte especial en la modalidad de grúa. 100.0
+modalidad de transporte especial, tipo grúa. 100.0
 
 IX. Por la expedición de permiso de paso o
 
@@ -2749,59 +2579,277 @@ estatalización del servicio o por cambio de
 
 adscripción. 60.0
 
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2010)</small>
+
 XI. Por la expedición de títulos de concesión
 
-para el servicio del transporte público, urbano
+para el servicio de transporte público, en la modalidad de
 
-y foráneo, en la modalidades de autobuses,
+pasaje, tipo urbano, suburbano y foráneo, de alquiler
 
-minibuses, colectivo ordinario en unidades tipo
+o taxi y exclusivo de turismo, con unidades tipo
 
-vagoneta (modalidad combi) y automóvil de
+autobús, minibus, combi, vagoneta. 60.0
 
-alquiler (taxi). 60.0
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2010)</small>
 
 XII. Por la expedición de títulos de concesión
 
-para el servicio del transporte público de carga
+para el servicio de transporte público en la modalidad
 
-en modalidades de transporte de carga
+de carga tipo general de alto tonelaje y especializada. 55.0
 
-especializada y alto tonelaje. 55.0
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2010)</small>
 
-XIII. Por integración de expediente de
+XIII. Por la integración de expedientes administrativos
 
-regularización de concesiones en cualquier
+de regularización de concesiones en cualquier
 
-modalidad, específicamente cesión o
+modalidad y tipo de unidad, por cesión de derechos
 
-transferencia de derechos. 5.0
+entre particulares, causa hereditaria e invalidez. 5.0
 
-XIV. Por expedición de títulos de regularización
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2010)</small>
 
-de concesiones en cualquier modalidad, por
+XIV. Por expedición de concesión de cualquier modalidad
 
-cesión o transferencia de derechos en sucesión
+y tipo de unidad, por cesión de derechos entre particulares,
 
-familiar de acuerdo a lo que marca la Ley de
+causa hereditaria e invalidez 100.0
 
-Transportes del Estado de Chiapas en su
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2010)</small>
 
-artículo 71, y con los requisitos que marca el
+XV. Por reexpedición o reposición cuando proceda,
 
-reglamento General de la misma Ley en su
+de concesión o permiso, en cualquiera de sus
 
-artículo 203. 100.0
-
-XV. Por expedición de constancia del estado
-
-que guarda un expediente en el archivo. 1.0
+modalidades y tipo de unidades. 1.0
 
 XVI. Por pago de derechos por la integración
 
 de expediente para solicitar una concesión. 6.0
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+#### Sección Segunda. Servicios que Presta la Dirección del Registro y Control del Transporte
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+Artículo 33 A.- Por los servicios que presta la Dirección de Registro y Control del Transporte Público, causarán por cada uno de los conceptos los siguientes derechos:
+
+Servicio Tarifa
+
+S.M.D.V.E.
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2010)</small>
+
+l. Por la expedición de constancia
+
+de condiciones de seguridad, comodidad
+
+y uniforme de vehículos automotores
+
+destinados a la prestación del servicio
+
+público de transporte en cualquier
+
+modalidad. 5.0
+
+II. Por la expedición de constancias de no
+
+infracción. 5.0
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2010)</small>
+
+III. Por la expedición de permisos de zona
+
+para el servicio público de transporte en
+
+las modalidades, de carga, tipo, Express
+
+y rural mixto de carga y pasaje, con
+
+capacidad de hasta tres toneladas. 12.0
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2010)</small>
+
+IV. Por la expedición del refrendo anual
+
+de permiso de zona para el servicio
+
+público de transporte, en las modalidades,
+
+de carga, tipo, Express y de rural mixto de
+
+carga y pasaje, con capacidad de hasta
+
+tres toneladas. 6.0
+
+V. Por la expedición de permiso temporal de
+
+sustitución de vehículos del servicio público de
+
+pasaje y carga por 30 días. 9.0
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2010)</small>
+
+VI. Por la expedición de permiso de
+
+zona en las modalidades de carga
+
+tipo en general bajo tonelaje y de
+
+materiales para la construcción a granel. 16.0
+
+VII. (DEROGADA, P.O. 30 DE DICIEMBRE DE 2010)
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2010)</small>
+
+VIII. Por la expedición del refrendo anual
+
+de permiso de zona en la modalidad de
+
+carga, tipo, en general bajo tonelaje y de
+
+materiales para la construcción a granel;
+
+previa presentación en el módulo de pago,
+
+del recibo del cobro anterior por concepto
+
+de expedición de permiso de zona. 8.0
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2010)</small>
+
+IX. Por la expedición de permiso para
+
+la explotación del servicio público de
+
+transporte, en la modalidad de
+
+transporte especial, tipo bicicleta, triciclo
+
+y motocicleta. 8.0
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2010)</small>
+
+X. Por la expedición de permiso de ruta
+
+o zona para la explotación del servicio
+
+público de transporte, en modalidad de
+
+pasaje, tipo, urbano, suburbano y foráneo,
+
+alquiler o taxi y exclusivo de turismo,
+
+realizados en vehículos combi, vagoneta,
+
+vanette o van, autobús, minibús y microbús. 30.0
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2010)</small>
+
+XI. Por la expedición del refrendo de permiso
+
+de ruta o zona para la explotación del servicio
+
+público de transporte, en modalidad de pasaje,
+
+tipo urbano, suburbano y foráneo, alquiler o
+
+taxi y exclusivo turismo, realizados en
+
+vehículos combi, vagoneta, vanette o van,
+
+autobús, minibús y microbús. 15.0
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2010)</small>
+
+XII. Por la expedición del permiso de ruta
+
+o zona de vehículos de carga, tipo, en
+
+general bajo y alto tonelaje. 23.0
+
+XIII. (DEROGADA, P.O. 30 DE DICIEMBRE DE 2010)
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2010)</small>
+
+XIV. Por la revalidación anual de permiso
+
+para vehículos de modalidad, de personal al
+
+campo y empresas, y de transporte
+
+especial, tipo, ambulancia, carroza, grúa,
+
+escolar y centro de aprendizaje de
+
+conducción vehicular. 11.5
+
+XV. (DEROGADA, P.O. 30 DE DICIEMBRE DE 2010)
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2010)</small>
+
+XVI. Por revalidación anual de permiso
+
+de paso o penetración de transporte federal
+
+de pasaje. 6.0
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2010)</small>
+
+XVII. Revalidación anual de permiso para
+
+la prestación de servicio de transporte
+
+especial, efectuado en bicicleta o triciclo
+
+con carro anexo y motocicleta. 6.0
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2010)</small>
+
+XVIII. Por la autorización de reposición
+
+de placas de servicio público de transporte
+
+en modalidades de carga y pasaje, en
+
+cualquier tipo de unidad. 100.0
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2010)</small>
+
+XIX. Por la autorización de reposición de
+
+tarjeta de circulación de servicio público
+
+de transporte en modalidades de carga y
+
+pasaje, en cualquier tipo de unidad 20.0
+
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+#### Sección Tercera. Derechos por Servicios que Presta la Dirección de Capacitación al Sector
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+Artículo 33 B.- Por los servicios que presta la Dirección de Capacitación al Sector, causarán por cada uno de los conceptos los siguientes derechos:
+
+Servicio Tarifa
+
+S.M.D.V.E.
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2010)</small>
+
+I. Por expedición del certificado de aptitud de
+
+operador de transporte público de transporte. 2.0
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2010)</small>
+
+II. Por reposición del certificado de aptitud de
+
+operador de servicio público de transporte. 3.0
 
 ### Capítulo VII. Derechos por Servicios que Presta la Secretaría de Educación
 
@@ -2843,15 +2891,7 @@ a) Tipos básico, medio superior y superior. 60.0
 
 b) Capacitación para el trabajo. 55.0
 
-III. Por solicitud de expedición del Acuerdo
-
-de Validez Oficial de Estudios de Tipo
-
-Básico; Reconocimiento de Validez Oficial
-
-de Estudios Tipo Medio Superior y Superior
-
-por carrera y modalidad. 60.0
+III. (DEROGADA, P.O. 30 DE DICIEMBRE DE 2010)
 
 IV. Actualizaciones de planes y programas
 
@@ -2891,11 +2931,7 @@ técnico superior universitario, licenciatura,
 
 especialidad, maestría y doctorado. 115.0
 
-VIII. Por autorización de cambio de domicilio de instituciones educativas particulares.
-
-a) Tipo básico y capacitación para el trabajo. 30.0
-
-b) Tipo medio superior y superior. 55.0
+VIII. (DEROGADA, P.O. 30 DE DICIEMBRE DE 2010)
 
 IX. Por expedición de constancia de
 
@@ -3023,19 +3059,37 @@ b) Tipo medio superior. 5.1
 
 c) Tipo superior. 18.2
 
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2010)</small>
+
 XXII. Expedición de equivalencia de estudios:
 
-a) Tipo básico. 1.2
+a) Tipo medio superior. 5.1
 
-b) Tipo medio superior. 5.1
-
-c) Tipo superior. 18.2
+b) Tipo superior. 18.2
 
 > <small>(F. DE E., P. O. 20 DE ENERO DE 2010)</small>
 
 XXIII. Por autorización de apertura de área de
 
 escuelas particulares de tipo medio superior. 20.0
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2010)</small>
+
+XXIV. Por autorización de derechos de
+
+registro de los Colegios de Profesionistas
+
+en el Estado, correspondientes en la inscripción
+
+y anualidad de cada uno de ellos. 110.5
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2010)</small>
+
+XXV. Por expedición de revalidación de
+
+estudios del tipo superior con fines
+
+académicos. 5.1
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -3133,7 +3187,7 @@ La autorización que la autoridad sanitaria conceda al contribuyente para la exp
 
 ###### Artículo 37.
 
-La Secretaría de Salud podrá convenir con los ayuntamientos la prestación de servicios como: expedición de licencias, permisos o autorizaciones para el funcionamiento de establecimientos o locales cuyos giros sean la enajenación de bebidas alcohólicas o la prestación de servicios que incluyan el expendio de dichas bebidas siempre que se efectúe total o parcialmente con el público en general, así como la revalidación anual de las mismas.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2010)
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -3401,19 +3455,15 @@ por los solicitantes. 2.0
 
 (DEROGADO, P.O. 31 DE DICIEMBRE DE 2009)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE DICIEMBRE DE 2010)</small>
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2009)</small>
+### Capítulo XII. Derechos por Servicios que presta la Secretaría de Medio Ambiente, Vivienda e Historia Natural
 
-### Capítulo XII. Derechos por Servicios que Presta la Secretaría de Medio Ambiente e Historia Natural
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 44.
 
-Por los servicios que presta la Secretaría de Medio Ambiente e Historia Natural, causarán y pagarán por cada uno de los servicios los siguientes derechos:
+Por los servicios que presta la Secretaría de Medio Ambiente, Vivienda e Historia Natural, causarán y pagarán por cada uno los siguientes derechos:
 
 SERVICIO TARIFA
 
@@ -3505,13 +3555,89 @@ de Servicios Ambientales del Gobierno
 
 del Estado de Chiapas. 75.0
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2010)</small>
 
-### Capítulo XIII. Derechos por Servicios que Presta el Consejo de Ejecución de Sanciones Penales y Medidas de Seguridad
+XV. Actualización de la licencia de
+
+funcionamiento de fuentes fijas de emisiones
+
+a la atmósfera. 75.0
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2010)</small>
+
+XVI. Refrendo anual del registro de generadores de residuos no peligrosos.
+
+a) Pequeños generadores 25.0
+
+b) Grandes generadores 50.0
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2010)</small>
+
+XVII. Expedición de opiniones técnicas. 100.0
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2010)</small>
+
+XVIII. Servicios de análisis fisicoquímicos
+
+(Demanda química de oxígeno, demanda
+
+bioquímica de oxígeno, fósforo total, sólidos
+
+en todas sus formas, grasas y aceites, nitritos
+
+y nitratos). 36.0
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2010)</small>
+
+XIX. Servicios de análisis fisicoquímicos (Grasas y aceites, demanda bioquímica de oxígeno y demanda química de oxígeno). 5.5 por número de parámetros.
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2010)</small>
+
+XX. Servicio de análisis fisicoquímicos (Fósforo, sólidos en todas sus formas nitritos y nitratos). 4.0 por número de parámetros.
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2010)</small>
+
+XXI. Servicios de análisis fisicoquímicos (Nitritos, nitratos, dureza total, sólidos disueltos totales, sustancias activas al azul de metileno y turbiedad). 4.0 por número de parámetros.
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2010)</small>
+
+XXII. Servicio de análisis de metales pesados, incluidos en la NOM-001- SEMERNAT-1996 y NOM-127- SSA1-1994, 6.5 por número de metales.
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2010)</small>
+
+XXIII. Servicio de análisis cromatográfico
+
+(Dicloro-difenil-tricloroetano, aldrin, dieldrin,
+
+clordano, lindano, hexaclorobenceno,
+
+hetacloro y epóxido de heptacloro, metoxicloro). 22.0
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2010)</small>
+
+XXIV. Servicio de análisis microbiológico.
+
+(Coniformes fecales y coniformes totales). 6.5
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2010)</small>
+
+XXV. Servicio de análisis barrido cromatográfico. 18.5
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE DICIEMBRE DE 2010)</small>
+
+### Capítulo XIII. Derechos por servicios que presta el Tribunal Superior de Justicia del Estado
+
+> <small>(REFORMADO, [N. DE E. ADICIONADO], P.O. 30 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 45.
 
-(DEROGADO, P.O. 30 DE DICIEMBRE DE 2009)
+Ppor los servicios que presta el Tribunal Superior de Justicia del Estado:
+
+SERVICIO TARIFA
+
+S.M.D.V.E.
+
+I. Por la Expedición de Constancias de No Antecedentes Penales. 4.0
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -3611,13 +3737,7 @@ Clasificación Municipal
 
 A B
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2009) (F. DE E. P.O. 20 DE ENERO DE 2010)
-
-VII. Por la expedición de constancias de 4.0 3.0
-
-No Antecedentes Penales
+VII. (DEROGADA, P.O. 30 DE DICIEMBRE DE 2010)
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -3692,3 +3812,9 @@ P.O. 26 DE MAYO DE 2010.
 Artículo Primero.- El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan todas las disposiciones legales que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 30 DE DICIEMBRE DE 2010.
+
+Artículo Primero.- El presente Decreto entrará en vigor el día primero de enero de dos mil once.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
