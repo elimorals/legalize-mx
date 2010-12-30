@@ -4,7 +4,7 @@ identifier: "SON-ley-del-instituto-de-seguridad-y-servicios-sociales-de-los-8446
 country: "mx"
 rank: "ley"
 publication_date: "1962-12-31"
-last_updated: "2005-06-29"
+last_updated: "2010-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8446&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 29 DE JUNIO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 30 DE DICIEMBRE DE 2010.
 
 Ley publicada en la Sección Tercera del Boletín Oficial del Gobierno del Estado de Sonora, lunes 31 de diciembre de 1962.
 
@@ -185,9 +185,11 @@ El Instituto estará obligado a expedir a todos los beneficiarios de esta ley, u
 
 En dicha cédula se anotarán los nombres y datos que establezca el reglamento.
 
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 9o.
 
-Para que los beneficiarios puedan percibir las prestaciones que les correspondan, deberán cumplir los requisitos que esta ley establece y los de los reglamentos y acuerdos que expida el Instituto con apoyo en la misma.
+Para que los beneficiarios puedan percibir las prestaciones que les correspondan, deberán cumplir los requisitos que esta Ley establece y los de los reglamentos y acuerdos que expida el Instituto con apoyo en la misma. No obstante lo anterior, los requisitos que impongan tales normatividades no podrán condicionar la prestación de los servicios en virtud de circunstancias relativas al estado de salud y/o físico del trabajador. Durante el proceso de ingreso o reingreso de los trabajadores como derechohabientes del Instituto, éste únicamente podrá exigir la realización de estudios médicos a aquéllos, con el exclusivo propósito de determinar si el Estado y/o alguno de los organismo (sic) públicos incorporados, debe cubrir aportaciones adicionales a favor del Instituto, así como la cuantía de las mismas, de acuerdo a lo dispuesto por el artículo 21 de esta Ley.
 
 > <small>(ADICIONADO, B.O. 3 DE JULIO DE 1989)</small>
 
@@ -330,6 +332,10 @@ G) El 2.5% para gastos de administración.
 > <small>(ADICIONADO, B.O. 29 DE JUNIO DE 2005)</small>
 
 H) El 1% para infraestructura, equipamiento y mantenimiento hospitalario.
+
+> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 2010)</small>
+
+Sin perjuicio de las aportaciones recién señaladas, el Instituto podrá determinar, de forma debidamente justificada con estudios actuariales, aportaciones adicionales al Estado y/o a los organismos públicos incorporados, cuando algún trabajador de cualquiera de ellos presente padecimientos preexistentes cuyo tratamiento, presente o futuro, impacte adicionalmente en las finanzas del Instituto.
 
 ###### Artículo 22.
 
@@ -2212,3 +2218,13 @@ Durante un plazo no mayor de dos años contado a partir de la vigencia de este D
 ###### ARTÍCULO DÉCIMO TERCERO.
 
 La Junta Directiva del Instituto Seguridad y Servicios Sociales de los Trabajadores del Estado de Sonora deberá emitir, dentro de un plazo de cuarenta y cinco días hábiles contados a partir de la entrada en vigor de este Decreto, las Bases, Convocatorias y el Reglamento a que se refiere el artículo 120 BIS de la misma.
+
+B.O. 30 DE DICIEMBRE DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+A la entrada en vigor del presente Decreto, se derogan todas aquellas disposiciones que se contrapongan al mismo.
