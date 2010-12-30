@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-municipio-libre-del-estado-de-san-luis-17434"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-07-11"
-last_updated: "2010-12-28"
+last_updated: "2010-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17434&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGANICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2010.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 11 de julio de 2000.
 
@@ -518,6 +518,10 @@ I. Solicitar al Ejecutivo del Estado, previo acuerdo aprobado por lo menos por l
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
 II. Nombrar, a propuesta del Presidente Municipal, al Secretario, al Tesorero, al Contralor y, en su caso, al Oficial Mayor; pudiendo removerlos libremente a propuesta del Presidente Municipal y por acuerdo del cabildo, sin responsabilidad para el ayuntamiento;
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2010)</small>
+
+En todo momento deberán observar el cumplimiento y salvaguarda de los derechos de los trabajadores del municipio que representan, por lo que son responsables de los procesos laborales que deriven en pago, por actos propios o de sus subalternos, generados en su administración. Esta responsabilidad se extiende a los laudos recaídos incluso, en periodos constitucionales posteriores a su mandato, cuyo inicio del procedimiento respectivo, se haya dado durante éste;
 
 III. Acordar con la aprobación de cuando menos las dos terceras partes de sus integrantes, previamente a la autorización del Congreso del Estado, la concesión de los bienes y servicios públicos municipales. En ningún caso podrán concesionarse los de seguridad pública, policía preventiva municipal y tránsito;
 
@@ -2296,3 +2300,9 @@ P.O. 28 DE DICIEMBRE DE 2010.
 PRIMERO. Este Decreto entrará en vigencia al día·siguiente de su publicación en el periódico oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 30 DE DICIEMBRE DE 2010.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
