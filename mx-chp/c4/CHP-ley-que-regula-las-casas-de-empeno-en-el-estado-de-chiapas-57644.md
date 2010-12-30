@@ -4,7 +4,7 @@ identifier: "CHP-ley-que-regula-las-casas-de-empeno-en-el-estado-de-chiapas-5764
 country: "mx"
 rank: "ley"
 publication_date: "2007-10-03"
-last_updated: "2009-12-31"
+last_updated: "2010-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57644&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY QUE REGULA LAS CASAS DE EMPEÑO EN EL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2010.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Chiapas, el miércoles 3 de octubre de 2007.
 
@@ -133,9 +133,9 @@ Las casas de empeño, además de los libros auxiliares que deban llevar como com
 
 Estos libros auxiliares podrán llevarse en forma digital, siempre y cuando los programas de cómputo respectivos hayan sido previamente aprobados por la Secretaría, a solicitud expresa de parte interesada.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2010)</small>
 
-Asimismo, los permisionarios informarán dentro de los diez días hábiles siguientes, de la sustitución o adición de Valuadores en sus establecimientos, conforme a la normatividad aplicable.
+Asimismo, los permisionarios informarán dentro de los diez días hábiles siguientes, de la sustitución o adición de valuadores en sus establecimientos.
 
 ###### Artículo 7°.
 
@@ -171,7 +171,9 @@ Para obtener el permiso para la apertura, instalación y funcionamiento de los e
 
 I. Nombre, razón social o denominación del Permisionario.
 
-II. Registro del Contribuyente Federal y Estatal.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2010)</small>
+
+II. Registro Federal y Estatal de Contribuyente.
 
 III. Cédula de Identificación Fiscal.
 
@@ -189,31 +191,35 @@ VII. Fecha y lugar de la solicitud; y,
 
 VIII. Declarar que cuenta con los servicios de Valuador.
 
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2010)</small>
+
+IX. Original y dos copias de la solicitud de permiso con los datos y documentos señalados previamente.
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2010)</small>
+
+X. Original de recibo oficial de pago de derechos.
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2010)</small>
+
+XI. Copia del formato del contrato que utilizarán para la celebración de los servicios ofertados al público, demostrando que fue registrado y autorizado por la Procuraduría Federal del Consumidor.
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2010)</small>
+
+XII. Si el solicitante es persona moral, debe acompañar copia certificada del acta constitutiva así como del Poder Notarial otorgado al representante legal; y,
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2010)</small>
+
+XIII. Comprobante de domicilio fiscal.
+
 ###### Artículo 11.
 
 Los permisos se cancelarán en los supuestos previstos en la presente ley.
 
 #### Sección Primera. De la Solicitud del Permiso
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2009)</small>
-
 ###### Artículo 12.
 
-El interesado en obtener un permiso para la apertura, instalación y funcionamiento de una casa de empeño, además de los requisitos señalados en el artículo 10, de la presente Ley, debe presentar ante la Secretaría lo siguiente:
-
-I. Original y dos copias de la solicitud de permiso con los datos y documentos señalados en el artículo 10, de la Ley;
-
-II. Original de recibo oficial de pago de derechos;
-
-III. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2009)
-
-IV. Copia del formato del contrato que utilizarán para la celebración de los servicios ofertados al público, registrado ante la Procuraduría Federal del Consumidor.
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
-
-V. Si el solicitante es persona moral, debe acompañar copia certificada del acta constitutiva, así como del Poder Notarial otorgado al representante legal; y,
-
-VI. Comprobante de domicilio fiscal.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2010)
 
 ###### Artículo 13.
 
@@ -239,11 +245,9 @@ En caso de que la resolución notificada niegue el otorgamiento del permiso, el 
 
 #### Sección Segunda. De la Expedición del Permiso
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
-
 ###### Artículo 17.
 
-La Secretaría, al resolver favorablemente la solicitud de un permiso, requerirá al peticionario para que dentro del término de cinco días hábiles contados a partir de la notificación de la resolución, exhiba póliza de fianza otorgada a favor de Gobierno del Estado cuyo monto sea equivalente a veinte mil veces el salarlo mínimo diario vigente en el Estado. Dicha póliza tendrá vigencia de un año y debe ser refrendada anualmente para efectos de la revalidación del permiso correspondiente, así como el recibo oficial de pago de los derechos por concepto de expedición de permiso de apertura, instalación y funcionamiento correspondiente.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2010)
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -327,6 +331,8 @@ En caso de que la resolución notificada niegue la modificación del permiso, el
 
 #### Sección Cuarta. De la Revalidación del Permiso
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 26.
 
 El Permisionario tiene la obligación de revalidar anualmente su permiso dentro del mes de junio de cada nuevo ejercicio fiscal, debiendo presentar ante la Secretaría lo siguiente:
@@ -337,7 +343,7 @@ II. El permiso original sujeto a revalidación.
 
 III. El recibo de pago de los derechos correspondientes; y,
 
-IV. El refrendo de la póliza prevista en el artículo 17, de la Ley.
+IV. (DEROGADA, P.O. 30 DE DICIEMBRE DE 2010)
 
 En caso de que la petición de revalidación del permiso sea en forma extemporánea, se impondrá la sanción establecida en la presente Ley. Una vez cubierta la multa se dará el trámite que corresponda.
 
@@ -712,3 +718,9 @@ P.O. 31 DE DICIEMBRE DE 2009.
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 30 DE DICIEMBRE DE 2010.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
