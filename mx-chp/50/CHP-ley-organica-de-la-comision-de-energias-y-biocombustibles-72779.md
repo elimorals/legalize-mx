@@ -4,7 +4,7 @@ identifier: "CHP-ley-organica-de-la-comision-de-energias-y-biocombustibles-72779
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-12-23"
-last_updated: "2009-12-23"
+last_updated: "2010-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72779&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHP"
 
 LEY ORGANICA DE LA COMISION DE ENERGIAS Y BIOCOMBUSTIBLES DEL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO UNICO DEL DECRETO NUMERO 23, PUBLICADO EN EL P.O. DE FECHA 30 DE DICIEMBRE DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Segunda Sección al Periódico Oficial del Estado de Chiapas, el miércoles 23 de diciembre de 2009.
 
@@ -380,3 +382,21 @@ Dado en el Salón de Sesiones del H. Congreso del Estado Libre y Soberano de Chi
 De conformidad con la fracción I, del artículo 42, de la Constitución Política local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los veintidós días del mes de diciembre del año dos mil nueve.
 
 Juan Sabines Guerrero, Gobernador del Estado.- Noé Castañón León, Secretario General de Gobierno.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. DE FECHA 30 DE DICIEMBRE DE 2010.
+
+Artículo Primero.- El presente Decreto entrará en vigor el día uno de enero de dos mil once.
+
+Artículo Segundo.- La Secretaría de Hacienda y la Secretaría de la Función Pública, como Dependencias normativas del Poder Ejecutivo del Estado, llevarán a cabo de inmediato las acciones que sean necesarias para el debido cumplimiento de lo dispuesto en el presento Decreto, en plena observancia a las disposiciones aplicables.
+
+Artículo Tercero.- Los recursos humanos, materiales y financieros que a la entrada en vigor del presente Decreto, forman parte de la Comisión de Energías y Biocombustibles del Estado de Chiapas que se extingue, con excepción de lo dispuesto en el párrafo segundo de este artículo, serán transferidos al organismo descentralizado denominado Biodiesel Chiapas, sectorizado al Instituto de Reconversión Productiva y Bionergéticos (sic), respetando los derechos laborales de los trabajadores en términos de las disposiciones legales aplicables, así como de la normatividad respectiva.
+
+La Dirección de Desarrollo de Energías Alternativas de la Comisión de Energías y Biocombustibles del Estado de Chiapas que se extingue, así como sus órganos administrativos, sus recursos humanos, materiales, a partir de la entrada en vigor del presente Decreto, se transfieren al Instituto de Reconversión Productiva y Bioenergéticos, respetando los derechos laborales de los trabajadores en términos de las disposiciones legales aplicables, así como de la normatividad respectiva.
+
+Las atribuciones y compromisos, así como los asuntos a cargo de la Dirección de Desarrollo de Energías Alternativas, que a la fecha de entrada en vigor del presente Decreto se encontraban en trámite o correspondían a ésta, serán asumidos y se entenderán conferidos de inmediato al Instituto de Reconversión Productiva y Bioenergéticos.
+
+Artículo Cuarto.- Las atribuciones y los compromisos adquiridos, así como los asuntos a cargo de la Comisión de Energías y Biocombustibles del Estado de Chiapas que se extingue, que a la fecha de entrada en vigor del presente Decreto se encontraban en trámite o correspondían a éste, serán asumidos y se entenderán conferidos de inmediato al organismo descentralizado a que se refiere el artículo transitorio que antecede, en términos del Decreto Administrativo respectivo.
+
+Las referencias, atribuciones o menciones que hagan otros ordenamientos en relación con la Comisión de Energías y Biocombustibles del Estado de Chiapas que se extingue, serán transferidas y se entenderán conferidas al organismo descentralizado a que se refiere el artículo transitorio que antecede, en términos del Decreto Administrativo respectivo.
