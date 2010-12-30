@@ -4,7 +4,7 @@ identifier: "SON-ley-organica-del-poder-ejecutivo-del-estado-de-sonora-8388"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1985-12-30"
-last_updated: "2008-07-14"
+last_updated: "2010-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8388&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 14 DE JULIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 30 DE DICIEMBRE DE 2010.
 
 Ley publicada en la Sección Décimo Séptima del Boletín Oficial del Estado de Sonora, el lunes 30 de diciembre de 1985.
 
@@ -35,7 +35,7 @@ NUMERO 26
 
 EL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SONORA, EN NOMBRE DEL PUEBLO, DECRETA LA SIGUIENTE
 
-L E Y ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE SONORA.
+LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE SONORA.
 
 ## TITULO PRIMERO
 
@@ -211,9 +211,17 @@ VII.- Secretaría de Economía.
 
 VIII.- Secretaría de Agricultura, Ganadería, Recursos Hidráulicos, Pesca y Acuacultura.
 
-IX.- Secretaría de Desarrollo Social; y
+> <small>(REFORMADA, B.O. 30 DE DICIEMBRE DE 2010)</small>
 
-X.- Procuraduría General de Justicia.
+IX.- Secretaría de Desarrollo Social;
+
+> <small>(REFORMADA, B.O. 30 DE DICIEMBRE DE 2010)</small>
+
+X.- Secretaría del Trabajo; y
+
+> <small>(ADICIONADA, B.O. 30 DE DICIEMBRE DE 2010)</small>
+
+XI.- Procuraduría General de Justicia.
 
 Los titulares de estas dependencias, subsecretarios, coordinadores, directores generales, directores, subdirectores, jefes de departamento, secretarios particulares y ayudantes personales, serán trabajadores de confianza, para los efectos de la Ley del Servicio Civil del Estado.
 
@@ -263,11 +271,11 @@ IV.- Dirigir, organizar y controlar el Archivo General de Gobierno; asimismo, ll
 
 V.- Organizar y vigilar el libre acceso ciudadano a la tutela judicial, a través de la institución de la Defensoría de Oficio.
 
-C. En materia de trabajo y previsión social:
+C. (DEROGADO, B.O. 30 DE DICIEMBRE DE 2010)
 
-I.- Ejercer las funciones que al Ejecutivo del Estado le corresponden en materia de trabajo y previsión social; y
+I. (DEROGADA, B.O. 30 DE DICIEMBRE DE 2010)
 
-II.- Promover una cultura laboral que tenga como marco y objetivo la armonía en las relaciones obrero-patronales.
+ll. (DEROGADA, B.O. 30 DE DICIEMBRE DE 2010)
 
 D. En materia jurídico-administrativa:
 
@@ -629,7 +637,7 @@ IX.- Realizar una labor permanente de difusión y orientación hacia la poblaci�
 
 X.- Establecer normas que deben orientar los servicios de asistencia social que presten los sectores público, social y privado y proveer a su cumplimiento; y
 
-XI.- Promover, apoyar y coordinar las acciones de docencia, investigación y capacitación que en el campo de la salud pública se realice en el Estado.
+XI.- Promover, apoyar y coordinar las acciones de docencia, investigación y capacitación que en el campo de la salud pública se realicen en el Estado.
 
 > <small>(REFORMADA SU DENOMINACION, B.O. 6 DE JULIO DE 2006)</small>
 
@@ -729,7 +737,9 @@ III.- Fomentar la creación de condiciones económicas y de infraestructura nece
 
 IV.- Proponer proyectos que propicien el desarrollo económico y equilibrado de los centros de población;
 
-V.- Promover la creación de fuentes de empleo mediante el fomento del desarrollo de la industria, del comercio, de la micro, pequeña y mediana empresa, así como la creación de parques industriales;
+> <small>(REFORMADA, B.O. 30 DE DICIEMBRE DE 2010)</small>
+
+V. Promover la creación y fomento del desarrollo de la micro, pequeña y mediana empresa, así como la creación de parques industriales;
 
 VI.- Asesorar a los sectores social y privado, en el establecimiento de nuevas empresas;
 
@@ -741,7 +751,7 @@ IX.- Promover y coordinar la distribución y comercialización de productos, as�
 
 X.- Integrar y proporcionar información sobre mercados internacionales, proveedores nacionales e inversionistas potenciales para el Estado, así como mantener actualizada la información socioeconómica para proyectos de factibilidad de inversiones;
 
-XI.- Elaborar estudios sobre el mercado de trabajo, proporcionar los servicios de información relacionados con el mismo, desarrollar programas y proyectos orientados a generar fuentes de empleo y promover la capacitación y adiestramiento de los trabajadores, de acuerdo a los requerimientos de calidad y servicio de los sectores industrial, comercial, de servicios, minero y turístico de la Entidad;
+XI.- (DEROGADA, B.O. 30 DE DICIEMBRE DE 2010)
 
 XII.- Promover, fomentar y fortalecer entre nuestro Estado y otras Entidades de la Federación, Arizona y otros Estados de la Unión Americana y a nivel internacional, el desarrollo de las relaciones económicas, comerciales, culturales e industriales, así como de aquellos asuntos y programas que sean de interés común;
 
@@ -901,9 +911,49 @@ VII.- Asesorar y prestar asistencia técnica a los municipios que así lo solici
 
 VIII.- Diseñar e instrumentar políticas y programas para la atención de las micro regiones de más alta marginación en el Estado.
 
-###### ARTICULO 33.
+> <small>(REFORMADO [ADICIONADO], B.O. 30 DE DICIEMBRE DE 2010)</small>
 
-(DEROGADO, B.O. 18 DE DICIEMBRE DE 2003)
+###### ARTÍCULO 33.
+
+A la Secretaría del Trabajo le corresponden las facultades y obligaciones siguientes:
+
+A. En materia de trabajo y previsión social:
+
+I. Ejercer las funciones que el (sic) Ejecutivo del Estado le corresponden en materia de trabajo y previsión social;
+
+II. Diseñar e implementar políticas, programas y acciones que permitan el desarrollo de una cultura laboral que impulse la productividad y la competitividad para el mejoramiento de las condiciones de vida de los trabajadores, así como propiciar las medias de prevención de conflictos laborales, fomentando la armonía laboral y respeto entre los factores de la producción;
+
+III. Vigilar en el ámbito de su competencia, que los centros de trabajo cumplan con las disposiciones que les impone la Ley Federal del Trabajo y sus Reglamentos, aplicando las sanciones que en su caso correspondan en términos de normatividad aplicable;
+
+IV. Diseñar, promover e implementar, por si misma o en coordinación con las autoridades federales competentes y, en su caso, con los sectores productivos correspondientes, programas de capacitación, calidad, seguridad e higiene y desarrollo sindical, a través de diplomados, cursos, seminarios y eventos en general que contribuyan al desarrollo de los trabajadores y de las empresas y que propicien la generación de empleos;
+
+V. Conducir y coordinar a la Procuraduría de la Defensa del Trabajo y a través de ésta, representar y asesorar a los trabajadores y a los sindicatos ante cualquier autoridad, resolver sus consultas jurídicas y representarlos en todos los conflictos que se relacionen con la aplicación de las normas de trabajo, en términos de lo dispuesto en la Ley Federal del Trabajo y la demás normatividad aplicable en la materia;
+
+VI. Promover e impulsar relaciones en materia de política laboral con la Federación, Estados, Municipios e Instituciones públicas y privadas;
+
+VII. Impulsar, respaldar y promover la figura de la conciliación que permita resolver por la vía del acuerdo los conflictos que se presenten entre empresa y trabajadores; Coordinar la integración y establecimiento de las Junta Locales de Conciliación y Arbitraje, así como vigilar su funcionamiento; y
+
+VIII. Proponer a las Juntas Locales de Conciliación y Arbitraje, estrategias para el mejoramiento de la administración e impartición de justicia laboral.
+
+B. En materia de desarrollo económico-laboral:
+
+I. Promover, diseñar, establecer e implementar esquemas de trabajo para la creación de unidades productivas en mercados laborales suburbanos y rurales, así como aquellos programas que atiendan la problemática del empleo e incentiven el autoempleo en los sectores marginados de la sociedad;
+
+II. Diseñar, promover e impartir cursos de capacitación en sus diferentes modalidades para desempleados a fin de integrarlos a la planta productiva, en coordinación con las autoridades federales competentes;
+
+III. Establecer y dirigir el Servicio Estatal de Empleo y vigilar su funcionamiento, en términos de la normatividad aplicable;
+
+IV. Impulsar la aplicación de modelos de calidad y asesorar a las empresas para aumentar la competitividad, la productividad y los empleos;
+
+V. Promover y llevar a cabo la certificación de competencias laborales, sin perjuicio de las atribuciones que en dicha materia corresponden a la Secretaría de Educación y Cultura;
+
+VI. Incentivar a las autoridades educativas para que sus programas o productos educativos obedezcan a las necesidades de servicios profesionales que demande el mercado de trabajo.
+
+VII. Promover la creación de fuentes de empleo mediante el fomento del desarrollo de la industria y del comercio;
+
+VIII. Elaborar estudios sobre el mercado de trabajo, proporcionar los servicios de información relacionados con el mismo, desarrollar programas y proyectos orientados a generar fuentes de empleo y promover la capacitación y adiestramiento de los trabajadores, de acuerdo a los requerimientos de calidad y servicio de los sectores industrial, comercial, de servicios, minero y turístico de la Entidad; y
+
+IX. Promover jornadas de orientación laboral.
 
 ###### ARTICULO 34.
 
@@ -1627,7 +1677,7 @@ En los casos de las atribuciones de las dependencias, que conforme a este Decret
 
 ###### ARTICULO TERCERO.
 
-Los asuntos en trámite que con motivo de este Decreto deban pasar de una Secretaría a otra, o los recursos interpuestos en contra de los actos o resoluciones de aquélla, seguirán tramitándose antes las unidades administrativas de las Secretarías competentes, conforme este Decreto, y serán resueltos por las mismas.
+Los asuntos en trámite que con motivo de este Decreto deban pasar de una Secretaría a otra, o los recursos interpuestos en contra de los actos o resoluciones de aquélla, seguirán tramitándose ante las unidades administrativas de las Secretarías competentes, conforme este Decreto, y serán resueltos por las mismas.
 
 ###### ARTICULO CUARTO.
 
@@ -1728,3 +1778,39 @@ B.O. 14 DE JULIO DE 2008.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 30 DE DICIEMBRE DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a los diez días siguientes a partir de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+En los casos de las atribuciones de las dependencias, que conforme a este Decreto se transfieran a la Secretaría del Trabajo, la reasignación deberá efectuarse incluyendo los recursos humanos, materiales y financieros que las dependencias hayan utilizado para el ejercicio de las atribuciones de que se trate.
+
+###### ARTÍCULO TERCERO.
+
+Los asuntos que con motivo de este Decreto deban pasar de la Secretaría de Gobierno y de la Secretaría de Economía a la Secretaría del Trabajo, permanecerán en el último trámite que hubieran alcanzado hasta que las unidades administrativas que los tramiten se incorporen a ésta última, a excepción de los trámites urgentes o sujetos a plazos improrrogables que seguirán su trámite en las unidades administrativas ante las que se promovieron.
+
+###### ARTÍCULO CUARTO.
+
+Las Juntas Locales de Conciliación y Arbitraje como órganos desconcentrados de la Secretaría de Gobierno pasarán a formar parte de la Secretaría del Trabajo con la misma naturaleza jurídica a partir de la entrada en vigor del presente Decreto, y continuarán sus procedimientos jurídico-laborales y judiciales en las condiciones que lo venían haciendo previo a la vigencia de éste.
+
+###### ARTÍCULO QUINTO.
+
+Las menciones que en materia de trabajo y previsión social así como en materia de desarrollo económico-laboral que se encuentren contenidas en otros ordenamientos jurídicos respecto de las Secretarías cuyas atribuciones y facultades se reforman mediante este Decreto, se entenderán referidas a la Secretaría del Trabajo.
+
+###### ARTÍCULO SEXTO.
+
+El Ejecutivo del Estado, a través de la Secretaría de Hacienda, con la participación de las Secretarías correspondientes, deberá concluir aquellas disposiciones presupuestarias, la reasignación de personas, recursos materiales y financieros, así como de activos patrimoniales, en un plazo no mayor de sesenta días hábiles, a partir de la entrada en vigor del presente Decreto.
+
+La suma de los presupuestos del presente ejercicio fiscal asignados a las unidades administrativas que por virtud del presente Decreto se transfieren de la Secretaría de Gobierno y de la Secretaría de Economía a la Secretaría del Trabajo, transitarán a ésta última sin que ello implique erogación de recursos adicionales.
+
+###### ARTÍCULO SÉPTIMO.
+
+El Ejecutivo del Estado deberá expedir el Reglamento Interior de la Secretaría del Trabajo en un plazo no mayor de diez días, a partir de la entrada en vigor del presente Decreto. Así como realizar las adecuaciones correspondientes a los Reglamentos Interiores de las Secretarías cuyas atribuciones se modifican por virtud de este Decreto en un plazo no mayor de sesenta días, a partir de la entrada en vigor del mismo.
+
+###### ARTÍCULO OCTAVO.
+
+Se derogan las disposiciones que se opongan a las del presente Decreto.
