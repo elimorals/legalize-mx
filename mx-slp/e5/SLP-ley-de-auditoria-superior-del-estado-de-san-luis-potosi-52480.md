@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-auditoria-superior-del-estado-de-san-luis-potosi-52480"
 country: "mx"
 rank: "ley"
 publication_date: "2006-05-30"
-last_updated: "2010-12-07"
+last_updated: "2010-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52480&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE AUDITORIA SUPERIOR DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2010.
 
 Ley publicada en la Edición Extraordinaria al Periódico Oficial del Estado de San Luis Potosí, el martes 30 de mayo de 2006.
 
@@ -697,6 +697,10 @@ Los ayuntamientos y sus organismos descentralizados, en los términos de las ley
 
 El Congreso, a través de la comisión, turnará las cuentas públicas y los estados e informes financieros, a la Auditoría Superior del Estado.
 
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2010)</small>
+
+En cualquier caso, los entes auditables agregarán a la información que se envíe con la cuenta pública, toda aquélla relativa a los procedimientos, civiles, penales, administrativos y laborales, en los que el ente auditable sea parte. La información a la que se alude, es la que se refiere a la junta, juzgado, tribunal o sala en la que se promueve; número de expediente; la acción que se intenta; nombre de la o las personas que promueven o contra quién se promueve, el estado procesal en el que se encuentra; así como el nombre, en su caso, del representante legal que se haya designado para el efecto.
+
 > <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2010)</small>
 
 ARTICULO 39 BIS. En caso de que cualquiera de los entes auditables no presente la Cuenta Pública correspondiente, dentro de los términos que se fijan en el artículo anterior, ésta le será observada en su totalidad y se iniciará de inmediato el procedimiento para fincar responsabilidades e imposición de sanciones respectivo. Lo anterior, sin perjuicio de hacer del conocimiento del Ministerio Público esta omisión, en los términos previstos en el Código Penal del Estado.
@@ -1143,9 +1147,11 @@ Para hacer cumplir sus determinaciones, la Auditoria Superior del Estado podrá 
 
 En el caso de que exista base para presumir que algún servidor público de la Auditoría Superior del Estado incurrió en alguna responsabilidad en los términos de este Ordenamiento, para efectos del procedimiento y las sanciones aplicables, se observará lo dispuesto en la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí. De igual forma se procederá cuando durante el proceso de auditoria, o con motivo de éste, algún servidor público de un ente auditable incurra en alguna falta administrativa que no cause daños o perjuicios a las haciendas públicas, estatales o municipales, o al patrimonio de algún ente auditable.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 89.
 
-Las facultades de la Auditoría Superior del Estado para fincar responsabilidades e imponer las sanciones a que se refiere este Título, prescribirán en cinco años.
+Las facultades de la Auditoría Superior del Estado para fincar responsabilidades e imponer las sanciones a que se refiere este Título, prescribirán en diez años.
 
 El plazo de prescripción se contará a partir del día siguiente a aquél en que se conociera el acto o hecho generador de alguna responsabilidad, o a partir del momento en que hubiese cesado, si fue de carácter continuo.
 
@@ -1310,3 +1316,9 @@ P.O. 7 DE DICIEMBRE DE 2010.
 PRIMERO. Este Decreto entrará en vigor el uno de enero del dos mil once, previa publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 30 DE DICIEMBRE DE 2010.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
