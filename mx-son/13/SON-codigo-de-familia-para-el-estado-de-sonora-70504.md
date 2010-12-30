@@ -4,7 +4,7 @@ identifier: "SON-codigo-de-familia-para-el-estado-de-sonora-70504"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-10-15"
-last_updated: "2010-10-11"
+last_updated: "2010-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CODlGO DE FAMILIA PARA EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 11 DE OCTUBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 30 DE DICIEMBRE DE 2010.
 
 Código publicado en la Sección I del Boletín Oficial del Estado de Sonora, el jueves 15 de octubre de 2009.
 
@@ -3177,10 +3177,6 @@ Sólo puede constituirse el patrimonio de familia, con bienes ubicados en el mun
 
 Cada familia sólo puede constituir un patrimonio. Los que se constituyan después del primero, no producirán efecto legal alguno.
 
-###### Artículo 541.
-
-Cada familia sólo puede constituir un patrimonio. Los que se constituyan después del primero, no producirán efecto legal alguno.
-
 ###### Artículo 542.
 
 El miembro de la familia que quiera constituir el patrimonio, lo manifestará por escrito al Juez de su domicilio, designando con toda precisión y de manera que puedan ser inscritos en la Oficina Registral Jurisdiccional, los bienes que van a quedar afectados demostrando, además:
@@ -3303,11 +3299,11 @@ Extinguido el patrimonio de familia, los bienes que lo formaban vuelven al pleno
 
 T R A N S I T O R I O S
 
-> <small>(REFORMADO, B.O. 11 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO PRIMERO.
 
-El presente Código entrará en vigor el día 01 de enero del 2011, previa su publicación en el Boletín Oficial del Gobierno del Estado. En dicho lapso, el Poder Legislativo deberá aprobar la legislación procesal respectiva, estableciendo para el efecto en el decreto de aprobación, su fecha específica de entrada en vigor.
+El presente Código entrará en vigor el día 02 de marzo de 2011, previa su publicación en el Boletín Oficial del Gobierno del Estado. En dicho lapso, el Poder Legislativo deberá aprobar la legislación procesal respectiva, estableciendo para el efecto en el decreto de aprobación, su fecha específica de entrada en vigor.
 
 ###### ARTICULO SEGUNDO.
 
@@ -3354,6 +3350,12 @@ HECTOR LARIOS CORDOVA
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 B.O. 11 DE OCTUBRE DE 2010.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 30 DE DICIEMBRE DE 2010.
 
 ###### ARTÍCULO ÚNICO.
 
