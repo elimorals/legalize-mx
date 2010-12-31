@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-administracion-publica-del-18633"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-28"
-last_updated: "2010-12-14"
+last_updated: "2010-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18633&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-12-28"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACION PUBLICA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 14 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 31 DE DICIEMBRE DE 2010.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 28 de diciembre de 2000.
 
@@ -124,7 +124,9 @@ B) La Subsecretaría de Sistema Penitenciario, a la que quedan adscritas:
 
 4. Dirección Ejecutiva Jurídica y de Derechos Humanos, y
 
-5. Dirección Ejecutiva de Tratamiento a Menores.
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2010)</small>
+
+5. Dirección General de Tratamiento para Adolescentes.
 
 C) La Subsecretaría de Coordinación Metropolitana y Enlace Gubernamental, a la que quedan adscritas:
 
@@ -2220,25 +2222,33 @@ XIV. Mantener en constante vigilancia a los supervisores y coordinadores de dere
 
 XV. Coordinar con el órgano interno de control la denuncia de los servidores públicos que se presuma participen en acciones ilícitas.
 
-> <small>(ADICIONADO, G.O. 11 DE ENERO DE 2008)</small>
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2010)</small>
 
-Artículo 40 Quintus.- Corresponde a la Dirección Ejecutiva de Tratamiento a Menores:
+Artículo 40 Quintus.- Corresponde a la Dirección General de Tratamiento para Adolescentes:
 
-I. Operar y administrar los centros de internamiento y tratamiento externo para menores;
+I. Ejecutar las medidas de orientación, protección y tratamiento que se impongan a los adolescentes en conflicto con la Ley Penal;
 
-II. Proponer las normas sobre readaptación social en los centros de internamiento y tratamiento externo para menores;
+II. Supervisar la organización, administración, funcionamiento y operación de los Centros Especializados denominados Comunidades para Adolescentes en conflicto con la Ley Penal;
 
-III. Proponer las normas y procedimientos a fin de evitar fenómenos de corrupción en los centros de internamiento y tratamiento externo para menores;
+III. Elaborar y proponer, los proyectos de programas y ordenamientos jurídicos y normativos en materia de Justicia para los Adolescentes en conflicto con la Ley Penal;
 
-IV. Llevar a cabo acciones necesarias para alcanzar la reintegración social de los menores;
+IV. Elaborar los programas de intervención que tengan como base el trabajo, la capacitación para el mismo, la educación, la salud y el deporte como medios para lograr la reinserción del adolescente en conflicto con la Ley Penal, a la sociedad y su núcleo familiar;
 
-V. Aplicar, cumplir y dar seguimiento a las medidas de tratamiento impuestas a los menores;
+V. Supervisar y vigilar el cumplimiento de las normas y procedimientos a fin de prevenir las conductas tipificadas como delitos en las Comunidades para Adolescentes en conflicto con la Ley Penal;
 
-VI. Desarrollar los programas personalizados para la ejecución de las medidas de tratamiento impuestas a los menores, así como las de orientación y supervisión;
+VI. Determinar en que Comunidad cumplirán los adolescentes en conflicto con la Ley Penal las medidas de tratamiento, orientación y protección impuestas por los jueces de la materia;
 
-VII. Proponer a la superioridad convenios de coordinación con instituciones y organismos públicos y privados, para la implantación de los mecanismos de ejecución de las medidas impuestas a los menores; y
+VII. Supervisar y vigilar los diagnósticos, evaluaciones técnicas y los programas personalizados para la ejecución de las medidas de orientación, protección y tratamiento que se impongan a los adolescentes en conflicto con la Ley Penal;
 
-VIII. Llevar a cabo el control y supervisión de las acciones previstas en los convenios de coordinación para la implantación de los mecanismos de ejecución de las medidas impuestas a los menores.
+VIII. Celebrar convenios con instituciones y organismos públicos y privados para la implantación de los mecanismos de ejecución de las medidas impuestas a los adolescentes en conflicto con la Ley Penal, así como operar su control y supervisión de las acciones previstas en los mismos;
+
+IX. Conocer y resolver las solicitudes de libertad anticipada conforme a los lineamientos que dicte el titular de la Secretaría de Gobierno;
+
+X. Participar en las acciones y actividades que desarrollen los miembros del Sistema Integral de Justicia para Adolescentes del Distrito Federal;
+
+XI. Establecer, durante la estancia de los adolescentes en las comunidades para adolescentes, los mecanismos que garanticen el respeto de sus Derechos Humanos y de sus familias;
+
+XII. Las demás facultades previstas en este reglamento y en otros ordenamientos aplicables así como las que correspondan a las áreas que se le adscriban.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 11 DE ENERO DE 2008)</small>
 
@@ -14339,3 +14349,9 @@ PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
 
 TERCERO. Se derogan aquellas disposiciones que se opongan al presente Decreto.
+
+G.O. 31 DE DICIEMBRE DE 2010.
+
+PRIMERO.-Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
