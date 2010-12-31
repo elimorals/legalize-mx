@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-hacienda-del-estado-de-guerrero-numero-428-22965"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-28"
-last_updated: "2010-05-25"
+last_updated: "2010-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22965&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY DE HACIENDA DEL ESTADO DE GUERRERO, NUMERO 428
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE MAYO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 28 de diciembre de 2001.
 
@@ -899,11 +899,11 @@ Las infracciones al presente Capítulo serán sancionadas de conformidad con lo 
 
 IMPUESTOS ADICIONALES PARA EL FOMENTO EDUCATIVO, ECONOMICO, SOCIAL Y ECOLOGICO.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 43.
 
-Para el cobro del impuesto adicional de fomento educativo y asistencia social del Estado, se aplicará una tasa del 15%, mismo que se aplicará sobre los siguientes conceptos:
+Para el cobro del Impuesto adicional de fomento educativo y asistencia social del Estado, se aplicará una tasa del 15%, mismo que se aplicará sobre los siguientes conceptos:
 
 a).- Impuesto sobre el ejercicio de la profesión médica.
 
@@ -913,11 +913,11 @@ c).- Impuesto sobre diversiones, espectáculos públicos y juegos permitidos.
 
 d).- Impuesto sobre loterías, rifas, sorteos, concursos de toda clase, y apuestas sobre juegos permitidos, con excepción de los que se generen de la obtención de ingresos por premios derivados de la celebración de loterías, rifas, sorteos y concursos de toda clase.
 
-e).- Impuesto sobre compraventa de vehículos de motor usados entre particulares;
+e).- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2010)
 
 f).- Impuesto sobre remuneraciones al trabajo personal;
 
-g).- Impuesto sobre tenencia o uso de vehículos automotores terrestres, de 10 o más años de antigüedad.
+g).- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2010)
 
 h).- Derechos por todas clases de servicios públicos.
 
@@ -1011,7 +1011,9 @@ No formarán parte de la base gravable de este impuesto, el importe de los servi
 
 En ningún caso se considerará que el impuesto al valor agregado que se cause por los servicios de hospedaje, forma parte de la base gravable de este impuesto.
 
-Cuando los contribuyentes convengan la prestación de servicios de hospedaje e incluyan servicios accesorios, tales como transportación, comida, uso de instalaciones, u otros similares y no desglosen y comprueben la prestación de estos últimos, se entenderá que el valor de la contraprestación respectiva corresponde a servicios de hospedaje.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2010)</small>
+
+Cuando los contribuyentes convengan la prestación de servicios de hospedaje e incluyan servicios accesorios, tales como transportación, comida, uso de instalaciones, u otros similares, se tomará como base para el pago del impuesto correspondiente el 40% sobre el total de lo efectivamente cobrado, lo anterior atento que el objeto principal del prestador de servicios es el de hospedaje.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2006)</small>
 
@@ -2217,13 +2219,17 @@ XXVI.- Los casos no previstos en este precepto, causarán los derechos señalado
 
 Las autoridades fiscales estarán facultadas para verificar en cualquier tiempo, mientras no prescriba el crédito fiscal, la veracidad de los documentos que hayan servido de base para el pago de los derechos a que se refieren todas las fracciones de este artículo.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2010)</small>
+
 ### CAPITULO VII
 
-DERECHOS POR LEGALIZACIÓN DE FIRMAS, CERTIFICACIONES, EXPEDICIÓN DE DOCUMENTOS Y DEL REGISTRO CIVIL.
+DERECHOS POR LEGALIZACIÓN DE FIRMAS, CERTIFICACIONES, DICTÁMENES y EXPEDICIÓN DE COPIAS Y DOCUMENTOS POR EL GOBIERNO DEL ESTADO Y LA COORDINACIÓN TÉCNICA DEL REGISTRO CIVIL
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 84.
 
-Por legalización de firmas, certificaciones, expedición de copias de documentos y del Registro Civil, así como la expedición de otros documentos, por funcionarios o empleados del Estado, se causarán derechos conforme a la siguiente:
+Por la legalización de firmas, certificaciones, expedición de documentos y copias por funcionarios o empleados del Gobierno del Estado de Guerrero, así como la certificación, legalización, registros y expedición de documentos por la Coordinación Técnica del Registro Civil, se causarán derechos conforme a lo siguiente:
 
 T A R I F A
 
@@ -2423,9 +2429,27 @@ e).- Copias simples, si no exceden de 10 hojas 0.47
 
 f).- Si se exceden de 10 hojas, por cada una excedente 0.16
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2010)</small>
+
+g).- Copia certificada de estudio químico toxicológico. 3.54
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2010)</small>
+
+h).- Certificado médico de lesiones. 3.54
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2010)</small>
+
+i).- Dictamen criminalístico de campo. 3.81
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2010)</small>
+
+j).- Dictamen de genética para paternidad o identidad. 27.2
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2010)</small>
+
 ### CAPITULO VIII
 
-DERECHOS POR SERVICIOS EDUCATIVOS PARA LAS ESCUELAS OFICIALES, PARTICULARES, ACADEMIAS DE CAPACITACIÓN PARA EL TRABAJO Y EXPEDICIÓN DE DOCUMENTOS, ASÍ COMO POR LOS SERVICIOS PRESTADOS POR LA DIRECCIÓN DEL REGISTRO PÚBLICO PARA EL EJERCICIO TÉCNICO PROFESIONAL.
+DERECHOS POR SERVICIOS EDUCATIVOS PARA LAS ESCUELAS OFICIALES, PARTICULARES, ACADEMIAS DE CAPACITACIÓN PARA EL TRABAJO, EXPEDICIÓN DE DOCUMENTOS, ASÍ COMO POR LOS SERVICIOS PRESTADOS POR LA DIRECCIÓN DEL REGISTRO PÚBLICO PARA EL EJERCICIO TÉCNICO PROFESIONAL, Y POR EL INSTITUTO GUERRERENSE DE INFRAESTRUCTURA FÍSICA EDUCATIVA
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DICIEMBRE 2002)</small>
 
@@ -2561,6 +2585,14 @@ XXIV.- Permiso provisional de práctica de locución. 0.90
 
 XXV.- Dictamen jurídico por rectificación de nombre. 0.64
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2010)</small>
+
+XXVI.- Por la expedición de la certificación de la infraestructura física educativa a instituciones y personas del sector privado y social.
+
+a) Nivel Escolar Básico 100
+
+b) Niveles Medio y Superior 130
+
 > <small>(REFORMADA SU DENOMINACION, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
 ### CAPITULO IX. DERECHOS POR SERVICIOS DE SALUBRIDAD Y DE PROTECCIÓN CONTRA RIESGOS SANITARIOS
@@ -2677,15 +2709,23 @@ III.- De 51 a 100 cajas de 25 kilogramos de peso cada una. 70.10
 
 IV.- De 100 cajas en adelante con peso de 25 kilogramos cada una. 94.17
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2010)</small>
 
-### CAPITULO XI. DERECHOS POR LA EXPEDICIÓN ANUAL DE LOS CERTIFICADOS DE OPERACIÓN DE LOS DESARROLLADORES DEL SISTEMA DE TIEMPO COMPARTIDO Y PROPIEDAD FRACCIONAL
+### CAPITULO XI. DERECHOS POR SERVICIOS DEL SISTEMA DE TIEMPO COMPARTIDO Y PROPIEDAD FRACCIONAL
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 88.
 
-Por la expedición anual de los certificados de operación de los desarrolladores del Sistema de Tiempo Compartido y Multipropiedad, se causarán 180 días de salario mínimo, tomando como base el vigente en la zona económica que le corresponda.
-
 Quedan obligados al pago de este derecho, todos aquellos desarrollos que conforme a la Ley de Regulación y Fomento del Sistema de Tiempo Compartido del Estado de Guerrero y su Reglamento, hayan sido legalmente constituidos, previa autorización de la Comisión Técnica de Vigilancia de Tiempo Compartido.
+
+Se cobrarán derechos por servicios prestados por el Sistema de Tiempo Compartido y Propiedad Fraccional, en base a la siguiente tarifa:
+
+a) Por la expedición de los certificados de operación anual de los desarrolladores del sistema de tiempo compartido, multipropiedad o propiedad fraccional. Se causarán 180.
+
+b) Por el registro en el Padrón de promotores de tiempo compartido y multipropiedad o propiedad fraccional, se causarán 4.
+
+c) Por el refrendo bimestral de la credencial a promotores de tiempo compartido, multipropiedad o propiedad fraccional, se causarán 4.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -4622,3 +4662,13 @@ P.O. 25 DE MAYO DE 2010.
 PRIMERO.- El presente Decreto entrará en vigor a partir del día de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
 
 SEGUNDO.- Notifíquese el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y efectos legales procedentes.
+
+P.O. 31 DE DICIEMBRE DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el primero de enero del año dos mil once.
+
+###### ARTÍCULO SEGUNDO.
+
+Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
