@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-municipal-del-estado-de-puebla-21183"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-03-23"
-last_updated: "2009-07-15"
+last_updated: "2010-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ORGANICA MUNICIPAL DEL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JULIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2010.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el viernes 23 de marzo de 2001.
 
@@ -1263,9 +1263,9 @@ XXXII.- Establecer fuerzas de policía y vialidad para el mantenimiento de la se
 
 XXXIII.- Prestar a las autoridades de la Federación y del Estado, el auxilio que demanden para el desempeño de sus funciones;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 2001)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2010)</small>
 
-XXXIV.- Determinar la nomenclatura de las calles, plazas, jardines o paseos públicos y mandar fijar las placas respectivas; exigir a los propietarios de fincas urbanas la numeración progresiva de éstas y dar el aviso correspondiente al Registro Público de la Propiedad y del Comercio y a las oficinas recaudadoras. En la nomenclatura no se empleará el nombre de personas vivas, a menos que con ello el Ayuntamiento trate de premiar o dejar para la posterioridad el recuerdo de los conacionales (sic) que:
+XXXIV.- Determinar la nomenclatura de las calles, plazas, jardines, paseos públicos e inmuebles destinados al servicio al público y mandar fijar las placas respectivas; exigir a los propietarios de fincas urbanas la numeración progresiva de éstas y dar aviso correspondiente al Registro Público de la Propiedad y del Comercio y a las oficinas recaudadoras. La nomenclatura será además colocada en Sistema Braille y guía táctil a fin de facilitar el libre desplazamiento de las personas con discapacidad visual. En la nomenclatura no se empleará el nombre de personas vivas, a menos que con ello el Ayuntamiento trate de premiar o dejar para la posteridad el recuerdo de los connacionales que:
 
 a) Por sus trabajos en el campo de la ciencia, de las artes, de la educación o de la cultura en general, hayan dado prestigio dentro o fuera del ámbito de la República, al Estado de Puebla o a la Nación;
 
@@ -1300,6 +1300,14 @@ XLI.- Controlar y vigilar la utilización del suelo en sus jurisdicciones territ
 XLII.- Intervenir en la regularización de la tenencia de la tierra urbana;
 
 XLIII.- Otorgar licencias y permisos para construcciones;
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2010)</small>
+
+Las nuevas construcciones de edificios que presten servicios al público, deberán realizarse libres de elementos que puedan constituirse como barreras físicas que impidan la accesibilidad, observando las disposiciones marcadas en los ordenamientos aplicables.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2010)</small>
+
+Para la renovación de las licencias y permisos para construcciones de edificios que presten servicios al público se deberá tomar en cuenta lo establecido en el párrafo anterior y en el lapso en que las instalaciones no sean aún las adecuadas, se buscará la comodidad y accesibilidad de las personas con discapacidad dentro de los medios existentes;
 
 XLIV.- Implementar medidas de seguridad sanitaria tendientes al control de la fauna nociva;
 
@@ -1337,31 +1345,75 @@ XLVIII.- Establecer el Sistema Municipal de Protección Civil;
 
 XLIX.- Nombrar, a propuesta del Presidente, al Cronista Municipal;
 
-L.- Impulsar en el Municipio los programas que en favor de discapacitados, niñas y niños, mujeres y gente de la tercera edad promuevan organismos nacionales e internacionales y diseñar y aplicar los propios;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2010)</small>
+
+L.- Impulsar en el Municipio los programas que en favor de las personas con discapacidad, niñas y niños, mujeres y personas adultas mayores promuevan organismos nacionales e internacionales y diseñar y aplicar los propios, así corno llevar a cabo campañas de concientización, sensibilización y cultura de la denuncia de la población para fomentar el respeto hacia los mismos.
+
+De igual forma instalar en las oficinas de atención al público la simbología de los distintos tipos de discapacidad, a fin de informar, que en dicha oficina se otorga un servicio diferencial a las personas con discapacidad;
 
 LI.- Formar asociaciones con otro u otros Municipios de la Entidad o de otras Entidades, para los fines y cumpliendo con los requisitos que se establecen en la presente Ley;
 
-LII.- Intervenir de conformidad con la Ley de la materia en la formulación y aplicación de los programas de transporte público de pasajeros cuando afecten su ámbito territorial;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE DICIEMBRE DE 2010)</small>
 
-LIII.- Dictar las disposiciones reglamentarias que regulen las actividades de la Policía Preventiva Municipal, la que estará al mando del Presidente Municipal y deberá acatar sus órdenes o las del Gobernador del Estado en aquellos casos que éste considere de fuerza mayor o alteración grave del orden público;
+LII.- Promover y apoyar los proyectos y programas que impulsen el desarrollo y la superación de las personas con discapacidad, a fin de potencializar y sumar esfuerzos, recursos para el respeto e inclusión de las personas con discapacidad, de conformidad con las disposiciones legales y administrativas aplicables;
 
-LIV.- Intervenir en los procedimientos que establezca la Ley de la materia en los casos a que se refiere el artículo 105 de la Constitución Política de los Estados Unidos Mexicanos, siempre que tengan un interés directo en los mismos;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2010)</small>
 
-LV.- Intervenir en los procedimientos que establezca la Ley, para la solución de los conflictos que se presenten con otros Municipios o con el Gobierno del Estado con motivo de la interpretación y aplicación de los convenios que se celebren entre éstos;
+LIII.- Intervenir de conformidad con la Ley de la materia en la formulación y aplicación de los programas de transporte público de pasajeros cuando afecten su ámbito territorial;
 
-LVI.- Entregar a sus Juntas Auxiliares los recursos que por ley les corresponda;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2010)</small>
 
-LVII.- Proveer lo conducente para la organización administrativa del Gobierno Municipal, creando o suprimiendo comisiones permanentes o transitorias, así como dependencias municipales y órganos de participación ciudadana, de acuerdo con las necesidades y el presupuesto del Municipio;
+LIV.- Dictar las disposiciones reglamentarias que regulen las actividades de la Policía Preventiva Municipal, la que estará al mando del Presidente Municipal y deberá acatar sus órdenes o las del Gobernador del Estado en aquellos casos que éste considere de fuerza mayor o alteración grave del orden público;
 
-LVIII.- Prestar los servicios públicos que constitucionalmente les corresponden; y (sic)
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2010)</small>
 
-> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2001)</small>
+LV.- Intervenir en los procedimientos que establezca la Ley de la materia en los casos a que se refiere el artículo 105 de la Constitución Política de los Estados Unidos Mexicanos, siempre que tengan un interés directo en los mismos;
 
-LIX.- Celebrar convenios de coordinación con otros Municipios del Estado para la más eficaz prestación de servicios públicos y para el mejor ejercicio de las funciones que le correspondan. También, previa autorización del Congreso del Estado, podrán celebrar convenios con la Federación, los Estados, los Municipios de otras Entidades; y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2010)</small>
 
-> <small>(ADICIONADA, P.O. 8 DE AGOSTO DE 2001)</small>
+LVI.- Intervenir en los procedimientos que establezca la Ley, para la solución de los conflictos que se presenten con otros Municipios o con el Gobierno del Estado con motivo de la interpretación y aplicación de los convenios que se celebren entre éstos;
 
-LX.- Las demás que le confieran las leyes y ordenamientos vigentes en el Municipio.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2010)</small>
+
+LVII.- Entregar a sus Juntas Auxiliares los recursos que por ley les corresponda;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2010)</small>
+
+LVIII.- Proveer lo conducente para la organización administrativa del Gobierno Municipal, creando o suprimiendo comisiones permanentes o transitorias, así como dependencias municipales y órganos de participación ciudadana, de acuerdo con las necesidades y el presupuesto del Municipio;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2010)</small>
+
+LIX.- Prestar los servicios públicos que constitucionalmente les corresponden;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2010)</small>
+
+LX.- Celebrar convenios de coordinación con otros Municipios del Estado para la más eficaz prestación de servicios públicos y para el mejor ejercicio de las funciones que le correspondan. También, previa autorización del Congreso del Estado, podrán celebrar convenios con la Federación, los Estados, los Municipios de otras Entidades;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2010)</small>
+
+LXI.- Formular, conducir y evaluar la política pública de accesibilidad, entendida como las medidas pertinentes para asegurar el acceso de las personas con discapacidad, en igualdad de oportunidades con las demás, al entorno físico, el transporte y las comunicaciones, incluidos los sistemas y las tecnologías de la información y a otros servicios e instalaciones abiertos al público o de uso público, tanto en zonas urbanas como rurales;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2010)</small>
+
+LXII.- Promover la contratación de personas en contexto de vulnerabilidad en el ámbito de los sectores público, privado y social;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2010)</small>
+
+LXIII.- Actualizar sus marcos normativos de conformidad con sus atribuciones;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2010)</small>
+
+LXIV.- Formular y conducir la política municipal sobre conservación y aprovechamiento sustentable de la vida silvestre en el Municipio, además de las atribuciones que le otorgue la Ley de Protección a los Animales para el Estado de Puebla; y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2010)</small>
+
+LXV.- Las demás que le confieran las leyes y ordenamientos vigentes en el Municipio.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2010)</small>
+
+ARTÍCULO 78 BIS.- Con base en los planes y programas de desarrollo urbano y en las demás disposiciones legales y reglamentarias aplicables, el Ayuntamiento determinará los requisitos y lineamientos a que deberán sujetarse las construcciones y remodelaciones que se lleven a cabo en el Municipio, a fin de que en las mismas se incorporen las facilidades urbanísticas y arquitectónicas necesarias, para proporcionar a las personas con discapacidad los medios para su inclusión en la vida social.
+
+El Ayuntamiento observará lo anterior en la infraestructura existente y en la planeación y urbanización futura, con el objetivo de facilitar el tránsito y el desplazamiento y uso de estos espacios por las personas que tengan algún tipo de discapacidad.
 
 ### CAPÍTULO VII. DE LAS BASES NORMATIVAS PARA EL EJERCICIO DE LAS FACULTADES REGLAMENTARIAS DEL MUNICIPIO
 
@@ -1396,6 +1448,10 @@ V.- Regulación de la satisfacción de urgencias colectivas y procuración del b
 VI.- Prevenciones para salvaguardar las garantías constitucionales y los derechos humanos a favor de los particulares, por la comisión de alguna falta o infracción a los reglamentos; y
 
 VII.- Protección y preservación del medio ambiente, así como promoción de una cultura de la separación de la basura, e instrumentación de programas de recolección de desechos sólidos de manera diferenciada entre orgánicos e inorgánicos.
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2010)</small>
+
+VIII.- Establecer las bases y mecanismos para garantizar la accesibilidad de las personas con discapacidad en los espacios de uso común en estacionamientos públicos y privados, vigilando que la ocupación de los cajones reservados para las personas con discapacidad sean respetados.
 
 Los reglamentos municipales deberán contener las disposiciones generales, los objetivos que se persiguen y los sujetos a quienes se dirige la regulación; la manera como se organizarán y administrarán los ramos respectivos; la clasificación de las faltas y los tipos de sanciones administrativas; las atribuciones y deberes de las autoridades municipales; y en general, todos aquellos aspectos formales o procedimientos que permitan la aplicación a los casos particulares y concretos de los principios normativos contenidos en la presente y en las demás leyes, cuando confieran funciones específicas a los Municipios.
 
@@ -1601,9 +1657,19 @@ LVIII.- Ordenar la ejecución de las determinaciones del Ayuntamiento en materia
 
 LIX.- Integrar, coordinar y supervisar el Sistema Municipal de Protección Civil para la prevención, auxilio, recuperación y apoyo de la población en situaciones de emergencia o desastre, para lo cual deberá coordinarse con las autoridades de los Gobiernos Federal, Estatales y Municipales, así como concertar con las instituciones y organismos de los sectores privado y social, las acciones conducentes para el logro del mismo objetivo;
 
-LX.- Proponer y vigilar el funcionamiento de los Consejos de Participación Ciudadana, Comités y Comisiones Municipales que se integren; y
+LX.- Proponer y vigilar el funcionamiento de los Consejos de Participación Ciudadana, Comités y Comisiones Municipales que se integren; y (sic)
 
-LXI.- Las demás que le confieran las leyes, reglamentos y las que acuerde el Cabildo.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE DICIEMBRE DE 2010)</small>
+
+LXI.- Promover el desarrollo y adecuación de la infraestructura, el equipamiento y los servicios urbanos que garanticen la seguridad y libre tránsito que requieren las personas con discapacidad, así como asegurar la accesibilidad a estas personas en calles, avenidas, inmuebles destinados a un servicio público, así como en los bienes de uso común contemplados en el artículo 154 de esta Ley, atendiendo lo establecido en lineamientos técnicos y demás instrumentos vigentes relacionados con la materia;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2010)</small>
+
+LXII.- Realizar las acciones necesarias para colocar la Nomenclatura en Sistema Braille e implementar la guía táctil en las principales calles, avenidas, inmuebles destinados a un servicio público, así como en los bienes de uso común contemplados en el artículo 154 de esta Ley, a fin de facilitar el libre desplazamiento de las personas con discapacidad visual; y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2010)</small>
+
+LXIII.- Las demás que le confieran las leyes, reglamentos y las que acuerde el Cabildo.
 
 ###### ARTÍCULO 92.
 
@@ -1771,9 +1837,17 @@ II.- Propiciar el desarrollo armónico del Municipio;
 
 III.- Asegurar la participación de la sociedad en las acciones del Gobierno Municipal, en términos del artículo 102 de esta Ley;
 
-IV.- Vincular el Plan de Desarrollo Municipal con los Planes de Desarrollo Regional, Estatal y Federal; y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2010)</small>
 
-V.- Aplicar de manera racional los recursos financieros, para el cumplimiento del plan y los programas.
+IV.- Vincular el Plan de Desarrollo Municipal con los Planes de Desarrollo Regional, Estatal y Federal;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2010)</small>
+
+V.- Aplicar de manera racional los recursos financieros, para el cumplimiento del plan y los programas; y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2010)</small>
+
+VI.- Apoyar a las personas con discapacidad para su inclusión a las actividades productivas y culturales en los sectores público, privado y social, conforme al orden jurídico vigente.
 
 ###### ARTÍCULO 108.
 
@@ -2087,21 +2161,25 @@ Los Ayuntamientos, por conducto de su Presidente Municipal, formularán cada añ
 
 La Comisión de Patrimonio y Hacienda Pública Municipal, el Presidente Municipal y demás comisiones que determine el Ayuntamiento, a más tardar en la primera quincena del mes de octubre de cada año, elaborarán el anteproyecto de Ley de Ingresos y de Presupuesto de Egresos.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 146.
 
-A más tardar el treinta de septiembre de cada año, las Comisiones y los titulares de las dependencias y entidades municipales, así como las Juntas Auxiliares, elaborarán el anteproyecto de presupuesto de egresos en lo referente a su ramo, en el que se indiquen las necesidades a satisfacer para el año siguiente, los proyectos para satisfacerlas, su costo, y las prioridades de dichos proyectos.
+A más tardar el treinta de septiembre de cada año, las Comisiones y los titulares de las dependencias y entidades municipales, así como las juntas auxiliares, elaborarán el anteproyecto de presupuesto de egresos en lo referente a su ramo, en el que se indiquen las necesidades a satisfacer para el año siguiente, los proyectos para satisfacerlas, su costo, y las prioridades de dichos proyectos, así como los tabuladores desglosados en los que se señale la remuneración que percibirán los servidores públicos de los Municipios y de las Entidades Paramunicipales, la cual deberá ser equitativa, adecuada e irrenunciable por el desempeño de su función, empleo, cargo o comisión y proporcional a sus responsabilidades, exceptuándose los que en términos de las disposiciones legales se declaren gratuitos.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2001)</small>
+Las remuneraciones de los servidores públicos de los Municipios y de las Entidades Paramunicipales se sujetarán, con base en lo dispuesto por la Constitución Política del Estado, a lo siguiente:
 
-La Comisión de Patrimonio y Hacienda Pública Municipal, armonizará los anteproyectos a que se refiere el artículo anterior, y elaborará el Proyecto de Presupuesto de Egresos definitivo, el cual deberá terminar a más tardar el día último de octubre de cada año.
+I.- Se considera remuneración o retribución, toda percepción en efectivo o en especie, incluyendo dietas, aguinaldos, gratificaciones, premios, recompensas, bonos, estímulos, comisiones, compensaciones y cualquier otra, con excepción de los apoyos y los gastos sujetos a comprobación que sean propios del desarrollo del trabajo y los gastos de viaje en actividades oficiales;
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2001)</small>
+II.- Ningún servidor público del Municipio o de las Entidades Paramunicipales, podrá recibir remuneración, en términos de la fracción anterior, por el desempeño de su función, empleo, cargo o comisión, mayor a la establecida para el Gobernador del Estado o para el Presidente Municipal, en la Ley o en el Presupuesto de Egresos correspondiente;
 
-Concluido el análisis del Proyecto del Presupuesto de Egresos, éste se turnará al Ayuntamiento, el cual lo deberá aprobar conforme lo preceptúa la fracción IX del artículo 78 de la presente Ley.
+III.- Ningún servidor público del Municipio o de las Entidades Paramunicipales podrá tener una remuneración igual o mayor que su superior jerárquico; salvo que el excedente sea consecuencia del desempeño de varios empleos públicos, en los casos previstos por la Constitución Política del Estado, que su remuneración sea producto de las condiciones generales de trabajo, derivado de un trabajo técnico calificado o por especialización en su función, la suma de dicha remuneración no podrá exceder la mitad de la remuneración establecida para el Gobernador del Estado o para el Presidente Municipal, en la Ley o en el Presupuesto de Egresos correspondiente;
 
-El presupuesto de egresos del Municipio deberá formularse bajo las bases, programas y modalidades que el propio Ayuntamiento determine. Sin perjuicio de lo anterior, el total del gasto destinado a servicios personales no podrá exceder del cincuenta por ciento del presupuesto respectivo, y el gasto destinado a obra pública no podrá ser menor al diez por ciento del mismo.
+IV- No se concederán ni cubrirán jubilaciones, pensiones o haberes de retiro, ni liquidaciones por servicios prestados, como tampoco préstamos o créditos, sin que éstas se encuentren asignadas por la legislación aplicable en la materia, Decreto Legislativo, Contrato Colectivo o condiciones generales de trabajo. Estos conceptos no formarán parte de la remuneración.
 
-El presupuesto de egresos podrá ser modificado sólo por motivos extraordinarios, siguiendo las mismas formalidades que para su aprobación establece esta Ley, remitiendo copia de las modificaciones al Órgano de Fiscalización Superior del Estado.
+Quedan excluidos o condicionados los servicios de seguridad que requieran los servidores públicos por razón del cargo desempeñado; y
+
+V.- Las remuneraciones y sus tabuladores serán públicos, y deberán especificar y diferenciar la totalidad de sus elementos fijos y variables tanto en efectivo como en especie.
 
 ###### ARTÍCULO 147.
 
@@ -2535,6 +2613,10 @@ III.- Los cónyuges o concubinarios, parientes consanguíneos en línea recta si
 
 IV.- A personas jurídicas en las cuales sean representantes o tengan intereses económicos las personas a que se refieren las fracciones anteriores.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2010)</small>
+
+ARTÍCULO 184 BIS.- Los Ayuntamientos, al otorgar cualquier concesión sobre bienes de dominio público y uso común, deberán solicitar como requisito indispensable al concesionario, que se ajusten a los lineamientos de accesibilidad.
+
 ###### ARTÍCULO 185.
 
 Las autorizaciones, permisos y licencias que otorgue el Ayuntamiento, se ajustarán a lo dispuesto en las leyes y demás disposiciones aplicables, pero siempre guardando los principios de transparencia, honestidad y simplificación.
@@ -2587,9 +2669,9 @@ VII.- Impulso a las Artesanías;
 
 VIII.- Fomento al Empleo;
 
-> <small>(REFORMADA, P.O. 15 DE JULIO DE 2009)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2010)</small>
 
-IX.- Materia de Discapacitados;
+IX.- Materia de personas con discapacidad;
 
 > <small>(REFORMADA, P.O. 15 DE JULIO DE 2009)</small>
 
@@ -2825,6 +2907,12 @@ V.- Cuidar que la organización y desempeño de los cuerpos de seguridad públic
 
 VI.- Ejecutar los acuerdos del Ayuntamiento relacionados con la seguridad pública.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2010)</small>
+
+ARTÍCULO 213 BIS.- La autoridad municipal competente deberá observar el cumplimiento de los Reglamentos y normatividad aplicable para que los centros comerciales permitan a las autoridades correspondientes el libre ingreso a los mismos, a fin de vigilar que los espacios de estacionamiento identificados con el símbolo de accesibilidad se respeten y en su caso, se apliquen las sanciones correspondientes.
+
+Se establecerán espacios reservados para los vehículos de las personas con discapacidad conforme a su reglamentación aplicable.
+
 ### CAPÍTULO XXIV. DE LA JUSTICIA MUNICIPAL
 
 ###### ARTÍCULO 214.
@@ -2859,7 +2947,9 @@ I.- Garantizar la estabilidad y seguridad en el empleo;
 
 II.- Fomentar la vocación de servicio, mediante una motivación adecuada;
 
-III.- Propiciar la capacitación permanente del personal;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2010)</small>
+
+III.- Propiciar la capacitación permanente del personal, así como la sensibilización para brindar un trato adecuado a las personas con discapacidad;
 
 IV.- Procurar la lealtad a las instituciones del Municipio;
 
@@ -2981,9 +3071,9 @@ b) Se revisarán en el mes de enero de cada año, asentando las modificaciones d
 
 III.- Informar al Ayuntamiento del que dependan, el cumplimiento de las disposiciones establecidas en la fracción anterior y su resultado;
 
-> <small>(REFORMADA, P.O. 25 DE JULIO DE 2008)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2010)</small>
 
-IV.- Imponer dentro de su jurisdicción las sanciones que establezca el Bando de Policía y Gobierno para los infractores de sus disposiciones; vigilando que se respeten los derechos humanos de los mismos;
+IV.- Imponer dentro de su jurisdicción las sanciones que establezca el Bando de Policía y Gobierno para los infractores de sus disposiciones; vigilando que se respeten los derechos humanos de los mismos, en especial de las personas en contexto de vulnerabilidad;
 
 V.- Imponer, cuando proceda, las sanciones a que se refiere la presente Ley;
 
@@ -3110,6 +3200,10 @@ En los Municipios que no cuenten con juzgado calificador, el Presidente Municipa
 ###### ARTÍCULO 251.
 
 Al imponerse una sanción, se hará constar por escrito los hechos que la motiven, las defensas alegadas por el infractor, las leyes o reglamento infringidos y la sanción impuesta.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2010)</small>
+
+Se deberá vigilar que se respeten los derechos humanos de los infractores, poniendo especial atención a las personas en contexto de vulnerabilidad.
 
 ### CAPÍTULO XXXII. DISPOSICIONES GENERALES
 
@@ -3354,3 +3448,31 @@ El presente Decreto entrará en vigor el día de su publicación en el Periódic
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Ordenamiento.
+
+P.O. 31 DE DICIEMBRE DE 2010.
+
+DECRETO POR EL QUE SE REFORMAN EL PARRAFO PRIMERO DE LA FRACCION XXXIV, LAS FRACCIONES L, LII, LIII, LIV, LV, LVI, LVII, LVIII, LIX Y LX DEL ARTICULO 78, LA FRACCION LXI DEL 91, LAS FRACCIONES IV Y V DEL 107, LA FRACCION IX DEL 191, LA FRACCION III DEL 219 Y LA FRACCION IV DEL 231; Y SE ADICIONAN LOS PARRAFOS SEGUNDO Y TERCERO A LA FRACCION XLIII, LAS FRACCIONES LXI, LXII, LXIII Y LXIV AL ARTICULO 78, EL 78 BIS, LA FRACCION VIII AL 80, LAS FRACCIONES LXII Y LXIII AL 91, LA FRACCION VI AL 107, EL 184 BIS, EL 213 BIS Y EL SEGUNDO PÁRRAFO AL 251, TODOS DE LA LEY ORGANICA MUNICIPAL.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los Ayuntamientos tendrán un plazo de 180 días para adecuar sus Reglamentos y establecer la accesibilidad de acuerdo a los lineamientos correspondientes.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+CUARTO.- La aplicación del presente Decreto estará sujeto a la suficiencia presupuestal que apruebe el Honorable Congreso del Estado en la Ley de Egresos del Estado para el Ejercicio Fiscal correspondiente.
+
+P.O. 31 DE DICIEMBRE DE 2010.
+
+DECRETO QUE REFORMA EL ARTÍCULO 146 DE LA LEY ORGANICA MUNICIPAL
+
+PRIMERO.- El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO.- Para efectos de la aplicación de las disposiciones contenidas en el presente Decreto, se deberán observar en lo conducente, lo previsto en los Artículos Transitorios del Decreto que reforma diversas disposiciones de la Constitución Política del Estado, publicado en el Periódico Oficial del Estado el 16 de junio de 2010.
+
+TERCERO.- Se derogan todas las disposiciones jurídicas y administrativas que contravengan o se opongan a las reformas materia del presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2010.
+
+DECRETO POR VIRTUD DEL CUAL SE REFORMA LA FRACCION LXIV, Y SE ADICIONA LA FRACCION LXV DEL ARTÍCULO 78 DE LA LEY ORGÁNICA MUNICIPAL.
+
+LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO TERCERO DEL CODIGO CIVIL FEDERAL VIGENTE .
