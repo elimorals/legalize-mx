@@ -4,7 +4,7 @@ identifier: "HID-ley-para-la-atencion-de-personas-con-discapacidad-en-el-22725"
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-30"
-last_updated: "1998-12-30"
+last_updated: "2010-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22725&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "HID"
 
 LEY PARA LA ATENCION DE PERSONAS CON DISCAPACIDAD EN EL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY INTEGRAL PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE HIDALGO, PUBLICADA EN EL P.O. DE 31 DE DICIEMBRE DE 2010. EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: DEROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el 30 de diciembre de 1998.
 
@@ -556,3 +558,13 @@ LIC. HUMBERTO ALEJANDRO LUGO GIL.
 EL SECRETARIO DE GOBIERNO
 
 LIC. JOSE GONZALO BADILLO ORTIZ.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 31 DE DICIEMBRE DE 2010.
+
+PRIMERO.- El presente Decreto entrará en vigor al siguiente día de su Publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se deroga Decreto Núm. 244 que contiene la Ley para la Atención de Personas con Discapacidad en el Estado de Hidalgo.
+
+TERCERO.- Quedan derogadas todas aquellas disposiciones que se opongan al presente ordenamiento.
