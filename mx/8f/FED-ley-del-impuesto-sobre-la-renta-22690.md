@@ -4,7 +4,7 @@ identifier: "FED-ley-del-impuesto-sobre-la-renta-22690"
 country: "mx"
 rank: "ley"
 publication_date: "2002-01-01"
-last_updated: "2010-11-19"
+last_updated: "2010-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22690&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LISR"
 
 LEY DEL IMPUESTO SOBRE LA RENTA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE NOVIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 2010.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el martes 1 de enero de 2002.
 
@@ -5124,7 +5124,37 @@ Los requisitos de las deducciones establecidas en el Capítulo X de este Título
 
 Las personas físicas calcularán el impuesto del ejercicio sumando, a los ingresos obtenidos conforme a los Capítulos I, III, IV, V, VI, VIII y IX de este Título, después de efectuar las deducciones autorizadas en dichos Capítulos, la utilidad gravable determinada conforme a las Secciones I o II del Capítulo II de este Título, al resultado obtenido se le disminuirá, en su caso, las deducciones a que se refiere el artículo 176 de esta Ley. A la cantidad que se obtenga se le aplicará la siguiente:
 
-(VEASE ARCHIVO ANEXO)
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE TARIFA, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+(REFORMADA, D.O.F. 1 DE OCTUBRE DE 2007) (REPUBLICADA, D.O.F. 7 DE DICIEMBRE DE 2009)
+
+TARIFA
+
+Límite inferior Límite superior Cuota fija Por ciento para
+
+aplicarse sobre el
+
+excedente del
+
+límite inferior
+
+$ $ $ %
+
+0.01 5,952.84 0.00 1.92
+
+5,952.85 50,524.92 114.24 6.40
+
+50,524.93 88,793.04 2,966.76 10.88
+
+88,793.05 103,218.00 7,130.88 16.00
+
+103,218.01 123,580.20 9,438.60 17.92
+
+123,580.21 249,243.48 13,087.44 19.94
+
+249,243.49 392,841.96 38,139.60 21.95
+
+392,841.97 En adelante 69,662.40 28.00
 
 No será aplicable lo dispuesto en este artículo a los ingresos por los que no se esté obligado al pago del impuesto y por los que ya se pagó impuesto definitivo.
 
@@ -6100,6 +6130,10 @@ Cuando de conformidad con lo establecido en un tratado internacional en materia 
 
 ## TÍTULO VII. DE LOS ESTÍMULOS FISCALES
 
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2010)</small>
+
+### CAPÍTULO I. DE LAS CUENTAS PERSONALES PARA EL AHORRO
+
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
@@ -6131,6 +6165,10 @@ Los contribuyentes que realicen pagos de primas de contratos de seguro que tenga
 ###### Artículo 219.
 
 (DEROGADO, D.O.F. 7 DE DICIEMBRE DE 2009)
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2010)</small>
+
+### CAPÍTULO II. DE LA DEDUCCIÓN INMEDIATA DE BIENES NUEVOS DE ACTIVO FIJO
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE DICIEMBRE DE 2005)</small>
 
@@ -6258,11 +6296,19 @@ III. La correspondiente al área de Monterrey que comprende todo el territorio d
 
 Cuando se modifique total o parcialmente la conformación territorial de alguno de los municipios a que se refiere este artículo y como resultado de ello dicho municipio pase a formar parte de otro o surja uno nuevo, se considerará que el municipio del que pase a formar parte o el que surja con motivo de dicha modificación territorial, se encuentra dentro de las áreas metropolitanas a que se refiere este artículo.
 
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2010)</small>
+
+### CAPÍTULO III. DE LOS PATRONES QUE CONTRATEN A PERSONAS QUE PADEZCAN DISCAPACIDAD
+
 > <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 222.
 
 El patrón que contrate a personas que padezcan discapacidad motriz y que para superarla requieran usar permanentemente prótesis, muletas o sillas de ruedas; mental; auditiva o de lenguaje, en un ochenta por ciento o más de la capacidad normal o tratándose de invidentes, podrá deducir de sus ingresos, un monto equivalente al 100% del impuesto sobre la renta de estos trabajadores retenido y enterado conforme al Capítulo I del Título IV de esta Ley, siempre y cuando el patrón esté cumpliendo respecto de dichos trabajadores con la obligación contenida en el artículo 12 de la Ley del Seguro Social y además obtenga del Instituto Mexicano del Seguro Social el certificado de discapacidad del trabajador.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2010)</small>
+
+### CAPÍTULO IV. DE LOS FIDEICOMISOS Y SOCIEDADES MERCANTILES DEDICADOS A LA ADQUISICIÓN O CONSTRUCCIÓN DE INMUEBLES
 
 > <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
@@ -6392,6 +6438,10 @@ La sociedad podrá acreditar el crédito fiscal que haya entregado en los térmi
 
 Las sociedades mercantiles a que se refiere este artículo deberán cumplir con los requisitos de información que el Servicio de Administración Tributaria establezca mediante reglas de carácter general.
 
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2010)</small>
+
+### CAPÍTULO V. DE LOS CONTRIBUYENTES DEDICADOS A LA CONSTRUCCIÓN Y ENAJENACIÓN DE DESARROLLOS INMOBILIARIOS
+
 > <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 225.
@@ -6413,6 +6463,10 @@ IV. Que el costo de adquisición de los terrenos no se incluya en la estimación
 V. Que en la escritura pública en la que conste la adquisición de dichos terrenos, se asiente la información que establezca el Reglamento de esta Ley.
 
 Los contribuyentes que apliquen lo dispuesto en este artículo, lo deberán hacer respecto de todos sus terrenos que formen parte de su activo circulante, por un periodo mínimo de cinco años contados a partir del ejercicio en el que ejerzan la opción a que se refiere este artículo.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2010)</small>
+
+### CAPÍTULO VI. DEL ESTÍMULO FISCAL A LA PRODUCCIÓN CINEMATOGRÁFICA NACIONAL
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -6457,6 +6511,10 @@ II. El monto total del estímulo fiscal a distribuir entre los aspirantes del be
 III. El Comité Interinstitucional a que se refiere la fracción I de este artículo publicará a más tardar el último día de febrero de cada ejercicio fiscal, el monto del estímulo fiscal distribuido durante el ejercicio anterior, así como los contribuyentes beneficiados y los proyectos por los cuales fueron merecedores de dicho beneficio.
 
 IV. Los contribuyentes deberán cumplir lo dispuesto en las reglas generales que para el otorgamiento del estímulo publique el Comité Interinstitucional a que se refiere la fracción I de este artículo.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2010)</small>
+
+### CAPÍTULO VII. DE LA PROMOCIÓN DE LA INVERSIÓN EN CAPITAL DE RIESGO EN EL PAÍS
 
 > <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 2005)</small>
 
@@ -6505,6 +6563,158 @@ Para los efectos del párrafo anterior, la institución fiduciaria deberá lleva
 Cuando los derechos que se cedan se hayan adquirido de terceros, el costo comprobado de adquisición de ellos sólo se incrementará o disminuirá, respectivamente, por la diferencia que resulte entre el saldo a la fecha de enajenación y el saldo a la fecha de adquisición de los derechos, actualizado hasta la fecha de enajenación, de las cuentas de ingresos a las que se refiere la fracción II de este artículo y de la cuenta a la que se refiere el párrafo anterior, y
 
 VII. Cuando no se cumpla alguno de los requisitos a que se refieren las fracciones IV y V del artículo 227 de esta Ley, los fideicomisarios causarán el impuesto a la tasa establecida en el primer párrafo del artículo 10 de esta Ley por la utilidad fiscal que derive de los ingresos que reciba la institución fiduciaria, en los términos del artículo 13 de esta misma Ley, a partir del año inmediato posterior a aquél en que ocurra el incumplimiento.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 31 DE DICIEMBRE DE 2010)</small>
+
+### CAPÍTULO VIII. DEL FOMENTO AL PRIMER EMPLEO
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 229.
+
+Las disposiciones de este Capítulo tienen por objeto incentivar la creación de nuevos empleos de carácter permanente en territorio nacional, así como fomentar el primer empleo.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 230.
+
+Los patrones que contraten a trabajadores de primer empleo para ocupar puestos de nueva creación, tendrán derecho a una deducción adicional en el impuesto sobre la renta.
+
+La determinación de la deducción adicional se llevará a cabo conforme a lo siguiente:
+
+I. Al salario base a que se refiere el artículo 231 de esta Ley multiplicado por el número de días laborados en el mes o en el año por cada trabajador de primer empleo, según corresponda, se le disminuirá el monto que resulte de multiplicar dicha cantidad por la tasa establecida en el artículo 10 de esta Ley vigente en el ejercicio en que se aplique la deducción.
+
+II. El resultado obtenido conforme a la fracción anterior, se dividirá entre la tasa del impuesto sobre la renta vigente en el ejercicio de que se trate.
+
+III. El 40% del monto obtenido conforme a la fracción anterior será el monto máximo de la deducción adicional aplicable en el cálculo del pago provisional o del ejercicio, según corresponda.
+
+La deducción adicional determinada conforme a esta fracción, será aplicable en el ejercicio y en los pagos provisionales sin que en ningún caso exceda el monto de la utilidad fiscal o de la base que en su caso corresponda determinada antes de aplicar dicha deducción adicional.
+
+IV. El patrón que no considere en el cálculo de los pagos provisionales o del ejercicio fiscal que corresponda la deducción adicional, pudiendo haberlo hecho conforme al mismo, perderá el derecho a hacerlo en los pagos provisionales o en los ejercicios posteriores hasta por la cantidad en la que pudo haberla aplicado.
+
+La deducción adicional a que se refiere este artículo no deberá considerarse para efectos de calcular la renta gravable que servirá de base para la determinación de la participación de los trabajadores en las utilidades de las empresas a que se refiere el artículo 123, Apartado A, fracción IX, inciso e) de la Constitución Política de los Estados Unidos Mexicanos.
+
+El monto de la deducción adicional sólo será aplicable tratándose de trabajadores que perciban hasta 8 veces el salario mínimo general vigente del área geográfica en donde preste servicio el trabajador de que se trate.
+
+Tratándose de patrones personas físicas, la deducción adicional a que se refiere esta Ley sólo será aplicable contra los ingresos obtenidos por la realización de actividades empresariales y servicios profesionales, y por arrendamiento y en general por otorgar el uso o goce temporal de bienes inmuebles a que se refieren los capítulos II y III del Título IV de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 231.
+
+Para efectos de este Capítulo se entenderá como:
+
+I. Patrón: la persona física o moral que tenga ese carácter en los términos de lo dispuesto por el artículo 10 de la Ley Federal del Trabajo.
+
+II. Trabajador: la persona física que tenga ese carácter conforme a lo previsto por el artículo 8 de la Ley Federal del Trabajo.
+
+III. Trabajador de primer empleo: es aquel trabajador que no tenga registro previo de aseguramiento en el régimen obligatorio ante el Instituto Mexicano del Seguro Social, por no haber prestado en forma permanente o eventual un servicio remunerado, personal y subordinado a un patrón.
+
+IV. Puesto de nueva creación: todo aquel de nueva creación y que incremente el número de trabajadores asegurados en el régimen obligatorio ante el Instituto Mexicano del Seguro Social a partir de la entrada en vigor de este artículo y en los términos de lo dispuesto en el artículo 232 de esta Ley.
+
+V. Puestos existentes: todos aquéllos creados con anterioridad a la entrada en vigor del estímulo a que se refiere el artículo 230 de la presente Ley.
+
+VI. Salario base: el que en los términos de la Ley del Seguro Social se integra como salario base de cotización para la determinación de las cuotas de seguridad social.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 232.
+
+Para efectos de la aplicación de los beneficios establecidos en el artículo 230 de esta Ley, puesto de nueva creación será aquél que incremente el número de trabajadores asegurados registrados en el régimen obligatorio del Instituto Mexicano del Seguro Social en cada ejercicio fiscal. Para determinar el número base de los registros cuyo incremento se considerará puesto de nueva creación, no se tomarán en cuenta las bajas en los registros correspondientes de trabajadores pensionados o jubilados durante el ejercicio fiscal de que se trate, así como aquellas bajas registradas de los últimos dos meses del año 2010.
+
+Los puestos de nueva creación deberán permanecer existentes por un periodo de por lo menos 36 meses continuos contados a partir del momento en que sean creados, plazo durante el cual el puesto deberá ser ocupado por un trabajador de primer empleo. Transcurrido dicho periodo, los puestos de nueva creación dejarán de tener los beneficios fiscales a que se refiere el artículo 230 de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 233.
+
+La deducción adicional a que se refiere el artículo 230 de esta Ley se aplicará en el ejercicio fiscal de que se trate, así como en el cálculo de los pagos provisionales del impuesto sobre la renta.
+
+La determinación de la deducción adicional que se podrá aplicar en los pagos provisionales se llevará a cabo en los mismos términos y condiciones establecidos en el artículo 230 de esta Ley, pero considerando el salario base pagado a los trabajadores de primer empleo en el periodo al que corresponda el pago.
+
+Tratándose de personas morales, el patrón disminuirá de la utilidad fiscal que corresponda al pago provisional de que se trate, el monto de la deducción adicional que resulte para el mes de que se trate.
+
+Para efectos de la determinación del coeficiente de utilidad a que se refiere el artículo 14 de esta Ley, no deberá considerarse la deducción adicional aplicada en el ejercicio inmediato anterior a aquél por el que se calcula el coeficiente.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 234.
+
+Para tener derecho a la deducción adicional a que se refiere el artículo 230 de la presente Ley, el patrón deberá cumplir respecto de la totalidad de los trabajadores de primer empleo que se contraten, con los requisitos siguientes:
+
+I. Sus relaciones laborales se deberán regir por el apartado A del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos.
+
+II. Crear puestos nuevos y contratar a trabajadores de primer empleo para ocuparlos.
+
+III. Inscribir a los trabajadores de primer empleo ante el Instituto Mexicano del Seguro Social, en los términos que establece la Ley del Seguro Social.
+
+IV. Determinar y enterar al Instituto Mexicano del Seguro Social el importe de las cuotas obrero patronales causadas tanto por los trabajadores de primer empleo, como por el resto de los trabajadores a su servicio, conforme a lo dispuesto en la Ley del Seguro Social.
+
+Además, respecto de los trabajadores a que se refiere el párrafo anterior, se deberá cumplir con las obligaciones de retención y entero a que se refiere el Capítulo I del Título IV de esta Ley.
+
+V. No tener a su cargo adeudos por créditos fiscales firmes determinados tanto por el Servicio de Administración Tributaria, como por el Instituto Mexicano del Seguro Social.
+
+VI. Presentar ante el Servicio de Administración Tributaria el aviso y la información mensual a que se refiere el artículo 236 de esta Ley, de conformidad con las reglas de carácter general que emita dicho órgano desconcentrado.
+
+VII. Durante el periodo de 36 meses a que se refiere el segundo párrafo del artículo 232 de esta Ley, el patrón deberá mantener ocupado de forma continua el puesto de nueva creación por un lapso no menor a 18 meses.
+
+VIII. Cumplir con las obligaciones de seguridad social que correspondan según los ordenamientos legales aplicables.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 235.
+
+El patrón no perderá el beneficio que le otorga el presente Capítulo en caso de que al trabajador de primer empleo le sea rescindido su contrato de trabajo en términos de lo establecido por el artículo 47 de la Ley Federal del Trabajo y éste sea sustituido por otro trabajador de primer empleo, siempre que el patrón conserve el puesto de nueva creación durante el periodo establecido en el segundo párrafo del artículo 232 de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 236.
+
+Los patrones que apliquen la deducción adicional a que se refiere el artículo 230 de esta Ley, deberán presentar, ante el Servicio de Administración Tributaria, en el mes en el que inicien la aplicación de la deducción adicional, un aviso en el que manifiesten que optan por aplicar los beneficios establecidos en el artículo 230 de esta Ley. Asimismo, a más tardar el día 17 de cada mes del año de calendario, los patrones deberán presentar, bajo protesta de decir verdad, la siguiente información correspondiente al mes inmediato anterior:
+
+I. Respecto de los patrones que apliquen la deducción adicional, lo siguiente:
+
+a) El registro federal de contribuyentes.
+
+b) Todos los registros patronales ante el Instituto Mexicano del Seguro Social asociados al registro federal de contribuyentes.
+
+II. Respecto de los trabajadores de primer empleo contratados, lo siguiente, por cada trabajador:
+
+a) El nombre completo.
+
+b) El número de seguridad social.
+
+c) La clave única de registro de población.
+
+d) El registro federal de contribuyentes.
+
+e) El monto del salario base de cotización con el que se encuentran registrados ante el Instituto Mexicano del Seguro Social.
+
+f) El monto de las cuotas de seguridad social pagadas.
+
+III. El monto de la deducción adicional aplicada en el mes de que se trate.
+
+IV. Respecto de los trabajadores de primer empleo que se hubieran sustituido en los términos del artículo 235 de esta Ley, lo siguiente:
+
+a) El número de seguridad social del trabajador sustituido.
+
+b) El número de seguridad social del trabajador sustituto, de quien deberá entregarse la información señalada en la fracción II de este artículo.
+
+V. La demás información necesaria para verificar la correcta aplicación de la deducción adicional establecida en el artículo 230 de la presente Ley.
+
+El Servicio de Administración Tributaria deberá remitir copia de la información que presenten los patrones en los términos de este artículo al Instituto Mexicano del Seguro Social.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 237.
+
+Los patrones que en un ejercicio fiscal incumplan con los requisitos establecidos en este Capítulo para aplicar la deducción adicional a que se refiere el artículo 230 de esta Ley, perderán el derecho a aplicar dicha deducción adicional por la contratación de trabajadores de primer empleo que se realicen en ejercicios posteriores a aquél en el que se incurrió en incumplimiento.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 238.
+
+Con independencia de las sanciones que se apliquen a los patrones que de manera indebida efectúen la deducción adicional prevista en el artículo 230 de esta Ley, dichos patrones deberán pagar el impuesto sobre la renta que le hubiera correspondido de no haber aplicado en los pagos provisionales o en el ejercicio de que se trate la deducción adicional a que se refiere el mencionado artículo 230, debidamente actualizado y con los recargos que correspondan, en los términos de las disposiciones fiscales aplicables, desde la fecha en la que se aplicó indebidamente la mencionada deducción adicional y hasta el día en el que se efectúe el pago.
 
 Disposiciones Transitorias de la Ley del Impuesto sobre la Renta
 
@@ -8571,3 +8781,13 @@ D.O.F. 27 DE ABRIL DE 2010.
 D.O.F. 19 DE NOVIEMBRE DE 2010.
 
 ÚNICO. El presente Decreto entrará en vigor el 1 de enero de 2011.
+
+D.O.F. 31 DE DICIEMBRE DE 2010.
+
+PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. El Capítulo VIII "Del fomento al primer empleo" de la Ley del Impuesto sobre la Renta tendrá una vigencia de 3 años contados a partir de la entrada en vigor del presente Decreto. No obstante lo anterior, quienes durante la vigencia del citado Capítulo VIII establezcan puestos de nueva creación para ser ocupados por trabajadores de primer empleo, conforme a las definiciones establecidas en el citado Capítulo, tendrán el beneficio a que se refiere el mismo respecto de dichos empleos hasta por el periodo de 36 meses, conforme a lo previsto por el artículo 232 de la Ley del Impuesto sobre la Renta aún cuando el capítulo antes citado ya no se encuentre vigente.
+
+TERCERO. El monto máximo de la deducción adicional a que se refiere el artículo 230 de la Ley del Impuesto sobre la Renta se disminuirá en un 25% a partir del segundo año de vigencia del presente Decreto.
+
+CUARTO. Para los efectos del artículo 236 de la Ley del Impuesto sobre la Renta, la información que deban presentar los patrones respecto de las contrataciones de trabajadores de primer empleo realizadas en el primer mes del primer año de vigencia del Capítulo VIII del Título VII de la Ley del Impuesto sobre la Renta, se deberá efectuar el día 17 del mes inmediato posterior a dicho mes.
