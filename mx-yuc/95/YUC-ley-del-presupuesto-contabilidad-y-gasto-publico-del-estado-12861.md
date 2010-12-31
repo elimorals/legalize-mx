@@ -4,7 +4,7 @@ identifier: "YUC-ley-del-presupuesto-contabilidad-y-gasto-publico-del-estado-128
 country: "mx"
 rank: "ley"
 publication_date: "1988-03-22"
-last_updated: "1992-12-31"
+last_updated: "2010-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12861&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "YUC"
 
 LEY DEL PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DEL ESTADO DE YUCATAN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE DICIEMBRE DE 1992.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE PRESUPUESTO Y CONTABILIDAD DEL ESTADO DE YUCATAN, PUBLICADA EN EL D.O. DE 31 DE DICIEMBRE DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: ABROGADA.
 
 Ley publicada en el Diario Oficial el día Martes 22 de Marzo de 1988.
 
@@ -351,8 +353,40 @@ SEGUNDO.- El presente Decreto entrara en vigor el da siguiente al de su publicac
 
 D.O. 31 DE DICIEMBRE DE 1992.
 
-DECRETO NUMERO 531 QUE ADICIONA EL ARTICULO 29 Y REFORMA LOS ARTICULOS 33 Y 34.
-
 PRIMERO.- Los actos y contratos celebrados por el Gobierno del Estado con anterioridad a la vigencia del presente Decreto serán válidos en los términos pactados en los mismos.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado.
+
+D.O. 31 DE DICIEMBRE DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+Esta Ley entrará en vigor el día primero de enero del año dos mil once, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley del Presupuesto, Contabilidad y Gasto Público del Estado de Yucatán, publicada en el Diario Oficial del Gobierno del Estado en fecha 22 de marzo de 1988 en el Decreto No. 17.
+
+###### ARTÍCULO TERCERO.
+
+Las reglas de carácter general, lineamientos y disposiciones generales a que se refiere esta Ley que no se encuentren emitidas al inicio de la vigencia de esta Ley, deberán ser expedidas por las Dependencias y Entidades señaladas en este propio ordenamiento legal, dentro de los primeros dos meses del año dos mil once.
+
+###### ARTÍCULO CUARTO.
+
+Por única ocasión durante el ejercicio fiscal 2011 el plazo para la entrega y publicación del primer informe trimestral con los requisitos a que se refiere esta Ley, se difiere a más tardar, hasta el plazo correspondiente al segundo informe trimestral. No obstante el primer informe trimestral se publicará con las características con las cuales se publicó durante el ejercicio fiscal 2010, en caso de imposibilidad material de elaborarlo con los requisitos de Ley, ello, dentro de los 30 días siguientes a la terminación del periodo a informar.
+
+###### ARTÍCULO QUINTO.
+
+Las Dependencias y Entidades que otorguen subsidios en numerario o en especie deberán elaborar o modificar, en su caso, las reglas de operación conforme los requisitos que establece el artículo 133 de esta Ley. Por única ocasión, en el ejercicio fiscal 2011 las Dependencias y Entidades mencionadas deberán someter las reglas de operación a la autorización de la Secretaría, a más tardar el último día hábil del mes de febrero y la resolución correspondiente deberá emitirse en un plazo que no excederá de 30 días naturales. Una vez obtenida la autorización de la Secretaría, las Dependencias y Entidades procederán conforme las fracciones I y II del artículo 135 de esta Ley y previo dictamen del Consejo Estatal de Mejora Regulatoria, deberán publicar las reglas de operación en el plazo de 10 días hábiles.
+
+###### ARTÍCULO SEXTO.
+
+Las Dependencias y Entidades que antes de los plazos señalados en el artículo anterior cuenten con reglas de operación para otorgar subsidios, podrán seguir aplicándolas hasta la fecha de publicación de las nuevas en el Diario Oficial del Gobierno del Estado de Yucatán. En el caso de que tengan presupuestados subsidios y no tengan reglas de operación, sólo podrán otorgarlos hasta después de publicarlas en el Diario Oficial.
+
+###### ARTÍCULO SÉPTIMO.
+
+El Reglamento de esta Ley deberá ser expedido por el Titular del Poder Ejecutivo del Estado de Yucatán, en un plazo no mayor a ciento ochenta días hábiles contados a partir de la entrada en vigor de este ordenamiento.
+
+###### ARTÍCULO OCTAVO.
+
+Se derogan todas las disposiciones de igual o menor rango que se opongan a lo previsto en esta Ley.
