@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-responsabilidades-de-los-servidores-publicos-del-3116"
 country: "mx"
 rank: "ley"
 publication_date: "1984-02-03"
-last_updated: "2010-03-12"
+last_updated: "2010-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3116&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO Y DE LOS MUNICIPIOS DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 12 DE MARZO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 2010.
 
 Ley publicada en Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el 3 de febrero de 1984.
 
@@ -445,7 +445,9 @@ VI.- DESTITUCIÓN CON INHABILITACIÓN PARA EL DESEMPEÑO DEL EMPLEO, CARGO O COM
 
 CUANDO LA INHABILITACIÓN SE IMPONGA COMO CONSECUENCIA DE UN ACTO U OMISIÓN QUE IMPLIQUE LUCRO O CAUSE DAÑOS Y PERJUICIOS, SERÁ DE 6 MESES A 3 AÑOS SI EL MONTO DE AQUÉLLOS NO EXCEDE DE 500 VECES EL SALARIO MÍNIMO MENSUAL VIGENTE EN LA ZONA ECONÓMICA CORRESPONDIENTE Y DE 3 A 6 AÑOS SI EXCEDE DE DICHO LÍMITE, O CUANDO, SIN EXCEDERLO EXISTA REINCIDENCIA.
 
-LAS SANCIONES DE CARÁCTER PECUARIO SE IMPONDRÁN DE ACUERDO A LOS BENEFICIOS ECONÓMICOS OBTENIDOS POR EL RESPONSABLE Y LOS DAÑOS Y PERJUICIOS CAUSADOS, POR LOS ACTOS U OMISIONES EN QUE INCURRA, Y NO PODRÁ EXCEDER DE TRES TANTOS DE LA CUANTIFICACIÓN DE ESTOS. ESTAS SANCIONES CONSTITUYEN CRÉDITOS FISCALES Y SE HARÁN EFECTIVAS MEDIANTE PROCEDIMIENTOS ADMINISTRATIVOS DE EJECUCIÓN.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2010)</small>
+
+LAS SANCIONES DE CARÁCTER PECUNIARIO SE IMPONDRÁN DE ACUERDO A LOS BENEFICIOS ECONÓMICOS OBTENIDOS POR EL RESPONSABLE Y LOS DAÑOS Y PERJUICIOS CAUSADOS, POR LOS ACTOS U OMISIONES EN QUE INCURRA, Y NO PODRÁ EXCEDER DE TRES TANTOS DE LA CUANTIFICACIÓN DE ESTOS, ESTAS SANCIONES CONSTITUYEN CRÉDITOS FISCALES Y SE HARÁN EFECTIVAS MEDIANTE PROCEDIMIENTOS ADMINISTRATIVOS DE EJECUCIÓN.
 
 > <small>(REFORMADO, B.O. 19 DE MAYO DE 1992)</small>
 
@@ -918,3 +920,7 @@ El Instituto Estatal Electoral, publicará a más tardar el día 20 de agosto de
 I.- En el año de la elección en que se renueven el Titular del Poder Ejecutivo Estatal, los integrantes del Congreso del Estado e integrantes de los Ayuntamientos, todos los candidatos podrán ser registrados en el periodo comprendido del día diez al día quince de noviembre inclusive, del año anterior al de la elección; y
 
 II.- En el año de la elección en que solamente se renueven los integrantes del Congreso del Estado e integrantes de los Ayuntamientos, los candidatos podrán ser registrados en el periodo comprendido del día seis al día diez de diciembre inclusive, del año anterior al de la elección.
+
+B.O. 31 DE DICIEMBRE DE 2010.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
