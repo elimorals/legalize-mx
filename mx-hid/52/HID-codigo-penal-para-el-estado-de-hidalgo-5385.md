@@ -4,7 +4,7 @@ identifier: "HID-codigo-penal-para-el-estado-de-hidalgo-5385"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-06-09"
-last_updated: "2010-11-15"
+last_updated: "2010-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5385&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CODIGO PENAL PARA EL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE NOVIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2010.
 
 Código publicado en el Alcance al Periódico Oficial del Estado de Hidalgo, el sábado 9 de junio de 1990.
 
@@ -3023,11 +3023,81 @@ II.- Valiéndose de la información que posea por razón de su empleo, cargo o c
 
 ### CAPITULO III. DELITOS CONTRA LA RIQUEZA FORESTAL
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 310.
 
 Al particular que promueva una conducta ilícita de un servidor público que se preste para ello o por interpósita persona promueva o gestione la tramitación o resolución ilícita de negocios públicos ajenos a las responsabilidades inherentes a su empleo, cargo o comisión, se le impondrá prisión de tres meses a tres años y multa de 10 a 50 días.
 
-### CAPITULO IV. APROVECHAMIENTO INDEBIDO DE BIENES EJIDALES O COMUNALES
+### CAPITULO III BIS. DELITOS CONTRA El AMBIENTE
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2010)</small>
+
+ARTICULO 349 TER.- Al que, sin contar con la autorización que se requiera o en contravención a las disposiciones legales, reglamentarias y normas oficiales mexicanas, así como, a las normas técnicas ecológicas aplicables, desmonte, destruya la vegetación natural, cambie el uso del suelo; se le impondrá de uno a ocho años de prisión, así como, una multa de doscientos a quinientos días de salario mínimo vigente en el Estado.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2010)</small>
+
+ARTICULO 349 QUATER.- La misma pena se impondrá a quien:
+
+I.- Expulse o descargue en la atmósfera: gases, humos, polvos, o partículas que causen o puedan ocasionar daños a la salud pública, la flora, la fauna o a los ecosistemas, en jurisdicción Estatal o Municipal;
+
+II.- Realice actividades con materiales o residuos que, por su composición o cantidad, sean considerados potencialmente riesgosos, que no sean competencia de la federación, y provoquen contaminación en aire, tierra y agua de jurisdicción Estatal y/o Municipal;
+
+III.- Realice obras o actividades, sin obtener, de la autoridad correspondiente, la autorización de impacto y riesgo ambiental, o no implemente las medidas preventivas y correctivas que establecen las normas o disposiciones aplicables o le indique la autoridad competente; para la mitigación de impactos ambientales y de seguridad de las personas, sus bienes y el ambiente; ocasionando daños a la salud pública, la flora, la fauna o a los ecosistemas de jurisdicción Estatal o Municipal;
+
+IV.- Filtre o descargue aguas residuales, líquidos químicos o bioquímicos, desechos o contaminantes en suelos o en aguas de jurisdicción local o en aguas Federales asignadas para la prestación de servicios públicos Estatales o Municipales, en cantidades o concentraciones que causen o puedan causar daños a la salud pública, a los recursos naturales, la flora, la fauna, o a los ecosistemas;
+
+V.- Genere emisiones de ruido, vibraciones, energía térmica o lumínica, cuando, por su intensidad causen o puedan causar daños graves a la salud pública, a los recursos naturales, la flora, la fauna, o a los ecosistemas;
+
+VI.- No obstante, haber sido sancionado administrativamente por la autoridad competente en dos o más ocasiones, realice quemas a cielo abierto mediante la combustión de llantas, plásticos o cualquier otro material contaminante de desecho, con el propósito de generar calor o energía para uso industrial o personal, provocando degradaciones atmosféricas que puedan ocasionar daños a la salud pública, a la flora, a la fauna y a los ecosistemas;
+
+VII.- Sin observar los ordenamientos legales aplicables, realice actividades de separación, utilización, acopio, recolección, almacenamiento, transportación, tratamiento o disposición final de residuos de manejo especial, así como la reutilización, acopio, almacenamiento, reciclaje o incineración de residuos sólidos no peligrosos generados por actividades domésticas, industriales, agrícolas o comerciales o de manejo municipal, que generen fauna nociva, causen o puedan causar daños a la salud pública, a los recursos naturales, a la flora, a la fauna o a los ecosistemas;
+
+VIII.- Sin la autorización de la autoridad competente o en contravención de las disposiciones legales aplicables, realice quemas para utilizar terrenos con fines agropecuarios, o contando con ella, no tome las medidas necesarias para evitar su propagación a terrenos aledaños;
+
+IX.- Deposite de manera clandestina, escombros o residuos, de cualquier tipo, provenientes de la industria en general, en áreas naturales protegidas, área de valor ambiental, zonas de recarga de mantos acuíferos, barrancas, áreas verdes o en terrenos baldíos, de competencia Estatal o Municipal.
+
+Será considerado como agravante, el que estos residuos industriales se depositen en áreas de recarga de mantos acuíferos, en cuyo caso la pena establecida se aumentara una tercera parte; y
+
+X.- Haya sido sancionado administrativamente en dos o más ocasiones por la autoridad ecológica competente y no obstante ello, persista en la misma conducta dañosa al ambiente.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2010)</small>
+
+ARTICULO 349 QUINQUIES.- Se impondrá prisión de dos a cuatro años y multa de ciento cincuenta a quinientos días de salario mínimo vigente en el Estado, a los prestadores de servicios ambientales autorizados, Centros de Verificación, laboratorios y/o cualquier persona física o moral que, de manera dolosa o culposa, proporcione documentación o información falsa o alterada, u omita datos, con el objeto de que las autoridades ambientales y/o fiscales competentes, otorguen o avalen licencias, autorizaciones, registros, constancias o permisos de cualquier tipo o, cancelen sanciones o créditos fiscales.
+
+Esta pena se aumentará en una mitad más, así como, la inhabilitación para ocupar cargos públicos, cuando, en la comisión de esta conducta o cualquier otro delito previsto en este Capítulo, intervenga un servidor público en ejercicio, quien, con motivo de sus funciones y haciendo uso de sus facultades; integre expedientes, otorgue o avale licencias, autorizaciones, registros, constancias o permisos de cualquier tipo que pongan en riesgo la salud pública, el medio ambiente o los recursos naturales.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2010)</small>
+
+ARTICULO 349 SEXIES.- Para estimar el potencial dañoso de las conductas previstas en este Capítulo, se atenderá a los parámetros máximos permisibles que establezcan las normas oficiales mexicanas y normas técnicas ecológicas locales y, en todo caso, al examen de peritos.
+
+En territorio decretado como área natural protegida, la pena se aumentará hasta en una mitad más.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2010)</small>
+
+ARTICULO 349 SEPTIES.- No se impondrá pena alguna a quien, por su escasa instrucción y extrema necesidad económica, realice aprovechamientos naturales en cantidades estrictamente necesarias para su consumo familiar y/o doméstico, siempre y cuando estos productos no salgan del lugar de su vecindad inmediata.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2010)</small>
+
+ARTICULO 349 OCTIES.- El Juez ordenará, como medida cautelar, a petición del ministerio público, con carácter temporal en tanto se dicta sentencia firme, la suspensión inmediata de la actividad o fuente contaminante; así como, el aseguramiento de los materiales, aparatos, maquinaria u objetos que estén causando daño o puedan poner en peligro al medio ambiente, sin perjuicio de lo que puedan disponer las autoridades administrativas competentes, de igual forma podrá ordenar:
+
+I.- Alguna de las medidas de seguridad contempladas en el Artículo 52 de este Código;
+
+II.- La Suspensión y, en su caso, la destitución de servidores públicos, en los casos en que se acredite su participación en la conducta ilícita, independientemente de la pena que les corresponda como responsables del delito, de igual forma se aplicará esta medida con la inhabilitación de los derechos para ejercer, a los profesionistas o peritos que se adecuen a esta conducta; y
+
+III.- Para los efectos de los delitos contra el medio ambiente, la reparación del daño incluirá además:
+
+a).- La realización de acciones necesarias encaminadas a restablecer las condiciones de los elementos naturales que constituyen los ecosistemas afectados, al estado en que se encontraban antes de realizarse el delito;
+
+b).- La suspensión de actividades, construcciones u obras, así como su modificación o demolición; y
+
+c).- El embargo, desmantelamiento o destrucción de maquinaria o instrumentos que hubieran dado lugar al daño ambiental tipificado como delito.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2010)</small>
+
+ARTICULO 349 NONIES.- La reducción de las penas por los delitos previstos en este Título, podrá decretarla el Juez, de oficio o a petición de parte; hasta en tres cuartas partes, cuando el agente, en forma voluntaria, haya restablecido las condiciones de los elementos naturales afectados al estado en que se encontraban antes de realizarse la conducta y, cuando esto no sea posible, será mediante la ejecución de acciones u obras que compensen los daños ambientales que se hubieren generado.
+
+A efecto de que pueda acreditarse el supuesto de procedencia de la mencionada atenuante, deberá constar en el expediente respectivo el dictamen técnico favorable emitido por la autoridad ambiental competente.
 
 ###### ARTICULO 311.
 
@@ -3035,9 +3105,7 @@ Al particular que de manera espontánea dé u ofrezca por sí o por interpósita
 
 El juez podrá imponer al cohechador hasta una tercera parte de las penas señaladas en el párrafo anterior o, a su juicio, eximirlo de las mismas, cuando aquél denuncie espontáneamente el delito cometido o cuando hubiere actuado para beneficiar a una persona con la que lo ligue un vínculo familiar, de gratitud o dependencia.
 
-### CAPITULO I. DISPOSICIONES GENERALES
-
-> <small>(ADICIONADO, P. O. 11 DE MAYO DE 2007)</small>
+### CAPITULO IV. APROVECHAMIENTO INDEBIDO DE BIENES EJIDALES O COMUNALES
 
 ###### ARTICULO 312.
 
@@ -3045,7 +3113,7 @@ Al particular que estando obligado legalmente, a la custodia, administración o 
 
 Las mismas penas se aplicarán al que, a sabiendas, adquiera indebidamente o haga figurar como suyos, bienes que un servidor público haya adquirido en contravención a lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos del Estado.
 
-### CAPITULO II. DELITOS ELECTORALES COMETIDOS POR PARTICULARES
+### CAPITULO I. DISPOSICIONES GENERALES
 
 > <small>(ADICIONADO, P. O. 11 DE MAYO DE 2007)</small>
 
@@ -3061,7 +3129,7 @@ La sanción podrá ser de tres meses a tres años de prisión y multa de 20 a 10
 
 Además de las penas a que se refiere este artículo, el perito, intérprete o traductor sufrirá inhabilitación para desempeñar sus funciones de tres meses a dos años.
 
-### CAPITULO III. DELITOS ELECTORALES COMETIDOS POR FUNCIONARIOS ELECTORALES
+### CAPITULO II. DELITOS ELECTORALES COMETIDOS POR PARTICULARES
 
 > <small>(ADICIONADO, P. O. 11 DE MAYO DE 2007)</small>
 
@@ -3087,7 +3155,7 @@ Al que por medio de la violencia física o moral exija a una autoridad la ejecuc
 
 Cuando la ley autorice el empleo de medios de apremio para hacer efectivas las determinaciones de la autoridad, sólo se consumarán los delitos de resistencia y desobediencia cuando se hubiesen agotado tales medios.
 
-### CAPITULO IV. DELITOS ELECTORALES COMETIDOS POR SERVIDORES PUBLICOS
+### CAPITULO III. DELITOS ELECTORALES COMETIDOS POR FUNCIONARIOS ELECTORALES
 
 > <small>(ADICIONADO, P. O. 11 DE MAYO DE 2007)</small>
 
@@ -3095,7 +3163,7 @@ Cuando la ley autorice el empleo de medios de apremio para hacer efectivas las d
 
 Al que quebrante los sellos impuestos por orden de la autoridad pública competente, se le impondrá prisión de tres meses a dos años y de 5 a 25 días multa.
 
-### CAPITULO V. DELITOS ELECTORALES COMETIDOS POR FUNCIONARIOS PARTIDISTAS
+### CAPITULO IV. DELITOS ELECTORALES COMETIDOS POR SERVIDORES PUBLICOS
 
 > <small>(ADICIONADO, P. O. 11 DE MAYO DE 2007)</small>
 
@@ -3104,6 +3172,10 @@ Al que quebrante los sellos impuestos por orden de la autoridad pública compete
 Al que de palabra o de obra ultraje a una autoridad en el ejercicio de sus funciones o con motivo de ellas, se le impondrá prisión de tres meses a un año y de 5 a 25 días multa.
 
 Para los efectos de esta disposición, se entiende por ultraje toda acción o expresión ejecutada con el ánimo de denigrar u ofender a algún funcionario o agente de la autoridad.
+
+### CAPITULO V. DELITOS ELECTORALES COMETIDOS POR FUNCIONARIOS PARTIDISTAS
+
+> <small>(ADICIONADO, P. O. 11 DE MAYO DE 2007)</small>
 
 ###### ARTICULO 321.
 
@@ -3433,7 +3505,7 @@ En caso de reincidencia la pena de prisión será de cinco a diez años.
 
 ###### ARTICULO 345.
 
-Se impondrá prisión de dos a ocho años, multa de hasta cinco veces más del valor comercial de los productos obtenidos y decomiso de los productos, objetos e instrumentos del delito:
+Se impondrá prisión de cuatro a ocho años, multa de hasta diez veces más del valor comercial de los productos obtenidos y decomiso de los productos, objetos e instrumentos del delito:
 
 I.- Al que sin el permiso correspondiente, debidamente requisitado y expedido por las autoridades respectivas, ordene o realice aprovechamiento o explotaciones forestales;
 
@@ -3441,7 +3513,19 @@ I.- Al que sin el permiso correspondiente, debidamente requisitado y expedido po
 
 II.- Al que al amparo de una autorización forestal expedida legalmente, la ejecute con violación de sus términos y limitaciones, excediéndose de sus alcances o contrariando las disposiciones técnicas o legales del caso;
 
-III.- Al que obtenga una autorización de explotación forestal valiéndose de actos simulados, proporcionando informes falsos a la autoridad respectiva u ocultando los verdaderos; así como al que traspase una autorización de explotación forestal o la ejecute, contraviniendo o violando las prohibiciones consignadas en la ley de la materia, y los decretos de veda del Ejecutivo Federal, causando daño a la riqueza forestal de esta Entidad Federativa.
+III.- Al que obtenga una autorización de explotación forestal valiéndose de actos simulados, proporcionando informes falsos a la autoridad respectiva u ocultando los verdaderos; así como al que traspase una autorización de explotación forestal o la ejecute, contraviniendo o violando las prohibiciones consignadas en la ley de la materia, y los decretos de veda del Ejecutivo Federal, causando daño a la riqueza forestal de esta Entidad Federativa;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2010)</small>
+
+IV.- Al que, dolosamente, derribe, tale u ocasione la muerte de uno o más árboles que se encuentren en banquetas, parques, jardines, plazas o áreas verdes de uso común, propiedad del Estado o los Municipios; y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2010)</small>
+
+V.- La penalidad se aumentará hasta una mitad más de lo contemplado para este delito, cuando se derriben, talen o se ocasione la muerte de uno o más árboles, con la finalidad de realizar asentamientos humanos dentro de zonas que tengan la calidad de protegidas o de reservas ecológicas reconocidas por los Municipios y/o el Estado.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2010)</small>
+
+Con independencia de las sanciones que cada Reglamento o Ley especial interponga para este caso.
 
 ###### ARTICULO 346.
 
@@ -3466,6 +3550,8 @@ Al que a sabiendas comercie o emplee para fines industriales productos forestale
 > <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2007)</small>
 
 ARTICULO 349 BIS.- Al que extraiga, corte, utilice, destruya, comercialice, transporte o almacene alguna de las especies de maguey pulquero, sus derivados y/o subproductos, sin la autorización requerida por la Norma Técnica Estatal NTE-SAGEH-001/2006, se le aplicará una sanción de 1 a 3 años de prisión y multa de cincuenta a cien días de salarios mínimos vigentes en el Estado de Hidalgo.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 350.
 
@@ -3850,3 +3936,7 @@ P.O. 15 DE NOVIEMBRE DE 2010.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 31 DE DICIEMBRE DE 2010.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su Publicación en el Periódico Oficial del Estado de Hidalgo.
