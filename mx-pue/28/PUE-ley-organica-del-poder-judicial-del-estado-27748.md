@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-del-poder-judicial-del-estado-27748"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-12-30"
-last_updated: "2009-07-24"
+last_updated: "2010-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=27748&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE JULIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2010.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Puebla, el lunes 30 de diciembre de 2002.
 
@@ -2327,15 +2327,35 @@ Los Servidores Públicos del Poder Judicial del Estado tendrán derecho a que se
 
 En caso de remoción, se observará el procedimiento correspondiente.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 213.
 
-Los Magistrados, Jueces y Servidores Públicos del Poder Judicial del Estado, percibirán los sueldos que señale la partida respectiva del presupuesto de egresos del Estado. Los Jueces Municipales, de Paz, sus Secretarios y sus empleados serán pagados por el Ayuntamiento del Municipio en que presten sus servicios.
+Los Magistrados, Jueces y servidores públicos del Poder Judicial del Estado, percibirán los sueldos que señale la partida respectiva del presupuesto de egresos del Estado. Los Jueces Municipales, de Paz, sus Secretarios y sus empleados serán pagados por el Ayuntamiento del Municipio en que presten sus servicios.
 
-También tendrán derecho a percibir una gratificación de fin de año, la que nunca será menor del equivalente a cuarenta días de salario.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 214.
 
-Los Magistrados y los Jueces percibirán una remuneración adecuada e irrenunciable, la que no podrá ser disminuida durante su encargo.
+Los Magistrados, Jueces y demás servidores públicos del Poder Judicial del Estado, percibirán las remuneraciones que señale el tabulador que el Poder Judicial remita al Ejecutivo del Estado, para que se incluya en el Presupuesto que contenga la Ley de Egresos del Estado, para el ejercicio fiscal correspondiente.
+
+Los Magistrados, Jueces y demás servidores públicos del Poder Judicial, percibirán una remuneración equitativa, adecuada e irrenunciable, por el desempeño de su función, empleo, cargo o comisión, la cual deberá ser proporcional a sus responsabilidades, exceptuándose los que en términos de las disposiciones legales se declaren gratuitos.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2010)</small>
+
+ARTÍCULO 214 BIS.- Las remuneraciones de los Magistrados, Jueces y demás servidores públicos del Poder Judicial, se establecerán con base en lo dispuesto por la Constitución Política del Estado Libre y Soberano de Puebla, en los tabuladores desglosados que deberán incorporarse en el proyecto de presupuesto anual de egresos que elabore la Dirección de Presupuesto y Recursos Financieros y que el Poder Judicial remita al Ejecutivo del Estado, para su inclusión en el proyecto de iniciativa de Ley de Egresos del Estado, tomando en consideración lo siguiente:
+
+I.- Se considera remuneración o retribución toda percepción en efectivo o en especie, incluyendo dietas, aguinaldos, gratificaciones, premios, recompensas, bonos, estímulos comisiones, compensaciones y cualquier otra, con excepción de los apoyos y los gastos sujetos a comprobación que sean propios del desarrollo del trabajo y los gastos de viaje en actividades oficiales.
+
+II.- Ningún Magistrado, Juez y demás servidores públicos judiciales, podrá recibir remuneración, en términos de la fracción anterior, por el desempeño de su función, empleo, cargo o comisión, mayor a la establecida para el Gobernador del Estado en la Ley de Egresos correspondiente;
+
+III.- Ningún Magistrado, Juez y demás servidores públicos judiciales, podrá tener una remuneración igual o mayor que su superior jerárquico; salvo que el excedente sea consecuencia del desempeño de varios empleos públicos, en los casos previstos por la Constitución Política del Estado Libre y Soberano de Puebla, que su remuneración sea producto de las condiciones generales de trabajo, derivado de un trabajo técnico calificado o por especialización en su función, la suma de dicha remuneración no podrá exceder la mitad de la remuneración establecida para el Gobernador del Estado en la Ley de Egresos correspondiente;
+
+IV.- No se concederán ni cubrirán jubilaciones, pensiones o haberes de retiro, ni liquidaciones por servicios prestados, como tampoco préstamos o créditos, sin que éstas se encuentren asignadas por la legislación aplicable en la materia, Decreto Legislativo, Contrato Colectivo o Condiciones Generales de Trabajo. Estos conceptos no formarán parte de la remuneración.
+
+Quedan excluidos o condicionados los servicios de seguridad que requieran los servidores públicos por razón del cargo desempeñado; y
+
+V.- Las remuneraciones y sus tabuladores serán públicos y deberán especificar y diferenciar la totalidad de sus elementos fijos y variables tanto en efectivo como en especie.
 
 ###### ARTÍCULO 215.
 
@@ -2415,9 +2435,11 @@ El Pleno del Tribunal Superior de Justicia, de oficio, dictaminará sobre el ret
 
 Aprobado el retiro obligatorio o voluntario de los Magistrados, el Gobernador del Estado enviará al Congreso Local la terna correspondiente para integrar el Tribunal Superior de Justicia, en los términos que establece la Constitución Política Local.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 229.
 
-El Congreso del Estado, al aprobar anualmente el presupuesto de egresos, incluirá, en el ramo relativo al Poder Judicial del Estado, la partida correspondiente para el pago de las pensiones por retiro de los Magistrados a que se refiere esta Ley.
+El Congreso del Estado, al aprobar anualmente la Ley de Egresos, incluirá, en el ramo relativo al Poder Judicial del Estado, la partida correspondiente para el pago de salarios de los servidores judiciales, así como los tabuladores desglosados de dichas remuneraciones y las pensiones por retiro de los Magistrados a que se refiere esta Ley.
 
 ###### ARTÍCULO 230.
 
@@ -2572,3 +2594,11 @@ P.O. 24 DE JULIO DE 2009.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2010.
+
+PRIMERO.- El presente decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO.- Para efectos de la aplicación de las disposiciones contenidas en el presente Decreto, se deberán observar en lo conducente, lo previsto en los Artículos Transitorios del Decreto que reforma diversas disposiciones de la Constitución Política del Estado, publicado en el Periódico Oficial del Estado el 16 de junio de 2010.
+
+TERCERO.- Se derogan todas las disposiciones jurídicas y administrativas que contravengan o se opongan a las reformas materia del presente Decreto.
