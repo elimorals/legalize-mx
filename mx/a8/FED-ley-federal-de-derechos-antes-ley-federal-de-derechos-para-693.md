@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-derechos-antes-ley-federal-de-derechos-para-693"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1981-12-31"
-last_updated: "2010-11-18"
+last_updated: "2010-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=693&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1981-12-30"
 
 LEY FEDERAL DE DERECHOS
 
-ULTIMA ACTUALIZACION POR MISCELANEA FISCAL: 15 DE JUNIO DE 2010.
+ULTIMA ACTUALIZACION POR MISCELANEA FISCAL: 31 DE DICIEMBRE DE 2010.
 
 ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE NOVIEMBRE DE 2010.
 
@@ -213,7 +213,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO PRIMER PARRAFO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO PRIMER PARRAFO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I.- Expedición de copias
 
@@ -221,13 +221,13 @@ Certificadas de documentos,
 
 por cada hoja tamaño carta
 
-u oficio $13.69 $14.00
+u oficio $13.69 $14
 
 > <small>(ADICIONADO, D.O.F. 1 DE ENERO DE 2002)</small>
 
 Asimismo se pagará el derecho que se estipula en esta fracción, por la expedición de copias certificadas que sean solicitadas al Tribunal Federal de Justicia Fiscal y Administrativa.
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 > <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
@@ -235,27 +235,27 @@ II.- Reposición de constancias
 
 O duplicados de las mismas,
 
-Así como de calcomanías $116.10 $116.00
+Así como de calcomanías $116.10 $116
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 III.- Compulsa de documentos,
 
-por hoja $8.04 $8.00
+por hoja $8.04 $8
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 > <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
 IV.- Copias de planos certificados,
 
-por cada una $83.78 $84.00
+por cada una $83.78 $84
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-V.- Legalización de firmas $377.82 $378.00
+V.- Legalización de firmas $377.82 $378
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 > <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
@@ -267,7 +267,7 @@ constancias distintas de la (sic)
 
 señaladas en las fracciones
 
-que anteceden $116.10 $116.00
+que anteceden $116.10 $116
 
 > <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
@@ -349,85 +349,85 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-I.- Turista $261.89 $262.00
+I.- Turista $261.89 $262
 
 > <small>(REFORMADA, 30 DE DICIEMBRE DE 1983)</small>
 
 II.- Visitante, con entradas y salidas múltiples:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 a).- Para dedicarse a actividades
 
-no lucrativas $1,294.32 $1,294.00
+no lucrativas $1,294.32 $1,294
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 b).- Para dedicarse a
 
 actividades no lucrativas,
 
-por cada prórroga $1,294.32 $1,294.00
+por cada prórroga $1,294.32 $1,294
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 c).- Para dedicarse a
 
-actividades lucrativas $2,101.52 $2,102.00
+actividades lucrativas $2,101.52 $2,102
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 d).- Para dedicarse a
 
 actividades lucrativas,
 
-por cada prórroga $2,101.52 $2,102.00
+por cada prórroga $2,101.52 $2,102
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+(ACTUALIZADA EN SU CANTIDAD [N. DE E. REFORMADA], D.O.F. 31 DE DICIEMBRE DE 2010)
 
-> <small>(REFORMADA, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
+III.- Visitante Persona de
 
-III. Visitante Persona de Negocios o Visitante Consejero.....$261.89
+Negocios o Visitante Consejero $261.89 $262
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 IV.- Asilado político, por la
 
-revalidación anual $1,294.32 $1,294.00
+revalidación anual $1,294.32 $1,294
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 V.- (DEROGADA, D.O.F. 27 DE NOVIEMBRE DE 2009)
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-VI.- Visitante provisional $420.02 $420.00
+VI.- Visitante provisional $420.02 $420
 
 > <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 VII.- Ministro de culto o asociado religioso:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 a).- Por el otorgamiento
 
-de la característica $248.80 $249.00
+de la característica $248.80 $249
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-b).- Por cada prórroga $248.80 $249.00
+b).- Por cada prórroga $248.80 $249
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-VIII.- Transmigrante $261.89 $262.00
+VIII.- Transmigrante $261.89 $262
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
 Por el cambio de característica migratoria dentro de la calidad de no inmigrante, se pagarán los derechos que correspondan al otorgamiento de la nueva característica a adquirir.
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 Por la recepción, examen y
 
@@ -437,7 +437,7 @@ cambio de turista a cualquier
 
 otra característica migratoria de
 
-la calidad de no inmigrante $490.53 $491.00
+la calidad de no inmigrante $490.53 $491
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -457,7 +457,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I.- Autorización como
 
@@ -475,11 +475,11 @@ técnico, artista, deportista,
 
 asimilado y familiares del
 
-solicitante $2,799.71 $2,800.00
+solicitante $2,799.71 $2,800
 
 II.- (DEROGADA, D.O.F. 20 DE DICIEMBRE DE 1991)
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 III.- Por el refrendo de
 
@@ -493,7 +493,7 @@ artículo, se pagarán
 
 derechos conforme a la
 
-cuota de $2,800.85 $2,801.00
+cuota de $2,800.85 $2,801
 
 Por el cambio de característica migratoria dentro de la calidad inmigrante, se pagarán los derechos que correspondan a la nueva característica a adquirir.
 
@@ -509,21 +509,21 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I.- Por la expedición de la
 
-declaratoria de inmigrado $3,414.33 $3,414.00
+declaratoria de inmigrado $3,414.33 $3,414
 
 II.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1999)
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 III.- Por la recepción, examen
 
 y estudio de la solicitud de
 
-cambio de calidad a inmigrado $891.98 $892.00
+cambio de calidad a inmigrado $891.98 $892
 
 ###### ARTICULO 11.
 
@@ -565,7 +565,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO PRIMER PARRAFO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO PRIMER PARRAFO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 > <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
@@ -581,7 +581,7 @@ internacionales que abandonen el
 
 territorio nacional, se cobrará la
 
-cuota de $52.44 $52.00
+cuota de $52.44 $52
 
 El derecho de servicios migratorios a que se refiere el presente artículo se pagará a la salida de pasajeros de vuelos internacionales.
 
@@ -595,13 +595,13 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I.- Permiso para contraer
 
-matrimonio con nacional $2,657.76 $2,658.00
+matrimonio con nacional $2,657.76 $2,658
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II.- Certificado para
 
@@ -613,41 +613,41 @@ propósitos de divorcio o de
 
 nulidad de matrimonio con
 
-nacional mexicano $5,252.90 $5,253.00
+nacional mexicano $5,252.90 $5,253
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 III.- Permiso para realizar
 
-trámites de adopción $2,042.20 $2,042.00
+trámites de adopción $2,042.20 $2,042
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 IV.- Permiso para ampliación
 
 o cambio de actividad o de
 
-empleador $2,042.16 $2,042.00
+empleador $2,042.16 $2,042
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 V.- Certificados de legal
 
-internación y legal estancia $287.47 $287.00
+internación y legal estancia $287.47 $287
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 VI.- Permiso de salida y regreso
 
-al país $287.47 $287.00
+al país $287.47 $287
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 VII.- Por cada inscripción
 
 en el Registro Nacional
 
-de Extranjeros $668.96 $669.00
+de Extranjeros $668.96 $669
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
@@ -663,13 +663,13 @@ ajuste ajuste
 
 I.- (DEROGADA, D.O.F. 27 DE NOVIEMBRE DE 2009)
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-II.- De inmigrante $840.32 $840.00
+II.- De inmigrante $840.32 $840
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-III.- De inmigrado $1,260.76 $1,261.00
+III.- De inmigrado $1,260.76 $1,261
 
 IV.- (DEROGADA, D.O.F. 20 DE DICIEMBRE DE 1991)
 
@@ -687,7 +687,7 @@ ajuste ajuste
 
 I.- En puertos marítimos:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -699,7 +699,7 @@ en embarcaciones cargueras, al
 
 desembarque y despacho,
 
-respectivamente $4,464.95 $4,465.00
+respectivamente $4,464.95 $4,465
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -707,21 +707,21 @@ respectivamente $4,464.95 $4,465.00
 
 b).- Por cada revisión de la documentación de la tripulación de las embarcaciones turísticas comerciales, al desembarque y despacho, respectivamente, de acuerdo al número de personas a bordo:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-1. De 1 a 500 personas $2,899.06 $2,899.00
+1. De 1 a 500 personas $2,899.06 $2,899
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-2. De 501 a 1000 personas $3,764.32 $3,764.00
+2. De 501 a 1000 personas $3,764.32 $3,764
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-3. De 1001 a 1500 personas $4,482.43 $4,482.00
+3. De 1001 a 1500 personas $4,482.43 $4,482
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-4. De 1501 personas, en adelante $5,097.91 $5,098.00
+4. De 1501 personas, en adelante $5,097.91 $5,098
 
 > <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 1992)</small>
 
@@ -731,7 +731,7 @@ Cuando el servicio migratorio extraordinario en puertos marítimos se preste a e
 
 No se pagarán los derechos por servicios migratorios extraordinarios, cuando por causas no imputables al contribuyente, los servicios migratorios se tengan que proporcionar en días y horas inhábiles o en lugares distintos a las oficinas migratorias.
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II.- En aeropuertos
 
@@ -743,7 +743,7 @@ de pasajeros en vuelos de
 
 fletamento, al ingreso y a la
 
-salida del país $1,409.21 $1,409.00
+salida del país $1,409.21 $1,409
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -821,33 +821,33 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-I.- Certificado de licitud de título $2,177.70 $2,178.000
+I.- Certificado de licitud de título $2,177.70 $2,178
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II.- Certificado de licitud de
 
-contenido $2,722.22 $2,722.00
+contenido $2,722.22 $2,722
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 III.- Duplicado de certificado de
 
-licitud de título $1,088.70 $1,089.00
+licitud de título $1,088.70 $1,089
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 IV.- Duplicado de licitud de
 
-contenido $1,360.88 $1,361.00
+contenido $1,360.88 $1,361
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 V.- Registro de cambio de
 
-editor responsable $1,939.47 $1,939.00
+editor responsable $1,939.47 $1,939
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -867,7 +867,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO PRIMER PARRAFO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO PRIMER PARRAFO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 19-A.
 
@@ -881,7 +881,7 @@ pagará el derecho de publicaciones
 
 por octavo de plana, conforme a la
 
-cuota de $1,372.95 $1,373.00
+cuota de $1,372.95 $1,373
 
 > <small>(ADICIONADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
 
@@ -915,15 +915,15 @@ ajuste ajuste
 
 I.- Por el trámite y estudio de la solicitud y, en su caso, y (sic) clasificación de películas destinadas a exhibición pública en cualquier local o para su comercialización, incluidas la renta o venta:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 a).- De 35 milímetros o más,
 
 por rollo de 300 metros o
 
-fracción $313.12 $313.00
+fracción $313.12 $313
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 b).- De 16 milímetros, 8
 
@@ -931,9 +931,9 @@ milímetros, Super 8
 
 milímetros, por rollo de
 
-100 metros o fracción $157.77 $158.00
+100 metros o fracción $157.77 $158
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 c).- Videograma o material
 
@@ -941,7 +941,7 @@ grabado, en cualquier formato
 
 o modalidad, por cada media
 
-hora o fracción $784.23 $784.00
+hora o fracción $784.23 $784
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -951,21 +951,21 @@ No pagarán los derechos a que se refiere esta fracción, las instituciones púb
 
 El pago de los derechos previstos en esta fracción, incisos a), b) y c) se destinará en su totalidad al Fondo de Inversión y Estímulos al Cine, para el fomento y promoción de la industria cinematográfica nacional.
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II.- Expedición de certificados
 
 de origen de material filmado
 
-y grabado $934.60 $935.00
+y grabado $934.60 $935
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 III.- Por la autorización del
 
 doblaje de películas, para
 
-exhibición $959.21 $959.00
+exhibición $959.21 $959
 
 IV.- (DEROGADA, D.O.F. 1 DE DICIEMBRE DE 2004)
 
@@ -987,7 +987,7 @@ ajuste ajuste
 
 I.- Por el trámite y estudio y, en su caso, la autorización anual al concesionario o permisionario de un sistema de televisión abierta, por cable, de señal restringida terrestre o satelital, para transmisión o distribución en México, de programación originada, desarrollada o proveniente del extranjero:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -997,9 +997,9 @@ programación, en más del
 
 50% de su tiempo, esté en
 
-el supuesto de esta fracción $7,518.01 $7,518.00
+el supuesto de esta fracción $7,518.01 $7,518
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -1013,7 +1013,7 @@ de derechos de explotación
 
 comercial, que no corresponda
 
-al supuesto del inciso anterior $751.68 $752.00
+al supuesto del inciso anterior $751.68 $752
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -1021,7 +1021,7 @@ al supuesto del inciso anterior $751.68 $752.00
 
 II. Tratándose de programas de concurso:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 a). Por el trámite y estudio y, en
 
@@ -1029,21 +1029,21 @@ su caso, la autorización anual
 
 o modificación de las condiciones
 
-de programa de concurso $933.79 $934.00
+de programa de concurso $933.79 $934
 
 b). Por la supervisión de programa de concurso por cada hora o fracción, se pagarán las siguientes cuotas:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 1. Horario ordinario de servicio $750.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 2. Fuera de horario ordinario de servicio $1,050.00
 
 Para los efectos de este inciso, se entiende como horario ordinario de servicio el comprendido de las 9:00 a las 18:00 horas, de lunes a viernes.
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -1053,7 +1053,7 @@ en su caso, la autorización anual
 
 por transmisiones en idioma
 
-extranjero $933.79 $934.00
+extranjero $933.79 $934
 
 IV.- (DEROGADA, D.O.F. 21 DE DICIEMBRE DE 2005)
 
@@ -1063,11 +1063,11 @@ V.- (DEROGADA, D.O.F. 21 DE DICIEMBRE DE 2005)
 
 VI.- Por el trámite, estudio y, en su caso, clasificación y autorización de:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-a) Películas, por cada una $1,373.24 $1,373.00
+a) Películas, por cada una $1,373.24 $1,373
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 b) Telenovelas y teleteatros
 
@@ -1075,11 +1075,11 @@ grabados destinados a su
 
 exhibición en televisión, por
 
-capítulo $830.84 $831.00
+capítulo $830.84 $831
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-c) Series filmadas, por capítulo $612.50 $612.00
+c) Series filmadas, por capítulo $612.50 $612
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -1091,15 +1091,15 @@ VIII.- (DEROGADA, D.O.F. 21 DE DICIEMBRE DE 2005)
 
 IX.- Cuando los servicios a que se refiere la fracción VI de este artículo, se presten fuera del horario ordinario o de las instalaciones de la Dirección General de Radio, Televisión y Cinematografía, se pagarán adicionalmente, por hora de servicio, las siguientes cuotas:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-a).- Por la primera hora $238.61 $239.00
+a).- Por la primera hora $238.61 $239
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 b).- Por cada hora o fracción
 
-adicional $119.28 $119.00
+adicional $119.28 $119
 
 Para efectos de esta fracción se entiende como horario ordinario el de 9:00 a 18:00 horas.
 
@@ -1113,7 +1113,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I.- Por el trámite y estudio y, en
 
@@ -1125,7 +1125,7 @@ en México, de programación
 
 originada, desarrollada o
 
-proveniente del extranjero $410.51 $411.00
+proveniente del extranjero $410.51 $411
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -1133,7 +1133,7 @@ proveniente del extranjero $410.51 $411.00
 
 II. Tratándose de programas de concurso:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 a). Por el trámite y estudio y, en
 
@@ -1141,21 +1141,21 @@ su caso, la autorización anual
 
 o modificación de las condiciones
 
-de programa de concurso $933.79 $934.00
+de programa de concurso $933.79 $934
 
 b). Por la supervisión de programa de concurso por cada hora o fracción, se pagarán las siguientes cuotas:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 1. Horario ordinario de servicio $750.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 2. Fuera de horario ordinario de servicio $1,050.00
 
 Para los efectos de este inciso, se entiende como horario ordinario de servicio el comprendido de las 9:00 a las 18:00 horas, de lunes a viernes.
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 III.- Por el trámite y estudio y, en
 
@@ -1163,7 +1163,7 @@ su caso, la autorización anual
 
 por transmisiones en idioma
 
-extranjero $933.79 $934.00
+extranjero $933.79 $934
 
 IV.- (DEROGADA, D.O.F. 21 DE DICIEMBRE DE 2005)
 
@@ -1175,7 +1175,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO PRIMER PARRAFO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO PRIMER PARRAFO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 19-G.
 
@@ -1185,7 +1185,7 @@ apostillamiento de documentos
 
 públicos federales, por cada
 
-documento $551.19 $551.00
+documento $551.19 $551
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -1211,23 +1211,23 @@ ajuste ajuste
 
 I.- (DEROGADA, D.O.F. 18 DE NOVIEMBRE DE 2010)
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II.- Por el estudio y trámite de
 
 la solicitud de concesión en
 
-territorio insular $1,272.80 $1,273.00
+territorio insular $1,272.80 $1,273
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 III.- (DEROGADA, D.O.F. 18 DE NOVIEMBRE DE 2010)
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 IV.- Por la expedición de la
 
-concesión en territorio insular $2,545.79 $2,546.00
+concesión en territorio insular $2,545.79 $2,546
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -1267,7 +1267,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 > <small>(ADICIONADA, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
@@ -1277,9 +1277,9 @@ documentos de identidad y
 
 viaje con validez hasta por un
 
-año $408.99 $410.00
+año $408.99 $410
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 > <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
@@ -1289,9 +1289,9 @@ documentos de identidad y
 
 viaje con validez mayor a un
 
-año y hasta por tres años $849.84 $850.00
+año y hasta por tres años $849.84 $850
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 > <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
@@ -1301,33 +1301,33 @@ documentos de identidad y
 
 viaje con validez mayor a
 
-tres años y hasta por seis años $1,168.53 $1,170.00
+tres años y hasta por seis años $1,168.53 $1,170
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 IV.- Pasaportes ordinarios
 
 con validez hasta por diez
 
-años $1,796.97 $1,795.00
+años $1,796.97 $1,795
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 V.- Pasaportes oficiales con
 
-validez hasta por un año $338.52 $340.00
+validez hasta por un año $338.52 $340
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 VI.- Pasaportes oficiales con
 
-validez hasta por dos años $338.52 $340.00
+validez hasta por dos años $338.52 $340
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 VII.- Por el refrendo de
 
-pasaportes oficiales $203.03 $205.00
+pasaportes oficiales $203.03 $205
 
 > <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
@@ -1363,37 +1363,37 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-I.- Actuaciones matrimoniales $563.51 $565.00
+I.- Actuaciones matrimoniales $563.51 $565
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II.- Legalización de firmas o
 
-Sellos $478.46 $480.00
+Sellos $478.46 $480
 
 > <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 III.- Visas de:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 a).- Certificados de análisis, de
 
 libre venta, de origen y médicos,
 
-por cada uno $574.14 $575.00
+por cada uno $574.14 $575
 
 b).- (DEROGADO, D.O.F. 29 DE DICIEMBRE DE 1997)
 
 c).- (DEROGADO, D.O.F. 29 DE DICIEMBRE DE 1997)
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 d).- Ordinarias en pasaportes
 
-extranjeros $478.46 $480.00
+extranjeros $478.46 $480
 
 e).- (DEROGADO, D.O.F. 1 DE DICIEMBRE DE 2004)
 
@@ -1405,7 +1405,7 @@ Los derechos por la expedición de las visas ordinarias en pasaportes extranjero
 
 IV.- Expedición de certificados de:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 a).- Constitución de sociedades
 
@@ -1419,43 +1419,43 @@ de pasavantes o patentes
 
 provisionales de navegación, por
 
-cada uno $2,403.08 $2,405.00
+cada uno $2,403.08 $2,405
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 b).- Matrícula consular a
 
-mexicanos, por cada una $361.56 $360.00
+mexicanos, por cada una $361.56 $360
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 c).- Importación de psicotrópicos
 
-y estupefacientes $819.17 $820.00
+y estupefacientes $819.17 $820
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 d).- Copia certificada de actas del
 
-registro civil, por cada una $170.07 $170.00
+registro civil, por cada una $170.07 $170
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 e).- De los que se expiden a
 
-petición de parte, por cada uno $818.69 $820.00
+petición de parte, por cada uno $818.69 $820
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 f).- Lista de menaje de casa
 
-a mexicanos $1,252.75 $1,255.00
+a mexicanos $1,252.75 $1,255
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 g).- Lista de menaje de casa a
 
-extranjeros $1,678.23 $1,680.00
+extranjeros $1,678.23 $1,680
 
 > <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -1481,55 +1481,55 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I.- Por la renuncia de derechos
 
-Hereditarios $1,520.52 $1,520.00
+Hereditarios $1,520.52 $1,520
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 18 DE DICIEMBRE DE 1992)</small>
 
 II.- Por los mandatos o poderes, así como la revocación de los mismos:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 a).- Generales o especiales
 
-otorgados por personas físicas $1,520.52 $1,520.00
+otorgados por personas físicas $1,520.52 $1,520
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 b).- Generales o especiales
 
-otorgados por personas morales $2,286.11 $2,285.00
+otorgados por personas morales $2,286.11 $2,285
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 III.- Por cada testamento
 
-público abierto $3,891.75 $3,890.00
+público abierto $3,891.75 $3,890
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 IV.- Por la expedición de
 
 subsecuentes testimonios,
 
-por hoja $95.65 $95.00
+por hoja $95.65 $95
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 V.- Por la recepción de cada
 
-testamento ológrafo $1,945.83 $1,945.00
+testamento ológrafo $1,945.83 $1,945
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 VI.- Por cada testamento
 
-público cerrado $531.64 $530.00
+público cerrado $531.64 $530
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 VII.- Por las autorizaciones
 
@@ -1539,15 +1539,15 @@ que ejerzan la patria potestad
 
 o la tutela sobre menores o
 
-incapaces $584.78 $585.00
+incapaces $584.78 $585
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 VIII.- Por otras certificaciones
 
 distintas a las señaladas en el
 
-artículo 22 de esta Ley $150.60 $150.00
+artículo 22 de esta Ley $150.60 $150
 
 Siempre que una escritura notarial contenga diversos contratos o actos, los derechos se fiarán por cada uno de los contratos o actos principales y en un 50% por los accesorios y complementarios.
 
@@ -1653,7 +1653,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2009) (ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2009) (ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I.- Por la recepción, examen y
 
@@ -1663,9 +1663,9 @@ de uso de denominación en la
 
 constitución de sociedades
 
-y asociaciones $965.00 $965.00
+y asociaciones $965.00 $965
 
-(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2009) (ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2009) (ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II.- Por la recepción, examen y
 
@@ -1675,9 +1675,9 @@ de permiso de cambio de
 
 denominación o razón
 
-social $885.00 $885.00
+social $885.00 $885
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 > <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -1685,13 +1685,13 @@ III.- Por el examen de cada solicitud
 
 de permiso a que se refieren las
 
-fracciones IV, V, y VII $287.96 $290.00
+fracciones IV, V, y VII $287.96 $290
 
 IV.- Para la celebración de contratos u obtención de concesiones:
 
 a).- (DEROGADO, D.O.F. 29 DE DICIEMBRE DE 1997)
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 b).- Obtención de concesiones
 
@@ -1699,7 +1699,7 @@ del Gobierno Federal o de los
 
 gobiernos de las Entidades
 
-Federativas o de los Municipios $5,074.56 $5,075.00
+Federativas o de los Municipios $5,074.56 $5,075
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -1707,7 +1707,7 @@ Federativas o de los Municipios $5,074.56 $5,075.00
 
 V.- Por la expedición de permisos para la constitución de fideicomisos:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 a).- Por los permisos para
 
@@ -1715,9 +1715,9 @@ constituir fideicomisos a que
 
 se refiere el artículo 11 de la
 
-Ley de Inversión Extranjera $10,454.26 $10,455.00
+Ley de Inversión Extranjera $10,454.26 $10,455
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 b).- Para la modificación de
 
@@ -1725,9 +1725,9 @@ los permisos para la constitución
 
 de los fideicomisos a que se
 
-refiere el inciso anterior $4,703.61 $4,705.00
+refiere el inciso anterior $4,703.61 $4,705
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 c).- Por la solicitud extemporánea
 
@@ -1739,17 +1739,17 @@ de fideicomiso, de conformidad
 
 con lo dispuesto en la Ley de
 
-Inversión Extranjera $5,125.41 $5,125.00
+Inversión Extranjera $5,125.41 $5,125
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 d).- Para los demás casos no
 
 señalados en los incisos
 
-anteriores $345.41 $345.00
+anteriores $345.41 $345
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 VI.- Por la recepción y estudio
 
@@ -1765,9 +1765,9 @@ concesiones para la exploración
 
 y explotación de minas o aguas
 
-en el territorio nacional $5,074.56 $5,075.00
+en el territorio nacional $5,074.56 $5,075
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 VII.- A cada extranjero para
 
@@ -1777,7 +1777,7 @@ fuera de la zona restringida
 
 el dominio de tierras, aguas
 
-y sus accesiones $5,074.56 $5,075.00
+y sus accesiones $5,074.56 $5,075
 
 VIII.- (DEROGADA, D.O.F. 29 DE DICIEMBRE DE 1997)
 
@@ -1785,7 +1785,7 @@ VIII.- (DEROGADA, D.O.F. 29 DE DICIEMBRE DE 1997)
 
 IX.- (DEROGADA, D.O.F. 27 DE NOVIEMBRE DE 2009)
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 X.- Por la presentación de
 
@@ -1801,13 +1801,13 @@ extranjeros en zona
 
 restringida, destinados a
 
-fines no residenciales $711.63 $710.00
+fines no residenciales $711.63 $710
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 XI.- Por la presentación extemporánea de los siguientes avisos:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 a).- De uso del permiso para
 
@@ -1817,23 +1817,23 @@ o asociaciones y de cambio
 
 de denominación o razón
 
-social $1,410.44 $1,410.00
+social $1,410.44 $1,410
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 b).- De liquidación, fusión o
 
-escisión de sociedades $1,410.44 $1,410.00
+escisión de sociedades $1,410.44 $1,410
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 c).- De modificación de la
 
 cláusula de exclusión por la
 
-de admisión de extranjeros $1,410.44 $1,410.00
+de admisión de extranjeros $1,410.44 $1,410
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 d).- De aviso de adquisición de
 
@@ -1845,17 +1845,17 @@ admisión de extranjeros en zona
 
 restringida, destinados a fines no
 
-residenciales. $5,470.82 $5,470.00
+residenciales. $5,470.82 $5,470
 
 XII.- (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 1996)
 
 XIII.- (DEROGADA, D.O.F. 29 DE DICIEMBRE DE 1997)
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 XIV.- Los no especificados
 
-en las fracciones anteriores $345.41 $345.00
+en las fracciones anteriores $345.41 $345
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
 
@@ -1871,9 +1871,9 @@ ajuste ajuste
 
 I.- Por los documentos expedidos con fundamento en el artículo 30, Apartado A, 32 y 37, Apartado A, de la Constitución Política de los Estados Unidos Mexicanos:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-a).- Por expedición $200.64 $200.00
+a).- Por expedición $200.64 $200
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -1883,13 +1883,13 @@ b).- (DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2010)
 
 II.- En las cartas de naturalización a las que se refiere la fracción I del Apartado B del citado precepto constitucional:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 a). Por la recepción, estudio y, en
 
 su caso, expedición de la carta de
 
-naturalización $3,538.32 $3,540.00
+naturalización $3,538.32 $3,540
 
 b). (DEROGADO, D.O.F. 27 DE DICIEMBRE DE 2006)
 
@@ -1901,13 +1901,13 @@ c). (DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2010)
 
 III. En las cartas de naturalización a que se refiere la fracción II del Apartado B del artículo 30 de la Constitución Política de los Estados Unidos Mexicanos y el artículo 20, fracciones II y III de la Ley de Nacionalidad:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 a). Por la recepción, estudio y,
 
 en su caso, expedición de cada
 
-carta de naturalización $1,247.52 $1,250.00
+carta de naturalización $1,247.52 $1,250
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -1955,7 +1955,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I. Por el estudio y trámite de la
 
@@ -1975,9 +1975,9 @@ inversión y sociedades
 
 valuadoras de acciones de
 
-sociedades de inversión: $21,493.94 $21,494.00
+sociedades de inversión: $21,493.94 $21,494
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II. Por la autorización para la
 
@@ -1995,9 +1995,9 @@ inversión y sociedades
 
 valuadoras de acciones de
 
-sociedades de inversión: $221,052.94 $221,053.00
+sociedades de inversión: $221,052.94 $221,053
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 III. Por la autorización para la
 
@@ -2011,9 +2011,9 @@ de inversión de capitales o de
 
 sociedades de inversión de
 
-objeto limitado: $193,516.51 $193,517.00
+objeto limitado: $193,516.51 $193,517
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 IV. Por el estudio y trámite de
 
@@ -2023,9 +2023,9 @@ sociedades inmobiliarias y
 
 empresas de servicios auxiliares
 
-o complementarios: $21,493.94 $21,494.00
+o complementarios: $21,493.94 $21,494
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 V. Por el estudio y trámite de
 
@@ -2035,17 +2035,17 @@ la constitución y operación de
 
 una institución calificadora de
 
-valores: $19,032.98 $19,033.00
+valores: $19,032.98 $19,033
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 VI. Por la autorización de una
 
 institución calificadora de
 
-valores: $221,052.94 $221,053.00
+valores: $221,052.94 $221,053
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 VII. Por el estudio y trámite de
 
@@ -2059,9 +2059,9 @@ renta variable, en instrumentos
 
 de deuda, de capitales y de objeto
 
-limitado: $17,738.92 $17,739.00
+limitado: $17,738.92 $17,739
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 VIII. Por el estudio y trámite de
 
@@ -2069,41 +2069,71 @@ la solicitud de autorización para
 
 la constitución y operación de
 
-uniones de crédito: $19,032.96 $19,033.00
+uniones de crédito: $19,032.96 $19,033
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 IX. Por la autorización para la
 
 constitución y operación de
 
-uniones de crédito: $195,742.51 $195,743.00
+uniones de crédito: $195,742.51 $195,743
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 X. Por cualquier certificación que
 
 se expida relativa al Registro
 
-Nacional de Valores: $370.23 $370.00
+Nacional de Valores: $370.23 $370
+
+(ACTUALIZADA EN SU CANTIDAD [N. DE E. REFORMADA], D.O.F. 31 DE DICIEMBRE DE 2010)
+
+XI. Por el estudio y trámite de
+
+la solicitud y, en su caso,
+
+autorización para la
+
+constitución y operación de
+
+las Federaciones a que se
+
+refiere la Ley de Ahorro y
+
+Crédito Popular $29,565.12 $29,565
+
+(ACTUALIZADO PRIMER PARRAFO EN SU CANTIDAD [N. DE E. REFORMADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+
+XII. Por el estudio y trámite
+
+de la solicitud y, en su caso,
+
+autorización para la constitución
+
+y operación de sociedades
+
+financieras populares,
+
+sociedades financieras
+
+comunitarias con niveles de
+
+operación I a IV y Organismos
+
+de Integración Financiera Rural
+
+a que se refiere la Ley de
+
+Ahorro y Crédito Popular $17,739.07 $17,739
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMERO PARRAFO, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
-
-XI. Por el estudio y trámite de la solicitud y, en su caso, autorización para la constitución
-
-y operación de las Federaciones a que se refiere la Ley de Ahorro y Crédito Popular.....$29,565.12
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADA, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
-
-XII. Por el estudio y trámite de la solicitud y, en su caso, autorización para la constitución y operación de sociedades financieras populares, sociedades financieras comunitarias con niveles de operación I a IV y Organismos de Integración Financiera Rural a que se refiere la Ley de Ahorro y Crédito Popular..... $17,739.07
+> <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
 
 El derecho a que se refiere esta fracción se pagará también por el estudio y trámite de la solicitud y, en su caso, autorización para realizar operaciones de ahorro y préstamo, de sociedades cooperativas de ahorro y préstamo a que se refiere la Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo.
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 XIII. Por el estudio y trámite de
 
@@ -2111,17 +2141,17 @@ la solicitud de autorización para
 
 la constitución y operación de
 
-casas de bolsa: $19,032.96 $19,033.00
+casas de bolsa: $19,032.96 $19,033
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD [N. DE E. REFORMADA], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 XIV. Por la autorización para
 
 la constitución y operación de
 
-casas de bolsa: $276,000.00 $276,000.00
+casas de bolsa: $276,000.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 XV. Por el estudio y trámite de la
 
@@ -2133,9 +2163,9 @@ sociedades que administran
 
 sistemas para facilitar operaciones
 
-con valores: $19,032.96 $19,033.00
+con valores: $19,032.96 $19,033
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 XVI. Por la autorización para la
 
@@ -2145,9 +2175,9 @@ sociedades que administran
 
 sistemas para facilitar operaciones
 
-con valores: $195,742.51 $195,743.00
+con valores: $195,742.51 $195,743
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 XVII. Por el estudio y trámite de la
 
@@ -2155,17 +2185,17 @@ solicitud de autorización para la
 
 constitución y operación de
 
-proveedores de precios: $19,032.96 $19,033.00
+proveedores de precios: $19,032.96 $19,033
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 XVIII. Por la autorización para la
 
 constitución y operación de
 
-proveedores de precios: $195,742.51 $195,743.00
+proveedores de precios: $195,742.51 $195,743
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD [N. DE E. REFORMADA], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 XIX. Por el estudio y trámite de la
 
@@ -2173,9 +2203,9 @@ solicitud para obtener el
 
 reconocimiento como organismo
 
-autorregulatorio: $27,600.00 $27,600.00
+autorregulatorio: $27,600.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD [N. DE E. REFORMADA], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 XX. Por el estudio y trámite de
 
@@ -2185,9 +2215,9 @@ el establecimiento de oficinas de
 
 representación de entidades
 
-financieras del exterior: $16,560.00 $16,560.00
+financieras del exterior: $16,560.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 XXI. Por la autorización para la
 
@@ -2197,25 +2227,25 @@ sociedades de inversión de renta
 
 variable, en instrumentos de deuda,
 
-de capitales y de objeto limitado: $34,138.07 $34,138.00
+de capitales y de objeto limitado: $34,138.07 $34,138
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD [N. DE E. REFORMADA], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 XXII. Por la autorización para el
 
 inicio de operaciones de casas de
 
-bolsa: $849,840.00 $849,840.00
+bolsa: $849,840.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 XXIII. Por el estudio y trámite de la solicitud de autorización para la constitución y operación de instituciones de banca múltiple: $34,000.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 XXIV. Por la autorización para la constitución y operación de instituciones de banca múltiple: $500,000.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 XXV. Por la autorización para el inicio de operaciones de instituciones de banca múltiple: $1,600,000.00
 
@@ -2229,19 +2259,19 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO PRIMER PARRAFO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO PRIMER PARRAFO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I. Solicitud de inscripción o
 
 actualización de la misma y/o
 
-autorización de oferta pública: $15,707.89 $15,708.00
+autorización de oferta pública: $15,707.89 $15,708
 
 > <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
 No se pagarán los derechos a que se refiere esta fracción, cuando en términos del primer párrafo del artículo 93 de la Ley del Mercado de Valores, se solicite la inscripción genérica de instrumentos de deuda en el Registro Nacional de Valores.
 
-(ACTUALIZADO PRIMER PARRAFO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO PRIMER PARRAFO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II. Solicitud de autorización de
 
@@ -2251,7 +2281,7 @@ de promoción, comercialización o
 
 publicidad sobre valores, dirigida
 
-al público en general: $15,707.89 $15,708.00
+al público en general: $15,707.89 $15,708
 
 > <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
@@ -2277,13 +2307,13 @@ a). Tratándose de acciones:
 
 1. Emitidas por Sociedades Anónimas Bursátiles:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 0.7 al millar del capital contable de la emisora sin que los derechos a pagar por este concepto excedan de: $2,500,000.00
 
 2. Emitidas por Sociedades Anónimas Promotoras de Inversión Bursátil:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 0.35 al millar del capital contable de la emisora sin que los derechos a pagar por este concepto excedan de: $1,250,000.00
 
@@ -2291,7 +2321,7 @@ a). Tratándose de acciones:
 
 3. Emitidas por sociedades controladoras de grupos financieros, instituciones de crédito, casas de bolsa, casas de cambio, almacenes generales de depósito, arrendadoras financieras, empresas de factoraje financiero, sociedades financieras de objeto limitado, sociedades financieras de objeto múltiple y demás entidades financieras autorizadas:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 0.7 al millar del capital contable de la emisora sin que los derechos a pagar por este concepto excedan de: $2,500,000.00
 
@@ -2301,7 +2331,7 @@ b). Tratándose de títulos de crédito o valores inscritos que otorguen a sus t
 
 1. Con vigencia mayor a un año:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 0.7 al millar sobre el monto emitido sin que los derechos a pagar por este concepto excedan de: $2,500,000.00
 
@@ -2309,7 +2339,7 @@ b). Tratándose de títulos de crédito o valores inscritos que otorguen a sus t
 
 2.- Con vigencia igual o menor a un año, distintos a los señalados en el numeral 3 de este inciso:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 0.5 al millar del monto emitido sin que los derechos a pagar en el primer año contado a partir de la obtención de la autorización por programa excedan de: $700,000.00
 
@@ -2317,7 +2347,7 @@ b). Tratándose de títulos de crédito o valores inscritos que otorguen a sus t
 
 3.- En el caso de títulos suscritos o emitidos por instituciones de crédito representativos de un pasivo a su cargo, por tipo de valor, con vigencia igual o menor a un año:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 0.27 al millar del monto emitido por tipo de valor y en proporción a su plazo sin que los derechos a pagar por este concepto en un ejercicio excedan de: $700,000.00
 
@@ -2333,7 +2363,7 @@ c). Tratándose de acciones de sociedades de inversión:
 
 d). Tratándose de títulos opcionales emitidos por sociedades anónimas incluyendo casas de bolsa, instituciones de crédito y filiales de entidades financieras del exterior del mismo tipo:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 0.5 al millar respecto al monto total de las primas de emisión sin que los derechos a pagar excedan de: $2,500,000.00
 
@@ -2341,7 +2371,7 @@ d). Tratándose de títulos opcionales emitidos por sociedades anónimas incluye
 
 e). Tratándose de valores con plazo mayor a un año emitidos por entidades paraestatales de la Administración Pública Federal y/o valores fiduciarios en los que dichas entidades actúen exclusivamente en su carácter de fideicomitentes o fideicomisarios:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 0.7 al millar sobre el monto emitido sin que los derechos a pagar por este concepto excedan de: $2,500,000.00
 
@@ -2349,7 +2379,7 @@ e). Tratándose de valores con plazo mayor a un año emitidos por entidades para
 
 f). Tratándose de valores emitidos por las entidades federativas y municipios, así como por los organismos descentralizados de las entidades federativas o municipios o valores fiduciarios en los que dichas personas morales actúen exclusivamente en su carácter de fideicomitentes o fideicomisarios:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 0.7 al millar sobre el monto emitido sin que los derechos a pagar por este concepto excedan de: $2,500,000.00
 
@@ -2357,13 +2387,13 @@ f). Tratándose de valores emitidos por las entidades federativas y municipios, 
 
 g). Tratándose de certificados, pagarés y otros valores emitidos o garantizados por el Gobierno Federal, en términos del artículo 93 de la Ley del Mercado de Valores, por tipo de valor:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 28 DE DICIEMBRE DE 2009)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 0.27 al millar del monto emitido por tipo de valor y en proporción a su plazo sin que los derechos a pagar por este concepto en un ejercicio excedan de: $700,000.00
 
 h). Tratándose de bonos de regulación monetaria emitidos por el Banco de México:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 0.27 al millar del monto emitido por tipo de valor y en proporción a su plazo sin que los derechos a pagar por este concepto en un ejercicio excedan de: $700,000.00
 
@@ -2375,7 +2405,7 @@ i). Tratándose de emisores de valores que mantengan inscritos valores de los se
 
 1. Con vigencia mayor a un año:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 0.35 al millar sobre el monto emitido sin que los derechos a pagar por este concepto excedan de $2,500,000.00
 
@@ -2383,19 +2413,19 @@ i). Tratándose de emisores de valores que mantengan inscritos valores de los se
 
 2.- En el caso de programas de emisión o emisiones con vigencia igual o menor a un año, efectuadas o no al amparo de cada programa:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 0.27 al millar del monto emitido sin que los derechos a pagar por año excedan de: $700,000.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 j). Tratándose de emisoras de valores que al momento de obtener la autorización del programa de emisiones de corto plazo mantengan inscritos exclusivamente valores de los señalados en el inciso b), numeral 2, de esta fracción en sustitución de la cuota de inscripción o ampliación señalada en dicho inciso, por las emisiones con vigencia igual o menor a un año efectuadas o no al amparo de cada programa, 0.27 al millar del monto emitido sin que los derechos a pagar por este concepto excedan de: $700,000.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 k). Tratándose de la inscripción o ampliación de títulos de crédito que representen acciones inscritas en el Registro Nacional de Valores, se pagará una cuota de 0.3 al millar sobre el monto emitido sin que los derechos a pagar por este concepto excedan de: $2,500,000.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 l). Tratándose de la inscripción o ampliación de valores fiduciarios sobre bienes distintos de acciones, cuyo activo principal se encuentre respaldado por valores inscritos en el Registro Nacional de Valores, se pagará una cuota de 0.27 al millar sobre el monto emitido sin que los derechos a pagar por este concepto excedan de: $700,000.00
 
@@ -2407,13 +2437,13 @@ m). Tratándose de títulos fiduciarios y demás valores emitidos al amparo de f
 
 1. Con vigencia mayor a un año:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 0.9 al millar sobre el monto emitido sin que los derechos a pagar por este concepto excedan de: $2,500,000.00
 
 2. En el caso de programas de emisión o emisiones con vigencia igual o menor a un año, efectuadas o no, al amparo de cada programa:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 0.65 al millar sobre el monto emitido sin que los derechos a pagar por año excedan de: $700,000.00
 
@@ -2425,17 +2455,17 @@ n). Tratándose de títulos fiduciarios y demás valores emitidos al amparo de f
 
 1. Con vigencia mayor a un año:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 0.45 al millar del monto emitido sin que los derechos a pagar por este concepto excedan de: $2,500,000.00
 
 2. En el caso de programas de emisión o emisiones con vigencia igual o menor a un año, efectuados o no, al amparo de cada programa:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO],D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 0.35 al millar del monto emitido, sin que los derechos a pagar por año excedan de: $700,000.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 ñ). Tratándose de títulos fiduciarios y demás valores emitidos al amparo de fideicomisos sobre bienes distintos de acciones, de corto plazo, en los que el fideicomitente o fideicomisario al momento de obtener la autorización del programa de emisión de corto plazo mantenga inscritos exclusivamente valores de los señalados en el inciso b), numeral 2, de esta fracción, por las emisiones con vigencia igual o menor a un año efectuadas o no al amparo de cada programa, 0.35 al millar del monto emitido sin que los derechos a pagar por año excedan de: $700,000.00
 
@@ -2443,7 +2473,7 @@ II. (DEROGADA, D.O.F. 27 DE DICIEMBRE DE 2006)
 
 III.- Cualquier canje de acciones que no implique un aumento en el monto de capital social inscrito, o de títulos de deuda con objeto de actualizar o modificar los datos de inscripción por concepto de capitalización de intereses, el otorgamiento o liberación de garantías, así como la sustitución de fiduciario en el caso de certificados de participación, no causarán derecho alguno por concepto de registro.
 
-(ACTUALIZADO PRIMER PARRAFO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 28 DE DICIEMBRE DE 2009)
+(ACTUALIZADO PRIMER PARRAFO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 IV. Inscripción preventiva de acciones en el Registro Nacional de Valores: $10,000.00
 
@@ -2487,7 +2517,7 @@ a). El resultado de multiplicar 0.135636 al millar por el valor de los certifica
 
 b). El resultado de multiplicar 1.350500 al millar por el valor de sus otras cuentas por cobrar menos las estimaciones por irrecuperabilidad o difícil cobro de esas otras cuentas por cobrar.
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REFORMADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 La cuota que resulte de
 
@@ -2495,7 +2525,7 @@ conformidad con lo previsto
 
 en esta fracción, en ningún
 
-caso podrá ser inferior a: $276,000.00 $276,000.00
+caso podrá ser inferior a: $276,000.00
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -2515,11 +2545,11 @@ b). El resultado de multiplicar 7.034000 al millar, por el valor de su cartera d
 
 c). El resultado de multiplicar 0.090500 al millar por el valor del total de su cartera de arrendamiento menos las estimaciones preventivas para riesgos crediticios.
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REFORMADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 La cuota que resulte, en ningún
 
-caso será inferior a $276,000.00 $276,000.00
+caso será inferior a $276,000.00
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -2535,11 +2565,11 @@ a). El resultado de multiplicar 0.275887 al millar, por el valor del total de lo
 
 b). El resultado de multiplicar 0.021500 al millar, por el valor de sus activos sujetos a riesgo totales.
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REFORMADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 La cuota que resulte, en ningún
 
-caso será inferior a $5,311,500.00 $5,311,500.00
+caso será inferior a $5,311,500.00
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -2555,11 +2585,11 @@ a). El resultado de multiplicar 0.128561 al millar, por el valor del total de pa
 
 b). El resultado de multiplicar 0.007110 al millar, por el valor de sus activos sujetos a riesgo totales.
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REFORMADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 La cuota que resulte, en ningún
 
-caso será inferior a $3,186,900.00 $3,186,900.00
+caso será inferior a $3,186,900.00
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -2597,11 +2627,11 @@ a). El resultado de multiplicar 4.000000 al millar, por el valor de su capital c
 
 b). El resultado de multiplicar 18.750000 al millar, por el importe que resulte de capital contable menos las disponibilidades netas, las cuales serán equivalentes a la suma de caja, billetes y monedas, saldos deudores de bancos, documentos de cobro inmediato, remesas en camino e inversiones en valores, menos los saldos acreedores de bancos. En este caso, cuando las disponibilidades netas sean negativas, la aplicación de la fórmula a que se refiere este inciso será equivalente a sumar el valor absoluto de dichas disponibilidades netas al capital contable.
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REFORMADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 La cuota que resulte, en ningún
 
-caso será inferior a $424,920.00 $424,920.00
+caso será inferior a $424,920.00
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -2621,11 +2651,11 @@ b). El resultado de multiplicar 8.363500 al millar, por el valor de su cartera d
 
 c). El resultado de multiplicar 0.138800 al millar, por el valor de su cartera de factoraje menos las estimaciones preventivas para riesgos crediticios.
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REFORMADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 La cuota que resulte, en ningún
 
-caso será inferior a $276,000.00 $276,000.00
+caso será inferior a $276,000.00
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
@@ -2639,17 +2669,17 @@ Cada entidad que pertenezca al sector de Inmobiliarias, entendiéndose por ello 
 
 a). (DEROGADO, D.O.F. 27 DE DICIEMBRE DE 2006)
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 La cuota que resulte, en ningún
 
-caso será inferior a $63,706.92 $63,707.00
+caso será inferior a $63,706.92 63,707
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADA, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
+(REFORMADA, D.O.F. 18 DE NOVIEMBRE DE 2010) (ACTUALIZADO PRIMER PARRAFO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-IX. Cada Federación constituida en los términos de la Ley de Ahorro y Crédito Popular pagará una cuota de $2'500,000.00, o bien, podrá optar por pagar una cuota equivalente al resultado de la suma de las siguientes cantidades relativas a cada una de las sociedades financieras populares, sociedades financieras comunitarias u organismos de integración financiera rural, que supervise:
+IX. Cada Federación constituida en los términos de la Ley de Ahorro y Crédito Popular pagará una cuota de $2.500,000.00, o bien, podrá optar por pagar una cuota equivalente al resultado de la suma de las siguientes cantidades relativas a cada una de las sociedades financieras populares, sociedades financieras comunitarias u organismos de integración financiera rural, que supervise:
 
 a). El resultado de multiplicar 0.10000 al millar, por el valor de sus pasivos totales;
 
@@ -2657,13 +2687,15 @@ b). El resultado de multiplicar 0.25000 al millar, por el valor de su cartera de
 
 c). El resultado de multiplicar 0.00800 al millar, por el valor de su cartera de crédito total menos las reservas preventivas.
 
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+
 En caso de optar por pagar la cuota equivalente al resultado de la suma de las cantidades obtenidas de las operaciones contenidas en los incisos a), b) y c) anteriores, tal cuota en ningún caso podrá ser inferior a $20,000.00 por cada una de las sociedades financieras populares, sociedades financieras comunitarias u organismos de integración financiera rural que supervise la Federación de que se trate.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADA, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
+(REFORMADA, D.O.F. 18 DE NOVIEMBRE DE 2010) (ACTUALIZADO PRIMER PARRAFO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-X. El Fondo de Supervisión Auxiliar de Sociedades Cooperativas de Ahorro y Préstamo y de Protección a sus Ahorradores pagará una cuota de $15'000,000.00, o bien, podrá optar por pagar una cuota equivalente al resultado de la suma de las siguientes cantidades relativas a cada una de las Sociedades Cooperativas de Ahorro y Préstamo que supervise:
+X. El Fondo de Supervisión Auxiliar de Sociedades Cooperativas de Ahorro y Préstamo y de Protección a sus Ahorradores pagará una cuota de $15,000,000.00, o bien, podrá optar por pagar una cuota equivalente al resultado de la suma de las siguientes cantidades relativas a cada una de las Sociedades Cooperativas de Ahorro y Préstamo que supervise:
 
 a). El resultado de multiplicar 0.10000 al millar, por el valor de sus pasivos;
 
@@ -2671,13 +2703,17 @@ b). El resultado de multiplicar 0.25000 al millar, por el valor de su cartera de
 
 c). El resultado de multiplicar 0.00800 al millar, por el valor de su cartera de crédito menos las estimaciones preventivas para riesgos crediticios.
 
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+
 En caso de optar por pagar la cuota equivalente al resultado de la suma de las cantidades obtenidas de las operaciones contenidas en los incisos a), b) y c) anteriores, en ningún caso dicha cuota podrá ser inferior a $20,000.00 por cada sociedad que supervise el Fondo de Supervisión Auxiliar de Sociedades Cooperativas de Ahorro y Préstamo y de Protección a sus Ahorradores.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADA, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
+(REFORMADA, D.O.F. 18 DE NOVIEMBRE DE 2010) (ACTUALIZADO PRIMER PARRAFO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-XI. Cada entidad que pertenezca al sector de Sociedades de Inversión, entendiéndose para estos efectos a las entidades que cuenten con autorización para constituirse y operar como tales en términos de la legislación aplicable, excluyendo a las Sociedades de Inversión Especializadas en Fondos de Ahorro para el Retiro, pagará una cuota de $1'080,000.00, o bien, podrá optar por pagar el equivalente al valor que resulte menor entre el total de las operaciones de venta de activos objeto de inversión que realice la Sociedad de Inversión y el total de las operaciones de compra de dichos activos, multiplicado por 0.0065 al millar.
+XI. Cada entidad que pertenezca al sector de Sociedades de Inversión, entendiéndose para estos efectos a las entidades que cuenten con autorización para constituirse y operar como tales en términos de la legislación aplicable, excluyendo a las Sociedades de Inversión Especializadas en Fondos de Ahorro para el Retiro, pagará una cuota de $1,080,000.00, o bien, podrá optar por pagar el equivalente al valor que resulte menor entre el total de las operaciones de venta de activos objeto de inversión que realice la Sociedad de Inversión y el total de las operaciones de compra de dichos activos, multiplicado por 0.0065 al millar.
+
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 La cuota que resulte de la aplicación de la opción prevista en esta fracción en ningún caso podrá ser inferior a $20,000.00.
 
@@ -2701,11 +2737,11 @@ b). El resultado de multiplicar 0.149700 al millar, por el valor de su cartera d
 
 c). El resultado de multiplicar 0.003890 al millar, por el valor del total de su cartera de crédito menos las estimaciones preventivas para riesgos crediticios.
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REFORMADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 La cuota que resulte, en ningún
 
-caso será inferior a $531,150.00 $531,150.00
+caso será inferior a $531,150.00
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -2725,13 +2761,11 @@ b). El resultado de multiplicar 0.243000 al millar, por el valor de su cartera d
 
 c). El resultado de multiplicar 0.011650 al millar, por el valor del total de su cartera de crédito menos las estimaciones preventivas para riesgos crediticios.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 28 DE DICIEMBRE DE 2009)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REFORMADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 La cuota que resulte, en ningún
 
-caso será inferior a $169,968.00 $169,968.00
+caso será inferior a $169,968.00
 
 > <small>(ADICIONADA, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
@@ -2739,9 +2773,9 @@ XIV. Financiera Rural:
 
 La Financiera Rural, pagará una cuota equivalente al resultado de la suma de las siguientes cantidades:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-a). Una cuota de $1,773,907.20 $1,773,907.00
+a). Una cuota de $1,773,907.20 $1,773,907
 
 > <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
@@ -2759,9 +2793,9 @@ XV. Fideicomisos Públicos:
 
 Los fideicomisos públicos, que conforme a la Ley de Instituciones de Crédito formen parte del Sistema Bancario Mexicano, pagarán una cuota equivalente al resultado de la suma de las siguientes cantidades:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-a). Una cuota de $1,724,389.17 $1,724,389.00
+a). Una cuota de $1,724,389.17 $1,724,389
 
 > <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
@@ -2773,9 +2807,9 @@ XVI. Instituto del Fondo Nacional para el Consumo de los Trabajadores:
 
 El Instituto del Fondo Nacional para el Consumo de los Trabajadores, pagará una cuota equivalente al resultado de la suma de las siguientes cantidades:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-a). Una cuota de: $1,609,773.31 $1,609,773.00
+a). Una cuota de: $1,609,773.31 $1,609,773
 
 > <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
@@ -2787,9 +2821,9 @@ XVII. Instituto del Fondo Nacional de la Vivienda para los Trabajadores:
 
 El Instituto del Fondo Nacional de la Vivienda para los Trabajadores, pagará una cuota equivalente al resultado de la suma de las siguientes cantidades:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-a). Una cuota de: $1,609,773.31 $1,609,773.00
+a). Una cuota de: $1,609,773.31 $1,609,773
 
 > <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
@@ -2813,7 +2847,7 @@ b). El resultado de multiplicar 0.257000 al millar, por el valor de su cartera v
 
 c). El resultado de multiplicar 0.014910 al millar, por el valor de su cartera menos las estimaciones preventivas para riesgos crediticios.
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REFORMADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 La cuota que resulte de
 
@@ -2821,7 +2855,7 @@ conformidad con lo previsto
 
 en esta fracción en ningún caso
 
-podrá ser inferior a: $531,150.00 $531,150.00
+podrá ser inferior a: $531,150.00
 
 > <small>(ADICIONADA, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
@@ -2831,7 +2865,7 @@ XIX. Sociedades Controladoras de Grupos Financieros:
 
 Cada entidad que pertenezca al sector de sociedades controladoras de grupos financieros, entendiéndose por ello a las sociedades controladoras previstas en la Ley para Regular las Agrupaciones Financieras, pagará la cantidad que resulte de multiplicar 0.008129 al millar por el total del activo del balance general consolidado con subsidiarias.
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REFORMADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 La cuota que resulte de
 
@@ -2839,7 +2873,7 @@ conformidad con lo previsto
 
 en esta fracción, en ningún caso
 
-podrá ser inferior a: $772,800.00 $772,800.00
+podrá ser inferior a: $772,800.00
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -2849,7 +2883,7 @@ XX. Fondo de la Vivienda del Instituto de Seguridad y Servicios Sociales de los 
 
 El Fondo de la Vivienda del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, pagará una cuota equivalente al resultado de la suma de las siguientes cantidades:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 a). Una cuota de $1,561,947.00
 
@@ -2885,7 +2919,7 @@ I. (DEROGADA, D.O.F. 27 DE DICIEMBRE DE 2006)
 
 II. Bolsas de Futuros y Opciones:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 Cada entidad que pertenezca al sector de Bolsas de Futuros y Opciones, entendiéndose para tales efectos a las entidades que cuenten con autorización para constituirse y operar como tales en términos de las disposiciones aplicables, pagará la cuota $3,000,000.00
 
@@ -2895,7 +2929,7 @@ Cada entidad que pertenezca al sector de Bolsas de Futuros y Opciones, entendié
 
 III. Bolsas de Valores:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 Cada entidad que pertenezca al sector de Bolsas de Valores, entendiéndose para tales efectos a las entidades que cuenten con la concesión para constituirse y operar como tales en términos de la legislación aplicable, pagará la cuota de $7,500,000.00
 
@@ -2905,7 +2939,7 @@ Cada entidad que pertenezca al sector de Bolsas de Valores, entendiéndose para 
 
 IV. Cámaras de Compensación:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 Cada entidad que pertenezca al sector de Cámaras de Compensación, entendiéndose para tales efectos a las sociedades que cuenten con la autorización correspondiente en términos de la legislación aplicable, pagará la cuota de $2,500,000.00
 
@@ -2915,7 +2949,7 @@ Cada entidad que pertenezca al sector de Cámaras de Compensación, entendiéndo
 
 V. Contrapartes Centrales:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 Cada entidad que pertenezca al sector de Contrapartes Centrales, entendiéndose para tales efectos a las sociedades que cuenten con la concesión correspondiente en términos de la legislación aplicable, pagará la cuota de $2,500,000.00
 
@@ -2923,7 +2957,7 @@ Cada entidad que pertenezca al sector de Contrapartes Centrales, entendiéndose 
 
 VI. Empresas de Servicios Complementarios:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 Cada entidad que pertenezca
 
@@ -2943,9 +2977,9 @@ disposiciones aplicables, o en la
 
 realización de su objeto, pagará la
 
-cantidad de: $95,412.60 $95,413.00
+cantidad de: $95,412.60 $95,413
 
-VII. (DEROGADO, D.O.F. 27 DE DICIEMBRE DE 2006)
+VII. (DEROGADA, D.O.F. 27 DE DICIEMBRE DE 2006)
 
 VIII. (DEROGADA, D.O.F. 1 DE DICIEMBRE DE 2004)
 
@@ -2957,7 +2991,7 @@ X. (DEROGADA, D.O.F. 1 DE DICIEMBRE DE 2004)
 
 XI. Instituciones Calificadoras de Valores:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 Cada entidad que pertenezca
 
@@ -2975,7 +3009,7 @@ y sean autorizadas en términos
 
 de la Ley del Mercado de Valores,
 
-deberá pagar: $441,643.79 $441,644.00
+deberá pagar: $441,643.79 $441,644
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -2983,7 +3017,7 @@ deberá pagar: $441,643.79 $441,644.00
 
 XII. Instituciones para el Depósito de Valores:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 Cada entidad que pertenezca al sector de Instituciones para el Depósito de Valores, entendiéndose para tales efectos a las sociedades que cuenten con la concesión correspondiente en términos de la legislación aplicable, pagará la cuota de $4,500,000.00
 
@@ -2991,7 +3025,7 @@ Cada entidad que pertenezca al sector de Instituciones para el Depósito de Valo
 
 XIII. Sociedades que administran sistemas para facilitar las operaciones con valores:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 Cada entidad que pertenezca al
 
@@ -3005,13 +3039,13 @@ valores, autorizadas en términos
 
 de la Ley del Mercado de Valores
 
-pagará la cantidad de: $359,493.31 $359,493.00
+pagará la cantidad de: $359,493.31 $359,493
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
 XIV. Oficinas de Representación de Entidades Financieras del Exterior:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 Cada entidad que pertenezca al
 
@@ -3023,13 +3057,13 @@ Financieras del Exterior, pagará
 
 por cada una de las Entidades
 
-que represente la cantidad de: $58,780.25 $58,780.00
+que represente la cantidad de: $58,780.25 $58,780
 
 > <small>(REFORMADA, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 XV. Operadores del Mercado de Futuros y Opciones:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 Cada entidad que pertenezca al
 
@@ -3037,7 +3071,7 @@ sector de Operadores del Mercado
 
 de Futuros y Opciones, pagará la
 
-cantidad de: $82,068.05 $82,068.00
+cantidad de: $82,068.05 $82,068
 
 Para efectos de lo previsto en esta fracción, se entenderá que pertenecen al sector de Operadores del Mercado de Futuros y Opciones, las instituciones de crédito, casas de bolsa y demás personas físicas y morales que pueden o no ser socios de la Bolsa de Futuros y Opciones en términos de lo previsto en las disposiciones que regulan a las sociedades y fideicomisos que intervengan en el establecimiento y operación de un mercado de futuros y opciones cotizados en bolsa, y cuya función sea actuar como comisionista de uno o más Socios Liquidadores, en la celebración de contratos de futuros y contratos de opciones, y que pueden tener acceso al sistema electrónico de negociación de la bolsa para la celebración de dichos contratos.
 
@@ -3051,7 +3085,7 @@ Tratándose de instituciones de crédito o casas de bolsa que actúen simultáne
 
 XVI. Organismos Autorregulatorios:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 a). Cada asociación gremial de
 
@@ -3071,9 +3105,9 @@ organismo autorregulatorio
 
 bancario o del mercado de
 
-valores, pagará la cantidad de: $380,303.40 $380,303.00
+valores, pagará la cantidad de: $380,303.40 $380,303
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REFORMADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 b). Los organismos
 
@@ -3113,11 +3147,11 @@ de crédito, así como de sus
 
 apoderados, pagarán la cantidad
 
-de: $1,062,300.00 $1,062,300.00
+de: $1,062,300.00
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADA, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
+(REFORMADA, D.O.F. 18 DE NOVIEMBRE DE 2010) (ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 XVII. El Fondo de Protección de Sociedades Financieras Populares y de Protección a sus Ahorradores a que se refiere la Ley de Ahorro y Crédito Popular pagará la cuota de:..... $20,000.00
 
@@ -3125,7 +3159,7 @@ XVII. El Fondo de Protección de Sociedades Financieras Populares y de Protecci�
 
 XVIII. Proveedores de Precios:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 Cada entidad que pertenezca
 
@@ -3135,7 +3169,7 @@ autorizados en términos de la Ley
 
 del Mercado de Valores
 
-pagará: $543,357.95 $543,358.00
+pagará: $543,357.95 $543,358
 
 XIX. (DEROGADA, D.O.F. 27 DE DICIEMBRE DE 2006)
 
@@ -3143,7 +3177,7 @@ XIX. (DEROGADA, D.O.F. 27 DE DICIEMBRE DE 2006)
 
 XX. Sociedades de Información Crediticia:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REFORMADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 Cada entidad que pertenezca
 
@@ -3161,7 +3195,7 @@ a las Sociedades de Información
 
 Crediticia, pagará la cantidad
 
-de: $1,009,185.00 $1,009,185.00
+de: $1,009,185.00
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -3169,17 +3203,17 @@ XXI. Sociedades Distribuidoras de Acciones de Sociedades de Inversión:
 
 Cada entidad que pertenezca al sector de Sociedades Distribuidoras de Acciones de Sociedades de Inversión, entendiéndose por ello a las sociedades a que con tal carácter se refiere la Ley de Sociedades de Inversión, pagará conforme a lo siguiente:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 a). Que actúen como
 
-referenciadoras: $37,180.50 $37,180.00
+referenciadoras: $37,180.50 $37,180
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REFORMADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 b). Que actúen como
 
-integrales: $74,361.00 $74,361.00
+integrales: $74,361.00
 
 > <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
@@ -3191,25 +3225,25 @@ XXII. Sociedades Operadoras de Sociedades de Inversión:
 
 Cada entidad que pertenezca al sector de Sociedades Operadoras de Sociedades de Inversión, entendiéndose por ello a las sociedades a que con tal carácter se refiere la Ley de Sociedades de Inversión, pagará conforme a lo siguiente:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 a). De renta variable y
 
 de inversión en instrumentos
 
-de deuda: $74,722.18 $74,722.00
+de deuda: $74,722.18 $74,722
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 b). De capitales o de
 
-objeto limitado: $63,514.92 $63,515.00
+objeto limitado: $63,514.92 $63,515
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
 XXIII. Sociedades Valuadoras de Acciones de Sociedades de Inversión:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 Cada entidad que pertenezca
 
@@ -3225,11 +3259,11 @@ carácter se refiere la Ley de
 
 Sociedades de Inversión,
 
-pagará la cantidad de $726.61 $727.00
+pagará la cantidad de $726.61 $727
 
 por cada Fondo valuado.
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 La cuota que resulte de
 
@@ -3237,19 +3271,19 @@ conformidad con lo previsto en
 
 esta fracción, en ningún caso
 
-podrá ser inferior a $30,496.23 $30,496.00
+podrá ser inferior a $30,496.23 $30,496
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
 XXIV. Socios Liquidadores:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 Cada entidad que pertenezca al
 
 sector de Socios Liquidadores
 
-pagará la cantidad de: $515,333.33 $515,333.00
+pagará la cantidad de: $515,333.33 $515,333
 
 Para efectos de lo previsto en esta fracción se entenderá que este sector lo conforman los fideicomisos que sean socios de una bolsa y que participen en el patrimonio de una cámara de compensación en términos de lo dispuesto por las Reglas a las que habrán de sujetarse las sociedades y fideicomisos que intervengan en el establecimiento y operación de un mercado de futuros y opciones cotizados en bolsa, teniendo como finalidad liquidar y, en su caso, celebrar por cuenta de clientes, contratos de futuros y contratos de opciones operados en bolsa.
 
@@ -3273,7 +3307,7 @@ a). Con sólo acciones inscritas:
 
 1. Emitidas por sociedades Anónimas Bursátiles:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 0.3 al millar respecto al capital contable sin que los derechos a pagar por este concepto excedan de: $400,000.00
 
@@ -3281,13 +3315,13 @@ a). Con sólo acciones inscritas:
 
 i). Que se encuentren en cumplimiento del programa de adopción progresiva del régimen aplicable a las Sociedades Anónimas Bursátiles:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 0.1 al millar respecto al capital contable sin que los derechos a pagar por este concepto excedan de: $120,000.00
 
 ii). Que no hayan dado cumplimiento a su programa de adopción progresiva del régimen aplicable a las Sociedades Anónimas Bursátiles:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 0.2 al millar respecto al capital contable sin que los derechos a pagar por este concepto excedan de: $240,000.00
 
@@ -3295,7 +3329,7 @@ ii). Que no hayan dado cumplimiento a su programa de adopción progresiva del r�
 
 3. Emitidas por sociedades controladoras de grupos financieros, instituciones de crédito, casas de bolsa, casas de cambio, almacenes generales de depósito, arrendadoras financieras, empresas de factoraje financiero, sociedades financieras de objeto limitado, sociedades financieras de objeto múltiple y demás entidades financieras autorizadas:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 0.3 al millar respecto al capital contable sin que los derechos a pagar por este concepto excedan de: $400,000.00
 
@@ -3303,7 +3337,7 @@ ii). Que no hayan dado cumplimiento a su programa de adopción progresiva del r�
 
 b). Con sólo títulos de crédito o valores inscritos que otorguen a sus titulares derechos de crédito, de propiedad o de participación, sobre bienes o derechos muebles o inmuebles:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 0.9595 al millar respecto al monto en circulación de cada emisión, sin que los derechos a pagar por este concepto excedan de: $300,000.00
 
@@ -3311,13 +3345,13 @@ b). Con sólo títulos de crédito o valores inscritos que otorguen a sus titula
 
 c). Con acciones y títulos de crédito o valores inscritos que otorguen a sus titulares derechos de crédito, de propiedad o de participación, sobre bienes o derechos muebles o inmuebles:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 Por acciones, la cuota señalada en la fracción I, inciso a), numerales 1 a 3, de este artículo, según corresponda y 0.6396 al millar respecto al monto en circulación de cada emisión de títulos de crédito o valores inscritos que otorguen a sus titulares derechos de crédito, de propiedad o de participación, sobre bienes o derechos muebles o inmuebles sin que los derechos a pagar por este concepto excedan de: $120,000.00
 
 d). Valores emitidos por organismos descentralizados del Gobierno Federal, Gobiernos de los Estados y Municipios, así como de los organismos y empresas en que estos últimos participen:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 0.9595 al millar, respecto al monto en circulación de cada emisión sin que los derechos a pagar por este concepto excedan de: $300,000.00
 
@@ -3325,11 +3359,11 @@ d). Valores emitidos por organismos descentralizados del Gobierno Federal, Gobie
 
 e). Títulos de crédito que representen acciones:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 0.5116 al millar, respecto al monto en circulación de cada emisión sin que los derechos a pagar por este concepto excedan de: $80,000.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 f). Otros títulos o valores inscritos distintos a los señalados en los incisos anteriores: $80,000.00, por cada emisión.
 
@@ -3337,13 +3371,13 @@ f). Otros títulos o valores inscritos distintos a los señalados en los incisos
 
 g). Títulos fiduciarios cuyo activo principal se encuentre respaldado por valores inscritos en el Registro Nacional de Valores:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 0.5116 al millar respecto al monto en circulación de cada emisión sin que los derechos a pagar por este concepto excedan de: $80,000.00
 
 II. (DEROGADA, D.O.F. 27 DE DICIEMBRE DE 2006)
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 III. Las personas morales que mantengan sus acciones inscritas con carácter preventivo bajo la modalidad de listado previo pagarán $10,000.00 por inscripción preventiva.
 
@@ -3569,7 +3603,7 @@ Las sociedades mutualistas pagarán las cuotas de inspección y vigilancia calcu
 
 Los derechos a que se refieren las fracciones anteriores, se pagarán por mensualidades adelantadas.
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 III.- Los derechos por
 
@@ -3595,9 +3629,9 @@ de capital, sin que los derechos a
 
 pagar por este concepto excedan
 
-de $548,968.96 $548,969.00 anuales.
+de $548,968.96 $548,969 anuales.
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 IV.- Empresas de servicios
 
@@ -3611,9 +3645,9 @@ se encuentren bajo supervisión
 
 de la Comisión Nacional de
 
-Seguros y Fianzas $27,448.07 $27,448.00
+Seguros y Fianzas $27,448.07 $27,448
 
-ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 V.- Por los servicios de
 
@@ -3621,9 +3655,9 @@ inspección y vigilancia que
 
 se prestan a los intermediarios
 
-de reaseguro cuota mensual $6,147.27 $6,147.00
+de reaseguro cuota mensual $6,147.27 $6,147
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 VI.- Por los servicios de
 
@@ -3633,7 +3667,7 @@ se prestan a las oficinas de
 
 representación de reaseguradoras
 
-extranjeras cuota mensual $3,688.36 $3,688.00
+extranjeras cuota mensual $3,688.36 $3,688
 
 > <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
@@ -3645,15 +3679,15 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I.- Por la autorización provisional
 
 proporcionada a agentes de
 
-seguros personas físicas $1,492.50 $1,492.00
+seguros personas físicas $1,492.50 $1,492
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II.- Por la autorización definitiva a
 
@@ -3661,25 +3695,25 @@ agentes de seguros personas físicas
 
 para actuar por cuenta propia con
 
-vigencia de tres años $2,347.29 $2,347.00
+vigencia de tres años $2,347.29 $2,347
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 III.- Por el refrendo trianual de las
 
 autorizaciones definitivas a agentes
 
-personas físicas $1,228.10 $1,228.00
+personas físicas $1,228.10 $1,228
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 IV.- Por la autorización a
 
 agentes de seguros personas
 
-morales $7,463.61 $7,464.00
+morales $7,463.61 $7,464
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 V.- Por la autorización para ejercer la
 
@@ -3689,17 +3723,17 @@ de seguros persona moral para
 
 intervenir en el asesoramiento y
 
-contratación de seguros $2,347.29 $2,347.00
+contratación de seguros $2,347.29 $2,347
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 VI.- Por el refrendo trianual de la
 
 autorización a que se refiere la
 
-fracción anterior $1,228.10 $1,228.00
+fracción anterior $1,228.10 $1,228
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 VII.- Por la autorización para
 
@@ -3707,9 +3741,9 @@ ejercer la actividad de agente
 
 mandatario de instituciones de
 
-seguros $115.14 $115.00
+seguros $115.14 $115
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 VIII.- Por la presentación del
 
@@ -3723,11 +3757,11 @@ seguros persona física o
 
 apoderado de agente de
 
-seguros persona moral $536.10 $536.00
+seguros persona moral $536.10 $536
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(ADICIONADA, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
+(ADICIONADA, D.O.F. 18 DE NOVIEMBRE DE 2010) (ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 IX.- Por la presentación de una sola prueba del examen de acreditación de la capacidad técnica, para ejercer la actividad de agente de seguros persona física o apoderado de agente de seguros persona moral.....$300.00
 
@@ -3741,15 +3775,15 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I.- Por la autorización
 
 definitiva como intermediario
 
-de reaseguro. $7,463.67 $7,464.00
+de reaseguro. $7,463.67 $7,464
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II.- Por la autorización para
 
@@ -3761,15 +3795,15 @@ de reaseguro, para intervenir
 
 en el asesoramiento y contratación
 
-de reaseguro $2,347.29 $2,347.00
+de reaseguro $2,347.29 $2,347
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 III.- Por el refrendo quinquenal
 
 de la autorización a que se refiere
 
-la fracción anterior $1,228.10 $1,228.00
+la fracción anterior $1,228.10 $1,228
 
 IV.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1998)
 
@@ -3787,7 +3821,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I. Por el examen de acreditación
 
@@ -3805,9 +3839,9 @@ que ofrezcan al público las
 
 instituciones y sociedades
 
-mutualistas de seguros $1,084.67 $1,085.00
+mutualistas de seguros $1,084.67 $1,085
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II. Por el examen de acreditación
 
@@ -3823,9 +3857,9 @@ calcular y registrar las
 
 instituciones y sociedades
 
-mutualistas de seguros $1,084.67 $1,085.00
+mutualistas de seguros $1,084.67 $1,085
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 III. Por el examen de acreditación
 
@@ -3845,13 +3879,13 @@ constituir las instituciones y
 
 sociedades mutualistas de
 
-seguros $1,084.67 $1,085.00
+seguros $1,084.67 $1,085
 
 cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 30-D.
 
@@ -3869,7 +3903,7 @@ de promoción o venta de productos
 
 de seguros, se pagarán derechos
 
-conforme a la cuota de: $474.72 $475.00
+conforme a la cuota de: $474.72 $475
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
@@ -3901,7 +3935,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I.- Por la autorización definitiva a
 
@@ -3909,23 +3943,23 @@ agentes de fianzas personas físicas
 
 para actuar por cuenta propia con
 
-vigencia de tres años $2,347.29 $2,347.00
+vigencia de tres años $2,347.29 $2,347
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II.- Por el refrendo trianual de las
 
 autorizaciones definitivas a agentes
 
-personas físicas $1,228.10 $1,228.00
+personas físicas $1,228.10 $1,228
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 III.- Por la autorización a agentes de
 
-fianzas personas morales $7,462.87 $7,463.00
+fianzas personas morales $7,462.87 $7,463
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 IV.- Por la autorización para ejercer
 
@@ -3935,25 +3969,25 @@ agente de fianzas persona moral
 
 para intervenir en el asesoramiento
 
-y contratación de fianzas $2,347.29 $2,347.00
+y contratación de fianzas $2,347.29 $2,347
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 V.- Por el refrendo trianual de la
 
 autorización a que se refiere la
 
-fracción anterior $1,228.10 $1,228.00
+fracción anterior $1,228.10 $1,228
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 VI.- Por la autorización provisional
 
 proporcionada a agentes de fianzas
 
-personas físicas $1,493.49 $1,493.00
+personas físicas $1,493.49 $1,493
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 VII.- Por la autorización para
 
@@ -3961,9 +3995,9 @@ ejercer la actividad de agente
 
 mandatario de instituciones de
 
-fianzas $115.14 $115.00
+fianzas $115.14 $115
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 VIII.- Por la presentación del
 
@@ -3977,11 +4011,11 @@ persona física o apoderado de
 
 agente de fianzas persona
 
-moral $536.10 $536.00
+moral $536.10 $536
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(ADICIONADA, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
+(ADICIONADA, D.O.F. 18 DE NOVIEMBRE DE 2010) (ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 IX.- Por la presentación de una sola prueba del examen de acreditación de la capacidad técnica, para ejercer la actividad de agente de fianzas persona física o apoderado de agente de fianzas persona moral.....$300.00
 
@@ -3995,7 +4029,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I.- Por el examen de acreditación
 
@@ -4013,9 +4047,9 @@ soportar la adecuada operación
 
 de los productos que ofrezcan
 
-al público $1,084.67 $1,085.00
+al público $1,084.67 $1,085
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II.- Por el examen de acreditación
 
@@ -4029,9 +4063,9 @@ técnicas, que deben calcular y
 
 registrar las instituciones de
 
-fianzas $1,084.67 $1,085.00
+fianzas $1,084.67 $1,085
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 III.- Por el examen de acreditación
 
@@ -4047,7 +4081,7 @@ las reservas de carácter técnico, que
 
 deben constituir las instituciones
 
-de fianza $1,084.67 $1,085.00
+de fianza $1,084.67 $1,085
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -4065,7 +4099,7 @@ de fianza $1,084.67 $1,085.00
 
 Las Administradoras de Fondos para el Retiro, las instituciones públicas que realicen funciones similares a éstas, las Empresas Operadoras de la Base de Datos Nacional SAR y las Sociedades de Inversión Especializadas de Fondos para el Retiro pagarán el derecho de inspección y vigilancia que se efectúa en éstas, conforme a las siguientes cuotas:
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I. Las Administradoras de
 
@@ -4099,7 +4133,7 @@ Instituto de Seguridad y Servicios
 
 Sociales de los Trabajadores del
 
-Estado, $60,732.33 $60,732.00
+Estado, $60,732.33 $60,732
 
 por concepto de cuota anual y
 
@@ -4113,13 +4147,13 @@ cesantía en edad avanzada y
 
 vejez.
 
-(ACTUALIZADO PRIMER PARRAFO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO PRIMER PARRAFO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II. Las Sociedades de Inversión
 
 Especializadas de Fondos
 
-para el Retiro $57,608.23 $57,608.00 cuota anual.
+para el Retiro $57,608.23 $57,608 cuota anual.
 
 El pago de las cuotas anuales a que se refieren las fracciones I y II anteriores, deberá realizarse a más tardar el día 20 del mes de enero del ejercicio fiscal que transcurra.
 
@@ -4129,13 +4163,13 @@ Para los efectos de la cuota anual adicional de $0.1258 a que se refiere la frac
 
 Para determinar el monto de cada pago trimestral a que se refiere el párrafo anterior se deberá multiplicar cada $1,000.00 del saldo total del capital suscrito y pagado por los trabajadores invertido en las Sociedades de Inversión Especializadas de Fondos para el Retiro a que se refiere el primer párrafo de la fracción I de este artículo por la cuota anual de $0.1258, dividida entre cuatro, tomando como total de recursos el valor de dicho capital que resulte al último día hábil del mes inmediato anterior al mes en que deba efectuarse el pago de este derecho.
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 III. Las Empresas Operadoras
 
 de la Base de Datos Nacional
 
-SAR $1,773,907.20 $1,773,907.00
+SAR $1,773,907.20 $1,773,907
 
 por cada Administradora de
 
@@ -4167,7 +4201,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 34.
 
@@ -4193,7 +4227,7 @@ Fondos para el Retiro, pagará
 
 derechos conforme a la
 
-cuota de: $88,695.36 $88,695.00
+cuota de: $88,695.36 $88,695
 
 ###### ARTICULO 34-A.
 
@@ -4233,15 +4267,15 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 a).- Por la inscripción en el
 
 registro del despacho de
 
-mercancías $4,234.78 $4,235.00
+mercancías $4,234.78 $4,235
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 b).- Por la autorización de depósito
 
@@ -4255,9 +4289,9 @@ industria automotriz terminal o
 
 manufacturera de vehículos de
 
-autotransporte $8,606.20 $8,606.00
+autotransporte $8,606.20 $8,606
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 c).- Por la autorización para
 
@@ -4267,9 +4301,9 @@ mercancías del territorio
 
 nacional por lugar distinto al
 
-autorizado $8,332.97 $8,333.00
+autorizado $8,332.97 $8,333
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 d).- Por la concesión o
 
@@ -4281,9 +4315,9 @@ almacenaje y custodia de
 
 mercancías de comercio
 
-exterior $45,080.16 $45,080.00
+exterior $45,080.16 $45,080
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 e).- Por la autorización para
 
@@ -4293,21 +4327,21 @@ descarga, estiba, acarreo y
 
 trasbordo de mercancías en
 
-el recinto fiscal $8,606.20 $8,606.00
+el recinto fiscal $8,606.20 $8,606
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 f).- Por la autorización de
 
-apoderado aduanal $6,830.32 $6,830.00
+apoderado aduanal $6,830.32 $6,830
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 g).- Por la autorización de
 
-dictaminador aduanero $6,830.32 $6,830.00
+dictaminador aduanero $6,830.32 $6,830
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 h).- Por la autorización para la
 
@@ -4317,9 +4351,9 @@ por tuberías, ductos, cables
 
 u otros medios de
 
-conducción $7,513.35 $7,513.00
+conducción $7,513.35 $7,513
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 i).- Por la autorización de
 
@@ -4329,17 +4363,17 @@ para locales destinados
 
 a exposiciones internacionales
 
-de mercancías $4,098.18 $4,098.00
+de mercancías $4,098.18 $4,098
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REFORMADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 j).- Por la inscripción en el
 
 Registro de empresas
 
-transportistas $4,508.00 $4,508.00
+transportistas $4,508.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 k).- Por la autorización para
 
@@ -4349,9 +4383,9 @@ fiscal para la exposición y
 
 ventas de mercancías
 
-extranjeras y nacionales $37,525.81 $37,526.00
+extranjeras y nacionales $37,525.81 $37,526
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I).- Por la habilitación de
 
@@ -4367,37 +4401,37 @@ estratégico y la autorización
 
 o prórroga para su
 
-administración: $51,853.42 $51,853.00
+administración: $51,853.42 $51,853
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 m).- Por la inscripción en el
 
 registro de empresas
 
-certificadas $19,445.03 $19,445.00
+certificadas $19,445.03 $19,445
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 n).- Por la autorización de
 
 mandatario de agente
 
-aduanal $6,569.11 $6,569.00
+aduanal $6,569.11 $6,569
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 ñ).- Por la autorización para destinar mercancías al régimen de recinto fiscalizado estratégico $17,880.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 o).- Por la autorización para prevalidar electrónicamente los datos contenidos en los pedimentos $6,040.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 p).- Por la autorización para el procesamiento electrónico de datos necesarios para llevar a cabo el control de la importación temporal de remolques, semiremolques y portacontenedores $6,040.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 q).- Por la autorización para que dentro de los recintos fiscalizados, las mercancías en ellos almacenadas puedan ser objeto de elaboración, transformación o reparación $6,040.00
 
@@ -4461,25 +4495,25 @@ ajuste ajuste
 
 I.- Por cada quinientos kilogramos o fracción y durante:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 a).- Los primeros quince días
 
-naturales $8.61 $9.00
+naturales $8.61 $9
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 b).- Los siguientes treinta días
 
-naturales $16.79 $17.00
+naturales $16.79 $17
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 c).- El tiempo que transcurra después
 
 de vencido el plazo señalado en el
 
-inciso anterior $27.20 $27.00
+inciso anterior $27.20 $27
 
 II.- Se pagará por cada día de almacenaje el doble de las cuotas establecidas en la fracción anterior, cuando se trate de las siguientes mercancías:
 
@@ -4497,7 +4531,7 @@ d) Las que por su naturaleza deban conservarse en refrigeración, en cuartos est
 
 e) Los animales vivos.
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 III.- Los equipajes o efectos
 
@@ -4505,7 +4539,7 @@ personales de pasajeros, por
 
 cada cien kilogramos o fracción,
 
-diariamente $13.98 $14.00
+diariamente $13.98 $14
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
@@ -4591,7 +4625,7 @@ I.- Del 8 al millar, sobre el valor que tengan los bienes para los efectos del i
 
 II.- Del 1.76 al millar sobre el valor que tengan los bienes, tratándose de la importación temporal de bienes de activo fijo que efectúen las maquiladoras o las empresas que tengan programas de exportación autorizados por la Secretaría de Economía o, en su caso, la maquinaria y equipo que se introduzca al territorio nacional para destinarlos al régimen de elaboración, transformación o reparación en recintos fiscalizados.
 
-(ACTUALIZADO PRIMER PARRAFO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO PRIMER PARRAFO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 III.- Tratándose de
 
@@ -4621,7 +4655,7 @@ Maquiladora y de
 
 Servicios de Exportación
 
-IMMEX): $222.90 $223.00
+IMMEX): $222.90 $223
 
 > <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
@@ -4649,7 +4683,7 @@ como en los retornos
 
 respectivos $222.90 $223.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 IV.- En el caso de operaciones de
 
@@ -4679,13 +4713,13 @@ las disposiciones aplicables no tengan
 
 valor en aduana, por cada
 
-operación. $222.90 $223.00
+operación. $222.90 $223
 
-(ACTUALIZADO PRIMER PARRAFO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO PRIMER PARRAFO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 V.- En las operaciones de
 
-exportación $223.50 $224.00
+exportación $223.50 $224
 
 > <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
@@ -4695,45 +4729,45 @@ Cuando la exportación de mercancías se efectúe mediante pedimento consolidado
 
 También se pagará este derecho por cada operación en que se utilice el pedimento complementario del pedimento de exportación o retorno de mercancías.
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 VI.- Tratándose de las efectuadas
 
-por los Estados extranjeros $218.58 $219.00
+por los Estados extranjeros $218.58 $219
 
 > <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 VII.- Por aquellas operaciones en que se rectifique un pedimento y no se esté en los supuestos de las fracciones anteriores, así como cuando se utilice algunos de los siguientes pedimentos:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-a).- De tránsito interno $222.90 $223.00
+a).- De tránsito interno $222.90 $223
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-b).- De tránsito internacional $211.68 $212.00
+b).- De tránsito internacional $211.68 $212
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 c).- De extracción del régimen de
 
-depósito fiscal para retorno $222.90 $223.00
+depósito fiscal para retorno $222.90 $223
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 d).- La parte II de los pedimentos
 
 de importación; exportación o
 
-tránsito $222.90 $223.00
+tránsito $222.90 $223
 
-(ADICIONADO, D.O.F. 27 DE NOVIEMBRE DE 2009) D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 e).- Por cada rectificación
 
-de pedimento $222.90 $223.00
+de pedimento $222.90 $223
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 VIII.- Del 8 al millar, sobre el valor
 
@@ -4741,7 +4775,7 @@ que tenga el oro para los efectos
 
 del impuesto general de importación,
 
-sin exceder de la cuota de $2,362.04 $2,362.00
+sin exceder de la cuota de $2,362.04 $2,362
 
 > <small>(ADICIONADO, D.O.F. 26 DE JULIO DE 1993)</small>
 
@@ -4799,7 +4833,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I.- Por el examen para aspirante
 
@@ -4807,31 +4841,31 @@ a agente aduanal, apoderado
 
 aduanal o dictaminador
 
-aduanero $6,949.14 $6,949.00
+aduanero $6,949.14 $6,949
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II.- Por la expedición de la patente de
 
-agente aduanal $13,896.22 $13,896.00
+agente aduanal $13,896.22 $13,896
 
 > <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
 III.- Por el examen para aspirante a mandatario de agente aduanal:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 a). Correspondiente a la
 
-etapa de conocimientos $3,394.89 $3,395.00
+etapa de conocimientos $3,394.89 $3,395
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 b). Correspondiente a la
 
-etapa psicotécnica $3,394.89 $3,395.00
+etapa psicotécnica $3,394.89 $3,395
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 IV.- Por el estudio y aprobación
 
@@ -4841,13 +4875,13 @@ las sociedades o asociaciones
 
 que exploten la patente
 
-de agente aduanal $11,034.04 $11,034.00
+de agente aduanal $11,034.04 $11,034
 
 cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 52.
 
@@ -4867,7 +4901,7 @@ arancelaria, establecidas en la Ley
 
 Aduanera, se pagarán por cada
 
-muestra analizada, la cuota de: $3,065.07 $3,065.00
+muestra analizada, la cuota de: $3,065.07 $3,065
 
 #### SECCION CUARTA. Registro Federal de Vehículos
 
@@ -4925,7 +4959,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 53-G.
 
@@ -4941,13 +4975,13 @@ entre partes relacionadas, se
 
 pagarán derechos conforme a la
 
-cuota de $10,024.10 $10,024.00
+cuota de $10,024.10 $10,024
 
 cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 53-H.
 
@@ -4961,7 +4995,7 @@ el artículo anterior, se pagarán
 
 derechos conforme a la
 
-cuota de $2,004.72 $2,005.00
+cuota de $2,004.72 $2,005
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -4979,13 +5013,13 @@ cuota de $2,004.72 $2,005.00
 
 (DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2010)
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 53-K.
 
 Por la obtención de marbetes que se adhieran a los envases que contengan bebidas alcohólicas a que se refiere la Ley del Impuesto Especial sobre Producción y Servicios, se pagará el derecho de marbetes conforme a la cuota de $0.3078 por cada uno.
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 53-L.
 
@@ -5027,21 +5061,21 @@ ajuste ajuste
 
 I. Por el análisis, evaluación de la solicitud y, en su caso, la expedición del título de permiso, con base en la capacidad de autoabastecimiento, cogeneración, pequeña producción, producción independiente, exportación e importación de energía eléctrica solicitada, de conformidad con las siguientes cuotas:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-a). Hasta 10 MW: $76,860.48 $76,860.00
+a). Hasta 10 MW: $76,860.48 $76,860
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-b). Mayor a 10 y hasta 50 MW: $100,301.71 $100,302.00
+b). Mayor a 10 y hasta 50 MW: $100,301.71 $100,302
 
-ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-c). Mayor a 50 y hasta 200 MW: $148,314.67 $148,315.00
+c). Mayor a 50 y hasta 200 MW: $148,314.67 $148,315
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-d). Mayor a 200 MW: $627,324.82 $627,325.00
+d). Mayor a 200 MW: $627,324.82 $627,325
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -5049,23 +5083,23 @@ d). Mayor a 200 MW: $627,324.82 $627,325.00
 
 II. Por la supervisión de los permisos de energía eléctrica, se pagará anualmente el derecho de supervisión, conforme a las siguientes cuotas:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 a). Hasta 3 MW $14,000.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 b). Mayor a 3 y hasta 10 MW $76,740.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 c). Mayor a 10 y hasta 50 MW $189,276.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 d). Mayor a 50 y hasta 200 MW $312,772.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 e). Mayor a 200 MW $951,265.00
 
@@ -5075,7 +5109,7 @@ a). El 50 por ciento de la cuota establecida en la fracción I del presente art�
 
 b). (DEROGADO, D.O.F. 24 DE DICIEMBRE DE 2007)
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 IV. Por el análisis, evaluación y,
 
@@ -5091,9 +5125,9 @@ organismos a cargo de la
 
 prestación del servicio público
 
-de energía eléctrica anualmente: $552,134.69 $552,135.00
+de energía eléctrica anualmente: $552,134.69 $552,135
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 V. Aprobación o modificación de
 
@@ -5105,7 +5139,7 @@ actividades reguladas en términos
 
 de la Ley de la Comisión Reguladora
 
-de Energía: $11,042.21 $11,042.00
+de Energía: $11,042.21 $11,042
 
 > <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
@@ -5123,65 +5157,65 @@ ajuste ajuste
 
 I. Por el análisis, evaluación de la solicitud y, en su caso, la expedición del título de permiso relacionados con la distribución, almacenamiento o transporte de gas natural, de conformidad con las siguientes cuotas:
 
-(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009) (ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009) (ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 a). Permisos de distribución de gas natural $512,348.00
 
-(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009) (ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009) (ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 b). Permisos de transporte de gas natural para usos propios en su modalidad de sociedades de autoabastecimiento $311,459.00
 
-(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009) (ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009) (ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 c). Permisos de transporte de gas natural de acceso abierto $512,348.00
 
-(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009) (ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009) (ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 d). Permisos de transporte de gas natural para usos propios $253,868.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 e). Tratándose de permisos para
 
 el almacenamiento de gas
 
-natural: $3,312,734.16 $3,312,734.00
+natural: $3,312,734.16 $3,312,734
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 f). Tratándose de permisos de
 
 almacenamiento de gas natural
 
-para usos propios: $128,930.64 $128,931.00
+para usos propios: $128,930.64 $128,931
 
 II. Por la supervisión de los permisos de gas natural, se pagará anualmente el derecho, conforme a las siguientes cuotas:
 
-(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009) (ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009) (ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 a). Permisos de distribución de gas natural $405,277.00
 
-(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009) (ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009) (ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 b). Permisos de transporte de gas natural de acceso abierto $367,708.00
 
-(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009) (ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009) (ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 c). Permisos de almacenamiento de gas natural $493,183.00
 
-(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009) (ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009) (ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 d). Permisos de transporte de gas natural para usos propios $144,471.00
 
-(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009) (ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009) (ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 e). Permisos de almacenamiento de gas natural para usos propios $93,863.00
 
-ADICIONADO, D.O.F. 27 DE NOVIEMBRE DE 2009) (ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ADICIONADO, D.O.F. 27 DE NOVIEMBRE DE 2009) (ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 f). Permisos de transporte de gas natural para usos propios en su modalidad de sociedades de autoabastecimiento $187,032.00
 
-(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2009) (ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2009) (ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 III. Por la modificación del permiso de distribución, transporte o almacenamiento de gas natural que por concepto de la revisión periódica al término de cada periodo de cinco años realice la Comisión Reguladora de Energía, de conformidad a las disposiciones legales aplicables $343,411.00
 
@@ -5207,19 +5241,19 @@ Se pagarán derechos en materia de gas licuado de petróleo por los servicios qu
 
 I. Por el análisis, evaluación de la solicitud y, en su caso, la expedición del permiso para la distribución, el almacenamiento y el transporte de gas licuado de petróleo por medio de ductos, conforme a las siguientes cuotas:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 a). Permisos para la distribución de gas licuado de petróleo por medio de ductos $503,844.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 b). Permisos para el transporte de gas licuado de petróleo por medio de ductos $503,844.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 c). Permisos para el transporte de gas licuado de petróleo por ductos para autoconsumo $190,402.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 d). Permisos para el almacenamiento de gas licuado de petróleo mediante planta de suministro o depósito $503,844.00
 
@@ -5229,19 +5263,19 @@ d). Permisos para el almacenamiento de gas licuado de petróleo mediante planta 
 
 II. Por la supervisión de los permisos en materia de gas licuado de petróleo, se pagará anualmente el derecho de supervisión conforme a las siguientes cuotas:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 a). Permisos para la distribución de gas licuado de petróleo por medio de ductos $405,277.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 b). Permisos para el transporte de gas licuado de petróleo por medio de ductos $367,708.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 c). Permisos para el transporte de gas licuado de petróleo por ductos para autoconsumo $144,471.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 d). Permisos para el almacenamiento de gas licuado de petróleo mediante planta de suministro o depósito $493,166.00
 
@@ -5259,15 +5293,15 @@ b). (DEROGADO, D.O.F. 24 DE DICIEMBRE DE 2007)
 
 Por la supervisión de la operación y el mantenimiento de las actividades de transporte y distribución por medio de ductos de los productos que se obtengan de la refinación del petróleo y de los petroquímicos básicos, así como de los sistemas de almacenamiento que se encuentren directamente vinculados a éstos, Petróleos Mexicanos y sus organismos subsidiarios pagarán anualmente derechos conforme a las siguientes cuotas:
 
-ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I. Por las terminales de almacenamiento y recepción $493,166.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II. Por los ductos interconectados a las terminales de almacenamiento y recepción $397,708.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 III. Por otros sistemas de transporte por medio de ductos $144,471.00
 
@@ -5279,11 +5313,11 @@ III. Por otros sistemas de transporte por medio de ductos $144,471.00
 
 Por el análisis y, en su caso, la expedición de la resolución sobre las propuestas de Petróleos Mexicanos y sus organismos subsidiarios, dichos organismos pagarán derechos conforme a las siguientes cuotas:
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I. Respecto de los términos y condiciones de las ventas de primera mano del gas, del combustóleo y de los petroquímicos básicos $495,275.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II. Respecto de los términos y condiciones del transporte y distribución por medio de ductos de los productos que se obtengan de la refinación del petróleo y de los petroquímicos básicos; así como los sistemas de almacenamiento que se encuentren directamente vinculados a éstos, o que forman parte integral de las terminales de importación o distribución de dichos productos $504,464.00
 
@@ -5299,7 +5333,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I.- Por el otorgamiento del
 
@@ -5317,9 +5351,9 @@ mediante el sistema de
 
 calidad de la línea de
 
-producción $4,944.43 $4,944.00
+producción $4,944.43 $4,944
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II.- Por el análisis de la solicitud y,
 
@@ -5331,9 +5365,9 @@ de Gas Licuado de Petróleo, con
 
 excepción de los otorgados por la
 
-Comisión Reguladora de Energía $17,899.58 $17,900.00
+Comisión Reguladora de Energía $17,899.58 $17,900
 
-(ACTUALIZADO PRIMER PARRAFO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO PRIMER PARRAFO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 III.- Por la modificación de las
 
@@ -5347,13 +5381,13 @@ análisis de cada solicitud y, en
 
 su caso, el otorgamiento de
 
-autorizaciones $1,308.96 $1,309.00
+autorizaciones $1,308.96 $1,309
 
 > <small>(REFORMADA, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
 
 Tratándose de la autorización para instalar bodegas de distribución adicionales, se pagarán derechos por cada solicitud, independientemente del número de bodegas que se incluyan en la misma.
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 IV.- Por los servicios de
 
@@ -5367,15 +5401,15 @@ en el ramo del Petróleo,
 
 pagarán derechos por
 
-hora de verificación $715.90 $716.00
+hora de verificación $715.90 $716
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 V.- Por el estudio y trámite y, en su caso, la obtención del registro como empresa con equipo certificado, taller de equipos de carburación o centros de destrucción $1,175.00
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
+(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2010) (ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 60.
 
@@ -5383,7 +5417,7 @@ Por el análisis de la solicitud y, en su caso, por el otorgamiento de aprobacio
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2010
+(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2010) (ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 61.
 
@@ -5407,13 +5441,13 @@ Por el análisis de la solicitud y, en su caso, la autorización que emita la Se
 
 (DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2010)
 
-(ADICIONADO, D.O.F. 5 DE JUNIO DE 2009) (ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ADICIONADO, D.O.F. 5 DE JUNIO DE 2009) (ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 61-D.
 
 Por el análisis, evaluación de la solicitud y, en su caso, la expedición del título de permiso o autorización, de recuperación y aprovechamiento de gas asociado a los yacimientos de carbón mineral, se pagarán derechos conforme a la cuota de: $50,000.00
 
-(ADICIONADO, D.O.F. 27 DE NOVIEMBRE DE 2009) (ACTUALIZADO PRIMER PARRAFO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ADICIONADO, D.O.F. 27 DE NOVIEMBRE DE 2009) (ACTUALIZADO PRIMER PARRAFO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 61-E.
 
@@ -5445,7 +5479,7 @@ Tratándose de solicitudes para la autorización de prórroga, transferencia y m
 
 Por el estudio, trámite y resolución de cada solicitud de concesión o asignación minera, se pagarán los derechos que resulten de aplicar la siguiente tabla al número de hectáreas que pretende amparar la solicitud:
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 Rango de Superficie
 
@@ -5495,13 +5529,13 @@ ajuste ajuste
 
 I.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 2000)
 
-ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II.- Reducción, división, identificación
 
-o unificación de superficie $1,922.02 $1,922.00
+o unificación de superficie $1,922.02 $1,922
 
-ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 III.- Agrupamiento de concesiones
 
@@ -5509,15 +5543,15 @@ mineras, la incorporación o
 
 separación de éstas a uno o más
 
-de ellos $273.01 $273.00
+de ellos $273.01 $273
 
-ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 IV.- Expedición de duplicado del
 
 título de concesión o asignación
 
-minera $328.13 $328.00
+minera $328.13 $328
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -5547,7 +5581,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I.- Por cada plano a escala 1:50,000
 
@@ -5557,23 +5591,23 @@ topográficas del Instituto Nacional
 
 de Estadística, Geografía
 
-e Informática $2,743.98 $2,744.00
+e Informática $2,743.98 $2,744
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II.- Por cada porción de las hojas
 
 anteriores de 5 minutos de latitud y
 
-de longitud $273.01 $273.00
+de longitud $273.01 $273
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 III.- Por cada porción a que se
 
 refiere la fracción anterior a escala
 
-1:25,000 $1,097.49 $1,097.00
+1:25,000 $1,097.49 $1,097
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -5629,7 +5663,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I.- Suscripción o adquisición de
 
@@ -5645,9 +5679,9 @@ o adquisiciones con regulación
 
 específica y en las que la inversión
 
-extranjera participe en más del 49% $5,045.53 $5,046.00
+extranjera participe en más del 49% $5,045.53 $5,046
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II.- Constitución de fideicomisos
 
@@ -5657,9 +5691,9 @@ virtud de los cuales se deriven
 
 derechos en favor de la inversión
 
-extranjera $5,045.53 $5,046.00
+extranjera $5,045.53 $5,046
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 III.- Por afectación de acciones
 
@@ -5671,9 +5705,9 @@ neutra, o la emisión de series
 
 especiales de acciones neutras
 
-por parte de sociedades mexicanas $4,894.36 $4,894.00
+por parte de sociedades mexicanas $4,894.36 $4,894
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 IV.- Entrada a nuevos campos de
 
@@ -5683,9 +5717,9 @@ requiera resolución favorable de la
 
 Comisión Nacional de Inversiones
 
-Extranjeras $968.32 $968.00
+Extranjeras $968.32 $968
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 V.- Autorización para la inscripción
 
@@ -5697,9 +5731,9 @@ Propiedad y el Comercio, o para
 
 su establecimiento en la República
 
-Mexicana $1,417.13 $1,417.00
+Mexicana $1,417.13 $1,417
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 VI.- Replanteamiento a resoluciones
 
@@ -5707,17 +5741,17 @@ específicas o autorizaciones y
 
 exención de cumplimiento de
 
-programas y compromisos $4,847.11 $4,847.00
+programas y compromisos $4,847.11 $4,847
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 VII.- Reconsideraciones o
 
 revisiones de resoluciones
 
-específicas $580.92 $581.00
+específicas $580.92 $581
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 VIII.- Por recepción, estudio o
 
@@ -5729,21 +5763,21 @@ que se presenten sobre la
 
 legislación aplicable en materia
 
-de inversión extranjera $486.43 $486.00
+de inversión extranjera $486.43 $486
 
 > <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
 IX.- Por recepción y estudio de solicitudes para el otorgamiento de prórrogas:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-a).- Por la primera prórroga $486.43 $486.00
+a).- Por la primera prórroga $486.43 $486
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 b).- Por la segunda y ulteriores
 
-prórrogas $973.03 $973.00
+prórrogas $973.03 $973
 
 X.- (DEROGADA, D.O.F. 28 DE DICIEMBRE DE 1994)
 
@@ -5769,7 +5803,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 73-A.
 
@@ -5781,7 +5815,7 @@ uso de las marcas y contraseñas
 
 oficiales, se pagarán derechos
 
-conforme a la cuota de: $448.20 $448.00
+conforme a la cuota de: $448.20 $448
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
@@ -5807,7 +5841,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I.- Ingeniero titulado con estudios
 
@@ -5817,9 +5851,9 @@ transmisión y distribución de
 
 instalaciones en fuerza y
 
-alumbrado $1,454.95 $1,455.00
+alumbrado $1,454.95 $1,455
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II.- Pasante de ingeniería o
 
@@ -5831,15 +5865,15 @@ de transmisión y distribución e
 
 instalaciones en fuerza y
 
-alumbrado $1,162.06 $1,162.00
+alumbrado $1,162.06 $1,162
 
-ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 III.- Técnico a nivel secundaria
 
 con estudios de instalaciones en
 
-fuerza y alumbrado $727.36 $727.00
+fuerza y alumbrado $727.36 $727
 
 Por el refrendo del registro a que se refiere este artículo se pagará el 50% de la cuota del derecho que corresponda.
 
@@ -5847,7 +5881,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 73-F.
 
@@ -5871,7 +5905,7 @@ de verificación, se pagará el
 
 derecho de normas conforme
 
-a la cuota de $472.22 $472.00
+a la cuota de $472.22 $472
 
 > <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
 
@@ -5925,7 +5959,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I. Por el trámite y estudio de
 
@@ -5935,9 +5969,9 @@ como prestador del servicio
 
 de certificación para la emisión
 
-de certificados digitales $36,242.94 $36,243.00
+de certificados digitales $36,242.94 $36,243
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II. Por la acreditación como
 
@@ -5945,9 +5979,9 @@ prestador del servicio de
 
 certificación para la emisión
 
-de certificados digitales $173,671.88 $173,672.00
+de certificados digitales $173,671.88 $173,672
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 III. Por el cese voluntario
 
@@ -5957,9 +5991,9 @@ de certificación para la
 
 emisión de certificados
 
-digitales $127,305.35 $127,305.00
+digitales $127,305.35 $127,305
 
-ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 IV. Por el examen para
 
@@ -5969,9 +6003,9 @@ como prestador del servicio
 
 de certificación para la emisión
 
-de certificados digitales $3,628.03 $3,628.00
+de certificados digitales $3,628.03 $3,628
 
-ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 V. Por el trámite y estudio de
 
@@ -5989,9 +6023,9 @@ mensajes de datos u otros
 
 servicios adicionales relativos
 
-a la firma electrónica $18,218.45 $18,218.00
+a la firma electrónica $18,218.45 $18,218
 
-ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 VI. Por la acreditación de un
 
@@ -6007,7 +6041,7 @@ mensajes de datos u otros
 
 servicios adicionales relativos
 
-a la firma electrónica $111,860.19 $111,860.00
+a la firma electrónica $111,860.19 $111,860
 
 (REUBICADA CON LOS ARTICULOS QUE LA INTEGRAN [N. DE E. ANTES SECCION SEPTIMA DEL CAPITULO VI], D.O.F. 30 DE DICIEMBRE DE 1983)
 
@@ -6133,7 +6167,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I.- Por cada certificado fitosanitario
 
@@ -6141,9 +6175,9 @@ para la movilización nacional de
 
 productos y subproductos vegetales
 
-sujetos a regulación fitosanitaria $75.01 $75.00
+sujetos a regulación fitosanitaria $75.01 $75
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II.- Por cada certificado zoosanitario
 
@@ -6153,9 +6187,9 @@ animales vivos, productos y
 
 subproductos animales, sujetos a
 
-regulación zoosanitaria $75.01 $75.00
+regulación zoosanitaria $75.01 $75
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 III.- Por cada certificado fitosanitario
 
@@ -6163,9 +6197,9 @@ internacional para la exportación
 
 de vegetales, sus productos y
 
-subproductos $375.78 $376.00
+subproductos $375.78 $376
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 IV.- Por cada certificado zoosanitario
 
@@ -6179,9 +6213,9 @@ farmacéuticos, biológicos y
 
 alimenticios para uso en animales
 
-y consumo por éstos $375.78 $376.00
+y consumo por éstos $375.78 $376
 
-ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 V.- Por cada certificado fitosanitario
 
@@ -6189,9 +6223,9 @@ internacional para la importación de
 
 vegetales, sus productos y
 
-subproductos $1,620.41 $1,620.00
+subproductos $1,620.41 $1,620
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 VI.- Por cada certificado zoosanitario
 
@@ -6205,9 +6239,9 @@ químicos, farmacéuticos, biológicos
 
 y alimenticios para uso en animales
 
-y consumo por éstos $1,620.41 $1,620.00
+y consumo por éstos $1,620.41 $1,620
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 VII.- Por cada certificación de la
 
@@ -6219,9 +6253,9 @@ Federal, cuando sea realizada
 
 por la Comisión Nacional de
 
-Sanidad Agropecuaria $14,789.93 $14,790.00
+Sanidad Agropecuaria $14,789.93 $14,790
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 VIII.- Por la certificación
 
@@ -6243,7 +6277,7 @@ tratamiento cuarentenario,
 
 centros de acopio de granos y
 
-semillas regulados $726.66 $727.00
+semillas regulados $726.66 $727
 
 Por duplicado o renovación de los certificados a que se refiere este artículo, así como por la renovación de la certificación a que se refieren las fracciones VII y VIII, se pagará el 50% de la cuota correspondiente.
 
@@ -6263,13 +6297,13 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I.- Por el dictamen técnico de
 
 efectividad biológica de plaguicidas
 
-agrícolas o pecuarios $1,816.72 $1,817.00
+agrícolas o pecuarios $1,816.72 $1,817
 
 II.- (DEROGADA, D.O.F. 1 DE DICIEMBRE DE 2004)
 
@@ -6287,29 +6321,29 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-I.- Organismos de normalización $34,332.85 $34,333.00
+I.- Organismos de normalización $34,332.85 $34,333
 
-ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-II.- Organismos de certificación $66,410.34 $66,410.00
+II.- Organismos de certificación $66,410.34 $66,410
 
 III.- Unidades de verificación:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-a).- Personas físicas $626.38 $626.00
+a).- Personas físicas $626.38 $626
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-b).- Personas morales $5,072.12 $5,072.00
+b).- Personas morales $5,072.12 $5,072
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-IV.- Laboratorios de pruebas $2,004.72 $2,005.00
+IV.- Laboratorios de pruebas $2,004.72 $2,005
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 V.- Médicos veterinarios para brindar
 
@@ -6317,11 +6351,11 @@ servicios de asistencia técnica y
 
 capacitación zoosanitaria a los
 
-productores $626.38 $626.00
+productores $626.38 $626
 
 Por duplicado o refrendo de la aprobación a que se refiere este artículo se pagará el 50% de la cuota correspondiente.
 
-(ADICIONADO, D.O.F. 27 DE NOVIEMBRE DE 2009) (ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ADICIONADO, D.O.F. 27 DE NOVIEMBRE DE 2009) (ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 86-D
 
@@ -6337,13 +6371,13 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I.- Por la expedición del formato
 
 de requisitos técnico-fitosanitarios
 
-para importación $250.49 $250.00
+para importación $250.49 $250
 
 II.- (DEROGADA, D.O.F. 1 DE DICIEMBRE DE 2004)
 
@@ -6355,7 +6389,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009) (ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009) (ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 86-G.
 
@@ -6377,7 +6411,7 @@ el derecho por inspección
 
 veterinaria oficial, conforme
 
-a la cuota de $983.53 $984.00
+a la cuota de $983.53 $984
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
@@ -6399,35 +6433,35 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I.- Por el estudio y trámite de la
 
 solicitud de protección de derechos
 
-del obtentor $11,778.37 $11,778.00
+del obtentor $11,778.37 $11,778
 
-ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II.- Por la expedición de la
 
-constancia de presentación $626.38 $626.00
+constancia de presentación $626.38 $626
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 III.- Por la expedición del
 
-título del obtentor $5,763.76 $5,764.00
+título del obtentor $5,763.76 $5,764
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 IV.- Por el reconocimiento
 
-del derecho de prioridad $626.38 $626.00
+del derecho de prioridad $626.38 $626
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-V.- Por cambio de denominación $1,591.25 $1,591.00
+V.- Por cambio de denominación $1,591.25 $1,591
 
 > <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
@@ -6439,29 +6473,29 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I.- Por el registro de sucesión de
 
-los derechos de protección $1,113.70 $1,114.00
+los derechos de protección $1,113.70 $1,114
 
-ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II.- Por cada copia certificada del
 
-Título $318.07 $318.00
+Título $318.07 $318
 
-REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2009) (ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2009) (ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 III.- Por el registro de la transmisión total o parcial del derecho $585.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 IV.- Copia de la caracterización de
 
-la variedad protegida $318.11 $318.00
+la variedad protegida $318.11 $318
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 V.- Por la presentación de
 
@@ -6469,13 +6503,13 @@ correcciones e información
 
 adicional por causa imputable
 
-al usuario. $206.69 $207.00
+al usuario. $206.69 $207
 
 cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 89.
 
@@ -6489,7 +6523,7 @@ de cualquier especie, se pagará el
 
 derecho del obtentor, conforme a
 
-la cuota de: $2,458.04 $2,458.00
+la cuota de: $2,458.04 $2,458
 
 ###### ARTICULO 89-A.
 
@@ -6511,15 +6545,15 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I.- Por la expedición de certificado
 
 de origen para exportación, por
 
-cada uno $276.98 $277.00
+cada uno $276.98 $277
 
-ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II.- Por la expedición de certificados
 
@@ -6531,17 +6565,17 @@ de calidad, por etiqueta $1.0892
 
 III.- Por la autorización a personas físicas o morales como organismos de certificación de semillas o como mantenedores de la identidad varietal:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-a).- Autorización $7,518.01 $7,518.00
+a).- Autorización $7,518.01 $7,518
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-b).- Por refrendo anual $3,758.93 $3,759.00
+b).- Por refrendo anual $3,758.93 $3,759
 
 c).- (DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 IV.- Por el estudio de la solicitud y,
 
@@ -6549,13 +6583,13 @@ en su caso, la inscripción en el
 
 catálogo de variedades factibles
 
-de certificación $230.98 $231.00
+de certificación $230.98 $231
 
-(ADICIONADA, D.O.F. 27 DE NOVIEMBRE DE 2009) (ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ADICIONADA, D.O.F. 27 DE NOVIEMBRE DE 2009) (ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 V.- Por la expedición del certificado internacional de calidad de semilla, por etiqueta $3.00
 
-(ADICIONADA, D.O.F. 27 DE NOVIEMBRE DE 2009) (ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ADICIONADA, D.O.F. 27 DE NOVIEMBRE DE 2009) (ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 VI.- Por la expedición de certificado internacional de calidad, para semilla finalmente no certificada $300.00
 
@@ -6573,47 +6607,47 @@ VI.- Por la expedición de certificado internacional de calidad, para semilla fi
 
 Por la expedición de cada certificado de sanidad acuícola, se pagará el derecho de certificación de sanidad acuícola, conforme a las siguientes cuotas:
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I. Para importación de especies acuáticas, sus productos y subproductos, así como de productos biológicos, químicos, farmacéuticos o alimenticios para uso o consumo de dichas especies $1,700.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II. Para exportación de especies acuáticas, sus productos y subproductos, así como de productos biológicos, químicos, farmacéuticos o alimenticios para uso o consumo de dichas especies $500.00
 
-ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 III. Para tránsito internacional de especies acuáticas, sus productos y subproductos, así como productos biológicos, químicos, farmacéuticos o alimenticios para uso o consumo de dichas especies $415.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 IV. Para movilización de especies acuícolas vivas, sus productos y subproductos, así como de productos biológicos, químicos, farmacéuticos o alimenticios para uso o consumo de dichas especies $400.00
 
-ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 V. Para establecimientos en operación en los que se produzcan, procesen, comercialicen, transporten y almacenen, productos y subproductos acuícolas, así como productos químicos, biológicos, farmacéuticos y alimenticios para el uso o consumo de dichas especies $2,200.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 VI. Para uso y aplicación de antibióticos, medicamentos veterinarios, aditivos y demás sustancias químicas a los organismos de cultivo $970.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 VII. Para introducción de especies acuícolas vivas a un cuerpo de agua de jurisdicción federal $400.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 VIII. Para instalaciones en las que se realicen actividades acuícolas $2,200.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 IX. Para especies acuáticas vivas capturadas de poblaciones naturales que se destinen a la acuacultura $400.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 X. Para unidades de cuarentena $2,200.00
 
-(ADICIONADO, D.O.F. 27 DE NOVIEMBRE DE 2009) (ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ADICIONADO, D.O.F. 27 DE NOVIEMBRE DE 2009) (ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 90-B.
 
@@ -6645,19 +6679,19 @@ Por el estudio de la solicitud y, en su caso, la expedición del certificado de 
 
 Por los servicios de recepción y análisis de la solicitud y, en su caso, la expedición de permisos en materia de organismos genéticamente modificados, se pagará el derecho por actividades relacionadas con la liberación al ambiente, conforme a las siguientes cuotas:
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I. Por el permiso de liberación experimental al ambiente de organismos genéticamente modificados, incluyendo su importación $41,681.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II. Por el permiso de liberación al ambiente en programa piloto de organismos genéticamente modificados, incluyendo su importación $41,681.00
 
-ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 III. Por el permiso de liberación comercial al ambiente de organismos genéticamente modificados, incluyendo su importación $41,681.00
 
-ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 Tratándose de la solicitud de reconsideración de resolución negativa de cada permiso a que se refiere este artículo, se pagará la cuota de $12,990.00
 
@@ -6683,7 +6717,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO PRIMER PARRAFO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO PRIMER PARRAFO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 91.
 
@@ -6703,7 +6737,7 @@ y asignatarios, se pagará el
 
 derecho de verificación, por cada
 
-visita, conforme a la cuota de $7,106.46 $7,106.00
+visita, conforme a la cuota de $7,106.46 $7,106
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -6727,31 +6761,31 @@ cuota sin cuota con
 
 ajuste ajuste
 
-ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I.- Por el estudio de la documentación
 
 inherente a la solicitud para obtener
 
-uno o más títulos de concesión $26,664.98 $26,665.00
+uno o más títulos de concesión $26,664.98 $26,665
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II.- Por la expedición del título de
 
-concesión, por cada uno $19,172.99 $19,173.00
+concesión, por cada uno $19,172.99 $19,173
 
-ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 III.- Por el estudio de la solicitud de
 
-prórroga del título de concesión $10,949.14 $10,949.00
+prórroga del título de concesión $10,949.14 $10,949
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 IV.- Por la autorización de prórroga
 
-de concesión $8,605.61 $8,606.00
+de concesión $8,605.61 $8,606
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -6763,7 +6797,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I.- Por el estudio de la solicitud
 
@@ -6771,27 +6805,27 @@ y de la documentación técnica,
 
 administrativa y legal inherente
 
-a la misma $30,344.94 $30,345.00
+a la misma $30,344.94 $30,345
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II.- Por la expedición del título
 
-de concesión $34,319.28 $34,319.00
+de concesión $34,319.28 $34,319
 
-ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 III.- Por el estudio de la solicitud
 
 de prórroga del título de
 
-concesión $21,441.77 $21,442.00
+concesión $21,441.77 $21,442
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 IV.- Por la autorización de
 
-prórroga de concesión $18,176.27 $18,176.00
+prórroga de concesión $18,176.27 $18,176
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -6803,13 +6837,13 @@ cuota sin cuota con
 
 ajuste ajuste
 
-ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-I.- Por el estudio $10,722.03 $10,722.00
+I.- Por el estudio $10,722.03 $10,722
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-II.- Por la autorización $4,924.66 $4,925.00
+II.- Por la autorización $4,924.66 $4,925
 
 No pagarán este derecho las instituciones de enseñanza educativa sin fines de lucro cuando utilicen las bandas de frecuencia para investigación.
 
@@ -6823,7 +6857,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I.- Por el estudio de la solicitud y
 
@@ -6831,25 +6865,25 @@ de la documentación técnica,
 
 administrativa y legal inherente
 
-a la misma $25,102.64 $25,103.00
+a la misma $25,102.64 $25,103
 
-ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II.- Por la expedición del título de
 
-concesión $16,493.78 $16,494.00
+concesión $16,493.78 $16,494
 
-ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 III.- Por el estudio de la solicitud de
 
-prórroga del título de concesión $8,826.77 $8,827.00
+prórroga del título de concesión $8,826.77 $8,827
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 IV.- Por la autorización de prórroga
 
-de concesión $8,247.63 $8,248.00
+de concesión $8,247.63 $8,248
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -6861,7 +6895,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I.- Por el estudio de la solicitud
 
@@ -6869,27 +6903,27 @@ y de la documentación técnica,
 
 administrativa y legal inherente
 
-a la misma $30,760.20 $30,760.00
+a la misma $30,760.20 $30,760
 
-ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II.- Por la expedición del título de
 
-Concesión $34,475.17 $34,475.00
+Concesión $34,475.17 $34,475
 
-ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 III.- Por el estudio de la solicitud
 
 de prórroga del título de
 
-concesión $18,176.27 $18,176.00
+concesión $18,176.27 $18,176
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 IV.- Por la autorización de prórroga
 
-de concesión $18,176.27 $18,176.00
+de concesión $18,176.27 $18,176
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
@@ -6901,67 +6935,67 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I.- Por el registro de representantes
 
 o apoderados, después de los
 
-primeramente designados $6,048.87 $6,049.00
+primeramente designados $6,048.87 $6,049
 
 II.- Por cambio en la titularidad de las concesiones:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-a).- Por el estudio $27,097.75 $27,098.00
+a).- Por el estudio $27,097.75 $27,098
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-b).- Por la autorización $10,048.64 $10,049.00
+b).- Por la autorización $10,048.64 $10,049
 
 III.- Por cambio en la escritura constitutiva del concesionario:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-a).- Por el estudio $15,403.92 $15,404.00
+a).- Por el estudio $15,403.92 $15,404
 
-ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-b).- Por la autorización $6,849.17 $6,849.00
+b).- Por la autorización $6,849.17 $6,849
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
 IV.- Por el estudio y, en su caso, autorización para prestar un servicio adicional:
 
-ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-a).- Por el estudio $11,496.44 $11,496.00
+a).- Por el estudio $11,496.44 $11,496
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-b).- Por la autorización $3,605.11 $3,605.00
+b).- Por la autorización $3,605.11 $3,605
 
 V.- Por ampliación al área de cobertura de la red:
 
-ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-a).- Por el estudio. $9,956.37 $9,956.00
+a).- Por el estudio. $9,956.37 $9,956
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-b).- Por la autorización. $3,605.11 $3,605.00
+b).- Por la autorización. $3,605.11 $3,605
 
 VI.- Por modificación de las características de uso, aprovechamiento o explotación de frecuencias o bandas de frecuencias concesionadas:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-a).- Por el estudio. $8,939.73 $8,940.00
+a).- Por el estudio. $8,939.73 $8,940
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-b).- Por la autorización. $3,605.11 $3,605.00
+b).- Por la autorización. $3,605.11 $3,605
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 VII.- Por el estudio de prórrogas,
 
@@ -6973,31 +7007,31 @@ el título de concesión y, en su
 
 caso, por la autorización de las
 
-prórrogas. $2,730.06 $2,730.00
+prórrogas. $2,730.06 $2,730
 
 > <small>(ADICIONADA, D.O.F. 1 DE ENERO DE 2002)</small>
 
 VIII.- Por cambio de razón social o cambio en la titularidad de acciones o partes sociales y de aportaciones de capital social de sociedades mercantiles:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-a).- Por el estudio $5,783.09 $5,783.00
+a).- Por el estudio $5,783.09 $5,783
 
-ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-b).- Por la autorización $1,845.27 $1,845.00
+b).- Por la autorización $1,845.27 $1,845
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
 IX.- Por el estudio y autorización de otras modificaciones de los títulos de concesión, no consideradas en las fracciones anteriores:
 
-ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-a).- Por el estudio $8,735.32 $8,735.00
+a).- Por el estudio $8,735.32 $8,735
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-b).- Por la autorización $3,522.69 $3,523.00
+b).- Por la autorización $3,522.69 $3,523
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
@@ -7009,7 +7043,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I.- Por el estudio de la solicitud
 
@@ -7017,23 +7051,23 @@ y de la documentación técnica,
 
 administrativa y legal inherente
 
-a la misma $17,400.63 $17,401.00
+a la misma $17,400.63 $17,401
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-II.- Por la expedición del permiso $19,368.69 $19,369.00
+II.- Por la expedición del permiso $19,368.69 $19,369
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 III.- Por el estudio de la solicitud
 
-de prórroga del permiso $13,769.96 $13,770.00
+de prórroga del permiso $13,769.96 $13,770
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 IV.- Por la autorización de
 
-prórroga del permiso $11,537.83 $11,538.00
+prórroga del permiso $11,537.83 $11,538
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -7045,51 +7079,51 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I.- Por el registro de representantes
 
 o apoderados, después de los
 
-primeramente designados $7,730.57 $7,731.00
+primeramente designados $7,730.57 $7,731
 
 > <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 II.- Por cambio en la titularidad del permiso:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-a).- Por el estudio $13,582.69 $13,583.00
+a).- Por el estudio $13,582.69 $13,583
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-b).- Por la autorización $4,593.47 $4,593.00
+b).- Por la autorización $4,593.47 $4,593
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 III.- Por cambios en la escritura constitutiva del permisionario:
 
-ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-a).- Por el estudio $2,716.40 $2,716.00
+a).- Por el estudio $2,716.40 $2,716
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-b).- Por la autorización $919.61 $920.00
+b).- Por la autorización $919.61 $920
 
 > <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 IV.- Por ampliación al área de cobertura de los servicios:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-a).- Por el estudio $11,720.79 $11,721.00
+a).- Por el estudio $11,720.79 $11,721
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-b).- Por la autorización $5,394.98 $5,395.00
+b).- Por la autorización $5,394.98 $5,395
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 V.- Por el estudio de prórrogas
 
@@ -7099,7 +7133,7 @@ obligaciones establecidas en el
 
 permiso y, en su caso, por la
 
-autorización de las prórrogas $1,606.25 $1,606.00
+autorización de las prórrogas $1,606.25 $1,606
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
 
@@ -7111,17 +7145,17 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I.- Por la autorización de modificaciones
 
-que requieran estudio técnico $5,283.60 $5,284.00
+que requieran estudio técnico $5,283.60 $5,284
 
-ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II.- Por la autorización de modificaciones
 
-que no requieran estudio técnico $1,883.66 $1,884.00
+que no requieran estudio técnico $1,883.66 $1,884
 
 ###### ARTICULO 100-A.
 
@@ -7137,17 +7171,17 @@ cuota sin cuota con
 
 ajuste ajuste
 
-ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I.- Por el estudio de la solicitud y de
 
 la documentación técnica administrativa
 
-y legal inherente a la misma $10,825.04 $10,825.00
+y legal inherente a la misma $10,825.04 $10,825
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-II.- Por la expedición del permiso $4,949.50 $4,949.00
+II.- Por la expedición del permiso $4,949.50 $4,949
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -7159,51 +7193,51 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I.- Por el registro de representantes o
 
 apoderados, después de los
 
-primeramente designados $4,621.77 $4,622.00
+primeramente designados $4,621.77 $4,622
 
 > <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 II.- Por cambio en la titularidad del permiso:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-a).- Por el estudio $13,582.69 $13,583.00
+a).- Por el estudio $13,582.69 $13,583
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-b).- Por la autorización $4,593.47 $4,593.00
+b).- Por la autorización $4,593.47 $4,593
 
 > <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 III.- Por cambio en la escritura constitutiva del permisionario:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO],D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-a).- Por el estudio $3,648.08 $3,648.00
+a).- Por el estudio $3,648.08 $3,648
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-b).- Por la autorización $919.61 $920.00
+b).- Por la autorización $919.61 $920
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
 IV. Por cambio en las características técnicas y de operación del permiso de la estación terrena transmisora:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-a).- Por el estudio $3,932.87 $3,933.00
+a).- Por el estudio $3,932.87 $3,933
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-b).- Por la autorización $1,600.49 $1,600.00
+b).- Por la autorización $1,600.49 $1,600
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 V. Por el estudio de prórrogas solicitadas
 
@@ -7211,7 +7245,7 @@ para el cumplimiento de obligaciones
 
 establecidas en el permiso y, en su caso,
 
-por la autorización de las prórrogas. $1,606.25 $1,606.00
+por la autorización de las prórrogas. $1,606.25 $1,606
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -7237,25 +7271,25 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I.- Por el estudio de la solicitud
 
-de asignación $4,736.33 $4,736.00
+de asignación $4,736.33 $4,736
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II.- Por el otorgamiento del título
 
-de asignación $5,708.41 $5,708.00
+de asignación $5,708.41 $5,708
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 III.- Por la autorización de
 
 modificaciones o ampliaciones
 
-al título de asignación $3,380.79 $3,381.00
+al título de asignación $3,380.79 $3,381
 
 > <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
@@ -7391,7 +7425,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 120.
 
@@ -7415,7 +7449,7 @@ entrada en vigor de la Ley Federal de
 
 Telecomunicaciones, se pagará la
 
-cuota de $7,620.79 $7,621.00
+cuota de $7,620.79 $7,621
 
 ###### ARTICULO 120-A.
 
@@ -7447,97 +7481,97 @@ ajuste ajuste
 
 I.- Modificación del sistema:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-a).- Por el estudio $13,989.55 $13,990.00
+a).- Por el estudio $13,989.55 $13,990
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-b).- Por la autorización $2,257.54 $2,258.00
+b).- Por la autorización $2,257.54 $2,258
 
 > <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 II.- Generación de nuevos canales:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-a).- Por el estudio $3,223.29 $3,223.00
+a).- Por el estudio $3,223.29 $3,223
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-b).- Por la autorización $972.03 $972.00
+b).- Por la autorización $972.03 $972
 
 > <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 III.- Por cambios en la escritura constitutiva del concesionario:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-a).- Por el estudio $3,504.17 $3,504.00
+a).- Por el estudio $3,504.17 $3,504
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-b).- Por la autorización $1,167.94 $1,168.00
+b).- Por la autorización $1,167.94 $1,168
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 IV.- Por el registro de representantes
 
 o apoderados, después de los
 
-primeramente designados $1,868.64 $1,869.00
+primeramente designados $1,868.64 $1,869
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
 V.- Por cambio en la titularidad de las concesiones, traspasos, arrendamientos o cesión de derechos en los títulos de concesión:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-a).- Por el estudio $7,479.20 $7,479.00
+a).- Por el estudio $7,479.20 $7,479
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-b).- Por la autorización $807.91 $808.00
+b).- Por la autorización $807.91 $808
 
 > <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 VI.- Por cambio en la titularidad de las acciones o partes sociales y de aportaciones de capital social de sociedades mercantiles:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-a).- Por el estudio $5,918.42 $5,918.00
+a).- Por el estudio $5,918.42 $5,918
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-b).- Por la autorización $1,888.44 $1,888.00
+b).- Por la autorización $1,888.44 $1,888
 
 > <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 VII.- Ampliación del sistema de otra población:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-a).- Por el estudio $11,367.57 $11,368.00
+a).- Por el estudio $11,367.57 $11,368
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-b).- Por la autorización $3,471.47 $3,471.00
+b).- Por la autorización $3,471.47 $3,471
 
 > <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 VIII.- Por la autorización de prórroga de la concesión:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 a).- Por el estudio de la solicitud de
 
-prórroga del título de concesión $14,017.64 $14,018.00
+prórroga del título de concesión $14,017.64 $14,018
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 b).- Por la autorización de prórroga del
 
-título de concesión $4,672.48 $4,672.00
+título de concesión $4,672.48 $4,672
 
 ###### ARTICULO 123-A.
 
@@ -7581,23 +7615,23 @@ ajuste ajuste
 
 I.- Por estaciones de radio en la banda de 535 a 1705 Kilohertz (AM), de 3 a 30 Megahertz (OC) y de 88 a 108 Megahertz (FM):
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-a).-Por el estudio de la solicitud y
+a).- Por el estudio de la solicitud y
 
 de la documentación inherente
 
-a la misma $5,011.96 $5,012.00
+a la misma $5,011.96 $5,012
 
 b).- (DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 c).- Por expedición del título de
 
-concesión $9,344.93 $9,345.00
+concesión $9,344.93 $9,345
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 d).- Por el estudio de la
 
@@ -7605,37 +7639,37 @@ documentación solicitada con
 
 motivo de la expedición del
 
-título de concesión $2,505.91 $2,506.00
+título de concesión $2,505.91 $2,506
 
 > <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 II.- Por cada estudio de solicitud y documentación inherente a la misma, de cambios o modificaciones de características técnicas, administrativas o legales correspondiente a:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 a).- Equipo de transmisión principal
 
-o auxiliar $3,738.87 $3,739.00
+o auxiliar $3,738.87 $3,739
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-b).- Frecuencia $6,229.87 $6,230.00
+b).- Frecuencia $6,229.87 $6,230
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-c).- Potencia $6,229.87 $6,230.00
+c).- Potencia $6,229.87 $6,230
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-d).- Ubicación de los estudios $1,557.36 $1,557.00
+d).- Ubicación de los estudios $1,557.36 $1,557
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 e).- Ubicación de la planta
 
-transmisora $6,229.87 $6,230.00
+transmisora $6,229.87 $6,230
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 f).- Para instalar y operar un equipo
 
@@ -7643,41 +7677,41 @@ complementario de zona de sombra
 
 de estaciones de radiodifusoras en
 
-FM $3,535.95 $3,536.00
+FM $3,535.95 $3,536
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 g).- Horario de operación de estaciones
 
-de radio moduladas en amplitud $3,114.73 $3,115.00
+de radio moduladas en amplitud $3,114.73 $3,115
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 h).- Por estudio de mediciones de
 
-intensidad de campo $54,529.56 $54,530.00
+intensidad de campo $54,529.56 $54,530
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-i).- Distintivo de llamada $1,557.19 $1,557.00
+i).- Distintivo de llamada $1,557.19 $1,557
 
 j).- (DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 k).- Escritura constitutiva de sociedades
 
-mercantiles $4,672.24 $4,672.00
+mercantiles $4,672.24 $4,672
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 l).- Representante o apoderado
 
 legal después del primeramente
 
-aceptado $1,868.64 $1,869.00
+aceptado $1,868.64 $1,869
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 m).- Titularidad de acciones o partes
 
@@ -7685,15 +7719,15 @@ sociales y de aportaciones integrantes
 
 del capital social de sociedades
 
-mercantiles $3,114.73 $3,115.00
+mercantiles $3,114.73 $3,115
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 n).- Titularidad de los derechos de
 
-concesión $3,114.73 $3,115.00
+concesión $3,114.73 $3,115
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 III.- Por el otorgamiento de prórroga
 
@@ -7705,9 +7739,9 @@ así como para cumplir con la
 
 documentación fijada en dichas
 
-autorizaciones $7,269.91 $7,270.00
+autorizaciones $7,269.91 $7,270
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 IV.- Por el estudio y revisión del
 
@@ -7717,13 +7751,13 @@ cada estación que esté incluida
 
 en la concesión que se solicita
 
-refrendar $7,357.65 $7,358.00
+refrendar $7,357.65 $7,358
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 V.- Por la expedición del título del
 
-refrendo de la concesión $7,357.65 $7,358.00
+refrendo de la concesión $7,357.65 $7,358
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -7735,17 +7769,17 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I.- Por el estudio técnico y legal
 
-de la solicitud $3,738.87 $3,739.00
+de la solicitud $3,738.87 $3,739
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II.- Por la expedición de la
 
-Autorización $6,229.94 $6,230.00
+Autorización $6,229.94 $6,230
 
 > <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
@@ -7761,91 +7795,91 @@ ajuste ajuste
 
 I.- Por estaciones de televisión en las bandas de VHF (canales del 2 al 13) y UHF (canales del 14 al 69):
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 a).- Por el estudio de la solicitud y
 
 de la documentación inherente a
 
-la misma $5,011.96 $5,012.00
+la misma $5,011.96 $5,012
 
 b).- (DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 c).- Por la expedición del título de
 
-concesión $7,357.65 $7,358.00
+concesión $7,357.65 $7,358
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 d).- Por el estudio de la documentación
 
 solicitada con motivo de la expedición
 
-del título de concesión $2,505.91 $2,506.00
+del título de concesión $2,505.91 $2,506
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 II.- Por cada estudio de solicitud y documentación inherente a la misma, de cambios o modificaciones de características técnicas, administrativas o legales, correspondiente a:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 a).- Cambio de equipo transmisor
 
-principal o auxiliar $7,009.30 $7,009.00
+principal o auxiliar $7,009.30 $7,009
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-b).- Cambio de canal $9,344.97 $9,345.00
+b).- Cambio de canal $9,344.97 $9,345
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 c).- Cambio de potencia radiada
 
-aparente $9,344.97 $9,345.00
+aparente $9,344.97 $9,345
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 d).- Cambio de ubicación de los
 
-estudios $2,336.04 $2,336.00
+estudios $2,336.04 $2,336
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 e).- Cambio de ubicación de la
 
-planta transmisora $9,344.97 $9,345.00
+planta transmisora $9,344.97 $9,345
 
 f).- (DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 g).- Por estudio de mediciones de
 
-intensidad de campo $54,529.56 $54,530.00
+intensidad de campo $54,529.56 $54,530
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-h).- Distintivo de llamada $2,335.95 $2,336.00
+h).- Distintivo de llamada $2,335.95 $2,336
 
 i).- (DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 j).- Escritura constitutiva de
 
-sociedades mercantiles $7,008.66 $7,009.00
+sociedades mercantiles $7,008.66 $7,009
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 k).- Representante o apoderado
 
 legal, después del primeramente
 
-aceptado $2,335.95 $2,336.00
+aceptado $2,335.95 $2,336
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 l).- Titularidad de acciones o partes
 
@@ -7853,15 +7887,15 @@ sociales y de aportaciones integrantes
 
 del capital social de sociedades
 
-mercantiles $4,672.24 $4,672.00
+mercantiles $4,672.24 $4,672
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 m).- Titularidad de los derechos
 
-de concesión $4,672.24 $4,672.00
+de concesión $4,672.24 $4,672
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 III.- Por el otorgamiento de prórroga
 
@@ -7871,9 +7905,9 @@ técnicas autorizadas, así como para
 
 cumplir con la documentación fijada en
 
-dichas autorizaciones $7,272.41 $7,272.00
+dichas autorizaciones $7,272.41 $7,272
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 IV.- Por el estudio de cada solicitud y de
 
@@ -7887,9 +7921,9 @@ zona de sombra o un canal adicional
 
 para las transmisiones de la televisión
 
-digital terrestre $3,835.81 $3,836.00
+digital terrestre $3,835.81 $3,836
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 V.- Por la revisión del cumplimiento de
 
@@ -7897,13 +7931,13 @@ obligaciones por cada estación que esté
 
 incluida en la concesión que se pretende
 
-refrendar $9,089.32 $9,089.00
+refrendar $9,089.32 $9,089
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 VI.- Por la expedición del título de
 
-refrendo de la concesión $9,089.32 $9,089.00
+refrendo de la concesión $9,089.32 $9,089
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -7915,17 +7949,17 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I.- Por el estudio técnico y legal de
 
-la solicitud $3,738.87 $3,739.00
+la solicitud $3,738.87 $3,739
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II.- Por la expedición de la
 
-autorización $4,906.69 $4,907.00
+autorización $4,906.69 $4,907
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
@@ -7937,15 +7971,15 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I.- Por el estudio de la solicitud y
 
 de la documentación inherente a
 
-la misma $4,954.29 $4,954.00
+la misma $4,954.29 $4,954
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II.- Por el estudio de la solicitud y
 
@@ -7955,7 +7989,7 @@ misma, por modificación al
 
 circuito de enlace estudio-planta
 
-o control remoto $3,656.06 $3,656.00
+o control remoto $3,656.06 $3,656
 
 ###### ARTICULO 127.
 
@@ -8005,13 +8039,11 @@ o control remoto $3,656.06 $3,656.00
 
 Por el otorgamiento del permiso para la instalación y operación de estaciones de radiodifusión sonora y de televisión, se pagará el 50% de los derechos establecidos en los artículos 124 y 125 de esta Ley, según corresponda.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REFORMADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 131.
 
-Por la expedición de licencias de estaciones de radio a bordo de barcos y aviones…..$638.23
+Por la expedición de licencias de estaciones de radio a bordo de barcos y aviones…..$638.23 $638
 
 ###### ARTICULO 132.
 
@@ -8071,27 +8103,27 @@ ajuste ajuste
 
 A.- Por el estudio de la solicitud y de la documentación técnica, administrativa, operativa y legal inherente a la misma y, en su caso, por el otorgamiento del certificado de homologación provisional:
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I.- De conmutadores hasta
 
-de 30 líneas $3,675.15 $3,675.00
+de 30 líneas $3,675.15 $3,675
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II.- De equipo transreceptor de
 
 radioenlace de hasta 30 canales
 
-o 2 megabits por segundo (mbps) $5,495.23 $5,495.00
+o 2 megabits por segundo (mbps) $5,495.23 $5,495
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 III.- De conmutadores de 31
 
-hasta 60 líneas $6,406.88 $6,407.00
+hasta 60 líneas $6,406.88 $6,407
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 IV.- De equipo transreceptor de
 
@@ -8099,15 +8131,15 @@ radioenlace de más de 30 y hasta
 
 60 canales o 2x2 megabits por
 
-segundo (mbps) $9,593.62 $9,594.00
+segundo (mbps) $9,593.62 $9,594
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 V.- De conmutadores de 61
 
-hasta 120 líneas $11,873.51 $11,874.00
+hasta 120 líneas $11,873.51 $11,874
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 VI.- De equipo transreceptor de
 
@@ -8115,15 +8147,15 @@ radioenlace de más de 60 y hasta
 
 120 canales o 4x2 megabits por
 
-segundo (mbps) $17,803.18 $17,803.00
+segundo (mbps) $17,803.18 $17,803
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 VII.- De conmutadores de 121
 
-hasta 240 líneas $17,348.13 $17,348.00
+hasta 240 líneas $17,348.13 $17,348
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 VIII.- De equipo transreceptor de
 
@@ -8131,191 +8163,191 @@ radioenlace de más de 120 y hasta
 
 240 canales u 8x2 megabits por
 
-segundo (mbps) $26,001.55 $26,002.00
+segundo (mbps) $26,001.55 $26,002
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 IX.- De conmutadores de
 
-más de 240 líneas $28,738.06 $28,738.00
+más de 240 líneas $28,738.06 $28,738
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 X.- De equipo transreceptor de radio
 
 enlace de más de 240 canales o de más
 
-de 8x2 megabits por segundo (mbps) $43,096.78 $43,097.00
+de 8x2 megabits por segundo (mbps) $43,096.78 $43,097
 
-ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-XI.- De centrales telefónicas públicas $51,525.87 $51,526.00
+XI.- De centrales telefónicas públicas $51,525.87 $51,526
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 XII.- De centrales telefónicas
 
-privadas digitales $11,873.51 $11,874.00
+privadas digitales $11,873.51 $11,874
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 XIII.- De estaciones terrenas
 
-transreceptoras maestras $28,738.06 $28,738.00
+transreceptoras maestras $28,738.06 $28,738
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 XIV.- De estaciones terrenas
 
-transreceptoras remotas $11,873.51 $11,874.00
+transreceptoras remotas $11,873.51 $11,874
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 XV.- De estaciones terminales
 
-móviles terrestres por satélite $9,599.99 $9,600.00
+móviles terrestres por satélite $9,599.99 $9,600
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-XVI.- De equipo terminal satelital $5,495.23 $5,495.00
+XVI.- De equipo terminal satelital $5,495.23 $5,495
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 XVII.- De ruteadores de baja y
 
-mediana capacidad $8,150.57 $8,151.00
+mediana capacidad $8,150.57 $8,151
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 XVIII.- De ruteadores de
 
-alta capacidad $28,738.06 $28,738.00
+alta capacidad $28,738.06 $28,738
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 XIX.- De conmutadores y multilíneas
 
-digitales de baja y mediana capacidad $8,150.57 $8,151.00
+digitales de baja y mediana capacidad $8,150.57 $8,151
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 XX.- De conmutadores y multilíneas
 
-digitales de alta capacidad $28,738.06 $28,738.00
+digitales de alta capacidad $28,738.06 $28,738
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 XXI.- De multiplexores digitales
 
-de baja y mediana capacidad $11,793.95 $11,794.00
+de baja y mediana capacidad $11,793.95 $11,794
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 XXII.- De multiplexores digitales
 
-de alta capacidad $11,873.51 $11,874.00
+de alta capacidad $11,873.51 $11,874
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-XXIII.- De terminal de datos $9,599.99 $9,600.00
+XXIII.- De terminal de datos $9,599.99 $9,600
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 XXIV.- De transreceptores de
 
-facsímiles y de facsímil-modem $5,495.23 $5,495.00
+facsímiles y de facsímil-modem $5,495.23 $5,495
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 XXV.- De teléfonos analógicos
 
-alámbricos y accesorios telefónicos $5,495.23 $5,495.00
+alámbricos y accesorios telefónicos $5,495.23 $5,495
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 XXVI.- De teléfonos inalámbricos,
 
 digitales, celulares y sistemas
 
-personales de comunicación $5,495.23 $5,495.00
+personales de comunicación $5,495.23 $5,495
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-XXVII.- De módem $5,495.23 $5,495.00
+XXVII.- De módem $5,495.23 $5,495
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-XXVIII.- De equipo de fibra óptica $17,803.18 $17,803.00
+XXVIII.- De equipo de fibra óptica $17,803.18 $17,803
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-XXIX.- De centrales celulares $13,031.34 $13,031.00
+XXIX.- De centrales celulares $13,031.34 $13,031
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-XXX.- De estación base celular $9,599.99 $9,600.00
+XXX.- De estación base celular $9,599.99 $9,600
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 XXXI.- De equipo transreceptor
 
-monocanal base $9,599.99 $9,600.00
+monocanal base $9,599.99 $9,600
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 XXXII.- De equipo transreceptor
 
-monocanal móvil $5,495.23 $5,495.00
+monocanal móvil $5,495.23 $5,495
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 XXXIII.- De equipo transreceptor
 
-monocanal portátil $2,337.08 $2,337.00
+monocanal portátil $2,337.08 $2,337
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-XXXIV.- De equipo repetidor fijo $9,599.99 $9,600.00
+XXXIV.- De equipo repetidor fijo $9,599.99 $9,600
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-XXXV.- De equipo receptor terminal $5,495.23 $5,495.00
+XXXV.- De equipo receptor terminal $5,495.23 $5,495
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-XXXVI.- De equipo transmisor terminal $5,495.23 $5,495.00
+XXXVI.- De equipo transmisor terminal $5,495.23 $5,495
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 XXXVII.- De equipo de
 
 radiocomunicación que emplea
 
-la técnica de espectro disperso $5,649.54 $5,650.00
+la técnica de espectro disperso $5,649.54 $5,650
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 XXXVIII.- De equipo conmutador
 
 telefónico privado con acceso
 
-inalámbrico $9,599.99 $9,600.00
+inalámbrico $9,599.99 $9,600
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-XXXIX.- De equipos multilíneas $9,599.99 $9,600.00
+XXXIX.- De equipos multilíneas $9,599.99 $9,600
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 XL.- Otros equipos no contemplados
 
-en este apartado $4,863.58 $4,864.00
+en este apartado $4,863.58 $4,864
 
 > <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
 
 Por la expedición de un certificado de homologación definitivo, con antecedentes de homologación y el solicitante presente pruebas fehacientes del funcionamiento del equipo, estipulado en el proceso de homologación vigente, avaladas por dos peritos en telecomunicaciones o por un laboratorio autorizado por la autoridad competente, se pagará el equivalente al 50% de las cuotas establecidas según el producto a homologar establecido en este apartado.
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 Por la primera o segunda renovación
 
@@ -8327,9 +8359,9 @@ modificado las características técnicas
 
 y operativas autorizadas, se pagará la
 
-cuota de: $2,306.08 $2,306.00
+cuota de: $2,306.08 $2,306
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 Por la expedición de una ampliación a un
 
@@ -8339,7 +8371,7 @@ definitivo, cuando el equipo no cambie de
 
 normatividad y se trate del mismo equipo
 
-homologado, se pagará la cuota de: $2,306.08 $2,306.00
+homologado, se pagará la cuota de: $2,306.08 $2,306
 
 ###### ARTICULO 139.
 
@@ -8373,17 +8405,17 @@ II.- (DEROGADA, D.O.F. 29 DE DICIEMBRE DE 1997)
 
 III.- Certificados de aptitud para instalar y operar estaciones radioeléctricas del servicio de aficionados:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-a).- Expedición $1,131.14 $1,131.00
+a).- Expedición $1,131.14 $1,131
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-b).- Revalidación $579.04 $579.00
+b).- Revalidación $579.04 $579
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-c).- Modificaciones $579.04 $579.00
+c).- Modificaciones $579.04 $579
 
 > <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
@@ -8395,19 +8427,19 @@ a).- Expedición:
 
 1.- (DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2010)
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 2.- Permiso para operar estaciones
 
-de servicio de aficionados $1,131.14 $1,131.00
+de servicio de aficionados $1,131.14 $1,131
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 3.- Permiso para instalar y operar
 
 estaciones repetidoras del servicio
 
-de aficionados $1,131.14 $1,131.00
+de aficionados $1,131.14 $1,131
 
 b).- Revalidación:
 
@@ -8415,41 +8447,41 @@ b).- Revalidación:
 
 1. (DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2010)
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 2. Permiso para operar estaciones
 
-del servicio de aficionados $579.04 $579.00
+del servicio de aficionados $579.04 $579
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 3. Permiso para instalar y operar
 
 estaciones repetidoras del servicio
 
-de aficionados $579.04 $579.00
+de aficionados $579.04 $579
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-c).- Modificaciones $579.04 $579.00
+c).- Modificaciones $579.04 $579
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
 V.- Constancia de registro de profesional técnico responsable y de radioperadores (sic) de estaciones radioeléctricas civiles:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-a).- Expedición $1,366.60 $1,367.00
+a).- Expedición $1,366.60 $1,367
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-b).- Revalidación $696.78 $697.00
+b).- Revalidación $696.78 $697
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 c).- Responsiva, por cada estación
 
-o red pública $696.78 $697.00
+o red pública $696.78 $697
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -8465,27 +8497,27 @@ ajuste ajuste
 
 I.- Por ajustes de frecuencia, ancho de banda y modulación a estaciones radioeléctricas:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-a).- Radiodifusión $6,378.22 $6,378.00
+a).- Radiodifusión $6,378.22 $6,378
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 b).- Servicios privados por cada
 
-transreceptor fijo $1,163.57 $1,164.00
+transreceptor fijo $1,163.57 $1,164
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 c).- Servicios privados por cada
 
-transreceptor móvil $387.61 $388.00
+transreceptor móvil $387.61 $388
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II.- Medición de los parámetros técnicos
 
-de la señal de televisión $7,758.79 $7,759.00
+de la señal de televisión $7,758.79 $7,759
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
@@ -8549,7 +8581,7 @@ A. Por los servicios relacionados con la expedición de:
 
 I.- Permisos:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 a).- Para la operación y explotación
 
@@ -8597,9 +8629,9 @@ carga y pasaje en sus diversas modalidades;
 
 para operar servicios transfronterizos de
 
-turismo, por permiso. $475.40 $475.00
+turismo, por permiso. $475.40 $475
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 b).- Para la construcción, operación
 
@@ -8607,39 +8639,39 @@ y explotación de terminales de
 
 pasajeros del autotransporte federal,
 
-por permiso. $1,510.18 $1,510.00
+por permiso. $1,510.18 $1,510
 
 II.- Autorizaciones:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 a).- Para la cesión de derechos y
 
 obligaciones establecidos en los
 
-permisos, por trámite. $1,590.60 $1,591.00
+permisos, por trámite. $1,590.60 $1,591
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 b).- Para el traslado de mancuernas,
 
 tricuernas, cuatricuernas y
 
-pentacuernas, por permiso. $1,402.57 $1,403.00
+pentacuernas, por permiso. $1,402.57 $1,403
 
 c).- Para el inicio de operación de terminal de autotransporte de pasajeros, por autorización:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-1.- Central. $9,128.52 $9,129.00
+1.- Central. $9,128.52 $9,129
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-2.- Individual. $1,627.26 $1,627.00
+2.- Individual. $1,627.26 $1,627
 
 III.- Placas metálicas, calcomanía de identificación vehicular y tarjeta de circulación:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 a).- Expedición o reposición de
 
@@ -8653,17 +8685,17 @@ diversas modalidades, servicios
 
 auxiliares y de arrendamiento, por
 
-placa. $650.43 $650.00
+placa. $650.43 $650
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 b).- Expedición de calcomanía
 
 de identificación vehicular, por
 
-calcomanía. $105.26 $105.00
+calcomanía. $105.26 $105
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 c).- Expedición o revalidación de la
 
@@ -8677,17 +8709,17 @@ en sus diversas modalidades,
 
 servicios auxiliares y de arrendamiento,
 
-por tarjeta. $377.25 $377.00
+por tarjeta. $377.25 $377
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 1.- Por la modificación o reposición
 
-de la tarjeta de circulación, por tarjeta. $151.37 $151.00
+de la tarjeta de circulación, por tarjeta. $151.37 $151
 
 B. Canje de placas metálicas y calcomanías de identificación:
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I.- Canje de placas metálicas y
 
@@ -8699,9 +8731,9 @@ carga, pasajeros, turismo, servicios
 
 auxiliares, arrendamiento y traslado,
 
-por vehículo. $1,326.89 $1,327.00
+por vehículo. $1,326.89 $1,327
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II.- Canje de placa metálica y
 
@@ -8709,31 +8741,31 @@ calcomanía de identificación para
 
 remolque y semirremolque, por
 
-vehículo. $661.08 $661.00
+vehículo. $661.08 $661
 
 C. Licencias para conducir:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-a).- Expedición. $334.68 $335.00
+a).- Expedición. $334.68 $335
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-b).- Refrendo. $89.88 $90.00
+b).- Refrendo. $89.88 $90
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 c).- Expedición de categoría
 
-adicional de licencia. $106.44 $106.00
+adicional de licencia. $106.44 $106
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-d).- Renovación. $202.23 $202.00
+d).- Renovación. $202.23 $202
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-e).- Duplicado. $202.23 $202.00
+e).- Duplicado. $202.23 $202
 
 Las cuotas a que se refiere este apartado, se aplicarán por servicio prestado, no debiendo pagarse los refrendos o renovación vencidos.
 
@@ -8741,7 +8773,7 @@ D. Servicios diversos:
 
 I.- Alta de vehículos:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 a).- Alta de vehículo automotor,
 
@@ -8759,9 +8791,9 @@ semirremolque y automóvil para
 
 uso particular en el registro de
 
-arrendamiento, por vehículo. $488.42 $488.00
+arrendamiento, por vehículo. $488.42 $488
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 b).- Alta de vehículo automotor,
 
@@ -8775,11 +8807,11 @@ federal y servicios auxiliares, a
 
 través de medios electrónicos,
 
-por vehículo. $177.39 $177.00
+por vehículo. $177.39 $177
 
 II.- (DEROGADA, D.O.F. 21 DE DICIEMBRE DE 2005)
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 III.- Suscripción de convenio anual
 
@@ -8791,25 +8823,25 @@ las empresas fabricantes y
 
 distribuidoras de vehículos nuevos y
 
-empresas trasladistas, por convenio. $106.44 $106.00
+empresas trasladistas, por convenio. $106.44 $106
 
 IV.- Expedición y reposición de placas metálicas de identificación de traslado a empresas armadoras o distribuidoras trasladistas de vehículos nuevos:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 a).- Por el pago de la renta mensual
 
-de placas de traslado, por vehículo. $529.81 $530.00
+de placas de traslado, por vehículo. $529.81 $530
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 b).- Expedición o reposición de placa
 
 metálica de identificación de traslado,
 
-por vehículo. $643.33 $643.00
+por vehículo. $643.33 $643
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 V.- Por el otorgamiento de cada
 
@@ -8821,19 +8853,19 @@ entregue a los centros de verificación
 
 de emisiones contaminantes de los
 
-vehículos de pasaje y carga. $11.82 $12.00
+vehículos de pasaje y carga. $11.82 $12
 
 VI.- Registros:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 a).- De horario para los servicios
 
 de autotransporte federal de pasaje,
 
-por ruta. $118.26 $118.00
+por ruta. $118.26 $118
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 b).- De escrituras constitutivas
 
@@ -8851,9 +8883,9 @@ vehículos automotores con placas
 
 del servicio de autotransporte
 
-federal, por empresa. $118.26 $118.00
+federal, por empresa. $118.26 $118
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 c).- De empresas fabricantes de
 
@@ -8861,9 +8893,9 @@ placas y/o calcomanías, y asignación
 
 de número para su control, por
 
-empresa. $7,777.99 $7,778.00
+empresa. $7,777.99 $7,778
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 d).- Para la celebración de convenios
 
@@ -8873,11 +8905,11 @@ de servicios de una misma clase y
 
 enrolar sus servicios en la ruta que
 
-tengan autorizada, por convenio. $1,604.80 $1,605.00
+tengan autorizada, por convenio. $1,604.80 $1,605
 
 VII.- Reconocimientos:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 a).- Reconocimiento para instructores
 
@@ -8885,9 +8917,9 @@ de conductores del servicio de
 
 autotransporte federal o transporte
 
-privado, por instructor. $164.39 $164.00
+privado, por instructor. $164.39 $164
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 b).- Reconocimiento para operar un
 
@@ -8897,9 +8929,9 @@ de conductores del servicio de
 
 autotransporte federal, y transporte
 
-privado, por centro. $868.03 $868.00
+privado, por centro. $868.03 $868
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 VIII.- Por el estudio y, en su caso,
 
@@ -8907,7 +8939,7 @@ aprobación de la instalación de
 
 unidades de verificación o laboratorios
 
-de prueba, por unidad. $904.69 $905.00
+de prueba, por unidad. $904.69 $905
 
 > <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
@@ -8919,37 +8951,37 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I.- Expedición de permiso para
 
-transporte privado, por permiso. $1,354.08 $1,354.00
+transporte privado, por permiso. $1,354.08 $1,354
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II.- Expedición de la tarjeta de
 
 circulación para el transporte
 
-privado, por tarjeta. $793.53 $794.00
+privado, por tarjeta. $793.53 $794
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 III.- Reposición o modificación de la
 
 tarjeta de circulación para el transporte
 
-privado, por tarjeta. $242.44 $242.00
+privado, por tarjeta. $242.44 $242
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 IV.- Revalidación de la tarjeta de
 
 circulación para el transporte privado,
 
-por tarjeta. $650.43 $650.00
+por tarjeta. $650.43 $650
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 V.- Alta de vehículo automotor,
 
@@ -8957,17 +8989,17 @@ remolque o semirremolque en el
 
 permiso de transporte privado de
 
-personas o carga, por vehículo. $488.42 $488.00
+personas o carga, por vehículo. $488.42 $488
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 VI.- Permiso para el transporte de
 
 materiales peligrosos y sus residuos,
 
-por permiso. $1,477.07 $1,477.00
+por permiso. $1,477.07 $1,477
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 VII.- Permiso especial por un año
 
@@ -8975,9 +9007,9 @@ para el tránsito de grúas industriales
 
 del servicio privado, por vehículo, por
 
-permiso. $475.40 $475.00
+permiso. $475.40 $475
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 VIII.- Permiso por un solo viaje para
 
@@ -8987,7 +9019,7 @@ de objetos voluminosos o de gran
 
 peso, con exceso de peso o dimensión,
 
-por permiso. $452.94 $453.00
+por permiso. $452.94 $453
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
 
@@ -9015,7 +9047,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I.- Por extensión de horario de los
 
@@ -9023,9 +9055,9 @@ servicios de control de tránsito aéreo,
 
 por cada minuto o fracción, conforme
 
-a la cuota de $9.97 $10.00
+a la cuota de $9.97 $10
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II.- Por extensión de horario de los
 
@@ -9033,7 +9065,7 @@ servicios de información de vuelo,
 
 por cada minuto o fracción,
 
-conforme a la cuota de $9.97 $10.00
+conforme a la cuota de $9.97 $10
 
 > <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
@@ -9055,35 +9087,35 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I.- Por instalación a la AFTN
 
-(incluye software) $5,500.34 $5,500.00
+(incluye software) $5,500.34 $5,500
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II.- Por cada estación conectada
 
-una cuota mensual de $19,251.21 $19,251.00
+una cuota mensual de $19,251.21 $19,251
 
 III.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 2003)
 
 B. Servicios al Banco de Imágenes Meteorológicas (BIMA). Para la obtención de imágenes meteorológicas del satélite, se pagarán derechos conforme a las siguientes cuotas:
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I.- Por el servicio de acceso hasta
 
-150 consultas mensuales $4,125.25 $4,125.00
+150 consultas mensuales $4,125.25 $4,125
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-II.- Por cada consulta adicional $275.01 $275.00
+II.- Por cada consulta adicional $275.01 $275
 
 C. Por los servicios de asistencia técnica meteorológica, se pagarán previamente los derechos conforme a las siguientes cuotas:
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I.- Por los datos estadísticos
 
@@ -9091,9 +9123,9 @@ meteorológicos históricos de un
 
 aeropuerto correspondientes a un
 
-año, se pagará una cuota única de $3,344.07 $3,344.00
+año, se pagará una cuota única de $3,344.07 $3,344
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II.- Por los datos estadísticos
 
@@ -9103,9 +9135,9 @@ aeropuerto correspondientes a este
 
 apartado de 6 meses o menor, se
 
-pagará una cuota única de $1,631.89 $1,632.00
+pagará una cuota única de $1,631.89 $1,632
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 III.- Por las tablas estadísticas
 
@@ -9115,9 +9147,9 @@ climatológicas, con información de
 
 año de un solo aeropuerto,
 
-se pagará una cuota única de $3,344.07 $3,344.00
+se pagará una cuota única de $3,344.07 $3,344
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 IV.- Por las tablas estadísticas
 
@@ -9127,9 +9159,9 @@ parámetros meteorológicos de un año
 
 de un solo aeropuerto, se pagará una
 
-cuota única de $1,631.89 $1,632.00
+cuota única de $1,631.89 $1,632
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 V.- Por cada imagen meteorológica de
 
@@ -9137,9 +9169,9 @@ satélite impresa a color solicitada al
 
 CAPMA de SENEAM, se pagará una
 
-cuota única de $38.28 $38.00
+cuota única de $38.28 $38
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 VI.- Por cada imagen meteorológica
 
@@ -9149,9 +9181,9 @@ negro, solicitada al CAPMA de
 
 SENEAM, se pagará una cuota
 
-única de $25.51 $26.00
+única de $25.51 $26
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 VII.- Por cada carpeta de información
 
@@ -9169,11 +9201,11 @@ satélite, aviso de huracán e
 
 información meteorológica significativa,
 
-se pagará una cuota única de $191.39 $191.00
+se pagará una cuota única de $191.39 $191
 
 D. Por los servicios de asistencia técnica, se pagarán derechos conforme a las siguientes cuotas:
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I.- Por la asistencia técnica a equipos
 
@@ -9185,9 +9217,9 @@ instalaciones de SENEAM, se pagará
 
 por cada equipo instalado una cuota
 
-mensual de $6,688.16 $6,688.00
+mensual de $6,688.16 $6,688
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II.- Por la asistencia técnica a circuitos
 
@@ -9197,59 +9229,59 @@ en las instalaciones de SENEAM, se
 
 pagará por cada equipo instalado una
 
-cuota mensual de $17,924.32 $17,924.00
+cuota mensual de $17,924.32 $17,924
 
 E. Por los servicios de acceso al monitoreo visual de progreso de vuelo, se pagarán derechos conforme a las siguientes cuotas:
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I.- Cuota por instalación, software y
 
 asistencia técnica de 40 horas de
 
-teoría y práctica, por una sola vez $15,833.69 $15,834.00
+teoría y práctica, por una sola vez $15,833.69 $15,834
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II.- Cuota mensual por acceso
 
-a este sistema $33,440.91 $33,441.00
+a este sistema $33,440.91 $33,441
 
 F. Para la formación teórica y práctica de controladores de tránsito aéreo, previo a la prestación del servicio, se pagarán derechos por cada alumno y por hora de instrucción, las siguientes cuotas:
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I.- Por la formación en el servicio
 
 de control de tránsito aéreo de control
 
-de aeródromo $160.51 $161.00
+de aeródromo $160.51 $161
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II.- Por la formación en el servicio de
 
 control de tránsito aéreo de aproximación
 
-no radar y radar en áreas terminales $240.76 $241.00
+no radar y radar en áreas terminales $240.76 $241
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 III.- Por la formación en el servicio de
 
 control de tránsito aéreo de área no
 
-radar y radar $261.56 $262.00
+radar y radar $261.56 $262
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 IV.- Por la formación de supervisores
 
 en el servicio de control de tránsito
 
-aéreo de aeródromo $156.92 $157.00
+aéreo de aeródromo $156.92 $157
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 V.- Por la formación de supervisores
 
@@ -9257,17 +9289,17 @@ en el servicio de control de tránsito
 
 aéreo de aproximación radar en áreas
 
-terminales $234.77 $235.00
+terminales $234.77 $235
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 VI.- Por la formación de supervisores
 
 en el servicio de control de tránsito
 
-aéreo de radar ruta $261.56 $262.00
+aéreo de radar ruta $261.56 $262
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 VII.- Por la actualización de habilidades
 
@@ -9275,11 +9307,11 @@ y conocimientos teórico prácticos de
 
 cualquiera de los servicios señalados
 
-en las fracciones anteriores $200.63 $201.00
+en las fracciones anteriores $200.63 $201
 
 G. Por los servicios de capacitación a personal técnico aeronáutico que se describe a continuación, previamente se pagarán los derechos conforme a las siguientes cuotas:
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I.- Por la exposición, curso, conferencia
 
@@ -9299,9 +9331,9 @@ descendentes violentas y fenómeno
 
 del niño (Enso), se pagarán derechos
 
-por cada hora $893.15 $893.00
+por cada hora $893.15 $893
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II.- Por la exposición, curso, conferencia
 
@@ -9313,7 +9345,7 @@ procedimientos terminales y de ruta o
 
 servicios de información aeronáutica,
 
-se pagarán derechos por cada hora $893.15 $893.00
+se pagarán derechos por cada hora $893.15 $893
 
 Para los efectos de este artículo, el usuario deberá de solicitar los servicios por escrito a SENEAM, con excepción de los servicios previstos en las fracciones V, VI y VII del Apartado C.
 
@@ -9377,11 +9409,11 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-I.- De aeronaves $2,505.91 $2,506.00
+I.- De aeronaves $2,505.91 $2,506
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II.- De concesiones o permisos de
 
@@ -9391,33 +9423,33 @@ relativos al arrendamiento de
 
 aeronaves y motores mexicanos y
 
-extranjeros $666.61 $667.00
+extranjeros $666.61 $667
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 III.- De concesiones o permisos de
 
 aeropuertos, helipuertos, aeródromos
 
-o hidroaeródromos $2,505.91 $2,506.00
+o hidroaeródromos $2,505.91 $2,506
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 IV.- De permisos de pistas
 
-Comunitarias $501.04 $501.00
+Comunitarias $501.04 $501
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-V.- De pólizas de seguros $1,252.90 $1,253.00
+V.- De pólizas de seguros $1,252.90 $1,253
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 VI.- De resoluciones o acuerdos
 
-emitidos por autoridad competente $1,124.24 $1,124.00
+emitidos por autoridad competente $1,124.24 $1,124
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 VII.- De contratos de prestación de
 
@@ -9425,9 +9457,9 @@ servicios aeroportuarios y
 
 complementarios, así como sus
 
-modificaciones $407.07 $407.00
+modificaciones $407.07 $407
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 VIII.- De las certificaciones relativas
 
@@ -9437,13 +9469,13 @@ sea cual fuere su naturaleza,
 
 incluyendo las visuales y las
 
-electrónicas $393.40 $393.00
+electrónicas $393.40 $393
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 IX.- Por otros servicios
 
-prestados por el Registro $501.04 $501.00
+prestados por el Registro $501.04 $501
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -9465,19 +9497,17 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I.- Por cada concesión de
 
-Aeropuertos $25,060.41 $25,060.00
+Aeropuertos $25,060.41 $25,060
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
-
-a).- Por su modificación $3,132.46 $3,132.00
+a).- Por su modificación $3,132.46 $3,132
 
 II.- Por cada permiso de:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 a).- Construcción de aeródromos de
 
@@ -9493,9 +9523,9 @@ privado; helipuertos de servicio
 
 privado con contrato con terceros o
 
-hidroaeródromos $6,265.00 $6,265.00
+hidroaeródromos $6,265.00 $6,265
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 b).- Explotación de aeródromos de
 
@@ -9511,9 +9541,9 @@ privado; helipuertos de servicio
 
 privado con contrato con terceros o
 
-hidroaeródromos $6,265.00 $6,265.00
+hidroaeródromos $6,265.00 $6,265
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 c).- Ampliación o remodelación de la
 
@@ -9531,49 +9561,49 @@ de servicio privado; helipuertos de
 
 servicio privado con contrato con
 
-terceros o hidroaeródromos $6,265.00 $6,265.00
+terceros o hidroaeródromos $6,265.00 $6,265
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 d).- Por la modificación de los permisos
 
-a que se refiere esta fracción $3,132.46 $3,132.00
+a que se refiere esta fracción $3,132.46 $3,132
 
 III.- Por cada permiso de:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 a).- Construcción y explotación de
 
-aeródromos de servicio comunitario $626.38 $626.00
+aeródromos de servicio comunitario $626.38 $626
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 b).- Modificación a los aeródromos
 
-de servicio comunitario $250.49 $250.00
+de servicio comunitario $250.49 $250
 
 IV.- Por cada permiso para proporcionar servicios de almacenamiento y suministro de combustible de aviación:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-a).- De uso privado $3,132.46 $3,132.00
+a).- De uso privado $3,132.46 $3,132
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-b).- De uso público $12,530.14 $12,530.00
+b).- De uso público $12,530.14 $12,530
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-c).- Para aviones agrícolas 1,252.90 $1,253.00
+c).- Para aviones agrícolas 1,252.90 $1,253
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 d).- Para aerostatos, aviones
 
-ultraligeros u otros análogos $1,252.90 $1,253.00
+ultraligeros u otros análogos $1,252.90 $1,253
 
-(ACTUALIZADO PRIMER PARRAFO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO PRIMER PARRAFO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 V.- Por la autorización de extensión de
 
@@ -9583,7 +9613,7 @@ cada media hora o fracción con
 
 tolerancia de cinco minutos posteriores
 
-a la media hora $375.78 $376.00
+a la media hora $375.78 $376
 
 Cuando la extensión de horario de servicio de los aeródromos civiles sea solicitado por más de un concesionario, permisionario, autorizado u operador, cada solicitante pagará el 50% de la cuota establecida en esta fracción.
 
@@ -9613,19 +9643,19 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I.- Por verificación mayor o verificación
 
 a las condiciones de concesiones
 
-y permisos $5,024.29 $5,024.00
+y permisos $5,024.29 $5,024
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-II.- Por verificación menor $1,002.29 $1,002.00
+II.- Por verificación menor $1,002.29 $1,002
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 III.- Por la certificación a las
 
@@ -9633,9 +9663,9 @@ verificaciones efectuadas por las
 
 unidades de verificación
 
-establecidas por terceros $5,011.96 $5,012.00
+establecidas por terceros $5,011.96 $5,012
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 IV.- Por verificación menor a los
 
@@ -9655,7 +9685,7 @@ concesionarios y permisionarios en
 
 especial a las aeronaves, sus partes
 
-y refacciones $318.13 $318.00
+y refacciones $318.13 $318
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -9667,7 +9697,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO PRIMER PARRAFO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO PRIMER PARRAFO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 156.
 
@@ -9685,7 +9715,7 @@ determinación de sitio y certificación
 
 periódica o especial se pagarán
 
-derechos conforme a la cuota de $70,420.01 $70,420.00
+derechos conforme a la cuota de $70,420.01 $70,420
 
 > <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -9703,27 +9733,27 @@ ajuste ajuste
 
 I.- Por la expedición de la capacidad y licencia o permiso para:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-a).- Personal de vuelo $1,002.29 $1,002.00
+a).- Personal de vuelo $1,002.29 $1,002
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-b).- Personal de tierra $751.68 $752.00
+b).- Personal de tierra $751.68 $752
 
 II.- Por la revalidación de licencia al:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-a).- Personal de vuelo $501.04 $501.00
+a).- Personal de vuelo $501.04 $501
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-b).- Personal de tierra $375.78 $376.00
+b).- Personal de tierra $375.78 $376
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-III.- Por reposición de la licencia $375.78 $376.00
+III.- Por reposición de la licencia $375.78 $376
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -9743,25 +9773,25 @@ ajuste ajuste
 
 I.- Por la expedición de los siguientes certificados:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-a).- De aeronavegabilidad $1,252.90 $1,253.00
+a).- De aeronavegabilidad $1,252.90 $1,253
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-b).- De matrícula $1,252.90 $1,253.00
+b).- De matrícula $1,252.90 $1,253
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-c).- De matrícula provisional $1,252.90 $1,253.00
+c).- De matrícula provisional $1,252.90 $1,253
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 d).- De aeronavegabilidad o matrículas
 
-de aeronaves agrícolas $751.68 $752.00
+de aeronaves agrícolas $751.68 $752
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 e).- De aeronavegabilidad o matrícula
 
@@ -9771,37 +9801,37 @@ u otros análogos, cuando operen fuera
 
 de las áreas geográficas autorizadas
 
-a sus clubes $751.68 $752.00
+a sus clubes $751.68 $752
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II.- Por la expedición de certificados de
 
-homologación por emisión de ruido $751.68 $752.00
+homologación por emisión de ruido $751.68 $752
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 III.- Por la renovación o reposición
 
 del certificado de aeronavegabilidad
 
-o matrícula $1,252.90 $1,253.00
+o matrícula $1,252.90 $1,253
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 IV.- Por la cancelación del certificado
 
 de matrícula a petición de parte
 
-interesada $509.51 $510.00
+interesada $509.51 $510
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 V.- Por la asignación de marcas de
 
 nacionalidad y matrícula con siglas
 
-especiales $16,398.64 $16,399.00
+especiales $16,398.64 $16,399
 
 Las cuotas de los derechos establecidos en las fracciones I y II ya incluyen la inscripción en el Registro Aeronáutico Mexicano.
 
@@ -9815,13 +9845,13 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-I.- Concesión $25,060.41 $25,060.00
+I.- Concesión $25,060.41 $25,060
 
-(ACTUALIZADO PRIMER PARRAFO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO PRIMER PARRAFO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-II.- Permiso $12,530.14 $12,530.00
+II.- Permiso $12,530.14 $12,530
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -9829,21 +9859,21 @@ II.- Permiso $12,530.14 $12,530.00
 
 No se pagará el derecho establecido en esta fracción cuando los permisos se otorguen para talleres aeronáuticos o centros de capacitación o adiestramiento que los concesionarios, permisionarios, autorizados u operadores de servicios establezcan con motivo de su propia operación o de la Ley Federal del Trabajo, así como aquellos que son parte de la Secretaría de Comunicaciones y Transportes.
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-III.- Autorización $626.38 $626.00
+III.- Autorización $626.38 $626
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 IV.- Permiso de aeronaves para
 
-uso agrícola $6,265.00 $6,265.00
+uso agrícola $6,265.00 $6,265
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 V.- Autorización de clubes aéreos
 
-y de aeromodelismo $1,252.90 $1,253.00
+y de aeromodelismo $1,252.90 $1,253
 
 Por la modificación de las concesiones, permisos o autorizaciones a que se refiere este artículo se pagará únicamente el 25% del monto de la cuota del derecho que corresponda, respectivamente.
 
@@ -9851,7 +9881,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 160.
 
@@ -9861,13 +9891,13 @@ de cada certificado de aprobación
 
 tipo, se pagarán derechos conforme
 
-a la cuota de $1,252.90 $1,253.00
+a la cuota de $1,252.90 $1,253
 
 Por el otorgamiento de autorización
 
 de vuelos de traslado, se pagarán
 
-derechos conforme a la cuota de $751.68 $752.00
+derechos conforme a la cuota de $751.68 $752
 
 por cada vuelo.
 
@@ -9879,11 +9909,11 @@ por cada vuelo.
 
 Por los servicios relacionados con los exámenes de conocimientos de aviación civil, para los permisos de formación o capacitación, así como para la obtención, convalidación y recuperación de licencias y certificados de capacidad, se pagarán derechos conforme a las siguientes cuotas:
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I. Por el examen para el permiso de formación o capacitación, por cada uno $700.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II. Por los exámenes para la obtención, convalidación y recuperación de licencias y certificados de capacidad, por cada uno $1,550.00
 
@@ -9909,15 +9939,15 @@ ajuste ajuste
 
 A. Tratándose de Buques, por el estudio y trámite de la solicitud y, en su caso, inscripción de:
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I. Los certificados de las
 
 matrículas de las embarcaciones
 
-y artefactos navales mexicanos $623.45 $623.00
+y artefactos navales mexicanos $623.45 $623
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II. Los contratos de
 
@@ -9937,9 +9967,9 @@ privilegios marítimos sobre
 
 las embarcaciones y
 
-artefactos navales mexicanos $349.93 $350.00
+artefactos navales mexicanos $349.93 $350
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 III. Los contratos de
 
@@ -9947,9 +9977,9 @@ arrendamiento o fletamento
 
 a casco desnudo de
 
-embarcaciones mexicanas $377.02 $377.00
+embarcaciones mexicanas $377.02 $377
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 IV. Los contratos de
 
@@ -9959,17 +9989,17 @@ en México o de aquellas que se
 
 construyan en el extranjero y se
 
-pretendan abanderar como mexicanas $377.02 $377.00
+pretendan abanderar como mexicanas $377.02 $377
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 V. De la cancelación de
 
 cualquiera de los actos
 
-especificados en este apartado $589.57 $590.00
+especificados en este apartado $589.57 $590
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 B. Por el estudio y trámite de
 
@@ -9985,9 +10015,9 @@ por concepto de derecho de
 
 Registro Marítimo Nacional
 
-la cuota de $1,164.53 $1,165.00
+la cuota de $1,164.53 $1,165
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 C. Por el estudio de la solicitud y, en
 
@@ -10005,9 +10035,9 @@ este artículo, se pagará por concepto
 
 de derecho de Registro Marítimo
 
-Nacional $351.55 $352.00
+Nacional $351.55 $352
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I.- Por el registro de los contratos de
 
@@ -10023,9 +10053,9 @@ que celebren con terceros, se
 
 pagará por concepto de derecho de
 
-Registro Marítimo Nacional la cuota de $367.46 $367.00
+Registro Marítimo Nacional la cuota de $367.46 $367
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II.- Por la consulta de los asientos
 
@@ -10035,13 +10065,13 @@ folios marítimos, relativos a las
 
 inscripciones efectuadas en el
 
-Registro Público Marítimo Nacional $101.76 $102.00
+Registro Público Marítimo Nacional $101.76 $102
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 III.- Por la expedición de certificados
 
-de inscripción y no inscripción $349.93 $350.00
+de inscripción y no inscripción $349.93 $350
 
 > <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
@@ -10083,41 +10113,41 @@ ajuste ajuste
 
 I.- Por el otorgamiento de abanderamiento y dimisión de bandera de embarcaciones, tomando en cuenta el arqueo bruto:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-a).- Hasta de 50 toneladas $474.11 $474.00
+a).- Hasta de 50 toneladas $474.11 $474
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-b).- De más de 50 hasta 500 toneladas $948.60 $949.00
+b).- De más de 50 hasta 500 toneladas $948.60 $949
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 c).- De más de 500 hasta
 
-5,000 toneladas $1,660.40 $1,660.00
+5,000 toneladas $1,660.40 $1,660
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 d).- De más de 5,000 hasta
 
-15,000 toneladas $2,372.25 $2,372.00
+15,000 toneladas $2,372.25 $2,372
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 e).- De 15,000.01 hasta
 
-25,000.00 toneladas 5,931.06 $5,931.00
+25,000.00 toneladas $5,931.06 $5,931
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 f).- De 25,000.01 hasta
 
-50,000.00 toneladas 8,303.49 $8,303.00
+50,000.00 toneladas $8,303.49 $8,303
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-g).- De más 50,000.01 toneladas $9,489.83 $9,490.00
+g).- De más 50,000.01 toneladas $9,489.83 $9,490
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -10125,129 +10155,129 @@ II.- Por la expedición, revalidación o reposición del certificado de matrícu
 
 a).- Tratándose de embarcaciones para tráfico de recreo:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 1.- Hasta de 5 toneladas brutas
 
-de arqueo $474.11 $474.00
+de arqueo $474.11 $474
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 2.- De 5.01 hasta 10 toneladas
 
-brutas de arqueo $712.09 $712.00
+brutas de arqueo $712.09 $712
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 3.- De 10.01 hasta 20 toneladas
 
-brutas de arqueo $948.31 $948.00
+brutas de arqueo $948.31 $948
 
 b).- Embarcaciones para tráfico interior de carga, pasajeros o carga y pasajeros:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 1.- Hasta de 5 toneladas brutas
 
-de arqueo $236.07 $236.00
+de arqueo $236.07 $236
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REFORMADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 2.- De 5.01 hasta 10 toneladas
 
-brutas de arqueo $356.00 $356.00
+brutas de arqueo $356.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 3.- De 10.01 hasta 20 toneladas
 
-brutas de arqueo $474.11 $474.00
+brutas de arqueo $474.11 $474
 
 c).- Tratándose de embarcaciones para remolque, dragado, salvamento y demás relacionados con las comunicaciones por agua o con las obras de los puertos:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REFORMADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 1.- Hasta de 5 toneladas brutas
 
-de arqueo $356.00 $356.00
+de arqueo $356.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 2.- De 5.01 hasta 10 toneladas
 
-brutas de arqueo $474.11 $474.00
+brutas de arqueo $474.11 $474
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 3.- De 10.01 hasta 20 toneladas
 
-brutas de arqueo $712.09 $712.00
+brutas de arqueo $712.09 $712
 
 d).- Tratándose de embarcaciones pesqueras en cualquier clase de pesca:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 1.- Hasta de 5 toneladas brutas
 
-de arqueo $350.55 $351.00
+de arqueo $350.55 $351
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 2.- De 5.01 hasta 10 toneladas
 
-brutas de arqueo $584.93 $585.00
+brutas de arqueo $584.93 $585
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 3.- De 10.01 hasta 20 toneladas
 
-brutas de arqueo $819.30 $819.00
+brutas de arqueo $819.30 $819
 
 e).- Para embarcaciones que efectúen en cualquier clase de tráfico, navegación de altura, cabotaje e interior:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 1.- De 20.01 hasta 100 toneladas
 
-brutas de arqueo $964.09 $964.00
+brutas de arqueo $964.09 $964
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 2.- De 100.01 hasta 500 toneladas
 
-brutas de arqueo $1,147.03 $1,147.00
+brutas de arqueo $1,147.03 $1,147
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 3.- De 500.01 hasta 5,000 toneladas
 
-brutas de arqueo $1,328.41 $1,328.00
+brutas de arqueo $1,328.41 $1,328
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 4.- De 5,000.01 hasta 15,000 toneladas
 
-brutas de arqueo $1,580.59 $1,581.00
+brutas de arqueo $1,580.59 $1,581
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 5.- De 15,000.01 hasta 25,000
 
-toneladas brutas de arqueo 4,393.10 $4,393.00
+toneladas brutas de arqueo $4,393.10 $4,393
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 6.- De 25,000.01 hasta 50,000
 
-toneladas brutas de arqueo 6,150.02 $6,150.00
+toneladas brutas de arqueo $6,150.02 $6,150
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 7.- De más de 50,000.01 toneladas
 
-brutas de arqueo $7,029.42 $7,029.00
+brutas de arqueo $7,029.42 $7,029
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 f).- Por la cancelación del certificado
 
@@ -10257,9 +10287,9 @@ embarcaciones, exceptuando las
 
 señaladas en el siguiente párrafo,
 
-se pagará una cuota de $409.79 $410.00
+se pagará una cuota de $409.79 $410
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 Para el caso de las embarcaciones
 
@@ -10267,109 +10297,109 @@ de hasta 10 metros de eslora sin
 
 cubierta corrida, destinadas a la pesca
 
-ribereña, se pagará la cuota de $79.52 $80.00
+ribereña, se pagará la cuota de $79.52 $80
 
 III.- Por la expedición de autorización para la permanencia de artefactos navales y dragas en zonas marinas nacionales, por tonelada bruta o fracción de registro internacional:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 a).- Hasta 500 toneladas $6.9011
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 b).- De 500.01 hasta 1,000 toneladas $5.7057
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 c).- De 1,000.01 hasta 5,000 toneladas $4.7407
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 d).- De 5,000.01 hasta 15,000
 
 toneladas $3.5541
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 e).- De 15,000.01 en adelante $2.3674
 
 IV.- Por expedición de pasavantes por tonelaje bruto de arqueo:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-a).- Hasta de 5 toneladas $94.54 $95.00
+a).- Hasta de 5 toneladas $94.54 $95
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 b).- De más de 5 hasta 10
 
-toneladas $165.72 $166.00
+toneladas $165.72 $166
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 c).- De más de 10 hasta 20
 
-toneladas $236.83 $237.00
+toneladas $236.83 $237
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 d).- De 20.01 hasta 100.00
 
-toneladas $592.78 $593.00
+toneladas $592.78 $593
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 e).- De 100.01 hasta 500.00
 
-toneladas $711.38 $711.00
+toneladas $711.38 $711
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 f).- De 500.01 hasta 1,000.00
 
-toneladas $948.60 $949.00
+toneladas $948.60 $949
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 g).- De 1,000.01 hasta 5,000.00
 
-toneladas $1,660.40 $1,660.00
+toneladas $1,660.40 $1,660
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 h).- De 5,000.01 hasta 15,000.00
 
-toneladas $2,134.86 $2,135.00
+toneladas $2,134.86 $2,135
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 i).- De 15,000.01 hasta 25,000.00
 
-toneladas $2,846.69 $2,847.00
+toneladas $2,846.69 $2,847
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 j).- De 25,000.01 hasta 50,000.00
 
-toneladas $3,558.47 $3,558.00
+toneladas $3,558.47 $3,558
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 k).- De más de 50,000.01
 
-toneladas $4,744.74 $4,745.00
+toneladas $4,744.74 $4,745
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
 V.- Por la revisión de los cálculos de arqueo y de la marca de máxima carga o francobordo:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 a).- Hasta 1,000 toneladas brutas
 
 de arqueo $2.2448
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 b).- De más de 1,000 hasta 5,000
 
@@ -10381,7 +10411,7 @@ anterior, y por cada una o fracción
 
 de las excedentes $1.3443
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 c).- De más de 5,000 hasta 15,000
 
@@ -10393,7 +10423,7 @@ y por cada una o fracción de las
 
 excedentes $1.1187
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 d).- De más de 15,000 toneladas, por
 
@@ -10407,29 +10437,29 @@ fracción de las excedentes $0.8940
 
 VI.- Por la expedición del permiso de navegación para embarcaciones mercantes extranjeras de carga en general, o mixto incluyendo el de pasajeros, por tonelada bruta o fracción de registro internacional:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-a).- Hasta 500 toneladas $25.81 $26.00
+a).- Hasta 500 toneladas $25.81 $26
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-b).- De 500.01 hasta 1,000 toneladas $21.40 $21.00
+b).- De 500.01 hasta 1,000 toneladas $21.40 $21
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-c).- De 1,000.01 hasta 5,000 toneladas $17.95 $18.00
+c).- De 1,000.01 hasta 5,000 toneladas $17.95 $18
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 d).- De 5,000.01 hasta 15,000
 
-toneladas $13.47 $13.00
+toneladas $13.47 $13
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-e).- De 15,000.01 en adelante $8.96 $9.00
+e).- De 15,000.01 en adelante $8.96 $9
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 VII.- Por la expedición del permiso
 
@@ -10437,47 +10467,47 @@ especial para tráfico de pasaje-ros (sic),
 
 a partir de 2 toneladas por tonelada
 
-bruta de arqueo o fracción $6.07 $6.00
+bruta de arqueo o fracción $6.07 $6
 
 VIII.- La expedición de liberación de embarques de cargas a buques mercantes de tercera bandera, que realicen el transporte de mercancías con destino a los puertos de los países con los cuales los Estados Unidos Mexicanos han suscrito convenios bilaterales de transporte marítimo y que no sean operados por los armadores nacionales autorizados por sus respectivos gobiernos en ámbito del convenio que se trate, por toneladas de carga liberada:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 a).- Embarques de hasta 500
 
-toneladas de carga $11,009.19 $11,009.00
+toneladas de carga $11,009.19 $11,009
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 b).- Embarques de 500.01 hasta
 
-1000 toneladas de carga $16,544.17 $16,544.00
+1000 toneladas de carga $16,544.17 $16,544
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 c).- Embarques de 1000.01 hasta
 
-3,000 toneladas de carga $22,259.48 $22,259.00
+3,000 toneladas de carga $22,259.48 $22,259
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 d).- Embarques de 3,000.01 hasta
 
-9,000 toneladas de carga $27,674.11 $27,674.00
+9,000 toneladas de carga $27,674.11 $27,674
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 e).- Embarques de 9,000.01
 
-toneladas de carga en adelante $33,088.64 $33,089.00
+toneladas de carga en adelante $33,088.64 $33,089
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 IX.- Por la expedición de permisos
 
-de amarre temporal $622.62 $623.00
+de amarre temporal $622.62 $623
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 X.- Por la expedición de autorización
 
@@ -10485,9 +10515,9 @@ para la extracción, remoción o
 
 reflotación de embarcaciones,
 
-aeronaves o artefactos navales $3,635.14 $3,635.00
+aeronaves o artefactos navales $3,635.14 $3,635
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 XI.- Por asignación de la señal
 
@@ -10499,17 +10529,17 @@ en contrario establecida en los
 
 convenios internacionales en los
 
-que México sea parte $683.02 $683.00
+que México sea parte $683.02 $683
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 XII.- Por la autorización para el
 
 desguace de embarcaciones o
 
-artefactos navales $5,054.42 $5,054.00
+artefactos navales $5,054.42 $5,054
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 XIII.- Por autorizar el embarque de
 
@@ -10519,7 +10549,7 @@ mexicanas y, en su caso, por la
 
 renovación de autorización, por cada
 
-técnico $840.11 $840.00
+técnico $840.11 $840
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
@@ -10535,13 +10565,13 @@ I.- (DEROGADA, D.O.F. 1 DE ENERO DE 2002)
 
 II.- (DEROGADA, D.O.F. 1 DE ENERO DE 2002)
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 III.- Por autorizar la sustitución de
 
-cada embarcación inscrita $1,789.51 $1,790.00
+cada embarcación inscrita $1,789.51 $1,790
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 IV.- Por la cancelación de
 
@@ -10549,7 +10579,7 @@ inscripción antes del plazo
 
 otorgado para su
 
-abanderamiento $13,278.13 $13,278.00
+abanderamiento $13,278.13 $13,278
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE ENERO DE 2002)</small>
 
@@ -10575,7 +10605,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I.- Concesión de bienes sujetos al
 
@@ -10589,9 +10619,9 @@ a la construcción, operación y
 
 explotación de terminales marinas
 
-e instalaciones portuarias $42,978.34 $42,978.00
+e instalaciones portuarias $42,978.34 $42,978
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II.- Permiso para la prestación de
 
@@ -10603,13 +10633,13 @@ atracaderos, botaderos y demás
 
 similares en las vías generales de
 
-comunicación por agua $10,916.96 $10,917.00
+comunicación por agua $10,916.96 $10,917
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 III.- Autorización para la construcción
 
-de obras marítimas y de dragado $34,244.78 $34,245.00
+de obras marítimas y de dragado $34,244.78 $34,245
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
@@ -10635,15 +10665,15 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA],D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I.- Por el registro de bases tarifarias del
 
 servicio regular de transporte de altura
 
-de líneas conferenciadas $655.69 $656.00
+de líneas conferenciadas $655.69 $656
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II.- Por la autorización de bases
 
@@ -10653,7 +10683,7 @@ transporte de cabotaje de pasajeros
 
 o servicios de transporte
 
-de mercancías $655.69 $656.00
+de mercancías $655.69 $656
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
@@ -10667,7 +10697,7 @@ ajuste ajuste
 
 I.- Cruceros turísticos:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 a).- Embarcaciones menores de
 
@@ -10675,103 +10705,103 @@ pasajeros equipadas para brindar
 
 servicios de pernocta, descanso y
 
-recreativos a bordo y en puerto $12,163.51 $12,164.00
+recreativos a bordo y en puerto $12,163.51 $12,164
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 b).- Embarcaciones de 500 hasta
 
-1,000 unidades de arqueo bruto $25,432.79 $25,433.00
+1,000 unidades de arqueo bruto $25,432.79 $25,433
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 c).- Embarcaciones de 1,000.01
 
 hasta 5,000.00 unidades de
 
-arqueo bruto $33,726.76 $33,727.00
+arqueo bruto $33,726.76 $33,727
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 d).- Embarcaciones de más de
 
-5,000.01 unidades de arqueo bruto $39,255.63 $39,256.00
+5,000.01 unidades de arqueo bruto $39,255.63 $39,256
 
 II.- Transporte de pasajeros:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 a).- Embarcaciones cuya capacidad sea
 
-hasta 3.5 unidades de arqueo bruto $540.56 $541.00
+hasta 3.5 unidades de arqueo bruto $540.56 $541
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 b).- Embarcaciones mayores a 3.5 y
 
 menores de 500 unidades de
 
-arqueo bruto $1,081.13 $1,081.00
+arqueo bruto $1,081.13 $1,081
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 c).- Embarcaciones de 500 o más
 
-unidades de arqueo bruto $2,162.27 $2,162.00
+unidades de arqueo bruto $2,162.27 $2,162
 
 III.- Turismo náutico:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 a).- Embarcaciones cuya capacidad
 
 sea hasta 3.5 unidades de arqueo
 
-bruto $1,105.76 $1,106.00
+bruto $1,105.76 $1,106
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 b).- Embarcaciones mayores a 3.5 y
 
 menores de 500 unidades de
 
-arqueo bruto $2,211.53 $2,212.00
+arqueo bruto $2,211.53 $2,212
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 c).- Embarcaciones de 500 o más
 
-unidades de arqueo bruto $3,869.55 $3,870.00
+unidades de arqueo bruto $3,869.55 $3,870
 
 IV.- Seguridad, salvamento y auxilio a la navegación:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 a).- Embarcaciones cuya capacidad
 
 sea hasta 3.5 unidades de arqueo
 
-bruto $1,081.13 $1,081.00
+bruto $1,081.13 $1,081
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 b).- Embarcaciones mayores a 3.5 y
 
 menores de 500 unidades de arqueo
 
-bruto $2,162.27 $2,162.00
+bruto $2,162.27 $2,162
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 c).- Embarcaciones de 500 o más
 
-unidades de arqueo bruto $3,243.43 $3,243.00
+unidades de arqueo bruto $3,243.43 $3,243
 
 cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO PRIMER PARRAFO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO PRIMER PARRAFO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 168-C.
 
@@ -10785,7 +10815,7 @@ que se incluyan hasta cinco
 
 embarcaciones, se pagará la cuota
 
-anual de $2,402.09 $2,402.00
+anual de $2,402.09 $2,402
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
@@ -10809,65 +10839,65 @@ ajuste ajuste
 
 I.- Por reconocimiento:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-a).- Hasta 10 toneladas $63.71 $64.00
+a).- Hasta 10 toneladas $63.71 $64
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 b).- De más de 10 y hasta 20
 
-toneladas $127.53 $128.00
+toneladas $127.53 $128
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 c).- De más de 20 y hasta 50
 
-toneladas $510.59 $511.00
+toneladas $510.59 $511
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 d).- De más de 50 y hasta 75
 
-toneladas $1,595.73 $1,596.00
+toneladas $1,595.73 $1,596
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 e).- De más de 75 y hasta 100
 
-toneladas $1,914.95 $1,915.00
+toneladas $1,914.95 $1,915
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 f).- De más de 100 y hasta 200
 
-toneladas $2,872.48 $2,872.00
+toneladas $2,872.48 $2,872
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 g).- De más de 200 y hasta 300
 
-toneladas $3,510.80 $3,511.00
+toneladas $3,510.80 $3,511
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 h).- De más de 300 y hasta 500
 
-toneladas $5,106.68 $5,107.00
+toneladas $5,106.68 $5,107
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 i).- De más de 500 y hasta 1,000
 
-toneladas $7,021.74 $7,022.00
+toneladas $7,021.74 $7,022
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 j).- De más de 1,000 y hasta 2,000
 
-toneladas $8,298.45 $8,298.00
+toneladas $8,298.45 $8,298
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 k).- De más de 2,000 toneladas brutas
 
@@ -10885,41 +10915,41 @@ Si se efectúa a la embarcación un segundo o subsecuente reconocimiento, se pag
 
 II.- Por certificación o revalidación:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-a).- Hasta 10 toneladas $31.82 $32.00
+a).- Hasta 10 toneladas $31.82 $32
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 b).- De más de 10 y hasta 20
 
-toneladas $63.71 $64.00
+toneladas $63.71 $64
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 c).- De más de 20 y hasta 75
 
-toneladas $255.24 $255.00
+toneladas $255.24 $255
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 d).- De más de 75 y hasta 200
 
-toneladas $319.06 $319.00
+toneladas $319.06 $319
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 e).- De más de 200 y hasta 1000
 
-toneladas $446.72 $447.00
+toneladas $446.72 $447
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 f).- De más de 1000 y hasta 2000
 
-toneladas $510.59 $511.00
+toneladas $510.59 $511
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 g).- De más de 2000 toneladas brutas
 
@@ -10935,81 +10965,81 @@ excedentes $0.08
 
 III.- Por la revisión y, en su caso, aprobación de especificaciones técnicas, planos y proyectos de construcción:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 a).- En barcos hasta de 100
 
-toneladas $2,086.38 $2,086.00
+toneladas $2,086.38 $2,086
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 b).- En barcos de más de 100 hasta
 
-500 toneladas $2,781.89 $2,782.00
+500 toneladas $2,781.89 $2,782
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 c).- En barcos de más de 500 hasta
 
-1,000 toneladas $3,477.50 $3,478.00
+1,000 toneladas $3,477.50 $3,478
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 d).- En barcos de 1,000 a 5,000
 
-toneladas $4,520.87 $4,521.00
+toneladas $4,520.87 $4,521
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 e).- En barcos de 5,000 a 10,000
 
 toneladas $5,564.18 $5,564.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 f).- En barcos de más de 10,000
 
-toneladas $6,955.29 $6,955.00
+toneladas $6,955.29 $6,955
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
 IV.- Por la revisión y, en su caso, aprobación de especificaciones técnicas, planos o proyectos que impliquen reformas o modificaciones:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 a).- En barcos hasta de 100
 
-toneladas $695.19 $695.00
+toneladas $695.19 $695
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 b).- En barcos de más de 100 hasta
 
-500 toneladas $1,390.76 $1,391.00
+500 toneladas $1,390.76 $1,391
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 c).- En barcos de más de 500 hasta
 
-1,000 toneladas $2,434.13 $2,434.00
+1,000 toneladas $2,434.13 $2,434
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 d).- En barcos de 1,000 a 5,000
 
-toneladas $3,477.50 $3,478.00
+toneladas $3,477.50 $3,478
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 e).- En barcos de 5,000 a 10,000
 
-toneladas $4,868.70 $4,869.00
+toneladas $4,868.70 $4,869
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 f).- En barcos de más de 10,000
 
-toneladas $6,259.77 $6,260.00
+toneladas $6,259.77 $6,260
 
 V.- (DEROGADA, D.O.F. 27 DE DICIEMBRE DE 2006)
 
@@ -11017,15 +11047,15 @@ V.- (DEROGADA, D.O.F. 27 DE DICIEMBRE DE 2006)
 
 VI.- Por el reconocimiento total a una embarcación en construcción o en reparación o modificación para verificar su estado de avance y el cumplimiento de las especificaciones y normas que le son aplicables, se pagarán los derechos correspondientes de acuerdo al tonelaje conforme a las siguientes cuotas:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 a).- Hasta 50 toneladas brutas
 
 de arqueo comprendiendo 3
 
-inspecciones parciales. $4,636.69 $4,637.00
+inspecciones parciales. $4,636.69 $4,637
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 b).- De más de 50 hasta 100
 
@@ -11033,9 +11063,9 @@ toneladas brutas de arqueo,
 
 comprendiendo 3 inspecciones
 
-parciales $6,955.29 $6,955.00
+parciales $6,955.29 $6,955
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 c).- De más de 100 hasta 200
 
@@ -11043,9 +11073,9 @@ toneladas brutas de arqueo,
 
 comprendiendo 4 inspecciones
 
-parciales $9,273.92 $9,274.00
+parciales $9,273.92 $9,274
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 d).- De más de 200 hasta 300
 
@@ -11053,9 +11083,9 @@ toneladas brutas de arqueo,
 
 comprendiendo 4 inspecciones
 
-parciales $11,592.45 $11,592.00
+parciales $11,592.45 $11,592
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 e).- De más de 300 hasta 500
 
@@ -11063,9 +11093,9 @@ toneladas brutas de arqueo,
 
 comprendiendo 4 inspecciones
 
-parciales $13,911.10 $13,911.00
+parciales $13,911.10 $13,911
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 f).- De más de 500 hasta 1000
 
@@ -11073,9 +11103,9 @@ toneladas brutas de arqueo,
 
 comprendiendo 4 inspecciones
 
-parciales $18,548.11 $18,548.00
+parciales $18,548.11 $18,548
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 g).- De más de 1000 hasta 5000
 
@@ -11083,9 +11113,9 @@ toneladas brutas de arqueo,
 
 comprendiendo 4 inspecciones
 
-parciales $23,185.28 $23,185.00
+parciales $23,185.28 $23,185
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 h).- De más de 5000 hasta 15000
 
@@ -11093,9 +11123,9 @@ toneladas brutas de arqueo,
 
 comprendiendo 5 inspecciones
 
-parciales $27,822.49 $27,822.00
+parciales $27,822.49 $27,822
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 i).- De más de 15000 hasta 25000
 
@@ -11103,9 +11133,9 @@ toneladas brutas de arqueo,
 
 comprendiendo 5 reparaciones
 
-parciales $34,778.31 $34,778.00
+parciales $34,778.31 $34,778
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 j).- De más de 25000 hasta 50000
 
@@ -11113,9 +11143,9 @@ toneladas brutas de arqueo,
 
 comprendiendo 6 inspecciones
 
-parciales $57,963.91 $57,964.00
+parciales $57,963.91 $57,964
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 k).- De más de 50,000 toneladas brutas de arqueo en adelante, comprendiendo 6 inspecciones parciales, la cuota indicada en el inciso anterior, más $2.3133 por cada tonelada o fracción excedente.
 
@@ -11133,51 +11163,51 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-I.- Señales en escolleras $1,817.52 $1,818.00
+I.- Señales en escolleras $1,817.52 $1,818
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-II.- Señales en faros $7,270.47 $7,270.00
+II.- Señales en faros $7,270.47 $7,270
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-III.- Señales en muelles 1,817.52 $1,818.00
+III.- Señales en muelles 1,817.52 $1,818
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 IV.- Señales en atracaderos y peines
 
-de marinas turísticas $1,817.52 $1,818.00
+de marinas turísticas $1,817.52 $1,818
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-V.- Señales de enfilaciones $3,635.14 $3,635.00
+V.- Señales de enfilaciones $3,635.14 $3,635
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-VI.- Señales flotantes $1,453.96 $1,454.00
+VI.- Señales flotantes $1,453.96 $1,454
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-VII.- Señales diurnas $1,817.52 $1,818.00
+VII.- Señales diurnas $1,817.52 $1,818
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-VIII.- Señales laterales fijas $1,453.96 $1,454.00
+VIII.- Señales laterales fijas $1,453.96 $1,454
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-IX.- Señales acústicas $2,726.27 $2,726.00
+IX.- Señales acústicas $2,726.27 $2,726
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-X.- Señales radioeléctricas $4,362.22 $4,362.00
+X.- Señales radioeléctricas $4,362.22 $4,362
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-XI.- Otras señales $4,907.56 $4,908.00
+XI.- Otras señales $4,907.56 $4,908
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE ENERO DE 2002)</small>
 
@@ -11189,35 +11219,35 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I.- De más de 3 hasta 20 unidades
 
-de arqueo bruto $202.85 $203.00
+de arqueo bruto $202.85 $203
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II.- De más de 20 hasta 100 toneladas
 
-brutas de arqueo $305.60 $306.00
+brutas de arqueo $305.60 $306
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 III.- De más de 100 hasta 500 toneladas
 
-brutas de arqueo $501.04 $501.00
+brutas de arqueo $501.04 $501
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 IV.- De más de 500 hasta 1,000
 
-toneladas brutas de arqueo $1,019.79 $1,020.00
+toneladas brutas de arqueo $1,019.79 $1,020
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 V.- De más de 1,000 toneladas
 
-brutas de arqueo $2,039.78 $2,040.00
+brutas de arqueo $2,039.78 $2,040
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
@@ -11249,41 +11279,41 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-I.- Hasta 200 unidades de arqueo bruto $3,798.71 $3,799.00
+I.- Hasta 200 unidades de arqueo bruto $3,798.71 $3,799
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II.- De más de 200 hasta 300
 
-unidades de arqueo bruto $4,144.06 $4,144.00
+unidades de arqueo bruto $4,144.06 $4,144
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 III.- De más de 300 hasta
 
-1000 unidades de arqueo bruto $5,870.86 $5,871.00
+1000 unidades de arqueo bruto $5,870.86 $5,871
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 IV.- De más de 1000 hasta
 
-5000 unidades de arqueo bruto $6,906.96 $6,907.00
+5000 unidades de arqueo bruto $6,906.96 $6,907
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 V.- De más de 5000 hasta 10000
 
-unidades de arqueo bruto $10,360.48 $10,360.00
+unidades de arqueo bruto $10,360.48 $10,360
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 VI.- De más de 10000 unidades
 
-de arqueo bruto $13,814.02 $13,814.00
+de arqueo bruto $13,814.02 $13,814
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 VII.- Por la revisión del protocolo de la
 
@@ -11293,7 +11323,7 @@ sistemas y equipamiento, pruebas de
 
 mar y tirón a punto fijo, se pagará por
 
-cada embarcación $1,223.41 $1,223.00
+cada embarcación $1,223.41 $1,223
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
@@ -11305,41 +11335,41 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I.- Hasta 200 unidades de arqueo
 
-Bruto $3,798.71 $3,799.00
+Bruto $3,798.71 $3,799
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II.- De más de 200 hasta 300
 
-unidades de arqueo bruto $4,144.06 $4,144.00
+unidades de arqueo bruto $4,144.06 $4,144
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 III.- De más de 300 hasta 1000
 
-unidades de arqueo bruto $5,870.86 $5,871.00
+unidades de arqueo bruto $5,870.86 $5,871
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 IV.- De más de 1000 hasta
 
-5000 unidades de arqueo bruto $6,906.96 $6,907.00
+5000 unidades de arqueo bruto $6,906.96 $6,907
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 V.- De más de 5000 hasta
 
-10000 unidades de arqueo bruto $10,360.48 $10,360.00
+10000 unidades de arqueo bruto $10,360.48 $10,360
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 VI.- De más de 10000 unidades
 
-de arqueo bruto $13,814.02 $13,814.00
+de arqueo bruto $13,814.02 $13,814
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
@@ -11351,23 +11381,23 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I.- Dique menor de 150 metros de
 
-eslora $13,814.02 $13,814.00
+eslora $13,814.02 $13,814
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II.- Dique de 150 metros o más de
 
-Eslora $20,721.11 $20,721.00
+Eslora $20,721.11 $20,721
 
 cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 170-D.
 
@@ -11387,7 +11417,7 @@ para los equipos contra incendio de
 
 las embarcaciones, se pagarán derechos,
 
-conforme a la cuota de: $22,351.23 $22,351.00
+conforme a la cuota de: $22,351.23 $22,351
 
 Por el análisis de la solicitud y, en su
 
@@ -11399,7 +11429,7 @@ en el certificado otorgado, se pagará el
 
 derecho por cada persona, conforme a la
 
-cuota de: $1,170.78 $1,171.00
+cuota de: $1,170.78 $1,171
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
@@ -11411,19 +11441,19 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-I.- Por persona moral $17,357.66 $17,358.00
+I.- Por persona moral $17,357.66 $17,358
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-II.- Por persona física $1,590.91 $1,591.00
+II.- Por persona física $1,590.91 $1,591
 
 cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 170-F.
 
@@ -11443,7 +11473,7 @@ navales, se pagará anualmente el
 
 derecho de recepción de desechos
 
-conforme a la cuota de: $32,190.75 $32,191.00
+conforme a la cuota de: $32,190.75 $32,191
 
 > <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
@@ -11457,119 +11487,119 @@ ajuste ajuste
 
 I.- Por la revisión de la evaluación de protección:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 a).- De más de 10 hasta 200 unidades
 
-de arqueo bruto $3,022.74 $3,023.00
+de arqueo bruto $3,022.74 $3,023
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 b).- De más de 200 hasta 500 unidades
 
-de arqueo bruto $3,767.78 $3,768.00
+de arqueo bruto $3,767.78 $3,768
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 c).- De más de 500 hasta 1,000 unidades
 
-de arqueo bruto $4,506.90 $4,507.00
+de arqueo bruto $4,506.90 $4,507
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 d).- De más de 1,000 hasta 5,000
 
-unidades de arqueo bruto $6,419.17 $6,419.00
+unidades de arqueo bruto $6,419.17 $6,419
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 e).- De más de 5,000 hasta 10,000
 
-unidades de arqueo bruto $8,960.59 $8,961.00
+unidades de arqueo bruto $8,960.59 $8,961
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 f).- De más de 10,000 unidades
 
-de arqueo bruto $14,844.05 $14,844.00
+de arqueo bruto $14,844.05 $14,844
 
 II.- Por la revisión y, en su caso, aprobación del Plan de Protección:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 a).- De más de 10 hasta 200 unidades
 
-de arqueo bruto $3,282.91 $3,283.00
+de arqueo bruto $3,282.91 $3,283
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 b).- De más de 200 hasta 500
 
-unidades de arqueo bruto $4,103.63 $4,104.00
+unidades de arqueo bruto $4,103.63 $4,104
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 c).- De más de 500 hasta 1,000
 
-unidades de arqueo bruto $4,897.17 $4,897.00
+unidades de arqueo bruto $4,897.17 $4,897
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 d).- De más de 1,000 hasta 5,000
 
-unidades de arqueo bruto $6,977.37 $6,977.00
+unidades de arqueo bruto $6,977.37 $6,977
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 e).- De más de 5,000 hasta 10,000
 
-unidades de arqueo bruto $9,741.11 $9,741.00
+unidades de arqueo bruto $9,741.11 $9,741
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 f).- De más de 10,000 unidades
 
-de arqueo bruto $16,144.92 $16,145.00
+de arqueo bruto $16,144.92 $16,145
 
 También se pagarán los derechos establecidos en esta fracción, cuando se lleven a cabo modificaciones en el Plan de Protección de cada buque.
 
 III.- Por la verificación de la implantación del Plan de Protección y, en su caso, certificación o renovación anual:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 a).- De más de 10 y hasta 200
 
-unidades de arqueo bruto $3,078.32 $3,078.00
+unidades de arqueo bruto $3,078.32 $3,078
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 b).- De más de 200 y hasta 500
 
-unidades de arqueo bruto $3,835.19 $3,835.00
+unidades de arqueo bruto $3,835.19 $3,835
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 c).- De más de 500 y hasta 1,000
 
-unidades de arqueo bruto $4,588.51 $4,589.00
+unidades de arqueo bruto $4,588.51 $4,589
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 d).- De más de 1,000 y hasta 5,000
 
-unidades de arqueo bruto $6,536.25 $6,536.00
+unidades de arqueo bruto $6,536.25 $6,536
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 e).- De más de 5,000 y hasta
 
-10,000 unidades de arqueo bruto $9,122.62 $9,123.00
+10,000 unidades de arqueo bruto $9,122.62 $9,123
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 f).- De más de 10,000 unidades
 
-de arqueo bruto $15,111.32 $15,111.00
+de arqueo bruto $15,111.32 $15,111
 
 > <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
@@ -11583,99 +11613,99 @@ ajuste ajuste
 
 I.- Por la revisión de documentación y, en su caso, expedición de documento de cumplimiento o certificado, según corresponda:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-a).- Por empresa $6,928.88 $6,929.00
+a).- Por empresa $6,928.88 $6,929
 
 b).- Por buque:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 1.- De 10 hasta 200 unidades
 
-de arqueo bruto $2,529.60 $2,530.00
+de arqueo bruto $2,529.60 $2,530
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 2.- De más de 200 hasta 500
 
-unidades de arqueo bruto $3,363.32 $3,363.00
+unidades de arqueo bruto $3,363.32 $3,363
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 3.- De más de 500 hasta 1,000
 
-unidades de arqueo bruto $4,025.58 $4,026.00
+unidades de arqueo bruto $4,025.58 $4,026
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 4.- De más de 1,000 hasta 5,000
 
-unidades de arqueo bruto $5,018.97 $5,019.00
+unidades de arqueo bruto $5,018.97 $5,019
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 5.- De más de 5,000 hasta 10,000
 
-unidades de arqueo bruto $7,150.03 $7,150.00
+unidades de arqueo bruto $7,150.03 $7,150
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 6.- De más de 10,000 unidades
 
-de arqueo bruto $9,956.35 $9,956.00
+de arqueo bruto $9,956.35 $9,956
 
 También se pagarán los derechos establecidos en esta fracción, cuando se lleven a cabo modificaciones a los documentos de gestión de la seguridad de la empresa o de cada buque.
 
 II.- Por la verificación del cumplimiento del Código Internacional de Gestión de la Seguridad y, en su caso, expedición o renovación anual del documento de cumplimiento o certificado, según corresponda:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-a).- Por empresa $19,038.76 $19,039.00
+a).- Por empresa $19,038.76 $19,039
 
 b).- Por buque:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 1.- De más de 10 y hasta 200
 
-unidades de arqueo bruto $3,078.32 $3,078.00
+unidades de arqueo bruto $3,078.32 $3,078
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 2.- De más de 200 y hasta 500
 
-unidades de arqueo bruto $3,835.19 $3,835.00
+unidades de arqueo bruto $3,835.19 $3,835
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 3.- De más de 500 y hasta 1,000
 
-unidades de arqueo bruto $4,588.51 $4,589.00
+unidades de arqueo bruto $4,588.51 $4,589
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 4.- De más de 1,000 y hasta 5,000
 
-unidades de arqueo bruto $6,536.25 $6,536.00
+unidades de arqueo bruto $6,536.25 $6,536
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 5.- De más de 5,000 y hasta 10,000
 
-unidades de arqueo bruto $9,122.62 $9,123.00
+unidades de arqueo bruto $9,122.62 $9,123
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 6.- De más de 10,000 unidades
 
-de arqueo bruto $15,111.32 $15,111.00
+de arqueo bruto $15,111.32 $15,111
 
 cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 170-I.
 
@@ -11689,7 +11719,7 @@ dispositivos y medios de salvamento,
 
 por cada tipo, se pagará anualmente
 
-el derecho conforme a la cuota de: $2,288.34 $2,288.00
+el derecho conforme a la cuota de: $2,288.34 $2,288
 
 > <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
@@ -11711,15 +11741,15 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I.- Expedición y reposición de
 
 Libretas de mar e identidad
 
-Marítima $242.12 $242.00
+Marítima $242.12 $242
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II.- Títulos profesionales al
 
@@ -11727,9 +11757,9 @@ Personal de la marina mercante
 
 nacional, tanto de cubierta
 
-como de máquinas $727.04 $727.00
+como de máquinas $727.04 $727
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 III.- Certificados de competencia
 
@@ -11737,35 +11767,35 @@ para mandar embarcaciones, tanto
 
 en el departamento de cubierta como
 
-en el de máquinas $484.59 $485.00
+en el de máquinas $484.59 $485
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 IV.- Certificados de competencia
 
 especial para mandar o laborar
 
-en buques especializados $969.54 $970.00
+en buques especializados $969.54 $970
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
 V.- Documento oficial para poder ejercer como tripulante a bordo de las embarcaciones mercantes mexicanas:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-a).- Personal subalterno $484.59 $485.00
+a).- Personal subalterno $484.59 $485
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-b).- Personal titulado $727.04 $727.00
+b).- Personal titulado $727.04 $727
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 VI.- Expedición de refrendos de
 
 títulos a oficialidad de la marina
 
-mercante $363.36 $363.00
+mercante $363.36 $363
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
@@ -11783,13 +11813,13 @@ ajuste ajuste
 
 I.- Por la expedición de la autorización de Agente Naviero Consignatario de Buques en:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-a).- Navegación de Altura $6,453.48 $6,453.00
+a).- Navegación de Altura $6,453.48 $6,453
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-b).- Navegación de Cabotaje $4,609.41 $4,609.00
+b).- Navegación de Cabotaje $4,609.41 $4,609
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -11799,7 +11829,7 @@ c).- (DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2010)
 
 d).- (DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2010)
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II.- Por la expedición de la
 
@@ -11809,7 +11839,7 @@ como Agente Naviero
 
 General o Agente Naviero
 
-Protector $13,123.35 $13,123.00
+Protector $13,123.35 $13,123
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -11849,7 +11879,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I.- Estudios técnicos de planos,
 
@@ -11865,9 +11895,9 @@ jurisdicción federal, por cada 100
 
 metros o fracción que exceda de
 
-dicha longitud $1,765.90 $1,766.00
+dicha longitud $1,765.90 $1,766
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II.- Estudios técnicos de planos,
 
@@ -11881,7 +11911,7 @@ subterráneos o aéreos que
 
 atraviesen carreteras y puentes
 
-de jurisdicción federal $1,765.90 $1,766.00
+de jurisdicción federal $1,765.90 $1,766
 
 III.- Por la autorización para la construcción de accesos que afecten el derecho de vía de una carretera, incluyendo la supervisión de la obra, 14% sobre el costo de la misma.
 
@@ -11893,7 +11923,7 @@ proyecto, supervisión y autorización
 
 de obras para paradores 1% sobre el costo total de la obra.
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 V.- Por el estudio técnico
 
@@ -11917,191 +11947,191 @@ derechos de vía de carreteras,
 
 puentes o vías férreas, por
 
-kilómetro o fracción $1,055.48 $1,055.00
+kilómetro o fracción $1,055.48 $1,055
 
 VI.- Por el permiso para la construcción de accesos que afecten el derecho de vía de un camino o puente de cuota, incluyendo la supervisión de la obra:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 a).- Proyecto a realizar en
 
-terreno plano $17,291.66 $17,292.00
+terreno plano $17,291.66 $17,292
 
 b).- Proyecto a realizar en terreno de lomerío con:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-1.- Geometría en corte $19,045.89 $19,046.00
+1.- Geometría en corte $19,045.89 $19,046
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-2.- Geometría en terraplén $20,800.10 $20,800.00
+2.- Geometría en terraplén $20,800.10 $20,800
 
 c).- Proyecto a realizar en terreno montañoso con:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-1.- Geometría en corte $22,554.33 $22,554.00
+1.- Geometría en corte $22,554.33 $22,554
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-2.- Geometría en terraplén $24,308.60 $24,309.00
+2.- Geometría en terraplén $24,308.60 $24,309
 
 VII.- Por el estudio técnico del proyecto, supervisión y permiso de obras para paradores en caminos y puentes de cuota:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 a).- Con superficie total del proyecto
 
-hasta 3,000 M2 $40,597.96 $40,598.00
+hasta 3,000 M2 $40,597.96 $40,598
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 b).- Con superficie total del proyecto
 
-hasta 5,000 M2 $48,366.76 $48,367.00
+hasta 5,000 M2 $48,366.76 $48,367
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 c).- Con superficie total del proyecto
 
-hasta 10,000 M2 $56,636.69 $56,637.00
+hasta 10,000 M2 $56,636.69 $56,637
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 d).- Con superficie mayor a los
 
 10,000 M2, por cada 1,000 M2
 
-adicionales $1,628.79 $1,629.00
+adicionales $1,628.79 $1,629
 
 VIII.- Por la revisión, permiso y supervisión del proyecto geométrico, estructura de pavimentos, obras hidráulicas y otras que se requieran no contempladas en el proyecto original o que requieran modificación en los caminos y puentes de cuota:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 a).- Por obras desarrolladas en un
 
-tramo de 1 Km. de longitud $17,291.66 $17,292.00
+tramo de 1 Km. de longitud $17,291.66 $17,292
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 b).- Por obras desarrolladas en un tramo
 
-no mayor de 5 Km. de longitud $20,800.10 $20,800.00
+no mayor de 5 Km. de longitud $20,800.10 $20,800
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 c).- Por obras desarrolladas en un tramo
 
-no mayor de 20 Km. de longitud $24,308.60 $24,309.00
+no mayor de 20 Km. de longitud $24,308.60 $24,309
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 d).- Por obras desarrolladas en un tramo
 
 mayor de 20 Km., por cada kilómetro
 
-adicional $250.49 $250.00
+adicional $250.49 $250
 
 IX.- Por la revisión, permiso y supervisión de señales y dispositivos para el control del tránsito no contempladas en el proyecto original o que requieran modificación en los caminos y puentes de cuota:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 a).- Proyecto comprendido en un tramo
 
-no mayor de 1 Km. $3,508.34 $3,508.00
+no mayor de 1 Km. $3,508.34 $3,508
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 b).- Proyecto comprendido en un tramo
 
-no mayor de 5 Km. $7,016.80 $7,017.00
+no mayor de 5 Km. $7,016.80 $7,017
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 c).- Proyecto comprendido en un tramo
 
-no mayor de 20 Km. $8,520.44 $8,520.00
+no mayor de 20 Km. $8,520.44 $8,520
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 d).- Proyecto comprendido en un tramo
 
 mayor de 20 Km., por kilómetro
 
-adicional $250.49 $250.00
+adicional $250.49 $250
 
 X.- Por la revisión, permiso y supervisión de forestación no contemplada en el proyecto original o que requiera modificación en los caminos y puentes de cuota:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 a).- Proyecto comprendido en un tramo
 
-no mayor de 1 Km $3,508.34 $3,508.00
+no mayor de 1 Km $3,508.34 $3,508
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 b).- Proyecto comprendido en un tramo
 
-no mayor de 5 Km $5,713.66 $5,714.00
+no mayor de 5 Km $5,713.66 $5,714
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 c).- Proyecto comprendido en un tramo
 
-no mayor de 20 Km $8,520.44 $8,520.00
+no mayor de 20 Km $8,520.44 $8,520
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 d).- Proyecto comprendido en un tramo
 
 mayor de 20 Km., por kilómetro
 
-adicional $250.49 $250.00
+adicional $250.49 $250
 
 XI.- Por la revisión, permiso y supervisión de estación de casetas de cobro, edificios administrativos u otros servicios auxiliares no contemplados en el proyecto original o que requiera modificación en los caminos y puentes de cuota:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 a).- Con superficie total del proyecto
 
-no mayor de 100 M2 $19,045.89 $19,046.00
+no mayor de 100 M2 $19,045.89 $19,046
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 b).- Con superficie total del proyecto
 
-mayor de 100 M2 $26,814.65 $26,815.00
+mayor de 100 M2 $26,814.65 $26,815
 
 XII.- Por revisión, permiso y supervisión de proyectos de iluminación no contemplada en el proyecto original o que requiera modificación en los caminos y puentes de cuota:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 a).- Proyecto comprendido en un tramo
 
-no mayor de 1 Km $3,508.34 $3,508.00
+no mayor de 1 Km $3,508.34 $3,508
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 b).- Proyecto comprendido en un tramo
 
-no mayor de 5 Km $7,016.80 $7,017.00
+no mayor de 5 Km $7,016.80 $7,017
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 c).- Proyecto comprendido en un tramo
 
-no mayor de 20 Km $8,520.44 $8,520.00
+no mayor de 20 Km $8,520.44 $8,520
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 d).- Proyecto comprendido en un
 
 tramo mayor de 20 Km., por
 
-kilómetro adicional $250.49 $250.00
+kilómetro adicional $250.49 $250
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 XIII.- Por revisión, permiso y
 
@@ -12115,7 +12145,7 @@ original o que requiera
 
 modificación en los caminos
 
-y puentes de cuota $5,262.57 $5,263.00
+y puentes de cuota $5,262.57 $5,263
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
@@ -12131,25 +12161,25 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-I.- Subterráneas $1,308.97 $1,309.00
+I.- Subterráneas $1,308.97 $1,309
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-II.- Aéreos $1,308.97 $1,309.00
+II.- Aéreos $1,308.97 $1,309
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-III.- A nivel $1,794.04 $1,794.00
+III.- A nivel $1,794.04 $1,794
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-IV.- A desnivel $4,461.16 $4,461.00
+IV.- A desnivel $4,461.16 $4,461
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-V.- Pasos superiores $8,874.21 $8,874.00
+V.- Pasos superiores $8,874.21 $8,874
 
 > <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
@@ -12161,29 +12191,29 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-I.- Laderas o escapes $1,794.04 $1,794.00
+I.- Laderas o escapes $1,794.04 $1,794
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-II.- Espuelas hasta 1,000 metros $2,666.82 $2,667.00
+II.- Espuelas hasta 1,000 metros $2,666.82 $2,667
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-III.- Cortas vías $1,308.97 $1,309.00
+III.- Cortas vías $1,308.97 $1,309
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-IV.- Patios y terminales $8,874.21 $8,874.00
+IV.- Patios y terminales $8,874.21 $8,874
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-V.- Vías particulares $4,364.19 $4,364.00
+V.- Vías particulares $4,364.19 $4,364
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-VI.- Levantamientos de vías $4,364.19 $4,364.00
+VI.- Levantamientos de vías $4,364.19 $4,364
 
 > <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
@@ -12195,31 +12225,31 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-I.- Arrendamientos $1,308.97 $1,309.00
+I.- Arrendamientos $1,308.97 $1,309
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-II.- Enajenaciones $1,308.97 $1,309.00
+II.- Enajenaciones $1,308.97 $1,309
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-III.- Donaciones $1,794.04 $1,794.00
+III.- Donaciones $1,794.04 $1,794
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-IV.- Permutas $1,790.89 $1,791.00
+IV.- Permutas $1,790.89 $1,791
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-V.- Construcciones de edificios $4,364.19 $4,364.00
+V.- Construcciones de edificios $4,364.19 $4,364
 
 cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 172-D.
 
@@ -12229,7 +12259,7 @@ autorización para operar el
 
 transporte multimodal, se
 
-pagará la cuota de $2,362.04 $2,362.00
+pagará la cuota de $2,362.04 $2,362
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -12241,35 +12271,35 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I.- Para la prestación de servicios
 
-auxiliares, por cada uno $7,518.01 $7,518.00
+auxiliares, por cada uno $7,518.01 $7,518
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II.- Para construir accesos, cruzamientos
 
 e instalaciones marginales en el derecho
 
-de vía de las vías férreas $7,518.01 $7,518.00
+de vía de las vías férreas $7,518.01 $7,518
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 III.- Para instalar anuncios y señales
 
 publicitarias en el derecho de vía,
 
-por anuncio o señal publicitaria $6,377.20 $6,377.00
+por anuncio o señal publicitaria $6,377.20 $6,377
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 IV.- Para construir y operar
 
-puentes sobre vías férreas $15,036.17 $15,036.00
+puentes sobre vías férreas $15,036.17 $15,036
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 V.- Por el otorgamiento de permisos
 
@@ -12281,15 +12311,15 @@ almacenaje y transbordo que se
 
 ejecuten en el derecho de vía de las
 
-vías férreas $9,251.56 $9,252.00
+vías férreas $9,251.56 $9,252
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 VI.- Por asignación de inicial y
 
 número, o matrícula al equipo
 
-ferroviario $470.86 $471.00
+ferroviario $470.86 $471
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -12301,13 +12331,13 @@ cuota sin cuota con
 
 ajuste ajuste
 
-ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-I.- Por la expedición $501.04 $501.00
+I.- Por la expedición $501.04 $501
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-II.- Por la revalidación $501.04 $501.00
+II.- Por la revalidación $501.04 $501
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -12319,13 +12349,13 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I.- Por verificación especial a los
 
-concesionarios e vías férreas $1,754.12 $1,754.00
+concesionarios e vías férreas $1,754.12 $1,754
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II.- Por la verificación técnica
 
@@ -12339,29 +12369,29 @@ del servicio público de transporte
 
 ferroviario, por cada unidad
 
-tractiva o de arrastre $751.68 $752.00
+tractiva o de arrastre $751.68 $752
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 a).- Por la expedición de la
 
-constancia de aprobación $150.22 $150.00
+constancia de aprobación $150.22 $150
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 III.- Por verificación para la
 
 construcción o reconstrucción
 
-de obras ferroviarias $1,754.12 $1,754.00
+de obras ferroviarias $1,754.12 $1,754
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 IV.- Por la verificación de las
 
 instalaciones de los servicios
 
-auxiliares $1,616.90 $1,617.00
+auxiliares $1,616.90 $1,617
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -12381,19 +12411,19 @@ ajuste ajuste
 
 I.- Para la prestación del servicio público de transporte ferroviario de pasajeros o de carga:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-a).- Por la expedición del título $1,754.12 $1,754.00
+a).- Por la expedición del título $1,754.12 $1,754
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-b).- Por la reposición del título $1,252.90 $1,253.00
+b).- Por la reposición del título $1,252.90 $1,253
 
 II.- Para la construcción, operación y explotación de vías férreas, que sean vía general de comunicación:
 
 a).- Por la expedición del título:
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 Hasta 100 De más de De más de
 
@@ -12413,7 +12443,7 @@ Federal $626.38 $876.94 $1,127.59
 
 2.- Particulares exclusivamente $2,756.51 $5,262.57 $7,768.66
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 III.- Por la autorización para la
 
@@ -12421,11 +12451,11 @@ cesión total o parcial de derechos
 
 y obligaciones establecidos en las
 
-concesiones o permisos $1,503.48 $1,503.00
+concesiones o permisos $1,503.48 $1,503
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-IV.- Por prórroga de la vigencia $1,754.12 $1,754.00
+IV.- Por prórroga de la vigencia $1,754.12 $1,754
 
 > <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -12437,17 +12467,17 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I.- Manuales de sistemas de control
 
-de tránsito $6,383.38 $6,383.00
+de tránsito $6,383.38 $6,383
 
 cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 172-K.
 
@@ -12457,13 +12487,13 @@ del permiso para construir, instalar
 
 y operar terminales interiores de carga,
 
-se pagará la cuota de $11,775.45 $11,775.00
+se pagará la cuota de $11,775.45 $11,775
 
 cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 172-L.
 
@@ -12473,13 +12503,13 @@ para el inicio de la operación de
 
 terminales interiores de carga, se
 
-pagará la cuota de $9,849.30 $9,849.00
+pagará la cuota de $9,849.30 $9,849
 
 cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 172-M.
 
@@ -12515,13 +12545,13 @@ número de tarifas o reglas de aplicación
 
 contenidas en la misma, conforme a la
 
-cuota de: $749.97 $750.00
+cuota de: $749.97 $750
 
 cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 172-N.
 
@@ -12533,7 +12563,7 @@ derechos derivados de la concesión
 
 del sistema ferroviario, se pagará la
 
-cuota de $12,636.10 $12,636.00
+cuota de $12,636.10 $12,636
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 18 DE DICIEMBRE DE 1992)</small>
 
@@ -12655,7 +12685,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO PRIMER PARRAFO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO PRIMER PARRAFO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 176-A.
 
@@ -12681,7 +12711,7 @@ sobre monumentos artísticos,
 
 por pieza, conforme a la
 
-cuota de: $35.90 $36.00
+cuota de: $35.90 $36
 
 > <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
@@ -12697,11 +12727,11 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO PRIMER PARRAFO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO PRIMER PARRAFO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I.- Expedición de cédula individual
 
-de registro de objeto $10.51 $11.00
+de registro de objeto $10.51 $11
 
 > <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -12711,7 +12741,7 @@ Se exceptúa del pago de derechos previsto en esta fracción a las asociaciones 
 
 II.- Permisos:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 a).- De exportación de reproducciones
 
@@ -12723,9 +12753,9 @@ Instituto Nacional de Antropología e
 
 Historia, sin límite de objetos y por
 
-cada operación $93.22 $93.00
+cada operación $93.22 $93
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 b).- De exportación de reproducción
 
@@ -12733,19 +12763,19 @@ autorizada, cuando éstas carezcan
 
 de sello, marca o registro por unidad
 
-de empaque $934.24 $934.00
+de empaque $934.24 $934
 
 III.- Dictámenes
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 a) Para determinar que un objeto
 
 o lote es reproducción, por unidad
 
-o empaque hasta veinticinco objetos $141.09 $141.00
+o empaque hasta veinticinco objetos $141.09 $141
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 b) Para establecer delimitación de
 
@@ -12753,7 +12783,7 @@ inmuebles privados con monumentos
 
 y zonas arqueológicas, a petición de
 
-parte $235.63 $236.00
+parte $235.63 $236
 
 ###### ARTICULO 178.
 
@@ -12783,7 +12813,7 @@ I.- (DEROGADA, D.O.F. 18 DE NOVIEMBRE DE 2010)
 
 II.- Permisos.
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 a).- De exportación temporal
 
@@ -12799,11 +12829,11 @@ de la prima de seguro o garantía
 
 que proceda por el valor del
 
-monumento histórico o artístico $311.20 $311.00
+monumento histórico o artístico $311.20 $311
 
 b).- De exportación de reproducciones a persona física o moral:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 1.- Cuando los objetos tengan sello,
 
@@ -12815,23 +12845,23 @@ e Historia y de Bellas Artes y Literatura,
 
 sin límite de objetos y por cada
 
-operación $93.22 $93.00
+operación $93.22 $93
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 2.- Cuando carezcan de sello, marca
 
 o registro por unidad de empaque,
 
-hasta 25 objetos $934.24 $934.00
+hasta 25 objetos $934.24 $934
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 III.- Por el dictamen para certificar el
 
 carácter histórico o artístico de un bien
 
-mueble o inmueble $93.22 $93.00
+mueble o inmueble $93.22 $93
 
 > <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
@@ -12845,35 +12875,35 @@ ajuste ajuste
 
 I.- Autorización para la realización de obra nueva:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 a).- Para casa habitación y
 
-escuelas $44.51 $45.00
+escuelas $44.51 $45
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 b).- Para conjuntos de departamentos,
 
 la cuota del inciso anterior y además,
 
-por cada unidad $44.51 $45.00
+por cada unidad $44.51 $45
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 c).- Para conjunto de casas las
 
 cuotas de los incisos a) y b) y
 
-además, por cada unidad $224.02 $224.00
+además, por cada unidad $224.02 $224
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 d).- Para edificios de oficinas o
 
-mixtos $55.66 $56.00
+mixtos $55.66 $56
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 e).- Para edificios industriales,
 
@@ -12881,57 +12911,57 @@ bodegas, talleres, fábricas o
 
 servicios de automóviles y
 
-estacionamientos $68.18 $68.00
+estacionamientos $68.18 $68
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 f).- Para restaurantes, hoteles,
 
-hospitales, teatros y cines $68.18 $68.00
+hospitales, teatros y cines $68.18 $68
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 g).- Para conjuntos comerciales,
 
 supermercados, cabarets y
 
-similares $111.71 $112.00
+similares $111.71 $112
 
 II.- Autorización para demolición, ampliación, modificación, restauración o rehabilitación, reestructuración y prórrogas de licencia:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-a).- Para demolición $22.01 $22.00
+a).- Para demolición $22.01 $22
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-b).- Para ampliación $68.18 $68.00
+b).- Para ampliación $68.18 $68
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-c).- Para modificación $68.18 $68.00
+c).- Para modificación $68.18 $68
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 d).- Cualquier caso de obra no
 
-especificado $68.18 $68.00
+especificado $68.18 $68
 
-III.-Autorización para la fijación de anuncios:
+III.- Autorización para la fijación de anuncios:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-a).- Adosados al muro $22.01 $22.00
+a).- Adosados al muro $22.01 $22
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-b).- En saliente $69.51 $70.00
+b).- En saliente $69.51 $70
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 c).- Cualquier caso de anuncio
 
-no especificado $68.18 $68.00
+no especificado $68.18 $68
 
 ###### ARTICULO 181.
 
@@ -12955,31 +12985,31 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I. Recepción, examen, estudio y, en su caso, registro de cada obra literaria o artística, o de una obra derivada o versión $177.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II. Recepción, examen, estudio y, en su caso, registro de las características gráficas y distintivas de cada obra $177.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 III. Recepción, examen, estudio y, en su caso, registro de cada fonograma, videograma o libro $177.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 IV. Búsqueda y expedición de cada constancia de antecedentes o datos de registro o de inscripción $126.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 V.- Recepción, examen, estudio y,
 
 en su caso, inscripción de cada
 
-convenio o contrato $930.67 $931.00
+convenio o contrato $930.67 $931
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 VI.- Inscripción de cada poder
 
@@ -12991,9 +13021,9 @@ de Autor, cuando la representación
 
 conferida abarque todos los asuntos
 
-del mandante $930.67 $931.00
+del mandante $930.67 $931
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 VII.- Recepción, examen y estudio de
 
@@ -13007,9 +13037,9 @@ o extinga derechos patrimoniales
 
 de autor y, en su caso, inscripción de
 
-la anotación marginal correspondiente $1,395.25 $1,395.00
+la anotación marginal correspondiente $1,395.25 $1,395
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 VIII.- Recepción, examen, estudio
 
@@ -13019,9 +13049,9 @@ acta, documento, escritura y
 
 estatutos de las sociedades de
 
-gestión colectiva $1,395.25 $1,395.00
+gestión colectiva $1,395.25 $1,395
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 IX.- Recepción, examen, estudio y,
 
@@ -13029,9 +13059,9 @@ en su caso, inscripción de cada
 
 convenio o contrato celebrado por
 
-las sociedades de gestión colectiva $1,234.54 $1,235.00
+las sociedades de gestión colectiva $1,234.54 $1,235
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD [N. DE E. REFORMADA], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 X.- Inscripción de cada poder especial
 
@@ -13041,23 +13071,23 @@ de gestión colectiva para el cobro de
 
 percepciones derivadas de los derechos
 
-de autor o derechos conexos $587.00 $587.00
+de autor o derechos conexos $587.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA],D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 XI.- Inscripción de cada poder que
 
 autorice la gestión individual de
 
-derechos patrimoniales $1,169.32 $1,169.00
+derechos patrimoniales $1,169.32 $1,169
 
-(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2009) (ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2009) (ACTUALIZADO PRIMER PARRAFO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 XII.- Por la recepción y estudio del escrito de queja dentro del procedimiento de avenencia y, en su caso, por la realización de la primera audiencia en el procedimiento de avenencia $324.00
 
 Tratándose de las subsecuentes audiencias, por la celebración de cada una se pagará el 50% de la cuota establecida en esta fracción.
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 XIII.- Presentación del escrito que
 
@@ -13065,9 +13095,9 @@ dé inicio al procedimiento de
 
 infracción administrativa en materia
 
-de derechos de autor $1,403.18 $1,403.00
+de derechos de autor $1,403.18 $1,403
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 XIV.- Solicitud y dictamen de reservas
 
@@ -13075,9 +13105,9 @@ de derechos al uso exclusivo de títulos
 
 de publicaciones o difusiones
 
-periódicas $1,403.18 $1,403.00
+periódicas $1,403.18 $1,403
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 XV.- Solicitud y dictamen de la
 
@@ -13085,9 +13115,9 @@ renovación de reservas de derechos
 
 al uso exclusivo de títulos de
 
-publicaciones o difusiones periódicas $736.56 $737.00
+publicaciones o difusiones periódicas $736.56 $737
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 XVI.- Solicitud y dictamen de reservas
 
@@ -13101,9 +13131,9 @@ nombres artísticos, denominaciones
 
 de grupos artísticos o promociones
 
-publicitarias $2,771.43 $2,771.00
+publicitarias $2,771.43 $2,771
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 XVII.- Solicitud y dictamen de la
 
@@ -13117,13 +13147,13 @@ humanos de caracterización,
 
 nombres artísticos y denominaciones
 
-de grupos artísticos $1,449.32 $1,449.00
+de grupos artísticos $1,449.32 $1,449
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 XVIII.- Solicitud de análisis y búsqueda de antecedentes de títulos, nombres o denominaciones de publicaciones o difusiones periódicas, nombres artísticos o denominaciones de grupos artísticos $148.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 XIX.- Solicitud de análisis y búsqueda
 
@@ -13135,9 +13165,9 @@ de caracterización, personajes ficticios
 
 o simbólicos, o promociones
 
-publicitarias $238.61 $239.00
+publicitarias $238.61 $239
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 XX.- Solicitud y dictamen de
 
@@ -13145,21 +13175,21 @@ anotaciones marginales en los
 
 expedientes de reservas de derechos
 
-al uso exclusivo $736.56 $737.00
+al uso exclusivo $736.56 $737
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 XXI. Otorgamiento de números relativos al Número Internacional Normalizado del Libro (ISBN) $152.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 XXII.- Solicitud de declaración
 
 administrativa de nulidad de reservas
 
-de derechos al uso exclusivo $1,396.84 $1,397.00
+de derechos al uso exclusivo $1,396.84 $1,397
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 XXIII.- Solicitud de declaración
 
@@ -13171,9 +13201,9 @@ Nacional del Derecho de Autor en los
 
 expedientes de reservas de derechos
 
-al uso exclusivo $1,398.41 $1,398.00
+al uso exclusivo $1,398.41 $1,398
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 XXIV.- Recepción, examen, estudio y,
 
@@ -13185,9 +13215,9 @@ de cualquier acto o instrumento que
 
 tenga por efecto la revocación del
 
-poder otorgado, previamente inscrito $1,302.95 $1,303.00
+poder otorgado, previamente inscrito $1,302.95 $1,303
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 XXV.- Solicitud, dictamen y, en su
 
@@ -13195,9 +13225,9 @@ caso, expedición de la autorización
 
 de apoderado para la gestión individual
 
-de derechos patrimoniales $1,372.95 $1,373.00
+de derechos patrimoniales $1,372.95 $1,373
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 XXVI. Solicitud de práctica de visita de inspección a establecimientos comerciales a petición de parte $551.00
 
@@ -13217,13 +13247,13 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I.- Registro de colegio de
 
-Profesionistas $6,352.35 $6,352.00
+Profesionistas $6,352.35 $6,352
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II.- Registro de establecimiento
 
@@ -13233,75 +13263,75 @@ para expedir títulos profesionales,
 
 diplomas de especialidad o grados
 
-académicos $6,352.35 $6,352.00
+académicos $6,352.35 $6,352
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 III.- Revalidación de título profesional,
 
 de diploma de especialidad y de grado
 
-académico $1,270.11 $1,270.00
+académico $1,270.11 $1,270
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 IV.- Registro de título profesional,
 
 de diploma de especialidad y de
 
-grado académico $634.91 $635.00
+grado académico $634.91 $635
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 V.- Expedición de autorización para
 
-el ejercicio de una especialidad $636.48 $636.00
+el ejercicio de una especialidad $636.48 $636
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 VI.- Expedición de autorización
 
 para constituir un colegio de
 
-profesionistas $634.93 $635.00
+profesionistas $634.93 $635
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
 VII.- Enmiendas al registro profesional:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 a).- En relación con colegios de
 
-profesionistas $634.93 $635.00
+profesionistas $634.93 $635
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 b).- En relación con establecimiento
 
-educativo $634.93 $635.00
+educativo $634.93 $635
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 c).- En relación con título profesional
 
-o grado académico $126.68 $127.00
+o grado académico $126.68 $127
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 d).- Inscripción de asociado a un
 
 colegio de profesionistas que no
 
-figuren en el registro original $24.97 $25.00
+figuren en el registro original $24.97 $25
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 e).- En relación con Federaciones
 
-de Colegios de Profesionistas $765.80 $766.00
+de Colegios de Profesionistas $765.80 $766
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 f).- Inscripción de asociado a una
 
@@ -13309,25 +13339,25 @@ Federación de Colegios de
 
 Profesionistas que no figure en el
 
-registro original $765.80 $766.00
+registro original $765.80 $766
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 VIII.- Expedición de duplicado de
 
 cédula o de autorización para el
 
-ejercicio de una especialidad $254.96 $255.00
+ejercicio de una especialidad $254.96 $255
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 IX.- Expedición de cédula profesional
 
 con efectos de patente o de cédula
 
-de grado académico $253.70 $254.00
+de grado académico $253.70 $254
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 X.- Expedición de autorización
 
@@ -13335,23 +13365,23 @@ provisional para ejercer por estar
 
 el título profesional en trámite o
 
-para ejercer como pasante $253.70 $254.00
+para ejercer como pasante $253.70 $254
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-XI.- Consultas de archivo $115.74 $116.00
+XI.- Consultas de archivo $115.74 $116
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 XII.- Constancias de antecedentes
 
-Profesionales $252.15 $252.00
+Profesionales $252.15 $252
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 XIII.- Registro de Federación de
 
-Colegios de Profesionistas $8,512.03 $8,512.00
+Colegios de Profesionistas $8,512.03 $8,512
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -13375,13 +13405,13 @@ ajuste ajuste
 
 I.- Por solicitud, estudio y resolución del trámite de:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 a).- Reconocimiento de validez
 
-oficial de estudios de tipo superior $7,159.42 $7,159.00
+oficial de estudios de tipo superior $7,159.42 $7,159
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 b).- Cambios a cada plan y
 
@@ -13389,9 +13419,9 @@ programa de estudio de tipo
 
 superior con reconocimiento
 
-de validez oficial $3,094.42 $3,094.00
+de validez oficial $3,094.42 $3,094
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 c).- Cambio o ampliación de domicilio,
 
@@ -13401,9 +13431,9 @@ adicional, respecto de cada plan de
 
 estudios con reconocimiento de
 
-validez oficial $2,704.78 $2,705.00
+validez oficial $2,704.78 $2,705
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II.- Por solicitud, estudio y resolución
 
@@ -13415,9 +13445,9 @@ primaria, secundaria, normal y
 
 demás para la formación de
 
-maestros, sea cual fuere la modalidad $781.40 $781.00
+maestros, sea cual fuere la modalidad $781.40 $781
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 III.- Por solicitud, estudio y resolución
 
@@ -13429,91 +13459,91 @@ superior o equivalente y de formación
 
 para el trabajo, sea cual fuere la
 
-modalidad $781.40 $781.00
+modalidad $781.40 $781
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 IV.- Acreditación y certificación a
 
 estudiantes de preparatoria abierta,
 
-por examen $48.90 $49.00
+por examen $48.90 $49
 
 V.- Exámenes profesionales o de grado:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-a) De tipo superior $155.20 $155.00
+a) De tipo superior $155.20 $155
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-b).- De tipo medio superior $77.89 $78.00
+b).- De tipo medio superior $77.89 $78
 
 VI.- Exámenes a título de suficiencia:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-a) De educación primaria $30.68 $31.00
+a) De educación primaria $30.68 $31
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 b).- De educación secundaria y de
 
 educación media superior,
 
-por materia $17.45 $17.00
+por materia $17.45 $17
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-c).- De tipo superior, por materia. $57.20 $57.00
+c).- De tipo superior, por materia. $57.20 $57
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 d).- Del Instituto Nacional de Bellas
 
-Artes y Literatura, por materia $74.74 $75.00
+Artes y Literatura, por materia $74.74 $75
 
 e).- (DEROGADO, D.O.F. 31 DE DICIEMBRE DE 2003)
 
 VII.- Exámenes extraordinarios, por materia:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 a).- De educación secundaria y de
 
-educación media superior $14.24 $14.00
+educación media superior $14.24 $14
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-b).- De tipo superior $57.22 $57.00
+b).- De tipo superior $57.22 $57
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 c).- Del Instituto Nacional de
 
-Bellas Artes y Literatura $45.22 $45.00
+Bellas Artes y Literatura $45.22 $45
 
 VIII.- Otorgamiento de diploma, título o grado:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-a).- De tipo superior $151.01 $151.00
+a).- De tipo superior $151.01 $151
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 b).- De educación secundaria y
 
-de educación media superior $36.52 $37.00
+de educación media superior $36.52 $37
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 c).- De capacitación para el trabajo
 
-industrial $24.95 $25.00
+industrial $24.95 $25
 
 IX.- (DEROGADA, D.O.F. 24 DE DICIEMBRE DE 2007)
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 X.- Por la solicitud de acreditación
 
@@ -13523,93 +13553,93 @@ cada certificado de competencia
 
 ocupacional en capacitación para el
 
-trabajo industrial $407.35 $407.00
+trabajo industrial $407.35 $407
 
 XI.- Expedición de duplicado de certificados de terminación de estudios:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 a).- De educación básica y de educación
 
-media superior $36.52 $37.00
+media superior $36.52 $37
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-b).- De tipo superior $114.72 $115.00
+b).- De tipo superior $114.72 $115
 
 XII.- Por solicitud de revalidación de estudios:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-a).- De educación básica $24.94 $25.00
+a).- De educación básica $24.94 $25
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-b).- De educación media-superior $250.49 $250.00
+b).- De educación media-superior $250.49 $250
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-c).- De educación superior $751.68 $752.00
+c).- De educación superior $751.68 $752
 
 XIII.- Revisión de certificados de estudio, por grado escolar:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 a).- De educación básica y
 
-educación media superior $9.46 $9.00
+educación media superior $9.46 $9
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-b).- De tipo superior $30.03 $30.00
+b).- De tipo superior $30.03 $30
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 c).- Del Instituto Nacional de Bellas
 
-Artes y Literatura $30.03 $30.00
+Artes y Literatura $30.03 $30
 
 XIV.- Por solicitud de equivalencia de estudios:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-a).- De educación básica $24.94 $25.00
+a).- De educación básica $24.94 $25
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-b).- De educación media-superior $250.49 $250.00
+b).- De educación media-superior $250.49 $250
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-c).- De educación superior $751.68 $752.00
+c).- De educación superior $751.68 $752
 
 XV.- Inspección y vigilancia de establecimientos educativos particulares, por alumno inscrito en cada ejercicio escolar:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-a).- De educación superior $60.37 $60.00
+a).- De educación superior $60.37 $60
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-b).- De educación media superior $26.98 $27.00
+b).- De educación media superior $26.98 $27
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-c).- De educación secundaria $25.87 $26.00
+c).- De educación secundaria $25.87 $26
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-d).- De educación primaria $5.72 $6.00
+d).- De educación primaria $5.72 $6
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
 Las escuelas de Instituciones de Asistencia Privada y las que impartan exclusivamente enseñanza especial a personas con o sin discapacidad no causarán el derecho a que se refiere esta fracción.
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 XVI.- Permiso provisional de
 
-práctica de locución $515.93 $516.00
+práctica de locución $515.93 $516
 
 XVII.- (DEROGADA, D.O.F. 29 DE DICIEMBRE DE 1997)
 
@@ -13617,89 +13647,89 @@ XVIII.- (DEROGADA, D.O.F. 29 DE DICIEMBRE DE 1997)
 
 XIX.- Expedición de certificados de aptitud:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-a).- De locutor $388.90 $389.00
+a).- De locutor $388.90 $389
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-b).- De cronista o comentarista $640.38 $640.00
+b).- De cronista o comentarista $640.38 $640
 
 XX.- Expedición de duplicado de certificados de aptitud:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-a).- De locutor $388.90 $389.00
+a).- De locutor $388.90 $389
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-b).- De cronista o comentarista $640.38 $640.00
+b).- De cronista o comentarista $640.38 $640
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 XXI.- Consultas o constancias de
 
-Archivo $116.10 $116.00
+Archivo $116.10 $116
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-XXII.- Cambio de carrera $61.78 $62.00
+XXII.- Cambio de carrera $61.78 $62
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 XXIII.- Dictamen psicopedagógico
 
-para cambio de carrera $93.06 $93.00
+para cambio de carrera $93.06 $93
 
 XXIV.- Inscripción:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-a).- En curso de verano $124.09 $124.00
+a).- En curso de verano $124.09 $124
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-b).- En curso de regularización $124.09 $124.00
+b).- En curso de regularización $124.09 $124
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 c).- Cursos de capacitación para el
 
-trabajo industrial $358.01 $358.00
+trabajo industrial $358.01 $358
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 XXV.- Materias libres para alumnos
 
-Inscritos $57.35 $57.00
+Inscritos $57.35 $57
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 XXVI.- Expedición de duplicado de
 
-credencial de la preparatoria abierta $28.75 $29.00
+credencial de la preparatoria abierta $28.75 $29
 
 > <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
 XXVII.- Por los cursos de formación y capacitación para profesionales en producción televisiva y audiovisual educativa:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 a).- Por cada hora o fracción de
 
-curso teórico $31.17 $31.00
+curso teórico $31.17 $31
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 b).- Por cada hora o fracción de
 
-curso práctico $37.40 $37.00
+curso práctico $37.40 $37
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 c).- Por cada hora o fracción de
 
-curso teórico-práctico $43.64 $44.00
+curso teórico-práctico $43.64 $44
 
 ### CAPITULO XI. De la Secretaría de la Reforma Agraria
 
@@ -13715,7 +13745,7 @@ ajuste ajuste
 
 A.- Por la inscripción de:
 
-(ACTUALIZADO PRIMER PARRAFO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO PRIMER PARRAFO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I.- Documentos públicos o
 
@@ -13733,7 +13763,7 @@ siempre que no provengan
 
 del Fondo de Apoyo para los
 
-Núcleos Agrarios sin Regularizar $207.03 $207.00
+Núcleos Agrarios sin Regularizar $207.03 $207
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -13741,31 +13771,31 @@ Núcleos Agrarios sin Regularizar $207.03 $207.00
 
 No se pagará el derecho establecido en esta fracción cuando la inscripción se ordene en resolución firme emitida por los tribunales competentes.
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II.- Cancelación o rectificación de
 
-las inscripciones $37.58 $38.00
+las inscripciones $37.58 $38
 
 III.- Acuerdo de asamblea que apruebe:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 a).- El Reglamento Interno de las
 
 Colonias Agrícolas y Ganaderas y sus
 
-Modificaciones $47.66 $48.00
+Modificaciones $47.66 $48
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 b).- La Adopción de Dominio Pleno de
 
 Colonias, que no provengan del
 
-Programa de Regularización $100.17 $100.00
+Programa de Regularización $100.17 $100
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 IV.- Otorgamiento del usufructo de
 
@@ -13777,9 +13807,9 @@ cumplimiento de los contratos
 
 refaccionarios, de habilitación o avío
 
-o cualquier otro acto u obligación $37.58 $38.00
+o cualquier otro acto u obligación $37.58 $38
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 V.- Documentos públicos o privados
 
@@ -13803,15 +13833,15 @@ Ley Agraria, incluidas las relativas a la
 
 explotación de parcelas con destino
 
-específico y sus modificaciones $94.38 $94.00
+específico y sus modificaciones $94.38 $94
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 VI.- Conversión del régimen de dominio
 
-pleno al ejidal $212.43 $212.00
+pleno al ejidal $212.43 $212
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 VII.- Planos generales e internos,
 
@@ -13823,9 +13853,9 @@ provengan del Fondo de Apoyo
 
 para los Núcleos Agrarios sin
 
-Regularizar $47.14 $47.00
+Regularizar $47.14 $47
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 VIII.- Acuerdo de asamblea a que se
 
@@ -13833,9 +13863,9 @@ refieren las fracciones I a VI y XV del
 
 artículo 23 de la Ley Agraria, así como
 
-su modificación, por cada uno $47.04 $47.00
+su modificación, por cada uno $47.04 $47
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 IX.- Acuerdo de asamblea a que se
 
@@ -13845,9 +13875,9 @@ del artículo 23 de la Ley Agraria,
 
 así como sus modificaciones, por
 
-cada uno $100.17 $100.00
+cada uno $100.17 $100
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 X.- Documentos públicos o privados
 
@@ -13871,15 +13901,15 @@ predios rústicos, modificaciones al
 
 contrato social, así como su liquidación
 
-y extinción $212.49 $212.00
+y extinción $212.49 $212
 
 XI.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1999)
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 XII.- Escritura constitutiva de un
 
-nuevo ejido $212.43 $212.00
+nuevo ejido $212.43 $212
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
@@ -13887,7 +13917,7 @@ No se pagará el derecho establecido en la fracción I, de este Apartado, tratá
 
 B.- Por la expedición de los siguientes certificados y títulos de propiedad:
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I.- Certificados y títulos de
 
@@ -13897,9 +13927,9 @@ que no provengan del Fondo
 
 de Apoyo para los Núcleos
 
-Agrarios sin Regularizar $94.38 $94.00
+Agrarios sin Regularizar $94.38 $94
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II.- Títulos de dominio pleno de colonias,
 
@@ -13907,17 +13937,17 @@ siempre y cuando no provengan del
 
 Programa de Regularización de
 
-Colonias $94.31 $94.00
+Colonias $94.31 $94
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 III.- Títulos de propiedad de
 
-origen parcelario $179.72 $180.00
+origen parcelario $179.72 $180
 
 C.- Por la reposición de:
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I.- Certificados parcelarios o de
 
@@ -13927,7 +13957,7 @@ común; así como de certificados
 
 de derechos agrarios expedidos
 
-por resolución jurisdiccional $94.31 $94.00
+por resolución jurisdiccional $94.31 $94
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -13937,17 +13967,17 @@ En este supuesto no se pagará el derecho establecido en el apartado A, fracció
 
 D.- Por la expedición de otros documentos:
 
-(ACTUALIZADO PRIMER PARRAFO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO PRIMER PARRAFO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-I.- Constancias $94.31 $94.00
+I.- Constancias $94.31 $94
 
 No se pagará el derecho establecido en esta fracción por la expedición de constancias que sean solicitadas por la Federación, estados y municipios y por las organizaciones campesinas, en este último caso, cuando acrediten que actúan en representación legal de los núcleos de población o de sus integrantes.
 
-(ACTUALIZADO PRIMER PARRAFO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO PRIMER PARRAFO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II.- Oficios informativos sobre
 
-ubicación de predios $123.48 $123.00
+ubicación de predios $123.48 $123
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -13955,11 +13985,11 @@ ubicación de predios $123.48 $123.00
 
 Tratándose de solicitudes de oficios informativos que impliquen la asistencia técnica y catastral, se pagarán adicionalmente, los derechos señalados en el apartado E, fracción I de este artículo.
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 III.- Listado de ejidatarios o comuneros
 
-con derechos vigentes $181.59 $182.00
+con derechos vigentes $181.59 $182
 
 E.- Por la asistencia técnica y catastral:
 
@@ -13967,35 +13997,35 @@ E.- Por la asistencia técnica y catastral:
 
 I.- Trabajos de campo, topográficos o fotogramétricos que no correspondan al Fondo de Apoyo para los Núcleos Agrarios sin Regularizar o del Programa de Regularización de Colonias.
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 a) De 0.1 a 10 hectáreas $531.85 por hectárea
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 b) De 10.1 a 50 hectáreas $468.01 por hectárea
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 c) De 50.1 a 100 hectáreas $382.87 por hectárea
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 d) De 100.1 a 500 hectáreas $319.06 por hectárea
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 e) De 500.1 a 1,500 hectáreas $191.39 por hectárea
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 f) De 1,500.1 a 10,000 hectáreas $127.53 por hectárea
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 g) De 10,000.1 y más hectáreas $63.71 por hectárea
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II.- Carta Catastral, en términos del
 
@@ -14003,45 +14033,45 @@ artículo 98 del Reglamento Interior
 
 del Registro Agrario Nacional, por
 
-cada uno $94.31 $94.00
+cada uno $94.31 $94
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 III.- Listados prediales referenciados
 
 a carta catastral, por hoja tamaño
 
-carta u oficio, por cada una $47.04 $47.00
+carta u oficio, por cada una $47.04 $47
 
 F.- Por otros servicios:
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I.- Por el depósito de lista de sucesión
 
 y expedición de la constancia
 
-correspondiente $27.50 $28.00
+correspondiente $27.50 $28
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II.- Por la apertura de lista de
 
-Sucesión $27.50 $28.00
+Sucesión $27.50 $28
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 III.- Por las anotaciones preventivas,
 
-su rectificación o cancelación $47.04 $47.00
+su rectificación o cancelación $47.04 $47
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 IV.- Por la expedición de copias
 
 certificadas de cada plano tamaño
 
-carta u oficio $13.17 $13.00
+carta u oficio $13.17 $13
 
 No se pagará el derecho establecido en esta fracción cuando el servicio sea solicitado por la Federación, el Distrito Federal, Estados y Municipios en relación con asuntos oficiales y de su competencia, siempre que esta solicitud no derive de la petición de un particular. Tampoco se pagará este derecho cuando se trate de la expedición de copias certificadas para la substanciación del juicio de amparo.
 
@@ -14121,29 +14151,29 @@ VII.- (DEROGADA, D.O.F. 18 DE NOVIEMBRE DE 2010)
 
 VIII.- (DEROGADA, D.O.F. 18 DE NOVIEMBRE DE 2010)
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 IX.- Expedición de certificados de libertad
 
-o existencia de gravámenes $223.50 $224.00
+o existencia de gravámenes $223.50 $224
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 X.- Expedición de certificados de inscripción
 
-de propiedad federal $372.90 $373.00
+de propiedad federal $372.90 $373
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 XI.- Expedición de certificados de
 
-no inscripción federal $372.90 $373.00
+no inscripción federal $372.90 $373
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 XII.- (DEROGADA, D.O.F. 18 DE NOVIEMBRE DE 2010)
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 XIII.- Expedición de listados computarizados
 
@@ -14151,21 +14181,21 @@ de los inmuebles incorporados al Sistema
 
 Nacional de Información Inmobiliaria,
 
-por hoja $18.23 $18.00
+por hoja $18.23 $18
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 XIV.- Expedición de copia certificada
 
-de folio real $500.92 $501.00
+de folio real $500.92 $501
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 XV.- Expedición de copia certificada
 
-de documento inscrito $375.78 $376.00
+de documento inscrito $375.78 $376
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 XVI.- Asiento en el folio real de
 
@@ -14177,15 +14207,15 @@ datos equivocados o cualquier otra
 
 que no constituya novación del
 
-contrato $182.65 $183.00
+contrato $182.65 $183
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 XVII.- Otros tipos de asientos
 
 registrales en libros o en folio real
 
-que soliciten particulares $500.92 $501.00
+que soliciten particulares $500.92 $501
 
 > <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
@@ -14205,31 +14235,31 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I.- Por recepción y estudio de solicitudes
 
 de concesión o permiso sobre inmuebles
 
-del dominio público $2,659.67 $2,660.00
+del dominio público $2,659.67 $2,660
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II.- Por recepción y estudio de solicitudes
 
 de enajenación de inmuebles de la
 
-Federación $726.86 $727.00
+Federación $726.86 $727
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 III.- Por otorgamiento o prórroga de
 
 concesión o permiso sobre bienes de
 
-dominio público de la Federación $1,329.76 $1,330.00
+dominio público de la Federación $1,329.76 $1,330
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 IV.- Por recepción y estudio de solicitudes
 
@@ -14243,9 +14273,9 @@ humanos áridos o cremados en
 
 templos de propiedad federal o sus
 
-anexidades $9,043.20 $9,043.00
+anexidades $9,043.20 $9,043
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 V.- Por aprobación del proyecto de
 
@@ -14257,9 +14287,9 @@ humanos áridos o cremados en templos
 
 de propiedad federal o sus
 
-anexidades $4,521.54 $4,522.00
+anexidades $4,521.54 $4,522
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 VI.- Por la recepción, estudio y, en su
 
@@ -14271,7 +14301,7 @@ modificación, ampliación, adaptación
 
 o reparación dentro de inmuebles de
 
-propiedad federal $5,647.77 $5,648.00
+propiedad federal $5,647.77 $5,648
 
 (REUBICADA, D.O.F. 15 DE DICIEMBRE DE 1995)
 
@@ -14313,21 +14343,23 @@ cuota sin cuota con
 
 ajuste ajuste
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+(ACTUALIZADA EN SU CANTIDAD [N. DE E. REFORMADA], D.O.F. 31 DE DICIEMBRE DE 2010)
 
-> <small>(REFORMADA, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
+I. Por el otorgamiento o autorización de
 
-I. Por el otorgamiento o autorización de sustitución de concesiones para la pesca comercial…..$8,184.71
+sustitución de concesiones para la
+
+pesca comercial $8,184.71 $8,185
 
 > <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
 II.- Por la expedición de permisos para:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-a).- La pesca comercial $746.08 $746.00
+a).- La pesca comercial $746.08 $746
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 b).- Para realizar los trabajos pesqueros
 
@@ -14335,9 +14367,9 @@ necesarios para fundamentar la solicitud
 
 de las concesiones de pesca
 
-comercial $447.50 $447.00
+comercial $447.50 $447
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 c).- La pesca de fomento a personas
 
@@ -14347,7 +14379,7 @@ social sea la captura, comercialización
 
 o transformación de productos
 
-pesqueros $448.42 $448.00
+pesqueros $448.42 $448
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -14355,25 +14387,25 @@ pesqueros $448.42 $448.00
 
 III.- Por el otorgamiento de permiso para:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 a).- Instalar artes de pesca fija, en
 
-aguas de jurisdicción federal $449.87 $450.00
+aguas de jurisdicción federal $449.87 $450
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REFORMADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
-> <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
+b).- La recolección del medio natural
 
-b).- La recolección del medio natural de reproductores...$713.36
+de reproductores $713.36 $713
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 c).- La transferencia de permisos
 
-de pesca comercial $724.35 $724.00
+de pesca comercial $724.35 $724
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 d).- Desembarcar productos pesqueros
 
@@ -14381,27 +14413,27 @@ frescos, enhielados o congelados en
 
 puertos mexicanos, por embarcaciones
 
-extranjeras $448.42 $448.00
+extranjeras $448.42 $448
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 IV.- Por el otorgamiento de una
 
-concesión para acuacultura comercial $10,941.07 $10,941.00
+concesión para acuacultura comercial $10,941.07 $10,941
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 V.- Por la expedición de permiso para
 
-acuacultura de fomento $5,632.56 $5,633.00
+acuacultura de fomento $5,632.56 $5,633
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+(ACTUALIZADA EN SU CANTIDAD [N. DE E. REFORMADA], D.O.F. 31 DE DICIEMBRE DE 2010)
 
-> <small>(REFORMADA, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
+VI.- Por el otorgamiento de permiso
 
-VI.- Por el otorgamiento de permiso para acuacultura didáctica…..$1,905.60
+para acuacultura didáctica $1,905.60 $1,906
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 VII.- Por el otorgamiento de
 
@@ -14409,7 +14441,7 @@ autorización para la sustitución de
 
 titular de los derechos de la concesión
 
-acuícola $1,406.41 $1,406.00
+acuícola $1,406.41 $1,406
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -14445,7 +14477,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 191-C.
 
@@ -14459,7 +14491,7 @@ viaje hasta de 60 días, se pagará
 
 el derecho de pesca, conforme a la
 
-cuota de $2,495.44 $2,495.00
+cuota de $2,495.44 $2,495
 
 ###### ARTICULO 191-D.
 
@@ -14489,7 +14521,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I.- Por cada título de asignación o
 
@@ -14497,9 +14529,9 @@ concesión para explotar, usar o
 
 aprovechar aguas nacionales
 
-incluyendo su registro $2,744.59 $2,745.00
+incluyendo su registro $2,744.59 $2,745
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II.- Por cada permiso de descarga
 
@@ -14509,9 +14541,9 @@ de procesos industriales a un
 
 cuerpo receptor, incluyendo su
 
-registro $3,758.93 $3,759.00
+registro $3,758.93 $3,759
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 III.- Por cada permiso de descarga
 
@@ -14519,9 +14551,9 @@ de aguas residuales, distintas a las
 
 que prevé la fracción anterior,
 
-incluyendo su registro $1,252.90 $1,253.00
+incluyendo su registro $1,252.90 $1,253
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 IV.- Por cada prórroga o modificación,
 
@@ -14541,9 +14573,9 @@ profundización, sustitución de usuarios,
 
 relocalización o reposición de pozos,
 
-punto o calidad de descarga o plazo $1,403.54 $1,404.00
+punto o calidad de descarga o plazo $1,403.54 $1,404
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 V.- Por cada transmisión de títulos de
 
@@ -14551,7 +14583,7 @@ concesión y permisos de descarga
 
 cuando se modifiquen las características
 
-del título $2,529.75 $2,530.00
+del título $2,529.75 $2,530
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -14569,7 +14601,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I.- Por cada título de concesión para
 
@@ -14577,9 +14609,9 @@ la extracción de materiales de cauces,
 
 vasos y depósitos de propiedad
 
-nacional $1,162.72 $1,163.00
+nacional $1,162.72 $1,163
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II.- Por cada título de concesión para
 
@@ -14591,9 +14623,9 @@ así como esteros, zonas federales y
 
 demás bienes nacionales regulados por
 
-la Ley de Aguas Nacionales $1,163.36 $1,163.00
+la Ley de Aguas Nacionales $1,163.36 $1,163
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 III.- Por cada permiso para la construcción
 
@@ -14609,9 +14641,9 @@ pozos para uso de aguas del subsuelo
 
 o para la construcción de obras en zona
 
-federal $3,551.92 $3,552.00
+federal $3,551.92 $3,552
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 IV.- Por cada título de concesión para
 
@@ -14621,9 +14653,9 @@ infraestructura hidráulica federal,
 
 incluyendo la prestación de los
 
-servicios respectivos $3,738.11 $3,738.00
+servicios respectivos $3,738.11 $3,738
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 V.- Por la prórroga o modificación,
 
@@ -14639,7 +14671,7 @@ uso o aprovechamiento, sustitución de
 
 usuario, ubicación o plazo, por cada
 
-uno $1,403.54 $1,404.00
+uno $1,403.54 $1,404
 
 > <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -14661,7 +14693,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I.- Por la expedición del certificado de
 
@@ -14669,9 +14701,9 @@ calidad del agua, a que se refieren
 
 las fracciones V del artículo 224 y
 
-IV del artículo 282, por cada uno $3,633.82 $3,634.00
+IV del artículo 282, por cada uno $3,633.82 $3,634
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II.- Por la expedición del certificado
 
@@ -14681,7 +14713,7 @@ totales de aguas salobres, a que se
 
 refiere la fracción VI del artículo 224,
 
-por cada uno $3,633.82 $3,634.00
+por cada uno $3,633.82 $3,634
 
 > <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -14701,7 +14733,7 @@ I.- (DEROGADA, D.O.F. 18 DE NOVIEMBRE DE 2010)
 
 II.- (DEROGADA, D.O.F. 18 DE NOVIEMBRE DE 2010)
 
-(ACTUALIZADO PRIMER PARRAFO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO PRIMER PARRAFO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 III.- Por la constancia de búsqueda
 
@@ -14711,13 +14743,13 @@ antecedentes registrales, a cargo de
 
 la Comisión Nacional del Agua, por
 
-cada una $269.16 $269.00
+cada una $269.16 $269
 
 Los usuarios que utilicen la página electrónica de la Comisión Nacional del Agua en internet o utilicen el equipo de cómputo que ponga a disposición del público en general dicha Comisión, para consultar los antecedentes registrales que obran en el Registro Público de Derechos de Agua, no estarán obligados al pago del derecho.
 
 Por los servicios a que se refiere esta fracción, no se pagará el derecho establecido en la fracción IV de este artículo.
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 IV.- Por la expedición de certificados
 
@@ -14725,9 +14757,9 @@ o constancias de las inscripciones o
 
 documentos que obren en el Registro
 
-Público, por cada uno $137.01 $137.00
+Público, por cada uno $137.01 $137
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 V.- Por la emisión de mapas con
 
@@ -14735,7 +14767,7 @@ información registral, a cargo de
 
 la Comisión Nacional del Agua,
 
-por cada uno $216.71 $217.00
+por cada uno $216.71 $217
 
 > <small>(REFORMADO, D.O.F. 1 DE ENERO DE 2002)</small>
 
@@ -14811,33 +14843,33 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I.- Por el otorgamiento de la
 
-concesión, anualmente $2,908.09 $2,908.00
+concesión, anualmente $2,908.09 $2,908
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II.- Por el otorgamiento de permiso,
 
-por cada uno $283.32 $283.00
+por cada uno $283.32 $283
 
 > <small>(ADICIONADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 III.- Por el deslinde y levantamiento topográfico de la zona sujeta a concesión, por metro cuadrado:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-a).- Hasta 500 metros $363.36 $363.00
+a).- Hasta 500 metros $363.36 $363
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-b).- De 501 a 1000 metros $454.17 $454.00
+b).- De 501 a 1000 metros $454.17 $454
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-c).- De 1001 en adelante $508.76 $509.00
+c).- De 1001 en adelante $508.76 $509
 
 > <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -14851,19 +14883,19 @@ IV.- Por el otorgamiento de permisos para prestadores de servicios turísticos, 
 
 a).- Por unidad de transporte terrestre:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-1.- Motorizada $302.65 $303.00
+1.- Motorizada $302.65 $303
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-2.- No motorizada $60.19 $60.00
+2.- No motorizada $60.19 $60
 
 > <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 b).- Por unidad de transporte acuática, subacuática o anfibia:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 1.- Embarcaciones hasta de 12
 
@@ -14873,9 +14905,9 @@ vehículos o aparatos sumergibles
 
 o anfibios, tablas de oleaje y sus
 
-equivalentes $302.65 $303.00
+equivalentes $302.65 $303
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 2.- Embarcaciones mayores de 12
 
@@ -14883,9 +14915,9 @@ metros de eslora, incluyendo
 
 vehículos o aparatos sumergibles
 
-o anfibios y sus equivalentes $6,058.46 $6,058.00
+o anfibios y sus equivalentes $6,058.46 $6,058
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 3.- Motocicletas acuáticas y
 
@@ -14895,15 +14927,15 @@ motorizados equivalentes,
 
 diferentes a los enunciados en los
 
-numerales 1 y 2 de este inciso $425.46 $425.00
+numerales 1 y 2 de este inciso $425.46 $425
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 c).- Otros vehículos distintos a los
 
 señalados en los incisos
 
-anteriores $151.01 $151.00
+anteriores $151.01 $151
 
 d).- (DEROGADO, D.O.F. 29 DE DICIEMBRE DE 1997)
 
@@ -14917,7 +14949,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 194-C
 
@@ -14931,7 +14963,7 @@ Naturales Protegidas, se pagará el
 
 derecho conforme a la siguiente
 
-cuota $90.63 $91.00
+cuota $90.63 $91
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -14947,7 +14979,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO PRIMER PARRAFO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO PRIMER PARRAFO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I.- Por la recepción, estudio de la
 
@@ -14979,7 +15011,7 @@ cualquier otro depósito de aguas
 
 marítimas, se pagará el derecho
 
-conforme a la siguiente cuota $1,759.57 $1,760.00
+conforme a la siguiente cuota $1,759.57 $1,760
 
 > <small>(REFORMADO, D.O.F. 1 DE ENERO DE 2002)</small>
 
@@ -14989,7 +15021,7 @@ La anterior disposición es aplicable a los establecimientos permanentes. En el 
 
 II.- Por la verificación en campo de levantamiento topográfico presentado por el solicitante de uso o aprovechamiento de las playas, la zona federal marítimo terrestre, los terrenos ganados al mar, o a cualquier otro depósito que se forme por aguas marítimas:
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 Rango de Superficie
 
@@ -15027,11 +15059,11 @@ del límite inferior
 
 A partir del límite inferior, a los m2 adicionales se les aplicará el factor correspondiente hasta llegar al límite inferior del siguiente rango.
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 III.- Por la cesión de la concesión
 
-entre particulares $3,952.31 $3,952.00
+entre particulares $3,952.31 $3,952
 
 IV.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 2003)
 
@@ -15067,7 +15099,7 @@ A. (DEROGADO, D.O.F. 31 DE DICIEMBRE DE 2000)
 
 B. Por la expedición de permisos, autorizaciones y certificados:
 
-(ACTUALIZADO PRIMER PARRAFO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO PRIMER PARRAFO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I.- Por el trámite y, en su caso,
 
@@ -15079,13 +15111,13 @@ biológico de flora y fauna silvestres,
 
 terrestres y acuáticas realizada en
 
-el país por extranjeros $12,061.48 $12,061.00
+el país por extranjeros $12,061.48 $12,061
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
 Las personas que realicen colecta científica en el país, bajo algún convenio con el Gobierno Federal o con alguna institución mexicana, así como con investigadores mexicanos registrados en el sistema nacional de investigadores, no pagarán los derechos a que se refieren las fracciones I y III de este apartado.
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II.- Por la recepción y trámite de
 
@@ -15113,9 +15145,9 @@ Flora Silvestres de la que México
 
 forma parte, cualquiera que sea
 
-su resolución $425.05 $425.00
+su resolución $425.05 $425
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 III.- Para colecta de material parental
 
@@ -15135,15 +15167,15 @@ Silvestres, de la que México forma
 
 parte, para su reproducción o
 
-propagación $505.85 $506.00
+propagación $505.85 $506
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 IV.- Por la autorización de colecta
 
 de recursos biológicos con fines de
 
-utilización en biotecnología $12,222.17 $12,222.00
+utilización en biotecnología $12,222.17 $12,222
 
 V.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 2000)
 
@@ -15159,15 +15191,15 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO PRIMER PARRAFO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO PRIMER PARRAFO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I.- Por cada solicitud de registro
 
-en materia de vida silvestre $331.20 $331.00
+en materia de vida silvestre $331.20 $331
 
 No pagarán el derecho que se establece en esta fracción, cuando se trate del registro de unidades de manejo para la conservación de vida silvestre, así como el de colecciones científicas o museográficas públicas.
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II.- Por el trámite y, en su caso,
 
@@ -15177,19 +15209,19 @@ prestadores de servicios de
 
 aprovechamiento en caza
 
-deportiva $919.32 $919.00
+deportiva $919.32 $919
 
 Por la reposición de la licencia
 
 referida en esta fracción, se
 
-pagará la cuota de $402.21 $402.00
+pagará la cuota de $402.21 $402
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 III.- Por la expedición de cintillo
 
-de aprovechamiento cinegético $213.12 $213.00
+de aprovechamiento cinegético $213.12 $213
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -15197,11 +15229,11 @@ de aprovechamiento cinegético $213.12 $213.00
 
 IV.- Por la expedición o reposición de cada licencia de caza deportiva:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-a). De modalidad anual $413.91 $414.00
+a). De modalidad anual $413.91 $414
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 b). De modalidad indefinida $1,287.00
 
@@ -15217,21 +15249,21 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I.- Distrito Federal, México, Morelos,
 
-Puebla, Tlaxcala, Hidalgo y Querétaro $14.82 $15.00
+Puebla, Tlaxcala, Hidalgo y Querétaro $14.82 $15
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II.- Jalisco, Michoacán, Aguascalientes,
 
 Guanajuato, Nuevo León, San Luis
 
-Potosí y Zacatecas $19.98 $20.00
+Potosí y Zacatecas $19.98 $20
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 III.- Baja California, Baja California Sur,
 
@@ -15243,13 +15275,13 @@ Tabasco, Guerrero, Oaxaca, Chiapas,
 
 Campeche, Yucatán, Quintana Roo y
 
-Sinaloa $24.94 $25.00
+Sinaloa $24.94 $25
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 IV.- Por supervisión anual, por
 
-Hectárea $7.32 $7.00
+Hectárea $7.32 $7
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 10 DE MAYO DE 1996)</small>
 
@@ -15267,7 +15299,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I.- Por la recepción, evaluación
 
@@ -15275,39 +15307,39 @@ y, en su caso, el otorgamiento
 
 de la resolución del informe
 
-preventivo $8,680.32 $8,680.00
+preventivo $8,680.32 $8,680
 
 > <small>(REFORMADA, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
 II.- Por la recepción, evaluación y el otorgamiento de la resolución de la manifestación de impacto ambiental, en su modalidad particular, de acuerdo con los criterios ambientales de la TABLA A y la clasificación de la TABLA B:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-a). $23,342.98 $23,343.00
+a). $23,342.98 $23,343
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-b). $46,687.06 $46,687.00
+b). $46,687.06 $46,687
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-c). $70,031.14 $70,031.00
+c). $70,031.14 $70,031
 
 > <small>(REFORMADA, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
 III.- Por la recepción, evaluación y el otorgamiento de la resolución de la manifestación del impacto ambiental, en su modalidad regional, de acuerdo con los criterios ambientales de la TABLA A y la clasificación de la TABLA B:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-a). $30,547.68 $30,548.00
+a). $30,547.68 $30,548
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-b). $61,094.26 $61,094.00
+b). $61,094.26 $61,094
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-c). $91,640.83 $91,641.00
+c). $91,640.83 $91,641
 
 IV.- (DEROGADO PRIMER PARRAFO, D.O.F. 27 DE DICIEMBRE DE 2006)
 
@@ -15323,7 +15355,7 @@ El pago de los derechos de las fracciones II y III de este artículo se hará co
 
 V.- (DEROGADA, D.O.F. 21 DE DICIEMBRE DE 2005)
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 VI.- Por la evaluación y
 
@@ -15333,13 +15365,13 @@ modificación de proyectos
 
 autorizados en materia de
 
-impacto ambiental $6,254.80 $6,255.00
+impacto ambiental $6,254.80 $6,255
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 VII.- (DEROGADA, D.O.F. 18 DE NOVIEMBRE DE 2010)
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 VIII.- Por la evaluación de la
 
@@ -15361,7 +15393,7 @@ Ambiente en Materia de
 
 Evaluación del Impacto Ambiental,
 
-se pagará la cuota de: $2,869.00 $2,869.00
+se pagará la cuota de: $2,869.00 $2,869
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -15371,19 +15403,19 @@ se pagará la cuota de: $2,869.00 $2,869.00
 
 Por los servicios de recepción y análisis de la solicitud y, en su caso, la expedición de permisos en materia de organismos genéticamente modificados, se pagará el derecho por actividades relacionadas con la liberación al ambiente, conforme a las siguientes cuotas:
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I. Por el permiso de liberación experimental al ambiente de organismos genéticamente modificados, incluyendo su importación $20,610.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II. Por el permiso de liberación al ambiente en programa piloto de organismos genéticamente modificados, incluyendo su importación $20,610.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 III. Por el permiso de liberación comercial al ambiente de organismos genéticamente modificados, incluyendo su importación $20,610.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 Tratándose de la solicitud de reconsideración de resolución negativa de cada permiso a que se refiere este artículo, se pagará la cuota $17,775.00
 
@@ -15405,27 +15437,27 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I.- Hasta 500 metros cúbicos EXENTO EXENTO
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II.- De más de 500 metros cúbicos
 
-hasta 1,000 metros cúbicos $3,740.24 $3,740.00
+hasta 1,000 metros cúbicos $3,740.24 $3,740
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 III.- De más de 1,000 metros cúbicos
 
-hasta 5,000 metros cúbicos $5,111.66 $5,112.00
+hasta 5,000 metros cúbicos $5,111.66 $5,112
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 IV.- De más de 5,000 metros
 
-cúbicos en adelante $6,545.43 $6,545.00
+cúbicos en adelante $6,545.43 $6,545
 
 > <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
@@ -15461,25 +15493,25 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I.- Hasta 500 metros cúbicos EXENTO EXENTO
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II.- De más de 500 metros cúbicos
 
-hasta 1,500 metros cúbicos $2,365.21 $2,365.00
+hasta 1,500 metros cúbicos $2,365.21 $2,365
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 III.- De más de 1,500 metros cúbicos
 
-hasta 3,000 metros cúbicos $3,193.03 $3,193.00
+hasta 3,000 metros cúbicos $3,193.03 $3,193
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-IV.- De más de 3,000 metros cúbicos $4,139.12 $4,139.00
+IV.- De más de 3,000 metros cúbicos $4,139.12 $4,139
 
 > <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
@@ -15515,31 +15547,31 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-I. Hasta 1 hectárea $810.39 $810.00
+I. Hasta 1 hectárea $810.39 $810
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II. De más de 1 hectárea hasta
 
-10 hectáreas $1,122.07 $1,122.00
+10 hectáreas $1,122.07 $1,122
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 III. De más de 10 hectáreas hasta
 
-50 hectáreas $2,368.82 $2,369.00
+50 hectáreas $2,368.82 $2,369
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 IV. De más de 50 hectáreas
 
-hasta 200 hectáreas $4,737.64 $4,738.00
+hasta 200 hectáreas $4,737.64 $4,738
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-V. De más de 200 hectáreas $7,231.13 $7,231.00
+V. De más de 200 hectáreas $7,231.13 $7,231
 
 > <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
 
@@ -15549,7 +15581,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 194-N.
 
@@ -15571,13 +15603,13 @@ hectáreas o, en su caso, en sustitución
 
 de vegetación nativa, se pagará la
 
-cuota de $5,111.66 $5,112.00
+cuota de $5,111.66 $5,112
 
 cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 194-N
 
@@ -15589,7 +15621,7 @@ modificación del Registro Forestal
 
 Nacional, se pagarán derechos, por
 
-cada uno, conforme a la cuota de $311.69 $312.00
+cada uno, conforme a la cuota de $311.69 $312
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -15601,7 +15633,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I.- Por la expedición de cada
 
@@ -15611,9 +15643,9 @@ importación de productos y
 
 subproductos forestales fuera de
 
-la región y franja fronteriza $935.07 $935.00
+la región y franja fronteriza $935.07 $935
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II.- Por la verificación de la calidad
 
@@ -15625,9 +15657,9 @@ certificado fitosanitario internacional
 
 para la exportación de productos
 
-y subproductos forestales $748.05 $748.00
+y subproductos forestales $748.05 $748
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 III.- Por la emisión del dictamen técnico
 
@@ -15637,13 +15669,13 @@ muestras entomológicas o patológicas
 
 detectadas en productos y/o subproductos
 
-forestales de importación $1,059.74 $1,060.00
+forestales de importación $1,059.74 $1,060
 
 cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 194-N
 
@@ -15659,7 +15691,7 @@ transformación de materias primas
 
 forestales, se pagará el derecho
 
-conforme a la cuota de $1,371.42 $1,371.00
+conforme a la cuota de $1,371.42 $1,371
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -15671,19 +15703,19 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I.- Por colecta de recursos biológicos
 
 forestales con fines biotecnológicos
 
-comerciales $11,007.74 $11,008.00
+comerciales $11,007.74 $11,008
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II.- Por colecta de recursos biológicos
 
-forestales con fines científicos $1,264.07 $1,264.00
+forestales con fines científicos $1,264.07 $1,264
 
 III.- (DEROGADA, D.O.F. 21 DE DICIEMBRE DE 2005)
 
@@ -15697,15 +15729,15 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-I. De 1 a 3 documentos: $9.94 $10.00
+I. De 1 a 3 documentos: $9.94 $10
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II. A partir del cuarto documento, por
 
-cada uno: $3.31 $3.00
+cada uno: $3.31 $3
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
@@ -15719,19 +15751,19 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I.- Por la recepción y evaluación de
 
-solicitud de licencia $1,870.12 $1,870.00
+solicitud de licencia $1,870.12 $1,870
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II.- Actualización de la licencia de
 
 funcionamiento o de la licencia
 
-ambiental $935.07 $935.00
+ambiental $935.07 $935
 
 III.- (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 1996)
 
@@ -15739,7 +15771,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 194-P.
 
@@ -15757,13 +15789,13 @@ derecho de prevención y control de
 
 la contaminación conforme a la
 
-cuota de $445.85 $446.00
+cuota de $445.85 $446
 
 cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 194-Q.
 
@@ -15785,13 +15817,13 @@ realice el derecho de prevención y
 
 control de la contaminación, conforme
 
-a la cuota de $14,654.86 $14,655.00
+a la cuota de $14,654.86 $14,655
 
 cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 194-R.
 
@@ -15815,7 +15847,7 @@ pagará por cada prueba que se realice
 
 el derecho de prevención y control de
 
-la contaminación, conforme a la cuota $150.33 $150.00
+la contaminación, conforme a la cuota $150.33 $150
 
 ###### ARTICULO 194-S.
 
@@ -15831,55 +15863,55 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I. Operación de unidades para la
 
 recolección y transporte de residuos
 
-peligrosos $2,963.96 $2,964.00
+peligrosos $2,963.96 $2,964
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II. Instalación y operación de centros
 
 de acopio y almacenamiento de
 
-residuos peligrosos $2,962.37 $2,962.00
+residuos peligrosos $2,962.37 $2,962
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 III. Instalación y operación de sistemas
 
 de reciclaje o coprocesamiento de
 
-residuos peligrosos $1,870.12 $1,870.00
+residuos peligrosos $1,870.12 $1,870
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 IV. Instalación y operación de sistemas
 
 de reutilización de residuos
 
-peligrosos $1,870.12 $1,870.00
+peligrosos $1,870.12 $1,870
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 V. Instalación y operación de
 
 sistemas de tratamiento de residuos
 
-peligrosos $4,882.67 $4,883.00
+peligrosos $4,882.67 $4,883
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 VI. Instalación y operación de
 
 sistemas de incineración de
 
-residuos peligrosos $39,356.34 $39,356.00
+residuos peligrosos $39,356.34 $39,356
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 VII. Instalación y operación de
 
@@ -15887,13 +15919,13 @@ sistemas para el confinamiento
 
 o disposición final de residuos
 
-peligrosos $64,804.31 $64,804.00
+peligrosos $64,804.31 $64,804
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+(ACTUALIZADA EN SU CANTIDAD [N. DE E. REFORMADA], D.O.F. 31 DE DICIEMBRE DE 2010)
 
-> <small>(REFORMADA, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
+VIII. Prestación de servicios de
 
-VIII. Prestación de servicios de manejo de residuos peligrosos…..$4,631.08
+manejo de residuos peligrosos $4,631.08 $4,631
 
 > <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
@@ -15915,17 +15947,17 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I.- Para importar residuos peligrosos
 
 o residuos que no tienen características
 
-de peligrosidad $1,503.42 $1,503.00
+de peligrosidad $1,503.42 $1,503
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-II.- Para exportar residuos peligrosos $706.32 $706.00
+II.- Para exportar residuos peligrosos $706.32 $706
 
 > <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
@@ -15935,7 +15967,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 194-T
 
@@ -15951,7 +15983,7 @@ actividades altamente riesgosas,
 
 pagarán el derecho, conforme a la
 
-cuota de $1,847.06 $1,847.00
+cuota de $1,847.06 $1,847
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
@@ -15963,21 +15995,21 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-I.- Estudio de riesgo Nivel 0 $853.61 $854.00
+I.- Estudio de riesgo Nivel 0 $853.61 $854
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-II.- Estudio de riesgo Nivel 1 $1,305.63 $1,306.00
+II.- Estudio de riesgo Nivel 1 $1,305.63 $1,306
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-III.- Estudio de riesgo Nivel 2 $1,933.56 $1,934.00
+III.- Estudio de riesgo Nivel 2 $1,933.56 $1,934
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-IV.- Estudio de riesgo Nivel 3 $2,653.06 $2,653.00
+IV.- Estudio de riesgo Nivel 3 $2,653.06 $2,653
 
 > <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
@@ -15985,13 +16017,13 @@ Por la solicitud de modificación o ampliación de las resoluciones del estudio 
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
+(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2010) (ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 194-T
 
 4.- Por la recepción, análisis y, en su caso, autorización de la solicitud para importar plaguicidas, nutrientes vegetales y sustancias o materiales tóxicos o peligrosos, así como para exportar materiales peligrosos, se pagará la cuota de:…..$1,000.00
 
-(ACTUALIZADO PRIMER PARRAFO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO PRIMER PARRAFO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 194-T
 
@@ -16019,23 +16051,23 @@ ajuste ajuste
 
 I. Pasivo ambiental:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 a). Por volumen de suelo hasta por 1000 m³ $1,000.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 b). Por metro cúbico adicional $1.50
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 El monto del derecho a que se refiere esta fracción no podrá exceder de $35,000.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-II. Emergencia ambiental $1,062.30 $1,062.00
+II. Emergencia ambiental $1,062.30 $1,062
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 Tratándose de la solicitud de
 
@@ -16043,7 +16075,7 @@ autorización para la transferencia
 
 de sitios contaminados se pagará
 
-la cuota de $3,186.90 $3,187.00
+la cuota de $3,186.90 $3,187
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
@@ -16059,7 +16091,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I.- Por la verificación del cumplimiento
 
@@ -16093,9 +16125,9 @@ reutilización, el reciclaje, el
 
 co-procesamiento o el tratamiento de
 
-los mismos $480.42 $480.00
+los mismos $480.42 $480
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II.- Por la verificación del cumplimiento
 
@@ -16125,9 +16157,9 @@ o incineración de los mismos en el país
 
 importador, o bien, sea distinto al comercio
 
-o la industrialización $128.80 $129.00
+o la industrialización $128.80 $129
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 III.- Por la constancia de cumplimiento
 
@@ -16137,9 +16169,9 @@ envolturas, tarimas y embalajes de
 
 madera que se importan como soporte
 
-de mercancías $133.55 $134.00
+de mercancías $133.55 $134
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 IV.- Por la expedición del acta para
 
@@ -16157,33 +16189,33 @@ marinas de jurisdicción federal,
 
 que acrediten la debida instalación
 
-de los excluidores, por cada acta $1,340.40 $1,340.00
+de los excluidores, por cada acta $1,340.40 $1,340
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 V.- Por la expedición de la constancia
 
 de no daño ambiental en la zona federal
 
-marítimo terrestre $3,179.90 $3,180.00
+marítimo terrestre $3,179.90 $3,180
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 VI.- Por la revisión, evaluación y, en su
 
 caso, certificación de vehículos nuevos
 
-en planta, por cada vehículo $15.54 $16.00
+en planta, por cada vehículo $15.54 $16
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 VII.- Por la revisión, evaluación y
 
 certificación excepcional de vehículos
 
-nuevos, por cada vehículo $333.14 $333.00
+nuevos, por cada vehículo $333.14 $333
 
-(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2009) (ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2009) (ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 VIII.- Por el análisis de la solicitud y,
 
@@ -16209,7 +16241,7 @@ derechos por cada solicitud,
 
 independientemente del número de
 
-aprobaciones emitidas $11,968.77 $11,969.00
+aprobaciones emitidas $11,968.77 $11,969
 
 Las unidades de verificación que soliciten la aprobación para ser consideradas auditores ambientales dentro del Programa Nacional de Auditoría Ambiental, no pagarán los derechos a que se refiere esta fracción. Dichas unidades de verificación deberán pagar el referido derecho cuando pretendan obtener la aprobación para evaluar la conformidad de una norma oficial mexicana expedida por la Secretaría de Medio Ambiente y Recursos Naturales.
 
@@ -16227,13 +16259,13 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-I.- Personas físicas $10,370.68 $10,371.00
+I.- Personas físicas $10,370.68 $10,371
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-II.- Personas morales $15,556.02 $15,556.00
+II.- Personas morales $15,556.02 $15,556
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -16267,35 +16299,35 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-a). Televisión e Internet $15,000.00
+a). Televisión e Internet $18,440.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 b). Cine, video en lugares públicos
 
 cerrados y en medios de transporte
 
-público $2,368.82 $2,369.00
+público $2,368.82 $2,369
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-c).- Radio $1,683.11 $1,683.00
+c).- Radio $1,683.11 $1,683
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-d).- Prensa $561.04 $561.00
+d).- Prensa $561.04 $561
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 e). Folletos, catálogos, carteles y otros
 
-medios similares $386.49 $386.00
+medios similares $386.49 $386
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-f).- Anuncios en exteriores $2,992.19 $2,992.00
+f).- Anuncios en exteriores $2,992.19 $2,992
 
 Los derechos que se establecen en esta fracción, se pagarán por cada tipo de mensaje que comprenda la autorización que se otorgue, según el medio publicitario que se utilice de los señalados en los incisos de esta fracción.
 
@@ -16315,21 +16347,21 @@ II.- (DEROGADA. D.O.F. 13 DE NOVIEMBRE DE 2008)
 
 III. Por cada solicitud y, en su caso, expedición de licencia sanitaria de establecimientos de insumos para la salud, o por cada solicitud de visita de verificación sanitaria en el extranjero para certificación de buenas prácticas de fabricación de fármacos, medicamentos y otros insumos para la salud, se pagará el derecho conforme a las siguientes cuotas:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 a). Por fábrica o laboratorio $63,187.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 b). Por almacén de depósito y distribución $20,470.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-c).- Por farmacia o botica $997.40 $997.00
+c).- Por farmacia o botica $997.40 $997
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-d).- Droguerías $2,493.49 $2,493.00
+d).- Droguerías $2,493.49 $2,493
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -16347,7 +16379,7 @@ Por la modificación o actualización de la licencia sanitaria señalada en esta
 
 No pagarán el derecho a que se refiere esta fracción, la Federación, el Distrito Federal, los Estados y los Municipios, así como sus organismos descentralizados.
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 IV.- Por cada solicitud y, en su caso,
 
@@ -16357,7 +16389,7 @@ establecimientos de atención médica
 
 donde se practiquen actos quirúrgicos
 
-u obstétricos, por cada uno: $14,572.80 $14,573.00
+u obstétricos, por cada uno: $14,572.80 $14,573
 
 > <small>(ADICIONADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
@@ -16383,15 +16415,15 @@ ajuste ajuste
 
 I.- Por la solicitud y, en su caso, el registro de Medicamentos Alopáticos, se pagará por cada uno, el derecho conforme a las siguientes cuotas:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 a). Medicamento genérico $53,608.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 b). Medicamento molécula nueva $95,854.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II.- Por la solicitud y, en su caso,
 
@@ -16403,21 +16435,21 @@ vitamínicos, se pagará por cada
 
 uno el derecho conforme a la
 
-cuota de $12,747.60 $12,748.00
+cuota de $12,747.60 $12,748
 
 III.- Por la solicitud y, en su caso, el registro de equipos médicos, prótesis, órtesis, ayudas funcionales, agentes de diagnóstico, materiales quirúrgicos, de curación, productos higiénicos e insumos de uso odontológico que no sean medicamentos, se pagará por cada uno, el derecho conforme a las siguientes cuotas:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-a). Clase I $7,967.25 $7,967.00
+a). Clase I $7,967.25 $7,967
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-b). Clase II $11,685.30 $11,685.00
+b). Clase II $11,685.30 $11,685
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-c). Clase III $14,872.20 $14,872.00
+c). Clase III $14,872.20 $14,872
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -16425,19 +16457,31 @@ c). Clase III $14,872.20 $14,872.00
 
 IV.- Por la solicitud y, en su caso, el registro de plaguicidas, según la categoría toxicológica que le corresponda, y nutrientes vegetales, se pagará el derecho de registro por cada producto, conforme a las siguientes cuotas:
 
-a). Categoría toxicológica 1…..$53,217.22
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REFORMADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
-b). Categoría toxicológica 2…..$44,347.68
+a). Categoría toxicológica 1 $53,217.22 $53,217
 
-c). Categoría toxicológica 3…..$31,168.68
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REFORMADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
-d). Categoría toxicológica 4…..$22,469.49
+b). Categoría toxicológica 2 $44,347.68 $44,348
+
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REFORMADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+
+c). Categoría toxicológica 3 $31,168.68 $31,169
+
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REFORMADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+
+d). Categoría toxicológica 4 $22,469.49 $22,469
+
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 e). Categoría toxicológica 5…..$15,713.00
 
-f). Nutrientes vegetales.....$4,990.89
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REFORMADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+f). Nutrientes vegetales $4,990.89 $4,991
+
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 V.- Por la solicitud y, en su caso,
 
@@ -16445,9 +16489,9 @@ el registro de cada producto que
 
 contenga sustancias tóxicas de alto
 
-y mediano riesgo para la salud $5,855.91 $5,856.00
+y mediano riesgo para la salud $5,855.91 $5,856
 
-(ACTUALIZADO PRIMER PARRAFO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO PRIMER PARRAFO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 VI.- Por la solicitud y, en su caso,
 
@@ -16455,7 +16499,7 @@ el registro de cada producto que
 
 contenga sustancias tóxicas de
 
-bajo riesgo para la salud $1,170.88 $1,171.00
+bajo riesgo para la salud $1,170.88 $1,171
 
 Por las modificaciones de la razón o denominación social o de propietario, de los registros señalados en las fracciones anteriores de este artículo, se pagará el 50% del derecho de registro que corresponda.
 
@@ -16469,21 +16513,35 @@ Por otras modificaciones, renovación o prórroga que se soliciten a los registr
 
 VII. Por la solicitud y, en su caso, el otorgamiento de cada permiso para la importación de plaguicidas, según la categoría toxicológica que le corresponda, y de nutrientes vegetales y de sustancias tóxicas, se pagarán derechos conforme a las siguientes cuotas:
 
-a). Categoría toxicológica 1…..$19,956.46
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REFORMADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
-b). Categoría toxicológica 2…..$10,136.11
+a). Categoría toxicológica 1 $19,956.46 $19,956
 
-c). Categoría toxicológica 3…..$4,363.62
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REFORMADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
-d). Categoría toxicológica 4…..$1,685.21
+b). Categoría toxicológica 2 $10,136.11 $10,136
+
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REFORMADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+
+c). Categoría toxicológica 3 $4,363.62 $4,364
+
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REFORMADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+
+d). Categoría toxicológica 4 $1,685.21 $1,685
+
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 e). Categoría toxicológica 5…..$1,207.00
 
-f). Nutrientes vegetales…..$2,988.04
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REFORMADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
-g). Sustancias tóxicas…..$2,968.60
+f). Nutrientes vegetales $2,988.04 $2,988
 
-(ACTUALIZADO PRIMER PARRAFO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REFORMADO], D.O.F. 31 DE DICIEMBRE DE 2010)
+
+g). Sustancias tóxicas $2,968.60 $2,969
+
+(ACTUALIZADO PRIMER PARRAFO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 VIII.- Por la solicitud y, en su caso,
 
@@ -16491,13 +16549,13 @@ expedición de la licencia sanitaria de
 
 Bancos de Sangre, se pagará el derecho
 
-conforme a la cuota de $8,278.23 $8,278.00
+conforme a la cuota de $8,278.23 $8,278
 
 Por la modificación a la licencia sanitaria de bancos de sangre se pagará el 75% del derecho que corresponda.
 
 No pagarán el derecho a que se refiere esta fracción, la Federación, el Distrito Federal, los Estados y los Municipios, así como sus organismos descentralizados.
 
-(ACTUALIZADO PRIMER PARRAFO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO PRIMER PARRAFO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 IX.- Por cada solicitud y, en su caso, autorización del permiso de importación para suplementos alimenticios, se pagará el derecho conforme a la cuota de: $3,400.00
 
@@ -16507,21 +16565,21 @@ Por las modificaciones o prórrogas que se soliciten a los permisos señalados e
 
 X.- Por la solicitud y, en su caso, expedición de la licencia sanitaria para:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REFORMADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
-> <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
+a). Establecimientos con disposición
 
-a). Establecimientos con disposición de órganos, tejidos y células…..$7,948.80
+de órganos, tejidos y células $7,948.80 $7,949
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-b). Bancos de órganos, tejidos y células $7,948.80 $7,949.00
+b). Bancos de órganos, tejidos y células $7,948.80 $7,949
 
 Por la modificación a la licencia sanitaria a que se refiere esta fracción, se pagará el 75% de la cuota del derecho que corresponda conforme a los incisos anteriores.
 
 No pagarán el derecho a que se refiere esta fracción, la Federación, el Distrito Federal, los Estados y los Municipios, así como sus organismos descentralizados.
 
-(ACTUALIZADO PRIMER PARRAFO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO PRIMER PARRAFO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 XI.- Por cada solicitud y, en su caso,
 
@@ -16535,13 +16593,13 @@ modificación a la apariencia física
 
 mediante tatuajes, perforación o
 
-micropigmentación $3,643.20 $3,643.00
+micropigmentación $3,643.20 $3,643
 
 > <small>(ADICIONADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
 Por la modificación o prórrogas de la tarjeta de control sanitario señalados en esta fracción, se pagará el 75% de la cuota del derecho que corresponda.
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD [N. DE E. REFORMADA], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 XII.- Por cada solicitud y, en su caso,
 
@@ -16559,13 +16617,21 @@ de alimentos para consumo humano
 
 o que se destinen a una finalidad de
 
-salud pública o a la biorremediación. $165,600.00 $165,600.00
+salud pública o a la biorremediación. $165,600.00
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+(ACTUALIZADA EN SU CANTIDAD [N. DE E. REFORMADA], D.O.F. 31 DE DICIEMBRE DE 2010)
 
-> <small>(REFORMADA, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
+XIII.- Por la expedición de cada
 
-XIII.- Por la expedición de cada certificado de plaguicidas o nutrientes vegetales, se pagará el derecho de certificados, para libre venta o para exportación conforme a la cuota de $2,227.34
+certificado de plaguicidas o
+
+nutrientes vegetales, se pagará el
+
+derecho de certificados, para libre
+
+venta o para exportación conforme
+
+a la cuota de $2,227.34 $2,227
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
@@ -16591,7 +16657,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I.- Por cada solicitud de visita de
 
@@ -16617,9 +16683,9 @@ intervengan en su elaboración,
 
 por tipo de producto, se pagará la
 
-cuota de $1,745.45 $1,745.00
+cuota de $1,745.45 $1,745
 
-(ACTUALIZADO PRIMER PARRAFO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO PRIMER PARRAFO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II.- Por el análisis de la solicitud y, en su caso, por la autorización a personas físicas y morales como Unidades de Verificación, Laboratorios de Pruebas, Organismos de Certificación o terceros autorizados, se pagarán derechos por cada solicitud, independientemente del número de autorizaciones emitidas, conforme a la cuota de $5,978.00
 
@@ -16629,17 +16695,15 @@ Quedan exceptuados del pago del derecho establecido en esta fracción, las insti
 
 III.- Por cada solicitud de visita de verificación para estupefacientes o psicotrópicos por:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REFORMADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
-> <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
+a).- Constatación de destrucción $1,765.61 $1,766
 
-a).- Constatación de destrucción $1,765.61
-
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 b).- Enfajillamiento, sello y lacre
 
-con fines de exportación $1,765.61 $1,766.00
+con fines de exportación $1,765.61 $1,766
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
@@ -16653,31 +16717,31 @@ ajuste ajuste
 
 I.- Estudios sanitarios de carácter interdisciplinarios que requieren de la intervención de servicios de salud del tercer nivel.
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-a).- De alto riesgo sanitario $5,928.56 $5,929.00
+a).- De alto riesgo sanitario $5,928.56 $5,929
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-b).- De riesgo medio sanitario $3,952.31 $3,952.00
+b).- De riesgo medio sanitario $3,952.31 $3,952
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-c).- De riesgo bajo sanitario $1,975.98 $1,976.00
+c).- De riesgo bajo sanitario $1,975.98 $1,976
 
 II.- Estudios sanitarios interdisciplinarios que requieran de la intervención de servicios de salud del segundo o primer nivel.
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-a).- De alto riesgo sanitario $1,185.49 $1,185.00
+a).- De alto riesgo sanitario $1,185.49 $1,185
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-b).- De riesgo medio sanitario $987.75 $988.00
+b).- De riesgo medio sanitario $987.75 $988
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-c).- De riesgo bajo sanitario $790.19 $790.00
+c).- De riesgo bajo sanitario $790.19 $790
 
 ###### ARTICULO 195-D
 
@@ -16697,47 +16761,47 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I.- Libre venta para exportación de
 
-insumos para la salud $1,431.84 $1,432.00
+insumos para la salud $1,431.84 $1,432
 
 II.- (DEROGADA, D.O.F. 29 DE DICIEMBRE DE 1997)
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 III.- De transportes, de riesgo alto
 
 o medio, directo o indirecto, para
 
-la salud humana $1,580.75 $1,581.00
+la salud humana $1,580.75 $1,581
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 IV.- De transportes de riesgo bajo,
 
 directo o indirecto, para la salud
 
-humana $790.19 $790.00
+humana $790.19 $790
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 V.- Sobre pozos de agua para
 
 abastecimiento privado, para
 
-determinar su calidad sanitaria $4,200.11 $4,200.00
+determinar su calidad sanitaria $4,200.11 $4,200
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 VI.- Sobre la calidad sanitaria
 
 fisicoquímica y bactereológica del
 
-agua de uso y consumo humano $1,975.98 $1,976.00
+agua de uso y consumo humano $1,975.98 $1,976
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 VII.- Sobre las condiciones sanitarias
 
@@ -16749,25 +16813,25 @@ consumo humano o industrial, que
 
 utilicen como fuente de abastecimiento
 
-los pozos de carácter privado $5,928.56 $5,929.00
+los pozos de carácter privado $5,928.56 $5,929
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 VIII.- Equipos e instalaciones para el
 
 proceso del agua para uso y consumo
 
-humano e industrial $3,952.31 $3,952.00
+humano e industrial $3,952.31 $3,952
 
 IX.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1999)
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 X.- Por cada certificado de buenas
 
 prácticas de fabricación o de
 
-manufactura de insumos para la salud $1,344.30 $1,344.00
+manufactura de insumos para la salud $1,344.30 $1,344
 
 ###### ARTICULO 195-F.
 
@@ -16787,11 +16851,11 @@ ajuste ajuste
 
 I.- De alimentos, bebidas, tabaco, productos de aseo, limpieza, perfumería y belleza, así como por las materias primas y aditivos que intervengan en su elaboración:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 a).- Por cada solicitud de permiso de importación $3,400.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 b).- Por cada solicitud de prórroga,
 
@@ -16801,17 +16865,17 @@ modificación relacionada con el
 
 permiso sanitario previo de
 
-importación $636.33 $636.00
+importación $636.33 $636
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 c).- Por el muestreo de los productos
 
 señalados en el permiso sanitario
 
-previo de importación $1,510.22 $1,510.00
+previo de importación $1,510.22 $1,510
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 d).- Por cualquier otra modalidad
 
@@ -16819,7 +16883,7 @@ relacionada con la autorización
 
 sanitaria previa de importación
 
-no especificada $226.86 $227.00
+no especificada $226.86 $227
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -16827,11 +16891,11 @@ no especificada $226.86 $227.00
 
 II.- De materias primas y productos terminados de medicamentos que no sean o contengan estupefacientes o psicotrópicos:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 a).- Por cada solicitud del permiso sanitario de importación de materia prima $3,525.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 b).- Por cada solicitud del permiso sanitario de importación de producto terminado $3,525.00
 
@@ -16839,53 +16903,53 @@ b).- Por cada solicitud del permiso sanitario de importación de producto termin
 
 c).- (DEROGADO, D.O.F. 13 DE NOVIEMBRE DE 2008)
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 d).- Por la modificación, corrección
 
 o prórroga en el permiso sanitario de
 
-importación $212.70 $213.00
+importación $212.70 $213
 
 > <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 III.- De materias primas y productos terminados de equipos médicos, prótesis, órtesis, ayudas funcionales, agentes de diagnóstico, materiales quirúrgicos, de curación, y productos higiénicos:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 a).- Por cada solicitud del permiso
 
 sanitario de importación en materia
 
-prima $1,505.04 $1,505.00
+prima $1,505.04 $1,505
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 b).- Por cada solicitud del permiso
 
 sanitario de importación de producto
 
-terminado $1,505.04 $1,505.00
+terminado $1,505.04 $1,505
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REFORMADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
-> <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
+c).- Por cada solicitud del permiso
 
-c).- Por cada solicitud del permiso sanitario de importación para donación…..$212.70
+sanitario de importación para donación $212.70 $213
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 d).- Por la modificación, corrección
 
 o prórroga en el permiso sanitario de
 
-importación $212.70 $213.00
+importación $212.70 $213
 
 > <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 IV.- Por cada solicitud del permiso sanitario previo de exportación de insumos para la salud:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 a).- De materia prima y producto
 
@@ -16893,19 +16957,19 @@ terminado de medicamentos que
 
 sean o contengan estupefacientes
 
-o sustancias psicotrópicas $1,505.04 $1,505.00
+o sustancias psicotrópicas $1,505.04 $1,505
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 b).- (DEROGADO, D.O.F. 13 DE NOVIEMBRE DE 2008)
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 c).- Por la modificación, corrección
 
 o prórroga en el permiso sanitario
 
-previo de exportación $212.70 $213.00
+previo de exportación $212.70 $213
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -16913,19 +16977,19 @@ previo de exportación $212.70 $213.00
 
 V.- De materias primas y productos terminados de medicamentos que sean o contengan estupefacientes o psicotrópicos:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 a). Por cada solicitud del permiso sanitario de importación de materia prima $6,866.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 b). Por cada solicitud del permiso sanitario de importación de producto terminado $6,866.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 c). Por cada solicitud del permiso sanitario de importación para uso personal $193.00
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 d). Por la modificación o prórroga en el permiso sanitario de importación $193.00
 
@@ -16939,7 +17003,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I.- Por cada uno de los trámites de
 
@@ -16949,9 +17013,9 @@ análisis de laboratorio, así como por
 
 cualquier otra modalidad relacionada
 
-y no especificada $726.86 $727.00
+y no especificada $726.86 $727
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II.- En caso de certificados que
 
@@ -16959,15 +17023,15 @@ requieran de muestreo para análisis
 
 de laboratorio se pagará
 
-adicionalmente $1,180.23 $1,180.00
+adicionalmente $1,180.23 $1,180
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 III.- Por la corrección o modificación
 
 de un certificado expedido y que se
 
-encuentre vigente $545.10 $545.00
+encuentre vigente $545.10 $545
 
 No se pagará el derecho por los servicios previstos en la fracción II, cuando el análisis de los productos se realice en un laboratorio privado, y que hubiera sido aprobado por la Secretaría de Salud.
 
@@ -16981,7 +17045,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I.- Por los servicios de trámite de
 
@@ -16995,9 +17059,9 @@ fármacos o medicamentos que
 
 contengan estupefacientes o
 
-psicotrópicos $1,340.40 $1,340.00
+psicotrópicos $1,340.40 $1,340
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II.- Por la solicitud de liberación
 
@@ -17013,7 +17077,7 @@ biotecnológicos, hemoderivados
 
 o antibióticos, se pagará por
 
-cada solicitud de liberación $1,359.84 $1,360.00
+cada solicitud de liberación $1,359.84 $1,360
 
 III.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 2003)
 
@@ -17021,21 +17085,21 @@ III.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 2003)
 
 IV.- Por los servicios de reposición de licencias sanitarias y registros sanitarios de insumos para la salud, con motivo de pérdida, robo o extravío, se pagará conforme a la siguiente cuota:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 a).- Por la reposición de cada
 
-licencia sanitaria $518.53 $519.00
+licencia sanitaria $518.53 $519
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 b).- Por la reposición de cada
 
-registro sanitario $1,037.05 $1,037.00
+registro sanitario $1,037.05 $1,037
 
 V.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 2003)
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 VI.- Por el servicio de trámite de
 
@@ -17051,9 +17115,9 @@ sanitario, se pagará por cada
 
 solicitud de protocolo de
 
-investigación $3,957.67 $3,958.00
+investigación $3,957.67 $3,958
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 VII.- Por cada solicitud de
 
@@ -17061,7 +17125,7 @@ autorización de la clave
 
 alfanumérica de remedios
 
-herbolarios, se pagará $3,024.33 $3,024.00
+herbolarios, se pagará $3,024.33 $3,024
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -17079,21 +17143,21 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-I.- Por la expedición $5,746.64 $5,747.00
+I.- Por la expedición $5,746.64 $5,747
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II.- Por la corrección del certificado
 
-sanitario $236.01 $236.00
+sanitario $236.01 $236
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 III.- Por cualquier otra modalidad
 
-no especificada $236.01 $236.00
+no especificada $236.01 $236
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
@@ -17105,13 +17169,13 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I.- De cesión de derechos de autorizaciones
 
-sanitarias entre personas físicas $97.26 $97.00
+sanitarias entre personas físicas $97.26 $97
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II.- De cesión de derechos de
 
@@ -17119,7 +17183,7 @@ autorizaciones sanitarias entre
 
 personas morales o entre personas
 
-físicas y morales $487.67 $488.00
+físicas y morales $487.67 $488
 
 III.- (DEROGADA, D.O.F. 26 DE DICIEMBRE DE 1990)
 
@@ -17133,21 +17197,21 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-I.- Por dictamen provisional $3,064.77 $3,065.00
+I.- Por dictamen provisional $3,064.77 $3,065
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II.- Por dictamen definitivo, incluida
 
-la visita de inspección y vigilancia $13,792.32 $13,792.00
+la visita de inspección y vigilancia $13,792.32 $13,792
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 III.- Por dictamen anual, incluida la
 
-visita de inspección y vigilancia $9,194.40 $9,194.00
+visita de inspección y vigilancia $9,194.40 $9,194
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
@@ -17159,15 +17223,15 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I.- Por cada solicitud y, en su caso,
 
 la expedición de licencia sanitaria
 
-de Servicios de Transfusión $715.68 $716.00
+de Servicios de Transfusión $715.68 $716
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II.- Por la solicitud de permiso de
 
@@ -17175,15 +17239,15 @@ internación o salida de unidades de
 
 sangre, componentes y células
 
-progenitoras hematopoyéticas $434.27 $434.00
+progenitoras hematopoyéticas $434.27 $434
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 III.- Por la solicitud de autorización de
 
 ingresos de sangre y
 
-hemocomponentes $550.94 $551.00
+hemocomponentes $550.94 $551
 
 > <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
@@ -17193,7 +17257,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 195-K
 
@@ -17207,13 +17271,13 @@ para potabilización de agua tipo
 
 doméstico, se pagarán derechos
 
-conforme a la cuota de $3,240.84 $3,241.00
+conforme a la cuota de $3,240.84 $3,241
 
 cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 195-K
 
@@ -17227,13 +17291,13 @@ bivalvos y de las especies que se
 
 cultivan o cosechan, se pagarán
 
-derechos conforme a la cuota de $9,430.83 $9,431.00
+derechos conforme a la cuota de $9,430.83 $9,431
 
 cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 195-K
 
@@ -17247,13 +17311,13 @@ Programa Mexicano de Sanidad de
 
 Moluscos Bivalvos, se pagarán derechos
 
-conforme a la cuota de $9,346.57 $9,347.00
+conforme a la cuota de $9,346.57 $9,347
 
 cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 195-K
 
@@ -17265,13 +17329,13 @@ Mexicano de Sanidad de Moluscos
 
 Bivalvos, se pagarán derechos
 
-conforme a la cuota de $10,759.57 $10,760.00
+conforme a la cuota de $10,759.57 $10,760
 
 cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 195-K
 
@@ -17281,7 +17345,7 @@ de cumplimiento a la Norma Oficial
 
 Mexicana, se pagarán derechos
 
-conforme a la cuota de $2,096.16 $2,096.00
+conforme a la cuota de $2,096.16 $2,096
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
@@ -17293,15 +17357,15 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I.- Por la licencia sanitaria para
 
 servicios urbanos de fumigación y
 
-control de plagas $3,402.87 $3,403.00
+control de plagas $3,402.87 $3,403
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II.- Por la licencia sanitaria para
 
@@ -17309,9 +17373,9 @@ establecimientos que fabrican
 
 sustancias tóxicas o peligrosas
 
-para la salud $10,007.70 $10,008.00
+para la salud $10,007.70 $10,008
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 III.- Por la licencia sanitaria para
 
@@ -17321,15 +17385,17 @@ formulan, mezclan o envasan
 
 plaguicidas y nutrientes
 
-vegetales $15,944.93 $15,945.00
+vegetales $15,944.93 $15,945
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
+(ACTUALIZADO PRIMER PARRAFO EN SU CANTIDAD [N. DE E. REFORMADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 195-K
 
-9.- Por la solicitud y, en su caso, expedición de licencia sanitaria para establecimientos que utilicen fuentes de radiación para fines médicos o de diagnóstico, se pagarán derechos conforme a la cuota de…..$4,576.06
+9.- Por la solicitud y, en su caso, expedición de licencia sanitaria para establecimientos que utilicen fuentes de radiación para fines médicos o de diagnóstico, se pagarán derechos conforme a la cuota de…..$4,576.06 $4,576
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
 
 Por la solicitud de modificación a las condiciones de la licencia sanitaria señalada en este artículo se pagará el 75% del derecho que corresponda.
 
@@ -17345,13 +17411,13 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-I.- Por la expedición $1,950.99 $1,951.00
+I.- Por la expedición $1,950.99 $1,951
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-II.- Por la modificación $1,069.47 $1,069.00
+II.- Por la modificación $1,069.47 $1,069
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
@@ -17363,19 +17429,19 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-I.- Por la expedición $8,478.04 $8,478.00
+I.- Por la expedición $8,478.04 $8,478
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-II.- Por la modificación $6,902.98 $6,903.00
+II.- Por la modificación $6,902.98 $6,903
 
 cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 195-K
 
@@ -17391,7 +17457,7 @@ determinadas como de alto riesgo, se
 
 pagarán derechos conforme a la cuota
 
-de $3,104.71 $3,105.00
+de $3,104.71 $3,105
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
 
@@ -17477,95 +17543,95 @@ ajuste ajuste
 
 I.- Por la inscripción de:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 a).- Establecimiento de alimentos
 
-y bebidas $634.08 $634.00
+y bebidas $634.08 $634
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-b).- Transportación turística $686.30 $686.00
+b).- Transportación turística $686.30 $686
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-c).- Agencias de viajes $507.20 $507.00
+c).- Agencias de viajes $507.20 $507
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 d).- Establecimiento de hospedaje,
 
 campamentos y paradores de casas
 
-rodantes $895.36 $895.00
+rodantes $895.36 $895
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-e).- Operadores de marinas turísticas $1,343.15 $1,343.00
+e).- Operadores de marinas turísticas $1,343.15 $1,343
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-f).- Guías de turistas $372.91 $373.00
+f).- Guías de turistas $372.91 $373
 
 g).- (DEROGADO D.O.F. 29 DE DICIEMBRE DE 1997)
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 h).- Empresas de sistemas de intercambio
 
-de servicios turísticos $505.36 $505.00
+de servicios turísticos $505.36 $505
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 i).- Operadoras turísticas de
 
-buceo $373.05 $373.00
+buceo $373.05 $373
 
 II.- Por la reposición de comprobantes de inscripción:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 a).- Establecimientos de alimentos
 
-y bebidas $410.22 $410.00
+y bebidas $410.22 $410
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-b).- Transportación turística $238.45 $238.00
+b).- Transportación turística $238.45 $238
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-c).- Agencias de viajes $283.30 $283.00
+c).- Agencias de viajes $283.30 $283
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 d).- Establecimientos de hospedaje,
 
 campamentos y paradores de casas
 
-rodantes $671.36 $671.00
+rodantes $671.36 $671
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 e).- Operadores de marinas
 
-turísticas $746.08 $746.00
+turísticas $746.08 $746
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-f).- Guías de turistas $223.50 $224.00
+f).- Guías de turistas $223.50 $224
 
 g).- (DEROGADO, D.O.F. 29 DE DICIEMBRE DE 1997)
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 h).- Empresas de sistemas de intercambio
 
-de servicios turísticos $283.30 $283.00
+de servicios turísticos $283.30 $283
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-i).- Operadoras turísticas de buceo $221.83 $222.00
+i).- Operadoras turísticas de buceo $221.83 $222
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
@@ -17577,47 +17643,47 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I.- Establecimientos de alimentos
 
-y bebidas $634.08 $634.00
+y bebidas $634.08 $634
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-II.- Transportación turística $686.30 $686.00
+II.- Transportación turística $686.30 $686
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-III.- Agencias de viajes $511.46 $511.00
+III.- Agencias de viajes $511.46 $511
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 IV.- Establecimientos de hospedaje,
 
 campamentos y paradores de
 
-casas rodantes $895.36 $895.00
+casas rodantes $895.36 $895
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-V.- Operadores de marinas turísticas $1,492.50 $1,492.00
+V.- Operadores de marinas turísticas $1,492.50 $1,492
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-VI.- Guías de turistas $372.91 $373.00
+VI.- Guías de turistas $372.91 $373
 
 VII.- (DEROGADA, D.O.F. 29 DE DICIEMBRE DE 1997)
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 VIII.- Empresas de sistemas de
 
-intercambio de servicios turísticos $510.04 $510.00
+intercambio de servicios turísticos $510.04 $510
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-IX.- Operadoras turísticas de buceo $373.05 $373.00
+IX.- Operadoras turísticas de buceo $373.05 $373
 
 > <small>(ADICIONADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
 
@@ -17655,7 +17721,7 @@ ajuste ajuste
 
 A.- Por la expedición o revalidación de cada uno de los siguientes permisos generales:
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I.- Para la fabricación de armas de fuego,
 
@@ -17663,47 +17729,47 @@ cartuchos, cartuchos de fuego central,
 
 armas deportivas o municiones esféricas
 
-de plomo $5,453.03 $5,453.00
+de plomo $5,453.03 $5,453
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II.- Para la fabricación, importación
 
-y exportación de partes de escopeta $5,453.03 $5,453.00
+y exportación de partes de escopeta $5,453.03 $5,453
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 III.- Para la compra y consumo de
 
 cartuchos industriales, de salva o
 
-deportivos $5,453.03 $5,453.00
+deportivos $5,453.03 $5,453
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 IV.- Para talleres dedicados a la
 
-reparación de armas de fuego o gas $5,370.34 $5,370.00
+reparación de armas de fuego o gas $5,370.34 $5,370
 
 B.- Por la expedición de cada uno de los siguientes permisos ordinarios:
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I.- De importación o exportación de
 
 armas, cartuchos y elementos
 
-constitutivos $3,773.99 $3,774.00
+constitutivos $3,773.99 $3,774
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II.- Para la compra de cartuchos
 
 deportivos a los expendios
 
-autorizados $583.78 $584.00
+autorizados $583.78 $584
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 III.- Por la ampliación de vigencia
 
@@ -17711,15 +17777,15 @@ de un permiso ordinario de
 
 importación o exportación de armas
 
-y municiones $1,699.22 $1,699.00
+y municiones $1,699.22 $1,699
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 IV.- Por la modificación de un permiso
 
 ordinario de importación o exportación
 
-de armas y municiones $1,785.60 $1,786.00
+de armas y municiones $1,785.60 $1,786
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
@@ -17727,19 +17793,19 @@ Para el caso de la modificación del permiso por cambio de destino, se pagará e
 
 C.- Por la expedición de cada uno de los siguientes permisos extraordinarios:
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I.- Para la importación o exportación
 
-de armas y cartuchos $3,388.03 $3,388.00
+de armas y cartuchos $3,388.03 $3,388
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II.- Para la compra-venta, donación
 
-o permuta de armas o cartuchos $85.04 $85.00
+o permuta de armas o cartuchos $85.04 $85
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 III.- Para la importación o exportación
 
@@ -17747,21 +17813,21 @@ temporal de armas de fuego y
 
 cartuchos, con fines cinegéticos
 
-o de tiro $683.02 $683.00
+o de tiro $683.02 $683
 
 > <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 IV.- Para la transportación de armas:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-a).- Hasta por tres armas $314.70 $315.00
+a).- Hasta por tres armas $314.70 $315
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-b).- Por cada arma adicional $104.66 $105.00
+b).- Por cada arma adicional $104.66 $105
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 V.- Por la ampliación de vigencia de
 
@@ -17769,15 +17835,15 @@ un permiso extraordinario de
 
 importación o exportación de armas
 
-y municiones $1,699.22 $1,699.00
+y municiones $1,699.22 $1,699
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 VI.- Por la modificación de un permiso
 
 extraordinario de importación o
 
-exportación de armas y municiones $1,785.60 $1,786.00
+exportación de armas y municiones $1,785.60 $1,786
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
@@ -17785,13 +17851,13 @@ Para el caso de la modificación del permiso por cambio de destino, se pagará e
 
 D.- Por los servicios prestados a coleccionistas o museos de armas de fuego:
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I.- Por el permiso para coleccionista
 
-o museo de armas de fuego $2,731.46 $2,731.00
+o museo de armas de fuego $2,731.46 $2,731
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II.- Por la autorización para la adquisición
 
@@ -17801,71 +17867,71 @@ al enriquecimiento de una colección o
 
 de un museo, e inscripción en el mismo
 
-permiso $250.49 $250.00
+permiso $250.49 $250
 
 E.- Por el trámite de cada registro:
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I.- Por el registro inicial para organizador
 
-cinegético o criador de fauna silvestre $6,881.49 $6,881.00
+cinegético o criador de fauna silvestre $6,881.49 $6,881
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-a).- Por su revalidación $3,520.85 $3,521.00
+a).- Por su revalidación $3,520.85 $3,521
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II.- Anual para club o asociación de
 
-deportistas de tiro y cacería $5,092.17 $5,092.00
+deportistas de tiro y cacería $5,092.17 $5,092
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 III.- Por el registro de un arma
 
-de fuego $34.97 $35.00
+de fuego $34.97 $35
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 IV.- Por la expedición de cada
 
-constancia de registro $107.61 $108.00
+constancia de registro $107.61 $108
 
 F.- Por la expedición o revalidación de cada licencia para la portación de arma de fuego:
 
 I.- Por la expedición de:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-a).- Licencia particular individual $1,648.81 $1,649.00
+a).- Licencia particular individual $1,648.81 $1,649
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-b).- Licencia particular colectiva $25,621.78 $25,622.00
+b).- Licencia particular colectiva $25,621.78 $25,622
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-c).- Licencia oficial colectiva $13,910.95 $13,911.00
+c).- Licencia oficial colectiva $13,910.95 $13,911
 
 II.- Por la revalidación de:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-a).- Licencia particular individual $1,648.81 $1,649.00
+a).- Licencia particular individual $1,648.81 $1,649
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-b).- Licencia particular colectiva $25,621.78 $25,622.00
+b).- Licencia particular colectiva $25,621.78 $25,622
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 III.- Por la modificación de licencia
 
-particular colectiva u oficial colectiva $1,939.56 $1,940.00
+particular colectiva u oficial colectiva $1,939.56 $1,940
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 IV.- Por baja de armamento de las
 
@@ -17873,15 +17939,15 @@ licencias oficiales colectivas y
 
 particulares colectivas, por robo,
 
-extravío o destrucción $3,889.71 $3,890.00
+extravío o destrucción $3,889.71 $3,890
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 V.- Por baja de personal de las
 
 licencias oficiales colectivas y
 
-particulares colectivas $3,560.51 $3,561.00
+particulares colectivas $3,560.51 $3,561
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
@@ -17899,15 +17965,15 @@ ajuste ajuste
 
 A.- Por la expedición o revalidación de cada uno de los siguientes permisos generales:
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I.- Para la compra, almacenamiento y
 
 consumo o compra-consumo de
 
-materiales explosivos $10,084.25 $10,084.00
+materiales explosivos $10,084.25 $10,084
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II.- Para la fabricación de explosivos
 
@@ -17917,9 +17983,9 @@ con éstos, así como para la adquisición
 
 y almacenamiento de materia prima
 
-y productos terminados $10,084.25 $10,084.00
+y productos terminados $10,084.25 $10,084
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 III.- Para la compra-venta, compra-consumo
 
@@ -17927,9 +17993,9 @@ o almacenamiento de explosivos o
 
 sustancias químicas relacionadas
 
-con éstos $10,282.20 $10,282.00
+con éstos $10,282.20 $10,282
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 IV.- Para la compra, almacenamiento
 
@@ -17937,9 +18003,9 @@ y consumo de sustancias químicas en
 
 la fabricación y venta de artificios
 
-pirotécnicos $1,460.91 $1,461.00
+pirotécnicos $1,460.91 $1,461
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 V.- Por intervenciones para importación
 
@@ -17947,7 +18013,9 @@ o exportación de armas, municiones,
 
 explosivos y sustancias químicas, a
 
-partir de la segunda intervención $233.94 $234.00
+partir de la segunda intervención $233.94 $234
+
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 Por la inspección para el reinicio de
 
@@ -17957,39 +18025,39 @@ suspendido a solicitud del interesado,
 
 se pagará el derecho conforme a la
 
-cuota de $3,032.19 $3,032.00
+cuota de $3,032.19 $3,032
 
 B.- Por la expedición de cada uno de los siguientes permisos ordinarios:
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I.- Para la compra de material explosivo
 
-o sustancias químicas $887.02 $887.00
+o sustancias químicas $887.02 $887
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II.- De importación o exportación de
 
 explosivos o sustancias químicas
 
-relacionadas con éstos $3,443.18 $3,443.00
+relacionadas con éstos $3,443.18 $3,443
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-a).- Por su modificación $3,443.18 $3,443.00
+a).- Por su modificación $3,443.18 $3,443
 
 C.- Por la expedición de cada uno de los siguientes permisos extraordinarios:
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I.- Para la compra-consumo, importación
 
 o exportación de material explosivo o
 
-sustancias químicas $10,084.25 $10,084.00
+sustancias químicas $10,084.25 $10,084
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II.- Por la modificación a un permiso
 
@@ -17997,13 +18065,13 @@ extraordinario de importación o
 
 exportación de explosivos o sustancias
 
-químicas relacionados con éstos $3,443.18 $3,443.00
+químicas relacionados con éstos $3,443.18 $3,443
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 III.- Para la compra-venta de artificios
 
-Pirotécnicos $887.02 $887.00
+Pirotécnicos $887.02 $887
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -18015,7 +18083,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I.- Por la expedición de cada permiso
 
@@ -18025,25 +18093,25 @@ de explosivos, sustancias químicas
 
 relacionadas con éstos, artificios,
 
-armamento o municiones $10,242.13 $10,242.00
+armamento o municiones $10,242.13 $10,242
 
 II.- Por el trámite de autorización:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 a).- De libros de compras y ventas
 
 a personas físicas o morales con
 
-permiso general $132.69 $133.00
+permiso general $132.69 $133
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 b).- Para cambio de razón social a
 
-un permiso general $1,528.51 $1,529.00
+un permiso general $1,528.51 $1,529
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 III.- Por la autorización para modificar
 
@@ -18053,7 +18121,7 @@ sus condiciones, por ubicación, técnica
 
 de trabajo u otro motivo que no afecte
 
-la clase de producción permitida $10,154.38 $10,154.00
+la clase de producción permitida $10,154.38 $10,154
 
 > <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -18069,27 +18137,27 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-I.- Por el permiso para salir del país $145.23 $145.00
+I.- Por el permiso para salir del país $145.23 $145
 
 II.- (DEROGADA, D.O.F. 1 DE ENERO DE 2002)
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 III.- Por corrección de los datos base
 
-de la cartilla $145.23 $145.00
+de la cartilla $145.23 $145
 
 IV.- (DEROGADA, D.O.F. 1 DE ENERO DE 2002)
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 V.- Por expedición de duplicado
 
-de cartilla $145.23 $145.00
+de cartilla $145.23 $145
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 VI.- Por la elaboración de oficios,
 
@@ -18097,7 +18165,7 @@ cuando siendo mayor de 40 años
 
 no obtuvo la cartilla del Servicio
 
-Militar Nacional $285.57 $286.00
+Militar Nacional $285.57 $286
 
 > <small>(ADICIONADO CON LA SECCION Y ARTICULOS QUE LO INTEGRAN, D.O.F. 1 DE ENERO DE 2002)</small>
 
@@ -18119,35 +18187,35 @@ ajuste ajuste
 
 I.- Por el estudio y trámite de la solicitud para la autorización o para su revalidación:
 
-(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009) (ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009) (ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 a).- Para prestar servicios de
 
-seguridad privada en los bienes $12,530.14 $12,530.00
+seguridad privada en los bienes $12,530.14 $12,530
 
-(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009) (ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009) (ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 b).- Para prestar los servicios de
 
 seguridad privada en el traslado
 
-de bienes o valores $12,325.43 $12,325.00
+de bienes o valores $12,325.43 $12,325
 
-(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009) (ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009) (ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 c).- Para prestar los servicios
 
-de seguridad privada a personas $12,530.14 $12,530.00
+de seguridad privada a personas $12,530.14 $12,530
 
-(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009) (ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009) (ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 d).- Para prestar los servicios
 
 de sistemas de prevención y
 
-responsabilidades $11,673.30 $11,673.00
+responsabilidades $11,673.30 $11,673
 
-(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009) (ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009) (ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 e).- Para prestar los servicios de
 
@@ -18155,19 +18223,19 @@ seguridad de la información y por
 
 cualquier actividad vinculada
 
-con los servicios de seguridad privada $11,673.30 $11,673.00
+con los servicios de seguridad privada $11,673.30 $11,673
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 f).- (DEROGADO, D.O.F. 27 DE NOVIEMBRE DE 2009)
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II.- Por la expedición de la autorización
 
-o de su revalidación $3,759.48 $3,759.00
+o de su revalidación $3,759.48 $3,759
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 III.- Por la inscripción de cada
 
@@ -18177,9 +18245,9 @@ que se refiere este artículo, en el
 
 Registro Nacional del Personal de
 
-Seguridad Público (sic) $125.62 $126.00
+Seguridad Público (sic) $125.62 $126
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 IV.- Por la inscripción de cada arma de
 
@@ -18189,9 +18257,9 @@ físicas o morales a que se refiere este
 
 artículo, en el Registro Nacional de
 
-Empresas de Seguridad Privada $38.11 $38.00
+Empresas de Seguridad Privada $38.11 $38
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 V.- Por la consulta de antecedentes
 
@@ -18205,9 +18273,9 @@ cuentan las instituciones que
 
 presten los servicios de seguridad
 
-privada, por cada integrante $37.40 $37.00
+privada, por cada integrante $37.40 $37
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 VI.- Por la modificación de la
 
@@ -18215,9 +18283,9 @@ autorización o, en su caso,
 
 de la revalidación, a que se
 
-refiere este artículo $2,207.51 $2,208.00
+refiere este artículo $2,207.51 $2,208
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 VII.- Por la expedición de cada
 
@@ -18225,25 +18293,25 @@ cédula de identificación del
 
 personal, con el registro asignado
 
-en su inscripción $35.49 $35.00
+en su inscripción $35.49 $35
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 VIII.- Por cambio de
 
-representante legal $5,587.20 $5,587.00
+representante legal $5,587.20 $5,587
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 IX.- Por cambio en la titularidad de
 
-las acciones o partes sociales $5,587.20 $5,587.00
+las acciones o partes sociales $5,587.20 $5,587
 
 cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 195-X
 
@@ -18259,13 +18327,13 @@ de armas de fuego a empleados
 
 federales, se pagarán derechos
 
-conforme a la siguiente cuota $327.68 $328.00
+conforme a la siguiente cuota $327.68 $328
 
 cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 195-X
 
@@ -18283,11 +18351,11 @@ el servicio de seguridad privada,
 
 porten armas de fuego, se pagarán
 
-derechos conforme a la cuota de $3,381.46 $3,381.00
+derechos conforme a la cuota de $3,381.46 $3,381
 
 Por la modificación de la
 
-opinión respectiva $3,381.46 $3,381.00
+opinión respectiva $3,381.46 $3,381
 
 > <small>(ADICIONADO CON LA SECCION Y EL ARTICULO QUE LO INTEGRAN, D.O.F. 1 DE ENERO DE 2002)</small>
 
@@ -18333,7 +18401,7 @@ ajuste ajuste
 
 I.- Por el aprovechamiento de la vegetación arbórea:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 a) Maderas, por metro cúbico rollo fustal
 
@@ -18341,9 +18409,9 @@ sin corteza autorizado de: caoba, cedro
 
 rojo, primavera, fresno, nogal, guayacán
 
-y otras especies similares $2,012.65 $2,013.00
+y otras especies similares $2,012.65 $2,013
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 b) Maderas, por metro cúbico rollo
 
@@ -18353,25 +18421,25 @@ canshan, barí, jobo, chacáguanacastle,
 
 ceiba, bojón, cedrillo y especies
 
-similares $379.20 $379.00
+similares $379.20 $379
 
 c).- (DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1983)
 
 d).- (DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1983)
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-e) Chicle, por tonelada autorizada $5,227.89 $5,228.00
+e) Chicle, por tonelada autorizada $5,227.89 $5,228
 
 II.- Por el aprovechamiento de la vegetación herbácea para pastoreo, por cabeza-mes.
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-a) De ganado mayor $12.66 $13.00
+a) De ganado mayor $12.66 $13
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-b) De ganado menor $6.11 $6.00
+b) De ganado menor $6.11 $6
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
@@ -18387,7 +18455,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO PRIMER PARRAFO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO PRIMER PARRAFO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 197-A.
 
@@ -18399,7 +18467,7 @@ y zona federal de los ríos, se pagará el
 
 derecho de aprovechamiento forestal
 
-conforme a la cuota de $109.66 $110.00
+conforme a la cuota de $109.66 $110
 
 por metro cúbico de rollo de árbol
 
@@ -18423,7 +18491,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD [N. DE E. REFORMADA], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I.- Por persona, por día, por cada
 
@@ -18437,7 +18505,7 @@ capacidad de carga de
 
 conformidad con la siguiente
 
-lista: $50.00 $50.00
+lista: $50.00
 
 - Parque Nacional Cabo Pulmo
 
@@ -18481,7 +18549,7 @@ lista: $50.00 $50.00
 
 - Reserva de la Biosfera Bahía de los Ángeles, canales de Ballenas y Salsipuedes
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD PRIMER PARRAFO [N. DE E. REFORMADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II.- Por las demás Áreas Naturales
 
@@ -18489,11 +18557,11 @@ Protegidas no enlistadas en la
 
 fracción I, por persona, por día,
 
-por Área Natural Protegida: $25.00 $25.00
+por Área Natural Protegida: $25.00
 
 No pagarán el derecho establecido en esta fracción, las personas que hayan pagado el derecho señalado en la fracción I de este artículo, siempre y cuando la visita se realice el mismo día.
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD [N. DE E. REFORMADA], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 III.- Las personas podrán optar
 
@@ -18503,7 +18571,7 @@ refiere este artículo, por persona,
 
 por año, para todas las Áreas
 
-Naturales Protegidas: $260.00 $260.00
+Naturales Protegidas: $260.00
 
 La obligación del pago de los derechos previstos en las fracciones I y II de este artículo, será de los titulares de registros, autorizaciones, permisos o concesiones para la prestación de servicios náutico-recreativos o acuático-recreativos. En los casos en que las actividades a las que se refieren las fracciones de este artículo, se realicen sin la participación de los titulares mencionados, la obligación del pago será de cada individuo.
 
@@ -18527,9 +18595,9 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD PRIMER PARRAFO [N. DE E. REFORMADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
-I.- $50.00 $50.00
+I.- $50.00
 
 por día, por persona,
 
@@ -18583,7 +18651,7 @@ con la siguiente lista:
 
 - Reserva de la Biosfera Calakmul
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD PRIMER PARRAFO [N. DE E. REFORMADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II.- Por las demás Áreas Naturales
 
@@ -18591,13 +18659,13 @@ Protegidas terrestres no enlistadas
 
 en la fracción anterior, por persona,
 
-por día: $25.00 $25.00
+por día: $25.00
 
 > <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
 No pagarán el derecho establecido en esta fracción las personas que hayan pagado el derecho señalado en la fracción I de este artículo, siempre y cuando la visita se realice el mismo día.
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD PRIMER PARRAFO [N. DE E. REFORMADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 III.- Se podrá optar por pagar el derecho
 
@@ -18605,7 +18673,7 @@ a que se refiere este artículo, por persona,
 
 por año, para todas las Áreas Naturales
 
-Protegidas a una cuota de: $260.00 $260.00
+Protegidas a una cuota de: $260.00
 
 > <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
@@ -18643,7 +18711,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO PRIMER PARRAFO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO PRIMER PARRAFO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 199.
 
@@ -18671,7 +18739,7 @@ o fracción del barco,
 
 por cada viaje hasta de 60
 
-días, conforme a la cuota de $2,118.63 $2,119.00
+días, conforme a la cuota de $2,118.63 $2,119
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
@@ -18707,107 +18775,107 @@ REGISTRO DE LA
 
 EMBARCACIÓN
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I.- ABULÓN $598.84
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II.- SARGAZO $80.04 $2,167.60
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 III.- ALGAS MARINAS $3,683.75 $2,167.60
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 IV.- ALMEJAS $503.58 $2,167.60
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 V.- ANCHOVETA $54.98
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 VI.- CALAMAR $81.59
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 VII.- CAMARÓN DE ALTAMAR $37.44
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 VIII.- CAMARÓN DE AGUAS
 
 PROTEGIDAS $77.54
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 IX.- CANGREJO $65.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 X.- CARACOL $273.01
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 XI.- ERIZO $1,257.90
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 XII.- JAIBA $42.46
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 XIII.- ESPECIES MARINAS
 
 DE ESCAMA $54.98
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 XIV.- ESPECIES DE ESCAMA
 
 DE AGUA DULCE $27.40
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 XV.- LANGOSTA $260.46
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 XVI.- LANGOSTINO $42.46
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 XVII.- OSTIÓN $54.98
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 XVIII.- PICUDOS $47.45
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 XIX.- PULPO $155.24 $210.37
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 XX.- SARDINA $54.98
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD [N. DE E. REFORMADA], D.O.F. 31 DE DICIEMBRE DE 2010)
 
-XXI.- TIBURÓN $13.79 $13.25
+XXI.- TIBURÓN $13.79
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 XXII.- TÚNIDOS $37.44
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 XXIII.- OTRAS PESQUERÍAS
 
 MARINAS $49.99 $210.37
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 XXIV.- OTRAS PESQUERÍAS
 
@@ -18815,7 +18883,7 @@ DE AGUA DULCE $27.40 $210.37
 
 XXV.- Por la extracción de organismos adultos de especies de la fauna acuática del medio natural, para utilizarlos como pie de cría o reproductores, se pagará la cuota anual por tonelada neta de registro establecida para la especie de que se trate.
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 XXVI.- Por la extracción de larvas
 
@@ -18847,23 +18915,23 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-I.- Por un día $98.32 $98.00
+I.- Por un día $98.32 $98
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-II.- Por una semana $246.47 $246.00
+II.- Por una semana $246.47 $246
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-III.- Por un mes $369.77 $370.00
+III.- Por un mes $369.77 $370
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-IV.- Por un año $493.17 $493.00
+IV.- Por un año $493.17 $493
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 V.- Para excursiones de pesca
 
@@ -18873,7 +18941,7 @@ extranjero, por cada integrante y
 
 por viaje de más de tres días y
 
-hasta por un año $701.56 $702.00
+hasta por un año $701.56 $702
 
 En este último caso, si son menores a tres días, se pagará la cuota señalada por día, multiplicada por el número de días de viaje.
 
@@ -18885,7 +18953,7 @@ Las Entidades Federativas que hayan celebrado convenio de colaboración administ
 
 ### CAPITULO III. Puerto y Atraque
 
-(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009) (ACTUALIZADO PRIMER PARRAFO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009) (ACTUALIZADO PRIMER PARRAFO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 200.
 
@@ -18893,7 +18961,7 @@ Las personas físicas y morales que usen los puertos nacionales o las terminales
 
 Tratándose de embarcaciones que realicen tráfico mixto, se pagará el 90% de la cuota correspondiente al derecho de puerto de altura, por cada puerto o terminal de uso público fuera de puerto habilitado en que entren.
 
-(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009) (ACTUALIZADO PRIMER PARRAFO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009) (ACTUALIZADO PRIMER PARRAFO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 200-A.
 
@@ -18901,7 +18969,7 @@ Las personas físicas y morales cuyas embarcaciones entren a los puertos naciona
 
 Tratándose de las embarcaciones que realicen exclusivamente actividades turísticas y que en un viaje entren a diversos puertos nacionales, se pagará el 90% de la cuota a que se refiere el párrafo anterior, por cada uno de los puertos o terminales de uso público fuera de puerto habilitado, siguientes al primero.
 
-(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009) (ACTUALIZADO PRIMER PARRAFO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009) (ACTUALIZADO PRIMER PARRAFO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 201.
 
@@ -18925,19 +18993,19 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I.- Por embarcación comercial $0.49
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II.- Por yate $0.31
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 III.- Por embarcación arrejerada $0.21
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 IV.- Por embarcación local comercial $0.33
 
@@ -19011,17 +19079,17 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-I.- Mercancías de exportación $4.71 $5.00
+I.- Mercancías de exportación $4.71 $5
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-II.- Mercancías de importación $10.16 $10.00
+II.- Mercancías de importación $10.16 $10
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-III.- Mercancías de tráfico de cabotaje $2.43 $2.00
+III.- Mercancías de tráfico de cabotaje $2.43 $2
 
 El derecho a que se refiere la fracción I de este artículo se pagará dentro de los cinco días siguientes a aquél en que se presente a las autoridades aduaneras el pedimento de exportación; el derecho a que se refiere la fracción II del mismo artículo se pagará dentro de los cinco días siguientes a aquél en que se realice la descarga de las mercancías correspondientes a cada conocimiento de embarque; y el derecho a que se refiere la fracción III del propio numeral se pagará dentro de los cinco días siguientes a aquél en que se realice la carga o la descarga de las mercancías amparadas por cada conocimiento de embarque.
 
@@ -19035,19 +19103,19 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I.- En instalaciones no dedicadas
 
 exclusivamente al servicio de
 
-pasajeros $23.69 $24.00
+pasajeros $23.69 $24
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II.- En instalaciones exclusivas
 
-para pasajeros $35.68 $36.00
+para pasajeros $35.68 $36
 
 Los derechos a que se refiere este artículo se pagarán, por una sola vez en cada puerto, al momento en que se realice el embarque o desembarque de pasajeros.
 
@@ -19135,7 +19203,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO PRIMER PARRAFO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO PRIMER PARRAFO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 211-A.
 
@@ -19173,7 +19241,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO PRIMER PARRAFO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO PRIMER PARRAFO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 211-B.
 
@@ -19341,39 +19409,39 @@ ajuste ajuste
 
 A.- Por las aguas provenientes de fuentes superficiales o extraídas del subsuelo, a excepción de las del mar, por cada metro cúbico:
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I.- Zona de disponibilidad 1 $18.2894
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II.- Zona de disponibilidad 2 $14.6310
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 III.- Zona de disponibilidad 3 $12.1924
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 IV.- Zona de disponibilidad 4 $10.0589
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 V.- Zona de disponibilidad 5 $7.9248
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 VI.- Zona de disponibilidad 6 $7.1623
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 VII.- Zona de disponibilidad 7 $5.3909
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 VIII.- Zona de disponibilidad 8 $1.9153
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 IX.- Zona de disponibilidad 9 $1.4354
 
@@ -19403,19 +19471,19 @@ c).- Concesionada a colonias constituidas como personas morales que por concesi�
 
 Para los efectos del uso de agua potable, se considerará:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 Zona de disponibilidad 1 a 6 $362.32
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 Zona de disponibilidad 7 $168.72
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 Zona de disponibilidad 8 $84.26
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 Zona de disponibilidad 9 $41.94
 
@@ -19431,19 +19499,19 @@ Las tarifas a que se refiere esta fracción, serán aplicables a los sujetos que
 
 En aquellos casos en que el consumo no exceda de los volúmenes a que se refiere el párrafo anterior, se aplicarán las siguientes tarifas:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 Zona de disponibilidad 1 a 6 $362.32
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 Zona de disponibilidad 7 $168.72
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 Zona de disponibilidad 8 $84.26
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 Zona de disponibilidad 9 $41.94
 
@@ -19451,23 +19519,23 @@ Zona de disponibilidad 9 $41.94
 
 En aquellos casos en que el consumo sea superior a los volúmenes que se mencionan en el párrafo anterior, se aplicarán las siguientes tarifas sobre el volumen de consumo excedente:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 Zona de disponibilidad 1 a 6 $724.63
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 Zona de disponibilidad 7 $337.44
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 Zona de disponibilidad 8 $168.52
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 Zona de disponibilidad 9 $83.91
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II.- Generación Hidroeléctrica $3.8446
 
@@ -19475,19 +19543,19 @@ II.- Generación Hidroeléctrica $3.8446
 
 III.- Acuacultura:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 Zona de disponibilidad 1 a 6 $2.9863
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 Zona de disponibilidad 7 $1.4706
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 Zona de disponibilidad 8 $0.6915
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 Zona de disponibilidad 9 $0.3284
 
@@ -19495,19 +19563,19 @@ Zona de disponibilidad 9 $0.3284
 
 IV.- Balnearios y centros recreativos:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 Zona de disponibilidad 1 a 6 $10.4031
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 Zona de disponibilidad 7 $5.1252
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 Zona de disponibilidad 8 $2.4128
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 Zona de disponibilidad 9 $1.1473
 
@@ -19519,7 +19587,7 @@ Lo dispuesto en esta fracción no es aplicable a hoteles, centros recreativos de
 
 C. Por las aguas provenientes de fuentes superficiales o extraídas del subsuelo, a excepción de las del mar, destinadas a uso agropecuario, se pagará el derecho sobre agua por cada metro cúbico que exceda el volumen concesionado a cada distrito de riego o por cada metro cúbico que exceda el volumen concesionado a los usuarios agropecuarios restantes, conforme a las siguientes cuotas:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 Zona de disponibilidad 1 a 9 $0.1295
 
@@ -19609,7 +19677,7 @@ I.- El costo comprobado de los aparatos de medición y los gastos de su instalac
 
 A fin de hacer efectiva dicha disminución, los contribuyentes deberán presentar ante las oficinas de la Comisión Nacional del Agua, para su verificación y sellado, el original de la factura de compra del aparato de medición y de su instalación, que deberán cumplir con los requisitos fiscales a que se refiere el artículo 29-A del Código Fiscal de la Federación.
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II.- $2.1306
 
@@ -20185,7 +20253,7 @@ ajuste ajuste
 
 I.- El 7.5% anual del valor del inmueble concesionado o permisionado incluyendo terreno, áreas de agua ocupadas, obras e instalaciones, en su caso.
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 Cuando se trate de bienes
 
@@ -20219,7 +20287,7 @@ Para los efectos de las fracciones I, II y III que anteceden, el valor del inmue
 
 Cada cinco años como máximo deberá realizarse un nuevo avalúo, si el término de la concesión o permiso excede del periodo mencionado. Dicho avalúo únicamente deberá considerar el inmueble como originalmente se concesionó o permisionó, sin incluir las mejoras y adiciones que se hubieren efectuado durante la concesión o el permiso.
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 IV.- De $0.0357
 
@@ -20237,7 +20305,7 @@ comprendidos en los artículos
 
 113 y 114 de la Ley de Aguas Nacionales.
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 V.- De $2.2971
 
@@ -20265,7 +20333,7 @@ en los artículos 113 y 114 de la
 
 Ley de Aguas Nacionales.
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 VI.- De $2.3027
 
@@ -20277,7 +20345,7 @@ consista en la realización
 
 de actividades pesqueras.
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 VII.- De $0.0907
 
@@ -20293,25 +20361,25 @@ de actividades de acuacultura.
 
 VIII.- Por instalaciones de telecomunicación:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 a).- En espacios cerrados, por cada
 
 metro cuadrado o fracción,
 
-mensualmente $526.69 $527.00
+mensualmente $526.69 $527
 
 b).- En espacios abiertos, mensualmente:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-1.- Por cada antena instalada $253.38 $253.00
+1.- Por cada antena instalada $253.38 $253
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-2.- Por cada torre instalada $526.69 $527.00
+2.- Por cada torre instalada $526.69 $527
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 c).- Por el uso del derecho de vía de
 
@@ -20325,9 +20393,9 @@ de redes públicas de
 
 telecomunicaciones, anualmente,
 
-por cada kilómetro o fracción $381.76 $382.00
+por cada kilómetro o fracción $381.76 $382
 
-(ACTUALIZADO PRIMER PARRAFO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO PRIMER PARRAFO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 IX.- Por los espacios dentro de
 
@@ -20341,7 +20409,7 @@ expendedoras de bienes o servicios,
 
 se pagará por metro cuadrado o
 
-fracción, por cada mes $212.70 $213.00
+fracción, por cada mes $212.70 $213
 
 > <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -20351,7 +20419,7 @@ El derecho a que se refiere esta fracción, se efectuará anticipadamente median
 
 El derecho del ejercicio, deducidos los pagos provisionales semestrales, se pagará mediante declaración que se presentará en las oficinas autorizadas dentro de los dos meses siguientes al cierre del mismo ejercicio.
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 X.- Por el depósito de restos humanos
 
@@ -20359,33 +20427,33 @@ X.- Por el depósito de restos humanos
 
 en templos de propiedad federal o sus
 
-anexidades, por cada depósito $616.93 $617.00
+anexidades, por cada depósito $616.93 $617
 
 > <small>(ADICIONADA, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
 XI.- Por el uso o goce de postes, torres o ductos, o bienes similares, propiedad de organismos públicos descentralizados, para la instalación de cableado de redes de telecomunicaciones, anualmente:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 a). Por cada poste, torre o bienes
 
 similares que se use, por cada cable
 
-instalado: $55.20 $55.00
+instalado: $55.20 $55
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 b). Por cada ducto, por cada kilómetro
 
 o fracción de kilómetro que se use, por
 
-cada cable instalado: $607.20 $607.00
+cada cable instalado: $607.20 $607
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 c). Por cada registro que se use, por
 
-cada cable instalado: $38.64 $39.00
+cada cable instalado: $38.64 $39
 
 Para los efectos de esta fracción, se entiende por cable instalado a la unidad compuesta por cable de suspensión de acero, cable coaxial y/o fibra óptica y sus accesorios.
 
@@ -20441,7 +20509,7 @@ Los bienes a que se refiere este artículo en ningún caso serán objeto de los 
 
 Están obligadas a pagar el derecho por el uso, goce o aprovechamiento de inmuebles, las personas físicas y las morales que usen, gocen o aprovechen las playas, la zona federal marítimo terrestre, y los terrenos ganados al mar o a cualquier otro depósito de aguas marítimas. El monto del derecho a pagar se determinará con los siguientes valores y las zonas a que se refiere el artículo 232-D de esta Ley:
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 Zonas Usos
 
@@ -20567,7 +20635,7 @@ ZONA XI. Subzona A. Estado de Quintana Roo: Cozumel. Subzona B. Estado de Quinta
 
 1.- Están obligadas a pagar el derecho por extracción de materiales pétreos, las personas físicas y morales que los extraigan de las playas, la zona federal marítimo terrestre y los terrenos ganados al mar o de cualquier otro depósito de aguas marítimas, así como del lecho marino, conforme a la cuota que resulte por metro cúbico:
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 Material $ /M3
 
@@ -20611,7 +20679,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO PRIMER PARRAFO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO PRIMER PARRAFO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 232-D
 
@@ -20637,7 +20705,7 @@ pagarán por día, por cada vehículo,
 
 remolque o semirremolque,
 
-una cuota de: $194.45 $194.00
+una cuota de: $194.45 $194
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
@@ -20761,7 +20829,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I.- Zona 1 $/M3
 
@@ -20779,7 +20847,7 @@ Piedra $14.96
 
 Otros $6.24
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II.- Zona 2
 
@@ -20857,15 +20925,15 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I.- Anuncios publicitarios que tienen
 
 una superficie total hasta de 50 metros
 
-cuadrados $4,192.44 $4,192.00
+cuadrados $4,192.44 $4,192
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II.- Anuncios publicitarios que tienen
 
@@ -20873,11 +20941,11 @@ una superficie total de más de 50
 
 metros cuadrados y de hasta 75
 
-metros cuadrados $6,288.78 $6,289.00
+metros cuadrados $6,288.78 $6,289
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-III.- Señales informativas $6,288.02 $6,288.00
+III.- Señales informativas $6,288.02 $6,288
 
 > <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
@@ -20887,7 +20955,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO PRIMER PARRAFO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD PRIMER PARRAFO [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 237-A.
 
@@ -20949,31 +21017,31 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-I.- Borrego Cimarrón $368,837.77 $368,838.00
+I.- Borrego Cimarrón $368,837.77 $368,838
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II.- Venado Bura en Sonora
 
-o Cola Blanca texano $35,478.14 $35,478.00
+o Cola Blanca texano $35,478.14 $35,478
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-III.- Puma $13,660.64 $13,661.00
+III.- Puma $13,660.64 $13,661
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 IV.- Venado Bura Cola Blanca en
 
-el resto del país y Temazate $10,928.51 $10,929.00
+el resto del país y Temazate $10,928.51 $10,929
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-V.- Faisán de Collar $6,830.32 $6,830.00
+V.- Faisán de Collar $6,830.32 $6,830
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 VI.- Patos, palomas, codornices,
 
@@ -20981,33 +21049,33 @@ cercetas, gansos, perdiz, tinamú,
 
 branta negra del pacífico y otras
 
-aves, por lote $20,104.28 $20,104.00
+aves, por lote $20,104.28 $20,104
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 VII.- Guajolote Silvestre
 
-y Pavo Ocelado $4,098.18 $4,098.00
+y Pavo Ocelado $4,098.18 $4,098
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 VIII.- Zorra gris y otros
 
-pequeños mamíferos $4,098.18 $4,098.00
+pequeños mamíferos $4,098.18 $4,098
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-IX.- Gato Montés $2,732.12 $2,732.00
+IX.- Gato Montés $2,732.12 $2,732
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 X.- Jabalí (de collar, labios
 
-blancos, europeo) $2,732.12 $2,732.00
+blancos, europeo) $2,732.12 $2,732
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-XI.- Borrego Audat o Berberisco $683.02 $683.00
+XI.- Borrego Audat o Berberisco $683.02 $683
 
 XII.- (DEROGADA, D.O.F. 1 DE DICIEMBRE DE 2004)
 
@@ -21039,7 +21107,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I.- Águila arpía, real o dorada;
 
@@ -21055,9 +21123,9 @@ mexicano; manatí; oso gris; oso
 
 negro; pavón o gran cornudo, tapir
 
-y jaguar, por cada uno $146,536.22 $146,536.00
+y jaguar, por cada uno $146,536.22 $146,536
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II.- Aguila solitaria; caimán;
 
@@ -21081,9 +21149,9 @@ tortuga lora, verde o golfina;
 
 tucán pico de canoa y de collar
 
-y zopilote rey, por cada uno $97,690.70 $97,691.00
+y zopilote rey, por cada uno $97,690.70 $97,691
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 III.- Aguila calva o cabeza
 
@@ -21097,13 +21165,13 @@ tigrillo; tortuga de mapimí o
 
 del desierto y tucan verde, por
 
-cada uno $48,845.17 $48,845.00
+cada uno $48,845.17 $48,845
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 IV.- Oso hormiguero, pelícano
 
-café y oca salvaje por cada uno $24,422.45 $24,422.00
+café y oca salvaje por cada uno $24,422.45 $24,422
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -21135,11 +21203,11 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD [N. DE E. REFORMADA], D.O.F. 31 DE DICIEMBRE DE 2010)
 
-I. Por persona, por día: $25.00 $25.00
+I. Por persona, por día: $25.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD [N. DE E. REFORMADA], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II. Se podrá optar por pagar el derecho
 
@@ -21155,7 +21223,7 @@ propiedad de la Nación y en los centros
 
 para la conservación e investigación
 
-de la vida silvestre: $260.00 $260.00
+de la vida silvestre: $260.00
 
 > <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
@@ -21223,15 +21291,15 @@ ajuste ajuste
 
 I.- Para redes que cuenten con estaciones base o repetidoras:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-a).- Por cada estación base $6,904.05 $6,904.00
+a).- Por cada estación base $6,904.05 $6,904
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-b).- Por cada estación repetidora $10,356.14 $10,356.00
+b).- Por cada estación repetidora $10,356.14 $10,356
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II.- Para quienes únicamente cuenten
 
@@ -21241,11 +21309,11 @@ red, se pagará por todos los equipos
 
 móviles, portátiles o terminales de
 
-radiocomunicación privada de usuario $4,542.15 $4,542.00
+radiocomunicación privada de usuario $4,542.15 $4,542
 
 III.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1998)
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 IV.- Por cada frecuencia asignada a
 
@@ -21253,7 +21321,7 @@ nivel nacional, no importando la
 
 cantidad de estaciones bases,
 
-móviles o fijas $925,537.96 $925,538.00
+móviles o fijas $925,537.96 $925,538
 
 a).- Por frecuencia asignada a nivel
 
@@ -21261,9 +21329,9 @@ regional, se pagará por Entidad
 
 Federativa, sin importar la cantidad
 
-de estaciones bases, móviles o fijas $44,783.76 $44,784.00
+de estaciones bases, móviles o fijas $44,783.76 $44,784
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 V.- Por los sistemas de alta frecuencia H.F.,
 
@@ -21273,9 +21341,9 @@ frecuencia, tomando como mínimo dos
 
 horas diarias, por equipo terminal base
 
-o móvil $971.55 $972.00
+o móvil $971.55 $972
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 VI.- Por la autorización provisional
 
@@ -21283,7 +21351,7 @@ que no exceda de seis meses, se
 
 pagará diariamente por cada
 
-frecuencia $74.22 $74.00
+frecuencia $74.22 $74
 
 VII.- (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 2002)
 
@@ -21291,19 +21359,19 @@ VII.- (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 2002)
 
 VIII.- Para sistemas que utilicen el espectro radioeléctrico con fines de pruebas, con autorizaciones temporales con vigencia máxima de 2 años, se pagarán los derechos por el uso del espectro radioeléctrico en los términos siguientes:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 a).- En sistemas que operen en
 
-periodos de hasta seis meses $2,219.12 $2,219.00
+periodos de hasta seis meses $2,219.12 $2,219
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 b).- En sistemas que operen en
 
-periodos superiores a seis meses $4,438.30 $4,438.00
+periodos superiores a seis meses $4,438.30 $4,438
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 IX.- Para el servicio privado móvil
 
@@ -21315,7 +21383,7 @@ cada frecuencia sin importar el
 
 número de bases, móviles
 
-y repetidores $9,088.16 $9,088.00
+y repetidores $9,088.16 $9,088
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -21331,7 +21399,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I.- Por cada megahertz utilizado en
 
@@ -21339,9 +21407,9 @@ territorio nacional para prestar
 
 servicios de telecomunicaciones en
 
-la banda C: $73.45 $73.00
+la banda C: $73.45 $73
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II.- Por cada megahertz utilizado
 
@@ -21349,7 +21417,7 @@ en territorio nacional para prestar
 
 servicios de telecomunicaciones
 
-en la banda Ku: $112.37 $112.00
+en la banda Ku: $112.37 $112
 
 Cuando el concesionario utilice bandas de frecuencia del espectro radioeléctrico por fracciones de día, pagará la parte proporcional de las cuotas establecidas en la (sic) fracciones I y II anteriores, según corresponda.
 
@@ -21377,7 +21445,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I.- Por cada megahertz utilizado en
 
@@ -21385,9 +21453,9 @@ territorio nacional para prestar
 
 servicios de telecomunicaciones en
 
-la banda C: $73.45 $73.00
+la banda C: $73.45 $73
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II.- Por cada megahertz utilizado
 
@@ -21395,7 +21463,7 @@ en territorio nacional para prestar
 
 servicios de telecomunicaciones
 
-en la banda Ku: $112.37 $112.00
+en la banda Ku: $112.37 $112
 
 Cuando el concesionario utilice bandas de frecuencia del espectro radioeléctrico por fracciones de día, pagará la parte proporcional de las cuotas establecidas en las fracciones I y II anteriores, según corresponda.
 
@@ -21427,7 +21495,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I.- Por cada frecuencia que utilice
 
@@ -21439,9 +21507,9 @@ y de estaciones móviles remotas
 
 de estaciones de radiodifusión en
 
-A.M. y F.M. $5,295.32 $5,295.00
+A.M. y F.M. $5,295.32 $5,295
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD [N. DE E. REFORMADA], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II.- Por cada frecuencia que utilice
 
@@ -21453,9 +21521,9 @@ y de estaciones móviles remotas de
 
 estaciones de radiodifusión de
 
-televisión $10,591.00 $10,591.00
+televisión $10,591.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 III.- Por cada frecuencia que se utilice
 
@@ -21467,9 +21535,9 @@ servicios públicos de radio restringido
 
 con señal digitalizada o de sistemas
 
-de música continua $5,452.84 $5,453.00
+de música continua $5,452.84 $5,453
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 IV.- Por cada frecuencia que se
 
@@ -21481,7 +21549,7 @@ servicios públicos de televisión
 
 restringida, sistemas de televisión por
 
-cable o televisión de alta definición $10,905.78 $10,906.00
+cable o televisión de alta definición $10,905.78 $10,906
 
 > <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
@@ -21499,7 +21567,7 @@ Cuando se reutilicen las frecuencias a que se refieren las fracciones anteriores
 
 Por el uso, goce, aprovechamiento o explotación del espectro radioeléctrico, para prestar el servicio de televisión restringida de servicio fijo de distribución terrenal punto a multipunto, de señales codificadas de audio y video por microondas, se pagará por cada megahertz concesionado, la cuota que corresponda de conformidad con la tabla siguiente:
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 Entidad Federativa Cuota por cada
 
@@ -21609,7 +21677,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I.- Para el servicio de radiotelefonía
 
@@ -21617,9 +21685,9 @@ celular, por cada frecuencia asignada,
 
 concesionada o permisionada y por
 
-cada región $4,627.50 $4,628.00
+cada región $4,627.50 $4,628
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II.- Para el servicio de radiotelefonía
 
@@ -21627,9 +21695,9 @@ móvil convencional, por cada frecuencia
 
 asignada, concesionada o permisionada
 
-y por sistema $4,627.50 $4,628.00
+y por sistema $4,627.50 $4,628
 
-(ACTUALIZADO PRIMER PARRAFO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO PRIMER PARRAFO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 III.- Por los servicios de radiolocalización
 
@@ -21643,13 +21711,13 @@ pagarán derechos por frecuencia
 
 asignada, concesionada o permisionada,
 
-y por sistema $4,627.50 $4,628.00
+y por sistema $4,627.50 $4,628
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 Para los casos considerados en esta fracción se entenderá por sistema al área de cobertura del servicio concesionado, salvo para los casos de concesiones con cobertura nacional o regional en donde el sistema corresponde a cada entidad federativa involucrada dentro del área de concesión del servicio.
 
-(ACTUALIZADO PRIMER PARRAFO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO PRIMER PARRAFO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 IV.- En servicio móvil especializado
 
@@ -21659,13 +21727,13 @@ pagará el derecho por frecuencia
 
 asignada, concesionada o permisionada,
 
-y por sistema $501.04 $501.00
+y por sistema $501.04 $501
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 Para fines de aplicación del derecho establecido en esta fracción se entenderá por sistema al área de cobertura servida por cada repetidor, sitio o base. Asimismo, en los sistemas en los que se reutilicen las frecuencias asignadas se aplicará en forma adicional, el derecho por cada frecuencia reutilizada y por sistema.
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 V.- Por el servicio de radiocomunicación
 
@@ -21673,7 +21741,7 @@ móvil aeronáutica, por cada frecuencia
 
 asignada, concesionada o permisionada,
 
-y por estación base $566.76 $567.00
+y por estación base $566.76 $567
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
@@ -21695,7 +21763,7 @@ De 1850 MHz a 1910 MHz
 
 De 1930 MHz a 1990 MHz
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REFORMADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 Tabla B
 
@@ -21827,7 +21895,7 @@ De 929 MHz a 932 MHz
 
 De 940 MHz a 941 MHz
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 Tabla B
 
@@ -21965,7 +22033,7 @@ De 896 MHz a 901 MHz
 
 De 935 MHz a 940 MHz
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 Tabla B
 
@@ -22085,7 +22153,7 @@ De 1710 MHz a 1770 MHz
 
 De 2110 MHz a 2170 MHz
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 Tabla B
 
@@ -22213,7 +22281,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I.- Por cada estación terminal de
 
@@ -22223,7 +22291,7 @@ punto extremo del mismo o antena
 
 y por cada repetidor $4,628.66 $4,629.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II.- En cada canal de radiofrecuencia
 
@@ -22235,9 +22303,9 @@ canales telefónicos o de capacidad
 
 equivalente para cualquier otro tipo
 
-de señales de telecomunicaciones $4,628.66 $4,629.00
+de señales de telecomunicaciones $4,628.66 $4,629
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 III.- En cada canal de radiofrecuencia
 
@@ -22247,7 +22315,7 @@ canales telefónicos o de capacidad
 
 equivalente para cualquier otro tipo
 
-de señales de telecomunicaciones $4,628.66 $4,629.00
+de señales de telecomunicaciones $4,628.66 $4,629
 
 > <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
@@ -22271,15 +22339,15 @@ ajuste ajuste
 
 I.- Por telefonía rural comunal:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 a).- Por cada estación base
 
-o repetidor $944.69 $945.00
+o repetidor $944.69 $945
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-b).- Por estación terminal $354.13 $354.00
+b).- Por estación terminal $354.13 $354
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -22289,19 +22357,19 @@ Tratándose de los servicios de telefonía rural proporcionados por los gobierno
 
 II.- Para servicios de voz o datos en sistemas punto a punto o punto a multipunto:
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 a).- Por nodo, se pagará por cada
 
-frecuencia $4,847.11 $4,847.00
+frecuencia $4,847.11 $4,847
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 b).- Por cada estación fija, se pagará
 
-por cada frecuencia $2,423.20 $2,423.00
+por cada frecuencia $2,423.20 $2,423
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 c).- Por frecuencia asignada a nivel
 
@@ -22309,11 +22377,11 @@ regional se pagará por entidad
 
 federativa, sin importar la cantidad
 
-de estaciones o nodos $44,783.88 $44,784.00
+de estaciones o nodos $44,783.88 $44,784
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-d).- Por cada estación fija remota $2,423.20 $2,423.00
+d).- Por cada estación fija remota $2,423.20 $2,423
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -22325,13 +22393,13 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-I.- Por cada estación terminal $4,849.11 $4,849.00
+I.- Por cada estación terminal $4,849.11 $4,849
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-II.- Por cada canal telefónico $9,698.57 $9,699.00
+II.- Por cada canal telefónico $9,698.57 $9,699
 
 ###### ARTICULO 246.
 
@@ -23129,37 +23197,37 @@ ajuste ajuste
 
 Concesiones y asignaciones mineras Cuota por hectárea
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I. Durante el primer y segundo año
 
 de vigencia $5.08
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II. Durante el tercero y cuarto año
 
 de vigencia $7.60
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 III. Durante el quinto y sexto año
 
 de vigencia $15.72
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 IV. Durante el séptimo y octavo
 
 año de vigencia $31.62
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 V. Durante el noveno y décimo
 
 año de vigencia $63.22
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 VI. A partir del décimo primer
 
@@ -23749,7 +23817,7 @@ II. El resultado obtenido se multiplicará por el volumen trimestral de aguas re
 
 III. Para obtener el monto correspondiente por cada contaminante que rebase los límites máximos permisibles, conforme al tipo de cuerpo receptor de que se trate, se multiplicarán los kilogramos de contaminante por trimestre, por la cuota en pesos por kilogramo que corresponda, de acuerdo con la siguiente Tabla:
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 TABLA II
 
@@ -24053,9 +24121,9 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-Áreas tipo AAA $50.99 $51.00
+Áreas tipo AAA $50.99 $51
 
 $169.97 después
 
@@ -24063,13 +24131,13 @@ del horario
 
 normal
 
-Áreas tipo AA $48.87 $49.00
+Áreas tipo AA $48.87 $49
 
-Áreas tipo A $41.43 $41.00
+Áreas tipo A $41.43 $41
 
-Áreas tipo B $37.18 $37.00
+Áreas tipo B $37.18 $37
 
-Áreas tipo C $30.81 $31.00
+Áreas tipo C $30.81 $31
 
 > <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
@@ -24125,9 +24193,9 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO PRIMER PARRAFO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO PRIMER PARRAFO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-I.- $35.48 $35.00
+I.- $35.48 $35
 
 mensuales por cada metro cuadrado
 
@@ -24143,9 +24211,9 @@ comerciales y el espacio no exceda de
 
 El pago del derecho a que se refiere esta fracción, se efectuará mensualmente mediante declaración que se presentará en las oficinas autorizadas a más tardar el día 17 del mes siguiente al que corresponda el pago.
 
-(ACTUALIZADO PRIMER PARRAFO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO PRIMER PARRAFO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-II.- $21.29 $21.00
+II.- $21.29 $21
 
 por cada metro cuadrado o fracción
 
@@ -24165,9 +24233,9 @@ exteriores de cualquier tipo.
 
 El pago del derecho a que se refiere esta fracción, se efectuará previamente a la realización del evento.
 
-(ACTUALIZADO PRIMER PARRAFO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO PRIMER PARRAFO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-III.- $5,913.02 $5,913.00
+III.- $5,913.02 $5,913
 
 por evento cultural de hasta cuatro
 
@@ -24207,29 +24275,29 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-Recinto tipo 1: $38.64 $39.00
+Recinto tipo 1: $38.64 $39
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-Recinto tipo 2: $33.12 $33.00
+Recinto tipo 2: $33.12 $33
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-Recinto tipo 3: $27.60 $28.00
+Recinto tipo 3: $27.60 $28
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-Recinto tipo 4: $22.08 $22.00
+Recinto tipo 4: $22.08 $22
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-Recinto tipo 5: $16.56 $17.00
+Recinto tipo 5: $16.56 $17
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-Recinto tipo 6: $11.04 $11.00
+Recinto tipo 6: $11.04 $11
 
 Para los efectos de este artículo se consideran:
 
@@ -24271,17 +24339,17 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I. Museo Nacional de Culturas
 
-Populares $10.62 $11.00
+Populares $10.62 $11
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II. Museo Nacional de los Ferrocarriles
 
-Mexicanos $10.62 $11.00
+Mexicanos $10.62 $11
 
 El pago del derecho a que se refiere este precepto deberá hacerse previo al ingreso a los recintos correspondientes.
 
@@ -24297,9 +24365,9 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADO PRIMER PARRAFO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO PRIMER PARRAFO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-I. $34.14 $34.00
+I. $34.14 $34
 
 mensuales por cada metro cuadrado
 
@@ -24313,9 +24381,9 @@ comerciales y el espacio no exceda de
 
 El pago del derecho a que se refiere esta fracción se efectuará mensualmente mediante declaración que se presentará en las oficinas autorizadas a más tardar el día 17 del mes siguiente al que corresponda el pago.
 
-(ACTUALIZADO PRIMER PARRAFO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO PRIMER PARRAFO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-II. $33.99 $34.00
+II. $33.99 $34
 
 por cada metro cuadrado o fracción
 
@@ -24333,9 +24401,9 @@ previa celebración de un convenio.
 
 El pago del derecho a que se refiere esta fracción se efectuará mensualmente mediante declaración que se presentará en las oficinas autorizadas a más tardar el día 17 del mes siguiente al que corresponda el pago.
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-III. $20.48 $20.00
+III. $20.48 $20
 
 por cada metro cuadrado o fracción
 
@@ -24351,9 +24419,9 @@ de instalaciones realizado en
 
 espacios exteriores de cualquier tipo.
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO PRIMER PARRAFO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-IV. $5,689.68 $5,690.00
+IV. $5,689.68 $5,690
 
 por evento de hasta cuatro horas de
 
@@ -24364,6 +24432,8 @@ y desmontaje de equipos y accesorios,
 realizado en espacios cerrados, tales
 
 como salas y aulas.
+
+(ACTUALIZADO EN SU CANTIDAD [N. DE E. REPUBLICADO], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 Tratándose de eventos de hasta cuatro
 
@@ -24377,9 +24447,9 @@ vestíbulos, teatros experimentales y
 
 foros al aire libre, por cada uno $15,000.00
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-V. $26,557.50 $26,557.00
+V. $26,557.50 $26,557
 
 por evento de hasta cuatro horas de
 
@@ -24407,17 +24477,17 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I.- Por la reproducción fotográfica,
 
 dibujo o ilustración, a cualquier
 
-escala, por pieza $1,342.62 $1,343.00
+escala, por pieza $1,342.62 $1,343
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-II.- Por toma de molde, por pieza $3,580.65 $3,581.00
+II.- Por toma de molde, por pieza $3,580.65 $3,581
 
 > <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
@@ -24429,19 +24499,19 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I.- Reproducción fiel del monumento
 
 independientemente de la escala y
 
-materiales $1,477.07 $1,477.00
+materiales $1,477.07 $1,477
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA],D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II.- Reproducción basada en una
 
-versión libre del monumento $2,954.50 $2,955.00
+versión libre del monumento $2,954.50 $2,955
 
 Se exceptúa del pago de los derechos establecidos en este artículo a la producción artesanal, cuando el artesano cuente con el reconocimiento y registro otorgados por la autoridad competente.
 
@@ -24459,11 +24529,11 @@ ajuste ajuste
 
 A. Filmaciones o videograbaciones:
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-I.- Por día $7,685.67 $7,686.00
+I.- Por día $7,685.67 $7,686
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II.- Por cada 30 minutos o fracción de
 
@@ -24479,13 +24549,13 @@ derechos por el uso o reproducción
 
 señalados en el artículo 288-E
 
-de esta Ley $480.24 $480.00
+de esta Ley $480.24 $480
 
 III.- Las instituciones públicas dedicadas a la promoción, enseñanza o investigación de la cultura, la ciencia o el arte, pagarán el 40% del monto de los derechos citados en las fracciones I y II de este apartado.
 
 B. Tomas fotográficas:
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I.- Por día en zona arqueológica, museo,
 
@@ -24493,7 +24563,7 @@ o monumento del patrimonio nacional
 
 bajo custodia de los institutos
 
-competentes $3,842.79 $3,843.00
+competentes $3,842.79 $3,843
 
 II.- Las instituciones públicas dedicadas a la promoción, enseñanza o investigación de la cultura, la ciencia o el arte, pagarán el 60% del monto de los derechos citados en la fracción I de este apartado.
 
@@ -24511,21 +24581,21 @@ ajuste ajuste
 
 A. Filmaciones o videograbaciones:
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-I. Por día $7,395.37 $7,395.00
+I. Por día $7,395.37 $7,395
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II. Por día, cuando se trata de
 
-locaciones $47,803.50 $47,803.00
+locaciones $47,803.50 $47,803
 
 El cobro de este derecho es independiente a los que se causen por el uso o aprovechamiento de los inmuebles.
 
-(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-B. Tratándose de tomas fotográficas $3,697.64 $3,698.00 por día.
+B. Tratándose de tomas fotográficas $3,697.64 $3,698 por día.
 
 No pagarán los derechos establecidos en este artículo las instituciones públicas que realicen conjuntamente con el Consejo Nacional para la Cultura y las Artes, eventos culturales, educativos, cívicos o de asistencia social, así como las que realicen actividades de promoción, difusión y comercialización culturales, educativas, cívicas o de asistencia social, previa celebración de un convenio.
 
@@ -24539,7 +24609,7 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 I.- Instituciones públicas dedicadas
 
@@ -24547,15 +24617,15 @@ a la promoción, enseñanza o
 
 investigación de la cultura, la ciencia
 
-o el arte, por fotografía $236.13 $236.00
+o el arte, por fotografía $236.13 $236
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II.- Para instituciones o personas
 
 distintas de las señaladas en la fracción
 
-anterior, por fotografía $354.31 $354.00
+anterior, por fotografía $354.31 $354
 
 > <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
@@ -24571,17 +24641,17 @@ cuota sin cuota con
 
 ajuste ajuste
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
-I.- Impreso de 1 a 1000 ejemplares $147.47 $147.00
+I.- Impreso de 1 a 1000 ejemplares $147.47 $147
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
 
 II.- Impreso de 1001 ejemplares en
 
 adelante o publicado en soporte
 
-filmado, videograbado o digital $442.84 $443.00
+filmado, videograbado o digital $442.84 $443
 
 No pagarán los derechos establecidos en este artículo las autoridades competentes en la investigación, conservación, restauración y recuperación de los monumentos arqueológicos, artísticos e históricos y de las zonas de monumentos en términos de la Ley Federal de Monumentos y Zonas Arqueológicos, Artísticos e Históricos.
 
@@ -24605,7 +24675,7 @@ El derecho a que se refiere este artículo se calculará conforme a lo siguiente
 
 I.- Por el uso, goce o aprovechamiento del espacio aéreo mexicano que por el desplazamiento, de acuerdo a la envergadura de las aeronaves, realicen durante el vuelo en ruta, se pagará por cada kilómetro volado, conforme a la siguiente tabla:
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 Cuotas por kilómetro volado
 
@@ -24637,7 +24707,7 @@ Para el caso de que el contribuyente inicie operaciones o adquiera una nueva aer
 
 II.- Los contribuyentes podrán optar por pagar el derecho previsto en la fracción I de este artículo, para las aeronaves señaladas en la tabla contenida en la presente fracción, mediante una cuota única por cada vez que le sea suministrado el combustible a la aeronave de que se trate, conforme a la siguiente tabla:
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 Tipo de aeronaves Cuota
 
@@ -24655,7 +24725,7 @@ y hasta 16.7 metros $177.39
 
 III.- Tratándose de las siguientes aeronaves se podrá optar por pagar el derecho a que se refiere este artículo mediante una cuota única por cada vez que les sea suministrado combustible a la aeronave de que se trate, exceptuándose los sobrevuelos, conforme a la siguiente tabla:
 
-(ACTUALIZADA EN SU MONTO [N. DE E. REPUBLICADA], D.O.F. 15 DE JUNIO DE 2010)
+(ACTUALIZADA EN SU CANTIDAD [N. DE E. REPUBLICADA], D.O.F. 31 DE DICIEMBRE DE 2010)
 
 Aeronaves según envergadura Cuota
 
@@ -28882,3 +28952,7 @@ Tercero. Para los efectos de lo dispuesto por el artículo 258 Quintus de la Ley
 Cuarto. Se deroga el artículo séptimo transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de la Ley Federal de Derechos, en materia de hidrocarburos y se derogan y reforman diversas disposiciones del Decreto que reforma diversas disposiciones del Título Segundo, Capítulo XII, de la Ley Federal de Derechos, publicado el 21 de diciembre de 2005, dado a conocer en el Diario Oficial de la Federación el 1 de octubre de 2007.
 
 Quinto. El primer reporte anual de la Comisión Nacional de Hidrocarburos para cumplir con lo establecido en el artículo 254 Quater de la Ley Federal de Derechos, se entregará en el mes de marzo de 2012.
+
+D.O.F. 31 DE DICIEMBRE DE 2010.
+
+LA ACTUALIZACION POR MISCELANEA FISCAL CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE FEDERAL.
