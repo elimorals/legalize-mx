@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-de-la-administracion-publica-del-estado-de-5397"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1994-06-13"
-last_updated: "2010-12-13"
+last_updated: "2010-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5397&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 13 de junio de 1994.
 
@@ -305,9 +305,13 @@ XXIII.- Dar trámite a los nombramientos que expida el titular del Ejecutivo par
 
 XXIV.- (DEROGADA, P.O. 31 DE MARZO DE 2005)
 
-XXV.- (DEROGADA, P.O. 31 DE MARZO DE 2005)
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2010)</small>
 
-XXVI.- (DEROGADA, P.O. 31 DE MARZO DE 2005)
+XXV.- Formular, regular y conducir la política de comunicación social, para difundir la imagen del Estado y el quehacer de la gubernatura, así como el trabajo y objetivos de las Dependencias y Entidades de la Administración Pública Estatal, coordinando las relaciones con los medios masivos de información;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2010)</small>
+
+XXVI.- Orientar, autorizar, coordinar, supervisar y evaluar los programas de comunicación social de las Dependencias y Entidades de la Administración Pública Estatal;
 
 XXVII.- Promover la producción cinematográfica, de radio, televisión y la industria editorial; vigilar que las publicaciones impresas y las transmisiones de radio y televisión locales, así como la exhibición de las películas cinematográficas, se mantengan dentro de los límites de respeto a la vida privada, a la paz y moral pública, a la dignidad personal y no ataquen derechos de terceros ni provoquen la comisión de algún delito o perturben el orden público;
 
@@ -505,25 +509,31 @@ VIII.- Ejercer actos de dominio, inspección y vigilancia sobre el patrimonio de
 
 IX.- Administrar los servicios y los almacenes generales del Poder Ejecutivo, cuando no correspondan al ámbito de otra Dependencia o Entidad;
 
-> <small>(REFORMADA, P.O. 12 DE JULIO DE 2010)</small>
+X.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2010)
 
-X.- Coordinar con la Oficina de Modernización e Innovación Gubernamental, la determinación de las medidas necesarias para la adecuación de las estructuras orgánicas administrativas y funcionales, el sistema de profesionalización de los servidores públicos, así como los diferentes procesos de calidad y de mejora continua de la Administración Pública del Estado, conforme al modelo y normatividad que se establezca para tales efectos;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2010)</small>
 
-> <small>(REFORMADA, P.O. 12 DE JULIO DE 2010)</small>
-
-XI.- Normar, asesorar y supervisar, en coordinación con la Oficina de Modernización e Innovación Gubernamental y la Consejería Jurídica, la elaboración y/o actualización de los reglamentos interiores, estatutos orgánicos, manuales administrativos, de organización y de procedimientos de las Dependencias y Entidades Paraestatales del Poder Ejecutivo del Estado;
+XI.- Normar, asesorar y supervisar, en coordinación con las Unidades Administrativas correspondientes y la Consejería Jurídica, la elaboración y/o actualización de los Reglamentos Interiores, Estatutos orgánicos, manuales administrativos, de organización y de procedimientos de las Dependencias y Entidades Paraestatales del Poder Ejecutivo del Estado;
 
 > <small>(ADICIONADA, P.O. 12 DE JULIO DE 2010)</small>
 
 XII.- Dirigir, coordinar y regular la formulación, ejecución y difusión de las políticas, planes, programas, proyectos y acciones impulsadas por el sistema estatal de archivos, para regular y homogeneizar la administración documental de los archivos estatales, de conformidad a las Leyes aplicables en la materia;
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2010)</small>
+
+XIII.- Conformar y administrar el archivo general del Estado, estableciendo y vigilando el cumplimiento de las políticas y lineamientos para la organización, preservación, difusión, guarda y custodia de los acervos documentales;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2010)</small>
+
+XIV.- Regular, formular y ejecutar las políticas y lineamientos, así como programas en materia de acceso y difusión de la información pública gubernamental, corrección y protección de datos personales, implementando las medidas necesarias para una eficaz colaboración con el órgano garante en la materia, los Organismos Federales, Estatales, Municipales e Internacionales;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2010)</small>
+
+XV.- Coadyuvar con las Dependencias y Entidades de la Adminiastración Pública Estatal en las controversias o asuntos en materia de acceso a la información y protección de datos personales;
+
 > <small>(ADICIONADA, P.O. 12 DE JULIO DE 2010)</small>
 
-XIII.- Conformar y administrar el archivo general del Estado, estableciendo y vigilando el cumplimiento de las políticas y lineamientos para la organización, preservación, difusión, guarda y custodia de los acervos documentales; y
-
-> <small>(ADICIONADA, P.O. 12 DE JULIO DE 2010)</small>
-
-XIV.- Las demás que señalen las Leyes y Reglamentos vigentes en el Estado.
+XVI.- Las demás que señalen las Leyes y Reglamentos vigentes en el Estado.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE MAYO DE 1999)</small>
 
@@ -623,7 +633,9 @@ Para el cumplimiento de estos propósitos, se coordinarán, concertarán y ejecu
 
 VI.- Establecer los lineamientos que sirvan de base para elaboración de los programas sectoriales, metropolitanos, regionales y especiales;
 
-VII.- (DEROGADA, P.O. 2 DE MARZO DE 2009)
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2010)</small>
+
+VII.- Formular, evaluar y coordinar la ejecución y supervisar proyectos estratégicos para el Titular del Ejecutivo Estatal;
 
 > <small>(REFORMADA, P.O. 12 DE JULIO DE 2010)</small>
 
@@ -1199,17 +1211,17 @@ l.- Planear, programar, establecer, organizar y coordinar el sistema de control 
 
 II.- Expedir los criterios normativos que regulen el funcionamiento de los procedimientos de control de la Administración Pública Central y Paraestatal y requerir, de las Dependencias, la instrumentación de normas y procedimientos complementarios para el debido ejercicio de las facultades que aseguren el estricto control;
 
-> <small>(REFORMADA, P.O. 12 DE JULIO DE 2010)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2010)</small>
 
-III.- Vigilar el cumplimiento de las normas de control y fiscalización, así como del ejercicio del gasto público de la Administración Pública Estatal, en congruencia con el Código Fiscal y el Presupuesto de Egresos, promoviendo las acciones necesarias para asesorar y apoyar a los órganos de control interno de las dependencias y entidades de la Administración Pública del Poder Ejecutivo;
+III.- Vigilar el cumplimiento de las normas de control y fiscalización, así como del ejercicio del gasto público de la Administración Pública Estatal, en congruencia con el Código Fiscal y el Presupuesto de Egresos, promoviendo las acciones necesarias para asesorar y apoyar a los Órganos Internos de Control de Dependencias y Entidades de la Administración Pública del Poder Ejecutivo;
 
 > <small>(REFORMADA, P.O. 12 DE JULIO DE 2010)</small>
 
 IV.- Designar a los auditores externos de las entidades paraestatales, así como normar, controlar y evaluar su actividad de acuerdo a su desempeño y comportamiento profesional;
 
-> <small>(REFORMADA, P.O. 12 DE JULIO DE 2010)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2010)</small>
 
-V.- Determinar los criterios y evaluar el nivel de competencias y desempeño profesional que debe reunir el titular y el personal de los Órganos de Control Interno, para autorizar su nombramiento o solicitar su remoción, opinar sobre las bases para la creación, modificación o supresión de las estructuras orgánicas de los Órganos de Control Interno de las Dependencias y Entidades Paraestatales;
+V.- Determinar los criterios y evaluar el nivel de competencias y desempeño profesional que debe reunir el titular y el personal de los Órganos Internos de Control, para autorizar su nombramiento o solicitar su remoción, opinar sobre las bases para la creación, modificación o supresión de las estructuras orgánicas de los Órganos Internos de Control de las Dependencias y Entidades Paraestatales;
 
 > <small>(REFORMADA, P.O. 12 DE JULIO DE 2010)</small>
 
@@ -1217,7 +1229,9 @@ VI.- Coadyuvar e intervenir coordinadamente en la formulación y aprobación, en
 
 VII.- Vigilar y evaluar el cumplimiento, por parte de las dependencias y entidades de la administración pública, de las obligaciones derivadas de las disposiciones en materia de planeación, programación, presupuestación, ingresos, egresos, financiamiento, inversión, deuda, patrimonio, fondos y valores de la propiedad o al cuidado del Ejecutivo del Estado;
 
-VIII.- Inspeccionar y vigilar, directamente o a través de los órganos de control interno de las dependencias y entidades de la administración pública, que se cumpla con las normas y disposiciones en materia de sistemas de registro y contabilidad, contratación y pago de personal, registro de proveedores y contratistas, contratación de servicios, obra pública, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación y baja de bienes muebles o inmuebles, almacenes y demás activos y recursos materiales de la administración pública central y paraestatal;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2010)</small>
+
+VIII.- Inspeccionar y vigilar, directamente o a través de los Órganos Internos de Control de las dependencias y entidades de la administración pública, que se cumpla con las normas y disposiciones en materia de sistemas de registro y contabilidad, contratación y pago de personal, registro de proveedores y contratistas, contratación de servicios, obra pública, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación y baja de bienes muebles o inmuebles, almacenes y demás activos y recursos materiales de la Administración Pública Central y Paraestatal;
 
 > <small>(REFORMADA, P.O. 12 DE JULIO DE 2010)</small>
 
@@ -1239,9 +1253,9 @@ XII.- Verificar la correcta aplicación de los recursos federales y estatales qu
 
 XIII.- Recibir, registrar y resguardar las declaraciones patrimoniales de los servidores públicos de la Administración Pública Estatal, que legalmente estén obligados a presentarlas y practicar las investigaciones que fueren pertinentes, en el ámbito de su competencia, de acuerdo con las disposiciones aplicables vigentes;
 
-> <small>(REFORMADA, P.O. 12 DE JULIO DE 2010)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2010)</small>
 
-XIV.- Recibir y atender directamente, o a través de los órganos de control interno, las quejas o denuncias que presenten particulares en contra de los servidores públicos, por incumplimiento en sus obligaciones o con motivo de acuerdos o convenios que celebren con las dependencias y entidades de la Administración Pública Estatal, de acuerdo con las normas establecidas para tal efecto;
+XIV.- Recibir y atender directamente, o a través de los Órganos Internos de Control, las quejas o denuncias que presenten particulares en contra de los servidores públicos, por incumplimiento en sus obligaciones o con motivo de acuerdos o convenios que celebren con las Dependencias y Entidades de la Administración Pública Estatal, de acuerdo con las normas establecidas para tal efecto;
 
 XV.- Conocer e investigar los actos u omisiones de los servidores públicos que puedan constituir responsabilidades administrativas; aplicar las sanciones que correspondan en los términos que las leyes señalen y, en su caso, presentar las denuncias correspondientes ante el Ministerio Público, prestando para tal efecto la colaboración que le fuere requerida;
 
@@ -1253,6 +1267,10 @@ XVII.- Informar al Gobernador del Estado sobre el resultado de la evaluación a 
 
 XVIII.- Proporcionar apoyo y asesoría técnica a los Municipios del Estado que lo soliciten, respecto a la asignación, ejercicio, comprobación y evaluación del gasto;
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2010)</small>
+
+XVIII bis.- Coadyuvar en el asesoramiento y orientación a los Gobiernos Municipales a fin de construir y desarrollar los mecanismos, acciones y herramientas tecnológicas, electrónicas e impresas, a fin de fomentar la transparencia, rendición de cuentas y la participación ciudadana;
+
 > <small>(REFORMADA, P.O. 12 DE JULIO DE 2010)</small>
 
 XIX.- Designar y remover a los comisarios públicos propietarios y suplentes, que constituyan el órgano de vigilancia de las Entidades Paraestatales, así como normar y controlar su desempeño;
@@ -1261,9 +1279,9 @@ XIX.- Designar y remover a los comisarios públicos propietarios y suplentes, qu
 
 XX.- Designar, remover y coordinar a los Titulares de los órganos internos de control de las Secretarías y Entidades Paraestatales y de la Procuraduría General de Justicia, así como a los de las áreas de auditoría, quejas y responsabilidades de tales órganos, quienes dependerán jerárquica y funcionalmente de la Secretaría de Contraloría, y tendrán el carácter de autoridad y realizarán la defensa jurídica de las resoluciones que emitan en la esfera administrativa y ante los Tribunales, representando al Titular de dicha Secretaría;
 
-> <small>(REFORMADA, P.O. 12 DE JULIO DE 2010)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2010)</small>
 
-XXI.- Conocer y resolver las inconformidades que presenten los particulares en contra de servidores públicos, con motivo de la adquisición o arrendamiento de bienes muebles e inmuebles, prestación de servicios del sector público, obras públicas, concesionarios y servicios relacionados con las mismas;
+XXI.- Recibir y resolver las inconformidades que presenten los proveedores y contratistas del Gobierno del Estado que consideren que sus derechos fueron afectados;
 
 > <small>(ADICIONADA, P.O. 12 DE JULIO DE 2010)</small>
 
@@ -1535,15 +1553,23 @@ XXII.- Administrar y dar mantenimiento a la flota aérea del Poder Ejecutivo; y
 
 XXIII.- Todas las demás que le atribuyan la presente Ley y los ordenamientos jurídicos aplicables.
 
-> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2005)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2010)</small>
 
-ARTICULO 31 TER.- Las unidades de apoyo con que cuenta el Gobernador para el despacho de sus asuntos son las siguientes:
+ARTICULO 31 TER.- Las unidades de apoyo con que cuenta el Titular del Poder Ejecutivo Estatal para el despacho de sus asuntos son las siguientes:
+
+> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2005)</small>
 
 I.- La Secretaría Particular, para coadyuvar con el Gobernador en su relación cotidiana con los distintos sectores, instituciones y otros órdenes de Gobierno. Esta Secretaría será responsable, también, de coordinar las giras, audiencias, apoyos y ayudantías al Gobernador, así como de las relaciones públicas de la oficina del Titular del Ejecutivo Estatal;
 
-II.- La Coordinación de Asesores, como cuerpo técnico de apoyo al Gobernador para efectuar análisis, diagnósticos y estudios que le permitan al titular del Poder Ejecutivo Estatal, contar con información estratégica y recomendaciones de carácter técnico, así como para actuar como secretariado de las reuniones de secretarios y otros servidores públicos. Esta Coordinación llevará también las tareas de comunicación social, para difundir la imagen del Estado y el quehacer de la gubernatura, así como el trabajo y objetivos de sus distintas Dependencias y Entidades;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2010)</small>
+
+II.- La Coordinación de Asesores, como cuerpo técnico de apoyo al Gobernador para efectuar análisis, diagnósticos y estudios que le permitan al Titular del Poder Ejecutivo Estatal, contar con información estratégica y recomendaciones de carácter técnico, así como para actuar como secretariado de las reuniones de secretarios y otros servidores públicos;
+
+> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2005)</small>
 
 III.- La Representación del Poder Ejecutivo del Estado, en el Distrito Federal, para apoyar en sus relaciones institucionales con las Autoridades Administrativas establecidas en la Ciudad sede de los Poderes Federales. También para efectuar diversas gestiones ante las Autoridades Federales, del Distrito Federal o particulares, en auxilio a las Dependencias Federales y Estatales;
+
+> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2005)</small>
 
 IV.- La Consejería Jurídica como órgano asesor del Gobernador en materia jurídica, a efecto de vigorizar el esquema jurídico de la Administración Pública Estatal y para promover el enriquecimiento y congruencia técnica en la instrumentación de las disposiciones legales y competencias de cada sector, en apoyo del Poder Ejecutivo del Estado;
 
@@ -1551,7 +1577,9 @@ IV.- La Consejería Jurídica como órgano asesor del Gobernador en materia jur�
 
 V.- La Oficina de Modernización e Innovación Gubernamental, es la instancia responsable de organizar y coordinar el mejoramiento de los sistemas y estructuras administrativas de las Dependencias y Entidades que integran la Administración Pública Estatal, mediante la promoción de acciones de mejora regulatoria, racionalidad y simplificación administrativa, calidad de los servicios institucionales y mejoramiento de los sistemas de atención ciudadana; profesionalización de los servidores públicos, así como, el uso de las tecnologías de información y comunicaciones, que contribuyan a mejorar los sistemas de desempeño, productividad y aprovechamiento de recursos de la gestión gubernamental;
 
-VI.- La Oficina de Coordinación de Proyectos Estratégicos, como cuerpo específico de apoyo al Gobernador para formular, evaluar, coordinar la ejecución y supervisar proyectos de alto interés para el Ejecutivo Estatal.
+VI.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2010).
+
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2005)</small>
 
 Podrá el Gobernador del Estado asimismo, establecer oficinas de representación del Poder Ejecutivo del Estado fuera del Territorio del mismo, con las atribuciones y facultades que él mismo acuerde.
 
@@ -1836,3 +1864,13 @@ Artículo Quinto.- Los cambios de adscripción de personal, en ninguna forma afe
 Artículo Sexto.- Los asuntos en trámite que deban pasar de una dependencia u órgano de la Administración Pública del Estado, a otra, según lo que dispone esta ley, permanecerán en el Estado en que se encuentren hasta que la unidad que los venga desahogando se incorpore a su nueva adscripción, salvo que fueren de especial urgencia o de término improrrogable. En ambos casos se notificara a los interesados el cambio de radicación.
 
 Artículo Séptimo.- Por lo que hace a las reformas a la Ley de Salud para el Estado de Hidalgo, el reglamento a que hace referencia, el último párrafo del Artículo Tercero, deberá publicarse noventa días naturales posteriores a la entrada en vigor del presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2010.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+TERCERO.- El Titular del Ejecutivo Estatal contará con 60 días naturales para realizar los ajustes necesarios en la Administración Pública Estatal.
+
+CUARTO.- En cuanto se adecuan y publican los Reglamentos Interiores correspondientes, seguirán aplicándose en todo lo que no se opongan a este Decreto, las disposiciones legales vigentes.
