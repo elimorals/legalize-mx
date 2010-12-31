@@ -4,7 +4,7 @@ identifier: "GRO-reglamento-en-materia-de-acceso-a-la-informacion-publica-69630"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-07-10"
-last_updated: "2009-07-10"
+last_updated: "2010-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69630&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GRO"
 
 REGLAMENTO EN MATERIA DE ACCESO A LA INFORMACION PUBLICA DEL INSTITUTO ELECTORAL DEL ESTADO DE GUERRERO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL ACUERDO MEDIANTE EL CUAL SE ABROGA EL REGLAMENTO EN MATERIA DE ACCESO A LA INFORMACION PUBLICA DEL INSTITUTO ELECTORAL DEL ESTADO DE GUERRERO APROBADO POR ACUERDO 063/SE/18-06-2009, Y SE APRUEBA EL REGLAMENTO EN MATERIA DE ACCESO A LA INFORMACION PUBLICA, ASI COMO LOS LINEAMIENTOS GENERALES PARA LA CLASIFICACION Y DESCLASIFICACION DE LA INFORMACION DEL INSTITUTO ELECTORAL DEL ESTADO DE GUERRERO, PUBLICADO EN EL P.O. DE 31 DE DICIEMBRE DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Guerrero, el viernes 10 de julio de 2009.
 
@@ -814,3 +816,23 @@ El Instituto Electoral del Estado de Guerrero, deberá poner a disposición del 
 Las Unidades Administrativas contarán con treinta días a partir de la aprobación del presente Reglamento para elaborar los índices que se mencionan en el Título II, Capítulo V, y remitirlos a la Unidad.
 
 El presente reglamento fue aprobado mediante acuerdo número 063/SE/18-06-2009, del Pleno del Consejo General del Instituto Electoral del Estado de Guerrero, en la Séptima Sesión Extraordinaria, de fecha dieciocho de junio de dos mil nueve.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 31 DE DICIEMBRE DE 2010.
+
+SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.
+
+PRIMERO.- Se abroga el Reglamento en Materia de Acceso a la Información Pública del Instituto Electoral del Estado de Guerrero, aprobado por acuerdo número 063/SE/18-06-2009, emitido por el Consejo General del Instituto Electoral del Estado de Guerrero, en la Sesión Extraordinaria celebrada el día 18 de junio del año dos mil nueve.
+
+SEGUNDO.- Se aprueba el Reglamento de Transparencia y Acceso a la Información Pública del Instituto Electoral del Estado de Guerrero; derivado de la Ley número 374 de Transparencia y Acceso a la Información Pública del Estado de Guerrero, publicada en el Periódico Oficial del Estado de Guerrero, el 15 de junio de 2010, en los términos del documento que corre adjunto formando parte del mismo.
+
+TERCERO.- Se aprueban los Lineamientos Generales para la Clasificación y Desclasificación de la Información del Instituto Electoral del Estado de Guerrero del Instituto Electoral del Estado de Guerrero, documento que se anexa al presente formando parte del mismo.
+
+CUARTO.- El Reglamento de Transparencia y Acceso a la Información Pública del Instituto Electoral del Estado de Guerrero, así como los Lineamientos referidos en el punto tercero del presente acuerdo, entrarán en vigor al día siguiente de su aprobación por el Consejo General.
+
+QUINTO.- Publíquese en el Periódico Oficial del Gobierno del Estado el presente acuerdo, así como el Reglamento y los Lineamientos a que se hace mención en los puntos que anteceden en términos de Ley.
+
+SEXTO.- Comuníquese al H. Congreso del Estado respecto al cumplimiento a lo dispuesto por el artículo sexto transitorio de la Ley numero 374 de Transparencia y Acceso a la Información Pública del Estado de Guerrero.
+
+SÉPTIMO.- Se notifica este acuerdo a los representantes de las Coaliciones y Partido Político, acreditados ante este Instituto Electoral, en términos de lo dispuesto por el artículo 34 de la Ley del Sistema de Medios de Impugnación en Materia Electoral del Estado.
