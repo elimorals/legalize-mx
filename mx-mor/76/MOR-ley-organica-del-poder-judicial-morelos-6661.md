@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-del-poder-judicial-morelos-6661"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-04-12"
-last_updated: "2008-07-23"
+last_updated: "2010-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6661&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGANICA DEL PODER JUDICIAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE JULIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2010.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 12 de abril de 1995.
 
@@ -1663,65 +1663,27 @@ La Escuela Judicial tomará las medidas necesarias y vigilará que la revista te
 
 ###### ARTICULO 148.
 
-El Fondo Auxiliar para la Administración de Justicia, se integra con:
-
-a).- El monto de las cauciones otorgadas para garantizar la libertad provisional, que se hagan efectivas en los casos señalados por los artículos respectivos del Código de Procedimientos Penales;
-
-b).- El monto de las cauciones otorgadas para obtener los beneficios de la libertad preparatoria y la condena condicional, que se hagan efectivas en los casos previstos por las disposiciones correspondientes del Código Penal;
-
-c).- Las multas que por cualquier causa impongan el Tribunal Superior de Justicia y los Jueces;
-
-d).- Los intereses que se generen por las inversiones de los depósitos en dinero o valores que se efectúen ante los tribunales judiciales;
-
-e).- Los objetos e instrumentos materia del delito que sean de uso lícito en la forma y términos previstos por el Código Penal;
-
-f).- Los muebles y valores depositados por cualquier motivo ante los tribunales judiciales que no fueren retirados por el depositario o por quien tenga derecho a ello;
-
-g).- Los ingresos que generen el Boletín Judicial y el Instituto Técnico;
-
-h).- Los ingresos provenientes de contratos, convenios o concesiones celebrados por el Presidente con terceros, previa la aprobación del Consejo de la Judicatura Estatal, de servicios dentro de inmuebles del Poder Judicial;
-
-i).- Los ingresos derivados de la expedición de copias certificadas o autorizadas; y
-
-j).- Cualesquier otros ingresos que por cualquier título obtenga el Poder Judicial.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL FONDO AUXILIAR PARA LA ADMINISTRACION DE JUSTICIA DEL ESTADO DE MORELOS, P.O. 31 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 149.
 
-Para los efectos de los incisos d), e) y f) del artículo anterior, el Tribunal o cualquier órgano de éste que por cualquier motivo reciba un depósito de dinero o en valores, deberá remitirlo o integrarlo al fondo, con conocimiento de la presidencia del Consejo, conforme al trámite que señale el instructivo girado por el Consejo de la Judicatura Estatal.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL FONDO AUXILIAR PARA LA ADMINISTRACION DE JUSTICIA DEL ESTADO DE MORELOS, P.O. 31 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 150.
 
-Los bienes a que se refiere el artículo anterior serán reintegrados a los depositantes o beneficiarios, según proceda, mediante orden por escrito del titular del tribunal ante el que se haya otorgado el depósito.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL FONDO AUXILIAR PARA LA ADMINISTRACION DE JUSTICIA DEL ESTADO DE MORELOS, P.O. 31 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 151.
 
-Transcurridos los plazos legales sin reclamación de parte interesada, se declarará de oficio por el Consejo de la Judicatura Estatal, que los objetos y valores respectivos pasan a formar parte del fondo.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL FONDO AUXILIAR PARA LA ADMINISTRACION DE JUSTICIA DEL ESTADO DE MORELOS, P.O. 31 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 152.
 
-El Presidente del Consejo de la Judicatura Estatal tendrá a su cargo y bajo su responsabilidad el manejo y administración del fondo conforme a las bases siguientes:
-
-I.- Podrán invertirse las cantidades que integran el fondo en la adquisición de títulos de renta a plazo fijo, en representación del Poder Judicial del Estado de Morelos, que será el titular de los certificados y documentos que expidan las instituciones de crédito con motivo de las inversiones;
-
-II.- Dará informe detallado al Consejo de la Judicatura Estatal, en acatamiento a lo dispuesto en el artículo 119, fracción IX de esta ley, del resultado de los ingresos y movimientos de las inversiones, así como de las erogaciones efectuadas durante cada período de su gestión; y
-
-III.- Ordenará la práctica de las auditorías que considere necesarias, para verificar que el manejo del fondo se realiza adecuada y legalmente, informando de su resultado a los miembros del Consejo de la Judicatura y al Pleno del Tribunal Superior de Justicia.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL FONDO AUXILIAR PARA LA ADMINISTRACION DE JUSTICIA DEL ESTADO DE MORELOS, P.O. 31 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 153.
 
-El fondo se aplicará a los siguientes conceptos:
-
-I.- Adquisición de mobiliario y equipo; libros de consulta para la biblioteca; bienes inmuebles necesarios para el establecimiento de oficinas, no consideradas en el presupuesto, y acondicionamiento de éstos y de los ya existentes, cuyo gasto no esté considerado en el presupuesto;
-
-II.- Pago de rentas y demás servicios;
-
-III.- Capacitación, mejoramiento y especialización profesional de los servidores públicos del Poder Judicial;
-
-IV.- Otorgamiento de estímulos y recompensas económicas a la planta de servidores públicos del Poder Judicial, autorizados por el Consejo de la Judicatura Estatal;
-
-V.- Participación de Magistrados y Jueces en congresos o comisiones; y
-
-VI.- Lo demás que, a juicio del Consejo, se requiera para la mejor administración de justicia.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL FONDO AUXILIAR PARA LA ADMINISTRACION DE JUSTICIA DEL ESTADO DE MORELOS, P.O. 31 DE DICIEMBRE DE 2010)
 
 ### CAPITULO SEPTIMO. DE LA DIRECCION DE LA CONTRALORIA INTERNA
 
@@ -2310,3 +2272,21 @@ Artículo Tercero. Derogación Tácita de Preceptos Incompatibles. Quedan deroga
 Artículo Cuarto. Facultades extraordinarias. A partir de la vigencia de esta ley y hasta los tres años siguientes de la entrada en vigor en todo el Estado del Código de Procedimientos Penales que regula el sistema procesal penal acusatorio y adversarial, el Pleno Tribunal Superior de Justicia o el Consejo de la Judicatura, en su caso, podrán establecer las disposiciones generales para el traslado y designación de funcionarios, nombramiento provisional de jueces de garantía, integración de tribunales de juicio oral y salas, redistribución de competencias territoriales, asignación del juzgado de rezagos y creación de órganos que resulten pertinentes. Las decisiones que adopten en virtud de esta norma, deberán sustentarse siempre en un mejor servicio público y en la necesidad de instrumentar la aplicación del referido Código Procesal Penal.
 
 Artículo Quinto. Situación de jueces actuales. Por esta ocasión, quienes se desempeñan como jueces de cuantía menor y de primera instancia, mediante la capacitación correspondiente que disponga el Consejo de la Judicatura Estatal, desempeñarán el cargo de jueces en el sistema procesal penal acusatorio y adversarial.
+
+P.O. 31 DE DICIEMBRE DE 2010.
+
+Artículo Primero.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+Artículo Segundo.- Se derogan los artículos 148, 149, 150, 151, 152 y 153 del Capítulo Quinto de la Ley Orgánica del Poder Judicial del Estado de Morelos.
+
+Artículo Tercero.- El Pleno del Consejo de la Judicatura en un plazo de diez días hábiles, procederá a emitir la convocatoria para la elección del Secretario del Comité Técnico conforme a lo establecido en el artículo 20, fracción I, inciso d) de esta Ley.
+
+Artículo Cuarto.- El Tribunal Superior de Justicia y el Consejo de la Judicatura tendrán treinta días hábiles para integrar el comité Técnico de Administración del Fondo Auxiliar de Justicia, así como realizar los cambios administrativos y de control necesarios, en tanto se integra, el Fondo Auxiliar para la Administración de Justicia continuará rigiéndose por lo establecido en los artículos que con esta Ley se derogan.
+
+Artículo Quinto.- El Comité, en un plazo de sesenta días hábiles, contados a partir de la entrada en vigor de esta Ley, deberá elaborar y publicar su Reglamento interior en el que establecerá las funciones, atribuciones y objetivos del mismo, en estricto cumplimiento a lo establecido por esta Ley.
+
+Artículo Sexto.- El Comité Técnico de Administración del Fondo Auxiliar de Justicia tendrá la facultad de valorar la plantilla laboral vigente del Fondo, debiendo en su caso otorgar los alcances legales a los servidores públicos cuyos servicios no sean requeridos de acuerdo a la estructura del Comité.
+
+Los recursos económicos y bienes que actualmente tiene el fondo auxiliar del Tribunal Superior de Justicia, pasarán inmediatamente a la administración de los órganos que establece la presente Ley, debiendo regir en lo sucesivo lo que dispone esta norma jurídica; los casos no previstos o que requieran una interpretación, se resolverán mediante acuerdo que por unanimidad realicen los integrantes del Consejo de la Judicatura Estatal.
+
+Artículo Séptimo.- Se derogan todas las disposiciones que se opongan al presente ordenamiento.
