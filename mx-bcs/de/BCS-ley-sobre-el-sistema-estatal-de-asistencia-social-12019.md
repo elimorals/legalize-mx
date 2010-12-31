@@ -4,7 +4,7 @@ identifier: "BCS-ley-sobre-el-sistema-estatal-de-asistencia-social-12019"
 country: "mx"
 rank: "ley"
 publication_date: "1986-08-20"
-last_updated: "1998-03-31"
+last_updated: "2010-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12019&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE MARZO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el 20 de agosto de 1986.
 
@@ -217,7 +217,9 @@ V.- Coordinar las funciones relacionadas con la beneficiencia (sic) pública y l
 
 VI.- Fomentar, apoyar, coordinar y evaluar las actividades que lleven a cabo las Instituciones de Asistencia o asociaciones civiles y de todo tipo de entidades privadas cuyo objeto sea la prestación de servicios de asistencia social, sin perjuicio de las atribuciones que al efecto correspondan a otras Dependencias;
 
-VII.- Operar establecimientos de Asistencia social en beneficio de menores en estado de abandono, de ancianos desamparados y de minusválidos sin recursos;
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2010)</small>
+
+VII.- Operar establecimientos de Asistencia Social en beneficio de menores en estado de abandono, de ancianos desamparados y de minusválidos sin recursos, por lo que deberá contar en todos los Municipios del Estado con casas de resguardo para los menores expósitos, en estado de abandono, desamparo o maltratados; asimismo, se hará cargo de los menores que sin ser expósitos o abandonados se encuentren en situación extraordinaria, de modo que pueda comprometerse su educación, moralidad, seguridad, o salud.
 
 VIII.- Llevar a cabo acciones en materia de prevención de invalidez, minusvalía o incapacidad y de rehabilitación de inválidos, en Centros no hospitalarios, con sujeción a las disposiciones aplicables en materia de salud;
 
@@ -245,11 +247,31 @@ XVII.- Proponer a las autoridades correspondientes la adaptación del espacio ur
 
 XVIII.- Administrar, de acuerdo a las bases legales relativas, los apoyos y participaciones que el Gobierno Federal, destine exclusivamente al otorgamiento de desayunos escolares, apoyos alimentarios, asistencia social a población en pobreza extrema, auxilio a la población en desamparo, así como otros apoyos que refieren la asistencia social en general; y
 
-XIX.- Las demás que establezcan las disposiciones aplicables en la materia.
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2010)</small>
+
+XIX.- Promover a través de la Procuraduría de la Defensa del Menor y la Familia, en coordinación con el Ministerio Publico, dentro de los quince días de que tenga conocimiento del abandono, desamparo o maltrato de menores, la pérdida de la patria potestad de sus padres.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 31 DE DICIEMBRE DE 2010)</small>
+
+XX.- Dar vista a través de la Procuraduría de la Defensa del Menor y la Familia, al Ministerio Publico, a fin de que se inicien las investigaciones necesarias y la averiguación previa correspondiente, para determinar el origen, la edad aparente, y demás circunstancias relacionadas con el menor, para lo anterior se auxiliaran de constancia expedida por el médico legista y las personas e instituciones que estimen conveniente para ello, resultados que deberán rendirse ante la autoridad correspondiente en un plazo que no excederá de 120 días.
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2010)</small>
+
+XXI.- Proveer transitoriamente la guarda y custodia del menor expósito, quien quedará bajo la tutela del Sistema para el Desarrollo Integral de la Familia del Estado de Baja California Sur.
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2010)</small>
+
+XXII.- Presentar al menor ante el Oficial del Registro Civil, con los documentos que se hubieran encontrado y los resultados de las investigaciones, así como la averiguación previa, para realizar la inscripción o registro del mismo.
+
+Una vez transcurridos los 120 días establecidos para realizar las investigaciones necesarias y la averiguación previa correspondiente, y no habiendo encontrado quien pudiere ejercer la patria potestad del menor, a través de la Procuraduría de la Defensa del Menor y Familia o sus dependencias ubicadas en los diversos municipios del Estado presentar al menor ante el Oficial del Registro Civil con la finalidad de que se realice el registro del mismo.
+
+XXIII.- Las demás que establezcan las disposiciones aplicables en la materia.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 19.
 
-El Organismo contará con la Procuraduría para la Defensa del Menor y la Familia, como un órgano técnico especializado de protección jurídica a la integridad familiar, a los menores, a los ancianos y minusválidos sin recursos, la cual tendrá las facultades que su mismo acuerdo de creación le asigne dentro de los objetivos de este Sistema para el Desarrollo Integral de la Familia de Baja California Sur y las que le otorguen las demás Leyes del Estado.
+El Organismo contará con la Procuraduría para la Defensa del Menor y la Familia, como un Órgano Técnico especializado de protección jurídica a la integridad familiar, a los menores, a los ancianos y minusválidos sin recursos, la cual tendrá las facultades que su mismo acuerdo de creación le asigne dentro de los objetivos de este Sistema para el Desarrollo Integral de la Familia de Baja California Sur y las que le otorguen las demás Leyes del Estado, dependencia que tendrá la responsabilidad de cumplir con lo dispuesto en la fracción XIX, XX y XXII segundo párrafo del artículo 18 de esta ley, cuyo incumplimiento dará lugar a la destitución del Procurador sin responsabilidad para el organismo.
 
 ###### ARTICULO 20.
 
@@ -536,3 +558,9 @@ Las presentes adiciones entrarán en vigor al día siguiente de su publicación 
 ###### ARTICULO SEGUNDO.
 
 Quedan sin efecto todas aquellas disposiciones que se opongan al presente Decreto.
+
+B.O. 31 DE DICIEMBRE DE 2010.
+
+PRIMERO.- El presente decreto entrara en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+SEGUNDO.- Para los efectos de lo dispuesto en el artículo 18 fracción VII de la Ley Sobre el Sistema Estatal de Asistencia Social, a que se refiere este Decreto, el Sistema para el Desarrollo Integral de la Familia del Estado de Baja California Sur (DIF), deberá poner en operación a partir del día 01 de julio de 2011, en todos los Municipios del Estado las casas de resguardo para los menores expósitos, en estado de abandono, desamparo o maltratados.
