@@ -4,7 +4,7 @@ identifier: "BCS-codigo-de-procedimientos-civiles-para-el-estado-de-baja-11601"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-05-23"
-last_updated: "2010-06-10"
+last_updated: "2010-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11601&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE JUNIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 2010.
 
 Código publicado en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el viernes 23 de mayo de 1997.
 
@@ -803,6 +803,10 @@ II. Cuando se trate de personas cuyo domicilio se ignora, previo informe de la p
 
 En este caso y en el de la fracción anterior, los edictos se publicarán por tres veces, de tres en tres días, en el Boletín Judicial y en un periódico local de los de mayor circulación a criterio del juez, haciéndose saber que debe presentarse el citado dentro de un término que no será inferior a quince días ni excederá de sesenta días, y
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2010)</small>
+
+Tratándose de juicio de Pérdida de Patria Potestad el término para que el demandado comparezca a juicio no será menor de diez ni excederá de treinta días y
+
 III. Cuando se trate de inmatricular un inmueble en el Registro Público de la Propiedad, conforme al artículo 2957 del Código Civil, para citar a las personas que puedan considerarse perjudicadas. Los edictos se publicarán por tres veces consecutivas, de diez en diez días, en el Boletín Judicial y en dos periódicos de mayor circulación. Además se deberá fijar un anuncio de proporciones visibles en la parte externa del inmueble de que se trate en el que se informe a las personas que puedan considerarse perjudicadas, a los vecinos y al público en general, la existencia del procedimiento de inmatriculación judicial respecto a ese inmueble. El anuncio deberá contener el nombre del promovente y permanecer en el inmueble durante todo el trámite judicial.
 
 En la solicitud se mencionarán:
@@ -1106,6 +1110,10 @@ XI. Para decidir las diferencias conyugales y los juicios de nulidad del matrimo
 XII. En los juicios de divorcio, el tribunal del domicilio conyugal, y en caso de abandono de hogar, el del domicilio del cónyuge abandonado, y
 
 XIII. En los juicios de alimentos, el domicilio del actor o el del demandado a elección del primero.
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2010)</small>
+
+XIV.- En los procedimientos, tratándose de menores acogidos en una institución de asistencia social sea publica o privada, serán juzgados competentes aquellos en donde se haya establecido el domicilio del menor.
 
 ###### Artículo 157.
 
@@ -3961,6 +3969,10 @@ La retención o embargo practicados a consecuencia de declaración en rebeldía 
 
 En el caso en que el emplazamiento se hubiere hecho por edictos, la sentencia no se ejecutará sino pasados tres meses a partir de la última publicación en el Boletín Judicial o en el periódico del lugar, a no ser que el actor dé la fianza prevenida para el juicio ejecutivo.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2010)</small>
+
+En los casos de rebeldía tratándose de juicios de Patria Potestad, el término para la ejecución de la sentencia a que se refiere el párrafo anterior, será de treinta días y sin la posibilidad de exhibir la fianza a que se refiere el mismo.
+
 ### CAPITULO II. Procedimiento estando presente el rebelde
 
 ###### Artículo 628.
@@ -4329,7 +4341,9 @@ La revisión de las sentencias recaídas en los juicios sobre nulidad, rectifica
 
 Será admisible la apelación dentro de los tres meses que sigan al día de la notificación de la sentencia:
 
-I. Cuando se hubiere notificado el emplazamiento al demandado, por edictos, y el juicio se hubiere seguido en rebeldía;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2010)</small>
+
+I. Cuando se hubiere notificado el emplazamiento al demandado, por edictos, y el juicio se hubiere seguido en rebeldía; o en cualquier otro caso en que la sentencia se notifique en igual forma, salvo que se trate de juicios de Patria Potestad en los que el termino será de treinta días;
 
 II. Cuando no estuvieren representados legítimamente el actor o el demandado, o siendo incapaces, las diligencias se hubieren entendido con ellos;
 
@@ -5689,67 +5703,61 @@ Lo dispuesto en los artículos que preceden se aplicará al gravamen y enajenaci
 
 ###### Artículo 905.
 
-El que pretende adoptar, deberá acreditar los requisitos señalados por los artículos 414, 415 y 416 del Código Civil.
-
-En la promoción inicial deberá manifestar el nombre y edad del menor o incapacitado, y el nombre y domicilio de quienes ejerzan sobre él la patria potestad o la tutela, o de las personas o Institución Pública que lo haya acogido; debiendo acompañar un certificado médico de buena salud, así como un dictamen psicológico tanto de los adoptantes como del menor que se pretenda adoptar, expedido por Instituciones del sector salud. Las pruebas pertinentes se recibirán sin dilación en cualquier día y hora hábil, ordenándose previamente la práctica de un estudio socioeconómico en el domicilio de él o los adoptantes.
-
-La solicitud de adopción a que se refiere este artículo así como el consentimiento que otorguen en su caso quienes ejerzan la patria potestad, deberá ser suscrita en forma personal por los interesados debiendo el juez ordenar la ratificación de la misma, en su presencia, sin cuyo requisito no se le dará trámite. Tampoco se le deberá dar trámite a las solicitudes que vengan suscritas por el apoderado o representante legal del interesado. Los infractores de esta disposición serán destituidos de su cargo, sin responsabilidad para el Tribunal Superior de Justicia.
-
-Cuando el menor hubiere sido acogido por una institución pública, el adoptante, recabará constancia del tiempo de la exposición o abandono para los efectos del artículo 507 Fracción IV del Código Civil. Si hubieren transcurrido menos de seis meses de la exposición o abandono, se decretará el depósito del menor con el presunto adoptante, entre tanto se consuma dicho plazo. Si el menor no tuviere padres conocidos y no hubiere sido acogido por institución pública, se decretará el depósito con el presunto adoptante, por el término de seis meses para los mismos efectos.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2010)
 
 ###### Artículo 906.
 
-Rendidas las justificaciones que se exigen en el artículo anterior y obtenido el consentimiento de las personas que deban darlo conforme a los artículos 422 y 424 del Código Civil, el juez de lo familiar resolverá dentro del tercer día lo que proceda sobre la adopción.
-
-> <small>(F. DE E., B.O. 3O DE JUNIO DE 1998)</small>
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2010)
 
 ###### Artículo 907.
 
-Cuando el adoptante y el adoptado pidan que la adopción sea revocada, el juez los citará a una audiencia verbal para dentro de los tres días siguientes, en la que resolverá conforme a lo dispuesto en el artículo 432 del Código Civil.
-
-Si el adoptado fuere menor de edad, para resolver sobre la revocación se oirá previamente a las personas que prestaron su consentimiento conforme al artículo 422 del Código Civil, cuando fuere conocido su domicilio, en caso contrario se oirá al representante del Ministerio Público y al Consejo de Tutelas.
-
-Para acreditar cualquier hecho relativo a la conveniencia de la revocación, en los casos del artículo anterior, pueden rendirse toda clase de pruebas.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2010)
 
 ###### Artículo 908.
 
-La impugnación de la adopción y su revocación, en los casos de los artículos 433 y 434 del Código Civil, no pueden promoverse en diligencias de jurisdicción voluntaria.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2010)
 
 Adopción plena
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 909.
 
-Los que pretendan una adopción plena deberán acreditar los requisitos señalados en el artículo 440 del Código Civil, además en la solicitud de adopción deberán manifestar nombre y edad del menor o incapacitado, nombre o domicilio de quienes ejerzan sobre él la patria potestad o de las personas o institución pública que lo haya acogido; debiendo acompañar un certificado médico de buena salud así como un dictamen psicológico tanto de los adoptantes como del menor que se pretenda adoptar, expedidos por instituciones del sector salud.
+Los que pretendan una adopción deberán acreditar los requisitos señalados en el Artículo 440 del Código Civil, además en la solicitud de adopción deberán manifestar nombre y edad del menor o incapacitado, nombre o domicilio de quienes ejerzan sobre él la patria potestad o de las personas o institución pública que lo haya acogido; debiendo acompañar un certificado médico de buena salud así como un dictamen psicológico tanto de los adoptantes como del menor que se pretenda adoptar, expedidos por instituciones del sector salud.
 
-Las pruebas pertinentes se recibirán sin dilación en cualquier día y hora hábil, ordenándose previamente la práctica de un estudio socioeconómico en el domicilio de los adoptantes.
+El Juez de lo Familiar ante quien se presente una solicitud de adopción, deberá dictar acuerdo de radicación en un término no mayor de tres días.
 
-La solicitud de adopción a que se refiere este artículo así como el consentimiento que otorguen en su caso los que ejerzan la patria potestad, deberá ser suscrita en forma personal por los interesados, debiendo el juez ordenar la ratificación de la misma en su presencia sin cuyo requisito no se le dará trámite. Tampoco no se le deberá dar trámite a las solicitudes que vengan suscritas por apoderado o representante legal de los interesados.
+Las pruebas pertinentes se recibirán y desahogaran en una sola audiencia, la cual deberá celebrarse dentro de los diez días siguientes a que se haya dictado el auto de radicación, ordenándose previamente la práctica de un estudio socioeconómico en el domicilio de los adoptantes y demás diligencias necesarias para que la audiencia se celebre en la fecha señalada para ello, debiéndose dictar la sentencia correspondiente en un plazo no mayor de diez días contados a partir del día en que se haya celebrado la audiencia de recepción y desahogo de pruebas.
 
-Los infractores de esta disposición serán destituidos de su cargo sin responsabilidad para el Tribunal Superior de Justicia.
+La solicitud de adopción a que se refiere este artículo así como el consentimiento que otorguen en su caso los que ejerzan la patria potestad, deberá ser suscrita en forma personal por los interesados, debiendo el juez ordenar la ratificación de la misma en su presencia en la misma audiencia de desahogo de pruebas, sin cuyo requisito no se le dará trámite. Tampoco no se le deberá dar trámite a las solicitudes que vengan suscritas por apoderado o representante legal de los interesados.
+
+Los infractores de esta disposición incluyendo los términos para llevar a cabo las diligencias que se prevén en la misma, serán destituidos de su cargo sin responsabilidad para el Tribunal Superior de Justicia.
 
 Cuando el menor hubiere sido acogido en una institución pública, los adoptantes recabarán constancia del tiempo de la exposición o abandono para los efectos de la fracción III del artículo 441 del Código Civil. Si hubiere transcurrido menos de dos años de la exposición o abandono, se decretará el depósito del menor con los presuntos adoptantes, entre tanto se consuma dicho plazo, si el menor no tuviera padres conocidos y no hubiera sido acogido por institución pública, se procederá a la adopción.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 910.
 
-La adopción plena no puede ser revocada por los adoptantes.
+La adopción no puede ser revocada por los adoptantes.
 
 Adopción hecha por extranjeros
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 911.
 
-El extranjero que pretenda adoptar deberá cumplir con los requisitos establecidos en el artículo 447 del Código Civil, además de los requisitos exigidos en el artículo 905 de éste Código para la adopción simple.
+El extranjero que pretenda adoptar deberá cumplir con los requisitos establecidos en el artículo 447 del Código Civil.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 912.
 
-El juez debe solicitar al país de origen del adoptante, de la institución que certifique su capacidad jurídica para adoptar dentro del término señalado en el artículo 448 del Código Civil.
+El juez debe solicitar dentro de los tres días siguientes a la radicación del juicio, al país de origen del adoptante, que certifique su capacidad jurídica para adoptar dentro del término señalado en el artículo 448 del Código Civil, aplicándose en cuanto a este procedimiento las disposiciones contenidas en el artículo 909 de este Código.
 
 ###### Artículo 913.
 
-Los adoptantes extranjeros que pretendan la conversión de una adopción simple en adopción plena, una vez transcurridos dos años, deberá cumplir además, con los requisitos que establece el artículo 449 del Código Civil.
-
-A la promoción de solicitud correspondiente deberá acompañarse también copia certificada de la sentencia ejecutoriada mediante la cual se resolvió la autorización de la adopción simple.
-
-El juez citará a las partes interesadas a una sola audiencia con intervención del Ministerio Público y citará para sentencia que se dictará dentro del término de ley.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2010)
 
 ### CAPITULO UNICO
 
@@ -6278,3 +6286,9 @@ SEGUNDO.- Se derogan todas las disposiciones que contravengan el presente Decret
 B.O. 10 DE JUNIO DE 2010.
 
 Único.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 31 DE DICIEMBRE DE 2010.
+
+PRIMERO.- El presente decreto entrara en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+SEGUNDO.- Para los efectos de lo dispuesto en el artículo 18 fracción VII de la Ley Sobre el Sistema Estatal de Asistencia Social, a que se refiere este Decreto, el Sistema para el Desarrollo Integral de la Familia del Estado de Baja California Sur (DIF), deberá poner en operación a partir del día 01 de julio de 2011, en todos los Municipios del Estado las casas de resguardo para los menores expósitos, en estado de abandono, desamparo o maltratados.
