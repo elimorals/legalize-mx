@@ -4,7 +4,7 @@ identifier: "BCS-codigo-civil-para-el-estado-libre-y-soberano-de-baja-13563"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-07-19"
-last_updated: "2010-06-10"
+last_updated: "2010-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13563&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CODIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE JUNIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 2010.
 
 Código publicado en el Boletín Oficial del Estado de Baja California Sur, el viernes 19 de julio de 1996.
 
@@ -445,13 +445,17 @@ Todo persona que encontrare a un menor o en cuya casa o propiedad fuere expuesto
 
 La misma obligación tienen los directores o administradores de establecimientos de reclusión, hospitales, casas de maternidad o cualquier institución de protección social, respecto a los menores nacidos o expuestos en ellos.
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 79.
 
-En las actas que se levanten en estos casos, no se hará constar que el nacimiento ocurrió en una prisión o centro de internación, pero en el caso de expósitos, se anotará la edad aparente del menor, su sexo y señas particulares, así como el nombre y apellidos que se le impongan.
+En las actas que se levanten en estos casos, se expresaran detalladamente todas las circunstancias relativas a los menores expósitos, la edad aparente, su sexo, se asignara al menor un nombre y apellidos, que deberán de ser de uso común en la región donde haya sido encontrado, se asentara como fecha probable de nacimiento la determinada en la constancia expedida por el medico legista y se señalara como lugar de nacimiento, aquel donde el menor fue encontrado, así como, el nombre de la persona quien lo presenta y la institución que se encarga de el.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 80.
 
-Si con el expósito se hubieren encontrado documentos, alhajas u otros objetos que conduzcan a su reconocimiento, quedarán éstos bajo la custodia del Ministerio Público, quién entregará copia del acta de averiguación y formal recibo de lo encontrado, a la persona que haya dado el aviso y a la institución que se haga cargo del menor.
+El acta de registro de un menor expósito solo podrá anularse en el caso de que, con posterioridad a su expedición, se conozca la filiación del menor y que esta sea declarada por la autoridad judicial competente, antes de que el menor fuere dado en adopción.
 
 ###### Artículo 81.
 
@@ -525,19 +529,21 @@ La falta de registro de la adopción no quita a ésta sus efectos legales; pero 
 
 ###### Artículo 95.
 
-El acta de adopción simple contendrá: El nombre, apellidos, edad, sexo, domicilio, fecha, lugar de nacimiento y de registro del adoptado; así como la Clave Única de Registro de Población que originalmente le hubiere correspondido; el nombre, edad, domicilio, nacionalidad, estado civil, fecha y lugar de nacimiento del o de los adoptantes y los datos esenciales de la resolución judicial, fecha y tribunal que la dictó y fecha en que ésta causó ejecutoria.
+(DEROGADO, B.O. 31 DE DICIEMBRE DE 2010)
 
 ###### Artículo 96.
 
-Extendida el acta de la adopción, se anotará en la de nacimiento del adoptado, y se archivará la copia de las diligencias relativas, poniéndole el mismo número del acta de adopción.
+(DEROGADO, B.O. 31 DE DICIEMBRE DE 2010)
 
 ###### Artículo 97.
 
 El Juez o Tribunal que resuelva que una adopción simple queda sin efecto, remitirá dentro del término de ocho días copia certificada de su resolución al Oficial del Registro Civil, para que al margen cancele el acta de adopción y anote la de nacimiento del adoptado.
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 98.
 
-En los casos de adopción plena, el Oficial del Registro Civil expedirá a los adoptantes, un acta de nacimiento en la que consten los datos previstos en el artículo 66, sin hacer mención del carácter adoptivo del vínculo paterno-filial, mandando cancelar el acta de nacimiento original y que se guarde bajo secreto la resolución judicial, identificando este antecedente con el número del acta de nacimiento que se expida.
+En los casos de adopción, el Oficial del Registro Civil expedirá a los adoptantes, un acta de nacimiento en la que consten los datos previstos en el artículo 66, sin hacer mención del carácter adoptivo del vínculo paterno-filial, mandando cancelar el acta de nacimiento original y que se guarde bajo secreto la resolución judicial, identificando este antecedente con el número del acta de nacimiento que se expida.
 
 ### CAPÍTULO V. De las actas de matrimonio
 
@@ -2221,6 +2227,8 @@ En caso de que el reconocimiento se efectúe sucesivamente por los padres que no
 
 ### CAPÍTULO III. De la adopción plena
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 393.
 
 La filiación de los hijos nacidos dentro o fuera de matrimonio resulta, con relación a la madre, del sólo hecho del nacimiento.
@@ -2321,7 +2329,7 @@ La adopción es el estado jurídico mediante el cual se confiere al adoptado, la
 
 ###### Artículo 411.
 
-La adopción puede ser plena o simple. La adopción simple podrá convertirse en plena cuando llene los requisitos de ley.
+(DEROGADO, B.O. 31 DE DICIEMBRE DE 2010)
 
 ###### Artículo 412.
 
@@ -2335,9 +2343,11 @@ III.- Que el consentimiento de la madre, sea otorgado cuando menos diez días de
 
 IV.- Que el adoptante o los adoptados, según el caso, han recibido la debida asesoría y capacitación sobre los alcances psíquicos, afectivos y jurídicos que la adopción les implica.
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 413.
 
-Cualquiera que sea el tipo de adopción, el adoptante tendrá respecto de la persona y los bienes del menor o incapacitado, los mismos derechos y obligaciones que existen en el parentesco consanguíneo. Podrá darle nombre y sus apellidos al adoptado, pidiendo que se hagan las anotaciones correspondientes en el acta de adopción.
+El adoptante tendrá respecto de la persona y los bienes del menor o incapacitado, los mismos derechos y obligaciones que existen en el parentesco consanguíneo.
 
 ###### Artículo 414.
 
@@ -2419,99 +2429,99 @@ El Juez que apruebe la adopción, remitirá copia de las diligencias respectivas
 
 ###### Artículo 428.
 
-La adopción simple no crea ningún vínculo jurídico entre el adoptado y la familia del adoptante, ni entre éste y la familia de aquél, salvo los impedimentos para contraer matrimonio con el adoptante o con sus ascendientes y descendientes, durante y después de disuelta la adopción.
+(DEROGADO, B.O. 31 DE DICIEMBRE DE 2010)
 
 ###### Artículo 429.
 
-Los derechos y obligaciones que resultan del parentesco natural no se extinguen por la adopción simple, excepto la patria potestad, que será transferida al adoptante, salvo que esté casado con el progenitor del adoptado, ya que entonces se ejercerá por ambos cónyuges.
+(DEROGADO, B.O. 31 DE DICIEMBRE DE 2010)
 
 ###### Artículo 430.
 
-La adopción producirá sus efectos aunque sobrevengan hijos al adoptante.
+(DEROGADO, B.O. 31 DE DICIEMBRE DE 2010)
 
 ###### Artículo 431.
 
-La adopción simple termina:
-
-I.- Por mutuo consentimiento del adoptante y adoptado, cuando éste haya cumplido la mayoría de edad, o en su defecto de las personas que prestaron su consentimiento para la adopción;
-
-II.- Por impugnación del adoptado; y
-
-III.- Por revocación.
+(DEROGADO, B.O. 31 DE DICIEMBRE DE 2010)
 
 ###### Artículo 432.
 
-En el primer caso del artículo anterior, el Juez decretará la disolución de la adopción, si convencido de la espontaneidad con que se solicitó su terminación, encuentra que ésta es conveniente para los intereses morales y materiales del adoptado.
+(DEROGADO, B.O. 31 DE DICIEMBRE DE 2010)
 
 ###### Artículo 433.
 
-El menor o el incapacitado podrán impugnar su adopción, dentro del año siguiente a la mayor edad o a la fecha en que haya desaparecido la incapacidad, sin especificación de causa.
+(DEROGADO, B.O. 31 DE DICIEMBRE DE 2010)
 
 ###### Artículo 434.
 
-La adopción puede revocarse judicialmente:
-
-I.- Por ingratitud del adoptado; y
-
-II.- Cuando el adoptante incurra en alguna de las causas que hacen perder la patria potestad.
+(DEROGADO, B.O. 31 DE DICIEMBRE DE 2010)
 
 ###### Artículo 435.
 
-La revocación debe plantearse por el adoptante, en el primer caso, o de oficio por el Ministerio Público en representación del menor, pero siempre será oído el Sistema para el Desarrollo Integral de la Familia.
+(DEROGADO, B.O. 31 DE DICIEMBRE DE 2010)
 
 ###### Artículo 436.
 
-Para los efectos de la fracción I del artículo 434, se considera ingrato al adoptado con efectos retroactivos al acto imputado:
-
-I.- Cuando cometa un delito intencional contra la persona, la honra o los bienes del adoptante, de su cónyuge, de sus ascendientes o descendientes;
-
-II.- Cuando el adoptado formule denuncia o querella contra el adoptante por algún delito, aunque lo pruebe, a no ser que hubiere sido cometido contra el mismo adoptado, su cónyuge, concubina, de sus ascendientes o descendientes; y
-
-III.- Cuando el adoptado se rehuse injustificadamente a dar alimentos al adoptante que ha caído en pobreza.
+(DEROGADO, B.O. 31 DE DICIEMBRE DE 2010)
 
 ###### Artículo 437.
 
-La resolución judicial que deje sin efecto la adopción, restituye las cosas al estado que guardaban antes de constituirse el vínculo, en todo lo que no esté irreparablemente consumado y se comunicará al Oficial del Registro Civil del lugar de la adopción para que cancele el acta respectiva y se notificará a la familia de origen, cuando se conozca su domicilio.
+(DEROGADO, B.O. 31 DE DICIEMBRE DE 2010)
 
 ### CAPÍTULO II. De los efectos de la patria potestad respecto de los bienes de los hijos
 
 ###### Artículo 438.
 
-La adopción plena crea entre los adoptantes y el adoptado, los mismos derechos, obligaciones y parentesco que ligan a los padres con sus hijos biológicos, entrando los menores a formar parte de la familia consanguínea del adoptante para todos los efectos legales, al tiempo que extingue el parentesco con la familia de origen.
+La adopción crea entre los adoptantes y el adoptado, los mismos derechos, obligaciones y parentesco que ligan a los padres con sus hijos biológicos, entrando los menores a formar parte de la familia consanguínea del adoptante para todos los efectos legales, al tiempo que extingue el parentesco con la familia de origen.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 439.
 
-El adoptado en forma plena se desvincula totalmente de su familia consanguínea, por lo que no le serán exigibles las obligaciones derivadas de este tipo de parentesco, ni tendrá derecho alguno respecto de esos mismos parientes, excepto en lo relativo a los impedimentos de matrimonio y los de sucesión legítima en su beneficio.
+El adoptado se desvincula totalmente de su familia consanguínea, por lo que no le serán exigibles las obligaciones derivadas de este tipo de parentesco, ni tendrá derecho alguno respecto de esos mismos parientes, excepto en lo relativo a los impedimentos de matrimonio y los de sucesión legítima en su beneficio.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 440.
 
-Sólo podrán adoptar plenamente los dos cónyuges que vivan juntos y que además de cumplir con los requisitos establecidos en los artículos 414, 415 y 416, tengan más de cinco años de casados.
+Sólo podrán adoptar los dos cónyuges que vivan juntos y que además de cumplir con los requisitos establecidos en los artículos 414, 415 y 416, tengan más de cinco años de c (sic)
+
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 441.
 
-Sólo podrán ser adoptados en forma plena:
+Sólo podrán ser adoptados:
 
-I.- Los menores de cinco años, cuando sus padres declaren ante el Juez su voluntad de otorgar este tipo de adopción, después de ser informados de sus consecuencias;
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2010)</small>
+
+l.- Los menores, cuando sus padres declaren ante el Juez su voluntad de dar en adopción a sus hijos, después de ser informados de sus consecuencias;
 
 II.- Los menores huérfanos, abandonados o de padres desconocidos, cualquiera que sea su edad; y
 
-III.- Los menores cuyos padres hubiesen perdido la patria potestad por maltrato o abuso, siempre que no existan ascendientes que la ejerzan o cuando hubiesen confiado al menor a un establecimiento de beneficencia pública o privada, desentendiéndose injustificadamente de su atención por más de dos años.
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2010)</small>
+
+III.- Los menores cuyos padres hubiesen perdido la patria potestad por maltrato o abuso, siempre que no existan ascendientes que la ejerzan o cuando hubiesen confiado al menor a un establecimiento de beneficencia pública o privada, desentendiéndose injustificadamente de su atención por más de seis meses.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 442.
 
-La adopción plena no puede terminar por acuerdo entre las partes, pero puede demandarse la pérdida de la patria potestad por las mismas causales que en la filiación biológica, o pedirse su nulidad cuando los padres adoptivos hayan ocultado de mala fe que el menor no había sido abandonado, sino víctima de cualquier delito contra la libertad.
+La adopción no puede terminar por acuerdo entre las partes, pero puede demandarse la pérdida de la patria potestad por las mismas causales que en la filiación biológica, o pedirse su nulidad cuando los padres adoptivos hayan ocultado de mala fe que el menor no había sido abandonado, sino víctima de cualquier delito contra la libertad.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 443.
 
-Los casos en que procede la adopción plena deben ser constatados judicialmente y aún en los casos de abandono o exposición de infantes, tiene que seguirse previamente un juicio de pérdida de la patria potestad, antes de dar en adopción al menor.
+Los casos en que procede la adopción deben ser constatados judicialmente y aún en los casos de abandono o exposición de infantes, tiene que seguirse previamente un juicio de pérdida de la patria potestad, antes de dar en adopción al menor.
 
 ###### Artículo 444.
 
-Cuando el Tribunal tenga duda o no juzgue conveniente otorgar la adopción plena, concederá a los solicitantes la adopción simple y la posibilidad de convertirla en plena pasado el término de dos años, si durante ese plazo se han cumplido cabalmente los requisitos de protección, afecto y educación del adoptado, según informe del Sistema para el Desarrollo Integral de la Familia, y no ha sido impugnada hasta entonces la adopción.
+(DEROGADO, B.O. 31 DE DICIEMBRE DE 2010)
+
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 445.
 
-Cuando se otorgue la adopción plena, el Juez ordenará al Oficial del Registro Civil que expida una nueva acta de nacimiento al menor, en la que aparezcan sus padres adoptivos como progenitores, sin ninguna mención al carácter adoptivo de la filiación.
+Cuando se otorgue la adopción, el Juez ordenará al Oficial del Registro Civil que expida una nueva acta de nacimiento al menor, en la que aparezcan sus padres adoptivos como progenitores, sin ninguna mención al carácter adoptivo de la filiación.
 
 Los antecedentes serán guardados en el secreto del archivo y cancelada el acta de nacimiento original.
 
@@ -2531,7 +2541,7 @@ Esa misma institución se comprometerá a informar al Juez de la adopción, dos 
 
 ###### Artículo 449.
 
-La adopción de un menor en favor de extranjeros sólo se concederá en su forma simple, pero si dos años después de otorgada, él o los adoptantes solicitan expresamente la conversión a adopción plena, presentando un nuevo certificado de la misma institución que avale el cumplimiento de las obligaciones contraídas y la vinculación afectiva y cultural del menor, el Juez concederá la petición con audiencia del Ministerio Público y del adoptado si fuese mayor de doce años.
+(DEROGADO, B.O. 31 DE DICIEMBRE DE 2010)
 
 ## TÍTULO DÉCIMO PRIMERO. De los alimentos
 
@@ -2571,9 +2581,11 @@ A falta o por imposibilidad de los ascendientes o descendientes, la obligación 
 
 Los hermanos y demás parientes colaterales a que se refiere el artículo anterior, tienen obligación de dar alimentos a los menores mientras éstos llegan a la edad de dieciocho años. También deben alimentar a sus parientes dentro del grado mencionado, cuando fueren mentalmente incapaces, cualquiera que sea su edad.
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 458.
 
-El adoptante y el adoptado tienen el deber de darse alimentos, en los casos en que lo tienen el padre y los hijos biológicos, transmitiéndose esta obligación al adoptado y a la familia del adoptante, en los casos de adopción plena.
+El adoptante y el adoptado tienen el deber de darse alimentos, en los casos en que lo tienen el padre y los hijos biológicos, transmitiéndose esta obligación al adoptado y a la familia del adoptante.
 
 ###### Artículo 459.
 
@@ -2697,9 +2709,11 @@ A falta de padres, ejercerán la patria potestad sobre el hijo menor, los abuelo
 
 Mientras se plantea y decide la asignación de la patria potestad entre los abuelos paternos o maternos, ejercerán la representación de sus nietos, de manera provisional, a partir de la muerte de los padres o desde que se declare ejecutoriada la sentencia por la que éstos pierdan la patria potestad sobre sus hijos, los que tengan mayor afinidad con los nietos.
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 482.
 
-La patria potestad sobre el hijo adoptivo la ejercerán únicamente las personas que lo adopten, a menos que se trate de adopción plena, a la que se aplicará lo dispuesto en los dos artículos anteriores, por lo que toca a la patria potestad de los abuelos.
+La patria potestad sobre el hijo adoptivo la ejercerán únicamente las personas que lo adopten, aplicándose lo dispuesto en los dos artículos anteriores, por lo que toca a la patria potestad de los abuelos.
 
 ###### Artículo 483.
 
@@ -2849,11 +2863,39 @@ II.- En los casos de divorcio necesario que lleven aparejada esta sanción;
 
 III.- Cuando las costumbres depravadas de los padres, el abandono de sus deberes o actos de violencia intrafamiliar, pudieran comprometer la salud, la seguridad o la moralidad de los hijos, aun cuando esos hechos no constituyan delitos;
 
-IV.- Por la exposición o abandono que el padre o la madre hicieren de sus hijos, siempre que se prolongue por más de seis meses;
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2010)</small>
 
-V.- Por la entrega en adopción plena que hagan los padres biológicos; y
+IV.- Cuando el padre, madre, abuelo o abuela, en su caso:
 
-VI.- Por revocación o impugnación de la adopción simple.
+a).- Expongan sin causa justificada a su hijo o nieto menor de un año por más de un día;
+
+b).- Abandonen, o dejen de visitar a su hijo o nieto por más de tres meses, si éste quedó a cargo de una persona. Las visitas ocasionales o intermitentes, no interrumpen el término de referencia si no tienen el firme propósito de que el menor les sea reintegrado;
+
+c).- Abandonen, por más de un día a su hijo o nieto si el menor no hubiere quedado al cuidado de alguna persona y el abandono sea intencional;
+
+d).- Abandone, deje de asistir y convivir injustificadamente con el menor por más de treinta días naturales, cuando este se encuentra acogido en una institución de asistencia social sea pública o privada.
+
+Las visitas ocasionales o intermitentes, no interrumpen el término de treinta días si no tienen el firme propósito de que les sea reintegrado.
+
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2010)</small>
+
+V.- Por la entrega en adopción que hagan los padres biológicos;
+
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2010)</small>
+
+VI.- Por revocación o impugnación de la adopción simple y cuando por los hábitos de juego o de embriaguez, y el uso indebido y persistente de enervantes, estupefacientes o psicotrópicos o de cualquiera otra sustancia que altere la conducta y produzca dependencia, de quienes la ejerzan, se pueda comprometer la salud, la seguridad o constituyan un serio impedimento para el adecuado desarrollo integral del menor.
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2010)</small>
+
+VII.- Cuando quien la ejerza padezca alguna afección originada por enfermedad o deficiencia persistente de carácter físico, psicológico, psiquiátrico o sensorial; siempre que debido a ella afecte su conducta y pueda comprometer la salud, la seguridad o el adecuado desarrollo integral del menor.
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2010)</small>
+
+Acreditada la pérdida de la patria potestad respecto de un menor el juez en la misma sentencia deberá tomar las medidas preventivas respecto de los demás menores sobre los cuales se continúe ejerciendo la misma.
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2010)</small>
+
+La Procuraduría de la Defensa del Menor y la Familia en coordinación con el Ministerio Público, podrá promover ante el Juez de lo Familiar, la tramitación de los juicios relativos a la pérdida de la patria potestad.
 
 ###### Artículo 508.
 
@@ -2889,9 +2931,11 @@ En los casos en que el progenitor haya perdido la patria potestad, podrá solici
 
 En el procedimiento de restitución de la patria potestad, serán oídos el ascendiente que ejerza este derecho, el Ministerio Público y El Sistema para el Desarrollo Integral de la Familia, los que podrán oponerse fundadamente, al igual que el hijo cuando haya cumplido doce años, pero en forma separada e individual.
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 513.
 
-No procede la recuperación de la patria potestad, cuando el menor incapacitado haya sido dado en adopción plena, o cuando exista fundada duda sobre la rehabilitación del progenitor respecto de sus hijos.
+No procede la recuperación de la patria potestad, cuando el menor incapacitado haya sido dado en adopción, o cuando exista fundada duda sobre la rehabilitación del progenitor respecto de sus hijos.
 
 ###### Artículo 514.
 
@@ -3079,7 +3123,7 @@ II.- Cuando deba nombrarse tutor por causa de divorcio; y
 
 > <small>(ADICIONADA, B.O. 31 DE MARZO DE 2008)</small>
 
-III.- Cuando no hay tutor autdesignado.
+III.- Cuando no hay tutor autodesignado.
 
 ###### Artículo 548.
 
@@ -3131,11 +3175,31 @@ El tutor del incapacitado que tenga hijos menores bajo su patria potestad, será
 
 La ley coloca a los expósitos bajo la tutela de la persona que los hayan acogido, quien tendrá las obligaciones, facultades y restricciones establecidas para los demás tutores.
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 557 Bis.
+
+Para los efectos de este ordenamiento, se considera expósito a aquel menor cuyo origen se desconoce y se coloque en una situación de desamparo por quienes conforme a la ley estén obligados a protegerlo; y como abandonado al menor que conociendo su origen, los que ejercen la patria potestad o tutela, dejan de cumplir con sus deberes de protección y cuidado, sin importar la posibilidad de que alguna persona o institución se haga cargo del mismo.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 558.
 
-Los directores de los hospicios y demás casas de beneficencia donde se reciben expósitos, desempeñarán la tutela de éstos con arreglo a las leyes y a lo que prevengan los estatutos del establecimiento.
+La Procuraduría de la Defensa del Menor y la Familia, los directores de los hospicios, casa de cuna, albergues, estancias infantiles y demás centros de beneficencia donde se reciban expósitos y abandonados, desempeñarán la tutela de éstos, con arreglo a las leyes y a lo que prevengan los estatutos del establecimiento.
 
-En el caso del párrafo anterior, no es necesario el discernimiento del cargo.
+En estos casos, la tutela se ejercerá por ministerio de la ley y no será necesario el discernimiento del cargo.
+
+Si el menor que se encuentre en el caso previsto por este artículo, adquiere bienes, se le nombrará tutor dativo de acuerdo con lo dispuesto en este Código.
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 558 Bis.
+
+La Procuraduría de la Defensa del Menor y la Familia tendrá la facultad de nombrar un hogar sustituto de forma temporal al menor que se encuentre en Situación Extraordinaria, nombramiento que deberá ser autorizado por el Juez en materia Familiar para lo cual se tendrá que demostrar la idoneidad de la familia mediante los medios de prueba que estime convenientes.
+
+Un hogar sustituto es una modalidad de atención en la cual una familia seleccionada y capacitada según criterios técnicos de la Procuraduría de la Defensa del Menor y la Familia, acoge voluntariamente y de tiempo completo a un menor, como medida de colocación familiar, al encontrarse en situación de riesgo puesto por sus padres y abuelos biológicos, esto con la finalidad de que se le brinde un ambiente afectivo, atención integral que le garantice y restituya sus derechos.
+
+La permanencia de este niño, niña o joven en esta modalidad es de carácter temporal hasta en tanto, conforme a lo establecido en la legislación se defina su situación jurídica.
 
 ### CAPÍTULO X. Del desempeño de la tutela
 
@@ -3151,7 +3215,7 @@ II.- Cuando el tutor testamentario este impedido temporalmente de ejercer su car
 
 > <small>(REFORMADA, B.O. 31 DE MARZO DE 2008)</small>
 
-III.- Cuando no hay tutor autodesginado; y
+III.- Cuando no hay tutor autodesignado; y
 
 > <small>(ADICIONADA, B.O. 31 DE MARZO DE 2008)</small>
 
@@ -4511,7 +4575,7 @@ Son bienes vacantes los inmuebles que no tienen dueño cierto y conocido.
 
 ###### Artículo 794.
 
-El que tuviere noticia de la existencia de bienes vacantes en el Estado, y quisiere adquirir la parte que la ley da al descubridor, hará la denuncia de ellos ante le Ministerio Público del lugar de la ubicación de los bienes.
+El que tuviere noticia de la existencia de bienes vacantes en el Estado, y quisiere adquirir la parte que la ley da al descubridor, hará la denuncia de ellos ante le (sic) Ministerio Público del lugar de la ubicación de los bienes.
 
 ###### Artículo 795.
 
@@ -4641,7 +4705,7 @@ I.- A restituir los frutos percibidos; y
 
 II.- A responder de la pérdida o deterioro del bien sobrevenidos por su culpa o por caso fortuito o fuerza mayor, a no ser que pruebe que éstos se habrían causado aunque el bien hubiere estado poseído por su dueño. No responde de la pérdida sobrevenida natural e inevitablemente por el solo transcurso del tiempo.
 
-Tiene derecho a que le se (sic) reembolsen los gastos necesarios.
+Tiene derecho a que le se reembolsen los gastos necesarios.
 
 ###### Artículo 821.
 
@@ -7903,9 +7967,11 @@ Si sólo quedaren descendientes de ulterior grado, la herencia se dividirá por 
 
 Concurriendo hijos con ascendientes, éstos sólo tendrán derecho a alimentos, que en ningún caso pueden exceder de la porción de uno de los hijos.
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 1517.
 
-El adoptado hereda como un hijo, pero no hay derecho de sucesión entre el adoptado y los parientes del adoptante, salvo que se esté en el caso de la adopción plena.
+El adoptado hereda como un hijo, y tendrá derecho a la sucesión entre el adoptado y los parientes del adoptante.
 
 ###### Artículo 1518.
 
@@ -7937,9 +8003,11 @@ Si hubiere ascendientes por ambas líneas, se dividirá la herencia en dos parte
 
 Los miembros de cada línea dividirán entre sí por partes iguales la porción que les corresponda.
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 1525.
 
-Concurriendo los adoptantes con ascendientes del adoptado, la herencia de éste se dividirá por partes iguales entre los adoptantes y los ascendientes; salvo el caso de adopción plena en que la herencia corresponderá a los adoptantes.
+La herencia en el caso de sucesión de los adoptados corresponderá a los adoptantes.
 
 ###### Artículo 1526.
 
@@ -14921,7 +14989,7 @@ Se entenderá que se comete error material cuando se inscriban unas palabras por
 
 ###### Artículo 2935.
 
-Se entenderá que se comete error de concepto cuando al expresar en al inscripción alguno de los contenidos en el título se altere o varíe su sentido porque el registrador se hubiere formado un juicio equivocado del mismo, por una errónea calificación del contrato o acto en él consignado o por cualquier otra circunstancia.
+Se entenderá que se comete error de concepto cuando al expresar en al (sic) inscripción alguno de los contenidos en el título se altere o varíe su sentido porque el registrador se hubiere formado un juicio equivocado del mismo, por una errónea calificación del contrato o acto en él consignado o por cualquier otra circunstancia.
 
 ###### Artículo 2936.
 
@@ -15394,3 +15462,9 @@ DECRETO 1845, POR EL QUE SE REFORMA Y SE ADICIONA EL ARTICULO 100 DEL CODIGO CIV
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día primero de enero del año 2011, previa publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 31 DE DICIEMBRE DE 2010.
+
+PRIMERO.- El presente decreto entrara en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+SEGUNDO.- Para los efectos de lo dispuesto en el artículo 18 fracción VII de la Ley Sobre el Sistema Estatal de Asistencia Social, a que se refiere este Decreto, el Sistema para el Desarrollo Integral de la Familia del Estado de Baja California Sur (DIF), deberá poner en operación a partir del día 01 de julio de 2011, en todos los Municipios del Estado las casas de resguardo para los menores expósitos, en estado de abandono, desamparo o maltratados.
