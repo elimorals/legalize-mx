@@ -4,7 +4,7 @@ identifier: "CFF"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-12-31"
-last_updated: "2010-04-27"
+last_updated: "2010-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=445&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ CÓDIGO FISCAL DE LA FEDERACIÓN
 
 ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE ABRIL DE 2010.
 
-ÚLTIMA ACTUALIZACIÓN POR MISCELÁNEA FISCAL: 28 DE DICIEMBRE DE 2009.
+ÚLTIMA ACTUALIZACIÓN POR MISCELÁNEA FISCAL: 31 DE DICIEMBRE DE 2010.
 
 Código publicado en el Diario Oficial de la Federación, el jueves 31 de diciembre de 1981.
 
@@ -1140,11 +1140,13 @@ III. Cuando los contribuyentes soliciten que el certificado especial sea expedid
 
 IV. Se trate de contribuyentes que dictaminen u opten por dictaminarse para efectos fiscales de conformidad con el artículo 32-A de este Código.
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA TERCERA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2010, D.O.F. DEL 31 DE DICIEMBRE DE 2010.</small>
+
 > <small>(REFORMADO, D.O.F. 1 DE OCTUBRE DE 2007)</small>
 
 ###### Artículo 22-C.
 
-Los contribuyentes que tengan cantidades a su favor cuyo monto sea igual o superior a $10,000.00, deberán presentar su solicitud de devolución en formato electrónico con firma electrónica avanzada.
+Los contribuyentes que tengan cantidades a su favor cuyo monto sea igual o superior a $11,510.00, deberán presentar su solicitud de devolución en formato electrónico con firma electrónica avanzada.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE JUNIO DE 2006)</small>
 
@@ -1433,6 +1435,8 @@ VII. Cumplir con las especificaciones que en materia de informática, determine 
 Los contribuyentes que deduzcan o acrediten fiscalmente con base en los comprobantes fiscales digitales, incluso cuando dichos comprobantes consten en documento impreso, para comprobar su autenticidad, deberán consultar en la página de Internet del Servicio de Administración Tributaria si el número de folio que ampara el comprobante fiscal digital fue autorizado al emisor y si el certificado que ampare el sello digital se encuentra registrado en dicho órgano desconcentrado y no ha sido cancelado.
 
 Los contribuyentes que mediante reglas de carácter general determine el Servicio de Administración Tributaria podrán emitir sus comprobantes fiscales digitales por medios propios o a través de proveedores de servicios, cumpliendo con los requisitos que al efecto establezca ese órgano desconcentrado.
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA TERCERA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2010, D.O.F. DEL 31 DE DICIEMBRE DE 2010.</small>
 
 Tratándose de operaciones cuyo monto no exceda de $2,000.00, los contribuyentes podrán emitir sus comprobantes fiscales en forma impresa por medios propios o a través de terceros, siempre y cuando reúnan los requisitos que se precisan en el artículo 29-A de este Código, con excepción del previsto en las fracciones II y IX del citado precepto.
 
@@ -2962,9 +2966,11 @@ III. Que los depósitos en la cuenta bancaria del contribuyente que no correspon
 
 Para los efectos de esta fracción, se considera que el contribuyente no registró en su contabilidad los depósitos en su cuenta bancaria cuando, estando obligado a llevarla, no la presente a la autoridad cuando ésta ejerza sus facultades de comprobación.
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA TERCERA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2010, D.O.F. DEL 31 DE DICIEMBRE DE 2010.</small>
+
 > <small>(ADICIONADO, D.O.F. 1 DE OCTUBRE DE 2007)</small>
 
-También se presumirá que los depósitos que se efectúen en un ejercicio fiscal, cuya suma sea superior a $1´000,000.00 en las cuentas bancarias de una persona que no está inscrita en el Registro Federal de Contribuyentes o que no está obligada a llevar contabilidad, son ingresos y valor de actos o actividades por los que se deben pagar contribuciones.
+También se presumirá que los depósitos que se efectúen en un ejercicio fiscal, cuya suma sea superior a $1,151,000.00 en las cuentas bancarias de una persona que no está inscrita en el Registro Federal de Contribuyentes o que no está obligada a llevar contabilidad, son ingresos y valor de actos o actividades por los que se deben pagar contribuciones.
 
 > <small>(ADICIONADO, D.O.F. 1 DE OCTUBRE DE 2007)</small>
 
@@ -3832,6 +3838,8 @@ IX. De $7,340.00 a $24,480.00 para la establecida en la fracción IX.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO DECIMO DE LAS DISPOSICIONES TRANSITORIAS DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
+CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA TERCERA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2010, D.O.F. DEL 31 DE DICIEMBRE DE 2010.
+
 > <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
 X. De $8,000.00 a $15,000.00, para la establecida en la fracción X.
@@ -3960,11 +3968,15 @@ XXXI. De $111,490.00 a $158,730.00, a la establecida en la fracción XXXI.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO DECIMO DE LAS DISPOSICIONES TRANSITORIAS DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
+CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA TERCERA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2010, D.O.F. DEL 31 DE DICIEMBRE DE 2010.
+
 > <small>(ADICIONADA, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
 XXXII. De $8,000.00 a $15,000.00, para la establecida en la fracción XXXII.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO DECIMO DE LAS DISPOSICIONES TRANSITORIAS DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA TERCERA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2010, D.O.F. DEL 31 DE DICIEMBRE DE 2010.
 
 > <small>(ADICIONADA, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
@@ -3977,6 +3989,8 @@ XXXIII. De $8,000.00 a $15,000.00, para la establecida en la fracción XXXIII.
 XXXIV. De $15,000.00 a $25,000.00 por cada solicitud no atendida, para la señalada en la fracción XXXIV.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO DECIMO DE LAS DISPOSICIONES TRANSITORIAS DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA TERCERA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2010, D.O.F. DEL 31 DE DICIEMBRE DE 2010.
 
 > <small>(ADICIONADA, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
@@ -4244,7 +4258,9 @@ VIII. De $225,000.00 a $250,000.00, a las establecidas en la fracción VIII.
 
 IX. De $225,000.00 a $250,000.00, a las establecidas en la fracción IX.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO DECIMO DE LAS DISPOSICIONES TRANSITORIAS DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO DÉCIMO DE LAS DISPOSICIONES TRANSITORIAS DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA TERCERA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2010, D.O.F. DEL 31 DE DICIEMBRE DE 2010.
 
 > <small>(ADICIONADA, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
@@ -4302,7 +4318,9 @@ A la casa de bolsa que cometa la infracción a que se refiere el artículo 84-G 
 
 Se considera infracción en la que pueden incurrir las personas morales autorizadas para emitir tarjetas de crédito, de débito o de servicio o monederos electrónicos, en relación con las obligaciones a que se refiere el artículo 32-E de este Código, el no expedir los estados de cuenta cumpliendo con lo previsto en el artículo 29-C de este Código y en las reglas de carácter general que para tal efecto emita el Servicio de Administración Tributaria.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO DECIMO DE LAS DISPOSICIONES TRANSITORIAS DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO DÉCIMO DE LAS DISPOSICIONES TRANSITORIAS DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA TERCERA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2010, D.O.F. DEL 31 DE DICIEMBRE DE 2010.
 
 > <small>(ADICIONADO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
@@ -4318,7 +4336,9 @@ A las personas morales que cometan la infracción a que se refiere el artículo 
 
 Se considera infracción en la que pueden incurrir las personas morales a que se refiere el artículo 84-I de este Código, el no proporcionar al Servicio de Administración Tributaria la información contenida en los estados de cuenta, a que se refiere el artículo 32-E de este Código.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO DECIMO DE LAS DISPOSICIONES TRANSITORIAS DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO DÉCIMO DE LAS DISPOSICIONES TRANSITORIAS DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA TERCERA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2010, D.O.F. DEL 31 DE DICIEMBRE DE 2010.
 
 > <small>(ADICIONADO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
@@ -8433,3 +8453,11 @@ D.O.F. 27 DE ABRIL DE 2010.
 > <small>N. DE E. LA MODIFICACION A QUE HACE REFERENCIA EL DECRETO PUBLICADO EN LA FECHA ARRIBA SEÑALADA, NO AFECTA AL TEXTO DEL PRESENTE ORDENAMIENTO.</small>
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 31 DE DICIEMBRE DE 2010.
+
+DEBIDO A SU IMPORTANCIA, A CONTINUACION SE TRANSCRIBEN LAS FRACCIONES I Y II DEL INCISO A DEL ANEXO 5 DE LA RESOLUCION MISCELANEA FISCAL PARA 2010.
+
+I. Conforme a la fracción III de la regla I.2.1.7., se dan a conocer las cantidades actualizadas establecidas en el artículo que se precisa en dicha regla, que entrarán en vigor a partir del 1 de enero de 2011.
+
+II. Conforme a la fracción III de la regla I.2.1.7., se dan a conocer las cantidades que entrarán en vigor a partir del 1 de enero de 2011, establecidas en los artículos que se precisan en dicha fracción.
