@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-9-organica-del-municipio-libre-veracruz-21400"
 country: "mx"
 rank: "ley"
 publication_date: "2001-01-05"
-last_updated: "2010-11-03"
+last_updated: "2010-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGANICA DEL MUNICIPIO LIBRE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 3 DE NOVIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 31 DE DICIEMBRE 2010.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 5 de enero de 2001.
 
@@ -1373,13 +1373,11 @@ Con base en lo dispuesto en esta ley, el Ayuntamiento podrá aprobar disposicion
 
 #### SECCIÓN PRIMERA. DE LA SECRETARÍA DEL AYUNTAMIENTO
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 15 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 69.
 
-Cada Ayuntamiento contará con una Secretaría cuyo titular será nombrado conforme a las disposiciones de esta ley. El Secretario del Ayuntamiento deberá contar con título profesional, y tendrá a su cargo y bajo su inmediata dirección, cuidado y responsabilidad la oficina y archivo del Ayuntamiento, con acuerdo del Presidente Municipal.
+Cada Ayuntamiento contará con una Secretaría, cuyo titular será nombrado conforme a las disposiciones de esta ley. El Secretario del Ayuntamiento deberá contar preferentemente con título profesional, y tendrá a su cargo y bajo su inmediata dirección, cuidado y responsabilidad, la oficina y archivo del Ayuntamiento, con el acuerdo del Presidente Municipal.
 
 La Secretaría del Ayuntamiento se ubicará en el Palacio Municipal, donde se guardará el archivo del Municipio, con la reserva y confidencialidad que establezcan las disposiciones legales y reglamentarias aplicables.
 
@@ -1415,13 +1413,11 @@ El Secretario, en sus faltas temporales, será sustituido por el servidor públi
 
 #### SECCIÓN SEGUNDA. DE LA TESORERÍA MUNICIPAL
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 15 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE DICIEMBRE 2010)</small>
 
 ###### Artículo 72.
 
-Cada Ayuntamiento contará con una Tesorería, cuyo titular será nombrado conforme a lo dispuesto por esta ley. El Tesorero Municipal deberá contar con título profesional, y tendrá las facultades y obligaciones siguientes:
+Cada Ayuntamiento contará con una Tesorería, cuyo titular será nombrado conforme a lo dispuesto por esta ley. El Tesorero Municipal deberá contar preferentemente con título profesional y tendrá las facultades y obligaciones siguientes:
 
 I. Recaudar, administrar, concentrar, custodiar, vigilar y situar los fondos municipales, así como los conceptos que deba percibir el Ayuntamiento, de conformidad con las disposiciones legales aplicables en materia de ingresos;
 
@@ -1511,11 +1507,11 @@ El Congreso del Estado informará a los Ayuntamientos el resultado de las accion
 
 #### SECCIÓN TERCERA. DE LA DIRECCIÓN DE OBRAS PÚBLICAS
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE 2010)</small>
 
-> <small>(ADICIONADO, G.O. 15 DE FEBRERO DE 2010)</small>
+###### Artículo 73 Bis.
 
-Artículo 73 bis. Cada Ayuntamiento contará con una Dirección de Obras Públicas, cuyo titular deberá ser Arquitecto o Ingeniero Civil y contar con título profesional, preferentemente con experiencia previa de tres años en la materia.
+Cada Ayuntamiento contará con una Dirección de Obras Públicas, cuyo titular deberá contar preferentemente con título profesional de arquitecto o ingeniero civil.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -3186,6 +3182,12 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 G.O. 3 DE NOVIEMBRE DE 2010.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 31 DE DICIEMBRE 2010.
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
