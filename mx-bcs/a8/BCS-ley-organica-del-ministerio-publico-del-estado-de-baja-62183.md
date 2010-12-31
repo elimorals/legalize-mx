@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-ministerio-publico-del-estado-de-baja-62183"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-07-08"
-last_updated: "2010-07-20"
+last_updated: "2010-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE JULIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el martes 8 de julio de 2008.
 
@@ -377,15 +377,37 @@ b).- Instituto Interdisciplinario de Ciencias Penales.
 
 Para ser Procurador se requiere:
 
-I.- Ser Ciudadano Sudcaliforniano;
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2010)</small>
 
-III (SIC).- Tener 30 años de edad como mínimo;
+I.- Ser Ciudadano Sudcaliforniano en pleno ejercicio de sus derechos políticos y civiles, o contar con una residencia efectiva en el Estado no menor de tres años anteriores al día de la designación;
 
-IV.- Ser Licenciado en Derecho y acreditar un ejercicio profesional de cinco años, cuando menos;
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2010)</small>
 
-V.- Tener modo honesto de vivir; y
+II.- Tener 35 años cumplidos el día de la designación;
 
-VI.- No haber sido condenado por delitos del Fuero Común, intencionales u oficiales.
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2010)</small>
+
+III.- Ser de notoria buena conducta, no haber sido condenado por sentencia irrevocable por delito doloso, ni estar sujeto a proceso penal;
+
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2010)</small>
+
+IV.- Tener Título de Licenciado en Derecho, expedido por Institución legalmente facultada para ello; con Cedula Profesional, y tener como mínimo 10 años de ejercicio profesional;
+
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2010)</small>
+
+V.- No estar suspendido, inhabilitado o hubiese sido destituido por resolución firme como servidor público en esta o en cualquier otra entidad federativa o de la Administración Pública Federal;
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2010)</small>
+
+VI.- Haber cumplido con el servicio militar nacional;
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2010)</small>
+
+VII.- Gozar de buena salud; y
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2010)</small>
+
+VIII.- Abstenerse de hacer uso ilícito de sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares, ni padecer alcoholismo.
 
 ###### Artículo 10.
 
@@ -1085,7 +1107,7 @@ I.- El tesorero invertirá las cantidades que integran el Fondo en la adquisici�
 
 II.- En el informe que rinda al Procurador, comunicará el resultado de los ingresos y rendimientos de las inversiones, así como de las erogaciones efectuadas; y
 
-III.- La Contraloría General del Estado, en uso de las facultades de comprobación, así como de vigilar el gasto público, ordenará la práctica de las auditorías internas o externas que considere necesarias para verificar que el manejo se haga en forma conveniente, honesta y transparente.
+III.- La Contraloría General del Estado, en uso de las facultades de comprobación, así como de vigilar el gasto público, ordenará la práctica de las auditorÍas internas o externas que considere necesarias para verificar que el manejo se haga en forma conveniente, honesta y transparente.
 
 ###### Artículo 54.
 
@@ -1512,3 +1534,7 @@ SEGUNDO.- El Procurador General de Justicia del Estado de Baja California Sur, c
 B.O. 20 DE JULIO DE 2010.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 31 DE DICIEMBRE DE 2010.
+
+UNICO. El presente decreto entrara en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
