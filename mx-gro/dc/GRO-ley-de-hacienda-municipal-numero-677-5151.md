@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-hacienda-municipal-numero-677-5151"
 country: "mx"
 rank: "ley"
 publication_date: "1984-01-03"
-last_updated: "2009-12-29"
+last_updated: "2010-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5151&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY DE HACIENDA MUNICIPAL NUMERO 677
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Alcance al Número 1 del Periódico Oficial del Estado de Guerrero, el martes 3 de enero de 1984.
 
@@ -227,6 +227,14 @@ II.- A partir del bimestre siguiente en que se notifique nuevo avalúo, y
 
 III.- (DEROGADA, P.O. 24 DE DICIEMBRE DE 2004)
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2010)</small>
+
+IV.- A partir del primer bimestre siguiente en que se declaró o debió ser declarado por el contribuyente, conforme a las disposiciones del artículo 7o. de la presente Ley.
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2010)</small>
+
+V. A partir del bimestre siguiente a aquél en que se encuentre cubierto el impuesto predial, en los casos de valuación o revaluación masiva.
+
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 10.
@@ -403,19 +411,19 @@ Están obligados al pago del impuesto sobre adquisición de inmuebles establecid
 
 BIS.- Es objeto de este impuesto la adquisición de bienes inmuebles que realicen personas físicas o morales en el territorio de los Municipios del Estado de Guerrero.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 28.
 
 Para los efectos de este capítulo, se entiende por adquisición la que se derive de:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2009)</small>
 
 I.- Todo acto por el que se transmita la propiedad, incluyendo la donación, la que ocurra por causa de muerte y la aportación a toda clase de asociaciones o sociedades.
 
-II.- La compraventa en la que el vendedor se reserve la propiedad, aún cuando la transferencia de ésta opere con posterioridad.
+II.- La compraventa en la que el vendedor se reserve la propiedad, aun cuando la transferencia de ésta opere con posterioridad.
 
 III.- La promesa de adquirir, cuando se pacte que el futuro comprador entrará en posesión de los bienes o que el futuro vendedor recibirá el precio de la venta o parte de él, antes de que se celebre el contrato prometido.
 
@@ -843,7 +851,7 @@ El funcionario o empleado público que preste algún servicio por el que se caus
 
 ###### ARTICULO 57.
 
-Todas las personas físicas y morales, públicas o privadas, están obligadas al pago de derechos municipales. Unicamente los Municipios del Estado estarán exentos del pago de esta contribución; así como las personas que esta Ley exente de manera expresa.
+Todas las personas físicas y morales, públicas o privadas, están obligadas al pago de derechos municipales. Únicamente los Municipios del Estado estarán exentos del pago de esta contribución; así como las personas que esta Ley exente de manera expresa.
 
 #### SECCION SEGUNDA. Derechos de cooperación para obras públicas
 
@@ -1595,7 +1603,7 @@ EL SECRETARIO DE GOBIERNO.
 
 LIC. HUMBERTO SALGADO GOMEZ.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 22 DE JUNIO DE 1984.
 
@@ -1714,3 +1722,13 @@ El presente Decreto entrará en vigor el primero de enero del año dos mil diez
 ###### ARTÍCULO SEGUNDO.
 
 ·Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 31 DE DICIEMBRE DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el primero de enero del año dos mil once.
+
+###### ARTÍCULO SEGUNDO.
+
+Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
