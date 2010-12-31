@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-educacion-para-el-estado-de-baja-california-sur-2914"
 country: "mx"
 rank: "ley"
 publication_date: "1994-06-10"
-last_updated: "2007-12-20"
+last_updated: "2010-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2914&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE EDUCACION PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el viernes 10 de junio de 1994.
 
@@ -211,7 +211,11 @@ XX.- FACILITAR EL ACCESO AL CONSUMO DE AGUA PURIFICADA, VERDURAS, FRUTAS, LEGUMI
 
 XXI.- LLEVAR A CABO EN COORDINACION CON LA SECRETARIA DE SALUD, LAS ACCIONES NECESARIAS QUE PERMITAN VIGILAR EL ESTRICTO CUMPLIMIENTO DE LAS FRACCIONES XVIII, XIX Y XX, DEL PRESENTE ARTICULO; Y
 
-XXII.- LAS DEMAS QUE CON TAL CARACTER ESTABLEZCAN LA LEY GENERAL DE EDUCACION, ESTA LEY Y OTRAS DISPOSICIONES APLICABLES.
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 31 DE DICIEMBRE DE 2010)</small>
+
+XXII.- IMPLEMENTAR LAS POLÍTICAS PÚBLICAS CORRESPONDIENTES PARA COMBATIR EL ACOSO ESCOLAR, EL CUAL CONSISTE EN ACCIONES CONSTANTES DE INTIMIDACIÓN, CHANTAJE, BURLA, INSULTOS, EXCLUSIÓN SOCIAL, AGRESIÓN CORPORAL Y CUALQUIER OTRA FORMA DE MALTRATO PSICOLÓGICO, VERBAL O FÍSICO PRODUCIDO ENTRE ESCOLARES DE FORMA REITERADA A LO LARGO DE N TIEMPO DETERMINADO.
+
+XXIII.- LAS DEMAS QUE CON TAL CARACTER ESTABLEZCAN LA LEY GENERAL DE EDUCACION, ESTA LEY Y OTRAS DISPOSICIONES APLICABLES.
 
 ###### ARTICULO 13.
 
@@ -856,3 +860,7 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 B.O. 20 DE DICIEMBRE DE 2007.
 
 ÚNICO. El presente Decreto entrará en vigor, al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 31 DE DICIEMBRE DE 2010.
+
+ÚNICO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
