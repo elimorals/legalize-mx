@@ -4,7 +4,7 @@ identifier: "BCS-codigo-penal-para-el-estado-de-baja-california-sur-44518"
 country: "mx"
 rank: "codigo"
 publication_date: "2005-03-20"
-last_updated: "2010-10-10"
+last_updated: "2010-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44518&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CODIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE OCTUBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el domingo 20 de marzo de 2005.
 
@@ -2377,9 +2377,11 @@ En el delito de violación, se entiende por cópula la introducción del miembro
 
 La violación entre cónyuges solo se castigará a petición de parte ofendida. El perdón solo tendrá efectos si el inculpado admite someterse a tratamiento rehabilitador bajo la vigilancia de la Procuraduría General de Justicia, cuando el ministerio público o el juez lo consideren necesario.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 285.
 
-La pena será de cinco a quince años de prisión y pérdida de los derechos de familia, en su caso, cuando concurra cualquiera de los siguientes supuestos:
+La pena será de Veinte a Treinta años de prisión y pérdida de los derechos de familia, en su caso, cuando concurra cualquiera de los siguientes supuestos:
 
 I.- Cuando la víctima sea impúber;
 
@@ -2392,6 +2394,18 @@ IV.- El responsable allane el domicilio de la víctima o la sorprenda en despobl
 V.- El delito fuese cometido por la persona que tiene al ofendido bajo su custodia, guarda, educación o adoctrinamiento religioso; y
 
 VI.- Se haya cometido por un servidor público, en ejercicio de sus funciones, aprovechando los medios o circunstancias que éstas le proporcionan.
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2010)</small>
+
+En el supuesto señalado en la fracción anterior, además de la pena privativa de libertad, se impondrán destitución, en su caso, e inhabilitación para desempeñar otro empleo, cargo o comisión públicos, hasta por cinco años.
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2010)</small>
+
+VII. Si el delito fuere cometido en el interior de las instituciones de educación básica, media superior, superior o en sus inmediaciones; y
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2010)</small>
+
+VIII.- Si el delito se cometiera en contra de la víctima, por su condición de género.
 
 ###### ARTÍCULO 286.
 
@@ -2653,15 +2667,23 @@ El delito de fraude se perseguirá a petición de parte ofendida, a excepción d
 
 ### CAPÍTULO V. DESPOJO
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 314.
 
-Se impondrá prisión de uno a seis años y multa hasta por cien días de salario mínimo vigente, al que por medio de la violencia física o moral, la furtividad o el engaño, realice cualquiera de las siguientes conductas:
+Se impondrá prisión de cinco a nueve años de prisión y multa hasta por seiscientos días de salario mínimo vigente, al que por medio de la violencia física o moral, la furtividad o el engaño, realice cualquiera de las siguientes conductas:
 
 I.- Ocupe un inmueble ajeno, haga uso de él o de un derecho real que no le pertenezca;
 
 II.- Ocupe un inmueble de su propiedad en los casos en que la ley no lo permita por hallarse en poder de otra persona o ejerza actos de dominio que lesionen los derechos del ocupante; o
 
 III.- Desvíe o derive en su provecho aguas ajenas o ejerza actos de dominio respecto de aguas propias, lesionando los derechos de otros.
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2010)</small>
+
+ARTÍCULO 314 BIS.- Si el despojo se realiza por dos o más personas se aplicará la pena de siete a dieciocho años de prisión y de ochocientos a mil días multa. A los autores intelectuales o a quiénes dirijan o encabecen el despojo se les aplicará hasta una tercera parte más de la pena referida en el presente párrafo.
+
+A quienes se dediquen en forma reiterada a promover el despojo de inmuebles urbanos o rústicos y se acredite su reincidencia, se les aplicará de quince a treinta años de prisión.
 
 ###### ARTÍCULO 315.
 
@@ -2729,11 +2751,21 @@ Las penas anteriores se aumentarán hasta en una mitad cuando se trate de servid
 
 ### CAPÍTULO XI. DAÑOS
 
+> <small>(DEROGADO PRIMER PARRAFO [N. DE E. REFORMADO], B.O. 31 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 324.
 
 Al que por cualquier medio destruya o deteriore una cosa ajena, se le impondrá prisión de seis meses a ocho años y hasta cien días de multa. La destrucción o deterioro de cosa propia en perjuicio de terceros, se equipara al delito de daños y se aplicará la misma pena.
 
-Se equipara al delito de daños, al que plasme grafitis en propiedad ajena, y dicha conducta será sancionado con prisión de tres meses a tres años y multa de cincuenta a doscientos días de salario, además de la reparación del daño causado.
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2010)</small>
+
+ARTÍCULO 324 BIS.- Se aplicará prisión de tres meses a un año de prisión y de diez a treinta jornadas de trabajo en favor de la comunidad, así como la reparación del daño al que:
+
+I.- Utilizando cualquier tipo de sustancia o medio realice pintas, escrituras, dibujos, signos, códigos, tallones, mensajes, figuras y gráficos de todo tipo, que alteren o modifiquen su presentación original, en bienes muebles e inmuebles, sin consentimiento del dueño o quien legalmente posea la cosa;
+
+II.- Cuando el daño se cometa en bienes de dominio público, monumentos, edificios, sitios o bienes considerados parte del patrimonio cultural con valor histórico, arqueológico científico o arquitectónico, o el daño se cause sobre pinturas, lienzos, murales, o bienes de cantera, piedra, madera o cualquier otro material de difícil o imposible reparación, se sancionará con pena de seis meses a dos años de prisión y de treinta a cien jornadas de trabajo en favor de la comunidad.
+
+Cuando el daño se cometa en bienes de dominio público, propiedad del Estado o de los Ayuntamientos, este delito se perseguirá de oficio.
 
 ###### ARTÍCULO 325.
 
@@ -2968,3 +3000,15 @@ B.O. 10 DE JUNIO DE 2009.
 B.O. 10 DE OCTUBRE DE 2010.
 
 ÚNICO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 31 DE DICIEMBRE DE 2010.
+
+DECRETO NUMERO 1889 POR EL SE REFORMA EL ARTICULO 285 Y SE ADICIONA UN PARRAFO A LA FRACCION VI Y SE ADICIONAN LAS FRACCIONES VII Y VIII AL ARTICULO 285; SE DEROGA EL PRIMER PARRAFO DEL ARTICULO 324 Y SE ADICIONA UN ARTICULO 324 BIS DEL CODIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA SUR.
+
+UNICO.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 31 DE DICIEMBRE DE 2010.
+
+DECRETO NUMERO 1890 POR EL QUE SE REFORMA EL ARTICULO 314 PRIMER PARRAFO Y SE ADICIONA UN ARTICULO 314 BIS AL CODIGO PENAL DEL ESTADO DE BAJA CALIFORNIA SUR.
+
+UNICO.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
