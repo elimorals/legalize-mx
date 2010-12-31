@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-del-poder-legislativo-del-estado-libre-y-18581"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-11-26"
-last_updated: "2010-11-24"
+last_updated: "2010-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18581&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE NOVIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2010.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Gobierno Constitucional del Estado de Puebla el viernes 26 de noviembre de 1999.
 
@@ -1247,9 +1247,11 @@ La Comisión competente, fijará las bases mediante convocatoria, conducirá los
 
 (REUBICADO, P.O. 19 DE DICIEMBRE DE 2003)
 
-## TÍTULO QUINTO. (REUBICADO, P.O. 19 DE DICIEMBRE DE 2003)
+## TÍTULO QUINTO
 
-### CAPÍTULO ÚNICO. DEL SERVICIO CIVIL DE CARRERA PARLAMENTARIA
+> <small>(REFORMADA SU NUMERACION, P.O. 31 DE DICIEMBRE DE 2010)</small>
+
+### CAPÍTULO PRIMERO. DEL SERVICIO CIVIL DE CARRERA PARLAMENTARIA
 
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2003)</small>
 
@@ -1284,6 +1286,40 @@ V.- Los programas para la capacitación, actualización y desarrollo de los serv
 ###### ARTÍCULO 76.
 
 El Congreso del Estado podrá celebrar convenios de coordinación o colaboración con los demás Poderes o con instituciones públicas o privadas, con el fin de cumplir con los objetivos del Servicio Civil de Carrera Parlamentaria y su Estatuto.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2010)</small>
+
+### CAPÍTULO SEGUNDO. DE LA REMUNERACIÓN
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2010)</small>
+
+###### ARTÍCULO 77.
+
+Los Diputados y Servidores Públicos del Poder Legislativo del Estado, incluyendo los del Órgano de Fiscalización Superior del Estado, percibirán las remuneraciones que señale el tabulador que el Poder Legislativo remita al Ejecutivo del Estado, para que se incluya en el Presupuesto que contenga la Ley de Egresos del Estado, para el ejercicio fiscal correspondiente.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2010)</small>
+
+###### ARTÍCULO 78.
+
+Los Diputados y Servidores Públicos del Poder Legislativo del Estado, incluyendo los del Órgano de Fiscalización Superior del Estado, percibirán una remuneración equitativa, adecuada e irrenunciable por el desempeño de su función, empleo, cargo o comisión, la cual deberá ser proporcional a sus responsabilidades, exceptuándose los que en términos de las disposiciones legales se declaren gratuitos.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2010)</small>
+
+###### ARTÍCULO 79.
+
+Las remuneraciones de los Diputados y Servidores Públicos del Poder Legislativo, incluyendo los del Órgano de Fiscalización Superior del Estado, se establecerán, con base en lo dispuesto por la Constitución Política del Estado, en los tabuladores desglosados, que deberán incorporarse dentro del presupuesto anual de egresos que el Poder Legislativo remita al Ejecutivo del Estado, para su inclusión en el proyecto de iniciativa de Ley de Egresos del Estado, tomando en consideración lo siguiente:
+
+I.- Se considera remuneración o retribución toda percepción en efectivo o en especie, incluyendo dietas, aguinaldos, recompensas, comisiones y compensaciones, con excepción de los apoyos y los gastos sujetos a comprobación que sean propios del desarrollo del trabajo y los gastos de viaje en funciones oficiales;
+
+II.- Ningún Diputado o Servidor Público del Órgano Técnico Administrativo del Poder Legislativo, incluyendo los del Órgano de Fiscalización Superior del Estado, podrá recibir remuneración, en términos de la fracción anterior, por el desempeño de su función, empleo, cargo o comisión, mayor a la establecida para el Gobernador del Estado en la Ley de Egresos correspondiente;
+
+III.- Ningún Diputado o Servidor Público del Órgano Técnico Administrativo del Poder Legislativo, incluyendo los del Órgano de Fiscalización Superior del Estado, podrá tener una remuneración igual o mayor que su superior jerárquico; salvo que el excedente sea consecuencia del desempeño de varios empleos públicos, en los casos previstos por la Constitución Política del Estado, que su remuneración sea producto de las condiciones generales de trabajo, derivado de un trabajo técnico calificado o por especialización en su función;
+
+IV.- No se concederán ni cubrirán jubilaciones, pensiones o haberes de retiro, ni liquidaciones por servicios prestados, como tampoco préstamos o créditos, sin que éstas se encuentren asignadas por la legislación aplicable en la materia, Decreto Legislativo, Contrato Colectivo o condiciones generales de trabajo. Estos conceptos no formarán parte de la remuneración.
+
+Quedan excluidos o condicionados los servicios de seguridad que requieran los servidores públicos por razón del cargo desempeñado; y
+
+V.- Las remuneraciones y sus tabuladores serán públicos.
 
 ## TRANSITORIOS
 
@@ -1538,3 +1574,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2010.
+
+PRIMERO.- El presente decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO.- Para efectos de la aplicación de las disposiciones contenidas en el presente Decreto, se deberán observar en lo conducente, lo previsto en los Artículos Transitorios del Decreto que reforma diversas disposiciones de la Constitución Política del Estado Libre y Soberano de Puebla, publicado en el Periódico Oficial del Estado el 16 de junio de 2010.
+
+TERCERO.- Se derogan todas las disposiciones jurídicas y administrativas que contravengan o se opongan a las reformas materia del presente Decreto.
