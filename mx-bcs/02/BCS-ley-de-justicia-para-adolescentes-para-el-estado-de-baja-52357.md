@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-justicia-para-adolescentes-para-el-estado-de-baja-52357"
 country: "mx"
 rank: "ley"
 publication_date: "2006-10-05"
-last_updated: "2007-12-31"
+last_updated: "2010-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52357&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE JUSTICIA PARA ADOLESCENTES PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Extraordinario del Boletín Oficial del Estado de Baja California Sur, el jueves 5 de octubre de 2006.
 
@@ -333,15 +333,49 @@ III. Los documentos públicos tendrán valor probatorio pleno, en lo que atañe 
 
 IV. El valor de la prueba pericial y testimonial, así como los demás elementos de convicción, quedan sujetos para su valoración a las normas previstas en el Código de Procedimientos Penales para el Estado de Baja California Sur.
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 30.
 
-Los medios alternos de solución de conflictos son un procedimiento de justicia restaurativa consistente en un acuerdo de voluntades realizado entre las partes; con el fin de plantear una solución a su conflicto con la debida asistencia y vigilancia de la autoridad ministerial o judicial.
+Se reconoce la mediación y la conciliación, como procedimientos alternativos al juzgamiento, tendientes a evitar o a hacer cesar la intervención judicial.
 
-Durante el desarrollo de dichas diligencias el adolescente, y la víctima o el ofendido podrán ser asistidos por su defensor, y el Ministerio Público respectivamente.
+Durante el procedimiento, hasta antes de dictarse resolución, podrán llevarse a cabo los procedimientos alternativos previstos en esta ley conforme a los términos señalados en la misma.
 
-Los medios alternas pueden realizarse en cualquier momento del procedimiento desde que el adolescente es puesto a disposición del Ministerio Público y hasta antes de que cause lo resolución definitiva.
+Procederá la conciliación y la mediación como medio de solución alterna al conflicto, sólo en los casos de conductas tipificadas como delitos que se persigan a petición de parte, y de conductas tipificadas como delitos proseguibles de oficio, respecto de los cuales la ley penal prevea la posibilidad de la extinción de la acción penal cuando exista manifestación expresa de desinterés jurídico por parte del ofendido en cuanto a la prosecución de la causa.
 
-Solo procederán los medios alternos de solución de controversias cuando se trate de conductas típicas que se persigan por querella o bien en las que persiguiéndose de oficio, sean de carácter patrimonial y no ameriten medidas de internamiento siempre que se garantice la reparación del daño.
+Procede la conciliación y la mediación tratándose de la reparación del daño en cualquiera de las conductas tipificadas como delitos.
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2010)</small>
+
+ARTÍCULO 30 BIS.- Los convenios o acuerdos a que lleguen el adolescente y el ofendido o víctima como resultado de los procedimientos de conciliación o mediación, deberán ser suscritos por los padres, tutores o personas que ejerzan la patria potestad del adolescente.
+
+La mediación podrá llevarse a cabo en cualquier fase del procedimiento, en la que el adolescente y el ofendido o la víctima acuerden asistirse por un tercero neutral llamado mediador, quien ayudará a identificar sus diferencias y a establecer con ellos bases para la solución de su conflicto.
+
+Designado el mediador, el Ministerio Público o el Juez, suspenderán el procedimiento que se le instruye al adolescente, suspensión que no podrá ser mayor a treinta días, salvo que el propio adolescente y la víctima u ofendido soliciten un mayor tiempo para la solución del conflicto.
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2010)</small>
+
+ARTÍCULO 30 TER.- El procedimiento de mediación concluirá cuando:
+
+I.- Los participantes logren un acuerdo;
+
+II. - Los participantes no logren acuerdo alguno;
+
+III.- Los participantes hayan convenido sustituir la mediación por otro procedimiento;
+
+IV.- Alguno de los participantes hayan expresado su voluntad de retirarse del procedimiento;
+
+V.- Alguno de los participantes haya dejado de asistir injustificadamente a las sesiones programadas;
+
+VI.- Haya transcurrido el plazo del procedimiento de mediación, sin que los participantes hayan solicitado prórroga o, si solicitada, no les fue concedida; y
+
+VII.- El procedimiento de mediación no esté cumpliendo sus propósitos, a juicio del mediador.
+
+La terminación de la mediación en cualquiera de sus etapas, no impide que se acuda nuevamente a este medio de solución de controversias, si las circunstancias son favorables.
+
+Los convenios o acuerdos a que lleguen el adolescente y el ofendido o víctima como resultado de los procedimientos de conciliación o mediación, deberán ser suscritos por los padres, tutores o personas que ejerzan la patria potestad del adolescente. Tratándose de reparación del daño, firmaran como responsables solidarios de garantizar la reparación del daño.
+
+Si no se llega al acuerdo, se hará del conocimiento del Ministerio Público o del Juez, para que prosigan con el procedimiento respectivo.
 
 ###### ARTÍCULO 31.
 
@@ -513,9 +547,11 @@ Las medidas que deben cumplirse en libertad son de aplicación prioritaria, en t
 
 ### CAPÍTULO II. DE LAS MEDIDAS DE ORIENTACIÓN Y DE PROTECCIÓN
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 53.
 
-Las medidas de orientación y protección consisten en apercibimientos, mandamientos o prohibiciones impuestos por el Juez con el fin de regular el modo de vida de los adolescentes en lo que se refiere a conductas que afectan el interés de la sociedad, protegiendo sus derechos, promoviendo su formación, la comprensión del sentido que tiene la medida, el fomento de vínculos socialmente positivos y el pleno desarrollo de su personalidad y en ningún caso podrán ser inferiores a seis meses, ni exceder de un año.
+Las medidas de orientación y protección, consisten en mandamientos o prohibiciones impuestas por el Juez con el fin de regular el modo de vida de los adolescentes, deberán consistir en terapias y psicoterapias, que tiendan a desmotivar las conductas antisociales y delictivas del adolescente, así como de promover y asegurar su formación. El cumplimiento de la medida deberá iniciarse a más tardar un mes después de ordenadas y, debiendo asistir a éstas el adolescente y los padres, tutores o quienes ejerzan la patria potestad, para poder tenerlas como cumplidas.
 
 ###### ARTÍCULO 54.
 
@@ -734,6 +770,10 @@ Para la adecuada aplicación de las medidas, el Juez deberá tomar conocimiento 
 ###### ARTÍCULO 84.
 
 Una vez dictada la resolución definitiva por el Juez, la reparación del daño derivado de la realización de una conducta típica puede solicitarse por el Agente del Ministerio Público, la víctima u ofendido o sus representantes legales ante el Juez que imponga la medida.
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2010)</small>
+
+Los padres, tutores o quienes ejerzan la patria potestad del adolescente, serán terceros responsables y deberán garantizar solidariamente el cumplimiento de la reparación del daño a la victima u ofendido.
 
 ###### ARTÍCULO 85.
 
@@ -1016,3 +1056,7 @@ B.O. 20 DE JULIO DE 2007.
 B.O. 31 DE DICIEMBRE DE 2007.
 
 UNICO.- Las presentes reformas entrarán en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 31 DE DICIEMBRE DE 2010.
+
+UNICO.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
