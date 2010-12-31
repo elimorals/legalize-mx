@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-de-la-administracion-publica-del-estado-de-11454"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1996-06-04"
-last_updated: "2009-07-15"
+last_updated: "2010-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11454&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JULIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2010.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el martes 4 de junio de 1996.
 
@@ -1973,11 +1973,23 @@ XL.- Hacer del conocimiento de las autoridades competentes, y en su caso denunci
 
 > <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2006)</small>
 
-XLI.- Imponer en la esfera de su competencia, las sanciones que determine la Ley de la materia; y
+XLI.- Imponer en la esfera de su competencia, las sanciones que determine la Ley de la materia; y (sic)
 
-> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2006)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2010)</small>
 
-XLII.- Los demás que le atribuyan las leyes, reglamentos, decretos, convenios, acuerdos y otras disposiciones vigentes en el Estado.
+XLII.- Establecer mecanismos para la protección y trato digno de los animales en el Estado de Puebla y demás atribuciones que le otorgue la legislación en la materia;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2010)</small>
+
+XLIIl.- Propiciar la participación de los sectores privado y social en la difusión y fomento de una cultura de respeto y trato digno hacia los animales en el Estado de Puebla;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2010)</small>
+
+XLIV.- Promover en coordinación con el Gobierno Federal y los Ayuntamientos, el establecimiento de mecanismos para la protección y trato digno de los animales en el Estado de Puebla; y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2010)</small>
+
+XLV.- Los demás que le atribuyan las Leyes, Reglamentos, Decretos, Convenios, Acuerdos y otras disposiciones vigentes en el Estado.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 4 DE MARZO DE 2005)</small>
 
@@ -2488,3 +2500,9 @@ El presente Decreto entrará en vigor el día de su publicación en el Periódic
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Ordenamiento.
+
+P.O. 31 DE DICIEMBRE DE 2010.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
