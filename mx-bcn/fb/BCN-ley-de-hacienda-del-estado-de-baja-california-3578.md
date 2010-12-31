@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-hacienda-del-estado-de-baja-california-3578"
 country: "mx"
 rank: "ley"
 publication_date: "1972-12-31"
-last_updated: "2010-08-27"
+last_updated: "2010-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3578&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE AGOSTO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2010.
 
 Ley publicada en la Sección Décimo Tercera del Periódico Oficial del Estado de Baja California, el 31 de diciembre de 1972.
 
@@ -1651,7 +1651,7 @@ VIII.- El Impuesto Sobre Profesiones y Ejercicios Lucrativos.
 
 ###### ARTICULO 156
 
-6.- Los retenedores de este impuesto deberán enterarlo en la Recaudación de Rentas del Estado correspondiente dentro de los días del 1ro. al 20 del mes siguiente a aquél en que haya sido retenido mediante la presentación de una declaración en las formas aprobadas por la Secretaría de Planeación y Finanzas del Estado.
+6.- Los retenedores de éste impuesto deberán enterarlo en la Recaudación de Rentas del Estado correspondiente dentro de los días del 1ro. al 20 del mes siguiente a aquél en que haya sido retenido mediante la presentación de una declaración en las formas aprobadas por la Secretaría de Planeación y Finanzas del Estado.
 
 ###### ARTICULO 156
 
@@ -1659,7 +1659,7 @@ VIII.- El Impuesto Sobre Profesiones y Ejercicios Lucrativos.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 10 DE ENERO DE 1992)</small>
 
-### CAPITULO XIX. DEL IMPUESTO SOBRE LOTERIAS, RIFAS, SORTEOS, JUEGOS, PERMITIDOS Y CONCURSOS
+### CAPITULO XIX. Del Impuesto sobre Loterias, Rifas, Sorteos, Juegos Permitidos y Concursos
 
 > <small>(ADICIONADO, P.O. 10 DE ENERO DE 1992)</small>
 
@@ -1749,37 +1749,397 @@ VI.- Proporcionar, cuando así lo solicite el interesado, constancia de retenci�
 
 14.- Quienes celebren loterías, rifas, sorteos, juegos permitidos con apuestas y concursos de toda clase en forma accidental por los que deban pagar el impuesto en los términos de este Capítulo, presentarán declaraciones en las oficinas autorizadas dentro de los cinco días siguientes a aquel en que se celebren dichos eventos.
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 2 DE ENERO DE 2004)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN], P.O. 31 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 156
 
-15.- (DEROGADO, P.O. 2 DE ENERO DE 2004)
+15.- Es objeto de este impuesto la tenencia o uso de los siguientes vehículos en territorio del Estado de Baja California que correspondan al año y a los últimos nueve años modelo anteriores al de aplicación de la presente Ley:
+
+a).- Vehículos de personas físicas y morales tenedoras o usuarias, que estén afectos a una actividad empresarial, como lo es la comercial, industrial y/o de servicios.
+
+b).- Vehículos de personas físicas y morales tenedoras o usuarias, considerados caros o de lujo conforme a lo establecido en este Capítulo.
+
+Para efectos de este impuesto, se considerarán vehículos caros o de lujo, aquellos cuyo valor determinado en base a este capítulo sea de doscientos sesenta mil pesos o más.
+
+Para efectos de esta Ley, se presume que el propietario de un vehículo es tenedor o usuario del mismo, cuando:
+
+a).- Se inscriba en el registro estatal vehicular de Baja California.
+
+b).- El tenedor o usuario del vehículo tenga domicilio en el Estado, y
+
+c).- El domicilio fiscal o algún establecimiento del tenedor o usuario del vehículo se encuentre en el Estado, respecto de los vehículos utilizados en dicho domicilio o establecimiento y de los que se inscriban en el registro estatal vehicular de Baja California.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 156
 
-16.- (DEROGADO, P.O. 2 DE ENERO DE 2004)
+16.- Están obligadas al pago del impuesto estatal sobre tenencia o uso de vehículos las personas físicas y morales, tenedoras o usuarias de vehículos en el territorio del Estado de acuerdo a lo establecido en este Capítulo.
+
+Para los efectos de este Capítulo, tratándose de vehículos afectos al patrimonio de un fideicomiso, se considerará tenedora o usuaria de los mismos y por tanto sujeta de este impuesto y obligada al pago del mismo, a la fiduciaria que se encuentre administrando dicho patrimonio.
+
+En los casos en que exista copropiedad respecto del vehículo, cada uno de los copropietarios se presumirán tenedores o usuarios del mismo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 156
 
-17.- (DEROGADO, P.O. 2 DE ENERO DE 2004)
+17.- Cualquier persona física o moral que encuadre en los supuestos de causación del impuesto estatal sobre tenencia o uso de vehículos, deberá pagar dicho impuesto, con las excepciones que en este Capítulo se señalan, aún cuando de conformidad con otras leyes no estén obligados a pagar contribuciones estatales o estén exentos de ellas.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 156
 
-18.- (DEROGADO, P.O. 2 DE ENERO DE 2004)
+18.- Para efectos de este impuesto, se entiende por:
+
+I.- Vehículo: los automóviles, omnibuses, minibuses, autobuses integrales, camiones y tractores no agrícolas tipo quinta rueda, las embarcaciones, veleros, esquís acuáticos motorizados, motocicleta acuática, tabla de oleaje con motor, motocicletas y aeronaves.
+
+II.- Vehículo nuevo:
+
+a).- El que se enajena por primera vez al consumidor por el fabricante, ensamblador o distribuidor que corresponda al año modelo siguiente al de aplicación de este Capítulo o al año de aplicación del mismo.
+
+b).- El que sea importado definitivamente por primera vez al país que corresponda al año modelo siguiente al de aplicación de este Capítulo o al año de aplicación del mismo.
+
+III.- Vehículo usado: Aquel que no se encuentre comprendido en la fracción anterior, y cuya antigüedad sea de hasta nueve años modelo anteriores al de aplicación de la presente Ley.
+
+IV.- Valor total del vehículo: El precio de origen de enajenación por parte del fabricante, ensamblador o distribuidor autorizado, incluyendo el equipo que provenga de fábrica o el que el enajenante le adicione a solicitud del consumidor, sin incluir el impuesto al valor agregado.
+
+En el valor total del vehículo a que hace referencia el párrafo anterior, no se incluirán los intereses derivados de créditos otorgados para la adquisición del mismo.
+
+V.- Marca: Las denominaciones y distintivos que los fabricantes dan a sus vehículos para diferenciarlos de los demás.
+
+VI.- Año Modelo: El año de fabricación o el que le asigne el fabricante o ensamblador de conformidad con las normas aplicables.
+
+VII.- Modelo: Todas aquellas versiones de la carrocería básica con dos, tres, cuatro o cinco puertas que se deriven de una misma línea. Por carrocería básica se entenderá, el conjunto de piezas metálicas o de plástico, que configuran externamente a un vehículo y de la que derivan los diversos modelos.
+
+VIII.- Versión: Cada una de las distintas presentaciones comerciales que tiene un modelo.
+
+IX.- Peso Bruto Vehicular: Es el peso del vehículo totalmente equipado incluyendo chasis, cabina, carrocería, unidad de arrastre con el equipo y carga transportable.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 156
 
-19.- (DEROGADO, P.O. 2 DE ENERO DE 2004)
+19.- El pago del impuesto estatal sobre tenencia o uso de vehículos deberá calcularse y enterarse por año de calendario durante los tres primeros meses del mismo, salvo en el caso de vehículos nuevos, supuesto en el que el impuesto deberá calcularse y enterarse dentro del plazo de diez días hábiles siguientes de haber adquirido o importado el vehículo.
+
+Tratándose de permisos de traslado, el impuesto a que hace referencia el presente Capítulo, se pagará al momento de solicitar dicho permiso, siempre que no hayan transcurrido los diez días hábiles señalados en el párrafo anterior; en caso contrario el impuesto deberá pagarse dentro de dicho periodo.
+
+El pago de este impuesto se realizará en cualquiera de las oficinas Recaudadoras de Rentas del Estado, instituciones o establecimientos autorizados para ello, o bien mediante los medios electrónicos que autorice para tal efecto la Secretaría de Planeación y Finanzas.
+
+Los contribuyentes de este impuesto no están obligados a presentar, por dicha contribución, la solicitud de inscripción ni los avisos del registro estatal de causantes. No obstante lo anterior, los contribuyentes que se encuentren inscritos en el citado registro para efectos del pago de otras contribuciones, deberán anotar su clave correspondiente en los formatos de pago de este impuesto.
+
+Los contribuyentes comprobarán el pago del impuesto con el recibo o forma original autorizado por medio del cual lo hayan efectuado.
+
+Los fabricantes, ensambladores o distribuidores que enajenen vehículos por primera vez al consumidor, podrán recaudar y enterar a las Recaudaciones de Rentas del Estado el impuesto a que se refiere este Capítulo, en los términos que se establezcan en los convenios que en su caso se celebren con la citada dependencia.
+
+Las personas físicas o morales cuya actividad sea la enajenación de vehículos nuevos o importados, que asignen dichos vehículos a su servicio o al de sus funcionarios o empleados, deberán pagar el impuesto por el ejercicio en que hagan la asignación, en los términos previstos en el primer párrafo de este artículo.
+
+En la enajenación o importación de vehículos nuevos de año modelo posterior al de la aplicación de este Capítulo, se pagará el impuesto correspondiente al año de calendario en que se enajene o importe, según corresponda. El impuesto para dichos vehículos se determinará en el siguiente año de calendario bajo el criterio de vehículo nuevo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 156
 
-20.- (DEROGADO, P.O. 2 DE ENERO DE 2004)
+20.- Son solidariamente responsables del pago del impuesto establecido en este Capítulo:
+
+I.- Quienes por cualquier título, adquieran la propiedad del vehículo, por el adeudo del impuesto que en su caso existiera por el mismo, aún cuando se trate de personas que no están obligadas al pago de este impuesto.
+
+II.- Quienes reciban en consignación o comisión para su enajenación vehículos, por el adeudo del impuesto que en su caso existiera.
+
+III.- Las autoridades y funcionarios que autoricen el registro de vehículos, permisos provisionales para circulación en traslado, altas, cambios o bajas de placas o efectúen la renovación de los mismos, sin haberse cerciorado que no existan adeudos por este impuesto correspondiente a los últimos cinco años, salvo en los casos en que el contribuyente acredite que se encuentra liberado de esta obligación.
+
+IV.- Las autoridades competentes para expedir los certificados de aeronavegabilidad o de inspección de seguridad a embarcaciones y de certificados de matrícula para las aeronaves, cuando al expedirlos el propietario, tenedor o usuario del vehículo no compruebe el pago del impuesto estatal sobre tenencia o uso de vehículos a que se refiere este Capítulo, a excepción de los casos en que se encuentre liberado de este pago. De no comprobarse que se ha cumplido con la obligación de pago, dichas oficinas lo harán del conocimiento de las autoridades fiscales correspondientes.
+
+V.- Las empresas que otorguen el servicio de alojamiento o albergue temporal de embarcaciones en los sitios denominados "marinas turísticas" o en cualquier otro establecimiento destinado a la prestación de este tipo de servicio, cuando omitan informar a la autoridad fiscal que el propietario, tenedor o usuario del vehículo no comprobó el pago del impuesto estatal sobre tenencia o uso de vehículos a que se refiere este capítulo, a excepción de los casos en que se encuentre liberado de ese pago.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 156
 
-21.- (DEROGADO, P.O. 2 DE ENERO DE 2004)
+21.- Tratándose de vehículos nuevos el impuesto estatal sobre tenencia o uso de vehículos se pagará de la siguiente manera:
 
-### CAPITULO XX. Impuesto Ambiental
+I.- En el caso de automóviles destinados al transporte hasta de 15 pasajeros, el impuesto será la cantidad que resulte de aplicar al valor total del vehículo, la siguiente:
+
+TARIFA
+
+Límite Límite Cuota Tasa para
+
+Inferior Superior Fija aplicarse sobre
+
+el excedente del
+
+Límite Inferior
+
+$ $ $ %
+
+0.01 526,657.78 0.00 3.0
+
+526,657.79 1,013,523.64 15,799.73 8.7
+
+1,013,523.65 1,362,288.13 58,157.06 13.3
+
+1,362,288.14 1,711,052.62 104,542.74 16.8
+
+1'711,052.63 En adelante 163,135.16 19.1
+
+Para la aplicación de la citada tarifa se deberá seguir el siguiente procedimiento:
+
+1.- Identificar el rango de la tarifa en la que encuadre el valor total del vehículo.
+
+2.- A dicho valor se le disminuirá el límite inferior del rango correspondiente.
+
+3.- El importe obtenido se multiplicará por la tasa que le corresponda según rango en el que se ubica.
+
+4.- A la cantidad que resulte se le sumará la cuota fija establecida en el rango.
+
+5.- El resultado será el impuesto correspondiente.
+
+Tratándose de automóviles blindados, excepto camiones, la tarifa a que se refiere esta fracción, se aplicará sobre el valor total del vehículo, sin incluir el valor del material utilizado para el blindaje. En ningún caso, el impuesto que se tenga que pagar por dichos vehículos, será mayor al que tendrían que pagarse por la versión de mayor precio de enajenación de un automóvil sin blindaje del mismo modelo y año. Cuando no exista vehículo sin blindar que corresponda al mismo modelo, año o versión del automóvil blindado, el impuesto para este último, será la cantidad que resulte de aplicar al valor total del vehículo, la tarifa establecida en esta fracción, multiplicando el resultado por el factor de 0.80.
+
+II.- Para vehículos destinados al transporte de más de 15 pasajeros o de carga cuyo peso bruto vehicular sea menor a 15 toneladas y para automóviles nuevos que cuenten con placas de servicio público de transporte de pasajeros y los denominados "taxis" el impuesto será la cantidad que resulte de aplicar al valor total del vehículo, la tasa del 0.245%.
+
+Para efectos de este artículo se entenderá por vehículos destinados al transporte de más de 15 pasajeros, los camiones, tractores no agrícolas tipo quinta rueda, así como minibuses, omnibuses, microbuses y autobuses integrales, cualquiera que sea su tipo y peso bruto vehicular, sin incluir a los denominados Pick Up's.
+
+Para vehículos cuyo peso bruto vehicular sea de 15 a 35 toneladas, el impuesto se calculará multiplicando la cantidad que resulte de aplicar el 0.50% al valor total del vehículo, por el factor fiscal que resulte de dividir el peso bruto máximo vehicular expresado en toneladas, entre 30. En el caso de que (sic) peso sea mayor a 35 toneladas se tomará como peso bruto máximo vehicular esta cantidad.
+
+III.- Tratándose de embarcaciones, veleros, esquís acuáticos motorizados, motocicletas acuáticas y tablas de oleaje con motor, el impuesto será la cantidad que resulte de aplicar al valor total del vehículo de que se trate el 1.5%.
+
+IV.- Tratándose de aeronaves el impuesto será la cantidad que resulte de aplicar al valor total del vehículo el 1%.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2010)</small>
+
+###### ARTICULO 156
+
+22.- Tratándose de vehículos usados el impuesto a que hace referencia el presente Capítulo se pagará de la siguiente manera:
+
+I.- Tratándose de automóviles de fabricación nacional o importados, destinados al transporte hasta de 15 pasajeros, el impuesto será el que resulte de aplicar el procedimiento siguiente:
+
+a).- El valor total del vehículo se multiplicará por el factor de depreciación, de acuerdo al año modelo del vehículo, de conformidad con la siguiente:
+
+TABLA
+
+Años de Factor de
+
+Antigüedad Depreciación
+
+1 0.850
+
+2 0.725
+
+3 0.600
+
+4 0.500
+
+5 0.400
+
+6 0.300
+
+7 0.225
+
+8 0.150
+
+9 0.075
+
+b).- La cantidad obtenida, conforme al inciso anterior, se multiplicará por el factor de actualización a que se refiere esta fracción, y al resultado se le aplicará la tarifa a que hace referencia la fracción I, del artículo 156-21 de esta Ley.
+
+El factor de actualización a que se refiere el párrafo anterior, será el correspondiente al período comprendido desde el último mes del año inmediato anterior a aquel en que se adquirió el automóvil de que se trate, hasta el último mes del año inmediato anterior a aquel por el que se debe efectuar el pago, mismo que se obtendrá de conformidad con el artículo 17-A del Código Fiscal de la Federación.
+
+II.- Para vehículos de fabricación nacional o importados de más de 15 pasajeros o de carga cuyo peso bruto vehicular sea menor a 15 toneladas, así como aeronaves, el impuesto será el que resulte de multiplicar el importe del impuesto causado en el ejercicio fiscal inmediato anterior por el factor de ajuste.
+
+El factor de ajuste será el que resulte de multiplicar el factor de actualización por el factor que le corresponda conforme a los años de antigüedad del vehículo, de acuerdo con la siguiente:
+
+TABLA
+
+Años de Factor
+
+Antigüedad
+
+1 0.900
+
+2 0.889
+
+3 0.875
+
+4 0.857
+
+5 0.833
+
+6 0.800
+
+7 0.750
+
+8 0.667
+
+9 0.500
+
+El factor de actualización a que se refiere esta fracción, será el correspondiente al período comprendido desde el mes de diciembre del penúltimo año hasta el mes de diciembre inmediato anterior a aquél por el cual se efectúa la actualización, mismo que se obtendrá de conformidad con el artículo 17-A del Código Fiscal de la Federación.
+
+III.- Tratándose de vehículos de servicio particular que pasen a ser de servicio público para transporte de pasajeros y los denominados "taxis", el impuesto estatal sobre tenencia o uso de vehículos se calculará, para el ejercicio fiscal siguiente a aquél en que se dé esta circunstancia conforme al siguiente procedimiento:
+
+a).- El valor total del vehículo se multiplicará por el factor de depreciación de acuerdo al año modelo del vehículo, de conformidad con la tabla establecida en la fracción I de este artículo, y
+
+b).- La cantidad obtenida, conforme al inciso anterior, se actualizará de conformidad con lo dispuesto en la fracción I de este artículo; y el resultado obtenido se multiplicará por el 0.245%.
+
+IV.- Tratándose de embarcaciones, veleros, esquís acuáticos motorizados, motocicletas acuáticas y tablas de oleaje con motor, el impuesto será el que resulte de multiplicar el importe del impuesto causado en el ejercicio fiscal inmediato anterior por el factor de ajuste.
+
+El factor de ajuste será el que resulte de multiplicar el factor de actualización por el factor que le corresponda conforme a los años de antigüedad del vehículo, de acuerdo con la siguiente:
+
+TABLA
+
+Años de Factor
+
+Antigüedad Depreciación
+
+1 0.9250
+
+2 0.8500
+
+3 0.7875
+
+4 0.7250
+
+5 0.6625
+
+6 0.6000
+
+7 0.5500
+
+8 0.5000
+
+9 0.4500
+
+El factor de actualización a que se refiere esta fracción será el correspondiente al período comprendido desde el mes de diciembre del penúltimo año hasta el mes de diciembre inmediato anterior a aquél por el cual se efectúa la actualización, mismo que se obtendrá de conformidad con el artículo 17-A del Código Fiscal de la Federación.
+
+Para los efectos de este Capítulo, los años de antigüedad se calcularán con base en el número de años transcurridos a partir del año modelo al que corresponda el vehículo.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2010)</small>
+
+###### ARTICULO 156
+
+23.- Para determinar el impuesto estatal sobre tenencia o uso de vehículos del año en que los vehículos usados sean importados por primera vez al país, se aplicará el siguiente procedimiento:
+
+I.- Tratándose de vehículos destinados al transporte hasta de 15 pasajeros, es decir de los comprendidos en la fracción I, del artículo 156-22, el impuesto será el que resulte de aplicar al valor total del vehículo, el factor de depreciación y actualización de la citada fracción, y al resultado se aplica la tarifa establecida en la fracción I del artículo 156-21 de esta Ley.
+
+II.- Tratándose de los vehículos a que hace referencia la fracción II y IV, del artículo 156- 22 de esta Ley, el impuesto será el que resulte de aplicar el siguiente procedimiento:
+
+a).- El valor total del vehículo se depreciará de conformidad con la tabla que corresponda para cada tipo de vehículo según lo establecido en la fracciones II y IV, del artículo 156-22.
+
+b).- El resultado se actualizará de conformidad con la fracción I, del artículo 156-22.
+
+c).- A la cantidad obtenida conforme al inciso anterior, se le aplicará la tasa o tarifa que corresponda según el tipo de vehículo de que se trate, de conformidad con el artículo 156-21 del presente Capítulo.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2010)</small>
+
+###### ARTICULO 156
+
+24.- Cuando la enajenación o importación de vehículos nuevos se efectúe después del primer mes del año de calendario, el impuesto por dicho año se pagará en la proporción que resulte de aplicar el factor correspondiente:
+
+Mes de Factor aplicable
+
+adquisición al impuesto
+
+Febrero 0.92
+
+Marzo 0.83
+
+Abril 0.75
+
+Mayo 0.67
+
+Junio 0.58
+
+Julio 0.50
+
+Agosto 0.42
+
+Septiembre 0.33
+
+Octubre 0.25
+
+Noviembre 0.17
+
+Diciembre 0.08
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2010)</small>
+
+### CAPITULO XX. Del Impuesto Estatal sobre Tenencia o Uso de Vehículos
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2010)</small>
+
+###### ARTICULO 156
+
+25.- Cuando el contribuyente del impuesto estatal sobre tenencia o uso de vehículos sufra el robo o pérdida total por accidente, pagará el impuesto correspondiente en proporción al número de meses transcurridos hasta dicha circunstancia, siempre y cuando quede debidamente acreditada la misma ante la autoridad competente; sin que dicha circunstancia origine el derecho de solicitar la devolución o compensación del impuesto, en caso de haberse cubierto el mismo con anterioridad al robo o pérdida total del vehículo.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2010)</small>
+
+###### ARTICULO 156
+
+26.- En los casos en que los contribuyentes obligados a realizar el pago en el Estado de Baja California, demuestren haber cubierto el impuesto estatal sobre tenencia o uso de vehículos correspondiente al año de calendario de que se trate en otra entidad federativa, cuyo objeto grave la tenencia o uso, o bien la propiedad de vehículos, podrá solicitar se acredite el importe cubierto, debiendo pagar, en su caso, la parte proporcional que quede pendiente una vez realizado el cálculo correspondiente al de esta Entidad.
+
+No será sujeto de devolución o compensación, el importe cubierto en exceso en otra Entidad Federativa.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2010)</small>
+
+###### ARTICULO 156
+
+27.- En caso de que no puedan comprobarse los años de antigüedad del vehículo, el impuesto a que se refiere este capítulo, se pagará como si éste fuese nuevo.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2010)</small>
+
+###### ARTICULO 156
+
+28.- No se pagará el impuesto que se establece en el presente Capítulo respecto de los siguientes vehículos:
+
+I.- Los importados temporalmente en los términos de la legislación aduanera.
+
+II.- Los vehículos de los gobiernos centrales de la Federación, Estado o Municipios y aquellos que sean utilizados para la prestación de los servicios públicos de rescate, patrullas, transportes de limpia, pipas de agua, servicios funerarios, y las ambulancias dependientes de entidades públicas o de instituciones de beneficencia autorizadas por las leyes de la materia y los destinados a los cuerpos de bomberos.
+
+III.- Los automóviles al servicio de misiones Diplomáticas y Consulares de carrera extranjeras y de sus agentes diplomáticos y consulares de carrera, excluyendo a los cónsules generales honorarios, cónsules y vicecónsules honorarios, siempre que sea exclusivamente para uso oficial y exista reciprocidad.
+
+IV.- Las embarcaciones dedicadas al transporte mercante o a la pesca comercial.
+
+V.- Las aeronaves monomotoras de una plaza, fabricadas o adaptadas para fumigar, rociar o esparcir líquidos o sólidos, con tolva de carga.
+
+VI.- Las aeronaves con capacidad de más de 20 pasajeros, destinadas al aerotransporte al público en general.
+
+VII.- Los que tengan para su venta los fabricantes, las plantas ensambladoras, sus distribuidores y los comerciantes en el ramo de vehículos, siempre que carezcan de placas de circulación.
+
+VIII.- Los automóviles eléctricos nuevos y usados, así como aquellos que además cuenten con motor de combustión interna o con motor accionado por hidrógeno.
+
+IX.- Los automóviles propiedad de personas con discapacidad debidamente acreditada en los términos que establezca la Secretaría de Planeación y Finanzas del Estado. Un vehículo por persona.
+
+X.- Los Automóviles propiedad de asociaciones civiles que no persigan fines de lucro y de asociaciones religiosas constituidas en los términos de la Ley respectiva, con domicilio en Baja California.
+
+XI.- Las motocicletas.
+
+XII.- Los automóviles propiedad de partidos políticos debidamente registrados conforme a las leyes respectivas.
+
+Cuando por cualquier motivo un vehículo deje de estar comprendido en los supuestos a que se refieren las fracciones anteriores, el propietario del mismo deberá pagar el impuesto correspondiente dentro de los 10 días hábiles siguientes a aquel en que tenga lugar el hecho de que se trate.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2010)</small>
+
+###### ARTICULO 156
+
+29.- Los tenedores o usuarios de los vehículos a que se refieren las fracciones I, II, IX, X y XII, del artículo anterior, para gozar del beneficio que el mismo establece, deberán comprobar ante la Secretaría de Planeación y Finanzas del Estado que se encuentran comprendidos en dichos supuestos, cumpliendo los lineamientos que para tal efecto emita la citada Secretaría.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2010)</small>
+
+###### ARTICULO 156
+
+30.- De la contribución obtenida por concepto del impuesto estatal sobre tenencia o uso de vehículos, corresponderá el 20% a los Municipios del Estado, distribuyéndose en proporción a la recaudación de este impuesto obtenida en cada uno de los Municipios en el ejercicio fiscal anterior. En virtud de ello, este impuesto no se considerará para la determinación de las participaciones a que se refiere el artículo 7° de la Ley de Coordinación Fiscal del Estado de Baja California, ni para el fondo compensatorio a que se refiere el artículo 7° BIS de la citada ley.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2010)</small>
+
+###### ARTICULO 156
+
+31.- Los fabricantes, ensambladores y distribuidores autorizados, así como los comerciantes en el ramo de vehículos, tendrán la obligación de proporcionar a la Secretaría de Planeación y Finanzas, a más tardar el día 17 de cada mes, la información relativa al precio de enajenación al consumidor de cada unidad vendida en territorio del Estado en el mes inmediato anterior, a través de los dispositivos electromagnéticos procesados en los términos que señale dicha Secretaría mediante disposiciones de carácter general.
+
+Los que tengan más de un establecimiento, deberán presentar la información a que se refiere este artículo, haciendo la separación por cada uno de los establecimientos.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2010)</small>
+
+###### ARTICULO 156
+
+32.- Los importes señalados en este capítulo, se actualizarán anualmente en los meses de enero, considerando el factor que se obtenga de dividir el índice nacional de precios al consumidor del mes de diciembre del año inmediato anterior, entre el citado índice correspondiente al mes de diciembre del penúltimo año. La Secretaría de Planeación y Finanzas publicara los importes actualizados.
 
 ## TITULO III. DERECHOS
 
@@ -2528,3 +2888,27 @@ P.O. 5 DE JUNIO DE 2009.
 P.O. 27 DE AGOSTO DE 2010.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 31 DE DICIEMBRE DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto tendrá vigencia del día primero de enero al 31 de diciembre del año dos mil once, por lo que el presente impuesto estatal se considerará establecido a partir de dicha fecha.
+
+En virtud de lo anterior, de conformidad con lo establecido en el segundo párrafo del artículo cuarto transitorio del Decreto que reforma diversas disposiciones fiscales, publicado en el Diario Oficial de la Federación de fecha 21 de diciembre de 2007, a partir del primero de enero de dos mil once se suspenderá la aplicación del impuesto contenido en la Ley del Impuesto Sobre Tenencia o Uso de Vehículos.
+
+###### ARTÍCULO SEGUNDO.
+
+Los pagos del impuesto sobre tenencia o uso de vehículos de ejercicios fiscales de 2010 y anteriores, se realizarán conforme a las disposiciones vigentes en el momento de causación del impuesto.
+
+###### ARTÍCULO TERCERO.
+
+Para efectos del artículo 156-20, fracción III, contenido en el presente Decreto, mientras no se cumplan cinco años de haber entrado en vigor el impuesto estatal sobre tenencia o uso de vehículos, las autoridades y funcionarios a que hace referencia la citada fracción, deberán verificar además el cumplimiento en el pago del impuesto sobre tenencia o uso de vehículos federal que se haya causado en su momento.
+
+###### ARTÍCULO CUARTO.
+
+Para efecto de la distribución a los Municipios, durante el 2011, del fondo derivado de este impuesto a que se refiere el artículo 156-30, se considerará para esta única ocasión la recaudación del impuesto sobre tenencia o uso de vehículos durante el ejercicio fiscal de 2010.
+
+###### ARTÍCULO QUINTO.
+
+Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
