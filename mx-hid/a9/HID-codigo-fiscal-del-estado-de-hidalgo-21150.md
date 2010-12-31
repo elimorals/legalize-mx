@@ -4,7 +4,7 @@ identifier: "HID-codigo-fiscal-del-estado-de-hidalgo-21150"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-12-30"
-last_updated: "2009-12-31"
+last_updated: "2010-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21150&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "HID"
 ---
 # CODIGO FISCAL DEL ESTADO DE HIDALGO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LAS FE DE ERRATAS PUBLICADAS EL 28 DE FEBRERO Y 18 DE ABRIL, AMBAS DE 2011 EN EL P.O. DEL ESTADO DE HIDALGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 CÓDIGO DE FISCAL DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2010.
 
 Código publicado en el Periódico Oficial del Estado de Hidalgo, el sábado 30 de diciembre de 2000.
 
@@ -145,15 +147,17 @@ VIII.- EL DIRECTOR DE RECAUDACIÓN;
 
 IX.- EL DIRECTOR DE EJECUCIÓN FISCAL;
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2005)</small>
+X.- EL DIRECTOR DE COBRO COACTIVO;
 
-X.- LOS COORDINADORES DE LOS CENTROS REGIONALES DE ATENCIÓN AL CONTRIBUYENTE; Y (SIC)
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2010)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE DICIEMBRE DE 2006)</small>
+XI.- LOS COORDINADORES DE LOS CENTROS REGIONALES DE ATENCIÓN AL CONTRIBUYENTE;
 
-XI.- LOS VISITADORES Y AUDITORES FISCALES; Y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2010)</small>
 
-XII.- LAS DEMÁS QUE SEÑALE EL REGLAMENTO INTERIOR DE LA SECRETARÍA DE FINANZAS.
+XII.- LOS NOTIFICADORES-EJECUTORES, AUDITORES Y VISITADORES; Y
+
+XIII.- LAS DEMÁS QUE SEÑALE EL REGLAMENTO INTERIOR DE LA SECRETARIA DE FINANZAS.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2005)</small>
 
@@ -3734,3 +3738,9 @@ P.O. 31 DE DICIEMBRE DE 2009.
 PRIMERO.- El presente Decreto entrará en vigor el día 1° de enero de 2010, previa su Publicación en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2010.
+
+PRIMERO.- El presente Decreto entrará en vigor el día 1 de enero de 2011, previa su Publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.-Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
