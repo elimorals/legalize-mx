@@ -4,7 +4,7 @@ identifier: "BCS-codigo-de-procedimientos-penales-para-el-estado-de-baja-44530"
 country: "mx"
 rank: "codigo"
 publication_date: "2005-09-19"
-last_updated: "2008-07-08"
+last_updated: "2010-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44530&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "BCS"
 ---
 # CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA SUR
+CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 8 DE JULIO DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el domingo 20 de marzo de 2005.
 
@@ -1107,11 +1107,15 @@ XXIII.- Evasión de presos, cuando se dé el auxilio de servidor público, de co
 
 XXIV.- Falsedad en declaraciones realizadas ante el ministerio público o la autoridad judicial, de conformidad a lo establecido en el segundo párrafo del artículo 189 del código penal;
 
-XXV.- Peculado, de conformidad a lo establecido en la fracción II del artículo 154 del código penal; y
+XXV.- Peculado, de conformidad a lo establecido en la fracción II del artículo 154 del código penal; y (sic)
 
 XXVI.- Fraude, cometido en perjuicio de tres o más personas, proveniente del mismo tipo de conducta engañosa.
 
 Se considerarán graves los delitos antes señalados, cualquiera que sea el grado de consumación.
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2010)</small>
+
+XXVIII (SIC).- Despojo contemplado en el artículo 314 del Código Penal.
 
 ###### ARTÍCULO 149.
 
@@ -3616,3 +3620,7 @@ El Ejecutivo del Estado de Baja California Sur, contará con 90 días hábiles p
 ###### ARTÍCULO DÉCIMO SEXTO.
 
 Se derogan las disposiciones que se opongan al presente Decreto.
+
+B.O. 31 DE DICIEMBRE DE 2010.
+
+UNICO.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
