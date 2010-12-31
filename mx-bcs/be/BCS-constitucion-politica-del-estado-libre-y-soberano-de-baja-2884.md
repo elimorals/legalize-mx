@@ -4,7 +4,7 @@ identifier: "BCS-constitucion-politica-del-estado-libre-y-soberano-de-baja-2884"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-15"
-last_updated: "2010-12-20"
+last_updated: "2010-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 2010.
 
 Constitución publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el 15 de enero de 1975.
 
@@ -1075,17 +1075,25 @@ V.- Representar al Gobernador del Estado cuand0 (sic) éste lo estime convenient
 
 VI.- Las demás que les confieran las Leyes.
 
-84.- Para ser Procurador General de Justicia se requiere:
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2010)</small>
 
-I.- Ser ciudadano sudcaliforniano;
+84.- Para ser Procurador General de Justicia del Estado, se requiere:
 
-II.- Tener 30 años de edad como mínimo;
+I.- Ser Ciudadano Sudcaliforniano en pleno ejercicio de sus derechos políticos y civiles, o contar con una residencia efectiva en el Estado no menor de tres años anteriores al día de la designación.
 
-III.- Ser licenciado en Derecho, y acreditar un ejercicio profesional de cinco años, cuando menos;
+II.- Tener 35 años cumplidos el día de la designación;
 
-IV.- Tener modo honesto de vivir; y
+III.- Ser de notoria buena conducta, no haber sido condenado por sentencia irrevocable por delito doloso, ni estar sujeto a proceso penal;
 
-V.- No haber sido condenado por delitos del fuero común intencionales, u oficiales.
+IV.- Tener Titulo de Licenciado en Derecho, expedido por Institución legalmente facultada para ello; con Cedula Profesional, y tener como mínimo 10 años de ejercicio profesional;
+
+V.- No estar suspendido, inhabilitado o hubiese sido destituido por resolución firme como servidor público en esta o en cualquier otra entidad federativa o de la Administración Pública Federal;
+
+VI.- Haber cumplido con el servicio militar nacional;
+
+VII.- Gozar de buena salud; y
+
+VIII.- Abstenerse de hacer uso ilícito de sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares, ni padecer alcoholismo.
 
 85.-
 
@@ -2788,3 +2796,7 @@ B.O. 20 DE DICIEMBRE DE 2010.
 PRIMERO.- El presente decreto entrara en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
 
 SEGUNDO.- Para los efectos del articulo 93 BIS fracción I de contenido en el presente decreto, y para los magistrados que concluyen su periodo durante el primer semestre del año 2011, por única ocasión, el procedimiento de evaluación deberá iniciar con una anticipación no menor a treinta días ni mayor a noventa, de que concluya el periodo constitucional del magistrado de que se trate.
+
+B.O. 31 DE DICIEMBRE DE 2010.
+
+UNICO. El presente decreto entrara en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
