@@ -4,7 +4,7 @@ identifier: "BCN-codigo-civil-para-el-estado-de-baja-california-3324"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "2010-09-10"
+last_updated: "2011-01-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3324&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE SEPTIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE ENERO DE 2011.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -221,17 +221,17 @@ Se tiene derecho de designar un domicilio convencional para el cumplimiento de d
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 2011)</small>
 
 ###### ARTICULO 35.
 
-En el Estado de Baja California, la coordinación del Registro Civil estará a cargo del Jefe del Departamento del Registro Civil. Los Oficiales del Registro Civil o quienes ejerzan sus funciones, en su caso, autorizarán los actos del estado civil y expedirán constancia de las actas relativas a nacimiento, reconocimiento de hijos, adopción, matrimonio, divorcio y defunción de los mexicanos y extranjeros residentes en el territorio nacional; así como anotar las sentencias ejecutorias que se refieran a la tutela, ausencia, presunción de muerte o que se ha perdido la capacidad legal para administrar bienes.
+En el Estado de Baja California, la coordinación del Registro Civil estará a cargo de Director del Departamento del Registro Civil. Los Oficiales del Registro Civil o quienes ejerzan sus funciones, en su caso, autorizarán los actos del estado civil y expedirán constancia de las actas relativas a nacimiento, reconocimiento de hijos, adopción, matrimonio, divorcio, y defunción de los mexicanos y extranjeros residentes en el territorio nacional; así como anotar las sentencias ejecutorias que se refieran a la tutela, ausencia, presunción de muerte o que se ha perdido la capacidad legal para administrar bienes.
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 2011)</small>
 
 ###### ARTICULO 36.
 
-Las actas a que se refiere el artículo anterior se asentarán en formas especiales que se denominarán "Formas del Registro Civil", las que una vez utilizadas se ordenarán cronológicamente con el sistema que autorice el Jefe del Departamento del Registro Civil.
+Las actas a que se refiere el artículo anterior se asentarán en formas especiales que se denominarán "Formas del Registro Civil", las que una vez utilizadas se ordenarán cronológicamente con el sistema que autorice el Director del Departamento del Registro Civil.
 
 > <small>(REFORMADO, P.O. 10 DE MAYO DE 1983)</small>
 
@@ -263,17 +263,17 @@ En las actas del Registro Civil intervendrán el Oficial del Registro Civil o Fu
 
 Las actas del Registro Civil se concretarán exclusivamente al acto o hecho que correspondan y en ellas se hará mención del parentesco de quienes intervienen en relación con los interesados o sujetos de las mismas, en su caso, de acuerdo con las formas impresas que al efecto se establezcan.
 
-> <small>(REFORMADO, P.O. 10 DE MAYO DE 1983)</small>
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 2011)</small>
 
 ###### ARTICULO 42.
 
-Si se perdiere o destruyere alguna de las formas del Registro Civil se sacará inmediatamente copia de alguno de los otros ejemplares, bajo la responsabilidad del Oficial del Registro Civil y del Jefe del Departamento del Registro Civil, para cuyo efecto, el funcionario titular del lugar donde ocurra la pérdida dará el aviso correspondiente, así como al Ministerio Público.
+Si se perdiere o destruyere alguna de las formas del Registro Civil se sacará inmediatamente copia de alguno de los otros ejemplares, bajo la responsabilidad del Oficial del Registro Civil y el Director del Departamento del Registro Civil, para cuyo efecto, el funcionario titular del lugar donde ocurra la pérdida dará el aviso correspondiente, así como al Ministerio Público.
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 2011)</small>
 
 ###### ARTICULO 43.
 
-Las formas del Registro Civil serán suministradas por el Jefe del Departamento del Registro Civil de acuerdo con las necesidades que en número se requieran. De las actas que se levanten en las formas mencionadas los Oficiales del Registro Civil entregarán un ejemplar de ellas al interesado, otro quedará en el archivo de la Oficialía y otro se remitirá al Departamento del Registro Civil. El Jefe del Departamento del Registro Civil, enviará la información relativa de las actas levantadas a la Dirección General del Registro Nacional de Población e Identificación Personal de la Secretaría de Gobernación y a cualquier dependencia que así lo solicite, mediante el sistema de reproducción que estime conveniente.
+Las formas del Registro Civil serán suministradas por el Jefe del Departamento del Registro Civil de acuerdo con las necesidades que en número se requieran. De las actas que se levanten en las formas mencionadas los Oficiales del Registro Civil entregarán un ejemplar de ellas al interesado, otro quedará en el archivo de la Oficialía y otro se remitirá al Director del Departamento del Registro Civil. El Jefe del Departamento del Registro Civil, enviará la información relativa de las actas levantadas a la Dirección General del Registro Nacional de Población e Identificación Personal de la Secretaría de Gobernación y a cualquier dependencia que así lo solicite, mediante el sistema de reproducción que estime conveniente.
 
 > <small>(REFORMADO, P.O. 10 DE MAYO DE 1983)</small>
 
@@ -3085,7 +3085,7 @@ Los tutores y curadores no pueden ser removidos de su cargo sin que previamente 
 
 ###### ARTICULO 461.
 
-La persona menor de dieciocho años de edad, que fuere persona que no tenga capacidad para comprender el significado del hecho, no solo por razón de la edad sino por las demas causas previstas en el artículo 447 de esta Ley, estará sujeto a la tutela, mientras no cumple dieciocho años de edad, si al cumplirse ésta continuare alguna de las hipótesis por las que la persona no tenga capacidad para comprender el significado del hecho se sujetará a nueva tutela, previo juicio de interdicción, en el cual serán oídos el tutor y el curador anteriores.
+La persona menor de dieciocho años de edad, que fuere persona que no tenga capacidad para comprender el significado del hecho, no solo por razón de la edad sino por las demás causas previstas en el artículo 447 de esta Ley, estará sujeto a la tutela, mientras no cumple dieciocho años de edad, si al cumplirse ésta continuare alguna de las hipótesis por las que la persona no tenga capacidad para comprender el significado del hecho se sujetará a nueva tutela, previo juicio de interdicción, en el cual serán oídos el tutor y el curador anteriores.
 
 > <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
@@ -16008,3 +16008,7 @@ P.O. 2 DE JULIO DE 2010.
 P.O. 10 DE SEPTIEMBRE DE 2010.
 
 ÚNICO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 3 DE ENERO DE 2011.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
