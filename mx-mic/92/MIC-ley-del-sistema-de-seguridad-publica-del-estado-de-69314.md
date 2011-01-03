@@ -4,7 +4,7 @@ identifier: "MIC-ley-del-sistema-de-seguridad-publica-del-estado-de-69314"
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-21"
-last_updated: "2009-07-21"
+last_updated: "2011-01-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69314&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DEL SISTEMA DE SEGURIDAD PUBLICA DEL ESTADO DE MICHOACAN DE OCAMPO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE ENERO DE 2011.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Michoacán, el martes 21 de julio de 2009.
 
@@ -199,7 +199,7 @@ V. Coadyuvar en la elaboración del Programa;
 
 VI. Sujetar al personal ministerial, pericial y de confianza a los procedimientos e instancias de selección, ingreso, formación, actualización, capacitación, permanencia, evaluación, reconocimiento, certificación y registro, que se determinen en esta Ley;
 
-VIl. Coadyuvar en la elaboración e implementación del Programa estatal para el desarrollo ministerial, pericial y del personal de confianza;
+VII. Coadyuvar en la elaboración e implementación del Programa estatal para el desarrollo ministerial, pericial y del personal de confianza;
 
 VIII. Coadyuvar en los operativos de seguridad implementados por otras instituciones de Seguridad Pública, brindando el apoyo que conforme a derecho proceda;
 
@@ -299,7 +299,7 @@ V. Proponer la realización de operativos y acciones conjuntas entre corporacion
 
 VI Evaluar el cumplimiento de los objetivos y metas de los programas de Seguridad Pública, de procuración y administración de justicia, de ejecución de la pena y de prevención del delito;
 
-VIl. Proponer y evaluar los mecanismos para el mejor funcionamiento de las instituciones de Seguridad Pública;
+VII. Proponer y evaluar los mecanismos para el mejor funcionamiento de las instituciones de Seguridad Pública;
 
 VIII. Aprobar el desarrollo de los modelos policial preventivo, investigador y pericial en las Instituciones de Seguridad Pública y evaluar sus avances;
 
@@ -415,7 +415,7 @@ V. Elaborar y someter a consideración del Consejo, opinión fundada y razonada 
 
 VI. Proponer al Consejo las políticas, lineamientos, protocolos, acciones y mecanismos que fortalezcan la coordinación y el buen desempeño de las instituciones del Sistema;
 
-VIl. Sugerir a las autoridades competentes para que las instituciones de Seguridad Pública, desarrollen de manera más eficaz sus funciones;
+VII. Sugerir a las autoridades competentes para que las instituciones de Seguridad Pública, desarrollen de manera más eficaz sus funciones;
 
 VIII. Promover, por conducto de las instituciones de Seguridad Pública, la realización de acciones conjuntas, conforme a las bases y reglas que emita el Consejo y sin menoscabo de otras que realicen las autoridades competentes;
 
@@ -481,7 +481,7 @@ I. El diagnóstico de la Seguridad Pública en el ámbito de su competencia;
 
 II. Los objetivos, metas y fundamentos que justifiquen el programa;
 
-IlI. Las estrategias para el logro de los objetivos;
+III. Las estrategias para el logro de los objetivos;
 
 IV. Los subprogramas específicos, las acciones y metas operativas, los mecanismos previstos para la coordinación con entidades o dependencias federales, estatales y municipales, así como aquellos que requieran concertación con los ciudadanos en los términos previstos por esta Ley; y,
 
@@ -521,7 +521,7 @@ V. La descripción del equipo a su cargo y armas que porten con número de regis
 
 VI. Los vehículos que tuvieran asignados, anotándose el número de matrícula, las placas de circulación, la marca, modelo, tipo, número de serie y motor para el registro de los mismos;
 
-VIl. Los cambios de adscripción, actividad o rango del servidor público, así como las razones que lo motivaron; y,
+VII. Los cambios de adscripción, actividad o rango del servidor público, así como las razones que lo motivaron; y,
 
 VIII. Los datos sobre órdenes de aprehensión, autos que resuelvan la situación jurídica, sentencias, sanciones administrativas o resoluciones que modifiquen, confirmen o revoquen cualquiera de las anteriores.
 
@@ -599,7 +599,7 @@ VI. Promover la inclusión de contenidos relativos a la prevención del delito e
 
 VII. Organizar eventos académicos, culturales y deportivos sobre prevención social del delito;
 
-VllI. Coordinarse con otras instancias competentes en la materia para el ejercicio de sus funciones;
+VIII. Coordinarse con otras instancias competentes en la materia para el ejercicio de sus funciones;
 
 IX. Promover la participación ciudadana para el fortalecimiento del Sistema en los términos de esta Ley; y,
 
@@ -701,7 +701,7 @@ I. El Gobernador, quien lo presidirá;
 
 II. El Secretario de Gobierno;
 
-llI. El Secretario de Seguridad Pública;
+III. El Secretario de Seguridad Pública;
 
 IV. El Procurador General de Justicia;
 
@@ -745,7 +745,7 @@ V. Analizar, evaluar, supervisar y autorizar la aplicación de los planes y prog
 
 VI. Aprobar, de acuerdo con las disposiciones legales aplicables, la celebración de convenios, contratos o acuerdos que deba celebrar el Centro en el ámbito de su competencia;
 
-VIl. Aprobar los mecanismos respecto a la formulación, seguimiento y evaluación de los proyectos y programas;
+VII. Aprobar los mecanismos respecto a la formulación, seguimiento y evaluación de los proyectos y programas;
 
 VIII. Aprobar, en su caso, la propuesta del Reglamento Interior del Centro, que formule el Director General, así como los manuales de organización y de procedimientos, y demás reglamentación interna, y someterlos a la aprobación del Gobernador; y,
 
@@ -995,9 +995,9 @@ V. Celebrar los convenios aprobados por el ayuntamiento en materia de Seguridad 
 
 VI Proponer los bandos, manuales y demás ordenamientos para regular la materia de Seguridad Pública;
 
-VIl. Proponer los programas y planes municipales o regionales de Seguridad Pública;
+VII. Proponer los programas y planes municipales o regionales de Seguridad Pública;
 
-VIll. Cuidar el correcto desarrollo de la organización y desempeño de las funciones encomendadas a las corporaciones de Seguridad Pública municipal;
+VIII. Cuidar el correcto desarrollo de la organización y desempeño de las funciones encomendadas a las corporaciones de Seguridad Pública municipal;
 
 IX. Enviar a los aspirantes a ingresar al Instituto, al Centro para su evaluación a fin de que se consideren para formar parte de las corporaciones de Seguridad Pública municipal una vez certificados;
 
@@ -1017,7 +1017,7 @@ XVI. Establecer el Registro del Personal de Policía Preventiva o su equivalente
 
 XVII. Consultar, previo a su contratación, los antecedentes de los aspirantes a ingresar a la Policía Preventiva Municipal, en los Registros Nacional y Estatal de Seguridad Pública;
 
-XVllI. Determinar las acciones de vigilancia en zonas de su competencia, que por su incidencia delictiva lo requieran;
+XVIII. Determinar las acciones de vigilancia en zonas de su competencia, que por su incidencia delictiva lo requieran;
 
 XIX. Adoptar medidas correctivas en caso de funcionamiento deficiente de las corporaciones municipales de Seguridad Pública;
 
@@ -1037,11 +1037,7 @@ XXVI. Las demás que les confieran esta Ley y otras disposiciones normativas apl
 
 ## TÍTULO SEXTO. COORDINACIÓN EN MATERIA DE SEGURIDAD PÚBLICA
 
-CAPÍTULO PRlMERO
-
-COORDINACIÓN
-
-### CAPÍTULO SEGUNDO. CLASIFICACIÓN Y OBLIGACIONES DE LOS CUERPOS DE SEGURIDAD
+### CAPÍTULO PRIMERO. COORDINACIÓN
 
 ###### Artículo 73.
 
@@ -1077,7 +1073,7 @@ En el marco del Programa, por conducto de sus autoridades competentes, se coordi
 
 Será objeto de atención preferente, la coordinación de acciones de prevención, persecución a la delincuencia y la participación ciudadana.
 
-### CAPÍTULO TERCERO. INFORME POLICIAL HOMOLOGADO
+### CAPÍTULO SEGUNDO. CLASIFICACIÓN Y OBLIGACIONES DE LOS CUERPOS DE SEGURIDAD
 
 ###### Artículo 77.
 
@@ -1143,7 +1139,7 @@ VI. Observar un trato respetuoso con todas las personas, debiendo abstenerse de 
 
 VII. Desempeñar su misión sin solicitar ni aceptar compensaciones, pagos o gratificaciones distintas a las previstas legalmente. En particular se opondrán a cualquier acto de corrupción y, en caso de tener conocimiento de alguno, deberán denunciarlo;
 
-Vlll. Abstenerse de ordenar o realizar la detención de persona alguna sin cumplir con los requisitos previstos en los ordenamientos constitucionales y legales aplicables;
+VIII. Abstenerse de ordenar o realizar la detención de persona alguna sin cumplir con los requisitos previstos en los ordenamientos constitucionales y legales aplicables;
 
 IX. Velar por la vida e integridad física de las personas detenidas;
 
@@ -1181,7 +1177,7 @@ XXV. Abstenerse de consumir en sus instalaciones o en el servicio, bebidas embri
 
 XXVI. Abstenerse de realizar conductas que desacrediten su persona o la imagen de las instituciones, dentro o fuera del servicio;
 
-XXVIl. No permitir que personas ajenas a sus instituciones realicen actos inherentes a las atribuciones que tenga encomendadas. Asimismo, no podrá hacerse acompañar de dichas personas al realizar actos del servicio;
+XXVII. No permitir que personas ajenas a sus instituciones realicen actos inherentes a las atribuciones que tenga encomendadas. Asimismo, no podrá hacerse acompañar de dichas personas al realizar actos del servicio;
 
 XXVIII. Obedecer las órdenes de los superiores jerárquicos y cumplir con todas sus obligaciones, siempre y cuando sea conforme a derecho;
 
@@ -1191,7 +1187,7 @@ XXX. Portar uniforme reglamentario para el desempeño de su cargo; y,
 
 XXXI. Los demás que establezcan las disposiciones legales aplicables.
 
-### CAPÍTULO CUARTO. REGISTRO ADMINISTRATIVO DE DETENCIONES
+### CAPÍTULO TERCERO. INFORME POLICIAL HOMOLOGADO
 
 ###### Artículo 86.
 
@@ -1263,7 +1259,7 @@ Todo servidor público tiene la obligación de identificarse salvo los casos pre
 
 Las instituciones de Seguridad Pública serán las responsables de integrar y mantener actualizados los registros de los bancos de datos que mandata la Ley General del Sistema Nacional de Seguridad Pública.
 
-### CAPÍTULO PRIMERO. POLICÍA ESTATAL PREVENTIVA
+### CAPÍTULO CUARTO. REGISTRO ADMINISTRATIVO DE DETENCIONES
 
 ###### Artículo 92.
 
@@ -1325,7 +1321,7 @@ Las instituciones de Seguridad Pública por medio del Centro Estatal de Informac
 
 ## TÍTULO SÉPTIMO. CUERPOS DE SEGURIDAD Y PARTICIPACIÓN CIUDADANA
 
-### CAPÍTULO SEGUNDO. SERVICIOS AUXILIARES
+### CAPÍTULO PRIMERO. POLICÍA ESTATAL PREVENTIVA
 
 ###### Artículo 99.
 
@@ -1375,7 +1371,7 @@ XXI. Informar a la unidad de control interno de las faltas disciplinarias y admi
 
 XXII. Las que les confiera esta Ley y demás disposiciones legales aplicables.
 
-### CAPÍTULO TERCERO. POLICÍA AUXILIAR
+### CAPÍTULO SEGUNDO. SERVICIOS AUXILIARES
 
 ###### Artículo 100.
 
@@ -1389,7 +1385,7 @@ III. Los servicios privados de seguridad; y,
 
 IV. Los demás que se constituyan conforme a la legislación de la materia.
 
-### CAPÍTULO CUARTO. SERVICIOS DE SEGURIDAD PRIVADA
+### CAPÍTULO TERCERO. POLICÍA AUXILIAR
 
 ###### Artículo 101.
 
@@ -1413,31 +1409,27 @@ Las personas que ya laboran como Policías Auxiliares deberán someterse a los e
 
 Los costos de los servicios de registro, revalidación, capacitación, certificación y evaluación realizados por el Centro y los institutos, serán pagados por el organismo público descentralizado, sectorizado a la Secretaría.
 
-### CAPÍTULO QUINTO. PARTICIPACIÓN CIUDADANA
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE SEGURIDAD PRIVADA DEL ESTADO DE MICHOACAN DE OCAMPO, P.O. 3 DE ENERO DE 2011)</small>
+
+### CAPÍTULO CUARTO. SERVICIOS DE SEGURIDAD PRIVADA
 
 ###### Artículo 106.
 
-Además de cumplir con las disposiciones legales aplicables, los particulares que presten servicios de seguridad, protección, vigilancia o custodia de personas, lugares o establecimientos, de bienes o valores, incluido su traslado; deberán obtener autorización previa de la Secretaría.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE SEGURIDAD PRIVADA DEL ESTADO DE MICHOACAN DE OCAMPO, P.O. 3 DE ENERO DE 2011)
 
 ###### Artículo 107.
 
-Los servicios de seguridad privada son auxiliares a la función de Seguridad Pública. Sus integrantes coadyuvarán con las autoridades y las instituciones de Seguridad Pública en situaciones de urgencia, desastre o cuando así lo solicite la autoridad competente del Estado y los municipios.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE SEGURIDAD PRIVADA DEL ESTADO DE MICHOACAN DE OCAMPO, P.O. 3 DE ENERO DE 2011)
 
 ###### Artículo 108.
 
-Los particulares que se dediquen a estos servicios, así como el personal que utilicen, se regirán en lo conducente, por las normas de esta Ley y las demás aplicables que se establecen para las instituciones de Seguridad Pública; incluyendo los principios de actuación y desempeño y la obligación de aportar los datos para el registro de su personal y equipo y, en general, proporcionar la información estadística y sobre la delincuencia al Centro Nacional y Estatal de Información.
-
-Los costos de los servicios de registro, revalidación, capacitación, evaluación por parte del Centro y de los institutos, así como la certificación, serán pagados por parte de la empresa que requiera el servicio.
-
-Las empresas de seguridad privada tendrán la obligación de que su personal sea sometido a procedimientos de evaluación y control de confianza por parte del Centro.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE SEGURIDAD PRIVADA DEL ESTADO DE MICHOACAN DE OCAMPO, P.O. 3 DE ENERO DE 2011)
 
 ###### Artículo 109.
 
-No podrá prestar el servicio de seguridad privada la persona que no acredite los exámenes y evaluaciones que le sean practicados por el Centro y no cuente con el Certificado.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE SEGURIDAD PRIVADA DEL ESTADO DE MICHOACAN DE OCAMPO, P.O. 3 DE ENERO DE 2011)
 
-Si la persona ya se encuentra prestando el servicio de seguridad privada, deberá acreditar los exámenes y evaluaciones que le sean practicados por el Centro; en caso de no aprobarlos y no contar con el Certificado causará baja inmediata.
-
-### CAPÍTULO PRIMERO. ACADEMIAS E INSTITUTOS
+### CAPÍTULO QUINTO. PARTICIPACIÓN CIUDADANA
 
 ###### Artículo 110.
 
@@ -1503,7 +1495,7 @@ El Centro Estatal de Información deberá proporcionar la información necesaria
 
 ## TÍTULO OCTAVO. DESARROLLO Y PROFESIONALIZACIÓN
 
-### CAPÍTULO SEGUNDO. SISTEMAS COMPLEMENTARIOS DE SEGURIDAD SOCIAL
+### CAPÍTULO PRIMERO. ACADEMIAS E INSTITUTOS
 
 ###### Artículo 119.
 
@@ -1569,7 +1561,7 @@ VIII. La revalidación de equivalencias de estudios de la profesionalización en
 
 IX Las demás que establezcan otras disposiciones legales.
 
-### CAPÍTULO TERCERO. CONDECORACIONES Y ESTÍMULOS
+### CAPÍTULO SEGUNDO. SISTEMAS COMPLEMENTARIOS DE SEGURIDAD SOCIAL
 
 ###### Artículo 122.
 
@@ -1587,9 +1579,9 @@ V. Gozar de un trato digno y decoroso por parte de sus superiores jerárquicos;
 
 VI Recibir el respeto y la atención de la comunidad a la que sirven;
 
-VIl. Contar con la capacitación y adiestramiento necesarios para ser un policía de carrera;
+VII. Contar con la capacitación y adiestramiento necesarios para ser un policía de carrera;
 
-VllI. Recibir tanto el equipo como el uniforme reglamentarios sin costo alguno;
+VIII. Recibir tanto el equipo como el uniforme reglamentarios sin costo alguno;
 
 IX. Participar en los concursos de promoción o someterse a evaluación curricular para ascender a la jerarquía inmediata superior;
 
@@ -1609,7 +1601,7 @@ XV. Los demás que les confieran las Leyes y reglamentos de la materia.
 
 El Estado podrá destinar reservas territoriales para desarrollar unidades habitacionales para los miembros de las instituciones de Seguridad Pública.
 
-### CAPÍTULO CUARTO. DESARROLLO POLICIAL
+### CAPÍTULO TERCERO. CONDECORACIONES Y ESTÍMULOS
 
 ###### Artículo 124.
 
@@ -1659,7 +1651,7 @@ Los elementos que hayan recibido alguna de las condecoraciones, tendrán derecho
 
 Los estímulos y recompensas se ajustarán a lo establecido en el Presupuesto de Egresos y se otorgarán a los elementos que se hayan distinguido por su asistencia, puntualidad, buena conducta, antigüedad, disposición y eficacia en el desempeño de sus funciones
 
-### CAPÍTULO QUINTO. CARRERA POLICIAL Y PROFESIONALIZACIÓN
+### CAPÍTULO CUARTO. DESARROLLO POLICIAL
 
 ###### Artículo 132.
 
@@ -1677,7 +1669,9 @@ Los integrantes de las instituciones de Seguridad Pública podrán ser separados
 
 Tal circunstancia será registrada en el Registro Nacional correspondiente.
 
-Artículo135. Las instituciones de Seguridad Pública, para el mejor cumplimiento de sus objetivos, desarrollarán, cuando menos, las siguientes funciones:
+###### Artículo 135.
+
+Las instituciones de Seguridad Pública, para el mejor cumplimiento de sus objetivos, desarrollarán, cuando menos, las siguientes funciones:
 
 I. Investigación: será la encargada de la investigación a través de sistemas homologados de recolección, clasificación, registro, análisis, evaluación y explotación de información;
 
@@ -1737,7 +1731,7 @@ IV. Preservar los indicios y elementos de prueba que la víctima y ofendido apor
 
 V. Asegurar que puedan llevar a cabo la identificación del imputado sin riesgo para ellos.
 
-### CAPÍTULO SEXTO. RÉGIMEN DISCIPLINARIO
+### CAPÍTULO QUINTO. CARRERA POLICIAL Y PROFESIONALIZACIÓN
 
 ###### Artículo 139.
 
@@ -1873,7 +1867,7 @@ V. La permanencia de los integrantes en las Instituciones de Seguridad Pública 
 
 VI. Los méritos de los integrantes de las instituciones de Seguridad Pública serán evaluados por las instancias encargadas de determinar las promociones y verificar que se cumplan los requisitos de permanencia, señaladas en las leyes respectivas;
 
-VIl. Para la promoción de los integrantes de las Instituciones de Seguridad Pública se deberán considerar, por lo menos, los resultados obtenidos en los programas de profesionalización, los méritos demostrados en el desempeño de sus funciones y sus aptitudes de mando y liderazgo;
+VII. Para la promoción de los integrantes de las Instituciones de Seguridad Pública se deberán considerar, por lo menos, los resultados obtenidos en los programas de profesionalización, los méritos demostrados en el desempeño de sus funciones y sus aptitudes de mando y liderazgo;
 
 VIII. Los integrantes podrán ser cambiados de adscripción, con base en las necesidades del servicio;
 
@@ -2063,7 +2057,7 @@ La profesionalización es el proceso permanente y progresivo de formación que s
 
 Los planes de estudio para la profesionalización se integrarán por el conjunto de contenidos estructurados en unidades didácticas de enseñanza aprendizaje que estarán comprendidos en el programa rector que apruebe la Conferencia Nacional de Secretarios de Seguridad Pública, a propuesta de su Presidente.
 
-### CAPÍTULO SÉPTIMO. SERVICIO DE CARRERA MINISTERIAL Y PERICIAL
+### CAPÍTULO SEXTO. RÉGIMEN DISCIPLINARIO
 
 ###### Artículo 172.
 
@@ -2111,7 +2105,7 @@ La comisión de Honor y Justicia conocerá y resolverá toda controversia que se
 
 En la Procuraduría se integrará una instancia equivalente, en las que intervengan representantes de los policías ministeriales.
 
-### CAPÍTULO OCTAVO. INGRESO AL SERVICIO DE CARRERA MINISTERIAL Y PERICIAL
+### CAPÍTULO SÉPTIMO. SERVICIO DE CARRERA MINISTERIAL Y PERICIAL
 
 ###### Artículo 179.
 
@@ -2157,7 +2151,7 @@ IX. Contendrá las normas para el registro y el reconocimiento de los certificad
 
 X Contendrá las normas para el registro de las incidencias del personal.
 
-### CAPÍTULO NOVENO. DESARROLLO DEL SERVICIO DE CARRERA MINISTERIAL Y PERICIAL
+### CAPÍTULO OCTAVO. INGRESO AL SERVICIO DE CARRERA MINISTERIAL Y PERICIAL
 
 ###### Artículo 182.
 
@@ -2213,7 +2207,7 @@ Los aspirantes a ingresar al Servicio de Carrera de la Procuraduría, deberán c
 
 La duración de los programas de formación inicial no podrá ser inferior a quinientas horas clase.
 
-### CAPÍTULO DÉCIMO. TERMINACIÓN DEL SERVICIO DE CARRERA MINISTERIAL Y PERICIAL
+### CAPÍTULO NOVENO. DESARROLLO DEL SERVICIO DE CARRERA MINISTERIAL Y PERICIAL
 
 ###### Artículo 187.
 
@@ -2243,7 +2237,7 @@ Los resultados de los procesos de evaluación y los expedientes que se formen co
 
 Las solicitudes de reincorporación al servicio de carrera se analizarán y en su caso, concederán con arreglo a lo que establezcan las leyes respectivas, siempre que el motivo de la baja haya sido por causas distintas al incumplimiento a los requisitos de permanencia o al seguimiento de un proceso de responsabilidad administrativa o penal, local o federal
 
-### CAPÍTULO DÉCIMO PRIMERO. PROFESIONALIZACIÓN DEL PERSONAL MINISTERIAL Y PERICIAL
+### CAPÍTULO DÉCIMO. TERMINACIÓN DEL SERVICIO DE CARRERA MINISTERIAL Y PERICIAL
 
 ###### Artículo 190.
 
@@ -2269,7 +2263,7 @@ En caso de que los órganos jurisdiccionales determinen que la resolución por l
 
 Tal circunstancia será inscrita en el Registro Nacional correspondiente.
 
-### CAPÍTULO DÉCIMO SEGUNDO. CERTIFICACIÓN DEL PERSONAL MINISTERIAL Y PERICIAL
+### CAPÍTULO DÉCIMO PRIMERO. PROFESIONALIZACIÓN DEL PERSONAL MINISTERIAL Y PERICIAL
 
 ###### Artículo 192.
 
@@ -2287,7 +2281,7 @@ En materia de programas de profesionalización y planes de estudio, la Procuradu
 
 Los servidores públicos de la Procuraduría están obligados a participar en las actividades académicas de profesionalización que determine la institución respectiva, los cuales deberán cubrir un mínimo de sesenta horas clase anuales.
 
-### CAPÍTULO PRIMERO. RESPONSABILIDADES
+### CAPÍTULO DÉCIMO SEGUNDO. CERTIFICACIÓN DEL PERSONAL MINISTERIAL Y PERICIAL
 
 ###### Artículo 196.
 
@@ -2337,7 +2331,7 @@ En caso de que el Centro Estatal de Evaluación, Acreditación y Control de Conf
 
 ## TÍTULO NOVENO. RESPONSABILIDADES Y SANCIONES ADMINISTRATIVAS
 
-### CAPÍTULO SEGUNDO. SANCIONES ADMINISTRATIVAS
+### CAPÍTULO PRIMERO. RESPONSABILIDADES
 
 ###### Artículo 203.
 
@@ -2350,6 +2344,8 @@ La Auditoría Superior del Estado fiscalizará los recursos y programas que ejer
 ###### Artículo 205.
 
 Los municipios destinarán los recursos del fondo federal de aportaciones para la Seguridad Pública, de manera primordial, cuando menos en un cincuenta por ciento, a la Seguridad Pública.
+
+### CAPÍTULO SEGUNDO. SANCIONES ADMINISTRATIVAS
 
 ###### Artículo 206.
 
@@ -2448,3 +2444,23 @@ DADO EN EL SALÓN DE SESIONES DEL PODER LEGISLATIVO, en Morelia, Michoacán de O
 En cumplimiento a lo dispuesto por la fracción I, del artículo 60 de la Constitución Política del Estado de Michoacán de Ocampo, y para su debida publicación y observancia, promulgo el presente Decreto, en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 20 veinte días del mes de julio del año 2009 dos mil nueve.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LEONEL GODOY RANGEL.- EL SECRETARIO DE GOBIERNO.- FIDEL CALDERÓN TORREBLANCA. (Firmados).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 3 DE ENERO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+El Gobernador del Estado contará con ciento ochenta días a partir de la entrada en vigor del presente Decreto para elaborar los reglamentos respectivos.
+
+###### ARTÍCULO TERCERO.
+
+Se deroga del Título Séptimo, el Capítulo Cuarto denominado Servicios de Seguridad Privada, de la Ley del Sistema de Seguridad Pública del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO CUARTO.
+
+Las personas físicas o morales que presten servicios actualmente de seguridad privada en el Estado de Michoacán, contarán con ciento ochenta días naturales, contados a partir de la entrada en vigor de la presente Ley, para apegarse a la misma.
