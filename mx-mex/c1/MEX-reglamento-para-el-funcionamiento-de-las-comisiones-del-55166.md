@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-para-el-funcionamiento-de-las-comisiones-del-55166"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-04-04"
-last_updated: "2009-01-08"
+last_updated: "2011-01-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55166&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO PARA EL FUNCIONAMIENTO DE LAS COMISIONES DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 8 DE ENERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 4 DE ENERO DE 2011.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el miércoles 4 de abril de 2007.
 
@@ -77,357 +77,1087 @@ LIC. ARMANDO LÓPEZ SALINAS
 
 REGLAMENTO PARA EL FUNCIONAMIENTO DE LAS COMISIONES DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DEL ESTADO DE MÉXICO
 
-(ABROGADO [N. DE E. DEROGADO] POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA EL FUNCIONAMIENTO DE LAS COMISIONES DEL CONSEJO GENERAL, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 27 DE NOVIEMBRE DE 2008)
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
 
 # LIBRO PRIMERO. DISPOSICIONES GENERALES DE LAS COMISIONES DEL CONSEJO GENERAL
 
-(ABROGADO [N. DE E. DEROGADO] POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA EL FUNCIONAMIENTO DE LAS COMISIONES DEL CONSEJO GENERAL, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 27 DE NOVIEMBRE DE 2008)
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
 
 ## TÍTULO PRIMERO. DISPOSICIONES PRELIMINARES
 
-###### Artículo 1.
-
-1. (ABROGADO [N. DE E. DEROGADO] POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA EL FUNCIONAMIENTO DE LAS COMISIONES DEL CONSEJO GENERAL, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 27 DE NOVIEMBRE DE 2008)
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
 
 ###### Artículo 1.
 
-2. (ABROGADO [N. DE E. DEROGADO] POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA EL FUNCIONAMIENTO DE LAS COMISIONES DEL CONSEJO GENERAL, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 27 DE NOVIEMBRE DE 2008)
+1. El presente libro tiene por objeto reglamentar de manera general, la organización y funcionamiento de las Comisiones del Consejo General del Instituto Electoral del Estado de México, así como regular las funciones y atribuciones de cada uno de sus integrantes; el desarrollo de las sesiones y reuniones de trabajo.
 
-(ABROGADO [N. DE E. DEROGADO] POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA EL FUNCIONAMIENTO DE LAS COMISIONES DEL CONSEJO GENERAL, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 27 DE NOVIEMBRE DE 2008)
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
+
+###### Artículo 1.
+
+2. Para la interpretación de las disposiciones del presente reglamento, se estará a los criterios establecidos en el artículo 2 del Código Electoral del Estado de México, y a los principios rectores del Instituto.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
 
 ## TÍTULO SEGUNDO. DE LAS COMISIONES
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
+
 ###### Artículo 1.
 
-3. (ABROGADO [N. DE E. DEROGADO] POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA EL FUNCIONAMIENTO DE LAS COMISIONES DEL CONSEJO GENERAL, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 27 DE NOVIEMBRE DE 2008)
+3. El Consejo General de conformidad a lo dispuesto en el artículo 93 del Código Electoral, integrará las comisiones que considere necesarias para el desempeño de sus atribuciones.
 
-(ABROGADO [N. DE E. DEROGADO] POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA EL FUNCIONAMIENTO DE LAS COMISIONES DEL CONSEJO GENERAL, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 27 DE NOVIEMBRE DE 2008)
+I. Las Comisiones Permanentes serán aquéllas que por sus atribuciones requieren de un trabajo frecuente, siendo éstas:
+
+a) La Comisión de Organización y Capacitación;
+
+b) La Comisión de Vigilancia de las Actividades Administrativas y Financieras;
+
+c) La Comisión de Acceso a Medios, Propaganda y Difusión;
+
+d) La Comisión del Servicio Electoral Profesional; y
+
+e) La Comisión de Promoción y Difusión de la Cultura Política y Democrática.
+
+Los integrantes deberán nombrarse al inicio de cada proceso electoral, en ningún caso podrá recaer la presidencia en el Consejero Electoral que ocupó dicho cargo.
+
+II. Las Comisiones Especiales serán aquéllas que se conformarán para la atención de las actividades sustantivas del Instituto que por su especial naturaleza, no tienen el carácter de permanente. En su acuerdo de creación el Consejo General, deberá establecer los motivos de creación, objetivos y tiempos de funcionamiento. Entre las que de manera enunciativa y no limitativa, estarán:
+
+a) La Comisión de Vigilancia para la Actualización, Depuración y Verificación del Padrón y Lista Nominal de Electores;
+
+b) La Comisión Dictaminadora del Registro de Partidos Políticos; y
+
+c) La Comisión para la Demarcación Distrital Electoral.
+
+III. Las Comisiones Temporales serán aquéllas que se formen para atender asuntos derivados de situaciones particulares o extraordinarias, casos fortuitos o de fuerza mayor, que no puedan ser atendidos por las demás comisiones, debiéndose establecer en el acuerdo correspondiente los motivos de su creación, objetivos, propósitos y tiempo de vigencia.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
 
 ### CAPÍTULO I. De la Integración de las Comisiones
 
-###### Artículo 1.
-
-4. (ABROGADO [N. DE E. DEROGADO] POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA EL FUNCIONAMIENTO DE LAS COMISIONES DEL CONSEJO GENERAL, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 27 DE NOVIEMBRE DE 2008)
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
 
 ###### Artículo 1.
 
-5. (ABROGADO [N. DE E. DEROGADO] POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA EL FUNCIONAMIENTO DE LAS COMISIONES DEL CONSEJO GENERAL, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 27 DE NOVIEMBRE DE 2008)
+4. Las Comisiones serán integradas por:
+
+I. Tres Consejeros, con derecho a voz y voto, designados por el Consejo General;
+
+II. Los representantes, propietarios y suplentes de los partidos políticos y coaliciones, que acrediten por escrito los representantes ante el Consejo General quienes tendrán derecho a voz; y
+
+III. Un Secretario Técnico, con derecho a voz informativa, quien será designado por el Consejo General en función de la Comisión de que se trate.
+
+La aprobación de todos los acuerdos y dictámenes deberá ser con el voto de al menos dos de los integrantes, y preferentemente con el consenso de los partidos y coaliciones.
+
+Bajo ninguna circunstancia las circulares, proyectos de acuerdo o de dictamen que emitan, tendrán obligatoriedad, salvo el caso de que sean aprobadas por el Consejo General. Sólo en este supuesto podrán ser publicados en la "Gaceta del Gobierno".
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
 
 ###### Artículo 1.
 
-6. (ABROGADO [N. DE E. DEROGADO] POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA EL FUNCIONAMIENTO DE LAS COMISIONES DEL CONSEJO GENERAL, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 27 DE NOVIEMBRE DE 2008)
+5. El Presidente de la Comisión será suplido por el Consejero que le siga en la lista de integración de la Comisión, en los siguientes casos:
+
+I. En ausencias temporales, por incapacidad médica, cuando exista algún caso urgente que tratar; y
+
+II. En ausencias temporales por incapacidad medica, por más de diez días naturales.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
+
+###### Articulo 1.
+
+6. En el Acuerdo del Consejo General a que se refiere el artículo 93 del Código de la materia y que aprueba la integración de las Comisiones, deberá señalarse quien suple las ausencias del Secretario Técnico.
+
+En caso de ausencia del Secretario Técnico y de su suplente, el Presidente de la Comisión podrá habilitar a otro Director, Titular de Unidad, Subdirector, así como cualquier otro funcionario electoral de la misma área de adscripción de la Comisión de que se trate.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
 
 ###### Artículo 1.
 
-7. (ABROGADO [N. DE E. DEROGADO] POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA EL FUNCIONAMIENTO DE LAS COMISIONES DEL CONSEJO GENERAL, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 27 DE NOVIEMBRE DE 2008)
+7. El Presidente y el Secretario Técnico de la Comisión, serán suplidos en su ausencia definitiva por quien designe el Consejo General.
 
-(ABROGADO [N. DE E. DEROGADO] POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA EL FUNCIONAMIENTO DE LAS COMISIONES DEL CONSEJO GENERAL, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 27 DE NOVIEMBRE DE 2008)
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
 
 ### CAPÍTULO II. Atribuciones de los Integrantes de las Comisiones
 
-###### Artículo 1.
-
-8. (ABROGADO [N. DE E. DEROGADO] POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA EL FUNCIONAMIENTO DE LAS COMISIONES DEL CONSEJO GENERAL, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 27 DE NOVIEMBRE DE 2008)
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
 
 ###### Artículo 1.
 
-9. (ABROGADO [N. DE E. DEROGADO] POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA EL FUNCIONAMIENTO DE LAS COMISIONES DEL CONSEJO GENERAL, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 27 DE NOVIEMBRE DE 2008)
+8. Al Presidente de cada Comisión, corresponde las siguientes atribuciones:
+
+I. Presidir las sesiones y reuniones de trabajo y adoptar las medidas que estime necesarias para su adecuado desarrollo;
+
+II. Convocar por escrito, conjuntamente con el Secretario Técnico, a sesiones y reuniones de trabajo;
+
+III. Convocar a sesiones o reuniones de trabajo por iniciativa propia o a solicitud de los otros dos Consejeros o de tres representantes de partidos políticos o coaliciones;
+
+IV. Suspender las sesiones o reuniones de trabajo antes de su celebración, por causas que impidan;
+
+V. Declarar el inicio, receso y término de las sesiones y reuniones de trabajo;
+
+VI. Suspender las sesiones o reuniones de trabajo antes de su celebración, por causas que impidan su desarrollo;
+
+VII. Supervisar el cumplimiento del orden del día;
+
+VIII. Regular en las sesiones y reuniones de trabajo de la Comisión las intervenciones de los participantes, en el orden en que se solicite;
+
+IX. Proponer la participación de cualquier servidor electoral y expertos, a fin de auxiliar en la materia que sea de su conocimiento y que se requiera para el desarrollo de la sesión o reunión de trabajo;
+
+X. Consultar con el Secretario Ejecutivo General, por iniciativa propia o a solicitud de los otros dos Consejeros o de tres representantes de partidos políticos o coaliciones, los asuntos que tengan impacto en el presupuesto del Instituto Electoral del Estado de México;
+
+XI. Firmar, con el Secretario Técnico y los demás integrantes de la Comisión, los proyectos de acuerdos, resoluciones y dictámenes, emitidos por la Comisión;
+
+XII. Solicitar al Secretario Ejecutivo General del Instituto, de acuerdo a la disponibilidad presupuestal y de recursos humanos, el apoyo al ejercicio de sus funciones y de la Comisión;
+
+XIII. Nombrar al Secretario Técnico en caso de ausencia del Secretario Técnico Titular y de su Suplente;
+
+XIV. Proporcionar a los integrantes de la Comisión la información necesaria para el desarrollo óptimo de sus actividades; Para el caso de atender asuntos derivados de situaciones particulares o extraordinarias, casos fortuitos o de fuerza mayor que no puedan ser atendidos por las demás comisiones, deberá establecerse en el acuerdo correspondiente;
+
+XV. Analizar y dictaminar las reformas o adiciones a este Reglamento y someterlas a consideración del Consejo General;
+
+XVI. Dar seguimiento al cumplimiento de los acuerdos, resoluciones y dictámenes aprobados por el Consejo General, que correspondan a la materia de la Comisión;
+
+XVII. Instruir al Secretario Técnico para que notifique los acuerdos de la Comisión respectiva, y (sic)
+
+XVIII. (DEROGADO, G.G. 4 DE ENERO DE 2011)
+
+XIX. Las que le establecen otras disposiciones jurídicas y las que le encomiende el Consejo General.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
 
 ###### Artículo 1.
 
-10. (ABROGADO [N. DE E. DEROGADO] POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA EL FUNCIONAMIENTO DE LAS COMISIONES DEL CONSEJO GENERAL, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 27 DE NOVIEMBRE DE 2008)
+9. Al Secretario Técnico de cada Comisión, corresponde las siguientes atribuciones:
+
+I. Auxiliar a la Comisión y a su Presidente en el ejercicio de sus atribuciones;
+
+II. Acordar con el Presidente de la Comisión la elaboración del orden del día de las sesiones y reuniones de trabajo;
+
+III. Integrar los expedientes de los asuntos que deben tratarse en las sesiones o reuniones de trabajo, solicitando previamente por escrito la documentación correspondiente;
+
+IV. Elaborar los proyectos de acuerdos, resoluciones y dictámenes en los asuntos que le competan a la comisión;
+
+V. Preparar la convocatoria a las sesiones o reuniones de trabajo;
+
+VI. Convocar por escrito conjuntamente con el Presidente a sesiones y reuniones de trabajo;
+
+VII. Notificar oportunamente la convocatoria;
+
+VIII. Pasar lista de asistencia y declarar la existencia de quorum legal en las sesiones de la Comisión;
+
+IX. Dar cuenta de las actuaciones y circunstancias que se susciten en las sesiones de la Comisión;
+
+X. Recabar el sentido del consenso y de la votación de los proyectos de acuerdos, resoluciones y dictámenes emitidos por la Comisión;
+
+XI. Recabar la firma de los Consejeros de la Comisión en los proyectos de acuerdos, resoluciones y dictámenes aprobados por el Consejo General, que correspondan a la materia de la Comisión; y
+
+XII. Levantar el acta correspondiente de las sesiones que realice la Comisión, someterla a la aprobación y firmarla en unión de los demás integrantes. La versión estenográfica hará las veces de acta;
+
+XIII. Levantar la minuta de las reuniones de trabajo de la Comisión;
+
+XIV. Firmar con los Consejeros, los proyectos de acuerdos, resoluciones y dictámenes, emitidos por la comisión;
+
+XV. Rendir los informes de la Secretaría Técnica en las sesiones;
+
+XVI. Informar a los integrantes de la Comisión sobre la cumplimentación de las circulares, acuerdos y dictámenes de la Comisión;
+
+XVII. Por instrucciones del Presidente, proporcionar, la información necesaria a los integrantes de la Comisión para el desarrollo de sus actividades;
+
+XVIII. Solicitar a la Secretaría Ejecutiva General y a la Dirección Jurídico-Consultiva, su opinión no vinculatoria respecto de los proyectos de acuerdos, resoluciones y dictámenes;
+
+XIX. Enviar a la Secretaría Ejecutiva General, los proyectos de acuerdos, resoluciones y dictámenes aprobados por la Comisión, para someterlos a consideración del Consejo General;
+
+XX. Enviar a la Secretaría Ejecutiva General, los informes para los efectos conducentes;
+
+XXI. Llevar el registro de las acreditaciones y sustituciones de los representantes de los partidos políticos y coaliciones ante la Comisión;
+
+XXII. Resguardar temporalmente el archivo de la Comisión y en su momento enviarlo a la Secretaría Ejecutiva General; y
+
+XXIII. Las que le establecen otras disposiciones jurídicas y las que le encomiende el Consejo General.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
 
 ###### Artículo 1.
 
-11. (ABROGADO [N. DE E. DEROGADO] POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA EL FUNCIONAMIENTO DE LAS COMISIONES DEL CONSEJO GENERAL, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 27 DE NOVIEMBRE DE 2008)
+10. Corresponde a los Consejeros integrantes de las Comisiones, las siguientes atribuciones:
 
-(ABROGADO [N. DE E. DEROGADO] POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA EL FUNCIONAMIENTO DE LAS COMISIONES DEL CONSEJO GENERAL, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 27 DE NOVIEMBRE DE 2008)
+I. Participar en las deliberaciones de las sesiones y reuniones de trabajo de la Comisión, para resolver colegiadamente los asuntos de su competencia;
+
+II. Solicitar al Presidente conjuntamente con otro Consejero integrante de la Comisión, se convoque a sesiones y reuniones de trabajo, proponiendo el orden del día;
+
+III. Solicitar al Presidente de la Comisión, hasta antes de su aprobación, el retiro de algún asunto del orden del día;
+
+IV. Solicitar al Presidente de la Comisión la inclusión de algún asunto al proyecto del orden del día hasta antes de su aprobación;
+
+V. Solicitar al Secretario Técnico, la información adicional en asuntos relacionados con la materia de la Comisión;
+
+VI. Proponer la participación de cualquier servidor electoral y expertos, a fin de auxiliar en la materia que sea de su conocimiento y que se requiera para el desarrollo de la sesión o reunión de trabajo;
+
+VII. Proponer al Presidente de la Comisión, mociones de orden;
+
+VIII. Solicitar al Presidente de la Comisión, decrete recesos en las sesiones o reuniones de trabajo, o someter a votación la suspensión de la misma;
+
+XIX. Votar los proyectos de acuerdos, resoluciones y dictámenes que se sometan a consideración en la Comisión sin que pueda abstenerse;
+
+X. Firmar, los proyectos de acuerdos, resoluciones y dictámenes, emitidos por la Comisión;
+
+XI. Firmar las actas de las sesiones una vez aprobadas; y XIII. Las que le establecen otras disposiciones jurídicas y las que le encomiende el Consejo General; (sic)
+
+XII. Las que le establecen otras disposiciones jurídicas y las que el (sic) encomiende el Consejo General.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
+
+###### Artículo 1.
+
+11. Corresponde a los representantes de los partidos políticos y coaliciones ante las Comisiones, las siguientes atribuciones:
+
+I. Participar en las sesiones y reuniones de trabajo;
+
+II. Solicitar al Presidente, conjuntamente con un mínimo de otros dos representantes de partidos políticos o coaliciones en la comisión, se convoque a sesiones y reuniones de trabajo, proponiendo el orden del día;
+
+III. Solicitar al Presidente de la Comisión, la inclusión de algún asunto al proyecto del orden del día hasta antes de su aprobación;
+
+IV. Solicitar al Secretario Técnico, información adicional en asuntos relacionados con la materia de la Comisión;
+
+V. Solicitar al Presidente de la Comisión, se retire algún punto del proyecto del orden del día, hasta antes de su aprobación;
+
+VI. Proponer la participación de cualquier servidor electoral y expertos, a fin de auxiliar en la materia que sea de su conocimiento y que se requiera para el desarrollo de la sesión o reunión de trabajo;
+
+VII. Participar en la discusión de los asuntos contenidos en el proyecto del orden del día;
+
+VIII. Solicitar al Presidente de la Comisión, decrete recesos en las sesiones o reuniones de trabajo, o someter a votación la suspensión de la misma;
+
+IX. Manifestarse a favor o en contra de la aprobación de los proyectos de acuerdos, resoluciones y dictámenes sometidos a la comisión;
+
+X. Firmar las actas de las sesiones una vez aprobadas;
+
+XI. Proponer al Presidente de la Comisión mociones de orden; y
+
+XII. Las que le establecen otras disposiciones jurídicas y las que le encomiende el Consejo General.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
 
 ## TÍTULO TERCERO. DEL FUNCIONAMIENTO DE LAS COMISIONES
 
-(ABROGADO [N. DE E. DEROGADO] POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA EL FUNCIONAMIENTO DE LAS COMISIONES DEL CONSEJO GENERAL, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 27 DE NOVIEMBRE DE 2008)
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
 
 ### CAPÍTULO I. De la Convocatoria
 
-###### Artículo 1.
-
-12. (ABROGADO [N. DE E. DEROGADO] POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA EL FUNCIONAMIENTO DE LAS COMISIONES DEL CONSEJO GENERAL, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 27 DE NOVIEMBRE DE 2008)
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
 
 ###### Artículo 1.
 
-13. (ABROGADO [N. DE E. DEROGADO] POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA EL FUNCIONAMIENTO DE LAS COMISIONES DEL CONSEJO GENERAL, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 27 DE NOVIEMBRE DE 2008)
+12. El Presidente de la Comisión conjuntamente con el Secretario Técnico, deberán convocar a las sesiones y reuniones de trabajo, por lo menos con dos días hábiles de anticipación a la fecha que se fije para la celebración de la sesión o reunión de trabajo.
+
+La convocatoria a sesión o reunión de trabajo deberá contener, el nombre del integrante de la comisión a quien va dirigido, lugar, hora y fecha de realización, número de oficio y la firma del Presidente de la Comisión y del Secretario Técnico.
+
+Las sesiones y reuniones de trabajo se celebrarán en las instalaciones del Instituto, salvo caso fortuito o fuerza mayor.
+
+En ausencia del Presidente de la Comisión o del Secretario Técnico, firmará quien de ellos este presente.
+
+En caso de urgencia, las sesiones y reuniones de trabajo se convocarán, de manera extraordinaria, atendiendo a la naturaleza del asunto a tratar, con el tiempo suficiente para reunir el quórum legal, que no podrá ser menor a veinticuatro horas.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
 
 ###### Artículo 1.
 
-14. (ABROGADO [N. DE E. DEROGADO] POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA EL FUNCIONAMIENTO DE LAS COMISIONES DEL CONSEJO GENERAL, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 27 DE NOVIEMBRE DE 2008)
+13. La convocatoria se acompañará (sic) la copia del acta de la sesión anterior, así como de los documentos y anexos necesarios, a efecto de que puedan ser analizados previamente por los integrantes de la Comisión para su discusión y aprobación, en su caso.
+
+Para efectos de la convocatoria, el cómputo de los plazos fuera de proceso, se hará a partir del día siguiente de aquel en que se hubiere notificado o se tuviere conocimiento de la misma.
+
+En el periodo de proceso electoral, los plazos se computarán de momento a momento.
+
+Para el caso de las reuniones de trabajo, los plazos se computarán en los términos de los párrafos que anteceden. En caso de decretar recesos, se estará a lo acordado por los integrantes de la Comisión, dejando constancia en el acta o minuta correspondiente, la duración y condiciones para su reanudación.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
 
 ###### Artículo 1.
 
-15. (ABROGADO [N. DE E. DEROGADO] POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA EL FUNCIONAMIENTO DE LAS COMISIONES DEL CONSEJO GENERAL, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 27 DE NOVIEMBRE DE 2008)
+14. En aquellos casos en que por los altos volúmenes de documentación, no sea posible acompañar los anexos al proyecto del orden del día, estos se pondrán a disposición de los integrantes de la Comisión en medio magnético.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
 
 ###### Artículo 1.
 
-16. (ABROGADO [N. DE E. DEROGADO] POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA EL FUNCIONAMIENTO DE LAS COMISIONES DEL CONSEJO GENERAL, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 27 DE NOVIEMBRE DE 2008)
+15. La convocatoria se notificará a los integrantes de la Comisión en sus oficinas ubicadas en las instalaciones del Instituto, teniendo éstas como domicilio legal de los mismos. En el caso de las coaliciones se les citará a través de su representante acreditado ante la Comisión y en la oficina dentro del Instituto del partido político señalado en su oficio de acreditación.
 
-(ABROGADO [N. DE E. DEROGADO] POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA EL FUNCIONAMIENTO DE LAS COMISIONES DEL CONSEJO GENERAL, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 27 DE NOVIEMBRE DE 2008)
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
+
+###### Artículo 1.
+
+16. Para efectos de acuse de recibo, en la copia del oficio se anotará claramente, la fecha y hora de recepción, nombre completo, firma y en su caso sello de quien recibió. En caso de negarse a firmar y estampar el sello, se asentará la razón dejando la notificación en sus oficinas ubicadas en las instalaciones del Instituto.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
 
 ### CAPÍTULO II. De las Sesiones
 
-###### Artículo 1.
-
-17. (ABROGADO [N. DE E. DEROGADO] POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA EL FUNCIONAMIENTO DE LAS COMISIONES DEL CONSEJO GENERAL, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 27 DE NOVIEMBRE DE 2008)
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
 
 ###### Artículo 1.
 
-18. (ABROGADO [N. DE E. DEROGADO] POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA EL FUNCIONAMIENTO DE LAS COMISIONES DEL CONSEJO GENERAL, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 27 DE NOVIEMBRE DE 2008)
+17. Para el trámite de los asuntos de su competencia, las Comisiones celebrarán sesiones cuantas veces se estime necesario a solicitud de quienes se encuentren facultados en términos del presente reglamento.
+
+En proceso electoral las Comisiones sesionarán por lo menos una vez al mes, salvo acuerdo en contrario de las mismas.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
 
 ###### Artículo 1.
 
-19. (ABROGADO [N. DE E. DEROGADO] POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA EL FUNCIONAMIENTO DE LAS COMISIONES DEL CONSEJO GENERAL, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 27 DE NOVIEMBRE DE 2008)
+18. En las sesiones tendrán derecho a voz y voto los Consejeros electorales de la Comisión, el Secretario Técnico con voz informativa y los representantes de los partidos políticos y coaliciones únicamente con voz.
+
+La participación de los representantes suplentes será en ausencia del propietario o a solicitud de éste.
+
+Estando presente en las sesiones, cualquiera de los representantes de los partidos políticos y coaliciones acreditados ante el Consejo General, participarán con derecho a voz.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
 
 ###### Artículo 1.
 
-20. (ABROGADO [N. DE E. DEROGADO] POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA EL FUNCIONAMIENTO DE LAS COMISIONES DEL CONSEJO GENERAL, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 27 DE NOVIEMBRE DE 2008)
+19. La sesión se celebrará con los integrantes que se encuentren presentes, siempre que exista quórum legal. Existe quórum legal cuando asistan dos Consejeros integrantes de la Comisión, entre los que estará el presidente, salvo los casos a que se refiere el artículo 1.5.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
 
 ###### Artículo 1.
 
-21. (ABROGADO [N. DE E. DEROGADO] POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA EL FUNCIONAMIENTO DE LAS COMISIONES DEL CONSEJO GENERAL, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 27 DE NOVIEMBRE DE 2008)
+20. En caso de que no se lleve a cabo la sesión por falta de quórum legal, podrá citarse en segunda convocatoria para el siguiente día hábil.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
 
 ###### Artículo 1.
 
-22. (ABROGADO [N. DE E. DEROGADO] POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA EL FUNCIONAMIENTO DE LAS COMISIONES DEL CONSEJO GENERAL, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 27 DE NOVIEMBRE DE 2008)
+21. La sesión dará inicio cuando el Presidente de la Comisión lo declare formalmente, previa verificación de la existencia de quórum legal por el Secretario Técnico.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
 
 ###### Artículo 1.
 
-23. (ABROGADO [N. DE E. DEROGADO] POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA EL FUNCIONAMIENTO DE LAS COMISIONES DEL CONSEJO GENERAL, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 27 DE NOVIEMBRE DE 2008)
+22. Instalada la sesión se pondrá a consideración de los integrantes de la Comisión el contenido del proyecto del orden del día. El Presidente de la Comisión, a solicitud de alguno de sus integrantes, podrá retirar asuntos del orden del día. Los integrantes de la Comisión podrán proponer la inclusión de asuntos generales al concluir el desahogo del orden del día. Los asuntos contenidos en el orden del día serán discutidos y en su caso, votados salvo cuando los Consejeros acuerden mediante votación, posponer la discusión y votación de algún asunto en particular.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
 
 ###### Artículo 1.
 
-24. (ABROGADO [N. DE E. DEROGADO] POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA EL FUNCIONAMIENTO DE LAS COMISIONES DEL CONSEJO GENERAL, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 27 DE NOVIEMBRE DE 2008)
+23. Cuando así lo acuerde la Comisión, podrá dispensar la lectura de los documentos que hayan sido previamente circulados.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
 
 ###### Artículo 1.
 
-25. (ABROGADO [N. DE E. DEROGADO] POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA EL FUNCIONAMIENTO DE LAS COMISIONES DEL CONSEJO GENERAL, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 27 DE NOVIEMBRE DE 2008)
+24. Si al momento de la votación correspondiente no existiera el quórum legal por ausencia de alguno de sus integrantes con derecho a voto el Presidente de la Comisión deberá declarar un receso.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
 
 ###### Artículo 1.
 
-26. (ABROGADO [N. DE E. DEROGADO] POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA EL FUNCIONAMIENTO DE LAS COMISIONES DEL CONSEJO GENERAL, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 27 DE NOVIEMBRE DE 2008)
+25. Los integrantes de la Comisión podrán hacer uso de la palabra en los puntos a discutir, previa solicitud al Presidente y conforme al orden en que haya sido pedida.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
 
 ###### Artículo 1.
 
-27. (ABROGADO [N. DE E. DEROGADO] POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA EL FUNCIONAMIENTO DE LAS COMISIONES DEL CONSEJO GENERAL, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 27 DE NOVIEMBRE DE 2008)
+26. En el curso de las deliberaciones, los integrantes de la Comisión se abstendrán de entablar diálogos y realizar alusiones personales que pudiesen generar controversias o discusiones ajenas a los asuntos incluidos en el proyecto del orden del día.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
 
 ###### Artículo 1.
 
-28. (ABROGADO [N. DE E. DEROGADO] POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA EL FUNCIONAMIENTO DE LAS COMISIONES DEL CONSEJO GENERAL, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 27 DE NOVIEMBRE DE 2008)
+27. Cualquier integrante de la Comisión podrá pedir el uso de la palabra al Presidente, para interpelar al orador, con el objeto de formularle una pregunta o bien solicitarle una aclaración respecto a algún punto de su intervención.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
 
 ###### Artículo 1.
 
-29. (ABROGADO [N. DE E. DEROGADO] POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA EL FUNCIONAMIENTO DE LAS COMISIONES DEL CONSEJO GENERAL, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 27 DE NOVIEMBRE DE 2008)
+28. Se considera moción de orden, toda participación que tenga por objeto:
+
+I. Centrar el debate, para que quien haga uso de la voz se circunscriba al tema de la discusión;
+
+II. Poner orden en la sesión; y
+
+III. Tener por discutido el tema.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
 
 ###### Artículo 1.
 
-30. (ABROGADO [N. DE E. DEROGADO] POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA EL FUNCIONAMIENTO DE LAS COMISIONES DEL CONSEJO GENERAL, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 27 DE NOVIEMBRE DE 2008)
+29. Las sesiones podrán suspenderse por alteración al orden que impida su celebración, pudiendo en tal caso reanudarse en un plazo no mayor a veinticuatro horas, a convocatoria del Presidente de la Comisión en el acto mismo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
 
 ###### Artículo 1.
 
-31. (ABROGADO [N. DE E. DEROGADO] POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA EL FUNCIONAMIENTO DE LAS COMISIONES DEL CONSEJO GENERAL, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 27 DE NOVIEMBRE DE 2008)
+30. Agotada la discusión el Presidente de la Comisión instruirá al Secretario Técnico para que proceda a tomar el consenso de los partidos políticos y coaliciones, y recabar el sentido de la votación de los Consejeros. Los acuerdos se tomarán por mayoría simple de sus integrantes con derecho a voto. El Presidente de la Comisión cuenta con voto de calidad en caso de empate.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
 
 ###### Artículo 1.
 
-32. (ABROGADO [N. DE E. DEROGADO] POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA EL FUNCIONAMIENTO DE LAS COMISIONES DEL CONSEJO GENERAL, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 27 DE NOVIEMBRE DE 2008)
+31. Los Consejeros deberán de manifestar el sentido de su voto que sólo podrá ser a favor o en contra y en ningún caso podrán abstenerse de votar, pudiendo emitir su voto particular razonado.
 
-(ABROGADO [N. DE E. DEROGADO] POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA EL FUNCIONAMIENTO DE LAS COMISIONES DEL CONSEJO GENERAL, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 27 DE NOVIEMBRE DE 2008)
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
+
+###### Artículo 1.
+
+32. Las sesiones tendrán una duración máxima de cinco horas; en caso de que en la sesión en curso no se aborden todos los asuntos a tratar en el proyecto del orden del día, estos serán considerados de manera automática para ser discutidos en la siguiente sesión de la Comisión, que deberá continuarse al día hábil siguiente, salvo acuerdo en contrario de la Comisión.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
 
 ### CAPÍTULO III. De las Reuniones de Trabajo
 
-###### Artículo 1.
-
-33. (ABROGADO [N. DE E. DEROGADO] POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA EL FUNCIONAMIENTO DE LAS COMISIONES DEL CONSEJO GENERAL, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 27 DE NOVIEMBRE DE 2008)
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
 
 ###### Artículo 1.
 
-34. (ABROGADO [N. DE E. DEROGADO] POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA EL FUNCIONAMIENTO DE LAS COMISIONES DEL CONSEJO GENERAL, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 27 DE NOVIEMBRE DE 2008)
+33. La Comisión celebrará tantas reuniones de trabajo como sean necesarias a fin de analizar y discutir los asuntos que se propongan para su consideración.
+
+Las reuniones de trabajo tendrán una duración máxima de cinco horas; en caso de que no se aborden todos los asuntos a tratar en el orden del día, el Presidente de la Comisión podrá declarar un receso en términos de lo dispuesto en el último párrafo del artículo 1.13 del presente Reglamento.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
 
 ###### Artículo 1.
 
-35. (ABROGADO [N. DE E. DEROGADO] POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA EL FUNCIONAMIENTO DE LAS COMISIONES DEL CONSEJO GENERAL, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 27 DE NOVIEMBRE DE 2008)
+34. Las reuniones de trabajo se celebrarán con el número de integrantes que se encuentren presentes, sin necesidad de declarar la existencia de quórum legal, debiendo estar presentes el Presidente y el Secretario Técnico de la Comisión, o quienes hagan sus veces.
 
-(ABROGADO [N. DE E. DEROGADO] POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA EL FUNCIONAMIENTO DE LAS COMISIONES DEL CONSEJO GENERAL, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 27 DE NOVIEMBRE DE 2008)
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
+
+###### Artículo 1.
+
+35. Para la celebración de reuniones de trabajo, los integrantes de la Comisión podrán auxiliarse de especialistas en la materia, pudiendo participar éstos en la respectiva reunión, con anuencia de los integrantes de la Comisión. La designación deberá hacerse del conocimiento del Presidente de la Comisión por medio del Secretario Técnico.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
 
 ### CAPÍTULO IV. Reglas Generales
 
-###### Artículo 1.
-
-36. (ABROGADO [N. DE E. DEROGADO] POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA EL FUNCIONAMIENTO DE LAS COMISIONES DEL CONSEJO GENERAL, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 27 DE NOVIEMBRE DE 2008)
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
 
 ###### Artículo 1.
 
-37. (ABROGADO [N. DE E. DEROGADO] POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA EL FUNCIONAMIENTO DE LAS COMISIONES DEL CONSEJO GENERAL, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 27 DE NOVIEMBRE DE 2008)
+36. Las sesiones y reuniones de trabajo serán de orden privado por su propia naturaleza de carácter interno; quedando expresamente prohibida la presencia de personas no autorizadas, salvo quienes asesoren a los integrantes de la Comisión.
 
-(ABROGADO [N. DE E. DEROGADO] POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA EL FUNCIONAMIENTO DE LAS COMISIONES DEL CONSEJO GENERAL, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 27 DE NOVIEMBRE DE 2008)
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
+
+###### Artículo 1.
+
+37. En las sesiones y reuniones de trabajo, podrán asistir con voz los Consejeros no integrantes de la Comisión.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
 
 ### CAPÍTULO V. De los Acuerdos, Resoluciones y Dictámenes
 
-###### Artículo 1.
-
-38. (ABROGADO [N. DE E. DEROGADO] POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA EL FUNCIONAMIENTO DE LAS COMISIONES DEL CONSEJO GENERAL, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 27 DE NOVIEMBRE DE 2008)
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
 
 ###### Artículo 1.
 
-39. (ABROGADO [N. DE E. DEROGADO] POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA EL FUNCIONAMIENTO DE LAS COMISIONES DEL CONSEJO GENERAL, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 27 DE NOVIEMBRE DE 2008)
+38. Cuando la Comisión considere que un proyecto de acuerdo, resolución o dictamen deba revisarse nuevamente, se regresará a la Secretaria Técnica para su nuevo estudio, solicitando la opinión no vinculatoria de la Dirección Jurídico-Consultiva o de la dependencia correspondiente, para su posterior presentación en sesión de la misma Comisión.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
 
 ###### Artículo 1.
 
-40. (ABROGADO [N. DE E. DEROGADO] POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA EL FUNCIONAMIENTO DE LAS COMISIONES DEL CONSEJO GENERAL, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 27 DE NOVIEMBRE DE 2008)
+39. Los proyectos de acuerdos, resoluciones y dictámenes deberán contener: antecedentes, considerandos, resultandos y puntos resolutivos. Los cuales deberán estar debidamente fundados y motivados.
 
-(ABROGADO [N. DE E. DEROGADO] POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA EL FUNCIONAMIENTO DE LAS COMISIONES DEL CONSEJO GENERAL, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 27 DE NOVIEMBRE DE 2008)
+###### Artículo 1.
+
+40. (DEROGADO, G.G. 4 DE ENERO DE 2011)
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
 
 ## TÍTULO CUARTO. DE LAS COMISIONES PERMANENTES
 
-(ABROGADO [N. DE E. DEROGADO] POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA EL FUNCIONAMIENTO DE LAS COMISIONES DEL CONSEJO GENERAL, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 27 DE NOVIEMBRE DE 2008)
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
 
 ### CAPÍTULO I. De la Comisión de Organización y Capacitación
 
-###### Artículo 1.
-
-41. (ABROGADO [N. DE E. DEROGADO] POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA EL FUNCIONAMIENTO DE LAS COMISIONES DEL CONSEJO GENERAL, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 27 DE NOVIEMBRE DE 2008)
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
 
 ###### Artículo 1.
 
-42. (ABROGADO [N. DE E. DEROGADO] POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA EL FUNCIONAMIENTO DE LAS COMISIONES DEL CONSEJO GENERAL, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 27 DE NOVIEMBRE DE 2008)
+41. Esta Comisión tendrá por objeto, apoyar al Consejo General en el desempeño de sus atribuciones en materia de organización, capacitación electoral, y las relativas al Programa de Resultados Electorales Preliminares (PREP) derivadas de los programas que para tal efecto se aprueben, para la preparación y desarrollo de los procesos electorales.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
 
 ###### Artículo 1.
 
-43. (ABROGADO [N. DE E. DEROGADO] POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA EL FUNCIONAMIENTO DE LAS COMISIONES DEL CONSEJO GENERAL, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 27 DE NOVIEMBRE DE 2008)
+42. El Secretario Técnico de la Comisión será el Director de Capacitación y el Director de Organización, podrá participar en todas las sesiones y reuniones de trabajo como invitado con derecho a voz.
 
-(ABROGADO [N. DE E. DEROGADO] POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA EL FUNCIONAMIENTO DE LAS COMISIONES DEL CONSEJO GENERAL, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 27 DE NOVIEMBRE DE 2008)
+El Secretario Técnico de la Comisión será el designado conforme a la fracción III del artículo 1.4 y 1.6 del presente Reglamento.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
+
+###### Artículo 1.
+
+43. La Comisión tendrá las siguientes atribuciones:
+
+I. (DEROGADA, G.G. 4 DE ENERO DE 2011)
+
+II. (DEROGADA, G.G. 4 DE ENERO DE 2011)
+
+III. (DEROGADA, G.G. 4 DE ENERO DE 2011)
+
+IV. Vigilar el desarrollo de todos los trabajos en materia de organización y capacitación que el Instituto lleve a cabo para los procesos electorales correspondientes;
+
+V. Vigilar la instalación y funcionamiento de las Juntas Distritales y Municipales, proponiendo las medidas correctivas que se estimen procedentes;
+
+VI. Vigilar la integración, instalación y funcionamiento de los Consejos Distritales y Municipales;
+
+VII. Conocer, analizar y en su caso modificar la propuesta del Programa de Capacitación, para la integración de las Mesas Directivas de Casilla, que le envíe la Junta General, previo a que ésta la apruebe y la remita al Consejo General para su aprobación definitiva. Una vez aprobado, vigilar su cumplimiento;
+
+VIII. Conocer, analizar y en su caso modificar los materiales didácticos e instructivos electorales, que en materia de capacitación y organización, difunda el Instituto Electoral, que le envíe la Junta General, previo a que ésta los apruebe y los remita al Consejo General para su aprobación definitiva;
+
+IX. Supervisar los avances y resultados de la notificación, entrega de nombramientos y capacitación a los ciudadanos insaculados y funcionarios de mesas directivas de casilla y monitorear su desarrollo;
+
+X. Conocer, analizar, aprobar, vigilar y supervisar el cumplimiento del procedimiento que deban observar los Consejos Electorales Distritales para la segunda insaculación, sugiriendo las modificaciones que estime convenientes;
+
+XI. Conocer acerca de las actividades que realicen y de los informes que rindan las Juntas y Consejos Distritales y Municipales;
+
+XII. Conocer, analizar, discutir y aprobar los formatos de boletas electorales y documentación electoral, así como las características de los materiales electorales elaborados por la Dirección de Organización, para la aprobación definitiva del Consejo General, por conducto de la Secretaría Ejecutiva General;
+
+XIII. Supervisar y vigilar las actividades relativas a la elaboración, impresión, distribución, recuperación, destrucción y/o donación de la documentación y material electoral y en su caso la rehabilitación del material electoral; conforme a las disposiciones del Código y a los acuerdos que emita el Consejo General;
+
+XIV. Revisar que las características que posean los materiales electorales sean óptimas y, en su caso, proponer las adecuaciones que se estimen pertinentes, observando en todo momento, lo dispuesto por el Código;
+
+XV. Conocer la propuesta del Programa de Resultados Electorales Preliminares que realice la Junta General haciendo las modificaciones que estime convenientes, para su remisión al Consejo General; así como también, vigilar, una vez aprobado, que se cumplan todas sus fases conforme al Código, haciendo las sugerencias que se estimen pertinentes;
+
+XVI. Vigilar que se recabe la documentación que ordena el Código, para la integración de los expedientes, con el fin de que el Consejo General efectúe los cómputos respectivos;
+
+XVII. Vigilar que la ubicación, integración y número de casillas que aprueben los Consejos Distritales y Municipales se realicen de acuerdo con lo establecido en el Código;
+
+XVIII. Conocer y analizar las propuestas de ubicación de Casillas Especiales que hagan los Consejos Distritales o Municipales para tal efecto;
+
+XIX. Conocer y analizar las propuestas que formule la Junta General, de sustitución de ciudadanos para integrar las Juntas Distritales y Municipales, en los términos establecidos por el Estatuto y el Programa del Servicio Electoral Profesional;
+
+XX. Proponer al Consejo General la sustitución de Consejeros Electorales de los Consejos Distritales y Municipales, a propuesta de la Junta General;
+
+XXI. Conocer y vigilar lo relativo al Procedimiento de Ingreso de Instructores y Capacitadores;
+
+XXII. Solicitar información sobre la realización de la estadística electoral;
+
+XXIII. Informar al Consejo General sobre las actividades que desarrolle la Comisión; y (sic)
+
+XXIV. Proponer al Consejo General la expedición, reformas, adiciones, modificaciones, derogaciones y abrogaciones al marco normativo del Instituto relacionado con las materias competencia de esta Comisión;
+
+XXV. Conocer, analizar, discutir y en su caso aprobar, la propuesta del Documento Rector del Sistema de Información y Comunicación de la Jornada Electoral (SICJE), que realice la Junta General, a fin de realizarle las adecuaciones respectivas, y remitirlo por conducto del Secretario Ejecutivo General, al Consejo General para que sea aprobado. Asimismo vigilar que se cumplan los procedimientos de dicho programa;
+
+XXVI. Vigilar el desarrollo de las actividades del Sistema de Información y Comunicación de la Jornada Electoral (SICJE); así como participar en los simulacros de funcionamiento que se realicen para el óptimo funcionamiento del mismo;
+
+XXVII. Realizar e implementar mecanismos para evaluar los Programas de Capacitación (evaluar la capacitación), el PREP y el SICJE de los procesos electorales respectivos;
+
+XXVIII. Conocer, analizar, discutir y en su caso aprobar, los documentos relativos a los "Lineamientos para el Observador Electoral" y "Manual para el Observador Electoral" para que por conducto del Secretario Ejecutivo General, sea aprobado por el Consejo General;
+
+XXIX. Las que le establecen otras disposiciones jurídicas y las que le encomiende el Consejo General.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
 
 ### CAPÍTULO II. De la Comisión de Vigilancia de las Actividades Administrativas y Financieras
 
-###### Artículo 1.
-
-44. (ABROGADO [N. DE E. DEROGADO] POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA EL FUNCIONAMIENTO DE LAS COMISIONES DEL CONSEJO GENERAL, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 27 DE NOVIEMBRE DE 2008)
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
 
 ###### Artículo 1.
 
-45. (ABROGADO [N. DE E. DEROGADO] POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA EL FUNCIONAMIENTO DE LAS COMISIONES DEL CONSEJO GENERAL, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 27 DE NOVIEMBRE DE 2008)
+44. Tendrá como objeto auxiliar al Consejo General en la vigilancia, evaluación y supervisión de las actividades administrativas y financieras del Instituto, para que dichas actividades se apeguen a las disposiciones jurídicas vigentes, y formular, en su caso, las recomendaciones y la adopción de medidas tendientes al fortalecimiento del control interno institucional. Asimismo, dar seguimiento a las actividades que desarrolla el Órgano Técnico de Fiscalización del Instituto.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
 
 ###### Artículo 1.
 
-46. (ABROGADO [N. DE E. DEROGADO] POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA EL FUNCIONAMIENTO DE LAS COMISIONES DEL CONSEJO GENERAL, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 27 DE NOVIEMBRE DE 2008)
+45. El Secretario Técnico de la Comisión será el Titular de la Contraloría General.
 
-(ABROGADO [N. DE E. DEROGADO] POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA EL FUNCIONAMIENTO DE LAS COMISIONES DEL CONSEJO GENERAL, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 27 DE NOVIEMBRE DE 2008)
+El Secretario Técnico de la Comisión será el designado conforme a la fracción III del artículo 1.4 y 1.6 del presente Reglamento.
 
-### CAPÍTULO III. De la Comisión de Vigilancia para la Actualización, Depuración y Verificación del Padrón Electoral y Lista Nominal de Electores
-
-###### Artículo 1.
-
-47. (ABROGADO [N. DE E. DEROGADO] POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA EL FUNCIONAMIENTO DE LAS COMISIONES DEL CONSEJO GENERAL, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 27 DE NOVIEMBRE DE 2008)
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
 
 ###### Artículo 1.
 
-48. (ABROGADO [N. DE E. DEROGADO] POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA EL FUNCIONAMIENTO DE LAS COMISIONES DEL CONSEJO GENERAL, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 27 DE NOVIEMBRE DE 2008)
+46. La Comisión, tendrá las siguientes atribuciones:
+
+I. Vigilar que los servidores electorales de órganos centrales y desconcentrados del Instituto, en el ámbito de sus competencias y en el ejercicio de sus funciones, apliquen y observen las normas jurídicas vigentes, así como los acuerdos del Consejo General;
+
+II. Vigilar que los recursos humanos, materiales y financieros del Instituto, se utilicen de conformidad y para los fines que disponen las normas jurídicas aplicables, así como los acuerdos del Consejo General;
+
+III. Proponer a las diversas instancias del Instituto, la adopción de medidas preventivas o correctivas para garantizar la protección al patrimonio del Instituto y optimizar el desarrollo de sus actividades;
+
+IV. Recibir, analizar y dar seguimiento a los informes mensuales y anuales de las actividades que se desarrollan de acuerdo con el Programa Anual de Actividades del Instituto.
+
+V. Recibir, analizar y dar seguimiento a los informes mensuales y anual de los estados financieros del Instituto, preparados por la Dirección de Administración;
+
+VI. Recibir, analizar y dar seguimiento a los informes mensuales y anuales de las actividades del Comité Único de Adquisiciones, Arrendamientos y Contratación de Servicios del Instituto, y supervisar su actuación;
+
+VII. Recibir, analizar y dar seguimiento a los informes mensuales, trimestrales y anuales relacionados con el avance y cumplimiento al Programa de Actividades de la Contraloría General;
+
+VIII. Remitir al Consejo General, para su conocimiento, los informes que fueron presentados ante la Comisión y, en su caso, las recomendaciones propuestas;
+
+IX. Dar seguimiento al avance del Programa Anual de Auditoria y Programas específicos de Auditorias del Instituto, que desarrolla la Contraloría General;
+
+X. Recibir, analizar y dar seguimiento al dictamen de los estados financieros del Instituto relativos al ejercicio anterior, emitidos por el despacho de auditores externos que para tal efecto sea contratado;
+
+XI. Conocer, analizar y dar seguimiento a los informes de auditoría que se practiquen al Instituto, y vigilar que se atiendan las recomendaciones y se corrijan las observaciones que resulten de las mismas;
+
+XII. Conocer, analizar y emitir el dictamen correspondiente de los proyectos de resolución presentados por la Contraloría General; que correspondan ser resueltos en definitiva por el Consejo General;
+
+XIII. Conocer, analizar y dar seguimiento a los informes sobre las resoluciones de Inconformidades que presenten los proveedores, prestadores de servicios y contratistas, relacionados con procedimientos de contratación, y sobre las demás resoluciones emitidas por la Contraloría General;
+
+XIV. Emitir los acuerdos o dictámenes que corresponda, respecto de los asuntos competencia de la Comisión, y remitirlos al Consejo General para su aprobación definitiva;
+
+XV. Proponer al Consejo General la expedición, reformas, adiciones, modificaciones, derogaciones y abrogaciones al marco normativo del Instituto relacionado con las materias competencia de esta Comisión; y
+
+XVI. Las demás que le establecen este Reglamento, otras disposiciones jurídicas y las que le encomiende el Consejo General.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
+
+### CAPÍTULO III. De la Comisión de Acceso a Medios, Propaganda y Difusión
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
 
 ###### Artículo 1.
 
-49. (ABROGADO [N. DE E. DEROGADO] POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA EL FUNCIONAMIENTO DE LAS COMISIONES DEL CONSEJO GENERAL, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 27 DE NOVIEMBRE DE 2008)
+47. La Comisión tendrá como objeto atender lo relacionado con el acceso del Instituto y de los partidos políticos a los medios de comunicación conforme a las normas establecidas en el Apartado B, de la base III, del artículo 41 de la Constitución Política de los Estados Unidos Mexicanos, al artículo 12 de la Constitución Política del Estado Libre y Soberano de México, a los artículos 63 y 65 del Código, a los convenios que en la materia se celebren con el Instituto Federal Electoral y a lo que disponga el Consejo General; realizar monitoreos de medios de comunicación electrónicos e impresos, públicos y privados, así como de la propaganda colocada en todo tipo de espacio o equipamiento utilizado para difundir mensajes, durante el periodo de precampaña y campaña electoral, o antes si así lo solicita un partido político, con el fin de garantizar la equidad en la difusión de los actos proselitistas, apoyar la fiscalización de los partidos políticos y prevenir que se rebasen los topes de gastos de precampaña y campaña; supervisar y en su caso actualizar el Plan de Medios del Instituto; así como llevar a cabo la organización de debates públicos.
 
-(ABROGADO [N. DE E. DEROGADO] POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA EL FUNCIONAMIENTO DE LAS COMISIONES DEL CONSEJO GENERAL, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 27 DE NOVIEMBRE DE 2008)
-
-### CAPÍTULO IV. De la Comisión de Radiodifusión y Propaganda
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
 
 ###### Artículo 1.
 
-50. (ABROGADO [N. DE E. DEROGADO] POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA EL FUNCIONAMIENTO DE LAS COMISIONES DEL CONSEJO GENERAL, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 27 DE NOVIEMBRE DE 2008)
+48. El Secretario Técnico de la Comisión será el Director de Partidos Políticos. Podrán participar con derecho a voz todas aquellas personas que determine la Comisión, según la naturaleza de los temas a tratar.
+
+El Secretario Técnico de la Comisión será el designado conforme a la fracción III del artículo 1.4 y 1.16 del presente Reglamento.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
 
 ###### Artículo 1.
 
-51. (ABROGADO [N. DE E. DEROGADO] POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA EL FUNCIONAMIENTO DE LAS COMISIONES DEL CONSEJO GENERAL, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 27 DE NOVIEMBRE DE 2008)
+49. La Comisión tendrá las siguientes atribuciones:
+
+I. Vigilar que los contenidos de la propaganda política y propaganda electoral, de la difusión de los partidos políticos, en medios de comunicación se encuentren apegados a los requisitos exigidos por la Constitución Política de los Estados Unidos Mexicanos, Constitución Política del Estado Libre y Soberano de México, Código Federal de Instituciones y Procedimientos Electorales y el Código Electoral del Estado de México;
+
+II. Vigilar que los partidos políticos y coaliciones gocen cabalmente de todas las prerrogativas de acceso a los medios de comunicación establecidas por la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de México, el Código Federal de Instituciones y Procedimientos Electorales, y el Código Electoral del Estado de México;
+
+III. Elaborar, actualizar, vigilar, y dar cumplimiento a los lineamientos, normatividades y demás ordenamientos de la propia Comisión;
+
+IV. (DEROGADA, G.G. 4 DE ENERO DE 2011)
+
+V. Supervisar el cumplimiento y aplicación del Plan de Medios en periodo no electoral, así como para los procesos electorales locales y proponer al Consejo General las modificaciones que considere convenientes; asimismo realizar sugerencias y solicitar Informes a la Unidad de Comunicación Social sobre las actividades desarrolladas por el Centro de Producción Audiovisual del Instituto;
+
+VI. Aprobar lineamientos y manuales específicos para la realización de monitoreos cuantitativos y cualitativos a los medios de comunicación impresos, electrónicos y alternos, tanto públicos como privados, debiendo rendir informes quincenales al Consejo General sobre tales monitoreos para coadyuvar con la Comisión de Fiscalización y el órgano de Fiscalización en la revisión de gastos de precampaña y campaña electoral;
+
+VII. Realizar, supervisar y vigilar monitoreos cuantitativos y cualitativos, así como el seguimiento de notas informativas en medios de comunicación impresos y electrónicos informando periódicamente sobre los resultados de tales monitoreos y seguimiento, que serán quincenales en tiempo de proceso electoral. Dichos informes deberán contener una valoración de la actuación de los medios de comunicación monitoreados, así como las recomendaciones que se estimen conducentes;
+
+VIII. Realizar, supervisar y vigilar monitoreos cuantitativos a medios de comunicación alternos, durante los procesos electorales locales respectivos;
+
+IX. (DEROGADA, G.G. 4 DE ENERO DE 2011)
+
+X. Proponer al Consejo General la contratación de empresas externas auxiliares de la Comisión para realizar los monitoreos;
+
+XI. Gestionar ante el IFE el tiempo que corresponda a la prerrogativa de acceso de los partidos políticos y coaliciones a medios de comunicación, así como el tiempo destinado para los fines del Instituto;
+
+XII. Distribuir a los partidos políticos o coaliciones los mensajes que correspondan a cada uno de ellos dentro del pautado para las estaciones de radio y canales de televisión, con base en el sorteo que servirá para definir el orden sucesivo en que se transmitirán a lo largo de las precampañas y campañas electorales los mensajes de 30 segundos; el Secretario Técnico elaborará una propuesta de modelo de pauta mediante un esquema de corrimiento de horarios vertical;
+
+XIII. (DEROGADA, G.G. 4 DE ENERO DE 2011)
+
+XIV. Organizar o gestionar debates públicos entre los militantes, dirigentes o candidatos de los distintos partidos políticos y coaliciones, así como someterlas a consideración del Consejo General para su aprobación. En su caso, proveerá lo necesario para su difusión;
+
+XV. (DEROGADA, G.G. 4 DE ENERO DE 2011)
+
+XVI. (DEROGADA, G.G. 4 DE ENERO DE 2011)
+
+XVII. Informar periódicamente al Consejo General sobre sus actividades;
+
+XVIII. Vigilar las acciones, manuales, materiales e instrumentos que se utilizan para llevar a cabo los cursos en materia de monitoreo a medios de comunicación alternos, en precampañas y campañas, impartidos por la Dirección de Partidos Políticos a través de su personal a los órganos desconcentrados del Instituto;
+
+XIX. Crear las subcomisiones que considere necesarias para el cumplimiento de sus atribuciones; y (sic)
+
+XX. Las que le establecen otras disposiciones jurídicas y las que le encomiende el Consejo General.
+
+XXI. Realizar monitoreos cuantitativos y cualitativos, así como el seguimiento de notas informativas en medios de comunicación impresos y electrónicos, a través de la Comisión de Acceso a Medios, Propaganda y Difusión, la cual le informará periódicamente sobre los resultados de tales monitoreos y seguimiento, que serán quincenales en tiempo de proceso electoral. Dichos informes deberán contener una valoración de la actuación de los medios de comunicación monitoreados, así como las recomendaciones que se estimen conducentes.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
+
+### CAPÍTULO IV. De la Comisión del Servicio Electoral Profesional
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
 
 ###### Artículo 1.
 
-52. (ABROGADO [N. DE E. DEROGADO] POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA EL FUNCIONAMIENTO DE LAS COMISIONES DEL CONSEJO GENERAL, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 27 DE NOVIEMBRE DE 2008)
+50. La Comisión tendrá por objeto:
 
-(ABROGADO [N. DE E. DEROGADO] POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA EL FUNCIONAMIENTO DE LAS COMISIONES DEL CONSEJO GENERAL, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 27 DE NOVIEMBRE DE 2008)
+I. Vigilar que el Instituto cuente con personal altamente calificado para realizar la función estatal de organizar, desarrollar y vigilar los procesos electorales locales, por cuanto hace al servicio;
 
-### CAPÍTULO V. De la Comisión de Fiscalización
+II. Apoyar al Consejo General en la vigilancia y evaluación de las diversas actividades relacionadas con el servicio;
 
-###### Artículo 1.
+III. Establecer los mecanismos y procedimientos para la vigilancia y actualización de las actividades derivadas del servicio;
 
-53. (ABROGADO [N. DE E. DEROGADO] POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA EL FUNCIONAMIENTO DE LAS COMISIONES DEL CONSEJO GENERAL, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 27 DE NOVIEMBRE DE 2008)
+IV. Conocer oportunamente los avances del servicio; y
 
-###### Artículo 1.
+V. Compilar para su análisis, las experiencias resultantes de la aplicación del Estatuto y el Programa del Servicio Electoral Profesional.
 
-54. (ABROGADO [N. DE E. DEROGADO] POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA EL FUNCIONAMIENTO DE LAS COMISIONES DEL CONSEJO GENERAL, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 27 DE NOVIEMBRE DE 2008)
-
-###### Artículo 1.
-
-55. (ABROGADO [N. DE E. DEROGADO] POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA EL FUNCIONAMIENTO DE LAS COMISIONES DEL CONSEJO GENERAL, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 27 DE NOVIEMBRE DE 2008)
-
-## TÍTULO QUINTO. DE LAS COMISIONES ESPECIALES Y TEMPORALES
-
-(ABROGADO [N. DE E. DEROGADO] POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA EL FUNCIONAMIENTO DE LAS COMISIONES DEL CONSEJO GENERAL, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 27 DE NOVIEMBRE DE 2008)
-
-### CAPÍTULO VI. De la Comisión Dictaminadora del Registro de Partidos Políticos
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
 
 ###### Artículo 1.
 
-56. (ABROGADO [N. DE E. DEROGADO] POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA EL FUNCIONAMIENTO DE LAS COMISIONES DEL CONSEJO GENERAL, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 27 DE NOVIEMBRE DE 2008)
+51. El Secretario Técnico de la Comisión será el Director del Servicio Electoral Profesional.
 
-(ABROGADO [N. DE E. DEROGADO] POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA EL FUNCIONAMIENTO DE LAS COMISIONES DEL CONSEJO GENERAL, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 27 DE NOVIEMBRE DE 2008)
+El Secretario Técnico de la Comisión será el designado conforme a la fracción III del artículo 1.4 y 1.6 del presente Reglamento.
 
-###### Artículo 1.
-
-57. (ABROGADO [N. DE E. DEROGADO] POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA EL FUNCIONAMIENTO DE LAS COMISIONES DEL CONSEJO GENERAL, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 27 DE NOVIEMBRE DE 2008)
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
 
 ###### Artículo 1.
 
-58. (ABROGADO [N. DE E. DEROGADO] POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA EL FUNCIONAMIENTO DE LAS COMISIONES DEL CONSEJO GENERAL, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 27 DE NOVIEMBRE DE 2008)
+52. La Comisión tendrá las siguientes atribuciones:
 
-### CAPÍTULO I. De la Comisión Especial del Servicio Electoral Profesional
+I. Revisar, discutir y, en su caso, aprobar los proyectos de acuerdo y dictámenes que serán remitidos al Consejo General para su consideración, así como los de mero trámite;
+
+II. Vigilar el cumplimiento de los acuerdos relacionados con el Servicio Electoral Profesional, emitidos por el Consejo General y la propia Comisión;
+
+III. Conocer y vigilar el cumplimiento del Programa General del Servicio Electoral Profesional y de la normatividad relativa al mismo;
+
+IV. Conocer los avances y resultados derivados de la operación del Servicio, que rinda la Dirección del Servicio Electoral Profesional;
+
+V. Vigilar que el cumplimiento de objetivos, relativos al Servicio Electoral Profesional, se lleve a cabo observando lo establecido en la normatividad aplicable y en el Programa General del Servicio Electoral Profesional;
+
+VI. Conocer, para su revisión, la información generada a partir de la operación del Servicio Electoral Profesional;
+
+VII. Proponer y acordar todo aquello que resulte inherente a la Comisión, para el logro de los objetivos del Servicio Electoral Profesional;
+
+VIII. Solicitar a los órganos del Instituto los informes que considere necesarios para el buen funcionamiento del Servicio Electoral Profesional, así como las acciones necesarias para el logro de sus objetivos;
+
+IX. Acordar los mecanismos de evaluación y control en torno a las actividades del Servicio Electoral Profesional;
+
+X. Revisar y vigilar que los ciudadanos propuestos por la Junta General, para ocupar los cargos de Vocales en las Juntas Distritales y Municipales, reúnan los requisitos establecidos por la normatividad aplicable;
+
+XI. Verificar que la Dirección del Servicio Electoral Profesional expida la convocatoria para la ocupación de plazas de Vocales, Instructores y Capacitadores, con los requisitos, tiempos y condiciones señalados por el Estatuto y los Programas del Servicio Electoral Profesional y de Capacitación;
+
+XII. Solicitar a las Juntas Distritales informes relativos al desarrollo del procedimiento general de ingreso de Instructores y Capacitadores, por lo que concierne a la aplicación del Servicio Electoral Profesional;
+
+XIII. Hacer del conocimiento de los órganos competentes, las necesidades y requerimientos que resulten necesarios para el buen funcionamiento del Servicio Electoral Profesional, y para el debido cumplimiento de la normatividad aplicable;
+
+XIV. Proponer a las instancias correspondientes, adecuaciones o reformas con relación al Estatuto, al Programa General del Servicio Electoral Profesional y al presente Reglamento;
+
+XV. Informar periódicamente al Consejo General de las acciones, trabajos, acuerdos, y en general, de todos los trabajos trascendentes que lleve a cabo la Comisión;
+
+XVI. Elaborar un informe anual de actividades y, en su caso, al final de cada proceso electoral para su presentación ante el Consejo General; y (sic)
+
+XVII. Supervisar y vigilar la incorporación de los servidores electorales de los órganos centrales al Servicio Electoral Profesional, así como los programas para su profesionalización, las evaluaciones y promociones que se realicen y los procedimientos respectivos; y
+
+XVIII. Las demás que se le otorguen por mandamiento de ley o por acuerdo del Consejo General.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
+
+### CAPÍTULO V. La Comisión de Promoción y Difusión de la Cultura Política y Democrática
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
 
 ###### Artículo 1.
 
-59. (ABROGADO [N. DE E. DEROGADO] POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA EL FUNCIONAMIENTO DE LAS COMISIONES DEL CONSEJO GENERAL, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 27 DE NOVIEMBRE DE 2008)
+53. La Comisión tendrá por objeto apoyar al Consejo General en la atención de las actividades relativas a la Promoción y Difusión de la Cultura Política Democrática y la Educación Cívica, derivadas de los Planes y Programas que para tal efecto apruebe.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
 
 ###### Artículo 1.
 
-60. (ABROGADO [N. DE E. DEROGADO] POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA EL FUNCIONAMIENTO DE LAS COMISIONES DEL CONSEJO GENERAL, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 27 DE NOVIEMBRE DE 2008)
+54. El Secretario Técnico de la Comisión será el Director Capacitación será el Secretario Técnico de la Comisión. (sic)
+
+El Secretario Técnico de la Comisión será el designado conforme a la fracción III del artículo 1.4 y 1.6 del presente Reglamento.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
 
 ###### Artículo 1.
 
-61. (ABROGADO [N. DE E. DEROGADO] POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA EL FUNCIONAMIENTO DE LAS COMISIONES DEL CONSEJO GENERAL, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 27 DE NOVIEMBRE DE 2008)
+55. La Comisión tendrá las siguientes atribuciones:
 
-(ABROGADO [N. DE E. DEROGADO] POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA EL FUNCIONAMIENTO DE LAS COMISIONES DEL CONSEJO GENERAL, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 27 DE NOVIEMBRE DE 2008)
+La Comisión tendrá las siguientes atribuciones (sic):
+
+I. (DEROGADA, G.G. 4 DE ENERO DE 2011)
+
+II. Promover la definición de los contenidos y mensajes estratégicos de las campañas institucionales de difusión y de los programas de divulgación de la cultura democrática;
+
+III. Impulsar y orientar las estrategias y programas desarrollados en el marco del Programa Estratégico de Educación Cívica, Promoción y Difusión de la Cultura Política y Democrática garantizando que estos atiendan en todo momento los criterios rectores de la política institucional aprobada por el Consejo General;
+
+IV. Impulsar la capacitación y actualización del personal responsable de la instrumentación y evaluación de las políticas institucionales;
+
+V. Impulsar acuerdos específicos con el organismo electoral federal para reforzar y potenciar las acciones de capacitación electoral, educación cívica y promoción de la cultura política y democrática;
+
+VI. Establecer las directrices para la consolidación de políticas interinstitucionales de colaboración y apoyo con instituciones públicas y privadas para fortalecer el desarrollo de la educación cívica y la difusión de la cultura democrática;
+
+VII. Dar seguimiento a las iniciativas y programas de educación cívica, capacitación electoral y difusión de la cultura política y democrática de los órganos desconcentrados;
+
+VIII. Coadyuvar al establecimiento de mecanismos eficientes y eficaces de seguimiento, coordinación, comunicación, información y evaluación entre el Secretario Ejecutivo General y los órganos desconcentrados del Instituto para el óptimo desempeño de los programas en la materia;
+
+IX. Vigilar el desarrollo de todos los trabajos de Educación Cívica, Promoción y Difusión de la Cultura Política Democrática, que el Instituto lleve a cabo;
+
+X. Vigilar el adecuado desarrollo del Programa de Educación Cívica, Promoción y Difusión de la Cultura Política Democrática que presente la Junta General;
+
+XI. Vigilar que el desarrollo de las actividades de las políticas de capacitación electoral, educación cívica y de divulgación de la cultura democrática, promueva la participación de mujeres y hombres en condiciones de equidad de género;
+
+XII. Supervisar, analizar y en su caso modificar los materiales didácticos e instructivos electorales, que en materia de capacitación y organización, difunda el Instituto Electoral, que le envíe la Junta General, previo a que ésta los apruebe y los remita al Consejo General para su aprobación definitiva;
+
+XIII. Supervisar los avances y resultados de la notificación, entrega de nombramientos y capacitación a los ciudadanos insaculados y funcionarios de mesas directivas de casilla y monitorear su desarrollo, y (sic)
+
+XIV. Impulsar un conjunto de acciones tendientes a impulsar y difundir a la democracia como forma de vida, a sus instituciones; al fortalecimiento de los valores, deberes y obligaciones del ciudadano dentro del sistema político nacional;
+
+XV. Realizar procesos educativos que tienen la finalidad de ampliar la presencia de conocimientos, valores y actitudes a favor de la democracia, incidiendo con esto en el proceso de conformación de la cultura político democrática a través de temas específicos dirigidos a estudiantes;
+
+XVI. Supervisar el desarrollo de los trabajos de Desarrollo de la Democracia, Promoción y Difusión de la Cultura Política Democrática y Educación Cívica que el Instituto desarrolle;
+
+XVII. Coadyuvar activamente en las tareas de Promoción y Difusión de la Cultura Política Democrática y Educación Cívica;
+
+XVIII. Conocer, proponer y dar seguimiento, en su caso, a las acciones de vinculación entre instituciones públicas y privadas, organismos electorales y organizaciones de la sociedad civil para la suscripción de convenios relacionados con la Promoción y Difusión de la Cultura Política Democrática y Educación Cívica;
+
+XIX. Impulsar y dar seguimiento al desarrollo y aplicación del proyecto institucional de urna electrónica como instrumento para el fortalecimiento de la cultura política democrática y educación cívica;
+
+XX. Impulsar lineamientos para la consolidación de políticas que coadyuven en su caso, a la aplicación interinstitucional de Planes o Programas inherentes al Desarrollo de la Democracia, Promoción y Difusión de la Cultura Política Democrática y Educación Cívica;
+
+XXI. Conocer y analizar, en su caso, lo relativo al desarrollo de actividades que realicen los órganos desconcentrados del Instituto en materia de Desarrollo de la Democracia, Promoción y Difusión de la Cultura Política Democrática y Educación Cívica;
+
+XXII. Dar seguimiento a las actividades que desarrollen los órganos desconcentrados del Instituto en coadyuvancia al Desarrollo de la Democracia, Promoción y Difusión de la Cultura Política Democrática y Educación Cívica;
+
+XXIII. Conocer de la Comisión de Acceso a Medios, Propaganda y Difusión, lo relacionado con los espacios que puedan coadyuvar en el Desarrollo de la Democracia, Promoción y Difusión de la Cultura Política Democrática y Educación Cívica, en el territorio estatal;
+
+XXIV. Participar en la conformación y actualización del Catálogo de Instituciones y organismos coadyuvantes en la Promoción y Difusión de la Cultura Política Democrática y Educación Cívica en la entidad;
+
+XXV. Rendir los informes que sobre sus actividades, le solicite el Consejo General;
+
+XXVI. Proponer en su caso, reformas y adiciones al presente Reglamento; y
+
+XXVI (SIC). Las demás que deriven del Código, de los Acuerdos del Consejo General y de la propia Comisión, del presente Reglamento y demás disposiciones aplicables.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
+
+## TÍTULO QUINTO. DE LAS COMISIONES ESPECIALES
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
+
+### CAPÍTULO I. De la Comisión de Vigilancia para la Actualización, Depuración y Verificación del Padrón Electoral y Lista Nominal de Electores
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
 
 ###### Artículo 1.
 
-62. (ABROGADO [N. DE E. DEROGADO] POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA EL FUNCIONAMIENTO DE LAS COMISIONES DEL CONSEJO GENERAL, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 27 DE NOVIEMBRE DE 2008)
+56. La Comisión tendrá como objeto, auxiliar al Consejo General en la elaboración de los proyectos sobre los mecanismos y programas de carácter técnico para la verificación del Padrón Electoral y Lista Nominal de Electores, en coordinación con la autoridad federal de la materia. Asimismo, proponer y dar seguimiento a las acciones de actualización y depuración contempladas en los Convenios de Apoyo y Colaboración, así como en los Anexos Técnicos y Anexos Financieros, relacionados con el uso de los instrumentos y productos electorales que aportará el Instituto Federal Electoral, a los procesos electorales locales.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
 
 ###### Artículo 1.
 
-63. (ABROGADO [N. DE E. DEROGADO] POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA EL FUNCIONAMIENTO DE LAS COMISIONES DEL CONSEJO GENERAL, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 27 DE NOVIEMBRE DE 2008)
+57. El Secretario Técnico de la Comisión será el Secretario Ejecutivo General del Instituto.
 
-### CAPÍTULO II. De la Comisión Especial para la Demarcación Distrital Electoral en el Estado de México
+El Secretario Técnico de la Comisión será el designado conforme a la fracción III del artículo 1.4 y 1.6 del presente Reglamento.
 
-###### Artículo 1.
-
-64. (ABROGADO [N. DE E. DEROGADO] POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA EL FUNCIONAMIENTO DE LAS COMISIONES DEL CONSEJO GENERAL, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 27 DE NOVIEMBRE DE 2008)
-
-(ABROGADO [N. DE E. DEROGADO] POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA EL FUNCIONAMIENTO DE LAS COMISIONES DEL CONSEJO GENERAL, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 27 DE NOVIEMBRE DE 2008)
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
 
 ###### Artículo 1.
 
-65. (ABROGADO [N. DE E. DEROGADO] POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA EL FUNCIONAMIENTO DE LAS COMISIONES DEL CONSEJO GENERAL, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 27 DE NOVIEMBRE DE 2008)
+58. La Comisión tendrá las siguientes atribuciones:
+
+I. En Materia de Actualización del Padrón Electoral y Lista Nominal de Electores:
+
+a. Elaborar los proyectos relacionados con lo dispuesto en el Código, en su artículo 95 fracción XXXIX para su ejecución por parte de los integrantes de la propia Comisión, y
+
+b. Dar seguimiento y vigilancia a las campañas de verificación y Actualización del Padrón Electoral y Lista Nominal de Electores que realice el Instituto Federal Electoral, mediante la aplicación de los siguientes mecanismos.
+
+1. Solicitar en medio óptico e impreso a la Dirección Ejecutiva del Registro Federal de Electores del Instituto Federal Electoral, a través de la Junta Local Ejecutiva del Instituto Federal Electoral, la información necesaria para que los integrantes de la Comisión conozcan los avances de las campañas de Actualización del Padrón Electoral y Lista Nominal de Electores, que deberá ser la siguiente: reportes estadísticos de inscripciones, corrección de datos, cambios de domicilio y reposiciones; credenciales entregadas a los ciudadanos; estadísticos del Padrón Electoral y Lista Nominal de Electores ordenados por Distrito Local, Municipio y Sección Electoral; y el número de credenciales para votar con fotografía que se hayan destruido por aplicación del artículo 199 párrafo cuarto, del Código Federal de Instituciones y Procedimientos Electorales; en Proceso Electoral, la solicitud que se formule al Registro Federal de Electores se hará mensualmente;
+
+2. Proponer y dar seguimiento a los trabajos de difusión y promoción que realice el Instituto entre la ciudadanía, en materia de Padrón Electoral y Lista Nominal de Electores, en coadyuvancia a las actividades que realice la Comisión de Acceso a Medios (sic) Propaganda y Difusión y la Unidad de Comunicación Social;
+
+3. Verificar que se realice por parte del Instituto Federal Electoral, la actualización del marco geográfico electoral para el caso de los municipios y secciones de nueva creación, así como los problemas limítrofes;
+
+4. Verificar y coadyuvar con las actividades que realice el Instituto Federal Electoral, para la actualización de la situación registral del padrón electoral y credencial para votar con fotografía de los ciudadanos residentes en los municipios de nueva creación;
+
+5. Verificar el funcionamiento y las medidas de seguridad en los Módulos de Atención Ciudadana que instale en la entidad el Instituto Federal Electoral, durante el periodo de actualización y entrega de credenciales para votar con fotografía, considerado en el Anexo Técnico; al Convenio de Apoyo y Colaboración que se suscriba al efecto;
+
+6. Analizar y sugerir el número y la ubicación de módulos de atención ciudadana al Registro Federal de Electores, previo análisis, justificación técnica y suficiencia presupuestal, en el caso de que sean financiados por el Instituto Electoral del Estado de México;
+
+7. Acudir al acto de resguardo de los formatos de credencial y recibos que no hayan sido recogidos por sus titulares, durante el lapso comprendido en el Anexo Técnico respectivo, verificando la realización del procedimiento correspondiente; y
+
+8. Solicitar en medio óptico e impreso a la Dirección Ejecutiva del Registro Federal de Electores del Instituto Federal Electoral información estadística y nominal de:
+
+8.1. Bajas por defunción, suspensión o pérdida de los derechos políticos;
+
+8.2. Detección de registros duplicados;
+
+8.3. Bajas por pérdida de vigencia (artículo 199 inciso I del Código Federal de Instituciones y Procedimientos Electorales), y
+
+8.4. Áreas Vecinales Específicas.
+
+II. En materia de cartografía electoral:
+
+a. Solicitar al Instituto Federal Electoral las actualizaciones sobre la cartografía digitalizada periódicamente.
+
+III. Exhibición de la Lista Nominal de Electores:
+
+a. Determinar los lugares en donde deberá exhibirse la lista nominal de electores, durante el periodo establecido en el Anexo Técnico correspondiente a la actualización y utilización del padrón electoral y la lista nominal;
+
+b. Verificar que se exhiba la lista nominal durante el periodo establecido y en los lugares determinados; y
+
+c. Recibir de los partidos políticos y coaliciones las observaciones a la lista nominal de exhibición, para su registro y remisión a la Junta Local Ejecutiva del Instituto Federal Electoral, para sus oportunas respuestas, así como el seguimiento a las instancias administrativas y demandas de juicio presentadas por los ciudadanos. IV (sic). Lista Nominal de Electores Definitiva con Fotografía:
+
+a. Verificar el procedimiento de impresión de la lista nominal de electores definitiva, que emita el Instituto Federal Electoral; y
+
+b. Establecer los mecanismos para la distribución de la lista nominal de electores definitiva con fotografía, que se entregará a los Órganos Desconcentrados del Instituto y a los Partidos Políticos o en su caso Coaliciones.
+
+V. Genéricas:
+
+a. Analizar la información que se reciba del Registro Federal de Electores del Instituto Federal Electoral sobre actualización y cobertura del padrón electoral y/o lista nominal de electores, para programar estudios e investigaciones, de acuerdo a la disponibilidad presupuestal existente, que permitan eficientar los trabajos de organización y desarrollo de nuestros procesos electorales;
+
+b. Remitir el informe correspondiente al Consejo General, sobre los avances en los trabajos de actualización y depuración al padrón electoral, entrega de credenciales, exhibición de la lista nominal de electores, adecuaciones al marco geográfico electoral y a la Lista Nominal Definitiva con Fotografía;
+
+c. Establecer relación permanente con los órganos de la administración pública estatal, a fin de coadyuvar con el Instituto Federal Electoral, para la adecuada y oportuna depuración del Padrón Electoral; y
+
+d. Las que le establecen otras disposiciones jurídicas y las que le encomiende el Consejo General.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
+
+### CAPÍTULO II. De la Comisión Dictaminadora del Registro de Partidos Políticos
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
 
 ###### Artículo 1.
 
-66. (ABROGADO [N. DE E. DEROGADO] POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA EL FUNCIONAMIENTO DE LAS COMISIONES DEL CONSEJO GENERAL, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 27 DE NOVIEMBRE DE 2008)
+59. La Comisión tendrá por objeto, dictaminar el derecho de registro como partido político local de las organizaciones políticas que lo pretendan y del partido político nacional que pierda su registro con este carácter, solicitando el registro como partido político local.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
 
 ###### Artículo 1.
 
-67. (ABROGADO [N. DE E. DEROGADO] POR TRANSITORIO SEGUNDO DEL REGLAMENTO PARA EL FUNCIONAMIENTO DE LAS COMISIONES DEL CONSEJO GENERAL, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO, G.G. 27 DE NOVIEMBRE DE 2008)
+60. El Secretario Técnico de la Comisión será el Director de Partidos Políticos.
+
+El Secretario Técnico de la Comisión será el designado conforme a la fracción III del artículo 1.4 y 1.6 del presente Reglamento.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
+
+###### Artículo 1.
+
+61. La Comisión tendrá las siguientes atribuciones:
+
+I. Conocer del escrito de notificación de inicio de actividades políticas independientes que formulen las Organizaciones de Ciudadanos que pretenden constituirse como partido político local;
+
+II. Requerir a la Organización de Ciudadanos, en su caso, para que solvente las observaciones que se le notifiquen ante la existencia de omisiones en la documentación, otorgándole el plazo para ello;
+
+III. Otorgar y desahogar la garantía de audiencia a las organizaciones de ciudadanos, en la forma y términos establecidos en el Reglamento para la Constitución, Registro y Liquidación de los Partidos Políticos Locales;
+
+IV. Comprobar, mediante la documentación a que se refiere el artículo 327 del Código Electoral del Estado de México, que la Organización de Ciudadanos solicitante de registro realizó actividades políticas independientes de cualquier otra organización, durante doce meses;
+
+V. Dictaminar sobre las actividades políticas independientes realizadas por las Organizaciones de Ciudadanos;
+
+VI. Conocer del escrito de información que presente una Organización de Ciudadanos al Instituto, en la que manifestó la intención para continuar el procedimiento tendiente a cumplir con los requisitos previos a la solicitud formal de registro como partido político local;
+
+VII. Dictaminar si la documentación presentada en el escrito de información del inicio de actividades, cumple con los requisitos que establece el Reglamento para la Constitución, Registro y Liquidación de Partidos Políticos Locales;
+
+VIII. Notificar a la Organización de Ciudadanos que cuenta con el plazo de un año, a partir de la presentación del escrito de información para constituirse como partido político local, para cumplir con los requisitos que establecen las fracciones I y II del artículo 43 del Código Electoral;
+
+IX. Supervisar el desarrollo de las Asambleas Municipales y la Estatal Constitutiva que programen las Organizaciones de Ciudadanos;
+
+X. Verificar que la solicitud de registro se acompañe de la documentación, certificaciones y constancias requeridas por el Código Electoral, y por el Reglamento para la Constitución, Registro y Liquidación de los Partidos Políticos Locales;
+
+XI. Conocer, analizar y dictaminar sobre la solicitud formal de registro y sus respectivos anexos presentados por la Organización de Ciudadanos;
+
+XII. Comprobar que la Declaración de Principios, el Programa de Acción y los Estatutos presentados por la Organización de Ciudadanos cumplan con los requisitos establecidos en los artículos 40, 41 y 42 del Código Electoral;
+
+XIII. Comprobar y confrontar las listas de afiliados, los formatos de afiliación y las respectivas copias de la credencial para votar que se presentaron en las Asambleas de la Organización de Ciudadanos solicitante de registro, a efecto de verificar el nombre, la clave de elector de la credencial para votar del afiliado y su residencia;
+
+XIV. Verificar que ninguna organización gremial o con objeto social diferente a la creación de partidos políticos, tuvo participación con la organización en el procedimiento para obtener el registro como partido político local.
+
+XV. Comprobar en las actas certificadas de las Asambleas Municipales celebradas por la Organización de Ciudadanos solicitante de registro, que cumplieron los requisitos señalados en los artículos 39 fracción IV y 43 fracción I del Código Electoral y relativos del Reglamento para la Constitución, Registro y Liquidación de Partidos Políticos Locales;
+
+XVI. Comprobar que el acta de la Asamblea Estatal Constitutiva celebrada por la Organización de Ciudadanos solicitante del registro, cumplió con lo establecido en el artículo 43 fracción II del Código Electoral y relativos del Reglamento para la Constitución, Registro y Liquidación de Partidos Políticos Locales;
+
+XVII. Verificar que la Organización de Ciudadanos presentó el escrito de información por lo menos doce meses antes del inicio del proceso electoral, con fundamento en la fracción III del artículo 39 del Código Electoral;
+
+XVIII. Verificar que la Organización de Ciudadanos solicitante de registro, realizó las Asambleas Municipales y Estatal Constitutiva, dentro del término de un año contado a partir de la presentación al Instituto, del escrito de información, como lo establece la fracción III del artículo 43 del Código Electoral;
+
+XIX. Otorgar la garantía de audiencia a los Representantes de la Organización de Ciudadanos solicitante de registro, para que manifieste lo que a su derecho corresponda, y ofrezca pruebas de su parte y alegue lo que estime procedente;
+
+XX. Sustanciar el procedimiento de solicitud de registro como partido político local al partido político nacional que perdió su registro con ese carácter; en términos del párrafo segundo del artículo 37 del Código Electoral;
+
+XXI. Analizar y dictaminar las reformas o adiciones al Reglamento para la Constitución, Registro y Liquidación de los Partidos Políticos Locales; y
+
+XXII. Las que establecen otras disposiciones jurídicas y las que le encomiende el Consejo General.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
+
+###### Artículo 1.
+
+62. El Presidente de la Comisión tendrá, además de las atribuciones establecidas en el artículo 1.8, las siguientes:
+
+I. Vigilar el cumplimiento de los acuerdos de la propia Comisión;
+
+II. Supervisar el estudio y análisis de las solicitudes y documentación que presenten las Organizaciones de Ciudadanos, que pretendan constituirse como Partido Político Local;
+
+III. Autorizar a los integrantes de la Comisión, la revisión de la documentación de las Organizaciones de Ciudadanos que obren en los archivos de la Dirección de Partidos Políticos;
+
+IV. Convocar a la Comisión para el desahogo de la Garantía de Audiencia de las Organizaciones de ciudadanos, cuando sea el caso;
+
+V. Requerir a los solicitantes de registro como Partido Político Local, los documentos que considere necesarios y las aclaraciones o rectificaciones que estime convenientes, o bien, las que la Comisión le solicite;
+
+VI. Solicitar al Órgano Técnico de Fiscalización información sobre la existencia de contravenciones a la ley o a lo establecido en el artículo 39 fracción I, párrafo tercero en relación con el artículo 9 fracción VI, ambos del Código Electoral, derivadas del análisis de los informes trimestrales que presenten las Organizaciones de Ciudadanos durante el procedimiento tendiente a obtener el registro como partido político local;
+
+VII. Autorizar al Secretario Técnico para que notifique a las Organizaciones de Ciudadanos, los Acuerdos de la Comisión;
+
+VIII. Solicitar a las Organizaciones de Ciudadanos que han iniciado el procedimiento para obtener el registro como partido político local la información que considere necesaria; y (sic)
+
+IX. Las demás que le señale el Consejo General, la propia Comisión y otras disposiciones normativas;
+
+X. Las demás que le señale el Consejo General, la propia Comisión y otras disposiciones normativas. (sic)
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
+
+###### Artículo 1.
+
+63. El Secretario Técnico de la Comisión tendrá, además de las atribuciones establecidas en el artículo 1.9, la de solicitar al Comité Directivo Estatal o equivalente de la Organización de ciudadanos correspondiente, informes periódicos sobre sus actividades políticas independientes, así como la documentación que requiera la Comisión o su Presidente para el cumplimiento de sus atribuciones.
+
+I. Levantar las actas relativas a las diligencias que se practiquen en cumplimiento de las atribuciones de la Comisión;
+
+II. Hacer constar los hechos y circunstancias que por razón de su contenido deban establecerse en documento formal;
+
+III. Levantar la minuta de las reuniones de trabajo de la Comisión;
+
+IV. Proporcionar por acuerdo del Presidente, la información necesaria a los integrantes de la Comisión para el desarrollo de sus actividades;
+
+V. Informar a los integrantes de la Comisión sobre el cumplimiento de las circulares, acuerdos y dictámenes de la Comisión;
+
+VI. Solicitar al Comité Directivo Estatal o equivalente de la Organización Política correspondiente, la documentación que requiera la Comisión para el cumplimiento de sus atribuciones.
+
+> <small>(ADICIONADO, G.G. 4 DE ENERO DE 2011)</small>
+
+### CAPÍTULO III. De la Comisión para la Demarcación Distrital Electoral
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
+
+###### Artículo 1.
+
+64. La Comisión tendrá como objeto, auxiliar al Consejo General, en la elaboración de los proyectos sobre la Demarcación Territorial de los cuarenta y cincos (sic) Distritos Electorales Locales de conformidad con el artículo 39 de la Constitución Particular.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
+
+###### Artículo 1.
+
+65. El Secretario Técnico de la Comisión será el Secretario Ejecutivo General del Instituto.
+
+El Secretario Técnico de la Comisión será el designado conforme a la fracción III del artículo 1.4 y 1.6 del presente Reglamento.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
+
+###### Artículo 1.
+
+66. La Comisión tendrá las siguientes atribuciones:
+
+I. Elaborar la propuesta de estudio para la Demarcación que el Consejo General ordene sobre la división del territorio de la entidad en los distritos electorales, señalados por el artículo 39 de la Constitución Local;
+
+II. Determinar el modelo, las técnicas y procedimientos a seguir, así como llevar a cabo los estudios y análisis geográficos, cartográficos, demográficos, estadísticos, socioeconómicos, culturales y operativos que sean necesarios para la realización de la demarcación distrital electoral;
+
+III. Vigilar se dé el debido cumplimiento a Io dispuesto en la Constitución Particular el Código y los acuerdos del Consejo General y de la Comisión en todo lo relacionado con la demarcación distrital electoral en el Estado de México;
+
+IV. Integrar un grupo técnico interdisciplinario en el que participen los miembros de la Comisión o los representantes que acrediten los partidos políticos ante la Comisión, el personal del Instituto que determine la propia Comisión y en su caso, asesores externos que auxilien a ésta en la elaboración del proyecto sobre la Demarcación Distrital Electoral que será del conocimiento de la Comisión;
+
+V. Verificar que la información y datos estadísticos con los que cuenta el Instituto para la realización de la nueva demarcación distrital electoral, estén actualizados y provengan de fuentes oficiales;
+
+VI. Recibir, analizar y, en su caso, modificar de acuerdo a los estudios realizados las propuestas metodológicas de demarcación distrital electoral que le presenten los integrantes acreditados ante la Comisión;
+
+VII. Solicitar a los integrantes de la Comisión la documentación necesaria para complementar, aclarar o corroborar sus propuestas metodológicas de demarcación distrital electoral;
+
+VIII. Solicitar y recabar del INEGI el último Censo General de Población y Vivienda y los datos estadísticos sobre el número de habitantes por Municipio, de las dependencias de la Federación y del Estado, así como de otras instituciones u organismos la información relacionada con los niveles socioeconómicos de conformidad a las Unidades de Información Básica (UIB), además de la que requiera la Comisión;
+
+IX. Solicitar la actualización de la cartografía, por municipio y sección;
+
+X. Elaborar el proyecto de demarcación territorial de los cuarenta y cinco distritos electorales con base en los factores demográficos, socioeconómicos, culturales y los elementos y variables técnicas que se establecen en el artículo 17 del Código Electoral del Estado de México; y
+
+XI. Las que le establecen otras disposiciones jurídicas y las que le encomiende el Consejo General.
 
 > <small>(ADICIONADO CON LOS CAPITULOS, SECCIONES Y ARTICULOS QUE LO INTEGRAN, G.G. 3 DE JULIO DE 2007)</small>
 
@@ -3784,3 +4514,9 @@ ACUERDO CG/67/2008, POR EL QUE SE DEROGA EL LIBRO SEXTO DEL REGLAMENTO PARA EL F
 PRIMERO.- Publíquese el presente Acuerdo y su anexo en el Periódico Oficial del Gobierno del Estado Libre y Soberano de México, "Gaceta del Gobierno".
 
 SEGUNDO.- Se deroga el Libro Sexto "De la Fiscalización" del Reglamento para el Funcionamiento de las Comisiones del Consejo General del Instituto Electoral del Estado de México, aprobado mediante Acuerdo número 21/2007 (veintiuno/dos mil siete), de fecha veintiocho de junio del año dos mil siete.
+
+G.G. 4 DE ENERO DE 2011.
+
+PRIMERO.- Las reformas aprobadas por el Punto Único, entrarán en vigor al día siguiente de la publicación del presente Acuerdo en el Periódico Oficial del Gobierno del Estado Libre y Soberano de México, "Gaceta del Gobierno".
+
+SEGUNDO.- Publíquese el presente Acuerdo y su anexo en el Periódico Oficial del Gobierno del Estado Libre y Soberano de México, "Gaceta del Gobierno", así como en la página electrónica del Instituto Electoral del Estado de México.
