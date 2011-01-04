@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-de-fiscalizacion-a-las-actividades-de-los-66676"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-01-08"
-last_updated: "2009-01-08"
+last_updated: "2011-01-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66676&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DE FISCALIZACION A LAS ACTIVIDADES DE LOS PARTIDOS POLITICOS Y COALICIONES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ENERO DE 2011.
 
 Reglamento publicado en la Sección Cuarta de la Gaceta del Gobierno del Estado de México, el jueves 8 de enero de 2009.
 
@@ -143,7 +143,7 @@ El presente Reglamento, es de observancia para todos los partidos políticos o c
 
 Para los efectos del presente Reglamento se entenderá por:
 
-I. Candidatura Común: La postulación de un mismo candidato, una misma planilla o fórmula de candidatos, en una demarcación electoral, por dos o más partidos políticos, designados previo acuerdo estatutario que emitan los partidos políticos respectivos;
+I. (DEROGADA, G.G. 4 DE ENERO DE 2011)
 
 II. Coalición: Las que fueron aprobadas como tales por el Consejo General de conformidad con lo establecido en el artículo 74 del Código;
 
@@ -168,6 +168,10 @@ El presente Reglamento tiene por objeto establecer los criterios y reglas que de
 ###### Artículo 4.
 
 La recepción y revisión de los informes, así como la elaboración del proyecto de dictamen que se presente al Consejo General, estará a cargo del Órgano Técnico.
+
+> <small>(ADICIONADO, G.G. 4 DE ENERO DE 2011)</small>
+
+Analizados y, en su caso, aprobados los informes y dictámenes por el Consejo General, la Secretaría del Consejo elaborará el proyecto de dictamen correspondiente a las sanciones aplicables.
 
 El Órgano Técnico proporcionará a los partidos políticos y coaliciones, orientación, asesoría y capacitación en materia de fiscalización en forma periódica o a solicitud de quien lo requiera. Asimismo, se podrá convocar a los partidos políticos para la realización de reuniones de trabajo con el objeto de tratar asuntos que por su relevancia así lo ameriten.
 
@@ -207,7 +211,7 @@ Los partidos políticos que integren coaliciones, llevarán su contabilidad por 
 
 ###### Artículo 10.
 
-Los partidos políticos que postulen candidaturas comunes, llevarán su contabilidad de forma separada y por cada una de las campañas en que participen.
+(DEROGADO, G.G. 4 DE ENERO DE 2011)
 
 ###### Artículo 11.
 
@@ -291,15 +295,19 @@ Los ingresos en efectivo y especie solo se podrán recibir a través del órgano
 
 Cuando en el ejercicio de sus facultades el Órgano Técnico requiera superar la limitación establecida por los secretos bancario, fiscal o fiduciario, solicitará de manera debidamente fundada y motivada la intervención de la Unidad Técnica de Fiscalización de recursos de Partidos Políticos del Instituto Federal Electoral (IFE), a fin de que ésta actúe ante las autoridades de la materia, en términos del artículo 41 fracción V de la Constitución Federal.
 
+> <small>(REFORMADO, G.G. 4 DE ENERO DE 2011)</small>
+
 ###### Artículo 27.
 
-Si derivado de la revisión a los recursos obtenidos por los partidos políticos a través de las diversas modalidades del financiamiento privado, se detectan recursos ilícitos, ésta conducta se hará inmediatamente del conocimiento del Consejo General, y a su vez notificará a las autoridades competentes.
+Si derivado de la revisión a los recursos obtenidos por los partidos políticos a través de las diversas modalidades del financiamiento privado, se detectan recursos ilícitos, esta conducta se hará inmediatamente del conocimiento del Consejo General, quien determinará lo correspondiente.
+
+> <small>(REFORMADO, G.G. 4 DE ENERO DE 2011)</small>
 
 ###### Artículo 28.
 
-Las aportaciones anónimas que reciban los partidos políticos deberán estar registradas en la contabilidad e inmediatamente de su reconocimiento iniciar el proceso para su entrega a la beneficencia pública.
+Las aportaciones anónimas que reciban los partidos políticos deberán estar registradas en la contabilidad e inmediatamente de su reconocimiento, el Consejo General determinará iniciar el proceso para su entrega a la beneficencia pública.
 
-Cuando el Órgano Técnico en ejercicio de sus facultades fiscalización, detecte que un partido político recibió una aportación anónima, observará su procedencia e informará la conducta al Consejo General para que aplique las sanciones correspondientes.
+Cuando el Órgano Técnico en ejercicio de sus facultades fiscalización, detecte que un partido político recibió una aportación anónima, observará su procedencia e informará la conducta al Consejo General para que aplique las sanciones correspondientes, conforme lo dispone el artículo 95 fracciones XXXV y XXXV Bis del Código.
 
 Financiamiento Público Ordinario
 
@@ -347,9 +355,13 @@ c) Aportaciones definitivas.- Se refiere a los bienes muebles e inmuebles que pa
 
 Financiamiento Público de Campaña
 
+> <small>(REFORMADO, G.G. 4 DE ENERO DE 2011)</small>
+
 ###### Artículo 35.
 
-El financiamiento público para actividades de campaña no podrá ser ejercido para cubrir gastos en actividades ordinarias a excepción de los remanentes.
+El financiamiento público para actividades de campaña deberá aplicarse al desarrollo de las actividades relacionadas con la obtención del voto en el proceso electoral de que se trate.
+
+Las cantidades no ejercidas por los partidos políticos, en términos del artículo 58, fracción II, inciso b, párrafo segundo del Código, deberán reintegrarse a la Secretaría de Finanzas del Gobierno del Estado de México, mediante cheque certificado, debiendo informar al Órgano Técnico dentro de los cinco días siguientes a su cumplimiento adjuntando los documentos comprobatorios correspondiente (sic).
 
 ###### Artículo 36.
 
@@ -715,11 +727,11 @@ Los gastos que realicen los partidos políticos para el sostenimiento de sus Ór
 
 El partido político o coalición que rebase el tope de gastos de campaña, o no se sujete a los plazos y disposiciones establecidas en el Código y en el presente Reglamento, será responsable en términos de la Legislación aplicable.
 
+> <small>(REFORMADO, G.G. 4 DE ENERO DE 2011)</small>
+
 ###### Artículo 108.
 
 Por lo que se refiere al tope de gastos de campaña para las coaliciones, el límite se fijará como si se tratará de un solo partido político, conforme al artículo 71 fracción II, inciso c) del Código.
-
-El total de gastos de las campañas de candidatos postulados en candidatura común no podrá rebasar el tope de gastos de campaña que fije el Consejo General, en términos del artículo 76 fracción IV del Código.
 
 ###### Artículo 109.
 
@@ -735,7 +747,9 @@ Los gastos en prensa comprenderán la totalidad de las inserciones y desplegados
 
 Los partidos políticos y las coaliciones tendrán las obligaciones fiscales que señalen las leyes aplicables debiendo recabar la documentación comprobatoria correspondiente.
 
-En caso de que en ejercicio de sus facultades de comprobación el Órgano Técnico detecte incumplimiento a obligaciones tributarias, dará aviso a las autoridades competentes.
+> <small>(REFORMADO, G.G. 4 DE ENERO DE 2011)</small>
+
+En caso de que en ejercicio de sus facultades de comprobación el Órgano Técnico detecte incumplimiento a obligaciones tributarias, informará de lo conducente al Consejo General por medio de la Secretaría del Consejo, para que instruya las acciones legales correspondientes.
 
 #### SECCIÓN IV. DE LAS INVERSIONES EN BIENES MUEBLES E INMUEBLES
 
@@ -813,9 +827,11 @@ El personal comisionado para la revisión podrá señalar al reverso de los comp
 
 Durante la ejecución del procedimiento de revisión de los informes de los partidos políticos y las coaliciones, el Órgano Técnico deberá solicitar por conducto del Secretario Ejecutivo General, que pida por escrito a las personas físicas o morales, públicas o privadas que hayan extendido comprobantes de ingresos y egresos en favor de los partidos políticos y coaliciones informen o confirmen sobre las operaciones amparadas en dichos comprobantes. De los resultados obtenidos, se informará en el dictamen correspondiente.
 
+> <small>(REFORMADO, G.G. 4 DE ENERO DE 2011)</small>
+
 ###### Artículo 125.
 
-El Órgano Técnico notificará al órgano interno del partido político o coalición cuando considere que de la revisión de informes se desprenda la existencia de errores u omisiones técnicas, así como conductas sancionables conforme al Código y otras leyes aplicables, otorgando un plazo no mayor a veinte días contados a partir de la notificación para que presente los documentos probatorios y haga las aclaraciones o rectificaciones que estime convenientes.
+El Órgano Técnico notificará al órgano interno del partido político o coalición cuando considere que de la revisión de informes se desprenda la existencia de errores u omisiones técnicas, otorgando un plazo no mayor a veinte días contados a partir de la notificación para que presente los documentos probatorios y haga las aclaraciones o rectificaciones que estime convenientes.
 
 ###### Artículo 126.
 
@@ -839,9 +855,11 @@ En el informe semestral se reportarán los ingresos y gastos ordinarios así com
 
 Si de la revisión realizada se determinan observaciones por errores u omisiones, se notificará al partido político para que las subsane o realice las aclaraciones conducentes.
 
+> <small>(REFORMADO, G.G. 4 DE ENERO DE 2011)</small>
+
 ###### Artículo 129.
 
-Las observaciones que se desprendan de los informes semestrales de avance del ejercicio, no serán objeto de sanción sino hasta que deriven del informe anual para el dictamen final que lleve a cabo el Órgano Técnico.
+Las observaciones que se desprendan de los informes semestrales de avance del ejercicio, no serán objeto de sanción sino hasta que el dictamen final que sea aprobado por el Consejo General y la Secretaría del consejo General presente el proyecto dictamen correspondiente a las sanciones aplicables.
 
 Informe Anual
 
@@ -979,23 +997,17 @@ c) Las coaliciones consolidarán su información financiera por los periodos con
 
 ###### Artículo 139.
 
-Los partidos políticos que postulen candidaturas comunes, conservarán cada uno de sus derechos, obligaciones y prerrogativas que les otorga el Código. Por lo que observarán lo siguiente:
-
-a) Los partidos políticos que las postulen llevaran en forma separada el registro contable de sus operaciones por cada una de las campañas en que participen.
-
-b) Los partidos políticos informarán del porcentaje o monto de participación en el tope de gastos al Órgano Técnico, dentro de los quince días siguientes a la aprobación de la candidatura común por el Consejo General.
-
-c) La documentación comprobatoria de sus gastos estará a nombre del partido político que realice la erogación.
-
-d) La presentación de los informes por cada una de las campañas en que participen estará a cargo del órgano interno de cada partido político que la conforme.
+(DEROGADO, G.G. 4 DE ENERO DE 2011)
 
 ###### Artículo 140.
 
 El órgano interno de cada partido político y coalición presentará al Órgano Técnico, por cada una de las campañas en que participen y durante los diez días siguientes al comienzo de las campañas electorales, una balanza con saldos iniciales a nivel cuenta de mayor con sus auxiliares correspondientes y, posteriormente, en las fechas que determine el Órgano Técnico con la aprobación del Consejo General, en donde se muestre el origen, monto, aplicación y empleo de los recursos
 
+> <small>(REFORMADO, G.G. 4 DE ENERO DE 2011)</small>
+
 ###### Artículo 141.
 
-El Órgano Técnico podrá solicitar al Consejo General llevar a cabo hasta una revisión precautoria para verificar que los partidos políticos, coaliciones y aquellas que hayan postulado candidaturas comunes, no rebasen los topes de campaña, en términos del artículo 61, fracción III, inciso b) del Código.
+El Órgano Técnico podrá solicitar al Consejo General llevar a cabo hasta una revisión precautoria para verificar que los partidos políticos y coaliciones, no rebasen los topes de campaña, en términos del artículo 61, fracción III, inciso b) del Código.
 
 ###### Artículo 142.
 
@@ -1079,21 +1091,33 @@ establecen los artículos 58 fracción I
 
 En su caso, cuando no se haya realizado el evento u operación antes descritos, no se tendrá la obligación de remitir el formato correspondiente.
 
+> <small>(REFORMADO, G.G. 4 DE ENERO DE 2011)</small>
+
 ###### Artículo 144.
 
-Independientemente de llevar acabo (sic) la revisión a la consolidación financiera, el Órgano Técnico podrá revisar la contabilidad de cada partido político coaligado, así como de aquéllos que hayan postulado y registrado candidaturas comunes.
+Independientemente de llevar acabo (sic) la revisión a la consolidación financiera, el Órgano Técnico podrá revisar la contabilidad de cada partido político coaligado.
 
 ### CAPÍTULO IV. DEL PROYECTO DE DICTAMEN POR EL ÓRGANO TÉCNICO DE FISCALIZACIÓN
 
+> <small>(REFORMADO, G.G. 4 DE ENERO DE 2011)</small>
+
 ###### Artículo 145.
 
-En términos del artículo 61 del Código, el Órgano Técnico deberá culminar el análisis y estudio de los informes correspondientes; así como emitir el proyecto de dictamen sobre los mismos, el cual contendrá al menos el resultado y conclusiones, los errores, omisiones e irregularidades detectadas; las aclaraciones o rectificaciones, así como las recomendaciones contables y administrativas.
+El Órgano Técnico presentará al Consejo General, los informes de resultados y proyectos de dictamen sobre las auditorías y verificaciones practicadas a los partidos políticos y coaliciones. El proyecto de dictamen contendrá al menos el resultado y conclusiones, los errores, omisiones e irregularidades detectadas; las aclaraciones o rectificaciones, así como las recomendaciones contables y administrativas.
 
-El Consejo General conocerá y resolverá en definitiva los informes de los resultados y proyectos de dictamen sobre las auditorías y verificaciones practicadas a los partidos políticos.
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
+
+###### Artículo 145 Bis.
+
+El Consejo General conocerá y resolverá en definitiva los informes de los resultados y proyectos de dictamen sobre las auditorías y verificaciones practicadas a los partidos políticos, en términos del artículo 62 fracción II, inciso h) del Código.
+
+> <small>(REFORMADO, G.G. 4 DE ENERO DE 2011)</small>
 
 ###### Artículo 146.
 
-Si del análisis y revisión a los informes correspondientes, se desprenden conductas sancionables conforme al Código y otras leyes aplicables, el Órgano Técnico someterá el proyecto de dictamen al Consejo General para que resuelva sobre el particular.
+Una vez analizados y aprobados los informes y dictámenes por parte del Consejo General, la Secretaría del Consejo General elaborará el proyecto de dictamen correspondiente a las sanciones que hubieren sido objeto de resolución por parte del primero.
+
+La Secretaría del consejo General elaborará el proyecto de dictamen de sanciones para su presentación al consejo General, el cual deberá ser analizado, discutido y aprobado en su caso, dentro del plazo que no exceda de quince días, conforme lo disponen los artículo 62 fracción II, inciso h) y 97 fracción I Bis del Código.
 
 ###### Artículo 147.
 
@@ -1108,3 +1132,21 @@ Los formatos APOM y APOS especificados en el presente Reglamento, entrarán en v
 Segundo. El Órgano Técnico en un plazo de sesenta días posteriores a la entrada en vigor del presente Reglamento expedirá el mecanismo a que hacen referencia los artículos 44, 50 y 52.
 
 > <small>N. DE E. VEASE FORMATOS EN LA G.G. DEL 8 DE ENERO DE 2009, PAGINAS DE LA 195 A LA 219.</small>
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.G. 4 DE ENERO DE 2011.
+
+Primero. Los partidos políticos podrán seguir utilizando los recibos de registro de aportaciones de militantes y simpatizantes que han venido expidiendo, debiendo informar al Órgano Técnico los folios pendientes de uso a la entrada en vigor de este Reglamento.
+
+Los formatos APOM y APOS especificados en el presente Reglamento, entrarán en vigor una vez agotados los recibos señalados en el párrafo anterior, los cuales deberán quedar debidamente comprobados ante el Órgano Técnico.
+
+Segundo. El Órgano Técnico en un plazo de sesenta días posteriores a la entrada en vigor del presente Reglamento expedirá el mecanismo a que hacen referencia los artículos 44, 50 y 52.
+
+POR SU IMPORTANCIA SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO.
+
+## TRANSITORIOS
+
+PRIMERO.- Las reformas aprobadas por el Punto Primero, entrarán en vigor al día siguiente de la publicación del presente Acuerdo en el Periódico Oficial del Gobierno del Estado Libre y Soberano de México, "Gaceta del Gobierno".
+
+SEGUNDO.- Publíquese el presente Acuerdo y su anexo en el Periódico Oficial del Gobierno del Estado Libre y Soberano de México, "Gaceta del Gobierno", así como en la página electrónica del Instituto Electoral del Estado de México.
