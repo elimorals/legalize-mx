@@ -4,7 +4,7 @@ identifier: "GRO-codigo-procesal-civil-del-estado-libre-y-soberano-de-5095"
 country: "mx"
 rank: "codigo"
 publication_date: "1993-03-26"
-last_updated: "2010-12-21"
+last_updated: "2011-01-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5095&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "GRO"
 ---
 # CODIGO PROCESAL CIVIL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO NUMERO 364
 
-CODIGO PROCESAL CIVIL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO NUMERO 364
+CÓDIGO PROCESAL CIVIL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO NÚMERO 364
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ENERO DE 2011.
 
 Código publicado en el Periódico Oficial del Estado de Guerrero, el viernes 26 de marzo de 1993.
 
@@ -299,7 +299,9 @@ Reglas de competencia en providencias cautelares. Para conocer de las providenci
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
-Artículo 36 BIS.- Reglas de competencia en violencia familiar será competente el Juez que lo sea para conocer de la demanda principal. Por las repercusiones propias de la violencia familiar, podrá recibir la comparecencia cualquier Juzgador, efectuada ésta, remitirá las actuaciones al Juez competente.
+###### Artículo 36 Bis.
+
+Reglas de competencia en violencia familiar será competente el Juez que lo sea para conocer de la demanda principal. Por las repercusiones propias de la violencia familiar, podrá recibir la comparecencia cualquier Juzgador, efectuada ésta, remitirá las actuaciones al Juez competente.
 
 ###### Artículo 37.
 
@@ -457,7 +459,7 @@ V. Cuando en un negocio intervengan varias partes, cualquiera de ellas podrá ha
 
 Recusación en tribunales colegiados. En los tribunales colegiados, la recusación relativa a quienes los integren, sólo importa la de los funcionarios expresamente recusados. Si fueren varios, deberá expresarse la causa de impedimento que afecte a cada uno.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 54.
 
@@ -995,7 +997,7 @@ Derechos de los patronos o mandatarios. Los patronos o mandatarios de las partes
 
 Costas con motivo de apelación. En caso de apelación será condenada en las costas de ambas instancias, sin tener en cuenta la declaración a este respecto formulada en la primera, la parte contra la cual hayan recaído dos sentencias adversas siempre que estas sean conformes. Cuando no concurran estas circunstancias en la sentencia de segunda instancia se hará la condena en costas con sujeción a las reglas de los artículos anteriores.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE NOVIEMBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE NOVIEMBRE DE 1999)</small>
 
 ###### Artículo 111.
 
@@ -1731,7 +1733,9 @@ Lo anterior deberá decretarse sin perjuicio de las obligaciones señaladas en e
 
 > <small>(ADICIONADO, P.O. 9 DE NOVIEMBRE DE 1999)</small>
 
-Artículo 199 BIS.- Reincorporación de los menores a la residencia habitual. Cuando los menores de dieciséis años de edad sean sustraídos o retenidos ilícitamente en un lugar distinto al de su residencia habitual, el cónyuge que haya obtenido para sí la guarda y custodia provisional o definitiva de los hijos, podrá solicitar al Juzgador que conozca del asunto la reincorporación de los menores mediante incidente por cuerda separada, observándose para tal efecto lo dispuesto por el Título Quinto Libro Segundo del presente Código, pudiendo el Juzgador decretar provisionalmente el depósito de los menores ante el Sistema Estatal para el Desarrollo Integral de la Familia.
+###### Artículo 199 Bis.
+
+Reincorporación de los menores a la residencia habitual. Cuando los menores de dieciséis años de edad sean sustraídos o retenidos ilícitamente en un lugar distinto al de su residencia habitual, el cónyuge que haya obtenido para sí la guarda y custodia provisional o definitiva de los hijos, podrá solicitar al Juzgador que conozca del asunto la reincorporación de los menores mediante incidente por cuerda separada, observándose para tal efecto lo dispuesto por el Título Quinto Libro Segundo del presente Código, pudiendo el Juzgador decretar provisionalmente el depósito de los menores ante el Sistema Estatal para el Desarrollo Integral de la Familia.
 
 > <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 1999)</small>
 
@@ -1903,7 +1907,7 @@ IV. Cuando se cumpla o ejecute la sentencia definitiva; y
 
 V. Si se pidiera como acto preparatorio y no se presenta la demanda dentro del término fijado por el juzgador.
 
-> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 21 DE DICIEMBRE DE 2010)</small>
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
 #### SECCION CUARTA. ALIMENTOS PROVISIONALES
 
@@ -3545,7 +3549,7 @@ Los incidentes posteriores a la citación para sentencia no suspenderán el dict
 
 Condena en costas. Aunque no se solicite, la sentencia que decida un incidente condenará en costas al que la promovió sin razón.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 412.
 
@@ -4221,7 +4225,7 @@ V. Cuando dentro del término expresado se mejore la postura, el juzgador mandar
 
 VI. Si en la tercera subasta se hiciere postura admisible, en cuanto al precio, pero ofreciendo pagar a plazos, alterando alguna condición, se hará saber al acreedor, el cual podrá pedir dentro de los nueve días siguientes la adjudicación de los bienes en las dos terceras partes del precio de la segunda subasta, y si no hace uso de este derecho, se aprobará el remate en los términos ofrecidos por el postor.
 
-> <small>(REFORMADO PRIMER PARRAFO, 12 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, 12 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 471.
 
@@ -4243,7 +4247,7 @@ I. El juzgador mandará que se le haga entrega de ellas bajo el correspondiente 
 
 II. Se notificará el estado de administración a las personas que corresponda, y se les prevendrá que no ejecuten ningún acto que pueda impedirla;
 
-III. El acreedor y el deudor podrán establecer por acuerdos particulares las condiciones y términos de la administración, forma y época de rendir las cuentas, y las demás condiciones que estipularen. Sino lo hicieren, se entenderá que las fincas han de ser administradas según la costumbre del lugar, debiendo el acreedor rendir cuentas cada seis meses;
+III. El acreedor y el deudor podrán establecer por acuerdos particulares las condiciones y términos de la administración, forma y época de rendir las cuentas, y las demás condiciones que estipularen. Sino (sic) lo hicieren, se entenderá que las fincas han de ser administradas según la costumbre del lugar, debiendo el acreedor rendir cuentas cada seis meses;
 
 IV. Si las fincas fueren rústicas, podrá el deudor intervenir en las operaciones de la recolección;
 
@@ -4647,7 +4651,9 @@ Orden público de los asuntos del orden familiar. Todos los asuntos inherentes a
 
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
-Artículo 520 BIS.- Para los procedimientos previstos en el presente Título se observarán los principios siguientes:
+###### Artículo 520 Bis.
+
+Para los procedimientos previstos en el presente Título se observarán los principios siguientes:
 
 I. No discriminación y respeto a la dignidad de las personas. El juzgador en todo momento deberá evitar conductas encaminadas a impedir, limitar o negar el ejercicio de un derecho de las personas que participen a un proceso, por razón del sexo, pertenencia étnica, discapacidad, preferencia sexual o cualquier otra que atente contra la dignidad de las personas;
 
@@ -4785,7 +4791,7 @@ V. Precauciones que deben adoptarse respecto de la mujer que quede encinta al de
 
 Inscripción de la sentencia. Ejecutoriada la sentencia, el juzgador, enviará copia certificada al Oficial del Registro Civil ante quien se celebró el matrimonio para su anotación.
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 21 DE DICIEMBRE DE 2010)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
 ### CAPITULO IV. JUICIO DE DIVORCIO
 
@@ -4963,33 +4969,25 @@ Impugnación de la resolución. La sentencia que resuelve la solicitud de interd
 
 Sanciones en caso del ejercicio doloso de la acción. El que promueva dolosamente el juicio de interdicción, incurrirá en las penas que la ley impone por falsedad y calumnia; responderá civilmente de los daños y perjuicios que cause al supuesto incapaz, y se le impondrá además una multa hasta de doscientas cincuenta veces el salario mínimo. El demandante deberá, además, pagar los gastos y costas del juicio.
 
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO CUARTO TRANSITORIO DE LA LEY DEL REGISTRO CIVIL DEL ESTADO DE GUERRERO, P.O. 4 DE ENERO DE 2011)</small>
+
 ### CAPITULO VII. RECTIFICACION DE LAS ACTAS DEL ESTADO CIVIL
 
 ###### Artículo 559.
 
-Procedencia del juicio. La rectificación o modificación de un acta del estado civil no puede hacerse sino mediante sentencia que dicte la autoridad judicial, salvo cuando se trate de errores mecanográficos, ortográficos o de otra índole que no afecten los datos esenciales de las actas del estado civil, pues en estas hipótesis, el interesado podrá hacer la aclaración pertinente ante la Oficina del Registro Civil correspondiente.
+(DEROGADO POR ARTÍCULO CUARTO TRANSITORIO DE LA LEY DEL REGISTRO CIVIL DEL ESTADO DE GUERRERO, P.O. 4 DE ENERO DE 2011)
 
 ###### Artículo 560.
 
-Supuestos en que procede la rectificación. Sólo habrá lugar a pedir la rectificación de actas del estado civil por falsedad, cuando se alega que el acta registrada no pasó, o por enmienda, cuando se solicite variar algún nombre u otra circunstancia.
+(DEROGADO POR ARTÍCULO CUARTO TRANSITORIO DE LA LEY DEL REGISTRO CIVIL DEL ESTADO DE GUERRERO, P.O. 4 DE ENERO DE 2011)
 
 ###### Artículo 561.
 
-Legitimación. Pueden pedir la rectificación o modificación de un acta del estado civil:
-
-I. Las personas de cuyo estado se trate;
-
-II. Las que se mencionan en el acta como relacionadas con el estado civil de la persona cuya acta se pretende rectificar;
-
-III. Los herederos de las personas comprendidas en las dos fracciones anteriores; y
-
-IV. Los que señale el Código Civil.
+(DEROGADO POR ARTÍCULO CUARTO TRANSITORIO DE LA LEY DEL REGISTRO CIVIL DEL ESTADO DE GUERRERO, P.O. 4 DE ENERO DE 2011)
 
 ###### Artículo 562.
 
-Tramitación del juicio. El juicio sobre rectificación se tramitará en la vía ordinaria con intervención del Ministerio Público, y aplicándose en lo conducente las reglas establecidas en los juicios sobre paternidad y filiación.
-
-Una vez ejecutoriada la sentencia, se comunicará a la oficina Estatal del Registro Civil y al Oficial del Registro Civil respectivo, para que haga referencia de ella al margen del acta impugnada, sea que el fallo conceda o niegue la rectificación.
+(DEROGADO POR ARTÍCULO CUARTO TRANSITORIO DE LA LEY DEL REGISTRO CIVIL DEL ESTADO DE GUERRERO, P.O. 4 DE ENERO DE 2011)
 
 ### CAPITULO VIII. JUICIO DE ALIMENTOS
 
@@ -5015,7 +5013,7 @@ En el mismo auto el juzgador señalará el día y la hora para que tenga verific
 
 Audiencia. La audiencia se practicará con o sin asistencia de las partes. El juzgador para resolver el problema que se planteé, podrá cerciorarse personalmente o con auxilio de trabajadores sociales, de la veracidad de los hechos. Aquellos presentarán el informe correspondiente en la audiencia, y podrán ser interrogados por el juzgador y por las partes. Su valoración se hará conforme a lo dispuesto por el artículo 349 de este Código. En el fallo se expresarán en todo caso los medios de prueba en que se haya fundado el juzgador para dictarlo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 566.
 
@@ -5023,7 +5021,7 @@ Sentencia. La sentencia se pronunciará de manera breve y concisa, en el mismo m
 
 Las resoluciones sobre alimentos que fueren apeladas, se ejecutarán sin fianza.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 21 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
 ### CAPITULO VIII BIS. VIOLENCIA FAMILIAR
 
@@ -5341,7 +5339,7 @@ Posibilidad del acreedor hipotecario de escoger la vía para su reclamación. Si
 
 Derecho del deudor de consignar el importe de la deuda a resultas del juicio. Cuando el deudor consignare la cantidad reclamada para evitar los gastos y molestias del embargo reservándose el derecho de oponerse, se suspenderá el embargo, y la cantidad se depositará conforme a la ley; si la cantidad consignada no fuere suficiente para cubrir la deuda principal y las costas, se practicará el embargo por lo que falte.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 6 DE ENERO DE 1998)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE ENERO DE 1998)</small>
 
 ### CAPITULO II. JUICIO ESPECIAL HIPOTECARIO
 
@@ -6995,7 +6993,7 @@ C. CARLOS JAVIER VEGA MEMIJE.
 
 Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 27 DE ENERO DE 1995.
 
@@ -7019,7 +7017,7 @@ PRIMERO.- El presente Decreto que reforma, adiciona y deroga diversas disposicio
 
 SEGUNDO.- Los asuntos pendientes al entrar en vigor este Decreto se sujetarán a las disposiciones anteriores.
 
-P.O. 12 DE DICIEMBRE DE 2000
+P.O. 12 DE DICIEMBRE DE 2000.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
@@ -7044,3 +7042,19 @@ Remítase el presente Decreto al Titular del Poder Ejecutivo Estatal, para los e
 P.O. 21 DE DICIEMBRE DE 2010.
 
 ÚNICO.- El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico oficial del Gobierno del Estado de Guerrero.
+
+P.O. 4 DE ENERO DE 2011.
+
+PRIMERO.- La presente Ley entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se abroga la Ley Reglamentaria del Registro Civil del Estado de Guerrero, publicada en el Periódico Oficial del Gobierno del Estado número 54, de fecha 5 de julio de 1988.
+
+TERCERO.- Se deroga el Capitulo IX De la Rectificación de las Actas del Estado Civil, con los artículos 370, 371, 372 y 373 del Código Civil del Estado de Guerrero.
+
+CUARTO.- Se deroga el Capítulo VII, de la Rectificación de las Actas del Estado Civil, con los artículos 559, 560, 561 y 562, del Código Procesal Civil del Estado de Guerrero.
+
+QUINTO.- En un término de cuarenta y cinco días la Coordinación Técnica del Sistema Estatal del Registro Civil, deberá elaborar el reglamento a que se refiere esta Ley.
+
+SEXTO.- Una vez entrada en vigor la presente Ley, la Coordinación Técnica del Sistema Estatal del Registro Civil creará las unidades administrativas encargadas de conocer y resolver los Procedimientos de Aclaración o rectificación administrativa que establece esta Ley, con el personal especializado en la materia.
+
+SÉPTIMO.- Respecto a los juicios de rectificación pendientes por resolver en los Juzgados Familiares de Primera Instancia, al entrar en vigor la presente Ley, los interesados podrán continuar su trámite conforme a las disposiciones legales vigentes a la fecha de su inicio o sujetarse al procedimiento de rectificación administrativa previsto en esta Ley.
