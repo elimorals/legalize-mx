@@ -4,7 +4,7 @@ identifier: "GRO-codigo-civil-del-estado-libre-y-soberano-de-guerrero-numero-509
 country: "mx"
 rank: "codigo"
 publication_date: "1993-03-02"
-last_updated: "2010-12-21"
+last_updated: "2011-01-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5092&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CODIGO CIVIL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, NUMERO 358
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ENERO DE 2011.
 
 Código publicado en el Periódico Oficial del Estado de Guerrero, el martes 2 de marzo de 1993.
 
@@ -1943,31 +1943,25 @@ El Oficial del Registro levantará el acta correspondiente, en la que insertará
 
 Cuando se recobre la capacidad legal para administrar, se presente la persona declarada ausente o cuya muerte se presumía, se dará aviso al oficial del Registro Civil por el mismo interesado o por la autoridad que corresponda, para que cancele el acta a que se refiere el artículo anterior.
 
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR ARTICULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO CIVIL DEL ESTADO DE GUERRERO, P.O. 4 DE ENERO DE 2011)</small>
+
 ### Capítulo IX. De la rectificación de las actas del estado civil
 
 ###### Artículo 370.
 
-La rectificación o modificación de un acta del estado civil no puede hacerse sino ante el Poder Judicial y en virtud de sentencia de éste, salvo el reconocimiento que voluntariamente hagan los padres de su hijo, el cual se sujetará a las prescripciones de este Código.
-
-La sentencia ejecutoriada se comunicará al oficial del Registro Civil y éste hará una referencia a ella al margen del acta controvertida, sea que el fallo conceda o niegue la rectificación.
-
-El juicio de rectificación puede promoverse por las personas a que se refiera el acta cuestionada; por las que se mencionen en ella como relacionadas con el estado civil de alguno; por los herederos de éstas y aquellas y por las personas que según este Código pueden intentar o continuar las acciones del estado civil.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO CIVIL DEL ESTADO DE GUERRERO, P.O. 4 DE ENERO DE 2011)
 
 ###### Artículo 371.
 
-Podrá promoverse la rectificación:
-
-I. Cuando se alegue falsedad del acto registrado; y
-
-II. Cuando se solicite variar algún nombre u otra circunstancia, sea ésta esencial o accidental.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO CIVIL DEL ESTADO DE GUERRERO, P.O. 4 DE ENERO DE 2011)
 
 ###### Artículo 372.
 
-El juicio de rectificación de acta se seguirá en la forma que se establezca en el Código de Procedimientos Civiles.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO CIVIL DEL ESTADO DE GUERRERO, P.O. 4 DE ENERO DE 2011)
 
 ###### Artículo 373.
 
-La aclaración de las actas del estado civil, procede cuando en el Registro existan errores caligráficos, ortográficos o de otra índole que no afecten los datos esenciales de aquéllas y deberán tramitarse ante la Coordinación Técnica del Sistema Estatal del Registro Civil del Gobierno del Estado.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO CIVIL DEL ESTADO DE GUERRERO, P.O. 4 DE ENERO DE 2011)
 
 ### Capítulo I. Disposiciones generales
 
@@ -3269,15 +3263,19 @@ El consentimiento que se diere ante un organismo público o particular de asiste
 
 Las personas adoptantes podrán oponerse a que su identidad fuere revelada a la familia de la persona adoptada, si ésta hubiere sido declarada abandonada o fuese pupila de un establecimiento de asistencia público o privado.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 04 DE ENERO DE 2011)</small>
+
 ###### Artículo 580.
 
-Con vistas a la futura adopción plena, podrá ser declarado por el juez el estado de abandono de un menor, cuyos padres se hubieren comportado con manifiesto desinterés hacia él, sin causa que lo justifique, en términos de comprometer los vínculos afectivos propios de la filiación, si observaren tal conducta, durante por lo menos el año anterior al pedido de declaración.
+El Juez de la materia podrá declarar el estado de abandono de un menor, siempre que los padres se hubieren comportado con manifiesto desinterés hacia él, al grado de poner en riesgo su vida, educación y pleno desarrollo durante los seis meses anteriores al pedido de la declaración.
 
 Tendrán legitimación activa para requerir la declaración de abandono, quienes hubieren tenido al menor bajo su guarda, el Ministerio Público o el director del establecimiento de asistencia donde el menor hubiese sido colocado.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 04 DE ENERO DE 2011)</small>
+
 ###### Artículo 581.
 
-El vínculo de adopción plena será constituido por sentencia dictada por el Juez competente, después que los adoptantes hubieren tenido bajo su guarda al adoptado, por período no menor de un año.
+El vínculo de adopción plena será constituido por sentencia dictada por el Juez competente, después que los adoptantes hubieren tenido bajo su guarda al adoptado, por un período de seis meses.
 
 La adopción será decretada cuando presente reales ventajas para el menor, se funde en motivos legítimos, no entrañe sacrificio injusto para los hijos de los adoptantes, si los tuvieren, y se hubieren establecido lazos afectivos entre adoptantes y adoptado, propios de padres e hijos.
 
@@ -15530,3 +15528,29 @@ SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado para su c
 P.O. 21 DE DICIEMBRE DE 2010.
 
 ÚNICO.- El presente Decreto entrará en vigor, el día siguiente de su publicación en el Periódico oficial del Gobierno del Estado de Guerrero.
+
+P.O. 4 DE ENERO DE 2011.
+
+DECRETO NUMERO 506 POR EL QUE SE REFORMA EL PRIMER PARRAFO DEL ARTICULO 580 Y PRIMER PARRAFO DEL ARTICULO 581 DEL CODIGO CIVIL PARA EL ESTADO DE GUERRERO.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 4 DE ENERO DE 2011.
+
+LEY NUMERO 495 DEL REGISTRO CIVIL DEL ESTADO DE GUERRERO, POR EL QUE SE DEROGA EL CAPITULO IX DE LA RECTIFICACION DE LAS ACTAS DEL ESTADO CIVIL, CON LOS ARTICULOS 370, 371, 372 Y 373 DEL CODIGO CIVIL DEL ESTADO DE GUERRERO.
+
+PRIMERO.- LA PRESENTE LEY ENTRARA EN VIGOR AL DIA SIGUIENTE DE SU PUBLICACION EN EL PERIODICO OFICIAL DEL GOBIERNO DEL ESTADO.
+
+SEGUNDO.- SE ABROGA LA LEY REGLAMENTARIA DEL REGISTRO CIVIL DEL ESTADO DE GUERRERO, PUBLICADA EN EL PERIODICO OFICIAL DEL GOBIERNO DEL ESTADO NUMERO 54, DE FECHA 5 DE JULIO DE 1988.
+
+TERCERO.- SE DEROGA EL CAPITULO IX DE LA RECTIFICACION DE LAS ACTAS DEL ESTADO CIVIL, CON LOS ARTICULOS 370, 371, 372 Y 373 DEL CODIGO CIVIL DEL ESTADO DE GUERRERO.
+
+CUARTO.- SE DEROGA EL CAPITULO VII, DE LA RECTIFICACION DE LAS ACTAS DEL ESTADO CIVIL, CON LOS ARTICULOS 559, 560, 561 Y 562, DEL CODIGO PROCESAL CIVIL DEL ESTADO DE GUERRERO.
+
+QUINTO. - EN UN TÉRMINO DE CUARENTA Y CINCO DÍAS LA COORDINACIÓN TÉCNICA DEL SISTEMA ESTATAL DEL REGISTRO CIVIL, DEBERÁ ELABORAR EL REGLAMENTO A QUE SE REFIERE ESTA LEY.
+
+SEXTO. - UNA VEZ ENTRADA EN VIGOR LA PRESENTE LEY, LA COORDINACIÓN TÉCNICA DEL SISTEMA ESTATAL DEL REGISTRO CIVIL CREARÁ LAS UNIDADES ADMINISTRATIVAS ENCARGADAS DE CONOCER Y RESOLVER LOS PROCEDIMIENTOS DE ACLARACIÓN O RECTIFICACIÓN ADMINISTRATIVA QUE ESTABLECE ESTA LEY, CON EL PERSONAL ESPECIALIZADO EN LA MATERIA.
+
+SÉPTIMO.- RESPECTO A LOS JUICIOS DE RECTIFICACIÓN PENDIENTES POR RESOLVER EN LOS JUZGADOS FAMILIARES DE PRIMERA INSTANCIA, AL ENTRAR EN VIGOR LA PRESENTE LEY, LOS INTERESADOS PODRÁN CONTINUAR SU TRÁMITE CONFORME A LAS DISPOSICIONES LEGALES VIGENTES A LA FECHA DE SU INICIO O SUJETARSE AL PROCEDIMIENTO DE RECTIFICACIÓN ADMINISTRATIVA PREVISTO EN ESTA LEY.
