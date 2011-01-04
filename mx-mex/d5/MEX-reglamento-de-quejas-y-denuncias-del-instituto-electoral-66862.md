@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-de-quejas-y-denuncias-del-instituto-electoral-66862"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-01-08"
-last_updated: "2009-01-08"
+last_updated: "2011-01-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66862&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DE QUEJAS Y DENUNCIAS DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ENERO DE 2011.
 
 Reglamento publicado en la Sección Cuarta de la Gaceta del Gobierno del Estado de México, el jueves 8 de enero de 2009.
 
@@ -297,9 +297,11 @@ IX. En su caso, el monto del beneficio, lucro, daño o perjuicio derivado del in
 
 Para el caso de que se imponga una sanción a una coalición, en la resolución correspondiente deberán quedar claramente expresadas, cuando el caso lo permita, las circunstancias particulares en las que cada uno de los partidos políticos participó u omitió los hechos constitutivos de la falta, ya sea por participación directa o por corresponsabilidad.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE ENERO DE 2011)</small>
+
 ###### Artículo 22.
 
-Para efecto de la correspondiente individualización de la sanción, si se trata de coaliciones o candidatura común, se deberá hacer la individualización por cada uno de los partidos participantes.
+Para efecto de la correspondiente individualización de la sanción, si se trata de coaliciones se deberá hacer la individualización por cada uno de los partidos participantes.
 
 En materia de fiscalización de los recursos otorgados a los partidos políticos o coaliciones, las sanciones se individualizarán por cada irregularidad u omisión cometida.
 
@@ -425,9 +427,11 @@ En ningún caso, la omisión de adjuntar las pruebas correspondientes dará luga
 
 Presentada la queja o denuncia ante cualquier órgano del Instituto, se turnará inmediatamente a la Oficialía de Partes, para el control administrativo correspondiente, misma que lo turnará de inmediato a la Secretaría para su trámite y sustanciación.
 
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2011)</small>
+
 ###### Artículo 39.
 
-Cuando la queja o denuncia se presente ante los Órganos Desconcentrados, éstos deberán hacerlo del conocimiento inmediato de la Secretaría, y de oficio realizar las acciones necesarias para verificar hechos, impedir el ocultamiento, menoscabo o desaparición de pruebas o indicios, que sean el sustento de la misma y remitirla dentro del plazo de 48 horas en términos del artículo anterior.
+Cuando la queja o denuncia se presente ante los Órganos Desconcentrados, éstos deberán hacerlo del conocimiento inmediato de la Secretaría, y de oficio realizar las acciones necesarias para verificar hechos impedir el ocultamiento, menoscabo o desaparición de pruebas o indicios, que sean el sustento de la misma y remitirla dentro del plazo de 48 horas en términos del artículo anterior.
 
 ###### Artículo 40.
 
@@ -548,3 +552,17 @@ Las multas que se apliquen en los términos del Código y el presente Reglamento
 ## Transitorio
 
 Único. Todo lo no previsto será resuelto en términos del Código Electoral y del artículo cuarto del presente Reglamento, por el Consejo General.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.G. 4 DE ENERO DE 2011.
+
+Único. Todo lo no previsto será resuelto en términos del Código Electoral y del artículo cuarto del presente Reglamento, por el Consejo General.
+
+POR SU IMPORTANCIA SE TRANSCRIBEN LOS PUNTOS TRANSITORIOS DEL ACUERDO.
+
+T R A N S I T O R I O S
+
+PRIMERO.- La reforma aprobada por el Punto Único, entrará en vigor al día siguiente de la publicación del presente Acuerdo en el Periódico Oficial del Gobierno del Estado Libre y Soberano de México, "Gaceta del Gobierno".
+
+SEGUNDO.- Publíquese el presente Acuerdo y su anexo en el Periódico Oficial del Gobierno del Estado Libre y Soberano de México, "Gaceta del Gobierno", así como en la página electrónica del Instituto Electoral del Estado de México.
