@@ -4,7 +4,7 @@ identifier: "GRO-ley-reglamentaria-del-registro-civil-del-estado-de-guerrero-518
 country: "mx"
 rank: "ley"
 publication_date: "1988-07-05"
-last_updated: "2008-12-30"
+last_updated: "2011-01-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5184&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GRO"
 
 LEY REGLAMENTARIA DEL REGISTRO CIVIL DEL ESTADO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2008.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY NUMERO 495 DEL REGISTRO CIVIL DEL ESTADO DE GUERRERO, PUBLICADA EN EL P.O. DE 4 DE ENERO DE 2011. EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 5 de julio de 1988.
 
@@ -734,3 +736,19 @@ P.O. 30 DE DICIEMBRE DE 2008.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico del Gobierno del Estado de Guerrero.
 
 SEGUNDO.- Remítase al Titular del Poder Ejecutivo Estatal para los efectos legales conducentes.
+
+P.O. 4 DE ENERO DE 2011.
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se abroga la Ley Reglamentaria del Registro Civil del Estado de Guerrero, publicada en el Periódico Oficial del Gobierno del Estado número 54, de fecha 5 de julio de 1988.
+
+TERCERO.- Se deroga el Capítulo IX De la Rectificación de las Actas del Estado Civil, con los artículos 370, 371, 372 y 373 del Código Civil del Estado de Guerrero.
+
+CUARTO.- Se deroga el Capítulo VII, de la Rectificación de las Actas del Estado Civil, con los artículos 559, 560, 561 y 562, del Código Procesal Civil del Estado de Guerrero.
+
+QUINTO.- En un término de cuarenta y cinco días la Coordinación Técnica del Sistema Estatal del Registro Civil, deberá elaborar el Reglamento a que se refiere esta Ley.
+
+SEXTO.- Una vez entrada en vigor la presente Ley, la Coordinación Técnica del Sistema Estatal del Registro Civil creará las unidades administrativas encargadas de conocer y resolver los Procedimientos de Aclaración o rectificación administrativa que establece esta Ley, con el personal especializado en la materia.
+
+SÉPTIMO.- Respecto a los juicios de rectificación pendientes por resolver en los Juzgados Familiares de Primera Instancia, al entrar en vigor la presente Ley, los interesados podrán continuar su trámite conforme a las disposiciones legales vigentes a la fecha de su inicio o sujetarse al procedimiento de rectificación administrativa previsto en esta Ley.
