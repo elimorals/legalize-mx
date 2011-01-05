@@ -4,7 +4,7 @@ identifier: "PUE-constitucion-politica-del-estado-libre-y-soberano-de-puebla-751
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-02"
-last_updated: "2010-10-08"
+last_updated: "2011-01-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ENERO DE 2011.
 
 Constitución publicada en el Periódico Oficial del Estado de Puebla, el martes 2 de octubre de 1917.
 
@@ -279,6 +279,10 @@ La atención, protección y demás acciones previstas en este artículo son de o
 
 El Estado de Puebla tiene una composición pluricultural y multilingüística, sustentada originalmente en sus pueblos y comunidades indígenas Náhuas, Totonacas o Tutunakuj, Mixtecas o Ñuu Savi, Tepehuas o Hamaispini, Otomíes o Hñähñü, Popolocas o N'guiva y Mazatecas o Ha shuta enima, los cuales se asentaron en el territorio que actualmente ocupa la Entidad desde la época precolombina y conservan instituciones sociales, económicas, culturales y políticas, que les son propias.
 
+> <small>(ADICIONADO, P.O. 5 DE ENERO DE 2011)</small>
+
+El Estado reconoce a las comunidades indígenas como sujetos de derecho público.
+
 La conciencia de su identidad indígena deberá ser criterio fundamental para determinar a quiénes se aplican las disposiciones sobre pueblos indígenas, mismas que establecerán las medidas y procedimientos que permitan hacer valer y respetar los derechos sociales de los pueblos y comunidades indígenas, conforme a las siguientes bases:
 
 I.- Los pueblos y comunidades indígenas establecidos en el Estado y reconocidos en esta Constitución, tendrán derecho a la libre determinación, mismo que se ejercerá en un marco constitucional de autonomía que asegure la unidad estatal y nacional, para:
@@ -445,7 +449,7 @@ III.- Por pena impuesta en sentencia judicial.
 
 Los derechos y prerrogativas, suspensos o perdidos, se recuperan:
 
-I.- En el caso de la fracción l del artículo anterior, por recuperar la ciudadanía mexicana; y
+I.- En el caso de la fracción I del artículo anterior, por recuperar la ciudadanía mexicana; y
 
 II.- En los demás casos por cumplimiento de la pena, por haber finalizado el término o cesado las causas de la suspensión o por rehabilitación.
 
@@ -467,7 +471,7 @@ El Estado reconoce a la Familia como una institución fundamental que constituye
 
 Se establece en el Estado la institución del patrimonio de familia o familiar. Las leyes determinarán los bienes que constituyan el patrimonio de la familia, bienes que serán inalienables, no podrán sujetarse a gravámenes reales, y podrán ser transmisibles a título de herencia con simplificación de las formalidades de los juicios sucesorios.
 
-Los Poderes Públicos garantizarán el desarrollo integral de la Familia, con sus derechos y obligaciones; atendiendo los contenidos en la Constitución Política de los Estados Unidos Mexicanos, los Tratados, Convenciones y demás Instrumentos Internacionales ratificados por el Estado Mexicano y los ordenamientos secundarios; al tenor de los siguientes principios:
+Los Poderes Públicos garantizarán el desarrollo integral de la Familia, con sus derechos y obligaciones; atendiendo los contenidos en la Constitución Política de los Estados Unidos Mexicanos, los Tratados Convenciones, y demás Instrumentos Internacionales ratificados por el Estado Mexicano y los ordenamientos secundarios; al tenor de los siguientes principios:
 
 I.- Su forma de organización;
 
@@ -821,7 +825,7 @@ El Congreso del Estado autorizará a los Ayuntamientos, cuando proceda, afectar 
 
 > <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2009)</small>
 
-IX.- Supervisar, coordinar y evaluar al Órgano de Fiscalización Superior del Estado, sin perjuicio de la autonomía que le confiere el artículo 113 de esta Constitución, y expedir la Ley que regule su organización, funcionamiento y atribuciones;
+IX.- Supervisar, coordinar y evaluar al Órgano de Fiscalización Superior del Estado, sin perjuicio de la autonomía que le confiere el artículo 113 de esta Constitución, y expedir la Ley que regule su organización, funcionamiento y atribuciones.
 
 > <small>(REFORMADA, P.O. 5 DE MARZO DE 2001)</small>
 
@@ -829,7 +833,7 @@ X.- Nombrar y remover a los servidores públicos que por ley le correspondan; as
 
 > <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2009)</small>
 
-XI.- Dictaminar las Cuentas Públicas de los Poderes del Estado, de los Ayuntamientos y demás sujetos de revisión, con el apoyo del Órgano de Fiscalización Superior del Estado con base en el Informe del Resultado de la revisión que éste le remita en cualquiera de los periodos de sesiones a que se refiere esta Constitución;
+XI.- Dictaminar las Cuentas Públicas de los Poderes del Estado, de los Ayuntamientos y demás sujetos de revisión, con el apoyo del Órgano de Fiscalización Superior del Estado con base en el Informe del Resultado de la revisión que éste le remita en cualquiera de los periodos de sesiones a que se refiere esta Constitución.
 
 > <small>(REFORMADA, P.O. 5 DE MARZO DE 2001)</small>
 
@@ -843,19 +847,19 @@ XIV.- Elegir a los Magistrados del Tribunal Superior de Justicia y del Tribunal 
 
 > <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2009)</small>
 
-XV.- Conocer y resolver sobre las renuncias; así como de las licencias por más de treinta días del Gobernador, de los Diputados, de los Magistrados del Tribunal Superior de Justicia, del Tribunal Contencioso Administrativo, de los del Tribunal Electoral del Estado, del Auditor General del Órgano de Fiscalización Superior del Estado y demás que conforme a Ley deba conocer;
+XV.- Conocer y resolver sobre las renuncias; así como de las licencias por más de treinta días del Gobernador, de los Diputados, de los Magistrados del Tribunal Superior de Justicia, del Tribunal Contencioso Administrativo, de los del Tribunal Electoral del Estado, del Auditor General del Órgano de Fiscalización Superior del Estado y demás que conforme a Ley deba conocer.
 
 > <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2000)</small>
 
-XVI.- Nombrar, por consenso o por mayoría calificada de los miembros del Congreso presentes, en ese orden de prelación, al Consejero Presidente y a los Consejeros Electorales del Consejo General del Instituto Electoral del Estado. De igual forma deberá nombrar a los Consejeros Electorales suplentes. El Código aplicable establecerá el procedimiento y las reglas respectivas;
+XVI.- Nombrar, por consenso o por mayoría calificada de los miembros del Congreso presentes, en ese orden de prelación, al Consejero Presidente y a los Consejeros Electorales del Consejo General del Instituto Electoral del Estado. De igual forma deberá nombrar a los Consejeros Electorales suplentes. El Código aplicable establecerá el procedimiento y las reglas respectivas.
 
 > <small>(REFORMADA, P.O. 2 DE FEBRERO DE 1984)</small>
 
-XVII.- Elegir con el carácter de interino al ciudadano que deba sustituir al Gobernador de elección popular directa, en sus faltas temporales, o en su falta absoluta, si ésta acaeciere en los dos primeros años del período constitucional;
+XVII.- Elegir con el carácter de interino al ciudadano que deba sustituir al Gobernador de elección popular directa, en sus faltas temporales, o en su falta absoluta, si ésta acaeciere en los dos primeros años del período constitucional.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE SEPTIEMBRE DE 2000)</small>
 
-XVIII.- Convocar a elecciones, comunicando oportunamente al Consejo General del Instituto Electoral del Estado;
+XVIII.- Convocar a elecciones, comunicando oportunamente al Consejo General del Instituto Electoral del Estado.
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 2 DE FEBRERO DE 1984)</small>
 
@@ -897,7 +901,7 @@ En los casos de los puntos 1 y 2 de esta fracción, el Congreso nombrará un Con
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE SEPTIEMBRE DE 2000)</small>
 
-XXII.- Solicitar al Instituto Electoral del Estado, por el voto de las dos terceras partes de sus miembros, que someta a plebiscito, en los términos que disponga la ley correspondiente, las propuestas de decisiones o actos del Ejecutivo del Estado considerados como trascendentales para el orden público o el interés social de la Entidad;
+XXII.- Solicitar al Instituto Electoral del Estado, por el voto de las dos terceras partes de sus miembros, que someta a plebiscito, en los términos que disponga la ley correspondiente, las propuestas de decisiones o actos del Ejecutivo del Estado considerados como trascendentales para el orden público o el interés social de la Entidad.
 
 > <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2009)</small>
 
@@ -917,11 +921,11 @@ Las leyes que regulen la organización y el funcionamiento del Sistema de Justic
 
 > <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2009)</small>
 
-XXVIII.- Aprobar las leyes de ingresos de los Municipios, así como las zonas catastrales y las tablas de valores unitarios de suelo y construcción, que sirvan de base para el cobro de las contribuciones a la propiedad inmobiliaria de los Municipios;
+XXVIII.- Aprobar las leyes de ingresos de los Municipios, así como las zonas catastrales y las tablas de valores unitarios de suelo y construcción, que sirvan de base para el cobro de las contribuciones a la propiedad inmobiliaria de los Municipios.
 
 > <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 20 DE FEBRERO DE 2002)</small>
 
-XXIX.- Establecer las bases que permitan al Estado y a los Municipios, coordinarse en materia de ingreso, gasto, deuda y patrimonio público, para su desarrollo e inversión;
+XXIX.- Establecer las bases que permitan al Estado y a los Municipios, coordinarse en materia de ingreso, gasto, deuda y patrimonio público, para su desarrollo e inversión.
 
 > <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2008)</small>
 
@@ -1565,7 +1569,7 @@ b).- Los Municipios podrán celebrar convenios con el Estado, para que éste se 
 
 > <small>(REFORMADO, P.O. 16 DE JUNIO DE 2010)</small>
 
-c).- Los presupuestos de egresos de los Municipios serán aprobados por los respectivos Ayuntamientos, con base en los ingresos de que dispongan, en los que se deberá incluir invariablemente los tabuladores desglosados de las remuneraciones que perciban los servidores públicos municipales, sujetándose a lo dispuesto en el artículo 134 de esta Constitución.
+c).- Los presupuestos de egresos de los Municipios serán aprobados por los respectivos Ayuntamientos, con base en los ingresos de que dispongan, en los que se deberán incluir invariablemente los tabuladores desglosados de las remuneraciones que perciban los servidores públicos municipales, sujetándose a lo dispuesto en el artículo 134 de esta Constitución.
 
 (REFORMADO, P.O. 17 DE DICIEMBRE DE 2001) (REPUBLICADA, P.O. 20 DE FEBRERO DE 2002)
 
@@ -2678,3 +2682,9 @@ SEXTO.- Los asuntos que se encuentren en trámite en los órganos análogos a la
 SÉPTIMO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 OCTAVO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 5 DE ENERO DE 2011.
+
+PRIMERO.- El Honorable Congreso del Estado Libre y Soberano de Puebla, declara que estas reformas han sido aprobadas en términos de las disposiciones constitucionales aplicables y forman parte de la Constitución Política del Estado Libre y Soberano de Puebla.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
