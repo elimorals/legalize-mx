@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-del-titulo-quinto-del-codigo-financiero-del-66475"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-01-01"
-last_updated: "2009-01-01"
+last_updated: "2011-01-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66475&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DEL TITULO QUINTO DEL CODIGO FINANCIERO DEL ESTADO DE MEXICO Y MUNICIPIOS, DENOMINADO "DEL CATASTRO"
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE ENERO DE 2011.
 
 Reglamento publicado en la Sección Segunda de la Gaceta del Gobierno del Estado de México, el jueves 1o. de enero de 2009.
 
@@ -145,7 +145,9 @@ I. Aplicar las normas, procedimientos, metodologías y criterios establecidos pa
 
 II. Proporcionar asesoría y capacitación al personal de las unidades administrativas municipales encargadas del desarrollo de las actividades en materia catastral, y diagnosticar la aplicación de la normatividad en el desarrollo de los procesos técnicos y administrativos.
 
-III. Captar, recopilar, revisar, integrar y procesar los datos, documentos, informes, propuestas y respaldos en medios electrónicos de almacenamiento generados por los municipios en materia catastral, conforme a los requerimientos y en los términos establecidos en el LIGECEM, este Reglamento, el Manual Catastral y demás disposiciones jurídicas aplicables.
+> <small>(REFORMADA, G.G. 5 DE ENERO DE 2011)</small>
+
+III. Captar, recopilar, revisar, integrar y procesar los datos, documentos, informes, propuestas y respaldos en medios electrónicos de almacenamiento generados por los municipios en materia catastral, conforme a los requerimientos y en los términos establecidos en el LlGECEM, el Título Quinto del Código Financiero del Estado de México y Municipios, este Reglamento, el Manual Catastral y demás disposiciones jurídicas aplicables.
 
 IV. Operar, controlar y resguardar adecuadamente el acervo de información geográfica catastral y estadística catastral en el centro de consulta ubicado en la Delegación.
 
@@ -165,7 +167,9 @@ Los avalúos catastrales serán practicados por el IGECEM o por especialistas en
 
 El IGECEM enviará a los ayuntamientos copias de los avalúos que se realicen conforme al artículo anterior y de los documentos que acredite la propiedad, dentro de los 15 días hábiles siguientes a su expedición o fecha de recepción, a efecto de actualizar el padrón catastral municipal.
 
-Cuando los ayuntamientos identifiquen diferencias en los datos técnicos contenidos en los avalúos catastrales, contra los que físicamente presenta el inmueble, podrán solicitar al IGECEM la revisión del estudio, así como los elementos y documentos que sirvieron de base para su elaboración.
+> <small>(REFORMADO, G.G. 5 DE ENERO DE 2011)</small>
+
+Cuando el catastro municipal identifique diferencias en los datos técnicos contenidos en los avalúos catastrales, contra los que físicamente presenta el inmueble, podrán solicitar al IGECEM la revisión del estudio, así como los elementos y documentos que sirvieron de base para su elaboración.
 
 ###### Artículo 11.
 
@@ -239,7 +243,9 @@ III. Informe mensual de los levantamientos topográficos y verificación de lind
 
 IV. Informe mensual de las actualizaciones del Padrón Catastral emitido por el Sistema de Información Catastral.
 
-V. Propuestas de creación, modificación y actualización de áreas homogéneas, bandas de valor, manzanas, códigos de clave de calle, nomenclatura y valores unitarios de suelo y construcciones con los soportes documentales y formatos que sustenten las actualizaciones propuestas.
+> <small>(REFORMADA, G.G. 5 DE ENERO DE 2011)</small>
+
+V. Propuestas de modificación y actualización de áreas homogéneas, bandas de valor, manzanas, códigos de clave de calle, nomenclatura y valores unitarios de suelo y construcciones con los soportes documentales y formatos que sustenten las actualizaciones propuestas.
 
 VI. Copia certificada del acuerdo contenido en el acta de la sesión de cabildo en la que se aprobaron las propuestas y soportes enunciados en la fracción V de este artículo.
 
@@ -251,7 +257,9 @@ Los levantamientos topográficos catastrales podrán realizarse a solicitud de l
 
 Los solicitantes de la práctica de levantamientos topográficos catastrales deberán presentar ante las autoridades catastrales, los documentos siguientes:
 
-I. Solicitud por escrito.
+> <small>(REFORMADA, G.G. 5 DE ENERO DE 2011)</small>
+
+l. Solicitud por escrito o en el formato establecido.
 
 II. Relación de los nombres y domicilios de los propietarios o poseedores de los inmuebles colindantes al predio materia del levantamiento, para su notificación.
 
@@ -277,7 +285,7 @@ Al término del levantamiento topográfico catastral, se elaborará acta circuns
 
 En caso de que algún propietario o poseedor de un inmueble colindante o su representante legal no quisieren firmar el acta, se anotará en ésta la razón de su negativa, así mismo, cuando haya sido notificado legalmente y no asista a la diligencia del levantamiento topográfico, se asentará en el acta dicha razón.
 
-Los datos contenidos en el plano obtenido por la autoridad catastral serán considerados, en su caso, para actualizar el padrón catastral municipal. Cuando el levantamiento topográfico lo realice el IGECEM, además de la copia de l plano, deberá remitir al Ayuntamiento, copias del acta circunstanciada y del documento que acredite la propiedad.
+Los datos contenidos en el plano obtenido por la autoridad catastral serán considerados, en su caso, para actualizar el padrón catastral municipal. Cuando el levantamiento topográfico lo realice el IGECEM, además de la copia del plano, deberá remitir al Ayuntamiento, copias del acta circunstanciada y del documento que acredite la propiedad.
 
 ###### Artículo 18.
 
@@ -601,17 +609,23 @@ II. El registro gráfico deberá contener:
 
 A. Tratándose de la cartografía lineal catastral a nivel de manzana:
 
-1. Delimitación de zonas catastrales.
+> <small>(ADICIONADO, G.G. 5 DE ENERO DE 2011)</small>
 
-2. Delimitación de áreas homogéneas.
+1. Delimitación municipal.
 
-3. Delimitación de bandas de valor.
+2. Delimitación de zonas catastrales.
 
-4. Delimitación de manzanas.
+3. Delimitación de áreas homogéneas.
 
-5. Código de clave de calle.
+4. Delimitación de bandas de valor.
 
-6. Nombre de la calle.
+> <small>(REFORMADO, G.G. 5 DE ENERO DE 2011)</small>
+
+5. Delimitación y código de manzanas.
+
+6. Código de clave de calle.
+
+7. Nombre de la calle.
 
 B. En el caso de la cartografía lineal catastral a nivel de predio, además de lo anterior:
 
@@ -687,7 +701,13 @@ e) Ejecución de obras de construcción, reconstrucción, ampliación o demolici
 
 f) Afectación por la ejecución de obra pública.
 
-g) Afectación por hechos geológicos o hidrometeorológicos.
+> <small>(REFORMADO, G.G. 5 DE ENERO DE 2011)</small>
+
+g). Afectación por hechos geológicos o hidrometeorológicos o antropogénicos.
+
+> <small>(ADICIONADO, G.G. 5 DE ENERO DE 2011)</small>
+
+h). Restricción de aprovechamiento del terreno.
 
 ###### Artículo 35.
 
@@ -743,7 +763,9 @@ Cada área homogénea se deberá delimitar conforme a lo establecido en los art�
 
 I. Un área homogénea deberá tener solamente un régimen jurídico de la propiedad.
 
-II. Cada área homogénea deberá tener solo un uso del suelo, con excepción de aquellos asentamientos que por la naturaleza del desarrollo de la población y por las características predominantes que la identifican, exista una mezcla de usos del suelo que los Ayuntamientos consideren permanente e indivisible, en estos casos, para efectos de identificación y valuación catastral, se deberá asignar el uso que proporcionalmente sea predominante.
+> <small>(REFORMADA, G.G. 5 DE ENERO DE 2011)</small>
+
+II. Cada área homogénea deberá tener solo un uso del suelo, con excepción de aquellos asentamientos que por la naturaleza del desarrollo de la población y por las características predominantes que la identifican, exista una mezcla de usos del suelo que el catastro municipal considere permanente e indivisible, en estos casos, para efectos de identificación y valuación catastral, se deberá asignar el uso que proporcionalmente sea predominante.
 
 III. Considerar la existencia de los riesgos geológicos e hidrometeorológicos, en los casos y conforme a las políticas y procedimientos que al efecto se establezcan en el Manual Catastral.
 
@@ -5809,7 +5831,7 @@ Acabados:
 
 Pisos: Martelinado. Endurecido, se modifica con martelina. Cepillado. Se cepilla la superficie antes de que fragüe. Si el cepillado es superficial, se utiliza un retardante devastado. Lavado. Se lava la superficie con un chorro de agua para exponer el agregado grueso; proporcionamiento de fibercon; aplicaciones cantidad kg./m3; pavimentos de concreto para carreteras de 60 a 78 kg./m3.
 
-Instalaciones especiales: Para suministro y distribución de energía eléctrica.s: Para suministro y distribución de energía eléctrica.
+Instalaciones especiales: Para suministro y distribución de energía eléctrica.
 
 #### SECCIÓN SEGUNDA. DE LA ACTUALIZACIÓN DE LAS TABLAS DE VALOR
 
@@ -5823,15 +5845,21 @@ II. Ratificación.- Cuando de las investigaciones del mercado inmobiliario reali
 
 III. Decremento.- Cuando de las investigaciones del mercado inmobiliario realizadas en determinada área homogénea durante un periodo que no exceda de doce meses, anteriores a la fecha de presentación de la propuesta, el resultado del estudio estadístico de las muestras de operaciones comerciales y ofertas refleje una disminución respecto a los valores vigentes, propiciado por la instalación en colindancias de rellenos sanitarios o canales de aguas residuales a cielo abierto, por la presencia de deslaves, minas de materiales metálicos o no metálicos, riesgos geológicos o hidrometeorológicos, o bien límites físicos no considerados, como barrancas, acantilados, pendientes o escarpas pronunciados, u otras condiciones de desincorporación de equipamiento o seguridad pública.
 
-En los tres casos, los Ayuntamientos deberán sustentar las actualizaciones propuestas, con los correspondientes informes, expedientes y soportes técnicos que las justifiquen.
+> <small>(REFORMADO, G.G. 5 DE ENERO DE 2011)</small>
+
+En los tres casos, el catastro municipal deberá sustentar las actualizaciones propuestas, con los correspondientes informes, expedientes y soportes técnicos que las justifiquen.
+
+> <small>(REFORMADO, G.G. 5 DE ENERO DE 2011)</small>
 
 ###### Artículo 50.
 
-Los ayuntamientos deberán elaborar las propuestas de modificación o actualización de áreas homogéneas, bandas de valor, manzanas, códigos de clave de calle, nomenclatura y valores unitarios de suelo y construcciones, durante todo el ejercicio fiscal, apegándose a lo dispuesto en los artículos 195, 196, 196 Bis y 198 Bis del Código, así como en este Reglamento y el Manual Catastral y solicitar al IGECEM la revisión y opinión técnica de las propuestas y de los soportes técnicos que sustenten las actualizaciones, a efecto de garantizar la homogeneidad y la congruencia técnica de la información catastral en el estado
+El catastro municipal deberá elaborar las propuestas de modificación o actualización de áreas homogéneas, bandas de valor, manzanas, códigos de clave de calle, nomenclatura y valores unitarios de suelo y construcciones, durante todo el ejercicio fiscal, apegándose a lo dispuesto en los artículos 195, 196, 196 Bis y 198 Bis del Código, así como en este Reglamento y el Manual Catastral y solicitar al IGECEM la revisión y opinión técnica de las propuestas y de los soportes técnicos que sustenten las actualizaciones, a efecto de garantizar la homogeneidad y la congruencia técnica de la información catastral en el estado.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 5 DE ENERO DE 2011)</small>
 
 ###### Artículo 51.
 
-El IGECEM recibirá las propuestas formuladas por los Ayuntamientos en cualquier momento durante los primeros seis meses de cada año y revisará su integración y los soportes técnicos que sustenten los movimientos a las bases de datos de los registros gráfico y alfanumérico del padrón catastral municipal.
+El IGECEM recibirá las propuestas formuladas por el catastro municipal en cualquier momento durante los primeros seis meses de cada año y revisará su integración y los soportes técnicos que sustenten los movimientos a las bases de datos de los registros gráfico y alfanumérico del padrón catastral municipal.
 
 Los soportes técnicos se conformarán por los gráficos que contemplen la modificación o actualización de áreas homogéneas, bandas de valor, manzanas, códigos de clave de calle y nomenclatura, así como por la información documental que contenga los estudios, informes, expedientes técnicos y los formatos establecidos, con los que se acredite que los valores unitarios de suelo y construcciones propuestos propuestos (sic), son equiparables a los valores de mercado prevalecientes en la jurisdicción municipal correspondiente.
 
@@ -5843,17 +5871,23 @@ El IGECEM durante los meses de julio y agosto de cada año revisará que las pro
 
 El IGECEM enviará a los ayuntamientos mediante oficio, tanto los expedientes integrados por los catálogos de movimientos de valores unitarios de suelo, de valores de calle, de manzanas, de claves y nombres de calle (nomenclatura), como la opinión técnica correspondiente, durante los primeros siete días del mes de septiembre de cada año, a efecto de que los Ayuntamientos integren el proyecto municipal de Tablas de Valores Unitarios de Suelo y Construcciones aplicables en su respectiva jurisdicción territorial.
 
+> <small>(REFORMADO, G.G. 5 DE ENERO DE 2011)</small>
+
 ###### Artículo 54.
 
-Los Ayuntamientos durante el periodo comprendido entre la fecha de recepción de la opinión técnica emitida por el IGECEM y 15 de octubre de cada año, deberán someter a la aprobación de su cabildo el proyecto municipal de Tablas de Valores Unitarios de Suelo y Construcciones y una vez aprobado por éstos en sesión de cabildo, integrará la iniciativa municipal de Tablas de Valores Unitarios de Suelo y Construcciones para el ejercicio fiscal correspondiente, que deberá contener además, la certificación del acta de la sesión en la que se apruebe el proyecto referido.
+Los Ayuntamientos durante el periodo comprendido entre la fecha de recepción de la opinión técnica emitida por el IGECEM y 15 de octubre de cada año, deberán someter para validación de su cabildo el proyecto municipal de Tablas de Valores Unitarios de Suelo y Construcciones y una vez aprobado por éstos en sesión de cabildo, integrarán la iniciativa municipal de Tablas de Valores Unitarios de Suelo y Construcciones para el ejercicio fiscal correspondiente, que deberá contener además, la certificación del acuerdo contenido en el acta de la sesión en la que se valide el proyecto referido.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 5 DE ENERO DE 2011)</small>
 
 ###### Artículo 55.
 
-Una vez aprobado el proyecto municipal de Tablas de Valores Unitarios de Suelo y Construcciones por el Ayuntamiento en sesión de cabildo, se integrará la iniciativa municipal de Tablas de Valores Unitarios de Suelo y Construcciones para el ejercicio fiscal correspondiente, que deberá contener los siguientes documentos:
+Una vez validado el proyecto municipal de Tablas de Valores Unitarios de Suelo y Construcciones por el Ayuntamiento en sesión de cabildo, se integrará la iniciativa municipal de Tablas de Valores Unitarios de Suelo y Construcciones para el ejercicio fiscal correspondiente, que deberá contener los siguientes documentos:
 
 I. Oficio dirigido a la Legislatura.
 
-II. Certificación del acuerdo contenido en el acta de la sesión de cabildo en la que se aprueba el proyecto.
+> <small>(REFORMADA, G.G. 5 DE ENERO DE 2011)</small>
+
+II. Certificación del acuerdo contenido en el acta de la sesión de cabildo en la que se valida el proyecto.
 
 III. Los catálogos de áreas homogéneas, bandas de valor, manzanas y calles.
 
@@ -5862,6 +5896,10 @@ IV. Proyecto de Tabla de Valores Unitarios de Construcciones.
 ###### Artículo 56.
 
 Las Tablas de Valores Unitarios de Suelo y Construcciones aprobadas por la Legislatura serán publicadas anualmente en el periódico oficial “Gaceta del Gobierno” entrarán en vigor a partir del primer día de enero de cada año y estarán vigentes solamente en el ejercicio fiscal correspondiente, periodo durante el que deberán permanecer a la vista del público en general, por lo que los Ayuntamientos tomarán las medidas conducentes para su difusión y exposición en las oficinas públicas municipales y otros lugares que consideren necesario.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 5 DE ENERO DE 2011)</small>
+
+Una vez publicadas las Tablas de Valores Unitarios de Suelo y Construcciones, el catastro municipal deberá revisar que la totalidad de las propuestas presentadas a la Legislatura del Estado, se encuentren en los términos planteados, emitiendo un comunicado oficial al IGECEM, en un plazo que no exceda de quince días hábiles a partir de la fecha de publicación, para informarle del resultado de la revisión, y en su caso, solicitar se tramite la fe de erratas que corresponda.
 
 ###### Artículo 57.
 
@@ -5879,7 +5917,9 @@ El valor catastral de los inmuebles se determinará sumando al valor catastral d
 
 El valor catastral del terreno se calculará mediante la aplicación de la siguiente fórmula:
 
-VCT = SP ((VUS (FFe x FFo x FI x FA x FT x FP))
+> <small>(REFORMADA, G.G. 5 DE ENERO DE 2011)</small>
+
+VCT = SP ((VUS (FFe x FFo x FI x FA x FT x FP x F))
 
 Donde:
 
@@ -5900,6 +5940,10 @@ FA = Factor de área.
 FT = Factor de topografía.
 
 FP = Factor de posición dentro de la manzana catastral.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 5 DE ENERO DE 2011)</small>
+
+FR = Factor de restricción.
 
 El valor total catastral de la construcción, será la suma de los valores determinados individualmente para cada una de las edificaciones existentes en el predio, conforme a las tipologías que correspondan, mediante la aplicación de la siguiente fórmula:
 
@@ -5923,9 +5967,11 @@ FGC = Factor de grado de conservación de la construcción.
 
 FN = Factor de número de niveles edificados.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 5 DE ENERO DE 2011)</small>
+
 ###### Artículo 60.
 
-Los factores de mérito o demérito a que se refiere el artículo anterior y el 199 del Código, aplicables para efectos de la valuación catastral del terreno, respecto del frente, del fondo, de irregularidad, de área, de topografía y de posición dentro de la manzana, se definen y determinan como sigue:
+Los factores de mérito o demérito a que se refiere el artículo anterior y el 199 del Código, aplicables para efectos de la valuación catastral del terreno, respecto del frente, del fondo, de irregularidad, de área, de topografía, de posición dentro de la manzana y de restricción, se definen y determinan como sigue:
 
 I. El factor de frente (FFe) demerita el valor catastral de aquellos inmuebles cuya longitud de frente sea menor a 3.50 metros lineales, y será el resultado de dividir la longitud del frente del predio de que se trate entre la constante equivalente a la longitud de frente mínima establecida en los ordenamientos jurídicos aplicables en esta materia, conforme a la siguiente fórmula:
 
@@ -6032,6 +6078,34 @@ Manzanero 1.30
 A los inmuebles localizados en posición interior, se aplicará 1.00 para los factores de frente, de fondo, de irregularidad, de área y de topografía.
 
 Para efectos de la valuación catastral, en ningún caso el factor total de demérito aplicable al terreno podrá ser menor a 0.50, aún cuando así resulte el producto de los factores de mérito o de demérito establecidos en este artículo.
+
+> <small>(ADICIONADA, G.G. 5 DE ENERO DE 2011)</small>
+
+VII. El factor de restricción (FR) demerita el valor catastral de aquellos inmuebles que parte de su superficie presenta un impedimento, limitación ó reducción impuesta por autoridad competente, que disminuye las posibilidades de aprovechamiento óptimo de la superficie total del predio.
+
+Para calcular este factor es necesario ubicar previamente el inmueble para comprobar que contiene una superficie denominada área de restricción; la cual deberá ser delimitada y dictaminada por la autoridad en la materia.
+
+Definida la superficie determinada como área de restricción del predio en estudio, ésta se le restará a su superficie total, resultando el área aprovechable (AA).
+
+En los casos de inmuebles que presenten superficies de restricción que los divida en dos o más fracciones, el área aprovechable (AA), será la suma de las fracciones libres de restricciones, misma que en todo caso deberá ser inferior a la superficie total del predio.
+
+El factor aplicable se obtiene al sumar a la constante 0.50, el resultado de dividir entre 2, la superficie determinada como área aprovechable y al resultado dividirlo entre la entre la (sic) superficie total del inmueble de que se trate, conforme a la siguiente fórmula:
+
+FR = 0.50 + ((AA / 2) / SP)
+
+Donde:
+
+FR = Factor de restricción.
+
+AA = Área aprovechable del inmueble.
+
+SP = Superficie total de terreno del inmueble de que se trate.
+
+A los inmuebles localizados en posición interior, se aplicará 1.00 para los factores de frente, de fondo, de irregularidad, de área, de topografía y de restricción.
+
+Cuando la superficie total de un inmueble se localice en área de restricción, no tiene área aprovechable, por lo que se aplicará 0.50 como factor de restricción.
+
+Para efectos de la valuación catastral, en ningún caso el factor total de demérito aplicable al terreno podrá ser inferior a 0.50, aún cuando así resulte el producto de los factores de mérito o de demérito establecidos en este articulo.
 
 ###### Artículo 61.
 
@@ -6395,9 +6469,11 @@ Los especialistas en valuación inmobiliaria, deberán ejercer su actividad con 
 
 Artículo 75 BIS.- Los especialistas en valuación inmobiliaria, cobrarán por concepto de emisión de avalúos catastrales, de acuerdo a la tarifa que al efecto apruebe el Consejo Directivo del IGECEM.
 
+> <small>(REFORMADO, G.G. 5 DE ENERO DE 2011)</small>
+
 ###### Artículo 76.
 
-Los especialistas en valuación inmobiliaria registrados, podrán en cualquier tiempo, solicitar al IGECEM o al Ayuntamiento la información sobre valores unitarios de suelo y construcciones u otros elementos estrictamente técnicos que requieran para el desempeño de sus funciones, debiendo acreditar el interés jurídico del propietario o poseedor del inmueble. El IGECEM sólo dará contestación a las consultas que le formulen sobre situaciones reales y concretas.
+Los especialistas en valuación inmobiliaria registrados, podrán en cualquier tiempo, solicitar al IGECEM o al catastro municipal la información sobre valores unitarios de suelo y construcciones u otros elementos estrictamente técnicos que requieran para el desempeño de sus funciones, debiendo acreditar el interés jurídico del propietario o poseedor del inmueble. El IGECEM sólo dará contestación a las consultas que le formulen sobre situaciones reales y concretas.
 
 ###### Artículo 77.
 
@@ -6409,7 +6485,9 @@ Los especialistas en valuación inmobiliaria están obligados a proporcionar al 
 
 El IGECEM revisará mensualmente los avalúos que practiquen los especialistas en valuación inmobiliaria, a efecto de verificar que fueron elaborados con los datos técnicos requeridos para actualizar el registro alfanumérico y conforme a las políticas, normas, formatos, papelería, metodología y procedimientos establecidos en este Reglamento y en el Manual Catastral y los remitirá a los respectivos ayuntamientos para su revisión, validación y en su caso, la actualización del padrón catastral municipal.
 
-Cuando el Ayuntamiento detecte alguna inconsistencia en cualquiera de los aspectos indicados en el párrafo anterior que sea considerada como grave, lo informará al IGECEM dentro de los cinco días siguientes contados a partir de la fecha de recepción, a efecto de que se determine lo conducente.
+> <small>(REFORMADO, G.G. 5 DE ENERO DE 2011)</small>
+
+Cuando el catastro municipal detecte alguna inconsistencia en cualquiera de los aspectos indicados en el párrafo anterior que sea considerada como grave, lo informará al IGECEM dentro de los cinco días siguientes contados a partir de la fecha de recepción, a efecto de que se determine lo conducente.
 
 Tratándose de los respaldos de las bases de datos que correspondan a los avalúos practicados, los especialistas en valuación inmobiliaria deberán remitirlos al IGECEM dentro de los diez primeros días hábiles de los meses de enero, abril, julio y octubre de cada año.
 
@@ -6435,7 +6513,9 @@ V. Emitir avalúos catastrales sin ajustarse a las políticas, normas, formatos,
 
 VI. Emitir avalúos catastrales con datos equivocados, incompletos o incongruentes.
 
-VII. Emitir un avalúo con alteraciones, omisiones o deficiencias y su resultado presenta notables diferencias respecto al valor base obtenido en las revisiones realizada s por el IGECEM o el Ayuntamiento.
+> <small>(REFORMADA, G.G. 5 DE ENERO DE 2011)</small>
+
+VII. Emitir un avalúo con alteraciones, omisiones o deficiencias y su resultado presenta notables diferencias respecto al valor base obtenido en las revisiones realizadas por el IGECEM o el catastro municipal.
 
 VIII. Divulgar información confidencial o reservada en términos del LIGECEM.
 
@@ -6508,3 +6588,11 @@ EL SECRETARIO GENERAL DE GOBIERNO
 DR. VÍCTOR HUMBERTO BENÍTEZ TREVIÑO
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS DEL PRESENTE REGLAMENTO.</small>
+
+G.G. 5 DE ENERO DE 2011.
+
+PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Acuerdo, entrará en vigor el día primero de enero de 2011.
