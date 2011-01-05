@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-organico-de-la-administracion-publica-estatal-de-220
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-10-15"
-last_updated: "2009-11-27"
+last_updated: "2011-01-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22079&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SIN"
 
 REGLAMENTO ORGANICO DE LA ADMINISTRACION PUBLICA ESTATAL DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE NOVIEMBRE DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO ORGANICO DE LA ADMINISTRACION PUBLICA ESTATAL DE SINALOA, PUBLICADO EN EL P.O. DE 5 DE ENERO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el viernes 15 de octubre de 1999.
 
@@ -1602,3 +1604,25 @@ El Vocal Ejecutivo de la Comisión Constructora de Sinaloa, seguirá ejerciendo 
 Artículo Séptimo.- Para la atención y seguimiento de los asuntos jurisdiccionales o administrativos en trámite o pendientes de resolución definitiva que estén vinculados de cualquier manera con la Comisión Constructora de Sinaloa, la representación de ésta serán atendidos por las áreas del Ejecutivo Estatal o sus representantes legalmente facultadas para ello.
 
 Artículo Octavo.- Los montos no ejercidos del presupuesto autorizado para la Comisión Constructora de Sinaloa en la Ley de Ingresos y Presupuesto de Egresos del Estado para el Ejercicio Fiscal del año 2009, al inicio de la vigencia de este Decreto, serán reprogramados por la Secretaría de Administración y Finanzas, para su ejercicio correspondiente.
+
+P.O. 5 DE ENERO DE 2011.
+
+Primero.- El presente reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+Segundo.- Se abroga el Reglamento Orgánico de la Administración Pública Estatal de Sinaloa, publicado en el Periódico Oficial "El Estado de Sinaloa", número 124 segunda sección el día 15 de octubre de 1999, así como sus reformas publicadas en este mismo medio.
+
+Tercero.- Se derogan todas las disposiciones reglamentarias y administrativas que se opongan a lo establecido por este reglamento.
+
+Cuarto.- En tanto se expiden los nuevos reglamentos interiores de las secretarías y entidades administrativas, se continuará aplicando la reglamentación vigente a la fecha de entrada en vigor de este ordenamiento, en todo aquello que no se oponga a las disposiciones del mismo.
+
+Quinto.- Las secretarías deberán entregar en un plazo de setenta y cinco días, los asuntos a su cargo hasta antes de entrar en vigor este reglamento, a aquellas a las que se les haya atribuido la competencia correspondiente, así como los recursos humanos, materiales, financieros y tecnológicos con los que cuenten, que están adscritos o aplicados a las unidades o áreas específicas de las mismas. En tanto las secretarías entregan los asuntos, estos continuarán atendiéndose por las unidades administrativas que a la entrada en vigor de este ordenamiento lo estaban haciendo.
+
+Sexto.- Los asuntos pendientes o en trámite a la entrada en vigor del presente reglamento, que conforme al mismo deban pasar de una dependencia a otra, continuarán su trámite con arreglo a las disposiciones que les dieron origen y una vez entregados a la dependencia a la que se le haya atribuido la competencia correspondiente en este ordenamiento, serán resueltos por ésta.
+
+Séptimo.- Las referencias que se hacen en las leyes, decretos, reglamentos, convenios, acuerdos y demás disposiciones jurídicas a la Secretaría de Desarrollo Social y Sustentable se entenderán hechas a la Secretaría de Desarrollo Social y Humano, a la Secretaría de Comunicaciones y Obras Públicas se entenderán hechas a la Secretaría de Desarrollo Urbano y Obras Públicas, a la Secretaría de Desarrollo Social y Sustentable en lo relativo a la Subsecretaría de Desarrollo Urbano se entenderán hechas a la Secretaría de Desarrollo Urbano y Obras Públicas, a la Secretaría de la Contraloría y Desarrollo Administrativo en lo relativo a la Subsecretaría de Desarrollo Administrativo, se entenderán hechas a la Secretaría de Innovación Gubernamental.
+
+Octavo.- Las referencias que se hacen en las leyes, decretos, reglamentos, convenios, acuerdos y demás disposiciones jurídicas, a la Secretaría de la Contraloría y Desarrollo Administrativo en lo relativo a la Subsecretaría de Contraloría se entenderán hechas a la Unidad de Transparencia y Rendición de Cuentas, a la Coordinación General de Acceso a la Información Pública se entenderán hechas a la Unidad de Transparencia y Rendición de Cuentas, a la Coordinación General de Desarrollo Tecnológico se entenderán hechas a la Secretaría de Innovación Gubernamental, a la Coordinación General de Asesoría y Políticas Públicas se entenderán hechas a la Coordinación General de Asesoría, y en lo relativo a Planeación y Evaluación se entenderán hechas a la Secretaría de Innovación Gubernamental.
+
+Noveno.- Las funciones y atribuciones que las leyes, decretos, reglamentos, convenios, acuerdos y demás disposiciones jurídicas, a la Secretaría de Desarrollo Social y Sustentable se entenderán otorgadas a la Secretaría de Desarrollo Social y Humano, a la Secretaría de Comunicaciones y Obras Públicas se entenderán otorgadas a la Secretaría de Desarrollo Urbano y Obras Públicas, a la Secretaría de Desarrollo Social y Sustentable en lo relativo a la Subsecretaría de Desarrollo Urbano se entenderán otorgadas a la Secretaría de Desarrollo Urbano y Obras Públicas, a la Secretaría de la Contraloría y Desarrollo Administrativo en lo relativo a la Subsecretaría de Desarrollo Administrativo, se entenderán otorgadas a la Secretaría de Innovación Gubernamental.
+
+Décimo. Las funciones y atribuciones que las leyes, decretos, reglamentos, convenios, acuerdos y demás disposiciones jurídicas, a la Secretaría de la Contraloría y Desarrollo Administrativo en lo relativo a la Subsecretaría de Contraloría se entenderán otorgadas a la Unidad de Transparencia y Rendición de Cuentas, a la Coordinación General de Acceso a la Información Pública se entenderán otorgadas a la Unidad de Transparencia y Rendición de Cuentas, a la Coordinación General de Desarrollo Tecnológico se entenderán otorgadas a la Secretaría de Innovación Gubernamental, a la Coordinación General de Asesoría y Políticas Públicas se entenderán otorgadas a la Coordinación General de Asesoría, y en lo relativo a Planeación y Evaluación se entenderán otorgadas a la Secretaría de Innovación Gubernamental.
