@@ -4,7 +4,7 @@ identifier: "MOR-codigo-de-procedimientos-penales-del-estado-de-morelos-57615"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-22"
-last_updated: "2010-12-29"
+last_updated: "2011-01-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57615&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CÓDIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ENERO DE 2011.
 
 Código publicado en el Periódico Oficial del Estado de Morelos, el jueves 22 de noviembre de 2007.
 
@@ -5223,9 +5223,9 @@ Artículo Segundo. Aplicación. Sus disposiciones se aplicarán a hechos que ocu
 
 A partir de las cero horas del 06 de julio del 2009 en el Sexto Distrito Judicial con sede en Cuautla y en el Quinto Distrito Judicial con sede en Yautepec, Morelos.
 
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2011)</small>
 
-Y a partir de las cero horas del día 14 de febrero del 2011, en el Cuarto Distrito Judicial con sede en Jojutla, en el Segundo Distrito Judicial con sede en Tetecala, en el Tercer Distrito Judicial con sede en Puente de Ixtla y en el Séptimo Distrito Judicial con sede en Jonacatepec.
+Y a partir de las cero horas del día 1 de enero del 2012, en los demás distritos judiciales.
 
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2007)</small>
 
@@ -5368,3 +5368,9 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Los juicios y procedimientos relacionados con las reformas contenidas en este decreto, serán substanciados hasta su culminación, conforme a las normas bajo las cuales fueron iniciados.
+
+P.O. 5 DE ENERO DE 2011.
+
+PRIMERO.- El presente decreto iniciará su vigencia a partir del día siguiente a su publicación el (sic) Periódico Oficial "Tierra y Libertad" órgano oficial de difusión del gobierno del Estado de Morelos.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente ordenamiento.
