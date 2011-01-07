@@ -4,7 +4,7 @@ identifier: "BCN-ley-general-de-bienes-del-estado-de-baja-california-3423"
 country: "mx"
 rank: "ley_general"
 publication_date: "1973-07-31"
-last_updated: "2008-06-25"
+last_updated: "2011-01-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3423&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY GENERAL DE BIENES DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE JUNIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE ENERO DE 2011.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 31 de julio de 1973.
 
@@ -41,9 +41,11 @@ LEY GENERAL DE BIENES DEL ESTADO DE BAJA CALIFORNIA.
 
 Disposiciones Generales.
 
+> <small>(REFORMADO, P.O. 7 DE ENERO DE 2011)</small>
+
 ###### ARTICULO 1o.
 
-El patrimonio del Estado de Baja California se compone:
+La presente Ley es de orden público e interés general y tiene por objeto regular el régimen de dominio de los bienes que integran el patrimonio del Estado de Baja California, el cual se compone:
 
 I.- De bienes de dominio público del Estado de Baja California, y
 
@@ -63,17 +65,19 @@ IV.- Las servidumbres cuando el predio dominante sea alguno de los anteriores;
 
 V.- Los muebles propiedad del Estado que por su naturaleza normalmente no sean sustituíbles, como los expedientes de las oficinas y archivos públicos, los libros raros, las piezas históricas, o arqueológicas, las obras de arte de los museos, etc.
 
+> <small>(REFORMADO, P.O. 7 DE ENERO DE 2011)</small>
+
 ###### ARTICULO 3o.
 
 Son bienes de dominio privado del Estado:
 
-> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 1979)</small>
-
 I.- Los bienes vacantes adjudicados por la autoridad judicial;
 
-II.- Los que hayan formado parte de una corporación pública creada por la ley local, que se extinga;
+II.- Los que hayan formado parte del patrimonio de las Entidades Paraestatales que se extingan, disuelvan y liquiden, en la proporción que corresponda al Estado;
 
-III.- Los demás inmuebles y muebles que por cualquier título jurídico adquiera el Estado.
+III.- Los bienes inmuebles que el Estado adquiera con fines de regularización de la tenencia de la tierra o en materia de vivienda y desarrollo urbano;
+
+IV.- Los demás inmuebles y muebles que por cualquier título jurídico adquiera el Estado.
 
 ###### ARTICULO 4o.
 
@@ -91,79 +95,85 @@ Los bienes de dominio privado del Estado, estarán sometidos en todo lo no previ
 
 Los Tribunales del Estado tendrán competencia exclusiva para conocer de juicios así como de procedimientos judiciales no contenciosos que se relacionen con bienes del Estado, sean de dominio público o de dominio privado del mismo.
 
-> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1979)</small>
+> <small>(REFORMADO, P.O. 7 DE ENERO DE 2011)</small>
 
 ###### ARTICULO 8o.
 
-Compete a la Procuraduría General de Justicia, la representación jurídica del Ejecutivo del Estado en toda clase de negocios judiciales o administrativos, del orden común o federal, relacionados con la aplicación de ésta Ley.
+Compete a la Oficialía Mayor de Gobierno, la representación jurídica del Ejecutivo del Estado en toda clase de negocios judiciales o administrativos, del orden común o federal, relacionados con la aplicación de esta Ley o los bienes del Estado.
 
 ### CAPITULO II
 
 De los Bienes de Dominio Público.
 
+> <small>(REFORMADO, P.O. 7 DE ENERO DE 2011)</small>
+
 ###### ARTICULO 9o.
 
-Los bienes de dominio público del Estado son inalienables e imprescriptibles y no están sujetos mientras no varíe su situación jurídica a acción reivindicatoria o de posesión definitiva o interina. Los particulares y las entidades públicas sólo podrán adquirir sobre el uso o aprovechamiento de estos bienes, los derechos regulados en esta Ley u otras que dicte la Legislatura del Estado.
+Los bienes de dominio público del Estado son inalienables, imprescriptibles e inembargables y no están sujetos mientras no varíe su situación jurídica a acción reivindicatoria o de posesión definitiva o interina por parte de terceros. Los particulares y las entidades públicas sólo podrán adquirir sobre el uso o aprovechamiento de estos bienes, los derechos regulados en esta Ley u otras que dicte la Legislatura del Estado.
 
-Se regirán, sin embargo, por el derecho común, los aprovechamientos accidentales o accesorios compatibles con la naturaleza de estos bienes, como la venta de frutos, materiales o desperdicios o la autorización de los usos a que alude el Artículo 28.
-
-Ninguna servidumbre pasiva puede imponerse, en los términos del derecho común, sobre los bienes de dominio público. Los derechos de tránsito, de vista, de luz, de derrames y otros semejantes sobre dichos bienes, se rigen exclusivamente por las Leyes y Reglamentos administrativos.
+> <small>(REFORMADO, P.O. 7 DE ENERO DE 2011)</small>
 
 ###### ARTICULO 10.
 
-Corresponde al Ejecutivo del Estado:
+Corresponden al Ejecutivo del Estado, las facultades siguientes:
 
-I.- Declarar, cuando ello sea preciso, que un bien determinado forma parte del dominio público del Estado, por estar comprendido en alguna de las disposiciones de esta Ley;
+l.- Vigilar, administrar y controlar el correcto uso y aprovechamiento de los bienes del Estado;
 
-> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 1979)</small>
+II.- Dictar las reglas o normas para la vigilancia, aprovechamiento y preservación de los bienes del Estado;
 
-II.- Decretar la incorporación al dominio público, de un bien que forme parte del dominio privado Estatal, siempre que su posesión corresponda al Estado.
+III.- Otorgar concesiones y, en su caso, permisos o autorizaciones para la explotación, uso y aprovechamiento de los bienes sujetos al régimen de dominio público;
+
+IV.- Emitir la declaratoria por la que el Estado recupere el dominio de los bienes del Estado afectos a las concesiones, permisos o autorizaciones;
+
+V.- Vigilar el uso y aprovechamiento de los inmuebles donados por el Estado y, en caso procedente, ejercer el derecho de reversión sobre los mismos;
+
+VI. - Emitir el acuerdo administrativo de destino o asignación de inmuebles a cargo de la administración pública estatal, mismo que deberá publicarse en el Periódico Oficial del Estado;
+
+VII.- Declarar, cuando ello sea preciso, que un bien determinado forma parte del dominio público del Estado, por estar comprendido en alguna de las disposiciones de esta Ley;
+
+VIII.- Decretar la incorporación al dominio público, de un bien que forme parte del dominio privado Estatal, siempre que su posesión corresponda al Estado;
 
 Los bienes inmuebles donados al Estado, por concepto de autorización de fraccionamientos, por ese solo hecho quedarán incorporados al dominio público;
 
-> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 1979)</small>
+IX.- Solicitar de la Legislatura del Estado, la desincorporación del dominio público, en los casos en que la Ley lo permita, un bien que haya dejado de utilizarse en el fin respectivo;
 
-III.- Solicitar de la Legislatura del Estado, la desincorporación del dominio público, en los casos en que la Ley lo permita, un bien que haya dejado de utilizarse en el fin respectivo;
+X.- Instaurar los procedimientos administrativos encaminados a retener o recuperar la posesión de los inmuebles del Estado, así como remover cualquier obstáculo creado natural o artificialmente para su uso o destino, siempre y cuando no se afecten derechos de terceros. Con esta finalidad, también podrán declarar administrativamente la nulidad, revocación y caducidad de los acuerdos, concesiones, permisos, autorizaciones o cualquier otro acto jurídico unilateral celebrado respecto a bienes del Estado, previa audiencia que se conceda a los interesados para que rindan pruebas y aleguen lo que a su derecho convenga, en los casos y términos previstos en el Capítulo VI de esta Ley;
 
-IV.- Dictar las reglas a que deberán sujetarse el uso, vigilancia y aprovechamiento de los bienes del dominio público y tomar las medidas administrativas encaminadas a obtener, mantener o recuperar la posesión de ellos, así como remover cualquier obstáculo creado natural o artificialmente para su uso o destino;
+XI.- Presentar y ratificar denuncias y querellas relativas a los bienes del Estado, así como otorgar el perdón judicial en los casos en que sea procedente;
 
-V.- Anular administrativamente los acuerdos, concesiones, permisos o autorizaciones otorgadas por autoridades, funcionarios o empleados que carezcan de la competencia necesaria para ello, o los que se dicten con violación de un precepto legal o por error, dolo o violencia, que perjudiquen o restrinjan los derechos del Estado, sobre los bienes de dominio público o los intereses legítimos de tercero; y
+XII.- Dictar las disposiciones necesarias para la aplicación y cumplimiento de esta Ley; y
 
-VI.- En general, dictar las disposiciones ejecutivas que demande el cumplimiento de esta Ley o de las disposiciones a que estén sometidos los bienes de dominio público.
+XIII.- Las demás que les confieran esta Ley u otras disposiciones aplicables.
+
+El titular del Ejecutivo del Estado por conducto de la Oficialía Mayor de Gobierno, dará cumplimiento y ejecución a las facultades señaladas en este artículo, sin perjuicio de que, en caso de considerarlo conveniente, el titular del Ejecutivo del Estado las ejecute directamente.
+
+> <small>(REFORMADO, P.O. 7 DE ENERO DE 2011)</small>
 
 ###### ARTICULO 11.
 
-Cuando a juicio del Ejecutivo existan motivos que lo ameriten, podrá abstenerse de dictar las resoluciones concretas o de seguir los procedimientos a que se refiere el Artículo anterior y ordenar al Ministerio Público que someta el asunto al conocimiento de los tribunales. El procedimiento se tramitará sumariamente y dentro de él podrá solicitarse la ocupación administrativa de los bienes. Los tribunales acordarán de plano, favorablemente, la solicitud.
+Cuando a juicio del Ejecutivo existan motivos que lo ameriten, podrá abstenerse de dictar las resoluciones concretas o de seguir los procedimientos a que se refiere el Artículo anterior y ordenar a la Oficialía Mayor de Gobierno para que en su carácter de representante del Ejecutivo someta el asunto al conocimiento de los tribunales. El procedimiento se tramitará sumariamente y dentro de él podrá solicitarse la ocupación administrativa de los bienes. Los tribunales acordarán de plano, favorablemente, la solicitud.
+
+> <small>(REFORMADO, P.O. 7 DE ENERO DE 2011)</small>
 
 ###### ARTICULO 12.
 
-Las resoluciones a que se refiere el Artículo 10 podrán ser reclamadas ya sea ante la autoridad administrativa o ante la judicial. El procedimiento en la vía administrativa se sujetará a las siguientes reglas:
-
-I.- Quien quiera que sufra un perjuicio individual directo y actual, podrá oponerse ante la misma autoridad que haya dictado la providencia;
-
-II.- La instancia deberá proponerse dentro de los quince días siguientes a aquél de la notificación al opositor o del inicio de la ejecución, cuando no haya habido notificación;
-
-III.- Salvo casos urgentes o de marcado interés público, a juicio de la autoridad, ésta, interpuesto el recurso, deberá suspender la ejecución de la resolución impugnada, cuidando, sin embargo, de adoptar las providencias adecuadas para la salvaguarda de los derechos estatales;
-
-IV.- Propuesto el recurso, se comunicará al tercero interesado si lo hubiere y se concederá un término prudente, nunca inferior a veinte días, para pruebas. La admisión de éstas se hará en lo posible, conforme al Código de Procedimientos Civiles del Estado, pero no procederá la confesional y en la pericial se designará solamente el perito que el opositor proponga, salvo cuando hubiere tercero, caso en el que éste tendrá también derecho a designar uno;
-
-V.- La autoridad podrá mandar practicar, de oficio, los estudios y diligencias que estime oportunos durante la tramitación del recurso;
-
-VI.- Desahogadas las pruebas propuestas o concluido, en su caso, el plazo a que se refiere la Fracción IV, quedará el expediente, durante diez días a la vista del opositor y del tercero, para que aleguen;
-
-VII.- Dentro de los diez días siguientes se dictará la resolución que corresponda. La autoridad no tendrá que sujetarse a las reglas especiales de valuación de la prueba, pero estimará cuidadosamente las ofrecidas y se ocupará de todas las argumentaciones presentadas; y
-
-VIII.- La resolución se comunicará a los interesados personalmente o por correo certificado con acuse de recibo. Esta resolución no podrá ya revocarse o anularse administrativamente y tendrá presunción de legalidad en cualquier procedimiento jurisdiccional que contra ella se intente.
+Contra las resoluciones a que se refiere el Artículo 10 de esta Ley, podrá interponerse el recurso de revocación previsto en el Título Quinto de la Ley del Procedimiento para los Actos de la Administración Pública del Estado de Baja California.
 
 ###### ARTICULO 13.
 
 Las concesiones sobre bienes de dominio público no crean derechos reales; otorgan simplemente frente a la administración y sin perjuicio de terceros, el derecho a realizar los usos, aprovechamiento o explotaciones, de acuerdo con las reglas y condiciones que establezcan las Leyes.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE ENERO DE 2011)</small>
+
 ###### ARTICULO 14.
 
-La nulidad, caducidad o rescisión de las concesiones sobre bienes del dominio público, cuando procedan conforme a la Ley, se dictarán por la autoridad administrativa sin perjuicio de lo dispuesto en el Artículo 11 previa audiencia que se conceda a los interesados para que rindan pruebas y aleguen lo que a sus derechos convenga.
+La nulidad, caducidad o revocación de las concesiones, cuando procedan conforme a la Ley, se dictarán por la autoridad administrativa que la hubiere otorgado, sin perjuicio por lo dispuesto en el Artículo 11 de esta Ley, previa audiencia que se conceda a los interesados para que rindan pruebas y aleguen lo que a sus derechos convenga, en los casos y términos previstos en el Capítulo VI de esta Ley.
 
 Cuando la nulidad se funde en error, dolo o violencia y no en la violación de la Ley, o en la falta de los supuestos de hecho para el otorgamiento de la concesión, ésta podrá ser confirmada por la autoridad administrativa tan pronto como cesen tales circunstancias. En ningún caso podrá anularse una concesión, por alguna de las circunstancias anteriores, después de pasados cinco años de su otorgamiento. La nulidad de las concesiones de bienes de dominio público operará retroactivamente, pero el Ejecutivo del Estado queda facultado para limitar esta retroactividad cuando a su juicio el concesionario haya procedido de buena fe.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE ENERO DE 2011)</small>
+
+En el caso de que la resolución quede firme, los bienes materia de la concesión, sus mejoras y accesiones pasarán de pleno derecho al control y administración del concedente, sin pago de indemnización alguna al concesionario.
 
 ###### ARTICULO 15.
 
@@ -263,13 +273,17 @@ V.- Los establecimientos fabriles administrados directamente por el Gobierno del
 
 VI.- Los inmuebles de propiedad estatal destinados a los Municipios, así como los prestados y arrendados para servicios u oficinas federales;
 
-> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 1979)</small>
+> <small>(REFORMADA, P.O. 7 DE ENERO DE 2011)</small>
 
-VII.- Los inmuebles que constituyan el patrimonio de los Organismos Públicos Estatales;
+VII- Los inmuebles que constituyan el patrimonio de las entidades paraestatales de la administración pública del Estado, con excepción de aquellos que se adquieran con fines de regularización de la tenencia de la tierra, para solventar problemas en materia de vivienda.
 
-> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 1979)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE ENERO DE 2011)</small>
 
-VIII.- Cualesquiera otros adquiridos mediante expropiación destinados exclusivamente para un servicio público.
+VIII.- Los inmuebles que se destinen al servicio de los organismos a los que la Constitución Política del Estado Libre y Soberano de Baja California y las leyes que de ésta emanen, otorguen autonomía.
+
+> <small>(REFORMADA, P.O. 7 DE ENERO DE 2011)</small>
+
+IX.- Cualesquiera otros adquiridos mediante expropiación destinados exclusivamente para un servicio público.
 
 ###### ARTICULO 22.
 
@@ -281,15 +295,19 @@ Los bienes a que se refiere la Fracción VII del Artículo 21 sólo podrán grav
 
 Otorgada la aprobación a que se refiere el párrafo anterior, los bienes quedarán sometidos de pleno derecho a las reglas del derecho común y los acreedores podrán ejercitar respecto de ellos todas las acciones que les correspondan sin limitación alguna. El estado no será parte en los juicios que con este motivo se inicien.
 
-> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1979)</small>
+> <small>(REFORMADO, P.O. 7 DE ENERO DE 2011)</small>
 
 ###### ARTICULO 24.
 
-Cuando una dependencia del Ejecutivo creyere conveniente la adquisición de un inmueble para destinarlo al servicio público, al uso común, a un fin de utilidad general o fuere necesario para el desempeño de atribuciones a cargo del Gobierno del Estado, lo comunicará a la Oficialía Mayor y a la Dirección de Organización, Programación y Presupuesto. Una vez emitida la resolución presupuestal para la adquisición, el Oficial Mayor de Gobierno, previo acuerdo con el Gobernador del Estado y el titular de la dependencia, hará las gestiones necesarias y el arreglo de los términos de la compra hasta ultimarlos. La firma de la escritura corresponderá al Gobernador del Estado, quien, si lo prefiere, podrá delegar esta facultad en el Oficial Mayor de Gobierno o en otro funcionario. Tocará a la Oficialía Mayor el registro y archivo de los documentos y títulos de propiedad correspondientes.
+Cuando una dependencia del Ejecutivo creyere conveniente la adquisición de un inmueble para destinarlo al servicio público, al uso común, a un fin de utilidad general o fuere necesario para el desempeño de atribuciones a cargo del Gobierno del Estado, lo comunicará a la Oficialía Mayor y a la Secretaría de Planeación y Finanzas.
+
+Una vez emitida la validación presupuestal para la adquisición por parte de la Secretaría de Planeación y Finanzas, el Oficial Mayor de Gobierno, previo acuerdo con el Gobernador del Estado y el titular de la dependencia, hará las gestiones necesarias y el arreglo de los términos de la compra hasta ultimarlos. La firma de la escritura corresponderá al Gobernador del Estado por conducto del Oficial Mayor de Gobierno o en otro funcionario a quien se le delegue esta facultad. Tocará a la Oficialía Mayor el registro y archivo de los documentos y títulos de propiedad correspondientes.
+
+> <small>(REFORMADO, P.O. 7 DE ENERO DE 2011)</small>
 
 ###### ARTICULO 25.
 
-Cuando se trate de adquisición por vías de derecho público, tocará a la dependencia del ramo respectivo, determinar la utilidad pública y a la Secretaría de Finanzas todo lo relacionado con la fijación del monto y el régimen de pago, cuando éste sea a cargo del Estado, tocando a la Dependencia del ramo o la que designe el Gobernador los procedimientos encaminados a la ocupación administrativa de las cosas. No será necesaria en estos casos la redacción de una escritura y se reputará que los bienes forman parte del patrimonio del Estado desde la publicación del Decreto respectivo en el Periódico Oficial.
+Cuando se trate de adquisición por vías de derecho público, tocará a la Oficialía Mayor de Gobierno o a la dependencia que designe el Gobernador los procedimientos encaminados a la ocupación administrativa de las cosas. No será necesaria en estos casos la redacción de una escritura y se reputará que los bienes forman parte del patrimonio del Estado desde la publicación del Instrumento respectivo en el Periódico Oficial.
 
 > <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1979)</small>
 
@@ -357,11 +375,11 @@ No podrán ser enajenados inmuebles de dominio privado del Estado, a favor de ni
 
 La iniciativa de Decreto por la que se solicite la autorización previa del Congreso del Estado para la enajenación de bienes, estipulará el destino que se le dará al producto que se obtenga de la enajenación, y deberá acompañarse de avalúo practicado por la Comisión Estatal de Avalúos.
 
-> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1979)</small>
+> <small>(REFORMADO, P.O. 7 DE ENERO DE 2011)</small>
 
 ###### ARTICULO 34.
 
-Los inmuebles de dominio privado del Estado son inembargables. Tratándose de la prescripción de dichos bienes, se duplicarán los plazos establecidos en el Código Civil.
+Los inmuebles de dominio privado del Estado son inembargables e imprescriptibles.
 
 ###### ARTICULO 35.
 
@@ -431,11 +449,13 @@ Los Notarios Públicos incurrirán en responsabilidad si autorizan escrituras qu
 
 Los actos o contratos que tengan relación con los inmuebles de la Hacienda Pública del Estado y que para su validez o por acuerdo entre las partes requieran la intervención de Notario, serán presentados ante la fe del que designe el Ejecutivo.
 
+> <small>(REFORMADO, P.O. 7 DE ENERO DE 2011)</small>
+
 ###### ARTICULO 45.
 
-El Gobierno del Estado está facultado para retener administrativamente, los bienes que posea. Cuando se trate de recuperar la posesión interina o definitiva o de reivindicar los inmuebles de dominio privado o de obtener el cumplimiento, la rescisión o la nulidad de contratos o cualesquier otro acto jurídico celebrados respecto de dichos bienes, el Gobierno del Estado deberá deducir ante los Tribunales las acciones que corresponda, las que se tramitarán en los términos señalados en el Código de Procedimientos Civiles. Presentada la demanda, el Juez, a solicitud del Ministerio Público y siempre que encuentre razón que lo amerite, podrá autorizar la ocupación administrativa provisional de los inmuebles. La resolución denegatoria podrá revocarse en cualquier estado del pleito por causas supervenientes.
+Cuando se den los supuestos para la reversión de los inmuebles enajenados a título gratuito, a que se refiere el artículo 36 de esta Ley, la Oficialía Mayor de Gobierno substanciará el procedimiento administrativo tendiente a recuperar la propiedad y posesión del inmueble de que se trate, en los términos señalados en los artículos 60 a 64 de la presente Ley.
 
-Cuando por su finalidad el contrato se relacione estrechamente con las atribuciones que al Estado compete, podrá rescindirse administrativamente sin perjuicio de las prestaciones a que tenga derecho la otra parte.
+En el caso de que la reversión sea procedente, la Oficialía Mayor de Gobierno procederá a expedir la declaratoria de que el inmueble revierte al patrimonio del Gobierno del Estado y de que ésta constituye el título de propiedad sobre el bien, la cual deberá ser publicada en el Periódico Oficial del Estado e inscrita en el Registro Público de la Propiedad que corresponda al lugar de ubicación del bien.
 
 ### CAPITULO IV
 
@@ -451,9 +471,11 @@ La clasificación y sistemas de inventarios, así como la estimación de la depr
 
 La administración y control de los bienes muebles de propiedad estatal corresponde a la Oficialía Mayor, con las salvedades que en beneficio de la atención más oportuna de los servicios públicos establezca un Reglamento.
 
+> <small>(REFORMADO, P.O. 7 DE ENERO DE 2011)</small>
+
 ###### ARTICULO 48.
 
-Rige también respecto a los muebles de dominio privado lo establecido en preceptos anteriores sobre prescripción en favor de particulares y retención administrativa de la posesión y recuperación interina o definitiva de la misma posesión.
+Los bienes muebles de dominio privado son inembargables e imprescriptibles, y les son aplicables los procedimientos administrativos encaminados para retener o recuperar la posesión, así como lo previsto en el artículo 11 de esta Ley.
 
 > <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1979)</small>
 
@@ -461,67 +483,335 @@ Rige también respecto a los muebles de dominio privado lo establecido en precep
 
 Cuando se establezca que un bien mueble ya no es necesario para el servicio del Gobierno del Estado, o que por sus condiciones de uso debe substituírsele, se dará de baja y podrá, con autorización del Gobernador, venderse a algún particular y si ésto no es posible, donarse a una Institución Pública o Privada que preste servicios de beneficencia. En caso de que el mueble se encuentre inservible, una vez dado de baja, podrá donarse a persona indigente que lo solicite.
 
-### CAPITULO V
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE ENERO DE 2011)</small>
 
-Del Registro de la Propiedad Estatal.
+La Oficialía Mayor de Gobierno podrá otorgar bienes muebles en comodato a entidades y municipios, así como a instituciones o asociaciones que no persigan fines de lucro, siempre y cuando con ello se contribuya al cumplimiento de programas del Gobierno del Estado, lo que deberá ser objeto de acreditación y seguimiento por parte de la institución de que se trate.
 
-> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1979)</small>
+> <small>N. DE E. SE ADICIONA EL CAPITULO V JUNTO CON LOS ARTICULOS QUE LO INTEGRA Y EN CONSECUENCIA SE RECORRE LA NUMERACION DEL ANTERIOR CAPITULO DENOMINADO "DEL REGISTRO DE LA PROPIEDAD ESTATAL", ASI COMO LA NUMERACION DE SUS RESPECTIVOS ARTICULOS PARA QUEDAR COMO CAPITULO VII QUE COMPRENDERA A LOS ARTICULOS 69, 70 Y 71.</small>
+
+> <small>(ADICIONADO, P.O. 7 DE ENERO DE 2011)</small>
+
+### CAPITULO V. DE LAS CONCESIONES
+
+> <small>(ADICIONADO, P.O. 7 DE ENERO DE 2011)</small>
 
 ###### ARTICULO 50.
 
-La Oficialía Mayor tendrá a su cargo el registro de la propiedad estatal, en cuanto a bienes inmuebles, el que será de carácter administrativo interno, para efectos de control y vigilancia.
+Podrá otorgarse a los particulares el derecho de uso, aprovechamiento o explotación sobre bienes sujetos al régimen de dominio público del Estado, mediante concesión, de acuerdo con las reglas y condiciones que dispone la presente Ley y su Reglamento.
 
-> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1979)</small>
+En el otorgamiento de permisos y autorizaciones establecidos en la presente Ley, se estará a las disposiciones que prevea el Reglamento.
+
+Las concesiones solo podrán otorgarse a personas de nacionalidad mexicana.
+
+Tanto las concesiones como sus prórrogas serán otorgadas por conducto de la Oficialía Mayor de Gobierno previo dictamen de justificación que ésta emita, el cual deberá ser validado por la Dirección de Control y Evaluación Gubernamental, la Secretaría de Planeación y Finanzas y la Secretaría General de Gobierno.
+
+> <small>(ADICIONADO, P.O. 7 DE ENERO DE 2011)</small>
 
 ###### ARTICULO 51.
 
-Los bienes inmuebles pertenecientes al Gobierno del Estado, deberán inscribirse en el Registro Público de la Propiedad y de Comercio.
+Para el otorgamiento de concesiones se deberá atender lo siguiente:
 
-> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1979)</small>
+I.- Que el solicitante cumpla con los requisitos establecidos en la presente Ley, su reglamento y demás disposiciones aplicables;
+
+II.- Evitar el acaparamiento o concentración de concesiones en una sola persona;
+
+III.- Que no sea posible o conveniente que el Estado emprenda la explotación directa de los inmuebles;
+
+IV.- No podrán otorgarlas a favor de los servidores públicos que en cualquier forma intervengan en el trámite de las concesiones, ni de sus cónyuges o parientes consanguíneos o por afinidad hasta el cuarto grado o civiles, o de terceros con los que dichos servidores tengan vínculos privados o de negocios.
+
+Las concesiones que se otorguen en contravención a lo dispuesto en esta fracción serán causa de responsabilidad por parte del funcionario que intervenga y de nulidad de la concesión otorgada;
+
+V.- Que no se afecte el interés público;
+
+VI.- En el caso de concesiones de espacios sobre inmuebles que ocupen las dependencias, que la actividad a desarrollar por el concesionario sea compatible y no interfiera con las actividades propias de dichas dependencias, sujetándose a las disposiciones que se expidan para tal efecto.
+
+El Ejecutivo Estatal expedirá las disposiciones reglamentarias para el otorgamiento o prórroga de las concesiones sobre bienes del Estado, sin perjuicio de las disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 7 DE ENERO DE 2011)</small>
 
 ###### ARTICULO 52.
 
-Un Reglamento determinará la forma y términos en que operará el Registro de la Propiedad Estatal.
+Las personas físicas o morales interesadas en obtener una concesión presentarán a la Oficialía Mayor una propuesta de proyecto de concesión, acompañando un estudio que contenga al menos los siguientes elementos:
+
+l.- Viabilidad, finalidad y justificación del objeto de la concesión;
+
+II.- Análisis de la demanda de uso e incidencia económica y social de la actividad o bien de que se trate en su área de influencia;
+
+III.- Análisis de la rentabilidad de la actividad o bien objeto de la concesión;
+
+IV.- Proyección económica de la inversión a realizarse, sistema de financiamiento de la misma y su recuperación;
+
+V. - Propuesta de precios, tarifas y contraprestaciones, según sea el caso.
+
+No aplica la afirmativa ficta en la presentación de la propuesta.
+
+> <small>(ADICIONADO, P.O. 7 DE ENERO DE 2011)</small>
 
 ###### ARTICULO 53.
 
-(DEROGADO, P.O. 20 DE SEPTIEMBRE DE 1979)
+Las concesiones sobre bienes de dominio público salvo excepciones previstas en otras leyes, podrán otorgarse por un plazo de hasta treinta años.
+
+En caso de que una concesión sea otorgada por un término menor a treinta años podrá ser prorrogada una o varias veces, sin exceder nunca el total de las prorrogas los treinta años; atendiendo tanto para su otorgamiento como para su prórroga, a lo siguiente:
+
+I.- El monto de la inversión que el concesionario pretenda aplicar;
+
+II.- El plazo de amortización de la inversión realizada;
+
+III.- El beneficio social y económico que signifique para la región o localidad;
+
+IV.- La necesidad de la actividad o del servicio que se preste;
+
+V.- El cumplimiento por parte del concesionario de las obligaciones a su cargo y de lo dispuesto por las normas específicas mediante las cuales se otorgó la concesión;
+
+VI.- El valor que al término del plazo de la concesión, tengan las obras e instalaciones realizadas al inmueble por el concesionario, y
+
+VII.- El monto de la reinversión que se haga para el mejoramiento de las instalaciones o del servicio prestado.
+
+El titular de una concesión gozará de un término equivalente al diez por ciento del plazo de la concesión, previo al vencimiento del mismo, para solicitar la prórroga correspondiente, respecto de la cual tendrá preferencia sobre cualquier solicitante. Al término del plazo de la concesión, o de la última prórroga en su caso, las obras e instalaciones adheridas de manera permanente al inmueble concesionado pasarán al dominio del Estado.
+
+> <small>(ADICIONADO, P.O. 7 DE ENERO DE 2011)</small>
 
 ###### ARTICULO 54.
 
-(DEROGADO, P.O. 20 DE SEPTIEMBRE DE 1979)
+La Secretaría Planeación y Finanzas del Estado, establecerá los mecanismos para fijar y modificar los precios, tarifas y contraprestaciones correspondientes en las concesiones.
+
+> <small>(ADICIONADO, P.O. 7 DE ENERO DE 2011)</small>
 
 ###### ARTICULO 55.
 
-(DEROGADO, P.O. 20 DE SEPTIEMBRE DE 1979)
+Las concesiones se extinguen por cualquiera de las causas siguientes:
+
+I.- Vencimiento del plazo por el que se haya otorgado;
+
+II.- Renuncia del concesionario;
+
+III.- Desaparición de su finalidad o del bien objeto de la concesión;
+
+IV.- Nulidad, revocación y caducidad;
+
+V. - Declaratoria de rescate;
+
+VI.- Cualquiera otra prevista en las leyes, reglamentos, disposiciones administrativas o en el título de concesión correspondiente, que a juicio de la Oficialía Mayor de Gobierno haga imposible o inconveniente su continuación.
+
+> <small>(ADICIONADO, P.O. 7 DE ENERO DE 2011)</small>
 
 ###### ARTICULO 56.
 
-(DEROGADO, P.O. 20 DE SEPTIEMBRE DE 1979)
+Es causa de caducidad de las concesiones, no iniciar el uso, aprovechamiento o explotación del inmueble concesionado dentro del plazo señalado en las mismas.
+
+> <small>(ADICIONADO, P.O. 7 DE ENERO DE 2011)</small>
 
 ###### ARTICULO 57.
 
-(DEROGADO, P.O. 20 DE SEPTIEMBRE DE 1979)
+Las concesiones podrán ser revocadas por cualquiera de estas causas:
+
+I.- Dejar de cumplir con el fin para el que fue otorgada la concesión, dar al bien objeto de la misma un uso distinto al autorizado o no usar el bien de acuerdo con lo dispuesto en esta Ley, sus reglamentos y el título de concesión;
+
+II.- Dejar de cumplir con las condiciones a que se sujete el otorgamiento de la concesión o infringir lo dispuesto en esta Ley y sus reglamentos, salvo que otra disposición jurídica establezca una sanción diferente;
+
+III.- Dejar de pagar en forma oportuna los derechos fijados en el título de concesión o las demás contribuciones fiscales aplicables;
+
+IV. - Ceder de cualquier forma los derechos u obligaciones derivadas del título de concesión o dar en arrendamiento o comodato fracciones del inmueble concesionado, sin contar con la autorización respectiva;
+
+V. - Realizar obras no autorizadas;
+
+VI.- Dejar de actualizar las garantías exigidas por la autoridad concedente;
+
+VII.- Dañar ecosistemas como consecuencia del uso, aprovechamiento o explotación, y
+
+VIII.- Las demás previstas en esta Ley, en sus reglamentos o en el título de concesión. Declarada la revocación, el concesionario perderá en favor del Estado los bienes afectos a la concesión, sin tener derecho a indemnización alguna.
+
+En los títulos de concesión se podrán establecer las sanciones económicas a las que se harán acreedores los concesionarios, para cuya aplicación se tomará en cuenta el lucro obtenido, los daños causados o el monto de los derechos omitidos. En el caso de la fracción IV de este precepto, se atenderá a lo dispuesto por el siguiente artículo.
+
+> <small>(ADICIONADO, P.O. 7 DE ENERO DE 2011)</small>
 
 ###### ARTICULO 58.
 
-(DEROGADO, P.O. 20 DE SEPTIEMBRE DE 1979)
+La Oficialía Mayor podrá autorizar a los concesionarios para:
 
-### CAPITULO VI
+I.- Dar en arrendamiento o comodato fracciones de los inmuebles concesionados, siempre que tales fracciones se vayan a utilizar en las actividades relacionadas directamente con las que son materia de las propias concesiones, en cuyo caso el arrendatario o comodatario será responsable solidario. En este caso, el concesionario mantendrá todas las obligaciones derivadas de la concesión, y
 
-Sanciones.
+II.- Ceder los derechos y obligaciones derivados de las concesiones, siempre que el cesionario reúna los mismos requisitos y condiciones que se hubieren tomado en cuenta para su otorgamiento.
+
+La autorización a que se refiere este artículo deberá obtenerse por el concesionario, previamente a la realización de los actos jurídicos a que se refieren las fracciones anteriores.
+
+Cualquier operación que se realice en contravención de este artículo será nula y la Oficialía Mayor podrá hacer efectivas las sanciones económicas previstas en la concesión y revocar la misma.
+
+Para aplicar las sanciones económicas a que se hagan acreedores los concesionarios por permitir, sin la autorización respectiva, que un tercero use, aproveche o explote inmuebles sujetos al régimen de dominio público del Estado, se deberán tomar en consideración las cantidades que aquellos hayan obtenido como contraprestación, las cuales serán consideradas crédito fiscal.
+
+> <small>N. DE E. SE ADICIONA EL CAPITULO VI JUNTO CON LOS ARTICULOS QUE LOS INTEGRAN Y EN CONSECUENCIA SE RECORRE LA NUMERACION DEL ANTERIOR CAPITULO DENOMINADO "SANCIONES", ASI COMO LA NUMERACION DE SUS RESPECTIVOS ARTICULOS PARA QUEDAR COMO CAPITULO VIII QUE COMPRENDERA A LOS ARTICULOS 72, 73 Y 74.</small>
+
+> <small>(ADICIONADO, P.O. 7 DE ENERO DE 2011)</small>
+
+### CAPITULO VI. DE LA RECUPERACIÓN DE INMUEBLES POR LA VÍA ADMINISTRATIVA
+
+> <small>(REFORMADO, P.O. 7 DE ENERO DE 2011)</small>
 
 ###### ARTICULO 59.
 
-Se sancionará con prisión de seis meses a cinco años y multa de quinientos a cien mil pesos, a quien, vencido el término señalado en la concesión, permiso o autorización que se le haya otorgado para la explotación, uso o aprovechamiento de un bien de dominio público, no lo devolviere a la autoridad correspondiente, cuando para ello fuere requerido y dentro del plazo que al efecto se le señale.
+Independientemente de las acciones en la vía judicial, el Estado podrá llevar a cabo el procedimiento administrativo tendiente a recuperar la posesión de un inmueble de su competencia, en los siguientes casos:
+
+I.- Cuando un particular posea, explote, use o aproveche un inmueble del patrimonio del Estado, sin haber obtenido previamente concesión, permiso o autorización, o celebrado contrato con la autoridad competente;
+
+II.- Cuando el particular haya tenido concesión, permiso, autorización o contrato y no devolviere el bien al concluir el plazo establecido o le dé un uso distinto al autorizado o convenido, sin contar con la autorización previa de la autoridad competente, o
+
+III.- Cuando el particular no cumpla cualquier otra obligación consignada en el título de concesión, permiso, autorización o contrato respectivo.
+
+> <small>(REFORMADO, P.O. 7 DE ENERO DE 2011)</small>
 
 ###### ARTICULO 60.
 
-La misma pena se impondrá a quien, a sabiendas de que un bien pertenece al dominio público del Estado, lo explote, use o aproveche sin haber obtenido previamente concesión, permiso o autorización de la autoridad competente.
+En cualquiera de los supuestos señalados en el artículo anterior, la Oficialía Mayor de Gobierno dictará un acuerdo de inicio del procedimiento, el que deberá estar fundado y motivado, indicando el nombre de las personas en contra de quienes se inicia.
+
+Al acuerdo a que se refiere el párrafo anterior se agregarán los documentos con los cuales se sustente el inicio del procedimiento administrativo correspondiente.
+
+> <small>(REFORMADO, P.O. 7 DE ENERO DE 2011)</small>
 
 ###### ARTICULO 61.
 
-En los casos a que se refieren los dos artículos que anteceden, independientemente de la intervención de las autoridades a quienes corresponda perseguir y sancionar los delitos cometidos, la autoridad administrativa podrá recuperar, directamente, la tenencia material de los bienes de que se trate.
+La autoridad dentro de los diez días hábiles siguientes a aquél en que se acuerde el inicio del procedimiento administrativo, les notificará a las personas en contra de quienes se inicia, mediante un servidor público acreditado para ello. En la notificación se indicará que dispone de quince días hábiles, para ocurrir ante la propia dependencia, a fin de hacer valer los derechos que, en su caso, tuviere y acompañar los documentos en que funde sus excepciones y defensas.
+
+> <small>(ADICIONADO, P.O. 7 DE ENERO DE 2011)</small>
+
+###### ARTICULO 62.
+
+El procedimiento se sujetará a las siguientes reglas:
+
+I.- En el acuerdo de inicio del procedimiento se expresará:
+
+a) El nombre de la persona a la que se dirige;
+
+b) El motivo de la diligencia;
+
+c) Las disposiciones legales en que se sustente;
+
+d) El lugar, fecha y hora en la que tendrá verificativo la audiencia;
+
+e) El derecho del interesado a aportar pruebas y alegar en la audiencia por sí o por medio de su representante legal;
+
+f) El apercibimiento de que en caso de no presentarse a la audiencia, se le tendrá por contestado en sentido afirmativo, así como por precluido su derecho para hacerlo posteriormente;
+
+g) El nombre, cargo y firma autógrafa del servidor público que la emite, y
+
+h) El señalamiento de que el respectivo expediente queda a su disposición para su consulta en el lugar en el que tendrá verificativo la audiencia.
+
+II.- La audiencia se desahogará en la siguiente forma:
+
+a) Se recibirán las pruebas que se ofrezcan, y se admitirán y desahogarán las procedentes en la fecha que se señale;
+
+b) El compareciente formulará los alegatos que considere pertinentes, y
+
+c) Se levantará acta administrativa en la que consten las circunstancias anteriores.
+
+> <small>(ADICIONADO, P.O. 7 DE ENERO DE 2011)</small>
+
+###### ARTICULO 63.
+
+Las notificaciones se harán conforme a lo dispuesto en la Ley del Procedimiento para los Actos de la Administración Pública del Estado de Baja California.
+
+> <small>(ADICIONADO, P.O. 7 DE ENERO DE 2011)</small>
+
+###### ARTICULO 64.
+
+La Oficialía Mayor de Gobierno recibirá y, en su caso, admitirá y desahogará las pruebas a que se refiere la fracción II, inciso a) del artículo 62 de esta Ley en un plazo no mayor de treinta días hábiles.
+
+Desahogadas las pruebas admitidas y, en su caso, habiéndose formulado los alegatos, la autoridad emitirá la resolución correspondiente.
+
+> <small>(ADICIONADO, P.O. 7 DE ENERO DE 2011)</small>
+
+###### ARTICULO 65.
+
+Serán admisibles toda clase de pruebas, excepto las de posiciones y la declaración de parte, cuando sean a cargo de las autoridades.
+
+Para efectos de su admisión, las pruebas ofrecidas deberán reunir los siguientes elementos, o de lo contrario, se desecharán de plano:
+
+l. - No ser contrarias a lo moral y al derecho, y
+
+II.- Tener relación inmediata y directa con los puntos controvertidos.
+
+> <small>(ADICIONADO, P.O. 7 DE ENERO DE 2011)</small>
+
+###### ARTICULO 66.
+
+La resolución deberá contener lo siguiente:
+
+I. - Nombre de las personas sujetas al procedimiento;
+
+II.- El análisis de las cuestiones planteadas por los interesados, en su caso;
+
+III.- La valoración de las pruebas aportadas;
+
+IV.- Los fundamentos y motivos que sustenten la resolución;
+
+V.- La declaración sobre la procedencia de la terminación, revocación o caducidad de las concesiones, permisos o autorizaciones;
+
+VI.- Los términos, en su caso, para llevar a cabo la recuperación del inmueble de que se trate, y
+
+VII.- El nombre, cargo y firma autógrafa del servidor público competente que la emite.
+
+Dicha resolución será notificada al interesado dentro de los cinco días hábiles siguientes a su emisión, haciéndole saber el derecho que tiene para interponer el recurso de revocación previsto en la Ley del Procedimiento para los Actos de la Administración Pública del Estado de Baja California.
+
+> <small>(ADICIONADO, P.O. 7 DE ENERO DE 2011)</small>
+
+###### ARTICULO 67.
+
+Una vez que quede firme la resolución pronunciada, la autoridad que dictó la misma, procederá a ejecutarla, estando facultada para que, en caso de ser necesario, aplique las medidas de apremio previstas en el Código de Procedimientos Civiles para el Estado de Baja California.
+
+> <small>(ADICIONADO, P.O. 7 DE ENERO DE 2011)</small>
+
+###### ARTICULO 68.
+
+La Oficialía Mayor de Gobierno podrá celebrar con los particulares acuerdos o convenios de carácter conciliatorio en cualquier momento, siempre que no sean contrarios a las disposiciones legales aplicables.
+
+> <small>N. DE E. SE ADICIONA EL CAPITULO V JUNTO CON LOS ARTICULOS QUE LO INTEGRA Y EN CONSECUENCIA SE RECORRE LA NUMERACION DEL ANTERIOR CAPITULO DENOMINADO "DEL REGISTRO DE LA PROPIEDAD ESTATAL", ASI COMO LA NUMERACION DE SUS RESPECTIVOS ARTICULOS PARA QUEDAR COMO CAPITULO VII QUE COMPRENDERA A LOS ARTICULOS 69, 70 Y 71.</small>
+
+(REUBICADO [N. DE E. ANTES CAPITULO V], P.O. 7 DE ENERO DE 2011)
+
+### CAPITULO VII. DEL REGISTRO DE LA PROPIEDAD ESTATAL
+
+(REUBICADO, [N. DE E. ANTES ARTICULO 50], P.O. 7 DE ENERO DE 2011)
+
+###### ARTICULO 69.
+
+La Oficialía Mayor tendrá a su cargo el registro de la propiedad estatal, en cuanto a bienes inmuebles, el que será de carácter administrativo interno, para efectos de control y vigilancia.
+
+(REUBICADO, [N. DE E. ANTES ARTICULO 51], P.O. 7 DE ENERO DE 2011)
+
+###### ARTICULO 70.
+
+Los bienes inmuebles pertenecientes al Gobierno del Estado, deberán inscribirse en el Registro Público de la Propiedad y de Comercio.
+
+(REUBICADO, N. DE E. ANTES ARTICULO 52], P.O. 7 DE ENERO DE 2011)
+
+###### ARTICULO 71.
+
+Un Reglamento determinará la forma y términos en que operará el Registro de la Propiedad Estatal.
+
+> <small>N. DE E. SE ADICIONA EL CAPITULO VI JUNTO CON LOS ARTICULOS QUE LOS INTEGRAN Y EN CONSECUENCIA SE RECORRE LA NUMERACION DEL ANTERIOR CAPITULO DENOMINADO "SANCIONES", ASI COMO LA NUMERACION DE SUS RESPECTIVOS ARTICULOS PARA QUEDAR COMO CAPITULO VIII QUE COMPRENDERA A LOS ARTICULOS 72, 73 Y 74.</small>
+
+(REUBICADO [N. DE E. ANTES CAPITULO VI], P.O. 7 DE ENERO DE 2011)
+
+### CAPITULO VIII. SANCIONES
+
+> <small>(REFORMADO, P.O. 7 DE ENERO DE 2011)</small>
+
+###### ARTICULO 72.
+
+Se sancionará con prisión de dos a doce años y multa de trescientas a mil veces el salario mínimo general diario vigente en el Estado, a quien, vencido el término señalado en la concesión, permiso o autorización que se le haya otorgado para la explotación, uso o aprovechamiento de un bien sujeto al régimen de dominio público, no lo devolviere a la autoridad correspondiente dentro del término de treinta días naturales siguientes a la fecha de notificación del requerimiento administrativo que le sea formulado.
+
+> <small>(REFORMADO, P.O. 7 DE ENERO DE 2011)</small>
+
+###### ARTICULO 73.
+
+La pena señalada en el artículo anterior se impondrá a quien use, aproveche o explote un bien que pertenece al patrimonio del Estado, sin haber obtenido previamente concesión, permiso o autorización, o celebrado contrato con la autoridad competente.
+
+> <small>(REFORMADO, P.O. 7 DE ENERO DE 2011)</small>
+
+###### ARTICULO 74.
+
+En los casos a que se refieren los dos artículos que anteceden, independientemente de la intervención de las autoridades a quienes corresponda perseguir y sancionar los delitos cometidos, la autoridad administrativa podrá recuperar, directamente, la tenencia material de los bienes de que se trate, en los términos previstos en el Capítulo VI de esta Ley.
+
+Las obras e instalaciones que sin concesión, permiso, autorización o contrato se realicen en inmuebles pertenecientes al patrimonio del Estado, se perderán en beneficio del Estado. En su caso, la Oficialía Mayor ordenará que las obras o instalaciones sean demolidas por cuenta del infractor, sin que proceda indemnización o compensación alguna.
 
 T R A N S I T O R I O S :
 
@@ -610,3 +900,11 @@ P.O. 19 DE OCTUBRE DE 2007.
 P.O. 25 DE JUNIO DE 2008.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 7 DE ENERO DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan a lo establecido en el presente decreto de reforma.
+
+TERCERO.- En tanto se expide el Reglamento y demás disposiciones derivadas de la presente Ley, se continuarán aplicando las disposiciones reglamentarias y administrativas vigentes en lo que no se opongan a este ordenamiento.
