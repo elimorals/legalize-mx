@@ -4,7 +4,7 @@ identifier: "FED-reglamento-organico-de-sociedad-hipotecaria-federal-24292"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-04-09"
-last_updated: "2005-01-24"
+last_updated: "2011-01-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24292&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2002-04-08"
 
 REGLAMENTO ORGANICO DE SOCIEDAD HIPOTECARIA FEDERAL, SOCIEDAD NACIONAL DE CREDITO, INSTITUCION DE BANCA DE DESARROLLO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE ENERO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE ENERO DE 2011.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el martes 9 de abril de 2002.
 
@@ -57,25 +57,31 @@ II. Consejo Directivo.- El Consejo Directivo de la Sociedad.
 
 III. Ley Orgánica.- Ley Orgánica de Sociedad Hipotecaria Federal.
 
-IV. Reglamento Orgánico.- El Reglamento Orgánico de Sociedad Hipotecaria Federal.
+> <small>(REFORMADA, D.O.F. 7 DE ENERO DE 2011)</small>
+
+IV. Reglamento Orgánico.- El Reglamento Orgánico de Sociedad Hipotecaria Federal, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo.
 
 V. Sociedad.- Sociedad Hipotecaria Federal, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo.
 
+> <small>(REFORMADO, D.O.F. 7 DE ENERO DE 2011)</small>
+
 ###### Artículo 4o.
 
-La Sociedad tendrá por objeto impulsar el desarrollo de los mercados primario y secundario de crédito a la vivienda, mediante el otorgamiento de garantías destinadas a la construcción, adquisición y mejora de la vivienda, preferentemente de interés social; así como al incremento de la capacidad productiva y el desarrollo tecnológico, relacionados con la vivienda.
+La Sociedad, tendrá por objeto impulsar el desarrollo de los mercados primario y secundario de crédito a la vivienda, mediante el otorgamiento de crédito y garantías destinadas a la construcción, adquisición y mejora de vivienda, preferentemente de interés social en los términos de la Ley Orgánica, así como al incremento de la capacidad productiva y el desarrollo tecnológico, relacionados con la vivienda.
 
 Asimismo, podrá garantizar financiamientos relacionados con el equipamiento de conjuntos habitacionales.
 
-También, tendrá por objeto promover y bursatilizar activos financieros entre los que se encuentran carteras de créditos con garantía hipotecaria o fiduciaria generados por intermediarios financieros o fideicomisos, y realizar operaciones de fideicomiso, mandatos o comisiones que coadyuven a la consecución de su objeto.
+También, tendrá por objeto promover la bursatilización de activos financieros entre los que se encuentran carteras de créditos con garantía hipotecaria o fiduciaria generados por entidades financieras o fideicomisos, y realizar operaciones de fideicomiso, mandatos o comisiones que coadyuven a la consecución de su objeto.
 
-Para efectos de este Reglamento Orgánico, se entenderá por mercado secundario de créditos, todas aquellas operaciones por medio de las cuales se efectúe la venta de la cartera hipotecaria, fiduciaria o de títulos emitidos con la garantía de dicha cartera a terceras personas.
+Para efectos de este Reglamento Orgánico, se entenderá por mercado secundario de créditos, todas aquellas operaciones por medio de las cuales se efectúe la venta de la cartera hipotecaria, fiduciaria o de títulos emitidos con la garantía de dicha cartera a terceras personas, y en cuanto a criterios que defina el Consejo Directivo en términos del artículo 5o. de la Ley Orgánica, se podrán integrar en los objetivos, lineamientos y políticas en materia de originación y administración del crédito que está facultado a expedir conforme a dicho ordenamiento.
 
 ###### Artículo 5o.
 
 El domicilio de la Sociedad será la Ciudad de México, Distrito Federal.
 
-La Sociedad podrá, previa aprobación de su Consejo Directivo, establecer o clausurar sucursales o agencias o cualquier otra clase de oficinas y nombrar corresponsales en el país. Tratándose de oficinas o agencias en el extranjero, así como para la cesión de activos y pasivos de sus sucursales, deberá solicitar autorización a la Secretaría de Hacienda y Crédito Público y demás autoridades competentes, en términos de lo previsto por los artículos 42 fracción III y 87 de la Ley de Instituciones de Crédito y demás disposiciones aplicables a las entidades paraestatales de la Administración Pública Federal.
+> <small>(REFORMADO, D.O.F. 7 DE ENERO DE 2011)</small>
+
+La Sociedad podrá, previa aprobación de su Consejo Directivo, establecer, reubicar y clausurar sucursales, agencias y oficinas en el país y en el extranjero.
 
 La Sociedad designará domicilio convencional en los actos que realice y en los contratos que celebre.
 
@@ -85,9 +91,11 @@ La duración de la Sociedad será indefinida.
 
 ### CAPITULO SEGUNDO. Del Capital Social
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE ENERO DE 2011)</small>
+
 ###### Artículo 7o.
 
-El capital social de la Sociedad es de $10,000'000,000.00 (diez mil millones de pesos 00/100 M.N.). Dicho capital social estará representado por 6,600 (seis mil seiscientos) certificados de aportación patrimonial de la Serie "A", con valor nominal de $1'000,000.00 (un millón de pesos 00/100 M.N.) cada uno, y por 3,400 (tres mil cuatrocientos) certificados de aportación patrimonial de la Serie "B", con valor nominal de $1'000,000.00 (un millón de pesos 00/100 M.N.) cada uno.
+El capital social de la Sociedad es de $10,800'000,000.00 (diez mil ochocientos millones de pesos 00/100 M.N.). Dicho capital social estará representado por 7,128 (siete mil ciento veintiocho) certificados de aportación patrimonial de la Serie "A", con valor nominal de $1'000,000.00 (un millón de pesos 00/100 M.N.) cada uno, y por 3,672 (tres mil seiscientos setenta y dos) certificados de aportación patrimonial de la Serie "B", con valor nominal de $1'000,000.00 (un millón de pesos 00/100 M.N.) cada uno.
 
 El capital social podrá ser aumentado o reducido conforme a lo dispuesto por el artículo 38 de la Ley de Instituciones de Crédito.
 
@@ -177,43 +185,43 @@ II. Transcurrido el plazo que el Consejo Directivo señale, que no podrá ser in
 
 La administración de la Sociedad estará encomendada a un Consejo Directivo, y a un Director General, en sus respectivas esferas de competencia, de conformidad con su Ley Orgánica.
 
+> <small>(REFORMADO, D.O.F. 7 DE ENERO DE 2011)</small>
+
 ###### Artículo 16.
 
-El Consejo Directivo estará integrado por siete consejeros distribuidos de la siguiente forma:
+El Consejo Directivo estará integrado por nueve consejeros distribuidos de la siguiente forma:
 
-I. Cuatro consejeros representarán a la Serie "A" de certificados de aportación patrimonial que serán:
+I. Cinco consejeros representarán a la Serie "A" de certificados de aportación patrimonial que serán:
 
 a) El Secretario de Hacienda y Crédito Público, quien presidirá el Consejo Directivo;
 
-b) El Subsecretario de Hacienda y Crédito Público;
+b) El Subsecretario de Hacienda y Crédito Público, quien, en ausencia del Secretario de Hacienda y Crédito Público, presidirá el Consejo Directivo. En ausencia del Secretario y del Subsecretario de Hacienda y Crédito Público, presidirá el servidor público designado como suplente del Presidente del Consejo Directivo, con acuerdo de los consejeros presentes en la sesión;
 
-c) El Secretario de Desarrollo Social, y
+c) El Gobernador del Banco de México;
 
-d) El Gobernador del Banco de México.
+d) Un Subgobernador del Banco de México, designado por el propio Gobernador; y
 
-En ausencia del Secretario de Hacienda y Crédito Público, el Subsecretario de Hacienda y Crédito Público tendrá el carácter de Presidente del Consejo Directivo.
+e) El Titular de la Comisión Nacional de Vivienda.
 
-> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2005)</small>
+Cada consejero de la Serie “A”, designará como suplente a servidores públicos que tengan preferentemente nivel de director general en la Administración Pública Federal Centralizada o su equivalente; y
 
-Los titulares de las dependencias mencionadas designarán como suplentes a servidores públicos que tengan al menos nivel de director general. Tratándose del Gobernador del Banco de México, lo será el Subgobernador que designe el propio Gobernador.
+II. Cuatro consejeros externos representarán a la Serie "B" de los certificados de aportación patrimonial de la Sociedad; serán designados por el titular o titulares de esos certificados que representen, cuando menos, el 51 por ciento de éstos y, en el supuesto de que el titular sea el Gobierno Federal, la designación correspondiente la realizará el titular de la Secretaría de Hacienda y Crédito Público, sin que sean considerados servidores públicos. Los nombramientos deberán recaer en personas que por sus conocimientos, honorabilidad, prestigio profesional y experiencia sean ampliamente reconocidos.
 
-II. Dos consejeros de la Serie "B" que serán designados por el Ejecutivo Federal, a través de la Secretaría de Hacienda y Crédito Público. Los nombramientos deberán recaer en personas que por sus conocimientos, honorabilidad, prestigio profesional y experiencia sean ampliamente reconocidos, y
-
-> <small>(REFORMADA, D.O.F. 24 DE ENERO DE 2005)</small>
-
-III. Un consejero de la serie "B" designado por el Ejecutivo Federal, a través de la Secretaría de Hacienda y Crédito Público, que tendrá el carácter de consejero independiente. El nombramiento de consejero independiente deberá recaer en persona de nacionalidad mexicana que, por sus conocimientos, honorabilidad y prestigio profesional, sea ampliamente reconocido. Dicho consejero deberá observar lo señalado en el último párrafo del artículo 17 de la Ley Orgánica.
-
-El consejero independiente deberá asistir a todas las sesiones del Consejo Directivo y no tendrá suplente. En caso de que dejare de asistir, sin causa justificada a juicio del Consejo Directivo, al treinta por ciento o más de las sesiones que se hubieren convocado en un mismo ejercicio, podrá ser removido de su cargo, en cuyo caso se designará nuevo consejero conforme a lo dispuesto en el párrafo anterior.
+Los consejeros externos no tendrán suplentes y deberán asistir a las sesiones del Consejo Directivo. En caso de que dejare de asistir, sin causa justificada a juicio del Consejo Directivo, al treinta por ciento o más de las sesiones que se hubieren convocado en un mismo ejercicio, podrá ser removido de su cargo, en cuyo caso se designará nuevo consejero conforme a lo dispuesto en la fracción II anterior.
 
 El Consejo podrá invitar a sus sesiones a personas cuyas actividades estén relacionadas con el objeto social de la Sociedad.
 
 La designación y renuncia de los consejeros se hará del conocimiento del Consejo Directivo de la Sociedad, a través de su Secretario.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE ENERO DE 2011)</small>
+
 ###### Artículo 17.
 
-Las sesiones del Consejo Directivo podrán ser ordinarias o extraordinarias; las ordinarias deberán celebrarse cuando menos cuatro veces al año en los días y horas que previamente acuerde el propio Consejo; en caso necesario se celebrarán sesiones extraordinarias por acuerdo del Presidente o a petición de cuando menos dos consejeros de la Serie "A".
+Las sesiones del Consejo Directivo podrán ser ordinarias o extraordinarias; las ordinarias deberán celebrarse cuando menos cuatro veces al año en los días y horas que previamente acuerde el propio Consejo; en caso necesario se celebrarán sesiones extraordinarias por acuerdo del Presidente o a petición de cuando menos dos consejeros de la Serie "A". Los consejeros serán convocados por escrito para la celebración de las sesiones, con por lo menos cinco días hábiles en el caso de las ordinarias y de por lo menos tres días hábiles en el caso de las sesiones extraordinarias; en ambos casos, la documentación e información relacionada con los temas a tratar durante la sesión será entregada con la misma antelación en que se convoca a ésta.
 
-Los consejeros serán convocados por escrito para la celebración de las sesiones, con por lo menos siete días naturales en el caso de las ordinarias y de por lo menos 3 días hábiles en el caso de las sesiones extraordinarias; en ambos casos, la documentación e información relacionada con los temas a tratar durante la sesión será entregada con la misma antelación en que se convoca a ésta.
+> <small>(REFORMADO, D.O.F. 7 DE ENERO DE 2011)</small>
+
+El Consejo Directivo sesionará válidamente con la asistencia de por lo menos cinco de sus miembros, siempre y cuando se cuente con la presencia de dos de los consejeros de la Serie "A" y uno de ellos sea quien presida el Consejo, en términos del artículo 16, fracción I de este Reglamento, así como con la presencia de dos consejeros externos. La asistencia de los miembros podrá acreditarse con su presencia a través de videoconferencia, siempre y cuando sea en tiempo real.
 
 El Consejo Directivo sesionará válidamente con la asistencia de por lo menos cuatro de sus miembros, siempre y cuando se cuente con la presencia de dos de los consejeros de la Serie "A" y uno de ellos sea el Presidente del Consejo.
 
@@ -221,31 +229,21 @@ Las resoluciones se tomarán por mayoría de votos de los consejeros presentes, 
 
 En el Orden del Día de las sesiones del Consejo Directivo deberán listarse los asuntos a tratar en las mismas, sin incluir asuntos generales.
 
+> <small>(REFORMADO, D.O.F. 7 DE ENERO DE 2011)</small>
+
 ###### Artículo 18.
 
-No podrán ser consejeros:
+Los consejeros externos deberán cumplir los requisitos previstos en el artículo 17 de la Ley Orgánica.
 
-I. Las personas que se encuentren en los casos señalados por los artículos 16 y 17 de la Ley Orgánica;
-
-II. Dos o más personas que tengan entre sí parentesco hasta el tercer grado por consanguinidad o por afinidad;
-
-III. Los empleados o directivos de la Sociedad;
-
-IV. Los asesores de la Sociedad o socios o empleados de firmas que funjan como asesores o consultores de la Sociedad o sus afiliadas y que sus ingresos dependan significativamente de esta relación contractual;
-
-V. Los clientes, proveedores, deudores o acreedores de la Sociedad o socios o empleados de una sociedad que sea cliente, proveedor, deudor o acreedor importante;
-
-VI. El cónyuge y las personas que tengan parentesco por consanguinidad o afinidad hasta el tercer grado, con alguna de las personas a que se refieren las fracciones III a V anteriores.
-
-Si alguno de los consejeros designados llegare a encontrarse comprendido, durante el ejercicio de su cargo en cualquiera de los supuestos anteriores, será sustituido por su suplente, por todo el tiempo que dure el impedimento y no se haga designación del consejero propietario.
+Si alguno de los consejeros externos llegare a encontrarse comprendido, durante el ejercicio de su cargo en cualquiera de los supuestos a que hace referencia este artículo, se aplicará el procedimiento señalado en el artículo 18 de la Ley Orgánica.
 
 En aquellas operaciones de la Sociedad en las que los consejeros tuviesen un interés, deberán abstenerse de toda intervención.
 
-Los consejeros están obligados en todo tiempo a lo previsto por los artículos 117 y 118 de la Ley de Instituciones de Crédito.
+Los consejeros están obligados en todo tiempo a lo previsto por el artículo 117 de la Ley de Instituciones de Crédito.
 
 ###### Artículo 19.
 
-No podrán ser consejeros independientes, las personas que se ubiquen en alguno de los supuestos que se establecen en el artículo anterior de este Reglamento Orgánico, así como las personas que, sin ser empleados o directivos y siendo tenedores de certificados de aportación patrimonial de la Sociedad, tengan poder de mando sobre los directivos de la misma.
+(DEROGADO, D.O.F. 7 DE ENERO DE 2011)
 
 ###### Artículo 20.
 
@@ -273,19 +271,25 @@ El Director General será designado por el Ejecutivo Federal a través del Secre
 
 El Director General tendrá a su cargo la administración y la representación legal de la Sociedad. Sin perjuicio de las atribuciones que correspondan al Consejo Directivo, tendrá las facultades y funciones a que se refiere el artículo 22 de la Ley Orgánica.
 
+> <small>(REFORMADO, D.O.F. 7 DE ENERO DE 2011)</small>
+
 ###### Artículo 24.
 
-La designación de Delegados Fiduciarios y de los servidores públicos de la Sociedad que ocupen cargos con las dos jerarquías inmediatas inferiores a la del Director General, se hará con sujeción a lo dispuesto por los artículos 24 y 43 de la Ley de Instituciones de Crédito.
+La designación de los servidores públicos de la Sociedad que ocupen cargos con las dos jerarquías inmediatas inferiores a la del Director General, se hará con sujeción a lo dispuesto por los artículos 24 y 43 de la Ley de Instituciones de Crédito.
 
-> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2005)</small>
+> <small>(REFORMADO, D.O.F. 7 DE ENERO DE 2011)</small>
 
 ###### Artículo 25.
 
-La vigilancia de la Sociedad estará encomendada a dos comisarios designados uno por la Secretaría de la Función Pública y el otro por los consejeros de la serie "B". Por cada comisario se nombrará un suplente.
+La vigilancia de la Sociedad estará encomendada a un comisario designado por la Secretaría de la Función Pública y a un Comité de Auditoría, que será una instancia auxiliar del Consejo Directivo y reportará a éste la información que conozca con motivo del ejercicio de sus funciones.
+
+Cuando el Gobierno Federal no sea el tenedor de la mayoría de los certificados de aportación patrimonial de la serie “B” de la Sociedad, los titulares de los mismos podrán designar a otro comisario. Por cada comisario se nombrará un suplente.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE ENERO DE 2011)</small>
 
 ###### Artículo 26.
 
-Para el cumplimiento de las facultades y obligaciones que la Ley les confiere, los comisarios podrán ejercer conjunta o separadamente las funciones siguientes:
+Para el cumplimiento de las facultades y obligaciones que la Ley le confiere, el comisario podrá ejercer las funciones siguientes:
 
 I. Solicitar al Director General una información mensual que incluya por lo menos un estado de la situación financiera y un estado de resultados de la Sociedad;
 
@@ -299,27 +303,27 @@ V. Asistir con voz, pero sin voto, a todas las sesiones del Consejo Directivo a 
 
 VI. Vigilar en cualquier tiempo las operaciones de la Sociedad.
 
-> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2005)</small>
+> <small>(REFORMADO, D.O.F. 7 DE ENERO DE 2011)</small>
 
-La actuación de los comisarios se sujetará en todo tiempo a lo previsto por los artículos 117 y 118 de la Ley de Instituciones de Crédito. En el caso del comisario designado por la Secretaría de la Función Pública, las funciones enlistadas en este artículo se establecen sin perjuicio de las que le atribuyen otros ordenamientos legales.
+Las funciones enlistadas en este artículo para la actuación del comisario se establecen sin perjuicio de las que le atribuyen otros ordenamientos legales.
 
-> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2005)</small>
+> <small>(REFORMADO, D.O.F. 7 DE ENERO DE 2011)</small>
 
 ### CAPITULO CUARTO. De la Comisión Consultiva
 
 ###### Artículo 27.
 
-El comisario designado por la Secretaría de la Función Pública, durará en su cargo hasta en tanto no sea revocado su nombramiento, y el designado por los consejeros de la serie "B", por el término de un ejercicio social, pudiendo ser nombrado nuevamente.
+El comisario designado por la Secretaría de la Función Pública, durará en su cargo hasta en tanto no sea revocado su nombramiento y el designado, conforme al segundo párrafo del artículo 25 de este Reglamento, por los tenedores de los certificados de aportación patrimonial de la Serie “B”, por el término de un ejercicio social, pudiendo ser nombrado nuevamente.
 
-Los consejeros de los certificados de la serie "B" designarán y removerán al comisario correspondiente a esta serie de certificados.
+Los tenedores de los certificados de aportación patrimonial de la serie "B" podrán remover al comisario correspondiente a esta serie de certificados.
 
-El comisario designado por los consejeros de la serie "B" continuará en el desempeño de sus funciones, aun cuando concluya el periodo para el que haya sido nombrado, mientras no se haga nueva designación y el sustituto tome posesión de su cargo.
+El comisario designado por los tenedores de los certificados de aportación patrimonial de la Serie “B” continuará en el desempeño de sus funciones, aun cuando concluya el periodo para el que haya sido nombrado, mientras no se haga nueva designación y el sustituto tome posesión de su cargo.
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 24 DE ENERO DE 2005)</small>
 
 ### CAPITULO QUINTO. Del Comité de Recursos Humanos y Desarrollo Institucional
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 24 DE ENERO DE 2005)</small>
+> <small>(REFORMADO, D.O.F. 7 DE ENERO DE 2011)</small>
 
 ###### Artículo 28.
 
@@ -335,19 +339,15 @@ El comisario designado por los consejeros de la serie "B" continuará en el dese
 
 ###### Artículo 30.
 
-La Sociedad tendrá un comité de recursos humanos y desarrollo institucional, que estará integrado de la siguiente forma: dos representantes de la Secretaría de Hacienda y Crédito Público, que serán el Subsecretario de Egresos y el Subsecretario de Hacienda y Crédito Público; el consejero a que se refiere el artículo 14, fracción III, de la Ley Orgánica, designado por el Consejo Directivo; una persona que, por sus conocimientos y desarrollo profesional, tenga amplia experiencia en el área de recursos humanos; un representante de la Secretaría de la Función Pública que será el Subsecretario de Desarrollo y Simplificación Administrativa; el Director General de la Sociedad, así como un representante de la Comisión Nacional Bancaria y de Valores, quien tendrá voz pero no voto. De entre los miembros del Comité se designará a su presidente y sus decisiones se tomarán por mayoría de votos. El Subsecretario de Hacienda y Crédito Público contará con voto de calidad en caso de empate. Asimismo, el Comité contará con un secretario técnico, quien tendrá voz, pero no voto.
+El comité de recursos humanos y desarrollo institucional de la Sociedad estará integrado por dos representantes de la Secretaría de Hacienda y Crédito Público, que serán el Subsecretario de Egresos y el Subsecretario de Hacienda y Crédito Público; dos de los consejeros externos de la Sociedad designados por el Consejo Directivo; una persona ajena a la Sociedad que, por sus conocimientos y desarrollo profesional, tenga amplia experiencia en el área de recursos humanos; un representante de la Secretaría de la Función Pública que será el Subsecretario de la Función Pública, y el Director General de la Sociedad. El Subsecretario de Hacienda y Crédito Público presidirá el Comité y tendrá voto de calidad en caso de empate. Asimismo, el Comité contará con un secretario técnico, quien tendrá voz, pero no voto.
 
-El Director General de la Sociedad se abstendrá de participar en las sesiones del Comité, que tengan por objeto emitir opiniones o recomendaciones con respecto a su sueldo, prestaciones económicas y de seguridad social.
+El Director General de la Sociedad, los consejeros externos y la persona ajena a la Sociedad que integren el Comité, se abstendrán de participar en las resoluciones que tengan por objeto emitir opiniones o recomendaciones con respecto a sus remuneraciones, sueldo, prestaciones económicas y de seguridad social, según corresponda.
 
 El Comité se reunirá cuantas veces sea necesario a petición del Director General, quien enviará la convocatoria respectiva a los miembros del mismo, en donde establecerá el orden del día, así como el lugar y fecha para la celebración de la sesión.
 
-> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2005)</small>
+Este Comité opinará y propondrá, en términos de las condiciones generales de trabajo, las bases para la elaboración de tabuladores de sueldos, política salarial y para el otorgamiento de incentivos; programas de estímulos, ascensos, promociones y jubilaciones; lineamientos de selección, reclutamiento y capacitación; criterios de separación; indicadores de evaluación de desempeño para la determinación de compensaciones y demás prestaciones económicas y de seguridad social establecidas en beneficio de los servidores públicos que laboren en la Sociedad, y propondrá al Consejo Directivo, las remuneraciones de los consejeros externos, así como de los miembros externos de los Comités que se constituyan en términos de la Ley Orgánica y la Ley de Instituciones de Crédito.
 
-Este Comité opinará y propondrá, en términos de las condiciones generales de trabajo, las bases para la elaboración de tabuladores de sueldos, política salarial y para el otorgamiento de incentivos; programas de estímulos, ascensos, promociones y jubilaciones; lineamientos de selección, reclutamiento y capacitación; criterios de separación; indicadores de evaluación de desempeño para la determinación de compensaciones y demás prestaciones económicas y de seguridad social establecidas en beneficio de los servidores públicos que laboren en la Sociedad.
-
-> <small>(ADICIONADO, D.O.F. 24 DE ENERO DE 2005)</small>
-
-Salvo el consejero independiente y el profesional con experiencia en el área de recursos humanos, los demás miembros del Comité contarán con sus respectivos suplentes, quienes serán preferentemente servidores públicos del nivel inferior inmediato siguiente y deberán tener cuando menos nivel de director general.
+Salvo los consejeros externos y la persona con experiencia en el área de recursos humanos ajena a la Sociedad, los demás miembros del Comité contarán con sus respectivos suplentes, quienes serán preferentemente servidores públicos del nivel inferior inmediato siguiente y deberán tener preferentemente nivel de director general en la Administración Pública Federal Centralizada o su equivalente.
 
 ###### Artículo 31.
 
@@ -358,6 +358,42 @@ El ejercicio social iniciará el primero de enero y terminará el treinta y uno 
 El Consejo Directivo acordará la forma y fecha en la cual los tenedores de los certificados de aportación patrimonial podrán cobrar las utilidades que les correspondan y mandará anunciar oportunamente la fecha y las utilidades acordadas, mediante publicación en un periódico de circulación nacional.
 
 Si algún tenedor de certificados de aportación patrimonial no cobra las utilidades que le correspondan en el término de cinco años, contados a partir de la fecha designada por el Consejo Directivo, se considerará prescrito su derecho y las utilidades pasarán a favor de la Sociedad.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 7 DE ENERO DE 2011)</small>
+
+### CAPITULO SEPTIMO. De la participación de la Sociedad en instituciones de seguros
+
+> <small>(ADICIONADO, D.O.F. 7 DE ENERO DE 2011)</small>
+
+###### Artículo 33.
+
+La participación de la Sociedad en las instituciones de seguros a que se refiere la fracción X Bis del artículo 4 de la Ley Orgánica sólo podrá hacerse por la totalidad menos una de las acciones representativas del capital social de dichas instituciones y, en consecuencia, éstas se considerarán entidades paraestatales. La acción restante será suscrita por el Gobierno Federal por conducto de la Tesorería de la Federación.
+
+> <small>(ADICIONADO, D.O.F. 7 DE ENERO DE 2011)</small>
+
+###### Artículo 34.
+
+En los estatutos sociales de las instituciones de seguros en cuyo capital participe la Sociedad, se deberá establecer que, en el supuesto de que la Sociedad dejare de participar en su capital social, la Sociedad quedará liberada de las obligaciones a que se refieren las fracciones I y II del artículo 24 Ter de la Ley Orgánica, a partir del día en que se actualice dicho supuesto.
+
+> <small>(ADICIONADO, D.O.F. 7 DE ENERO DE 2011)</small>
+
+###### Artículo 35.
+
+Los Consejos de Administración de las instituciones de seguros en cuyo capital participe la Sociedad, se integrarán conforme a lo establecido por el artículo 24 Quáter de la Ley Orgánica y fungirán como Secretario y Prosecretario los designados como tales en el Consejo Directivo de la Sociedad.
+
+Las disposiciones establecidas para la celebración de las sesiones y la elaboración de las actas del Consejo Directivo de la Sociedad, serán aplicables a los Consejos de Administración de las instituciones de seguros en cuyo capital participe la Sociedad, lo que deberá establecerse en los estatutos sociales de dichas instituciones.
+
+> <small>(ADICIONADO, D.O.F. 7 DE ENERO DE 2011)</small>
+
+###### Artículo 36.
+
+Las instituciones de seguros en cuyo capital participe la Sociedad se apoyarán en la estructura administrativa de ésta para el ejercicio de sus funciones, en términos de las disposiciones aplicables.
+
+> <small>(ADICIONADO, D.O.F. 7 DE ENERO DE 2011)</small>
+
+###### Artículo 37.
+
+Cuando una misma persona ocupe el cargo de Director General en la Sociedad y en una o más de las instituciones de seguros en cuyo capital participe la primera, únicamente percibirá la remuneración económica y las prestaciones laborales que deriven de su relación de trabajo con la Sociedad. El mismo tratamiento será aplicado a cualquier otro servidor público de la Sociedad que ocupe algún cargo o preste servicios en una o más de las instituciones de seguros en cuyo capital participe la Sociedad o en las demás empresas en que ésta invierta a que se refiere la fracción X Ter del artículo 4o. de la Ley Orgánica.
 
 ## TRANSITORIOS
 
@@ -390,3 +426,11 @@ D.O.F. 24 DE ENERO DE 2005.
 PRIMERO.- El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- De conformidad con lo establecido en el cuarto párrafo del artículo 30 de la Ley de Instituciones de Crédito, inscríbanse las modificaciones al Reglamento Orgánico de Sociedad Hipotecaria Federal, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, en el Registro Público de Comercio.
+
+D.O.F. 7 DE ENERO DE 2011.
+
+PRIMERO.- El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- De conformidad con lo establecido en el cuarto párrafo del artículo 30 de la Ley de Instituciones de Crédito, inscríbanse las modificaciones al Reglamento Orgánico de Sociedad Hipotecaria Federal, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, en el Registro Público de Comercio.
+
+TERCERO.- El capital pagado de Sociedad Hipotecaria Federal, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo a la entrada en vigor del presente Reglamento Orgánico, asciende a la suma de $10,800'000,000.00 (diez mil ochocientos millones de pesos 00/100 M.N.), el cual estará distribuido en $7,128'000,000.00 (siete mil ciento veintiocho millones de pesos 00/100 M.N.), representado por 7,128 (siete mil ciento veintiocho) certificados de aportación patrimonial de la Serie "A", con valor nominal de $1'000,000.00 (un millón de pesos 00/100 M.N.) cada uno, y $3,672'000,000.00 (tres mil seiscientos setenta y dos millones de pesos 00/100 M.N.), representado por 3,672 (tres mil seiscientos setenta y dos) certificados de aportación patrimonial de la Serie "B", con valor nominal de $1'000,000.00 (un millón de pesos 00/100 M.N.) cada uno.
