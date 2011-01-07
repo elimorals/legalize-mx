@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-policia-y-buen-gobierno-del-municipio-de-41753"
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-12-11"
-last_updated: "1998-12-11"
+last_updated: "2011-01-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41753&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ state: "NLE"
 
 REGLAMENTO DE POLICIA Y BUEN GOBIERNO DEL MUNICIPIO DE HIDALGO, NUEVO LEON
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE POLICIA Y BUEN GOBIERNO, PUBLICADO EN EL P.O. DE 7 DE ENERO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 11 de diciembre de 1998.
 
@@ -598,3 +600,11 @@ C.C.P. Oziel Garza Elizondo
 Ing. Sergio Gutiérrez Villareal
 
 Síndico Primero
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 7 DE ENERO DE 2011.
+
+PRIMERO.- El presente reglamento entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga el reglamento anterior publicado en el periódico oficial de fecha 11 de diciembre de 1998, mismo que se veía (sic) aplicando en este Municipio.
