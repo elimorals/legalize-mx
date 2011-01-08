@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-interior-de-la-secretaria-de-administracion-17477"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-07-20"
-last_updated: "2005-10-22"
+last_updated: "2011-01-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17477&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE ADMINISTRACION
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE ADMINISTRACION
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE ADMINISTRACIÓN DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE OCTUBRE DE 2005.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE ADMINISTRACIÓN, PUBLICADO EN EL P.O. DE 8 DE ENERO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Sección II del Periódico del Estado de Jalisco, el jueves 20 de julio de 2000.
 
@@ -555,7 +557,7 @@ EL C. SECRETARIO DE ADMINISTRACION
 
 C. CESAR L. COLL CARABIAS
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 22 DE OCTUBRE DE 2005.
 
@@ -568,3 +570,11 @@ TERCERO.- Se deroga el acuerdo DIGELAG ACU/32/2003, mediante el cual se delega e
 CUARTO.- Se deroga el acuerdo ACU/SEMADES/01/2003, mediante el cual se delega en el Director de Asuntos Jurídicos de la Secretaría de Medio Ambiente para el Desarrollo Sustentable, la facultad de tramitar y resolver los procedimientos administrativos en materia de información pública que sean competencia de esta Secretaría; publicado en el Periódico Oficial "El Estado de Jalisco" el día 19 de julio de 2003, sección II.
 
 QUINTO.- Se derogan todas las disposiciones reglamentarias que se opongan al presente Acuerdo.
+
+P.O. 8 DE ENERO DE 2011.
+
+PRIMERO. El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. Se abroga el Reglamento Interior de la Secretaría de Administración.
+
+TERCERO. Se derogan todas las disposiciones reglamentarias o administrativas que se opongan a este ordenamiento.
