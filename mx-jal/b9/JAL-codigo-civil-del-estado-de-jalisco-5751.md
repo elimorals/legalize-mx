@@ -4,7 +4,7 @@ identifier: "JAL-codigo-civil-del-estado-de-jalisco-5751"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-02-25"
-last_updated: "2009-12-29"
+last_updated: "2011-01-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO CIVIL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE ENERO DE 2011.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -2549,9 +2549,11 @@ Las personas así divorciadas podrán volver a contraer matrimonio civil transcu
 
 Si se comprueba que los cónyuges no cumplen con los supuestos exigidos, el divorcio así obtenido no surtirá efectos legales, independientemente de las sanciones previstas en las leyes.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE ENERO DE 2011)</small>
+
 ###### Art. 406.
 
-Cuando ambos cónyuges convengan en divorciarse y tengan más de un año de casados, presentarán al juzgado certificado expedido por la Secretaría de Salud en donde dé cuenta sobre la gravidez o ingravidez de la cónyuge y un convenio en donde fijen los siguientes puntos:
+Cuando ambos cónyuges convengan en divorciarse y tengan más de un año de casados, presentarán al juzgado certificado expedido por la Secretaría de Salud en el que se dé cuenta sobre la gravidez o ingravidez de la cónyuge con un tiempo de expedición no mayor a 30 días naturales a la fecha de presentación de la solicitud y un convenio en donde fijen los siguientes puntos:
 
 I. Designación del cónyuge a quien sean confiados los hijos del matrimonio, tanto durante el procedimiento como después de ejecutoriado el divorcio y, en general, el arreglo de la situación de aquéllos;
 
@@ -8021,7 +8023,7 @@ Lo previsto por el párrafo que antecede se tendrá por cumplido mediante la uti
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE SEPTIEMBRE DE 2006)</small>
 
-En los casos en que la ley establezca como requisito que un acto jurídico deba otorgarse en instrumento ante fedatario público, éste y las partes obligadas podrán generar, enviar, recibir, archivar o comunicar la información que contenga los términos exactos en que las partes han decidido obligares , mediante la utilización de firma electrónica certificada, en cuyo caso el fedatario público, deberá hacer constar en el propio instrumento los elementos a través de los cuales se atribuye dicha información a las partes y conservar bajo su resguardo una versión íntegra de la misma para su ulterior consulta, otorgando dicho instrumento de conformidad con la legislación aplicable que lo rige.
+En los casos en que la ley establezca como requisito que un acto jurídico deba otorgarse en instrumento ante fedatario público, éste y las partes obligadas podrán generar, enviar, recibir, archivar o comunicar la información que contenga los términos exactos en que las partes han decidido obligarse, mediante la utilización de firma electrónica certificada, en cuyo caso el fedatario público, deberá hacer constar en el propio instrumento los elementos a través de los cuales se atribuye dicha información a las partes y conservar bajo su resguardo una versión íntegra de la misma para su ulterior consulta, otorgando dicho instrumento de conformidad con la legislación aplicable que lo rige.
 
 #### Sección Octava. De las cláusulas
 
@@ -17998,3 +18000,7 @@ TERCERO. Los delegados institucionales privados que estén debidamente acreditad
 P.O. 29 DE DICIEMBRE DE 2009.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 8 DE ENERO DE 2011.
+
+ÚNICO. Este decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
