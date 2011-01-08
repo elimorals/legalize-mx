@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-procedimientos-civiles-del-estado-de-jalisco-5753"
 country: "mx"
 rank: "codigo"
 publication_date: "1938-12-24"
-last_updated: "2010-12-09"
+last_updated: "2011-01-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5753&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "JAL"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE ENERO DE 2011.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el 24 de diciembre de 1938.
 
@@ -2590,9 +2590,9 @@ Cuando en la sentencia definitiva se declare procedente alguna excepción dilato
 
 Transcurrido el término del emplazamiento sin haber sido contestada la demanda, se hará la declaración de rebeldía, se abrirá el término de ofrecimiento de pruebas y se observarán las prescripciones del Título Duodécimo, Capítulo I de este código.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2011)</small>
 
-Para hacer la declaración de rebeldía, el juez examinará de oficio si las citaciones y notificaciones fueron hechas al demandado en la forma legal.
+Para hacer la declaración de rebeldía, el Juez examinará de oficio y de manera exhaustiva si las citaciones, notificaciones y emplazamientos fueron hechas al demandado en la forma establecida por este código caso contrario, deberá reponer el procedimiento sin esperar al dictado de la sentencia.
 
 Se presumen confesados los hechos de la demanda que se dejó de contestar.
 
@@ -6192,21 +6192,33 @@ Tan luego como cause ejecutoria la sentencia que se pronuncie en estos juicios, 
 
 Del Divorcio Por Mutuo Consentimiento.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE ENERO DE 2011)</small>
 
 ###### ARTICULO 764.
 
-Los consortes que de común acuerdo resuelvan divorciarse, presentarán ante el juez competente su solicitud, las actas que acrediten el estado civil de los promoventes y el de sus hijos, así como sus actas de nacimiento y en su caso las de sus hijos, copia simple de la promoción y demás documentos y un convenio en que se fijen los siguientes puntos:
+Los consortes que de común acuerdo resuelvan divorciarse, presentarán ante el juez competente su solicitud, las actas que acrediten el estado civil de los promoventes y el de sus hijos, así como sus actas de nacimiento y, en su caso, las de sus hijos, un certificado expedido por la Secretaria de Salud, en el que se dé cuenta sobre la gravidez o ingravidez de la cónyuge con un tiempo de expedición no mayor a los 30 días naturales a la fecha de presentación de la solicitud, copia simple de la promoción y demás documentos y un convenio en el que se fijen los siguientes puntos:
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
 I. Designación del cónyuge a quien sean confiados los hijos del matrimonio, tanto durante el procedimiento como después de ejecutoriado el divorcio y, en general, el arreglo de la situación de aquéllos;
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1994)</small>
+
 II. El modo de subvenir a las necesidades de los hijos, tanto durante el procedimiento como después de ejecutoriado el divorcio;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
 III. La casa que servirá de habitación a los cónyuges durante el procedimiento;
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1994)</small>
+
 IV. La cantidad que a título de alimentos un cónyuge debe pagar a otro durante el procedimiento o después de ejecutoriada la sentencia, la forma de hacer el pago y la garantía que debe darse para asegurarlo; o bien la manifestación expresa de que ambos cónyuges quedarán exentos de toda obligación a este respecto, en caso de que así se convenga;
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1994)</small>
+
 V. La manera de administrar los bienes de la sociedad conyugal durante el procedimiento, y la de liquidar dicha sociedad después de ejecutoriado el divorcio, así como la designación de liquidadores. A ese efecto se acompañará un inventario y avalúo de todos los bienes muebles e inmuebles de la sociedad.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
 El divorcio por mutuo consentimiento no puede pedirse sino pasado un año de la celebración del matrimonio.
 
@@ -6968,9 +6980,11 @@ Si se dedujere oposición contra el inventario o avalúo, se sustanciará la que
 
 Para dar curso a esta oposición, es indispensable expresar concretamente cuál es el valor que se atribuye a cada uno de los bienes y cuáles sean las pruebas que se invocan como base de la objeción del inventario o avalúo.
 
-###### ARTICULO 871.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE ENERO DE 2011)</small>
 
-En la tramitación de este incidente cada parte es responsable de la asistencia de los peritos que propusiere, de manera que la audiencia no se suspenderá por la audiencia de todos o de alguno de los propuestos.
+###### Artículo 871.
+
+En la tramitación de este incidente cada parte es responsable de la asistencia de los peritos que propusiere, de manera que la audiencia no se suspenderá por la ausencia de todos o de alguno de los propuestos.
 
 Si dejaren de presentarse los peritos perderán el derecho de cobrar honorarios por los trabajos practicados.
 
@@ -8883,3 +8897,21 @@ P.O. 30 DE OCTUBRE DE 2010.
 P.O. 9 DE DICIEMBRE DE 2010.
 
 UNICO. El presente decreto entrará en vigor a los sesenta días siguientes al de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 8 DE ENERO DE 2011.
+
+DECRETO NUMERO 23465/LIX/10, SE REFORMA EL PARRAFO SEGUNDO DEL ARTICULO 279 DEL CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE JALISCO.
+
+ÚNICO. Este decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 8 DE ENERO DE 2011.
+
+DECRETO NUMERO 23466/LIX/10, SE REFORMA EL ARTICULO 764 DEL CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE JALISCO.
+
+ÚNICO. Este decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 8 DE ENERO DE 2011.
+
+DECRETO NUMERO 23467/LIX/10, SE REFORMA EL PRIMER PARRAFO DEL ARTICULO 871 DEL CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE JALISCO.
+
+ÚNICO. Este decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
