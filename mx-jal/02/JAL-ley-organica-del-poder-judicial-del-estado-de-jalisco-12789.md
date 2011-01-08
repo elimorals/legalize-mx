@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-judicial-del-estado-de-jalisco-12789"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-07-01"
-last_updated: "2010-12-23"
+last_updated: "2011-01-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12789&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ENERO DE 2011.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 1 de julio de 1997.
 
@@ -97,7 +97,7 @@ Los tribunales de justicia del fuero común del Estado de Jalisco, ejercerán su
 
 En términos del artículo 73 fracción XXI de la Constitución Política de los Estados Unidos Mexicanos, los tribunales de justicia del fuero común del Estado de Jalisco conocerán de los delitos que las leyes federales les otorguen jurisdicción.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE DICIEMBRE DE 2010)</small>
 
@@ -305,7 +305,7 @@ VI. Departamento de Auxiliares de la Administración de Justicia.
 
 Para su organización y funcionamiento, las dependencias a que se refiere el presente artículo, se sujetarán a lo que establezca el reglamento interno de cada tribunal.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 4 DE ENERO DE 2007)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE ENERO DE 2007)</small>
 
 ### CAPÍTULO I. INTEGRACIÓN Y FUNCIONAMIENTO
 
@@ -353,7 +353,7 @@ III. La de Adquisiciones.
 
 Estas comisiones serán colegiadas en la forma que determine el Pleno y nombradas al inicio del año judicial.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE ENERO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE ENERO DE 2008)</small>
 
 ###### Artículo 20.
 
@@ -991,7 +991,7 @@ En caso de procedencia de recusaciones, excusas o impedimentos el Pleno del Trib
 
 En los casos de licencia de los magistrados, el Pleno designará a un magistrado de entre los suplentes, para que integre la sala que corresponda.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE SEPTIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 67.
 
@@ -1569,7 +1569,7 @@ Las diferencias o conflictos entre el Consejo Electoral del Estado y sus servido
 
 I. Cualquier servidor del Consejo Electoral del Estado, de sus organismos y de la Dirección del Registro Estatal de Electores que hubiese sido sancionado o destituido de su cargo, podrá inconformarse mediante demanda que presente directamente ante el Tribunal Electoral, dentro de los quince días hábiles siguientes al día en que se notifique la determinación del Consejo Electoral;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JULIO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JULIO DE 2001)</small>
 
 II. En tanto no se instale el Tribunal Electoral, es competente para resolver los procedimientos especiales a que se refiere este capítulo, la sala permanente y, dentro del proceso electoral, el Pleno del Tribunal Electoral.
 
@@ -2043,7 +2043,7 @@ En la licencia que se otorgue al Secretario, Juez y Magistrado electos como cons
 
 El Consejo de la Judicatura funcionará en Pleno o a través de comisiones, sus resoluciones serán definitivas; y las de las comisiones se someterán al Pleno cuando así lo determine por acuerdo previo del mismo; si éste tuviere observaciones, las regresará a la comisión para que elabore una nueva resolución atendiendo las mismas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE ENERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ENERO DE 2007)</small>
 
 ###### Artículo 140.
 
@@ -2087,7 +2087,7 @@ El Pleno del Consejo calificará las excusas e impedimentos de sus miembros para
 
 El Consejero que en cualquier asunto disintiere de la mayoría, podrá formular voto particular, el cual se deberá insertar en el acta respectiva si fuere presentado dentro de los cinco días siguientes a la fecha del acuerdo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE ENERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ENERO DE 2007)</small>
 
 ###### Artículo 148.
 
@@ -2197,7 +2197,7 @@ El Pleno del Consejo de la Judicatura contará con los servidores públicos supe
 
 El Pleno del Consejo General del Poder Judicial del Estado estará presidido por el magistrado que funja como Presidente del Supremo Tribunal de Justicia, quien ejercerá las atribuciones que le confiere el presente ordenamiento.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE ENERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ENERO DE 2007)</small>
 
 ###### Artículo 151.
 
@@ -2529,7 +2529,7 @@ El Consejo General del Poder Judicial del Estado establecerá, de acuerdo con su
 
 ### CAPÍTULO XII. DEL ARCHIVO Y BOLETÍN JUDICIAL
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE ENERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ENERO DE 2007)</small>
 
 ###### Artículo 183.
 
@@ -3067,6 +3067,10 @@ Los peritajes que versen sobre materias relativas a una profesión, deberán enc
 
 En los casos de extrema pobreza, a criterio del juzgador, los servicios que presten los peritos se estimarán de asistencia social, por lo que se otorgarán gratuitamente.
 
+### CAPÍTULO I. DEL HABER POR RETIRO DE LOS MAGISTRADOS DEL PODER JUDICIAL
+
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2011)</small>
+
 ###### Artículo 231.
 
 Los síndicos de concurso desempeñarán una función pública en la administración de justicia del fuero común de la que debe considerárseles como auxiliares, quedando por lo tanto, sujetos a las determinaciones de esta ley, sin perjuicio de las demás disposiciones legales aplicables.
@@ -3109,6 +3113,10 @@ Los daños y perjuicios que se ocasionaren por culpa o negligencia del Síndico 
 
 La garantía no podrá ser cancelada ni devuelta hasta transcurridos seis meses de la conclusión del cargo.
 
+### CAPÍTULO II. DEL HABER POR RETIRO DE LOS JUECES DEL PODER JUDICIAL
+
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2011)</small>
+
 ###### Artículo 237.
 
 Los albaceas, interventores, depositarios, tutores y curadores desempeñan una función pública como auxiliares en la administración de justicia.
@@ -3148,6 +3156,90 @@ I. Se pronuncie ejecutoria en contrario acordada por el voto de cuando menos tre
 II. Exista jurisprudencia definida por parte del Poder Judicial de la Federación contraria al criterio sustentado por el Poder Judicial local.
 
 La Jurisprudencia de las Salas será interrumpida al dictarse una sentencia en contrario.
+
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE ENERO DE 2011)</small>
+
+## TÍTULO DÉCIMO. DEL HABER POR RETIRO DE LOS FUNCIONARIOS DEL PODER JUDICIAL
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE ENERO DE 2011)</small>
+
+###### Artículo 241.
+
+Los magistrados del Poder Judicial tendrán derecho al haber por retiro, el cual consistirá en una prestación económica que, en una sola exhibición, será entregada al magistrado que se retire de manera forzosa o voluntaria de su cargo.
+
+El Supremo Tribunal de Justicia, el Tribunal Electoral y el Tribunal de lo Administrativo deberán establecer en sus proyectos de presupuesto de egresos los recursos necesarios para hacer frente al haber por retiro.
+
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2011)</small>
+
+###### Artículo 242.
+
+El haber por retiro estará constituido por:
+
+I. El equivalente a seis meses del salario integrado que el cargo de magistrado tenga asignado conforme al Presupuesto de Egresos del año que corresponda al pago de esta prestación, y
+
+II. El equivalente a doce días de salario integrado por año de servicios prestados como magistrado.
+
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2011)</small>
+
+###### Artículo 243.
+
+Los presidentes de los tribunales o quienes ejerzan sus funciones, a solicitud por escrito del interesado, procederán a formular el cálculo de la prestación que corresponda al magistrado por concepto de haber por retiro, además de sus prestaciones laborales, tomando en cuenta su permanencia en el cargo de magistrado y el último sueldo mensual integrado.
+
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2011)</small>
+
+###### Artículo 244.
+
+Determinada la cuantía del haber por retiro se procederá a su liquidación, para lo cual se deberá notificar al interesado el acuerdo en que se determine la cuantía del haber por retiro, señalando con precisión los trámites que deban cubrirse para obtener el pago de este emolumento.
+
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2011)</small>
+
+###### Artículo 245.
+
+Si una vez ingresada la solicitud de haber por retiro, falleciere el magistrado, esta prestación se deberá otorgar a sus beneficiarios, de conformidad con la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios.
+
+(NOTA: EL 25 DE JUNIO DE 2012, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 26/2011, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 20 DE OCTUBRE DE 2012 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+EN CASO DE QUE EL FALLECIMIENTO HUBIERE OCURRIDO ANTES DE HABER INGRESADO LA SOLICITUD, LOS BENEFICIARIOS DEL MAGISTRADO NO TENDRÁN DERECHO DE RECLAMAR DICHA PRESTACIÓN.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE ENERO DE 2011)</small>
+
+###### Artículo 246.
+
+Los jueces del Poder Judicial tendrán derecho al haber por retiro, el cual consistirá en una prestación económica que en una sola exhibición será entregada al juez que se retire de manera forzosa o voluntaria de su cargo.
+
+El Consejo de la Judicatura deberá establecer en su proyecto de presupuesto de egresos los recursos necesarios para hacer frente al haber por retiro.
+
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2011)</small>
+
+###### Artículo 247.
+
+El haber por retiro estará constituido por:
+
+I. El equivalente a seis meses del salario integrado que el cargo de juez tenga asignado conforme al Presupuesto de Egresos del año que corresponda al pago de esta prestación, y
+
+II. El equivalente a doce días por año de servicios prestados como juez.
+
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2011)</small>
+
+###### Artículo 248.
+
+El Consejo de la Judicatura, a solicitud por escrito del interesado, procederá a formular el cálculo de la prestación que corresponda al juez por concepto de haber por retiro, además de sus prestaciones laborales, tomando en cuenta su permanencia en el cargo de juez y el último sueldo mensual integrado.
+
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2011)</small>
+
+###### Artículo 249.
+
+Determinada la cuantía del haber por retiro se procederá a su liquidación, para lo cual el Consejo de la Judicatura deberá notificar al interesado el acuerdo en que se determine la cuantía del haber por retiro, señalando con precisión los trámites que deban cubrirse para obtener el pago de este emolumento.
+
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2011)</small>
+
+###### Artículo 250.
+
+Si una vez ingresada la solicitud de haber por retiro, falleciere el juez, esta prestación se deberá otorgar a sus beneficiarios, de conformidad con la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios.
+
+(NOTA: EL 25 DE JUNIO DE 2012, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 26/2011, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 20 DE OCTUBRE DE 2012 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+EN CASO DE QUE EL FALLECIMIENTO HUBIERE OCURRIDO ANTES DE HABER INGRESADO LA SOLICITUD, LOS BENEFICIARIOS DEL JUEZ NO TENDRÁN DERECHO DE RECLAMAR DICHA PRESTACIÓN.
 
 ## TRANSITORIOS
 
@@ -3364,3 +3456,11 @@ PRIMERO. El presente decreto entrará en vigor el 21 de agosto de 2012, previa s
 SEGUNDO. Previa entrada en vigor del presente decreto, los poderes Ejecutivo y Judicial del Estado deberán realizar las acciones necesarias para su debida instrumentación.
 
 De igual forma, se autoriza a las secretarías de Finanzas y de Administración a realizar las adecuaciones presupuestales y administrativas necesarias para el debido cumplimiento tanto del párrafo anterior como del presente decreto.
+
+P.O. 8 DE ENERO DE 2011.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. En caso de presentarse solicitudes de haber por retiro durante el presente ejercicio fiscal, tanto de jueces como de magistrados, el Consejo de la Judicatura o los presidentes de los tribunales deberán realizar los trámites correspondientes ante la Secretaría de Finanzas para pagar los haberes por retiro que correspondan, para lo cual se autoriza a ésta a realizar todas las acciones necesarias para el cumplimiento del presente decreto.
+
+TERCERO. El presente decreto sólo aplicará para las solicitudes de haber por retiro que sean presentadas a partir de su entrada en vigor.
