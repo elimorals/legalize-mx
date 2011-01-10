@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-consejo-nacional-contra-las-16509"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-07-20"
-last_updated: "2000-07-20"
+last_updated: "2011-01-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16509&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2000-07-19"
 
 REGLAMENTO INTERIOR DEL CONSEJO NACIONAL CONTRA LAS ADICCIONES
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL CONSEJO NACIONAL CONTRA LAS ADICCIONES, PUBLICADO EN EL D.O.F. DE 10 DE ENERO DEL 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 20 de julio de 2000.
 
@@ -230,3 +232,15 @@ SEGUNDO. Se abroga el Reglamento para la Organización y Funcionamiento del Cons
 TERCERO. El Consejo Nacional contra las Adicciones deberá aprobar en la primera sesión que celebre con posterioridad a la entrada en vigor del presente Reglamento, el orden en que se invitará a formar parte del Consejo a los gobiernos de las entidades federativas.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los diecinueve días del mes de julio de dos mil.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Diódoro Carrasco Altamirano.- Rúbrica.- La Secretaria de Relaciones Exteriores, Rosario Green Macías.- Rúbrica.- El Secretario de Desarrollo Social, Carlos M. Jarque.- Rúbrica.- El Secretario de Comercio y Fomento Industrial, Herminio Blanco Mendoza.- Rúbrica.- El Secretario de Agricultura, Ganadería y Desarrollo Rural, Romárico Arroyo Marroquín.- Rúbrica.- El Secretario de Comunicaciones y Transportes, Carlos Ruiz Sacristán.- Rúbrica.- El Secretario de Educación Pública, Miguel Limón Rojas.- Rúbrica.- El Secretario de Salud, José Antonio González Fernández.- Rúbrica.- El Secretario del Trabajo y Previsión Social, Mariano Palacios Alcocer.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 10 DE ENERO DE 2011.
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Reglamento Interior del Consejo Nacional contra las Adicciones, publicado en el Diario Oficial de la Federación el 20 de julio de 2000.
+
+TERCERO. El Consejo Nacional Contra las Adicciones expedirá sus Reglas de Funcionamiento dentro de los 60 días hábiles siguientes a la fecha en que entre en vigor el presente Reglamento.
+
+CUARTO. El Consejo Nacional Contra las Adicciones deberá aprobar en la primera sesión que celebre con posterioridad a la entrada en vigor del presente Reglamento, el orden en que se invitará a formar parte del Consejo Nacional a los gobiernos de las entidades federativas.
