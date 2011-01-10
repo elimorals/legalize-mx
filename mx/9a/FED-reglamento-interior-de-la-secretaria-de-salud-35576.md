@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-salud-35576"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-01-19"
-last_updated: "2010-02-02"
+last_updated: "2011-01-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35576&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2004-01-15"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE SALUD
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 2 DE FEBRERO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE ENERO DE 2011.
 
 Reglamento publicado en el Diario Oficial de la Federación, el lunes 19 de enero de 2004.
 
@@ -56,6 +56,10 @@ III Bis. Coordinador General de Asuntos Jurídicos y Derechos Humanos;
 > <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
 
 IV. Titular de la Comisión Coordinadora de Institutos Nacionales de Salud y Hospitales de Alta Especialidad;
+
+> <small>(ADICIONADA, D.O.F. 10 DE ENERO DE 2011)</small>
+
+IV Bis. Comisionado Nacional contra las Adicciones;
 
 V. Titular de la Unidad Coordinadora de Vinculación y Participación Social, y
 
@@ -101,13 +105,13 @@ XIV. Dirección General de Recursos Materiales y Servicios Generales;
 
 XV. Dirección General de Relaciones Internacionales;
 
-XVI. Dirección General de Tecnologías de la Información;
+XVI Bis. (DEROGADA, D.O.F. 10 DE ENERO DE 2011)
 
 > <small>(ADICIONADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
 
 XVI Bis. Dirección General de Gestión Financiera y Administrativa;
 
-XVII. Secretariado Técnico del Consejo Nacional Contra las Adicciones;
+XVII. (DEROGADA, D.O.F. 10 DE ENERO DE 2011)
 
 > <small>(ADICIONADA, D.O.F. 2 DE FEBRERO DE 2010)</small>
 
@@ -146,6 +150,10 @@ VI. Centro Nacional de Trasplantes;
 > <small>(REFORMADA, D.O.F. 2 DE FEBRERO DE 2010)</small>
 
 VII. Centro Nacional de Programas Preventivos y Control de Enfermedades;
+
+> <small>(ADICIONADA, D.O.F. 10 DE ENERO DE 2011)</small>
+
+VII Bis. Centro Nacional para la Prevención y el Control de las Adicciones;
 
 VIII. Centro Nacional para la Prevención y el Control del VIH/SIDA;
 
@@ -443,21 +451,21 @@ XIV. Las demás que le señalen otras disposiciones legales o le confiera el Sec
 
 Corresponde al Subsecretario de Prevención y Promoción de la Salud:
 
-> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2011)</small>
 
-I. Proponer al Secretario de Salud, establecer, coordinar, dirigir, supervisar y evaluar las políticas y estrategias en materia de prevención y promoción de la salud, de control de enfermedades, así como en materia de salud mental, discapacidad, accidentes y de las adicciones;
+I. Proponer al Secretario las políticas en las materias de prevención y promoción de la salud, de control de enfermedades, de salud mental y de discapacidad, así como establecer las estrategias de ejecución, la coordinación, la dirección, la supervisión y la evaluación de aquellas políticas aprobadas por el Secretario;
 
-> <small>(REFORMADA, D.O.F. 2 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2011)</small>
 
-II. Coordinar el desarrollo de los centros nacionales de Programas Preventivos y Control de Enfermedades, para la Salud de la Infancia y la Adolescencia, de Equidad de Género y Salud Reproductiva, y para la Prevención y Control del VIH/SIDA;
+II. Coordinar el desarrollo de los centros nacionales de Programas Preventivos y Control de Enfermedades, para la Salud de la Infancia y la Adolescencia, de Equidad de Género y Salud Reproductiva, para la Prevención y Control del VIH/SIDA, y para la Prevención y Control de las Adicciones;
 
-> <small>(ADICIONADA, D.O.F. 2 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2011)</small>
 
-II Bis. Coordinar el desarrollo de los secretariados técnicos de los consejos nacionales contra las Adicciones, de Salud Mental, para las Personas con Discapacidad y para la Prevención de Accidentes;
+II Bis. Coordinar el desarrollo de los secretariados técnicos de los consejos nacionales de Salud Mental, para las Personas con Discapacidad y para la Prevención de Accidentes;
 
-> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2011)</small>
 
-III. Elaborar, conducir, coordinar y promover la integración de los programas de prevención, promoción de la salud y control de enfermedades, así como de los relativos a la salud mental, a la discapacidad y los accidentes y los vinculados con las adicciones;
+III. Elaborar, conducir, coordinar y promover la integración de los programas de prevención y promoción de la salud y control de enfermedades, de salud mental, de discapacidad y de accidentes;
 
 IV. Establecer, con la aprobación del Secretario, las políticas y estrategias en materia de seguridad en salud y dirigir su ejecución;
 
@@ -471,27 +479,27 @@ VI. Definir y emitir las políticas y normas sobre información epidemiológica 
 
 VII. Emitir y coordinar la expedición de normas oficiales mexicanas, así como proponer las reformas a las disposiciones jurídicas en las materias de su competencia, con la participación que corresponda a la Coordinación General de Asuntos Jurídicos y Derechos Humanos, en términos del artículo 11 Bis de este Reglamento;
 
-> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2011)</small>
 
-VIII. Proponer las políticas, estrategias, sistemas y programas que permitan optimizar la asignación de recursos financieros para los programas de prevención, promoción de la salud y de control de enfermedades, así como en materia de salud mental, discapacidad, accidentes y adicciones, sin perjuicio de las atribuciones que en estas materias tengan otras unidades administrativas o dependencias;
+VIII. Proponer las políticas, estrategias, sistemas y programas que permitan optimizar la asignación de recursos financieros para los programas de prevención, promoción de la salud y de control de enfermedades, así como en materia de salud mental, discapacidad y accidentes, sin perjuicio de las atribuciones que en estas materias tengan otras unidades administrativas o dependencias;
 
 IX. Colaborar, en el ámbito de su competencia, en la definición y desarrollo del Sistema de Protección Social en Salud, en coordinación con las unidades administrativas competentes;
 
 X. (DEROGADA, D.O.F. 29 DE NOVIEMBRE DE 2006)
 
-> <small>(REFORMADA, D.O.F. 2 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2011)</small>
 
-XI. Normar y conducir el proceso de evaluación del desempeño de los sistemas nacional y estatales de salud en lo referente a prevención, promoción de la salud, control de enfermedades, así como en materia de salud mental, discapacidad, accidentes y adicciones y, en su caso, analizar y proponer alternativas, en el ámbito de su competencia;
+XI. Normar y conducir el proceso de evaluación del desempeño de los sistemas nacional y estatales de salud en lo referente a prevención, promoción de la salud, control de enfermedades, así como en materia de salud mental, discapacidad y accidentes, así como analizar y proponer alternativas, en el ámbito de su competencia;
 
-> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2011)</small>
 
-XII. Coordinar, con la participación que corresponda a otras unidades administrativas, la política normativa en materia de prevención y promoción de la salud, de control de enfermedades, así como la relativa a la salud mental, la discapacidad, los accidentes y las adicciones;
+XII. Coordinar, con la participación que corresponda a otras unidades administrativas, la política normativa en materia de prevención y promoción de la salud, de control de enfermedades, así como la relativa a la salud mental, la discapacidad y los accidentes;
 
 XIII. Apoyar y proponer las políticas y acciones de salud pública de carácter internacional, en coordinación con las unidades administrativas competentes;
 
-> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2011)</small>
 
-XIV. Promover mecanismos para fomentar la participación de la sociedad civil y, en general, de la comunidad, así como de los sectores público, privado y social y de las dependencias y entidades federales y de las entidades federativas en las acciones de prevención, promoción de la salud y control de enfermedades, así como en materia de salud mental, discapacidad, accidentes y adicciones;
+XIV. Promover mecanismos para fomentar la participación de las dependencias y entidades de la Administración Pública Federal, de las entidades federativas, de los sectores público, privado y social y, en general, de la comunidad en las acciones de prevención, promoción de la salud y control de enfermedades, así como en materia de salud mental, discapacidad y accidentes;
 
 > <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
 
@@ -501,13 +509,31 @@ XVI. Presidir el Comité Consultivo Nacional de Normalización de Prevención y 
 
 XVII. Representar al Secretario del Ramo ante Organismos Internacionales vinculados con su ámbito de competencia;
 
-> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2011)</small>
 
-XVIII. Proponer, en su ámbito de competencia, instrumentos y mecanismos para la reforma y la modernización de la Secretaría, así como definir y proponer la aplicación de estrategias de vanguardia en los programas de prevención, promoción de la salud y control de enfermedades, así como en materia de salud mental, discapacidad, accidentes y adicciones;
+XVIII. Proponer, en su ámbito de competencia, instrumentos y mecanismos para la reforma y la modernización de la Secretaría, así como definir y proponer la aplicación de estrategias de vanguardia en los programas de prevención, promoción de la salud y control de enfermedades, así como en materia de salud mental, discapacidad y accidentes;
 
 XIX. Planear, organizar, programar y administrar las actividades de las unidades administrativas que le estén adscritas, y
 
-XX. Las demás que le señalen otras disposiciones legales o le confiera el Secretario, así como las que competen a las unidades administrativas que se le adscriban.
+> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2011)</small>
+
+XX. Proponer al Secretario los programas en materia de salud, vinculados con la prevención y el control de las adicciones que estén a cargo de las áreas bajo su adscripción, así como conducir, coordinar y promover la integración de dichos programas, cuando éstos hayan sido aprobados por el Secretario;
+
+> <small>(ADICIONADA, D.O.F. 10 DE ENERO DE 2011)</small>
+
+XXI. Proponer al Secretario las políticas, estrategias, sistemas y programas que permitan optimizar la asignación de recursos financieros para los programas en materia de salud, vinculados con la prevención y el control de las adicciones que estén a cargo de las áreas bajo su adscripción, sin perjuicio de las atribuciones que en estas materias tengan otras unidades administrativas o dependencias;
+
+> <small>(ADICIONADA, D.O.F. 10 DE ENERO DE 2011)</small>
+
+XXII. Normar y conducir el proceso de evaluación del desempeño de los sistemas nacional y estatales de salud en lo referente a la materia de prevención y el control de las adicciones que estén a cargo de las áreas bajo su adscripción y, en su caso, analizar y proponer alternativas, en el ámbito de su competencia;
+
+> <small>(ADICIONADA, D.O.F. 10 DE ENERO DE 2011)</small>
+
+XXIII. Promover mecanismos para fomentar la participación de las dependencias y entidades de la Administración Pública Federal, de las entidades federativas, de los sectores público, privado y social y, en general, de la comunidad en las acciones de prevención y el control de las adicciones que corresponda aplicar a las áreas bajo su adscripción, y
+
+> <small>(ADICIONADA, D.O.F. 10 DE ENERO DE 2011)</small>
+
+XXIV. Las demás que le señalen otras disposiciones legales o le confiera el Secretario, así como las que competen a las unidades administrativas que se le adscriban.
 
 ### CAPÍTULO VI. DEL SUBSECRETARIO DE ADMINISTRACIÓN Y FINANZAS
 
@@ -691,13 +717,95 @@ LIII. Las demás que le fije el Secretario o cualquier otro ordenamiento jurídi
 
 Los servidores públicos adscritos a la Coordinación General de Asuntos Jurídicos y Derechos Humanos, podrán ejercer las facultades que se establecen en el presente artículo, que en forma expresa les sean autorizadas por el Titular de la Coordinación General de Asuntos Jurídicos y Derechos Humanos.
 
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O.F. 10 DE ENERO DE 2011)</small>
+
+### CAPÍTULO VI TER. DEL COMISIONADO NACIONAL CONTRA LAS ADICCIONES
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2011)</small>
+
+###### Artículo 11 Ter.
+
+Corresponde al Comisionado Nacional contra las Adicciones, ejercer las atribuciones que las leyes otorgan a la Secretaría de Salud en materia de prevención y control de las adicciones cuando su atención requiera de la participación y coordinación de las dependencias y entidades de la Administración Pública Federal, con excepción de las que corresponden al Centro Nacional para la Prevención y el Control de las Adicciones, para lo cual, sin perjuicio de las atribuciones que correspondan a otras instancias gubernamentales, cuenta con las facultades siguientes:
+
+I. Elaborar los anteproyectos en materia de adicciones, incluyendo el Programa Contra el Alcoholismo y el Abuso de Bebidas Alcohólicas y del Programa Nacional para la Prevención y Tratamiento de la Farmacodependencia y, previa opinión del Consejo Nacional contra las Adicciones, ponerlos a consideración del Secretario;
+
+II. Proponer a las dependencias y entidades de la Administración Pública Federal los programas, políticas y estrategias transversales a adoptar en materia de adicciones;
+
+III. Solicitar a las entidades federativas información sobre el presupuesto que les fue autorizado en materia de adicciones, así como el de los anteproyectos o proyectos de presupuesto en dicha materia que se pretenda para el ejercicio fiscal siguiente, a fin de presentarlos al Consejo Nacional contra las Adicciones y elaborar los proyectos de programas nacionales en la materia;
+
+IV. Elaborar e impulsar la implementación de los programas anuales de trabajo en materia de adicciones que corresponde a la Administración Pública Federal, considerando para ello, el presupuesto autorizado a las dependencias y entidades para la atención de dicha materia;
+
+V. Supervisar y evaluar el cumplimiento y los resultados de las acciones establecidas en los programas anuales de trabajo en materia de adicciones y, en su caso, formular las recomendaciones pertinentes para el cumplimiento de los objetivos previstos, brindando los informes correspondientes al Consejo Nacional contra las Adicciones;
+
+VI. Coordinar las acciones en materia de adicciones que realicen las dependencias y entidades de la Administración Pública Federal, así como las que realicen las instituciones que integran el Sistema Nacional de Salud;
+
+VII. Proponer al Consejo Nacional contra las Adicciones los criterios para evaluar los programas contra las adicciones;
+
+VIII. Proponer y promover, en el ámbito de su competencia, al interior del Consejo Nacional contra las Adicciones, mecanismos de coordinación y cooperación a nivel federal, estatal y municipal, así como con organizaciones nacionales e internacionales para la eficaz ejecución de los programas contra las adicciones de la Administración Pública Federal, con el propósito de favorecer el intercambio técnico y académico y la elaboración de proyectos preventivos y de atención, así como participar en las negociaciones y acuerdos de cooperación binacional y multinacional sobre la materia;
+
+IX. Coordinar los mecanismos que fije el Consejo Nacional contra las Adicciones para fomentar la participación de las dependencias y entidades de la Administración Pública Federal, de las entidades federativas, de los sectores público, privado y social y, en general, de la comunidad en las acciones en materia de adicciones;
+
+X. Emitir, en el ámbito de la competencia de la Federación, lineamientos, criterios y procedimientos de carácter técnico que deben regir en los centros de prevención y en los de tratamiento de adicciones, y supervisar su cumplimiento;
+
+XI. Emitir recomendaciones a los centros de prevención y a los de tratamiento de adicciones;
+
+XII. Formular y presentar denuncias ante las autoridades competentes, en caso de detectar ilícitos o irregularidades durante el desarrollo de las atribuciones de su competencia;
+
+XIII. Colaborar con la Dirección General de Relaciones Internacionales en el seguimiento de los compromisos de carácter internacional que los Estados Unidos Mexicanos hayan suscrito en relación con la materia de su competencia;
+
+XIV. Elaborar propuestas en materia de prevención, consejería, tratamiento, rehabilitación y control de las adicciones a incluirse en las disposiciones jurídicas que al efecto se emitan, así como elaborar propuestas de reformas a las disposiciones legales respecto de la producción, comercialización y consumo de bebidas alcohólicas, tabaco y otras sustancias psicoactivas, con la intervención que corresponda a la Coordinación General de Asuntos Jurídicos y Derechos Humanos y otras unidades administrativas;
+
+XV. Participar en la definición y desarrollo del Programa de Investigación en Salud, en lo referente al ámbito de su competencia;
+
+XVI. Fijar criterios, promover y coordinar investigaciones y desarrollo tecnológico en relación con las adicciones, en coordinación con las demás unidades administrativas competentes;
+
+XVII. Celebrar convenios de coordinación, cooperación y concertación que tengan por objeto establecer mecanismos de dignificación de los centros de prevención y los de tratamiento de adicciones, promoviendo su cumplimiento ante las instancias competentes de las entidades federativas;
+
+XVIII. Promover y someter a consideración del Consejo Nacional contra las Adicciones la celebración de convenios con las entidades federativas en materia de investigación dirigidas a identificar los factores que coadyuvan a la prevalencia de las adicciones, así como para evaluar la eficiencia de las medidas terapéuticas y rehabilitatorias aplicadas a los adictos;
+
+XIX. Contar con un sistema estadístico nacional e internacional sobre adicciones, que deberá contener, entre otros, el diagnóstico sobre la situación prevalente del uso y abuso de sustancias psicoactivas, de la atención preventiva y rehabilitatoria de los adictos, así como otros datos que deriven de los programas a cargo de otras dependencias y entidades que impacten en el tema de adicciones;
+
+XX. Supervisar y evaluar la información generada por los sistemas institucionales de información y de investigación en salud, relacionada con las actividades en materia de adicciones, en coordinación con las unidades administrativas competentes;
+
+XXI. Participar en la definición, instrumentación, supervisión y evaluación de las estrategias y contenidos técnicos de los materiales de comunicación educativa y social, así como de los materiales didácticos y metodologías que se utilizan para la capacitación, actualización y desarrollo humano del personal que opera los programas que corresponden a la Administración Pública Federal, en materia de adicciones, en coordinación con las unidades administrativas competentes;
+
+XXII. Coordinar con las dependencias y entidades de la Administración Pública Federal, las entidades federativas, los municipios y las organizaciones sociales, las acciones en materia de adicciones, para la eficaz ejecución de los programas de la Administración Pública Federal que incluya la formación y capacitación de recursos humanos;
+
+XXIII. Fungir como enlace de la Administración Pública Federal con las instancias que las entidades federativas establezcan como responsables de la prevención y control de las adicciones;
+
+XXIV. Gestionar, ante las instancias competentes de los sectores público, privado y social, recursos para la prevención, promoción, capacitación e investigación en materia de adicciones, así como para la subrogación de la prestación de servicios de atención en esta materia;
+
+XXV. Determinar la aplicación que se dará a los recursos provenientes de la enajenación de bienes decomisados en procedimientos penales federales que, de acuerdo con las disposiciones aplicables, se asignen a la Secretaría para la prevención y tratamiento de las adicciones, previa opinión del Consejo Nacional contra las Adicciones;
+
+XXVI. Impulsar la red de los centros de prevención y los de tratamiento de adicciones;
+
+XXVII. Difundir el resultado de las acciones que lleve a cabo, así como de los acuerdos del Consejo Nacional Contra las Adicciones;
+
+XXVIII. Divulgar los diagnósticos sobre la situación prevaleciente de las adicciones;
+
+XXIX. Impulsar la incorporación de intervenciones relacionadas con la prevención y tratamiento de adicciones en el Catálogo Universal de Servicios de Salud del Sistema de Protección Social en Salud, así como el Fondo de Protección contra Gastos Catastróficos y en las intervenciones cubiertas por los sistemas de seguridad social;
+
+XXX. Programar, organizar, dirigir y evaluar el desarrollo de las funciones encomendadas a la Comisión a su cargo;
+
+XXXI. Aplicar los procedimientos normativos necesarios que propicien la mejora del control interno de las áreas administrativas a su cargo, para el mejor aprovechamiento de los recursos materiales, humanos y financieros que permitan garantizar una adecuada rendición de cuentas, así como establecer aquellas medidas que consideren necesarias para la mejora del control interno;
+
+XXXII. Aplicar los procedimientos normativos necesarios que generen la mejora continua de la gestión dentro del marco normativo que determinen las áreas normativas centrales y las dependencias globalizadoras, así como establecer aquellas medidas que consideren necesarias para fortalecer la mejora continua, y el adecuado desarrollo del encargo y su evaluación;
+
+XXXIII. Realizar la selección, contratación y promoción del personal de su adscripción que no esté sujeto al Servicio Profesional de Carrera; así como, en su caso, autorizar las licencias, tolerancias y remociones, con la intervención de la Coordinación General de Asuntos Jurídicos y Derechos Humanos, sólo en el caso de remociones, y de la Dirección General de Recursos Humanos;
+
+XXXIV. Suscribir, previo dictamen de la Dirección General de Recursos Humanos, los contratos de servicios profesionales que genere la unidad administrativa a su cargo;
+
+XXXV. Rescindir, cuando proceda, los contratos que hayan celebrado, y
+
+XXXVI. Ejercer las atribuciones establecidas en el artículo 8 del presente Reglamento, las demás que le señalen otras disposiciones aplicables, aquéllas que le encomiende el Secretario, así como las que competen a las unidades administrativas que le estén adscritas.
+
+El Comisionado Nacional contra las Adicciones será nombrado por el Presidente de la República a propuesta del Secretario de Salud.
+
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
 
 ### CAPÍTULO VII. DEL TITULAR DE LA COMISIÓN COORDINADORA DE INSTITUTOS NACIONALES DE SALUD Y HOSPITALES DE ALTA ESPECIALIDAD
 
 > <small>(REFORMADO, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
-
-### CAPÍTULO VIII. DEL TITULAR DE LA UNIDAD COORDINADORA DE VINCULACIÓN Y PARTICIPACIÓN SOCIAL
 
 ###### Artículo 12.
 
@@ -771,7 +879,7 @@ XXX. Desarrollar acciones de simplificación normativa y, en general, de la gest
 
 XXXI. Ejercer las atribuciones establecidas en el artículo 8 del presente Reglamento, las demás que le señalen otras disposiciones aplicables, aquéllas que le encomiende el Secretario, así como las que competen a las unidades administrativas que le estén adscritas.
 
-### CAPÍTULO IX. DEL TITULAR DE LA UNIDAD DE ANÁLISIS ECONÓMICO
+### CAPÍTULO VIII. DEL TITULAR DE LA UNIDAD COORDINADORA DE VINCULACIÓN Y PARTICIPACIÓN SOCIAL
 
 ###### Artículo 13.
 
@@ -823,7 +931,7 @@ XVII. Supervisar a las unidades administrativas que se le adscriban, y
 
 XVIII. Ejercer las atribuciones establecidas en el artículo 8 del presente Reglamento, las demás que le señalen otras disposiciones aplicables, aquéllas que le encomiende el Secretario, así como las que competen a las unidades administrativas que le estén adscritas.
 
-### CAPÍTULO X. DE LAS UNIDADES ADMINISTRATIVAS
+### CAPÍTULO IX. DEL TITULAR DE LA UNIDAD DE ANÁLISIS ECONÓMICO
 
 ###### Artículo 14.
 
@@ -881,9 +989,7 @@ XIX. Elaborar estudios analíticos sobre el grado de congruencia de las polític
 
 XX. Ejercer las atribuciones establecidas en el artículo 8 del presente Reglamento, las demás que le señalen otras disposiciones aplicables, aquéllas que le encomiende el Secretario, así como las que competen a las unidades administrativas que le estén adscritas.
 
-### CAPÍTULO XI. DE LA DESCONCENTRACIÓN ADMINISTRATIVA DE LA SECRETARÍA
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 2 DE FEBRERO DE 2010)</small>
+### CAPÍTULO X. DE LAS UNIDADES ADMINISTRATIVAS
 
 ###### Artículo 15.
 
@@ -1959,63 +2065,9 @@ XI. Normar los procedimientos conducentes a la identificación, acopio, y en su 
 
 XII. Desarrollar productos informativos para la atención a usuarios y difusión de los acervos de la Secretaría de Salud a cargo del Centro de Documentación Institucional, ya sea mediante formatos tradicionales o a través del uso de tecnologías de la información.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 2 DE FEBRERO DE 2010)</small>
-
 ###### Artículo 32 Bis 1.
 
-Corresponde a la Dirección General de Gestión Financiera y Administrativa:
-
-> <small>(ADICIONADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
-
-I. Establecer, con la aprobación del titular de la Comisión Coordinadora de Institutos Nacionales de Salud y Hospitales de Alta Especialidad y la correspondiente participación de la Subsecretaría de Administración y Finanzas, las políticas, normas, sistemas y procedimientos para la programación, presupuestación y administración integral de los recursos humanos, materiales y financieros de la Comisión;
-
-> <small>(ADICIONADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
-
-II. Coordinar, controlar y evaluar al interior de la Comisión Coordinadora de Institutos Nacionales de Salud y Hospitales de Alta Especialidad el proceso anual de programación y presupuestación, así como el ejercicio y control presupuestario y contable, y conducir la elaboración, ejecución y evaluación de los presupuestos por programas en salud de las instituciones coordinadas por la Comisión;
-
-> <small>(ADICIONADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
-
-III. Conducir el proceso de modernización administrativa en el ámbito de su competencia;
-
-> <small>(ADICIONADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
-
-IV. Aprobar y controlar, en coordinación con la Subsecretaría de Administración y Finanzas, la operación de los sistemas de planeación financiera, administrativa, organizacional, de indicadores de gestión, de control, evaluación y seguimiento de la Comisión Coordinadora de Institutos Nacionales de Salud y Hospitales de Alta Especialidad, así como la formulación de los manuales de organización interna, de procedimientos y de servicios al público, de conformidad con las disposiciones aplicables;
-
-> <small>(ADICIONADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
-
-V. Integrar los programas anuales de obra pública, adquisiciones y arrendamientos de bienes muebles e inmuebles y de prestación de servicios de la Comisión Coordinadora de Institutos Nacionales de Salud y Hospitales de Alta Especialidad y de sus unidades administrativas, y coordinar y supervisar su ejecución;
-
-> <small>(REFORMADA, D.O.F. 2 DE FEBRERO DE 2010)</small>
-
-VI. Expedir los nombramientos de los servidores públicos de la Comisión Coordinadora de Institutos Nacionales de Salud y Hospitales de Alta Especialidad y dar por terminados sus efectos, de conformidad con las disposiciones aplicables, y con la participación que corresponda a la Dirección General de Recursos Humanos y a la Coordinación General de Asuntos Jurídicos y Derechos Humanos;
-
-> <small>(ADICIONADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
-
-VII. Suscribir los contratos y convenios inherentes al ejercicio de sus funciones y determinar su rescisión y terminación;
-
-> <small>(ADICIONADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
-
-VIII. Instrumentar las políticas subsectoriales, metodologías, sistema de indicadores y criterios de decisión para la gestión de programas y proyectos de inversión pública, privada o social, tanto a nivel nacional como internacional, para apoyar la gestión integral de las instituciones coordinadas por la Comisión Coordinadora de Institutos Nacionales de Salud y Hospitales de Alta Especialidad;
-
-> <small>(ADICIONADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
-
-IX. Gestionar proyectos de inversión que permitan la aplicación de recursos en todo tipo de bienes y de actividades que incrementen el patrimonio de las entidades que integran el subsector coordinado por la Comisión Coordinadora de Institutos Nacionales de Salud y Hospitales de Alta Especialidad, con el fin de iniciar, ampliar, mejorar, modernizar, reponer o reconstruir su capacidad instalada;
-
-> <small>(REFORMADA, D.O.F. 2 DE FEBRERO DE 2010)</small>
-
-X. Promover y aprobar modelos de financiamiento hospitalario de alta especialidad, que permitan operar con altos índices de efectividad y calidad, a efecto de proveer la capacidad instalada que permita responder a las necesidades de los usuarios, conforme a los estándares nacionales e internacionales;
-
-> <small>(ADICIONADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
-
-XI. Desarrollar las estrategias de vinculación y negociación ante las autoridades competentes en materia de presupuesto y fuentes de financiamiento para los organismos y unidades coordinadas por la Comisión Coordinadora de Institutos Nacionales de Salud y Hospitales de Alta Especialidad;
-
-> <small>(ADICIONADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
-
-XII. Formular dictámenes e informes, así como emitir opiniones, en el ámbito de su competencia, y
-
-> <small>(ADICIONADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
-
-XIII. Aprobar la estrategia general para la negociación, tramitación, actuación, representación y seguimiento de los compromisos y foros de carácter internacional relacionados con las materias competencia de la Comisión Coordinadora de Institutos Nacionales de Salud y Hospitales de Alta Especialidad, con la participación de las autoridades competentes y de la Dirección General de Relaciones Internacionales de la Secretaría.
+(DEROGADO, D.O.F. 10 DE ENERO DE 2011)
 
 > <small>(ADICIONADO, D.O.F. 2 DE FEBRERO DE 2010)</small>
 
@@ -2059,75 +2111,7 @@ XVII. Coordinar, supervisar y evaluar la administración y operación de las uni
 
 ###### Artículo 33.
 
-Corresponde al Secretariado Técnico del Consejo Nacional contra las Adicciones:
-
-I. Proponer al Subsecretario de Prevención y Promoción de la Salud, el contenido de la política y estrategias nacionales en materia de atención a los problemas de adicciones;
-
-II. Elaborar y participar en la instrumentación de los programas específicos de prevención, tratamiento y control de las adicciones;
-
-III. Llevar a cabo la planeación, supervisión y evaluación de los servicios de atención de las adicciones, mediante el establecimiento y desarrollo de modelos de organización y operación de servicios en los diferentes niveles de atención;
-
-IV. Elaborar y expedir normas oficiales mexicanas en materia de prevención, tratamiento y control de las adicciones, formular las respuestas a los comentarios recibidos a los proyectos de dichas normas, así como vigilar su cumplimiento;
-
-V. Plantear reformas a las disposiciones legales sobre la producción, comercialización y consumo de bebidas alcohólicas, tabaco y otras sustancias psicoactivas, en coordinación con las unidades administrativas competentes;
-
-> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
-
-VI. Propiciar la celebración de convenios y acuerdos de coordinación con los gobiernos de las entidades federativas y municipios, para impulsar su apoyo y participación en el desarrollo de las acciones en materia de adicciones;
-
-VII. Divulgar los diagnósticos sobre la situación prevaleciente respecto al uso y abuso de sustancias psicoactivas;
-
-VIII. Fijar criterios, promover y coordinar investigaciones y desarrollo tecnológico en relación con las adicciones, en coordinación con las demás unidades administrativas competentes;
-
-IX. Participar en la definición, instrumentación, supervisión y evaluación de las estrategias y contenidos técnicos de los materiales de comunicación social en el ámbito de su competencia, así como de los materiales didácticos y metodologías que se utilizan para la capacitación, actualización y desarrollo humano del personal que opera los programas a su cargo, en coordinación con las unidades administrativas competentes;
-
-X. Promover mecanismos para fomentar la participación de la sociedad civil y, en lo general de la comunidad, así como de los sectores público y privado en las acciones en materia de adicciones;
-
-XI. Promover la cooperación y la coordinación técnica de las instituciones y organizaciones nacionales con agencias e instituciones regionales e internacionales en relación con las actividades del ámbito de su competencia, con la colaboración de las demás unidades administrativas competentes;
-
-XII. Colaborar en la definición de los requerimientos para la acreditación de unidades prestadoras de servicios de atención de adicciones inscritos en el Sistema de Protección Social en Salud;
-
-XIII. Promover la certificación de las unidades de atención de las adicciones de los sectores público, social y privado del país;
-
-> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
-
-XIV. Instrumentar y coordinar un sistema estadístico nacional sobre adicciones que apoye el diagnóstico sobre la situación prevaleciente respecto al uso y abuso de sustancias psicoactivas y la atención preventiva y de rehabilitación de los adictos;
-
-> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
-
-XV. Participar, en el ámbito de su competencia, en la instrumentación del Sistema de Protección Social en Salud, en coordinación con las unidades administrativas competentes;
-
-> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
-
-XVI. Establecer las especificaciones técnicas del material e insumos que se utilicen en los programas a su cargo;
-
-> <small>(REFORMADA, D.O.F. 29 DE NOVIEMBRE DE 2006)</small>
-
-XVII. Proponer o definir los mecanismos que permitan el control en el suministro y la distribución oportuna, suficiente y de calidad del material y los insumos utilizados en los programas a su cargo, en coordinación con las unidades administrativas competentes;
-
-XVIII. Coordinar, supervisar y evaluar la calidad de la prestación de los servicios en materia de adicciones;
-
-XIX. Emitir, en coordinación con las unidades administrativas competentes, los lineamientos y procedimientos técnicos para la organización, programación y presupuestación relacionados con los programas a su cargo;
-
-XX. Definir criterios para la evaluación operativa en las entidades federativas de los programas materia de su competencia;
-
-XXI. Colaborar con la Dirección General de Relaciones Internacionales en el seguimiento de los compromisos de carácter internacional que los Estados Unidos Mexicanos hayan suscrito en relación con la materia de su competencia;
-
-XXII. Coadyuvar en la operación del Sistema Nacional de Vigilancia Epidemiológica en relación con la información vinculada a la materia de su competencia;
-
-XXIII. Supervisar y evaluar la información generada por los sistemas institucionales de información y de investigación en salud, relacionada con las actividades de los programas a su cargo, en coordinación con las unidades administrativas competentes;
-
-> <small>(REFORMADA, D.O.F. 2 DE FEBRERO DE 2010)</small>
-
-XXIV. Certificar el desempeño de las localidades, jurisdicciones sanitarias, entidades federativas, regiones, comunidades o establecimientos, según sea el caso, en relación con los programas del ámbito de su competencia;
-
-> <small>(REFORMADA, D.O.F. 2 DE FEBRERO DE 2010)</small>
-
-XXV. Imponer sanciones y aplicar medidas de seguridad en la esfera de su competencia, y
-
-> <small>(ADICIONADA, D.O.F. 2 DE FEBRERO DE 2010)</small>
-
-XXVI. Ejercer las atribuciones establecidas en el artículo 16 del presente Reglamento, las demás que le señalen otras disposiciones aplicables, así como aquéllas que le encomiende su superior jerárquico.
+(DEROGADO, D.O.F. 10 DE ENERO DE 2011)
 
 ###### Artículo 34.
 
@@ -2349,7 +2333,9 @@ XVIII. Coadyuvar en la operación del Sistema Nacional de Vigilancia Epidemioló
 
 XIX. Ejercer las atribuciones establecidas en el artículo 16 del presente Reglamento, las demás que le señalen otras disposiciones aplicables, así como aquéllas que le encomiende su superior jerárquico.
 
-### CAPÍTULO XII. DEL ÓRGANO INTERNO DE CONTROL
+### CAPÍTULO XI. DE LA DESCONCENTRACIÓN ADMINISTRATIVA DE LA SECRETARÍA
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 2 DE FEBRERO DE 2010)</small>
 
 ###### Artículo 36.
 
@@ -2909,6 +2895,74 @@ XXII. Imponer sanciones y aplicar medidas de seguridad en la esfera de su compet
 
 Las direcciones generales adjuntas de Programas Preventivos, de Urgencias en Salud y de Enfermedades Crónico-Degenerativas forman parte del Centro Nacional de Programas Preventivos y Control de Enfermedades, y podrán ejercer las facultades que se establecen en el presente artículo, así como las que se señalan en las fracciones VII, VIII, XVI y XVII del artículo 38 del presente Reglamento.
 
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2011)</small>
+
+###### Artículo 45 Bis.
+
+Corresponde al Centro Nacional para la Prevención y el Control de las Adicciones, ejercer las atribuciones que las leyes otorgan a la Secretaría de Salud en materia de prevención y control de las adicciones como un problema de control de enfermedades para lo cual, sin perjuicio de las atribuciones que correspondan al Subsecretario de Prevención y Promoción de la Salud y a otras unidades administrativas de esta Dependencia, cuenta con las facultades siguientes:
+
+I. Instrumentar y coordinar la ejecución del contenido de la política y estrategias nacionales en materia de atención a los problemas de adicciones, en el ámbito de su competencia;
+
+II. Elaborar y participar en la instrumentación de los programas de acción específicos de promoción de la salud y prevención, consejería, tratamiento y control de las adicciones, en el ámbito de su competencia;
+
+III. Coordinar y supervisar los servicios de atención de las adicciones, mediante el establecimiento y desarrollo de modelos de organización y operación de servicios en los diferentes niveles de atención;
+
+IV. Elaborar proyectos de normas oficiales mexicanas en materia de prevención, consejería, tratamiento y control de las adicciones, así como elaborar las propuestas de respuestas a los comentarios recibidos a dichos proyectos, así como promover y evaluar la debida aplicación de las mismas y notificar a la Comisión Federal para la Protección contra Riesgos Sanitarios los incumplimientos de las que tenga conocimiento;
+
+V. Proponer ante las instancias competentes de la Secretaría anteproyectos de reformas a las disposiciones jurídicas sobre la producción, comercialización y consumo de bebidas alcohólicas, tabaco y otras sustancias psicoactivas, con la intervención que corresponda a la Coordinación General de Asuntos Jurídicos y Derechos Humanos y otras unidades administrativas;
+
+VI. Proponer y realizar las gestiones para la celebración de convenios y acuerdos de coordinación de la Secretaría con los gobiernos de las entidades federativas y municipios, para impulsar su apoyo y participación en el desarrollo de las acciones en materia de los programas a su cargo;
+
+VII. Brindar a las dependencias y entidades de la Administración Pública Federal elementos de carácter técnico para la definición e instrumentación de las estrategias y contenidos técnicos de los materiales de comunicación social en el ámbito de su competencia, así como de los materiales didácticos y metodologías que se utilizan para la capacitación, actualización y desarrollo humano del personal que opera los programas a su cargo, en coordinación con las unidades administrativas competentes;
+
+VIII. Promover mecanismos para fomentar la participación de la sociedad civil y, en lo general de la comunidad, así como de los sectores público y privado en las acciones que correspondan a los programas a su cargo;
+
+IX. Promover la cooperación y la coordinación técnica de las instituciones y organizaciones nacionales con agencias e instituciones regionales e internacionales en relación con las actividades del ámbito de su competencia, con la colaboración de las demás unidades administrativas competentes;
+
+X. Colaborar con las instancias competentes en la definición de los requerimientos para la acreditación de unidades prestadoras de servicios de atención de adicciones inscritos en el Sistema de Protección Social en Salud;
+
+XI. Promover la acreditación y certificación de las unidades de atención de las adicciones de los sectores público, social y privado del país, a fin de estandarizar la prestación de servicios en la materia y elevar su calidad;
+
+XII. Participar, en el ámbito de su competencia, en la instrumentación del Sistema de Protección Social en Salud, en coordinación con las unidades administrativas competentes;
+
+XIII. Establecer las especificaciones técnicas del material e insumos que se utilicen en los programas a su cargo;
+
+XIV. Proponer los mecanismos que permitan el control en el suministro y la distribución oportuna, suficiente y de calidad del material y de los insumos utilizados en los programas a su cargo, en coordinación con las unidades administrativas competentes;
+
+XV. Supervisar y evaluar la calidad e impacto de la prestación de los servicios en materia de adicciones;
+
+XVI. Emitir, en coordinación con las instancias competentes de las entidades federativas, los lineamientos y procedimientos técnicos para la organización, programación y presupuestación relacionados con los programas a su cargo;
+
+XVII. Definir criterios para la evaluación operativa en las entidades federativas de los programas a su cargo;
+
+XVIII. Integrar en coordinación con la Comisión Nacional de Protección Social en Salud los recursos federales, para la promoción, prevención y detección oportuna de enfermedades que estén contenidas en las intervenciones del Catálogo Universal de Servicios de Salud, así como aquellas cubiertas por el Fondo de Protección Contra Gastos Catastróficos, de prevención, tratamiento y control de adicciones;
+
+XIX. Coadyuvar en la operación del Sistema Nacional de Vigilancia Epidemiológica en relación con la información vinculada a la materia de su competencia;
+
+XX. Certificar el desempeño de las localidades, jurisdicciones sanitarias, entidades federativas, regiones, comunidades o establecimientos, según sea el caso, en relación con los programas del ámbito de su competencia;
+
+XXI. Imponer sanciones y aplicar medidas de seguridad en la esfera de su competencia;
+
+XXII. Proponer al Comisionado Nacional contra las Adicciones lineamientos, criterios y procedimientos de carácter técnico que deban regir para los centros de prevención y los de tratamiento de adicciones, atendiendo a lo dispuesto por los artículos 192 Ter y 192 Quáter y demás aplicables de la Ley General de Salud;
+
+XXIII. Coordinar, supervisar y evaluar, en el ámbito de su competencia, el desempeño de los centros de prevención y los de tratamiento de adicciones que reciban recursos de la Administración Pública Federal, en el marco de los mecanismos de coordinación y cooperación que al efecto se formalicen;
+
+XXIV. Establecer y coordinar los mecanismos de seguimiento para la aplicación de las disposiciones aplicables en materia de adicciones;
+
+XXV. Coordinar y supervisar las acciones para atender las adicciones emergentes que representen un problema de salud pública;
+
+XXVI. Establecer los lineamientos y procedimientos de operación del Centro de Orientación Telefónica, así como operar y atenderlos, directamente o por conducto de un tercero;
+
+XXVII. Promover y coordinar la capacitación, adiestramiento y educación continua de los recursos humanos que participen en los programas contra las adicciones, en coordinación con las dependencias y entidades competentes a su cargo y las entidades federativas;
+
+XXVIII. Promover la participación comunitaria y de los diferentes sectores de la sociedad en la difusión de conocimientos y recursos que apoyen la prevención, detección temprana, canalización y rehabilitación de los problemas de abuso de sustancias y de conductas adictivas, en coordinación con las dependencias, entidades y las unidades administrativas competentes;
+
+XXIX. Difundir el resultado de las acciones de los programas a su cargo;
+
+XXX. Administrar los recursos provenientes de la enajenación de bienes decomisados en procedimientos penales federales que, de conformidad con las disposiciones aplicables, se asignen a la Secretaría para la prevención y tratamiento de las adicciones, de acuerdo a la aplicación que determine el Comisionado Nacional contra las Adicciones, y
+
+XXXI. Las demás facultades que les señalen otras disposiciones legales o reglamentarias y sus superiores jerárquicos.
+
 ###### Artículo 46.
 
 Corresponde al Centro Nacional para la Prevención y el Control del VIH/SIDA:
@@ -3071,9 +3125,7 @@ XVI. Participar y asesorar a las autoridades competentes en materia de los insum
 
 XVII. Propiciar la incorporación de las unidades médicas especializadas a los programas institucionales de desarrollo en materia de atención a la salud.
 
-### CAPÍTULO XIII. DE LAS SUPLENCIAS DE LOS SERVIDORES PÚBLICOS
-
-> <small>(REFORMADO, D.O.F. 2 DE FEBRERO DE 2010)</small>
+### CAPÍTULO XII. DEL ÓRGANO INTERNO DE CONTROL
 
 ###### Artículo 49.
 
@@ -3090,6 +3142,10 @@ Los servidores públicos a que se refiere el artículo 49 de este Reglamento, en
 ###### Artículo 52.
 
 La Secretaría de Salud y sus órganos desconcentrados proporcionarán al Titular de su respectivo órgano interno de control, los recursos humanos y materiales que requiera para el ejercicio de las facultades que tiene conferidas. Asimismo, los servidores públicos de la Secretaría y sus órganos desconcentrados, están obligados a proporcionar el auxilio que requiera el Titular de cada Órgano Interno de Control para el desempeño de sus atribuciones.
+
+### CAPÍTULO XIII. DE LAS SUPLENCIAS DE LOS SERVIDORES PÚBLICOS
+
+> <small>(REFORMADO, D.O.F. 2 DE FEBRERO DE 2010)</small>
 
 ###### Artículo 53.
 
@@ -3150,3 +3206,15 @@ SEGUNDO.- Las acciones que se lleven a cabo para la aplicación del presente Dec
 TERCERO.- Los movimientos de renivelación y de modificación en la estructura de la Secretaría de Salud que se desprendan del presente Decreto serán compensados, por lo que no implicarán aumentos en el presupuesto regularizable de la Secretaría de Salud en materia de servicios personales.
 
 CUARTO.- En tanto no se autorice una nueva estructura orgánica de la Coordinación General de Asuntos Jurídicos y Derechos Humanos, que altere las denominaciones de las direcciones Consultiva, Contenciosa, de Contratos de Adquisiciones y Obras Públicas, y de Apoyo Técnico Normativo y las subdirecciones de Normatividad, Registro y Sistematización, de Convenios, Acuerdos y Bases, de Legislación y Estudios Jurídicos, de Recursos Administrativos, de lo Contencioso, de Contratos y Licitaciones, y de Control Normativo, éstas podrán ejercer las facultades que se establecen en el artículo 11 Bis de este Reglamento.
+
+D.O.F. 10 DE ENERO DE 2011.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Los recursos humanos, materiales y financieros con que contaba el Secretariado Técnico del Consejo Nacional contra las Adicciones, pasarán a formar parte de la Comisión Nacional contra las Adicciones y del Centro Nacional para la Prevención y el Control de las Adicciones.
+
+TERCERO. Las referencias que se hacen en otros instrumentos jurídicos al Secretariado Técnico del Consejo Nacional contra las Adicciones se entenderán hechas a la Comisión Nacional contra las Adicciones y al Centro Nacional para la Prevención y el Control de las Adicciones, en sus respectivos ámbitos de competencia.
+
+CUARTO. Los recursos humanos, materiales y financieros con que cuenta la Dirección General de Gestión Financiera y Administrativa, pasarán a formar parte de la Comisión Coordinadora de Institutos Nacionales de Salud y Hospitales de Alta Especialidad.
+
+Los derechos laborales del personal que, en virtud de lo dispuesto en el presente Decreto, sea adscrito de una unidad administrativa a otra, se respetarán conforme a la Ley.
