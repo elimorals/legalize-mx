@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-de-la-comision-de-administracion-del-consejo-del-575
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-11-05"
-last_updated: "2007-11-05"
+last_updated: "2011-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57514&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 REGLAMENTO DE LA COMISION DE ADMINISTRACION DEL CONSEJO DEL PODER JUDICIAL DEL ESTADO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE ENERO DE 2011.
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Michoacán, el lunes 5 de noviembre de 2007.
 
@@ -261,7 +261,9 @@ IX. Proporcionar para consulta expedientes y documentos a las partes interesadas
 
 X. Vigilar que las consultas de los expedientes se realicen únicamente en el interior del Archivo Judicial. Las copias de los documentos bajo su custodia serán obtenidas a través del personal autorizado y adscrito al propio Archivo;
 
-XI. Remitir y entregar por oficio los expedientes solicitados en devolución por Consejeros y Magistrados en los asuntos de su competencia. Los Jueces deberán solicitarlo por conducto de la Presidencia del Consejo. La devolución se hará en un término que no exceda de tres días, tratándose de solicitantes con residencia en la capital del Estado, y en el caso de los foráneos, se agregará un día más por cada cuarenta kilómetros de distancia;
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2011)</small>
+
+XI. Remitir por oficio los expedientes que le sean solicitados en devolución por los titulares de áreas administrativas y órganos jurisdiccionales, en los asuntos de su competencia. La devolución se hará en un término que no excederá de tres días;
 
 XII. Proponer a la Comisión, conjuntamente con el titular del Archivo Histórico, mediante dictamen fundado y motivado, los expedientes susceptibles de ser destruidos, por carecer de valor histórico;
 
@@ -378,3 +380,11 @@ Artículo Segundo. Este Reglamento entrará en vigor al día siguiente hábil de
 Artículo Tercero. Lo no previsto en este Reglamento será normado mediante acuerdos del Pleno del Consejo que, en su caso, se publicarán en los mismos medios informativos.
 
 El Licenciado FLORENTINO ESPINOZA LÓPEZ, Secretario Ejecutivo del Consejo del Poder Judicial del Estado, CERTIFICA: Que este Reglamento de la Comisión de Administración del Consejo del Poder Judicial del Estado, que tiene por objeto regular su organización y funcionamiento, fue aprobado en sesión del 31 treinta y uno de octubre del 2007 dos mil siete, por unanimidad de votos de los Consejeros: Magistrado Presidente M. en D. Fernando Arreola Vega, Lic. María de los Ángeles Ruciles Gracián, Lic. Margarita Leal Torres, Lic. Marco Antonio Flores Negrete y Lic. J. Jesús Sierra Arias, Morelia, Michoacán, a 1º primero de noviembre del 2007 dos mil siete.- Conste.- (Rúbrica).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 10 DE ENERO DE 2011.
+
+PRIMERO. Publíquese en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo y en el Sistema Morelos de Informática Judicial del Consejo del Poder Judicial del Estado de Michoacán.
+
+SEGUNDO. El presente Acuerdo entrará en vigor al día siguiente hábil de su publicación en el Periódico Oficial del Estado.
