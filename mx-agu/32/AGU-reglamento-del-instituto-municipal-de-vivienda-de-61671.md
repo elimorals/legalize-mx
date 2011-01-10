@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-del-instituto-municipal-de-vivienda-de-61671"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-06-23"
-last_updated: "2010-04-05"
+last_updated: "2011-01-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61671&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "AGU"
 
 REGLAMENTO DEL INSTITUTO MUNICIPAL DE VIVIENDA DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE ABRIL DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO RESOLUTIVO DEL DECRETO APROBADO POR EL HONORABLE AYUNTAMIENTO 2008-2010 DEL MUNICIPIO DE AGUASCALIENTES, AGUASCALIENTES, PUBLICADO EN EL P.O. DE FECHA 10 DE ENERO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Aguascalientes, el lunes 23 de junio de 2008.
 
@@ -1308,3 +1310,15 @@ TERCERO.- Se derogan los artículos 72, 73 y 74 del Reglamento del Instituto Mun
 CUARTO.- En un término no mayor de noventa días contados a la entrada en vigor del presente Reglamento, la Dirección Administrativa y Financiera emitirán el Manual de Políticas de Capacitación para los Trabajadores del IMUVI.
 
 QUINTO.- Se autoriza al Director General del IMUVI para tramitar la publicación del Reglamento Interior de Trabajo del IMUVI en el Periódico Oficial del Estado, el cual fue debidamente autorizado en Sesión Extraordinaria de la Junta de Gobierno del IMUVI celebrada con fecha 18 de Marzo del año 2009.
+
+P.O. 10 DE ENERO DE 2011.
+
+PRIMERO: El Presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado;
+
+SEGUNDO: El acuerdo al que se refiere el resolutivo cuarto al que se refiere el presente decreto deberá ser emitido en un plazo de 15 días por parte de la Secretaria de Finanzas.
+
+TERCERO: Los asuntos pendientes de resolución que se hayan iniciado con anterioridad al presente Decreto, se tramitarán y resolverán conforme a los ordenamientos vigentes al momento de su realización;
+
+CUARTO: Los recursos presupuestales y financieros que la Ley de Ingresos del Municipio de Aguascalientes, y en Presupuesto de Egresos para el ejercicio fiscal 2011, que hayan sido asignados al Instituto Municipal de Vivienda de Aguascalientes, así como aquellos que le fueron asignados para el cumplimiento de su objeto y su patrimonio, se reintegrarán al Municipio de Aguascalientes de conformidad con el artículo 5 BIS del Reglamento del Instituto Municipal de Vivienda de Aguascalientes, para que una vez que se apruebe la creación del nuevo Instituto en materia de renovación urbana, se puede asignar y donar dichos recursos, para que se conforme el patrimonio del nuevo organismo.
+
+QUINTO: Se derogan las demás disposiciones que se opongan al presente decreto.
