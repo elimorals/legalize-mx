@@ -4,7 +4,7 @@ identifier: "VER-reglamento-interior-del-tribunal-de-lo-contencioso-71091"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-11-25"
-last_updated: "2009-11-25"
+last_updated: "2011-01-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71091&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL PODER JUDICIAL DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 12 DE ENERO DE 2011.
 
 Reglamento publicado en la Gaceta Oficial del Estado de Veracruz, el miércoles 25 de noviembre de 2009.
 
@@ -65,9 +65,13 @@ El Tribunal se compondrá por siete Magistrados, así como por los Secretarios, 
 
 Las faltas temporales o ausencias de los magistrados, para efectos de sustitución se sujetarán a lo establecido por la Ley Orgánica del Poder Judicial del Estado.
 
+> <small>(REFORMADO, G.O. 12 DE ENERO DE 2011)</small>
+
 ###### Artículo 7.
 
-En su estructura orgánica, el Tribunal contará con una Sala Superior y tres Salas Regionales, integradas éstas por un Magistrado y aquélla por tres, los cuales conformarán el Pleno; excepto el séptimo Magistrado, que forma parte del Consejo de la Judicatura del Poder Judicial del Estado, por el período establecido en el artículo 101 de la Ley Orgánica del Poder Judicial del Estado, al término del cual se reincorporará a su adscripción de origen.
+En su estructura orgánica, el Tribunal de lo Contencioso Administrativo contará con: un Pleno, Presidencia, una Sala Superior y tres Salas Regionales, integradas éstas por un Magistrado y la primera en mención por tres, los cuales conformarán el Pleno; excepto el séptimo Magistrado, que forma parte del Consejo de la Judicatura del Poder Judicial del Estado, por el período establecido en el artículo 101 de la Ley Orgánica del Poder Judicial del Estado, al término del cual se reincorporará a su adscripción de origen.
+
+La Presidencia para el despacho de los asuntos de su competencia será asistida por el Secretario General de Acuerdos del Tribunal, la Secretaría Particular, las Subdirecciones: Administrativa; de Estadística y Sistema de Tecnología e Informática; de Comunicación y Difusión; de Coordinación de los Servicios de Defensoría Jurídica; de formación profesional, capacitación, especialización y actualización; y demás servidores públicos necesarios.
 
 ###### Artículo 8.
 
@@ -80,6 +84,12 @@ La retribución que perciban los servidores públicos del Tribunal, será la que
 ###### Artículo 10.
 
 El Tribunal tendrá como horario de atención al público, el comprendido de las ocho horas con treinta minutos a las catorce horas con treinta minutos, sin perjuicio de su ampliación por necesidades del servicio. El personal de intendencia tendrá como horario de ingreso, las seis horas con treinta minutos para atender la apertura y cierre de las oficinas del Tribunal.
+
+> <small>(ADICIONADO, G.O. 12 DE ENERO DE 2011)</small>
+
+###### Artículo 10 Bis.
+
+El Tribunal, para fortalecer los mecanismos de atención al usuario del servicio de impartición de justicia administrativa y mejorar los procesos de toma de decisiones en la Institución, implementará con carácter obligatorio la sistematización de los procesos de información a través de los sistemas: de control y seguimiento de juicios contenciosos administrativos (SICOSEJ); sistema integral de recursos humanos, control de personal y nóminas; sistema de control de inventarios y almacén; y sistema integral automatizado de biblioteca (SIABUC).
 
 ###### Artículo 11.
 
@@ -111,13 +121,31 @@ Los servidores públicos del Tribunal, están impedidos para intervenir en asunt
 
 ### CAPÍTULO SEGUNDO. Del Pleno del Tribunal
 
+> <small>(REFORMADO, G.O. 12 DE ENERO DE 2011)</small>
+
 ###### Artículo 15.
 
-El Pleno del Tribunal estará integrado por el Presidente y los Magistrados adscritos a las Salas, quienes serán asistidos por el Secretario General de Acuerdos de la Sala Superior, quien dará fe de los acuerdos y resoluciones que se dicten.
+El Pleno del Tribunal de lo Contencioso Administrativo, estará integrado por el Presidente y los Magistrados adscritos a las Salas, quienes serán asistidos por el Secretario General de Acuerdos de la Sala Superior, quien dará fe de los acuerdos y resoluciones que se dicten.
 
 ###### Artículo 16.
 
 Las sesiones del Pleno se celebrarán en la sede de la Sala Superior, o en su caso, en el lugar que determine aquél. Habrá sesiones ordinarias o extraordinarias. Las primeras tendrán lugar cuando así lo determine este ordenamiento. Las segundas, cuando sea necesario efectuarlas y lo soliciten un mínimo de dos de sus integrantes. La convocatoria respectiva se hará con dos días hábiles de anticipación, anexándose la orden del día correspondiente.
+
+> <small>(ADICIONADO, G.O. 12 DE ENERO DE 2011)</small>
+
+###### Artículo 16 Bis.
+
+Iniciada la sesión del Pleno, se procederá a pasar lista de asistencia, estando la mayoría de sus integrantes el Presidente declarará la existencia de quórum y se continuará con la misma; dándose lectura al orden del día, por parte del Secretario General de Acuerdos del Pleno, sometiéndola el Presidente a consideración, para su aprobación o modificación.
+
+En el desarrollo del orden del día el Secretario General de Acuerdos, expondrá los asuntos a tratar y de competencia del Pleno, con apego en lo dispuesto por el artículo 17 del presente reglamento.
+
+Los asuntos generales que proponga el Presidente del Tribunal o cualquier integrante del pleno, serán de carácter informativo y en su caso, podrán ser sometidos a consideración del pleno, mediante votación económica.
+
+> <small>(ADICIONADO, G.O. 12 DE ENERO DE 2011)</small>
+
+###### Artículo 16 Ter.
+
+El Presidente del Pleno del Tribunal de lo Contencioso Administrativo vigilará que los acuerdos tomados por el pleno se cumplimenten, si no hay impedimento alguno, a partir de la fecha de autorización del acta y a través de quién tenga obligación de ejecutar el acto.
 
 ###### Artículo 17.
 
@@ -201,7 +229,17 @@ XV. Conocer y someter a la consideración de la Sala Superior, las excusas o imp
 
 XVI. Conocer de los avisos que los Magistrados del Tribunal le den de sus ausencias no mayores de cinco días; y
 
-XVII. Las demás que expresamente establezcan la Constitución Política Local, la Ley Orgánica del Poder Judicial del Estado y las demás leyes del Estado.
+> <small>(REFORMADA, G.O. 12 DE ENERO DE 2011)</small>
+
+XVII. Descartar la propuesta de nombramiento o remoción del personal administrativo y jurisdiccional, realizadas por los Magistrados de las Salas Superior y Regionales, cuando no reúnan los requisitos o la experiencia laboral indispensables para su designación; en su caso cuando no sea plenamente justificada su remoción, no obstante, el Magistrado podrá realizar una nueva propuesta;
+
+> <small>(ADICIONADA, G.O. 12 DE ENERO DE 2011)</small>
+
+XVIII. Proponer ante el Consejo de la Judicatura el nombramiento y remoción del Coordinador de la biblioteca del Instituto de la Justicia Contenciosa Administrativa;
+
+> <small>(ADICIONADA, G.O. 12 DE ENERO DE 2011)</small>
+
+XIX. Las demás que expresamente establezcan la Constitución Política Local, la Ley Orgánica del Poder Judicial del Estado y las demás leyes del Estado.
 
 ### CAPÍTULO CUARTO. De la Sala Superior
 
@@ -307,13 +345,17 @@ VII. Proponer en su respectivo ámbito, las reformas al Reglamento del Tribunal 
 
 VIII. Rendir al Tribunal el informe mensual de actividades de la Sala;
 
-IX. Proponer al Consejo de la Judicatura, por conducto del Presidente del Tribunal, el nombramiento y, en su caso, remoción del Secretario de Acuerdos, Secretarios de Estudio y Cuenta, Actuarios y demás personal administrativo de la Sala;
+> <small>(REFORMADA, G.O. 12 DE ENERO DE 2011)</small>
+
+IX. Proponer al Consejo de la Judicatura, por conducto del Presidente del Tribunal de lo Contencioso Administrativo, el nombramiento y, en su caso, remoción del Secretario de Acuerdos, Secretarios de Estudio y Cuenta, Actuarios y demás personal administrativo de la Sala, con excepción de los Defensores Jurídicos;
 
 X. Conocer de los demás asuntos que expresamente establezcan la Constitución Política Local, las demás leyes del Estado y el presente ordenamiento.
 
+> <small>(REFORMADO, G.O. 12 DE ENERO DE 2011)</small>
+
 ###### Artículo 26.
 
-El Presidente del Tribunal y de la Sala Superior, en sus faltas temporales, que no excedan de treinta días consecutivos, será sustituido por el magistrado que él designe, pero si excediere de ese término, la designación del Magistrado Presidente interino la hará el Pleno del Tribunal.
+El Presidente del Tribunal y de la Sala Superior, en sus faltas temporales, que no excedan de treinta días consecutivos, será sustituido por el magistrado que él designe, pero si la falta del Presidente excediere de ese término o fuere definitiva, la designación del Magistrado Presidente se hará conforme al procedimiento de elección, previsto en el artículo 18 del presente Reglamento.
 
 ###### Artículo 27.
 
@@ -321,9 +363,11 @@ Los magistrados de las (sic) Sala Superior y las Salas Regionales, serán suplid
 
 En todo caso, las faltas mayores a diez días consecutivos, sin que medie causa justificada que califique el Pleno del Tribunal se considerarán definitivas.
 
+> <small>(REFORMADA, G.O. 12 DE ENERO DE 2011)</small>
+
 ###### Artículo 28.
 
-Los Magistrados de reciente designación, serán adscritos por el Pleno del Tribunal.
+Los Magistrados de reciente designación serán adscritos por el Pleno del Tribunal de lo Contencioso Administrativo.
 
 ### CAPÍTULO SÉPTIMO. Del Secretario General de Acuerdos del Tribunal de la Sala Superior y las Salas Regionales
 
@@ -533,9 +577,11 @@ IV. Todas las demás que procedan de acuerdo a las disposiciones legales de la m
 
 El Presidente podrá crear las Unidades Administrativas de Apoyo que estime necesarias para el óptimo desempeño de las funciones encomendadas al Tribunal.
 
+> <small>(REFORMADO, G.O. 12 DE ENERO DE 2011)</small>
+
 ###### Artículo 46.
 
-Las Unidades de Apoyo Administrativo tendrán a su cargo administrar los recursos humanos, materiales y financieros del Tribunal; el acceso y transparencia de la información pública; así como mantener una organización administrativa integral tecnificada y sistematizada en lo relativo a los aspectos precisados, que coadyuve con las funciones fundamentales del Tribunal, proporcionando además el apoyo que le sea requerido en servicios de mensajería, fotocopiado, transportación y resguardo de los bienes y valores a disposición del Tribunal.
+Las Subdirecciones, Jefaturas de Departamento y las Unidades de Apoyo Administrativo tendrán a su cargo administrar los recursos humanos, materiales, tecnológicos y financieros del Tribunal; comunicar, difundir los servicios de impartición y acceso a la justicia; transparentar la información pública con apego a la reglamentación interna; así como mantener una organización administrativa integral tecnificada y sistematizada en lo relativo a los aspectos precisados, que coadyuve con las funciones fundamentales del Tribunal, proporcionando además el apoyo que le sea requerido en servicios de mensajería, fotocopiado, transportación y resguardo de los bienes y valores a disposición del Tribunal.
 
 ### CAPÍTULO PRIMERO. De la Subdirección Administrativa
 
@@ -753,13 +799,17 @@ V. Rendir al Presidente o Magistrado en su caso, y al Subdirector de la Coordina
 
 VI. Guardar el secreto profesional en el desempeño de sus funciones.
 
+> <small>(REFORMADO, G.O. 12 DE ENERO DE 2011)</small>
+
 ###### Artículo 59.
 
-Los Defensores Jurídicos, actuarán y serán responsables de la elaboración de la demanda y del seguimiento del procedimiento de los juicios a su cargo, hasta su total culminación dentro del Tribunal de lo Contencioso Administrativo.
+Los Defensores Jurídicos serán propuestos por la Presidencia del Tribunal de lo Contencioso Administrativo ante el Consejo de la Judicatura y serán responsables ante la Presidencia, la Subdirección de coordinación de los servicios de defensoría jurídica, así como ante el Titular de la Sala Regional de su adscripción, de la diligencia, eficacia y honestidad con que desempeñen sus funciones.
+
+> <small>(REFORMADO, G.O. 12 DE ENERO DE 2011)</small>
 
 ###### Artículo 60.
 
-Los Defensores Jurídicos, serán responsables ante el Presidente, así como ante el Magistrado de la Sala Regional correspondiente, de la diligencia, eficacia y honestidad con que desempeñen sus funciones.
+Los Defensores Jurídicos actuarán y serán responsables de la elaboración de la demanda y del seguimiento del procedimiento de los juicios a su cargo, hasta su total culminación dentro del Tribunal de lo Contencioso Administrativo.
 
 ### CAPÍTULO QUINTO. De la Subdirección de Formación Profesional, Capacitación, Especialización y Actualización
 
@@ -825,15 +875,353 @@ En la Sala Superior y Salas Regionales serán de información confidencial, los 
 
 Los datos personales de los Magistrados y de los servidores públicos del Tribunal, sólo podrán ser proporcionados, mediante su consentimiento.
 
-## TÍTULO CUARTO. DE LAS REFORMAS AL REGLAMENTO
+> <small>(ADICIONADO [N. DE E. REFORMADA SU DENOMINACION], G.O. 12 DE ENERO DE 2011)</small>
 
-### CAPÍTULO ÚNICO. Del Procedimiento de Reforma
+## TÍTULO CUARTO. DEL INSTITUTO DE LA JUSTICIA ADMINISTRATIVA
+
+> <small>(REFORMADA SU DENOMINACION, G.O. 12 DE ENERO DE 2011)</small>
+
+### CAPÍTULO PRIMERO. Del Instituto de la Justicia Administrativa
+
+> <small>(REFORMADO, G.O. 12 DE ENERO DE 2011)</small>
 
 ###### Artículo 69.
 
-Los Magistrados de Tribunal tendrán facultad para presentar iniciativa de reforma al presente reglamento.
+El Tribunal de lo Contencioso Administrativo contará con el Instituto de la Justicia Administrativa, para que en forma conjunta con la Subdirección de Formación Profesional Capacitación, Especialización y Actualización del Tribunal, realice actividades de docencia, investigación, divulgación y promoción; además de la operación y funcionamiento de la Revista digital y la biblioteca.
+
+> <small>(REFORMADO, G.O. 12 DE ENERO DE 2011)</small>
 
 ###### Artículo 70.
+
+El Instituto, dependerá de la Presidencia del Tribunal de lo Contencioso Administrativo; en su estructura orgánica se integrará con las siguientes Coordinaciones: de Docencia; de Investigación Revista Digital y Biblioteca; cuyos titulares serán nombrados por el Pleno del Tribunal a propuesta de la Presidencia.
+
+> <small>(ADICIONADO, G.O. 12 DE ENERO DE 2011)</small>
+
+###### Artículo 71.
+
+El Instituto de la Justicia Administrativa, contará con un Director nombrado por el Pleno del Tribunal, a propuesta de la Presidencia; y para el cumplimiento de sus funciones y objetivos, dispondrá del personal administrativo que determine el presupuesto de egresos autorizado del Tribunal.
+
+> <small>(ADICIONADO, G.O. 12 DE ENERO DE 2011)</small>
+
+###### Artículo 72.
+
+Para ser Director del Instituto de Justicia Administrativa se requiere:
+
+I. Ser magistrado en activo o en retiro del Tribunal de lo Contencioso Administrativo;
+
+II. Haberse distinguido por su labor docente y de investigación en Instituciones de Educación Superior en las áreas del Derecho Administrativo y Fiscal;
+
+III. Poseer grado académico de maestría o doctor, preferentemente.
+
+> <small>(ADICIONADO, G.O. 12 DE ENERO DE 2011)</small>
+
+###### Artículo 73.
+
+El Director del Instituto tendrá las siguientes atribuciones:
+
+I. Presentar por conducto del Presidente, para aprobación del Pleno del Tribunal, el programa anual de actividades del Instituto;
+
+II. Planear, coordinar, operar y evaluar la impartición de cursos y programas de formación y superación del personal jurídico y jurisdiccional del Tribunal;
+
+III. Formular, de manera conjunta con la Subdirección de Formación Profesional Capacitación, Especialización y Actualización del Tribunal, el Estatuto Académico, las convocatorias, programas particulares y contenidos temáticos correspondientes a los cursos, programas académicos y diplomados que se impartan;
+
+IV. Tramitar por conducto del Presidente, permisos y autorizaciones ante las autoridades competentes para realizar las funciones correspondientes;
+
+V. Presentar por conducto del Presidente, al Pleno del Tribunal, para su aprobación y operación, los programas de estudio e investigación en materia jurídico-administrativa, para el desarrollo y mejoramiento de las funciones del Tribunal;
+
+VI. Someter a la aprobación del Pleno, por conducto del Presidente, el programa de conferencias y cursos a otras instituciones, órganos jurisdiccionales y universidades en las materias de la competencia del Tribunal;
+
+VII. Proponer al Presidente, las publicaciones que edite el Tribunal, así como los materiales didácticos y de cualquier otra índole necesarios para el desarrollo de sus funciones;
+
+VIII. Las demás que le confieran otras disposiciones, encomiende el Pleno y el Presidente del Tribunal.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 12 DE ENERO DE 2011)</small>
+
+### CAPÍTULO SEGUNDO. De la Revista Digital y del Comité Editorial
+
+> <small>(ADICIONADO, G.O. 12 DE ENERO DE 2011)</small>
+
+###### Artículo 74.
+
+El Tribunal editará la Revista Digital, con el objetivo de socializar el conocimiento y divulgar las actividades jurisdiccionales y de investigación en las áreas del Derecho Administrativo y Fiscal, que realicen los servidores judiciales del Tribunal, así como los miembros de la comunidad académica del Estado.
+
+> <small>(ADICIONADO, G.O. 12 DE ENERO DE 2011)</small>
+
+###### Artículo 75.
+
+La Revista Digital estará dirigida por un Comité Editorial, que tendrá por objeto dictaminar sobre el material a seleccionar para ser publicado.
+
+El Comité Editorial estará integrado por la Presidencia del Tribunal, un Secretario Técnico elegido entre los Magistrados integrantes del Pleno del Tribunal; y tres Vocales, de preferencia distinguidos Magistrados en retiro, y/o académicos e investigadores pertenecientes a Instituciones de Educación Superior de reconocido prestigio en nuestra entidad.
+
+> <small>(ADICIONADO, G.O. 12 DE ENERO DE 2011)</small>
+
+###### Artículo 76.
+
+El Comité tendrá las siguientes atribuciones:
+
+I. Aprobar la política editorial del Tribunal;
+
+II. Analizar y en su caso aprobar el programa editorial anual que se proponga;
+
+III. Emitir los dictámenes sobre el material que integrará las publicaciones; y
+
+IV. Las demás que conlleven a la divulgación, difusión y comunicación del mejor conocimiento de los temas de índole fiscal y administrativa.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 12 DE ENERO DE 2011)</small>
+
+### CAPÍTULO TERCERO. De la Biblioteca del Instituto
+
+> <small>(ADICIONADO, G.O. 12 DE ENERO DE 2011)</small>
+
+###### Artículo 77.
+
+La biblioteca del Instituto de la Justicia Administrativa contará con un Coordinador, nombrado por el Consejo de la Judicatura a propuesta de la Presidencia del Tribunal.
+
+> <small>(ADICIONADO, G.O. 12 DE ENERO DE 2011)</small>
+
+###### Artículo 78.
+
+Para ser Coordinador de la Biblioteca se requiere:
+
+I. Ser mexicano en pleno ejercicio de sus derechos;
+
+II. Contar con treinta años de edad, a la fecha de su nombramiento;
+
+III. Poseer título de Licenciatura en Derecho y/o Biblioteconomía, expedido por Institución legalmente autorizada;
+
+IV. Tener experiencia acreditable en el manejo de sistemas de tecnología e informática.
+
+> <small>(ADICIONADO, G.O. 12 DE ENERO DE 2011)</small>
+
+###### Artículo 79.
+
+Los servicios que ofrece la biblioteca del Instituto consisten en:
+
+a) Consulta y préstamo del material bibliográfico;
+
+b) Consulta y préstamo de Diarios Oficiales de la Federación y de Gacetas Oficiales del Gobierno del Estado;
+
+c) Consulta y préstamo de revistas y de material en medio magnético;
+
+e) (sic) Información de bibliografía que obra en Salas y áreas adscritas al Tribunal;
+
+f) Información bibliográfica automatizada;
+
+g) Fotocopiado.
+
+> <small>(ADICIONADO, G.O. 12 DE ENERO DE 2011)</small>
+
+###### Artículo 80.
+
+El horario de servicio y atención a usuarios es de 9:00 a 14:30 Hrs. y 17:00 a 20:00 Hrs, de lunes a viernes en días hábiles.
+
+> <small>(ADICIONADO, G.O. 12 DE ENERO DE 2011)</small>
+
+###### Artículo 81.
+
+El servicio de préstamo procede única y exclusivamente para el usuario interno. Los usuarios externos sólo pueden llevar a cabo consultas en el interior de la biblioteca. Salvo lo dispuesto en los convenios celebrados con otras instituciones y dependencias de gobierno.
+
+> <small>(ADICIONADO, G.O. 12 DE ENERO DE 2011)</small>
+
+###### Artículo 82.
+
+El acervo bibliográfico del Tribunal se integra con los documentos que obran en las instalaciones de la propia biblioteca, en las Salas del Tribunal, en las oficinas de las defensorías, incluyendo las regionales, así como en las áreas administrativas y operativas adscritas al Tribunal. Corresponde al Coordinador de la biblioteca compilar, procesar y clasificar la información del material bibliográfico en una base de datos.
+
+> <small>(ADICIONADO, G.O. 12 DE ENERO DE 2011)</small>
+
+###### Artículo 83.
+
+Todas las áreas del Tribunal que cuenten con material bibliográfico deberán integrar su propio sistema de resguardo y préstamo, debiendo observar para esos efectos el procedimiento de organización especificado en el presente Reglamento y serán responsables de su correcta administración, resguardo y conserva.
+
+> <small>(ADICIONADO, G.O. 12 DE ENERO DE 2011)</small>
+
+###### Artículo 84.
+
+Cuando el presupuesto y la disponibilidad financiera así lo permitan, se producirán y reproducirán materiales que pueden obsequiarse a los usuarios con fines de difusión y divulgación.
+
+> <small>(ADICIONADO, G.O. 12 DE ENERO DE 2011)</small>
+
+###### Artículo 85.
+
+Los usuarios y público en general podrán adquirir en venta material producido por el Tribunal, previo pago en la Subdirección Administrativa y entrega de recibo oficial.
+
+> <small>(ADICIONADO, G.O. 12 DE ENERO DE 2011)</small>
+
+###### Artículo 86.
+
+Todo usuario tiene derecho al servicio de fotocopias, previo pago de los derechos correspondientes a la Subdirección Administrativa del Tribunal, por recuperación del costo.
+
+> <small>(ADICIONADO, G.O. 12 DE ENERO DE 2011)</small>
+
+###### Artículo 87.
+
+El Inmueble de la Biblioteca contará con estantes para exposición de los materiales bibliográficos, documentales de consulta y préstamo. Para los materiales electrónicos como el caso de discos compactos o disquetes, se habilitarán muebles de archivo organizados sistemáticamente.
+
+> <small>(ADICIONADO, G.O. 12 DE ENERO DE 2011)</small>
+
+###### Artículo 88.
+
+La clasificación del material bibliográfico será por área del conocimiento y tema general a través del Sistema Integral Automatizado de Biblioteca (SIABUC).
+
+> <small>(ADICIONADO, G.O. 12 DE ENERO DE 2011)</small>
+
+###### Artículo 89.
+
+La organización de los (sic) Gacetas Oficiales y Diarios de la Federación será por año y número progresivo, una vez ordenados en esta forma, el Coordinador de la biblioteca entregará una relación a la Subdirección de Comunicación y Difusión del Tribunal, a efecto de que los encuaderne por tomo y volumen para facilitar su consulta.
+
+> <small>(ADICIONADO, G.O. 12 DE ENERO DE 2011)</small>
+
+###### Artículo 90.
+
+La biblioteca, para su control de información, contará con lo siguiente:
+
+a) Base de datos actualizada.
+
+b) Control de préstamos a base de tarjetas.
+
+c) Registro de consultas.
+
+d) Registro de infracciones.
+
+e) Registro de altas y bajas de materiales bibliográficos.
+
+> <small>(ADICIONADO, G.O. 12 DE ENERO DE 2011)</small>
+
+###### Artículo 91.
+
+Todo material bibliográfico deberá contener una tarjeta de identificación y ficha de registro, que incluya los datos siguientes: título, autor, clasificación y registro de consulta.
+
+> <small>(ADICIONADO, G.O. 12 DE ENERO DE 2011)</small>
+
+###### Artículo 92.
+
+Tanto el material electrónico como las ediciones de la Gaceta Oficial del Estado y del Diario Oficial de la Federación deberán registrarse en la base de datos del Sistema Integral Automatizado de Biblioteca (SIABUC).
+
+> <small>(ADICIONADO, G.O. 12 DE ENERO DE 2011)</small>
+
+###### Artículo 93.
+
+Para los préstamos y aquellos casos en que se requiera y autorice la fotocopia del material fuera de las instalaciones del Tribunal o de la Biblioteca, el Coordinador de la biblioteca elaborará y habilitará mecanismos de control para la salida, devolución y recuperación del material bibliográfico.
+
+> <small>(ADICIONADO, G.O. 12 DE ENERO DE 2011)</small>
+
+###### Artículo 94.
+
+La biblioteca contará con un registro de patrimonio, el cual contendrá la relación específica de todos y cada uno de los materiales de consulta existentes, incluyendo libros, revistas, cuadernillos, boletines, Diarios Oficiales, Gacetas Oficiales del Estado y discos compactos, entre otros. Todo libro o material de consulta que incremente el acervo de la biblioteca, deberá ser registrado en la relación del patrimonio de la misma.
+
+> <small>(ADICIONADO, G.O. 12 DE ENERO DE 2011)</small>
+
+###### Artículo 95.
+
+El Coordinador de la biblioteca será quien administre la base de datos y brinde los informes que requieran el Pleno del Tribunal, el Presidente y el Director del Instituto de Justicia Contenciosa Administrativa. Así también llevará el control mensual de los movimientos realizados de la consulta bibliográfica y de los servicios bibliotecarios.
+
+> <small>(ADICIONADO, G.O. 12 DE ENERO DE 2011)</small>
+
+###### Artículo 96.
+
+El Coordinador de la biblioteca rendirá al Presidente del Tribunal un informe anual sobre las actividades y servicios realizados; así como las necesidades del acervo bibliográfico y de la nueva bibliografía a adquirir por parte del Tribunal.
+
+> <small>(ADICIONADO, G.O. 12 DE ENERO DE 2011)</small>
+
+###### Artículo 97.
+
+El Coordinador de la biblioteca deberá integrar, alimentar y administrar el Sistema Integral Automatizado de Biblioteca (SIABUC) y materiales de préstamo y consulta que obran en la biblioteca y demás áreas del Tribunal, estando obligado a actualizar permanentemente la base de datos del sistema.
+
+> <small>(ADICIONADO, G.O. 12 DE ENERO DE 2011)</small>
+
+###### Artículo 98.
+
+Toda persona que requiera algún servicio de la biblioteca deberá registrarse con su credencial oficial vigente.
+
+> <small>(ADICIONADO, G.O. 12 DE ENERO DE 2011)</small>
+
+###### Artículo 99.
+
+Los usuarios internos serán el personal jurisdiccional defensores y personal administrativo con nombramiento vigente adscrito al Tribunal, quienes tendrán derecho a préstamo, consulta y fotocopia del material bibliográfico con las modalidades y requisitos especificados en el mismo.
+
+> <small>(ADICIONADO, G.O. 12 DE ENERO DE 2011)</small>
+
+###### Artículo 100.
+
+Los usuarios externos serán las personas que no se encuentren con nombramiento vigente adscrito al Tribunal, alumnos de las Instituciones de Educación Superior del Estado y público en general y podrán tener acceso a consulta y fotocopia del material bibliográfico. Para el caso de fotocopias, deberán llenar una solicitud y cumplir los requisitos que le señale el Coordinador de la biblioteca.
+
+> <small>(ADICIONADO, G.O. 12 DE ENERO DE 2011)</small>
+
+###### Artículo 101.
+
+Para llevar a cabo la consulta, el usuario interno o externo, deberá llenar la tarjeta de identificación y ficha de registro y control de libros, en la cual deberá anotar el nombre del usuario, fecha de retiro del ejemplar y firmarla. Terminada la consulta y verificado que no tiene anomalías el material, el Coordinador de la biblioteca procederá a devolver la identificación del usuario; a reincorporar la ficha de registro en el libro consultado y a integrar el material en el estante respectivo.
+
+> <small>(ADICIONADO, G.O. 12 DE ENERO DE 2011)</small>
+
+###### Artículo 102.
+
+Cuando sea devuelto un libro o material, se procederá a su integración inmediata a los libreros para que quede disponible para una nueva consulta o préstamo y se dará de baja en los registros de salida. Todo material utilizado en consulta o préstamo que presente anomalías, mutilaciones o daños, se procederá a cuantificar el monto del daño, a retener la identificación del usuario y a que éste cubra la reparación mediante la garantía que para tal efecto establezca el Coordinador de biblioteca.
+
+> <small>(ADICIONADO, G.O. 12 DE ENERO DE 2011)</small>
+
+###### Artículo 103.
+
+El plazo máximo de préstamo para todo material no deberá exceder los 15 días naturales. Como plazo adicional del mismo material prestado, todo usuario interno tiene la oportunidad de renovar su préstamo de forma inmediata por una sola ocasión, en este supuesto, el nuevo plazo no excederá los 10 días naturales. Devuelto el material, queda a salvo su derecho de volver a solicitar el préstamo con nuevo plazo a partir del día siguiente de su devolución.
+
+> <small>(ADICIONADO, G.O. 12 DE ENERO DE 2011)</small>
+
+###### Artículo 104.
+
+Por anomalías al material bibliográfico se entiende: mutilaciones, rasgaduras, roturas, alteraciones que imposibiliten su lectura o consulta, rayones, marcas o en general toda aquella alteración que sufran los materiales bibliográficos y que afecten, dificulten o imposibiliten su consulta, lectura o préstamo.
+
+> <small>(ADICIONADO, G.O. 12 DE ENERO DE 2011)</small>
+
+###### Artículo 105.
+
+Las sanciones a las infracciones consisten en amonestación y multa. Toda sanción quedará registrada en la base de datos y expediente de la biblioteca.
+
+> <small>(ADICIONADO, G.O. 12 DE ENERO DE 2011)</small>
+
+###### Artículo 106.
+
+Se amonestará a la persona que haga mal uso del material que obra en biblioteca. Tres amonestaciones procederá sanción de suspensión de préstamo de libros o consulta de material por un lapso de seis meses.
+
+> <small>(ADICIONADO, G.O. 12 DE ENERO DE 2011)</small>
+
+###### Artículo 107.
+
+Se multará con cincuenta pesos por cada día natural extraordinario, a aquél usuario que no entregue en tiempo y forma el día límite de la devolución del material, mismo que correrá a partir del vencimiento de entrega del material y se computará hasta que lo devuelva.
+
+> <small>(ADICIONADO, G.O. 12 DE ENERO DE 2011)</small>
+
+###### Artículo 108.
+
+El usuario que dañe o pierda cualquier obra o material bibliográfico estará obligado a reponer dicho material o cubrir su importe total al costo vigente en el momento de la aplicación de la sanción.
+
+> <small>(ADICIONADO, G.O. 12 DE ENERO DE 2011)</small>
+
+###### Artículo 109.
+
+Las sanciones serán determinadas por el Coordinador Coordinador (sic) de la biblioteca. Las sanciones económicas se harán efectivas por la Subdirección Administrativa del Tribunal.
+
+> <small>(ADICIONADO, G.O. 12 DE ENERO DE 2011)</small>
+
+###### Artículo 110.
+
+El personal adscrito al Tribunal, como usuario interno, que deje de prestar sus servicios, deberá recabar de la biblioteca el oficio de no adeudo de material bibliográfico, para que surta efectos de liberación.
+
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, G.O. 12 DE ENERO DE 2011)</small>
+
+## TÍTULO QUINTO. DE LAS REFORMAS AL REGLAMENTO
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 12 DE ENERO DE 2011)</small>
+
+### CAPÍTULO ÚNICO. Del Procedimiento de Reforma
+
+> <small>(ADICIONADO, G.O. 12 DE ENERO DE 2011)</small>
+
+###### Artículo 111.
+
+Los Magistrados del Tribunal tendrán facultad para presentar iniciativa de reforma al presente reglamento.
+
+> <small>(ADICIONADO, G.O. 12 DE ENERO DE 2011)</small>
+
+###### Artículo 112.
 
 Las reformas a este reglamento se ajustarán al siguiente procedimiento:
 
@@ -907,4 +1295,10 @@ Rúbrica.
 
 El C. licenciado Ismael de los Santos y Rodríguez, secretario general de Acuerdos habilitado del Tribunal de lo Contencioso Administrativo del Poder Judicial del Estado, certifica:
 
-Que el presente Reglamento Interior, fue aprobado por el Pleno del Tribunal, en Ejercicio de la Facultad que le confiere el artículo 50 bis, fracción IV de la Ley Orgánica del Poder Judicial del Estado de Veracruz de Ignacio de la Llave, en sesión celebrada el día viernes trece de noviembre del año dos mil nueve, por unanimidad de votos fue aprobado el presente Reglamento por los ciudadanos magistrados que integran el Pleno del Tribunal por (sic) ante el secretario general de Acuerdos habilitado que autoriza y da fe. Conste.- Rúbricas.
+Que el presente Reglamento Interior, fue aprobado por el Pleno del Tribunal, en Ejercicio de la Facultad que le confiere el artículo 50 bis, fracción IV de la Ley Orgánica del Poder Judicial del Estado de Veracruz de Ignacio de la Llave,en sesión celebrada el día viernes trece de noviembre del año dos mil nueve, por unanimidad de votos fue aprobado el presente Reglamento por los ciudadanos magistrados que integran el Pleno del Tribunal por (sic) ante el secretario general de Acuerdos habilitado que autoriza y da fe. Conste.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.O. 12 DE ENERO DE 2011.
+
+Artículo Único. Las reformas, modificación y adiciones al presente reglamento entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
