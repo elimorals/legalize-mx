@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-para-el-congreso-del-estado-de-morelos-56679"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-07-25"
-last_updated: "2009-08-26"
+last_updated: "2011-01-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56679&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO PARA EL CONGRESO DEL ESTADO DE MORELOS.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE AGOSTO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE ENERO DE 2011.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 25 de julio de 2007
 
@@ -459,7 +459,7 @@ III. Durante la sesión de instalación y realizado el procedimiento señalado e
 
 Para las fracciones parlamentarias, bastará con que se entregue a la mesa directiva, el nombre del diputado que corresponda.
 
-ARTÍCULO 46 (sic).- El funcionamiento, las actividades y los procedimientos para la designación de los coordinadores y subcoordinadores o vice coordinadores de los grupos parlamentarios, serán reguladas por las normas estatutarias y los lineamientos de los respectivos partidos políticos.
+ARTÍCULO 46 (SIC).- El funcionamiento, las actividades y los procedimientos para la designación de los coordinadores y subcoordinadores o vice coordinadores de los grupos parlamentarios, serán reguladas por las normas estatutarias y los lineamientos de los respectivos partidos políticos.
 
 ###### ARTÍCULO 47.
 
@@ -483,11 +483,35 @@ Al término de la legislatura los coordinadores de los grupos parlamentarios ser
 
 La ocupación de los espacios de las curules en el Salón de Sesiones se hará preferentemente, de acuerdo al orden decreciente de cada grupo, del número de grupos parlamentarios conformados y las características del Salón de Sesiones, conforme lo acuerden los coordinadores de los grupos parlamentarios.
 
-### CAPÍTULO ÚNICO. DEL FUNCIONAMIENTO DE LAS COMISIONES Y COMITÉS
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 12 DE ENERO DE 2011)</small>
+
+### CAPÍTULO SEXTO. DEL ARCHIVO GENERAL
+
+> <small>(ADICIONADO, P.O. 12 DE ENERO DE 2011)</small>
+
+ARTÍCULO 50 bis.- presidentes de las comisiones, comités y órganos de gobierno del Congreso, durante los períodos de receso constituirán sus archivos generales con los asuntos concluidos que deberán remitir a la Secretaría de Servicios Legislativos y Parlamentarios, debidamente relacionados en una lista que precise sucintamente su contenido y explícitamente toda la documentación que envíe.
+
+La Presidencia de la Mesa Directiva será responsable de integrar el archivo de la Conferencia para la Dirección y Programación de los Trabajos Legislativos con auxilio de su secretario técnico.
+
+El archivo general de la Diputación Permanente, estará a cargo de la Presidencia de la Mesa Directiva del Congreso del Estado.
+
+> <small>(ADICIONADO, P.O. 12 DE ENERO DE 2011)</small>
+
+ARTÍCULO 50 ter.- En el Proceso de entrega-recepción, la Comisión instaladora será auxiliada por la Secretaría General del Congreso y la Secretaría de Servicios Legislativos y Parlamentarios para cumplir con la fracción IV del artículo 11 de la Ley Orgánica para el Congreso del Estado, por cuanto se refiere al archivo general de las comisiones, comités y órganos de gobierno del Congreso.
+
+Para cumplir con lo establecido en el artículo 12 de este Reglamento, las comisiones comités y órganos de gobierno, en relación con su archivo general, podrán entregar solamente las relaciones con los acuses de recibo de la Secretaría de Servicios Legislativos y Parlamentarios, quedando supeditado el proceso de entrega-recepción a lo establecido por el artículo 25 de la Ley de Entrega Recepción de la Administración Pública del Estado y Municipios de Morelos.
+
+> <small>(ADICIONADO, P.O. 12 DE ENERO DE 2011)</small>
+
+ARTÍCULO 50 quarter.- Por cada año legislativo, las comisiones, los comités y los órganos de gobierno deberán remitir su archivo general, integrado sólo con los asuntos concluidos, a la Secretaría de Servicios Legislativos y Parlamentarios.
+
+> <small>(ADICIONADO, P.O. 12 DE ENERO DE 2011)</small>
+
+ARTÍCULO quinquies.- Al término del segundo periodo ordinario de sesiones del último año de ejercicio constitucional de la Legislatura en turno, el archivo general con los asuntos concluidos y pendientes, deberán ser remitidos a más tardar treinta días antes al inicio de la siguiente Legislatura a la Secretaría de Servicios Legislativos y Parlamentarios.
 
 ## TÍTULO SEXTO. DE LAS COMISIONES Y COMITÉS
 
-### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
+### CAPÍTULO ÚNICO. DEL FUNCIONAMIENTO DE LAS COMISIONES Y COMITÉS
 
 ###### ARTÍCULO 51.
 
@@ -643,9 +667,7 @@ Los comités tendrán las atribuciones que se establecen en la ley y para su fun
 
 ## TÍTULO SÉPTIMO. DEL PROCESO LEGISLATIVO
 
-### CAPÍTULO SEGUNDO. DE LAS SESIONES DEL PLENO
-
-> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2009)</small>
+### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 72.
 
@@ -679,7 +701,9 @@ X. Copia autógrafa del decreto enviado al ejecutivo o del publicado por el Cong
 
 XI. Constancia del periódico oficial respectivo.
 
-### CAPÍTULO TERCERO. DEL CEREMONIAL
+### CAPÍTULO SEGUNDO. DE LAS SESIONES DEL PLENO
+
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2009)</small>
 
 ###### ARTÍCULO 74.
 
@@ -761,7 +785,7 @@ El Presidente de la Mesa Directiva, por sí o a petición de algún diputado, po
 
 Cuando la legislatura actúe como Gran Jurado, en esa sesión, el Presidente de la Mesa Directiva, debe anunciarlo y sólo se tratará el asunto que corresponda.
 
-### CAPÍTULO CUARTO. DE LAS INICIATIVAS
+### CAPÍTULO TERCERO. DEL CEREMONIAL
 
 ###### ARTÍCULO 87.
 
@@ -855,7 +879,7 @@ En cualquier sesión que asistan los Gobernadores de otras Entidades, servidores
 
 Cuando algún servidor público titular de dependencia u organismo se presente en el Congreso, se nombrará una comisión de cortesía de cuando menos dos de sus miembros que lo reciba en el acceso de la misma y lo acompañe hasta el lugar donde deba tomar asiento y posteriormente, al término del evento, hasta la salida del recinto legislativo.
 
-### CAPÍTULO QUINTO. DE LOS DICTÁMENES
+### CAPÍTULO CUARTO. DE LAS INICIATIVAS
 
 ###### ARTÍCULO 95.
 
@@ -979,7 +1003,7 @@ La iniciativa deberá dictaminarse en el periodo ordinario de sesiones en que se
 
 Toda iniciativa, decreto o acuerdo parlamentario que no sea dictaminado durante la Legislatura en la cual fue presentado, al término de la misma será remitida por el Presidente de la Comisión respectiva al archivo legislativo.
 
-### CAPÍTULO SEXTO. DE LAS PROPUESTAS Y ACUERDOS PARLAMENTARIOS
+### CAPÍTULO QUINTO. DE LOS DICTÁMENES
 
 ###### ARTÍCULO 103.
 
@@ -1035,7 +1059,7 @@ Cuando el Congreso conozca de solicitudes de jubilaciones o pensiones de los tra
 
 Los dictámenes elaborados por las comisiones unidas se realizarán, por turno del presidente de la mesa directiva y la primera comisión en la prelación es la responsable de integrar el dictamen correspondiente.
 
-### CAPÍTULO SÉPTIMO. DE LOS DEBATES
+### CAPÍTULO SEXTO. DE LAS PROPUESTAS Y ACUERDOS PARLAMENTARIOS
 
 ###### ARTÍCULO 111.
 
@@ -1049,7 +1073,7 @@ El acuerdo parlamentario por el que se apruebe la presentación de iniciativa al
 
 Podrá calificarse de urgente y obvia resolución por la asamblea, los asuntos que por su naturaleza así lo requieran y se dará curso a las propuestas o acuerdos poniéndolos a discusión inmediatamente después de su lectura.
 
-### CAPÍTULO OCTAVO. DE LAS VOTACIONES
+### CAPÍTULO SÉPTIMO. DE LOS DEBATES
 
 ###### ARTÍCULO 113.
 
@@ -1203,7 +1227,7 @@ Podrá votarse, en un solo acto, un proyecto de ley o decreto, en lo general, en
 
 Agotada la discusión y votación de los artículos en lo particular, el Presidente de la Mesa Directiva procederá a realizar la declaratoria correspondiente en lo general y de los que no fueron reservados.
 
-### CAPÍTULO NOVENO. ASUNTOS GENERALES
+### CAPÍTULO OCTAVO. DE LAS VOTACIONES
 
 ###### ARTÍCULO 130.
 
@@ -1271,7 +1295,7 @@ Si fuera necesario, el Presidente de la Mesa Directiva ordenará al Secretario d
 
 Los diputados tienen derecho a exigir que el sentido de su voto quede asentado en el acta.
 
-### CAPÍTULO DECIMO. DE LAS ACTAS
+### CAPÍTULO NOVENO. ASUNTOS GENERALES
 
 ###### ARTÍCULO 138.
 
@@ -1289,7 +1313,7 @@ Por ningún motivo podrán hacerse diálogos personales entre los diputados mien
 
 Para efectos del presente reglamento, se entiende por alusión personal en una asamblea deliberante, la mención del orador, del nombre, palabras, ideas o los hechos de un determinado legislador.
 
-### CAPÍTULO DÉCIMO PRIMERO. DE LA PUBLICACIÓN DE LOS ACTOS DEL CONGRESO
+### CAPÍTULO DECIMO. DE LAS ACTAS
 
 ###### ARTÍCULO 141.
 
@@ -1343,7 +1367,7 @@ VII. El sumario;
 
 VIII. Directorio de la legislatura y los responsables de la publicación.
 
-### CAPÍTULO DÉCIMO SEGUNDO. DE LAS FE DE ERRATAS
+### CAPÍTULO DÉCIMO PRIMERO. DE LA PUBLICACIÓN DE LOS ACTOS DEL CONGRESO
 
 ###### ARTÍCULO 144.
 
@@ -1405,7 +1429,7 @@ m) Datos biográficos, académicos y profesionales de los integrantes de la Legi
 
 La coordinación del contenido de la página del Congreso será responsabilidad de la Coordinación de Comunicación Social.
 
-### CAPÍTULO PRIMERO. PROCEDIMIENTO EN CASO DE OBSERVACIONES FORMULADAS POR EL GOBERNADOR DEL ESTADO
+### CAPÍTULO DÉCIMO SEGUNDO. DE LAS FE DE ERRATAS
 
 ###### ARTÍCULO 148.
 
@@ -1421,7 +1445,7 @@ El Presidente del Congreso, remitirá para su publicación correspondiente en el
 
 ## TÍTULO OCTAVO. DE LOS PROCEDIMIENTOS ESPECIALES
 
-### CAPÍTULO SEGUNDO. DE LA GLOSA DEL INFORME DE GOBIERNO
+### CAPÍTULO PRIMERO. PROCEDIMIENTO EN CASO DE OBSERVACIONES FORMULADAS POR EL GOBERNADOR DEL ESTADO
 
 ###### ARTÍCULO 151.
 
@@ -1429,7 +1453,7 @@ Una vez recibidas las observaciones a que se refieren los artículos 48 y 49 de 
 
 Dicho dictamen sólo podrá versar sobre las observaciones formuladas por el Ejecutivo del Estado.
 
-### CAPÍTULO PRIMERO. DE LOS ÓRGANOS ADMINISTRATIVOS DEL CONGRESO
+### CAPÍTULO SEGUNDO. DE LA GLOSA DEL INFORME DE GOBIERNO
 
 ###### ARTÍCULO 152.
 
@@ -1451,9 +1475,7 @@ Las conclusiones serán enviadas al Titular del Poder Ejecutivo.
 
 ## TÍTULO NOVENO. DE LA ESTRUCTURA ORGÁNICA DEL CONGRESO
 
-### CAPÍTULO SEGUNDO. DE LA SECRETARÍA DEL CONGRESO
-
-> <small>(REFORMADO, P.O. 11 DE JULIO DE 2009)</small>
+### CAPÍTULO PRIMERO. DE LOS ÓRGANOS ADMINISTRATIVOS DEL CONGRESO
 
 ###### ARTÍCULO 154.
 
@@ -1485,7 +1507,9 @@ En todo lo referente a la Auditoría Superior de Fiscalización, se estará a lo
 
 Los órganos administrativos del congreso, deberán presentar para su aprobación ante lo (sic) órgano de gobierno que le corresponda, las disposiciones administrativas que regularán su funcionamiento.
 
-### CAPÍTULO TERCERO. DE LA SECRETARÍA DE ADMINISTRACIÓN Y FINANZAS
+### CAPÍTULO SEGUNDO. DE LA SECRETARÍA DEL CONGRESO
+
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2009)</small>
 
 ###### ARTÍCULO 159.
 
@@ -1537,7 +1561,11 @@ Al entregar la información solicitada, la unidad administrativa correspondiente
 
 En caso de que la solicitud sea negativa, deberá de notificarse al solicitante.
 
-### CAPÍTULO CUARTO. DEL INSTITUTO DE INVESTIGACIONES LEGISLATIVAS
+> <small>(ADICIONADO, P.O. 12 DE ENERO DE 2011)</small>
+
+ARTÍCULO 162 bis.- Al término de cada Legislatura, la Secretaría de Servicios Legislativos y Parlamentarios deberá entregar al Instituto de Investigaciones Legislativas el archivo generado en el Congreso del Estado para su resguardo, el cual será en las instalaciones del propio Instituto.
+
+### CAPÍTULO TERCERO. DE LA SECRETARÍA DE ADMINISTRACIÓN Y FINANZAS
 
 ###### ARTÍCULO 163.
 
@@ -1577,7 +1605,7 @@ La Secretaría de Administración y Finanzas, llevará la contabilidad del ejerc
 
 El Secretario de Administración y Finanzas no podrá efectuar pago alguno que no esté autorizado por el Presidente de la Mesa Directiva.
 
-### CAPÍTULO QUINTO. DE LA DIRECCIÓN DE RADIO Y TELEVISIÓN
+### CAPÍTULO CUARTO. DEL INSTITUTO DE INVESTIGACIONES LEGISLATIVAS
 
 ###### ARTÍCULO 169.
 
@@ -1611,7 +1639,7 @@ V. El Periódico Oficial “Tierra y Libertad” Órgano Oficial del Gobierno de
 
 VI. Una suscripción al Diario Oficial de la Federación.
 
-### CAPÍTULO SEXTO. DE LA COORDINACIÓN DE COMUNICACIÓN SOCIAL
+### CAPÍTULO QUINTO. DE LA DIRECCIÓN DE RADIO Y TELEVISIÓN
 
 ###### ARTÍCULO 171.
 
@@ -1623,29 +1651,7 @@ II.- Coordinación de Televisión; y
 
 III.- Las unidades administrativas que se señalen en sus disposiciones administrativas internas de acuerdo con el presupuesto autorizado.
 
-### CAPÍTULO SÉPTIMO. DE LA DIRECCIÓN JURÍDICA
-
-> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2009)</small>
-
-ARTÍCULO 173 BIS.- La Dirección Jurídica es el órgano jurídico especializado del Congreso del Estado adscrito a la Secretaría del Congreso y dependiente de la Mesa Directiva, cuya función es la defensa del Poder Legislativo en los procesos jurídicos en los que éste sea parte, llevando a cabo sus actividades en forma programada y con base en los principios de integridad, honestidad, congruencia, eficacia, productividad y pertinencia.
-
-El titular de dicho Órgano será el Director Jurídico, quien dependerá en forma directa del Secretario del Congreso y de la Presidencia de la Mesa Directiva.
-
-> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2009)</small>
-
-ARTÍCULO 173 TER.- Para el buen desempeño de sus funciones la Dirección Jurídica tendrá las siguientes atribuciones:
-
-I. Expedir, previa autorización del Presidente de la Mesa Directiva, las certificaciones que se soliciten.
-
-II. Llevar a cabo actividades de prevención tendientes a evitar posibles conflictos jurídicos para el Congreso.
-
-III. Recibir las ratificaciones de escritos, denuncias y controversias que señalen las leyes como competencia del Congreso del Estado.
-
-IV. Brindar atención integral a procedimientos y procesos jurídicos en materia de amparo, laboral, burocrática, administrativa, civil, mercantil, penal, constitucional y demás áreas jurídicas en las que el Congreso sea parte.
-
-V. Asesorar, analizar y emitir, de acuerdo con los ordenamientos internos, opinión jurídica sobre las iniciativas, dictámenes, instrumentos jurídicos o cualquier otro documento que le sean requeridos por el Pleno, los Diputados de manera individual, las Comisiones, la Mesa Directiva, la Secretaría o los órganos internos del Congreso.
-
-VI. Las demás que de manera específica establezca la Ley Orgánica para el Congreso, su Reglamento y el Pleno del Congreso del estado le confieran.
+### CAPÍTULO SEXTO. DE LA COORDINACIÓN DE COMUNICACIÓN SOCIAL
 
 ###### ARTÍCULO 172.
 
@@ -1671,13 +1677,35 @@ La página de internet aludida en la fracción IV que antecede, no debe contener
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 26 DE AGOSTO DE 2009)</small>
 
-### CAPÍTULO PRIMERO
+### CAPÍTULO SÉPTIMO. DE LA DIRECCIÓN JURÍDICA
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2009)</small>
+
+ARTÍCULO 173 BIS.- La Dirección Jurídica es el órgano jurídico especializado del Congreso del Estado adscrito a la Secretaría del Congreso y dependiente de la Mesa Directiva, cuya función es la defensa del Poder Legislativo en los procesos jurídicos en los que éste sea parte, llevando a cabo sus actividades en forma programada y con base en los principios de integridad, honestidad, congruencia, eficacia, productividad y pertinencia.
+
+El titular de dicho Órgano será el Director Jurídico, quien dependerá en forma directa del Secretario del Congreso y de la Presidencia de la Mesa Directiva.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2009)</small>
+
+ARTÍCULO 173 TER.- Para el buen desempeño de sus funciones la Dirección Jurídica tendrá las siguientes atribuciones:
+
+I. Expedir, previa autorización del Presidente de la Mesa Directiva, las certificaciones que se soliciten.
+
+II. Llevar a cabo actividades de prevención tendientes a evitar posibles conflictos jurídicos para el Congreso.
+
+III. Recibir las ratificaciones de escritos, denuncias y controversias que señalen las leyes como competencia del Congreso del Estado.
+
+IV. Brindar atención integral a procedimientos y procesos jurídicos en materia de amparo, laboral, burocrática, administrativa, civil, mercantil, penal, constitucional y demás áreas jurídicas en las que el Congreso sea parte.
+
+V. Asesorar, analizar y emitir, de acuerdo con los ordenamientos internos, opinión jurídica sobre las iniciativas, dictámenes, instrumentos jurídicos o cualquier otro documento que le sean requeridos por el Pleno, los Diputados de manera individual, las Comisiones, la Mesa Directiva, la Secretaría o los órganos internos del Congreso.
+
+VI. Las demás que de manera específica establezca la Ley Orgánica para el Congreso, su Reglamento y el Pleno del Congreso del estado le confieran.
 
 ## TÍTULO DÉCIMO. DE LOS SERVIDORES PÚBLICOS DEL CONGRESO
 
-### CAPÍTULO I. DE LAS OBLIGACIONES
+### CAPÍTULO PRIMERO
 
-### CAPÍTULO SEGUNDO. DE LOS SECRETARIOS TECNICOS Y ASESORES
+### CAPÍTULO I. DE LAS OBLIGACIONES
 
 ###### ARTÍCULO 174.
 
@@ -1695,7 +1723,7 @@ V. Abstenerse de ostentar su calidad de servidor público del Congreso, en el de
 
 El incumplimiento a lo dispuesto en este artículo será sancionado de conformidad con la Ley de Responsabilidades de los Servidores Públicos del Estado el presente reglamento y las Condiciones General (sic) de Trabajo.
 
-### CAPÍTULO UNICO
+### CAPÍTULO SEGUNDO. DE LOS SECRETARIOS TECNICOS Y ASESORES
 
 ###### ARTÍCULO 175.
 
@@ -1745,7 +1773,7 @@ CAPÍTULO TECERO (SIC)
 
 DE LOS EX DIPUTADOS
 
-### CAPÍTULO ÚNICO. DE SU ELABORACIÓN
+### CAPÍTULO UNICO
 
 ###### ARTÍCULO 177.
 
@@ -1763,7 +1791,7 @@ El Congreso a través de la Secretaría del Congreso, llevará un libro de regis
 
 ## TÍTULO DÉCIMO PRIMERO. DEL PÚBLICO ASISTENTE A LAS SESIONES
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO ÚNICO. DE SU ELABORACIÓN
 
 ###### ARTÍCULO 180
 
@@ -1786,6 +1814,8 @@ Si las medidas indicadas en el artículo anterior no fueren suficientes para man
 Lo mismo se hará cuando las medidas adoptadas no sean suficientes para restablecer el orden alterado por los miembros del Congreso.
 
 ## TÍTULO DÉCIMO SEGUNDO. DEL PRESUPUESTO
+
+### CAPÍTULO ÚNICO
 
 ###### ARTÍCULO 184.
 
@@ -1968,3 +1998,11 @@ La presente reforma entrará en vigor el mismo día de su aprobación por el Ple
 ###### ARTÍCULO SEGUNDO.
 
 Remítase la presente reforma al Titular del Poder Ejecutivo del Estado, para su publicación inmediata en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos, para su divulgación.
+
+P.O. 12 DE ENERO DE 2011.
+
+Primero.- Aprobado que sea el presente decreto, túrnese al Ejecutivo para su publicación inmediata en el Periódico Oficial "Tierra y Libertad", órgano oficial de difusión del Gobierno del Estado de Morelos.
+
+Segundo.- Aprobado que sea el presente, remítase a la Secretaría General del Congreso del Estado para su publicación en la Gaceta Legislativa.
+
+Tercero.- El presente decreto entrará en vigor el mismo día de su aprobación por el Pleno del Congreso del Estado de Morelos.
