@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-del-poder-judicial-del-estado-de-tamaulipas-19678"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-19"
-last_updated: "2010-12-23"
+last_updated: "2011-01-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19678&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "TAM"
 ---
 # LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE TAMAULIPAS
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 13 DE ENERO DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE TAMAULIPAS
 
 ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 2010.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 13 DE ENERO DE 2011.</small>
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 19 de diciembre de 2000.
 
@@ -179,11 +179,7 @@ Durante los días inhábiles deberán dejarse guardias que atiendan los término
 
 ## TITULO SEGUNDO. DE LA RESIDENCIA Y ORGANIZACION TERRITORIAL
 
-### CAPITULO UNICO
-
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 13 DE ENERO DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA, ASÍ COMO EL ARCHIVO ANEXO.</small>
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+### CAPITULO UNICO. (REFORMADO PRIMER PARRAFO, P.O. 21 DE DICIEMBRE DE 2010) (F. DE E., P.O. 13 DE ENERO DE 2011)
 
 ###### ARTICULO 6º.
 
@@ -219,7 +215,7 @@ X.- Los demás que los que la ley les confiera dicho carácter.
 
 ###### ARTICULO 9º.
 
-El Supremo Tribunal de Justicia residirá oficialmente en la capital del Estado. Las Salas Regionales, residirán en Reynosa, Victoria y Altamira. La de Reynosa, ejercerá jurisdicción sobre los siguientes Distritos: Tercero, Cuarto, Quinto, Sexto, Décimo Primer, Décimo Tercer y Décimo Cuarto; la de Victoria en los Distritos Primero, Noveno, Décimo, y Décimo Segundo; y, la de Altamira, en los Distritos Segundo, Séptimo y Décimo Quinto. Los Jueces de Primera Instancia tendrán su residencia oficial en las cabeceras de sus respectivos distritos judiciales, los Jueces Menores y los de Paz residirán en las cabeceras municipales respectivas.
+El Supremo Tribunal de Justicia residirá oficialmente en la capital del Estado. Las Salas Regionales, residirán en Reynosa, Victoria y Altamira. La de Reynosa, ejercerá jurisdicción sobre los siguientes Distritos: Tercero, Cuarto, Quinto, Sexto, Décimo Primer, Décimo Tercer y Décimo Cuarto; la de Victoria en los Distritos Primero, Noveno, Décimo, y Décimo Segundo; y, la de Altamira, en los Distritos Segundo, Séptimo, Octavo y Décimo Quinto. Los Jueces de Primera Instancia tendrán su residencia oficial en las cabeceras de sus respectivos distritos judiciales, los Jueces Menores y de Paz residirán en las cabeceras municipales respectivas.
 
 > <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
 
@@ -629,8 +625,6 @@ X.- Imponer a su personal, así como a Jueces, Secretarios y demás servidores p
 
 XI.- Ejercer las demás atribuciones que le asigne esta ley y los acuerdos generales del Pleno del Supremo Tribunal.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 13 DE ENERO DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA, ASÍ COMO EL ARCHIVO ANEXO.</small>
-
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE MAYO DE 2008)</small>
 
 ###### ARTICULO 27.
@@ -661,9 +655,9 @@ La Sala Especializada en Justicia para Adolescentes atenderá las cuestiones rel
 
 Las Salas Colegiadas y las Salas Unitarias, conservarán jurisdicción mixta para conocer de aquellos asuntos en que se excusen o sean recusados los Magistrados que las integren.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010) (F. DE E., P.O. 13 DE ENERO DE 2011)
 
-Las Salas Regionales conocerán en segunda instancia de apelaciones contra autos, resoluciones interlocutorias y sentencias dictadas por jueces menores en dicha materia penal, en términos del Código de Procedimientos Penales para el Estado.
+Las Salas Regionales conocerán en segunda instancia de apelaciones contra autos y resoluciones interlocutorias en materia penal, además conocerán de las apelaciones contra sentencias dictadas por jueces menores en dicha materia, en términos del Código de Procedimientos Penales para el Estado.
 
 > <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2007)</small>
 
