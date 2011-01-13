@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-insumos-para-la-salud-11369"
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-02-04"
-last_updated: "2010-08-17"
+last_updated: "2011-01-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11369&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1998-02-03"
 
 REGLAMENTO DE INSUMOS PARA LA SALUD
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE AGOSTO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE ENERO DE 2011.
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 4 de febrero de 1998.
 
@@ -383,11 +383,15 @@ La destrucción o inactivación de los Insumos se realizará conforme a la Norma
 
 ### Capítulo II. Productos biológicos y hemoderivados
 
+> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 2011)</small>
+
 ###### ARTÍCULO 43.
 
-Para la distribución o venta de los productos de origen biológico y hemoderivados de fabricación nacional o extranjera, se requiere que cada lote sea previamente autorizado con base en los resultados analíticos emitidos por la Secretaría o por un Tercero Autorizado de acuerdo con la Norma correspondiente, con excepción de los productos provenientes de los lisados bacterianos y de las preparaciones microbianas para uso oral no inmunológico.
+Para la distribución o venta de los productos de origen biológico y hemoderivados de fabricación nacional o extranjera, se requiere que cada lote sea previamente autorizado con base en los resultados analíticos emitidos por la Secretaría o por un Tercero Autorizado, de acuerdo con las disposiciones jurídicas aplicables, con excepción de los productos provenientes de los lisados bacterianos y de las preparaciones microbianas para uso oral no inmunológico.
 
-Para obtener la autorización que se menciona en el párrafo anterior, el solicitante deberá solicitarla por medio del formato que para tal efecto emita la Secretaría, la cual tendrá diez días para resolver la solicitud, una vez recibidos los resultados del laboratorio.
+Para obtener la autorización que se menciona en el párrafo anterior, el solicitante deberá formular su petición por medio del formato que para tal efecto emita la Secretaría y que se publique en el Diario Oficial de la Federación, la cual tendrá diez días para resolver la solicitud, una vez recibidos los resultados del laboratorio.
+
+La Comisión Federal para la Protección contra Riesgos Sanitarios podrá autorizar la distribución o venta de los productos a que se refiere este artículo de manera simplificada, con base en los lineamientos que al efecto expida la Secretaría, en términos de las disposiciones jurídicas aplicables, en los cuales se deberán contemplar aspectos que permitan minimizar el riesgo a la salud, y que deberán publicarse en el Diario Oficial de la Federación.
 
 ### Capítulo III. Estupefacientes y psicotrópicos
 
@@ -2274,3 +2278,11 @@ TERCERO.- Las erogaciones que, en su caso, se requieran para dar cumplimiento a 
 D.O.F. 17 DE AGOSTO DE 2010.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 13 DE ENERO DE 2011.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de Federación.
+
+SEGUNDO. El procedimiento de autorización simplificado a que se refiere el párrafo tercero del artículo 43 del Reglamento, será aplicable una vez que se expidan los lineamientos a que hace referencia dicho numeral.
+
+TERCERO. Los asuntos en trámite a la entrada en vigor del presente Decreto, se atenderán hasta su conclusión, conforme a las disposiciones vigentes al momento de su inicio.
