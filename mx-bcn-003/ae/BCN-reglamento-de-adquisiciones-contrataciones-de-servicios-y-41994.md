@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-adquisiciones-contrataciones-de-servicios-y-41994
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-12-03"
-last_updated: "2004-12-03"
+last_updated: "2011-01-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41994&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE ADQUISICIONES, CONTRATACIONES DE SERVICIOS Y ARRENDAMIENTOS PARA EL MUNICIPIO DE TECATE, BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE ENERO DE 2011.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 03 de diciembre de 2004.
 
@@ -201,7 +201,9 @@ I) Para la Administracion Municipal Centralizada:
 
 4. El Sindico Procurador.
 
-5. El Regidor Coordinador de la Comisión de Administración.
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2011)</small>
+
+5. El Regidor Coordinador y el Regidor Secretario de la Comisión de Hacienda y Administración Pública.
 
 6. El Jefe del Departamento de Recursos Materiales.
 
@@ -788,3 +790,11 @@ SUFRAGIO EFECTIVO, NO REELECCIÓN
 EL SECRETARIO MUNICIPAL
 
 LIC. ROBERTO RODRÍGUEZ VALENZUELA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 14 DE ENERO DE 2011.
+
+PRIMERO.- La presente Reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Publíquese el presente Acuerdo en el Periódico Oficial del Estado de Baja California.
