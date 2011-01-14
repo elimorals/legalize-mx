@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-egresos-del-estado-de-nuevo-leon-para-el-ano-2011-78336"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-24"
-last_updated: "2010-12-24"
+last_updated: "2011-01-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78336&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE EGRESOS DEL ESTADO DE NUEVO LEON PARA EL AÑO 2011
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE ENERO DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 24 de diciembre de 2010.
 
@@ -903,6 +903,8 @@ Para la determinación de los aumentos en los salarios y percepciones antes menc
 
 Para efectos de la percepción salarial mensual de los demás servidores públicos durante el ejercicio 2011, se aprueban los Tabuladores de Remuneraciones 2011, de los Poderes Legislativo, Ejecutivo y Judicial, como anexos I, II y III, respectivamente.
 
+> <small>N. DE E. VEASE ANEXOS EN EL P.O. DE 14 DE ENERO DE 2011, PAGINAS DE LA 6 A LA 15.</small>
+
 ###### ARTÍCULO TERCERO.
 
 El 20% de las cantidades que perciba el Estado durante el ejercicio 2011, por concepto de la participación federal que en los términos de la Ley de Coordinación Fiscal reciba el Estado por los adeudos del impuesto federal sobre tenencia o uso de vehículos, se distribuirán entre los municipios del Estado en los términos de los incisos 1, 2 y 3 del artículo 4º de la presente Ley.
@@ -928,3 +930,9 @@ EL C. SECRETARIO DE FINANZAS Y TESORERO GENERAL DEL ESTADO
 ALFREDO GERARDO GARZA DE LA GARZA
 
 LA PRESENTE HOJA DE FIRMAS CORRESPONDE A LA PROMULGACIÓN DEL DECRETO NÚM. 149 EXPEDIDO POR EL H. CONGRESO DEL ESTADO, LXXII LEGISLATURA, EN FECHA 17 DE DICIEMBRE DE 2010, REMITIDO AL PODER EJECUTIVO EL DÍA 20 DE DICIEMBRE DE 2010
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 14 DE ENERO DE 2011.
+
+EL ALCANCE CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL VIGENTE.
