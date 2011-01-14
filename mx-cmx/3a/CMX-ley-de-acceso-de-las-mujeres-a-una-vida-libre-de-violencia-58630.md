@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5863
 country: "mx"
 rank: "ley"
 publication_date: "2008-01-29"
-last_updated: "2010-07-29"
+last_updated: "2011-01-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58630&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2007-12-20"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 29 DE JULIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 14 DE ENERO DE 2011.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 29 de enero de 2008.
 
@@ -96,17 +96,33 @@ XIII. Procuraduría: La Procuraduría General de Justicia del Distrito Federal;
 
 XIV. Red de información de violencia contra las mujeres: El sistema de recolección, procesamiento y clasificación de la información producida por las dependencias y entidades señaladas en esta Ley;
 
-XV. Tipos de violencia: Los distintos daños que puede ocasionar la violencia contra las mujeres;
+> <small>(REFORMADA, G.O. 14 DE ENERO DE 2011)</small>
 
-XVI. Tribunal: El Tribunal Superior de Justicia del Distrito Federal;
+XV. Refugios Especializados. Las estancias del Gobierno del Distrito Federal, específicamente creadas para la atención de víctimas de trata de personas;
 
-XVII. Unidades de Atención: Las Unidades de Atención y Prevención de la Violencia Familiar de la Dirección de Igualdad;
+> <small>(REFORMADA, G.O. 14 DE ENERO DE 2011)</small>
 
-XVIII. Víctima: La mujer de cualquier edad que sufra algún tipo de violencia;
+XVI. Tipos de violencia: Los distintos daños que puede ocasionar la violencia contra las mujeres;
 
-XIX. Víctima indirecta: familiares de la víctima y/o personas que tengan o hayan tenido relación o convivencia con la misma y que sufran, hayan sufrido o se encuentren en situación de riesgo por motivo de la violencia ejercida contra las mujeres;
+> <small>(REFORMADA, G.O. 14 DE ENERO DE 2011)</small>
 
-XX. Violencia contra las mujeres: Toda acción u omisión que, basada en su género y derivada del uso y/o abuso del poder, tenga por objeto o resultado un daño o sufrimiento físico, psicológico, patrimonial, económico, sexual o la muerte a las mujeres, tanto en el ámbito público como privado, que limite su acceso a una vida libre de violencia.
+XVII. Tribunal: El Tribunal Superior de Justicia del Distrito Federal;
+
+> <small>(REFORMADA, G.O. 14 DE ENERO DE 2011)</small>
+
+XVIII. Unidades de Atención: Las Unidades de Atención y Prevención de la Violencia Familiar de la Dirección de Igualdad;
+
+> <small>(REFORMADA, G.O. 14 DE ENERO DE 2011)</small>
+
+XIX. Víctima: La mujer de cualquier edad que sufra algún tipo de violencia;
+
+> <small>(REFORMADA, G.O. 14 DE ENERO DE 2011)</small>
+
+XX. Víctima indirecta: familiares de la víctima y/o personas que tengan o hayan tenido relación o convivencia con la misma y que sufran, hayan sufrido o se encuentren en situación de riesgo por motivo de la violencia ejercida contra las mujeres;
+
+> <small>(ADICIONADA, G.O. 14 DE ENERO DE 2011)</small>
+
+XXI. Violencia contra las mujeres: Toda acción u omisión que, basada en su género y derivada del uso y/o abuso del poder, tenga por objeto o resultado un daño o sufrimiento físico, psicológico, patrimonial, económico, sexual o la muerte a las mujeres, tanto en el ámbito público como privado, que limite su acceso a una vida libre de violencia;
 
 ###### Artículo 4.
 
@@ -128,7 +144,9 @@ Las mujeres víctimas de cualquier tipo de violencia tendrán los derechos sigui
 
 I. Ser tratadas con respeto a su integridad y el ejercicio pleno de sus derechos;
 
-II. Contar con protección inmediata y efectiva por parte de las autoridades cuando se encuentre en riesgo su seguridad;
+> <small>(REFORMADA, G.O. 14 DE ENERO DE 2011)</small>
+
+II. Contar con protección inmediata y efectiva por parte de las autoridades cuando se encuentre en riesgo su integridad física o psicológica, la libertad o seguridad de la víctima o de las víctimas indirectas;
 
 III. Recibir información veraz y suficiente que les permita decidir sobre las opciones de atención;
 
@@ -136,11 +154,21 @@ IV. Contar con asesoría y representación jurídica gratuita y expedita;
 
 V. Recibir información, atención y acompañamiento médico y psicológico;
 
-VI. Acudir y ser recibidas con sus hijas e hijos, en los casos de violencia familiar, en las Casas de Emergencia y los Centros de Refugio destinados para tal fin;
+> <small>(REFORMADA, G.O. 14 DE ENERO DE 2011)</small>
+
+VI. Acudir y ser recibidas con sus hijas e hijos, en los casos de violencia familiar, en las Casas de Emergencia y los Centros de Refugio destinados para tal fin. Cuando se trate de víctimas de trata de personas, las mujeres recibirán atención integral con sus hijas e hijos en Refugios Especializados;
 
 VII. Ser valoradas y educadas libres de estereotipos de comportamiento y prácticas sociales y culturales basadas en conceptos de inferioridad o subordinación;
 
 VIII. Acceder a procedimientos expeditos y accesibles de procuración y administración de justicia.
+
+> <small>(ADICIONADA, G.O. 14 DE ENERO DE 2011)</small>
+
+IX. Recibir información en su idioma o lengua materna sobre sus derechos y el progreso de los trámites judiciales y administrativos;
+
+> <small>(ADICIONADA, G.O. 14 DE ENERO DE 2011)</small>
+
+X. A la protección de su identidad y la de su familia.
 
 ## TITULO SEGUNDO. TIPOS Y MODALIDADES DE VIOLENCIA CONTRA LAS MUJERES
 
@@ -674,7 +702,9 @@ III. De acceso a la justicia, el cual será coordinado por la Procuraduría.
 
 El Reglamento de la presente Ley establecerá el funcionamiento de la Comisión Interinstitucional en cuanto al seguimiento y evaluación de la presente Ley.
 
-### CAPÍTULO V. DE LAS CASAS DE EMERGENCIA Y CENTROS DE REFUGIO PARA MUJERES VÍCTIMAS DE VIOLENCIA
+> <small>(REFORMADA SU DENOMINACION, G.O. 14 DE ENERO DE 2011)</small>
+
+### CAPÍTULO V. DE LAS CASAS DE EMERGENCIA, CENTROS DE REFUGIO Y REFUGIOS ESPECIALIZADOS PARA MUJERES VÍCTIMAS DE VIOLENCIA
 
 ###### Artículo 49.
 
@@ -687,6 +717,26 @@ Podrá ingresar a las Casas de Emergencia, cualquier mujer, sin importar su cond
 Los Centros de Refugio son lugares temporales de seguridad para la víctima y víctimas indirectas que funcionarán las 24 horas del día, los 365 días del año.
 
 La permanencia en los Centros de Refugio se dará en tanto subsista la inestabilidad física y/o psicológica, o bien subsista el riesgo para la víctima directa y las víctimas indirectas.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 14 DE ENERO DE 2011)</small>
+
+###### Artículo 50 Bis.
+
+Los Refugios Especializados son estancias del Gobierno del Distrito Federal específicamente creadas para víctimas de trata de personas, en las que se brindarán las condiciones para garantizar el respeto a los derechos humanos de las víctimas, su alojamiento por el tiempo necesario, asistencia médica especializada, jurídica, psiquiátrica y psicológica, capacitación para su integración social y laboral, alimentación y los cuidados mínimos que cubran las necesidades particulares de las víctimas y las víctimas indirectas, los cuales funcionarán de forma permanente.
+
+La internación en Refugios Especializados se hará como medida de protección temporal cuando la restitución o reinserción de la víctima a su núcleo familiar no sea posible, o se considere desfavorable.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 14 DE ENERO DE 2011)</small>
+
+###### Artículo 50 Ter.
+
+Los Refugios Especializados estarán a cargo de la Procuraduría General de Justicia del Distrito Federal, la cual deberá incluir en su anteproyecto de presupuesto de egresos del Distrito Federal de cada ejercicio fiscal los recursos necesarios para la operación de éstos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 14 DE ENERO DE 2011)</small>
+
+###### Artículo 50 Quater.
+
+Para brindar los servicios y atención a las víctimas de trata de personas, los Refugios Especializados estarán a lo dispuesto en los artículos 51 y 52 de la Ley, así como a las medidas de protección de las víctimas y al Programa que refiere la Ley para Prevenir y Erradicar la Trata de Personas, el abuso sexual y la explotación sexual comercial infantil para el Distrito Federal.
 
 ###### Artículo 51.
 
@@ -721,6 +771,12 @@ VII. Dormitorios con camas individuales o espacios para una familia integrada po
 VIII. Seguridad en el acceso a las instalaciones; y
 
 IX. Personal capacitado que apliquen las Normas Oficiales Mexicanas relativas y vigentes a este tipo de centros de atención.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 14 DE ENERO DE 2011)</small>
+
+###### Artículo 52 Bis.
+
+En todos los casos se garantizará que la estancia en las Casas de Emergencia, Centros de Refugio o Refugios Especializados sea voluntaria y se procurará que en la canalización a estos espacios la familia no sea separada.
 
 ###### Artículo 53.
 
@@ -983,3 +1039,13 @@ En cumplimiento de lo dispuesto por los artículos 122, apartado C, base segunda
 G.O. 29 DE JULIO DE 2010.
 
 ÚNICO.- El Presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 14 DE ENERO DE 2011.
+
+PRIMERO.- Túrnese el presente Decreto al Jefe de Gobierno del Distrito Federal, para su promulgación y debido cumplimiento.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO.- El Jefe de Gobierno del Distrito Federal incluirá en el proyecto de presupuesto de egresos que envíe a este órgano legislativo en cada ejercicio fiscal, las previsiones necesarias que permitan contar con un Centro de Refugio para la atención de violencia familiar en las zonas de mayor incidencia del Distrito Federal, en un plazo que no excederá de ocho años, a partir de la aprobación de la presente reforma.
+
+CUARTO.- Publíquese en la Gaceta Oficial del Distrito Federal para su debida observancia y publicación y para su mayor difusión publíquese en el Diario Oficial de la Federación.
