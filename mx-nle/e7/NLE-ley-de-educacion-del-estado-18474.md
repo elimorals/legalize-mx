@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-educacion-del-estado-18474"
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-16"
-last_updated: "2008-12-19"
+last_updated: "2011-01-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18474&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE EDUCACION DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE ENERO DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 16 de octubre de 2000.
 
@@ -173,13 +173,17 @@ XVI.- Desarrollar armónicamente la formación humanista, científica y tecnoló
 
 XVII.- Preparar para la vida acorde a las necesidades actuales y futuras, impulsando y facilitando la adquisición de la cultura informática y las variadas formas de los lenguajes matemático, simbólico y artístico, incluyendo los idiomas extranjeros más usuales que demanda el entorno social, cultural y laboral de la entidad;
 
-> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2008)</small>
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 2011)</small>
 
-XVIII.- Promover además del conocimiento acerca de la entidad y el país, la adquisición de una visión global del mundo; y
+XVIII.- Promover además del conocimiento acerca de la Entidad y el País, la adquisición de una visión global del mundo;
 
-(ADICIONADA, P.O. 20 DE JUNIO DE 2008) (F. DE E., P.O. 2 DE JULIO DE 2008)
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 2011)</small>
 
-XIX.- Contribuir a la información, prevención, combate y erradicación sobre los efectos nocivos del tabaquismo, drogadicción, alcoholismo y otras enfermedades y adicciones de impacto sociocultural; a fin de que tomen conciencia de los daños que causan a la salud, al bienestar social, moral y económico de las personas.
+XIX.- Contribuir a la información, prevención, combate y erradicación sobre los efectos nocivos del tabaquismo, drogadicción, alcoholismo y otras enfermedades y adicciones de impacto sociocultural; a fin de que tomen conciencia de los daños que causan a la salud, al bienestar social, moral y económico de las personas; e
+
+> <small>(ADICIONADA, P.O. 14 DE ENERO DE 2011)</small>
+
+XX.- Impartir la enseñanza del idioma inglés, en los programas establecidos para el nivel de Educación Básica.
 
 ###### Artículo 8.
 
@@ -331,9 +335,19 @@ VII.- Coordinar sus actividades con otras entidades federativas con el propósit
 
 VIII.- Evaluar el sistema estatal de manera sistemática y permanente, a fin de identificar las necesidades del servicio educativo, acorde a los lineamientos generales de evaluación que la autoridad educativa federal determine;
 
-IX.- Establecer y mantener actualizado un registro estatal de los educandos y maestros, títulos académicos y establecimientos educativos que forman parte del sistema educativo estatal; y
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 2011)</small>
 
-X.- Las necesarias para garantizar el carácter nacional de la educación básica, la normal y demás para la formación de maestros de educación básica que establezca esta Ley y otras disposiciones aplicables.
+IX.- Establecer y mantener actualizado un registro estatal de los educandos y maestros, títulos académicos y establecimientos educativos que forman parte del sistema educativo estatal;
+
+> <small>(ADICIONADA, P.O. 14 DE ENERO DE 2011)</small>
+
+X.- Ofrecer, en coordinación con la Secretaría Estatal de Salud, orientación y capacitación a los alumnos, padres de familia, tutores o quienes ejerzan la patria potestad, así como al personal que labore en los centros educativos con el objeto de promover la cultura de una alimentación sana y nutritiva;
+
+> <small>(ADICIONADA, P.O. 14 DE ENERO DE 2011)</small>
+
+XI.- Reglamentar la venta o consumo de alimentos en los establecimientos de consumo escolar o en lugares donde ésta se realice, dentro de los planteles de educación básica, eliminando los alimentos con bajo o nulo valor nutricional, así como realizar la inspección y vigilancia, para dar cumplimiento a esta medida; y
+
+XII.- Las necesarias para garantizar el carácter nacional de la educación básica, la normal y demás para la formación de maestros de educación básica que establezca esta Ley y otras disposiciones aplicables.
 
 ###### Artículo 22.
 
@@ -361,9 +375,7 @@ IX.- Ofrecer orientación y apoyo a los padres y madres de familia, tutores o qu
 
 X.- Fomentar las relaciones internacionales en materia de intercambio, investigación, cooperación educativa, científica, tecnológica, artística, cultural, educación física y deportiva;
 
-> <small>(ADICIONADA, P.O. 11 DE ENERO DE 2008)</small>
-
-XI.- Ofrecer orientación y capacitación a los alumnos, padres y madres de familia, tutores o quienes ejerzan la patria potestad, así como al personal que labore en los centros educativos con el objetivo de promover la cultura de una alimentación sana y nutritiva;
+XI.- (DEROGADA, P.O. 14 DE ENERO DE 2011)
 
 XII.- Vigilar el cumplimiento de esta Ley y de sus disposiciones reglamentarias; y
 
@@ -1195,11 +1207,15 @@ XI.- Ostentarse como plantel incorporado sin contar con la autorización o recon
 
 XII.- Incumplir con lo dispuesto en el Artículo 113 de esta Ley;
 
-> <small>(REFORMADA, P.O. 11 DE ENERO DE 2008)</small>
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 2011)</small>
 
-XIII.- Impartir la educación preescolar, primaria, secundaria, la normal y demás para la formación de maestros y maestras de educación básica, sin contar con la autorización correspondiente; e
+XIII.- Impartir la educación preescolar, primaria, secundaria, la normal y demás para la formación de maestros y maestras de educación básica, sin contar con la autorización correspondiente;
 
-XIV.- Incumplir cualesquiera de los demás preceptos de esta Ley, así como las disposiciones reglamentarias que de ella se deriven.
+> <small>(ADICIONADA, P.O. 14 DE ENERO DE 2011)</small>
+
+XIV.- Permitir la venta de alimentos de bajo o nulo valor nutricional, en las escuelas de nivel básico; e
+
+XV.- Incumplir cualesquiera de los demás preceptos de esta Ley, así como las disposiciones reglamentarias que de ella se deriven.
 
 Las disposiciones de este Artículo no son aplicables a los trabajadores de la educación, en virtud de que, las infracciones en que incurran serán sancionadas conforme a las disposiciones específicas para ellos.
 
@@ -1358,5 +1374,9 @@ Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de s
 Artículo Segundo.- Los Centros o los Programas Educativos Especializados señalados en el Artículo 49, deberán iniciar operaciones a partir del inicio del ciclo escolar 2009 - 2010, o sujeto a la disponibilidad presupuestal conforme a la Ley de Egresos de ese año.
 
 P.O. 19 DE DICIEMBRE DE 2008.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE ENERO DE 2011.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
