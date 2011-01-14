@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-otorgar-premios-reconocimientos-y-estimulos-418
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-10-27"
-last_updated: "2004-10-27"
+last_updated: "2011-01-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41886&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO PARA OTORGAR PREMIOS, RECONOCIMIENTOS Y ESTIMULOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE ENERO DE 2011.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 27 de octubre de 2004.
 
@@ -39,11 +39,11 @@ Que las sociedades humanas de todas las latitudes, a través del tiempo, han imp
 
 Reglamento para otorgar Premios, Reconocimientos y Estímulos
 
-> <small>(F. DE E., P.O. 12 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2011)</small>
 
 ###### ARTÍCULO 1.
 
-El presente Reglamento es de Orden Público e Interés Social y tiene por objeto regular los Premios, Reconocimientos y Estímulos que otorga la Administración Pública Municipal, a quienes se hayan destacado en el Ámbito Social, Académico, Científico, Profesional, Artístico, Administrativo, Deportivo, Laboral, Mercantil, Industrial, etc.; o que, en el cumplimiento del deber hayan ido mas allá de donde están obligados a hacerlo, con evidente beneficio de otro.
+El presente Reglamento es de Orden Público e Interés Social y tiene por objeto regular los Premios. Reconocimientos y Estimulos Económicos que otorga la Administración Pública Municipal, a quienes se hayan destacado en el Ámbito Social. Académico, Científico, Profesional, Artístico, Administrativo, Deportivo, Laboral, Mercantil, Industrial, etc.; o que, en el cumplimiento del deber hayan ido más allá de donde están obligados a hacerlo, con evidente beneficio de otro.
 
 > <small>(F. DE E., P.O. 12 DE NOVIEMBRE DE 2004)</small>
 
@@ -55,7 +55,9 @@ a) Premio, al acto mediante el cual la Administración Municipal galardona a qui
 
 b) Reconocimiento, el acto mediante el cual la Autoridad Municipal distingue públicamente el merito que se le otorga a quien observe una conducta sobresaliente en el desempeño de su actividad en alguno de los ámbitos citados en el Articulo 1.
 
-c) Estímulo, al acto mediante el cual la Autoridad Municipal expresa una distinción a un Servidor Público por la conducta observada, cuando esta haya trascendido mas allá del cumplimiento de su deber.
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2011)</small>
+
+c) Estímulo Económico, al acto mediante el cual la Autoridad Municipal expresa una distinción a un Servidor Público por la conducta observada, cuando esta haya trascendido mas allá del cumplimiento de su deber. Así como cualquier ciudadano Santacatarinense que se haya destacado en los ámbitos señalados en el artículo 1 del presente reglamento.
 
 > <small>(F. DE E., P.O. 12 DE NOVIEMBRE DE 2004)</small>
 
@@ -69,23 +71,21 @@ El R. Ayuntamiento de Santa Catarina, ha decidido otorgar el premio “Medalla a
 
 La medalla al merito “Capitán Lucas García” deberá considerarse por su diseño, especificaciones y contenido, como propiedad exclusiva de la Administración Municipal de Santa Catarina Nuevo León, misma que se reserva los derechos que por esto le corresponda.
 
-> <small>(F. DE E., P.O. 12 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2011)</small>
 
 ###### ARTÍCULO 5.
 
-La Medalla al Mérito que otorga la Administración Municipal a los habitantes distinguidos, se elaborará en Plata Ley 0.925, y tendrá un diámetro de 4 cm, un espesor de 4 mm, por el anverso una Leyenda que diga: Medalla al Mérito Capitán Lucas García y la efigie realzada del Capitán; por el reverso el Escudo del Municipio de Santa Catarina, con la mención del período Gubernamental en vigor y la leyenda Gobierno Municipal Santa Catarina, en el hemiciclo superior y dos ramas de olivo en sentido divergente adornando la parte inferior.
+La Medalla al Mérito que otorga la Administración Municipal a los habitantes distinguidos, se elaborara en Plata Ley 0.925, y tendrá un diámetro de 4 cm, un espesor de 4mm, por el anverso una Leyenda que diga: Medalla al Mérito Capitán Lucas García y la efigie realzada del Capitán; por el reverso el Escudo del Municipio de Santa Catarina, con la mención del período Gubernamental en vigor y la leyenda Gobierno Municipal Santa Catarina, en el hemiciclo superior y dos ramas de olivo en sentido divergente adornando la parte inferior.
 
-El Reconocimiento se elaborará en pergamino, con una leyenda que diga en la parte superior, Gobierno Municipal de Santa Catarina, el período por el cual funja; Reconocimiento en honor a las virtudes cívicas del ciudadano, en donde se asentará el nombre del recipiendario y las razones por las cuales se haya otorgado; Santa Catarina, N. L., la fecha y las firmas del Presidente Municipal y el Secretario del Ayuntamiento.
+El Reconocimiento se elaborará en pergamino, con una leyenda que diga en la parte superior, Gobierno Municipal de Santa Catarina, el período por el cual funja; Reconocimiento en honor a las virtudes civicas del ciudadano, en donde se asentará el nombre del recipiendario y las razones por las cuales se haya otorgado; Santa Catarina, N. L., la fecha y las firmas del Presidente Municipal y el Secretario del Ayuntamiento.
 
-Los Estímulos consistirán en ascensos en la jerarquía del servidor o, recompensa en efectivo por los días, que, a juicio del Comité de Premiación correspondan, de acuerdo con la conducta observada y su trascendencia más allá del deber.
+Los Estímulos Económicos consistirán en ascensos en la jerarquía del servidor, recompensa en efectivo por los días que, a juicio del Comité de Premiación correspondan, de acuerdo con la conducta observada y su trascendencia más allá del deber; o bien de 30-treinta a 50-cincuenta cuotas según lo determine el Comité competente, a cualquier ciudadano Santacatarinense que se haya destacado en los ámbitos señalados en el artículo 1 del presente Reglamento.
 
-> <small>(F. DE E., P.O. 12 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2011)</small>
 
 ###### ARTÍCULO 6.
 
-El Presidente Municipal designara en el mes de Enero de cada año, un Comité para otorgar premios o reconocimientos y estímulos a quienes tengan los merecimientos, sean propuestos por la población y cumplan con los requisitos establecidos en este Reglamento.
-
-El comité estará formado por cinco ciudadanos de Santa Catarina, distinguidos por su trayectoria de honradez y participación cívica, además de los miembros de la Comisión de Educación y Cultura del Ayuntamiento y será presidido por el Secretario del Ayuntamiento; actuará como Secretario Técnico el Presidente de la Comisión de Educación y Cultura. Los acuerdos del Comité serán validos cuando se encuentren reunidos la mayoría de sus miembros, según convocatoria expedida por el Secretario del Ayuntamiento.
+El Presidente Municipal designara en el mes de Enero de cada año, un Comité para otorgar premios o reconocimientos y estímulos económicos a quienes tengan los merecimientos y sean propuestos por la población y cumplan con los requisitos establecidos en este Reglamento.
 
 > <small>(F. DE E., P.O. 12 DE NOVIEMBRE DE 2004)</small>
 
@@ -111,17 +111,17 @@ El Comité sesionara en el lugar que fije la convocatoria expedida por su Presid
 
 El Comité convocara a la Ciudadanía para que presente a la Secretaría Técnica las Candidaturas para la obtención de Premios y Reconocimientos a través de los medios de comunicación que estime pertinentes. Las propuestas de candidatos al Premio y Reconocimiento serán escritas, por cuadruplicado y deberán entregarse a mas tardar el día ultimo del mes de Octubre, en ellas se incluirá un perfil biográfico del candidato propuesto y la descripción de las conductas o hechos que acrediten los méritos para recibir el Premio o el Reconocimiento, adjuntando las pruebas justificantes.
 
-> <small>(F. DE E., P.O. 12 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2011)</small>
 
 ###### ARTÍCULO 11.
 
-El Secretario Técnico recibirá las propuestas dentro del plazo fijado por la Convocatoria, extendiendo constancia de las mismas las turnará al Comité de selección para que este se erija el Jurado de Premiación y elabore un dictamen fundado, en donde exprese los motivos y razones que hubiere considerado para otorgar el Premio, Reconocimiento o Estímulo. Los acuerdos emitidos por el Jurado de Premiación serán inatacables.
+El Secretario Técnico recibirá las propuestas dentro del plazo fijado por la Convocatoria, extendiendo constancia de las mismas las turnará al Comité de sección para que este se erija el Jurado de Premiación y elabore un dictamen fundado, en donde exprese los motivos y razones que hubiere considerado para otorgar el Premio, Reconocimiento o Estimulo Económico los acuerdos emitidos por el Jurado de Premiación serán inatacables.
 
-> <small>(F. DE E., P.O. 12 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2011)</small>
 
 ###### ARTÍCULO 12.
 
-Premios y Reconocimientos serán otorgados anualmente, en caso de que no se hayan presentado candidatos o los propuestos no cumplan los requisitos de la convocatoria, ésta se declarara desierta. Los estimulos se conferirán cuando exista una conducta meritoria de alguno, o algunos Servidores Públicos y el Presidente Municipal haga la propuesta fundada.
+Premios y Reconocimientos serán otorgados anualmente, en caso de que no se hayan presentado candidatos o los propuestos no cumplan los requisitos de la convocatoria, ésta se declarara desierta. Los estímulos económicos se conferirán cuando exista una conducta meritoria de alguno, o algunos Servidores Públicos y el Presidente Municipal haga la propuesta fundada.
 
 > <small>(F. DE E., P.O. 12 DE NOVIEMBRE DE 2004)</small>
 
@@ -162,3 +162,13 @@ PRESIDENTA MUNICIPAL
 C. TOMAS GUILLERMO CANDIA VALDIVIEZO
 
 SECRETARIO DEL AYUNTAMIENTO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 14 DE ENERO DE 2011.
+
+Artículo Primero.- Se Aprueban las modificaciones y adiciones al Reglamento Para Otorgar Premios, Reconocimientos y Estímulos Económicos Para los Habitantes del Municipio de Santa Catarina, N:L(sic)., en los términos expuestos.
+
+Artículo Segundo.- Las disposiciones de reformas por adición y modificación al presente reglamento, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+Artículo Tercero.- Envíese al Ejecutivo del Estado por conducto del Secretario General de Gobierno, para que se efectúe su publicación en el Periódico Oficial del Estado y que produzca sus efectos legales.
