@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-del-sistema-para-el-desarrollo-integral-de-la-13699"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-09-22"
-last_updated: "2009-12-18"
+last_updated: "2011-01-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13699&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL MUNICIPIO DE TECATE, BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE DICIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE ENERO DE 2011.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el lunes 22 de septiembre de 1995.
 
@@ -145,7 +145,9 @@ ARTICULO 9° LA JUNTA DE GOBIERNO ESTARA INTEGRADA POR:
 
 I. PRESIDENTE MUNICIPAL
 
-II. SECRETARIO MUNICIPAL
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 2011)</small>
+
+II. SECRETARIO DEL AYUNTAMIENTO
 
 III. TESORERO MUNICIPAL
 
@@ -159,7 +161,9 @@ VI. DIRECTOR DE METODOS Y SISTEMAS
 
 VII. DIRECTOR ADMINISTRATIVO Y DE SERVICIOS INTERNOS
 
-VIII. REGIDOR COORDINADOR DE LA COMISION DE SALUD Y ASISTENCIA SOCIAL
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 2011)</small>
+
+VIII. EL REGIDOR COORDINADOR Y EL REGIDOR SECRETARIO DE LA COMISION DE SALUD Y ASISTENCIA SOCIAL
 
 IX. Y LOS DEMAS QUE APRUEBE EL AYUNTAMIENTO.
 
@@ -350,3 +354,9 @@ P.O. 18 DE DICIEMBRE DE 2009.
 PRIMERO.- La presente reforma entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan a la presente reforma.
+
+P.O. 14 DE ENERO DE 2011.
+
+PRIMERO.- La presente Reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Publíquese el presente Acuerdo en el Periódico Oficial del Estado de Baja California.
