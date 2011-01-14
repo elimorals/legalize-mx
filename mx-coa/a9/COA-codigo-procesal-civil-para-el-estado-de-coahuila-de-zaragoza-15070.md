@@ -4,7 +4,7 @@ identifier: "COA-codigo-procesal-civil-para-el-estado-de-coahuila-de-zaragoza-15
 country: "mx"
 rank: "codigo"
 publication_date: "1999-06-29"
-last_updated: "2009-05-12"
+last_updated: "2011-01-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CODIGO PROCESAL CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MAYO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE ENERO DE 2011.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 29 de junio de 1999.
 
@@ -12715,13 +12715,7 @@ Las disposiciones relativas al juicio ordinario podrán aplicarse a los procesos
 
 ###### ARTÍCULO 1168.
 
-Competencia de los juzgados letrados
-
-Los Juzgados Letrados en Materia Civil conocerán:
-
-I. De los juicios civiles cuya cuantía no exceda de 500 días de salario mínimo general, vigente en la capital del Estado en la fecha en que se presente la demanda. Con relación a los asuntos cuya cuantía no exceda de 150 días de salario mínimo general, deberá justificarse previamente que se agotó respecto de los mismos, la instancia de conciliación ante el Juzgado de Conciliación respectivo.
-
-II. En competencia concurrente, de los juicios mercantiles cuya cuantía no exceda de 500 días de salario mínimo general vigente en la capital del Estado, en la fecha en que se presente la demanda.
+(DEROGADO, P.O. 14 DE ENERO DE 2011)
 
 ###### ARTÍCULO 1169.
 
@@ -13226,3 +13220,11 @@ Subprocurador de Control de Procesos y Legalidad: Fiscal de Control de Procesos 
 Subprocurador Jurídico de Profesionalización y de Proyectos: Fiscal Jurídico, de Profesionalización y de Proyectos.
 
 CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 14 DE ENERO DE 2011.
+
+PRIMERO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Hasta en tanto el Consejo de la Judicatura determine nueva cuantía de los juicios civiles y mercantiles que podrán conocer los Juzgados letrados en materia civil, éstos continuarán conociendo de los asuntos que les competen.
+
+TERCERO.- Se dejan sin efectos las disposiciones que se opongan a lo previsto en este decreto.
