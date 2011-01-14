@@ -4,7 +4,7 @@ identifier: "GUA-codigo-reglamentario-de-desarrollo-urbano-para-el-municipio-758
 country: "mx"
 rank: "codigo"
 publication_date: "2010-08-06"
-last_updated: "2010-12-24"
+last_updated: "2011-01-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75881&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 CODIGO REGLAMENTARIO DE DESARROLLO URBANO PARA EL MUNICIPIO DE LEON, GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE ENERO DE 2011.
 
 Código publicado en la Segunda Parte al Periódico Oficial del Estado de Guanajuato, el viernes 6 de agosto de 2010.
 
@@ -3043,11 +3043,15 @@ Tratándose de desarrollos en condominio o de fraccionamientos con edificación,
 
 El permiso de relotificación es el documento expedido por la Dirección, mediante el cual se autoriza al desarrollador modificar las condiciones de frente, fondo o superficie de los lotes que integran un fraccionamiento o desarrollo en condominio, para obtener una cantidad diferente de lotes con respecto a la autorización original.
 
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2011)</small>
+
 ###### Artículo 260.
 
-El permiso de relotificación operará cuando el desarrollador ya cuente con el permiso de venta correspondiente, y para su obtención deberá observarse lo previsto por la Ley de Fraccionamientos y el Reglamento de la Ley, anexando la información y documental que dichos ordenamientos estatuyen para este trámite.
+El permiso de relotificación operará antes o después de que el desarrollador cuente con el permiso de venta correspondiente, y para su obtención deberá presentarse la información y documental que prevé la Ley de Fraccionamientos y el Reglamento de la Ley.
 
 El tiempo de respuesta al ciudadano, una vez que se presenten todos los requisitos, será de hasta 5 días hábiles; dentro de dicho término, la Dirección deberá expedir el permiso correspondiente o, en su caso, notificar al particular sobre la negativa del mismo, fundando y motivando su resolución.
+
+De los permisos otorgados al amparo de este artículo, la Dirección deberá rendir un informe al menos mensualmente a la Comisión de Desarrollo Urbano, o bien cuando ésta se lo requiera.
 
 ###### Artículo 261.
 
@@ -5919,11 +5923,11 @@ ANEXOS
 
 > <small>N. DE E. VEASE ANEXO 2: TABLA DE GIROS DEL SISTEMA DE APERTURA RÁPIDA DE EMPRESAS CON ACTIVIDADES DE INTENSIDAD MINIMA, BAJA Y MEDIA, EN EL P.O. 6 DE AGOSTO DE 2010, PAGINAS 194 A LA 201.</small>
 
-> <small>N. DE E. VEASE ANEXO 3: TABLA DE COMPATIBILIDADES, EN EL P.O. 6 DE AGOSTO DE 2010, PAGINAS 202.</small>
+> <small>N. DE E. VEASE ANEXO 3: TABLA DE COMPATIBILIDADES, EN EL P.O. 6 DE AGOSTO DE 2010, PAGINAS 202. REFORMAS EN EL P.O. 14 DE ENERO DE DE 2011, PAGINAS 52 A LA 53.</small>
 
 > <small>N. DE E. VEASE ANEXO 4: TABLA DE REQUERIMIENTO DE ESTACIONAMIENTOS, EN EL P.O. 6 DE AGOSTO DE 2010, PAGINAS 203 A LA 208.</small>
 
-> <small>N. DE E. VEASE ANEXO 5: TABLA DE NORMAS PARA LAS ZONAS Y TABLA DE NORMAS PARA USOS CONDICIONADOS, EN EL P.O. 6 DE AGOSTO DE 2010, PAGINAS 208 A LA 209.</small>
+> <small>N. DE E. VEASE ANEXO 5: TABLA DE NORMAS PARA LAS ZONAS Y TABLA DE NORMAS PARA USOS CONDICIONADOS, EN EL P.O. 6 DE AGOSTO DE 2010, PAGINAS 208 A LA 209. REFORMAS EN EL P.O. 14 DE ENERO DE DE 2011, PAGINAS 54 A LA 55.</small>
 
 > <small>N. DE E. VEASE ANEXO 6: MANUAL TECNICO DE LAS CONSTRUCCIONES, CON ANEXOS I Y II EN EL P.O. 6 DE AGOSTO DE 2010, PAGINAS 209 A LA 228.</small>
 
@@ -5990,3 +5994,9 @@ P.O. 24 DE DICIEMBRE DE DE 2010.
 PRIMERO.- Las presentes reformas y adiciones, entrará en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones legales, reglamentarias y administrativas municipales que se opongan a las presentes modificaciones.
+
+P.O. 14 DE ENERO DE 2011.
+
+PRIMERO.- Las presentes reformas, entrarán en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones legales reglamentarias y administrativas municipales que se opongan a las presentes modificaciones.
