@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-del-poder-judicial-del-estado-de-coahuila-de-3733"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-12-11"
-last_updated: "2009-05-12"
+last_updated: "2011-01-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3733&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "COA"
 ---
 # LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE COAHUILA
+LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE COAHUILA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MAYO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ENERO DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el martes 11 de diciembre de 1990.
 
@@ -89,7 +89,9 @@ b) Penales; y
 
 c) Mixtos, cuando conozcan, a la vez de dos o más materias.
 
-Asimismo, los Juzgados Letrados podrán conocer de diversa materia, cuando así lo determine el Consejo de la Judicatura.
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2011)</small>
+
+Asimismo, los Juzgados letrados podrán conocer de diversa materia o cuantía según sea el caso, cuando así lo determine el Consejo de la Judicatura.
 
 VI.- El Consejo de la Judicatura; y,
 
@@ -99,7 +101,7 @@ Los árbitros voluntarios no ejercerán autoridad pública, pero conocerán del 
 
 El Consejo de la Judicatura tendrá la competencia y atribuciones que señalen la Constitución Política del Estado de Coahuila y demás disposiciones aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE MAYO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MAYO DE 2009)</small>
 
 ###### ARTICULO 3o.
 
@@ -139,7 +141,7 @@ XIV.- Los abogados y los notarios públicos; y
 
 XV.- Todos los demás a quienes las leyes les confieran este carácter.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
 
 ###### ARTICULO 4o.
 
@@ -215,7 +217,7 @@ El Pleno del Tribunal Superior de Justicia, se integra por el Presidente electo 
 
 Las faltas temporales que ocurran en el Pleno, serán suplidas por los Magistrados supernumerarios adscritos a las Salas a que se refieren los artículos 22 y 23 de esta ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 9o.
 
@@ -227,7 +229,7 @@ Las resoluciones del Pleno deberán ser autorizadas por el presidente, el magist
 
 Las observaciones y los votos particulares que se hagan por escrito, deberán ser firmados por los magistrados que los formulen.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 10.
 
@@ -487,7 +489,7 @@ XXXVII.- Las demás que determinen las Leyes y demás disposiciones aplicables.
 
 La Presidencia del Tribunal Superior de Justicia dispondrá del número de empleados que sean necesarios para el despacho de los asuntos de su competencia y que fije el presupuesto anual, cuyos nombramientos y readscripciones serán efectuados libremente por el Presidente del Tribunal Superior de Justicia, así como sus remociones cuando se trate de personal de confianza.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 ### CAPITULO IV. DE LAS SALAS DEL TRIBUNAL SUPERIOR DE JUSTICIA
 
@@ -507,7 +509,7 @@ La Sala Auxiliar con jurisdicción en los distritos de Viesca y San Pedro estar�
 
 Las sesiones serán públicas, excepto cuando los integrantes de la Sala determinen que deban ser secretas por que estimen que se afecta la moral o el orden público. Las sesiones tendrán verificativo por lo menos un día hábil de cada semana.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
 
 ###### ARTICULO 18.
 
@@ -529,7 +531,7 @@ En la primera sesión del año, cada Sala elegirá de entre los Magistrados que 
 
 Corresponde a los Presidentes de Sala:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 I.- Instruir los asuntos de la competencia de la Sala hasta ponerlos en estado de resolución. Citados los asuntos para sentencia, en el acuerdo respectivo, el Presidente lo turnará al Magistrado relator que corresponda para su estudio y presentación oportuna del proyecto de resolución, en los términos que establezca la ley de la materia;
 
@@ -597,7 +599,7 @@ Toda solicitud de licencia requiere causa justificada y las de los secretarios d
 
 VIII.- Las demás que les confieran las disposiciones legales aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 22.
 
@@ -635,7 +637,7 @@ VII.- Fijar jurisprudencia por contradicción, reiteración o por declaración e
 
 VIII.- De los demás asuntos que le encomiende la ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 23.
 
@@ -679,7 +681,7 @@ V.- De los demás asuntos que le encomiende la ley.
 
 Para el desempeño de sus funciones cada Sala tendrá los secretarios de acuerdos, de estudio y cuenta adscritos a cada uno de los magistrados, actuarios y demás servidores públicos que hayan sido designados por el Consejo de la Judicatura, en el ámbito de su competencia y de conformidad con las disposiciones en materia de carrera judicial. Lo anterior, en atención a las necesidades del servicio y a la autorización del Presupuesto de Egresos correspondiente.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 16 DE NOVIEMBRE DE 2001)</small>
 
 ### CAPITULO IV BIS. EL TRIBUNAL ELECTORAL
 
@@ -821,7 +823,7 @@ Las disposiciones previstas en esta ley en materia disciplinaria, responsabilida
 
 Además de lo dispuesto en este capítulo, son aplicables al Tribunal Electoral, a sus magistrados y demás servidores públicos adscritos a él, las disposiciones que establece esta ley en todo lo que resulte conducente.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPITULO IV TER. DEL TRIBUNAL DE LO CONTENCIOSO-ADMINISTRATIVO
 
@@ -993,7 +995,7 @@ Las disposiciones previstas en esta ley en materia disciplinaria, responsabilida
 
 0.- Además de lo dispuesto en este capítulo, son aplicables al Tribunal de lo Contencioso-Administrativo, a sus Magistrados y demás servidores públicos adscritos a él, las disposiciones que establece esta ley en todo lo que resulte conducente.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 25-O
 
@@ -1147,7 +1149,7 @@ VI. Los votos particulares y las observaciones por escrito deberán ser firmadas
 
 7.- Además de lo dispuesto en esta sección, son aplicables a los magistrados y demás servidores públicos adscritos al Tribunal de Conciliación y Arbitraje, las disposiciones que establece esta ley en todo lo que resulte conducente.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPITULO IV QUARTER. DEL TRIBUNAL DE APELACION ESPECIALIZADO EN MATERIA DE ADOLESCENTES
 
@@ -1237,7 +1239,7 @@ Las disposiciones previstas en esta ley en materia disciplinaria, responsabilida
 
 Además de lo dispuesto en este capítulo, son aplicables al Magistrado del Tribunal de Apelación Especializado en materia de Adolescentes y demás servidores públicos adscritos a él, las disposiciones que establece esta ley en todo lo que resulte conducente.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 ### CAPITULO V. DE LOS TRIBUNALES DISTRITALES
 
@@ -1257,7 +1259,7 @@ IV.- Cuarto Tribunal Distrital, con residencia en la ciudad de Piedras Negras y 
 
 A los Tribunales Distritales, quedarán adscritos, para los asuntos de su competencia, los demás órganos subalternos comprendidos dentro de la circunscripción territorial que esta Ley les tiene asignada.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 27.
 
@@ -1321,11 +1323,11 @@ VI.- Las demás que le confiera la Ley y el Pleno del Tribunal.
 
 Cada Tribunal Unitario de Distrito tendrá, además del magistrado titular, los secretarios de acuerdos, de estudio y cuenta, actuarios y demás personal que requieran las necesidades del servicio y autorice el Presupuesto de Egresos.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 ### CAPITULO VI. DE LOS JUZGADOS DE PRIMERA INSTANCIA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 30.
 
@@ -1333,7 +1335,7 @@ En los distritos judiciales del Estado habrán los Juzgados de Primera Instancia
 
 Los Juzgados tendrán la residencia y jurisdicción territorial que acuerde el propio Pleno del Tribunal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 31.
 
@@ -1345,7 +1347,7 @@ Tratándose de Juzgados Penales, éstos conocerán por riguroso turno semanal.
 
 En los Juzgados de Primera Instancia, habrá un juez que será el titular del órgano, el número de Secretarios, Actuarios y empleados que requieran, conforme a las necesidades del servicio y que autorice el Presupuesto de Egresos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE MAYO DE 1991)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE MAYO DE 1991)</small>
 
 ###### ARTICULO 33.
 
@@ -1391,7 +1393,7 @@ V.- De los negocios de la competencia de los jueces de Primera Instancia en los 
 
 VI.- De los demás asuntos que le encomienden las leyes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 34.
 
@@ -1475,7 +1477,7 @@ VIII. Las demás que les confieran las leyes.
 
 En los Juzgados de Primera Instancia habrá los Secretarios de estudio y cuenta que las necesidades del servicio requieran y autorice el Presupuesto de Egresos.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE NOVIEMBRE DE 2001)</small>
 
 ### CAPITULO VII. LOS JUECES LETRADOS CIVILES, PENALES Y MIXTOS
 
@@ -1497,11 +1499,13 @@ Cuando en un mismo lugar se establezcan dos o más Juzgados Letrados con igual c
 
 Los Juzgados Letrados estarán a cargo de un juez designado por el Consejo de la Judicatura y contarán con el número de secretarios, actuarios y empleados que se requieran, conforme a las necesidades del servicio y a la disposición presupuestal.
 
-> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2011)</small>
 
 ###### ARTICULO 43.
 
-Los Jueces Letrados en Materia Civil conocerán de los juicios civiles y mercantiles, cuya cuantía no exceda de 182 días de salario mínimo general, vigente en el lugar de residencia del juzgado al momento de la presentación de la demanda.
+Los Jueces letrados en Materia Civil conocerán de los juicios civiles y mercantiles cuya cuantía será determinada por el Consejo de la Judicatura.
+
+Para tal efecto, el acuerdo que fije la cuantía deberá publicarse en el Periódico Oficial del Gobierno del Estado.
 
 > <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
 
@@ -1521,7 +1525,7 @@ Los Jueces Letrados Mixtos conocerán de los asuntos a que se refieren los artí
 
 Son facultades y obligaciones de los Jueces Letrados, en la esfera de su competencia, las establecidas en el artículo 38 fracciones III, V, VI, VII y VIII de esta ley.
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE MARZO DE 2001)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE MARZO DE 2001)</small>
 
 ### CAPITULO VIII
 
@@ -1589,13 +1593,13 @@ XIX.- Las demás funciones que la ley les encomiende.
 
 Los secretarios de estudio y cuenta, proyectarán, bajo la más absoluta reserva, las resoluciones que les encomienden el magistrado o el juez, al cual se encuentren adscritos, previo estudio que hagan del asunto. Para tal efecto, el magistrado o el juez, instruirán al secretario sobre los motivos de hecho y de derecho que deban fundar el proyecto de resolución.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 52.
 
 El Poder Judicial contará con un Oficial Mayor, quien deberá ser ciudadano mexicano, en pleno ejercicio de sus derechos civiles y políticos, y tener licenciatura en derecho o licenciatura en el área de administración.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
 
 El Oficial Mayor tendrá las atribuciones siguientes:
 
@@ -1697,9 +1701,9 @@ I.- Nombrar y remover en los términos que señale la ley a los Magistrados del 
 
 II.- Crear, a propuesta de su Presidente, según lo exijan las necesidades del servicio y lo permita el presupuesto de egresos, órganos jurisdiccionales auxiliares, cuyos titulares esté facultado a nombrar según la fracción anterior;
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 2011)</small>
 
-III.- A propuesta de su Presidente, señalar o cambiar la adscripción de los titulares y demás servidores públicos de los órganos jurisdiccionales, variar la materia y circunscripción territorial de éstos y cambiar el lugar de su residencia; así como establecer los criterios generales que sean necesarios para la adecuada distribución de los asuntos en los lugares donde existan varios Juzgados de Primera Instancia o Juzgados Letrados;
+III.- A propuesta de su Presidente, señalar o cambiar la adscripción de los titulares y demás servidores públicos de los órganos jurisdiccionales, variar la materia, la competencia por cuantía y circunscripción territorial de éstos y cambiar el lugar de su residencia; así como establecer los criterios generales que sean necesarios para la adecuada distribución de los asuntos en los lugares donde existan varios Juzgados de Primera Instancia o Juzgados letrados;
 
 > <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2001)</small>
 
@@ -1755,7 +1759,7 @@ El Consejo de la Judicatura, por conducto del Presidente del Tribunal Superior d
 
 El Consejo de la Judicatura contará con un Secretario de Acuerdo y Trámite, con los Secretarios de Estudio y Cuenta y demás personal que sea necesario y autorice el presupuesto. Los secretarios deberán satisfacer los mismos requisitos que esta ley señala para los Secretarios de Acuerdo y Trámite, y de Estudio y Cuenta, respectivamente, quienes tendrán el escalafón que corresponde a los Secretarios de Acuerdo y Trámite, y de Estudio y Cuenta de las Salas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 58.
 
@@ -1845,7 +1849,7 @@ XV.- Los servidores públicos del Poder Judicial que deseen integrarse a la carr
 
 XVI.- (DEROGADA, P.O. 28 DE DICIEMBRE DE 2007)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 63.
 
@@ -1963,7 +1967,7 @@ El Consejo de la Judicatura, de acuerdo con las necesidades del servicio, y de c
 
 También se aplicarán exámenes de méritos, previo acuerdo del Consejo de la Judicatura, a los servidores públicos del Poder Judicial que deseen ascender en su oportunidad en la carrera judicial, integrándose la respectiva reserva con los que hubiesen aprobado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 67.
 
@@ -2039,7 +2043,7 @@ Los servidores públicos de base del Poder Judicial, tendrán derecho a ascensos
 
 Los nombramientos de los magistrados y jueces integrantes del Poder Judicial serán hechos, preferentemente, entre aquellas personas que hayan prestado su servicio con eficiencia y probidad en la administración de justicia, o que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 80.
 
@@ -2075,7 +2079,7 @@ Los nombramientos de los Magistrados deberán recaer preferentemente entre aqué
 
 ARTICULO 80 BIS.- (DEROGADO, P.O. 1 DE SEPTIEMBRE DE 2006)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 81.
 
@@ -2093,7 +2097,7 @@ En el caso de que el Congreso del Estado no apruebe un nombramiento, el Gobernad
 
 Para ser designado Magistrado de Tribunal Distrital o Magistrado del Tribunal de Apelación Especializado en materia de Adolescentes, se requieren los mismos requisitos que para ser nombrado Magistrado del Tribunal Superior de Justicia del Estado, más el haber sustentado y aprobado el examen de méritos correspondiente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 83.
 
@@ -2115,7 +2119,7 @@ V.- Sustentar y aprobar el examen de méritos.
 
 Los Jueces de Primera Instancia en materia de Adolescentes deberán de contar, además, con conocimientos en la materia penal y en la prevención y tratamiento de la conducta de los adolescentes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
 
 ###### ARTICULO 84.
 
@@ -2183,7 +2187,7 @@ IV.- Gozar de buena reputación y no haber sido condenado por delito intencional
 
 V.- Sustentar y aprobar el examen de méritos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 90.
 
@@ -2201,7 +2205,7 @@ IV.- Sustentar y aprobar el examen de méritos.
 
 (DEROGADO, P.O. 16 DE NOVIEMBRE DE 2001)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 92.
 
@@ -2297,7 +2301,7 @@ Los magistrados y jueces jubilados que así lo deseen, podrán seguir adscritos 
 
 ## TITULO QUINTO. DEL FUNCIONAMIENTO DE LOS ORGANOS DEL PODER JUDICIAL
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 ### CAPITULO I. DE LOS PERIODOS DE SESIONES DEL TRIBUNAL SUPERIOR DE JUSTICIA
 
@@ -2305,7 +2309,7 @@ Los magistrados y jueces jubilados que así lo deseen, podrán seguir adscritos 
 
 (DEROGADO, P.O. 28 DE DICIEMBRE DE 2007)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 104.
 
@@ -2317,7 +2321,7 @@ Al clausurarse cada período de sesiones el Pleno designará a uno o más magist
 
 También designará el Tribunal Superior al secretario y empleados que deban despachar los asuntos a que se refiere el párrafo anterior.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 105.
 
@@ -2361,7 +2365,7 @@ IV.- Se proveerá sobre los demás asuntos que por disposición legal; o a juici
 
 En los casos sujetos a decisión, el presidente propondrá el acuerdo y lo someterá a la consideración de los magistrados, recabándose la aprobación del mismo por unanimidad, o por mayoría de votos. En caso de oposición, el asunto se someterá a debate. El presidente cuidará de que la discusión sea moderada y sin apartarse del tema, para lo cual se concederá el uso de la palabra al disidente, quien podrá replicar a los que secunden la propuesta. Transcurrido el tiempo que se juzgue necesario para el desarrollo del debate, se pasará a votación. El presidente tendrá voto de calidad, en caso de empate. El voto particular se asentará en la resolución respectiva, sin perjuicio de que sea razonado, cuando así lo solicitare el magistrado disidente.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 ### CAPITULO III. DE LAS SALAS, DE LOS TRIBUNALES ESPECIALIZADOS, DE LOS TRIBUNALES DISTRITALES Y DE LOS JUZGADOS
 
@@ -2373,7 +2377,7 @@ El Poder Judicial laborará todos los días del año, excepción hecha de los s�
 
 El despacho diario del Poder Judicial se efectuará en los horarios que acuerde el Consejo de la Judicatura, previa opinión del Pleno del Tribunal y atendiendo a las necesidades del servicio.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 112.
 
@@ -2393,7 +2397,7 @@ V.- Dictar las resoluciones que procedan dentro de los términos legales;
 
 VI.- Ejercer la supervisión y control sobre todos los servidores de su adscripción, e instruir, en su caso, los procedimientos de responsabilidad administrativa, imponiendo las sanciones disciplinarias conducentes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
 
 ###### ARTICULO 113.
 
@@ -2411,7 +2415,7 @@ Las audiencias del Tribunal de Apelación Especializado en materia de Adolescent
 
 Queda prohibida la práctica de dictar los alegatos durante la audiencia. Los alegatos serán verbales; pero las partes pueden presentar sus conclusiones por escrito.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
 
 ###### ARTICULO 115.
 
@@ -2523,7 +2527,7 @@ VI.- A las personas autorizadas por el Titular, para fines docentes o de investi
 
 La vigilancia judicial tiene por objeto velar por que la justicia se administre oportuna y eficazmente, y conlleva al examen de la conducta de los servidores de la Administración de Justicia y puntual desempeño de sus deberes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 120.
 
@@ -2601,7 +2605,7 @@ El Pleno del Tribunal se encargará de ponderar periódicamente los méritos y l
 
 El Presidente del Tribunal Superior de Justicia, los Magistrados, y los Jueces, harán una evaluación periódica de la actuación de sus Secretarios, actuarios y demás servidores que laboren en sus respectivas dependencias.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 125.
 
@@ -2685,7 +2689,7 @@ El Archivo General del Poder Judicial dependerá de la Presidencia del Tribunal 
 
 El Archivo Judicial del Estado tendrá sus oficinas centrales en la Capital del Estado, y si el servicio lo requiere, previo acuerdo del Consejo de la Judicatura, se establecerán las oficinas regionales o distritales que sean necesarias.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE MARZO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MARZO DE 2001)</small>
 
 ###### ARTICULO 132.
 
@@ -2969,13 +2973,13 @@ Las faltas temporales de los Presidentes del Tribunal y de las Salas, cuando no 
 
 Si la ausencia excede de treinta días, la sustitución se hará por acuerdo del Pleno, y en igual forma se suplirá la ausencia definitiva, en cuyo caso el designado concluirá el período legal respectivo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 166.
 
 Las faltas temporales y absolutas de los Magistrados del Tribunal Superior de Justicia, del Tribunal Electoral, del Tribunal de lo Contencioso-Administrativo y del Tribunal de Conciliación y Arbitraje, serán suplidas por el Magistrado Supernumerario que corresponda, en el orden respectivo y de acuerdo con el título que lleve el Presidente del Tribunal de que se trate. En caso de falta absoluta, el Magistrado Supernumerario actuará hasta en tanto se realice la nueva designación, para lo cual el Presidente del órgano colegiado de que se trate, inmediatamente que aquella ocurra, dará cuenta al Consejo de la Judicatura quien atenderá al procedimiento establecido en esta ley.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 > <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
@@ -2991,7 +2995,7 @@ Las faltas temporales de los Magistrados de los Tribunales Unitarios de Distrito
 
 Los Jueces de Primera Instancia en materia de Adolescentes serán suplidos en sus ausencias temporales, que no excedan de un mes, en la forma que para el efecto determine el Magistrado del Tribunal de Apelación Especializado en materia de Adolescentes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 168.
 
@@ -3343,7 +3347,7 @@ VI. La inhabilitación sólo será aplicable por resolución jurisdiccional, que
 
 Cuando la destitución del empleo, cargo o comisión, afecte a un servidor público de base, se demandará la terminación de su contrato ante quien corresponda por la Oficialía Mayor del Poder Judicial del Estado, a solicitud de la autoridad que aplicó la sanción.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE NOVIEMBRE DE 2001)</small>
 
 #### SECCION CUARTA. LA APLICACION DE LAS SANCIONES ADMINISTRATIVAS Y DEL PROCEDIMIENTO DISCIPLINARIO
 
@@ -3369,7 +3373,7 @@ V.- Por los magistrados y jueces, cuando se trate de quejas contra el personal a
 
 Si del estudio de autos aparece que la sanción a imponer debe ser mayor que las señaladas en el párrafo anterior, remitirá el expediente al Consejo de la Judicatura para que emita la resolución correspondiente.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 > <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
 
@@ -3703,7 +3707,7 @@ Siempre que se deje de practicar una prueba o diligencia por culpa de un auxilia
 
 La Autoridad Judicial que no tome en cuenta las listas de auxiliares al hacer la designación correspondiente, incurrirá en falta administrativa que será sancionada con la suspensión del cargo por el término de 10 días.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
 
 ###### ARTICULO 244.
 
@@ -3807,17 +3811,17 @@ II.- Acompañar el directorio de sus miembros, así como una relación de los so
 
 La asociaciones de abogados legalmente constituidas y registradas, quedan debidamente autorizadas para gestionar ante la Autoridad Judicial que corresponda, lo que estimen conducente para la mejor administración de justicia.
 
-> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 18 DE MAYO DE 1999)</small>
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE MAYO DE 1999)</small>
 
 TITULO DECIMOTERCERO
 
 DE LA JURISPRUDENCIA LOCAL
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE MAYO DE 1999)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE MAYO DE 1999)</small>
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 261.
 
@@ -3837,7 +3841,7 @@ I.- Sustente el mismo criterio en dos resoluciones ininterrumpidas;
 
 II.- Fije en contradicción de criterios el que debe prevalecer.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 263.
 
@@ -3905,7 +3909,7 @@ El Tribunal de lo Contencioso-Administrativo y el Tribunal de Conciliación y Ar
 
 El Tribunal de Apelación Especializado en materia de Adolescentes, por conducto de su Magistrado, enviará copia certificada de las tesis aprobadas a los Jueces de Primera Instancia en materia de adolescentes.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE MAYO DE 1999)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE MAYO DE 1999)</small>
 
 ### CAPITULO II. DE LA JURISPRUDENCIA POR REITERACION, CONTRADICCION O DECLARACION
 
@@ -3915,7 +3919,7 @@ El Tribunal de Apelación Especializado en materia de Adolescentes, por conducto
 
 La jurisprudencia por reiteración que emane del Pleno y de las Salas del Tribunal Superior de Justicia, del Tribunal Electoral, del Tribunal de lo Contencioso-Administrativo, del Tribunal de Conciliación y Arbitraje, del Tribunal de Apelación Especializado en materia de Adolescentes o del Consejo de la Judicatura, deberá estar debidamente glosada en tesis y aprobadas para su debida publicación.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 269.
 
@@ -3985,7 +3989,7 @@ IV.- La declaratoria de jurisprudencia podrá confirmar o sustentar un criterio 
 
 El Tribunal de Apelación Especializado en materia de Adolescentes solo deberá observar este procedimiento, cuando los tres criterios que sustente en el mismo sentido, en forma ininterrumpida, se ocupen de la interpretación de disposiciones de las leyes penales o de la aplicación de normas que establezcan medidas disciplinarias. Los criterios que establezca en la materia de su especialidad, distintos a los señalados, formarán jurisprudencia sin necesidad de la declaración a que se refiere este artículo.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE MAYO DE 1999)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE MAYO DE 1999)</small>
 
 ### CAPITULO III. DE LA OBLIGATORIEDAD DE LA JURISPRUDENCIA
 
@@ -4025,7 +4029,7 @@ La jurisprudencia disciplinaria que pronuncie el Consejo de la Judicatura tendr�
 
 La obligatoriedad de la jurisprudencia local surtirá sus efectos al día siguiente de que se publique en el Boletín de Información Judicial o en el Periódico Oficial del Estado, según ocurra primero.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE MAYO DE 1999)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE MAYO DE 1999)</small>
 
 ### CAPITULO IV. DE LA INTERRUPCION Y MODIFICABILIDAD DE LA JURISPRUDENCIA
 
@@ -4035,7 +4039,7 @@ La obligatoriedad de la jurisprudencia local surtirá sus efectos al día siguie
 
 La interrupción de la jurisprudencia tendrá como consecuencia que deje de surtir sus efectos de obligatoriedad. El Pleno y las Salas del Tribunal Superior de Justicia, el Tribunal Electoral, el Tribunal de lo Contencioso-Administrativo, el Tribunal de Conciliación y Arbitraje, el Tribunal de Apelación Especializado en materia de Adolescentes y el Consejo de la Judicatura, estarán facultados para interrumpir su jurisprudencia sólo en los casos y bajo las condiciones que establece este capítulo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 278.
 
@@ -4103,7 +4107,7 @@ III.- Exista jurisprudencia en contrario del Tribunal Electoral del Poder Judici
 
 IV. Por nueva disposición constitucional o legal aplicables.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE MAYO DE 1999)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE MAYO DE 1999)</small>
 
 ### CAPITULO V. DE LA COMPILACION Y SISTEMATIZACION DE LA JURISPRUDENCIA Y TESIS AISLADAS
 
@@ -4119,7 +4123,7 @@ El Presidente del Tribunal Superior de Justicia emitirá las circulares bajo las
 
 El Pleno y las Salas del Tribunal Superior de Justicia, el Tribunal Electoral, el Tribunal de lo Contencioso- Administrativo, el Tribunal de Conciliación y Arbitraje, el Tribunal de Apelación Especializado en materia de Adolescentes y el Consejo de la Judicatura formularán sus tesis de jurisprudencia y ordenarán que se publiquen dentro de los sesenta días siguientes al que se aprueben. En cualquier caso, se deberá enviar para su publicación la tesis de jurisprudencia al Boletín de Información Judicial o al Periódico Oficial del Gobierno del Estado, quince días antes de que venza el plazo anterior.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 284.
 
@@ -4227,7 +4231,7 @@ LIC. JOSE FUENTES GARCIA.
 
 (RUBRICA)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 14 DE MAYO DE 1991.
 
@@ -4432,3 +4436,11 @@ Subprocurador de Control de Procesos y Legalidad: Fiscal de Control de Procesos 
 Subprocurador Jurídico de Profesionalización y de Proyectos: Fiscal Jurídico, de Profesionalización y de Proyectos.
 
 CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 14 DE ENERO DE 2011.
+
+PRIMERO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Hasta en tanto el Consejo de la Judicatura determine nueva cuantía de los juicios civiles y mercantiles que podrán conocer los Juzgados letrados en materia civil, éstos continuarán conociendo de los asuntos que les competen.
+
+TERCERO.- Se dejan sin efectos las disposiciones que se opongan a lo previsto en este decreto.
