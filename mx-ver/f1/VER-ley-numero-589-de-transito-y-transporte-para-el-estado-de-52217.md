@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-589-de-transito-y-transporte-para-el-estado-de-52217
 country: "mx"
 rank: "ley"
 publication_date: "2006-11-06"
-last_updated: "2010-10-18"
+last_updated: "2011-01-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52217&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NUMERO 589 DE TRANSITO Y TRANSPORTE PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE OCTUBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 14 DE ENERO DE 2011.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el lunes 6 de noviembre del 2006.
 
@@ -191,9 +191,9 @@ III. Proponer al Gobernador del Estado la celebración de acuerdos y convenios e
 
 IV. Autorizar la transferencia de la titularidad de las concesiones en todas las modalidades;
 
-> <small>(REFORMADA, G.O. 2 DE ABRIL DE 2010)</small>
+> <small>(REFORMADA, G.O. 14 DE ENERO DE 2011)</small>
 
-V. Autorizar las tarifas a que se sujetará la prestación del servicio de transporte público, con excepción de las relativas a las modalidades de urbano, suburbano y foráneo, las cuales serán autorizadas por el Congreso del Estado;
+V. Autorizar las tarifas a que se sujetará la prestación del servicio de transporte público en todas sus modalidades;
 
 VI. Acordar la creación de Coordinaciones Regionales de Tránsito y Transporte;
 
@@ -1657,11 +1657,11 @@ El Gobierno del Estado podrá indemnizar a los concesionarios afectados hasta en
 
 Tarifa es el precio que el usuario paga por los servicios de transporte público que se le prestan.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 2 DE ABRIL DE 2010)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 14 DE ENERO DE 2011)</small>
 
 ###### Artículo 139.
 
-El Gobierno del Estado, por conducto de la Secretaría, fijará y modificará las condiciones y reglas de aplicación de las tarifas, conforme a las cuales se prestará el servicio de transporte público de pasajeros, excepto en sus modalidades de urbano, suburbano y foráneo para las cuales resolverá el Congreso del Estado.
+El Gobierno del Estado, por conducto de la Secretaría, fijará, revisará y, en su caso, modificará las tarifas conforme a las cuales se prestará el servicio de transporte público de pasajeros, conforme al estudio técnico a que se refiere el artículo 142 de la presente Ley.
 
 Cuando se trate de la modalidad de taxi y el usuario solicite los servicios para transportarse fuera de la localidad o requiera el servicio por un tiempo determinado, la tarifa se fijará en forma convencional.
 
@@ -1677,13 +1677,13 @@ Los servicios de transporte de carga especializada, para arrastre y salvamento, 
 
 Las tarifas cubrirán los gastos de amortización, conservación y explotación, el monto de los fondos de reserva y una utilidad justa y adecuada sobre el capital invertido, de conformidad con las condiciones socioeconómicas de los usuarios a quienes está destinado el servicio.
 
-> <small>(REFORMADO, G.O. 2 DE ABRIL DE 2010)</small>
+> <small>(REFORMADO, G.O. 14 DE ENERO DE 2011)</small>
 
-El incremento al monto de las tarifas se determinará multiplicando el índice inflacionario reconocido oficialmente por el Banco de México al final de cada ejercicio fiscal por la tarifa vigente. Si el resultado de la operación excede cincuenta centavos, el incremento será de cincuenta centavos; de no rebasarlo, el producto se acumulará para el ejercicio siguiente; si el resultado de la sumatoria de los dos ejercicios supera los cincuenta centavos, el incremento se ajustará a cincuenta centavos, estableciendo la nueva tarifa base de cobro al usuario para el año que corra. En el cálculo de los incrementos subsecuentes se empleará la misma fórmula sobre la base del precio establecido. Si en algún ejercicio fiscal la operación descrita arroja como resultado una cantidad superior a un peso, el Congreso determinará el incremento correspondiente. Las tarifas deberán revisarse durante el tercer trimestre de cada año y, durante el cuarto trimestre, el Congreso del Estado emitirá la resolución sobre el incremento o no de las tarifas en términos de lo dispuesto en este artículo.
+El incremento al monto de las tarifas se determinará multiplicando el índice inflacionario reconocido oficialmente por el Banco de México al final de cada ejercicio fiscal por la tarifa vigente. Si el resultado de la operación excede cincuenta centavos, el incremento será de cincuenta centavos; de no rebasarlo, el producto se acumulará para el ejercicio siguiente; si el resultado de la sumatoria de los dos ejercicios supera los cincuenta centavos, el incremento se ajustará a cincuenta centavos, estableciendo la nueva tarifa base de cobro al usuario para el año que corra. En el cálculo de los incrementos subsecuentes se empleará la misma fórmula sobre la base del precio establecido. Si en algún ejercicio fiscal la operación descrita arroja como resultado una cantidad superior a un peso, la Secretaría determinará el incremento correspondiente.
 
-> <small>(REFORMADO, G.O. 2 DE ABRIL DE 2010)</small>
+> <small>(REFORMADO, G.O. 14 DE ENERO DE 2011)</small>
 
-El Consejo Técnico Estatal del Transporte integrará, al final de cada ejercicio fiscal, un catálogo de conceptos, fundado y motivado, en donde considerará los criterios que provoquen desestabilización en la rentabilidad de la prestación del servicio, proponiendo al Congreso del Estado esos criterios, para que los considere y en su momento determine los equilibrios financieros que permitan a los concesionarios y permisionarios del transporte público de pasajeros en sus modalidades urbano, suburbano y foráneo, garantizar que la prestación del servicio a los usuarios sea con calidad, seguridad, oportunidad, permanencia y continuidad.
+El Consejo Técnico Estatal del Transporte integrará, al final de cada ejercicio fiscal, un catálogo de conceptos, fundado y motivado, en donde considerará los criterios que provoquen desestabilización en la rentabilidad de la prestación del servicio, proponiendo a la Secretaría esos criterios, para que los considere y en su momento determine los equilibrios financieros que permitan a los concesionarios y permisionarios del transporte público de pasajeros, en todas sus modalidades, garantizar que la prestación del servicio a los usuarios sea con calidad, seguridad, oportunidad, permanencia y continuidad.
 
 ###### Artículo 143.
 
@@ -2004,3 +2004,9 @@ Artículo primero. El presente Decreto entrará en vigor a partir de su publicac
 Artículo segundo. Se señala un término de cuatro meses para el cumplimiento de las disposiciones señaladas en los artículos 46 y 67 fracción IV de la Ley de Tránsito y Transporte para el estado.
 
 Artículo tercero. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 14 DE ENERO DE 2011.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
