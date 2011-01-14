@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-para-el-ayuntamiento-de-ensenada-baja-34952
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-11-14"
-last_updated: "2010-10-29"
+last_updated: "2011-01-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34952&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO INTERIOR PARA EL AYUNTAMIENTO DE ENSENADA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ENERO DE 2011.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 14 de noviembre de 2003.
 
@@ -1249,11 +1249,11 @@ Los funcionarios y/o servidores públicos no serán sujetos de reclamos o llamad
 
 COMISIONES PERMANENTES.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE ENERO DE 2011)</small>
 
 ###### ARTÍCULO 114.
 
-Son comisiones permanentes las siguiente (sic)
+Son comisiones permanentes las siguientes:
 
 I.- Gobernación y Legislación;
 
@@ -1296,6 +1296,10 @@ XV.- Pesca y Acuacultura Sustentables.
 (ADICIONADA, P.O. 2 DE JULIO DE 2010) (ADICIONADA [N. DE E. REPUBLICADA], P.O. 29 DE OCTUBRE DE 2010)
 
 XVI.- Comisión del agua
+
+> <small>(ADICIONADA, P.O. 14 DE ENERO DE 2011)</small>
+
+XVII.- Comisión de Atención a la Juventud y el Deporte.
 
 Para efectos de crear nuevas comisiones, nombrar, cambiar o remover coordinadores o integrantes de las mismas, el Presidente Municipal lo propondrá al Ayuntamiento en Sesión de Cabildo, en donde éste, determinará por mayoría absoluta la aprobación en su caso.
 
@@ -1535,7 +1539,7 @@ V.- Participar en la integración del Consejo Consultivo de Pesca Y Acuacultura 
 
 > <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 2010)</small>
 
-ARTÍCULO 127 QUÁRTER.- Atribuciones:
+ARTÍCULO 127 QUÁRTER (SIC).- Atribuciones:
 
 I.- Dictaminar respecto de los asuntos relativos a proyectos de reformas constitucionales, iniciativas de Ley o decreto, Reglamentos, y Disposiciones Normativas de Observancia General, por si misma o en conjunto con la Comisión o las Comisiones especializadas en la materia de que se trate;
 
@@ -1556,6 +1560,22 @@ VIII.- Contribuir a la coordinación y vinculación de los sectores públicos, p
 IX.- Desarrollar un estudio permanente de las necesidades de agua de las poblaciones urbanas y su entorno rural. Su investigación prospectiva para prever futuros escenarios de oportunidades y enfrentar la crisis en el sector hídrico, tendrá resultados de gran impacto con pertinencia social, económica, ambiental e Institucional.
 
 X. Colaborar de manera colegiada con instancias públicas y privadas para perfilar nuevos enfoques en materia de planeación, investigación, capacitación y gestión para el aprovechamiento y manejo sustentable e integral del agua en el municipio.
+
+> <small>(ADICIONADO, P.O. 14 DE ENERO DE 2011)</small>
+
+COMISION DE ATENCION A LA JUVENTUD Y EL DEPORTE
+
+ARTÍCULO 127 QUINQUER (SIC).- Atribuciones:
+
+I. Proponer, analizar, estudiar y dictaminar las iniciativas en materia de atención a la juventud para su desarrollo integral y deportes.
+
+II. Proponer al Ayuntamiento la ejecución de políticas y medidas encaminadas a fomentar la participación de los jóvenes en asuntos de interés público.
+
+III. Proponer que se promuevan y estimulen acciones y obras tendientes a la práctica de los deportes para procurar el desarrollo físico y mental de los habitantes del Municipio.
+
+IV. Participar en los organismos relacionados al desarrollo de la juventud y la promoción del deporte, en los que el Ayuntamiento tenga injerencia.
+
+V. Evaluar y vigilar los trabajos de las dependencias e institutos municipales, con funciones en materia de deportes y juventud, y con base en sus resultados y a las necesidades operantes proponer las medidas pertinentes para orientar la política del gobierno municipal.
 
 ### CAPITULO TERCERO. DEL PROCEDIMIENTO EN COMISIONES
 
@@ -1739,7 +1759,7 @@ TERCERO.- La Comisión Permanente del Agua deberá instalarse al día siguiente 
 
 P.O. 29 DE OCTUBRE DE 2010.
 
-> <small>N. DE E. SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.</small>
+PUNTO DE ACUERDO:
 
 PRIMERO.- Se abroga el articulo 129 aprobado en sesión de cabildo de fecha 14 de julio de 2010 y publicado en el Periódico oficial del Estado No. 29 sección índice Tomo CXVII de fecha 2 de julio de 2010, quedando sin modificación el artículo 129 del Reglamento interior para el Ayuntamiento de Ensenada Baja California Publicado en el Periódico Oficial No. 52, de fecha 14 de noviembre de 2003, Tomo CX.
 
@@ -1750,3 +1770,7 @@ TERCERO.- Se adiciona al artículo 114 la fracción XVI para la creación de la 
 CUARTO.- Siendo aprobada la presente iniciativa, incorpórese en el libro de actas y publíquese en el periódico oficial del Gobierno del Estado de Baja California, para efectos de iniciar la vigencia en todo el territorio del Municipio.
 
 QUINTO.- Se derogan todas aquellas disposiciones reglamentarias que se opongan a (sic) contenido de la presente reforma.
+
+P.O. 14 DE ENERO DE 2011.
+
+UNICO.- Siendo aprobada la presente reforma, incorpórese al libro de actas y publíquese en el Periódico Oficial del Gobierno del Estado de Baja California, para efectos de iniciar la vigencia al siguiente día de su publicación en todo el territorio del Municipio de Ensenada.
