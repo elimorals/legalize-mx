@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "2010-12-28"
+last_updated: "2011-01-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,43 +21,27 @@ state: "AGU"
 ---
 # CONSTITUCION POLITICA DEL ESTADO DE AGUASCALIENTES
 
-ACUERDO POR EL QUE SE AUTORIZA LA CREACIÓN DEL COMITÉ DE EVALUACIÓN Y SEGUIMIENTO DE LAS MEDIDAS DE RACIONALIDAD Y AUSTERIDAD, ASÍ COMO DE LAS REGLAS DE SU INTEGRACIÓN Y FUNCIONAMIENTO
+CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 1, PUBLICADO EN EL P.O. 13 DE DICIEMBRE DE 1992, TODO ORDENAMIENTO Y DEMÁS ESCRITOS QUE REFIERAN LA DENOMINACIÓN "TESORERÍA GENERAL" O "TESORERO GENERAL", EN LO SUCESIVO SERÁN "SECRETARÍA DE FINANZAS" O "SECRETARIO DE FINANZAS", SEGÚN CORRESPONDA.</small>
 
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 7 DE MARZO DE 2022.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ENERO DE 2011.
 
-Acuerdo publicado en el Diario Oficial de la Federación, el viernes 4 de febrero de 2022.
+Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Tribunal Electoral del Poder Judicial de la Federación.
+AURELIO L. GONZALEZ, Gobernador Constitucional del Estado libre y soberano de Aguascalientes, a sus habitantes, sabed:
 
-ACUERDO POR EL QUE SE AUTORIZA LA CREACIÓN DEL COMITÉ DE EVALUACIÓN Y SEGUIMIENTO DE LAS MEDIDAS DE RACIONALIDAD Y AUSTERIDAD, ASÍ COMO DE LAS REGLAS DE SU INTEGRACIÓN Y FUNCIONAMIENTO.
+Que por el Congreso del Estado se me ha comunicado lo siguiente:
 
-ANTECEDENTES
+El Congreso Constituyente del Estado libre y soberano de Aguascalientes, en uso de sus facultades, previos los requisitos señalados en el artículo 1° del decreto de fecha 8 de mayo del año en curso, reforma en los siguientes términos la Constitución Política del Estado, expedida el 18 de octubre de 1868.
 
-PRIMERO. Por decretos publicados en el Diario Oficial de la Federación del treinta y uno de diciembre de mil novecientos noventa y cuatro, veintidós de agosto de mil novecientos noventa y seis, once de junio de mil novecientos noventa y nueve y trece de noviembre de dos mil siete, se reformaron, entre otros, los artículos 94, 99 y 100 de la Constitución Política de los Estados Unidos Mexicanos, que modificaron la estructura y competencia del Poder Judicial de la Federación.
-
-SEGUNDO. El artículo 186 de la Ley Orgánica del Poder Judicial de la Federación establece que la administración, vigilancia, disciplina y carrera judicial del Tribunal Electoral, estarán a cargo de la Comisión de Administración. El propio ordenamiento, en su numeral 190, fracciones III, IV y XXV faculta a dicho órgano para ejercer el presupuesto de egresos del citado Tribunal y expedir las normas en materia administrativa y establecer los criterios para modernizar las estructuras orgánicas, los sistemas y procedimientos administrativos internos; así como los servicios al público.
-
-TERCERO. El ejercicio y la administración de los recursos públicos federales a disposición de los Poderes de la Unión, debe realizarse con base en criterios de legalidad, honestidad, austeridad, economía, racionalidad, eficacia, eficiencia, control, rendición de cuentas, transparencia y equidad de género.
-
-CUARTO. Que la autonomía e independencia judicial constituyen características esenciales de la función judicial y se integran por los principios básicos de permanencia, estabilidad en el ejercicio del cargo, seguridad económica y la consagración de la carrera judicial, que a su vez favorecen que los jueces emitan sus decisiones con plena imparcialidad y en estricto apego a la normativa aplicable al caso, sin acatar o someterse a indicaciones, instrucciones, sugerencias, o insinuaciones de carácter externo o, incluso, de otros poderes del estado.
-
-QUINTO. El diecinueve de noviembre de dos mil diecinueve fue publicada en el Diario Oficial de la Federación la Ley Federal de Austeridad Republicana, cuyo artículo primero establece que el Poder Judicial de la Federación deberá tomar las acciones necesarias para implementar los parámetros en materia de austeridad referidos al ejercicio del gasto público federal y contribuir a que los recursos económicos de los que se dispongan se administren conforme a los citados principios constitucionales.
-
-SEXTO. Con fecha quince de febrero de dos mil veintiuno, la Suprema Corte de Justicia de la Nación, el Consejo de la Judicatura Federal y el Tribunal Electoral del Poder Judicial de la Federación emitieron el Acuerdo General del Comité Coordinador para Homologar Criterios en Materia Administrativa e Interinstitucional del Poder Judicial de la Federación, que establece las medidas de racionalidad, austeridad, disciplina presupuestal y modernización de la gestión del PJF para el ejercicio fiscal dos mil veintiuno, publicado en el Diario Oficial de la Federación del veintiséis de febrero de 2021, el cual tiene por objeto establecer las medidas de contención del gasto, basadas en principios de racionalidad, austeridad, disciplina presupuestal y modernización de la gestión, para el ejercicio fiscal dos mil veintiuno en el Poder Judicial de la Federación, como órgano responsable de promover y evaluar las políticas y medidas de austeridad republicana, la Ley Federal de Austeridad Republicana en su artículo 27 dispuso la conformación de un Comité de Evaluación.
-
-SÉPTIMO. En sesión celebrada el tres de mayo de dos mil veintiuno, el Comité Interinstitucional de Coordinación y Modernización Administrativa del Poder Judicial de la Federación, acordó que cada órgano del Poder Judicial de la Federación presente a sus instancias correspondientes, un diagnóstico sobre las medidas a aplicar en materia de austeridad republicana, así como la integración de un Comité de Evaluación, encargado de promover, evaluar y dar seguimiento, a través de los indicadores que cada órgano determine.
-
-OCTAVO. En consecuencia, para apoyar la ejecución de políticas de austeridad republicana en el Tribunal Electoral del Poder Judicial de la Federación, así como continuar con la promoción de medidas que permitan generar ahorros para apoyar actividades prioritarias, se estima conveniente la creación de un órgano colegiado que evalúe y dé seguimiento a tales políticas y medidas en el ámbito interno de este Alto Tribunal.
-
-Por lo anteriormente expuesto y con fundamento en las disposiciones jurídicas señaladas, se expide el siguiente:
-
-ACUERDO
-
-DISPOSICIONES GENERALES
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
 ### CAPITULO PRIMERO
+
+Declaraciones.
+
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
 ###### Artículo 1o.
 
@@ -123,9 +107,23 @@ Toda educación que realicen los particulares en el territorio del Estado será 
 
 Todas las Autoridades, dentro de la esfera de sus atribuciones, velarán por la conservación y fomento de los recursos naturales del Estado.
 
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2011)</small>
+
+###### Artículo 7o.
+
+A.- El Gobierno organizará un sistema de planeación del desarrollo estatal que garantice equidad y justicia en el crecimiento de la economía, fomentando la independencia y la democratización política, social y cultural del Estado.
+
+Las organizaciones civiles podrán participar en la realización de actividades sociales, cívicas, económicas y culturales relacionadas con el desarrollo armónico y ordenado de las distintas comunidades. Así mismo, podrán coadyuvar en la identificación y precisión de las demandas y aspiraciones de la sociedad para dar contenido al Plan de Desarrollo del Estado, a los planes municipales y a los programas respectivos, propiciando la participación de los habitantes en la realización de las obras y servicios públicos.
+
+La Ley determinará las formas de participación de estas organizaciones, y la designación de controles sociales que vigilen el cumplimiento de las actividades señaladas en el párrafo anterior.
+
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
-### CAPÍTULO SEGUNDO. DEL OBJETO E INTEGRACIÓN DEL COMITÉ DE EVALUACIÓN Y SEGUIMIENTO
+### CAPITULO SEGUNDO
+
+De la forma de Gobierno.
+
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
 ###### Artículo 8.
 
@@ -153,33 +151,17 @@ X. Aprobar el calendario de sesiones ordinarias en la última sesión ordinaria 
 
 XI. Las demás que le asigne el Magistrado Presidente y la Comisión.
 
-###### Artículo 9.
-
-La o el Presidente del Comité de Evaluación y Seguimiento tendrá las funciones siguientes:
-
-I. Emitir la convocatoria de la sesión que corresponda;
-
-II. Presidir, coordinar y dirigir los debates de las sesiones del Comité de Evaluación y Seguimiento;
-
-III. Aprobar la convocatoria a las sesiones ordinarias y extraordinarias del Comité de Evaluación y Seguimiento;
-
-IV. Someter a consideración del Comité de Evaluación y Seguimiento el orden del día de las sesiones, así como sus acuerdos y resoluciones;
-
-V. Proponer al Comité de Evaluación y Seguimiento la integración de grupos de trabajo y la realización de estudios y análisis en temas específicos;
-
-VI. Invitar a las sesiones del Comité de Evaluación y Seguimiento a servidoras y servidores públicos del PJF, especialistas u otras personas que puedan colaborar en el análisis de temas particulares;
-
-VII. Firmar las actas de las sesiones del Comité de Evaluación y Seguimiento, y
-
-VIII. Las demás que disponga el Comité de Evaluación y Seguimiento en el ámbito de su competencia o que le hayan sido encomendadas por el Magistrado Presidente del Tribunal Electoral o la Comisión.
-
 ###### Artículo 8o.
 
 El Estado adopta para su régimen interior la forma de Gobierno Republicano, Representativo y Popular, teniendo como base de su división territorial y de su organización política y administrativa el Municipio Libre.
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
-### CAPÍTULO TERCERO. DE LAS FUNCIONES DEL COMITÉ DE EVALUACIÓN Y SEGUIMIENTO
+### CAPITULO TERCERO
+
+Del Territorio del Estado.
+
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 1992)</small>
 
 ###### Artículo 9o.
 
@@ -189,69 +171,45 @@ El territorio del Estado es el que de hecho y por derecho le pertenece, dentro d
 
 ###### Artículo 10.
 
-Corresponde a los integrantes del Comité de Evaluación y Seguimiento:
+La Ley Orgánica Municipal del Estado de Aguascalientes, determinará los requisitos necesarios para la creación de Municipios.
 
-I. Asistir y participar en las sesiones del Comité de Evaluación y Seguimiento con voz y voto;
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
-II. Proponer a la o el Presidente del Comité de Evaluación y Seguimiento los invitados que pueden asistir a las sesiones;
+### CAPITULO CUARTO
 
-III. Proponer a la Secretaría Técnica los asuntos que considere se deban tratar en las sesiones del Comité de Evaluación y Seguimiento;
+De los Habitantes del Estado.
 
-IV. Aprobar el informe anual de medidas de evaluación y austeridad para presentarlo en el mes de febrero del siguiente ejercicio fiscal, a la Comisión de Administración;
-
-V. Solicitar a la o el Presidente del Comité de Evaluación y Seguimiento la convocatoria a sesión extraordinaria, con el señalamiento de los asuntos específicos a tratar y su justificación;
-
-VI. Proporcionar a la Secretaría Técnica la información que solicite en el ejercicio de sus atribuciones;
-
-VII. Firmar las actas de las sesiones del Comité de Evaluación y Seguimiento a las que hubiese asistido, y
-
-VIII. Las demás que les encomiende la o el Presidente del Comité de Evaluación y Seguimiento en el ámbito de su competencia.
-
-### CAPÍTULO CUARTO. DE LA OPERACIÓN DEL COMITÉ DE EVALUACIÓN Y SEGUIMIENTO
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
 ###### Artículo 11.
 
-Corresponde a la o el Secretario Técnico del Comité de Evaluación y Seguimiento:
+Son habitantes del Estado, las personas que residen en su territorio.
 
-I. Auxiliar a la o el Presidente del Comité de Evaluación y Seguimiento en el desarrollo de las sesiones;
+La residencia no se pierde por ausencia en el desempeño de cargos públicos de elección popular o de comisiones oficiales del Estado de Aguascalientes.
 
-II. Declarar la existencia de quórum y someter a consideración del Comité de Evaluación y Seguimiento el orden del día de las sesiones;
-
-III. Distribuir la convocatoria de las sesiones a petición de la o el Presidente del Comité de Evaluación y Seguimiento, así como confirmar la asistencia de sus integrantes;
-
-IV. Integrar las carpetas y demás información de los asuntos que se discutirán en las sesiones, en forma electrónica, y enviarlas a los integrantes del Comité de Evaluación y Seguimiento;
-
-V. Elaborar el proyecto de acta de cada sesión con los proyectos de acuerdos, así como remitirla a los integrantes y asesores del Comité de Evaluación y Seguimiento, dentro de los cinco días hábiles siguientes a la celebración de la sesión para su revisión, comentarios y, en su caso, firma;
-
-VI. Solicitar a las áreas gestoras del gasto la información sobre las acciones relacionadas con la ejecución de las medidas de racionalidad y austeridad;
-
-VII. Registrar los acuerdos que deriven de las sesiones, los cuales deberán incluir el nombre del área o áreas responsables de su cumplimiento; así como la fecha compromiso para su atención; dar seguimiento a su cumplimiento, y comunicar su avance al Comité de Evaluación y Seguimiento en la sesión correspondiente;
-
-VIII. Firmar de manera electrónica las actas de las sesiones del Comité de Evaluación y Seguimiento;
-
-IX. Llevar a cabo el control, resguardo y certificación de las actas y documentos del Comité de Evaluación y Seguimiento;
-
-X. Proponer al Comité de Evaluación y Seguimiento los Indicadores de Austeridad;
-
-XI. Analizar el cumplimiento de las medidas de racionalidad y austeridad, en coordinación con las áreas gestoras del gasto competentes, así como comunicar los resultados y proponer las medidas conducentes al Comité de Evaluación y Seguimiento;
-
-XII. Elaborar el informe anual de evaluación de las medidas de racionalidad y austeridad;
-
-XIII. Proponer a la o el Presidente del Comité de Evaluación y Seguimiento la celebración de sesiones extraordinarias;
-
-XIV. Someter a consideración del Comité de Evaluación y Seguimiento el proyecto de calendario anual de sesiones ordinarias, y
-
-XV. Las demás que determine el Comité de Evaluación y Seguimiento o la o el Presidente del mismo.
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 1973)</small>
 
 ###### Artículo 12.
 
-El Comité de Evaluación y Seguimiento sesionará de manera ordinaria por lo menos tres veces por año, y de manera extraordinaria cuando sea necesario.
+Son derechos de los habitantes del Estado, varones y mujeres:
+
+I.- Votar en las elecciones populares, si son ciudadanos mexicanos en ejercicio de sus derechos y tienen una residencia en el Estado no menor de seis meses;
+
+II.- Ser votado en las elecciones populares y desempeñar cualquier empleo del Estado, cuando, además de los requisitos que fija la fracción anterior, el individuo reúna las condiciones que esta Constitución o la ley relativa, exijan para cada caso.
+
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
 ###### Artículo 13.
 
-A las sesiones del Comité de Evaluación y Seguimiento podrán asistir como invitados, con voz, pero sin voto, servidoras y servidores públicos del PJF, especialistas o cualquier otra persona, que puedan aportar conocimientos o experiencias según los temas a tratar.
+Son obligaciones de los habitantes del Estado:
 
-Los invitados solamente estarán presentes durante la discusión del tema para el cual fueron convocados.
+I.- Si son mexicanos, las que se detallan en el artículo 31 de la Constitución Federal.
+
+II.- Si son ciudadanos, las contenidas en el artículo 36 de la misma Constitución; y
+
+III.- Si son extranjeros, contribuir para los gastos públicos de la manera que dispongan las leyes, obedecer y respetar las Instituciones, Leyes y Autoridades del Estado; sujetarse a los fallos y sentencias de los Tribunales, sin poder intentar otros recursos que los que se conceden a los mexicanos.
+
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
 ### CAPITULO QUINTO
 
@@ -261,9 +219,9 @@ De la División de los Poderes.
 
 ###### Artículo 14.
 
-Las sesiones del Comité de Evaluación y Seguimiento se considerarán válidas estando presente la o el Presidente o en su caso, el suplente.
+El Supremo Poder del Estado se divide, para su ejercicio, en Legislativo, Ejecutivo y Judicial. Nunca podrán reunirse dos o más de estos Poderes en un sólo individuo o corporación, ni depositarse el Legislativo en una persona.
 
-Los acuerdos se aprobarán por mayoría de votos de los miembros presentes; en caso de empate, la o el Presidente del Comité de Evaluación y Seguimiento tendrá voto de calidad.
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
 ### CAPITULO SEXTO
 
@@ -273,19 +231,121 @@ Del Poder Legislativo.
 
 ###### Artículo 15.
 
-En la última sesión de cada año se aprobará el calendario de sesiones ordinarias del Comité de Evaluación y Seguimiento aplicable al año siguiente.
+El Poder Legislativo se deposita en una corporación que se denomina Congreso del Estado.
 
-La Secretaría Técnica distribuirá la convocatoria de sesiones ordinarias a los integrantes, asesores e invitados, con una anticipación de cuando menos siete días naturales previos a la fecha de celebración.
-
-La convocatoria deberá incluir el orden del día, las carpetas en forma electrónica y demás información a tratar en la sesión correspondiente.
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 1994)</small>
 
 ###### Artículo 16.
 
-Las convocatorias para las sesiones extraordinarias del Comité de Evaluación y Seguimiento se emitirán, cuando menos, con cinco días naturales de anticipación a la fecha de la celebración de la sesión, a la cual se anexará el orden del día, las carpetas en forma electrónica, así como la información a tratar en la sesión correspondiente.
+El Congreso se integrará con representantes del pueblo que residan en el territorio del Estado, electos en su totalidad cada tres años y que se denominarán Diputados.
+
+Por cada Diputado Propietario se eligirá (sic) un Suplente.
+
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2008)</small>
 
 ###### Artículo 17.
 
-La convocatoria se podrá realizar por cualquier medio que facilite la pronta y eficaz comunicación, incluidos los medios tecnológicos con los que cuente el Tribunal Electoral.
+En el Estado la renovación de los Poderes Legislativo y Ejecutivo, así como los Ayuntamientos se verificarán por medio de elecciones democráticas directas, a través del ejercicio del sufragio universal y secreto.
+
+A. El Congreso del Estado estará integrado por dieciocho Diputados electos según el principio de votación de mayoría relativa mediante el sistema de Distritos electorales uninominales y nueve Diputados electos según el principio de representación proporcional, mediante el sistema de listas votadas en una circunscripción plurinominal cuya demarcación es el Estado.
+
+El Instituto Estatal Electoral, fijará el ámbito territorial de los distritos electorales uninominales basados en un criterio poblacional. Se tomarán en cuenta los principios de contigüidad de fronteras, conectividad, compacidad y respeto a la división seccional; se propiciará la unidad geográfica de los distritos electorales. El número de habitantes que contendrá cada distrito electoral. El número de habitantes que contendrá cada distrito no podrá diferir en veinte por ciento, más o menos del cociente resultante. La revisión o adecuación, se realizará después de cada Censo General de Población o Conteo de Población más reciente que realicen (sic) el Instituto Nacional de Estadística y Geografía.
+
+La asignación de los Diputados según el principio de representación proporcional, se sujetará a las siguientes bases y a lo que en particular determine la Ley en materia electoral:
+
+l. El partido político deberá acreditar que tiene su registro nacional e inscribir candidatos a Diputados por mayoría relativa, en por lo menos catorce de los dieciocho distritos uninominales;
+
+II. Las diputaciones por el principio de representación proporcional, se otorgarán a todo partido político que obtenga por lo menos el dos punto cinco por ciento de la votación emitida; y
+
+III. La Ley de la materia determinará la fórmula y el procedimiento que se observará en dicha asignación.
+
+Los Diputados por mayoría relativa y de representación proporcional, tendrán la misma jerarquía e igualdad de derechos y obligaciones.
+
+Las obligaciones de los Diputados consisten en el ejercicio de las funciones, legislativa, de representación popular, fiscalización, nombramiento, presupuestal, de control, jurisdiccional, sanción y demás que establezcan las leyes; y desempeñarán sus funciones en el Pleno del Congreso del Estado, Diputación Permanente, Gran Jurado, Comisiones y Comités del Poder Legislativo.
+
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2009)</small>
+
+B. El Sistema Estatal Electoral se regirá por los principios rectores de certeza, legalidad, independencia, imparcialidad, definitividad y objetividad.
+
+La organización de las elecciones en el Estado, así como del fomento del modelo de vida democrático, de participación y representación es una función pública que se ejerce a través de un organismo público autónomo denominado, Instituto Estatal Electoral.
+
+El Instituto Estatal Electoral, como ente de interés público, será autoridad en la materia, actuará con independencia en sus decisiones, funcionamiento y profesionalismo en su desempeño; estará dotado de autonomía, personalidad jurídica y patrimonio propios, tendrá como autoridad máxima de gobierno un Consejo General.
+
+El Consejo General será electo por el voto de la mayoría calificada de los integrantes del Congreso del Estado y estará integrado por cinco Consejeros Electorales, de los cuales uno será presidente y cuatro vocales, durarán en su encargo tres años y podrán ser reelectos hasta por un nuevo período.
+
+Por cada Consejero se elegirá un suplente.
+
+El cargo de Consejero Electoral, no será compatible con cargo de servidor público alguno, así como con cualquier cargo por el que se reciba pago o retribución alguna con recursos públicos.
+
+La Ley de la materia determinará la organización del Instituto, sus facultades y estructura orgánica, debiendo contar el Instituto con un órgano auxiliar para la fiscalización de los recursos de los partidos políticos y asociaciones políticas estatales; una Contraloría especializada en la fiscalización de los recursos y programas del Instituto, ambos dotados con autonomía técnica y de gestión, así como la estructura del servicio profesional electoral necesaria para el cumplimento de sus labores. El titular de la Contraloría, será electo mediante el voto de la mayoría calificada de los integrantes del Congreso del Estado.
+
+Las elecciones ordinarias deberán celebrase, el primer domingo de julio del año de la elección.
+
+Los partidos políticos nacionales acreditados en el Estado, serán entidades de interés público, podrán y serán los únicos facultados para participar en las elecciones estatales, distritales y municipales; estando asimismo facultados para participar en la vida política del Estado, para lo cual tendrán acceso a financiamiento público y apoyos gubernamentales en términos de lo estipulado en la Ley de la materia
+
+Los partidos políticos nacionales acreditados en el Estado tendrán como fin el promover la participación del pueblo en la vida democrática, en la representación estatal y el acceso al poder público.
+
+La ley de la materia regulará los derechos, prerrogativas y obligaciones de los partidos políticos nacionales acreditados en el Estado, al igual que los respectivos de los ciudadanos y la población en general para la participación en la vida política del Estado y el acceso al poder. Se establecerán en dicha norma los procedimientos, requisitos y normas para el desarrollo de las elecciones ordinarias y extraordinarias estatales y municipales, así como la participación y procedimientos jurisdiccionales y medios de impugnación que darán certeza al Sistema Estatal Electoral y sus procesos.
+
+(NOTA: EL 12 DE NOVIEMBRE DE 2009, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 52/2009 Y SU ACUMULADA 53/2009, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL APARTADO B, PÁRRAFO DÉCIMO SEGUNDO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 13 DE NOVIEMBRE DE 2009 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+El Tribunal Estatal Electoral, será un órgano jurisdiccional, TEMPORAL, autónomo en su funcionamiento e independiente en sus decisiones. Estará integrado por tres Magistrados, adscritos al Poder Judicial del Estado. EN TIEMPO NO ELECTORAL SERÁ EL PLENO DEL SUPREMO TRIBUNAL DE JUSTICIA DEL ESTADO QUIEN CONOZCA Y RESUELVA DE LOS RECURSOS. El Tribunal Estatal Electoral, tendrá entre sus facultades, resolver los medios de impugnación y nulidades que la ley electoral establezca, así como declarar la validez de las elecciones.
+
+La norma penal del Estado, determinará los delitos en materia electoral, así como las sanciones aplicables.
+
+Los partidos políticos, en ningún momento podrán contratar o adquirir por sí o por terceras personas, tiempos o espacios en cualquier modalidad de radio, televisión o prensa escrita o electrónica.
+
+El Sistema Estatal Electoral, estará regulado por la Ley de la materia, y deberá garantizar en todo momento los siguientes derechos y obligaciones:
+
+a) Los partidos políticos se constituirán sólo por ciudadanos sin intervención de organizaciones gremiales, afiliación corporativa, quienes tendrán el derecho exclusivo para solicitar el registro de candidatos a cargos de elección popular;
+
+b) Las autoridades electorales sólo intervendrán en la vida interna de los partidos en términos de lo establecido en el Código Electoral;
+
+c) Establecer las fórmulas y criterios para la asignación de financiamiento y prerrogativas de los partidos políticos, así como los topes y límites del financiamiento que estos pueden recibir de sus simpatizantes;
+
+d) Fijar criterios y límites para establecer las erogaciones de los partidos políticos en sus precampañas y campañas;
+
+e) Establecer las bases y procedimientos para la liquidación y destino de los bienes y recursos de los partidos políticos que pierdan su registro;
+
+f) Establecer las bases para los procedimientos relativos al control, vigilancia y sanción, respecto del origen y destino de los recursos de los partidos políticos; y
+
+g) Establecer las bases y normas para las precampañas y campañas de los partidos políticos, así como las conductas prohibidas y las sanciones por incumplimiento y el respectivo sistema de medios de impugnación.
+
+C. Con relación a las figuras del Plebiscito y el Referéndum, el Instituto Estatal Electoral será el órgano responsable de organizarlo, previa aprobación del H. Congreso del Estado.
+
+El Plebiscito y Referéndum podrán solicitarlos:
+
+a) El dos punto cinco por ciento de los ciudadanos inscritos en el Padrón Electoral, cuya identificación se acreditará con el folio, nombre y firma que se contiene en la credencial de elector;
+
+b) Una tercera parte de los Diputados que integran el H. Congreso del Estado;
+
+c) Los Ayuntamientos de los Municipios del Estado, en el ámbito de su competencia; o
+
+d) El Gobernador del Estado.
+
+Para que la solicitud se declare aprobada se requiere el voto favorable de las dos terceras partes de los integrantes del H. Congreso del Estado la cual, deberá ser turnada al Instituto Estatal Electoral para que a su vez, elabore la pregunta para expedir enseguida la convocatoria correspondiente.
+
+No podrán someterse a referéndum ni a Plebiscito aquéllas Leyes o Artículos que contemplen las siguientes materias:
+
+a) Las disposiciones constitucionales y legales en materia tributaria o fiscal, así como la Ley de Ingresos y Presupuestos de Egresos en el Estado de Aguascalientes;
+
+b) Ley Orgánica de la Administración Pública del Estado de Aguascalientes;
+
+c) Ley Orgánica del Poder Legislativo y sus Reglamentos;
+
+d) Ley Orgánica del Poder Judicial del Estado; y
+
+e) Las demás que determinen las leyes.
+
+Los procedimientos, mecanismos, plazos, términos, medios de impugnación y publicidad de los procesos electorales serán aplicables a las figuras del plebiscito y el referéndum.
+
+Se establece en el Estado la Iniciativa Popular, como un medio ciudadano para proponer al Congreso del Estado la creación, reformas, adición, derogación o abrogación de leyes del marco jurídico estatal, la cual opera bajo los siguientes requisitos;
+
+a) Podrán solicitarla, el dos punto cinco por ciento de los ciudadanos inscritos en el Padrón Electoral.
+
+b) Deberán acreditar los solicitantes estar inscritos en el Padrón Electoral Federal.
+
+c) Se dará trámite a la Iniciativa en los términos y procedimientos de la Ley Orgánica del Poder Legislativo.
 
 ###### Artículo 17 Bis.
 
@@ -295,23 +355,59 @@ La convocatoria se podrá realizar por cualquier medio que facilite la pronta y 
 
 ###### Artículo 18.
 
-Las sesiones del Comité de Evaluación y Seguimiento que no puedan llevarse a cabo por falta de quórum o cualquier otra circunstancia, se realizarán dentro de los cinco días siguientes, convocando a ésta con al menos un día hábil de anticipación.
+Los diputados no podrán ser reelectos para el período inmediato.
 
-En las sesiones ordinarias que, una vez iniciadas, se deban suspender, serán reanudadas en la misma fecha, siempre que las circunstancias o el motivo por el cual se suspendieron lo permitan. En caso de que ello no sea posible, se convocará a su reanudación dentro de los cinco días siguientes a la fecha de suspensión. La convocatoria se realizará en los términos del párrafo anterior.
+Los Suplentes podrán ser electos para el período inmediato, con el carácter de Propietarios, siempre que no hubieren estado en ejercicio; pero los Propietarios no podrán ser electos para el período inmediato, con el carácter de Suplentes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JUNIO DE 1978)</small>
 
 ###### Artículo 19.
 
-Las sesiones podrán celebrarse presencialmente o en forma remota, mediante el uso de cualquier medio tecnológico con el que cuente el Tribunal Electoral.
+Para ser Diputado se requiere:
+
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 1950)</small>
+
+I.- Ser ciudadano mexicano, por nacimiento, en ejercicio de sus derechos.
+
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 1973)</small>
+
+II.- Tener veintiún años cumplidos el día de la elección;
+
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 1994)</small>
+
+III.- Haber nacido en el Estado o tener una residencia efectiva en él, no menor de cuatro años inmediatamente anteriores al día de la elección.
+
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
 ###### Artículo 20.
 
-En cada sesión se levantará un acta, la cual se someterá a la consideración de los integrantes del Comité de Evaluación y Seguimiento, y deberá ser firmada de forma electrónica dentro de los cinco días siguientes a su celebración.
+No pueden ser electos Diputados:
+
+I.- Las personas que desempeñen cargos públicos de elección popular, sean de la Federación, del Estado o Municipales.
+
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 1991)</small>
+
+II.- Los Magistrados, tanto del Supremo Tribunal de Justicia, como del Tribunal Electoral y de la Comisión Estatal Electoral; los Jueces y Secretarios de los diversos ramos, el Procurador de Justicia y los delegados de las dependencias federales en el Estado.
+
+III.- Los individuos que hayan sido condenados por delito intencional a sufrir pena privativa de la libertad; y
+
+IV.- Los que pertenezcan al estado eclesiástico o sean ministros de cualquier culto.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1953)</small>
+
+Los ciudadanos comprendidos en las fracciones I y II de este artículo, podrán ser electos Diputados, si se separan de sus cargos o empleos noventa días antes de la elección.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE JULIO DE 1994)</small>
 
 ###### Artículo 21.
 
-Las personas servidoras públicas del Tribunal Electoral serán responsables, en el ámbito de sus atribuciones, del cumplimiento de las medidas de racionalidad y austeridad, así como de los acuerdos que emita el Comité de Evaluación y Seguimiento.
+Los Diputados son inviolables por la manifestación de sus ideas en ejercicio de sus funciones y jamás podrán ser reconvenidos ni juzgados por ello, sin embargo, serán responsables de los delitos que cometan durante el tiempo de su encargo, pero no podrá ejercitarse acción penal en su contra hasta que seguido el procedimiento constitucional, se decida la separación del cargo y la sujeción a la acción de los tribunales.
 
-Asimismo, deberán remitir al Comité de Evaluación y Seguimiento los informes que éste solicite con base en lo previsto en el presente Acuerdo.
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 1978)</small>
+
+El Presidente del Congreso o de la Diputación Permanente, en su caso, velará por el respeto al fuero constitucional de los integrantes del mismo, y, por la inviolabilidad del Recinto donde se reúnan a sesionar.
+
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
 ###### Artículo 22.
 
@@ -365,6 +461,10 @@ I.- Legislar para el Estado, sobre todas las materias que no sean de la competen
 
 II.- Decretar las contribuciones necesarias para cubrir los gastos del Estado y de los Municipios.
 
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2011)</small>
+
+Las contribuciones, además de ser medios para obtener los recursos necesarios para el sostenimiento de los gastos públicos, podrán servir como instrumentos de la política económica general y atender a la realización de los principios y fines contenidos en esta Constitución.
+
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2008)</small>
 
 El Congreso tomará en cuenta las propuestas que hagan los Ayuntamientos relativos a las cuotas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras y la tabla de valores unitarios de suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria, sin dejar de establecer las tasas adicionales que se fijen sobre la propiedad inmobiliaria, su fraccionamiento, división, consolidación, traslación y mejora, así como las que tengan por base el cambio de valor de los inmuebles.
@@ -380,6 +480,10 @@ Dentro del Presupuesto de Egresos del Estado, se incluirán las partidas plurian
 > <small>(REFORMADO, P.O. 28 DE MAYO DE 2007)</small>
 
 La aprobación del establecimiento de compromisos plurianuales deberá hacerse siempre y cuando no se cause perjuicio a la viabilidad financiera del Estado y Municipios ni se modifiquen ramos, programas y proyectos prioritarios.
+
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2011)</small>
+
+Los Poderes Estatales Legislativo, Ejecutivo y Judicial, incluyendo las entidades paraestatales, así como los organismos con autonomía reconocida en esta Constitución que ejerzan recursos del Presupuesto de Egresos del Estado, deberán incluir dentro de sus proyectos de presupuestos, los tabuladores desglosados de las remuneraciones que se propone perciban sus servidores públicos. Estas propuestas deberán observar el procedimiento que para la aprobación de los presupuestos de egresos del Estado, establezcan las disposiciones constitucionales y legales aplicables.
 
 > <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2008)</small>
 
@@ -413,11 +517,17 @@ X.- Convocar a elecciones conforme a la Ley.
 
 XI.- Para erigirse en Colegio Electoral en términos de lo dispuesto por los Artículos 42 y 44 de esta Constitución.
 
-XII.- Designar, en los términos que previene esta Constitución, al ciudadano que debe suplir al Gobernador en sus faltas temporales o absolutas.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2010)</small>
 
-XIII.- Conceder licencia al Gobernador, para salir del territorio del Estado, cuando fuere por más de veinte días, en cuyo caso se nombrará al ciudadano que deba sustituirlo durante su ausencia.
+XII.- Designar en los términos que prevé esta Constitución, al ciudadano que deba suplir al Gobernador en sus faltas absolutas, así como conceder licencia al Gobernador para salir del territorio del Estado por más de veinte días, así como para separarse del cargo hasta por noventa días;
 
-XIV.- Decidir sobre la renuncia del cargo de Gobernador; conceder licencia a dicho servidor público para separarse del cargo, hasta por noventa días.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2010)</small>
+
+XIII.- Decidir sobre la renuncia del cargo de Gobernador;
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2010)</small>
+
+XIV.- Ratificar, con el voto de la mayoría de los integrantes del Congreso, el nombramiento de Jefe de Gabinete que otorgue el Titular del Poder Ejecutivo;
 
 XV.- Designar a los Magistrados del Supremo Tribunal de Justicia del Estado, del Tribunal de lo Contencioso Administrativo y del Tribunal Local Electoral, de la terna propuesta por el Ejecutivo; en caso de que los rechace, aceptar una nueva terna en términos del Artículo 54 de esta Constitución.
 
@@ -479,11 +589,15 @@ XXXIV.- Aprobar la realización de Proyectos de Prestación de Servicios, su con
 
 > <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2008)</small>
 
-XXXV.- Coordinar y evaluar por medio de la Comisión de Vigilancia, sin perjuicio de su autonomía técnica y de gestión, el desempeño de las funciones del Órgano Superior de Fiscalización del Estado, en los términos que disponga la Ley; y
+XXXV.- Coordinar y evaluar por medio de la Comisión de Vigilancia, sin perjuicio de su autonomía técnica y de gestión, el desempeño de las funciones del Órgano Superior de Fiscalización del Estado, en los términos que disponga la Ley; y (sic)
+
+> <small>(ADICIONADA, P.O. 17 DE ENERO DE 2011)</small>
+
+XXXVI.- Expedir leyes que instituyan la justicia de lo contencioso - administrativo dotando de plena autonomía para dictar sus fallos, y que tenga a su cargo dirimir las controversias que se susciten entre la administración pública estatal y municipal, con los particulares; estableciendo las normas para su organización, su funcionamiento, los procedimientos y los recursos contra sus resoluciones; y
 
 > <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2008)</small>
 
-XXXVI.- Las demás que le concede esta Constitución y la General de la República.
+XXXVII.- Las demás que le concede esta Constitución y la General de la República.
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 8 DE DICIEMBRE DE 2008)</small>
 
@@ -727,23 +841,19 @@ El Gobernador del Estado será electo directamente por el pueblo, en los términ
 
 "PROTESTO GUARDAR Y HACER GUARDAR LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS, LA PARTICULAR DEL ESTADO Y LAS LEYES QUE DE AMBAS EMANEN, Y DESEMPEÑAR LEAL Y PATRIOTICAMENTE EL CARGO DE GOBERNADOR QUE EL PUEBLO ME HA CONFERIDO, MIRANDO EN TODO POR EL BIEN Y PROSPERIDAD DEL ESTADO; Y SI ASI NO LO HICIERE, QUE EL PUEBLO ME LO DEMANDE".
 
-> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 1953)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 42.
 
-En caso de falta absoluta de Gobernador, ocurrida dentro de los dos primeros años del período respectivo, si el Congreso estuviere en sesiones se constituirá inmediatamente en Colegio Electoral y concurriendo cuando menos las dos terceras partes del número total de sus miembros, nombrará en escrutinio secreto y por mayoría absoluta de votos un Gobernador Interino; el propio Congreso expedirá, dentro de los diez días siguientes al de la designación de Gobernador Interino, la convocatoria para la elección de Gobernador que deba concluír el período respectivo, debiendo mediar entre la fecha de la convocatoria y la que se señale para la verificación de las elecciones, un plazo no menor de seis meses ni mayor de ocho.
+En caso de falta absoluta de Gobernador, ocurrida dentro de los dos primeros años del período respectivo, el Jefe de Gabinete será el encargado del despacho del Poder Ejecutivo. El Congreso expedirá dentro de los veinte días siguientes la Convocatoria para la elección de Gobernador que debe concluir el período respectivo, debiendo mediar entre la fecha de la convocatoria y la que se señale para la verificación de las elecciones, un plazo no menor de seis meses ni mayor de ocho. La persona así elegida asumirá el cargo de Gobernador en un plazo no mayor de dos meses contados a partir de que sea electo.
 
-Si el Congreso no estuviere en sesiones, la Diputación Permanente nombrará desde luego un Gobernador Provisional y convocará a sesiones al Congreso para que éste, a su vez, designe Gobernador Interino y expida la convocatoria a elecciones extraordinarias en los términos del párrafo anterior.
+Cuando la falta de Gobernador ocurriese en los cuatro últimos años del período correspondiente, el Jefe de Gabinete se encargará del despacho del Poder Ejecutivo, en tanto el Congreso se erige en Colegio Electoral y nombra por mayoría absoluta al Gobernador Sustituto que deberá concluir el período.
 
-> <small>(REFORMADO, P.O. 13 DE JULIO DE 2009)</small>
-
-Cuando la falta de Gobernador ocurriese en los cuatro últimos años del período correspondiente, el Congreso, si se encontrare en sesiones, designará con las formalidades que establece este Artículo, al Gobernador Sustituto que deberá concluir el período; si estuviere en receso, la Diputación Permanente nombrará un Gobernador Provisional y convocará al Congreso a período extraordinario de sesiones para que el Pleno haga la designación de Gobernador Sustituto.
-
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 43.
 
-En las faltas temporales del Gobernador, ejercerá el Poder Ejecutivo, con carácter de Interino, la persona que designe el Congreso con los requisitos y formalidades que esta Constitución establece. Si el Congreso no estuviere reunido, la Diputación Permanente nombrará Gobernador Provisional y convocará de inmediato al Congreso para la designación del Interino.
+En las faltas temporales del Gobernador, ejercerá el Poder Ejecutivo el Jefe de Gabinete como encargado del Despacho.
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
@@ -751,11 +861,11 @@ En las faltas temporales del Gobernador, ejercerá el Poder Ejecutivo, con cará
 
 Si al comenzar un período constitucional no se presentase el Gobernador electo, o la elección no estuviere hecha y declarada el primero de diciembre, cesará, sin embargo, el Gobernador cuyo período haya concluido y se encargará desde luego del Poder Ejecutivo, en calidad de Gobernador Interino, el ciudadano que designe el Congreso, o en su receso, con el carácter de Provisional, el que designe la Diputación Permanente, observándose lo dispuesto en los artículos 42 y 43 de esta Constitución.
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 45.
 
-En los casos en que el Gobernador pueda legalmente ausentarse del Territorio del Estado, sin separarse de su cargo, el Secretario General de Gobierno quedará encargado del Despacho, quien se limitará a conocer de los asuntos que fueren inaplazables y de los de mero trámite.
+En los casos en que el Gobernador se ausente legalmente del territorio del Estado, sin separarse de su cargo, el Jefe de Gabinete quedará encargado del Despacho, y se limitará a conocer de los asuntos que fueren inaplazables y de los de mero trámite.
 
 > <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2001)</small>
 
@@ -793,13 +903,9 @@ VIII.- Concertar empréstitos en los términos de la fracción IV del Artículo 
 
 IX.- Ejercer actos de dominio sobre los bienes de la propiedad del Estado, con autorización del Congreso, tratándose de inmuebles.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2010)</small>
 
-> <small>(REFORMADA, P.O. 26 DE JULIO DE 2010)</small>
-
-X.- Nombrar y remover al Secretario General de Gobierno, al Secretario de Finanzas y a los demás servidores públicos del Poder Ejecutivo Estatal.
-
-Proponer al Congreso del Estado una terna, para que éste, por el voto de más de la mitad de sus miembros, designe al Procurador General de Justicia, el cual sólo podrá ser removido de su cargo por las causas que señale la Ley.
+X.- Nombrar y remover al Jefe del Gabinete y al Procurador General de Justicia del Estado cuyos nombramientos serán ratificados por el Congreso del Estado, y nombrar y remover al Secretario de Gobierno, al Secretario de Finanzas y a los demás servidores públicos del Poder Ejecutivo Estatal;
 
 XI.- Facilitar al Poder Judicial el auxilio que necesite para el ejercicio de sus funciones y hacer que se cumplan las sentencias de los Tribunales.
 
@@ -825,37 +931,35 @@ XIX.- Las demás que esta Constitución y la General de la República le confier
 
 El cargo de Gobernador solo es renunciable por causa grave que calificará el Congreso, ante el que se presentará la renuncia.
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 28 DE DICIEMBRE DE 2010)</small>
 
-### CAPITULO UNDECIMO
+### CAPITULO UNDECIMO. Del Jefe de Gabinete
 
-Del Secretario General de Gobierno.
-
-> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 1991)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 48.
 
-Para el despacho de los negocios de la Administración Pública del Estado, habrá un Secretario General de Gobierno, quien deberá reunir los siguientes requisitos:
+La coordinación de la Administración Pública del Estado y la función de interlocución del Poder Ejecutivo con los Poderes Legislativo y Judicial del Estado, así como con las autoridades municipales se realizará a través del Jefe de Gabinete, quien deberá reunir los requisitos siguientes:
 
-> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2003)</small>
-
-I.- Ser ciudadano mexicano por nacimiento y nativo del Estado con residencia efectiva en él no menor de diez años inmediatamente anteriores al día de la designación.
+I.- Ser ciudadano mexicano por nacimiento, nativo del Estado o con residencia efectiva en él, no menor de cinco años inmediatamente anteriores al día de la designación;
 
 II.- Estar en pleno ejercicio de sus derechos; y
 
-III.- Ser mayor de treinta años.
+III.- Ser mayor de 30 años.
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
+Los mismos requisitos se necesitarán para ser Secretario de Gobierno.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 49.
 
-Todos los despachos del Gobernador deberán ser firmados por el Secretario General de Gobierno.
+Todos los despachos del Gobernador deberán ser firmados por el Jefe de Gabinete.
 
-> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 50.
 
-Las faltas temporales del Secretario General de Gobierno serán suplidas por el servidor público inmediato inferior de la Secretaría que establezca la Ley, quien deberá firmar también cuando aquél quede encargado del Despacho.
+Las faltas temporales del Jefe del Gabinete serán suplidas por el Secretario de Gobierno, en cuyo caso éste deberá firmar los despachos del Gobernador.
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
@@ -975,7 +1079,9 @@ Corresponde al Supremo Tribunal de Justicia del Estado:
 
 I.- Conocer en los juicios civiles y penales de las instancias y recursos que sean de su competencia, conforme a las leyes secundarias.
 
-II.- Conocer, en los términos de esta Constitución de los procesos que por ilícitos oficiales se sigan en contra del Gobernador, de los Diputados, del Secretario General de Gobierno, del Procurador General de Justicia y de los Regidores y Síndicos de los Ayuntamientos.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2010)</small>
+
+II.- Conocer, en los términos de esta Constitución de los procesos que por ilícitos se sigan en contra del Gobernador, de los Diputados, del Jefe de Gabinete, del Secretario de Gobierno, del Procurador General de Justicia, el Presidente Municipal, Regidores y Síndicos de los Ayuntamientos.
 
 III.- Declarar si ha lugar a formación de causa en contra de los jueces, por ilícitos oficiales o del orden común.
 
@@ -995,79 +1101,57 @@ VIII.- Las demás facultades que le concede esta Constitución y las que estable
 
 Los Magistrados, antes de tomar posesión de sus cargos, deberán rendir la protesta de ley, ante el Congreso o la Diputación Permanente.
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 28 DE DICIEMBRE DE 2010)</small>
 
 CAPITULO DECIMOTERCERO
 
-Del Ministerio Público.
+Del Ministerio Público y del Sistema de Seguridad
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
-
-> <small>(REFORMADO, P.O. 26 DE JULIO DE 2010)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 59.
 
-El Ministerio Público será un organismo público, autónomo e independiente, con personalidad jurídica y patrimonio propio, que estará presidido por un Procurador General de Justicia del Estado, propuesto de una terna que presente el Ejecutivo del Estado, y designado por más de la mitad de los miembros del Congreso del Estado.
+La Ley organizará el Ministerio Público del Estado, cuyos servidores públicos serán nombrados y removidos libremente por el Ejecutivo Estatal. El Ministerio Público del Estado estará presidido por un Procurador General de Justicia del Estado, designado por el titular del Ejecutivo del Estado, y ratificado por el Congreso del Estado, con el voto de la mayoría de sus integrantes.
 
-El Procurador General de Justicia durará en su cargo cinco años, y podrá ser reelecto una sola vez, y deberá reunir los mismos requisitos que se requieren para ser Magistrado del Supremo Tribunal de Justicia de acuerdo con el Artículo 53 de esta Constitución.
+El Procurador General de Justicia deberá reunir los mismos requisitos que se requieren para ser Magistrado del Supremo Tribunal de Justicia de acuerdo con el Artículo 53 de esta Constitución.
 
-La Ley organizará el Ministerio Público del Estado, el cual ejercerá las funciones previstas en el Articulo 21 de la Constitución Política de los Estados Unidos Mexicanos, cuyos servidores públicos serán nombrados y removidos por el Consejo del Ministerio.
+La Ley organizará el Ministerio Público del Estado, el cual ejercerá las funciones previstas en el Artículo 21 de la Constitución Política de los Estados Unidos Mexicanos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
-
-> <small>(REFORMADO, P.O. 26 DE JULIO DE 2010)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 60.
 
-El Ministerio Público y el Sistema de Seguridad Pública se regirán por las siguientes disposiciones:
+El Ministerio Público estará sujeto a lo siguiente:
 
-A. DEL MINISTERIO PÚBLICO
+I.- La investigación de los delitos corresponde al Ministerio Público y a las policías, las cuáles actuarán bajo la conducción y mando de aquél en el ejercicio de esta función;
 
-I. La investigación de los delitos corresponde al Ministerio Público y a las policías, las cuales actuarán bajo la conducción y mando de aquél en el ejercicio de esta función;
+II.- El ejercicio de la acción penal ante los tribunales corresponde al Ministerio Público, quien podrá considerar criterios de oportunidad para su ejercicio de acuerdo con los supuestos establecidos en la ley;
 
-II. El ejercicio de la acción penal ante los tribunales corresponde al Ministerio Público. La Ley determinará los casos en que los particulares podrán ejercer la acción penal ante la autoridad judicial;
+III.- El Ministerio Público procurará que los juicios se sigan con toda regularidad para que la administración de justicia sea pronta y expedita, pedir la aplicación de las penas e intervenir en todos los negocios que la Ley determine;
 
-III. El Ministerio Público podrá considerar criterios de oportunidad para el ejercicio de la acción penal, en los supuestos y condiciones que fije la Ley;
+IV.- El Ministerio Público deberá garantizar la protección de las víctimas, ofendidos, testigos y en general de todos los sujetos que intervengan en el proceso. Los jueces deberán vigilar el cumplimiento de esta obligación;
 
-IV. El Ministerio Público deberá garantizar la protección de víctimas, ofendidos, testigos y en general todas (sic) los sujetos que intervengan en el proceso. Los jueces deberán vigilar el buen cumplimiento de esta obligación; y
+V.- La Ley establecerá los casos en que proceda la impugnación de las resoluciones del Ministerio Público del Estado, así como las sanciones aplicables a aquellas personas que las interpongan de manera dolosa; y
 
-V. La Ley establecerá los casos en que proceda la impugnación de las resoluciones del Ministerio Público del Estado sobre el no ejercicio de la acción penal, así como las sanciones aplicables a aquellas personas que los interpongan de manera dolosa.
+VI.- Los agentes del Ministerio Público estarán sujetos a un sistema profesional de carrera en los términos de la normativa que al efecto se expida.
 
-El Consejo del Ministerio tendrá a su cargo la Carrera Ministerial. Las condiciones para el ingreso, formación y permanencia, en los diversos órganos que conforman el Ministerio Público, así como las facultades y obligaciones de éstos y de los servidores públicos que los integran, se regirán por lo dispuesto en esta Constitución y en su Ley Orgánica.
-
-El Consejo del Ministerio se integrará por cinco miembros: el Procurador General de Justicia, que será su Presidente; dos agentes del Ministerio Público, un representante del Poder Judicial y un representante del Poder Legislativo, el cual no podrá recaer en un Diputado.
-
-Los Consejeros deberán reunir los requisitos que la Ley determine y durarán en el cargo cuatro años, y serán sustituidos en forma escalonada por cuartas partes; el Presidente durará el mismo tiempo que dure en su encargo como Procurador General de Justicia.
-
-Los Agentes del Ministerio Público, deberán ser nombrados mediante un concurso de oposición aplicado por el Consejo del Ministerio, en la forma en que disponga en su Ley Orgánica, y durarán en su cargo diez años, con la posibilidad de que previa evaluación, puedan ser ratificados por el Consejo.
-
-B. DEL SISTEMA DE SEGURIDAD PÚBLICA
-
-I. Las instituciones de seguridad pública serán de carácter civil, disciplinado y profesional. El Ministerio Público y las instituciones policiales del Estado y los Municipios deberán coordinarse entre sí y con las instituciones policiales federales, para cumplir con los objetivos de la seguridad pública y conformarán el Sistema Estatal de Seguridad Pública, que estará sujeto a las siguientes bases mínimas:
-
-a) La regulación de la selección, ingreso, formación, permanencia, evaluación, reconocimiento y certificación de los integrantes de las instituciones de seguridad pública. La operación y desarrollo de estas acciones será competencia del Estado y los Municipios en el ámbito de sus respectivas atribuciones;
-
-b) El establecimiento de las bases de datos criminalísticos y de personal para las instituciones de seguridad pública. Ninguna persona podrá ingresar a las instituciones de seguridad pública si no ha sido debidamente certificado y registrado en el sistema;
-
-c) La formulación de políticas públicas tendientes a prevenir la comisión de delitos; y
-
-d) Se determinará la participación de la comunidad que coadyuvará, entre otros, en los procesos de evaluación de las políticas de prevención del delito así como de las instituciones de seguridad pública;
-
-II. Los Agentes del Ministerio Público, los peritos y los miembros de las instituciones policiales del Estado y los Municipios, podrán ser separados de sus cargos si no cumplen con los requisitos que las leyes vigentes en el momento del acto señalen para permanecer en dichas instituciones, o removidos por incurrir en responsabilidad en el desempeño de sus funciones. Si la autoridad jurisdiccional resolviere que la separación, remoción, baja, cese o cualquier otra forma de terminación del servicio fue injustificada, el Estado sólo estará obligado a pagar la indemnización y demás prestaciones a que tenga derecho, sin que en ningún caso proceda su reincorporación al servicio, cualquiera que sea el resultado del juicio o medio de defensa que se hubiere promovido; y
-
-III. Las autoridades estatales y municipales, a fin de propiciar el fortalecimiento del sistema de seguridad social del personal del Ministerio Público, de las corporaciones policiales y de los servicios periciales, de sus familias y dependientes, instrumentarán sistemas complementarios de seguridad social.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
-
-> <small>(REFORMADO, P.O. 26 DE JULIO DE 2010)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 61.
 
-El Procurador General de Justicia del Estado intervendrá en todos los asuntos judiciales en que la Ley de intervención al Ministerio Público. El Procurador podrá intervenir directamente o por medio de sus agentes.
+Las instituciones de seguridad públicas (sic) serán de carácter civil, disciplinado y profesional. El Ministerio Público, las instituciones policiales del Estado y los Municipios deberán coordinarse entre sí para cumplir con los objetivos de la seguridad pública y conformarán el Sistema Estatal de Seguridad Pública que estará sujeto a las siguientes bases:
 
-Además dará parte al Procurador General de la República de toda aquella norma jurídica de carácter general, a excepción de la materia electoral, que a su criterio estime que se contrapone a la Ley suprema.
+I.- Sus integrantes deberán coordinarse con las instituciones policiales federales, en los términos de la legislación aplicable;
 
-Tanto él como sus agentes se someterán estrictamente a las disposiciones de la Ley, siendo responsables de toda falta, omisión o violación en que incurran con motivo de sus funciones.
+II.- Los integrantes de las instituciones de seguridad pública estatal estarán sujetos a un sistema de desarrollo policial que comprenderá los esquemas de servicio de carrera, profesionalización, certificación y su régimen disciplinario en los términos de la Ley de la materia;
+
+III.- Se deberá (sic) integrar y mantener actualizadas permanentemente las bases de datos criminalísticos y del personal de las instituciones de seguridad pública;
+
+IV.- Se garantizará la formulación y ejecución de políticas públicas tendientes a prevenir la comisión de delitos, así como la participación social en los procesos de evaluación de dichas políticas de prevención del delito; y
+
+V.- Los agentes del Ministerio Público, los peritos y los miembros de las instituciones policiales del Estado y los Municipios, podrán ser separados de sus cargos si no cumplen con los requisitos que las leyes vigentes en el momento del acto señalen para permanecer en dichas instituciones, o removidos por incurrir en responsabilidad en el desempeño de sus funciones. Si la autoridad jurisdiccional resolviere que la separación, remoción, baja, cese o cualquier otra forma de terminación del servicio fue injustificada, el Estado sólo estará obligado a pagar la indemnización y demás prestaciones a que tenga derecho, sin que en ningún caso proceda su reincorporación al servicio, cualquiera que sea el resultado del juicio o medio de defensa que se hubiere promovido.
+
+Las autoridades estatales y municipales fortalecerán el sistema se seguridad social del personal del Ministerio Público, de las corporaciones policiales y de los servicios periciales, de sus familias y dependientes mediante un sistema complementario de seguridad social y de reconocimientos.
 
 > <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2001)</small>
 
@@ -1105,11 +1189,31 @@ No podrá hacerse pago alguno que no esté comprendido en el presupuesto o deter
 
 Si al iniciarse un año fiscal no hubiere sido aprobado el presupuesto general correspondiente, se ejercerá la iniciativa presentada por el titular del Poder Ejecutivo o los Ayuntamientos, con carácter de temporal por el lapso que determine la Ley Orgánica del Poder Legislativo del Estado.
 
-El Congreso, al aprobar el Presupuesto de Egresos, no podrá dejar de señalar la retribución que corresponda a un empleo que esté establecido por la Ley; en caso de que por cualquier circunstancia se omita fijar dicha remuneración, se entenderá por señalada la que hubiere tenido fijada en el presupuesto anterior, o en la Ley que estableció el empleo.
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2011)</small>
+
+El Congreso, al aprobar el Presupuesto de Egresos, no podrá dejar de señalar la retribución que corresponda a un empleo que esté establecido por la Ley; en caso de que por cualquier circunstancia se omita fijar dicha remuneración, se entenderá por señalada la que hubiere tenido fijada en el presupuesto anterior, o en la Ley que estableció el empleo. En todo caso, dicho señalamiento deberá respetar las bases previstas en el Artículo 70 de esta Constitución y en las leyes que en la materia expida el Congreso del Estado.
 
 > <small>(ADICIONADO, P.O. 28 DE MAYO DE 2007)</small>
 
 Tratándose de las partidas plurianuales aprobadas por el Congreso en términos de las Fracciones III y XXXIV del Artículo 27 de esta Constitución, éstas se ejercerán de acuerdo a lo establecido en el Decreto correspondiente, expedido por el Congreso del Estado.
+
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2011)</small>
+
+Los servidores públicos del Estado de Aguascalientes y de los Municipios, de sus entidades y dependencias, así como de sus administraciones paraestatales y paramunicipales, fideicomisos públicos, instituciones y organismos autónomos, y cualquier otro ente público, recibirán una remuneración adecuada e irrenunciable por el desempeño de su función, empleo, cargo o comisión, que deberá ser proporcional a sus responsabilidades.
+
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2011)</small>
+
+Dicha remuneración será determinada anual y equitativamente en los presupuestos de egresos correspondientes, bajo las siguientes bases:
+
+l. Se considera remuneración o retribución toda percepción en efectivo o en especie, incluyendo dietas, aguinaldos, gratificaciones, premios, recompensas, bonos, estímulos, comisiones, compensaciones y cualquier otra, con excepción de los apoyos y los gastos sujetos a comprobación que sean propios del desarrollo del trabajo y los gastos de viaje en actividades oficiales.
+
+II. Ningún servidor público podrá recibir remuneración, en términos de la fracción anterior, por el desempeño de su función, empleo, cargo o comisión, mayor a la establecida para el Gobernador del Estado en el presupuesto correspondiente y este a su vez no podrá percibir un ingreso mayor al del Presidente de la República en términos de lo establecido en el Articulo 127 de la Constitución Política de los Estados Unidos Mexicanos.
+
+III. No se concederán ni cubrirán jubilaciones, pensiones o haberes de retiro, ni liquidaciones por servicios prestados, como tampoco préstamos o créditos, sin que éstas se encuentren asignadas por la ley, decreto legislativo, contrato colectivo o condiciones generales de trabajo. Estos conceptos no formarán parte de la remuneración. Quedan excluidos los servicios de seguridad que requieran los servidores públicos por razón (sic) del cargo desempeñado así lo requieran.
+
+IV. Las remuneraciones y sus tabuladores serán públicos, y deberán especificar y diferenciar la totalidad de sus elementos fijos y variables tanto en efectivo como en especie.
+
+V. El Congreso del Estado expedirá las leyes para hacer efectivo el contenido del presente artículo y las disposiciones constitucionales relativas, y para sancionar penal y administrativamente las conductas que impliquen el incumplimiento o la elusión por simulación de lo establecido en este Artículo.
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
@@ -1243,7 +1347,9 @@ II.- Las participaciones federales que serán cubiertas por la Federación a los
 
 III.- Los ingresos derivados de la prestación de servicios públicos a su cargo.
 
-El Congreso del Estado aprobará las Leyes de Ingresos de los Municipios, revisará y fiscalizará sus cuentas públicas. Los presupuestos de egresos serán aprobados por los Ayuntamientos con base en sus ingresos disponibles.
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2011)</small>
+
+El Congreso del Estado aprobará las Leyes de Ingresos de los Municipios, revisará y fiscalizará sus cuentas públicas. Los presupuestos de egresos serán aprobados por los Ayuntamientos con base a sus ingresos disponible (sic) y deberán incluir en los mismos, los tabuladores desglosados de las remuneraciones que perciban los servidores públicos municipales, sujetándose a lo dispuesto en el artículo 65 de esta Constitución.
 
 Los recursos que integran la Hacienda Municipal serán ejercidos en forma directa por los Ayuntamientos, o bien por quien ellos autoricen, conforme a la Ley.
 
@@ -1281,11 +1387,9 @@ En lo conducente y de conformidad a los fines señalados en el párrafo tercero 
 
 X.- Elaborar las tablas de valores unitarios de suelo y construcciones, y someterlas a la aprobación del Congreso, para que sirvan de base para el cobro de contribuciones sobre la propiedad inmobiliaria; y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2010)</small>
 
-> <small>(REFORMADA, P.O. 26 DE JULIO DE 2010)</small>
-
-XI.- La policía preventiva estará al mando del Presidente Municipal en los términos de la Ley de Seguridad Pública del Estado. Aquélla acatará las órdenes que el Gobernador del Estado le transmita en aquellos casos que éste juzgue como de fuerza mayor o alteración grave del orden público.
+XI.- La Policía Preventiva Municipal estará al mando del Presidente Municipal, en los términos de la Ley del Sistema Estatal de Seguridad Pública del Estado. Aquélla acatará las órdenes que el Gobernador del Estado le transmita en los casos en que éste juzgue como de fuerza mayor o alteración grave del orden público y cuando así se disponga en los convenios o en las normas correspondientes.
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
@@ -1447,11 +1551,11 @@ Los recursos económicos de que dispongan el Estado y los Municipios, se adminis
 
 Todos los contratos que el Gobierno tenga que celebrar para la ejecución de obras públicas, serán adjudicados en subasta, mediante convocatoria, para que se presenten proposiciones en sobre cerrado, que será abierto en junta pública; tratándose de proyectos de Prestación de Servicios además se deberá asegurar al Estado o a los Municipios las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes, así como la obtención de mayores beneficios en igualdad de inversión en comparación con las realización del proyecto a través de inversión presupuestaria. La adjudicación directa de Proyectos de Prestación de Servicios, en los casos de excepción que así determine la ley que regule dichos proyectos, deberá ser ratificada por el Congreso del Estado.
 
-> <small>(REFORMADO, P.O. 18 DE JUNIO DE 1978)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 91.
 
-En caso de que desaparecieren los Poderes Ejecutivo y Legislativo, el Supremo Tribunal de Justicia nombrará un Gobernador Provisional. Si desaparecieren todos los Poderes, será Gobernador Provisional el último Presidente del Supremo Tribunal de Justicia, a falta de éste, y por su orden, el último Secretario General de Gobierno, el Presidente de la Comisión Permanente, o bien, quien haya fungido como Presidente de la anterior Legislatura.
+En caso de que desaparecieren los Poderes Ejecutivo y Legislativo, el Supremo Tribunal de Justicia nombrará un Gobernador Provisional. Si desaparecieren todos los Poderes, será Gobernador Provisional el último Presidente del Supremo Tribunal de Justicia, a falta de éste y por su orden, el último Jefe de Gabinete, el Presidente de la Diputación Permanente, o bien, quien haya fungido como Presidente de la anterior legislatura.
 
 > <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
@@ -1497,45 +1601,55 @@ DE LAS RESPONSABILIDADES DE LOS FUNCIONARIOS Y EMPLEADOS PUBLICOS.
 
 Esta Constitución conservará su vigor, aunque un trastorno público interrumpa su observancia. Si se estableciere un Gobierno contrario a sus principios, luego que el pueblo recobre su libertad volverá a ser acatada, y con sujeción a la misma, y a las leyes a que diere origen, serán juzgados los que la hubieren infringido.
 
-## TRANSITORIOS
+## ARTICULOS TRANSITORIOS.
 
-PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+1° Esta Constitución comenzará a regir el 10 de septiembre del presente año.
 
-SEGUNDO. El Comité de Evaluación y Seguimiento de las medidas de racionalidad y austeridad del Tribunal Electoral del Poder Judicial de la Federación deberá celebrar su sesión de instalación dentro de los diez días siguientes a la entrada en vigor del presente Acuerdo.
+2° El actual Poder Legislativo durará hasta el 15 de Septiembre de 1918, y los Poderes actuales, Ejecutivo y Judicial, hasta el 30 de noviembre de 1920.
 
-TERCERO. Para mayor difusión, publíquese el presente Acuerdo en las páginas de Intranet e internet del Tribunal Electoral del Poder Judicial de la Federación.
+3° El actual Congreso se ocupará de preferencia de las reformas de la Legislación del Estado en consonancia con la Constitución General del país, y la particular del Estado.
 
-La suscrita, Marcela Loredana Montero de Alba, Secretaria Administrativa y de la Comisión de Administración del Tribunal Electoral del Poder Judicial de la Federación, con fundamento en lo dispuesto por el artículo 208, fracciones XIV y XXIV, del Reglamento Interno del citado Órgano Jurisdiccional
+Expedida en el Salón de sesiones del Congreso del Estado a los tres días del mes de septiembre de mil novecientos diecisiete.- Mariano Ramos, Diputado propietario por el 1er. Distrito electoral, Presidente.- Manuel S. Flores, Diputado propietario por el 13° Distrito electoral, Vicepresidente.- Juan Díaz Infante, Diputado propietario por el 3er. Distrito de la Capital.- Rafael Sotura, Diputado propietario por el 5° Distrito de la Capital.- Blas E. Romo, Diputado propietario por el 6° Distrito perteneciente a Rincón de Romos.- Manuel I. Ramírez, Diputado suplente por el 7° Distrito.- Jesús Díaz Infante, Diputado suplente por el 8° Distrito.- R. V. Romo, Diputado suplente por el 9° Distrito.- Ezequiel Palacio, Diputado propietario por el 10° Distrito perteneciente a Calvillo.- Rafael Morán, Diputado suplente por el 11° Distrito electoral perteneciente a Calvillo.- Juan E. López, Diputado propietario por el 12° Distrito perteneciente a Jesús María.- Gabriel Landín, Diputado propietario por el 14° Distrito.- Samuel G. García, Diputado propietario por el 15° Distrito.- Alberto E. Pedroza, Diputado propietario por el 4° Distrito electoral, Secretario.- Samuel J. Guerra, Diputado propietario por el 2° Distrito electoral, Secretario."
 
-C E R T I F I C A
+Por tanto, mando se imprima, publique por bando y se circule para los fines consiguientes.
 
-Que el presente documento, integrado por 7 fojas útiles impresas por anverso y reverso y 1 foja útil impresa únicamente por anverso, corresponde al Acuerdo por el que se autoriza la creación del Comité de Evaluación y Seguimiento de las Medidas de Racionalidad y Austeridad, así como de las reglas de su integración y funcionamiento, aprobado por los integrantes de la Comisión de Administración de este Tribunal Electoral, mediante Acuerdo 03/SO11(25-XI-2021), en su Décima Primera Sesión Ordinaria celebrada el 25 de noviembre de 2021, cuyo original tuve a la vista. DOY FE.
+Sancionada en Aguascalientes, capital del Estado del mismo nombre, a los seis días del mes de septiembre de mil novecientos diecisiete.- Aurelio L. González.- Lic. A. Delgado, Srio.
 
-Ciudad de México, a 24 de enero de 2022.- Secretaria Administrativa y de la Comisión de Administración del Tribunal Electoral del Poder Judicial de la Federación, Marcela Loredana Montero de Alba.- Firmado digitalmente.
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
-###### Artículo 2.
+P.O. 25 DE JUNIO DE 1919.
 
-Para los efectos de este Acuerdo se entenderá por:
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
 
-> <small>(F. DE E., P.O. 7 DE MARZO DE 2022)</small>
+P.O. 15 DE ENERO DE 1926.
 
-I. Acuerdo: Acuerdo General del Comité Coordinador para Homologar Criterios en Materia Administrativa e Interinstitucional del Poder Judicial de la Federación (PJF), que establece las medidas de racionalidad, austeridad, disciplina presupuestal y modernización de la gestión del Poder Judicial de la Federación para el ejercicio fiscal correspondiente;
+###### Artículo 2°.
 
-II. Áreas Gestoras del Gasto: Son las unidades administrativas del Tribunal Electoral que cuentan con presupuesto asignado y proyectos a ejecutar en el ejercicio fiscal que corresponda;
+El presente decreto comenzará a surtir sus efectos desde la fecha de su expedición.
 
-III. Comité de Evaluación y Seguimiento: el Comité de Evaluación y Seguimiento de las medidas de racionalidad y austeridad del Tribunal Electoral del Poder Judicial de la Federación;
+P.O. 2 DE MAYO DE 1926.
 
-IV. Comisión: Comisión de Administración;
+> <small>N. DE E. POR ANTICONSTITUCIONAL, SE DEROGA EL DECRETO No. 126, EXPEDIDO EL 26 DE ABRIL Y PUBLICADO EL 2 DE MAYO DE 1926, POR LO QUE LOS PRESENTES ARTICULOS QUEDAN SIN EFECTO ALGUNO P.O. 24 DE MARZO DE 1929.</small>
 
-V. Indicadores de Austeridad: las expresiones cuantitativas mediante las cuales se medirá y evaluará el desempeño de las áreas gestoras del gasto en la aplicación de las medidas de racionalidad y austeridad, las cuales son emitidas anualmente por la Comisión de Administración;
+I.- (DEROGADA, P.O. 22 DE JULIO DE 1926)
 
-VI. Ley: Ley Federal de Austeridad Republicana;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 1928)</small>
 
-VII. Medidas de Racionalidad y Austeridad: las que se establecen con tal carácter, en materia de gasto público, en la Ley Federal de Presupuesto y Responsabilidad Hacendaria; la Ley Federal de Austeridad Republicana; el Presupuesto de Egresos de la Federación del ejercicio fiscal que corresponda, y las disposiciones emitidas por el Comité Coordinador para Homologar Criterios en Materia Administrativa e Interinstitucional del Poder Judicial de la Federación y las que determine la Comisión de Administración;
+II.- En el año de 1928 se renovarán totalmente los miembros del H. Congreso, en las elecciones ordinarias que se verifiquen de conformidad con la Ley debiendo comenzar sus funciones los Diputados electos, el 16 de septiembre del propio año y durarán en su cargo, los de número impar dos años y los de número par cuatro años.
 
-VIII. PJF: Poder Judicial de la Federación;
+P.O. 22 DE JULIO DE 1926.
 
-IX. Tribunal Electoral: Tribunal Electoral del Poder Judicial de la Federación.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+
+P.O. 25 DE DICIEMBRE DE 1927.
+
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+
+P.O. 10 DE JUNIO DE 1928.
+
+UNICO.- El presente decreto surtirá sus efectos desde la fecha de su expedición.
+
+P.O. 17 DE JUNIO DE 1928.
 
 ###### Art. 3°.
 
@@ -1545,55 +1659,19 @@ P.O. 24 DE MARZO DE 1929.
 
 > <small>N. DE E. POR SU IMPORTANCIA SE TRANSCRIBEN LOS ARTÍCULOS DEL DECRETO NÚMERO 160.</small>
 
-###### Artículo 1.
+###### Artículo 1°
 
-El presente Acuerdo tiene por objeto establecer la integración, atribuciones y funcionamiento del Comité de Evaluación y Seguimiento de las medidas de racionalidad y austeridad del Tribunal Electoral del Poder Judicial de la Federación.
-
-Las disposiciones contenidas en este Acuerdo de creación son de observancia general y obligatoria para las áreas gestoras del gasto del Tribunal Electoral del Poder Judicial de la Federación
+Por anticonstitucional, se deroga el decreto núm. 126 expedido por la H. Legislatura el 26 de abril del año de 1926.
 
 ###### Artículo 2°
 
 El H. Congreso en su oportunidad reformará la Constitución Política del Estado, de conformidad con lo preceptuado por su artículo 72.
 
-###### Artículo 3.
+###### Artículo 3°
 
-El Comité de Evaluación y Seguimiento tendrá a su cargo la promoción, evaluación y seguimiento de las medidas de racionalidad y austeridad del Tribunal Electoral, sin perjuicio de las atribuciones de las instancias competentes en materia de auditoría y fiscalización.
+El presente decreto surtirá sus efectos desde la fecha de su publicación en el Periódico Oficial del Estado.
 
-###### Artículo 4.
-
-El Comité de Evaluación y Seguimiento se integrará por las personas titulares de las áreas siguientes:
-
-I. Secretaría Administrativa;
-
-II. Dirección General de Planeación y Evaluación Institucional;
-
-III. Dirección General de Recursos Financieros;
-
-IV. Dirección General de Administración Regional
-
-V. Dirección General de Adquisiciones, Servicios y Obra Pública.
-
-VI. Dirección General de Recursos Humanos;
-
-VII. Dirección General de Sistemas.
-
-Dichos integrantes contarán con voz y voto. Los Acuerdos serán aprobados por mayoría de votos.
-
-###### Artículo 5.
-
-Las personas titulares de la Contraloría Interna y de la Dirección General de Asuntos Jurídicos serán asesores permanentes del Comité y asistirán a las sesiones con voz pero sin voto.
-
-La persona titular de la Secretaría Técnica de la Presidencia de la Comisión de Administración fungirá como invitada permanente del Comité, con voz, pero sin voto.
-
-Las personas titulares de las áreas gestoras del gasto serán invitadas no permanentes del Comité y serán escuchadas cuando las políticas y asuntos que sean sometidos a consideración del Comité tengan afectación o impacto en su ámbito de competencia.
-
-###### Artículo 6.
-
-El Comité de Evaluación y Seguimiento contará con una o un Secretario Técnico, quien será designado por los integrantes de dicho Comité, a propuesta de su Presidente.
-
-###### Artículo 7.
-
-Cada uno de los integrantes del Comité de Evaluación y Seguimiento, y los asesores designarán a sus respectivos suplentes, quienes deberán tener el nivel jerárquico inmediato inferior dentro de la estructura del órgano auxiliar o área que corresponda. Para el caso de las ausencias de la o el Presidente del Comité, su suplente será el Director General de Planeación y Evaluación Institucional.
+P.O. 19 DE MAYO DE 1929.
 
 ###### Artículo 3°.
 
@@ -2246,3 +2324,71 @@ P.O. 29 DE NOVIEMBRE DE 2010.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE DICIEMBRE DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se deja sin efecto el Decreto Número 396, por el que se reforman y adicionan los Artículos 46, Fracción X; 59; 60; 61 y 71, Fracción XI de la Constitución Política del Estado de Aguascalientes, publicado en el Periódico Oficial del Estado en fecha 26 de julio de 2010.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+Para el cumplimiento del presente Decreto el Congreso del Estado llevará a cabo las reformas legales y reglamentarias correspondientes en un plazo de treinta días hábiles, contados a partir de su publicación. En tanto no se expidan dichas reformas, el Congreso del Estado y el Titular del Poder Ejecutivo resolverán de común acuerdo, los aspectos operativos que al efecto se requieran.
+
+P.O. 17 DE ENERO DE 2011.
+
+DECRETO NÚMERO 411. QUE ADICIONA EL ARTÍCULO 7 A DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE ENERO DE 2011.
+
+DECRETO NÚMERO 416. QUE ADICIONA LA FRACCIÓN XXXVI AL ARTÍCULO 27 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE ENERO DE 2011.
+
+DECRETO NÚMERO 478. QUE ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN II DEL ARTÍCULO 27 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE ENERO DE 2011.
+
+DECRETO NÚMERO 486. QUE REFORMA LOS ARTÍCULOS 27, 65 Y 70 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente a la fecha de su publicación en el Periódico Oficial del Estado. Las disposiciones que contravengan el presente Decreto quedarán sin efecto.
+
+###### ARTÍCULO SEGUNDO.
+
+Las remuneraciones que en el actual ejercicio sean superiores a la máxima establecida en el presente Decreto, deberán ser ajustadas o disminuidas en los presupuestos de egresos correspondientes al ejercicio fiscal del año siguiente a aquél en que haya entrado en vigor el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+A partir del ejercicio fiscal del año siguiente a aquél en que haya entrado en vigor el presente Decreto las percepciones de los magistrados del Supremo Tribunal de Justicia del Estado, los magistrados del Tribunal Electoral del Poder Judicial del Estado y Jueces de los Poderes Judiciales Estatales, que actualmente estén en funciones, se sujetarán a lo siguiente:
+
+a) Las retribuciones nominales señaladas en los presupuestos vigentes superiores al monto máximo previsto en la fracción II del artículo 65 de la Constitución Política del Estado de Aguascalientes, se mantendrán durante el tiempo que dure su encargo.
+
+b) Las remuneraciones adicionales a las nominales, tales como gratificaciones, premios, recompensas, bonos, estímulos, comisiones, compensaciones, y cualquier remuneración en dinero o especie, sólo se podrán mantener en la medida en que la remuneración total no exceda el máximo establecido en la fracción II del artículo 65 de la Constitución Política del Estado de Aguascalientes.
+
+c) Los incrementos a las retribuciones nominales o adicionales sólo podrán realizarse si la remuneración total no excede el monto máximo antes referido.
+
+###### ARTICULO CUARTO.
+
+El Congreso del Estado de Aguascalientes deberá aprobar las reformas a las leyes que sean necesarias para dar cumplimiento a lo dispuesto en el presente Decreto, así como tipificar y sancionar penal y administrativamente las conductas de los servidores públicos cuya finalidad sea eludir lo dispuesto en el presente Decreto, dentro de los plazos que se establecen en los Artículos Cuarto y Quinto Transitorios del decreto publicado en el Diario Oficial de la Federación el veinticuatro del mes de agosto del 2009.
