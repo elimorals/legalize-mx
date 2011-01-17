@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-participacion-ciudadana-del-distrito-federal-39363"
 country: "mx"
 rank: "ley"
 publication_date: "2004-05-17"
-last_updated: "2010-12-20"
+last_updated: "2011-01-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39363&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2004-05-14"
 
 LEY DE PARTICIPACION CIUDADANA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 20 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 17 DE ENERO DE 2011.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 17 de mayo de 2004.
 
@@ -1808,9 +1808,17 @@ El Pleno de los Consejos Ciudadanos estará integrado de conformidad con lo esta
 
 El Pleno de los Consejos sesionará públicamente y de manera ordinaria al menos cada tres meses. De manera extraordinaria se podrá reunir por acuerdo de la mayoría, cuando lo consideren necesario.
 
-> <small>(REFORMADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], G.O. 17 DE ENERO DE 2011)</small>
 
-El Pleno de los Consejos Ciudadanos designará, de entre de sus integrantes y por mayoría de votos de los coordinadores de los Comités Ciudadanos y de los Consejos de los Pueblos, a una mesa directiva formada por un presidente y cinco vocales, quienes estarán encargados de dirigir las sesiones, representar al Consejo y las demás que se establezcan en el Título Décimo Segundo de la presente Ley.
+El Pleno de los Consejos Ciudadanos designará, de entre de (sic) sus integrantes y por mayoría de votos de los coordinadores de los Comités Ciudadanos y de los Consejos de los Pueblos, a una mesa directiva formada por un presidente y cinco vocales, quienes estarán encargados de dirigir las sesiones, representar al Consejo y las demás que se establezcan en el Título Décimo Segundo de la presente Ley. La mesa directiva se renovará en forma semestral.
+
+> <small>(ADICIONADO, G.O. 17 DE ENERO DE 2011)</small>
+
+El Instituto Electoral es el órgano encargado de instrumentar la elección de la Mesa Directiva, está se conformará de manera proporcional y se elegirá mediante el sufragio universal, libre, directo y secreto de los integrantes del Consejo por medio de planillas de seis integrantes, otorgándole la presidencia y dos vocales a la planilla ganadora, dos vocales a la que quede en segundo lugar y un vocal a la planilla que quede en tercer lugar.
+
+> <small>(ADICIONADO, G.O. 17 DE ENERO DE 2011)</small>
+
+No podrán reelegirse los integrantes de la Mesa Directiva para el periodo inmediato posterior. En todo momento se procurará la equidad de género.
 
 > <small>(REFORMADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
 
@@ -3965,3 +3973,13 @@ PRIMERO.- Remítase al Jefe de Gobierno del Distrito Federal, para su publicaci�
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal, desechándose los procedimientos contrarios a este ordenamiento.
 
 TERCERO.- Se derogan todas las disposiciones contrarias a este Decreto.
+
+G.O. 17 DE ENERO DE 2011.
+
+Primero.- Remítase al Jefe de Gobierno del Distrito Federal, para su Publicación en la Gaceta Oficial del Distrito Federal.
+
+Segundo.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+Tercero.- Se derogan todas las disposiciones contrarias a este Decreto.
+
+Cuarto.- Por única ocasión, para el año 2011, en lo que respecta a la instalación de los Consejos Ciudadanos Delegacionales, se atenderá lo estipulado en el párrafo segundo del artículo 130, y se dejará sin efecto lo que se dispone, en cuanto al inicio de sus funciones, en el artículo 236, ambos de la presente Ley.
