@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-jesus-maria-aguascalientes-22849"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-24"
-last_updated: "2010-09-06"
+last_updated: "2011-01-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22849&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,9 @@ state: "AGU"
 
 CODIGO MUNICIPAL DE JESUS MARIA, AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE SEPTIEMBRE DE 2010.
+> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTICULO TERCERO TRANSITORIO DE LA REFORMA AL ARTICULO 96 DEL CODIGO MUNICIPAL DE JESUS MARIA, AGUASCALIENTES, PUBLICADA EN EL P.O. 17 DE ENERO DE 2011, CUANDO EN EL CODIGO MUNICIPAL SE DE UNA DENOMINACION DISTINTA A ALGUNA DEPENDENCIA O ENTIDAD CON FUNCIONES O ATRIBUCIONES ESTABLECIDAS POR OTRO ORDENAMIENTO JURIDICO, DICHAS FUNCIONES O ATRIBUCIONES SE ENTENDERAN CONFERIDAS A LA DEPENDENCIA O ENTIDAD QUE DETERMINE EL ARTICULO QUE SE REFORMA, EN TANTO NO SE EXPIDAN O REFORMEN LOS ORDENAMIENTOS JURIDICOS CORRESPONDIENTES.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE ENERO DE 2011.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 24 de diciembre de 2001.
 
@@ -910,217 +912,285 @@ En el caso de que se decida la remoción de un funcionario o empleado municipal,
 
 ### CAPITULO PRIMERO. De las Dependencias
 
-> <small>(REFORMADO, P.O. 21 DE JULIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2011)</small>
 
 ###### ARTICULO 96.
 
-Para el adecuado ejercicio de las atribuciones y responsabilidades ejecutivas que le corresponden, el Ayuntamiento de Jesús María, contará con el apoyo de las siguientes dependencias administrativas, subordinadas y supervisadas por el Presidente Municipal, así como de los organismos públicos descentralizados que al efecto se propongan y constituyan en términos de la presente normatividad:
+Para el adecuado ejercicio de las atribuciones y responsabilidades ejecutivas que le corresponden, el Ayuntamiento de Jesús María, contara con el apoyo de las siguientes dependencias administrativas, subordinadas y supervisadas por el Presidente Municipal, así como de los organismos públicos descentralizados que al efecto se propongan y constituyan en términos de la presente normatividad:
 
-I.- COORPORACIÓN MUNICIPAL
+I.- Corporación Municipal
 
-II.- PRESIDENCIA MUNICIPAL
+II.- Presidencia Municipal
 
-A).- Secretaría Particular:
+A) Secretario Particular
 
-a).- Departamento de Relaciones Públicas; y
+B) Jefe de Departamento de Relaciones Públicas
 
-b).- Departamento de Participación Ciudadana y Giras.
+C) Jefe de Departamento de Gestión Social
 
-B).- Coordinación de Comunicación Social:
+D) Jefe de Departamento del Organismo de la Juventud
 
-a).- Departamento de Prensa; y
+E) Director de Comunicación Social
 
-b).- Departamento de Diseño e Impresión.
+a) Jefe de Departamento de Difusión
 
-C).- Coordinación General de Asesores:
+b) Jefe de Departamento de Video Producción
 
-a).- Departamento de Mejora Gubernamental y Proyectos Especiales.
+c) Jefe de Departamento de Prensa
 
-D).- Instancia de la Mujer.
+III.- Secretaría del H. Ayuntamiento y Dirección General de Gobierno
 
-III.- SECRETARIA DEL AYUNTAMIENTO Y DIRECCIÓN GENERAL DE GOBIERNO
+A) Secretario del H. Ayuntamiento y Director General de Gobierno
 
-A).- Departamento de Acción Cívica;
+a) Jefe de Departamento de Protección Civil
 
-B).- Departamento de Actas y Archivo Municipal;
+b) Jefe Departamento de Reglamentos
 
-C).- Coordinación de Delegados Municipales:
+c) Jefe de Departamento de Acción Cívica
 
-a).- Delegados y Comisarios Municipales.
+d) Coordinador de Justicia Municipal
 
-D).- Departamento de Control Reglamentario;
+1) Jueces Calificadores
 
-E).- Departamento de Jueces Calificadores;
+e) Coordinador de Delegaciones
 
-F).- Unidad de Protección Civil.
+1) Delegados
 
-IV.- DIRECCION DE FINANZAS
+2) Sub delegados
 
-A).- Subdirector de Finanzas:
+3) Comisarios
 
-a).- Departamento de Ingresos;
+IV.- Secretaría Técnica Municipal
 
-b).- Departamento de Egresos;
+A) Secretario Técnico Municipal
 
-c).- Departamento de Recursos Federales;
+a) Asesor Político
 
-d).- Departamento de Contabilidad; y
+b) Asesor Administrativo
 
-e).- Departamento de Catastro.
+c) Asesor Jurídico
 
-V.- DIRECCIÓN DE SEGURIDAD PÚBLICA, TRÁNSITO Y VIALIDAD
+V.- Secretaría de Finanzas
 
-A).- Subdirección de Seguridad Pública:
+A) Secretario de Finanzas
 
-a).- Departamento Administrativo;
+a) Jefe de Departamento de Ingresos
 
-b).- Departamento de Prevención del Delito;
+b) Jefe de Departamento de Egresos
 
-c).- Departamento de Asuntos Internos; y
+c) Jefe de Departamento de Contabilidad
 
-d).- Jefatura Operativa.
+d) Jefe de Departamento de Fondos Federales
 
-B).- Subdirección de Tránsito y Vialidad:
+1) Coordinador de Catastro
 
-a).- Departamento Administrativo.
+VI.- Secretaría de Seguridad Publica, Tránsito y Vialidad
 
-VI.- NIVEL MUNICIPAL.
+A) Secretario de Seguridad Pública Tránsito y Vialidad
 
-VII.- DIRECCIÓN JURIDICA
+a) Fiscal
 
-A).- Subdirección de Apoyo Jurídico Municipal:
+B) Director
 
-a).- Departamento de Asuntos Litigiosos;
+a) Sub Director de Seguridad Pública
 
-b).- Departamento de Asesoría Jurídica a la Ciudadanía;
+b) Sub Director de Planeación Estratégica
 
-c).- Departamento Jurídico Adscrito a la Dirección de Finanzas;
+1) Jefe de Departamento de Operatividad Táctica
 
-d).- Departamento Jurídico Adscrito a la Dirección de Seguridad Pública y Tránsito;
+2) Jefe de Departamento de Informática y Estadística
 
-e).- Departamento Jurídico Adscrito a la Contraloría Municipal; y
+c) Sub Director de Tránsito y Vialidad
 
-f).- Departamento Jurídico Adscrito al Comité para el Desarrollo Integral de la Familia.
+d) Sub Director Administrativo
 
-VIII.- DIRECCIÓN DE GESTION ADMINISTRATIVA
+1) Coordinador de Servicios al Personal
 
-A).- Subdirección de Gestión Administrativa:
+2) Coordinador de Control Vehicular e Inmuebles
 
-a).- Departamento de Recursos Humanos y Capacitación;
+VII.- Nivel Municipal
 
-b).- Departamento de Servicios Generales;
+VIII.- Secretaría de Asuntos Jurídicos
 
-c).- Departamento de Redes e Informática;
+A) Secretario de Asuntos Jurídicos
 
-d).- Oficialía de Compras y Adquisiciones; y
+B) Director
 
-e).- Departamento de Control Patrimonial.
+a) Jefe de Departamento de Atención a DIF, Salud, Desarrollo Social
 
-B).- Coordinación Administrativa.
+b) Jefe de Departamento de Atención a Administración, Finanzas y Desarrollo Económico
 
-IX.- DIRECCIÓN DE SERVICIOS PÚBLICOS MUNICIPALES
+c) Jefe de Departamento de Atención a Seguridad Pública y CAPAS
 
-A).- Subdirector de Servicios Públicos Municipales:
+d) Jefe de Departamento de Atención a Desarrollo Urbano y Obra Pública
 
-a).- Departamento de Estética Urbana, Limpieza y Aseo Público;
+e) Jefe de Departamento de Atención a Ecología y Servicios Públicos
 
-b).- Departamento de Áreas Comerciales;
+IX.- Secretaría de Administración
 
-c).- Departamento de Cementerios;
+A) Secretario de Administración
 
-d).- Departamento de Rastro Municipal;
+a) Jefe de Departamento de Modernización Tecnológica
 
-e).- Departamento de Parques, Jardines y Viveros; y
+b) Jefe de Departamento de Servicios Generales
 
-f).- Departamento de Alumbrado Público.
+c) Jefe de Departamento Control Patrimonial
 
-X.- DIRECCIÓN DE DESARROLLO ECONÓMICO
+d) Jefe de Departamento de Remuneraciones al Personal
 
-A).- Subdirección de Desarrollo Económico:
+e) Jefe de Departamento de Adquisiciones
 
-a).- Departamento de Proyectos; y
+f) Jefe de Departamento de Capital Humano
 
-b).- Departamento de Comercialización.
+X.- Secretaría de Servicios Públicos
 
-XI.- DIRECCIÓN DE PLANEACION Y DESARROLLO URBANO
+A) Secretario de Servicios Públicos
 
-a).- Departamento de Planeación;
+B) Director
 
-b).- Departamento de Usos de Suelo y Control Urbano;
+a) Jefe de Departamento Áreas Comerciales
 
-c).- Departamento de Fraccionamientos y Licencias de Construcción; y
+b) Jefe de Departamento Limpia y Aseo Público
 
-d).- Departamento de Ecología y Medio Ambiente.
+c) Jefe de Departamento del Rastro
 
-> <small>(REFORMADA, P.O. 16 DE MARZO DE 2009)</small>
+d) Jefe de Departamento de Panteones
 
-XII.- DIRECCIÓN DE OBRAS PÚBLICAS.
+e) Jefe de Departamento de Parques y Jardines
 
-a).- Subdirección de Obras Públicas;
+f) Jefe de Departamento de Alumbrado Público
 
-b).- Departamento de Proyectos, Costos y Licitaciones;
+XI.- Secretaría de Desarrollo Económico
 
-c).- Departamento de Construcción y Conservación; y
+A) Secretario de Desarrollo Económico
 
-d).- Departamento de Supervisión y Control de Calidad.
+a) Jefe de Departamento de Turismo
 
-XIII.- DIRECCION DE DESARROLLO HUMANO Y SOCIAL
+b) Jefe de Departamento de Fomento Económico
 
-a).- Departamento de Fomento Agropecuario y Rural;
+1) Coordinador de Vinculación
 
-b).- Departamento de Programas y Políticas Públicas; y
+XII.- Secretaría de Planeación y Desarrollo Urbano
 
-c).- Departamento de Educación, Cultura y Deportes.
+A) Secretario de Planeación y Desarrollo Urbano
 
-XIV.- CONTRALORIA MUNICIPAL.
+B) Director
 
-a).- Departamento de Auditoría Administrativa y Gestión;
+a) Coordinador Administrativo
 
-b).- Departamento de Auditoría Contable y Fiscal;
+b) Jefe de Departamento de Administración Urbana, Permisos y Licencias
 
-c).- Departamento de Auditoría de Participaciones Federales; y
+c) Jefe de Departamento de Fraccionamientos y Predios Municipales
 
-d).- Departamento de Auditoría de Obra y Servicios Públicos.
+d) Jefe de Departamento de Control Urbano, Atención Ciudadana y Supervisión
 
-XV.- DIRECCION DE SALUD
+XIII.- Secretaría de Obras Públicas
 
-a).- Departamento de Salud; y
+A) Secretario de Obras Públicas
 
-b).- Departamento de Regulación Sanitaria.
+B) Director
 
-XVI.- COMITÉ PARA EL DESARROLLO INTEGRAL DE LA FAMILIA.
+a) Auxiliar de Conservación y Obras por Administración
 
-A).- Presidencia del Comité;
+b) Auxiliar de Precios Unitarios
 
-B).- Secretaría Particular;
+c) Jefe de Departamento de Proyectos y Expedientes Técnicos
 
-C).- Dirección General:
+d) Jefe de Departamento de Obras por Contrato y Supervisión
 
-a).- Departamento Administrativo;
+e) Jefe de Departamento de Proyectos Federales
 
-b).- Departamento de Servicios Médicos;
+XIV.- Secretaría de Desarrollo Social
 
-c).- Departamento de Trabajo Social;
+A) Secretario de Desarrollo Social
 
-d).- Departamento de Salud Mental;
+a) Jefe de Departamento de Políticas Públicas y Programas Federales
 
-e).- Departamento de Programas y Políticas Públicas para la Familia;
+b) Jefe de Departamento de Educación, Cultura y Deporte
 
-f).- Departamento de Atención a las Personas de la Senectud; y
+1) Coordinador de Deportes
 
-g).- Departamento de Desarrollo Infantil.
+2) Coordinador de Cultura
 
-XVII.- CRONISTA DEL MUNICIPIO.
+3) Coordinador de Educación
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE MARZO DE 2009)</small>
+c) Jefe de Departamento de Participación Ciudadana
 
-XVIII.- DIRECCION DE ECOLOGIA Y DESARROLLO SUSTENTABLE.
+d) Coordinador de Fondos para la Educación
 
-a).- Departamento Operativo Técnico;
+XV.- Contraloría Municipal
 
-b).- Departamento de Gestión Ambiental; y
+A) Contralor
 
-c).- Departamento de Cultura Ambiental.
+a) Jefe de Departamento de Auditoría
+
+b) Jefe de Departamento de Obra y Servicios Públicos
+
+c) Jefe de Departamento Jurídico
+
+XVI.- Secretaría de Salud Pública
+
+A) Secretario de Salud Pública
+
+a) Jefe de Departamento de Regulación Sanitaria
+
+b) Coordinador de Psicología
+
+c) Coordinador Unidad Básica de Rehabilitación.
+
+d) Coordinador Médico
+
+XVII.- Secretaría de Ecología y Desarrollo Sustentable
+
+A) Secretario de Ecología y Desarrollo Sustentable
+
+a) Jefe de Departamento de Educación Ambiental
+
+b) Jefe de Departamento de Ecología
+
+XVIII.- Secretaría de Desarrollo Rural
+
+A) Secretario de Desarrollo Rural
+
+B) Jefe de Departamento de Desarrollo Rural
+
+a) Coordinador de Asuntos Pecuarios
+
+b) Coordinador de Asuntos Agrícolas
+
+c) Coordinador de Asuntos Agroindustriales
+
+XIX.- Sistema DIF
+
+A) Director
+
+a) Coordinador CEDECOS
+
+b) Coordinador de Trabajo Social
+
+c) Coordinador de Administración
+
+d) Coordinador de Almacén
+
+e) Sub delegado INAPAM
+
+f) Director del CENDI
+
+1) Sub director del CENDI
+
+XX.- C.A.P.A.S.
+
+A) Director
+
+a) Sub Director Administrativo
+
+1) Jefe de Departamento de Contabilidad
+
+2) Jefe de Departamento de Áreas Comerciales
+
+b) Sub Director Técnico
+
+XXI.- Instituto de la Mujer
 
 > <small>(ADICIONADO, P.O. 17 DE MARZO DE 2003)</small>
 
@@ -8714,7 +8784,7 @@ CON ALTURA HASTA DIMENSION MINIMA
 
 12.00 MTS. 2.50 MTS.
 
-En caso de alturas mayores, la dimensión mínima del patio deberá ser igual a la quinta parte de a altura del total del paramento vertical que lo limite. Si esta altura es variable se tomará el promedio.
+En caso de alturas mayores, la dimensión mínima del patio deberá ser igual a la quinta parte de la altura del total del paramento vertical que lo limite. Si esta altura es variable se tomará el promedio.
 
 III. Se permitirán las siguientes tolerancias en las dimensiones mínimas de los patios señalados en este artículo en los casos que a continuación se detallan:
 
@@ -14541,3 +14611,11 @@ El presente Acuerdo entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones reglamentarias municipales en lo que se opongan al presente acuerdo.
+
+P.O. 17 DE ENERO DE 2011.
+
+.
+
+SEGUNDO.- La presente reforma, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+TERCERO.- Cuando en el Código Municipal se dé una denominación distinta a alguna Dependencia o Entidad con funciones o atribuciones establecidas por otro ordenamiento jurídico, dichas funciones o atribuciones se entenderán conferidas a la Dependencia o Entidad que determine el artículo que se reforma, en tanto no se expidan o reformen los ordenamientos jurídicos correspondientes.
