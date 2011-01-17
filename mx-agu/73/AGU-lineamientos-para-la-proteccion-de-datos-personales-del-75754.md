@@ -4,7 +4,7 @@ identifier: "AGU-lineamientos-para-la-proteccion-de-datos-personales-del-75754"
 country: "mx"
 rank: "lineamientos"
 publication_date: "2010-07-12"
-last_updated: "2010-07-12"
+last_updated: "2011-01-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75754&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "AGU"
 
 LINEAMIENTOS PARA LA PROTECCIÓN DE DATOS PERSONALES DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ENERO DE 2011.
 
-Lineamientos publicados en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, lunes 12 de julio de 2010.
+Lineamientos publicados en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de julio de 2010.
 
 EL INSTITUTO DE TRANSPARENCIA DEL ESTADO DE AGUASCALIENTES
 
@@ -269,7 +269,9 @@ TRIGÉSIMO QUINTO. En caso de que el Instituto determine que algún servidor pú
 
 T R A N S I T O R I O S :
 
-Artículo Primero. Estos Lineamientos entrarán en vigor el día primero de marzo del año dos mil once. Por lo tanto envíese al Ejecutivo para la publicación del mismo en el Periódico Oficial del Gobierno del Estado.
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2011)</small>
+
+Artículo Primero. Estos Lineamientos entrarán en vigor el día primero de diciembre del año dos mil once. Por lo tanto envíese al Ejecutivo para la publicación del mismo en el Periódico Oficial del Gobierno del Estado.
 
 Artículo Segundo. Las lagunas, antinomias e interpretaciones, que se pudieran presentar, derivadas de este instrumento legal serán resueltas por el Pleno del Instituto de Transparencia del Estado de Aguascalientes.
 
@@ -288,3 +290,9 @@ COMISIONADO.
 Jorge Alejandro Doring Zuazo,
 
 COMISIONADO.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 17 DE ENERO DE 2011.
+
+LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
