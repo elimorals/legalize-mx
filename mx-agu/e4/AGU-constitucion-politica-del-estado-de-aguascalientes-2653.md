@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "2010-12-28"
+last_updated: "2011-01-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
 > <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 1, PUBLICADO EN EL P.O. 13 DE DICIEMBRE DE 1992, TODO ORDENAMIENTO Y DEMÁS ESCRITOS QUE REFIERAN LA DENOMINACIÓN "TESORERÍA GENERAL" O "TESORERO GENERAL", EN LO SUCESIVO SERÁN "SECRETARÍA DE FINANZAS" O "SECRETARIO DE FINANZAS", SEGÚN CORRESPONDA.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ENERO DE 2011.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -106,6 +106,16 @@ Toda educación que realicen los particulares en el territorio del Estado será 
 ###### Artículo 7o.
 
 Todas las Autoridades, dentro de la esfera de sus atribuciones, velarán por la conservación y fomento de los recursos naturales del Estado.
+
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2011)</small>
+
+###### Artículo 7o.
+
+A.- El Gobierno organizará un sistema de planeación del desarrollo estatal que garantice equidad y justicia en el crecimiento de la economía, fomentando la independencia y la democratización política, social y cultural del Estado.
+
+Las organizaciones civiles podrán participar en la realización de actividades sociales, cívicas, económicas y culturales relacionadas con el desarrollo armónico y ordenado de las distintas comunidades. Así mismo, podrán coadyuvar en la identificación y precisión de las demandas y aspiraciones de la sociedad para dar contenido al Plan de Desarrollo del Estado, a los planes municipales y a los programas respectivos, propiciando la participación de los habitantes en la realización de las obras y servicios públicos.
+
+La Ley determinará las formas de participación de estas organizaciones, y la designación de controles sociales que vigilen el cumplimiento de las actividades señaladas en el párrafo anterior.
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
@@ -429,6 +439,10 @@ I.- Legislar para el Estado, sobre todas las materias que no sean de la competen
 
 II.- Decretar las contribuciones necesarias para cubrir los gastos del Estado y de los Municipios.
 
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2011)</small>
+
+Las contribuciones, además de ser medios para obtener los recursos necesarios para el sostenimiento de los gastos públicos, podrán servir como instrumentos de la política económica general y atender a la realización de los principios y fines contenidos en esta Constitución.
+
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2008)</small>
 
 El Congreso tomará en cuenta las propuestas que hagan los Ayuntamientos relativos a las cuotas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras y la tabla de valores unitarios de suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria, sin dejar de establecer las tasas adicionales que se fijen sobre la propiedad inmobiliaria, su fraccionamiento, división, consolidación, traslación y mejora, así como las que tengan por base el cambio de valor de los inmuebles.
@@ -444,6 +458,10 @@ Dentro del Presupuesto de Egresos del Estado, se incluirán las partidas plurian
 > <small>(REFORMADO, P.O. 28 DE MAYO DE 2007)</small>
 
 La aprobación del establecimiento de compromisos plurianuales deberá hacerse siempre y cuando no se cause perjuicio a la viabilidad financiera del Estado y Municipios ni se modifiquen ramos, programas y proyectos prioritarios.
+
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2011)</small>
+
+Los Poderes Estatales Legislativo, Ejecutivo y Judicial, incluyendo las entidades paraestatales, así como los organismos con autonomía reconocida en esta Constitución que ejerzan recursos del Presupuesto de Egresos del Estado, deberán incluir dentro de sus proyectos de presupuestos, los tabuladores desglosados de las remuneraciones que se propone perciban sus servidores públicos. Estas propuestas deberán observar el procedimiento que para la aprobación de los presupuestos de egresos del Estado, establezcan las disposiciones constitucionales y legales aplicables.
 
 > <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2008)</small>
 
@@ -549,11 +567,15 @@ XXXIV.- Aprobar la realización de Proyectos de Prestación de Servicios, su con
 
 > <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2008)</small>
 
-XXXV.- Coordinar y evaluar por medio de la Comisión de Vigilancia, sin perjuicio de su autonomía técnica y de gestión, el desempeño de las funciones del Órgano Superior de Fiscalización del Estado, en los términos que disponga la Ley; y
+XXXV.- Coordinar y evaluar por medio de la Comisión de Vigilancia, sin perjuicio de su autonomía técnica y de gestión, el desempeño de las funciones del Órgano Superior de Fiscalización del Estado, en los términos que disponga la Ley; y (sic)
+
+> <small>(ADICIONADA, P.O. 17 DE ENERO DE 2011)</small>
+
+XXXVI.- Expedir leyes que instituyan la justicia de lo contencioso - administrativo dotando de plena autonomía para dictar sus fallos, y que tenga a su cargo dirimir las controversias que se susciten entre la administración pública estatal y municipal, con los particulares; estableciendo las normas para su organización, su funcionamiento, los procedimientos y los recursos contra sus resoluciones; y
 
 > <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2008)</small>
 
-XXXVI.- Las demás que le concede esta Constitución y la General de la República.
+XXXVII.- Las demás que le concede esta Constitución y la General de la República.
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 8 DE DICIEMBRE DE 2008)</small>
 
@@ -1145,11 +1167,31 @@ No podrá hacerse pago alguno que no esté comprendido en el presupuesto o deter
 
 Si al iniciarse un año fiscal no hubiere sido aprobado el presupuesto general correspondiente, se ejercerá la iniciativa presentada por el titular del Poder Ejecutivo o los Ayuntamientos, con carácter de temporal por el lapso que determine la Ley Orgánica del Poder Legislativo del Estado.
 
-El Congreso, al aprobar el Presupuesto de Egresos, no podrá dejar de señalar la retribución que corresponda a un empleo que esté establecido por la Ley; en caso de que por cualquier circunstancia se omita fijar dicha remuneración, se entenderá por señalada la que hubiere tenido fijada en el presupuesto anterior, o en la Ley que estableció el empleo.
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2011)</small>
+
+El Congreso, al aprobar el Presupuesto de Egresos, no podrá dejar de señalar la retribución que corresponda a un empleo que esté establecido por la Ley; en caso de que por cualquier circunstancia se omita fijar dicha remuneración, se entenderá por señalada la que hubiere tenido fijada en el presupuesto anterior, o en la Ley que estableció el empleo. En todo caso, dicho señalamiento deberá respetar las bases previstas en el Artículo 70 de esta Constitución y en las leyes que en la materia expida el Congreso del Estado.
 
 > <small>(ADICIONADO, P.O. 28 DE MAYO DE 2007)</small>
 
 Tratándose de las partidas plurianuales aprobadas por el Congreso en términos de las Fracciones III y XXXIV del Artículo 27 de esta Constitución, éstas se ejercerán de acuerdo a lo establecido en el Decreto correspondiente, expedido por el Congreso del Estado.
+
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2011)</small>
+
+Los servidores públicos del Estado de Aguascalientes y de los Municipios, de sus entidades y dependencias, así como de sus administraciones paraestatales y paramunicipales, fideicomisos públicos, instituciones y organismos autónomos, y cualquier otro ente público, recibirán una remuneración adecuada e irrenunciable por el desempeño de su función, empleo, cargo o comisión, que deberá ser proporcional a sus responsabilidades.
+
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2011)</small>
+
+Dicha remuneración será determinada anual y equitativamente en los presupuestos de egresos correspondientes, bajo las siguientes bases:
+
+l. Se considera remuneración o retribución toda percepción en efectivo o en especie, incluyendo dietas, aguinaldos, gratificaciones, premios, recompensas, bonos, estímulos, comisiones, compensaciones y cualquier otra, con excepción de los apoyos y los gastos sujetos a comprobación que sean propios del desarrollo del trabajo y los gastos de viaje en actividades oficiales.
+
+II. Ningún servidor público podrá recibir remuneración, en términos de la fracción anterior, por el desempeño de su función, empleo, cargo o comisión, mayor a la establecida para el Gobernador del Estado en el presupuesto correspondiente y este a su vez no podrá percibir un ingreso mayor al del Presidente de la República en términos de lo establecido en el Articulo 127 de la Constitución Política de los Estados Unidos Mexicanos.
+
+III. No se concederán ni cubrirán jubilaciones, pensiones o haberes de retiro, ni liquidaciones por servicios prestados, como tampoco préstamos o créditos, sin que éstas se encuentren asignadas por la ley, decreto legislativo, contrato colectivo o condiciones generales de trabajo. Estos conceptos no formarán parte de la remuneración. Quedan excluidos los servicios de seguridad que requieran los servidores públicos por razón (sic) del cargo desempeñado así lo requieran.
+
+IV. Las remuneraciones y sus tabuladores serán públicos, y deberán especificar y diferenciar la totalidad de sus elementos fijos y variables tanto en efectivo como en especie.
+
+V. El Congreso del Estado expedirá las leyes para hacer efectivo el contenido del presente artículo y las disposiciones constitucionales relativas, y para sancionar penal y administrativamente las conductas que impliquen el incumplimiento o la elusión por simulación de lo establecido en este Artículo.
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
@@ -1283,7 +1325,9 @@ II.- Las participaciones federales que serán cubiertas por la Federación a los
 
 III.- Los ingresos derivados de la prestación de servicios públicos a su cargo.
 
-El Congreso del Estado aprobará las Leyes de Ingresos de los Municipios, revisará y fiscalizará sus cuentas públicas. Los presupuestos de egresos serán aprobados por los Ayuntamientos con base en sus ingresos disponibles.
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2011)</small>
+
+El Congreso del Estado aprobará las Leyes de Ingresos de los Municipios, revisará y fiscalizará sus cuentas públicas. Los presupuestos de egresos serán aprobados por los Ayuntamientos con base a sus ingresos disponible (sic) y deberán incluir en los mismos, los tabuladores desglosados de las remuneraciones que perciban los servidores públicos municipales, sujetándose a lo dispuesto en el artículo 65 de esta Constitución.
 
 Los recursos que integran la Hacienda Municipal serán ejercidos en forma directa por los Ayuntamientos, o bien por quien ellos autoricen, conforme a la Ley.
 
@@ -1435,7 +1479,7 @@ La Capital del Estado es la ciudad de Aguascalientes, y en ella deben radicar lo
 
 ###### Artículo 84.
 
-Todos los servidores públicos, del Estado y Municipios antes de tomar posesión de sus puestos, protestarán ante quien corresponda, guardar y hacer guardar la Constitución General, la particular de Estado, las leyes emanadas de ambas y desempeñar fielmente sus deberes.
+Todos los servidores públicos, del Estado y Municipios antes de tomar posesión de sus puestos, protestarán ante quien corresponda, guardar y hacer guardar la Constitución General, la particular del Estado, las leyes emanadas de ambas y desempeñar fielmente sus deberes.
 
 > <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
@@ -1455,7 +1499,7 @@ Los servidores públicos de elección popular que sin causa justificada, o sin l
 
 ###### Artículo 87.
 
-Los servidores público que entren a ejercer su encargo después del día señalado por esta Constitución o por las Leyes, como principio del período que les corresponde, sólo durarán en sus funciones el tiempo que les faltare para cumplir dicho período.
+Los servidores públicos que entren a ejercer su encargo después del día señalado por esta Constitución o por las Leyes, como principio del período que les corresponde, sólo durarán en sus funciones el tiempo que les faltare para cumplir dicho período.
 
 > <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
@@ -1549,17 +1593,17 @@ Por tanto, mando se imprima, publique por bando y se circule para los fines cons
 
 Sancionada en Aguascalientes, capital del Estado del mismo nombre, a los seis días del mes de septiembre de mil novecientos diecisiete.- Aurelio L. González.- Lic. A. Delgado, Srio.
 
-P.O. 15 DE ENERO DE 1926.
-
-###### Artículo 2°.
-
-El presente decreto comenzará a surtir sus efectos desde la fecha de su expedición.
-
 > <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 25 DE JUNIO DE 1919.
 
 EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+
+P.O. 15 DE ENERO DE 1926.
+
+###### Artículo 2°.
+
+El presente decreto comenzará a surtir sus efectos desde la fecha de su expedición.
 
 P.O. 2 DE MAYO DE 1926.
 
@@ -2276,3 +2320,53 @@ Se derogan todas las disposiciones que se opongan al presente Decreto.
 ###### ARTÍCULO CUARTO.
 
 Para el cumplimiento del presente Decreto el Congreso del Estado llevará a cabo las reformas legales y reglamentarias correspondientes en un plazo de treinta días hábiles, contados a partir de su publicación. En tanto no se expidan dichas reformas, el Congreso del Estado y el Titular del Poder Ejecutivo resolverán de común acuerdo, los aspectos operativos que al efecto se requieran.
+
+P.O. 17 DE ENERO DE 2011.
+
+DECRETO NÚMERO 411. QUE ADICIONA EL ARTÍCULO 7 A DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE ENERO DE 2011.
+
+DECRETO NÚMERO 416. QUE ADICIONA LA FRACCIÓN XXXVI AL ARTÍCULO 27 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE ENERO DE 2011.
+
+DECRETO NÚMERO 478. QUE ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN II DEL ARTÍCULO 27 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE ENERO DE 2011.
+
+DECRETO NÚMERO 486. QUE REFORMA LOS ARTÍCULOS 27, 65 Y 70 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente a la fecha de su publicación en el Periódico Oficial del Estado. Las disposiciones que contravengan el presente Decreto quedarán sin efecto.
+
+###### ARTÍCULO SEGUNDO.
+
+Las remuneraciones que en el actual ejercicio sean superiores a la máxima establecida en el presente Decreto, deberán ser ajustadas o disminuidas en los presupuestos de egresos correspondientes al ejercicio fiscal del año siguiente a aquél en que haya entrado en vigor el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+A partir del ejercicio fiscal del año siguiente a aquél en que haya entrado en vigor el presente Decreto las percepciones de los magistrados del Supremo Tribunal de Justicia del Estado, los magistrados del Tribunal Electoral del Poder Judicial del Estado y Jueces de los Poderes Judiciales Estatales, que actualmente estén en funciones, se sujetarán a lo siguiente:
+
+a) Las retribuciones nominales señaladas en los presupuestos vigentes superiores al monto máximo previsto en la fracción II del artículo 65 de la Constitución Política del Estado de Aguascalientes, se mantendrán durante el tiempo que dure su encargo.
+
+b) Las remuneraciones adicionales a las nominales, tales como gratificaciones, premios, recompensas, bonos, estímulos, comisiones, compensaciones, y cualquier remuneración en dinero o especie, sólo se podrán mantener en la medida en que la remuneración total no exceda el máximo establecido en la fracción II del artículo 65 de la Constitución Política del Estado de Aguascalientes.
+
+c) Los incrementos a las retribuciones nominales o adicionales sólo podrán realizarse si la remuneración total no excede el monto máximo antes referido.
+
+###### ARTICULO CUARTO.
+
+El Congreso del Estado de Aguascalientes deberá aprobar las reformas a las leyes que sean necesarias para dar cumplimiento a lo dispuesto en el presente Decreto, así como tipificar y sancionar penal y administrativamente las conductas de los servidores públicos cuya finalidad sea eludir lo dispuesto en el presente Decreto, dentro de los plazos que se establecen en los Artículos Cuarto y Quinto Transitorios del decreto publicado en el Diario Oficial de la Federación el veinticuatro del mes de agosto del 2009.
