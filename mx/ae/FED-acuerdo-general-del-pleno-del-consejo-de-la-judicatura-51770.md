@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-51770"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-10-03"
-last_updated: "2010-07-20"
+last_updated: "2011-01-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51770&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-08-09"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE JULIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE ENERO DE 2011.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el martes 3 de octubre de 2006.
 
@@ -846,6 +846,10 @@ Los titulares de los tribunales de circuito y juzgados de distrito están facult
 Los titulares de los órganos jurisdiccionales pueden otorgar, en cualquier momento, la base a los servidores públicos de su adscripción, con nombramiento de Secretario de Tribunal de Circuito, Juzgado de Distrito o Actuario del Poder Judicial de la Federación, cuando a su juicio resulte procedente, siempre que la plaza correspondiente se encuentre vacante y sea definitiva en la plantilla autorizada, tomando en consideración las prevenciones señaladas en la Ley Federal de los Trabajadores al Servicio del Estado Reglamentaria del Apartado B del Artículo 123 Constitucional.
 
 En esos casos el nombramiento de base en el cargo procederá si, además, la persona de que se trate reúne los requisitos señalados en los artículos 107 y 109 de la Ley y se cumplen las condiciones establecidas en este Acuerdo.
+
+> <small>(ADICIONADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ADICIONA UN PARRAFO TERCERO AL ARTICULO 77 DEL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, D.O.F. 17 DE ENERO DE 2011)</small>
+
+Los Jueces y Magistrados Interinos y los Secretarios de Tribunal de Circuito o Juzgado de Distrito autorizados para realizar las funciones de magistrados y jueces, respectivamente, por las ausencias temporales de los titulares, sólo podrán extender nombramientos de Secretarios de Tribunal de Circuito, Juzgados de Distrito o Actuario del Poder Judicial de la Federación, de manera temporal, cuando la plaza correspondiente se encuentre desocupada; salvo aquellos casos en que la base se deba otorgar por disposición legal.
 
 ###### Artículo 78.
 
@@ -1804,3 +1808,9 @@ Por las razones que han quedado expuestas, es que respetuosamente me aparto de l
 Atentamente
 
 El Consejero de la Judicatura Federal, Magistrado Juan Carlos Cruz Razo.
+
+D.O.F. 17 DE ENERO DE 2011.
+
+PRIMERO. El presente acuerdo entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta.
