@@ -4,7 +4,7 @@ identifier: "TAM-ley-sobre-la-organizacion-y-funcionamiento-internos-del-41252"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-22"
-last_updated: "2008-12-29"
+last_updated: "2011-01-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY SOBRE LA ORGANIZACION Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE ENERO DE 2011.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 22 de julio de 2004.
 
@@ -303,7 +303,7 @@ o) Las demás que le atribuyan la Constitución Política del Estado, esta ley y
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
-2. Disponer la elaboración inmediata del Bando Solemne a que se refiere la fracción XXX del artículo 58 de la Constitución Política del Estado, a la luz de la información que reciba del Consejo General del lnstituto Electoral de Tamaulipas sobre la declaración de Gobernador electo que compete a dicho órgano, y darlo a conocer al Pleno en la sesión más próxima, con base en la cual ordenará su publicación en el Periódico Oficial del Estado, dictará las medidas necesarias para su más amplia difusión, incluida su comunicación a los Ayuntamientos del Estado, y solicitará se fije en las oficinas públicas.
+2. Disponer la elaboración inmediata del Bando Solemne a que se refiere la fracción XXX del artículo 58 de la Constitución Política del Estado, a la luz de la información que reciba del Consejo General del Instituto Electoral de Tamaulipas sobre la declaración de Gobernador electo que compete a dicho órgano, y darlo a conocer al Pleno en la sesión más próxima, con base en la cual ordenará su publicación en el Periódico Oficial del Estado, dictará las medidas necesarias para su más amplia difusión, incluida su comunicación a los Ayuntamientos del Estado, y solicitará se fije en las oficinas públicas.
 
 ###### ARTICULO 23.
 
@@ -471,47 +471,77 @@ c) Finanzas, Planeación, Presupuesto y Deuda Pública;
 
 d) Administración;
 
-> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2011)</small>
 
-e) Desarrollo Social, Cultura y Deporte;
+e) Desarrollo Social;
 
-> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2011)</small>
 
-f) Educación;
+f) Cultura;
 
-g) Ciencia y Tecnología;
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2011)</small>
 
-h) Salud;
+g) Deporte;
 
-i) Desarrollo Urbano;
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2011)</small>
 
-j) Desarrollo Sustentable;
+h) Educación;
 
-k) Comunicaciones y Transportes;
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2011)</small>
 
-> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2006)</small>
+i) Ciencia y Tecnología;
 
-I) Desarrollo Rural;
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2011)</small>
 
-ll) Desarrollo Industrial y Comercial;
+j) Salud;
 
-m) Turismo;
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2011)</small>
 
-n) Trabajo y Seguridad Social;
+k) Desarrollo Urbano;
 
-ñ) Justicia y Derechos Humanos;
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2011)</small>
 
-> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2008)</small>
+l) Desarrollo Sustentable;
 
-o) Equidad y Género;
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2011)</small>
 
-> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2008)</small>
+m) Comunicaciones y Transportes;
 
-p) Asuntos Fronterizos y Migratorios; y,
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2011)</small>
 
-> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2008)</small>
+n) Desarrollo Rural;
 
-q) Atención a Grupos Vulnerables.
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2011)</small>
+
+ñ) Desarrollo Industrial y Comercial;
+
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2011)</small>
+
+o) Turismo;
+
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2011)</small>
+
+p) Trabajo y Seguridad Social;
+
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2011)</small>
+
+q) Justicia;
+
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2011)</small>
+
+r) Derechos Humanos;
+
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2011)</small>
+
+s) Equidad y Género;
+
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2011)</small>
+
+t) Asuntos Fronterizos y Migratorios; y
+
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2011)</small>
+
+u) Atención a Grupos Vulnerables.
 
 3. La competencia de las comisiones enunciadas en el párrafo anterior se corresponde, en lo general, con las otorgadas a las dependencias de la administración pública del Estado en esas esferas.
 
@@ -551,7 +581,11 @@ f) De la Medalla al Mérito "Luis García de Arellano", a cargo de la recepción
 
 ###### ARTICULO 39.
 
-1. Las comisiones ordinarias se constituyen durante el primer mes de ejercicio de la Legislatura, podrán tener hasta ocho integrantes y su encargo será por el término de la propia Legislatura. Ningún diputado podrá pertenecer a más de seis comisiones, salvo que se trate de la Comisión Instructora o de una comisión especial.
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2011)</small>
+
+1. Las comisiones ordinarias se constituyen durante el primer mes de ejercicio de la Legislatura, podrán tener hasta ocho integrantes y su encargo será por el término de la propia Legislatura.
+
+Ningún diputado podrá pertenecer a más de ocho comisiones, salvo que se trate de la Comisión Instructora o de una comisión especial.
 
 2. Para la integración de las comisiones, la Junta de Coordinación Política tomará en cuenta la pluralidad representada en el Congreso y formulará las propuestas correspondientes con base en el criterio de proporcionalidad entre la integración del Pleno y la conformación de las Comisiones.
 
@@ -2259,7 +2293,7 @@ El presente Decreto entrará en vigor a partir de su expedición y deberá publi
 
 P.O. 1 DE NOVIEMBRE DE 2006.
 
-DECRETO No.LIX-637
+DECRETO No. LIX-637
 
 ###### ARTÍCULO ÚNICO.
 
@@ -2316,3 +2350,9 @@ b) En el tercer año de ejercicio, ambos periodos de sesiones se regirán por el
 La realización de las actividades parlamentarias relacionadas con el año calendario, se llevarán a cabo en la misma época en que se venían efectuando.
 
 TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 18 DE ENERO DE 2011.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a partir de su aprobación, y deberá publicarse en el Periódico Oficial del Estado.
