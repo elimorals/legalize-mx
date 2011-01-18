@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-del-poder-legislativo-del-estado-de-guerrero-14456
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-06-11"
-last_updated: "2009-11-17"
+last_updated: "2011-01-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14456&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE GUERRERO NUMERO 286
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE NOVIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE ENERO DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 11 de junio de 1999.
 
@@ -451,7 +451,9 @@ La Mesa Directiva ejercerá sus funciones por un año legislativo, conformado é
 
 La Comisión de Gobierno cuidará qué las propuestas para la integración y designación de los cargos de la Mesa Directiva, sea conformada en proporción a la representación de las Fracciones Parlamentarias y de las Representaciones de Partido al interior del Congreso del Estado.
 
-En el caso de que dos o más Fracciones Parlamentarias con el mayor número de Diputados al interior del Congreso, estén integradas por el mismo número de representantes populares, la Presidencia de la Mesa Directiva deberá alternase con la Presidencia de la Comisión de Gobierno sólo entre los Coordinadores de estas Fracciones Parlamentarias, evitando que la misma Fracción Parlamentaria ocupe ambas Presidencias en el mismo año del ejerció constitucional.
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2011)</small>
+
+En cualquier correlación de fuerzas de las Fracciones Parlamentarias y Representaciones de Partidos en las legislaturas al Honorable Congreso del Estado; la Presidencia de la Mesa Directiva, será electa por el Pleno de la Legislatura con el voto de la mayoría simple de sus integrantes, y en ningún caso podrá desempeñarse el cargo de Presidente de la Mesa Directiva y Coordinador de alguna Fracción Parlamentaria en el mismo año de ejercicio constitucional, asimismo quien resulte electo no podrá ser presidente de comisión alguna durante su encargo.
 
 > <small>(REFORMADO, P.O. 21 DE ABRIL DE 2009)</small>
 
@@ -779,7 +781,9 @@ La Comisión de Gobierno estará integrada por los Coordinadores de las Fraccion
 
 El Coordinador de la Fracción Parlamentaria con mayor número de Diputados en la Legislatura, será el Presidente de la Comisión dé Gobierno. Los acuerdos que emita la comisión se tomarán por mayoría; el voto de los Coordinadores de las Fracciones Parlamentarias y de las Representaciones de Partido equivaldrá al número de Diputados con que cuenta cada una de ellas en la Legislatura.
 
-En el caso de que dos o más Fracciones Parlamentarias con el mayor numero de Diputados al interior del Congreso, estén integradas por el mismo número de Representantes Populares, la Presidencia de la Comisión de Gobierno deberá alternarse con la Presidencia de la Mesa Directiva sólo entre los Coordinadores de estas Fracciones Parlamentarias, evitando que la misma Fracción Parlamentaria ocupe ambas Presidencias en el mismo año de ejercicio.
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2011)</small>
+
+En ningún caso el Presidente de la Comisión de Gobierno podrá ocupar el cargo de Presidente de la Mesa Directiva durante el mismo año de ejercicio constitucional.
 
 La Comisión fungirá como órgano a fin de optimizar el ejercicio de las funciones legislativas, políticas, administrativas y en general de todas aquéllas que se estimen necesarias para la buena marcha del Congreso del Estado y se reunirá cuantas veces se estime necesario, a convocatoria de su Presidente y tendrá las siguientes atribuciones:
 
@@ -2367,7 +2371,9 @@ El Pleno del Congreso del Estado, a propuesta de la Comisión de Gobierno, nombr
 
 ## TITULO DECIMO SEGUNDO
 
-### Capítulo Unico. De la Presea Sentimientos de la Nación
+> <small>(REFORMADA SU NUMERACION, P.O. 18 DE ENERO DE 2011)</small>
+
+### Capítulo Primero. De la Presea Sentimientos de la Nación
 
 ###### Artículo 214.
 
@@ -2380,6 +2386,28 @@ La presea se otorgará a nacionales o extranjeros que sean dignos de portar dich
 ###### Artículo 216.
 
 Para seleccionar al recipiendario de la presea, el Congreso del Estado integrará una Comisión Especial, encargada de expedir la convocatoria y dictaminar sobre las candidaturas que se presenten.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE ENERO DE 2011)</small>
+
+### CAPITULO SEGUNDO. DE LA PRESEA EDUARDO NERI REYNOSO
+
+> <small>(ADICIONADO, P.O. 18 DE ENERO DE 2011)</small>
+
+###### Artículo 217.
+
+El Congreso del Estado Libre y Soberano de Guerrero instituye la presea “Eduardo Neri Reynoso”, con la cual se reconocerá el trabajo de diputados guerrerenses, locales o federales, que se hayan distinguido por su trabajo legislativo y su aportación a la construcción del marco jurídico de la Nación y del Estado de Guerrero.
+
+> <small>(ADICIONADO, P.O. 18 DE ENERO DE 2011)</small>
+
+###### Artículo 218.
+
+La presea “Eduardo Neri Reynoso”, se entregará en sesión pública y solemne el día trece de octubre de cada año, en el marco de la conmemoración del natalicio del distinguido guerrerense y en cada edición se reconocerá el trabajo de disputados que formaron parte de legislaturas anteriores.
+
+> <small>(ADICIONADO, P.O. 18 DE ENERO DE 2011)</small>
+
+###### Artículo 219.
+
+Para seleccionar al recipiendario de la presea “Eduardo Neri Reynoso”, el Congreso del Estado, integrará una Comisión Especial encargada de expedir la convocatoria y dictaminar sobre las candidaturas que se presenten.
 
 T R A N S I T O R I O S
 
@@ -2516,3 +2544,21 @@ P.O. 17 DE NOVIEMBRE DE 2009.
 PRIMERO.- El presente Decreto entrará en vigor a partir de su publicación.
 
 SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado, para el conocimiento general.
+
+P.O. 18 DE ENERO DE 2011.
+
+DECRETO NUMERO 508, POR EL QUE SE REFORMAN LOS ARTICULOS 25 TERCER PARRAFO Y ARTICULO 51 TERCER PARRAFO, DE LA LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE GUERRERO NUMERO 286.
+
+PRIMERO.- La presente reforma surtirá efectos legales al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- La Mesa Directiva y su Presidente en funciones en la fecha de emisión del presente Decreto, seguirá en funciones hasta el 14 de Noviembre del 2011.
+
+TERCERO.- Publíquese en el Periódico Oficial del Gobierno del Estado, así como en dos diarios de circulación estatal, para el conocimiento general y efectos legales procedentes.
+
+P.O. 18 DE ENERO DE 2011.
+
+DECRETO NUMERO 509, POR EL QUE SE ADICIONA UN CAPITULO SEGUNDO AL TITULO DECIMO SEGUNDO DE LA LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE GUERRERO NUMERO 286.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
