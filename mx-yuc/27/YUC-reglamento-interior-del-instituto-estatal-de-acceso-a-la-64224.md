@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-interior-del-instituto-estatal-de-acceso-a-la-64224"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-10-24"
-last_updated: "2010-09-13"
+last_updated: "2011-01-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64224&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "YUC"
 
 REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL DE ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE YUCATAN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE AGOSTO DE 2010.
-
-N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DEL 13 DE SEPTIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 18 DE ENERO DE 2011.
 
 Reglamento publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el viernes 24 de octubre de 2008.
 
@@ -137,7 +135,9 @@ V. Definir, conjuntamente con el Secretario Ejecutivo, los lineamientos sobre la
 
 VI. Contar con un libro de gobierno para el registro de los expedientes que se instauren con motivo del recurso de revisión y de los procedimientos de cumplimiento de las resoluciones;
 
-VII. Aprobar a más tardar el día 30 de octubre de cada año, los planes, programas y el anteproyecto del presupuesto del Instituto;
+> <small>(REFORMADA, D.O. 18 DE ENERO DE 2011)</small>
+
+VII. Aprobar a más tardar el día 12 de octubre de cada año, los planes, programas y el proyecto del presupuesto de egresos del Instituto;
 
 VIII. Aprobar las modificaciones a los planes, programas y aplicación del presupuesto del Instituto;
 
@@ -185,7 +185,7 @@ XXIX. Resolver lo conducente para el ejercicio de las facultades del Instituto, 
 
 ###### Artículo 9.
 
-Para el cumplimiento de sus atribuciones, el Consejo cuenta con una Unidad de Análisis y Seguimiento.
+(DEROGADO, D.O. 18 DE ENERO DE 2011)
 
 ###### Artículo 10.
 
@@ -269,27 +269,39 @@ III. Tomar la votación de los Consejeros en las sesiones, levantar el acta resp
 
 IV. Llevar el registro del turno de los Consejeros que deban formular ponencias para resolución del pleno y el registro de las sustituciones;
 
-V. Recibir y procesar la información rendida por los Consejeros y el Secretario Ejecutivo, en materia del trámite de los recursos de revisión, de inconformidad y de los procedimientos de cumplimiento de las resoluciones;
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2011)</small>
 
-VI. Tener bajo su responsabilidad y control, el archivo del Consejo;
+V. Recibir y registrar la información remitida por los Consejeros, Secretaria Ejecutiva y las Unidades Administrativas sobre los asuntos que serán presentados al Pleno;
+
+> <small>(REFORMADA, D.O. 18 DE ENERO DE 2011)</small>
+
+VI. Tener bajo su responsabilidad y control, los asuntos que sean de su competencia;
 
 VII. Remitir oportunamente a los Consejeros las convocatorias, órdenes del día y el material indispensable para el desarrollo de las sesiones;
 
 VIII. Brindar a los Consejeros el apoyo necesario para el mejor cumplimiento de sus atribuciones;
 
-IX. Auxiliar al Consejo en la tramitación y seguimiento de los expedientes, recursos, procedimientos y demás asuntos dirigidos al Consejo;
+IX. (DEROGADA, D.O. 18 DE ENERO DE 2011)
 
-X. Tener bajo su control, resguardo y responsabilidad, los libros de gobierno y archivo de expedientes relativos al Recurso de Revisión y de los procedimientos de cumplimiento de las resoluciones;
+> <small>(REFORMADA, D.O. 18 DE ENERO DE 2011)</small>
+
+X. Tener bajo su control, resguardo y responsabilidad, los libros de gobierno y el archivo de expedientes de los asuntos que sean de su competencia;
 
 XI. Conservar bajo su resguardo y responsabilidad los sellos propios de su función;
 
-XII. Realizar un índice de las resoluciones dictadas por el Consejo en los recursos de revisión y en los procedimientos de cumplimiento de las resoluciones;
+> <small>(REFORMADA, D.O. 18 DE ENERO DE 2011)</small>
+
+XII. Realizar un índice de las resoluciones dictadas por el Consejo en los asuntos que sean competencia de la Unidad a su cargo;
 
 XIII. Fungir como Unidad Administrativa en el trámite de solicitudes de acceso a la información;
 
-XIV. Llevar a cabo el trámite y sustanciación de los recursos de revisión, de los procedimientos de cumplimiento de las resoluciones y demás asuntos que conozca el Consejo;
+> <small>(REFORMADA, D.O. 18 DE ENERO DE 2011)</small>
 
-XV. Mantener actualizada la información relativa a los recursos de revisión que hayan causado estado y entregarla a la Dirección de Informática para su publicación a través del sitio de Internet del Instituto de acuerdo a los lineamientos que para tal efecto emita el Consejo;
+XIV. Llevar a cabo el trámite y sustanciación de los recursos de revisión y de los procedimientos de cumplimiento de las resoluciones de dichos medios de impugnación;
+
+> <small>(REFORMADA, D.O. 18 DE ENERO DE 2011)</small>
+
+XV. Mantener actualizada la información relativa a los recursos de revisión que hayan causado estado y entregarla a la Dirección de Tecnologías de la información para su publicación a través del sitio de Internet del Instituto, de acuerdo a los lineamientos que para tal efecto emita el Consejo;
 
 XVI. Coordinar las visitas físicas a las Unidades de Acceso y los sitios Web de los sujetos obligados a fin de vigilar el debido cumplimiento de la Ley, a través del personal que para tal efecto se haya designado;
 
@@ -297,13 +309,13 @@ XVII. Coordinar la recepción de la información pública y su publicación de c
 
 XVIII. Dar cuenta al Consejo en forma periódica de los resultados de las visitas a las Unidades de Acceso a la Información Pública y de los sitios Web de los sujetos obligados;
 
-XIX. Coordinar la elaboración del informe anual que en el mes de septiembre de cada año debe de rendir el Consejero Presidente;
+XIX. (DEROGADA, D.O. 18 DE ENERO DE 2011)
 
-XX. Observar el cumplimiento de los convenios que firme el Instituto en los términos del artículo 7 de la Ley y rendir al respecto un informe bimestral al Consejo;
+XX. (DEROGADA, D.O. 18 DE ENERO DE 2011)
 
-XXI. Compilar y resguardar las disposiciones de observancia general que emita el Consejo General;
+XXI. (DEROGADA, D.O. 18 DE ENERO DE 2011)
 
-XXII. Elaborar proyectos de respuesta a las quejas interpuestas en contra de los funcionarios públicos del Instituto o a peticiones relacionadas con estás y someterlas a consideración del Consejo;
+XXII. (DEROGADA, D.O. 18 DE ENERO DE 2011)
 
 XXIII. Mantener actualizada la información pública obligatoria que señala el artículo 9 de la Ley y proporcionarla a la Unidad de Acceso a la Información cuando así corresponda; y
 
@@ -337,7 +349,9 @@ IV. Establecer plazos para la presentación de proyectos de planes y programas d
 
 V. Elaborar los planes y programas del Instituto para someterlos a consideración del Consejo;
 
-VI. Elaborar el anteproyecto anual de presupuesto de egresos y presentarlos al Consejo para su aprobación, en la primera semana del mes de noviembre;
+> <small>(REFORMADA, D.O. 18 DE ENERO DE 2011)</small>
+
+VI. Elaborar el anteproyecto anual de presupuesto de egresos y presentarlos al Consejo para su aprobación, a más tardar el día 30 de septiembre de cada año;
 
 VII. Establecer las bases de operación del Instituto;
 
@@ -399,9 +413,21 @@ XXXV. Solicitar de los sujetos obligados el apoyo que requiera para el cumplimie
 
 XXXVI. Habilitar al personal para recepción de promociones fuera de horario de oficina;
 
-XXXVII. Realizar las actividades y actos jurídicos que el Consejo determinare para el ejercicio óptimo de sus facultades; y
+> <small>(REFORMADA, D.O. 18 DE ENERO DE 2011)</small>
 
-XXXVIII. Presentar al Consejo informes o quejas, relativas al incumplimiento a la Ley, por parte de cualquier sujeto obligado.
+XXXVII. Realizar las actividades y actos jurídicos que el Consejo determinare para el ejercicio óptimo de sus facultades;
+
+> <small>(REFORMADA, D.O. 18 DE ENERO DE 2011)</small>
+
+XXXVIII. Presentar al Consejo informes o quejas, relativas al incumplimiento a la Ley, por parte de cualquier sujeto obligado;
+
+> <small>(ADICIONADA, D.O. 18 DE ENERO DE 2011)</small>
+
+XXXIX. Coordinar la elaboración del informe anual que en el mes de septiembre de cada año debe de rendir el Consejero Presidente; y
+
+> <small>(ADICIONADA, D.O. 18 DE ENERO DE 2011)</small>
+
+XL. Observar el cumplimiento de los convenios que firme el Instituto en los términos del artículo 7 de la Ley, y rendir al Consejo informes de los mismos, cuando este así lo solicite.
 
 #### SECCIÓN SEGUNDA. DEL ASISTENTE DEL SECRETARIO EJECUTIVO
 
@@ -431,9 +457,11 @@ VIII. Las demás que le señale el Secretario Ejecutivo.
 
 #### SECCIÓN TERCERA. DE LA OFICIALÍA DE PARTES
 
+> <small>(REFORMADO, D.O. 18 DE ENERO DE 2011)</small>
+
 ###### Artículo 21.
 
-La Oficialía de Partes es la Unidad Administrativa auxiliar de la Secretaría Ejecutiva, encargada de recibir y distribuir los escritos, promociones, demandas, oficios y demás documentos que deba conocer el Instituto, el Consejo, el Secretario Ejecutivo, las Direcciones, Coordinaciones o cualquier servidor público del Instituto.
+La Oficialía de Partes es la Unidad Administrativa auxiliar de la Secretaría Ejecutiva, encargada de recibir y distribuir los escritos, promociones, demandas, oficios y demás documentos que deba conocer el Consejo a través de la Unidad de Análisis y Seguimiento, Secretario Ejecutivo, Secretario Técnico, las Direcciones, Coordinaciones o cualquier servidor público del Instituto.
 
 ###### Artículo 22.
 
@@ -457,45 +485,45 @@ El encargado de la Oficialía de Partes deberá de remitir la correspondencia, p
 
 #### SECCIÓN PRIMERA. DISPOSICIONES COMUNES
 
+> <small>(REFORMADO, D.O. 18 DE ENERO DE 2011)</small>
+
 ###### Artículo 24.
 
-Para el despacho de los asuntos que corresponden al Instituto, éste podrá contar con la estructura administrativa siguiente:
+Para el despacho de los asuntos que corresponden al Instituto, éste contará con la estructura administrativa siguiente:
 
-I. Direcciones de área:
+I. Secretaría Técnica:
 
-a) Jurídica;
+a) Coordinación de Sustanciación.
 
-b) De Administración y Finanzas;
+b) Coordinación de Proyectos.
 
-c) De Capacitación y Educación;
+II. Dirección de Administración y Finanzas:
 
-d) De Informática;
+a) Coordinación de Administración y Finanzas;
 
-e) De Difusión y Vinculación;
+III. Dirección de Capacitación y Proyectos Educativos:
 
-f) De Archivo.
+a) Coordinación de Capacitación y Educación.
 
-II. Coordinaciones de área:
+IV. Dirección de Difusión y Vinculación:
 
-a) Jurídica;
+a) Coordinación de Difusión.
 
-b) De Administración y Finanzas;
+V. Dirección de Tecnologías de la Información:
 
-c) De Capacitación y Educación;
+a) Coordinación de Sistemas.
 
-d) De Informática;
-
-e) De Difusión y Vinculación;
-
-f) De Archivo.
+VI. Coordinación General de Archivos.
 
 ###### Artículo 25.
 
-Cada una de las Direcciones de área del Instituto, estará a cargo de un Director, quien podrá contar con un Coordinador de área y ser auxiliados por el personal necesario, cuando así lo apruebe el Secretario Ejecutivo y lo permita el presupuesto.
+(DEROGADO, D.O. 18 DE ENERO DE 2011)
+
+> <small>(REFORMADO, D.O. 18 DE ENERO DE 2011)</small>
 
 ###### Artículo 26.
 
-Los Directores de área establecerán las atribuciones concernientes a los Coordinadores de área, de acuerdo con las necesidades de cada una y que lo permita el presupuesto.
+La Secretaría Técnica y los Directores establecerán las atribuciones concernientes a sus Coordinadores, de acuerdo con las necesidades de cada una de sus áreas, previa autorización del Secretario Ejecutivo o Consejo General, según sea el caso.
 
 ###### Artículo 27.
 
@@ -535,53 +563,81 @@ XVI. Elaborar las estadísticas de los asuntos de su competencia; y
 
 XVII. Las demás que le asignare el Secretario Ejecutivo.
 
-#### SECCIÓN SEGUNDA. DE LA DIRECCIÓN JURÍDICA
+> <small>(ADICIONADO, D.O. 18 DE ENERO DE 2011)</small>
 
-###### Artículo 28.
-
-Son atribuciones y obligaciones del Titular de la Dirección Jurídica:
+Artículo 27 bis.- Son atribuciones y obligaciones de la Secretaría Técnica:
 
 I. Proveer lo necesario para el desempeño legal de los actos del Instituto;
 
 II. Emitir opinión sobre asuntos encomendados por el Consejo o por el Secretario Ejecutivo;
 
-III. Compilar leyes, decretos y reglamentos; así como cualquier otra disposición de carácter general que sea publicada en el Diario Oficial del Gobierno del Estado para el cumplimiento de los objetivos del Instituto;
+III. Compilar leyes, decretos y reglamentos, así como cualquier otra disposición de carácter general que sea publicada en el Diario Oficial del Gobierno del Estado de Yucatán, para el cumplimiento de los objetivos del Instituto;
 
-IV. Asesorar a las demás Direcciones del Instituto, a efecto de que observen las formalidades previstas en la Ley, este Reglamento y cualquier otra disposición aplicable;
+IV. Dirigir la atención de las consultas y asesorías y emitir, en su caso, opiniones legales y procedimentales tanto para las áreas del Instituto como para los sujetos obligados que así lo requieran;
 
 V. Elaborar y analizar proyectos de contratos, convenios y cualquier acto jurídico que suscriba el Instituto;
 
 VI. Representar legalmente al Instituto ante los Tribunales Federales y del fuero común y ante cualquier autoridad administrativa y jurisdiccional en los asuntos en que el Instituto tenga interés jurídico o injerencia jurídica, incluyendo todos los derechos procesales que las leyes reconocen a las partes y el de promover el juicio de amparo en contra de los actos que afecten la esfera jurídica del Instituto, rindiendo los informes de ley, así como ofrecer pruebas, formular alegatos, interponer toda clase de recursos y, en general vigilar y atender su tramitación, cuando formalmente le sea delegada esta facultad por el Secretario Ejecutivo en los términos del artículo 35 fracción X de la Ley; esta disposición no limita que el Secretario Ejecutivo pueda delegar su representación en cualquier otra persona en términos de ley;
 
-VII. Tener bajo su responsabilidad los expedientes y documentos que maneje con motivo de su función;
+VII. Tener bajo su responsabilidad los documentos que sean de su competencia;
 
-VIII. Compilar y resguardar las disposiciones de observancia general que emita el Secretario Ejecutivo;
+VIII. Compilar y resguardar las disposiciones de observancia general que emita el Secretario Ejecutivo o el Consejo General;
 
-IX. Desarrollar investigaciones, en el ámbito del derecho comparado, sobre el derecho de Acceso a la Información;
+IX. Desarrollar investigaciones en el ámbito del derecho comparado, sobre los derechos de acceso a la información y protección de datos personales;
 
-X. Recibir las promociones que presenten las partes, concernientes al recurso de inconformidad y dar cuenta de ellas al Secretario Ejecutivo;
+X. Dirigir la recepción, sustanciación y elaboración de proyectos de resolución de los recursos de inconformidad, procedimientos de cumplimiento de las resoluciones de dichos medios de impugnación y procedimientos para vigilar el cumplimiento de la Ley;
 
-XI. Tener bajo su control y resguardo, los libros de gobierno y el archivo de expedientes derivados del recurso de inconformidad;
+XI. Tener bajo su responsabilidad, control y resguardo, los libros de gobierno y el archivo de expedientes derivados de los recursos de inconformidad, procedimientos de cumplimiento de dichos medios de impugnación y procedimientos para vigilar el cumplimiento de la Ley;
 
-XII. Tener bajo su responsabilidad, los expedientes y documentos que maneje con motivo de su función;
+XII. Asentar en los expedientes las razones o certificaciones que procedan;
 
-XIII. Asentar en los expedientes las razones o certificaciones que procedan;
+XIII. Presentar a la Secretaría Ejecutiva para su aprobación los proyectos de los acuerdos y resoluciones de los recursos de inconformidad;
 
-XIV. Brindar al Secretario Ejecutivo, el apoyo necesario para el mejor cumplimiento de sus funciones jurisdiccionales;
+XIV. Mantener actualizada la información relativa a los recursos de inconformidad que hayan causado estado y entregarla a la Dirección de Tecnologías de la Información para su publicación a través del sitio de Internet del Instituto de acuerdo a los lineamientos que para tal efecto emita el Consejo y el Secretario Ejecutivo;
 
-XV. Mantener actualizada la información relativa a los recursos de inconformidad que hayan causado estado y entregarla a la Dirección de Informática para su publicación a través del sitio de Internet del Instituto de acuerdo a los lineamientos que para tal efecto emita el Consejo y el Secretario Ejecutivo;
+XV. Conservar bajo su resguardo y responsabilidad, los sellos que le correspondan con motivo de su función;
 
-XVI. Conservar bajo su resguardo y responsabilidad, los sellos que le correspondan con motivo de su función;
+XVI. Dirigir la práctica de notificaciones relativas al recurso de inconformidad, procedimientos de cumplimiento de las resoluciones de dichos medios de impugnación, procedimientos para vigilar el cumplimiento de la Ley, y lo relativo al recurso de revisión, cuando así le sea delegado por el Secretario Ejecutivo o el Consejo General del Instituto;
 
-XVII. Notificar a las partes lo concerniente al recurso de inconformidad y lo relativo al recurso de revisión, cuando así le sea delegado por el Secretario Ejecutivo;
+XVII. Realizar un índice de las resoluciones dictadas por el Secretario Ejecutivo en los recursos de inconformidad, y procedimientos para vigilar el cumplimiento de la Ley;
 
-XVIII. Realizar un índice de las resoluciones dictadas por el Secretario Ejecutivo en los Recursos de Inconformidad;
+XVIII. Elaborar estudios relacionados con el acceso a la información pública y protección de datos personales de leyes, reglamentos, acuerdos, lineamientos, recomendaciones y criterios de interpretación en la materia;
 
-XIX. Elaborar estudios relacionados con el acceso a la información pública de leyes, reglamentos, acuerdos, lineamientos, recomendaciones y criterios de interpretación en la materia;
+XIX. Elaborar proyectos de respuesta a peticiones de particulares dirigidas al Consejo o al Secretario Ejecutivo, cuando éstas no se refieran a los medios de impugnación ni a los procedimientos de acceso a la información pública y de corrección de datos personales, previstos en la Ley;
 
-XX. Elaborar proyectos de respuesta a peticiones de particulares dirigidas al Consejo o al Secretario Ejecutivo, cuando éstas no se refieran a los medios de impugnación ni a los procedimientos de acceso a la información pública y de corrección de datos personales, previstos en la Ley; y
+XX. Dirigir la expedición de copias certificadas relacionadas con los expedientes que se encuentren bajo su custodia;
 
-XXI. Las demás tareas que le encomiende el Secretario Ejecutivo.
+XXI. Expedir cuando así proceda, certificaciones de los documentos que obren en los archivos a su cargo;
+
+XXII. Generar información estadística respecto a los recursos de inconformidad, procedimientos de cumplimiento de las resoluciones de dichos medios de impugnación y procedimientos para vigilar el cumplimiento de la Ley;
+
+XXIII. Acordar con el Coordinador de Proyectos los expedientes que le son turnados para resolución a efecto de establecer las directrices y criterios aplicables al caso particular;
+
+XXIV. Acordar con el Coordinador de Sustanciación el sentido de los acuerdos correspondientes y la práctica de las diligencias que se consideren necesarias para la tramitación de los diversos procedimientos que sean competencia de la Secretaría;
+
+XXV. Revisar los proyectos de acuerdos y resoluciones que se emiten en los expedientes de los recursos de inconformidad, procedimientos de cumplimiento de las resoluciones de dichos medios de impugnación y procedimientos para vigilar el cumplimiento de la Ley;
+
+XXVI. Gestionar la publicación en el Diario Oficial del Gobierno del Estado de Yucatán, los acuerdos, lineamientos, reformas o cualquier otro acto jurídico o disposición normativa que el Pleno determine;
+
+XXVII. Presentar al Pleno los proyectos de los acuerdos y resoluciones derivados de los procedimientos de cumplimiento de las resoluciones de los recursos de inconformidad y procedimientos para vigilar el cumplimiento de la Ley;
+
+XXVIII. Dirigir la atención y respuesta de las solicitudes de información relacionadas con las actividades de la Secretaría Técnica;
+
+XXIX. Dirigir la recepción, sustanciación y elaboración de proyectos de las resoluciones emitidas en los procedimientos incoados contra servidores públicos del Instituto;
+
+XXX. Elaborar, proponer y ejecutar los programas anuales de la Secretaría a su cargo y controlar las acciones derivadas de los mismos;
+
+XXXI. Rendir a la Secretaría Ejecutiva y al Consejo General, los informes de las actividades que sean de su competencia;
+
+XXXII. Coordinarse con la Unidad de Análisis y Seguimiento respecto al turno de los Consejeros que deban formular ponencias en los procedimientos para vigilar el cumplimiento de la Ley; y
+
+XXXIII. Las demás tareas que le encomiende el Secretario Ejecutivo o el Consejo General del Instituto.
+
+#### SECCIÓN SEGUNDA. DE LA DIRECCIÓN JURÍDICA
+
+###### Artículo 28.
+
+(DEROGADO, D.O. 18 DE ENERO DE 2011)
 
 #### SECCIÓN TERCERA. DE LA DIRECCIÓN DE ADMINISTRACIÓN Y FINANZAS
 
@@ -629,11 +685,15 @@ XIX. Asistir al personal en las cartas de entrega-recepción, por términos del 
 
 XX. Las demás tareas que le encomiende el Secretario Ejecutivo.
 
-#### SECCIÓN CUARTA. DE LA DIRECCIÓN DE CAPACITACIÓN Y EDUCACIÓN
+> <small>(REFORMADA SU DENOMINACION, D.O. 18 DE ENERO DE 2011)</small>
+
+#### SECCIÓN CUARTA. DE LA DIRECCIÓN DE CAPACITACIÓN Y PROYECTOS EDUCATIVOS
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 18 DE ENERO DE 2011)</small>
 
 ###### Artículo 30.
 
-Son atribuciones y obligaciones del Titular de la Dirección de Capacitación y Educación:
+Son atribuciones y obligaciones del Titular de la Dirección de Capacitación y Proyectos Educativos:
 
 I. Implementar un sistema de detección de necesidades de capacitación y educación, para el personal del Instituto, los sujetos obligados y la sociedad;
 
@@ -663,11 +723,15 @@ XIII. Proponer al Secretario Ejecutivo la metodología y criterios para evaluar 
 
 XIV. Las demás tareas que le encomiende el Secretario Ejecutivo.
 
-#### SECCIÓN QUINTA. DE LA DIRECCIÓN DE INFORMÁTICA
+> <small>(REFORMADA SU DENOMINACION, D.O. 18 DE ENERO DE 2011)</small>
+
+#### SECCIÓN QUINTA. DE LA DIRECCIÓN DE TECNOLOGÍAS DE LA INFORMACIÓN
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 18 DE ENERO DE 2011)</small>
 
 ###### Artículo 31.
 
-Son atribuciones y obligaciones del Titular de la Dirección de Informática las siguientes:
+Son atribuciones y obligaciones del Titular de la Dirección de Tecnologías de la Información las siguientes:
 
 I. Proponer al Secretario Ejecutivo, el proyecto de infraestructura informática que permita el óptimo cumplimiento de las atribuciones del Instituto;
 
@@ -717,13 +781,17 @@ VII. Coordinar las ruedas de prensa, conferencias y entrevistas necesarias para 
 
 VIII. Elaborar la síntesis informativa diaria;
 
-IX. Coordinar con instituciones de educación superior actividades de difusión del derecho de acceso a la información pública;
+> <small>(REFORMADA, D.O. 18 DE ENERO DE 2011)</small>
+
+IX. Coordinar con instituciones educativas de nivel básico a superior actividades de difusión de los derechos de acceso a la información pública y protección de datos personales;
 
 X. Promover el uso y aprovechamiento de la información pública mediante diversas actividades de difusión en colaboración interinstitucional con el sector privado, social y público;
 
 XI. Establecer las bases de colaboración con instituciones educativas, cámaras empresariales, organizaciones no gubernamentales y colegios de profesionales para difundir las actividades propias del Instituto;
 
-XII. Proponer y coordinar las acciones necesarias para el desarrollo de eventos de carácter local que el Consejo o el Secretario Ejecutivo determinen sobre temas de transparencia, rendición de cuentas, protección de datos personales y Derecho de Acceso a la Información Pública; y
+> <small>(REFORMADA, D.O. 18 DE ENERO DE 2011)</small>
+
+XII. Proponer y coordinar las acciones necesarias para el desarrollo de eventos de carácter local, regional y nacional que el Consejo o el Secretario Ejecutivo determinen sobre temas de transparencia, rendición de cuentas, protección de datos personales y derecho de acceso a la información pública; y
 
 XIII. Las demás tareas que le encomiende el Secretario Ejecutivo.
 
@@ -919,15 +987,21 @@ XIII. Informar al Consejo en forma periódica sobre el estado que guardan las so
 
 Para el trámite de solicitudes de acceso a la información, se considerará como Unidades Administrativas a:
 
-I. Las Direcciones;
+> <small>(ADICIONADA, D.O. 18 DE ENERO DE 2011)</small>
 
-II. La Unidad de Análisis y Seguimiento;
+I. La Secretaría Técnica;
 
-III. Asistente del Secretario Ejecutivo;
+II. Las Direcciones;
 
-IV. Encargado de la Oficialía de Partes; y
+III. La Unidad de Análisis y Seguimiento;
 
-V. Cualquier funcionario que por actividades que desempeñe tenga bajo su custodia y archivo cualquier documento.
+IV. Asistente del Secretario Ejecutivo;
+
+> <small>(REFORMADA, D.O. 18 DE ENERO DE 2011)</small>
+
+V. El encargado de la Oficialía de Partes; y
+
+VI. Cualquier funcionario que por actividades que desempeñe tenga bajo su custodia y archivo cualquier documento.
 
 El Consejo y el Secretario Ejecutivo serán Unidades Administrativas única y exclusivamente a través de los antes señalados.
 
@@ -1439,7 +1513,7 @@ II. Se contarán por días hábiles, entendiéndose por estos los días a que se
 
 Para la aplicación de los medios de apremio y sanciones previstos en el artículo 56 de la Ley, n relación con el incumplimiento de las resoluciones de los recursos de inconformidad y de revisión o de cualquier otra resolución emitida por el Pleno del Consejo General, esté tiene que sujetarse al procedimiento siguiente:
 
-> <small>(F. DE E., D.O. 13 DE SEPTIEMBRE DE 2010)</small>
+(REFORMADA, D.O. 17 DE ABRIL DE 2009) (F. DE E., D.O. 13 DE SEPTIEMBRE DE 2010)
 
 I. El inicio del presente procedimiento se llevará a cabo a través de la vista que el Secretario Ejecutivo le dé al Consejo, en el caso del recurso de inconformidad, o de oficio, en el caso de cualquier otra resolución del Consejo o bien del recurso de revisión. Recibida la vista en cuestión, o de oficio por el Consejo, de manera inmediata se radicará, registrándolo bajo el número de expediente que le corresponda, en el libro de gobierno y creando el expediente respectivo;
 
@@ -1544,3 +1618,17 @@ D.O. 31 DE AGOSTO DE 2010.
 ###### ARTÍCULO ÚNICO.
 
 Las presentes reformas entrarán en vigor al día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+D.O. 18 DE ENERO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor al día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán, salvo lo establecido en los siguientes artículos.
+
+###### ARTÍCULO SEGUNDO.
+
+Las reformas y adiciones previstas en los artículos 15, 21, 24 y 27 bis de este Reglamento, no serán aplicables a los procedimientos de cumplimiento de las resoluciones de los recursos de inconformidad y procedimientos para vigilar el cumplimiento de la Ley que hayan sido radicados con anterioridad a la entrada en vigor del presente ordenamiento.
+
+###### ARTÍCULO TERCERO.
+
+Concluidos los procedimientos de cumplimiento de las resoluciones de los recursos de inconformidad y procedimientos para vigilar el cumplimiento de la Ley, que hayan sido radicados con anterioridad a la entrada en vigor del presente ordenamiento, deberán ser remitidos a la Secretaría Técnica para su resguardo.
