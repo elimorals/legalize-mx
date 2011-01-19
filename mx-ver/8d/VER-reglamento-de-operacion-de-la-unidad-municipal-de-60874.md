@@ -4,7 +4,7 @@ identifier: "VER-reglamento-de-operacion-de-la-unidad-municipal-de-60874"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-04-11"
-last_updated: "2008-04-11"
+last_updated: "2011-01-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60874&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 REGLAMENTO DE OPERACIÓN DE LA UNIDAD MUNICIPAL DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN, Y DEL COMITÉ DE INFORMACIÓN DE ACCESO RESTRINGIDO DEL H. AYUNTAMIENTO DE XALAPA, VERACRUZ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 19 DE ENERO DE 2011.
 
 Reglamento publicado en el Extraordinario de la Gaceta Oficial del Estado de Veracruz, el viernes 11 de abril de 2008.
 
@@ -49,7 +49,9 @@ Reglamento de Operación de la Unidad Municipal de Transparencia y Acceso a la I
 
 El presente Reglamento es de orden e interés público y de observancia general, tiene por objeto tutelar y garantizar el derecho de acceso a la información pública municipal; la protección de los datos personales, así como la información confidencial y la reservada que se encuentre en posesión del Ayuntamiento de Xalapa; (sic)
 
-Así como reglamentar la operación, integración y procedimientos de la Unidad Municipal de Transparencia y Acceso a la Información y del Comité de Información de Acceso Restringido.
+> <small>(REFORMADO, G.O. 19 DE ENERO DE 2011)</small>
+
+Así como reglamentar la operación, integración y procedimientos de la Unidad Municipal de Transparencia y Acceso a la Información y del Comité de Información de Acceso Restringido del H. Ayuntamiento de Xalapa.
 
 ### CAPÍTULO II. De las Definiciones e Interpretaciones
 
@@ -73,9 +75,15 @@ VII. Reglamento. El Reglamento de Operación de la Unidad Municipal de Transpare
 
 VIII. Servidor Público Habilitado. Servidor público que forma parte de la plantilla del personal del Ayuntamiento y que es designado para recibir y dar trámite a las solicitudes de acceso a la información, a los datos personales y a la corrección de éstos, en oficinas, delegaciones o representaciones distintas a aquélla en la que se ubica su Unidad de Acceso.
 
-IX. Titular de la Unidad de Acceso. El Jefe de la Unidad Municipal de Transparencia y Acceso a la Información.
+> <small>(REFORMADA, G.O. 19 DE ENERO DE 2011)</small>
+
+IX. Titular de la Unidad de Acceso.- El Jefe de la Unidad de Transparencia y Acceso a la Información
 
 X. Unidad de Acceso. La Unidad Municipal de Transparencia y Acceso a la Información del H. Ayuntamiento de Xalapa, Veracruz.
+
+> <small>(ADICIONADA, G.O. 19 DE ENERO DE 2011)</small>
+
+XI. Unidad de Acceso: La Unidad de Trasparencia y acceso a la información del H. Ayuntamiento de Xalapa, Veracruz.
 
 ### CAPÍTULO III. Del Derecho de Acceso a la Información
 
@@ -798,3 +806,9 @@ Artículo primero. El presente Reglamento entrará en vigor tres días después 
 Artículo segundo. Las áreas o unidades administrativas del Ayuntamiento se avocarán en forma inmediata a cumplir con las Obligaciones de Transparencia en materia de información que se establecen en el artículo 8 del presente Reglamento.
 
 Dado en el sala de sesiones del Cabildo, en la ciudad de Xalapa-Enríquez, Veracruz de Ignacio de la Llave, a los dieciocho días del mes de marzo del año dos mil ocho.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 19 DE ENERO DE 2011.
+
+EL ACUERDO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 2 DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE VERACRUZ.
