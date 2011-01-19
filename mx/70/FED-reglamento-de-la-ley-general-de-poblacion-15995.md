@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-general-de-poblacion-15995"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-04-14"
-last_updated: "2006-11-29"
+last_updated: "2011-01-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15995&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2000-04-12"
 
 REGLAMENTO DE LA LEY GENERAL DE POBLACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE NOVIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE ENERO DE 2011.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 14 de abril de 2000.
 
@@ -445,7 +445,9 @@ g) Nacionalidad de origen cuando el ciudadano haya adquirido la nacionalidad por
 
 h) Clave Única de Registro de Población, y
 
-i) Fotografía, huella digital y firma del ciudadano.
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2011)</small>
+
+i) Fotografía, huellas dactilares, imagen del iris y firma del ciudadano.
 
 ###### Artículo 48.
 
@@ -485,6 +487,10 @@ f) Datos de localización del acta de nacimiento en el Registro Civil, y
 
 g) Clave Única de Registro de Población.
 
+> <small>(ADICIONADO, D.O.F. 19 DE ENERO DE 2011)</small>
+
+Además, dicho Registro contendrá la fotografía, las huellas dactilares y la imagen del iris, que para tal efecto recabe el Registro Nacional de Población.
+
 ###### Artículo 53.
 
 Para efecto del documento de identificación para los mexicanos y mexicanas menores de dieciocho años, se expedirá la Cédula de Identidad Personal.
@@ -505,7 +511,9 @@ e) Clave Única de Registro de Población;
 
 f) Fotografía del titular;
 
-g) Huella dactilar y de ser factible, firma del titular, y
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2011)</small>
+
+g) La codificación de la imagen del iris, y
 
 h) Lugar y fecha de expedición.
 
@@ -527,9 +535,11 @@ Las autoridades mexicanas, ya sea en el país o en el extranjero, y las personas
 
 #### SECCIÓN IV.- Del Procedimiento
 
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2011)</small>
+
 ###### Artículo 59.
 
-Para la inscripción en el Registro Nacional de Ciudadanos los mexicanos y mexicanas que hayan cumplido dieciocho años, así como los y las menores de edad que soliciten su Cédula de Identidad Personal, deberán presentar su solicitud en el formato que para el efecto expida el Registro Nacional de Población.
+Para la inscripción en el Registro Nacional de Ciudadanos los mexicanos y mexicanas que hayan cumplido dieciocho años, así como los y las menores de edad que soliciten su Cédula de Identidad Personal, deberán presentar su solicitud en el formato y a través de los medios que para tal efecto determine el Registro Nacional de Población.
 
 ###### Artículo 60.
 
@@ -559,17 +569,27 @@ Los requisitos y documentos señalados no limitan la facultad del Registro Nacio
 
 Las solicitudes se presentarán en los formatos y con la documentación requeridos, en caso contrario se desechará.
 
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2011)</small>
+
 ###### Artículo 62.
 
-Al presentar su solicitud ante la oficina del Registro Nacional de Población para su inscripción en el Registro Nacional de Ciudadanos, el interesado o la interesada deberá estampar su firma y huellas dactilares, conforme a las técnicas que emita la Secretaría, así como manifestar su domicilio y presentar comprobante del mismo.
+Al presentar su solicitud para su inscripción en el Registro Nacional de Ciudadanos, el interesado o la interesada deberá, conforme a las normas técnicas que emita la Secretaría:
 
-En el caso de los y las menores de edad, deberán, cuando menos, estampar sus huellas dactilares en la solicitud respectiva.
+I. Estampar su firma y huellas dactilares;
+
+II. Registrar la imagen de su iris, y
+
+III. Manifestar su domicilio bajo protesta de decir verdad.
+
+En el caso de los y las menores de edad deberán registrar sus huellas dactilares así como la imagen de su iris.
+
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2011)</small>
 
 ###### Artículo 63.
 
-Las solicitudes deberán ser presentadas en las oficinas designadas para el efecto.
+Las solicitudes deberán ser presentadas mediante los mecanismos que para tal efecto determine la Secretaría.
 
-La Secretaría contará como mínimo con una oficina del Registro Nacional de Población en cada entidad federativa para recibir las solicitudes de inscripción; asimismo, podrá auxiliarse de cualquier autoridad federal o local con la que se haya convenido al respecto.
+La Secretaría contará como mínimo con una oficina del Registro Nacional de Población en cada entidad federativa, sin perjuicio de auxiliarse de cualquier autoridad federal o local con la que se haya convenido al respecto.
 
 ###### Artículo 64.
 
@@ -2300,3 +2320,13 @@ D.O.F. 29 DE NOVIEMBRE DE 2006.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- El plazo de resolución que se establece en el artículo 146 no aplicará para aquellos trámites que se resuelven en un tiempo menor en términos de las disposiciones administrativas vigentes.
+
+D.O.F. 19 DE ENERO DE 2011.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, salvo por lo dispuesto en el siguiente artículo.
+
+SEGUNDO. Durante los siguientes cinco años a la entrada en vigor del presente Decreto, el Registro Nacional de Población podrá registrar mexicanos y mexicanas que hayan cumplido dieciocho años de edad y expedir la Cédula de Identidad Ciudadana, sin necesidad de contar con la información a que se refiere la fracción II del artículo 62 del presente Reglamento.
+
+El Registro Nacional de Población llevará a cabo las acciones necesarias para actualizar el Registro Nacional de Ciudadanos respecto de las Cédulas emitidas conforme al párrafo anterior.
+
+TERCERO. La Secretaría de Gobernación realizará las acciones necesarias para que la implementación del presente Decreto, se realice con los recursos aprobados a dicha dependencia, mediante movimientos compensados para el ejercicio fiscal que corresponda, por lo que no requerirá recursos adicionales para tales efectos y no incrementará su presupuesto regularizable.
