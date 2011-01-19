@@ -4,7 +4,7 @@ identifier: "PUE-ley-para-las-personas-con-discapacidad-del-estado-de-puebla-661
 country: "mx"
 rank: "ley"
 publication_date: "2009-01-12"
-last_updated: "2010-01-20"
+last_updated: "2011-01-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66149&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE ENERO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE ENERO DE 2011.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Puebla, el lunes 12 de enero de 2009.
 
@@ -89,9 +89,29 @@ XII.- Reglamento de Construcciones: Los Reglamentos de Construcciones expedidos 
 
 XIII.- Senescentes: Persona que en razón de su edad padece disminución o limitación de sus facultades mentales, visión o audio;
 
-XIV.- Sistema DlF: Sistema para el Desarrollo Integral de la Familia del Estado de Puebla; y
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2011)</small>
 
-XV.- Vía Pública: Los espacios terrestres, de uso común, destinados al tránsito.
+XIV.- Sistema DlF: Sistema para el Desarrollo Integral de la Familia del Estado de Puebla;
+
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2011)</small>
+
+XV.- Vía Pública: Los espacios terrestres, de uso común, destinados al tránsito;
+
+> <small>(ADICIONADA, P.O. 19 DE ENERO DE 2011)</small>
+
+XVI.- Accesibilidad.- Combinación de elementos constructivos, operativos, y organizacionales que permiten a cualquier persona con diferente tipo y grado de discapacidad entrar, desplazarse, salir, orientarse, comunicarse, informarse y desarrollarse en todos los ámbitos de la vida, de manera segura, autónoma, cómoda y adecuada a sus necesidades en espacios, mobiliarios, equipos y servicios;
+
+> <small>(ADICIONADA, P.O. 19 DE ENERO DE 2011)</small>
+
+XVII.- Inclusión.- Impulso y transformación de la administración pública y la sociedad para la inserción total de las personas con algún tipo de grado de discapacidad en las áreas de salud, trabajo, educación, transporte, servicios y demás materias para el desarrollo de· una vida en condiciones normales, que provoca el diseño y aplicación de políticas públicas no discriminatorias;
+
+> <small>(ADICIONADA, P.O. 19 DE ENERO DE 2011)</small>
+
+XVIII.- Educación Especial.- Conjunto de servicios, programas, orientación y recursos educativos especializados, que favorece la eliminación de barreras físicas, sensoriales, afectivas y cognitivas para el acceso, aprendizaje, y participación de las personas que padecen algún tipo de discapacidad, así como aquellos con capacidades y aptitudes sobresalientes, que no logran acceder a la escolaridad regular, en ella se favorecerá su desarrollo integral, y se facilitará la adquisición de habilidades y destrezas que les capaciten para lograr los fines de la educación; así mismo se promoverá su inserción en la escuela regular; y
+
+> <small>(ADICIONADA, P.O. 19 DE ENERO DE 2011)</small>
+
+XIX.- Igualdad de Oportunidades.- Proceso de adecuaciones, ajustes y mejoras necesarias en el entorno jurídico, social, cultural y de bienes y servicios, que faciliten a las personas con discapacidad una integración, convivencia y participación, con las mismas oportunidades y posibilidades que el resto de la población.
 
 ###### Artículo 5.
 
@@ -105,21 +125,35 @@ II.- Los Ayuntamientos de los Municipios.
 
 La Secretaría de Salud, a través del Sistema DlF, en coordinación con las Instituciones competentes, coordinará la elaboración de un Programa de Integración Social de Personas con Discapacidad, que comprenderán los siguientes aspectos:
 
-I.- Salud, bienestar y seguridad social;
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2011)</small>
 
-II.- Educación e Investigación;
+I.- Salud, prevención, detección oportuna, rehabilitación de la discapacidad, bienestar y seguridad social;
 
-III.- Rehabilitación laboral, capacitación y trabajo;
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2011)</small>
+
+II.- Rehabilitación laboral, capacitación y trabajo;
+
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2011)</small>
+
+III.- Educación inclusiva e investigación;
 
 IV.- Deporte, cultura y recreación;
 
-V.- Comunicación;
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2011)</small>
 
-VI.- Acceso a las telecomunicaciones, transporte y vialidad;
+V.- Comunicación, información y acceso a las tecnologías de la información;
 
-VII.- Legislación y Derechos Humanos; y
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2011)</small>
 
-VIII.- Informática sobre población con discapacidad. En términos de la política, normatividad, lineamientos y modalidades concertadas entre las partes, las cuales debidamente aprobadas se integrarán en un anexo especial.
+VI.- Accesibilidad;
+
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2011)</small>
+
+VII.- Legislación, derechos humanos, sensibilización y concientización de la población en relación a los derechos de las personas con discapacidad; y
+
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2011)</small>
+
+VIII.- Registro detallado sobre población con diferentes tipos y grados de discapacidad. Mismo que sólo se podrá realizar por inscripción voluntaria de las propias personas con discapacidad o sus tutores.
 
 ###### Artículo 7.
 
@@ -209,23 +243,37 @@ III.- Un Secretario, que será el Director General del Sistema DIF;
 
 IV.- Un Coordinador Técnico;
 
-V.- Ocho subcomisiones que representan a los siguientes sectores, mismos que serán presididos por el Secretario del ramo o por el representante que el designe, en los términos que para tal efecto señale el Reglamento Interior:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE ENERO DE 2011)</small>
 
-a) SALUD, BIENESTAR y SEGURIDAD SOCIAL
+V.- Siete subcomisiones que representan a los siguientes sectores, mismos que serán presididos por el Secretario del ramo o por el representante que él designe, en los términos que para tal efecto señale el Reglamento Interior:
 
-b) EDUCACIÓN E INVESTIGACIÓN
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2011)</small>
 
-c) REHABILITACIÓN LABORAL, CAPACITACIÓN Y TRABAJO
+a) Salud, prevención, detección oportuna, rehabilitación de la discapacidad, bienestar y seguridad social;
+
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2011)</small>
+
+b) Rehabilitación laboral, capacitación y trabajo;
+
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2011)</small>
+
+c) Educación inclusiva e investigación;
 
 d) DEPORTE, CULTURA Y RECREACIÓN
 
-e) COMUNICACIÓN
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2011)</small>
 
-f) ACCESO A LAS TELECOMUNICACIONES, TRANSPORTE Y VIALIDAD
+e) Comunicación, información y acceso a las tecnologías de la información;
 
-g) LEGISLACIÓN Y DERECHOS HUMANOS
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2011)</small>
 
-h) INFORMÁTICA
+f) Accesibilidad; y
+
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2011)</small>
+
+g) Legislación, derechos humanos, sensibilización y concientización de la población en relación a las personas con discapacidad.
+
+h) (DEROGADO, P.O. 19 DE ENERO DE 2011)
 
 VI.- Doce vocales de apoyo.
 
@@ -696,3 +744,13 @@ P.O. 20 DE ENERO DE 2009.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se Derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 19 DE ENERO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
