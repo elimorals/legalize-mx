@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-proteccion-civil-para-el-estado-de-nuevo-leon-22837"
 country: "mx"
 rank: "ley"
 publication_date: "1997-01-22"
-last_updated: "1997-01-22"
+last_updated: "2011-01-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22837&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE PROTECCION CIVIL PARA EL ESTADO DE NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE ENERO DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 22 de enero de 1997.
 
@@ -451,11 +451,19 @@ r) Otros establecimientos que por sus características y magnitud sean similares
 
 XX. Determinar la existencia de riesgos en los establecimientos, así como dictar las medidas para evitarlos o extinguirlos;
 
-XXI. Señalar las medidas de seguridad necesarias e imponer las sanciones correspondientes conforme a la presente Ley;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA A LA LEY.</small>
 
-XXII. Coadyuvar con el Consejo de Protección Civil del Estado de Nuevo León en la conducción y operación del Sistema Estatal de Protección Civil, así como en la reunión, introducción y actualización de la información del mismo; y
+> <small>(ADICIONADA, P.O. 19 DE ENERO DE 2011)</small>
 
-XXIII. Las demás que le confiera el Ejecutivo del Estado, Secretario General de Gobierno, la presente Ley, y otros ordenamientos legales, así como las que se determinen por acuerdos y resoluciones del Consejo de Protección Civil del Estado de Nuevo León.
+XXI. A petición de los Ayuntamientos, rendir opinión técnica respecto a la autorización de licencias de usos de suelo y edificaciones, construcciones, fraccionamientos, así como factibilidades y demás autorizaciones en materia de desarrollo urbano relativas a establecimientos e instalaciones señalados en la fracción XIX de este Artículo, cuando los mismos se pretendan desarrollar en zonas de riesgo.
+
+Tratándose de la instalación de estaciones de servicio denominadas gasolineras o de carburación y establecimientos dedicados al almacenamiento, expendio o distribución de gas, la Autoridad Municipal, previo a la autorización de uso de suelo, estará obligada a requerir la opinión técnica de la Dirección de Protección Civil.
+
+XXII. Señalar las medidas de seguridad necesarias e imponer las sanciones correspondientes conforme a la presente Ley;
+
+XXIII. Coadyuvar con el Consejo de Protección Civil del Estado de Nuevo León en la conducción y operación del Sistema Estatal de Protección Civil, así como en la reunión, introducción y actualización de la información del mismo; y
+
+XXIV. Las demás que le confiera el Ejecutivo del Estado, Secretario General de Gobierno, la presente Ley, y otros ordenamientos legales, así como las que se determinen por acuerdos y resoluciones del Consejo de Protección Civil del Estado de Nuevo León.
 
 ###### Artículo 27.
 
@@ -557,11 +565,17 @@ VI. Diseñar y llevar a cabo campañas masivas de divulgación en materia de pro
 
 VII. Elaborar el respectivo Mapa Municipal de Riesgos;
 
-VIII. Convocar a funcionarios públicos y a representantes de los sectores social, privado y grupos voluntarios para integrar el Centro Municipal de Operaciones;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA A LA LEY.</small>
 
-IX. Promover el equipamiento de los cuerpos de respuesta; y
+> <small>(ADICIONADA, P.O. 19 DE ENERO DE 2011)</small>
 
-X. Las demás que acuerde el propio Sistema Municipal.
+VIII. A petición de los Ayuntamientos, rendir opinión técnica respecto a la autorización de licencias de usos de suelo y edificaciones, construcciones, así como factibilidades y demás autorizaciones en materia de desarrollo urbano relativas a establecimientos e instalaciones señalados en la fracción V de este Artículo, cuando los mismos se pretendan desarrollar en zonas de riesgo.
+
+IX. Convocar a funcionarios públicos y a representantes de los sectores social, privado y grupos voluntarios para integrar el Centro Municipal de Operaciones;
+
+X. Promover el equipamiento de los cuerpos de respuesta; y
+
+XI. Las demás que acuerde el propio Sistema Municipal.
 
 ###### Artículo 37.
 
@@ -581,7 +595,7 @@ I. Territoriales: Formados por los habitantes de una colonia, de una zona, de un
 
 II. Profesionales o de Oficios: Constituidos de acuerdo a la profesión u oficio que tengan; y
 
-III. De Actividades Especificas: Atendiendo a la función de auxilio que desempeñen, constituidos por personas dedicadas a realizar acciones especificas de auxilio.
+III. De Actividades Especificas: atendiendo a la función de auxilio que desempeñen, constituidos por personas dedicadas a realizar acciones especificas de auxilio.
 
 ###### Artículo 40.
 
@@ -621,9 +635,9 @@ IV. Coordinarse bajo el mando de las Autoridades de Protección Civil, ante la p
 
 V. Cooperar en la difusión de programas y planes de protección civil;
 
-VI. Coadyuvar en actividades de monitoreo, pronóstico y aviso a la Dirección de Protección Civil, de la presencia de cualquier riesgo, alto riesgo, emergencia o desastre;
+VI. Coadyuvar en actividades de monitoreo, pronostico y aviso a la Dirección de Protección Civil, de la presencia de cualquier riesgo, alto riesgo, emergencia o desastre;
 
-VII. Realizar los trámites ante las autoridades competentes, para obtener la autorización de recibir donativos deducibles en el impuesto sobre la renta para sus donantes;
+VII. Realizar los tramites ante las autoridades competentes, para obtener la autorización de recibir donativos deducibles en el impuesto sobre la renta para sus donantes;
 
 VIII. Aplicar los donativos que se obtengan, para los fines inherentes a la prestación de sus servicios;
 
@@ -637,7 +651,7 @@ XI. Las demás que les confieran otros ordenamientos jurídicos aplicables.
 
 ###### Artículo 45.
 
-Los establecimientos a que se refiere este ordenamiento, sean de competencia estatal o municipal, tienen la obligación de contar permanentemente con un programa específico de Protección Civil, Plan de Contingencias, el cual deberá estar autorizado y supervisado por la Dirección de Protección Civil o la unidad municipal según corresponda.
+Los establecimientos a que se refiere este ordenamiento, sean de competencia estatal o municipal, tienen la obligación de contar permanentemente con un programa especifico de Protección Civil, Plan de Contingencias, el cual deberá estar autorizado y supervisado por la Dirección de Protección Civil o la unidad municipal según corresponda.
 
 ###### Artículo 46.
 
@@ -667,13 +681,13 @@ Cuando debido a la magnitud de los altos riesgos, emergencias o desastres, sea n
 
 ###### Artículo 51.
 
-El Programa Estatal de Protección Civil es el instrumento de ejecución de los planes de protección en la Entidad; en el se precisan las acciones a realizar, se determinarán los responsables y se establecerán los plazos para su cumplimiento, de conformidad con los recursos y medios disponibles.
+El Programa Estatal de Protección Civil es el instrumento de ejecución de los planes de protección en la Entidad; en el se precisan las acciones a realizar, se determinaran los responsables y se establecerán los plazos para su cumplimiento, de conformidad con los recursos y medios disponibles.
 
 Este programa deberá, en su caso, ajustarse a los procedimientos de programación, presupuestación y control correspondientes y a las bases establecidas en la materia, en convenios de coordinación.
 
 ###### Artículo 52.
 
-El Programa Estatal de Protección Civil, así como los subprogramas, programas institucionales, específicos y operativos anuales que se deriven de los mismos, se expedirán, ejecutarán y revisarán conforme las normas generales vigentes en materia de planeación y las disposiciones específicas de esta Ley, así como a los lineamientos del Programa Nacional de Protección Civil.
+El Programa Estatal de Protección Civil, así como los subprogramas, programas institucionales, específicos y operativos anuales que se deriven de los mismos, se expedirán, ejecutarán y revisarán conforme las normas generales vigentes en materia de planeación y las disposiciones especificas de esta Ley, así como a los lineamientos del Programa Nacional de Protección Civil.
 
 ###### Artículo 53.
 
@@ -759,7 +773,7 @@ En lo conducente, cada uno de los Municipios del Estado, deberá elaborar y publ
 
 ###### Artículo 63.
 
-El Gobernador del Estado en su carácter de Presidente del Consejo de Protección Civil del Estado de Nuevo León, en los casos de alto riesgo, emergencia o desastre, podrá emitir una declaratoria de emergencia, la que comunicará de inmediato al Consejo de Protección Civil del Estado, mandando se publique en el Periódico Oficial del Estado, y se difundirá a través de los medios de comunicación masiva.
+El Gobernador del Estado en su carácter de Presidente del Consejo de Protección Civil del Estado de Nuevo León, en los casos de alto riesgo, emergencia o desastre, podrá emitir una declaratoria de emergencia, la que comunicara de inmediato al Consejo de Protección Civil del Estado, mandando se publique en el Periódico Oficial del Estado, y se difundirá a través de los medios de comunicación masiva.
 
 En ausencia del Presidente del Consejo, el Secretario Ejecutivo podrá realizar la declaratoria a que se refiere el Artículo anterior.
 
@@ -773,7 +787,7 @@ II. Infraestructura, bienes y sistemas afectables;
 
 III. Determinación de las acciones de prevención y auxilio;
 
-IV. Suspención (sic) de actividades públicas que así lo ameriten; e
+IV. Suspención (sic) de actividades publicas que así lo ameriten; e
 
 V. Instrucciones dirigidas a la población de acuerdo al Programa Estatal.
 
@@ -789,7 +803,7 @@ En lo conducente se aplicarán a nivel municipal las disposiciones de este CAPÍ
 
 ###### Artículo 67.
 
-Se considerará zona de desastre de aplicación de recursos del Estado, aquella en la que para hacer frente a las consecuencias de un agente o fenómeno perturbador, sean insuficientes los recursos del o los municipios afectados, requiriéndose en consecuencia la ayuda del Gobierno Estatal. En estos casos el Gobernador del Estado emitirá la declaratoria de zona de desastre, y pondrá en marcha las acciones necesarias por conducto de la Secretaría General de Gobierno.
+Se considerará zona de desastre de aplicación de recursos del Estado, aquella en la que para hacer frente a las consecuencias de un agente o fenómeno perturbador, sean insuficientes los recursos del o los municipios afectados, requiriéndose en consecuencia la ayuda del Gobierno Estatal. En estos casos el Gobernador del Estado emitirá la declaratoria de zona de desastre, y pondrá en marcha las acciones necesarias por conducto de la Secretaria General de Gobierno.
 
 ###### Artículo 68.
 
@@ -801,7 +815,7 @@ Para que el Gobernador del Estado formule la declaratoria a que se refiere el Ar
 
 I. Que sea solicitada por el o los Presidentes Municipales de los municipios afectados;
 
-II. Que las dependencias del Poder Ejecutivo Estatal encabezadas por la Secretaría General de Gobierno, realicen una evaluación de los daños causados; y
+II. Que las dependencias del Poder Ejecutivo Estatal encabezadas por la Secretaria General de Gobierno, realicen una evaluación de los daños causados; y
 
 III. Que de la evaluación, resulte necesaria la ayuda del Gobierno Estatal a que se refiere el Artículo anterior.
 
@@ -809,7 +823,7 @@ III. Que de la evaluación, resulte necesaria la ayuda del Gobierno Estatal a qu
 
 Las medidas que el Gobierno del Estado podrá adoptar, cuando se haya declarado formalmente zona de desastre de aplicación de recursos estatales son las siguientes:
 
-I. Atención médica inmediata y gratuita;
+I. Atención medica inmediata y gratuita;
 
 II. Alojamiento, alimentación y recreación;
 
@@ -849,7 +863,7 @@ Recibida la denuncia, la autoridad ante quien se formuló, la turnará de inmedi
 
 ###### Artículo 77.
 
-Las Autoridades del Estado y las Municipales en los términos de esta Ley, atenderán de manera permanente al público en general, en el ejercicio de la denuncia popular. Para ello, difundirán ampliamente domicilios y números telefónicos destinados a recibir las denuncias.
+Las Autoridades del Estado y las Municipales en los términos de esta Ley, atenderán de manera permanente al publico en general, en el ejercicio de la denuncia popular. Para ello, difundirán ampliamente domicilios y números telefónicos destinados a recibir las denuncias.
 
 ### CAPÍTULO XIV. DE LAS NOTIFICACIONES Y RECURSOS
 
@@ -881,7 +895,7 @@ II. En el acta que se levante con motivo de la inspección, se harán constar la
 
 ###### Artículo 83.
 
-Se considerarán medidas de seguridad las disposiciones de inmediata ejecución que dicte la autoridad competente, de conformidad con esta Ley y demás ordenamientos aplicables, para proteger el interés público, o evitar los riesgos, altos riesgos, emergencias o desastres, que puedan ocurrir en los establecimientos a que se refiere esta Ley. Las medidas de seguridad si no se trata de un caso de alto riesgo, emergencia o desastre, se notificarán antes de su aplicación al interesado sin perjuicio de las sanciones que en su caso correspondieran.
+Se considerarán medidas de seguridad las disposiciones de inmediata ejecución que dicte la autoridad competente, de conformidad con esta Ley y demás ordenamientos aplicables, para proteger el interés publico, o evitar los riesgos, altos riesgos, emergencias o desastres, que puedan ocurrir en los establecimientos a que se refiere esta Ley. Las medidas de seguridad si no se trata de un caso de alto riesgo, emergencia o desastre, se notificarán antes de su aplicación al interesado sin perjuicio de las sanciones que en su caso correspondieran.
 
 ###### Artículo 84.
 
@@ -899,7 +913,7 @@ V. La clausura temporal o definitiva, total o parcial de establecimientos, const
 
 VI. La realización de actos, en rebeldía de los que están obligados a ejecutarlos;
 
-VII. El auxilio de la fuerza pública; y
+VII. El auxilio de la fuerza publica; y
 
 VIII. La emisión de mensajes de alerta.
 
@@ -947,7 +961,7 @@ La imposición de sanciones se hará sin perjuicio de la responsabilidad que con
 
 ###### Artículo 89.
 
-Al imponerse una sanción se tomará en cuenta:
+Al imponerse una sanción se tomara en cuenta:
 
 I. El daño o peligro que se ocasione o pueda ocasionarse a la salud o a la seguridad de la población o a su entorno;
 
@@ -985,7 +999,7 @@ Cuando en los establecimientos se presenten emergencias o desastres, inherentes 
 
 ###### Artículo 94.
 
-Las obras que se ordenen por parte de las Autoridades de Protección Civil, para evitar, extinguir, disminuir o prevenir riesgos, altos riesgos, emergencias o desastres, así como las que se realicen para superarlos, serán a cargo del propietario, responsable, encargado u ocupante del establecimiento, sin perjuicio de que sea la propia Autoridad quien las realice en rebeldía del obligado. En este último caso, además del cobro de las cantidades correspondientes, se aplicarán económicas que correspondan.
+Las obras que se ordenen por parte de las Autoridades de Protección Civil, para evitar, extinguir, disminuir o prevenir riesgos, altos riesgos, emergencias o desastres, así como las que se realicen para superarlos, serán a cargo del propietario, responsable, encargado u ocupante del establecimiento, sin perjuicio de que sea la propia Autoridad quien las realice en rebeldía del obligado. En este ultimo caso, además del cobro de las cantidades correspondientes, se aplicaran económicas que correspondan.
 
 Tanto las sanciones económicas, como en su caso, las cantidades por concepto de cobros por obras realizadas en rebeldía de los obligados, se consideran a créditos fiscales, y serán cobrados mediante el procedimiento económico-coactivo de ejecución, por la autoridad fiscal competente.
 
@@ -1023,15 +1037,15 @@ Si el escrito por el cual se interpone el recurso fuere obscuro o irregular, la 
 
 ###### Artículo 103.
 
-En la substanciación del recurso se admitirán toda clase de pruebas con excepción de la confesional, así como aquellas que tengan el carácter de supervinientes; en su desahogo y valoración, se aplicará supletoriamente el Código de Procedimientos Civiles vigentes en el Estado.
+En la substanciación del recurso se admitirán toda clase de pruebas con excepción de la confesional, así como aquellas que tengan el carácter de supervinientes; en su desahogo y valoración, se aplicara supletoriamente el Código de Procedimientos Civiles vigentes en el Estado.
 
 ###### Artículo 104.
 
-La autoridad que tramite el recurso, con base en la documentación, pruebas y demás elementos existentes dictará la resolución en un término de treinta días hábiles, contados a partir de la fecha en que fue interpuesto.
+La autoridad que tramite el recurso, con base en la documentación, pruebas y demás elementos existentes dictara la resolución en un termino de treinta días hábiles, contados a partir de la fecha en que fue interpuesto.
 
 T R A N S I T O R I O S
 
-PRIMERO.- La presente Ley entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+PRIMERO.- La presente Ley entrara en vigor el día de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se abroga la Ley Sobre Protecciones a la Seguridad y Tranquilidad de la Sociedad, Publicada en el Periódico Oficial del Estado de fecha 6 de mayo de 1939.
 
@@ -1039,13 +1053,13 @@ TERCERO.- Se abroga el Decreto que creo el Comité Estatal de Prevención de Seg
 
 CUARTO.- Se derogan todas las disposiciones legales que se opongan a la presente Ley.
 
-QUINTO.- En un plazo máximo de treinta días hábiles a partir de la vigencia de esta Ley, deberá integrarse el Consejo Estatal de Protección Civil, efectuando la sesión de instalación correspondiente debiendo expedir el Reglamento Interior en un término de sesenta días hábiles después de su instalación.
+QUINTO.- En un plazo máximo de treinta días hábiles a partir de la vigencia de esta Ley, deberá integrarse el Consejo Estatal de Protección Civil, efectuando la sesión de instalación correspondiente debiendo expedir el Reglamento Interior en un termino de sesenta días hábiles después de su instalación.
 
 Por lo tanto envíese al Ejecutivo para su promulgación y publicación en el Periódico Oficial del Estado.
 
 Dado en el Salón de Sesiones del H. Congreso del Estado Libre y Soberano de Nuevo León, en Monterrey, su Capital, a los ocho días del mes de Enero de mil novecientos noventa y siete.- PRESIDENTE DIP.: ARMANDO LEAL RIOS.- DIP. SECRETARIO: JUAN DE DIOS ESPARZA MARTINEZ.- DIP. SECRETARIO: HERIBERTO CANO QUINTANILLA.- Rúbricas.
 
-Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento. Dado en el Despacho del Poder Ejecutivo del Estado de Nuevo León, en Monterrey, su Capital, a los catorce días del mes de Enero de mil novecientos noventa y siete.
+Por tanto mando se imprima, publique, circule y se le de el debido cumplimiento. Dado en el Despacho del Poder Ejecutivo del Estado de Nuevo León, en Monterrey, su Capital, a los catorce días del mes de Enero de mil novecientos noventa y siete.
 
 EL C. GOBERNADOR SUBSTITUTO DEL ESTADO
 
@@ -1054,3 +1068,11 @@ BENJAMIN CLARIOND REYES-RETANA
 EL C. SECRETARIO GENERAL DE GOBIERNO
 
 JUAN FRANCISCO RIVERA BEDOYA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 19 DE ENERO DE 2011.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+Segundo.- Las disposiciones contenidas en el Artículo Segundo del presente Decreto se aplicarán a partir de los sesenta días siguientes a la fecha en que se publique Atlas de Riesgo respectivo en el Periódico Oficial del Estado de Nuevo León.
