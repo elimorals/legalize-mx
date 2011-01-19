@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-interior-de-la-secretaria-de-gobierno-del-estado-744
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-03-30"
-last_updated: "2010-03-30"
+last_updated: "2011-01-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74416&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE GOBIERNO DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE ENERO DE 2011.
 
 Reglamento publicado en el Periódico Oficial del Estado de Quintana Roo, el martes 30 de marzo de 2010.
 
@@ -123,6 +123,10 @@ X. DIRECCIÓN DE ADMINISTRACIÓN
 
 XI. DIRECCIÓN GENERAL DE GOBERNACIÓN
 
+> <small>(ADICIONADA, P.O. 19 DE ENERO DE 2011)</small>
+
+XII. Centro Estatal de Evaluación y Control de Confianza.
+
 La Secretaría de Gobierno contará con un Órgano de Control y Evaluación Interna, que dependerá jerárquicamente y funcionalmente de la Secretaria de la Contraloría y sus facultades están expresamente establecidas en el Reglamento Interior de la Secretaría de la Contraloría.
 
 ###### Artículo 5.
@@ -219,7 +223,13 @@ XXXVII. Supervisar la tramitación de los juicios de amparo que se promuevan en 
 
 XXXVIII. Intervenir junto con las autoridades federales, estatales y municipales competentes, en el proceso de certificación de derechos ejidales y en la coordinación política de asuntos agrarios e indígenas, y
 
-XXXIX. Las demás que le señale la Constitución Política, la Ley Orgánica de la Administración Pública, ambas del Estado de Quintana Roo, así como las que le confieran otras disposiciones legales aplicables o el Gobernador del Estado.
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2011)</small>
+
+XXXIX. Promover el correcto funcionamiento del Sistema Estatal de Seguridad Pública, supervisando los procesos de certificación y control de confianza a los elementos de las Instituciones de Seguridad Pública, y
+
+> <small>(ADICIONADA, P.O. 19 DE ENERO DE 2011)</small>
+
+XL. Las demás que le señale la Constitución Política, la Ley Orgánica de la Administración Pública, ambas del Estado de Quintana Roo, así como las que le confieran otras disposiciones legales aplicables o el Gobernador del Estado.
 
 Son facultades indelegables del Secretario, las señaladas en las fracciones I, III, IV, VI, VII, VIII, XII, XVII, XVIII, XXII, XXIV de este artículo, así como las demás que le señale el presente Reglamento y otras disposiciones legales aplicables y las cuales no hayan sido encomendadas dentro de este ordenamiento a ningún servidor público adscrito a la Secretaría.
 
@@ -981,6 +991,28 @@ V. Informar al Secretario sobre aquellos casos donde se haga uso indebido de los
 
 VI. Las demás que le confiera el Secretario y otras disposiciones legales aplicables.
 
+> <small>(ADICIONADO, P.O. 19 DE ENERO DE 2011)</small>
+
+Artículo 36 BIS. El Centro Estatal de Evaluación y Control de Confianza, contará con un Director General que dependerá directamente del Secretario de Gobierno a quien le corresponderá el ejercicio de las siguientes facultades:
+
+I. Aplicar los exámenes en las etapas de selección, ingreso, evaluación, promoción y certificación de los elementos de la seguridad pública Estatales y Municipales, así como a los integrantes de las Empresas de Seguridad Privada.
+
+II. Coordinar y supervisar los procesos de evaluación y control de confianza en los distintos ámbitos de la seguridad pública y privada, de acuerdo a los lineamientos del Centro Nacional de Certificación y Acreditación.
+
+III. Establecer los planes, políticas, y líneas de evaluación y control de confianza conforme a las disposiciones normativas aplicables.
+
+IV. Remitir a las instancias que correspondan, y previa autorización de la Secretaría de Gobierno, el resultado de los exámenes y evaluaciones practicadas.
+
+V. Proponer al Subsecretario de Asuntos Jurídicos, la suscripción de acuerdos y convenios con las autoridades federales, estatales y municipales, con el fin de perfeccionar los procesos de control de confianza y certificación.
+
+VI. Establecer una base de datos, respecto a los elementos de las Instituciones Policiales y de las Empresas de Seguridad Privada, que se hayan sometido a los procesos de certificación y control de confianza.
+
+VII. Supervisar la aplicación de los procesos de certificación y control de confianza a personal diverso de las Instituciones Policiales, previa autorización del Secretario de Gobierno, y
+
+VIII. Las demás que otras disposiciones jurídicas dispongan, así como el Gobernador del Estado o Secretario de Gobierno.
+
+El Director General del Centro Estatal de Evaluación y Control de Confianza, tendrá el ejercicio de las facultades genéricas previstas en el artículo 23 del presente Reglamento Interior de la Secretaría de Gobierno.
+
 ## TÍTULO V (SIC). DE LA DESCONCENTRACIÓN ADMINISTRATIVA
 
 ###### Artículo 37.
@@ -1030,3 +1062,11 @@ EL SECRETARIO DE GOBIERNO
 LIC. EDUARDO OVANDO MARTÍNEZ
 
 La presente hoja forma parte integral del Reglamento Interior de la Secretaría de Gobierno del Estado de Quintana Roo, expedido el ocho de marzo de año dos mil diez.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 19 DE ENERO DE 2011.
+
+PRIMERO. Publíquese la presente reforma al Reglamento Interior de la Secretaría de Gobierno, en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. La presente reforma al Reglamento Interior de la Secretaría de Gobierno, comenzará su vigencia, al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
