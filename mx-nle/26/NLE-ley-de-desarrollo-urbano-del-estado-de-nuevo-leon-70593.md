@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-desarrollo-urbano-del-estado-de-nuevo-leon-70593"
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-09"
-last_updated: "2010-12-03"
+last_updated: "2011-01-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70593&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE DESARROLLO URBANO DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE ENERO DE 2011.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Nuevo León, el miércoles 9 de septiembre de 2009.
 
@@ -1329,7 +1329,9 @@ V. La determinación de los equipamientos e infraestructura que tengan impacto e
 
 VI. En su caso la definición de las zonas de suelo estratégico;
 
-VII. La definición de la estructura vial y los sistemas para la movilidad siguiendo una estrategia general;
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2011)</small>
+
+VII. La definición de la estructura vial y los sistemas para la movilidad sustentable siguiendo una estrategia general;
 
 VIII. Las bases para la elaboración y ejecución de los programas parciales o sectoriales que se vayan a realizar en la zona conurbada;
 
@@ -2517,9 +2519,13 @@ El Estado y los municipios promoverán la constitución de grandes parques urban
 
 El otorgamiento de licencias de uso de suelo para las estaciones de servicio denominadas gasolineras, se sujetará a las siguientes condiciones:
 
-I. Solo podrán ubicarse en predios localizados sobre carreteras, autopistas, libramientos, vías primarias o principales, colectoras y subcolectores quedando estrictamente prohibido ubicarlas tanto en las vías locales como en las vías cerradas;
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2011)</small>
 
-II. Deberán ubicarse a una distancia mínima de resguardo de cincuenta metros a partir de los límites de propiedad del predio en cuestión de: viviendas unifamiliares y multifamiliares, hoteles, moteles, hospitales, escuelas, instalaciones de culto religioso, cines, teatros y cualquier otro en el que exista concentración de cien o más personas;
+I. Solo podrán ubicarse en predios localizados sobre carreteras, autopistas, libramientos, vías primarias o principales, colectoras y subcolectores, siempre que el uso de suelo sea compatible, conforme al programa de desarrollo urbano aplicable, quedando estrictamente prohibido ubicarlas tanto en las vías locales como en las vías cerradas;
+
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2011)</small>
+
+II. Deberán ubicarse a una distancia mínima de resguardo de cincuenta metros a partir de los límites de propiedad del predio en cuestión de: viviendas unifamiliares y multifamiliares, hoteles, moteles, hospitales, escuelas, instalaciones de culto religioso, cines, teatros, mercados y cualquier otro en el que exista concentración de cien o más personas;
 
 III. Que se ubiquen a una distancia de resguardo de cien metros lineales a partir de los límites de propiedad del predio en cuestión de la primera línea de transmisión de energía eléctrica de alta tensión, tomando como referencia la base de la misma; del eje de vías férreas; del eje de gasoductos y poliductos para productos derivados del petróleo;
 
@@ -2971,7 +2977,9 @@ El decreto a que se refiere el párrafo anterior deberá contener las determinac
 
 La fundación de un centro de población deberá realizarse en tierras susceptibles para el aprovechamiento urbano, evaluando su impacto ambiental y respetando primordialmente las áreas naturales protegidas, así como el patrón de asentamiento humano rural.
 
-La fundación de un centro de población deberá contemplar tanto en el Decreto que le de origen, como en el Plan o Programa de Desarrollo Urbano que al efecto se formule, todos los elementos urbanos, de infraestructura, servicios urbanos, vinculación con los asentamientos humanos existentes en la región de que se trate, así como las áreas urbanas, las de reserva, para el crecimiento urbano y lo (sic) no urbanizables por causas de preservación ecológica, y de prevención de riesgos.
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2011)</small>
+
+La fundación de un centro de población deberá contemplar tanto en el Decreto que le de origen, como en el Plan o Programa de Desarrollo Urbano que al efecto se formule, todos los elementos urbanos, de infraestructura urbana, de infraestructura para la movilidad, servicios urbanos, vinculación con los asentamientos humanos existentes en la región de que se trate, así como las áreas urbanas, las de reserva para el crecimiento urbano y lo (sic) no urbanizables por causas de preservación ecológica, y de prevención de riesgos.
 
 ###### ARTÍCULO 190.
 
@@ -4657,7 +4665,9 @@ I. La delimitación de los predios y zonas que incluya;
 
 II. Una memoria descriptiva del proyecto, obra o acción que se pretenda llevar a cabo;
 
-III. La información y estudios técnicos y dictámenes que contemplen la factibilidad de la acción o proyecto de que se trate, incluyendo el (sic) los estudios de impacto vial y ambiental cuando así lo establezcan los ordenamientos aplicables;
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2011)</small>
+
+III. La información y estudios técnicos y dictámenes que contemplen la factibilidad de la acción o proyecto de que se trate, incluyendo el diagnóstico y pronóstico de la infraestructura para la movilidad;
 
 IV. Las personas físicas y morales, públicas o privadas, que intervendrán en su ejecución, precisando los derechos y obligaciones que a cada una de ellas correspondan;
 
@@ -5638,5 +5648,19 @@ DECRETO NUMERO 129, POR EL QUE SE REFORMAN LAS FRACCIONES IX A LA XIV DEL ARTÍC
 P.O. 3 DE DICIEMBRE DE 2010.
 
 DECRETO NUMERO 130, POR EL QUE SE REFORMAN LA FRACCION LXVIII DEL ARTICULO 5 DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE NUEVO LEON.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 19 DE ENERO DE 2011.
+
+DECRETO NUMERO 160 POR EL QUE SE REFORMAN LAS FRACCIONES I Y II DEL ARTICULO 150 DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE NUEVO LEON.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+Segundo.- Las disposiciones contenidas en el Artículo Segundo del presente Decreto se aplicarán a partir de los sesenta días siguientes a la fecha en que se publique el Atlas de Riesgo respectivo en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 19 DE ENERO DE 2011.
+
+DECRETO NUMERO 161 POR EL QUE SE REFORMAN LA FRACCION VII DEL ARTICULO 66, EL ULTIMO PARRAFO DEL ARTICULO 189, Y LA FRACCION III DEL ARTICULO 305, DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE NUEVO LEON.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
