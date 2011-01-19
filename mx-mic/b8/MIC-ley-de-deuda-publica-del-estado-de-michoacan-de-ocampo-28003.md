@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-deuda-publica-del-estado-de-michoacan-de-ocampo-28003"
 country: "mx"
 rank: "ley"
 publication_date: "2003-01-17"
-last_updated: "2009-05-29"
+last_updated: "2011-01-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28003&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE DEUDA PUBLICA DEL ESTADO DE MICHOACAN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE MAYO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE ENERO DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán, el viernes 17 de enero del 2003.
 
@@ -63,17 +63,23 @@ El Congreso, podrá autorizar el ejercicio de montos y conceptos de endeudamient
 
 La contratación de deuda pública por parte de las entidades se sujetará a los montos de endeudamiento neto aprobados por el Congreso y a lo establecido en la presente Ley.
 
-No obstante lo anterior, las entidades podrán contratar deuda directa de corto plazo sin la previa autorización del Congreso, en adición a los montos de endeudamiento neto aprobados en las leyes de Ingresos correspondientes, siempre y cuando se cumplan los siguientes requisitos:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE ENERO DE 2011)</small>
 
-I. Que el plazo de pago del monto principal de la deuda no exceda de ciento ochenta días naturales, ni el periodo constitucional de la administración que contrató dicha deuda;
+No obstante lo anterior, las entidades podrán contratar deuda directa de corto plazo sin la previa autorización del Congreso, en adición a los montos de endeudamiento neto aprobados en las leyes de ingresos correspondientes, excepto los 6 meses anteriores al día en que concluya el período constitucional de las entidades públicas, siempre y cuando se cumplan los siguientes requisitos:
 
-II. Que en todo momento, el saldo insoluto total del monto principal de dicha deuda no exceda del 5% de los ingresos ordinarios de la Entidad de que se trate durante el ejercicio fiscal correspondiente. Para efectos de lo anterior, se entenderá por ingresos ordinarios, los ingresos que perciban cada una de las entidades por concepto de ingresos propios, participaciones en ingresos federales y aportaciones federales y otros que sustituyan a los mencionados anteriormente o que recurrentemente perciba la Entidad que corresponda, sin considerar los recursos derivados de financiamiento; y,
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2011)</small>
+
+I. Que su vencimiento y liquidación se realicen dentro del ejercicio fiscal para el que se contrató, o que los mismos no excedan el periodo constitucional de la administración que contrató dicha deuda.
+
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2011)</small>
+
+II. Que en todo momento, el saldo insoluto total del monto principal de la deuda, contratada durante el Ejercicio Fiscal no exceda del 5% de los ingresos ordinarios de la entidad de que se trate. Para efectos de lo anterior, se entenderá por ingresos ordinarios, los ingresos que perciban cada una de las entidades por concepto de ingresos propios, participaciones en ingresos federales, aportaciones federales y otros que sustituyan a los mencionados anteriormente o que recurrentemente perciba la Entidad que corresponda, sin considerar los recursos derivados de financiamiento; y,
 
 III. Que no se afecten en garantía o en pago el derecho a recibir participaciones o aportaciones derivadas de la coordinación fiscal o cualquier otro ingreso o derecho.
 
 La deuda contratada conforme al párrafo anterior, quedará sujeta a los requisitos de información y registro previstos en esta Ley.
 
-La deuda a que se refiere el párrafo sexto de este artículo no podrá ser refinanciada o reestructurada.
+La deuda a que se refiere el párrafo quinto de este artículo no podrá ser refinanciada o reestructurada, salvo previa autorización del Congreso.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
 
@@ -175,7 +181,9 @@ I. Efectuar oportunamente, ya sea en forma directa o mediante los mecanismos que
 
 II. Negociar, aprobar, celebrar y suscribir los contratos y documentos para la contratación de deuda a cargo del Estado, suscribiendo los títulos de crédito y demás instrumentos legales requeridos para tales efectos, siempre y cuando dicha deuda esté comprendida en el endeudamiento neto aprobado por el Congreso;
 
-III. Reestructurar o refinanciar la deuda contraída ya sea como deudor, garante o avalista, o cualquier obligación contingente, en el entendido que, en caso de que dicha reestructura tenga como objeto mejorar las condiciones originales de la deuda mediante la disminución de la tasa de interés o la modificación de las garantías, no se requerirá la autorización del Congreso;
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2011)</small>
+
+III. Reestructurar o refinanciar la deuda contraída ya sea como deudor, garante o avalista, o cualquier obligación contingente, en el entendido que, en caso de que dicha reestructura tenga como objeto mejorar las condiciones originales de la deuda mediante la disminución de la tasa de interés o la modificación favorable de las garantías o en su defecto el plazo, no se requerirá la autorización del Congreso;
 
 IV. Constituir al Estado en garante, avalista o deudor solidario de la deuda contraída por cualquiera de las demás entidades señaladas en el artículo 3 de esta Ley, previa autorización del Congreso y sujeto a lo establecido en esta Ley;
 
@@ -227,11 +235,11 @@ XII. Autorizar a las entidades paramunicipales para gestionar y contratar deuda,
 
 XIII. Inscribir en el Registro la deuda contraída por los municipios y las entidades paramunicipales.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE ENERO DE 2011)</small>
 
 ###### Artículo 7°.
 
-Las entidades a que se refiere el artículo 3° de este ordenamiento, podrán contratar deuda pública en los términos de esta Ley, previa autorización del Congreso, con excepción de las operaciones previstas en el sexto párrafo del artículo 2° de esta propia Ley.
+Las entidades a que se refiere el artículo 3° de este ordenamiento, podrán contratar deuda pública en los términos de esta Ley, previa autorización del Congreso, con excepción de las operaciones previstas en el quinto párrafo del artículo 2° de esta propia Ley.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE MAYO DE 2009)</small>
 
@@ -369,7 +377,7 @@ En el acuerdo a que se refiere el párrafo anterior, podrá quedar comprendida l
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 2009)</small>
 
-El Comité de Deuda Pública estará integrado por los titulares de la Secretaria de Finanzas y Administración, de la Coordinación de Planeación para el Desarrollo, de la Coordinación de Contraloría, de la Secretaría de Desarrollo Económico y de la Secretaría de Comunicaciones y Obras Públicas.
+El Comité de Deuda Pública estará integrado por los titulares de la Secretaría de Finanzas y Administración, de la Coordinación de Planeación para el Desarrollo, de la Coordinación de Contraloría, de la Secretaría de Desarrollo Económico y de la Secretaría de Comunicaciones y Obras Públicas.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 2009)</small>
 
@@ -544,3 +552,17 @@ Artículo Primero. El presente Decreto entrará en vigor el día siguiente al de
 Artículo Segundo. Se derogan las disposiciones que se opongan a las disposiciones del presente Decreto.
 
 Artículo Tercero. Dese cuenta del presente Decreto al Titular del Poder Ejecutivo del Estado, al Titular de la Secretaria de Finanzas y Administración, para los efectos correspondientes.
+
+P.O. 19 DE ENERO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Dése cuenta del presente Decreto, al Titular del Poder Ejecutivo del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas aquellas disposiciones legales y administrativas en lo que se opongan al presente Decreto.
