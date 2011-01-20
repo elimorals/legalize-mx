@@ -4,7 +4,7 @@ identifier: "CMX-codigo-penal-para-el-distrito-federal-antes-nuevo-codigo-25361"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-07-16"
-last_updated: "2010-07-22"
+last_updated: "2011-01-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25361&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-07-11"
 
 CODIGO PENAL PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 22 DE JULIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 20 DE ENERO DE 2011.
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el martes 16 de julio de 2002.
 
@@ -1540,11 +1540,11 @@ Si se ejerciera violencia física o moral, la pena prevista se aumentará en una
 
 ### CAPÍTULO IV. TRATA DE PERSONAS
 
-> <small>(REFORMADO Y REUBICADO, G.O. 16 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO, G.O. 20 DE ENERO DE 2011)</small>
 
-ARTÍCULO 188 BIS. Al que promueva, facilite, consiga, traslade, entregue o reciba para sí o para un tercero, a una persona para someterla a cualquier forma de explotación sexual, trabajos o servicios impuestos de manera coercitiva, o para que le sea extirpado cualquiera de sus órganos, tejidos o sus componentes, dentro del territorio del Distrito Federal, se le impondrá prisión de diez a quince años y de diez mil a quince mil días de multa.
+ARTÍCULO 188 BIS. Al que promueva, facilite, solicite, ofrezca, consiga, traslade, entrega o reciba para sí o para un tercero a una persona para someterla a explotación sexual, a la esclavitud o prácticas análogas, trabajos o servicios impuestos de manera coercitiva o para que le sea extirpado cualquiera de sus órganos, tejidos o sus componentes, dentro del territorio del Distrito Federal, se le impondrá prisión de 10 a 15 años y de 10 mil a 15 mil días multa.
 
-Cuando la víctima del delito sea persona menor de dieciocho años de edad o persona que no tenga la capacidad de comprender el significado del hecho o de persona que no tiene capacidad de resistir la conducta, se aumentarán las penas hasta en una mitad.
+Cuando la víctima del delito sea persona menor de 18 años de edad o persona que no tenga la capacidad de comprender el significado del hecho o persona que no tiene capacidad de resistir la conducta, se aumentarán las penas hasta en una mitad.
 
 (REUBICADO [N. DE E. ANTES CAPITULO III], G.O. 16 DE AGOSTO DE 2007)
 
@@ -4263,3 +4263,9 @@ G.O. 22 DE JULIO DE 2010.
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 Segundo.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+G.O. 20 DE ENERO DE 2011.
+
+Primero.- El presente decreto entrará en vigor al día siguiente a su publicación en la Gaceta Oficial del Distrito Federal.
+
+Segundo.- Publíquese en la Gaceta Oficial del Gobierno del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
