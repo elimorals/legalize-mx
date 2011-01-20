@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-establecimientos-mercantiles-del-distrito-federal-65524"
 country: "mx"
 rank: "ley"
 publication_date: "2009-01-26"
-last_updated: "2009-01-26"
+last_updated: "2011-01-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65524&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,9 @@ issue_date: "2009-01-22"
 
 LEY DE ESTABLECIMIENTOS MERCANTILES DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO CUARTO DE LA LEY DE ESTABLECIMIENTOS MERCANTILES DEL DISTRITO FEDERAL, PUBLICADA EN LA G.O. DE 20 DE ENERO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 20 DE ENERO DE 2011.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 26 de enero de 2009.
 
@@ -1469,3 +1471,33 @@ NOVENO. Los establecimientos mercantiles que actualmente para su funcionamiento 
 Recinto de la Asamblea Legislativa del Distrito Federal, a los cuatro días del mes de diciembre del año dos mil ocho.- POR LA MESA DIRECTIVA.- DIP. HUMBERTO MORGAN COLÓN, PRESIDENTE.- FIRMA DIP. DANIEL ORDÓÑEZ HERNÁNDEZ.- SECRETARIO.- DIP. CARLA ALEJANDRA SÁNCHEZARMAS GARCÍA.- SECRETARIA.- FIRMA.
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, para su debida aplicación y observancia, expido el presente decreto promulgatorio en la residencia oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los veintidós días del mes de enero del año dos mil nueve.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MARCELO LUIS EBRARD CASAUBON.- FIRMA.- EL SECRETARIO DE GOBIERNO, JOSÉ ÁNGEL ÁVILA PÉREZ.- FIRMA.- EL SECRETARIO DE DESARROLLO URBANO Y VIVIENDA, JESÚS ARTURO AISPURO CORONEL.- FIRMA.- LA SECRETARIA DE DESARROLLO ECONÓMICO, LAURA VELÁZQUEZ ALZÚA.- FIRMA.- LA SECRETARIA DEL MEDIO AMBIENTE, MARTHA DELGADO PERALTA.- FIRMA.- EL SECRETARIO DE SALUD, JOSE ARMANDO AHUED ORTEGA.- FIRMA.- EL SECRETARIO DE TRANSPORTES Y VIALIDAD, ARMANDO QUINTERO MARTÍNEZ.- FIRMA.- EL SECRETARIO DE SEGURIDAD PÚBLICA, MANUEL MONDRAGÓN Y KALB.- FIRMA.- EL SECRETARIO DE EDUCACIÓN, AXEL DIDRIKSSON TAKAYANAGUI.- FIRMA.- EL SECRETARIO DE PROTECCIÓN CIVIL, ELÍAS MIGUEL MORENO BRIZUELA.- FIRMA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 20 DE ENERO DE 2011.
+
+Primero.- Esta Ley entrará en vigor a los treinta días hábiles siguiente al de su publicación en la Gaceta Oficial del Distrito Federal, asimismo la Secretaría de Desarrollo Económico en coordinación con las Delegaciones Implementará una campaña de difusión masiva dirigida a todos los establecimientos mercantiles en donde se les haga conocimiento del contenido de la presente Ley.
+
+Segundo.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+Tercero.- La Secretaría de Desarrollo Económico implementará el Sistema dentro de los treinta días naturales siguientes a la publicación de esta Ley.
+
+Cuarto.- Se abroga la Ley de Establecimientos Mercantiles del Distrito Federal, publicada en la Gaceta Oficial del Distrito Federal con fecha 26 de enero de 2009.
+
+Quinto.- Los trámites y procedimientos vinculados con establecimientos mercantiles, que se hubieren iniciado bajo las disposiciones de la ley abrogada, se desahogarán hasta su resolución definitiva conforme a las normas de ese ordenamiento, salvo que los particulares se desistan expresamente de su continuación.
+
+Sexto.- La Secretaría de Desarrollo Urbano y Vivienda tendrá un plazo de tres años contados a partir de la entrada en vigor del presente decreto para implementar un sistema electrónico que permita constatar el uso de suelo permitido dentro de cada Delegación.
+
+Durante ese lapso, la Secretaría de Desarrollo Urbano y Vivienda resolverá sobre las solicitudes de expedición de los certificados correspondientes, en un plazo máximo de 10 días hábiles, cuando el solicitante exprese que los datos de los mismos se manifestarán en el Aviso para el funcionamiento de un establecimiento mercantil.
+
+Séptimo.- Los titulares de establecimientos mercantiles que a la fecha de entrada en vigor de esta Ley se encuentren funcionando con declaración de apertura o licencia de funcionamiento ordinaria o licencia de funcionamiento especial, tendrán la obligación de ingresar el Aviso o Solicitud de Permiso al Sistema, en un plazo de seis meses, el cual se contará a partir de que inicie la operación de dicho Sistema, en cuyo caso no se generará pago alguno de derechos.
+
+Asimismo, ingresarán al Sistema el Aviso o Solicitud de Permiso, según sea el caso, en la fecha en la que se actualice el vencimiento de la licencia que le fue otorgada originalmente. Es decir, el Aviso o Solicitud de Permiso que ingrese de conformidad con el párrafo anterior dejará de tener efectos en el momento en el que venza la licencia referida, momento en el cual deberán ingresar al Sistema el Aviso o Solicitud de Permiso de conformidad con lo previsto en la presente Ley.
+
+Octavo.- El Jefe de Gobierno contará con un plazo de 90 días naturales posteriores a la entrada en vigor de la presente Ley para poner en funcionamiento las medidas encaminadas a cumplir con las obligaciones establecidas en las fracciones VIII, IX, X y XI del artículo 4 de la presente Ley.
+
+Noveno.- La Secretaría de Transporte y Vialidad contará con un plazo de 30 días hábiles siguientes a la entrada en vigor de la presente Ley, para la expedición de las tarifas y las normas técnicas a que se refiere el artículo 50 de la presente Ley.
+
+Décimo.- El Jefe de Gobierno del Distrito Federal, contara con 120 días naturales, posteriores a la publicación del presente decreto para publicar en la Gaceta Oficial del Distrito Federal, el Reglamento correspondiente a esta Ley.
+
+Décimo Primero.- Los establecimientos mercantiles de impacto zonal tendrán un término no mayor de 365 días para el cumplimiento de lo señalado en la fracción IX primer párrafo del apartado B del artículo 10, de la Ley aprobada en el presente Decreto.
