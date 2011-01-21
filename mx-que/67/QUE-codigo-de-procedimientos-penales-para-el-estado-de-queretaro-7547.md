@@ -4,7 +4,7 @@ identifier: "QUE-codigo-de-procedimientos-penales-para-el-estado-de-queretaro-75
 country: "mx"
 rank: "codigo"
 publication_date: "1989-07-06"
-last_updated: "2010-12-24"
+last_updated: "2011-01-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7547&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "QUE"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE QUERETARO
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO DE LA LEY PUBLICADA EN EL P.O. DE 7 DE DICIEMBRE DE 2009, SE RESTABLECE LA VIGENCIA DEL PRESENTE ORDENAMIENTO.</small>
-
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE ENERO DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 6 de julio de 1989.
 
@@ -809,9 +807,9 @@ V.- El asalto en el supuesto señalado en el artículo 157;
 
 VI.- La violación en los supuestos de los artículos 160, 161, 162 y 163;
 
-> <small>(REFORMADA, P.O. 2 DE ABRIL DE 1999)</small>
+> <small>(REFORMADA, P.O. 21 DE ENERO DE 2011)</small>
 
-VII.- El robo previsto en la fracción III del artículo 182 en los supuestos establecidos en los artículos 183 y 183 bis Del Código Penal;
+VII.- El robo previsto en la fracción III del artículo 182 en los supuestos establecidos en los artículos 183, 183 BIS y 183 TER del Código Penal para el Estado de Querétaro;
 
 > <small>(REFORMADA, P.O. 20 DE JUNIO DE 2008)</small>
 
@@ -2614,6 +2612,12 @@ Artículo Tercero. Se derogan todas las disposiciones previstas en otros ordenam
 Artículo Cuarto. Todas las disposiciones previstas en otros ordenamientos que hicieren mención al Código que se deja sin efectos, se entenderán hechas al Código que recobra vigencia, tanto en contenido como en la numeración respectiva.
 
 P.O. 24 DE DICIEMBRE DE 2010.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 21 DE ENERO DE 2011.
 
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
 
