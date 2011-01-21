@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-de-la-secretaria-de-desarrollo-social-57223"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-09-21"
-last_updated: "2007-09-21"
+last_updated: "2011-01-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57223&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCN"
 
 REGLAMENTO INTERNO DE LA SECRETARIA DE DESARROLLO SOCIAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO SOCIAL, PUBLICADO EN EL P.O. DE 21 DE ENERO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 21 de septiembre de 2007.
 
@@ -972,3 +974,19 @@ Bernardo H. Martínez Aguirre.
 SECRETARIO DE DESARROLLO SOCIAL DEL ESTADO,
 
 Carlos Armando Reynoso Nuño.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 21 DE ENERO DE 2011.
+
+PRIMERO.- El presente Reglamento Interno entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga el Reglamento Interno de la Secretaría de Desarrollo Social, publicado en el Periódico Oficial del Estado, el 21 de septiembre de 2007.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente Reglamento Interno.
+
+CUARTO.- Los asuntos que hasta antes de la entrada en vigor del presente Reglamento Interno, se estuvieran substanciando en las unidades administrativas que en virtud de este ordenamiento se suprimen o modifican en la estructura de la SEDESOE, se turnan de inmediato a las unidades administrativas que por efecto del mismo resulten competentes para la continuación de su trámite.
+
+QUINTO.- Los recursos financieros y materiales que estuvieren asignados a las unidades administrativas que desaparecen o modifican su competencia en virtud de lo dispuesto en el presente ordenamiento, serán reasignados a las unidades que asumen las correspondientes funciones, con la intervención de la Secretaría de Planeación y Finanzas y Oficialía Mayor de Gobierno, conformidad (sic) con los lineamientos establecidos para tal fin.
+
+SEXTO.- En tanto no se expidan los manuales administrativos que este Reglamento Interno menciona, el titular de la SEDESOE, queda facultado para resolver los asuntos que conforme a dichos manuales se deben regular.
