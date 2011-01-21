@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-del-poder-legislativo-del-estado-de-guerrero-14456
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-06-11"
-last_updated: "2011-01-18"
+last_updated: "2011-01-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14456&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE GUERRERO NUMERO 286
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE ENERO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE ENERO DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 11 de junio de 1999.
 
@@ -773,17 +773,21 @@ IV. De Gestoría, Información y Quejas, y
 
 V. Del Instituto de Estudios Parlamentarios "Eduardo Neri".
 
-> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2009)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE ENERO DE 2011)</small>
 
 ###### Artículo 51.
 
-La Comisión de Gobierno estará integrada por los Coordinadores de las Fracciones Parlamentarias y los de las Representaciones del Partido, todo con derecho a voz y voto.
+La Comisión de Gobierno estará integrada por los Coordinadores de las Fracciones Parlamentarias y los de las Representaciones Parlamentarias, todos con derecho a voz y voto.
 
-El Coordinador de la Fracción Parlamentaria con mayor número de Diputados en la Legislatura, será el Presidente de la Comisión dé Gobierno. Los acuerdos que emita la comisión se tomarán por mayoría; el voto de los Coordinadores de las Fracciones Parlamentarias y de las Representaciones de Partido equivaldrá al número de Diputados con que cuenta cada una de ellas en la Legislatura.
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 2011)</small>
+
+El Coordinador de la Fracción Parlamentaria del Partido Político con mayor número de Diputados en la Legislatura, será el Presidente de la Comisión de Gobierno. Los acuerdos que emita la Comisión se tomarán por mayoría de votos; el voto de los Coordinadores de las Fracciones Parlamentarias y de las Representaciones Parlamentarias equivaldrá al número de Diputados con que cuente cada una de ellas en la Legislatura.
 
 > <small>(REFORMADO, P.O. 18 DE ENERO DE 2011)</small>
 
 En ningún caso el Presidente de la Comisión de Gobierno podrá ocupar el cargo de Presidente de la Mesa Directiva durante el mismo año de ejercicio constitucional.
+
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2009)</small>
 
 La Comisión fungirá como órgano a fin de optimizar el ejercicio de las funciones legislativas, políticas, administrativas y en general de todas aquéllas que se estimen necesarias para la buena marcha del Congreso del Estado y se reunirá cuantas veces se estime necesario, a convocatoria de su Presidente y tendrá las siguientes atribuciones:
 
@@ -1359,47 +1363,67 @@ Los dictámenes que emitan las Comisiones y Comités en los recesos serán lista
 
 Dentro de la última semana de cada receso, las Comisiones y Comités deberán presentar un informe de las actividades desarrolladas durante el receso y un listado de los asuntos dictaminados.
 
-### Capítulo IV. De las Fracciones Parlamentarias
+> <small>(REFORMADA SU DENOMINACION, P.O. 21 DE ENERO DE 2011)</small>
+
+### Capítulo IV. De las Fracciones Parlamentarias y Representaciones Parlamentarias
+
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 2011)</small>
 
 ###### Artículo 92.
 
-Las fracciones parlamentarias se constituyen con un mínimo de tres Diputados que manifiesten su voluntad de pertenecer a la fracción parlamentaria de un partido político, con el objeto de coadyuvar al buen desarrollo de los trabajos del Congreso.
+Las fracciones Parlamentarias o Representaciones Parlamentarias son las formas de organización que podrán adoptar los diputados para realizar funciones específicas en el Congreso del Estado, coadyuvar al mejor desarrollo del proceso legislativo, expresar las corrientes políticas y de opinión presentes en el Congreso del Estado y facilitar la participación de los diputados en las tareas y atribuciones legislativas.
 
-Cuando se trate de uno o dos Diputados que militen en un mismo partido político, se integrará una representación de partido.
+Las fracciones parlamentarias se constituyen con un mínimo de tres Diputados que manifiesten su voluntad de pertenecer a la fracción parlamentaria de un partido político.
 
-Las fracciones parlamentarias tendrán las mismas prerrogativas, las que se distribuirán en forma proporcional al número de Diputados con que cuente cada una de ellas en la Legislatura.
+Cuando se trate de uno o dos Diputados que militen en un mismo partido político, o en su caso, se declaren independientes, sin importar el número de Diputados se integrará una representación parlamentaria con el objeto de coadyuvar al buen desempeño de los trabajos del Congreso.
+
+Las fracciones parlamentarias y representaciones parlamentarias, tendrán las mismas prerrogativas, las que se distribuirán en forma proporcional al número de Diputados con que cuente cada una de ellas en la Legislatura.
+
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 2011)</small>
 
 ###### Artículo 93.
 
-La constitución de las fracciones parlamentarias y las representaciones de partido, se hará dentro de los cinco días siguientes a la apertura del primer período ordinario de sesiones del primer año de ejercicio constitucional de cada Legislatura, mediante escrito dirigido por los integrantes de cada grupo a la Mesa Directiva, en el que se señalarán los nombres de los Diputados integrantes y la designación del coordinador del grupo.
+La constitución de las fracciones parlamentarias y las representaciones parlamentarias, se hará dentro de los cinco días siguientes a la apertura del primer período ordinario de sesiones del primer año de ejercicio constitucional de cada Legislatura o cuando se integre una representación parlamentaria o se efectúen modificaciones a las ya constituidas, mediante escrito dirigido por los integrantes de cada grupo a la Mesa Directiva, en el que se señalarán los nombres de los Diputados integrantes y la designación del coordinador del grupo.
 
-La Mesa Directiva hará del conocimiento del Pleno el número de fracciones parlamentarias y de representaciones de partido constituidas, los nombres de los Diputados que las integren, así como el de sus respectivos coordinadores.
+Examinada la documentación referida por los integrantes de la Mesa Directiva, dará cuenta de ella al Pleno del H. Congreso y en recesos de este, a la Comisión Permanente y hará en su caso la declaratoria de reconocimiento del número de fracciones parlamentarias y de representaciones parlamentarias constituidas, los nombres de los Diputados que las integren, así como el de sus respectivos coordinadores y, desde ese momento, ejercerán las facultades, prerrogativas, atribuciones y obligaciones previstas en la presente ley.
+
+Entratándose de diputados independientes, las representaciones parlamentarias, se tendrán por constituidas cuando el Presidente de la Mesa Directiva dé a conocer al Pleno del H. Congreso del Estado y en los recesos de este, a la Comisión Permanente, la decisión de sus miembros de integrar una Representación Parlamentaria, con especificación del nombre de la representación y la lista de sus integrantes, firmas autógrafas de éstos, así como el nombre del diputado coordinador del grupo.
+
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 2011)</small>
 
 ###### Artículo 94.
 
-Los coordinadores de las fracciones parlamentarias y los de las representaciones de partido, para los efectos de lo dispuesto por el artículo 51 de esta Ley, se coordinarán con la Mesa Directiva, las Comisiones y los Comités y la Comisión Permanente del Congreso, en su caso.
+Los coordinadores de las fracciones parlamentarias y los de las representaciones parlamentarias, para los efectos de lo dispuesto por el artículo 51 de esta Ley, se coordinarán con la Mesa Directiva, las Comisiones y los Comités y la Comisión Permanente del Congreso, en su caso.
+
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 2011)</small>
 
 ###### Artículo 95.
 
-Cada fracción parlamentaria y representación de partido tendrá derecho a que sus miembros se ubiquen en el Salón de Sesiones en asientos contiguos. Dicha ubicación se determinará mediante acuerdo de la Comisión de Gobierno.
+Cada fracción parlamentaria y representación parlamentaria tendrá derecho a que sus miembros se ubiquen en el Salón de Sesiones en asientos contiguos. Dicha ubicación se determinará mediante acuerdo de la Comisión de Gobierno.
+
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 2011)</small>
 
 ###### Artículo 96.
 
-El Congreso, dentro de sus posibilidades presupuestarias, pondrá a disposición de cada fracción parlamentaria y representación de partido, las prerrogativas y los apoyos necesarios para su funcionamiento, atendiendo al número de Diputados que la integren. Dichos apoyos consistirán en instalaciones adecuadas para sus oficinas, así como, de los recursos humanos y materiales indispensables para el desempeño de sus funciones.
+Con independencia de los apoyos recibidos directamente por los diputados para el desempeño de sus funciones, el Congreso, dentro de sus posibilidades presupuestarias, pondrá a disposición de cada Fracción Parlamentaria o Representación Parlamentaria, las prerrogativas y los apoyos necesarios para su funcionamiento, atendiendo al número de diputados que las integren. Dichos apoyos consistirán en instalaciones adecuadas para sus oficinas, presupuesto para asesores y personal; así como, de los recursos humanos y materiales indispensables para el desempeño de sus funciones. Dichas prerrogativas y apoyos deberán contemplarse en el presupuesto de egresos del Congreso del Estado.
+
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 2011)</small>
 
 ###### Artículo 97.
 
-Los Diputados que dejen de pertenecer a una fracción parlamentaria o representación de partido, sin integrarse a otra existente, serán considerados como Diputados sin partido.
+Los Diputados que dejen de pertenecer a una Fracción Parlamentaria o Representación Parlamentaria, sin integrarse a otra existente, serán considerados como Diputados independientes y podrán constituir una Representación Parlamentaria de Diputados Independientes, nombrar a su coordinador y notificarlo a la Mesa Directiva del Congreso y en los recesos de éste, a la Comisión Permanente para que se informe de ello al Pleno, a efecto de tener representación en la Comisión de Gobierno.
+
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 2011)</small>
 
 ###### Artículo 98.
 
-Cuando un Partido Político cambie de denominación, la fracción parlamentaria o representación de partido, respectiva, podrá hacer lo propio, lo que habrá de comunicarse al Pleno.
+Cuando un Partido Político cambie de denominación, la Fracción Parlamentaria o Representación Parlamentaria, respectiva, podrá hacer lo propio, lo que habrá de comunicarse al Pleno.
 
-En el caso de que una fracción parlamentaria o representación de partido se disuelva, se informará de ello a la Mesa Directiva del Congreso y en los recesos de éste, a la de la Comisión Permanente para que se informe de ello al Pleno.
+En el caso de que una Fracción Parlamentaria o Representación Parlamentaria se disuelva, se informará de ello a la Mesa Directiva del Congreso y en los recesos de éste, a la de la Comisión Permanente para que se informe de ello al Pleno.
 
-Los integrantes de una fracción parlamentaria o representación de partido que se disuelva podrán incorporarse a otra, informando de ello a la Mesa Directiva.
+Los integrantes de una Fracción Parlamentaria o Representación Parlamentaria que se disuelva podrán incorporarse a otra existente, ó conformar una Representación Parlamentaria de diputados independientes, informando de ello a la Mesa Directiva, para los efectos del artículo 93 de la presente Ley.
 
-En el caso de que un Partido Político que tenga una fracción parlamentaria o representación en el Congreso, se fusione con otro, se podrá integrar una nueva fracción o representación con los Diputados que sean miembros del nuevo partido.
+En el caso de que un Partido Político que tenga una Fracción Parlamentaria o Representación Parlamentaria en el Congreso, se fusione con otro, se podrá integrar una nueva Representación Parlamentaria con los Diputados que sean miembros del nuevo partido.
 
 ## TITULO QUINTO. De la Práctica Parlamentaria
 
@@ -1983,9 +2007,25 @@ VI. Gestionar ante las autoridades la atención de las demandas de sus represent
 
 VII. Representar al Congreso en los foros, consultas y reuniones para los que sean designados por el Pleno o por la Mesa Directiva;
 
-VIII. Contar con el documento e insignia que los acredite como Diputados, y
+> <small>(REFORMADA, P.O. 21 DE ENERO DE 2011)</small>
 
-IX. Los demás que expresamente prevean la Constitución y esta Ley.
+VIII. Contar con el documento e insignia que los acredite como Diputados;
+
+> <small>(REFORMADA, P.O. 21 DE ENERO DE 2011)</small>
+
+IX. Formar parte de una Fracción o Representación Parlamentaria integrada por diputados que pertenezcan a un mismo partido político o que se hayan declarado como diputados independientes;
+
+> <small>(ADICIONADA, P.O. 21 DE ENERO DE 2011)</small>
+
+X. Contar con los servicios legislativos y de asesoría que requiera para el desempeño de sus funciones;
+
+> <small>(ADICIONADA, P.O. 21 DE ENERO DE 2011)</small>
+
+XI. Ocupar las curules que le sean asignadas por Acuerdo de la Comisión de Gobierno, y
+
+> <small>(ADICIONADA, P.O. 21 DE ENERO DE 2011)</small>
+
+XII. Los demás que expresamente prevean la Constitución Política Local y esta Ley.
 
 ###### Artículo 171.
 
@@ -2562,3 +2602,21 @@ DECRETO NUMERO 509, POR EL QUE SE ADICIONA UN CAPITULO SEGUNDO AL TITULO DECIMO 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 21 DE ENERO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de la fecha de su aprobación.
+
+###### ARTÍCULO SEGUNDO.
+
+Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero, para el conocimiento general.
+
+###### ARTÍCULO TERCERO.
+
+Los diputados que hayan decido (sic) dejar o dejen de pertenecer a una fracción parlamentaria o representación parlamentaria de las existentes, y sean declarados como diputados independientes, podrán constituir una representación parlamentaria, sin necesidad de pertenecer a algún partido político, con todas las prerrogativas, derechos y obligaciones que para las mismas señala la Ley Orgánica del Poder Legislativo del Estado de Guerrero número 286 en vigor.
+
+###### ARTÍCULO CUARTO.
+
+En el caso de constituirse una representación parlamentaria, la Comisión de Gobierno, en términos de lo dispuesto por el artículo 95 de la Ley Orgánica del Poder Legislativo del Estado de Guerrero número 286 en vigor, procederá de inmediato a la asignación de los asientos contiguos en el salón de sesiones del Honorable Congreso del Estado; y el Presidente de la Mesa Directiva procederá a tomarle la protesta de Ley al Diputado Coordinador del Grupo, para integrarse formalmente a la Comisión de Gobierno.
