@@ -4,7 +4,7 @@ identifier: "FED-reglamento-organico-del-banco-del-bienestar-sociedad-22507"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-11-29"
-last_updated: "2010-10-28"
+last_updated: "2011-01-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22507&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2001-11-27"
 
 REGLAMENTO ORGANICO DEL BANCO DEL AHORRO NACIONAL Y SERVICIOS FINANCIEROS, SOCIEDAD NACIONAL DE CREDITO, INSTITUCION DE BANCA DE DESARROLLO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE OCTUBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE ENERO DE 2011.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 29 de noviembre de 2001.
 
@@ -71,15 +71,15 @@ La Institución tendrá una duración indefinida.
 
 ### Capítulo II. Del Capital Social
 
-> <small>(REFORMADO PRIMER PARRAFO, D.OF. 28 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 21 DE ENERO DE 2011)</small>
 
 ###### ARTICULO 7o.
 
-El capital social del Banco del Ahorro Nacional y Servicios Financieros, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, es de $847'025,000.00 (ochocientos cuarenta y siete millones veinticinco mil pesos 00/100 M.N.). El capital social pagado es la cantidad de $847'025,000.00 (ochocientos cuarenta y siete millones veinticinco mil pesos 00/100 M.N.)
+El capital social del Banco del Ahorro Nacional y Servicios Financieros, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, es de $997'025,000.00 (novecientos noventa y siete millones veinticinco mil pesos 00/100 M.N.). El capital social pagado es la cantidad de $997'025,000.00 (novecientos noventa y siete millones veinticinco mil pesos 00/100 M.N.).
 
-> <small>(REFORMADO, D.OF. 28 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 2011)</small>
 
-Dicho capital social estará representado por 55'903,650 (cincuenta y cinco millones novecientos tres mil seiscientos cincuenta) certificados de aportación patrimonial de la Serie "A", con un valor nominal de $10.00 (diez pesos 00/100 M.N.), cada uno y por 28'798,850 (veintiocho millones setecientos noventa y ocho mil ochocientos cincuenta) certificados de aportación patrimonial de la Serie "B", con un valor nominal de $10.00 (diez pesos 00/100 M.N.) cada uno.
+Dicho capital social estará representado por 65'803,650 (sesenta y cinco millones ochocientos tres mil seiscientos cincuenta) certificados de aportación patrimonial de la Serie “A”, con un valor nominal de $10.00 (diez pesos 00/100 M.N.), cada uno y por 33'898,850 (treinta y tres millones ochocientos noventa y ocho mil ochocientos cincuenta) certificados de aportación patrimonial de la Serie “B”, con un valor nominal de $10.00 (diez pesos 00/100 M.N.) cada uno.
 
 El capital social podrá ser aumentado o reducido conforme a lo dispuesto por el artículo 38 de la Ley de Instituciones de Crédito, a propuesta del Consejo Directivo de la Institución, por acuerdo de la Secretaría de Hacienda y Crédito Público y mediante modificación a este Reglamento.
 
@@ -532,6 +532,12 @@ PRIMERO.- El presente Acuerdo entrará en vigor el día siguiente al de su publi
 SEGUNDO.- De conformidad con lo establecido por el último párrafo del artículo 30 de la Ley de Instituciones de Crédito, el Banco del Ahorro Nacional y Servicios Financieros, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, deberá inscribir en el Registro Público de Comercio, las modificaciones que por virtud del presente acuerdo, se realicen a su Reglamento Orgánico.
 
 D.O.F. 28 DE OCTUBRE DE 2010.
+
+PRIMERO.- El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- De conformidad con lo establecido por el último párrafo del artículo 30 de la Ley de Instituciones de Crédito, el Banco del Ahorro Nacional y Servicios Financieros, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, deberá inscribir en el Registro Público de Comercio las modificaciones que por virtud del presente acuerdo se realicen a su Reglamento Orgánico.
+
+D.O.F. 21 DE ENERO DE 2011.
 
 PRIMERO.- El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
