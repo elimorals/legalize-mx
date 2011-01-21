@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-derechos-y-cultura-de-los-pueblos-y-comunidades-69505"
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-24"
-last_updated: "2009-07-24"
+last_updated: "2011-01-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69505&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE DERECHOS Y CULTURA DE LOS PUEBLOS Y COMUNIDADES INDIGENAS DEL ESTADO DE QUERETARO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE ENERO DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 24 de julio de 2009.
 
@@ -51,27 +51,49 @@ El Estado de Querétaro, tiene una composición pluricultural sustentada origina
 
 Los indígenas procedentes de otro Estado de la República que transiten o residan temporal o permanentemente dentro del territorio del Estado de Querétaro, podrán acogerse, en lo conducente, a los beneficios de ésta Ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE ENERO DE 2011)</small>
+
 ###### Artículo 3.
 
-Esta Ley, reconoce a los pueblos indígenas Otomí, Huasteco y Pame, así como, las comunidades indígenas que los conforman, asentadas en los municipios de Amealco de Bonfil, Arroyo Seco, Cadereyta de Montes, Colón, Ezequiel Montes, Jalpan de Serra, Peñamiller y Tolimán.
+Esta Ley reconoce a los pueblos indígenas Otomí, Huasteco y Pame, así como a las comunidades indígenas que los conforman, asentadas en los municipios de Amealco de Bonfil, Arroyo Seco, Cadereyta de Montes, Colón, Ezequiel Montes, Huimilpan, Jalpan de Serra, Peñamiller y Tolimán.
 
 Para los efectos de ésta Ley y para todos los niveles de gobierno, los pueblos y comunidades indígenas, se encuentran distribuidos en el Estado de forma siguiente:
 
-I. Amealco de Bonfil: B. de Sta. Teresa (S. Mexquititlan B. 6o.), Barrio de la Cruz (San Miguel Tlaxcaltepec), Barrio de la Ladera (San Miguel Tlaxcaltepec), Barrio del Barco (San Miguel Tlaxcaltepec), Barrio la Isla (Stgo. Mexquititlán B. 6o.), Barrio Ojo de Agua (San Miguel Tlaxcaltepec), Barrio Presa del Tecolote (El Lindero), Chitejé de Garabato, Chitejé de la Cruz, Cuicillo (Barrio de San Ildefonso), Ejido de San Juan Dedo, El Bothé, El Cacahuate (Stgo. Mexquititlán Barrio 6o.), El Carmen (Santiago Mexquititlán Barrio 6o.), El Jaral (Santiago Mexquititlán Barrio 6o.), El Lindero, El Picacho, El Pueblito (San Miguel Tlaxcaltepec), El Rincón de Agua Buena (San M. Tlaxcaltepec), El Rincón de San Ildefonso, El Río (Santiago Mexquititlán Barrio 6o.), El Saucito, El Tepozán (Barrio de San Ildefonso), El Varal, Guadalupe el Terrero, La Manzana, La Piní, La Soledad, La Venta (Santiago Mexquititlán Barrio 6o.), Loma de las Víboras (S. Mexquititlán B. 6o.), Loma de los Blases, Los Árboles, Los Arenales (San Juan Dehedó), Mesillas, Rancho el Sol (Chitejé de la Cruz), San Felipe (Santiago Mexquititlán Barrio 6o.), San Ildefonso Tultepec (Centro), San José Ithó, San Miguel Tlaxcaltepec (Barrio Centro), San Pablo, San Pedro Tenango, Santiago Mexquititlán Barrio 1o., Santiago Mexquititlán Barrio 2o., Santiago Mexquititlán Barrio 3o., Santiago Mexquititlán Barrio 4o., Stgo. Mexquititlán Barrio 5o. (El Pastoreo), Tenasdá (Barrio de San Ildefonso), Tesquedó (Puerto del Chivato), Tierras Negras (Stgo. Mexquititlán B. 6o.), Veinte de Noviembre, Xajay y Yosphí;
+> <small>(REFORMADA, P.O. 21 DE ENERO DE 2011)</small>
 
-II. Arroyo Seco: San José de las Flores y San Juan Buenaventura;
+I. Amealco de Bonfil: Barrio de la Cruz (San Miguel Tlaxcaltepec), Barrio de la Ladera (San Miguel Tlaxcaltepec), Barrio de Sta. Teresa (Santiago Mexquititlán Barrio 6o.), Barrio del Barco (San Miguel Tlaxcaltepec), Barrio la Isla (Santiago Mexquititlán Barrio 6o.), Barrio Ojo de Agua (San Miguel Tlaxcaltepec), Barrio Presa del Tecolote (El Lindero), Chitejé de Garabato, Chitejé de la Cruz, Cuicillo (Barrio de San Ildefonso), Ejido de San Juan Dehedó, El Bothé, El Cacahuate (Santiago Mexquititlán Barrio 6o.), El Carmen (Santiago Mexquititlán Barrio 6o.), El Jaral (Santiago Mexquititlán Barrio 6o.), El Lindero, El Picacho, El Pueblito (San Miguel Tlaxcaltepec), El Rincón de Agua Buena (San Miguel Tlaxcaltepec), El Rincón de San Ildefonso, El Río (Santiago Mexquititlán Barrio 6o.), El Saucito, El Tepozán (Barrio de San Ildefonso), El Varal, Guadalupe el Terrero, La Joya del Capulín, La Manzana, La Piní, La Soledad, La Venta (Santiago Mexquititlán Barrio 6o.), Las Salvas, Loma de las Víboras (Santiago Mexquititlán Barrio 6o.), Loma de los Blases, Los Árboles, Los Arenales (San Juan Dehedó), Mesillas, Rancho el Sol (Chitejé de la Cruz), San Felipe (Santiago Mexquititlán Barrio 6o.), San Ildefonso Tultepec (Centro), San José Ithó, San Juan Dehedó, San Miguel Tlaxcaltepec (Barrio Centro), San Pablo, San Pedro Tenango, Santiago Mexquititlán Barrio 1o., Santiago Mexquititlán Barrio 2o., Santiago Mexquititlán Barrio 3o., Santiago Mexquititlán Barrio 4o., Santiago Mexquititlán Barrio 5°., Tenasdá (Barrio de San Ildefonso), Tesquedó (Puerta del Chivato), Tierras Negras (Santiago Mexquititlán Barrio 6o.), Veinte de Noviembre, Xahay y Yosphí;
 
-III. Cadereyta de Montes: Altamira (La Bondotita), Boxasní, Boyé, Boyecito, Chavarrías, El Banco, El Membrillo, El Soyatal, Jabalí, La Culata, La Florida, La Laja, La Pastilla, La Puerta, La Tinaja, Las Viguitas, Los Juárez, Rancho Nuevo Sombrerete y Sombrerete;
+> <small>(REFORMADA, P.O. 21 DE ENERO DE 2011)</small>
 
-IV. Colón: El Álamo Cuate, El Arte, El Carrizal, El Leoncito, El Poleo, El Potrero, Peña Blanca, Pueblo Nuevo, Salitrera (Presa de la Soledad) y Tierra Adentro;
+II. Arroyo Seco: El Crucero del Sabinito, El Riachuelo, El Sabinito, La Cantera, Las Trancas, San José de las Flores, San Juan Buenaventura y Tuna Manza;
 
-V. Ezequiel Montes: Barreras, El Bondotal, El Ciervo, El Coyote, Guanajuatito, La Higuera, Las Rosas, Loberas, Los Ramírez, San José de las Trojes, Sombrerete y Villa Progreso;
+> <small>(REFORMADA, P.O. 21 DE ENERO DE 2011)</small>
 
-VI. Jalpan de Serra: Carrizal de los Durán, El Pocito, El Rincón, Espadañuela, La Cercada, La Esperanza, La Mesa del Pino, Las Flores, Las Nuevas Flores, Los Jasso, Mesa del Sauz, Ojo de Agua, Orilla del Plan (La Laguna), Rancho Nuevo, San Antonio Tancoyol, San Isidro, San Juan de los Durán, Tancoyol y Valle Verde;
+III. Cadereyta de Montes: Altamira (La Bondotita), Boxasní, Boyé, Boyecito, Chavarrías, Corral Blanco, Culebras, El Banco, El Chilar, El Membrillo, El Rincón, El Sombrerete, El Soyatal, Jabalí, La Adarga, La Culata, La Florida, La Laja, La Pastilla, La Puerta, La Tinaja, Las Viguitas, Los Juárez, Los Llanitos (de Pathé), Pathé, Pueblo Nuevo, Rancho Nuevo Sombrerete, Santo Domingo, Sombrerete, Taxidhó, Xidhí y Xodhé;
 
-VII. Peñamiller: Agua de Pedro, Cruz del Milagro, El Carrizal, El Moral, El Puerto de la Guitarra, El Tequezquite, La Laja, Las Mesas, Mesa del Troje, Milpillas, ySan (sic) Miguel Palmas (Misión de Palmas); y
+> <small>(REFORMADA, P.O. 21 DE ENERO DE 2011)</small>
 
-VIII. Tolimán: Adjuntillas, Barrio de Casas Viejas, Barrio de García, Bomintzá, Carrizalillo, Casa Blanca, Ciprés, Derramadero, Diezmero, Don Lucas, El Aguacate, El Cerrito Parado, El Chilar, El Jabalí, El Madroño, El Molino, El Patol, El Pedregal, El Saucito, El Sauz, El Terrero, El Tule, Granjeno, Gudinos, Horno de Cal, La Cañada, La Cebolleta, La Estancia, La Peña, La Presita, La Puerta, La Vereda, Laguna de Álvarez, Las Crucitas, Las Moras, Lindero, Loma de Casa Blanca, Los González, Maguey Manso, Manantial, Mesa de Chagoya, Mesa de Ramírez, Nogales, Panales, Peña Blanca, Puerto Blanco, Rancho de Guadalupe, Rancho Nuevo, Rancho Viejo, Sabino de San Ambrosio, San Antonio de la Cal, San Miguel, San Pablo Tolimán, Tequesquite (Chalma), Tierra Volteada, Tolimán y Zapote de los Uribe (El Zapote). Esta relación de pueblos y comunidades indígenas, es enunciativa, más no limitativa, toda vez, que para el caso de que se pudiera crear un nuevo asentamiento indígena, bastará su solicitud y la sujeción al procedimiento de auto adscripción o auto reconocimiento, la composición lingüística y demográfica, la geografía territorial de la comunidad, incluyendo, en su caso, la pertenencia de varias unidades interiores; localidades, barrios y secciones, entre otros; la estructura y mecánica de la autoridad comunitaria, la costumbre jurídica, el calendario festivo y ritual anual. Dicha solicitud se tramitará ante la autoridad de la materia, de cualquier nivel de gobierno, para su asesoría e inclusión en ésta relación.
+IV. Colón: El Álamo Cuate, El Arte, El Carrizal; El Fuenteño, El Leoncito, El Poleo, El Potrero, El Zamorano, Los Trigos, Nuevo Álamos, Peña Blanca, Pueblo Nuevo, Puerto del coyote, Salitrera (Presa de la Soledad) y Tierra Adentro;
+
+> <small>(REFORMADA, P.O. 21 DE ENERO DE 2011)</small>
+
+V. Ezequiel Montes: Barreras, El Bondotal, El Cardonal, El Ciervo, El Coyote, El Gallito, Guanajuatito, La Higuera, La Nueva Unidad, La Purísima, Las Rosas, Loberas, Los Pérez, Los Ramírez, Los Velázquez, Palo Seco, Punta de la Loma, San Antonio, San José de los Trejo, Sombrerete y Villa Progreso (Barrios Santa María, San José y San Miguel);
+
+> <small>(REFORMADA, P.O. 21 DE ENERO DE 2011)</small>
+
+VI. Huimilpan: Carranza, La Haciendita, Puerta del Tepozán, El Vegil y Zorrillo;
+
+> <small>(REFORMADA, P.O. 21 DE ENERO DE 2011)</small>
+
+VII. Jalpan de Serra: Carrizal de los Durán, Carrizalito, El Cañón, El Pocito, El Rincón, Espadañuela, La Cercada, La Esperanza, Laguna de Pitzquintla, Las Flores, Las Nuevas Flores, Los Jasso, Mesa de Pino, Mesa del Sauz, Ojo de Agua, Orilla del Plan (La Laguna), Rancho Nuevo, San Antonio Tancoyol, San Isidro, San Juan de los Durán, Tancoyol, Valle Verde y Zoyapilca;
+
+> <small>(REFORMADA, P.O. 21 DE ENERO DE 2011)</small>
+
+VIII. Peñamiller: Agua Caliente, Agua de Pedro, Cruz del Milagro, Cuesta Colorada, El Carrizal, El Moral, El Puerto de la Guitarra, El Tequezquite, La Laja, Las Mesas, Mesa del Troje, Milpillas, Peña Blanca y San Miguel Palmas (Misión de Palmas); y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE ENERO DE 2011)</small>
+
+IX. Tolimán: Adjuntillas, Barrio de Casas Viejas, Barrio de García, Barrio La Loma, Bomintzá, Carrizalillo, Casa Blanca, Ciprés, Derramadero, Diezmero, Don Lucas, El Aguacate, El Cerrito Parado, El Chilar, El Jabalí, El Madroño, El Molino, El Patol, El Pedregal, El Saucito, El Sauz, El Shaminal, El Terrero, El Tule, Granjeno, Gudinos, Horno de Cal, La Cañada, La Cebolleta, La Estancia, La Peña, La Presita, La Puerta, La Vereda, Laguna de Álvarez, Las Crucitas, Las Moras, Lindero, Lomas de Casa Blanca, Los González, Maguey Manso, Manantial, Mesa de Chagoya, Mesa de Ramírez, Nogales, Panales, Peña Blanca, Puerto Blanco, Rancho de Guadalupe, Rancho Nuevo, Rancho Viejo, Sabino de San Ambrosio, San Antonio de la Cal, San Miguel, San Pablo Tolimán, Tequesquite (Chalma), Tierra Volteada, Tolimán y Zapote de los Uribe (El Zapote).
 
 Esta relación de pueblos y comunidades indígenas, es enunciativa, más no limitativa, toda vez, que para el caso de que se pudiera crear un nuevo asentamiento indígena, bastará su solicitud y la sujeción al procedimiento de auto adscripción o auto reconocimiento, la composición lingüística y demográfica, la geografía territorial de la comunidad, incluyendo, en su caso, la pertenencia de varias unidades interiores; localidades, barrios y secciones, entre otros; la estructura y mecánica de la autoridad comunitaria, la costumbre jurídica, el calendario festivo y ritual anual. Dicha solicitud se tramitará ante la autoridad de la materia, de cualquier nivel de gobierno, para su asesoría e inclusión en ésta relación.
 
@@ -492,3 +514,11 @@ Lic. José Alfredo Botello Montes
 Secretario de Gobierno
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 21 DE ENERO DE 2011.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
