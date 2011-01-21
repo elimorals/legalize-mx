@@ -4,7 +4,7 @@ identifier: "QUE-codigo-civil-del-estado-de-queretaro-70762"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-10-21"
-last_updated: "2010-12-10"
+last_updated: "2011-01-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70762&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CODIGO CIVIL DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE ENERO DE 2011.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el miércoles 21 de octubre de 2009.
 
@@ -9493,6 +9493,10 @@ En los casos en que el daño moral derive de un acto que haya tenido difusión e
 
 No estará obligado a la reparación del daño moral quien ejerza sus derechos de opinión, crítica, expresión e información, en los términos y con las limitaciones de los artículos 6o. y 7o. de la Constitución Política de los Estados Unidos Mexicanos.
 
+> <small>(ADICIONADO, P.O. 21 DE ENERO DE 2011)</small>
+
+No se considerarán ofensas al honor, las opiniones que se realicen de forma desfavorable sobre la crítica literaria, artística, histórica, científica o profesional. Tampoco se considerarán ofensivas las opiniones desfavorables realizadas en cumplimiento de un deber o ejerciendo un derecho, cuando el modo de proceder o la falta de reserva no tengan un propósito ofensivo.
+
 ###### Artículo 1803.
 
 En el caso del artículo anterior, quien demande la reparación del daño moral por responsabilidad contractual o extracontractual, deberá acreditar plenamente la ilicitud de la conducta del demandado y el daño que directamente le hubiere causado tal conducta.
@@ -15312,5 +15316,11 @@ Rúbrica
 P.O. 10 DE DICIEMBRE DE 2010.
 
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 21 DE ENERO DE 2011.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado."La Sombra de Arteaga".
 
 Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
