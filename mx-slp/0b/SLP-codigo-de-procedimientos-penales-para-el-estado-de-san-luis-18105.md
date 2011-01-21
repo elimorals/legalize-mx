@@ -4,7 +4,7 @@ identifier: "SLP-codigo-de-procedimientos-penales-para-el-estado-de-san-luis-181
 country: "mx"
 rank: "codigo"
 publication_date: "2000-09-30"
-last_updated: "2010-12-28"
+last_updated: "2011-01-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18105&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE ENERO DE 2011.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 30 de septiembre de 2000.
 
@@ -203,9 +203,13 @@ Las actuaciones podrán practicarse a toda hora y aún en los días inhábiles, 
 
 Los magistrados, jueces y agentes del Ministerio Público estarán acompañados, en todas las diligencias que practiquen, de sus secretarios si los tuvieren, o de dos testigos de asistencia debidamente identificados, que darán fe de todo lo que en aquellas pase.
 
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 2011)</small>
+
 ###### ARTICULO 24.
 
-Una vez que el Ministerio Público reciba denuncia o querella, la radicará y ordenará su registro en el libro de gobierno con el número que le corresponda, dando aviso a su superior e iniciará la averiguación previa.
+Una vez que el Ministerio Público del fuero común reciba denuncia o querella, la radicará y ordenará su registro en el sistema electrónico de control y seguimiento de averiguaciones y en el libro de gobierno con el número único progresivo que le corresponda, dando aviso a su superior, e iniciará la averiguación previa: en cuya integración deberá atender lo dispuesto en este Código, la Ley Orgánica de la propia institución y su reglamento.
+
+Dentro de los tres días siguientes a la conclusión de cada trámite, el agente del Ministerio Público acordará el desahogo de aquéllas diligencias que deban substanciarse para la correcta y pronta integración de la indagatoria.
 
 ###### ARTICULO 25.
 
@@ -689,6 +693,10 @@ No se practicará la necropsia cuando el Ministerio Público o el juez, en su ca
 
 En los casos de aborto, el tipo penal se tendrá por comprobado en los mismos términos que el del homicidio; pero además los peritos practicarán el reconocimiento médico a la madre, describirán las lesiones que presenta y dictaminarán si el producto nació viable o no.
 
+> <small>(ADICIONADO, P.O. 21 DE ENERO DE 2011)</small>
+
+ARTÍCULO 111 BIS. En los casos de secuestro y privación ilegal de la libertad, ante la ausencia de otro u otros medios de Prueba, el tipo penal y la probable responsabilidad penal se tendrán por comprobados con la denuncia de la víctima u ofendido, y los dictámenes rendidos en la averiguación previa por los peritos en el área de salud física y psicológica en los términos que preceptúa este Código, cuando en la primera se contenga la imputación directa y una narración de los hechos para establecer la responsabilidad del o los responsables del ilícito.
+
 ###### ARTICULO 112.
 
 En los casos de robo, el cuerpo del delito podrá comprobarse, siempre que no haya sido posible hacerlo en los términos del artículo 107 de este Código, cuando haya prueba de que el inculpado ha tenido en su poder alguna cosa que, por sus circunstancias personales, no sea verosímil que haya podido adquirir legítimamente, si no justifica la procedencia de aquélla y si hay, además, quien le impute el robo.
@@ -965,9 +973,11 @@ En ambos casos se iniciará la investigación, si el delito denunciado fuere de 
 
 Si el delito es de los que solamente pueden perseguirse por querella de parte, se admitirá la intervención del apoderado jurídico sólo en el caso de que el poder contenga cláusula especial o compruebe que su mandante le dio instrucciones concretas para formular la querella.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE ENERO DE 2011)</small>
+
 ###### ARTICULO 153.
 
-El Ministerio Público podrá disponer la libertad del inculpado en los supuestos y cumpliendo con los requisitos establecidos para los jueces por el artículo 407 de este Código, sin perjuicio de decretar su arraigo en el caso necesario. El Ministerio Público fijará caución suficiente para garantizar que no se sustraiga a la acción de la justicia, ni al pago de los daños y perjuicios que pudieren serle exigidos.
+El Ministerio Público podrá disponer la libertad provisional bajo caución del inculpado en los supuestos y cumpliendo con los requisitos aplicables establecidos en el Código Penal del Estado y en el presente Ordenamiento, sin perjuicio de decretar su arraigo en caso necesario. El Ministerio Público fijará caución suficiente para garantizar que no se sustraiga a la acción de la justicia, ni al pago de los daños y perjuicios que pudieren serle exigidos, conforme a los lineamientos previstos al efecto.
 
 Si el Ministerio Público concede la libertad provisional al inculpado, lo prevendrá a fin de que comparezca cuantas veces sea necesario para la práctica de diligencias de averiguación previa. El juez a quien se consigne ordenará la presentación del inculpado y si no comparece sin causa justa y comprobada, ordenará su aprehensión, mandando hacer efectiva la garantía otorgada.
 
@@ -983,17 +993,21 @@ Cuando el Ministerio Público encargado de practicar diligencias de averiguació
 
 Cuando en la integración de la averiguación previa se presuma que por el ejercicio de la profesión médica alguien esté involucrado en la comisión de un posible delito, el Ministerio Público pedirá opinión a los Servicios Coordinados de Salud Pública en el Estado.
 
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 2011)</small>
+
 ###### ARTICULO 155.
 
-Tratándose de delitos que se persigan por querella, el Ministerio Público actuará conforme a lo establecido en el artículo 24 de este ordenamiento, debiendo además:
+Tratándose de delitos que se persigan por querella, el Ministerio Público actuará de acuerdo a lo que establece el artículo 24 de este Ordenamiento, y además deberá desahogar las siguientes diligencias:
 
-I. Citar a los interesados a una audiencia de carácter conciliatorio, y
+I. Citar a los interesados a una audiencia para proponerles la resolución de su conflicto a través del procedimiento de conciliación, y
 
-II. Instalados en la audiencia, el Ministerio Público procurará la conciliación de los interesados, levantando el acta respectiva.
+II. Instalados en la audiencia, el Ministerio Público procurará la conciliación de los interesados en el conflicto, levantando el acta respectiva.
 
-En caso de no asistir alguno de los interesados o de que no se llegue a una conciliación el Ministerio Público continuará el procedimiento.
+Los interesados para realizar la conciliación deberán ser citados con las formalidades previstas en este Código. El agente del Ministerio Público deberá hacer constar el desahogo de la conciliación, agregando a la indagatoria los acuses de recibido de los citatorios y diligencias que evidencien la comparecencia o no de los mismos; podrá citar a los interesados cuantas veces sea necesario hasta antes del ejercicio de la acción penal. En caso de no asistir alguno de los interesados o de que no se llegue a una conciliación, previa constancia que se deje al efecto, el Ministerio Público continuará el procedimiento.
 
-Si se lograre la conciliación de los interesados, se decretará el no ejercicio de la acción penal.
+Si se logra la conciliación de los interesados, el Ministerio Público decretará el no ejercicio de la acción penal.
+
+En el supuesto de que no sea posible llevar a cabo la conciliación ante el agente del Ministerio Público, de oficio la autoridad jurisdiccional deberá citar a los interesados para proponer la mediación o conciliación en cualquier estado del proceso y hasta antes de citación para sentencia, cuantas veces sea necesario.
 
 ###### ARTICULO 156.
 
@@ -1115,11 +1129,21 @@ Si los peritos médicos consideran que la muerte fue natural, así lo hará sabe
 
 Si de las diligencias practicadas no resultan elementos suficientes para hacer la consignación al juez y no parece que se puedan aportar otros, pero con posterioridad pudieran allegarse datos para proseguir la averiguación; se reservará el expediente hasta que aparezcan esos datos y entre tanto se ordenará a la Policía que haga investigaciones tendientes a lograr el esclarecimiento de los hechos.
 
+> <small>(ADICIONADO, P.O. 21 DE ENERO DE 2011)</small>
+
+ARTICULO 166 BIS. En los casos de delitos de querella necesaria y aquéllos en los cuales no estén en riesgo la vida y la libertad humanas, tendrá lugar la caducidad cuando la víctima o parte ofendida no proporcionen datos suficientes, o no cumplan con las cargas procesales que les impone este Código, en un periodo de seis meses.
+
+Dicho plazo correrá a partir de que el Ministerio Público notifique el requerimiento respectivo y será declarada a petición de parte o de oficio; cuando la inactividad procesal sea imputable al Ministerio Público no será tomada en cuenta para efectos de este artículo.
+
+Lo anterior sin perjuicio de que la parte interesada decida replantear nuevamente su denuncia o querella y le dé seguimiento, en tanto la acción penal no prescriba.
+
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 2011)</small>
+
 ###### ARTICULO 167.
 
-Cuando en vista de la averiguación previa el Ministerio Público determine que no es de ejercitarse la acción penal por los hechos que se hayan denunciado como delictuosos o por lo que se hubiera presentado querella, enviará las diligencias a la Procuraduría General de Justicia dentro del término de quince días para que el titular oyendo el parecer de sus agentes auxiliares decida en definitiva si confirma o revoca tal determinación.
+Cuando en vista de la averiguación previa, el Ministerio Público determine que no es de ejercitarse la acción penal por los hechos qua se hayan denunciado como delictuosos o por lo que se hubiera presentado querella, enviará las diligencias a la Procuraduría General de Justicia dentro del término de quince días para que, el titular o subprocurador autorizado mediante acuerdo general, oyendo el parecer de sus agentes auxiliares decida en definitiva si confirma o revoca tal determinación.
 
-Las resoluciones del Procurador General de Justicia del Estado que confirmen las determinaciones de no ejercicio de la acción penal del Ministerio Público, podrán ser impugnadas por vía jurisdiccional.
+Las resoluciones del Procurador General de Justicia o del subprocurador autorizado que confirmen las determinaciones de no ejercicio de la acción penal del Ministerio Público, sólo podrán ser impugnadas ante el Tribunal Estatal de lo Contencioso Administrativo.
 
 ###### ARTICULO 168.
 
@@ -1235,17 +1259,23 @@ El tribunal que reciba la consignación del inculpado que haya sido detenido en 
 
 En el caso de que se aboque al conocimiento, le hará saber al detenido que se encuentra a su disposición, que en audiencia pública y dentro del término de cuarenta y ocho horas en presencia de su defensor, se le tomará su declaración preparatoria; para ello fijará día y hora.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE ENERO DE 2011)</small>
+
 ###### ARTICULO 181.
 
-Tratándose de consignaciones sin detenido, el tribunal ante el cual se ejercite la acción penal radicará el asunto dentro del término de dos días siguientes a la misma, salvo lo previsto en el párrafo tercero de este artículo y abrirá el expediente, en el que resolverá conforme a derecho y practicará sin demora alguna, todas las diligencias que promuevan las partes.
+Tratándose de consignaciones sin detenido, el tribunal ante el cual se ejercite la acción penal, radicará el asunto dentro del término de dos días siguientes a la misma, salvo lo previsto en el párrafo segundo de este articulo y abrirá el expediente, en el que resolverá conforme a derecho y practicará sin demora alguna todas las diligencias que promuevan las partes.
 
 En el caso de los delitos que este Código señala como graves, la radicación se hará de inmediato y el juez ordenará o negará la aprehensión o cateo solicitados por el Ministerio Público, dentro de las veinticuatro horas contadas a partir del momento en que ésta se haya acordado.
 
-El juez ordenará o negará la aprehensión, reaprehensión, comparecencia o cateo solicitados por el Ministerio Público dentro de los diez días contados a partir de aquél en que se haya acordado la radicación.
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 2011)</small>
 
-Si el juez negara la aprehensión, reaprehensión o comparecencia en su caso y el Ministerio Público estima que puede rendir mejores pruebas para solicitar de nueva cuenta éstas, una vez que las haya ofrecido, el juez decretará su recepción con citación del inculpado.
+El juez invariablemente deberá pronunciarse sobre el pedimento del Ministerio Público, ordenando o negando la aprehensión, Reaprehensión, comparecencia o cateo solicitados, dentro de los diez días contados a partir de aquél en que se haya acordado la radicación.
 
-Si volviere a negarse la orden de aprehensión, reaprehensión o comparecencia; se dictará sobreseimiento de la causa cuando transcurrido un año el Ministerio Público no hubiere ofrecido nuevas pruebas.
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 2011)</small>
+
+Si el juez negara la aprehensión, reaprehensión o comparecencia, en su caso, el Ministerio Público adscrito reiterará la petición cuantas veces sea necesario, para lo cual, dentro del plazo de seis meses contados a partir del día siguiente de aquél en que cause estado la resolución, deberá rendir nuevas pruebas y el juez entrará nuevamente al estudio de la causa y se pronunciará sobre el mandamiento solicitado por el Ministerio Público investigador; una vez ofrecidas las pruebas, en su caso, se decretará su recepción con citación del inculpado. Transcurrido el plazo de la última negativa de la autoridad judicial sin que se hubieren ofrecido pruebas, se decretará de oficio el sobreseimiento de la causa.
+
+> <small>(DEROGADO QUINTO PARRAFO, P.O. 21 DE ENERO DE 2011)</small>
 
 ## TITULO TERCERO. DEL PROCEDIMIENTO ANTE LOS TRIBUNALES
 
@@ -1500,6 +1530,10 @@ La instrucción deberá terminarse en el menor tiempo posible. Cuando exista aut
 Los plazos a que se refiere este artículo se contarán a partir de la fecha del auto de formal prisión o del de sujeción a proceso, en su caso. Dentro del mes anterior a que concluya cualquiera de los plazos antes señalados, el juez dictará auto que señale esta circunstancia, así como la relación de pruebas, diligencias y recursos que aparezcan pendientes de desahogo. En el mismo auto, el juez ordenará se gire oficio al Supremo Tribunal de Justicia, solicitándole resuelva los recursos antes de que se cierre la instrucción, y dará vista a las partes para que, dentro de los diez días siguientes, manifiesten lo que a su derecho convenga, indicándoles que de no hacerlo resolverá como lo ordena el artículo 224 de este Código.
 
 Cuando el juez omita dictar el auto al que se refiere el párrafo anterior, cualquiera de las partes podrá recurrir en la forma prevista por este Código para la queja.
+
+> <small>(ADICIONADO, P.O. 21 DE ENERO DE 2011)</small>
+
+A efecto de hacer que los procesos se sigan con toda regularidad para que la administración de justicia sea pronta y expedita, sin perjuicio de lo que soliciten el procesado o su defensa, el agente del Ministerio Público adscrito dentro de los tres días siguientes a la conclusión de cada trámite, promoverá el desahogo de aquellas diligencias que deban substanciarse para su correcta y rápida integración.
 
 ###### ARTICULO 222.
 
@@ -2067,7 +2101,9 @@ Los tribunales, según la naturaleza de los hechos y el enlace lógico y natural
 
 Cerrada la instrucción, se mandará poner la causa a la vista del Ministerio Público, por diez días, para que formule conclusiones por escrito. Si el expediente excediere de doscientas fojas, por cada cien de exceso o fracción, se aumentará un día al plazo señalado, sin que nunca sea mayor de quince días hábiles.
 
-Transcurrido el plazo a que se refiere el párrafo anterior sin que el Ministerio Público haya presentado conclusiones, el juez de oficio deberá informar mediante notificación personal al Procurador General de Justicia acerca de esta omisión, para que dicha autoridad presente u ordene la formulación de las conclusiones pertinentes, en un plazo de cinco días hábiles, contados desde la fecha en que se le haya notificado la omisión, sin perjuicio de que se apliquen las sanciones que correspondan, pero si el expediente excediere de doscientas fojas, por cada cien de exceso o fracción se aumentará un día en el plazo señalado, sin que nunca sea mayor de quince días hábiles.
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 2011)</small>
+
+Transcurrido el plazo a que se refiere el párrafo anterior sin que el Ministerio Público haya presentado conclusiones, el juez, de oficio deberá informar mediante notificación personal al Procurador General de Justicia acerca de esta omisión, para que dicha autoridad directamente a o través del subprocurador autorizado mediante acuerdo general, presente u ordene la formulación de las conclusiones pertinentes, en un plazo de diez días hábiles contados desde el primer día hábil siguiente a la fecha en que se le haya notificado la omisión, sin perjuicio de que se apliquen las sanciones que correspondan; pero si el expediente excediere de doscientas fojas, por cada cien de exceso o fracción se aumentará un día en el plazo señalado, sin que nunca sea mayor de quince días hábiles.
 
 Si transcurren los plazos a que alude el párrafo anterior sin que se presenten las conclusiones, el juez tendrá por formuladas las de no acusación y el procesado será puesto en inmediata libertad, sobreseyéndose el proceso.
 
@@ -2083,9 +2119,11 @@ En el primer caso de la parte final del artículo anterior, deberá fijar en pro
 
 Si las conclusiones fueren de no acusación, si en las formuladas no se comprendiere algún delito que resulte probado de la instrucción o se omitiere petición por cuanto a la reparación del daño; si fueren contrarias a las constancias procesales o si en ellas no se cumpliere con lo dispuesto en el artículo anterior, el tribunal las enviará con el proceso, al Procurador General de Justicia, señalando cuál es la omisión o contradicción que se observa en su contenido.
 
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 2011)</small>
+
 ###### ARTICULO 325.
 
-El Procurador General de Justicia oyendo al parecer de sus auxiliares y dentro de los quince días siguientes al de la fecha en que se haya recibido el proceso, resolverá si son de confirmarse, revocarse o modificarse las conclusiones. Si transcurrido este plazo no se recibe respuesta del funcionario primeramente mencionado, se entenderá que han sido confirmadas.
+El Procurador General de Justicia o subprocurador autorizado, oyendo el parecer de sus auxiliares y dentro de los quince días siguientes al de la fecha en que se haya recibido el proceso, resolverá si son de confirmarse, revocarse o modificarse las conclusiones. Si transcurrido este plazo no se recibe respuesta del funcionario primeramente enunciado, se entenderá que han sido confirmadas.
 
 ###### ARTICULO 326.
 
@@ -2183,7 +2221,9 @@ IV. Cuando no se hubiere dictado auto de formal prisión o de sujeción a proces
 
 V. Cuando el Procurador General de Justicia no presente u ordene la formulación de conclusiones dentro del término establecido en el segundo párrafo del artículo 321 de este Código;
 
-VI. Cuando habiendo transcurrido dos meses de decretada la libertad por falta de elementos para procesar o por desvanecimiento de datos, no existan elementos posteriores para dictar nueva orden de aprehensión, o bien los que se hayan presentado no sean suficientes para fundar la misma;
+> <small>(REFORMADA, P.O. 21 DE ENERO DE 2011)</small>
+
+VI. Cuando habiendo transcurrido seis meses contados a partir del día siguiente de aquél en que cause estado la resolución que decreta la libertad por falta de elementos para procesar, o por desvanecimiento de datos, no existan elementos posteriores para dictar nueva orden de aprehensión, o bien los que se hayan presentado no sean suficientes para fundar la misma;
 
 VII. Cuando existan pruebas que acrediten fehacientemente la inocencia del inculpado;
 
@@ -2577,11 +2617,11 @@ Si se declara fundada la solicitud de reconocimiento de la inocencia del sentenc
 
 ### CAPITULO I. LIBERTAD PROVISIONAL BAJO CAUCION
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JUNIO DE 2010)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE ENERO DE 2011)</small>
 
 ###### ARTICULO 407.
 
-Todo inculpado tendrá derecho a ser puesto en libertad bajo caución, siempre que no se trate de los siguientes delitos considerados como graves: homicidio simple intencional- homicidio calificado- parricidio- aborto- ataque peligroso- secuestro- secuestro express- robo de infante- tráfico de menores- asalto- violación- violación equiparada- abuso sexual calificado- corrupción de personas menores de dieciocho años- o personas que no tienen capacidad para comprender el significado del hecho, o de personas que no tiene capacidad para resistirlo; pornografía de personas menores de dieciocho años, o personas que no tienen capacidad para comprender el significado del hecho, o de personas que no tiene capacidad para resistirlo; turismo sexual de personas menores de dieciocho años, o personas que no tienen capacidad para comprender el significado del hecho, o de personas que no tiene capacidad para resistirlo; lenocinio de personas menores de dieciocho años o personas que no tienen capacidad para comprender el significado del hecho, o de personas que no tiene capacidad para resistirlo; trata de personas de menores de dieciocho años o personas que no tienen capacidad para comprender el significado del hecho o de personas que no tiene capacidad para resistirlo; robo calificado- robo equiparado que señala el artículo 195 BIS del Código Penal del Estado- abigeato- extorsión previsto en los artículos, 212 en sus párrafos segundo y tercero, y 212 BIS del Código Penal del Estado- rebelión- motín- terrorismo- asociación delictuosa- evasión- tortura- ataque a las vías de comunicación y medios de transporte- homicidio por culpa a que se refiere el artículo 64 del Código Penal del Estado; y deslealtad al empleo, cargo o comisión, o perjuicio al servicio público, a que se refiere el párrafo primero del artículo 293 Bis del Código Penal del Estado.
+Todo inculpado tendrá derecho a ser puesto en libertad bajo caución, siempre que no se trate de los siguientes delitos considerados como graves: homicidio simple intencional; homicidio calificado; parricidio; aborto; ataque peligroso; privación ilegal de la libertad; secuestro; secuestro exprés; exposición al peligro a que se refiere el artículo 147 Bis del Código Penal del Estado; robo de infante; tráfico de menores; asalto; violación; violación equiparada; abuso sexual calificado; corrupción de personas menores de dieciocho años, o personas que no tienen capacidad para comprender el significado del hecho, o de personas que no tiene (sic) capacidad para resistirlo; pornografía de personas menores de dieciocho años, o personas que no tienen capacidad para comprender el significado del hecho, o de personas que no tiene (sic) capacidad para resistirlo; turismo sexual de personas menores de dieciocho años, o personas que no tienen capacidad para comprender el significado del hecho, o de personas que no tiene (sic) capacidad para resistirlo; lenocinio de personas menores de dieciocho años o personas que no tienen capacidad para comprender el significado del hecho, o de personas que no tiene (sic) capacidad para resistirlo; trata de personas de menores de dieciocho años o personas que no tienen capacidad para comprender el significado del hecho o de personas que no tiene (sic) capacidad para resistirlo; trata de personas a que se refieren los artículos 188 Bis, 188 Ter, y 188 Quáter; robo calificado; robo equiparado que señala el artículo 195 Bis del Código Penal del Estado; abigeato; extorsión previsto en los artículos 212 y 212 bis de la ley sustantiva penal; rebelión; motín; terrorismo; asociación delictuosa; evasión; tortura; ataque a las vías de comunicación y medios de transporte; homicidio por culpa a que se refiere el artículo 64 del Código Penal del Estado; deslealtad al empleo, cargo o comisión, o perjuicio al servicio púbico, a que se refiere el artículo 293 Bis del Código Penal del Estado; y narcomenudeo previsto en los artículos 325 y 326 del Código Penal del Estado.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
@@ -2597,9 +2637,13 @@ No se considerará como grave el robo calificado a que se refiere la fracción X
 
 Tratándose de delitos cometidos con motivo del tránsito de vehículos no se concederá este beneficio al inculpado que hubiese incurrido en delito de abandono de personas si se encuentra en estado de ebriedad o bajo el influjo de estupefacientes, psicotrópicos o de cualquier otra sustancia que producta (sic) efectos similares. Cuando el delito merezca pena alternativa o no privativa de la libertad se dispondrá la libertad sin necesidad de caución y sin perjuicio de pedir el arraigo correspondiente.
 
-Tampoco se concederá libertad provisional bajo caución cuando se trate de los delitos graves cometidos en grado de tentativa.
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 2011)</small>
 
-Se concederá al inculpado la libertad sin caución alguna, por el Ministerio Público, o por el juez cuando el término medio aritmético de la pena de prisión no exceda de tres años, siempre que:
+Tampoco se concederá libertad provisional bajo caución cuando se trate de los delitos graves cometidos en grado de tentativa. Así como cuando haya oposición del Ministerio público, siempre que éste acredite que el inculpado fue condenado con anterioridad por la comisión de algún delito considerado grave por la ley; haya cometido tres o más delitos dolosos, no graves; o acredite que la libertad del encausado represente un riesgo para el ofendido o para la sociedad, por su conducta precedente.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE ENERO DE 2011)</small>
+
+Se concederá al inculpado la libertad sin caución alguna por el juez, cuando el término medio aritmético de la pena de prisión no exceda de tres años, siempre que:
 
 I. No exista riesgo fundado de que pueda sustraerse a la acción de la justicia;
 
@@ -2615,27 +2659,37 @@ La presente disposición no será aplicable cuando se trate de los delitos grave
 
 Cuando en los términos de esta Ley sea procedente, inmediatamente que se solicite la libertad provisional, ésta se decretará en la misma pieza de autos.
 
-La libertad caucional procesal señalada en el segundo párrafo del artículo anterior, se substanciará de manera incidental, dándose vista al Ministerio Público por el término de veinticuatro horas para que manifieste lo que a su representación interese. Transcurrido ese término, el Tribunal resolverá lo conducente dentro de las veinticuatro horas siguientes.
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 2011)</small>
+
+La libertad caucional procesal señalada en el sexto párrafo del artículo anterior, se substanciará de manera incidental, dándose vista al Ministerio Público por el término de veinticuatro horas para que manifieste lo que a su representación interese. Transcurrido ese término el tribunal resolverá lo conducente dentro de las veinticuatro horas siguientes.
 
 ###### ARTICULO 409.
 
 Si se negare la libertad caucional, podrá solicitarse de nuevo y concederse por causas supervenientes.
 
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 2011)</small>
+
 ###### ARTICULO 410.
 
-El monto de la caución se fijará por el Juez, quien tomará en consideración:
+El monto de la caución se fijará tomando en consideración los siguientes requisitos y elementos:
 
-I. Los antecedentes del inculpado y de la persona ofendida;
+I. Garantizar el monto estimado de la reparación del daño.
 
-II. La gravedad y circunstancias del delito imputado;
+Cuando se trate de delitos que afecten la vida o la integridad corporal, el monto de la reparación se determinará atendiendo a lo dispuesto por la Ley Federal del Trabajo. Para calcular la reparación que corresponda en aquéllos delitos que afecten la vida, se tomará como base el cuádruplo del salario mínimo diario vigente al momento de ocurridos los hechos y se multiplicará por el número de días que para el caso de indemnización por muerte establece dicha ley, además será considerado el importe de gastos funerarios;
 
-III. El mayor o menor interés que pueda tener el inculpado en substraerse a la acción de la justicia;
+II. Garantizar el monto estimado de las sanciones pecuniarias que, en su caso, puedan imponérsele;
 
-IV. Las condiciones económicas del inculpado, y
+III. Garantizar el cumplimiento de las obligaciones procesales que conforme a la ley se deriven a su cargo;
 
-V. La naturaleza de la garantía que se ofrezca.
+IV. Los antecedentes del inculpado y de la persona ofendida;
 
-En el caso de que el beneficiado no pudiera otorgar la garantía fijada, podrá solicitar la reducción de su monto por una sola y justificada ocasión.
+V. La gravedad y circunstancias del delito imputado;
+
+VI. El mayor o menor interés que pueda tener el inculpado en substraerse a la acción de la justicia;
+
+VII. Las condiciones económicas del inculpado, y
+
+VIII. La naturaleza de la garantía que se ofrezca.
 
 ###### ARTICULO 411.
 
@@ -3246,6 +3300,12 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 28 DE DICIEMBRE DE 2010.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 21 DE ENERO DE 2011.
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
