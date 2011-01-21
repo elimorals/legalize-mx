@@ -4,7 +4,7 @@ identifier: "PUE-constitucion-politica-del-estado-libre-y-soberano-de-puebla-751
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-02"
-last_updated: "2011-01-05"
+last_updated: "2011-01-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ENERO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ENERO DE 2011.
 
 Constitución publicada en el Periódico Oficial del Estado de Puebla, el martes 2 de octubre de 1917.
 
@@ -49,11 +49,11 @@ CONSTITUCION POLITICA DEL ESTADO L. y S. de Puebla
 
 El Estado de Puebla es una entidad jurídica y política, organizada conforme a los principios establecidos por la Constitución Política de los Estados Unidos Mexicanos en vigor.
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 2011)</small>
 
 ###### Artículo 2º.
 
-El Estado adopta para su régimen interior la forma de gobierno republicano, representativo y popular, teniendo como base de su organización política y administrativa el Municipio libre.
+El Estado adopta para su régimen interior, la forma de gobierno republicano, representativo, laico y popular, teniendo como base de su organización política y administrativa el Municipio Libre.
 
 > <small>(REFORMADO, P.O. 13 DE ABRIL DE 2009)</small>
 
@@ -459,7 +459,7 @@ II.- En los demás casos por cumplimiento de la pena, por haber finalizado el t�
 
 Las leyes determinarán a qué autoridad corresponde decretar la suspensión, pérdida o recuperación de los derechos del ciudadano, en qué términos y con qué requisitos ha de dictarse el fallo respectivo, y el tiempo que deba durar la suspensión.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE JUNIO DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE JUNIO DE 2009)</small>
 
 ### CAPITULO V. DE LA FAMILIA
 
@@ -471,7 +471,7 @@ El Estado reconoce a la Familia como una institución fundamental que constituye
 
 Se establece en el Estado la institución del patrimonio de familia o familiar. Las leyes determinarán los bienes que constituyan el patrimonio de la familia, bienes que serán inalienables, no podrán sujetarse a gravámenes reales, y podrán ser transmisibles a título de herencia con simplificación de las formalidades de los juicios sucesorios.
 
-Los Poderes Públicos garantizarán el desarrollo integral de la Familia, con sus derechos y obligaciones; atendiendo los contenidos en la Constitución Política de los Estados Unidos Mexicanos, los Tratados Convenciones, y demás Instrumentos Internacionales ratificados por el Estado Mexicano y los ordenamientos secundarios; al tenor de los siguientes principios:
+Los Poderes Públicos garantizarán el desarrollo integral de la Familia, con sus derechos y obligaciones; atendiendo los contenidos en la Constitución Política de los Estados Unidos Mexicanos, los Tratados, Convenciones y demás Instrumentos Internacionales ratificados por el Estado Mexicano y los ordenamientos secundarios; al tenor de los siguientes principios:
 
 I.- Su forma de organización;
 
@@ -1651,7 +1651,7 @@ El objeto de las Leyes en materia Municipal, será establecer:
 
 a) Las bases generales de la administración pública municipal y del procedimiento administrativo, incluyendo los medios de impugnación y los órganos para dirimir las controversias entre dicha administración y los particulares, con sujeción a los principios de igualdad, publicidad, audiencia y legalidad;
 
-b) Los casos en que se requiera el acuerdo de las dos terceras partes de los miembros de los Ayuntamientos para dictar resoluciones que afecten el patrimonio municipal o para celebrar actos o convenios que comprometan al Municipio por un plazo mayor al periodo del Ayuntamiento;
+b) Los casos en que se requiera el acuerdo de las dos terceras partes de los miembros de los Ayuntamientos para dictar resoluciones que afecten el patrimonio municipal o para celebrar actos o convenios que comprometan al Municipio por un plazo mayor al período del Ayuntamiento;
 
 c) Las normas de aplicación general para celebrar los convenios a que se refieren la fracción XVII del artículo 79 y la fracción II del artículo 104 de esta Constitución;
 
@@ -2684,6 +2684,12 @@ SÉPTIMO.- Se derogan todas las disposiciones que se opongan al presente Decreto
 OCTAVO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 5 DE ENERO DE 2011.
+
+PRIMERO.- El Honorable Congreso del Estado Libre y Soberano de Puebla, declara que estas reformas han sido aprobadas en términos de las disposiciones constitucionales aplicables y forman parte de la Constitución Política del Estado Libre y Soberano de Puebla.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE ENERO DE 2011.
 
 PRIMERO.- El Honorable Congreso del Estado Libre y Soberano de Puebla, declara que estas reformas han sido aprobadas en términos de las disposiciones constitucionales aplicables y forman parte de la Constitución Política del Estado Libre y Soberano de Puebla.
 
