@@ -4,7 +4,7 @@ identifier: "QUE-codigo-penal-para-el-estado-de-queretaro-32001"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-07-23"
-last_updated: "2009-12-07"
+last_updated: "2011-01-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32001&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "QUE"
 
 CODIGO PENAL PARA EL ESTADO DE QUERETARO
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO DE LA LEY PUBLICADA EN EL P.O. DE 7 DE DICIEMBRE DE 2009, SE RESTABLECE LA VIGENCIA DEL PRESENTE ORDENAMIENTO.</small>
-
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE DICIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE ENERO DE 2011.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el jueves 23 de julio de 1987
 
@@ -845,7 +843,7 @@ III.- Que durante el proceso no se haya sustraido a la acción judicial.
 
 IV.- Que la pena de prisión impuesta no exceda de cinco años;
 
-> <small>(ADICIONADA [N. DE E., REFORMADA], P.O. 19 DE DICIEMBRE DE 1996)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 19 DE DICIEMBRE DE 1996)</small>
 
 V.- Que haya pagado la reparación de los daños y perjuicios y la multa. En caso de que el sentenciado acredite a satisfacción del juzgador que no tiene recursos económicos para el pago de la multa, la ejecución de ésta podrá ser suspendida, en cuyo caso seguirá la misma suerte que la pena de prisión.
 
@@ -1003,6 +1001,8 @@ Cuando el inimputable sujeto a una medida de tratamiento se encontrare prófugo 
 
 ### CAPITULO II. LESIONES
 
+> <small>[N. DE E. DERIVADO DE LA PUBLICACION DEL CÓDIGO PENAL PARA EL ESTADO DE QUERÉTARO EL 1 DE ENERO DE 2010, EN EL QUE ÚNICAMENTE SE DIFUNDE SU CONTENIDO PARA CONOCIMIENTO DEL PUBLICO EN GENERAL, SE OBSERVA QUE LA FRACCIÓN VII REPETIDA CON EL CONTENIDO DE LA FRACCIÓN VI, (DESDE LA REFORMA DEL 1 DE NOVIEMBRE DE 1990), SE ENCUENTRA REGISTRADA EN ORDEN CORRECTO.]</small>
+
 #### SECCION PRIMERA. REGLAS GENERALES
 
 ###### ARTICULO 111.
@@ -1150,10 +1150,6 @@ V.- De dos a cuatro años de prisión si ponen en peligro la vida;
 > <small>(REFORMADA, P.O. 01 DE NOVIEMBRE DE 1990)</small>
 
 VI.- De dos a cinco años de prisión si producen la pérdida de cualquier función orgánica, miembro, órgano o facultad, o causan una enfermedad cierta o probablemente incurable o deformidad incorregible;
-
-> <small>(N. DE E., ESTA FRACCION SE REPITE CON EL CONTENIDO DE LA FRACCION VI BAJO EL NUMERAL VII)</small>
-
-VII.- De dos a cinco años de prisión si producen la pérdida de cualquier función orgánica, miembro, órgano o facultad, o causan una enfermedad cierta o probablemente incurable o deformidad incorregible;
 
 > <small>(REFORMADA, P.O. 01 DE NOVIEMBRE DE 1990)</small>
 
@@ -1707,7 +1703,9 @@ Se aumentarán hasta en una mitad las penas previstas en el Artículo anterior, 
 
 I.- Por medio de la violencia, la acechanza o cualquier otra circunstancia que disminuya las posibilidades de defensa de la víctima o de persona que la acompañe, o la ponga en condiciones de desventaja, o cuando se ejerza violencia para proporcionarse la fuga o defender lo robado.
 
-II.- Se verifique en paraje solitario, en lugar cerrado o en edificio, vivienda, aposento o cuarto que estén habitados o destinados para habitación, comprendiéndose en esta denominación no sólo los que estén fijos en la tierra, sino también los móviles, sea cual fuere la materia de que estén construidos;
+> <small>(REFORMADA, P.O. 21 DE ENERO DE 2011)</small>
+
+II. Se verifique en paraje solitario o en lugar cerrado;
 
 III.- Estando la víctima en un vehículo particular o de transporte público;
 
@@ -1738,6 +1736,10 @@ IV.- Traslade el o los vehículos robados fuera del territorio del estado; y
 V.- Utilice el o los vehículos robados en la comisión de otro u otros delitos.
 
 Si en los actos mencionados participa algún servidor público que tenga a su cargo funciones de prevención, persecución o sanción del delito, además de las sanciones a que se refiere este artículo, se le inhabilitará para desempeñar cualquier empleo, cargo o comisión públicos por un periodo igual a la pena de prisión impuesta.
+
+> <small>(ADICIONADA, P.O. 21 DE ENERO DE 2011)</small>
+
+ARTÍCULO 183 TER.- Se sancionará con pena de tres a quince años de prisión y. de 100 a 750 días multa, si el robo se realiza en edificio, vivienda, aposento o cuarto que estén habitados o destinados para habitación, comprendiéndose en esta denominación no sólo los que estén fijos en la tierra, sino también los móviles, sea cual fuere la materia de que estén construidos.
 
 ###### ARTICULO 184.
 
@@ -1871,7 +1873,9 @@ Es aplicable a lo dispuesto en esta fracción lo determinado en los párrafos se
 
 XVII.- Al que valiéndose del cargo que ocupe en el Gobierno, en una empresa descentralizada o de participación estatal, o en cualquier agrupación de carácter sindical o de sus relaciones con los funcionarios o dirigentes de dichos organismos, obtengan dinero, valores, dádivas, obsequios o cualquier otro beneficio, a cambio de prometer o proporcionar un trabajo, un ascenso o aumento de salario en tales organismos;
 
-XVIII.- (DEROGADA, P.O. 23 DE AGOSTO DE 2002)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE ENERO DE 2011)</small>
+
+XVIII.- Quién venda, haga efectivo o intercambie por algún otro bien, vales de papel o cualquier dispositivo electrónico en forma de tarjeta plástica, emitido por personas morales utilizados para canjear bienes o servicios con conocimiento de que son falsos;
 
 XIX.- Al que altere por cualquier medio los medidores de algún fluído o líquido o las indicaciones registradas en esos aparatos para aprovecharse indebidamente de ellos en perjuicio del consumidor;
 
@@ -2409,9 +2413,17 @@ I.- Produzca, imprima, enajene, distribuya, altere o falsifique, aún gratuitame
 
 II.- Altere, copie o reproduzca, indebidamente, los medios de identificación electrónica de boletos, contraseñas, fichas u otros documentos a que se refiere la fracción I de este artículo.
 
-III.- Acceda, obtenga, posea, utilice o detente indebidamente información de los equipos electromagnéticos o sistemas de cómputo de las organizaciones emisoras del os boletos, contraseñas, fichas u otros documentos a los que se refiere la fracción I de este artículo o de módem o cualquier medio de comunicación remota y los destine a alguno de los supuestos que comprende el presente artículo, y
+> <small>(REFORMADA, P.O. 21 DE ENERO DE 2011)</small>
 
-IV. Adquiera, utilice o detente equipos electromagnéticos, electrónicos o de comunicación remota para sustraer en forma indebida la información contenida en la cinta magnética de los boletos, contraseñas, fichas, tarjetas de crédito, tarjetas de débito u otros documentos a los que se refiere este artículo o de archivos de datos de las emisoras de los documentos.
+III. Acceda, obtenga, posea, utilice o detente indebidamente información de los equipos electromagnéticos o sistemas de cómputo de las organizaciones emisoras de los boletos, contraseñas, fichas u otros documentos a los que se refiere la fracción I de este artículo o de módem o cualquier medio de comunicación remota y los destine a alguno de los supuestos que contempla el presente artículo;
+
+> <small>(REFORMADA, P.O. 21 DE ENERO DE 2011)</small>
+
+IV. Adquiera, utilice o detente equipos electromagnéticos, electrónicos o de comunicación remota para sustraer en forma indebida la información contenida en la cinta magnética de los boletos, contraseñas, fichas, tarjetas de crédito, tarjetas de débito u otros documentos a los que se refiere este artículo o de archivos de datos de las emisoras de los documentos; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE ENERO DE 2011)</small>
+
+V. Produzca imprima, enajene, distribuya, altere o falsifique vales de papel o cualquier dispositivo electrónico en forma de tarjeta plástica, emitido por personas morales utilizados para canjear bienes y servicios.
 
 Las mismas penas se impondrán a quién utilice o revele indebidamente información confidencial o reservada de la persona física o jurídica que legalmente esté facultada para emitir los boletos, contraseñas, fichas u otros documentos a los que se refiere la fracción I de este artículo, con el propósito de obtener beneficio aunque no sea económico y no autorizadas por la persona emisora o bien, por los titulares de los boletos, contraseñas, fichas u otros documentos a los que se refiere este artículo.
 
@@ -3782,3 +3794,9 @@ Artículo Tercero. Quedan vigentes las disposiciones de carácter penal contenid
 Artículo Cuarto. El Código abrogado seguirá aplicándose para los hechos ocurridos durante su vigencia, a menos que, conforme al Código que comenzará a regir, hayan dejado de considerarse como delitos o les resulte más favorable.
 
 Artículo Quinto. Todas las disposiciones previstas en otros ordenamientos que hicieren mención al Código que se deja sin efectos, se entenderán hechas al Código que recobra vigencia, tanto en contenido como en la numeración respectiva.
+
+P.O. 21 DE ENERO DE 2011.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas aquellas disposiciones de igual o -menor jerarquía que se opongan a la presente Ley.
