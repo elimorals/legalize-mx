@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-del-registro-publico-de-la-propiedad-del-52339"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-11-24"
-last_updated: "2010-05-27"
+last_updated: "2011-01-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52339&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,9 @@ issue_date: "2006-11-08"
 
 REGLAMENTO DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 27 DE MAYO DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY REGISTRAL PARA EL DISTRITO FEDERAL, PUBLICADA EN LA G.O. DE 21 DE ENERO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: ABROGADO.
 
 Reglamento publicado en el Número Bis de la Gaceta Oficial del Distrito Federal, el viernes 24 de noviembre de 2006.
 
@@ -1239,3 +1241,25 @@ G.O. 27 DE MAYO DE 2010.
 PRIMERO. El presente decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO. Las disposiciones que obligan a la mención de la clave catastral del inmueble, entrarán en vigor a partir del 30 de junio del 2010.
+
+G.O. 21 DE ENERO DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Se abroga el Reglamento del Registro Público de la Propiedad del Distrito Federal publicado en la Gaceta Oficial del Distrito Federal el día 24 de noviembre de 2006 y todas las disposiciones y criterios registrales que se opongan a la presente Ley quedan derogadas.
+
+TERCERO.- El Reglamento correspondiente a la presente Ley deberá expedirse en un plazo de 90 días hábiles contados a partir de su publicación.
+
+CUARTO.- El proceso registral en curso, deberá ajustarse a las disposiciones del presente Decreto.
+
+QUINTO.- Los recursos en trámite a la entrada en vigor del presente Decreto, se acogerán a las disposiciones del mismo, en lo que beneficie al usuario del servicio registral.
+
+SEXTO.- Para el caso de errores en la migración, se estará a lo que dispone el Código y esta Ley, en tratándose de la corrección de errores materiales.
+
+SÉPTIMO.- Los documentos ingresados que obren en el registro, ya sea inscritos, suspendidos o denegados, con una antigüedad mayor a doce años, contados a partir de la publicación de la presente Ley que no hayan sido retirados por los interesados, deberán remitirse al Archivo General del Gobierno del Distrito Federal.
+
+OCTAVO.- Respecto de todos los libros o folios que se encuentren en custodia a la entrada en vigor del presente Decreto, deberá procederse en un plazo no mayor de 3 meses contados a partir de la presente publicación, como se establece en las disposiciones del capítulo séptimo, título cuarto de la presente Ley.
+
+NOVENO.- Una vez que se hayan dado a conocer y se utilicen los Formatos Electrónico (sic) Precodificados, el notario hará la presentación del instrumento en formato precodificado y copia certificada electrónica que presente directamente o por comunicación remota, según corresponda.
+
+DÉCIMO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
