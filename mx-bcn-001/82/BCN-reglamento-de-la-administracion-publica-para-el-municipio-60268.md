@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-la-administracion-publica-para-el-municipio-60268
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-02-22"
-last_updated: "2010-11-19"
+last_updated: "2011-01-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60268&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE LA ADMINISTRACION PUBLICA PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE NOVIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE ENERO DE 2011.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 22 de febrero de 2008.
 
@@ -383,9 +383,11 @@ Los titulares de las dependencias, departamentos y entidades coordinarán con el
 
 ### CAPITULO SEXTO. DEL NOMBRAMIENTO Y SUPLENCIA DE FUNCIONARIOS PÚBLICOS
 
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 21 DE ENERO DE 2011)</small>
+
 ###### ARTÍCULO 28.
 
-El nombramiento de los titulares de las dependencias y los diferentes órganos de la administración Publica Municipal corresponde al Presidente Municipal, salvo aquellos que el presente Reglamento en base a la Ley de Régimen Municipal para el Estado de Baja California, reserva al Ayuntamiento.
+El nombramiento de los titulares de las dependencias y los diferentes órganos de la administración Pública Municipal y los Delegados Municipales corresponde al Presidente Municipal, salvo aquellos que el presente Reglamento en base a la Ley de Régimen Municipal para el Estado de Baja California, reserva al Ayuntamiento.
 
 ###### ARTÍCULO 29.
 
@@ -2070,5 +2072,9 @@ ACUERDO QUE MODIFICA Y REFORMA LOS ARTICULOS 80, 84, 46 Y 56 BIS.
 EL ACUERDO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE FEDERAL.
 
 P.O. 19 DE NOVIEMBRE DE 2010.
+
+EL ACUERDO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE FEDERAL.
+
+P.O. 21 DE ENERO DE 2011.
 
 EL ACUERDO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE FEDERAL.
