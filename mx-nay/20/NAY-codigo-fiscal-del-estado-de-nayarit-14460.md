@@ -4,7 +4,7 @@ identifier: "NAY-codigo-fiscal-del-estado-de-nayarit-14460"
 country: "mx"
 rank: "codigo"
 publication_date: "1976-12-29"
-last_updated: "2007-12-15"
+last_updated: "2011-01-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14460&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "NAY"
 
 CODIGO FISCAL DEL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE DICIEMBRE DE 2007.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL CODIGO FISCAL DEL ESTADO DE NAYARIT, PUBLICADO EN EL P.O. DE FECHA 22 DE ENERO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el miércoles 29 de diciembre de 1976.
 
@@ -1580,3 +1582,21 @@ P.O. 15 DE DICIEMBRE DE 2007.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+P.O. 22 DE ENERO DE 2011
+
+###### ARTÍCULO PRIMERO
+
+El presente Código entrará en vigor al día siguiente de su publicación en el Periódico Oficial Órgano del Gobierno del Estado de Nayarit.
+
+###### ARTÍCULO SEGUNDO
+
+Se abroga el Código Fiscal del Estado y sus reformas, expedido y publicado el 29 de diciembre de 1976, en el Periódico Oficial Órgano del Gobierno del Estado de Nayarit y demás disposiciones fiscales que se opongan al presente Código.
+
+###### ARTÍCULO TERCERO
+
+A la entrada en vigor de este Código, no será aplicable lo dispuesto en el Título Tercero de la Ley de Justicia y Procedimientos Administrativos del Estado de Nayarit. Los procedimientos y recursos que se estén tramitando a la entrada en vigor de éste ordenamiento, se seguirán substanciando conforme a las disposiciones del Código anterior hasta su conclusión.
+
+###### ARTÍCULO CUARTO
+
+Para efectos de poner en vigor el uso de medios electrónicos, ópticos o de cualquier otra tecnología, así como de firma electrónica, documentos y sellos digitales, y a fin de que sea válida su utilización, se estará a lo que en su momento sea decretado por el Poder Ejecutivo del Estado.
