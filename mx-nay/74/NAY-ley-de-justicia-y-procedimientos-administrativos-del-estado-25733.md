@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-justicia-y-procedimientos-administrativos-del-estado-257
 country: "mx"
 rank: "ley"
 publication_date: "2002-08-17"
-last_updated: "2009-04-18"
+last_updated: "2011-01-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25733&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE ABRIL DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE ENERO DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Nayarit, el sábado 17 de agosto de 2002
 
@@ -307,6 +307,8 @@ III. En los plazos señalados en años o meses, y en los que se fije una fecha d
 
 IV. Los plazos señalados en horas, y los relativos al cumplimiento del acuerdo de suspensión del acto impugnado, se contarán de momento a momento.
 
+> <small>(N. DE E. DE CONFORMIDAD CON EL TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE NAYARIT, PUBLICADO EN EL P.O. DE FECHA 22 DE ENERO DE 2011, A LA ENTRADA EN VIGOR DEL CODIGO, NO SERA APLICABLE LO DISPUESTO EN ESTE TITULO TERCERO DE LA LEY)</small>
+
 ###### Artículo 33.
 
 Los procedimientos administrativos que deben seguirse por las dependencias del Poder Ejecutivo del estado, los municipios y los organismos descentralizados con funciones de autoridad de carácter estatal o municipal, se sujetarán a las disposiciones del presente título y del siguiente.
@@ -314,6 +316,8 @@ Los procedimientos administrativos que deben seguirse por las dependencias del P
 Las disposiciones sobre pruebas previstas en el Título Cuarto, serán aplicables a los procedimientos administrativos a que se refiere el párrafo anterior y las facultades del Tribunal se entenderán concedidas, en lo conducente, a las autoridades administrativas correspondientes.
 
 ## TÍTULO TERCERO. DEL PROCEDIMIENTO ADMINISTRATIVO
+
+> <small>(N. DE E. DE CONFORMIDAD CON EL TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE NAYARIT, PUBLICADO EN EL P.O. DE FECHA 22 DE ENERO DE 2011, A LA ENTRADA EN VIGOR DEL CODIGO, NO SERA APLICABLE LO DISPUESTO EN ESTE CAPITULO DEL TITULO TERCERO DE LA LEY)</small>
 
 ### CAPÍTULO PRIMERO. DE LAS DISPOSICIONES GENERALES
 
@@ -341,6 +345,8 @@ Los particulares podrán participar en el procedimiento administrativo con el ca
 
 Los particulares podrán autorizar para oír notificaciones en su nombre a cualquier persona con capacidad legal, quien queda facultada para ofrecer y rendir pruebas, presentar alegatos, recibir documentos y formular otras promociones en el procedimiento administrativo. Esta persona no podrá desistirse del procedimiento ni delegar sus facultades en terceros.
 
+> <small>(N. DE E. DE CONFORMIDAD CON EL TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE NAYARIT, PUBLICADO EN EL P.O. DE FECHA 22 DE ENERO DE 2011, A LA ENTRADA EN VIGOR DEL CODIGO, NO SERA APLICABLE LO DISPUESTO EN ESTE CAPITULO DEL TITULO TERCERO DE LA LEY)</small>
+
 ###### Artículo 40.
 
 El procedimiento administrativo podrá iniciarse de oficio por las autoridades administrativas o a petición de los particulares interesados.
@@ -356,6 +362,8 @@ Antes del acuerdo de iniciación del procedimiento, la autoridad podrá realizar
 Las peticiones de los particulares deberán hacerse por escrito de manera pacífica y respetuosa, en términos de lo establecido por el artículo 8o de la Constitución Política de los Estados Unidos Mexicanos.
 
 ### CAPÍTULO SEGUNDO. DEL PROCEDIMIENTO ADMINISTRATIVO ORDINARIO
+
+> <small>(N. DE E. DE CONFORMIDAD CON EL TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE NAYARIT, PUBLICADO EN EL P.O. DE FECHA 22 DE ENERO DE 2011, A LA ENTRADA EN VIGOR DEL CODIGO, NO SERA APLICABLE LO DISPUESTO EN ESTA SECCION DEL TITULO TERCERO DE LA LEY)</small>
 
 #### SECCIÓN PRIMERA. DE LA INICIACIÓN DEL PROCEDIMIENTO Y DE LAS PETICIONES
 
@@ -408,6 +416,8 @@ Cuando un escrito sea presentado ante una autoridad administrativa incompetente,
 ###### Artículo 48
 
 En el caso de que un servidor público tenga impedimento para conocer de algún asunto, hará la manifestación al superior jerárquico, para que califique de plano el impedimento y notifique al particular interesado. En el supuesto de que proceda, el superior jerárquico designará quien deba sustituir al servidor impedido.
+
+> <small>(N. DE E. DE CONFORMIDAD CON EL TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE NAYARIT, PUBLICADO EN EL P.O. DE FECHA 22 DE ENERO DE 2011, A LA ENTRADA EN VIGOR DEL CODIGO, NO SERA APLICABLE LO DISPUESTO EN ESTA SECCION DEL TITULO TERCERO DE LA LEY)</small>
 
 ###### Artículo 49.
 
@@ -501,6 +511,8 @@ En los casos de actos fiscales, decretos de expropiación, medidas de seguridad,
 
 Cuando sea necesario el desahogo de pruebas supervinientes con posterioridad a la celebración de la audiencia indicada en el artículo anterior, la autoridad administrativa fijará el día y hora para tal efecto, dentro de un plazo no mayor de los diez días siguientes a la fecha en que haya tenido verificativo la referida audiencia. Las pruebas supervinientes podrán presentarse hasta antes del dictado de la resolución.
 
+> <small>(N. DE E. DE CONFORMIDAD CON EL TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE NAYARIT, PUBLICADO EN EL P.O. DE FECHA 22 DE ENERO DE 2011, A LA ENTRADA EN VIGOR DEL CODIGO, NO SERA APLICABLE LO DISPUESTO EN ESTA SECCION DEL TITULO TERCERO DE LA LEY)</small>
+
 ###### Artículo 56.
 
 El procedimiento terminará por:
@@ -589,6 +601,8 @@ Tratándose de resoluciones desfavorables a los derechos e intereses legítimos 
 
 Los actos administrativos legalmente emitidos tienen fuerza ejecutiva de acuerdo con las disposiciones legales aplicables, debiendo ser ejecutados, salvo los casos en que se otorgue legalmente la suspensión.
 
+> <small>(N. DE E. DE CONFORMIDAD CON EL TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE NAYARIT, PUBLICADO EN EL P.O. DE FECHA 22 DE ENERO DE 2011, A LA ENTRADA EN VIGOR DEL CODIGO, NO SERA APLICABLE LO DISPUESTO EN ESTE CAPITULO DEL TITULO TERCERO DE LA LEY)</small>
+
 ###### Artículo 70.
 
 Las autoridades fiscales estatales y municipales exigirán el pago de los créditos fiscales que no hubieren sido cubiertos o garantizados dentro de los plazos señalados por la ley, mediante el procedimiento administrativo de ejecución, conforme a las normas de esta sección. En ningún caso se aplicará este procedimiento para el cobro de productos.
@@ -602,6 +616,8 @@ Cuando sea necesario emplear el procedimiento administrativo de ejecución para 
 Los gastos de ejecución, por cada una de las diligencias, no podrán ser menores al importe de un salario mínimo general vigente en el estado, ni exceder de la cantidad equivalente a dicho salario mínimo elevado al año.
 
 ### CAPÍTULO TERCERO. DE LOS PROCEDIMIENTOS ADMINISTRATIVOS ESPECIALES
+
+> <small>(N. DE E. DE CONFORMIDAD CON EL TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE NAYARIT, PUBLICADO EN EL P.O. DE FECHA 22 DE ENERO DE 2011, A LA ENTRADA EN VIGOR DEL CODIGO, NO SERA APLICABLE LO DISPUESTO EN ESTA SECCION DEL TITULO TERCERO DE LA LEY)</small>
 
 ###### Artículo 72
 
@@ -944,6 +960,8 @@ En caso de conflicto, el remanente se depositará en una institución de crédit
 Las garantías constituidas para asegurar el interés fiscal se harán efectivas por medio del procedimiento administrativo de ejecución.
 
 Cuando la garantía fuere dinero en efectivo depositado en la institución de crédito que corresponda, será declarada en definitiva la aplicación del depósito a favor del erario público y enterado su monto en la oficina ejecutora correspondiente.
+
+> <small>(N. DE E. DE CONFORMIDAD CON EL TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE NAYARIT, PUBLICADO EN EL P.O. DE FECHA 22 DE ENERO DE 2011, A LA ENTRADA EN VIGOR DEL CODIGO, NO SERA APLICABLE LO DISPUESTO EN ESTA SECCION DEL TITULO TERCERO DE LA LEY)</small>
 
 ###### Artículo 115.
 
@@ -2282,3 +2300,21 @@ P.O. 18 DE ABRIL DE 2009.
 Artículo Primero.- El presente decreto entrara en vigor a los 180 días naturales siguientes a la fecha de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
 
 Artículo Segundo.- En el plazo planteado en el artículo primero transitorio del presente Decreto, el Gobernador del Estado, el Tribunal de Justicia Administrativa y los Ayuntamientos, en el ámbito de sus respectivas competencias, deberán expedir los reglamentos y/o lineamientos necesarios para poner en funcionamiento los procedimientos de carácter electrónico y su reconocimiento, asignando competencias y facultades según corresponda, para lograr su mejor aplicación.
+
+P.O. 22 DE ENERO DE 2011.
+
+###### ARTÍCULO PRIMERO
+
+El presente Código entrará en vigor al día siguiente de su publicación en el Periódico Oficial Órgano del Gobierno del Estado de Nayarit.
+
+###### ARTÍCULO SEGUNDO
+
+Se abroga el Código Fiscal del Estado y sus reformas, expedido y publicado el 29 de diciembre de 1976, en el Periódico Oficial Órgano del Gobierno del Estado de Nayarit y demás disposiciones fiscales que se opongan al presente Código.
+
+###### ARTÍCULO TERCERO
+
+A la entrada en vigor de este Código, no será aplicable lo dispuesto en el Título Tercero de la Ley de Justicia y Procedimientos Administrativos del Estado de Nayarit. Los procedimientos y recursos que se estén tramitando a la entrada en vigor de éste ordenamiento, se seguirán substanciando conforme a las disposiciones del Código anterior hasta su conclusión.
+
+###### ARTICULO CUARTO.
+
+Para efectos de poner en vigor el uso de medios electrónicos, ópticos o de cualquier otra tecnología, así como de firma electrónica, documentos y sellos digitales, y a fin de que sea válida su utilización, se estará a lo que en su momento sea decretado por el Poder Ejecutivo del Estado.
