@@ -4,7 +4,7 @@ identifier: "COL-reglamento-del-gobierno-municipal-de-colima-colima-60961"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-04-12"
-last_updated: "2010-12-11"
+last_updated: "2011-01-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 REGLAMENTO DEL GOBIERNO MUNICIPAL DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ENERO DE 2011.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 12 de abril de 2008.
 
@@ -385,7 +385,7 @@ El público que asista a las sesiones de cabildo, deberá guardar compostura y s
 
 El Presidente Municipal estará facultado para ordenar el desalojo del recinto del cabildo, haciendo uso de la fuerza pública si resultase necesario.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 48.
 
@@ -423,7 +423,7 @@ XII.- Clausura de la sesión.
 
 El acta respectiva deberá levantarse por el Secretario del Ayuntamiento saliente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE DICIEMBRE DE 2010)</small>
 
 B.- La sesión en la que el Presidente Municipal rinda el informe anual de su gestión administrativa, deberá celebrarse en la primera quincena del mes de diciembre de cada año, con excepción del último año del periodo constitucional, en el cual el informe se rendirá en la segunda quincena del mes de septiembre; y en el acto se observará estrictamente el siguiente orden:
 
@@ -1089,21 +1089,29 @@ XV.- Atención a la Mujer.
 
 XVI.- Comisión de Fomento Económico y Empresarial.
 
-XVII.- Desarrollo Urbano, Ecología y Vivienda.
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2011)</small>
 
-XVIII.- Obras y Servicios Públicos.
+XVII.- Desarrollo Urbano y Vivienda.
 
-> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2011)</small>
 
-XIX.- Comisión del Sistema de Calidad y Usos de Tecnología de la Información.
+XVIII.- Protección al Ambiente y Desarrollo Sustentable.
 
-> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2011)</small>
 
-XX.- Comisión de Desarrollo Metropolitano.
+XIX.- Obras y Servicios Públicos.
 
-> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2011)</small>
 
-XXI.- Otras que determine el Cabildo.
+XX.- Comisión del Sistema de Calidad y Usos de Tecnología de la Información.
+
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2011)</small>
+
+XI.- Comisión de Desarrollo Metropolitano; y
+
+> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2011)</small>
+
+XXII.- Otras que determine el Cabildo.
 
 Los asuntos, disposiciones y acuerdos que no estén señalados expresamente para una comisión, quedarán al cuidado de la Comisión de Gobernación y Reglamentos la cual siempre será presidida por el Presidente Municipal.
 
@@ -1567,27 +1575,7 @@ XVI Dictaminar sobre los convenios en materia de desarrollo urbano que suscriba 
 
 XVII En general las que le confieran las leyes y las que se deriven de los acuerdos que emita el cabildo.
 
-B.- En materia de Ecología.
-
-I Fomentar la protección del ambiente ecológico en todo el Municipio.
-
-II Promover la conservación de las áreas verdes de la municipalidad, la reforestación de árboles y el cuidado de plantas ornamentales.
-
-III Vigilar el cumplimiento de la legislación federal, estatal y municipal en materia ecológica y forestal.
-
-IV Promover la creación y organización de viveros municipales para implementar el arreglo y reforestación de parques y jardines.
-
-V Coordinarse con las diferentes autoridades del ramo para el estudio, análisis y atención de asuntos en materia ecológica y forestal.
-
-VI Estudiar y proponer los sistemas anticontaminantes que se requieran dentro del Municipio, relacionados con el aire, agua y suelo.
-
-VII Coordinarse y coadyuvar con las autoridades federales y estatales competentes, para que éstas apliquen las sanciones que correspondan en casos de violación a las disposiciones en materia de ecología.
-
-VIII Obtener información sobre experiencias de saneamiento ambiental en otros estados y países, a efecto de analizar su posible aplicación en el Municipio.
-
-IX Revisar todos los estudios, planes y programas tendientes al mejoramiento ecológico municipal, con la finalidad de hacer las observaciones que se consideren pertinentes.
-
-X En general las que le confieran las leyes y las que se deriven de los acuerdos que emita el cabildo.
+B.- (DEROGADO, P.O. 22 DE ENERO DE 2011)
 
 C. En materia de Vivienda.
 
@@ -1600,6 +1588,38 @@ III Participar y coadyuvar en las políticas y programas de adquisición y mejor
 IV Vigilar los desarrollos progresivos para que cumplan estrictamente con la normatividad de la materia.
 
 V En general las que le confieran las leyes y las que se deriven de los acuerdos que emita el cabildo.
+
+> <small>(ADICIONADO, P.O. 22 DE ENERO DE 2011)</small>
+
+Artículo 123 BIS.- Son facultades y obligaciones de la Comisión de Protección al Ambiente y Desarrollo Sustentable:
+
+I Fomentar la protección del ambiente ecológico en todo el Municipio.
+
+II Promover la conservación de las áreas verdes de la municipalidad, la reforestación de árboles y el cuidado de plantas ornamentales.
+
+III Vigilar que las dependencias y organismos de la administración pública municipal cumplan las disposiciones de la legislación federal, estatal y municipal, en materia ecológica y forestal.
+
+IV Promover la creación y organización eje viveros municipales para implementar el arreglo y reforestación de parques y jardines.
+
+V Mantener coordinación con las diferentes autoridades del ramo para el estudio, análisis y atención de asuntos en materia ecológica y forestal.
+
+VI Estudiar y proponer los sistemas anticontaminantes que se requieran dentro del Municipio, relacionados con el aire, agua y suelo.
+
+VII Establecer coordinación y coadyuvar con las autoridades federales y estatales competentes, para que éstas apliquen las sanciones que correspondan en casos de violación a las disposiciones en materia de ecología.
+
+VIII Obtener información sobre experiencias de saneamiento ambiental en otros estados y países, a efecto de analizar su posible aplicación en el Municipio.
+
+IX Revisar todos los estudios, planes y programas tendientes al mejoramiento ecológico municipal, con la finalidad de hacer las observaciones que se consideren pertinentes.
+
+X Vigilar que los planes parciales y programas de desarrollo urbano se elaboren atendiendo los lineamientos, disposiciones y estrategias que se encuentren contenidos en los programas de ordenamiento ecológico y territorial del Estado y demás instrumentos que al efecto se expida.
+
+XI Verificar, en coordinación con la Comisión de Desarrollo Urbano y Vivienda, que los Programas Parciales de Urbanización cubran los porcentajes de áreas de cesión destinados a espacios verdes, de acuerdo a las leyes y reglamentos municipales de desarrollo urbano, así como evitar cualquier modificación o construcción que se pretenda hacer sobre las mismas.
+
+XII Realizar visitas periódicas a las áreas verdes dentro del Municipio, verificando el estado que guardan cada una de ellas;
+
+XIII Promover la realización de las obras y acciones necesarias para que se dote de infraestructura a las áreas verdes que sean propiedad del Municipio o se encuentren bajo su dominio; y
+
+XIV En general, las demás que le confieran las leyes y reglamentos, así como las que se deriven de los acuerdos que emita el Cabildo.
 
 ###### Artículo 124.
 
@@ -4685,7 +4705,7 @@ Será optativo para el particular interponer el recurso a que se refiere el art�
 
 ###### Artículo 316.
 
-El presente Titulo tiene por objeto establecer la organización y funcionamiento de las autoridades auxiliares del Municipio de Colima, regulando el procedimiento de elección, así como las atribuciones, funciones y responsabilidades de las mismas, en términos del último párrafo del artículo 88 de la Constitución Local y los artículos 60 y 61 de la Ley Municipal. Sus disposiciones son de orden público e interés social.
+El presente Título tiene por objeto establecer la organización y funcionamiento de las autoridades auxiliares del Municipio de Colima, regulando el procedimiento de elección, así como las atribuciones, funciones y responsabilidades de las mismas, en términos del último párrafo del artículo 88 de la Constitución Local y los artículos 60 y 61 de la Ley Municipal. Sus disposiciones son de orden público e interés social.
 
 ###### Artículo 317.
 
@@ -4733,7 +4753,7 @@ Para el auxilio de sus funciones, el Ayuntamiento establecerá Juntas y Comisar�
 
 I.- Junta Municipal, en las comunidades de Los Tepames y Lo de Villa.
 
-II.- Comisarías Municipales, en las comunidades de Las Guásimas, Los Ortices, Loma de Fátima, Puerta de Anzar, Astillero de Abajo, Astillero de Arriba, Las Golondrinas, Cardona, El Amarradero, Loma de Juárez, La Estancia, Tinajas, Estapilla, Las Tunas, Los Asmoles, Piscila, El Chanal, La Media Luna, La Capacha, El Bordo, Acatitán, Ignacio Allende, Ticuicitán, El Alpuyequito, Trapichillos Ejido y Trapichillos Poblado.
+II.- Comisarías Municipales, en las comunidades de Las Guásimas, Los Ortices, Loma de Fátima, Puerta de Ánzar, Astillero de Abajo, Astillero de Arriba, Las Golondrinas, Cardona, El Amarradero, Loma de Juárez, La Estancia, Tinajas, Estapilla, Las Tunas, Los Asmoles, Piscila, El Chanal, La Media Luna, La Capacha, El Bordo, Acatitán, Ignacio Allende, Ticuicitán, El Alpuyequito, Trapichillos Ejido y Trapichillos Poblado.
 
 ###### Artículo 325.
 
@@ -4867,7 +4887,7 @@ V. Las boletas de elección deberán contener necesariamente nombre completo de 
 
 VI. Las boletas de elección se entregarán a la mesa receptora, por la persona que el Secretario designe.
 
-VII. Los Electores votarán en el orden en que se presenten ante la mesa receptora debiendo exhibir su credencial para votar con fotografía y registrar su nombre y huella digital del dedo índice derecho. Se aplicarán supletoriamente los artículos 255, 256 y del 258 al 266 del Código Electoral para el Estado de Colima, respecto de las reglas para la emisión del sufragio, en lo que no se opongan al presente Titulo.
+VII. Los Electores votarán en el orden en que se presenten ante la mesa receptora debiendo exhibir su credencial para votar con fotografía y registrar su nombre y huella digital del dedo índice derecho. Se aplicarán supletoriamente los artículos 255, 256 y del 258 al 266 del Código Electoral para el Estado de Colima, respecto de las reglas para la emisión del sufragio, en lo que no se opongan al presente Título.
 
 VIII. En caso de tener alguna inconformidad con el desarrollo de la votación, los representantes de los candidatos lo asentarán mediante acta circunstanciada y firmada, la cual entregarán en original al Presidente de la mesa.
 
@@ -4983,7 +5003,7 @@ Dado en el Salón de Cabildos del Honorable Ayuntamiento de Colima, a los 4 día
 
 LIC. MARIO ANGUIANO MORENO, Presidente Municipal. Rúbrica.- LIC. JULIO CÉSAR MARÍN VELÁZQUEZ COTTIER, Secretario del Ayuntamiento. Rúbrica.- C.P. JOSÉ ANTONIO OROZCO SANDOVAL, Síndico Municipal. Rúbrica.- REGIDORES: PROFR. NICOLÁS CONTRERAS CORTES, Rúbrica.- C. GONZALO VERDUZCO GENIS, Rúbrica.- LIC. IGNACIA MOLINA VILLARREAL, Rúbrica. C.P. LEONOR DE LA MORA BEJAR, Rúbrica.- LIC. VÍCTOR JACOBO VÁZQUEZ CERDA, Rúbrica. JOSÉ VERDUZCO MORENO, Rúbrica.- LIC. MARGARITA PADILLA CAMBEROS, Rúbrica.- LIC. ELIA BEATRIZ CÁRDENAS W., Rúbrica.- LIC. PATRICIA LUGO BARRIGA, Rúbrica.- ARQ. MILTON DE ALVA GUTIÉRREZ, Rúbrica.- ING. ARMANDO GONZALEZ MANZO, Rúbrica.-
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 26 DE DICIEMBRE DE 2009.
 
@@ -5004,3 +5024,9 @@ P.O. 11 DE DICIEMBRE DE 2010.
 PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO.- El Presidente Municipal dispondrá se imprima, publique, circule y se le dé el debido cumplimiento, de acuerdo a lo dispuesto por el artículo 47, fracción I, incisos a) y f), de la Ley del Municipio Libre del Estado de Colima, y 140 del Reglamento del Gobierno del Municipio de Colima.
+
+P.O. 22 DE ENERO DE 2011.
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- El Presidente Municipal dispondrá se imprima, publique, circule y se le dé el debido cumplimiento, de acuerdo a lo dispuesto por el artículo 47, fracción I, incisos a) y f), de la Ley del Municipio Libre del Estado de Colima, y 140 del Reglamento del Gobierno Municipal de Colima.
