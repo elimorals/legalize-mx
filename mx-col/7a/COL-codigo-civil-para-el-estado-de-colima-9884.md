@@ -4,7 +4,7 @@ identifier: "COL-codigo-civil-para-el-estado-de-colima-9884"
 country: "mx"
 rank: "codigo"
 publication_date: "1954-09-25"
-last_updated: "2010-10-09"
+last_updated: "2011-01-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 NUEVO CODIGO CIVIL PARA EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE OCTUBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE ENERO DE 2011.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Colima, el 25 de septiembre de 1954.
 
@@ -1399,9 +1399,9 @@ ART. 167.- (DEROGADO, P.O. 14 DE JUNIO DE 1975)
 
 ART. 168.- El marido y la mujer tendrán en el hogar autoridad y consideraciones iguales; por lo tanto, resolverán de común acuerdo todo lo conducente al manejo del hogar, a la formación y educación de los hijos y a la administración de los bienes que a éstos pertenezcan. En caso de desacuerdo, el Juez de lo Civil resolverá lo conducente.
 
-> <small>(REFORMADO, P.O. 14 DE JUNIO DE 1975)</small>
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2011)</small>
 
-ART. 169.- Los cónyuges podrán desempeñar cualquier actividad excepto las que dañen la moral de la familia o la estructura de ésta. Cualquiera de ellos podrá oponerse a que el otro desempeñe la actividad de que se trate y el Juez de lo Civil, resolverá sobre la oposición.
+ART. 169.- Los cónyuges podrán desempeñar cualquier actividad, empleo, profesión, industria, comercio u oficio que elijan, para el sostenimiento económico de la familia, siempre y cuando sea lícito. En caso de oposición de alguno de los cónyuges, el Juez de lo Familiar resolverá considerando especialmente el interés superior de la infancia.
 
 ART. 170.- (DEROGADO, P.O. 14 DE JUNIO DE 1975)
 
@@ -11132,3 +11132,7 @@ TERCERO.- Los procedimientos de adopción que se encuentran en trámite a la ent
 P.O. 9 DE OCTUBRE DE 2010.
 
 UNICO.- El presente Decreto entrará en vigor el día de su aprobación y deberá publicarse en el Periódico Oficial "El Estado de Colima".
+
+P.O. 22 DE ENERO DE 2011.
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su aprobación y deberá publicarse en el Periódico Oficial "El Estado de Colima".
