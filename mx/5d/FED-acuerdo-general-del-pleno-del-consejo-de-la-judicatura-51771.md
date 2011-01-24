@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-51771"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-10-03"
-last_updated: "2009-08-12"
+last_updated: "2011-01-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51771&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2006-08-09"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE AGOSTO DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL, PUBLICADO EN EL D.O.F. DE 24 DE ENERO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el martes 3 de octubre de 2006.
 
@@ -1566,3 +1568,15 @@ PRIMERO. El presente acuerdo entrará en vigor el día de su publicación en el 
 SEGUNDO. Para su difusión, publíquese este acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial y su Gaceta, así como en los medios electrónicos de consulta pública.
 
 TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de esta reforma, al Acuerdo General del Pleno del Consejo de la Judicatura Federal, que Reglamenta los Procedimientos de Responsabilidad Administrativa y el Seguimiento de la Situación Patrimonial.
+
+D.O.F. 24 DE ENERO DE 2011.
+
+PRIMERO. El presente Acuerdo entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Acuerdo General del Pleno del Consejo de la Judicatura Federal, que Reglamenta los Procedimientos de Responsabilidad Administrativa y el Seguimiento de la Situación Patrimonial, publicado en el Diario Oficial de la Federación el tres de octubre de dos mil seis, así como las disposiciones que se opongan al Acuerdo.
+
+TERCERO. Las investigaciones y procedimientos de responsabilidad administrativa que se encuentren en trámite o pendientes de conclusión, se seguirán conforme al acuerdo anterior, salvo por las disposiciones que beneficien al servidor público establecidas en el Acuerdo.
+
+CUARTO. Los criterios emitidos con anterioridad a la vigencia del acuerdo, podrán aplicarse tanto en los asuntos ya iniciados y en los que se instauren con posterioridad; para su interrupción o modificación deberán observarse las reglas establecidas en aquél.
+
+QUINTO. Publíquese en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
