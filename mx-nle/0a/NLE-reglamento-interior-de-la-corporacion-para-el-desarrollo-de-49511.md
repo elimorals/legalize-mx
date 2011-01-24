@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-de-la-corporacion-para-el-desarrollo-de-495
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-02-22"
-last_updated: "2007-10-19"
+last_updated: "2011-01-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49511&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO INTERIOR DE LA CORPORACION PARA EL DESARROLLO DE LA ZONA FRONTERIZA DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE OCTUBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE ENERO DE 2011.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 22 de febrero de 2006.
 
@@ -67,25 +67,39 @@ Para el ejercicio de sus atribuciones, funciones y despacho de los asuntos de su
 
 I. Dirección General.
 
-> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2011)</small>
 
-a. Dirección de Desarrollo de Proyectos.
+a. Dirección Adjunta.
 
-b. Dirección Jurídica.
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2011)</small>
 
-> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2007)</small>
+b. Coordinación General de Desarrollo de Proyectos.
 
-c. Dirección de Administración y Finanzas.
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2011)</small>
 
-> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2007)</small>
+c. Coordinación General Jurídica.
 
-d. Director de Operaciones, Logística y Promoción.
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2011)</small>
+
+d. Coordinación General de Administración y Finanzas.
+
+> <small>(ADICIONADO, P.O. 24 DE ENERO DE 2011)</small>
+
+e. Coordinación General de Operaciones Portuarias.
+
+> <small>(ADICIONADO, P.O. 24 DE ENERO DE 2011)</small>
+
+f. Coordinación General de Promoción, y
+
+> <small>(ADICIONADO, P.O. 24 DE ENERO DE 2011)</small>
+
+g. Secretaría Técnica.
 
 II. Las demás unidades y personal administrativo, operativo y técnico que sean creadas por acuerdo de la Junta de Gobierno.
 
-> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2011)</small>
 
-Las Direcciones dependerán jerárquicamente de la Dirección General y estarán integradas por las unidades previstas en la estructura administrativa y operativa que al efecto apruebe la Junta de Gobierno con las atribuciones que le sean determinadas en los manuales de organización y de servicios, así como los procedimientos que se expidan y realizarán sus funciones a través del personal que se requiera para satisfacer las necesidades del servicio público.
+La Dirección Adjunta, Coordinaciones Generales y Secretaría Técnica dependerán jerárquicamente de la Dirección General y estarán integradas por las unidades previstas en la estructura administrativa y operativa que al efecto apruebe la Junta de Gobierno, con las atribuciones que le sean determinadas en los manuales de organización y de servicios, así como de procedimientos que se expidan y realizarán sus funciones a través del personal que se requiera para satisfacer las necesidades del servicio público.
 
 ###### Artículo 4.
 
@@ -97,11 +111,11 @@ Los servidores públicos pertenecientes a la estructura administrativa y operati
 
 El Director General de la Corporación, contará con las atribuciones señaladas en el artículo 20 de la Ley.
 
-> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2011)</small>
 
 ###### Artículo 6.
 
-El Director General podrá para el debido cumplimiento de sus funciones, conferir sus facultades delegables a los servidores públicos que integran las Direcciones que le Auxilien.
+El Director General podrá para el debido cumplimiento de sus funciones, conferir sus facultades delegables a los servidores públicos que integran la Dirección Adjunta, Coordinaciones Generales y/o Secretaría Técnica que le auxilien.
 
 ###### Artículo 7.
 
@@ -111,13 +125,15 @@ Para la delegación de las atribuciones que le corresponden, el Director General
 
 Son atribuciones indelegables del Director General, las señaladas en las fracciones I, III, V, XI, XII, XIII, XIV, XV, XVI, XVII, XIX y XX del artículo 20 de la Ley.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 19 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 24 DE ENERO DE 2011)</small>
 
-### CAPÍTULO IV. DE LAS DIRECCIONES
+### CAPÍTULO IV. DE LA DIRECCIÓN ADJUNTA, COORDINACIONES GENERALES Y SECRETARÍA TÉCNICA
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE ENERO DE 2011)</small>
 
 ###### Artículo 9.
 
-Son funciones comunes para los titulares de las Direcciones, las siguientes:
+Son funciones comunes para los titulares de la Dirección Adjunta, Coordinaciones Generales y Secretaría Técnica las siguientes:
 
 I. Acordar con el Director General y realizar el despacho de los asuntos inherentes de las unidades administrativas adscritas a su cargo y responsabilidad, e informarle oportunamente sobre los mismos;
 
@@ -135,11 +151,33 @@ VII. Asignar funciones y responsabilidades al personal a su cargo, conforme a la
 
 VIII. Las demás que les confieran las disposiciones legales aplicables y el Director General, en la esfera de sus atribuciones.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE OCTUBRE DE 2007)</small>
+> <small>(ADICIONADO, P.O. 24 DE ENERO DE 2011)</small>
+
+###### Artículo 9 Bis.
+
+Además de lo señalado en el artículo anterior, corresponde a la Dirección Adjunta:
+
+I. Acordar con el Director General y realizar el despacho de los asuntos que competan a las unidades administrativas adscritas a su cargo y responsabilidad, e informarle oportunamente sobre los mismos;
+
+II. Cumplir con las normas contenidas en la Ley, en los demás ordenamientos aplicables, así como en las políticas y acuerdos emanados de la Junta de Gobierno y con las instrucciones dadas por el Director General;
+
+III. Previo acuerdo con el Director General, ejecutar y operar las políticas y acciones para el exacto cumplimiento del objeto de la Corporación;
+
+IV. Sugerir al Director General las medidas que permitan la consecución oportuna de los objetivos y metas de los programas de la Corporación;
+
+V. Supervisar y coordinar la realización de los programas de la Corporación y de las acciones necesarias para su buen funcionamiento que le sean encomendadas por el Director General;
+
+VI. A través de las Coordinaciones Generales, dar seguimiento a las actividades y acciones propuestas a la Junta de Gobierno por la Dirección General;
+
+VII. Promover y coordinar en acuerdo con el Director General los apoyos económicos para el fomento y desarrollo de las actividades de Codefront, y
+
+VIII. Las demás que le confieran las disposiciones legales aplicables y el Director General, en la esfera de sus atribuciones.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE ENERO DE 2011)</small>
 
 ###### Artículo 10.
 
-Además de lo señalado en el artículo anterior corresponde a la Dirección de Desarrollo De Proyectos:
+Además de lo señalado en el artículo 9 del presente Reglamento, corresponde a la Coordinación General de Desarrollo de Proyectos:
 
 I. Elaborar y proponer políticas de planeación de la Corporación, atendiendo a las demás áreas que integran la estructura de la misma, en materia de planeación estratégica;
 
@@ -151,13 +189,21 @@ IV. Planear y realizar las acciones necesarias para la contratación y, en su ca
 
 V. Llevar a cabo los procesos de concursos y licitaciones de obra pública, cuidando que estén apegados a la legislación vigente estatal y federal, según sea el caso;
 
-VI. Proponer, dentro del ámbito de su competencia y ante las instancias gubernamentales del Estado y el Municipio de Anáhuac, Nuevo León, la elaboración y observancia de programas para el ordenamiento urbano de la población de Colombia, Nuevo León, y
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2011)</small>
 
-VII. Las demás que le confieran las disposiciones legales aplicables y el Director General, en la esfera de sus atribuciones.
+VI. Proponer, dentro del ámbito de su competencia y ante las instancias gubernamentales del Estado y el Municipio de Anáhuac, Nuevo León, la elaboración y observancia de programas para el ordenamiento urbano de la población de Colombia, Nuevo León;
+
+> <small>(ADICIONADA, P.O. 24 DE ENERO DE 2011)</small>
+
+VII. Llevar el control y seguimiento sistemático de los planes y programas de la Corporación, y
+
+VIII. Las demás que le confieran las disposiciones legales aplicables y el Director General, en la esfera de sus atribuciones.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE ENERO DE 2011)</small>
 
 ###### Artículo 11.
 
-Además de lo señalado en el artículo 9 anterior, corresponde a la Dirección Jurídica:
+Además de lo señalado en el artículo 9 del presente Reglamento, corresponde a la Coordinación General Jurídica:
 
 I. Diseñar y proponer la estrategia juridica para respaldar legalmente los asuntos de la Corporación;
 
@@ -171,15 +217,21 @@ V. Asesorar respecto de las bases legales a que se deberán sujetar los procedim
 
 VI. Coadyuvar con el Director General en la tramitación de los procedimientos de responsabilidad administrativa en los términos de la legislación aplicable;
 
-VII. Representar y defender legalmente el patrimonio de la Corporación, conforme a las facultades que en su caso le confiera el Director General, y
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2011)</small>
 
-VIII. Las demás que le confieran las disposiciones legales aplicables y el Director General, en la esfera de sus atribuciones.
+VII. Representar legalmente al patrimonio de la Corporación, conforme a las facultades que en su caso le confiera el Director General;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2011)</small>
+
+VIII. Propiciar el seguimiento y cumplimiento por parte de las Coordinaciones Generales, de todos los contratos y convenios celebrados por la Corporación que les correspondan, y
+
+IX. Las demás que le confieran las disposiciones legales aplicables y el Director General, en la esfera de sus atribuciones.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE ENERO DE 2011)</small>
 
 ###### Artículo 12.
 
-Corresponde a la Dirección de Administración y Finanzas:
+Corresponde a la Coordinación General de Administración y Finanzas:
 
 I. Llevar a cabo las funciones de contabilidad, ingresos, egresos, patrimonio, adquisiciones y recursos humanos, asegurando que se ejerzan bajo el marco jurídico y normativo establecido, así como su debido cumplimiento;
 
@@ -201,11 +253,11 @@ IX. Vigilar el cumplimiento de las obligaciones de previsión y seguridad social
 
 X. Las demás que le confieran las disposiciones legales aplicables y el Director General, en la esfera de sus atribuciones.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE ENERO DE 2011)</small>
 
 ###### Artículo 13.
 
-Corresponde a la Dirección de Operaciones, Logística y Promoción:
+Corresponde a la Coordinación General de Operaciones Portuarias:
 
 I. Planear, organizar, dirigir, controlar y agilizar todas las actividades operativas de la Corporación en el Centro de Facilidades al Comercio Internacional (CEFACIL);
 
@@ -217,17 +269,65 @@ IV. Vigilar la correcta aplicación de los recursos que le sean asignados para e
 
 V. Gestionar con la Administración de la Aduana de Colombia, Anáhuac, Nuevo León, en lo que proceda, las facilidades necesarias para el mejor desempeño de las actividades de los usuarios del CEFACIL;
 
-VI. Promover el aprovechamiento de las instalaciones del CEFACIL ante los representantes de empresas y agencias aduanales que operen o pretendan operar a través del Puente Internacional Solidaridad;
+VI. (DEROGADA, P.O. 24 DE ENERO DE 2011)
 
 VII. Vigilar y supervisar el correcto uso de los inmuebles propiedad de la Corporación otorgados en arrendamiento o por cualquier otro título jurídico;
 
-> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2011)</small>
 
-VIII. Coadyuvar con la Dirección de Administración y Finanzas, a efecto de llevar el control administrativo de las oficinas y personal de la Corporación en el CEFACIL;
+VIII. Coadyuvar con la Coordinación General de Administración y Finanzas, a efecto de llevar el control administrativo de las oficinas y personal de la Corporación en el CEFACIL;
 
 IX. Informar al Director General de los ingresos generados por los servicios que presta la Corporación en el CEFACIL, y
 
 X. Las demás que le confiera las disposiciones legales aplicables y el Director General, en la esfera de sus atribuciones.
+
+> <small>(ADICIONADO, P.O. 24 DE ENERO DE 2011)</small>
+
+###### Artículo 13 Bis.
+
+Además de lo señalado en el artículo 9 del presente Reglamento, corresponde a la Coordinación General de Promoción:
+
+I. Promover el aprovechamiento de las instalaciones del CEFACIL ante los representantes de empresas y agencias aduanales que operen o pretenden operar a través del Puente Internacional Solidaridad;
+
+II. Coordinar y dirigir campañas de difusión enfocadas a promocionar el Puerto Fronterizo Colombia;
+
+III. Coordinar la elaboración de estudios de mercado enfocados al uso de las instalaciones del CEFACIL;
+
+IV. Participar y organizar ferias y exposiciones enfocadas al Comercio Internacional y a la promoción y publicidad del Puerto Fronterizo Colombia;
+
+V. Proponer al Director General las estrategias de promoción y publicidad de la Corporación y Puerto Fronterizo Colombia que estime convenientes;
+
+VI. Coordinar, organizar, dirigir y controlar las campañas de promoción y publicidad que lleve a cabo la Corporación;
+
+VII. Promover y analizar con la Dirección General el establecimiento de empresas y negocios relacionados con el comercio internacional en el Puerto Fronterizo de Colombia, y en general de la Zona Fronteriza de Nuevo León, y
+
+VIII. Las demás que le confiera (sic) las disposiciones legales aplicables y el Director General, en esfera de sus atribuciones.
+
+> <small>(ADICIONADO, P.O. 24 DE ENERO DE 2011)</small>
+
+###### Artículo 13 Bis 1.
+
+Además de lo señalado en el artículo 9 del presente Reglamento, corresponde a la Secretaría Técnica:
+
+I. Acordar con el Director General el despacho de los asuntos encomendados a su responsabilidad e informarle oportunamente sobre la atención de los mismos;
+
+II. Coordinar y supervisar el desarrollo e implementación del sistema de evaluación y seguimiento de programas de la Corporación;
+
+III. Dirigir e implementar el sistema de calidad total y mejora continua de la Corporación;
+
+IV. Atender oportunamente los asuntos, acciones y reportes de trabajo correspondientes a los enlaces interinstitucionales en los que participe la Corporación;
+
+V. Coordinar la elaboración de los informes que corresponda presentar a la Corporación como seguimiento del Plan Estatal de Desarrollo y de los programas que de él deriven;
+
+VI. Obtener y elaborar informes estadísticos referentes a las operaciones de la Corporación y al Comercio Exterior del País;
+
+VII. Elaborar los informes que requiera el Director General sobre la Corporación;
+
+VIII. Desempeñar las funciones y comisiones que el Director General le delegue manteniéndolo informado sobre el desarrollo de sus actividades;
+
+IX. Participar en el ámbito de su competencia y previo acuerdo del Director General, en las comisiones, juntas, consejos y comités que le señalen, manteniéndolo informado sobre el desarrollo de sus actividades, y
+
+X. Las demás que le confiera (sic) las disposiciones legales aplicables y el Director General, en la esfera de sus atribuciones.
 
 ### CAPÍTULO V. DE LA SUPLENCIA DE LOS TITULARES
 
@@ -235,9 +335,11 @@ X. Las demás que le confiera las disposiciones legales aplicables y el Director
 
 Las ausencias temporales del Director General de la Corporación, serán suplidas por el Director que él designe. Cuando la ausencia sea mayor a quince días, el Gobernador del Estado designará al servidor público que lo suplirá.
 
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2011)</small>
+
 ###### Artículo 15.
 
-Las ausencias temporales de los titulares de las direcciones señaladas en el presente Reglamento Interior, serán suplidas por el servidor público que designe el Director General.
+Las ausencias temporales de los titulares de la Dirección Adjunta, las Coordinaciones Generales y la Secretaría Técnica señaladas en el presente reglamento interior, serán suplidas por el servidor público que designe el Director General.
 
 ## TRANSITORIO
 
@@ -264,3 +366,7 @@ LIC. ARTURO GARCÍA ESPINOSA
 P.O. 19 DE OCTUBRE DE 2007.
 
 EL ACUERDO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEON.
+
+P.O. 24 DE ENERO DE 2011.
+
+ÚNICO.- Las presentes Modificaciones al Reglamento Interior de la Corporación para el Desarrollo de la Zona Fronteriza de Nuevo León, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
