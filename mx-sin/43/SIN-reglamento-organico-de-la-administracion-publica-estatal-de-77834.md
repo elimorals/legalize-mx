@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-organico-de-la-administracion-publica-estatal-de-778
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-01-05"
-last_updated: "2011-01-05"
+last_updated: "2011-01-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77834&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 REGLAMENTO ORGANICO DE LA ADMINISTRACION PUBLICA ESTATAL DE SINALOA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE ENERO DE 2011.
 
 Reglamento publicado en el Periódico Oficial del Estado de Sinaloa, el miércoles 5 de enero de 2011.
 
@@ -71,9 +71,11 @@ VI. Presupuesto de Egresos: Ley de Ingresos y Presupuesto de Egresos del Estado.
 
 En los términos de lo dispuesto por el artículo 66 de la Constitución, cuando en este reglamento se haga referencia a la administración pública, se entenderá hecho a la administración pública estatal y paraestatal.
 
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2011)</small>
+
 ###### Artículo 5°.
 
-Los Tribunales, de lo Contencioso Administrativo y Local de Conciliación y Arbitraje, se regirán por la legislación correspondiente, contando con el apoyo administrativo del Poder Ejecutivo del Estado para el ejercicio de sus funciones.
+Los Tribunales, de lo Contencioso Administrativo y Local de Conciliación y Arbitraje, se regirán por la legislación correspondiente.
 
 ###### Artículo 6°.
 
@@ -701,7 +703,9 @@ A la Secretaría de Desarrollo Urbano y Obras Públicas, le corresponde el despa
 
 I. Formular y conducir las políticas en materia de obras públicas de acuerdo a las necesidades del estado;
 
-II. Realizar directamente, o a través de terceros, todas las obras públicas del Gobierno del Estado, conforme a los programas y presupuestos aprobados, por dichas dependencias y organismos, incluyendo su conservación y mantenimiento;
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2011)</small>
+
+II. Realizar directamente, o a través de terceros, todas las obras públicas del Gobierno del Estado, conforme a los programas y presupuestos aprobados, por dichas dependencias y organismos, incluyendo su conservación y mantenimiento, con excepción de las correspondientes al programa general de obra en infraestructura educativa, incluyendo los subprogramas básico, emergente y el del Programa para Abatir el Rezago en la Educación Inicial y Básica, las cuales serán realizadas por el Instituto Sinaloense de la Infraestructura Física Educativa (ISIFE);
 
 III. Elaborar directamente o a través de terceros, los proyectos de ingeniería y arquitectónicos que se requieran para las obras públicas de las dependencias y organismos del Gobierno del Estado, incluyendo el cálculo de costos de dichos proyectos, para efectos de aprobación y ejercicio del presupuesto;
 
@@ -1053,7 +1057,13 @@ IV. La Coordinación General de Asesoría;
 
 V. La Representación del Gobierno del Estado en el Distrito Federal; y,
 
-VI. Las demás que establezcan las leyes, decretos y las que cree el ejecutivo estatal.
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2011)</small>
+
+VI. La Coordinación General de Proyectos Estratégicos; y,
+
+> <small>(ADICIONADA, P.O. 24 DE ENERO DE 2011)</small>
+
+VII. Las demás que establezcan las leyes, decretos y las que cree el ejecutivo estatal.
 
 ### CAPÍTULO II. DE LA SECRETARÍA PARTICULAR DEL GOBERNADOR DEL ESTADO
 
@@ -1097,7 +1107,9 @@ VI. Realizar la supervisión, inspección y vigilancia de los sistemas, operacio
 
 VII. Vigilar y supervisar que las dependencias de la administración pública, cumplan con las normas y disposiciones en materia de sistemas de registro y contabilidad, contratación y pago de personal, contratación de servicios, obras públicas, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles, acervos o archivos documentales, almacenes y demás activos y recursos materiales con que cuenten las dependencias y organismos de la administración pública;
 
-VIII. Fijar los lineamientos y políticas que orienten la colaboración y acciones que, conforme a las leyes y demás disposiciones aplicables, deba prestar la secretaría a la Auditoría Superior del Estado y a la Auditoría Superior de la Federación, para el mejor cumplimiento de sus respectivas responsabilidades;
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2011)</small>
+
+VIII. Fijar los lineamientos y políticas que orienten la colaboración y acciones que, conforme a las leyes y demás disposiciones aplicables, deba prestar la Unidad de Transparencia y Rendición de Cuentas a la Auditoría Superior del Estado y a la Auditoría Superior de la Federación, para el mejor cumplimiento de sus respectivas responsabilidades;
 
 IX. Llevar a cabo la evaluación sistemática del ejercicio de los recursos propiedad del estado y de aquellos que por cualquier concepto tenga bajo su responsabilidad;
 
@@ -1245,9 +1257,69 @@ XIV. Las demás que le atribuyan las leyes, reglamentos y acuerdos o que expresa
 
 Al titular de esta entidad administrativa se le denominará Coordinador General de Comunicación Social. Para el despacho de los asuntos de su competencia se auxiliará de los servidores públicos que establezca su reglamento interior o que determine el presupuesto de egresos.
 
-### CAPÍTULO VI. DISPOSICIONES COMUNES A LAS ENTIDADES ADMINISTRATIVAS QUE DEPENDEN DEL EJECUTIVO
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 24 DE ENERO DE 2011)</small>
 
-### CAPÍTULO ÚNICO. DE LA JUNTA LOCAL DE CONCILIACIÓN Y ARBITRAJE DEL ESTADO
+### CAPÍTULO V BIS. DE LA COORDINACIÓN GENERAL DE PROYECTOS ESTRATÉGICOS
+
+> <small>(ADICIONADO, P.O. 24 DE ENERO DE 2011)</small>
+
+###### Artículo 56 Bis.
+
+A la Coordinación General de Proyectos Estratégicos le corresponde el despacho de los siguientes asuntos:
+
+I. Auxiliar al Titular del Poder Ejecutivo del Estado en la coordinación funcional, elaboración, planeación, seguimiento, evaluación y, en su caso, administración de programas y proyectos estratégicos que permitan el crecimiento y desarrollo del Estado en sus diversos aspectos; es facultad del Titular del Ejecutivo designar a quien corresponda la operación ejecutora, específica e individual de cada programa y proyecto estratégico que funcionalmente esté a cargo de la Coordinación General de Proyectos Estratégicos;
+
+II. Promover, gestionar y ejecutar las acciones necesarias para la implementación y conducción de proyectos estratégicos que se desarrollen o tiendan a desarrollarse en el Estado y le sean determinados por el Titular del Poder Ejecutivo Estatal;
+
+III. Realizar ante las autoridades de los distintos órdenes de gobierno, las gestiones necesarias para el inicio, ejecución o conclusión de acciones complementarias de los proyectos encomendados por el Titular del Poder Ejecutivo Estatal;
+
+IV. Coordinar la planeación, diseño, impulso, integración, seguimiento y, en su caso, la administración de los programas y proyectos estratégicos que funcionalmente le corresponda coordinar;
+
+V. Gestionar y promover alternativas de financiamiento ante instituciones y organismos, nacionales e internacionales, públicos o privados, así como para la promoción e instrumentación de alternativas de inversión para la realización de los proyectos estratégicos;
+
+VI. Dar seguimiento a los acuerdos que establezcan las secretarías y entidades señaladas en los artículos 15 y 48 de este Reglamento, respecto a los proyectos que sean de su competencia;
+
+VII. Dar puntual seguimiento a los acuerdos, compromisos y, en general, a todos los asuntos relacionados con los proyectos que estén bajo su coordinación funcional;
+
+VIII. Solicitar a las dependencias y entidades del ámbito federal, estatal y municipal, el apoyo e información que requiera para el análisis y seguimiento de las acciones a realizar en los proyectos bajo su coordinación funcional;
+
+IX. Coordinar los fideicomisos y demás organismos que se creen para apoyar la realización de programas y proyectos estratégicos que le determine el Titular del Poder Ejecutivo;
+
+X. Proporcionar asesoría técnica al Titular del Poder Ejecutivo Estatal en todos aquellos asuntos que éste le encomiende;
+
+XI. Ejercer los poderes y facultades en la forma y término que le otorgue y determine el Titular del Ejecutivo y en su caso, delegarlos en los términos de los poderes conferidos; y,
+
+XII. Las demás que le atribuyan expresamente las leyes y reglamentos, y las que le encomiende el Titular del Poder Ejecutivo del Estado.
+
+> <small>(ADICIONADO, P.O. 24 DE ENERO DE 2011)</small>
+
+Artículo 56 Bis A.- Al titular de esta entidad administrativa se le denominará Coordinador General de Proyectos Estratégicos. Para el despacho de los asuntos de su competencia, se auxiliará del personal técnico especializado y administrativo que señale su reglamento interior o que determine el presupuesto de egresos.
+
+> <small>(ADICIONADO, P.O. 24 DE ENERO DE 2011)</small>
+
+Artículo 56 Bis B.- Las dependencias, entidades y organismos de la Administración Pública Estatal y Paraestatal, en el ámbito de sus respectivas competencias, deberán otorgar a la Coordinación General de Proyectos Estratégicos, la información y apoyo que les requiera para el cumplimiento de sus funciones. De existir controversia respecto a lo dispuesto en este párrafo, el Titular del Ejecutivo Estatal resolverá en definitiva en los términos de los artículos 11 y 12 de este Reglamento.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 24 DE ENERO DE 2011)</small>
+
+### CAPÍTULO V BIS A. DE LA REPRESENTACIÓN DEL GOBIERNO DEL ESTADO DE SINALOA EN EL DISTRITO FEDERAL
+
+> <small>(ADICIONADO, P.O. 24 DE ENERO DE 2011)</small>
+
+Artículo 56 BIS C.- A la Representación del Gobierno del Estado de Sinaloa en el Distrito Federal, le corresponde el despacho de los siguientes asuntos:
+
+I. Representar al titular de la administración pública estatal en el Distrito Federal;
+
+II. Llevar a cabo todos los procedimientos, gestiones, trámites y actos derivados de sus funciones ante los poderes de la federación, los de los demás Estados, incluyendo la obtención de información general y datos específicos;
+
+III. Intervenir, previo acuerdo del Gobernador del Estado, en lo relacionado con acuerdos y convenios con la federación y otras entidades y prestar a las dependencias relativas la asesoría que al efecto requieran sobre la materia; y,
+
+IV. Los demás que se deriven de las leyes y reglamentos aplicables o que le encomiende el Gobernador del Estado.
+
+> <small>(ADICIONADO, P.O. 24 DE ENERO DE 2011)</small>
+
+Artículo 56 BIS D.- Al titular de esta entidad administrativa se le denominará Representante del Gobierno del Estado de Sinaloa en el Distrito Federal. Para el despacho de los asuntos de su competencia se auxiliará de los servidores públicos que establezca su reglamento interior o que determine el presupuesto de egresos.
+
+### CAPÍTULO VI. DISPOSICIONES COMUNES A LAS ENTIDADES ADMINISTRATIVAS QUE DEPENDEN DEL EJECUTIVO
 
 ###### Artículo 57.
 
@@ -1275,9 +1347,13 @@ Son aplicables a las entidades administrativas a que se refieren los capítulos 
 
 Para resolver los conflictos que se presentaren en las relaciones laborales entre el estado y sus trabajadores, entre los patrones y sus trabajadores, o bien, las controversias que se susciten entre las autoridades del estado y los particulares, existirán un tribunal de arbitraje, una Junta Local de Conciliación y Arbitraje y un Tribunal de lo Contencioso Administrativo.
 
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2011)</small>
+
 ###### Artículo 63.
 
-Los tribunales administrativos mencionados forman parte de la administración pública estatal y gozarán de plena autonomía jurisdiccional para emitir sus resoluciones y laudos; su dependencia del ejecutivo se considera solamente de orden administrativo.
+Los tribunales administrativos mencionados gozarán de plena autonomía jurisdiccional para emitir sus resoluciones y laudos, reconociendo su carácter de organismos autónomos.
+
+### CAPÍTULO ÚNICO. DE LA JUNTA LOCAL DE CONCILIACIÓN Y ARBITRAJE DEL ESTADO
 
 ###### Artículo 64.
 
@@ -1362,3 +1438,9 @@ Oralia Rice Rodríguez
 El Subprocurador General de Justicia, encargado del Despacho de la Procuraduría General de Justicia del Estado de Sinaloa, por Ministerio de Ley
 
 Jesús Martín Robles Armenta
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 24 DE ENERO DE 2011.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
