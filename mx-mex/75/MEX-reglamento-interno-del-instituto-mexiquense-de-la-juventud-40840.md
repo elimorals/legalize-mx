@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interno-del-instituto-mexiquense-de-la-juventud-4084
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-08-27"
-last_updated: "2004-08-27"
+last_updated: "2011-01-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40840&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO INTERNO DEL INSTITUTO MEXIQUENSE DE LA JUVENTUD
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 25 DE ENERO DE 2011.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el viernes 27 de agosto de 2004.
 
@@ -57,9 +57,11 @@ IV. Director General, al Director General del Instituto Mexiquense de la Juventu
 
 El Instituto tiene a su cargo el despacho de los asuntos que le confieren el Código Administrativo del Estado de México y otras disposiciones legales.
 
+> <small>(REFORMADO, G.G. 25 DE ENERO DE 2011)</small>
+
 ###### Artículo 4.
 
-El Instituto se sujetará a lo dispuesto por la Ley para la Coordinación y Control de Organismos Auxiliares y Fideicomisos del Estado de México y su reglamento, y por lo que establezcan otros ordenamientos aplicables.
+El Instituto se sujetará a lo dispuesto por la Ley para la Coordinación y Control de Organismos Auxiliares del Estado de México y su reglamento, así como por lo que establezcan otros ordenamientos legales.
 
 ###### Artículo 5.
 
@@ -91,9 +93,13 @@ III. Un Comisario, quien será el representante de la Secretaría de la Contralo
 
 IV. Seis Vocales, quienes serán los representantes de:
 
-a) La Secretaría de Finanzas, Planeación y Administración.
+> <small>(REFORMADO, G.G. 25 DE ENERO DE 2011)</small>
 
-b) La Secretaría del Trabajo y de la Previsión Social.
+a) La Secretaría de Finanzas.
+
+> <small>(REFORMADO, G.G. 25 DE ENERO DE 2011)</small>
+
+b) La Secretaría del Trabajo.
 
 c) El Instituto de Salud del Estado de México.
 
@@ -125,7 +131,9 @@ V. Revisar y, en su caso, aprobar el balance anual y los estados financieros del
 
 VI. Aprobar los reglamentos y demás disposiciones jurídicas de su competencia que rijan la organización y el funcionamiento del Instituto.
 
-VII. Aprobar las modificaciones a la organización y al funcionamiento del Instituto y gestionar, a través del Director General, la autorización por parte de la Secretaría de Finanzas, Planeación y Administración.
+> <small>(REFORMADA, G.G. 25 DE ENERO DE 2011)</small>
+
+VII. Aprobar las modificaciones a la organización y al funcionamiento del Instituto y gestionar, a través del Director General, la autorización por parte de la Secretaría de Finanzas.
 
 VIII. Establecer las bases generales a las que deben sujetarse los acuerdos, convenios y contratos que celebre el Instituto.
 
@@ -181,7 +189,9 @@ XVI. Proponer al Consejo Directivo modificaciones a la organización y al funcio
 
 XVII. Fungir como Secretario del Comité Técnico del Fondo Estatal para la Atención de la Juventud y sugerir los programas y proyectos que sean susceptibles de ejecutar.
 
-XVIII. Validar los manuales administrativos del Instituto y, en su caso, someterlos a la aprobación de la Secretaría de Finanzas, Planeación y Administración.
+> <small>(REFORMADA, G.G. 25 DE ENERO DE 2011)</small>
+
+XVIII. Validar los manuales administrativos del Instituto y someterlos a la aprobación de la Secretaría de Finanzas.
 
 XIX. Promover que las actividades de las unidades administrativas del Instituto se realicen de manera coordinada.
 
@@ -202,6 +212,10 @@ III. Subdirección de Bienestar y Recreación Juvenil.
 IV. Unidad de Programación y Evaluación.
 
 V. Unidad de Apoyo Administrativo.
+
+> <small>(ADICIONADA, G.G. 25 DE ENERO DE 2011)</small>
+
+VI. Contraloría Interna.
 
 El Instituto contará con las demás unidades administrativas que le sean autorizadas, cuyas funciones y líneas de autoridad se establecerán en el manual general de organización del Organismo. Asimismo, se auxiliará de los servidores públicos necesarios para el cumplimiento de sus atribuciones, de acuerdo con la normatividad aplicable y con el presupuesto de egresos respectivo.
 
@@ -243,7 +257,9 @@ XIII. Suscribir los documentos relativos al ejercicio de sus atribuciones y aque
 
 XIV. Las demás que les establecen otras disposiciones legales y aquellas que les encomiende el Director General.
 
-### CAPITULO V. DE LAS SUBDIRECCIONES Y UNIDADES
+> <small>(REFORMADA SU DENOMINACION, G.G. 25 DE ENERO DE 2011)</small>
+
+### CAPÍTULO V. DE LAS SUBDIRECCIONES, UNIDADES Y CONTRALORÍA INTERNA
 
 ###### Artículo 15.
 
@@ -255,7 +271,7 @@ II. Proponer y, en su caso, ejecutar mecanismos para vincular a los jóvenes con
 
 III. Proponer al Director General el establecimiento de instituciones municipales de atención a la juventud y, en su caso, ejecutar las acciones necesarias para su instalación.
 
-IV. Impulsar el otorgamiento de becas de estudio a los jóvenes de escasos recursos por parte de los sectores público y privado.
+IV. (DEROGADA, G.G. 25 DE ENERO DE 2011)
 
 V. Integrar y mantener actualizado el directorio de organizaciones juveniles en la entidad.
 
@@ -274,6 +290,8 @@ Corresponde a la Subdirección de Estudios y Derechos de la Juventud:
 I. Difundir programas y acciones vinculadas con la seguridad e Impartición de justicia a la población joven.
 
 II. Realizar estudios e investigaciones para detectar las principales demandas de los jóvenes en los diferentes rubros.
+
+> <small>(REFORMADA, G.G. 25 DE ENERO DE 2011)</small>
 
 III. Otorgar, en el ámbito de su competencia, asesoría jurídica a los jóvenes que lo requieran.
 
@@ -297,7 +315,9 @@ III. Proponer y ejecutar programas de apoyo económico y social que coadyuven al
 
 IV. Difundir información sobre el mercado de trabajo disponible para los jóvenes.
 
-V. Participar en la difusión de acciones en materia de medicina preventiva, sexualidad, planificación familiar, adicciones y salud mental en la juventud.
+> <small>(REFORMADA, G.G. 25 DE ENERO DE 2011)</small>
+
+V. Participar en la difusión de acciones en materia de prevención de adicciones, de sexualidad, planificación familiar y salud mental en la juventud.
 
 VI. Proponer y organizar, previa autorización del Director General, actividades artísticas, culturales y de recreación que propicien la integración y el desarrollo de los jóvenes.
 
@@ -363,6 +383,36 @@ XV. Operar el sistema de contabilidad del organismo y generar la información fi
 
 XVI. Las demás que le señalen otras disposiciones legales y aquellas que le encomiende el Director General.
 
+> <small>(ADICIONADO, G.G. 25 DE ENERO DE 2011)</small>
+
+Artículo 19 bis.- Corresponde a la Contraloría Interna:
+
+I. Vigilar el cumplimiento de los programas y subprogramas de las unidades administrativas del Instituto y elaborar los reportes correspondientes.
+
+II. Verificar el adecuado ejercicio del presupuesto del Instituto, atendiendo los principios de racionalidad, austeridad y disciplina presupuestaria que establece la normatividad en la materia.
+
+III. Realizar supervisiones, revisiones, evaluaciones, auditorías y demás acciones de control y evaluación que le correspondan, a las unidades administrativas del Instituto, tendientes a verificar el cumplimiento de los objetivos, normas y disposiciones relacionadas con los sistemas de registro, contabilidad, contratación y pago de personal, contratación de servicios, obra pública, programas de inversión, adquisiciones, arrendamiento, conservación, uso, destino, afectación, enajenación y baja de bienes y demás activos asignados al Instituto y dar seguimiento a la atención de las observaciones derivadas de tales acciones.
+
+IV. Instaurar los procedimientos administrativos disciplinarios y resarcitorios e implementar, en su caso, las sanciones que correspondan en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios.
+
+V. Instruir y resolver los recursos administrativos de inconformidad o medios de impugnación que se interpongan en contra de las resoluciones que emita este Órgano de Control Interno y remitirlos a la Dirección General de Responsabilidades de la Secretaría de la Contraloría para su instrucción y resolución.
+
+VI. Recibir, tramitar y realizar el seguimiento a las quejas y denuncias que se interpongan en contra de los servidores públicos del Instituto.
+
+VII. Ordenar que se presenten las denuncias correspondientes o dar vista al Ministerio Público cuando en el trámite de un expediente de queja, denuncia o investigación por responsabilidad administrativa o en el ejercicio de sus facultades de control y evaluación, advierta que existen hechos o elementos que impliquen la probable responsabilidad penal de los servidores públicos del Instituto.
+
+VIII. Promover y verificar la presentación oportuna de las declaraciones de situación patrimonial de los servidores públicos del Instituto sujetos a esta obligación.
+
+IX. Informar a la Secretaría de la Contraloría sobre el resultado de las acciones, comisiones o funciones que le encomiende.
+
+X. Proponer al Director General la aplicación de normas complementarias en materia de control.
+
+XI. Difundir entre el personal del Instituto las disposiciones en materia de control que incidan en el desarrollo de sus labores.
+
+XII. Participar en los procesos de entrega y recepción de las unidades administrativas del Instituto, verificando su apego a la normatividad correspondiente.
+
+XIII. Las demás que le confieren otros ordenamientos legales y las que le encomiende la Secretaría de la Contraloría.
+
 ### CAPITULO VI. DE LA SUPLENCIA DE LOS TITULARES
 
 ###### Artículo 20.
@@ -394,3 +444,13 @@ CESAR NOMAR GOMEZ MONGE
 DIRECTOR GENERAL DEL INSTITUTO MEXIQUENSE DE LA JUVENTUD Y SECRETARIO TECNICO DEL CONSEJO DIRECTIVO
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.G. 25 DE ENERO DE 2011.
+
+PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Acuerdo.
