@@ -4,7 +4,7 @@ identifier: "PUE-ley-para-la-prevencion-del-delito-de-trata-de-personas-y-77719"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-03"
-last_updated: "2010-12-03"
+last_updated: "2011-01-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77719&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "PUE"
 ---
 # LEY PARA LA PREVENCION DEL DELITO DE TRATA DE PERSONAS Y PARA LA PROTECCION Y ASISTENCIA DE SUS VICTIMAS DEL ESTADO DE PUEBLA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 26 DE ENERO DE 2011 EN EL P.O. DEL ESTADO DE PUEBLA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY PARA LA PREVENCION DEL DELITO DE TRATA DE PERSONAS Y PARA LA PROTECCION Y ASISTENCIA DE SUS VICTIMAS DEL ESTADO DE PUEBLA
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 26 DE ENERO DE 2011.</small>
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Puebla, el viernes 3 de diciembre de 2010.
 
@@ -89,8 +89,6 @@ En todo lo no previsto, serán de aplicación supletoria a esta Ley, las disposi
 
 Cuando el empleo gramatical de los términos refiera a un género se entenderán comprendidos ambos, para todos los efectos legales.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTICULO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 26 DE ENERO DE 2011 EN EL P.O. DEL ESTADO DE PUEBLA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### ARTÍCULO 6.
 
 Para los efectos de esta Ley, se entenderá por:
@@ -102,6 +100,8 @@ II. Ley: Ley para la Prevención del delito de Trata de Personas y para la Prote
 III. Programa Estatal: Programa Estatal para la Prevención del delito de Trata de Personas y para la Protección y Asistencia de sus Víctimas;
 
 IV. Trata de Personas: Se entenderá por Trata de Personas, quien consiga, induzca, procure, promueva, facilite, reclute, solicite, mantenga, capte, ofrezca, traslade, transporte, entregue o reciba, para sí o para un tercero a una persona, por medio de violencia física o psicológica, privación de la libertad, engaño, abuso de poder, aprovechamiento de una situación de vulnerabilidad, del otorgamiento o recepción de pagos o beneficios económico o en especie, para someterla a explotación; y
+
+> <small>(F. DE E., P.O. 26 DE ENERO DE 2011)</small>
 
 V. Víctima: Los así definidos por la Ley para la Protección a Víctimas de Delitos.
 
