@@ -4,7 +4,7 @@ identifier: "LAAM"
 country: "mx"
 rank: "ley"
 publication_date: "2004-06-25"
-last_updated: "2010-08-27"
+last_updated: "2011-01-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39908&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LAAM"
 
 LEY DE ASCENSOS DE LA ARMADA DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE AGOSTO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE ENERO DE 2011.
 
 Ley publicada en el Diario Oficial de la Federación, el viernes 25 de junio de 2004.
 
@@ -42,9 +42,11 @@ LEY DE ASCENSOS DE LA ARMADA DE MEXICO
 
 ### CAPITULO UNICO. Bases generales
 
+> <small>(REFORMADO, D.O.F. 26 DE ENERO DE 2011)</small>
+
 ###### ARTICULO 1o.
 
-Ascenso es el acto mediante el cual el Mando promueve al militar en servicio activo al grado superior en el orden jerárquico dentro de la escala que fija la Ley Orgánica de la Armada de México.
+La presente Ley tiene por objeto regular los ascensos del personal de la Armada de México y será aplicable en igualdad de oportunidades entre mujeres y hombres. Ascensos es el acto mediante el cual el Mando promueve al militar en servicio activo al grado superior en el orden jerárquico dentro de la escala que fija la Ley Orgánica de la Armada de México.
 
 > <small>(REFORMADO, D.O.F. 27 DE AGOSTO DE 2010)</small>
 
@@ -597,3 +599,7 @@ D.O.F. 27 DE AGOSTO DE 2010.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan a lo dispuesto por el presente Decreto.
+
+D.O.F. 26 DE ENERO DE 2011.
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
