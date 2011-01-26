@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-control-sanitario-de-productos-y-servicios-14576"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-08-09"
-last_updated: "2009-05-31"
+last_updated: "2011-01-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14576&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1999-07-29"
 
 REGLAMENTO DE CONTROL SANITARIO DE PRODUCTOS Y SERVICIOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE MAYO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE ENERO DE 2011.
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el lunes 9 de agosto de 1999.
 
@@ -267,7 +267,9 @@ XI. Las leyendas de advertencia.
 
 Las normas correspondientes a cada tipo de producto determinarán la información sanitaria general que deberá contener la etiqueta o la específica cuando, por el tamaño del empaque o envase o por las condiciones del proceso, no pueda aparecer toda la información que se requiera.
 
-Cuando se trate de productos de importación envasados de origen, la información que contengan las etiquetas deberá aparecer escrita en idioma español, previamente a su comercialización, en los términos de la norma correspondiente.
+> <small>(REFORMADO, D.O.F. 26 DE ENERO DE 2011)</small>
+
+Con excepción de lo establecido en el artículo 196 Bis del presente Reglamento, cuando se trate de productos de importación envasados de origen, la información que contengan las etiquetas deberá aparecer escrita en idioma español, previamente a su comercialización, en los términos de la norma correspondiente.
 
 ### Capítulo III. Transporte
 
@@ -1724,6 +1726,16 @@ V. Los métodos analíticos para determinar su identidad, concentración y conta
 VI. Productos en los que se propone su empleo y, en su caso, límites de concentración máxima a emplear, y
 
 VII. Para el caso de las denominaciones: la composición cualitativa, propiedades fisicoquímicas, proceso de elaboración, presentación final del producto, uso, función y efectos, en su caso.
+
+> <small>(ADICIONADO, D.O.F. 26 DE ENERO DE 2011)</small>
+
+###### ARTÍCULO 196 Bis.
+
+La información contenida en la etiqueta de los productos objeto de este Título, deberá aparecer en idioma español a excepción de la lista de ingredientes que podrá declararse con la Nomenclatura Internacional de Ingredientes Cosméticos (INCI).
+
+Las leyendas precautorias asociadas a ingredientes que conforme a las disposiciones que emita la Secretaría representen riesgos a la salud, deberán estar escritas en idioma español, incluyendo el nombre de dichos ingredientes.
+
+Cuando los ingredientes se hayan declarado conforme a la Nomenclatura Internacional de Ingredientes Cosméticos (INCI), las leyendas precautorias a que hace referencia el párrafo anterior deberán incluir también dicha denominación.
 
 ### Capítulo II. Productos de aseo
 
@@ -5358,3 +5370,7 @@ PRIMERO.- El presente Reglamento entrará en vigor a los 30 días naturales sigu
 TERCERO.- Se derogan el capítulo III del Título Cuarto del Reglamento de la Ley General de Salud en materia de publicidad; el Título Vigésimo Primero del Reglamento de Control Sanitario de Productos y Servicios y las fracciones XIX, XIX.1 y XIX.2 del Apéndice del Reglamento de Control Sanitario de Productos y Servicios, publicado en el Diario Oficial de la Federación el 19 de agosto de 1999.
 
 ...
+
+D.O.F. 26 DE ENERO DE 2011.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
