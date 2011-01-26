@@ -4,7 +4,7 @@ identifier: "PUE-constitucion-politica-del-estado-libre-y-soberano-de-puebla-751
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-02"
-last_updated: "2011-01-21"
+last_updated: "2011-01-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ENERO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ENERO DE 2011.
 
 Constitución publicada en el Periódico Oficial del Estado de Puebla, el martes 2 de octubre de 1917.
 
@@ -185,11 +185,11 @@ Las leyes correspondientes en sus ámbitos de aplicación respectivos, garantiza
 
 El territorio del Estado es el que de hecho y de derecho le corresponde, en los términos establecidos por el Pacto Federal.
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2011)</small>
 
 ###### Artículo 6º.
 
-La Heroica Ciudad de Puebla de Zaragoza será la Capital del Estado; en ella residirán los Poderes de éste y el Ejecutivo podrá, con autorización del Congreso o de la Comisión Permanente, en su caso, cambiar a otro lugar esa residencia.
+La Heroica Ciudad de Puebla de Zaragoza será la Capital del Estado; los Poderes del Estado residirán en ella o en los municipios conurbados de la misma, no obstante el Ejecutivo podrá, con autorización del Congreso o de la Comisión Permanente, en su caso, cambiar a otro lugar esa residencia.
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
@@ -459,7 +459,7 @@ II.- En los demás casos por cumplimiento de la pena, por haber finalizado el t�
 
 Las leyes determinarán a qué autoridad corresponde decretar la suspensión, pérdida o recuperación de los derechos del ciudadano, en qué términos y con qué requisitos ha de dictarse el fallo respectivo, y el tiempo que deba durar la suspensión.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE JUNIO DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE JUNIO DE 2009)</small>
 
 ### CAPITULO V. DE LA FAMILIA
 
@@ -1375,9 +1375,13 @@ Los Magistrados del Tribunal Superior de Justicia serán inamovibles y sólo pod
 
 Para ser Magistrado del Tribunal Superior de Justicia, se requiere:
 
-I.- Ser ciudadano del Estado, en pleno goce de sus derechos políticos y civiles.
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2011)</small>
 
-II.- Tener treinta años cumplidos.
+I.- Ser ciudadano mexicano, en pleno goce de sus derechos políticos y civiles.
+
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2011)</small>
+
+II.- Tener treinta y cinco años cumplidos.
 
 III.- Ser profesional del derecho con título legalmente expedido, con antigüedad mínima de cinco años.
 
@@ -1651,7 +1655,7 @@ El objeto de las Leyes en materia Municipal, será establecer:
 
 a) Las bases generales de la administración pública municipal y del procedimiento administrativo, incluyendo los medios de impugnación y los órganos para dirimir las controversias entre dicha administración y los particulares, con sujeción a los principios de igualdad, publicidad, audiencia y legalidad;
 
-b) Los casos en que se requiera el acuerdo de las dos terceras partes de los miembros de los Ayuntamientos para dictar resoluciones que afecten el patrimonio municipal o para celebrar actos o convenios que comprometan al Municipio por un plazo mayor al período del Ayuntamiento;
+b) Los casos en que se requiera el acuerdo de las dos terceras partes de los miembros de los Ayuntamientos para dictar resoluciones que afecten el patrimonio municipal o para celebrar actos o convenios que comprometan al Municipio por un plazo mayor al periodo del Ayuntamiento;
 
 c) Las normas de aplicación general para celebrar los convenios a que se refieren la fracción XVII del artículo 79 y la fracción II del artículo 104 de esta Constitución;
 
@@ -2690,6 +2694,12 @@ PRIMERO.- El Honorable Congreso del Estado Libre y Soberano de Puebla, declara q
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 21 DE ENERO DE 2011.
+
+PRIMERO.- El Honorable Congreso del Estado Libre y Soberano de Puebla, declara que estas reformas han sido aprobadas en términos de las disposiciones constitucionales aplicables y forman parte de la Constitución Política del Estado Libre y Soberano de Puebla.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE ENERO DE 2011.
 
 PRIMERO.- El Honorable Congreso del Estado Libre y Soberano de Puebla, declara que estas reformas han sido aprobadas en términos de las disposiciones constitucionales aplicables y forman parte de la Constitución Política del Estado Libre y Soberano de Puebla.
 
