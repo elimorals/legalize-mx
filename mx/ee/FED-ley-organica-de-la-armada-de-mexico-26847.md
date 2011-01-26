@@ -4,7 +4,7 @@ identifier: "FED-ley-organica-de-la-armada-de-mexico-26847"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-12-30"
-last_updated: "2009-06-12"
+last_updated: "2011-01-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26847&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOAM"
 
 LEY ORGANICA DE LA ARMADA DE MEXICO
 
-ULTIMA REFORMADA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE JUNIO DE 2009.
+ULTIMA REFORMADA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE ENERO DE 2011.
 
 Ley Publicada en la Primera Sección del Diario Oficial de la Federación el lunes 30 de diciembre de 2002.
 
@@ -86,7 +86,9 @@ La Armada de México ejecutará sus atribuciones por sí o conjuntamente con el 
 
 La Armada de México está integrada por:
 
-I. Recursos humanos, que se integran por el personal que presta sus servicios en la Armada, estando sujeto a las leyes, reglamentos y demás disposiciones de orden naval y militar;
+> <small>(REFORMADA, D.O.F. 26 DE ENERO DE 2011)</small>
+
+I. Recursos humanos, que se integran por el personal, que presta sus servicios en la Armada, estando sujeto a las leyes, reglamentos y demás disposiciones de orden naval y militar, las cuales serán aplicables en igualdad de oportunidades entre mujeres y hombres;
 
 II. Recursos materiales, constituidos por los bienes existentes y los que sean requeridos por la Armada para el cumplimiento de su misión y ejercicio de sus atribuciones, y
 
@@ -212,9 +214,11 @@ El Estado Mayor General de la Armada es el órgano asesor del Alto Mando a quien
 
 Estará integrado con personal Diplomado de Estado Mayor y el personal especialista que sea necesario para el cumplimiento de sus atribuciones. El titular será de la categoría de almirante.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE ENERO DE 2011)</small>
+
 ###### Artículo 13.
 
-Las fuerzas navales son el conjunto organizado de hombres, buques, aeronaves y unidades de infantería de marina capacitados para salvaguardar los intereses marítimos, conforme a las prescripciones de la Constitución Política de los Estados Unidos Mexicanos.
+Las fuerzas navales son el conjunto organizado de mujeres y hombres, buques, aeronaves y unidades de infantería de marina capacitados para salvaguardar los intereses marítimos, conforme a las prescripciones de la Constitución Política de los Estados Unidos Mexicanos.
 
 Las fuerzas navales se organizan, adiestran y operan con: fuerzas de superficie, de reacción anfibia y especiales, así como con unidades aeronavales, submarinas, antisubmarinas de minado, de contraminado y de vigilancia marítima, mismas que recibirán apoyo logístico necesario por conducto de las direcciones generales de la Secretaría de Marina, así como de las regiones y sus establecimientos.
 
@@ -1059,3 +1063,7 @@ D.O.F. 12 DE JUNIO DE 2009.
 Artículo Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 Artículo Segundo.- Se derogan todas las disposiciones legales, reglamentarias y administrativas que se opongan a este Decreto.
+
+D.O.F. 26 DE ENERO DE 2011.
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
