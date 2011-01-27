@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-del-tribunal-de-lo-contencioso-administrativo-79746"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-03-04"
-last_updated: "2010-04-05"
+last_updated: "2011-01-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=79746&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 REGLAMENTO DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL MUNICIPIO DE MERIDA
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL: 5 DE ABRIL DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL: 27 DE ENERO DE 2011.
 
 Reglamento publicado en el Suplemento de la Gaceta Municipal del Estado de Yucatán, el miércoles 4 de marzo de 2009.
 
@@ -605,7 +605,7 @@ Una vez que se haya designado al funcionario suplente como consecuencia de lo es
 
 TRANSITORIOS:
 
-> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL ACUERDO PUBLICADO EN LA G.M. DE 5 DE ABRIL DE 2010, SE PRORROGA EL PRIMER TRANSITORIO POR NOVENTA DIAS HABILES QUE SE EMPEZARAN A CONTAR A PARTIR DEL DIA DIECISIETE DE MARZO DE 2010 Y VENCERA EL 23 DE JULIO DE 2010.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL ACUERDO PUBLICADO EN LA G.M. DE 27 DE ENERO DE 2011, SE PRORROGA EL PRIMER TRANSITORIO POR NOVENTA DIAS HABILES QUE SE EMPEZARAN A CONTAR A PARTIR DEL DIA VEINTIDOS DE OCTUBRE DEL PRESENTE (SIC) Y VENCERA EL DIECINUEVE DE ENERO DE DOS MIL ONCE.</small>
 
 PRIMERO.- Esta (sic) Reglamento entrará en vigor a los cuarenta y cinco días hábiles siguientes al de su publicación en la Gaceta Municipal.
 
@@ -674,6 +674,16 @@ G.M. 5 DE ABRIL DE 2010.
 SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.
 
 PRIMERO.- El Ayuntamiento de Mérida aprueba la prórroga del primer transitorio del Reglamento del Tribunal de lo Contencioso Administrativo del Municipio de Mérida por noventa días hábiles que empezarán a correr y contarse a partir del día diecisiete de marzo del año 2010 y vencerá el día 23 de julio del 2010.
+
+SEGUNDO.- El presente Acuerdo entrará en vigor el día de su aprobación.
+
+TERCERO.- Publíquese el presente Acuerdo en la Gaceta Municipal.
+
+G.M. 27 DE ENERO DE 2011.
+
+SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.
+
+PRIMERO.- El Ayuntamiento de Mérida aprueba la prórroga del primer artículo transitorio del Reglamento del Tribunal de lo Contencioso Administrativo del Municipio de Mérida por noventa días naturales que se contarán a partir del día veintidós de octubre del presente y vencerá en consecuencia el día diecinueve de enero del año dos mil once.
 
 SEGUNDO.- El presente Acuerdo entrará en vigor el día de su aprobación.
 
