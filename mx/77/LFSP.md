@@ -4,7 +4,7 @@ identifier: "LFSP"
 country: "mx"
 rank: "ley_federal"
 publication_date: "2006-07-06"
-last_updated: "2006-07-06"
+last_updated: "2011-01-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50960&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFSP"
 
 LEY FEDERAL DE SEGURIDAD PRIVADA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE ENERO DE 2011.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 6 de julio de 2006.
 
@@ -52,6 +52,12 @@ La presente ley tiene por objeto regular la prestación de servicios de segurida
 
 Los servicios de seguridad privada que se presten sólo dentro del territorio de una entidad federativa, estarán regulados como lo establezcan las leyes locales correspondientes.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 27 DE ENERO DE 2011)</small>
+
+Los servicios se prestarán tomando en cuenta los principios de integridad y dignidad; protección y trato correcto a las personas, evitando en todo momento arbitrariedades y violencia, actuando en congruencia y proporcionalidad en la utilización de sus facultades y medios disponibles.
+
 ###### Artículo 2.
 
 Para los efectos de esta ley, se entenderá por:
@@ -78,7 +84,11 @@ X. Modificación.- El acto administrativo por el que se amplía o restringe el �
 
 XI. Prestatario.- La persona física o moral que recibe los servicios de seguridad privada.
 
-XII. Reglamento.- El Reglamento de los Servicios de Seguridad Privada.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, D.O.F. 27 DE ENERO DE 2011)</small>
+
+XII. Reglamento.- El Reglamento de la Ley Federal de Seguridad Privada.
 
 XIII. Entidades Federativas.- Los Estados y el Distrito Federal.
 
@@ -100,9 +110,13 @@ VI. La consolidación de un régimen que privilegie la función preventiva, a fi
 
 VII. Procurar políticas, lineamientos y acciones, mediante la suscripción de convenios con las autoridades competentes de los Estados, Distrito Federal y Municipios, para la mejor organización, funcionamiento, regulación y control de los servicios de seguridad privada, en el marco de las normas que se contienen en la Ley General que Establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 2011)</small>
+
 ###### Artículo 4.
 
-En todo lo no previsto por la presente Ley, serán aplicables en forma supletoria, la Ley General que Establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública, la Ley Federal de Procedimiento Administrativo y la Ley Federal de Armas de Fuego y Explosivos.
+En todo lo no previsto por la presente ley, serán aplicables en forma supletoria, la Ley General del Sistema Nacional de Seguridad Pública, la Ley Federal de Procedimiento Administrativo y la Ley Federal de Armas de Fuego y Explosivos.
 
 ## TÍTULO SEGUNDO. De la Secretaría de Seguridad Pública y la Coordinación Interinstitucional
 
@@ -238,7 +252,11 @@ VI. ACTIVIDAD VINCULADA CON SERVICIOS DE SEGURIDAD PRIVADA. Se refiere a la acti
 
 Para prestar servicios de seguridad privada en dos o más entidades federativas, se requiere autorización previa de la Dirección General, para lo cual el prestador de servicios, deberá ser persona física o moral de nacionalidad mexicana y cumplir con los requisitos establecidos en el título tercero de esta Ley.
 
-Una vez que la Dirección General reciba la solicitud de autorización, deberá solicitar a la entidad federativa en que el prestador de servicios tenga establecida o pretenda establecer su oficina matriz, un informe sobre los antecedentes profesionales, de imagen e impacto social del peticionario. Dicho informe deberá ser remitido por la autoridad local en un plazo máximo de quince días hábiles, y será tomado en cuenta por la Dirección General, al momento de resolver lo procedente.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 2011)</small>
+
+Una vez que la Dirección General reciba la solicitud de autorización, deberá solicitar a la entidad federativa en que el prestador de servicios tenga establecida o pretenda establecer su oficina matriz, un informe sobre los antecedentes profesionales, de imagen e impacto social del peticionario. Dicho informe deberá ser remitido por la autoridad local en un plazo máximo de quince días hábiles y será tomado en cuenta por la Dirección General al momento de resolver lo procedente, de no recibirse el informe en el plazo establecido, se entenderá que no hay objeción alguna por parte de la entidad que corresponda.
 
 ###### Artículo 17.
 
@@ -248,9 +266,13 @@ La autorización que se otorgue será personal e intransferible, contendrá el n
 
 Si el peticionario de la autorización no exhibe con su solicitud la totalidad de los requisitos señalados en el título tercero de esta Ley, la Dirección General, dentro de los diez días hábiles siguientes a la presentación de la misma, lo prevendrá para que en un plazo improrrogable de veinte días hábiles, subsane las omisiones o deficiencias que en su caso presente la solicitud; transcurrido dicho plazo sin que el interesado haya subsanado las omisiones o deficiencias de la solicitud, ésta será desechada.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 2011)</small>
+
 ###### Artículo 19.
 
-Para revalidar la autorización otorgada, bastará que el prestador de servicios, cuando menos con veinte días hábiles de anticipación a la extinción de la vigencia de la autorización, lo solicite y manifieste, bajo protesta de decir verdad, no haber variado las condiciones existentes al momento de haber sido otorgada, o en su caso, actualice aquellas documentales que así lo ameriten, tales como inventarios, movimientos de personal, pago de derechos, póliza de fianza, modificaciones a la constitución de la empresa y representación de la misma, Planes y Programas de Capacitación y Adiestramiento, y demás requisitos que por su naturaleza lo requieran.
+Para revalidar la autorización otorgada, bastará que el prestador de servicios, cuando menos con treinta días hábiles de anticipación a la extinción de la vigencia de la autorización, lo solicite y manifieste, bajo protesta de decir verdad, no haber variado las condiciones existentes al momento de haber sido otorgada, o, en su caso, actualice aquellas documentales que así lo ameriten, tales como inventarios, movimientos de personal, pago de derechos, póliza de fianza, modificaciones a la constitución de la empresa y representación de la misma, planes y programas de capacitación y adiestramiento, y demás requisitos que por su naturaleza lo requieran.
 
 ###### Artículo 20.
 
@@ -316,11 +338,19 @@ XIII. Adjuntar el formato de credencial que se expedirá al personal;
 
 XIV. Fotografías del uniforme a utilizar, en las que se aprecien sus cuatro vistas, conteniendo colores, logotipos o emblemas, mismos que no podrán ser iguales o similares a los utilizados por las corporaciones policiales o por las fuerzas armadas;
 
-XV. Relación de bienes muebles e inmuebles que se utilicen para el servicio, incluido equipo de radiocomunicación, armamento, vehículos, equipo en general, así como los aditamentos complementarios al uniforme, en los formatos que para tal efecto establezca la Dirección General;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, D.O.F. 27 DE ENERO DE 2011)</small>
+
+XV. Relación de bienes muebles e inmuebles que se utilicen para el servicio, incluido equipo de radio y telecomunicaciones, armamento, vehículos, semovientes, así como los aditamentos complementarios al uniforme, en los formatos que para tal efecto establezca la Dirección General;
 
 XVI. Relación, en su caso, de perros, adjuntando copia certificada de los documentos que acrediten que el instructor se encuentra capacitado para desempeñar ese trabajo; asimismo se anexará listado que contenga los datos de identificación de cada animal, como son: raza, edad, color, peso, tamaño, nombre y documentos que acrediten el adiestramiento y su estado de salud, expedido por la autoridad correspondiente;
 
-XVII. Copias certificadas del permiso para operar frecuencia de radiocomunicación o contrato celebrado con concesionaria autorizada;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, D.O.F. 27 DE ENERO DE 2011)</small>
+
+XVII. Copias certificadas del permiso para operar frecuencia de radio y telecomunicación o contrato celebrado con concesionaria autorizada;
 
 XVIII. Fotografías de los costados, frente, parte posterior y toldo del tipo de vehículos que se utilicen en la prestación de los servicios, las cuales deberán mostrar claramente los colores, logotipos o emblemas, y que no podrán ser iguales o similares a los oficiales utilizados por las corporaciones policiales o por las Fuerzas Armadas; además deberán presentar rotulada la denominación del Prestador del Servicio, y la leyenda "seguridad privada"; asimismo, deberán apreciarse las defensas reforzadas, torretas y otros aditamentos que tengan dichas unidades;
 
@@ -390,15 +420,23 @@ VI. No ser miembros en activo de alguna institución de seguridad pública feder
 
 ### Capítulo V. De la Capacitación
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE ENERO DE 2011)</small>
+
 ###### Artículo 29.
 
-Los prestadores de servicios estarán obligados a capacitar a su personal operativo. Dicha capacitación podrá llevarse a cabo en las instituciones educativas de la Secretaría, en las academias estatales o en los centros de capacitación privados, mismos que deberán ser autorizados y revalidados anualmente por la Dirección General. El Reglamento establecerá los tiempos, formas y plazos para ello.
+Los prestadores de servicios estarán obligados a capacitar a su personal operativo. Dicha capacitación podrá llevarse a cabo en las instituciones educativas de la Secretaría, en las academias estatales o en los centros de capacitación privados, que deberán ser verificados, autorizados y revalidados anualmente por la Dirección General. El Reglamento establecerá los tiempos, formas y plazos para ello.
 
 La capacitación que se imparta será acorde a las modalidades en que se autorice el servicio, y tendrá como fin que los elementos se conduzcan bajo los principios de legalidad, eficiencia, profesionalismo y honradez señalados en la Ley General que Establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 2011)</small>
+
 ###### Artículo 30.
 
-La Dirección General podrá concertar acuerdos con los prestadores de servicios para la instrumentación y modificación a sus planes y programas de capacitación y adiestramiento.
+La Dirección General podrá concertar acuerdos con los prestadores de servicios para colaborar en la instrumentación y modificación a sus planes y programas de capacitación y adiestramiento.
 
 ###### Artículo 31.
 
@@ -408,9 +446,13 @@ El prestador de servicios deberá registrar ante la Secretaría del Trabajo y Pr
 
 ### Capítulo Único. De las Obligaciones de los Prestadores de Servicios de Seguridad Privada
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE ENERO DE 2011)</small>
+
 ###### Artículo 32.
 
-Son obligaciones de los Prestadores de servicios:
+Son obligaciones de los prestadores de servicios:
 
 I. Prestar los servicios de seguridad privada en los términos y condiciones establecidos en la autorización que les haya sido otorgada o, en su caso, en su revalidación o modificación;
 
@@ -484,9 +526,35 @@ XXVII. Informar a la autoridad que regule los servicios de seguridad privada en 
 
 XXVIII. Implementar los mecanismos que garanticen que el personal operativo de seguridad privada, cumpla con las obligaciones que se señalan en el artículo 33 de la presente Ley;
 
-XXIX. Tratándose de prestadores de servicios que operen en la modalidad prevista en la fracción III del artículo 15 de la presente Ley, y específicamente para el traslado de valores, se deberán utilizar vehículos blindados, y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-XXX. Registrar ante la Dirección General los animales con que operen y sujetar su utilización a las normas aplicables.
+> <small>(REFORMADA, D.O.F. 27 DE ENERO DE 2011)</small>
+
+XXIX. Tratándose de prestadores de servicios que operen en la modalidad prevista en la fracción III del artículo 15 de la presente Ley, y específicamente para el traslado de valores, se deberán utilizar vehículos blindados;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, D.O.F. 27 DE ENERO DE 2011)</small>
+
+XXX. Registrar ante la Dirección General los animales con que operen y sujetar su utilización a las normas aplicables;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, D.O.F. 27 DE ENERO DE 2011)</small>
+
+XXXI. Evitar la utilización de medios materiales o técnicos cuando pudieran causar daño o perjuicios a terceros o poner en peligro a la sociedad, y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, D.O.F. 27 DE ENERO DE 2011)</small>
+
+XXXII. Tratándose de prestadores de servicios que operen en la modalidad prevista en la fracción VI del artículo 15 de la presente Ley, deberán crear y mantener un registro de compradores y usuarios, el cual deberá contener datos personales del usuario y la persona o empresa que suministró el equipo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 27 DE ENERO DE 2011)</small>
+
+Dicho registro de compradores y usuarios deberá presentarse semestralmente ante la Dirección General y se aplicarán las disposiciones relativas al Registro Nacional de Empresas, Personal y Equipo de Seguridad Privada contenidas en el Título Segundo, capítulo III de la presente Ley.
 
 ###### Artículo 33.
 
@@ -494,7 +562,11 @@ Son obligaciones del personal operativo de seguridad privada:
 
 I. Prestar los servicios en los términos establecidos en la autorización, revalidación o la modificación de cualquiera de éstas;
 
-II. Utilizar únicamente el equipo de radiocomunicación, en los términos del permiso otorgado por autoridad competente o concesionaria autorizada;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, D.O.F. 27 DE ENERO DE 2011)</small>
+
+II. Utilizar, únicamente el equipo de radio y telecomunicación en los términos del permiso otorgado por autoridad competente o concesionaria autorizada;
 
 III. Utilizar el uniforme, vehículos, vehículos blindados, perros, armas de fuego y demás equipo, acorde a las modalidades autorizadas para prestar el servicio, apegándose al estricto cumplimiento de las Normas Oficiales Mexicanas correspondientes en los casos que les apliquen;
 
@@ -520,9 +592,15 @@ Además de las obligaciones previstas en la presente Ley, los prestadores de ser
 
 ### Capítulo Único. Disposiciones Generales
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 2011)</small>
+
 ###### Artículo 36.
 
-La Dirección General podrá ordenar en cualquier momento la práctica de visitas de verificación, y los prestadores de servicios estarán obligados a permitir el acceso y dar las facilidades e informes que los verificadores requieran para el desarrollo de su labor.
+La Dirección General podrá ordenar en cualquier momento la práctica de visitas de verificación, inclusive de manera previa para otorgar una autorización con el fin de comprobar que se cuenta con los medios humanos, de formación, técnicos, financieros y materiales para brindar los servicios de forma adecuada.
+
+Para estos efectos podrá celebrar convenios de colaboración con las autoridades competentes de las entidades federativas.
 
 ###### Artículo 37.
 
@@ -582,13 +660,65 @@ I. Amonestación, con difusión pública en la página de Internet de la Secreta
 
 II. Multa de un mil hasta cinco mil veces el salario mínimo general vigente en la entidad federativa en que se localice la oficina matriz del prestador de servicios;
 
-III. Suspensión de los efectos de la autorización de uno a seis meses, en este caso, la suspensión abarcará el ámbito territorial que tenga autorizado, incluida su oficina matriz;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, D.O.F. 27 DE ENERO DE 2011)</small>
+
+III. Suspensión de los efectos de la autorización de uno a seis meses, en este caso, la suspensión abarcará el ámbito territorial que tenga autorizado, incluida su oficina matriz, en los siguientes casos:
+
+a) Omitir el cumplimiento de las obligaciones previstas en las fracciones III, V, VI, VII, IX, XIII, XIV, XVI, XVIII, XIX, XXIII, XXIV, XXV, XXVII, XXVIII, XXX, XXXI y XXXII del artículo 32 de esta Ley.
+
+b) Abstenerse de cumplir la sanción pecuniaria impuesta.
+
+c) No presentar en tiempo la solicitud de revalidación de autorización.
+
+d) Suspender la prestación del servicio sin dar el aviso a que se refiere la fracción XXIII del artículo 32 de esta Ley.
+
+La duración de la suspensión temporal no podrá exceder de 30 días hábiles y, en todo caso, el prestador del servicio o realizador de actividades deberá subsanar las irregularidades que la originaron, cuya omisión dará lugar a la continuación de la suspensión por un plazo igual y a la aplicación de las sanciones que procedan.
+
+La suspensión temporal se aplicará independientemente de las sanciones a que hayan dado lugar las irregularidades.
 
 IV. Clausura del establecimiento donde el prestador del servicio tenga su oficina matriz o el domicilio legal que hubiere registrado, así como de las sucursales que tuviera en el interior de la República, y
 
-V. Revocación de la autorización.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-La Secretaría, en su caso, podrá imponer simultáneamente una o más de las sanciones administrativas señaladas en las fracciones anteriores.
+> <small>(REFORMADA, D.O.F. 27 DE ENERO DE 2011)</small>
+
+V. Revocación de la autorización, en los siguientes casos:
+
+a) Cuando el titular de la autorización, no efectúe el pago de los derechos correspondientes por la expedición o revalidación;
+
+b) Cuando se exhiba documentación apócrifa, o se proporcionen informes o datos falsos a la Secretaría a que está obligado derivados de la autorización;
+
+c) Asignar elementos operativos, para prestar servicios o realizar actividades de seguridad privada, sin que estos cuenten con la autorización vigente o en trámite, expedida por la Secretaría;
+
+d) Cuando el titular del permiso, autorización o licencia no subsane las irregularidades que originaron la suspensión temporal;
+
+e) Transgredir lo previsto en el artículo 26 de esta Ley;
+
+f) Transferir, gravar o enajenar en cualquier forma el permiso, autorización o licencia expedidos;
+
+g) No subsanar las irregularidades que hubieran ameritado la aplicación de una sanción;
+
+h) Transgredir lo previsto en las fracciones IV, VIII, X, XI, XXII, XXIX del artículo 32 de esta Ley;
+
+i) Haberse resuelto por autoridad judicial la comisión de ilícitos en contra de la persona o bienes del prestatario o de terceros, por parte de los prestadores del servicio;
+
+j) Negarse el titular de la autorización, a reparar daños causados a usuarios, o terceros por el prestador del servicio, derivada de resolución de la autoridad competente;
+
+k) Poner en riesgo la seguridad pública, protección civil o salud de los habitantes de las entidades federativas donde se de la seguridad privada;
+
+l) Suspender sin causa justificada, la actividad por un término de noventa días hábiles;
+
+m) No iniciar la prestación de servicios o realización de actividades sin causa justificada, en un plazo de treinta días hábiles contados a partir de la fecha en que se hubiere recibido el permiso o autorización correspondiente, y
+
+n) Haber obtenido la autorización mediante documentos, declaraciones, datos falsos o bien con dolo o mala fe.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 2011)</small>
+
+La Secretaría, en su caso, podrá imponer simultáneamente una o más de las sanciones administrativas señaladas en las fracciones anteriores y, en su caso, tendrá interés jurídico para acudir a otras instancias legales en asuntos relacionados con la prestación del servicio de seguridad privada, derivado de omisiones o transgresiones a esta Ley.
 
 En todos los casos se dará difusión pública a las sanciones, la cual se hará a costa del infractor, en el Diario Oficial de la Federación y en uno de los diarios de mayor circulación nacional, identificando claramente al infractor, el tipo de sanción, el número de su autorización y el domicilio de su establecimiento en su caso.
 
@@ -625,3 +755,13 @@ OCTAVO.- La Secretaría de Seguridad Pública deberá modificar el nombre de la 
 México, D.F., a 27 de abril de 2006.- Dip. Marcela González Salas P., Presidenta.- Sen. Enrique Jackson Ramírez, Presidente.- Dip. Marcos Morales Torres, Secretario.- Sen. Sara I. Castellanos Cortés, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintiséis días del mes de junio de dos mil seis.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Carlos María Abascal Carranza.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 27 DE ENERO DE 2011.
+
+Primero. El presente Decreto entrará en vigor a partir de los 30 días siguientes al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Las personas físicas o morales dispondrán de un término de 60 días naturales, contados a partir de la entrada en vigor del presente Decreto, para regularizar su situación conforme a las reformas contenidas en éste.
+
+Tercero. El Reglamento de la presente Ley deberá adecuarse conforme a las reformas contenidas en el presente Decreto, dentro de un plazo no mayor de noventa días hábiles siguientes a la fecha de su entrada en vigor.
