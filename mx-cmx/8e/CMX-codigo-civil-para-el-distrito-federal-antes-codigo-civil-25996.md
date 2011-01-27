@@ -4,7 +4,7 @@ identifier: "CMX-codigo-civil-para-el-distrito-federal-antes-codigo-civil-25996"
 country: "mx"
 rank: "codigo"
 publication_date: "1928-05-26"
-last_updated: "2010-07-29"
+last_updated: "2011-01-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25996&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -21,7 +21,7 @@ scjn_last_update: "2026-08-20"
 
 CODIGO CIVIL PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 29 DE JULIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 27 DE ENERO DE 2011.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación los días sábado 26 de mayo; sábado 14 de julio; viernes 3 de agosto y viernes 31 de agosto, todos de 1928.
 
@@ -12837,7 +12837,11 @@ VIII.- El crédito que provenga del precio de los bienes vendidos y no pagados, 
 
 Tratándose de bienes muebles, cesará la preferencia si hubieren sido inmovilizados;
 
-IX.- Los créditos anotados en el Registro de la Propiedad, en virtud de mandamiento judicial, por embargos, secuestros o ejecución de sentencias, sobre los bienes anotados y solamente en cuanto a créditos posteriores.
+IX.- Los créditos anotados en el Registro de la Propiedad, en virtud de mandamiento judicial, por embargos, secuestros o ejecución de sentencias, sobre los bienes anotados y solamente en cuanto a créditos posteriores;
+
+> <small>(ADICIONADA, G.O. 27 DE ENERO DE 2011)</small>
+
+X.- Los créditos a que se refiere el artículo 28 de la nueva Ley de Propiedad en Condominio de Inmuebles para el Distrito Federal.
 
 ### CAPITULO IV. Acreedores de primera clase
 
@@ -14182,3 +14186,13 @@ G.O. 29 DE JULIO DE 2010.
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 Segundo. Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial del (sic) la Federación.
+
+G.O. 27 DE ENERO DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Se abroga la actual Ley de Propiedad en Condominio de Inmuebles para el Distrito Federal, publicada en el Diario Oficial de la Federación el 31 de diciembre de 1998 y el 07 de enero de 1999 en la Gaceta Oficial del Distrito Federal.
+
+TERCERO.- El Jefe de Gobierno del Distrito Federal, contará con 60 días hábiles a partir de la publicación de la presente Ley para emitir su Reglamento.
+
+CUARTO.- Publíquese en la Gaceta Oficial del Distrito Federal y para mayor difusión en el Diario Oficial de la Federación.
