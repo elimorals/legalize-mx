@@ -4,7 +4,7 @@ identifier: "LGP"
 country: "mx"
 rank: "ley_general"
 publication_date: "1974-01-07"
-last_updated: "2010-11-22"
+last_updated: "2011-01-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=636&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGP"
 
 LEY GENERAL DE POBLACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE NOVIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE ENERO DE 2011.
 
 Ley publicada en el Diario Oficial de la Federación el lunes 7 de enero de 1974.
 
@@ -260,11 +260,9 @@ De conformidad con lo dispuesto por el artículo anterior, los permisos de inter
 
 La Secretaría de Gobernación podrá fijar a los extranjeros que se internen en el país las condiciones que estime convenientes respecto a las actividades a que habrán de dedicarse y al lugar o lugares de su residencia. Cuidará asimismo de que los inmigrantes sean elementos útiles para el país y de que cuenten con los ingresos necesarios para su subsistencia y en su caso, la de las personas que estén bajo su dependencia económica.
 
-> <small>(REFORMADO, D.O.F. 17 DE JULIO DE 1990)</small>
-
 ###### ARTICULO 35.
 
-Los extranjeros que sufran persecuciones políticas o aquéllos que huyan de su país de origen, en los supuestos previstos en la fracción VI del artículo 42, serán admitidos provisionalmente por las autoridades de migración, mientras la Secretaría de Gobernación resuelve cada caso, lo que hará del modo más expedito.
+(DEROGADO, D.O.F. 27 DE ENERO DE 2011)
 
 ###### ARTICULO 36.
 
@@ -338,13 +336,7 @@ IV.- MINISTRO DE CULTO O ASOCIADO RELIGIOSO.- Para ejercer el ministerio de cual
 
 V.- ASILADO POLITICO.- Para proteger su libertad o su vida de persecuciones políticas en su país de origen, autorizado por el tiempo que la Secretaría de Gobernación juzgue conveniente, atendiendo a las circunstancias que en cada caso concurran. Si el asilado político viola las leyes nacionales, sin perjuicio de las sanciones que por ello le sean aplicables, perderá su característica migratoria, y la misma Secretaría le podrá otorgar la calidad que juzgue conveniente para continuar su legal estancia en el país. Asimismo, si el asilado político se ausenta del país, perderá todo derecho a regresar en esta calidad migratoria, salvo que haya salido con permiso de la propia Dependencia.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE NOVIEMBRE DE 1996)</small>
-
-VI.- REFUGIADO.- Para proteger su vida, seguridad o libertad, cuando hayan sido amenazadas por violencia generalizada, agresión extranjera, conflictos internos, violación masiva de derechos humanos u otras circunstancias que hayan perturbado gravemente el orden público en su país de origen, que lo hayan obligado a huir a otro país. No quedan comprendidos (sic) en la presente característica migratoria aquellas personas que son objeto de persecución política prevista en la fracción anterior. La Secretaría de Gobernación renovará su permiso de estancia en el país, cuantas veces lo estime necesario. Si el refugiado viola las leyes nacionales, sin perjuicio de las sanciones que por ello le sean aplicables, perderá su característica migratoria y la misma Secretaría le podrá otorgar la calidad que juzgue procedente para continuar su legal estancia en el país. Asimismo, si el refugiado se ausenta del país, perderá todo derecho a regresar en esta calidad migratoria, salvo que haya salido con permiso de la propia Secretaría. El refugiado no podrá ser devuelto a su país de origen, ni enviado a cualquier otro, en donde su vida, libertad o seguridad se vean amenazadas.
-
-> <small>(ADICIONADO, D.O.F. 17 DE JULIO DE 1990)</small>
-
-La Secretaría de Gobernación podrá dispensar la sanción a que se hubiere hecho acreedor por su internación ilegal al país, al extranjero a quien se otorgue esta característica migratoria, atendiendo al sentido humanitario y de protección que orienta la institución del refugiado.
+VI.- (DEROGADA, D.O.F. 27 DE ENERO DE 2011)
 
 > <small>(REFORMADA, D.O.F. 8 DE NOVIEMBRE DE 1996)</small>
 
@@ -445,6 +437,10 @@ La Secretaría de Gobernación en condiciones excepcionales, podrá dictar medid
 ###### ARTICULO 52.
 
 Inmigrado es el extranjero que adquiere derechos de residencia definitiva en el país.
+
+> <small>(ADICIONADO, D.O.F. 27 DE ENERO DE 2011)</small>
+
+Todo extranjero que haya obtenido el reconocimiento de la condición de refugiado o que reciba protección complementaria por parte de la Secretaría, en términos de lo dispuesto por la Ley sobre Refugiados y Protección Complementaria, se le otorgará la residencia permanente.
 
 ###### ARTICULO 53.
 
@@ -934,7 +930,9 @@ d) Realice actividades para las cuales no esté autorizado conforme a esta Ley o
 
 e) Dolosamente haga uso o se ostente como poseedor de una calidad migratoria distinta de la que la Secretaría de Gobernación le haya otorgado;
 
-f) Se interne al país sin la documentación requerida;
+> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 2011)</small>
+
+f) Se interne al país sin la documentación requerida, salvo los casos previstos en la Ley sobre Refugiados y Protección Complementaria;
 
 g) Contraiga matrimonio con mexicano en los términos previstos en el artículo 127.
 
@@ -1389,3 +1387,7 @@ Primero.- El presente Decreto entrará en vigor al día siguiente de su publicac
 Segundo.- El Ejecutivo Federal, a través de la Secretaría de Gobernación, deberá llevar a cabo las modificaciones pertinentes al artículo 149 del Reglamento de la presente Ley, para adecuarlo a las disposiciones aquí aprobadas, en un término que no excederá de 90 días posteriores a la entrada en vigor de este Decreto.
 
 Tercero.- La Cámara de Diputados asignará en el Decreto de Presupuesto de Egresos de la Federación de cada año, los recursos presupuestarios necesarios para cumplir cabalmente con la obligación impuesta por el artículo 67 de esta Ley.
+
+D.O.F. 27 DE ENERO DE 2011.
+
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
