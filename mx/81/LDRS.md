@@ -4,7 +4,7 @@ identifier: "LDRS"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-07"
-last_updated: "2010-12-09"
+last_updated: "2011-01-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22550&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LDRS"
 
 LEY DE DESARROLLO RURAL SUSTENTABLE
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE ENERO DE 2011.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el viernes 7 de diciembre de 2001.
 
@@ -86,39 +86,49 @@ XIV. Desarrollo Rural Sustentable. El mejoramiento integral del bienestar social
 
 XV. Desertificación. La pérdida de la capacidad productiva de las tierras, causada por el hombre, en cualquiera de los ecosistemas existentes en el territorio de la República Mexicana;
 
-XVI. Entidades Federativas. Los estados de la federación y el Distrito Federal;
+> <small>(ADICIONADA, D.O.F. 27 DE ENERO DE 2011)</small>
 
-XVII. Estado. Los Poderes de la Unión, de las entidades federativas y de los municipios;
+XVI. Difusión. La promoción nacional mediante los medios de información masiva escritos y electrónicos, libros, folletos y cualquier otro material idóneo que permitan dar a conocer los diversos programas y beneficios económicos que se deriven de la aplicación del Programa Especial Concurrente para el Desarrollo Rural Sustentable;
 
-XVIII. Estímulos Fiscales. Los incentivos otorgados por el Estado a través de beneficios preferentes en el ejercicio de la tributación;
+XVII. Entidades Federativas. Los estados de la federación y el Distrito Federal;
 
-XIX. Marginalidad. La definida de acuerdo con los criterios dictados por el Instituto Nacional de Estadística, Geografía e Informática;
+XVIII. Estado. Los Poderes de la Unión, de las entidades federativas y de los municipios;
 
-XX. Órdenes de Gobierno. Los gobiernos federal, de las entidades federativas y de los municipios;
+XIX. Estímulos Fiscales. Los incentivos otorgados por el Estado a través de beneficios preferentes en el ejercicio de la tributación;
 
-XXI. Organismos Genéticamente Modificados. Cualquier organismo que posea una combinación de material genético que se haya obtenido mediante la aplicación de biotecnología moderna;
+XX. Marginalidad. La definida de acuerdo con los criterios dictados por el Instituto Nacional de Estadística, Geografía e Informática;
 
-XXII. Productos Básicos y Estratégicos. Aquellos alimentos que son parte de la dieta de la mayoría de la población en general o diferenciada por regiones, y los productos agropecuarios cuyo proceso productivo se relaciona con segmentos significativos de la población rural u objetivos estratégicos nacionales;
+> <small>(REFORMADA, D.O.F. 27 DE ENERO DE 2011)</small>
 
-XXIII. Programa Especial Concurrente. El programa Especial Concurrente para el Desarrollo Rural Sustentable, que incluye el conjunto de Programas Sectoriales relacionados con las materias motivo de esta Ley;
+XXI. Órdenes de Gobierno. Los gobiernos federales, de las entidades federativas y de los municipios;
 
-XXIV. Programas Sectoriales. Los programas específicos del Gobierno Federal que establecen las políticas, objetivos, presupuestos e instrumentos para cada uno de los ámbitos del Desarrollo Rural Sustentable;
+XXII. Organismos Genéticamente Modificados. Cualquier organismo que posea una combinación de material genético que se haya obtenido mediante la aplicación de biotecnología moderna;
 
-XXV. Recursos Naturales. Todos aquellos bienes naturales renovables y no renovables susceptibles de aprovechamiento a través de los procesos productivos rurales y proveedores de servicios ambientales: tierras, bosques, recursos minerales, agua, comunidades vegetativas y animales y recursos genéticos;
+XXIII. Productos Básicos y Estratégicos. Aquellos alimentos que son parte de la dieta de la mayoría de la población en general o diferenciada por regiones, y los productos agropecuarios cuyo proceso productivo se relaciona con segmentos significativos de la población rural u objetivos estratégicos nacionales;
 
-XXVI. Secretaría. La Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación;
+> <small>(REFORMADA, D.O.F. 27 DE ENERO DE 2011)</small>
 
-XXVII. Seguridad Alimentaria. El abasto oportuno, suficiente e incluyente de alimentos a la población;
+XXIV. Programa Especial Concurrente. El Programa Especial Concurrente para el Desarrollo Rural Sustentable, que incluye el conjunto de Programas Sectoriales relacionados con las materias motivo de esta Ley;
 
-XXVIII. Servicio. Institución pública responsable de la ejecución de programas y acciones específicas en una materia;
+XXV. Programas Sectoriales. Los programas específicos del Gobierno Federal que establecen las políticas, objetivos, presupuestos e instrumentos para cada uno de los ámbitos del Desarrollo Rural Sustentable;
 
-XXIX. Servicios Ambientales (sinónimo: beneficios ambientales). Los beneficios que obtiene la sociedad de los recursos naturales, tales como la provisión y calidad del agua, la captura de contaminantes, la mitigación del efecto de los fenómenos naturales adversos, el paisaje y la recreación, entre otros;
+XXVI. Recursos Naturales. Todos aquellos bienes naturales renovables y no renovables susceptibles de aprovechamiento a través de los procesos productivos rurales y proveedores de servicios ambientales: tierras, bosques, recursos minerales, agua, comunidades vegetativas y animales y recursos genéticos;
 
-XXX. Sistema. Mecanismo de concurrencia y coordinación de las funciones de las diversas dependencias e instancias públicas y privadas, en donde cada una de ellas participa de acuerdo con sus atribuciones y competencia para lograr un determinado propósito;
+XXVII. Secretaría. La Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación;
 
-XXXI. Sistema-Producto. El conjunto de elementos y agentes concurrentes de los procesos productivos de productos agropecuarios, incluidos el abastecimiento de equipo técnico, insumos productivos, recursos financieros, la producción primaria, acopio, transformación, distribución y comercialización; y
+XXVIII. Seguridad Alimentaria. El abasto oportuno, suficiente e incluyente de alimentos a la población;
 
-XXXII. Soberanía Alimentaria. La libre determinación del país en materia de producción, abasto y acceso de alimentos a toda la población, basada fundamentalmente en la producción nacional.
+XXIX. Servicio. Institución pública responsable de la ejecución de programas y acciones específicas en una materia;
+
+XXX. Servicios Ambientales (sinónimo: beneficios ambientales). Los beneficios que obtiene la sociedad de los recursos naturales, tales como la provisión y calidad del agua, la captura de contaminantes, la mitigación del efecto de los fenómenos naturales adversos, el paisaje y la recreación, entre otros;
+
+XXXI. Sistema. Mecanismo de concurrencia y coordinación de las funciones de las diversas dependencias e instancias públicas y privadas, en donde cada una de ellas participa de acuerdo con sus atribuciones y competencia para lograr un determinado propósito;
+
+> <small>(REFORMADA, D.O.F. 27 DE ENERO DE 2011)</small>
+
+XXXII. Sistema-Producto. El conjunto de elementos y agentes concurrentes de los procesos productivos de productos agropecuarios, incluidos el abastecimiento de equipo técnico, insumos productivos, recursos financieros, la producción primaria, acopio, transformación, distribución y comercialización, y
+
+XXXIII. Soberanía Alimentaria. La libre determinación del país en materia de producción, abasto y acceso de alimentos a toda la población, basada fundamentalmente en la producción nacional.
 
 ###### Artículo 4o.
 
@@ -260,9 +270,15 @@ XV. Protección a los trabajadores rurales en general y a los jornaleros agríco
 
 XVI. Impulso a los programas de protección civil para la prevención, auxilio, recuperación y apoyo a la población rural en situaciones de desastre;
 
-XVII. Impulso a los programas orientados a la paz social; y
+> <small>(REFORMADA, D.O.F. 27 DE ENERO DE 2011)</small>
 
-XVIII. Las demás que determine el Ejecutivo Federal.
+XVII. Impulso a los programas orientados a la paz social;
+
+> <small>(ADICIONADA, D.O.F. 27 DE ENERO DE 2011)</small>
+
+XVIII. Difusión nacional sobre su contenido, y
+
+XIX. Las demás que determine el Ejecutivo Federal.
 
 ###### Artículo 16.
 
@@ -290,9 +306,11 @@ Con objeto de que la gestión pública que se realice para cumplir esta Ley cons
 
 El Ejecutivo Federal, mediante los convenios que al respecto celebre con los gobiernos de las entidades federativas y los municipios, propiciará la concurrencia y promoverá la corresponsabilidad de los distintos órdenes de gobierno, en el marco del federalismo y la descentralización como criterios rectores de la acción del Estado en aquellas materias.
 
+> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 2011)</small>
+
 ###### Artículo 20.
 
-La Comisión Intersecretarial será responsable de atender, coordinar y dar el seguimiento correspondiente a los programas sectoriales y especiales que tengan como propósito impulsar el desarrollo rural sustentable. Asimismo, será la responsable de promover y coordinar las acciones y la concertación de la asignación de responsabilidades a las dependencias y entidades federales competentes en las materias de la presente Ley.
+La Comisión Intersecretarial será responsable de atender, difundir, coordinar y dar el seguimiento correspondiente a los programas sectoriales y especiales que tengan como propósito impulsar el desarrollo rural sustentable. Asimismo, será la responsable de promover y coordinar las acciones y la concertación de la asignación de responsabilidades a las dependencias y entidades federales competentes en las materias de la presente Ley.
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 2 DE FEBRERO DE 2007)</small>
 
@@ -1967,3 +1985,7 @@ D.O.F. 9 DE DICIEMBRE DE 2010.
 DECRETO POR EL QUE SE REFORMA EL ARTICULO 33 DE LA LEY DE DESARROLLO RURAL SUSTENTABLE
 
 Único. El presente decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 27 DE ENERO DE 2011.
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
