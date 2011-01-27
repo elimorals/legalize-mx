@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-procedimientos-penales-para-el-estado-libre-y-5764"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-12-07"
-last_updated: "2010-12-23"
+last_updated: "2011-01-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE ENERO DE 2011.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el martes 7 de diciembre de 1982.
 
@@ -1087,7 +1087,9 @@ c) Ausencia de los reflejos del tallo cerebral; y
 
 d) Paro cardiaco irreversible.
 
-2. Se presenta la muerte cerebral, cuando existen los siguientes signos:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE ENERO DE 2011)</small>
+
+2. Se presenta muerte encefálica cuando existen los siguientes signos:
 
 a) Pérdida permanente e irreversible de conciencia y de respuesta a estímulos sensoriales;
 
@@ -1095,13 +1097,17 @@ b) Ausencia de automatismo respiratorio; y
 
 c) Evidencia de daño irreversible del tallo cerebral, manifestado por arreflexia pupilar, ausencia de movimientos oculares en pruebas vestibulares y ausencia de respuesta a estímulos nociceptivos.
 
-Se debe descartar que dichos signos sean producto de intoxicación aguda por narcóticos, sedantes, barbitúricos o sustancias neurotrópicas, que sobrepasen los niveles terapéuticos.
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2011)</small>
 
-La muerte cerebral debe corroborarse con la práctica de cualquiera de las siguientes pruebas:
+Se deberá descartar que los signos de la misma sean producto de la intoxicación aguda por narcóticos, sedantes, barbitúricos o sustancias neurotrópicas.
 
-1. Electroencefalogramas que demuestren ausencia total de actividad eléctrica cerebral en dos ocasiones diferentes con espacio de cinco horas entre uno y otro.
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2011)</small>
 
-2. Angiografía cerebral bilateral que demuestre ausencia de circulación cerebral.
+La muerte encefálica deberá corroborarse con la práctica de cualquiera de las siguientes pruebas:
+
+1. Electroencefalograma que demuestre ausencia total de actividad eléctrica corroborado por un médico especialista, o
+
+2. Cualquier otro estudio de gabinete que demuestre en forma documental la ausencia permanente de flujo encefálico arterial.
 
 > <small>(REFORMADO, P.O. 1 DE JULIO DE 2003)</small>
 
@@ -4010,3 +4016,7 @@ PRIMERO. El presente decreto entrará en vigor el 21 de agosto de 2012, previa s
 SEGUNDO. Previa entrada en vigor del presente decreto, los poderes Ejecutivo y Judicial del Estado deberán realizar las acciones necesarias para su debida instrumentación.
 
 De igual forma, se autoriza a las secretarías de Finanzas y de Administración a realizar las adecuaciones presupuestales y administrativas necesarias para el debido cumplimiento tanto del párrafo anterior como del presente decreto.
+
+P.O. 27 DE ENERO DE 2011.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
