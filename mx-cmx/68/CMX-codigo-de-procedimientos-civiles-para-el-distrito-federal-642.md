@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-procedimientos-civiles-para-el-distrito-federal-642"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-01"
-last_updated: "2010-05-14"
+last_updated: "2011-01-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=642&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "1932-08-29"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 14 DE MAYO DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 27 DE ENERO DE 2011.
 
 Código publicado en el Diario Oficial de la Federación los días 1o. al 21 de septiembre de 1932.
 
@@ -4188,7 +4188,11 @@ VI.- Los convenios celebrados en el curso de un juicio ante el juez, ya sea de l
 
 VII.- Las pólizas originales de contratos celebrados con intervención de corredor público;
 
-VIII.- El juicio uniforme de contadores si las partes ante el juez o por escritura pública o por escrito privado reconocido judicialmente se hubieren sujetado a él expresamente o lo hubieren aprobado.
+VIII.- El juicio uniforme de contadores si las partes ante el juez o por escritura pública o por escrito privado reconocido judicialmente se hubieren sujetado a él expresamente o lo hubieren aprobado;
+
+> <small>(ADICIONADA, G.O. 27 DE ENERO DE 2011)</small>
+
+IX.- El estado de liquidación de adeudos, intereses moratorios y/o pena convencional que se haya estipulado en la Asamblea General de Condóminos, suscrita por el administrador y/o comité vigilancia (sic), en el que se incluya copia certificada por Notario Público o por la Procuraduría Social del Distrito Federal, del Acta de Asamblea General relativa y/o del Reglamento Interno del condominio o conjunto condominal, en el que se haya determinado las cuotas a cargo de los condóminos o poseedores para los fondos de mantenimiento, administración, reserva, intereses y demás obligaciones de los condóminos. De acuerdo a lo estipulado en el párrafo tercero del artículo 59 de la nueva Ley de Propiedad en Condominio de Inmuebles para el Distrito Federal.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
@@ -9464,6 +9468,10 @@ Quedan exceptuados (sic) de la anterior disposición todas las controversias rel
 
 Así también conocerán Del Juicio de Pago de Daños Culposos causados con motivo del Tránsito de Vehículos, establecido en el capítulo IV, del Título Séptimo, del Código de Procedimientos Civiles para el Distrito Federal, independientemente del monto que se demande como pago y en los términos y plazos que se señalan en dicho capítulo.
 
+> <small>(ADICIONADO, G.O. 27 DE ENERO DE 2011)</small>
+
+Los jueces de paz conocerán de juicios contenciosos que versen sobre adeudos de cuotas de mantenimiento, intereses o sanciones por incumplimiento a la Ley de Propiedad en Condominio de Inmuebles para el Distrito Federal, y de las resoluciones y convenios celebrados ante la Procuraduría Social del Distrito Federal.
+
 > <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
 
 ARTICULO 3
@@ -10455,3 +10463,13 @@ G.O. 14 DE MAYO DE 2010.
 PRIMERO. El presente decreto entrará en vigor el 10 de septiembre del 2010.
 
 SEGUNDO. Publíquese el presente Decreto en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
+
+G.O. 27 DE ENERO DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Se abroga la actual Ley de Propiedad en Condominio de Inmuebles para el Distrito Federal, publicada en el Diario Oficial de la Federación el 31 de diciembre de 1998 y el 07 de enero de 1999 en la Gaceta Oficial del Distrito Federal.
+
+TERCERO.- El Jefe de Gobierno del Distrito Federal, contará con 60 días hábiles a partir de la publicación de la presente Ley para emitir su Reglamento.
+
+CUARTO.- Publíquese en la Gaceta Oficial del Distrito Federal y para mayor difusión en el Diario Oficial de la Federación.
