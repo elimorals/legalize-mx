@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-salud-del-estado-de-jalisco-antes-ley-estatal-de-5890"
 country: "mx"
 rank: "ley"
 publication_date: "1986-12-30"
-last_updated: "2010-12-23"
+last_updated: "2011-01-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5890&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ESTATAL DE SALUD
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE ENERO DE 2011.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 30 de diciembre de 1986.
 
@@ -1697,7 +1697,9 @@ a) Se presenten los siguientes signos:
 
 4. Paro cardíaco irreversible; ó,
 
-b) Se presenten los siguientes signos de muerte cerebral:
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2011)</small>
+
+b) Se presentan los siguientes signos de muerte encefálica;
 
 1. Pérdida permanente e. irreversible de conciencia y de respuesta a estímulos sensoriales;
 
@@ -1713,21 +1715,19 @@ IV. Consejo de Trasplantes: es el Consejo Estatal de Transplantes de Órganos y 
 
 V. Consentimiento para la donación de órganos: es el documento a través del cual se manifiesta la voluntad de donación en los términos de la Ley General de Salud, el reglamento de la materia y el Código Civil del Estado de Jalisco.
 
-> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2011)</small>
 
 ###### Art. 104-C.
 
-En los casos de muerte cerebral, se deberá descartar que los signos de la misma, sean producto de intoxicación aguda por narcóticos, sedantes, barbitúricos o sustancias neurotrópicas.
+En los casos de muerte encefálica, se deberá descartar que los signos de la misma sean producto de intoxicación aguda por narcóticos, sedantes, barbitúricos o sustancias neurotrópicas.
 
-Los signos de muerte cerebral deberán corroborarse por cualquiera de las siguientes pruebas:
+Los signos de muerte encefálica deberán corroborarse por cualquiera de las siguientes pruebas:
 
-I. Angiografía cerebral bilateral que demuestre ausencia de circulación cerebral, o
+I. Electroencefalograma que demuestre ausencia total de actividad eléctrica, corroborado por un médico especialista, o
 
-II. Electroencefalogramas que demuestren la ausencia total de actividad eléctrica cerebral en dos ocasiones diferentes con espacio de cinco horas.
+II. Cualquier otro estudio de gabinete que demuestre en forma documental la ausencia permanente de flujo encefálico arterial.
 
-El diagnóstico de muerte cerebral y su respectiva certificación, deberán ser realizados por un médico que cuente con especialidad, preferentemente certificada, en neurología, medicina interna, medicina intensiva o medicina de urgencias.
-
-El médico que certifique la muerte deberá ser distinto a los que intervendrán en el trasplante o en la obtención de los órganos o tejidos.
+El diagnóstico de muerte encefálica y su respectiva certificación, deberán ser realizados por un médico que cuente con especialidad, preferentemente en neurología, medicina interna, medicina intensiva o medicina de urgencias.
 
 > <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2006)</small>
 
@@ -3774,3 +3774,7 @@ PRIMERO. El presente decreto entrará en vigor el 21 de agosto de 2012, previa s
 SEGUNDO. Previa entrada en vigor del presente decreto, los poderes Ejecutivo y Judicial del Estado deberán realizar las acciones necesarias para su debida instrumentación.
 
 De igual forma, se autoriza a las secretarías de Finanzas y de Administración a realizar las adecuaciones presupuestales y administrativas necesarias para el debido cumplimiento tanto del párrafo anterior como del presente decreto.
+
+P.O. 27 DE ENERO DE 2011.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
