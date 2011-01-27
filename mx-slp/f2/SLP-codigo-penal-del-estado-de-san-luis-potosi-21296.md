@@ -4,7 +4,7 @@ identifier: "SLP-codigo-penal-del-estado-de-san-luis-potosi-21296"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-09-30"
-last_updated: "2011-01-21"
+last_updated: "2011-01-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21296&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SLP"
 ---
 # CODIGO PENAL DEL ESTADO DE SAN LUIS POTOSI
 
-CODIGO PENAL DEL ESTADO DE SAN LUIS POTOSI
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 29 DE ENERO DE 2011 EN EL PERIÓDICO OFICIAL DEL ESTADO DE SAN LUIS POTOSÍ, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE ENERO DE 2011.
+CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ENERO DE 2011.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 30 de septiembre de 2000.
 
@@ -409,7 +411,7 @@ Las autoridades competentes procederán de inmediato al aseguramiento de los bie
 
 ###### ARTICULO 35.
 
-Los objetos de uso lícito con que se cometa el delito y que sean propiedad del imputado o presunto responsable, se asegurarán de oficio por la autoridad competente o a petición del ofendido para garantizar el pago de la reparación del daño y solamente se levantará el aseguramiento o no se llevará al cabo si se otorga caución bastante para responder del mismo.
+Los objetos de uso lícito con que se cometa el delito y que sean propiedad del imputado o presunto responsable, se asegurarán de oficio por la autoridad competente o a petición del ofendido para garantizar el pago de la reparación del daño y solamente se levantará el aseguramiento o no se llevará al (sic) cabo si se otorga caución bastante para responder del mismo.
 
 ###### ARTICULO 36.
 
@@ -521,7 +523,7 @@ Cuando, transcurrido el término de la pena sustituida, sea notoria la convenien
 
 ###### ARTICULO 50.
 
-El trabajo en favor de la comunidad es una medida sustitutiva de la prisión o de la sanción pecuniaria y consiste en la prestación de servicios no remunerados en instituciones públicas, educativas o de asistencia social. Este trabajo se llevará al cabo en jornadas dentro de períodos distintos al horario de las labores que represente la fuente de ingresos para la subsistencia del sujeto y de su familia, sin que pueda exceder de la jornada extraordinaria que determine la ley laboral y bajo la orientación y vigilancia de la autoridad ejecutora.
+El trabajo en favor de la comunidad es una medida sustitutiva de la prisión o de la sanción pecuniaria y consiste en la prestación de servicios no remunerados en instituciones públicas, educativas o de asistencia social. Este trabajo se llevará al (sic) cabo en jornadas dentro de períodos distintos al horario de las labores que represente la fuente de ingresos para la subsistencia del sujeto y de su familia, sin que pueda exceder de la jornada extraordinaria que determine la ley laboral y bajo la orientación y vigilancia de la autoridad ejecutora.
 
 Cada día de prisión o de día sanción pecuniaria será sustituido por una jornada de trabajo en favor de la comunidad.
 
@@ -1643,7 +1645,7 @@ Este delito se perseguirá a petición de parte, salvo que la víctima sea menor
 
 (DEROGADO, P.O. 4 DE JULIO DE 2009)
 
-## TITULO QUINTO. DELIT0S CONTRA LA FAMILIA
+## TITULO QUINTO. DELITOS CONTRA LA FAMILIA
 
 ### CAPITULO III. MATRIMONIOS ILEGALES
 
@@ -1847,7 +1849,7 @@ Se impondrá prisión de ocho a dieciséis años y de tres mil a diez mil días 
 
 TRATA DE PERSONAS MENORES DE DIECIOCHO AÑOS DE EDAD O DE PERSONAS QUE NO TIENEN CAPACIDAD PARA COMPRENDER EL SIGNIFICADO DEL HECHO O DE PERSONAS QUE NO TIENEN CAPACIDAD PARA RESISTIRLO
 
-> <small>(REFORMADO Y REUBICADO, P.O. 5 DE JULIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2011)</small>
 
 ###### ARTICULO 183.
 
@@ -1861,27 +1863,27 @@ Las mismas penas se impondrán a quien por virtud de las conductas señaladas en
 
 ### CAPITULO VI. LENOCINIO Y TRATA DE PERSONAS
 
-> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2011)</small>
 
-###### ARTICULO 188 Bis.
+ARTICULO 188 BIS. Comete el delito de trata de personas quien promueva, solicite, ofrezca, facilite, consiga, traslade, entregue o reciba para sí o para un tercero, a una persona por medio de la violencia física o moral, el engaño o abuso de poder para someterla a cualquier forma de explotación, ya sea sexual o laboral, o para la prestación de servicios impuestos de manera coercitiva; esclavizarla, o para que le sean extraídos cualquiera de sus órganos, tejidos o sus componentes sin perjuicio de la sanción que le resulte por la comisión de otro delito.
 
-Comete el delito de lenocinio y trata de personas, quien:
+Este delito se sancionará con una pena de seis a doce años de prisión y sanción pecuniaria de setecientos cincuenta a mil setecientos días de salario mínimo.
 
-l. Explota el cuerpo de otra persona por medio del comercio carnal, se mantenga de este comercio u obtenga de él un lucro;
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2011)</small>
 
-II. Induce o coacciona a una persona para que con otra, comercie sexualmente con su cuerpo o le facilita los medios para que se entregue a la prostitución, y
+ARTICULO 188 TER. Comete el delito de lenocinio quien:
 
-III. Regentea, administra o sostiene, directa o indirectamente, prostíbulos, casas de citas o lugares de concurrencia expresamente dedicados a explotar la prostitución, u obtenga cualquier beneficio con sus productos.
+I. Explota el cuerpo de otra persona por medio del comercio carnal, se mantiene de este comercio u obtenga de ello un lucro;
 
-Este delito se sancionará con una pena de tres a ocho años de prisión y sanción pecuniaria de trescientos a ochocientos días de salario mínimo.
+II. Induce o coaccione a una persona para que con otra, comercie sexualmente con su cuerpo o le facilite los medios para que se entregue o dedique a la prostitución, y
 
-> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2007)</small>
+III Regentea, administra o sostenga, directa o indirectamente, prostíbulos, casas de citas o lugares de concurrencia expresamente dedicados a explotar la prostitución, u obtenga cualquier beneficio con sus productos.
 
-###### ARTICULO 188 Ter.
+Este delito se sancionará con una pena de ocho a dieciséis años de prisión y sanción pecuniaria de mil doscientos a dos mil cuatrocientos días de salario mínimo.
 
-Comete el delito de trata de personas quien promueva, facilite, consiga, traslade, entregue o reciba a una persona para someterla a cualquier forma de explotación, ya sea explotación sexual, laboral o por la prestación de servicios impuestos de manera coercitiva, o para que le sean extirpados cualquiera de sus órganos, tejidos o sus componentes; sin perjuicio de la sanción que le resulte por la comisión de otro delito.
+> <small>(ADICIONADO, P.O. 27 DE ENERO DE 2011)</small>
 
-Este delito se sancionará con una pena de tres a ocho años de prisión y sanción pecuniaria de trescientos a ochocientos días de salario mínimo.
+ARTICULO 188 QUATER. Se equipara a la trata de personas, y se sancionará como tal, a quien a cambio del pago de una cantidad de dinero en moneda nacional o extranjera, o cualquier otro beneficio, ofrezca sus servicios de manera directa o como intermediario para trasladar, con la promesa de trabajo en otro Estado de la República o en el extranjero, a una persona a la que abandona e incumple los beneficios prometidos.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE JULIO DE 2007)</small>
 
@@ -1927,31 +1929,33 @@ PROVOCACION DE UN DELITO Y APOLOGIA DEL MISMO O DE ALGUN VICIO Y DE LA OMISION D
 
 ###### ARTICULO 187.
 
-Quien promueva, facilite, consiga o entregue a una persona menor de dieciocho años de edad, o a una persona que no tiene capacidad para comprender el significado del hecho, o a una persona que no tiene capacidad para resistirlo, para que ejerza la prostitución dentro o fuera del Estado o del país, se le impondrá una pena de cinco a diez años de prisión y sanción pecuniaria de quinientos a un mil días de salario mínimo.
+Quien promueva, solicite, ofrezca, facilite, consiga, traslade, entregue o reciba, para sí o para un tercero, a una persona menor de dieciocho años de edad, o a una persona que no tiene capacidad para comprender el significado del hecho, o a una persona que no tiene capacidad para resistirlo, para prostituirla dentro o fuera del Estado o del país, se le impondrá una pena de nueve a dieciocho años de prisión y sanción pecuniaria de mil a dos mil días de salario mínimo.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 5 DE JULIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2011)</small>
 
 ###### ARTICULO 188.
 
-También se considera la comisión del delito que señala el artículo anterior y se sancionará como tal, a quien promueva, facilite, consiga, traslade, entregue o reciba una persona para explotarla en trabajos o servicios impuestos de manera coercitiva, o para que le sea extirpado cualquiera de sus órganos, tejidos o sus componentes; sin perjuicio de la sanción que le resulte por la comisión de otro delito.
+También se considera la comisión del delito que señala el artículo anterior y se sancionará como tal a quien promueva, solicite, ofrezca, facilite, consiga, traslade, entregue o reciba, para sí o para un tercero, a una persona menor de dieciocho años de edad, o a una persona que no tiene capacidad para comprender el significado del hecho, o a una persona que no tiene capacidad para resistirlo, para explotarla en trabajos o servicios impuestos de manera coercitiva, esclavizarla, o extraerle cualquiera de sus órganos, tejidos o sus componentes sin perjuicio de la sanción que le resulte por la comisión de otro delito.
 
-Las penas señaladas en los artículos 180, 180 BIS, 181, 182, 182 BIS, 183, 184, 184 BIS, 187 y 188, se aumentarán al doble de lo que corresponda cuando:
+Las penas que se señalan en los artículos 180, 180 BIS, 181, 182, 182 BIS, 183, 184, 184 BIS, 187 y 188, se aumentarán al doble de lo que corresponde cuando se comete:
 
-I. Se comete por persona que tenga parentesco por consanguinidad, afinidad, o civil, o habite en el mismo domicilio con la víctima aún cuando no exista parentesco alguno entre ellos;
+I. Por persona que se vale de la función pública que tuviere, o que la haya ostentado sin tenerla;
 
-II. Lo comete el mentor, o la persona que tenga el ofendido bajo su custodia, guarda, tutela, curatela, educación, o aproveche para cometer el delito por la confianza en él depositada;
+II. Por persona que tenga parentesco por consanguinidad, afinidad, o civil, o habite en el mismo domicilio con la víctima aun cuando no exista parentesco alguno entre ellos;
 
-III. El delito lo comete el ministro de algún culto religioso;
+III. Por el mentor, o la persona que tenga el ofendido bajo su custodia, guarda, tutela, curatela, educación, o aproveche para cometer el delito por la confianza en él depositada;
 
-IV. Se comete por persona que ejerza sobre la víctima en virtud de una relación laboral, docente, doméstica, médica o cualquiera otra que implique una subordinación de la víctima.
+IV. Por el ministro de algún culto religioso;
 
-V. El delito se haya realizado con la participación o autoría de dos o más personas;
+V. Por persona que ejerza sobre la víctima en virtud de una relación laboral, docente, doméstica, médica o cualquier otra que implique una subordinación de la víctima;
 
-VI. El delito se haya realizado en el hogar, escuela, iglesia o sitio de reunión al que acudía la víctima.
+VI. Por dos o más personas, en participación o autoría;
 
-VII. Se haya suministrado a la víctima alguna sustancia tóxica que le impidiera evitar la ejecución del acto, y
+VII. En el hogar, escuela, iglesia o sitio de reunión al que acudía la víctima;
 
-VIII. Se emplee para la comisión del delito la violencia, psicológica o moral, en contra de la víctima.
+VIII. Suministrando a la víctima alguna sustancia tóxica que le impidiera evitar la ejecución del acto, y
+
+IX. Se emplee para la comisión del delito la violencia, psicológica o moral, en contra de la víctima.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE JULIO DE 2007)</small>
 
@@ -3683,7 +3687,7 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
-P.O 11 DE SEPTIEMBRE DE 2010.
+P.O. 11 DE SEPTIEMBRE DE 2010.
 
 DECRETO NUMERO 338, POR EL QUE SE REFORMA LA FRACCION II DEL ARTICULO 257 DEL CODIGO PENAL DEL ESTADO DE SAN LUIS POTOSI.
 
@@ -3728,3 +3732,9 @@ P.O. 21 DE ENERO DE 2011.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE ENERO DE 2011.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
