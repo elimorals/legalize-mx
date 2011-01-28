@@ -4,7 +4,7 @@ identifier: "FED-ley-de-ciencia-y-tecnologia-24877"
 country: "mx"
 rank: "ley"
 publication_date: "2002-06-05"
-last_updated: "2010-04-27"
+last_updated: "2011-01-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24877&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2002-06-03"
 
 LEY DE CIENCIA Y TECNOLOGIA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE ABRIL DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE ENERO DE 2011.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el miércoles 5 de junio de 2002.
 
@@ -217,9 +217,13 @@ Los miembros del Consejo General desempeñarán sus funciones de manera honoríf
 
 El Consejo General tendrá las siguientes facultades:
 
-I. Establecer políticas nacionales para el avance de la investigación científica, el desarrollo tecnológico y la innovación que apoyen el desarrollo nacional;
+> <small>(REFORMADA, D.O.F. 28 DE ENERO DE 2011)</small>
 
-II. Aprobar el Programa Especial de Ciencia, Tecnología e innovación;
+I. Establecer en el Programa Especial las políticas nacionales para el avance de la investigación científica, el desarrollo tecnológico y la innovación que apoyen el desarrollo nacional;
+
+> <small>(REFORMADA, D.O.F. 28 DE ENERO DE 2011)</small>
+
+II. Aprobar y actualizar el Programa Especial de Ciencia, Tecnología e Innovación;
 
 III. Definir prioridades y criterios para la asignación del gasto público federal en ciencia, tecnología e innovación, los cuales incluirán áreas estratégicas y programas específicos y prioritarios, a los que se les deberá otorgar especial atención y apoyo presupuestal;
 
@@ -275,9 +279,9 @@ I. Ejecutar y dar seguimiento a los acuerdos del Consejo General;
 
 II. Formular y presentar al Consejo General:
 
-> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO, D.O.F. 28 DE ENERO DE 2011)</small>
 
-a) El proyecto del Programa Especial de Ciencia, Tecnología e Innovación, para su aprobación;
+a) El proyecto del Programa Especial de Ciencia, Tecnología e Innovación y sus actualizaciones, para su aprobación;
 
 > <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2009)</small>
 
@@ -473,11 +477,13 @@ La constancia de inscripción en el mencionado registro permitirá acreditar que
 
 #### SECCIÓN III. Programa Especial de Ciencia, Tecnología e Innovación
 
-> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO, D.O.F. 28 DE ENERO DE 2011)</small>
 
 ###### Artículo 20.
 
-El Programa será considerado un programa especial y su integración, aprobación, ejecución y evaluación se realizará en los términos de lo dispuesto en la Ley Federal de Presupuesto y Responsabilidad Hacendaria, en la Ley de Planeación y por esta Ley.
+El Programa será considerado un programa especial y su integración, aprobación, actualización, ejecución y evaluación se realizará en los términos de lo dispuesto en la Ley Federal de Presupuesto y Responsabilidad Hacendaria, en la Ley de Planeación y por esta Ley.
+
+El Programa incluirá una visión de largo plazo y proyección de hasta veinticinco años en los términos de esta Ley y de las disposiciones que deriven de la misma. El Programa será actualizado cada tres años. Las actualizaciones coincidirán con el inicio de cada nueva Legislatura del Congreso de la Unión.
 
 ###### Artículo 21.
 
@@ -510,6 +516,10 @@ g) Seguimiento y evaluación.
 > <small>(REFORMADA, D.O.F. 12 DE JUNIO DE 2009)</small>
 
 III. Las políticas, contenido, acciones y metas de la investigación científica, el desarrollo tecnológico y la innovación que realicen dependencias y entidades de la Administración Pública Federal, así como de los fondos que podrán crearse conforme a esta Ley;
+
+> <small>(ADICIONADA, D.O.F. 28 DE ENERO DE 2011)</small>
+
+III Bis. Las áreas prioritarias del conocimiento y la innovación tecnológica, así como los proyectos estratégicos de ciencia, tecnología e innovación por sectores y regiones;
 
 > <small>(REFORMADA, D.O.F. 12 DE JUNIO DE 2009)</small>
 
@@ -1254,3 +1264,7 @@ Artículo Quinto. Los órganos de gobierno de los Centros Públicos de Investiga
 D.O.F. 27 DE ABRIL DE 2010.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 28 DE ENERO DE 2011.
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
