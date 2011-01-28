@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "2010-09-24"
+last_updated: "2011-01-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ENERO DE 2011.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -469,23 +469,21 @@ IV.- Conforme a los mismos requisitos y procedimientos se designarán a los Cons
 
 La Ley fijará los requisitos y el procedimiento para la elección de los Consejeros Electorales que integren los Consejos Distritales Electorales.
 
-> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 2011)</small>
 
 ###### ARTICULO 22.
 
-El Congreso del Estado tendrá cada año de ejercicio constitucional, dos períodos de sesiones ordinarias que comprenderán del primero de octubre al último día de enero de cada año y del primero de abril al último día de julio; y períodos en los que funcionará la Comisión Permanente, los que abarcarán del primero de febrero al último día de marzo y del primero de agosto al último día de septiembre.
+El Congreso del Estado tendrá cada año tres períodos de Sesiones ordinarias, el Primer Período inicia a partir del primero de octubre al último día de enero de cada año, el Segundo Período comprende del primero de febrero al último día de mayo de cada año, y el Tercer Período será a partir del primero de junio al último día de septiembre de cada año.
 
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2009)</small>
+En los tres períodos ordinarios, la Legislatura del Estado estudiará y votará los dictámenes de las cuentas públicas y modificaciones presupuestales, que sean presentados a su consideración, así como las iniciativas de Leyes, decretos o acuerdos económicos; y resolverá los demás asuntos que le correspondan, conforme a esta Constitución.
 
-En ambos periodos ordinarios, la Legislatura del Estado estudiará y votará los dictámenes de las cuentas públicas y modificaciones presupuestales, que sean presentados a su consideración, así como las iniciativas de Leyes, decretos o acuerdos económicos; y resolverá los demás asuntos que le correspondan, conforme a esta Constitución.
+En cada Período de Sesiones Ordinarias el Congreso se ocupará de manera preferente de los asuntos que señale su Ley Orgánica.
 
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2009)</small>
+Durante el Primer Período Ordinario de Sesiones, concluida la Glosa del Informe, el Congreso del Estado podrá solicitar durante los siguientes 15 días al Gobernador ampliar la información mediante el procedimiento de Pregunta Parlamentaria, misma que se hará por escrito y tendrá un plazo de 30 días para su respuesta. Los titulares de las dependencias del Poder Ejecutivo o de las entidades paraestatales, al comparecer ante el congreso rendirán sus informes bajo protesta de decir verdad. La Ley del Congreso y sus reglamentos regularán el ejercicio de esta facultad.
 
-En el Primer Periodo Ordinario, antes de concluir el año, examinará, discutirá y aprobará las Leyes de Ingresos del Estado y de los Municipios, así como los Presupuestos de Egresos de los Poderes Ejecutivo, Legislativo y Judicial y de los Organismos Públicos Autónomos, correspondientes al ejercicio fiscal siguiente, en los términos de la Ley de materia.
+En el Primer Período Ordinario de cada año, antes de concluir el año, el Congreso del Estado examinará, discutirá y aprobará las Leyes de Ingresos del Estado y de los Municipios, así como los Presupuestos de Egresos de los Poderes Ejecutivo, Legislativo y Judicial y de los Organismos Públicos Autónomos, en los términos de la Ley de la materia.
 
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2009)</small>
-
-En el Segundo Periodo Ordinario, el Congreso concluirá la revisión, análisis, dictaminación y, en su caso, aprobación o no aprobación, de las Cuentas Públicas recibidas en el ejercicio anterior, que hayan sido fiscalizadas en los términos de la Ley de la materia.
+En el Segundo Período Ordinario de cada año, el Congreso deberá concluir la revisión, análisis, dictaminación y, en su caso, aprobación o no aprobación, de las Cuentas Públicas recibidas en el ejercicio anterior, que hayan sido fiscalizadas en los términos de la Ley de la materia.
 
 > <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2001)</small>
 
@@ -623,17 +621,17 @@ XXXII.- (DEROGADA, P.O. 26 DE DICIEMBRE DE 2008)
 
 XXXIII.- Aprobar los convenios de asociación que celebren los municipios del Estado con los de otras entidades federativas que tengan por objeto la eficaz prestación de los servicios públicos o el mejor ejercicio de las funciones que les correspondan, y (sic)
 
-> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2011)</small>
 
-XXXIV.- Erigirse en Asamblea de Transición por medio de la Mesa Directiva de la Comisión Permanente, a fin de preparar y cumplir con el proceso de entrega recepción de una Legislatura a otra, en los términos que disponga la Ley;
+XXXIV.- Erigirse en Asamblea de Transición por medio de la Mesa Directiva del Congreso a fin de preparar y cumplir con el proceso de entrega recepción de una Legislatura a otra, en los términos que disponga la Ley;
 
 > <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2004)</small>
 
 XXXV.- Elaborar y aprobar el Plan de Desarrollo Legislativo en los términos de esta Constitución y de lo que disponga la Ley;
 
-> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2011)</small>
 
-XXXVI.- Expedir el Reglamento Interior del Congreso y demás acuerdos que resulten necesarios para la adecuada organización administrativa del Congreso;
+XXXVI.- Expedir la Ley que regulará la estructura y funcionamiento interno del Congreso, su Reglamento Interior, y demás acuerdos que resulten necesarios para la adecuada organización administrativa del Congreso;
 
 > <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2004)</small>
 
@@ -705,11 +703,17 @@ Desechada una iniciativa no podrá volver a presentarse en el mismo período de 
 
 En la reforma, derogación o abrogación de las leyes o decretos, se observarán los mismos trámites establecidos para su formación.
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTICULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 15 DE ABRIL DE 2011 EN EL P.O. DEL ESTADO DE BAJA CALIFORNIA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA EN LOS ARTICULOS COMO EN EL ARCHIVO ANEXO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE ENERO DE 2011)</small>
+
 ###### ARTICULO 33.
 
-Las iniciativas adquirirán el carácter de ley cuando sean aprobadas por el Congreso y promulgadas por el Ejecutivo.
+Las iniciativas aquirirán (sic) el carácter de ley cuando sean aprobadas por el Congreso y promulgadas por el Ejecutivo, salvo lo previsto en el artículo 34 de esta Constutución (sic).
 
 Si la ley no fija el día en que deba comenzar a observarse, será obligatoria en todo el Estado tres días después de la fecha de su publicación en el Periódico Oficial del Estado.
+
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTICULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 15 DE ABRIL DE 2011 EN EL P.O. DEL ESTADO DE BAJA CALIFORNIA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA EN LOS ARTICULOS COMO EN EL ARCHIVO ANEXO.</small>
 
 ###### ARTICULO 34.
 
@@ -749,35 +753,19 @@ Los proyectos de Ley y los decretos aprobados por el Congreso, se remitirán al 
 
 El Gobernador del Estado no podrá hacer observaciones sobre los decretos que manden abrir o cerrar sesiones del Congreso, los emitidos por éste cuando actúe en funciones de Jurado de Sentencia y las reformas constitucionales aprobadas en los términos del artículo 112 de esta Constitución.
 
+> <small>(ADICIONADO, P.O. 28 DE ENERO DE 2011)</small>
+
+El Congreso del Estado tendrá facultades plenas para expedir, reformar, adicionar o abrogar la ley que regulará su estructura y funcionamiento internos. Esta Ley o las reformas a la misma no podrán ser vetadas ni sujetas a observaciones, ni necesitarán de promulgación del Ejecutivo del Estado para tener vigencia.
+
 > <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2007)</small>
 
 ###### ARTICULO 35.
 
 Cuando en esta Constitución o en la Ley, se señale que una atribución que ejerza el Congreso del Estado debe ser aprobada por mayoría calificada o por dos terceras partes de sus integrantes, se entenderá que se requieren por lo menos diecisiete votos de los Diputados.
 
-> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2004)</small>
-
 ###### ARTICULO 36.
 
-La Comisión Permanente es el órgano del Congreso del Estado que, fuera de los períodos ordinarios, desempeña las funciones que le señala la Constitución Política del Estado.
-
-La Comisión Permanente se compone de cinco miembros, quienes serán designados mediante el voto de la mayoría de los Diputados presentes, en los términos en que lo disponga la Ley.
-
-La Comisión Permanente podrá convocar a períodos extraordinarios de sesiones de la Cámara de Diputados; sin embargo, no suspenderá sus trabajos durante dichos períodos. En tal circunstancia, el Pleno, solo se ocupará del asunto o asuntos que la propia Comisión sometiese a su conocimiento, los cuales se expresarán en la convocatoria respectiva.
-
-La Comisión podrá conceder las licencias y permisos de la competencia del Congreso, siempre y cuando no sean de aquéllas que se regulan en los párrafos siguientes.
-
-Tratándose de las faltas absolutas o temporales del Ejecutivo del Estado durante el período en que esté en funciones la Comisión Permanente, ésta convocará de inmediato al Pleno a un período extraordinario de sesiones, para el efecto de que procedan en los términos que prevé esta Constitución. La convocatoria no podrá ser vetada por el Gobernador provisional.
-
-Si el Congreso del Estado, se encuentra reunido en un período extraordinario de sesiones y ocurre la falta absoluta o temporal del Gobernador del Estado, la Comisión Permanente, de inmediato, ampliará el objeto de la convocatoria a fin de que el Congreso esté en aptitud de nombrar al Gobernador interino o sustituto, según proceda.
-
-La Mesa Directiva de la Comisión Permanente, se integrará por un Presidente y un Secretario, quienes tendrán las atribuciones que disponga la Ley.
-
-Llevada a cabo la elección de la Mesa Directiva, los electos tomarán posesión de sus cargos y el Presidente de la Mesa procederá a declarar instalada la Comisión Permanente.
-
-Las sesiones de la Comisión Permanente se efectuarán en la forma y términos que disponga la Ley.
-
-La elección de la Mesa Directiva se comunicará al Titular del Ejecutivo del Estado y al Tribunal Superior de Justicia del Estado, a la Cámara de Diputados Federal y la de Senadores, así como a los Órganos Legislativos de los Estados y del Distrito Federal.
+(DEROGADO, P.O. 28 DE ENERO DE 2011)
 
 > <small>(ADICIONADO, P.O. 30 DE ENERO DE 2004)</small>
 
@@ -1463,7 +1451,7 @@ Quienes hayan ejercido los cargos a que se refiere este artículo estarán imped
 
 Todo servidor público del Poder Judicial que tenga conocimiento de la comisión de hechos posiblemente delictuosos que deban perseguirse de oficio o que pudieran constituir una responsabilidad administrativa, estará obligado a denunciarlos en los términos de las leyes respectivas. Corresponderá al Consejo de la Judicatura en ejercicio de sus facultades, investigar y determinar las responsabilidades de los servidores públicos del Poder Judicial, y formular en su caso denuncias o querellas por la comisión de delitos cometidos por los mismos, de acuerdo con lo previsto en las leyes.
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 67.
 
@@ -2167,17 +2155,17 @@ El Gobernador del Estado rendirá la protesta de Ley ante el Congreso en los sig
 
 "Protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado de Baja California y las leyes que de ambas emanen, desempeñando leal y patrióticamente el cargo de Gobernador que el pueblo me ha conferido, mirando en todo por el bien y prosperidad de la Unión y del Estado; y si así no lo hiciere que el pueblo me lo demande."
 
-> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 2011)</small>
 
-Igualmente los Magistrados del Poder Judicial rendirán la protesta de Ley ante el Congreso o su Comisión Permanente, en la siguiente forma:
+Igualmente los Magistrados del Poder Judicial rendirán la protesta de Ley ante el Congreso, en la siguiente forma:
 
-> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 2011)</small>
 
-El Presidente del Congreso o de la Comisión Permanente preguntará:
+El Presidente del Congreso preguntará:
 
-> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 2011)</small>
 
-"¿Protestáis guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, las Leyes que de una y otra emanen y cumplir leal y patrióticamente con los deberes del cargo de Magistrado del Poder Judicial que se os ha conferido?". El interrogado contestará: "Sí protesto". Acto continuo, dirá el Presidente del Congreso o de su Comisión Permanente: "Si así no lo hiciereis que la Nación y el Estado os lo demanden".
+"¿Protestáis guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, las Leyes que de una y otra emanen y cumplir leal y patrióticamente con los deberes del cargo de Magistrado del Poder Judicial que se os ha conferido?". El interrogado contestará: "Sí protesto". Acto continuo, dirá el Presidente del Congreso: "Si así no lo hiciereis que la Nación y el Estado os lo demanden".
 
 > <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2010)</small>
 
@@ -2191,17 +2179,17 @@ Los integrantes del Consejo de la Judicatura rendirán protesta de Ley ante el P
 
 Los nombramientos conferidos a los Consejeros de la Judicatura del Estado de Baja California, rendirán Protesta de Ley ante el Congreso del Estado, en la siguiente forma:
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 2011)</small>
 
-Igualmente los Magistrados del Tribunal de lo Contencioso Administrativo rendirán la protesta de Ley ante el Congreso del Estado o su Comisión Permanente, en la siguiente forma:
+Igualmente los Magistrados del Tribunal de lo Contencioso Administrativo rendirán la protesta de Ley ante el Congreso del Estado, en la siguiente forma:
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 2011)</small>
 
-El Presidente del Congreso o de la Comisión Permanente preguntará:
+El Presidente del Congreso preguntará:
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 2011)</small>
 
-"¿Protestáis guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, las Leyes que de una y otra emanen y cumplir leal y patrióticamente con los deberes del cargo de Magistrado del Tribunal de lo Contencioso Administrativo que se os ha conferido?". El interrogado contestará: "Sí protesto". Acto continuo, dirá el Presidente del Congreso o de su Comisión Permanente: "Si así no lo hiciereis que la Nación y el Estado os lo demanden".
+"¿Protestáis guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, las Leyes que de una y otra emanen y cumplir leal y patrióticamente con los deberes del cargo de Magistrado del Tribunal de lo Contencioso Administrativo que se os ha conferido?". El interrogado contestará: "Sí protesto". Acto continuo, dirá el Presidente del Congreso: "Si así no lo hiciereis que la Nación y el Estado os lo demanden".
 
 ###### ARTICULO 110.
 
@@ -3236,3 +3224,23 @@ QUINTO.- El Gobernador del Estado dentro de un plazo de seis meses antes del ini
 SEXTO.- Los recursos de inconformidad que se encuentren en trámite y aquellos que se presenten en forma previa al inicio de labores del Instituto de Transparencia y Acceso a la Información Pública del Estado de Baja California, continuarán su substanciación ante los Sujetos Obligados, en los términos de la Ley de Acceso a la Información Pública para el Estado de Baja California.
 
 SÉPTIMO.- Los sujetos obligados al cumplimiento de las disposiciones de transparencia y acceso a la información pública, tendrán un plazo de 30 días, contados a partir de la entrada en vigor de la presente reforma, para adecuar su normatividad.
+
+P.O. 28 DE ENERO DE 2011.
+
+DECRETO NUMERO 28, POR EL QUE SE REFORMAN Y ADICIONAN EL ARTICULO 27 FRACCION XXXVI; EL ARTICULO 33 Y EL ARTICULO 34 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA.
+
+PRIMERO.- Aprobada que sea la presente reforma, túrnese a los Ayuntamientos del Estado de Baja California, para el trámite previsto en los términos del artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
+
+SEGUNDO.- Agotado el proceso legislativo, y de obtener la reforma aprobación de la mayoría de los ayuntamientos del Estado, procédase a pronunciar la declaratoria de incorporación constitucional correspondiente.
+
+TERCERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California. Las disposiciones que contravengan el presente decreto quedarán sin efectos.
+
+P.O. 28 DE ENERO DE 2011.
+
+DECRETO NUMERO 30, POR EL QUE SE REFORMA A LOS ARTICULOS 22, 27 FRACCION XXXIV Y 109 PARRAFOS TERCERO, CUARTO, QUINTO NOVENO, DECIMO Y DECIMO PRIMERO; SE DEROGA EL ARTICULO 36, TODOS DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA.
+
+PRIMERO.- Aprobada que sea esta Iniciativa por esta Honorable Asamblea, envíese a los Ayuntamientos del Estado copia del acta de los debates que hubiere provocado, para efecto de dar cumplimiento con lo previsto por el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
+
+SEGUNDO.- En su oportunidad, pronunciada la Declaratoria en los términos establecidos por el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California, remítase al Ejecutivo la presente Reforma Constitucional para los efectos conducentes.
+
+TERCERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
