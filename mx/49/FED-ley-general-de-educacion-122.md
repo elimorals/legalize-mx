@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-educacion-122"
 country: "mx"
 rank: "ley_general"
 publication_date: "1993-07-13"
-last_updated: "2010-08-19"
+last_updated: "2011-01-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGE"
 
 LEY GENERAL DE EDUCACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE AGOSTO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE ENERO DE 2011.
 
 Ley publicada en el Diario Oficial de la Federación, el martes 13 de julio de 1993.
 
@@ -66,7 +66,9 @@ El Estado está obligado a prestar servicios educativos para que toda la poblaci
 
 Todos los habitantes del país deben cursar la educación preescolar, la primaria y la secundaria.
 
-Es obligación de los mexicanos hacer que sus hijos o pupilos menores de edad cursen la educación preescolar, la primaria y la secundaria.
+> <small>(REFORMADO, D.O.F. 28 DE ENERO DE 2011)</small>
+
+Es obligación de los mexicanos hacer que sus hijas, hijos o pupilos menores de edad cursen la educación preescolar, la primaria y la secundaria.
 
 ###### ARTICULO 5o.
 
@@ -76,13 +78,15 @@ La educación que el Estado imparta será laica y, por lo tanto, se mantendrá p
 
 La educación que el Estado imparta será gratuita. Las donaciones destinadas a dicha educación en ningún caso se entenderán como contraprestaciones del servicio educativo.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 17 DE ABRIL DE 2009)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE ENERO DE 2011)</small>
 
 ###### ARTICULO 7o.
 
-La educación que imparta el Estado, sus organismos descentralizados y los particulares con autorización o con reconocimiento de validez oficial de estudios tendrá, además de los fines establecidos en el segundo párrafo del artículo 3 de la Constitución Política de los Estados Unidos Mexicanos, los siguientes:
+La educación que impartan el Estado, sus organismos descentralizados y los particulares con autorización o con reconocimiento de validez oficial de estudios tendrá, además de los fines establecidos en el segundo párrafo del artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos, los siguientes:
 
-I.- Contribuir al desarrollo integral del individuo, para que ejerza plenamente sus capacidades humanas;
+> <small>(REFORMADA, D.O.F. 28 DE ENERO DE 2011)</small>
+
+I.- Contribuir al desarrollo integral del individuo, para que ejerza plena y responsablemente sus capacidades humanas;
 
 II.- Favorecer el desarrollo de facultades para adquirir conocimientos, así como la capacidad de observación, análisis y reflexión críticos;
 
@@ -96,9 +100,9 @@ Los hablantes de lenguas indígenas, tendrán acceso a la educación obligatoria
 
 V.- Infundir el conocimiento y la práctica de la democracia como la forma de gobierno y convivencia que permite a todos participar en la toma de decisiones al mejoramiento de la sociedad;
 
-> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2008)</small>
+> <small>(REFORMADA, D.O.F. 28 DE ENERO DE 2011)</small>
 
-VI.- Promover el valor de la justicia, de la observancia de la Ley y de la igualdad de los individuos ante ésta, así como promover el desarrollo de una cultura por la paz y la no violencia en cualquier tipo de sus manifestaciones y propiciar el conocimiento de los Derechos Humanos y el respeto a los mismos;
+VI.- Promover el valor de la justicia, de la observancia de la Ley y de la igualdad de los individuos ante ésta, propiciar la cultura de la legalidad, de la paz y la no violencia en cualquier tipo de sus manifestaciones, así como el conocimiento de los Derechos Humanos y el respeto a los mismos;
 
 VII.- Fomentar actitudes que estimulen la investigación y la innovación científicas y tecnológicas;
 
@@ -106,13 +110,13 @@ VIII.- Impulsar la creación artística y propiciar la adquisición, el enriquec
 
 IX.- Estimular la educación física y la práctica del deporte;
 
-> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 2008)</small>
+> <small>(REFORMADA, D.O.F. 28 DE ENERO DE 2011)</small>
 
-X.- Desarrollar actitudes solidarias en los individuos, para crear conciencia sobre la preservación de la salud, la planeación familiar y la paternidad responsable, sin menoscabo de la libertad y del respeto absoluto a la dignidad humana, así como propiciar el rechazo a los vicios y adicciones, fomentando el conocimiento de sus causas, riesgos y consecuencias;
+X.- Desarrollar actitudes solidarias en los individuos y crear conciencia sobre la preservación de la salud, el ejercicio responsable de la sexualidad, la planeación familiar y la paternidad responsable, sin menoscabo de la libertad y del respeto absoluto a la dignidad humana, así como propiciar el rechazo a los vicios y adicciones, fomentando el conocimiento de sus causas, riesgos y consecuencias;
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA, D.O.F. 28 DE ENERO DE 2011)</small>
 
-XI.- Inculcar los conceptos y principios fundamentales de la ciencia ambiental, el desarrollo sustentable así como la valoración de la protección y conservación del medio ambiente como elementos esenciales para el desenvolvimiento armónico e integral del individuo y la sociedad;
+XI.- Inculcar los conceptos y principios fundamentales de la ciencia ambiental, el desarrollo sustentable, la prevención del cambio climático, así como de la valoración de la protección y conservación del medio ambiente como elementos esenciales para el desenvolvimiento armónico e integral del individuo y la sociedad. También se proporcionarán los elementos básicos de protección civil, mitigación y adaptación ante los efectos que representa el cambio climático y otros fenómenos naturales;
 
 XII.- Fomentar actitudes solidarias y positivas hacia el trabajo, el ahorro y el bienestar general;
 
@@ -242,7 +246,9 @@ VIII.- Fijar los requisitos pedagógicos de los planes y programas de educación
 
 IX.- Regular un sistema nacional de créditos, de revalidación y de equivalencias, que faciliten el tránsito de educandos de un tipo o modalidad educativo a otro;
 
-X.- Llevar un registro nacional de instituciones pertenecientes al sistema educativo nacional;
+> <small>(REFORMADA, D.O.F. 28 DE ENERO DE 2011)</small>
+
+X.- Regular, coordinar y operar un padrón nacional de alumnos, docentes, instituciones y centros escolares; un registro nacional de emisión, validación e inscripción de documentos académicos y establecer un Sistema Nacional de Información Educativa;
 
 XI.- Fijar los lineamientos generales de carácter nacional a los que deban ajustarse la constitución y el funcionamiento de los consejos de participación social a que se refiere el capítulo VII de esta Ley;
 
@@ -272,11 +278,19 @@ IV.- Prestar los servicios de formación, actualización, capacitación y supera
 
 V.- Revalidar y otorgar equivalencias de estudios de la educación preescolar, la primaria, la secundaria, la normal y demás para la formación de maestros de educación básica, de acuerdo con los lineamientos generales que la Secretaría expida;
 
-> <small>(REFORMADA, D.O.F. 10 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA, D.O.F. 28 DE ENERO DE 2011)</small>
 
-VI.- Otorgar, negar y revocar autorización a los particulares para impartir la educación preescolar, la primaria, la secundaria, la normal y demás para la formación de maestros de educación básica, y
+VI.- Otorgar, negar y revocar autorización a los particulares para impartir la educación preescolar, la primaria, la secundaria, la normal y demás para la formación de maestros de educación básica;
 
-VII.- Las demás que con tal carácter establezcan esta Ley y otras disposiciones aplicables.
+> <small>(ADICIONADA, D.O.F. 28 DE ENERO DE 2011)</small>
+
+VII.- Coordinar y operar un padrón estatal de alumnos, docentes, instituciones y centros escolares; un registro estatal de emisión, validación e inscripción de documentos académicos y establecer un Sistema Estatal de Información Educativa coordinado con el Sistema Nacional de Información Educativa;
+
+> <small>(ADICIONADA, D.O.F. 28 DE ENERO DE 2011)</small>
+
+VIII.- Participar con la autoridad educativa federal en la operación de los mecanismos de ingreso y promoción en el servicio docente y de administración escolar, y
+
+IX.- Las demás que con tal carácter establezcan esta Ley y otras disposiciones aplicables.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 17 DE ABRIL DE 2009)</small>
 
@@ -356,33 +370,45 @@ Las autoridades educativas, en sus respectivos ámbitos de competencia, constitu
 
 I.- La formación, con nivel de licenciatura, de maestros de educación inicial, básica -incluyendo la de aquéllos para la atención de la educación indígena- especial y de educación física;
 
-II.- La actualización de conocimientos y superación docente de los maestros en servicio, citados en la fracción anterior;
+> <small>(REFORMADA, D.O.F. 28 DE ENERO DE 2011)</small>
+
+II.- La formación continua, la actualización de conocimientos y superación docente de los maestros en servicio, citados en la fracción anterior;
 
 III.- La realización de programas de especialización, maestría y doctorado, adecuados a las necesidades y recursos educativos de la entidad, y
 
 IV.- El desarrollo de la investigación pedagógica y la difusión de la cultura educativa.
 
-Las autoridades educativas locales podrán coordinarse para llevar a cabo actividades relativas a las finalidades previstas en este artículo, cuando la calidad de los servicios o la naturaleza de las necesidades hagan recomendables proyectos regionales.
+> <small>(REFORMADO, D.O.F. 28 DE ENERO DE 2011)</small>
+
+Las autoridades educativas locales podrán coordinarse para llevar a cabo actividades relativas a las finalidades previstas en este artículo, cuando la calidad de los servicios o la naturaleza de las necesidades hagan recomendables proyectos regionales. Asimismo, podrán suscribir convenios de colaboración con instituciones de educación superior nacionales o del extranjero para ampliar las opciones de formación, actualización y superación docente.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE ENERO DE 2011)</small>
 
 ###### ARTICULO 21.
 
-El educador es promotor, coordinador y agente directo del proceso educativo. Deben proporcionársele los medios que le permitan realizar eficazmente su labor y que contribuyan a su constante perfeccionamiento.
+El educador es promotor, coordinador, facilitador y agente directo del proceso educativo. Las autoridades educativas proporcionarán los medios que le permitan realizar eficazmente su labor y que contribuyan a su constante perfeccionamiento.
 
 > <small>(REFORMADO, D.O.F. 2 DE JULIO DE 2010)</small>
 
 Para ejercer la docencia en instituciones establecidas por el Estado, por sus organismos descentralizados y por los particulares con autorización o con reconocimiento de validez oficial de estudios, los maestros deberán satisfacer los requisitos que, en su caso, señalen las autoridades competentes. En el caso de los maestros de educación indígena que no tengan licenciatura como nivel mínimo de formación, deberán participar en los programas de capacitación que diseñe la autoridad educativa y certificar su bilingüismo en la lengua indígena que corresponda y el español.
 
-El Estado otorgará un salario profesional para que los educadores de los planteles del propio Estado alcancen un nivel de vida decoroso para su familia; puedan arraigarse en las comunidades en las que trabajan y disfrutar de vivienda digna; así como para que dispongan del tiempo necesario para la preparación de las clases que impartan y para su perfeccionamiento profesional.
+> <small>(REFORMADO, D.O.F. 28 DE ENERO DE 2011)</small>
+
+El Estado otorgará un salario profesional digno, que permita al profesorado de los planteles del propio Estado alcanzar un nivel de vida decoroso para ellos y su familia; puedan arraigarse en las comunidades en las que trabajan y disfrutar de vivienda digna; así como disponer del tiempo necesario para la preparación de las clases que impartan y para realizar actividades destinadas a su desarrollo personal y profesional.
 
 Las autoridades educativas establecerán mecanismos que propicien la permanencia de los maestros frente a grupo, con la posibilidad para éstos de ir obteniendo mejores condiciones y mayor reconocimiento social.
 
-Las autoridades educativas otorgarán reconocimientos, distinciones, estímulos y recompensas a los educadores que se destaquen en el ejercicio de su profesión y, en general, realizarán actividades que propicien mayor aprecio social por la labor desempeñada por el magisterio.
+> <small>(REFORMADO, D.O.F. 28 DE ENERO DE 2011)</small>
+
+Las autoridades educativas otorgarán reconocimientos, distinciones, estímulos y recompensas a los educadores que se destaquen en el ejercicio de su profesión y, en general, realizarán actividades que propicien mayor aprecio social por la labor desempeñada por el magisterio. Además, establecerán mecanismos de estímulo a la labor docente con base en la evaluación.
+
+> <small>(REFORMADO, D.O.F. 28 DE ENERO DE 2011)</small>
 
 ###### ARTICULO 22.
 
-Las autoridades educativas, en sus respectivas competencias, revisarán permanentemente las disposiciones, los trámites y procedimientos, con objeto de simplificarlos, de reducir las cargas administrativas de los maestros, de alcanzar más horas efectivas de clase y, en general, de lograr la prestación del servicio educativo con mayor pertinencia y de manera más eficiente.
+Las autoridades educativas, en sus respectivas competencias, revisarán permanentemente las disposiciones, los trámites y procedimientos, con objeto de simplificarlos, de reducir las cargas administrativas de los maestros, de alcanzar más horas efectivas de clase y, en general, de lograr la prestación del servicio educativo con mayor pertinencia, calidad y eficiencia.
 
-En las actividades de supervisión las autoridades educativas darán preferencia, respecto de los aspectos administrativos, a los apoyos técnicos, didácticos y demás para el adecuado desempeño de la función docente.
+En las actividades de supervisión las autoridades educativas darán prioridad, respecto de los aspectos administrativos, a los apoyos técnicos, didácticos y demás para el adecuado desempeño de la función docente. Asimismo, se fortalecerá la capacidad de gestión de las autoridades escolares y la participación de los padres de familia.
 
 ###### ARTICULO 23.
 
@@ -476,13 +502,15 @@ Para cumplir con lo dispuesto en el artículo anterior, las autoridades educativ
 
 I.- Atenderán de manera especial las escuelas en que, por estar en localidades aisladas, zonas urbanas marginadas o comunidades indígenas, sea considerablemente mayor la posibilidad de atrasos o deserciones, mediante la asignación de elementos de mejor calidad, para enfrentar los problemas educativos de dichas localidades;
 
-II.- Desarrollarán programas de apoyo a los maestros que realicen su servicio en localidades aisladas o zonas urbanas marginadas, a fin de fomentar el arraigo en sus comunidades;
+> <small>(REFORMADA, D.O.F. 28 DE ENERO DE 2011)</small>
+
+II.- Desarrollarán programas de apoyo a los maestros que presten sus servicios en localidades aisladas y zonas urbanas marginadas, a fin de fomentar el arraigo en sus comunidades y cumplir con el calendario escolar;
 
 III.- Promoverán centros de desarrollo infantil, centros de integración social, internados, albergues escolares e infantiles y demás planteles que apoyen en forma continua y estable el aprendizaje y el aprovechamiento de los alumnos;
 
-> <small>(REFORMADA, D.O.F. 17 DE ABRIL DE 2009)</small>
+> <small>(REFORMADA, D.O.F. 28 DE ENERO DE 2011)</small>
 
-IV.- Prestarán servicios educativos para atender a quienes abandonaron el sistema regular, que faciliten la terminación de la educación preescolar, primaria y la secundaria, otorgando facilidades de acceso, reingreso, permanencia, y egreso a las mujeres;
+IV.- Prestarán servicios educativos para atender a quienes abandonaron el sistema regular y se encuentran en situación de rezago educativo para que concluyan la educación básica, otorgando facilidades de acceso, reingreso, permanencia, y egreso a las mujeres;
 
 V.- Otorgarán apoyos pedagógicos a grupos con requerimientos educativos específicos, tales como programas encaminados a recuperar retrasos en el aprovechamiento escolar de los alumnos;
 
@@ -490,13 +518,17 @@ VI.- Establecerán sistemas de educación a distancia;
 
 VII.- Realizarán campañas educativas que tiendan a elevar los niveles culturales, sociales y de bienestar de la población, tales como programas de alfabetización y de educación comunitaria;
 
-> <small>(REFORMADA, D.O.F. 17 DE ABRIL DE 2009)</small>
+> <small>(REFORMADA, D.O.F. 28 DE ENERO DE 2011)</small>
 
-VIII.- Desarrollarán programas con perspectiva de género para otorgar becas y demás apoyos económicos a educandos;
+VIII.- Desarrollarán programas con perspectiva de género, para otorgar becas y demás apoyos económicos preferentemente a los estudiantes que enfrenten condiciones económicas y sociales que les impidan ejercer su derecho a la educación;
 
-IX.- Efectuarán programas dirigidos a los padres de familia, que les permitan dar mejor atención a sus hijos;
+> <small>(REFORMADA, D.O.F. 28 DE ENERO DE 2011)</small>
 
-X.- Otorgarán estímulos a las asociaciones civiles y a las cooperativas de maestros que se dediquen a la enseñanza;
+IX.- Efectuarán programas dirigidos a los padres de familia, que les permitan dar mejor atención a sus hijas e hijos;
+
+> <small>(REFORMADA, D.O.F. 28 DE ENERO DE 2011)</small>
+
+X.- Otorgarán estímulos a las organizaciones de la sociedad civil y a las cooperativas de maestros que se dediquen a la enseñanza;
 
 XI.- Promoverán mayor participación de la sociedad en la educación, así como el apoyo de los particulares al financiamiento y a las actividades a que se refiere este capítulo;
 
@@ -508,9 +540,9 @@ XII.- Concederán reconocimientos y distinciones a quienes contribuyan a la cons
 
 XIII.- Proporcionarán materiales educativos en las lenguas indígenas que correspondan en las escuelas en donde asista mayoritariamente población indígena;
 
-> <small>(REFORMADA, D.O.F. 2 DE JULIO DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 28 DE ENERO DE 2011)</small>
 
-XIV.- Realizarán las demás actividades que permitan ampliar la calidad y la cobertura de los servicios educativos, y alcanzar los propósitos mencionados en el artículo anterior, y
+XIV.- Realizarán las demás actividades que permitan mejorar la calidad y ampliar la cobertura de los servicios educativos, y alcanzar los propósitos mencionados en el artículo anterior, y
 
 > <small>(ADICIONADA, D.O.F. 17 DE ABRIL DE 2009)</small>
 
@@ -556,19 +588,21 @@ En el sistema educativo nacional queda comprendida la educación inicial, la edu
 
 De acuerdo con las necesidades educativas específicas de la población, también podrá impartirse educación con programas o contenidos particulares para atender dichas necesidades.
 
+> <small>(REFORMADO, D.O.F. 28 DE ENERO DE 2011)</small>
+
 ###### ARTICULO 40.
 
-La educación inicial tiene como propósito favorecer el desarrollo físico, cognoscitivo, afectivo y social de los menores de cuatro años de edad. Incluye orientación a padres de familia o tutores para la educación de sus hijos o pupilos.
+La educación inicial tiene como propósito favorecer el desarrollo físico, cognoscitivo, afectivo y social de los menores de cuatro años de edad. Incluye orientación a padres de familia o tutores para la educación de sus hijas, hijos o pupilos.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 17 DE ABRIL DE 2009)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE ENERO DE 2011)</small>
 
 ###### ARTICULO 41.
 
-La educación especial está destinada a individuos con discapacidades transitorias o definitivas, así como a aquellos con aptitudes sobresalientes. Atenderá a los educandos de manera adecuada a sus propias condiciones, con equidad social incluyente y con perspectiva de género.
+La educación especial está destinada a personas con discapacidad, transitoria o definitiva, así como a aquellas con aptitudes sobresalientes. Atenderá a los educandos de manera adecuada a sus propias condiciones, con equidad social incluyente y con perspectiva de género.
 
-> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2000)</small>
+> <small>(REFORMADO, D.O.F. 28 DE ENERO DE 2011)</small>
 
-Tratándose de menores de edad con discapacidades, esta educación propiciará su integración a los planteles de educación básica regular, mediante la aplicación de métodos, técnicas y materiales específicos. Para quienes no logren esa integración, esta educación procurará la satisfacción de necesidades básicas de aprendizaje para la autónoma convivencia social y productiva, para lo cual se elaborarán programas y materiales de apoyo didácticos necesarios.
+Tratándose de menores de edad con discapacidad, esta educación propiciará su integración a los planteles de educación básica regular, mediante la aplicación de métodos, técnicas y materiales específicos. Para quienes no logren esa integración, esta educación procurará la satisfacción de necesidades básicas de aprendizaje para la autónoma convivencia social y productiva, para lo cual se elaborarán programas y materiales de apoyo didácticos necesarios.
 
 > <small>(ADICIONADO, D.O.F. 22 DE JUNIO DE 2009)</small>
 
@@ -590,17 +624,21 @@ En la impartición de educación para menores de edad se tomarán medidas que as
 
 En caso de que las y los educadores así como las autoridades educativas, tengan conocimiento de la comisión de algún delito en agravio de las y los educandos, lo harán del conocimiento inmediato de la autoridad correspondiente.
 
-> <small>(REFORMADO, D.O.F. 2 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO, D.O.F. 28 DE ENERO DE 2011)</small>
 
 ###### ARTICULO 43.
 
-La educación para adultos está destinada a individuos de quince años o más que no hayan cursado o concluido la educación primaria y secundaria. La misma se presta a través de servicios de alfabetización, educación primaria y secundaria, así como la formación para el trabajo, con las particularidades adecuadas a dicha población. Esta educación se apoyará en la solidaridad social.
+La educación para adultos está destinada a individuos de quince años o más que no hayan cursado o concluido la educación primaria y secundaria. Se presta a través de servicios de alfabetización, educación primaria y secundaria, así como de formación para el trabajo, con las particularidades adecuadas a dicha población. Esta educación se apoyará en la participación y la solidaridad social.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE ENERO DE 2011)</small>
 
 ###### ARTICULO 44.
 
-Tratándose de la educación para adultos la autoridad educativa federal podrá prestar servicios que conforme a la presente Ley corresponda prestar de manera exclusiva a las autoridades educativas locales.
+Tratándose de la educación para adultos la autoridad educativa federal podrá prestar los servicios que, conforme a la presente Ley, corresponda prestar de manera exclusiva a las autoridades educativas locales.
 
-Los beneficiarios de esta educación podrán acreditar los conocimientos adquiridos, mediante exámenes parciales o globales, conforme a los procedimientos a que aluden los artículos 45 y 64. Cuando al presentar un examen no acrediten los conocimientos respectivos, recibirán un informe que indique las unidades de estudio en las que deban profundizar y tendrán derecho a presentar nuevos exámenes hasta lograr la acreditación de dichos conocimientos.
+> <small>(REFORMADO, D.O.F. 28 DE ENERO DE 2011)</small>
+
+Los beneficiarios de esta educación podrán acreditar los conocimientos adquiridos, mediante evaluaciones parciales o globales, conforme a los procedimientos a que aluden los artículos 45 y 64. Cuando al presentar una evaluación no acrediten los conocimientos, habilidades, capacidades y destrezas, recibirán un informe que indique las asignaturas y unidades de aprendizaje en las que deban profundizar y tendrán derecho a presentar nuevas evaluaciones hasta lograr la acreditación respectiva.
 
 > <small>(REFORMADO, D.O.F. 10 DE DICIEMBRE DE 2004)</small>
 
@@ -634,7 +672,9 @@ Los contenidos de la educación serán definidos en planes y programas de estudi
 
 En los planes de estudio deberán establecerse:
 
-I.- Los propósitos de formación general y, en su caso, de adquisición de las habilidades y las destrezas que correspondan a cada nivel educativo;
+> <small>(REFORMADA, D.O.F. 28 DE ENERO DE 2011)</small>
+
+I.- Los propósitos de formación general y, en su caso, la adquisición de conocimientos, habilidades, capacidades y destrezas que correspondan a cada nivel educativo;
 
 II.- Los contenidos fundamentales de estudio, organizados en asignaturas u otras unidades de aprendizaje que, como mínimo, el educando deba acreditar para cumplir los propósitos de cada nivel educativo;
 
@@ -662,13 +702,19 @@ Para tales efectos la Secretaría considerará las opiniones de las autoridades 
 
 Las autoridades educativas locales, previa consulta al Consejo Estatal Técnico de Educación correspondiente, propondrán para consideración y, en su caso, autorización de la Secretaría, contenidos regionales que -sin mengua del carácter nacional de los planes y programas citados- permitan que los educandos adquieran un mejor conocimiento de la historia, la geografía, las costumbres, las tradiciones, los ecosistemas y demás aspectos propios de la entidad y municipios respectivos.
 
-La Secretaría realizará revisiones y evaluaciones sistemáticas y continuas de los planes y programas a que se refiere el presente artículo, para mantenerlos permanentemente actualizados.
+> <small>(REFORMADO, D.O.F. 28 DE ENERO DE 2011)</small>
 
-Los planes y programas que la Secretaría determine en cumplimiento del presente artículo, así como sus modificaciones, deberán publicarse en el Diario Oficial de la Federación y en el órgano informativo oficial de cada entidad federativa.
+La Secretaría realizará revisiones y evaluaciones sistemáticas y continuas de los planes y programas a que se refiere el presente artículo, para mantenerlos permanentemente actualizados. En el caso de los programas de educación normal y demás para la formación de maestros de educación básica serán revisados y evaluados, al menos, cada cuatro años.
+
+> <small>(REFORMADO, D.O.F. 28 DE ENERO DE 2011)</small>
+
+Los planes y programas que la Secretaría determine en cumplimiento del presente artículo, así como sus modificaciones, deberán publicarse en el Diario Oficial de la Federación y en el órgano informativo oficial de cada entidad federativa y, previo a su aplicación, se deberá capacitar a los maestros respecto de su contenido y métodos.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE ENERO DE 2011)</small>
 
 ###### ARTICULO 49.
 
-El proceso educativo se basará en los principios de libertad y responsabilidad que aseguren la armonía de relaciones entre educandos y educadores y promoverá el trabajo en grupo para asegurar la comunicación y el diálogo entre educandos, educadores, padres de familia e instituciones públicas y privadas.
+El proceso educativo se basará en los principios de libertad y responsabilidad que aseguren la armonía de relaciones entre educandos y educadores y promoverá el trabajo en grupo para asegurar la comunicación y el diálogo entre educandos, educadores, padres de familia e instituciones públicas y privadas. De igual manera se fomentará el uso de todos los recursos tecnológicos y didácticos disponibles.
 
 > <small>(ADICIONADO, D.O.F. 17 DE ABRIL DE 2009)</small>
 
@@ -678,7 +724,9 @@ Además, estará sujeto a los fines y criterios dispuestos en los artículos 7 y
 
 La evaluación de los educandos comprenderá la medición en lo individual de los conocimientos, las habilidades, las destrezas y, en general, del logro de los propósitos establecidos en los planes y programas de estudio.
 
-Las instituciones deberán informar periódicamente a los educandos y, en su caso, a los padres de familia o tutores, los resultados y calificaciones de los exámenes parciales y finales, así como, de haberlas, aquellas observaciones sobre el desempeño académico de los propios educandos que permitan lograr mejores aprovechamientos.
+> <small>(REFORMADO, D.O.F. 28 DE ENERO DE 2011)</small>
+
+Las instituciones deberán informar periódicamente a los educandos y, en su caso, a los padres de familia o tutores, los resultados de las evaluaciones parciales y finales, así como, de haberlas, aquellas observaciones sobre el desempeño académico de los propios educandos que permitan lograr mejores aprovechamientos.
 
 #### Sección 3.- Del calendario escolar
 
@@ -786,11 +834,15 @@ La Secretaría promoverá que los estudios con validez oficial en la República 
 
 Los estudios realizados fuera del sistema educativo nacional podrán adquirir validez oficial, mediante su revalidación, siempre y cuando sean equiparables con estudios realizados dentro de dicho sistema.
 
-La revalidación podrá otorgarse por niveles educativos, por grados escolares, o por asignaturas u otras unidades de aprendizaje, según lo establezca la regulación respectiva.
+> <small>(REFORMADO, D.O.F. 28 DE ENERO DE 2011)</small>
+
+La revalidación podrá otorgarse por niveles educativos, por grados escolares, créditos académicos, por asignaturas u otras unidades de aprendizaje, según lo establezca la regulación respectiva.
+
+> <small>(REFORMADO, D.O.F. 28 DE ENERO DE 2011)</small>
 
 ###### ARTICULO 62.
 
-Los estudios realizados dentro del sistema educativo nacional podrán, en su caso, declararse equivalentes entre sí por niveles educativos, grados escolares, asignaturas u otras unidades de aprendizaje, según lo establezca la regulación respectiva.
+Los estudios realizados dentro del sistema educativo nacional podrán, en su caso, declararse equivalentes entre sí por niveles educativos, grados escolares, créditos académicos, asignaturas u otras unidades de aprendizaje, según lo establezca la regulación respectiva.
 
 ###### ARTICULO 63.
 
@@ -802,11 +854,13 @@ Las autoridades educativas locales otorgarán revalidaciones y equivalencias ún
 
 Las revalidaciones y equivalencia otorgadas en términos del presente artículo tendrán validez en toda la República.
 
-###### ARTICULO 64.
+> <small>(REFORMADO, D.O.F. 28 DE ENERO DE 2011)</small>
 
-La Secretaría, por acuerdo de su titular, podrá establecer procedimientos por medio de los cuales se expidan certificados, constancias, diplomas o títulos a quienes acrediten conocimientos terminales que correspondan a cierto nivel educativo o grado escolar, adquiridos en forma autodidacta o a través de la experiencia laboral.
+###### Artículo 64.
 
-El acuerdo secretarial respectivo señalará los requisitos específicos que deban cumplirse para la acreditación de los conocimientos adquiridos.
+La Secretaría, por acuerdo de su titular, podrá establecer procedimientos por medio de los cuales se expidan certificados, constancias, diplomas o títulos a quienes acrediten conocimientos parciales o terminales que correspondan a cierto nivel educativo o grado escolar, adquiridos en forma autodidacta, de la experiencia laboral o a través de otros procesos educativos.
+
+Los acuerdos secretariales respectivos señalarán los requisitos específicos que deban cumplirse para la acreditación de los conocimientos adquiridos.
 
 ### CAPITULO VII. DE LA PARTICIPACION SOCIAL EN LA EDUCACION
 
@@ -816,39 +870,51 @@ El acuerdo secretarial respectivo señalará los requisitos específicos que deb
 
 Son derechos de quienes ejercen la patria potestad o la tutela:
 
-I.- Obtener inscripción en escuelas públicas para que sus hijos o pupilos menores de edad, que satisfagan los requisitos aplicables, reciban la educación preescolar, la primaria y la secundaria.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE ENERO DE 2011)</small>
+
+I.- Obtener inscripción en escuelas públicas para que sus hijas, hijos o pupilos menores de edad, que satisfagan los requisitos aplicables, reciban la educación preescolar, la primaria y la secundaria.
 
 > <small>(ADICIONADO, D.O.F. 20 DE JUNIO DE 2006)</small>
 
-La edad mínima para ingresar a la educación básica en el nivel preescolar es de 3 años, y para nivel primaria 6 años, cumplidos al 31 de diciembre del año de inicio del ciclo escolar.
+La edad mínima para ingresar a la educación básica en el nivel preescolar es de 3 años, y para nivel primaria 6 años, cumplidos al 31 de diciembre del año de inicio del ciclo escolar;
 
-II.- Participar a las autoridades de la escuela en la que estén inscritos sus hijos o pupilos, cualquier problema relacionado con la educación de éstos, a fin de que aquéllas se aboquen a su solución;
+> <small>(REFORMADA, D.O.F. 28 DE ENERO DE 2011)</small>
+
+II.- Participar a las autoridades de la escuela en la que estén inscritos sus hijas, hijos o pupilos, cualquier problema relacionado con la educación de éstos, a fin de que aquéllas se aboquen a su solución;
 
 III.- Colaborar con las autoridades escolares para la superación de los educandos y en el mejoramiento de los establecimientos educativos;
 
-> <small>(REFORMADA, D.O.F. 19 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 28 DE ENERO DE 2011)</small>
 
 IV.- Formar parte de las asociaciones de padres de familia y de los consejos de participación social a que se refiere este capítulo;
 
-> <small>(REFORMADA, D.O.F. 19 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 28 DE ENERO DE 2011)</small>
 
-V.- Opinar, en los casos de la educación que impartan los particulares, en relación con las contraprestaciones que las escuelas fijen, y
+V.- Opinar, en los casos de la educación que impartan los particulares, en relación con las contraprestaciones que las escuelas fijen;
 
-> <small>(ADICIONADA, D.O.F. 19 DE AGOSTO DE 2010)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 28 DE ENERO DE 2011)</small>
 
-VI.- Conocer la capacidad profesional de la planta docente así como el resultado de las evaluaciones realizadas de conformidad con lo dispuesto en la fracción VII del artículo 12 de la presente Ley.
+VI.- Conocer la capacidad profesional de la planta docente así como el resultado de las evaluaciones realizadas de conformidad con lo dispuesto en la fracción VII del artículo 12 de presente Ley, y
+
+> <small>(ADICIONADA, D.O.F. 28 DE ENERO DE 2011)</small>
+
+VII.- Conocer la relación oficial del personal docente y empleados adscritos en la escuela en la que estén inscritos sus hijos o pupilos, misma que será proporcionada por la autoridad escolar.
 
 ###### ARTICULO 66.
 
 Son obligaciones de quienes ejercen la patria potestad o la tutela:
 
-> <small>(REFORMADA, D.O.F. 10 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA, D.O.F. 28 DE ENERO DE 2011)</small>
 
-I.- Hacer que sus hijos o pupilos menores de edad, reciban la educación preescolar, la primaria y la secundaria;
+I.- Hacer que sus hijas, hijos o pupilos menores de edad, reciban la educación preescolar, la primaria y la secundaria;
 
-II.- Apoyar el proceso educativo de sus hijos o pupilos, y (sic)
+> <small>(REFORMADA, D.O.F. 28 DE ENERO DE 2011)</small>
 
-III.- Colaborar con las instituciones educativas en las que estén inscritos sus hijos o pupilos, en las actividades que dichas instituciones realicen;
+II.- Apoyar el proceso educativo de sus hijas, hijos o pupilos;
+
+> <small>(REFORMADA, D.O.F. 28 DE ENERO DE 2011)</small>
+
+III.- Colaborar con las instituciones educativas en las que estén inscritos sus hijas, hijos o pupilos, en las actividades que dichas instituciones realicen;
 
 > <small>(REFORMADA, D.O.F. 19 DE AGOSTO DE 2010)</small>
 
@@ -926,9 +992,11 @@ o) En general, podrá realizar actividades en beneficio de la propia escuela.
 
 Consejos análogos deberán operar en las escuelas particulares de educación básica.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE ENERO DE 2011)</small>
+
 ###### ARTICULO 70.
 
-En cada municipio operará un consejo municipal de participación social en la educación integrado por las autoridades municipales, padres de familia y representantes de sus asociaciones, maestros distinguidos y directivos de escuelas, representantes de la organización sindical de los maestros, así como representantes de organizaciones sociales y demás interesados en el mejoramiento de la educación.
+En cada municipio operará un consejo municipal de participación social en la educación integrado por las autoridades municipales, padres de familia y representantes de sus asociaciones, maestros distinguidos y directivos de escuelas, representantes de la organización sindical de los maestros, así como representantes de organizaciones de la sociedad civil cuyo objeto social sea la educación y demás interesados en el mejoramiento de la educación.
 
 > <small>(REFORMADO, D.O.F. 19 DE AGOSTO DE 2010)</small>
 
@@ -966,15 +1034,19 @@ Será responsabilidad del presidente municipal que en el consejo se alcance una 
 
 En el Distrito Federal los consejos se constituirán por cada delegación política.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE ENERO DE 2011)</small>
+
 ###### ARTICULO 71.
 
-En cada entidad federativa funcionará un consejo estatal de participación social en la educación, como órgano de consulta, orientación y apoyo. Un órgano análogo se establecerá en el Distrito Federal. En dicho Consejo se asegurará la participación de padres de familia y representantes de sus asociaciones, maestros y representantes de su organización sindical, instituciones formadoras de maestros, autoridades educativas estatales y municipales, así como de sectores sociales de la entidad federativa especialmente interesados en la educación.
+En cada entidad federativa funcionará un consejo estatal de participación social en la educación, como órgano de consulta, orientación y apoyo. Un órgano análogo se establecerá en el Distrito Federal. En dicho Consejo se asegurará la participación de padres de familia y representantes de sus asociaciones, maestros y representantes de su organización sindical, instituciones formadoras de maestros, autoridades educativas estatales y municipales, organizaciones de la sociedad civil cuyo objeto social sea la educación, así como los sectores social y productivo de la entidad federativa especialmente interesados en la educación.
 
 Este consejo promoverá y apoyará entidades extraescolares de carácter cultural, cívico, deportivo y de bienestar social; coadyuvará a nivel estatal en actividades de protección civil y emergencia escolar; sistematizará los elementos y aportaciones relativos a las particularidades de la entidad federativa que contribuyan a la formulación de contenidos estatales en los planes y programas de estudio; podrá opinar en asuntos pedagógicos; conocerá las demandas y necesidades que emanen de la participación social en la educación a través de los consejos escolares y municipales, conformando los requerimientos a nivel estatal para gestionar ante las instancias competentes su resolución y apoyo; conocerá los resultados de las evaluaciones que efectúen las autoridades educativas y colaborará con ellas en actividades que influyan en el mejoramiento de la calidad y la cobertura de la educación.
 
+> <small>(REFORMADO, D.O.F. 28 DE ENERO DE 2011)</small>
+
 ###### ARTICULO 72.
 
-La Secretaría promoverá el establecimiento y funcionamiento del Consejo Nacional de Participación Social en la Educación, como instancia nacional de consulta, colaboración, apoyo e información, en la que se encuentren representados padres de familia y sus asociaciones, maestros y su organización sindical, autoridades educativas, así como los sectores sociales especialmente interesados en la educación. Tomará nota de los resultados de las evaluaciones que realicen las autoridades educativas, conocerá el desarrollo y la evolución del sistema educativo nacional, podrá opinar en asuntos pedagógicos, planes y programas de estudio y propondrá políticas para elevar la calidad y la cobertura de la educación.
+La Secretaría promoverá el establecimiento y funcionamiento del Consejo Nacional de Participación Social en la Educación, como instancia nacional de consulta, colaboración, apoyo e información, en la que se encuentren representados padres de familia y sus asociaciones, maestros y su organización sindical, autoridades educativas, organizaciones de la sociedad civil cuyo objeto social sea la educación, así como los sectores social y productivo especialmente interesados en la educación. Tomará nota de los resultados de las evaluaciones que realicen las autoridades educativas, conocerá el desarrollo y la evolución del sistema educativo nacional, podrá opinar en asuntos pedagógicos, planes y programas de estudio y propondrá políticas para elevar la calidad y la cobertura de la educación.
 
 ###### ARTICULO 73.
 
@@ -1285,3 +1357,11 @@ Segundo.- Las erogaciones que deban realizarse a fin de dar cumplimiento con el 
 Tercero.- Los procedimientos de evaluación de la planta docente en el sistema de educación básica, serán realizados por el Centro Nacional de Evaluación para la Educación Superior A.C. (CENEVAL). Estos procedimientos serán efectuados en un período de cinco años a partir de la entrada en vigor del presente Decreto.
 
 Cuarto.- A los procedimientos iniciados antes de la publicación del presente Decreto, les serán aplicables las disposiciones vigentes al momento de su instauración.
+
+D.O.F. 28 DE ENERO DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las erogaciones que deban realizarse a fin de dar cumplimiento con el presente Decreto, se sujetarán a los recursos aprobados para tales fines por la Cámara de Diputados, las legislaturas de los estados y la Asamblea Legislativa del Distrito Federal, en sus respectivos presupuestos.
+
+TERCERO.- La constitución de los sistemas y registros a que hacen referencia la fracción X del artículo 12 y VII del artículo 13, se llevarán a cabo con base en la disponibilidad presupuestal, de manera gradual y con la participación coordinada de las autoridades educativas de los órdenes de gobierno correspondientes.
