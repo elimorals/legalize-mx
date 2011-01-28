@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-centro-nacional-de-metrologia-63279"
 country: "mx"
 rank: "estatuto"
 publication_date: "2008-10-01"
-last_updated: "2008-10-01"
+last_updated: "2011-01-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63279&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2008-09-12"
 
 ESTATUTO ORGANICO DEL CENTRO NACIONAL DE METROLOGIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE ENERO DE 2011.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 1 de octubre de 2008.
 
@@ -413,13 +413,17 @@ El órgano de vigilancia del CENAM estará integrado por un Comisario Público p
 
 ### CAPITULO QUINTO. Del Director General
 
+> <small>(REFORMADO, D.O.F. 28 DE ENERO DE 2011)</small>
+
 ###### Artículo 24.
 
-Para ser Director General del CENAM, deberán reunirse los siguientes requisitos:
+Para ser Director General del CENAM, además de lo establecido por los artículos 36 de la Ley y 21 de la Ley de las Entidades, y cualquier otra normatividad aplicable al respecto, deberán reunirse los siguientes requisitos:
 
-I. Ser profesional del área de ciencias o de ingeniería con el grado académico de Doctor, de reconocido prestigio en el país y con una experiencia mínima de cinco años en el área de metrología;
+I. Ser profesional con grado académico de doctor en ciencias en cualquiera de las siguientes materias: física, química o ingeniería;
 
-II. Ser de reconocida solvencia moral.
+II. Con reconocidos méritos y experiencia en investigación científica o desarrollo tecnológico en el campo de la metrología;
+
+III. Ser de reconocida calidad ética.
 
 ###### Artículo 25.
 
@@ -457,21 +461,31 @@ Para las facultades y obligaciones establecidas en el artículo 59 de la Ley Fed
 
 ### CAPITULO SEXTO. De los Directores de Area
 
+> <small>(REFORMADO, D.O.F. 28 DE ENERO DE 2011)</small>
+
 ###### Artículo 26.
 
-Para ser Director de Area Técnica del CENAM se deberán reunir los siguientes requisitos:
+Para ser Director de Area Técnica del CENAM, además de lo establecido por los artículos 36 de la Ley y 58 fracción XI de la Ley de las Entidades, y cualquier otra normatividad aplicable al respecto, deberán reunirse los siguientes requisitos:
 
-I. Ser profesional del área de ciencias o de ingeniería, con el grado académico de Doctor y con una experiencia mínima de cinco años después de la obtención de éste en el campo científico y tecnológico, y ser elegido por el Consejo Directivo a través del proceso de la evaluación de una terna de candidatos propuesta por el Director General; y
+I. Ser profesional con el grado académico de doctor en ciencias en cualquiera de las siguientes materias: física, química o ingeniería;
 
-II. Ser de reconocida solvencia moral.
+II. Con experiencia en investigación científica o desarrollo tecnológico en el campo de la metrología afín al área;
+
+III. Haber desempeñado puestos de mando con experiencia administrativa;
+
+IV. Ser de reconocida calidad ética.
+
+> <small>(REFORMADO, D.O.F. 28 DE ENERO DE 2011)</small>
 
 ###### Artículo 27.
 
-Para ser Director del Area de Administración y Finanzas del CENAM se deberán reunir los siguientes requisitos:
+Para ser Director del Area de Administración y Finanzas del CENAM, además de lo establecido por el artículo 58 fracción XI de la Ley de las Entidades, y cualquier otra normatividad aplicable al respecto, deberán reunirse los siguientes requisitos:
 
-I. Ser profesional del área en alguna de las ciencias económica, administrativa o jurídica con una experiencia mínima de diez años en el ejercicio de su profesión o contar con una maestría o doctorado con una experiencia mínima de cinco años en ese campo; y
+I. Ser profesional con nivel académico de licenciatura, en cualquiera de las siguientes materias: economía, administración, contabilidad, jurídica o afín;
 
-II. Ser de reconocida solvencia moral.
+II. Haber desempeñado puestos de mando administrativo, que acrediten experiencia en cualquiera de las áreas económicas, administrativas, contables o jurídicas;
+
+III. Ser de reconocida calidad ética.
 
 ###### Artículo 28.
 
@@ -557,17 +571,19 @@ V. Las demás que se requieran para un adecuado funcionamiento del Centro, de ac
 
 ### CAPITULO SEPTIMO. De los Jefes de División
 
+> <small>(REFORMADO, D.O.F. 28 DE ENERO DE 2011)</small>
+
 ###### Artículo 33.
 
-Para ser Jefe de División de Area Técnica son necesarios los siguientes requisitos:
+Para ser Jefe de División de Area Técnica, además de lo establecido por los artículos 36 de la Ley y 58 fracción XI de la Ley de las Entidades, y cualquier otra normatividad aplicable al respecto, deberán reunirse los siguientes requisitos:
 
-I. Doctor en Ciencias, con experiencia en física, química, ingeniería o ramas afines y dos años de experiencia en el área en la que desempeñará sus funciones;
+I. Ser profesional con nivel académico de maestría en ciencias en cualquiera de las siguientes materias: física, química o ingeniería;
 
-II. Maestro en Ciencias con especialidad en física, química, ingeniería o ramas afines y cinco años de experiencia en el área en la que desempeñará sus funciones, o
+II. Con experiencia en investigación científica o desarrollo tecnológico en el campo de la metrología afín al área;
 
-III. Licenciado con especialidad en física, química, ingeniería o ramas afines con diez años de experiencia en el área en la que desempeñará sus funciones.
+III. Por cuanto corresponde a la Dirección de Servicios Tecnológicos, contar con experiencia administrativa;
 
-En cualquier caso deberá contar además con aptitudes de liderazgo, habilidad para el trabajo en equipo y ser de reconocida solvencia moral.
+IV. Ser de reconocida calidad ética.
 
 ###### Artículo 34.
 
@@ -611,17 +627,23 @@ VII. Suplir al Director de Area en su ausencia cuando así se lo solicite; y
 
 VIII. Las específicas que se asignen a cada División en el Manual de Organización del CENAM.
 
+> <small>(REFORMADO, D.O.F. 28 DE ENERO DE 2011)</small>
+
 ###### Artículo 35.
 
-Los Jefes de División de las Areas Administrativa, Financiera, Jurídica y los Titulares de Area de Control deberán reunir los siguientes requisitos:
+Los Jefes de División de las Areas Administrativa, Financiera y Jurídica, además de lo establecido por el artículo 58 fracción XI de la Ley de las Entidades, y cualquier otra normatividad aplicable al respecto, deberán reunir los siguientes requisitos:
 
-I. Licenciado o carrera afín, con conocimiento de las áreas administrativas, contables, económicas, jurídicas o de ingeniería, con una experiencia de cinco años como mínimo; y
+I. Ser profesional con nivel académico de licenciatura en la materia afín al área;
 
-II. Ser de reconocida solvencia moral.
+II. Haber desempeñado puestos de mando, que acrediten experiencia en el campo del área requerida;
+
+III. Ser de reconocida solvencia ética.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE ENERO DE 2011)</small>
 
 ###### Artículo 36.
 
-Los Jefes de División en las Areas Administrativa, Financiera, Jurídica y los Titulares de las Areas de Control tendrán las funciones siguientes:
+Los Jefes de División en las Areas Administrativa, Financiera y Jurídica tendrán las funciones siguientes:
 
 I. Organizar, integrar y dirigir las actividades de la División o Area, así como elaborar los planes y programas de actividades y presupuestos a su cargo;
 
@@ -680,3 +702,15 @@ El presente Estatuto entrará en vigor el día siguiente de su publicación en e
 A partir de la entrada en vigor del presente Estatuto, quedará abrogado el Estatuto Orgánico del Centro Nacional de Metrología publicado en el Diario Oficial de la Federación con fecha 27 de agosto de 1997, así como sus modificaciones y cualquier disposición administrativa que se oponga al presente.
 
 El Secretario del Consejo Directivo del Centro Nacional de Metrología CERTIFICA: Que en la 64a. Sesión de dicho cuerpo colegiado, celebrada el 13 trece de junio de 2008 dos mil ocho, se tomó el siguiente: Acuerdo 15/64a./08. Con fundamento en el artículo 58 fracción VIII de la Ley Federal de Entidades Paraestatales, el H. Consejo Directivo aprueba el documento "Estatuto Orgánico del Centro Nacional de Metrología". Doy fe.- México, D.F., a 12 de septiembre de 2008.- El Secretario del Consejo Directivo del Centro Nacional de Metrología y Director General de Normas, Francisco Ramos Gómez.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
+
+D.O.F. 28 DE ENERO DE 2011.
+
+###### ARTICULO PRIMERO.
+
+Las presentes reformas al Estatuto Orgánico del Centro Nacional de Metrología, entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+###### ARTICULO SEGUNDO.
+
+A partir de la entrada en vigor de las presentes reformas, quedarán derogados en su totalidad los artículos 24, 26, 27, 33, 35 y el primer párrafo del artículo 36 publicados en el Diario Oficial de la Federación el día 1o. de octubre de 2008.
