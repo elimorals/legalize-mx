@@ -4,7 +4,7 @@ identifier: "ROO-constitucion-politica-del-estado-libre-y-soberano-de-7319"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-12"
-last_updated: "2010-12-22"
+last_updated: "2011-01-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ENERO DE 2011.
 
 Constitución publicada en el Periódico Oficial del Estado de Quintana Roo, el 12 de enero de 1975.
 
@@ -335,9 +335,11 @@ Nadie puede ser reducido a prisión por deudas de carácter meramente civil. Nin
 
 Sólo por delito que merezca pena corporal habrá lugar a prisión preventiva. El establecimiento que se reserve para ésta tendrá distinta ubicación respecto del destinado para la extinción de una condena física.
 
-> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
 
-El Estado organizará el sistema penal sobre la base del trabajo, la capacitación para el mismo y la educación, como medios para la readaptación social del delincuente. Las mujeres compurgarán sus penas en lugares separados de los destinados a los varones para tal efecto.
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 2011)</small>
+
+El Estado organizará el sistema penal sobre la base del trabajo, la capacitación para el mismo, la educación, .la salud y el deporte, como medios para la reinserción del sentenciado a la sociedad y procurar que no vuelva a delinquir, observando los beneficios que para él prevé la ley. Las mujeres compurgarán sus penas en lugares separados de los destinados a los varones para tal efecto.
 
 > <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
 
@@ -433,11 +435,13 @@ Las garantías previstas en las fracciones V, VII y IX también serán observada
 
 En todo proceso penal, la víctima o el ofendido por algún delito tendrá derecho a recibir asesoría jurídica, a que se le satisfaga la reparación del daño cuando proceda, a coadyuvar con el Ministerio Público, a que se le preste atención médica de urgencia cuando lo requiera y los demás que señalen las leyes.
 
-> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 1983)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 2011)</small>
 
 ###### ARTICULO 29.
 
-La imposición de las penas es propia y exclusiva de la autoridad judicial. La persecución de los delitos incumbe al Ministerio Público y a la Policía Judicial del Estado, la cual estará bajo la autoridad y mando inmediato de aquél. Compete a la autoridad administrativa el castigo de las infracciones a los reglamentos gubernativos y de policía, que consistirá únicamente en multa o arresto hasta por 36 horas. Si el infractor fuese jornalero, obrero o trabajador no podrá ser sancionado con multa mayor del importe de su jornal o salario de un día. La multa impuesta a los trabajadores no asalariados no excederá del equivalente de un día de su ingreso.
+La imposición de las penas, su modificación y duración son propias y exclusivas de la Autoridad Judicial. La persecución de los delitos incumbe al Ministerio Público y a la Policía Judicial del Estado, la cual estará bajo la autoridad y mando· inmediato de aquél. Compete a la autoridad administrativa el castigo de las infracciones a los reglamentos gubernativos y de policía, que consistirá únicamente en multa o arresto hasta por 36 horas. Si el infractor fuese jornalero, obrero o trabajador no podrá ser sancionado con multa mayor del importe de su jornal o salario de un día. La multa impuesta a los trabajadores no asalariados no excederá del equivalente de un día de su ingreso.
 
 > <small>(F. DE E., P.O. 13 DE ENERO DE 1975)</small>
 
@@ -2255,7 +2259,7 @@ EST P.V. X Y
 
 42 43 S 65°25'58"E 833.981 467675.680 2257242.454 42
 
-43 1 Sobre la línea de costa del Mar Caribe hacia el sur hasta llegar al vértice 1. Se respeta el polígono del Xel-Ha perteneciente al Municipio de Cozumel descrito en el Artículo 128 fracción IV párrafo cuarto de la Constitución Política del Estado Libre y Soberano de Quintana Roo. 468434.164 2256895.718 43
+43 1 Sobre la línea de costa del Mar Caribe hacia el sur hasta llegar al vértice 1. Se respeta el polígono del Xel-Ha perteneciente al Municipio de Cozumel descrito en el Artículo 128 fracción IV párrafo cuarto de la Constitución Política del Estado Libre y Soberano de Quintana Roo.
 
 Se excluyen de su jurisdicción, las áreas descritas en la fracción IV párrafo cuarto de este artículo.
 
@@ -3528,3 +3532,9 @@ DECRETO NUMERO 408, POR EL QUE SE ADICIONA UN PARRAFO SEGUNDO RECORRIENDOSE EN S
 T R A N S I T O R I O:
 
 ÚNICO.- Publíquese el presente Decreto en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 28 DE ENERO DE 2011.
+
+PRIMERO.- El presente Decreto relativo al nuevo sistema de reinserción previsto en el párrafo segundo del Artículo 26, así como el régimen de modificación y duración de penas establecidas en el Artículo 29, entrará en vigor cuando lo establezca la legislación secundaria correspondiente, sin que pueda exceder del día 19 de junio del año 2011.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Estado Libre y Soberano de Quintana Roo.
