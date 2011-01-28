@@ -4,7 +4,7 @@ identifier: "LDRS"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-07"
-last_updated: "2011-01-27"
+last_updated: "2011-01-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22550&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LDRS"
 
 LEY DE DESARROLLO RURAL SUSTENTABLE
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE ENERO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE ENERO DE 2011.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el viernes 7 de diciembre de 2001.
 
@@ -1266,6 +1266,14 @@ El Gobierno Federal, promoverá la constitución, integración, consolidación y
 
 Además, el Gobierno Federal apoyará la realización de estudios de mercado y la promoción de productos en los mercados nacional y extranjero. Asimismo, brindará a los productores rurales asistencia de asesoría y capacitación en operaciones de exportación, contratación, transportes y cobranza, entre otros aspectos.
 
+> <small>(ADICIONADO, D.O.F. 28 DE ENERO DE 2011)</small>
+
+###### Artículo 115 Bis.
+
+El Gobierno Federal, en coordinación con los gobiernos de las entidades federativas y con la participación de las organizaciones de productores y los comités sistema-producto conformará un padrón de comercializadores confiables dedicados a la compra y venta de productos agrícolas, pecuarios, acuícolas, pesqueros y sus derivados, con los requisitos que al efecto se determinen; el cual deberá ser actualizado cada año y publicado en el Diario Oficial de la Federación y estará disponible para su consulta en la página web de las dependencias que intervengan en su integración.
+
+En concordancia con las atribuciones conferidas en la Ley Orgánica de la Administración Pública Federal y en esta Ley, la Secretaría de Economía, en coordinación con la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación y con las demás dependencias que determine la Comisión Intersecretarial integrará, administrará y actualizará el Padrón de Comercializadores Confiables, de conformidad con las disposiciones jurídicas que emita para tal efecto la Secretaría de Economía.
+
 ### CAPÍTULO XI. Del Sistema Nacional de Financiamiento Rural
 
 ###### Artículo 116.
@@ -1989,3 +1997,17 @@ DECRETO POR EL QUE SE REFORMA EL ARTICULO 33 DE LA LEY DE DESARROLLO RURAL SUSTE
 D.O.F. 27 DE ENERO DE 2011.
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 28 DE ENERO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+###### ARTÍCULO SEGUNDO.
+
+El Gobierno Federal conformará el Padrón de Comercializadores dentro de los 180 días siguientes a la publicación del presente decreto en el Diario Oficial de la Federación.
+
+###### ARTÍCULO TERCERO.
+
+La integración, administración y actualización del Padrón de Comercializadores Confiables, se llevarán a cabo a través de las unidades administrativas ya existentes a partir de la entrada en vigor del presente Decreto y con los recursos presupuestales autorizados para tal efecto, en el Presupuesto de Egresos de la Federación correspondiente.
