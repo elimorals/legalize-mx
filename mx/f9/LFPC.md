@@ -4,7 +4,7 @@ identifier: "LFPC"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1992-12-24"
-last_updated: "2010-12-21"
+last_updated: "2011-01-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,9 +22,7 @@ abbreviation: "LFPC"
 
 LEY FEDERAL DE PROTECCION AL CONSUMIDOR
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE NOVIEMBRE DE 2010.
-
-ULTIMA ACTUALIZACION POR ACUERDO EXPEDIDO POR LA PROCURADURIA FEDERAL DEL CONSUMIDOR PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE ENERO DE 2011.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 24 de diciembre de 1992.
 
@@ -158,9 +156,15 @@ La Procuraduría verificará que se respeten los precios máximos establecidos e
 
 Los proveedores están obligados a respetar el precio máximo y las tarifas establecidas conforme al párrafo anterior.
 
-> <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE ENERO DE 2011)</small>
 
-ARTICULO 8 BIS.- La Procuraduría elaborará material informativo, de orientación y de educación a los consumidores y acordará con los proveedores su divulgación en los lugares o establecimientos respectivos.
+ARTICULO 8 BIS.- La Procuraduría deberá fomentar permanentemente una cultura de consumo responsable e inteligente, entendido como aquel que implica un consumo consciente, informado, crítico, saludable, sustentable, solidario y activo, a fin de que los consumidores estén en la posibilidad de realizar una buena toma de decisiones, suficientemente informada, respecto del consumo de bienes y servicios, los efectos de sus actos de consumo, y los derechos que los asisten.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 28 DE ENERO DE 2011)</small>
+
+Para este propósito, elaborará contenidos y materiales educativos en esta materia a fin de ponerlos a disposición del público por los medios a su alcance, incluyendo su distribución en los establecimientos de los proveedores, previo acuerdo con éstos. También presentará sus contenidos educativos a la autoridad federal competente a fin de que los incorpore a los programas oficiales correspondientes en términos de las disposiciones aplicables.
+
+> <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
 La Procuraduría establecerá módulos o sistemas de atención y orientación a los consumidores en función de la afluencia comercial, del número de establecimientos y operaciones mercantiles, de la temporada del año y conforme a sus programas y medios, debiéndose otorgar a aquélla las facilidades necesarias para ello.
 
@@ -372,6 +376,10 @@ XIX. Aplicar las sanciones y demás medidas establecidas en esta ley, en la Ley 
 
 XX. Requerir a los proveedores o a las autoridades competentes a que tomen medidas adecuadas para combatir, detener, modificar o evitar todo género de prácticas que lesionen los intereses de los consumidores, y cuando lo considere pertinente publicar dicho requerimiento;
 
+> <small>(ADICIONADA, D.O.F. 28 DE ENERO DE 2011)</small>
+
+XX bis. En el caso de que en ejercicio de sus atribuciones identifique aumentos de precios, restricciones en la cantidad ofrecida o divisiones de mercados de bienes o servicios derivados de posibles prácticas monopólicas en términos de lo dispuesto por la Ley Federal de Competencia Económica, la Procuraduría, en representación de los consumidores, podrá presentar ante la Comisión Federal de Competencia la denuncia que corresponda;
+
 > <small>(REFORMADA, D.O.F. 19 DE AGOSTO DE 2010)</small>
 
 XXI. Ordenar se informe a los consumidores sobre las acciones u omisiones de los proveedores que afecten sus intereses o derechos, así como la forma en que los proveedores los retribuirán o compensarán;
@@ -480,11 +488,15 @@ VIII. Delegar facultades de autoridad y demás necesarias o convenientes en serv
 
 IX. Fijar las políticas y expedir las normas de organización y funcionamiento de la Procuraduría;
 
-> <small>(REFORMADA, D.O.F. 4 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADA, D.O.F. 28 DE ENERO DE 2011)</small>
 
-X. Expedir el estatuto orgánico de la Procuraduría, previa aprobación del Secretario de Economía, y
+X. Expedir el estatuto orgánico de la Procuraduría, previa aprobación del Secretario de Economía;
 
-XI. Las demás que le confiera esta ley y otros ordenamientos.
+> <small>(ADICIONADA, D.O.F. 28 DE ENERO DE 2011)</small>
+
+XI. Expedir lineamientos, criterios y demás normas administrativas que permitan a la Procuraduría el ejercicio de las atribuciones legales y reglamentarias que tenga conferidas, y
+
+XII. Las demás que le confiera esta ley y otros ordenamientos.
 
 ###### ARTICULO 28.
 
@@ -1320,23 +1332,47 @@ ARTICULO 98 TER.- La Procuraduría podrá ordenar el aseguramiento de bienes o p
 
 #### Sección Primera. Disposiciones Comunes
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE ENERO DE 2011)</small>
 
 ###### ARTICULO 99.
 
-La Procuraduría recibirá las quejas o reclamaciones de los consumidores con base en esta ley, las cuales podrán presentarse en forma escrita, oral, telefónica, electrónica o por cualquier otro medio idóneo cumpliendo con los siguientes requisitos:
+La Procuraduría recibirá las quejas o reclamaciones de los consumidores de manera individual o grupal con base en esta ley, las cuales podrán presentarse en forma escrita, oral, telefónica, electrónica o por cualquier otro medio cumpliendo con los siguientes requisitos:
 
 I. Señalar nombre y domicilio del reclamante;
 
-II. Descripción del bien o servicio que se reclama y relación sucinta de los hechos; y (sic)
+> <small>(REFORMADA, D.O.F. 28 DE ENERO DE 2011)</small>
 
-> <small>(REFORMADA, D.O.F. 4 DE FEBRERO DE 2004)</small>
+II. Descripción del bien o servicio que se reclama y relación sucinta de los hechos;
 
-III. Señalar nombre y domicilio del proveedor que se contenga en el comprobante o recibo que ampare la operación materia de la reclamación o, en su defecto, el que proporcione el reclamante, y
+> <small>(REFORMADA, D.O.F. 28 DE ENERO DE 2011)</small>
+
+III. Señalar nombre y domicilio del proveedor que se contenga en el comprobante o recibo que ampare la operación materia de la reclamación o, en su defecto, el que proporcione el reclamante;
 
 > <small>(ADICIONADA, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-IV. Señalar el lugar o forma en que solicita se desahogue su reclamación.
+IV. Señalar el lugar o forma en que solicita se desahogue su reclamación;
+
+> <small>(ADICIONADA, D.O.F. 28 DE ENERO DE 2011)</small>
+
+V. Para la atención y procedencia de quejas o reclamaciones grupales, se deberá acreditar, además, que existe identidad de causa, acción, pretensiones y proveedor; la personalidad del o los representantes del grupo de quejosos; que la representación y gestión se realiza de manera gratuita, y que no están vinculadas con actividades de proselitismo político o electoral, y
+
+> <small>(ADICIONADA, D.O.F. 28 DE ENERO DE 2011)</small>
+
+VI. Las asociaciones u organizaciones de consumidores que presenten reclamaciones grupales deberán acreditar, además:
+
+a) Su legal constitución y la personalidad de los representantes;
+
+b) Que su objeto social sea el de la promoción y defensa de los intereses y derechos de los consumidores;
+
+c) Que tienen como mínimo un año de haberse constituido;
+
+d) Que los consumidores que participan en la queja grupal expresaron su voluntad para formar parte de la misma;
+
+e) Que no tienen conflicto de intereses respecto de la queja que se pretenda presentar, expresándolo en un escrito en el que, bajo protesta de decir verdad, se haga constar dicha circunstancia;
+
+f) Que la representación y gestión se realiza de manera gratuita, y
+
+g) Que no participan de manera institucional en actividades de proselitismo político o electoral.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL ACUERDO QUE MODIFICA LA LEY.</small>
 
@@ -1780,15 +1816,13 @@ En ningún caso será sancionado el mismo hecho constitutivo de la infracción e
 
 Cuando por un mismo hecho u omisión se cometan varias infracciones a las que esta ley imponga una sanción, el total de las mismas no deberá rebasar de $6'682,269.10.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 19 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO, D.O.F. 28 DE ENERO DE 2011)</small>
 
 ###### ARTICULO 134.
 
-La autoridad que haya impuesto alguna de las sanciones previstas en esta ley la podrá condonar, reducir o conmutar, para lo cual apreciará las circunstancias del caso, el daño ocasionado, las causas que motivaron su imposición, así como la medida en que la reclamación del consumidor haya quedado satisfecha, sin que la petición del interesado constituya un recurso.
+La autoridad que haya impuesto alguna de las sanciones previstas en esta ley la podrá condonar, reducir o conmutar, para lo cual apreciará las circunstancias del caso, las causas que motivaron su imposición, así como la medida en que la reclamación del consumidor haya quedado satisfecha, sin que la petición del interesado constituya un recurso. Excepcionalmente procederá la condonación, reducción o conmutación de las multas que se hayan impuesto como medidas de apremio, cuando se hubiere logrado una conciliación en favor del consumidor y se acredite fehacientemente el cumplimiento del convenio correspondiente.
 
-> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
-
-La autoridad no podrá ejercer la facultad referida en este precepto, respecto de las sanciones impuestas con motivo de los procedimientos de verificación y vigilancia del cumplimiento de esta ley y demás disposiciones aplicables.
+La autoridad no podrá ejercer la facultad referida en el párrafo anterior, una vez que las multas hayan sido remitidas a la autoridad fiscal competente para su cobro y tampoco cuando se trate de sanciones impuestas con motivo de los procedimientos de verificación y vigilancia del cumplimiento de esta ley y demás disposiciones aplicables.
 
 ### Capítulo XV. Recursos administrativos
 
@@ -2077,3 +2111,7 @@ NOVENO.- Las actualizaciones a que se refiere el presente Acuerdo estarán vigen
 ## TRANSITORIO
 
 UNICO.- El presente Acuerdo entrará en vigor el 1 de enero de 2011.
+
+D.O.F. 28 DE ENERO DE 2011.
+
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
