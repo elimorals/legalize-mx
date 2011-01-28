@@ -4,7 +4,7 @@ identifier: "LGEEPA"
 country: "mx"
 rank: "ley_general"
 publication_date: "1988-01-28"
-last_updated: "2010-04-06"
+last_updated: "2011-01-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=225&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGEEPA"
 
 LEY GENERAL DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE ABRIL DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE ENERO DE 2011.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 28 de enero de 1988.
 
@@ -80,11 +80,17 @@ I. El ordenamiento ecológico del territorio nacional en los casos previstos por
 
 II. El establecimiento, protección y preservación de las áreas naturales protegidas y de las zonas de restauración ecológica;
 
-> <small>(REFORMADA, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, D.O.F. 28 DE ENERO DE 2011)</small>
 
-III. La formulación y ejecución de acciones de protección y preservación de la biodiversidad del territorio nacional y las zonas sobre las que la nación ejerce su soberanía y jurisdicción, así como el aprovechamiento de material genético; y
+III. La formulación y ejecución de acciones de protección y preservación de la biodiversidad del territorio nacional y las zonas sobre las que la nación ejerce su soberanía y jurisdicción, así como el aprovechamiento de material genético;
 
-IV. El establecimiento de zonas intermedias de salvaguardia, con motivo de la presencia de actividades consideradas como riesgosas.
+> <small>(REFORMADA, D.O.F. 28 DE ENERO DE 2011)</small>
+
+IV. El establecimiento de zonas intermedias de salvaguardia, con motivo de la presencia de actividades consideradas como riesgosas, y
+
+> <small>(ADICIONADA, D.O.F. 28 DE ENERO DE 2011)</small>
+
+V. La formulación y ejecución de acciones de mitigación y adaptación al cambio climático.
 
 > <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
@@ -101,6 +107,10 @@ III. Aprovechamiento sustentable: La utilización de los recursos naturales en f
 IV. Biodiversidad: La variabilidad de organismos vivos de cualquier fuente, incluidos, entre otros, los ecosistemas terrestres, marinos y otros ecosistemas acuáticos y los complejos ecológicos de los que forman parte; comprende la diversidad dentro de cada especie, entre las especies y de los ecosistemas;
 
 V. Biotecnología: Toda aplicación tecnológica que utilice recursos biológicos, organismos vivos o sus derivados para la creación o modificación de productos o procesos para usos específicos;
+
+> <small>(ADICIONADA, D.O.F. 28 DE ENERO DE 2011)</small>
+
+V Bis. Cambio climático: Cambio de clima atribuido directa o indirectamente a la actividad humana que altera la composición de la atmósfera mundial y que se suma a la variabilidad natural del clima observada durante periodos de tiempos comparables;
 
 VI. Contaminación: La presencia en el ambiente de uno o más contaminantes o de cualquier combinación de ellos que cause desequilibrio ecológico;
 
@@ -124,57 +134,61 @@ XV. Elemento natural: Los elementos físicos, químicos y biológicos que se pre
 
 XVI. Emergencia ecológica: Situación derivada de actividades humanas o fenómenos naturales que al afectar severamente a sus elementos, pone en peligro a uno o varios ecosistemas;
 
-XVII. Fauna silvestre: Las especies animales que subsisten sujetas a los procesos de selección natural y que se desarrollan libremente, incluyendo sus poblaciones menores que se encuentran bajo control del hombre, así como los animales domésticos que por abandono se tornen salvajes y por ello sean susceptibles de captura y apropiación;
+> <small>(ADICIONADA, D.O.F. 28 DE ENERO DE 2011)</small>
 
-XVIII. Flora silvestre: Las especies vegetales así como los hongos, que subsisten sujetas a los procesos de selección natural y que se desarrollan libremente, incluyendo las poblaciones o especímenes de estas especies que se encuentran bajo control del hombre;
+XVII. Emisión: Liberación al ambiente de toda sustancia, en cualquiera de sus estados físicos, o cualquier tipo de energía, proveniente de una fuente;
 
-XIX. Impacto ambiental: Modificación del ambiente ocasionada por la acción del hombre o de la naturaleza;
+XVIII. Fauna silvestre: Las especies animales que subsisten sujetas a los procesos de selección natural y que se desarrollan libremente, incluyendo sus poblaciones menores que se encuentran bajo control del hombre, así como los animales domésticos que por abandono se tornen salvajes y por ello sean susceptibles de captura y apropiación;
 
-XX. Manifestación del impacto ambiental: El documento mediante el cual se da a conocer, con base en estudios, el impacto ambiental, significativo y potencial que generaría una obra o actividad, así como la forma de evitarlo o atenuarlo en caso de que sea negativo;
+XIX. Flora silvestre: Las especies vegetales así como los hongos, que subsisten sujetas a los procesos de selección natural y que se desarrollan libremente, incluyendo las poblaciones o especímenes de estas especies que se encuentran bajo control del hombre;
 
-XXI. Material genético: Todo material de origen vegetal, animal, microbiano o de otro tipo, que contenga unidades funcionales de herencia;
+XX. Impacto ambiental: Modificación del ambiente ocasionada por la acción del hombre o de la naturaleza;
 
-XXII. Material peligroso: Elementos, substancias, compuestos, residuos o mezclas de ellos que, independientemente de su estado físico, represente un riesgo para el ambiente, la salud o los recursos naturales, por sus características corrosivas, reactivas, explosivas, tóxicas, inflamables o biológico-infecciosas;
+XXI. Manifestación del impacto ambiental: El documento mediante el cual se da a conocer, con base en estudios, el impacto ambiental, significativo y potencial que generaría una obra o actividad, así como la forma de evitarlo o atenuarlo en caso de que sea negativo;
 
-XXIII. Ordenamiento ecológico: El instrumento de política ambiental cuyo objeto es regular o inducir el uso del suelo y las actividades productivas, con el fin de lograr la protección del medio ambiente y la preservación y el aprovechamiento sustentable de los recursos naturales, a partir del análisis de las tendencias de deterioro y las potencialidades de aprovechamiento de los mismos;
+XXII. Material genético: Todo material de origen vegetal, animal, microbiano o de otro tipo, que contenga unidades funcionales de herencia;
 
-XXIV. Preservación: El conjunto de políticas y medidas para mantener las condiciones que propicien la evolución y continuidad de los ecosistemas y hábitat naturales, así como conservar las poblaciones viables de especies en sus entornos naturales y los componentes de la biodiversidad fuera de sus hábitat naturales;
+XXIII. Material peligroso: Elementos, substancias, compuestos, residuos o mezclas de ellos que, independientemente de su estado físico, represente un riesgo para el ambiente, la salud o los recursos naturales, por sus características corrosivas, reactivas, explosivas, tóxicas, inflamables o biológico-infecciosas;
 
-XXV. Prevención: El conjunto de disposiciones y medidas anticipadas para evitar el deterioro del ambiente;
+XXIV. Ordenamiento ecológico: El instrumento de política ambiental cuyo objeto es regular o inducir el uso del suelo y las actividades productivas, con el fin de lograr la protección del medio ambiente y la preservación y el aprovechamiento sustentable de los recursos naturales, a partir del análisis de las tendencias de deterioro y las potencialidades de aprovechamiento de los mismos;
 
-XXVI. Protección: El conjunto de políticas y medidas para mejorar el ambiente y controlar su deterioro;
+XXV. Preservación: El conjunto de políticas y medidas para mantener las condiciones que propicien la evolución y continuidad de los ecosistemas y hábitat naturales, así como conservar las poblaciones viables de especies en sus entornos naturales y los componentes de la biodiversidad fuera de sus hábitat naturales;
 
-XXVII. Recursos biológicos: Los recursos genéticos, los organismos o partes de ellos, las poblaciones, o cualquier otro componente biótico de los ecosistemas con valor o utilidad real o potencial para el ser humano;
+XXVI. Prevención: El conjunto de disposiciones y medidas anticipadas para evitar el deterioro del ambiente;
+
+XXVII. Protección: El conjunto de políticas y medidas para mejorar el ambiente y controlar su deterioro;
+
+XXVIII. Recursos biológicos: Los recursos genéticos, los organismos o partes de ellos, las poblaciones, o cualquier otro componente biótico de los ecosistemas con valor o utilidad real o potencial para el ser humano;
 
 > <small>(REFORMADA, D.O.F. 1 DE ABRIL DE 2010)</small>
 
-XXVIII. Recursos Genéticos: Todo material genético, con valor real o potencial que provenga de origen vegetal, animal, microbiano, o de cualquier otro tipo y que contenga unidades funcionales de la herencia, existentes en el territorio nacional y en las zonas donde la nación ejerce soberanía y jurisdicción;
+XXIX. Recursos Genéticos: Todo material genético, con valor real o potencial que provenga de origen vegetal, animal, microbiano, o de cualquier otro tipo y que contenga unidades funcionales de la herencia, existentes en el territorio nacional y en las zonas donde la nación ejerce soberanía y jurisdicción;
 
-XXIX. Recurso natural: El elemento natural susceptible de ser aprovechado en beneficio del hombre;
+XXX. Recurso natural: El elemento natural susceptible de ser aprovechado en beneficio del hombre;
 
-XXX. Región ecológica: La unidad del territorio nacional que comparte características ecológicas comunes;
+XXXI. Región ecológica: La unidad del territorio nacional que comparte características ecológicas comunes;
 
-XXXI. Residuo: Cualquier material generado en los procesos de extracción, beneficio, transformación, producción, consumo, utilización, control o tratamiento cuya calidad no permita usarlo nuevamente en el proceso que lo generó;
+XXXII. Residuo: Cualquier material generado en los procesos de extracción, beneficio, transformación, producción, consumo, utilización, control o tratamiento cuya calidad no permita usarlo nuevamente en el proceso que lo generó;
 
-XXXII. Residuos peligrosos: Todos aquellos residuos, en cualquier estado físico, que por sus características corrosivas, reactivas, explosivas, tóxicas, inflamables o biológico-infecciosas, representen un peligro para el equilibrio ecológico o el ambiente;
+XXXIII. Residuos peligrosos: Todos aquellos residuos, en cualquier estado físico, que por sus características corrosivas, reactivas, explosivas, tóxicas, inflamables o biológico-infecciosas, representen un peligro para el equilibrio ecológico o el ambiente;
 
-XXXIII. Restauración: Conjunto de actividades tendientes a la recuperación y restablecimiento de las condiciones que propician la evolución y continuidad de los procesos naturales;
-
-> <small>(REFORMADA, D.O.F. 7 DE ENERO DE 2000)</small>
-
-XXXIV. Secretaría: La Secretaría de Medio Ambiente, Recursos Naturales y Pesca;
+XXXIV. Restauración: Conjunto de actividades tendientes a la recuperación y restablecimiento de las condiciones que propician la evolución y continuidad de los procesos naturales;
 
 > <small>(REFORMADA, D.O.F. 7 DE ENERO DE 2000)</small>
 
-XXXV. Vocación natural: Condiciones que presenta un ecosistema para sostener una o varias actividades sin que se produzcan desequilibrios ecológicos, y (sic)
+XXXV. Secretaría: La Secretaría de Medio Ambiente, Recursos Naturales y Pesca;
+
+> <small>(REFORMADA, D.O.F. 7 DE ENERO DE 2000)</small>
+
+XXXVI. Vocación natural: Condiciones que presenta un ecosistema para sostener una o varias actividades sin que se produzcan desequilibrios ecológicos, y (sic)
 
 > <small>(ADICIONADA, D.O.F. 7 DE ENERO DE 2000)</small>
 
-XXXVI. Educación Ambiental: Proceso de formación dirigido a toda la sociedad, tanto en el ámbito escolar como en el ámbito extraescolar, para facilitar la percepción integrada del ambiente a fin de lograr conductas más racionales a favor del desarrollo social y del ambiente. La educación ambiental comprende la asimilación de conocimientos, la formación de valores, el desarrollo de competencias y conductas con el propósito de garantizar la preservación de la vida;
+XXXVII. Educación Ambiental: Proceso de formación dirigido a toda la sociedad, tanto en el ámbito escolar como en el ámbito extraescolar, para facilitar la percepción integrada del ambiente a fin de lograr conductas más racionales a favor del desarrollo social y del ambiente. La educación ambiental comprende la asimilación de conocimientos, la formación de valores, el desarrollo de competencias y conductas con el propósito de garantizar la preservación de la vida;
 
 > <small>(ADICIONADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
 
-XXXVII. Zonificación: El instrumento técnico de planeación que puede ser utilizado en el establecimiento de las áreas naturales protegidas, que permite ordenar su territorio en función del grado de conservación y representatividad de sus ecosistemas, la vocación natural del terreno, de su uso actual y potencial, de conformidad con los objetivos dispuestos en la misma declaratoria. Asimismo, existirá una subzonificación, la cual consiste en el instrumento técnico y dinámico de planeación, que se establecerá en el programa de manejo respectivo, y que es utilizado en el manejo de las áreas naturales protegidas, con el fin de ordenar detalladamente las zonas núcleo y de amortiguamiento, previamente establecidas mediante la declaratoria correspondiente.
+XXXVIII. Zonificación: El instrumento técnico de planeación que puede ser utilizado en el establecimiento de las áreas naturales protegidas, que permite ordenar su territorio en función del grado de conservación y representatividad de sus ecosistemas, la vocación natural del terreno, de su uso actual y potencial, de conformidad con los objetivos dispuestos en la misma declaratoria. Asimismo, existirá una subzonificación, la cual consiste en el instrumento técnico y dinámico de planeación, que se establecerá en el programa de manejo respectivo, y que es utilizado en el manejo de las áreas naturales protegidas, con el fin de ordenar detalladamente las zonas núcleo y de amortiguamiento, previamente establecidas mediante la declaratoria correspondiente.
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
@@ -236,9 +250,15 @@ XVIII. La emisión de recomendaciones a autoridades Federales, Estatales y Munic
 
 XIX. La vigilancia y promoción, en el ámbito de su competencia, del cumplimiento de esta Ley y los demás ordenamientos que de ella se deriven;
 
-XX. La atención de los asuntos que afecten el equilibrio ecológico de dos o más entidades federativas, y
+> <small>(REFORMADA, D.O.F. 28 DE ENERO DE 2011)</small>
 
-XXI. Las demás que esta Ley u otras disposiciones legales atribuyan a la Federación.
+XX. La atención de los asuntos que afecten el equilibrio ecológico de dos o más entidades federativas;
+
+> <small>(ADICIONADA, D.O.F. 28 DE ENERO DE 2011)</small>
+
+XXI. La formulación y ejecución de acciones de mitigación y adaptación al cambio climático, y
+
+XXII. Las demás que esta Ley u otras disposiciones legales atribuyan a la Federación.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE MAYO DE 2006)</small>
 
@@ -298,9 +318,15 @@ XVIII. La formulación, ejecución y evaluación del programa estatal de protecc
 
 XIX. La emisión de recomendaciones a las autoridades competentes en materia ambiental, con el propósito de promover el cumplimiento de la legislación ambiental;
 
-XX. La atención coordinada con la Federación de asuntos que afecten el equilibrio ecológico de dos o más Entidades Federativas, cuando así lo consideren conveniente las Entidades Federativas respectivas, y
+> <small>(REFORMADA, D.O.F. 28 DE ENERO DE 2011)</small>
 
-XXI. La atención de los demás asuntos que en materia de preservación del equilibrio ecológico y protección al ambiente les conceda esta Ley u otros ordenamientos en concordancia con ella y que no estén otorgados expresamente a la Federación.
+XX. La atención coordinada con la Federación de asuntos que afecten el equilibrio ecológico de dos o más Entidades Federativas, cuando así lo consideren conveniente las Entidades Federativas respectivas;
+
+> <small>(ADICIONADA, D.O.F. 28 DE ENERO DE 2011)</small>
+
+XXI. La formulación y ejecución de acciones de mitigación y adaptación al cambio climático, y
+
+XXII. La atención de los demás asuntos que en materia de preservación del equilibrio ecológico y protección al ambiente les conceda esta Ley u otros ordenamientos en concordancia con ella y que no estén otorgados expresamente a la Federación.
 
 > <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
@@ -336,9 +362,15 @@ XIII. La formulación y conducción de la política municipal de información y 
 
 XIV. La participación en la evaluación del impacto ambiental de obras o actividades de competencia estatal, cuando las mismas se realicen en el ámbito de su circunscripción territorial;
 
-XV. La formulación, ejecución y evaluación del programa municipal de protección al ambiente, y
+> <small>(REFORMADA, D.O.F. 28 DE ENERO DE 2011)</small>
 
-XVI. La atención de los demás asuntos que en materia de preservación del equilibrio ecológico y protección al ambiente les conceda esta Ley u otros ordenamientos en concordancia con ella y que no estén otorgados expresamente a la Federación o a los Estados.
+XV. La formulación, ejecución y evaluación del programa municipal de protección al ambiente;
+
+> <small>(ADICIONADA, D.O.F. 28 DE ENERO DE 2011)</small>
+
+XVI. La formulación y ejecución de acciones de mitigación y adaptación al cambio climático, y
+
+XVII. La atención de los demás asuntos que en materia de preservación del equilibrio ecológico y protección al ambiente les conceda esta Ley u otros ordenamientos en concordancia con ella y que no estén otorgados expresamente a la Federación o a los Estados.
 
 > <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
@@ -1066,9 +1098,11 @@ La Secretaría mediante diversas acciones promoverá la generación de conocimie
 
 La Secretaría del Trabajo y Previsión Social, promoverá el desarrollo de la capacitación y adiestramiento en y para el trabajo en materia de protección al ambiente, y de preservación y restauración del equilibrio ecológico, con arreglo a lo que establece esta Ley y de conformidad con los sistemas, métodos y procedimientos que prevenga la legislación especial. Asimismo, propiciará la incorporación de contenidos ecológicos en los programas de las comisiones mixtas de seguridad e higiene.
 
+> <small>(REFORMADO, D.O.F. 28 DE ENERO DE 2011)</small>
+
 ###### ARTICULO 41.
 
-El Gobierno Federal, las entidades federativas y los municipios con arreglo a lo que dispongan las legislaturas locales, fomentarán investigaciones científicas y promoverán programas para el desarrollo de técnicas y procedimientos que permitan prevenir, controlar y abatir la contaminación, propiciar el aprovechamiento racional de los recursos y protejer (sic) los ecosistemas. Para ello, se podrán celebrar convenios con instituciones de educación superior, centros de investigación, instituciones del sector social y privado, investigadores y especialistas en la materia.
+El Gobierno Federal, las entidades federativas y los municipios con arreglo a lo que dispongan las legislaturas locales, fomentarán investigaciones científicas y promoverán programas para el desarrollo de técnicas y procedimientos que permitan prevenir, controlar y abatir la contaminación, propiciar el aprovechamiento racional de los recursos y proteger los ecosistemas, determinar la vulnerabilidad, así como las medidas de adaptación y mitigación al cambio climático. Para ello, se podrán celebrar convenios con instituciones de educación superior, centros de investigación, instituciones del sector social y privado, investigadores y especialistas en la materia.
 
 #### SECCION IX. Información y Vigilancia
 
@@ -3150,11 +3184,15 @@ VI. Cuando se trate de materias primas forestales maderables y no maderables, pr
 
 Por lo que se refiere a los demás trámites relativos a la sustanciación del recurso de revisión a que se refiere el artículo 176 del presente ordenamiento, se estará a lo dispuesto por la Ley Federal de Procedimiento Administrativo.
 
-> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 28 DE ENERO DE 2011)</small>
 
 ###### ARTICULO 180.
 
-Tratándose de obras o actividades que contravengan las disposiciones de esta Ley, los programas de ordenamiento ecológico, las declaratorias de áreas naturales protegidas o los reglamentos y normas oficiales mexicanas derivadas de la misma, las personas físicas y morales de las comunidades afectadas tendrán derecho a impugnar los actos administrativos correspondientes, así como a exigir que se lleven a cabo las acciones necesarias para que sean observadas las disposiciones jurídicas aplicables, siempre que demuestren en el procedimiento que dichas obras o actividades originan o pueden originar un daño a los recursos naturales, la flora o la fauna silvestre, la salud pública o la calidad de vida. Para tal efecto, deberán interponer el recurso administrativo de revisión a que se refiere este capítulo.
+Tratándose de obras o actividades que contravengan las disposiciones de esta Ley y de aquéllas a las cuales se aplica de manera supletoria, así como de los reglamentos y normas oficiales mexicanas derivadas de las mismas, los programas de ordenamiento ecológico, las declaratorias de áreas naturales protegidas o los reglamentos y normas oficiales mexicanas derivadas de la misma, las personas físicas y morales que tengan interés legítimo tendrán derecho a impugnar los actos administrativos correspondientes, así como a exigir que se lleven a cabo las acciones necesarias para que sean observadas las disposiciones jurídicas aplicables, siempre que demuestren en el procedimiento que dichas obras o actividades originan o pueden originar un daño al medio ambiente, los recursos naturales, la vida silvestre o la salud pública.
+
+Para tal efecto, de manera optativa podrán interponer el recurso administrativo de revisión a que se refiere este Capítulo, o acudir al Tribunal Federal de Justicia Fiscal y Administrativa.
+
+Para los efectos del presente artículo, tendrán interés legítimo las personas físicas o morales de las comunidades posiblemente afectadas por dichas obras o actividades.
 
 > <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
@@ -3523,3 +3561,23 @@ D.O.F. 6 DE ABRIL DE 2010.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 28 DE ENERO DE 2011.
+
+DECRETO POR EL QUE SE REFORMA Y ADICIONA EL ARTICULO 180 DE LA LEY GENERAL DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE
+
+Artículo Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 28 DE ENERO DE 2011.
+
+DECRETO QUE ADICIONA UNA FRACCION XVII AL ARTICULO 3o. DE LA LEY GENERAL DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE
+
+Único.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 28 DE ENERO DE 2011.
+
+DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE
+
+Artículo Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Artículo Segundo. Se derogan y, en su caso, se abrogan todas las disposiciones que se opongan al presente Decreto.
