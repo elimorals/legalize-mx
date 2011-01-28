@@ -4,7 +4,7 @@ identifier: "LFFAOSC"
 country: "mx"
 rank: "ley_federal"
 publication_date: "2004-02-09"
-last_updated: "2004-02-09"
+last_updated: "2011-01-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=36697&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFFAOSC"
 
 LEY FEDERAL DE FOMENTO A LAS ACTIVIDADES REALIZADAS POR ORGANIZACIONES DE LA SOCIEDAD CIVIL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE ENERO DE 2011.
 
 Ley publicada en el Diario Oficial de la Federación, el lunes 9 de febrero de 2004.
 
@@ -96,9 +96,11 @@ Las organizaciones de la sociedad civil constituidas conforme a las leyes extran
 
 ### CAPÍTULO SEGUNDO. De las Organizaciones de la Sociedad Civil
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE ENERO DE 2011)</small>
+
 ###### Artículo 5.
 
-Para efectos de esta ley, las actividades de las organizaciones de la sociedad civil objeto de fomento son las siguientes:
+Para los efectos de esta ley, las actividades de las organizaciones de la sociedad civil objeto de fomento son las siguientes:
 
 I. Asistencia social, conforme a lo establecido en la Ley Sobre el Sistema Nacional de Asistencia Social y en la Ley General de Salud;
 
@@ -130,9 +132,15 @@ XIV. Fomento de acciones para mejorar la economía popular;
 
 XV. Participación en acciones de protección civil;
 
-XVI. Prestación de servicios de apoyo a la creación y fortalecimiento de organizaciones que realicen actividades objeto de fomento por esta ley, y
+> <small>(REFORMADA, D.O.F. 28 DE ENERO DE 2011)</small>
 
-XVII. Las que determinen otras leyes.
+XVI. Prestación de servicios de apoyo a la creación y fortalecimiento de organizaciones que realicen actividades objeto de fomento por esta ley;
+
+> <small>(ADICIONADA, D.O.F. 28 DE ENERO DE 2011)</small>
+
+XVII. Promoción y defensa de los derechos de los consumidores, y
+
+XVIII. Las que determinen otras leyes.
 
 ###### Artículo 6.
 
@@ -481,3 +489,9 @@ También por única ocasión, el primer grupo durará en su encargo un año, el 
 México, D.F., a 15 de diciembre de 2003.- Sen. Enrique Jackson Ramírez, Presidente.- Dip. Juan de Dios Castro Lozano, Presidente.- Sen. Yolanda E. González Hernández, Secretario.- Dip. Amalín Yabur Elías, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los treinta días del mes de enero de dos mil cuatro.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 28 DE ENERO DE 2011.
+
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
