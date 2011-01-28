@@ -4,7 +4,7 @@ identifier: "COA-codigo-penal-del-estado-de-coahuila-de-zaragoza-antes-15146"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-05-28"
-last_updated: "2010-12-14"
+last_updated: "2011-01-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CODIGO PENAL DE COAHUILA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE ENERO DE 2011.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 28 de mayo de 1999.
 
@@ -3023,6 +3023,10 @@ IX. ALTERACIÓN DE TRADUCCIÓN O INTERPRETACIÓN. Altere el contenido de un docu
 
 X. ELABORACIÓN DE DOCUMENTOS O PLACAS OFICIALES SIN AUTORIZACIÓN. Elabore placas, gafetes, distintivos, documentos o cualquier otra identificación oficial sin contar con la autorización de la autoridad correspondiente.
 
+> <small>(ADICIONADA, P.O. 28 DE ENERO DE 2011)</small>
+
+XI. PRODUCCIÓN, IMPRESIÓN, ENAJENACIÓN, DISTRIBUCIÓN, ALTERACIÓN. Produzca, imprima, enajene, distribuya o altere, vales de papel o electrónicos en forma de tarjeta plástica, utilizados para canjear por bienes y servicios, a sabiendas de que son falsos.
+
 ###### ARTÍCULO 296.
 
 SANCIONES Y OTRAS FIGURAS TÍPICAS DE FALSEDAD DOCUMENTAL. Las mismas sanciones establecidas en el artículo anterior, se aplicarán a los casos siguientes:
@@ -4153,6 +4157,10 @@ IX. ROBO DE AUTOPARTES. Se cometa el robo de pieza o conjunto de piezas que conf
 
 X. ROBO DE COBRE Y OTROS METALES. Comete el delito, quien se apodere o sustraiga ilegalmente, cobre o algún otro metal utilizado en instalaciones eléctricas o hidráulicas, partes de medidores de agua, luz, gas, y/o partes de equipamiento urbano, industrial y agrícola.
 
+> <small>(ADICIONADA, P.O. 28 DE ENERO DE 2011)</small>
+
+XI. VALES O DISPOSITIVOS ELECTRÓNICOS. Cuando el objeto del robo sean vales de papel o electrónicos en forma de tarjeta plástica, asociado a un sistema de pagos, emitido por personas morales utilizados para canjear por bienes y servicios.
+
 ###### ARTÍCULO 415.
 
 MODALIDADES ESPECIALMENTE AGRAVANTES DEL ROBO. Se aplicará de tres a doce años de prisión y multa, con independencia del valor de lo robado, cuando concurra cualquiera de las circunstancias siguientes:
@@ -4691,6 +4699,10 @@ SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
 
 P.O. 14 DE DICIEMBRE DE 2010.
 
-DECRETO NUMERO 360, POR EL QUE SE ADICIONA UN PARRAFO ENTRE LOS ACTUALES PRIMERO Y SEGUNDO, RECORRIÉNDOSE EN SU ORDEN LOS TRES SUBSECUENTES, EN EL ARTICULO 300 DEL CODIGO PENAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
+DECRETO NUMERO 360, POR EL QUE SE ADICIONA UN PARRAFO ENTRE LOS ACTUALES PRIMERO Y SEGUNDO, RECORRIENDOSE EN SU ORDEN LOS TRES SUBSECUENTES, EN EL ARTICULO 300 DEL CODIGO PENAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Coahuila de Zaragoza.
+
+P.O. 28 DE ENERO DE 2011.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
