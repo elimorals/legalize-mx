@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-proteccion-civil-municipal-de-cd-guadalupe-40301"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-07-26"
-last_updated: "2009-12-29"
+last_updated: "2011-01-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40301&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "NLE"
 
 REGLAMENTO DE PROTECCION CIVIL MUNICIPAL DE CD. GUADALUPE, N.L
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO TRANSITORIO DEL REGLAMENTO DE PROTECCION CIVIL DEL MUNICIPIO DE GUADALUPE, NUEVO LEON, PUBLICADO EN EL P.O. EL 28 DE ENERO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 26 de julio de 2004.
 
@@ -1176,3 +1178,11 @@ Se abrogan todas las disposiciones, reglamentarias, circulares, acuerdos y norma
 ###### ARTÍCULO TERCERO.
 
 Remítase a la C. Presidenta Municipal, a fin de que instruya al C. Secretario del Ayuntamiento, para que mande publicar las Adiciones y Modificaciones del Presente Reglamento en el Periódico Oficial del Estado de Nuevo León, así como en la Gaceta Municipal.
+
+P.O. 28 DE ENERO DE 2011.
+
+###### ARTICULO PRIMERO.
+
+, (sic) El R. Ayuntamiento aprueba la abrogación del Reglamento de Protección Civil Municipal de CD. Guadalupe, N.L., publicado en el Periódico Oficial del Estado de Nuevo León, No. 95- noventa y cinco-, de fecha lunes 26 -veintiséis- de julio de 2004, páginas 86 a 106, en conjunto con sus reformas, disposiciones reglamentarias, y circulares; así mismo y en consecuencia se expide el nuevo Reglamento de Protección Civil del Municipio de Guadalupe, Nuevo León, mismo que entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+SEGUNDO.- Publíquese en el Periódico Oficial del Estado de Nuevo León; y en la Gaceta del Municipio de Guadalupe, Nuevo León.
