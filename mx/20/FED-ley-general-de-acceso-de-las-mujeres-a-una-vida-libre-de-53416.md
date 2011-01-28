@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-acceso-de-las-mujeres-a-una-vida-libre-de-53416"
 country: "mx"
 rank: "ley_general"
 publication_date: "2007-02-01"
-last_updated: "2009-01-20"
+last_updated: "2011-01-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53416&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2007-01-31"
 
 LEY GENERAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE ENERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE ENERO DE 2011.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 1 de febrero de 2007.
 
@@ -465,6 +465,10 @@ XIII. Diseñar un modelo integral de atención a los derechos humanos y ciudadan
 
 El Ejecutivo Federal propondrá en el Proyecto de Presupuesto de Egresos de la Federación asignar una partida presupuestaria para garantizar el cumplimiento de los objetivos del Sistema y del Programa previstos en la presente ley.
 
+### CAPÍTULO ÚNICO. DE LAS RESPONSABILIDADES Y SANCIONES
+
+> <small>(ADICIONADO D.O.F. 28 DE ENERO DE 2011)</small>
+
 ###### ARTÍCULO 40.
 
 La Federación, las entidades federativas, el Distrito Federal y los municipios, coadyuvarán para el cumplimiento de los objetivos de esta ley de conformidad con las competencias previstas en el presente ordenamiento y demás instrumentos legales aplicables.
@@ -543,7 +547,9 @@ VIII. Ejecutar y dar seguimiento a las acciones del Programa, con la finalidad d
 
 IX. Diseñar, con una visión transversal, la política integral orientada a la prevención, atención, sanción y erradicación de los delitos violentos contra las mujeres;
 
-X. Vigilar que los medios de comunicación favorezcan la erradicación de todos los tipos de violencia y se fortalezca la dignidad de las mujeres;
+> <small>(REFORMADA, D.O.F. 28 DE ENERO DE 2011)</small>
+
+X. Vigilar y promover directrices para que los medios de comunicación favorezcan la erradicación de todos los tipos de violencia y se fortalezca la dignidad y el respeto hacia las mujeres;
 
 XI. Sancionar conforme a la ley a los medios de comunicación que no cumplan con lo estipulado en la fracción anterior;
 
@@ -617,7 +623,9 @@ Corresponde a la Secretaría de Educación Pública:
 
 I. Definir en las políticas educativas los principios de igualdad, equidad y no discriminación entre mujeres y hombres y el respeto pleno a los derechos humanos;
 
-II. Desarrollar programas educativos, en todos los niveles de escolaridad, que fomenten la cultura de una vida libre de violencia contra las mujeres, así como el respeto a su dignidad;
+> <small>(REFORMADA, D.O.F. 28 DE ENERO DE 2011)</small>
+
+II. Desarrollar programas educativos, en todos los niveles de escolaridad, que fomenten la cultura de una vida libre de violencia contra las mujeres y el respeto a su dignidad; así como la comprensión adecuada al ejercicio del derecho a una paternidad y maternidad libre, responsable e informada, como función social y el reconocimiento de la responsabilidad compartida de hombres y mujeres en cuanto a la educación y el desarrollo de sus hijos;
 
 III. Garantizar acciones y mecanismos que favorezcan el adelanto de las mujeres en todas las etapas del proceso educativo;
 
@@ -657,7 +665,9 @@ I. En el marco de la política de salud integral de las mujeres, diseñar con pe
 
 II. Brindar por medio de las instituciones del sector salud de manera integral e interdisciplinaria atención médica y psicológica con perspectiva de género a las víctimas;
 
-III. Crear programas de capacitación para el personal del sector salud, respecto de la violencia contra las mujeres y se garanticen la atención a las víctimas y la aplicación de la NOM 190-SSA1-1999: Prestación de servicios de salud. Criterios para la atención médica de la violencia familiar;
+> <small>(REFORMADA, D.O.F. 28 DE ENERO DE 2011)</small>
+
+III. Crear programas de capacitación para el personal del sector salud, respecto de la violencia contra las mujeres y se garanticen la atención a las víctimas y la aplicación de las normas oficiales mexicanas vigentes en la materia;
 
 IV. Establecer programas y servicios profesionales y eficaces, con horario de veinticuatro horas en las dependencias públicas relacionadas con la atención de la violencia contra las mujeres;
 
@@ -759,7 +769,9 @@ III. Coadyuvar en la adopción y consolidación del Sistema;
 
 IV. Participar en la elaboración del Programa;
 
-V. Reforzar a las instituciones públicas y privadas que prestan atención a las víctimas;
+> <small>(REFORMADA, D.O.F. 28 DE ENERO DE 2011)</small>
+
+V. Fortalecer e impulsar la creación de las instituciones públicas y privadas que prestan atención a las víctimas;
 
 VI. Integrar el Sistema Estatal de Prevención, Erradicación y Sanción de la Violencia contra las Mujeres e incorporar su contenido al Sistema;
 
@@ -853,9 +865,21 @@ V. Recibir información médica y psicológica;
 
 VI. Contar con un refugio, mientras lo necesite;
 
-VII. Ser valoradas y educadas libres de estereotipos de comportamiento y prácticas sociales y culturales basadas en conceptos de inferioridad o subordinación, y
+> <small>(REFORMADA, D.O.F. 28 DE ENERO DE 2011)</small>
 
-VIII. En los casos de violencia familiar, las mujeres que tengan hijas y/o hijos podrán acudir a los refugios con éstos.
+VII. Ser valoradas y educadas libres de estereotipos de comportamiento y prácticas sociales y culturales basadas en conceptos de inferioridad o subordinación;
+
+> <small>(REFORMADA, D.O.F. 28 DE ENERO DE 2011)</small>
+
+VIII. En los casos de violencia familiar, las mujeres que tengan hijas y/o hijos podrán acudir a los refugios con éstos, y
+
+> <small>(ADICIONADA, D.O.F. 28 DE ENERO DE 2011)</small>
+
+IX. La víctima no será obligada a participar en mecanismos de conciliación con su agresor.
+
+> <small>(ADICIONADO, D.O.F. 28 DE ENERO DE 2011)</small>
+
+Las mujeres indígenas serán asistidas gratuitamente en todo tiempo por intérpretes y defensores de oficio que tengan conocimiento de su lengua y cultura.
 
 ###### ARTÍCULO 53.
 
@@ -917,6 +941,16 @@ Para efectos del artículo anterior, el personal médico, psicológico y jurídi
 
 En ningún caso se podrá mantener a las víctimas en los refugios en contra de su voluntad.
 
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULO QUE LO INTEGRAN, D.O.F. 28 DE ENERO DE 2011)</small>
+
+## TITULO IV. DE LAS RESPONSABILIDADES Y SANCIONES
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O.F. 28 DE ENERO DE 2011)</small>
+
+###### Artículo 60.
+
+Será causa de responsabilidad administrativa el incumplimiento de esta ley y se sancionará conforme a las leyes en la materia.
+
 ## TRANSITORIOS
 
 ###### ARTÍCULO PRIMERO.
@@ -960,3 +994,7 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 D.O.F. 20 DE ENERO DE 2009.
 
 Único. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 28 DE ENERO DE 2011.
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
