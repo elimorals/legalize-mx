@@ -4,7 +4,7 @@ identifier: "CMX-estatuto-organico-del-instituto-de-educacion-media-superior-440
 country: "mx"
 rank: "estatuto"
 publication_date: "2005-03-23"
-last_updated: "2010-09-01"
+last_updated: "2011-01-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44032&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2005-03-18"
 
 ESTATUTO ORGANICO DEL INSTITUTO DE EDUCACION MEDIA SUPERIOR DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 1 DE SEPTIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 28 DE ENERO DE 2011.
 
 Estatuto publicado en la Gaceta Oficial del Distrito Federal, el miércoles 23 de marzo de 2005.
 
@@ -148,13 +148,19 @@ A propuesta del Presidente se nombrará entre personas ajenas al Instituto, a un
 
 El Director General del Instituto asistirá a las reuniones del Consejo de Gobierno con voz pero sin voto, y podrá también asistir a las sesiones de los Comités y Subcomités Técnicos Especializados.
 
+> <small>(ADICIONADO, G.O. 28 DE ENERO DE 2011)</small>
+
+El Secretario Técnico podrá convocar a las sesiones de Consejo, tanto ordinarias como extraordinarias, por instrucciones del titular de la Presidencia.
+
 El Consejo de Gobierno, cuando lo estime conveniente, podrá invitar a participar en sus sesiones, con voz pero sin voto, a representantes de otras dependencias, unidades administrativas, entidades de la Administración Pública Federal o del Distrito Federal, así como a miembros del Consejo General Interno y del Consejo Académico del Instituto o a especialistas en el tema cuando se traten asuntos que así lo requieran.
 
 ###### Artículo 7.
 
 Los miembros del Consejo de Gobierno del Instituto participarán en éste a título honorario.
 
-Las sesiones que celebre el Consejo de Gobierno serán ordinarias y extraordinarias, sesionará ordinariamente, de acuerdo con el calendario que será aprobado en la primera sesión ordinaria del ejercicio, no menos de cuatro veces al año y las sesiones extraordinarias se realizarán cuando su Presidente lo estime necesario, previa convocatoria.
+> <small>(REFORMADO, G.O. 28 DE ENERO DE 2011)</small>
+
+Las sesiones que celebre el Consejo de Gobierno serán ordinarias y extraordinarias, sesionará ordinariamente, de acuerdo con el calendario que será aprobado en la primera sesión ordinaria del ejercicio, no menos de cuatro veces al año y las sesiones extraordinarias se realizarán cuando su Presidente lo estime necesario, previa convocatoria que haga él o el Secretario Técnico, en su caso.
 
 El Consejo de Gobierno sesionará válidamente con la asistencia de por lo menos la mitad más uno de sus miembros, siempre que la mayoría de los asistentes sean representantes de la Administración Pública del Distrito Federal.
 
@@ -230,23 +236,31 @@ V. Las demás que le encomiende el Consejo de Gobierno.
 
 Corresponde al Secretario Técnico del Consejo de Gobierno:
 
-I. Formular con la anticipación debida, el orden del día de las sesiones del Consejo de Gobierno, tomando en cuenta los asuntos que a propuesta de sus integrantes, del Director General del Instituto y del Comisario, se deban incluir en el mismo y someterlo a la aprobación del Presidente del Consejo de Gobierno;
+> <small>(ADICIONADA, G.O. 28 DE ENERO DE 2011)</small>
 
-II. Enviar a los integrantes del Consejo de Gobierno, para su estudio, la documentación de los asuntos a tratar, asegurándose que su recepción se efectúe cuando menos cinco días hábiles antes de la celebración de la sesión en el caso de las ordinarias y de tres días en el caso de las extraordinarias;
+I. Convocar a las sesiones ordinarias y extraordinarias, por instrucciones del Presidente del Consejo;
 
-III. Asistir a las sesiones ordinarias y extraordinarias con voz pero sin voto;
+II. Formular con la anticipación debida, el orden del día de las sesiones del Consejo de Gobierno, tomando en cuenta los asuntos que a propuesta de sus integrantes, del Director General del Instituto y del Comisario, se deban incluir en el mismo y someterlo a la aprobación del Presidente del Consejo de Gobierno;
 
-IV. Pasar lista de asistencia y verificar que exista el quórum legal para iniciar la sesión;
+III. Enviar a los integrantes del Consejo de Gobierno, para su estudio, la documentación de los asuntos a tratar, asegurándose que su recepción se efectúe cuando menos cinco días hábiles antes de la celebración de la sesión en el caso de las ordinarias y de tres días en el caso de las extraordinarias;
 
-V. Elaborar el calendario de sesiones del Consejo de Gobierno y someterlo para su aprobación ante los miembros del Consejo;
+IV. Asistir a las sesiones ordinarias y extraordinarias con voz pero sin voto;
 
-VI. Dar lectura al acta de la sesión anterior y tomar nota de las observaciones de sus miembros para su modificación;
+V. Pasar lista de asistencia y verificar que exista el quórum legal para iniciar la sesión;
 
-VII. Levantar las actas de las sesiones que celebre el Consejo de Gobierno y asentarlas una vez aprobadas, en el libro respectivo, obteniendo las firmas del Presidente y de los que concurran;
+> <small>(ADICIONADA, G.O. 28 DE ENERO DE 2011)</small>
 
-VIII. Llevar el registro y dar seguimiento a los acuerdos tomados en las sesiones del Consejo de Gobierno, y
+VI. Llevar el escrutinio de las votaciones de los miembros del Consejo de Gobierno;
 
-IX. Las demás que le confiera el Consejo de Gobierno y el Estatuto Orgánico.
+VII. Elaborar el calendario de sesiones del Consejo de Gobierno y someterlo para su aprobación ante los miembros del Consejo;
+
+VIII. Dar lectura al acta de la sesión anterior y tomar nota de las observaciones de sus miembros para su modificación;
+
+IX. Levantar las actas de las sesiones que celebre el Consejo de Gobierno y asentarlas una vez aprobadas, en el libro respectivo, obteniendo las firmas del Presidente y de los que concurran;
+
+X. Llevar el registro y dar seguimiento a los acuerdos tomados en las sesiones del Consejo de Gobierno, y
+
+XI. Las demás que le confiera el Consejo de Gobierno y el Estatuto Orgánico.
 
 ### CAPÍTULO CUARTO. DEL DIRECTOR GENERAL
 
@@ -775,3 +789,9 @@ G.O. 1 DE SEPTIEMBRE DE 2010.
 Primero.- Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal, mismas que fueron aprobadas por el Consejo de Gobierno del Instituto de Educación Media Superior del Distrito Federal en su Segunda Sesión Ordinaria de 2010.
 
 Segundo.- La designación que se haga, en términos de la reforma al artículo 29 del Estatuto Orgánico, de los Subdirectores de Coordinación de Plantel y de los servidores públicos del área central como Docentes Tutores Investigadores, se llevará a través del procedimiento que para tal efecto establezca el Instituto, previa aprobación que del mismo haga el Consejo de Gobierno.
+
+G.O. 28 DE ENERO DE 2011.
+
+PRIMERO.- Publíquese las presentes reformas y adiciones en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Las presentes reformas y adiciones entrarán en vigor a partir del día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
