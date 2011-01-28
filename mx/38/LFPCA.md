@@ -4,7 +4,7 @@ identifier: "LFPCA"
 country: "mx"
 rank: "ley_federal"
 publication_date: "2005-12-01"
-last_updated: "2010-12-10"
+last_updated: "2011-01-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46997&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFPCA"
 
 LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE ENERO DE 2011.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 1 de diciembre de 2005.
 
@@ -180,7 +180,9 @@ IV. Dan a conocer información confidencial o comercial reservada.
 
 Es improcedente el juicio ante el Tribunal en los casos, por las causales y contra los actos siguientes:
 
-I. Que no afecten los intereses jurídicos del demandante.
+> <small>(REFORMADA, D.O.F. 28 DE ENERO DE 2011)</small>
+
+I. Que no afecten los intereses jurídicos del demandante, salvo en los casos de legitimación expresamente reconocida por las leyes que rigen al acto impugnado.
 
 II. Que no le competa conocer a dicho Tribunal.
 
@@ -1248,6 +1250,10 @@ Cuando por caso fortuito, fuerza mayor o por fallas técnicas se interrumpa el f
 
 El reporte que determine que existió interrupción en el Sistema deberá señalar la causa y el tiempo de dicha interrupción, indicando la fecha y hora de inicio y término de la misma. Los plazos se suspenderán, únicamente, el tiempo que dure la interrupción del Sistema. Para tal efecto, la Sala hará constar esta situación mediante acuerdo en el expediente electrónico y, considerando el tiempo de la interrupción, realizara el computo correspondiente, para determinar si hubo o no incumplimiento de los plazos legales.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE ARTICULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
+
 ### CAPÍTULO XI. Del Juicio en la Vía Sumaria
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
@@ -1425,10 +1431,6 @@ Contra la resolución del Magistrado Instructor dictada conforme al párrafo ant
 ### CAPÍTULO I. De la Reclamación
 
 ## TÍTULO III. De los Recursos
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE ARTICULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
 
 ### CAPÍTULO II. De la Revisión
 
@@ -1757,3 +1759,7 @@ CUARTO. Los avisos que se estén tramitando conforme a los artículos 67, últim
 Cualquier referencia hecha en alguna disposición jurídica al Boletín procesal o a la lista en estrados del Tribunal Federal de Justicia Fiscal y Administrativa, se entenderá realizada al Boletín Electrónico a partir de la entrada en vigor del artículo 1-A, fracción III de la Ley Federal de Procedimiento Contencioso Administrativo que se reforma conforme al presente Decreto.
 
 El Tribunal Federal de Justicia Fiscal y Administrativa promoverá una campaña masiva entre los usuarios de los servicios del Tribunal para difundir las disposiciones contenidas en este Decreto.
+
+D.O.F. 28 DE ENERO DE 2011.
+
+Artículo Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
