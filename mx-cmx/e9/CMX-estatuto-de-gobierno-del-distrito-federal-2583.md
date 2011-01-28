@@ -4,7 +4,7 @@ identifier: "CMX-estatuto-de-gobierno-del-distrito-federal-2583"
 country: "mx"
 rank: "estatuto"
 publication_date: "1994-07-26"
-last_updated: "2008-04-28"
+last_updated: "2011-01-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2583&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1994-07-22"
 
 ESTATUTO DE GOBIERNO DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE ABRIL DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE ENERO DE 2011.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el martes 26 de julio de 1994.
 
@@ -1150,9 +1150,9 @@ Dentro de los quince días a que se refiere el artículo anterior, la Asamblea d
 
 Para ser Magistrado del Tribunal Superior de Justicia se deberán reunir los mismos requisitos que la Constitución Política de los Estados Unidos Mexicanos exige para los Ministros de la Suprema Corte de Justicia. Se requerirá, además, haberse distinguido en el ejercicio profesional o en el ramo judicial, preferentemente en el Distrito Federal. En igualdad de circunstancias, se preferirá a los originarios o vecinos del Distrito Federal en la forma que determine la ley. El Tribunal Superior de Justicia se integrará con el número de magistrados que señale la ley orgánica respectiva.
 
-> <small>(ADICIONADO, D.O.F. 12 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, D.O.F. 28 DE ENERO DE 2011)</small>
 
-En la designación de los magistrados, el Jefe del Distrito Federal deberá escuchar la opinión previa del Consejo de la Judicatura del Distrito Federal, el cual verificará que se cumpla con los requisitos a que se refiere el artículo 122, fracción VII de la Constitución Política de los Estados Unidos Mexicanos, así como las condiciones previstas en el párrafo anterior.
+En la designación de los Magistrados, el Jefe del Gobierno del Distrito Federal deberá escuchar la opinión previa del Consejo de la Judicatura del Distrito Federal, el cual verificará que se cumplan los requisitos a que se refiere la fracción I, Base Cuarta, Apartado C, del artículo 122 de la Constitución Política de los Estados Unidos Mexicanos, así como las condiciones previstas en el párrafo anterior.
 
 (ADICIONADO, D.O.F. 4 DE DICIEMBRE DE 1997) (REPUBLICADO, G.O. 12 DE ENERO DE 1998)
 
@@ -1176,9 +1176,9 @@ En la ratificación de magistrados intervendrán las mismas autoridades y se seg
 
 La administración, vigilancia y disciplina del Tribunal Superior de Justicia, de los juzgados y demás órganos judiciales estarán a cargo del Consejo de la Judicatura del Distrito Federal, en los términos que, conforme a las bases que señalan la Constitución Política de los Estados Unidos Mexicanos y este Estatuto, establezca la ley orgánica respectiva.
 
-(REFORMADO, D.O.F. 4 DE DICIEMBRE DE 1997) (REPUBLICADO, G.O. 12 DE ENERO DE 1998)
+> <small>(REFORMADO, D.O.F. 28 DE ENERO DE 2011)</small>
 
-El Consejo se integrará por siete miembros, de los cuales, uno será el Presidente del Tribunal Superior de Justicia, quien también lo será del Consejo; un magistrado, un juez de primera instancia y un juez de paz, electos mediante insaculación; dos consejeros designados por la Asamblea Legislativa y uno por el Jefe de Gobierno. Los tres últimos deberán ser personas que se hayan distinguido por su capacidad, honestidad y honorabilidad en el ejercicio de las actividades jurídicas. Los Consejeros deberán reunir los requisitos que para ser magistrado establece la ley.
+El Consejo se integrará por siete miembros, de los cuales uno será el Presidente del Tribunal Superior de Justicia, quien también lo será del Consejo; un Magistrado y dos Jueces elegidos por mayoría de votos de las dos terceras partes del Pleno de Magistrados; dos consejeros designados por la Asamblea Legislativa y uno por el Jefe de Gobierno. Todos los Consejeros deberán reunir los requisitos exigidos para ser Magistrado y serán personas que se hayan distinguido por su capacidad profesional y administrativa, honestidad y honorabilidad en el ejercicio de sus actividades. En el caso de los elegidos por el Pleno de Magistrados deberán gozar, además, de reconocimiento por sus méritos profesionales en el ámbito judicial.
 
 Los Consejeros durarán cinco años en su cargo, serán substituidos de manera escalonada, y no podrán ser nombrados para un nuevo período.
 
@@ -1186,7 +1186,9 @@ Los Consejeros ejercerán su función con independencia e imparcialidad. Durante
 
 El Consejo estará facultado para expedir acuerdos generales para el adecuado ejercicio de sus funciones, de conformidad con lo que establezca la ley.
 
-El Consejo, actuando en Pleno, opinará sobre la designación y ratificación de magistrados; resolverá sobre la adscripción y remoción de magistrados; designará, adscribirá y removerá a los jueces de primera instancia, a los jueces de paz y a los que con cualquier otra denominación se creen en el Distrito Federal; todo ello en los términos que la ley prevea en materia de carrera judicial.
+> <small>(REFORMADO, D.O.F. 28 DE ENERO DE 2011)</small>
+
+El Consejo, actuando en Pleno, opinará sobre la designación y ratificación de magistrados; resolverá sobre la adscripción y remoción de magistrados; y designará, adscribirá y removerá a los jueces del Distrito Federal; todo ello en los términos que la ley prevea en materia de carrera judicial. También determinará el número y especialización por materia de las salas del tribunal y juzgados que integran el Poder Judicial del Distrito Federal, de conformidad con lo que establezca el propio Consejo.
 
 El Pleno y las Salas del Tribunal Superior de Justicia, así como los jueces y demás órganos judiciales, nombrarán y removerán a sus funcionarios y empleados conforme a lo que establezca la ley en materia de carrera judicial.
 
@@ -2109,3 +2111,11 @@ Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de s
 Artículo Segundo.- La Asamblea Legislativa del Distrito Federal deberá realizar las adecuaciones en las leyes correspondientes, en un plazo máximo de treinta días naturales contados a partir del inicio de la vigencia del presente Decreto. Dentro del mismo plazo, deberá determinar el procedimiento y el número de Consejeros Electorales actualmente en funciones, que serán sujetos de la renovación escalonada a que hace mención el artículo 125 contenido en el presente Decreto.
 
 Artículo Tercero.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+D.O.F. 28 DE ENERO DE 2011.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Los Consejeros de la Judicatura del Distrito Federal que hubieren sido electos mediante el procedimiento de insaculación concluirán sus respectivos encargos en las fechas establecidas al momento de su designación.
+
+Tercero. La Asamblea Legislativa del Distrito Federal, a fin de que cobre plena vigencia el presente Decreto, habrá de realizar adecuaciones a las disposiciones legales a que haya lugar, a más tardar dentro de los 30 días naturales posteriores a la entrada en vigor del presente Decreto.
