@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-21-de-aguas-del-estado-de-veracruz-de-ignacio-de-227
 country: "mx"
 rank: "ley"
 publication_date: "2001-06-29"
-last_updated: "2007-07-30"
+last_updated: "2011-01-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22732&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE AGUAS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE JULIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE ENERO DE 2011.
 
 Ley publicada en el Alcance de la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 29 de junio de 2001.
 
@@ -507,9 +507,11 @@ II. Contar con título profesional expedido por autoridad o institución legalme
 
 III. Tener un modo honesto de vivir;
 
-IV. Contar, al momento de su designación, con una experiencia profesional, técnica y administrativa de, al menos, cinco años en la materia de aguas que regula esta ley; y
+IV. (DEROGADA. G.O. 28 DE ENERO DE 2011)
 
-V. No tener antecedentes penales por la comisión de delitos realizados con dolo, excepto aquellos en los que se haya concedido los beneficios de conmutación o suspensión condicional de la sanción.
+> <small>(REFORMADA. G.O. 28 DE ENERO DE 2011)</small>
+
+V. No tener antecedentes penales por la comisión de delitos realizados con dolo, excepto aquellos en los que se hayan concedido los beneficios de conmutación o suspensión condicional de la sanción.
 
 > <small>(REFORMADO Y REUBICADO, G.O. 30 DE JULIO DE 2007)</small>
 
@@ -823,9 +825,7 @@ XVI. Examinar y, en su caso, aprobar los informes de avance de la gestión finan
 
 > <small>(ADICIONADA, G.O. 9 DE ENERO DE 2007)</small>
 
-XVII. Entregar mensualmente al Congreso del Estado los informes de avance de la gestión financiera aprobados, y en el mes de mayo la
-
-cuenta pública aprobada; y
+XVII. Entregar mensualmente al Congreso del Estado los informes de avance de la gestión financiera aprobados, y en el mes de mayo la cuenta pública aprobada; y
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 9 DE ENERO DE 2007)</small>
 
@@ -839,9 +839,11 @@ Los acuerdos y resoluciones se tomarán por mayoría de votos de los asistentes 
 
 El Órgano de Gobierno celebrará sesiones ordinarias al menos una vez al mes y las extraordinarias que sean necesarias, cuando las convoquen el Presidente o la mayoría de sus miembros.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 28 DE ENERO DE 2011)</small>
+
 ###### Artículo 40.
 
-Al frente del Organismo Operador habrá un Director quien, además de cumplir con los requisitos que establece la Ley Orgánica del Municipio Libre, deberá contar con experiencia técnica comprobada en materia de aguas, no menor a dos años. El Director será designado y removido por el Ayuntamiento, a propuesta del Órgano de Gobierno, y tendrá las siguientes atribuciones:
+Al frente del Organismo Operador habrá un Director, quien deberá cumplir con los requisitos que establece la Ley Orgánica del Municipio Libre. El Director será designado y removido por el Ayuntamiento, a propuesta del Órgano de Gobierno, y tendrá las siguientes atribuciones:
 
 I. Representar legalmente al organismo, con todas las facultades generales y especiales que requieran poder o cláusula especial conforme a la ley; formular querellas y denuncias, otorgar el perdón judicial, formular posiciones y rendir informes; promover y desistirse del juicio de amparo, así como promover juicio de lesividad;
 
@@ -2030,3 +2032,9 @@ Tercero. Todos los recursos materiales, financieros y humanos con que cuenta el 
 Cuarto. La Secretaría de Finanzas y Planeación y la Secretaría de Trabajo, Previsión Social y Productividad, cuidarán del apego a la legalidad en lo conducente a las relaciones laborales y profesionales, según sea el caso, de quienes integran el personal del Consejo del Sistema Veracruzano del Agua.
 
 Quinto. El reglamento de esta Ley deberá ser adecuado en el término de noventa días naturales a partir de la vigencia del presente Decreto.
+
+G.O. 28 DE ENERO DE 2011.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones permanentes o transitorias que contravengan el presente Decreto.
