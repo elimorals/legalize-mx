@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-legislativo-del-estado-de-oaxaca-11818"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-11-04"
-last_updated: "2010-11-08"
+last_updated: "2011-01-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11818&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE NOVIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE ENERO DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 4 de noviembre de 1995.
 
@@ -159,9 +159,9 @@ I.- La Comisión Instaladora por conducto de uno de sus Secretarios, procederá 
 
 II.- Los Diputados electos ausentes, serán llamados en los términos del Reglamento Interior del Congreso.
 
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2011)</small>
 
-III.- Acto continuo el Presidente de la Mesa Directiva de la Comisión Instaladora, exhortará a los Diputados electos a que elijan en escrutinio secreto, por cédula y por mayoría de votos, al Presidente y Vicepresidente y cuatro secretarios que deberán fungir durante el primer año del período constitucional; quienes una vez electos, pasarán a tomar su lugar en el presidium y la Comisión Instaladora abandonará la Sala, concluyendo con este acto su cometido.
+III.- Acto continúo el Presidente de la Mesa Directiva de la Comisión Instaladora, exhortará a los Diputados electos a que elijan en escrutinio secreto, por cédula y por mayoría de votos, al Presidente, al vicepresidente y secretarios; quienes una vez electos, pasarán a tomar su lugar en el presidium y la Comisión Instaladora abandonará la Sala, concluyendo con este acto su cometido.
 
 IV.- El Presidente de la Mesa Directiva de la Legislatura entrante, protestará su cargo y enseguida tomará la protesta a los demás diputados electos.
 
@@ -177,9 +177,11 @@ La Legislatura deberá quedar instalada el 13 de noviembre del año en que se ef
 
 ### CAPITULO I. DE LA INTEGRACION
 
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2011)</small>
+
 ###### ARTICULO 22.
 
-La Mesa Directiva de la Legislatura del Estado se integrará con un Presidente, un Vice-Presidente y cuatro Secretarios, electos por votación secreta y por cédula, los que durarán en su cargo el tiempo que señale el Reglamento con las obligaciones y facultades que se determinan en el mismo.
+La Mesa Directiva de la Legislatura del Estado, se integrará con un Presidente, un Vicepresidente y seis secretarios electos por votación secreta y por cédula, los que durarán en su cargo un año con las obligaciones y facultades que se determinan en este ordenamiento y en el Reglamento Interno.
 
 ###### ARTICULO 23.
 
@@ -385,9 +387,13 @@ XII.- Celebrar convenios de coordinación con las Entidades y dependencias del G
 
 XIII.- Asumir y desempeñar las atribuciones que no estén expresamente señaladas a la Mesa Directiva de la Legislatura;
 
-XIV.- Proponer al pleno del Congreso del Estado, la agenda legislativa; y
+XIV.- Proponer al pleno del Congreso del Estado, la agenda legislativa; y (sic)
 
-XV.- Las demás que le confiera esta Ley y su Reglamento.
+> <small>(ADICIONADA, P.O. 29 DE ENERO DE 2011)</small>
+
+XV.- Proponer al Pleno del Congreso, la designación del Oficial Mayor, Tesorero y Contralor Interno; y
+
+XVI.- Las demás que le confiera esta Ley y su Reglamento.
 
 > <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2010)</small>
 
@@ -399,7 +405,7 @@ II.- Tener la representación legal del Congreso y delegarla en la persona o per
 
 III.- Velar por el cumplimiento de las decisiones y acuerdos internos que se adopten;
 
-IV.- Proponer al Pleno del Congreso la designación del Oficial Mayor y del Tesorero; y
+IV.- (DEROGADA, P.O. 29 DE ENERO DE 2011)
 
 V.- Las demás que deriven de esta Ley, el Reglamento o que le sean conferidas por la propia Junta.
 
@@ -427,77 +433,83 @@ Las Comisiones Permanentes serán nombradas antes de la tercera sesión del prim
 
 El nombramiento se comunicará por la Secretaría a los interesados a más tardar el día siguiente de su designación y su vigencia será por todo el período para el que fueron electos como Diputados.
 
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2011)</small>
+
 ###### ARTICULO 44.
 
 Las Comisiones Permanentes serán:
 
-I.- Estudios Constitucionales;
+I. Administración Pública;
 
-> <small>(REFORMADA, P.O. 4 DE JULIO DE 2009)</small>
+II. Administración de Justicia;
 
-II.- De Vigilancia de la Auditoría Superior del Estado;
+III. Agropecuaria, Forestal y Minera;
 
-III.- Gobernación;
+IV. Asuntos Agrarios;
 
-IV.- Hacienda;
+V. Asuntos Indígenas;
 
-V.- De Administración de Justicia;
+VI. Asuntos Metropolitanos;
 
-VI.- De Comunicaciones, Obras Públicas y Desarrollo Urbano;
+VII. Asuntos Migratorios;
 
-VII.- De Educación Pública;
+VIII. Atención a Movimientos Sociales;
 
-VIII.- De Fomento Industrial Comercial y Artesanal;
+IX. Cultura;
 
-> <small>(REFORMADA, P.O. 4 DE JULIO DE 2009)</small>
+X. Democracia Participativa con Igualdad de Oportunidades;
 
-IX.- De Presupuesto y Programación;
+XI. Derechos Humanos;
 
-X.- De Turismo;
+XII. Desarrollo Rural;
 
-XI.- De Trabajo y Seguridad Social;
+XIII. Desarrollo Social;
 
-XII.- Agropecuaria, Forestal y Minera;
+XIV. De las Infraestructuras y del Ordenamiento Territorial Sustentable;
 
-XIII.- De Salud Pública;
+XV. Ecología;
 
-XIV.- De Vialidad y Transporte;
+XVI. Educación Pública;
 
-XV.- Instructora;
+XVII. Equidad y Género;
 
-XVI.- De Estilo y Editorial;
+XVIII. Estudios Constitucionales;
 
-XVII.- De Derechos Humanos;
+XIX. Fomento Cooperativo y Ahorro Popular;
 
-XVIII.- De Protección Ciudadana;
+XX. Fomento Industrial, Comercial y Artesanal;
 
-XIX.- De Asuntos Agrarios;
+XXI. Fomento de la Energía Renovable;
 
-XX.- De Pesca;
+XXII. Fortalecimiento y Asuntos Municipales;
 
-XXI.- De Asuntos Indígenas;
+XXIII. Gobernación;
 
-XXII.- De Cultura y Bienestar Social;
+XXIV. Hacienda;
 
-XXIII.- De Honor y Justicia;
+XXV. Honor, Justicia y Régimen Parlamentario;
 
-XXIV.- De Fortalecimiento y Asuntos Municipales;
+XXVI. Instructora;
 
-XXV.- (DEROGADA, P.O. 8 DE NOVIEMBRE DE 2010)
+XXVII. Juventud y Deporte;
 
-XXVI.- De Ecología;
+XXVIII. Pesca;
 
-> <small>(ADICIONADA, P.O. 6 DE MAYO DE 2000)</small>
+XXIX. Presupuesto y Programación;
 
-XXVII.- De Equidad y Género;
+XXX. Protección Ciudadana;
 
-> <small>(ADICIONADA, P.O. 27 DE ABRIL DE 2002)</small>
+XXXI. Salud Pública;
 
-XXVIII.- De Asuntos Migratorios;
+XXXII. Trabajo y Seguridad Social;
 
-> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2010)</small>
+XXXIII. Turismo;
 
-XXIX.- De Juventud y Deporte.
+XXXIV. Vialidad y Transporte;
+
+XXXV. Vigilancia de la Auditoría Superior del Estado; y
+
+XXXVI. Vivienda y Desarrollo Urbano.
 
 Dichas Comisiones tendrán las facultades que se determinen en el Reglamento Interior del Congreso.
 
@@ -613,17 +625,23 @@ Para la administración de los recursos económicos, el Congreso tendrá un teso
 
 El tesorero entrará a ejercer su cargo otorgando la fianza correspondiente con los requisitos y responsabilidades para los que de igual clase previenen las Leyes y el Reglamento Interior del Congreso.
 
-### CAPITULO UNICO. DE LA RESPONSABILIDAD
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 29 DE ENERO DE 2011)</small>
 
-DE LOS SERVIDORES PUBLICOS
+### CAPITULO IV. DE LA CONTRALORIA INTERNA
 
-### CAPITULO I. DE LA INICIATIVA DE LEYES Y DECRETOS
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2011)</small>
+
+ARTICULO 62 BIS.- El Congreso del Estado, contará con su propia Contraloría Interna, cuyo titular tendrá a su cargo practicar auditorías, revisiones, investigaciones y verificaciones; recibir quejas y denuncias y aplicar los procedimientos y sanciones inherentes a las responsabilidades administrativas; así como conocer de los recursos de revocación, de conformidad con la normatividad aplicable y llevar a cabo los procedimientos derivados de las inconformidades presentadas por contratistas y proveedores.
+
+Para ser Titular de la Contraloría Interna se requiere contar con cédula profesional en áreas económicas, contables, jurídicas o administrativas legalmente expedida y experiencia profesional de cuando menos tres años en actividades relacionadas con la fiscalización de recursos públicos, además deberá cubrir los requisitos exigidos para el Oficial Mayor.
+
+### CAPITULO UNICO. DE LA RESPONSABILIDAD DE LOS SERVIDORES PUBLICOS
 
 ## TITULO SEPTIMO
 
 DE LA SUBSTANCIACION DE LA RESPONSABILIDAD DE LOS SERVIDORES PUBLICOS.
 
-### CAPITULO II. DE LAS RESOLUCIONES
+### CAPITULO I. DE LA INICIATIVA DE LEYES Y DECRETOS
 
 ###### ARTICULO 63.
 
@@ -643,7 +661,7 @@ En todo tiempo, tanto para el juicio político como para la responsabilidad pena
 
 ## TITULO OCTAVO. DEL PROCEDIMIENTO LEGISLATIVO
 
-### CAPITULO III. DE LAS ADICIONES Y REFORMAS A LA CONSTITUCION
+### CAPITULO II. DE LAS RESOLUCIONES
 
 ###### ARTICULO 67.
 
@@ -659,7 +677,7 @@ IV.- A los Ayuntamientos en los asuntos que incumben a los Municipios, por lo qu
 
 V.- A los Ciudadanos del Estado en todos los ramos de la administración.
 
-### CAPITULO UNICO. DE LA DIPUTACIÓN PERMANENTE
+### CAPITULO III. DE LAS ADICIONES Y REFORMAS A LA CONSTITUCION
 
 ###### ARTICULO 68.
 
@@ -673,7 +691,7 @@ Las Iniciativas al Congreso de la Unión, se comunicarán también con firma del
 
 El Pleno del Congreso o de la Comisión Permanente en su caso, le toca declarar si una resolución suya es Ley, Decreto o Acuerdo, cuando se dudare de su naturaleza.
 
-### CAPITULO UNICO. DEL COLEGIO ELECTORAL
+### CAPITULO UNICO. DE LA DIPUTACION PERMANENTE
 
 ###### ARTICULO 70.
 
@@ -691,7 +709,7 @@ Si el Congreso estuviere en receso, será convocado a período extraordinario de
 
 ## TITULO NOVENO. DE LA DIPUTACIÓN PERMANENTE
 
-### CAPITULO PRIMERO. DEL CEREMONIAL DE LA LEGISLATURA
+### CAPITULO UNICO. DEL COLEGIO ELECTORAL
 
 ###### ARTICULO 73.
 
@@ -711,7 +729,7 @@ Las discusiones y votaciones de la Diputación Permanente, se regirán por lo qu
 
 ## TITULO DECIMO. DE LOS CASOS EN QUE EL CONGRESO SE ERIGIRA EN COLEGIO ELECTORAL
 
-### CAPITULO SEGUNDO. DE LAS GALERIAS
+### CAPITULO PRIMERO. DEL CEREMONIAL DE LA LEGISLATURA
 
 ###### ARTICULO 77.
 
@@ -748,6 +766,8 @@ IV.- (DEROGADA, P.O. 4 DE JULIO DE 2009)
 (DEROGADO, P.O. 4 DE JULIO DE 2009)
 
 ## TITULO DECIMO PRIMERO. DEL RECINTO PARLAMENTARIO
+
+### CAPITULO SEGUNDO. DE LAS GALERIAS
 
 ###### ARTICULO 83.
 
@@ -848,3 +868,15 @@ PRIMERO. El presente Decreto entrará en vigor el día 13 de noviembre de 2010. 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO. En todo lo ordenamientos, actos y convenios celebrados por la Gran Comisión, se entenderán como referidos a la Junta de Coordinación Política del Congreso del Estado.
+
+P.O. 29 DE ENERO DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor el mismo día de su aprobación. Publíquese en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- La Mesa Directiva electa el día 13 de noviembre de 2010, para que funja durante el Primer Año de la Sexagésima Primera Legislatura, continuará vigente y el Honorable Pleno en sesión respectiva elegirá únicamente las vacantes que resulten de la presente reforma.
+
+TERCERO.- Para efectos de la definición de los Secretarios A y B, se considerará a los elegidos el 13 de noviembre de 2010 en el orden 1 y 2 como Secretarios A y B en el 3 y 4 como Secretarios B.
+
+CUARTO.- Para efectos de la aplicación de los recursos económicos y administrativos, se integraran los manuales administrativos necesarios dentro de los tres meses posteriores a esta reforma.
+
+QUINTO.- En la sesión solemne de fecha 1º de diciembre de 2010, fungirá la Mesa Directiva en su totalidad.
