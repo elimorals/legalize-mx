@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-interior-del-congreso-del-estado-de-oaxaca-11789"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-11-04"
-last_updated: "2010-11-08"
+last_updated: "2011-01-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11789&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE NOVIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ENERO DE 2011.
 
 Reglamento publicado en el Periódico Oficial del Estado de Oaxaca, el sábado 4 de noviembre de 1995.
 
@@ -53,7 +53,7 @@ El presente Reglamento regula las disposiciones normativas que se derivan de la 
 
 ### CAPITULO I. DEL REGISTRO DE LAS CONSTANCIAS DE MAYORIA Y ASIGNACION
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE OCTUBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE OCTUBRE DE 1999)</small>
 
 ###### ARTICULO 2.
 
@@ -65,7 +65,7 @@ Para los efectos anteriores, el Oficial Mayor llevará un libro denominado “De
 
 La Oficialía Mayor de la Legislatura, entregará al Diputado Electo la credencial de acceso a la sesión de instalación. La falta de dicho documento implica la prohibición de entrada a la sala de sesiones para ocupar una curul.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE OCTUBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE OCTUBRE DE 1999)</small>
 
 ###### ARTICULO 4.
 
@@ -83,7 +83,7 @@ La Legislatura no podrá abrir sus sesiones y ejercer su cometido sin la concurr
 
 ### CAPITULO II. DE LA INSTALACION Y APERTURA DE LA ASAMBLEA
 
-> <small>(REFORMADO PRIMER PARRAFO [N. DE E. REPUBLICADO], P.O. 20 DE MARZO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 20 DE MARZO DE 2004)</small>
 
 ###### ARTICULO 7.
 
@@ -115,19 +115,19 @@ Cada Legislatura, antes de cerrar su último período ordinario de sesiones desi
 
 ### CAPITULO I. DE LA MESA DIRECTIVA
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2011)</small>
 
 ###### ARTICULO 10.
 
-La Mesa Directiva del Congreso del Estado, estará integrada por un Presidente, un Vice-Presidente y cuatro Secretarios, que serán electos por mayoría de votos y por medio de cédula, estos nombramientos se comunicarán por la Secretaría a los Poderes del Estado y de la Federación.
+La Mesa Directiva del Congreso del Estado, estará integrada por un Presidente, un Vicepresidente y seis secretarios, que serán electos por mayoría de votos y por medio de cédula. Estos nombramientos se comunicarán a los Poderes del Estado y de la Federación.
 
-El presidente de la Mesa Directiva tendrá la representación legal del Congreso conjuntamente con el Presidente de la Junta de Coordinación Política.
-
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE ENERO DE 2011)</small>
 
 ###### ARTICULO 11.
 
-El Presidente, Vice-Presidente y los cuatro secretarios de la Mesa Directiva, durarán en su cargo un año del periodo constitucional, no pudiendo ser reelectos para los mismos cargos para el año inmediato posterior al de su nombramiento.
+El Presidente, Vicepresidente y los Secretarios de la Mesa Directiva, durarán en su cargo un año del periodo constitucional, no pudiendo ser reelectos para los mismos cargos para el año inmediato posterior al de su nombramiento.
+
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2010)</small>
 
 En ningún caso la presidencia de la Mesa Directiva recaerá en el mismo año legislativo, en un diputado que pertenezca a la fracción parlamentaria que presida la Junta de Coordinación Política.
 
@@ -173,13 +173,17 @@ El Vice-Presidente auxiliará al Presidente en el desempeño de sus funciones, y
 
 Las funciones de los Secretarios se desempeñarán durante un año del período Constitucional, tanto en las sesiones de los períodos ordinarios como de los extraordinarios.
 
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2011)</small>
+
 ###### ARTICULO 21.
 
-Los Secretarios ejercerán su encargo por turnos mensuales debiendo funcionar de acuerdo al número de su nombramiento de la siguiente forma: El primero y segundo en los meses pares y el tercero y cuarto en los meses impares. En las faltas temporales se substituirán indistintamente.
+Los Secretarios ejercerán su encargo por turnos mensuales debiendo funcionar de acuerdo al orden de su nombramiento de la siguiente forma:
 
-En caso de faltar algún Secretario la Presidencia designará libremente los accidentales para cada sesión, con facultades de firmar la correspondencia y la documentación que proceda de la sesión en que actuaron.
+Los Secretarios A fungirán en los meses pares y los Secretarios B en los meses impares. En las faltas temporales se substituirán indistintamente.
 
-En caso de faltar algún Secretario la Presidencia designará libremente los accidentales para cada sesión, con facultades de firmar la correspondencia y la documentación que proceda de la sesión en que actuaron.
+En ningún momento las Fracciones Parlamentarias podrán contar con más de dos integrantes en la Mesa Directiva.
+
+En caso de faltar algún Secretario, la Presidencia designará libremente los accidentales para cada sesión, con facultades de firmar la correspondencia y la documentación que proceda de la sesión en que actuaron.
 
 ###### ARTICULO 22.
 
@@ -257,73 +261,149 @@ V.- Los suscritos por particulares;(sic)
 
 A más tardar en la segunda sesión del primer período ordinario de su primer año de su ejercicio legal, la Legislatura elegirá las siguientes Comisiones Permanentes:
 
-I.- Estudios Constitucionales;
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2011)</small>
 
-> <small>(REFORMADA, P.O. 4 DE JULIO DE 2009)</small>
+I. Administración Pública;
 
-II.- De Vigilancia de la Auditoría Superior del Estado;
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2011)</small>
 
-III.- Gobernación;
+II. Administración de Justicia;
 
-IV.- Hacienda;
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2011)</small>
 
-V.- De Administración de Justicia;
+III. Agropecuaria, Forestal y Minera;
 
-VI.- De Comunicaciones, Obras Públicas y Desarrollo Urbano;
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2011)</small>
 
-VII.- De Educación Pública;
+IV. Asuntos Agrarios;
 
-VIII.- De Fomento Industrial Comercial y Artesanal;
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2011)</small>
 
-> <small>(REFORMADA, P.O. 4 DE JULIO DE 2009)</small>
+V. Asuntos Indígenas;
 
-IX.- De Presupuesto y Programación;
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2011)</small>
 
-X.- De Turismo;
+VI. Asuntos Metropolitanos;
 
-XI.- De Trabajo y Seguridad Social;
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2011)</small>
 
-XII.- Agropecuaria, Forestal y Minera;
+VII. Asuntos Migratorios;
 
-XIII.- De Salud Pública;
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2011)</small>
 
-XIV.- De Vialidad y Transporte;
+VIII. Atención a Movimientos Sociales;
 
-XV.- Instructora;
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2011)</small>
 
-XVI.- De Estilo y Editorial;
+IX. Cultura;
 
-XVII.- De Derechos Humanos;
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2011)</small>
 
-XVIII.- De Protección Ciudadana;
+X. Democracia Participativa con igualdad de Oportunidades;
 
-XIX.- De Asuntos Agrarios;
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2011)</small>
 
-XX.- De Pesca;
+XI. Derechos Humanos;
 
-XXI.- De Asuntos Indígenas;
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2011)</small>
 
-XXII.- De Cultura y Bienestar Social;
+XII. Desarrollo Rural;
 
-XXIII.- De Honor y Justicia;
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2011)</small>
 
-XXIV.- De fortalecimiento y Asuntos Municipales;
+XIII. Desarrollo Social;
 
-XXV.- (DEROGADA, P.O. 8 DE NOVIEMBRE DE 2010)
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2011)</small>
 
-XXVI.- De Ecología;
+XIV. De las infraestructuras y del Ordenamiento Territorial Sustentable;
 
-> <small>(ADICIONADA, P.O. 6 DE MAYO DE 2000)</small>
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2011)</small>
 
-XXVII.- De Equidad y Género;
+XV. Ecología;
 
-> <small>(ADICIONADA, P.O. 27 DE ABRIL DE 2002)</small>
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2011)</small>
 
-XXVIII.- De Asuntos Migratorios.
+XVI. Educación Pública;
 
-> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2011)</small>
 
-XXIX.- De Juventud y Deporte.
+XVII. Equidad y Género;
+
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2011)</small>
+
+XVIII. Estudios Constitucionales;
+
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2011)</small>
+
+XIX. Fomento Cooperativo y Ahorro Popular;
+
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2011)</small>
+
+XX. Fomento Industrial, Comercial y Artesanal;
+
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2011)</small>
+
+XXI. Fomento de la Energía Renovable;
+
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2011)</small>
+
+XXII. Fortalecimiento y Asuntos Municipales;
+
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2011)</small>
+
+XXIII. Gobernación;
+
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2011)</small>
+
+XXIV. Hacienda;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE ENERO DE 2011)</small>
+
+XXV. Honor, Justicia y Régimen Parlamentario;
+
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2011)</small>
+
+XXVI. Instructora;
+
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2011)</small>
+
+XXVII. Juventud y Deporte;
+
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2011)</small>
+
+XXVIII. Pesca;
+
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2011)</small>
+
+XXIX. Presupuesto y Programación;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE ENERO DE 2011)</small>
+
+XXX. Protección Ciudadana;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE ENERO DE 2011)</small>
+
+XXXI. Salud Pública;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE ENERO DE 2011)</small>
+
+XXXII. Trabajo y Seguridad Social;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE ENERO DE 2011)</small>
+
+XXXIII. Turismo;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE ENERO DE 2011)</small>
+
+XXXIV. Vialidad y Transporte;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE ENERO DE 2011)</small>
+
+XXXV. Vigilancia de la Auditoría Superior del Estado; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE ENERO DE 2011)</small>
+
+XXXVI. Vivienda y Desarrollo Urbano.
 
 ###### ARTICULO 26.
 
@@ -334,6 +414,10 @@ Las Comisiones Permanentes, tendrán la competencia que se derive de su denomina
 Toda Comisión se compondrá de cinco Diputados Propietarios que se elegirán por mayoría de votos, fungiendo como Presidente de cada Comisión, el primero de los nombrados y fungiendo como segundo, tercer, cuarto y quinto miembro los Diputados que se nombren en dicho orden.
 
 En toda Comisión existirán cinco miembros con el carácter de suplentes, los que deben ser electos en el mismo acto que los propietarios, los suplentes sustituirán a los propietarios en sus faltas temporales, sucesivamente por orden numérico de su elección. En caso de faltas absolutas de los propietarios se nombrarán sustitutos en la forma indicada en el párrafo anterior.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2011)</small>
+
+Las Comisiones permanentes contarán para su buen funcionamiento con una Secretaría Técnica.
 
 ###### ARTICULO 28.
 
@@ -381,71 +465,53 @@ Los integrantes de las Comisiones Permanentes que en más de tres asuntos no dic
 
 Las Comisiones enumeradas en el artículo 25 del presente Reglamento tendrán las siguientes obligaciones y atribuciones:
 
-I.- La Comisión de Estudios Constitucionales se encargará principalmente de estudiar las reformas que se propongan a la Constitución General de la República y a la particular del Estado y quedará integrada preferentemente por Licenciados en Derecho.
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2011)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2009)</small>
+I. La Comisión de Administración Pública tendrá a su cargo promover acciones que permitan el buen desempeño de las funciones administrativas que se desarrollen en el Congreso del Estado y proponer las modificaciones que en su caso resulten aplicables;
 
-II.- La Comisión de Vigilancia de la Auditoría Superior del Estado tendrá las siguientes obligaciones y atribuciones:
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2011)</small>
 
-a).- Certificar en la primera y última hoja, expresando el número de estas que se contengan, todos los libros que sean necesarios para las labores de la oficina;
+II. La Comisión de Administración de Justicia se encargará de efectuar los estudios relativos a iniciativas y reformas de los códigos y leyes del Estado, así como atender las quejas que provengan de la indebida aplicación de dichos ordenamientos;
 
-> <small>(REFORMADO, P.O. 4 DE JULIO DE 2009)</small>
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2011)</small>
 
-b).- Recibir del Pleno o de la Diputación Permanente los informes de avance de gestión financiera y las Cuentas Públicas, para turnarlos a la Auditoría Superior del Estado;
+III. La Comisión Agropecuaria, Forestal y Minera, conocerá los programas de desarrollo minero del Gobierno del Estado, y estudiará los asuntos no previstos en la Ley Agraria, Fomento Agropecuario y leyes relacionadas, colaborará en los programas de forestación y reforestación que provengan de organizaciones públicas o privadas, campesinas, ganaderas o forestales;
 
-> <small>(REFORMADO, P.O. 4 DE JULIO DE 2009)</small>
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2011)</small>
 
-c).- Dictaminar las respectivas Cuentas Públicas;
+IV. La Comisión de Asuntos Agrarios, conocerá de todos los asuntos que se relacionan con la expedición de leyes estatales o creación de organismos que coadyuven a la solución y organización de la tenencia de la tierra en la entidad;
 
-> <small>(REFORMADO, P.O. 4 DE JULIO DE 2009)</small>
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2011)</small>
 
-d).- Vigilar y evaluar que la Auditoría Superior del Estado, cumpla eficazmente con las funciones que le competen;
+V. La Comisión de Asuntos Indígenas, ejercerá las siguientes atribuciones:
 
-> <small>(REFORMADO, P.O. 4 DE JULIO DE 2009)</small>
+a).- La elaboración de dictámenes legislativos que tengan por fin crear leyes, instituciones o programas de desarrollo económico, social o cultural en las zonas étnicas del Estado; y
 
-e).- Presentar al Pleno del Congreso, el dictamen relativo a la terna para ocupar el cargo de Auditor y Sub Auditores Superiores del Estado, la que se integrará con las propuestas recibidas;
+b).- Dictaminar los asuntos relativos a la impartición o procuración de justicia para los indígenas, vigilando que las propuestas legislativas respeten su integridad cultural y sus derechos en el marco jurídico establecido por la Constitución y demás Leyes;
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE JULIO DE 2009)</small>
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2011)</small>
 
-f).- Dictaminar acerca de la solicitud de licencia, renuncia o remoción del Auditor Superior del Estado, que se integrará con las propuestas recibidas; y
+VI. La Comisión de Asuntos Metropolitanos, conocerá de los planes y programas tendientes al desarrollo e integración regional o metropolitano y de todas aquellas acciones tendientes a la creación de medidas legislativas y administrativas para fortalecer los procesos de desarrollo de áreas conurbadas;
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE JULIO DE 2009)</small>
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2011)</small>
 
-g).- Proponer la contratación del personal de la Unidad Técnica de Vigilancia, Evaluación y Control de la Auditoría Superior del Estado, que Auxiliará a la Comisión en el desempeño de sus funciones.
+VII. La Comisión de Asuntos Migratorios, tendrá a su cargo la elaboración de iniciativas de reformas a las leyes que correspondan, tendientes a la creación de instituciones o programas de desarrollo económico, social en materia de migración, tendientes a mejorar el fenómeno de emigración en el Estado de Oaxaca; vigilar y dictaminar todos los asuntos relativos a la procuración e impartición de justicia para los migrantes oaxaqueños, dentro y fuera del país; coadyuvar para que se respeten los derechos de todos los migrantes establecidos en la Constitución y demás leyes;
 
-III.- La Comisión de Gobernación efectuará los estudios relativos a conflictos de límites estatales y municipales y atenderá los problemas políticos, que surjan en el seno de los Ayuntamientos o en relación de éstos, con las organizaciones políticas y sociales del municipio;
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2011)</small>
 
-IV.- La Comisión de Hacienda, tendrá a su cargo el estudio de las leyes fiscales del Estado y las de los Municipios y dictaminará sobre aquellos casos que se presenten relativos a modificaciones básicas a dichas leyes. Esta Comisión será la encargada de recibir de la Secretaria de Finanzas del Gobierno del Estado, las cantidades de dinero presupuestado para el pago de dietas a los Diputados y sueldos de los empleados y trabajadores de la Legislatura, coordinando sus tareas con el Tesorero;
+VIII. La Comisión de Atención a Movimientos Sociales se encargará de atender y canalizar de forma institucional las peticiones y propuestas que formulen las organizaciones civiles y ciudadanas ante el Congreso del Estado, rindiendo un informe escrito mensual de estas gestiones;
 
-V.- La Comisión de Administración de Justicia se encargará de efectuar los estudios relativos a iniciativas y reformas de los códigos y leyes del Estado, así como atender las quejas que provengan de la indebida aplicación de dichos ordenamientos;
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2011)</small>
 
-VI.- La Comisión de Comunicaciones, Obras Públicas y Desarrollo Urbano además de los problemas de crecimiento de las zonas urbanas y los programas de obra pública de los municipios y del Estado, haciéndose allegar la información y documentación de las entidades ejecutoras, cuando el pleno del Congreso así lo determine.
+IX. La Comisión de Cultura tendrá a su cargo el análisis legislativo sobre la apertura de centros de educación particular o privados, de espectáculos y deportivos, cuidando y vigilando estrictamente que se cumplan los requisitos legales para su funcionamiento, y proponer en su caso su creación, suspensión o desaparición;
 
-VII.- La Comisión de Educación, tendrá a su cargo el estudio de las leyes y reglamentos que conciernen a la educación y opinará sobre los proyectos y programas de educación popular del Estado;
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2011)</small>
 
-VIII.- La Comisión de Fomento Industrial, Comercial y Artesanal se encargará del estudio de todos aquellos proyectos y obras de beneficio general o sectorial, que tiendan al fomento y desarrollo de las industrias en el Estado, así como de la viabilidad en la creación de organismos que auxilien en la administración pública municipal y estatal en el aspecto comercial y artesanal;
+X. Democracia Participativa con Igualdad de Oportunidades atenderá lo relativo a todos los mecanismos de participación ciudadana en los asuntos públicos, promoviendo el desarrollo y perfeccionamiento de los instrumentos constitucionales y legales que correspondan;
 
-> <small>(REFORMADA, P.O. 4 DE JULIO DE 2009)</small>
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2011)</small>
 
-IX.- La Comisión de Presupuesto y Programación, tendrá a su cargo revisar y estudiar los proyectos de Presupuesto de Egresos y Ley de Ingresos del Estado, las Leyes de Ingresos de los Ayuntamientos, el Plan Estatal de Desarrollo, así como las reformas y ampliaciones que se propongan a los presupuestos del Estado;
-
-X.- La Comisión de Turismo, se encargará de conocer los proyectos y programas de turismo que desarrolle el Estado y los Municipios y vigilar la eficacia de los mismos;
-
-XI.- La Comisión de Trabajo y Seguridad Social, tendrá a su cargo el estudio de los asuntos que, provenientes de agrupaciones obreras, no se encuentren señaladas específicamente en la ley de la materia;
-
-XII.- La Comisión Agropecuaria, Forestal y Minera, conocerá los programas de desarrollo rural y minero del Gobierno del Estado, y estudiará los asuntos no previstos en la Ley Agraria, Fomento Agropecuario y leyes relacionadas, colaborará en los programas de forestación y reforestación que provengan de organizaciones públicas o privadas, campesinas, ganaderas o forestales;
-
-XIII.- La Comisión de Salud Pública, tendrá a su cargo conocer los programas de salud pública del Estado y de los Municipios, vigilar su eficaz aplicación y estimular conjuntamente con el Estado y Municipios, los programas que tiendan a combatir la drogadicción, el alcoholismo, la prostitución y el tabaquismo, así como de apoyo a los discapacitados y senescentes.
-
-XIV.- La Comisión de Vialidad y Transporte, conocerá los programas de vialidad y la estructura del transporte público de carga y de pasaje en el Estado y opinará sobre los programas de expansión y mejoramiento del mismo, y promoverá la adecuación de las legislaciones aplicables.
-
-XV.- La Comisión Instructora, conocerá de los expedientes que se integren con motivo de las denuncias que se presenten en contra de los servidores públicos a que se contrae el Título Quinto de la Constitución Política del Estado y la Ley de la materia.
-
-XVI.- La Comisión de Estilo y Editorial, se encargará de corregir la redacción de los Decretos y Acuerdos, cuidando de no modificar su espíritu y de promover la impresión o edición de ordenamientos jurídicos y de documentos importantes del Congreso, los autores de proyecto de ley si así lo desean, podrán unirse a esta Comisión para la corrección de los mismos;
-
-> <small>(REFORMADA, P.O. 4 DE JULIO DE 2009)</small>
-
-XVII.- La Comisión de Derechos Humanos, tendrá las siguientes atribuciones:
+XI. La Comisión de Derechos Humanos tendrá las siguientes atribuciones:
 
 a).- Conocerá de todos aquellos casos en que se violen los derechos humanos y estará en colaboración estrecha con la Comisión para la Defensa de los Derechos Humanos del Estado y organismos similares;
 
@@ -453,39 +519,125 @@ b).- Emitir la convocatoria pública para allegarse de aspirantes a los cargos d
 
 c).- Presentar ante el Pleno, las ternas respectivas de aspirantes a ocupar el cargo de Presidente y Consejeros de la Comisión para la Defensa de los Derechos Humanos del Estado, con el objeto de que éste designe a quien deba ocupar dichos cargos;
 
-XVIII.- Corresponde a la Comisión de Protección Ciudadana, dictaminar todo lo relacionado a las iniciativas de ley o decreto que tenga por finalidad regular jurídica o administrativamente las corporaciones de seguridad pública estatal, así como las bases normativas que impulsen la organización, prevención y participación de la sociedad y las instituciones en los riesgos o fenómenos naturales que se produzcan;
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2011)</small>
 
-XIX.- La Comisión de Asuntos Agrarios, conocerá de todos los asuntos que se relacionan con la expedición de leyes estatales o creación de organismos que coadyuven a la solución y organización de la tenencia de la tierra en la entidad;
+XII. La Comisión de Desarrollo Rural, tendrá a su cargo impulsar la implementación de planes, programas y proyectos que favorezca la productividad en el medio rural; así como el mejoramiento integral del bienestar social de la población y actividades económicas;
 
-XX.- La Comisión de Pesca, se avocará al conocimiento de las esferas propias de su denominación con las atribuciones que signifiquen el desarrollo económico y social de sus respectivas áreas;
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2011)</small>
 
-XXI.- La Comisión de Asuntos Indígenas, ejercerá las siguientes atribuciones:
+XIII. La Comisión de Desarrollo Social será la encargada del análisis de las propuestas legislativas relativas a las acciones y los programas que incidan en el abatimiento de los niveles de pobreza, de apoyo, suministro y orientación en materia alimentaría; el impulso del desarrollo humano sustentable, el trabajo colectivo; el fortalecimiento de la economía familiar y comunitaria, así como la participación de instituciones académicas, de investigación, de organizaciones no gubernamentales y de la sociedad en general en los temas de desarrollo social;
 
-a).- La elaboración de dictámenes legislativos que tengan por fin crear leyes, instituciones o programas de desarrollo económico, social o cultural en las zonas étnicas del Estado; y
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2011)</small>
 
-b).- Dictaminar los asuntos relativos a la impartición o procuración de justicia para los indígenas, vigilando que las propuestas legislativas respeten su integridad cultural y sus derechos en el marco jurídico establecido por la Constitución y demás Leyes;
+XIV. La Comisión de las Infraestructuras y del Ordenamiento Territorial Sustentable, conocerá de los asuntos relacionados con los programas de obra pública de los municipios y del Estado, haciéndose allegar la información y documentación de las entidades ejecutoras, cuando el Pleno del Congreso así lo determine;
 
-XXII.- La Comisión de Cultura y Bienestar Social, tendrá a su cargo el análisis legislativo sobre la apertura de centros de educación particular o privados, de espectáculos y deportivos, cuidando y vigilando estrictamente que se cumplan los requisitos legales para su funcionamiento, y proponer en su caso su creación, suspensión o desaparición;
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2011)</small>
 
-XXIII.- La Comisión de Honor y Justicia, conocerá de todos aquellos casos en que los Diputados violen reiteradamente las disposiciones contenidas en la Ley Orgánica del Poder Legislativo y de su Reglamento, escuchará en audiencia a los Diputados infractores, y de ser procedente, los amonestará en privado o en público en caso de reincidencia.
+XV. La Comisión de Ecología, conocerá de los asuntos relacionados con la protección del medio ambiente y del equilibrio ecológico; lo relativo a convenios, protección y mejoramiento ambiental;
 
-XXIV.- La Comisión de Fortalecimiento y Asuntos Municipales, conocerá de los estudios de los problemas municipales, de la realización de los programas de desarrollo para las comunidades, de la instrumentación de los programas de desarrollo urbano y ecológico municipal, se coordinara con los Organismos e Instituciones de asesoría técnica municipal, y promoverá el bienestar y progreso de los municipios. Así como lo relacionado con autorizaciones al ejecutivo estatal y a los Municipios para la donación, venta, comodato, concesiones y permuta de bienes muebles e inmuebles y de reservas territoriales de su propiedad;
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2011)</small>
 
-XXV.- (DEROGADA, P.O. 8 DE NOVIEMBRE DE 2010)
+XVI. La Comisión de Educación Pública, tendrá a su cargo el estudio de las leyes y reglamentos que conciernen a la educación y opinará sobre los proyectos y programas de educación popular del Estado;
 
-XXVI.- La Comisión de Ecología; conocerá de los asuntos relacionados con la protección del medio ambiente y del equilibrio ecológico; lo relativo a convenios, protección y mejoramiento ambiental;
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2011)</small>
 
-> <small>(ADICIONADA, P.O. 6 DE MAYO DE 2000)</small>
+XVII. La Comisión de Equidad y Género, opinará en los estudios relativos a iniciativas y reformas de los Códigos y Leyes del Estado, en los que se traten temas relativos a la mujer, la familia, personas con discapacidad y los menores, y vigilara su aplicación, así como la de las políticas públicas, los programas gubernamentales y las necesidades reales de la sociedad oaxaqueña sobre estos temas Esta Comisión se integrara preferentemente por las Diputadas que integren el Congreso;
 
-XXVII.- La Comisión de Equidad y Género, opinará en los estudios relativos a iniciativas y reformas de los Códigos y Leyes del Estado, en los que se traten temas relativos a la mujer, la familia, personas con discapacidad y los menores, y vigilará su aplicación así como la de las políticas públicas, los programas gubernamentales y las necesidades reales de la sociedad oaxaqueña sobre estos temas. Esta Comisión se integrará preferentemente por las Diputadas que integren el Congreso.
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2011)</small>
 
-> <small>(ADICIONADA, P.O. 27 DE ABRIL DE 2002)</small>
+XVIII. La Comisión de Estudios Constitucionales se encargará principalmente de estudiar las reformas que se proponga a la Constitución General de la Republica y a la particular del Estado y quedará integrada preferentemente por Licenciados en Derecho;
 
-XXVIII.- La Comisión Permanente de Asuntos Migratorios, tendrá a su cargo la elaboración de iniciativas de reformas a las leyes que correspondan, tendientes a la creación de instituciones o programas de desarrollo económico, social en materia de migración, tendientes a mejorar el fenómeno de emigración en el Estado de Oaxaca; vigilar y dictaminar todos los asuntos relativos a la procuración e impartición de justicia para los migrantes oaxaqueños, dentro y fuera del país; coadyuvar para que se respeten los derechos de todos los migrantes establecidos en la Constitución y demás leyes.
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2011)</small>
 
-> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2010)</small>
+XIX. La Comisión de Fomento Cooperativo y Ahorro Popular se encargará de realizar estudios, promover y dictaminar lo relativo a las condiciones de acceso y defensa de la población de escasos recursos a mecanismos de financiamiento público o privado;
 
-XXIX.- La Comisión de Juventud y deporte tendrá a su cargo la promoción de iniciativas de ley y las reformas legales necesarias, tendientes a favorecer a la juventud oaxaqueña en todos los órdenes, de igual manera propondrá y gestionará la creación de organismos públicos y privados que tengan como propósito apoyar la educación, cultura, empleo y actividades deportivas para acrecentar la salud y bienestar de los jóvenes; asimismo, favorecerá la implementación de políticas públicas ante las instituciones del sector público, privado y social, que constituyan beneficios para la juventud oaxaqueña.
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2011)</small>
+
+XX. La Comisión de Fomento Industrial, Comercial y Artesanal se encargará del estudio de todos aquellos proyectos y obras de beneficio general o sectorial, que tiendan al fomento y desarrollo de las industrias en el Estado, así como de la viabilidad en la creación de organismos que auxilien en la administración pública municipal y estatal en el aspecto comercial y artesanal;
+
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2011)</small>
+
+XXI. Fomento de la Energía Renovable realizará estudios y alentará la utilización de fuentes de energía que reduzcan o eliminen el impacto ambiental del consumo energético en el ámbito social, privado o público;
+
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2011)</small>
+
+XXII. La Comisión de Fortalecimiento y Asuntos Municipales, conocerá de los estudios de los problemas municipales, de la realización de los programas de desarrollo para las comunidades, de la instrumentación de los programas de desarrollo urbano y ecológico municipal, se coordinara con los Organismos e Instituciones de asesoría técnica municipal, y promoverá el bienestar y progreso de los municipios. Así como lo relacionado con autorizaciones al ejecutivo estatal y a los Municipios para la donación, venta, comodato, concesiones y permuta de bienes muebles e inmuebles y de reservas territoriales de su propiedad;
+
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2011)</small>
+
+XXIII. La Comisión de Gobernación efectuará los estudios relativos a conflictos de límites estatales y municipales y atenderá los problemas políticos, que surjan en el seno de los Ayuntamientos o en relación de éstos, con las organizaciones políticas y sociales del municipio;
+
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2011)</small>
+
+XXIV. La Comisión de Hacienda, tendrá a su cargo el estudio de las leyes fiscales del Estado y las de los Municipios y dictaminará sobre aquellos casos que se presenten relativos a modificaciones básicas a dichas leyes. Esta Comisión será la encargada de recibir de la Secretaria de Finanzas del Gobierno del Estado, las cantidades de dinero presupuestado para el pago de dietas a los Diputados y sueldos de los empleados y trabajadores de la Legislatura, coordinando sus tareas con el Tesorero;
+
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2011)</small>
+
+XXV. La Comisión de Honor, Justicia y Régimen Parlamentario conocerá de todos aquellos casos en que los Diputados violen reiteradamente las disposiciones contempladas en la Ley Orgánica del Poder Legislativo y de su Reglamento, escuchará en audiencia a los Diputados infractores, y de ser procedente, los amonestará en privado o en público en caso de reincidencia.
+
+Así mismo (sic) serán de su competencia preparar proyectos de ley o decreto para adecuar las normas que rigen la actividad del Congreso, de dictaminar las propuestas que se presenten en esta materia y de resolver las consultas que en el mismo ámbito decidan plantearle los organismos constituidos en virtud de esta Ley, y aquellas que se refieran al protocolo;
+
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2011)</small>
+
+XXVI. La Comisión Instructora, conocerá de los expedientes que se integren con motivo de las denuncias que se presenten en contra de los servidores públicos a que se contrae el Título Quinto de la Constitución Política del Estado y la Ley de la materia;
+
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2011)</small>
+
+XXVII. La Comisión de Juventud y Deporte tendrá a su cargo la promoción de iniciativas de ley y las reformas legales necesarias, tendientes a favorecer a la juventud oaxaqueña en todos los órdenes, de igual manera, propondrá y gestionará la creación de organismos públicos y privados que tengan como propósito apoyar la educación, cultura, empleo y actividades deportivas para acrecentar la salud y bienestar de los jóvenes, asimismo, favorecerá la implementación de políticas públicas ante las instituciones del sector público, privado y social, que constituyan beneficios para la juventud oaxaqueña;
+
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2011)</small>
+
+XXVIII. La Comisión de Pesca, se avocará al conocimiento de las esferas propias de su denominación con las atribuciones que signifiquen el desarrollo económico y social de sus respectivas áreas;
+
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2011)</small>
+
+XXIX. La Comisión de Presupuesto y Programación, tendrá a su cargo revisar y estudiar los proyectos de Presupuesto de Egresos y Ley de Ingresos del Estado, las Leyes de Ingresos de los Ayuntamientos, el Plan Estatal de Desarrollo, así como las reformas y ampliaciones que se propongan a los Presupuestos del Estado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE ENERO DE 2011)</small>
+
+XXX. Corresponde a la Comisión de Protección Ciudadana, dictaminar todo lo relacionado a las iniciativas de ley o decreto que tenga por finalidad regular jurídica o administrativamente las corporaciones de seguridad pública estatal, así como las bases normativas que impulsen la organización, prevención y participación de la sociedad y las instituciones en los riesgos o fenómenos naturales que se produzcan;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE ENERO DE 2011)</small>
+
+XXXI. La Comisión de Salud Pública tendrá a su cargo conocer los programas de salud pública del Estado y de los Municipios, vigilar su eficaz aplicación y estimular conjuntamente con el Estado y Municipios, los programas que tiendan a combatir la drogadicción, el alcoholismo, la prostitución y el tabaquismo, así como de apoyo a los discapacitados y senescentes;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE ENERO DE 2011)</small>
+
+XXXII. La Comisión de Trabajo y Seguridad Social, tendrá a su cargo el estudio de los asuntos que, provenientes de agrupaciones obreras, no se encuentren señaladas específicamente en la ley de la materia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE ENERO DE 2011)</small>
+
+XXXIII. La Comisión de Turismo, se encargará de conocer los proyectos y programas de turismo que desarrolle el Estado y los Municipios y vigilar la eficacia de los mismos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE ENERO DE 2011)</small>
+
+XXXIV. La Comisión de Vialidad y Transporte, conocerá los programas de vialidad y la estructura del transporte público de carga y de pasaje en el Estado y opinará sobre los programas de expansión y mejoramiento del mismo, y promoverá la adecuación de las legislaciones aplicables;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE ENERO DE 2011)</small>
+
+XXXV. La Comisión de Vigilancia de la Auditoría Superior del Estado tendrá las siguientes obligaciones y atribuciones:
+
+a).- Certificar en la primera y última hoja, expresando el número de estas que se contengan, todos los libros que sean necesarios para las labores de la oficina;
+
+b).- Recibir del Pleno o de la Diputación Permanente los informes de avance de gestión financiera y las Cuentas Públicas, para turnarlos a la Auditoría Superior del Estado;
+
+c).- Dictaminar las respectivas Cuentas Públicas;
+
+d).- Vigilar y evaluar que la Auditoría Superior del Estado, cumpla eficazmente con las funciones que le competen;
+
+e).- Presentar al Pleno del Congreso, el dictamen relativo a la terna para ocupar el cargo de Auditor y Sub Auditores Superiores del Estado, la que se integrará con las propuestas recibidas;
+
+f).- Dictaminar acerca de la solicitud de licencia, renuncia o remoción del Auditor Superior del Estado, que se integrará con las propuestas recibidas; y
+
+g).- Proponer la contratación del personal de la Unidad Técnica de Vigilancia, Evaluación y Control de la Auditoría Superior del Estado, que auxiliará a la Comisión en el desempeño de sus funciones; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE ENERO DE 2011)</small>
+
+XXXVI. La Comisión de Vivienda y Desarrollo Urbano tendrá a su cargo el análisis de los proyectos parlamentarios relativos al fomento a la vivienda y de los programas y políticas tendientes a satisfacer el derecho a la vivienda, así como el desarrollo de las ciudades para un crecimiento ordenado, armónico y sustentable.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2011)</small>
+
+ARTICULO 37 BIS.- Cada Comisión contará con los elementos y recursos necesarios para el eficiente desempeño de sus funciones.
 
 ### CAPITULO V. DE LA OFICIALIA MAYOR
 
@@ -537,7 +689,7 @@ Todo el personal de la Legislatura guardará durante las horas de trabajo compos
 
 El Presidente de la Junta de Coordinación Política nombrará a los empleados y cubrirá las vacantes que resulten necesarias para el servicio de la Legislatura.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 4 DE JULIO DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE JULIO DE 2009)</small>
 
 ### CAPITULO VI. DE LA AUDITORÍA SUPERIOR DEL ESTADO
 
@@ -549,7 +701,7 @@ La Auditoría Superior del Estado es el órgano técnico del Congreso que tiene 
 
 ### CAPITULO VII. DEL TESORERO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2010)</small>
 
 ###### ARTICULO 44.
 
@@ -575,11 +727,43 @@ El Tesorero descontará de las cantidades que debe entregar como dietas, a los D
 
 En caso de falta temporal o absoluta del Tesorero se nombrará un substituto.
 
-### CAPITULO I. DE LAS SESIONES
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 29 DE ENERO DE 2011)</small>
+
+### CAPITULO VIII. DE LA CONTRALORÍA INTERNA
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2011)</small>
+
+ARTICULO 48 BIS.- La Contraloría Interna contará para el debido desempeño de sus funciones con las Direcciones que se requieran, de conformidad con las necesidades de su actividad y con base en el presupuesto asignado por el Congreso. Y tendrá las siguientes atribuciones:
+
+I. Proponer y aplicar el programa anual de control y evaluación, y someterlo a la aprobación de la Junta de Coordinación Política.
+
+II. Diseñar, implantar y supervisar el sistema de control y evaluación de las unidades administrativas del Congreso del Estado, orientadas a mejorar los procedimientos administrativos.
+
+III. Planear, programar, organizar y coordinar el sistema de control interno y de evaluación, así como vigilar que la aplicación de los recursos materiales, humanos, técnicos y financieros sean congruentes con el presupuesto de egresos;
+
+IV. Sustanciar los procedimientos de responsabilidades en contra de los servidores públicos administrativos del poder legislativo en términos de la ley de responsabilidades de los servidores públicos del Estado y Municipios de Oaxaca;
+
+V. Recibir y dar seguimiento a las sugerencias, quejas y denuncias ciudadanas, con respecto a la actuación de los servidores públicos administrativos adscritos al Poder Legislativo.
+
+VI. Conocer y resolver los procedimientos derivados de las inconformidades presentadas por contratistas y proveedores del poder legislativo.
+
+VII. Presentar a la consideración y acuerdo de la Junta de Coordinación Política, los proyectos de resolución sobre los casos de servidores públicos administrativos que incumplan las disposiciones, sobre el desempeño del servicio, que señala la Ley de los (sic) Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca.
+
+VIII. Coordinar y supervisar la entrega-recepción de la mesa directiva, de la Junta de Coordinación Política, de los diputados, así como de las unidades administrativas del poder legislativo.
+
+IX. Vigilar que se realice y actualice periódicamente el inventario de bienes muebles e inmuebles que son patrimonio del Poder Legislativo;
+
+X. Presentar a la Junta de Coordinación Política, un informe trimestral sobre los resultados del cumplimiento de sus funciones;
+
+XI. Presentar a la Asamblea, un informe semestral sobre el cumplimiento de sus funciones.
+
+XII. Las demás que determine el pleno del Congreso del Estado.
+
+Su titular será nombrado a propuesta de la Junta de Coordinación Política y deberá ser aprobado por el Pleno.
 
 ## TÍTULO CUARTO. DEL FUNCIONAMIENTO DEL CONGRESO
 
-### CAPITULO II. DE LAS ASISTENCIAS Y FALTAS DE LOS DIPUTADOS
+### CAPITULO I. DE LAS SESIONES
 
 ###### ARTICULO 49.
 
@@ -699,7 +883,7 @@ En lo tratado en las sesiones secretas, los Diputados asistentes deben guardar a
 
 Para que exista cualquier tipo de sesión se necesita la concurrencia de más de la mitad del número total de los Diputados.
 
-### CAPITULO III. DE LA INICIATIVA DE LEYES Y DECRETOS
+### CAPITULO II. DE LAS ASISTENCIAS Y FALTAS DE LOS DIPUTADOS
 
 ###### ARTICULO 64.
 
@@ -725,7 +909,7 @@ En las faltas temporales o absolutas de los Diputados, la Legislatura del Estado
 
 El Presidente de la Legislatura puede conceder licencia a los Diputados para que en un mes falten hasta por dos sesiones, en cuyo caso será con pago de dietas. Si la licencia excede de dos sesiones, solo el pleno de la Legislatura puede concederlas.
 
-### CAPITULO IV. DE LAS DISCUSIONES PARLAMENTARIAS
+### CAPITULO III. DE LA INICIATIVA DE LEYES Y DECRETOS
 
 ###### ARTICULO 70.
 
@@ -777,7 +961,7 @@ Jamás admitirá la mesa, una proposición en que se pida que una Ley compuesta 
 
 Tratándose de iniciativas del Ejecutivo, del Tribunal Superior de Justicia, o de los Ayuntamientos, pueden asistir los representantes que autorice la Constitución Política del Estado, a las sesiones para explicar los fundamentos de sus iniciativas, no pudiendo en ningún caso, dichos representantes estar presentes en el momento de la votación y para tal efecto, deberán abandonar el Salón de Sesiones.
 
-### CAPITULO V. DE LAS ADICIONES Y MODIFICACIONES
+### CAPITULO IV. DE LAS DISCUSIONES PARLAMENTARIAS
 
 ###### ARTICULO 81.
 
@@ -971,7 +1155,7 @@ Las nuevas interpelaciones que surjan durante el debate, serán contestadas inme
 
 El Secretario General de Gobierno tendrá seis días para presentarse a contestar personalmente o para remitir por escrito la debida contestación, cuando tenga dificultades para concurrir.
 
-### CAPITULO UNICO. DE LAS VOTACIONES
+### CAPITULO V. DE LAS ADICIONES Y MODIFICACIONES
 
 ###### ARTICULO 123.
 
@@ -995,7 +1179,7 @@ Las observaciones o modificaciones que hiciere el Ejecutivo a un proyecto de Ley
 
 ## TITULO QUINTO
 
-### CAPITULO UNICO. DE LA FORMACION Y MINUTA PARA LA EXPEDICION DE LEYES Y DECRETOS
+### CAPITULO UNICO. DE LAS VOTACIONES
 
 ###### ARTICULO 128.
 
@@ -1085,9 +1269,7 @@ El Secretario General de Gobierno u otro funcionario que se encuentre en el Sal�
 
 ## TITULO SEXTO
 
-### CAPITULO UNICO. DEL COLEGIO ELECTORAL Y DE OTRAS FACULTADES CONSTITUCIONALES CONFERIDAS AL CONGRESO
-
-> <small>(REFORMADO, P.O. 4 DE JULIO DE 2009)</small>
+### CAPITULO UNICO. DE LA FORMACION Y MINUTA PARA LA EXPEDICION DE LEYES Y DECRETOS
 
 ###### ARTICULO 146.
 
@@ -1115,7 +1297,9 @@ En la interpretación, reformas o derogaciones de las Leyes o Decretos, se obser
 
 ## TITULO SEPTIMO
 
-### CAPITULO UNICO. DE LA DIPUTACION PERMANENTE
+### CAPITULO UNICO. DEL COLEGIO ELECTORAL Y DE OTRAS FACULTADES CONSTITUCIONALES CONFERIDAS AL CONGRESO
+
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2009)</small>
 
 ###### ARTICULO 152.
 
@@ -1135,7 +1319,7 @@ Los resultados que emanen del Colegio Electoral, deberán constar en Decretos y 
 
 ## TÍTULO OCTAVO
 
-### CAPITULO UNICO. DEL CEREMONIAL DE LA LEGISLATURA
+### CAPITULO UNICO. DE LA DIPUTACION PERMANENTE
 
 ###### ARTICULO 156.
 
@@ -1159,7 +1343,7 @@ Las Discusiones y votaciones de la Diputación Permanente, se regirán por lo qu
 
 ## TITULO NOVENO
 
-### CAPITULO UNICO. DE LAS GALERIAS
+### CAPITULO UNICO. DEL CEREMONIAL DE LA LEGISLATURA
 
 ###### ARTICULO 161.
 
@@ -1221,7 +1405,7 @@ El Congreso del Estado, no podrá reunirse para tomar acuerdo o determinación O
 
 ## TITULO DECIMO
 
-### CAPITULO I. DE LA ORGANIZACION DEL JURADO Y PERSONAS SUJETAS A SU JURISDICCION
+### CAPITULO UNICO. DE LAS GALERIAS
 
 ###### ARTICULO 174.
 
@@ -1251,7 +1435,7 @@ El presidente de la Legislatura podrá ordenar, siempre que lo considere conveni
 
 ## TITULO DECIMO PRIMERO
 
-### CAPITULO II. DEL PROCEDIMIENTO
+### CAPITULO I. DE LA ORGANIZACION DEL JURADO Y PERSONAS SUJETAS A SU JURISDICCION
 
 ###### ARTICULO 180.
 
@@ -1260,6 +1444,8 @@ Para el desempeño de las funciones judiciales que la Constitución encomienda a
 ###### ARTICULO 181.
 
 Están sujetos al Jurado, el Gobernador del Estado, los Diputados y los Magistrados.
+
+### CAPITULO II. DEL PROCEDIMIENTO
 
 ###### ARTICULO 182.
 
@@ -1375,7 +1561,7 @@ LIC. JOSE ANTONIO ESTEFAN GARFIAS.
 
 P.O. 19 DE DICIEMBRE DE 1998.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 UNICO.- Las reformas de que se ocupa este Decreto, entrarán en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
 
@@ -1428,3 +1614,15 @@ PRIMERO.- El presente Decreto entrará en vigor el día 13 de noviembre de 2010.
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO.- En todos los ordenamientos, actos y convenios celebrados por la Gran Comisión, se entenderán como referidos a la Junta de Coordinación Política del Congreso del Estado.
+
+P.O. 29 DE ENERO DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor el mismo día de su aprobación. Publíquese en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- La Mesa Directiva electa el día 13 de noviembre de 2010, para que funja durante el Primer Año de la Sexagésima Primera Legislatura, continuará vigente y el Honorable Pleno en sesión respectiva elegirá únicamente las vacantes que resulten de la presente reforma.
+
+TERCERO.- Para efectos de la definición de los Secretarios A y B, se considerará a los elegidos el 13 de noviembre de 2010 en el orden 1 y 2 como Secretarios A y en el 3 y 4 como Secretarios B.
+
+CUARTO.- Para efectos de la aplicación de los recursos económicos y administrativos, se integraran los manuales administrativos necesarios dentro de los tres meses posteriores a esta reforma.
+
+QUINTO.- En la sesión solemne de fecha 1º de diciembre de 2010, fungirá la Mesa Directiva en su totalidad.
