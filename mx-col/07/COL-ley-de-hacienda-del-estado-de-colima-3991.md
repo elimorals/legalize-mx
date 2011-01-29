@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-del-estado-de-colima-3991"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-26"
-last_updated: "2010-12-25"
+last_updated: "2011-01-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3991&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE HACIENDA DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE ENERO DE 2011.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Colima, el sábado 26 de diciembre de 1992.
 
@@ -383,19 +383,23 @@ III.- La prestación de servicios de paraderos de casas rodantes, móviles o aut
 
 IV.- El alojamiento o albergue temporal de personas en bungalows, hostales, villas, casas y departamentos amueblados.
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
-
-Artículo 41 B.- Es base para el cálculo de este impuesto el importe total de la contraprestación por concepto de hospedaje, sin incluir otros impuestos, alimentos, y demás servicios accesorios.
-
-Tratándose de servicios de hospedaje prestados bajo el sistema o modalidad de uso en tiempo compartido, será base del impuesto, el ingreso que se obtenga por concepto de cuotas para el uso de las instalaciones.
-
 > <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
 
 Artículo 41 A BIS.- Están obligados al pago de este impuesto, las personas físicas y morales que presten los servicios a que se refiere el artículo anterior, quienes podrán trasladar su importe a las personas que reciban dichos servicios.
 
 > <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
 
+Artículo 41 B.- Es base para el cálculo de este impuesto el importe total de la contraprestación por concepto de hospedaje, sin incluir otros impuestos, alimentos, y demás servicios accesorios.
+
+Tratándose de servicios de hospedaje prestados bajo el sistema o modalidad de uso en tiempo compartido, será base del impuesto, el ingreso que se obtenga por concepto de cuotas para el uso de las instalaciones.
+
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
+
 Artículo 41 C.- Este impuesto se determinará y liquidará, aplicando a la base a que se refiere el artículo anterior, la tasa del 2%.
+
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
+
+Artículo 41 C BIS.- El impuesto establecido en este capítulo se causará en el momento en que se perciba el importe de las contraprestaciones por el servicio de hospedaje.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
@@ -404,10 +408,6 @@ Artículo 41 C BIS-1.- Los contribuyentes enterarán el impuesto mediante declar
 > <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
 
 Si el contribuyente opera en dos o más establecimientos, presentará declaración por cada uno de ellos, sustituyendo la homoclave del Registro Federal de Contribuyentes por una determinante numérica de tres dígitos diferente para cada establecimiento, la cual será progresiva, a partir del 001.
-
-> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
-
-Artículo 41 C BIS.- El impuesto establecido en este capítulo se causará en el momento en que se perciba el importe de las contraprestaciones por el servicio de hospedaje.
 
 > <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
 
@@ -531,10 +531,6 @@ Artículo 41 R.- El impuesto se causará en el momento en que se realicen las er
 
 Los contribuyentes deberán presentar declaraciones aun cuando no exista impuesto a pagar, mientras no se presente el aviso de suspensión, disminución o cancelación en el Registro Estatal de Contribuyentes.
 
-> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
-
-Artículo 41 S.- Los contribuyentes de este impuesto tendrán, además de las señaladas en el presente capítulo y en el Código Fiscal del Estado, la obligación de llevar los registros contables que permitan identificar el monto de las erogaciones gravadas y exentas, objeto del impuesto a que se refiere este capítulo, así como el importe del impuesto pagado por las mismas.
-
 > <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
 Artículo 41 R BIS.- Las personas físicas obligadas al pago de este Impuesto, que tributen para efectos del Impuesto Sobre la Renta en el régimen de los pequeños contribuyentes, previsto en la Sección III del Capítulo II del Título IV de la Ley del Impuesto Sobre la Renta, podrán pagar el Impuesto Sobre Nóminas regulado en este capítulo, mediante cuota fija determinada por la Receptoría de Rentas correspondiente de la Secretaría de Finanzas, en base a las erogaciones manifestadas por el contribuyente.
@@ -544,6 +540,10 @@ La cuota del Impuesto establecido en este Capítulo, se pagará bimestralmente, 
 La cuota prevista en este artículo será revisada y en su caso, modificada anualmente o cuando las erogaciones del contribuyente se modifiquen en más de un 10%, siendo obligación del contribuyente reportarlo a la Receptoría de Rentas correspondiente, de la Secretaría de Finanzas, en el bimestre siguiente a aquel en que ocurra la modificación.
 
 También será modificada cuando las autoridades fiscales de la Secretaría de Finanzas a través del ejercicio de sus facultades, comprueben una variación superior al porcentaje señalado en el párrafo anterior en las erogaciones estimadas.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+Artículo 41 S.- Los contribuyentes de este impuesto tendrán, además de las señaladas en el presente capítulo y en el Código Fiscal del Estado, la obligación de llevar los registros contables que permitan identificar el monto de las erogaciones gravadas y exentas, objeto del impuesto a que se refiere este capítulo, así como el importe del impuesto pagado por las mismas.
 
 > <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
@@ -1479,9 +1479,9 @@ d).- (DEROGADO, P.O. 5 DE ENERO DE 1999)
 
 e).- (DEROGADO, P.O. 30 DE DICIEMBRE DE 2000)
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2011)</small>
 
-Por los conceptos consignados en los incisos a), b) y c) a que se refiere esta fracción, las personas que acrediten ser jubilados o pensionados por una institución pública, discapacitados acreditados por una institución de salud pública y adultos en plenitud de escasos recursos económicos, tendrán derecho a un descuento del 50 por ciento de la cuota establecida, siempre que la persona tenga en propiedad un solo vehículo.
+Por los conceptos consignados en los incisos a), b) y c) a que se refiere esta fracción, las personas que acrediten ser jubilados o pensionados por una institución pública, discapacitados acreditados por una institución de salud pública y adultos en plenitud, tendrán derecho a un descuento del 50 por ciento de la cuota establecida, únicamente para el caso de vehículos de uso particular.
 
 > <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
@@ -1613,9 +1613,9 @@ i).- Placas para vehículos antiguos. 13.000
 
 j).- Placas de demostración motocicletas 10.570
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2011)</small>
 
-Los derechos consignados en los incisos a), b), c), d), e), f), h), e i), tratándose de canje o renovación, por término del período de vigencia, deberán pagarse durante los meses de enero a junio. Las personas que acrediten ser jubilados o pensionados por una institución pública, discapacitados acreditados por una institución de salud pública y adultos en plenitud de escasos recursos económicos, tendrán derecho a un descuento del 50 por ciento de la cuota establecida en los incisos a), c), f), g) y h), siempre que la persona tenga en propiedad un solo vehículo.
+Los derechos consignados en 105 incisos a), b), c), d), e), f), e i) anteriores, tratándose de canje o renovación, por término del periodo de vigencia, deberán pagarse durante los meses de enero a junio. Las personas que acrediten ser jubilados o pensionados por una institución pública, discapacitados acreditados por una institución de salud pública y adultos en plenitud, tendrán derecho a un descuento del 50 por ciento de la cuota establecida en los incisos a), c), d), f), g) e i), respecto a un vehículo que tenga en propiedad.
 
 > <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
@@ -2213,13 +2213,13 @@ III.- (DEROGADA, P.O. 28 DE DICIEMBRE DE 2002)
 
 IV.- Por la expedición, renovación anual o reposición de la calcomanía fiscal vehicular 10.000
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2011)</small>
 
-El derecho por la renovación anual de la calcomanía fiscal vehicular, deberán pagarlo las personas físicas y morales y las unidades económicas sin personalidad jurídica, que al 1°. de enero del ejercicio fiscal de que se trate, mantengan inscritos vehículos en el Registro Público Vehicular del Estado de Colima, debiéndose realizar el pago a mas tardar el día 31 de marzo.
+El derecho por la renovación anual de la calcomanía fiscal vehicular, deberán pagarlo las personas físicas y morales y las unidades económicas sin personalidad jurídica, que al 1°. de enero del ejercicio fiscal de que se trate, mantengan inscritos vehículos en el Registro Publico Vehicular del Estado de Colima, debiéndose realizar el pago a mas tardar el día 31 de marzo.
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2011)</small>
 
-Por los conceptos a que se refiere esta fracción, las personas que acrediten ser jubilados o pensionados por una institución pública, discapacitados acreditados por una institución de salud pública y adultos en plenitud de escasos recursos económicos, tendrán derecho a un descuento del 50 por ciento de la cuota establecida, siempre que la persona tenga en propiedad un solo vehículo.
+Por los conceptos a que se refiere esta fracción, las personas que acrediten ser jubilados o pensionados por una institución pública, discapacitados acreditados por una institución de salud pública y adultos en plenitud, tendrán derecho a un descuento del 50 por ciento de la cuota establecida, respecto a un vehículo que tenga en propiedad, y que este sea de uso particular.
 
 > <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
@@ -4456,3 +4456,9 @@ P.O. 25 DE DICIEMBRE DE 2010.
 PRIMERO.- El presente Decreto entrará en vigor el 10 de enero de 2011, previa su publicación en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO.- Para los efectos del ajuste monetario en el pago de las contribuciones a que se refiere el artículo segundo transitorio del decreto de reformas a la Ley de Hacienda del Estado, publicado en el Periódico Oficial "El Estado de Colima" el 31 de diciembre de 1997 y en el caso concreto de los derechos que se causan por los servicios prestados en los Kioscos de Servicios e Información de Gobierno, durante el año 2011 el monto se ajustará a la decena de pesos inferior más próxima.
+
+P.O. 29 DE ENERO DE 2011.
+
+PRIMERO.- El presente Decreto entrara en vigor el día de su aprobación, debiéndose publicar en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los contribuyentes que se ubiquen en los supuestos del descuento en el pago de derechos a que se refieren los artículos 50, fracciones I y IV, Y 53, fracción IV, de la Ley de Hacienda del Estado de Colima, que a la fecha de entrada en vigor del presente Decreto ya hubieren pagado los derechos correspondientes al ejercicio fiscal 2011, tendrán derecho a que la Secretaría de Finanzas les reintegre la diferencia a su favor, previa solicitud por escrito que formulen ante la autoridad competente.
