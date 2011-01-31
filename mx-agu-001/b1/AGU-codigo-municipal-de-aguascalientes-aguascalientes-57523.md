@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2010-12-09"
+last_updated: "2011-01-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CODIGO MUNICIPAL DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE ENERO DE 2011.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -116,6 +116,10 @@ IX. Normar directa y libremente las materias de su competencia.
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE NOVIEMBRE DE 2009)</small>
 
 X. Promover la igualdad de género, la no discriminación y la no violencia en contra de las mujeres residentes en el Municipio.
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2011)</small>
+
+XI. Fomentar la participación ciudadana en la observación, vigilancia y evaluación de la calidad en la gestión pública municipal.
 
 > <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2009)</small>
 
@@ -329,7 +333,9 @@ Los Síndicos deberán rendir un informe mensual sobre el estado que guardan las
 
 En caso de incumplimiento a lo dispuesto en el párrafo anterior, se sancionará de conformidad con lo dispuesto en el artículo 67 fracción I de este ordenamiento.
 
-Con el fin de que el Síndico Procurador cumpla con la procuración, defensa, promoción y representación jurídica en los litigios en que el Municipio fuere parte y con el objeto de salvaguardar los intereses municipales, el H. Ayuntamiento, en apego a lo dispuesto por el artículo 36, fracción IX, de la Ley Municipal para el Estado de Aguascalientes, podrá nombrar, a solicitud del Síndico Procurador, a aquellos servidores públicos que le auxilien en dichas funciones.
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2011)</small>
+
+Con el fin de que el Síndico Procurador cumpla con la procuración, defensa, promoción y representación jurídica en los litigios en que el Municipio fuere parte y con el objeto de salvaguardar los intereses municipales, el H. Ayuntamiento, en apego a lo dispuesto por el artículo 36, fracción IX, de la Ley Municipal para el Estado de Aguascalientes, podrá nombrar, a solicitud del Síndico Procurador, a aquellos servidores públicos que le auxilien en dichas funciones. Estos funcionarios deberán enviar un informe mensual sobre los asuntos de su competencia al Secretario del H. Ayuntamiento y Director General de Gobierno.
 
 El nombramiento citado en el párrafo anterior, tendrá los efectos de un poder para pleitos y cobranzas, mismo que, de manera enunciativa y no limitativa, otorgará las siguientes facultades:
 
@@ -933,23 +939,23 @@ El trámite y resolución de los asuntos, competencia del Municipio de Aguascali
 
 Los titulares de cada una de las dependencias y entidades de la administración pública municipal, acordarán directamente con el Presidente Municipal o con quien éste determine, y deberán cumplir los requisitos señalados en la Ley que en materia municipal expida el Poder Legislativo del Estado.
 
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 2008)</small>
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2011)</small>
 
 Para el estudio, planeación y despacho de los asuntos de su competencia, la Presidencia Municipal contará con las siguientes Unidades Administrativas:
 
-Secretaria Particular;
+Secretaría Particular;
 
 Comité Municipal para el Desarrollo Integral de la Familia;
 
-Coordinación General de Asesores;
-
 Coordinación General de Comunicación Social;
+
+Coordinación General del Observatorio Ciudadano de Transparencia y Gestión Municipal;
 
 Contraloría Municipal;
 
-Coordinación General de Delegaciones;
+Oficina Ejecutiva del Presidente Municipal;
 
-Secretaría del H. Ayuntamiento y Dirección General de Gobierno;
+Secretaria del H. Ayuntamiento y Dirección General de Gobierno;
 
 Secretaría de Finanzas Públicas;
 
@@ -971,39 +977,45 @@ I.- PRESIDENCIA MUNICIPAL:
 
 Asistente del C. Presidente; y Secretario Privado del C. Presidente.
 
-> <small>(REFORMADA, P.O. 3 DE MARZO DE 2008)</small>
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2011)</small>
 
-II.- SECRETARÍA PARTICULAR:
+II.- SECRETARIA PARTICULAR:
 
 Asistente del Secretario
 
-Departamento de Giras y Eventos
+Departamento de Discurso y Mensaje Gubernamental.
 
-Departamento de Atención a la Ciudadanía
+Departamento de Giras y Eventos.
 
-Coordinación Administrativa
+Departamento de Atención a la Ciudadanía.
 
-Dirección de Asuntos Internacionales
+Coordinación Administrativa.
 
-Dirección de Atención Institucional
+Dirección de Atención Institucional.
 
-Departamento de Relaciones Públicas
+Departamento de Relaciones Públicas.
 
-> <small>(REFORMADA, P.O. 3 DE MARZO DE 2008)</small>
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2011)</small>
 
-III.- OFICINA EJECUTIVA DEL PRESIDENTE MUNICIPAL
+III.- OFICINA EJECUTIVA DEL PRESIDENTE MUNICIPAL:
 
-Coordinación de Estudios de Opinión y Mejora de la Gestión Pública
+Dirección de Estrategia y Análisis Político
 
-Coordinación de Gabinetes Temáticos y Proyectos Especiales
+Dirección de Estudios de Opinión
 
-Coordinación de Seguimiento y Evaluación
+Coordinación de Vinculación para la Convivencia Ciudadana
 
-Coordinación de Gestión Institucional
+Dirección de Vinculación y Operación
 
-Coordinación de Vinculación
+Departamento de Ejecución y Seguimiento
 
-Coordinación de Estrategia y Mensaje Gubernamental.
+Dirección de Planeación y Estrategia
+
+Coordinación de Cooperación, Financiamiento y Asuntos Internacionales
+
+Dirección de Enlace Internacional
+
+Departamento de Gestión de Proyectos
 
 IV.- COMITÉ MUNICIPAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA
 
@@ -1049,13 +1061,99 @@ Departamento de Difusión Institucional.
 
 Departamento de Síntesis Informativa.
 
-VII.- COORDINACIÓN GENERAL DE DELEGACIONES
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2011)</small>
 
-Departamento Administrativo.
+VII.- COORDINACIÓN GENERAL DEL OBSERVATORIO CIUDADANO DE TRANSPARENCIA Y GESTIÓN MUNICIPAL.
 
-Dirección de Promoción Rural.
+Departamento Administrativo;
 
-Departamento de Desarrollo Rural.
+Departamento de Transparencia;
+
+Departamento de Vinculación Ciudadana;
+
+Departamento de Evaluación de la Calidad de la Gestión Municipal;
+
+Departamento de Difusión e Informática.
+
+VIII.- CONTRALORÍA MUNICIPAL
+
+Coordinación Jurídica.
+
+Dirección de Auditoría Operacional y de Gestión:
+
+Departamento de Control de Procesos.
+
+Departamento de Revisión al Ejercicio de Recursos Federales y Municipales; y
+
+Departamento de Auditoría de Información Contable.
+
+Dirección de Auditoría de Obra Pública.
+
+Departamento de Evaluación a Obras Públicas.
+
+Departamento de Evaluación a Servicios Públicos.
+
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2011)</small>
+
+IX.- SECRETARIA DEL H. AYUNTAMIENTO Y DIRECCIÓN GENERAL DE GOBIERNO:
+
+Secretaría Particular.
+
+Departamento de la Junta Municipal de Reclutamiento.
+
+Coordinación Administrativa.
+
+Coordinación de Asuntos de Cabildo.
+
+Dirección de Asuntos Internos de Seguridad Pública y Tránsito.
+
+Departamento de Procedimientos, Registro y Estadística.
+
+Departamento de Investigación y Control de Confianza.
+
+Dirección de Asuntos Jurídicos.
+
+Coordinación Jurídica de lo Contencioso.
+
+Coordinación Jurídico-Legislativa.
+
+Coordinación de Asuntos de Honor y Justicia.
+
+Dirección de Justicia Municipal.
+
+Departamento de Servicios Médicos, Psicología y Trabajo Social.
+
+Coordinación General de Verificación Única Administrativa.
+
+Coordinación de Sanidad y Salud Pública.
+
+Coordinación de Verificación de Servicios Públicos Municipales y Desarrollo Urbano.
+
+Coordinación de Verificación de Reglamentación y Áreas Comerciales.
+
+Dirección de Reglamentación.
+
+Coordinación de Licencias.
+
+Área de Revisión de Licencias y Permisos.
+
+Dirección de Mercados, Estacionamientos y Áreas Comerciales.
+
+Departamento de Mercados y Estacionamientos.
+
+Departamento de Áreas Comerciales.
+
+Dirección Municipal de Protección Civil, Bomberos y Atención a Emergencias Prehospitalarias.
+
+Departamento de Verificación e Inspección y; Capacitación y Adiestramiento.
+
+Departamento Operativo de Protección Civil.
+
+Departamento de Atención Médica Prehospitalaria.
+
+Departamento de Bomberos.
+
+SUBSECRETARÍA DEL H. AYUNTAMIENTO Y SUBDIRECCIÓN GENERAL DE GOBIERNO:
 
 Delegación Urbana José María Morelos y Pavón.
 
@@ -1077,7 +1175,9 @@ Departamento de Desarrollo Humano.
 
 Comisarios Municipales.
 
-Delegación Urbana Insurgentes: Departamento de Servicios Públicos.
+Delegación Urbana Insurgentes.
+
+Departamento de Servicios Públicos.
 
 Departamento de Desarrollo Urbano y Obras Públicas.
 
@@ -1110,80 +1210,6 @@ Comisarios Municipales.
 Delegación Rural Salto de los Salado.
 
 Comisarios Municipales.
-
-VIII.- CONTRALORÍA MUNICIPAL
-
-Coordinación Jurídica.
-
-Dirección de Auditoría Operacional y de Gestión:
-
-Departamento de Control de Procesos.
-
-Departamento de Revisión al Ejercicio de Recursos Federales y Municipales; y
-
-Departamento de Auditoría de Información Contable.
-
-Dirección de Auditoría de Obra Pública.
-
-Departamento de Evaluación a Obras Públicas.
-
-Departamento de Evaluación a Servicios Públicos.
-
-> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2009)</small>
-
-IX.- SECRETARIA DEL H. AYUNTAMIENTO Y DIRECCIÓN GENERAL DE GOBIERNO:
-
-Secretaría Particular.
-
-Departamento de Junta Municipal de Reclutamiento.
-
-Coordinación Administrativa.
-
-Subsecretaría del H. Ayuntamiento y Subdirección General de Gobierno.
-
-Dirección de Justicia Municipal.
-
-Departamento de Servicios Médicos, Psicología y Trabajo Social.
-
-Dirección de Asuntos Jurídicos.
-
-Coordinación de Asuntos de Cabildo.
-
-Coordinación Jurídica de lo Contencioso.
-
-Coordinación Jurídico-Legislativa.
-
-Dirección de Reglamentación.
-
-Coordinación de Licencias.
-
-Coordinación de Verificación.
-
-Dirección de Mercados, Estacionamientos y Áreas Comerciales.
-
-Departamento de Mercados y Estacionamientos.
-
-Departamento de Áreas Comerciales
-
-Dirección Municipal de Protección Civil.
-
-Departamento de Verificación, Inspección y Capacitación.
-
-Departamento Operativo de Protección Civil.
-
-Dirección de Bomberos.
-
-Departamento de Atención Médica Prehospitalaria.
-
-Departamento de Bomberos.
-
-Dirección de Asuntos Internos de Seguridad Pública.
-
-Departamento de Procedimientos, Registro y Estadística.
-
-Departamento de Investigación y Control de Confianza.
-
-Coordinación de Asuntos de Honor y Justicia.
 
 X.- SECRETARÍA DE FINANZAS PÚBLICAS
 
@@ -1337,15 +1363,15 @@ Departamento de Reingeniería.
 
 Departamento de Auditoría Administrativa y Operativa.
 
-> <small>(REFORMADA, P.O. 8 DE MARZO DE 2010)</small>
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2011)</small>
 
-XIII.- SECRETARÍA DE DESARROLLO SOCIAL
+XIII.- SECRETARIA DE DESARROLLO SOCIAL
 
 Coordinación Administrativa:
 
 Departamento de Seguimiento y Control de Gestión.
 
-Departamento de Recursos Humanos y Control Presupuestal.
+Departamento de Recursos Humanos y control Presupuestal.
 
 Coordinación de Atención Integral a las Personas Adultas Mayores:
 
@@ -1380,6 +1406,10 @@ Dirección de Desarrollo Económico:
 Departamento de Bolsa de Trabajo y Capacitación.
 
 Departamento de Proyectos Productivos.
+
+Dirección de Promoción Rural:
+
+Departamento de Desarrollo Rural.
 
 XIV.- SECRETARÍA DE DESARROLLO URBANO
 
@@ -1629,59 +1659,53 @@ X. Cubrir las actividades y eventos de la Presidencia Municipal mediante materia
 
 XI. Las demás que les confiera la Legislación vigente, o que les encomiende el H. Ayuntamiento, a través del Presidente Municipal.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE ENERO DE 2011)</small>
+
 APARTADO CUARTO
 
-De la Coordinación General de Delegaciones y Comisarios Municipales
+Coordinación General del Observatorio Ciudadano de Transparencia y Gestión Municipal
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2011)</small>
 
 ###### ARTÍCULO 102.
 
-Corresponde a las delegaciones por conducto de sus titulares:
+Corresponde a la Coordinación General del Observatorio Ciudadano de Transparencia y Gestión Municipal, por conducto de su titular:
 
-I. Acordar con el Presidente Municipal a través del Coordinador General de Delegaciones el despacho de los asuntos que le corresponden.
+l. Implementar un modelo de participación ciudadana para la observación, vigilancia y evaluación de la gestión pública, apoyado en la utilización de los mecanismos de transparencia, fomentando la gobernanza incluyente y la pluralidad de grupos e individuos;
 
-II. Rendir informe de las actividades desempeñadas al Presidente Municipal, al Regidor o Síndico del ramo y a la Coordinación General de Delegaciones, cuando así se les requiera.
+II. Promover la inclusión de la sociedad en las políticas públicas a través de la difusión de la información gubernamental tendientes a garantizar el efectivo goce y acceso a los servicios públicos municipales;
 
-III. Vigilar que se cumpla estrictamente con las disposiciones legales en todos los asuntos asignados.
+III. Fomentar la participación de los ciudadanos en los asuntos públicos mediante la promoción de la cultura de la legalidad;
 
-IV. Planear, programar, organizar, dirigir, controlar y evaluar el funcionamiento de sus respectivas áreas, con las unidades administrativas correspondientes con la finalidad de mejorar la calidad de vida de los habitantes.
+IV. Incorporar los mecanismos e indicadores tendientes a evaluar, medir y fortalecer las políticas públicas municipales;
 
-V. Formular y proponer al Presidente los proyectos de planes y programas que les correspondan a través de la Coordinación General de Delegaciones.
+V. Gestionar e implementar un modelo eficiente de atención al público, estableciendo un vínculo directo de información entre la administración y la ciudadanía;
 
-VI. Proporcionar información y cooperación técnicas a las dependencias de la administración pública municipal.
+VI. Propiciar el debate, la consulta y la propuesta entre la ciudadanía y las autoridades respecto de la gestión pública municipal;
 
-VII. Mantener permanente comunicación con la Dirección de Atención Ciudadana y demás dependencias municipales, a efecto de responder, atender y dar seguimiento a las demandas y necesidades de la población a través del Coordinador cuando por la operatividad resulte más conveniente.
+VII. Acordar con el Presidente Municipal el despacho de los asuntos que le corresponden;
 
-VIII. Participar con la Dirección de Modernización Tecnológica en la modernización y simplificación de los sistemas administrativos a través del Coordinador.
+VIII. Rendir informe de las actividades desempeñadas al Presidente Municipal, al Regidor o Síndico del ramo cuando así se le requiera;
 
-IX. Cumplir con la normatividad que emita la Dirección General de Modernización Tecnológica en materia de operación, mantenimiento, aplicación y administración de los sistemas de cómputo y en general, con las normas que emitan las dependencias municipales dentro de sus áreas de competencia.
+IX. Vigilar que se cumpla estrictamente con las disposiciones legales en lodos los asuntos asignados.
 
-X. Asistir y brindar el apoyo necesario para los eventos y actividades de las dependencias de la administración pública municipal organizadas en su jurisdicción.
+X. Planear, programar, organizar, dirigir, controlar y evaluar el funcionamiento de sus respectivas áreas, con las unidades administrativas correspondientes con la finalidad de mejorar la calidad de vida de los habitantes;
 
-XI. Llevar a cabo reuniones mensuales con los comisarios municipales.
+XI. Formular y proponer al Presidente los proyectos de planes y programas que les correspondan;
 
-XII. Hacer recorridos en colonias y comunidades para hacer un diagnóstico y resolver la problemática del lugar en materia de servicios públicos y apoyos en desarrollo humano, urbano y rural.
+XII. Proporcionar información y cooperación técnicas a las dependencias de la administración pública municipal;
 
-XIII. Dar seguimiento a reportes de las necesidades del servicio público, alumbrado, agua potable y los demás servicios con que cuente o necesite la comunidad.
+XIII. Mantener permanente comunicación con las dependencias municipales, a efecto de responder, atender y dar seguimiento a las demandas y necesidades de la población;
 
-XIV. Apoyar a la ciudadanía canalizándola a diversas instancias como hospitales, Sistema D.I.F., Seguridad Pública, entre otras.
+XIV. Participar con la Dirección de Modernización Tecnológica en la modernización y simplificación de los sistemas administrativos a través del Coordinador General;
 
-XV. Las demás que señale la ley o el H. Ayuntamiento por conducto del Presidente Municipal.
+XV. Cumplir con la normatividad que emita la Dirección de Modernización Tecnológica en materia de operación, mantenimiento, aplicación y administración de los sistemas de cómputo y en general, con las normas que emitan las dependencias municipales dentro de sus áreas de competencia;
+
+XVI. Las demás que señale la Ley o el H. Ayuntamiento por conducto del Presidente Municipal.
 
 ###### ARTÍCULO 103.
 
-Corresponde a los comisarios municipales:
-
-I. Extender constancias de ganado.
-
-II. Expedir cartas de recomendación.
-
-III. Tomar conocimiento de las fiestas dentro de su comunidad.
-
-IV. Reportar al Delegado las necesidades en materia de servicios públicos.
-
-V. Rendir informe mensual de actividades al Delegado.
-
-VI. las demás que señale la ley o el H. Ayuntamiento por conducto del Presidente Municipal.
+(DEROGADO, P.O. 31 DE ENERO DE 2011)
 
 APARTADO QUINTO
 
@@ -1733,31 +1757,31 @@ APARTADO SEXTO
 
 De la Coordinación General de Asesores
 
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 2008)</small>
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2011)</small>
 
 ###### ARTÍCULO 105.
 
 Corresponde a la Oficina Ejecutiva del Presidente Municipal:
 
-I. Fungir como enlace, bajo la supervisión del C. Presidente Municipal, para asegurar una adecuada vinculación de las dependencias y organismos de la Administración Pública Municipal con los diferentes niveles y poderes de gobierno, así como con las diversas instituciones y organizaciones de la sociedad en general, y coordinarse con la Secretaría del Ayuntamiento en los asuntos de su competencia señalados en la Fracción III del artículo 107 del Código Municipal.
+I. Fungir como enlace del Gobierno Municipal, con el Jefe de Gabinete del Gobierno del Estado de Aguascalientes, en coordinación con el Secretario del H. Ayuntamiento y Director General de Gobierno;
 
-II. Establecer los mecanismos necesarios para el seguimiento y cumplimiento de los acuerdos entre el C. Presidente Municipal y los Titulares de las Dependencias y Organismos de la Administración Pública Municipal.
+II. Fungir corno enlace del Gobierno Municipal, con el Congreso del Estado, en coordinación con el Secretario del H. Ayuntamiento y Director General de Gobierno;
 
-III. Coordinar la organización de los trabajos de las Dependencias y Organismos de la Administración Pública Municipal en Gabinetes Temáticos para garantizar la eficacia de la Administración Pública Municipal.
+III. Fungir como enlace del Gobierno Municipal, con las diferentes Asociaciones y Cultos Religiosos del municipio de Aguascalientes;
 
-IV. Dar seguimiento y evaluar periódicamente los planes, programas y proyectos para el cumplimiento de las metas establecidas en el Plan de Desarrollo Municipal, informando a los miembros del H. Ayuntamiento de los resultados de dichas evaluaciones para dar cabal cumplimiento a lo establecido en los artículos 13 y 18 del Código Municipal vigente, así como instrumentar las acciones propuestas por el H. Ayuntamiento.
+IV. Establecer y mantener las relaciones con los Comités de las Ciudades Hermanas de México y del Mundo;
 
-V. Coordinarse con las Dependencias y Organismos de la Administración Pública Municipal en las actividades relacionadas con el diseño y la gestión de los proyectos estratégicos derivados del Plan de Desarrollo Municipal.
+V. Coordinar los servicios de asesoría y consultoría al titular de la presidencia municipal;
 
-VI. Coordinar los servicios de asesoría y consultoría al C. Presidente Municipal.
+VI. Realizar análisis, estudios y encuestas en materia de opinión pública y documentar los resultados y datos estadísticos.
 
-VII. Realizar análisis, estudios y encuestas en materia de opinión pública y documentar los resultados y datos estadísticos, así como coordinar la elaboración de otro tipo de estudios pertinentes para la innovación y mejora de la gestión pública y el desempeño gubernamentales.
+VII. Coordinarse con la Secretaria Particular de la Presidencia Municipal para el diseño, seguimiento y evaluación de la Agenda, así como para establecer las bases para la integración y contenido de las giras del Titular de la Presidencia Municipal;
 
-VIII. Coordinarse con los Titulares de las Dependencias y Organismos de la Administración Pública Municipal para integrar y elaborar los documentos relacionados con los Informes de Gobierno y coordinarse con el IMPLAN en los asuntos de su competencia que se señalan en los artículos 8º y 9º del Reglamento del Instituto Municipal de Planeación.
+VIII. Coordinarse con la Coordinación General de Comunicación Social para la definición, seguimiento y evaluación de las políticas de difusión institucional;
 
-IX. Coordinarse con la Secretaría Particular del C. Presidente Municipal para el diseño, seguimiento y evaluación de la Agenda, así como para establecer las bases para la integración y contenido de las giras del C. Presidente Municipal, de acuerdo a lo establecido en las fracciones I y III del Artículo 99 del Código Municipal.
+IX. Coordinarse con el Instituto Municipal de Planeación para integrar y elaborar los documentos relacionados con los Informes Anuales de Gobierno;
 
-X. Coordinarse con la Coordinación General de Comunicación Social para la definición, seguimiento y evaluación de las políticas de difusión institucional, de acuerdo a lo establecido en las fracciones IV, V, VI y IX del Artículo 101 del Código Municipal.
+X. Coordinar y supervisar el proceso de incorporación de los contenidos de la página web del municipio.
 
 APARTADO SÉPTIMO
 
@@ -1823,11 +1847,37 @@ VIII. Validar con su firma todos los documentos oficiales emanados del H. Ayunta
 
 IX. Solicitar la publicación de leyes, decretos, bandos y reglamentos, y tener una colección ordenada y anotada de éstos, así como Periódicos Oficiales del Estado, circulares y órdenes relativas a los distintos ramos de la administración pública municipal.
 
-> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2011)</small>
 
-X. Tener bajo su mando la Dirección de Asuntos Internos de Seguridad Pública y Tránsito encargada de atender y dar seguimiento a las denuncias que se presenten sobre la actuación de los elementos operativos que conforman los cuerpos de seguridad pública municipal.
+X. Contar con la rectoría de las acciones legales que tenga el Municipio a través de sus Dependencias Administrativas, con el fin de constituir o defender derechos del Municipio, por sí o a través de la Dirección de Asuntos Jurídicos.
 
-XI. Las demás que señale la ley que en materia municipal expida el Poder legislativo del Estado o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2011)</small>
+
+XI. Requerir información sobre el trámite y resolución de los asuntos tratados en las Direcciones, Coordinaciones y/o Departamentos Jurídicos de las Dependencias de la Administración Pública Municipal a efecto de evaluar su desempeño y articular las acciones necesarias para la salvaguarda de los intereses del H. Ayuntamiento de Aguascalientes, por sí o a través de la Dirección de Asuntos Jurídicos.
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2011)</small>
+
+XII. Supervisar y evaluar las actividades que se realicen en materia jurídica por cualquiera de las dependencias de la Administración Pública Municipal, por sí o a través de la Dirección de Asuntos Jurídicos.
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2011)</small>
+
+XIII. Requerir información sobre el trámite y solución de los asuntos tratados por los servidores públicos auxiliares del Síndico Procurador y abogados autorizados por los titulares de las dependencias de la Administración Pública Municipal a efecto de evaluar su desempeño y articular las acciones necesarias para la salvaguarda de los intereses del H. Ayuntamiento de Aguascalientes, por sí o a través de la Dirección de Asuntos Jurídicos.
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2011)</small>
+
+XIV. Asesorar en todo momento a los titulares de las Direcciones, Coordinaciones y/o Departamentos Jurídicos de las dependencias de la Administración Pública Municipal a efecto de cumplir con las funciones de su competencia, por sí o a través de la Dirección de Asuntos Jurídicos.
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2011)</small>
+
+XV. Conocer y en su caso atraer los asuntos jurídicos que así lo requieran por importancia o gravedad, por sí o a través de la Dirección de Asuntos Jurídicos.
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2011)</small>
+
+XVI. Tener bajo su mando la Dirección de Asuntos Internos de Seguridad Pública y Tránsito encargada de atender y dar seguimiento a las denuncias que se presenten sobre la actuación de los elementos operativos que conforman los cuerpos de Seguridad Pública Municipal.
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2011)</small>
+
+XVII. Las demás que señale la Ley que en materia municipal expida el Poder Legislativo del Estado o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
 
 > <small>(ADICIONADO, P.O. 14 DE ABRIL DE 2008)</small>
 
@@ -1842,6 +1892,60 @@ II. Auxiliar al Secretario del H. Ayuntamiento y Director General de Gobierno en
 III. Las demás que le señale la Ley o el H. Ayuntamiento por conducto del Presidente Municipal o el Secretario del H. Ayuntamiento y Director General de Gobierno.
 
 Las ausencias temporales del Subsecretario del H. Ayuntamiento y Subdirector General de Gobierno serán suplidas por el Director de Asuntos Jurídicos de la Dirección General de Gobierno.
+
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2011)</small>
+
+###### ARTÍCULO 107
+
+TER.- Corresponde a las Delegaciones por conducto de sus titulares:
+
+I. Acordar con el Subsecretario del H. Ayuntamiento y Subdirector General de Gobierno, el despacho de los asuntos que le corresponden.
+
+II. Rendir informe de las actividades desempeñadas al Subsecretario del H. Ayuntamiento y Subdirector General de Gobierno, al Regidor o Síndico del ramo, cuando así se les requiera.
+
+III. Vigilar que se cumpla estrictamente con las disposiciones legales en todos los asuntos asignados.
+
+IV. Planear, programar, organizar, dirigir, controlar y evaluar el funcionamiento de sus respectivas áreas, con las unidades administrativas correspondientes con la finalidad de mejorar la calidad de vida de los habitantes.
+
+V. Formular y proponer al Subsecretario del H. Ayuntamiento y Subdirector General de Gobierno los proyectos de planes y programas que les correspondan.
+
+VI. Proporcionar información y cooperación técnicas a las dependencias de la administración pública municipal.
+
+VII. Mantener permanente comunicación con la Dirección de Atención Ciudadana y demás dependencias municipales, a efecto de responder, atender y dar seguimiento a las demandas y necesidades de la población.
+
+VIII. Participar con la Dirección de Modernización Tecnológica en la modernización y simplificación de los sistemas administrativos.
+
+IX. Cumplir con la normatividad que emita la Dirección de Modernización Tecnológica en materia de operación, mantenimiento, aplicación y administración de los sistemas de cómputo y en general, con las normas que emitan las dependencias municipales dentro de sus áreas de competencia.
+
+X. Asistir y brindar el apoyo necesario para los eventos y actividades de las dependencias de la Administración Pública Municipal organizadas en su jurisdicción.
+
+XI. Llevar a cabo reuniones mensuales con los comisarios municipales.
+
+XII. Hacer recorridos en colonias y comunidades para hacer un diagnóstico y resolver la problemática del lugar en materia de servicios públicos y apoyos en desarrollo humano, urbano y rural.
+
+XIII. Dar seguimiento a reportes de las necesidades del servicio público, alumbrado, agua potable y los demás servicios con que cuente o necesite la comunidad.
+
+XIV. Apoyar a la ciudadanía canalizándola a diversas instancias como hospitales, Sistema D.I.F., Seguridad Pública, entre otras.
+
+XV. Las demás que señale la Ley o el H. Ayuntamiento por conducto del Subsecretario del H. Ayuntamiento y Subdirector General de Gobierno.
+
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2011)</small>
+
+###### ARTÍCULO 107
+
+QUATER.- Corresponde a los Comisarios Municipales:
+
+I. Extender constancias de ganado.
+
+II. Expedir cartas de recomendación.
+
+III. Tomar conocimiento de las fiestas dentro de su comunidad.
+
+IV. Reportar al Delegado las necesidades en materia de servicios públicos.
+
+V. Rendir informe mensual de actividades al Delegado.
+
+VI. Las demás que señale la Ley o el H. Ayuntamiento por conducto del Subsecretario del H. Ayuntamiento y Subdirector General de Gobierno.
 
 APARTADO NOVENO
 
@@ -4115,11 +4219,13 @@ APARTADO SÉPTIMO
 
 De los Oficiales Custodios
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2011)</small>
+
 ###### ARTÍCULO 316.
 
-La guardia de los Juzgados Municipales se conformará por los elementos necesarios de la Secretaría de Seguridad Pública y Tránsito, a propuesta del Director de Justicia Municipal los cuales estarán comisionados a los diferentes Juzgados Municipales y deberán colaborar debiéndoles obediencia al Director de Justicia Municipal así como a los Jueces Municipales.
+La guardia de los Juzgados Municipales se conformará por los elementos necesarios que cumplan con el perfil requerido, estén capacitados y tengan el trato humano digno que estarán adscritos a la Dirección de Justicia Municipal de la Secretaría del H. Ayuntamiento y Dirección General de Gobierno, los cuales laborarán en los diferentes Juzgados Municipales y estarán bajo el mando del Director de Justicia Municipal así como de los Jueces Municipales.
 
-El Director de Justicia Municipal podrá solicitar al Secretario de Seguridad Pública y Tránsito la sustitución de los elementos que conforman dichas guardias en cualquier momento.
+Los oficiales custodios no serán considerados elementos de seguridad pública por lo que para la recisión contractual de los mismos no estarán sujetos a los procesos de Honor y Justicia.
 
 ###### ARTÍCULO 317.
 
@@ -6325,6 +6431,8 @@ III. Subcomité de Reforestación y Áreas Verdes.
 
 ### CAPÍTULO II. El Departamento de Bomberos
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2011)</small>
+
 ###### ARTÍCULO 539.
 
 Toda persona, física o moral, podrá denunciar ante la autoridad municipal en materia ambiental, todo hecho, acto u omisión que produzca o pueda producir deterioro o daño al ambiente, a los recursos naturales, o contravenga las disposiciones del presente Código y demás ordenamientos que regulen materias relacionadas con la protección y la preservación del ambiente.
@@ -6471,7 +6579,7 @@ El mando de los elementos (sic) Secretaría de Seguridad Pública y Tránsito Mu
 
 ###### ARTÍCULO 548.
 
-la Secretaría de Seguridad Pública y Tránsito Municipal se sujetará a un régimen policial.
+La Secretaría de Seguridad Pública y Tránsito Municipal se sujetará a un régimen policial.
 
 Para la observancia de dicho régimen, las Direcciones de Policía Preventiva y de Tránsito Municipal, deberán estar concentradas en un cuartel general, que contará con los siguientes servicios:
 
@@ -6481,7 +6589,7 @@ II. Guardia en prevención;
 
 III. Servicio de cuartel;
 
-IV. Cuartel de bomberos;
+IV. (DEROGADA, P.O. 31 DE ENERO DE 2011)
 
 V. Cárcel preventiva;
 
@@ -7745,7 +7853,7 @@ Contra las determinaciones dictadas por el Secretario Técnico durante la instru
 
 ###### ARTÍCULO 622.
 
-El Departamento de Bomberos es un cuerpo de la Secretaría de Seguridad Pública y Tránsito Municipal, dependiente de la Coordinación de Protección Civil.
+El Departamento de Bomberos es un cuerpo de la Secretaría del H. Ayuntamiento y Dirección General de Gobierno, dependiente de la Dirección Municipal de Protección Civil, Bomberos y Atención a Emergencias Prehospitalarias.
 
 APARTADO PRIMERO
 
@@ -7755,7 +7863,9 @@ De las Obligaciones del Personal del Departamento de Bomberos
 
 Son obligaciones de los elementos operativos del Departamento de Bomberos:
 
-I.- Rendir el parte diariamente al Secretario de Seguridad Pública y Tránsito Municipal;
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2011)</small>
+
+I.- Rendir el parte diariamente al Secretario del H. Ayuntamiento y Director General de Gobierno por conducto del Director Municipal de Protección Civil, Bomberos y Atención a Emergencias Prehospitalarias;
 
 II.- Presentarse puntualmente al desempeño de sus labores;
 
@@ -7809,7 +7919,9 @@ XIV.- Destinar los inmuebles y mobiliario de la Estación Central y demás estac
 
 XV.- El servicio que se preste para la protección en caso de siniestros, de la vida y patrimonio de los ciudadanos, requiere de una estricta disciplina que el Cuerpo de Bomberos debe de observar en sus actividades;
 
-XVI.- las demás que señale el Capítulo relativo a la Secretaría de Seguridad Pública y Tránsito Municipal, que previene el presente Código.
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2011)</small>
+
+XVI.- Las demás que señale el presente Código Municipal.
 
 APARTADO SEGUNDO
 
@@ -7839,7 +7951,9 @@ II. El Secretario del H. Ayuntamiento y Director de General de Gobierno;
 
 III. El Secretario de Seguridad Pública y Tránsito Municipal;
 
-IV. El Coordinador de Protección Civil Municipal; y
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2011)</small>
+
+IV. Director Municipal de Protección Civil, Bomberos y Atención a Emergencias Prehospitalarias; y
 
 V. El Jefe del Departamento de Emergencias 080.
 
@@ -12223,7 +12337,7 @@ Observaciones: TABLA Cargas vivas unitarias
 
 (VEASE ARCHIVO ANEXO)
 
-(A= área tributaria en m2), Cuando sea más desfavorable, en vez de Wm se considerará una carga concentrada de qui­nientos kilogramos aplicada en la posición más critica del ele­mento;
+(A= área tributaria en m2), Cuando sea más desfavorable, en vez de Wm se considerará una carga concentrada de quinientos kilogramos aplicada en la posición más critica del elemento;
 
 2) Cuando se trate de elementos estructurales que tengan un área tributaria mayor de treinta y seis metros cuadrados, Wm podrá reducirse tomándola igual a
 
@@ -19514,3 +19628,25 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 9 DE DICIEMBRE DE 2010.
 
 LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+
+P.O. 31 DE ENERO DE 2011.
+
+PRIMERO.- Las presentes reformas y adiciones al Código Municipal de Aguascalientes entrarán en vigor el día hábil siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO.- Una vez que las presentes reformas y adiciones al Código Municipal de Aguascalientes entren en vigor, las del Director de Protección Civil o el Director de Bomberos se entenderá referido al Director Municipal de Protección Civil, Bomberos y Atención de Emergencias Prehospitalarias.
+
+TERCERO.- Las Dependencias de la Administración Pública Municipal, que a la fecha de entrada en vigor de las presentes reformas y adiciones al Código Municipal de Aguascalientes, tengan a su cargo funciones de verificación en las materias que establece el propio Código, pondrán a disposición de la COORDINACION GENERAL DE VERIFICACIÓN ÚNICA ADMINISTRATIVA la plantilla de servidores públicos que tengan la calidad laboral de verificadores con que cuenten, una vez que se aprueben por el H. Cabildo las reformas y/o adiciones al Código Municipal de Aguascalientes relativas y el Reglamento Interior del H. Ayuntamiento y Dirección General de Gobierno.
+
+Los Servidores Públicos que ejercen actualmente funciones de verificación serán adscritos a la COORDINACION GENERAL DE VERIFICACIÓN ÚNICA ADMINISTRATIVA una vez aprobado lo prescrito en el párrafo que antecede.
+
+CUARTO.- La Secretaría del H. Ayuntamiento y Dirección General de Gobierno deberá presentar a través de la Comisión Permanente de Gobernación al H. Cabildo el Dictamen relativo al Reglamento Interior de la Secretaría del H. Ayuntamiento y Dirección General de Gobierno en un término no mayor a los 60 días naturales siguientes a la publicación de las presentes reformas y adiciones al Código Municipal de Aguascalientes.
+
+QUINTO.- En tanto la COORDINACION GENERAL DE VERIFICACIÓN ÚNICA ADMINISTRATIVA asume sus atribuciones y facultades en los términos de las reformas y adiciones al Código Municipal de Aguascalientes, las Dependencias y Órganos de la Administración Pública del Municipio de Aguascalientes que sean competentes a la fecha de entrada en vigor de dichas reformas y/o adiciones, continuaran ejerciendo dichas funciones hasta la conclusión de los procedimientos de las reformas y/o adiciones al Código Municipal y Reglamento Interior de la Secretaría del H. Ayuntamiento y Dirección General de Gobierno, previamente publicados en el Periódico Oficial del Estado de Aguascalientes.
+
+SEXTO.- Las Dependencias de la Administración Pública Municipal que a la fecha ejerzan funciones de verificación entregarán a la COORDINACION GENERAL DE VERIFICACIÓN ÚNICA ADMINISTRATIVA una relación detallada de manera digital de los expedientes integrados con motivo de los procedimientos instaurados por el ejercicio de dicha función, a efecto de que la Coordinación se imponga de su contenido.
+
+SÉPTIMO.- Las menciones que en otras disposiciones se hagan a Dependencias vinculados con facultades de verificación administrativa relacionadas con la competencia de la COORDINACION GENERAL DE VERIFICACIÓN ÚNICA ADMINISTRATIVA se entenderán hechas a ésta.
+
+OCTAVO.- La Secretaría de Administración llevará a cabo todos los actos legales o administrativos relacionados con las cuestiones laborales que se susciten con motivo de las presentes reformas y adiciones del Código Municipal de Aguascalientes.
+
+NOVENO.- Quedan derogadas las disposiciones que se opongan a las presentes reformas y adiciones al Código Municipal de Aguascalientes.
