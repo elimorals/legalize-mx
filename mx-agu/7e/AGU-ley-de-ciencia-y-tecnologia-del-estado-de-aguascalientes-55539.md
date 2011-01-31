@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-ciencia-y-tecnologia-del-estado-de-aguascalientes-55539"
 country: "mx"
 rank: "ley"
 publication_date: "2007-05-14"
-last_updated: "2007-05-14"
+last_updated: "2011-01-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55539&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE CIENCIA Y TECNOLOGIA DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE ENERO DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 14 de mayo de 2007.
 
@@ -111,363 +111,113 @@ VII. Las personas físicas e instituciones que lleven a cabo investigación y de
 
 VIII. Los apoyos que otorgue el CONCyTEA deberán ser en base a los logros sobresalientes de personas, empresas e instituciones que realicen investigación científica y desarrollo tecnológico, así como en razón a la vinculación, enlace, intercambio de información, trabajo en equipo, alianza estratégica de la investigación con las actividades educativas y productivas.
 
+> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY QUE CREA EL INSTITUTO PARA EL DESARROLLO DE LA SOCIEDAD DEL CONOCIMIENTO DEL ESTADO DE AGUASCALlENTES, P.O. 31 DE ENERO DE 2011)</small>
+
 ## TITULO SEGUNDO. DEL CONSEJO DE CIENCIA Y TECNOLOGIA DEL ESTADO DE AGUASCALIENTES
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY QUE CREA EL INSTITUTO PARA EL DESARROLLO DE LA SOCIEDAD DEL CONOCIMIENTO DEL ESTADO DE AGUASCALlENTES, P.O. 31 DE ENERO DE 2011)</small>
 
 ### CAPITULO PRIMERO. Denominación, Domicilio y Patrimonio
 
 ###### Artículo 6°.
 
-Se crea un Organismo Público Descentralizado del Gobierno del Estado de Aguascalientes, con personalidad jurídica y patrimonio propio que se denominará CONSEJO DE CIENCIA Y TECNOLOGIA DEL ESTADO DE AGUASCALIENTES, que estará sectorizado a la Secretaría de Desarrollo Económico.
+(DEROGADO, POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY QUE CREA EL INSTITUTO PARA EL DESARROLLO DE LA SOCIEDAD DEL CONOCIMIENTO DEL ESTADO DE AGUASCALlENTES, P.O. 31 DE ENERO DE 2011)
 
 ###### Artículo 7°.
 
-El CONCyTEA tendrá su domicilio en la ciudad de Aguascalientes.
+(DEROGADO, POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY QUE CREA EL INSTITUTO PARA EL DESARROLLO DE LA SOCIEDAD DEL CONOCIMIENTO DEL ESTADO DE AGUASCALlENTES, P.O. 31 DE ENERO DE 2011)
 
 ###### Artículo 8°.
 
-El Patrimonio del Consejo de Ciencia y Tecnología del Estado de Aguascalientes se integrará con:
-
-I. Las partidas presupuéstales que le asigne el Gobierno del Estado, comprendidas dentro del Presupuesto de Egresos del Estado;
-
-II. Las aportaciones, subsidios y apoyos que le otorguen los Gobiernos Federal y Municipales;
-
-III. Las aportaciones que lícitamente reciba de personas físicas o morales, nacionales o extranjeras;
-
-IV. Los legados o donaciones otorgados en su favor y los fideicomisos en los que se le señale como fideicomisario;
-
-V. Los bienes muebles e inmuebles que adquiera por cualquier título para el cumplimiento de su objetivo; y
-
-VI. Las utilidades, intereses, dividendos, rendimientos de sus bienes y derechos, consultas, peritajes, patentes y marcas, derechos de autor constituidos en su favor.
+(DEROGADO, POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY QUE CREA EL INSTITUTO PARA EL DESARROLLO DE LA SOCIEDAD DEL CONOCIMIENTO DEL ESTADO DE AGUASCALlENTES, P.O. 31 DE ENERO DE 2011)
 
 ###### Artículo 9°.
 
-La inversión de los recursos financieros por parte del CONCyTEA para proyectos, investigaciones específicas, otorgamiento de becas y cualquier otro apoyo de carácter económico que proporcione, estará sujeta a la celebración de un contrato o convenio y en su caso a las siguientes condiciones:
+(DEROGADO, POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY QUE CREA EL INSTITUTO PARA EL DESARROLLO DE LA SOCIEDAD DEL CONOCIMIENTO DEL ESTADO DE AGUASCALlENTES, P.O. 31 DE ENERO DE 2011)
 
-I. El CONCyTEA vigilará la debida aplicación y adecuado aprovechamiento de los recursos que proporcione;
-
-II. Los beneficiarios rendirán al CONCyTEA los informes periódicos que establezcan sobre el desarrollo y resultado de sus trabajos; y
-
-III. Los derechos de propiedad intelectual e industrial respecto de los resultados obtenidos por las personas físicas o morales que reciban apoyo del CONCyTEA, serán materia de regulación especifica en los contratos o convenios que al efecto se celebren, en los que se protegerán los intereses del CONCyTEA, los investigadores y tecnólogos.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY QUE CREA EL INSTITUTO PARA EL DESARROLLO DE LA SOCIEDAD DEL CONOCIMIENTO DEL ESTADO DE AGUASCALlENTES, P.O. 31 DE ENERO DE 2011)</small>
 
 ### CAPITULO SEGUNDO. Del Objeto, las Atribuciones y Funciones
 
 ###### Artículo 10.
 
-El Consejo de Ciencia y Tecnología del Estado de Aguascalientes tiene por objeto:
-
-I. Dictar las políticas gubernamentales en cuanto a los apoyos para el desarrollo y difusión de la ciencia y la tecnología que estén enfocados a elevar el nivel de vida, a combatir la desigualdad humana y a preservar los recursos naturales;
-
-II. Planear, organizar, controlar, evaluar, conducir y coordinar la política general que oriente el desarrollo sustentable del Estado a través de la ciencia y la tecnología, impulsando acciones de fomento y colaboración entre las instituciones que integran el Sistema de Ciencia y Tecnología del Estado;
-
-III. Definir, operar, coordinar las acciones y programas de los sujetos que participan en los objetivos del Estado en la materia, mediante la generación, intercambio, adaptación, selección, divulgación, transferencia y aplicación de conocimientos científicos y tecnológicos y la formación de especialistas; y
-
-IV. Vincular el trabajo de investigación y desarrollo tecnológico entre las instituciones de educación superior, los centros de investigación y el sector productivo para que respondan a los problemas y necesidades del Estado.
+(DEROGADO, POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY QUE CREA EL INSTITUTO PARA EL DESARROLLO DE LA SOCIEDAD DEL CONOCIMIENTO DEL ESTADO DE AGUASCALlENTES, P.O. 31 DE ENERO DE 2011)
 
 ###### Artículo 11.
 
-El CONCyTEA tendrá las siguientes atribuciones:
-
-I. Dictar las políticas de fomento a la ciencia y al desarrollo tecnológico en el Estado;
-
-II. Promover y fomentar la cultura científica y tecnológica en el Estado;
-
-III. Desarrollar estrategias de vinculación entre los sectores productivo, educativo y de investigación;
-
-IV. Incrementar la participación del Estado en la promoción, uso y difusión de las herramientas científicas y tecnológicas;
-
-V. Apoyar la creación y desarrollo de los centros de investigación científica y tecnológica;
-
-VI. Apoyar financieramente las actividades científicas y tecnológicas de las instituciones de ciencia y tecnología;
-
-VII. Coordinar las actividades científicas y tecnológicas entre los organismos e instituciones públicas o privadas en el Estado de Aguascalientes;
-
-VIII. Asesorar y auxiliar al titular del Poder Ejecutivo en la planeación, dirección, organización, instrumentación, ejecución, seguimiento, evaluación, difusión, promoción, educación y formación de la política y estrategias en materia de ciencia y tecnología en el Estado;
-
-IX. Respetar íntegramente los principios establecidos en el Artículo 5° de este ordenamiento;
-
-X. Propiciar la divulgación de la ciencia y desarrollo tecnológico a través de publicaciones, revistas, artículos, periódicos, libros, en medios masivos de comunicación, a fin de contribuir a la formación de una cultura que valoré la aportación de la ciencia y la tecnología a la sociedad;
-
-XI. Promover la formación de recursos humanos, perfeccionar los mecanismos de evaluación de los programas de recursos humanos en función de los resultados obtenidos, continuar, reforzar, los apoyos otorgados, del más alto nivel para la investigación científica y desarrollo tecnológico, a través del fortalecimiento de los postgrados existentes en el Estado y el apoyo a la creación de otros en áreas, temas y disciplinas que sean identificadas como necesarias; y
-
-XII. Celebrar convenios con instituciones públicas y privadas, nacionales o internacionales, que permita a los investigadores mantenerse actualizados en áreas prioritarias, para la formación de recursos humanos altamente calificados.
+(DEROGADO, POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY QUE CREA EL INSTITUTO PARA EL DESARROLLO DE LA SOCIEDAD DEL CONOCIMIENTO DEL ESTADO DE AGUASCALlENTES, P.O. 31 DE ENERO DE 2011)
 
 ###### Artículo 12.
 
-El CONCyTEA tendrá como funciones:
+(DEROGADO, POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY QUE CREA EL INSTITUTO PARA EL DESARROLLO DE LA SOCIEDAD DEL CONOCIMIENTO DEL ESTADO DE AGUASCALlENTES, P.O. 31 DE ENERO DE 2011)
 
-I. Elaborar el proyecto del Plan Estatal de Ciencia y Tecnología;
-
-II. Participar en la planeación, instrumentación, ejecución, seguimiento, evaluación, difusión, educación y formación de la política y estrategias en materia de ciencia y tecnología en el Estado, su vinculación con el desarrollo nacional y sus relaciones con el exterior;
-
-III. Gestionar ante el titular del Poder Ejecutivo a efecto de que se establezca en el Plan Estatal de Desarrollo las políticas, instrumentos, mecanismos y programas relativos al fomento de la ciencia y la tecnología en el Estado;
-
-IV. Ser órgano de consulta para las dependencias del Poder Ejecutivo del Estado, Organismos Públicos Descentralizados y Municipios, principalmente en materia de inversiones o autorización de recursos a proyectos de investigación y/o desarrollo tecnológico;
-
-V. Celebrar convenios, enlaces, intercambios, trabajo en equipo con la Federación, Estados, Municipios, Organismos Regionales e Internacionales, personas físicas o morales, públicas o privadas, para el cumplimiento de su objeto y al ejercicio de sus atribuciones y funciones;
-
-VI. Orientar a las dependencias del Poder Ejecutivo del Estado, Organismos Públicos Descentralizados y los Municipios, personas morales y físicas en asuntos científicos y tecnológicos de acuerdo con los convenios suscritos en cada caso;
-
-VII. Ejecutar las políticas y programas de ciencia y tecnología que se le sean solicitados por el Gobernador Constitucional del Estado o sean aprobados por su Consejo Directivo;
-
-VIII. Coordinar, supervisar, continuar, informar y concertar programa de vinculación, investigación, formación y capacitación entre las instituciones de investigación y educación superior, así como de éstas con el Estado y los usuarios;
-
-IX. Fomentar y fortalecer la investigación básica, la aplicada y aquella relativa al desarrollo tecnológico;
-
-X. Financiar, con recursos propios o de otras fuentes, la realización de investigaciones o proyectos específicos de desarrollo tecnológico;
-
-XI. Asesorar y apoyar la formación, desarrollo, capacitación de cuadros técnicos especializados, así como las instituciones de educación superior, los centros de investigación estatales, las empresas del sector público y privado, las personas físicas que se dediquen a la realización de proyectos de impacto social como prioritario y programas específicos de ciencia y tecnología para que obtengan financiamiento público o privado;
-
-XII. Promover la creación de infraestructura de nuevos institutos de investigación y desarrollo tecnológico, así como la constitución y desarrollo de las empresas que empleen tecnologías estatales, nacionales e internacionales;
-
-XIII. Manejar una red de enlace con los centros de investigación y las empresas, estableciendo programas de vinculación entre los sectores empresarial, educativo y de investigación, así como el promover y apoyar los programas de investigación en las empresas instaladas en el Estado;
-
-XIV. Mantener actualizada la información estadística relativa a la ciencia y la tecnología en el Estado, así como integrar, promover y difundir estudios sobre ciencia y tecnología;
-
-XV. Participar en la elaboración de planes y programas de estudio (sic) educativos que tengan por objeto la creación, fomento y desarrollo de la cultura científica y tecnológica entre los alumnos de los distintos niveles, tipos y modalidades del sistema educativo estatal;
-
-XVI. Participar en la convocatoria, supervisión, elaboración, resultado, evaluación, selección y otorgamiento de becas de postgrado a través de sus diferentes órganos de gobierno;
-
-XVII. Establecer, estrechar y mantener comunicación con el personal o los becarios que se encuentren en el extranjero bajo sus auspicios, a fin de que incorporen a las instituciones de origen conforme al convenio correspondiente;
-
-XVIII. Establecer y promover un Registro Estatal de Investigadores, REICyTEA, de conformidad con el apartado respectivo de la presente Ley;
-
-XIX. Fomentar programas de intercambio de profesores, investigadores y técnicos nacionales y extranjeros, para el desarrollo de proyectos estatales de investigación y desarrollo tecnológico;
-
-XX. Promover programas, sistemas de especialización y actualización;
-
-XXI. Desarrollar un programa de divulgación así como apoyar y fomentar la creación de publicaciones en materia de ciencia y tecnología;
-
-XXII. Promover el establecimiento de premios y reconocimientos en ciencia y tecnología;
-
-XXIII. Participar en los organismos regionales, nacionales e internacionales;
-
-XXIV. Coordinar sus actividades con el Consejo Nacional de Ciencia y Tecnología y con instituciones similares al CONCyTEA, tanto nacionales como internacionales, de conformidad a los ordenamientos en la materia;
-
-XXV. Promover la integración de una bolsa de trabajo, así como promover esquemas para obtener mejores ingresos e incentivos a sus actividades; y
-
-XXVI. Desarrollar las actividades que le son inherentes a su objeto y el cumplimiento de sus fines, así como ejercitar las demás funciones que le fijen las leyes y reglamentos estatales.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY QUE CREA EL INSTITUTO PARA EL DESARROLLO DE LA SOCIEDAD DEL CONOCIMIENTO DEL ESTADO DE AGUASCALlENTES, P.O. 31 DE ENERO DE 2011)</small>
 
 ### CAPITULO TERCERO. De la Integración, Funcionamiento y Atribuciones del Consejo Directivo
 
 ###### Artículo 13.
 
-El gobierno y administración del Consejo de Ciencia y Tecnología del Estado de Aguascalientes estará a cargo de un Consejo Directivo, un Consejo Técnico y un Director General.
-
-El Consejo Directivo será la máxima autoridad y estará integrado por los siguientes miembros:
-
-I. Un presidente, que será el Gobernador del Estado;
-
-II. Consejeros, que serán:
-
-a) El titular de la Secretaría de Desarrollo Económico;
-
-b) El titular del Instituto de Educación de Aguascalientes;
-
-c) El titular de la Secretaría de Finanzas; y.
-
-d) El titular de la Secretaria de Salud del Estado de Aguascalientes.
-
-III. También serán considerados Consejeros, a invitación del titular del Poder Ejecutivo:
-
-1. El representante del CONACYT;
-
-2. El representante de la Secretaria de Educación Pública del Estado;
-
-3. El Director de un centro de investigación radicado en el Estado; que cuente con investigadores inscritos en el Registro Estatal de Investigadores que prevé la presente Ley; dicho miembro será designado a propuesta del Director General del CONCyTEA;
-
-4. El representante de los investigadores registrados en el REICyTEA;
-
-5. El representante de organismos empresariales del Estado; y
-
-6. El representante de la Comisión Estatal de Educación Superior del Estado;
-
-Los Consejeros tendrán derecho a voz y voto y por cada uno de ellos se deberá nombrar a un suplente debidamente registrado y acreditado ante el Consejo Directivo.
-
-La toma de decisiones y la mecánica del desarrollo de los asuntos, competencia del Consejo Directivo serán determinadas en el reglamento respectivo, teniendo en todo caso voto de calidad el Presidente del Consejo Directivo.
+(DEROGADO, POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY QUE CREA EL INSTITUTO PARA EL DESARROLLO DE LA SOCIEDAD DEL CONOCIMIENTO DEL ESTADO DE AGUASCALlENTES, P.O. 31 DE ENERO DE 2011)
 
 ###### Artículo 14.
 
-Los cargos de los miembros del Consejo Directivo serán honoríficos.
+(DEROGADO, POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY QUE CREA EL INSTITUTO PARA EL DESARROLLO DE LA SOCIEDAD DEL CONOCIMIENTO DEL ESTADO DE AGUASCALlENTES, P.O. 31 DE ENERO DE 2011)
 
 ###### Artículo 15.
 
-Son facultades y obligaciones del Consejo Directivo:
-
-I. Definir las políticas de apoyo que dará el Gobierno del Estado al desarrollo de la ciencia y la tecnología;
-
-II. Establecer los mecanismos de evaluación, resultado y seguimiento de los programas y actividades que realice el CONCyTEA;
-
-III. Ejercer el gobierno y dirección del CONCyTEA;
-
-IV. Ejercer las atribuciones y funciones que le concede esta Ley, en cumplimiento del objeto del CONCyTEA;
-
-V. Aprobar, dar seguimiento y evaluar el plan anual de trabajo presentado por el Director General;
-
-VI. Aprobar el presupuesto correspondiente al plan anual de trabajo para su integración a la Iniciativa de Ley de Ingresos del Estado de Aguascalientes y Presupuesto de Egresos del Estado de Aguascalientes;
-
-VII. Conocer sobre el avance, detectar la desviación y resultado de los programas y proyectos;
-
-VIII. Revisar, analizar, discutir y en su caso aprobar el informe cuatrimestral de actividades presentado por el Director General del CONCyTEA, así como el plan operativo anual, evaluando avances y resultados;
-
-IX. Aprobar la contratación de préstamos para el financiamiento complementario del CONCyTEA o la operación de programas especiales, debiendo observar y dar cumplimiento a las disposiciones legales y reglamentarias vigentes al momento de la celebración del empréstito, así como los lineamientos que determinen las autoridades competentes en materia de finanzas y crédito a nivel estatal y nacional; dichos préstamos no podrán exceder del 30% del patrimonio del CONCyTEA y deberán ser aprobados por unanimidad de los asistentes a la sesión ordinaria o extraordinaria en que se analice;
-
-X. Revisar, aprobar y modificar, en su caso la estructura orgánica que establezca el reglamento respectivo;
-
-XI. Establecer y delegar las facultades específicas a los órganos internos permanentes o transitorios, en los términos establecidos por la presente Ley y su reglamento;
-
-XII. Proponer al Ejecutivo del Estado los proyectos de reforma a esta Ley, y en su caso, la expedición de los reglamentos respectivos;
-
-XIII. Acordar, con sujeción a las disposiciones legales vigentes, lo referente a donativos y pagos extraordinarios, y verificar su cumplimiento;
-
-XIV. Aprobar, de acuerdo con los ordenamientos aplicables, las políticas, bases y programas generales que regulen los convenios y contratos que suscriba el CONCyTEA con terceros;
-
-XV. Aprobar la fijación de sueldos y prestaciones de los funcionarios y servidores del CONCyTEA. De acuerdo a los lineamientos marcados por la Ley reglamentaria del apartado A del Artículo 123 Constitucional;
-
-XVI. Establecer de acuerdo con la normatividad aplicable las normas y bases generales para la recepción de los servicios, adquisición, arrendamiento y enajenación de bienes muebles e inmuebles;
-
-XVII. Vigilar el cumplimiento de los criterios de austeridad, racionalidad y disciplina del gasto público aplicables al CONCyTEA; y
-
-XVIII. Las demás que le sean conferidas por esta Ley y otros ordenamientos aplicables.
+(DEROGADO, POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY QUE CREA EL INSTITUTO PARA EL DESARROLLO DE LA SOCIEDAD DEL CONOCIMIENTO DEL ESTADO DE AGUASCALlENTES, P.O. 31 DE ENERO DE 2011)
 
 ###### Artículo 16.
 
-Son obligaciones de los integrantes del Consejo Directivo:
-
-I. Asistir puntualmente a las sesiones ordinarias y extraordinarias a las que se convoque;
-
-II. Participar en las comisiones a las que se les designe;
-
-III. Discutir y en su caso aprobar los asuntos, planes, programas que sean presentados en las sesiones;
-
-IV. Tomar decisiones y medidas que en cada caso se requieran a efecto de que el CONCyTEA cumpla con sus objetivos; y
-
-V. Las demás que determine el pleno del Consejo Directivo.
+(DEROGADO, POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY QUE CREA EL INSTITUTO PARA EL DESARROLLO DE LA SOCIEDAD DEL CONOCIMIENTO DEL ESTADO DE AGUASCALlENTES, P.O. 31 DE ENERO DE 2011)
 
 ###### Artículo 17.
 
-El Presidente del Consejo Directivo tendrá las siguientes atribuciones:
+(DEROGADO, POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY QUE CREA EL INSTITUTO PARA EL DESARROLLO DE LA SOCIEDAD DEL CONOCIMIENTO DEL ESTADO DE AGUASCALlENTES, P.O. 31 DE ENERO DE 2011)
 
-I. Presidir las sesiones del Consejo Directivo;
-
-II. Designar a los miembros del Consejo Directivo y Técnico del CONCyTEA que señale la Ley;
-
-III. Nombrar al Director General del CONCyTEA; y
-
-IV. Las demás que le confieran las disposiciones legales aplicables y los reglamentos respectivos.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY QUE CREA EL INSTITUTO PARA EL DESARROLLO DE LA SOCIEDAD DEL CONOCIMIENTO DEL ESTADO DE AGUASCALlENTES, P.O. 31 DE ENERO DE 2011)</small>
 
 ### CAPITULO CUARTO. De la Integración, Funcionamiento y Atribuciones del Consejo Técnico
 
 ###### Artículo 18.
 
-El Consejo Técnico estará integrado por:
-
-I. Un Presidente que será el Director General del Consejo de Ciencia y Tecnología del Estado de Aguascalientes;
-
-II. Cinco personas distinguidas con experiencia en actividades de desarrollo científico, tecnológico y de carácter empresarial designadas por el C. Gobernador del Estado; quienes durarán en su encargo seis años, de conformidad con el Artículo Quinto Transitorio; y
-
-III. Un Comisario propietario o suplente, comisionado por la Contraloría General del Estado, quien tendrá voz pero no voto.
+(DEROGADO, POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY QUE CREA EL INSTITUTO PARA EL DESARROLLO DE LA SOCIEDAD DEL CONOCIMIENTO DEL ESTADO DE AGUASCALlENTES, P.O. 31 DE ENERO DE 2011)
 
 ###### Artículo 19.
 
-Las funciones del Consejo Técnico son:
-
-l. Apoyar las actividades de planeación estratégica para el desarrollo del Consejo de Ciencia y Tecnología del Estado de Aguascalientes, en particular el diseño de una propuesta de Plan Estatal de Ciencia y Tecnología, identificando objetivos y metas especificas en funciones sustantivas, tales como vinculación, difusión, formación de recursos humanos y de colaboración interinstitucional;
-
-II. Asesorar, impulsar y reforzar en la elaboración de los programas de investigación científica y tecnológica vinculados al desarrollo económico, cultural, educativo y social, procurando la más amplia participación de las instituciones involucradas en el desarrollo de la ciencia y la tecnología;
-
-III. Asesorar, proponer y sugerir en la vinculación de la coordinación interinstitucional de centros de investigación para lograr la optimización de recursos en la generación y desarrollo de proyectos comunes;
-
-IV. Asesorar en la vinculación permanente entre investigadores, instituciones y los sectores social, público y privado para lograr que los proyectos científicos y tecnológicos respondan a las exigencias del Estado y la región para evaluar la trayectoria creando un entorno favorable para el desarrollo;
-
-V. Asesorar para la creación y consolidación de centros de investigación en áreas estratégicas, definidas éstas en el Plan Estatal de Desarrollo;
-
-VI. Asesorar en la promoción y difusión de las actividades de divulgación científica y tecnológica a través de publicaciones, en revistas, libros, periódicos científicos y medios masivos de comunicación;
-
-VII. Asesorar sobre el dictamen de los proyectos de investigación, desarrollo tecnológico e innovación presentados por la Dirección General;
-
-VIII. Decidir sobre la asignación de recursos económicos a los proyectos específicos presentados por la Dirección General;
-
-IX. Dar seguimiento a los proyectos apoyados por el CONCyTEA a partir de los informes presentados por los investigadores y tecnólogos que los desarrollan;
-
-X. Informar, al Consejo Directivo de sus actividades, por conducto del Director General; y
-
-XI. Las demás que sean requeridas por el Consejo Directivo.
+(DEROGADO, POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY QUE CREA EL INSTITUTO PARA EL DESARROLLO DE LA SOCIEDAD DEL CONOCIMIENTO DEL ESTADO DE AGUASCALlENTES, P.O. 31 DE ENERO DE 2011)
 
 ###### Artículo 20.
 
-El Consejo Técnico celebrará sesiones ordinarias trimestrales y extraordinarias cuando sea necesario, convocando con una anticipación mínima de 24 horas. La mecánica del desarrollo de los asuntos competentes al Consejo Técnico será determinada en el reglamento respectivo, teniendo en todo caso voto de calidad el Presidente del Consejo Técnico.
+(DEROGADO, POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY QUE CREA EL INSTITUTO PARA EL DESARROLLO DE LA SOCIEDAD DEL CONOCIMIENTO DEL ESTADO DE AGUASCALlENTES, P.O. 31 DE ENERO DE 2011)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY QUE CREA EL INSTITUTO PARA EL DESARROLLO DE LA SOCIEDAD DEL CONOCIMIENTO DEL ESTADO DE AGUASCALlENTES, P.O. 31 DE ENERO DE 2011)</small>
 
 ### CAPITULO QUINTO. De la Integración y Funciones de la Dirección General
 
 ###### Artículo 21.
 
-La Dirección General del CONCyTEA estará conformada por un Director General y la estructura orgánica que sea aprobada por el Consejo Directivo.
+(DEROGADO, POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY QUE CREA EL INSTITUTO PARA EL DESARROLLO DE LA SOCIEDAD DEL CONOCIMIENTO DEL ESTADO DE AGUASCALlENTES, P.O. 31 DE ENERO DE 2011)
 
 ###### Artículo 22.
 
-Para desempeñar el cargo de Director General se requiere:
-
-I. Ser ciudadano mexicano en ejercicio de sus derechos y tener domicilio en el Estado de Aguascalientes;
-
-II. Contar con título profesional de nivel licenciatura, preferentemente estudios de postgrado y trabajo académico, científico, tecnológico y/o directivo de por lo menos cinco años en alguna institución educativa, de investigación, desarrollo tecnológico o empresa y/o en el servicio publico;
-
-III. No desempeñar ningún cargo o empleo en la Administración Pública a la fecha de su nombramiento, salvo los académicos o docentes, así como los relacionados con la investigación y el desarrollo tecnológico en las áreas de la ciencia y la tecnología; y
-
-IV. No encontrarse en alguno de los impedimentos que señalan las Fracciones II, III, IV y V del Artículo 12 de la Ley de Control de Entidades Paraestatales del Estado de Aguascalientes.
+(DEROGADO, POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY QUE CREA EL INSTITUTO PARA EL DESARROLLO DE LA SOCIEDAD DEL CONOCIMIENTO DEL ESTADO DE AGUASCALlENTES, P.O. 31 DE ENERO DE 2011)
 
 ###### Artículo 23.
 
-Las funciones del Director General serán las siguientes:
-
-I. las establecidas en los Artículos 15 Y 42 de la ley de Control de Entidades Paraestatales del Estado de Aguascalientes;
-
-II. Representar legalmente al CONCyTEA;
-
-III. Dar cumplimiento a las disposiciones del Consejo Directivo;
-
-IV. Definir y realizar acciones especificas en las áreas de vinculación, difusión, formación de recursos humanos, informática, colaboración institucional y otras;
-
-V. Gestionar y obtener recursos para el financiamiento de los programas y proyectos de investigación y desarrollo tecnológico, así como para la formación de recursos humanos altamente calificados;
-
-VI. Celebrar y otorgar toda clase de actos, instrumentos jurídicos y documentos inherentes a su objeto;
-
-VII. Designar al personal administrativo y operativo del organismo;
-
-VIII. Elaborar el plan de trabajo anual y presentarlo para su aprobación al Consejo Directivo;
-
-IX. Elaborar el presupuesto correspondiente al plan de trabajo anual y presentarlo para su aprobación;
-
-X. Elaborar el presupuesto anual de ingresos y egresos del organismo y presentarlo para su aprobación al Consejo Directivo;
-
-XI. Establecer redes de intercambio de información y bancos de datos sobre ciencia y tecnología, y en particular sobre los proyectos emprendidos;
-
-XII. Administrar y asegurar el uso adecuado de los recursos humanos, materiales y financieros del organismo;
-
-XIII. Previa autorización del Consejo Técnico, canalizar los recursos necesarios a los proyectos aprobados hacia las distintas instituciones de investigación y desarrollo tecnológico;
-
-XIV. Convocar, invitar a los sectores académicos, empresariales y sociales de los municipios a identificar proyectos de investigación y desarrollo tecnológico;
-
-XV. Hacer acopio de los proyectos propuestos y presentarlos al Consejo Técnico para que sean dictaminados por expertos;
-
-XVI. Encabezar el seguimiento de los proyectos aprobados y presentar informes periódicos sobre los mismos al Consejo Técnico, e informes definitivos al Consejo Directivo;
-
-XVII. Representar al CONCyTEA en eventos relativos a la ciencia y la tecnología dentro y fuera del Estado;
-
-XVIII. Convocar a las asambleas de los Consejos Directivo y Técnico; y
-
-XIX. Las demás que le confiera esta ley, sin detrimento de aquellas que acuerde el Consejo Directivo.
+(DEROGADO, POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY QUE CREA EL INSTITUTO PARA EL DESARROLLO DE LA SOCIEDAD DEL CONOCIMIENTO DEL ESTADO DE AGUASCALlENTES, P.O. 31 DE ENERO DE 2011)
 
 ###### Artículo 24.
 
-El Director General del CONCyTEA contará con el personal administrativo necesario para desempeñar sus funciones y que permita el organigrama autorizado por el Consejo Directivo, así como el presupuesto del Organismo Público Descentralizado.
+(DEROGADO, POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY QUE CREA EL INSTITUTO PARA EL DESARROLLO DE LA SOCIEDAD DEL CONOCIMIENTO DEL ESTADO DE AGUASCALlENTES, P.O. 31 DE ENERO DE 2011)
+
+> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY QUE CREA EL INSTITUTO PARA EL DESARROLLO DE LA SOCIEDAD DEL CONOCIMIENTO DEL ESTADO DE AGUASCALlENTES, P.O. 31 DE ENERO DE 2011)</small>
 
 ### CAPITULO SEXTO. Del Organo de Vigilancia
 
 ###### Artículo 25.
 
-El órgano de vigilancia del CONCyTEA será un comisario propietario y un suplente comisionado por la Contraloría General del Estado de Aguascalientes y la Secretaria de Gestión e Innovación del Estado de Aguascalientes, en términos de la Ley para el Control de Entidades Paraestatales del Estado de Aguascalientes.
-
-Para el cumplimiento de las funciones del comisario, el Consejo Directivo, el Consejo Técnico y el Director General del CONCyTEA proporcionarán la información que se les solicite.
+(DEROGADO, POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY QUE CREA EL INSTITUTO PARA EL DESARROLLO DE LA SOCIEDAD DEL CONOCIMIENTO DEL ESTADO DE AGUASCALlENTES, P.O. 31 DE ENERO DE 2011)
 
 ## TITULO TERCERO. DEL FINANCIAMIENTO Y DE LOS FONDOS
 
@@ -778,3 +528,47 @@ Luis Armando Reynoso Femat.
 El SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Jorge Mauricio Martínez Estebanez.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 31 DE ENERO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se deroga el Título Segundo de la ley de Ciencia y Tecnología del Estado de Aguascalientes, publicada en el Periódico Oficial del Estado de fecha 14 de mayo de 2007, por virtud del cual se crea el Organismo Público Descentralizado denominado Consejo de Ciencia y Tecnología del Estado de Aguascalientes, y los ordenamientos que de él deriven, y se extingue el citado Organismo.
+
+###### ARTÍCULO TERCERO.
+
+El personal así como los recursos financieros y materiales del extinto Consejo de Ciencia y Tecnología del Estado de Aguascalientes, existentes a la entrada en vigencia de la presente Ley, se transferirán al Instituto para el Desarrollo de la Sociedad del Conocimiento.
+
+###### ARTÍCULO CUARTO.
+
+Las obligaciones laborales del extinto Consejo de Ciencia y Tecnología serán asumidas por el Instituto para el Desarrollo de la Sociedad del Conocimiento, respetando los derechos de los trabajadores, en términos de las disposiciones aplicables.
+
+###### ARTÍCULO QUINTO.
+
+Los compromisos, convenios, derechos y procedimientos que hubiere contraído, adquirido o desarrollado el extinto Consejo de Ciencia y Tecnología, así como las atribuciones que las leyes le asignen, serán asumidos inmediatamente y se entenderán conferidos al Instituto para el Desarrollo de la Sociedad del Conocimiento.
+
+###### ARTÍCULO SEXTO.
+
+Se derogan todas las disposiciones jurídicas y administrativas que se opongan a la presente ley, de igualo menor jerarquía.
+
+###### ARTÍCULO SÉPTIMO.
+
+A partir de la entrada en vigencia de la presente ley, todas las referencias que se hagan al Consejo de Ciencia y Tecnología en ordenamientos jurídicos, decretos, reglamentos, acuerdos, convenios y demás disposiciones jurídicas, se entenderán hechas al Instituto para el Desarrollo de la Sociedad del Conocimiento del Estado de Aguascalientes.
+
+###### ARTÍCULO OCTAVO.
+
+El Gobernador del Estado designará al Director General por esta única ocasión, y deberá convocar a la instalación de la Junta de Gobierno dentro de los 10 días siguientes a la entrada en vigencia de la presente Ley. En la sesión de Instalación los integrantes de la Junta de Gobierno tomarán los acuerdos necesarios para la puesta en marcha del Instituto.
+
+###### ARTÍCULO NOVENO.
+
+La Junta de Gobierno deberá emitir el Estatuto Intimo del Instituto, dentro de los 30 días siguientes a la entrada en vigencia de la presente ley, mientras tanto, el Director General resolverá los asuntos que al efecto se presenten.
+
+###### ARTICULO DÉCIMO.
+
+El Titular del Poder Ejecutivo deberá realizar la convocatoria y emitir las invitaciones correspondientes a efecto de que la integración del Consejo Consultivo se realice dentro de los 60 días siguientes a la entrada en vigencia de la presente Ley.
