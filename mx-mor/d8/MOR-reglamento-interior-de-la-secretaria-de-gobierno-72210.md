@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-de-la-secretaria-de-gobierno-72210"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-01-20"
-last_updated: "2010-05-19"
+last_updated: "2011-01-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72210&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE GOBIERNO DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE MAYO DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE GOBIERNO, PUBLICADO EN EL P.O. DE 31 DE ENERO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 20 de enero de 2010.
 
@@ -946,3 +948,11 @@ La Secretaría de Gobierno, con la intervención que corresponda de las Secretar
 ###### ARTÍCULO CUARTO.
 
 La Secretaría de Gobierno deberá ajustar sus Manuales de Organización y de Políticas y Procedimientos a las disposiciones del presente Decreto, dentro de los ciento veinte días hábiles siguientes a la entrada en vigor del mismo.
+
+P.O. 31 DE ENERO DE 2011.
+
+PRIMERO.- El presente Reglamento iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Secretaría de Gobierno, publicado en el Periódico Oficial 4772, de fecha veinte de enero de 2010, así como se derogan todas las disposiciones administrativas que se opongan al presente Reglamento.
+
+TERCERO.- Los manuales de las unidades administrativas de la Secretaría de Gobierno deberán actualizarse en un plazo máximo de noventa días hábiles a partir de la publicación del presente Reglamento.
