@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-de-adquisiciones-arrendamientos-y-servicios-del-5938
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-02-04"
-last_updated: "2010-12-13"
+last_updated: "2011-01-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59387&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ state: "AGU"
 
 REGLAMENTO DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL MUNICIPIO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE DICIEMBRE DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO TRANSITORIO DEL DECRETO APROBADO POR EL HONORABLE AYUNTAMIENTO 2011-2013, DEL MUNICIPIO DE AGUASCALIENTES, AGUASCALIENTES, PUBLICADO EN EL P.O. DE 31 DE ENERO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 4 de febrero de 2008.
 
@@ -3598,3 +3600,7 @@ P.O. 13 DE DICIEMBRE DE 2010.
 ###### ARTICULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 31 DE ENERO DE 2011
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguinte de su publicación.
