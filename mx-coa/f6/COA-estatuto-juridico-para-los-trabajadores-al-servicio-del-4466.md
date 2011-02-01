@@ -4,7 +4,7 @@ identifier: "COA-estatuto-juridico-para-los-trabajadores-al-servicio-del-4466"
 country: "mx"
 rank: "estatuto"
 publication_date: "1972-10-21"
-last_updated: "2010-08-06"
+last_updated: "2011-02-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4466&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 ESTATUTO JURIDICO PARA LOS TRABAJADORES AL SERVICIO DEL ESTADO DE COAHUILA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE AGOSTO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE FEBRERO DE 2011.
 
 Estatuto publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el sábado 21 de octubre de 1972.
 
@@ -382,6 +382,14 @@ IV.- En el período de lactancia tendrán dos reposos extraordinarios por día, 
 V.- Durante los períodos de descanso a que se refiere este artículo, percibirán su salario íntegro;
 
 VI.- Los períodos pre y post-natales se computarán en su antigüedad, para los efectos del escalafón.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2011)</small>
+
+ARTICULO 32 bis.- La mujer trabajadora gozará de un día de licencia al año, para realizarse los exámenes médicos necesarios para la prevención y/o detección del cáncer, para lo cual deberá dar aviso con una semana de anticipación sobre la cita al ginecólogo.
+
+Una vez que se hayan realizado los exámenes médicos correspondientes, la mujer trabajadora deberá presentar el comprobante clínico que lo acredite.
+
+Derivado de la cita mencionada en el párrafo primero, se podrá aumentar un día más de licencia al año, en caso de que el ginecólogo lo considere necesario, para lo cual deberá exhibir la carta médica con la justificación correspondiente y el comprobante médico que lo acredite.
 
 ###### ARTICULO 33.
 
@@ -2140,3 +2148,7 @@ P.O. 6 DE AGOSTO DE 2010.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 1 DE FEBRERO DE 2011.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
