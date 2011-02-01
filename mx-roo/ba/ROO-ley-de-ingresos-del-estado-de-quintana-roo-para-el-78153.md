@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-ingresos-del-estado-de-quintana-roo-para-el-78153"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2010-12-17"
-last_updated: "2010-12-17"
+last_updated: "2011-02-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78153&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE INGRESOS DEL ESTADO DE QUINTANA ROO, PARA EL EJERCICIO FISCAL 2011
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE FEBRERO DE 2011.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el viernes 17 de diciembre de 2010.
 
@@ -277,7 +277,9 @@ de los municipios. 592,441,393
 
 las entidades federativas. 232,879,112
 
-VII.- Ingresos Extraordinarios 1,238,617,691
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE FEBRERO DE 2011)</small>
+
+VII.- Ingresos Extraordinarios $2,538,617,691.00
 
 1.- Aportaciones especiales. 1,025,716,972
 
@@ -285,7 +287,9 @@ VII.- Ingresos Extraordinarios 1,238,617,691
 
 3.- Ingresos para universidades del Estado. 212,900,719
 
-4.- Empréstitos. 0
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2011)</small>
+
+4.- Empréstitos. $1,300,000,000.00
 
 5.- Apoyos extraordinarios. 0
 
@@ -293,7 +297,9 @@ VII.- Ingresos Extraordinarios 1,238,617,691
 
 de las Entidades Federativas. 0
 
-GRAN TOTAL DE LOS INGRESOS DEL ESTADO 15,557,208,210
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2011)</small>
+
+GRAN TOTAL DE LOS INGRESOS DEL ESTADO $16,857,208,210.00
 
 ###### ARTÍCULO 2º.
 
@@ -310,6 +316,12 @@ La Secretaría de Hacienda del Gobierno del Estado podrá administrar en forma t
 ###### ARTÍCULO 5º.
 
 Los sujetos obligados al pago de contribuciones estatales salvo por autorización expresa del Titular del Poder Ejecutivo o del Secretario de Hacienda, estarán exentos de su cumplimiento total o parcial en términos del acuerdo o documento oficial que al respecto se emita.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2011)</small>
+
+###### ARTÍCULO 6º.
+
+El monto de los Ingresos Extraordinarios reflejados en el Artículo 1° fracción VII, Numeral 4, de esta Ley, asciende a la cantidad de $1,300,000,000.00 (Mil Trescientos Millones de Pesos 00/100 M.N.); que será aplicado en los términos que establece el Decreto Número 308, de fecha 20 de octubre de 2010, publicado en el Periódico Oficial del Estado de Quintana Roo, Número 85 Extraordinario, Tomo III, Séptima. Época.
 
 ARTÍCULOS TRANSITORIOS:
 
@@ -422,3 +434,15 @@ LIC. EDUARDO OVANDO MARTINEZ
 EL SECRETARIO ESTATAL DE HACIENDA DEL ESTADO DE QUINTANA ROO.
 
 C.P. GONZALO ABELARDO HERRERA CASTILLA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 1 DE FEBRERO DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TRANSITORIO:
+
+ÚNICO.- Publíquese el presente Decreto en el Periódico Oficial del Estado de Quintana Roo.
