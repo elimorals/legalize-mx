@@ -4,7 +4,7 @@ identifier: "COA-reglamento-interior-de-la-secretaria-de-educacion-y-cultura-560
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-06-12"
-last_updated: "2009-03-27"
+last_updated: "2011-02-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56019&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "COA"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE EDUCACION Y CULTURA
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE EDUCACION Y CULTURA
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE EDUCACIÓN Y CULTURA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE MARZO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2011.
 
 Reglamento publicado en la Primera Sección al Periódico Oficial del Estado de Coahuila, el martes 12 de junio de 2007.
 
@@ -148,6 +148,10 @@ e). Dirección de Servicio Comunitario
 f). Dirección de Investigación y Difusión de Instituciones de Educación Superior
 
 g). Dirección Estatal de Profesiones
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2011)</small>
+
+h) Dirección de Formación Continua y Profesionalización Docente
 
 IV. Unidades Administrativas adscritas a la Subsecretaría de Planeación Educativa:
 
@@ -993,7 +997,7 @@ X. Realizar el seguimiento y evaluación permanente de los planes y programas de
 
 XI. Participar en los estudios de promoción de categorías de los maestros de las instituciones formadoras de docentes, de acuerdo con el programa de homologación establecido y, en su caso, promover la calificación escalafonaria correspondiente a la puntuación obtenida en el proceso de homologación;
 
-XII. Coordinar y vigilar el desarrollo de los trabajos de las Unidades de la Universidad Pedagógica Nacional en la entidad en base a la normatividad vigente;
+XII. (DEROGADA, P.O. 1 DE FEBRERO DE 2011)
 
 XIII. Dar cumplimiento a los lineamientos establecidos por la Dirección General de Educación Superior para Profesionales de la Educación (DGESPE) y la Dirección General de Acreditación, Incorporación y Revalidación (DGAIR) de la autoridad federal Secretaría de Educación Pública para la validación oficial y otorgamiento de la documentación que acredite los estudios realizados;
 
@@ -1144,6 +1148,52 @@ XVII. Hacer del conocimiento de las autoridades competentes, las infracciones a 
 XVIII. Solicitar a la Coordinación General de Asuntos Jurídicos la publicación en el Periódico Oficial del Gobierno del Estado, de las resoluciones que autoricen, nieguen o cancelen el registro de los colegios de profesionistas;
 
 XIX. Acordar con su superior jerárquico inmediato, lo relativo al registro de títulos profesionales, diplomas de especialidad y grados académicos, así como la expedición de cédulas y autorizaciones personales con efectos de patente para el ejercicio profesional ante la Dirección General de Profesiones de la Subsecretaría de Educación Superior e Investigación de la Secretaría de Educación Pública; a petición de los interesados.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2011)</small>
+
+ARTÍCULO 35 bis. Corresponde a la Dirección de Formación Continua y Profesionalización Docente, a través de sus extensiones de actualización y las unidades pedagógicas en la entidad, conforme a la normatividad vigente en la materia:
+
+I. Dirigir y coordinar en forma continua y sistemática, el fortalecimiento y desarrollo de las unidades pedagógicas y los centros de actualización, con el propósito de analizar la situación del sector educativo en materia de profesionalización docente, a efecto de proceder al diseño e instrumentación de las propuestas de oferta educativa a que haya lugar;
+
+II. Formular e instrumentar políticas públicas y programas integrales para la formación continúa de docentes en servicio, en sus diferentes niveles y modalidades educativas, que respondan a las necesidades del sistema educativo estatal;
+
+III. Elaborar e implementar programas de formación continua y profesionalización dirigidos al magisterio coahuilense en servicio, atendiendo a los lineamientos y orientaciones emitidas en la materia por las autoridades correspondientes, que contribuyan al desarrollo de un ejercicio docente de calidad;
+
+IV. Informar de manera periódica el impacto y los resultados obtenidos de los programas que conformen la oferta educativa integrada por las unidades pedagógicas y los centros de actualización, dando cumplimiento a los marcos académico-administrativos de estas instituciones de profesionalización docente;
+
+V. Actualizar de manera permanente los programas de formación continua y profesionalización docente, de acuerdo a las propuestas derivadas de los procesos de innovación y las reformas educativas que se instrumenten;
+
+VI. Establecer los criterios, procedimientos e instrumentos para la evaluación y acreditación de los estudios, derivados de los programas de formación continua profesionalización docente, de conformidad con los lineamientos emitidos por las instancias correspondientes;
+
+VII. Desarrollar un proyecto de investigación que posibilite la innovación y mejoramiento de los procesos de formación y actualización docente;
+
+VIII. Establecer, en congruencia con las disposiciones federales aplicables, los lineamientos para regular el diseño y operación de los programas de formación continua;
+
+IX. Diseñar materiales de estudio para los programas de formación continua y profesionalización docente, que posibiliten mejores ambientes de aprendizaje y enseñanza para la comunidad educativa;
+
+X. Participar, conjuntamente con el personal de la Dirección, en la formulación de proyectos, reglamentos, decretos, acuerdos y demás disposiciones relacionadas con los asuntos de su competencia;
+
+XI. Promover una articulación entre las instituciones responsables de la profesionalización docente para la consolidación del propio Sistema Educativo Estatal;
+
+XII. Instrumentar un programa de difusión de los materiales editoriales, a fin de contar con un espacio propio dentro de las semanas de ciencia y tecnología, del libro y oferta educativa;
+
+XIII. Integrar el cuerpo académico de la propia Dirección, a efecto de propiciar el desarrollo profesional del personal de manera permanente, así como integrar y vincular los cuerpos académicos de las diferentes instituciones de educación superior;
+
+XIV. Promover convenios de colaboración con instituciones de educación superior e instancias afines a nivel estatal, nacional e internacional para el desarrollo de programas de formación continua y profesionalización docente;
+
+XV. Propiciar la participación de su personal en eventos de relevancia académica a nivel estatal, nacional e internacional, que coadyuven en la consolidación de su práctica profesional;
+
+XVI. Proporcionar asesoría académica a las instituciones educativas que así lo requieran, para el diseño, implementación, seguimiento y evaluación de proyectos de innovación que contribuyan a la transformación de la práctica educativa;
+
+XVII. Impulsar, coordinar, participar y evaluar los diversos programas, proyectos y acciones vinculados a la aplicación de tecnologías de la información y de la comunicación en el ámbito educativo;
+
+XVIII. Promover una cultura de formación continua mediante la organización y promoción de encuentros, foros, congresos y simposiums para el análisis y reflexión de la práctica docente propia;
+
+XIX. Difundir y aplicar la normatividad vigente en referencia a los mecanismos de estructura organizacional;
+
+XX. Revisar, registrar, legalizar y turnar al Subsecretario de Educación Superior, todos los documentos relativos a certificaciones, oficios, permisos, sanciones, cambios de personal y demás incidencias del personal adscrito a la Dirección, y
+
+XXI. Las demás atribuciones que las disposiciones legales y reglamentarias le confieran, asi como aquellas que le asigne el Titular de la Secretaría de Educación y Cultura y/o su superior jerárquico.
 
 #### SECCIÓN QUINTA (SIC). SUBSECRETARÍA DE EDUCACIÓN SUPERIOR
 
@@ -1687,7 +1737,7 @@ III. Elaborar e implementar el proceso de selección e inducción del personal, 
 
 IV. Promover, operar y supervisar las acciones de calidad relacionadas con el manejo de los recursos humanos y su aplicación.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 27 DE MARZO DE 2009)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 27 DE MARZO DE 2009)</small>
 
 #### SECCIÓN SEXTA BIS. SUBSECRETARÍA DE SERVICIOS EDUCATIVOS EN LA LAGUNA
 
@@ -1943,6 +1993,18 @@ IX. Acordar con los Directores de Nivel de las diferentes Subsecretarías y Coor
 
 X. Solicitar a la Dirección de Administración de Personal realice los trámites administrativos necesarios a fin de dar cumplimiento y ejecutar las ordenes emitidas por las autoridades jurisdiccionales relacionadas con descuentos a salarios por pensiones alimenticias.
 
+> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 2011)</small>
+
+XI. Vigilar que los funcionarios públicos de la Secretaría cumplan con lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado de Coahuila de Zaragoza;
+
+> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 2011)</small>
+
+XII. Verificar que las unidades administrativas adscritas a la Secretaría cumplan con lo establecido por las leyes, reglamentos y disposiciones que les sean aplicables, y
+
+> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 2011)</small>
+
+XIII. Atender y dar seguimiento a las denuncias y quejas que se presenten con motivo de probables irregularidades, cometidas por servidores públicos de la Secretaría e instruir los procedimientos administrativos correspondientes conforme a las disposiciones aplicables.
+
 ###### ARTÍCULO 60.
 
 Corresponde a la Dirección de Análisis y Seguimiento, previo acuerdo con el Coordinador General Jurídico:
@@ -2055,7 +2117,7 @@ VI. Fungir como punto de apoyo para las demás Dependencias de gobierno en el de
 
 VII. Ser un vínculo gestor al interior y al exterior de la Secretaría con el propósito de desarrollar las actividades y programas propios de la misma;
 
-VIII. Brindar atención a las personalidades invitadas a nuestro Estado por parte del la Secretaría;
+VIII. Brindar atención a las personalidades invitadas a nuestro Estado por parte de la Secretaría;
 
 IX. Representar al Titular de esta Dependencia cuando sea requerido;
 
@@ -2241,7 +2303,11 @@ Son órganos desconcentrados de la Secretaría:
 
 I. Centro Cultural Vito Alessio Robles;
 
-II. Instituto Estatal de Capacitación y Actualización del Magisterio.
+II. (DEROGADA, P.O. 1 DE FEBRERO DE 2011)
+
+> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 2011)</small>
+
+III. Instituto Estatal de Desarrollo Docente e Investigación Educativa.
 
 ###### ARTÍCULO 74.
 
@@ -2317,10 +2383,18 @@ ING. ISMAEL E. RAMOS FLORES
 
 (RÚBRICA)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 27 DE MARZO DE 2009.
 
 PRIMERO. Las presentes reformas entrarán en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 1 DE FEBRERO DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor al dia siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Coahuila de Zaragoza.
+
+SEGUNDO.- El Titular de la Secretaría de Educación y Cultura, asignará y distribuirá a las unidades administrativas creadas por virtud del presente Decreto, los recursos humanos y materiales necesarios para su funcionamiento, respetándose los derechos laborales adquiridos por los trabajadores.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
