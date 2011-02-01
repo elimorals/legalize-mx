@@ -4,7 +4,7 @@ identifier: "GRO-codigo-de-procedimientos-penales-para-el-estado-de-guerrero-510
 country: "mx"
 rank: "codigo"
 publication_date: "1993-02-05"
-last_updated: "2008-01-01"
+last_updated: "2011-02-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5102&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE GUERRERO, NUMERO 357
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE ENERO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE FEBRERO DE 2011.
 
 Código publicado en el Periódico Oficial del Estado de Guerrero, el viernes 5 de febrero de 1993.
 
@@ -41,11 +41,11 @@ CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE GUERRERO, NUMERO 357
 
 ### CAPITULO UNICO. ATRIBUCIONES Y FACULTADES GENERALES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE OCTUBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 1.
 
-Corresponde al Ministerio Público del Estado la averiguación previa de los delitos cometidos en esta Entidad Federativa, así como el ejercicio de la acción penal. En tal virtud, recibirá las denuncias y querellas que se presenten, realizará las investigaciones conducentes a acreditar el cuerpo del delito y la probable responsabilidad del indiciado, dictará medidas para la protección de las víctimas; resolverá o solicitará el aseguramiento de bienes e instrumentos relacionados con el delito y proveerá las medidas precautorias que estime necesarias; y, en general, realizará las consignaciones procedentes, aportará las pruebas de sus pretensiones, requerirá la aplicación de sanciones, promoverá la absoluta libertad de quienes resulten inocentes, hará las promociones e intentará los recursos pertinentes en el procedimiento judicial y vigilará el debido cumplimiento de las sentencias.
+Corresponde al Ministerio Público del Estado la averiguación previa de los delitos cometidos en esta Entidad Federativa, así como el ejercicio de la acción penal. En tal virtud, recibirá las denuncias y querellas que se presenten, realizará las investigaciones conducentes a acreditar el cuerpo del delito y la probable responsabilidad del indiciado, dictará medidas para la protección de las víctimas; resolverá o solicitará el aseguramiento de bienes e instrumentos relacionados con el delito y proveerá las medidas precautorias que estime necesarias; y, exigirá la reparación del daño desde el inicio de la averiguación previa; y, en general, realizará las consignaciones procedentes, aportará las pruebas de sus pretensiones, requerirá la aplicación de sanciones, promoverá la absoluta libertad de quienes resulten inocentes, hará las promociones e intentará los recursos pertinentes en el procedimiento judicial y vigilará el debido cumplimiento de las sentencias.
 
 En el desempeño de sus funciones de averiguación previa, el Ministerio Público dispondrá de la policía judicial, que estará bajo su autoridad y mando inmediato y que, en tal virtud, limitará su actuación a las diligencias que aquél ordene, en la forma y términos que disponga la Ley. Asimismo, el Ministerio Público se hará asistir de peritos, que gozarán de completa autonomía técnica para la emisión de sus dictámenes.
 
@@ -100,6 +100,10 @@ Los jueces de paz conocerán de los procesos que tengan como sanción:
 I.- Pena privativa de libertad, de hasta un año de prisión; o
 
 II.- Pena alternativa.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2010)</small>
+
+Asimismo, conocerán de los procesos relativos a violencia familiar donde no exista Juzgado penal, y participarán como auxiliares en los asuntos que correspondan a esta materia.
 
 ###### Artículo 11.
 
@@ -317,9 +321,11 @@ Para la notificación por estrados, las notificaciones del tribunal fijarán dia
 
 ### CAPITULO VIII. AUDIENCIAS
 
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 42.
 
-Las audiencias serán públicas, salvo que el tribunal determine otra cosa por motivos de moral o para mantener el orden. Deberán concurrir el inculpado y su defensor, así como el Ministerio Público. Cuando no concurra alguno de ellos, el tribunal diferirá la audiencia, sin perjuicio de hacer uso de las correcciones y las medidas de apremio que juzgue pertinentes. Si el ausente es el defensor designará en el acto un defensor de oficio para que intervenga en la misma audiencia o en la posterior que se determine. Cuando el inculpado estuviese impedido para concurrir a la audiencia, se negase a asistir o fuera expulsado por alterar el orden, el tribunal adoptará las medidas que juzgue adecuadas para garantizarle el derecho de comparecer, estar enterado de la marcha del proceso y ejercer su defensa.
+Las audiencias serán públicas, salvo aquellas en donde participen menores de edad y mujeres víctimas de delitos contra la libertad sexual, violencia familiar, trata de personas, prostitución y pornografía infantil, o cundo el tribunal determine otra cosa por motivos de moral pública o para mantener el orden. Deberán concurrir el inculpado y su defensor, así como el Ministerio Público. Cuando no concurra alguno de ellos, el tribunal diferirá la audiencia, sin perjuicio de hacer uso de las correcciones y las medidas de apremio que juzgue pertinentes. Si e ausente es el defensor designar en el acto un defensor de oficio para que intervenga en la misma audiencia o en la posterior que se determine. Cuando el inculpado estuviese impedido para concurrir a la audiencia, se negase a asistir o fuera expulsado por alterar el orden, el tribunal adoptará, las medidas que juzgue adecuadas para garantizarle el derecho de comparecer, estar enterado de la marcha del proceso y ejercer su defensa.
 
 ###### Artículo 43.
 
@@ -401,7 +407,7 @@ Cuando un servidor público tenga conocimiento de la comisión de un delito, en 
 
 La denuncia y la querella se podrán presentar por escrito o verbalmente. En este caso, la autoridad que la reciba levantará constancia por escrito, que deberá leer al denunciante o querellante, quien la suscribirá o estampará su huella digital. La denuncia y la querella se limitarán a describir los hechos, sin clasificarlos jurídicamente, y satisfarán los requisitos exigidos para el ejercicio del derecho de petición. El funcionario que reciba aquéllas, explicará al denunciante o al querellante, sin perjuicio de la intervención de los asistentes legales de éstos, el alcance del acto que realizan, así como las penas aplicables a quien se produce con falsedad ante las autoridades.
 
-Cuando el denunciante, el querellante o un tercero hagan publicar la denuncia o la querella, están obligados a publicar también, a su costa y en la misma forma utilizada para esa publicación, el acuerdo que recaiga al concluir la averiguación previa, si así lo solicita la persona en contra de la cual se hubiesen formulado aquéllas, independientemente de la responsabilidad en que hubieren incurrido.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 1 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 57.
 
@@ -421,9 +427,27 @@ Lo mismo se hará tratándose de delitos que solamente podrán perseguirse por q
 
 Iniciada la averiguación, el Ministerio Público adoptará todas las medidas legales conducentes a probar la comisión del delito, sus circunstancias y la responsabilidad o inocencia de las personas contra quiénes se dirijan la denuncia o la querella, la salvaguarda de los legítimos intereses del ofendido, el aseguramiento de personas o cosas relacionadas con los hechos y las demás medidas tendientes al desarrollo de la averiguación, según las finalidades de ésta.
 
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2011)</small>
+
+Tratándose de delitos de violencia familiar y contra la libertad sexual el Ministerio Público en ejercicio de sus facultades, acordará:
+
+a) La separación del agresor del domicilio donde habita la víctima, la cual deberá de ejecutarse de inmediato en plazo no mayor a tres días;
+
+b) Prohibición al agresor de acercare al domicilio de las víctimas, o a su lugar de trabajo o de estudio, y
+
+c) La prohibición de intimidar, amenazar o molestar a 1a víctima.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2011)</small>
+
+Para suspender, cualquiera de estas medidas, el Ministerio Público o juzgador, deberá cerciorarse de que la integridad física y emocional de la víctima no se encuentra en peligro.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2011)</small>
+
 Las diligencias practicadas por el Ministerio Público en los términos previstos en este Código, tendrán pleno valor en el proceso.
 
-El Ministerio Público levantará acta de todas las actuaciones que disponga o practique, dejará en el expediente constancia de los acuerdos que dicte y agregará a aquél los documentos pertinentes.
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2011)</small>
+
+El Ministerio Publico levantará acta de todas las actuaciones que disponga o practique, dejará en el expediente constancia de los acuerdos que dicte y agregará a aquél los documentos pertinentes.
 
 > <small>(REFORMADO, P.O. 31 DE MARZO DE 1995)</small>
 
@@ -456,6 +480,36 @@ La inobservancia de las disposiciones contenidas en las fracciones II y III de e
 > <small>(F. DE E., P.O. 2 DE MAYO DE 1995)</small>
 
 De todo lo anterior se dejará constancia en el acta de averiguación previa. Asimismo, durante la averiguación previa el Ministerio Público observará las circunstancias del inculpado y del ofendido que deban ser tomadas en cuenta, a su juicio, para los efectos de fijar la caución correspondiente a la libertad provisional y, en su caso, individualizar la sanción.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2011)</small>
+
+ARTICULO 59 BIS.- Cuando la víctima u ofendido por el delito se presente ante el Ministerio Público a denunciar hechos posiblemente constitutivos de delitos, tendrá los derechos siguientes:
+
+I. Recibir atención médica y psicológica de emergencia;
+
+II. Ser informada sobre sus derechos que le confiera la ley y la forma de hacerlos valer;
+
+III. Recibir la asesoría jurídica que solicite;
+
+IV. Aportar datos y elementos de prueba con los que cuente;
+
+V. Constituirse en coadyuvante o nombrar a alguien para ese efecto;
+
+VI Ser informado de las resoluciones que finalice o suspenda el procedimiento;
+
+VII. Intervenir en las audiencias convocadas sobre la extinción o suspensión de 1a acción penal o sobreseimiento;
+
+VIII. Informar sobre los recursos que puede hacer valer;
+
+IX. A que se le otorguen las medidas de protección y seguridad que requiera;
+
+X Tener acceso al expediente y obtener copia del mismo salvo excepciones. previstas en la ley;
+
+XI Solicitar la reapertura de la investigación cuando se haya decretado el archivo; y
+
+XII. Los demás que otros ordenamientos legales señalen.
+
+En los casos de violencia familiar y delitos contra la libertad sexual contará con el apoyo de personal especializado que le auxilie.
 
 ###### Artículo 60.
 
@@ -505,6 +559,10 @@ Si se trata de homicidio, se practicará la necropsia para establecer las causas
 
 Cuando el cadáver no se encuentre o por otro motivo no se haga la necropsia, bastará que los peritos, en vista de los datos que obren en el expediente, dictaminen que la muerte fue resultado de las lesiones inferidas y comprobadas, exponiendo las razones en que se sustente el dictamen.
 
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2011)</small>
+
+Cuando se trate de muerte violenta de mujeres además deberán de practicarse las periciales correspondientes a síndrome de mujer maltratada y documentar lesiones recibidas con anterioridad al hecho. Para ello el Misterio Público contará con un protocolo de actuación.
+
 > <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2001)</small>
 
 ###### Artículo 67.
@@ -517,9 +575,9 @@ Si la víctima hubiere sido sepultada, se procederá a inhumarla; solamente podr
 
 Cuando el cadáver no se encuentre o por otro motivo no se realice la necropsia bastará que los peritos, en vista de los datos que obren en el expediente dictaminen que la muerte fue resultado de las lesiones inferidas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE OCTUBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE FEBRERO DE 2011)</small>
 
-ARTICULO 67 BIS.- Para integrar el cuerpo del delito de violencia intrafamiliar, deberá acreditarse el vínculo familiar o estado civil, en los términos del artículo 194-B del Código Penal; además de agregarse los dictámenes que emitan peritos en materia de salud física y psicoemocional, así como la práctica de más investigaciones, dictámenes o documentos que el Ministerio Público o el Tribunal juzguen pertinentes, siempre que no sean contrarios a derecho.
+ARTICULO 67 BIS.- Para integrar el cuerpo del delito de violencia familiar, deberá acreditarse el vínculo familiar, matrimonial o relación de hecho, en los términos del artículo 194-A del Código Penal; además de agregarse los dictámenes que emitan peritos en materia de salud física y psicoemocional, así como la práctica demás investigaciones, dictámenes o documentos que el Ministerio Público o el Tribunal juzguen pertinentes, siempre que no sean contrarios a derecho.
 
 > <small>(ADICIONADO, P.O. 9 DE NOVIEMBRE DE 1999)</small>
 
@@ -531,11 +589,13 @@ Los organismos públicos o institucionales legalmente constituidas que tengan á
 
 En los casos de robo, el Ministerio Público y el Tribunal investigarán la preexistencia, propiedad y falta posterior de lo robado; asimismo, si el inculpado ha podido adquirir legítimamente la cosa que se dice robada y si la víctima se hallaba en situación de poseer la cosa materia del delito y es digna de fe y crédito. El Ministerio Público o el Tribunal apreciarán estas circunstancias, así como los antecedentes de la víctima y del inculpado y otros elementos que pudieran allegarse, para tener por comprobado el cuerpo del delito de robo.
 
-> <small>(ADICIONADO, P.O. 31 DE MARZO DE 1995)</small>
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 68
 
-BIS.- Si el delito fuere de naturaleza sexual, se procurará recabar ante todo el certificado médico ginecológico, proctológico o andrológico, según proceda. Si la persona que deba ser examinada físicamente fuere del sexo femenino, la exploración correspondiente deberá efectuarse por médicos del mismo sexo, salvo que no haya en el momento y lugar en que ésta deba realizarse, en cuyo supuesto podrán ser examinadas por médicos varones.
+BIS.- En el caso d los delitos contra la libertad sexual, además de la declaración de la víctima, se procurará recabar el certificado médico y el examen ginecológico, proctológico o andrológico, según proceda. Si la persona que deba ser examinada físicamente, fuere del sexo femenino, la exploración correspondiente deberá efectuase por médicos del mismo sexo, salvo que no haya en el momento y lugar en ésta deba realizarse, en cuyo supuesto podrán ser examinadas por médicos varones.
+
+Si la víctima recibió atención médica con posterioridad al hecho, el certificado médico emitido por una institución de salud, también deberá de integrarse al expediente.
 
 ### CAPITULO IV. ASEGURAMIENTO DEL INCULPADO
 
@@ -592,6 +652,10 @@ El Ministerio Público hará efectiva la caución a favor del Fisco del Estado, 
 La caución se cancelará, y en su caso se devolverá, cuando se resuelva el no ejercicio de la acción penal, o una vez que se haya presentado el probable responsable ante al Juez de la causa y éste hubiere acordado su devolución.
 
 Se aplicarán en lo conducente las disposiciones contenidas en el Capítulo I del Título Séptimo de este Código.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2011)</small>
+
+En el momento que el Ministerio Público otorgue al inculpado libertad bajo caución, deberá de ponerlo en conocimiento de la víctima y, en su caso, garantizarle las medidas de protección correspondientes.
 
 ### CAPITULO V. ATENCION MEDICA A LESIONADOS
 
@@ -679,11 +743,15 @@ La detención de servidores públicos se comunicará al superior jerárquico de 
 
 Cuando no proceda la prisión preventiva, el Ministerio Público podrá solicitar al juez el arraigo del inculpado, que el tribunal resolverá con audiencia de aquél tomando en cuenta las características del caso. Este arraigo no podrá exceder del plazo previsto por la Constitución General de la República para la conclusión del proceso.
 
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 82.
 
-El Ministerio Público, el ofendido o sus legítimos representantes podrán promover el aseguramiento de bienes para la reparación de los daños y perjuicios causados por el delito. El juez resolverá con audiencia del inculpado, si éste no se ha sustraído a la acción de la justicia, o de los terceros civilmente responsables, en su caso. Para los efectos de este Código se entiende que el inculpado se encuentra sustraído a la acción de la justicia desde que se dicta en su contra orden de aprehensión, reaprehensión o presentación, hasta que se ejecuta ésta.
+El Ministerio Público, la víctima, el ofendido o sus legítimos representantes promoverán el aseguramiento de bienes para la reparación de los daños y perjuicios causados por el delito El juez resolverá con audiencia del inculpado, si éste no se ha sustraído a la acción de la justicia, o de los terceros civilmente responsables, en su caso.
 
 Se prescindirá de embargo o se levantará el ya ordenado cuando el inculpado u otra persona en su nombre otorguen garantía suficiente para asegurar la reparación mencionada.
+
+Para los efectos de este Código se entiende que el inculpado se encuentra sustraído a la acción de la Justicia desde que se dicta en su contra orden de aprehensión, reaprehensión ó presentación, hasta que se ejecuta ésta.
 
 ###### Artículo 83.
 
@@ -990,6 +1058,10 @@ Toda persona que tuviere que identificar o referirse a otra, lo hará de un modo
 ###### Artículo 118.
 
 Cuando sea necesario identificar a una persona, se podrá practicar la diligencia de confrontación, a efecto de que el declarante reconozca a quien es necesario identificar, entre varias personas de aspecto y características semejantes que con tal propósito se le presentarán. Previamente, quien haya de identificar deberá declarar sobre el particular. El juzgador adoptará las medidas necesarias para el éxito de la diligencia y la seguridad de los participantes, escuchando al declarante y, en su caso, a quienes figuren en el grupo de personas sujetas a confrontación. Cuando se requiera identificar a diversas personas, se practicarán confrontaciones separadas.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2011)</small>
+
+Tratándose de menores de edad, de víctimas de violación, de trata de personas o de secuestro, la identificación del o los presuntos responsables llevará a cabo salvaguardando la identidad y seguridad de las víctimas, en los términos en que 1os que establecen los artículos 19 y 20 de la Constitución Política de los Estados Unidos mexicanos.
 
 ### CAPITULO VII. CAREO
 
@@ -1305,9 +1377,17 @@ I. Presentarse ante el tribunal del conocimiento en días fijos que se le señal
 
 II. Comunicar al tribunal los cambios de domicilio que tuviere;
 
-III. No ausentarse del lugar sin autorización de éste; y
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2011)</small>
 
-IV. Abstenerse de molestar a la víctima del delito y a los allegados a ésta.
+III. No ausentarse del lugar sin autorización de este;
+
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2011)</small>
+
+IV. Abstenerse de molestar a la víctima del delito y a los allegados a esta, y
+
+> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 2011)</small>
+
+V. Haber cubierto la reparación del daño y perjuicio correspondientes.
 
 ###### Artículo 151.
 
@@ -1329,9 +1409,17 @@ IV. Amenace o moleste el inculpado, en general, a quiénes intervinieron en el p
 
 V. Lo solicite el propio beneficiado con la libertad o la persona que otorgó la caución, si no se constituye oportunamente nueva garantía;
 
-VI. Se demuestre la inidoneidad o insuficiencia de los bienes dados en garantía o la insolvencia de quien otorgó la fianza; y
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2011)</small>
 
-VII. Cause ejecutoria la sentencia; pero cuando se hayan concedido los beneficios contemplados en los artículos 71 y 72, del Código Penal, se le podrá otorgar un plazo de hasta quince días para que el sentenciado se acoja a aquéllos y cumpla los requisitos exigidos.
+VI. Se demuestre la inidoneidad o insuficiencia de los bienes dados en garantía a la insolvencia de quien otorgo la fianza;
+
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2011)</small>
+
+VII. Cause ejecutoria la sentencia; pero cuando se hayan concedido los beneficios contemplados en los artículos 71 y 72, del Código Penal, se le podrá otorgar un plazo de hasta quince días para que el sentenciado se acoja a aquellos y cumpla los requisito (sic) exigidos, y
+
+> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 2011)</small>
+
+VIII. Cuando no haya reparado los daños y perjuicios.
 
 ###### Artículo 153.
 
@@ -1636,3 +1724,7 @@ SEGUNDO.- Remítase al Titular del Poder Ejecutivo del Estado para los efectos l
 P.O. 1 DE ENERO DE 2008.
 
 ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 1 DE FEBRERO DE 2011.
+
+ÚNICO.- El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
