@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-para-el-funcionamiento-de-las-comisiones-del-55166"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-04-04"
-last_updated: "2011-01-04"
+last_updated: "2011-02-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55166&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO PARA EL FUNCIONAMIENTO DE LAS COMISIONES DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 4 DE ENERO DE 2011.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 2 DE FEBRERO DE 2011.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el miércoles 4 de abril de 2007.
 
@@ -77,27 +77,27 @@ LIC. ARMANDO LÓPEZ SALINAS
 
 REGLAMENTO PARA EL FUNCIONAMIENTO DE LAS COMISIONES DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DEL ESTADO DE MÉXICO
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
 
 # LIBRO PRIMERO. DISPOSICIONES GENERALES DE LAS COMISIONES DEL CONSEJO GENERAL
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
 
 ## TÍTULO PRIMERO. DISPOSICIONES PRELIMINARES
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
 
 ###### Artículo 1.
 
 1. El presente libro tiene por objeto reglamentar de manera general, la organización y funcionamiento de las Comisiones del Consejo General del Instituto Electoral del Estado de México, así como regular las funciones y atribuciones de cada uno de sus integrantes; el desarrollo de las sesiones y reuniones de trabajo.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
 
 ###### Artículo 1.
 
 2. Para la interpretación de las disposiciones del presente reglamento, se estará a los criterios establecidos en el artículo 2 del Código Electoral del Estado de México, y a los principios rectores del Instituto.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
 
 ## TÍTULO SEGUNDO. DE LAS COMISIONES
 
@@ -119,7 +119,7 @@ d) La Comisión del Servicio Electoral Profesional; y
 
 e) La Comisión de Promoción y Difusión de la Cultura Política y Democrática.
 
-Los integrantes deberán nombrarse al inicio de cada proceso electoral, en ningún caso podrá recaer la presidencia en el Consejero Electoral que ocupó dicho cargo.
+Los integrantes deberán nombrarse al inicio de cada proceso electoral, en ningún caso podrá recaer la presidencia en el Consejero Electoral que ocupó dicho cargo;
 
 II. Las Comisiones Especiales serán aquéllas que se conformarán para la atención de las actividades sustantivas del Instituto que por su especial naturaleza, no tienen el carácter de permanente. En su acuerdo de creación el Consejo General, deberá establecer los motivos de creación, objetivos y tiempos de funcionamiento. Entre las que de manera enunciativa y no limitativa, estarán:
 
@@ -131,11 +131,15 @@ c) La Comisión para la Demarcación Distrital Electoral.
 
 III. Las Comisiones Temporales serán aquéllas que se formen para atender asuntos derivados de situaciones particulares o extraordinarias, casos fortuitos o de fuerza mayor, que no puedan ser atendidos por las demás comisiones, debiéndose establecer en el acuerdo correspondiente los motivos de su creación, objetivos, propósitos y tiempo de vigencia.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 2 DE FEBRERO DE 2011)</small>
+
+Proponer al Consejo General reformas, adiciones, modificaciones, derogaciones y abrogaciones al marco normativo del Instituto relacionado con las materias competencia de cada Comisión para, en su caso, su aprobación y publicación.
+
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
 
 ### CAPÍTULO I. De la Integración de las Comisiones
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
 
 ###### Artículo 1.
 
@@ -151,7 +155,7 @@ La aprobación de todos los acuerdos y dictámenes deberá ser con el voto de al
 
 Bajo ninguna circunstancia las circulares, proyectos de acuerdo o de dictamen que emitan, tendrán obligatoriedad, salvo el caso de que sean aprobadas por el Consejo General. Sólo en este supuesto podrán ser publicados en la "Gaceta del Gobierno".
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
 
 ###### Artículo 1.
 
@@ -161,7 +165,7 @@ I. En ausencias temporales, por incapacidad médica, cuando exista algún caso u
 
 II. En ausencias temporales por incapacidad medica, por más de diez días naturales.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
 
 ###### Articulo 1.
 
@@ -169,17 +173,17 @@ II. En ausencias temporales por incapacidad medica, por más de diez días natur
 
 En caso de ausencia del Secretario Técnico y de su suplente, el Presidente de la Comisión podrá habilitar a otro Director, Titular de Unidad, Subdirector, así como cualquier otro funcionario electoral de la misma área de adscripción de la Comisión de que se trate.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
 
 ###### Artículo 1.
 
 7. El Presidente y el Secretario Técnico de la Comisión, serán suplidos en su ausencia definitiva por quien designe el Consejo General.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
 
 ### CAPÍTULO II. Atribuciones de los Integrantes de las Comisiones
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
+> <small>(REFORMADO, G.G. 2 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 1.
 
@@ -191,7 +195,7 @@ II. Convocar por escrito, conjuntamente con el Secretario Técnico, a sesiones y
 
 III. Convocar a sesiones o reuniones de trabajo por iniciativa propia o a solicitud de los otros dos Consejeros o de tres representantes de partidos políticos o coaliciones;
 
-IV. Suspender las sesiones o reuniones de trabajo antes de su celebración, por causas que impidan;
+IV. Suspender las sesiones o reuniones de trabajo antes de su celebración, por causas que impidan (sic)
 
 V. Declarar el inicio, receso y término de las sesiones y reuniones de trabajo;
 
@@ -213,17 +217,15 @@ XIII. Nombrar al Secretario Técnico en caso de ausencia del Secretario Técnico
 
 XIV. Proporcionar a los integrantes de la Comisión la información necesaria para el desarrollo óptimo de sus actividades; Para el caso de atender asuntos derivados de situaciones particulares o extraordinarias, casos fortuitos o de fuerza mayor que no puedan ser atendidos por las demás comisiones, deberá establecerse en el acuerdo correspondiente;
 
-XV. Analizar y dictaminar las reformas o adiciones a este Reglamento y someterlas a consideración del Consejo General;
+XV. Dar seguimiento al cumplimiento de los acuerdos, resoluciones y dictámenes aprobados por el Consejo General, que correspondan a la materia de la Comisión;
 
-XVI. Dar seguimiento al cumplimiento de los acuerdos, resoluciones y dictámenes aprobados por el Consejo General, que correspondan a la materia de la Comisión;
+XVI. Instruir al Secretario Técnico para que notifique los acuerdos de la Comisión respectiva, y (sic)
 
-XVII. Instruir al Secretario Técnico para que notifique los acuerdos de la Comisión respectiva, y (sic)
+XVII. (DEROGADA, G.G. 4 DE ENERO DE 2011)
 
-XVIII. (DEROGADO, G.G. 4 DE ENERO DE 2011)
+XVIII. Las que le establecen otras disposiciones jurídicas y las que le encomiende el Consejo General.
 
-XIX. Las que le establecen otras disposiciones jurídicas y las que le encomiende el Consejo General.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
 
 ###### Artículo 1.
 
@@ -275,7 +277,7 @@ XXII. Resguardar temporalmente el archivo de la Comisión y en su momento enviar
 
 XXIII. Las que le establecen otras disposiciones jurídicas y las que le encomiende el Consejo General.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
 
 ###### Artículo 1.
 
@@ -305,7 +307,7 @@ XI. Firmar las actas de las sesiones una vez aprobadas; y XIII. Las que le estab
 
 XII. Las que le establecen otras disposiciones jurídicas y las que el (sic) encomiende el Consejo General.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
 
 ###### Artículo 1.
 
@@ -335,15 +337,15 @@ XI. Proponer al Presidente de la Comisión mociones de orden; y
 
 XII. Las que le establecen otras disposiciones jurídicas y las que le encomiende el Consejo General.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
 
 ## TÍTULO TERCERO. DEL FUNCIONAMIENTO DE LAS COMISIONES
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
 
 ### CAPÍTULO I. De la Convocatoria
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
 
 ###### Artículo 1.
 
@@ -357,7 +359,7 @@ En ausencia del Presidente de la Comisión o del Secretario Técnico, firmará q
 
 En caso de urgencia, las sesiones y reuniones de trabajo se convocarán, de manera extraordinaria, atendiendo a la naturaleza del asunto a tratar, con el tiempo suficiente para reunir el quórum legal, que no podrá ser menor a veinticuatro horas.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
 
 ###### Artículo 1.
 
@@ -369,29 +371,29 @@ En el periodo de proceso electoral, los plazos se computarán de momento a momen
 
 Para el caso de las reuniones de trabajo, los plazos se computarán en los términos de los párrafos que anteceden. En caso de decretar recesos, se estará a lo acordado por los integrantes de la Comisión, dejando constancia en el acta o minuta correspondiente, la duración y condiciones para su reanudación.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
 
 ###### Artículo 1.
 
 14. En aquellos casos en que por los altos volúmenes de documentación, no sea posible acompañar los anexos al proyecto del orden del día, estos se pondrán a disposición de los integrantes de la Comisión en medio magnético.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
 
 ###### Artículo 1.
 
 15. La convocatoria se notificará a los integrantes de la Comisión en sus oficinas ubicadas en las instalaciones del Instituto, teniendo éstas como domicilio legal de los mismos. En el caso de las coaliciones se les citará a través de su representante acreditado ante la Comisión y en la oficina dentro del Instituto del partido político señalado en su oficio de acreditación.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
 
 ###### Artículo 1.
 
 16. Para efectos de acuse de recibo, en la copia del oficio se anotará claramente, la fecha y hora de recepción, nombre completo, firma y en su caso sello de quien recibió. En caso de negarse a firmar y estampar el sello, se asentará la razón dejando la notificación en sus oficinas ubicadas en las instalaciones del Instituto.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
 
 ### CAPÍTULO II. De las Sesiones
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
 
 ###### Artículo 1.
 
@@ -399,7 +401,7 @@ Para el caso de las reuniones de trabajo, los plazos se computarán en los térm
 
 En proceso electoral las Comisiones sesionarán por lo menos una vez al mes, salvo acuerdo en contrario de las mismas.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
 
 ###### Artículo 1.
 
@@ -409,61 +411,61 @@ La participación de los representantes suplentes será en ausencia del propieta
 
 Estando presente en las sesiones, cualquiera de los representantes de los partidos políticos y coaliciones acreditados ante el Consejo General, participarán con derecho a voz.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
 
 ###### Artículo 1.
 
 19. La sesión se celebrará con los integrantes que se encuentren presentes, siempre que exista quórum legal. Existe quórum legal cuando asistan dos Consejeros integrantes de la Comisión, entre los que estará el presidente, salvo los casos a que se refiere el artículo 1.5.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
 
 ###### Artículo 1.
 
 20. En caso de que no se lleve a cabo la sesión por falta de quórum legal, podrá citarse en segunda convocatoria para el siguiente día hábil.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
 
 ###### Artículo 1.
 
 21. La sesión dará inicio cuando el Presidente de la Comisión lo declare formalmente, previa verificación de la existencia de quórum legal por el Secretario Técnico.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
 
 ###### Artículo 1.
 
 22. Instalada la sesión se pondrá a consideración de los integrantes de la Comisión el contenido del proyecto del orden del día. El Presidente de la Comisión, a solicitud de alguno de sus integrantes, podrá retirar asuntos del orden del día. Los integrantes de la Comisión podrán proponer la inclusión de asuntos generales al concluir el desahogo del orden del día. Los asuntos contenidos en el orden del día serán discutidos y en su caso, votados salvo cuando los Consejeros acuerden mediante votación, posponer la discusión y votación de algún asunto en particular.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
 
 ###### Artículo 1.
 
 23. Cuando así lo acuerde la Comisión, podrá dispensar la lectura de los documentos que hayan sido previamente circulados.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
 
 ###### Artículo 1.
 
 24. Si al momento de la votación correspondiente no existiera el quórum legal por ausencia de alguno de sus integrantes con derecho a voto el Presidente de la Comisión deberá declarar un receso.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
 
 ###### Artículo 1.
 
 25. Los integrantes de la Comisión podrán hacer uso de la palabra en los puntos a discutir, previa solicitud al Presidente y conforme al orden en que haya sido pedida.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
 
 ###### Artículo 1.
 
 26. En el curso de las deliberaciones, los integrantes de la Comisión se abstendrán de entablar diálogos y realizar alusiones personales que pudiesen generar controversias o discusiones ajenas a los asuntos incluidos en el proyecto del orden del día.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
 
 ###### Artículo 1.
 
 27. Cualquier integrante de la Comisión podrá pedir el uso de la palabra al Presidente, para interpelar al orador, con el objeto de formularle una pregunta o bien solicitarle una aclaración respecto a algún punto de su intervención.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
 
 ###### Artículo 1.
 
@@ -475,35 +477,35 @@ II. Poner orden en la sesión; y
 
 III. Tener por discutido el tema.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
 
 ###### Artículo 1.
 
 29. Las sesiones podrán suspenderse por alteración al orden que impida su celebración, pudiendo en tal caso reanudarse en un plazo no mayor a veinticuatro horas, a convocatoria del Presidente de la Comisión en el acto mismo.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
 
 ###### Artículo 1.
 
 30. Agotada la discusión el Presidente de la Comisión instruirá al Secretario Técnico para que proceda a tomar el consenso de los partidos políticos y coaliciones, y recabar el sentido de la votación de los Consejeros. Los acuerdos se tomarán por mayoría simple de sus integrantes con derecho a voto. El Presidente de la Comisión cuenta con voto de calidad en caso de empate.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
 
 ###### Artículo 1.
 
 31. Los Consejeros deberán de manifestar el sentido de su voto que sólo podrá ser a favor o en contra y en ningún caso podrán abstenerse de votar, pudiendo emitir su voto particular razonado.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
 
 ###### Artículo 1.
 
 32. Las sesiones tendrán una duración máxima de cinco horas; en caso de que en la sesión en curso no se aborden todos los asuntos a tratar en el proyecto del orden del día, estos serán considerados de manera automática para ser discutidos en la siguiente sesión de la Comisión, que deberá continuarse al día hábil siguiente, salvo acuerdo en contrario de la Comisión.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
 
 ### CAPÍTULO III. De las Reuniones de Trabajo
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
 
 ###### Artículo 1.
 
@@ -511,45 +513,45 @@ III. Tener por discutido el tema.
 
 Las reuniones de trabajo tendrán una duración máxima de cinco horas; en caso de que no se aborden todos los asuntos a tratar en el orden del día, el Presidente de la Comisión podrá declarar un receso en términos de lo dispuesto en el último párrafo del artículo 1.13 del presente Reglamento.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
 
 ###### Artículo 1.
 
 34. Las reuniones de trabajo se celebrarán con el número de integrantes que se encuentren presentes, sin necesidad de declarar la existencia de quórum legal, debiendo estar presentes el Presidente y el Secretario Técnico de la Comisión, o quienes hagan sus veces.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
 
 ###### Artículo 1.
 
 35. Para la celebración de reuniones de trabajo, los integrantes de la Comisión podrán auxiliarse de especialistas en la materia, pudiendo participar éstos en la respectiva reunión, con anuencia de los integrantes de la Comisión. La designación deberá hacerse del conocimiento del Presidente de la Comisión por medio del Secretario Técnico.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
 
 ### CAPÍTULO IV. Reglas Generales
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
 
 ###### Artículo 1.
 
 36. Las sesiones y reuniones de trabajo serán de orden privado por su propia naturaleza de carácter interno; quedando expresamente prohibida la presencia de personas no autorizadas, salvo quienes asesoren a los integrantes de la Comisión.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
 
 ###### Artículo 1.
 
 37. En las sesiones y reuniones de trabajo, podrán asistir con voz los Consejeros no integrantes de la Comisión.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
 
 ### CAPÍTULO V. De los Acuerdos, Resoluciones y Dictámenes
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
 
 ###### Artículo 1.
 
 38. Cuando la Comisión considere que un proyecto de acuerdo, resolución o dictamen deba revisarse nuevamente, se regresará a la Secretaria Técnica para su nuevo estudio, solicitando la opinión no vinculatoria de la Dirección Jurídico-Consultiva o de la dependencia correspondiente, para su posterior presentación en sesión de la misma Comisión.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
 
 ###### Artículo 1.
 
@@ -557,23 +559,23 @@ Las reuniones de trabajo tendrán una duración máxima de cinco horas; en caso 
 
 ###### Artículo 1.
 
-40. (DEROGADO, G.G. 4 DE ENERO DE 2011)
+40. (DEROGADO, G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
 
 ## TÍTULO CUARTO. DE LAS COMISIONES PERMANENTES
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
 
 ### CAPÍTULO I. De la Comisión de Organización y Capacitación
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
 
 ###### Artículo 1.
 
 41. Esta Comisión tendrá por objeto, apoyar al Consejo General en el desempeño de sus atribuciones en materia de organización, capacitación electoral, y las relativas al Programa de Resultados Electorales Preliminares (PREP) derivadas de los programas que para tal efecto se aprueben, para la preparación y desarrollo de los procesos electorales.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
 
 ###### Artículo 1.
 
@@ -581,7 +583,7 @@ Las reuniones de trabajo tendrán una duración máxima de cinco horas; en caso 
 
 El Secretario Técnico de la Comisión será el designado conforme a la fracción III del artículo 1.4 y 1.6 del presente Reglamento.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
 
 ###### Artículo 1.
 
@@ -645,17 +647,17 @@ XXVIII. Conocer, analizar, discutir y en su caso aprobar, los documentos relativ
 
 XXIX. Las que le establecen otras disposiciones jurídicas y las que le encomiende el Consejo General.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
 
 ### CAPÍTULO II. De la Comisión de Vigilancia de las Actividades Administrativas y Financieras
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
 
 ###### Artículo 1.
 
 44. Tendrá como objeto auxiliar al Consejo General en la vigilancia, evaluación y supervisión de las actividades administrativas y financieras del Instituto, para que dichas actividades se apeguen a las disposiciones jurídicas vigentes, y formular, en su caso, las recomendaciones y la adopción de medidas tendientes al fortalecimiento del control interno institucional. Asimismo, dar seguimiento a las actividades que desarrolla el Órgano Técnico de Fiscalización del Instituto.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
 
 ###### Artículo 1.
 
@@ -663,7 +665,7 @@ XXIX. Las que le establecen otras disposiciones jurídicas y las que le encomien
 
 El Secretario Técnico de la Comisión será el designado conforme a la fracción III del artículo 1.4 y 1.6 del presente Reglamento.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
+> <small>(REFORMADO, G.G. 2 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 1.
 
@@ -679,7 +681,7 @@ IV. Recibir, analizar y dar seguimiento a los informes mensuales y anuales de la
 
 V. Recibir, analizar y dar seguimiento a los informes mensuales y anual de los estados financieros del Instituto, preparados por la Dirección de Administración;
 
-VI. Recibir, analizar y dar seguimiento a los informes mensuales y anuales de las actividades del Comité Único de Adquisiciones, Arrendamientos y Contratación de Servicios del Instituto, y supervisar su actuación;
+VI. Recibir, analizar y dar seguimiento a los informes mensuales y anuales de las actividades del Comite Unico de Adquisiciones, Arrendamientos y Contratación de Servicios del Instituto, y supervisar su actuación;
 
 VII. Recibir, analizar y dar seguimiento a los informes mensuales, trimestrales y anuales relacionados con el avance y cumplimiento al Programa de Actividades de la Contraloría General;
 
@@ -689,29 +691,27 @@ IX. Dar seguimiento al avance del Programa Anual de Auditoria y Programas espec�
 
 X. Recibir, analizar y dar seguimiento al dictamen de los estados financieros del Instituto relativos al ejercicio anterior, emitidos por el despacho de auditores externos que para tal efecto sea contratado;
 
-XI. Conocer, analizar y dar seguimiento a los informes de auditoría que se practiquen al Instituto, y vigilar que se atiendan las recomendaciones y se corrijan las observaciones que resulten de las mismas;
+XI. Conocer, analizar y dar seguimiento a los informes de auditoria que se practiquen al Instituto, y vigilar que se atiendan las recomendaciones y se corrijan las observaciones que resulten de las mismas;
 
 XII. Conocer, analizar y emitir el dictamen correspondiente de los proyectos de resolución presentados por la Contraloría General; que correspondan ser resueltos en definitiva por el Consejo General;
 
 XIII. Conocer, analizar y dar seguimiento a los informes sobre las resoluciones de Inconformidades que presenten los proveedores, prestadores de servicios y contratistas, relacionados con procedimientos de contratación, y sobre las demás resoluciones emitidas por la Contraloría General;
 
-XIV. Emitir los acuerdos o dictámenes que corresponda, respecto de los asuntos competencia de la Comisión, y remitirlos al Consejo General para su aprobación definitiva;
+XIV. Emitir los acuerdos o dictámenes que corresponda, respecto de los asuntos competencia de la Comisión, y remitirlos al Consejo General para su aprobación definitiva; y
 
-XV. Proponer al Consejo General la expedición, reformas, adiciones, modificaciones, derogaciones y abrogaciones al marco normativo del Instituto relacionado con las materias competencia de esta Comisión; y
+XV. Las demás que le establecen este Reglamento, otras disposiciones jurídicas y las que le encomiende el Consejo General.
 
-XVI. Las demás que le establecen este Reglamento, otras disposiciones jurídicas y las que le encomiende el Consejo General.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
 
 ### CAPÍTULO III. De la Comisión de Acceso a Medios, Propaganda y Difusión
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
 
 ###### Artículo 1.
 
 47. La Comisión tendrá como objeto atender lo relacionado con el acceso del Instituto y de los partidos políticos a los medios de comunicación conforme a las normas establecidas en el Apartado B, de la base III, del artículo 41 de la Constitución Política de los Estados Unidos Mexicanos, al artículo 12 de la Constitución Política del Estado Libre y Soberano de México, a los artículos 63 y 65 del Código, a los convenios que en la materia se celebren con el Instituto Federal Electoral y a lo que disponga el Consejo General; realizar monitoreos de medios de comunicación electrónicos e impresos, públicos y privados, así como de la propaganda colocada en todo tipo de espacio o equipamiento utilizado para difundir mensajes, durante el periodo de precampaña y campaña electoral, o antes si así lo solicita un partido político, con el fin de garantizar la equidad en la difusión de los actos proselitistas, apoyar la fiscalización de los partidos políticos y prevenir que se rebasen los topes de gastos de precampaña y campaña; supervisar y en su caso actualizar el Plan de Medios del Instituto; así como llevar a cabo la organización de debates públicos.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
 
 ###### Artículo 1.
 
@@ -719,7 +719,7 @@ XVI. Las demás que le establecen este Reglamento, otras disposiciones jurídica
 
 El Secretario Técnico de la Comisión será el designado conforme a la fracción III del artículo 1.4 y 1.16 del presente Reglamento.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
 
 ###### Artículo 1.
 
@@ -767,11 +767,11 @@ XX. Las que le establecen otras disposiciones jurídicas y las que le encomiende
 
 XXI. Realizar monitoreos cuantitativos y cualitativos, así como el seguimiento de notas informativas en medios de comunicación impresos y electrónicos, a través de la Comisión de Acceso a Medios, Propaganda y Difusión, la cual le informará periódicamente sobre los resultados de tales monitoreos y seguimiento, que serán quincenales en tiempo de proceso electoral. Dichos informes deberán contener una valoración de la actuación de los medios de comunicación monitoreados, así como las recomendaciones que se estimen conducentes.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
 
 ### CAPÍTULO IV. De la Comisión del Servicio Electoral Profesional
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
 
 ###### Artículo 1.
 
@@ -787,7 +787,7 @@ IV. Conocer oportunamente los avances del servicio; y
 
 V. Compilar para su análisis, las experiencias resultantes de la aplicación del Estatuto y el Programa del Servicio Electoral Profesional.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
 
 ###### Artículo 1.
 
@@ -795,7 +795,7 @@ V. Compilar para su análisis, las experiencias resultantes de la aplicación de
 
 El Secretario Técnico de la Comisión será el designado conforme a la fracción III del artículo 1.4 y 1.6 del presente Reglamento.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
 
 ###### Artículo 1.
 
@@ -837,17 +837,17 @@ XVII. Supervisar y vigilar la incorporación de los servidores electorales de lo
 
 XVIII. Las demás que se le otorguen por mandamiento de ley o por acuerdo del Consejo General.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
 
 ### CAPÍTULO V. La Comisión de Promoción y Difusión de la Cultura Política y Democrática
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
 
 ###### Artículo 1.
 
 53. La Comisión tendrá por objeto apoyar al Consejo General en la atención de las actividades relativas a la Promoción y Difusión de la Cultura Política Democrática y la Educación Cívica, derivadas de los Planes y Programas que para tal efecto apruebe.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
 
 ###### Artículo 1.
 
@@ -855,7 +855,7 @@ XVIII. Las demás que se le otorguen por mandamiento de ley o por acuerdo del Co
 
 El Secretario Técnico de la Comisión será el designado conforme a la fracción III del artículo 1.4 y 1.6 del presente Reglamento.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
 
 ###### Artículo 1.
 
@@ -917,21 +917,21 @@ XXVI. Proponer en su caso, reformas y adiciones al presente Reglamento; y
 
 XXVI (SIC). Las demás que deriven del Código, de los Acuerdos del Consejo General y de la propia Comisión, del presente Reglamento y demás disposiciones aplicables.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
 
 ## TÍTULO QUINTO. DE LAS COMISIONES ESPECIALES
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
 
 ### CAPÍTULO I. De la Comisión de Vigilancia para la Actualización, Depuración y Verificación del Padrón Electoral y Lista Nominal de Electores
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
 
 ###### Artículo 1.
 
 56. La Comisión tendrá como objeto, auxiliar al Consejo General en la elaboración de los proyectos sobre los mecanismos y programas de carácter técnico para la verificación del Padrón Electoral y Lista Nominal de Electores, en coordinación con la autoridad federal de la materia. Asimismo, proponer y dar seguimiento a las acciones de actualización y depuración contempladas en los Convenios de Apoyo y Colaboración, así como en los Anexos Técnicos y Anexos Financieros, relacionados con el uso de los instrumentos y productos electorales que aportará el Instituto Federal Electoral, a los procesos electorales locales.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
 
 ###### Artículo 1.
 
@@ -939,7 +939,7 @@ XXVI (SIC). Las demás que deriven del Código, de los Acuerdos del Consejo Gene
 
 El Secretario Técnico de la Comisión será el designado conforme a la fracción III del artículo 1.4 y 1.6 del presente Reglamento.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
 
 ###### Artículo 1.
 
@@ -1001,17 +1001,17 @@ c. Establecer relación permanente con los órganos de la administración públi
 
 d. Las que le establecen otras disposiciones jurídicas y las que le encomiende el Consejo General.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
 
 ### CAPÍTULO II. De la Comisión Dictaminadora del Registro de Partidos Políticos
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
 
 ###### Artículo 1.
 
 59. La Comisión tendrá por objeto, dictaminar el derecho de registro como partido político local de las organizaciones políticas que lo pretendan y del partido político nacional que pierda su registro con este carácter, solicitando el registro como partido político local.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
 
 ###### Artículo 1.
 
@@ -1019,7 +1019,7 @@ d. Las que le establecen otras disposiciones jurídicas y las que le encomiende 
 
 El Secretario Técnico de la Comisión será el designado conforme a la fracción III del artículo 1.4 y 1.6 del presente Reglamento.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
 
 ###### Artículo 1.
 
@@ -1069,7 +1069,7 @@ XXI. Analizar y dictaminar las reformas o adiciones al Reglamento para la Consti
 
 XXII. Las que establecen otras disposiciones jurídicas y las que le encomiende el Consejo General.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
 
 ###### Artículo 1.
 
@@ -1095,7 +1095,7 @@ IX. Las demás que le señale el Consejo General, la propia Comisión y otras di
 
 X. Las demás que le señale el Consejo General, la propia Comisión y otras disposiciones normativas. (sic)
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
 
 ###### Artículo 1.
 
@@ -1113,17 +1113,17 @@ V. Informar a los integrantes de la Comisión sobre el cumplimiento de las circu
 
 VI. Solicitar al Comité Directivo Estatal o equivalente de la Organización Política correspondiente, la documentación que requiera la Comisión para el cumplimiento de sus atribuciones.
 
-> <small>(ADICIONADO, G.G. 4 DE ENERO DE 2011)</small>
+(ADICIONADO, G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
 
 ### CAPÍTULO III. De la Comisión para la Demarcación Distrital Electoral
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
 
 ###### Artículo 1.
 
 64. La Comisión tendrá como objeto, auxiliar al Consejo General, en la elaboración de los proyectos sobre la Demarcación Territorial de los cuarenta y cincos (sic) Distritos Electorales Locales de conformidad con el artículo 39 de la Constitución Particular.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
 
 ###### Artículo 1.
 
@@ -1131,7 +1131,7 @@ VI. Solicitar al Comité Directivo Estatal o equivalente de la Organización Pol
 
 El Secretario Técnico de la Comisión será el designado conforme a la fracción III del artículo 1.4 y 1.6 del presente Reglamento.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011)</small>
+(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE ENERO DE 2011) (REPUBLICADO, G.G. 2 DE FEBRERO DE 2011)
 
 ###### Artículo 1.
 
@@ -4516,6 +4516,12 @@ PRIMERO.- Publíquese el presente Acuerdo y su anexo en el Periódico Oficial de
 SEGUNDO.- Se deroga el Libro Sexto "De la Fiscalización" del Reglamento para el Funcionamiento de las Comisiones del Consejo General del Instituto Electoral del Estado de México, aprobado mediante Acuerdo número 21/2007 (veintiuno/dos mil siete), de fecha veintiocho de junio del año dos mil siete.
 
 G.G. 4 DE ENERO DE 2011.
+
+PRIMERO.- Las reformas aprobadas por el Punto Único, entrarán en vigor al día siguiente de la publicación del presente Acuerdo en el Periódico Oficial del Gobierno del Estado Libre y Soberano de México, "Gaceta del Gobierno".
+
+SEGUNDO.- Publíquese el presente Acuerdo y su anexo en el Periódico Oficial del Gobierno del Estado Libre y Soberano de México, "Gaceta del Gobierno", así como en la página electrónica del Instituto Electoral del Estado de México.
+
+G.G. 2 DE FEBRERO DE 2011.
 
 PRIMERO.- Las reformas aprobadas por el Punto Único, entrarán en vigor al día siguiente de la publicación del presente Acuerdo en el Periódico Oficial del Gobierno del Estado Libre y Soberano de México, "Gaceta del Gobierno".
 
