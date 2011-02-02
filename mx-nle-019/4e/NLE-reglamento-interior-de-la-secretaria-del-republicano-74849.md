@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-de-la-secretaria-del-republicano-74849"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-04-26"
-last_updated: "2010-05-14"
+last_updated: "2011-02-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74849&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "NLE"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DEL REPUBLICANO AYUNTAMIENTO DE SAN PEDRO GARZA GARCIA, NUEVO LEON
 
-TEXTO ORIGINAL.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DEL 14 DE MAYO DE 2010.</small>
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE FEBRERO DE 2011.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 26 de abril de 2010.
 
@@ -405,7 +403,31 @@ La Dirección de Jueces Calificadores contará con un Director, el número de Ju
 
 Las ausencias del Director de Jueces Calificadores, serán cubiertas por el servidor público que designe el Secretario del Republicano Ayuntamiento.
 
-### CAPÍTULO OCTAVO. DE LA OFICINA DE SÍNDICOS Y REGIDORES
+### CAPÍTULO SÉPTIMO BIS. DE LA DIRECCIÓN DE ADQUISICIONES
+
+> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2011)</small>
+
+ARTÍCULO 30 BIS.- La Dirección de Adquisiciones, tendrá las siguientes atribuciones:
+
+l.- Llevar a cabo las adquisiciones o la contratación de arrendamientos de bienes muebles o inmuebles, de prestación de servicios que requiera la Administración Pública Municipal, de acuerdo con las necesidades descritas y limitadas por los presupuestos autorizados, aplicando las políticas y procedimientos vigentes;
+
+II.- Instrumentar operativamente las acciones necesarias para el cumplimiento del Reglamento de Adquisiciones, Arrendamientos y Contratación de Servicios para el Gobierno Municipal de San Pedro Garza García, Nuevo león;
+
+III.- Dar seguimiento a los contratos de adquisiciones que requieran las distintas Dependencias de la Administración Pública Municipal y participar en la elaboración de los convenios o contratos que comprometen financieramente al Municipio;
+
+IV.- Llevar el control y autorizar los contratos de mantenimiento para bienes Municipales;
+
+V.- Negociar con proveedores el precio, calidad y servicio en los bienes y servicios ofrecidos; y,
+
+VI.- Diseñar, en coordinación con otras Dependencias, sistemas de compra electrónica y un sistema de información, comunicación y de transparencia en las adquisiciones de bienes y servicios.
+
+> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2011)</small>
+
+ARTÍCULO 30 BIS 1.- La Dirección de Adquisiciones contará con un Director y demás servidores públicos necesarios para el desarrollo de las atribuciones señaladas en el artículo que antecede.
+
+> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2011)</small>
+
+ARTÍCULO 30 BIS 2.- Las ausencias del Director de Adquisiciones serán cubiertas por el servidor público que designe el Secretario del Republicano Ayuntamiento.
 
 ###### ARTÍCULO 28.
 
@@ -438,6 +460,10 @@ La Dirección de Participación Ciudadana contará con un Director y demás serv
 ###### ARTÍCULO 30.
 
 Las ausencias del Director de Participación Ciudadana serán cubiertas por el servidor público que designe el Secretario del Republicano Ayuntamiento.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 2 DE FEBRERO DE 2011)</small>
+
+### CAPÍTULO OCTAVO. DE LA OFICINA DE SÍNDICOS Y REGIDORES
 
 ### CAPÍTULO NOVENO. DEL PROCEDIMIENTO DE REVISIÓN Y CONSULTA
 
@@ -528,3 +554,15 @@ C. PRESIDENTE MUNICIPAL
 LIC. FERNANDO CANALES STELZER
 
 C. SECRETARIO DEL REPUBLICANO AYUNTAMIENTO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 2 DE FEBRERO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+Las presentes Reformas por Adición al Reglamento Interior de la Secretaría del Republicano Ayuntamiento de San Pedro Garza García, Nuevo León, entrarán en vigor al día de su publicación en el Periódico Oficial del Estado, debiéndose hacer su posterior publicación en la Gaceta Municipal.
+
+###### ARTÍCULO SEGUNDO.
+
+Se deroga cualquier disposición que contravenga el presente Reglamento.
