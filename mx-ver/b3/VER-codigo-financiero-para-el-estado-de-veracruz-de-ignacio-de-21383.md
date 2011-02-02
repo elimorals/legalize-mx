@@ -4,7 +4,7 @@ identifier: "VER-codigo-financiero-para-el-estado-de-veracruz-de-ignacio-de-2138
 country: "mx"
 rank: "codigo"
 publication_date: "2001-04-03"
-last_updated: "2010-12-27"
+last_updated: "2011-02-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21383&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CODIGO NUMERO 18 FINANCIERO PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
 > <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTICULO PRIMERO Y SEGUNDO DEL DECRETO NUMERO 918, PUBLICADO EN LA G.O. 15 DE AGOSTO DE 2007, SE MODIFICA EL NOMBRE DEL MUNICIPIO DE TEMAPACHE POR EL DE ÁLAMO TEMAPACHE. EN CONSECUENCIA, LAS DISPOSICIONES LEGALES QUE SE REFIERAN A ESTE MUNICIPIO UNICAMENTE COMO TEMAPACHE SE ENTENDERAN REFERIDOS AL MISMO CON SU NUEVO NOMBRE DE "ÁLAMO TEMAPACHE".</small>
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 2 DE FEBRERO DE 2011.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz, el martes 3 de abril de 2001.
 
@@ -215,7 +215,13 @@ d) Los titulares de las áreas administrativas que dependan directamente de la S
 
 e) Los titulares de organismos públicos descentralizados que tengan bajo su responsabilidad la prestación de servicios públicos, cuando realicen funciones de recaudación en ingresos estatales.
 
-Las autoridades fiscales ejercerán sus facultades en la forma y términos señalados en las disposiciones legales y reglamentarias, decretos o acuerdos delegatorios específicos.
+> <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2011)</small>
+
+Las autoridades fiscales a que se refiere este precepto ejercerán sus facultades en todo el territorio del Estado, en la forma y términos señalados en las disposiciones legales y reglamentarias, decretos o acuerdos delegatorios específicos.
+
+> <small>(ADICIONADO, G.O. 2 DE FEBRERO DE 2011)</small>
+
+Los titulares de los órganos desconcentrados y demás servidores públicos que, por disposición de la ley o de los reglamentos aplicables, tengan el carácter de autoridades fiscales, ejercerán sus facultades dentro del ámbito de competencia territorial que les corresponda, conforme lo dispongan los ordenamientos respectivos.
 
 ###### Artículo 21.
 
@@ -1909,29 +1915,17 @@ Por servicios prestados por la Secretaría de Gobierno, a través de las depende
 
 A. Por servicios del Registro Público de la Propiedad:
 
-(NOTA: EL 4 DE ENERO DE 2011, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO Y EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 10/2010, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL APARTADO A FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 7 DE ENERO DE 2011 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2011)</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+I. Por la inscripción de documentos que contengan actos jurídicos relativos a resoluciones judiciales o administrativas y testimonios notariales en los cuales se establezca, declare, transfiera, adquiera, modifique o extinga el dominio de la propiedad o la posesión de bienes inmuebles o derechos reales, se causarán y pagarán previamente por cada acto:
 
-> <small>(REFORMADA, G.O. 16 DE JUNIO DE 2010)</small>
-
-I. POR LA INSCRIPCIÓN DE DOCUMENTOS QUE CONTENGAN ACTOS JURÍDICOS RELATIVOS A RESOLUCIONES JUDICIALES O ADMINISTRATIVAS Y TESTIMONIOS NOTARIALES EN LOS CUALES SE ESTABLEZCA, DECLARE, TRANSFIERA, ADQUIERA, MODIFIQUE O EXTINGA EL DOMINIO DE LA PROPIEDAD O LA POSESIÓN, DE BIENES INMUEBLES O DERECHOS REALES, SE CAUSARÁN Y PAGARÁN PREVIAMENTE POR CADA ACTO, TOMANDO COMO BASE EL VALOR MAYOR QUE RESULTE DE COMPARAR EL VALOR DE OPERACIÓN, EL DE AVALÚO, EL DE INVERSIÓN O EL CATASTRAL ASIGNADO POR LA OFICINA CORRESPONDIENTE:
-
-POR CADA $100.00 O FRACCIÓN: $0.80
-
-CUANDO SE TRATE DEL DERECHO REAL DE USUFRUCTO, POR CUANTO HACE A LA CONSTITUCIÓN A QUE SE REFIERE EL ARTÍCULO 1013 DEL CÓDIGO CIVIL DEL ESTADO, ASÍ COMO DE LA RENUNCIA O EXTINCIÓN, EL CÁLCULO DE LOS DERECHOS SE HARÁ SOBRE EL 50% DEL VALOR QUE SIRVA DE BASE CONFORME AL PÁRRAFO ANTERIOR.
+17 salarios mínimos
 
 En el caso de extinción del usufructo por fallecimiento del usufructuario, previsto en el artículo 1071 fracción I del Código Civil, deberán pagarse:
 
 5 salarios mínimos
 
-(NOTA: EL 4 DE ENERO DE 2011, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO Y EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 10/2010, DECLARÓ LA INVALIDEZ DEL APARTADO A FRACCIÓN I DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, SALVO POR LO QUE SE REFIERE A SU PÁRRAFO TERCERO, LA CUAL SURTIÓ EFECTOS EL 7 DE ENERO DE 2011 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-POR LA INSCRIPCIÓN DE LA DECLARACIÓN DE LO EDIFICADO, MODIFICACIÓN, REORDENAMIENTO DE LA CONSTRUCCIÓN DE UN INMUEBLE, SE APLICARÁ LA TASA SEÑALADA EN EL PÁRRAFO PRIMERO DE ESTA FRACCIÓN.
-
-(NOTA: EL 4 DE ENERO DE 2011, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO Y EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 10/2010, DECLARÓ LA INVALIDEZ DEL APARTADO A FRACCIÓN I DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, SALVO POR LO QUE SE REFIERE A SU PÁRRAFO CUARTO, LA CUAL SURTIÓ EFECTOS EL 7 DE ENERO DE 2011 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-EN NINGUNO DE LOS CASOS CONTENIDOS EN LOS PÁRRAFOS DE LA PRESENTE FRACCIÓN, CON EXCEPCIÓN DE LO PREVISTO EN EL PÁRRAFO TERCERO, LA CANTIDAD A PAGAR PODRÁ SER MENOR DE 10 SALARIOS MÍNIMOS NI MAYOR DE 300 SALARIOS MÍNIMOS.
+Por la inscripción de la declaración de lo edificado, modificación, reordenamiento de la construcción de un inmueble, se aplicará la tasa señalada en el párrafo primero de esta fracción.
 
 II. Por el registro de operaciones relativas a fraccionamientos de inmuebles:
 
@@ -8854,3 +8848,9 @@ Artículo tercero. Se derogan todas las disposiciones que se opongan al presente
 G.O. 27 DE DICIEMBRE DE 2010.
 
 Primero. El presente Decreto entrará en vigor el día primero de enero de dos mil once, previa publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+G.O. 2 DE FEBRERO DE 2011.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que contravengan al presente Decreto.
