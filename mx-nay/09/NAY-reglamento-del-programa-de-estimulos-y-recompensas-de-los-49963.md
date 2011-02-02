@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-del-programa-de-estimulos-y-recompensas-de-los-49963
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-03-11"
-last_updated: "2007-01-27"
+last_updated: "2011-02-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "NAY"
 
 REGLAMENTO DEL PROGRAMA DE ESTIMULOS Y RECOMPENSAS DE LOS SERVIDORES PUBLICOS DEL PODER JUDICIAL DEL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE ENERO DE 2007.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO TRANSITORIO DEL REGLAMENTO DEL PROGRAMA DE ESTIMULOS AL DESEMPEÑO JURISDICCIONAL DEL ESTADO DE NAYARIT, PUBLICADO EN EL P.O. DE 2 DE FEBRERO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Sección Tercera del Periódico Oficial del Estado de Nayarit, el sábado 11 de marzo de 2006.
 
@@ -474,3 +476,15 @@ Artículo Primero.- Publíquese la presente reforma al Reglamento de Estímulos 
 Artículo Segundo.- La presente reforma al reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 > <small>N. DE E. VEASE ANEXOS EN LA SECCION CUARTA DEL P.O. DE 27 DE ENERO DE 2007, DE LA PAGINA 5 A LA 7.</small>
+
+P.O. 2 DE FEBRERO DE 2011.
+
+Artículo Primero.- Se abroga el Reglamento del Programa de Estímulos y Recompensas de los Servidores Públicos del Poder Judicial del Estado de Nayarit de fecha 23 de febrero de 2006.
+
+Artículo Segundo.- Publíquese el presente Reglamento en el Periódico Oficial, órgano del Gobierno del Estado y en el Boletín Judicial del Poder Judicial del Estado.
+
+Artículo Tercero.- El presente reglamento entrará en vigor al día siguiente de su publicación.
+
+Artículo Cuarto.- Por lo que respecta al presente año fiscal, por única vez, la convocatoria se publicará cuando lo determine el Consejo de la Judicatura, la que establecerá los plazos para la entrega de la documentación correspondiente.
+
+Artículo Quinto.- Para los efectos de la convocatoria 2011 por única vez no aplicará lo dispuesto en el artículo 4°. Respecto a no existir sanción por falta grave del participante.
