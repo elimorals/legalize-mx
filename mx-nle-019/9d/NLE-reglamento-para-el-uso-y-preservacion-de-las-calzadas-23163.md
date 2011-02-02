@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-el-uso-y-preservacion-de-las-calzadas-23163"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-01-25"
-last_updated: "2002-01-25"
+last_updated: "2011-02-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23163&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO PARA EL USO Y PRESERVACION DE LAS CALZADAS, PARQUES Y PLAZAS DEL MUNICIPIO DE SAN PEDRO GARZA GARCÍA, N.L.
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE FEBRERO DE 2011.
 
 Reglamento publicado en el Periódico Oficial del estado de Nuevo León, el viernes 25 de enero de 2002.
 
@@ -55,17 +55,21 @@ V. Secretaría, la Secretara de Servicios Públicos; y
 
 VI. Dependencias, las dependencias de la Administración Pública Municipal.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 3.
 
-Se entenderá como autoridades responsables de la aplicación del presente Reglamento:
+Son autoridades competentes para aplicar el presente Reglamento, las siguientes:
 
 I. El Presidente Municipal;
 
 II. La Secretaría de Servicios Públicos;
 
-III. La Secretaría de Finanzas y Tesorería Municipal; y
+III. (DEROGADA, P.O. 2 DE FEBRERO DE 2011); y
 
-IV. La Secretaría de Seguridad Pública y Vialidad.
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2011)</small>
+
+IV. La Secretaria de Seguridad Municipal.
 
 ###### Artículo 4.
 
@@ -89,25 +93,45 @@ La Secretaría, podrá determinar anualmente la restricción temporal, total o p
 
 El Municipio a través de la Secretaría promoverá:
 
-I. La colaboración de los sectores público, social y privado para la preservación de las Calzadas, Parques y Plazas;
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2011)</small>
 
-II. El desarrollo de eventos culturales y deportivos;
+I. La colaboración de los sectores público, social y privado para la preservación y mejoramiento de las Calzadas. Parques y Plazas;
 
-III. La creación de instalaciones apropiadas para minusválidos;
+> <small>(ADICIONADA, P.O. 2 DE FEBRERO DE 2011)</small>
 
-IV. Eventos especiales para la recreación de niños y ancianos;
+I BIS.- El desarrollo de Infraestructura que, siendo compatible con el entorno, fortalezca el aprovechamiento, uso y disfrute de las Calzadas, Parques y Plazas por parte de la comunidad;
 
-V. El desarrollo de eventos ecológicos; y
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2011)</small>
 
-VI. La investigación y estudios para el mejoramiento de la flora y fauna de las Calzadas, Parques y Plazas, pudiendo participar en dichas actividades: instituciones, organismos y personas físicas o morales, nacionales o extranjeras.
+II.- El desarrollo de eventos culturales y deportivos en las Calzadas, Parques y
+
+Plazas;
+
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2011)</small>
+
+III.- La creación de instalaciones apropiadas para personas con capacidades diferentes en las Calzadas, Parques y Plazas;
+
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2011)</small>
+
+IV.- Eventos especiales para la recreación de niños, Jóvenes y personas de la tercera edad en las Calzadas, Parques y Plazas;
+
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2011)</small>
+
+V.- El desarrollo de eventos ecológicos en las Calzadas, Parques y Plazas; y
+
+VI.- La Investigación y estudios para el mejoramiento de la flora y fauna de las Calzadas, Parques y Plazas, pudiendo participar en dichas actividades: instituciones, organismos y personas físicas o morales, nacionales o extranjeras.
 
 ###### Artículo 9.
 
 En las Calzadas, Parques y Plazas únicamente podrán realizarse aquellos eventos que hayan sido previa y e autorizados por el Municipio.
 
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 10.
 
-Sé prohibe la ejecución de cualquier clase de infraestructura en las Calzadas, Parques y Plazas.
+Se prohíbe la instalación de cualquier clase de Infraestructura nueva y permanente en las Calzadas San Pedro y Del Valle Alberto Santos González, sin la previa autorización del Republicano Ayuntamiento.
+
+Para la instalación de cualquier clase de Infraestructura en parques y plazas se requerirá de la autorización de la dependencia de la administración pública municipal competente
 
 ###### Artículo 11.
 
@@ -133,9 +157,13 @@ Queda prohibido introducir a las Calzadas, Parques y Plazas, cualquier clase de 
 
 No se permitirá el tránsito y permanencia en las Calzadas, Parques y Plazas, a personas en estado de ebriedad o bajo la influencia de estupefacientes o psicotrópicos.
 
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 17.
 
-En las Calzadas, Parques y Plazas sé prohibe el expendio y venta de todo tipo de alimentos y bebidas; permitiéndose únicamente éste, en eventos excepcionales que cuenten con la licencia o autorización correspondiente.
+En las Calzadas, Parques y Plazas se prohíbe el expendio y venta en forma permanente de todo tipo de alimentos y bebidas. Excepcionalmente el Republicano Ayuntamiento podrá emitir este tipo de autorizaciones.
+
+En cuanto a expendio y venta temporal que no exceda de 20 días naturales podrán otorgarse permisos por una sola vez, por la dependencia de la administración pública municipal competente, sin perjuicio de que el Republicano Ayuntamiento podrá ejercer la facultad de atracción para el conocimiento y resolución de dichos permisos.
 
 ###### Artículo 18.
 
@@ -143,9 +171,11 @@ Para llevar a cabo cualquier actividad comercial, de carácter excepcional, dent
 
 ### CAPITULO II. DE LOS SERVICIOS
 
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 19.
 
-Corresponde a la Secretaría Seguridad (sic) Pública y Vialidad del Municipio, prestar el servicio de seguridad pública en las Calzadas, Parques y Plazas.
+La seguridad pública en las Calzadas, Parques y Plazas se regirán por el Reglamento de Policía y Buen Gobierno.
 
 ###### Artículo 20.
 
@@ -193,17 +223,13 @@ XII. Causar daños al Patrimonio Municipal, consistente en el alumbrado, jardine
 
 XIII. Los demás actos u omisiones que contravengan esta y otras disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 22.
 
-Corresponde a las autoridades señaladas en el artículo 3° del presente Reglamento la aplicación de las sanciones administrativas por las infracciones cometidas contra (sic) de lo previsto por este ordenamiento, las cuales podrán consistir en
+Las sanciones administrativas por las infracciones cometidas al presente ordenamiento, así como el medio de defensa contra las mismas, se regirán por el Reglamento de Policía y Buen Gobierno.
 
-I. Amonestación verbal;
-
-II. Expulsión; y
-
-III. Multa.
-
-En caso de existir daños materiales al patrimonio municipal, independientemente de la sanción administrativa que se imponga al responsable 0 responsables, esté o estos, deberá o deberán reparar lo daños ocasionados.
+En caso de daños materiales al patrimonio municipal, deberá presentarse la denuncia correspondiente ante la autoridad competente.
 
 ###### Artículo 23.
 
@@ -219,11 +245,11 @@ III. Las condiciones personales del infractor.
 
 Las faltas al presente Reglamento que ameriten ser sancionadas con multa, se fijara a partir de una cuota igual al importe del salario mínimo general diario para ésta área geográfica, hasta 50 cuotas. La falta será calificada por alguna de las autoridades responsables de la aplicación de este ordenamiento, imponiendo al infractor la sanción que corresponda dentro del mínimo y máximo establecido.
 
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 25.
 
-Para los efectos de este Reglamento se considera reincidente a aquella persona que habiendo cometido cualquier infracción a lo dispuesto por este ordenamiento, viole nuevamente alguna de las disposiciones contenidas en el mismo.
-
-Al reincidente podrá aplicársele hasta el máximo de la sanción, y si cometiere diversas infracciones podrá aplicársele una multa adicional de 51 hasta 100 cuotas iguales al importe del salario mínimo general diario para esta área geográfica, previniéndole cese en la comisión de las infracciones y en caso de desacato, una sanción de una cuota diaria igual al importe del salario mínimo general diario para ésta área geográfica mientras persista en la infracción. En caso de obstinada rebeldía y negativa a pagar la multa se hará efectiva mediante procedimiento económico coactivo.
+Para los efectos del artículo 22, en los casos de reincidencia a la normativa de este reglamento, se regirán por lo dispuesto en el Reglamento de Policía y Buen Gobierno.
 
 ###### Artículo 26.
 
@@ -236,6 +262,24 @@ De las multas impuestas serán responsables, además del infractor, en el caso d
 ###### Artículo 28.
 
 En todo lo que no esté previsto en este Reglamento, se aplicarán los ordenamientos jurídicos que regulen los casos de que se trate.
+
+> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2011)</small>
+
+###### Artículo 29.
+
+Se establece y será aplicable como medio de defensa del ciudadano frente a los actos de autoridad fundados en el presente Reglamento, el medio de impugnación y el procedimiento previsto en el Reglamento de Policía y Buen Gobierno de San Pedro Garza García, Nuevo León.
+
+> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2011)</small>
+
+###### Artículo 30.
+
+En la medida que se modifiquen las condiciones socioeconómicas del Municipio, en virtud de su crecimiento demográfico, social y desarrollo de actividades productivas y demás aspectos de la vida comunitaria, el presente Reglamento podrá ser modificado o actualizado, tomando en cuenta la opinión de la propia comunidad.
+
+> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2011)</small>
+
+###### Artículo 31.
+
+Para garantizar la participación ciudadana en la revisión para la actualización, toda persona residente en el Municipio tiene la facultad de realizar por escrito sugerencias, ponencias o quejas en relación con el contenido normativo del presente Reglamento, escrito que deberá dirigirse al C. Secretario del Republicano Ayuntamiento a fin de que el C. Presidente Municipal dé cuenta de una síntesis de tales propuestas en Sesión Ordinaria del Republicano Ayuntamiento, para que dicho cuerpo colegiado tome la decisión correspondiente
 
 ## TRANSITORIO
 
@@ -252,3 +296,11 @@ PRESIDENTE MUNICIPAL
 LIC RICARDO MARTINEZ ELIZONDO
 
 SECRETARIO DEL R. AYUNTAMIENTO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 2 DE FEBRERO DE 2011.
+
+PRIMERO.- Las presentes reformas por modificación, adición y derogación al Reglamento para el Uso y Preservación de las Calzadas, Parques y Plazas del municipio de San Pedro Garza García, Nuevo León, entrarán en vigor el día de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+SEGUNDO.- Se deroga cualquier disposición que contravenga el presente reglamento.
