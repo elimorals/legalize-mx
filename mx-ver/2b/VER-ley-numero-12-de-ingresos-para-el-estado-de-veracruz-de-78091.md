@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-12-de-ingresos-para-el-estado-de-veracruz-de-78091"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-31"
-last_updated: "2010-12-31"
+last_updated: "2011-02-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78091&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NUMERO 12 DE INGRESOS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, CORRESPONDIENTE AL EJERCICIO FISCAL DE 2011
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 2 DE FEBRERO DE 2011.
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el viernes 31 de diciembre de 2010.
 
@@ -57,39 +57,65 @@ Impuestos 6,812'951,981
 
 Impuestos sobre los ingresos 280,267,465
 
-Sobre loterías, rifas, sorteos y concursos 26,262,936
+> <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2011)</small>
 
-Sobre la renta 156,329,219
+Impuesto sobre loterías, rifas, sorteos y concursos 26,262,936
 
-Empresarial a tasa única 97,675,311
+> <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2011)</small>
+
+Impuesto sobre la renta 156,329,219
+
+> <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2011)</small>
+
+Impuesto empresarial a tasa única 97,675,311
 
 Impuestos sobre el patrimonio 2,068,204,547
 
-Sobre tenencia o uso de vehículos 2,068,160,753
+> <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2011)</small>
 
-Al activo 43,794
+Impuesto sobre tenencia o uso de vehículos 2,068,160,753
+
+> <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2011)</small>
+
+Impuesto al activo 43,794
 
 Impuestos sobre la producción, el consumo
 
 y las transacciones 1,849,425,764
 
-Especial sobre producción y servicios en la
+> <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2011)</small>
 
-Venta de Diesel y Gasolina 1,428,477,409
+Impuesto especial sobre producción y servicios 1,428,477,409
 
-Al valor agregado 140,966,768
+> <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2011)</small>
 
-Sobre automóviles nuevos 185,901,528
+Impuesto al valor agregado 140,966,768
 
-Por la prestación de servicios de hospedaje 49,915,389
+> <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2011)</small>
 
-Sobre adquisición de vehículos
+Impuesto sobre automóviles nuevos 185,901,528
+
+> <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2011)</small>
+
+Impuesto por la prestación de servicios de hospedaje 49,915,389
+
+> <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2011)</small>
+
+Impuesto sobre adquisición de vehículos
 
 automotores usados 44,164,670
 
 Impuestos sobre nóminas y asimilables 2,099,045,653
 
-Sobre nóminas 2,099,045,653
+> <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2011)</small>
+
+Impuesto sobre nóminas 258,488,827
+
+> <small>(ADICIONADO, G.O. 2 DE FEBRERO DE 2011)</small>
+
+Impuesto sobre erogaciones por
+
+remuneraciones al trabajo personal 1,840,556,826
 
 Accesorios 200,707,196
 
@@ -103,7 +129,11 @@ Diversos 47,436
 
 Otros impuestos 315,301,355
 
-Adicionales 315,301,355
+> <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2011)</small>
+
+Impuesto adicional para el fomento
+
+de la educación 315,301,355
 
 Derechos 2,956,478,327
 
@@ -121,9 +151,11 @@ depósitos de propiedad nacional 300,906
 
 Derechos por la prestación de servicios 2,897,735,060
 
+> <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2011)</small>
+
 En materia de registro público
 
-de la propiedad 305,721,525
+de la propiedad y de comercio 305,721,525
 
 En materia de inspección y archivo
 
@@ -173,7 +205,15 @@ En materia de ordenamiento y control
 
 urbano y regional 1,954,298
 
-Servicios diversos 1,186,392
+> <small>(ADICIONADO, G.O. 2 DE FEBRERO DE 2011)</small>
+
+En materia de Servicios prestados
+
+por la Secretaría de Salud 106,775
+
+> <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2011)</small>
+
+Servicios diversos 1,079,617
 
 Accesorios 58,442,361
 
@@ -375,7 +415,9 @@ La Secretaría de Finanzas y Planeación podrá dictar los lineamientos de cará
 
 Se autoriza al Ejecutivo del Estado para que contraiga, conforme a las disposiciones del Libro Quinto del Código Financiero para el Estado de Veracruz de Ignacio de la Llave, un endeudamiento neto hasta por un monto equivalente a cinco por ciento del total de los ingresos ordinarios que se obtengan en el ejercicio fiscal 2011, para ser destinado a inversión pública productiva y reducir la estacionalidad de las participaciones federales que repercuten sobre los pagos a proveedores de la misma. El Ejecutivo del Estado podrá ejercer la presente autorización, sin rebasar el porcentaje señalado y sin que el término de la liquidación del endeudamiento exceda el periodo constitucional de la presente administración.
 
-En garantía o fuente de pago de los financiamientos que se celebren con base en esta autorización, el Gobierno del Estado podrá afectar las participaciones que en ingresos federales reciba, los ingresos que deriven de programas, ramos o aportaciones de apoyo instrumentados por el Gobierno Federal que, conforme a las disposiciones legales que los rijan, puedan destinarse al saneamiento financiero, y los ingresos propios, sin incluir los provenientes de los impuestos sobre Nóminas y por la Prestación de Servicios de Hospedaje.
+> <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2011)</small>
+
+En garantía o fuente de pago de los financiamientos que se celebren con base en esta autorización, el Gobierno del Estado podrá afectar las participaciones que en ingresos federales reciba, los ingresos que deriven de programas, ramos o aportaciones de apoyo instrumentados por el Gobierno Federal que, conforme a las disposiciones legales que los rijan, puedan destinarse al saneamiento financiero, y los ingresos propios, sin incluir los provenientes de los impuestos sobre nóminas, del impuesto por la prestación de servicios de hospedaje y del impuesto sobre erogaciones por remuneraciones al trabajo personal.
 
 T R A N S I T O R I O
 
@@ -406,3 +448,11 @@ Doctor Javier Duarte de Ochoa
 Gobernador del Estado
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 2 DE FEBRERO DE 2011.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que contravengan el presente Decreto.
