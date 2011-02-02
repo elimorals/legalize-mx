@@ -4,7 +4,7 @@ identifier: "PUE-codigo-reglamentario-para-el-municipio-de-puebla-44625"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-31"
-last_updated: "2010-08-25"
+last_updated: "2011-02-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE AGOSTO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE FEBRERO DE 2011.
 
 Código publicado en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2004.
 
@@ -129,7 +129,9 @@ Así mismo, el Municipio a través del Presidente Municipal, previo acuerdo del 
 
 Será objeto de los acuerdos y convenios antes referidos de manera enunciativa más no limitativa:
 
-l. La coordinación para la planeación y ejecución conjunta de programas y acciones que tengan por objeto la atención a grupos con mayores niveles de rezago y marginación, elevar el nivel y calidad de la cobertura de servicios, la integración equilibrada de las regiones y en general de acciones que permitan la ejecución de obras, servicios y actividades en materia de desarrollo social, política de desarrollo rural, fomento o desarrollo económico;
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2011)</small>
+
+I. La coordinación para la planeación y ejecución conjunta de programas y acciones que tengan por objeto la atención a grupos con mayores niveles de rezago y marginación, atendiendo a la vez a las personas con discapacidad, elevar el nivel y calidad de vida con la cobertura de servicios, la integración equilibrada de las regiones y en general de acciones que permitan la ejecución de obras, servicios y actividades en materia de desarrollo social, política de desarrollo rural, fomento o desarrollo económico;
 
 II. Promover el desarrollo municipal, regional, estatal o interestatal, así como la definición y ejecución de políticas, estrategias, obras y servicios públicos;
 
@@ -1471,9 +1473,13 @@ XV.- Consejo de la Juventud; y (sic)
 
 XVI.- Consejo Ciudadano de Desempeño Gubernamental;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 12 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2011)</small>
 
-XVII.- Las demás que determine el Ayuntamiento.
+XVII.- Consejo Ciudadano de Discapacidad; y
+
+> <small>(ADICIONADA, P.O. 2 DE FEBRERO DE 2011)</small>
+
+XVIII.- Los demás que determine el Ayuntamiento.
 
 El objetivo de los consejos señalados con anterioridad, será el de ocuparse de los asuntos que le encomiende el Ayuntamiento de Puebla, vinculados a su denominación.
 
@@ -2065,7 +2071,9 @@ i) Alteren, rompan, dañen o mutilen los sellos de clausura o las boletas de inf
 
 j) Arrojen a la vía pública, lotes baldíos, ríos o barrancas, basura u objetos que puedan causar molestia a los vecinos, transeúntes o vehículos;
 
-k) Impidan el acceso a perros guía que asistan a invidentes o a personas con capacidad diferenciada en los lugares públicos y privados o transporte público;
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2011)</small>
+
+k) Impidan el acceso a los perros guía que asistan a personas con discapacidad al interior de lugares públicos o privados así como al transporte público;
 
 l) Ejerzan actos de comercio dentro del área de cementerios, templos, monumentos, edificios públicos, en aquellos lugares que por su tradición y costumbre deberán ser respetadas, y en lugares no autorizados; a menos que cuenten con la autorización y el permiso correspondiente para tal efecto;
 
@@ -2073,7 +2081,15 @@ m) Vendan o proporcionen a los menores de edad, bebidas alcohólicas y/o tóxico
 
 n) Vendan, ofrezcan sus productos o mercancías, sin el permiso de la Autoridad competente en lugares distintos al giro comercial autorizado, independientemente de la sanción que se imponga a los establecimientos que les permitan la entrada a los mismos, en términos de las leyes y disposiciones jurídicas correspondientes; y
 
-ñ) Siendo propietarios, poseedores o arrendadores permitan o autoricen la comercialización a terceros; como responsables solidarios; independientemente de la sanción que se imponga a los establecimientos que les permitan la entrada a los mismos, en términos de las leyes y disposiciones jurídicas correspondientes.
+ñ) Siendo propietarios, poseedores o arrendadores permitan o autoricen la comercialización a terceros; como responsables solidarios; independientemente de la sanción que se imponga a los establecimientos que les permitan la entrada a los mismos, en términos de las leyes y disposiciones jurídicas correspondientes;
+
+> <small>(ADICIONADA, P.O. 2 DE FEBRERO DE 2011)</small>
+
+o) Obstruyan o impidan el acceso, en lugares públicos o privados, a los cajones y/o espacios de estacionamiento destinados para las personas con discapacidad;
+
+> <small>(ADICIONADA, P.O. 2 DE FEBRERO DE 2011)</small>
+
+p) impidan u obstruyan con objetos o vehículos los accesos y uso de las rampas y demás infraestructura urbana que permite el libre tránsito a las personas con discapacidad.
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -3479,23 +3495,39 @@ Los propietarios y conductores de vehículos deben evitar que éstos sean conduc
 
 DE LOS PEATONES Y PASAJEROS
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 279.
 
-Los peatones y personas con capacidades diferentes tienen derecho de preferencia sobre el tránsito vehicular, para garantizar su integridad física cuando:
+Los peatones y personas con discapacidad tienen derecho de preferencia sobre el tránsito vehicular, para garantizar su integridad física cuando:
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 I. En los pasos peatonales la señal del semáforo así lo indique;
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 II. Habiéndoles correspondido el paso de acuerdo con el ciclo del semáforo no alcancen a cruzarla vía;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 Ill. Los vehículos vayan a dar vuelta para entrar a otra vía y haya peatones cruzando ésta;
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 IV. Los vehículos circulen sobre el acotamiento y en éste haya peatones transitando en el caso de que no dispongan de zona peatonal;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 V. Transiten por la banqueta y algún conductor deba cruzarla para entrar o salir de una cochera o estacionamiento; y
 
-VI. Vayan en comitivas organizadas o filas escolares.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
+VI. Vayan en comitivas organizadas o filas escolares;
+
+> <small>(ADICIONADA, P.O. 2 DE FEBRERO DE 2011)</small>
+
+VII. Accedan a las rampas destinadas para incorporarse a la banqueta.
 
 ###### Artículo 280.
 
@@ -3733,27 +3765,35 @@ III. En todo caso los conductores deben observar estrictamente las disposiciones
 
 IV. Los vehículos no podrán ser estacionados fuera de los lugares permitidos para ese efecto, ni a menos de diez metros de la esquina en donde no se encuentre marcada la limitación correspondiente; tampoco podrá estacionarse en o cerca de una curva, o la cima donde el vehículo no pueda ser visto por otro a una distancia de seguridad, de acuerdo con la velocidad permitida en la vía.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 294.
 
-Las personas con capacidad diferente, tienen derecho a estacionar los vehículos que utilicen en las áreas o cajones destinados para uso exclusivo de las mismas, correspondiendo a la Dirección de Tránsito la salvaguarda de dicha prerrogativa, para la cual tendrá las siguientes atribuciones:
+Las personas con discapacidad, tienen derecho a estacionar los vehículos que utilicen en las áreas o cajones destinados para uso exclusivo de las mismas, correspondiendo a la Dirección de Tránsito la salvaguarda de dicha prerrogativa, para la cual tendrá las siguientes atribuciones:
 
 > <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
 
 I. Vigilar en coordinación con la Unidad de Normatividad y Regulación Comercial que en los estacionamientos, dichos espacios se establezcan en la proporción y con las características reglamentadas por las disposiciones municipales en materia de construcciones;
 
-II. En las calles y avenidas en el que se permita el estacionamiento de vehículos, destinar un espacio por cada veinte o fracción a partir de diez, para uso reservado a personas con discapacidad, con las dimensiones que la misma autoridad estime convenientes y con una ubicación lo más cercana posible de las rampas establecidas para facilitar el tránsito, la seguridad y la accesibilidad de dichas personas, instalando la señal internacional del discapacitado en un lugar fácilmente visible y pintada, además sobre el pavimento del cajón;
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2011)</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+II. En las calles y avenidas en las que se permita el estacionamiento de vehículos, destinar un espacio por cada veinte o fracción a partir de diez, para uso reservado a personas con discapacidad, con una ubicación lo más cercana posible a las rampas establecidas para facilitar el tránsito, la seguridad y la accesibilidad de dichas personas, instalando la señalética de conformidad con la normatividad vigente, destinada para personas con discapacidad, en un lugar fácilmente visible y además pintada sobre el pavimento;
 
-III. Procurar el respeto de estos espacios, cuidando que en los mismos sólo se estacionen vehículos que tengan pegada, en lugar visible, la placa oficial;
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2011)</small>
 
-> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2007)</small>
+III. Garantizar el respeto de los espacios señalados en el presente artículo, cuidando que en los mismos sólo se estacionen vehículos que tengan la autorización oficial o en su caso cuando del vehículo descienda o ascienda alguna persona con una discapacidad;
 
-IV. Detectar, en su caso, el uso indebido de las placas a que se refiere la fracción anterior, y
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2011)</small>
 
-V. Sin perjuicio de las atribuciones que correspondan a otras dependencias municipales, determinar y sancionar las infracciones que cometan los particulares con relación con este artículo y las obligaciones derivadas del mismo.
+IV. Detectar en su caso, el uso indebido de las autorizaciones a que se refiere la fracción anterior;
+
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2011)</small>
+
+V. La Dirección de Tránsito Municipal procurará que los espacios de estacionamiento para personas con discapacidad sean señalizados con una dimensión de 3.8 por 5.5 metros, además deberá instalar la señalética destinada para el ascenso y descenso de los usuarios con discapacidad al servicio del transporte público en los lugares para tal efecto; y
+
+> <small>(ADICIONADA, P.O. 2 DE FEBRERO DE 2011)</small>
+
+VI. Sin perjuicio de las atribuciones que correspondan a otras dependencias municipales, determinar y sancionar las infracciones que cometan los particulares con relación con este artículo y las obligaciones derivadas del mismo.
 
 ###### Artículo 295.
 
@@ -3791,7 +3831,9 @@ VIII. Por estacionarse sobre la banqueta, camellones, calles o vías angostas, d
 
 IX. En lugares permitidos como paradas, estaciones, terminales, bases o sitios, excepto los vehículos autorizados;
 
-X. Frente a las rampas y demás infraestructura urbanas destinada a facilitar el tráfico, la seguridad o la accesibilidad de las personas con discapacidad, y en las áreas o cajones de estacionamiento destinados al uso exclusivo de dichas personas, si el vehículo carece en este caso de la calcomanía respectiva;
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2011)</small>
+
+X. Al Obstaculizar las rampas y demás infraestructura urbana destinada a facilitar el tránsito, la seguridad o la accesibilidad de las personas con discapacidad, u ocupar los espacios de estacionamiento destinados al uso exclusivo de dichas personas sin contar con la autorización oficial;
 
 XI. Dentro de una distancia de 10 metros de un letrero de “alto” o señal de control de tránsito;
 
@@ -4585,11 +4627,11 @@ II. Multa por el importe de 2 a 40 días de salario mínimo general vigente en e
 
 Las anteriores sanciones se aplicarán, sin perjuicio de las que procedan conforme al Código de Defensa Social del Estado de Puebla, el Capítulo de Policía y Gobierno de este Código Reglamentario o algún otro ordenamiento que resulte aplicable.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 360.
 
-Cuando una persona infrinja por primera vez este Capítulo, de acuerdo con la base de datos de la Dirección de Tránsito, sólo se le sancionará de manera preventiva, imponiendo una amonestación verbal, salvo en caso de trasgresión a los artículos 261, 262, 268, 291 fracción I, 301, 303, 304 fracciones I y VI, 309, 321, 338 y 373 de este mismo ordenamiento. En estos últimos supuestos o a partir de la segunda infracción en los demás casos, las violaciones se sancionarán con la amonestación o la imposición de la multa señalada para cada falta de manera específica, y con equivalencia a las ordenadas estatalmente, en el siguiente:
+Cuando una persona infrinja por primera vez este Capítulo, de acuerdo con la base de datos de la Dirección de Tránsito, sólo se le sancionará de manera preventiva, imponiendo una amonestación verbal, salvo en caso de trasgresión a los artículos 261, 262, 268, 291 fracción I, 297 fracción X, 301, 303, 304 fracciones I y VI, 309, 321, 338 y 373 de este mismo ordenamiento. En estos últimos supuestos o a partir de la segunda infracción en los demás casos, las violaciones se sancionarán con la amonestación o la imposición de la multa señalada para cada falta de manera específica, y con equivalencia a las ordenadas estatalmente, en el siguiente:
 
 TABULADORES DE INFRACCIONES Y SANCIONES
 
@@ -5987,6 +6029,10 @@ VIII. En el caso de que el promotor de espectáculos presente actuaciones artís
 
 IX. Presentar croquis de ubicación del lugar donde se pretenda realizar el espectáculo y acreditar la propiedad, posesión o derecho de uso del inmueble o local donde se realizará el espectáculo;
 
+> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2011)</small>
+
+En el croquis de ubicación deberá señalarse el acceso, la estancia, así como en el uso de todos los servicios para las personas con discapacidad. En el caso de auditorios, salas de espectáculos y centros religiosos deberá cumplirse con las especificaciones de accesibilidad que para tal efecto señala el Manual Técnico de Accesibilidad Aplicable a Construcciones en el Municipio de Puebla.
+
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 X. Exhibir los documentos que amparen la contratación de los servicios médicos, de seguridad privada o auxiliar, en los casos en que la Coordinación de Fiscalización de Espectáculos Públicos así lo determine, para el caso de los elementos de seguridad privada deberán estar registrados en el Sistema Nacional de Seguridad Pública;
@@ -6199,7 +6245,11 @@ XXVI. Elaborar un registro del personal que participe en cualquier tipo de espec
 
 XXVII. Verificar que el personal de seguridad privada o auxiliar cuente con carta de antecedentes no penales; y
 
-XXVIII. Colocar contenedores para el depósito de los residuos que se generen en el espectáculo.
+XXVIII. Colocar contenedores para el depósito de los residuos que se generen en el espectáculo;
+
+> <small>(ADICIONADA, P.O. 2 DE FEBRERO DE 2011)</small>
+
+XXIX. Especificar y proporcionar el espacio destinado para las personas con discapacidad, que corresponderá el 2% en el caso de que los aforos sean menores a cinco mil personas, 1% cuando oscilen de cinco mil a veinte mil personas, y 0.5% cuando el aforo sea mayor de veinte mil por cada área que corresponda en el inmueble.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -6243,7 +6293,11 @@ VIII. Realizar actos que impliquen reventa de boletos a precios superiores a los
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-IX. Anunciar o presentar un espectáculo distinto al autorizado.
+IX. Anunciar o presentar un espectáculo distinto al autorizado;
+
+> <small>(ADICIONADA, P.O. 2 DE FEBRERO DE 2011)</small>
+
+X. Impedir el acceso en razón a ser persona con discapacidad.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -6525,7 +6579,9 @@ II. De segunda clase; aquellas que tengan una capacidad menor.
 
 En la construcción de las Plazas de Toros se observarán, además de las normas del Capítulo de Construcciones, las siguientes:
 
-I. Las puertas de entrada a la Plaza y a los Tendidos serán amplias y en número suficiente para dar acceso al público y evitar aglomeraciones;
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2011)</small>
+
+I. Las puertas de entrada a la Plaza y a los Tendidos serán amplias y en número suficiente para dar acceso al público en general, personas con discapacidad y evitar aglomeraciones;
 
 II. Las escalerillas que conduzcan a las distintas localidades deberán estar convenientemente distribuidas para facilitar la pronta ocupación y abandono de éstas;
 
@@ -6533,11 +6589,19 @@ III. Las graderías contarán con pasillos suficientes para el más rápido acce
 
 IV. Las localidades estarán distribuidas en dos departamentos “sol “ y “sombra”, separadas por fuerte malla metálica; serán confortables y deberán estar construidas con la pendiente y los requisitos necesarios para que desde todas ellas y sentados los espectadores puedan ver el redondel en toda su extensión, aún cuando se registre una entrada a su máxima capacidad en todos los tendidos. Cada departamento estará dividido en las siguientes secciones contrabarrera, tendido numerado, tendido general y cualesquiera otro;
 
-V. Las localidades de cada sección estarán pintadas de un mismo color, diferente al de las demás secciones y ostentarán en su caso, el número progresivo que corresponda;
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2011)</small>
+
+V. Las localidades de cada sección estarán pintadas de un mismo color, diferente al de las demás secciones y ostentarán en su caso, el número progresivo que corresponda. En cada sección estarán señalados los espacios destinados para las personas con discapacidad debiendo ser al menos 2 por cada 100 localidades. El acceso para las personas con discapacidad, la estancia, así como en el uso de todos los servicios deberán contar con lugares sin butaca fija para su posible ocupación por personas en sillas de ruedas.
+
+Los lugares para personas en silla de ruedas se localizarán de dos en dos, pero sin aislarse de las butacas generales para permitir acompañantes, además deberán estar próximos a los accesos y salidas de emergencia.
+
+Los accesos para las personas con discapacidad deberán estar libres de obstáculos, señalizados y sin escalones.
 
 VI. Habrá en la Plaza suficiente número de tomas de agua entre las que se incluirán las de uso de emergencia para el cuerpo de bomberos;
 
-VII. Habrá servicios sanitarios en número suficiente de acuerdo con el cupo de las plazas y estarán ubicados en lugares inmediatos a los tendidos, en instalaciones independientes para cada sexo;
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2011)</small>
+
+VII. Habrá servicios sanitarios en número suficiente de acuerdo con el cupo de las plazas y estarán ubicados en lugares inmediatos a los tendidos, en instalaciones independientes para cada sexo, incluyendo los correspondientes para personas con discapacidad;
 
 VIII. El redondel de las Plazas de Primera Categoría medirá de cuarenta a cincuenta metros de diámetro; y en las de Segunda Categoría medirá como mínimo de diámetro treinta metros, su piso será de arena, con drenado adecuado, conservándosele en buen estado y se regará y apisonará convenientemente tres horas antes de cada espectáculo, pero cuando el caso lo amerite, a juicio de la Autoridad, deberá regarse una vez más a la mitad del espectáculo. Antes de celebrarse una corrida o novillada, se trazarán en el piso del redondel, con pintura de color adecuado, dos circunferencias concéntricas con una distancia desde el estribo de la barrera, la primera de cinco metros y la segunda de siete, de la primera no podrán avanzar los picadores al situarse para la suerte de varas y la segunda no la rebasará la res al ser colocada para la suerte señalada;
 
@@ -7247,7 +7311,9 @@ I. Las Empresas interesadas en celebrar espectáculos taurinos en el Municipio d
 
 a). Dictamen vigente sobre el estado del local que vaya a utilizarse, emitido por la Dirección de Gestión y Desarrollo Urbano Sustentable del Ayuntamiento, en el que se certifique que cuenta con las condiciones técnicas y de seguridad que señala el presente Código Reglamentario;
 
-b). Croquis con la ubicación del lugar donde se pretenda realizar el espectáculo, así como los documentos que acrediten el derecho de utilizarlo;
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2011)</small>
+
+b). Croquis con la ubicación del lugar donde se pretenda realizar el espectáculo, así como los documentos que acrediten el derecho de utilizarlo. En el croquis de ubicación deberá señalarse el acceso, la estancia, así como en el uso de todos los servicios para las personas con discapacidad;
 
 c). Fecha ó fechas en las que desee realizar el o los espectáculos;
 
@@ -7378,6 +7444,10 @@ f). Arrancar la divisa o las banderillas al toro cuando este pase al hilo del ca
 g). Bajar al ruedo antes de que sea arrastrado el último toro y;
 
 h). Portar armas e introducir a la Plaza toda clase de debidas (sic) embriagantes.
+
+> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2011)</small>
+
+i) Ocupar los espacios destinados para las personas con discapacidad, sin serlo.
 
 A quien infrinja estas disposiciones, se le consignará al Juzgado Calificador para que se le aplique la sanción correspondiente, que consistirá en multa de cuatro a doce veces días de salario mínimo general diario, vigente en el Municipio de Puebla; o en su defecto, un arresto hasta por dieciocho horas.
 
@@ -7855,9 +7925,13 @@ XVII. Para el caso de los establecimientos autorizados, incluyendo a los que fun
 
 XVIII. Capacitar al personal a su cargo en materia de protección civil y seguridad pública; y
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2011)</small>
 
-XIX. Las demás que se señalan en este Capítulo y otras disposiciones legales aplicables.
+XIX. Permitir el acceso a las personas con discapacidad a los establecimientos para los cuales se otorgó la licencia;
+
+> <small>(ADICIONADA, P.O. 2 DE FEBRERO DE 2011)</small>
+
+XX. Las demás que se señalan en este Capítulo y otras disposiciones legales aplicables.
 
 ###### Artículo 615.
 
@@ -7903,9 +7977,13 @@ XIV. Permitir que el personal y los guardias de seguridad ingieran bebidas alcoh
 
 XV. La venta o enajenación de estupefacientes en el interior del establecimiento, incluyendo a los menores de edad; y
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2011)</small>
 
-XVI. Las demás que se establecen o se desprenden de las disposiciones de este Capítulo y de la legislación vigente aplicable.
+XVI. Impedir la entrada o acceso al establecimiento a las personas con discapacidad;
+
+> <small>(ADICIONADA, P.O. 2 DE FEBRERO DE 2011)</small>
+
+XVII. Las demás que se establecen o se desprenden de las disposiciones de este Capítulo y de la legislación vigente aplicable.
 
 DE LOS HORARIOS AUTORIZADOS
 
@@ -9445,7 +9523,7 @@ XVII. Producto cárnico: Se entenderá por éste lo contemplado en el artículo 
 
 XVIII. Reinspección: Revisión para constatar el cumplimiento de las disposiciones de este Código y demás ordenamientos legales aplicables en la materia; de las canales o subproductos que ya fueron sujetos a inspección por un rastro distinto del Municipal;
 
-XIX. Resello: Sello que se coloca con la leyenda “Inspeccionado y Aprobado” en la carne comercializada en el Municipio de Puebla que presenta alguna alteración en el sello original, como estar borroso o presumirse de dudosa procedencia; y
+XIX. Resello: Sello que se coloca con la leyenda "Inspeccionado y Aprobado" en la carne comercializada en el Municipio de Puebla que presenta alguna alteración en el sello original, como estar borroso o presumirse de dudosa procedencia; y
 
 XX. Subproducto: Derivado del producto cárnico, como jamón, tocino, queso de puerco, pastel de pollo, longaniza, chorizo, mortadela, salami, carne adobada, carne seca, cecina, tasajo, chicharrón, frituras, toda clase de embutidos, y cualquier otro semejante.
 
@@ -9665,9 +9743,9 @@ DEL TRANSPORTE DE LOS PRODUCTOS CÁRNICOS Y/O SUBPRODUCTOS
 
 > <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2009)</small>
 
-Artículo 639 Septdecies.- El transporte de productos cárnicos y/o subproductos, estará regulado por lo contemplado en el Capítulo 23 referente al “Servicio de Transporte del Producto Cárnico y sus Derivados”, por las normas NOM-009-ZOO-1994, NOM-024-ZOO-1995 y NOM-194-SSA1-2004, así como las normas oficiales vigentes y demás disposiciones legales aplicables.
+Artículo 639 Septdecies.- El transporte de productos cárnicos y/o subproductos, estará regulado por lo contemplado en el Capítulo 23 referente al "Servicio de Transporte del Producto Cárnico y sus Derivados", por las normas NOM-009-ZOO-1994, NOM-024-ZOO-1995 y NOM-194-SSA1-2004, así como las normas oficiales vigentes y demás disposiciones legales aplicables.
 
-Para el caso de que el transporte provenga de un Rastro Tipo Inspección Federal y/o en él se trasladen productos cárnicos y/o subproductos amparados con la certificación “México Calidad Suprema”, los inspectores municipales sólo verificarán que la documentación correspondiente se encuentre en orden.
+Para el caso de que el transporte provenga de un Rastro Tipo Inspección Federal y/o en él se trasladen productos cárnicos y/o subproductos amparados con la certificación "México Calidad Suprema", los inspectores municipales sólo verificarán que la documentación correspondiente se encuentre en orden.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE DICIEMBRE DE 2009)</small>
 
@@ -9675,7 +9753,7 @@ DE LAS SANCIONES
 
 > <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2009)</small>
 
-Artículo 639 Octodecies.- Las autoridades sanitarias municipales determinarán, calificarán e impondrán a quienes infrinjan las disposiciones establecidas en el Subtítulo "De la Comercialización de Productos Cárnicos y/o Subproductos y Aves Muertas", y los que resulten aplicables en la materia, indistintamente las sanciones señalas (sic) en el artículo 1671 de este ordenamiento.
+Artículo 639 Octodecies.- Las autoridades sanitarias municipales determinarán, calificarán e impondrán a quienes infrinjan las disposiciones establecidas en el Subtítulo “De la Comercialización de Productos Cárnicos y/o Subproductos y Aves Muertas”, y los que resulten aplicables en la materia, indistintamente las sanciones señalas (sic) en el artículo 1671 de este ordenamiento.
 
 Para la aplicación de dichas sanciones se considerará como infracciones administrativas las contempladas en el artículo 1671 Bis fracciones I, II, III, IV, V y VI del presente Código. La reincidencia será sancionada con multa por el doble de las cantidades señaladas.
 
@@ -9690,14 +9768,6 @@ Artículo 639 Vicies.- Para el caso de la reinspección de los productos cárnic
 I. Si se encuentran alteraciones que los hagan impropios para el consumo humano, serán decomisados y se dispondrá de ellos en la forma en que se previene en el artículo inmediato anterior.
 
 II. Cuando estén en condiciones de sanidad que permitan su uso en la alimentación humana, previo pago de los derechos correspondientes, serán resellados con la leyenda "Inspeccionado y Aprobado", pudiendo el propietario aprovecharlo en su venta directa o en la elaboración de productos comestibles; esto también se hará constar en el acta respectiva.
-
-> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2009)</small>
-
-Artículo 639 Unvicies.- Para la imposición de las sanciones administrativas a que se refiere el artículo 639 Octodecies, la autoridad sanitaria municipal tomará en cuenta la gravedad de la infracción, la reincidencia, los daños y perjuicios causados, los antecedentes, circunstancias personales y situación socioeconómica del infractor.
-
-Las sanciones de referencia se impondrán, sin perjuicio de la responsabilidad administrativa o penal de la competencia de autoridad diversa.
-
-Si el incumplimiento a lo dispuesto en el presente Capítulo implica la comisión de un delito, los responsables serán puestos a disposición de la autoridad competente.
 
 > <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2009)</small>
 
@@ -10759,7 +10829,9 @@ V. Construir, modificar o reparar guarniciones y banquetas para prevenir impacto
 
 VI. Construir o instalar cualquier tipo de barrera sobre las guarniciones, aceras y pavimento;
 
-VII. Construir módulos de información, casetas de vigilancia, paradas de autobuses, puestos de revistas y periódicos, y que impidan la libre circulación o paso de personas con discapacidad;
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2011)</small>
+
+VII. Construir módulos de información, casetas de vigilancia, paradas de autobuses, puestos de revistas y periódicos;
 
 VIII. Construir pasos y puentes peatonales, públicos y privados;
 
@@ -10795,7 +10867,9 @@ VIII. Cerrar calles privadas, retornos, cerradas, con rejas, postes, bardas, por
 
 IX. Construir expendios de dulces o mercancías y cualquier otra construcción sobre la vía pública;
 
-X. Toda obra que se ejecute en la vía pública evitará obstruir la libre circulación peatonal y vehicular, así como de las personas con discapacidad; y
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2011)</small>
+
+X. Ejecutar obra en la vía pública que obstruya la libre circulación peatonal y vehicular, así como la de las personas con discapacidad; y
 
 XI. Para aquellos otros fines que la Dirección considere contrarios al interés público.
 
@@ -11403,13 +11477,17 @@ Los géneros de edificios tratados en este Capítulo, se distinguen por una seri
 
 Todo lo anterior, genera especiales repercusiones sobre los problemas del desarrollo urbano del Municipio que deben tomarse en cuenta en las autorizaciones de licencias de construcción correspondientes.
 
-Es de vital importancia considerar reglas de ayuda y facilidades para personas con capacidades diferentes.
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2011)</small>
+
+Es forzosa la observancia del Manual Técnico de Accesibilidad Aplicable a Construcciones en el Municipio de Puebla, que establece las medidas obligatorias de accesibilidad.
 
 Las edificaciones previstas o no en los géneros de edificios que tengan especial relevancia, deberán ser analizados por las autoridades municipales y el Comité de Asesoría y Admisión de Directores Responsables de Obra y Corresponsables.
 
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 761.
 
-En los géneros de edificios a tratar en los apartados subsecuentes, se mencionan elementos del diseño arquitectónico como lo son: circulaciones, anchos de escaleras, iluminación, ventilación, accesos, asoleamientos, acústica, isópticas entre otros. Todos estos elementos deberán cumplir con las normas del diseño arquitectónico correspondiente de acuerdo a cada género de edificio, debiéndolos fundamentar el proyectista en todo caso, mediante breve memoria descriptiva del proyecto arquitectónico, sujetándose, en los aspectos relacionados a discapacitados, a la norma contenida en el Manual Técnico Accesibilidad.
+En los géneros de edificios a tratar en los apartados subsecuentes, se mencionan elementos del diseño arquitectónico como lo son: circulaciones, anchos de escaleras, iluminación, ventilación, accesos, asoleamientos, acústica, isópticas entre otros. Todos estos elementos deberán cumplir con las normas del diseño arquitectónico correspondiente de acuerdo a cada género de edificio, debiéndolos fundamentar el proyectista en todo caso, mediante breve memoria descriptiva del proyecto arquitectónico, sujetándose, en los aspectos relacionados a personas con discapacidad a la norma contenida en el Manual Técnico de Accesibilidad Aplicable a Construcciones en el Municipio de Puebla.
 
 ###### Artículo 762.
 
@@ -11759,9 +11837,11 @@ Quedan exceptuados de este requisito los campos comúnmente denominados “llane
 
 En caso de dotarse de graderías, las estructuras de éstas serán de materiales incombustibles, debiendo presentarse los planos y cálculos técnicos con la responsiva profesional de un Director Responsable de Obra.
 
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 792.
 
-El acceso a las instalaciones deberá contar con rampas, cuya pendiente no exceda del 8%. Se deberá solventar todos los niveles del complejo deportivo en su interior con rampas para uso de personas con capacidad diferente.
+El acceso a las instalaciones deberá contar con rampas, cuya pendiente no exceda del 8%. Se deberá solventar todos los niveles del complejo deportivo en su interior con rampas para uso de personas con discapacidad.
 
 ###### Artículo 793.
 
@@ -11807,7 +11887,9 @@ Campos de golf Área de campo 1 por cada 750 m2
 
 Para público en general 1 por cada 8 personas
 
-Para las personas con capacidades diferentes, se destinarán por lo menos un espacio por cada 50 m2 o fracción a partir de 12, o en su caso de 2% del total de espacios, los cuales deberán estar bien ubicados e identificados tal como se indica en los incisos a) y b) del numeral 1.4 del artículo 776.
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2011)</small>
+
+Para las personas con discapacidad, se destinarán espacios de estacionamiento señalados en el Manual Técnico de Accesibilidad Aplicable a Construcciones en el Municipio de Puebla.
 
 Cuando se implemente el servicio de Valet Parking, será necesario contar con bahías de recepción y entrega de vehículos con capacidad mínima de 3 unidades.
 
@@ -11831,7 +11913,9 @@ En los edificios para baño, los servicios sanitarios de los departamentos para 
 
 En el departamento para mujeres los servicios sanitarios deberán contar con un mínimo de dos inodoros, un lavabo por cada diez casilleros, lo mismo se requerirá por cada cinco vestidores individuales.
 
-En ambos departamentos al menos un inodoro deberá destinarse para el uso de personas con capacidades diferentes, el cual deberá contar con una superficie mínima libre de 1.50 metros por 1.50 metros aparte del área del mueble.
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2011)</small>
+
+En ambos departamentos al menos un inodoro y lavabo deberá destinarse para el uso de personas con discapacidad, el cual deberá cumplir con el Manual Técnico de Accesibilidad Aplicable a Construcciones en el Municipio de Puebla.
 
 Las áreas de regadera y vapor se recubrirán con materiales impermeables en muros y techos, los pisos se recubrirán con materiales antiderrapantes.
 
@@ -11889,7 +11973,9 @@ El estacionamiento previsto para las personas con capacidad diferente, se deber�
 
 SERVICIOS SANITARIOS: Se deberán proporcionar en forma separada los requisitos de servicio sanitario para hombres y mujeres, debiéndose contar en cuartos privados, un baño completo por cada cuarto, y en cuartos múltiples, uno por cada cuatro camas.
 
-Los sanitarios públicos en hospitales, clínicas y centros de salud deberán estar acondicionados para discapacitados o personas con sillas de ruedas, el espacio libre requerido para permitir el giro de la silla de ruedas deberá ser de 1.50 x 1.50 m libres y respetarse independientemente del inodoro. Así mismo deberá condicionarse la instalación de barras de apoyo y los demás accesorios deberán colocarse de tal forma que facilite el uso del discapacitado.
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2011)</small>
+
+Los sanitarios públicos en hospitales, clínicas y centros de salud deberán estar acondicionados para personas con discapacidad o personas con sillas de ruedas, el espacio libre requerido para permitir el giro de la silla de ruedas deberá ser de 1.50 x 1.50 m. libres y respetarse independientemente del inodoro, además deberá invariablemente cumplir con el Manual Técnico de Accesibilidad Aplicable a Construcciones en el Municipio de Puebla, referente a éste caso. Así mismo deberá condicionarse la instalación de barras de apoyo y los demás accesorios deberán colocarse de tal forma que facilite el uso por las personas con discapacidad.
 
 INDUSTRIAS
 
@@ -11935,7 +12021,9 @@ El total del ancho de la puerta de acceso, deberá ser por lo menos igual a tres
 
 Las salas de espectáculos deberán contar con taquillas que no obstruyan la circulación y se localicen en forma visible, deberá haber cuando menos una taquilla por cada 400 butacas o fracción de acuerdo con el cupo de localidad.
 
-Debe dotarse de lugares para personas con capacidad diferente, el cual estará ubicado siempre junto a un pasillo debiendo ser los suficientemente amplio para alojar una silla de ruedas; el número de espacios destinados a personas con capacidades diferentes, será de dos por cada cien butacas.
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2011)</small>
+
+Debe dotarse de lugares para personas con discapacidad, los cuales estarán ubicados siempre junto a un pasillo debiendo ser los (sic) suficientemente amplio para alojar una silla de ruedas; el número de espacios destinados a personas con discapacidad, será de dos por cada cien butacas.
 
 Las salas de espectáculos se calcularán a razón de 2.50 m2. por espectador y en ningún punto tendrán una altura libre inferior a 3.00 m.
 
@@ -20429,9 +20517,11 @@ En los mercados públicos municipales, las licencias de funcionamiento podrán i
 
 Cuando un local permanezca cerrado o inactivo durante un lapso consecutivo de treinta días naturales y sin justificación, previo estudio fundado y motivado de la Dirección de Abasto y Comercio Interior, se procederá a la revocación de la licencia y la cancelación de su registro en el padrón que al efecto lleve el Departamento de Licencias y Padrón de Contribuyentes, debiendo al efecto observar la garantía de audiencia.
 
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 1422.
 
-La Autoridad Municipal dará preferencia en el otorgamiento de licencias y/o contratos en los Mercados públicos, a las personas de escasos recursos que no puedan desempeñar otras labores, a los desempleados, a los discapacitados, a las viudas y a las madres de familia que sean el sostén del hogar.
+La Autoridad Municipal dará preferencia en el otorgamiento de licencias y/o contratos en los Mercados públicos, a las personas de escasos recursos que no puedan desempeñar otras labores, a los desempleados, a las personas con discapacidad, a las viudas y a las madres de familia que sean el sostén del hogar.
 
 ###### Artículo 1423.
 
@@ -21333,9 +21423,11 @@ Los propietarios, encargados y usuarios de los Sanitarios, están obligados a ac
 
 Las sustancias utilizadas para desinfectar o desratizar, deberán ser aprobadas por la Secretaría de Salud.
 
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 1497.
 
-Los sanitarios como parte integral de las naves, deberán permanecer aseados continuamente bajo la supervisión del Consejo y abiertos dentro de los horarios de la Central de Abasto establecidos en el presente capítulo.
+Los sanitarios como parte integral de las naves, deberán permanecer aseados continuamente bajo la supervisión del Consejo, abiertos dentro de los horarios de la Central de Abasto establecidos en el presente capítulo, y adecuados de conformidad con el Manual Técnico de Accesibilidad Aplicable a Construcciones en el Municipio de Puebla.
 
 ###### Artículo 1498.
 
@@ -21382,6 +21474,12 @@ Los operadores de vehículos deberán obedecer las señales de tránsito, así c
 ###### Artículo 1507.
 
 Se prohíbe bloquear u obstaculizar los accesos de la Central de Abasto, teniendo el Consejo la obligación de fijar el lugar donde serán ubicados los taxis y vehículos de acarreo, sin afectar las áreas de carga y descarga, ni la vialidad dentro de la Central de Abasto.
+
+> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2011)</small>
+
+###### Artículo 1507 Bis.
+
+El Consejo tendrá la obligación de acondicionar los espacios destinados para el acceso a las instalaciones de las personas con discapacidad, cumpliendo siempre con lo establecido en las Normas Oficiales Mexicanas vigentes.
 
 ###### Artículo 1508.
 
@@ -21867,11 +21965,17 @@ c) Fajas de separación entre las fosas.
 
 d) Faja perimetral.
 
+> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2011)</small>
+
+e) Accesos para las personas con discapacidad en cada parte de las instalaciones referidas en este capítulo.
+
 III. Cumplir con las especificaciones de los distintos tipos de fosas, criptas y nichos que hubieran de construirse, indicando la profundidad máxima a que pueda excavarse y los procedimientos de construcción, previstos por este Capítulo y demás disposiciones aplicables;
 
 IV. Instalar en la forma adecuada los servicios de agua potable, drenaje, energía eléctrica y alumbrado;
 
-V. Pavimentar las vías internas de circulación de peatones, de vehículos y áreas de estacionamiento, según sus necesidades;
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2011)</small>
+
+V. Pavimentar las áreas de estacionamiento y las vías internas de circulación de peatones, de personas con discapacidad y de vehículos según sus necesidades, cumpliendo en todo momento con el Manual Técnico de Accesibilidad Aplicable a Construcciones en el Municipio de Puebla;
 
 VI. A excepción de los espacios ocupados por tumbas, pasillos y corredores, el interior y exterior de los panteones deberán estar ornamentados procurando árboles, arbustos y flores de especies de la región, manteniendo la armonía y aspecto agradables a los visitantes, así como un lugar digno a los cuerpos en guarda. En el caso de los árboles que se planten deberá procurarse que las raíces sean poco profundas y que no se extienda horizontalmente;
 
@@ -22369,11 +22473,15 @@ XXI.- Sello Sanitario: Sistema de Control implementado por el Rastro Municipal, 
 
 XXII.- Secretaría: Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación;
 
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2009)</small>
+
 XXIII. Subproducto cárnico: Derivado del producto cárnico, como jamón, tocino, queso de puerco, pastel de pollo, longaniza, chorizo, mortadela, salami, carne adobada, carne seca, cecina, tasajo, chicharrón, frituras, toda clase de embutidos, y cualquier otro semejante;
 
 XXIV.- TIF: Establecimiento Tipo Inspección Federal;
 
 XXV.- Trato Humanitario: Medidas para evitar dolor innecesario a los animales durante su traslado, cuarentena y sacrificio; y
+
+XXVI.- Usuarios: Son todos aquéllos que utilicen los servicios del rastro.
 
 > <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2009)</small>
 
@@ -23445,9 +23553,9 @@ V. Comunicar a la Secretaría de Gestión y a la Tesorería la existencia de ser
 
 VI. Conservar las instalaciones del estacionamiento en condiciones de higiene y seguridad, incluyendo el servicio de baños;
 
-> <small>(ADICIONADA, P.O. 26 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2011)</small>
 
-VII. Reservar cajones de estacionamiento para personas con capacidad diferente, los cuales deberán estar lo más cercanos posible a las puertas de ingreso del estacionamiento, asimismo, vigilar y controlar que sean exclusivamente utilizados por estas personas;
+VII. Reservar cajones de estacionamiento para personas con discapacidad, los cuales deberán estar lo más cercano posible a las puertas de ingreso del estacionamiento, debidamente señalizados de conformidad con la normatividad vigente, asimismo vigilar y controlar que sean exclusivamente utilizados por estas personas;
 
 > <small>(ADICIONADA, P.O. 26 DE FEBRERO DE 2007)</small>
 
@@ -23524,6 +23632,10 @@ Son obligaciones de los usuarios:
 I. El pago al prestador del servicio, de la tarifa correspondiente; y
 
 II. Reportar las fallas mecánicas y eléctricas, golpes de la carrocería, rayones, daños en cristales o espejos de su vehículo, así como los que presente su vehículo a la entrega, de igual manera, el inventario de los objetos dejados en su interior, para que en caso de hurto o daños, el prestador del servicio sea responsable.
+
+> <small>(ADICIONADA, P.O. 2 DE FEBRERO DE 2011)</small>
+
+III. Respetar los cajones destinados a las personas con discapacidad.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 26 DE FEBRERO DE 2007)</small>
 
@@ -26187,7 +26299,9 @@ Animal doméstico: los animales que dependan de un ser humano para subsistir y h
 
 Animal feroz: los animales que por su naturaleza se tornen violentos, agresivos y difíciles de someter;
 
-Animal guía: los animales complementarios o que son utilizados para o en apoyos terapéuticos o adiestrados para ayudar al desarrollo de las personas con cualquier tipo de discapacidad;
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2011)</small>
+
+Animal guía: los animales que son utilizados para apoyo terapéutico o adiestrados para ayudar a las personas con cualquier tipo y grado de discapacidad.
 
 Animal para abasto: aquellos animales que sirven para consumo;
 
@@ -26465,9 +26579,11 @@ Los animales deportivos y los de monta, carga y tiro no deberán ser lastimados 
 
 La prestación del servicio de monta recreativa requiere autorización de la autoridad municipal, sujetándose a las disposiciones jurídicas aplicables.
 
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 1854.
 
-Los perros guía que asistan a personas invidentes o con otra discapacidad tendrán el libre acceso a todos los lugares públicos y transporte público.
+Los perros guía que asistan a personas con discapacidad visual o con otra discapacidad tendrán el libre acceso a todos los lugares públicos y transporte público.
 
 ###### Artículo 1855.
 
@@ -27847,7 +27963,7 @@ I. Manifestación de impacto ambiental evaluado por la autoridad competente;
 
 > <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2006)</small>
 
-II. Plan de Contingencias y Plan de Control de Accidentes evaluado por la UOMPROCI;
+II. Plan de Contingencias y Plan de Control de Accidentes evaluado por la UOMPROCI
 
 III. Estudio de riesgo evaluado por el Instituto Nacional de Ecología o la autoridad competente;
 
@@ -28899,7 +29015,15 @@ V. Institucionalizar la capacitación administrativa, técnica, y de servicio, m
 
 VI. Dar continuidad a los planes, programas, proyectos y demás acciones de gobierno, en beneficio de la sociedad; y
 
-VII. Mejorar permanentemente la imagen del servicio Profesional y del Servidor Público.
+VII. Mejorar permanentemente la imagen del servicio Profesional y del Servidor Público;
+
+> <small>(ADICIONADA, P.O. 2 DE FEBRERO DE 2011)</small>
+
+VIII. Infundir el respeto y buen trato a las personas sin distinción de género, raza, creencia religiosa, discapacidad y demás que pueda menoscabar al ser humano;
+
+> <small>(ADICIONADA, P.O. 2 DE FEBRERO DE 2011)</small>
+
+IX. Garantizar que cada dependencia incluya en su plantilla laboral al menos un 0.5% por ciento de personas con discapacidad.
 
 ###### Artículo 2079.
 
@@ -29159,7 +29283,7 @@ X. Empresa: Persona moral legalmente constituida, y que cuenta con medios propio
 
 XI. Promotor: Persona física que deberá contar con licencia legalmente expedida por la Comisión que autorice dentro del Municipio permanente o eventualmente, a promover espectáculos de Box y Lucha Libre profesional, considerados como empleados de las empresas, y en consecuencia éstas serán responsables directas de cualquier falta o infracción que cometan;
 
-XII. Representante: Persona física que deberá contar con licencia legalmente expedida por la Comisión que les autorice actuar dentro del Municipio, y que tiene bajo su responsabilidad el impulso e imagen de un boxeador o luchador con la finalidad de buscar el mejor desempeño deportivo y que reditúe en beneficios económicos para los mismos;
+XII. Representante: Persona física que deberá contar con licencia legalmente expedida por la Comisión que les autorice actuar dentro del Municipio, y que tiene bajo su responsabilidad el impulso e imagen de un boxeador o luchador con la finalidad de buscar el mejor desemepño deportivo y que reditúe en beneficios económicos para los mismos;
 
 XIII. Manejador: Persona física que deberá contar con licencia legalmente expedida por la Comisión que le autorice actuar dentro del Municipio, y que será la encargada de cuidar la forma y condición física de los boxeadores y luchadores, proporcionándoles el adiestramiento técnico necesario;
 
@@ -29705,7 +29829,7 @@ El Comisionado está facultado para autorizar la sustitución o cambio de boxead
 
 I. En Box: en caso de fuerza mayor debidamente comprobada, si alguno de los participantes de una pelea preliminar o estelar no puede actuar en la función anunciada, se sustituirá dicho peleador por el emergente de la misma categoría y peso, si el boxeador fuese de la pelea estelar, además de anunciar el cambio autorizado, informará al público que la persona que no esté de acuerdo podrá solicitar la devolución del importe de su boleto, siempre que no haya iniciado la función;
 
-II. En lucha libre: cuando un luchador por causa de fuerza mayor no se haya presentado, será sustituido por otro de la misma categoría y de igual peso, comunicándole a la empresa la obligación de avisar al público asistente, el cambio realizado y si éste es de algún luchador de la "Lucha Estelar", además de anunciar el cambio autorizado, informará al público que la persona que no esté de acuerdo podrá solicutar la devolución del importe de su boleto, siempre que no haya iniciado la función.
+II. En lucha libre: cuando un luchador por causa de fuerza mayor no se haya presentado, será sustituido por otro de la misma categoría y de igual peso, comunicándole a la empresa la obligación de avisar al público asistente, el cambio realizado y si éste es de algún luchador de la "Lucha Estelar", además de anunciar el cambio autorizado, informará al público que la persona que no esté de acuerdo podrá solicitar la devolución del importe de su boleto, siempre que no haya iniciado la función.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
 
@@ -29959,7 +30083,7 @@ Los auxiliares que infrinjan las disposiciones contenidas en los artículos del 
 
 ###### Artículo 2166 Bis.
 
-Los auxiliares no deberán protestar las decisiones de los oficiales sobre el cuadrilátero ni en parte alguna de las Arenas, deberán presentar sus protestas en la sesión Ordinaria o Extraordinaria inmediata de la Comisión.
+Los auxiliares no deberán protestar las decisiones de los oficiales sobre el cuadrilátero ni en parte alguna de las Arenas, deberán presentar sus protestas en la Sesión Ordinaria o Extraordinaria inmediata de la Comisión.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
 
@@ -32872,3 +32996,9 @@ P.O. 25 DE AGOSTO DE 2010.
 PRIMERO.- La presente Adición de los artículos 1094 Bis y 1094 Ter del Código Reglamentario para el Municipio de Puebla, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones anteriores y aquéllas que se opongan a lo establecido en la presente Adición.
+
+P.O. 2 DE FEBRERO DE 2011.
+
+PRIMERO.- Las presentes reformas y adiciones surtirán sus efectos al día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente Dictamen.
