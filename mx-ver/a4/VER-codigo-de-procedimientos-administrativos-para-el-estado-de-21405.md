@@ -4,7 +4,7 @@ identifier: "VER-codigo-de-procedimientos-administrativos-para-el-estado-de-2140
 country: "mx"
 rank: "codigo"
 publication_date: "2001-01-29"
-last_updated: "2010-11-05"
+last_updated: "2011-02-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21405&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO DE PROCEDIMIENTOS ADMINISTRATIVOS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 5 DE NOVIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 2 DE FEBRERO DE 2011.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz-Llave, el lunes 29 de enero de 2001.
 
@@ -2367,9 +2367,9 @@ VII. Periodo de ejecución de los trabajos, precisando la fecha de inicio y term
 
 VIII. Monto amortizado y pendiente del anticipo.
 
-> <small>(ADICIONADO, G.O. 2 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2011)</small>
 
-Artículo 259 F. Una vez que hubiere causado estado la resolución que se dicte con motivo de la rescisión de un contrato, la dependencia o entidad de que se trate solicitará a la autoridad ejecutora facultada para ello que se hagan efectivas las garantías otorgadas por el contratista.
+Artículo 259 F. Una vez notificada la resolución de rescisión de un contrato, la dependencia o entidad de que se trate solicitará a la autoridad ejecutora facultada para ello que se hagan efectivas las garantías otorgadas por el contratista.
 
 > <small>(ADICIONADO, G.O. 2 DE FEBRERO DE 2004)</small>
 
@@ -3654,3 +3654,9 @@ G.O. 5 DE NOVIEMBRE DE 2010.
 Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 Artículo segundo. Se derogan todas las disposiciones reglamentarias, acuerdos, criterios, lineamientos y demás normas de observancia general que regulen procedimientos, recursos administrativos y medios de impugnación que se opongan al presente Decreto.
+
+G.O. 2 DE FEBRERO DE 2011.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que contravengan al presente Decreto.
