@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-de-la-sindicatura-del-ayuntamiento-de-56089
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-06-22"
-last_updated: "2009-12-02"
+last_updated: "2011-02-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56089&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ state: "MOR"
 
 REGLAMENTO INTERIOR DE LA SINDICATURA DEL AYUNTAMIENTO DE CUERNAVACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE DICIEMBRE DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SINDICATURA DEL AYUNTAMIENTO DE CUERNAVACA, PUBLICADO EN EL P.O. EL 2 DE FEBRERO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el viernes 22 de junio de 2007.
 
@@ -372,3 +374,13 @@ P.O. 2 DE DICIEMBRE DE 2009.
 Primero.- La presente reforma entrará en vigor el 1° de noviembre de 2009, previa publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado Libre y Soberano de Morelos.
 
 Segundo.- Se instruye a las áreas competentes de la Administración Pública Municipal, para que realicen los trámites necesarios para la transferencia de recursos humanos, materiales y financieros, de las unidades administrativas que cambian de adscripción.
+
+P.O. 2 DE FEBRERO DE 2011.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" órgano de difusión del Gobierno del Estado.
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Sindicatura del Ayuntamiento de Cuernavaca, publicado en el Periódico Oficial "Tierra y libertad" número 4540 de fecha 22 de junio de 2007.
+
+TERCERO.- Lo no previsto en el presente Reglamento, se estará a lo dispuesto por el Reglamento de Gobierno y Administración del Ayuntamiento de Cuernavaca, Morelos y en su caso por el Cabildo.
+
+CUARTO.- Publíquese en la gaceta Municipal.
