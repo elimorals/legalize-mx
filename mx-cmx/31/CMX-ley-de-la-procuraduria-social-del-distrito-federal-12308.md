@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-la-procuraduria-social-del-distrito-federal-12308"
 country: "mx"
 rank: "ley"
 publication_date: "1998-09-28"
-last_updated: "2007-04-30"
+last_updated: "2011-02-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12308&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,9 @@ issue_date: "1998-09-18"
 
 LEY DE LA PROCURADURIA SOCIAL DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 30 DE ABRIL DE 2007.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DE LA LEY DE LA PROCURADURIA SOCIAL DEL DISTRITO FEDERAL, PUBLICADA EN LA G.O. DE 3 DE FEBRERO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: ABROGADA.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 28 de septiembre de 1998.
 
@@ -741,3 +743,17 @@ G.O. 30 DE ABRIL DE 2007.
 PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal, y en el Diario Oficial de la Federación para su mayor difusión.
 
 SEGUNDO.- Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 3 DE FEBRERO DE 2011.
+
+PRIMERO: La presente Ley entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO: Túrnese al Jefe de Gobierno del Distrito Federal para su promulgación y publicación en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para una mayor difusión.
+
+TERCERO: Se abroga la Ley de la Procuraduría Social del Distrito Federal, publicada en la Gaceta Oficial del Distrito Federal el 28 de septiembre de 1998.
+
+CUARTO: Los procedimientos iniciados antes de la entrada en vigor de la presente Ley, continuaran hasta su conclusión definitiva de acuerdo al ordenamiento abrogado.
+
+QUINTO: El Jefe de Gobierno del Distrito Federal, emitirá el Reglamento de la presente Ley, en un término no mayor a 90 días naturales, contados al siguiente día de su publicación.
+
+SEXTO: Los recursos económicos que deriven de las sanciones impuestas en los procedimientos administrativos de la Procuraduría Social se destinaran al Fondo de Ayuda y Rescate Condominal, mismo que se aplicará para el mantenimiento de las Unidades Habitacionales.
