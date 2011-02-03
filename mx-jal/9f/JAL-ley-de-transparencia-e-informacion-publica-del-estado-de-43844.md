@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-transparencia-e-informacion-publica-del-estado-de-43844"
 country: "mx"
 rank: "ley"
 publication_date: "2005-01-06"
-last_updated: "2008-06-12"
+last_updated: "2011-02-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43844&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # LEY DE TRANSPARENCIA E INFORMACION PUBLICA DEL ESTADO DE JALISCO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE MARZO DE 2011 EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY DE TRANSPARENCIA E INFORMACION PUBLICA DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE JUNIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE FEBRERO DE 2011.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Jalisco, el jueves 6 de enero de 2005.
 
@@ -109,9 +111,17 @@ IX. El Instituto de Transparencia e Información Pública de Jalisco;
 
 X. Los partidos políticos con registro estatal y los nacionales acreditados ante el Consejo Electoral;
 
-XI. Los organismos ciudadanos, instituciones privadas u organismos no gubernamentales que reciban, administren o apliquen recursos públicos, en los términos del artículo 12 de la Ley; y
+> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2011)</small>
 
-XII. Los consejos, patronatos, comités, delegaciones, fondos, institutos y cualquier otra entidad estatal o municipal que haya sido creada con recursos públicos, los administre o los aplique.
+XI. Los organismos ciudadanos, instituciones privadas u organismos no gubernamentales que reciban, administren o apliquen recursos públicos, en los términos del artículo 12 de la ley;
+
+> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2011)</small>
+
+XII. Los consejos, patronatos, comités, delegaciones, fondos, institutos y cualquier otra entidad estatal o municipal que haya sido creada con recursos públicos, los administre o los aplique, y
+
+> <small>(ADICIONADA, P.O. 3 DE FEBRERO DE 2011)</small>
+
+XIII. Las instancias de coordinación de las áreas y regiones metropolitanas.
 
 ###### Artículo 4.
 
@@ -1198,3 +1208,7 @@ SEGUNDO. Una vez publicado el presente decreto y previo al 2 de julio de 2008, e
 TERCERO. Gírese atento oficio al Ejecutivo del Estado, a fin de que a través de la Secretaría de Finanzas del Estado, realice las acciones y gestiones necesarias para que a partir del primero de julio de 2008, el Instituto de Transparencia e Información Pública disponga de los recursos que se requieran para efectuar el pago de las percepciones correspondientes a los consejeros integrantes del Consejo de dicho Instituto.
 
 CUARTO. Se derogan todas las disposiciones legales que se opongan al presente decreto.
+
+P.O. 3 DE FEBRERO DE 2011.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
