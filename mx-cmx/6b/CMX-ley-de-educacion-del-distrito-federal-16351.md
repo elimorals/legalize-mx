@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-educacion-del-distrito-federal-16351"
 country: "mx"
 rank: "ley"
 publication_date: "2000-06-08"
-last_updated: "2010-07-22"
+last_updated: "2011-02-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16351&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-05-05"
 
 LEY DE EDUCACION DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 22 DE JULIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 3 DE FEBRERO DE 2011.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 8 de junio de 2000.
 
@@ -194,6 +194,10 @@ XXIII. Desarrollar contenidos educativos que eliminen los estereotipos de hombre
 
 XXIV. Desarrollar programas educativos tendientes a crear y fortalecer una cultura de no violencia hacia la mujer.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 3 DE FEBRERO DE 2011)</small>
+
+XXV.- Desarrollar programas educativos tendientes a la prevención y detección temprana del cáncer de mama y cérvico uterino.
+
 > <small>(REFORMADO, G.O. 13 DE OCTUBRE DE 2006)</small>
 
 ###### Artículo 11.
@@ -276,9 +280,9 @@ XXVI. Promover el establecimiento y operación de casas de cultura, museos, heme
 
 XXVII. Establecer y coordinar los programas de educación para adultos, alfabetización, educación indígena y educación especial, en coordinación con el gobierno federal.
 
-> <small>(REFORMADA, G.O. 13 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADA, G.O. 3 DE FEBRERO DE 2011)</small>
 
-XXVIII. Promover convenios de cooperación y/o acuerdos interinstitucionales, con instituciones públicas o privadas, en materia educativa, científica, tecnológica, artística, cultural, de educación física y deporte, en los términos que establecen las disposiciones legales.
+XXVIII. Promover convenios de cooperación y/o acuerdos interinstitucionales, con instituciones públicas o privadas, en materia educativa, de salud, científica, tecnológica, artística, cultural, de educación física y deporte en los términos que establecen las disposiciones legales.
 
 XXIX. Celebrar convenios con la federación para unificar, ampliar y enriquecer los servicios educativos.
 
@@ -286,9 +290,9 @@ XXX. Garantizar y velar por la seguridad de los escolares, maestros y establecim
 
 XXXI. Garantizar que todos los educandos de las instituciones públicas cuenten con servicios de salud adecuados.
 
-> <small>(REFORMADA, G.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADA, G.O. 3 DE FEBRERO DE 2011)</small>
 
-XXXII. Promover y desarrollar programas locales en materia de educación para la salud, asistencia nutricional, los relacionados a la obligatoriedad de proporcionar a los educandos desayunos balanceados y nutritivos que eviten la obesidad y desnutrición; así como los relativos a la prevención y combate de la drogadicción, el alcoholismo, el tabaquismo y cualquier otra sustancia que atente contra su vida e integridad, dentro de los centros escolares; y protección del medio ambiente, en coordinación con los órganos competentes del gobierno federal y las delegaciones, así como con organizaciones sociales y no gubernamentales.
+XXXII. Promover y desarrollar programas locales en materia de educación para la salud, asistencia nutricional, los relacionados a la obligatoriedad de proporcionar a los educandos desayunos balanceados y nutritivos que eviten la obesidad y desnutrición; así como los relativos a la prevención y combate de la drogadicción, el alcoholismo, el tabaquismo y cualquier otra sustancia que atente contra su vida e integridad, dentro de los centros escolares; y protección del medio ambiente; así como programas para la salud de la mujer en materia de prevención y detección temprana de cáncer de mama y cérvico uterino, en coordinación con los órganos competentes del gobierno federal y las delegaciones, así como con organizaciones sociales y no gubernamentales.
 
 XXXIII. Promover y supervisar la realización de actos cívicos escolares que fortalezcan la identidad nacional, fomenten la solidaridad internacional y formen en los educandos actitudes de compromiso para la consolidación de una nación soberana e independiente.
 
@@ -302,9 +306,9 @@ XXXVI. Establecer, con la organización sindical correspondiente, disposiciones 
 
 XXXVII. Celebrar convenios con los comités ejecutivos seccionales del SNTE en el Distrito Federal para definir prestaciones salariales y prerrogativas de orden profesional, laboral, social y asistencial, de acuerdo con las leyes vigentes.
 
-> <small>(REFORMADA, G.O. 8 DE MAYO DE 2008)</small>
+> <small>(REFORMADA, G.O. 3 DE FEBRERO DE 2011)</small>
 
-XXXVIII. Elaborar el Programa Escolar de Educación en la Sexualidad del Distrito Federal, mismo que contemplará los aspectos de la planificación familiar, la paternidad y la maternidad responsables y las enfermedades de transmisión sexual.
+XXXVIII. Elaborar el Programa Escolar de Educación en la Sexualidad del Distrito Federal, mismo que contemplará los aspectos de la planificación familiar, la paternidad y la maternidad responsables, las enfermedades de transmisión sexual; y la prevención y detección temprana del cáncer de mama y cérvico uterino.
 
 > <small>(ADICIONADA, G.O. 8 DE MAYO DE 2008)</small>
 
@@ -1637,3 +1641,11 @@ G.O. 22 DE JULIO DE 2010.
 Primero. Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
 
 Segundo. El presente Decreto entrará en vigor al siguiente día de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 3 DE FEBRERO DE 2011.
+
+Artículo Primero. Túrnese el presente Decreto al Jefe de Gobierno para efectos de su promulgación y publicación.
+
+Artículo Segundo. Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor conocimiento en el Diario Oficial de la Federación.
+
+Artículo Tercero. La presente reforma entrará en vigor al día siguiente de su publicación.
