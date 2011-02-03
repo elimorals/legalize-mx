@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-34-2007-del-pleno-del-consejo-de-la-56870"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2007-09-28"
-last_updated: "2008-10-03"
+last_updated: "2011-02-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56870&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2007-09-19"
 
 ACUERDO GENERAL 34/2007, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DENOMINACION, RESIDENCIA, COMPETENCIA, JURISDICCION TERRITORIAL, DOMICILIO Y FECHA DE INICIO DE FUNCIONAMIENTO DEL JUZGADO SEGUNDO DE DISTRITO AUXILIAR; A LA NUEVA DENOMINACION DEL ACTUAL JUZGADO DE DISTRITO AUXILIAR; ASI COMO A LAS REGLAS DE TURNO, SISTEMA DE RECEPCION Y DISTRIBUCION DE ASUNTOS ENTRE LOS JUZGADOS MENCIONADOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 3 DE OCTUBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 3 DE FEBRERO DE 2011.
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 28 de septiembre de 2007.
 
@@ -71,7 +71,9 @@ QUINTO.- En la fecha precisada en el punto segundo que antecede el titular del J
 
 SEXTO.- Los Tribunales Colegiados en Materia de Trabajo del Primer Circuito, conocerán de los recursos de revisión que se interpongan en contra de las sentencias de fondo que dicte el Juzgado Segundo de Distrito Auxiliar, en los juicios de amparo vinculados con la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, publicada en el Diario Oficial de la Federación de treinta y uno de marzo de dos mil siete.
 
-De los otros recursos que se lleguen a interponer en contra de las determinaciones y resoluciones que dicte el Juzgado de Distrito Auxiliar seguirán conociendo hasta su resolución los Tribunales Colegiados en Materia Administrativa del Primer Circuito. Lo anterior, con fundamento en lo dispuesto por el artículo 17 constitucional.
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL 1/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 3 DE FEBRERO DE 2011)</small>
+
+De los otros recursos que se lleguen a interponer en contra de las determinaciones y resoluciones que dicte el Juzgado de Distrito Auxiliar conocerán los Tribunales Colegiados del Primer Circuito, según corresponda. Lo anterior, con fundamento en lo dispuesto por el artículo 17 Constitucional.
 
 SEPTIMO.- El Juzgado Segundo de Distrito Auxiliar que inicia funciones utilizará nuevos libros de gobierno, en los que asentará la certificación correspondiente y registrará los asuntos en la forma que determine la normativa aplicable.
 
@@ -96,3 +98,9 @@ PRIMERO. El presente acuerdo entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 TERCERO. La Comisión de Creación de Nuevos Organos del Consejo de Judicatura Federal, comunicará a los titulares de los órganos jurisdiccionales federales a los que se refieren los puntos tercero y cuarto del presente acuerdo, la fecha de inicio de las medidas ordenadas en los puntos antes referidos del presente ordenamiento.
+
+D.O.F. 3 DE FEBRERO DE 2011.
+
+PRIMERO. El presente acuerdo entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
