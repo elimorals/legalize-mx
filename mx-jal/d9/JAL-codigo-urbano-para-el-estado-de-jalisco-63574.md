@@ -4,7 +4,7 @@ identifier: "JAL-codigo-urbano-para-el-estado-de-jalisco-63574"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-09-27"
-last_updated: "2008-09-27"
+last_updated: "2011-02-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "JAL"
 ---
 # CODIGO URBANO PARA EL ESTADO DE JALISCO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 4 DE JULIO DE 2013 EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE MARZO DE 2011 EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 CODIGO URBANO PARA EL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE FEBRERO DE 2011
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el sábado 27 de septiembre de 2008.
 
@@ -1079,6 +1079,8 @@ IV. Elaborarán sus proyectos de reglamentos y los someterán a autorización de
 
 ### CAPITULO I. De la Delimitación de las Áreas y Regiones Metropolitanas
 
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 50.
 
 El Gobierno del Estado y los municipios promoverán la creación y funcionamiento de observatorios urbanos, constituidos como redes de información, con la participación de universidades, organismos, investigadores, especialistas de la sociedad y el gobierno, para el estudio, investigación, organización y difusión de conocimientos sobre los problemas de las ciudades y los nuevos modelos de políticas urbanas y de gestión pública.
@@ -1121,211 +1123,123 @@ La reglamentación que se expida de conformidad con la presente Sección estable
 
 ## TÍTULO CUARTO. DE LAS ÁREAS Y REGIONES METROPOLITANAS
 
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 53.
 
-El presente Título tiene por objeto fijar las bases generales para normar el procedimiento, organización y funcionamiento de la coordinación metropolitana, particularmente de lo previsto en los artículos 80, 81bis y 87 de la Constitución Política del Estado de Jalisco.
+El presente título tiene por objeto fijar las bases generales para vincular las disposiciones estatales en materia de desarrollo urbano con la creación de las áreas y regiones metropolitanas y sus instancias de coordinación, reguladas en la ley estatal en materia de coordinación metropolitana.
+
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 54.
 
-Las disposiciones complementarias para normar la coordinación y gestión de las áreas y regiones metropolitanas estarán establecidas en la Ley de la materia.
+Las disposiciones complementarías al desarrollo urbano para normar la coordinación y gestión de las áreas y regiones metropolitanas estarán establecidas en la ley estatal en materia de coordinación metropolitana.
 
 ### CAPITULO II. De las Instancias de Coordinación Metropolitana
 
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 55.
 
-Cuando por su crecimiento urbano, continuidad física y relaciones socioeconómicas dos o más municipios del Estado formen un mismo centro de población de carácter metropolitano, el Congreso del Estado hará la declaratoria de integración de una Área Metropolitana, a partir del dictamen propuesto por la Comisión de Asuntos Metropolitanos.
+Cuando por su crecimiento urbano, continuidad física y relaciones socioeconómicas dos o más municipios del estado formen un mismo centro de población conurbado con una población de cuando menos cincuenta mil habitantes, el Congreso del Estado hará la declaratoria de integración de un área metropolitana, de acuerdo al procedimiento establecido en la ley estatal en materia de coordinación metropolitana.
 
-###### Artículo 56.
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2011)</small>
 
-Cuando por su cercanía geográfica, tendencias de crecimiento y relaciones socioeconómicas, dos o más centros urbanos tiendan a formar un territorio de expansión e integración metropolitano, el Congreso del Estado hará la declaratoria de integración de una Región Metropolitana, a partir de la propuesta presentada por el Poder Ejecutivo.
+###### Articulo 56.
+
+Cuando por su cercanía geográfica, tendencias de crecimiento y relaciones socioeconómicas, uno o más centros urbanos tiendan a integrarse a un área metropolitana, el Congreso del Estado hará la declaratoria de integración de una región metropolitana de acuerdo al procedimiento establecido en la ley estatal en materia de coordinación metropolitana.
 
 ###### Artículo 57.
 
-La incorporación de los conceptos de área y región metropolitana a los que se refiere este ordenamiento y la Constitución Política del Estado de Jalisco, son distintos del concepto de conurbación establecido en el artículo 115 Constitucional y en la Ley General de Asentamientos Humanos.
-
-Por ello, cuando dos o más centros urbanos situados en el territorio de dos o más municipios, que por su crecimiento y relaciones socioeconómicas, formen o tiendan a formar una conurbación, el Ejecutivo del Estado y los ayuntamientos respectivos, en el ámbito de sus competencias, podrán convenir para planear y regular de manera conjunta y coordinada, el desarrollo y la prestación de los servicios públicos en dichas zonas, con apego a las leyes de la materia.
+(DEROGADO, P.O. 3 DE FEBRERO DE 2011)
 
 ###### Artículo 58.
 
-Cuando se trate de la integración de dos o más centros urbanos situados en territorios municipales de dos o más entidades federativas, se estará a lo señalado en la fracción VI del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos.
+(DEROGADO, P.O. 3 DE FEBRERO DE 2011)
 
-###### Artículo 59.
+###### Articulo 59.
 
-Los procedimientos, criterios técnicos y teóricos para definir la delimitación de áreas y regiones estarán definidos en la Ley de la materia.
+(DEROGADO, P.O. 3 DE FEBRERO DE 2011)
 
 ###### Artículo 60.
 
-Los municipios que integren una Área Metropolitana se coordinarán para la más eficaz prestación de los servicios públicos en sus demarcaciones territoriales, así como para planear y regular de manera conjunta y coordinada su desarrollo, a partir de las normas de aplicación general que expida el Congreso del Estado.
+(DEROGADO, P.O. 3 DE FEBRERO DE 2011)
 
 ###### Artículo 61.
 
-Los municipios que integren una Región Metropolitana, establecerán una agenda de prioridades regionales en materia de planeación y ordenamiento territorial. Asimismo, podrán celebrar convenios de coordinación intermunicipal o con el Gobierno del Estado para la más eficaz prestación de los servicios públicos, a partir de las normas de aplicación general que expida el Congreso del Estado.
+(DEROGADO, P.O. 3 DE FEBRERO DE 2011)
 
 ###### Artículo 62.
 
-Se declaran como materias de interés metropolitano, las siguientes
-
-I. La planeación y ordenamiento del territorio;
-
-II. La infraestructura para la movilidad;
-
-III. El suelo y las reservas territoriales;
-
-IV. La redensificación y uso eficiente del espacio;
-
-V. La construcción, habilitación y adecuada dotación de destinos de suelo;
-
-VI. El agua potable, saneamiento y drenajes pluviales;
-
-VII. La ecología y el medio ambiente;
-
-VIII. El tratamiento y disposición de residuos sólidos municipales, industriales y peligrosos;
-
-IX. La prevención de riesgos, la atención a contingencias y la protección civil;
-
-X. Las zonas de colindancia o integración entre municipios metropolitanos;
-
-XI. La imagen urbana del área metropolitana;
-
-XII. Equipamiento regional o metropolitano, y
-
-XIII. Otras materias propuestas por las instancias de coordinación.
+(DEROGADO, P.O. 3 DE FEBRERO DE 2011)
 
 ###### Artículo 63.
 
-Los municipios que conformen una Área o Región Metropolitana podrán acceder a los fondos metropolitanos en los términos que establezca la Ley en la Materia, para dar cumplimiento a los siguientes objetivos:
-
-I. La adecuada planeación del desarrollo regional, urbano y del ordenamiento del territorio;
-
-II. La creación de infraestructura para el desarrollo;
-
-III. La mejora de los servicios públicos;
-
-IV. La consolidación urbana basada en la sustentabilidad;
-
-V. La competitividad económica y las capacidades productivas de las áreas y regiones metropolitanas;
-
-VI. La disminución de la vulnerabilidad o riesgos por fenómenos naturales, ambientales y los propiciados por la dinámica demográfica y económica, y
-
-VII. El aprovechamiento óptimo de las ventajas competitivas de funcionamiento regional, urbano y económico del espacio territorial de las áreas y regiones metropolitanas.
+(DEROGADO, P.O. 3 DE FEBRERO DE 2011)
 
 ###### Artículo 64.
 
-Si algún municipio considera que por su composición social, demográfica o económica, ha sido excluido de un área o región metropolitana, podrá solicitar su incorporación a la misma mediante escrito dirigido al Congreso del Estado.
-
-La solicitud deberá exponer las razones y argumentos de carácter técnico y jurídico para dicha incorporación, así como acreditar que existe acuerdo de su Ayuntamiento para tales efectos.
-
-La Comisión de Asuntos Metropolitanos, previa revisión del caso, someterá a juicio del Pleno del Congreso un dictamen que determine la procedencia o improcedencia de la incorporación, en un plazo no mayor a 90 días contados a partir de la fecha en que fue presentada la solicitud.
+(DEROGADO, P.O. 3 DE FEBRERO DE 2011)
 
 ###### Artículo 65.
 
-La delimitación y declaratoria de las áreas y regiones metropolitanas será revisada periódicamente por el Congreso y el Ejecutivo del Estado al año siguiente en que se realice el conteo de población y vivienda del Instituto Nacional de Estadística Geografía e Informática.
+(DEROGADO, P.O. 3 DE FEBRERO DE 2011)
 
 ### CAPITULO I. De la planeación del desarrollo urbano
 
 ###### Artículo 66.
 
-El presente capítulo establece la organización y facultades de las instancias de coordinación metropolitana en términos de lo previsto en el Artículo 81-Bis de la Constitución Política del Estado de Jalisco.
+Son instancias de coordinación metropolitana, los siguientes entes intermunicipales:
+
+I. La Junta de Coordinación Metropolitana;
+
+II. El Instituto Metropolitano de Planeación;
+
+III. El Consejo Ciudadano Metropolitano, y
+
+IV. Los demás que se establezcan en los instrumentos jurídicos correspondientes, de acuerdo con la ley estatal en materia de coordinación metropolitana.
+
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 67.
 
-Para los efectos de este Título, se entenderá por:
+La Junta de Coordinación Metropolitana es el órgano intermunicipal de coordinación política, integrado por los presidentes de los municipios que conforman el área o región metropolitana correspondiente y el Gobernador del Estado, que tiene como objeto ser la instancia para la toma de acuerdos en los asuntos metropolitanos que requieren aprobación de los ayuntamientos respectivos. La organización, funcionamiento y atribuciones de la Junta son los establecidos en la ley estatal en materia de coordinación metropolitana y demás instrumentos jurídicos aplicables de conformidad con la misma.
 
-Las Instancias de Coordinación: las instancias de coordinación política de cada una de las áreas metropolitanas;
-
-Los Institutos: las instancias técnicas de planeación de cada una de las áreas metropolitanas;
-
-Los Consejos: los Consejos Metropolitanos de Participación Ciudadana.
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 68.
 
-Las Instancias de coordinación se integrarán de acuerdo a lo dispuesto en el Artículo 81-Bis de la Constitución Política del Estado de Jalisco y demás disposiciones legales y reglamentarias aplicables.
+El Instituto Metropolitano de Planeación es el organismo público descentralizado intermunicipal, con personalidad jurídica y patrimonio propios, y autonomía técnica en el ejercicio de sus atribuciones, que tiene por objeto coordinar la planeación del área o región metropolitana correspondiente. La organización, funcionamiento y atribuciones del Instituto son los establecidos en la ley estatal en materia de coordinación metropolitana y demás instrumentos jurídicos aplicables de conformidad con la misma.
 
-###### Artículo 69.
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2011)</small>
 
-Las atribuciones de las Instancias de Coordinación son:
+###### Articulo 69.
 
-I. Definir la agenda metropolitana en función de los siguientes temas:
-
-a) Infraestructura metropolitana;
-
-b) Ordenamiento territorial;
-
-c) Prestación de servicios públicos;
-
-d) Políticas ambientales, y
-
-e) Movilidad urbana;
-
-II. Analizar y suscribir los planes y proyectos elaborados por los Institutos;
-
-III. Analizar, acordar y ejecutar las propuestas técnicas de los Institutos;
-
-IV. Aprobar el Programa Anual de Inversión Metropolitana antes de que concluya el mes de octubre del año anterior al de su ejercicio;
-
-V. Aprobar las reglas de operación del Fondo Metropolitano elaboradas por los Institutos;
-
-VI. Gestionar los asuntos de su interés ante las instancias federales, estatales o municipales correspondientes, y
-
-VII. Las demás que estén previstas en la Constitución Política del Estado de Jalisco y en la Ley de la materia.
+El Consejo Ciudadano Metropolitano es el órgano consultivo intermunicipal, de participación ciudadana, carácter honorífico y resoluciones no vinculantes, que tiene por objeto recibir, organizar y canalizar las propuestas ciudadanas en asuntos de interés metropolitano. La organización, funcionamiento y atribuciones del Consejo son los establecidos en la ley estatal en materia de coordinación metropolitana y demás instrumentos jurídicos aplicables de conformidad con la misma.
 
 ###### Artículo 70.
 
-Los Institutos serán instancias intermunicipales de carácter técnico, constituidos como organismos públicos descentralizados, con personalidad jurídica y patrimonio propio.
+(DEROGADO, P.O. 3 DE FEBRERO DE 2011)
 
 ###### Artículo 71.
 
-Los Institutos se integrarán cuando menos por:
-
-I. El Director General, que será designado por la instancia de coordinación política correspondiente, y
-
-II. Las direcciones de carácter técnico de:
-
-a) Ordenamiento Territorial;
-
-b) Infraestructura;
-
-c) Servicios Públicos;
-
-d) Medio Ambiente, y
-
-e) Movilidad Urbana.
+(DEROGADO, P.O. 3 DE FEBRERO DE 2011)
 
 ###### Artículo 72.
 
-El Instituto tendrá las siguientes facultades y atribuciones:
-
-I. Elaborar el Plan de Ordenamiento Territorial Metropolitano;
-
-II. Elaborar el Programa de Desarrollo Metropolitano;
-
-III. Elaborar el Mapa de Riesgo Metropolitano;
-
-IV. Proponer a las Instancias de Coordinación Política el Programa Anual de Inversión a más tardar el último día hábil del mes de septiembre del año anterior al que se pretende ejecutar;
-
-V. Proponer a las Instancias de Coordinación programas y proyectos para el desarrollo urbano metropolitano;
-
-VI. Elaborar estudios, proyectos, programas y acciones encaminadas a preservar y restaurar el equilibrio ecológico;
-
-VII. Evaluar los resultados de los instrumentos de planeación metropolitana;
-
-VIII. Elaborar los proyectos de carácter metropolitano encomendados por las Instancias de Coordinación;
-
-IX. Elaborar las reglas de operación del Fondo Metropolitano, y
-
-X. Las demás que le confiera la Constitución Política del Estado de Jalisco o la Ley de la materia.
+(DEROGADO, P.O. 3 DE FEBRERO DE 2011)
 
 ###### Artículo 73.
 
-Los Consejos serán las instancias consultivas y de participación ciudadana de las Áreas Metropolitanas y podrán participar en las tareas de evaluación y seguimiento de las políticas metropolitanas, según lo establezca la Ley en la Materia.
+(DEROGADO, P.O. 3 DE FEBRERO DE 2011)
 
 ###### Artículo 74.
 
-El cargo de consejeros será de carácter honorífico y no habrá ninguna remuneración o emolumentos sin excepción alguna para los consejeros. Todos los Consejeros tendrán derecho a voz y voto; en caso de darse un empate en la votación, el Presidente Consejero tendrá voto de calidad.
+(DEROGADO, P.O. 3 DE FEBRERO DE 2011)
 
 ###### Artículo 75.
 
-En todo lo no previsto en el presente ordenamiento se atenderá a lo señalado por la Constitución Política Local y las leyes en la materia.
+(DEROGADO, P.O. 3 DE FEBRERO DE 2011)
 
 ## TÍTULO QUINTO. DE LA PLANEACIÓN DE LOS ASENTAMIENTOS HUMANOS Y DEL DESARROLLO URBANO DE LOS CENTROS DE POBLACIÓN
 
@@ -1615,47 +1529,23 @@ f) Movilidad Urbana
 
 g) Mapa de Riesgos
 
-II. Planes de Ordenamiento Territorial Metropolitano, que se aplicará en las Áreas Metropolitanas correspondientes, y que contemplarán la estrategia de implementación de la política de ordenamiento territorial. En estos planes se definirá, cuando menos, la zonificación primaria y la estructura urbana de las áreas metropolitanas, que servirá de referencia obligada para la elaboración de los planes básicos de desarrollo urbano.
+> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2011)</small>
+
+II. Planes de Ordenamiento Territorial Metropolitano, que se aplicarán en las áreas metropolitanas correspondientes, y que contemplarán la estrategia de implementación de la política de ordenamiento territorial. En estos planes se definirán, cuando menos, la zonificación primaria y la estructura urbana de las áreas metropolitanas, que servirá de referencia obligada para la elaboración de los planes básicos de desarrollo urbano, y se hará la determinación básica de espacios dedicados a la conservación, mejoramiento y crecimiento, así como de la preservación y equilibrio ecológico del centro de población metropolitano y de infraestructura, equipamiento y servicios urbanos que procurarán adoptarse en los programas municipales y planes básicos de desarrollo urbano.
 
 Adicionalmente, existirán los planes sectoriales metropolitanos que establecerán el diagnóstico, los objetivos y las estrategias gubernamentales para cada uno de los temas que aborden los Programas de Desarrollo Metropolitano. Estos planes estarán regulados por la Ley en la materia.
 
 ###### Artículo 103.
 
-Son atribuciones de los Institutos Metropolitanos de Planeación en materia de planeación metropolitana las siguientes:
-
-I. Elaborar los Programas de Desarrollo Metropolitano de la (sic) Áreas y Regiones Metropolitanas;
-
-II. Elaborar los Planes de Ordenamiento Territorial de las Áreas Metropolitanas;
-
-III. Elaborar el Mapa de Riesgo Metropolitano;
-
-IV. Proponer mecanismos de coordinación con los ayuntamientos correspondientes para que estos participen en el proceso de elaboración de dichos planes, y
-
-V. Apoyar a los ayuntamientos y al Poder Ejecutivo en la elaboración de los planes en materia de desarrollo urbano de los municipios que integren un área o región metropolitana.
+(DEROGADO, P.O. 3 DE FEBRERO DE 2011)
 
 ###### Artículo 104.
 
-Son facultades de las instancias de coordinación política en materia de planeación metropolitana las siguientes:
-
-I. Acordar los programas de desarrollo metropolitano y los planes de ordenamiento territorial metropolitano correspondientes, presentados por los Institutos Metropolitanos de Planeación;
-
-II. Someter a consideración de sus respectivos ayuntamientos los planes y proyectos elaborados por los Institutos Metropolitanos de Planeación;
-
-III. Informar a los Institutos Metropolitanos de Planeación de las directrices generales de la Agenda Metropolitana, y
-
-IV. Apoyar a los Institutos Metropolitanos de Planeación con la información necesaria para realizar el proceso de planeación;
+(DEROGADO, P.O. 3 DE FEBRERO DE 2011)
 
 ###### Artículo 105.
 
-Son atribuciones de las instancias de participación ciudadana en materia de planeación metropolitana las siguientes:
-
-I. Fomentar la participación ciudadana en el proceso de planeación;
-
-II. Supervisar el proceso de consulta pública para la elaboración de los programas y los planes;
-
-III. Aportar propuestas a los institutos metropolitanos de planeación en el proceso de formulación de los programas y planes;
-
-IV. Participar en la evaluación permanente y en el proceso de actualización de los programas y planes vigentes.
+(DEROGADO, P.O. 3 DE FEBRERO DE 2011)
 
 ###### Artículo 106.
 
@@ -1663,15 +1553,19 @@ Las bases generales del procedimiento para la elaboración y aprobación de los 
 
 I. El instituto metropolitano de planeación que corresponda, con la información entregada por la instancia de coordinación política, procederá a elaborar los proyectos de programas y planes metropolitanos. Durante este proceso, el Instituto deberá de mantener una comunicación permanente con los municipios involucrados para garantizar que sus opiniones sean valoradas adecuadamente en el proceso de formulación;
 
-II. Una vez elaborados los proyectos, estos serán entregados por el Instituto a la instancia de coordinación política para su aprobación. Ésta podrá hacer sugerencias y recomendaciones a la propuesta del Instituto. Con la propuesta modificada, la Instancia de coordinación política procederá a su aprobación a partir de lo que establezca la ley en materia de metropolización, y
+> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2011)</small>
+
+II. Una vez elaborados los proyectos, éstos serán entregados por el Instituto a la instancia de coordinación política para su consulta pública y su envío a la instancia consultiva y de participación ciudadana, para que posteriormente la instancia de coordinación política proceda a su estudio y aprobación con o sin modificaciones, tomando en cuenta la consulta popular y las observaciones y propuestas de la instancia consultiva y de participación ciudadana, y
 
 III. Una vez acordados los programas y planes en la Instancia de coordinación, estos se pondrán a consideración del Pleno del Ayuntamiento respectivo por conducto del Presidente Municipal. En caso de ser aprobados por la totalidad de los municipios involucrados, se procederá a su publicación o registro. Si algún municipio no los aprobara se procederá conforme lo establezca la ley en materia de metropolización.
 
 Para la elaboración y aprobación de los programas y planes metropolitanos se estará adicionalmente a lo previsto en las disposiciones legales y reglamentarias aplicables.
 
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 107.
 
-Los programas de desarrollo metropolitanos podrán ser revisados cada seis años, mientras que los planes de ordenamiento territorial metropolitanos podrán ser revisados cada tres años, siempre y cuando se presente una justificación técnica y legal que fundamente la necesidad de su revisión, apegándose al procedimiento establecido en el artículo anterior.
+Los programas de desarrollo metropolitanos y los planes de ordenamiento territorial metropolitanos podrán ser revisados cada tres años, siempre y cuando se presente una justificación técnica y legal que fundamente la necesidad de su revisión, apegándose al procedimiento establecido en el artículo anterior.
 
 #### Sección Cuarta. De los Planes Regionales de Integración Urbana y del Ordenamiento Ecológico Regional del Estado
 
@@ -1819,9 +1713,11 @@ VI. Presentar propuestas para el ordenamiento y regulación del centro de poblac
 
 VII. Diseñar y proponer los indicadores a fin de dar seguimiento y evaluar la aplicación y cumplimiento de los objetivos del plan.
 
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 118.
 
-Cuando simultáneamente con el plan de desarrollo urbano de centro de población se formulen los planes parciales de desarrollo urbano, se observarán las disposiciones previstas en este Código para su elaboración, autorización, publicación y registro.
+Cuando simultáneamente con el Plan de Ordenamiento Territorial Metropolitano, el Programa Municipal de Desarrollo Urbano o el plan de desarrollo urbano de centro de población se formulen los planes parciales de desarrollo urbano, se observarán las disposiciones previstas en este código para su elaboración, autorización, publicación y registro.
 
 ###### Artículo 119.
 
@@ -2505,7 +2401,7 @@ En el caso de que la Comisión Nacional del Agua, otorgue a un particular la ces
 
 ###### Artículo 182.
 
-Para el calculo de las áreas de cesión, de predios que resulten afectados por áreas de restricción, originadas por el paso de infraestructura y sus instalaciones, donde se pretenda llevar a cabo una acción urbanística, se estará en lo dispuesto en el presente Código.
+Para el cálculo de las áreas de cesión, de predios que resulten afectados por áreas de restricción, originadas por el paso de infraestructura y sus instalaciones, donde se pretenda llevar a cabo una acción urbanística, se estará en lo dispuesto en el presente Código.
 
 Las áreas de restricción serán determinadas por la instancia y organismo que las controle, de acuerdo a la legislación y normatividad vigente, una vez que sea presentada la solicitud por la autoridad municipal, o bien si la autoridad municipal lo juzga conveniente, dicha solicitud podrá ser presentada por el propietario o promotor del terreno. Para tal efecto, las instancias y organismos correspondientes podrán poner a disposición de quien lo solicite, la información necesaria, para que peritos en la materia, realicen los estudios necesarios para determinar las áreas de restricción y una vez concluidos estos, los presentarán para su aprobación a la instancia u organismo encargado.
 
@@ -2683,7 +2579,7 @@ III. Copia de los documentos que acrediten las excepciones.
 
 ###### Artículo 204.
 
-Si del informe que presente el Notario Público a la Presidencia Municipal y a la Secretaría conforme el artículo que antecede, la autoridad advierte que no fue notificado, o que el precio pagado por el predio es menor al informado, conforme al articulo 196 de este Código, o se invocó alguna de las excepciones sin acreditarla, podrá comunicar al adquirente y al notario, en un plazo no mayor de treinta días, su decisión de ejercer el derecho de preferencia, pagando el mismo precio fijado en la operación, o en su caso, el que se determine conforme al artículo 201 de este Código y, en tal caso, la operación de que se trate será nula.
+Si del informe que presente el Notario Público a la Presidencia Municipal y a la Secretaría conforme el artículo que antecede, la autoridad advierte que no fue notificado, o que el precio pagado por el predio es menor al informado, conforme al artículo 196 de este Código, o se invocó alguna de las excepciones sin acreditarla, podrá comunicar al adquirente y al notario, en un plazo no mayor de treinta días, su decisión de ejercer el derecho de preferencia, pagando el mismo precio fijado en la operación, o en su caso, el que se determine conforme al artículo 201 de este Código y, en tal caso, la operación de que se trate será nula.
 
 ###### Artículo 205.
 
@@ -3837,7 +3733,7 @@ b) De la Asamblea o los titulares de derechos agrarios, aceptando aportar las á
 
 c) De la Asamblea, donde autorice la aportación de tierras al municipio o entidad correspondiente para dedicarlas a los servicios públicos, de conformidad a las disposiciones de la Ley Agraria;
 
-V. Las cláusulas relativas al ejercicio del derecho de preferencia previsto en el Capitulo II del Título Séptimo o su transferencia, conforme a las estipulaciones del Convenio;
+V. Las cláusulas relativas al ejercicio del derecho de preferencia previsto en el Capítulo II del Título Séptimo o su transferencia, conforme a las estipulaciones del Convenio;
 
 VI. Los usos y destinos, las modalidades, características y demás aspectos de tipo técnico de la urbanización, conforme al Titulo Sexto de este Código y en particular, a la determinación de reserva urbana en donde estén incluidas las áreas y predios;
 
@@ -4133,11 +4029,11 @@ I. En Planeación Urbana: Son los profesionistas que apoyan a las autoridades en
 
 II. En Proyecto: Son los profesionistas autores de los proyectos y expertos en la elaboración de los proyectos ejecutivos, que se encuentran legalmente establecidos, clasificados en cuanto a su profesión, ejercicio, especialización y responsabilidad, de la siguiente manera;
 
-a) De Edificación: Son los responsables de la elaboración de los proyectos ejecutivos de cualquier genero de obra de edificación con título, cedula profesional de arquitecto o profesión equivalente, expedida por la Secretaría de Educación Pública, con especialidad en la materia y responsabilizándose que estos cumplan lo establecido en el presente Código Urbano, el reglamento de construcción municipal y demás leyes y reglamentos aplicables, así como los planes y programas de desarrollo urbano aplicables;
+a) De Edificación: Son los responsables de la elaboración de los proyectos ejecutivos de cualquier género de obra de edificación con título, cedula profesional de arquitecto o profesión equivalente, expedida por la Secretaría de Educación Pública, con especialidad en la materia y responsabilizándose que estos cumplan lo establecido en el presente Código Urbano, el reglamento de construcción municipal y demás leyes y reglamentos aplicables, así como los planes y programas de desarrollo urbano aplicables;
 
 b) De Restauración: Son los responsables de la elaboración de los proyectos ejecutivos de restauración de edificios y monumentos del patrimonio histórico y cultural, con título, cedula profesional de arquitecto o profesión equivalente, expedida por la Secretaría de Educación Pública, con especialidad en la materia y responsabilizándose que estos cumplan lo establecido en la Ley Federal sobre Monumentos y Zonas Arqueológicas, Artísticas e Históricas, la Ley del Patrimonio Cultural y Natural del Estado de Jalisco y sus Municipios, el presente Código Urbano, los reglamentos municipales y demás leyes y disposiciones aplicables;
 
-c) Urbanización: Son responsables de la elaboración de los proyectos ejecutivos de cualquier genero de obra urbana, con título, cedula profesional de arquitecto o profesión equivalente, expedida por la Secretaría de Educación Pública, con especialidad en la materia y responsabilizándose que estos cumplan lo establecido en el presente Código Urbano, los reglamentos municipales y demás Leyes y Reglamentos aplicables, así como los planes y programas de desarrollo urbano aplicables, y
+c) Urbanización: Son responsables de la elaboración de los proyectos ejecutivos de cualquier género de obra urbana, con título, cedula profesional de arquitecto o profesión equivalente, expedida por la Secretaría de Educación Pública, con especialidad en la materia y responsabilizándose que estos cumplan lo establecido en el presente Código Urbano, los reglamentos municipales y demás Leyes y Reglamentos aplicables, así como los planes y programas de desarrollo urbano aplicables, y
 
 d) De Infraestructura: Son los responsables de la elaboración de los proyectos ejecutivos de cualquier género de obra de infraestructura, con título, cedula profesional de ingeniero civil o profesión equivalente, expedida por la Secretaría de Educación Pública, con especialidad en la materia y responsabilizándose que estos cumplan lo establecido en el presente Código Urbano, los reglamentos municipales y demás Leyes y Reglamentos aplicables, así como los programas y planes de desarrollo urbano aplicables.
 
@@ -4561,7 +4457,7 @@ d) Realice modificaciones sustanciales al proyecto que impliquen daños a la inf
 
 e) Firme como perito o director responsable en proyectos sin haberlo realizado, y
 
-f) Firme como perito o director responsable y no la este realizando.
+f) Firme como perito o director responsable y no la esté realizando.
 
 ###### Artículo 386.
 
@@ -4710,3 +4606,9 @@ El Secretario General de Gobierno
 LIC. FERNANDO ANTONIO GUZMÁN PÉREZ PELÁEZ
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 3 DE FEBRERO DE 2011.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
