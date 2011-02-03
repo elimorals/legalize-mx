@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-las-y-los-jovenes-del-distrito-federal-36036"
 country: "mx"
 rank: "ley"
 publication_date: "2000-07-25"
-last_updated: "2009-01-13"
+last_updated: "2011-02-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=36036&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-05-30"
 
 LEY DE LAS Y LOS JOVENES DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 13 DE ENERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 3 DE FEBRERO DE 2011.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 25 de julio del 2000.
 
@@ -246,7 +246,11 @@ VI. Promover la investigación, formación y la creación científicas;
 
 > <small>(ADICIONADA, G.O. 10 DE NOVIEMBRE DE 2008)</small>
 
-VII. Informar, para prevenir, las causas y consecuencias que trae consigo la práctica de conductas que atentan contra el sano desarrollo de las y los jóvenes, tales como: el sedentarismo y la adopción de hábitos alimentarios inadecuados; los trastornos alimenticios, como la bulimia y la anorexia; el consumo de cualquier droga o sustancia que altere su estado físico y mental, entre otros.
+VII. Informar, para prevenir, las causas y consecuencias que trae consigo la práctica de conductas que atentan contra el sano desarrollo de las y los jóvenes, tales como: el sedentarismo y la adopción de hábitos alimentarios inadecuados; los trastornos alimenticios, como la bulimia y la anorexia; el consumo de cualquier droga o sustancia que altere su estado físico y mental, entre otros;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 3 DE FEBRERO DE 2011)</small>
+
+VIII. Informar y promover la detección temprana, la atención y el tratamiento integral del cáncer de mama y cérvico uterino.
 
 ### CAPITULO IV. DEL DERECHO A LA SALUD
 
@@ -292,13 +296,17 @@ Artículo 17 QUÁTER.- La Secretaría de Salud deberá proporcionar atención a 
 
 Todas las y los jóvenes tienen el derecho de disfrute y ejercicio pleno de su sexualidad y a decidir, de manera consciente y plenamente informada, el momento y el número de hijos que deseen tener.
 
+> <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 19.
 
-El Gobierno debe formular las políticas y establecer los mecanismos que permitan el acceso expedito de las y los jóvenes a los servicios de información y atención relacionados con el ejercicio de sus derechos sexuales y reproductivos.
+El Gobierno debe formular las políticas y establecer los mecanismos que permitan el acceso expedito de las y los jóvenes a los servicios de información y atención relacionados con el ejercicio de sus derechos sexuales y reproductivos, así como a la detección temprana, la atención y el tratamiento integral del cáncer de mama y cérvico uterino.
+
+> <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 20.
 
-El Plan debe incluir lineamientos y acciones que permitan generar y divulgar información referente de salud reproductiva, ejercicio responsable de la sexualidad, VIH-SIDA, educación sexual, embarazo en adolescentes, maternidad y paternidad responsable, entre otros.
+El Plan debe incluir lineamientos y acciones que permitan generar y divulgar información referente de salud reproductiva, ejercicio responsable de la sexualidad, VIH-SIDA, educación sexual, embarazo en adolescentes, maternidad y paternidad responsable, la detección temprana, la atención y el tratamiento integral del cáncer de mama y cérvico uterino, entre otros.
 
 ### CAPITULO VI. DEL DERECHO A LA CULTURA
 
@@ -592,13 +600,15 @@ VIII. Las demás que establezca la presente Ley.
 
 La administración del Instituto está a cargo de una Junta de Gobierno y de un Director General.
 
+> <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2011)</small>
+
 ## TITULO TERCERO. DEL INSTITUTO DE LA JUVENTUD DEL DISTRITO FEDERAL
 
 ### CAPITULO III. EL PLAN ESTRATEGICO PARA EL DESARROLLO INTEGRAL DE LA JUVENTUD DEL DISTRITO FEDERAL
 
 ###### Artículo 53.
 
-La Junta está integrada por cinco miembros propietarios y cinco suplentes, los cuales son designados por el Jefe de Gobierno a propuesta de la Secretaría de Educación, Salud y Desarrollo Social, de entre los cuales se designará a su Presidente.
+La Junta está integrada por cinco miembros propietarios y cinco suplentes, los cuales serán preferentemente menores de 35 años y serán designados por el Jefe de Gobierno a propuesta de la (sic) Secretarías de Ecuación (sic), Salud y Desarrollo Social, de entre los cuales se elegirá a su Presidente.
 
 ###### Artículo 54.
 
@@ -650,7 +660,7 @@ XII. Las demás que establezca la presente Ley.
 
 ### CAPITULO UNICO. DEL PREMIO DE LA JUVENTUD DEL DISTRITO FEDERAL
 
-> <small>(ADICIONADO, G.O. 13 DE ENERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 3 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 57.
 
@@ -658,7 +668,9 @@ Para ser Director del Instituto se requiere:
 
 I. Ser mexicano en pleno ejercicio de sus derechos;
 
-II. Contar con buena fama pública y con conocimiento y experiencia en la materia, y
+> <small>(REFORMADA, G.O. 3 DE FEBRERO DE 2011)</small>
+
+II. Contar con buena fama pública y con conocimiento y experiencia en la materia, ser preferentemente menor de 29 años el día de su designación, y
 
 III. No encontrarse en alguno de los impedimentos para ser miembro de la Junta, señalados en las fracciones II, III, IV y V del artículo 55 de esta ley.
 
@@ -842,13 +854,23 @@ Las autoridades competentes del Gobierno gestionarán ante las autoridades fisca
 
 ###### Artículo 76.
 
-El Premio de la Juventud del Distrito Federal será convocado una vez al año y será entregado a jóvenes cuya edad quede comprendida entre los quince y veintinueve años, y su conducta o dedicación al trabajo o al estudio cause entusiasmo y admiración entre sus contemporáneos y pueda considerarse ejemplo estimulante para crear y desarrollar motivos de superación personal o de progreso de la comunidad. El premio de la Juventud del Distrito Federal se otorgará en las siguientes distinciones:
+El Premio de la Juventud del Distrito Federal será convocado una vez al año y será entregado a jóvenes cuya edad quede comprendida entre los catorce y veintinueve años, y su conducta o dedicación al trabajo o al estudio cause entusiasmo y admiración entre sus contemporáneos y pueda considerarse ejemplo estimulante para crear y desarrollar motivos de superación personal o de progreso de la comunidad. El premio de la Juventud del Distrito Federal se otorgará en las siguientes distinciones:
+
+> <small>(ADICIONADA, G.O. 13 DE ENERO DE 2009)</small>
 
 I. Actividades académicas, científicas o profesionales.
 
-II. Actividades culturales, artísticas o deportivas.
+> <small>(REFORMADA, G.O. 3 DE FEBRERO DE 2011)</small>
 
-III. Mérito cívico, ambiental y de labor social.
+II. Actividades culturales o artísticas.
+
+> <small>(REFORMADA, G.O. 3 DE FEBRERO DE 2011)</small>
+
+III. Actividades deportivas.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 3 DE FEBRERO DE 2011)</small>
+
+IV. Mérito cívico, ambiental y de labor social.
 
 > <small>(ADICIONADO, G.O. 13 DE ENERO DE 2009)</small>
 
@@ -1043,3 +1065,29 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Al día siguiente de su publicación, el Jefe de Gobierno, efectuará las acciones necesarias para realizar los ajustes administrativos y presupuestales para la entrada en vigor del decreto.
 
 TERCERO. Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
+
+G.O. 3 DE FEBRERO DE 2011.
+
+DECRETO POR EL QUE SE REFORMAN LOS ARTICULOS 53 Y 57 DE LA LEY DE LAS Y LOS JOVENES DEL DISTRITO FEDERAL.
+
+Primero.- La presente ley entrará en vigor al día siguiente de su publicación.
+
+Segundo.- Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
+
+G.O. 3 DE FEBRERO DE 2011.
+
+DECRETO POR EL QUE SE REFORMA EL ARTICULO 76 DE LA LEY DE LAS Y LOS JOVENES DEL DISTRITO FEDERAL.
+
+Artículo Primero. Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor conocimiento en el Diario Oficial de la Federación.
+
+Artículo Segundo. La presente reforma entrará en vigor al día siguiente de su publicación.
+
+G.O. 3 DE FEBRERO DE 2011.
+
+DECRETO POR EL QUE SE REFORMAN, MODIFICAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACION DEL DISTRITO FEDERAL Y DE LA LEY DE LAS Y LOS JOVENES DEL DISTRITO FEDERAL.
+
+Artículo Primero. Túrnese el presente Decreto al Jefe de Gobierno para efectos de su promulgación y publicación.
+
+Artículo Segundo. Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor conocimiento en el Diario Oficial de la Federación.
+
+Artículo Tercero. La presente reforma entrará en vigor al día siguiente de su publicación.
