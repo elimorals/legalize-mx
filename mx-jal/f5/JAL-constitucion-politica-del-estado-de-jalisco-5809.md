@@ -4,7 +4,7 @@ identifier: "JAL-constitucion-politica-del-estado-de-jalisco-5809"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-21"
-last_updated: "2010-12-02"
+last_updated: "2011-02-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5809&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CONSTITUCION POLITICA DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE FEBRERO DE 2011.
 
 Constitución publicada en el Periódico Oficial del Estado de Jalisco, el 21, 25 y 28 de julio y 1 de agosto de 1917.
 
@@ -57,7 +57,9 @@ Todo poder público dimana del pueblo y se instituye para su beneficio.
 
 La soberanía del Estado reside esencial y originariamente en el pueblo, quien la ejerce por medio de los poderes estatales, del modo y en los términos que establecen la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes.
 
-El Estado de Jalisco adopta para su régimen interno, la forma de gobierno republicano, democrático, representativo y popular; tiene como base de su división territorial y de su organización política y administrativa, el municipio libre.
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2011)</small>
+
+El Estado de Jalisco adopta para su régimen interno, la forma de gobierno republicano, democrático, representativo, laico y popular; tiene como base de su división territorial y de su organización política y administrativa, el municipio libre.
 
 > <small>(REFORMADO, P.O. 13 DE JULIO DE 1994)</small>
 
@@ -3000,3 +3002,9 @@ P.O. 2 DE JULIO DE 2009.
 P.O. 2 DE DICIEMBRE DE 2010.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 3 DE FEBRERO DE 2011.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. Notifíquese y envíese el presente decreto a los ayuntamientos del estado de Jalisco, para que manifiesten su aprobación en los términos señalados por el artículo 117 de la Constitución Política del Estado de Jalisco.
