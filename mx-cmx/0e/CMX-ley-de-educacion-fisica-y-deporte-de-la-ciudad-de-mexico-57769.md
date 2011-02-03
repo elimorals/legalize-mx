@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-educacion-fisica-y-deporte-de-la-ciudad-de-mexico-57769"
 country: "mx"
 rank: "ley"
 publication_date: "2008-01-04"
-last_updated: "2008-01-04"
+last_updated: "2011-02-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57769&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2007-12-12"
 
 LEY DE EDUCACION FISICA Y DEPORTE DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 3 DE FEBRERO DE 2011.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el viernes 4 de enero de 2008.
 
@@ -316,21 +316,27 @@ I. El Jefe de Gobierno del Distrito Federal, quien lo presidirá;
 
 II. El Director del Instituto del Deporte del Distrito Federal, quien fungirá como Secretario;
 
-III. El presidente del Comité Deportivo Estudiantil;
+> <small>(ADICIONADA, G.O. 3 DE FEBRERO DE 2011)</small>
 
-IV. Un representante de organismos que presidan deportes de conjunto;
+III. El presidente, o en su caso, un integrante de la Comisión de Juventud y Deporte de la Asamblea Legislativa del Distrito Federal;
 
-V. Un representante de organismos que manejen deportes individuales;
+IV. El presidente del Comité Deportivo Estudiantil;
 
-VI. Un representante de organismos para individuos con capacidades diferentes;
+V. Un representante de organismos que presidan deportes de conjunto;
 
-VII. Dos representantes de la iniciativa privada que se hayan distinguido por el apoyo brindado económica o técnicamente al fomento del deporte y la cultura física;
+VI. Un representante de organismos que manejen deportes individuales;
 
-VIII. Los dieciséis Directores del Área Deportiva de cada una de las Demarcaciones Territoriales del Distrito Federal; y
+VII. Un representante de organismos para individuos con capacidades diferentes;
 
-IX. Un Representante del Instituto de Ciencia y Tecnología del Distrito Federal.
+VIII. Dos representantes de la iniciativa privada que se hayan distinguido por el apoyo brindado económica o técnicamente al fomento del deporte y la cultura física;
 
-Los representantes señalados en las fracciones IV, V, VI y VII serán nombrados por el Director General del Instituto del Deporte del Distrito Federal, tomando como base su dinamismo en el fomento y desarrollo del deporte, y por su destacada labor deportiva o representatividad que se encuentren previamente inscritos en el Registro del Deporte del Distrito Federal.
+IX. Los dieciséis Directores del Área Deportiva de cada una de las Demarcaciones Territoriales del Distrito Federal; y
+
+X. Un Representante del Instituto de Ciencia y Tecnología del Distrito Federal.
+
+> <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2011)</small>
+
+Los representantes señalados en las fracciones V, VI, VII y VIII serán nombrados por el Director General del Instituto del Deporte del Distrito Federal, tomando como base su dinamismo en el fomento y desarrollo del deporte, y por su destacada labor deportiva o representatividad que se encuentren previamente inscritos en el Registro del Deporte del Distrito Federal.
 
 Los integrantes del Consejo desempeñarán sus funciones de manera honorífica de acuerdo a las disposiciones previstas en el reglamento correspondiente.
 
@@ -869,3 +875,11 @@ CUARTO.- De acuerdo al presupuesto anual todos los recursos destinados al Deport
 Recinto de la Asamblea Legislativa del Distrito Federal, a los veintisiete días del mes de noviembre del año dos mil siete.-POR LA MESA DIRECTIVA.- DIP. RAÚL ALEJANDRO RAMÍREZ RODRÍGUEZ, PRESIDENTE.- DIP. SERGIO MIGUEL CEDILLO FERNÁNDEZ, SECRETARIO.- DIP. MIGUEL ÁNGEL ERRASTI ARANGO, SECRETARIO.- (Firmas)
 
 En cumplimiento de lo dispuesto por el artículo 122, Apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II del Estatuto de Gobierno del Distrito Federal, y para su debida publicación y observancia expido el presente Decreto Promulgatorio, en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los doce días del mes de diciembre de dos mil siete.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MARCELO LUIS EBRARD CASAUBON.- FIRMA.- EL SECRETARIO DE GOBIERNO, JOSÉ ÁNGEL ÁVILA PÉREZ.- FIRMA.- EL SECRETARIO DE EDUCACIÓN, AXEL DIDRIKSSON TAKAYANAGÜI.- FIRMA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 3 DE FEBRERO DE 2011.
+
+Artículo Primero. Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor conocimiento en el Diario Oficial de la Federación.
+
+Artículo Segundo. La presente reforma entrará en vigor al día siguiente de su publicación.
