@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-51772"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-10-03"
-last_updated: "2010-03-30"
+last_updated: "2011-02-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51772&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-08-09"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE MARZO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 3 DE FEBRERO DE 2011.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el martes 3 de octubre de 2006.
 
@@ -81,11 +81,9 @@ b) transitorias: la de Receso y las demás que determine el Pleno;
 
 X. Secretarías ejecutivas:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, POR EL QUE SE CREAN LA SECRETARIA EJECUTIVA DEL PLENO Y LA SECRETARIA GENERAL DE LA PRESIDENCIA DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 3 DE FEBRERO DE 2011)</small>
 
-> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 5 DE FEBRERO DE 2010)</small>
-
-Secretaría Ejecutiva del Pleno y de la Presidencia;
+Secretaría Ejecutiva del Pleno;
 
 Secretaría Ejecutiva de Carrera Judicial, Adscripción y Creación de Nuevos Organos;
 
@@ -101,9 +99,9 @@ Secretaría Ejecutiva de Vigilancia, Información y Evaluación; y
 
 Las demás que determine el Pleno;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>(ADICIONADA POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, POR EL QUE SE CREAN LA SECRETARIA EJECUTIVA DEL PLENO Y LA SECRETARIA GENERAL DE LA PRESIDENCIA DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 3 DE FEBRERO DE 2011)</small>
 
-X Bis (sic). (DEROGADA POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 5 DE FEBRERO DE 2010)
+X Bis. Secretaría General: Secretaría General de la Presidencia del Consejo de la Judicatura Federal;
 
 XI. Secretarios ejecutivos: los titulares de las secretarías ejecutivas;
 
@@ -161,17 +159,13 @@ VIII. Las que cuenten con la presencia de algún visitante distinguido; y
 
 IX. Aquellas que el Pleno considere deban tener tal carácter.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, POR EL QUE SE CREAN LA SECRETARIA EJECUTIVA DEL PLENO Y LA SECRETARIA GENERAL DE LA PRESIDENCIA DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 3 DE FEBRERO DE 2011)</small>
 
-> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 5 DE FEBRERO DE 2010)</small>
+En estos casos, el Pleno instruirá al Secretario Ejecutivo del Pleno para que emita la convocatoria correspondiente.
 
-En estos casos, el Pleno instruirá al Secretario Ejecutivo del Pleno y de la Presidencia para que emita la convocatoria correspondiente con setenta y dos horas de anticipación.
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, POR EL QUE SE CREAN LA SECRETARIA EJECUTIVA DEL PLENO Y LA SECRETARIA GENERAL DE LA PRESIDENCIA DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 3 DE FEBRERO DE 2011)</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 5 DE FEBRERO DE 2010)</small>
-
-Los visitantes distinguidos a que se refiere la fracción VIII, firmarán el libro designado con ese nombre, cuya custodia estará a cargo del Secretario Ejecutivo del Pleno y de la Presidencia.
+Los visitantes distinguidos a que se refiere la fracción VIII, firmarán el libro designado con ese nombre, cuya custodia estará a cargo del Secretario Ejecutivo del Pleno.
 
 ###### Artículo 8.
 
@@ -179,13 +173,11 @@ Para la celebración de sesiones extraordinarias de carácter privado será nece
 
 Se podrán celebrar sesiones extraordinarias aun en el periodo de receso, en casos de extrema urgencia.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 5 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, POR EL QUE SE CREAN LA SECRETARIA EJECUTIVA DEL PLENO Y LA SECRETARIA GENERAL DE LA PRESIDENCIA DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 3 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 9.
 
-En las sesiones, el Secretario Ejecutivo del Pleno y de la Presidencia tomará nota de los acuerdos establecidos y de las observaciones formuladas para la elaboración del acta correspondiente.
+En las sesiones, el Secretario Ejecutivo del Pleno tomará nota de los acuerdos establecidos y de las observaciones formuladas para la elaboración del acta correspondiente.
 
 ###### Artículo 10.
 
@@ -247,33 +239,27 @@ V. Cuando se altere el orden o se incurra en faltas de respeto.
 
 Sólo el Presidente podrá interrumpir al orador en su exposición, si ocurre cualquiera de las circunstancias señaladas en el artículo anterior.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 5 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, POR EL QUE SE CREAN LA SECRETARIA EJECUTIVA DEL PLENO Y LA SECRETARIA GENERAL DE LA PRESIDENCIA DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 3 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 17.
 
-Para proceder a tomar la votación, el Presidente, por sí o a propuesta de cualquier consejero, preguntará al Pleno si el asunto en cuestión se encuentra suficientemente discutido, y si así fuere determinado, en opinión mayoritaria, preguntará si en votación económica se aprueba; de no ser así solicitará al Secretario Ejecutivo del Pleno y de la Presidencia tomar la votación y declarar el sentido de la misma.
+Para proceder a tomar la votación, el Presidente, por sí o a propuesta de cualquier consejero, preguntará al Pleno si el asunto en cuestión se encuentra suficientemente discutido, y si así fuere determinado, en opinión mayoritaria, preguntará si en votación económica se aprueba; de no ser así solicitará al Secretario Ejecutivo del Pleno tomar la votación y declarar el sentido de la misma.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 5 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, POR EL QUE SE CREAN LA SECRETARIA EJECUTIVA DEL PLENO Y LA SECRETARIA GENERAL DE LA PRESIDENCIA DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 3 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 18.
 
-Las votaciones se tomarán por el Secretario Ejecutivo del Pleno y de la Presidencia o por quien lo sustituya, en orden de los escaños que los consejeros ocupen en el Pleno, de derecha a izquierda, con excepción del Presidente quien emitirá su voto al final; serán nominales, a menos que uno de los miembros del Consejo solicite que la votación sea secreta, para lo cual será necesario que se motive la propuesta y exista consenso de la mayoría para ello. Si en alguna votación no se obtuviere la mayoría necesaria para la aprobación del asunto, se podrán practicar hasta dos votaciones adicionales con absoluta libertad de decisión para los consejeros, quienes no estarán ligados por el sentido de su voto anterior. Si a pesar de las dos votaciones adicionales persiste la imposibilidad de alcanzar la mayoría, y se trata de un asunto contenido en proyecto preparado por uno de los consejeros, se procederá en términos del artículo 13 de este Acuerdo.
+Las votaciones se tomarán por el Secretario Ejecutivo del Pleno o por quien lo sustituya, en orden de los escaños que los consejeros ocupen en el Pleno, de derecha a izquierda, con excepción del Presidente quien emitirá su voto al final; serán nominales, a menos que uno de los miembros del Consejo solicite que la votación sea secreta, para lo cual será necesario que se motive la propuesta y exista consenso de la mayoría para ello. Si en alguna votación no se obtuviere la mayoría necesaria para la aprobación del asunto, se podrán practicar hasta dos votaciones adicionales con absoluta libertad de decisión para los consejeros, quienes no estarán ligados por el sentido de su voto anterior.. (sic) Si a pesar de las dos votaciones adicionales persiste la imposibilidad de alcanzar la mayoría, y se trata de un asunto contenido en proyecto preparado por uno de los consejeros, se procederá en términos del artículo 13 de este Acuerdo.
 
 ###### Artículo 19.
 
 Los consejeros podrán abstenerse de exponer sus puntos de vista sobre el asunto sujeto a debate, pero no podrán abstenerse de votar, a menos que hubiere impedimento calificado previamente de legal o no hubieren estado presentes en la discusión del asunto.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 5 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, POR EL QUE SE CREAN LA SECRETARIA EJECUTIVA DEL PLENO Y LA SECRETARIA GENERAL DE LA PRESIDENCIA DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 3 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 20.
 
-Los reglamentos, acuerdos o resoluciones del Pleno que sean aprobados con modificaciones, serán remitidos al Secretario Ejecutivo del Pleno y de la Presidencia dentro de los tres días siguientes, contados a partir del día de su aprobación, para el trámite que corresponda.
+Los reglamentos, acuerdos o resoluciones del Pleno que sean aprobados con modificaciones, serán remitidos al Secretario Ejecutivo del Pleno dentro de los tres días siguientes, contados a partir del día de su aprobación, para el trámite que corresponda.
 
 Si el asunto fuere de interés general, deberá remitirse en algún medio de almacenamiento magnético o digital al Secretario Ejecutivo antes mencionado, al día siguiente de su aprobación, a fin de agilizar su publicación en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
 
@@ -307,11 +293,9 @@ Además de las facultades previstas en el artículo 85 de la Ley, son facultades
 
 I. Representar al Consejo por sí o por medio de apoderado, tratándose de la celebración de contratos o procedimientos judiciales, excepto en el juicio de amparo cuando el Consejo esté señalado como autoridad responsable. Los poderes que se otorguen para este efecto deberán ser de carácter especial y se harán del conocimiento del Pleno;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, POR EL QUE SE CREAN LA SECRETARIA EJECUTIVA DEL PLENO Y LA SECRETARIA GENERAL DE LA PRESIDENCIA DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 3 DE FEBRERO DE 2011)</small>
 
-> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 5 DE FEBRERO DE 2010)</small>
-
-II. Designar a un consejero ponente para que someta un asunto dudoso o trascendental a la consideración del Pleno, a fin de que éste determine lo que corresponda, conforme al turno que al efecto lleve el Secretario Ejecutivo del Pleno y de la Presidencia;
+II. Designar a un consejero ponente para que someta un asunto dudoso o trascendental a la consideración del Pleno, a fin de que éste determine lo que corresponda, conforme al turno que al efecto lleve el Secretario Ejecutivo del Pleno;
 
 III. Dirigir los debates y conservar el orden en las sesiones plenarias, conforme a lo dispuesto en los artículos 11, 15, 16 y 17 de este Acuerdo;
 
@@ -387,21 +371,17 @@ XV. Colaborar en caso necesario, en cualquier actividad que guarde relación dir
 
 XVI. Asistir a las sesiones a las que sea convocado, salvo caso fortuito o fuerza mayor, o bien, porque le haya sido encomendada alguna comisión;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, POR EL QUE SE CREAN LA SECRETARIA EJECUTIVA DEL PLENO Y LA SECRETARIA GENERAL DE LA PRESIDENCIA DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 3 DE FEBRERO DE 2011)</small>
 
-> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 5 DE FEBRERO DE 2010)</small>
-
-XVII. Nombrar y remover al personal adscrito a su ponencia, con excepción del nombramiento de los secretarios técnicos que las integren, los que serán propuestos por cada titular a la Comisión de Administración, previa revisión por parte de la Secretaría Ejecutiva del Pleno y de la Presidencia de que se cumple con los requisitos legales correspondientes y, hecho lo anterior, se informará al Pleno respecto del nombramiento realizado;
+XVII. Nombrar y remover al personal adscrito a su ponencia, con excepción del nombramiento de los secretarios técnicos que las integren, los que serán propuestos por cada titular a la Comisión de Administración, previa revisión por parte de la Secretaría Ejecutiva del Pleno de que se cumple con los requisitos legales correspondientes y, hecho lo anterior, se informará al Pleno respecto del nombramiento realizado;
 
 XVIII. Otorgar licencias con o sin goce de sueldo, hasta por treinta días, a los servidores públicos adscritos a sus ponencias;
 
 XIX. Someter a consideración del Pleno el proyecto de resolución por el que se dé cumplimiento a las resoluciones pronunciadas en los recursos de revisión administrativa en el plazo que fija el artículo 128 de la Ley;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, POR EL QUE SE CREAN LA SECRETARIA EJECUTIVA DEL PLENO Y LA SECRETARIA GENERAL DE LA PRESIDENCIA DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 3 DE FEBRERO DE 2011)</small>
 
-> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 5 DE FEBRERO DE 2010)</small>
-
-XX. Someter al Pleno, por conducto de la Secretaría Ejecutiva del Pleno y de la Presidencia, iniciativas de acuerdos generales, reglamentos, manuales internos u otras disposiciones de acatamiento obligatorio, así como las propuestas para la reforma, modificación o derogación de ellos;
+XX. Someter al Pleno, por conducto de la Secretaría Ejecutiva del Pleno, iniciativas de acuerdos generales, reglamentos, manuales internos u otras disposiciones de acatamiento obligatorio, así como las propuestas para la reforma, modificación o derogación de ellos;
 
 XXI. Ordenar que les sea entregada cualquier información elaborada, recopilada, almacenada o investigada por cualquiera de las áreas administrativas del Consejo; y
 
@@ -925,11 +905,9 @@ Al frente de cada una de las Secretarías Ejecutivas estará un Secretario Ejecu
 
 Los Secretarios Ejecutivos deberán tener experiencia profesional mínima de cinco años; tener título profesional, expedido legalmente, afín a las funciones que deban desempeñar; gozar de buena reputación; y no haber sido condenados por delito doloso con sanción privativa de libertad mayor de un año.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, POR EL QUE SE CREAN LA SECRETARIA EJECUTIVA DEL PLENO Y LA SECRETARIA GENERAL DE LA PRESIDENCIA DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 3 DE FEBRERO DE 2011)</small>
 
-> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 5 DE FEBRERO DE 2010)</small>
-
-La afinidad a que se refiere el párrafo anterior, en el caso de los Secretarios Ejecutivo del Pleno y de la Presidencia, de Carrera Judicial, Adscripción y Creación de Nuevos Organos, y de Disciplina, consistirá en tener título profesional de licenciado en derecho. En el caso de los titulares de las Secretaría Ejecutivas de Administración; de Finanzas; de Obra, Recursos Materiales y Servicios Generales; y de Vigilancia, Información y Evaluación, el título deberá ser de Licenciatura en Derecho, Contaduría Pública, Administración de Empresas, Finanzas Públicas, Economía, Arquitectura, Ingeniería Civil, o algún otro inherente a sus funciones.
+La afinidad a que se refiere el párrafo anterior, en el caso de los Secretarios Ejecutivos del Pleno, de Carrera Judicial, Adscripción y Creación de Nuevos Organos, y de Disciplina, consistirá en tener título profesional de licenciado en derecho. En el caso de los titulares de las Secretarías Ejecutivas de Administración; de Finanzas; de Obra, Recursos Materiales y Servicios Generales; y de Vigilancia, Información y Evaluación, el título deberá ser de Licenciatura en Derecho, Contaduría Pública, Administración de Empresas, Finanzas Públicas, Economía, Arquitectura, Ingeniería Civil, o algún otro inherente a sus funciones.
 
 ###### Artículo 65.
 
@@ -967,11 +945,9 @@ XIV. Informar a la comisión respectiva del resultado de las evaluaciones de las
 
 XV. Suscribir los documentos relativos al ejercicio de sus atribuciones, así como certificar las copias que obren en sus archivos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, POR EL QUE SE CREAN LA SECRETARIA EJECUTIVA DEL PLENO Y LA SECRETARIA GENERAL DE LA PRESIDENCIA DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 3 DE FEBRERO DE 2011)</small>
 
-> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 5 DE FEBRERO DE 2010)</small>
-
-La facultad de certificar documentos relacionados con la competencia y atribuciones del área a su cargo, podrá delegarla en los secretarios técnicos, secretarios de apoyo y directores de área adscritos al área administrativa de que es titular, sin perjuicio de que la ejerza directamente. Para el control de las facultades delegadas, los titulares deberán llevar el registro de los funcionarios autorizados, e informar a la Secretaría Ejecutiva del Pleno y de la Presidencia del Consejo de la Judicatura Federal, de la delegación que hagan. La fecha en que se reciba la comunicación señalada establecerá el inicio de la eficacia de la delegación otorgada;
+La facultad de certificar documentos relacionados con la competencia y atribuciones del área a su cargo, podrá delegarla en los secretarios técnicos, secretarios de apoyo y directores de área adscritos al área administrativa de que es titular, sin perjuicio de que la ejerza directamente. Para el control de las facultades delegadas, los titulares deberán llevar el registro de los funcionarios autorizados, e informar a la Secretaría Ejecutiva del Pleno del Consejo de la Judicatura Federal, de la delegación que hagan. La fecha en que se reciba la comunicación señalada establecerá el inicio de la eficacia de la delegación otorgada;
 
 XVI. Firmar con el Presidente, los demás consejeros integrantes y el secretario técnico de la comisión respectiva, las actas de las sesiones en las que participe;
 
@@ -1001,11 +977,9 @@ De las Secretarías Ejecutivas en lo Particular
 
 El Consejo contará con un secretariado ejecutivo, el cual estará integrado por los siguientes secretarios:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, POR EL QUE SE CREAN LA SECRETARIA EJECUTIVA DEL PLENO Y LA SECRETARIA GENERAL DE LA PRESIDENCIA DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 3 DE FEBRERO DE 2011)</small>
 
-> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 5 DE FEBRERO DE 2010)</small>
-
-I. El Secretario Ejecutivo del Pleno y de la Presidencia;
+I. El Secretario Ejecutivo del Pleno;
 
 II. El Secretario Ejecutivo de Carrera Judicial, Adscripción y Creación de Nuevos Organos;
 
@@ -1021,97 +995,67 @@ VII. El Secretario Ejecutivo de Vigilancia, Información y Evaluación; y
 
 VIII. Los demás que determine el Pleno.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 5 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, POR EL QUE SE CREAN LA SECRETARIA EJECUTIVA DEL PLENO Y LA SECRETARIA GENERAL DE LA PRESIDENCIA DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 3 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 69.
 
-El Secretario Ejecutivo del Pleno y de la Presidencia tendrá la función de auxiliar al Pleno, al Presidente y a los consejeros en todos aquellos asuntos que se determinen.
+El Secretario Ejecutivo del Pleno tendrá la función de auxiliar al Pleno, al Presidente y a los consejeros en todos aquellos asuntos que se determinen.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 5 DE FEBRERO DE 2010)</small>
+(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, POR EL QUE SE CREAN LA SECRETARIA EJECUTIVA DEL PLENO Y LA SECRETARIA GENERAL DE LA PRESIDENCIA DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 3 DE FEBRERO DE 2011
 
 ###### Artículo 70.
 
-Son atribuciones del titular de la Secretaría Ejecutiva del Pleno y de la Presidencia:
+Son atribuciones del titular de la Secretaría Ejecutiva del Pleno:
 
 I. Tramitar los asuntos que sean de la competencia del Pleno;
 
 II. Recibir la documentación de los asuntos que deban someterse a la consideración del Pleno y enviar la convocatoria con la documentación correspondiente a los consejeros;
 
-III. Recibir y presentar al Pleno los dictámenes enviados por la Comisión Substanciadora Unica del Poder Judicial de la Federación;
+III. Auxiliar al Presidente en la elaboración del orden del día de las sesiones, dando cuenta en cada una de éstas con los asuntos correspondientes;
 
-IV. Integrar la carpeta del Presidente con los asuntos listados para la sesión del Pleno;
+IV. Verificar y hacer constar la integración en las sesiones del Pleno;
 
-V. Informar al Presidente sobre los asuntos que se analizarán en las sesiones del Pleno;
+V. Elaborar las actas respectivas y presentarlas al Pleno para su aprobación;
 
-VI. Elaborar opiniones jurídicas, dictámenes y notas informativas para el Presidente, sobre los asuntos mencionados en la fracción que precede;
+VI. Firmar, conjuntamente con el Presidente del Consejo, las actas de las sesiones del Pleno;
 
-VII. Preparar y proponer al Presidente el orden del día de las sesiones, dando cuenta en cada una de éstas con los asuntos correspondientes;
+VII. Recabar y certificar el sentido de la votación y, en su caso, de los votos particulares que se emitan en las sesiones del Pleno, así como hacer constar el impedimento legal de los consejeros en la intervención, discusión y aprobación de algún asunto y los pormenores de la sesión, de manera sucinta;
 
-VIII. Verificar y hacer constar la integración en las sesiones del Pleno;
+VIII. Desahogar y dar seguimiento a los asuntos que consten en las actas de las sesiones del Pleno y llevar el control del archivo de los asuntos;
 
-IX. Recabar y certificar el sentido de la votación y, en su caso, de los votos particulares que se emitan en las sesiones del Pleno, así como hacer constar el impedimento legal de los consejeros en la intervención, discusión y aprobación de algún asunto y los pormenores de la sesión, de manera sucinta;
+IX. Elaborar dictámenes y opiniones jurídicas sobre los asuntos que se sometan a consideración del Pleno del Consejo de la Judicatura Federal;
 
-X. Elaborar las actas respectivas y presentarlas al Pleno para su aprobación;
+X. Coordinar y supervisar el funcionamiento de la Oficialía de Partes y Certificación del Edificio Sede del Consejo;
 
-XI. Firmar, conjuntamente con el Presidente del Consejo, las actas de las sesiones del Pleno;
+XI. Tramitar la legalización de la firma de los servidores públicos del Poder Judicial de la Federación, en los casos que la ley de la materia exija ese requisito;
 
-XII. Citar a los funcionarios que el Pleno determine a la sesión correspondiente para el mejor conocimiento de los asuntos;
+XII. Legalizar la firma de los servidores públicos a que se refiere la fracción anterior, cuando el Presidente así lo autorice;
 
-XIII. Desahogar y dar seguimiento a los asuntos que consten en las actas de las sesiones del Pleno y llevar el control del archivo de los asuntos;
+XIII. Citar a los funcionarios que el Pleno determine a la sesión correspondiente para el mejor conocimiento de los asuntos;
 
-XIV. Expedir copia certificada de las actas del Pleno cuando así se le solicite;
+XIV. Firmar, previo acuerdo del Presidente, las certificaciones que por disposición legal o a petición de parte interesada deban ser expedidas;
 
-XV. Notificar los asuntos que determine el Pleno, así como tramitar su publicación, en los medios de difusión correspondientes;
+XV. Expedir copia certificada de las actas del Pleno cuando así se le solicite;
 
-XVI. Coordinar y supervisar el funcionamiento de la Oficialía de Partes y Certificación del Edificio Sede del Consejo;
+XVI. Notificar los asuntos que determine el Pleno, así como tramitar su publicación;
 
-XVII. Tramitar la legalización de la firma de los servidores públicos del Poder Judicial de la Federación, en los casos que la ley de la materia exija ese requisito;
+XVII. Participar, conforme lo disponga el Pleno, en la elaboración de proyectos de acuerdos, bases generales de organización, disposiciones generales y acuerdos generales que tome aquél;
 
-XVIII. Legalizar la firma de los servidores públicos a que se refiere la fracción anterior, cuando el Presidente así lo autorice;
+XVIII. Tramitar ante el Pleno las propuestas que haga el Presidente con respecto a nombramientos de los servidores públicos a que se refiere la fracción V del artículo 85 de la Ley;
 
-XIX. Firmar, previo acuerdo del Presidente, las certificaciones que por disposición legal o a petición de parte interesada deban ser expedidas;
+XIX. Llevar el registro de turnos, efectuar el trámite requerido y realizar el control del archivo relativo a los recursos de revisión administrativa interpuestos en contra de resoluciones del Pleno, a que se refiere el Título Séptimo, Capítulo III, de la Ley;
 
-XX. Participar, conforme lo disponga el Pleno, en la elaboración de proyectos de acuerdos, bases generales de organización, disposiciones generales y acuerdos generales que tome aquél;
+XX. Elaborar y actualizar el Sistema de Turnos de Guardias de los Juzgados de Distrito, para la recepción de asuntos de nuevo ingreso en días y horas inhábiles;
 
-XXI. Participar, cuando así lo acuerde el Pleno, o lo instruya el Presidente, emitiendo opinión en las reuniones de los titulares de los órganos auxiliares y administrativos del Consejo que tengan como propósito el estudio y análisis para la creación, modificación o derogación de normas internas del propio Consejo;
+XXI. Tramitar ante el Presidente del Consejo las licencias que sean de su competencia establecidas en los artículos 171 y 173 de la Ley;
 
-XXII. Tramitar ante el Pleno las propuestas que haga el Presidente con respecto a nombramientos de los servidores públicos a que se refiere la fracción V del artículo 85 de la Ley;
+XXII. Preparar, con información proporcionada por las diversas áreas administrativas del Consejo y con datos obtenidos de los acuerdos asentados en las actas de las sesiones del Pleno del propio Consejo, el Informe Anual de Labores del Poder Judicial de la Federación que de conformidad con el artículo 14, fracción XI, de la Ley, rinde el Presidente al finalizar el segundo periodo de sesiones de cada año;
 
-XXIII. Llevar el registro de turnos, efectuar el trámite requerido y realizar el control del archivo relativo a los recursos de revisión administrativa interpuestos en contra de resoluciones del Pleno, a que se refiere el Título Séptimo, Capítulo III, de la Ley;
+XXIII. Recibir y presentar al Pleno los dictámenes enviados por la Comisión Substanciadora Unica del Poder Judicial de la Federación;
 
-XXIV. Tramitar ante el Presidente del Consejo las licencias que sean de su competencia establecidas en los artículos 171 y 173 de la Ley;
+XXIV. Elaborar y presentar informes con la periodicidad que le sean requeridos por el Pleno; y
 
-XXV. Preparar, con información proporcionada por las diversas áreas administrativas del Consejo y con datos obtenidos de los acuerdos asentados en las actas de las sesiones del Pleno del propio Consejo, el Informe Anual de Labores del Poder Judicial de la Federación que de conformidad con el artículo 14, fracción XI, de la Ley, rinde el Presidente al finalizar el segundo periodo de sesiones de cada año;
-
-XXVI. Elaborar y presentar informes con la periodicidad que le sean requeridos por el Pleno;
-
-XXVII. Recibir los escritos, peticiones y avisos que magistrados de circuito, jueces de distrito y trabajadores del Poder Judicial de la Federación dirijan al Presidente y canalizarlos a las áreas administrativas del Consejo que conforme a sus atribuciones, corresponda tramitar y resolver;
-
-XXVIII. Recibir los escritos que particulares, autoridades e instituciones dirigen al Presidente y remitirlos a las áreas administrativas del Consejo que correspondan o, en su caso, darles respuesta;
-
-> <small>(F. DE E., D.O.F. 26 DE MARZO DE 2010)</small>
-
-XXIX. Dar seguimiento e informar al Presidente sobre el trámite y resultado de los escritos y peticiones mencionadas en las fracciones XXVII y XXVIII de este artículo;
-
-XXX. Brindar atención ciudadana a quienes soliciten entrevistas con el Presidente;
-
-XXXI. (DEROGADA POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 5 DE FEBRERO DE 2010) (F. DE E., D.O.F. 26 DE MARZO DE 2010)
-
-XXXII. Llevar el archivo y correspondencia de la Presidencia del Consejo;
-
-XXXIII. Asistir a las reuniones interinstitucionales en las que participe el Consejo y coordinar, con las áreas involucradas, el cumplimiento de los acuerdos tomados en dichas reuniones;
-
-XXXIV. Asesorar al Presidente en los asuntos en que éste se lo requiera, así como desempeñar las comisiones y funciones especiales que aquél le encomiende;
-
-XXXV. Fungir como enlace operativo entre el Presidente y los Directores de los Organos Auxiliares del Consejo, los Secretarios Ejecutivos y los Directores Generales, con el objeto de mantener una línea de información directa sobre las actividades y avances programáticos de las áreas a cargo de dichos funcionarios;
-
-XXXVI. Coordinar a la Dirección General de Gestión Administrativa y demás áreas involucradas en las acciones que sean necesarias para la realización de las ceremonias de instalación de los nuevos órganos jurisdiccionales, inicio de obra e inauguración de Edificios Sede del Poder Judicial de la Federación; y
-
-XXXVII. Las demás que determine el Pleno, el Presidente y los consejeros.
+XXV. Las demás que determine el Pleno, el Presidente y los consejeros.
 
 ###### Artículo 71.
 
@@ -1605,13 +1549,45 @@ XV. Las demás que determinen el Pleno y la Comisión de Vigilancia, Informació
 
 La Secretaría Ejecutiva de Vigilancia, Información y Evaluación contará con la unidad administrativa denominada Archivo General del Consejo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>(ADICIONADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, POR EL QUE SE CREAN LA SECRETARIA EJECUTIVA DEL PLENO Y LA SECRETARIA GENERAL DE LA PRESIDENCIA DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 3 DE FEBRERO DE 2011)</small>
 
-Artículo 86 BIS.- (DEROGADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 5 DE FEBRERO DE 2010)
+###### Artículo 86 Bis.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+La Secretaría General de la Presidencia del Consejo de la Judicatura Federal se encargará de asistir al Presidente en los asuntos que, de acuerdo con sus atribuciones, le corresponda conocer.
 
-Artículo 86 TER.- (DEROGADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 5 DE FEBRERO DE 2010)
+> <small>(ADICIONADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, POR EL QUE SE CREAN LA SECRETARIA EJECUTIVA DEL PLENO Y LA SECRETARIA GENERAL DE LA PRESIDENCIA DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 3 DE FEBRERO DE 2011)</small>
+
+###### Artículo 86 Ter.
+
+El titular de la Secretaría General de la Presidencia del Consejo de la Judicatura Federal tendrá las siguientes atribuciones:
+
+I. Recibir la documentación e integrar la carpeta del Presidente con los asuntos listados para la sesión del Pleno;
+
+II. Elaborar opiniones jurídicas, dictámenes y notas informativas para el Presidente, sobre los asuntos que conozcan las Comisiones y los Comités integrados por los titulares de las unidades administrativas;
+
+III. Recibir los escritos, peticiones y avisos que magistrados de circuito, jueces de distrito y trabajadores del Poder Judicial de la Federación dirijan al Presidente y canalizarlos a las áreas administrativas del Consejo que conforme a sus atribuciones, corresponda tramitar y resolver;
+
+IV. Recibir los escritos que particulares, autoridades e instituciones dirigen al Presidente y remitirlos a las áreas administrativas del Consejo que correspondan o, en su caso, darles respuesta;
+
+V. Dar seguimiento e informar al Presidente sobre el trámite y resultado de los escritos y peticiones mencionadas en las fracciones IV y V de este artículo;
+
+VI. Brindar atención ciudadana a quienes soliciten entrevistas con el Presidente;
+
+VII. Llevar el archivo y correspondencia de la Presidencia del Consejo;
+
+VIII. Asistir a las reuniones interinstitucionales en las que participe el Consejo y coordinar, con las áreas involucradas, el cumplimiento de los acuerdos tomados en dichas reuniones;
+
+IX. Asesorar al Presidente en los asuntos en que éste se lo requiera, así como desempeñar las comisiones y funciones especiales que aquél le encomiende;
+
+X. Participar, cuando así lo acuerde el Pleno, o lo instruya el Presidente, emitiendo opinión en las reuniones de los titulares de los órganos auxiliares y administrativos del Consejo que tengan como propósito el estudio y análisis para la creación, modificación o derogación de normas internas del propio Consejo;
+
+XI. Fungir como enlace operativo entre el Presidente y los Directores de los Organos Auxiliares del Consejo, los Secretarios Ejecutivos y los Directores Generales, con el objeto de mantener una línea de información directa sobre las actividades y avances programáticos de las áreas a cargo de dichos funcionarios; y en su caso, con jueces y magistrados;
+
+XII. Asistir como invitado permanente a las sesiones de Comisiones y Comités integrados por los titulares de las unidades administrativas;
+
+XIII. Coordinar a la Dirección General de Gestión Administrativa y demás áreas involucradas en las acciones que sean necesarias para la realización de las ceremonias de instalación de los nuevos órganos jurisdiccionales, inicio de obra e inauguración de Edificios Sede del Poder Judicial de la Federación; y
+
+XIV. Las demás que le atribuya expresamente el Presidente.
 
 ### Capítulo VI. De los Organos Auxiliares del Consejo
 
@@ -3049,13 +3025,11 @@ a) Que antes de recibirse el aspirante, haya laborado en órganos jurisdiccional
 
 b) Que el consejero o el titular del área solicitante manifieste que el aspirante a ocupar la plaza, posee experiencia mínima de tres años.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PARRAFO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 5 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, POR EL QUE SE CREAN LA SECRETARIA EJECUTIVA DEL PLENO Y LA SECRETARIA GENERAL DE LA PRESIDENCIA DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 3 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 145.
 
-Los consejeros propondrán a la Comisión de Administración a los secretarios técnicos adscritos a sus ponencias, previa comprobación por parte de la Secretaría Ejecutiva del Pleno y de la Presidencia de que se reúnen los requisitos legales correspondientes y, hecho lo anterior, se turnará al Pleno para la autorización de la designación de que se trate.
+Los consejeros propondrán a la Comisión de Administración a los secretarios técnicos adscritos a sus ponencias, previa comprobación por parte de la Secretaría Ejecutiva del Pleno de que se reúnen los requisitos legales correspondientes y, hecho lo anterior, se turnará al Pleno para la autorización de la designación de que se trate.
 
 Las prórrogas de estos nombramientos aprobados por el Pleno serán enviadas directamente a la Dirección General de Recursos Humanos para el trámite correspondiente.
 
@@ -3083,11 +3057,9 @@ VII. Citar a los funcionarios que la comisión determine, para el mejor conocimi
 
 VIII. Preparar el informe anual del presidente de la comisión;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, POR EL QUE SE CREAN LA SECRETARIA EJECUTIVA DEL PLENO Y LA SECRETARIA GENERAL DE LA PRESIDENCIA DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 3 DE FEBRERO DE 2011)</small>
 
-> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 5 DE FEBRERO DE 2010)</small>
-
-IX. Enviar al Secretario Ejecutivo del Pleno y de la Presidencia los asuntos dictaminados por su comisión, que deban ser sometidos a la consideración del Pleno;
+IX. Enviar al Secretario Ejecutivo del Pleno los asuntos dictaminados por su comisión, que deban ser sometidos a la consideración del Pleno;
 
 X. Dar cuenta al presidente de la comisión con los asuntos que se turnen a dicho secretario para su análisis;
 
@@ -3177,13 +3149,11 @@ Se otorgarán comisiones a los trabajadores de base para realizar funciones dent
 
 El Comité Ejecutivo Nacional del Sindicato formulará la solicitud correspondiente con una anticipación mínima de diez días a que se tenga programado el inicio de la comisión respectiva.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 5 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, POR EL QUE SE CREAN LA SECRETARIA EJECUTIVA DEL PLENO Y LA SECRETARIA GENERAL DE LA PRESIDENCIA DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 3 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 166.
 
-El Pleno otorgará comisiones a los servidores públicos a que se refiere este Acuerdo, las que se cumplimentarán por el Secretario Ejecutivo del Pleno y de la Presidencia y por el Secretario Ejecutivo de Administración, en el ámbito de sus respectivas competencias.
+El Pleno otorgará comisiones a los servidores públicos a que se refiere este Acuerdo, las que se cumplimentarán por el Secretario Ejecutivo del Pleno y por el Secretario Ejecutivo de Administración, en el ámbito de sus respectivas competencias.
 
 ###### Artículo 167.
 
@@ -3247,13 +3217,11 @@ La Comisión Mixta de Seguridad, Higiene y Medio Ambiente en el Trabajo del Cons
 
 ## TITULO NOVENO. De la Oficialía de Partes y Certificación del Edificio Sede del Consejo
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 5 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, POR EL QUE SE CREAN LA SECRETARIA EJECUTIVA DEL PLENO Y LA SECRETARIA GENERAL DE LA PRESIDENCIA DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 3 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 181.
 
-La Oficialía de Partes y Certificación del Edificio Sede del Consejo contará con la estructura y el personal que el Pleno determine con base en el presupuesto, y jerárquicamente dependerá de la Secretaría Ejecutiva del Pleno y de la Presidencia.
+La Oficialía de Partes y Certificación del Edificio Sede del Consejo contará con la estructura y el personal que el Pleno determine con base en el presupuesto, y jerárquicamente dependerá de la Secretaría Ejecutiva del Pleno.
 
 ###### Artículo 182.
 
@@ -3271,17 +3239,13 @@ V. Entregar documentación oficial en domicilios particulares y oficiales cuando
 
 VI. Certificar por conducto de su titular la documentación necesaria cuando así se requiera;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, POR EL QUE SE CREAN LA SECRETARIA EJECUTIVA DEL PLENO Y LA SECRETARIA GENERAL DE LA PRESIDENCIA DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 3 DE FEBRERO DE 2011)</small>
 
-> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 5 DE FEBRERO DE 2010)</small>
+VII. Realizar un informe mensual de entradas de la documentación recibida y su respectiva entrega, y remitirlo a la Secretaría Ejecutiva del Pleno; y
 
-VII. Realizar un informe mensual de entradas de la documentación recibida y su respectiva entrega, y remitirlo a la Secretaría Ejecutiva del Pleno y de la Presidencia; y
+> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, POR EL QUE SE CREAN LA SECRETARIA EJECUTIVA DEL PLENO Y LA SECRETARIA GENERAL DE LA PRESIDENCIA DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 3 DE FEBRERO DE 2011)</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 5 DE FEBRERO DE 2010)</small>
-
-VIII. Otorgar a la Secretaría Ejecutiva del Pleno y de la Presidencia las facilidades necesarias para su adecuada supervisión.
+VIII. Otorgar a la Secretaría Ejecutiva del Pleno las facilidades necesarias para su adecuada supervisión.
 
 ###### Artículo 183.
 
@@ -3564,3 +3528,13 @@ PRIMERO.- El presente acuerdo entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 TERCERO.- La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de esta reforma, al Acuerdo General del Pleno del Consejo de la Judicatura Federal, que Reglamenta la Organización y Funcionamiento del Propio Consejo.
+
+D.O.F. 3 DE FEBRERO DE 2011.
+
+PRIMERO.- El presente acuerdo entrará en vigor el día de su publicación.
+
+SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta, así como en la (sic) páginas de Internet e Intranet del Consejo de la Judicatura Federal.
+
+TERCERO.- El personal de la Secretaría Ejecutiva del Pleno y de la Presidencia deberá integrar la estructura inicial de las Secretarías Ejecutiva del Pleno y General de la Presidencia del Consejo de la Judicatura Federal, lo que deberá hacerse del conocimiento de la Dirección General de Programación y Presupuesto y de la Dirección General de Recursos Humanos.
+
+CUARTO.- La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de esta reforma, al Acuerdo General del Pleno del Consejo de la Judicatura Federal, que Reglamenta la Organización y Funcionamiento del Propio Consejo.
