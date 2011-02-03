@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-interior-del-sistema-michoacano-de-radio-y-44611"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-04-05"
-last_updated: "2005-04-05"
+last_updated: "2011-02-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44611&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MIC"
 
 REGLAMENTO INTERIOR DEL SISTEMA MICHOACANO DE RADIO Y TELEVISION
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL SISTEMA MICHOACANO DE RADIO Y TELEVISION, PUBLICADO EN EL P.O. DE 3 DE FEBRERO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Michoacán, el martes 5 de abril de 2005.
 
@@ -267,7 +269,7 @@ XII. Promover la realización de producciones radiofónicas que cumplan con el o
 
 XIII. Las demás que le señale el Director General y otras disposiciones normativas aplicables.
 
-### CAPÍTULO VII. DE LA SUBDIRECCIÓN DE NOTICIASY EVENTOS ESPECIALES
+### CAPÍTULO VII. DE LA SUBDIRECCIÓN DE NOTICIAS Y EVENTOS ESPECIALES
 
 ###### ARTÍCULO 12.
 
@@ -448,3 +450,11 @@ ROSA HILDA ABASCAL RODRÍGUEZ
 Secretaria de Contraloría y Desarrollo Administrativo
 
 (Firmado)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 3 DE FEBRERO DE 2011.
+
+Artículo Primero. El presente Reglamento entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Artículo Segundo. Se abroga el Reglamento Interior del Sistema Michoacano de Radio y Televisión, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, de fecha 5 de Abril del 2005 y se dejan sin efecto las demás disposiciones de carácter administrativo en lo que se opongan al presente Reglamento Interior.
