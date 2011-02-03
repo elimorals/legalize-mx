@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-interior-del-centro-de-estudios-de-bachillerato-4609
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-07-22"
-last_updated: "2005-07-22"
+last_updated: "2011-02-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46094&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ROO"
 
 REGLAMENTO INTERIOR DEL CENTRO DE ESTUDIOS DE BACHILLERATO TECNICO EVA SAMANO DE LOPEZ MATEOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL CENTRO DE ESTUDIOS DE BACHILLERATO TECNICO "EVA SAMANO DE LOPEZ MATEOS", PUBLICADO EN EL P.O. DE 3 DE FEBRERO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Extraordinario del Periódico Oficial del Estado de Quintana Roo, el viernes 22 de julio de 2005.
 
@@ -484,3 +486,23 @@ SECRETARIO DE GOBIERNO
 DR. JOSÉ LUIS PECH VÁRGUEZ
 
 SECRETARIO DE EDUCACIÓN Y CULTURA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 3 DE FEBRERO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interior del Centro de Estudios de Bachillerato Técnico "Eva Sámano de López Mateos", publicado el 22 de Julio de 2005, en el Periódico Oficial del Estado de Quintana Roo.
+
+###### ARTÍCULO TERCERO.
+
+Para la interpretación del presente Reglamento, la H. Junta Directiva o el (la) Director (a) General, resolverán lo conducente.
+
+###### ARTÍCULO CUARTO.
+
+El presente Reglamento Interior, será inscrito dentro del término de 30 días posteriores a su publicación, en el Registro Público de Organismo (sic) Descentralizados, de conformidad en lo dispuesto por la Ley de las Entidades de la Administración Pública Paraestatal del Estado de Quintana Roo.
