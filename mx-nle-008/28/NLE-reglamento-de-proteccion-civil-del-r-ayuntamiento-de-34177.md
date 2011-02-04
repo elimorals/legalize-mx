@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-proteccion-civil-del-r-ayuntamiento-de-34177"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-10-03"
-last_updated: "2003-10-03"
+last_updated: "2011-02-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34177&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "NLE"
 ---
 # REGLAMENTO DE PROTECCION CIVIL DEL R. AYUNTAMIENTO DE BUSTAMANTE, N.L
 
-REGLAMENTO DE PROTECCION CIVIL DEL AYUNTAMIENTO DE BUSTAMANTE, NUEVO LEON
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DEL REGLAMENTO DE PROTECCIÓN CIVIL DEL MUNICIPIO DE BUSTAMANTE, PUBLICADO EN EL P.O. DE 4 DE FEBRERO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO DE PROTECCIÓN CIVIL DEL AYUNTAMIENTO DE BUSTAMANTE, NUEVO LEÓN
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE FEBRERO DE 2011 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 3 de octubre de 2003.
 
@@ -998,3 +1000,13 @@ PRESIDENTE MUNICIPAL
 C. MARIA DEL REFUGIO MACIAS GÓMEZ.
 
 SECRETARIO DEL R. AYUNTAMIENTO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 4 DE FEBRERO DE 2011.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga el Reglamento de Protección Civil del Municipio de Bustamante, Nuevo León, publicado en el Periódico Oficial del Estado del día 03 de octubre de 2003, sus reformas y demás disposiciones que se opongan al presente Reglamento.
+
+TERCERO.- Publíquese el presente reglamento en el portal electrónico de Internet del municipio para cumplimiento del artículo 9 de la Ley de Acceso a la Información Pública del Estado de Nuevo León y en la Gaceta Municipal para su debida difusión.
