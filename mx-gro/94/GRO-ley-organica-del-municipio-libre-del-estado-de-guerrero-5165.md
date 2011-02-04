@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-del-municipio-libre-del-estado-de-guerrero-5165"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-01-05"
-last_updated: "2010-07-30"
+last_updated: "2011-02-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5165&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY ORGANICA DEL MUNICIPIO LIBRE DEL ESTADO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JULIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE FEBRERO DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 5 de enero de 1990.
 
@@ -743,7 +743,9 @@ V. Vigilar que la intervención de los elementos policiales en los casos de infr
 
 VI. Mantener la tranquilidad, la seguridad y orden público dentro del Municipio;
 
-VII. Prevenir la comisión de delitos y proteger a las personas, a sus propiedades y derechos;
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2011)</small>
+
+VII. Prevenir la comisión de delitos y proteger a las personas, a sus propiedades y derechos; e impulsar programas de prevención y atención a la violencia contra las mujeres, así como a otros grupos en situaciones de vulnerabilidad;
 
 VIII. Auxiliar al Ministerio Público y a las autoridades judiciales cuando sea requerido para ello;
 
@@ -983,7 +985,9 @@ Son facultades y obligaciones del Ayuntamiento en materia de Salud Pública y As
 
 I. Celebrar y participar con el Gobierno del Estado en los acuerdos de coordinación para alcanzar la plena cobertura en los Municipios, de los servicios de salud del primer nivel de atención, y del segundo nivel, en aquellos Municipios que conforme al modelo de atención así lo requieran;
 
-II. Participar en el reforzamiento de los programas de planificación familiar, campañas de vacunación y prevención de enfermedades transmisibles por vector;
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2011)</small>
+
+II. Participar en el reforzamiento de los programas de salud sexual y reproductiva, planificación familiar, campañas de vacunación y prevención de enfermedades transmisibles por vector;
 
 III. Colaborar con las autoridades federales y estatales en la construcción, rehabilitación, mantenimiento de establecimientos hospitalarios y unidades de atención;
 
@@ -993,9 +997,13 @@ V. Coadyuvar en la realización de campañas quirúrgicas de interés social en 
 
 VI. Coadyuvar con las autoridades sanitarias en los programas de regulación y control sanitario, ejerciendo las facultades que le competan conforme a las leyes y acuerdos de coordinación que al efecto celebre;
 
-VII. Combatir la desnutrición y deshidratación infantiles;
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2011)</small>
 
-VIII. Prevenir y combatir con el auxilio de las autoridades competentes el alcoholismo, la drogadicción, la prostitución, la vagancia y todas aquellas actividades que atenten contra la salud;
+VII. Combatir la desnutrición y deshidratación de infantes y de las personas en situación vulnerable;
+
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2011)</small>
+
+VIII. Prevenir y combatir con el auxilio de las autoridades competentes el alcoholismo, la drogadicción, la prostitución, la vagancia y todas aquellas actividades que atenten contra la salud, así como la violencia contra la mujer y a otros grupos en situación de vulnerabilidad;
 
 IX. Vigilar que la inhumación de los cadáveres se verifique en los panteones, dentro de las veinticuatro horas siguientes a las en que ocurrió la muerte, salvo el caso de que se trate de epidemias o enfermedades contagiosas respecto de las cuales deberá procederse conforme a la reglamentación sanitaria aplicable;
 
@@ -1021,7 +1029,9 @@ III. Colaborar con las autoridades correspondientes en la vigilancia de los recu
 
 IV. Promover con la colaboración de las autoridades estatales en la implementación de programas de desarrollo rural Integral;
 
-V. Elaborar y poner en operación, con la colaboración de las autoridades federales y estatales, programas que faciliten la titulación de la pequeña propiedad;
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2011)</small>
+
+V. Elaborar y poner en operación los programas que faciliten la titulación de la pequeña propiedad en coordinación con las autoridades federales y estatales, favoreciendo a las mujeres, particularmente jefas de familia;
 
 VI. Apoyar los trabajos de rehabilitación de Distritos de Riego y establecer sistemas de información sobre el estado de operación de la infraestructura hidráulica del Municipio;
 
@@ -1035,17 +1045,25 @@ X. Ejercer las facultades que le confiere la Ley Federal de la Reforma Agraria, 
 
 XI. Todas aquellas que faciliten y aseguren el mejor desempeño de sus tareas.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE FEBRERO DE 2011)</small>
+
 ###### ARTICULO 69.
 
-Son facultades y obligaciones del Ayuntamiento en materia de Participación Social de la Mujer las siguientes:
+Son facultades y obligaciones del Ayuntamiento en materia de Participación Equitativa de la Mujer las siguientes:
 
-I. Implementar un programa municipal de Participación Social de la Mujer, darle seguimiento y efectuar evaluaciones periódicas del mismo;
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2011)</small>
 
-II. Apoyar las actividades productivas de las mujeres;
+l. Implementar un programa municipal de Participación Equitativa de la Mujer, que considere acciones y presupuestos encaminados a mejorar sus condiciones de vida. Así como darle seguimiento y efectuar evaluaciones periódicas del mismo;
+
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2011)</small>
+
+II. Apoyar las actividades productivas de las mujeres; otorgando asesoría, capacitación, gestionando créditos y apoyándoles en los trámites para su funcionamiento;
 
 III. Establecer en coordinación con la Secretaría de la Mujer programas de capacitación y empleo, y
 
-IV. Intervenir en defensa de los derechos de las mujeres.
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2011)</small>
+
+IV. Intervenir en defensa de los derechos de las mujeres, impulsando la creación de centros de atención con áreas de salud, legal y social.
 
 > <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2007)</small>
 
@@ -3400,3 +3418,7 @@ P.O. 30 DE JULIO DE 2010.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
 
 SEGUNDO.- Remítase al Titular del Poder Ejecutivo para los efectos legales conducentes.
+
+P.O. 4 DE FEBRERO DE 2011.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
