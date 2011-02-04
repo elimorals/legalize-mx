@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-ejecucion-de-sanciones-privativas-de-la-libertad-7529"
 country: "mx"
 rank: "ley"
 publication_date: "1975-12-30"
-last_updated: "1999-03-26"
+last_updated: "2011-02-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7529&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "PUE"
 ---
 # LEY DE EJECUCION DE SANCIONES PRIVATIVAS DE LA LIBERTAD
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA NOTA ACLARATORIA PUBLICADA EL 28 DE FEBRERO DE 2011 EN EL P.O. DEL ESTADO DE PUEBLA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY DE EJECUCION DE SANCIONES PRIVATIVAS DE LA LIBERTAD PARA EL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE MARZO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE FEBRERO DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Puebla, el martes 30 de diciembre de 1975.
 
@@ -466,3 +468,13 @@ P.O. 26 DE MARZO DE 1999.
 PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan al presente ordenamiento.
+
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA NOTA ACLARATORIA PUBLICADA EL 28 DE FEBRERO DE 2011 EN EL P.O. DEL ESTADO DE PUEBLA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
+P.O. 4 DE FEBRERO DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor el dieciocho de junio de dos mil once.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Ordenamiento.
+
+TERCERO.- Las disposiciones reglamentarias de la presente Ley deberán entrar en vigor simultáneamente que la presente Ley.
