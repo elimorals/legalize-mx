@@ -4,7 +4,7 @@ identifier: "LISSFAM"
 country: "mx"
 rank: "ley"
 publication_date: "2003-07-09"
-last_updated: "2008-11-20"
+last_updated: "2011-02-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32514&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LISSFAM"
 
 LEY DEL INSTITUTO DE SEGURIDAD SOCIAL PARA LAS FUERZAS ARMADAS MEXICANAS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE NOVIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE FEBRERO DE 2011.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 9 de julio de 2003.
 
@@ -468,6 +468,8 @@ Los Diplomados de Estado Mayor, los que hayan obtenido un grado académico a niv
 
 Los Generales procedentes de las Armas del Ejército, de la Fuerza Aérea y los Almirantes de la Armada, también pueden ser retenidos en el activo por una sola vez, mediante acuerdo presidencial, no obstante existir alguna causa de retiro, cuando a juicio del titular del Poder Ejecutivo sean necesarios sus servicios.
 
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 27.
 
 Los militares que por resolución definitiva pasen a situación de retiro, ascenderán al grado inmediato únicamente para ese fin y para el cálculo del beneficio económico correspondiente, considerando los años de servicios en relación con el tiempo en el grado, de acuerdo con la tabla siguiente:
@@ -484,7 +486,11 @@ Años de Servicios Años en el Grado
 
 28 6
 
-30 o más 5
+30 5
+
+35 4
+
+40 o más 3
 
 ###### Artículo 28.
 
@@ -2897,3 +2903,7 @@ Año Haberes Haberes de Retiro Pensiones
 SEGUNDO. El porcentaje correspondiente al año 2008 será proporcionado del presupuesto actual de las dependencias y entidades involucradas: Secretaría de la Defensa Nacional, Secretaría de Marina e Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas.
 
 TERCERO. Se derogan las disposiciones que se opongan al presente ordenamiento, quedando a salvo los derechos y beneficios que se vengan ejerciendo y disfrutando en términos de las Leyes del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas de 1976 y 2003.
+
+D.O.F. 4 DE FEBRERO DE 2011.
+
+Único. El presente Decreto entrará en vigor, al día siguiente de su publicación en el Diario Oficial de la Federación.
