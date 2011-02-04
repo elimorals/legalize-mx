@@ -4,7 +4,7 @@ identifier: "PUE-codigo-de-justicia-para-adolescentes-del-estado-libre-y-51868"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-09-11"
-last_updated: "2010-01-04"
+last_updated: "2011-02-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51868&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CODIGO DE JUSTICIA PARA ADOLESCENTES DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ENERO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE FEBRERO DE 2011.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Puebla, el lunes 11 de septiembre de 2006.
 
@@ -69,7 +69,11 @@ II.- Centro de Internamiento Especializado.- Cualquiera de los lugares exclusivo
 
 III.- Código.- El Código de Justicia para Adolescentes del Estado Libre y Soberano de Puebla;
 
-IV.- Consejo General Interdisciplinario.- Órgano colegiado de carácter público e interinstitucional, auxiliar del Ejecutivo del Estado y encargado de proponer políticas en materia de ejecución de medidas para adolescentes, así como de rehabilitación y asistencia social para personas menores de doce años; formular los estudios que deba conocer y dictaminar conforme a este Código para la determinación de responsabilidades, la imposición de medidas o el otorgamiento de beneficios de libertad anticipada; de coadyuvar pericialmente con las autoridades competentes en materia de justicia de menores, y de emitir las recomendaciones necesarias para la adecuada aplicación de las medidas de orientación, protección y tratamiento que amerite cada caso, atendiendo a la protección integral y el interés superior del adolescente;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2011)</small>
+
+IV.- Consejo Técnico Interdisciplinario.- Órgano colegiado de carácter público e interinstitucional, auxiliar del Ejecutivo del Estado y encargado de proponer políticas en materia de ejecución de medidas para adolescentes, así como de rehabilitación y asistencia social para personas menores de doce años; formular los estudios que deba conocer y dictaminar conforme a este Código para la determinación de responsabilidades, la imposición de medidas o el otorgamiento de beneficios de libertad anticipada; de coadyuvar pericialmente con las autoridades competentes en materia de justicia de menores, y de emitir las recomendaciones necesarias para la adecuada aplicación de las medidas de orientación, protección y tratamiento que amerite cada caso, atendiendo a la protección integral y el interés superior del adolescente;
 
 > <small>(REFORMADA, P.O. 4 DE ENERO DE 2010)</small>
 
@@ -79,7 +83,11 @@ VI.- DIF.- Sistema para el Desarrollo Integral de la Familia del Estado de Puebl
 
 VII.- Interno.- Toda persona que en términos de este Código esté sujeta a medida de internamiento en algún Centro de Internamiento Especializado, impuesta de manera cautelar o por resolución judicial;
 
-VIII.- Juez.- La autoridad jurisdiccional de primera instancia especializada en materia de Justicia para Adolescentes;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2011)</small>
+
+VIII.- Juez.- La autoridad jurisdiccional de primera instancia especializada en materia de Justicia para Adolescentes, encargada de las etapas de instrucción y ejecución;
 
 IX.- Magistrado o Sala Unitaria.- La autoridad jurisdiccional de segunda instancia especializada en materia de Justicia para Adolescentes;
 
@@ -339,11 +347,17 @@ El Estado procurará la participación de la sociedad en la promoción de progra
 
 Para la aplicación del presente Código, serán autoridades competentes:
 
-I.- Del Tribunal Superior de Justicia del Estado, el Magistrado y el Juez;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2011)</small>
+
+I.- El Tribunal Superior de Justicia del Estado, el Magistrado, el Juez de Instrucción y el Juez de Ejecución de Medidas;
 
 II.- El Ministerio Público;
 
-III.- La Secretaría de Gobernación; y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+III.- (DEROGADA, P.O. 4 DE FEBRERO DE 2011)
 
 IV.- La Secretaría de Seguridad Pública.
 
@@ -357,9 +371,13 @@ La violación de derechos y garantías de los adolescentes es causa de nulidad d
 
 #### Sección Segunda: Autoridades Jurisdiccionales
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 31.
 
-El Magistrado y el Juez, se encargarán de la impartición de justicia en términos del presente ordenamiento, en su carácter de órganos jurisdiccionales, para lo cual ejercerán las atribuciones que les confieren la Ley Orgánica del Poder Judicial del Estado, este Código, y las demás disposiciones aplicables.
+El Magistrado, el Juez de Instrucción y el Juez de Ejecución, se encargarán de la impartición de justicia y ejecución de medidas en términos del presente ordenamiento, en su carácter de órganos jurisdiccionales, para lo cual ejercerán las atribuciones que les confieren la Ley Orgánica del Poder Judicial del Estado, este Código, y las demás disposiciones aplicables.
 
 #### Sección Tercera: Autoridades Ministeriales
 
@@ -387,7 +405,11 @@ I.- La Procuraduría del Ciudadano;
 
 II.- El DIF;
 
-III.- El Consejo General Interdisciplinario;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2011)</small>
+
+III.- El Consejo Técnico Interdisciplinario;
 
 IV.- Los servicios periciales de la Procuraduría General de Justicia, los médicos legistas, los intérpretes y demás peritos de que se allegue el Poder Judicial del Estado;
 
@@ -415,31 +437,27 @@ Los adolescentes que se encuentren en estado de abandono por no contar con famil
 
 Las personas que cumplan dieciocho años durante el procedimiento o la ejecución de una medida y se encuentren en el supuesto previsto en el párrafo anterior, serán sujetos a rehabilitación y asistencia social sólo por las instituciones autorizadas.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 39.
 
-El Consejo General Interdisciplinario funcionará como un órgano colegiado de carácter público e interinstitucional, auxiliar del Ejecutivo y encargado de proponer políticas en materia de ejecución de medidas para adolescentes, así como de rehabilitación y asistencia social para personas menores de doce años; formular los estudios que deba conocer y dictaminar conforme a este Código para la determinación de responsabilidades, la imposición de medidas o el otorgamiento de beneficios de libertad anticipada; de coadyuvar pericialmente con las autoridades competentes en materia de justicia de menores, y de emitir las recomendaciones necesarias para la adecuada aplicación de las medidas de orientación, protección y tratamiento que amerite cada caso, atendiendo a la protección integral y el interés superior del adolescente.
+El Consejo Técnico Interdisciplinario funcionará como un Órgano Colegiado, auxiliar del Centro de Internamiento Especializado para Adolescentes y del Juez de Ejecución, responsable de emitir opinión especializada sobre la atención, supervisión y seguimiento en materia de ejecución dé medidas para adolescentes, así como de rehabilitación y asistencia social para personas menores de doce años; formular los estudios que deba conocer y dictaminar conforme a este Código para la determinación de responsabilidades, la imposición de medidas o el otorgamiento de beneficios en la ejecución de aquéllas; de coadyuvar pericialmente con las autoridades competentes en materia de justicia de menores, y de realizar las recomendaciones necesarias para la adecuada aplicación de las medidas de orientación, protección y tratamiento que amerite cada caso, atendiendo a la protección integral y el interés superior del adolescente.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
 
 ###### Artículo 40.
 
-El Consejo General Interdisciplinario estará integrado por:
+(DEROGADO, P.O. 4 DE FEBRERO DE 2011)
 
-I.- Un Subsecretario de la Secretaría de Gobernación, que fungirá como Presidente del mismo, con derecho a voz y voto;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
 
-II.- Un Subsecretario de la Secretaría de Seguridad Pública, con derecho a voz y voto;
-
-III.- Un Subprocurador de la Procuraduría General de Justicia del Estado, con derecho a voz y voto;
-
-IV.- El Director de Ejecución de Medidas, que fungirá como Secretario, con derecho a voz y voto; y
-
-V.- Cinco consejeros especialistas en las diversas ciencias y disciplinas afines al Sistema, designados por el Titular del Ejecutivo, con derecho a voz y voto.
-
-Asimismo, previa invitación del Presidente del Consejo General, participarán en las sesiones un representante de la Comisión de Derechos Humanos del Estado, un representante de la Procuraduría del Ciudadano, un representante del DIF y un representante de la sociedad civil, todos ellos con derecho a voz y sin voto.
-
-Los integrantes del Consejo designarán a quienes deban suplirlos en su ausencia y desempeñarán su cargo de manera honorífica, por lo que no recibirán retribución, ni emolumento alguno, siendo responsables legalmente de los actos realizados en el ejercicio de sus funciones.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 41.
 
-El Consejo General se sujetará a las siguientes reglas:
+El Consejo Técnico Interdisciplinario se sujetará a las siguientes reglas:
 
 I.- Sus funciones serán de carácter consultivo y sus determinaciones orientarán la ejecución de medidas aplicables a menores, con base en criterios legales y científicos;
 
@@ -451,9 +469,13 @@ IV.- Las decisiones se tomarán, según el caso y conforme a lo previsto en el R
 
 En las determinaciones que se requiera mayoría simple, en caso de existir empate, el Presidente tendrá voto de calidad.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 42.
 
-El Consejo General Interdisciplinario tendrá las atribuciones siguientes:
+El Consejo Técnico Interdisciplinario tendrá las atribuciones siguientes:
 
 I.- Proponer y supervisar las políticas de Justicia para Adolescentes en el ámbito de competencia del Poder Ejecutivo;
 
@@ -469,7 +491,11 @@ VI.- Orientar, supervisar y evaluar periódicamente el tratamiento individual de
 
 VII.- Proponer las medidas y correcciones disciplinarias aplicables por infracciones cometidas a este Código o a algún reglamento derivado de la misma, así como los incentivos, estímulos y recompensas a los que se haga acreedor cada interno por su buen comportamiento;
 
-VIII.- Una vez cubiertos los requisitos exigidos por este Código, proponer y practicar los estudios y valoraciones relativos al tratamiento preliberacional, libertad anticipada y sustitutivos de las medidas impuestas, debiendo remitir los dictámenes y acuerdos correspondientes a la Dirección de Ejecución de Medidas, para que integre las propuestas correspondientes;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2011)</small>
+
+VIII.- Una vez cubiertos los requisitos exigidos por este Código, proponer y practicar los estudios y valoraciones relativos al tratamiento preliberacional, libertad anticipada y sustitutivos de la medidas impuestas, debiendo remitir los dictámenes y acuerdos correspondientes a la autoridad administrativa competente, para que integre las propuestas correspondientes;
 
 IX.- Evaluar y acordar las propuestas de beneficios de libertad anticipada, sustitutos o modificación no esencial de las medidas, al igual que otros asuntos relativos que por su importancia así se requiera, y de ser procedentes, emitir los dictámenes respectivos y turnados al Secretario de Gobernación para que resuelva y ordene lo conducente;
 
@@ -485,9 +511,13 @@ XIV.- Dictar los acuerdos necesarios para el cumplimiento de sus atribuciones; y
 
 XV.- Las demás que le confieran este Código y las disposiciones reglamentarias respectivas o resulten necesarias para cumplir con los fines del presente Código y demás disposiciones legales aplicables.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 43.
 
-Al ingreso de todo interno y una vez resuelta su situación jurídica, el Consejo General Interdisciplinario iniciará la etapa de observación y clasificación, cuya primera fase consistirá en los estudios e investigaciones de carácter científico, para conocer y determinar las características biopsicosociales de la persona internada, con base en los cuales emitirá un diagnóstico que determine las características del interno y ofrezca una visión integral para conocer las causas de su conducta antisocial, mismo que determinará su tratamiento en clasificación.
+Al ingreso de todo interno y una vez resuelta su situación jurídica el Consejo Técnico Interdisciplinario iniciará la etapa de observación y clasificación, cuya primera fase consistirá en los estudios e investigaciones de carácter científico, para conocer y determinar las características biopsicosociales de la persona internada, con base en los cuales emitirá un diagnóstico que determine las características del interno y ofrezca una visión integral para conocer las causas de su conducta antisocial, mismo que determinará su tratamiento en clasificación.
 
 Una vez concluido el diagnóstico o estudio integral de la personalidad del interno e integrado el expediente técnico respectivo, remitirá copia de aquél a la autoridad judicial competente y en el caso de los internos por resolución judicial que hubiere causado estado, propondrá el área de internamiento o dormitorio más compatible con su personalidad, tomando en cuenta además las conductas realizadas, el tiempo de duración de la medida, el medio social y familiar al que se reintegrará y las demás circunstancias personales del mismo.
 
@@ -511,7 +541,11 @@ I.- El de investigación y formulación de la remisión, que comprende todas aqu
 
 II.- El de instrucción, que comprende todas las diligencias practicadas por la autoridad judicial para determinar si radica o no la remisión, para dictar o no la orden de presentación o aprehensión, para resolver la situación jurídica del acusado y para averiguar la existencia legal de las conductas tipificadas como delitos, las circunstancias en que se realizaron y la responsabilidad o irresponsabilidad de los acusados; incluidos el momento procesal en el que el Ministerio Público precisa su acusación y el acusado su defensa, a través de sus respectivas conclusiones, y el acto de comunicación de la resolución, en la que el Juez estima el valor de las pruebas admitidas y desahogadas; y
 
-III.- El de ejecución, que abarca desde el momento en que cause ejecutoria la resolución dictada hasta la extinción completa de las medidas impuestas, cuya aplicación corresponderá al Poder Ejecutivo, por conducto del Órgano que este Código y la leyes aplicables determinen, el cual deberá proveer lo necesario para el debido cumplimiento de las resoluciones.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2011)</small>
+
+III.- El de ejecución, que abarca desde el momento en que cause ejecutoria la resolución dictada hasta la extinción completa de las medidas impuestas, cuya aplicación corresponderá al Juez de Ejecución, de acuerdo a las atribuciones que le confiere la Ley Orgánica del Poder Judicial y este Código.
 
 ###### Artículo 46.
 
@@ -557,11 +591,15 @@ V.- Después de firmadas sus resoluciones, los Jueces o Magistrados no podrán m
 
 La detención preventiva y el internamiento, solamente se utilizarán como medidas extremas, por el tiempo más breve que proceda, y podrán aplicarse únicamente a los adolescentes mayores de catorce años de edad, por la realización de las conductas antisociales calificadas como graves a que se refiere el artículo 162 de este Código en correlación con el artículo 69 del Código de Procedimientos en Materia de Defensa Social para el Estado Libre y Soberano de Puebla.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 53.
 
-Si en el transcurso del procedimiento se comprueba que la persona a quien se atribuye la realización de la conducta tipificada como delito, era mayor de dieciocho años de edad al momento de realizada, la autoridad se declarará incompetente y remitirá los autos a la jurisdicción penal para adultos.
+Si en el transcurso del procedimiento se comprueba que la persona a quien se atribuye la realización de la conducta tipificada como delito, era mayor de dieciocho años de edad al momento de realizarla, la autoridad se declarará incompetente y remitirá los autos a la jurisdicción penal para adultos.
 
-Por el contrario, si en el transcurso del procedimiento, se comprueba que la persona a quien se le imputa la realización de la conducta era menor de doce años de edad al momento de realizarla, se archivarán las actuaciones y se notificará al DIF, quien le brindará la rehabilitación, la asistencia social y la protección especial que procedan, previa valoración practicada por el Consejo General Interdisciplinario.
+Por el contrario, si en el transcurso del procedimiento, se comprueba que la persona a quien se le imputa la realización de la conducta era menor de doce años de edad al momento de realizarla, se archivarán las actuaciones y se notificará al DIF, quien le brindará la rehabilitación, la asistencia social y la protección especial que procedan, previa valoración practicada por el Consejo Técnico Interdisciplinario.
 
 ###### Artículo 54.
 
@@ -691,7 +729,7 @@ IV.- En cualquier supuesto, la acción persecutoria prescribirá en un plazo igu
 
 V.- La detención del acusado destruye la prescripción que hubiere corrido a su favor y si después de detenido se fugare, la prescripción comenzará a correr desde el día siguiente al en que la fuga se verifique;
 
-VI.- Cuando la persona sujeta a una medida de internamiento se sustraiga de la propia medida, se necesitará para la prescripción, el mismo tiempo que faltaba para cumplirIa más una cuarta parte, pero no podrá ser menor de un año ni mayor de seis; y
+VI.- Cuando la persona sujeta a una medida de internamiento se sustraiga de la propia medida, se necesitará para la prescripción, el mismo tiempo que faltaba para cumpliría más una cuarta parte, pero no podrá ser menor de un año ni mayor de seis; y
 
 VII.- La prescripción de las medidas se interrumpe únicamente por la detención de la persona sujeta a una medida de internamiento, aunque la detención se ejecute en virtud de otra conducta antisocial, o por el embargo de bienes para hacerlas efectivas, cuando se trate de sanciones pecuniarias.
 
@@ -769,21 +807,19 @@ III.- Se le encuentren objetos o instrumentos directamente relacionados con los 
 
 #### Sección Segunda: Detención del Acusado
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 78.
 
-En los casos de flagrancia, el Ministerio Público decretará bajo su responsabilidad, si procediere, la retención provisional del acusado hasta por un plazo de cuarenta y ocho horas, misma que podrá consistir en la detención preventiva en el Centro de Internamiento Especializado, en un centro médico, en un sitio seguro e independiente de los de detención para los mayores de edad o en su domicilio, con vigilancia de la policía competente para el caso, o en su caso, la remisión del adolescente al DIF, con el objeto de estar en posibilidad de realizar las investigaciones pertinentes y en su caso ordenar la remisión ante el Juez.
-
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 2010)</small>
+En los casos de flagrancia, el Ministerio Público decretará bajo su responsabilidad, si procediere, la retención provisional del acusado hasta por un plazo de cuarenta y ocho horas, misma que podrá consistir en la detención preventiva en el Centro de Internamiento Especializado, en un centro médico, en un sitio seguro e independiente de los de detención para los mayores de edad o en su domicilio, con vigilancia de la Policía competente para el caso, o en su caso, la remisión del adolescente al DIF, con el objeto de estar en posibilidad de realizar las investigaciones pertinentes y en su caso ordenar la remisión ante el Juez.
 
 Si el hecho ocurrió en un lugar en donde no haya Ministerio Público ni Juez Especializado, deberá conocer el Ministerio Público del lugar o la autoridad que en auxilio de él se aboque al conocimiento del hecho, con intervención del Defensor Público, iniciará inmediatamente la investigación del caso y dictará las providencias que sean necesarias, estableciendo la personalidad del menor, sus condiciones sociofamiliares, la naturaleza de su conducta y las circunstancias que en ella concurrieron; además proveerá lo necesario para el cuidado personal del adolescente detenido y su retención, la cual podrá realizarse en las áreas que para el efecto deberán destinar especialmente los Ayuntamientos de las cabeceras distritales, con el fin de evitar su internamiento en un establecimiento o centro penitenciario. Las investigaciones ministeriales que se practiquen conforme a este párrafo, así como la remisión, deberán enviarse a la autoridad judicial del lugar donde se haya cometido la conducta dentro de un máximo de cuarenta y ocho horas, la cual deberá practicar las diligencias constitucionales urgentes en auxilio del Juez Especializado.
 
-> <small>(REFORMADO, P.O. 25 DE MARZO DE 2009)</small>
-
 El Ministerio Público, la autoridad judicial y los Ayuntamientos que dejen de observar lo anterior, incurrirán en responsabilidad.
 
-> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2009)</small>
-
-En caso de que las conductas sean de las que no ameritan la aplicación de medidas de internamiento o se determine que el acusado es menor de doce años, éste será entregado a sus representantes legales o parientes más cercanos, con el compromiso de presentarlo ante las autoridades competentes una vez que les sean remitidas las diligencias y éstas lo requieran. Tratándose de menores de doce años en situación de abandono o peligro, la autoridad que lo estuviere reteniendo provisionalmente, deberá ponerlo a disposición del Consejo General Interdisciplinario, el cual lo remitirá de inmediato al DIF, para que este último actúe conforme a su competencia.
+En caso de que las conductas sean de las que no ameritan la aplicación de medidas de internamiento o se determine que el acusado es menor de doce años, este será entregado a sus representantes legales o parientes más cercanos, con el compromiso de presentarlo ante las autoridades competentes una vez que les sean remitidas las diligencias y éstas lo requieran. Tratándose de menores de doce años en situación de abandono o peligro, la autoridad que lo estuviere reteniendo provisionalmente, deberá ponerlo a disposición del Consejo Técnico Interdisciplinario, el cual lo remitirá de inmediato al DIF, para que éste último actúe conforme a su competencia.
 
 ###### Artículo 79.
 
@@ -871,11 +907,15 @@ El Juez ordenará o negará la aprehensión o presentación solicitada por el Mi
 
 Si el ejercicio de la acción persecutoria es con detenido, el Juez que reciba la remisión radicará de inmediato el asunto y se entenderá que el acusado queda a disposición del juzgador, para los efectos constitucionales y legales correspondientes en el Centro de Internamiento Especializado o en el área de retención e internamiento cautelar que para el efecto deberán establecer los Ayuntamientos. El Ministerio Público dejará constancia de que el detenido quedó a disposición de la autoridad judicial y entregará copia de aquélla al encargado del lugar de internamiento quien asentará el día y la hora de la recepción.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 91.
 
-El Juez que reciba la remisión con detenido procederá de inmediato a determinar si la detención fue apegada a la Constitución Política de los Estados Unidos Mexicanos; de ser así, ratificará la detención y requerirá al Consejo General lnterdisciplinario que realice un estudio médico psiquiátrico y psicosocial del acusado y podrá ordenar la práctica de diligencias con el fin de determinar si realmente se ha cometido la conducta tipificada como delito y si hay serios indicios para atribuir al acusado la autoría o participación en ella.
+El Juez que reciba la remisión con detenido procederá de inmediato a determinar si la detención fue apegada a la Constitución Política de los Estados Unidos Mexicanos; de ser así, ratificará la detención y requerirá al Consejo Técnico Interdisciplinario que realice un estudio médico psiquiátrico y psicosocial del acusado y podrá ordenar la práctica de diligencias con el fin de determinar si realmente se ha cometido la conducta tipificada como delito y si hay serios indicios para atribuir al acusado la autoría o participación en ella.
 
-En caso de no ratificar la detención, decretará la libertad con las reservas de ley y si encuentra que el menor está en situación de peligro o abandonado, lo pondrá a disposición del Consejo General lnterdisciplinario y lo remitirá a las oficinas del DIF, para lo de su competencia.
+En caso de no ratificar la detención, decretará la libertad con las reservas de ley y si encuentra que el menor está en situación de peligro o abandonado, lo pondrá a disposición del Consejo Técnico Interdisciplinario y lo remitirá a las oficinas del DIF, para lo de su competencia.
 
 ###### Artículo 92.
 
@@ -981,11 +1021,13 @@ Si las conclusiones son acusatorias, el Juez requerirá a la defensa y al acusad
 
 #### Sección Tercera: Audiencia de Comunicación de la Resolución
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 103.
 
-Inmediatamente después de dictado el auto que tiene por formuladas las conclusiones de la defensa, el Juez citará a la audiencia de comunicación de la resolución, la que tendrá verificativo dentro de los diez días siguientes dentro de los cuales el Juez deliberará sobre la responsabilidad del adolescente y respecto de la individualización de la medida que, en su caso, decretará. Para tal efecto deberá solicitar la opinión del representante del Consejo General lnterdisciplinario.
-
-La deliberación no podrá durar más del término antes mencionado, ni suspenderse salvo enfermedad grave del Juez. En este caso, la suspensión de la deliberación no podrá ampliarse por más de quince días, luego de los cuales se deberá reemplazar al Juez y realizar la audiencia de instrucción nuevamente.
+Inmediatamente después de dictado el auto que tiene por formuladas las conclusiones de la defensa, el Juez citará a la audiencia de comunicación de la resolución, la que tendrá verificativo dentro de los diez días siguientes, dentro de los cuales el Juez deliberará sobre la responsabilidad del adolescente y respecto de la individualización de la medida que, en su caso, decretará. Para tal efecto deberá solicitar la opinión del representante del Consejo Técnico Interdisciplinario.
 
 ###### Artículo 104.
 
@@ -1033,9 +1075,13 @@ El Juez o la Sala en resolución definitiva, de manera discrecional y razonada, 
 
 IX.- El monto de la reparación del daño a la víctima u ofendido, en su caso.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 107.
 
-Una vez firme la resolución, el Juez establecerá las condiciones y la forma en que el adolescente debe cumplir las medidas, y en caso de que alguna de éstas sea de internamiento, quedará a cargo de las autoridades del Centro de Internamiento Especializado la elaboración de un Plan Individualizado de Ejecución, que debe ser autorizado por la Dirección de Ejecución de Medidas.
+Una vez firme la resolución, el Juez establecerá las condiciones y la forma en que el adolescente debe cumplir las medidas, y en caso de que alguna de estas sea de internamiento, quedará a cargo de las autoridades del Centro de Internamiento Especializado la elaboración de un Plan Individualizado de Ejecución, que debe ser autorizado por la autoridad administrativa competente.
 
 ###### Artículo 108.
 
@@ -1073,9 +1119,13 @@ El Juez puede prescindir de toda medida cautelar, cuando la personalidad inofens
 
 Las medidas cautelares podrán levantarse a petición del Ministerio Público en cualquier momento, hasta antes de dictarse sentencia, cuando las circunstancias que dieron origen a la misma hayan desaparecido.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 110.
 
-Cuando el adolescente sea entregado a sus padres, tutores o a las personas de quienes dependa o a sus familiares o a un hogar sustituto, la Dirección de Ejecución de Medidas, con el apoyo del Consejo General Interdisciplinario, deberá prestar la asesoría y efectuar el seguimiento que garantice la eficacia de las medidas adoptadas.
+Cuando el adolescente sea entregado a sus padres, tutores o a las personas de quienes dependa o a sus familiares o a un hogar sustituto, la autoridad administrativa competente, con el apoyo del Consejo Técnico Interdisciplinario, deberá prestar la asesoría y efectuar el seguimiento que garantice la eficacia de las medidas adoptadas.
 
 #### Sección Quinta: Revisión Extraordinaria
 
@@ -1321,9 +1371,13 @@ En el mismo acto, el Juez podrá recordar a los padres, tutores, o a quienes eje
 
 #### Sección Tercera: Suspensión de Derechos y Servicio a Favor de la Comunidad
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 135.
 
-Cuando en la resolución ejecutoria que se reciba, se imponga la suspensión de derechos, la Dirección de Ejecución de Medidas deberá realizar todo lo conducente para que aquélla sea cumplida en todos sus términos, como notificar dicha resolución por escrito y acompañando copia certificada de la misma, a las autoridades o instituciones que corresponda.
+Cuando en la resolución ejecutoria que se reciba, se imponga la suspensión de derechos, la autoridad administrativa competente deberá realizar todo lo conducente para que aquélla sea cumplida en todos sus términos, como notificar dicha resolución por escrito y acompañando copia certificada de la misma, a las autoridades o instituciones que corresponda.
 
 ###### Artículo 136.
 
@@ -1337,25 +1391,45 @@ Las tareas deberán asignarse según las aptitudes, capacidades y posibilidades 
 
 La medida se mantendrá durante el tiempo necesario para que el servicio fijado se realice efectivamente o sea sustituido, pero sin exceder de un período máximo de un año. Dicho servicio deberá ser estrictamente vigilado por la autoridad competente, a efecto de que se cumpla el objetivo para el cual se impuso.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 138.
 
-Toda persona a la que se imponga la medida de prestar servicios a favor de la comunidad o se le hubiere concedido éste como sustitutivo de alguna otra medida, quedará bajo el cuidado y vigilancia de la Dirección de Ejecución de Medidas, misma que para el cumplimiento de éstos determinará el lugar, los días y el horario en que deba prestarse y el tipo de servicio a desempeñar por el obligado, de acuerdo con los programas y convenios que establezca la autoridad ejecutora para la aplicación y supervisión de los servicios y bajo las condiciones que fije o imponga la resolución correspondiente.
+Toda persona a la que se imponga la medida de prestar servicios a favor de la comunidad o se le hubiere concedido éste como sustitutivo de alguna otra medida, quedará bajo el cuidado y vigilancia de la autoridad administrativa competente, misma que para el cumplimiento de éstos, determinará el lugar, los días y el horario en que deba prestarse y el tipo de servicio a desempeñar por el obligado, de acuerdo con los programas y convenios que establezca la autoridad ejecutora para la aplicación y supervisión de los servicios y bajo las condiciones que fije o imponga la resolución correspondiente.
 
-Los programas y convenios a que se refiere el párrafo anterior, deberán garantizar que los sujetos de la medida, presten sus servicios en Dependencias o Entidades estatales o municipales, así como en instituciones públicas o privadas de educación, asistencia o servicio social, ubicadas preferentemente en la comunidad del sujeto de la medida y tomando en cuenta los usos y costumbres de la comunidad étnica indígena a que pertenezca, en su caso. Las instituciones en las que presten dichos servicios, deberán informar mensualmente a la Dirección de Ejecución de Medidas sobre su cumplimiento, en términos de los convenios respectivos.
+Los programas y convenios a que se refiere el párrafo anterior, deberán garantizar que los sujetos de la medida, presten sus servicios en dependencias o entidades estatales o municipales, así como en instituciones públicas o privadas de educación, asistencia o servicio social, ubicadas preferentemente en la comunidad del sujeto de la medida y tomando en cuenta los usos y costumbres de la comunidad étnica indígena a que pertenezca, en su caso. Las instituciones en las que presten dichos servicios, deberán informar mensualmente a la autoridad administrativa competente sobre su cumplimiento, en términos de los convenios respectivos.
 
 ###### Artículo 139.
 
 La conmutación de alguna medida por servicio a favor de la comunidad podrá revocarse en cualquier momento, si el favorecido incumple en un periodo de treinta días, con veinte horas de servicio o más, debiendo seguirse para tal efecto el siguiente procedimiento:
 
-I.- La Dirección de Ejecución de Medidas enviará al Secretario de Gobernación, las constancias del incumplimiento referido, para que emita su resolución, revocando la sustitución de la medida;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
 
-II.- Revocada la conmutación, la Dirección de Ejecución de Medidas, con auxilio de la autoridad competente, ejecutará la re internación del sujeto, a fin de que éste cumpla con el resto de la medida de internamiento impuesta, en su caso, desde su reingreso y por el término que faltare transcurrir contado a partir del día en que se hubiere dictado la revocación; y
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2011)</small>
 
-III.- La conmutación se suspenderá a partir del día en que el Secretario de Gobernación dicte su resolución, debiendo computarse las jornadas en que hubiere prestado sus servicios el sujeto de la medida hasta esa fecha.
+I.- La autoridad administrativa competente enviará al Juez de Ejecución, las constancias del incumplimiento referido, para que emita su resolución, revocando la sustitución de la medida;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2011)</small>
+
+II.- Revocada la conmutación, la autoridad administrativa competente, con auxilio de la autoridad competente, ejecutará la reinternación del sujeto, a fin de que éste cumpla con el resto de la medida de internamiento impuesta, en su caso, desde su reingreso y por el término que faltare transcurrir contado a partir del día en que se hubiere dictado la revocación; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2011)</small>
+
+III.- La conmutación se suspenderá a partir del día en que el Juez de Ejecución dicte su resolución, debiendo computarse las jornadas en que hubiere prestado sus servicios el sujeto de la medida hasta esa fecha.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 140.
 
-Cuando las condiciones laborales y personales del obligado fueren diferentes a las que existían en el momento en que se le impuso la medida de servicios en favor de la comunidad o aquél se considere afectado por la naturaleza del servicio asignado o por no haberse observado lo establecido en esta Sección, podrá solicitar la reconsideración de la medida ante la autoridad ejecutora, a través del recurso administrativo que prevé este Código.
+Cuando las condiciones laborales y personales del obligado fueren diferentes a las que existían en el momento en que se le impuso la medida de servicios en favor de la comunidad o aquél se considere afectado por la naturaleza del servicio asignado o por no haberse observado lo establecido en esta Sección, podrá solicitar la reconsideración de la medida ante el Juez de Ejecución, a través del recurso que prevé este Código.
 
 #### Sección Cuarta: Sanción Pecuniaria
 
@@ -1371,17 +1445,33 @@ La multa consiste en el pago de una cantidad de dinero al Estado, debida como sa
 
 Las multas que las autoridades competentes impongan como sanción o concedan con el carácter de sustitutivo de la medida, se ejecutarán con estricto apego a los términos establecidos en su individualización y conforme a las siguientes disposiciones:
 
-I.- Una vez recibida copia de la resolución ejecutoria en la que se imponga la multa o de la resolución que autorice conmutar la medida por multa, la Dirección de Ejecución de Medidas confirmará su monto para el efecto de requerir al obligado su pago voluntario dentro de los quince días hábiles siguientes;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
 
-II.- Si el obligado estuviere internado en un Centro de Internamiento Especializado, al requerirle el pago voluntario de la multa que se hubiere determinado, la Dirección de Ejecución de Medidas le hará saber que si no puede pagar la cantidad fijada dentro del plazo legal y en una sola emisión, podrá solicitar, en ese mismo momento o dentro de los cinco días hábiles siguientes, autorización para cubrir la multa en uno o más pagos diferidos, correspondiendo a la Procuraduría General de Justicia del Estado valorar la solicitud con base en las manifestaciones y demás elementos que aporte el sujeto de la medida para acreditar su impedimento, y resolver al respecto en términos del artículo 23 de la Ley para la Protección a Víctimas de Delitos, sin que los pagos parciales que en su caso autorice puedan exceder del total de meses que el obligado permanezca sujeto a internamiento ni diferirse más allá del momento en que éste sea liberado de manera anticipada o definitiva;
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2011)</small>
+
+I.- Una vez recibida copia de la resolución ejecutoria en la que se imponga la multa o de la resolución que autorice conmutar la medida por multa, el Juez de Ejecución confirmará su monto para el efecto de requerir al obligado su pago voluntario dentro de los quince días hábiles siguientes;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2011)</small>
+
+II.- Si el obligado estuviere internado en un Centro de Internamiento Especializado, al requerirle el pago voluntario de la multa que se hubiere determinado, el Juez de Ejecución le hará saber que si no puede pagar la cantidad fijada dentro del plazo legal y en una sola emisión, podrá solicitar, en ese mismo momento o dentro de los cinco días hábiles siguientes, autorización para cubrir la multa en uno o más pagos diferidos, correspondiendo a la Procuraduría General de Justicia del Estado valorar la solicitud con base en las manifestaciones y demás elementos que aporte el sujeto de la medida para acreditar su impedimento, y resolver al respecto en términos del artículo 23 de la Ley para la Protección a Víctimas de Delitos, sin que los pagos parciales que en su caso autorice puedan exceder del total de meses que el obligado permanezca sujeto a internamiento ni diferirse más allá del momento en que éste sea liberado de manera anticipada o definitiva;
 
 III.- La persona sujeta de la medida que se considere afectada con los plazos autorizados conforme a la fracción previa para el pago diferido de alguna multa, podrá solicitar su reconsideración ante el Procurador General de Justicia, siendo aplicable supletoriamente el procedimiento que este Código prevé para el recurso administrativo de revisión;
 
-IV.- Los pagos de multas deben efectuarse en las cajas de la Secretaría de Finanzas y Administración, la cual ingresará la totalidad de los montos recaudados por este concepto al Fondo que se constituya de acuerdo con la Ley para la Protección a Víctimas de Delitos y expedirá los recibos correspondientes, cuyos originales serán para el obligado y las copias se integrarán a los respectivos expedientes de la Dirección de Ejecución y del Tribunal que haya dictado la sentencia o resolución de que se trate, para constancia;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2011)</small>
+
+IV.- Los pagos de multas deben efectuarse en las cajas de la Secretaría de Finanzas y Administración, la cual ingresará la totalidad de los montos recaudados por este concepto al Fondo que se constituya de acuerdo con la Ley para la Protección a Víctimas de Delitos y expedirá los recibos correspondientes, cuyos originales serán para el obligado y las copias se integrarán a los respectivos expedientes de la autoridad administrativa competente la o resolución de que se trate, para constancia;
 
 V.- Podrán aplicarse al pago de las multas impuestas como sanción o conmutación de medidas de internamiento, los descuentos y retenciones hechos para tal efecto sobre el producto del trabajo conforme lo que dispone el presente Código, así como la garantía que hubiere exhibido en cumplimiento de la medida cautelar impuesta, en su caso, en los
 
-VI.- Si algún pago por concepto de sanción pecuniaria no se realiza dentro del plazo correspondiente o el obligado se negare sin causa justificada a cubrir el importe respectivo, el mismo se exigirá y hará efectivo por las oficinas fiscales, a través del procedimiento económico coactivo y a instancias de la Dirección de Ejecución de Medidas.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2011)</small>
+
+VI.- Si algún pago por concepto de sanción pecuniaria no se realiza dentro del plazo correspondiente o el obligado se negare sin causa justificada a cubrir el importe respectivo, el mismo se exigirá y hará efectivo por las oficinas fiscales, a través del procedimiento económico coactivo y a instancias de la autoridad administrativa competente.
 
 ###### Artículo 144.
 
@@ -1401,9 +1491,13 @@ Una vez que la resolución que imponga la sanción pecuniaria cause ejecutoria, 
 
 Si no alcanza a cubrirse la responsabilidad pecuniaria con los bienes del sujeto de la medida y de las personas que legalmente compartan la obligación, ni con el producto del trabajo del responsable, ni con la garantía que éste hubiere exhibido en cumplimiento de la medida cautelar impuesta, en su caso, aquéllos seguirán sujetos a la obligación de pagar la parte que falte, debiendo cubrirse de preferencia la reparación del daño y a prorrata entre los ofendidos, de ser el caso.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 148.
 
-Constatada la liquidación de la multa que sustituya alguna medida, así como de las sanciones pecuniarias que se hubieren impuesto, la Procuraduría General de Justicia del Estado y la Dirección de Ejecución de Medidas comunicarán esta circunstancia a la autoridad que conmutó la medida de internamiento para que ordene la libertad inmediata del sentenciado.
+Constatada la liquidación de la multa que sustituya alguna medida, así como de las sanciones pecuniarias que se hubieren impuesto, la Procuraduría General de Justicia del Estado y la autoridad administrativa competente, comunicarán esta circunstancia a la autoridad que conmutó la medida de internamiento para que ordene la libertad inmediata del sentenciado.
 
 #### Sección Quinta: Medidas Prohibitivas o Restrictivas de Conductas Habituales
 
@@ -1445,27 +1539,43 @@ La libertad asistida, consiste en imponer al acusado estricta vigilancia y super
 
 Esta medida concluye con el informe que al efecto rinda el orientador y con la aprobación de las pruebas que al efecto acredite el adolescente.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 155.
 
-El tratamiento ambulatorio consiste en un modelo de tratamiento integral, en hospitales, casas de salud o centros especializados determinados por la Dirección de Ejecución de Medidas, que permite la deshabituación o rehabilitación integral del individuo sujeto al consumo de sustancias adictivas u otras prácticas nocivas para su salud, que le dificulten o impidan desarrollarse social, familiar y laboralmente.
+El tratamiento ambulatorio consiste en un modelo de tratamiento integral, en hospitales, casas de salud o centros especializados determinados por la autoridad administrativa competente, que permite la deshabituación o rehabilitación integral del individuo sujeto al consumo de sustancias adictivas u otras prácticas nocivas para su salud, que le dificulten o impidan desarrollarse social, familiar y laboralmente.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 156.
 
-Recibida copia de la resolución ejecutoria en la que se establezca que la conducta realizada por el sujeto de la medida fue consecuencia de su adicción o abuso de bebidas alcohólicas, estupefacientes, psicotrópicos o substancias que produzcan efectos similares, la Dirección de Ejecución de Medidas lo remitirá a la institución pública o privada que determine, para que se formule y aplique el tratamiento de deshabituación o des intoxicación, según el caso y por el tiempo necesario para su rehabilitación, mismo que no podrá exceder de dos años, luego del cual podrá ordenarse su ingreso al Centro de Internamiento Especializado correspondiente, para que cumpla la medida de internamiento que se le hubiere impuesto, en su caso, computándole el tiempo de detención en el centro de ejecución del tratamiento ambulatorio.
+Recibida copia de la resolución ejecutoria en la que se establezca que la conducta realizada por el sujeto de la medida fue consecuencia de su adicción o abuso de bebidas alcohólicas, estupefacientes, psicotrópicos o substancias que produzcan efectos similares, la autoridad administrativa competente lo remitirá a la institución pública o privada que determine, para que se formule y aplique el tratamiento de deshabituación o desintoxicación, según el caso y por el tiempo necesario para su rehabilitación, mismo internamiento que se le hubiere impuesto, en su caso, computándole el tiempo de detención en el centro de ejecución del tratamiento ambulatorio.
 
-La persona que se considere afectada por la naturaleza y duración del tratamiento de deshabituación o desintoxicación o por no haberse observado las disposiciones aplicables, podrá solicitar la reconsideración de la medida ante el Secretario de Gobernación, quien a través del área competente, remitirá la petición al Juez para que realice lo que sea procedente.
+La persona que se considere afectada por la naturaleza y duración del tratamiento de deshabituación o desintoxicación o por no haberse observado las disposiciones aplicables, podrá solicitar la reconsideración de la medida ante la autoridad administrativa competente, quien a través del área correspondiente, remitirá la petición al Juez para que realice lo que sea procedente.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 157.
 
-La institución a la que haya sido asignado el sujeto de la medida, deberá enviar a la Dirección de Ejecución de Medidas, el programa de tratamiento que aplicará, así como informar quincenalmente y de manera detallada, su desarrollo, avances y, en su caso, culminación, pudiendo en cualquier momento, comunicar la ausencia o faltas disciplinarias del sujeto, así como las dificultades originadas por parte del interno o de quien legalmente se haga cargo de éste. Si éste se evade o ausenta injustificadamente, durante un tiempo que impida la continuación del tratamiento o el logro de sus objetivos, la Dirección de Ejecución de Medidas lo hará del conocimiento de la Procuraduría General de Justicia del Estado, para que proceda conforme a sus atribuciones.
+La institución a la que haya sido asignado el sujeto de la medida, deberá enviar a la autoridad administrativa competente el programa de tratamiento que aplicará, así como informar quincenalmente y de manera detallada, su desarrollo, avances y, en su caso, culminación, pudiendo en cualquier momento, comunicar la ausencia o faltas disciplinarias del sujeto, así como las dificultades originadas por parte del interno o de quien legalmente se haga cargo de éste. Si éste se evade o ausenta injustificadamente, durante un tiempo que impida la continuación del tratamiento o el logro de sus objetivos, la autoridad administrativa competente lo hará del conocimiento de la Procuraduría General de Justicia del Estado, para que proceda conforme a sus atribuciones.
 
 ###### Artículo 158.
 
 Sólo el Juez podrá resolver sobre la modificación, suspensión, revocación o conclusión de la libertad asistida o del tratamiento ambulatorio de las personas dictaminadas o declaradas enfermas o adictas, conforme a la evolución de su enfermedad o adicción, tomando como base los dictámenes de los médicos legista s y los informes mensuales rendidos por la institución responsable del tratamiento, en su caso, y oyendo al Ministerio Público y al defensor del acusado. Si considera que dichos informes no son suficientes, ordenará la revisión del programa de tratamiento y la elaboración del dictamen pericial correspondiente.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 159.
 
-Si el tratamiento se modifica provisionalmente o se suspende, deberá establecerse el tiempo que durará la interrupción y las obligaciones que deberán cumplir el sujeto de la medida y las personas que legalmente se hagan cargo de éste. Pero si transcurrido el tiempo señalado, el sujeto no se presenta a la continuación del programa de tratamiento, la Dirección de Ejecución de Medidas hará del conocimiento de la Procuraduría General de Justicia del Estado los hechos, para que se proceda legalmente.
+Si el tratamiento se modifica provisionalmente o se suspende, deberá establecerse el tiempo que durará la interrupción y las obligaciones que deberán cumplir el sujeto de la medida y las personas que legalmente se hagan cargo de éste. Pero si transcurrido el tiempo señalado, el sujeto no se presenta a la continuación del programa de tratamiento, la autoridad administrativa competente hará del conocimiento del Juez de Ejecución y de la Procuraduría General de Justicia del Estado los hechos, para que se proceda legalmente.
 
 #### Sección Octava: Internamiento
 
@@ -1525,7 +1635,7 @@ En la resolución del Juez que ponga fin al procedimiento y determine que los pa
 
 I.- La prevención o amonestación a los padres, a los tutores o a las personas de quienes dependa o que de hecho sean responsables del acusado;
 
-II.- La atribución de su custodia provisional o cuidado personal al pariente más cercano que se encuentre en condiciones de ejercerIos;
+II.- La atribución de su custodia provisional o cuidado personal al pariente más cercano que se encuentre en condiciones de ejercerlos;
 
 III.- La colocación en un hogar sustituto por el tiempo que sea necesario para que pueda reintegrarse al seno familiar o se atribuya su custodia permanente a otra persona o institución especializada;
 
@@ -1547,9 +1657,13 @@ III.- Asistencia a un programa de tratamiento psicológico o psiquiátrico; y
 
 IV.- Cualquier otra actividad que contribuya a garantizar un ambiente adecuado para el desarrollo del adolescente o menor de doce años.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 166.
 
-La autoridad que decretó la providencia de protección, en cualquier tiempo, de oficio o a petición de parte, podrá modificarla cuando por las circunstancias se requiera. Para este efecto, podrá solicitar previamente al Consejo General lnterdisciplinario informe de los resultados del seguimiento realizado al menor y a su familia.
+La autoridad que decretó la providencia de protección, en cualquier tiempo, de oficio o a petición de parte, podrá modificarla cuando por las circunstancias se requiera. Para este efecto, podrá solicitar previamente al Consejo Técnico Interdisciplinario informe de los resultados del seguimiento realizado al menor y a su familia.
 
 ###### Artículo 167.
 
@@ -1643,27 +1757,37 @@ Durante el desarrollo de la conciliación, el adolescente deberá ser asistido p
 
 #### Sección Primera: Disposiciones Generales
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 181.
 
-El Consejo General lnterdisciplinario conocerá de las conductas tipificadas como delitos por la legislación del Estado, en las que intervengan como autores o partícipes los menores de doce años, con la finalidad de valorarlas y recomendar al DIF las medidas y providencias de rehabilitación, asistencia social y protección especial que en su caso requieran, para procurar su formación integral.
+El Consejo Técnico Interdisciplinario conocerá de las conductas tipificadas como delitos por la legislación del Estado, en las que intervengan como autores o partícipes los menores de doce años, con la finalidad de valorarlas y recomendar al DIF las medidas y providencias de rehabilitación, asistencia social y protección especial que en su caso requieran, para procurar su formación integral.
 
 ###### Artículo 182.
 
 Los gobiernos municipales conocerán, en el ámbito de su competencia, de las faltas o contravenciones administrativas en que intervengan como autores o partícipes los menores de dieciocho años, procederán a valorarlos y resolverán lo conducente, en términos de sus propias disposiciones reglamentarias y sin que proceda la imposición de medida correctiva alguna, excepto la de amonestación y sólo tratándose de mayores de catorce años de edad.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 183.
 
-En el desarrollo de su actuación, el Consejo General Interdisciplinario obrará de acuerdo con el procedimiento señalado en este Capítulo y recomendará las medidas, providencias o tratamiento que considere pertinentes y procedan legalmente, pudiendo sugerir si fuere el caso, que se promueva querella para que se declare la situación de abandono o peligro del menor, con el fin de brindarle la protección debida.
+En el desarrollo de su actuación, el Consejo Técnico Interdisciplinario obrará de acuerdo con el procedimiento señalado en este Capítulo y recomendará las medidas, providencias o tratamiento que considere pertinentes y procedan legalmente, pudiendo sugerir si fuere el caso, que se promueva querella para que se declare la situación de abandono o peligro del menor, con el fin de brindarle la protección debida.
 
 ###### Artículo 184.
 
 Cuando se trate de menores que tengan limitaciones físicas, mentales o sensoriales, el DIF procurará que las medidas se cumplan en establecimientos especializados que les permitan remediar o mejorar su condición.
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 2010)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 185.
 
-Las actuaciones ante el Consejo General Interdisciplinario y demás instancias estatales y municipales conforme a este Capítulo, son gratuitas y no requerirán la intervención de apoderado, sin perjuicio de que si el interesado quisiere hacerse representar, lo haga mediante defensor particular o público.
+Las actuaciones ante el Consejo Técnico Interdisciplinario y demás instancias estatales y municipales conforme a este Capítulo, son gratuitas y no requerirán la intervención de apoderado, sin perjuicio de que si el interesado quisiere hacerse representar, lo haga mediante defensor particular o social.
 
 ###### Artículo 186.
 
@@ -1671,35 +1795,63 @@ En el procedimiento administrativo a que se refiere este Capítulo, serán admis
 
 #### Sección Segunda: Procedimiento
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 187.
 
-Corresponde al Consejo General Interdisciplinario realizar un estudio médico psiquiátrico y psicosocial del menor de doce años de edad a quien se le atribuya la realización de una conducta tipificada como delito por la legislación del Estado, valorado conforme a las reglas de la sana crítica, así como recomendar las medidas de rehabilitación, asistencia social y protección especial que se requieran, de acuerdo a la gravedad de las circunstancias o por las situaciones de abandono o de peligro que pudiera enfrentar el menor. Para este propósito, actuará de oficio o a petición de cualquier persona que denuncie la conducta realizada o la posible existencia de una situación de abandono o de peligro.
+Corresponde al Consejo Técnico Interdisciplinario realizar un estudio médico psiquiátrico y psicosocial del menor de doce años de edad a quien se le atribuya la realización de una conducta tipificada como delito por la legislación del Estado, valorarlo conforme a las reglas de la sana crítica, así como recomendar las medidas de rehabilitación, asistencia social y protección especial que se requieran, de acuerdo a la gravedad de las circunstancias o por las situaciones de abandono o de peligro que pudiera enfrentar el menor. Para este propósito, actuará de oficio o a petición de cualquier persona que denuncie la conducta realizada o la posible existencia de una situación de abandono o de peligro.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 188.
 
-El Consejo General Interdisciplinario, de manera inmediata al conocimiento del hecho, abrirá la investigación por medio de auto en el que ordenará la práctica de todas las pruebas o diligencias tendientes a establecer las circunstancias relativas a la conducta del menor y que puedan configurar la situación de abandono o peligro del menor, mismas que deberán ejecutarse dentro de un plazo máximo de veinte días.
+El Consejo Técnico Interdisciplinario, de manera inmediata al conocimiento del hecho, abrirá la investigación por medio de auto en el que ordenará la práctica de todas las pruebas o diligencias tendientes a establecer las circunstancias relativas a la conducta del menor y que puedan configurar la situación de abandono o peligro del menor, mismas que deberán ejecutarse dentro de un plazo máximo de veinte días.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 189.
 
-En el auto de apertura de la investigación, se ordenará la citación de quienes, de acuerdo a la ley, ejerzan la patria potestad, tutela, custodia o representación legal del menor, o de quienes de hecho lo tuvieren a su cargo, si se conociere su identidad y residencia. En el mismo auto, el Consejo General Interdisciplinario podrá recomendar al DIF que adopte, de manera provisional, las medidas a que se refiere el artículo 164 de este Código.
+En el auto de apertura de la investigación, se ordenará la citación de quienes, de acuerdo a la ley, ejerzan la patria potestad, tutela, custodia o representación legal del menor, o de quienes de hecho lo tuvieren a su cargo, si se conociere su identidad y residencia. En el mismo auto, el Consejo Técnico Interdisciplinario podrá recomendar al DIF que adopte, de manera provisional, las medidas a que se refieren el artículo 164 de este Código.
 
 La citación se surtirá mediante notificación personal, dentro de los cinco días siguientes a la fecha del auto de apertura de la investigación, la cual se regirá por las disposiciones de este Código en materia de citaciones y notificaciones.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 190.
 
-El Consejo General Interdisciplinario, antes de pronunciar sus conclusiones y recomendaciones, oirá a los profesionales que hacen parte de su equipo técnico y demás peritos o especialistas que estime necesario, y entrevistará al menor susceptible de rehabilitación, asistencia social y protección especial, con el objeto de obtener la mayor certeza sobre las circunstancias que lo rodean y la medida, providencia o tratamiento más adecuado para procurar su formación integral.
+El Consejo Técnico Interdisciplinario, antes de pronunciar sus conclusiones y Recomendaciones, oirá a los profesionales que hacen parte de su equipo técnico y demás peritos o especialistas que estime necesario, y entrevistará al menor susceptible de rehabilitación, asistencia social y protección especial, con el objeto de obtener la mayor certeza sobre las circunstancias que lo rodean y la medida, providencia o tratamiento más adecuado para procurar su formación integral.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 191.
 
-Vencido el término de la investigación y practicadas todas las pruebas y diligencias ordenadas sin que ninguno de los citados en el auto de apertura se hiciere presente, el Consejo General Interdisciplinario, mediante resolución fundada y motivada, recomendará al DIF las medidas de rehabilitación y asistencia social que procedan y que promueva la declaración de situación de abandono o de peligro del menor, en términos de la legislación aplicable.
+Vencido el término de la investigación y practicadas todas las pruebas y diligencias ordenadas sin que ninguno de los citados en el auto de apertura se hiciere presente, el Consejo Técnico Interdisciplinario, mediante resolución fundada y motivada, recomendará al DIF las medidas de rehabilitación y asistencia social que procedan y que promueva la declaración de situación de abandono o de peligro del menor, en términos de la legislación aplicable.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 192.
 
-Si dentro del término de la investigación, las personas citadas en el auto de apertura se hacen presentes, el Consejo General Interdisciplinario, mediante auto, podrá ampliado hasta por treinta días más para decretar y practicar las pruebas pedidas por los comparecientes y las que de oficio estimare pertinentes. Vencido este término, el Consejo General Interdisciplinario deberá pronunciar sus conclusiones y recomendaciones dentro de los diez días siguientes.
+Si dentro del término de la investigación, las personas citadas en el auto de apertura se hacen Presentes, el Consejo Técnico Interdisciplinario, mediante auto, podrá ampliarlo hasta por treinta días más para decretar y practicar las pruebas pedidas por los comparecientes y las que de oficio estimare pertinentes. Vencido este término, el Consejo Técnico Interdisciplinario deberá pronunciar sus conclusiones y recomendaciones dentro de los diez días siguientes.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 193.
 
-Cuando el Consejo General Interdisciplinario conozca y establezca sumariamente que un menor de dieciocho años, participante en conductas tipificadas como delito en la legislación del Estado, se encuentra en situación de grave peligro, procederá a su rescate a efecto de prestarle la protección necesaria, y si las circunstancias así lo ameritan, podrá solicitar al Juez que ordene, mediante auto fundado y motivado, el registro del sitio donde el menor se hallare, para lo cual podrá solicitarse el apoyo de la fuerza pública, la cual no podrá negarse.
+Cuando el Consejo Técnico Interdisciplinario conozca y establezca sumariamente que un menor de dieciocho años, participante en conductas tipificadas como delito en la legislación del Estado, se encuentra en situación de grave peligro, procederá a su rescate a efecto de prestarle la protección necesaria, y si las circunstancias así lo ameritan, podrá solicitar al Juez que ordene, mediante auto fundado y motivado, el registro del sitio donde el menor se hallare, para lo cual podrá solicitarse el apoyo de la fuerza pública, la cual no podrá negarse.
 
 Para los efectos de este artículo se entiende por peligro grave, toda situación en la que se encuentre comprometida la vida o la integridad personal del menor.
 
@@ -1727,9 +1879,13 @@ d) Los demás hechos que el Juez considere relevantes; y
 
 e) Las medidas provisionales de protección adoptadas.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 195.
 
-La resolución que contenga las conclusiones y recomendaciones derivadas de la valoración practicada por el Consejo General Interdisciplinario, deberá ser notificada personalmente a quienes hubieren comparecido. En la diligencia de notificación se indicarán los recursos que pueden interponerse contra la resolución del Consejo General Interdisciplinario y la aplicación de las medidas recomendadas.
+La resolución que contenga las conclusiones y recomendaciones derivadas de la valoración practicada por el Consejo Técnico Interdisciplinario, deberá ser notificada personalmente a quienes hubieren comparecido. En la diligencia de notificación se indicarán los recursos que pueden interponerse contra la resolución del Consejo Técnico Interdisciplinario y la aplicación de las medidas recomendadas.
 
 ###### Artículo 196.
 
@@ -1737,53 +1893,239 @@ Si como resultado de la investigación se estableciere que el menor ha sido suje
 
 # LIBRO TERCERO. EJECUCIÓN DE MEDIDAS
 
-### CAPÍTULO I. DE LAS REGLAS GENERALES
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO CON EL CAPITULO QUE LO INTEGRA, P.O. 4 DE FEBRERO DE 2011)</small>
+
+## TÍTULO PRIMERO. FUNCIÓN JURISDICCIONAL
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO [N. DE E. ANTES CAPITULO I], P.O. 4 DE FEBRERO DE 2011)</small>
+
+### CAPÍTULO ÚNICO
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO Y REUBICADO, P.O. 4 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 197.
 
-Las disposiciones y medidas establecidas en el presente Libro, tienen como finalidad:
+El objetivo de la etapa de ejecución de las medidas es procurar que el adolescente alcance su desarrollo integral personal, así como el desarrollo pleno de sus capacidades y el sentido de responsabilidad.
 
-I.- Regular la aplicación de las medidas que en el ámbito de competencia del Ejecutivo del Estado prevé el presente Código;
+Para lograr los objetivos de la ejecución de las medidas se promoverá:
 
-II.- Normar la organización, funcionamiento y administración de los Centros de internamiento, Especializado sobre la base del trabajo, la capacitación para el mismo y la educación o elevación del nivel cultural de los internos;
+I.- Satisfacer las necesidades básicas del adolescente;
 
-III.- Asegurar que los beneficios de suspensión y sustitución de medidas, regulados en este Código, se sujeten al principio de debido proceso legal; y
+II.- Posibilitar su desarrollo personal;
 
-IV.- Establecer, observar y hacer observar las medidas que en materia de custodia y seguridad deban de aplicarse a los internos en términos del presente Código, así como las destinadas a los liberados de manera anticipada o sujetos a tratamientos preliberacionales.
+III.- Reforzar su sentimiento de dignidad y autoestima;
+
+IV.- Incorporar activamente al adolescente en la elaboración y ejecución de su programa individual de ejecución;
+
+V.- Minimizar los efectos negativos que la medida pudiera tener en su vida futura;
+
+VI.- Fomentar, cuando sea posible y conveniente, los vínculos familiares y sociales que contribuyan a su desarrollo personal; y
+
+VII.- Promover los contactos abiertos entre el adolescente y la comunidad.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO Y REUBICADO, P.O. 4 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 198.
 
-El régimen de internamiento preventivo se sujetará al principio de presunción de inocencia, por lo que las disposiciones de este Libro serán aplicables en lo que no contradiga dicho principio o resulte favorable y útil para asegurar o resguardar la persona de los internados preventivamente.
+En la ejecución de medidas deberán observarse los principios siguientes:
+
+LEGALIDAD: Las medidas sólo pueden ejecutarse en virtud de una sentencia firme, dentro de un procedimiento judicial debido y en la forma establecida por las leyes.
+
+HUMANIDAD: Todas las actividades llevadas a cabo en la ejecución de medidas deben de efectuarse de modo que se respeten los derechos fundamentales de los adolescentes sentenciados y no se les puede tratar en forma cruel, inhumana o degradante, por ser parte de los principios de protección integral e interés superior de la niñez.
+
+DEBIDO PROCESO: Se debe garantizar la observancia de las formalidades esenciales del procedimiento.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO Y REUBICADO, P.O. 4 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 199.
 
-Para efectos de este Libro, la Secretaría de Gobernación tendrá las siguientes atribuciones:
+El Juez de Ejecución, es la autoridad judicial especializada, responsable del control y supervisión de la aplicación y ejecución de las medidas; debe por tanto resolver los incidentes que se presenten durante esta fase del procedimiento, así como vigilar y garantizar el cumplimiento de los objetivos fijados por esta Ley.
 
-I.- De conformidad con los lineamientos que establezca el Titular del Ejecutivo, proveer lo conducente para la ejecución de las medidas que establece este Código, coordinar acciones en los ámbitos de su competencia con el Gobierno Federal y coadyuvar con las demás instancias competentes, en materia de Justicia para Adolescentes;
+En los términos de las leyes aplicables, incurre en responsabilidad la autoridad administrativa que no cumpla las órdenes del Juez de Ejecución de medidas para adolescentes.
 
-II.- Coordinarse con las demás instancias competentes, para determinar conforme al presente ordenamiento y previa valoración, el lugar en el que los adolescentes deban cumplir las medidas de internamiento que les hayan sido impuestas o recibir el tratamiento respectivo, en su caso, vigilando en ambos casos su debida ejecución;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
 
-III.- Analizar y estudiar los beneficios que este Código concede a las personas internadas y los expedientes administrativos de traslado y de suspensión, sustitución o extinción de medidas; cuidar que se tramiten y cumplan con toda oportunidad; denegar o validar los dictámenes o acuerdos respectivos, y coordinar las acciones relativas a su resolución y otorgamiento, en su caso;
-
-IV.- Llevar un registro de las medidas impuestas conforme a este Código, así como de los beneficios y sustitutivos que se decreten, para procurar su debido cumplimiento;
-
-V.- Coadyuvar con el Consejo General Interdisciplinario en el ejercicio y cumplimiento de sus funciones, supervisar y evaluar su funcionamiento, colaborar en la práctica de los estudios a su cargo y emitir opinión respecto de sus dictámenes;
-
-VI.- Coordinarse con las demás instancias competentes, con el objeto de determinar los lineamientos para procurar y fomentar el establecimiento, conservación y fortalecimiento de las relaciones de los adolescentes internados con el exterior; y
-
-VII.- Las demás que las leyes, reglamentos, decretos, acuerdos, convenios y otros instrumentos le atribuyan directamente, así como aquéllas que le asignen sus superiores jerárquicos.
+> <small>(REFORMADO Y REUBICADO, P.O. 4 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 200.
 
-Corresponden a la Secretaría de Seguridad Pública, en lo que se refiere a este Libro, las siguientes atribuciones:
+Son atribuciones del Juez de Ejecución de medidas, las siguientes:
+
+I.- Vigilar, en todo momento, el respeto, la integridad, la dignidad y el estricto cumplimiento de los derechos de los adolescentes sujetos a medidas, especialmente de los privados de la libertad, de conformidad con la Constitución Política de los Estados Unidos Mexicanos y los Tratados Internacionales aprobados, así como leyes y ordenamientos aplicables;
+
+II.- Controlar que la ejecución de toda medida se realice de conformidad con la sentencia definitiva que la impuso, garantizando la legalidad y demás derechos que asisten al adolescente durante esta etapa;
+
+III.- Aprobar y vigilar los planes individualizados de ejecución de las medidas;
+
+IV.- Revisar las medidas a solicitud de parte o de oficio, por lo menos una vez cada tres meses para modificarlas, sustituirlas por otras o cesarlas, cuando no cumplan con los objetivos para los que fueron impuestas o por ser contrarias al proceso de reinserción social del adolescente;
+
+V.- Acordar lo procedente con relación a las peticiones o quejas que planteen los adolescentes sancionados sobre el tratamiento o cualquiera otra circunstancia que afecte sus derechos fundamentales;
+
+VI.- Otorgar o negar cualquier beneficio relacionado con las medidas impuestas en sentencia definitiva;
+
+VII.- Ordenar la cesación de la medida una vez transcurrido el plazo fijado por la sentencia;
+
+VIII.- Ordenar a la autoridad responsable el cumplimiento de los programas establecidos en el plan individualizado de ejecución;
+
+IX.- Acudir a los centros de internamiento por lo menos una vez al mes;
+
+X.- Ordenar después de transcurridos cinco años posteriores al cumplimiento de la medida, la destrucción de todos los registros vinculados con el expediente legal;
+
+XI.- Garantizar que los adolescentes sujetos a internamiento definitivo no sean trasladados de un Centro de Internamiento Especializado para Adolescentes a otro, salvo lo dispuesto por resolución judicial; y
+
+XII.- Las demás que determinen las leyes aplicables.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO Y REUBICADO, P.O. 4 DE FEBRERO DE 2011)</small>
+
+###### Artículo 201.
+
+Para la ejecución de las medidas definitivas que ameriten seguimiento, deberá realizarse un plan individualizado de ejecución que será elaborado por la instancia administrativa encargada de la ejecución de medidas para adolescentes, con la activa participación del adolescente, su defensor y sus padres o tutores.
+
+Este plan comprenderá sus aptitudes y habilidades personales, circunstancias familiares, socioculturales y de género, de modo que establezca objetivos o metas reales para la ejecución de la medida. Deberá estar formulado a más tardar dentro de los quince días siguientes una vez requerido por el Juez de Ejecución.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO Y REUBICADO, P.O. 4 DE FEBRERO DE 2011)</small>
+
+###### Artículo 202.
+
+El Juez de Ejecución aprobará el contenido del plan individualizado de ejecución, sus requisitos y consecuencias, asegurándose de que no limiten derechos o aumenten obligaciones que excedan lo estrictamente determinado en la sentencia. En los casos en que no ocurriera así, ordenará a la instancia administrativa encargada de la ejecución de medidas para adolescentes, las modificaciones a las que haya lugar, las cuales deben quedar subsanadas en un término no mayor a cinco días.
+
+La inobservancia de estas obligaciones por parte de los servidores públicos competentes, será comunicado por el Juez al superior administrativo correspondiente, sin perjuicio de las medidas de apremio que el Juez determine.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO Y REUBICADO, P.O. 4 DE FEBRERO DE 2011)</small>
+
+###### Artículo 203.
+
+El plan individualizado de ejecución de medida, debe contener los requisitos siguientes:
+
+I.- Medida impuesta;
+
+II.- Características particulares del adolescente;
+
+III.- Objetivos o metas;
+
+IV.- Forma y condiciones en que se ejecutarán;
+
+V.- Indicación si la aplicación de la medida estará a cargo del centro de internamiento o institución pública o privada;
+
+VI.- Programas en que se incluirá al adolescente, considerando de forma enunciativa a las actividades educativas, deportivas, culturales, laborales o formativas o de asistencia especial;
+
+VII.- Participación y obligaciones de los representantes legales del adolescente;
+
+VIII.- Periodos de tiempo en que deberá ser revisado para constatar su cumplimiento; y
+
+IX.- Criterios para considerar el cumplimiento o incumplimiento de las medidas y con ello verificar la posibilidad de ejecutar las modificaciones, de acuerdo a la resolución judicial ejecutoriada.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO Y REUBICADO, P.O. 4 DE FEBRERO DE 2011)</small>
+
+###### Artículo 204.
+
+El procedimiento jurisdiccional de ejecución de medidas definitivas, se llevará a cabo en los términos siguientes:
+
+I.- Si la sentencia declaró responsable al adolescente y ésta ha causado ejecutoria, el Juez Especializado que la emitió deberá notificarla de inmediato al Juez de Ejecución, así como a la autoridad administrativa de Ejecución de Medidas, remitiendo al primero el expediente original o el testimonio correspondiente, a fin de iniciar el procedimiento de ejecución de la medida impuesta;
+
+II.- El Juez de Ejecución, hará constar, en acta circunstanciada, la fecha, hora y lugar en que se inicie el cumplimiento de la medida. En ese momento le informará personalmente al adolescente los derechos y garantías que le asisten durante dicho cumplimiento, así como sus obligaciones;
+
+III.- Una vez notificada la medida, la autoridad administrativa competente de Ejecución de Medidas elaborará un Plan Individualizado de Ejecución, en un plazo de diez días siguientes;
+
+IV.- El Juez de Ejecución, una vez recibido el Plan Individualizado, aprobará el contenido del mismo, sus objetivos y consecuencias, asegurándose de que no limiten derechos o añadan obligaciones que excedan lo estrictamente determinado en la sentencia. En caso contrario, el Juez de Ejecución ordenará a la autoridad administrativa de Ejecución las modificaciones a las que haya lugar, contando para ello con un término no mayor a cinco días;
+
+V.- La inobservancia de estas obligaciones por parte de los servidores públicos competentes, será comunicada por el Juez al superior administrativo correspondiente, sin perjuicio de las sanciones administrativas a las que se haga acreedor;
+
+VI.- El Juez citará al adolescente, a su padre, madre, o a ambos, o su representante, a su Defensor y al Ministerio Público, a una audiencia en la que comunicará el cómputo de las medidas, si es el caso, descontará de ésta el internamiento preventivo cumplido por el sentenciado, y determinará con precisión la fecha en que queden cumplidas la medidas; asimismo, la forma en que serán ejecutadas éstas, conforme al Plan Individual de Ejecución;
+
+VII.- El Titular de la autoridad administrativa correspondiente deberá informar al Juez de Ejecución cada tres meses, sobre los avances u obstáculos para el cumplimiento del plan, así como el entorno familiar y social en que el adolescente se desarrolla. La inobservancia de estas obligaciones por parte de los servidores públicos competentes, será comunicado por el Juez al superior administrativo correspondiente; y
+
+VIII.- Lo relativo a la libertad anticipada, modificación, conmutación, sustitución y extinción de las medidas y aquello que el Juez estime necesario, serán resueltos en audiencia oral, escuchando a las partes, quienes podrán ofrecer las pruebas que estimen conducentes; el Juez decidirá en esa misma audiencia y contra esa resolución no procede recurso alguno.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO Y REUBICADO, P.O. 4 DE FEBRERO DE 2011)</small>
+
+###### Artículo 205.
+
+Son derechos del adolescente en la etapa de ejecución, los siguientes:
+
+I.- Estar separado de los adultos;
+
+II.- Ser alojados en lugares exclusivos de acuerdo a su edad y sexo;
+
+III.- Estar separados del internamiento preventivo al definitivo;
+
+IV.- Recibir información de la normatividad interna de la institución a la que asiste o en donde se encuentre internado;
+
+V.- Conocer del Plan Individualizado de Ejecución;
+
+VI.- Solicitar su internamiento en un centro de internamiento cercano a su domicilio;
+
+VII.- Recibir visitas;
+
+VIII.- Recibir educación básica obligatoria e instrucción técnica y formación práctica sobre algún oficio;
+
+IX.- Recibir servicios para el cuidado de su salud;
+
+X.- Recibir terapias educación especial;
+
+XI.- Realizar actividades recreativas o artísticas, culturales, actividades deportivas y de esparcimiento al aire libre;
+
+XII.- Recibir y conservar material cultural y de capacitación académica o técnica;
+
+XIII.- Conocer de los acontecimientos mediante lectura de diarios u otras publicaciones, emisiones de radio o televisión que no perjudiquen su sano desarrollo;
+
+XIV.- Recibir una alimentación sana;
+
+XV.- Tener un trato digno mediante una convivencia segura y ordenada;
+
+XVI.- Recibir remuneración por su trabajo; y
+
+XVII.- Formular quejas y recursos sobre cualquier decisión o acción que afecte sus derechos.
+
+Además de aquéllos que le reconozcan las leyes con excepción de los que le fueron restringidos en sentencia.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO CON LOS CAPITULOS Y SECCIONES QUE LO INTEGRAN, P.O. 4 DE FEBRERO DE 2011)</small>
+
+## TÍTULO SEGUNDO. FUNCIÓN ADMINISTRATIVA
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2011)</small>
+
+### CAPÍTULO I. DISPOSICIONES GENERALES
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO Y REUBICADO, P.O. 4 DE FEBRERO DE 2011)</small>
+
+###### Artículo 206.
+
+Corresponde a la Secretaría de Seguridad Pública, en lo que se refiere a este Libro, las siguientes atribuciones:
 
 I.- Organizar, supervisar y evaluar el funcionamiento de los Centros de Internamiento Especializado, así como ejercer la vigilancia y el control de los internos, de conformidad con las disposiciones del presente Código y los lineamientos que establezca el Gobernador del Estado, pudiendo proponer a éste los programas y acciones que estime necesarios;
 
-II.- Dirigir, controlar y promover la adaptación de los internos para su integración social, en términos de las disposiciones y políticas aplicables;
+II.- Dirigir, controlar promover la adaptación de los internos para su integración social, en términos de las disposiciones y políticas aplicables;
 
 III.- Establecer, coordinar y supervisar las políticas de trabajo, educación, capacitación, administración y seguridad en los Centros de Internamiento Especializados y la relación con las instancias correspondientes;
 
-IV.- Celebrar convenios, contratos y acuerdos en materia de trabajo, educación, capacitación, adiestramiento y otros fines relacionados con la rehabilitación de los internos, que se dirijan tanto al personal de la propia dependencia, como de la población interna;
+IV.- Celebrar convenios, contratos y acuerdos en materia de trabajo, educación, capacitación, adiestramiento y otros fines relacionados con la reinserción de los internos, que se dirijan tanto al personal de la propia dependencia, como de la población interna;
 
 V.- Coordinarse en materia de salud, con autoridades de ese sector, públicas y privadas, para la atención médica, la prestación de servicios hospitalarios, la capacitación del personal médico adscrito a los Centros de Internamiento Especializados, la prevención y control de enfermedades, la promoción de la salud, el control sanitario y ambiental y la salud reproductiva;
 
@@ -1791,89 +2133,231 @@ VI.- Establecer los criterios de selección, capacitación, evaluación y promoc
 
 VII.- Las demás que las leyes, reglamentos, decretos, acuerdos, convenios y otros instrumentos le atribuyan directamente, así como aquéllas que le asignen sus superiores jerárquicos.
 
-###### Artículo 201.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
 
-El ejercicio de las atribuciones a que se refiere el artículo anterior, se realizará por las áreas correspondientes en los términos y condiciones que determinen los Titulares de las Secretarías, conforme a lo dispuesto por los ordenamientos y convenios aplicables, salvo las que éstos deban ejercer directamente por disposición legal expresa y sin perjuicio de que intervengan de igual manera en aquellos asuntos que estimen convenientes.
-
-Las Secretarías de Gobernación y de Seguridad Pública, a través de las áreas y servidores competentes, deberán proporcionar la colaboración y el apoyo necesario que les sean solicitados por los agentes del Ministerio Público, la Procuraduría del Ciudadano y los visitadores de la Comisión Nacional de Derechos Humanos o de la del Estado de Puebla, para el desempeño de sus funciones en materia de Justicia para Adolescentes.
-
-###### Artículo 202.
-
-La ejecución de las medidas debe desarrollarse con sujeción a las disposiciones y principios aplicables, por lo que sin importar la condición legal de los internos, su estancia deberá ser en condiciones de estricto respeto a los derechos humanos, se les darán el trato y tratamiento que correspondan legalmente y en todo caso se respetarán tanto su dignidad personal como sus derechos e intereses jurídicos no afectados por resolución judicial, sin permitirse distinción, restricción o vejación alguna que impida o anule el reconocimiento o ejercicio, igual y equitativo, de tales derechos e intereses, por razón de idioma, nacionalidad, raza u origen étnico, género, orientación sexual, edad, discapacidad, estado civil, profesión, opiniones políticas, creencias religiosas, condición social o económica, estado de salud o cualesquiera otra circunstancia de naturaleza análoga.
-
-###### Artículo 203.
-
-El Estado proveerá lo conducente en la ejecución de las consecuencias jurídicas de las conductas realizadas por adolescentes y tipificadas como delitos por la legislación del Estado y de los sustitutivos de aquéllas, conforme a los siguientes principios:
-
-I.- Los Centros de Internamiento Especializados y las áreas responsables de las medidas distintas del internamiento, contarán con la infraestructura, los espacios y el personal necesarios para hacer posible el cumplimiento de los objetivos de este ordenamiento;
-
-II.- Los adolescentes, en los casos y condiciones que establece este Código, podrán cumplir las medidas de internamiento que les sean impuestas en los Centros de Internamiento más cercanos a su domicilio, en su caso, a fin de facilitar su reintegración a la comunidad;
-
-III.- Se prohíbe el maltrato físico, la aplicación automática de medidas disciplinarias, la imposición de condiciones humillantes y todo procedimiento vejatorio de los internados;
-
-IV.- Los traslados de internos, se realizarán respetando su dignidad y derechos humanos, así como la seguridad de la conducción, debiendo en todo caso evitar molestias o padecimientos innecesarios a la persona trasladada;
-
-V.- Toda persona que se encuentre cumpliendo la ejecución de alguna medida impuesta conforme a este Código, podrá ejercer sus derechos fundamentales y específicos, por sí o a través de sus padres, tutores o representantes legales, salvo que sean restringidos constitucionalmente, fuesen afectados por resolución judicial o resultaren incompatibles con el objeto o el cumplimiento de la medida impuesta;
-
-VI.- Los servidores públicos que participen en cualquier procedimiento de ejecución de las medidas que prevé este ordenamiento, deben mantener un trato adecuado y relaciones de estricto respeto con los internos; y
-
-VII.- En la interpretación y aplicación del presente Libro y sus disposiciones reglamentarias, se estará a lo más favorable para los internos o personas sujetas a alguna otra medida.
-
-###### Artículo 204.
-
-Una vez que la resolución del Juez cause ejecutoria y se remita copia certificada de la misma al Ejecutivo del Estado, poniendo a su disposición a la persona sujeta de la medida de internamiento impuesta, ésta será internada en alguno de los Centros destinados para tal efecto, correspondiendo a la Dirección de Ejecución de Medidas ordenar el cumplimiento de la resolución, practicar el cómputo de tiempo respectivo, así como designar el Centro de Internamiento Especializado donde habrá de cumplir la medida, el cual estará bajo la supervisión y vigilancia de la Secretaría de Seguridad Pública, a través del área competente, para lo cual deberá tomar en cuenta:
-
-I.- El estudio integral que previamente se realice al sujeto de la medida, acerca de su personalidad, adaptabilidad social y capacidad infractora, a fin de precisar su tratamiento en internación;
-
-II.- Las circunstancias en que se cometió la conducta tipificada como delito por las leyes;
-
-III.- La individualización de la medida hecha por el juzgador;
-
-IV.- Las circunstancias personales de la persona sujeta de la medida, tales como su condición socioeconómica, sus usos y costumbres tratándose de internos indígenas, su edad, su situación familiar y el medio al que se reintegrará al cumplir o extinguirse la medida de internamiento;
-
-V.- La ubicación del domicilio de la persona sujeta de la medida o de su familia en primer grado; y
-
-VI.- La opinión del Consejo General Interdisciplinario.
-
-En términos de las leyes aplicables y con las atribuciones que le correspondan, el Consejo General Interdisciplinario coadyuvará con la Dirección de Ejecución de Medidas en la ejecución de las medidas que imponga la autoridad competente.
-
-###### Artículo 205.
-
-El alojamiento, observación y adaptación social de los sujetos a medida de internamiento, se sujetará a las condiciones y términos que señala este Código, sin perjuicio de que a falta de disposición expresa se apliquen las disposiciones en materia de ejecución de sanciones y Centros de Readaptación Social, en lo conducente.
-
-### CAPÍTULO II. DEL CENTRO DE INTERNAMIENTO ESPECIALIZADO PARA ADOLESCENTES
-
-###### Artículo 206.
-
-Queda prohibida la internación de adolescentes en Centros de Readaptación Social, por lo que si en alguno de estos establecimientos fuere detectado un interno que aún no tenga dicha edad, la Secretaría de Seguridad Pública, a través del área correspondiente, coadyuvará con el Juez competente, remitiéndole las constancias relativas al hecho, para que resuelva lo que en derecho proceda.
+> <small>(REFORMADO Y REUBICADO, P.O. 4 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 207.
 
-No será necesario el consentimiento de los internos ni de sus padres, tutores o representantes legales, cuando con motivo de la designación del Centro donde han de ser internados, se requiera su traslado o conducción de un Centro de Internamiento Especializado a otro, aunque podrán promover en cualquier momento ante la autoridad ejecutora y sin efectos suspensivos, que les permita internarse en el Centro más cercano a su domicilio o al de su familia en primer grado.
+El ejercicio de las atribuciones a que se refiere el artículo anterior, se realizará por las áreas correspondientes en los términos y condiciones que determine el Titular de la Secretaría, conforme a lo dispuesto por los ordenamientos y convenios aplicables, salvo las que éste deba ejercer directamente por disposición legal expresa y sin perjuicio de que intervengan de igual manera en aquellos asuntos que estimen convenientes.
 
-Sólo cuando los estudios practicados determinen un estado de alta peligrosidad del interno o cuando su permanencia pueda poner en riesgo su propia integridad o el orden y la seguridad del Centro de Internamiento Especializado o por otras circunstancias, la Secretaría de Gobernación podrá ordenar su traslado al Centro de Internamiento Especializado que considere más adecuado y negar por falta de condiciones favorables, en su caso, la promoción prevista en el párrafo anterior, en términos de este Código y de los convenios respectivos. En estos casos, la autoridad que procure el traslado o conducción deberá comunicado de inmediato al Juez competente y a las personas que estuvieren autorizadas para mantener visita.
+La Secretaría de Seguridad Pública, a través de las áreas y servidores competentes, deberán proporcionar la colaboración y brindar el apoyo necesario que les sean solicitados al Juez de Ejecución, los agentes del Ministerio Público, la Procuraduría del Ciudadano y los visitadores de la Comisión Nacional de Derechos Humanos o de la del Estado de Puebla, para el desempeño de sus funciones en materia de Justicia para Adolescentes.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO Y REUBICADO, P.O. 4 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 208.
 
-La fase ejecutiva concluirá con el cumplimiento de la medida, a la cual, atendiendo las características individuales de la persona sujeta a la misma, podrán incorporarse figuras para su modificación, suspensión o extinción anticipada, según lo prescribe el presente ordenamiento.
+La ejecución de las medidas debe desarrollarse con sujeción a las disposiciones y principios aplicables, por lo que sin importar la condición legal de los internos, su estancia deberá ser en condiciones de estricto respeto a los derechos humanos, se les darán el trato y tratamiento que correspondan legalmente y en todo caso se respetarán tanto su dignidad personal como sus derechos e intereses jurídicos no afectados por resolución judicial, sin permitirse distinción, restricción o vejación alguna que impida o anule el reconocimiento o ejercicio, igual y equitativo, de tales derechos e intereses, por razón de idioma, nacionalidad, raza u origen étnico, género, orientación sexual, edad, discapacidad, estado civil, profesión, opiniones políticas, creencias religiosas, condición social o económica, estado de salud o cualesquiera otra circunstancia de naturaleza análoga.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO Y REUBICADO, P.O. 4 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 209.
 
-El Centro de Internamiento Especializado, tiene como objetivo proporcionar educación y atención social, psicológica y médica, que permita que las personas sujetas de una medida de internamiento conforme a este Código, desempeñen un papel constructivo y productivo en la sociedad.
+El Estado proveerá lo conducente en la ejecución de las medidas provisionales o definitivas impuestas por la Autoridad Judicial por las conductas realizadas por adolescentes y tipificadas como delitos por la legislación del Estado y de los sustitutivos de aquéllas, conforme a los siguientes principios:
+
+I.- Los Centros de Internamiento Especializados y las áreas responsables de las medidas distintas del internamiento, contarán con la infraestructura, los espacios y el personal necesarios para hacer posible el cumplimiento de los objetivos de este ordenamiento;
+
+II.- Los adolescentes, en los casos y condiciones que establece este Código, podrán cumplir las medidas de internamiento que les sean impuestas en los Centros de Internamientos más cercanos a su domicilio, en su caso, a fin de facilitar su reintegración a la comunidad;
+
+III.- Se prohíbe el maltrato físico, la aplicación automática de medidas disciplinarias, la imposición de condiciones humillantes y todo procedimiento vejatorio de los internados;
+
+IV.- Los traslados de internos, se realizarán respetando su dignidad y derechos humanos, así como la seguridad de la conducción, debiendo en todo caso evitar molestias o padecimientos innecesarios a la persona trasladada; sin embargo, al cumplir los dieciocho años de edad y por razones de seguridad podrá ser trasladado a un centro de reinserción social para adultos, el cual deberá motivarse en los estudios realizados por el Consejo Técnico Interdisciplinario, previa autorización de la autoridad judicial competente.
+
+Su estancia en el centro de reinserción social para adultos, deberá de ser en estricto apego al sistema garantista al que está sujeto y al principio de interés superior de la niñez por lo que deberá de internarse en secciones separadas a las destinadas para los adultos;
+
+V.- Toda persona que se encuentre cumpliendo la ejecución de alguna medida impuesta conforme a este Código, podrá ejercer sus derechos fundamentales y específicos, por sí o a través de sus padres, tutores o representantes legales, salvo que sean restringidos constitucionalmente, fuesen afectados por resolución judicial o resultaren incompatibles con el objeto o el cumplimiento de la medida impuesta;
+
+VI.- Los internos deben recibir un trato adecuado y relaciones de estricto respeto con los servidores públicos involucrados en la ejecución de la medida; y
+
+VII.- En la interpretación y aplicación del presente Libro y sus disposiciones reglamentarias, se estará a lo más favorable para los internos o personas sujetas a alguna otra medida.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO Y REUBICADO, P.O. 4 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 210.
 
-El internamiento de una persona en un Centro de Internamiento Especializado, podrá imponerse de manera provisional o definitiva. Será provisional la detención preventiva de una persona sujeta a procedimiento, mediante internamiento cautelar aplicado en los términos de este Código, mientras que será definitivo el internamiento impuesto como medida mediante resolución judicial condenatoria que haya causado ejecutoria.
+Una vez que la resolución del Juez Especializado cause ejecutoria y se remita copia certificada de la misma al Juez de Ejecución, poniendo a su disposición a la persona sujeta de la medida de internamiento impuesta, ésta será internada en alguno de los Centros destinados para tal efecto, para el cumplimiento de la resolución, practicar el cómputo de tiempo respectivo, así como designar el Centro de Internamiento Especializado donde habrá de cumplir la medida, el cual estará bajo la supervisión y vigilancia de la Secretaría de Seguridad Pública, a través del área competente, para lo cual deberá tomar en cuenta:
 
-Las personas sujetas a internamiento cautelar permanecerán en las áreas especiales de los Centros de Internamiento Especializados, a disposición de la autoridad judicial competente, hasta el momento en que sean puestos a disposición del Ejecutivo o se ordene su libertad. Los sujetos a internamiento definitivo permanecerán a disposición del Poder Ejecutivo, en las áreas respectivas del Centro de Internamiento Especializado que designe la autoridad competente, hasta que la medida se extinga, suspenda o modifique.
+I.- El estudio integral que previamente se realice al sujeto de la medida, acerca de su personalidad, adaptabilidad social y capacidad infractora, a fin de precisar su tratamiento en internación;
 
-El internamiento en un Centro de Internamiento Especializado impuesto como medida, tendrá por objeto permitir que los sujetos de la misma reciban conforme a la ley, el tratamiento necesario para lograr técnica y progresivamente su adaptación familiar y social.
+II.- La individualización de la medida hecha por el juzgador;
+
+III.- Las circunstancias personales de la persona sujeta de la medida, tales como su condición socioeconómica, sus usos y costumbres tratándose de internos indígenas, su edad, su situación familiar y el medio al que se reintegrará al cumplir o extinguirse la medida de internamiento;
+
+IV.- La ubicación del domicilio de la persona sujeta de la medida o de su familia en primer grado; y
+
+V.- La opinión del Consejo Técnico Interdisciplinario.
+
+En términos de las leyes aplicables y con las atribuciones que le correspondan, el Consejo Técnico Interdisciplinario coadyuvará con el Juez de Ejecución en el cumplimiento de las medidas que imponga la autoridad competente.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO Y REUBICADO, P.O. 4 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 211.
 
-El Centro de Internamiento Especializado, dependerá administrativamente de la Secretaría de Seguridad Pública. Atendiendo a las necesidades del Sistema, el Ejecutivo podrá incorporar otros Centros de Internamiento a los ya existentes, cuyo funcionamiento se reglamentará atendiendo a sus características particulares y a la clasificación que les corresponda, sin perjuicio de que pueda convenirse con los Municipios su habilitación, conservación, sostenimiento, administración y vigilancia, en forma coordinada.
+El alojamiento, observación y adaptación social de los sujetos a medida de internamiento se sujetará a las condiciones y términos que señala este Código, sin perjuicio de que a falta de disposición expresa se apliquen las disposiciones relativas a la materia.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO Y REUBICADO, P.O. 4 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 212.
+
+Queda prohibida la internación de adolescentes en Centros de Reinserción Social, por lo que si en alguno de estos establecimientos fuere detectado un interno que aún no tenga dieciocho años de edad y se encuentre sujeto a internamiento cautelar, la Secretaría de Seguridad Pública en coordinación con la Procuraduría del Ciudadano, coadyuvará con el Juez competente, remitiéndole las constancias relativas al hecho, para que resuelva lo que en derecho proceda.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO Y REUBICADO, P.O. 4 DE FEBRERO DE 2011)</small>
+
+###### Artículo 213.
+
+No será necesario el consentimiento de los internos ni de sus padres, tutores o representantes legales, cuando con motivo de la designación del Centro donde han de ser internados, se requiera su traslado o conducción de un Centro de Internamiento Especializado a otro, aunque podrán promover en cualquier momento ante el Juez de Ejecución y sin efectos suspensivos, que les permita internarse en el Centro más cercano a su domicilio o al de su familia en primer grado.
+
+Sólo cuando los estudios practicados determinen que la permanencia del interno pueda poner en riesgo su propia integridad o el orden y la seguridad del Centro de Internamiento Especializado o por otras circunstancias, el Juez de Ejecución podrá ordenar su traslado al Centro de Internamiento Especializado que considere más adecuado y negar por falta de condiciones favorables, en su caso, la promoción prevista en el párrafo anterior, en términos de este Código y de los convenios respectivos. En estos casos, la autoridad administrativa competente que procure el traslado o conducción deberá comunicarlo de inmediato al Juez competente y a las personas que estuvieren autorizadas para mantener visita.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO Y REUBICADO, P.O. 4 DE FEBRERO DE 2011)</small>
+
+###### Artículo 214.
+
+La fase ejecutiva concluirá con el cumplimiento de la medida, a la cual, atendiendo las características individuales de la persona sujeta a la misma y, previa petición formulada al Juez de Ejecución, podrán incorporarse figuras para su modificación, suspensión o extinción anticipada, según lo prescribe el presente ordenamiento.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2011)</small>
+
+### CAPÍTULO II. DEL CONSEJO TÉCNICO INTERDISCIPLINARIO
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO Y REUBICADO, P.O. 4 DE FEBRERO DE 2011)</small>
+
+###### Artículo 215.
+
+El Consejo Técnico Interdisciplinario es una instancia de cada centro de internamiento para adolescentes de carácter consultivo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO Y REUBICADO, P.O. 4 DE FEBRERO DE 2011)</small>
+
+###### Artículo 216.
+
+El Consejo Técnico Interdisciplinario, se integrará por:
+
+a) El Director;
+
+b) El Subdirector técnico;
+
+c) El Subdirector administrativo;
+
+d) El Secretario del establecimiento;
+
+e) El Criminólogo; y
+
+f) Por los Jefes de los Departamentos Jurídico, Psicología, Trabajo Social, Pedagogía, Seguridad y Custodia, Servicios Médicos y Laboral.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO Y REUBICADO, P.O. 4 DE FEBRERO DE 2011)</small>
+
+###### Artículo 217.
+
+En los casos de establecimiento de cumplimiento de medidas de internamiento, el Consejo Técnico Interdisciplinario opinará sobre los dictámenes con relación a la aplicación de los beneficios de libertad anticipada y los sustitutivos de la medida.
+
+Asimismo, opinará con respecto a los adolescentes que estén cumpliendo la medida en externación para su sustitución o modificación.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO Y REUBICADO, P.O. 4 DE FEBRERO DE 2011)</small>
+
+###### Artículo 218.
+
+Los Consejos Técnicos Interdisciplinarios celebrarán sesiones ordinarias por lo menos dos veces a la semana y extraordinarias cuando sean convocados con un día de anticipación por el Director del establecimiento.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO Y REUBICADO, P.O. 4 DE FEBRERO DE 2011)</small>
+
+###### Artículo 219.
+
+Sus opiniones, dictámenes y sesiones, para que tengan validez legal, deberán ser aprobados por la mayoría de sus integrantes, siempre con la asistencia del Presidente.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO Y REUBICADO, P.O. 4 DE FEBRERO DE 2011)</small>
+
+###### Artículo 220.
+
+En tratándose de los dictámenes de estudio de personalidad y de las medidas para el tratamiento, se harán constar las opiniones disidentes, si las hubiera, siendo enviadas por la autoridad administrativa respectiva al Juez de Ejecución.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO Y REUBICADO, P.O. 4 DE FEBRERO DE 2011)</small>
+
+###### Artículo 221.
+
+El Secretario del Consejo Técnico auxiliará a éste en sus funciones, formulando la orden del día y elaborando el acta correspondiente que contendrá los dictámenes, recomendaciones y opiniones que se formulen de acuerdo a la propuesta de los casos en estudio, copia de los cuales se integrará al expediente del interno y del asunto tratado.
+
+El acta levantada será leída en la sesión inmediata para su aprobación o modificación, siendo firmada por los integrantes del Consejo Técnico Interdisciplinario que en ella participaron.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO CON LAS SECCIONES QUE LO INTEGRAN, P.O. 4 DE FEBRERO DE 2011)</small>
+
+### CAPÍTULO III. DEL CENTRO DE INTERNAMIENTO ESPECIALIZADO PARA ADOLESCENTES
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADA, P.O. 4 DE FEBRERO DE 2011)</small>
+
+#### Sección Primera: Naturaleza y Objeto
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO Y REUBICADO, P.O. 4 DE FEBRERO DE 2011)</small>
+
+###### Artículo 222.
+
+El Centro de Internamiento Especializado, tiene como objetivo proporcionar educación, deporte, atención social, psicológica, médica, trabajo y capacitación que permita que las personas sujetas a una medida de internamiento conforme a este Código, desempeñen un papel constructivo y productivo en la sociedad.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO Y REUBICADO, P.O. 4 DE FEBRERO DE 2011)</small>
+
+###### Artículo 223.
+
+El internamiento de una persona en un Centro de Internamiento Especializado, podrá imponerse de manera provisional o definitiva. Será provisional la detención preventiva de una persona sujeta a procedimiento, mediante internamiento cautelar aplicado en los términos de este Código, mientras que será definitivo el internamiento impuesto como medida mediante resolución judicial condenatoria que haya causado ejecutoria.
+
+Las personas sujetas a internamiento cautelar permanecerán en las áreas especiales de los Centros de Internamiento Especializados, a disposición de la autoridad judicial competente, hasta el momento en que sean puestos a disposición del Juez de Ejecución o se ordene su libertad. Los sujetos a internamiento definitivo permanecerán en custodia del Poder Ejecutivo, en las áreas respectivas del Centro de Internamiento Especializado que designe la autoridad competente, hasta que la medida se extinga, suspenda o modifique.
+
+El internamiento en un Centro de Internamiento Especializado impuesto como medida, tendrá por objeto permitir que los sujetos de la misma reciban conforme a la ley, el tratamiento necesario para lograr técnica y progresivamente su adaptación familiar y social.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADA, P.O. 4 DE FEBRERO DE 2011)</small>
+
+#### Sección Segunda: Organización
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO Y REUBICADO, P.O. 4 DE FEBRERO DE 2011)</small>
+
+###### Artículo 224.
+
+El Centro de Internamiento Especializado, dependerá administrativamente de la Secretaria de Seguridad Pública. Atendiendo a las necesidades del Sistema, el Ejecutivo podrá incorporar otros Centros de Internamiento a los ya existentes, cuyo funcionamiento se reglamentará atendiendo a sus características particulares y a la clasificación que les corresponda, sin perjuicio de que pueda convenirse con los Municipios su habilitación, conservación, sostenimiento, administración y vigilancia, en forma coordinada.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO Y REUBICADO, P.O. 4 DE FEBRERO DE 2011)</small>
+
+###### Artículo 225.
 
 Los Centros de Internamiento Especializados se organizarán conforme a las siguientes bases:
 
@@ -1883,7 +2367,7 @@ II.- Las mujeres serán internadas en lugares separados de los varones y en las 
 
 III.- La internación de una persona se hará mediante resolución de autoridad competente, excepto en el supuesto de presentación voluntaria, lo que será inmediatamente comunicado a la autoridad judicial, quien resolverá lo procedente;
 
-IV.- El área de gobierno deberá llevar al menos un libro de registro que contenga, en relación con cada adolescente internado, los datos relativos a la fecha y hora de su ingreso; fecha del auto de formal internamiento con mención de la conducta o conductas por las que se dictó, así como de la resolución en su caso; juzgado que conozca del procedimiento o que dictó la resolución, y los concernientes a la identificación del interno, fechas de salida por cualquier efecto y las de su reingreso en su caso, su conducta, medidas disciplinarias, así como los estímulos que prevean los reglamentos;
+IV.- El área de gobierno deberá llevar al menos un libro de registro que contenga, en relación con cada adolescente internado, los datos relativos a la fecha y hora de su ingreso; fecha del auto de formal internamiento con mención de la conducta o conductas por las que se dictó, así como de la resolución en su caso: juzgado que conozca del procedimiento o que dictó la resolución, y los concernientes a la identificación del interno, fechas de salida por cualquier efecto y las de su reingreso en su caso, su conducta, medidas disciplinarias, así como los estímulos que prevean los reglamentos;
 
 V.- El personal directivo, administrativo y de seguridad y custodia de los Centros de Internamiento Especializados será responsable de que los internos y las personas que los visiten no posean o introduzcan, respectivamente, bebidas alcohólicas, drogas, estupefacientes, substancias tóxicas o explosivas, armas de cualquier clase, teléfonos celulares ni cualquier otro objeto que reglamentariamente esté prohibido o no puedan retener o ingresar por razones de seguridad;
 
@@ -1895,27 +2379,31 @@ VIII.- Queda prohibido el uso de prendas y signos característicos, que señalen
 
 IX.- El régimen de internación se basará en la individualización del tratamiento a que debe ser sometido todo interno y estará orientado a modificar sus tendencias, inclinaciones y predisposiciones morbosas o antisociales, y a facilitarles la adquisición de conocimientos y aptitudes útiles para su adaptación, como medios para prevenir su reincidencia;
 
-X.- La autoridad ejecutora vigilará que el internamiento esté basado en el trabajo, la capacitación para el mismo y la educación, como medios de rehabilitación; asimismo, determinará el tratamiento conducente para prevenir o evitar la desadaptación social de los internos, con base en los dictámenes del Consejo General Interdisciplinario;
+X.- La autoridad administrativa competente, vigilará que el internamiento esté basado en el trabajo, la capacitación para el mismo, la educación, el deporte y la salud, como medios de reinserción; asimismo, determinará el tratamiento conducente para prevenir o evitar la desadaptación social de los internos, con base en los dictámenes del Consejo Técnico Interdisciplinario;
 
-XI.- El dinero, objetos de valor y demás bienes que la persona internada lleve consigo a su ingreso o adquiera con posterioridad y que reglamentariamente no pueda conservar o retener consigo, serán entregados a la persona autorizada por el interno para recibirlos o mantenidos en depósito, previo inventario, para series devueltos al obtener su liberación;
+XI.- El dinero, objetos de valor y demás bienes que la persona internada lleve consigo a su ingreso o adquiera con posterioridad y que reglamentariamente no pueda conservar o retener consigo, serán entregados a la persona autorizada por el interno para recibirlos o mantenidos en depósito, previo inventario, para serles devueltos al obtener su liberación;
 
 XII.- Las instalaciones destinadas para aislamiento y dormitorios, deberán satisfacer las necesidades de higiene y estar acondicionadas de acuerdo al espacio, con ventilación, servicios sanitarios, agua e iluminación, que permitan la estancia digna del interno;
 
-XIII.- La libertad de los internos, salvo los casos en que no se resuelva su situación jurídica dentro de los plazos legales, sólo podrá ser conferida ti otorgada por autoridad competente, mediante resolución o mandato que así lo determine, el cual deberá notificarse al Director del respectivo Centro para que proceda en consecuencia; y
+XIII.- La libertad de los internos, salvo los casos en que no se resuelva su situación jurídica dentro de los plazos legales, sólo podrá ser conferida u otorgada por la autoridad judicial competente, mediante resolución o mandato que así lo determine, el cual deberá notificarse al Director del respectivo Centro para que proceda en consecuencia; y
 
 XIV.- Al obtener su libertad el interno, se le entregarán el saldo de su cuenta o fondo de ahorros, los valores y efectos depositados a su nombre, así como una certificación de ser liberado y de la aptitud profesional adquirida mientras estuvo interno.
 
-###### Artículo 213.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO Y REUBICADO, P.O. 4 DE FEBRERO DE 2011)</small>
+
+###### Artículo 226.
 
 El Centro de Internamiento Especializado deberá contar con instalaciones y servicios que satisfagan todas las exigencias de la higiene y de la dignidad humana, que respondan a la finalidad de proporcionar el tratamiento individualizado, siendo indispensables las siguientes:
 
 I.- Área de Admisión, Observación y Clasificación: espacio donde permanecerá el interno, hasta el momento en que se determine su situación jurídica y/o mientras se le practiquen los estudios de observación y clasificación;
 
-II.- Áreas de Aislamiento y Dormitorio: pabellones formados por un conjunto de instalaciones de seguridad y habitaciones acondicionadas para ser utilizadas como estancias y dormitorios, destinados para aislar y custodiar a los adolescentes internados, atendiendo a su situación jurídica, peligrosidad y otras características;
+II.- Áreas de Aislamiento y Dormitorio: pabellones formados por un conjunto de instalaciones de seguridad y habitaciones acondicionadas para ser utilizadas como estancias y dormitorios, destinados para aislar y custodiar a los adolescentes internados, atendiendo a su situación jurídica, medida de internamiento y otras características;
 
 III.- Área de Mantenimiento: donde se concentrarán los equipos, instrumentos y herramientas necesarios para el buen funcionamiento y conservación del Centro;
 
-IV.- Área de Gobierno: donde despacharán el Director del Centro y su personal administrativo;
+IV.- Área de Gobierno: donde despacharán el Director del Centro y su personal administrativo y técnico;
 
 V.- Área Educativa y de Capacitación: formada por espacios adecuados para impartir cursos educativos y de capacitación laboral a los adolescentes internos, y realizar prácticas;
 
@@ -1933,31 +2421,33 @@ XI.- Seguridad y Custodia: área de concentración del personal, donde se darán
 
 XII.- Visita Familiar y General: espacios donde el interno puede convivir con su familia o entrevistarse con terceros, conforme al horario establecido; y
 
-XIII.- Visita íntima: área donde el interno puede recibir a su cónyuge, concubino o pareja.
+XIII.- Visita íntima: área donde el interno puede recibir a su cónyuge o concubino.
 
-###### Artículo 214.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO Y REUBICADO, P.O. 4 DE FEBRERO DE 2011)</small>
+
+###### Artículo 227.
 
 Son aplicables a los internos, sus defensores y las personas que los visiten, las siguientes disposiciones:
 
-I.- A cada interno se entregará un instructivo comprensible en el que aparezcan detallados sus derechos y deberes, así como el régimen general de vida en el Centro de Internamiento Especializado y los medios para formular peticiones, quejas o recursos, en términos del presente Código;
+I.- A cada interno se entregará un instructivo comprensible en el que aparezcan detallados sus derechos y Deberes, así como el régimen general de vida en el Centro de Internamiento Especializado y los medios para formular peticiones, quejas o recursos, en términos del presente Código;
 
 II.- Los internos y las personas que los visiten, están obligados a acatar las disposiciones y lineamientos prescritos en el Reglamento Interior aplicable, debiendo observar en todo momento una conducta de respeto con los demás internos y con terceros, absteniéndose de ejecutar acciones que alteren el orden y la seguridad;
 
 III.- Los internos, sus defensores y las personas que los visiten, deben respetar a los funcionarios y al personal de los Centros de Internamiento Especializados, dentro o fuera de ellos cuando se trate de traslados, conducciones o práctica de diligencias;
 
-IV.- Los internos tienen derecho a ser recibidos en audiencias por los funcionarios del respectivo Centro; así como a formular y entregar o exponer personalmente, en forma pacífica y respetuosa, peticiones y quejas que se refieran al régimen interno o a su trato, ante el Director del Centro, sus superiores jerárquicos, otras autoridades del exterior o las personas que los representen, y solicitar que se tomen las medidas oportunas del caso;
+IV.- Los internos tienen derecho a ser recibidos en audiencias por los funcionarios del respectivo Centro; así como a formular y entregar o exponer personalmente, en forma pacífica y respetuosa, peticiones y quejas que se refieran al régimen interno o a su trato, ante el Director del Centro, sus superiores jerárquicos, otras autoridades del exterior o las personas que los representen, y solicitar que se tomen las medidas, oportunas del caso;
 
-> <small>(REFORMADA, P.O. 4 DE ENERO DE 2010)</small>
-
-V.- Los internos podrán requerir, directamente o a través de un familiar, y tendrán derecho a recibir el apoyo de un defensor privado o público, con el objeto de que los asesoren para la realización de cualquier promoción legal o trámite relacionado con la ejecución de las medidas que le hayan impuesto o con el régimen disciplinario;
+V.- Los internos tendrán derecho a recibir el apoyo de un defensor, con el objeto de que los asesoren para la realización de cualquier promoción legal o trámite relacionado con la ejecución de las medidas que se hayan impuesto o con el régimen disciplinario, ante el Juez de Ejecución o la autoridad administrativa competente, según sea el caso;
 
 VI.- En caso de que el interno sea quien promueva juicio de garantías, interponga algún recurso o realice cualquiera otra promoción procesal o administrativa, deberá presentar el documento respectivo ante el Director del Centro, quien lo hará llegar a la autoridad a la que esté dirigido, antes de que venza el término para su admisión de ser posible o dentro de los tres días hábiles siguientes cuando no esté sujeto a plazo, entregando una copia sellada del mismo al recurrente;
 
-VII.- Los internos y sus defensores tendrán derecho a acceder a la información asentada en los libros de registro de las áreas de gobierno, que sea relativa a aquéllos, así como al contenido de los expedientes personales formados por la autoridad ejecutara a partir del respectivo ingreso;
+VII.- Los internos y sus defensores previa petición formulada ante el Juez de Ejecución, tendrán derecho a acceder a la información contenida de los expedientes personales formados por la autoridad ejecutora a partir del respectivo ingreso;
 
 VIII.- La comunicación que el interno tenga con su defensor, se celebrará en espacios apropiados y no podrá ser suspendida o intervenida;
 
-IX.- Los regímenes de visitas familiares, de visita íntima y de visitas en general, se sujetarán a las disposiciones respectivas y las visitas se autorizarán con sujeción a lo dispuesto en este Código y de acuerdo con los requisitos y la periodicidad que se establezcan reglamentariamente;
+IX.- Los regímenes de visitas familiares, de visita íntima y de visitas en general, se sujetarán a las disposiciones del Consejo Técnico Interdisciplinario y las visitas se autorizarán con sujeción a lo dispuesto en este Código y de acuerdo con los requisitos y la periodicidad que se establezcan reglamentariamente;
 
 X.- Los internos y las personas que los visiten no podrán poseer o introducir, respectivamente, bebidas alcohólicas, drogas, estupefacientes, substancias tóxicas o explosivas, armas de cualquier clase, teléfonos celulares, equipos de radiocomunicación ni cualquier otro objeto que reglamentariamente no esté permitido o no puedan retener o ingresar;
 
@@ -1967,15 +2457,21 @@ XII.- Las madres internas podrán tener en su compañía a sus hijos menores de 
 
 A las autoridades que infrinjan alguna de estas disposiciones o impidan de otra manera su cumplimiento, se les impondrán las medidas disciplinarias que procedan, sin perjuicio de otras sanciones que pudieran resultar.
 
-### CAPÍTULO III. DE LA REHABILITACIÓN Y REINTEGRACIÓN
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
 
-###### Artículo 215.
+> <small>(REFORMADO Y REUBICADO, P.O. 4 DE FEBRERO DE 2011)</small>
+
+###### Artículo 228.
 
 En el Centro de Internamiento Especializado habrá el personal directivo, administrativo, técnico, de seguridad y custodia y los demás servidores públicos que determine el presupuesto de egresos correspondiente. Sus funciones serán las determinadas en el presente Código, en las disposiciones reglamentarias derivadas de la misma y en los manuales de organización y funcionamiento, debiendo coordinar sus acciones en todo momento con la Secretaría de Seguridad Pública, a través del área correspondiente, la cual podrá ordenar y solicitar informes, emitir recomendaciones a los titulares e intervenir de manera directa en su ejecución.
 
 En todo caso, el personal a designar deberá ser cuidadosamente evaluado y seleccionado, para lo cual se considerarán la vocación, integridad, aptitudes, preparación académica, capacidades y antecedentes personales de los candidatos. Antes de la asunción del cargo y durante el desempeño de éste, el personal recibirá los cursos de inducción, formación, capacitación, actualización, adiestramiento y especialización que se diseñen, establezcan, programen e impartan, debiendo someterse a los estudios y exámenes de selección, enseñanza o entrenamiento que se implanten y aprobar los cursos, evaluaciones y exámenes de oposición que se practiquen, para ingresar o permanecer, así como para poder ser nombrado o promovido.
 
-###### Artículo 216.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO Y REUBICADO, P.O. 4 DE FEBRERO DE 2011)</small>
+
+###### Artículo 229.
 
 El personal del Centro de Internamiento Especializado deberá poseer las características generales siguientes:
 
@@ -1991,9 +2487,13 @@ V.- No haber sido condenado por delito doloso ni por delito culposo de evasión 
 
 VI.- No ser adicto a sustancias psicotrópicas o estupefacientes, ni padecer alcoholismo; y
 
-VII.- En caso de aspirar a ocupar un cargo a nivel de director general, director de área, subdirector o jefe de departamento, ser mayor de veinticinco años al día del nombramiento, poseer título profesional en el área de las ciencias sociales, las humanidades o la administración pública, y contar con conocimientos documentados sobre Justicia para Adolescentes.
+VII.- En caso de aspirar a ocupar un cargo a nivel de director general, director de área, subdirector o jefe de departamento, ser mayor de veinticinco años al día del nombramiento, poseer título profesional en el área de las ciencias sociales, de la salud, las humanidades o la administración pública, y contar con conocimientos documentados sobre justicia para adolescentes.
 
-###### Artículo 217.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO Y REUBICADO, P.O. 4 DE FEBRERO DE 2011)</small>
+
+###### Artículo 230.
 
 Las autoridades del Centro de Internamiento Especializado tendrán las siguientes atribuciones:
 
@@ -2001,7 +2501,7 @@ I.- Admitir a los sujetos de internamiento con la debida orden previa y escrita 
 
 II.- Aplicar las medidas de internamiento, impuestas por el Juez;
 
-III.- Realizar un plan individualizado de ejecución y someterlo a la aprobación del Juez;
+III.- Realizar un Plan Individualizado de Ejecución y someterlo a la aprobación del Juez;
 
 IV.- Implementar el programa educativo adaptado a las necesidades de los internos, impartido por maestros especializados, mediante programas integrados al sistema de instrucción pública;
 
@@ -2019,23 +2519,35 @@ X.- Suscribir convenios con instituciones públicas y privadas, así como con or
 
 XI.- Imponer a los internos que infrinjan el Reglamento Interior del Centro las medidas disciplinarias correspondientes.
 
-###### Artículo 218.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADA, P.O. 4 DE FEBRERO DE 2011)</small>
+
+#### Sección Tercera: Supervisión, Seguridad, Vigilancia y Custodia
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO Y REUBICADO, P.O. 4 DE FEBRERO DE 2011)</small>
+
+###### Artículo 231.
 
 Es facultad de la Secretaría de Seguridad Pública, por conducto del área competente, la supervisión de los Centros de Internamiento Especializados, así como determinar los lineamientos y políticas en materia de seguridad interior, vigilancia y custodia de los mismos, conforme a las disposiciones reglamentarias correspondientes.
 
 Atendiendo a las características particulares de los Centros de Internamiento Especializados, la Secretaría de Seguridad Pública ordenará la ejecución de visitas periódicas a las instalaciones y operativos especiales de supervisión, para mejorar su funcionamiento y mantener el control de los mismos.
 
-###### Artículo 219.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
 
-La seguridad exterior y vigilancia perimetral de los Centros de Internamiento Especializados corresponderá a las fuerzas y cuerpos de seguridad del Estado o en su caso, a los cuerpos de policía del Municipio en que estén ubicados, los que sin perjuicio de que se rijan por las normas de los cuerpos respectivos, en materia de seguridad exterior de los Centros podrán recibir indicaciones del Director del mismo.
+> <small>(REFORMADO Y REUBICADO, P.O. 4 DE FEBRERO DE 2011)</small>
 
-La seguridad interior corresponderá al personal de custodia adscrito a cada Centro de Internamiento Especializado, así como a los cuerpos de seguridad y vigilancia designados por la Secretaría de Seguridad Pública, los cuales serán dirigidos y supervisados por el área correspondiente, con el objeto de procurar una correcta aplicación de las medidas de seguridad estática y dinámica, debiéndose entender que la primera es aquélla que se presta a instalaciones e inmuebles y la segunda, la que se presta a personas o vehículos en movimiento.
-
-###### Artículo 220.
+###### Artículo 232.
 
 En cada Centro de Internamiento Especializado habrá un responsable de la seguridad, vigilancia y custodia, quien contará con los auxiliares de servicios de apoyo, jefes de grupo, supervisores y personal de custodia que determine el presupuesto de egresos.
 
-###### Artículo 221.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO Y REUBICADO, P.O. 4 DE FEBRERO DE 2011)</small>
+
+###### Artículo 233.
 
 Los cuerpos de seguridad, vigilancia y custodia, tendrán las siguientes obligaciones:
 
@@ -2055,29 +2567,49 @@ VII.- Operar las estrategias determinadas por la Secretaría de Seguridad Públi
 
 VIII.- Las demás que se contengan en las disposiciones reglamentarias respectivas.
 
-### CAPÍTULO IV. DE LOS BENEFICIOS DE LIBERTAD ANTICIPADA Y LA SUSTITUCIÓN, MODIFICACIÓN, SUSPENSIÓN O EXTINCIÓN DE LAS MEDIDAS
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
 
-#### Sección Primera: Reglas Generales de Tramitación y Resolución
+> <small>(ADICIONADO CON LAS SECCIONES QUE LO INTEGRAN, P.O. 4 DE FEBRERO DE 2011)</small>
 
-#### Sección Primera: Naturaleza y Objeto
+### CAPÍTULO IV. DE LA REINSERCIÓN Y REINTEGRACIÓN
 
-###### Artículo 222.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
 
-La rehabilitación como proceso correctivo es un medio y no un fin, opcional para las personas sujetas a procedimiento conforme a este Código y obligatorio para aquéllas a quienes la autoridad jurisdiccional les hubiere impuesto la medida de internamiento, que tiene por objeto proporcionar al interno los elementos suficientes para que se reintegre a la sociedad y a su familia, se le considere adaptado, se le restituya en el goce de los derechos de cuyo ejercicio se le hubiere suspendido, inhabilitado o privado, y pueda desarrollar plenamente su persona y capacidades.
+> <small>(ADICIONADA, P.O. 4 DE FEBRERO DE 2011)</small>
 
-###### Artículo 223.
+#### Sección Primera: Proceso de Reinserción
 
-Para obtener resultados satisfactorios en el proceso de rehabilitación, los Centros de Internamiento Especializados procurarán la participación de los internos en los programas de trabajo, capacitación y educación, como medios de adaptación, y promoverán la colaboración y participación coordinada en el proceso de rehabilitación, de los ciudadanos e instituciones o asociaciones públicas y privadas relacionadas con la materia, en los términos de este ordenamiento y de los lineamientos técnicos aplicables de acuerdo con la misma.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
 
-#### Sección Segunda: Organización
+> <small>(REFORMADO Y REUBICADO, P.O. 4 DE FEBRERO DE 2011)</small>
 
-###### Artículo 224.
+###### Artículo 234.
 
-Además de las medidas de orientación, protección y tratamiento, se consideran medios para alcanzar la rehabilitación de la persona internada, el trabajo, la capacitación para el mismo y la educación, organizados con base en la disciplina y las normas aplicables, los cuales serán requisitos indispensables para quienes deseen acogerse a los beneficios de suspensión de medidas comprendidos en este Código.
+El tratamiento como proceso correctivo es un medio y no un fin, tiene por objeto proporcionar al adolescente los elementos suficientes para que se reinserte a la sociedad y a su familia, se le considere adaptado, se le restituya en el goce de los derechos de cuyo ejercicio se le hubiere suspendido, inhabilitado o privado, y pueda desarrollar plenamente su persona y capacidades.
 
-###### Artículo 225.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
 
-Durante su estancia, el interno será sometido al proceso de rehabilitación, el cual tendrá el carácter de tratamiento técnico, progresivo, gradual e individualizado, y constará de tres periodos sucesivos:
+> <small>(REFORMADO Y REUBICADO, P.O. 4 DE FEBRERO DE 2011)</small>
+
+###### Artículo 235.
+
+Para obtener resultados satisfactorios en el proceso de reinserción, los Centros de Internamiento Especializados procurarán la participación de los internos en los programas de trabajo, capacitación, educación, deporte y salud como medios de adaptación, y promoverán la colaboración y participación coordinada en el proceso de reinserción, de los ciudadanos e instituciones o asociaciones públicas y privadas relacionadas con la materia, en los términos de este ordenamiento y de los lineamientos técnicos aplicables de acuerdo con la misma.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO Y REUBICADO, P.O. 4 DE FEBRERO DE 2011)</small>
+
+###### Artículo 236.
+
+Además de las medidas de orientación, protección y tratamiento, se consideran medios para alcanzar la reinserción del adolescente, el trabajo, la capacitación para el mismo, la educación, el deporte y la salud, organizados con base en la disciplina y las normas aplicables, los cuales serán requisitos indispensables para quienes deseen acogerse a los beneficios de suspensión de medidas comprendidos en este Código.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO Y REUBICADO, P.O. 4 DE FEBRERO DE 2011)</small>
+
+###### Artículo 237.
+
+Durante su estancia, el interno será sometido al proceso de reinserción, el cual tendrá el carácter de tratamiento técnico, progresivo, gradual e individualizado, y constará de tres periodos sucesivos:
 
 I.- Estudio y diagnóstico;
 
@@ -2089,63 +2621,99 @@ b) Preliberacional; y
 
 III.- Reintegración.
 
-###### Artículo 226.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
 
-El periodo de estudio y diagnóstico y la fase de tratamiento en clasificación formarán parte de la etapa de observación y clasificación a cargo del Consejo General Interdisciplinario.
+> <small>(REFORMADO Y REUBICADO, P.O. 4 DE FEBRERO DE 2011)</small>
 
-Durante el periodo de estudio y diagnóstico, el Consejo General Interdisciplinario realizará el estudio integral de la personalidad del interno, desde los puntos de vista médico, psicológico, social, pedagógico y ocupacional, el cual servirá para determinar su tratamiento inicial en clasificación, fase en la que los internos serán clasificados periódicamente y de acuerdo con la evolución de su personalidad, en grupos integrados por quienes deben ser sometidos a un mismo tratamiento asistencial y terapéutico, procurándose que los menores de dieciséis años de edad se encuentren separados de los demás.
+###### Artículo 238.
 
-###### Artículo 227.
+El periodo de estudio y diagnóstico y la fase de tratamiento en clasificación, formarán parte de la etapa de observación y clasificación a cargo del Consejo Técnico Interdisciplinario.
 
-El tratamiento preliberacional es el beneficio que podrá concederse al interno, después de cumplir una parte de la medida que le fue impuesta, consistente en su sujeción a un tratamiento asistencial y terapéutico y a un método gradual de aplicación de las medidas que se consideren más adecuadas para lograr su rehabilitación o evitar su desadaptación social, de acuerdo a las formas y condiciones de tratamiento y vigilancia que la Dirección de Ejecución de Medidas establezca.
+Durante el periodo de estudio y diagnóstico, el Consejo Técnico Interdisciplinario realizará el estudio integral de la personalidad del interno, desde los puntos de vista médico, psicológico, social, pedagógico, ocupacional, criminológico, jurídico, de seguridad y custodia el cual servirá para determinar su tratamiento inicial en clasificación, fase en la que los internos serán clasificados periódicamente y de acuerdo con la evolución de su personalidad, en grupos integrados por quienes deben ser sometidos a un mismo tratamiento asistencial y terapéutico, procurándose que los menores de dieciséis años de edad se encuentren separados de los demás.
 
-###### Artículo 228.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
 
-El periodo de reintegración iniciará con la libertad del interno y tendrá como finalidad lograr su reinserción social y familiar, para lo cual el Estado podrá apoyarse en instituciones públicas y privadas de asistencia que faciliten al liberado oportunidades laborales, educativas o deportivas, así como apoyo psicológico, médico y moral, para el mejor desarrollo de su persona y capacidades.
+> <small>(REFORMADO Y REUBICADO, P.O. 4 DE FEBRERO DE 2011)</small>
 
-###### Artículo 229.
+###### Artículo 239.
 
-El desarrollo favorable o desfavorable del proceso de rehabilitación, según las evaluaciones que realice el Consejo General Interdisciplinario, permitirá además que el interno pueda ser trasladado a otro Centro de Internamiento Especializado o a otra área dentro del mismo.
+El tratamiento preliberacional es un periodo del régimen progresivo técnico, que podrá concederse al interno, después de cumplir una parte de la medida que le fue impuesta, consistente en su sujeción a un tratamiento asistencial y terapéutico y a un método gradual de aplicación de las medidas que se consideren más adecuadas para lograr su reinserción o evitar su desadaptación social, de acuerdo a las formas y condiciones de tratamiento y vigilancia que el Juez de Ejecución y la autoridad administrativa respectiva establezcan.
 
-Cuando el interno no esté conforme con el resultado de la evaluación, el cual deberá notificársele y constar por escrito en su expediente personal, podrá inconformarse ante el Secretario de Gobernación, el cual, si considera fundado el recurso, ordenará la práctica de una nueva evaluación en la que participe un perito designado por él. El resultado de esta evaluación tendrá el carácter de definitivo.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
 
-###### Artículo 230.
+> <small>(REFORMADO Y REUBICADO, P.O. 4 DE FEBRERO DE 2011)</small>
 
-Todo interno mayor de dieciséis años tiene derecho al trabajo digno y socialmente útil en los Centros de Internamiento Especializados, en términos de las disposiciones aplicables, siendo obligación del Ejecutivo del Estado promover la creación de empleos suficientes, inducir la ocupación laboral de las personas sujetas a proceso conforme a este Código y fomentar el trabajo de los sujetos a medida de internamiento por resolución judicial, como base fundamental para su rehabilitación y fuente de autosuficiencia personal y familiar, en su caso.
+###### Artículo 240.
 
-#### Sección Tercera: Supervisión, Seguridad, Vigilancia y Custodia
+El periodo de reintegración iniciará con la libertad del interno y tendrá como finalidad lograr su reinserción social y familiar, para lo cual el Patronato para la Reincorporación por el Empleo podrá apoyarse en instituciones públicas y privadas de asistencia que faciliten al liberado oportunidades laborales, educativas o deportivas, así como apoyo psicológico, médico y moral, para el mejor desarrollo de su persona y capacidades.
 
-###### Artículo 231.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO Y REUBICADO, P.O. 4 DE FEBRERO DE 2011)</small>
+
+###### Artículo 241.
+
+El desarrollo favorable o desfavorable del proceso de reinserción, según las evaluaciones que realice el Consejo Técnico Interdisciplinario, permitirá además que el interno pueda ser trasladado a otro Centro de Internamiento Especializado o a otra área dentro del mismo.
+
+Cuando el interno no esté conforme con el resultado de la evaluación, el cual deberá notificársele y constar por escrito en su expediente personal, podrá inconformarse ante el Juez de Ejecución, el cual, si considera fundado el recurso, ordenará la práctica de una nueva evaluación en la que participe un perito designado por él. El resultado de esta evaluación tendrá el carácter de definitivo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADA, P.O. 4 DE FEBRERO DE 2011)</small>
+
+#### Sección Segunda: Del Trabajo y Capacitación para el Trabajo
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO Y REUBICADO, P.O. 4 DE FEBRERO DE 2011)</small>
+
+###### Artículo 242.
+
+Todo interno mayor de dieciséis años tiene derecho al trabajo digno y socialmente útil en los Centros de Internamiento Especializados, en términos de las disposiciones aplicables, siendo obligación del Ejecutivo del Estado promover la creación de empleos suficientes, inducir la ocupación laboral de las personas sujetas a medida de internamiento cautelar conforme a este Código y fomentar el trabajo de los sujetos a medida de internamiento por resolución judicial, como base fundamental para su reinserción y fuente de autosuficiencia personal y familiar, en su caso.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO Y REUBICADO, P.O. 4 DE FEBRERO DE 2011)</small>
+
+###### Artículo 243.
 
 La promoción, organización, planificación, dirección, administración, supervisión y control general de las actividades laborales a desarrollar por los internos, corresponderán a la Secretaría de Seguridad Pública, por conducto del encargado del área laboral en cada Centro de Internamiento Especializado, sin perjuicio de que los internos se procuren a sus expensas otros medios de ocupación, siempre que sean compatibles con las garantías procesales y con la seguridad y el buen orden del respectivo Centro.
 
-###### Artículo 232.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
 
-Para generar las fuentes de empleo que posibiliten el trabajo de los internos en los Centros de Internamiento, el Estado deberá constituir talleres, industrias o centros de trabajo permanentes, cuya organización y funcionamiento se sujetarán a los programas y planes de trabajo que la Secretaría de Seguridad Pública establezca, por ser los más adecuados con vistas a lograr la autosuficiencia económica del Centro e incidir en beneficio del tratamiento aplicable a los internos, y en cuya elaboración y operación deberá considerarse la infraestructura de cada Centro, las características de su población, las peculiaridades de la economía regional y las oportunidades que existen en el mercado, con el fin de corresponder a la demanda de éste y la producción del respectivo Centro.
+> <small>(REFORMADO Y REUBICADO, P.O. 4 DE FEBRERO DE 2011)</small>
 
-###### Artículo 233.
+###### Artículo 244.
+
+Para generar las fuentes de empleo que posibiliten el trabajo de los internos en los Centros de Internamiento, el Estado deberá constituir talleres, industrias o centros de trabajo permanentes, cuya organización y financiamiento se sujetarán a los programas y planes de trabajo que la Secretaría de Seguridad Pública establezca, por ser los más adecuados con vistas a lograr la autosuficiencia económica del Centro e incidir en beneficio del tratamiento aplicable a los internos, y en cuya elaboración y operación deberá considerarse la infraestructura de cada Centro, las características de su población, las peculiaridades de la economía regional y las oportunidades que existen en el mercado, con el fin de corresponder a la demanda de éste y la producción del respectivo Centro.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO Y REUBICADO, P.O. 4 DE FEBRERO DE 2011)</small>
+
+###### Artículo 245.
 
 La Secretaría de Seguridad Pública podrá celebrar convenios con particulares, sean personas físicas o jurídicas, para apoyar la creación de fuentes de empleo a través del establecimiento de talleres, industrias y centros de trabajo, ubicados en espacios concesionados por el Ejecutivo a los particulares dentro de los Centros de Internamiento, mediante licitación abierta, restringida o privada, en cuyo caso éstos estarán obligados a retribuir al interno por lo menos el salario mínimo vigente en la región, mismo al que tendrá derecho en su totalidad y que será destinado y distribuido en la forma y de acuerdo a los porcentajes ordenados por el artículo siguiente y las disposiciones reglamentarias respectivas, sin perjuicio de las demás prestaciones de carácter laboral o en materia de seguridad social a que tenga derecho conforme a la ley y que sean compatibles con su situación jurídica.
 
-### CAPÍTULO V. DEL RÉGIMEN DISCIPLINARIO Y FALTAS ADMINISTRATIVAS
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
 
-#### Sección Primera: Proceso de Rehabilitación
+> <small>(REFORMADO Y REUBICADO, P.O. 4 DE FEBRERO DE 2011)</small>
 
-###### Artículo 234.
+###### Artículo 246.
 
-El trabajo de las personas mayores de dieciséis años sujetas a internamiento conforme a este Código, se rige por lo que prescriben el artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y la Ley Federal del Trabajo, en materia de jornada de trabajo, días de descanso, higiene, seguridad, protección de la maternidad y condiciones generales, y por las siguientes disposiciones:
+El trabajo de las personas mayores de dieciséis años sujetas a internamiento conforme a este Código, tomando su fin terapéutico se rige por lo dispuesto por el artículo 18 de la Constitución Política de los Estados Unidos Mexicanos y por las siguientes disposiciones:
 
 I.- El trabajo de los internos se realizará conforme a las políticas, lineamientos y condiciones establecidos por la Secretaría de Seguridad Pública, y no podrá tener como finalidad el logro de beneficios económicos para el Estado;
 
 II.- En ningún caso el trabajo tendrá carácter aflictivo ni podrá ser usado como medida disciplinaria o atentar contra la dignidad del interno;
 
-III.- Para efectos de la rehabilitación, el trabajo de los internos podrá tener por objeto servicios y actividades de carácter productivo, intelectual, artístico, artesanal, técnico, de formación profesional, de enseñanza, de apoyo permanente en actividades dirigidas a los internos o que contribuyan al orden, limpieza, higiene, conservación y funcionamiento del Centro de Internamiento Especializado;
+III.- Para efectos de la reinserción, el trabajo de los internos podrá tener por objeto servicios y actividades de carácter productivo, intelectual, artístico, artesanal, técnico, de formación profesional, de enseñanza, de apoyo permanente en actividades dirigidas a los internos o que contribuyan al orden, limpieza, higiene, conservación y funcionamiento del Centro de Internamiento Especializado;
 
 IV.- A efecto de evitar el ocio, la disipación y desadaptación de las personas internadas, se les inducirá al trabajo y a la iniciación de actividades productivas, acorde con la profesión, industria, comercio o trabajo lícito al que normalmente se dedique o mejor le acomode;
 
-V.- El trabajo para los internos tendrá carácter formativo, creador y formador de hábitos laborales, con el fin de prepararlos para las condiciones normales del trabajo libre, proporcionarles elementos que sean útiles para su subsistencia económica en libertad y contribuir a su proceso de rehabilitación;
+V.- El trabajo para los internos tendrá carácter formativo, creador y formador de hábitos laborales, con el fin de prepararlos para las condiciones normales del trabajo libre, proporcionarles elementos que sean útiles para su subsistencia económica en libertad y contribuir a su proceso de reinserción;
 
-VI.- El trabajo de los internos se organizará, planificará y asignará atendiendo el interés, la vocación, las aptitudes físicas y mentales, las cualidades profesionales, la capacidad laboral y el tratamiento de cada interno, previa valoración del Consejo General Interdisciplinario a propuesta del encargado del área, de manera que satisfaga sus aspiraciones laborales en cuanto sean compatibles con la organización, seguridad y capacidad del respectivo Centro de Internamiento Especializado;
+VI.- El trabajo de los internos se organizará, planificará y asignará atendiendo el interés, la vocación, las aptitudes físicas y mentales, las cualidades profesionales, la capacidad laboral y el tratamiento de cada interno, previa valoración del Consejo Técnico Interdisciplinario a propuesta del encargado del área, de manera que satisfaga sus aspiraciones laborales en cuanto sean compatibles con la organización, seguridad y capacidad del respectivo Centro de Internamiento Especializados;
 
 VII.- A los internos que tengan alguna discapacidad o incapacidad para el trabajo, se les propondrá o asignará una ocupación adecuada a su situación, de acuerdo con las recomendaciones médicas para cada caso;
 
@@ -2157,19 +2725,23 @@ X.- El producto del trabajo penitenciario de cada interno será destinado, en es
 
 XI.- La obligación del interno de reparar el daño o los daños y perjuicios causados por la conducta realizada que motivó su internamiento, tendrá carácter preferente con respecto a la multa y cualquiera otra obligación asumida con posterioridad, excepto las de carácter alimentario o laboral, salvo que se demuestre que éstas fueron contraídas para evadir el cumplimiento de aquéllas;
 
-XII.- Los bienes, productos o servicios obtenidos por el trabajo de los internos tendrán, en igualdad de condiciones, carácter preferente en las adjudicaciones de suministros y obras de la Administración Pública Estatal y de los Municipios;
+XII.- La jornada de trabajo no será mayor de siete horas al día y deberán observarse las medidas de seguridad e higiene para garantizar la integridad del interno;
 
 XIII.- El trabajo no deberá interferir con las sesiones de tratamiento terapéutico ni con los programas establecidos en el área educativa, debiéndose coordinar su desarrollo de tal forma que sea compatible con el tratamiento integral de cada interno y con las demás actividades del régimen del Centro de Internamiento Especializado; y
 
 XIV.- Las autoridades de los Centros de Internamiento Especializados deberán dar las facilidades procedentes a los internos y sus defensores, para que puedan salvaguardar adecuadamente sus derechos e intereses laborales ante los organismos y tribunales competentes.
 
-###### Artículo 235.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO Y REUBICADO, P.O. 4 DE FEBRERO DE 2011)</small>
+
+###### Artículo 247.
 
 Estarán exceptuados de trabajar los internos que se encuentren comprendidos en alguno de los supuestos siguientes:
 
 I.- Ser menor de dieciséis años;
 
-II.- Presentar alguna imposibilidad física o mental o padecer alguna enfermedad que lo incapacite para el trabajo, de manera permanente o transitoria, debidamente acreditadas ante el Consejo General Interdisciplinario y mientras éstas perduren, en su caso;
+II.- Presentar alguna imposibilidad física o mental o padecer alguna enfermedad que lo incapacite para el trabajo, de manera permanente o transitoria, debidamente acreditadas ante el Consejo Técnico Interdisciplinario y mientras éstas perduren, en su caso;
 
 III.- Estar bajo tratamiento médico por causa de accidente, enfermedad o alguna otra circunstancia que haga peligrar la vida o salud del interno, hasta que sea dado de alta; o
 
@@ -2177,19 +2749,35 @@ IV.- Tratándose de mujeres, durante los cuarenta y cinco días anteriores al pa
 
 Los internos comprendidos en los supuestos de este artículo que voluntariamente deseen trabajar, podrán dedicarse a la actividad que elijan dentro de las asignables, conforme a sus aptitudes e inclinaciones, siempre que cumplan los requisitos legales, cuenten con las habilidades necesarias y no fuere perjudicial para su salud.
 
-###### Artículo 236.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO Y REUBICADO, P.O. 4 DE FEBRERO DE 2011)</small>
+
+###### Artículo 248.
 
 El encargado del área laboral de cada Centro de Internamiento Especializado o, en su caso, el Director del mismo, deberá cuidar que dentro de sus instalaciones se destinen áreas laborales específicas, las que deberán contar con las medidas elementales de seguridad e higiene; además, serán responsables de la supervisión y buen empleo de los talleres, equipo, maquinaria y herramientas, debiendo coordinarse para su conservación y mantenimiento con el área que determine la Secretaría de Seguridad Pública.
 
-###### Artículo 237.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
 
-En los Centros de Internamiento Especializados, todo interno tiene derecho a que se le proporcione capacitación para el trabajo que le permita elevar su calidad de vida y productividad, siendo obligación del Ejecutivo promover la capacitación laboral de los internos, como base fundamental para su rehabilitación.
+> <small>(REFORMADO Y REUBICADO, P.O. 4 DE FEBRERO DE 2011)</small>
 
-###### Artículo 238.
+###### Artículo 249.
+
+En los Centros de Internamiento Especializados, todo interno tiene derecho a que se le proporcione capacitación para el trabajo que le permita elevar su calidad de vida y productividad, siendo obligación del Ejecutivo promover la capacitación laboral de los internos como base fundamental para su reinserción.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO Y REUBICADO, P.O. 4 DE FEBRERO DE 2011)</small>
+
+###### Artículo 250.
 
 La organización, administración, supervisión y control general de las actividades de capacitación para el trabajo en los Centros de Internamiento Especializados, corresponderán a la Secretaría de Seguridad Pública, por conducto del encargado del área de capacitación en cada Centro, los que deberán vigilar el cumplimiento y funcionamiento de los programas, sistemas y procedimientos de capacitación, así como sugerir las medidas tendientes a perfeccionarlos, conforme a los derechos de los internos y las obligaciones de los patrones.
 
-###### Artículo 239.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO Y REUBICADO, P.O. 4 DE FEBRERO DE 2011)</small>
+
+###### Artículo 251.
 
 La capacitación para el trabajo que se imparta a los internos, deberá tener por objeto:
 
@@ -2203,35 +2791,59 @@ IV.- Incrementar la productividad; y
 
 V.- Mejorar sus aptitudes.
 
-###### Artículo 240.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
 
-Los internos que acudan a la capacitación para el trabajo, tendrán la obligación de asistir puntualmente, atender las indicaciones del personal, maestros o instructores, y presentar los exámenes de evaluación correspondientes. Los internos que sin justificación incumplan lo anterior, serán corregidos disciplinariamente por las instancias correspondientes.
+> <small>(REFORMADO Y REUBICADO, P.O. 4 DE FEBRERO DE 2011)</small>
 
-###### Artículo 241.
+###### Artículo 252.
+
+Los internos que acudan a la capacitación para el trabajo, tendrán la obligación de asistir puntualmente, atender las indicaciones del personal, maestros o instructores, y presentar los exámenes de evaluación correspondientes. Los internos que sin justificación incumplan lo anterior, serán corregidos disciplinariamente por la autoridad administrativa correspondiente.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO Y REUBICADO, P.O. 4 DE FEBRERO DE 2011)</small>
+
+###### Artículo 253.
 
 La Secretaría de Seguridad Pública podrá celebrar convenios con instituciones, escuelas o empresas que estén autorizadas y registradas por las autoridades competentes en materia de trabajo, para que impartan cursos y programas de capacitación para el trabajo a los internos, dentro de los Centros de Internamiento Especializados o fuera de ellos, por medio de personal propio, instructores particularmente contratados u organismos afines.
 
-#### Sección Segunda: Trabajo
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
 
-###### Artículo 242.
+> <small>(ADICIONADA, P.O. 4 DE FEBRERO DE 2011)</small>
 
-En los Centros de Internamiento Especializados, todo interno tiene derecho a recibir educación obligatoria, la cual se ajustará a los programas oficiales, tenderá a desarrollar armónicamente todas sus facultades humanas y fomentará los valores consagrados en el artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos, siendo obligación del Ejecutivo del Estado promover la prestación de servicios educativos en beneficio de los internos, como base fundamental para su rehabilitación.
+#### Sección Tercera: Educación
 
-###### Artículo 243.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
 
-La organización, administración, supervisión y control general de los servicios educativos en los Centros de Internamiento Especializados, corresponderán a la Secretaría de Seguridad Pública, por conducto del encargado del área educativa en cada Centro de Internamiento, los que deberán vigilar el cumplimiento y aplicación de los programas y procedimientos educativos establecidos conforme a los lineamientos de la Secretaría de Educación Pública y podrán sugerir medidas tendientes a perfeccionarlos, considerando que además de actividades académicas, deberán contener otras de carácter cívico, cultural y deportivo, de manera que se atiendan integralmente las necesidades específicas de la población interna y contribuyan a su rehabilitación.
+> <small>(REFORMADO Y REUBICADO, P.O. 4 DE FEBRERO DE 2011)</small>
 
-###### Artículo 244.
+###### Artículo 254.
 
-Los Centros de Internamiento Especializados deberán contar con instalaciones y equipos adecuados para la instrucción de los internos y la educación que en ellos se imparta, se regirá por el artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos, por los ordenamientos legales en materia de educación y por las siguientes disposiciones:
+En los Centros de Internamiento Especializados, todo interno tiene derecho a recibir educación obligatoria, la cual se ajustará a los programas oficiales, tenderá a desarrollar armónicamente todas sus facultades humanas y fomentará los valores consagrados en el artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos, siendo obligación del Ejecutivo del Estado promover la prestación de servicios educativos en beneficio de los internos, como base fundamental para su reinserción.
 
-I.- A efecto de promover la superación personal y evitar la desadaptación de los internos, se les inducirá a recibir el tratamiento educacional que para cada caso determine el Consejo General Interdisciplinario, como base del proceso de rehabilitación mediante la adquisición de conocimientos útiles y que resulte adecuado a sus necesidades y aptitudes, acorde con su grado de alfabetización o nivel educativo y con las posibilidades del Estado;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO Y REUBICADO, P.O. 4 DE FEBRERO DE 2011)</small>
+
+###### Artículo 255.
+
+La organización, administración, supervisión y control general de los servicios educativos en los Centros de Internamiento Especializados, corresponderán a la Secretaría de Seguridad Pública, por conducto del encargado del área educativa en cada Centro de Internamiento, los que deberán vigilar el cumplimiento y aplicación de los programas y procedimientos educativos establecidos conforme a los lineamientos de la Secretaría de Educación Pública y podrán sugerir medidas tendientes a perfeccionarlos, considerando que además de actividades académicas, deberán contener otras de carácter cívico, cultural y deportivo, de manera que se atiendan integralmente las necesidades específicas de la población interna y contribuyan a su reinserción.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO Y REUBICADO, P.O. 4 DE FEBRERO DE 2011)</small>
+
+###### Artículo 256.
+
+Los Centros de Internamiento Especializados deberán contar con instalaciones y equipos adecuados para la instrucción de los internos y la educación que en ellos se imparta se regirá por el artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos, por los ordenamientos legales en materia de educación y por las siguientes disposiciones:
+
+I.- A efecto de promover la superación personal y evitar la desadaptación de los internos, se les inducirá a recibir el tratamiento educacional que para cada caso determine el Consejo Técnico Interdisciplinario como base del proceso de reinserción, mediante la adquisición de conocimientos útiles y que resulte adecuado a sus necesidades y aptitudes, acorde con su grado de alfabetización o nivel educativo y con las posibilidades del Estado;
 
 II.- El Estado tendrá la obligación de impartir educación primaria y secundaria a los internos, conforme a las políticas y lineamientos establecidos por la Secretaría de Educación Pública, quedando sujeta a las posibilidades del erario que se imparta educación preparatoria, superior o especial, adecuada a las aptitudes de los internos;
 
 III.- Los Centros de Internamiento Especializados, por conducto del personal técnico competente, implementarán programas tendientes a sensibilizar a los internos y brindarles oportunidades educativas, para que se incorporen a las actividades laborales, de capacitación, de enseñanza, recreativas, deportivas y culturales, pudiendo organizar conferencias, cursos, seminarios, exposiciones, representaciones teatrales, exhibiciones cinematográficas, conciertos y eventos deportivos y culturales;
 
-IV.- Las actividades del programa educativo se organizarán, planificarán e impartirán atendiendo el grado de estudios previos alcanzado por cada interno, su vocación, sus aptitudes, sus capacidades y el tratamiento determinado, previa valoración del Consejo General Interdisciplinario y a propuesta del encargado del área, sin más limitaciones que las impuestas por las condiciones materiales del Centro de Internamiento Especializado de que se trate y debiendo proporcionar además elementos que sean útiles para el desarrollo personal de los internos y la continuación de sus estudios, una vez en libertad;
+IV.- Las actividades del programa educativo se organizarán, planificarán e impartirán atendiendo al grado de estudios previos alcanzado por cada interno, su vocación, sus aptitudes, sus capacidades y el tratamiento determinado, previa valoración del Consejo Técnico Interdisciplinario y a propuesta del encargado del área, sin más limitaciones que las impuestas por las condiciones materiales del Centro de Internamiento Especializado de que se trate y debiendo proporcionar además, elementos que sean útiles para el desarrollo personal de los internos y la continuación de sus estudios, una vez en libertad;
 
 V.- En los Centros de Internamiento Especializados habrá por lo menos un profesor asignado por la Secretaría de Educación Pública del Estado, quien tendrá a su cargo la dirección y organización de la enseñanza y podrá designar auxiliares educativos entre los internos de mejor conducta y mayor capacidad, de acuerdo con su nivel de preparación escolar, cultural o deportiva, los cuales no podrán ostentar algún cargo dentro del área educativa;
 
@@ -2243,27 +2855,57 @@ VIII.- Los Centros de Internamiento Especializados, deberán fomentar entre los 
 
 IX.- El desarrollo de actividades del programa educativo deberá coordinarse con las demás que se lleven a efecto en cada Centro de Internamiento Especializado, a fin de favorecer el desarrollo integral de cada interno.
 
-###### Artículo 245.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO Y REUBICADO, P.O. 4 DE FEBRERO DE 2011)</small>
+
+###### Artículo 257.
 
 De acuerdo con las características específicas de la población de cada Centro de Internamiento Especializado, el Gobierno del Estado, por conducto de la Secretaría de Seguridad Pública, suscribirá convenios con las autoridades educativas, federales y estatales, así como con instituciones públicas y privadas, para promover la capacitación, adiestramiento o educación de los internos, al igual que el debido cumplimiento de las demás obligaciones prescritas en este Título.
 
-###### Artículo 246.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO Y REUBICADO, P.O. 4 DE FEBRERO DE 2011)</small>
+
+###### Artículo 258.
 
 La expedición de certificados, constancias o documentos que acrediten alguna actividad o servicio educativo o de capacitación, estará a cargo de la autoridad o institución correspondiente, en términos de las disposiciones vigentes en la materia, y en los mismos se hará mención sólo del nombre de la escuela o institución que los impartió o reconoció oficialmente, sin aludir al Centro de Internamiento Especializado en el que se cursó o recibió.
 
-###### Artículo 247.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
 
-El responsable del área educativa de cada Centro de Internamiento Especializado o, en su caso, el Director del mismo, deberá procurar que dentro de dicho Centro y de acuerdo a su infraestructura, se determine un sitio específico para los servicios educativos y culturales, mismo que deberá contar con los elementos mínimos para su desarrollo, incluida un área de biblioteca. Los encargados serán responsables de la supervisión y buen empleo de las aulas y equipos, así como de los materiales didácticos y bibliográficos, debiendo coordinarse para su mantenimiento con el área competente de la Secretaría de Seguridad Pública.
+> <small>(REFORMADO Y REUBICADO, P.O. 4 DE FEBRERO DE 2011)</small>
 
-###### Artículo 248.
+###### Artículo 259.
+
+El responsable del área educativa de cada Centro de Internamiento Especializado o, en su Caso, el Director del mismo, deberá procurar que dentro de dicho Centro y de acuerdo a su infraestructura, se determine un sitio especifico para los servicios educativos y culturales, mismo que deberá contar con los elementos mínimos para su desarrollo, incluida un área de biblioteca. Los encargados serán responsables de la supervisión y buen empleo de las aulas y equipos, así como de los materiales didácticos y bibliográficos, debiendo coordinarse para su mantenimiento con el área competente de la Secretaría de Seguridad Pública.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADA, P.O. 4 DE FEBRERO DE 2011)</small>
+
+#### Sección Cuarta: De la Salud
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO Y REUBICADO, P.O. 4 DE FEBRERO DE 2011)</small>
+
+###### Artículo 260.
 
 En cada Centro de Internamiento Especializado habrá un local apropiado para servicio médico, odontológico, ginecobstétrico y de enfermería, dotado suficientemente de camas, mobiliario, instrumental, cuadro de medicamentos básicos y demás productos farmacéuticos necesarios, para proporcionar a los internos la asistencia, los cuidados y el tratamiento adecuado, a través del personal adscrito por la Secretaría de Seguridad Pública y las autoridades sanitarias en el Estado.
 
-###### Artículo 249.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
 
-Los médicos adscritos al servicio médico de los Centros de Internamiento Especializados, cuidarán de la salud física y mental de los internos, debiendo visitar diariamente a los que estén enfermos, sin perjuicio de las disposiciones legales relativas a enfermos mentales, ni de la hospitalización de los internos en los casos en que, por falta de condiciones o elementos adecuados, no fuere posible atender su curación dentro del Centro. En caso de enfermedades transmisibles, los médicos y el personal que les auxilie, deberán dar cumplimiento a las disposiciones relativas de la legislación sanitaria, sin perjuicio de las medidas y cuidados que prescribe la sección siguiente.
+> <small>(REFORMADO Y REUBICADO, P.O. 4 DE FEBRERO DE 2011)</small>
 
-###### Artículo 250.
+###### Artículo 261.
+
+Los médicos adscritos al servicio médico de los Centros de Internamiento Especializados cuidarán de la salud física y mental de los internos, debiendo visitar diariamente a los que estén enfermos, sin perjuicio de las disposiciones legales relativas a enfermos mentales, ni de la hospitalización de los internos en los casos en que, por falta de condiciones o elementos adecuados, no fuere posible atender su curación dentro del Centro. En caso de enfermedades transmisibles, los médicos y el personal que les auxilie, deberán dar cumplimiento a las disposiciones relativas de la legislación sanitaria, sin perjuicio de las medidas y cuidados que prescribe la sección siguiente.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO Y REUBICADO, P.O. 4 DE FEBRERO DE 2011)</small>
+
+###### Artículo 262.
 
 Los médicos adscritos harán inspecciones regulares y asesorarán a los Directores de los respectivos Centros de Internamiento Especializados, sobre las siguientes cuestiones:
 
@@ -2273,83 +2915,131 @@ II.- Condiciones de higiene y salubridad del Centro y de los internos; y
 
 III.- Condiciones sanitarias en general.
 
-###### Artículo 251.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
 
-El Gobierno del Estado, en coordinación con las autoridades sanitarias y, en su caso, con la participación de organismos públicos y privados, autorizará medidas, tratamientos y cuidados especiales a los internos que sufran alguna enfermedad transmisible, crónico-degenerativa o mental, que padezcan farmacodependencia, que sufran algún trastorno psíquico en cualquier forma o grado, que requieran atención especializada o tengan alguna discapacidad, ya sea en el área médica y de enfermería del respectivo Centro de Internamiento Especializado o, cuando no puedan proporcionarse en éste, en instituciones hospitalarias y asistenciales de carácter público o, en casos de urgencia, de necesidad justificada por los internos o sus familiares o de fuerza mayor, en instituciones privadas a costa de los parientes del interno.
+> <small>(REFORMADO Y REUBICADO, P.O. 4 DE FEBRERO DE 2011)</small>
+
+###### Artículo 263.
+
+La autoridad administrativa competente, en coordinación con las autoridades sanitarias y, en su caso, con la participación de organismos públicos y privados, autorizará medidas, tratamientos y cuidados especiales a los internos que sufran alguna enfermedad transmisible, crónico-degenerativa o mental, que padezcan farmacodependencia, que sufran algún trastorno psíquico en cualquier forma o grado, que requieran atención especializada o tengan alguna discapacidad, ya sea en el área médica y de enfermería del respectivo Centro de Internamiento Especializado o, cuando no puedan proporcionarse en éste, en instituciones hospitalarias y asistenciales de carácter público o, en casos de urgencia, de necesidad justificada por los internos o sus familiares o de fuerza mayor, en instituciones privadas a costa de los parientes del interno.
 
 En los demás casos, los internos podrán solicitar a su costa los servicios médicos de profesionales ajenos a los Centros de Internamiento Especializados, excepto cuando por razones de seguridad deba limitarse este derecho. Estos servicios se prestarán invariablemente con la presencia del personal médico del Centro, en los términos y condiciones que apruebe el Director del mismo.
 
-###### Artículo 252.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO Y REUBICADO, P.O. 4 DE FEBRERO DE 2011)</small>
+
+###### Artículo 264.
 
 Además de los cuidados especiales que autorice a los internos, el Gobierno del Estado, en coordinación con las autoridades sanitarias, elaborará programas para controlar y erradicar aquellas enfermedades transmisibles o contagiosas que constituyen un problema real o potencial para la salud general de la población interna, que de manera enunciativa y no limitativa son las siguientes:
 
-I.- Cólera, gastroenteritis, amibiasis, hepatitis vírales u otras enfermedades del aparto digestivo;
+I.- Cólera, gastroenteritis, amibiasis, hepatitis virales u otras enfermedades del aparto (sic) digestivo;
 
 II.- Enfermedades respiratorias agudas y crónicas;
 
 III.- Tuberculosis pulmonar o renal;
 
-IV.- Difteria, tos ferina, tétanos, sarampión, poliomielitis, rubéola y parotiditis infecciosa;
+IV.- Difteria, tosferina, tétanos, sarampión, poliomielitis, rubéola y parotiditis infecciosa;
 
 V.- Rabia, brucelosis y otras zoonosis;
 
-VI.- Sífilis, infecciones gonocócicas y otras enfermedades de transmisión sexual; y
+VI.- Sífilis, infecciones gonocóccicas y otras enfermedades de transmisión sexual; y
 
 VII.- Síndrome de inmuno deficiencia adquirida.
 
-###### Artículo 253.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO Y REUBICADO, P.O. 4 DE FEBRERO DE 2011)</small>
+
+###### Artículo 265.
 
 Los Directores de cada Centro de Internamiento Especializado, en coordinación con las autoridades sanitarias, instituciones de salud y organizaciones públicas o civiles, y en términos de las disposiciones vigentes, realizarán acciones vinculadas a la elaboración, ejecución y consolidación de planes y programas sanitarios y de asistencia médica, para:
 
 I.- Atender y tratar enfermedades crónico-degenerativas que por su alta frecuencia representen un problema de salud pública, con el fin de prevenir o cuando menos retardar las complicaciones comúnmente asociadas a estas patologías;
 
-II.- Mejorar el manejo, observación, atención y tratamiento de los internos con antecedentes de consumo excesivo de alcohol, tabaco, psicotrópicos, estupefacientes y cualquier otra sustancia que cause adicción, con el fin de prevenir, erradicar o al menos disminuir sus efectos negativos en los ámbitos familiar, laboral, social, deportivo y educativo, con miras a la plena readaptación del interno;
+II.- Mejorar el manejo, observación, atención y tratamiento de los internos con antecedentes de consumo de alcohol, tabaco, psicotrópicos, estupefacientes y cualquier otra sustancia que cause adicción, con el fin de prevenir, erradicar o al menos disminuir sus efectos negativos en los ámbitos familiar, laboral, social, deportivo y educativo, con miras a la plena reinserción del interno;
 
 III.- Dar atención y tratamiento especial a los internos en estado de abandono o inválidos, así como a la población con discapacidades, en cuanto estas situaciones impidan su desarrollo integral o limiten la satisfacción de sus requerimientos básicos de subsistencia, en la forma o dentro del margen considerado normal para un ser humano, con el fin de promover su incorporación a una vida plena y productiva; y
 
 IV.- Proteger a los internos portadores del virus de inmuno deficiencia humana e instrumentar las medidas preventivas y de control adecuadas a las normas, que ayuden a evitar que aquéllos adquieran infecciones oportunistas a las que pudieran quedar expuestos.
 
-#### Sección Tercera: Capacitación para el Trabajo
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
 
-###### Artículo 254.
+> <small>(REFORMADO Y REUBICADO, P.O. 4 DE FEBRERO DE 2011)</small>
 
-Si de la práctica de los estudios necesarios, se determina que el interno está afectado por una enfermedad mental, el Director del respectivo Centro de Internamiento Especializado deberá ordenar las medidas necesarias para brindarle una estancia y atención adecuadas, en tanto que la autoridad a cuya disposición se encuentre resuelva lo conducente, pudiendo ordenar su internación en casas de salud especializadas para su tratamiento o entregar el sujeto a quienes legalmente corresponda hacerse cargo de él, si además de obligarse a tomar las medidas adecuadas para su tratamiento y vigilancia, asumen la responsabilidad ante terceros por los daños que pudiera ocasionar, garantizando legalmente y a satisfacción de la mencionada autoridad, el cumplimiento de las obligaciones contraídas.
+###### Artículo 266.
 
-La internación o custodia a que se refiere este artículo, podrá ser modificada o revocada por la autoridad que la hubiere ordenado, conforme a la evolución del enfermo mental, de acuerdo con los dictámenes de los especialistas, o por cualquier otra causa superviniente, pudiendo incluso ordenar su reingreso al respectivo Centro de Internamiento Especializado, en su caso, debiéndose computar el tiempo de detención en la casa de salud o internación y el que hubiere estado bajo custodia de quienes legalmente debieron hacerse cargo de ellos.
+Si de la práctica de los estudios necesarios, se determina que el interno está afectado por una enfermedad mental, el Director del respectivo Centro de Internamiento Especializado deberá ordenar las medidas necesarias para brindarle una estancia y atención adecuadas, en tanto que la autoridad judicial a cuya disposición se encuentre resuelve lo conducente, pudiendo ordenar su internación en casas de salud especializadas para su tratamiento o entregar el sujeto a quienes legalmente corresponda hacerse cargo de él, si además de obligarse a tomar las medidas adecuadas para su tratamiento y vigilancia, asumen la responsabilidad ante terceros por los daños que pudiera ocasionar, garantizando legalmente y a satisfacción de la mencionada autoridad, el cumplimiento de las obligaciones contraídas.
 
-En su caso, la medida de internamiento original que estuviere cumpliendo un interno afectado por una enfermedad mental, podrá ser modificada, suspendida o declarada extinta, mediante determinación del Ejecutivo, a través del Secretario de Gobernación, de acuerdo con lo previsto en este Código.
+La internación o custodia a que se refiere este artículo, podrá ser modificada o revocada por la autoridad judicial que la hubiere ordenado, conforme a la evolución del enfermo mental, de acuerdo con los dictámenes de los especialistas, o por cualquier otra causa superviniente, pudiendo incluso ordenar su reingreso al respectivo Centro de Internamiento Especializado, en su caso, debiéndose computar el tiempo de detención en la casa de salud o internación y el que hubiere estado bajo custodia de quienes legalmente debieron hacerse cargo de ellos.
 
-###### Artículo 255.
+En su caso, la medida de internamiento original que estuviere cumpliendo un interno afectado por una enfermedad mental, podrá ser modificada, suspendida o declarada extinta, mediante resolución del Juez de Ejecución, de acuerdo con lo previsto en este Código.
 
-Para efectos del presente Código, se considerará enfermo mental al interno con alteración en sus procesos mentales, así como en la sensopercepción, que será determinada por valoración psiquiátrica, emitida por al menos dos especialistas que designe el Consejo General Interdisciplinario.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
 
-#### Sección Séptima: Medidas y Atenciones Particulares
+> <small>(REFORMADO Y REUBICADO, P.O. 4 DE FEBRERO DE 2011)</small>
 
-###### Artículo 256.
+###### Artículo 267.
+
+Para efectos del presente Código, se considerará enfermo mental al interno con alteración en sus procesos mentales, así como en la sensopercepción, que será determinada por valoración psiquiátrica, emitida por al menos dos especialistas que designe la autoridad judicial, los cuales pueden ser integrantes del Consejo Técnico Interdisciplinario.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADA, P.O. 4 DE FEBRERO DE 2011)</small>
+
+#### Sección Quinta: Medidas y Atenciones Particulares
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO Y REUBICADO, P.O. 4 DE FEBRERO DE 2011)</small>
+
+###### Artículo 268.
 
 Será obligatorio para los internos su aseo personal, así como cuidar de la limpieza de su dormitorio y contribuir a la higiene del Centro de Internamiento Especializado.
 
-###### Artículo 257.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO Y REUBICADO, P.O. 4 DE FEBRERO DE 2011)</small>
+
+###### Artículo 269.
 
 El Estado garantizará la libertad religiosa de los internos y facilitará los medios para que puedan profesar sus creencias y practicar extraordinariamente los actos de culto que sean permisibles y compatibles con la seguridad del Centro de Internamiento Especializado, conforme a las disposiciones reglamentarias respectivas.
 
-###### Artículo 258.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
 
-Los internos tienen derecho a disponer de libros, periódicos o revistas de libre circulación en el exterior, con las limitaciones que en casos concretos aconsejen las exigencias del proceso de rehabilitación y el régimen disciplinario, previa resolución motivada del Consejo General Interdisciplinario. Asimismo, podrán informarse a través de audiciones radiofónicas, televisivas y otras análogas.
+> <small>(REFORMADO Y REUBICADO, P.O. 4 DE FEBRERO DE 2011)</small>
 
-###### Artículo 259.
+###### Artículo 270.
 
-Los actos que pongan de relieve buena conducta, espíritu de trabajo y sentido de responsabilidad en el comportamiento personal de los internos y en las actividades definidas para su rehabilitación, serán registrados, reconocidos y documentados mediante un sistema de estímulos y recompensas, conforme a las disposiciones reglamentarias de este Código. Todo estímulo o recompensa otorgado deberá constar y agregarse en el expediente personal del interno, a efecto de que sean considerados para el otorgamiento de los beneficios de libertad anticipada o sustitutivos penales solicitados, en su caso.
+Los internos tienen derecho a disponer de libros, periódicos o revistas de libre circulación en el exterior, con las limitaciones que en casos concretos aconsejen las exigencias del proceso de reinserción y el régimen disciplinario, previa resolución motivada del Consejo Técnico Interdisciplinario. Asimismo, podrán informarse a través de audiciones radiofónicas, televisivas y otras análogas.
 
-#### Sección Octava: Vinculación Social del Interno con el Exterior
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
 
-#### Sección Cuarta: Servicios Educativos
+> <small>(REFORMADO Y REUBICADO, P.O. 4 DE FEBRERO DE 2011)</small>
 
-###### Artículo 260.
+###### Artículo 271.
 
-Para efectos de este ordenamiento, se entenderá por vinculación social del interno con el exterior, toda aquella interacción que mantenga con familiares, terceras personas y grupos de apoyo que favorezcan su desarrollo humano y rehabilitación, siendo obligación del Estado procurar que en cada Centro de Internamiento Especializado se observe lo establecido por este Código y sus disposiciones reglamentarias, en materia de comunicaciones y visitas, con el fin de conservar, fortalecer y, en su caso, restablecer las relaciones familiares y de amistad convenientes para cada interno.
+Los actos que pongan de relieve buena conducta, espíritu de trabajo y sentido de responsabilidad en el comportamiento personal de los internos y en las actividades definidas para su reinserción, serán registrados, reconocidos y documentados mediante un sistema de estímulos y recompensas, conforme a las disposiciones reglamentarias de este Código. Todo estímulo o recompensa otorgado deberá constar y agregarse en el expediente personal del interno, a efecto de que sean considerados para el otorgamiento de los beneficios de libertad anticipada o sustitutivos penales solicitados, en su caso.
 
-###### Artículo 261.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADA, P.O. 4 DE FEBRERO DE 2011)</small>
+
+#### Sección Sexta: Vinculación Social del Interno con el Exterior
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO Y REUBICADO, P.O. 4 DE FEBRERO DE 2011)</small>
+
+###### Artículo 272.
+
+Para efectos de este ordenamiento, se entenderá por vinculación social del interno con el exterior, toda aquella interacción que mantenga con familiares, terceras personas y grupos de apoyo que favorezcan su desarrollo humano y re inserción, siendo obligación del Estado procurar que en cada Centro de Internamiento Especializado se observe lo establecido por este Código y sus disposiciones reglamentarias, en materia de comunicaciones y visitas, con el fin de conservar, fortalecer y, en su caso, restablecer las relaciones familiares y de amistad convenientes para cada interno.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO Y REUBICADO, P.O. 4 DE FEBRERO DE 2011)</small>
+
+###### Artículo 273.
 
 El área de trabajo social de cada Centro de Internamiento Especializado, por conducto de su titular y de los trabajadores sociales adscritos al mismo, tendrá las siguientes obligaciones:
 
@@ -2357,35 +3047,43 @@ I.- Auxiliar y orientar al interno, desde el primer momento de su ingreso y dura
 
 II.- Si el interno es de origen indígena, facilitarle un intérprete de su lengua para que pueda ser escuchado y atendido en sus necesidades por el trabajador social asignado;
 
-III.- Diseñar los procedimientos de visita a los internos y someterlos a la aprobación del Consejo General Interdisciplinario;
+III.- Diseñar los procedimientos de visita a los internos y someterlos a la aprobación del Consejo Técnico Interdisciplinario;
 
 IV.- Proponer la frecuencia y los horarios de las visitas familiares, íntimas y amistosas que se considere conveniente que el interno reciba a partir de su formal internamiento y previo estudio de la personalidad de aquél, de acuerdo con los procedimientos de visita aprobados; y
 
 V.- Detectar los problemas o dificultades que se presenten en las relaciones familiares y sociales del interno, a efecto de crear los programas de orientación que favorezcan la vida en internamiento y su preparación para el exterior.
 
-###### Artículo 262.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO Y REUBICADO, P.O. 4 DE FEBRERO DE 2011)</small>
+
+###### Artículo 274.
 
 Son aplicables a las comunicaciones del interno las siguientes disposiciones:
 
-I.- Los internos podrán comunicarse periódicamente, de forma oral o escrita, con sus familiares, amigos, defensores o representantes acreditados de organismos e instituciones de derechos humanos y asistencia privada o social, salvo en los casos debidamente fundados y motivados que decrete la autoridad competente;
+I.- Los internos podrán comunicarse periódicamente, de forma oral o escrita, con sus familiares, amigos, defensores o representantes acreditados de organismos e instituciones de derechos humanos y asistencia privada o social, salvo en los casos debidamente fundados y motivados que decrete la autoridad judicial;
 
 II.- En las comunicaciones de los internos se respetará al máximo la intimidad y no tendrán más restricciones, en cuanto a las personas y al modo, que las impuestas por razones de seguridad, interés general u orden interno del Centro de Internamiento Especializado;
 
-III.- Las comunicaciones verbales de los internos-con sus defensores se realizarán en espacios apropiados y no podrán ser suspendidas o intervenidas;
+III.- Las comunicaciones verbales de los internos con sus defensores se realizarán en espacios apropiados y no podrán ser suspendidas o intervenidas;
 
 IV.- En los mismos espacios los internos podrán comunicarse con profesionales acreditados en lo relacionado con su actividad, con los trabajadores sociales y con sacerdotes, pastores o ministros de su religión, cuya presencia haya sido solicitada previamente;
 
 V.- Todo interno tiene derecho a comunicar a su familia y defensor su detención, así como su traslado a otro Centro de Internamiento Especializado, inmediatamente después de ingresar al mismo; y
 
-VI.- Las comunicaciones previstas en este artículo podrán efectuarse telefónicamente en los casos y con las garantías que se determinen en las disposiciones reglamentarias.
+VI.- Las comunicaciones previstas en este artículo, podrán efectuarse telefónicamente en los casos y con las garantías que se determinen en las disposiciones reglamentarias.
 
-###### Artículo 263.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
 
-Las visitas a los internos se autorizarán y precisarán considerando los derechos de defensa y el proceso de rehabilitación de los internos, y se regirán además por las siguientes disposiciones:
+> <small>(REFORMADO Y REUBICADO, P.O. 4 DE FEBRERO DE 2011)</small>
 
-I.- Los Centros de Internamiento Especializados dispondrán de espacios y locales especialmente adecuados para las visitas íntimas, familiares y de terceros;
+###### Artículo 275.
 
-II.- Podrán visitar a los internos además de sus familiares, cónyuges o concubinos, amistades, defensores, funcionarios públicos, representantes acreditados de organismos e instituciones de derechos humanos y asistencia privada o social y terceros autorizados por el Director del Centro de Internamiento Especializado;
+Las visitas a los internos se autorizarán y precisarán considerando los derechos de defensa y el proceso de reinserción de los internos, y se regirán además por las siguientes disposiciones:
+
+I.- Los Centros de Internamiento Especializados dispondrán de espacios y locales especialmente adecuados para las visitas íntimas; familiares y de terceros;
+
+II.- Podrán visitar a los internos además de sus familiares, cónyuges o concubinos, amistades, defensores, funcionarios públicos; representantes acreditados de organismos e instituciones de derechos humanos y asistencia privada o social y terceros autorizados por el Director del Centro de Internamiento Especializado;
 
 III.- Las visitas familiares y de amistades deben tener como finalidad conservar, fortalecer y, en su caso, restablecer las relaciones familiares y de afecto convenientes para cada interno;
 
@@ -2393,325 +3091,107 @@ IV.- En su caso, la visita íntima tendrá como finalidad el fortalecimiento de 
 
 V.- Todo tipo de visitas e introducción de vehículos, objetos y alimentos a los Centros de Internamiento Especializados, se concederán en los términos, condiciones, requisitos, horarios, medidas de seguridad y periodicidad que se determinen en términos de este Código y de las disposiciones reglamentarias del mismo, quedando estrictamente prohibida la imposición de requisitos o condiciones humillantes y cualquier procedimiento vejatorio de los visitantes;
 
-VI.- A fin de resguardar la seguridad del Centro de Internamiento Especializado y mantener un adecuado control y registro de todas las visitas que reciban los internos, cada persona que sea autorizada como visitante deberá someterse a un procedimiento de identificación, revisión y registro a cargo de personal del mismo sexo, en el que se respeten su dignidad y los derechos humanos que les asistan, así como observar las demás condiciones de ingreso, incluyendo la obligación de portar en forma visible el documento idóneo de identificación que se les expida; y
+VI.- A fin de resguardar la seguridad del Centro de Internamiento Especializado y mantener un adecuado control y registro de todas las visitas que reciban los internos, cada persona que sea autorizada como visitante· deberá someterse a un procedimiento de identificación, revisión y registro a cargo de personal del mismo sexo, en el que se respeten su dignidad y los derechos humanos que les asistan, así como observar las demás condiciones de ingreso, incluyendo la obligación de portar en forma visible el documento idóneo de identificación que se les expida; y
 
-VII.- El Director del Centro de Internamiento Especializado podrá ordenar la suspensión de visitas, excepto las de los defensores, por mandato de autoridad competente o medida impuesta conforme a este Código, por razones de seguridad interna o cuando el Consejo General Interdisciplinario dictamine que no son compatibles con el proceso de rehabilitación del interno.
+VII.- El Director del Centro de Internamiento Especializado podrá ordenar la suspensión de visitas, excepto las de los defensores, por mandato de autoridad competente o medida impuesta conforme a este Código, por razones de seguridad interna o cuando el Consejo Técnico Interdisciplinario dictamine que no son compatibles con el proceso de reinserción del interno.
 
-###### Artículo 264.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
 
-En los casos de defunción, enfermedad o accidente grave del interno, el Director del Centro de Internamiento Especializado informará al familiar más próximo, a la persona designada por aquél o a falta de ambos, a su defensor o a las personas autorizadas para mantener visita. Igualmente se informará al interno, cuando se tome conocimiento del fallecimiento, enfermedad o accidente grave de un pariente próximo o de persona íntimamente vinculada con aquél, proporcionando el apoyo psicológico y terapéutico necesario para revertir los efectos negativos de la noticia en su tratamiento y rehabilitación.
-
-###### Artículo 265.
-
-Se podrán conceder permisos de salida al interno con las medidas de seguridad adecuadas, en el caso de fallecimiento o enfermedad grave de su cónyuge, concubino o pareja permanente, o de alguno de sus padres, hermanos e hijos, así como por importantes y comprobados motivos, previa autorización de la Dirección de Ejecución de Medidas y con la aprobación de la autoridad judicial competente en el caso de personas sujetas a procedimiento, salvo que concurran circunstancias fundadas o excepcionales que lo impidan.
-
-###### Artículo 266.
-
-Para elaborar, organizar, promover, difundir, desarrollar y controlar programas y acciones que, a través del empleo, favorezcan la efectiva reinserción social de quienes sean liberados por haber cumplido sus medidas de internamiento o recibido algún beneficio de libertad anticipada o sustitutivo de la medida, el Estado, de acuerdo con sus posibilidades y recursos, podrá vincular a los liberados con programas públicos y privados de asistencia posinternamiento y reinserción social, en forma gratuita y expedita, en los que se consideren sus habilidades y destrezas particulares y se les proporcionen elementos para llevar una vida productiva. Para tal efecto, las autoridades competentes procurarán la ayuda material, así como la asistencia técnica y moral, de otras dependencias y entidades gubernamentales, de instituciones públicas y privadas, de profesionistas y demás particulares, para ofrecer servicios de colocación, capacitación, adiestramiento, asistencia jurídica e incluso económica cuando el caso lo amerite, junto con los demás que estime pertinentes.
-
-###### Artículo 267.
-
-Compete al Ejecutivo ordenar las gestiones necesarias, dar seguimiento, llevar el control y ejercer la vigilancia, para que los procedimientos establecidos en este Capítulo se cumplan.
-
-#### Sección Quinta: Asistencia Médica
-
-###### Artículo 268.
-
-Los procedimientos para la concesión, modificación, suspensión o revocación de algún beneficio de libertad anticipada, se iniciarán de oficio o a petición de parte. En este último caso, el interno podrá hacerlo por sí o a través de su representante, su defensor, un familiar o cualquier otra persona de su confianza autorizada para tal efecto, mediante solicitud por escrito a la que acompañe los elementos requeridos legalmente para su procedencia y que se presente ante la Dirección de Ejecución de Medidas.
-
-###### Artículo 269.
-
-Con motivo del inicio de los procedimientos a que se refiere el artículo anterior, la Dirección de Ejecución de Medidas deberá recabar los dictámenes, estudios, informes, promociones, constancias, pruebas y demás elementos de convicción necesarios para acreditar el cumplimiento de los respectivos requisitos legales, mismos que se integrarán al expediente único del interno integrado en dos apartados que contendrán: en el primero, todos los documentos de naturaleza jurídica y en el segundo, los de carácter técnico.
-
-###### Artículo 270.
-
-Aquellas peticiones que sean notoriamente improcedentes, serán desechadas y notificadas de inmediato al promovente, por la Dirección de Ejecución de Medidas.
-
-###### Artículo 271.
-
-Son aplicables a los procedimientos para la concesión, modificación, suspensión o revocación de algún beneficio de libertad anticipada, los términos siguientes:
-
-I.- Concluido el estudio integral de personalidad respectivo, la Dirección de Ejecución de Medidas deberá integrar el expediente único y turnarlo al Consejo General Interdisciplinario, dentro de los quince días hábiles siguientes a aquél en que se ordene el inicio del procedimiento, admita la solicitud respectiva o se reúnan las cuatro primeras fases del tratamiento preliberacional, según proceda;
-
-II.- El Consejo General Interdisciplinario deberá emitir sus dictámenes, proposiciones u opiniones dentro del plazo de diez días hábiles, contados a partir del día siguiente a aquél en que se cuente con todos los elementos necesarios para ello;
-
-III.- De ser favorable el dictamen, proposición u opinión a que se refiere la fracción anterior, tratándose de libertad preparatoria el mismo Consejo General lnterdisciplinario fijará la garantía o caución que deberá otorgar el aspirante para asegurar su presentación ante la autoridad ejecutora, previo estudio socioeconómico;
-
-IV.- Recibidos los dictámenes, proposiciones u opiniones del Consejo General Indeterdisciplinario y la fijación de la garantía en su caso, la Dirección de Ejecución de Medidas dispondrá de un plazo no mayor de cinco días hábiles que correrán a partir del día siguiente, para someterlos junto con el proyecto de resolución correspondiente, a la consideración del Secretario de Gobernación para que resuelva y ordene lo conducente dentro de un término no mayor a diez días hábiles contados a partir del día siguiente a aquél en que reciba el proyecto de resolución acompañado del expediente respectivo, resolución que surtirá sus efectos desde el mismo momento en que se notifique al interno o promovente;
-
-V.- Los términos antes establecidos podrán ampliarse por causa debidamente justificada, pero en ningún caso dicha ampliación será mayor a los términos antes señalados, respectivamente;
-
-VI.- En ningún caso se negará al interno el disfrute de algún beneficio de libertad anticipada, cuando por la evolución favorable de su proceso de rehabilitación, la expedición de dictámenes aprobatorio s que validen aquélla y la satisfacción de los demás requisitos y condiciones previstas para su otorgamiento por este Código, se haga merecedor de él;
-
-VII.- Tanto el Consejo General Interdisciplinario como el Secretario de Gobernación, deberán considerar la habitualidad en la realización de conductas tipificadas como delitos, como factor determinante para negar la concesión del beneficio solicitado;
-
-VIII.- Una vez emitida resolución favorable por el Secretario de Gobernación, la Dirección de Ejecución de Medidas dispondrá del término de tres días hábiles, contados a partir del día siguiente de su recepción, para notificada al beneficiado y al fiador moral, en su caso;
-
-IX.- Una vez concedido el beneficio y previa acreditación de la garantía o caución fijada mediante la presentación del comprobante respectivo ante la Dirección de Ejecución de Medidas, en su caso, la Secretaría de Seguridad Pública suspenderá la medida de internamiento y materializará el beneficio otorgado, entregando en el mismo acto un instructivo que contenga las obligaciones que ha de observar el beneficiado y en el que se señalarán el lugar y días en que deberá presentarse para tratamiento, vigilancia o internamiento; y
-
-X.- En caso de ser negativa la resolución, de igual forma será notificado el acuerdo al interno y para su revalorización tendrá que transcurrir un nuevo plazo, que en todo caso no podrá ser inferior a tres meses ni mayor a un año.
-
-#### Sección Sexta: Cuidados Especiales
-
-###### Artículo 272.
-
-Para revocar, modificar o suspender algún beneficio concedido, se llevará a cabo el siguiente procedimiento:
-
-I.- Tratándose de incumplimiento a cualquier obligación que este Código imponga al beneficiado:
-
-a) Una vez que la Dirección de Ejecución de Medidas cuente con las constancias que acrediten que el beneficiado ha incumplido con las obligaciones que contrajo con motivo de la medida concedida, se hará la propuesta directamente al Secretario de Gobernación, a efecto de que resuelva la revocación o modificación del beneficio;
-
-b) Recaído el acuerdo de revocación o modificación, la Dirección de Ejecución de Medidas solicitará el apoyo de las autoridades competentes para reinternar al incumplido, en su caso, quien continuará cumpliendo el resto de la medida y se considerará suspendido el goce del beneficio a partir del día en que se dicte el acuerdo.
-
-II.- Para el caso en que se sujete al beneficiado a procedimiento por la realización de una nueva conducta tipificada como delito que amerite internamiento o se le imponga dicha medida mediante resolución ejecutoriada:
-
-a) Una vez que la Dirección de Ejecución de Medidas cuente con las constancias judiciales, se hará la propuesta directamente al Secretario de Gobernación, a efecto de que ordene la suspensión del beneficio a partir del primer día en que el beneficiado guarde internamiento preventivo.
-
-b) Con el acuerdo que modifique el tratamiento, se hará el señalamiento jurídico para la revocación oficiosa del beneficio y la ejecución del resto de la medida en caso de que se dicte una nueva resolución definitiva al beneficiado que determine su internamiento, la cual comenzará a computarse una vez que haya compurgado esta nueva resolución.
-
-III.- En ambos casos se hará efectiva la garantía exhibida por el otorgamiento del beneficio de libertad preparatoria, la cual se incorporará al patrimonio del Fondo para la Protección a Víctimas de Delitos.
-
-#### Sección Segunda: Beneficios de Libertad Anticipada
-
-###### Artículo 273.
-
-El tratamiento preliberacional, la libertad preparatoria y la remisión parcial de la medida, son beneficios de libertad anticipada otorgados por el Ejecutivo del Estado y por los que se modifica o suspende la medida de internamiento impuesta, cuyo objeto es reintegrar social y familiarmente al interno antes del plazo fijado para la extinción de esta medida, siempre y cuando reúna los requisitos establecidos legalmente para cada modalidad, no exista prohibición o impedimento legal expresos para su tramitación, se demuestre fehacientemente que el tratamiento proporcionado ha contribuido a su adaptación y, al valorar objetivamente su vinculación con el exterior y su estado de rehabilitación, la autoridad ejecutora lo considere apto para reincorporarse al exterior.
-
-###### Artículo 274.
-
-Para que un interno pueda solicitar cualquiera de los beneficios de libertad anticipada y someterse al tratamiento que determine el Consejo General Interdisciplinario en caso de que proceda su solicitud, deberá reunir los requisitos previos que para su otorgamiento establecen los artículos 109, 110, 111 ó 122 del Código de Defensa Social para el Estado, en lo conducente, y los que el presente Código especifique.
-
-###### Artículo 275.
-
-Para el otorgamiento de los beneficios de remisión parcial de la medida y libertad preparatoria, será necesario que el Consejo General Interdisciplinario practique los estudios y evaluaciones correspondientes y que, en caso de acordar su procedencia, tramite ante el Secretario de Gobernación lo solicitado, por conducto de la Dirección de Ejecución de Medidas.
+> <small>(REFORMADO Y REUBICADO, P.O. 4 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 276.
 
-Para efectos de este Libro, los estudios, análisis y evaluaciones que se realicen para resolver si un interno está socialmente rehabilitado, podrán considerarse la reincidencia y la habitualidad como factores determinantes para admitir o negar su efectividad.
+En los casos de defunción, enfermedad o accidente grave del interno, el Director del Centro de Internamiento Especializado informará al familiar más próximo, a la persona designada por aquél o a falta de ambos, a su defensor o a las personas autorizadas para mantener visita. Igualmente se informará al interno, cuando se tome conocimiento del fallecimiento, enfermedad o accidente grave de un pariente próximo o de persona íntimamente vinculada con aquél, proporcionando el apoyo psicológico y terapéutico necesario para revertir los electos negativos de la noticia en su tratamiento y reinserción.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO Y REUBICADO, P.O. 4 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 277.
 
-Los internos que obtengan los beneficios de tratamiento preliberacional y de libertad preparatoria a que se refiere este Código, estarán obligados a:
+Se podrán conceder permisos de salida al interno con las medidas de seguridad adecuadas, en el caso de fallecimiento o enfermedad grave de su cónyuge o concubino, o de alguno de sus padres, hermanos e hijos, previa autorización de la autoridad judicial competente, salvo que concurran circunstancias fundadas o excepcionales que lo impidan.
 
-I.- Realizar sus presentaciones personalmente y de manera semanal, quincenal o mensual, según determine la autoridad ejecutora, durante el tiempo que les reste por cumplir la medida de internamiento impuesta, para demostrar el cumplimiento de las obligaciones de este artículo y de las demás condiciones que señale la ley;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
 
-II.- en los casos de tratamiento preliberacional, someterse al tratamiento técnico que determine el Consejo General Interdisciplinario y a las medidas de orientación, protección, tratamiento y supervisión que se le dicten;
-
-III.- Consentir que la autoridad ejecutora vigile su ubicación y supervise su comportamiento por conducto de las áreas técnicas correspondientes, así como acudir ante ella cuando y tantas veces sean requeridos, para lo cual se tomarán en cuenta los horarios de trabajo o estudio de los beneficiados;
-
-IV.- No ausentarse de su lugar de residencia, sin autorización de la autoridad ejecutora;
-
-V.- Notificar previamente a la Dirección de ejecución de Medidas, cualquier cambio de domicilio;
-
-VI.- Desempeñar oficio, arte, trabajo, industria o profesión lícitos, o en su defecto, integrarse a un programa de educación, capacitación para el trabajo o formación profesional;
-
-VII.- No incurrir en faltas de carácter administrativo ni en la comisión de algún delito;
-
-VIII.- Abstenerse del abuso en el consumo de bebidas embriagantes, de usar o consumir psicotrópicos, estupefacientes, enervantes o sustancias que produzcan efectos similares, sin prescripción médica, o de reincidir en alguna adicción diagnosticada previamente;
-
-IX.-Reintegrarse a su núcleo familiar, en su caso; y
-
-X.- Observar buena conducta en general y de forma permanente.
+> <small>(REFORMADO Y REUBICADO, P.O. 4 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 278.
 
-El tratamiento preliberacional consiste en la preparación del interno por etapas, tendientes a retornarlo a su vida en libertad a través de la asistencia de orientaciones que le conduzcan a una integración sana y armónica con su familia y la sociedad; para ello y en términos de las disposiciones reglamentarias y de los lineamientos determinados por el consejo General Interdisciplinario, cada interno podrá sujetarse a un método gradual de aplicación de las medidas y tratamientos que se consideren más adecuados para su rehabilitación, mismas que se comprenderán dentro de las siguientes fases:
+Para elaborar, organizar, promover, difundir, desarrollar y controlar programas y acciones Que, a través del empleo, favorezcan la efectiva reinserción social de quienes sean liberados por haber cumplido sus medidas de internamiento o recibido algún beneficio de libertad anticipada o sustitutivo de la medida, el Estado, de acuerdo con sus posibilidades y recursos, podrá vincular a los liberados con programas públicos y privados de asistencia postinternamiento (sic) y reinserción social, en forma gratuita y expedita, en los que se consideren sus habilidades y destrezas particulares y se les proporcionen elementos para llevar una vida productiva. Para tal efecto, las autoridades competentes procurarán la ayuda material, así como la asistencia técnica y moral, de otras dependencias y entidades gubernamentales, de instituciones públicas y privadas, de profesionistas y demás particulares, para ofrecer servicios de colocación, capacitación, adiestramiento, asistencia jurídica e incluso económica cuando el caso lo amerite, junto con los demás que estime pertinentes.
 
-I.- Información y orientación especiales; preparación del interno y su familia, en forma grupal o individual, acerca de los efectos del beneficio, y discusión con ellos de los aspectos personales y prácticos de la vida del interno en libertad;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
 
-II.- Preparación del interno respecto de su corresponsabilidad social;
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2011)</small>
 
-III.- Métodos colectivos, como desarrollo de actividades con fines culturales o recreativos dentro del Centro de Internamiento Especializado o la concesión de visitas guiadas y supervisadas por el personal técnico o salidas grupales, con los mismos fines;
+### CAPÍTULO VI (SIC). AUDIENCIA ORAL ANTE EL JUEZ DE EJECUCIÓN RELATIVA A LA LIBERTAD ANTICIPADA, SUSTITUCIÓN, MODIFICACIÓN, SUSPENSIÓN O EXTINCIÓN DE MEDIDAS
 
-IV.- Concesión de mayor libertad dentro del Centro de Internamiento; y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
 
-V.- Permiso de salidas los sábados y domingos o diaria con internamiento nocturno y presentaciones periódicas para tratamiento técnico, o bien, de salidas en días hábiles para trabajar o estudiar, con internamiento de fin de semana y días inhábiles. El internamiento y las presentaciones a que se refiere esta fracción, serán obligatorios y se realizarán en el lugar y bajo las condiciones que determine la Dirección de Ejecución de Medidas, pudiendo ser éste el Centro de Internamiento Especializado más cercano a su domicilio o al domicilio de su trabajo o centro educativo, o las instalaciones de la mencionada Dirección de Ejecución de Medidas, tratándose de presentaciones.
-
-### CAPÍTULO VI. DEL RECURSO ADMINISTRATIVO DE REVISIÓN
+> <small>(REFORMADO Y REUBICADO, P.O. 4 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 279.
 
-Para que pueda iniciarse el tratamiento preliberacional, además de que el sentenciado deberá haber compurgado efectivamente la mitad de la medida de internamiento impuesta, tratándose de delitos previstos en los artículos 69 incisos C, F, H, I, J, K, L, y M del código de Procedimientos en Materia de Defensa Social para el Estado y 162 de este Código en su parte correlativa, y una tercera parte de la misma en los demás casos, también deberá cumplir con los siguientes requisitos:
+La solicitud relativa a la libertad anticipada, modificación, conmutación, sustitución o extinción de las medidas, podrá ser presentada al Juez de Ejecución por el adolescente, su defensor, los padres del adolescente, el representante legal o persona de confianza.
 
-I.- Observar buena conducta;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
 
-II.- Participar regularmente en las actividades educativas, recreativas, culturales y deportivas, que se organicen en el Centro en el que esté interno;
-
-III.- Que en los estudios y valoraciones practicados por el consejo General Interdisciplinario, conste que ha respondido favorablemente al tratamiento practicado y presenta signos objetivos de que está rehabilitado o que lo hacen apto para iniciar su reincorporación al exterior;
-
-IV.- En caso de haber sido condenado a la reparación del daño, que ésta se haya cubierto o garantizado;
-
-V.- No ser reincidente; y
-
-VI.- que no le haya sido suspendido o revocado algún beneficio de libertad anticipada, concedido con anterioridad.
+> <small>(REFORMADO Y REUBICADO, P.O. 4 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 280.
 
-El tratamiento preliberacional debe ser modificado por la Secretaría de Gobernación, suspendiéndose las salidas permitidas y ordenándose la reinternación en su caso, si el preliberado no cumple con las obligaciones que le impone el presente Código o se le sujeta a procedimiento por la realización de una nueva conducta tipificada como delito, que amerite internamiento.
+La respectiva audiencia oral se realizará a más tardar en quince días naturales a partir de la petición y será privada.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO Y REUBICADO, P.O. 4 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 281.
 
-La libertad preparatoria es un beneficio concedido por el Ejecutivo del Estado, a través de la secretaría de Gobernación, en virtud del cual se suspende la medida de internamiento impuesta al beneficiado, para que se reintegre al medio exterior, luego de presentar signos objetivos de que está rehabilitado y en condiciones de no volver a realizar conductas antisociales, sin que dicho otorgamiento implique la extinción de las medidas que le fueron impuestas debiéndose sujetar a la vigilancia de la Dirección de Ejecución de Medidas durante el plazo restante del internamiento impuesto, mismo que quedará extinguido si dicho término transcurre sin que la libertad preparatoria haya sido revocada.
+La audiencia oral deberá ser presidida por el Juez de Ejecución y concurren obligatoriamente al adolescente, su defensor, el Ministerio Público; también podrán acudir los padres del adolescente, el representante legal, personas de confianza y el agraviado o su representante.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO Y REUBICADO, P.O. 4 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 282.
 
-El interno propuesto para el beneficio de libertad preparatoria, además de haber cumplido al menos las cuatro primeras fases del tratamiento preliberacional y satisfacer los requisitos que exige el artículo 111 del código de defensa social para el Estado, en su caso, deberá reunir las siguientes condiciones:
+Las partes podrán ofrecer los elementos probatorios que consideren pertinentes para sustentar su solicitud relativa a la libertad anticipada, modificación, conmutación, sustitución o extinción de las medidas.
 
-I.- Haber participado regular y positivamente en las actividades educativas, recreativas, culturales y deportivas, organizadas en el Centro en el que esté interno;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
 
-II.- No ser reincidente;
-
-III.- Que no le haya sido suspendido o revocado algún beneficio de libertad anticipada, concedido con anterioridad;
-
-IV.- Acreditar el lugar en que residirá en caso de resultar beneficiado;
-
-V.- Proponer a una persona conocida, honrada y solvente como fiador moral, misma que será valorada para el desempeño de este cargo por el Consejo General Interdisciplinario y cuya función, en caso de ser aprobada será garantizar que el preliberado guarde una conducta social adecuada y cumpla con cada una de las presentaciones que le requiera la autoridad ejecutora.;
-
-VI.- Comprometerse por escrito y bajo protesta de decir verdad, junto con su fiador moral, a que guardará una conducta social adecuada y cumplirá con todas las obligaciones que le imponga el presente Código; y
-
-VII.- Exhibir comprobante emitido por la Secretaría de Finanzas y Administración del Estado, en el que conste la recepción de la garantía o caución fijada por el Consejo General Interdisciplinario, previo estudio socioeconómico practicado para ese fin, y otorgada por el preliberado conforme a la fracción IV del artículo 111 del Código de Defensa Social para el Estado, la cual se hará efectiva en caso de revocación del beneficio.
+> <small>(REFORMADO Y REUBICADO, P.O. 4 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 283.
 
-La libertad preparatoria puede ser revocada por el Ejecutivo del Estado, a través de la Secretaría de Gobernación, cuando el beneficiado no cumpla con las obligaciones y condiciones que le impone el presente Código o sea internado por la realización de una nueva conducta tipificada como delito mediante resolución ejecutoria, si a la fecha de su detención no se ha extinguido la medida por la cual se le concedió el beneficio, en el entendido de que los hechos que originen los nuevos procedimientos a que se refiere este artículo interrumpen los plazos para extinguir la medida.
+El Juez de Ejecución se apoyará en el contenido del expediente administrativo que da seguimiento al Plan Individualizado de Ejecución del solicitante y en la opinión del Consejo Técnico Interdisciplinario respectivo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO Y REUBICADO, P.O. 4 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 284.
 
-El otorgamiento del beneficio de remisión parcial de la medida compete a la Secretaria de Gobernación, funciona de manera independiente de los otros beneficios, consiste en redimir un día de internamiento por cada dos días que trabaje el interno propuesto a tal beneficio y extingue las demás medidas impuestas, salvo la reparación del daño y el decomiso, siempre que además de satisfacer las condiciones que impone el artículo 109 del Código de Defensa Social para el Estado Libre y Soberano de Puebla, en lo conducente, cumpla también con los siguientes requisitos:
+El Juez de Ejecución recibirá las pruebas y desahogadas éstas, escuchará a las partes y resolverá en la misma audiencia.
 
-I.- Además de las actividades educativas, haber participado regularmente en las actividades recreativas, culturales y deportivas, organizadas en el Centro en el que esté interno;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
 
-II.- No ser reincidente;
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2011)</small>
 
-III.- Que no le haya sido suspendido o revocado algún beneficio de libertad anticipada, concedido con anterioridad; y
+### CAPÍTULO VII. DEL RÉGIMEN DISCIPLINARIO Y FALTAS ADMINISTRATIVAS
 
-IV.- En caso de haber sido condenado a la reparación del daño, que ésta se haya cubierto o garantizado debidamente.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
 
-A falta de oportunidades de ocupación laboral en el Centro de Internamiento Especializado, la asistencia del interno a los cursos educativos y de capacitación para el trabajo que en el mismo se impartan, será tomada en cuenta de igual manera para los efectos que señala este artículo.
-
-Las remisiones parciales que se concedan no serán revocables.
-
-#### Sección Tercera: Conmutación de Medidas Privativas de la Libertad
+> <small>(REFORMADO Y REUBICADO, P.O. 4 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 285.
 
-El Ejecutivo del Estado podrá autorizar la conmutación de medidas de internamiento por multa o trabajo a favor de la comunidad, después de impuestas en resolución ejecutoria, siempre y cuando el interno haya compurgado la mitad de la medida y demostrado buenos antecedentes personales. Además de estas condiciones, sólo procederá la conmutación por multa o trabajo a favor de la comunidad, si el internamiento no excede de dos años y es la primera vez que el interno incurre en alguna conducta tipificada como delito; o sólo por multa, si la medida rebasa los dos años, pero no excede de cinco.
-
-###### Artículo 286.
-
-Satisfechas las condiciones del artículo anterior para la conmutación de medidas por el Ejecutivo del Estado, se procederá en los siguientes términos:
-
-I.- El sustitutivo deberá ser solicitado a la Dirección de Ejecución de Medidas, la cual pedirá al Consejo General Interdisciplinario que emita dentro de los siguientes diez días hábiles el dictamen respectivo, previa práctica de los estudios necesarios;
-
-II.- El titular de la Dirección de Ejecución analizará el dictamen emitido y, de considerarlo procedente, lo remitirá junto con el expediente único al Secretario de Gobernación, para que resuelva facultativamente y en definitiva, si autoriza o niega el sustitutivo;
-
-III.- De considerar que la propuesta contenida en el dictamen no reúne los requisitos establecidos en este Código, éste será devuelto mediante resolución que señale las causas de improcedencia;
-
-IV.- Recibido el acuerdo que autorice o niegue la conmutación, éste será notificado al interno en un término que no exceda de cinco días hábiles;
-
-V.- En caso de que se autorice conmutar la medida de internamiento por multa, ésta se concederá y fijará en los mismos términos previstos por el Código de Defensa Social para el Estado Libre y Soberano de Puebla para la conmutación de sanciones;
-
-VI.- Al notificarse la resolución que conceda y fije la conmutación por multa, se le entregará al interesado la orden de pago correspondiente para que, luego de ser exhibidas ante la Dirección de Ejecución de Medidas las constancias de liquidación del sustitutivo y de la multa que en su caso se le hubiere impuesto judicialmente y la reparación del daño, se proceda a ordenar la inmediata liberación del interno, declarando extinguida la medida conmutada;
-
-VII.- Si la medida de internamiento se conmuta por trabajo a favor de la comunidad y sólo si el sentenciado ha pagado previamente la multa que en su caso se le hubiere impuesto judicialmente y la reparación del daño, la autoridad ejecutora determinará sin dilación el lugar en que ha de cumplir con el sustitutivo y procederá a su inmediata libertad para que realice las labores que se le señalen, bajo la vigilancia de la Dirección de Ejecución de Medidas, en términos de los programas y convenios respectivos; y
-
-VIII.- Son aplicables al sustitutivo penal a que se refiere la fracción anterior, todas las disposiciones del Código de Defensa Social que rigen el trabajo a favor de la comunidad, en el entendido de que para efectos de este Capítulo, corresponderán al Titular del Ejecutivo las atribuciones que dicho ordenamiento confiere al Juez.
-
-#### Sección Cuarta: Adecuación y Modificación No Esencial de las Medidas
-
-###### Artículo 287.
-
-Cuando de los estudios del Consejo General Interdisciplinario se acredite plenamente que un interno no puede cumplir alguna de las modalidades de las medidas que le fueron impuestas y resulte notoriamente innecesaria e irracional la continuación de la misma, por haber sufrido consecuencias graves en deterioro de su persona o ser incompatible con la edad, constitución física o estado de salud del interno, al grado que ponga en riesgo su vida o incluso la salud de la población penitenciaria, el Ejecutivo podrá adecuar dicha medida o su forma de ejecución, siempre y cuando la peligrosidad del interno sea nula y la modificación no sea esencial.
-
-###### Artículo 288.
-
-La adecuación y modificación de medidas a que se refiere el artículo anterior, se sujetará a las siguientes disposiciones:
-
-I.- La Dirección de Ejecución de Medidas remitirá al Consejo General Interdisciplinario los estudios de personalidad y los correspondientes a las condiciones vulnerables del interno, su precario estado físico o algún padecimiento grave que presente, en su caso, a fin de que sean valorados, emita su dictamen y, en caso de considerarlo procedente, dé vista al Secretario de Gobernación para que acuerde de manera facultativa y en definitiva el otorgamiento del sustitutivo que corresponda o su negativa, así como lo relativo al cómputo simultáneo de la medida o medidas adecuadas y modificadas y las demás condiciones para tal efecto; y
-
-II.- En los casos en que así se resuelva, la autoridad ejecutora ordenará la liberación del interno, el cual podrá quedar bajo la custodia de su familia o de alguna institución de asistencia pública o privada, por el tiempo que resultare conveniente o el necesario para lograr su recuperación, estando sujeto a la supervisión y vigilancia que ejerza la Dirección de Ejecución de Medidas mediante programas de monitoreo permanente, la cual deberá emitir reportes periódicos de su condición o estado.
-
-#### Sección Quinta: Extinción de las Medidas de Seguridad
-
-###### Artículo 289.
-
-Las medidas y sus sustitutivos, se extinguen por:
-
-I.- Disposición legal aplicada retroactivamente;
-
-II.- Muerte del interno;
-
-III.- Amnistía;
-
-IV.- Absolución por reconocimiento de la inocencia del interno;
-
-V.- Perdón del ofendido;
-
-VI.- Rehabilitación o cumplimiento;
-
-VII.- Indulto;
-
-VIII.- Prescripción de la acción persecutoria o de la facultad de ejecutar las medidas; y
-
-IX.- Los demás actos o hechos jurídicos que señale este Código.
-
-###### Artículo 290.
-
-Por disposición legal aplicada retroactivamente se extinguirán las medidas impuestas, excepto la reparación del daño si ésta se hubiere hecho efectiva, cuando la nueva norma vigente quite a una conducta el carácter de delito que otra disposición anterior le daba o si deja subsistente el delito, pero substituye la sanción o sanciones establecidas para aquél por otra menor o las disminuye a tal grado que, al hacerse la reducción proporcional por la autoridad judicial, se considere compurgada la medida por el interno o por alguna otra razón deban cesar de derecho todos sus efectos.
-
-La extinción de las medidas por disposición legal, se resolverá de plano por el Juez que haya pronunciado la resolución condenatoria, oficiosamente o a petición de parte, mediante incidente de obvia resolución. Si en la resolución se declaran extinguidas las medidas impuestas, se comunicará a la autoridad ejecutora para que el interno sea puesto de inmediato en libertad; pero si el fallo que se dicte niega la extinción o declara que a pesar de su reducción aún no se han compurgado las sanciones o medidas de seguridad, se remitirá al Ejecutivo y se notificará al interno, para los efectos a que haya lugar, y en su contra procederá apelación.
-
-###### Artículo 291.
-
-Las resoluciones absolutorias que dicte la Sala Unitaria de Justicia para Adolescentes del Tribunal Superior- de Justicia, relativas al reconocimiento de la inocencia del interno en revisión extraordinaria, dejarán sin efecto las medidas que se hubieren impuesto en la resolución ejecutoriada y se comunicarán al Juez que hubiese dictado ésta, para que haga la anotación respectiva en el expediente del caso, así como a la autoridad ejecutora, para que el absuelto sea puesto de inmediato en libertad. A petición del interesado, también se ordenará su publicación en el Periódico Oficial del Estado.
-
-###### Artículo 292.
-
-El indulto es una medida de gracia o perdón individualizado y declarado en forma expresa, que se concede de manera exclusiva y discrecional por el Gobernador del Estado a las personas sujetas de una medida impuesta por resolución judicial, que reúnan los requisitos que establece el Código de Defensa Social para el Estado Libre y Soberano de Puebla, en lo conducente, en virtud del cual se extinguen total o parcialmente las medidas de seguridad impuestas en una resolución ejecutoriada, salvo la reparación del daño y el decomiso.
-
-###### Artículo 293.
-
-En la tramitación del indulto de medidas se observará el siguiente procedimiento:
-
-I.- Pueden solicitar el indulto las personas sujetas a la medida, sus familiares o cualquier otra persona en su nombre, sin necesidad de poder escrito que acredite su representación, así como el Procurador General de Justicia del Estado, el Procurador del Ciudadano o el Procurador de la Defensa del Menor;
-
-II.- El solicitante ocurrirá al Gobernador del Estado con su petición, por conducto del Secretario de Gobernación, debiendo exponer las razones humanitarias o sociales que motiven la medida y acompañar los justificantes de los servicios prestados a la Nación o al Estado por el sujeto de la medida. La presentación de la solicitud no suspenderá el cumplimiento de la resolución ejecutoriada;
-
-III.- Cuando el indulto deba recaer sobre medidas impuestas por conductas cuya persecución sólo procede mediante querella o a instancia de parte, deberá oírse previamente a la parte ofendida;
-
-IV.- El Secretario de Gobernación, previo dictamen de la Dirección de Ejecución de Medidas sobre si la solicitud presentada reúne los requisitos establecidos, admitirá o desechará la solicitud y en el primer supuesto, dará cuenta al Consejo General Interdisciplinario de ella, junto con los informes solicitados sobre la conducta observada por el interno, los estudios relativos a su peligrosidad y rehabilitación, lo que manifieste por escrito la parte ofendida en su caso y los demás documentos que considere necesarios, para que emita su opinión dentro de un término que no exceda de diez días hábiles;
-
-V.- Si la opinión del Consejo General lnterdisciplinario fue re desfavorable al indulto, el Gobernador del Estado no podrá conceder la gracia; pero si fuere favorable, en ella se expondrán las razones humanitarias o sociales y de justicia, equidad o conveniencia pública que favorezcan el indulto, quedando a entera discreción del Gobernador del Estado si lo concede o deniega dentro de los veinte días hábiles siguientes, en vista de las razones expuestas, los justificantes acompañados y las consideraciones relativas a la tranquilidad y seguridad públicas;
-
-VI.- En caso de que decida otorgar la gracia, el indulto se concederá sin condición alguna o con las condiciones y restricciones que estime convenientes;
-
-VII.- El indulto podrá ser total, si extingue todas las medidas impuestas y que todavía no hubiese cumplido el indultado, o parcial, si se concede sólo sobre alguna o algunas de las medidas impuestas o parte de éstas, y que no hubiese cumplido todavía el indultado;
-
-VIII.- Podrá concederse indulto de las medidas accesorias, con exclusión de las principales; pero el indulto de la medida principal llevará consigo el de las accesorias que con ella se hubiesen impuesto, a excepción de las privativas de derechos, las cuales no se tendrán por comprendidas si de ellas no se hubiese hecho mención especial en la declaración;
-
-IX.- El indulto de multas eximirá al indultado del pago de las cantidades que aún no hubiese satisfecho, pero no comprenderá la devolución de las ya pagadas, a no ser que así se determine expresamente;
-
-X.- La concesión del indulto es por su naturaleza irrevocable, con arreglo a lo expresado en su declaración, y la Dirección de Ejecución de Medidas estará obligada a darle cumplimiento, gestionando la inmediata libertad del indultado en su caso, salvo que las condiciones impuestas no hayan sido cumplidas previamente por éste, con excepción de las que por su naturaleza no lo permitan o sean posteriores a su liberación;
-
-XI.- En ningún caso el indulto extinguirá la responsabilidad civil, pudiendo en consecuencia los interesados entablar las acciones que les competan para hacerla efectiva;
-
-XII.- Todas las resoluciones en que se conceda indulto, se publicarán en el Periódico Oficial del Estado y se comunicarán al Tribunal que hubiese dictado la resolución, para que haga la anotación respectiva en el expediente del caso; y
-
-XIII.- En caso de que el Gobernador del Estado deniegue el indulto, se mandarán archivar las diligencias.
-
-###### Artículo 294.
-
-Cuando se tenga o se ordene tener por cumplida alguna de las medidas impuestas o sus sustitutivos, la Secretaría de Seguridad Pública lo informará de inmediato a la Dirección de Ejecución de Medidas y al Juez que haya dictado la sentencia respectiva, en su caso, para los efectos a que haya lugar.
-
-###### Artículo 295.
-
-Los sentenciados que hayan cumplido las medidas impuestas y los que de algún otro modo hayan extinguido su responsabilidad por las conductas antisociales realizadas, deben ser plenamente reintegrados en el ejercicio de sus derechos.
-
-###### Artículo 296.
-
 El régimen disciplinario de los Centros de Internamiento Especializados se dirigirá a garantizar la seguridad y la convivencia ordenada al interior de los mismos. Los internos no serán sancionados disciplinariamente sino en los casos y con las sanciones expresamente previstos en este Código, sin perjuicio de que si alguna falta o infracción llegase a configurar una conducta tipificada como delito, tales hechos se hagan del conocimiento del Ministerio Público para los efectos legales conducentes.
 
-###### Artículo 297.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO Y REUBICADO, P.O. 4 DE FEBRERO DE 2011)</small>
+
+###### Artículo 286.
 
 Incurrirá en faltas administrativas todo interno que:
 
@@ -2749,27 +3229,35 @@ XVI.- Realice actos o conductas contrarias a la moral y las buenas costumbres de
 
 XVII.- Realice cualquier otro acto u omisión contrario a los deberes que le imponen este Código o las disposiciones reglamentarias que emanen de la misma y que tengan por objeto garantizar el régimen disciplinario al interior de los Centros de Internamiento.
 
-###### Artículo 298.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO Y REUBICADO, P.O. 4 DE FEBRERO DE 2011)</small>
+
+###### Artículo 287.
 
 Las faltas administrativas en que incurran los internos, serán sancionadas conforme al siguiente procedimiento sumario:
 
-I.- Una vez conocida la probable falta o infracción, cualquier persona podrá hacerla del conocimiento del Director del Centro de Internamiento Especializado o del funcionario que lo supla en su ausencia, ya sea de manera verbal o escrita, siendo obligación de quien reciba la noticia de los hechos determinar de inmediato si éstos son de los sancionables conforme a este Código o si pueden ser constitutivos de alguna conducta tipificada como delito, supuesto en el cual deberán denunciarse ante la autoridad competente. En ambos casos, el funcionario que conozca podrá ordenar como medida de seguridad y sólo por el tiempo estrictamente necesario, la separación provisional del interno inculpado del resto de la población u otras acciones coercitivas, atendiendo a la gravedad del hecho imputado y con el fin de restablecer la normalidad al interior del Centro;
+I.- Una vez conocida la probable falta o infracción, cualquier persona podrá hacerla del conocimiento del Director del Centro de Internamiento Especializado o del funcionario que lo supla en su ausencia, ya sea de manera verbal o escrita, siendo obligación de quien reciba la noticia de los hechos determinar de inmediato si éstos son de los sancionables conforme a este Código o si pueden ser constitutivos de alguna conducta tipificada como delito, supuesto en el cual deberán denunciarse ante la autoridad competente. En ambos casos, el funcionario que conozca podrá ordenar como medida de seguridad y sólo por el tiempo estrictamente necesario, la separación provisional del adolescente del resto de la población u otras acciones coercitivas, atendiendo a la gravedad del hecho imputado y con el fin de restablecer la normalidad al interior del Centro;
 
-II.- Dentro de los cinco días naturales siguientes se citará por escrito al presunto infractor y a las personas que tomaron conocimiento de los hechos, a una audiencia, haciéndole saber a aquélla falta o infracciones administrativas que se le imputen, así como su derecho a presentar su defensa de manera verbal o escrita, ofrecer pruebas y manifestar o alegar lo que a su interés convenga, por sí o por medio de su defensor, debiendo levantarse constancia por escrito de la comparecencia;
+II.- Dentro de los cinco días naturales siguientes se citará por escrito al presunto infractor y a las personas que tomaron conocimiento de los hechos, a una audiencia, haciéndole saber a aquél la falta o infracciones administrativas que se le imputen, así como su derecho a presentar su defensa de manera verbal o escrita, ofrecer pruebas y manifestar o alegar lo que a su interés convenga, por sí o por medio de su defensor, debiendo levantarse constancia por escrito de la comparecencia;
 
 III.- El Director del Centro de Internamiento podrá ordenar la celebración de las audiencias que estime necesarias para el esclarecimiento de los hechos, antes de proceder disciplinariamente;
 
-IV.- Una vez reunidos los elementos necesarios, el Director del Centro dará vista al Consejo General Interdisciplinario, para que dentro de los cinco días hábiles siguientes proceda a dictar resolución y, si se hubieren comprobado la falta y la responsabilidad del supuesto infractor, determine la corrección disciplinaria que deba imponerse en términos de este Código y de las disposiciones reglamentarias que de ella emanen;
+IV.- Una vez reunidos los elementos necesarios, el Director del Centro dará vista al Consejo Técnico Interdisciplinario, para que dentro de los cinco días hábiles siguientes proceda a dictar resolución y, si se hubieren comprobado la falta y la responsabilidad del supuesto infractor, determine la corrección disciplinaria que deba imponerse en términos de este Código y de las disposiciones reglamentarias que de ella emanen;
 
-V.- En la sesión del Consejo General Interdisciplinario en la que deba decidirse o revisarse la imposición de la corrección disciplinaria, podrá estar presente el interno o su defensor, para que puedan aportar pruebas supervenientes y alegar lo que al derecho del presunto infractor convenga;
+V.- En la sesión del Consejo Técnico Interdisciplinario en la que deba decidirse o revisarse la imposición de la corrección disciplinaria, podrá estar presente el interno o su defensor, para que puedan aportar pruebas supervenientes y alegar lo que al derecho del presunto infractor convenga;
 
 VI.- La resolución que se dicte especificará las razones que motiven el sentido de la misma y en caso de ser desfavorable para el interno, la falta o infracciones por las que se le hubiese hallado responsable, las manifestaciones que en su defensa se hayan hecho y la corrección disciplinaria impuesta, decisión que deberá notificarse por escrito al interno y su defensor, y anexarse al expediente de aquél;
 
 VII.- Al responsable de dos o más infracciones se le impondrán las correcciones disciplinarias correspondientes a todas ellas, para su cumplimiento simultáneo si fuera posible, y no siéndolo, se cumplirán por orden de su respectiva gravedad; y
 
-VIII.- El Consejo General Interdisciplinario podrá reducir las correcciones disciplinarias que imponga, ya sea por revisión oficiosa o cuando advierta que hubo error en su aplicación, caso en el cual procederá a una nueva calificación o incluso, a dejarla inmediatamente sin efecto.
+VIII.- El Consejo Técnico Interdisciplinario podrá reducir las correcciones disciplinarias que imponga, ya sea por revisión oficiosa o cuando advierta que hubo error en su aplicación, caso en el cual procederá a una nueva calificación o incluso, a dejarla inmediatamente sin efecto.
 
-###### Artículo 299.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO Y REUBICADO, P.O. 4 DE FEBRERO DE 2011)</small>
+
+###### Artículo 288.
 
 Las correcciones disciplinarias aplicables a los internos que hubieren incurrido en faltas administrativas serán:
 
@@ -2787,11 +3275,25 @@ VI.- Suspensión de comunicaciones y visitas, a excepción de las de su abogado 
 
 Con independencia de la imposición de alguna de estas correcciones disciplinarias, el Director del Centro de Internamiento podrá solicitar con base en la resolución emitida, el traslado del interno a otro Centro.
 
-###### Artículo 300.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
 
-El recurso administrativo de revisión es un medio de defensa legal que procede contra actos o resoluciones de carácter administrativo, dictados o ejecutados en los términos del presente Libro y que afectan a una persona sujeta a una providencia o medida impuesta conforme al presente Código, a través del cual el interesado, su defensor o sus familiares, solicitan la reconsideración de los mismos a la Secretaria de Gobernación, la cual puede modificar, revocar, nulificar, suspender definitivamente o confirmar el acto o resolución recurrido y mandar reponer el procedimiento administrativo, en su caso.
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2011)</small>
 
-###### Artículo 301.
+### CAPÍTULO VIII. DEL RECURSO ADMINISTRATIVO DE REVISIÓN
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO Y REUBICADO, P.O. 4 DE FEBRERO DE 2011)</small>
+
+###### Artículo 289.
+
+El recurso administrativo de revisión es un medio de defensa legal que procede contra actos o resoluciones de carácter administrativo, dictados o ejecutados en los términos del presente Libro y que afectan a una persona sujeta a una providencia o medida impuesta conforme al presente Código, a través del cual el interesado, su defensor o sus familiares, solicitan la reconsideración de los mismos a la Secretaría de Gobernación, la cual puede modificar, revocar, nulificar, suspender definitivamente o confirmar el acto o resolución recurrido y mandar reponer el procedimiento administrativo, en su caso.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO Y REUBICADO, P.O. 4 DE FEBRERO DE 2011)</small>
+
+###### Artículo 290.
 
 El recurso administrativo de revisión únicamente procede contra los siguientes actos o resoluciones de carácter administrativo:
 
@@ -2799,47 +3301,121 @@ I.- Los que produzcan un menoscabo directo al interesado en sus derechos fundame
 
 II.- Los que sometan al interesado a alguna actividad prohibida por la ley;
 
-III.- Los que ordenen el traslado de un interno a otro Centro de Internamiento Especializado o incluso Penitenciario;
+III.- Los que ordenen el traslado de un interno a otro Centro de Internamiento Especializado o incluso reinserción social;
 
-IV.- Los que impongan al interno alguna medida de seguridad o corrección disciplinaria;
+IV.- Los que impongan al interno alguna medida de seguridad o corrección disciplinaria; y
 
-V.- Los que desechen cualquier promoción hecha valer conforme al presente Libro, por notoria improcedencia;
-
-VI.- Los que nieguen algún beneficio de libertad anticipada o la adecuación, sustitución o modificación no esencial de la medida impuesta; y
-
-VII.- Los que revoquen, modifiquen o suspendan un beneficio de libertad anticipada.
+V.- Los que desechen cualquier promoción hecha valer conforme al presente Libro, por notoria improcedencia.
 
 Contra los demás actos y resoluciones de carácter administrativo, dictados con motivo de la aplicación de este Libro y las disposiciones que de él emanen, no procederá ningún recurso en la misma vía, por lo que cualquier promoción en ese sentido deberá ser desechada de plano por la misma autoridad ante la que se promueva, por su superior jerárquico o por el titular del área jurídica que dependa de aquélla, según proceda.
 
-###### Artículo 302.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO Y REUBICADO, P.O. 4 DE FEBRERO DE 2011)</small>
+
+###### Artículo 291.
 
 Las inconformidades promovidas e incidentes relacionados con las mismas, se desahogarán conforme a las siguientes disposiciones:
 
-I.- El recurso deberá presentarse ante la autoridad responsable o el Secretario de Gobernación, dentro de los diez días hábiles siguientes a la fecha de notificación o aplicación del acto recurrido o, en su defecto, al día en que se hiciere sabedor de éste, y sin que se requieran mayores formalidades para su admisión;
+I.- El recurso deberá presentarse ante la autoridad responsable o el Secretario de Seguridad Pública, dentro de los diez días hábiles siguientes a la fecha de notificación o aplicación del acto recurrido o, en su defecto, al día en que se hiciere sabedor de éste, y sin que se requieran mayores formalidades para su admisión;
 
-II.- La Subsecretaría Jurídica de la Secretaría de Gobernación, a través del área competente, será la responsable de conocer, tramitar y poner en estado de resolución el recurso previsto en este Capítulo y los incidentes relacionados con el mismo;
+II.- La Secretaría de Seguridad Pública, a través del área competente, será la responsable de conocer, tramitar y poner en estado de resolución el recurso previsto en este Capítulo y los incidentes relacionados con el mismo;
 
 III.- Una vez que se dé entrada al recurso, se asentará en el acuerdo de admisión el motivo, contenido y fundamento de la inconformidad que lo suscitó, debiendo suplirse cualquier deficiencia formal de la interposición;
 
 IV.- La autoridad de conocimiento sólo podrá desechar el recurso si no fue interpuesto en tiempo o si en el mismo se reconoce la conclusión del acto recurrido;
 
-V.- En caso de admitirse el recurso ya solicitud del recurrente, deberá decretarse la suspensión provisional del acto recurrido si no se ha ejecutado, salvo que se trate de la negación de alguna solicitud o de un acto de indisciplina tan grave que no deba existir demora en la aplicación de la corrección disciplinaria;
+V.- En caso de admitirse el recurso y a solicitud del recurrente, deberá decretarse la suspensión provisional del acto recurrido si no se ha ejecutado, salvo que se trate de la negación de alguna solicitud o de un acto de indisciplina tan grave que no deba existir demora en la aplicación de la corrección disciplinaria;
 
 VI.- En el mismo acuerdo que resuelva sobre la suspensión, se requerirá a la autoridad responsable un informe detallado respecto del acto recurrido, el cual deberá ser rendido dentro de las setenta y dos horas siguientes a la fecha en que se hubiere notificado la solicitud;
 
-VII.- Vencido el término para que la responsable rinda su informe, se practicarán la investigación y diligencias necesarias, incluido el desahogo de las pruebas ofrecidas, dentro del término de cinco días hábiles, y al final del mismo, sin más trámites, se dictará la resolución respectiva, la cual una vez emitida se notificará de manera personal al recurrente por la Dirección de Ejecución de Medidas;
+VII.- Vencido el término para que la responsable rinda su informe, se practicarán la investigación y diligencias necesarias, incluido el desahogo de las pruebas ofrecidas, dentro del término de cinco días hábiles, y al final del mismo, sin más trámites, se dictará la resolución respectiva, la cual una vez emitida se notificará de manera personal al recurrente por la autoridad administrativa competente;
 
-VIII.- La resolución que ponga fin al recurso podrá desechado por improcedente; confirmar el acto recurrido, suspenderlo definitivamente, dejarlo sin efectos o modificarlo, así como revocarlo y dictar un nuevo acto que lo sustituya; pero cualquiera que sea su sentido, la resolución no podrá ser impugnada en la misma vía, quedando subsistentes los derechos de los recurrentes para acudir a otra instancia; y
+VIII.- La resolución que ponga fin al recurso podrá desecharlo por improcedente; confirmar el acto recurrido, suspenderlo definitivamente, dejarla sin efectos o modificarlo, así como revocarlo y dictar un nuevo acto que lo sustituya; pero cualquiera que sea su sentido, la resolución no podrá ser impugnada en la misma vía, quedando subsistentes los derechos de los recurrentes para acudir a otra instancia; y
 
 IX.- De constatarse positivamente los hechos denunciados en el recurso, la autoridad resolverá que se restablezca el derecho conculcado y, en su caso, notificará la resolución a las instancias que deban proveer su cumplimiento y sancionar a quienes ordenaron y ejecutaron el acto indebido.
 
-###### Artículo 303.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO Y REUBICADO, P.O. 4 DE FEBRERO DE 2011)</small>
+
+###### Artículo 292.
 
 Para efectos de este Capítulo, los sujetos a alguna providencia o medida podrán ratificar como sus defensores ante la autoridad ejecutora a la persona o personas que hubieren designado ante el Tribunal de la causa o nombrar a otros de su confianza, para que los asesoren, representen e intervengan en cualquier procedimiento, recurso o incidente que se plantee durante la ejecución de las consecuencias jurídicas de la conducta tipificada como delito.
 
-###### Artículo 304.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO Y REUBICADO, P.O. 4 DE FEBRERO DE 2011)</small>
+
+###### Artículo 293.
 
 A falta de disposición expresa de este Código para el trámite y resolución del recurso administrativo de revisión que el mismo contempla, se aplicarán las disposiciones de las leyes relativas a la ejecución de sanciones, en lo que resulten aplicables.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+###### Artículo 294.
+
+(DEROGADO, P.O. 4 DE FEBRERO DE 2011)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+###### Artículo 295.
+
+(DEROGADO, P.O. 4 DE FEBRERO DE 2011)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+###### Artículo 296.
+
+(DEROGADO, P.O. 4 DE FEBRERO DE 2011)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+###### Artículo 297.
+
+(DEROGADO, P.O. 4 DE FEBRERO DE 2011)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+###### Artículo 298.
+
+(DEROGADO, P.O. 4 DE FEBRERO DE 2011)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+###### Artículo 299.
+
+(DEROGADO, P.O. 4 DE FEBRERO DE 2011)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+###### Artículo 300.
+
+(DEROGADO, P.O. 4 DE FEBRERO DE 2011)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+###### Artículo 301.
+
+(DEROGADO, P.O. 4 DE FEBRERO DE 2011)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+###### Artículo 302.
+
+(DEROGADO, P.O. 4 DE FEBRERO DE 2011)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+###### Artículo 303.
+
+(DEROGADO, P.O. 4 DE FEBRERO DE 2011)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+###### Artículo 304.
+
+(DEROGADO, P.O. 4 DE FEBRERO DE 2011)
 
 ## TRANSITORIOS
 
@@ -2900,3 +3476,13 @@ PRIMERO.- Se derogan las disposiciones legales que se opongan al presente Decret
 SEGUNDO.- El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
 
 TERCERO.- Los asuntos que a la fecha se encuentran patrocinados por un defensor social o de oficio, se entenderá ahora por éstos a los Defensores Públicos.
+
+P.O. 4 DE FEBRERO DE 2011
+
+PRIMERO.- El presente Decreto entrará en vigor el dieciocho de junio de dos mil once.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente ordenamiento.
+
+TERCERO.- Las adecuaciones y reformas a las disposiciones reglamentarias de este Código, deberán entrar en vigor simultáneamente al presente Decreto.
+
+CUARTO.- Para la aplicación o modificación de sanción derivadas (sic) de la retroactividad de la Ley, conocerá el Juez de Ejecución.
