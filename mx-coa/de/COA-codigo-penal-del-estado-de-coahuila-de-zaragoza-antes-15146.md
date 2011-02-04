@@ -4,7 +4,7 @@ identifier: "COA-codigo-penal-del-estado-de-coahuila-de-zaragoza-antes-15146"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-05-28"
-last_updated: "2011-01-28"
+last_updated: "2011-02-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CODIGO PENAL DE COAHUILA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE ENERO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE FEBRERO DE 2011.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 28 de mayo de 1999.
 
@@ -2455,6 +2455,22 @@ V. DAÑO MATERIAL Y PERJUICIOS. El monto del daño material que implique pérdid
 
 VI. FRUTOS, RENTAS O PRODUCTOS. Lo que se dispone en la fracción anterior, en lo conducente, también se observará cuando se trate de frutos, rentas o productos de cualquier clase que se deriven del bien, si su monto quedó sin establecer.
 
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2011)</small>
+
+ARTÍCULO 122 BIS. REGLA ESPECIAL PARA LA REPARACION DEL DAÑO EN CASO DEL DELITO DE TRATA DE PERSONAS La reparación del daño por la comisión del delito de Trata de Personas incluirá:
+
+I. Los costos del tratamiento médico y psicológico;
+
+II. Los costos de la terapia y rehabilitación física y ocupacional;
+
+III. Los costos del transporte, incluido el de retorno a su lugar de origen, gastos de alimentación, vivienda provisional y cuidado de personas mientras las víctimas estén en los albergues que se habiliten para tal efecto;
+
+IV. El resarcimiento de los perjuicios ocasionados;
+
+V. La indemnización por daño moral; y,
+
+VI. El resarcimiento derivado de cualquier otra pérdida sufrida por la víctima que haya sido generada por la comisión del delito.
+
 ###### ARTÍCULO 123.
 
 REGLA ESPECIAL PARA FIJAR EL MONTO DEL DAÑO POR LESIONES Y HOMICIDIO. En caso de lesiones u homicidio, la cuantía de la reparación se determinará conforme a las bases que fije el Código Civil y en su defecto, a las que para los riesgos de trabajo establece la ley de la materia. En este último caso, al monto que resulte se le agregará un tercio.
@@ -3147,15 +3163,25 @@ III. MANTENIMIENTO DE LUGARES PARA LA PROSTITUCIÓN. A quien regentee, administr
 
 IV. COACCIÓN PARA LA PROSTITUCIÓN. A quien por cualquier medio retenga a una persona en la prostitución contra su voluntad.
 
-> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2011)</small>
 
 ###### ARTÍCULO 307.
 
-PENALIDAD Y FIGURA TÍPICA DE TRATA DE PERSONAS, MENORES E INCAPACES. Se aplicará de cuatro a nueve años de prisión y multa. A quien facilite, promueva, consiga o entregue a una persona para someterla a cualquier forma de explotación, ya sea sexual, trabajos o servicios impuestos de manera coercitiva, dentro o fuera del Estado.
+PENALIDAD Y FIGURA TÍPICA DE TRATA DE PERSONAS, MENORES E INCAPACES. Se aplicará de ocho a quince años de prisión y multa a quien capte, reclute, enganche, traslade, entregue, reciba, promueva, solicite, ofrezca, facilite o consiga para sí o para un tercero a una o varias personas a través del engaño, la violencia física y/o psicológica, el abuso de poder, con fines de explotación sexual y/o laboral, la realización de trabajos o servicios forzados, esclavitud o practicas análogas a la esclavitud, servidumbre, venta de personas, matrimonio forzado y/o extirpación de órganos, tejidos o sus componentes.
 
-La pena máxima se agravará un tercio más: Si se emplea violencia o el sujeto pasivo es menor de dieciocho años de edad, persona sin capacidad de comprender el significado del hecho o de decidir conforme a esa comprensión o por cualquier circunstancia personal no pueda resistirlo. Más si este es menor de dieciséis años de edad, al sujeto activo se le aplicarán de siete a catorce años de prisión y multa.
+La pena máxima se incrementarán (sic) en una mitad más, cuando:
 
-Se aplicará de tres a seis años de prisión y multa: A quien a sabiendas de que se trata de una persona menor de dieciséis años de edad o persona sin capacidad de comprender el significado del hecho o de decidir conforme a esa comprensión o por cualquier circunstancia personal no pueda resistirlo, haya solicitado y consumado actos a que se refiere el primer párrafo de este artículo.
+l. La víctima sea una persona menor de dieciocho años o mayor de sesenta años de edad, no tenga la capacidad para comprender el significado del hecho o de resistirlo o sea una persona en situación vulnerable;
+
+II. El sujeto activo se valiese de su calidad de servidor público o se haya ostentado como tal, sin serlo. Además se impondrá la destitución del empleo, cargo o comisión públicos e inhabilitación para desempeñar por un tiempo igual al de la pena de prisión impuesta;
+
+III. Obtenga algún beneficio económico o de cualquier otra índole, para sí o para una tercera persona;
+
+IV. El sujeto activo tenga parentesco por consanguinidad o afinidad hasta en el cuarto grado, parentesco civil, habite en el mismo domicilio de la víctima o tenga una relación sentimental o de hecho con el sujeto pasivo;
+
+V. Exista entre el sujeto pasivo y el activo una relación de confianza, cuidado, guarda o educación, o
+
+VI. El sujeto activo sea un ministro de culto.
 
 > <small>(REFORMADO, P.O. 11 DE MARZO DE 2006)</small>
 
@@ -4706,3 +4732,7 @@ DECRETO NUMERO 360, POR EL QUE SE ADICIONA UN PARRAFO ENTRE LOS ACTUALES PRIMERO
 P.O. 28 DE ENERO DE 2011.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE FEBRERO DE 2011.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE COAHUILA.
