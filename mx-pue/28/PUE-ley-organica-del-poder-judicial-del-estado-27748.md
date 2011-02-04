@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-del-poder-judicial-del-estado-27748"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-12-30"
-last_updated: "2010-12-31"
+last_updated: "2011-02-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=27748&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE FEBRERO DE 2011.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Puebla, el lunes 30 de diciembre de 2002.
 
@@ -217,9 +217,11 @@ En materia penal podrán practicarse actuaciones a toda hora, aun en los días i
 
 ### CAPÍTULO II. DE LA DIVISIÓN TERRITORIAL
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE FEBRERO DE 2011)</small>
+
 ###### ARTÍCULO 6.
 
-La residencia del Poder Judicial del Estado será la Ciudad Capital, y su sede, el Palacio de Justicia.
+La residencia del Poder Judicial del Estado es la Capital del Estado o, en su caso, los municipios conurbados de la misma, su sede es el inmueble conocido como Ciudad Judicial.
 
 Podrán establecerse dependencias del Poder Judicial del Estado, por razón del servicio y por acuerdo del Pleno, en los Municipios aledaños a la Capital, en el área conurbada o área metropolitana, designando el ámbito territorial de su competencia.
 
@@ -1987,7 +1989,9 @@ En caso de que las faltas administrativas entrañen simultáneamente posibles co
 
 Para ser Magistrado propietario o suplente, se requiere:
 
-I.- Ser ciudadano del Estado, en pleno goce de sus derechos políticos y civiles;
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2011)</small>
+
+I.- Ser ciudadano mexicano, en pleno goce de sus derechos políticos y civiles;
 
 II.- Ser mayor de treinta y cinco años;
 
@@ -1995,7 +1999,7 @@ III.- Ser profesional del Derecho con título legalmente expedido, con antigüed
 
 IV.- Gozar de buena reputación y no haber sido condenado por delito que merezca pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente su buena fama en el concepto público, quedará inhabilitado para el cargo, cualquiera que haya sido la pena; y
 
-V.- Haber residido en el Estado durante los dos años anteriores al día de su nombramiento.
+V.- (DEROGADA, P.O. 4 DE FEBRERO DE 2011)
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
 
@@ -2003,7 +2007,9 @@ V.- Haber residido en el Estado durante los dos años anteriores al día de su n
 
 Para ser Juez de lo Civil, de lo Familiar, de lo Penal, Especializado en Adolescentes, de Jurisdicción Mixta o Supernumerario, se requiere:
 
-I.- Ser ciudadano del Estado, en pleno goce de sus derechos políticos y civiles;
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2011)</small>
+
+I.- Ser ciudadano mexicano, en pleno goce de sus derechos políticos y civiles;
 
 II.- Ser mayor de veintiocho años;
 
@@ -2017,7 +2023,9 @@ V.- Aprobar el examen a que le someta la Comisión de Vigilancia, Disciplina y S
 
 Para ser Juez Municipal, se requiere:
 
-I.- Ser ciudadano del Estado, en pleno goce de sus derechos políticos y civiles, con vecindad en el lugar en que va a ejercer sus funciones;
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2011)</small>
+
+I.- Ser ciudadano mexicano, en pleno goce de sus derechos políticos y civiles, con vecindad en el lugar en que va a ejercer sus funciones;
 
 II.- Ser mayor de veinticinco años; y
 
@@ -2602,3 +2610,9 @@ PRIMERO.- El presente decreto deberá publicarse en el Periódico Oficial del Es
 SEGUNDO.- Para efectos de la aplicación de las disposiciones contenidas en el presente Decreto, se deberán observar en lo conducente, lo previsto en los Artículos Transitorios del Decreto que reforma diversas disposiciones de la Constitución Política del Estado, publicado en el Periódico Oficial del Estado el 16 de junio de 2010.
 
 TERCERO.- Se derogan todas las disposiciones jurídicas y administrativas que contravengan o se opongan a las reformas materia del presente Decreto.
+
+P.O. 4 DE FEBRERO DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
+
+SEGUNDO.- Se derogan todas la disposiciones legales que se opongan al presente Decreto.
