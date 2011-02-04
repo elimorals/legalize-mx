@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-transporte-y-vialidad-del-distrito-federal-26894"
 country: "mx"
 rank: "ley"
 publication_date: "2002-12-26"
-last_updated: "2009-04-13"
+last_updated: "2011-02-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26894&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-12-12"
 
 LEY DE TRANSPORTE Y VIALIDAD DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 13 DE ABRIL DE 2009.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 4 DE FEBRERO DE 2011.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 26 de diciembre del 2002.
 
@@ -341,6 +341,10 @@ XLVII.- Llevar a cabo todos los estudios técnicos necesarios para otorgar los p
 XLVIII.- Otorgar las concesiones necesarias para la prestación de servicio de transporte de pasajeros en los Corredores del Sistema de Transporte Público de Pasajeros del Distrito Federal; autorizar el uso de los carriles confinados, así como diseñar y regular los mecanismos y elementos de confinamiento;
 
 XLIX.- Aquellas que con el carácter de delegables, le otorgue el Jefe de Gobierno y las demás que le confieran la Ley Orgánica de la Administración Pública del Distrito Federal y demás disposiciones jurídicas y administrativas aplicables.
+
+> <small>(ADICIONADA, G.O. 4 DE FEBRERO DE 2011)</small>
+
+L.- Instrumentar un programa que fomente la cultura de donación de órganos y tejidos en la expedición o renovación de la licencia de conductores de vehículos de transporte público, privado, mercantil o particular, diseñando mecanismos para incluir una anotación que exprese la voluntad del titular de la misma respecto a la donación de sus órganos o tejidos. El consentimiento deberá asentarse por escrito firmado por el conductor en formato elaborado por la Secretaría de Salud del Gobierno del Distrito Federal e informarse al Centro de Trasplantes de dicha Dependencia para los efectos que señala la Ley de Salud del Distrito Federal.
 
 ###### Artículo 8.
 
@@ -2371,3 +2375,11 @@ G.O. 13 DE ABRIL DE 2009.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y administrativas que se opongan a la presente.
+
+G.O. 4 DE FEBRERO DE 2011.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+Artículo Segundo.- La Secretaría contará con un plazo de 120 días, a partir de la entrada en vigor del presente Decreto, para realizar las modificaciones técnicas necesarias para la aplicación de las obligaciones que se deriven del mismo.
+
+Artículo Tercero.- En el caso de las licencias expedidas con el carácter de permanente, los conductores que cuenten con ellas, podrán manifestar su voluntad de ser donadores de órganos y tejidos, para tal efecto, la Secretaría dispondrá de las medidas para el cambio de formato, sin que implique la pérdida de los derechos adquiridos de la licencia permanente.
