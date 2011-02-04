@@ -4,7 +4,7 @@ identifier: "COA-ley-del-equilibrio-ecologico-y-la-proteccion-al-ambiente-13277"
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-08"
-last_updated: "2008-06-06"
+last_updated: "2011-02-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13277&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE JUNIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE FEBRERO DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 8 de diciembre de 1998.
 
@@ -1711,6 +1711,12 @@ Los propietarios o poseedores de vehículos automotores destinados al transporte
 
 Los vehículos destinados al transporte público deberán ser sometidos a verificación, en el período y centro de verificación vehicular que les corresponda, conforme al programa que establezcan los municipios o, en su caso, el estado.
 
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2011)</small>
+
+ARTICULO 119 BIS.- Los propietarios y/o poseedores de vehículos automotores, cumplirán sus obligaciones de verificación vehicular previstas en este capítulo, ante la autoridad municipal que corresponda, conforme al domicilio registrado en el padrón vehicular.
+
+La autoridad municipal solamente podrá ejercer las atribuciones en materia de verificación vehicular, previstas en este capítulo y otorgar las constancias de cumplimiento, respecto de las unidades automotrices con domicilio inscrito en su municipio, conforme el padrón vehicular respectivo.
+
 ### CAPITULO III. DEL RUIDO, DE LAS VIBRACIONES, DE LAS ENERGIAS TERMICA Y LUMINICA, DE LOS OLORES Y DE LA CONTAMINACION VISUAL
 
 ###### ARTICULO 120.
@@ -2684,3 +2690,13 @@ P.O. 6 DE JUNIO DE 2008.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
+
+P.O. 4 DE FEBRERO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
