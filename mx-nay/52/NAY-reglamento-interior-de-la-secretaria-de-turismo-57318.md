@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-interior-de-la-secretaria-de-turismo-57318"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-09-29"
-last_updated: "2007-09-29"
+last_updated: "2011-02-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57318&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "NAY"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE TURISMO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE TURISMO DE NAYARIT, PUBLICADO EN EL P.O. DE 5 DE FEBRERO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado la Sección Séptima del Periódico Oficial del Estado de Nayarit, el sábado 29 de septiembre de 2007.
 
@@ -498,3 +500,23 @@ TRANSITORIOS (SIC)
 Dado en el Palacio de Gobierno, Sede del Poder Ejecutivo, en la ciudad de Tepic, Nayarit, a los veinticinco días del mes de Septiembre de dos mil siete.
 
 "SUFRAGIO EFECTIVO. NO REELECCIÓN" LIC. NEY GONZÁLEZ SÁNCHEZ, GOBERNADOR CONSTITUCIONAL DEL ESTADO DE NAYARIT.- Rúbrica.- PROFA. CORA CECILIA PINEDO ALONSO, SECRETARIA GENERAL DE GOBIERNO.- Rúbrica.- DR. JORGE HUMBERTO SÁNCHEZ IBARRA, SECRETARIO DE TURISMO.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 5 DE FEBRERO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto administrativo entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interior de la Secretaría de Turismo Publicado el 25 de Septiembre de 2007 en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+###### ARTÍCULO TERCERO.
+
+En tanto se expiden el Manual General de Organización de la Secretaría y otros instrumentos administrativos y normativos necesarios para el funcionamiento óptimo de la dependencia, el Secretario tomará las decisiones que sean procedentes de conformidad con la Ley y otras disposiciones legales aplicables.
+
+###### ARTÍCULO CUARTO.
+
+En tanto se designa al titular de la Contraloría Interna, la Secretaría de la Contraloría General asumirá los asuntos que la Ley de Responsabilidades de los Servidores Públicos del Estado de (sic) confiere a las contralorías internas de las dependencias de la Administración Pública Estatal, conforme lo dispuesto en el artículo 15 de la Ley Orgánica del Poder Ejecutivo; para ello ambas dependencias deberán suscribir el convenio respectivo.
