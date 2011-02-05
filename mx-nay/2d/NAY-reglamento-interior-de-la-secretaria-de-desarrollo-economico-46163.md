@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-interior-de-la-secretaria-de-desarrollo-economico-46
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-08-24"
-last_updated: "2005-08-24"
+last_updated: "2011-02-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46163&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "NAY"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO ECONOMICO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO ECONOMICO DEL ESTADO DE NAYARIT, PUBLICADO EN EL P.O. DE 5 DE FEBRERO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Sección Tercera del Periódico Oficial del Estado de Nayarit, el miércoles 24 de agosto de 2005.
 
@@ -602,3 +604,13 @@ PRIMERO.- El presente reglamento entrara en vigor a partir del día siguiente de
 Dado en la Residencia del Poder Ejecutivo en la Ciudad de Tepic, Nayarit a los 04 días del mes Agosto del año 2005.
 
 C.P. ANTONIO ECHEVARRÍA DOMÍNGUEZ, Gobernador Constitucional del Estado.- Rúbrica.- Lic. Adán Meza Barajas, Secretario General de Gobierno.- Rúbrica.- Ing. Ernesto Navarro González, Secretario de Desarrollo Económico.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 5 DE FEBRERO DE 2011.
+
+PRIMERO.- El presente reglamento entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Secretaría de Desarrollo Económico, publicado en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit, el día 24 de agosto de 2005, así como todas aquellas disposiciones de igual o menor jerarquía que se opongan al presente reglamento.
+
+TERCERO.- Los asuntos que estén en proceso de atención y despacho por las direcciones que cambian su denominación, quedarán bajo el cuidado y responsabilidad de las unidades administrativas que las sustituyen en términos de este reglamento.
