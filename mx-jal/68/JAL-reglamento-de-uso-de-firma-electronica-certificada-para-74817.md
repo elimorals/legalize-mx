@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-uso-de-firma-electronica-certificada-para-74817"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-04-27"
-last_updated: "2010-04-27"
+last_updated: "2011-02-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74817&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 REGLAMENTO DE USO DE FIRMA ELECTRONICA CERTIFICADA PARA SERVIDORES PUBLICOS DEL PODER EJECUTIVO DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE FEBRERO DE 2011.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Jalisco, el martes 27 de abril de 2010.
 
@@ -67,13 +67,21 @@ II. Oficialía Mayor: la Oficialía Mayor de la Secretaría General de Gobierno;
 
 III. Reglamento: el presente Reglamento de Uso de Firma Electrónica Certificada para Servidores Públicos del Poder Ejecutivo del Estado de Jalisco.
 
+> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 3.
 
 Los servidores públicos cuyo cargo sean de los establecidos en el anexo único del presente Reglamento, el cual forma parte integral del mismo, tendrán la obligación de usar la firma electrónica certificada en los procedimientos que se señalen para tal efecto, vía circular, por los Secretarios General de Gobierno y de Administración.
 
+En el caso de los organismos públicos descentralizados, los titulares de dichas entidades emitirán un acuerdo en el que se establecerá el listado de los servidores públicos a los que se les otorgará firma electrónica certificada, el cual será remitido a la Oficialía Mayor.
+
 ###### Artículo 4.
 
 La Oficialía Mayor, de conformidad con sus atribuciones, otorgará a los servidores públicos el certificado electrónico y el mecanismo electrónico para el uso de la firma electrónica certificada, una vez cumplidos los requisitos que se establecen en las disposiciones legales y administrativas correspondientes, sin costo para el servidor público.
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 2011)</small>
+
+En el caso de los organismos públicos descentralizados, el mecanismo electrónico deberá ser proporcionado por la entidad respectiva o por el servidor público.
 
 ###### Artículo 5.
 
@@ -120,3 +128,9 @@ Secretario de Administración
 (RÚBRICA)
 
 > <small>N. DE E. VEASE ANEXO UNICO EN LA SECCION II DEL P.O. DE 27 DE ABRIL DE 2010, DE LA PAGINA 8 A LA 26.</small>
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 5 DE FEBRERO DE 2011.
+
+ÚNICO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
