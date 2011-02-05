@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-uso-de-firma-electronica-certificada-para-74817"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-04-27"
-last_updated: "2010-04-27"
+last_updated: "2011-02-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74817&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,65 +21,67 @@ state: "JAL"
 ---
 # REGLAMENTO DE USO DE FIRMA ELECTRONICA CERTIFICADA PARA SERVIDORES PUBLICOS DEL PODER EJECUTIVO DEL ESTADO DE JALISCO
 
-REGLAMENTO INTERNO DE LA UNIDAD DE TRANSPARENCIA E INFORMACIÓN PÚBLICA DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE JALISCO
+REGLAMENTO DE USO DE FIRMA ELECTRONICA CERTIFICADA PARA SERVIDORES PUBLICOS DEL PODER EJECUTIVO DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE FEBRERO DE 2011.
 
-Reglamento publicado en la Sección III del Periódico Oficial del Estado de Jalisco, el martes 18 de junio de 2013.
+Reglamento publicado en la Sección II del Periódico Oficial del Estado de Jalisco, el martes 27 de abril de 2010.
 
-Al margen un sello que dice: DIF Jalisco. Dirección General.
+Al margen un sello que dice: Gobierno de Jalisco. Poder Ejecutivo. Secretaría General de Gobierno. Estados Unidos Mexicanos.
 
-REGLAMENTO INTERNO DE LA UNIDAD DE TRANSPARENCIA E INFORMACIÓN PÚBLICA DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE JALISCO
+DIGELAG ACU 021/2010
+
+DIRECCIÓN GENERAL DE ESTUDIOS LEGISLATIVOS Y ACUERDOS GUBERNAMENTALES
+
+ACUERDO DEL CIUDADANO GOBERNADOR CONSTITUCIONAL DEL ESTADO DE JALISCO
+
+Guadalajara, Jalisco, a 20 de abril de 2010
+
+Emilio González Márquez, Gobernador Constitucional del Estado de Jalisco, con fundamento en los artículos 36, 46 y 50 fracciones VIII y XXV de la Constitución Política; 1, 2, 3, 5, 6, 6 Bis, 19 fracción II, 21, 22 fracciones I y XXIV, 30 y 38 de la Ley Orgánica del Poder Ejecutivo; así como las disposiciones de la Ley de Firma Electrónica Certificada para el Estado de Jalisco y sus Municipios, todos ordenamientos de esta entidad federativa, y con base en los siguientes:
+
+CONSIDERANDOS.
+
+Por lo anteriormente expuesto y fundado, tengo a bien emitir el siguiente
+
+ACUERDO
 
 ## TITULO PRIMERO. Disposiciones Generales
 
-### CAPÍTULO ÚNICO
+### Capítulo Único
 
 ###### Artículo 1.
 
-El presente Reglamento tiene por objeto regular los procedimientos para el acceso a la información pública del Sistema para el Desarrollo Integral de la Familia del Estado de Jalisco, de conformidad con lo establecido en la Ley de Información Pública del Estado de Jalisco y sus Municipios, atendiendo a que el derecho a la información tiene como objeto garantizar el derecho fundamental de toda persona para conocer el proceso y la toma de decisiones públicas, así como para solicitar, acceder, consultar, recibir, difundir, reproducir y publicar la información pública en posesión de los sujetos obligados.
+El presente Reglamento tiene por objeto regular el uso de la firma electrónica certificada por los servidores públicos del Poder Ejecutivo del Estado de Jalisco.
 
 ###### Artículo 2.
 
-El derecho a la información es aquél que posee toda persona, ya sea física o moral, para acceder a la información pública que generen, adquieran o posean los sujetos obligados a que se refiere el artículo 6 de la Constitución Política de los Estados Unidos Mexicanos y 4, párrafo tercero, y 9 de la Constitución Política del Estado Libre y Soberano de Jalisco.
+Para efectos del presente Reglamento, además de las definiciones de la Ley, se entenderá por:
+
+I. Ley: Ley de Firma Electrónica Certificada para el Estado de Jalisco y sus Municipios
+
+II. Oficialía Mayor: la Oficialía Mayor de la Secretaría General de Gobierno; y
+
+III. Reglamento: el presente Reglamento de Uso de Firma Electrónica Certificada para Servidores Públicos del Poder Ejecutivo del Estado de Jalisco.
+
+> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 3.
 
-La transparencia constituye el conjunto de disposiciones y actos mediante los cuales los sujetos obligados tienen el deber de poner a disposición de los solicitantes la información pública que poseen, así como el proceso y la toma de decisiones de acuerdo a su competencia y en las acciones con motivo del ejercicio de sus funciones.
+Los servidores públicos cuyo cargo sean de los establecidos en el anexo único del presente Reglamento, el cual forma parte integral del mismo, tendrán la obligación de usar la firma electrónica certificada en los procedimientos que se señalen para tal efecto, vía circular, por los Secretarios General de Gobierno y de Administración.
+
+En el caso de los organismos públicos descentralizados, los titulares de dichas entidades emitirán un acuerdo en el que se establecerá el listado de los servidores públicos a los que se les otorgará firma electrónica certificada, el cual será remitido a la Oficialía Mayor.
 
 ###### Artículo 4.
 
-Para los efectos de este Reglamento se entenderá por:
+La Oficialía Mayor, de conformidad con sus atribuciones, otorgará a los servidores públicos el certificado electrónico y el mecanismo electrónico para el uso de la firma electrónica certificada, una vez cumplidos los requisitos que se establecen en las disposiciones legales y administrativas correspondientes, sin costo para el servidor público.
 
-I. Comité: El Comité de Clasificación de Información del Sistema para el Desarrollo Integral de la Familia del Estado de Jalisco;
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 2011)</small>
 
-II. Consejo: El Consejo del Instituto de Transparencia e Información Pública de Jalisco;
-
-III. DIF JALISCO: Al Sistema para el Desarrollo Integral de la Familia del Estado de Jalisco;
-
-IV. Información pública: La contenida en documentos, fotografías, grabaciones, soporte magnético, digital, sonoro, visual, electrónico, informático, holográfico o en cualquier otro elemento técnico existente o que se cree con posterioridad y que se encuentre en posesión y control de los sujetos obligados como resultado del ejercicio de sus atribuciones y obligaciones;
-
-V. Instituto: El Instituto de Transparencia e Información Pública de Jalisco;
-
-VI. Ley: La Ley de Información Pública del Estado de Jalisco y sus Municipios;
-
-VII. Lineamientos: Los Lineamientos Generales en Materia de Protección de Información Confidencial y Reservada, que deberán observar los sujetos obligados;
-
-VIII. Reglamento: El Reglamento de (sic) Ley de Información Pública del Estado de Jalisco y sus Municipios;
-
-IX. Reglamento Interno: El Reglamento Interno De La Unidad De Transparencia E Información Pública Del Sistema Para El Desarrollo Integral De La Familia Del Estado De Jalisco;
-
-X. Solicitante: A la persona que ingresa una solicitud de información en términos de lo establecido por la Ley de Información Pública del Estado de Jalisco y sus Municipios;
-
-XI. Solicitud: A aquella solicitud de información que reúne los requisitos previstos en la Ley de Información Pública del Estado de Jalisco y sus Municipios;
-
-XII. Sujetos obligados: Son aquellos sujetos que se señalan en el artículo 23 de la Ley de Información Pública del Estado de Jalisco y sus Municipios;
-
-XIII. UTIDIF: La Unidad de Transparencia del Sistema para el Desarrollo Integral de la Familia del Estado de Jalisco;
+En el caso de los organismos públicos descentralizados, el mecanismo electrónico deberá ser proporcionado por la entidad respectiva o por el servidor público.
 
 ###### Artículo 5.
 
-Por regla general, toda la información que genere el DIF JALISCO, es de libre acceso, salvo aquélla que se clasifique como reservada o confidencial de acuerdo a lo previsto por los artículos 41 y 44 de la Ley.
+En caso de pérdida o extravío del mecanismo electrónico, el costo por la reposición del mismo será con cargo al servidor público.
 
 ## TITULO SEGUNDO. De los Tipos de Información
 
@@ -87,69 +89,53 @@ Por regla general, toda la información que genere el DIF JALISCO, es de libre a
 
 ###### Artículo 6.
 
-DIF JALISCO, a través de la UTIDIF, está obligado a recabar, reproducir, publicar y difundir toda la información fundamental a que se refiere el artículo 32 de la Ley.
-
-Conforme a su presupuesto, se deberán instalar equipos informáticos con acceso a Internet para que los solicitantes puedan consultar, por ese medio, la información fundamental que genere el DIF JALISCO.
+En caso de licencia o incapacidad del servidor público por más de diez días la Oficialía Mayor suspenderá el certificado electrónico por el tiempo que dure ésta, por lo que, es responsabilidad del servidor público dar aviso al área administrativa correspondiente o, en su caso, a la Oficialía Mayor.
 
 ### CAPÍTULO SEGUNDO. De la Información Fundamental
 
 ###### Artículo 7.
 
-La información pública fundamental que genere el DIF JALISCO, deberá publicarse por los medios electrónicos de que disponga, por los medios establecidos en la Ley y por los que se determinen en los Lineamientos.
+En caso de que el servidor público cause baja por cualquier motivo, tendrá la obligación de devolver el mecanismo electrónico a la oficina administrativa correspondiente y ésta a su vez a la Oficialía Mayor de la Secretaría General de Gobierno, para el trámite de extinción correspondiente, de conformidad con la Ley.
 
 ###### Artículo 8.
 
-La información pública fundamental del DIF JALISCO se actualizará en la medida y términos en que sufra modificaciones, atendiendo para tal efecto, a lo previsto en los Lineamentos, a través del Comité, debiendo las oficinas y/o dependencias del DIF JALISCO, generadoras de la información, dar aviso a la UTIDIF y proporcionar los cambios respectivos para su debida actualización.
+El incumplimiento de las disposiciones del la Ley, del presente Reglamento, así como de la circular al que hace mención el artículo 3 de este ordenamiento por parte del servidor público, será sancionado de conformidad con la Ley de Responsabilidades de los Servidores Públicos del Estado de
+
+Jalisco.
 
 ## TRANSITORIOS
 
-PRIMERO.- Se elaboró el presente Reglamento Interno de la Unidad de Transparencia e Información Pública del Sistema para el Desarrollo Integral de la Familia del Estado de Jalisco, en la ciudad de Guadalajara, Jalisco con fecha de 18 de octubre de 2012, por el Comité de Clasificación de Información de éste Sujeto Obligado.
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
-SEGUNDO.- El presente reglamento entrará en vigor al día siguiente de su aprobación.
+SEGUNDO. La Oficialía Mayor realizará las acciones necesarias para el debido enrolamiento de los servidores públicos a los que hace mención el presente Reglamento.
 
-Lic. Luis David Sánchez Jiménez
+Así lo resolvió el Ciudadano Gobernador Constitucional del Estado, ante los Ciudadanos Secretarios General de Gobierno y de Administración, quienes lo refrendan.
 
-Representante oficial del titular del Sujeto Obligado
+EMILIO GONZÁLEZ MÁRQUEZ
 
-LAE. José Guillermo Cuenca Zavala
+Gobernador Constitucional del Estado
 
-Titular de la Unidad de Transparencia del Sujeto Obligado
+(RÚBRICA)
 
-CPA. Gregorio Anaya López
+LIC. FERNANDO ANTONIO GUZMÁN PÉREZ PELÁEZ
 
-Titular del Órgano de Control Interno del Sujeto Obligado
+Secretario General de Gobierno
 
-Con fecha 19 de febrero del 2013, en el salón denominado "Tonalá" de la Cámara de Comercio de Guadalajara, ubicada en Av. Vallarta # 4095 en el fraccionamiento Camino Real de esta ciudad de Guadalajara, Jalisco, en el marco de la sexagésima séptima sesión ordinaria de la H. Junta de Gobierno del Sistema para el Desarrollo Integral de la Familia del Estado de Jalisco, por lo que los H. Consejeros firman para validar el presente documento.
+(RÚBRICA)
 
-FIRMAS AL CALCE
+C.P. RICARDO SERRANO LEYZAOLA
 
-CONSEJEROS ASISTENTES
+Secretario de Administración
 
-C.D. MIGUEL ÁNGEL GARCÍA SANTANA
+(RÚBRICA)
 
-CONSEJERO PRESIDENTE
+> <small>N. DE E. VEASE ANEXO UNICO EN LA SECCION II DEL P.O. DE 27 DE ABRIL DE 2010, DE LA PAGINA 8 A LA 26.</small>
 
-ING. FELIPE VALDEZ DE ANDA
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
-CONSEJERO Y SECRETARIO
+P.O. 5 DE FEBRERO DE 2011.
 
-MTRA. BEATRIZ EUGENIA MARTÍNEZ SÁNCHEZ
-
-ARQ. JESÚS ALEJANDRO CRAVIOTO LEBRIJA
-
-ING. JOSÉ ANTONIO GLORIA MORALES
-
-LIC. OLGA MARÍA RAMÍREZ CAMPUZANO
-
-LIC. JOSÉ LUIS RAMÍREZ PELAYO
-
-DR. JUAN DE LA BORBOLLA RIVERO
-
-ING. SALVADOR IBARRA ÁLVAREZ DEL CASTILLO
-
-LIC. JESÚS GARIBI HERNÁNDEZ
-
-> <small>N. DE E. VÉASE CERTIFICACIÓN Y SESIÓN EN EL P.O. DE 18 DE JUNIO DE 2013, PÁGINAS DE LA 13 A LA 49.</small>
+ÚNICO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 ###### Artículo 9.
 
@@ -197,8 +183,6 @@ El personal del DIF JALISCO que tenga bajo su guarda y custodia información con
 
 Las oficinas y/o dependencias del DIF JALISCO, en caso de contar con sistemas que contengan información confidencial, deberán hacerlos del conocimiento de la UTIDIF.
 
-## TITULO TERCERO. De la Unidad de Transparencia del DIF JALISCO (UTIDIF)
-
 ###### Artículo 20.
 
 La UTIDIF es la Unidad de Transparencia e Información Pública del DIF JALISCO que tiene bajo su encargo la recepción, trámite y entrega de información respecto de las solicitudes presentadas conforme a la Ley y demás normativa vinculada con dicho derecho fundamental.
@@ -235,8 +219,6 @@ IV.- Estadísticas y gráficas de las actividades que ha llevado a cabo el DIF J
 
 La UTIDIF dispondrá de los elementos humanos, así como de los recursos materiales y técnicos que sean necesarios para el desempeño de sus actividades y, que para ello, le sean asignados por las instancias administrativas del DIF JALISCO.
 
-## TITULO CUARTO. Del Comité para la Clasificación de la Información del DIF JALISCO
-
 ###### Artículo 26.
 
 DIF JALISCO contará con un Comité para la clasificación de la información pública, acorde a lo dispuesto por el artículo 27 de la Ley.
@@ -271,130 +253,8 @@ La convocatoria deberá contener el orden el (sic) día a tratarse, dependiendo 
 
 Para que tengan validez las sesiones del Comité, se requerirá la asistencia de más de la mitad de sus integrantes y sus decisiones se tomarán por mayoría simple de votos, con voto de calidad de su Titular en caso de empate.
 
-###### Artículo 32.
+###### ARTÍCULO ÚNICO.
 
-El personal operativo de la UTIDIF, al concluir cada sesión, levantará un acta con el extracto de los puntos más relevantes que se hubieren tratado y acordado en la misma.
+Se expide el Reglamento de Uso de Firma Electrónica Certificada para Servidores Públicos del Poder Ejecutivo del Estado de Jalisco, para quedar como sigue:
 
-El acta que se levante al respecto deberá ser firmada por todos los que participaron en la sesión correspondiente.
-
-## TITULO QUINTO. Del Proceso de Acceso a la Información
-
-###### Artículo 33.
-
-Las solicitudes de acceso a la información se recibirán por la UTIDIF, en días y horas hábiles según lo establecido en el calendario de labores del DIF JALISCO, para darle trámite y debida substanciación.
-
-###### Artículo 34.
-
-En caso de que una solicitud sea ingresada en días y horas inhábiles para el DIF JALISCO, la misma se entenderá recibida al día hábil siguiente.
-
-###### Artículo 35.
-
-La solicitud podrá presentarse por el interesado en términos de lo previsto por los artículos, del 63 al 66 de la Ley, así como en las disposiciones emitidas por el Instituto.
-
-###### Artículo 36.
-
-Las solicitudes podrán presentarse en escrito libre o en los formatos que para tal efecto determine el DIF JALISCO, mismos que están disponibles en la UTIDIF, así como en la página web del DIF JALISCO, a los cuales se les adjunte la documentación habilitante en los términos previstos en el artículo 36 del Reglamento Interno.
-
-De igual manera, el interesado podrá hacer la correspondiente solicitud de información a través del sistema INFOMEX.
-
-###### Artículo 37.
-
-En caso de que el solicitante no sepa leer ni escribir o se encuentre impedido físicamente para presentar su solicitud de información, el personal operativo de la UTIDIF auxiliará al solicitante en el llenado del formato respectivo, debiéndosele hacer de su conocimiento, a efecto de que confirme y valide la correspondiente solicitud, emitiendo su firma en el documento o, en su caso, estampando su huella digital.
-
-###### Artículo 38.
-
-A efecto de darle trámite a una solicitud de información, la misma deberá contener como mínimo los requisitos establecidos en el artículo 64 de la Ley.
-
-###### Artículo 39.
-
-En caso de que la solicitud de información no reúna los requisitos previstos por el artículo 64 de la Ley, la UTIDIF prevendrá directamente al solicitante conforme a lo previsto en el artículo 67 de la Ley, dentro de los dos días hábiles siguientes a la presentación de la solicitud cuando se tenga información para localizar al respectivo solicitante, para que este subsane su solicitud dentro del día hábil siguiente a la notificación de tal prevención.
-
-###### Artículo 40.
-
-En caso de que el solicitante no cumpla con la prevención dentro del término a que se refiere el artículo anterior, la UTIDIF tendrá por no presentada la solicitud.
-
-###### Artículo 41.
-
-Toda solicitud de información que se ingrese al DIF JALISCO en los términos previstos por la Ley, deberá ser atendida y resuelta por la UTIDIF.
-
-###### Artículo 42.
-
-Con la solicitud original deberá abrirse un expediente, al cual deberá asignársele un número para efectos administrativos.
-
-###### Artículo 43.
-
-Una vez integrado el expediente, la UTIDIF realizará las gestiones necesarias a fin de allegarse la información que le fue peticionada, en los términos de ley.
-
-El Titular de la UTIDIF deberá requerir, por escrito, a las oficinas y/o dependencias que formen parte del DIF JALISCO, la información que le sea solicitada, la cual deberá ser proporcionada dentro del plazo improrrogable de dos días hábiles contados a partir de que se haya requerido la información correspondiente.
-
-En caso de que la oficina y/o dependencia del DIF JALISCO que posea la información solicitada, y que por la naturaleza y condiciones de la misma se requiera de un periodo mayor al establecido en el párrafo anterior para su debida emisión, deberá comunicarlo por escrito y a la brevedad posible al Titular de la UTIDIF, a fin de que dicha Unidad, notifique la prórroga que proceda.
-
-###### Artículo 44.
-
-Si la información solicitada es de libre acceso y se encuentra disponible en medios impresos o electrónicos en la UTIDIF, el personal de ésta facilitará al solicitante su consulta física, con las restricciones propias de la conservación de los soportes donde se encuentre dicha información.
-
-Los solicitantes podrán aportar materiales informativos o de escritura propios. La consulta física será gratuita. La información se podrá otorgar de manera verbal, cuando sea para fines de orientación.
-
-###### Artículo 45.
-
-La UTIDIF deberá dar respuesta a la solicitud dentro del plazo previsto por el artículo 69 de la Ley o, en su defecto, dentro del plazo adicional que marca (sic) los artículos 74 y 75 de la Ley, mediante acuerdo fundado y motivado.
-
-Para información referente a expedientes médicos o datos sobre la salud del solicitante, deberá resolverse y notificarse al solicitante dentro de los dos días hábiles siguientes a que se haya presentado la solicitud correspondiente.
-
-###### Artículo 46.
-
-La información solicitada quedará a disposición del peticionario en la UTIDIF, de acuerdo a los términos previstos en la Ley. Si durante el plazo previsto en el artículo 75 fracción VII de la Ley, el solicitante no acude por la información requerida, el Titular de la UTIDIF levantará constancia del hecho mediante acta circunstanciada ante la presencia de dos testigos, sin responsabilidad alguna para el DIF JALISCO.
-
-Cuando la información solicitada tenga el carácter de reservada o confidencial, la UTIDIF deberá emitir un acuerdo fundado y motivado que justifique la improcedencia del acceso a la información reservada o confidencial, debiendo notificar de tal circunstancia al solicitante, tal y como lo establece la Ley.
-
-###### Artículo 47.
-
-Cuando la información requerida no se encuentre clasificada, se deberá dar vista al Comité a efecto de que determine lo conducente.
-
-###### Artículo 48.
-
-En caso de que la información solicitada, se requiera en un formato específico, el DIF JALISCO entregará la misma, una vez que se haya efectuado el pago correspondiente a su reproducción, conforme a lo dispuesto en el artículo 74 de la Ley y por la legislación de ingresos vigente para el Estado de Jalisco.
-
-###### Artículo 49.
-
-Una vez realizada la entrega de la información al solicitante, éste firmará de recibido, debiendo agregar dicha constancia al expediente que se haya iniciado con motivo del trámite de solicitud de información.
-
-## TITULO SEXTO. Del Acceso, Rectificación, Cancelación y Oposición de los Datos Personales
-
-###### Artículo 50.
-
-Se entenderá por solicitud de protección (sic) datos personales, a aquélla que se encuentra referida en el artículo 55 de la Ley.
-
-###### Artículo 51.
-
-El derecho a la protección de datos personales corresponde a la persona que sea titular de la información que puede estar en posesión de un sujeto obligado, considerada como confidencial, y que puede solicitar ante este y en cualquier tiempo, su clasificación, rectificación, modificación, corrección, sustitución o ampliación de sus datos, conforme a lo previsto por el artículo 53 de la Ley.
-
-###### Artículo 52.
-
-A efecto de darle trámite a una solicitud de información referente a la protección de datos personales, el titular de los mismos deberá presentar identificación oficial con fotografía; en caso de que se realice a través de su representante legal idóneo, este deberá acompañar documento legal mediante el cual se le faculte para tramitar su clasificación, rectificación, modificación, corrección, sustitución o ampliación, según sea el caso del interesado.
-
-###### Artículo 53.
-
-Una vez que el Titular de la UTIDIF verifique que el trámite de protección (sic) datos personales contiene la documentación a que se refiere el artículo anterior, le dará curso y substanciación al mismo, en los términos que se establecen para ello en la Ley y este Reglamento.
-
-## TITULO SEPTIMO. De la Interposición del Recurso de Revisión
-
-###### Artículo 54.
-
-En caso de incumplimiento a las disposiciones de la Ley y al presente Reglamento, concerniente al acceso a la información, el solicitante podrá interponer ante el Instituto el recurso de revisión, par las causas y bajo los términos previstos por la Ley.
-
-###### Artículo 55.
-
-El recurso de revisión se interpondrá mediante escrito dirigido y presentado ante el Instituto, atendiéndose a las formalidades y bajo los términos establecidos en los artículos, del 79 al 83 de la Ley, así como en lo previsto por el Reglamento, en lo concerniente a la tramitación y substanciación del recurso de revisión.
-
-## TITULO OCTAVO
-
-De las Sanciones.
-
-###### Artículo 56.
-
-Con independencia del cargo que ostente, el servidor público del DIF JALISCO que incumpla con lo dispuesto por la Ley y el presente Reglamento, se hará acreedor a las sanciones de tipo administrativo, civil o penal, que pudieran corresponder para el caso de la comisión de alguna conducta irregular o contraria a la ley y normativa de la materia.
-
-###### Artículo 57.
-
-Serán causas de responsabilidad administrativa, civil o penal, según corresponda, a cargo de los servidores públicos que laboren en el DIF JALISCO, las contempladas en los artículos, del 102 al 107 de la Ley, por llegar a incurrir en alguno de los supuestos previstos en dicho apartado normativo.
+Reglamento de Uso de Firma Electrónica Certificada para Servidores Públicos del Poder Ejecutivo del Estado de Jalisco
