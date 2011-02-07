@@ -4,7 +4,7 @@ identifier: "HID-ley-de-seguridad-publica-para-el-estado-de-hidalgo-45703"
 country: "mx"
 rank: "ley"
 publication_date: "2005-08-08"
-last_updated: "2010-08-09"
+last_updated: "2011-02-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45703&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "HID"
 
 LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE AGOSTO DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO QUINTO TRANSITORIO DE LA LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE HIDALGO, PUBLICADA EN EL P.O. DE 7 DE FEBRERO DE 2011. EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Número Bis del Periódico Oficial del Estado de Hidalgo, el lunes 8 de agosto de 2005.
 
@@ -2264,3 +2266,29 @@ P.O. 9 DE AGOSTO DE 2010.
 PRIMERO.- El presente Decreto, una vez realizada su Publicación en el Periódico Oficial del Estado, entrará en vigor el día 20 de agosto del año 2010.
 
 SEGUNDO.- Los procedimientos penales que se estén substanciando a la entrada en vigor del presente Decreto, se seguirán conforme a las disposiciones vigentes al momento de la comisión de los hechos.
+
+P.O. 7 DE FEBRERO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO TERCERO.
+
+Se expedirán los reglamentos derivados del contenido de la presente Ley dentro de un plazo de ciento ochenta días, contados a partir del día siguiente a su entrada en vigor.
+
+###### ARTÍCULO CUARTO.
+
+Los prestadores de servicios de seguridad privada en el Estado de Hidalgo, que no cuenten con la autorización o registro respectivo, gozarán de un plazo hasta de noventa días hábiles improrrogables, contados a partir de la entrada en vigor de esta Ley, para solicitar y obtener la autorización o registro correspondiente.
+
+###### ARTÍCULO QUINTO.
+
+Se abroga la Ley de Seguridad Pública para el Estado de Hidalgo, Publicada en el Periódico Oficial el ocho de agosto del dos mil cinco.
+
+###### ARTÍCULO SEXTO.
+
+Se derogan todas las disposiciones Legales que se opongan a la presente Ley.
