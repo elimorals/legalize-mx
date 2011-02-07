@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-del-codigo-de-la-administracion-publica-de-62063"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-07-07"
-last_updated: "2010-08-24"
+last_updated: "2011-02-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62063&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 REGLAMENTO DEL CODIGO DE LA ADMINISTRACION PUBLICA DE YUCATAN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 24 DE AGOSTO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 7 DE FEBRERO DE 2011.
 
 Reglamento publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el lunes 7 de julio de 2008.
 
@@ -1409,7 +1409,7 @@ d) Dirección del Registro Público de la Propiedad y del Comercio;
 
 e) Dirección del Catastro;
 
-f) Dirección de la Defensoría Legal;
+f) (DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA LEY DEL INSTITUTO DE DEFENSA PUBLICA DEL ESTADO DE YUCATAN, D.O. 7 DE FEBRERO DE 2011)
 
 g) Dirección del Archivo Notarial, y
 
@@ -1645,21 +1645,7 @@ XII. Las demás que le confieran la Ley del Catastro del Estado de Yucatán y su
 
 ###### Artículo 81.
 
-Al Director de la Defensoría Legal le corresponde el despacho de los siguientes asuntos:
-
-I. Otorgar asistencia jurídica gratuita a quienes carezcan de recursos económicos para sufragar los honorarios de un abogado particular, en los siguientes casos:
-
-a) En materia penal y en Justicia para Adolescentes, a fin de garantizar el debido proceso legal de quien, por cualquier motivo, no hubiera nombrado defensor o carezca de él, durante la averiguación previa o el proceso penal, en los términos del artículo 20 apartado A fracciones IX y X de la Constitución Política de los Estados Unidos Mexicanos, y
-
-b) En otras materias a las personas que carezcan de medios para contratar los servicios de un abogado particular.
-
-II. Promover la conciliación en materia familiar para tratar de preservar la integración familiar;
-
-III. Gestionar ante asociaciones altruistas el pago de fianzas para obtener la libertad de personas de escasos recursos que hayan cometido algún delito no considerado grave;
-
-IV. Establecer mecanismos para determinar la capacidad económica de los solicitantes de asistencia jurídica gratuita, y
-
-V. Las demás que establezcan el Reglamento de la Defensoría Legal del Estado, este Reglamento y otras disposiciones legales aplicables.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA LEY DEL INSTITUTO DE DEFENSA PUBLICA DEL ESTADO DE YUCATAN, D.O. 7 DE FEBRERO DE 2011)
 
 ###### Artículo 82.
 
@@ -11216,3 +11202,9 @@ TERCERO. Se derogan las disposiciones de igual o menor rango en cuanto se oponga
 D.O. 24 DE AGOSTO DE 2010.
 
 LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 2 DEL CODIGO CIVIL DEL ESTADO DE YUCATAN.
+
+D.O. 7 DE FEBRERO DE 2011.
+
+PRIMERO. Este Reglamento entrará en vigor el día primero de marzo del año 2011, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+SEGUNDO. Se deroga el inciso f) de la fracción III del artículo 70 y el artículo 81, ambos del Reglamento del Código de la Administración Pública de Yucatán, publicado en el Diario Oficial del Gobierno del Estado de Yucatán, mediante Decreto Número 945 del Poder Ejecutivo del Estado, el día 7 de julio de 2008.
