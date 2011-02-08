@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-de-la-administracion-publica-del-estado-de-16303"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-10-12"
-last_updated: "2009-06-16"
+last_updated: "2011-02-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16303&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE GUERRERO NUMERO 433
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE FEBRERO DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 12 de octubre de 1999.
 
@@ -373,7 +373,9 @@ XXXIX.- Las demás que le fijen las leyes y reglamentos vigentes en el Estado.
 
 La Secretaría de Desarrollo Social, es el órgano encargado de formular, coordinar y evaluar la política general de desarrollo social en la Entidad, y le corresponde el despacho de los asuntos siguientes:
 
-I.- Coordinar las acciones que incidan en el abatimiento de los niveles de pobreza y fomente un mejor nivel de vida de la población;
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2011)</small>
+
+I. Coordinar las acciones que incidan en el abatimiento de los niveles de pobreza que considere la desigualdad existente entre hombres y mujeres y fomenten un mejor nivel de vida de la población;
 
 II.- Diagnosticar la problemática sectorial y regional a fin de proponer alternativas de solución y acciones para retroalimentar los programas anuales y especiales de gobierno;
 
@@ -483,7 +485,9 @@ XXIX.- Llevar el registro de las cuentas corrientes de depósito de dinero u otr
 
 XXX.- Autorizar, conjuntamente con la Secretaría General de Gobierno, la reestructuración de las tarifas de los servicios públicos, particularmente, de transporte sujeto a permisos y autorizaciones;
 
-XXXI.- Establecer y operar un Sistema de Administración, Capacitación y Desarrollo de Personal de la Administración Pública Estatal, incluído lo relativo a las relaciones laborales;
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2011)</small>
+
+XXXI. Establecer y operar un Sistema de Administración, Capacitación y Desarrollo de Personal de la Administración Pública Estatal con perspectiva de género, incluido lo relativo a las relaciones laborales;
 
 XXXII.- Fijar las normas y lineamientos para la formulación del programa anual de adquisición de bienes y servicios, así como coordinar la elaboración y ejecución del mismo;
 
@@ -553,17 +557,21 @@ XVIII.- Las demás que señalen las leyes y reglamentos vigentes en el Estado.
 
 La Secretaría de Seguridad Pública y Protección Civil, es la dependencia de coordinación global del Sistema de Seguridad Estatal, correspondiéndole como órgano da la administración pública estatal centralizada, la conducción y ejercicio de las funciones y servicios de seguridad pública; protección civil; transito estatal; sistema penitenciario y tratamiento de adolescentes.
 
-Así también es el órgano responsable de coadyuvar en el diseño e implantación de las políticas estatales en, materia criminal y de prevención del delito, fundando sus acciones en la integridad y derechos de las personas, en la preservación de las libertades, la paz pública y el respeto a los derechos humanos, correspondiéndole el despacho de los asuntos siguientes:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE FEBRERO DE 2011)</small>
+
+Así también es el órgano responsable de coadyuvar en el diseño e implantación de las políticas estatales en materia criminal y de prevención del delito, fundando sus acciones en el respeto la integridad y derechos de las personas, particularmente aquellas que se encuentran en situación de vulnerabilidad, tomando medidas especiales para garantizar a las mujeres, una vida libre de violencia, así como para la preservación de las libertades, la paz pública y la promoción y vigencia de los derechos humanos, correspondiéndole el despacho de los asuntos siguientes:
 
 I.- Coordinarse con las instancias Federales, Estatales y Municipales, a fin de integrar el Sistema Nacional de Seguridad Pública, para cumplir los objetivos y fines en la materia, así como participar en la integración de las instancias, instrumentos, políticas, servicios y acciones, tendientes a cumplir dichos objetivos y fines, en los términos, que dispongan los ordenamientos jurídicos aplicables;
 
-II.- Estructurar y desarrollar las políticas públicas en el estado en materia de seguridad pública; protección civil; transito estatal; sistema Penitenciario y tratamiento de adolescentes, así como proponer y ejecutar, los programas relativos a la protección de los habitantes, la conservación del orden público y la prevención de los delitos;
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2011)</small>
 
-III- Impulsar las medidas que garanticen la congruencia da la política criminal entre las dependencias de la administración pública estatal y los municipios del estado, así como diseñar, implantar y evaluar instrumentos y programas de educación preventiva y de organización vecinal para la prevención del delito, apoyándose en medios eficaces de promoción y comunicación masiva;
+II.- Estructurar y desarrollar las políticas públicas en el estado en materia de seguridad pública; protección Civil; transito estatal; sistema penitenciario y tratamiento de adolescentes, así como proponer y ejecutar, los programas relativos a la protección de los habitantes, la conservación del orden público y la prevención de los delitos; con especial atención a la violencia contra las mujeres y a la que se comete al interior de los hogares;
+
+III.- Impulsar las medidas que garanticen la congruencia da la política criminal entre las dependencias de la administración pública estatal y los municipios del estado, así como diseñar, implantar y evaluar instrumentos y programas de educación preventiva y de organización vecinal para la prevención del delito, apoyándose en medios eficaces de promoción y comunicación masiva;
 
 IV.- Garantizar en el ámbito da su competencia, las políticas y medidas que permitan que el personal de las instituciones da seguridad pública del estado, se conduzcan con apego a los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos;
 
-V. - Conducir la participación de las áreas correspondientes para la integración de los instrumentos de información del Sistema Nacional de Seguridad Pública; la proporción (sic) los informes correspondientes a los Registros Nacionales de Personal de Seguridad Pública y de Equipo, que le sean solicitados, y supervisar la contribución de las dependencias correspondientes para la integración de la información al Sistema Único de Información Criminal;
+V.- Conducir la participación de las áreas correspondientes para la integración de los instrumentos de información del Sistema Nacional de Seguridad Pública; la proporción (sic) los informes correspondientes a los Registros Nacionales de Personal de Seguridad Pública y de Equipo, que le sean solicitados, y supervisar la contribución de las dependencias correspondientes para la integración de la información al Sistema Único de Información Criminal;
 
 VI.- Organizar, administrar, supervisar y regir el funcionamiento de la Policía Estatal, bajo los principios a que se refiere la fracción IV, así como garantizar y mantener la seguridad, el orden público y la vialidad, coadyuvando en el diseño, implantación y evaluación de la política criminal del Estado;
 
@@ -645,13 +653,17 @@ XL.- Las demás que le fijen las leyes y reglamentos vigentes en el Estado.
 
 La Secretaría de Educación Guerrero, es el órgano encargado de impulsar integralmente los programas de educación pública y privada en el Estado y le corresponde el despacho de los asuntos siguientes:
 
-I.- Formular y coordinar la política de desarrollo educativo del Gobierno del Estado;
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2011)</small>
+
+I.- Formular y coordinar la política de desarrollo educativo del Gobierno del Estado, libre de toda forma de discriminación y orientada a promover la equidad, el respeto a los derechos humanos y las libertades democráticas;
 
 II.- Planear, desarrollar, dirigir y vigilar la educación a cargo del Gobierno Estatal y de los particulares, en todos los tipos, niveles y modalidades previstos en la legislación aplicable;
 
 III.- Implementar programas tendientes a elevar la calidad de la educación en todos sus niveles y modalidades en la Entidad;
 
-IV.- Diseñar e implementar estrategias coordinadas que posibiliten el acceso a la educación básica y la oportunidad de concluir los estudios;
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2011)</small>
+
+IV.- Diseñar e implementar estrategias coordinadas, con enfoque de género, que posibiliten el acceso a la educación básica y a la oportunidad de concluir los estudios;
 
 V.- Establecer y conducir la política de desarrollo educativo que preserve y difunda los valores nacionales y estatales;
 
@@ -701,9 +713,11 @@ XX Bis.- Promover de conformidad con las disposiciones aplicables y ante las ins
 
 XXI.- Las demás que le fijen las leyes y reglamentos vigentes en el Estado.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE FEBRERO DE 2011)</small>
+
 ###### ARTICULO 27.
 
-La Secretaría de Salud, es el órgano encargado de coordinar el Sistema Estatal de Salud e impulsar integralmente los programas de salud en la Entidad, tanto en materia de salud pública como de atención médica, promover la interrelación sistemática de acciones que en la materia lleven a cabo la Federación y el Estado y ejercer facultades de autoridad sanitaria en su ámbito de competencia, correspondiéndole el despacho de los siguientes asuntos:
+La Secretaría de Salud, es el órgano encargado de coordinar el Sistema Estatal de Salud e impulsar integralmente los programas de salud en la Entidad, tanto en materia de salud pública como de atención médica, con énfasis en salud sexual y reproductiva y enfocada a reducir la mortalidad materna infantil; promover la interrelación sistemática de acciones que en la materia lleven a cabo la Federación y el Estado y ejercer facultades de autoridad sanitaria en su ámbito de competencia, correspondiéndole el despacho de los siguientes asuntos:
 
 I.- Establecer y conducir la política estatal en materia de salud, en los términos de las leyes aplicables y atendiendo los planes, programas y directrices de los Sistemas Nacional y Estatal de Salud y de conformidad con lo dispuesto por el Gobernador del Estado;
 
@@ -741,7 +755,9 @@ XIV.- Las demás que le fijen las leyes y reglamentos vigentes en el Estado.
 
 La Secretaría de Desarrollo Económico es el órgano encargado de planear, regular, promover y fomentar el desarrollo económico, industrial, agroindustrial, minero, artesanal y comercial en el Estado, correspondiéndole el despacho de los asuntos siguientes:
 
-I.- Proponer y aplicar las políticas y programas relativos al fomento de las actividades industriales, agroindustriales, mineras, artesanales, comerciales y de abasto;
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2011)</small>
+
+I.- Proponer y aplicar las políticas y programas relativos al fomento de las actividades industriales, agroindustriales, mineras, artesanales, comerciales y de abasto, impulsando de manera equitativa la participación de las mujeres;
 
 II.- Formular y promover programas de fomento a la comercialización de la producción local en el mercado interno y externo;
 
@@ -763,7 +779,9 @@ IX.- Participar en la planeación y programación de las obras e inversiones ten
 
 X.- Proponer y proveer lo conducente para el otorgamiento de estímulos económicos y fiscales, con el objeto de atraer la inversión y el desarrollo de actividades industriales, agroindustriales, mineras, comerciales y artesanales en la Entidad, de conformidad con lo establecido en la Ley de Fomento Económico del Estado de Guerrero y su reglamento;
 
-XI.- Fomentar la creación de fuentes de empleo promoviendo el establecimiento y ampliación de la micro, pequeña, mediana y gran empresa en el Estado, así como la creación de parques y corredores industriales, centrales de abasto y centros comerciales;
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2011)</small>
+
+XI.- Fomentar la creación de fuentes de empleo promoviendo el establecimiento y ampliación de la micro, pequeña, mediana y gran empresa en el Estado, así como la creación de parques y corredores industriales, centrales de abasto y centros comerciales; desde una perspectiva de género en su diseño y planeación;
 
 XII.- Promover la realización de ferias, exposiciones y congresos industriales, agroindustriales, mineros, artesanales y comerciales, así como el desarrollo de encuentros de provedurías locales;
 
@@ -839,21 +857,27 @@ XXIII.- Establecer y operar un sistema de seguimiento de los programas federales
 
 XXIV.- Las demás que le fijen las leyes y reglamentos vigentes en el Estado.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE FEBRERO DE 2011)</small>
+
 ###### ARTICULO 30.
 
-La Secretaría de Desarrollo Rural, es el órgano encargado de promover y fomentar el desarrollo agrícola, forestal, ganadero, pesquero, así como del manejo de los recursos naturales en el Estado, correspondiéndole el despacho de los asuntos siguientes:
+La Secretaría de Desarrollo Rural, es el órgano encargado de promover y fomentar el desarrollo agrícola, forestal, ganadero, pesquero, así como del manejo de los recursos naturales en el Estado, procurando la participación de las mujeres, en igualdad de condiciones, en estas actividades de diseño planeación y cumplimiento correspondiéndole el despacho de los asuntos siguientes:
 
 > <small>(REFORMADA, P.O. 27 DE ABRIL DE 2004)</small>
 
 I.- Elaborar los planes, programas y acciones, de corto, mediano y largo plazo, del sector agropecuario, pesquero, que respondan a un criterio de manejo sustentable de los recursos naturales, con la participación de las dependencias federales y estatales correspondientes, ayuntamientos, organizaciones de productores, productores individuales y campesinos, en el seno del Comité de Planeación para el Desarrollo del Estado y coordinar su implementación;
 
-II.- Formular y ejecutar los planes, programas y acciones para el desarrollo integral de los campesinos del Estado;
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2011)</small>
+
+II.- Formular y ejecutar los planes, programas y acciones para el desarrollo integral de las personas que viven y trabajan en las zonas rurales del Estado, principalmente aquellos dirigidos a mejorar las condiciones de las mujeres;
 
 > <small>(REFORMADA, P.O. 27 DE ABRIL DE 2004)</small>
 
 III.- Fomentar, formular, supervisar y coordinar la operación de los programas de desarrollo agrícola, ganadero, pesquero con criterios de manejo sustentable de los recursos naturales;
 
-IV.- Apoyar la organización para la producción, coordinando con las dependencias federales afines y productores, las acciones para el financiamiento, seguros, insumos, asistencia técnica y administrativa, investigación, capacitación y transferencia de tecnología, en beneficio de campesinos, ejidatarios, comuneros, pequeños propietarios y organizaciones de productores legalmente constituidas;
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2011)</small>
+
+IV.- Apoyar la organización para la producción, coordinando con las dependencias federales afines y productores, las acciones para el financiamiento, seguros, insumos, asistencia técnica y administrativa, investigación, capacitación y transferencia de tecnología, en beneficio de mujeres, campesinos, ejidatarios, comuneros, pequeños propietarios y organizaciones de productores legalmente constituidas;
 
 > <small>(REFORMADA, P.O. 27 DE ABRIL DE 2004)</small>
 
@@ -913,11 +937,15 @@ XXIX.- Establecer y operar un sistema de seguimiento y evaluación de los progra
 
 XXX.- Las demás que le fijen las leyes y reglamentos vigentes en el Estado.
 
-###### ARTICULO 31.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE FEBRERO DE 2011)</small>
 
-La Secretaría de Asuntos Indígenas es el órgano encargado de establecer y conducir las acciones encaminadas a preservar los derechos y cultura de las comunidades indígenas, así como de dar seguimiento a la aplicación y operación de los programas y acciones de las dependencias federales, estatales y municipales, dirigidos a promover el desarrollo integral de los indígenas, y le corresponde el despacho de los siguientes asuntos:
+###### ARTÍCULO 31.
 
-I.- Promover el respeto de los derechos, lengua y cultura de las comunidades indígenas;
+La Secretaría de Asuntos Indígenas es el órgano encargado de establecer y conducir las acciones encaminadas a preservar los derechos y cultura de las comunidades indígenas, promoviendo su desarrollo y fomentando el respeto a los derechos humanos, particularmente los de las mujeres, así como de dar seguimiento a la aplicación y operación de los programas y acciones de las dependencias federales, estatales y municipales; dirigidos a promover el desarrollo integral de los indígenas, y le corresponde el despacho de los siguientes asuntos:
+
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2011)</small>
+
+I.- Promover el respeto de los derechos, lengua y cultura de las comunidades indígenas; erradicando la eliminación de prácticas sociales y culturales basadas en la desigualdad de género;
 
 II.- Formular e instrumentar un Plan de Desarrollo Integral para las comunidades indígenas del Estado, respetando el contenido del Plan Estatal de Desarrollo y basado en las disposiciones de los artículos 4o. de la Constitución Política de los Estados Unidos Mexicanos y 10o. de la particular del Estado;
 
@@ -959,7 +987,9 @@ ARTICULO 31 BIS.- La Secretaría de Medio Ambiente y Recursos naturales del Esta
 
 I.- Observar y hacer observar la exacta aplicación de las normas y reglamentos federales, estatales y municipales en materia (sic) manejo y aprovechamiento sustentable de los recursos naturales y del equilibrio ecológico en coordinación con el Gobierno Federal, los Ayuntamientos y la participación de los Sectores Social y Privado;
 
-II.- Formular y conducir la política estatal en materia de manejo y aprovechamiento de los recursos naturales, así como en materia de protección ecológica y saneamiento ambiental con el fin de establecer e implementar programas y acciones para el aprovechamiento racional de los recursos naturales, el ordenamiento ecológico territorial, la preservación y restauración del equilibrio ecológico, la protección de las áreas naturales de jurisdicción estatal y la prevención y control de la contaminación del agua, suelo y aire y el desarrollo forestal en el Estado;
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2011)</small>
+
+II.- Formular y conducir la política estatal en materia de manejo y aprovechamiento de los recursos naturales, así como en materia de protección ecológica y saneamiento ambiental con el fin de establecer e implementar programas y acciones para el aprovechamiento racional de los recursos naturales, el ordenamiento ecológico territorial, la preservación y restauración del equilibrio ecológico, la protección de las áreas naturales de jurisdicción estatal y la prevención y control de la contaminación del agua, suelo y aire y el desarrollo forestal en el Estado, generando una amplia participación de las mujeres en el diseño, desarrollo e instrumentación de dichas políticas;
 
 III.- Desarrollar y aplicar los instrumentos necesarios de política ambiental para poder llevar a cabo gestión o administración ambiental efectiva en el Estado;
 
@@ -1035,25 +1065,29 @@ XXXVIII.- Las demás que le señalen las Leyes y Reglamentos vigentes en el Esta
 
 La Secretaría de Medio Ambiente y Recursos Naturales del Estado (SEMAREN), contará en su estructura con un órgano administrativo desconcentrado denominado Procuraduría de Protección Ecológica.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE JULIO DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE FEBRERO DE 2011)</small>
 
-###### ARTICULO 32.
+###### ARTÍCULO 32.
 
-La Secretaría de la Mujer, es el órgano encargado de establecer y ejecutar las políticas y acciones que favorezcan el bienestar y la incorporación de la mujer al desarrollo integral del Estado, correspondiéndole el despacho de los asuntos siguientes:
+La Secretaría de la Mujer, es el órgano encargado de proponer, promover, impulsar y evaluar políticas, planes, programas y medidas encaminadas a incorporar la perspectiva de género, con un criterio transversal en todas las instancias de la administración pública, a fin de eliminar todo tipo de discriminación que obstaculice la igualdad, el acceso a las oportunidades y el desarrollo de las mujeres; correspondiéndole el despacho de los asuntos siguientes:
 
-> <small>(REFORMADA, P.O. 13 DE JULIO DE 2004)</small>
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2011)</small>
 
-I.- Formular y ejecutar el Programa de Participación Social de la Mujer, con la intervención que corresponda a las dependencias que integran la Administración Pública del Estado;
+I.- Formular y ejecutar el Programa Estatal por la Equidad de Género, que asegure la eliminación de estereotipos y prácticas sociales que favorecen la discriminación y la violencia hacia ella y que promueva la participación equitativa de la misma en el desarrollo económico, político, social y cultural con la intervención que corresponda a las dependencias que integran la Administración Pública del Estado;
 
 II.- Apoyar la coordinación con el Gobierno Federal y con los Municipios, a efecto de que participen en la elaboración e implementación del programa al que se refiere la fracción anterior;
 
-III.- Rendir opinión sobre los programas que tengan a su cargo las dependencias y entidades federales, estatales y municipales y acerca de los recursos que asignen a ello, cuidando que beneficien a la mujer guerrerense;
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2011)</small>
+
+III.- Emitir opinión sobre los programas que tengan a su cargo las dependencias y entidades federales, estatales y municipales, proponiendo que la asignación de los recursos a los mismos, respondan a un enfoque de género a fin de que se atienda (sic) las necesidades de la mujer guerrerense;
 
 IV.- Dar seguimiento a los programas y vigilar la ejecución de obras y la prestación de servicios del sector público, para que favorezcan la incorporación de la mujer al bienestar y a la actividad productiva;
 
 V.- Coordinar el Subcomité de la Participación Social de la Mujer derivado del Comité de Planeación para el Desarrollo del Estado, así como el grupo correspondiente del Consejo Estatal de Población, con sujeción a la Ley General de Población y a la Ley de Planeación del Estado;
 
-VI.- Proponer adecuaciones legales que favorezcan la igualdad efectiva de la mujer, así como su mejoramiento integral dentro de la sociedad;
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2011)</small>
+
+VI.- Proponer reformas legislativas que eliminen todo tipo de discriminación y que favorezcan la igualdad efectiva de la mujer, adecuando el marco normativo a la legislación nacional e internacional en la materia;
 
 > <small>(REFORMADA, P.O. 13 DE JULIO DE 2004)</small>
 
@@ -1101,7 +1135,9 @@ II.- Formular, organizar, dirigir y promover, en coordinación con las dependenc
 
 III.- Coordinar, organizar, dirigir y fomentar, con la participación de los sectores social y privado, el establecimiento de centros juveniles, recreativos y culturales;
 
-IV.- Promover, coordinar y fomentar programas de orientación y educación para la salud de la juventud;
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2011)</small>
+
+IV.- Promover, coordinar y fomentar programas de orientación y educación para la salud de la juventud, haciendo énfasis en la educación sexual y reproductiva;
 
 V.- Promover la defensa de los derechos de la juventud;
 
@@ -1151,9 +1187,11 @@ XXVII.- Establecer y operar un sistema de seguimiento de los programas federales
 
 XXVIII.- Las demás que le fijen las leyes y reglamentos vigentes en el Estado.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE FEBRERO DE 2011)</small>
+
 ###### ARTICULO 34.
 
-La Contraloría General del Estado, es el órgano encargado de establecer y operar el Sistema Estatal de Control Gubernamental, aplicar la Ley de Responsabilidades de los Servidores Públicos del Estado, realizar estudios y recomendaciones administrativas, vigilando su cumplimiento y observancia para una mejor funcionalidad estructural y operativa de la Administración Pública Estatal, correspondiéndole el despacho de los asuntos siguientes:
+La Contraloría General del Estado, es el órgano encargado de establecer y operar el Sistema Estatal de Control Gubernamental, aplicar la Ley de Responsabilidades de los Servidores Públicos del Estado, realizar estudios y recomendaciones administrativas, vigilando su cumplimiento y observancia para una mejor funcionalidad estructural y operativa de la Administración Pública Estatal, dar cuenta de la aplicación de la política de equidad de género de la administración Pública, correspondiéndole el despacho de los asuntos siguientes:
 
 I.- Establecer y operar en coordinación con las dependencias y entidades de la Administración Pública, el Sistema Estatal de Control y Evaluación;
 
@@ -1209,7 +1247,9 @@ IV.- Proporcionar los servicios periciales que requieran la investigación de de
 
 V.- Coordinar su actuación con las autoridades federales en la persecución de los delitos competencia de aquellas;
 
-VI.- Formular y desarrollar programas de capacitación para el personal de la Procuraduría y de la policía bajo la autoridad y mando inmediato del Ministerio Público;
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2011)</small>
+
+VI.- Formular y desarrollar programas de capacitación que promuevan la no discriminación y la igualdad de derechos entre mujeres y hombres, para el personal de la Procuraduría y de la policía bajo la autoridad y mando inmediato del Ministerio Público;
 
 VII.- Actualizar permanentemente la estadística e identificación criminal de la Entidad, coordinadamente con las áreas similares que operen en el resto de las Entidades Federativas;
 
@@ -1219,13 +1259,13 @@ IX.- Participar junto con las demás dependencias competentes, en la actualizaci
 
 X.- Establecer y operar un sistema de seguimiento de los programas federales relacionados con los asuntos de su competencia, conforme a lo que las leyes y acuerdos de coordinación establezcan, en congruencia con el Comité de Planeación para el Desarrollo del Estado; y
 
-> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2003)</small>
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2011)</small>
 
-XI.- Dictar las medidas y providencias necesarias para proporcionar seguridad y protección a la víctima u ofendido del delito, así como a los servidores y exservidores públicos que por la naturaleza de sus funciones que desempeñen o hayan desempeñado lo requieran, por un tiempo igual al doble del lo que dure el proceso en el primer supuesto y por un término igual al doble del tiempo que dure en funciones en el segundo supuesto;
+XI.- Dictar las medidas y providencias necesarias para proporcionar seguridad y protección a la víctima u ofendido del delito, particularmente a las mujeres y quienes se encuentren en situación de vulnerabilidad, así como a los servidores y ex servidores públicos que por la naturaleza de sus funciones que desempeñen o hayan desempeñado lo requieran, por un tiempo igual al doble de lo que dure el proceso en el primero (sic) supuesto y por un término igual al doble del tiempo que dure en funciones en el segundo supuesto;
 
-> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2003)</small>
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2011)</small>
 
-XII.- Instrumentar políticas, lineamientos y acciones en materia de prevención del delito, y
+XII.- Instrumentar políticas, lineamientos y acciones en materia de prevención del delito, y de acceso a la justicia, para las mujeres; y
 
 XIII.- Las demás que le fijen las leyes y reglamentos vigentes en el Estado.
 
@@ -1540,3 +1580,7 @@ DÉCIMO TERCERO.- Sin perjuicio de las bases previstas en el presente Decreto, l
 DÉCIMO CUARTO.- Se derogan todas aquellas disposiciones contenidas en leyes, reglamentos, decretos y acuerdos, que se opongan o que ya se contengan en este decreto.
 
 DÉCIMO QUINTO.- Remítase al Titular del Poder Ejecutivo del Estado para su conocimiento y publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 8 DE FEBRERO DE 2011.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
