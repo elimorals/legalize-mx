@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-justicia-para-adolescentes-para-el-distrito-federal-5749
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-14"
-last_updated: "2009-02-24"
+last_updated: "2011-02-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57497&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2007-10-25"
 
 LEY DE JUSTICIA PARA ADOLESCENTES PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 24 DE FEBRERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 8 DE FEBRERO DE 2011.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el miércoles 14 de noviembre de 2007.
 
@@ -241,6 +241,10 @@ I. Tribunal Superior de Justicia del Distrito Federal:
 a. Jueces Especializados en Justicia para adolescentes;
 
 b. Magistrados Especializados en Justicia para adolescentes;
+
+> <small>(ADICIONADO, G.O. 8 DE FEBRERO DE 2011)</small>
+
+c. Centro de Justicia Alternativa;
 
 II. Procuraduría General de Justicia del Distrito Federal:
 
@@ -714,19 +718,23 @@ VII. Tratándose de los Procesos Orales las pruebas serán valoradas por el Juez
 
 VIII. Cuando obren pruebas obtenidas por la Secretaría de Seguridad Pública del Distrito Federal con equipos y sistemas tecnológicos, las mismas se apreciarán y valorarán en términos de la Ley que regula el uso de tecnología para la Seguridad Pública del Distrito Federal.
 
-### CAPÍTULO IX. DE LA CONCILIACIÓN
+> <small>(REFORMADA SU DENOMINACION, G.O. 8 DE FEBRERO DE 2011)</small>
 
-ARTÍCULO 40 (SIC). FIN DE LA CONCILIACIÓN.
+### CAPÍTULO IX. DE LOS MECANISMOS ALTERNATIVOS DE SOLUCIÓN DE CONTROVERSIAS
 
-La conciliación es un procedimiento de justicia alternativa consistente en un acuerdo de voluntades realizado entre las partes, con el fin de plantear una solución a su conflicto con la debida asistencia y vigilancia de la autoridad ministerial o judicial.
+> <small>(REFORMADO, G.O. 8 DE FEBRERO DE 2011)</small>
 
-Durante el desarrollo de la diligencia de conciliación el adolescente y la víctima o el ofendido, deberán ser asistidos por su defensor y el Ministerio Público, respectivamente.
+ARTÍCULO 40 (SIC).- FIN DE LOS MECANISMOS ALTERNATIVOS DE SOLUCIÓN DE CONTROVERSIAS.
 
-La conciliación puede realizarse en cualquier momento del procedimiento desde que el adolescente es puesto a disposición del Ministerio Público.
+Los mecanismos alternativos de solución de controversias consisten en los diversos procedimientos que permiten la solución de los conflictos entre particulares, como el de mediación, a través del acuerdo de voluntades, con el fin de llegar a la solución de los mismos y, en su caso, sobreseer el procedimiento.
 
-Solo procederá la conciliación siempre que se garantice la reparación del daño y exista un proceso de rehabilitación fijado por el Juez, y se trate de una conducta tipificada como delito no grave.
+Durante el desarrollo de los mecanismos alternativos de solución de controversias, el adolescente y la víctima o el ofendido, deberán ser asistidos por un profesional especializado, en el marco de la justicia restaurativa, tratándose de conductas tipificadas como delitos no graves.
 
-El Ministerio Público estará obligado a promover el acuerdo de conciliación, en los términos de esta Ley.
+La aplicación de los mecanismos alternativos de solución de controversias puede realizarse en cualquier momento del procedimiento, previa suspensión del mismo, por no más de treinta días, desde que el adolescente es puesto a disposición del Ministerio Público y hasta la ejecución de la sentencia.
+
+La aplicación de los mecanismos alternativos de solución de controversias tendrá como efectos: la solución del conflicto que garantice la reparación de los daños (moral, psicológico y material), la consideración del proceso de rehabilitación fijado por el juez de conformidad con el Título Tercero de esta Ley, así como de las medidas compensatorias del daño que se acuerden y el sobreseimiento del procedimiento.
+
+El Ministerio Público supervisará el cumplimiento de los acuerdos restaurativos emanados de los mecanismos alternativos de solución de controversias y lo hará del conocimiento del juez. En caso de incumplimiento de los mismos cesarán los efectos de la suspensión del procedimiento y éste se reanudará.
 
 ### CAPÍTULO X. CAUSAS DE EXCLUSIÓN DE LA CONDUCTA TIPIFICADA COMO DELITO
 
@@ -808,6 +816,10 @@ II. Cuando al adolescente se le tenga por sustraído de la acción de la justici
 
 III. Por incapacidad temporal, física y/o mental del adolescente para continuar el procedimiento.
 
+> <small>(ADICIONADA, G.O. 8 DE FEBRERO DE 2011)</small>
+
+IV. Cuando las partes soliciten solucionar su conflicto en el Centro de Justicia Alternativa, de conformidad a lo dispuesto en el artículo 5, fracción V, de la Ley de Justicia Alternativa del Tribunal Superior de Justicia para el Distrito Federal, caso en el cual la suspensión será hasta por un término de treinta días, siempre y cuando las conductas tipificadas como delitos sean no graves.
+
 ###### ARTÍCULO 46.
 
 SUSPENSIÓN POR INCAPACIDAD TEMPORAL, FÍSICA Y/O MENTAL.
@@ -839,6 +851,10 @@ IV. Cuando se compruebe durante el procedimiento que la conducta atribuida al ad
 V. En aquellos casos en que se compruebe con el acta del registro civil o en su defecto en los dictámenes médicos respectivos, que el probable adolescente, al momento de cometer la conducta tipificada como delito por las leyes penales, era menor de doce años de edad o mayor de dieciocho años de edad, en cuyo caso se pondrá a disposición de la autoridad competente, acompañando las constancias de autos; y
 
 VI. Cuando el Agente del Ministerio Público no aporte elementos para continuar con el proceso en la etapa de la resolución inicial.
+
+> <small>(ADICIONADA, G.O. 8 DE FEBRERO DE 2011)</small>
+
+VII. Cuando el resultado de la gestión del conflicto, por cualquiera de los mecanismos alternativos de solución de controversias, arroje un acuerdo restaurativo entre las partes, en el caso de las conductas tipificadas como delitos no graves.
 
 ###### ARTÍCULO 49.
 
@@ -1218,7 +1234,9 @@ Una vez dictada la sentencia, la reparación del daño derivado de la realizaci�
 
 POSIBILIDAD DE RESOLVER LA REPARACIÓN DE DAÑO MEDIANTE CONVENIO DE LAS PARTES.
 
-Los Jueces, una vez que la o las personas debidamente legitimadas soliciten el pago de los daños causados, correrán traslado de la solicitud respectiva al adolescente y su defensor y citarán a las partes para la celebración de una audiencia de conciliación, que se llevará a cabo dentro de los diez días siguientes a la notificación, en la cual se procurará el avenimiento de las mismas, proponiéndole las alternativas que estimen pertinentes para solucionar ésta cuestión incidental.
+> <small>(REFORMADO, G.O. 8 DE FEBRERO DE 2011)</small>
+
+Los Jueces, una vez que la o las personas debidamente legitimadas soliciten el pago de los daños causados, correrán traslado de la solicitud respectiva al adolescente y su defensor y citarán a las partes para la celebración de una audiencia restaurativa de avenimiento, que se llevará a cabo en el Centro de Justicia Alternativa del Tribunal Superior de Justicia del Distrito Federal, dentro de los diez días siguientes a la notificación, en la cual se procurará tal avenimiento, para solucionar esta cuestión incidental.
 
 Si las partes llegaran a un convenio, este se aprobará de plano, tendrá validez y surtirá los efectos legales correspondientes tanto por su cumplimiento como por el incumplimiento de alguna de las partes ante las instancias correspondientes.
 
@@ -1573,3 +1591,19 @@ G.O. 24 DE FEBRERO DE 2009.
 PRIMERO.- El presente decreto iniciará su vigencia a partir del día siguiente de su publicación.
 
 SEGUNDO.- Se deroga toda disposición que se oponga al presente decreto.
+
+G.O. 8 DE FEBRERO DE 2011.
+
+Primero. Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+Segundo. El presente decreto entrará en vigor a partir del día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+Tercero. Para su mayor difusión, ordénese su publicación en el Boletín Judicial del Tribunal Superior de Justicia del Distrito Federal.
+
+Cuarto. Se derogan las disposiciones que se opongan al presente Decreto.
+
+Quinto. Los actuales orientadores con que cuenta el Centro de Justicia Alternativa del Tribunal Superior de Justicia del Distrito Federal pasarán a ocupar el cargo de mediador.
+
+Sexto. El Tribunal Superior de Justicia del Distrito Federal contará con sesenta días naturales posteriores a la publicación del presente Decreto para modificar el Reglamento Interno Centro (sic) de Justicia Alternativa del Tribunal Superior de Justicia del Distrito Federal así como las disposiciones administrativas que lo requieran.
+
+Séptimo. El Consejo de la Judicatura del Distrito Federal evaluará la conveniencia de iniciar la aplicación de cuotas de recuperación a que se refiere el artículo 40, a efecto de evitar que se desaliente la utilización de los servicios de mediación, para lo cual diseñara un programa de mediano plazo para la aplicación de cuotas de manera escalonada.
