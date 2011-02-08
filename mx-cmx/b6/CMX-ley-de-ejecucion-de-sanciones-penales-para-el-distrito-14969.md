@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-ejecucion-de-sanciones-penales-para-el-distrito-14969"
 country: "mx"
 rank: "ley"
 publication_date: "1999-09-17"
-last_updated: "2006-06-09"
+last_updated: "2011-02-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14969&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1999-09-15"
 
 LEY DE EJECUCION DE SANCIONES PENALES PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 9 DE JUNIO DE 2006.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 8 DE FEBRERO DE 2011.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el viernes 17 de septiembre de 1999. Republicada en el Diario Oficial de la Federación el jueves 30 de septiembre de 1999.
 
@@ -350,11 +350,11 @@ No se concederá el tratamiento en externación a los sentenciados por los delit
 
 (DEROGADO, G.O. 4 DE JUNIO DE 2004)
 
-> <small>(REFORMADO, G.O. 25 DE JULIO DE 2000)</small>
+> <small>(REFORMADO, G.O. 8 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 35.
 
-El tratamiento a que se refiere el artículo 33 de esta Ley, se diseñará y aplicará por profesionales bajo la supervisión de la Dirección. El tratamiento tendrá como finalidad la readaptación social, con base al trabajo, la capacitación para el mismo, la educación y la responsabilidad social.
+El tratamiento a que se refiere el artículo 33 de esta Ley, se diseñará y aplicará por profesionales con ética probada y quienes serán sujetos de exámenes de capacidades profesional en el ramo en el cual se desarrolle, así como psicológico, y bajo supervisión de la Dirección. El tratamiento tendrá como finalidad la readaptación social, en el trabajo acorde a las aptitudes profesionales o técnicas del sentenciado, así como la capacitación para el mismo, la educación y la responsabilidad social y apoyo psicológico en caso de ser necesario.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE DICIEMBRE DE 2005)</small>
 
@@ -366,7 +366,9 @@ El tratamiento en externación se otorgará a los sentenciados que al menos haya
 
 I.- La sentencia haya causado ejecutoria;
 
-II.- La pena de prisión impuesta no exceda de 7 años;
+> <small>(REFORMADA. G.O. 8 DE FEBRERO DE 2011)</small>
+
+II.- La pena de prisión impuesta no exceda de ocho años;
 
 III.- Sea Primodelincuente;
 
@@ -374,7 +376,9 @@ III.- Sea Primodelincuente;
 
 IV.- Técnicamente se acredite haber presentado un desarrollo intrainstitucional favorable; durante dos periodos de valoración consecutivos;
 
-V.- Cuente con una persona conocida, que se comprometa y garantice a la Autoridad Ejecutora, el cumplimiento de las obligaciones contraídas por el externado;
+> <small>(REFORMADA. G.O. 8 DE FEBRERO DE 2011)</small>
+
+V.- Cuente con una persona conocida, que se comprometa y garantice a la Autoridad Ejecutora, el cumplimiento de las obligaciones contraídas por el externado; y quien deberá de rendir un informe mensual a la autoridad del cumplimiento del sentenciado;
 
 VI.- Compruebe fehacientemente contar en el exterior con un oficio, arte o profesión o exhiba las constancias que acrediten que continúa estudiando;
 
@@ -385,6 +389,10 @@ VII.- Cubra o garantice en su totalidad la reparación del daño o de manera pro
 VIII.- (DEROGADA, G.O. 25 DE JULIO DE 2000)
 
 Reunidos los requisitos a que se refiere éste artículo, la Dirección abrirá el expediente respectivo donde se registrará el control de las condiciones, horarios y actividades que realizará el sentenciado.
+
+> <small>(ADICIONADO, G.O. 8 DE FEBRERO DE 2011)</small>
+
+Cuando se trate de mayores de edad y el delito no esté contemplado en los señalados en el artículo 33 Ter., y no exceda los ocho años de prisión que determina el presente artículo, el sentenciado deberá contar con sesiones de evaluación y apoyo para reforzar valores morales y conciencia social.
 
 ###### Artículo 37.
 
@@ -849,3 +857,9 @@ SEGUNDO.- El presente Decreto entrará en vigor sesenta días naturales siguient
 TERCERO.- Publíquese el presente Decreto en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
 
 CUATRO.- El Jefe de Gobierno del Distrito Federal expedirá el Reglamento que regule el Beneficio de Reclusión Domiciliaria mediante el Programa de Monitoreo Electrónico a Distancia, a más tardar sesenta días naturales después de la publicación del presente Decreto en la Gaceta oficial del Distrito Federal.
+
+G.O. 8 DE FEBRERO DE 2011.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de la fecha de su publicación en la Gaceta Oficial del Distrito Federal.
+
+Segundo. Publíquese el presente Decreto en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
