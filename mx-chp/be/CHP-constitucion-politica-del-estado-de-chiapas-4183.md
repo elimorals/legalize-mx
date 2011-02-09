@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "2010-11-17"
+last_updated: "2011-02-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CONSTITUCION POLITICA DEL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE NOVIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE FEBRERO DE 2011.
 
 Constitución publicada en Alcance No. 5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -257,9 +257,9 @@ El Instituto de Elecciones y Participación Ciudadana, será competente para con
 
 Il. La Comisión de Fiscalización Electoral, será el órgano del Estado de Chiapas, público, autónomo, con personalidad jurídica y patrimonio propios; será responsable de vigilar y fiscalizar, los gastos de las precampañas, campañas electorales, la transparencia y fiscalización del financiamiento que los partidos políticos, coaliciones, precandidatos y candidatos empleen en sus gastos ordinarios permanentes, de precampaña y campaña electorales; así como de velar por el respeto a las leyes electorales e investigar las violaciones a éstas.
 
-> <small>(REFORMADO, P. O. 17 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2011)</small>
 
-Estará a cargo de un Presidente, quien durará en su encargo siete años y será nombrado por el Congreso del Estado o la Comisión Permanente en su caso, por el voto de la mayoría de sus miembros presentes a propuesta del Ejecutivo; podrá ser removido exclusivamente en los términos del Título Décimo de esta Constitución.
+Estará integrada por un Presidente y dos Contralores Electorales, nombrados por el Congreso del Estado o la Comisión Permanente en su caso, por el voto de la mayoría de sus miembros presentes, a propuesta del Titular del Ejecutivo del Estado. Durarán en su encargo siete años, pudiendo ser reelectos para otro periodo igual, y únicamente podrán ser removidos en los términos del Título Décimo de esta Constitución. La Comisión de Fiscalización Electoral funcionará siempre en Pleno, el cual estará integrado por sus tres integrantes, quienes contarán con voz y voto en las sesiones. Concurrirán únicamente con voz, a las sesiones del Pleno, los representantes de los partidos políticos y un Secretario Ejecutivo, quien será designado por el voto mayoritario de los integrantes del Pleno, a propuesta del Presidente.
 
 La Comisión de Fiscalización Electoral, contará con los órganos necesarios para el adecuado desempeño de sus atribuciones, de acuerdo con lo señalado en la Ley respectiva.
 
@@ -639,7 +639,7 @@ IV.- Haber residido en el Estado cuando menos cinco años anteriores a dicha ele
 
 ### CAPITULO I. DE LA INSTITUCIÓN DEL MINISTERIO PÚBLICO
 
-> <small>(REFORMADO, P. O. 17 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
 
 ###### ARTICULO 18.
 
@@ -653,9 +653,9 @@ I.- El Gobernador del Estado, los Senadores y los Diputados Federales, aun cuand
 
 II.- Los funcionarios que a continuación se indican, si no se separan definitivamente de sus cargos noventa días antes de la elección:
 
-> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2011)</small>
 
-A) El Secretario General de Gobierno; los Secretarios de Despacho; los Subsecretarios de Gobierno; el Fiscal Electoral y los Fiscales de Distrito; el Presidente de la Comisión de Fiscalización Electoral; el Presidente de la Junta local de Conciliación y Arbitraje; los Directores Generales Dependientes del Ejecutivo; y los Consejeros del Consejo de Estatal de los Derechos Humanos.
+A) El Secretario General de Gobierno; los Secretarios de Despacho; los Subsecretarios de Gobierno; el Fiscal Electoral y los Fiscales de Distrito; el Presidente y los Contralores de la Comisión de Fiscalización Electoral; el Presidente de la Junta local de Conciliación y Arbitraje; los Directores Generales Dependientes del Ejecutivo; y los Consejeros del Consejo de (sic) Estatal de los Derechos Humanos.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -833,9 +833,9 @@ XIII.- Aprobar o desaprobar las solicitudes de empréstitos que gestione el Ejec
 
 XIV.- Aprobar o desaprobar cualquier otro compromiso por el que se afecte el Patrimonio del Estado o de los Municipios, siempre y cuando sea de notorio beneficio a la colectividad;
 
-> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 1988)</small>
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2011)</small>
 
-XV.- Dictar leyes para la preservación, conservación y restauración del equilibrio ecológico del medio ambiente, de las riquezas naturales del estado y el aprovechamiento y explotación racional de esos recursos;
+XV.- Dictar leyes para la preservación, conservación y restauración del equilibrio ecológico del medio ambiente, de las riquezas naturales del Estado, el aprovechamiento y explotación racional de esos recursos; así como para la adaptación al cambio climático y la mitigación de sus efectos adversos.
 
 XVI.- Conceder amnistía por delitos cuyo conocimiento corresponda a los Tribunales locales;
 
@@ -871,31 +871,57 @@ XXVII.- Fijar los ingresos que deban integrar la Hacienda de los Municipios, pro
 
 XXVIII.- Crear o suprimir Municipios dentro de los ya existentes, una vez que se hayan satisfecho los requisitos que la Ley Orgánica establece;
 
-> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+> <small>N. DE E. DE LAS REFORMAS APROBADAS POR EL ARTICULO UNICO DEL DECRETO NUMERO 146, PUBLICADO EN EL P.O. DE 9 DE FEBRERO DE 2011, SE MODIFICO DE FORMA SUSTANCIAL LA ESTRUCTURA DE LA PRESENTE FRACCION.</small>
 
-XXIX. Analizar la cuenta pública del año anterior para verificar, en lo general, si existe, en cuanto a su contenido, congruencia entre las cantidades correspondientes a los ingresos obtenidos y/o a los gatos realizados, con relación a los conceptos y a las partidas respectivas, así como revisarla y fiscalizarla, a través del Órgano de Fiscalización Superior, con el objeto de evaluar los resultados de la gestión financiera de las entidades fiscalizadas; comprobar si se observó lo dispuesto en los respectivos presupuestos de egresos, Ley de Ingresos y demás disposiciones legales aplicables; practicar auditorías sobre el desempeño, para verificar, de manera cualitativa, el cumplimiento de los objetivos y las metas de los programas estatales y municipales, así como comprobar si las políticas públicas en materia de desarrollo social se alinean y cumplen los Objetivos de Desarrollo del Milenio.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE FEBRERO DE 2011)</small>
+
+XXIX. Analizar la cuenta pública del año anterior para verificar, en lo general, los ingresos obtenidos y/o a los gastos realizados, con relación a los conceptos y a las partidas respectivas, así como revisarla y fiscalizarla, a través del Órgano de Fiscalización Superior, con el objeto de evaluar los resultados de la gestión financiera de las entidades fiscalizadas; comprobar si se observó lo dispuesto en los respectivos presupuestos de egresos, Ley de Ingresos y demás disposiciones legales aplicables; practicar auditorías sobre el desempeño para verificar de manera cualitativa, el cumplimiento de los objetivos y las metas de los programas estatales y municipales, así como comprobar si las políticas públicas en materia de desarrollo social, se alinean y cumplen los Objetivos de Desarrollo del Milenio del Programa de las Naciones Unidas.
+
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
 
 En el caso de la revisión sobre el cumplimiento de los objetivos de los programas, el Órgano de Fiscalización Superior sólo podrá emitir las recomendaciones para la mejora en el desempeño de los mismos, en los términos de la Ley.
 
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
 La cuenta pública del ejercicio fiscal correspondiente deberá ser presentada al Congreso del Estado o a la Comisión Permanente, en los recesos de aquél, a más tardar el treinta de abril del año siguiente al del ejercicio. Sólo se podrá ampliar el plazo de presentación cuando medie solicitud suficientemente justificada, a juicio del Congreso, para lo cual deberá comparecer el secretario del ramo correspondiente o bien el Presidente Municipal del Ayuntamiento respectivo, según se trate de cuenta pública estatal o municipal, a informar de las razones que motiven la solicitud; la prórroga no deberá exceder de treinta días naturales y, en tal supuesto, el Órgano de Fiscalización Superior contará con el mismo tiempo adicional para la presentación del informe del resultado de la revisión y fiscalización de la cuenta pública.
+
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
 
 En el caso de renovación sexenal del Poder Ejecutivo, la cuenta pública abarcará los tres primeros trimestres del año en curso, la cual deberá ser presentada por el Ejecutivo a más tardar el siete de diciembre del año en curso.
 
-El Congreso, dentro de los treinta días naturales siguientes al de la presentación de la cuenta pública, la aprobará, en lo general, si al analizar su contenido advierte que existe congruencia entre las cantidades correspondientes a los ingresos obtenidos y/o a los gastos realizados, con relación a los conceptos y a las partidas respectivas. De encontrar discrepancias, la devolverá para que, en un término no mayor a diez días naturales, se hagan los ajustes y precisiones conducentes y se presente nuevamente al Congreso, para su aprobación en lo general. De subsistir las discrepancias o incongruencias señaladas, se abstendrá de aprobarla y la remitirá, en un término que no exceda de diez días naturales, al Órgano de Fiscalización Superior para su revisión y fiscalización correspondiente y para determinar las responsabilidades de acuerdo con la Ley. Cuando la cuenta pública sea aprobada en lo general la turnará, en igual término, al referido Órgano para su revisión y fiscalización.
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2011)</small>
 
-La aprobación, en lo general, de la cuenta pública exime al Ejecutivo de cualquier responsabilidad; de modo que si apareciera alguna con motivo de su revisión y fiscalización, esta será de la exclusiva responsabilidad de las entidades o funcionarios encargados del manejo del presupuesto.
+El Congreso, dentro de los treinta días naturales siguientes al de la presentación de la cuenta pública, la aprobará, en lo general, como resultado del análisis de su contenido, con respecto a los ingresos obtenidos y/o los gastos realizados y la remitirá al Órgano de Fiscalización Superior para su revisión y fiscalización.
 
-El Órgano de Fiscalización Superior tendrá un plazo no mayor de seis meses, contados a partir de que reciba la correspondiente cuenta pública, para entregar al Congreso, por conducto de la Comisión de Vigilancia, el informe del resultado. Tratándose del ejercicio en que proceda la renovación sexenal del Poder Ejecutivo, deberá rendir en el mismo plazo los informes de resultados, correspondientes a la revisión y fiscalización de la cuenta pública que comprende a los tres primeros trimestres y el relativo a la cuenta pública del último trimestre.
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2011)</small>
+
+La aprobación, en lo general, de la cuenta pública exime al Ejecutivo de cualquier responsabilidad; de modo que si apareciera alguna con motivo de la revisión y fiscalización, ésta será de la exclusiva responsabilidad de los órganos, entidades o funcionarios ejecutores del gasto.
+
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2011)</small>
+
+El Órgano de Fiscalización Superior tendrá un plazo no mayor de seis meses, contado a partir de la fecha en que reciba la correspondiente cuenta pública, para entregar al Congreso, por conducto de la Comisión de Vigilancia, el informe del resultado. Tratándose del ejercicio en que proceda la renovación sexenal del Poder Ejecutivo, deberá rendir en el mismo plazo los informes de resultados, correspondientes a la revisión y fiscalización de la cuenta pública que comprende a los tres primeros trimestres y el relativo a la cuenta pública del último trimestre.
+
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
 
 Recibido el informe del resultado de la revisión y fiscalización de la cuenta pública, la Comisión de Vigilancia, en un término que no podrá exceder de dos meses, revisará, analizará y propondrá el sentido del dictamen, con base en el contenido y en las conclusiones técnicas del informe del resultado del Órgano de Fiscalización Superior, para que éste sea sometido a votación del Pleno del Congreso.
 
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
 El trámite de las observaciones, recomendaciones y acciones promovidas por el Órgano de Fiscalización Superior seguirá su curso, con independencia de la aprobación del dictamen de la Comisión de Vigilancia.
+
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
 
 En los casos en que la Comisión de Vigilancia tenga observaciones en relación con el informe del resultado o considere necesario aclarar o profundizar el contenido de éste, podrá solicitar al Órgano de Fiscalización Superior la entrega por escrito de las explicaciones pertinentes, o bien exigir la comparecencia del Auditor Superior, o de otros servidores públicos de ese Órgano, las veces que considere necesarias, a fin de realizar las aclaraciones correspondientes, sin que ello implique la reapertura o modificación del informe del resultado.
 
-Una vez analizada y aprobada en lo general la cuenta pública con base en su contenido, y revisada y fiscalizada por el Órgano de Fiscalización Superior, conforme a las conclusiones técnicas del informe del resultado, a que se refiere el artículo 30 de esta Constitución, no podrá ser motivo de análisis, revisión o fiscalización posterior alguna.
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2011)</small>
+
+Una vez analizada y aprobada la cuenta pública, con base en su contenido, y revisada y fiscalizada por el Órgano de Fiscalización Superior, conforme a la (sic) conclusiones técnicas del informe de resultado, a que se refiere el artículo 30 de esta Constitución, no podrá ser motivo de análisis, revisión o fiscalización posterior, por ninguna de las instancias fiscalizadoras del Gobierno del Estado.
+
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
 
 Asimismo, la revisión de conceptos ya fiscalizados con motive de los informes mensuales de cuenta pública y de avance de gestión financiera, no podrán duplicarse.
+
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
 
 El Congreso evaluara el desempeño del Órgano de Fiscalización Superior y al efecto le podrá requerir que le informe sobre la evolución de sus trabajos de fiscalización.
 
@@ -965,9 +991,11 @@ LI.- Autorizar al Titular del Poder Ejecutivo así como a los Municipios del Est
 
 El Órgano de Fiscalización Superior del Congreso del Estado, tendrá autonomía técnica y de gestión en el ejercicio de sus atribuciones y para decidir sobre su organización interna, funcionamiento y resoluciones, en los términos que disponga la Ley.
 
-> <small>(REFORMADO, P. O. 17 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE FEBRERO DE 2011)</small>
 
-La función de revisión y fiscalización tiene carácter técnico, autónomo, externo y permanente, y será ejercida conforme a los principios de posterioridad, anualidad, legalidad, universalidad, certeza, definitividad, imparcialidad, independencia y confiabilidad. Para esos efectos, el Órgano de Fiscalización Superior, tendrá a su cargo:
+La función de revisión y fiscalización tiene carácter técnico, autónomo, externo y permanente, y será ejercida conforme a los principios de posterioridad, anualidad, legalidad, definitividad, imparcialidad y confiabilidad. Para esos efectos, el Órgano de Fiscalización Superior, tendrá a su cargo:
+
+> <small>(REFORMADA, P. O. 17 DE NOVIEMBRE DE 2010)</small>
 
 I.- Fiscalizar en forma posterior los ingresos y egresos; el manejo, la custodia y la aplicación de fondos y recursos de los Poderes del Estado, de los entes Públicos Estatales y de los Municipios, incluyendo los recursos de origen federal, en su caso a través de los informes que se rendirán en los términos que disponga la Ley.
 
@@ -975,9 +1003,9 @@ I.- Fiscalizar en forma posterior los ingresos y egresos; el manejo, la custodia
 
 Sin perjuicio del principio de anualidad, el Órgano de Fiscalización Superior del Congreso del Estado podrá solicitar y revisar, de manera casuística y concreta, información de ejercicios anteriores al de la Cuenta Pública en revisión, sin que por este motivo se entienda, para todos los efectos legales, abierta nuevamente la Cuenta Pública del ejercicio al que pertenece la información solicitada, exclusivamente cuando el programa, proyecto o la erogación, contenidos en el presupuesto en revisión abarque para su ejecución y pago diversos ejercicios fiscales. Las observaciones y recomendaciones que, respectivamente, el Órgano de Fiscalización Superior del Congreso del Estado emita, sólo podrán referirse al ejercicio de los recursos públicos de la Cuenta Pública en revisión.
 
-> <small>(ADICIONADO, P. O. 17 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2011)</small>
 
-Una vez analizada y aprobada en lo general la Cuenta Pública, con base en su contenido, y revisada y fiscalizada por el Órgano de Fiscalización Superior, conforme a las conclusiones técnicas del informe de resultado, no podrá ser motivo de análisis, revisión o fiscalización posterior alguna. Asimismo, la revisión de conceptos ya fiscalizados con motivo de los informes mensuales de cuenta pública y de avance de gestión financiera, no podrán duplicarse.
+Una vez analizada y aprobada la cuenta pública, con base en su contenido, y revisada y fiscalizada por el Órgano de Fiscalización Superior, conforme a las conclusiones técnicas del informe de resultado, no podrá ser motivo de análisis, revisión o fiscalización posterior, por ninguna de las instancias fiscalizadoras del Gobierno del Estado. Asimismo, la revisión de conceptos ya fiscalizados con motivo de los informes mensuales de cuenta pública y de avance de gestión financiera, no podrán duplicarse.
 
 > <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2010)</small>
 
@@ -1227,9 +1255,11 @@ VI.- Fomentar por todos los medios posibles la educación popular y procurar el 
 
 Las obras públicas serán realizadas por el Poder Ejecutivo, por sí o adjudicándolas en concurso, mediante convocatoria, en los términos de la Ley respectiva; asimismo, podrá decretar la requisa y pago de materiales para la ejecución de éstas;
 
-> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2009)</small>
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2011)</small>
 
-VII.- Para mejorar e incrementar el índice de desarrollo humano en la Entidad, deberá alinear las políticas públicas en materia de desarrollo social del Estado a los Objetivos de Desarrollo del Milenio del PNUD de la ONU;
+VII.- Para mejorar e incrementar el índice de desarrollo humano en la Entidad, deberá alinear las políticas públicas en materia de desarrollo social del Estado a los Objetivos de Desarrollo del Milenio del Programa de las Naciones Unidas.
+
+De igual manera, para atender el fenómeno global del cambio climático, así como para coadyuvar al desarrollo sustentable, formular e instrumentar las políticas públicas para la adaptación al cambio climático y la mitigación de sus efectos adversos;
 
 > <small>(REFORMADA, P.O. 3 DE MARZO DE 1999)</small>
 
@@ -1293,11 +1323,11 @@ XXI.- Someter a consideración del Congreso o de la Comisión Permanente, los no
 
 XXII.- Nombrar y remover libremente a los empleados y funcionarios de la Administración Pública del Estado de Chiapas, respetando en todo caso los derechos que les asistan conforme a la Legislación aplicable;
 
-> <small>(REFORMADO, P. O. 17 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
 
 Nombrar con la ratificación del Congreso, o en su caso, de la Comisión Permanente, al Procurador General de Justicia del Estado, al Subprocurador General de Justicia y al Fiscal Electoral y removerlos libremente.
 
-> <small>(REFORMADO, P. O. 17 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
 
 Nombrar y remover libremente a los Fiscales de Distrito, a los Fiscales Especializados, a los Fiscales Especiales, al Contralor General de la Procuraduría General de Justicia del Estado y demás servidores públicos que determine su correspondiente Ley Orgánica.
 
@@ -1323,7 +1353,7 @@ XXVII.- Convocar a plebiscito en los términos que establezca esta Constitución
 
 A través del plebiscito, el titular del Poder Ejecutivo del Estado, podrá consultar a la ciudadanía para que expresen su aprobación o rechazo previo a actos o decisiones del mismo que no interfieran o impliquen actos o resoluciones de los Poderes Legislativo y Judicial;
 
-> <small>(ADICIONADO, P. O. 17 DE NOVIEMBRE DE 2010)</small>
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
 
 Convocar la participación ciudadana, a través de consultas, para que expresen su aprobación en materia de cultura y derechos indígenas, en términos del Convenio 169 sobre pueblos indígenas y tribales, de la Organización Internacional del Trabajo.
 
@@ -1365,13 +1395,13 @@ V.- Satisfacer los demás requisitos que señale la Ley Orgánica de la Administ
 
 El Secretario General de Gobierno deberá, además, ser ciudadano chiapaneco.
 
-> <small>(REFORMADO, P. O. 17 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
 
 El Gobernador el (sic) Estado deberá nombrar, como máximo al setenta por ciento de personas del mismo género como titulares de las Dependencias, Organismos y Entidades de la Administración Pública del Estado.
 
-> <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2011)</small>
 
-En las catorce regiones socioeconómicas del Estado, la Secretaría General de Gobierno contará con un Subsecretario de Gobierno, que tendrá a su cargo la coordinación de las acciones que corresponden realizar a las Dependencias de la Administración Pública Estatal con presencia en la región. El Subsecretario de Gobierno deberá reunir como requisitos ser chiapaneco por nacimiento, mayor de veinticinco años y deberá contar con una residencia mínima de cinco años, en el Estado de Chiapas, al momento de su designación.
+En las regiones socioeconómicas del Estado, la Secretaría General de Gobierno contará con un Subsecretario de Gobierno, que tendrá a su cargo la coordinación de las acciones que corresponden realizar a las Dependencias de la Administración Pública Estatal con presencia en la región. El Subsecretario de Gobierno deberá reunir como requisitos ser chiapaneco por nacimiento, mayor de veinticinco años y deberá contar con una residencia mínima de cinco años en el Estado de Chiapas, al momento de su designación.
 
 > <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2010)</small>
 
@@ -1599,9 +1629,9 @@ Los Magistrados del Tribunal Constitucional durarán en su encargo nueve años y
 
 El Tribunal Constitucional residirá en la capital del Estado; sus atribuciones serán las establecidas en esta Constitución y en la Ley respectiva. Funcionará siempre en Pleno, sus sesiones serán públicas y sus resoluciones deberán ser tomadas por mayoría.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2011)</small>
 
-El Presidente del Tribunal Constitucional lo será también del Tribunal Superior de Justicia del Estado, quien será electo cada tres años con posibilidades de reelección hasta por una sola vez y a él corresponderá la administración del Tribunal Constitucional.
+El Presidente del Tribunal Constitucional lo será también del Tribunal Superior de Justicia del Estado, quien será electo cada tres años con posibilidades de reelección y a él corresponderá la administración del Tribunal Constitucional.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -1615,7 +1645,7 @@ El Tribunal Superior de Justicia del Estado elaborará su proyecto de presupuest
 
 Cuando ocurriere una vacante definitiva de algún miembro del Tribunal Constitucional por defunción, renuncia, incapacidad o cualquier otra causa se dará aviso inmediato al Titular del Poder Ejecutivo para proceder en los términos del párrafo segundo del artículo 50 de esta Constitución.
 
-> <small>(REFORMADO, P. O. 17 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
 
 El Titular del Ejecutivo Estatal y el Congreso del Estado deberán velar que en el nombramiento de Magistrados, tanto del Tribunal Constitucional, como de las Salas Regionales, se incluya como máximo al setenta por ciento de personas del mismo género.
 
@@ -1743,11 +1773,11 @@ Tanto jueces como magistrados tendrán derecho a un haber único a la conclusió
 
 Los beneficios recibidos por conclusión ordinaria del encargo y por razones de edad, así como los estímulos económicos al personal, serán proveídos con cargo al Fondo Auxiliar para la Administración de Justicia, en los términos que determine la Ley.
 
-> <small>(REFORMADO, P. O. 17 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
 
 Los Magistrados exclusivamente podrán ser destituidos previo procedimiento que demuestre que actuaron dolosa o negligentemente en el desempeño de sus labores, o incurrieron en alguna de las hipótesis previstas en el Título Décimo de esta Constitución y las demás que señala la Ley de Responsabilidades de los Servidores Públicos del Estado de Chiapas.
 
-> <small>(REFORMADO, P. O. 17 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
 
 Los Jueces de Primera Instancia que durante seis años consecutivos presten sus servicios en el Poder Judicial del Estado, en forma tal que se hayan distinguido por su diligencia, probidad, honradez en el ejercicio de sus funciones y honorabilidad en su conducta ciudadana, podrán ser reelectos por el Consejo de la Judicatura y exclusivamente serán removidos por las causales y en los términos del Título Décimo de esta Constitución y la Ley de Responsabilidades de los Servidores Públicos del Estado de Chiapas, por negligencia en el desempeño de sus labores, o por dejar de reunir alguno de los requisitos que señala la Ley para ocupar el cargo.
 
@@ -1835,11 +1865,11 @@ II. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2008)
 
 III. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2008)
 
-> <small>(REFORMADO, P. O. 17 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
 
 Los Consejeros nombrados a través del procedimiento previsto en el párrafo anterior, actuarán con absoluta independencia de quien los nombre; no deberán ostentarse como sus representantes ni se les otorgará trato preferencial alguno. Durante su encargo exclusivamente podrán ser removidos en los términos del Título Décimo de esta Constitución y las percepciones recibidas con motivo al desempeño de sus atribuciones, serán equivalentes a las de los magistrados del Tribunal Constitucional, mismas que no podrán ser disminuidas durante el periodo del encargo.
 
-> <small>(REFORMADO, P. O. 17 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
 
 Los Consejeros de la Judicatura deberán ser personas que se hayan distinguido por su Capacidad, honestidad y honorabilidad en el ejercicio de su profesión, deberán tener cuando menos treinta años de edad cumplidos al día de la designación y contar con una antigüedad mínima de cinco años en el ejercicio profesional, con título y cédula de licenciado en derecho, además de cumplir con las condiciones establecidas en las fracciones I, IV, V y VI, del artículo 53, de esta Constitución; y ejercerán sus atribuciones con independencia e imparcialidad. Los Consejeros quedarán sujetos a las responsabilidades que establecen el Título Décimo de esta Constitución, el Código de Organización del Poder Judicial del Estado y la Ley de Responsabilidades de los Servidores Públicos del Estado.
 
@@ -2049,9 +2079,11 @@ El Ejecutivo Federal tendrá el mando de la fuerza pública en los lugares donde
 
 VIII.- Las relaciones de trabajo entre los municipios y sus trabajadores, se regirán por las leyes que expida el Congreso del Estado con base en lo dispuesto en el Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, y sus disposiciones reglamentarias.
 
-> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2009)</small>
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2011)</small>
 
-IX.- Para mejorar e incrementar el índice de desarrollo humano de su población, los Ayuntamientos deberán alinear las políticas públicas en materia de desarrollo social del Municipio a los Objetivos de Desarrollo del Milenio del PNUD de la ONU.
+IX.- Para mejorar e incrementar el índice de desarrollo humano de su población, los Ayuntamientos deberán alinear las políticas públicas en materia de desarrollo social del Municipio a los Objetivos de Desarrollo del Milenio del Programa de las Naciones Unidas.
+
+De igual manera, para atender el fenómeno global del cambio climático, así como para coadyuvar al desarrollo sustentable, formular e instrumentar las políticas públicas para la adaptación al cambio climático y la mitigación de sus efectos adversos.
 
 > <small>(REFORMADO, P.O. 20 DE JUNIO DE 2001)</small>
 
@@ -2071,23 +2103,17 @@ El patrimonio y la Hacienda del Estado se componen de los bienes del mismo, de l
 
 El Gobernador, de acuerdo con la naturaleza de las funciones ejecutivas que le correspondan, tiene facultad y obligación de cuidar los fondos públicos, tal como se previene en el Artículo 42 fracción IV de esta Constitución. Para ese fin y como dependencia del Ejecutivo, contará con un organismo que tendrá a su cargo el despacho de esos asuntos, en los términos previstos en la Ley Orgánica de la Administración Pública del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2011)</small>
 
 ###### ARTICULO 66.
 
-El Estado contará con los ingresos que determinen el Código de la Hacienda Pública para el Estado de Chiapas, la Ley de Ingresos del ejercicio correspondiente, las leyes de orden común y los que se prevean en los convenios que se celebren con la Federación.
+El Estado contará con los ingresos que determine la Ley de Hacienda y la Ley de Ingresos del Estado, las leyes del orden común y los que se prevean en los convenios que se celebren con la Federación.
 
-> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2000)</small>
-
-Los egresos se regularán conforme a las disposiciones que establezca el Código de la Hacienda Pública para el Estado de Chiapas y el presupuesto de egresos que serán sancionados anualmente por el Congreso.
-
-> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2010)</small>
-
-El Congreso podrá modificar, a petición del Ejecutivo con excepción del presupuesto programado para el Poder Judicial, los ingresos o egresos del Estados. Las partidas presupuestales, o las que asignen cualquier cantidad para gastos extraordinarios serán firmadas por el Gobernador y el Secretario del ramo que corresponda.
-
-> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
+Los egresos se regularán en el presupuesto correspondiente, que será sancionado anualmente por el Congreso. Las partidas presupuestales, o las que asignen cualquier cantidad para gastos extraordinarios serán firmadas por el Gobernador y el Secretario del ramo que corresponda.
 
 El funcionario que realice erogaciones que no estén previstas en las leyes correspondientes, incurrirá en responsabilidad oficial y responderá con su patrimonio de las erogaciones realizadas.
+
+La revisión, fiscalización o cualquier procedimiento de auditoría al ejercicio del gasto, será realizada por los órganos de fiscalización estatal en términos de las leyes respectivas, sin que en ningún caso puedan duplicarse dichas actividades, ni tampoco puedan revisarse conceptos ya fiscalizados.
 
 > <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2004)</small>
 
@@ -2131,11 +2157,11 @@ Las leyes determinarán los casos y las circunstancias en los que se deba sancio
 
 Cualquier ciudadano bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba, podrá formular denuncia ante el Congreso del Estado, respecto de las conductas a que se refiere este Artículo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P. O. 17 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE FEBRERO DE 2011)</small>
 
 ###### ARTICULO 71.
 
-Podrán ser sujetos de juicio político: El Gobernador del Estado; los Diputados locales; los Magistrados y los Consejeros de la Judicatura del Tribunal Superior de Justicia del Estado; los Secretarios de Despacho; el Procurador General de Justicia del Estado; el Subprocurador General de Justicia y el Fiscal Electoral; el Presidente de la Comisión de Fiscalización Electoral; los Coordinadores Generales; los Presidentes Municipales; los Consejeros Electorales del Instituto de Elecciones y Participación Ciudadana; los Directores Generales o sus equivalentes de los Organismos Descentralizados, Empresas de Participación Estatal, Fideicomisos Públicos; los Consejeros del Consejo Estatal de los Derechos Humanos; y el Auditor Superior del Estado.
+Podrán ser sujetos de juicio político: El Gobernador del Estado; los Diputados locales; los Magistrados y los Consejeros de la Judicatura del Tribunal Superior de Justicia del Estado; los Secretarios de Despacho; el Procurador General de Justicia del Estado; el Subprocurador General de Justicia y el Fiscal Electoral; el Presidente y los Contralores de la Comisión de Fiscalización Electoral; los Consejeros Electorales del Instituto de Elecciones y Participación Ciudadana; los Coordinadores Generales; los Presidentes Municipales; los Directores Generales o sus equivalentes de los Organismos Descentralizados, Empresas de Participación Estatal, Fideicomisos Públicos; los Consejeros del Consejo Estatal de los Derechos Humanos; y el Auditor Superior del Estado.
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1983)</small>
 
@@ -2153,7 +2179,7 @@ En conocimiento de la acusación, y erigido el Tribunal de Sentencia, el Tribuna
 
 Las sanciones consistirán en la destitución del Servidor Público y en su inhabilitación para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público.
 
-> <small>(REFORMADO PRIMER PARRAFO, P. O. 17 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE FEBRERO DE 2011)</small>
 
 ## TITULO OCTAVO. DE LOS MUNICIPIOS
 
@@ -2161,7 +2187,7 @@ Las sanciones consistirán en la destitución del Servidor Público y en su inha
 
 ###### ARTICULO 72.
 
-Cuando se trate de actos u omisiones sancionados por la Ley Penal cometidos por el Gobernador del Estado; por los Diputados locales; por los Magistrados y Consejeros de la Judicatura del Tribunal Superior de Justicia del Estado; por los Secretarios y Subsecretarios de Despacho; por el Procurador General de Justicia del Estado, por el por el (sic) Subprocurador General de Justicia y el Fiscal Electoral; el Presidente de la Comisión de Fiscalización Electoral; los Coordinadores Generales; los Presidentes, Síndicos y Regidores Municipales; los Consejeros Electorales y el Secretario Ejecutivo del Instituto de Elecciones y Participación Ciudadana; los Directores Generales o sus equivalentes de los Organismos Descentralizados, Empresas de Participación Estatal y de Fideicomisos Públicos; los Consejeros del Consejo Estatal de los Derechos Humanos; y el Auditor Superior del Estado; el Congreso del Estado o en su caso la Comisión Permanente erigidos en jurado declarará por dos tercios de los votos de sus miembros presentes, cuando se trate del Gobernador, y por mayoría relativa cuando se trate de los otros servidores públicos enunciados en este precepto, si ha lugar o no a formación de causa. En caso afirmativo, quedará el acusado por ese sólo hecho, separado de su encargo y sujeto a la acción de los tribunales del orden común; si ésta culmina en sentencia absolutoria el inculpado podrá reasumir su función. Si la sentencia fuese condenatoria y se trata de un delito cometido durante el ejercicio de su encargo, no se concederá al reo la gracia del indulto. En caso negativo, no habrá lugar a procedimiento ulterior, pero ello no será obstáculo para que la imputación por la comisión del delito continúe su curso cuando el inculpado haya concluido el ejercicio de su encargo, pues la misma no prejuzga los fundamentos de la imputación.
+Cuando se trate de actos u omisiones sancionados por la Ley Penal cometidos por el Gobernador del Estado; por los Diputados locales; por los Magistrados y Consejeros de la Judicatura del Tribunal Superior de Justicia del Estado; por los Secretarios y Subsecretarios de Despacho; por el Procurador General de Justicia del Estado, por el por el (sic) Subprocurador General de Justicia y el Fiscal Electoral; el Presidente y los Contralores de la Comisión de Fiscalización Electoral; los Consejeros Electorales y el Secretario Ejecutivo del Instituto de Elecciones y Participación Ciudadana; los Coordinadores Generales; los Presidentes, Síndicos y Regidores Municipales; los Directores Generales o sus equivalentes de los Organismos Descentralizados, Empresas de Participación Estatal y de Fideicomisos Públicos; los Consejeros del Consejo Estatal de los Derechos Humanos; y el Auditor Superior del Estado; el Congreso del Estado o en su caso la Comisión Permanente erigidos en jurado declarará por dos tercios de los votos de sus miembros presentes, cuando se trate del Gobernador, y por mayoría relativa cuando se trate de los otros servidores públicos enunciados en este precepto, si ha lugar o no a formación de causa. En caso afirmativo, quedará el acusado por ese sólo hecho, separado de su encargo y sujeto a la acción de los tribunales del orden común; si ésta culmina en sentencia absolutoria el inculpado podrá reasumir su función. Si la sentencia fuese condenatoria y se trata de un delito cometido durante el ejercicio de su encargo, no se concederá al reo la gracia del indulto. En caso negativo, no habrá lugar a procedimiento ulterior, pero ello no será obstáculo para que la imputación por la comisión del delito continúe su curso cuando el inculpado haya concluido el ejercicio de su encargo, pues la misma no prejuzga los fundamentos de la imputación.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -2237,11 +2263,11 @@ Todos los funcionarios públicos del Estado percibirán una compensación por su
 
 Todos los funcionarios y empleados del Estado y de los Municipios, al tomar posesión de sus cargos, harán protesta formal de respetar y cumplir la Constitución Política de los Estados Unidos Mexicanos, la del Estado y las Leyes que de ambas emanen.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE ENERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE FEBRERO DE 2011)</small>
 
 ###### ARTICULO 79.
 
-El Gobernador, los Magistrados, el Procurador General de Justicia del Estado, los Fiscales de Distrito, el Fiscal Electoral, los fiscales Especializados y Especiales, los Agentes del Ministerio Público, el Presidente de la Comisión de Fiscalización Electoral, los Jueces de Primera Instancia, los Presidentes Municipales, los Secretarios y Subsecretarios del Despacho, los Secretarios y Actuarios del Poder Judicial del Estado, los Funcionarios y Delegados del Registro Público de la Propiedad, así como el Consejero Presidente, los Consejeros Electorales y el Secretario Ejecutivo del Instituto de Elecciones y Participación Ciudadana, no podrán fungir como árbitros, ni ejercer la abogacía, ni la procuración, sino cuando se trate de sus propios derechos o de los correspondientes a personas que estén bajo su patria potestad o vínculo matrimonial. Tampoco podrán ejercer el notariado, ni ser albaceas, depositarios judiciales, síndicos, administradores, interventores de concursos, testamentarios o intestados. La infracción de este artículo será causa de responsabilidad. Esta prohibición comprende a funcionarios y empleados, de los enumerados, que no estén en ejercicio de sus funciones por hallarse disfrutando de licencia.
+El Gobernador, los Magistrados, el Procurador General de Justicia del Estado, los Fiscales de Distrito, el Fiscal Electoral, los Fiscales Especializados y Especiales, los Agentes del Ministerio Público, el Presidente y los Contralores de la Comisión de Fiscalización Electoral, los Jueces de Primera Instancia, los Presidentes Municipales, los Secretarios y Subsecretarios de Despacho, los Secretarios y Actuarios del Poder Judicial del Estado, los Funcionarios y Delegados del Registro Público de la Propiedad, así como los Consejeros Electorales y el Secretario Ejecutivo del Instituto de Elecciones y Participación Ciudadana, no podrán fungir como árbitros, ni ejercer la abogacía, ni la procuración, sino cuando se trate de sus propios derechos o de los correspondientes a personas que estén bajo su patria potestad o vínculo matrimonial. Tampoco podrán ejercer el notariado, ni ser albaceas, depositarios judiciales, síndicos, administradores, interventores de concursos, testamentarios o intestados. La infracción de este artículo será causa de responsabilidad. Esta prohibición no comprende a funcionarios y empleados, de los enumerados, que no estén en ejercicio de sus funciones por hallarse disfrutando de licencia.
 
 > <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
 
@@ -3890,3 +3916,13 @@ Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de s
 Artículo Segundo.- Tratándose de lo dispuesto en el Título Décimo de la Constitución Política del Estado de Chiapas, hasta en tanto entre en funciones el Consejo Estatal de los Derechos Humanos, el Presidente de la Comisión de los Derechos Humanos estará sujeto al régimen de responsabilidades que señala ese Título.
 
 Artículo Tercero.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 9 DE FEBRERO DE 2011.
+
+Artículo Primero.- El presente Decreto entrará (sic) vigor al día siguiente de su publicación (sic) el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+Artículo Tercero.- La Comisión de Fiscalización Electoral deberá quedar integrada a más tardar el quince de enero de dos mil once y sesionar conforme a su nueva integración a más tardar al 31 de enero del mismo año.
+
+De la misma forma deberá adecuar sus estatutos y demás normatividad a los términos de este Decreto y las reformas a la ley de la materia.
