@@ -4,7 +4,7 @@ identifier: "CHP-ley-organica-de-la-administracion-publica-del-estado-de-19513"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-08"
-last_updated: "2010-12-30"
+last_updated: "2011-02-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19513&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE FEBRERO DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el viernes 8 de diciembre de 2000.
 
@@ -471,7 +471,11 @@ UNION JUAREZ
 
 VILLA COMALTITLAN
 
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2011)</small>
+
 REGION XI. SIERRA MARISCAL
+
+MOTOZINTLA
 
 FRONTERA COMALAPA
 
@@ -483,27 +487,27 @@ BELLA VISTA
 
 CHICOMUSELO
 
-EL PORVERNIR
+EL PORVENIR
 
 LA GRANDEZA
 
 MAZAPA DE MADERO
 
-MOTOZINTLA
-
 SILTEPEC
+
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2011)</small>
 
 REGION XII. SELVA LACANDONA
 
-ALTAMIRANO
-
 OCOSINGO
 
-BENEMERITO DE LAS AMERICAS
+ALTAMIRANO
 
 MARAVILLA TENEJAPA
 
 MARQUES DE COMILLAS
+
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2011)</small>
 
 REGION XIII. MAYA
 
@@ -512,6 +516,8 @@ PALENQUE
 CATAZAJA
 
 LA LIBERTAD
+
+BENEMERITO DE LAS AMERICAS
 
 REGION XIV. TULIJA TSELTAL CHOL
 
@@ -2694,3 +2700,43 @@ Artículo Octavo.- Las referencias, atribuciones o menciones que hagan otros ord
 Artículo Noveno.- La Secretaría de Hacienda y la Secretaría de la Función Pública, como Dependencias normativas del Poder Ejecutivo del Estado, llevarán a cabo de inmediato las acciones que sean necesarias para la adecuación de las estructuras orgánicas y funcionales a que haya lugar, derivado del presente Decreto, en plena observancia a las disposiciones aplicables y respeto a los derechos laborales.
 
 Artículo Décimo.- Los Titulares de la Secretaría de Pueblos y Culturas Indígenas, y del Instituto de Reconversión Productiva y Bioenergéticos, en un término no mayor de 90 días hábiles, contados a partir de la entrada en vigor del presente Decreto, someterán a consideración del Ejecutivo del Estado, la expedición o adecuaciones que al efecto requiera su Reglamento Interior, para su aprobación, expedición y publicación correspondiente. Asimismo, el Titular del Consejo Estatal para las Culturas y las Artes de Chiapas, deberá realizar lo conducente ante su Órgano de Gobierno.
+
+P.O. 9 DE FEBRERO DE 2011.
+
+Artículo Primero.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+Artículo Tercero.- Las Cabeceras de las regiones económicas a que se refiere el artículo 24 de la Ley Orgánica de la Administración Pública del Estado de Chiapas, quedarán comprendidas de la siguiente manera:
+
+Región Cabecera Regional
+
+I. Metropolitana Tuxtla Gutiérrez
+
+II. Valles Zoque Cintalapa
+
+III. Mezcalapa Copainalá
+
+IV. De los Llanos Venustiano Carranza
+
+V. Altos Tsotsil-Tseltal San Cristóbal de Las Casas
+
+VI. Frailesca Villaflores
+
+VII. De Los Bosques Bochil
+
+VIII. Norte Pichucalco
+
+IX. Istmo Costa Tonalá
+
+X. Soconusco Tapachula
+
+XI. Sierra Mariscal Motozintla
+
+XII. Selva Lacandona Ocosingo
+
+XIII. Maya Palenque
+
+XIV. Tulijá Tseltal Chol Yajalón
+
+XV. Meseta Comiteca Tojolabal Comitán de Domínguez
