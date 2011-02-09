@@ -4,7 +4,7 @@ identifier: "PUE-constitucion-politica-del-estado-libre-y-soberano-de-puebla-751
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-02"
-last_updated: "2011-01-26"
+last_updated: "2011-02-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ENERO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE FEBRERO DE 2011.
 
 Constitución publicada en el Periódico Oficial del Estado de Puebla, el martes 2 de octubre de 1917.
 
@@ -821,6 +821,12 @@ VII.- Autorizar la enajenación de bienes inmuebles propios del Estado o de los 
 
 VIII.- Establecer las bases para que el Estado y los Municipios, así como los organismos descentralizados y empresas públicas puedan contraer obligaciones y empréstitos destinados a inversiones públicas productivas, y fijar anualmente, en la Ley de Egresos del Estado y en los presupuestos de los Municipios, los conceptos y los montos máximos de dichas obligaciones o empréstitos. El Congreso aprobará las operaciones de financiamiento, que se contratarán, convertirán o consolidarán mediante el Decreto que emita.
 
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2011)</small>
+
+Examinar, discutir y aprobar, en su caso, a través de la ley aplicable, el establecimiento de los requisitos generales que deberán ser cumplidos, o mediante decreto específico, a solicitud del Titular del Poder Ejecutivo, la afectación de ingresos del Estado derivados de participaciones en ingresos federales, fondos federales, contribuciones, impuestos, derechos, productos, aprovechamientos, accesorios u otros conceptos susceptibles de afectación, respecto al cumplimiento de todo tipo de obligaciones del Estado, de sus organismos descentralizados o de terceros prestadores de bienes o servicios, que deriven de la contratación de deuda pública, de Proyectos para Prestación de Servicios y otro tipo de proyectos relacionados a obra pública, bienes o servicios que contrate o celebre el Estado, en los términos de las leyes respectivas. De la misma manera, corresponderá al Congreso, a solicitud del Titular del Poder Ejecutivo, la aprobación de la desafectación de dichos ingresos en términos de la legislación aplicable, cuando así sea establecido en la ley aplicable;
+
+> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 2011)</small>
+
 El Congreso del Estado autorizará a los Ayuntamientos, cuando proceda, afectar en garantía sus participaciones.
 
 > <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2009)</small>
@@ -927,13 +933,25 @@ XXVIII.- Aprobar las leyes de ingresos de los Municipios, así como las zonas ca
 
 XXIX.- Establecer las bases que permitan al Estado y a los Municipios, coordinarse en materia de ingreso, gasto, deuda y patrimonio público, para su desarrollo e inversión.
 
-> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2011)</small>
 
-XXX.- Expedir leyes que definan los principios y las bases de la planeación para el desarrollo integral, sustentable y equilibrado del Estado y de los Municipios; que establezcan los mecanismos para que la planeación sea coordinada, democrática y congruente en los tres niveles de gobierno, a la vez que cuenten con los instrumentos jurídicos que garanticen la consecución de sus fines y objetivos, así como el control, evaluación y seguimiento de los planes y programas que la conformen; y
+XXX.- Expedir leyes que definan los principios y las bases de la planeación para el desarrollo integral, sustentable y equilibrado del Estado y de los Municipios; que establezcan los mecanismos para que la planeación sea coordinada, democrática y congruente en los tres niveles de gobierno, a la vez que cuenten con los instrumentos jurídicos que garanticen la consecución de sus fines y objetivos, así como, el control, evaluación y seguimiento de los planes y programas que la conformen;
 
 > <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2008)</small>
 
 XXXI.- Instituir mediante las leyes que para tal efecto expida, el Tribunal de lo Contencioso Administrativo, dotado de autonomía plena en el pronunciamiento de sus fallos y con facultades para resolver los conflictos y controversias que se susciten entre los particulares y la administración pública estatal, ya sea centralizada o paraestatal, estableciendo las normas que regulen su organización y funcionamiento; así como las atribuciones de sus integrantes y los requisitos para su nombramiento, sus procedimientos y los recursos contra las resoluciones que pronuncien.
+
+> <small>(ADICIONADA, P.O. 9 DE FEBRERO DE 2011)</small>
+
+XXXII.- Expedir las leyes que regulan las acciones relativas a la planeación, programación, presupuestación, evaluación, aprobación, control, adjudicación, contratación y ejecución de Proyectos para Prestación de Servicios, o demás proyectos relacionados a obra pública, bienes o servicios que realicen las dependencias y entidades de la Administración Pública Estatal; y
+
+> <small>(ADICIONADA, P.O. 9 DE FEBRERO DE 2011)</small>
+
+XXXIII.- Examinar, discutir y aprobar, en su caso, en la Ley de Egresos del Estado correspondiente, y de manera prioritaria, las erogaciones anuales o plurianuales que cubran los gastos correspondientes a los Proyectos para Prestación de Servicios y demás proyectos relacionados a obra pública, bienes o servicios, que sean plurianuales en los ejercicios fiscales en que estén vigentes los mismos y que sean celebrados por el Ejecutivo, de conformidad con las disposiciones establecidas en la ley de la materia o para los que, en su caso, se afecten ingresos del Estado de conformidad con la fracción VIII.
+
+Para este efecto y en caso de que así lo disponga la Ley de la materia, el Ejecutivo deberá presentar previamente al Congreso la información que, conforme a dicha Ley de la materia, corresponda a cada proyecto para ser examinado, discutido y aprobado, en su caso, por el Congreso.
+
+Asimismo, examinar, discutir y aprobar, en su caso, los presupuestos multianuales que el Ejecutivo proponga establecer en la iniciativa de Ley de Egresos del Estado, destinados a la ejecución de inversiones públicas productivas y otras.
 
 > <small>(REFORMADO, P.O. 16 DE JUNIO DE 2010)</small>
 
@@ -1574,6 +1592,10 @@ b).- Los Municipios podrán celebrar convenios con el Estado, para que éste se 
 > <small>(REFORMADO, P.O. 16 DE JUNIO DE 2010)</small>
 
 c).- Los presupuestos de egresos de los Municipios serán aprobados por los respectivos Ayuntamientos, con base en los ingresos de que dispongan, en los que se deberán incluir invariablemente los tabuladores desglosados de las remuneraciones que perciban los servidores públicos municipales, sujetándose a lo dispuesto en el artículo 134 de esta Constitución.
+
+> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 2011)</small>
+
+Los Ayuntamientos podrán autorizar las erogaciones plurianuales para Proyectos para Prestación de Servicios, así como demás proyectos relacionados a obra pública, bienes o servicios que afecten ingresos del Municipio que determinen conforme a lo dispuesto en la ley en (sic) la materia; las erogaciones correspondientes deberán incluirse en los Presupuestos de Egresos durante la duración de los contratos de dichos proyectos; la aprobación de las partidas para cumplir con dichas obligaciones deberá hacerse de manera prioritaria.
 
 (REFORMADO, P.O. 17 DE DICIEMBRE DE 2001) (REPUBLICADA, P.O. 20 DE FEBRERO DE 2002)
 
@@ -2700,6 +2722,12 @@ PRIMERO.- El Honorable Congreso del Estado Libre y Soberano de Puebla, declara q
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 26 DE ENERO DE 2011.
+
+PRIMERO.- El Honorable Congreso del Estado Libre y Soberano de Puebla, declara que estas reformas han sido aprobadas en términos de las disposiciones constitucionales aplicables y forman parte de la Constitución Política del Estado Libre y Soberano de Puebla.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE FEBRERO DE 2011.
 
 PRIMERO.- El Honorable Congreso del Estado Libre y Soberano de Puebla, declara que estas reformas han sido aprobadas en términos de las disposiciones constitucionales aplicables y forman parte de la Constitución Política del Estado Libre y Soberano de Puebla.
 
