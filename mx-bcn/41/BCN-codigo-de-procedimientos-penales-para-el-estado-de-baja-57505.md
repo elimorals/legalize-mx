@@ -4,7 +4,7 @@ identifier: "BCN-codigo-de-procedimientos-penales-para-el-estado-de-baja-57505"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-10-19"
-last_updated: "2010-10-15"
+last_updated: "2011-02-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57505&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCN"
 ---
 # CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 11 DE FEBRERO DE 2011 EN EL P.O. DEL ESTADO DE BAJA CALIFORNIA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA</small>
+
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE OCTUBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE FEBRERO DE 2011.
 
 Código publicado en la Sección III del Periódico Oficial del Estado de Baja California, el viernes 19 de octubre de 2007.
 
@@ -1543,7 +1545,9 @@ II.- Violación, prevista en el artículo 176, así como su modalidad agravada c
 
 III.- Secuestro, previsto por los artículos 164, 164 bis fracción I y 165 de (sic) Código Penal;
 
-IV.- Los previstos en los artículos 208 fracciones I y II, 208 bis párrafo segundo, 229 siempre y cuando estas conductas sean cometidas de manera dolosa, 251 y 279 del Código Penal, cuando todos estos delitos sean cometidos con medios violentos como armas y explosivos, y
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2011)</small>
+
+IV.- Los previstos en los artículos 203, 208 fracciones I y II, 208 bis párrafo segundo y el artículo 229 tratándose de conductas cometidas de manera dolosa, así como los artículos 251 y 279 del Código Penal; si empre y cuando todos éstos delitos sean cometidos con medios violentos como armas y explosivos;
 
 V.- Contra el libre desarrollo de la personalidad, previstos en los artículos 261 párrafo segundo, 262, 262 ter, 264 y 265 del Código Penal.
 
@@ -2265,7 +2269,7 @@ I. Los miembros de la policía, todos los delitos que presenciaren o llegaren a 
 
 II. Los servidores públicos, respecto de los delitos de que tengan conocimiento en el ejercicio o en ocasión de sus funciones y los que cometan sus subalternos;
 
-III. Los jefes de estaciones de autobuses o de otros medios de locomoción o de carga, y los conductores de autobuses u otros medios de transporte o carga, por los delitos que se cometieren durante el viaje o en el recinto de una estación;
+III. Los jefes de estaciones de autobuses o de otros medios de locomoción o de carga, y los conductores de autobuses u otros medios de transporte o de carga, por los delitos que se cometieren durante el viaje o en el recinto de una estación;
 
 IV. Los directores de establecimientos hospitalarios, clínicas particulares, establecimientos de salud y, en general, los profesionales en medicina, odontología, química, farmacia y de otras ramas relacionadas con la conservación o el restablecimiento de la salud, y los que ejercieren prestaciones auxiliares de éstas, cuando notaren en una persona o en un cadáver señales que hagan presumible la comisión de un delito; y
 
@@ -2603,7 +2607,7 @@ Inspecciones colectivas.- Cuando la policía realice inspecciones de personas o 
 
 Aseguramiento.- El Juez, el Ministerio Público y la policía, deberán disponer que sean recogidos y conservados los objetos relacionados con el delito, los sujetos a decomiso y aquellos que puedan servir como medios de prueba; para ello, cuando sea necesario, ordenarán su aseguramiento.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO. DE IGUAL MODO, SE ADVIERTE QUE EL ANTIGÜO PARRAFO TERCERO FORMA PARTE DEL ACTUAL PARRAFO SEGUNDO.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -3229,7 +3233,7 @@ Si el actor civil no comparece se le tendrá por desistido de su demanda.
 
 > <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
-Artículo 309 bis.- Corrección de vicios formales en la audiencia.- Cuando el juez considerare fundada la solicitud de corrección de vicios formales planteada por el imputado o tercero civilmente demandado, respecto de la acusación o la demanda civil de reparación de daños y perjuicios, ordenará que los mismos sean subsanados, sin suspender la audiencia, si ello fuere posible, los vicios formales en el ofrecimiento de medios de prueba deberán ser subsanados en la propia audiencia intermedia y en caso contrario, el juez ordenará su exclusión.
+Artículo 309 bis.- Corrección de vicios formales en la audiencia.- Cuando el juez considerare fundada la solicitud de corrección de vicios formales planteada por el imputado o tercero civilmente demandado, respecto de la acusación o la demanda civil de reparación de daños y perjuicios, ordenará que los mismos sean subsanados, sin suspender la audiencia, si ello fuere posible. los vicios formales en el ofrecimiento de medios de prueba deberán ser subsanados en la propia audiencia intermedia y en caso contrario, el juez ordenará su exclusión.
 
 Si los vicios no pudieran ser subsanados en la propia audiencia, el Juez ordenará la suspensión de la misma por el período necesario para la corrección de los mismos, el que en ningún caso podrá exceder de cinco días. Transcurrido este plazo, si la demanda civil de reparación del daño y perjuicios no es corregida se tendrán por no presentada. Si no es corregida la acusación del Ministerio Público, el Juez dará vista al Procurador por un plazo de tres días.
 
@@ -3427,7 +3431,7 @@ IV. Algún Juez o el imputado se enfermen a tal extremo que no puedan continuar 
 
 V. El defensor, el Ministerio Público o el acusador coadyuvante, no puedan ser reemplazados inmediatamente en el supuesto en que legalmente deban serlo;
 
-VI. Si el Ministerio Público lo requiera para variar la acusación con motivo de las pruebas deshogadas (sic) y el defensor lo solicite una vez variada la acusación; o
+VI. Si el Ministerio Público lo requiera para variar la acusación con motivo de las pruebas deshogadas y el defensor lo solicite una vez variada la acusación; o
 
 VII. Alguna catástrofe o algún hecho extraordinario tornen imposible su continuación.
 
@@ -4255,7 +4259,7 @@ IV. Revisión.
 
 ###### Artículo 396.
 
-Condiciones de interposición.- Los recursos se interpondrán en las condiciones de tiempo y forma que se determinan en este Código, con indicación específica de la parte impugnada de la resolución recurrida.
+Condiciones de interposición.- Los recursos se interpondrán en las condiciones de tiempo y forma que se determinan en este Código, con indicación especifica de la parte impugnada de la resolución recurrida.
 
 ###### Artículo 397.
 
@@ -4724,3 +4728,7 @@ P.O. 15 DE OCTUBRE DE 2010.
 DECRETO Nº 446, SE APRUEBA LA REFORMA AL ARTICULO SEGUNDO TRANSITORIO DEL NUEVO CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA.
 
 LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO ACTUALIZADO, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE FEDERAL.
+
+P.O. 9 DE FEBRERO DE 2011.
+
+ÚNICO.- La presente reforma entrará en vigor en el Municipio de Mexicali al día siguiente de su publicación en el Periódico Oficial del Estado, mientras que en el resto de los municipios será en términos de lo que disponen las fracciones I y II del artículo primero transitorio del Código de Procedimientos Penales para el Estado publicado el 19 de octubre de 2007 en el Periódico Oficial de Estado.
