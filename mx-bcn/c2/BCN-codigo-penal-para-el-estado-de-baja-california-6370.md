@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2010-12-17"
+last_updated: "2011-02-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCN"
 ---
 # CODIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 11 DE FEBRERO DE 2011 EN EL P.O. DEL ESTADO DE BAJA CALIFORNIA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA</small>
+
 CODIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE FEBRERO DE 2011.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -2081,11 +2083,11 @@ Cuantía indeterminada.- Para estimar la cuantía del robo se estará únicament
 
 En los casos de tentativa de robo, cuando no fuere posible determinar su monto, se estará a lo dispuesto por el artículo 81 de este Código.
 
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 1998)</small>
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 203.
 
-Robo con violencia.- Si el robo se ejecutare con violencia, a la pena que corresponda por el robo simple, se agregarán de uno a cinco años de prisión. Si la violencia constituyere otro delito, se aplicarán las reglas de la acumulación.
+Robo con violencia.- Si el robo se ejecutare con violencia, a la pena que corresponda por el robo simple, se agregarán de uno a seis años de prisión. Si la violencia constituyere otro delito, se aplicarán las reglas de la acumulación.
 
 ###### Artículo 204.
 
@@ -4704,3 +4706,7 @@ SEGUNDO.- Las autoridades locales desde el momento en que se publique este Decre
 P.O. 17 DE DICIEMBRE DE 2010.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 9 DE FEBRERO DE 2011.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el periódico oficial del Estado.
