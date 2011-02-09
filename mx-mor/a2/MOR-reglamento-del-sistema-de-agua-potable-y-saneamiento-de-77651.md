@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-del-sistema-de-agua-potable-y-saneamiento-de-77651"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-12-08"
-last_updated: "2010-12-08"
+last_updated: "2011-02-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77651&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO DEL SISTEMA DE AGUA POTABLE Y SANEAMIENTO DE XOCHITEPEC DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE FEBRERO DE 2011.
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Morelos, el miércoles 8 de diciembre de 2010.
 
@@ -49,25 +49,27 @@ REGLAMENTO DEL SISTEMA DE AGUA POTABLE Y SANEAMIENTO DE XOCHITEPEC
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 1.
 
-El presente reglamento es de orden público e interés social y tiene por objeto establecer y regular la estructura y funciones del organismo público descentralizado de la administración municipal, denominado: Sistema de Agua Potable y Saneamiento de Xochitepec, Morelos, tambien conocido por siglas SAPSXO.
+El presente reglamento es de orden público e interés social y tiene por objeto establecer y regular la estructura y funciones del organismo público descentralizado de la administración municipal, denominado: Sistema de Agua Potable del Municipio de Xochitepec, Morelos, también conocido por siglas SAPMXO, Morelos.
 
 ###### Artículo 2.
 
 Este reglamento es obligatorio en todo el Municipio de Xochitepec, Morelos, mismo que comprende la cabecera municipal, zonas urbanas y suburbanas y en los centros de población o comunidades rurales, en el ámbito que corresponde prestar y administrar los servicios públicos de agua potable y saneamiento de agua dentro de la municipalidad de conformidad con la ley de aguas nacionales y la Ley Estatal de Agua Potable.
 
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 3.
 
-El Sistema de Agua Potable y Saneamiento de Xochitepec, es la entidad pública descentralizada perteneciente a la Administración Paramunicipal creada por el ayuntamiento para la prestación y administración de los servicios públicos de agua potable y saneamiento de agua en el Municipio de Xochitepec.
+El Sistema de Agua Potable del Municipio de Xochitepec, Morelos, es la entidad pública descentralizada perteneciente a la Administración Paramunicipal creada por el ayuntamiento para la prestación y administración de los servicios públicos de agua potable y saneamiento de agua en el Municipio de Xochitepec.
 
-Por lo tanto le corresponde la explotación, uso y aprovechamiento de las aguas superficiales o del subsuelo y residuales, desde el punto de su extracción o recepción, hasta su distribución, tratamiento y disposición final en los ámbitos de la competencia municipal y de conformidad con la asignación de la comisión nacional del agua.
-
-Así mismo (sic) realizará las actividades correspondientes a la planeación, programación y construcción de las obras necesarias para la prestación de los servicios públicos de agua potable y saneamiento, en el municipio, en los términos de este reglamento, de acuerdo con los requerimientos sociales a satisfacer, las cuales deberán estar vinculadas con los planes y programas de desarrollo municipal, estatales y federales, y demás disposiciones legales y reglamentarias aplicables, a la obra hidráulica, atendiendo los trámites ante la comisión nacional del agua, previos a la realización de la obra hidráulica.
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 4.
 
-El Sistema de Agua Potable y Saneamiento de Xochitepec, tiene su domicilio legal en el Municipio de Xochitepec, Morelos.
+El Sistema de Agua Potable del Municipio de Xochitepec, Morelos, tiene su domicilio legal en el Municipio de Xochitepec, Morelos.
 
 ###### Artículo 5.
 
@@ -75,27 +77,39 @@ Para los efectos de este reglamento se entenderá por:
 
 I. Asamblea General: el total de los usuarios de un centro de población o comunidad rural;
 
-II. Comité de agua y saneamiento: Organismo organizado en los centros de población o comunidades rurales que sirve como auxiliar del SAPSXO;
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2011)</small>
 
-III. Junta de Gobierno: el órgano de gobierno que tiene a su cargo la administración del SAPSXO;
+II. Comité de agua y saneamiento: Organismo organizado en los centros de población o comunidades rurales que sirve como auxiliar del SAPMXO, Morelos;
+
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2011)</small>
+
+III. Junta de Gobierno: el órgano de gobierno que tiene a su cargo la administración del SAPMXO, Morelos;
 
 IV. CNA: comisión nacional del agua;
 
 V. CEAMA: comisión estatal de agua y medio ambiente del Gobierno del Estado de Morelos;
 
-VI. SAPSXO: Sistema de Agua Potable y Saneamiento de Xochitepec.
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2011)</small>
+
+VI. SAPMXO, Morelos: Sistema de Agua Potable del Municipio de Xochitepec, Morelos.
+
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 6.
 
-El SAPSXO para el desempeño de sus funciones, contará con el auxilio de los Comités de los Sistemas de Agua y Saneamiento en los centros de población o comunidades rurales como organismos dependientes del SAPSXO, sujetos a su coordinación, asesoría técnica y administración para la mejor prestación de los servicios, en los términos de este reglamento.
+El Sistema de Agua Potable del Municipio de Xochitepec, Morelos, para el desempeño de sus funciones, contará con el auxilio de siete Comités los cuales forman parte de los Sistemas de Agua, en los centros de población o comunidades rurales como organismos dependientes del SAPMXO, Morelos, sujetos a su coordinación, asesoría técnica y administración para la mejor prestación de los servicios, en los términos de este reglamento.
 
-Las dependencias del H. Ayuntamiento de Xochitepec dentro de los límites de sus atribuciones, auxiliarán al SAPSXO; igualmente contará con el auxilio de la CEAMA, cuando exista convenio con el ayuntamiento y de la CNA, en los términos de la ley nacional de aguas, observando las disposiciones legales y reglamentarias derivadas de los ordenamientos federales, estatales y municipales vigentes, en materia de explotación, uso o aprovechamiento de aguas; prevención y control de la contaminación de las aguas y, tratamiento y usos de las aguas residuales, en lo que concierne a la competencia municipal y con respeto a la competencia de los otros ámbitos de gobierno.
+Las dependencias del H. Ayuntamiento de Xochitepec dentro de los límites de sus atribuciones, auxiliarán al SAPMXO, Morelos; igualmente contará con el auxilio de la CEAMA, cuando exista convenio con el ayuntamiento y de la CNA, en los términos de la ley nacional de aguas, observando las disposiciones legales y reglamentarias derivadas de los ordenamientos federales, estatales y municipales vigentes, en materia de explotación, uso o aprovechamiento de aguas; prevención y control de la contaminación de las aguas y, tratamiento y usos de las aguas residuales, en lo que concierne a la competencia municipal y con respeto a la competencia de los otros ámbitos de gobierno.
 
-### CAPÍTULO SEGUNDO. DE LAS ATRIBUCIONES DEL SAPSXO
+> <small>(REFORMADA SU DENOMINACION, P.O. 9 DE FEBRERO DE 2011)</small>
+
+### CAPÍTULO SEGUNDO. DE LAS ATRIBUCIONES DEL SAPMXO, MORELOS
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 7.
 
-Le corresponden al SAPSXO las siguientes atribuciones:
+Le corresponden al SAPMXO, Morelos, las siguientes atribuciones:
 
 I.- Proporcionar los servicios de agua potable y saneamiento tanto en la cabecera municipal como en los centros de población o comunidades rurales que cuenten con fuente de abastecimiento, ubicados en el territorio municipal;
 
@@ -151,11 +165,15 @@ XXIII.- Las demás que se deriven del presente reglamento y de otras disposicion
 
 Para lo no previsto en este reglamento se aplicará supletoriamente la ley de aguas nacionales y su reglamento, así como la ley que regula la prestación de los servicios del agua potable y saneamiento en el Estado de Morelos.
 
-### CAPÍTULO TERCERO. DE LA INTEGRACIÓN DE LAS (SIC) ORGANOS DE GOBIERNO Y AUTORIDADES DEL SAPSXO
+> <small>(REFORMADA SU DENOMINACION, P.O. 9 DE FEBRERO DE 2011)</small>
+
+### CAPÍTULO TERCERO. DE LA INTEGRACIÓN DE LOS ORGANOS DE GOBIERNO Y AUTORIDADES DEL SISTEMA DE AGUA POTABLE DEL MUNICIPIO DE XOCHITEPEC, MORELOS
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 9.
 
-Los órganos de Gobierno y Autoridades del SAPSXO serán reconocidos los siguientes:
+Los órganos de Gobierno y Autoridades del SAPMXO, Morelos, serán reconocidos los siguientes:
 
 Una Junta de Gobierno
 
@@ -165,11 +183,15 @@ Un Consejo Consultivo
 
 Un Comisario
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 10.
 
-La Administración del SAPSXO estará a cargo de una Junta de Gobierno y un Director General; el cual será designado por la misma Junta de Gobierno en los términos de la Ley Estatal de Agua Potable y disposiciones de este reglamento.
+La Administración del SAPMXO, Morelos, estará a cargo de una Junta de Gobierno y un Director General; el cual será designado por la misma Junta de Gobierno en los términos de la Ley Estatal de Agua Potable y disposiciones de este reglamento.
 
-La Junta de Gobierno del SAPSXO estará integrada de la siguiente manera:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE FEBRERO DE 2011)</small>
+
+La Junta de Gobierno del SAPMXO, Morelos, estará integrada de la siguiente manera:
 
 I.- El Presidente Municipal, quien la presidirá
 
@@ -211,7 +233,9 @@ VI. No tener antecedentes penales;
 
 VII. Contar con licenciatura o ingeniería con título y cédula profesional, y tener una experiencia profesional de tres años en su ramo; y
 
-VIII. Presentar un plan de trabajo a la junta de gobierno de SAPSXO que contemple programas tecnoecológicos para el uso y reuso eficiente del agua, así como propuestas solventar (sic) las necesidades de la población en este rubro
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2011)</small>
+
+VIII. Presentar un plan de trabajo a la junta de gobierno de SAPMXO, Morelos, que contemple programas tecnoecológicos para el uso y reuso eficiente del agua, así como propuestas para solventar las necesidades de la población en este rubro.
 
 ###### Artículo 12.
 
@@ -225,9 +249,13 @@ Director (sic) General, hecha la protesta del cargo, deberá designar sus colabo
 
 Corresponden al Director General las siguientes facultades y obligaciones:
 
-I. Implementar las acciones necesarias para el buen funcionamiento del SAPSXO y la adecuada prestación de los servicios a su cargo;
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2011)</small>
 
-II. Administrar al SAPSXO en atención a los lineamientos generales establecidos por este reglamento y demás disposiciones legales, promoviendo su desarrollo y autosuficiencia administrativa, técnica y financiera;
+I. Implementar las acciones necesarias para el buen funcionamiento del SAPMXO, Morelos, y la adecuada prestación de los servicios a su cargo;
+
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2011)</small>
+
+II. Administrar al SAPMXO, Morelos, en atención a los lineamientos generales establecidos en el Manual de procedimientos y del presente reglamento del SAPMXO, Morelos, y demás disposiciones legales, promoviendo su desarrollo y autosuficiencia administrativa, técnica y financiera;
 
 III. Discutir y en su caso aprobar los proyectos de presupuestos de ingresos y egresos, elaborados anualmente y presentarlos a la junta de gobierno, para su revisión, y en su caso, aprobación y ejecutarlos en tiempo y forma;
 
@@ -241,9 +269,13 @@ VII. Solicitar la cooperación de otras dependencias, entidades y organismos pú
 
 VIII. Ordenar la elaboración de los estudios técnicos-tarifarios que se requieran para fijar y actualizar los montos de las tarifas y derechos que correspondan por la prestación de los servicios y realizar anualmente su presentación ante el ayuntamiento y la propuesta respectiva;
 
-IX. Vigilar la correcta aplicación de las tarifas, el cobro de los adeudos a favor del SAPSXO y la conservación de su patrimonio;
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2011)</small>
 
-X. Revisar mensualmente el estado contable del SAPSXO, en el informe mensual de labores;
+IX. Aplicar las tarifas, el cobro de los adeudos a favor del SAPMXO, Morelos y la conservación de su patrimonio;
+
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2011)</small>
+
+X. Revisar mensualmente el estado contable del SAPMXO, Morelos, en base al sistema software aplicable;
 
 XI. Efectuar y suscribir todos los actos jurídicos, convenios y contratos que sean necesarios para cumplir con las funciones que le corresponden y lograr una mejor prestación de los servicios a su cargo;
 
@@ -253,21 +285,31 @@ XIII. Proponer a la junta de gobierno a las personas físicas o morales interesa
 
 XIV. Ordenar los muestreos y análisis periódicos del agua y de las descargas para verificar la calidad de la primera y los contenidos de la segunda e informar a las autoridades competentes sobre los resultados y aplicar las medidas necesarias para el control de las segundas;
 
-XV. Instrumentar la organización interna, del SAPSXO nombrar y remover subdirectores y, en general, a todo el personal;
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2011)</small>
 
-XVI. Determinar las condiciones en que deben celebrarse los contratos de trabajo colectivo o individual con el personal del SAPSXO, así como el monto de los sueldos y salarios que deberán ser aprobados en el presupuesto de egresos; resolver las controversias que se susciten con motivo de la relación laboral en el ámbito interno de su competencia;
+XV. Instrumentar la organización interna del SAPMXO, Morelos, nombrar y remover subdirectores y, en general, a todo el personal, aplicable al manual de organización y manual de procedimientos;
+
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2011)</small>
+
+XVI. Determinar las condiciones en que deben celebrarse los contratos de trabajo colectivo o individual con el personal del SAPMXO, Morelos, así como el monto de los sueldos y salarios que deberán ser aprobados en el presupuesto de egresos; resolver las controversias que se susciten con motivo de la relación laboral en el ámbito interno de su competencia, aplicable al manual de procedimientos;
 
 XVII. Ejercer y otorgar poderes generales o especiales para pleitos y cobranzas, con las restricciones que se consideren necesarias;
 
-XVIII. Informar trimestralmente a la junta de gobierno, sin perjuicio de hacerlo cuando este lo requiera, sobre los trabajos realizados por SAPSXO y su situación financiera;
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2011)</small>
 
-XIX. Adquirir los bienes muebles o inmuebles necesarios para el desempeño de los fines que corresponden al SAPSXO, así como realizar el trámite para la enajenación de los mismos, en los términos y con las modalidades previstas en las normas que fije el ayuntamiento;
+XVIII. Informe trimestral a la junta de gobierno, sin perjuicio de hacerlo cuando este lo requiera, sobre los trabajos realizados por SAPMXO, Morelos, y su situación financiera;
+
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2011)</small>
+
+XIX. Adquirir activo fijo necesario para el desempeño de los fines que corresponden al SAPMXO, Morelos, así como realizar el trámite para la enajenación de activo fijo, en los términos y con las modalidades previstas en las normas que fije el ayuntamiento;
 
 XX. Resolver las peticiones que le formulen los usuarios sobre la prestación del servicio;
 
 XXI. Solicitar a las autoridades competentes la expropiación, ocupación temporal, total o parcial de bienes o la limitación de los derechos de dominio en los términos de las leyes aplicables;
 
-XXII. Presentar el proyecto de reglamento interior del SAPSXO, o sus modificaciones a la junta de gobierno para su estudio y en su caso aprobación y publicación, y vigilar su correcta aplicación;
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2011)</small>
+
+XXII. Presentar el proyecto de reglamento del SAPMXO, Morelos, o sus modificaciones a la junta de gobierno para su aprobación y publicación, y vigilar su correcta aplicación;
 
 XXIII. Otorgar todas las facilidades para la práctica de auditorías cuando la junta de gobierno lo determine;
 
@@ -283,25 +325,39 @@ I. Ejecutar los acuerdos que la junta de gobierno le encomiende;
 
 II. Convocar y presidir las sesiones del consejo;
 
-III. Supervisar las actividades propias del SAPSXO, para que la administración sea bajo su control y dependencia de acuerdo a los lineamientos que en forma general determine la junta de gobierno;
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2011)</small>
+
+III. Supervisar las actividades propias del SAPMXO, Morelos, para que la administración sea bajo su control y dependencia de acuerdo a los lineamientos que en forma general determine la junta de gobierno;
 
 IV. Autorizar, las erogaciones del presupuesto que deban efectuarse con motivo de su administración ordinaria y someter a la aprobación de la junta de gobierno las erogaciones extraordinarias;
 
-V. Suscribir, las convocatorias y la documentación relativa a los procedimientos de licitación pública y adjudicación de contratos de adquisiciones, obra pública y prestación de servicios relacionados con esta, que emita el SAPSXO;
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2011)</small>
 
-VI. Ejercer la representación del SAPSXO ante cualquier autoridad, para los actos de defensa del patrimonio, con facultades para ejercer actos de administración, pleitos y cobranzas;
+V. Elaborar los procedimientos de licitación pública y adjudicación de contratos de adquisiciones, obra pública y prestación de servicios relacionados con esta, y suscribir las convocatorias y la documentación que emita el SAPMXO, Morelos;
 
-VII. Suscribir mancomunadamente con el tesorero, los títulos de crédito, excepto en calidad de avales, así como los contratos que obliguen al SAPSXO y que hayan sido aprobados por la junta de gobierno. Los documentos mercantiles siempre deberán llevar la firma del Director General y del Tesorero;
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2011)</small>
+
+VI. Ejercer la representación del SAPMXO, Morelos, ante cualquier autoridad, para los actos de defensa del patrimonio, con facultades para ejercer actos de administración, pleitos y cobranzas;
+
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2011)</small>
+
+VII. Suscribir mancomunadamente con el tesorero, los títulos de crédito, excepto en calidad de avales, así como los contratos que obliguen al SAPMXO, Morelos, y que hayan sido aprobados por la junta de gobierno. Los documentos mercantiles siempre deberán llevar la firma del Director General y del Tesorero;
 
 VIII. Recibir las inconformidades, recursos y quejas que los usuarios le presenten con motivo de la prestación de los servicios, mismas que serán turnadas a la autoridad correspondiente para su resolución;
 
 IX. Vigilar las labores del personal exigiendo su debido cumplimiento e imponiendo, en su caso, las amonestaciones y correcciones disciplinarias;
 
-X. Conceder licencias al personal que labore en el SAPSXO en los términos previstos en las condiciones generales de trabajo;
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2011)</small>
 
-XI. Expedir los nombramientos del personal que labore en el SAPSXO;
+X. Conceder licencias al personal que labore en el SAPMXO, Morelos en los términos previstos en las condiciones generales de trabajo; en su caso solicitar apoyo a las Instituciones Educativas para la prestación de jóvenes de servicio social, para no contratar personal, aplicable al manual de organización y manual de procedimientos;
 
-XII. Autorizar los libros destinados a llevar la contabilidad del SAPSXO; y
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2011)</small>
+
+XI. Expedir los nombramientos del personal que labore en el SAPMXO, Morelos;
+
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2011)</small>
+
+XII. Autorizar los libros destinados a llevar la contabilidad del SAPMXO, Morelos, derivado de la Contabilidad administrativa financiera, sistema software, y
 
 XIII. Las demás que se deriven del presente reglamento y las que le confiera la Junta de Gobierno.
 
@@ -313,7 +369,9 @@ I. Desempeñar las comisiones y tareas que le sean encomendadas por la Junta de 
 
 II. Levantar y autorizar las actas de las reuniones celebradas por el consejo, asentándolas en el libro correspondiente que llevará bajo su cuidado, debiendo recabar en cada una de ellas la firma de quienes intervinieron;
 
-III. Certificar las copias de actas y documentos que encuentren en el archivo del SAPSXO y cuya expedición será autorizada por el Director General;
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2011)</small>
+
+III. Certificar actas y documentos que se encuentren en el archivo del SAPMXO, Morelos, y cuya expedición será autorizada por el Director General;
 
 IV. Las demás que se deriven del presente reglamento o le confiera la Junta de Gobierno.
 
@@ -321,11 +379,17 @@ IV. Las demás que se deriven del presente reglamento o le confiera la Junta de 
 
 Corresponde al comisario las siguientes atribuciones:
 
-I. Revisar los libros destinados a la contabilidad, así como los estados financieros del SAPSXO e informar mensualmente a la Junta de Gobierno sobre ello;
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2011)</small>
 
-II. Vigilar la recaudación de los fondos del SAPSXO y su correcta aplicación;
+I. Revisar los libros destinados a los registro (sic) de la contabilidad, así como los estados financieros del SAPMXO, Morelos, e informar mensualmente a la Junta de Gobierno sobre ello;
 
-III. Vigilar que se lleven a cabo inventarios de los bienes propiedad del SAPSXO, debiendo dar cuenta a la Junta de Gobierno de todas las modificaciones que sufra;
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2011)</small>
+
+II. Vigilar la recaudación de los fondos del SAPMXO, Morelos, y su correcta aplicación;
+
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2011)</small>
+
+III. Vigilar que se lleven a cabo inventarios de activo fijo, bienes muebles, propiedad del SAPMXO, Morelos, debiendo dar cuenta a la Junta de Gobierno de todas las modificaciones que sufra;
 
 IV. Vigilar que se elabore anualmente el presupuesto de ingresos y egresos y se presente a la Junta de Gobierno para su aprobación; que se sujetará a los objetivos y prioridades que señale el plan de desarrollo municipal y sus programas atendiendo a los principios de racionalidad, austeridad y disciplina del gasto público, procurando observar los siguientes criterios:
 
@@ -343,9 +407,11 @@ f).- La distribución equitativa y proporcional del presupuesto de egresos, entr
 
 V. Las demás atribuciones que se deriven del presente reglamento y las que le encomiende la Junta de Gobierno.
 
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 17.
 
-El Director General, el Secretario Técnico y el Comisario percibirán los emolumentos que sean aprobados en el presupuesto de egresos para el período de su gestión y serán pagados con los recursos del propio SAPSXO.
+El Director General, el Secretario Técnico y el Comisario, percibirán los emolumentos que sean aprobados en el presupuesto de egresos para el período de su gestión y serán pagados con los recursos del propio SAPMXO, Morelos.
 
 ### CAPÍTULO CUARTO. DE LAS CAUSAS DE REMOCIÓN DEL DIRECTOR GENERAL
 
@@ -353,11 +419,15 @@ El Director General, el Secretario Técnico y el Comisario percibirán los emolu
 
 Son causas de remoción del Director General las siguientes:
 
-I. El incumplimiento de las funciones y trabajos que corresponden al SAPSXO para la prestación del servicio público de agua potable y saneamiento establecidas en este reglamento;
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2011)</small>
+
+I. El incumplimiento de las funciones y trabajos que corresponden al SAPMXO, Morelos, para la prestación del servicio público de agua potable y saneamiento establecidas en este reglamento;
 
 II. El incumplimiento de las funciones y trabajos propios del cargo que desempeñe;
 
-III. El uso indebido de los recursos y bienes del SAPSXO;
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2011)</small>
+
+III. El uso indebido de los recursos y bienes del SAPMXO, Morelos;
 
 IV. La determinación de cargas, prestaciones u obligaciones a los usuarios, que no estén previstas en este reglamento o leyes aplicables;
 
@@ -365,7 +435,9 @@ V. Obstaculizar o impedir las labores del comisario;
 
 VI. No excusarse de intervenir en asuntos propios de la Junta de Gobierno en que tenga interés personal o familiar;
 
-VII. Intervenir por sí, por interpósita persona o por medio de empresas en las que tenga alguna participación, en contrataciones de obras públicas del SAPSXO;
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2011)</small>
+
+VII. Intervenir por sí, por interpósita persona o por medio de empresas en las que tenga alguna participación, en contrataciones de obras públicas del SAPMXO, Morelos;
 
 VIII. La falta de veracidad en toda clase de informes; y (sic)
 
@@ -373,15 +445,21 @@ IX. No denunciar los delitos respecto de los cuales tenga conocimiento en razón
 
 X. Por que (sic) así lo determine la Junta de Gobierno.
 
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 19.
 
-La denuncia de cualquiera de las causas de remoción puede ser presentada ante la Junta de Gobierno por cualquier ciudadano o usuario, debiendo verificarse la causa denunciada por el medio o conducto que la Junta de Gobierno estime conveniente, según la gravedad de la denuncia, pudiendo ordenar, la auditoría externa del SAPSXO, sin perjuicio de las practicadas por el comisario.
+La denuncia ciudadana, por cualquiera de las causas de remoción puede ser presentada ante la Junta de Gobierno por cualquier usuario, debiendo verificarse la causa denunciada por el medio o conducto que la Junta de Gobierno estime conveniente, según la gravedad de la denuncia, pudiendo ordenar, la auditoría externa del SAPMXO, Morelos, sin perjuicio de las practicadas por el comisario.
 
-### CAPÍTULO QUINTO. DEL PATRIMONIO DEL SAPSXO
+> <small>(REFORMADA SU DENOMINACION, P.O. 9 DE FEBRERO DE 2011)</small>
+
+### CAPÍTULO QUINTO. DEL PATRIMONIO DEL SAPMXO, MORELOS
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 20.
 
-El patrimonio del SAPSXO se integra con:
+El patrimonio del SAPMXO, Morelos, se integra con:
 
 I.- Los activos que formen parte inicial del Patrimonio.
 
@@ -399,9 +477,11 @@ VII.- Remates, frutos, utilidades, productos, intereses y ventas que obtengan su
 
 Los demás bienes y derechos que forman parte del patrimonio por cualquier titulo legal.
 
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 21.
 
-Todos los ingresos que obtenga el SAPSXO con motivo del cobro de impuestos, derechos, contribuciones, productos o aprovechamientos o los que se adquieran por cualquier motivo, serán destinados exclusivamente al pago de los gastos de construcción, administración, operación, mantenimiento y ampliación de los servicios de agua potable y saneamiento, reuso de aguas y disposición final de lodos, así como para la adquisición de equipos, instalaciones e infraestructuras.
+Todos los ingresos que obtenga el SAPMXO, Morelos, con motivo del cobro de impuestos, derechos, contribuciones, productos o aprovechamientos o los que se adquieran por cualquier motivo, serán destinados exclusivamente al pago de los gastos de construcción, administración, operación, mantenimiento y ampliación de los servicios de agua potable y saneamiento, reuso de aguas y disposición final de lodos, así como para la adquisición de equipos, instalaciones e infraestructuras.
 
 ### CAPÍTULO SEXTO. DE LOS SERVICIOS EN LOS CENTROS DE POBLACIÓN O COMUNIDADES RURALES
 
@@ -479,11 +559,25 @@ POZO "LAS ROSAS"
 
 Quedando la administración de éstos comités bajo la responsabilidad, dirección y administración de SAPSXO. Siendo la Junta de Gobierno del Sistema de Agua Potable y Saneamiento de Xochitepec quién los designe y dé los nombramientos a los Administradores de los Comités en el tiempo que estos consideren pertinente.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE FEBRERO DE 2011)</small>
+
+Los comités de agua existentes ya mencionados serán los que determinen las condiciones en que deban celebrarse los contratos de trabajo individuales con el personal que labore en los comités de agua, así como el monto de los sueldos y salarios que deberán ser aprobados por SAPMXO de conformidad con el presupuesto de egresos. Y resolverán las controversias que se susciten con motivo de la relación laboral en el ámbito interno de su competencia, aplicando el manual de procedimientos del SAPMXO y la administración de éstos comités estará bajo la responsabilidad, dirección y administración de SAPMXO, Morelos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE FEBRERO DE 2011)</small>
+
+La Junta de Gobierno del Sistema de Agua Potable del Municipio de Xochitepec, (sic)
+
+(sic) Morelos, será la encargada de designar directamente a los administradores de los sistemas de agua potable y/o emitir la convocatoria para elegir a quien deba de representar como Presidente del Comité del Sistema de Agua Potable correspondiente y en cuya convocatoria se especificarán los requisitos y las condiciones que deban reunir los aspirantes al cargo y lo no previsto lo resolverá la propia Junta de Gobierno del Sistema de Agua Potable del Municipio de Xochitepec, Morelos.
+
 Los domicilios de los comités serán preferentemente en la comunidad más cercana a la fuente de abastecimiento.
 
-La Junta de Gobierno, por interés público, incorporará el servicio rural de agua potable a SAPSXO quedando su administración y dirección bajo su responsabilidad.
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2011)</small>
 
-### CAPÍTULO SÉPTIMO. DEL SERVICIO DEL SAPSXO
+La Junta de Gobierno, por interés público, incorporara el servicio rural de agua potable a SAPMXO, Morelos, quedando su administración y dirección bajo su responsabilidad.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 9 DE FEBRERO DE 2011)</small>
+
+### CAPÍTULO SÉPTIMO. DEL SERVICIO DEL SAPMXO, MORELOS
 
 ###### Artículo 24.
 
@@ -507,9 +601,11 @@ III. A los 15 días contados a partir de la fecha de apertura del giro comercial
 
 IV. Al inicio de una construcción.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 26.
 
-Al propietario y legítimo poseedor que se encuentre dentro de las causales enumeradas en los artículos anteriores, se les podrá dispensar la contratación del servicio dentro de los plazos fijados para ello, o en su caso podrá solicitar que SAPSXO deje de proporcionarle el servicio si manifiesta y fundamenta mediante escrito, cualquiera de los supuestos siguientes:
+Al propietario y legítimo poseedor que se encuentre dentro de las causales enumeradas en los artículos anteriores, se les podrá dispensar la contratación del servicio dentro de los plazos fijados para ello, o en su caso podrá solicitar que SAPMXO, Morelos deje de proporcionarle el servicio si manifiesta y fundamenta mediante escrito, cualquiera de los supuestos siguientes:
 
 I. Que no requiere de los servicios en forma inmediata;
 
@@ -519,15 +615,21 @@ III. Que los predios no edificados se encuentran sin uso y no requieren del serv
 
 IV. En caso de suspensión, terminación o cancelación de las funciones mercantiles o industriales.
 
-El SAPSXO podrá verificar si procede la solicitud a través de los medios que considere pertinentes.
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2011)</small>
+
+El SAPMXO, Morelos, podrá verificar si procede la solicitud a través de los medios que considere pertinentes.
+
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 27.
 
-Cualquier usuario que haya contratado el servicio y se encuentre en los supuestos mencionados en el artículo anterior, podrá solicitar al SAPSXO la suspensión del servicio, quien resolverá en un plazo no mayor de 10 días, si se comprueba cualquiera de las causas enumeradas; solamente se podrá cobrar al usuario una cuota inherente a la suspensión y mantenimiento; no se cobrará a partir de esta fecha ninguna cantidad por concepto de prestación de los servicios, salvo que se adeuden conceptos generados con anterioridad a la fecha de la suspensión.
+Cualquier usuario que haya contratado el servicio y se encuentre en los supuestos mencionados en el artículo anterior, podrá solicitar al SAPMXO, Morelos, la suspensión del servicio de agua, quien resolverá en un plazo no mayor de 10 días, si se comprueba cualquiera de las causas enumeradas; solamente se podrá cobrar al usuario una cuota inherente a la suspensión y mantenimiento; no se cobrará a partir de esta fecha ninguna cantidad por concepto de prestación de los servicios, salvo que se adeuden conceptos generados con anterioridad a la fecha de la suspensión.
+
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 28.
 
-Cuando no proceda la solicitud señalada en el artículo 27, el SAPSXO podrá realizar los trabajos necesarios; los servicios y su costo serán a cargo del poseedor o propietario del predio de que se trate.
+Cuando no proceda la solicitud señalada en el artículo 27, el SAPMXO, Morelos, podrá realizar los trabajos necesarios para suministrar agua; los servicios y su costo serán a cargo del propietario del predio de que se trate.
 
 ###### Artículo 29.
 
@@ -537,43 +639,59 @@ En caso de que se introduzca infraestructura en los lugares en que se carece de 
 
 Cuando se trate de tomas solicitadas para giros mercantiles o establecimientos ubicados en forma temporal, en donde se requieran los servicios, no habrá lugar a la dispensa por lo que se deberá contratar el servicio.
 
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 31.
 
-En caso de que el propietario y legítimo poseedor del predio realice la operación por sí mismo sin el consentimiento del SAPSXO, así como la instalación, supresión o conexión de los servicios, se hará acreedor por su inobservancia, a las sanciones que establece el reglamento, y deberá realizar los trabajos que sean necesarios para la corrección de la instalación, supresión o conexión, a su cargo; además de la infracción a la que se hiciere acreedor, independiente de las acciones penales que por tal motivo pudieran surgir.
+En caso de que el propietario y legítimo poseedor del predio realice la instalación por sí mismo sin autorización del SAPMXO, Morelos, así como la operación, supresión o conexión de los servicios, se hará acreedor por su inobservancia, a las sanciones que establece el reglamento, y deberá realizar los trabajos que sean necesarios para la corrección de la instalación, supresión o conexión, a su cargo; además deberá pagar la infracción a la que se hiciere acreedor, independiente de las acciones penales que por tal motivo pudieran surgir.
+
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 32.
 
-No deben existir derivaciones de toma de agua o de descarga de aguas a los colectores a cargo del SAPSXO, cualquier excepción estará sujeta a la autorización, proyecto y control del SAPSXO, debiendo, en todo caso, contarse con las condiciones necesarias para que pueda cobrar las cuotas que le correspondan por dichos servicios.
+No deben existir derivaciones de tomas clandestinas de agua o de descarga de aguas a los colectores a cargo del SAPMXO, Morelos; cualquier excepción estará sujeta a la autorización, proyecto y control del SAPMXO, Morelos, debiendo contar en todo caso, con las condiciones necesarias para que se pueda cobrar la cuota que le corresponda por dichos servicios.
 
 ###### Artículo 33.
 
 Se podrá autorizar, y siempre por escrito, una derivación, previa aprobación del propietario del inmueble derivante, cuando concurran las siguientes circunstancias:
 
-I. Cuando el SAPSXO no alcance a suministrar el servicio al predio, giro o establecimiento;
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2011)</small>
+
+I. Cuando el SAPMXO, Morelos, no alcance a suministrar el servicio al predio, giro o establecimiento;
 
 II. Cuando se trate de establecimientos temporales, vigilando que el mismo cuente con el permiso de funcionamiento; y
 
-III. Cualquier otro que se justifique a discreción del SAPSXO.
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2011)</small>
+
+III. Cualquier otro que se justifique a discreción del SAPMXO, Morelos.
+
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 34.
 
-El SAPSXO realizará las obras y autorizará las mismas a particulares o fraccionadores buscando que a cada predio corresponda una toma de agua y una descarga de aguas a los colectores que se encuentran bajo la responsabilidad del SAPSXO y, en su caso, la red de agua pluvial; el diámetro de las mismas se sujetará a las disposiciones técnicas que fije el SAPSXO.
+El SAPMXO, Morelos, realizará las obras y autorizará las mismas a particulares o fraccionadores buscando que a cada predio corresponda una toma de agua y una descarga de aguas (sic) a los colectores que se encuentran bajo la responsabilidad del SAPMXO, Morelos y, en su caso, instalar la red hidráulica pluvial; el diámetro de las mismas se sujetará a las disposiciones técnicas que fije el SAPMXO, Morelos.
+
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 35.
 
-En caso de que se soliciten los servicios al SAPSXO, este exigirá que el inmueble cuente con la red de tubería debidamente aprobada para evitar el desperdicio del líquido y el control de las descargas.
+En caso de que se soliciten los servicios al SAPMXO, Morelos, este exigirá que el inmueble cuente con la red de tubería debidamente aprobada para evitar el desperdicio del líquido y el control de las descargas.
 
 ###### Artículo 36.
 
 Los fraccionamientos o conjuntos habitacionales en materia de servicios públicos de agua potable, alcantarillado y saneamiento quedan obligados a solicitar la factibilidad de servicios y a cumplir con las obligaciones que en esta materia les imponga la ley de fraccionamientos, condominios y conjuntos habitacionales del Estado de Morelos.
 
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 37.
 
-En materia de fraccionamientos, el SAPSXO autorizará los planos de instalaciones hidráulicas y sanitarias, llevará a cabo la inspección, instalación, recepción, operación, mantenimiento y supervisión de obras, en relación a la red de agua potable y saneamiento en coordinación con la Dirección General de Desarrollo Urbano, Obras, Servicios Públicos y Medio Ambiente.
+En materia de fraccionamientos, el SAPMXO, Morelos, autorizará los planos de instalaciones hidráulicas y sanitarias, llevará a cabo la inspección, instalación, recepción, operación, mantenimiento y supervisión de obras, en relación a la red de agua potable y saneamiento en coordinación con la Dirección General de Desarrollo Urbano, Obras, Servicios Públicos y Medio Ambiente.
+
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 38.
 
-En la entrega-recepción de las obras e instalaciones de la infraestructura hidráulica para la prestación del servicio de agua potable y saneamiento por parte del fraccionador al SAPSXO, intervendrán además el Secretario Municipal, y el Director General de Desarrollo Urbano, Obras, Servicios Públicos y Medio Ambiente, levantando el acta respectiva y verificando el cumplimiento de las condiciones técnicas autorizadas para las obras, debiendo dar cuenta del acto y del resultado al H. Ayuntamiento.
+En la entrega-recepción de las obras e instalaciones de la infraestructura hidráulica para la prestación del servicio de agua potable y saneamiento por parte del fraccionador al SAPMXO, Morelos, intervendrán además el Secretario Municipal, y el Director General de Desarrollo Urbano, Obras, Servicios Públicos y Medio Ambiente, levantando el acta respectiva y verificando el cumplimiento de las condiciones técnicas autorizadas para las obras, debiendo dar cuenta del acto y del resultado al H. Ayuntamiento.
 
 ###### Artículo 39.
 
@@ -583,35 +701,47 @@ Tratándose de fraccionamientos y desarrollos en condominio construidos en etapa
 
 En época de escasez de agua o con motivo de la construcción, reparación, mantenimiento o ampliación de la infraestructura hidráulica, se podrán acordar las condiciones de restricción durante el lapso que se estime necesario, enterando a los usuarios por los diversos medios de comunicación sobre las medidas de emergencia adoptadas.
 
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 41.
 
-El SAPSXO podrá proponer en cualquier momento a la Junta de Gobierno la concesión de los servicios a su cargo, ya sea en forma total o parcial, debiendo sujetarse a lo establecido en la Ley Orgánica Municipal y en la Ley Estatal de Agua Potable.
+El SAPMXO, Morelos, podrá proponer en cualquier momento a la Junta de Gobierno la concesión de los servicios de agua a su cargo, ya sea en forma total o parcial, debiendo sujetarse a lo establecido en la ley orgánica municipal y en la Ley Estatal de Agua Potable.
 
 ### CAPÍTULO OCTAVO. DE LA FACTIBILIDAD DE LOS SERVICIOS
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 42.
 
-Para la creación de nuevos fraccionamientos, desarrollos en condominio, o conjuntos habitacionales en el Municipio de Xochitepec, los fraccionadores o los interesados deberán solicitar al SAPSXO, la expedición de la carta de factibilidad de los servicios.
+Para la creación de nuevos fraccionamientos, desarrollos en condominio, o conjuntos habitacionales en el Municipio de Xochitepec, los fraccionadores o los interesados deberán solicitar al SAPMXO, Morelos, la expedición de la carta de factibilidad de los servicios.
 
-Dicha factibilidad se otorgará de acuerdo a los cálculos y parámetros determinados por el estudio tarifario que para el efecto ordene SAPSXO y deberá considerar además, la densidad de población de acuerdo al tipo de fraccionamiento o desarrollo que se creará y las condiciones técnicas y de costo que implicará la conexión de los servicios.
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2011)</small>
+
+Dicha factibilidad se otorgará de acuerdo a los cálculos y parámetros determinados por el estudio tarifario que para el efecto ordene SAPMXO, Morelos, y deberá considerar además, la densidad de población de acuerdo al tipo de fraccionamiento o desarrollo que se creará y las condiciones técnicas y de costo que implicará la conexión de los servicios.
 
 Toda solicitud de factibilidad o suficiencia del servicio deberá ser acompañada de un programa tecnoecológico para el uso y reuso eficiente del agua.
 
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 43.
 
-A toda solicitud de factibilidad, que se hará en formas previamente determinadas por el SAPSXO, debidamente fundadas y motivadas.
+A toda solicitud de factibilidad, que se hará en formas previamente determinadas por el SAPMXO, Morelos, debidamente fundadas y motivadas.
 
 ###### Artículo 44.
 
 Todas las solicitudes de factibilidad deberán de tener respuesta en un plazo máximo de 10 días hábiles.
 
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 45.
 
-Otorgar la factibilidad para los servicios públicos de agua potable y saneamiento en industrias, le corresponde exclusivamente al SAPSXO, aun cuando la fuente de abastecimiento este en la zona rural donde funcione un comité de agua y saneamiento, éste solamente auxiliará para realizar la visita de inspección correspondiente y podrá proporcionar los argumentos a favor o en contra de la factibilidad.
+Otorgar la factibilidad para los servicios públicos de agua potable y saneamiento en industrias, le corresponde al SAPMXO, Morelos, aun cuando la fuente de abastecimiento este en la zona rural donde funcione un comité de agua y saneamiento, éste solamente auxiliará para realizar la visita de inspección correspondiente y podrá proporcionar los argumentos a favor o en contra de la factibilidad.
+
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 46.
 
-Otorgar los permisos para la descarga de aguas residuales al sistema de drenaje municipal y la aplicación de normas técnicas en esta materia, le corresponden exclusivamente al SAPSXO, funjiendo (sic) como auxiliares los Comités de los Sistemas de Agua y Saneamiento Rurales, estando facultado también para convenir con los Comités de los Sistemas de agua y saneamiento rurales para que estos las lleven a efecto, de acuerdo con lo estipulado en el convenio y bajo la vigilancia del SAPSXO.
+Otorgar autorización y permisos para la descarga de aguas residuales al sistema de drenaje municipal y la aplicación de normas técnicas en esta materia, le corresponden (sic) exclusivamente al SAPMXO, Morelos, fungiendo como auxiliares los Comités de los Sistemas de Agua y Saneamiento Rurales, estando facultado también para convenir con los Comités de los Sistemas de agua y saneamiento rurales para que estos las lleven a efecto, de acuerdo con lo estipulado en el convenio y bajo la vigilancia del SAPMXO, Morelos.
 
 ### CAPÍTULO NOVENO. DERECHOS Y OBLIGACIONES DE LOS USUARIOS Y DEL USO EFICIENTE DEL AGUA
 
@@ -627,7 +757,9 @@ III. Tratándose de actividades productivas a que se le autorice una descarga de
 
 IV. Se le instale un medidor para efectos del cobro del servicio, que cumpla con las normas oficiales mexicanas, para futuros desarrollos;
 
-V. Solicitar al SAPSXO la reparación o cambio del aparato medidor cuando presente daños;
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2011)</small>
+
+V. Solicitar al SAPMXO, Morelos, la reparación o cambio del aparato medidor cuando presente daños;
 
 VI. Solicitar la suspensión de los servicios, cuando proceda; y
 
@@ -637,29 +769,41 @@ VII. Las demás que se deriven del presente reglamento y de otras disposiciones 
 
 Los usuarios tienen las siguientes obligaciones:
 
-I. Cubrir las cuotas en los plazos que el SAPSXO le fije por la prestación de los servicios;
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2011)</small>
 
-II. Optimizar el rendimiento del agua, utilizándola con eficiencia y reparando las fugas que se encuentren dentro de su inmueble, así como reportar las que tengan lugar en las instalaciones hidráulicas propiedad del SAPSXO;
+I. Cubrir las cuotas en los plazos que el SAPMXO, Morelos, le fije por la prestación de los servicios;
+
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2011)</small>
+
+II. Optimizar el rendimiento del agua, utilizándola con eficiencia y reparando las fugas que se encuentren dentro de su inmueble, así como reportar las que tengan lugar en las instalaciones hidráulicas propiedad del SAPMXO, Morelos;
 
 III. Instalar los equipos, accesorios y sistemas hidráulicos para ahorro del agua; el servicio medido es obligatorio;
 
 IV. Cuidar el buen funcionamiento de los aparatos de medición, reportando cualquier anomalía de los mismos;
 
-V. Informar al SAPSXO el cambio de los propietarios de los inmuebles, así como la alta y baja de los comercios o industrias;
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2011)</small>
 
-VI. Comunicar al SAPSXO de los cambios que se pretendan hacer en los inmuebles y que puedan afectar las instalaciones hidráulicas y sanitarias;
+V. Informar al SAPMXO, Morelos, el cambio de los propietarios de los inmuebles, así como la alta y baja de los comercios o industrias;
+
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2011)</small>
+
+VI. Comunicar al SAPMXO, Morelos de los cambios que se pretendan hacer en los inmuebles y que puedan afectar las instalaciones hidráulicas y sanitarias;
 
 VII. Evitar la contaminación del agua en las instalaciones del servicio y efectuar su tratamiento, cumpliendo con todas las disposiciones que se dicten sobre la materia; y
 
 VIII. Las demás que se deriven del presente reglamento o de otras disposiciones legales.
 
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 49.
 
-Si las instalaciones propiedad del SAPSXO se destruyen parcial o totalmente por causas imputables a los usuarios, estos deberán cubrir los gastos que se originen para la reparación, sin perjuicio de las acciones civiles y penales que procedan.
+Si las instalaciones propiedad del SAPMXO, Morelos, se destruyen parcial o totalmente por causas imputables a los usuarios, estos deberán cubrir los gastos de la reparación, sin perjuicio de las acciones civiles y penales que procedan.
+
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 50.
 
-El SAPSXO establecerá medidas para el consumo y ahorro del agua, mismas que deberán observarse por los usuarios.
+El SAPMXO, Morelos, establecerá medidas para el consumo y ahorro del agua, mismas que deberán observarse por los usuarios.
 
 ###### Artículo 51.
 
@@ -679,71 +823,91 @@ VI. Las industrias además de cumplir con lo señalado en las fracciones anterio
 
 VII. Todos los prestadores de servicios colocaran letreros informativos sobre la gran importancia del ahorro del agua.
 
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 52.
 
-El SAPSXO vigilará que las autorizaciones para construcciones, ampliaciones o rehabilitación de obras, cuenten con los drenajes de aguas pluviales y residuales de forma separada. No se dará la factibilidad de servicio a quien no cumpla con los requisitos anteriores y con las especificaciones técnicas establecidas por el SAPSXO.
+El SAPMXO, Morelos, vigilará que las autorizaciones para construcciones, ampliaciones o rehabilitación de obras, cuenten con los drenajes de aguas pluviales y residuales de forma separada. No se dará la factibilidad de servicio a quien no cumpla con los requisitos anteriores y con las especificaciones técnicas establecidas por el SAPMXO, Morelos.
 
 ###### Artículo 53.
 
 No se autorizará la creación de fosas sépticas en donde las condiciones del terreno no favorezcan la instalación de esta forma de descarga.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 54.
 
-Las personas físicas y morales que generen descargas de aguas residuales a los sistemas de alcantarillado y drenaje municipales, deberán cumplir con los parámetros y límites máximos permisibles contenidos en las normas oficiales mexicanas o en su caso, con los señalados en las condiciones particulares de descarga que les fije el SAPSXO y contar con el respectivo permiso.
+Las personas físicas y morales que generen descargas de aguas residuales a los sistemas de drenaje municipales, deberán cumplir con los parámetros y límites máximos permisibles contenidos en las normas oficiales mexicanas o en su caso, con los señalados en las condiciones particulares de descarga que les fije el SAPMXO, Morelos, y contar con el respectivo permiso.
 
 Las descargas de aguas residuales que tengan su origen en el uso domestico, no estarán sujetas a los anteriores requisitos.
 
 ### CAPÍTULO DÉCIMO. DE LA PARTICIPACIÓN CIUDADANA
 
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 55.
 
-El SAPSXO promoverá la participación de los usuarios en los programas y acciones para le (sic) uso y reuso eficiente del agua.
+El SAPMXO, Morelos, promoverá la participación de los usuarios en los programas y acciones para el uso y reuso eficiente del agua.
+
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 56.
 
-Las asociaciones establecidas en el municipio, serán organismos de participación y colaboración para promover el uso de artefactos reductores de consumo de agua, pudiendo presentar al SAPSXO con fundamento tecnoecológico y de costos cualquier alternativa para tal fin e implementando mecanismos de información a los usuarios.
+Las asociaciones establecidas en el municipio, serán organismos de participación y colaboración para promover el uso de artefactos reductores de consumo de agua, pudiendo presentar al SAPMXO, Morelos, con fundamento en un estudio tecnoecológico y de costos, cualquier alternativa para tal fin, implementando mecanismos de información a los usuarios.
+
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 57.
 
-Las asociaciones podrán colaborar con el SAPSXO proponiendo medidas para el control en el uso eficiente del agua, para el tratamiento y reuso de las aguas residuales y lodos, para mejorar la prestación de los servicios y la mejor realización de la obra hidráulica.
+Las asociaciones podrán colaborar con el SAPMXO, Morelos, proponiendo medidas para el control en el uso eficiente del agua, para el tratamiento y reuso de las aguas residuales y lodos, para mejorar la prestación de los servicios y la mejor realización de la obra hidráulica.
 
 ###### Artículo 58.
 
 Las autoridades escolares usuarias del servicio implementarán mecanismos de inducción a maestros, alumnos, personal administrativo y padres de familia para instruirlos en el cuidado del agua, dentro y fuera del centro educativo.
 
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 59.
 
-Es una obligación ciudadana denunciar o dar aviso de cualquier irregularidad en el consumo o distribución del agua, por fuga, desperdicio, contaminación o cualquier motivo que requiera de atención, para lo cual el SAPSXO establecerá una línea telefónica al servicio de la ciudadanía las 24 horas del día de todo el año.
+Es una obligación ciudadana denunciar o dar aviso de cualquier irregularidad o del mal uso del consumo o distribución del agua, por fuga, desperdicio, contaminación o cualquier motivo que requiera de atención, para lo cual el SAPMXO, Morelos, establecerá una línea telefónica al servicio de la ciudadanía las 24 horas de los 365 días del año.
 
-### CAPÍTULO DÉCIMO PRIMERO. DE LOS CRÉDITOS FISCALES A FAVOR DEL SAPSXO
+> <small>(REFORMADA SU DENOMINACION, P.O. 9 DE FEBRERO DE 2011)</small>
+
+### CAPÍTULO DÉCIMO PRIMERO. DE LOS CRÉDITOS FISCALES A FAVOR DEL SAPMXO, MORELOS
+
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 60.
 
-Los adeudos a cargo de los usuarios en favor del SAPSXO determinados de conformidad con este reglamento y las leyes fiscales para los municipios del estado, tienen el carácter de créditos fiscales.
+Los adeudos de los usuarios en favor del SAPMXO, Morelos, determinados en este reglamento y las leyes fiscales para los municipios del estado, tienen el carácter de créditos fiscales.
+
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 61.
 
-El Director General podrá condonar, parcialmente hasta en un 50% las tarifas, contribuciones, productos derechos o aprovechamientos, así como las multas por infracciones a este reglamento; y hasta en un 100% en los recargos en base a un estudio socio - económico realizado por SAPSXO.
+El Director General podrá condonar, parcialmente hasta en un 50% las tarifas, contribuciones, productos derechos o aprovechamientos, así como las multas por infracciones a este reglamento; y hasta en un 100% en los recargos en base a un estudio socio - económico realizado por SAPSXO, Morelos.
 
-La Junta de Gobierno a propuesta del Director General podrá cancelar los créditos cuando se pruebe la insolvencia del usuario o el cobro del crédito sea incosteable. La cancelación no libera al usuario de su obligación, por tanto al recuperarse la solvencia o la costeabilidad podrá procederse al cobro.
-
-El Director General podrá cancelar una multa cuando el usuario después de haber interpuesto el recurso correspondiente y éste haya fallado a su favor comprobando no haber cometido la infracción; si con posterioridad se comprueba su responsabilidad se procederá a imponer la multa, por el doble del monto original.
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 62.
 
-Siempre que se solicite una carta de no adeudo al SAPSXO se procederá al cobro por certificados y certificaciones que establece la ley de ingresos de Xochitepec, Morelos, vigente, así como de los créditos en favor del SAPSXO, aún cuando se haya aprobado con anterioridad su cancelación.
+Siempre que se solicite una carta de no adeudo al SAPMXO, Morelos, se procederá al cobro por certificados y certificaciones que establece la ley de ingresos de Xochitepec, Morelos, vigente, así como de los créditos en favor del SAPMXO, Morelos, aun cuando se haya aprobado con anterioridad su cancelación.
 
-Una vez realizada la traslación de dominio de un inmueble el adquirente deberá solicitar al SAPSXO la contratación del servicio a su nombre.
+Una vez realizada la traslación de dominio de un inmueble, el adquirente deberá solicitar al SAPMXO, Morelos, la contratación del servicio a su nombre.
 
 ### CAPÍTULO DÉCIMO SEGUNDO. DE LAS TARIFAS
 
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 63.
 
-El SAPSXO revisará periódicamente las tarifas; para cualquier modificación de éstas deberá basarse en un estudio que las justifique, mismo que será presentado a la Junta de Gobierno con la propuesta de modificación para su estudio y aprobación. Las tarifas aprobadas deberán publicarse en el Periódico Oficial “Tierra y Libertad” del Gobierno del Estado de Morelos, antes de su aplicación y/o en la Gaceta Municipal.
+El SAPMXO, Morelos, revisará periódicamente las tarifas; para cualquier modificación de éstas deberá basarse en un estudio que las justifique, mismo que será presentado a la Junta de Gobierno con la propuesta de modificación para su estudio y aprobación. Las tarifas aprobadas deberán publicarse en el Periódico Oficial “Tierra y Libertad” del Gobierno del Estado de Morelos, antes de su aplicación y/o en la Gaceta Municipal.
+
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 64.
 
-Las tarifas por los diversos servicios que preste el SAPSXO, se fijarán de acuerdo a los metros cúbicos de consumo y a los diferentes usos, de conformidad con los parámetros que para tal efecto fije el organismo mencionado y apruebe la Junta de Gobierno.
+Las tarifas por los diversos servicios que preste el SAPMXO, Morelos, se fijarán de acuerdo a los M3, de consumo y a los diferentes usos, de conformidad con los parámetros que para tal efecto fije el organismo mencionado y apruebe la Junta de Gobierno.
 
 ###### Artículo 65.
 
@@ -773,23 +937,31 @@ XI. Por factibilidad de servicios; y (sic)
 
 XII. Por concepto de Desazolve de drenaje y/o fosa séptica;
 
-XIII. Las demás que fije el SAPSXO; y las leyes respectivas.
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2011)</small>
+
+XIII. Las demás que fije el SAPMXO, Morelos; y las leyes respectivas.
+
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 66.
 
-El SAPSXO dentro de los treinta días siguientes a la prestación de los servicios expedirá los recibos para su pago.
+El SAPMXO, Morelos, dentro de los treinta días siguientes a la prestación de los servicios expedirá los recibos para su pago y/o en su caso, los usuarios acudirán a realizar su pago correspondiente a las oficinas recaudadoras del sistema operador.
 
 ### CAPÍTULO DÉCIMO TERCERO. DE LOS PROCEDIMIENTOS PARA EL COBRO DE LOS CRÉDITOS
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 67.
 
-En caso de que no se cubran los créditos a favor del SAPSXO, éste implementará los mecanismos que considere pertinentes para su pago.
+En caso de que no se cubran los créditos a favor del SAPMXO, Morelos, éste implementará los mecanismos que considere pertinentes para su pago.
 
 El director general, podrá conceder prórroga a los usuarios para el pago de sus adeudos o realizar convenios de pago para que sean cubiertos en parcialidades, aplicando la ley de hacienda para el Estado de Morelos, causándose los recargos conforme a la tasa autorizada en la ley de ingresos para el Municipio de Xochitepec.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 68.
 
-Se notificará al usuario personalmente o vía correo certificado con acuse de recibo, de las cantidades que se deben cubrir al SAPSXO especificando en su caso:
+Se notificará al usuario personalmente o vía correo certificado con acuse de recibo, las cantidades que se deben cubrir al SAPMXO, Morelos, especificando en su caso:
 
 I. Motivos por los cuales se generaron los conceptos a cobrar y su fundamento;
 
@@ -797,27 +969,37 @@ II. Fechas en que se debió cumplir con la obligación;
 
 III. Desglose de las cantidades a cobrar;
 
-IV. Plazo para que se presente ante el SAPSXO para cubrir los créditos; y
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2011)</small>
+
+IV. Plazo para que se presente ante el SAPMXO, Morelos, para cubrir los créditos; y
 
 V. Las demás que se deriven de conformidad con la naturaleza del adeudo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 69.
 
-En caso de que el nuevo plazo otorgado para su finiquito se haya vencido, el SAPSXO, mediante acuerdo de la Junta de Gobierno, podrá implementar las siguientes acciones:
+En caso de que el vencimiento de pago haya llegado para su finiquito, el SAPMXO, Morelos, mediante acuerdo de la Junta de Gobierno, podrá implementar las siguientes acciones:
 
 I. Rescisión del contrato, con la subsecuente suspensión de los servicios, debiendo indicarse al usuario la fuente de abastecimiento del líquido para que se surta en la cantidad mínima indispensable para sus necesidades vitales, en tanto no cubra los adeudos pendientes; y
 
-II. Realizar el ejercicio de la facultad económica - coactiva que establece el Código Fiscal para el Estado de Morelos, por conducto del área jurídica del SAPSXO con apego a las disposiciones legales de la ley de hacienda del Estado de Morelos y la participación de la Dirección General como autoridad fiscal.
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2011)</small>
+
+II. Realizar el ejercicio de la facultad económica - coactiva que establece el código fiscal para el Estado de Morelos, por conducto del área jurídica del SAPMXO, Morelos, con apego a las disposiciones legales de la ley de hacienda del Estado de Morelos y la participación de la Dirección General como autoridad fiscal.
 
 ### CAPÍTULO DÉCIMO CUARTO. DE LA VIGILANCIA DE LAS VISITAS DE INSPECCIÓN
 
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 70.
 
-Para la vigilancia de los servicios y la determinación del cobro de los créditos fiscales a favor del SAPSXO, este contará con el número de inspectores y ejecutores que se requiera para la inspección, verificación, supervisión y cobro de los servicios proporcionados.
+Para la vigilancia de los servicios y la determinación del cobro de los créditos fiscales a favor del SAPMXO, Morelos, este contará con el número de inspectores y ejecutores que se requiera para la inspección, verificación, supervisión y cobro de agua y saneamiento proporcionados.
+
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 71.
 
-El SAPSXO, por conducto del director general ordenará se practiquen las visitas de inspección y verificación por parte de personal debidamente autorizado.
+El SAPMXO, Morelos, por conducto del director general ordenará se practiquen las visitas de inspección y verificación por parte de personal debidamente autorizado.
 
 ###### Artículo 72.
 
@@ -833,9 +1015,13 @@ IV. El nombre de la persona o personas que deban efectuarla;
 
 V. Fecha de la orden y del día de la visita;
 
-VI. Nombre y firma del funcionario del SAPSXO que ordena la visita; y
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2011)</small>
 
-VII. Los demás que fije el SAPSXO, por acuerdo del Director General.
+VI. Nombre y firma del funcionario del SAPMXO, Morelos, que ordena la visita; y
+
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2011)</small>
+
+VII. Los demás que fije el SAPMXO, Morelos, por acuerdo del Director General.
 
 ###### Artículo 73.
 
@@ -859,9 +1045,13 @@ VIII. Verificar que el funcionamiento de las instalaciones hidráulicas y dispos
 
 IX. Practicar peritajes técnicos de las instalaciones hidráulicas y dispositivos para comprobar que se cumplan con las especificaciones requeridas para el giro o actividad de que se trate;
 
-X. Verificar y comprobar que las instalaciones hidráulicas de los fraccionamientos se hayan realizado de conformidad con los proyectos autorizados por el SAPSXO;
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2011)</small>
 
-XI. Sobre la existencia de manipulación de válvulas, conexiones a colectores sanitarios y pluviales no autorizados, o a cualquiera de las instalaciones del SAPSXO;
+X. Verificar y comprobar que las instalaciones hidráulicas de los fraccionamientos se hayan realizado de conformidad con los proyectos autorizados por el SAPMXO, Morelos;
+
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2011)</small>
+
+XI. Sobre la existencia de manipulación de válvulas, conexiones a colectores sanitarios y pluviales no autorizados, o a cualquiera de las instalaciones del SAPMXO, Morelos;
 
 XII. Verificar la calidad del agua que se descargue en los cuerpos receptores;
 
@@ -871,23 +1061,31 @@ XIV. Sobre la procedencia de la suspensión de los servicios;
 
 XV. Verificar la procedencia de la derivación de las conexiones; y
 
-XVI. Calquier (sic) otra que determine el SAPSXO, por acuerdo de la Junta de Gobierno.
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2011)</small>
+
+XVI. Cualquier otra que determine el SAPMXO, Morelos, por acuerdo de la Junta de Gobierno.
 
 ###### Artículo 74.
 
 En la visita de inspección se levantará acta circunstanciada de los hechos. Cuando se encuentren pruebas de alguna violación al reglamento, irregularidad en el uso del servicio contratado, alteración a medidores o a las instalaciones, violación a las normas técnicas del descargue, desperdicio o fuga de agua, o cualquier otro motivo grave, se hará constar por escrito dejando una copia del acta al usuario para los efectos que procedan, firmando este de recibido.
 
-Igualmente, se hará constar por escrito el buen uso del servicio y la correcta aplicación de las normas técnicas establecidas por el SAPSXO y demás acciones positivas y que en beneficio del uso y reuso eficiente del agua se observe ha realizado el usuario en el lugar o domicilio visitado, proporcionándole copia.
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2011)</small>
 
-Los inspectores deberán remitir el acta levantada al Director General quien tomando en consideración su contenido, determinará si los hechos y circunstancias asentadas en el acta son constitutivos de las infracciones previstas en este reglamento u otras disposiciones legales cuya aplicación competa al SAPSXO.
+Igualmente, se levantará acta circunstanciada por el buen uso del servicio y la correcta aplicación de las normas técnicas establecidas por el SAPMXO, Morelos y demás acciones positivas y que en beneficio del uso y reuso eficiente del agua se observe ha realizado el usuario en el lugar o domicilio visitado, proporcionándole copia.
+
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2011)</small>
+
+Los inspectores deberán reportar y remitir el acta levantada al Director General quien tomando en consideración su contenido, determinará si los hechos y circunstancias asentadas en el acta son constitutivos de las infracciones previstas en este reglamento u otras disposiciones legales cuya aplicación contempla al SAPMXO, Morelos.
 
 ###### Artículo 75.
 
 Para practicar la visita, el inspector solicitará la presencia de la persona titular del contrato, del o los usuarios de la toma o en su caso del propietario, encargado o responsable del inmueble, local o establecimiento a quienes se refiera la orden de visita.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 76.
 
-En caso de oposición a la visita de inspección, se hará constar ésta en el acta respectiva, dejando citatorio a la persona con quien se entienda la visita y para el interesado, en su caso, para que al día siguiente hábil ocurra ante el SAPSXO a justificar la negativa.
+En caso de negativa a la visita de inspección, se hará constar ésta en el acta respectiva, dejando citatorio a la persona con quien se entienda la visita y para el interesado, en su caso, para que al día siguiente hábil ocurra ante el SAPMXO, Morelos, a justificar la negativa.
 
 De no justificar su negativa y persistir el usuario en no permitir la inspección, se iniciará el procedimiento ante las autoridades correspondientes para que estos ordenen la inspección de que se trate, independientemente de las sanciones administrativas que procedan.
 
@@ -895,7 +1093,9 @@ De no justificar su negativa y persistir el usuario en no permitir la inspecció
 
 Cuando no se pueda practicar la inspección por ausencia del propietario o poseedor, se le prevendrá mediante aviso a su vecino, y dejando citatorio escrito en el acceso principal del inmueble, o lugar visible adherido, en buzón o por debajo de la puerta, señalando el día y la hora en que deberá permitir la inspección.
 
-Si la inspección se refiere a una fuga evidente de agua se implementará de manera preventiva la suspensión del servicio debiendo adherir a la puerta principal del domicilio la copia de la orden de visita, notificando en ella el motivo de la suspensión y requiriéndole para que se presente al SAPSXO a cubrir la multa, el pago por reconexión, la cual se realizará previa orden de visita para verificar el buen funcionamiento de las instalaciones.
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2011)</small>
+
+Si la inspección se refiere a una fuga evidente de agua se implementará de manera preventiva la suspensión del servicio debiendo adherir a la puerta principal del domicilio la copia de la orden de visita, notificando en ella el motivo de la suspensión y requiriéndole para que se presente al SAPMXO, Morelos, a cubrir la multa, el pago por reconexión, la cual se realizará previa orden de visita para verificar el buen funcionamiento de las instalaciones.
 
 ###### Artículo 78.
 
@@ -913,13 +1113,17 @@ Las opiniones de los visitadores sobre el cumplimiento o incumplimiento de las d
 
 Si la visita debe realizarse simultáneamente en dos o más lugares, en cada uno de ellos se deberán levantarse actas parciales, mismas que se agregaran al acta final que de la visita se haga, la cual puede ser levantada en cualquiera de dichos lugares, requiriéndose la presencia de dos testigos en cada establecimiento visitado, pudiendo ser los mismos en ambos lugares.
 
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 82.
 
-Cuando resulte imposible continuar o concluir el ejercicio de las facultades de comprobación en los establecimientos del usuario visitado, las actas en las que se haga constar el desarrollo de una visita podrá levantarse en las oficinas del SAPSXO. En este caso se deberá notificar previamente esta circunstancia a la persona con quien se entienda la visita de inspección.
+Cuando resulte imposible continuar o concluir el ejercicio de las facultades de comprobación en los establecimientos del usuario visitado, las actas en las que se haga constar el desarrollo de una visita podrá levantarse en las oficinas del SAPMXO, Morelos. En este caso se deberá notificar previamente esta circunstancia a la persona con quien se entienda la visita de inspección.
+
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 83.
 
-El usuario o sus representantes están obligados a permitir a los visitadores designados por el SAPSXO el acceso a los lugares objeto de la misma, así como mantener a su disposición los documentos que acrediten el cumplimiento de las disposiciones legales, de los cuales podrán sacar copia y previo cotejo con sus originales, se certifique por los visitadores para ser anexados a las actas que se levanten con motivo de las visitas.
+El usuario o sus representantes están obligados a permitir a los visitadores designados por el SAPMXO, Morelos, el acceso a los lugares objeto de la misma, así como mantener a su disposición los documentos que acrediten el cumplimiento de las disposiciones legales, de los cuales podrán sacar copia y previo cotejo con sus originales, se certifique por los visitadores para ser anexados a las actas que se levanten con motivo de las visitas.
 
 ### CAPÍTULO DÉCIMO QUINTO. DE LAS INFRACCIONES Y SANCIONES
 
@@ -927,15 +1131,21 @@ El usuario o sus representantes están obligados a permitir a los visitadores de
 
 Para los efectos de este reglamento, cometen infracción:
 
-I. Las personas que no cumplan con la obligación de solicitar oportunamente el servicio de agua potable y la instalación de la descarga correspondiente de acuerdo con los criterios y lineamientos establecidos por el SAPSXO;
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2011)</small>
+
+I. Las personas que no cumplan con la obligación de solicitar oportunamente el servicio de agua potable y la instalación de la descarga correspondiente de acuerdo con los criterios y lineamientos establecidos por el SAPMXO, Morelos;
 
 II. Quien instale en forma clandestina conexiones en cualquiera de las instalaciones de la red de agua potable y drenaje, sin estar contratadas y sin apegarse a los requisitos que establece el presente reglamento;
 
-III. Los usuarios que, en cualquier caso y sin autorización del SAPSXO, ejecuten por sí o por interpósita persona, derivaciones de agua y drenaje;
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2011)</small>
+
+III. Los usuarios que, en cualquier caso y sin autorización del SAPMXO, Morelos, ejecuten por sí o por interpósita persona, derivaciones de agua y drenaje;
 
 IV. Los usuarios que en cualquier caso proporcionen servicio de agua en forma distinta a la que señala este reglamento, a personas que estén obligadas a surtirse directamente del servicio publico;
 
-V. Los propietarios o poseedores de predios que impidan el examen de los aparatos medidores, cambio o reparación de los mismos, así como la practica de las visitas de inspección y en general que se nieguen a colaborar con el SAPSXO para resolver el motivo de la visita;
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2011)</small>
+
+V. Los propietarios o poseedores de predios que impidan el examen de los aparatos medidores, cambio o reparación de los mismos, así como la practica de las visitas de inspección y en general que se nieguen a colaborar con el SAPMXO, Morelos para resolver el motivo de la visita;
 
 VI. Quien cause desperfectos a un aparato medidor o viole los sellos del mismo;
 
@@ -943,7 +1153,9 @@ VII. Las personas que por cualquier medio alteren el consumo marcado por los med
 
 VIII. El que por sí o por interpósita persona retire un medidor sin estar autorizado, varíe su colocación de manera transitoria o definitiva;
 
-IX. El que deteriore cualquier instalación propiedad del SAPSXO;
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2011)</small>
+
+IX. El que deteriore cualquier instalación propiedad del SAPMXO, Morelos;
 
 X. Quienes hagan mal uso de los hidrantes públicos;
 
@@ -953,19 +1165,27 @@ XII. Las personas que impidan la instalación de los servicios de agua potable y
 
 XIII. El que emplee mecanismos para succionar agua de las tuberías de distribución;
 
-XIV. Las personas que cuenten con instalaciones hidráulicas y dispositivos que no funcionen de acuerdo a la autorización concedida y que no cumplan con las disposiciones técnicas establecidas por el SAPSXO;
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2011)</small>
+
+XIV. Las personas que cuenten con instalaciones hidráulicas y dispositivos que no funcionen de acuerdo a la autorización concedida y que no cumplan con las disposiciones técnicas establecidas por el SAPMXO, Morelos;
 
 XV. Los propietarios o poseedores de predios que no cumplan con las especificaciones técnicas de descarga de aguas residuales, de acuerdo con las leyes y reglamentos vigentes o realicen descargas contaminantes en cualquier afluente municipal;
 
-XVI. Quien no cumpla con los permisos o autorizaciones del SAPSXO en materia de fraccionamientos o conjuntos habitacionales a que hacen referencia los artículos de este reglamento; y (sic)
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2011)</small>
+
+XVI. Quien no cumpla con los permisos o autorizaciones del SAPMXO, Morelos, en materia de fraccionamientos o conjuntos habitacionales a que hacen referencia los artículos de este reglamento; y (sic)
 
 XVII. Las demás que resulten de este reglamento o de otras disposiciones legales, independientemente del ejercicio de las acciones penales en caso de haberse sometido a una infracción;
 
-XVIII. Por falsedad en la información que proporciona al SAPSXO.
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2011)</small>
+
+XVIII. Por falsedad en la información que proporciona al SAPMXO, Morelos.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 85.
 
-Las sanciones a que se harán acreedores los infractores de este reglamento serán, cuando causen daños, en la proporción y monto en que se causaron, el importe estimado del consumo, si lo hay, y multa de 5 a 500 veces el salario mínimo general vigente en la zona, calificado por la Junta de Gobierno del SAPSXO, según la gravedad del caso, el perjuicio causado y la zona socioeconómica donde incurra la infracción.
+Las sanciones a que se harán acreedores los infractores de este reglamento serán, cuando causen daños, en la proporción y monto en que se causaron, el importe estimado del consumo, si lo hay, y multa de 5 a 500 veces el salario mínimo general vigente en la zona, calificado por la Junta de Gobierno del SAPMXO, Morelos, según la gravedad del caso, el perjuicio causado y la zona socioeconómica donde incurra la infracción.
 
 En materia ecológica, se atenderá concurrentemente a lo dispuesto por este reglamento, la ley respectiva y demás ordenamientos aplicables.
 
@@ -983,25 +1203,29 @@ Igualmente contra las determinaciones emitidas por la Junta de Gobierno en las q
 
 ### CAPÍTULO DÉCIMO OCTAVO (SIC). DE LA RESPONSABILIDAD DE LOS FUNCIONARIOS Y DEL CONTROL MUNICIPAL
 
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 87.
 
-Es responsabilidad de los funcionarios del SAPSXO, administrar, cuidar y mantener el desarrollo de los recursos financieros y humanos, así como el patrimonio y comunicación social del SAPSXO a su cargo. Cuando los funcionarios no cumplan con esta disposición, se procederá conforme a la ley de responsabilidades de los servidores públicos.
+Es responsabilidad de los funcionarios del SAPMXO, Morelos, administrar, cuidar y mantener el desarrollo de los recursos financieros y humanos, así como el patrimonio y comunicación social del SAPMXO, Morelos, a su cargo. Cuando los funcionarios no cumplan con esta disposición, se procederá conforme a la ley de responsabilidades de los servidores públicos.
+
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 88.
 
-La Junta de Gobierno, por conducto del comisario, coordinará y supervisará las acciones que realicen los funcionarios del SAPSXO, así como de los integrantes del consejo directivo, vigilando que se cumplan las funciones establecidas en este reglamento y las que se deriven de la ley que regula la prestación de los servicios de agua potable y saneamiento en el Estado de Morelos y de la Ley Nacional de Aguas.
+La Junta de Gobierno, por conducto del comisario, coordinará y supervisará las acciones que realicen los funcionarios del SAPMXO, Morelos, así como de los integrantes del consejo directivo, vigilando que se cumplan las funciones establecidas en este reglamento y las que se deriven de la ley que regula la prestación de los servicios de agua potable y saneamiento en el Estado de Morelos y de la Ley Nacional de Aguas.
+
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 89.
 
-Corresponde al comisario, en relación con el SAPSXO y los comités de agua y saneamiento, lo siguiente:
+Corresponde al comisario, en relación con el SAPMXO, Morelos, y los comités de agua y saneamiento, lo siguiente:
 
-I. Aplicar las normas y criterios en materia de control y evaluación que deben ser observadas por el SAPSXO;
+I. Aplicar las normas y criterios en materia de control y evaluación que deben ser observadas por el SAPMXO, Morelos;
 
-II. Realizar auditorías periódicas al SAPSXO y a los comités de agua y saneamiento;
+II. Realizar auditorías periódicas al SAPMXO, Morelos, y a los comités de agua y saneamiento;
 
-III. Participar en la entrega-recepción del SAPSXO; y
-
-IV. Vigilar el desarrollo administrativo del SAPSXO a fin de que se apliquen con eficiencia los recursos humanos y patrimoniales, realizando al respecto las observaciones que considere pertinentes.
+III. Participar en la entrega-recepción del SAPMXO, Morelos a fin de que se apliquen con eficiencia los recursos humanos y patrimoniales, realizando al respecto las observaciones que considere pertinentes.
 
 ###### Artículo 90.
 
@@ -1009,9 +1233,11 @@ Tanto el Director General como el Comisario mantendrán informado a la Junta de 
 
 ### CAPÍTULO DÉCIMO NOVENO. DE LA ENTREGA RECEPCIÓN
 
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 91.
 
-Instalado el Director General, en la primera sesión ordinaria, quienes hayan fungido al término del período en la dirección general saliente, harán entrega del SAPSXO a la dirección general entrante. En el acto de entrega-recepción, participará necesariamente el comisario.
+Instalado el director general, en la primera sesión ordinaria, quienes hayan fungido al término del período en la dirección general saliente, harán entrega del SAPMXO, Morelos, a la dirección general entrante. en el acto de entrega-recepción, participará necesariamente el comisario.
 
 ###### Artículo 92.
 
@@ -1019,9 +1245,13 @@ El acto de entrega-recepción no podrá dejar de realizarse bajo ninguna circuns
 
 I. Los libros de actas de la dirección general saliente y la información sobre el lugar de los archivos que contengan los libros de actas de anteriores administraciones;
 
-II. La documentación en que consten la situación financiera y estados contables del SAPSXO, conteniéndose los libros de contabilidad y registros auxiliares, correspondientes al período de administración de la dirección general saliente;
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2011)</small>
 
-III. Todos los documentos relativos a convenios y contratos de obra celebrados por el SAPSXO;
+II. La documentación en que consten la situación contable, así como los estados financieros del SAPMXO, Morelos, conteniéndose los libros de contabilidad y registros auxiliares, correspondientes al período de administración de la dirección general saliente;
+
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2011)</small>
+
+III. Todos los documentos relativos a convenios y contratos de obra celebrados por el SAPMXO, Morelos;
 
 IV. La plantilla del personal y organigrama;
 
@@ -1029,9 +1259,13 @@ V. Registro de usuarios de la cabecera municipal y de los centros de población 
 
 VI. La documentación relativa a la planeación, a los programas y a los proyectos, a ejecutar, en ejecución y ejecutados, aprobados durante la administración del consejo directivo saliente;
 
-VII. Registro, inventario y catálogo de bienes muebles e inmuebles propiedad del SAPSXO; y
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2011)</small>
 
-VIII. La demás información que se estime importante para la gestión del SAPSXO.
+VII. Registro, inventarios, activo fijo y bienes muebles propiedad del SAPMXO, Morelos; y
+
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2011)</small>
+
+VIII. La demás información que se estime importante para la Gestión del SAPMXO, Morelos.
 
 ###### Artículo 93.
 
@@ -1114,3 +1348,19 @@ C. CIRO NORBERTO PERALTA NAVARRO
 SECRETARIO MUNICIPAL.
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 9 DE FEBRERO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Acuerdo entrará en vigor al día siguiente al de su publicación en el periódico oficial "Tierra y Libertad", órgano informativo del Gobierno del Estado de Morelos y/o en la gaceta Municipal.
+
+###### ARTÍCULO SEGUNDO.
+
+Queda derogada toda disposición contraria al presente Acuerdo.
+
+###### ARTÍCULO TERCERO.
+
+Para todo lo no previsto en el presente Acuerdo, se tomará en cuenta como ordenamiento supletorio la Ley Estatal de Agua y su homologa en el ámbito federal.
