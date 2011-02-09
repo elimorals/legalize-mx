@@ -4,7 +4,7 @@ identifier: "PUE-codigo-penal-del-estado-libre-y-soberano-de-puebla-antes-7625"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-23"
-last_updated: "2010-12-03"
+last_updated: "2011-02-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CODIGO DE DEFENSA SOCIAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE FEBRERO DE 2011.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el martes 23 de diciembre de 1986.
 
@@ -3919,9 +3919,17 @@ I.- Al que, de propia autoridad, y haciendo violencia o furtivamente, o empleand
 
 II.- Al que de propia autoridad, haciendo uso de cualquiera de los medios indicados en la fracción anterior, ocupe un inmueble de su propiedad, en los casos en que la ley no lo permite por hallarse en poder de otra persona, o ejerza actos de dominio que lesionen derechos legítimos del ocupante.
 
-###### Artículo 409.
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2011)</small>
 
-Cuando el despojo se cometa materialmente por cinco o más personas, la sanción de prisión será de dos a siete años y la multa de quince a ciento cincuenta días de salario y se aplicará a los invasores, a quienes dirijan la invasión y a su autor o autores intelectuales si los hubiere.
+###### Articulo 409.
+
+Cuando el despojo se cometa materialmente por cinco o más personas, la sanción de prisión será de seis a nueve años y multa de cien a mil quinientos días de salario.
+
+En el supuesto de que el delito se cometa en contra de personas mayores de sesenta años, o personas con discapacidad, o en contra de zonas declaradas área natural protegida, la sanción se aumentará hasta en una tercera parte.
+
+> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 2011)</small>
+
+Artículo 409 BIS.- A quienes dirijan la invasión y su autor o autores intelectuales, la sanción de prisión será de siete a doce años y multa de mil a tres mil días de salario.
 
 ###### Artículo 410.
 
@@ -4710,5 +4718,11 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 3 DE DICIEMBRE DE 2010.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 9 DE FEBRERO DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
