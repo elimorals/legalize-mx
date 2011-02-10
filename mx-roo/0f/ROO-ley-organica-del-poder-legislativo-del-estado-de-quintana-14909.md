@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-del-poder-legislativo-del-estado-de-quintana-14909
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-10-25"
-last_updated: "2010-10-05"
+last_updated: "2011-02-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14909&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE OCTUBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE FEBRERO DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el miércoles 25 de octubre de 1995.
 
@@ -1735,7 +1735,7 @@ La Legislatura remitirá al Procurador General de Justicia del Estado, copia cer
 
 ### CAPITULO II. DEL PROTOCOLO
 
-(REUBICADO, P.O. 15 DE NOVIEMBRE DE 1999)
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2011)</small>
 
 ###### ARTICULO 158.
 
@@ -1765,9 +1765,17 @@ Las discusiones y documentos relacionados con las sesiones de carácter secreto,
 
 ###### ARTICULO 160.
 
-Al entrar al Recinto Oficial, el Gobernador del Estado, el público y los miembros de la Legislatura se pondrán de pie, y el Presidente de ésta lo hará cuando llegue al lugar de la Mesa Directiva, procediendo a saludarlo e inmediatamente saludará al Presidente del Tribunal Superior de Justicia, invitándolos a tomar asiento.
+Las sesiones solemnes en las que asistan el Gobernador del Estado y el Presidente del Tribunal Superior de Justicia, serán recibidos en las puertas del Recinto Oficial del Congreso del Estado, por la comisión de cortesía, quienes los acompañarán al Salón de Sesiones, donde los dos titulares tomarán asiento junto con el Presidente de la Legislatura, el primero a la izquierda del Presidente y el segundo a la derecha.
 
-Al salir del Recinto Oficial los titulares de los Poderes Ejecutivo y Judicial, los miembros de la Legislatura se podrán (sic) de pie, excepto su Presidente.
+En las sesiones a las que asista el Presidente de la República, con el mismo procedimiento de recepción previsto en el párrafo que antecede, éste tomará asiento entre el Presidente de la Legislatura y el Gobernador del Estado; y el Presidente del Tribunal Superior de Justicia a la derecha del Presidente de la Legislatura. En las sesiones a las que asista el representante del Presidente de la República, éste tomará asiento a la izquierda del Gobernador del Estado; el Gobernador del Estado a la izquierda del Presidente de la Legislatura y el Presidente del Tribunal Superior de Justicia a la derecha del Presidente de la Legislatura.
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+###### ARTICULO 160
+
+BIS.- Si se tratare de la sesión solemne en la que el Gobernador Electo del Estado deba rendir la protesta constitucional para asumir su cargo, éste tomará asiento a la izquierda del Presidente de la Legislatura; el Presidente del Tribunal Superior de Justicia a la derecha del Presidente de la Legislatura y quien hubiese desempeñado la Titularidad del Poder Ejecutivo hasta antes de la fecha de la protesta a la izquierda del Gobernador Electo del Estado.
+
+Si en la sesión solemne referida en el párrafo que antecede asiste el Presidente de la República, éste tomará asiento entre el Presidente de la Legislatura y el Presidente del Tribunal Superior de Justicia del Estado. En el caso de que asista el representante del Presidente de la República, éste tomará asiento a la derecha del Presidente del Tribunal Superior de Justicia del Estado y éste a la derecha del Presidente de la Legislatura.
 
 (REUBICADO, P.O. 15 DE NOVIEMBRE DE 1999)
 
@@ -1928,5 +1936,13 @@ P.O. 5 DE OCTUBRE DE 2010.
 ÚNICO.- El presente Decreto entrará en vigor al día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 ARTICULO TRANSITORIO:
+
+ÚNICO.- Publíquese el presente Decreto en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 10 DE FEBRERO DE 2011.
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+TRANSITORIO:
 
 ÚNICO.- Publíquese el presente Decreto en el Periódico Oficial del Estado de Quintana Roo.
