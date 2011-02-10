@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-del-poder-judicial-del-estado-de-quintana-roo-1387
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-02-15"
-last_updated: "2009-09-18"
+last_updated: "2011-02-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13871&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE SEPTIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE FEBRERO DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 15 de febrero de 1999.
 
@@ -345,11 +345,29 @@ Todos los demás asuntos de carácter judicial o administrativo cuyo conocimient
 
 Las Salas Mixtas del Tribunal Superior de Justicia se integran con tres Magistrados de Número y el Pleno podrá aumentar o disminuir el número de Magistrados conforme a las necesidades del servicio y capacidad presupuestal; tendrán la competencia que este mismo acuerde, y serán presididas por el Magistrado que elija cada una de las Salas.
 
-El Presidente de cada Sala durará en su encargo un año, no pudiendo ser reelecto para los dos períodos inmediatos posteriores.
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+El Presidente de cada Sala durará en su encargo un año, no pudiendo ser reelecto para los dos períodos inmediatos posteriores y tendrá las atribuciones siguientes:
+
+I.- Presidir el Pleno de la Sala, dirigir los debates y poner a votación los asuntos respectivos al concluir dichos debates;
+
+II.- Acordar los asuntos de la competencia de la Sala hasta ponerlos en estado de resolución, autorizándolos con su firma y la del Secretario respectivo;
+
+III.- Distribuir entre los Magistrados, por riguroso sorteo, los tocas para su estudio, así como vigilar la presentación oportuna de los proyectos de resolución;
+
+IV.- Vigilar que la Secretaría de Acuerdos realice el extracto de los puntos que comprendan los asuntos resueltos por la Sala;
+
+V.- Dar el trámite respectivo a los amparos y firmar, con la representación de la Sala, los informes previo y justificado;
+
+VI.- Llevar la correspondencia de la Sala, autorizándola con su firma; y
+
+VII.- Los demás asuntos que le confiera esta ley, así como otras disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 25.
 
-Las Salas actuarán colegiadamente en la celebración de las audiencias, prácticas de diligencias, aprobación y firma de acuerdos, y en la discusión y resolución de los asuntos.
+Las resoluciones de las Salas Colegiadas se tomarán por unanimidad o mayoría de votos de los Magistrados, quienes no podrán abstenerse de votar sino cuando tengan impedimento legal.
 
 > <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
 
@@ -401,13 +419,19 @@ V.- De la imposición de correcciones disciplinarias a los litigantes, cuando en
 
 VI.- De los demás asuntos que le encomienden las leyes o acuerde el Tribunal Pleno mediante disposiciones generales.
 
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+La Sala con sede en la Ciudad de Chetumal, tendrá jurisdicción en todo el Estado para conocer en forma exclusiva el recurso de apelación que se interponga en los juicios mercantiles, mismo que contempla el Código de Comercio; así como también conocerá de todos los recursos de apelación que se interpongan en contra de las sentencias definitivas en materia civil, excepción hecha de la materia familiar que continuará siendo competencia de ambas Salas.
+
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JUNIO DE 2001)</small>
 
 ###### Artículo 32.
 
 En materia penal conocerán el (sic) trámite y resolución de todos aquellos asuntos considerados por las leyes como penales y, de manera especial, sobre los siguientes asuntos:
 
-I.- De los recursos de apelación que se interpongan en contra de las resoluciones pronunciadas por los Jueces del ramo;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2011)</small>
+
+I.- De los recursos de apelación que se interpongan en contra de las resoluciones pronunciadas por los Jueces del ramo; así como la casación y la revisión que se interpongan contra resoluciones pronunciadas por los tribunales de Juicio Oral. Estos últimos podrán ser resueltos incluso por magistrados que hubieren conocido en el mismo asunto en apelación;
 
 > <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2003)</small>
 
@@ -775,6 +799,10 @@ XVII.- Dar aviso al Consejo de la Judicatura y a la oficina que corresponda, de 
 
 XVIII.- Remitir por conducto del Secretario Ejecutivo de Administración del Consejo de la Judicatura, todos los expedientes, dentro de los noventa días siguientes a la fecha en que quedó concluido definitivamente el negocio, dejando para constancia, copia certificada de la sentencia y en su caso de la resolución que declara concluido el negocio.
 
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+En el sistema acusatorio adversarial, los jueces actuarán sin asistencia de secretarios, tendrán fe pública para certificar el contenido de los actos que realicen y de las resoluciones que dicten, cuando tales actos consten en registros informáticos, de audio, video o se transcriban por escrito.
+
 ###### Artículo 64.
 
 Los jueces penales tendrán, además de las obligaciones señaladas en el artículo anterior, las siguientes:
@@ -794,6 +822,14 @@ III.- Visitar los centros preventivos o de readaptación social, a fin de cercio
 ###### Artículo 65.
 
 Los Juzgados de Primera Instancia conocerán de los asuntos del orden civil, mercantil, familiar, penal o competencia mixta, conforme a la organización jurisdiccional establecida por esta Ley o la que determine el Pleno del Consejo de la Judicatura.
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+En la materia penal, los juzgados de Control se integrarán por un Juez, y los Tribunales de Juicio Oral se integrarán por tres Jueces.
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+Los jueces de Juicio Civil Oral y los Jueces de Juicio Familiar Oral, conocerán de los asuntos relativos a su materia, de acuerdo con el Código de Procedimientos Civiles para el Estado Libre y Soberano de Quintana Roo y que deben sustanciarse conforme al procedimiento oral.
 
 ###### Artículo 66.
 
@@ -843,23 +879,95 @@ Los Jueces de Primera Instancia en materia penal, conocerán:
 
 I.- De los procesos que por delitos del orden común se cometan en su jurisdicción territorial;
 
-II.- De los incidentes civiles promovidos en los juicios penales que ante ellos se tramiten; y
+II.- De los incidentes civiles promovidos en los juicios penales que ante ellos se tramiten; y (sic)
 
-III.- Los demás asuntos que le encomienden las leyes.
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2011)</small>
+
+III.- Competencia por seguridad; y
+
+> <small>(ADICIONADA, P.O. 10 DE FEBRERO DE 2011)</small>
+
+IV.- Los demás asuntos que le encomienden las leyes.
 
 > <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2007)</small>
 
 Cuando en los casos de las fracciones anteriores existan órdenes de protección de emergencia, preventivas o ambas, dictadas conforme a la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Quintan Roo, los Jueces de Primera Instancia en materia penal deberán valorarlas de forma inmediata, en cuanto tengan conocimiento de los hechos, siempre y cuando sea procedente conforme a la propia naturaleza de la orden de protección, a fin de ratificarlas hasta por el tiempo que consideren necesario o, en su caso, desestimarlas decretando que cesen. Dichas órdenes de protección podrán ser dictadas por las autoridades jurisdiccionales, por el tiempo que estimen necesario, aun cuando no fueren decretadas con anterioridad por autoridad administrativa.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 69.
 
-(DEROGADO, P.O. 16 DE DICIEMBRE DE 2003)
+Los jueces de Ejecución de Sentencia tendrán la competencia, facultades y obligaciones que les confieren las leyes respectivas, y en especial:
+
+I.- Mantener, sustituir, modificar o hacer cesar la pena y las medidas de seguridad, así como las condiciones de su cumplimiento;
+
+II.- Decidir sobre la libertad anticipada y su revocación;
+
+III.- Resolver sobre la reducción de penas;
+
+IV.- Resolver las propuestas que se formulen para modificar las condiciones de cumplimiento de la condena o su reducción;
+
+V.- Inspeccionar el lugar y condiciones en que se deban cumplir las penas y medidas de seguridad y ordenar, en su caso, las medidas correctivas que se estimen pertinentes;
+
+VI.- Vigilar el cumplimiento en sus términos de las medidas de seguridad impuestas a los inimputables;
+
+VII.- Resolver sobre la extinción de la sanción penal;
+
+VIII.- Decidir respecto a la ineficacia de la sentencia condenatoria cuando el tipo penal se suprima o se declare inconstitucional;
+
+IX.- Resolver, con aplicación del procedimiento previsto para los incidentes de ejecución, las peticiones o quejas que los internos formulen con relación al régimen y el tratamiento penitenciario en cuanto afecten sus derechos;
+
+X.- Resolver, por vía de incidente, los reclamos que formulen los internos sobre sanciones disciplinarias; y
+
+XI.- Las demás que les otorgue la ley.
+
+Los Jueces de Control, de Juicio Oral y los de Ejecución de Sentencia, tendrán la posibilidad de extender su jurisdicción a otros distritos, de conformidad con las disposiciones generales que el Consejo de la Judicatura dicte, en los términos de las facultades otorgadas al Pleno en la presente Ley.
+
+Los juzgados de ejecución se auxiliarán con un equipo interdisciplinario para el ejercicio de sus funciones.
 
 > <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
 
 ###### Artículo 70.
 
 El Consejo de la Judicatura establecerá por acuerdo la competencia de los Juzgados Mixtos de Primera Instancia, los cuales sujetarán su actuación, según el caso, a lo previsto en los artículos comprendidos en esta Sección.
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 70
+
+bis.- Los Jueces de Control tendrán las siguientes atribuciones:
+
+I.- Otorgar las autorizaciones judiciales previas que solicite el Ministerio Público para realizar las actuaciones que priven, restrinjan o perturben los derechos establecidos en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Quintana Roo y los convenios y tratados internacionales vigentes en el país;
+
+II.- Dirigir las audiencias judiciales de la fase de investigación y resolver los incidentes que se promuevan en ellas;
+
+III.- Decidir sobre la libertad o prisión preventiva y demás medidas cautelares de los imputados;
+
+IV.- Conocer de las impugnaciones que se hagan en contra de los criterios de oportunidad que aplique el Ministerio Público;
+
+V.- Resolver sobre la vinculación a proceso de los imputados;
+
+VI.- Procurar la solución del conflicto a través de medios alternos, conforme a lo dispuesto en la ley;
+
+VII.- Conocer y resolver del procedimiento abreviado;
+
+VIII.- Resolver del recurso de revocación; y
+
+IX.- Las demás que les otorgue la ley.
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 70
+
+ter.- Los jueces del Tribunal de Juicio Oral tendrán las siguientes atribuciones:
+
+I.- Conocer las causas penales en Juicio Oral;
+
+II.- Resolver todas las cuestiones que se presenten durante el Juicio;
+
+III.- Dictar sentencia con base en las pruebas presentadas durante la audiencia de Juicio; y
+
+IV.- Las demás que les otorgue la ley.
 
 #### Sección Cuarta. De los Juzgados de Paz
 
@@ -961,7 +1069,7 @@ I.- Fungir como Secretario de Acuerdos del Pleno;
 
 II.- Autorizar con su firma las providencias y acuerdos del Presidente en la tramitación de los asuntos de su competencia;
 
-III.- Llevar un legajo de copias certificadas de las resoluciones dictadas por el Pleno;
+III.- (DEROGADA, P.O. 10 DE FEBRERO DE 2011)
 
 IV.- Practicar las diligencias que se ordenen en los negocios cuyo conocimiento corresponda al Pleno;
 
@@ -993,7 +1101,7 @@ XV.- Poner constancia de día y hora en que se presenten las promociones y la co
 
 XVI.- Distribuir el trabajo entre los empleados adscritos al Pleno;
 
-XVII.- Llevar los libros de registro de tocas, exhortos y despachos de correspondencia, títulos, cédulas, actas de Pleno y de los demás asuntos que para el control se requieran;
+XVII.- (DEROGADA, P.O. 10 DE FEBRERO DE 2011)
 
 XVIII.- Autorizar las copias certificadas de constancias judiciales que soliciten las partes o quienes legalmente puedan hacerlo;
 
@@ -1031,7 +1139,9 @@ VII.- Recibir los escritos que se le presenten asentando al calce la razón del 
 
 VIII.- Guardar bajo su responsabilidad los pliegos, documentos y expedientes que la ley o superior jerárquico disponga y entregarlos con las formalidades legales, mientras no se envíen al archivo judicial;
 
-IX.- Llevar los libros que prevengan la ley o que el superior jerárquico les encomiende;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2011)</small>
+
+IX.- Llevar electrónicamente los libros de registro de tocas, exhortos y despachos de correspondencia, títulos, cédulas, actas del Pleno y los demás asuntos que para el control se requieran;
 
 X.- Redactar los acuerdos y actas de los asuntos que tramiten, recogiendo la firma de los Magistrados y firmando a su vez las citadas actuaciones;
 
@@ -1079,7 +1189,9 @@ I.- Recibir los escritos que se les presenten, asentando al calce la razón del 
 
 II.- Dar cuenta, dentro de las veinticuatro horas siguientes, al Juez de quien dependan, bajo su más estricta responsabilidad, con los escritos, oficios, promociones y demás documentos que se reciban;
 
-III.- Registrar cada expediente en el libro correspondiente tomando nota de su número, así como los exhortos;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2011)</small>
+
+III.- Registrar electrónicamente cada expediente en el libro correspondiente tomando nota de su número, así como de los exhortos;
 
 IV.- Proporcionar a los interesados los expedientes en que fueren partes y soliciten para informarse del estado de los mismos, o para cualquier otro efecto legal, siempre que sea en su presencia y sin extraer las actuaciones de la oficina;
 
@@ -1291,9 +1403,13 @@ I.- Un Secretariado Ejecutivo;
 
 II.- Una Visitaduría Judicial;
 
-III.- La Escuela Judicial.
+III.- La Escuela Judicial;
 
-IV.- La Contraloría del Poder Judicial.
+IV.- La Contraloría del Poder Judicial;
+
+> <small>(ADICIONADA, P.O. 10 DE FEBRERO DE 2011)</small>
+
+V.- Archivo Judicial.
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 16 DE DICIEMBRE DE 2003)</small>
 
@@ -1312,6 +1428,64 @@ III.- El Secretario Ejecutivo de Disciplina.
 ###### Artículo 101.
 
 La Escuela Judicial es el órgano encargado de la formación, capacitación, especialización, actualización y superación de los servidores públicos de la administración de justicia y personal administrativo, así como de la investigación científica del Derecho y del fomento de una cultura jurídica.
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 101
+
+bis.- El Archivo Judicial dependerá del Consejo de la Judicatura y estará a cargo de un Director, quien deberá tener conocimientos en archivonomía y será auxiliado por el personal necesario a juicio del Consejo de la Judicatura.
+
+Se depositarán en el Archivo Judicial:
+
+I.- Todos los expedientes del orden civil, mercantil, familiar, penal y constitucional, concluidos por los tribunales del Estado;
+
+II.- Los expedientes en materia civil, mercantil o familiar en los que se haya dejado de promover por más de un año; y
+
+III.- Los demás documentos que las leyes determinen.
+
+Para el mejor funcionamiento del Archivo Judicial, se implantarán sistemas de microfilmación y/o digitalización de expedientes y depuración, de acuerdo como lo determine el Reglamento o el Consejo de la Judicatura, el cual podrá acordar, en todo caso, las disposiciones que crea convenientes para optimizar el funcionamiento del archivo.
+
+El Tribunal Superior, el Pleno, las Salas, los Juzgados del Estado y demás Órganos del Poder Judicial, remitirán al Archivo Judicial los expedientes en estado de archivarse. Al enviarse los expedientes para su resguardo al Archivo Judicial, los remitentes realizarán las anotaciones respectivas en el libro de gobierno electrónico.
+
+Los expedientes y documentos recibidos en el Archivo Judicial, serán anotados en un libro electrónico de entradas destinado para cada juzgado y, una vez clasificados, se colocarán en el lugar que les corresponda, evitando que se deterioren.
+
+Por ningún motivo se extraerá expediente alguno del Archivo Judicial, salvo a petición de la autoridad que lo haya remitido o de otra competente, en cuyo caso se insertará en el oficio relativo la determinación que motiva el pedimento.
+
+La vista o examen de libros, documentos o expedientes del archivo serán autorizados por el Consejo de la Judicatura y podrán permitirse a los interesados, en presencia del encargado de la oficina y dentro de ella. La expedición de copias será autorizada por el secretario de administración del Consejo de la Judicatura.
+
+Por ningún motivo los empleados del archivo podrán extraer documentos o expedientes. La infracción de esta disposición ameritará sanción administrativa, sin perjuicio de la denuncia penal correspondiente.
+
+Los jueces que no remitan los expedientes que deben ser depositados en el Archivo Judicial serán sancionados por el Consejo de la Judicatura.
+
+Cualquier defecto o irregularidad que advierta el Director del Archivo Judicial en los expedientes y documentos que se le remitan para su depósito, lo comunicará inmediatamente al Presidente del Tribunal Superior de Justicia.
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 101
+
+ter.- La Biblioteca del Poder Judicial dependerá del Consejo de la Judicatura.
+
+La Biblioteca estará al servicio del Poder Judicial y del público, pero sólo los servidores de aquél, podrán solicitar a préstamo los libros, de acuerdo con el sistema de control que se establezca.
+
+La Biblioteca estará bajo el control de una persona especializada en el conocimiento y manejo de esta materia y de los servidores públicos necesarios para su funcionamiento.
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 101
+
+quáter.- Corresponde al Titular de la Biblioteca:
+
+I.- Formar el inventario de todos los libros y documentos, así como del mobiliario y equipo;
+
+II.- Clasificar y ordenar las obras, así como formar el catálogo y el fichero respectivos;
+
+III.- Conservar, asegurar y custodiar el acervo bibliográfico;
+
+IV.- Proponer al Consejo de la Judicatura la adquisición de obras que sean convenientes para la prestación del servicio;
+
+V.- Llevar la estadística de asistencia de usuarios; y
+
+VI.- Distribuir las labores entre él y su personal para un mejor funcionamiento.
 
 > <small>(REFORMADO, P.O. 11 DE MARZO DE 2008)</small>
 
@@ -1344,6 +1518,38 @@ Los servicios del Centro de Convivencia Familiar Supervisada, se otorgarán de f
 ###### Artículo 104.
 
 Las atribuciones, estructura y funcionamiento de los órganos auxiliares del Consejo de la Judicatura se establecerán en el reglamento que al efecto expida el propio Consejo.
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 104
+
+bis.- La Dirección de Informática estará a cargo de una persona especializada en el conocimiento y manejo de esta materia, auxiliado por el personal técnico administrativo necesario, la cual tendrá las siguientes funciones:
+
+I.- Capturar los datos procedentes de los diversos órganos del Poder Judicial relativos a los procesos que ante ellos se tramiten;
+
+II.- En los juicios orales, previo acuerdo del Juez competente, proporcionará a las partes interesadas o autorizadas, con base en los registros computarizados, información de los procesos en que intervengan;
+
+III.- Mantener y conservar actualizados los registros estadísticos de procesos por materia, por Tribunal, Sala o Juzgado;
+
+IV.- Computarizar las acciones del Poder Judicial en áreas de personal, contabilidad, recursos materiales y cualquier otra que se requiera;
+
+V.- Llevar el registro computarizado de todas aquellas actividades de apoyo al servicio de la administración de justicia, que se determine por el Consejo de la Judicatura;
+
+VI.- Capturar y sistematizar la legislación estatal y la jurisprudencia que emita el Tribunal Superior de Justicia, así como asesorar para el acceso a la jurisprudencia y las legislaciones estatal y federal;
+
+VII.- Proporcionar mantenimiento permanente preventivo y correctivo a los recursos informáticos;
+
+VIII.- Elaborar y diseñar programas y sistemas especializados por área para el mejor desempeño de las funciones;
+
+IX.- Llevar un registro y archivo de software con sus licencias y de hardware;
+
+X.- Establecer políticas de seguridad sobre información, sistemas y programas informáticos;
+
+XI.- Proponer al Consejo de la Judicatura, a través de su Presidencia, la normatividad en informática adecuada al Poder Judicial;
+
+XII.- Instalar y mantener en adecuado funcionamiento las redes de cómputo en las diferentes áreas del Poder Judicial; y
+
+XIII.- Diseñar, elaborar y mantener actualizada una página de Internet y los sistemas que se requieran para el caso, que permitan consultar las actividades sobre impartición de justicia del Poder Judicial del Estado.
 
 > <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
 
@@ -1441,7 +1647,31 @@ Para ser Secretario de Acuerdos de las Salas y Juzgados; Secretario de Estudio y
 
 Los Magistrados del Tribunal Superior de Justicia y los jueces designados, durarán en su encargo un período de seis años, podrán ser reelectos una sola vez, y si lo fueren, sólo podrán ser privados de sus puestos en los términos que señala el Título Octavo de la Constitución Política del Estado y la Ley de Responsabilidades de los Servidores Públicos.
 
-Cada Magistrado, treinta días naturales antes de concluir el período por el que fue designado, tendrá la responsabilidad de presentar ante el Congreso del Estado, o la Diputación permanente, según corresponda, la solicitud de su reelección en el cargo, la cual en todo caso, deberá estar fundada y motivada.
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+La ratificación de magistrados tiene como finalidad fortalecer su independencia, profesionalización y estabilidad laboral; se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo, independencia, honestidad y eficiencia a que se sujeta la administración de justicia, ajustándose al siguiente procedimiento:
+
+I.- El Presidente del Tribunal Superior de Justicia comunicará al Congreso del Estado, por lo menos con sesenta días de anticipación a la fecha de la conclusión del encargo, los casos de los magistrados que se encuentren próximos al término de su periodo;
+
+II.- Dentro de los quince días siguientes a la comunicación a que se refiere la fracción I de este artículo, se integrará el expediente del Magistrado que concluye el periodo, a fin de que se pueda evaluar si en el desempeño de su cargo se han satisfecho los principios antes señalados, recabándose la siguiente documentación:
+
+a) La información estadística, que contendrá el número total de asuntos que fueron turnados a su adscripción y los que fueron resueltos, incluyendo el porcentaje de los pendientes de resolución;
+
+b) El total de asuntos asignados a la ponencia del Magistrado, en caso de Sala Colegiada, así como los resueltos por su ponencia incluyéndose el total de pendientes de resolución;
+
+c) El número desglosado del total de sentencias elaboradas por la Sala a la que pertenezca el Magistrado, en las que se concedió el amparo y protección de la justicia federal, diferenciando aquéllas que implicaron modificaciones de forma y cuáles de fondo así como la concesión lisa y llana, de plano o para efectos y sobreseídos;
+
+d) La información de los resultados que el Pleno haya recibido en materia de quejas procesales o administrativas contra la ponencia del Magistrado en cuestión, las cuales deberán contener la evolución de los procedimientos respectivos y el resultado de su procedencia o no, así como las sanciones impuestas;
+
+e) Las comisiones realizadas en el desempeño de su encargo; y
+
+f) La documentación que acredite la impartición de cursos, conferencias, seminarios por parte del Magistrado dentro del Poder Judicial, tendientes a mejorar la impartición de justicia y los dirigidos hacia la sociedad, para promover la cultura jurídica; así como las constancias que demuestren la preparación y actualización de sus conocimientos durante el desempeño de su cargo;
+
+III.- El Presidente del Tribunal Superior de Justicia solicitará toda la información en relación con los magistrados que estén próximos a concluir su cargo que estime pertinente a los distintos órganos del Poder Judicial, y éstos estarán obligados a proporcionarla;
+
+IV.- El Presidente del Tribunal Superior de Justicia, remitirá la información anterior al Congreso del Estado, a fin de que éste inicie el procedimiento de evaluación, pudiéndose allegar de otros elementos que estime necesarios para ello; y
+
+V.- El Congreso del Estado, durante la substanciación del procedimiento de evaluación, deberá garantizar al Magistrado su derecho de audiencia, respecto de los nuevos elementos que en su caso se hayan allegado al expediente, para que manifieste lo que a su derecho convenga.
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 16 DE DICIEMBRE DE 2003)</small>
 
@@ -1478,6 +1708,10 @@ VII.- Secretarios de Acuerdos de Juzgados de Primera Instancia;
 VIII.- Secretario de Juzgados de Paz; y
 
 IX.- Actuario del Poder Judicial del Estado.
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+Los atributos de la carrera judicial, no se extinguen por promoción a otro cargo que no implique función jurisdiccional.
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 16 DE DICIEMBRE DE 2003)</small>
 
@@ -1593,17 +1827,25 @@ XIV.- Contravenir alguna disposición prevista por esta Ley; y
 
 XV.- Las demás que determine la ley.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 16 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 126.
 
-Las responsabilidades a que se refiere el artículo anterior, se sancionarán atendiendo a su gravedad, frecuencia y antecedentes del infractor, con cualesquiera de los siguientes medios:
+Las faltas serán valoradas y, en su caso, sancionadas de conformidad a la presente Ley y a la Ley de Responsabilidades de los Servidores Públicos del Estado, con cualquiera de los siguientes medios:
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 16 DE DICIEMBRE DE 2003)</small>
 
 I.- Extrañamiento;
 
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 16 DE DICIEMBRE DE 2003)</small>
+
 II. Amonestación en privado;
 
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 16 DE DICIEMBRE DE 2003)</small>
+
 III.- Suspensión sin goce de sueldo, hasta por tres meses;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 16 DE DICIEMBRE DE 2003)</small>
 
 IV.- Destitución.
 
@@ -1651,19 +1893,27 @@ La Contraloría Interna del Poder Judicial substanciará el procedimiento y emit
 
 En todo caso, se respetará su garantía de audiencia al infractor.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 16 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 130.
 
-Cuando la causa de responsabilidad en que hubiere incurrido el infractor amerite sancionarse con la destitución del cargo, ésta no podrá ejecutarse hasta que el responsable sea escuchado por el Pleno del Tribunal o del Consejo de la Judicatura, según el caso, previa solicitud del propio infractor y estos determinen si es legal y justa dicha sanción.
+Cuando la causa de responsabilidad en que hubiere incurrido el infractor amerite sancionarse con la destitución del cargo, sólo procederá previo acuerdo del Pleno del Tribunal o del Consejo de la Judicatura, en los casos siguientes:
 
-Si el caso lo amerita, las autoridades arriba señaladas como competentes podrán designar un comisionado de entre sus integrantes para que investigue los hechos materia de la infracción, y presente el resultado a su consideración.
+I.- Cuando incurra en una causa de responsabilidad grave en el desempeño de su cargo; y
+
+II.- Cuando reincida en una causa de responsabilidad sin haber atendido a las observaciones o amonestaciones que se le hagan por faltas a la conducta que deba guardar, conforme a la presente ley.
+
+Con independencia de si el motivo de la queja da o no lugar a la responsabilidad, el Presidente del Consejo de la Judicatura o el Presidente del Tribunal que conozca, dictará las providencias oportunas para su corrección inmediata, y si de la propia queja se desprende la realización de una conducta que pudiera dar lugar a responsabilidad, dará cuenta al Pleno del órgano que corresponda, para que proceda en los términos previstos en éste, sin perjuicio de que, en cualquier momento, se acuerde la suspensión temporal sin goce de sueldo en el ejercicio de las funciones del probable infractor.
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 16 DE DICIEMBRE DE 2003)</small>
 
 ###### Artículo 131.
 
 En contra de las determinaciones que impongan una sanción dictadas por la Contraloría Interna, procede el recurso de reconsideración ante el Pleno del Consejo de la Judicatura o del Tribunal Superior de Justicia, según el caso, dentro de los cinco días siguientes a la fecha de la notificación, el cual, con el escrito de inconformidad, el informe de la Contraloría Interna y la resolución recurrida, resolverá de plano y sin ulterior recurso dentro de los diez días siguientes.
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+Cuando una queja se interponga sin fundamento, carezca de las formalidades necesarias o bien sea notoriamente frívola e improcedente y así se declare por la Contraloría, se impondrá al quejoso o a su abogado, o a ambos una multa de diez a ciento veinte días de salario mínimo tomando como base el vigente en el Estado de Quintana Roo, al momento de interponerse la queja, misma que será efectiva a través del Fondo para el Mejoramiento en la Administración e Impartición de Justicia en el Estado.
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 16 DE DICIEMBRE DE 2003)</small>
 
@@ -1812,3 +2062,11 @@ TERCERO.- Publíquese el presente decreto en el Periódico Oficial del Estado de
 P.O. 18 DE SEPTIEMBRE DE 2009.
 
 ÚNICO.- Las presentes reformas entrarán en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 10 DE FEBRERO DE 2011.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, con excepción de todo aquello concerniente al sistema penal acusatorio y oral previsto en esta Ley Orgánica, mismo que entrará en vigor cuando lo establezca la legislación procesal penal correspondiente, sin exceder el término previsto en la Constitución Política de los Estados Unidos Mexicanos.
+
+T R A N S I T O R I O:
+
+ÚNICO.- Publíquese el presente Decreto en el Periódico Oficial del Estado de Quintana Roo.
