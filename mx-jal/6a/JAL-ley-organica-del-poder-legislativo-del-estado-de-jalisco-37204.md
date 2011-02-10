@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-legislativo-del-estado-de-jalisco-37204"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-02-07"
-last_updated: "2010-12-23"
+last_updated: "2011-02-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37204&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE FEBRERO DE 2011.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Jalisco, el sábado 7 de febrero de 2004.
 
@@ -1185,23 +1185,73 @@ V. Apoyar en la revisión de los dictámenes de las comisiones legislativas, rel
 
 VI. Las demás que le correspondan de conformidad con las leyes y reglamentos vigentes.
 
-(REUBICADO [N. DE E. ANTES CAPITULO X], P.O. 7 DE ABRIL DE 2007)
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 10 DE FEBRERO DE 2011)</small>
 
-### CAPÍTULO XI. De las Propuestas de los Órganos Auxiliares
+### CAPÍTULO XI. Unidad de Vigilancia
 
-> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2007)</small>
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+Artículo 62 K.
+
+1. La Unidad es el órgano técnico profesional e interdisciplinario en áreas de derecho, administración, contabilidad, obra pública, evaluación de proyectos, política y social del Congreso del Estado, que auxilia a la Comisión de Vigilancia en su tarea de fiscalización y revisión de informes finales de cuenta pública o estados financieros de los sujetos fiscalizables y auditables.
+
+2. Al frente de. la Unidad habrá un titular, propuesto por la Junta de Coordinación Política y designado por la Asamblea mediante mayoría absoluta, cuyo nombramiento no excederá del término de la legislatura, pudiendo ser reelecto; continúa en sus funciones hasta la realización de la elección correspondiente y sólo puede ser removido por causa justificada, por mayoría absoluta de votos.
+
+3. Para ser designado titular del órgano se requiere:
+
+I. Ser mexicano por nacimiento, mayor de 30 años, y estar en pleno goce de sus derechos;
+
+II. Poseer el día de su designación, con antigüedad mínima de cinco años, título profesional de licenciatura en Contaduría Pública, Derecho o Abogacía, Administración Pública o Economía, expedido por la autoridad o institución legalmente facultada para ello;
+
+III. Acreditar conocimientos y experiencia en las materias de derecho, administración, economía, contabilidad, obra pública y evaluación de proyectos;
+
+IV. No haber sido, durante los últimos tres años, miembro de la dirigencia nacional, estatal o municipal de un partido político, ni haber formado parte de los órganos electorales con derecho a voto, ni haber ocupado cargo de elección popular en dicho lapso, y
+
+V. No haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión.
+
+Durante el ejercicio de su encargo, el titular no podrá militar o formar parte activa de partido político alguno, ni asumir otro empleo, cargo o comisión, salvo los desempeñados en asociaciones científicas, docentes, artísticas o de beneficencia.
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+Artículo 62 L. La Unidad tendrá a su cargo las siguientes atribuciones:
+
+I. Auxiliar a la Comisión en la vigilancia para que los servidores públicos de la Auditoría Superior se conduzcan en los términos de esta ley y la de Responsabilidades para los Servidores Públicos del Estado de Jalisco, y presentar las denuncias correspondientes al Auditor Superior;
+
+II. A petición de la Comisión, realizar auditorías para verificar el desempeño, el cumplimiento de los objetivos y metas de los programas anuales de la Auditoría Superior, así como la debida aplicación de los recursos a cargo de ésta;
+
+III. Auxiliar a la Comisión en la tarea de fiscalización superior del Congreso de manera objetiva, fundada y motivada, utilizando metodologías de medición para la evaluación del desempeño de la gestión pública y la eficiencia y eficacia de los planes y programas fiscalizables;
+
+IV. Auxiliar a la Comisión en los trabajos relativos a las relaciones entre el Congreso del Estado y la Auditoria Superior;
+
+V. Requerir a las unidades administrativas de la Auditoría Superior, la información necesaria para cumplir con sus atribuciones;
+
+VI. Expedir certificaciones de los documentos que obren en los archivos de la Unidad;
+
+VII. Formular el informe final del resultado de los estados financieros de la Auditoría Superior, bajo los mismos criterios, términos y procedimientos que establece esta ley, y remitirlos a la Comisión de Administración para los efectos correspondientes;
+
+VIII. Ejecutar los acuerdos de la Comisión y auxiliar a su Presidente en los asuntos propios de la Comisión;
+
+IX. Auxiliar a la Comisión en la formulación de observaciones que se hagan a los informes finales de cuenta pública o estados financieros que remita la Auditoría Superior;
+
+X. Recibir las quejas que presenten los sujetos fiscalizables y darles cauce legal, y
+
+XI. Las demás que le atribuyan expresamente las disposiciones legales y reglamentarias.
+
+(REUBICADO [N. DE E. ANTES CAPITULO XI], P.O. 10 DE FEBRERO DE 2011)
+
+### CAPÍTULO XII. De las Propuestas de los Órganos Auxiliares
+
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2011)</small>
 
 ### CAPÍTULO I. Comisiones Legislativas
 
-### CAPÍTULO II. Procedimiento En Comisiones Legislativas
-
 ###### Artículo 63.
 
-1. Las propuestas que emitan los órganos técnicos auxiliares del Congreso del Estado deberán ser remitidas a la Comisión Legislativa o Comité correspondiente para que ésta a su vez los examine y acuerde la presentación del dictamen correspondiente, ante la Asamblea.
+1. Las propuestas que emitan los órganos técnicos auxiliares del Congreso del Estado deberán ser remitidas a la comisión legislativa o comité correspondiente para que ésta a su vez los examine y acuerde la presentación del dictamen correspondiente, ante la Asamblea.
 
 ## TÍTULO SEXTO. COMISIONES LEGISLATIVAS Y COMITÉS
 
-### CAPÍTULO III. Comités
+### CAPÍTULO II. Procedimiento En Comisiones Legislativas
 
 ###### Artículo 64.
 
@@ -2065,7 +2115,7 @@ XVIII. Vigilar que los servidores públicos de la Auditoría Superior se conduzc
 
 XIX. Las demás que establezca esta ley y otras disposiciones legales aplicables.
 
-### CAPÍTULO I. Forma y Periodicidad de las Sesiones
+### CAPÍTULO III. Comités
 
 ###### Artículo 104.
 
@@ -2123,9 +2173,11 @@ II. Se trate de juicios políticos o de procedencia de juicio penal, en cuyo cas
 
 > <small>(ADICIONADA, P.O. 5 DE FEBRERO DE 2005)</small>
 
-III.- Se trate de acuerdos legislativos, que se dictaminarán dentro de los treinta días naturales, contados a partir de la fecha de su recepción.
+III. Se trate de acuerdos legislativos, que se dictaminarán dentro de los treinta días naturales, contados a partir de la fecha de su recepción.
 
-2. Las iniciativas provenientes de los ciudadanos conforme a la fracción V del artículo 28 de la Constitución Política del Estado, que se presenten conforme al procedimiento que señala la ley de la materia, deben ser dictaminadas en el plazo que determina la ley estatal en materia de participación ciudadana.
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+2. Las iniciativas provenientes de los ciudadanos a que se refiere el artículo 28 de la Constitución Política del Estado, que se presenten conforme al procedimiento que señala la ley de la materia, deben ser dictaminadas en el plazo que determina la ley estatal en materia de participación ciudadana.
 
 3. En el supuesto que una comisión incumpla lo señalado en los párrafos anteriores, el Presidente de la Mesa Directiva turnará el asunto de inmediato a la Junta de Coordinación Política para que, a más tardar, en la sesión siguiente proponga a la Asamblea la creación de la comisión especial con carácter transitorio que debe concluir el estudio y dictamen de la iniciativa o asunto que se trate, concediendo para tal efecto, un plazo no mayor a treinta días naturales, contados a partir de la fecha en que la comisión es integrada.
 
@@ -2181,7 +2233,7 @@ La mayoría de los vocales de una comisión pueden convocar a sesión con las fo
 
 1. Los presidentes de las comisiones deben informar al Comité de Proceso Legislativo, de las ausencias de los diputados a las reuniones de trabajo, siempre que las faltas sean injustificadas.
 
-### CAPÍTULO II. Ceremonial
+### CAPÍTULO I. Forma y Periodicidad de las Sesiones
 
 ###### Artículo 117.
 
@@ -2271,7 +2323,7 @@ IV. Los planes, programas y convenios con otros Congresos y cuerpos parlamentari
 
 ## TÍTULO SÉPTIMO. SESIONES
 
-### CAPÍTULO III. Salón de Sesiones
+### CAPÍTULO II. Ceremonial
 
 ###### Artículo 125.
 
@@ -2367,7 +2419,7 @@ f) Antes de que el ciudadano Gobernador y los demás funcionarios hayan abandona
 
 1. Las sesiones del Congreso del Estado son públicas, por regla general, salvo aquellas que por causas justificadas y previo acuerdo de la Asamblea, se celebren de forma reservada, es decir, sin permitir el acceso al público, ni a los servidores públicos del Congreso del Estado, a excepción del Secretario General y del personal administrativo que éste último autorice.
 
-### CAPÍTULO I. Disposiciones Preliminares
+### CAPÍTULO III. Salón de Sesiones
 
 ###### Artículo 134.
 
@@ -2401,7 +2453,7 @@ f) Antes de que el ciudadano Gobernador y los demás funcionarios hayan abandona
 
 2. De igual forma, siempre se destina un lugar especial en el Recinto a los magistrados del Poder Judicial, a los consejeros de la Comisión Estatal de Derechos Humanos y del Instituto Electoral y de Participación Ciudadana, a los secretarios de despacho, a los titulares de los organismos públicos descentralizados, a los representantes de los ayuntamientos de la entidad, a los representantes militares y a los integrantes de los cuerpos diplomático y consular.
 
-### CAPÍTULO II. Iniciativas
+### CAPÍTULO I. Disposiciones Preliminares
 
 ###### Artículo 140.
 
@@ -2427,7 +2479,7 @@ f) Antes de que el ciudadano Gobernador y los demás funcionarios hayan abandona
 
 ## TÍTULO OCTAVO. PROCEDIMIENTO LEGISLATIVO ORDINARIO
 
-### CAPÍTULO III. Dictámenes
+### CAPÍTULO II. Iniciativas
 
 ###### Artículo 145.
 
@@ -2439,7 +2491,7 @@ f) Antes de que el ciudadano Gobernador y los demás funcionarios hayan abandona
 
 1. Las decisiones del Congreso del Estado que, para su validez y eficacia plenas requieren ser sancionadas, promulgadas y publicadas por el Ejecutivo, no generan obligación o derecho alguno en tanto no se efectúen tales condiciones, salvo lo establecido por el último párrafo del artículo 33 de la Constitución Política del Estado.
 
-### CAPÍTULO IV. Lecturas de dictámenes
+### CAPÍTULO III. Dictámenes
 
 ###### Artículo 147.
 
@@ -2541,7 +2593,7 @@ III. Disposiciones transitorias.
 
 2. Las leyes y decretos deben ser publicados por el Gobernador del Estado en el Periódico Oficial "El Estado de Jalisco", en los plazos que señala la ley.
 
-### CAPÍTULO V. Discusiones
+### CAPÍTULO IV. Lecturas de dictámenes
 
 ###### Artículo 157.
 
@@ -2581,7 +2633,7 @@ III. Parte Resolutiva que es la propuesta que se pone a consideración de la Asa
 
 3. En el caso de que se rechace un dictamen y no se solicite que regrese a comisión o que siendo solicitado no sea aprobado por la Asamblea, se tiene por desechada la iniciativa.
 
-### CAPÍTULO VI. Mociones
+### CAPÍTULO V. Discusiones
 
 ###### Artículo 161.
 
@@ -2617,7 +2669,7 @@ III. Parte Resolutiva que es la propuesta que se pone a consideración de la Asa
 
 4. Aprobada la moción, el dictamen se presenta a la Asamblea y se procede a su discusión y a su votación.
 
-### CAPÍTULO VII. Votaciones
+### CAPÍTULO VI. Mociones
 
 ###### Artículo 166.
 
@@ -2753,7 +2805,7 @@ III. Por desórdenes en el Recinto Oficial.
 
 1. Lo preceptuado por este capítulo, se aplica en lo conducente a las demás discusiones que se presenten durante el desarrollo de las sesiones.
 
-### CAPÍTULO VIII. Minutas
+### CAPÍTULO VII. Votaciones
 
 ###### Artículo 187.
 
@@ -2797,7 +2849,7 @@ XI. Las demás que se señalen en esta ley y su reglamento.
 
 1. La moción de orden, en el supuesto de que algún diputado esté en el uso de la voz, se regula de conformidad con lo establecido en la presente ley.
 
-### CAPÍTULO I. Disposiciones Generales
+### CAPÍTULO VIII. Minutas
 
 ###### Artículo 191.
 
@@ -2881,7 +2933,7 @@ I. Empieza por el Secretario situado a la derecha del Presidente y sigue en el s
 
 6. Para los casos de los párrafos 2, 3 y 4 del presente artículo, se entiende que es cuando menos la cantidad señalada.
 
-### CAPÍTULO II. Procedimiento en Caso de Observaciones Formuladas por el Gobernador del Estado
+### CAPÍTULO I. Disposiciones Generales
 
 ###### Artículo 204.
 
@@ -2945,7 +2997,7 @@ III. Los dos últimos dígitos en números arábigos del año de su aprobación.
 
 ## TÍTULO NOVENO. PROCEDIMIENTOS ESPECIALES
 
-### CAPÍTULO III. Expedición del Bando Solemne que declara Gobernador Electo
+### CAPÍTULO II. Procedimiento en Caso de Observaciones Formuladas por el Gobernador del Estado
 
 ###### Artículo 210.
 
@@ -2961,7 +3013,7 @@ III. Los dos últimos dígitos en números arábigos del año de su aprobación.
 
 1. Cualquier procedimiento relativo al Congreso del Estado establecido en otro ordenamiento legal se regula conforme a esa ley, y en todo lo no previsto, por este título y por el procedimiento legislativo ordinario.
 
-### CAPÍTULO IV. Designación de Gobernador Interino o Sustituto
+### CAPÍTULO III. Expedición del Bando Solemne que declara Gobernador Electo
 
 ###### Artículo 213.
 
@@ -2979,9 +3031,7 @@ III. Los dos últimos dígitos en números arábigos del año de su aprobación.
 
 2. Cuando el Congreso del Estado acepte en su totalidad las observaciones realizadas por el Ejecutivo, la aprobación debe realizarse por mayoría simple.
 
-### CAPÍTULO V. Elección o Ratificación de Servidores Públicos de la competencia del Congreso del Estado
-
-> <small>(REFORMADO, P.O. 17 DE JULIO DE 2010)</small>
+### CAPÍTULO IV. Designación de Gobernador Interino o Sustituto
 
 ###### Artículo 216.
 
@@ -2995,7 +3045,9 @@ III. Los dos últimos dígitos en números arábigos del año de su aprobación.
 
 3. La declaratoria a que se refiere el presente artículo debe publicarse en el Periódico Oficial "El Estado de Jalisco".
 
-### CAPÍTULO VI. Glosa del Informe
+### CAPÍTULO V. Elección o Ratificación de Servidores Públicos de la competencia del Congreso del Estado
+
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2010)</small>
 
 ###### Artículo 217.
 
@@ -3005,7 +3057,7 @@ III. Los dos últimos dígitos en números arábigos del año de su aprobación.
 
 1. En el caso de dictámenes relativos a proyectos de decreto sobre la designación de Gobernador Interino o Sustituto, la Mesa Directiva, en atención a la urgencia, puede establecer la agenda para su aprobación, mediante la dispensa de trámites y el estrechamiento de términos.
 
-### CAPÍTULO VII. Substanciación Del Trámite Para La Desintegración De Ayuntamientos Y Suspensión O Revocación Del Mandato A Alguno De Sus Miembros
+### CAPÍTULO VI. Glosa del Informe
 
 ###### Artículo 219.
 
@@ -3021,9 +3073,7 @@ II. La Asamblea, la Mesa Directiva y la comisión o comisiones responsables est�
 
 2. En caso de que no se alcance la votación requerida para efectuar la elección, o en su caso ratificación, de los servidores públicos, la comisión competente debe actuar conforme a lo establecido en la Constitución Política del Estado y las leyes aplicables.
 
-### CAPÍTULO VIII. De la Creación de Municipios
-
-> <small>(REFORMADO Y REUBICADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
+### CAPÍTULO VII. Substanciación Del Trámite Para La Desintegración De Ayuntamientos Y Suspensión O Revocación Del Mandato A Alguno De Sus Miembros
 
 ###### Artículo 221.
 
@@ -3043,9 +3093,9 @@ II. La Asamblea, la Mesa Directiva y la comisión o comisiones responsables est�
 
 2. Las evaluaciones, análisis y conclusiones a que se refiere este artículo, son enviadas a la comisión competente para su examen, especialmente durante el proceso de estudio de la iniciativa del Presupuesto de Egresos del Estado de Jalisco.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO VIII. De la Creación de Municipios
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO Y REUBICADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 224.
 
@@ -3096,6 +3146,10 @@ II. La Asamblea, la Mesa Directiva y la comisión o comisiones responsables est�
 1. Si la resolución adoptada por el Congreso del Estado se refiere a la suspensión o revocación del mandato de alguno de los miembros del Ayuntamiento, se notifica a éste para que llame al suplente y desempeñe el cargo durante el término de la suspensión, el cual no puede exceder de un año, o para que concluya el periodo en caso de revocación del mandato.
 
 (ADICIONADO CON LA SECCION Y ARTICULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 2009) (F. D E., P.O. 12 DE JUNIO DE 2010)
+
+### CAPÍTULO ÚNICO
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 233.
 
@@ -3924,5 +3978,17 @@ NUMERO 23180/LIX/10, POR EL QUE SE MODIFICA Y ADICIONA UNA FRACCION XIV RECORRIE
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
 P.O. 23 DE DICIEMBRE DE 2010.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 10 DE FEBRERO DE 2011.
+
+DECRETO NUMERO 23481/LIX/10, POR EL QUE SE ADICIONA UN CAPITULO XI AL TITULO QUINTO, RECORRIENDOSE EL ACTUAL EN SU NUMERO Y ORDEN, CONTENIENDO LOS ARTICULOS 62-K, 62-L Y 63 DE LA LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 10 DE FEBRERO DE 2011.
+
+DECRETO NUMERO 23482/LIX/10, POR EL QUE SE REFORMA EL ARTICULO 108 DE LA LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
