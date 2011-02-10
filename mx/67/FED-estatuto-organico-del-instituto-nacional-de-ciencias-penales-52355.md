@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-nacional-de-ciencias-penales-52
 country: "mx"
 rank: "estatuto"
 publication_date: "2006-12-05"
-last_updated: "2006-12-05"
+last_updated: "2011-02-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52355&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2006-11-21"
 
 ESTATUTO ORGANICO DEL INSTITUTO NACIONAL DE CIENCIAS PENALES
 
-TEXTO ORIGINAL.
+> <small>N. DE E. LAS REFORMAS APROBADAS EN EL DECRETO, MODIFICO DE MANERA SUSTANCIAL PRACTICAMENTE TODO EL TEXTO DEL ESTATUTO ORGANICO DEL INSTITUTO NACIONAL DE CIENCIAS PENALES DEL 5 DE DICIEMBRE DE 2006, DANDO COMO RESULTADO UN TEXTO DIFERENTE AL ORIGINAL, Y SI BIEN DIVERSOS ARTICULOS QUEDARON INTACTOS POR LA REFORMA, DEBIDO A LO ANTERIOR SE CONSERVA EL TEXTO APROBADO Y PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACION DEL 10 DE FEBRERO DE 2011.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 10 DE FEBRERO DE 2011.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el martes 5 de diciembre de 2006.
 
@@ -31,177 +33,301 @@ Aprobado por la H. Junta de Gobierno, en su Décima Segunda Sesión Ordinaria, c
 
 ESTATUTO ORGANICO DEL INSTITUTO NACIONAL DE CIENCIAS PENALES
 
+> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
+
 ## TITULO PRIMERO. DE SU OBJETO, PATRIMONIO Y CONFORMACION
+
+> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
 
 ### CAPITULO I. DEL OBJETO
 
-###### ARTICULO 1.
+> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
 
-El presente Estatuto Orgánico tiene por objeto establecer la organización y distribuir las funciones del Instituto Nacional de Ciencias Penales, en su carácter de organismo público descentralizado, con personalidad jurídica y patrimonio propio, para el cumplimiento de los objetivos y atribuciones que le confiere su Decreto de Creación y las leyes y ordenamientos aplicables al funcionamiento de las Entidades Paraestatales.
+###### Artículo 1.
 
-###### ARTICULO 2.
+El presente Estatuto Orgánico tiene por objeto establecer la organización y distribuir las funciones del Instituto Nacional de Ciencias Penales (INACIPE), organismo público descentralizado de la Administración Pública Federal, con personalidad jurídica y patrimonio propio, para el cumplimiento de los objetivos y atribuciones que le confieren las leyes, el Decreto por el que se crea el Instituto Nacional de Ciencias Penales y los ordenamientos aplicables al funcionamiento de las Entidades Paraestatales.
 
-El patrimonio del Instituto se integra por:
+> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 2.
+
+El patrimonio del INACIPE, en adelante el Instituto, se integra por:
 
 I. Los bienes muebles e inmuebles que se destinen para su servicio;
 
 II. La cantidad que se le asigne en el Presupuesto de Egresos de la Federación para su funcionamiento;
 
-III. Los ingresos que perciba por concepto de inscripciones, colegiaturas, publicaciones, extensión académica y prestación de servicios de asesoría, de conformidad con las disposiciones legales aplicables;
+III. Los ingresos que perciba por concepto de concesiones; prestación de servicios de posgrado, educación continua, educación a distancia, capacitación e investigación científica; venta de publicaciones y materiales multimedia, de conformidad con las disposiciones legales aplicables;
 
 IV. Las donaciones, herencias y legados que le otorguen personas físicas o morales, y
 
 V. Los demás bienes que se adquieran por cualquier otro título legal.
 
-###### ARTICULO 3.
+> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 3.
 
 El Instituto estará integrado por sus autoridades, el personal académico y administrativo, así como por sus alumnos.
 
-###### ARTICULO 4.
+> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
 
-El Instituto tendrá su sede en la Ciudad de México, pero podrá establecer delegaciones, o llevar al cabo actividades académicas y/o técnicas en los diferentes estados o regiones del país, en forma permanente o temporal, para atender los objetivos encomendados, ajustándose a las necesidades, posibilidades y recursos de que pueda disponer.
+###### Artículo 4.
+
+El Instituto tendrá su sede en la Ciudad de México, pero podrá establecer delegaciones o llevar a cabo actividades académicas, científicas y de divulgación de las Ciencias Penales en las Entidades Federativas y participar en actividades que se desarrollen en el extranjero, en forma permanente o temporal, para atender los objetivos encomendados, ajustándose a las necesidades, posibilidades y recursos de que pueda disponer.
+
+> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
 
 ### CAPITULO II. DE LA ADMINISTRACION DEL INSTITUTO
 
-###### ARTICULO 5.
+> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
 
-La administración del Instituto estará a cargo de la Junta de Gobierno y el Director General.
+###### Artículo 5.
 
-Asimismo, se integrará con un Consejo Académico y con las unidades académicas y administrativas necesarias para el cumplimiento de los objetivos que señala el Decreto de Creación y este Estatuto Orgánico.
+La administración del Instituto estará a cargo de la Junta de Gobierno y del Director General. Formarán parte del Instituto, además, el Consejo Académico, el Comité de Investigación y las unidades académicas y administrativas necesarias para el cumplimiento de los objetivos que señalan el Decreto por el que se crea el Instituto Nacional de Ciencias Penales y este Estatuto Orgánico.
+
+> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
 
 ### CAPITULO III. DE LA JUNTA DE GOBIERNO
 
-###### ARTICULO 6.
+> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
 
-La Junta de Gobierno se integrará, en los términos del artículo 6 del Decreto de Creación, por el Procurador General de la República, quien la presidirá; los Secretarios de Gobernación, de Educación Pública y de Hacienda y Crédito Público, así como el Subprocurador que el Procurador General de la República designe. El Presidente de la Junta invitará a participar, como miembros, al Procurador General de Justicia del Distrito Federal, a los Rectores de la Universidad Nacional Autónoma de México y de la Universidad Autónoma Metropolitana y al Presidente de la Academia Mexicana de Ciencias Penales. Este órgano ejercerá sus atribuciones de conformidad con las disposiciones de dicho ordenamiento, las de este Estatuto y demás normas aplicables.
+###### Artículo 6.
 
-La Junta de Gobierno se integrará, además, por un Comisario Público Propietario, designado por la Secretaría de la Contraloría y Desarrollo Administrativo con derecho a voz y sin voto, quien tendrá las atribuciones a que se refieren los numerales 60 y 62 de la Ley Federal de las Entidades Paraestatales.
+La Junta de Gobierno del Instituto Nacional de Ciencias Penales se integrará por: el Procurador General de la República, quien la presidirá; los Secretarios de Gobernación, de Educación Pública y de Hacienda y Crédito Público; el Subprocurador que el Procurador General de la República designe; el Procurador General de Justicia del Distrito Federal; los rectores de la Universidad Nacional Autónoma de México y de la Universidad Autónoma Metropolitana; el Presidente de la Academia Mexicana de Ciencias Penales; así como por un Comisario Público Propietario, designado por la Secretaría de la Función Pública con derecho a voz y sin voto, quien tendrá las atribuciones a que se refieren los artículos 60 y 62 de la Ley Federal de las Entidades Paraestatales.
 
 Los integrantes de la Junta de Gobierno podrán designar a sus respectivos suplentes.
 
 Cuando la Junta de Gobierno lo estime pertinente, podrá invitar a participar en sus sesiones a representantes de los Poderes Legislativo y Judicial o de cualquiera otra institución pública o privada.
 
-###### ARTICULO 7.
+La Junta ejercerá sus atribuciones conforme a la Ley Federal de las Entidades Paraestatales y su Reglamento, al Decreto por el que se crea el Instituto Nacional de Ciencias Penales, al presente Estatuto y demás normas aplicables.
+
+> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 7.
 
 La Junta de Gobierno tendrá, en forma indelegable, además de las previstas en las disposiciones legales aplicables, las atribuciones siguientes:
 
 I. Establecer las políticas generales y definir las prioridades a las que deberá sujetarse el Instituto;
 
-II. Expedir el Estatuto Orgánico y demás reglamentos del Instituto;
+II. Expedir el Estatuto Orgánico del Instituto Nacional de Ciencias Penales y demás reglamentos del Instituto;
 
 III. Aprobar el presupuesto del Instituto, de conformidad con las disposiciones legales aplicables;
 
-IV. Aprobar, en su caso, los informes que rinda el Director General;
+IV. Aprobar, en su caso, los informes que rinda el Director General del Instituto;
 
-V. Aprobar los nombramientos de profesores e investigadores que le sean propuestos por el Director General, conforme a lo dispuesto en el artículo 24 de este Estatuto. Si la Junta lo estima conveniente, a los fines del Instituto, podrá delegar en el Director General el nombramiento de profesores de carrera, en casos de renuncia, fallecimiento o incapacidad, los que estarán sujetos a la aprobación definitiva de aquélla;
+V. Aprobar los nombramientos de profesores e investigadores que le sean propuestos por el Director General del Instituto, quien podrá hacer designaciones provisionales de profesores e investigadores para atender compromisos inmediatos del Instituto y cumplir con sus atribuciones. Dichas designaciones quedarán sujetas a la aprobación definitiva de la Junta;
 
 VI. Fijar y ajustar los costos de los bienes y servicios que preste el Instituto;
 
 VII. Expedir las normas para los casos en los que el Director General pueda disponer de los activos fijos del Instituto, que no correspondan a las operaciones propias del objeto del mismo;
 
-VIII. Aprobar, anualmente, previo informe de los Comisarios y dictamen de los Auditores Externos, los estados financieros del Instituto;
+VIII. Aprobar anualmente, previo informe de los Comisarios y dictamen de los Auditores Externos, los estados financieros del Instituto;
 
 IX. Aprobar la estructura básica de la organización del Instituto y sus modificaciones, de conformidad con las disposiciones legales aplicables;
 
-X. Acordar, con sujeción a las disposiciones legales relativas, los donativos o pagos extraordinarios y verificar que los mismos se apliquen, precisamente, a los fines señalados, conforme a las instrucciones del Coordinador Sectorial;
+X. Aprobar el nombramiento o la remoción de los Secretarios Generales y Directores del Instituto, así como los sueldos y demás prestaciones, conforme a las asignaciones globales del presupuesto de gasto corriente autorizados por la propia Junta y las disposiciones legales y administrativas aplicables a las entidades en la materia. El Director General podrá hacer designaciones provisionales de Secretarios Generales y de Directores del Instituto, las cuales quedarán sujetas a la aprobación definitiva de la Junta de Gobierno;
 
-XI. Aprobar, con apoyo en la legislación aplicable, las normas y bases para conciliar adeudos a cargo de terceros y a favor del Instituto, cuando fuere notoria la imposibilidad práctica de su cobro de conformidad con lo dispuesto por el artículo 58 de la Ley Federal de las Entidades Paraestatales, y
+XI. Acordar, con sujeción a las disposiciones legales relativas, los donativos o pagos extraordinarios y verificar que los mismos se apliquen, precisamente, a los fines señalados, conforme a las instrucciones del Coordinador Sectorial;
 
-XII. Las demás que le confieran el Decreto de Creación, el presente Estatuto y las leyes y reglamentos aplicables.
+XII. Aprobar, con apoyo en la legislación aplicable, las normas y bases para conciliar adeudos a cargo de terceros y a favor del Instituto, cuando fuere notoria la imposibilidad práctica de su cobro de conformidad con lo dispuesto por el artículo 58 de la Ley Federal de las Entidades Paraestatales;
 
-###### ARTICULO 8.
+XIII. Aprobar las convocatorias, los planes y programas de estudios, así como sus respectivas actualizaciones, y
 
-La Junta de Gobierno celebrará sesiones ordinarias, cuando menos, una vez cada tres meses, de conformidad con el calendario aprobado en la primera sesión ordinaria del ejercicio y las extraordinarias que juzguen necesarias su Presidente, el Director General del Instituto y, por lo menos, tres de sus miembros. Para la celebración de las reuniones, la convocatoria debe ir acompañada del orden del día y de la documentación correspondiente, los cuales deberán ser enviados por el Secretario de la Junta y recibidos por los miembros de ésta y el Comisario Público con una anticipación no menor de cinco días hábiles. En caso de que la reunión no pueda llevarse al cabo en la fecha programada, deberá celebrarse entre los cinco y quince días hábiles siguientes.
+XIV. Las demás que le confieran las leyes, los reglamentos, el Decreto de Creación y el presente Estatuto.
 
-###### ARTICULO 9.
+> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
 
-Para la validez de las reuniones de la Junta de Gobierno se requerirá de la asistencia de, por lo menos, la mitad más uno de sus miembros y que la mayoría de los asistentes sean representantes de la Administración Pública Federal. Las resoluciones de la Junta se tomarán por mayoría de votos de los miembros presentes, teniendo el Presidente voto de calidad para el caso de empate.
+###### Artículo 8.
 
-###### ARTICULO 10.
+La Junta de Gobierno celebrará sesiones ordinarias, cuando menos, una vez cada tres meses, de conformidad con el calendario aprobado en la primera sesión ordinaria del ejercicio y las extraordinarias que juzguen necesarias su Presidente, el Director General del Instituto o, por lo menos, tres de sus miembros. Para la celebración de las reuniones, la convocatoria debe ir acompañada del orden del día y de la documentación correspondiente, los cuales deberán ser enviados por el Secretario de la Junta y recibidos por los miembros de ésta y el Comisario Público con una anticipación no menor de cinco días hábiles. En caso de que la reunión no pueda llevarse a cabo en la fecha programada, deberá celebrarse entre los cinco y quince días hábiles siguientes.
+
+> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 9.
+
+Para la validez de las reuniones de la Junta de Gobierno, se requerirá de la asistencia de, por lo menos, la mitad más uno de sus miembros y que la mayoría de los asistentes sean representantes de la Administración Pública Federal. Las resoluciones de la Junta se tomarán por mayoría de votos de los miembros presentes, teniendo el Presidente voto de calidad para el caso de empate.
+
+> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 10.
 
 La Junta de Gobierno designará, de entre sus integrantes, un Secretario permanente.
 
-###### ARTICULO 11.
+> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
 
-El Presidente y el Secretario de la Junta serán los representantes de ésta ante los demás órganos del Instituto. Ambos firmarán las actas de las sesiones correspondientes, las copias que deberán expedirse de esas actas y todos los documentos o comunicaciones que de la Junta emanen. El Secretario manejará la correspondencia y el archivo de la Junta, así como el Libro de Actas de la misma.
+###### Artículo 11.
 
-###### ARTICULO 12.
+El Presidente y el Secretario de la Junta serán los representantes de ésta ante los demás órganos del Instituto. Ambos firmarán las actas de las sesiones correspondientes, las copias que deberán expedirse de esas actas y todos los documentos o comunicaciones que emanen de la Junta. El Secretario manejará la correspondencia y el archivo de la Junta, así como el Libro de Actas de la misma.
 
-La Junta de Gobierno podrá designar comisiones para el cumplimiento de determinados acuerdos o para el estudio de asuntos específicos, sus resoluciones se adoptarán siempre por mayoría simple dentro de la reunión de sus miembros, previamente convocados.
+> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 12.
+
+La Junta de Gobierno podrá designar comisiones para el cumplimiento de determinados acuerdos o para el estudio de asuntos específicos. Sus resoluciones se adoptarán por mayoría simple, dentro de la reunión de sus miembros, previamente convocados.
+
+> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
 
 ### CAPITULO IV. DEL CONSEJO ACADEMICO
 
-###### ARTICULO 13.
+> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
 
-El Consejo Académico se integrará por el Director General, los Titulares de las Secretarías Generales Académica y de Profesionalización y Extensión, un profesor, un investigador y un alumno de cada una de las áreas. Los Consejeros representantes serán electos cada año por los miembros del grupo o sector al que representen. Por cada propietario habrá un suplente.
+###### Artículo 13.
 
-###### ARTICULO 14.
+El Consejo Académico se integrará por el Director General del Instituto; los Titulares de las Secretarías Generales Académica y de Extensión; el Director de Posgrado del Instituto; así como por tres consejeros representantes: un profesor, un investigador y un alumno, quien será elegido por sus compañeros del área en los términos de la convocatoria que para tal efecto apruebe el Consejo Académico.
 
-Para ser Consejero Representante se requiere cumplir con los siguientes requisitos:
+Los consejeros representantes serán electos cada año por los miembros del grupo o sector al que representen. Por cada propietario habrá un suplente.
 
-I. Ser profesor o investigador de carrera, o alumno del último año de la Maestría o del Doctorado, y
+> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
 
-II. Tener una antigüedad mínima de tres años en el caso de los profesores e investigadores.
+###### Artículo 14.
 
-###### ARTICULO 15.
+Los consejeros representantes, según el grupo al que representen, deberán cumplir con los siguientes requisitos:
 
-Son atribuciones del Consejo Académico, en términos del artículo 12 del Decreto de Creación:
+I. Tener una antigüedad mínima de tres años para el caso del consejero representante de los profesores y el de los investigadores, o
 
-I. Elaborar los proyectos de planes y programas de estudio del Instituto;
+II. Ser alumno del último año de la Maestría o del Doctorado, para ser consejero representante de los alumnos.
 
-II. Emitir opinión respecto de los nombramientos de los profesores e investigadores;
+> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
 
-III. Opinar sobre la permanencia o cambio de situación académica de los profesores e investigadores, en los términos del correspondiente Reglamento;
+###### Artículo 15.
 
-IV. Evaluar el desempeño académico de profesores e investigadores;
+El Consejo Académico tendrá, además de las previstas en las disposiciones legales aplicables, las atribuciones siguientes:
 
-V. Promover la organización de seminarios, conferencias u otros eventos equivalentes;
+I. Determinar y aprobar la integración de comités académicos, a propuesta del Director General del Instituto;
 
-VI. Integrar la Comisión de Honor y Justicia, para conocer y resolver acerca de las violaciones graves a las disposiciones académicas del Instituto, mismas que determinarán los derechos y obligaciones del personal académico y de los alumnos;
+II. Validar los planes y programas de estudios y sus actualizaciones, así como las convocatorias respectivas;
 
-VII. Elaborar las bases de los concursos de oposición y designar al jurado encargado de substanciarlos;
+III. Emitir opinión respecto de los nombramientos de los profesores e investigadores;
 
-VIII. Autorizar las investigaciones a publicar, y
+IV. Proponer al Director General del Instituto a los investigadores que pueden integrar el Comité de Investigación;
 
-IX. Las demás facultades que el presente Estatuto, la Junta de Gobierno y los reglamentos le confieran.
+V. Expresar recomendaciones y observaciones que permitan mejorar el ejercicio y cumplimiento de las atribuciones del Comité de Investigación;
 
-###### ARTICULO 16.
+VI. Opinar sobre la permanencia o cambio de situación académica de los profesores e investigadores, en los términos de los reglamentos correspondientes;
 
-El Consejo Académico sesionará válidamente con la asistencia de por lo menos la mitad más uno de sus miembros y sus decisiones se tomarán por mayoría simple de votos de los concurrentes. Sólo podrán votar los Consejeros presentes sin que, por ningún motivo, puedan computarse los votos escritos de Consejeros que no concurran a las sesiones. Las votaciones serán nominales, a menos que el Director General o dos Consejeros pidan que sean económicas, secretas o por cédula. El Presidente tiene voto de calidad en caso de empate.
+VII. Evaluar el desempeño académico de los profesores del Instituto;
 
-###### ARTICULO 17.
+VIII. Promover la organización de seminarios, conferencias u otros eventos;
 
-Los Consejeros propietarios representantes de los profesores, investigadores y alumnos, en ningún caso, podrán ser reelectos para el periodo inmediato al de su encargo. Los suplentes podrán ser electos como propietarios si no hubiesen entrado en funciones.
+IX. Integrar la Comisión de Honor y Justicia, para conocer y resolver acerca de las violaciones graves a las disposiciones académicas del Instituto, mismas que determinarán los derechos y obligaciones del personal académico y de los alumnos;
 
-###### ARTICULO 18.
+X. Fungir como Comité Editorial y proponer la publicación de obras científicas o de divulgación, así como aprobar, en su caso, las propuestas formuladas por el Director General del Instituto;
 
-El Consejo celebrará sesiones ordinarias cada dos meses y las extraordinarias que juzgue necesarias el Director General, a petición de la mayoría simple de sus miembros cuando menos. La convocatoria para efectuar las sesiones ordinarias deberá expedirse con cuarenta y ocho horas de anticipación como mínimo y con veinticuatro horas para las extraordinarias.
+XI. Integrar el Comité de Becas y decidir sobre su otorgamiento, conforme a la normatividad aplicable. El Comité de Becas podrá conocer de solicitudes excepcionales y, en su caso, otorgarlas cuando por las circunstancias particulares y presupuestales así se justifique;
 
-###### ARTICULO 19.
+XII. Designar comisiones para el estudio y opinión de determinados asuntos, y
 
-De entre sus miembros el Consejo designará al Secretario del mismo, quien manejará la correspondencia y el archivo.
+XIII. Las demás facultades que el presente Estatuto, los reglamentos y la Junta de Gobierno le confieran.
 
-###### ARTICULO 20.
+> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
 
-El Secretario levantará las actas del Consejo, las que deberán ser firmadas por los Consejeros presentes, e informará sobre el cumplimiento de las mismas.
+###### Artículo 16.
 
-###### ARTICULO 21.
+El Consejo Académico sesionará válidamente con la asistencia de, por lo menos, la mitad más uno de sus miembros y sus decisiones se tomarán por mayoría simple de los votos de los concurrentes. Sólo podrán votar los Consejeros presentes sin que, por ningún motivo, puedan computarse los votos escritos de Consejeros que no concurran a las sesiones. Las votaciones serán nominales, a menos que el Director General o dos Consejeros pidan que sean económicas, secretas o por cédula. El Presidente tiene voto de calidad en caso de empate.
 
-El Consejo podrá designar comisiones para el estudio y opinión de determinados asuntos.
+> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
 
-### CAPITULO V. DEL DIRECTOR GENERAL
+###### Artículo 17.
 
-###### ARTICULO 22.
+Los Consejeros propietarios, representantes de los profesores, investigadores y alumnos, en ningún caso podrán ser reelectos para el periodo inmediato al de su encargo. Los suplentes podrán ser electos como propietarios si no hubiesen entrado en funciones.
 
-Al frente del Instituto habrá un Director General, que será designado de conformidad con lo establecido en el artículo 9 del Decreto de Creación.
+> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
 
-###### ARTICULO 23.
+###### Artículo 18.
 
-El Director General es la autoridad administrativa de mayor jerarquía del Instituto, su representante legal y Presidente del Consejo Académico. Durará en su cargo cuatro años y podrá ser designado por un nuevo periodo.
+El Consejo celebrará sesiones ordinarias cada dos meses y las extraordinarias que juzgue necesarias el Director General a petición de, cuando menos, la mayoría simple de sus miembros. La convocatoria para efectuar las sesiones ordinarias deberá expedirse con cuarenta y ocho horas de anticipación como mínimo y con veinticuatro horas para las extraordinarias.
 
-###### ARTICULO 24.
+> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
 
-El Director General tendrá, además de las previstas en las disposiciones legales aplicables, las atribuciones siguientes:
+###### Artículo 19.
+
+El Director de Posgrado del Instituto fungirá como Secretario permanente del mismo, quien manejará la correspondencia y llevará el archivo.
+
+> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 20.
+
+El Secretario levantará las actas del Consejo, las que deberán ser firmadas por los Consejeros presentes e informará sobre el cumplimiento de las mismas.
+
+> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 21.
+
+Los comités académicos tendrán las siguientes modalidades y estarán destinados a:
+
+I. Elaborar, diseñar o actualizar los planes y programas de estudios;
+
+II. Seleccionar y evaluar a los alumnos inscritos en Maestría y Doctorado por investigación, y
+
+III. Realizar actividades específicas de acuerdo con las necesidades del Instituto.
+
+> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
+
+### CAPITULO V. DEL COMITE DE INVESTIGACION
+
+> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 22.
+
+El Comité de Investigación es la instancia de evaluación del servicio de carrera de los investigadores del Instituto Nacional de Ciencias Penales. Su objeto es determinar y aplicar los criterios de ingreso, permanencia, promoción y terminación del servicio aplicables a los investigadores del Instituto.
+
+> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 23.
+
+El Comité se integrará conforme a lo dispuesto por el Reglamento del Personal de Investigación del Instituto Nacional de Ciencias Penales. Los investigadores que lo conformen deberán gozar de reconocido prestigio académico; haber realizado investigación científica de tiempo completo en México o en el extranjero, en dependencias, entidades o instituciones de educación superior o centros de investigación de los sectores público, privado o social; contar con amplia experiencia en el ámbito de la investigación y cumplir cabalmente con los criterios de evaluación señalados por el Reglamento del Personal de Investigación.
+
+> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 24.
+
+El titular de la Dirección de Investigación fungirá como Secretario permanente del Comité y manejará la correspondencia y el archivo. Asimismo, levantará las actas del Comité, las que deberán ser firmadas por los miembros presentes e informará sobre el cumplimiento de las mismas.
+
+> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 25.
+
+El Comité tendrá las atribuciones que establezca el Reglamento del Personal de Investigación del Instituto Nacional de Ciencias Penales y deberá rendir un informe, al menos, dos veces al año al Consejo Académico.
+
+> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 26.
+
+El Comité celebrará sesiones ordinarias cada tres meses. Podrán celebrarse sesiones extraordinarias a juicio del Presidente del Comité a petición de, cuando menos, la mayoría simple de sus miembros. Para la celebración de las reuniones, la convocatoria debe ir acompañada del orden del día y de la documentación correspondiente, los cuales deberán ser enviados por el Secretario del Comité y recibidos por los miembros de éste con una anticipación no menor de cinco días hábiles. En caso de que la reunión no pueda llevarse a cabo en la fecha programada, deberá celebrarse entre los cinco y quince días hábiles siguientes.
+
+> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 27.
+
+El Comité sesionará válidamente con la asistencia de, por lo menos, la mitad más uno de sus miembros y sus decisiones se tomarán por mayoría simple de votos de los concurrentes. Sólo podrán votar los miembros presentes sin que, por ningún motivo, puedan computarse los votos escritos de aquellos que no concurran a las sesiones. Las votaciones serán nominales, a menos que el Director General del Instituto pida que sean económicas, secretas o por cédula. El Presidente tiene voto de calidad en caso de empate.
+
+> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 28.
+
+El Comité podrá conformar grupos de trabajo de entre los investigadores del Instituto y de otras instituciones de reconocido prestigio, para el estudio y opinión de determinados asuntos. Sus resoluciones se tomarán por mayoría simple de votos de sus miembros presentes y previamente convocados.
+
+> <small>(ADICIONADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
+
+### CAPITULO VI. DEL DIRECTOR GENERAL
+
+> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 29.
+
+El Instituto Nacional de Ciencias Penales tendrá un Director General, que será designado de conformidad con lo establecido en la Ley Federal de las Entidades Paraestatales, su Reglamento y el Decreto por el que se crea el Instituto Nacional de Ciencias Penales.
+
+> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 30.
+
+El Director General es la autoridad administrativa de mayor jerarquía del Instituto. Durará en su cargo cuatro años y podrá ser reelecto por una sola vez.
+
+> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 31.
+
+El Director General del Instituto tendrá, además de las previstas en las disposiciones legales aplicables, las atribuciones siguientes:
 
 I. Representar y administrar legalmente al Instituto;
 
@@ -215,27 +341,43 @@ V. Celebrar convenios de colaboración o intercambio con instituciones académic
 
 VI. Ejecutar los programas de actividades aprobados por los órganos correspondientes;
 
-VII. Decidir sobre el otorgamiento de becas y recepción de becarios;
+VII. Establecer, con autorización de la Junta de Gobierno y con apego a las disposiciones aplicables, los sistemas de administración de personal e incentivos; así como vigilar que los distintos niveles de servidores públicos del Instituto desarrollen sus actividades con eficiencia, eficacia y productividad;
 
-VIII. Establecer, con autorización de la Junta de Gobierno y, con apego a las disposiciones aplicables, los sistemas de administración de personal e incentivos; así como vigilar que los distintos niveles de servidores públicos del Instituto desarrollen sus actividades con eficiencia, eficacia y productividad;
+VIII. Proponer a la Junta de Gobierno el nombramiento o la remoción de los Secretarios Generales y Directores del Instituto, así como los sueldos y demás prestaciones, conforme a las asignaciones globales del presupuesto de gasto corriente aprobados por la propia Junta y las disposiciones legales y administrativas aplicables a las entidades en la materia. Además, podrá hacer designaciones provisionales de Secretarios Generales y Directores del Instituto, dichas designaciones quedarán sujetas a la aprobación definitiva de la Junta;
 
-IX. Proponer a la Junta de Gobierno el nombramiento o la remoción de los Secretarios Generales y Directores del Instituto, así como los sueldos y demás prestaciones, conforme a las asignaciones globales del presupuesto de gasto corriente aprobados por la propia Junta y las disposiciones legales y administrativas aplicables a las entidades en la materia;
+IX. Otorgar poderes generales y especiales con las facultades que les competan, entre ellas las que requieran autorización o cláusula especial, salvo para actos de dominio, con la finalidad de representar al Instituto ante las diversas autoridades administrativas o jurisdiccionales;
 
-X. Otorgar poderes generales y especiales con las facultades que les competan, entre ellas las que requieran autorización o cláusula especial, salvo para actos de dominio, con la finalidad de representar al Instituto ante las diversas autoridades administrativas o jurisdiccionales;
+X. Expedir y firmar los grados que otorgue el Instituto, a las personas que hubieren participado en las actividades académicas o acreditado los cursos y estudios respectivos;
 
-XI. Expedir y firmar las constancias, diplomas, certificados y grados que otorgue el Instituto, a las personas que hubieren participado en las actividades académicas o acreditado los cursos y estudios respectivos;
+XI. Expedir certificación de documentos de carácter oficial que obren en los archivos del Instituto;
 
-XII. Expedir certificación de documentos de carácter oficial que obren en los archivos del Instituto;
+XII. Formular el proyecto de presupuesto del Instituto y someterlo a la aprobación de la Junta de Gobierno;
 
-XIII. Formular el proyecto de presupuesto del Instituto y someterlo a la aprobación de la Junta de Gobierno;
+XIII. Establecer mecanismos de evaluación y control del desempeño del Instituto;
 
-XIV. Establecer mecanismos de evaluación y control del desempeño del Instituto, y
+XIV. Nombrar, entre los candidatos que le proponga el Consejo Académico, a los investigadores que integrarán el Comité de Investigación. El Director General podrá removerlos libremente;
 
-XV. Las demás que le encomiende la Junta de Gobierno, de acuerdo con sus atribuciones.
+XV. Proponer a la Junta de Gobierno el nombramiento de los profesores e investigadores del Instituto. Además, podrá hacer designaciones provisionales de profesores e investigadores para atender compromisos inmediatos del Instituto y cumplir con sus atribuciones. Dichas designaciones provisionales quedarán sujetas a la aprobación definitiva de la Junta;
 
-###### ARTICULO 25.
+XVI. Presidir el Consejo Académico y el Comité de Investigación;
 
-Para la cabal atención y despacho de las funciones a su cargo, el Instituto contará con la Secretaría General Académica y con la Secretaría General de Profesionalización y Extensión. Además, contará con las siguientes Direcciones:
+XVII. Proponer a la Junta de Gobierno la aprobación de las convocatorias, los planes y programas de estudios, así como sus respectivas actualizaciones, y
+
+XVIII. Las demás que le encomienden las leyes, los reglamentos, el Decreto de Creación, el presente Estatuto y la Junta de Gobierno, de acuerdo con sus atribuciones.
+
+> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
+
+## TITULO SEGUNDO. DE LA ESTRUCTURA ORGANICA
+
+> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
+
+### CAPITULO I. DE SU INTEGRACION
+
+> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 32.
+
+Para la cabal atención y despacho de las funciones a su cargo, el Instituto contará con la Secretaría General Académica y con la Secretaría General de Extensión. Además, tendrá las siguientes Direcciones:
 
 I. Dirección de Posgrado;
 
@@ -247,235 +389,287 @@ IV. Dirección de Educación Continua;
 
 V. Dirección de Publicaciones;
 
-VI. Dirección de Servicios Bibliográficos e Informáticos;
+VI. Dirección de Educación a Distancia;
 
 VII. Dirección de Administración, y
 
 VIII. Dirección Jurídica.
 
-Asimismo, contará con el personal académico y administrativo y las unidades que sean necesarias para el cumplimiento de las funciones que tiene asignadas.
+Asimismo, contará con el personal académico, administrativo y las unidades que sean necesarias para el cumplimiento de las funciones que tiene asignadas.
 
-###### ARTICULO 26.
+> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
 
-Los Secretarios Generales y los Directores serán nombrados y removidos por la Junta de Gobierno, a propuesta del Director General. Para ser Secretario General Académico se requiere ser profesor o investigador de carrera y tener como antigüedad mínima de tres años. Durante las ausencias del Director General, el despacho y resolución de los asuntos estarán a cargo del Secretario General Académico y del Secretario General de Profesionalización y Extensión, sucesivamente. Los Secretarios Generales serán suplidos en sus ausencias por el Director adscrito a sus áreas que hayan acordado con el Director General.
+###### Artículo 33.
 
-###### ARTICULO 27.
+Para ser Secretario General Académico se requiere tener una antigüedad mínima de tres años como profesor o investigador en una institución de reconocido prestigio. Durante las ausencias del Director General, el despacho y resolución de los asuntos estarán a cargo del Secretario General Académico y del Secretario General de Extensión, sucesivamente. Los Secretarios Generales serán suplidos en sus ausencias por el Director adscrito a sus áreas que hayan acordado con el Director General del Instituto. Los Directores, Subdirectores y Jefes de Departamento serán suplidos en sus ausencias por el inferior inmediato que determine el Manual de Organización.
 
-El personal de las Secretarías Generales y de las Direcciones estará bajo la dirección y supervisión del Secretario General o Director del área respectiva. Los Secretarios Generales, así como los Directores Administrativo y Jurídico se encontrarán bajo la autoridad directa e inmediata del Director General.
+> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
 
-###### ARTICULO 28.
+###### Artículo 34.
+
+El personal de las Secretarías Generales y de las Direcciones estará bajo la dirección y supervisión del Secretario General o Director del área respectiva. Los Secretarios Generales, así como los Directores Administrativo y Jurídico se encontrarán bajo la autoridad directa e inmediata del Director General del Instituto.
+
+> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
+
+### CAPITULO II. DE LA SECRETARIA GENERAL ACADEMICA
+
+> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 35.
 
 Son funciones de la Secretaría General Académica:
 
-I. Coordinar y supervisar a las Direcciones de Posgrado, Capacitación e Investigación;
+I. Coordinar y supervisar las tareas de las Direcciones de Posgrado, Capacitación e Investigación;
 
-II. Planear, programar, organizar, dirigir y evaluar las acciones de los cursos de especialidad, maestría y doctorado;
+II. Planear, programar, organizar, dirigir y evaluar las acciones de los cursos de Especialidad, Maestría y Doctorado;
 
-III. Programar la elaboración de los proyectos de investigación, de conformidad con los lineamientos que establezca la Junta de Gobierno y el Director General del Instituto;
+III. Programar la elaboración de los proyectos de investigación, de conformidad con el Reglamento del Personal de Investigación y los lineamientos que establezca la Junta de Gobierno y el Director General del Instituto;
 
-IV. Ejecutar y supervisar, de acuerdo con el Director General, el Programa Anual de Capacitación del Personal de la Procuraduría General de la República en lo que al Instituto Nacional de Ciencias Penales corresponda;
+IV. Planear, ejecutar, supervisar y evaluar, de acuerdo con el Director General, el Programa Anual de Capacitación del Personal de la Procuraduría General de la República en lo que al Instituto Nacional de Ciencias Penales corresponda;
 
-V. Supervisar el proceso de selección de aspirantes a Agentes del Ministerio Público de la Federación y Peritos profesionales, en coordinación con el área competente de la Procuraduría General de la República;
+V. Supervisar el proceso de selección de aspirantes a Agentes del Ministerio Público de la Federación y Peritos Profesionales, en coordinación con las áreas competentes de la Procuraduría General de la República;
 
-VI. Proponer al Consejo Académico los programas de investigación del Laboratorio de Criminalística y de los cursos prácticos que se lleven al cabo, bajo el marco de la formación, capacitación y especialización continua;
+VI. Proponer al Consejo Académico los programas de capacitación en el Laboratorio de Criminalística;
 
-VII. Supervisar y evaluar el desarrollo de los programas y cursos de formación, capacitación y especialización, dirigidos a los servidores públicos de la Procuraduría General de la República;
+VII. Supervisar y evaluar el desarrollo de los programas y cursos de formación inicial, capacitación y especialización, dirigidos a los servidores públicos de la Procuraduría General de la República;
 
-VIII. Elaborar y resguardar el banco de reactivos y exámenes para la evaluaciones y concursos de oposición de los aspirantes a Agentes del Ministerio Público de la Federación y Peritos profesionales;
+VIII. Elaborar y resguardar el banco de reactivos y exámenes para las evaluaciones y concursos de oposición de los aspirantes a Agentes del Ministerio Público de la Federación y Peritos Profesionales;
 
 IX. Proponer al Consejo Académico la actualización y especialización de los planes y programas de estudio, así como los mecanismos de selección del personal docente para la realización de actividades académicas, bajo la coordinación del Consejo Académico;
 
-X. Proponer, en coordinación con la Secretaría General de Profesionalización y Extensión, convenios de colaboración e intercambio con instituciones similares, nacionales o extranjeras, y con organizaciones diversas para la elaboración de proyectos conjuntos de investigación;
+X. Proponer al Director General la celebración de convenios de colaboración e intercambio con instituciones similares, nacionales o extranjeras, y con organizaciones diversas para la elaboración de proyectos conjuntos de posgrado externo, capacitación e investigación;
 
-XI. Proponer al Consejo Académico los contenidos temáticos de los diversos cursos de especialidad, maestría y doctorado;
+XI. Proponer al Consejo Académico los contenidos temáticos de los diversos cursos de Especialidad, Maestría y Doctorado;
 
 XII. Vigilar el cumplimiento de las normas de disciplina que deben observar los alumnos durante los cursos y actividades del área;
 
-XIII. Coordinar el desarrollo de las investigaciones que, en el ámbito de las ciencias penales y la política criminal, permitan analizar los problemas nacionales en la materia, y
+XIII. Coordinar el desarrollo de las investigaciones que, en el ámbito de las Ciencias Penales y la Política Criminal, permitan analizar los problemas nacionales en la materia;
 
-XIV. Llevar al cabo todas aquellas funciones que le confiera o encomiende el Decreto de Creación y la Junta de Gobierno, el presente Estatuto, las disposiciones aplicables o el Director General.
+XIV. Supervisar y evaluar el desarrollo de los programas y cursos de formación inicial, capacitación y especialización, solicitados por las Procuradurías Generales de Justicia y los Tribunales Superiores de Justicia de las Entidades Federativas y del Distrito Federal, así como por instituciones públicas de los Municipios, las Entidades Federativas, el Distrito Federal y la Federación, dirigidos a sus servidores públicos, y
 
-### CAPITULO I. DE SU INTEGRACION
+XV. Llevar a cabo todas aquellas funciones que le confiera o encomiende el Decreto de Creación, el presente Estatuto, la Junta de Gobierno, las disposiciones aplicables y el Director General del Instituto.
 
-###### ARTICULO 29.
+> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
 
-Son funciones de la Secretaría General de Profesionalización y Extensión las siguientes:
+### CAPITULO III. DE LA SECRETARIA GENERAL DE EXTENSION
 
-I. Coordinar y supervisar a las Direcciones de Educación Continua, Publicaciones y de Servicios Bibliográficos e Informáticos;
+> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
 
-II. Proponer, en coordinación con la Secretaría General Académica, los contenidos de los planes y programas de estudio en materia de cursos, diplomados, seminarios, talleres y otras actividades académicas no escolarizadas;
+###### Artículo 36.
+
+Son funciones de la Secretaría General de Extensión las siguientes:
+
+I. Coordinar y supervisar las tareas de las Direcciones de Educación Continua, Publicaciones y de Educación a Distancia;
+
+II. Proponer los contenidos temáticos en materia de cursos, diplomados, seminarios, talleres y otras actividades académicas no escolarizadas;
 
 III. Formular y organizar proyectos de divulgación, a fin de cumplir eficazmente con los objetivos y metas establecidos;
 
 IV. Establecer la coordinación con instituciones nacionales y extranjeras para llevar a cabo acciones de intercambio interbibliotecario, editorial y de participación en seminarios y congresos, entre otros;
 
-V. Supervisar y establecer los lineamientos para el funcionamiento del Programa Anual de Profesionalización y Extensión, difusión, divulgación y publicaciones, asesoría, automatización, biblioteca y librería, y coordinar los procesos de registro de alumnos a las distintas actividades que se programen;
+V. Supervisar y establecer los lineamientos para el funcionamiento del programa anual de extensión, difusión, divulgación, publicaciones, asesoría, automatización, biblioteca y librería; así como, coordinar los procesos de registro de alumnos a las distintas actividades que se programen;
 
-VI. Proponer al Consejo Académico los contenidos temáticos de los cursos de actualización, diplomados, seminarios, coloquios, congresos, jornadas y talleres equivalentes de extensión, así como evaluar dichas actividades;
+VI. Proponer los mecanismos de selección de los ponentes, así como la impartición de los cursos de extensión del Instituto;
 
-VII. Proponer los mecanismos de selección de los ponentes; así como la impartición de los cursos de profesionalización y extensión del Instituto;
+VII. Proponer, coordinar y supervisar los programas de Educación a Distancia que desarrolle el Instituto, además impulsar las tecnologías de la educación;
 
-VIII. Proponer, coordinar y supervisar los sistemas informáticos y las actividades de automatización;
+VIII. Proponer la firma de convenios con instituciones similares, nacionales o extranjeras y con organizaciones diversas para la elaboración de proyectos conjuntos y/o asesoría;
 
-IX. Proponer convenios con instituciones similares, nacionales o extranjeras y con organizaciones diversas para la elaboración de proyectos conjuntos y/o asesoría;
+IX. Supervisar las áreas de Biblioteca y Librería del Instituto;
 
-X. Supervisar las áreas de Biblioteca y Librería del Instituto, y
+X. Instrumentar, coordinar y evaluar las políticas de comunicación social que impulse el Instituto, según lo establezca la Junta de Gobierno o el Director General, y
 
-XI. Llevar a cabo todas aquellas funciones que le confiera o encomiende el Decreto de Creación y la Junta de Gobierno, el presente Estatuto, las disposiciones aplicables o el Director General.
+XI. Llevar a cabo todas aquellas funciones que le confiera o encomiende el Decreto de Creación, el presente Estatuto, la Junta de Gobierno, las disposiciones aplicables y el Director General del Instituto.
 
-###### ARTICULO 30.
+> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
+
+### CAPITULO IV. DE LAS DIRECCIONES
+
+> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
+
+DIRECCION DE POSGRADO
+
+> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 37.
 
 Son funciones de la Dirección de Posgrado:
 
-I. Planear, coordinar y supervisar las actividades docentes que se desarrollen en Especialidad, Maestría y Doctorado, así como verificar el cumplimiento de los programas respectivos;
+I. Planear, ejecutar y supervisar las actividades de coordinación académica, control escolar y desarrollo de planes y programas de estudio que se implementen en las Especialidades, Maestrías y Doctorados;
 
-II. Planear y proponer los Planes y Programas de Estudio de las Especialidades, Maestrías y Doctorados;
+II. Planear y proponer la actualización o el desarrollo de nuevos Planes y Programas de Estudio en las Especialidades, Maestrías y Doctorados;
 
-III. Proponer los Programas de Estudio y reformas para su aprobación por el Consejo Académico;
+III. Proponer al Consejo Académico el personal Docente para el cumplimiento de las tareas encomendadas, de acuerdo a su formación académica, experiencia y reconocimiento profesional y realizar la evaluación de dicha planta docente;
 
-IV. Proponer al personal Docente para el cumplimiento de las tareas encomendadas, de acuerdo a su formación académica, experiencia y reconocimiento profesional;
+IV. Supervisar y ejecutar los procedimientos para la obtención del diploma de especialidad, grado de maestro o doctor de los alumnos egresados del Instituto;
 
-V. Promover y diseñar los mecanismos para la obtención del diploma de especialidad, grado de maestro o doctor en los alumnos egresados del Instituto;
+V. Supervisar la aplicación de los exámenes de grado, así como proponer a los sinodales que, de acuerdo a su trayectoria académica y profesional, garanticen la excelencia académica de la Institución;
 
-VI. Supervisar la realización de los exámenes de grado, así como proponer a los sinodales que de acuerdo a su trayectoria académica y profesional garanticen la excelencia académica de la Institución, y
+VI. Coordinar los programas y cursos de formación inicial y de especialización con nivel de posgrado dirigidos a servidores públicos de la Procuraduría General de la República;
 
-VII. Realizar todas aquellas funciones que le confiere la normatividad del Instituto, la Secretaría General Académica y el Director General.
+VII. Elaborar, ejecutar y evaluar los presupuestos, proyectos y programas de posgrado externo, conforme a las políticas y tabuladores aprobados por la Junta de Gobierno;
+
+VIII. Coordinar y facilitar el desempeño de los Comités de Maestría y Doctorado por Investigación, de los Comités Académicos Especializados, del Comité de Metodología y de cualquier otro Comité aprobado por el Consejo Académico o el Director General;
+
+IX. Atender y resolver en primera instancia, conforme a la normatividad aplicable, las peticiones, sugerencias y quejas formuladas por alumnos y profesores de posgrado, y
+
+X. Realizar todas aquellas funciones que le confiere la normatividad del Instituto y las que encomienden el Secretario General Académico y el Director General del Instituto.
+
+> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
 
 DIRECCION DE CAPACITACION
 
-###### ARTICULO 31.
+> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 38.
 
 Son funciones de la Dirección de Capacitación:
 
-I. Coordinar los programas de formación y capacitación del personal activo y de los aspirantes a Agentes del Ministerio Público de la Federación y Peritos Profesionales, así como de servidores públicos de otras áreas relacionadas con la procuración de justicia federal;
+I. Coordinar los programas de capacitación, actualización y especialización del personal activo y de los aspirantes a Agentes del Ministerio Público de la Federación y Peritos Profesionales, así como de servidores públicos de otras áreas relacionadas con la procuración de justicia federal, con excepción de aquellos que tengan nivel de posgrado;
 
-II. Coordinar los resultados de los procesos de reclutamiento, selección y admisión de Agentes del Ministerio Público de la Federación y Peritos profesionales;
+II. Participar en la coordinación de los procesos de reclutamiento, selección y admisión de aspirantes a Agentes del Ministerio Público de la Federación y Peritos Profesionales, conforme a los criterios establecidos por la Procuraduría General de la República;
 
-III. Definir los lineamientos de los contenidos de los planes y programas de estudio de los cursos de formación, capacitación y especialización dirigidos a servidores públicos de la Procuraduría General de la República;
+III. Definir los contenidos de programas de estudio de los cursos de capacitación, actualización y especialización dirigidos a servidores públicos de la Procuraduría General de la República, para tal efecto se coordinará con las instancias competentes de dicha Institución y se hará cargo de implementar, desarrollar y evaluar los resultados;
 
-IV. Establecer los lineamientos para la elaboración de los programas de investigación del Laboratorio de Criminalística y de los cursos prácticos que se lleven a cabo, en el marco de la formación, capacitación y especialización;
+IV. Establecer los lineamientos para la elaboración de los programas de capacitación, actualización y especialización del Laboratorio de Criminalística;
 
-V. Coordinar el desarrollo de los programas y cursos de formación, capacitación y especialización dirigidos a servidores públicos de la Procuraduría General de la República;
+V. Establecer los criterios de elaboración y actualización de exámenes para los concursos de oposición de aspirantes a Agentes del Ministerio Público de la Federación y Peritos Profesionales;
 
-VI. Establecer los criterios de elaboración y resguardo de los bancos de reactivos y exámenes para las evaluaciones y concursos de oposición de aspirantes a Agentes del Ministerio Público de la Federación y Peritos profesionales;
+VI. Coordinar la organización de los exámenes de oposición para Agentes del Ministerio Público de la Federación y Peritos Profesionales, en diversas categorías;
 
-VII. Coordinar la organización de los exámenes de oposición para Agentes del Ministerio Público de la Federación y Peritos profesionales, en diversas categorías;
+VII. Evaluar y certificar los conocimientos de servidores públicos vinculados a la procuración de justicia, en términos de las disposiciones aplicables;
 
-VIII. Coordinar el funcionamiento del programa de registro, control y certificación periódica de Peritos;
+VIII. Integrar el archivo con la documentación de los aspirantes a los programas de formación inicial para Agentes del Ministerio Público de la Federación y Peritos Profesionales, en el marco de las disposiciones aplicables en materia de transparencia y acceso a la información pública gubernamental y de protección de datos personales;
 
-IX. Supervisar el funcionamiento del archivo general de Agentes del Ministerio Público de la Federación y Peritos profesionales;
+IX. Proponer al Consejo Académico el personal docente para el cumplimiento de las tareas encomendadas, de acuerdo a su formación académica, experiencia y reconocimiento profesional, así como realizar la evaluación de dicha planta docente;
 
-X. Sustentar y establecer los criterios para los programas de actualización de los agentes del Ministerio Público de la Federación y Peritos profesionales;
+X. Planear, programar y ejecutar los servicios de capacitación, actualización y especialización que sean solicitados por las Procuradurías Generales de Justicia, los Tribunales Superiores de Justicia y otras instituciones públicas Municipales, Estatales, del Distrito Federal o Federales, y
 
-XI. Evaluar los mecanismos de selección del personal docente para la realización de las actividades académicas de los cursos de formación, capacitación y especialización de los servidores públicos de la Procuraduría General de la República;
+XI. Realizar todas aquellas funciones que le confiere la normatividad del Instituto y las que encomienden el Secretario General Académico y el Director General del Instituto.
 
-XII. Proponer las normas de disciplina y orden que deben acatar los alumnos de los cursos de formación, capacitación y especialización de los servidores públicos de la Procuraduría General de la República, y
-
-XIII. Realizar aquellas funciones que le confiere la normatividad del Instituto, la Secretaría General Académica y la Dirección General del Instituto.
+> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
 
 DIRECCION DE INVESTIGACION
 
-## TITULO SEGUNDO. DE LA ESTRUCTURA ORGANICA
+> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
 
-### CAPITULO II. DE LA SECRETARIA GENERAL ACADEMICA
-
-###### ARTICULO 32.
+###### Artículo 39.
 
 Son funciones de la Dirección de Investigación:
 
-I. Planear y supervisar las Investigaciones que en el ámbito de las ciencias penales y la política criminal, permitan conocer adecuadamente las causas, efectos y consecuencias de los problemas nacionales en la materia, a fin de proponer a las autoridades correspondientes elementos que les permitan tomar decisiones en materia de política criminal;
+I. Planear y supervisar las Investigaciones que, en el ámbito de las Ciencias Penales y la Política Criminal, permitan conocer adecuadamente las causas, efectos y consecuencias de los problemas nacionales en la materia, a fin de proponer a las autoridades correspondientes, los elementos que les permitan tomar decisiones en materia de Política Criminal;
 
-II. Planear y supervisar las medidas necesarias para llevar a cabo la formación de especialistas de alto nivel para el estudio del sistema de justicia penal;
+II. Planear y supervisar las medidas necesarias para llevar a cabo la formación de especialistas de alto nivel para el estudio del Sistema de Justicia Penal;
 
-III. Proponer, coordinar y supervisar las actividades docentes interinstitucionales que, con motivo de la firma de Convenios Nacionales e Internacionales, se lleven a cabo;
+III. Proponer, coordinar y supervisar las actividades de investigación interinstitucionales que, con motivo de la firma de convenios nacionales e internacionales, se lleven a cabo;
 
-IV. Proponer y evaluar las medidas tendientes al establecimiento y mantenimiento de la Planta Permanente de Investigadores en Ciencias Penales;
+IV. Proponer y dar seguimiento, en coordinación con el Comité de Investigación, a las medidas tendentes al establecimiento y el mantenimiento de la planta de investigadores del Instituto Nacional de Ciencias Penales;
 
-V. Establecer el Programa Anual de Investigación para la aprobación ante el Consejo Académico, así como rendir los informes anuales, semestrales y mensuales que le sean solicitados;
+V. Llevar a cabo el registro, seguimiento y control de informes de las investigaciones realizadas, de acuerdo a lo que establezca el Reglamento del Personal de Investigación y conforme a los lineamientos que determine el Comité de Investigación;
 
-VI. Planear y supervisar el sistema de evaluación de los Investigadores, así como del trabajo que estos realicen;
+VI. Rendir los informes que le sean solicitados, respecto de los resultados cualitativos y cuantitativos del trabajo de los investigadores;
 
-VII. Proponer las investigaciones a publicar con autorización del Consejo Académico y en coordinación con la Secretaría General de Profesionalización y Extensión;
+VII. Proponer, en coordinación con el Comité de Investigación, las investigaciones a publicar ante el Consejo Académico;
 
-VIII. Establecer y supervisar el sistema de Tutorías de Investigación para los estudios de posgrado que imparte este Instituto;
+VIII. Establecer y supervisar el sistema de tutorías de investigación para los estudios de posgrado que imparte el Instituto;
 
-IX. Proponer el programa anual de becas, a través del intercambio académico, y
+IX. Requerir a los investigadores del Instituto la elaboración y entrega de los informes de actividades, y
 
-X. Realizar todas aquellas funciones que le confiere la normatividad del Instituto, la Secretaría General Académica y el Director General.
+X. Realizar todas aquellas funciones que le confiere la normatividad del Instituto y las que encomienden el Secretario General Académico y el Director General del Instituto.
+
+> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
 
 DIRECCION DE EDUCACION CONTINUA
 
-###### ARTICULO 33.
+> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 40.
 
 Son funciones de la Dirección de Educación Continua:
 
-I. Promover y organizar programas y actividades académicas en materia de Ciencias Penales, tales como diplomados, seminarios, cursos, congresos, y, en general, todas aquellas actividades que no requieran de un registro de validez oficial por parte de la Secretaría de Educación Pública y que estén dirigidas a la profesionalización y actualización de servidores públicos dedicados a la procuración e impartición de justicia, seguridad pública y ejecución de sanciones, así como al público en general;
+I. Promover y organizar programas y actividades académicas en materia de Ciencias Penales, tales como diplomados, seminarios, cursos, congresos y, en general, todas aquellas actividades que no requieran de un registro de validez oficial por parte de la Secretaría de Educación Pública y que estén dirigidas a la actualización del público en general en materia de procuración e impartición de justicia, seguridad pública y ejecución de sanciones;
 
 II. Establecer vínculos con instituciones públicas y privadas con el fin de conocer sus requerimientos y dirigir hacia ellos los programas de extensión que ofrece el Instituto;
 
 III. Organizar y evaluar el desarrollo de los programas encomendados;
 
-IV. Evaluar y proponer a la Secretaría General de Profesionalización y Extensión, las modificaciones a los programas y actividades que se lleven a cabo;
+IV. Evaluar y proponer a la Secretaría General de Extensión, las modificaciones a los programas y actividades que se lleven a cabo;
 
-V. Proponer a la Secretaría de Profesionalización y Extensión, al personal docente en esta área;
+V. Proponer al personal docente en esta área;
 
-VI. Elaborar y organizar el programa anual de actividades de profesionalización y extensión académica;
+VI. Elaborar y organizar el programa anual de actividades de extensión académica;
 
-VII. Coordinar la tramitación de los reconocimientos y acreditaciones en las actividades de profesionalización y extensión académica;
+VII. Coordinar la tramitación de los reconocimientos y acreditaciones en las actividades de extensión académica;
 
 VIII. Establecer intercambios académicos con instituciones nacionales y extranjeras para el desarrollo de las actividades que le son conferidas;
 
-IX. Proponer la firma de convenios de colaboración con instituciones nacionales y extranjeras, en el ámbito de las ciencias penales;
+IX. Proponer la firma de convenios de colaboración con instituciones nacionales y extranjeras, en el ámbito de las Ciencias Penales;
 
-X. Establecer los criterios de los procesos de inscripción de los aspirantes a los programas de profesionalización y extensión académica, y
+X. Administrar la Biblioteca Celestino Porte Petit;
 
-XI. Realizar todas aquellas funciones que le confiere la normatividad del Instituto, la Secretaría General de Profesionalización y Extensión y el Director General.
+XI. Participar en la negociación de acuerdos interbibliotecarios que firme el Instituto Nacional de Ciencias Penales con otras instituciones;
+
+XII. Coordinar y supervisar las actividades de diseño gráfico para los proyectos institucionales, y
+
+XIII. Realizar todas aquellas funciones que le confiere la normatividad del Instituto y las que encomienden el Secretario General de Extensión y el Director General del Instituto.
+
+> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
 
 DIRECCION DE PUBLICACIONES
 
-###### ARTICULO 34.
+> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 41.
 
 Son funciones de la Dirección de Publicaciones:
 
-I. Editar y publicar libros y revistas especializadas, particularmente las que sean resultado de la labor de investigación y docencia del Instituto Nacional de Ciencias Penales;
+I. Editar y publicar libros y revistas especializados en Ciencias Penales y temas afines, particularmente las que sean resultado de la labor de investigación y docencia del Instituto Nacional de Ciencias Penales;
 
-II. Ejecutar los convenios de coedición que celebre el Instituto Nacional de Ciencias Penales con instituciones nacionales y extranjeras;
+II. Elaborar y organizar el programa anual de publicaciones;
 
-III. Participar en el Comité Editorial de la Procuraduría General de la República;
+III. Ejecutar los convenios de coedición que celebre el Instituto Nacional de Ciencias Penales con instituciones nacionales y extranjeras;
 
-IV. Coadyuvar con la Dirección de Educación Continua en la organización de eventos para la presentación de las obras que publique el Instituto Nacional de Ciencias Penales, y
+IV. Participar en el Comité Editorial de la Procuraduría General de la República;
 
-V. Realizar todas aquellas funciones que le confiere la normatividad del Instituto, la Secretaría General de Profesionalización y Extensión y el Director General.
+V. Coadyuvar con la Dirección de Educación Continua en la organización de eventos para la presentación de las obras que publique el Instituto Nacional de Ciencias Penales;
 
-DIRECCION DE SERVICIOS BIBLIOGRAFICOS E INFORMATICOS
+VI. Coordinar y supervisar la venta y distribución de publicaciones editadas por el Instituto y de otras editoriales especializadas en Ciencias Penales con las que se establezcan convenios de comercialización, y
 
-### CAPITULO III. DE LA SECRETARIA GENERAL DE PROFESIONALIZACION Y EXTENSION
+VII. Realizar todas aquellas funciones que le confiere la normatividad del Instituto y las que encomienden el Secretario General de Extensión y el Director General del Instituto.
 
-###### ARTICULO 35.
+> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
 
-Son funciones de la Dirección de Servicios Bibliográficos e Informáticos:
+DIRECCION DE EDUCACION A DISTANCIA
 
-I. Coordinar el establecimiento, mantenimiento, servicio, actualización y soporte de sistemas informáticos de comunicación local y externa (redes) para el acceso y difusión de la información que genere el Instituto;
+> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
 
-II. Participar en la negociación de acuerdos interbibliotecarios y sobre la transferencia e intercambio de tecnología informática que firme el INACIPE con otras instituciones;
+###### Artículo 42.
 
-III. Administrar la Biblioteca “Celestino Porte Petit”;
+Son funciones de la Dirección de Educación a Distancia:
 
-IV. Mantener actualizado al personal del Instituto sobre todas las innovaciones tecnológicas y avances en la informática y sus aplicaciones en las disciplinas jurídico penal, criminología y criminalística;
+I. Planear, ejecutar y evaluar la plataforma de tecnologías para brindar educación a distancia, video bajo demanda, transmisión en vivo por internet, materiales y servicios educativos multimedia;
 
-V. Proporcionar a las áreas del Instituto que lo requieran, servicios en programación, instalación y operación de sistemas automáticos para satisfacer necesidades de las unidades administrativas;
+II. Instrumentar, coordinar y evaluar los programas de radio o televisión en los que participe el Instituto;
 
-VI. Coordinar y supervisar la venta y distribución de publicaciones editadas por el INACIPE, y
+III. Elaborar y ejecutar el programa anual en materia de tecnologías de la información y educación;
 
-VII. Realizar todas aquellas funciones que le confiere la normatividad del Instituto, la Secretaría General de Profesionalización y Extensión y el Director General.
+IV. Establecer vínculos con instituciones públicas y privadas a fin de desarrollar, capacitar o asesorar actividades en materia de tecnologías de la educación;
 
-DE LA DIRECCION DE ADMINISTRACION
+V. Mantener actualizada a la comunidad académica del Instituto sobre las innovaciones tecnológicas, avances en la informática y sus aplicaciones en las disciplinas relacionadas con las Ciencias Penales;
 
-### CAPITULO IV. DE LAS DIRECCIONES
+VI. Planear, diseñar, actualizar, innovar y operar los servicios que proporcione el Instituto Nacional de Ciencias Penales a través de internet, tales como sitios web, micrositios, blogs y redes sociales que sean utilizadas para fines educativos y de difusión de las Ciencias Penales;
 
-DIRECCION DE POSGRADO
+VII. Coordinar el sistema de lectura óptica de evaluaciones de profesores y alumnos, en coordinación con las unidades académicas del Instituto, y
 
-###### ARTICULO 36.
+VIII. Realizar todas aquellas funciones que le confiere la normatividad del Instituto y las que encomienden el Secretario General de Extensión y el Director General del Instituto.
+
+> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
+
+DIRECCION DE ADMINISTRACION
+
+> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 43.
 
 Son funciones de la Dirección de Administración:
 
@@ -485,29 +679,31 @@ II. Proponer la contratación, desarrollo, capacitación, promoción y adscripci
 
 III. Coordinar y acordar el ejercicio, registro y control del presupuesto asignado, emitiendo la documentación comprobatoria necesaria, conforme a la normatividad establecida;
 
-IV. Coordinar la administración de los recursos humanos, financieros, materiales y servicios generales, asignados al Instituto para el eficaz cumplimiento de los objetivos y metas establecidas, así como difundir las prestaciones y servicios de carácter social a que tienen derecho los trabajadores;
+IV. Coordinar la administración de los recursos humanos, financieros, materiales y servicios generales asignados al Instituto para el eficaz cumplimiento de los objetivos y metas establecidas, así como difundir las prestaciones y servicios de carácter social a que tienen derecho los trabajadores;
 
-V. Vigilar que los recursos humanos, financieros y materiales que requieran las áreas para su funcionamiento, les sean proporcionados en forma oportuna y de acuerdo al programa de actividades establecido por el Director General;
+V. Vigilar que los recursos humanos, financieros y materiales que requieran las áreas para su funcionamiento, les sean proporcionados en forma oportuna y de acuerdo al programa de actividades establecido por el Director General del Instituto;
 
 VI. Informar a la Dirección General de Programación, Organización y Presupuesto de la Procuraduría General de la República, sobre el desarrollo de sus actividades y proporcionar los elementos adicionales de información que le sean requeridos;
 
 VII. Integrar y coordinar la organización y funcionamiento del Comité de Adquisiciones, Arrendamientos y Servicios, de acuerdo a lo dispuesto en la normatividad aplicable, y
 
-VIII. Llevar al cabo todas aquellas funciones que le confiera o encomiende el presente Estatuto, las disposiciones aplicables o el Director General.
+VIII. Llevar a cabo todas aquellas funciones que le confiera o encomiende el presente Estatuto, las disposiciones aplicables o el Director General del Instituto.
+
+> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
 
 DIRECCION JURIDICA
 
-### CAPITULO V. DEL ORGANO INTERNO DE CONTROL
+> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
 
-###### ARTICULO 37.
+###### Artículo 44.
 
 Son funciones de la Dirección Jurídica, las siguientes:
 
-I. Realizar la defensa jurídica del Instituto ante cualquier instancia y representar legalmente al Director y demás funcionarios del Instituto ante las autoridades administrativas y judiciales;
+I. Realizar la defensa jurídica del Instituto Nacional de Ciencias Penales ante cualquier instancia y representar legalmente a su Director General, y demás funcionarios del mismo, ante las autoridades administrativas y judiciales;
 
 II. Formular querellas y denuncias por hechos probablemente constitutivos de delitos que afecten al Instituto, así como otorgar perdón cuando éste proceda;
 
-III. Revisar, y en su caso, formular los convenios y contratos que celebre el Instituto;
+III. Revisar y, en su caso, formular los convenios y contratos que celebre el Instituto;
 
 IV. Llevar el registro, control y seguimiento de los convenios, contratos y ordenamientos normativos vigentes en el Instituto;
 
@@ -519,85 +715,127 @@ VII. Formular y emitir opinión, en su caso, sobre los proyectos de ordenamiento
 
 VIII. Participar como asesor, cuando así se requiera, en los diversos comités, consejos y comisiones mixtas del Instituto;
 
-IX. Revisar y clasificar el Diario Oficial de la Federación, a efecto de informar a las diversas áreas del Instituto sobre las disposiciones jurídicas inherentes al propio Instituto;
+IX. Revisar y clasificar el Diario Oficial de la Federación, a efecto de informar a las diversas áreas del Instituto sobre las disposiciones jurídicas inherentes al mismo;
 
 X. Integrar y mantener actualizado el marco jurídico aplicable al Instituto;
 
 XI. En general, realizar todas aquellas actividades de carácter jurídico que sean necesarias para apoyar el buen funcionamiento del Instituto, y
 
-XII. Las demás que le encomiende el Director General.
+XII. Las demás que le encomiende el Director General del Instituto.
 
-###### ARTICULO 38.
+> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
 
-El titular del Organo Interno de Control, será designado en términos del artículo 37, fracción XII de la Ley Orgánica de la Administración Pública Federal. El Organo Interno de Control, tendrá las atribuciones que le confieren la Ley Federal de Responsabilidades de los Servidores Públicos, el Reglamento Interior de la Secretaría de Contraloría y Desarrollo Administrativo y demás disposiciones aplicables.
+### CAPITULO V. DEL ORGANO INTERNO DE CONTROL
 
-###### ARTICULO 39.
+> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
 
-Las características, requisitos y condiciones de ingreso, promoción, permanencia y retiro del personal académico, se determinarán en el reglamento que al respecto expida la Junta de Gobierno, de acuerdo con las siguientes bases generales:
+###### Artículo 45.
 
-a) Se buscará desarrollar y consolidar la carrera académica;
+El titular del Organo Interno de Control será designado en términos del artículo 37 fracción XII de la Ley Orgánica de la Administración Pública Federal. El Organo Interno de Control tendrá las atribuciones que le confieren la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, el Reglamento Interior de la Secretaría de la Función Pública y demás disposiciones aplicables.
 
-b) Se promoverá fundamentalmente el profesionalismo y la excelencia del personal académico;
-
-c) Se respetará la libertad de cátedra e investigación y de libre examen y discusión de las ideas, y
-
-d) Se vinculará prioritariamente con los requerimientos nacionales y el cumplimiento de los objetivos y fines del Instituto.
-
-###### ARTICULO 40.
-
-Los trabajadores del Instituto gozarán de los beneficios de la seguridad social que proporciona el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
-
-###### ARTICULO 41.
-
-El reglamento correspondiente determinará las calidades y condiciones para que los alumnos obtengan su inscripción al Instituto y determinará sus obligaciones y derechos.
-
-###### ARTICULO 42.
-
-Los miembros del Instituto serán responsables por el incumplimiento de las obligaciones que específicamente les impone el Decreto de Creación del Instituto, este Estatuto Orgánico y sus reglamentos, además de lo establecido en otros ordenamientos legales y reglamentarios de carácter general.
-
-###### ARTICULO 43.
-
-El Director General será responsable ante la Junta de Gobierno. Los Secretarios Generales y Directores serán responsables ante el Director General y los demás servidores públicos serán responsables ante su superior inmediato. Los miembros del Consejo Académico sólo serán responsables ante estas autoridades, en la forma que establezcan los reglamentos respectivos. Lo anterior, sin perjuicio de las responsabilidades a que pudieran hacerse acreedores los servidores públicos mencionados de conformidad con la Ley Federal de Responsabilidades de los Servidores Públicos y demás disposiciones aplicables.
-
-###### ARTICULO 44.
-
-Los miembros del personal académico y alumnos serán responsables ante el Consejo Académico, erigido en Comisión de Honor y Justicia. Tratándose de los alumnos, el Director General podrá sancionarlos inmediatamente, en los casos de indisciplina. Los afectados, tanto si forman parte del personal académico como del alumnado, podrán acudir al Consejo Académico erigido en Comisión de Honor y Justicia, pero las sanciones impuestas no se levantarán hasta en tanto obtengan resolución favorable.
-
-### CAPITULO I. DEL PERSONAL ACADEMICO
-
-###### ARTICULO 45.
-
-El personal administrativo será sancionado directamente por sus jefes respectivos, previo acuerdo con el Director General.
+> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
 
 ## TITULO TERCERO. DEL PERSONAL ACADEMICO Y ADMINISTRATIVO
 
+> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
+
+### CAPITULO I. DEL PERSONAL ACADEMICO
+
+> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 46.
+
+Las características, requisitos y condiciones de ingreso, promoción, permanencia y retiro del personal académico se determinarán en los reglamentos que, al respecto, expida la Junta de Gobierno. Estos reglamentos estarán abocados a:
+
+a) Buscar desarrollar y consolidar la carrera académica;
+
+b) Promover el profesionalismo y la excelencia del personal académico;
+
+c) Respetar la libertad de cátedra, investigación, libre examen y discusión de las ideas, y
+
+d) Vincular los fines y el cumplimiento de los objetivos del Instituto a las necesidades nacionales.
+
+> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
+
 ### CAPITULO II. DEL PERSONAL ADMINISTRATIVO
 
-###### ARTICULO 46.
+> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
 
-Todo el personal del Instituto será responsable en los términos que señale la Ley Federal de Responsabilidades de los Servidores Públicos.
+###### Artículo 47.
 
-### CAPITULO UNICO. DE LOS ALUMNOS
+Los trabajadores del Instituto gozarán de los beneficios de la seguridad social que proporciona el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
 
-###### ARTICULO 47.
-
-Para reformar el Estatuto se requiere:
-
-I. Que se convoque a la Junta de Gobierno exclusivamente con ese objeto;
-
-II. Que se ponga en conocimiento de los miembros de la propia Junta, con anticipación mínima de ocho días al de la fecha en que deba reunirse, el texto de la reforma proyectada, y
-
-III. Que su reforma se apruebe cuando menos por dos tercios de votos de los miembros de la Junta.
+> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
 
 ## TITULO CUARTO. DE LOS ALUMNOS
 
-### CAPITULO UNICO. DE LAS RESPONSABILIDADES Y SANCIONES
-
-## TITULO QUINTO. DE LAS RESPONSABILIDADES
+> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
 
 ### CAPITULO UNICO
 
-## TITULO SEXTO. DE LA REFORMA DEL ESTATUTO ORGANICO
+> <small>(ADICIONADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 48.
+
+El reglamento correspondiente determinará las calidades y condiciones para que los alumnos obtengan su inscripción al Instituto, así como sus derechos y obligaciones.
+
+> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
+
+## TITULO QUINTO. DE LAS RESPONSABILIDADES Y SANCIONES
+
+> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
+
+### CAPITULO UNICO
+
+> <small>(ADICIONADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 49.
+
+Los miembros del Instituto serán responsables por el incumplimiento de las obligaciones que específicamente les impone el Decreto de Creación del Instituto, este Estatuto Orgánico y sus reglamentos, además de lo establecido en otros ordenamientos legales y reglamentarios de carácter general.
+
+> <small>(ADICIONADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 50.
+
+El Director General del Instituto será responsable ante la Junta de Gobierno. Los Secretarios Generales y Directores serán responsables ante el Director General del Instituto. Los demás servidores públicos serán responsables ante su superior inmediato. Los miembros del Consejo Académico sólo serán responsables ante estas autoridades, en la forma que establezcan los reglamentos respectivos. Los integrantes del Comité de Investigación serán responsables ante el Consejo Académico, en los términos de la normatividad aplicable. Lo anterior, sin perjuicio de las responsabilidades a que pudieran hacerse acreedores los servidores públicos mencionados de conformidad con la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 51.
+
+Los miembros del personal académico y alumnos serán responsables ante el Consejo Académico, erigido en Comisión de Honor y Justicia. Tratándose de los alumnos, el Director General podrá sancionarlos inmediatamente, en los casos de indisciplina. Los afectados, tanto del personal académico como del alumnado, podrán acudir al Consejo Académico erigido en Comisión de Honor y Justicia, pero las sanciones impuestas no se levantarán hasta en tanto obtengan resolución favorable.
+
+> <small>(ADICIONADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 52.
+
+El personal administrativo será sancionado directamente por sus jefes respectivos, previo acuerdo con el Director General del Instituto.
+
+> <small>(ADICIONADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 53.
+
+Todo el personal del Instituto será responsable en los términos que señale la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos.
+
+> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
+
+## TITULO SEXTO. DE LA REFORMA AL ESTATUTO ORGANICO
+
+> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
+
+### CAPITULO UNICO
+
+> <small>(ADICIONADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 54.
+
+Para reformar el Estatuto Orgánico del Instituto Nacional de Ciencias Penales se requiere:
+
+I. Convocar a la Junta de Gobierno del Instituto exclusivamente con ese objeto;
+
+II. Poner en conocimiento de los miembros de la Junta, con una anticipación mínima de ocho días a la fecha en que deban reunirse, el texto de la reforma proyectada, y
+
+III. Aprobar la reforma con el voto de, por lo menos, dos tercios de los miembros de la Junta.
 
 ## ARTICULOS TRANSITORIOS
 
@@ -616,3 +854,15 @@ La modificación a la estructura orgánica en lo que toca a la Dirección Juríd
 La H. Junta de Gobierno en su segunda sesión ordinaria de 2002, celebrada el 7 (sic) junio, acordó adecuar la denominación del Organo Interno de Control en el capítulo V del título segundo, artículo 38.
 
 México, Distrito Federal, a veintiuno de noviembre de dos mil seis.- El Director General, Gerardo Felipe Laveaga Rendón.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
+
+D.O.F. 10 DE FEBRERO DE 2011.
+
+###### ARTICULO PRIMERO.
+
+Las presentes reformas, adiciones y derogaciones al Estatuto Orgánico del Instituto Nacional de Ciencias Penales fueron aprobadas por la H. Junta de Gobierno en su Primera Sesión Extraordinaria, celebrada el 25 de junio de 2010, y entrarán en vigor al día siguiente de su aprobación por la misma.
+
+###### ARTICULO SEGUNDO.
+
+Se instruye al Director General del Instituto realizar los trámites necesarios para la publicación del presente Estatuto Orgánico en el Diario Oficial de la Federación. Los actos que realicen las diversas áreas del Instituto, previos a la fecha de publicación, podrán estar fundados en los artículos anteriores a las reformas y adiciones al Estatuto Orgánico aprobadas en este acto por la Junta de Gobierno. Lo anterior siempre y cuando la atribución o fundamento de cada acto subsista en el Estatuto Orgánico vigente independientemente de las modificaciones en el articulado.
