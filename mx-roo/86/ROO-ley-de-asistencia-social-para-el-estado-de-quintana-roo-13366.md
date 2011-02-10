@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-asistencia-social-para-el-estado-de-quintana-roo-13366"
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-15"
-last_updated: "1998-12-15"
+last_updated: "2011-02-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13366&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE QUINTANA ROO.
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE FEBRERO DE 2011.
 
 Ley publicada en el Periódico Oficial, el 15 de diciembre de 1998.
 
@@ -39,23 +39,71 @@ LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE QUINTANA ROO.
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
 ###### ARTICULO 1º.
 
-La presente Ley es de orden público e interés social, la cual tiene por objeto sentar las bases y procedimientos para la prestación de los servicios de Asistencia Social y la coordinación del acceso a los mismos, garantizando la concurrencia y colaboración del Estado, los Municipios y las entidades de los Sectores Público, Social y Privado.
+La presente Ley es de orden público e interés social, la cual tiene por objeto:
+
+I.- Sentar las bases, lineamientos, mecanismos y procedimientos para la prestación de los servicios de asistencia social integral y multidisciplinaria;
+
+II.- La coordinación del acceso a los mismos, garantizando la concurrencia y colaboración del Gobierno Federal, del Estado, los Municipios y las entidades de los Sectores Público, Social y Privado, según la distribución de competencias que establece la Ley General de Salud y la Ley de Asistencia Social, para brindar una asistencia social integral y multidisciplinaria;
+
+III.- Promover el derecho a un medio ambiente social adecuado, así como el desarrollo integral de los miembros de los diversos tipos de familia;
+
+IV.- Apoyar la formación, subsistencia, y desarrollo de las personas que carezcan de familia, o presenten algún tipo de desintegración familiar;
+
+V.- Proporcionar asistencia social integral y multidisciplinaria;
+
+VI.- Promover los derechos de los habitantes del Estado, mediante una cultura jurídica que se socialice;
+
+VII.- Contribuir a la satisfacción de las necesidades de las personas y grupos que se encuentren en estado de riesgo, en razón de la violencia que viven, las condiciones económicas, discapacidades físicas y mentales, o en virtud de algún factor de riesgo tales como la edad en sus diferentes etapas, niñez, juventud o tercera edad, o con motivo del sexo, en el caso de las mujeres;
+
+Por lo que hace al estado de riesgo, se estará atento a lo dispuesto en la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Quintana Roo;
+
+VIII.- Favorecer la armonía y democracia al interior de la familia;
+
+IX.- Sancionar aquellas conductas que se realicen como parte de la asistencia social y que no cumplan con el objeto de esta Ley; y
+
+X.- Coordinar el acceso de los servicios de asistencia social integral y multidisciplinaria.
+
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2011)</small>
 
 ###### ARTICULO 2°.
 
-Para los efectos de esta Ley, se entiende por Asistencia Social el conjunto de acciones tendientes a mejorar y modificar las circunstancias de carácter social que impidan al individuo su desarrollo integral, así como la protección física, mental y social de personas en estado de necesidad, desprotección o desventaja física o mental y de ser posible, procurar su reintegración al seno familiar, laboral y social.
+Para los efectos de esta Ley, se entiende por Asistencia Social Integral y Multidisciplinaria el conjunto de acciones y programas impulsados por el gobierno y la sociedad tendientes a mejorar y modificar las circunstancias de carácter social que impidan al individuo su desarrollo integral, así como la protección física, mental y social de personas en estado de riesgo, desprotección o desventaja física o mental y de ser posible, procurar su reintegración al seno familiar, laboral y social, alcanzando el mejoramiento de la calidad de vida de los individuos que integran las familias quintanarroenses, dentro de una democracia familiar.
 
-La Asistencia Social comprende la prestación de servicios básicos de salud, así como, acciones de promoción, previsión, prevención, protección, rehabilitación y curación; y se rige por criterios de generalidad y participación.
+La asistencia social integral y multidisciplinaria comprende la prestación de servicios básicos de salud, así como, acciones de promoción, previsión, prevención, protección, rehabilitación y curación; y se rige por criterios de generalidad y participación, asimismo implicará especialmente:
+
+I.- Atención psicoterapéutica;
+
+II.- Asistencia jurídica;
+
+III.- Apoyo social;
+
+IV.- Protección de los derechos de las personas que se encuentran en los supuestos de la presente ley;
+
+V.- Apoyo educativo a la unidad familiar;
+
+VI.- Formación preventiva en los valores de igualdad, dirigida al desarrollo personal, y a la formación de actitudes con perspectiva de género libres de estereotipos, prejuicios o conceptos de subordinación de un género hacia otro;
+
+VII.- Apoyo a la formación e inserción laboral.
+
+En materia de violencia familiar, la asistencia que se proporcione será de acuerdo a los modelos que prevé la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Quintana Roo.
+
+La asistencia social integral y multidisciplinaria no contará entre sus criterios, patrones estereotipados de comportamiento o prácticas sociales y culturales, basadas en conceptos de subordinación o inferioridad.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE FEBRERO DE 2011)</small>
 
 ###### ARTICULO 3°.
 
-Para los efectos del presente ordenamiento, se entiende como servicios básicos de salud en materia de asistencia social, los siguientes:
+Para los efectos del presente ordenamiento, se entiende como servicios básicos de salud en materia de asistencia social integral y multidisciplinaria, los siguientes:
 
 I.- Los señalados como tales en las Leyes General y Estatal de Salud;
 
-II.- La prevención de invalidez y la rehabilitación de discapacitados;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2011)</small>
+
+II.- La prevención de invalidez y la rehabilitación de personas con alguna discapacidad;
 
 III.- La promoción de la educación y rehabilitación de las víctimas de delitos, en estado de abandono;
 
@@ -65,13 +113,19 @@ V.- La promoción del desarrollo, el mejoramiento y la integración familiar;
 
 VI.- El desarrollo comunitario en las localidades social y económicamente marginadas;
 
-VII.- La promoción e impulso del sano crecimiento físico, mental y social de la niñez quintanarroense;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2011)</small>
 
-VIII.- El establecimiento y manejo de la comunicación estatal de información básica en materia de asistencia social;
+VII.- La promoción e impulso del sano crecimiento físico, psicoemocional y social de la niñez quintanarroense;
+
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2011)</small>
+
+VIII.- El establecimiento y manejo de la comunicación estatal de información básica en materia de asistencia social integral y multidisciplinaria;
 
 IX.- La colaboración y auxilio a las autoridades laborales, competentes en la vigilancia y aplicación de la legislación laboral aplicable a las mujeres y a los menores;
 
-X.- EI fomento de acciones de paternidad responsable, que propician la preservación de los derechos de los menores a la satisfacción de sus necesidades y a la salud física y mental;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2011)</small>
+
+X.- El fomento de acciones de paternidad responsable, que propician la preservación de los derechos de los menores a la satisfacción de sus necesidades y a la salud física y psicoemocional;
 
 XI.- La colaboración con las autoridades educativas y judiciales para la educación y capacitación de menores infractores;
 
@@ -83,17 +137,35 @@ XIII.- El apoyo a mujeres en período de gestación o lactancia, con especial at
 
 XIV.- La atención a la salud a través de acciones preventivas y curativas.
 
-XV.- Apoyos a los servicios para la educación de menores que se encuentren en situaciones previstas en el artículo 8° fracción I de esta Ley y de personas con discapacidad que requieran educación especial o capacitación, y
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2011)</small>
 
-XVI.- Los análogos y conexos a los anteriores que tiendan a modificar y mejorar las circunstancias de carácter social que impidan al individuo su desarrollo integral.
+XV.- Apoyos a los servicios para la educación de menores que se encuentren en situaciones previstas en el artículo 8 fracción I de esta Ley y de personas con discapacidad que requieran educación especial o capacitación;
+
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2011)</small>
+
+XVI.- El fomento del derecho a un medio ambiente social adecuado y democrático para el desarrollo y bienestar de las familias quintanarroenses y de sus integrantes;
+
+> <small>(ADICIONADA, P.O. 10 DE FEBRERO DE 2011)</small>
+
+XVII.- La aplicación de modelos de prevención y atención a receptores de violencia familiar, los cuales se registrarán por el tipo de intervención que corresponda, para articular la política integral del Estado en materia de violencia de género;
+
+> <small>(ADICIONADA, P.O. 10 DE FEBRERO DE 2011)</small>
+
+XVIII.- Los análogos y conexos a los anteriores que tiendan a modificar y mejorar las circunstancias de carácter social que impidan al individuo su desarrollo integral.
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+Se entiende por derecho a un ambiente social adecuado y democrático, el derecho que tienen los integrantes de la familia a desarrollarse en un ambiente de respeto a su integridad física, psicoemocional, sexual y económica, libre de conductas de violencia familiar, con objeto de contribuir a su desarrollo y pleno ejercicio de su ciudadanía, favoreciendo su incorporación, autonomía y participación en la sociedad.
 
 ###### ARTICULO 4°.
 
 Los servicios enumerados en el artículo anterior podrán ser prestados por cualquier institución pública o privada, excepto aquellos que por disposición legal correspondan exclusivamente a instituciones públicas federales, estatales o municipales.
 
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
 ###### ARTICULO 5°.
 
-El Estado promoverá la organización y participación de la comunidad en la atención de la salud, que requieran acciones de asistencia social basadas en el apoyo y solidaridad social, específicamente en el caso de comunidades afectadas de marginación, así como en los casos de menores en estado de abandono y de incapacitados física o mentalmente.
+El Estado promoverá la organización y participación de la comunidad en la atención de la salud, que requieran acciones de asistencia social integral y multidisciplinaria basadas en el apoyo y solidaridad social, específicamente en el caso de comunidades afectadas de marginación, así como en los casos de menores en estado de riesgo, abandono y de incapacitados física o mentalmente, fomentando valores de igualdad de género, no discriminación dirigidos al desarrollo personal de los quintanarroenses, con el aprendizaje social y el enfoque de género, libre de estereotipos, prejuicios o conceptos de subordinación de un género hacia otro.
 
 ###### ARTICULO 6°.
 
@@ -101,13 +173,17 @@ La prestación de servicios asistenciales quedará a cargo de dependencias y ent
 
 ### CAPITULO II. SUJETOS DE ASISTENCIA SOCIAL
 
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
 ###### ARTICULO 7°.
 
-Tendrán derecho a la asistencia social los individuos, familias y grupos que por sus condiciones físicas, mentales, jurídicas o sociales estén imposibilitados para atender su subsistencia, recuperación o superación, o se encuentren en situación de desamparo y no cuenten con las condiciones necesarias para ejercer derechos o para hacer frente a sus circunstancias.
+Tendrán derecho a la asistencia social integral y multidisciplinaria los individuos, familias y grupos que por sus condiciones físicas, psicoemocionales, jurídicas o sociales estén imposibilitados para atender su subsistencia, recuperación o superación, o se encuentren en situación de desamparo y no cuenten con las condiciones necesarias para ejercer derechos o para hacer frente a sus circunstancias.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE FEBRERO DE 2011)</small>
 
 ###### ARTICULO 8°.
 
-Son sujetos de atención de la asistencia social los considerados en el artículo anterior y que se encuentren en alguna de las siguientes situaciones:
+Son sujetos de atención de la asistencia social integral y multidisciplinaria, los considerados en el artículo anterior y que se encuentren en alguna de las siguientes situaciones:
 
 I.- Los menores en situación de riesgo:
 
@@ -115,7 +191,9 @@ I.- Los menores en situación de riesgo:
 
 2.- Con deficiencias de desarrollo físico o mental, o cuando éste sea afectado por condiciones familiares adversas;
 
-3.- Por maltratos;
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+3.- Por violencia familiar;
 
 4.- Por abandono;
 
@@ -131,19 +209,31 @@ II.- Las mujeres:
 
 1.- En estado de gestación o lactancia, con especial atención a las adolescentes, o
 
-2.- En situación de maltrato o de abandono.
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+2.- En situación de violencia familiar o de abandono.
 
 III.- Farmacodependientes, alcohólicos o individuos en condiciones de vagancia.
 
-IV.- Ancianos en desamparo, incapacidad, marginación o sujetos a maltrato.
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2011)</small>
 
-V.- Minusválidos por causas de ceguera, debilidad visual, sordera, mudez, alteraciones del sistema neuro-musculoesquelético, deficiencias mentales, problemas de lenguaje u otras deficiencias.
+IV.- Personas adultas mayores en desamparo, incapacitados, marginados o sujetos a violencia familiar.
+
+> <small>(ADICIONADA, P.O. 10 DE FEBRERO DE 2011)</small>
+
+Para los efectos de esta ley, se entiende por personas adultas mayores, a aquellas que cuentan con sesenta años o más de edad y que se encuentran dentro del territorio del Estado Libre y Soberano de Quintana Roo, en términos de la Ley de los Derechos de las Personas Adultas Mayores.
+
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2011)</small>
+
+V.- Personas con alguna discapacidad, cualquiera que sea su causa;
 
 VI.- Indigentes o personas que por su extrema ignorancia requieran servicios asistenciales.
 
 VII.- Personas que ejercen la prostitución.
 
-VIII.- Víctimas de delitos.
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2011)</small>
+
+VIII.- Víctimas de delitos violentos, sexuales, de violencia familiar o de cualquier modalidad y tipo de violencia que prevé la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Quintana Roo;
 
 IX.- Núcleos familiares:
 
@@ -159,51 +249,73 @@ XII.- Enfermos crónicos en estado de abandono, y
 
 XIII.- Los demás sujetos así considerados en otras disposiciones jurídicas.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE FEBRERO DE 2011)</small>
+
 ###### ARTICULO 9°.
 
-Los sujetos de atención de asistencia social, tendrán derecho a:
+Los sujetos de atención de asistencia social integral y multidisciplinaria, tendrán derecho a:
 
-I.- Recibir los servicios sin discriminación en razón de su género, etnia, religión o ideología.
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2011)</small>
+
+I.- Recibir los servicios sin discriminación y libre de prejuicios en razón de su género, raza, etnia, religión, credo o ideología, condición socioeconómica o sexual, o de cualquier otro tipo;
 
 II.- La confidencialidad de respecto a sus condiciones personales, y de los servicios que reciban.
 
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
 ###### ARTICULO 10.
 
-Los sujetos en la medida de sus posibilidades, deberán participar en los distintos procesos de la asistencia social. Sus familiares serán corresponsables de esa participación y aprovechamiento.
+Los sujetos en la medida de sus posibilidades, deberán participar en los distintos procesos de la asistencia social integral y multidisciplinaria. Sus familiares serán corresponsables de esa participación y aprovechamiento.
 
 ## TITULO SEGUNDO. DE LAS INSTITUCIONES DE ASISTENCIA SOCIAL PUBLICA
 
 ### CAPITULO I. DE LA ASISTENCIA SOCIAL PUBLICA
 
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
 ###### ARTICULO 11.
 
-Son instituciones de asistencia social pública, las dependencias de los Gobiernos Federal, Estatal y Municipal que realicen acciones, presten servicios o reciban fondos para la asistencia social, de conformidad con lo que establece la presente Ley.
+Son instituciones de asistencia social pública, las dependencias de los Gobiernos Federal, Estatal y Municipal que realicen acciones, presten servicios o reciban fondos para la asistencia social integral y multidisciplinaria, de conformidad con lo que establece la presente Ley.
+
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2011)</small>
 
 ###### ARTICULO 12.
 
-El patrimonio de las instituciones de asistencia social pública estará constituido, principalmente, por las aportaciones que los Gobiernos Federal, Estatal o Municipal les otorgue, así como las hechas por otras instituciones públicas y privadas, y estará destinado al cumplimiento de la asistencia social.
+El patrimonio de las instituciones de asistencia social pública estará constituido, principalmente, por las aportaciones que los Gobiernos Federal, Estatal o Municipal les otorgue, así como las hechas por otras instituciones públicas y privadas, y estará destinado al cumplimiento de la asistencia social integral y multidisciplinaria.
 
 ###### ARTICULO 13.
 
 Las diversas dependencias estatales y municipales que por disposición de la Ley de Salud del Estado, sean competentes para la prestación de determinados servicios asistenciales, los prestarán cada uno según sus correspondientes esferas de atribuciones, debiendo coordinarse con el Sistema para el Desarrollo Integral de la Familia del Estado, o con los Sistemas Municipales en su caso, en la forma y términos que la Secretaría de Salud del Estado dictamine.
 
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
 ###### ARTICULO 14.
 
-Los servicios de salud que en materia de Asistencia Social presten la Federación, el Estado, los Municipios y los Sectores Social y Privado, forman parte del Sistema Estatal de Salud, por lo que su prestación a través de las Instituciones de Seguridad Social y los de carácter público, social y privado, se seguirán rigiendo por los ordenamientos específicos que les sean aplicables y por la presente Ley.
+Los servicios de salud que en materia de Asistencia Social integral y multidisciplinaria presten la Federación, el Estado, los Municipios y los Sectores Social y Privado, forman parte del Sistema Estatal de Salud, por lo que su prestación a través de las Instituciones de Seguridad Social y los de carácter público, social y privado, se seguirán rigiendo por los ordenamientos específicos que les sean aplicables y por la presente Ley, así como en los principios señalados en la Ley de Acceso de las Mujeres a una vida Libre de Violencia del Estado de Quintana Roo.
+
+En los casos de asistencia social en materia de violencia de género y de las diferentes modalidades de violencia que prevé la Ley de Acceso de las Mujeres a una vida Libre de Violencia del Estado de Quintana Roo, formarán parte del Sistema Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE FEBRERO DE 2011)</small>
 
 ###### ARTICULO 15.
 
-Los integrantes del Sistema Estatal de Salud, en materia de asistencia social, contribuirán al logro de los siguientes objetivos:
+Los integrantes del Sistema Estatal de Salud, en materia de asistencia social integral y multidisciplinaria, contribuirán al logro de los siguientes objetivos:
 
-I.- Garantizar la extensión cuantitativa y cualitativa de los servicios, preferentemente en las zonas menos desarrolladas y a los grupos más vulnerables;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2011)</small>
+
+I.- Garantizar la extensión cuantitativa y cualitativa de los servicios, preferentemente en las zonas menos desarrolladas y a los grupos sociales que se encuentren en estado de riesgo;
 
 II.- Definir criterios de distribución de grupos de usuarios, así como universalización de cobertura; y
 
-III.- Establecer y llevar a cabo conjunta y coordinadamente, programas institucionales que aseguren la atención integral de los grupos sociales vulnerables.
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2011)</small>
+
+III.- Establecer y llevar a cabo conjunta y coordinadamente, programas institucionales que aseguren la atención integral y multidisciplinaria de los grupos sociales que se encuentren en estado de riesgo.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE FEBRERO DE 2011)</small>
 
 ###### ARTICULO 16.
 
-La Secretaría de Salud del Estado, respecto a la asistencia social tendrá las siguientes atribuciones:
+La Secretaría de Salud del Estado, respecto a la asistencia social integral y multidisciplinaria tendrá las siguientes atribuciones:
 
 I.- En materia de salubridad general:
 
@@ -215,17 +327,33 @@ II.- Directamente, o a través del Sistema para el Desarrollo Integral de la Fam
 
 1.- Supervisar la debida aplicación de las normas técnicas que rijan la prestación de los Servicios de Salud en esta materia, así como evaluar los resultados de los servicios asistenciales que se presten conforme a las mismas;
 
-2.- Apoyar la coordinación entre las instituciones que presten servicios de asistencia social y las educativas para formar y capacitar recursos humanos en la materia;
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2011)</small>
 
-3.- Coordinar la información en materia de asistencia social en el Estado;
+2.- Apoyar la coordinación entre las instituciones que presten servicios de asistencia social integral y multidisciplinaria y las educativas para formar y capacitar recursos humanos en la materia;
 
-4.- Coordinar a través de los acuerdos y convenios respectivos, en el marco del Plan Estatal de Desarrollo, la prestación y promoción de los servicios de salud en materia de asistencia social;
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2011)</small>
 
-5.- Concertar acciones con los sectores social y privado, mediante convenios y contratos en que se regule la prestación y promoción de los servicios de salud en materia de asistencia social, con la participación que corresponda a otras dependencias o entidades;
+3.- Coordinar la información en materia de asistencia social integral y multidisciplinaria en el Estado;
 
-6.- Realizar investigaciones sobre las causas y efectos de los problemas prioritarios de asistencia social; y
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2011)</small>
 
-7.- Los demás que le otorgan la Ley de Salud y la Ley Orgánica del Sistema para el Desarrollo Integral de la Familia del Estado de Quintana Roo.
+4.- Coordinar a través de los acuerdos y convenios respectivos, en el marco del Plan Estatal de Desarrollo, la prestación y promoción de los servicios de salud en materia de asistencia social integral y multidisciplinaria;
+
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+5.- Concertar acciones con los sectores social y privado, mediante convenios y contratos en que se regule la prestación y promoción de los servicios de salud en materia de asistencia social integral y multidisciplinaria, con la participación que corresponda a otras dependencias o entidades;
+
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+6.- Realizar investigaciones sobre las causas y efectos de los problemas prioritarios de asistencia social integral y multidisciplinaria, así como de los problemas de la familia, etiología y comportamiento de la violencia familiar;
+
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+7.- Proponer al Ejecutivo iniciativas tendientes a la protección del menor, la mujer, del adulto mayor y de personas con alguna discapacidad; y
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+8.- Las demás que le otorgue la Ley de Salud y la Ley Orgánica del Sistema para el Desarrollo Integral de la Familia del Estado de Quintana Roo.
 
 ### CAPITULO II
 
@@ -243,9 +371,11 @@ El Sistema para el Desarrollo Integral de la Familia del Estado de Quintana Roo,
 
 Cuando en esta Ley se haga mención al Organismo, se entenderá hecha al Sistema para el Desarrollo Integral de la Familia del Estado de Quintana Roo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE FEBRERO DE 2011)</small>
+
 ###### ARTICULO 20.
 
-La Secretaría de Salud del Estado, directamente o a través del Organismo, celebrará acuerdos y concertará acciones con los sectores público, social y privado del Estado, con objeto de favorecer prioritariamente a los grupos sociales más vulnerables, con la prestación de los servicios de salud en materia de asistencia social pública y privada; asimismo, promoverá la celebración de convenios entre los tres niveles de gobierno, a fin de:
+La Secretaría de Salud del Estado, directamente o a través del Organismo, celebrará acuerdos y concertará acciones con los sectores público, social y privado del Estado, con objeto de favorecer prioritariamente a los grupos sociales que se encuentren en estado de riesgo, con la prestación de los servicios de salud en materia de asistencia social pública y privada integral y multidisciplinaria; asimismo, promoverá la celebración de convenios entre los tres niveles de gobierno, a fin de:
 
 I.- Establecer programas conjuntos.
 
@@ -257,23 +387,31 @@ IV.- Procurar la integración y fortalecimiento de los regímenes de Asistencia 
 
 V.- Consolidar los apoyos a los patrimonios de la Asistencia Social de los Municipios.
 
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
 ###### ARTICULO 21.
 
-La Secretaría de Salud del Estado, directamente o por conducto del Organismo, en el marco del Convenio Único de Desarrollo, podrá pactar con los Gobiernos Federal y Municipales, las acciones que tengan por objeto promover e impulsar la prestación de los servicios de salud en materia de Asistencia Social, así como el establecimiento de los mecanismos idóneos que permitan una interrelación sistemática, a fin de conocer las demandas de servicios básicos de salud relativos a la Asistencia Social para los grupos sociales vulnerables y coordinar su oportuna atención.
+La Secretaría de Salud del Estado, directamente o por conducto del Organismo, en el marco del Convenio Único de Desarrollo, podrá pactar con los Gobiernos Federal y Municipales, las acciones que tengan por objeto promover e impulsar la prestación de los servicios de salud en materia de Asistencia Social integral y multidisciplinaria, así como el establecimiento de los mecanismos idóneos que permitan una interrelación sistemática, a fin de conocer las demandas de servicios básicos de salud relativos a la Asistencia Social integral y multidisciplinaria para los grupos sociales que se encuentren en estado de riesgo y coordinar su oportuna atención.
+
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2011)</small>
 
 ###### ARTICULO 22.
 
-El Organismo, con el objeto de ampliar la cobertura de los servicios de asistencia social fincados en la solidaridad ciudadana, promoverá en todo el Estado la creación de Instituciones de asistencia social privada, fundaciones y otros similares, los que con sus propios recursos o liberalidades de cualquier naturaleza que aporte la sociedad en general y con sujeción a los ordenamientos que los rijan, prestarán dichos servicios.
+El Organismo, con el objeto de ampliar la cobertura de los servicios de asistencia social integral y multidisciplinaria fincados en la solidaridad ciudadana, promoverá en todo el Estado la creación de Instituciones de asistencia social privada, fundaciones y otros similares, los que con sus propios recursos o liberalidades de cualquier naturaleza que aporte la sociedad en general y con sujeción a los ordenamientos que los rijan, prestarán dichos servicios.
 
-En todo caso, la Secretaría de Salud del Estado, emitirá las normas técnicas que dichas instituciones deberán observar en la prestación de los servicios de salud en materia de asistencia social. EI Organismo les prestará asesoría técnica necesaria y los apoyos conducentes.
+En todo caso, la Secretaría de Salud del Estado, emitirá las normas técnicas que dichas instituciones deberán observar en la prestación de los servicios de salud en materia de asistencia social. En concordancia a lo que señale las leyes del Estado en materia de violencia de género e igualdad. El Organismo les prestará asesoría técnica necesaria y los apoyos conducentes.
+
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2011)</small>
 
 ###### ARTICULO 23.
 
-El Organismo promoverá ante las autoridades correspondientes el otorgamiento de estímulos fiscales, para inducir acciones de asistencia social.
+El Organismo promoverá ante las autoridades correspondientes el otorgamiento de estímulos fiscales, para inducir acciones de asistencia social integral y multidisciplinaria.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE FEBRERO DE 2011)</small>
 
 ###### ARTICULO 24.
 
-El Gobierno del Estado, a través del Organismo y en su caso, con la intervención de otras dependencias y entidades competentes, propiciará la concertación de acciones en materia de asistencia social, con los sectores social y privado, mediante la celebración de convenios y contratos, los cuales se ajustarán a las bases siguientes:
+El Gobierno del Estado, a través del Organismo y en su caso, con la intervención de otras dependencias y entidades competentes, propiciará la concertación de acciones en materia de asistencia social integral y multidisciplinaria, con los sectores social y privado, favoreciendo aquellas que aceleren la igualdad entre mujeres y hombre entre otras, mediante la celebración de convenios y contratos, los cuales se ajustarán a las bases siguientes:
 
 I.- Definición de responsabilidades que asuman los suscriptores del convenio;
 
@@ -319,9 +457,11 @@ IV.- Las entidades y dependencias federales y estatales, así como los organismo
 
 V.- El propio Organismo a que se refiere esta Ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE FEBRERO DE 2011)</small>
+
 ###### ARTICULO 28.
 
-El Sistema Estatal de Asistencia Social contará con un Consejo el cual fungirá como órgano colegiado de coordinación, concertación, asesoría y consulta, para propiciar y organizar la participación de instituciones prestadoras de asistencia social.
+El Sistema Estatal de Asistencia Social contará con un Consejo el cual fungirá como órgano colegiado de coordinación, concertación, asesoría y consulta, para propiciar y organizar la participación de instituciones prestadoras de asistencia social integral y multidisciplinaria, dicho Consejo coordinara sus actividades con el Sistema Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres, en lo referente a la atención de las víctimas de la violencia de género.
 
 ###### ARTICULO 29.
 
@@ -339,11 +479,19 @@ Los cargos serán honoríficos, y para el desempeño de sus funciones el Consejo
 
 El Consejo tendrá las siguientes atribuciones:
 
-I.- Contribuir a la formulación del Programa Estatal de Asistencia Social, así como la aplicación y vigilancia de las estrategias y acciones que de él deriven;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2011)</small>
 
-II.- Proponer políticas, programas, estudios y acciones específicas para la atención, protección e integración social de los sujetos de asistencia, con atención preferente a las regiones menos desarrolladas y a los grupos más vulnerables;
+I.- Contribuir a la formulación del Programa Estatal de Asistencia Social así como la aplicación y vigilancia de las estrategias y acciones que de él deriven;
 
-III.- Instrumentar métodos de registro obligatorios para cada uno de los integrantes del Sistema Estatal de Asistencial Social, en los que harán constar de manera secuencial los avances de la presentación, así como estado progresivo de los sujetos de asistencia social, de los cuales se integrará un expediente, ya sea individual, de grupo o por región.
+El programa aludido, considerará las estrategias y líneas de acción que estén señaladas en el Programa Estatal Integral para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres.
+
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2011)</small>
+
+II.- Proponer políticas, programas, estudios y acciones específicas para la atención, protección e integración social de los sujetos de asistencia, con atención preferente a las regiones menos desarrolladas y a los grupos que se encuentre en estado de riesgo;
+
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2011)</small>
+
+III.- Instrumentar métodos de registro obligatorio para cada uno de los integrantes del Sistema Estatal de Asistencial Social, en los que harán constar de manera secuencial los avances de la presentación, así como el estado progresivo de los sujetos de asistencia social integral y multidisciplinaria, de los cuales se integrará un expediente, ya sea individual, de grupo o por región;
 
 IV.- Proponer modificaciones a leyes, reglamentos y procedimientos estatales y municipales para mejorar la prestación de los servicios, así como favorecer el reconocimiento y el ejercicio de los derechos de los sujetos de la asistencia.
 
@@ -1346,3 +1494,13 @@ ING. MARIO E. VILLANUEVA MADRID
 EL C. SECRETARIO GENERAL DE GOBIERNO
 
 PROFR. RAUL O. SANTANA BASTARRACHEA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 10 DE FEBRERO DE 2011.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+T R A N S I T O R I O:
+
+ÚNICO.- Publíquese el presente Decreto en el Periódico Oficial del Estado de Quintana Roo.
