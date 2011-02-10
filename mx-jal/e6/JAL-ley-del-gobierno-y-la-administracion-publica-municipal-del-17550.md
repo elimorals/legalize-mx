@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-gobierno-y-la-administracion-publica-municipal-del-1755
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-05"
-last_updated: "2011-02-03"
+last_updated: "2011-02-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17550&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "JAL"
 ---
 # LEY DEL GOBIERNO Y LA ADMINISTRACION PUBLICA MUNICIPAL DEL ESTADO DE JALISCO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE MARZO DE 2011 EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DEL GOBIERNO Y LA ADMINISTRACION PUBLICA MUNICIPAL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE FEBRERO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE FEBRERO DE 2011.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 5 de octubre de 2000.
 
@@ -907,9 +905,11 @@ VI. Los ordenamientos municipales pueden reformarse, modificarse, adicionarse, d
 
 VII. Los Ayuntamientos deben mandar una copia de los ordenamientos municipales y sus reformas al Congreso del Estado, para su compendio en la biblioteca del Poder Legislativo.
 
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 43.
 
-Los ordenamientos municipales de carácter general, en los términos de la Constitución Política del Estado de Jalisco y de la legislación en la materia, pueden ser sometidos a referéndum derogatorio, total o parcial, siempre y cuando, dentro de los treinta días siguientes a la fecha de su publicación lo solicite ante el Consejo Electoral del Estado, el cinco por ciento de los ciudadanos inscritos en el Registro Nacional de Ciudadanos en el Municipio de que se trate, cuyo número de habitantes sea inferior a trescientos mil; en los que excedan de esa cifra, basta con que lo solicite un tres por ciento de los ciudadanos inscritos.
+Los ordenamientos municipales de carácter general, en los términos de la Constitución Política del Estado de Jalisco y de la legislación en la materia, pueden ser sometidos a referéndum derogatorio, total o parcial, siempre y cuando, dentro de los treinta días siguientes a la fecha de su publicación lo solicite ante el Instituto Electoral y de Participación Ciudadana del Estado, en (sic) cinco por ciento de los ciudadanos inscritos en el Registro Nacional de Ciudadanos en el municipio de que se trate, cuyo número de habitantes sea inferior a trescientos mil; en los que excedan de esa cifra, basta con que lo soliciten tres por ciento de los ciudadanos inscritos.
 
 ###### Artículo 44.
 
@@ -2848,5 +2848,9 @@ DECRETO No. 23084/LVIII/09 POR EL QUE SE REFORMA EL ARTICULO 79 DE LA LEY DEL GO
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
 P.O. 3 DE FEBRERO DE 2011.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 10 DE FEBRERO DE 2011.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
