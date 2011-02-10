@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-banco-de-mexico-1152"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-09-30"
-last_updated: "2010-12-22"
+last_updated: "2011-02-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1152&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1994-09-23"
 
 REGLAMENTO INTERIOR DEL BANCO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE FEBRERO DE 2011.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 30 de septiembre de 1994.
 
@@ -437,11 +437,25 @@ ARTICULO 14 BIS.- La Dirección General Jurídica tendrá las atribuciones que s
 
 A esta Dirección General estarán adscritas las Direcciones de Disposiciones de Banca Central y Jurídica.
 
-> <small>(ADICIONADO, D.O.F. 5 DE OCTUBRE DE 2010)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
-ARTICULO 14 BIS 1.- La Dirección General de Asuntos del Sistema Financiero tendrá las atribuciones que se señalan en los artículos 25 Bis 1 y 25 Bis 2.
+> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
 
-A esta Dirección General estarán adscritas las Direcciones de Regulación y Supervisión y de Intermediarios Financieros de Fomento.
+ARTICULO 14 BIS 1.- La Dirección General de Asuntos del Sistema Financiero tendrá, además de las atribuciones que se establecen en este precepto, las que se señalan en los artículos 25 Bis 1 y 25 Bis 2.
+
+A esta Dirección General estarán adscritas la Dirección de Regulación y Supervisión y la Dirección de Intermediarios Financieros de Fomento, así como la Gerencia de Evaluación de Servicios Financieros.
+
+La Gerencia de Evaluación de Servicios Financieros, tendrá las atribuciones siguientes:
+
+I. Elaborar un análisis del impacto esperado de la regulación, cuya expedición esté a cargo del Banco;
+
+II. Participar en el diseño y elaboración de las disposiciones para el sistema financiero que expida el Banco;
+
+III. Analizar los términos en que las instituciones de crédito ofrecen sus servicios al público y evaluar su impacto en la promoción de los servicios financieros y en el sano desarrollo del sistema financiero;
+
+IV. Participar en los procedimientos de registro, formulación de observaciones y veto de comisiones en los términos previstos en la Ley para la Transparencia y Ordenamiento de los Servicios Financieros, y
+
+V. Colaborar en el cumplimiento de la atribución prevista en el artículo 25 Bis 1, fracción III, de este Reglamento.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
@@ -907,7 +921,9 @@ ARTICULO 25 BIS 1.- La Dirección de Regulación y Supervisión tendrá las atri
 
 I. Dar seguimiento y evaluar la regulación y supervisión del sistema financiero, de tal forma que pueda proponer modificaciones a ambas;
 
-II. Elaborar un análisis del impacto esperado de la regulación, cuya expedición esté a cargo del Banco;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+II. (DEROGADA, D.O.F. 10 DE FEBRERO DE 2011)
 
 III. Apoyar a los miembros de la Junta que participen, en representación del Banco, en los órganos de gobierno de las Comisiones Reguladoras del sistema financiero y del Instituto para la Protección al Ahorro Bancario, así como elaborar las propuestas para los mencionados representantes, sobre la posición del propio Banco ante dichos órganos;
 
@@ -921,9 +937,25 @@ VII. Dar seguimiento a las operaciones que hayan realizado los intermediarios fi
 
 VIII. Participar en la imposición de sanciones a los intermediarios financieros, a los administradores de los sistemas de pagos y a las cámaras de compensación;
 
-IX. Analizar los términos en que las instituciones de crédito ofrecen sus servicios al público y evaluar su impacto en la promoción de los servicios financieros y en el sano desarrollo del sistema financiero, y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
-X. Participar en los procedimientos de registro, formulación de observaciones y veto de comisiones en los términos previstos en la Ley para la Transparencia y Ordenamiento de los Servicios Financieros.
+IX. (DEROGADA, D.O.F. 10 DE FEBRERO DE 2011)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+X. (DEROGADA, D.O.F. 10 DE FEBRERO DE 2011)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADA, D.O.F. 10 DE FEBRERO DE 2011)</small>
+
+XI. Coordinar con las Unidades Administrativas responsables de las operaciones, el diseño y funcionamiento de aquellos controles aplicables a las operaciones del propio Banco, así como al manejo de los sistemas de pagos, en que se involucren recursos de origen indeterminado, y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADA, D.O.F. 10 DE FEBRERO DE 2011)</small>
+
+XII. Coordinar con las respectivas Unidades Administrativas competentes la participación del Banco, bajo los términos y para los propósitos señalados en su propia Ley, en los asuntos de prevención de operaciones susceptibles de impactar el sano desarrollo del sistema financiero o el buen funcionamiento de los sistemas de pagos y, para esos efectos, podrá recabar y revisar de dichas Unidades la información con que cuenten o puedan obtener en esta materia.
 
 Lo previsto en las fracciones V a VIII, de este artículo será también aplicable a las sociedades de información crediticia.
 
@@ -1285,9 +1317,13 @@ XI. Verificar que los pagos derivados del ejercicio de los presupuestos de gasto
 
 XII. Acceder a cualquier tipo de información del Banco, incluyendo la clasificada como reservada o confidencial, así como tener acceso de manera directa e irrestricta a todas las áreas, registros, bienes y, en general, a cualquier información del Banco o de los fideicomisos en los que éste tenga el carácter de fiduciario. Lo anterior no aplicará a la información sobre declaración de situación patrimonial de los servidores públicos del Banco, a la referente a procedimientos y procesos en trámite, así como a los expedientes médicos de los mencionados servidores;
 
-XIII. Coordinar con las Unidades Administrativas responsables de las operaciones, el diseño y funcionamiento de aquellos controles aplicables a las operaciones del propio Banco, así como al manejo de los sistemas de pagos, en que se involucren recursos de origen indeterminado, y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
-XIV. Coordinar con las respectivas Unidades Administrativas competentes la participación del Banco, bajo los términos y para los propósitos señalados en su propia Ley, en los asuntos de prevención de operaciones susceptibles de impactar el sano desarrollo del sistema financiero o el buen funcionamiento de los sistemas de pagos y, para esos efectos, podrá recabar y revisar de dichas Unidades la información con que cuenten o puedan obtener en esta materia.
+XIII. (DEROGADA, D.O.F. 10 DE FEBRERO DE 2011)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+XIV. (DEROGADA, D.O.F. 10 DE FEBRERO DE 2011)
 
 > <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2010)</small>
 
@@ -1902,3 +1938,11 @@ CUARTO. La totalidad de los actos jurídicos realizados durante la vigencia de l
 D.O.F. 22 DE DICIEMBRE DE 2010.
 
 UNICO. La presente reforma entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 10 DE FEBRERO DE 2011.
+
+PRIMERO. Las presentes modificaciones al Reglamento Interior del Banco de México, entrarán en vigor el 16 de febrero de 2011.
+
+SEGUNDO. Las referencias a cualquier Unidad Administrativa que en virtud de las presentes modificaciones hayan cambiado sus atribuciones, contenidas en cualquier ordenamiento, deberán entenderse hechas a la Unidad Administrativa que cuente con las atribuciones respectivas.
+
+TERCERO. La totalidad de los actos jurídicos realizados durante la vigencia de los artículos modificados, conservarán todo su valor y fuerza legales.
