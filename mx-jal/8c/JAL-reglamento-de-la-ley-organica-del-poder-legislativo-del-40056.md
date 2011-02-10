@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-la-ley-organica-del-poder-legislativo-del-40056"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-06-19"
-last_updated: "2010-11-20"
+last_updated: "2011-02-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40056&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 REGLAMENTO DE LEY ORGANICA DEL PODER LEGISLATIVO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE NOVIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE FEBRERO DE 2011.
 
 Reglamento publicado en la Sección IV del Periódico Oficial del Estado de Jalisco, el sábado 19 de junio de 2004.
 
@@ -173,7 +173,9 @@ II. Declaratoria de quórum legal; y
 
 III. Asunto que motivo la convocatoria;
 
-2. En las sesiones solemnes se deberá rendir honores a la bandera e interpretar el Himno Nacional.
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+2. En las sesiones solemnes se deberá rendir honores a la Bandera Nacional e interpretar el Himno Nacional; asimismo, se rendirán honores a la Bandera del Estado y se interpretará el Himno del Estado.
 
 ###### Artículo 13.
 
@@ -1473,7 +1475,9 @@ XII. Los demás que le instruya la Asamblea y la Comisión de Hacienda y Presupu
 
 2. Para el caso de responsabilidad administrativa de servidores públicos del Poder Legislativo, la Comisión de Responsabilidades instaura los procedimientos respectivos, con el apoyo de las áreas del Órgano Técnico.
 
-### CAPÍTULO I. DE LAS OBLIGACIONES DE LOS SERVIDORES PÚBLICOS DEL CONGRESO DEL ESTADO
+### CAPÍTULO V. LA UNIDAD DE VIGILANCIA
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 130.
 
@@ -1555,11 +1559,21 @@ IV. Tener experiencia en la realización de Investigaciones; y
 
 V. Acreditar los exámenes que para el efecto se realicen.
 
-### CAPÍTULO II. DEL SERVICIO PROFESIONAL LEGISLATIVO
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 10 DE FEBRERO DE 2011)</small>
+
+### CAPÍTULO I. DE LAS OBLIGACIONES DE LOS SERVIDORES PÚBLICOS DEL CONGRESO DEL ESTADO
+
+###### Artículo 134
+
+Bis.
+
+1. La Unidad es el órgano técnico profesional e interdisciplinario en áreas de derecho, administración, contabilidad, obra pública, evaluación de proyectos, política y social del Congreso del Estado, que auxilia a la Comisión de Vigilancia en su tarea de fiscalización superior y revisión de informes finales de cuenta pública o estados financieros de los sujetos fiscalizables y auditables.
+
+2. En todo lo relacionado con la Unidad de Vigilancia, se estará a lo que señalen la Ley de Fiscalización Superior y Auditoría Pública del Estado de Jalisco, la Ley Orgánica del Poder Legislativo del Estado de Jalisco y su reglamento interno, así como los acuerdos de la Asamblea, de la Junta de Coordinación Política y de la Comisión de Vigilancia del Congreso del Estado de Jalisco.
 
 ## TÍTULO DÉCIMO PRIMERO. DE LOS SERVIDORES PÚBLICOS DEL CONGRESO DEL ESTADO
 
-### CAPÍTULO I. DE LOS MANUALES DE OPERACIÓN
+### CAPÍTULO II. DEL SERVICIO PROFESIONAL LEGISLATIVO
 
 ###### Artículo 135.
 
@@ -1577,7 +1591,7 @@ V. Abstenerse de ostentar su calidad de servidor público del Congreso, en el de
 
 2. El incumplimiento a lo dispuesto en este artículo será sancionado de conformidad con la Ley de Responsabilidades de los Servidores Públicos del Estado.
 
-### CAPÍTULO II. DEL MANEJO DE LOS RECURSOS DEL CONGRESO DEL ESTADO
+### CAPÍTULO I. DE LOS MANUALES DE OPERACIÓN
 
 ###### Artículo 136.
 
@@ -1599,9 +1613,7 @@ c) Considerar el grado académico y la experiencia de los candidatos.
 
 ## TÍTULO DÉCIMO SEGUNDO. DEL FUNCIONAMIENTO ADMINISTRATIVO DEL CONGRESO DEL ESTADO
 
-### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
-
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
+### CAPÍTULO II. DEL MANEJO DE LOS RECURSOS DEL CONGRESO DEL ESTADO
 
 ###### Artículo 138.
 
@@ -1643,7 +1655,7 @@ XI. Estrategia de comunicación; y
 
 XII. Catálogos de formato.
 
-### CAPÍTULO SEGUNDO. DEL FUNCIONAMIENTO
+### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
 
@@ -1667,7 +1679,7 @@ Las bases, criterios y procedimientos de las adquisiciones de bienes, contrataci
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2004)</small>
 
-### CAPÍTULO TERCERO. DE LAS FACULTADES DEL COMITÉ
+### CAPÍTULO SEGUNDO. DEL FUNCIONAMIENTO
 
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
 
@@ -1743,7 +1755,7 @@ II. Los representantes del Consejo Económico Social y la Competitividad por su 
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2004)</small>
 
-### CAPÍTULO CUARTO. DE LA ADQUISICIÓN DE LOS BIENES O SERVICIOS
+### CAPÍTULO TERCERO. DE LAS FACULTADES DEL COMITÉ
 
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
 
@@ -1797,7 +1809,7 @@ VII. Cierre de la sesión.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2004)</small>
 
-### CAPÍTULO QUINTO. DEL PADRÓN DE PROVEEDORES
+### CAPÍTULO CUARTO. DE LA ADQUISICIÓN DE LOS BIENES O SERVICIOS
 
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
 
@@ -1861,7 +1873,7 @@ IV. Las demás que le sean asignadas por el Coordinador o por el propio Comité.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2004)</small>
 
-### CAPÍTULO SEXTO. DE LOS PROCEDIMIENTOS DE ADQUISICIÓN
+### CAPÍTULO QUINTO. DEL PADRÓN DE PROVEEDORES
 
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
 
@@ -1979,7 +1991,7 @@ IV. Entidades públicas federales.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2004)</small>
 
-### CAPÍTULO SÉPTIMO. DE LAS SANCIONES
+### CAPÍTULO SEXTO. DE LOS PROCEDIMIENTOS DE ADQUISICIÓN
 
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
 
@@ -2057,7 +2069,7 @@ IV. No informe oportunamente los cambios en la información proporcionada al mom
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2004)</small>
 
-### CAPÍTULO OCTAVO. DE LA SUSPENSIÓN O CANCELACIÓN DE LAS ADJUDICACIONES
+### CAPÍTULO SÉPTIMO. DE LAS SANCIONES
 
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
 
@@ -2114,6 +2126,10 @@ III. Adjudicación directa: cuyos montos serán aquellos que sean iguales o supe
 1. Los proveedores serán responsables por los defectos, vicios ocultos o falta de calidad en general, en los bienes o servicios o por cualquier otro incumplimiento en que hubieren incurrido en los términos del pedido, de conformidad a los términos establecidos en la fianza presentada.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2004)</small>
+
+### CAPÍTULO OCTAVO. DE LA SUSPENSIÓN O CANCELACIÓN DE LAS ADJUDICACIONES
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 181.
 
@@ -2328,5 +2344,17 @@ P.O. 17 DE AGOSTO DE 2010.
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
 P.O. 20 DE NOVIEMBRE DE 2010.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 10 DE FEBRERO DE 2011.
+
+DECRETO NUMERO 23481/LIX/10, POR EL QUE SE SE ADICIONA EL CAPITULO V Y EL ARTICULO 134 BIS DEL REGLAMENTO DE LA LEY ORGANICA DEL PODER LEGISLATIVO.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 10 DE FEBRERO DE 2011.
+
+DECRETO NUMERO 23485/LIX/10, POR EL QUE SE SE REFORMA EL ARTICULO 12 DEL REGLAMENTO DE LA LEY ORGANICA DEL PODER LEGISLATIVO.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
