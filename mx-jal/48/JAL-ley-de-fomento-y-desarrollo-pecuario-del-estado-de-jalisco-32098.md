@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-fomento-y-desarrollo-pecuario-del-estado-de-jalisco-3209
 country: "mx"
 rank: "ley"
 publication_date: "2003-06-24"
-last_updated: "2005-03-08"
+last_updated: "2011-02-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32098&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE FOMENTO Y DESARROLLO PECUARIO DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE MARZO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE FEBRERO DE 2011.
 
 Ley publicada en la Sección Quinta del Periódico Oficial del Estado de Jalisco, el martes 24 de junio de 2003.
 
@@ -75,11 +75,9 @@ VI. La clasificación, selección y etiquetado de la calidad de carnes en canal,
 
 VII. El control de la producción, comercialización y transporte de alimentos, forrajes, concentrados o aditivos destinados al consumo de las especies domésticas productivas pecuarias;
 
-VIII. El control y regulación de los productos biológicos, químicos, aditivos alimenticios o no alimenticios y farmacéuticos para uso animal o para el consumo de estos, que puedan afectar la salud animal y/o humana, y
-
 > <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2004)</small>
 
-VIII. El control y regulación de los productos biológicos, químicos, aditivos alimenticios o no alimenticios y farmacéuticos para el uso animal o para el consumo de éstos, que puedan afectar la salud animal y/o humana;
+VIII. El control y regulación de los productos biológicos, químicos, aditivos alimenticios o no alimenticios y farmacéuticos para el uso animal o para el consumo de estos, que puedan afectar la salud animal y/o humana;
 
 > <small>(ADICIONADA, P.O. 23 DE OCTUBRE DE 2004)</small>
 
@@ -257,7 +255,7 @@ XXX. Otorgar, a través del inspector de ganadería, las órdenes de sacrificio 
 
 XXXI. Gestionar ante las instituciones de crédito oficiales y privadas, el acceso y otorgamiento de financiamiento a los productores pecuarios;
 
-XXXII. Reglamentar el sistema de clasificación y selección de canales, cortes y procesados de las especies domésticas productivas, en concordancia con las normas oficiales mexicanas y normas mexicanas respectivas;
+XXXII. Reglamentar el sistema de clasificación y selección de canales, cortes y procesados de las especies domesticas productivas, en concordancia con las normas oficiales mexicanas y normas mexicanas respectivas;
 
 XXXIII. Vigilar y aplicar, en coordinación con la Secretaría de Salud, las disposiciones relacionadas con la inocuidad de los alimentos de origen animal, la selección y clasificación de los elementos o ingredientes que se utilicen para el consumo animal, así como la aplicación de prácticas de registro y etiquetado en todos los productos y subproductos;
 
@@ -465,13 +463,21 @@ V. Fundación Produce Jalisco A.C.;
 
 VI. Fondo Contingente Fiebre Porcina Clásica de Jalisco S.C.;
 
-V. El Consejo para el Fomento de la Calidad de la Leche y sus Derivados A.C. (COFOCALEC);
+(F. DE. E., P.O. 16 DE DICIEMBRE DE 2003)
 
-VI. Las instituciones educativas, técnicas y de investigación;
+VII. El Consejo para el Fomento de la Calidad de la Leche y sus Derivados A.C. (COFOCALEC);
 
-VII. El Colegio de médicos veterinarios zootecnistas y de ingenieros agrónomos; y
+(F. DE. E., P.O. 16 DE DICIEMBRE DE 2003)
 
-VIII. Los demás que determine la Secretaría.
+VIII. Las instituciones educativas, técnicas y de investigación;
+
+(F. DE. E., P.O. 16 DE DICIEMBRE DE 2003)
+
+IX. El Colegio de médicos veterinarios zootecnistas y de ingenieros agrónomos; y
+
+(F. DE. E., P.O. 16 DE DICIEMBRE DE 2003)
+
+X. Los demás que determine la Secretaría.
 
 ### CAPÍTULO V. Del Ejercicio de la Actividad Pecuaria y Clasificación de
 
@@ -559,11 +565,11 @@ I. El registro contendrá los siguientes datos:
 
 a) Nombre, domicilio y teléfono particular, código postal, ubicación del predio, la especie productiva doméstica a registrar, el medio o medios de identificación registrados, y en forma opcional, el registro federal de causantes del propietario, así como la cédula única de identificación poblacional CURP; y
 
-b) Fecha de inscripción y demás datos que faciliten la identificación del ganado;
+b) Fecha de inscripción y demás datos que faciliten la identificación del ganado; y
 
-> <small>(ADICIONADA, P.O. 8 DE MARZO DE 2005)</small>
+> <small>(ADICIONADO, P.O. 8 DE MARZO DE 2005)</small>
 
-c) Nombre y domicilio del beneficiario o beneficiarios, en caso de que el productor pecuario designe sucesores de su patente, y con ello generara la transmisión de la titularidad de dicho ganado al beneficiario o beneficiarios designados.
+c) Nombre y domicilio del beneficiario o beneficiarios, en caso de que el productor pecuario designe sucesores de su patente, y con ello generará la transmisión de la titularidad de dicho ganado al beneficiario o beneficiarios designados.
 
 La designación también se podrá hacer ante notario público, en cualquier momento.
 
@@ -767,11 +773,23 @@ l) Número del folio del certificado zoosanitario emitido por la autoridad sanit
 
 II. Todos los animales que se introduzcan vivos al Estado, sus productos y subproductos, deberán cumplir con los requisitos sanitarios que establece la normatividad federal y comprobar, mediante la presentación de los certificados correspondientes, que se encuentran libres de enfermedades, en proceso de erradicación o las declaradas como libres dentro del Estado;
 
-III. Todos los productos y subproductos, ya sea que se encuentren en canal, en piezas, empacados en cajas, en pastas o procesados, deberán pasar por los puntos de verificación zoosanitarios que se encuentran localizados en el interior y zonas limítrofes del Estado, no se podrán movilizar o comercializar sin la comprobación correspondiente, y
+III. Todos los productos y subproductos, ya sea que se encuentren en canal, en piezas, empacados en cajas, en pastas o procesados, deberán pasar por los puntos de verificación zoosanitarios que se encuentran localizados en el interior y zonas limítrofes del Estado, no se podrán movilizar o comercializar sin la comprobación correspondiente, y; (sic)
 
 IV. La movilización de las especies domésticas productivas, productos y subproductos que por su volumen tengan que transportarse en dos o más unidades, requerirá cada una de ellas de guía de tránsito, del documento de transmisión de propiedad o factura y de certificados zoosanitarios por separado, cumpliendo los requisitos del presente artículo.
 
 V. En caso de que el vehículo en tránsito sufra daño mecánico, volcadura u otras causas que impidan la movilización señalada en la fracción anterior, el conductor deberá dar aviso inmediato al punto de verificación zoosanitario más cercano para que éste conozca de los hechos.
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 50
+
+Bis.- En el caso de movilización de ganado equino, mular o asnal cuyo propósito sea trabajo, deporte y espectáculo, la Secretaría emitirá una tarjeta de tránsito pecuario individual, con fines exclusivos de permitir su movilización en el interior del estado de Jalisco, de manera optativa en sustitución del documento de guía de tránsito, la cual contendrá la reseña detallada de las particularidades del animal y otro tipo de imágenes que para tal efecto se especifiquen en el reglamento de esta ley, así como los datos del propietario. Dicha tarjeta será expedida en apego a los requisitos que dicho reglamento establezca y el pago de derechos que por este concepto contemple la Ley de Ingresos del Estado vigente, no teniendo validez para la acreditación de la legal propiedad del animal respectivo.
+
+Dicha tarjeta tendrá vigencia de dos años y deberá renovarse al término de la misma o cuando hubiere un cambio de propietario o modificación sustancial en las características del animal; podrá cancelarse por infracciones graves a esta ley o su reglamento, sin concurso de las demás sanciones que merezca la falta.
+
+En caso de movilizarse fuera del estado de Jalisco, deberá acatarse lo dispuesto por la legislación aplicable en la jurisdicción de los estados de tránsito y destino.
+
+La Secretaría podrá restringir lo dispuesto en el presente artículo por el tiempo que considere conveniente únicamente por motivos de sanidad, dictando el acuerdo correspondiente, en el que funde y motive la causa temporal de la medida y divulgándola públicamente.
 
 ###### Artículo 51.
 
@@ -1339,9 +1357,13 @@ III. A los dueños de saladeros, curtidurías, talabarterías, textiles y demás
 
 IV. Al transportador de cualquier especie doméstica productiva que no se detenga para su revisión correspondiente en los puntos de verificación zoosanitaria, se le impondrá una multa equivalente de cien a doscientos días de salario mínimo;
 
-V. A quien se le detenga con animales orejanos (sic) o mostrencos sin la autorización correspondiente, se hará acreedor a una multa equivalente de cien a trescientos días de salario mínimo;
+V. A quien se le detenga con animales orejanos o mostrencos sin la autorización correspondiente, se hará acreedor a una multa equivalente de cien a trescientos días de salario mínimo;
 
-VI. A quien transporte ganado menor sin ampararse con la guía de tránsito correspondiente, se hará acreedor a una multa equivalente de cien a doscientos días de salario mínimo; dicha multa se aumentará a doscientos cincuenta días de salario mínimo en el caso de ganado mayor;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2011)</small>
+
+VI. Quien transporte ganado menor sin ampararse con la guía de tránsito correspondiente, se hará acreedor a una multa equivalente de cinco a diez días de salario mínimo por cabeza de ganado bovino, de acuerdo con las equivalencias señaladas en el artículo 31 de la presente ley.
+
+En caso de movilización de ganado mayor sin la correspondiente tarjeta de tránsito pecuario individual o guía de tránsito respectiva, dicha multa será de diez a veinte días de salario mínimo por cabeza;
 
 VII. Al que transporte productos y subproductos de origen pecuario sin guía de tránsito o no haga alto obligatorio en cualquier punto de verificación zoosanitario, se le impondrá una multa equivalente de doscientos a quinientos días de salario mínimo;
 
@@ -1464,3 +1486,11 @@ P.O. 8 DE MARZO DE 2005.
 PRIMERO. Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 SEGUNDO. La Secretaría de Desarrollo Rural deberá promover la actualización de los datos en los registros ganaderos para incluir la designación de los beneficiarios de la patente.
+
+P.O. 10 DE FEBRERO DE 2011.
+
+PRIMERO. El presente decreto entrará en vigor a los noventa días siguientes a partir de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. El Poder Ejecutivo del Estado deberá actualizar sus reglamentos y efectuar las adecuaciones técnicas necesarias a efecto de estar en condiciones de aplicar la presente reforma previo al inicio de su vigencia.
+
+TERCERO. Se autoriza a la Secretaría de Finanzas a realizar todas las adecuaciones presupuestales necesarias para el debido cumplimiento del presente decreto.
