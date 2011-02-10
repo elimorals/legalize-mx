@@ -4,7 +4,7 @@ identifier: "ROO-codigo-de-procedimientos-civiles-para-el-estado-libre-y-9895"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-01-08"
-last_updated: "2010-12-10"
+last_updated: "2011-02-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9895&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE FEBRERO DE 2011.
 
 Código publicado en el Periódico Oficial del Estado de Quintana Roo, el jueves 8 de enero de 1981.
 
@@ -579,7 +579,7 @@ Si el caso exige mayor sanción, se dará parte a la autoridad competente.
 
 ###### Artículo 90.
 
-A toda demanda o contestación deberá acompañarse necesariamente: 1o. El poder que acredite la responsabilidad del que comparece en nombre de otro; 2o. El documento o documentos que acrediten el carácter con el que el litigante se presente en juicio en el caso de tener representación legal de alguna persona o corporación o cuando el derecho que reclame provenga de habérsele transmitido por otra persona; 3o. Copia del escrito y de los documentos para correr traslado a la contraparte, pudiendo ser en papel común, fotostática o cualquiera otra, siempre que sea legible.
+A toda demanda o contestación deberá acompañarse necesariamente: 1o. El poder que acredite la personalidad del que comparece en nombre de otro; 2o. El documento o documentos que acrediten el carácter con el que el litigante se presente en juicio en el caso de tener representación legal de alguna persona o corporación o cuando el derecho que reclame provenga de habérsele transmitido por otra persona; 3o. Copia del escrito y de los documentos para correr traslado a la contraparte, pudiendo ser en papel común, fotostática o cualquiera otra, siempre que sea legible.
 
 ###### Artículo 91.
 
@@ -1427,7 +1427,7 @@ Lo mismo se hará cuando el árbitro nombrado en el compromiso renunciare y no h
 
 ###### Artículo 222.
 
-Con el acta de la junta a que se refieren los artículos anteriores, se iniciarán las labores del árbitro, emplazando a las partes como se determina en el título décimosexto.
+Con el acta de la junta a que se refieren los artículos anteriores, se iniciarán las labores del árbitro, emplazando a las partes como se determina en el título decimosexto.
 
 ### CAPITULO V. De los preliminares de la consignación
 
@@ -1571,17 +1571,23 @@ Cuando la providencia precautoria se dicte por un juez que no sea el que deba co
 
 ### CAPITULO VII. De los Alimentos
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
 ###### Artículo 254.
 
-Tratándose de alimentos ya sea que se deban por contrato, por testamento, por disposición de la ley o por cualquier otra causa podrán solicitarse provisionalmente desde el escrito inicial, mientras se resuelva el juicio.
+(DEROGADO, P.O. 10 DE FEBRERO DE 2011)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
 
 ###### Artículo 255.
 
-El juez los fijará a petición del acreedor, sin audiencia del deudor y mediante la información que estime necesaria.
+(DEROGADO, P.O. 10 DE FEBRERO DE 2011)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
 
 ###### Artículo 256.
 
-La inconformidad del deudor sobre la resolución o disposiciones decretadas, se tramitará en forma incidental, siendo apelable la resolución que se dicte en el efecto devolutivo.
+(DEROGADO, P.O. 10 DE FEBRERO DE 2011)
 
 DEL JUICIO EN GENERAL
 
@@ -4387,53 +4393,71 @@ Divorcio por mutuo consentimiento
 
 ### CAPITULO UNICO
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
 ###### Artículo 645.
 
-Cuando ambos consortes convengan en divorciarse, en los términos del último párrafo del Artículo 803 del Código Civil, deberán ocurrir al Tribunal competente presentando el convenio que se exige en el Artículo 804 del Código citado, así como una copia certificada del acta de matrimonio y de las de nacimiento de los hijos menores.
+(DEROGADO, P.O. 10 DE FEBRERO DE 2011)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
 
 ###### Artículo 646.
 
-Hecha la solicitud, citará el Tribunal a los cónyuges y al representante del Ministerio Público, a una junta en la que se identificarán plenamente, que se efectuará después de los ocho y antes de los quince días siguientes, y si asistieren los interesados lo (sic) exhortará para procurar su reconciliación. Si no logra avenirlos, aprobará provisionalmente oyendo al representante del Ministerio Público, los puntos del convenio relativos a la situación de los hijos menores o incapacitados, a la separación de los cónyuges y a los alimentos de aquéllos y de los que un cónyuge deba dar a otro mientras dura el procedimiento, dictando las medidas necesarias de aseguramiento.
+(DEROGADO, P.O. 10 DE FEBRERO DE 2011)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
 
 ###### Artículo 647.
 
-Si insistieren los cónyuges en su propósito de divorciarse, citará el Tribunal a una segunda junta de avenencia que se efectuará después de los ocho y antes de los quince días de solicitada; y en ella volverá a exhortar a aquéllos con el propio fin que en el anterior. Si tampoco se lograre la reconciliación y en el convenio quedaren bien garantizados los derechos de los hijos menores o incapacitados, el Tribunal, oyendo el parecer del representante del Ministerio Público sobre este punto, dictará sentencia en que quedará disuelto el vínculo matrimonial y decidirá sobre el convenio presentado.
+(DEROGADO, P.O. 10 DE FEBRERO DE 2011)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
 
 ###### Artículo 648.
 
-El cónyuge menor de edad necesita de un tutor especial para poder solicitar el divorcio por mutuo consentimiento.
+(DEROGADO, P.O. 10 DE FEBRERO DE 2011)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
 
 ###### Artículo 649.
 
-Los cónyuges no pueden hacerse representar por mandatario en las juntas a que se refieren los Artículos 646 y 647, sino que deben comparecer personalmente y, en su caso, acompañados del tutor especial.
+(DEROGADO, P.O. 10 DE FEBRERO DE 2011)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
 
 ###### Artículo 650.
 
-En cualquier caso en que los cónyuges dejaren pasar más de tres meses sin continuar el procedimiento, el Tribunal declarará sin efecto la solicitud y mandará archivar el expediente.
+(DEROGADO, P.O. 10 DE FEBRERO DE 2011)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
 
 ###### Artículo 651.
 
-En caso de que el Ministerio Público se oponga a la aprobación del convenio, por considerar que viola los derechos de los hijos o que no quedan bien garantizados, propondrá las modificaciones que estime procedentes y el Tribunal lo hará saber a los cónyuges para que dentro de los tres días manifiesten si aceptan las modificaciones.
+(DEROGADO, P.O. 10 DE FEBRERO DE 2011)
 
-En caso de que no las acepten, el Tribunal resolverá en la sentencia lo que proceda con arreglo a la ley, cuidando de que en todo caso queden debidamente garantizados los derechos de los hijos.
-
-Cuando el convenio no fuere de aprobarse, no podrá decretarse la disolución del matrimonio.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
 
 ###### Artículo 652.
 
-Cuando exista planteado el Juicio de Divorcio contencioso y antes de la citación a las partes para oír la sentencia definitiva en el negocio, mediante la intervención del buen criterio del Juez, podrán las partes convertirlo en voluntario, debiéndose cumplir con todos los requisitos que dicho procedimiento exige, excepto las juntas de avenimiento, pues el Juez una vez oídas las partes, que le presentarán el convenio de Ley y la forma de garantizar alimentos en su caso y previa vista que se dé al C. Agente del Ministerio Público, citará para oír resolución, misma que tendrá la forma y efectos de sentencia de divorcio voluntario.
+(DEROGADO, P.O. 10 DE FEBRERO DE 2011)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
 
 ###### Artículo 653.
 
-Si alguna de las partes no cumple con la exigencia de firmar el convenio u otorgar la garantía correspondiente, en el término de diez días a partir de la diligencia donde se inició la conversión de divorcio contencioso en voluntario, se sobreseerán las actuaciones tendientes a solucionar en forma voluntaria la controversia y se continuará en todas sus partes con el divorcio necesario, sin que se presuma la existencia de perdón por cualquiera de las partes. Igual sobreseimiento existirá, si se deja de actuar más de tres meses, una vez hecha la conversión.
+(DEROGADO, P.O. 10 DE FEBRERO DE 2011)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
 
 ###### Artículo 654.
 
-La Sentencia que decrete el Divorcio por mutuo consentimiento, es apelable en el efecto devolutivo. La que lo niegue es apelable en ambos efectos.
+(DEROGADO, P.O. 10 DE FEBRERO DE 2011)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
 
 ###### Artículo 655.
 
-Ejecutoriada la sentencia de divorcio, el Tribunal mandará remitir copia de ella al Oficial del Registro Civil de su Jurisdicción, al del lugar en que el matrimonio se efectuó, para los efectos de los artículos 654 y 665 del Código Civil.
+(DEROGADO, P.O. 10 DE FEBRERO DE 2011)
 
 TITULO DECIMOSEXTO
 
@@ -5651,47 +5675,53 @@ Los tutores no pueden ser removidos ni excusarse por acto de jurisdicción volun
 
 ### CAPITULO III. De la enajenación de bienes de menores o incapacitados y transacción acerca de sus derechos
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
 ###### Artículo 856.
 
-Será necesaria licencia judicial para la venta de los bienes que pertenecen exclusivamente a menores o incapacitados y correspondan a las clases siguientes: 1o.- Bienes raíces; 2o.- Derechos reales sobre inmuebles; 3o.- Alhajas y muebles preciosos; 4o.- Acciones de compañías industriales y mercantiles, cuyo valor exceda de cinco mil pesos.
+(DEROGADO, P.O. 10 DE FEBRERO DE 2011)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
 
 ###### Artículo 857.
 
-Para decretar la venta de bienes, se necesita que al pedirse se expresen el motivo de la enajenación y el objeto a que deba aplicarse la suma que se obtenga, y que se justifique la absoluta necesidad o la evidente utilidad de la enajenación.
+(DEROGADO, P.O. 10 DE FEBRERO DE 2011)
 
-Si fuere el tutor quien solicitare la venta debe proponer al hacer la promoción, las bases de la venta en cuanto a la cantidad que deba darse de contado, el plazo, interés y garantías del remanente.
-
-La solicitud del tutor se substanciará en forma de incidente con el Ministerio Público y la sentencia que se dictare es apelable en ambos efectos. Los peritos que se designen para hacer el avalúo serán nombrados por el juez; y en ningún caso se concederá la autorización solicitada, si el precio ofrecido es inferior al valor comercial.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
 
 ###### Artículo 858.
 
-Respecto de las alhajas y muebles preciosos, el juez determinará si conviene o no la venta; atendiendo en todo a la utilidad que resulte al menor; si se decreta la venta, ésta se hará conforme al Artículo 551.
+(DEROGADO, P.O. 10 DE FEBRERO DE 2011)
 
-El remate de los inmuebles se hará conforme a los Artículos 519 y siguientes y en él no podrá admitirse postura que baje de las dos terceras partes del avalúo pericial, ni la que no se ajuste a los términos de la autorización judicial.
-
-Si en la primera almoneda no hubiere postor el Juez convocará a solicitud del tutor, a una junta dentro del tercer día, para ver si son de modificarse o no las bases del remate, señalándose nuevamente las almonedas que fueren necesarias.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
 
 ###### Artículo 859.
 
-Para la venta de acciones y títulos de renta se concederá la autorización sobre la base de que no se hagan por menor valor del que se cotice en la plaza el día de la venta y por conducto de corredor titulado, y si no lo hay, de comerciante establecido y acreditado.
+(DEROGADO, P.O. 10 DE FEBRERO DE 2011)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
 
 ###### Artículo 860.
 
-El precio de la venta se depositará en el establecimiento destinado al efecto. El juez, oyendo al tutor y al Ministerio Público, decidirá la inversión del precio de la enajenación, la que siempre se hará en una institución de crédito.
+(DEROGADO, P.O. 10 DE FEBRERO DE 2011)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
 
 ###### Artículo 861.
 
-Para la venta de los bienes inmuebles del hijo o de los muebles preciosos, requerirán los que ejercen la patria potestad la autorización judicial en los mismos términos que los señalados en el Artículo 857. El incidente se substanciará con el Ministerio Público y con un tutor especial que para el efecto nombre el juez desde las primeras diligencias.
+(DEROGADO, P.O. 10 DE FEBRERO DE 2011)
 
-Bajo las mismas condiciones podrán gravar los padres los bienes inmuebles de sus hijos o consentir la extinción de derechos reales.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
 
 ###### Artículo 862.
 
-Para recibir dinero prestado en nombre del menor o incapacitado necesitará el tutor de la autorización judicial.
+(DEROGADO, P.O. 10 DE FEBRERO DE 2011)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
 
 ###### Artículo 863.
 
-Lo dispuesto en los Artículos que preceden se aplicará al gravamen y enajenación de los bienes de ausentes, así como a la transacción y arrendamiento por más de cinco años de bienes de ausentes e incapacitados.
+(DEROGADO, P.O. 10 DE FEBRERO DE 2011)
 
 ### CAPITULO IV. Adopción
 
@@ -5971,6 +6001,12 @@ Ter.- Los incidentes se decidirán con un escrito de cada parte y sin suspensió
 
 En todo lo no previsto regirán las reglas generales de este Código en cuanto no se opongan a las disposiciones del presente capítulo.
 
+### CAPÍTULO I. DISPOSICIONES GENERALES
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 888.
 
 Se tramitará en la forma de incidente que habrá de seguirse con el Ministerio Público en todo caso:
@@ -5996,6 +6032,1088 @@ En los casos de los dos artículos anteriores no son necesarias formalidades de 
 ###### Artículo 891.
 
 En todos estos casos se le dará intervención al Ministerio Público.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TITULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO CON LOS CAPITULOS, SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 10 DE FEBRERO DE 2011)</small>
+
+## TÍTULO VIGÉSIMO PRIMERO. PROCEDIMIENTO ORAL
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 10 DE FEBRERO DE 2011)</small>
+
+### CAPÍTULO II. PRUEBAS
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 892.
+
+Se sujetarán al procedimiento oral:
+
+I.- Las controversias que se susciten con motivo de alimentos, y convivencia de menores, cuando éstas constituyan el objeto de la acción principal;
+
+II.- Las solicitudes de divorcio por mutuo consentimiento;
+
+III.- Los actos de jurisdicción que versen sobre enajenación de bienes de menores o incapacitados y transacción acerca de sus derechos, y la adopción;
+
+IV.- Las acciones de divorcio establecidas en las fracciones I, II, VI, IX, X, XIV, XX y XXI del Artículo 799 del Código Civil, siempre que no se hagan valer con alguna diversa de éstas; y
+
+5
+
+V.- Las rectificaciones de actas del estado civil.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 893.
+
+El procedimiento oral se realizará fundamentalmente con base en los principios de oralidad, inmediación, publicidad, contradicción, concentración y continuidad. En lo no previsto en este Título, y en cuanto no se oponga a lo dispuesto por el mismo, se aplicarán las disposiciones comunes de este Código.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 894.
+
+Salvo lo dispuesto en este Título, las promociones de las partes deberán formularse oralmente durante las audiencias, debiendo desecharse de plano las notoriamente frívolas e improcedentes, imponiendo a los promoventes una multa de quince días de salario mínimo, la que se duplicará en caso de reincidencia.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 895.
+
+El Juez proveerá, en el momento y oralmente, toda cuestión que le sea planteada durante el desarrollo de las audiencias, con excepción de lo dispuesto en este Título.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 896.
+
+Las partes no podrán invocar, leer, ni incorporar como prueba al procedimiento oral, antecedente alguno relacionado con la proposición, discusión, aceptación o rechazo, procedencia, o revocación de un método alterno hecho valer, salvo lo dispuesto en la Ley de Justicia Alternativa.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 897.
+
+Las diligencias de desahogo de pruebas que deban verificarse fuera del juzgado, pero dentro de su ámbito de competencia territorial, deberán ser presididas por el Juez, video grabadas por personal técnico adscrito al Poder Judicial del Estado y certificadas de conformidad con lo dispuesto para el desarrollo de las audiencias en el juzgado.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 898.
+
+La nulidad de una actuación deberá reclamarse en la audiencia subsecuente, bajo pena de quedar validada de pleno derecho. La producida en la audiencia de juicio deberá reclamarse durante ésta, antes de que el Juez pronuncie la sentencia definitiva.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 899.
+
+Las resoluciones judiciales pronunciadas en las audiencias se tendrán por notificadas, sin necesidad de formalidad alguna, a quienes estén presentes o debieron haber estado presentes.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 900.
+
+Las tercerías que surjan dentro del procedimiento oral, se sustanciarán en forma separada, con los mismos trámites y procedimientos de éste.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 901.
+
+En los escritos de demanda, reconvención y contestación a éstas, respectivamente, las partes ofrecerán y exhibirán sus pruebas.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 902.
+
+El pliego de posiciones podrá exhibirse en sobre cerrado desde el escrito de demanda hasta antes de la audiencia señalada para su desahogo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 903.
+
+Llegado el momento para el desahogo de la prueba confesional, el Juez abrirá el sobre cerrado que contiene el pliego de posiciones calificando de improcedentes aquellas que lo fueren. En caso de que el absolvente no asista, o se niegue a declarar se estará a lo dispuesto por el artículo 318 del Código de Procedimientos Civiles del Estado.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 904.
+
+La testimonial se desahogará mediante interrogatorio oral que formulen las partes o el Juez en lo que estime pertinente. Los testigos depondrán de viva voz.
+
+Las preguntas deben estar concebidas en términos claros y precisos, procurando que en una sola no se comprenda más de un hecho, tendrán relación directa con los puntos controvertidos y no serán contrarias al derecho o a la moral. El Juez debe cuidar de que se cumplan estas condiciones impidiendo preguntas que las contraríen.
+
+La calificación de las preguntas será implícita, el Juez solo intervendrá para desechar las que no cumplan con los requisitos legales.
+
+Cuando la parte oferente manifieste no tener más preguntas que formular a su testigo, la contraria podrá repreguntar sobre las respuestas otorgadas, y dirigir al testigo preguntas tendientes para acreditar cualquier circunstancia que afecte su credibilidad; o exhibir las constancias que la justifiquen.
+
+El Juez podrá interrogar al testigo, de no hacerlo, le permitirá que se retire; cuidará que no se comunique con las personas que falten por rendir su testimonio.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+### CAPÍTULO III. AUDIENCIAS
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+#### SECCIÓN PRIMERA. DEL OFRECIMIENTO DE LAS PRUEBAS
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 905.
+
+Cuando se trate de testigos que deban ser citados por el Juez, la citación se hará por lo menos con tres días de anticipación al día en que deban declarar, mediante cédula en la que se les apercibirá que en caso de desobediencia se aplicarán los medios de apremio previstos en el artículo 353 de este Código. No obstante lo anterior, si no fuera posible hacer que el testigo comparezca a rendir su declaración, la prueba testimonial no será desahogada.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 906.
+
+Es instrumento público el registro del procedimiento oral; probará el modo en que se desarrolló la audiencia o diligencia correspondiente, la observancia de las formalidades, las personas que hubieran intervenido, las resoluciones pronunciadas por el Juez y los actos que se llevaron a cabo; y tendrá valor probatorio para los efectos del procedimiento, de los recursos y requerimientos que correspondan, excepto si se prueba que fue alterado.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 907.
+
+La objeción de documentos será necesariamente al contestar la demanda, o al contestar la reconvención, o en su caso, el actor deberá objetar las ofrecidas por el demandado en su contestación dentro de los tres días siguientes a su admisión, con el ofrecimiento de los medios de convicción que la acrediten; la de los exhibidos en la audiencia de juicio se hará en ésta. El Juez proveerá lo conducente para recibir en la audiencia de juicio principal las probanzas admitidas.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 908.
+
+Admitida la prueba pericial, el Juez hará la designación de un perito o de los que estime convenientes para la práctica de la diligencia, sin perjuicio de que cada parte pueda designar un perito para que rinda dictamen por separado. La designación de perito por las partes deberá efectuarse dentro de los tres días posteriores a la admisión de la prueba, con la obligación de mencionar nombre, apellidos y domicilio; anexando título o cédula profesional, y los documentos que acrediten los requisitos exigidos por el artículo 342 de este Código.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 909.
+
+De no cumplirse los requisitos del artículo anterior, se tendrá por no hecha la designación del perito, precluyendo el derecho para hacerla.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 910.
+
+Admitida la prueba pericial, el Juez señalará un plazo prudente para la rendición del dictamen correspondiente.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 911.
+
+El perito designado por el Juez deberá aceptar y protestar el cargo por escrito en un plazo de tres días contados a partir del día en que se le haga saber su designación, debiendo el Juez proveer lo correspondiente; en caso de no aceptar, el Juez designará otro.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 912.
+
+Las partes que hayan designado perito quedan obligadas a que acepte y proteste el cargo en un plazo no mayor de tres días; en caso de no aceptar se tendrá por no ofrecido.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 913.
+
+El dictamen pericial será puesto a la vista de las partes, por lo menos tres días antes de la audiencia respectiva, quienes deberán pedir las aclaraciones que estimen pertinentes durante ésta.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+#### SECCIÓN SEGUNDA. CONFESIONAL
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 914.
+
+Los peritos asistirán a la audiencia respectiva con el fin de exponer las aclaraciones que el Juez o las partes les soliciten.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 915.
+
+El perito designado por el Juez que habiendo aceptado el cargo no rinda su dictamen o deje de concurrir a la audiencia respectiva sin justa causa calificada por el Juez, será sancionado con una multa de veinte a cincuenta días de salario mínimo general vigente en el estado; además, será responsable de los daños y perjuicios causados por su culpa. En este caso, el Juez designará nuevo perito.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 916.
+
+Si a la audiencia mencionada en el artículo anterior los peritos designados por las partes, que habiendo aceptado el cargo, no asisten o no rinden su dictamen en el plazo fijado, se tendrán por no ofrecidos.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 917.
+
+En caso de que los peritos, con el fin de emitir su dictamen, tengan necesidad de entrevistar a una o más personas, el Juez señalará el lugar, día y la hora para ello, debiendo asistir todos los peritos designados.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 918.
+
+Cuando se trate de la evaluación de menores, el Juez determinará la forma en que se llevará a cabo, procurando que no se afecte la integridad física, psicológica o emocional de aquéllos.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 919.
+
+Los honorarios de los peritos de las partes serán pagados por cada una de ellas, sin perjuicio de lo que disponga la resolución definitiva sobre condenación en costas, y los honorarios de los peritos designados por el Juez, serán pagados por el Estado.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 920.
+
+No será aplicable al procedimiento oral lo dispuesto en los artículos 343, 344, 345, 346 y 349 de este Código.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 921.
+
+Las audiencias serán presididas por el Juez bajo pena de nulidad; serán públicas, salvo las excepciones previstas en este Código y en la Ley de Acceso a la Información Pública del Estado; y se desarrollarán oralmente en lo relativo a toda intervención de quienes participen en ellas.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 922.
+
+Es obligación de las partes asistir a las audiencias del procedimiento, por sí o a través de sus legítimos representantes, el cual deberá contar además con facultades para someter el conflicto a un método alterno, conciliar ante el Juez, y suscribir, en su caso, el convenio correspondiente.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 923.
+
+El Juez, al ordenar la citación para las audiencias, hará saber a las partes su obligación de asistir a las audiencias del procedimiento, apercibiéndolas de las consecuencias previstas en el artículo 899 de este Código para el caso de no comparecer.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 924.
+
+El Juez determinará el inicio y la conclusión de cada una de las etapas de las audiencias, precluyendo los derechos procesales que debieron ejercitarse en las anteriores.
+
+La parte que asista tardíamente a una audiencia se incorporará al procedimiento en la etapa en que ésta se encuentre, sin perjuicio de la facultad del Juez en materia de conciliación.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 925
+
+La fecha y hora de las audiencias se deberá fijar con la mayor proximidad posible para procurar la continuidad del procedimiento.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 926.
+
+Cuando una audiencia no logre concluirse en la fecha señalada para su celebración, el Juez podrá suspenderla.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 927.
+
+Cada vez que proceda la suspensión de una audiencia deberá fijarse, en el acto, la fecha y hora de su reanudación, salvo que ello resultare materialmente imposible.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+#### SECCIÓN TERCERA. TESTIMONIAL
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 928.
+
+Las audiencias se registrarán por videograbación, audio grabación o cualquier medio idóneo, a juicio del Juez, para producir fe, que permita garantizar la fidelidad e integridad de la información, la conservación y reproducción de su contenido, y el acceso a los mismos a quienes de acuerdo a la Ley tuvieren derecho a ello.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 929.
+
+En cada audiencia el secretario de acuerdos hará constar oralmente en el registro a que hace referencia el artículo anterior, la fecha, hora y el lugar de realización, así como la causa que se tratará en la audiencia y los nombres de los servidores públicos jurisdiccionales que la presiden y demás personas que intervendrán, haciéndole saber a las partes, comparecientes y público asistente, el orden, decoro y respeto que deberán observar.
+
+Corresponde al Secretario verificar la identidad de los que intervendrán en las audiencias; hará constar la inasistencia de alguna de las partes.
+
+Si una parte o los terceros llegan al recinto oficial después de iniciada la audiencia, podrán incorporarse, sin embargo, tendrán por precluído el derecho para hacer valer las manifestaciones y demás actos referentes a las actuaciones ya celebradas.
+
+El secretario hará constar el momento de su incorporación.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 930.
+
+Las partes y los terceros que intervengan en el desarrollo de las audiencias deberán rendir previamente protesta de que se han conducido y se conducirán con verdad durante el procedimiento; para tal efecto, el secretario del juzgado dará lectura íntegra de las disposiciones del Código Penal que tipifican el delito de falsedad en declaraciones y en informes dados a una autoridad, apercibiéndolos de las penas que se imponen a quienes declaran con falsedad.
+
+La protesta así rendida surtirá efectos en todas las intervenciones que realice quien protestó durante las actuaciones del procedimiento.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 931.
+
+Durante el desarrollo de las audiencias los jueces deberán imponer el orden y, en su caso, las correcciones disciplinarias a que se refiere este Código, oyendo en ese mismo acto en defensa a las personas a quienes se les impongan, resolviendo enseguida el confirmar, modificar o dejar sin efecto la corrección.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 932.
+
+En el transcurso de las audiencias o al terminarse éstas, se levantará un acta que deberá contener:
+
+I.- El lugar, la fecha, hora de inicio y término y el expediente al que corresponde;
+
+II.- El nombre de quienes intervienen y la constancia de la inasistencia de los que debieron o pudieron estar presentes, indicándose la causa de la ausencia si se conoce;
+
+III.- La relación breve de los actos procesales celebrados, en forma enumerada, y la mención sucinta de requerimientos, citaciones, apercibimientos y cualquier otro acto que el Juez determine deba comunicarse a las partes o terceros que no asistieron, la cual deberá estar firmada por el Juez y el secretario.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 933.
+
+El secretario del juzgado deberá certificar el medio óptico o magnético en donde se encuentre grabada la audiencia respectiva, identificar dicho medio con el número de expediente y tomar las medidas necesarias para evitar que pueda alterarse.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 934.
+
+Se podrá solicitar copia simple o certificada, de las actas o los registros, o parte de ellos, que obren en el procedimiento, la que deberá ser certificada en los términos del artículo 933 de este Código.
+
+Lo anterior con excepción de los casos señalados en la Ley de Acceso a la Información Pública del Estado.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 935.
+
+La conservación de los registros estará a cargo del juzgado que los haya generado. Cuando por cualquier causa se dañe el soporte material del registro afectando su contenido, el Juez ordenará reemplazarlo, en todo o en parte, por una copia fiel, que obtendrá de quien la tuviere, si no dispone de ella directamente.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 936.
+
+En la secretaría del juzgado estarán disponibles los aparatos y el personal de auxilio necesarios para tener acceso a los registros del procedimiento, a fin de conocer su contenido, pudiendo tomar apuntes.
+
+Igualmente se podrá registrar en cualquiera de los medios citados en el artículo 928 de este Código, una parte o la totalidad, de las audiencias que se lleven a cabo, sin que dichos registros tengan valor legal alguno dentro del procedimiento, salvo en el caso establecido en el artículo 935 del presente Código.
+
+Lo anterior con excepción de los casos en que la Ley de Acceso a la Información Pública del Estado obligue a la autoridad a negar el acceso público a la información.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 937.
+
+Los incidentes que no tengan tramitación especial sólo podrán promoverse oralmente en las audiencias y no suspenderán éstas. La parte contraria podrá contestar oralmente en la audiencia o por escrito en un plazo de tres días contados a partir de la promoción del incidente, quedando en autos, a disposición del incidentista el escrito de contestación, para que se imponga del mismo.
+
+Tratándose de una cuestión que requiera prueba, el Juez ordenará el diligenciamiento y la desahogará en audiencia especial o dentro de algunas de las audiencias del procedimiento, en la cual escuchará los alegatos de las partes, en el orden que determine. Enseguida se dictará la resolución si fuera posible; en caso contrario, citará a las partes para dictarla dentro del término de tres días.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 938.
+
+En caso de que en la audiencia de juicio no pudiere concluirse una cuestión incidental, el Juez continuará con el desarrollo de la audiencia, suspenderá el pronunciamiento de la sentencia definitiva y procederá en los términos del párrafo anterior.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 939.
+
+La recusación será admisible hasta antes de la calificación de las pruebas en la Audiencia correspondiente. Si la recusación se declara fundada, será nulo lo actuado a partir del momento en que se interpuso la recusación.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 940
+
+La demanda deberá presentarse por escrito, y reunirá los requisitos de los artículos 264 y 265 del presente Código.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+#### SECCIÓN CUARTA. INSTRUMENTAL
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 941.
+
+Admitida la demanda, el Juez ordenará emplazar al demandado corriéndole traslado con copia de la misma y de los documentos acompañados, a fin de que, en un plazo de nueve días, ocurra a producir su contestación por escrito.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 942.
+
+El escrito de contestación se formulará ajustándose a los términos previstos para la demanda. Las excepciones que se tengan, cualquiera que sea su naturaleza, se harán valer simultáneamente en la contestación y nunca después, salvo las supervenientes.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+#### SECCIÓN QUINTA. PERICIAL
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 943.
+
+El demandado podrá allanarse a la demanda; en este caso, el Juez citará a las partes a una audiencia en un plazo no mayor de tres días para pronunciar la sentencia definitiva.
+
+Corresponderá al Juez seguir el procedimiento respectivo y practicar pruebas de oficio cuando: a).- Advirtiere Fraude; b).- Lo pidiere un tercero excluyente; c).- El demandado no tuviere la libre disposición del derecho o éste es irrenunciable; d).- Lo hiciere el Apoderado que no esté especialmente facultado; e).- Los hechos admitidos no pudieren probarse por confesión, si la ley exige prueba específica; f).- La sentencia pudiere producir efectos de cosa juzgada respecto de terceros; y g).- Existiere litisconsorcio necesario y no hubiere conformidad de todos los demandados.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 944.
+
+El demandado, al tiempo de contestar la demanda, podrá proponer la reconvención. Si se admite por el Juez, se correrá traslado de la misma al actor, a fin de que la conteste por escrito en un plazo de seis días.
+
+Si en la reconvención se hace valer causal de divorcio diversa de las establecidas en las fracciones I, II, VI, IX, X, XIV, XX y XXI del Artículo 799 del Código Civil, cesará de inmediato el juicio oral para que se continúe en la vía ordinaria.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 945.
+
+Si el demandado o el actor reconvenido no formulan su contestación, analizado el emplazamiento respectivo, la demanda o la reconvención se tendrán por contestadas en sentido afirmativo, excepto en los casos en que las demandas afecten las relaciones familiares o el estado civil de las personas, pues entonces la demanda se tendrá por contestada en sentido negativo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 946.
+
+Contestada la demanda y la reconvención, o transcurridos los plazos para hacerlo, el Juez de oficio examinará la personalidad del actor y en su caso la personalidad del representante o apoderado del demandado; no estando satisfecha, ordenará en su caso corregir cualquier deficiencia que sea subsanable al respecto, para lo cual otorgará un plazo improrrogable de tres días a las partes para que la subsanen. Cuando no se acredite la representación del demandado, se continuará el juicio en rebeldía de este. Si no se subsanare el del actor, el Juez sobreseerá el juicio y devolverá los documentos. De estar satisfecha, si hubiere excepción dilatoria, se fijará fecha y hora para la Audiencia inicial, la cual no podrá exceder de quince días hábiles, ordenando notificarla personalmente a las partes por lo menos tres días antes de ésta, apercibiéndolos de las consecuencias previstas en el artículo 899 de este Código para el caso de no comparecer. Si se ofreciera prueba que requiera de diligencia especial para su desahogo, se mandará prepararla.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+#### SECCIÓN PRIMERA. ALIMENTOS
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 947.
+
+La Audiencia inicial se llevará a cabo con o sin la asistencia de las partes.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 948.
+
+La Audiencia podrá suspenderse o diferirse cuando el Juez lo estime pertinente.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+### CAPÍTULO IV. INCIDENTES
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 949.
+
+Al inicio de la Audiencia inicial, una vez que el secretario del juzgado lleve a cabo lo referido en el artículo 929 de este Código, expondrá un breve resumen de lo demandado y contestación a ésta.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+#### SECCIÓN SEGUNDA. CONVIVENCIA DE MENORES
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 950.
+
+En caso de que las pruebas no requieran diligencia especial, se escucharán los alegatos, primero del actor y posteriormente del demandado. Enseguida, el Juez dictará la sentencia interlocutoria en el acto si fuera posible; en caso contrario, citará a las partes para dictarla dentro del término de 3 días.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+#### SECCIÓN PRIMERA. PROCEDIMIENTO
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 951.
+
+Si se opone la incompetencia, el Juez pronunciará si sostiene o no su competencia. Si el Juez considera que es competente, continuará el procedimiento, reservando al opositor su derecho de impugnar vía agravio dicha resolución, en caso de inconformarse con la sentencia definitiva.
+
+Si el Juez considera que es incompetente, suspenderá el procedimiento y remitirá de inmediato todo lo actuado al Pleno del Tribunal, a fin de que resuelva lo conducente.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 952.
+
+En caso de que se oponga la excepción de conexidad de la causa, el Juez informará de inmediato al Juez que conoce del procedimiento que se pretende acumular, para efecto de que no se pronuncie sentencia definitiva, en tanto no quede resuelta la misma.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 953.
+
+En caso de que resulten improcedentes las excepciones procesales, el Juez procederá a admitir los medios de prueba ofrecidos con la demanda, reconvención y contestación a estas, y las relacionadas con la objeción de documentos, y dictará las medidas necesarias para preparar el desahogo de las que así lo requieran en la audiencia de juicio.
+
+Cuando se advierta la falta de algún requisito en el ofrecimiento de alguna prueba, el Juez requerirá al oferente para que lo subsane en ese acto, de no hacerlo en sus términos, la inadmitirá.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+#### SECCIÓN SEGUNDA. ENAJENACIÓN DE BIENES DE MENORES O INCAPACITADOS Y TRANSACCIÓN ACERCA DE SUS DERECHOS
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 954.
+
+El Juez, una vez cumplimentado lo dispuesto en el artículo 949 de este ordenamiento, decretará la suspensión de la Audiencia Inicial y remitirá las constancias del expediente relativo al Centro de Justicia Alternativa para la substanciación de la conciliación, excepto en los casos a que se refiere la fracción V del artículo 892 de este Código. Tramitado que fuere el método alternativo en los términos del Título Sexto, Capítulo Primero, de este código, y recibido que fuere el informe correspondiente, se reanudará la Audiencia Inicial para los efectos pertinentes.
+
+Si las partes lograran convenio conciliatorio, se ordenará el archivo definitivo de la causa; en caso contrario, y no existiendo pruebas que requieran de diligencia especial para su desahogo, o habiéndolas se puedan desahogar en la propia audiencia, el Juez declarará cerrada la Audiencia Inicial e iniciará de inmediato la Audiencia de Juicio.
+
+En caso de que existieran pruebas de necesaria dilación, mandará preparar aquellas que requieran de diligencia especial y fijará la fecha y hora para la Audiencia de Juicio, misma que deberá fijarse en un término de quince días hábiles, a la que deberán concurrir las partes, así como los testigos y peritos, en caso de que se hayan ofrecido las pruebas respectivas.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 955.
+
+Las partes pueden solicitar al Juez tenga por acreditados ciertos hechos; dichos acuerdos probatorios no podrán ser discutidos posteriormente.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 956.
+
+En las acciones de divorcio, en las cuales las partes hayan decidido disolver su vínculo matrimonial en los términos del artículo 803 del Código Civil, se suspenderá el proceso contencioso por un plazo no mayor a diez días, debiendo presentarse la solicitud respectiva ante el juzgado que conoce del negocio. Decretado el divorcio en esa forma, se ordenará el archivo del primer proceso como asunto concluido.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 957.
+
+Dentro de la etapa de preparación de las pruebas, podrá desahogarse la inspección judicial y la pericial, así como solicitarse los informes y enviar los exhortos para el desahogo de aquellas probanzas que lo requieran, las cuales se tramitarán por conducto del oferente de la prueba respectiva.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 958.
+
+En caso de que la prueba pericial verse sobre la firma o escritura de alguna de las partes, en la misma Audiencia deberá estamparse la firma, rasgos caligráficos o cuerpo de escritura, que el Juez considere necesarios, pudiendo éste o las partes hacer las observaciones que estimen pertinentes, a fin de que los peritos dictaminen al respecto.
+
+Si no compareció quien debe firmar o escribir, se le citará para la fecha y hora que determine el Juez.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 959.
+
+Si no se opusiera excepción alguna, se procederá a la admisión de las pruebas ofrecidas con los escritos de demanda, reconvención y contestación a estas y se mandará a preparar aquellas pruebas que requieran de alguna tramitación especial, fijándose fecha y hora para la audiencia de juicio, la cual no podrá excederse del término de quince días hábiles. El ofrecimiento, la admisión y el desahogo de las pruebas, se sujetará a las reglas establecidas para ello en este Código.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 960.
+
+La Audiencia de Juicio se llevará a cabo con o sin la asistencia de las partes, sancionando a quien no acuda sin justa causa calificada por el Juez con una multa hasta por el monto establecido en el artículo 86 del presente Código.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 961.
+
+Si las partes no llegan a un convenio, el Juez desahogará las pruebas en el orden que determine y las partes alegarán de su derecho en forma oral, hecho lo cual, quedará el negocio en estado de sentencia, misma que se dictará en el acto si fuere posible; en caso contrario, citará a las partes para dictarla dentro del término de ocho días.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 962.
+
+Sólo la sentencia definitiva, y los autos y las sentencias interlocutorias que pongan fin al procedimiento son apelables. Para la sentencia definitiva, este recurso se admitirá en el efecto devolutivo; para los autos y las sentencias interlocutorias que pongan fin al procedimiento, se admitirá en ambos efectos.
+
+La impugnación contra las demás resoluciones que se pronuncien durante el procedimiento, se hará valer como agravio ante la segunda instancia, en el caso de que el agraviado por aquéllas interponga el recurso de apelación contra la sentencia definitiva.
+
+Se exceptúa de lo anterior, la apelación en contra de las resoluciones que declaren la improcedencia de la excepción de conexidad de la causa y de la acumulación de autos.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 10 DE FEBRERO DE 2011)</small>
+
+### CAPÍTULO V. PROCEDIMIENTO ORAL GENERAL
+
+REGLAS GENERALES
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+### CAPÍTULO VI. REGLAS ESPECIALES
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 963.
+
+Para decretar alimentos a favor de quien tenga derecho de exigirlos, se necesita:
+
+I.- Que se acredite el título en cuya virtud se piden;
+
+II.- Que se justifique, al menos aproximadamente, la capacidad económica del que deba darlos.
+
+El que exige los alimentos tiene a su favor la presunción de necesitarlos, por lo tanto, no requiere prueba.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 964.
+
+La prueba de que trata la fracción I del artículo anterior será: el testamento, los documentos comprobantes de parentesco o de matrimonio o concubinato, el convenio o la ejecutoria en que conste la obligación de dar alimentos. En caso de concubinato también podrán ofrecerse testigos, para acreditar el mismo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 965.
+
+La demanda de alimentos puede presentarse por escrito o por comparecencia ante el Juzgado de turno. De comparecer directamente el solicitante expondrá al juzgador, de manera breve, clara y concisa los hechos de que se trate, levantándose constancia de la comparecencia y de los hechos narrados los cuales deben relacionarse en forma pormenorizada.
+
+En la comparecencia el Juez debe de informar al interesado que puede contar con el patrocinio de un defensor de oficio para conocer de su procedimiento, y como consecuencia el Juez dará parte a la Institución de Defensoría de Oficio para que en su caso asesore o patrocine a aquel. El acta de comparecencia y sus documentos se tomarán como medios de convicción, de los cuales se sacarán copia para correr traslado.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 966.
+
+Levantada la constancia respectiva de la comparecencia o recibida la demanda y cumplidas las exigencias legales, el Juez dictará el auto de admisión, fijando prudencialmente una pensión provisional, contra la cual no se admitirá recurso alguno. Lo anterior se comunicará de inmediato a la persona física o moral de quien perciba el ingreso el deudor alimentista, para que se haga entrega de la pensión provisional al que exige los alimentos. Lo mismo se observará respecto de cualquier emolumento u otro ingreso que exista a favor del deudor alimentista.
+
+Para fijar la pensión provisional, el Juez podrá ordenar el desahogo de cualquier diligencia que considere necesaria. Fuera de los casos anteriores, se ordenará requerir al deudor alimentista sobre el pago inmediato de dicha pensión provisional, embargando, en su caso, bienes de su propiedad que garanticen su cumplimiento.
+
+La prueba documental podrá presentarse hasta cuarenta y ocho horas antes de la audiencia de desahogo de pruebas, salvo la referida en la fracción I del artículo 963 del presente Código, que deberá acompañarse junto con la demanda.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 967
+
+La sentencia que decrete los alimentos, fijará la pensión correspondiente, la cual deberá abonarse siempre por adelantado. La sentencia respectiva indicará siempre, en su parte considerativa y en uno de sus puntos resolutivos, que el monto de la pensión cuando sea en cantidad líquida, tendrá un incremento automático mínimo, equivalente al aumento porcentual del salario mínimo general diario vigente en la zona económica correspondiente al deudor, salvo que el deudor alimentario demuestre que sus ingresos no aumentaron en igual proporción. En este caso, el incremento de los alimentos se ajustará a lo que realmente hubiese obtenido el deudor.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 968.
+
+Notificada la sentencia, se comunicará sin demora a la persona física o moral de quien perciba ingresos el deudor alimentista, si este es el caso.
+
+Cuando se hayan embargado bienes al deudor alimentista, para garantizar la pensión provisional, se tendrá por definitivo dicho embargo, pudiendo ampliarse éste y procederse a la venta para cubrirse el pago de las pensiones provisionales adeudadas, de la fijada en la sentencia y de las subsecuentes.
+
+El registrador público de la propiedad, en su caso, cuidará del debido cumplimiento de esta disposición.
+
+La pensión definitiva fijada en la sentencia sustituirá a la provisional.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 969
+
+La sentencia en que se denieguen los alimentos es apelable en ambos efectos y la que los concede en el efecto devolutivo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 970.
+
+Las controversias que se promuevan sobre el importe de los alimentos se decidirán en forma incidental, sin perjuicio de seguirse abonando al acreedor alimentista, durante la sustanciación del incidente, la cantidad asignada conforme al artículo 967 del presente Código.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 971.
+
+Se sujetarán al procedimiento oral, así como a las reglas especiales de esta sección, las controversias que se susciten con motivo de:
+
+I.- La convivencia entre los padres en relación con sus hijos, mientras estén sujetos a la patria potestad, y
+
+II. La convivencia de los abuelos con sus nietos menores de edad.
+
+Las personas primeramente señaladas, están legitimadas para acudir en esta vía, siempre que se encuentren en el ejercicio de la patria potestad, pero en ella no se ventilará discusión alguna sobre el derecho de su ejercicio y no será procedente cuando dicha cuestión ha sido motivo de sentencia ejecutoriada. Cualquier discusión en este sentido deberá tramitarse en la vía ordinaria.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 972.
+
+El Juez, después de contestada la demanda y fijada la litis, fijará un régimen de convivencia provisional con el demandante ya sea de manera libre, asistida o supervisada, atendiendo a las circunstancias del caso y al interés superior del menor involucrado, pudiendo negar dicha medida temporal en caso que exista un inminente riesgo a la integridad física, psicológica o emocional del menor.
+
+La convivencia provisional cesará una vez que el Juez pronuncie la sentencia definitiva.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 973.
+
+Durante el procedimiento en el que se puedan ver afectados los menores de edad, el Juez deberá escuchar la opinión de los mismos y en el caso de que por su edad no sean capaces de expresarla, el Juez habrá de observar su apariencia física y el comportamiento que manifiesten frente a los interesados, que habrá de asentar en el acta que se levante el día de la diligencia, quedando obligada la persona que detente su custodia a presentarlos el día y la hora que se señale.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 974.
+
+En los supuestos de las fracciones I y II del artículo 971 del presente Código, el Juez señalará en la sentencia los días y las horas para la convivencia, dictando los apercibimientos y las providencias necesarias para su cumplimiento.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 975.
+
+La sentencia que se pronuncie en los asuntos a que se refieren las fracciones I y II del artículo 971 de este Código, podrá modificarse cuando cambien las circunstancias y afecten el ejercicio de la acción que se dedujo, debiendo sustanciarse en forma incidental.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 976.
+
+La sentencia se ejecutará, si así se solicita, sin necesidad de fianza.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TITULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 10 DE FEBRERO DE 2011)</small>
+
+## TÍTULO VIGÉSIMO SEGUNDO. PROCEDIMIENTOS ORALES ESPECIALES
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 10 DE FEBRERO DE 2011)</small>
+
+### CAPÍTULO PRIMERO. DIVORCIO POR MUTUO CONSENTIMIENTO
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 977.
+
+Los cónyuges que convengan en divorciarse en los términos del artículo 803 del Código Civil para el Estado, están obligados a presentar con la solicitud de divorcio, una copia certificada del acta de matrimonio, una copia certificada de las actas de nacimiento de los hijos menores de edad o mayores incapaces, si los hay, y el convenio que señala el artículo 804 del Código referido.
+
+Si la solicitud, el convenio o la documentación fueren insuficientes, el Juez concederá a los solicitantes un plazo de tres días para que los completen.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 978.
+
+Hecha la solicitud y cumplidas las exigencias del artículo anterior, el Juez citará a los cónyuges quienes deberán identificarse plenamente y al Ministerio Público a una audiencia, de entre ocho y quince días.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 979.
+
+En la audiencia a que se refiere el artículo anterior, el Juez exhortará a los consortes a su reconciliación. Si se avienen, el Juez declarará sobreseído el procedimiento. Si no se logra la reconciliación e insisten los cónyuges en su propósito de divorciarse, siempre que en el convenio queden bien garantizados los derechos de los hijos, y que el Ministerio Público haya manifestado su conformidad, el Juez suspenderá la audiencia por un plazo no mayor a una hora, al término del cual deberá reanudarla y pronunciar de inmediato la sentencia, disolviendo el vínculo matrimonial y decidiendo sobre el convenio presentado, decretando cuantas medidas sean necesarias para el bienestar de los hijos.
+
+En caso de que el Ministerio Público se oponga a la aprobación del convenio, por considerar que viola los derechos de los hijos o que no quedan bien garantizados, propondrá las modificaciones que estime pertinentes y el Juez lo hará saber a los cónyuges, para que en la misma audiencia manifiesten si aceptan o no las modificaciones.
+
+En caso de que no las acepten, el Juez resolverá en la sentencia lo que proceda con arreglo a la ley, cuidando que queden debidamente garantizados los derechos de los hijos.
+
+Cuando el convenio no deba ser aprobado, no podrá decretarse la disolución del matrimonio.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 980.
+
+El cónyuge menor de edad necesita de un tutor especial para poder solicitar el divorcio por mutuo consentimiento.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 981.
+
+Los cónyuges no pueden hacerse representar por procurador en la audiencia a que se refiere el artículo 978 del presente Código, sino que deben comparecer personalmente y, en su caso, acompañados del tutor especial.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 982.
+
+En caso que cualquiera de los cónyuges, sin justa causa calificada por el Juez, no acudiere a la audiencia, el Juez declarará sin efecto la solicitud y mandará archivar el expediente.
+
+Si el cónyuge inasistente justifica la causa, el Juez citará a las partes a una nueva audiencia, bajo apercibimiento que en caso de persistir la inasistencia, el Juez declarará sin efecto la solicitud y mandará archivar el expediente.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 983.
+
+La sentencia que decrete el divorcio por mutuo consentimiento es apelable en el efecto devolutivo y la que lo niegue en ambos efectos.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 984.
+
+En el caso que en el convenio que se apruebe decrete el pago de alimentos, deberá observarse en la sentencia que se dicte lo dispuesto por el artículo 967 de este Código.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 985.
+
+Ejecutoriada la sentencia de divorcio, el Juez mandará remitir copia de ésta y del convenio aprobado, al oficial del registro civil del lugar en que el matrimonio se efectuó para que levante el acta de divorcio respectiva y haga las anotaciones correspondientes.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 10 DE FEBRERO DE 2011)</small>
+
+### CAPÍTULO SEGUNDO. JURISDICCIÓN VOLUNTARIA
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 986.
+
+La solicitud se presentará por escrito y reunirá los requisitos de los artículos 90, 91 y 264 de este código, los correspondientes al acto de jurisdicción voluntaria que se promueva y cualquier otro requisito que el Juez considere prudente según las circunstancias del caso. Si no se reúnen las exigencias previstas en el párrafo anterior, el Juez concederá al promovente un término de tres días para completarlas. En caso de que no se cumpla esa prevención, se desechará de plano su solicitud.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 987.
+
+Cumplidas las exigencias, el Juez señalará el día, hora y lugar para una audiencia que se celebrará dentro del plazo de quince días, citando a los promoventes, al Ministerio Público y terceros que deban comparecer.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 988.
+
+En la audiencia a que se refiere el Artículo anterior, se desahogarán las pruebas que requieran diligencia especial en el orden que el Juez determine, hecho lo cual, el procedimiento quedará en estado de sentencia, misma que se dictará en el acto si fuere posible. En caso contrario, citará a las partes para dictarla dentro del término de tres días.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 989.
+
+Será necesaria autorización judicial para la venta de los bienes que pertenezcan exclusivamente a menores o incapacitados y correspondan a las clases siguientes:
+
+I.- Bienes raíces;
+
+II.- Derechos reales sobre muebles;
+
+III.- Alhajas y muebles preciosos;
+
+IV.- Acciones de compañías industriales y mercantiles cuyo valor exceda de cinco mil pesos.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 990.
+
+Para decretar la venta de los bienes se necesita que al pedirse, se exprese el motivo de la enajenación y el objeto a que debe aplicarse la suma que se obtenga y que se justifique la absoluta necesidad o la evidente utilidad de la medida.
+
+Si fuere el tutor quien solicitaré la venta, al hacer la promoción debe proponer las bases de la venta en cuanto a la cantidad que deba darse de contado, el plazo, interés y garantías del remanente.
+
+La solicitud del tutor se substanciará con el ministerio público.
+
+La sentencia que se dicte es apelable en ambos efectos.
+
+Los peritos que se designen para hacer el avalúo serán nombrados por el Juez.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 991.
+
+Respecto de las alhajas y muebles preciosos, el Juez determinará si conviene o no la venta, atendiendo en todo a la utilidad que resulte al menor.
+
+Si se decreta la venta, se hará por conducto de un comisionista o casa de comercio que expenda artículos similares, observándose en lo conducente lo dispuesto por el artículo 551 del presente código.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 992.
+
+La venta de los inmuebles que se ordene al remate, se realizará conforme a lo dispuesto por lo dispuesto (sic) en los artículos 519 y siguientes del presente Código, y en ella no podrá admitirse postura inferior de las dos terceras partes del avalúo pericial o que no se ajuste a los términos de la autorización judicial.
+
+Si en la primera almoneda no hubiere postor, a solicitud del tutor, con citación del ministerio público, el Juez convocará a una junta dentro del tercer día, para ver si son de modificarse o no las bases del remate, señalándose nuevamente las almonedas que fueren necesarias.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 993.
+
+Para la venta de acciones y títulos de renta, se concederá la autorización sobre la base de que no se haga por menor valor del que se cotice en la plaza el día de la venta y por conducto de comisionista o de comerciante establecido y acreditado.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 994.
+
+El precio de la venta se entregará al tutor si las firmas o garantías prestadas son suficientes para responder de él. De otra manera se depositará en el establecimiento destinado al efecto.
+
+El Juez señalará un término prudente al tutor para qué justifique la inversión del precio de la enajenación.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 995.
+
+Para la venta de los bienes inmuebles o de los muebles preciosos de hijos, requerirán los que ejercen la patria potestad la autorización judicial en los mismos términos que los señalados en el artículo 989 de este código. El procedimiento se substanciará con el Ministerio Público y con un tutor especial que para el efecto nombre el Juez desde las primeras diligencias.
+
+En este caso la venta se llevará a cabo fuera de remate a un precio que no baje de las cuatro quintas partes de avalúo.
+
+Bajo las mismas condiciones, los padres podrán gravar los bienes inmuebles de sus hijos o consentir la extinción de derechos reales.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 996.
+
+Para recibir dinero en nombre del menor o incapacitado, los progenitores o el tutor necesitarán de la autorización judicial que se substanciará con el ministerio público.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+
+###### Artículo 997.
+
+Lo dispuesto en los artículos que preceden se aplicará a la transacción y arrendamiento por más de cinco años de bienes de menores o incapacitados.
 
 TITULO ESPECIAL
 
@@ -6354,5 +7472,25 @@ SEGUNDO.- Se derogan todas las normas que se opongan al presente Decreto.
 TERCERO.- El Sistema Estatal de Desarrollo Integral de la Familia contará, con 90 días a partir de la entrada en vigor del presente Decreto, para implementar la figura de Oficial de Menores de Edad, dentro del personal con que cuenta para su debida selección y capacitación, para los efectos que la ley señala.
 
 ## TRANSITORIO
+
+ÚNICO.- Publíquese el presente Decreto en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 10 DE FEBRERO DE 2011.
+
+PRIMERO.- Estas reformas al Código de Procedimientos Civiles para el Estado Libre y Soberano de Quintana Roo, comenzarán a regir a los seis meses siguientes al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El procedimiento oral en materia familiar que prevén las reformas contenidas en el presente Decreto, se aplicará en principio únicamente en el Distrito Judicial de Chetumal. Con respecto a su aplicación en el resto de los Distritos Judiciales de la Entidad, ésta se hará de manera gradual y preferentemente en los siguientes Distritos Judiciales y conforme la siguiente calendarización:
+
+a) En el Distrito Judicial de Cancún, hasta el 16 de agosto del año 2013.
+
+b) En el Distrito Judicial de Felipe Carrillo Puerto, hasta el 16 de agosto de 2015.
+
+c) En el resto de los Distritos Judiciales de la entidad, hasta el 16 de agosto de 2017.
+
+Cuando de forma extraordinaria a lo previsto en el calendario antes citado, el Consejo de la Judicatura del Poder Judicial del Estado, considere que existen las condiciones necesarias para la implementación de las reformas en alguno de los distritos judiciales del Estado, en alguna fecha previa a las establecidas en el calendario referido, la Legislatura del Estado o en su caso, la Diputación Permanente, previa comunicación que le formule el Consejo de la Judicatura del Estado, emitirá la Declaratoria, que se publicará en el Periódico Oficial del Estado, en la que se señale expresamente que el procedimiento oral en materia familiar contenido en el presente Decreto, se aplicará en el Distrito o Distritos Judiciales a que se contraiga la comunicación antes referida.
+
+TERCERO.- Los asuntos en materia familiar, mismos a los que hace referencia este procedimiento oral, iniciados con anterioridad a la entrada en vigor de esta reforma, y teniendo en cuenta lo establecido en el artículo segundo transitorio, serán concluidos conforme a las disposiciones vigentes con anterioridad a dicho acto.
+
+T R A N S I T O R I O:
 
 ÚNICO.- Publíquese el presente Decreto en el Periódico Oficial del Estado de Quintana Roo.
