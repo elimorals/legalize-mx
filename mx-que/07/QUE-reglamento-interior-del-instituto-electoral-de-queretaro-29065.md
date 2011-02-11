@@ -4,7 +4,7 @@ identifier: "QUE-reglamento-interior-del-instituto-electoral-de-queretaro-29065"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-02-14"
-last_updated: "2010-03-19"
+last_updated: "2011-02-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29065&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 REGLAMENTO INTERIOR DEL INSTITUTO ELECTORAL DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE FEBRERO DE 2011.
 
 Reglamento publicado en el Periódico Oficial del Estado de Querétaro, el viernes 14 de febrero de 2003.
 
@@ -77,13 +77,13 @@ SECRETARIO EJECUTIVO: El Secretario Ejecutivo del Consejo.
 
 DIRECTOR: El Director General del Instituto.
 
-> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2011)</small>
 
-ÓRGANOS OPERATIVOS: Las Direcciones Ejecutivas de Organización Electoral, y de Educación Cívica y Capacitación Electoral; y las Coordinaciones Administrativa, de Análisis, Seguimiento y Apoyo Técnico, de Partidos y Asociaciones Políticas, y del Servicio Profesional Electoral.
+ÓRGANOS OPERATIVOS: Las Direcciones Ejecutivas de Organización Electoral, y de Educación Cívica y Capacitación Electoral; y las Coordinaciones Administrativa, de Partidos y Asociaciones Políticas, y del Servicio Profesional Electoral.
 
-> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2011)</small>
 
-ÓRGANOS TÉCNICOS: Las Coordinaciones de Información y Medios y Jurídica del Instituto.
+ÓRGANOS TÉCNICOS: Las Coordinaciones de Información y Medios, Jurídica y de Asesores de los Consejeros del Consejo.
 
 ###### Artículo 3.
 
@@ -119,9 +119,11 @@ Los órganos operativos son:
 
 I. La Dirección General, auxiliada por:
 
-a) La Coordinación Administrativa; y
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2011)</small>
 
-b) La Coordinación de Análisis, Seguimiento y Apoyo Técnico;
+a) La Coordinación Administrativa;
+
+b) (DEROGADO, P.O. 11 DE FEBRERO DE 2011)
 
 II. La Dirección Ejecutiva de Organización Electoral, auxiliada por:
 
@@ -131,15 +133,23 @@ III. La Dirección Ejecutiva de Educación Cívica y Capacitación Electoral, au
 
 a) La Coordinación del Servicio Profesional Electoral.
 
-2.- Regional: Las Coordinaciones Regionales.
+2.- (DEROGADO, P.O. 11 DE FEBRERO DE 2011)
 
 ###### Artículo 7.
 
 Los órganos técnicos son:
 
-I. La Coordinación de Información y Medios; y
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2011)</small>
 
-II. La Coordinación Jurídica.
+I. La Coordinación de Información y Medios;
+
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2011)</small>
+
+II. La Coordinación Jurídica; y
+
+> <small>(ADICIONADA, P.O. 11 DE FEBRERO DE 2011)</small>
+
+III. La Coordinación de Asesores de los Consejeros del Consejo.
 
 > <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2009)</small>
 
@@ -172,6 +182,12 @@ Los órganos técnicos del Instituto auxilian al Consejo General en el cumplimie
 ###### Artículo 14.
 
 Los órganos de vigilancia serán los que determine el Consejo General.
+
+> <small>(ADICIONADO, P.O. 11 DE FEBRERO DE 2011)</small>
+
+###### Artículo 14 Bis.
+
+El Instituto contará con una Oficialía de Partes, que será la instancia competente para la recepción, sistematización y distribución de la correspondencia y documentación dirigida al Instituto, atendiendo los lineamientos que al efecto emita el titular de la Secretaria Ejecutiva.
 
 ###### Artículo 15.
 
@@ -429,11 +445,17 @@ IV. Hacer del conocimiento del Presidente el incumplimiento de los programas en 
 
 V. Emitir las recomendaciones necesarias para el buen funcionamiento de la Dirección Ejecutiva de Educación Cívica y Capacitación Electoral y la Coordinación de Información y Medios, relativas a los programas que tiene asignados, en materia de editorial y biblioteca;
 
-VI. Elaborar y rendir al Consejo, por conducto de la Secretaría Ejecutiva, los proyectos de dictamen derivados del ejercicio de sus funciones; y
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2011)</small>
 
-> <small>(REFORMADA, P.O. 6 DE FEBRERO DE 2009)</small>
+VI. Elaborar y rendir al Consejo, por conducto de la Secretaría Ejecutiva, los proyectos de dictamen derivados del ejercicio de sus funciones;
 
-VII. Aprobar los acuerdos en materia de Editorial y Biblioteca, que sean necesarios para el cumplimiento de los fines señalados en el artículo 56 de la Ley; (sic)
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2011)</small>
+
+VII. Aprobar los acuerdos en materia de Editorial y Biblioteca, que sean necesarios para el cumplimiento de los fines señalados en el artículo 56 de la Ley; y
+
+> <small>(ADICIONADA, P.O. 11 DE FEBRERO DE 2011)</small>
+
+VIII. Emitir los lineamientos en materia de publicaciones y ediciones en que participe el Instituto.
 
 ###### Artículo 39.
 
@@ -595,7 +617,7 @@ Corresponden a la Coordinación de Información y Medios, las atribuciones sigui
 
 I. Someter a la aprobación del Presidente la estrategia de comunicación institucional para difundir las actividades y funciones que desarrolla el Instituto, que contemple los distintos ámbitos de incidencia: relación con medios de comunicación, procesamiento de información, producción de comunicados, difusión entre instituciones públicas y privadas y líderes de opinión, así como el acceso de los particulares a la información institucional;
 
-II. Fungir como unidad de información y enlace a que hacen referencia los artículos 3 y 21 de la Ley Estatal de Acceso a la Información Gubernamental en el Estado de Querétaro, para lo cual se apoyará en la Coordinación Jurídica;
+II. (DEROGADA, P.O. 11 DE FEBRERO DE 2011)
 
 III. Rendir los informes y demás documentos que la Comisión de Control Interno le requiera en ejercicio de la atribución prevista en la fracción XV del artículo 36 de este Reglamento;
 
@@ -643,7 +665,9 @@ III. Apoyar a la Secretaría Ejecutiva para prestar al Consejo General, Presiden
 
 IV. Establecer los mecanismos de coordinación con las dependencias, entidades o instancias con las que por necesidades del servicio y sus programas específicos, obliguen a relacionarse, previo acuerdo con el Secretario Ejecutivo;
 
-V. Apoyar a la Coordinación de Información y Medios en la atención de las solicitudes de información pública que presenten los gobernados, observando la estricta aplicación de las disposiciones jurídicas vigentes;
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2011)</small>
+
+V. Fungir como unidad de información y enlace a que hacen referencia los artículos 3 y 21 de la Ley Estatal de Acceso a la Información Gubernamental en el Estado de Querétaro;
 
 VI. Implementar la defensa jurídica y el soporte a la Representación Legal en los asuntos de interés institucional;
 
@@ -656,6 +680,40 @@ IX. Desarrollar, en su caso, conjuntamente con instituciones de investigación j
 X. Acordar con el Secretario Ejecutivo los asuntos de su competencia; y
 
 XI. Las demás que le confiera el presente Reglamento y el Secretario Ejecutivo.
+
+> <small>(ADICIONADO, P.O. 11 DE FEBRERO DE 2011)</small>
+
+###### Artículo 60 Bis.
+
+El Consejo contará con una Coordinación de Asesores, a cuyo frente estará un Coordinador, nombrado por el Presidente.
+
+> <small>(ADICIONADO, P.O. 11 DE FEBRERO DE 2011)</small>
+
+###### Artículo 60 Ter.
+
+Para ser Coordinador de Asesores se requiere contar con título profesional y conocimientos en materia electoral.
+
+> <small>(ADICIONADO, P.O. 11 DE FEBRERO DE 2011)</small>
+
+###### Artículo 60 Quater.
+
+La Coordinación de Asesores, apoyará a los Consejeros Electorales en el desempeño de sus funciones y tendrá las siguientes atribuciones:
+
+I. Asesorar y apoyar en el desarrollo y aplicación de programas y proyectos;
+
+II. Elaborar informes e investigaciones sobre temas específicos que sean solicitados;
+
+III. Coordinar la elaboración de los documentos que se le requieran;
+
+IV. Solicitar a las Direcciones y Coordinaciones la documentación necesaria para apoyar asuntos específicos;
+
+V. Proponer acciones y proyectos que favorezcan el desarrollo de sus funciones;
+
+VI. Apoyar las acciones necesarias para las sesiones del Consejo General y Comisiones;
+
+VII. Coadyuvar en el seguimiento a las instrucciones y acuerdos adoptados por el Consejo General y por las Comisiones, cuando así se requiera; y
+
+VIII. Las demás que le confieran los Consejeros vinculadas con el ejercicio de sus funciones.
 
 ### CAPITULO VI. De las Sesiones del Consejo General
 
@@ -905,13 +963,19 @@ En caso de que autoridad competente requiera al Consejo un acta de sesión que n
 
 ### CAPITULO IX. Del Horario y Días de Labores
 
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 107.
 
-Los órganos del Instituto desarrollarán sus actividades en el horario comprendido de las 8:00 a las 16:00 horas en días hábiles. Durante el Proceso Electoral, los titulares de los órganos podrán establecer los ajustes de horario necesarios de acuerdo a los requerimientos del servicio.
+Los órganos del Instituto desarrollarán sus actividades en el horario comprendido de las 8:00 a las 16:00 horas en días hábiles
+
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 108.
 
-Se considerarán hábiles los días de lunes a viernes de cada semana, excepto los días de descanso obligatorio que señala la Ley Federal del Trabajo, los períodos vacacionales y los días que determine la Dirección General. Respecto a los períodos vacacionales, el Director dará cuenta de ellos al Consejo en el mes de enero de cada año.
+Se considerarán hábiles los días de lunes a viernes de cada semana, excepto los días obligatorios y los períodos vacacionales. Respecto a los períodos vacacionales, el Secretario Ejecutivo dará cuenta de ellos al Consejo en el primer bimestre de cada año.
+
+El Consejo General y los titulares de los órganos podrán establecer los ajustes de días y horario necesarios, de acuerdo a los requerimientos del servicio.
 
 ###### Artículo 109.
 
@@ -983,33 +1047,15 @@ XII. Las demás que le confieran la normatividad aplicable y el Director.
 
 ###### Artículo 118.
 
-La Dirección General contará con una Coordinación de Análisis, Seguimiento y Apoyo Técnico, la cual apoyará en el cumplimiento de los objetivos y programas previstos en el Programa General de Trabajo del Instituto a cargo de los órganos operativos.
+(DEROGADO, P.O. 11 DE FEBRERO DE 2011)
 
 ###### Artículo 119.
 
-Al frente de la Coordinación de Análisis, Seguimiento y Apoyo Técnico estará un Coordinador que será designado por el Director, el cual deberá contar con conocimientos en materia electoral.
+(DEROGADO, P.O. 11 DE FEBRERO DE 2011)
 
 ###### Artículo 120.
 
-La Coordinación de Análisis, Seguimiento y Apoyo Técnico tendrá las siguientes atribuciones:
-
-I. Colaborar con el Director en la elaboración del Programa General de Trabajo;
-
-II. Elaborar los mecanismos para el seguimiento de las actividades de los programas encomendados a los órganos operativos del Instituto;
-
-III. Supervisar el cumplimiento de las actividades de los programas que en materia electoral desarrollen los órganos operativos del Instituto e informar de su incumplimiento al Director;
-
-IV. Proponer soluciones alternativas durante la ejecución de los programas y aplicación de la normatividad;
-
-V. Proporcionar apoyo técnico para el seguimiento de los programas a cargo de los órganos operativos del Instituto durante su ejecución y la aplicación de la normatividad que elabora el Instituto;
-
-VI. Coadyuvar, conforme a las instrucciones del Director, en el diseño de los programas de actividades a cargo de los órganos operativos del Instituto;
-
-VII. Participar en la aplicación de los mecanismos necesarios para el control de informes sobre el cumplimiento de los programas;
-
-VIII. Coordinar la realización de los informes y reportes sobre el cumplimiento y/o aplicación de los programas a cargo de los órganos operativos del Instituto; y
-
-IX. Acordar con el Director los asuntos de su competencia.
+(DEROGADO, P.O. 11 DE FEBRERO DE 2011)
 
 > <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2009)</small>
 
@@ -1158,3 +1204,13 @@ P.O. 12 DE FEBRERO DE 2010.
 P.O. 19 DE MARZO DE 2010.
 
 > <small>N. DE E. EL ACUERDO DEL REGLAMENTO CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL PARA EL ESTADO DE QUERÉTARO.</small>
+
+P.O. 11 DE FEBRERO DE 2011.
+
+PRIMERO. Las presentes reformas entrarán en vigor a partir de su aprobación por el Consejo General.
+
+SEGUNDO. El Titular de la Secretaria Ejecutiva deberá expedir los lineamientos aplicables a la oficialía de partes, en un plazo no mayor a 30 días naturales, contados a partir de la entrada en vigor de las reformas del presente reglamento.
+
+TERCERO. La Comisión de Editorial y Biblioteca deberá emitir los lineamientos en materia de publicaciones y ediciones en las que participe el Instituto en un plazo no mayor a 30 días naturales, contados a partir de la entrada en vigor de las reformas del presente reglamento.
+
+CUARTO. Los asuntos que se encuentren en trámite, a la entrada en vigor del presente reglamento, se resolverán conforme a las normas que regían al momento de su inicio.
