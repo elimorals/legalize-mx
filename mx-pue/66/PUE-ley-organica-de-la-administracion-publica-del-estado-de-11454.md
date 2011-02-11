@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-de-la-administracion-publica-del-estado-de-11454"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1996-06-04"
-last_updated: "2010-12-31"
+last_updated: "2011-02-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11454&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "PUE"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE PUEBLA, PUBLICADA EN EL P.O. DE FECHA 11 DE FEBRERO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el martes 4 de junio de 1996.
 
@@ -2506,3 +2508,33 @@ P.O. 31 DE DICIEMBRE DE 2010.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 11 DE FEBRERO DE 2011.
+
+PRIMERO.- La presente Ley deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO.- Se abroga la Ley Orgánica de la Administración Pública del Estado de Puebla, publicada en el Periódico Oficial del Estado el 4 de junio de 1996, con sus reformas y adiciones.
+
+TERCERO.- Para el cumplimiento de esta Ley, el Ejecutivo a través de las instancias competentes, podrá reorganizar la estructura de las Dependencias, así como crear, fusionar, escindir o disolver las oficinas y departamentos necesarios, realizando las adecuaciones presupuestales de conformidad con lo estipulado en la Ley de Egresos del Estado de Puebla para el ejercicio fiscal que corresponda.
+
+CUARTO.- A la entrada en vigor del presente ordenamiento, la Secretaría de la Contraloría coordinará la transferencia de recursos humanos, materiales y financieros existentes, hacia las Dependencias que ejercerán las atribuciones para las que fueron originalmente asignados.
+
+QUINTO.- Cuando alguna unidad administrativa pase de una Dependencia a otra, conforme a lo establecido en esta Ley, la transferencia se realizará incluyendo los recursos humanos, financieros y materiales que la unidad administrativa haya utilizado para la atención de los asuntos que conoció.
+
+SEXTO.- Los asuntos que con motivo de la entrada en vigor de esta Ley deban pasar de una Dependencia o Entidad a otra, continuarán tramitándose por las unidades administrativas de origen hasta que éstas se incorporen a las nuevas Dependencias o Entidades, en términos de esta Ley.
+
+SÉPTIMO.- Todo instrumento legal, jurídico o administrativo y norma en sentido formal o material, que a la entrada del presente ordenamiento, se refiera a las Dependencias que se extinguen o modifican su denominación, se entenderá atribuido a las Dependencias a que se refiere el presente ordenamiento y a las que atribuya la competencia específica que en cada caso se relacione.
+
+OCTAVO.- Los derechos y obligaciones contractuales, contraídos por las Dependencias y Entidades cuya denominación se haya modificado por la presente Ley, serán atribuidos a la instancia que las sustituye.
+
+NOVENO.- Los derechos laborales del personal que, en virtud de lo dispuesto en la presente Ley pasen de una Dependencia a otra, se respetarán en términos de la Ley de los Trabajadores al Servicio de los Poderes del Estado.
+
+DÉCIMO.- El Ejecutivo del Estado dentro los noventa días naturales a partir de la entrada en vigor de la presente Ley, expedirá los reglamentos interiores correspondientes a las Dependencias comprendidas en esta Ley.
+
+En tanto no se expidan los reglamentos a que se refiere el párrafo anterior, las Dependencias y Entidades previstas por esta Ley, seguirán aplicando los reglamentos vigentes en todo aquello que no la contravengan.
+
+DÉCIMO PRIMERO.- Aquellas Entidades Paraestatales que además de Órganos de Gobierno, Dirección General u órgano de vigilancia, cuenten con patronatos, comisiones ejecutivas o sus equivalentes, se seguirán rigiendo de acuerdo con sus Leyes, Decretos de Creación u ordenamientos relativos, así como con reformas que en su caso se realicen.
+
+DÉCIMO SEGUNDO.- Las obligaciones que a las Entidades de la Administración Paraestatal impone esta Ley, no implica la modificación de su personalidad jurídica o el patrimonio de las mismas.
+
+DÉCIMO TERCERO.- Se derogan todas aquellas disposiciones que contravengan lo dispuesto por la presente Ley.
