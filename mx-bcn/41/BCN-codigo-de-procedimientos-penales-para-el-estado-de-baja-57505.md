@@ -4,7 +4,7 @@ identifier: "BCN-codigo-de-procedimientos-penales-para-el-estado-de-baja-57505"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-10-19"
-last_updated: "2011-02-09"
+last_updated: "2011-02-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57505&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "BCN"
 ---
 # CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 11 DE FEBRERO DE 2011 EN EL P.O. DEL ESTADO DE BAJA CALIFORNIA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA</small>
-
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA
 
 ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE FEBRERO DE 2011.
+
+> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 11 DE FEBRERO DE 2011 NO APLICA AL ARTICULADO DEL DECRETO 32 PUBLICADO EN EL P.O. DE 9 DE FEBRERO DE 2011.</small>
 
 Código publicado en la Sección III del Periódico Oficial del Estado de Baja California, el viernes 19 de octubre de 2007.
 
@@ -2269,7 +2269,7 @@ I. Los miembros de la policía, todos los delitos que presenciaren o llegaren a 
 
 II. Los servidores públicos, respecto de los delitos de que tengan conocimiento en el ejercicio o en ocasión de sus funciones y los que cometan sus subalternos;
 
-III. Los jefes de estaciones de autobuses o de otros medios de locomoción o de carga, y los conductores de autobuses u otros medios de transporte o de carga, por los delitos que se cometieren durante el viaje o en el recinto de una estación;
+III. Los jefes de estaciones de autobuses o de otros medios de locomoción o de carga, y los conductores de autobuses u otros medios de transporte o carga, por los delitos que se cometieren durante el viaje o en el recinto de una estación;
 
 IV. Los directores de establecimientos hospitalarios, clínicas particulares, establecimientos de salud y, en general, los profesionales en medicina, odontología, química, farmacia y de otras ramas relacionadas con la conservación o el restablecimiento de la salud, y los que ejercieren prestaciones auxiliares de éstas, cuando notaren en una persona o en un cadáver señales que hagan presumible la comisión de un delito; y
 
