@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-del-tribunal-de-lo-contencioso-61354"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-04-29"
-last_updated: "2008-04-29"
+last_updated: "2011-02-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61354&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE FEBRERO DE 2011.
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 29 de abril de 2008.
 
@@ -127,7 +127,9 @@ Dichos registros estarán bajo la responsabilidad del secretario de estudio y cu
 
 El Pleno celebrara sesiones ordinarias, extraordinarias y solemnes.
 
-Las sesiones ordinarias se realizaran el día miércoles de cada semana a las 11:00 once horas, pudiendo por acuerdo del Pleno celebrar sesiones en un día y hora diferentes.
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2011)</small>
+
+Las sesiones ordinarias se realizarán una vez por semana.
 
 Las sesiones extraordinarias se realizaran en los casos que lo ameriten, a convocatoria del Presidente o de la mayoría a de los Magistrados.
 
@@ -155,7 +157,9 @@ V. Emitir los acuerdos y resoluciones necesarios para el buen funcionamiento del
 
 VI. Autorizar anualmente el calendario oficial de labores del Tribunal y sus modificaciones;
 
-VII. Ordenar la publicación de los reglamentos y los acuerdos que se estimen de interés general, en el Periódico Oficial del Gobierno del Estado;
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2011)</small>
+
+VII. Expedir los reglamentos y los acuerdos que se estimen de interés general y solicitar su publicación en el Periódico Oficial del Gobierno del Estado;
 
 VIII. Establecer, de acuerdo con la Ley, los criterios, lineamientos y procedimientos para el desempeño y evaluación de los servidores públicos del Tribunal; y
 
@@ -351,9 +355,11 @@ Los actuarios en las diligencias y notificaciones que practiquen, deberán condu
 
 El Consejo se integrará por los Magistrados en funciones y será necesaria la presencia de la mayoría para tomar sus decisiones.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 25.
 
-Las sesiones ordinarias del Consejo se celebrarán el día viernes de cada semana, a partir de las 11:00 once horas, pudiendo por acuerdo del mismo celebrar sesiones en un día y hora diferentes.
+Las sesiones ordinarias del Consejo se celebrarán una vez por semana.
 
 El Consejo celebrará sesiones extraordinarias cuando sea convocado por el Presidente o cuando lo solicite la mayoría de los Magistrados Consejeros.
 
@@ -805,7 +811,7 @@ XII. Las demás que le confieran las leyes y los reglamentos, así como los acue
 
 ## TÍTULO TERCERO. DE LAS LICENCIAS Y PERMISOS
 
-### CAPÍTULO UNICO
+### CAPÍTULO UNICO. (REUBICADO [N. DE E. ANTES ARTICULO 54], P.O. 11 DE FEBRERO DE 2011)
 
 ###### Artículo 52.
 
@@ -815,11 +821,17 @@ El Consejo podrá conceder licencias sin goce del sueldo hasta por seis meses en
 
 Los permisos con goce de sueldo que no excedan de tres días en un mes podrán ser concedidos a juicio del titular del área al que se encuentre adscrito el servidor público que lo solicite, los que no podrán exceder de tres veces al año.
 
+> <small>(ADICIONADO, P.O. 11 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 54.
 
-Por el incumplimiento de las disposiciones legales respectivas, el Pleno aplicará las sanciones a los servidores públicos del Tribunal, de acuerdo a lo establecido por la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Guanajuato y sus Municipios y de la Ley del Trabajo de los Servidores Públicos al Servicio del Estado y de los Municipios.
+Las ausencias del personal por licencias por maternidad, incapacidades por enfermedad general y riesgos de trabajo, se podrán suplir mediante acuerdo del Consejo.
 
 ## TÍTULO CUARTO. DE LAS INFRACCIONES Y SANCIONES
+
+###### Artículo 55.
+
+Por el incumplimiento de las disposiciones legales respectivas, el Pleno aplicará las sanciones a los servidores públicos del Tribunal, de acuerdo a lo establecido por la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Guanajuato y sus Municipios y de la Ley del Trabajo de los Servidores Públicos al Servicio del Estado y de los Municipios.
 
 ## TRANSITORIOS
 
@@ -850,3 +862,9 @@ Magistrado Propietario de la Cuarta Sala
 Lic. Yolanda García Castillo
 
 Secretaria General de Acuerdos
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 11 DE FEBRERO DE 2011.
+
+ÚNICO.- El presente Acuerdo entrará en vigor al cuarto día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
