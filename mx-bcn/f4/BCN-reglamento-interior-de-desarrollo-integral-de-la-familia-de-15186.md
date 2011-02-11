@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-de-desarrollo-integral-de-la-familia-de-151
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-09-10"
-last_updated: "2010-11-26"
+last_updated: "2011-02-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15186&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCN"
 
 REGLAMENTO INTERIOR DE DESARROLLO INTEGRAL DE LA FAMILIA DE MEXICALI, BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE NOVIEMBRE DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DE DESARROLLO INTEGRAL DE LA FAMILIA DE MEXICALI, BAJA CALIFORNIA, PUBLICADO EN EL P.O. DE FECHA 11 DE FEBRERO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 10 de septiembre de 1999.
 
@@ -362,3 +364,17 @@ P.O. 26 DE NOVIEMBRE DE 2010.
 ###### ARTÍCULO ÚNICO.
 
 El presente Reglamento Interior entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 11 DE FEBRERO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+Se abroga el Reglamento Interior de Desarrollo Integral de la Familia de Mexicali, Baja California, publicado en el Periódico Oficial del Estado de Baja California, en fecha 10 de Septiembre de 1999 y se aprueba el nuevo Reglamento Interior de Desarrollo Integral de la Familia de Mexicali, Baja California.
+
+###### ARTICULO SEGUNDO.
+
+El presente Reglamento Interior entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+###### ARTICULO TERCERO.
+
+A partir de la publicación del presente, se dará un plazo de 30 días, a efecto de que se someta a consideración de la Junta de Gobierno el proyecto de Reglamento Interno de cada Centro Asistencial para su análisis y aprobación.
