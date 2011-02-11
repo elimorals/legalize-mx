@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-hacienda-del-estado-libre-y-soberano-de-puebla-78369"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-08"
-last_updated: "2010-12-08"
+last_updated: "2011-02-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78369&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE HACIENDA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE FEBRERO DE 2011.
 
 Ley publicada en la Cuarta Sección del Periódico Oficial del Estado de Puebla, el miércoles 8 de diciembre de 2010.
 
@@ -839,13 +839,17 @@ DEL OTORGAMIENTO DE BENEFICIOS EN EL PAGO DEL IMPUESTO
 
 Se establece un Programa de apoyo del 100% en el pago del Impuesto Sobre Tenencia o Uso de Vehículos, en beneficio de las personas físicas y morales propietarias, tenedoras o usuarias de vehículos, que cumplan con los requisitos siguientes:
 
-I.- Estar inscrito en el Registro Estatal Vehicular en el ejercicio fiscal inmediato anterior a aquél en que se cause el impuesto;
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2011)</small>
+
+I.- Estar inscrito en el Registro Estatal Vehicular;
 
 II.- Estar al corriente en el pago del Impuesto Sobre Tenencia o Uso de Vehículos, ya sea estatal o federal;
 
-III.- Estar al corriente en el pago de los derechos previstos en la Ley de Ingresos del Estado, que se vinculen con la propiedad, tenencia o uso o prestación de servicios relacionados con los vehículos objeto de este impuesto;
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2011)</small>
 
-IV.- Comprobar la adquisición en territorio del Estado, tratándose de vehículos nuevos; y
+III.- Estar al corriente en el pago de los derechos previstos en la Ley de Ingresos del Estado, que se vinculen con la propiedad, tenencia o uso o prestación de servicios relacionados con los vehículos objeto de este impuesto; y
+
+IV.- (DEROGADA, P.O. 11 DE FEBRERO DE 2011)
 
 V.- Ratificar y, en los casos que proceda, actualizar los datos en el Registro Estatal Vehicular mediante la presentación de la declaración informativa o de los actos administrativos correspondientes.
 
@@ -1211,23 +1215,23 @@ DE LAS FACULTADES DE LAS AUTORIDADES FISCALES
 
 La Secretaría de Finanzas y Administración como autoridad fiscal del Estado, integrará y administrará el Registro Estatal Vehicular, relativo a los vehículos que sean dados de alta en su jurisdicción territorial y lo mantendrá actualizado mediante los trámites o movimientos a que se refiere el artículo 88 de esta Ley, así como con los resultados de los actos de verificación y comprobación que para estos efectos realice.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 92.
 
-En el trámite de inscripción de vehículos nuevos o usados, la Secretaría de Finanzas y Administración expedirá a los contribuyentes previo pago de los derechos que correspondan, las placas de circulación, calcomanía de identificación vehicular, tarjeta de circulación con chip de radiofrecuencia de seguridad y holograma de control vehicular.
+En el trámite de inscripción de vehículos nuevos o usados, la Secretaría de Finanzas y Administración expedirá a los contribuyentes previo pago de los derechos que correspondan, las placas de circulación, calcomanía de identificación vehicular y tarjeta de circulación.
 
 Se entenderá por placa de circulación, la forma oficial valorada consistente en el trozo de metal troquelado, con características y diseños particulares que sirve como distintivo de esta Entidad Federativa, cuya clasificación, características y especificaciones se sujetarán a la Norma Oficial Mexicana y demás disposiciones federales aplicables.
 
 Se considerará placa oficial, aquélla diseñada en los términos y condiciones a que se refiere el párrafo anterior y que se dé a conocer por el Gobernador del Estado a través del Órgano de Difusión Oficial, la que estará vigente hasta en tanto se autorice otra que la sustituya.
 
-En los trámites y movimientos a que se refieren las fracciones II, III, IV y VI del artículo 88 de esta Ley, la Secretaría de Finanzas y Administración expedirá una nueva tarjeta de circulación que no contiene chip de radiofrecuencia de seguridad.
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2011)</small>
+
+En los trámites y movimientos a que se refieren las fracciones III, IV y VI del artículo 88 de esta Ley, la Secretaría de Finanzas y Administración expedirá una nueva tarjeta de circulación.
 
 ###### Artículo 93.
 
-La Secretaría de Finanzas y Administración expedirá un holograma de control vehicular a los propietarios, tenedores o usuarios de los vehículos por los que se haya efectuado el pago de los derechos por los servicios de control vehicular.
-
-El holograma de control vehicular es una forma oficial valorada que servirá como medio de control fiscal, el que tendrá vigencia únicamente en el ejercicio fiscal en el que se expida.
-
-En caso de deterioro, robo o extravío del holograma de control vehicular, el contribuyente deberá solicitar la reposición del mismo ante la Secretaría de Finanzas y Administración, previo el pago de los derechos que para estos efectos establezca la Ley de Ingresos del Estado para el ejercicio fiscal que corresponda.
+(DEROGADO, P.O. 11 DE FEBRERO DE 2011)
 
 ###### Artículo 94.
 
@@ -1290,3 +1294,15 @@ Se dejan sin efecto aquellas disposiciones legales y administrativas que se opon
 EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza, a los dos días del mes de diciembre de dos mil diez.- Diputada Presidenta.- CARMEN ERIKA SUCK MENDIETA.- Rúbrica.- Diputado Vicepresidente.- ENRIQUE GUEVARA MONTIEL.- Rúbrica.- Diputado Secretario.- JAVIER AQUINO LIMÓN.- Rúbrica.- Diputado Secretario.- MELITÓN LOZANO PÉREZ.- Rúbrica.
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los tres días del mes de diciembre de dos mil diez.- El Gobernador Constitucional del Estado.- LICENCIADO MARIO P.- MARÍN TORRES.- Rúbrica.- El Secretario de Gobernación. LICENCIADO VALENTÍN JORGE MENESES ROJAS.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 11 DE FEBRERO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones de carácter legal y administrativo que se opongan al presente Decreto.
