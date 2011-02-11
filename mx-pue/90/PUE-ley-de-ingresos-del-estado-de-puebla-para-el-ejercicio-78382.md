@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-ingresos-del-estado-de-puebla-para-el-ejercicio-78382"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2010-12-20"
-last_updated: "2010-12-20"
+last_updated: "2011-02-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78382&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE INGRESOS DEL ESTADO DE PUEBLA, PARA EL EJERCICIO FISCAL 2011
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE FEBRERO DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Puebla, el lunes 20 de diciembre de 2010.
 
@@ -827,7 +827,9 @@ c) Por el trámite de baja de placas de circulación del Registro Estatal Vehicu
 
 Para que la autoridad fiscal entregue placas o calcomanía alfanumérica de identificación vehicular y la tarjeta de circulación a que refiere este artículo, es requisito indispensable la comprobación de estar al corriente en el pago del Impuesto Sobre Tenencia o Uso de Vehículos Federal o Estatal, según corresponda, o que demuestre haber gozado de algún beneficio en esta materia; del Impuesto Sobre Adquisición de Vehículos Automotores Usados y de los derechos por servicios de control vehicular, en los casos que procedan.
 
-II.- Por los servicios de control vehicular de servicio público de transporte y del servicio mercantil, servicio particular y remolque, que incluye holograma, se pagará anualmente $315.00
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE FEBRERO DE 2011)</small>
+
+II.- Por los servicios de control vehicular de servicio público de transporte y del servicio mercantil, servicio particular y remolque, se pagará anualmente $315.00
 
 El plazo para el pago de los derechos a que se refiere esta fracción, será el mismo que se señale para el pago del Impuesto Sobre Tenencia o Uso de Vehículos. Tratándose de vehículos automotores del servicio público y particular, el entero de dichas contribuciones deberá realizarse en un mismo acto.
 
@@ -841,15 +843,15 @@ c) Cuando los concesionarios o permisionarios del servicio público de transport
 
 III.- Por la expedición o reposición de tarjeta de circulación para cualquier vehículo del servicio particular $315.00
 
-En los trámites de inscripción o alta de vehículos se entregará al propietario, tenedor o usuario del automotor, la tarjeta de circulación del servicio particular con chip de radiofrecuencia de seguridad del Registro Estatal Vehicular.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 11 DE FEBRERO DE 2011)</small>
 
-IV.- Por la reposición del holograma de control vehicular $210.00
+IV.- (DEROGADA, P.O. 11 DE FEBRERO DE 2011)
 
 V.- Por la reposición de la calcomanía alfanumérica de identificación vehicular $210.00
 
 VI.- Por la expedición de permisos provisionales con vigencia de 2 a 15 días para que un vehículo de motor del servicio particular circule sin placas de identificación, incluyendo forma oficial $315.00
 
-VII.- Por la reposición del chip de radiofrecuencia de seguridad del Registro Estatal Vehicular $140.00
+VII.- (DEROGADA, P.O. 11 DE FEBRERO DE 2011)
 
 APARTADO B
 
@@ -2160,3 +2162,15 @@ No será aplicable la carga financiera a que se refiere este artículo, cuando l
 EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza, a los trece días del mes de diciembre de dos mil diez.- Diputa Presidenta.- CARMEN ERIKA SUCK MENDIETA.- Rúbrica.- Diputado Vicepresidente.- ENRIQUE GUEVARA MONTIEL.- Rúbrica.- Diputado Secretario.- JAVIER AQUINO LIMÓN.- Rúbrica.- Diputado Secretario.- MELITÓN LOZANO PÉREZ.- Rúbrica.
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los catorce días del mes de diciembre de dos mil diez.- El Gobernador Constitucional del Estado.- LICENCIADO MARIO P. MARÍN TORRES.- Rúbrica.- El Secretario de Gobernación.- LICENCIADO VALENTÍN JORGE MENESES ROJAS.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 11 DE FEBRERO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones de carácter legal y administrativo que se opongan al presente Decreto.
