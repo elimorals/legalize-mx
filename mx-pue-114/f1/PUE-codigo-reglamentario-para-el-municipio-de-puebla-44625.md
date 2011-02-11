@@ -4,7 +4,7 @@ identifier: "PUE-codigo-reglamentario-para-el-municipio-de-puebla-44625"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-31"
-last_updated: "2011-02-02"
+last_updated: "2011-02-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE FEBRERO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE FEBRERO DE 2011.
 
 Código publicado en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2004.
 
@@ -661,7 +661,7 @@ Si algún miembro del Cabildo sé inconforma con el trámite que el Presidente M
 
 Sólo se suspenderá la discusión de un asunto por las causas siguientes:
 
-I. Por que el pleno del cabildo acuerde dar preferencia a otro asunto de mayor importancia o urgencia;
+I. Por que (sic) el pleno del cabildo acuerde dar preferencia a otro asunto de mayor importancia o urgencia;
 
 II. Por propuesta de suspensión que realice algún Regidor quien deberá expresar lo motivos fundados de su solicitud y ésta sea aprobada por la mayoría del Cabildo; y
 
@@ -5177,7 +5177,7 @@ XI. Estudiar los desastres en el Municipio y sus efectos;
 
 XII. Expedir y modificar los acuerdos, instructivos, circulares y demás disposiciones administrativas que procedan para el debido cumplimiento de este Capítulo;
 
-XIII. Solicitar el auxilio de la fuerza pública cuando fuere necesario para hacer cumplir sus determinaciones sin necesidad de autorización previa; y
+XIII. Solicitar el auxilio de la fuerza pública cuando fuere necesario para hacer cumplir sus determinaciones sin necesidad de autorización previa; y (sic)
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -5187,11 +5187,11 @@ XIV. Vigilar que en los establecimientos o los espectáculos se observe el cupo 
 
 XV. Solicitar y verificar que las salidas de emergencia estén libres de llaves, candados o cualquier otro objeto que pueda obstruir o bloquear las mismas, pudiendo liberar éstas en el momento de la verificación e inspección;
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+(ADICIONAR, P.O. 31 DE DICIEMBRE DE 2008)
 
 XVI. Solicitar y verificar que los establecimientos comerciales cuenten con medidas de seguridad que controlen sus accesos; y
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+(ADICIONAR, P.O. 31 DE DICIEMBRE DE 2008)
 
 XVII. Las demás que le confieran otras leyes, decretos, reglamentos y acuerdos.
 
@@ -6145,7 +6145,7 @@ III. Cantidad de elementos de seguridad privada o auxiliar en su caso, dentro y 
 
 IV. Los dispositivos y mecanismos que garanticen la seguridad e integridad de los espectadores y participantes;
 
-V. El número y ubicación de cámaras de video, que se instalarán en el lugar en que se llevará acabo el espectáculo público, en los casos que determine la Secretaría de Seguridad Pública y Tránsito Municipal, quien fijará los mecanismos para su monitoreo;
+V. El número y ubicación de cámaras de video, que se instalarán en el lugar en que se llevará acabo (sic) el espectáculo público, en los casos que determine la Secretaría de Seguridad Pública y Tránsito Municipal, quien fijará los mecanismos para su monitoreo;
 
 VI. La coordinación con la Secretaría de Seguridad Pública y Tránsito Municipal que garantice la instrumentación del mismo; y
 
@@ -7033,7 +7033,7 @@ VII. Acatarán estrictamente las órdenes de la Autoridad;
 
 VIII. Por ningún motivo podrán insolentarse con el público, sancionándose esto en igual forma que la que se prevé en este Capítulo para los matadores; y
 
-IX. Permanecerán en la Plaza hasta que hallan terminado el espectáculo, retirándose previo permiso de la Autoridad.
+IX. Permanecerán en la Plaza hasta que hallan (sic) terminado el espectáculo, retirándose previo permiso de la Autoridad.
 
 ###### Artículo 555.
 
@@ -8075,7 +8075,7 @@ IX. (DEROGADA, P.O. 11 DE DICIEMBRE DE 2006)
 
 X. (DEROGADA, P.O. 11 DE DICIEMBRE DE 2006)
 
-XI. (DERO0GADA, P.O. 11 DE DICIEMBRE DE 2006)
+XI. (DEROGADA, P.O. 11 DE DICIEMBRE DE 2006)
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -9771,6 +9771,14 @@ II. Cuando estén en condiciones de sanidad que permitan su uso en la alimentaci
 
 > <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2009)</small>
 
+Artículo 639 Unvicies.- Para la imposición de las sanciones administrativas a que se refiere el artículo 639 Octodecies, la autoridad sanitaria municipal tomará en cuenta la gravedad de la infracción, la reincidencia, los daños y perjuicios causados, los antecedentes, circunstancias personales y situación socioeconómica del infractor.
+
+Las sanciones de referencia se impondrán, sin perjuicio de la responsabilidad administrativa o penal de la competencia de autoridad diversa.
+
+Si el incumplimiento a lo dispuesto en el presente Capítulo implica la comisión de un delito, los responsables serán puestos a disposición de la autoridad competente.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2009)</small>
+
 Artículo 639 Duovicies.- La autoridad sanitaria municipal, en caso de detectar alguna anomalía que no sea de su competencia, dará aviso a la dependencia correspondiente.
 
 ### CAPÍTULO 18. ANUNCIOS
@@ -10807,15 +10815,15 @@ RÉGIMEN DE LAS VIAS PÚBLICAS: Las vías públicas son bienes del dominio públ
 
 ###### Artículo 684.
 
-IMPROCEDENCIA DE LA EXPEDICION DE DOCUMENTOS EN VIAS PUBLICAS DE HECHO: El Municipio no estará obligado a expedir alineamiento y autorización de uso de suelo, número oficial, licencias de construcción, ni orden o autorización para instalación de servicios públicos, para predios con frente a vías públicas de hecho, o aquellas que se presuman como tales, si éstas no se ajustan a la planificación oficial y cumplen con lo que se establece en este Capítulo.
+IMPROCEDENCIA DE LA EXPEDICIÓN DE DOCUMENTOS EN VÍAS PÚBLICAS DE HECHO: El Municipio no estará obligado a expedir alineamiento y autorización de uso de suelo, número oficial, licencias de construcción, ni orden o autorización para instalación de servicios públicos, para predios con frente a vías públicas de hecho, o aquellas que se presuman como tales, si éstas no se ajustan a la planificación oficial y cumplen con lo que se establece en este Capítulo.
 
 ###### Artículo 685.
 
-VIAS PUBLICAS PROCEDENTES DE URBANIZACIONES: Los inmuebles que en el plano oficial de una urbanización, aprobados por el Ayuntamiento aparezcan destinados a vías públicas o al uso que determine el Ayuntamiento, se considerarán por ese sólo hecho, sujetos a la normatividad y disposición que determine el propio Ayuntamiento.
+VÍAS PÚBLICAS PROCEDENTES DE URBANIZACIONES: Los inmuebles que en el plano oficial de una urbanización, aprobados por el Ayuntamiento aparezcan destinados a vías públicas o al uso que determine el Ayuntamiento, se considerarán por ese sólo hecho, sujetos a la normatividad y disposición que determine el propio Ayuntamiento.
 
 ###### Artículo 686.
 
-LICENCIA PARA LA EJECUCION DE OBRAS EN LA VÍA PÚBLICA: Se requiere licencia del Ayuntamiento a través de la Dirección para:
+LICENCIA PARA LA EJECUCIÓN DE OBRAS EN LA VÍA PÚBLICA: Se requiere licencia del Ayuntamiento a través de la Dirección para:
 
 I. Realizar obras, modificaciones o reparaciones a los servicios públicos o privados en la vía pública;
 
@@ -10847,7 +10855,7 @@ La ocupación de la vía pública con mobiliario urbano utilizado con fines publ
 
 ###### Artículo 688.
 
-PROHIBICION DE USO DE LA VÍA PÚBLICA: Queda prohibido a los particulares, el uso de la vía pública en los siguientes casos:
+PROHIBICIÓN DE USO DE LA VÍA PÚBLICA: Queda prohibido a los particulares, el uso de la vía pública en los siguientes casos:
 
 I. Para aumentar el área de un predio o de una construcción;
 
@@ -10893,7 +10901,7 @@ Cuando la autoridad municipal tenga necesidad de remover o retirar dichas obras 
 
 ###### Artículo 692.
 
-RETIRO DE OBSTACULOS DE LA VÍA PÚBLICA: El Ayuntamiento tomará las medidas necesarias para mantener, obtener o recuperar la posesión de la vía pública, así como para remover o retirar cualquier obstáculo de éstas, en los términos que señalan las leyes y disposiciones aplicables.
+RETIRO DE OBSTÁCULOS DE LA VÍA PÚBLICA: El Ayuntamiento tomará las medidas necesarias para mantener, obtener o recuperar la posesión de la vía pública, así como para remover o retirar cualquier obstáculo de éstas, en los términos que señalan las leyes y disposiciones aplicables.
 
 ###### Artículo 693.
 
@@ -10905,7 +10913,7 @@ Los vehículos que carguen o descarguen materiales para una obra, podrán estaci
 
 ###### Artículo 695.
 
-OBRAS O INSTALACIONES EJECUTADAS EN LA VÍA PÚBLICA SIN AUTORIZACION: El que ocupe sin autorización la vía pública con construcciones o instalaciones superficiales, aéreas o subterráneas, estará obligado a retirarlas o a demolerlas, independientemente de la sanción administrativa a que se haga acreedor.
+OBRAS O INSTALACIONES EJECUTADAS EN LA VÍA PÚBLICA SIN AUTORIZACIÓN: El que ocupe sin autorización la vía pública con construcciones o instalaciones superficiales, aéreas o subterráneas, estará obligado a retirarlas o a demolerlas, independientemente de la sanción administrativa a que se haga acreedor.
 
 ###### Artículo 696.
 
@@ -11323,7 +11331,7 @@ VII. Carnet de Director Responsable de Obra y Corresponsables;
 
 VIII. Estudio de riesgo, en su caso.
 
-LICENCIA DE CONSTRUCCION ESPECÍFICA
+LICENCIA DE CONSTRUCCIÓN ESPECÍFICA
 
 ## TÍTULO ÚNICO. DE LOS SERVICIOS PÚBLICOS A CARGO DEL MUNICIPIO DE PUEBLA
 
@@ -11497,7 +11505,7 @@ Los edificios que se proyecten para dos o más de los usos que regula este orden
 
 ###### Artículo 763.
 
-APROBACION DE PROYECTOS: La Dirección, revisará los proyectos arquitectónicos que le sean presentados para la obtención de licencias y aprobación de aquellos que cumplan con las disposiciones legales vigentes.
+APROBACIÓN DE PROYECTOS: La Dirección, revisará los proyectos arquitectónicos que le sean presentados para la obtención de licencias y aprobación de aquellos que cumplan con las disposiciones legales vigentes.
 
 ###### Artículo 764.
 
@@ -12267,7 +12275,7 @@ Los estacionamientos deberán tener carriles separados para la entrada y salida 
 
 ###### Artículo 844.
 
-AREAS DE ESPERA PARA RECEPCIÓN Y ENTREGA DE VEHÍCULOS: Los estacionamientos tendrán áreas de espera techadas para la recepción y entrega de vehículos, ubicadas a cada lado de los carriles, estas áreas deberán tener una longitud mínima de seis metros una anchura mínima de 1.20 m; el piso terminado estará elevado 15 cm. sobre la superficie de rodamiento de los vehículos.
+ÁREAS DE ESPERA PARA RECEPCIÓN Y ENTREGA DE VEHÍCULOS: Los estacionamientos tendrán áreas de espera techadas para la recepción y entrega de vehículos, ubicadas a cada lado de los carriles, estas áreas deberán tener una longitud mínima de seis metros una anchura mínima de 1.20 m; el piso terminado estará elevado 15 cm. sobre la superficie de rodamiento de los vehículos.
 
 ###### Artículo 845.
 
@@ -12361,7 +12369,9 @@ La licencias que se conceda para levantar una construcción provisional, deberá
 
 El propietario de una construcción provisional, estará obligado a conservarla en buen estado, ya que de lo contrario, la Dirección, podrá ordenar su derribo aun sin haberse llegado al término de la licencia de uso que se hubiere otorgado, de conformidad con lo señalado en este Capítulo a costa del propietario; apoyada en un dictamen de la Unidad Operativa Municipal de Protección Civil.
 
-CEMENTERIOS
+> <small>(REFORMADA SU DENOMINACION, P.O. 11 DE FEBRERO DE 2011)</small>
+
+PANTEONES
 
 > <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
 
@@ -12369,7 +12379,9 @@ CEMENTERIOS
 
 Corresponde a la Dirección, conceder licencia para el establecimiento de nuevos panteones en el Municipio, sean municipales o construidos y administrados por particulares, debiendo ser condición esencial para el otorgamiento de los permisos particulares, el que los servicios de sepulturas se presten sin limitación por credos políticos, religiosos o de nacionalidad.
 
-Para concederse la autorización para el establecimiento de un panteón, se tendrá en cuenta los Programas de Desarrollo Urbano y las disposiciones jurídicas municipales en materia de Panteones para el Municipio de Puebla dispuestas en el presente Código Reglamentario.
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2011)</small>
+
+Para concederse la autorización para el establecimiento de un panteón, se tendrá en cuenta los Programas de Desarrollo Urbano, y las disposiciones jurídicas municipales en materia de Panteones para el Municipio de Puebla dispuestas en el presente Código Reglamentario y/o en las disposiciones jurídicas emitidas por la Agencia de Protección al Ambiente y Desarrollo Sustentable.
 
 > <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
 
@@ -12907,7 +12919,7 @@ DE LAS FOSAS SÉPTICAS Y PLANTAS DE TRATAMIENTO
 
 ###### Artículo 916.
 
-En el caso de casa habitación aisladas que no cuente con factibilidad de descarga de sus aguas residuales a un sistema municipal, el o los propietarios, implementarán fosas sépticas que por ningún motivo deberán construirse en la vía publica y de acuerdo con las condiciones de su descarga, previo permiso tramitado ante el organismo operador correspondiente, quien dará las condiciones normativas; copia de este trámite se anexará a la solicitud de descarga de agua residuales que se presente a la Dirección.
+En el caso de casa habitación aisladas que no cuente con factibilidad de descarga de sus aguas residuales a un sistema municipal, el o los propietarios, implementarán fosas sépticas que por ningún motivo deberán construirse en la vía pública y de acuerdo con las condiciones de su descarga, previo permiso tramitado ante el organismo operador correspondiente, quien dará las condiciones normativas; copia de este trámite se anexará a la solicitud de descarga de agua residuales que se presente a la Dirección.
 
 ###### Artículo 917.
 
@@ -13465,7 +13477,7 @@ Cuando se trate de estructuras o elementos estructurales que se produzcan en for
 
 La selección de las partes de la estructura que se ensayen y del sistema de carga que se aplique deberá hacerse de manera que se obtengan las condiciones más desfavorables que puedan presentarse en la práctica pero tomando en cuenta la interacción con otros elementos estructurales.
 
-Con base en los resultados de los ensayes, se deducirá una resistencia nominal tal que la probabilidad de que no sea alcanzada sea de dos por ciento, tomando en cuenta las posibles diferencias entre las propiedades mecánicas y geométricas medidas en los especimenes ensayados y las que puedan esperarse en las estructuras reales.
+Con base en los resultados de los ensayes, se deducirá una resistencia nominal tal que la probabilidad de que no sea alcanzada sea de dos por ciento, tomando en cuenta las posibles diferencias entre las propiedades mecánicas y geométricas medidas en los especímenes ensayados y las que puedan esperarse en las estructuras reales.
 
 El tipo de ensaye, el tamaño de la muestra y la resistencia nominal de diseño deducida, deberán ser aprobados por la Dirección, la cual podrá exigir una comprobación de la resistencia de la estructura mediante una prueba de carga. La resistencia de diseño se obtendrá a partir de la nominal, de acuerdo con el artículo 978.
 
@@ -13765,9 +13777,11 @@ CAMBIOS DE CARGA: El propietario será responsable de los prejuicios que ocasion
 
 DISEÑO POR SISMO
 
+> <small>N. DE E. VEASE FORMULAS EN P.O. DE 31 DE DICIEMBRE DE 2004, PAGINAS 207 A 208.</small>
+
 ###### Artículo 994.
 
-Notación: Cada símbolo empleado en el siguiente capitulo se definirá donde se use; los más importantes son:
+Notación: Cada símbolo empleado en el siguiente capítulo se definirá donde se use; los más importantes son:
 
 a. ordenada (sic) del espectro de diseño
 
@@ -13793,9 +13807,9 @@ Ri. Respuesta del modo
 
 T. Periodo natural de intereses
 
-Ta. límite (sic) inferior de la meseta espectral
+Ta. límite inferior de la meseta espectral
 
-Tb. límite (sic) superior de la meseta espectral
+Tb. límite superior de la meseta espectral
 
 Tc. 2Ta periodo característico
 
@@ -13811,11 +13825,13 @@ CLASIFICACIÓN DE LAS CONSTRUCCIONES
 
 Atendiendo a la seguridad estructura, las construcciones se clasifica según su destino como se indica a continuación:
 
-Grupo A. Estructural aconsejable para la estructura alto, las construcciones se clasifican según alto. Construcciones cuya falla estructural causaría la pérdida de un número elevado de vidas o perdidas económicas o culturales de magnitud excepcionalmente alta, o que constituya peligro significativo por contener sustancias tóxicas o inflamables, así como construcciones cuyo funcionamiento sea esencialmente a raíz de un sismo. Tal es el caso de puentes principales, sistemas de abastecimiento de agua potable, subestaciones eléctricas, centrales telefónicas, estaciones de bombeos, archivos y registro públicos, monumentos, museos, hospitales, escuelas, estadios, templos, terminales de transporte, salas de espectáculos y hoteles que tengan áreas de reunión que puedan alojar un número elevado de personas, gasolineras, depósito de sustancias inflamables o tóxicas y locales que alojen especialmente costoso. (sic)
+Grupo A. Estructural aconsejable para la estructura alto, las construcciones se clasifican según alto. Construcciones cuya falla estructural causaría la pérdida de un número elevado de vidas o pérdidas económicas o culturales de magnitud excepcionalmente alta, o que constituya peligro significativo por contener sustancias tóxicas o inflamables, así como construcciones cuyo funcionamiento sea esencialmente a raíz de un sismo. Tal es el caso de puentes principales, sistemas de abastecimiento de agua potable, subestaciones eléctricas, centrales telefónicas, estaciones de bombeos, archivos y registro públicos, monumentos, museos, hospitales, escuelas, estadios, templos, terminales de transporte, salas de espectáculos y hoteles que tengan áreas de reunión que puedan alojar un número elevado de personas, gasolineras, depósito de sustancias inflamables o tóxicas y locales que alojen especialmente costoso. (sic)
 
-Grupo B. Estructura en (sic) que requiere un grado de seguridad intermedio. Construcción es (sic) la falla estructural ocasionaría pérdida de magnitud intermedia o podría (sic) en peligro otras construcciones de este grupo o del A, tales como naves industriales, locales, comercios, estructuras comunes destinados a viviendo (sic) u oficinas, salas de espectáculos, hoteles, deposito y estructuras urbanos (sic) o industriales no incluido en el grupo A del presente artículo, así como muros de retención, bodegas con altura mayor de 2.5 m.
+Grupo B. Estructura en que requiere un grado de seguridad intermedio. Construcción es la falla estructural ocasionaría pérdida de magnitud intermedia o podría en peligro otras construcciones de este grupo o del A, tales como naves industriales, locales, comercios, estructuras comunes destinados a viviendo u oficinas, salas de espectáculos, hoteles, deposito y estructuras urbanos o industriales no incluido en el grupo A del presente artículo, así como muros de retención, bodegas con altura mayor de 2.5 m. (sic)
 
 Grupo C. Estructuras en que es admisible un grado de seguridad bajo. Construcciones cuya falla estructural ocasionaría pérdida de magnitud sumamente pequeña y no causaría normalmente daños a construcciones de los grupos A y B del presente artículo, ni pérdida de vidas. Se incluyen en este grupo, por ejemplo, bodegas provisionales y bardas con altura no mayor de 2.5 m.
+
+> <small>N. DE E. VEASE FORMULAS EN P.O. DE 31 DE DICIEMBRE DE 2004, PAGINAS 209 A 210.</small>
 
 ###### Artículo 996.
 
@@ -13883,15 +13899,17 @@ Tipo 3 Suelos de consistencia de muy blanda para limos y arcillas o depósitos a
 
 ELECCIÓN DEL TIPO DE ANALISIS
 
-I. Análisis estático y dinámico.- Todo estructura podrá analizarse mediante un método dinámico según se establece este Capítulo. Las estructuras que no pasen de 60m de alto podrán analizarse, como alternativa, mediante el método estático que se describe este Capítulo; y
+I. Análisis estático y dinámico.- Todo (sic) estructura podrá analizarse mediante un método dinámico según se establece este (sic) Capítulo. Las estructuras que no pasen de 60m de alto podrán analizarse, como alternativa, mediante el método estático que se describe este (sic) Capítulo; y
 
 II. El método simplificado de análisis.- El método simplificado que se especifica en este Capítulo será aplicable al análisis de estructura que cumplan simultáneamente los siguientes requisitos:
 
-1. En cada planta, el menos el 75 por ciento de las cargas verticales estarán soportadas por muros ligados entre sí mediante losas monolíticas u otros sistemas de piso suficientemente resistentes rígidos al corte. Dichos muros tendrá (sic) distribución sensiblemente simétrica con respecto a dos ejes ortogonales y deberán satisfacer las condiciones que establecen las correspondientes norma técnica del RCDF para estructuras de concreto o mampostería. Será admisible de cierta asimetría en la administración de los muros cuando en todos los pisos cuando menos dos muros de carga perimetrales paralelos entre así, cada uno con longitud no menor de la mitad de la dimensión mayor en planta de la estructura. Los muros a que se refiere este párrafo podrán ser de mampostería, concreto reforzado o madera; en este ultimo caso estarán arrostrados con diagonales.
+1. En cada planta, el menos el 75 por ciento de las cargas verticales estarán soportadas por muros ligados entre sí mediante losas monolíticas u otros sistemas de piso suficientemente resistentes rígidos al corte. Dichos muros tendrá (sic) distribución sensiblemente simétrica con respecto a dos ejes ortogonales y deberán satisfacer las condiciones que establecen las correspondientes norma técnica del RCDF para estructuras de concreto o mampostería. Será admisible de cierta asimetría en la administración de los muros cuando en todos los pisos cuando menos dos muros de carga perimetrales paralelos entre así, cada uno con longitud no menor de la mitad de la dimensión mayor en planta de la estructura. Los muros a que se refiere este párrafo podrán ser de mampostería, concreto reforzado o madera; en este último caso estarán arrostrados con diagonales.
 
 2. La relación entra (sic) la longitud y anchura de la planta de la estructura no excederá de 2, a menos, que, para fines de análisis sísmicos, se pueda suponer divida (sic) dicha planta en tramos independientes cuya relación entre longitud y anchura esta (sic) restricción y cada tramo resistencia la fuerza cortante que le corresponde calculada como se indica.
 
 3. La relación entre la altura y la dimensión mínima de la base estructura excederá de 1.5 y la altura de la estructura no será mayor de 13 m.
+
+> <small>N. DE E. VEASE FORMULAS EN P.O. DE 31 DE DICIEMBRE DE 2004, PAGINAS 211 A 212.</small>
 
 ###### Artículo 998.
 
@@ -13947,6 +13965,8 @@ K: 0.4, 0.5 y 0.6 para terrenos tipo I, II, III, respectivamente.
 
 En ninguna situación valores del amortiguador mayores 10%, salvo cuando se adopten dispositivos especiales de disipación de energía y se demuestre a satisfacción del Ayuntamiento tanto la eficiencia de los dispositivos como la validez de los valores del amortiguamiento propuestos.
 
+> <small>N. DE E. VEASE FORMULAS EN P.O. DE 31 DE DICIEMBRE DE 2004, PAGINAS 212 A 213.</small>
+
 ###### Artículo 999.
 
 REDUCCIÓN DE FUERZAS SÍSMICAS
@@ -13983,7 +14003,7 @@ I. Se usará Q = 4 cuando se cumplan los requisitos siguientes:
 
 1. La resistencia en todos los entrepisos es suministrada exclusivamente por marcos no contra venteados de acero o concreto reforzado, o bien por marcos contra venteados o con muros de concreto o con muros de concreto reforzado en los que en cada entrepiso los marcos son capaces de resistir, sin contar muros ni contravientos, cuando menos 50 por ciento de la fuerza sísmica actualmente.
 
-2.Si los muros ligados adecuadamente en todo su perímetro a los marcos estructurales o a castillado y dalas ligadas a los marcos, éstos se deben tener en cuenta en el análisis de la estructura, pero su contribución a la capacidad fuerzas laterales sólo se tomará en cuenta si estos muros son de piezas macizas, y los marcos, sean o no contra venteados, y los muros de concreto reforzados son capaces de resistir al menos 80 por ciento de las fuerzas laterales totales sin la contribución de los muros de mampostería.
+2. Si los muros ligados adecuadamente en todo su perímetro a los marcos estructurales o a castillado y dalas ligadas a los marcos, éstos se deben tener en cuenta en el análisis de la estructura, pero su contribución a la capacidad fuerzas laterales sólo se tomará en cuenta si estos muros son de piezas macizas, y los marcos, sean o no contra venteados, y los muros de concreto reforzados son capaces de resistir al menos 80 por ciento de las fuerzas laterales totales sin la contribución de los muros de mampostería.
 
 3. En el mínimo cociente de la capacidad resistente de y un entrepiso entre la acción y el diseño no diferente en más de 35 por ciento de promedio de dichos cocientes para todos los entre piso. Para verificar el cumplimiento de este requisito, se calculará la capacidad resistente de cada entrepiso teniendo en cuenta todos los elementos que puedan contribuir a la resistencia de cada entrepiso teniendo en cuenta todos los elementos que pueda contribuir a la resistencia, en particular los muros ligados a la estructura en la forma especificada en el requisito 2.
 
@@ -14019,7 +14039,7 @@ IV. En planta no tiene entrantes ni salientes cuya dimensión exceda de 20 por c
 
 V. En cada nivel tiene un sistema de techo o piso rígido y resistente;
 
-VI. No tiene aberturas en lo sistemas de techo o piso cuya dimensión exceda de 20 por ciento de la dimensión de la planta medida paralelamente a la dirección que se considera de la abertura, las áreas huecas no ocasionan asimetría significativas ni difieran en posición de un piso a otro y el área total de aberturas no excede en ningún nivel de 20 por ciento de dicho piso;
+VI. No tiene aberturas en los sistemas de techo o piso cuya dimensión exceda de 20 por ciento de la dimensión de la planta medida paralelamente a la dirección que se considera de la abertura, las áreas huecas no ocasionan asimetría significativas ni difieran en posición de un piso a otro y el área total de aberturas no excede en ningún nivel de 20 por ciento de dicho piso;
 
 VII. El peso de cada nivel, incluyendo la carga viva que debe considerarse para diseño sísmico, no es mayor que el del piso inminente inferior ni, excepción hecha del último nivel de la construcción, es menor que 70 por ciento de dicho peso;
 
@@ -14028,6 +14048,8 @@ VIII. Ningún piso tiene un área, delimitada por los baños exteriores de sus e
 IX. Todas las columnas están restringidas en todos los pisos en dos direcciones ortogonales por diafragmas horizontales y por trabes o losas planas.
 
 Ningún entrepiso la excentricidad torsional calculada estáticamente, e, excede del 10 por ciento de la dimensión en planta de ese entrepiso medida paralelamente a la excentricidad mencionada.
+
+> <small>N. DE E. VEASE FORMULAS EN P.O. DE 31 DE DICIEMBRE DE 2004, PAGINA 215.</small>
 
 ###### Artículo 1002.
 
@@ -14056,6 +14078,8 @@ H < 4 4 < H < 7 7 < H < 13 H < 4 4 < H < 7 7 < H < 13
 3 0.13 0.16 0.19 0.15 0.19 0.23
 
 Para el diseño de elementos principales de piso o techo, incluyendo voladizos, se tendrá en cuenta el efecto de la aceleración vertical del terreno como se indica el presente Capítulo.
+
+> <small>N. DE E. VEASE FORMULAS EN P.O. DE 31 DE DICIEMBRE DE 2004, PAGINAS 215 A 219.</small>
 
 ###### Artículo 1003.
 
@@ -14157,7 +14181,7 @@ VI. Efectos de torsión
 
 La excentricidad de rigideces calculada estáticamente en cada entrepiso, e, se tomará como la distancia entre el centro de torsión del nivel correspondiente y la fuerza cortante en dicho entrepiso.
 
-Para fines de diseño, el momento torsionante se tomará por lo menos igual a la fuerza cortante de entrepiso multiplicada por la excentricidad que para marco o muro resulte más favorable de las siguientes: 1.5e, 0.1b ó e,- 0.1b, en que b es la dimensión de la planta que se considera medida en la dirección de e, calculando para los entrepisos que hallan a bajo del que se considera, ni tomará el momento de la (sic) torsionamiento de ese entrepiso menor que la mitad del máximo calculado para los efectos para los entrepisos que están del considerado.
+Para fines de diseño, el momento torsionante se tomará por lo menos igual a la fuerza cortante de entrepiso multiplicada por la excentricidad que para marco o muro resulte más favorable de las siguientes: 1.5e, 0.1b ó e,- 0.1b, en que b es la dimensión de la planta que se considera medida en la dirección de e, calculando para los entrepisos que hallan a bajo del (sic) que se considera, ni tomará el momento de la (sic) torsionamiento de ese entrepiso menor que la mitad del máximo calculado para los efectos para los entrepisos que están del considerado.
 
 En estructuras para las que el factor de comportamiento sísmico Q especificado en el presente Capítulo sea igual a 3 ó mayor, en ningún entrepiso la excentricidad torsional calculada estáticamente deberá exceder de 0.2b. Para estas estructuras deberá tomarse en cuenta que el efecto de la torsión se puede incrementar cuando algunos de sus elementos resistentes que contribuyan significativamente a la rigidez total de entrepiso entre en el intervalo no lineal o fallen. A fin de disminuir este efecto, las resistencias de los elementos que toman la fuerza cortante de entrepiso deben ser sensiblemente proporcionales a sus rigideces y dichos elementos debe ser de la misma índole, es decir que si en un lado la rigidez y resistencia son suministradas predominantemente por columnas en el lado opuesto también deben serlo predominantemente por columnas, o si de un lado por muros de concreto en el opuesto también por muros de concreto, etc.
 
@@ -14192,6 +14216,8 @@ La separación entre cuerpos de una misma estructura o entre estructuras adyacen
 X. Comportamiento asimétrico
 
 En el diseño de estructuras cuyas relaciones fuerza deformación difiera en sentido opuesto se dividirá los factores de resistencia correspondiente entre 1+2 5d Q, en que d es la diferencia en los valores de a/Q; expresados como fracción de la aceleración de la gravedad, que causarían la falla o fluencia plástica de la construcción en uno y otro sentido.
+
+> <small>N. DE E. VEASE FORMULAS EN P.O. DE 31 DE DICIEMBRE DE 2004, PAGINAS 220 A 221.</small>
 
 ###### Artículo 1004.
 
@@ -14242,6 +14268,8 @@ Si con el método de análisis dinámico que se haya aplicado se encuentra que, 
 Efectos Tridireccionales
 
 Cualquiera que sea el método dinámico de análisis que se emplee, los efectos de movimientos horizontales y verticales del terreno en direcciones ortogonales se combinarán como especifica en relación con el método estadístico de análisis sísmico. Igualmente aplicables son las demás disposiciones relativas al cálculo de fuerzas internas y desplazamiento laterales señaladas en el presente Capítulo, con las salvedades que señala el presente artículo.
+
+> <small>N. DE E. VEASE FORMULAS EN P.O. DE 31 DE DICIEMBRE DE 2004, PAGINAS 221 A 224.</small>
 
 ###### Artículo 1005.
 
@@ -14371,11 +14399,11 @@ ESTRUCTURAS EXISTENTES: En la revisión de la seguridad de un edificio existente
 
 ###### Artículo 1008.
 
-TANQUES: En el diseño de tanques deberán tomarse en cuenta las presiones hidroneumáticas y las oscilaciones del liquido almacenado ç, así como los momentos que obren en el fondo del recipiente.
+TANQUES: En el diseño de tanques deberán tomarse en cuenta las presiones hidroneumáticas y las oscilaciones del líquido almacenado ç, así como los momentos que obren en el fondo del recipiente.
 
 ###### Artículo 1009.
 
-MUROS DE RETENCION: Los empujes que ejercen los rellenos sobre los muros de retención debidos a la acción de los sismos, se valoraran suponiendo que el muro y la zona de relleno por encima de la superficie critica de deslizamiento se encuentran en equilibrio limite bajo la acción de las fuerzas debidas a la carga vertical.
+MUROS DE RETENCIÓN: Los empujes que ejercen los rellenos sobre los muros de retención debidos a la acción de los sismos, se valoraran suponiendo que el muro y la zona de relleno por encima de la superficie critica de deslizamiento se encuentran en equilibrio limite bajo la acción de las fuerzas debidas a la carga vertical.
 
 ###### Artículo 1010.
 
@@ -14431,7 +14459,7 @@ II. Empujes dinámicos paralelos y transversales al flujo principal, causados po
 
 III. Vibraciones transversales al flujo causadas por vórtices alternantes; y
 
-IV. Inestabilidad aeroestática.
+IV. Inestabilidad aeroestática (sic).
 
 Para el diseño de las estructuras tipo 1, bastará tener en cuenta los empujes estáticos del viento, calculados de acuerdo con el Artículo.
 
@@ -14439,11 +14467,11 @@ Para el diseño de las estructuras Tipo 2, deberán incluirse los efectos estát
 
 Las estructuras tipo 3, deberán diseñarse de acuerdo con los criterios especificados para las de tipo 2, pero además deberá revisarse su capacidad para resistir los efectos dinámicos, de los vórtices alternantes.
 
-Para estructuras de tipo 4, los efectos del viento deberán valuarse de acuerdo con un procedimiento de análisis que tome en cuenta las características de turbulencia y sus efectos dinámicos, pero en ningún caso serán menores que los especificados para el tipo 1, los problemas de inestablidad aeroelástica ameritarán estudios especiales que deberán ser aprobados por el Ayuntamiento.
+Para estructuras de tipo 4, los efectos del viento deberán valuarse de acuerdo con un procedimiento de análisis que tome en cuenta las características de turbulencia y sus efectos dinámicos, pero en ningún caso serán menores que los especificados para el tipo 1, los problemas de inestablidad (sic) aeroelástica ameritarán estudios especiales que deberán ser aprobados por el Ayuntamiento.
 
 ###### Artículo 1015.
 
-EMPUJES ESTATICOS: Las presiones o succiones debidas al viento se supondrán perpendiculares a la superficie sobre la cual actúan. Su intensidad se calculará con la expresión:
+EMPUJES ESTÁTICOS: Las presiones o succiones debidas al viento se supondrán perpendiculares a la superficie sobre la cual actúan. Su intensidad se calculará con la expresión:
 
 P = 0.0055 cV² (a)
 
@@ -14523,7 +14551,7 @@ Para valores de D/H comprendidos entre 0.3 y 1.0 interpólese linealmente.
 
 Cuando el viento actúe paralelamente a las generatrices, se supondrá las zonas y presiones establecidas para cubiertas horizontales. Para éstos fines se tomará como altura de la construcción de su punto más alto.
 
-V. EN CUBIERTAS DE UNA AGUA: Cuando el viento esté actuando normalmente a las generatrices horizontales, y la cubierta esté orientada hacia el lado de barlovento, serán aplicables los coeficientes de la tabla para cubiertas de dos aguas. Si la cubierta esta orientada hacia el lado de sotavento, y su inclinación excede de 15°, se tomará c= -0.68 si su inclinación es menor de 15°, para analizar los efectos de viento actuando paralelamente a las generatrices, se supondrán las zonas y presiones establecidas para cubiertas horizontales;
+V. EN CUBIERTAS DE UNA AGUA: Cuando el viento esté actuando normalmente a las generatrices horizontales, y la cubierta esté orientada hacia el lado de barlovento, serán aplicables los coeficientes de la tabla para cubiertas de dos aguas. Si la cubierta está orientada hacia el lado de sotavento, y su inclinación excede de 15°, se tomará c= -0.68 si su inclinación es menor de 15°, para analizar los efectos de viento actuando paralelamente a las generatrices, se supondrán las zonas y presiones establecidas para cubiertas horizontales;
 
 VI. EN CUBIERTAS EN FORMA DE DIENTES DE SIERRA: Los efectos de viento perpendicular a las generatrices actuando sobre el primer diente, se calcularán como se especifica para las cubiertas de una agua.
 
@@ -14561,7 +14589,7 @@ FACTOR DE RAFAGA: En las construcciones pertenecientes al Tipo 2, los efectos es
 
 ###### Artículo 1021.
 
-VIBRACIONES CAUSADAS POR VORTICES ALTERNANTES: En el diseño de las estructuras del Tipo 3 deberán tomarse en cuenta los efectos dinámicos generales y los locales de las fuerzas transversales causadas por vórtices alternantes.
+VIBRACIONES CAUSADAS POR VÓRTICES ALTERNANTES: En el diseño de las estructuras del Tipo 3 deberán tomarse en cuenta los efectos dinámicos generales y los locales de las fuerzas transversales causadas por vórtices alternantes.
 
 En la valuación de estos efectos, se aplicarán criterios aprobados por el Ayuntamiento a través de la Dirección.
 
@@ -14617,7 +14645,7 @@ AÑO MES VELOCIDAD km/h DIRECCIÓN
 
 1983 Febrero 57.6 SW
 
-Datos sobre el viento extraordinario del día 8 de Mayo de l984.
+Datos sobre el viento extraordinario del día 8 de Mayo de 1984.
 
 suma de velocidades en 24 horas 171.8 m/s
 
@@ -14635,11 +14663,11 @@ CIMENTACIONES
 
 ###### Artículo 1022.
 
-CIMENTACION: Para solicitar la licencia de construcción se deberá contar con el proyecto estructural de la edificación, el cual deberá contener el diseño de la cimentación, entendiéndose como tal elemento o elementos que constituyen en la sub-estructura incluyendo el terreno de cimentación sobre la que ésta se desplante.
+CIMENTACIÓN: Para solicitar la licencia de construcción se deberá contar con el proyecto estructural de la edificación, el cual deberá contener el diseño de la cimentación, entendiéndose como tal elemento o elementos que constituyen en la sub-estructura incluyendo el terreno de cimentación sobre la que ésta se desplante.
 
 ###### Artículo 1023.
 
-CLASIFICACIÓN DE LAS PAVIMENTACIONES: Las cimentaciones podrán ser de dos tipos: Superficiales y profundas, correspondiendo las primeras aquellas cuya profundidad de desplante sea menor o igual a 2 veces el ancho de la cimentación y las segundas, aquellas en las cuales las cargas de la estructura a estratos mas profundos que garanticen un apoyo adecuado.
+CLASIFICACIÓN DE LAS PAVIMENTACIONES: Las cimentaciones podrán ser de dos tipos: Superficiales y profundas, correspondiendo las primeras aquellas cuya profundidad de desplante sea menor o igual a 2 veces el ancho de la cimentación y las segundas, aquellas en las cuales las cargas de la estructura a estratos más profundos que garanticen un apoyo adecuado.
 
 Dentro de las cimentaciones superficiales se encuentran las siguientes:
 
@@ -14663,7 +14691,7 @@ La elección del tipo de cimentación dependerá de los factores relativos a la 
 
 ###### Artículo 1024.
 
-DISEÑO DE LA CIMENTACION: Toda cimentación se deberá diseñar desde el punto de vista estructural y de mecánica de suelos.
+DISEÑO DE LA CIMENTACIÓN: Toda cimentación se deberá diseñar desde el punto de vista estructural y de mecánica de suelos.
 
 El diseño estructural deberá tomar en cuenta todos los factores relativos a servicio, estados límite, resistencia, cargas, etc., contenidos en este Capítulo.
 
@@ -14765,7 +14793,7 @@ Cada uno de estos estados límite de falla deberán evaluarse para las condicion
 
 ###### Artículo 1036.
 
-ACCIONES: En el diseño de las cimentaciones se considerarán las disposiciones de este capítulo, así como el peso propio de lo elementos estructurales de la cimentación, las descargas por excavación, los pesos y empujes laterales de los rellenos y lastres que graviten sobre los elementos estructurales de la cimentación, las descargas por excavación, los pesos y empujes laterales de los rellenos y lastres que graviten sobre los elementos de cimentación y todas las otras acciones localizadas en la propia cimentación y su vecindad.
+ACCIONES: En el diseño de las cimentaciones se considerarán las disposiciones de este capítulo, así como el peso propio de los elementos estructurales de la cimentación, las descargas por excavación, los pesos y empujes laterales de los rellenos y lastres que graviten sobre los elementos estructurales de la cimentación, las descargas por excavación, los pesos y empujes laterales de los rellenos y lastres que graviten sobre los elementos de cimentación y todas las otras acciones localizadas en la propia cimentación y su vecindad.
 
 La consideración explícita de la consolidación regional, será particularmente importante para cimentaciones sobrecompensadas o sobre pilas o pilotes. Se tomará en cuenta que en algunas partes del Municipio, los niveles piezométricos son variables y pueden abatirse con respecto a su nivel actual o recuperarse en el futuro al modificarse el bombeo de los mantos acuíferos. En el análisis de los estados límite de servicio, la acción de la subpresión hidrostática, se tomará con un factor de carga unitario, pero esta acción sólo se incluirá si puede garantizarse un grado razonable de estanquidad de la subestructura.
 
@@ -14965,7 +14993,7 @@ Queda prohibido el paso de tuberías conductoras de gas por el interior de las p
 
 ###### Artículo 1068.
 
-CALENTADORES: Los calentadores de gas para agua, podrán colocarse en patio o azoteas y cuando e instalen en cocina, deberán colocarse adosados a algunos de lo muros que limiten con el exterior y provistos de un sistema que permita una ventilación constante.
+CALENTADORES: Los calentadores de gas para agua, podrán colocarse en patio o azoteas y cuando se instalen en cocina, deberán colocarse adosados a algunos de lo muros (sic) que limiten con el exterior y provistos de un sistema que permita una ventilación constante.
 
 ###### Artículo 1069.
 
@@ -15163,7 +15191,7 @@ El almacenamiento de los primeros, se regirá por lo dispuesto en este Capítulo
 
 El almacenamiento de los materiales explosivos que no ofrecen por sí los peligros inminentes, deberán hacerse en locales fuera de las instalaciones de las fábricas a distancia no menor de 15 m de la vía pública, las bodegas tendrán paredes de ladrillo con espesor no menor de 28 cm. y el techo de material ligero, la ventilación deberá ser natural por medio de ventanas o ventilas según convenga.
 
-VIVIENDAS DE INTERES SOCIAL
+VIVIENDAS DE INTERÉS SOCIAL
 
 ###### Artículo 1097.
 
@@ -15257,7 +15285,7 @@ I. Industria de alto riesgo;
 
 II. Industria o comercio que abarque más de 1,000 m3;
 
-III. Inmueble de mas de 3 niveles; y
+III. Inmueble de más de 3 niveles; y
 
 IV. Sitios públicos o centros de reunión masiva.
 
@@ -15341,7 +15369,7 @@ TABLA 1 CLASE DE RIESGO
 
 7 6 5 4 3
 
-CLASEA A4 A6 A10 A16 A20
+CLASE A A4 A6 A10 A16 A20
 
 CLASE B B10 B16 B20 B60 B80
 
@@ -15537,7 +15565,7 @@ X. Suministro de combustible para al menos 2 horas por cada bomba;
 
 XI. Las bombas tendrán check unidireccional en la descarga y hacia el múltiple de distribución;
 
-XII. La presión de descarga de las bombas será de 6.5 a 7.7 kg/cm², medida en el mas lejano de los hidrantes o monitores; y
+XII. La presión de descarga de las bombas será de 6.5 a 7.7 kg/cm², medida en el más lejano de los hidrantes o monitores; y
 
 XIII. La red contra incendio tendrá línea de recirculación para las pruebas de funcionamiento.
 
@@ -15573,7 +15601,7 @@ SISTEMAS DE ALARMA Y DETECCIÓN
 
 ###### Artículo 1134.
 
-Inmuebles especiales: Para los efectos del presente ordenamiento, en los inmuebles públicos, centros de reunión masiva; de más de tres niveles, industrias de alto riesgo, comercios o industrias con mas de 1,000 m³, deberán tener instalado:
+Inmuebles especiales: Para los efectos del presente ordenamiento, en los inmuebles públicos, centros de reunión masiva; de más de tres niveles, industrias de alto riesgo, comercios o industrias con más de 1,000 m³, deberán tener instalado:
 
 I. Sistema primario de alarma sonoro y luminoso para indicar la evacuación total del mismo;
 
@@ -15611,7 +15639,7 @@ I. Construcciones donde parte de los elementos estructurales sean de materiales 
 
 II. Construcciones donde todos los elementos estructurales son combustibles;
 
-III. Inmuebles con mas de tres niveles; Y
+III. Inmuebles con más de tres niveles; y
 
 IV. Sitios públicos o centros de reunión masiva.
 
@@ -15789,7 +15817,7 @@ Además, se deberá cumplir con los siguientes requisitos:
 
 I. Las escaleras y rampas de escape serán de materiales incombustibles, aisladas del edificio con puertas contra incendio de al menos 90 cm. de ancho y 2.05 mts de altura;
 
-II. En edificios de tres niveles o mas las escaleras de escape serán parte del cuerpo principal del inmueble y tendrán ducto de extracción de humos sobresaliendo 2.5 mts sobre el nivel de la azotea; y
+II. En edificios de tres niveles o más las escaleras de escape serán parte del cuerpo principal del inmueble y tendrán ducto de extracción de humos sobresaliendo 2.5 mts sobre el nivel de la azotea; y
 
 III. Las escaleras, pasillos, rampas y salidas serán de 1.20 mts de ancho efectivo como mínimo y se incrementarán 60 cm. por cada 75 personas o fracción de las mismas que llegaran a pasar por ese lugar.
 
@@ -15819,7 +15847,7 @@ a). El inspector deberá llevar una orden de inspección por escrito, en el que 
 
 Dicha orden deberá estar debidamente fundada y motivada por la autoridad que la expide.
 
-En caso de no encontrar al propietario o al representante legal o al director responsable de obra se dejará citatorio para que a mas tardar al día siguiente en una hora hábil se pueda realizar dicha diligencia y en caso de que este no aguarde la misma se entenderá con cualquier persona que se encuentre en el lugar a inspeccionar.
+En caso de no encontrar al propietario o al representante legal o al director responsable de obra se dejará citatorio para que a más tardar al día siguiente en una hora hábil se pueda realizar dicha diligencia y en caso de que este no aguarde la misma se entenderá con cualquier persona que se encuentre en el lugar a inspeccionar.
 
 b). Se levantará una acta circunstanciada, en presencia de dos testigos propuestos por el ocupante del lugar visitado o, en su ausencia o negativa, por la autoridad que practique la diligencia.
 
@@ -15941,7 +15969,7 @@ El personal de la UOMPROCI que sea designado para este tipo de inspecciones debe
 
 La Dirección o la UOMPROCI ordenarán al personal autorizado, la realización de la visita de inspección correspondiente, tendiente a valorar el grado de riesgo. Para emitir el dictamen técnico correspondiente, y así señalar las medidas de seguridad que procedan.
 
-Para tener acceso a la zona o inmueble objeto de la visita, bastará orden escrita, debidamente fundada y motivada. En caso de que no se permita el acceso al mismo, se podrá realizar con el auxilio de la fuerza pública o personal del ejército. Previo extrañamiento al poseedor, propietario o Director Responsable de Obra para el uso de la fuerza publica.
+Para tener acceso a la zona o inmueble objeto de la visita, bastará orden escrita, debidamente fundada y motivada. En caso de que no se permita el acceso al mismo, se podrá realizar con el auxilio de la fuerza pública o personal del ejército. Previo extrañamiento al poseedor, propietario o Director Responsable de Obra para el uso de la fuerza pública.
 
 ###### Artículo 1164.
 
@@ -16143,7 +16171,7 @@ a). Multa de 20 a 30 veces el salario mínimo general en el Municipio:
 
 b). De 60 a 80 veces el salario mínimo general en el Municipio.
 
-1. Cuando el Director Responsable de Obra no asista, por mas de 4 semanas consecutivas, a la obra, sin justificación en bitácora.
+1. Cuando el Director Responsable de Obra no asista, por más de 4 semanas consecutivas, a la obra, sin justificación en bitácora.
 
 2. Por retiro de sellos de las obras clausuradas.
 
@@ -17093,7 +17121,7 @@ Para la autorización de las obras a que se hace referencia en este Capítulo, e
 
 En el caso de hallazgo de monumentos arqueológicos, el responsable de la obra y el Ayuntamiento darán cumplimiento a lo estipulado en la Ley Federal sobre Monumentos y Zonas arqueológicos, Artísticos e Históricos.
 
-En tanto no actúe el INAH con respecto al hallazgo reportado, el Ayuntamiento tomará las medidas necesarias par asegurar provisionalmente la integridad de los vestigios.
+En tanto no actúe el INAH con respecto al hallazgo reportado, el Ayuntamiento tomará las medidas necesarias par (sic) asegurar provisionalmente la integridad de los vestigios.
 
 ###### Artículo 1228.
 
@@ -17421,7 +17449,7 @@ XXI. Entorno Urbano: Conjunto de elementos naturales y construidos que conforman
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-XXII. Estructura: Elemento de soporte anclado en terreno natural, inmueble o vehiculo, independiente o dependiente del anuncio donde se fije, instale, ubique o modifique el mensaje, la publicidad o propaganda;
+XXII. Estructura: Elemento de soporte anclado en terreno natural, inmueble o vehículo, independiente o dependiente del anuncio donde se fije, instale, ubique o modifique el mensaje, la publicidad o propaganda;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -17469,7 +17497,7 @@ XXXIII. Periódico Oficial: El Periódico Oficial del Estado;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-XXXIV. Permiso: Acto administrativo mediante el cual la Autoridad Municipal otorga su autorización para fijar, instalar, distribuir, ubicar o modificar los anuncios señalados en el articulo 1310 del presente Código Reglamentario;
+XXXIV. Permiso: Acto administrativo mediante el cual la Autoridad Municipal otorga su autorización para fijar, instalar, distribuir, ubicar o modificar los anuncios señalados en el artículo 1310 del presente Código Reglamentario;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -17511,29 +17539,41 @@ XLIII. Visita de Verificación: La diligencia de carácter administrativo que or
 
 XLIV. Zona de Monumentos: A la Zona descrita en el Capítulo de Construcciones del presente Código Reglamentario; y
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2011)</small>
 
-XLV. Zonas Publicitarias: Los Corredores Urbanos CAl (Corredor de Alto Impacto) y CUMS (Corredor de Servicios y Uso Mixto) que describe el Programa Municipal de Desarrollo Urbano Sustentable de Puebla, en donde la Autoridad correspondiente autorizará la colocación de anuncios.
+XLV. Zonas Publicitarias: Los Corredores Urbanos CAl (Corredor de Alto Impacto) y CUMS (Corredor de Servicios y Uso Mixto), en donde la Autoridad correspondiente autorizará la colocación de anuncios.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 Los conceptos que se definen en el presente artículo se establecen en forma enunciativa, más no limitativa.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 1254 Bis.
 
-La Secretaría de Gestión tiene las facultades y obligaciones siguientes:
+La Agencia tiene las facultades y obligaciones siguientes:
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 I. Someter a consideración del Ayuntamiento, los programas en materia de anuncios para su aprobación;
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 II. Establecer de acuerdo a su competencia y en apego a la normatividad vigente las políticas, criterios, sistemas y procedimientos en materia de anuncios;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 III. Poner a consideración de la Tesorería Municipal las propuestas en materia tributaria para la mejor definición de los elementos de las contribuciones, productos, aprovechamientos y demás conceptos de ingreso relacionados con la materia de anuncios;
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 IV. Proponer al Ayuntamiento las adecuaciones normativas necesarias para el cumplimiento de los programas en materia de anuncios;
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 V. Vigilar el cumplimiento y la correcta aplicación del presente Código Reglamentario y las demás disposiciones aplicables en materia de anuncios; y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 VI. Las demás que le confieran otras disposiciones legales o le asigne el Ayuntamiento, el Presidente y las que reciba por delegación o sean coordinadas en términos de los Convenios que se suscriban con Entidades Públicas.
 
@@ -17553,7 +17593,9 @@ IV. Emitir Dictámenes de Factibilidad previos al refrendo de Licencias y/o Perm
 
 V. Solicitar y proporcionar a la Tesorería Municipal y demás Autoridades del Ayuntamiento la información necesaria para el cumplimiento de sus funciones;
 
-VI. Coordinarse con la Tesorería Municipal a través de la Unidad de Normatividad y Regulación Comercial y/o con la Unidad Operativa Municipal de Protección Civil y con cualquier otra relacionada en la materia de anuncios, con el objeto de realizar las visitas de verificación, según corresponda y aplicar las disposiciones jurídicas relativas a anuncios;
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2011)</small>
+
+VI. Coordinarse con la Unidad Operativa Municipal de Protección Civil, en el ámbito de su competencia, cuando se requieran practicar visitas de inspección o verificación en materia de anuncios, según corresponda;
 
 VII. Solicitar a los titulares, propietarios, poseedores y/o responsables solidarios la documentación que acredite la vigencia y el cumplimiento de las normas jurídicas aplicables de la Licencia, Permisos y/o Permisos Publicitarios correspondientes;
 
@@ -17597,7 +17639,9 @@ III. Inscribirse en el Padrón de Anuncios al momento en que le sea otorgada la 
 
 IV. Solicitar ante la Agencia, el refrendo correspondiente dentro de los 25 días hábiles previos a la conclusión de la vigencia de la Licencia y/o Permiso;
 
-V. Mostrar la Licencia, Permiso y/o Permiso Publicitario, la póliza por responsabilidad y daños causados a terceros, así como la fianza señalada en la fracción IX de este artículo, cuando le sean requeridos por la Autoridad competente, en los casos de inspección o verificación o en cualquier otro momento que se le requiera;
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2011)</small>
+
+V. Mostrar la Licencia, Permiso y/o Permiso Publicitario, y en su caso, la póliza de seguro por responsabilidad y daños causados a terceros, así como la fianza señalada en la fracción IX de este artículo, cuando le sean requeridos por la Autoridad competente, en los casos de verificación o en cualquier otro momento que se le requiera;
 
 VI. Señalar un domicilio para recibir todo tipo de notificaciones y en general para la práctica de diligencias de carácter administrativo dentro del Municipio, e informar a la Agencia sobre los cambios que realice, los que deberán ser en el propio Municipio;
 
@@ -17605,9 +17649,13 @@ VII. Verificar que los anuncios se coloquen conforme a los medios de control que
 
 VIII. Declarar bajo protesta de decir verdad las medidas totales del área de exhibición del anuncio;
 
-IX. Otorgar fianza por afianzadora debidamente autorizada a favor de la Tesorería Municipal, por un monto de 500 a 1,500 días de salario mínimo general vigente en el Municipio de Puebla al momento de su otorgamiento, monto que será determinado por la Agencia de acuerdo al anuncio que se trate, de conformidad con lo establecido en el artículo 268 del Código Fiscal y Presupuestario para el Municipio de Puebla;
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2011)</small>
 
-X. Presentar póliza de seguro de responsabilidad civil y daños causados a terceros;
+IX. Exhibir fianza expedida por institución debidamente autorizada cuando se trate de aquellos anuncios señalados en las fracciones I, III, V, VI, VII, VIII, X, XI y XII del artículo 1299 del presente ordenamiento, a favor de la Tesorería Municipal, por un monto de 500 a 1,500 días de salario mínimo general vigente en el Municipio de Puebla al momento de su otorgamiento, para garantizar el retiro del anuncio, monto que será determinado por la Agencia de acuerdo al anuncio que se trate, de conformidad con lo establecido en el artículo 268 del Código Fiscal y Presupuestario para el Municipio de Puebla;
+
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2011)</small>
+
+X. Presentar póliza de seguro de responsabilidad civil y daños causados a terceros, cuando se trate de anuncios señalados por las fracciones I, III, V, VI, VII, VIII, X, Xl y XII del artículo 1299, y el inciso e) del tercer párrafo del artículo 1320 del presente ordenamiento;
 
 XI. Utilizar la Licencia, Permiso y/o Permiso Publicitario otorgado por la Agencia en el (los) lugar(es) en el (los) cual(es) fue autorizado, en razón de lo anterior queda estrictamente prohibido la utilización de postes de concreto y de madera pertenecientes a entidades paraestatales, paramunicipales, sociedades o cualquier otra persona física o jurídica de derecho público o privado, árboles, marquesinas, peldaños, cercas, bardas, mobiliario urbano o cualquier otro lugar que no sea autorizado;
 
@@ -17667,9 +17715,9 @@ VI. El vehículo o medio de transporte en caso de anuncio móvil;
 
 VII. La placa o folio que contendrá el número de Licencia, Permiso y/o Permiso Publicitario y la fecha de vencimiento del mismo.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2011)</small>
 
-Dicha placa deberá de permanecer en un lugar visible del anuncio, y se colocará en todos aquellos anuncios que requieran de una estructura anclada o fijada al piso, a la pared o a un vehículo; en todos los demás casos se usará folio que otorgará la Agencia.
+Dicha placa deberá permanecer en un lugar visible del anuncio y se colocará en aquellos anuncios señalados en las fracciones I, siempre que se trate de anuncios autosoportados de propaganda en espacios exteriores; lII; Vl, cuando se trate de anuncios espectaculares de propaganda en espacios exteriores; VII, X, XI y XII del Artículo 1299 del presente ordenamiento, así como en aquellos que se encuentren fijados a un vehículo.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -17681,13 +17729,15 @@ La Agencia contará con un Padrón de Anuncios, el cual tiene por objeto proporc
 
 En la construcción, instalación, colocación, fijación, modificación, ampliación, conservación, mantenimiento, reparación, retiro y/o demolición de las estructuras de anuncios, así como en la distribución de éstas, deberá observarse lo dispuesto en el presente Capítulo, sin perjuicio del cumplimiento de la normatividad aplicable.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 1259.
 
-La Unidad Operativa Municipal de Protección Civil y la Unidad de Normatividad y Regulación Comercial, para comprobar el cumplimiento de las disposiciones legales estarán facultadas para llevar a cabo visitas de verificación tendientes a la comprobación del cumplimiento de obligaciones reglamentarias en materia de anuncios.
+La Unidad Operativa Municipal de. Protección Civil y la Agencia, en el ámbito de su competencia, estarán facultadas para llevar a cabo visitas de inspección o verificación, según corresponda, tendientes a la comprobación del cumplimiento de obligaciones reglamentarias en materia de anuncios.
 
-Las visitas de verificación serán realizadas de manera conjunta o separada por las autoridades señaladas en el párrafo anterior, mismas que deberán informar el resultado de las mismas a la Agencia.
+La Unidad Operativa Municipal de Protección Civil deberá informar a la Agencia de su programa de visitas de inspección en materia de anuncios, así como del resultado de las mismas.
+
+Lo anterior con el propósito de establecer el programa de retiro de anuncios, y en su caso establecer la coordinación entre las áreas.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -17761,7 +17811,9 @@ b) Por su contenido, en:
 
 I. Anuncios denominativos:
 
-Los que contengan únicamente el nombre, denominación o razón social de una persona física o moral, el emblema, figura o logotipo con que sea identificada una empresa o establecimiento mercantil o bien que sirva para la identificación domiciliaria, de horarios de labores o atención y de la actividad que se desarrolle siempre y cuando sea instalado en el predio o inmueble donde se desarrolle su actividad;
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2011)</small>
+
+Los que contengan únicamente el nombre, denominación o razón social de una persona física o jurídica colectiva, el emblema, figura o logotipo con que sea identificada una empresa o establecimiento mercantil o de servicios, siempre y cuando sea instalado en el predio donde se desarrolle su actividad;
 
 II. Anuncios de propaganda en espacios exteriores:
 
@@ -17805,7 +17857,9 @@ Los que se coloquen sobre elementos o equipamiento considerados como mobiliario 
 
 VII. Anuncios en muros de colindancia:
 
-Los que se coloquen sobre los muros laterales o posteriores del inmueble, que colinden con otros predios o inmuebles;
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2011)</small>
+
+Los que se coloquen sobre los muros laterales o posteriores del inmueble, que colinden con otros predios, inmuebles o con la vía pública;
 
 VIII. Anuncios en objetos inflables:
 
@@ -18043,7 +18097,7 @@ I. Sólo se permitirán anuncios pintados que no persigan fines lucrativos, siem
 
 II. No se permitirá la instalación o fijación de mantas y lonas; y (sic)
 
-III. No se permitirá instalar este tipo de anuncios en la zona a que hace referencia el apartado relativo a la Zona de Monumentos del Capítulo de Construcciones, ni a una distancia menor de 200 metros, medidos en proyección horizontal a partir de los límites de las zonas referidas o de las fachadas de los inmuebles mencionados en esta fracción;
+III. (DEROGADA, P.O. 11 DE FEBRERO DE 2011)
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -18283,6 +18337,12 @@ Una vez que haya concluido el término por el que se expidió la Licencia corres
 
 El titular de la Licencia, al momento de realizar el retiro del espectacular, deberá notificar a la Agencia, así como a la Unidad Operativa Municipal de Protección Civil, con una anticipación de cuando menos cinco días hábiles al inicio de los trabajos que se llevarán a cabo con motivo de dicho retiro.
 
+> <small>(ADICIONADO, P.O. 11 DE FEBRERO DE 2011)</small>
+
+###### Artículo 1272 Sexies.
+
+Para efectos de interpretación de los artículos 1263 fracción XII, 1264 fracción V, 1270 Ter fracción VIII, 1271 fracción II, 1272 fracción II, y 1272 Quáter fracción II del presente Capítulo, se entenderá que por cada kilómetro lineal no existirán más de cinco anuncios, sin que se exija mayor distancia que la condicionada por cuestiones de protección civil y el debido uso de los servicios públicos.
+
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 1273.
@@ -18299,17 +18359,25 @@ El mobiliario urbano podrá contar con espacios para anuncios a título accesori
 
 Los espacios destinados para la publicidad en el mobiliario urbano, serán determinados de acuerdo al diseño, dimensiones y ubicación del mueble, mismos que serán analizados, evaluados y, en su caso, aprobados por el Ayuntamiento en apego a lo establecido en el presente Capítulo y demás disposiciones jurídicas, administrativas y técnicas aplicables.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 1276.
 
-Sólo se permitirá instalar publicidad a aquellas personas físicas o jurídicas las que se le rente o concesione la publicidad de puentes peatonales, sujetándose a las disposiciones del presente Capítulo en materia técnica y presentando propuesta de la estructura y tipo de publicidad a instalar, la cual será instalada una vez autorizada por el Ayuntamiento, y cubriendo lo siguiente:
+Sólo se permitirá instalar publicidad a aquellas personas físicas o jurídicas las que se les otorgue licencia para la colocación de publicidad en puentes peatonales, sujetándose a las disposiciones del presente Capítulo en materia técnica y cubriendo lo siguiente:
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 I. Los anuncios en puentes peatonales deberán ser instalados en la parte superior de los túneles, y por ningún motivo en los paramentos de los parapetos;
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 II. Las estructuras de los anuncios deberán estar integradas al diseño del puente, y no rebasar los 2.50 metros de altura a partir de la parte superior del túnel;
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 III. Las estructuras de los anuncios deberán sujetarse a lo referido en los artículos 1295 y 1296 del presente Código; y
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 IV. Queda prohibida la colocación de anuncios ocupando toda la longitud del túnel del puente. El espacio publicitario alojará un máximo de cuatro anuncios en dos carteleras con una dimensión máxima de 2.50 metros de altura por 7.00 metros de largo.
 
@@ -18609,13 +18677,13 @@ I. En vehículos que porten publicidad, se autorizarán anuncios adheribles sobr
 
 II. Deberá evitarse el deterioro y la alteración de las especificaciones de fabricación de la carrocería;
 
-III. Deberán ubicarse los anuncios por debajo del medallón transparente, sin obstruir la visibilidad de los emblemas de identificación, los dispositivos de iluminación y ref1ejantes o la placa, adecuándose sus dimensiones al modelo de cada unidad;
+III. Deberán ubicarse los anuncios por debajo del medallón transparente, sin obstruir la visibilidad de los emblemas de identificación, los dispositivos de iluminación y reflejantes o la placa, adecuándose sus dimensiones al modelo de cada unidad;
 
 IV. Sólo se permitirá la incorporación del anuncio sobre las superficies laminadas de los costados del vehículo, la del toldo y de la concha posterior;
 
 V. No se autorizará la instalación parcial o total del anuncio sobre las ventanillas de los costados, medallones transparentes, parabrisas, concha anterior o frontal y en los dispositivos de iluminación y reflejantes;
 
-VI. Deberán tener una vida útil minima de un año y soportar las condiciones climatológicas del ambiente;
+VI. Deberán tener una vida útil mínima de un año y soportar las condiciones climatológicas del ambiente;
 
 VII. No deberán invadir, parcial o totalmente, los marcos de la ventanería, rozaderas, vueltas de salpicaderas, defensas, caras de llantas y rines, ni molduras; (sic)
 
@@ -18715,7 +18783,7 @@ VII. Estructuras tipo tótem en centros o plazas comerciales;
 
 VIII. Todos aquellos que vayan a instalarse en inmuebles considerados como monumentos o colindantes a monumentos o en zona de monumentos con valor arqueológico, artístico o histórico;
 
-IX. Pintados sobre la superficie de los muros de colindancia de las edificaciones a que se refiere el artículo 1266 fracción I, de este ordenamiento; e (sic)
+IX. (DEROGADA, P.O. 11 DE FEBRERO DE 2011)
 
 X. Instalados en tapiales; y (sic)
 
@@ -18727,11 +18795,33 @@ XI. Anuncios en puentes peatonales; y
 
 XII. Anuncios en vallas publicitarias.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(ADICIONADO, P.O. 11 DE FEBRERO DE 2011)</small>
+
+###### Artículo 1299 Bis.
+
+Previo a la realización de los trámites para la obtención de la Licencia, el interesado deberá solicitar por escrito a la Agencia el Dictamen de Factibilidad, debiendo presentar:
+
+I. Cuando se actúe a través de un representante legal, el documento que acredite su personalidad;
+
+II. Representación gráfica que describa la forma, dimensiones, así como las especificaciones técnicas y los materiales de que estará constituido, incluyendo los datos de altura sobre el nivel de la banqueta y para el caso de anuncio en saliente volado o colgante, la saliente máxima desde el alineamiento del predio y desde el paramento de la construcción en la que quedará instalado el anuncio;
+
+III. Presentar copia de la autorización del Instituto Nacional de Antropología e Historia, o dictamen del Ayuntamiento, para inmuebles que se encuentren ubicados dentro de la Zona de Monumentos;
+
+IV. Proyecto arquitectónico, estructural y de instalaciones, firmado por el Director Responsable de Obra o Corresponsable, en el caso de los anuncios señalados en el artículo 1296 del presente ordenamiento;
+
+V. Memorias de cálculo estructural y de instalaciones, suscritas por el Director Responsable de Obra o Corresponsable. En el caso de anuncios en puentes peatonales la memoria deberá considerar los cálculos que garanticen la seguridad y estabilidad del puente con las estructuras publicitarias;
+
+VI. Memoria descriptiva de todos los elementos de la estructura, que incluya altura, dimensiones, materiales a emplear, número de carteleras y distancias a partir del alineamiento, suscritas por el titular de la licencia y el Director Responsable de Obra y/o el Corresponsable;
+
+Recibida la solicitud de Dictamen con la información y documentación completa, la Agencia en un plazo no mayor a diez días hábiles, contados a partir del día siguiente al de la fecha de recepción de la misma, deberá expedir el Dictamen de Factibilidad correspondiente o en su caso, negar la autorización fundando y motivando su resolución.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 1300.
 
-La solicitud de Licencia a que se refiere este apartado, deberá ser suscrita por el publicista o persona física o jurídica que se va a publicitar o por el propietario o poseedor del inmueble y, en su caso, por el representante legal de las personas antes mencionadas; por el Director Responsable de Obra y/o Corresponsable, en caso de que se requiera. La cual deber ser presentada debidamente requisitada ante la Agencia.
+La solicitud de Licencia a que se refiere este apartado, deberá ser suscrita por el propietario del anuncio y/o su representante legal, la cual deberá ser presentada debidamente requisitada ante la Agencia.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 Cuando sean varios los copropietarios del predio, el que deberá solicitar la Licencia será el representante legal de éstos, previa autorización por escrito de todos los copropietarios.
 
@@ -18739,13 +18829,13 @@ Cuando sean varios los copropietarios del predio, el que deberá solicitar la Li
 
 La solicitud anterior deberá contener la siguiente información:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2011)</small>
 
-I. Nombre, teléfono, denominación o razón social del publicista o persona física o jurídica que se va a publicitar, del propietario o poseedor del inmueble donde se instalará el anuncio y, en su caso, de los representantes legales de las personas mencionadas;
+I. Nombre, número telefónico, denominación o razón social del solicitante de la Licencia, del propietario del inmueble donde se instalará el anuncio y, en su caso, de los representantes legales de las personas mencionadas;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2011)</small>
 
-II. Domicilio para oír y recibir notificaciones, ubicado dentro del Municipio, del titular de la Licencia, del propietario o poseedor del inmueble donde se instalará el anuncio, de la persona física o jurídica que se va a publicitar o, en su caso, de sus respectivos representantes legales, y del Director Responsable de Obra o Corresponsable;
+II. Domicilio para oír y recibir notificaciones, ubicado dentro del Municipio, del titular de la Licencia, del propietario o poseedor del inmueble donde se instalará el anuncio, o en su caso, de sus respectivos representantes legales y del Director Responsable de Obra o Corresponsable;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -18759,59 +18849,63 @@ V. Fecha y firma.
 
 A la solicitud de licencia señalada en este Capítulo del presente ordenamiento, se le acompañará la documentación siguiente:
 
-I. Cuando se actúe a través de un representante legal, el documento que acredite su personalidad;
+I. (DEROGADA, P.O. 11 DE FEBRERO DE 2011)
 
-II. Representación gráfica que describa la forma, dimensiones y contenido del anuncio, así como las especificaciones técnicas y los materiales de que estará constituido, incluyendo los datos de altura sobre el nivel de la banqueta y para el caso de anuncio en saliente volado o colgante, la saliente máxima desde el alineamiento del predio y desde el paramento de la construcción en la que quedará instalado el anuncio;
+II. (DEROGADA, P.O. 11 DE FEBRERO DE 2011)
 
-III. Documento con el que el titular de la Licencia, el propietario y el poseedor acrediten su personalidad;
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2011)</small>
 
-IV. Escritura pública inscrita en el Registro Publico de la Propiedad y del Comercio, con la que se acredite la propiedad del inmueble sujeto al otorgamiento de la licencia;
+III. Documento con el que el solicitante acredite su personalidad tratándose de personas jurídico colectivas o de identificación, tratándose de personas físicas;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2011)</small>
 
-V. El documento con el que se acredite la propiedad, o en su caso, la posesión legal del inmueble sujeto al otorgamiento de la Licencia;
+IV. Escritura pública inscrita en el Registro Público de la Propiedad y del Comercio, con la que se acredite la posesión legal del inmueble sujeto al otorgamiento de la Licencia o en su caso el contrato de arrendamiento;
 
-VI. Cédula Fiscal del solicitante, propietario o poseedor, en la que conste el Registro Federal de Contribuyentes;
+V. (DEROGADA, P.O. 11 DE FEBRERO DE 2011)
 
-VII. Constancia de alineamiento y número oficial vigente;
+VI. (DEROGADA, P.O. 11 DE FEBRERO DE 2011)
+
+VII. (DEROGADA, P.O. 11 DE FEBRERO DE 2011)
 
 VIII. Copia de la Licencia de Construcción correspondiente, en su caso;
 
-IX. Autorización escrita, tratándose del o los propietarios o condóminos, en su caso, del o los inmuebles de anuncios de proyección óptica;
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2011)</small>
 
-X. Cuando se requiera, copia de la autorización del Instituto Nacional de Antropología e Historia, o dictamen del Ayuntamiento;
+IX. Autorización escrita del poseedor y propietario y en su caso, de los condóminos del inmueble;
 
-XI. Proyecto arquitectónico, estructural y de instalaciones, firmado por el Director Responsable de Obra o Corresponsable;
+X. (DEROGADA, P.O. 11 DE FEBRERO DE 2011)
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+XI. (DEROGADA, P.O. 11 DE FEBRERO DE 2011)
 
-XII. Memorias de cálculo estructural y de instalaciones, suscritas por el Director Responsable de Obra o Corresponsable. En el caso de anuncios en puentes peatonales la memoria deberá considerar los cálculos que garanticen la seguridad y estabilidad del puente con las estructuras publicitarias;
+XII. (DEROGADA, P.O. 11 DE FEBRERO DE 2011)
 
-XIII. Memoria descriptiva de todos los elementos de la estructura, que incluya altura, dimensiones, materiales a emplear, número de carteleras y distancias a partir del alineamiento, suscritas por el titular de la licencia y el Director Responsable de Obra y/o el Corresponsable;
+XIII. (DEROGADA, P.O. 11 DE FEBRERO DE 2011)
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2011)</small>
 
-XIV. Para la entrega de la Licencia y la placa o folio se deberá presentar el comprobante de pago de derechos, de conformidad con lo establecido en el Código Fiscal y Presupuestario para el Municipio de Puebla, así como la Ley de Ingresos Vigente, a excepción de los anuncios propios del establecimiento que se publicite, siempre que se encuentren instalados, fijados, adosados y cualquier otra forma de anuncio, en el mobiliario del establecimiento publicitado por el anuncio correspondiente, en cuyo caso no será necesario realizar el pago de los derechos a que se refiere esta fracción;
+XIV. Para la entrega de la Licencia y la placa se deberá presentar el comprobante de pago de derechos de conformidad con lo establecido en la Ley de Ingresos del Municipio de Puebla vigente;
 
 XV.- (DEROGADA, P.O. 27 DE MARZO DE 2006)
 
 XVI.- (DEROGADA, P.O. 27 DE MARZO DE 2006)
 
-> <small>(REFORMADA, P.O. 27 DE MARZO DE 2006)</small>
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2011)</small>
 
-XVII.- Presentar póliza de seguro de responsabilidad civil y daños causados a terceros;
+XVII. Cuando se trate de aquellos anuncios señalados por las fracciones I, lII, V, VI, VII, VIII, X, XI y XIl del artículo 1299 del presente ordenamiento, deberá presentar además:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+a) Póliza de seguro de responsabilidad civil y daños causados a terceros.
 
-XVIII. El Dictamen de Protección Civil favorable para los anuncios referidos en las fracciones I, III, IV, VI, VII, VIII, X, Xl y XII del artículo 1299 de este Capítulo;
+b) El Dictamen de Protección Civil favorable.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+c) Fianza señalada en el artículo 1255 fracción IX del presente Código Reglamentario.
 
-XIX. El Dictamen de Factibilidad favorable en todos los casos de anuncios fijos;
+XVIII. (DEROGADA, P.O. 11 DE FEBRERO DE 2011)
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2011)</small>
 
-XX. Presentar fianza señalada en el artículo 1255 fracción IX del presente Código Reglamentario;
+XIX. El Dictamen de Factibilidad favorable con fecha de expedición no mayor a 60 días. En el caso de que existan dos factibilidades que puedan contraponerse en cuanto a características técnicas o restricciones de distancia que se estipulan en este Código Reglamentario, tendrá preferencia aquella que sea ingresada en primer término para el trámite de la licencia;
+
+XX. (DEROGADA, P.O. 11 DE FEBRERO DE 2011)
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -18831,15 +18925,27 @@ Los documentos deberán presentarse en original y copia, una vez que hayan sido 
 
 LOS ANUNCIOS QUE PUBLICITEN
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 1303.
 
-Las Licencias tendrán una vigencia de hasta un año a partir de su otorgamiento y podrán ser refrendadas por la Agencia, previo pago de derechos de conformidad con lo establecido en el Código Fiscal y Presupuestario para el Municipio de Puebla, así como la Ley de Ingresos Vigente y previa realización de los dictámenes correspondientes, sin perjuicio del pago de derechos que el refrendo origine y de las facultades de verificación o inspección de las Autoridades competentes.
+En el otorgamiento de licencias o refrendo la Agencia deberá considerar los siguientes aspectos:
 
-El refrendo deberá solicitarse a más tardar veinticinco días hábiles previos a la conclusión de la vigencia de la Licencia, debiendo el solicitante actualizar los requisitos señalados en el artículo 1302.
+I. No podrá otorgarse ninguna licencia o refrendo sin la constatación previa del pago de derechos realizado ante la Tesorería, con independencia de que su vigencia se otorgue por uno o más ejercicios fiscales.
 
-En caso de no realizarlo en el término señalado se tendrá por no presentado debiéndose iniciar como si fuera la primera vez.
+Ningún pago presupone autorización provisional o definitiva para colocar anuncios.
+
+II. En el caso de que la explotación de publicidad implique la utilización de áreas de uso común, el plazo de la licencia deberá tomar en consideración la inversión realizada en la construcción, remodelación, mantenimiento correctivo y preventivo, seguros y en general la totalidad de los gastos, el plazo de la recuperación de la misma, la utilidad estimada y la contraprestación que pacte el Ayuntamiento con el particular.
+
+Los plazos que se otorguen en las diversas licencias deberán ser congruentes entre las mismas, con el objeto de impedir que un licenciatario sea privilegiado injustificadamente.
+
+La autoridad que otorgue la licencia correspondiente, deberá informar por escrito el ejercicio de esta facultad mensualmente al Cabildo, así como los criterios que aplique en cada caso.
+
+III. Los refrendos deberán solicitarse a más tardar veinticinco días hábiles previos a la conclusión de la vigencia por la que se hubiere otorgado la licencia, o de los doce meses en caso de que se haya otorgado por más de un ejercicio fiscal, debiendo el solicitante actualizar los requisitos que para el otorgamiento de licencia le fueron solicitados.
+
+La omisión de presentar la solicitud de refrendo extinguirá la licencia.
+
+IV. Cada otorgamiento de licencia o refrendo quedará sujeto a la realización de los dictámenes correspondientes, a las visitas de verificación e inspección de las autoridades correspondientes y al cumplimiento del mantenimiento, en caso de anuncios en áreas de uso común, a que se haya obligado el solicitante.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -18881,9 +18987,9 @@ V. Pagar los gastos que haya erogado el Ayuntamiento por virtud del retiro de an
 
 VI. Mantener vigente la póliza del seguro de responsabilidad civil y daños a terceros durante la permanencia del anuncio y su estructura;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2011)</small>
 
-VII. Colocar en lugar visible del anuncio la placa o folio que contendrá el número de la Licencia;
+VII. Colocar en lugar visible del anuncio, la placa que contendrá el número de la Licencia, cuando se trate de los anuncios señalados en las fracciones I, III, VI, VII, VIII, X, XI y XII del Artículo 1299 del presente ordenamiento, dicho lugar será determinado por la Agencia;
 
 VIII. Dar aviso por escrito a las autoridades correspondientes de la terminación de los trabajos de instalación del anuncio; y (sic)
 
@@ -18913,9 +19019,9 @@ Se requiere obtener de la Agencia el Permiso correspondiente para fijar, instala
 
 I. Anuncios adosados con una dimensión de 1.80 hasta 3.60 metros de longitud por 90 centímetros de altura y cuyo peso sea hasta 50 kilogramos;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2011)</small>
 
-II. Pintados sobre la superficie de las edificaciones con una dimensión que no exceda de 10.00 metros de longitud por 2.50 metros de altura;
+II. Pintados sobre la superficie de las edificaciones o en muros de colindancia;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -18979,25 +19085,19 @@ a) Cuando se actúe a través de un representante legal, el documento que acredi
 
 b) Información gráfica que describa la forma, dimensiones y demás elementos que constituyan el anuncio, así como las especificaciones técnicas y los materiales de que estará constituido, incluyendo los datos de altura sobre el nivel de la banqueta y para el caso de anuncios en colgantes, volados o en salientes, la saliente máxima desde el alineamiento del predio y desde el paramento de la construcción en la que quedará ubicado el anuncio;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2011)</small>
 
-c) Para la entrega del Permiso y la placa o folio se debe presentar el comprobante de pago de derechos de conformidad con lo establecido en el Código Fiscal y Presupuestario para el Municipio de Puebla, así como la Ley de Ingresos vigente, a excepción de los anuncios propios del establecimiento que se publicite, siempre que se encuentren instalados, fijados, adosados y cualquier otra forma de anuncio, en el mobiliario del establecimiento publicitado por el anuncio correspondiente, en cuyo caso no será necesario realizar el pago de los derechos a que se refiere este inciso;
+c) Para la entrega del Permiso se debe presentar el comprobante de pago de derechos de conformidad con lo establecido en el Código Fiscal y Presupuestario para el Municipio de Puebla, así como la Ley de Ingresos del Municipio de Puebla vigente;
 
-> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
+d) (DEROGADO, P.O. 11 DE FEBRERO DE 2011)
 
-d) Presentar póliza de seguro de responsabilidad civil y daños causados a terceros;
+e) (DEROGADO, P.O. 11 DE FEBRERO DE 2011)
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2011)</small>
 
-e) Presentar Fianza señalada en el artículo 1255 fracción IX del presente Código Reglamentario;
+f) El Dictamen de Protección Civil en el caso de los anuncios señalados en las fracciones I, IV, V, VI, VIl y VIII del artículo 1310 de este ordenamiento, sólo cuando la Agencia lo considere necesario de acuerdo a las características de (sic) anuncio;
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
-
-f) El Dictamen de Protección Civil favorable para el caso de los anuncios establecidos en el artículo 1310 de este Código Reglamentario, excepto los señalados en la fracción IX y X;
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
-
-g) El Dictamen de Factibilidad favorable para el caso de los anuncios establecidos en el artículo 1310 de este Código Reglamentario, excepto los señalados en la fracción IX;
+g) (DEROGADO, P.O. 11 DE FEBRERO DE 2011)
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -19041,15 +19141,21 @@ I. Conservar el anuncio en condiciones de seguridad, estabilidad y mantenimiento
 
 II. Pagar los gastos que haya cubierto el Ayuntamiento y que se hubieren generado con motivo del retiro de anuncios.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 1316.
 
-Los Permisos para la instalación de anuncios, se sujetarán a lo que establece el presente Capítulo; su vigencia será de hasta un año y podrán ser refrendados, previo pago de derechos de conformidad con lo establecido en el Código Fiscal y Presupuestario para el Municipio de Puebla, así como la Ley de Ingresos Vigente y previa realización de los dictámenes correspondientes, excepto en los casos a que se refieren las fracciones II, IlI, IV, V, IX, X y XI del artículo 1310 del presente ordenamiento, que tendrán una vigencia máxima de noventa días.
+Los Permisos para la instalación de anuncios, se sujetarán a lo que establece el presente Capítulo; su vigencia será de hasta un año y podrán ser refrendados, previo pago de derechos de conformidad con lo establecido en el Código Fiscal y Presupuestario para el Municipio de Puebla, así como la Ley de Ingresos del Municipio de Puebla vigente al momento de la solicitud y previa obtención de los dictámenes correspondientes, excepto en los casos a que se refieren las fracciones lX y X del artículo 1310 del presente ordenamiento, que tendrán una vigencia máxima de noventa días.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 El refrendo deberá solicitarse a más tardar veinticinco días hábiles previos a la conclusión de la vigencia del Permiso, debiendo el solicitante actualizar los requisitos señalados en el artículo 1312.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 En caso de no realizarlo en el término señalado se tendrá por no presentado debiéndose iniciar como si fuera la primera vez.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 Recibida la solicitud con la información y documentación completa, la Agencia en un plazo de diez días hábiles contados a partir del día siguiente al de la fecha de recepción de la misma, deberá expedir el refrendo del Permiso correspondiente o en su caso, contestar de manera negativa, fundando y motivando su resolución.
 
@@ -19189,9 +19295,7 @@ VI. Mantener actualizados los datos inscritos ante el Padrón de Anuncios;
 
 VII. Informar a la Agencia del retiro de los anuncios, dentro de los tres días hábiles posteriores a su retiro; y
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
-
-VIII. Presentar Fianza señalada en el artículo 1255 fracción IX del presente Código Reglamentario.
+VIII. (DEROGADA, P.O. 11 DE FEBRERO DE 2011)
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -19433,9 +19537,9 @@ IV. Multa de 30 a 400 días de salario mínimo general vigente en el Municipio d
 
 V. Multa de 40 a 500 días de salario mínimo general vigente en el Municipio de Puebla al momento de determinarla, por contravención a los artículos 1317, 1320, 1327 y 1328;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2011)</small>
 
-VI. Multa de 150 a 1,200 días de salario mínimo general vigente en el Municipio de Puebla al momento de determinarla, por contravención a los artículos 1256, 1258, 1263-Bis, 1264 fracciones III, IV, VI, VII, VIII y IX, 1265, 1269, 1270, 1270 Ter, 1271, 1272 Quáter, 1273, 1299 fracciones I, VI, VII, IX, X, XI y XII;
+VI. Multa de 150 a 1,200 días de salario mínimo general vigente en el Municipio de Puebla, al momento de determinarla, por contravención a los artículos 1256 incisos a), b) y d), 1258, 1263 bis, 1264 fracciones III, IV, VI, VII, VIII y IX, 1265, 1269, 1270, 1270 Ter, 1272 Quáter, 1273, 1299 fracciones I, VI, VII, X, XI y XII;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -19465,7 +19569,7 @@ b) Cuando la Agencia, haya determinado la clausura y el anunciante, propietario,
 
 c) Cuando se incurra en los supuestos señalados en los artículos 1329 fracciones I a IV; y 1330 fracciones III, IV y V.
 
-Independientemente de las sanciones previstas en las fracciones que anteceden, las unidades de transporte que cuenten con anuncios sin permiso publicitario, serán impedidas de circular y remitidas a los depósitos de guarda y custodia de vehículos infraccionados.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 11 DE FEBRERO DE 2011)</small>
 
 Hay reincidencia cuando una persona ha sido sancionada por contravenir una disposición de este Capítulo y cometa nuevamente alguna infracción al mismo.
 
@@ -19831,7 +19935,7 @@ I. Los servicios de casa habitación o similares se llevarán a cabo ante las ca
 
 II. Los servicios comerciales e industriales se llevarán a cabo directamente con los concesionarios respectivos; y
 
-III. Los servicios especiales y sanciones, se llevarán acabo directamente en las oficinas del Organismo.
+III. Los servicios especiales y sanciones, se llevarán a cabo directamente en las oficinas del Organismo.
 
 En caso de que no sean pagados en tiempo y forma las cuotas y tarifas por la prestación del servicio de limpia para los propietarios o poseedores de inmuebles de casa habitación, condominio, departamentos, unidades habitacionales, habitados o sin habitar, así como predios rústicos; en donde el Organismo Operador del Servicio de Limpia del Municipio a través de sus concesionarios autorizados presten el servicio de recolección, transporte y disposición final de los residuos generados en el Municipio de Puebla; éstas se harán efectivas a través del procedimiento de ejecución.
 
@@ -20357,7 +20461,7 @@ I. MERCADO PÚBLICO: Al lugar o local que sea propiedad del Municipio, donde con
 
 > <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
 
-II. LICENCIA: Documento expedido por el Tesorero Municipal a través de la Dirección de Ingresosa propuesta de la Dirección de Abasto y Comercio Interior en favor de un particular, a través del cual se autoriza el ejercicio del comercio en un lugar o local específico de un mercado en concreto y en el que se señala de manera puntual y limitativa, el tipo de productos o servicios que se pondrán al servicio de la ciudadanía;
+II. LICENCIA: Documento expedido por el Tesorero Municipal a través de la Dirección de Ingresos a propuesta de la Dirección de Abasto y Comercio Interior en favor de un particular, a través del cual se autoriza el ejercicio del comercio en un lugar o local específico de un mercado en concreto y en el que se señala de manera puntual y limitativa, el tipo de productos o servicios que se pondrán al servicio de la ciudadanía;
 
 III. COMERCIANTE: A la persona física o moral que dentro de los mercados públicos, hace del comercio su ocupación habitual;
 
@@ -20433,7 +20537,7 @@ Dentro de los mercados públicos, se podrán prestar los servicios de sanitarios
 
 ###### Artículo 1408.
 
-La prestación de los servicios mencionados en el articulo anterior, estará a cargo de los propietarios que tengan el uso de suelo debidamente autorizado y en su caso por las personas que sin ser propietarios y contando con el uso del suelo, tenga la autorización de la Dirección de Abasto y Comercio Interior.
+La prestación de los servicios mencionados en el artículo anterior, estará a cargo de los propietarios que tengan el uso de suelo debidamente autorizado y en su caso por las personas que sin ser propietarios y contando con el uso del suelo, tenga la autorización de la Dirección de Abasto y Comercio Interior.
 
 > <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
 
@@ -20875,7 +20979,7 @@ La Unidad de Normatividad y Regulación Comercial, podrá actuar a solicitud de 
 
 > <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
 
-Cuando imponga una multa económica la Unidad de Normatividad y Regulación Comercial, el comerciante deberá regularizar en un termino no mayor a quince días naturales la situación por la que se generó la sanción, en la inteligencia de que, sin perjuicio de la obligación de pago de la sanción impuesta en las oficinas recaudadoras de la Tesorería Municipal y la suspensión inmediata de tales actos; de continuar con las conductas que constituyan infracción al presente Capítulo, la Unidad de Normatividad y Regulación Comercial, procederá a la clausura temporal de uno a treinta días naturales, considerando como reincidencia, a la mencionada continuidad de conductas constitutivas de infracción.
+Cuando imponga una multa económica la Unidad de Normatividad y Regulación Comercial, el comerciante deberá regularizar en un término no mayor a quince días naturales la situación por la que se generó la sanción, en la inteligencia de que, sin perjuicio de la obligación de pago de la sanción impuesta en las oficinas recaudadoras de la Tesorería Municipal y la suspensión inmediata de tales actos; de continuar con las conductas que constituyan infracción al presente Capítulo, la Unidad de Normatividad y Regulación Comercial, procederá a la clausura temporal de uno a treinta días naturales, considerando como reincidencia, a la mencionada continuidad de conductas constitutivas de infracción.
 
 > <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2008)</small>
 
@@ -21741,7 +21845,13 @@ Se concede acción popular para proponer el establecimiento y el mejoramiento de
 
 Para los efectos de este Capítulo, se entenderá por:
 
-I. Ataúd o Féretro: A la caja en que se coloca el cadáver para proceder a su inhumación o cremación;
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2011)</small>
+
+l. Agencia: A la Agencia de Protección al Ambiente y Desarrollo Sustentable del Municipio de Puebla o a la autoridad municipal competente que ejerza las facultades de aplicación previstas en el presente Capítulo, cualquiera que sea su denominación;
+
+> <small>(ADICIONADA, P.O. 11 DE FEBRERO DE 2011)</small>
+
+I.I. Ataúd o Féretro: A la caja en que se coloca el cadáver para proceder a su inhumación o cremación;
 
 II. Ayuntamiento: Al Honorable Ayuntamiento del Municipio de Puebla;
 
@@ -21751,13 +21861,11 @@ IV. Cremación: Al proceso de incineración de un cadáver, de restos humanos y 
 
 V. Cripta: A La estructura construida bajo el nivel del suelo con gavetas o nichos destinados al depósito de cadáveres, de restos humanos y de restos humanos áridos o cremados;
 
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2011)</small>
 
-VI. Departamento: Al Departamento de Panteones dependiente de la Dirección de Servicios Públicos de la Secretaría de Gestión Urbana y Obra Pública para el Desarrollo Sustentable o cualquier autoridad administrativa que tenga a su cargo el servicio de panteones en el Municipio de Puebla;
+VI. Departamento: Al Departamento de Panteones, dependiente de la Subdirección de Atención a Servicios Públicos de la Agencia de Protección al Ambiente y Desarrollo Sustentable del Municipio de Puebla;
 
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
-
-VII. Dirección: A la Dirección de Servicios Públicos dependiente de la Secretaría de Gestión Urbana y Obra Pública para el Desarrollo Sustentable del Ayuntamiento de Puebla, a través de las autoridades administrativas que ejerzan las facultades previstas en el presente Capítulo;
+VII. (DEROGADA, P.O. 11 DE FEBRERO DE 2011)
 
 VIII. Exhumación: A la extracción de un cadáver sepultado;
 
@@ -21801,6 +21909,10 @@ XXVI. Restos Humanos Cumplidos: A los restos que quedan de un cadáver al cabo d
 
 XXVII. Secretaría: A la Secretaría de Gestión Urbana y Obra Pública para el Desarrollo Sustentable del H. Ayuntamiento de Puebla o a la autoridad administrativa competente que ejerza las facultades de aplicación previstas en el presente Capítulo, cualquiera que sea su denominación;
 
+> <small>(ADICIONADA, P.O. 11 DE FEBRERO DE 2011)</small>
+
+XXVII.I Subdirección: A la Subdirección de Atención a Servicios Públicos, dependiente de la Agencia de Protección al Ambiente y Desarrollo Sustentable del Municipio de Puebla;
+
 XXVIII. Tiempo Cumplido: Exhumación que se realiza transcurridos siete años para el caso del ataúd de madera y 10 años para el caso de ataúd metálico;
 
 XXIX. Traslado: A la transportación de un cadáver, restos humanos o restos humanos áridos o cremados del Municipio a cualquier parte del Estado, de la República o del Extranjero, previas las autorizaciones correspondientes; y
@@ -21811,13 +21923,17 @@ XXX. Velatorio: Al lugar destinado a la velación de los cadáveres.
 
 En el caso de capillas consideradas con valor artístico-histórico, además de las disposiciones señaladas en este ordenamiento se estará en lo conducente, a lo que establezcan las leyes federales y estatales en materia de Monumentos Artísticos e Históricos, así como en las disposiciones municipales aplicables.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 1536.
 
-Corresponde a la Dirección:
+Corresponde a la Agencia:
 
 I. Instrumentar y vigilar el cumplimiento del presente Capítulo;
 
-II. Recibir en coordinación con la Secretaría, las propuestas para el establecimiento de panteones dentro del Municipio;
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2011)</small>
+
+II. Recibir las propuestas para el establecimiento de panteones dentro del Municipio;
 
 III. Aprobar los Manuales de operación de los Panteones;
 
@@ -21835,9 +21951,13 @@ VI. Coordinar la entrega de material óseo a las instituciones educativas que lo
 
 VII. Desafectar el servicio de los panteones municipales cuando ya no exista ocupación disponible y, en su caso, ordenar el traslado de los restos humanos cuando hayan transcurrido siete años y no sean reclamados para depositarlos en el osario común. En caso de que no exista disponibilidad de lugar, se cremaran los restos previo aviso a las autoridades sanitarias;
 
-VIII. Proponer oportunamente al Ayuntamiento, previo aval de la Secretaría de Administración Urbana, las tarifas por concepto de derechos que éste deberá incluir dentro del proyecto de Ley de Ingresos del Municipio para cada ejercicio fiscal por los diferentes servicios prestados por los panteones municipales y en su caso, por los panteones concesionados, tales como inhumación, exhumación, reinhumación, cremación, depósito de restos en osarios, permisos de construcción, reconstrucción, o modificación de obras dentro del panteón, trabajos de excavación y cualquier otro señalado dentro de este Capítulo; y
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2011)</small>
 
-IX. Proponer al Cabildo Municipal a través del Comité de Obras y Servicios Públicos del Ayuntamiento, la cancelación de la concesión otorgada a aquellos panteones que violen los requisitos previstos en este Capítulo, en términos del Título de Concesión correspondiente.
+VIII. Proponer oportunamente al Ayuntamiento, las tarifas por concepto de derechos que deberán incluirse dentro del proyecto de Ley de Ingresos del Municipio para cada ejercicio fiscal, por los diferentes servicios prestados por los panteones municipales y en su caso, por los concesionados, tales como: inhumación, exhumación, reinhumación, cremación, depósito de restos en osarios, permisos de construcción, reconstrucción, o modificación de obras dentro del panteón, trabajos de excavación y cualquier otro señalado dentro de este Capítulo; y
+
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2011)</small>
+
+IX. Proponer al Ayuntamiento la cancelación de la concesión otorgada a aquellos panteones que violen los requisitos previstos en este Capítulo, en términos del Título de Concesión correspondiente.
 
 ###### Artículo 1537.
 
@@ -21867,7 +21987,9 @@ f) Nombre y domicilio de la persona encargada de tramitar la inhumación en cada
 
 VI. En los casos de perpetuidades, llevará un registro por separado con los datos a que se refiere la fracción anterior;
 
-VII. Rendir dentro de los cinco primeros días de cada mes, un informe detallado a la Dirección, sobre los movimientos del mes anterior;
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2011)</small>
+
+VII. Rendir dentro de los cinco primeros días de cada mes, un informe detallado a la Subdirección, sobre los movimientos del mes anterior;
 
 VIII. Publicar mensualmente en el tablero de avisos de los panteones municipales, un informe de las fosas cuyos derechos hayan vencido;
 
@@ -21891,7 +22013,9 @@ Son obligaciones de los concesionarios las siguientes:
 
 I. Tener a disposición de la Autoridad Municipal, plano del panteón en donde aparezcan definidas las áreas a que se refiere el artículo 1543.
 
-II. Remitir diariamente a la Dirección, la relación por concepto de pago de derechos por los servicios de Panteones que prevé la Ley de Ingresos del Municipio de Puebla.
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2011)</small>
+
+II. Remitir semanalmente a la Agencia, la relación de pago de derechos por los servicios de panteones que prevé la Ley de Ingresos del Municipio de Puebla;
 
 III. Mantener y conservar en condiciones higiénicas y de seguridad las instalaciones del panteón.
 
@@ -21937,11 +22061,13 @@ Para que un particular pueda prestar el Servicio Público de Panteones dentro de
 
 I. El otorgamiento del Título de Concesión respectivo por parte del órgano legalmente facultado para ello;
 
-II. Reunir los requisitos y disposiciones en materia de desarrollo urbano, uso de suelo, construcciones, transporte, vialidad, protección civil, y sanidad, federales, estatales y municipales aplicables; y
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2011)</small>
 
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
+II. Reunir los requisitos y disposiciones en materia de desarrollo urbano, protección al ambiente, uso de suelo, construcciones, transporte, vialidad, protección civil y sanidad, federal, estatal y municipal aplicables; y
 
-III. Exhibir un estudio de los niveles freáticos permisibles autorizado previamente por la Secretaría.
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2011)</small>
+
+III. Presentar un estudio de los niveles freáticos permisibles, autorizado previamente por conducto de la Secretaría.
 
 ###### Artículo 1543.
 
@@ -21977,7 +22103,9 @@ IV. Instalar en la forma adecuada los servicios de agua potable, drenaje, energ�
 
 V. Pavimentar las áreas de estacionamiento y las vías internas de circulación de peatones, de personas con discapacidad y de vehículos según sus necesidades, cumpliendo en todo momento con el Manual Técnico de Accesibilidad Aplicable a Construcciones en el Municipio de Puebla;
 
-VI. A excepción de los espacios ocupados por tumbas, pasillos y corredores, el interior y exterior de los panteones deberán estar ornamentados procurando árboles, arbustos y flores de especies de la región, manteniendo la armonía y aspecto agradables a los visitantes, así como un lugar digno a los cuerpos en guarda. En el caso de los árboles que se planten deberá procurarse que las raíces sean poco profundas y que no se extienda horizontalmente;
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2011)</small>
+
+VI. A excepción de los espacios ocupados por tumbas, pasillos y corredores, el interior y exterior de los panteones deberán estar ornamentados procurando árboles, arbustos y flores de especies de la región, manteniendo la armonía y aspecto agradables a los visitantes, así como un lugar digno a los cuerpos en guarda. En el caso de los árboles que se planten deberá solicitar a la Subdirección de Protección al Ambiente el listado de la especie de árboles recomendados para su plantación en dichos lugares;
 
 VII. Deberá contar con bardas circundantes de malla, mampostería o tabique de 2.00 metros de altura como mínimo;
 
@@ -22137,17 +22265,23 @@ IV. Asesoría para trámites administrativos.
 
 Los servicios descritos en el artículo anterior, con excepción del costo del ataúd, podrán prestarse gratuitamente a las personas de escasos recursos económicos previo estudio y dictamen del Departamento. Para tal efecto el Ayuntamiento contará con las instalaciones y bienes muebles e inmuebles necesarios.
 
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 1572.
 
-La prestación de los servicios funerarios gratuitos podrán otorgarse por un tiempo máximo de treinta horas, contadas a partir de la utilización de los servicios.
+La prestación de los servicios funerarios gratuitos podrán otorgarse por un tiempo máximo de treinta horas, contadas a partir de la utilización de los servicios, a excepción de la fracción III del artículo 1570.
+
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 1573.
 
-Los particulares podrán solicitar asesoría sobre trámites administrativos relativos a los Panteones, así como la exención en el pago de los derechos correspondientes a la inhumación del cadáver si así lo determina el estudio socioeconómico practicado por el Departamento y conforme a lo previsto por el Código Fiscal y Presupuestario para el Municipio de Puebla.
+Los particulares podrán solicitar asesoría sobre trámites administrativos relativos a los Panteones, así como la condonación en el pago de los derechos correspondientes a la inhumación del cadáver si así lo determina el estudio socioeconómico practicado por el Departamento y conforme a lo previsto por el Código Fiscal y Presupuestario para el Municipio de Puebla.
+
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 1574.
 
-Las solicitudes de prestación del servicio público de Velatorio o panteones municipales deberán realizarse en las Oficinas del Velatorio Municipal, las solicitudes de servicios prestados por los panteones concesionados deberán realizarse en el domicilio del Panteón correspondiente.
+Las solicitudes de prestación del servicio público de panteones municipales deberán realizarse en las Oficinas del Panteón Municipal, las solicitudes de servicios prestados por los panteones concesionados deberán realizarse en el domicilio del Panteón correspondiente.
 
 DE LAS INHUMACIONES
 
@@ -22213,9 +22347,11 @@ Los panteones municipales que cuenten con incinerador podrán dar servicio gratu
 
 En las cremaciones se podrá utilizar un ataúd de material de fácil incineración.
 
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 1590.
 
-Las cremaciones deberán realizarse dentro de los horarios que al efecto establezca la Dirección.
+Las cremaciones podrán realizarse dentro de los horarios que al efecto autorice la Dirección General de la Agencia.
 
 EXHUMACIONES
 
@@ -22231,9 +22367,11 @@ Periódicamente y por necesidades del servicio, se realizarán campañas de exhu
 
 Fenecido el término de temporalidad y no habiéndose refrendado éste, se procederá a la exhumación de los restos y al depósito en el osario del panteón o en los nichos destinados a tal objeto, o bien a cremarlos, previo aviso, treinta días antes de la misma, dicho aviso se fijará en lugar visible a la entrada del panteón debiendo contener nombre completo del cadáver, fecha de exhumación, datos de identificación de la fosa y causa del procedimiento. La notificación se hará también a los familiares conocidos en sus domicilios o por cualquier otro medio, a juicio de la autoridad municipal si se ignora el domicilio de los familiares.
 
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 1594.
 
-La exhumación sea o no de plazo vencido, se hará en el horario que establezca la Dirección y no permanecerán en el panteón más que las personas que deban realizarla y un familiar que identifique, en su caso, la fosa.
+La exhumación sea o no de plazo vencido, se hará en el horario que autorice la Dirección General de la Agencia y no permanecerán en el panteón más que las personas que deban realizarla y un familiar que identifique, en su caso, la fosa.
 
 ###### Artículo 1595.
 
@@ -22271,9 +22409,11 @@ La reinhumación de los restos exhumados será de inmediato, previo pago de los 
 
 Cuando la exhumación se haya solicitado para reinhumar dentro del mismo panteón, ésta se hará de inmediato para cuyo efecto, deberá estar preparado el lugar correspondiente.
 
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 1599.
 
-Cuando las exhumaciones obedezcan al traslado de restos humanos a otra fosa del mismo cementerio, la reubicación se hará de inmediato previo el pago de los derechos.
+Cuando las exhumaciones obedezcan al traslado de restos humanos a otra fosa del mismo panteón, la reubicación se hará de inmediato previo el pago de los derechos.
 
 DEL TRASLADO
 
@@ -22323,9 +22463,11 @@ Se extingue el derecho que confiere este artículo al cumplir el convenio el dé
 
 El concepto de perpetuidad para efectos de panteones se entenderá como la renta permanente para el uso de fosas, criptas familiares o de otro tipo, para la guarda de cuerpos, restos o cenizas, en su caso, y podrá modificarse por causas de rehabilitación de espacios, volumen en la demanda, entre otros, debiendo ser exhumados los cuerpos que estén en condiciones, así como los restos o cenizas para ser depositados en donde haya lugar.
 
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 1607.
 
-El sistema de uso a perpetuidad sobre una fosa solamente se concederá en los casos que autorice la Dirección y cuando concluyan los plazos de temporalidad máxima, previo pago del derecho correspondiente.
+El sistema de uso a perpetuidad sobre una fosa solamente se concederá en los casos que autorice la Dirección General de la Agencia y cuando concluyan los plazos de temporalidad máxima, previo pago del derecho correspondiente.
 
 ###### Artículo 1608.
 
@@ -22337,13 +22479,15 @@ II. Designación en la cláusula testamentaria, el orden de preferencia de los b
 
 III. Se adquirirá la obligación solidaria por todos los familiares relacionados, para cumplir con los gastos de mantenimiento; y
 
-IV. Suscripción del contrato por triplicado, depositándose en ejemplar en el panteón correspondiente y otro en la Dirección.
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2011)</small>
+
+IV. Suscripción del contrato por triplicado, depositándose un ejemplar en el panteón correspondiente y otro en la Subdirección.
 
 ###### Artículo 1609.
 
 El derecho de uso sobre un terreno se documentará en título a perpetuidad con las características siguientes:
 
-I. El derecho será instransferible, inembargable e imprescriptible;
+I. El derecho será intransferible, inembargable e imprescriptible;
 
 II. El titular podrá transmitir su derecho por herencia o legado únicamente a integrantes de su familia; y
 
@@ -22355,13 +22499,17 @@ En el caso de panteones concesionados, las inhumaciones serán a perpetuidad o s
 
 DE LAS SANCIONES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 1611.
 
-Sin perjuicio de las normas establecidas en cualquier ordenamiento aplicable, la violación a las disposiciones de este Capítulo, se sancionará por conducto de la Dirección, indistintamente con:
+Sin perjuicio de las normas establecidas en cualquier ordenamiento aplicable, la violación a las disposiciones de este Capítulo, se sancionará por conducto de la Dirección General de la Agencia, indistintamente con:
 
 I. Amonestación;
 
-II. Multa de 10 a 200 veces el salario mínimo general diario vigente en el Municipio, a juicio de la Dirección, la que determinará por escrito lo conducente;
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2011)</small>
+
+II. Multa de 10 a 200 veces el salario mínimo general diario vigente en el Municipio, a juicio de la Dirección General de la Agencia, la que determinará por escrito lo conducente;
 
 III. En su caso, revocación de la concesión otorgada a panteones particulares;
 
@@ -22383,9 +22531,11 @@ II. La gravedad de la infracción; y
 
 III. Las condiciones socioeconómicas del infractor.
 
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 1614.
 
-Para proceder a imponer las sanciones la Dirección deberá levantar las actas en que se hagan constar las violaciones y las responsabilidades en que se incurra, mismas que se harán efectivas por conducto de la Tesorería Municipal si se trata de sanciones pecuniarias.
+Para que la Dirección General de la Agencia proceda a imponer las sanciones, el Departamento deberá levantar las actas en las que se haga constar Ias violaciones y responsabilidades en que haya incurrido el infractor, mismas que se harán efectivas por conducto de la Tesorería Municipal si se trata de sanciones pecuniarias.
 
 ###### Artículo 1615.
 
@@ -22669,7 +22819,7 @@ VIII.- Vigilar el cumplimiento de lo dispuesto en el presente Capítulo; y
 
 > <small>(REFORMADA, P.O. 23 DE MAYO DE 2007)</small>
 
-IX.- Las facultades que le confiere las leyes.
+IX.- Las facultades que le confiere (sic) las leyes.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
 
@@ -23715,7 +23865,7 @@ El Ayuntamiento podrá instalar estacionómetros para el uso de la vía pública
 
 ###### Artículo 1682 Bis.
 
-El servicio de estacionamiento en la vía pública podrá ser concesionado por el Ayuntamiento en los términos del Capítulo XVIII de la Ley Orgánica Municipal, caso en el cual, el concesionario tendrá la obligación de acatar estrictamente los términos del contrato, sin perjuicio de lo dispuesto en este Capítulo.
+El servicio de estacionamiento en la vía pública podrá ser concesionado por el Ayuntamiento en los términos del CapÍtulo XVIII de la Ley Orgánica Municipal, caso en el cual, el concesionario tendrá la obligación de acatar estrictamente los términos del contrato, sin perjuicio de lo dispuesto en este Capítulo.
 
 > <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 2007)</small>
 
@@ -23957,7 +24107,7 @@ Para los efectos del Presente Capítulo se considera Archivo General Municipal a
 
 ###### Artículo 1690 Bis.
 
-Se consideran documentos públicos aquéllos que fueron y son generados en acciones públicas, por las diferentes Dependencias y Entidades que conforman la Administración Publica y Municipal clasificados en:
+Se consideran documentos públicos aquéllos que fueron y son generados en acciones públicas, por las diferentes Dependencias y Entidades que conforman la Administración Pública y Municipal clasificados en:
 
 a) Documentación activa.- Aquélla necesaria para el ejercicio de las atribuciones de las unidades administrativas y de uso frecuente, que se conserva en el archivo de trámite;
 
@@ -23999,7 +24149,7 @@ El acervo del Archivo General Municipal sólo será manejado por el personal res
 
 ###### Artículo 1694.
 
-Como órgano asesor y consultivo del Archivo Histórico fungirá el Consejo de la Crónica, de acuerdo a lo previsto pro el artículo 3 del Reglamento que crea el Consejo de la Crónica de la Ciudad de Puebla.
+Como órgano asesor y consultivo del Archivo Histórico fungirá el Consejo de la Crónica, de acuerdo a lo previsto por el artículo 3 del Reglamento que crea el Consejo de la Crónica de la Ciudad de Puebla.
 
 > <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2006)</small>
 
@@ -24059,7 +24209,7 @@ e) Estimular el uso y aprovechamiento social de la documentación difundiendo el
 
 El cuidado y conservación del acervo documental del Archivo General es una obligación ineludible del Ayuntamiento, por lo tanto se observarán los siguientes criterios:
 
-I.- Los documentos no deberán resguardarse o colocarse par su almacenamiento en el suelo;
+I.- Los documentos no deberán resguardarse o colocarse para su almacenamiento en el suelo;
 
 II.- Lo documentos deberán estar en estantería en caso de ser madera, se recomienda el cedro u otra que tenga tratamiento contra agentes patógenos (polilla, pez plateado, etc); En caso de estantería metálica, conviene que esté prevista de una cubierta de esmalte horneado que previene la oxidación;
 
@@ -24077,7 +24227,7 @@ VIII.- Evitar toda condición que propicie la infestación, o la presencia de ro
 
 IX.- El área de consulta deberá estar separada del acervo documental;
 
-X.- Organizar y controlar directamente el área o caja de seguridad para los documentos considerados de alto valor, pro su contenido administrativo, legal, fiscal o histórico; y
+X.- Organizar y controlar directamente el área o caja de seguridad para los documentos considerados de alto valor, por su contenido administrativo, legal, fiscal o histórico; y
 
 XI.- Las demás que determinen las disposiciones aplicables y las autoridades competentes.
 
@@ -24415,7 +24565,7 @@ II.- Un Secretario Técnico, que será el Jefe del Departamento de Supervisión 
 
 III.- Un Coordinador Administrativo de cada dependencia y Organismo Descentralizado del Honorable Ayuntamiento; y
 
-IV.- Un Coordinador par las Juntas Auxiliares, que será nombrado por el Director del Archivo General Municipal.
+IV.- Un Coordinador para las Juntas Auxiliares, que será nombrado por el Director del Archivo General Municipal.
 
 > <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2006)</small>
 
@@ -24679,7 +24829,7 @@ SUBSTANCIAS CON EFECTOS TÓXICOS EN EL MUNICIPIO DE PUEBLA
 
 ###### Artículo 1712.
 
-El objeto del presente ordenamiento es establecer la normatividad ambiental en el Municipio de Puebla, definiendo los principios mediante los cuáles se habrá de formular, conducir y evaluar la política ambiental, así como los instrumentos y procedimientos para su aplicación, procurando la preservación, protección y restauración del equilibrio natural, el mejoramiento del medio ambiente y el Desarrollo Sustentable.
+El objeto del presente ordenamiento es establecer la normatividad ambiental en el Municipio de Puebla, definiendo los principios mediante los cuales se habrá de formular, conducir y evaluar la política ambiental, así como los instrumentos y procedimientos para su aplicación, procurando la preservación, protección y restauración del equilibrio natural, el mejoramiento del medio ambiente y el Desarrollo Sustentable.
 
 ###### Artículo 1713.
 
@@ -25429,7 +25579,7 @@ El H. Ayuntamiento tendrá los viveros necesarios para realizar las funciones de
 
 La Agencia emitirá un dictamen de recomendación a las urbanizaciones de nueva creación y asentamientos a regularizar, a efecto de orientar el tipo adecuado de árboles y vegetación.
 
-La Agencia elaborará programas de forestación y reforestación en los que participen todos los sectores de la ciudadanía, a fin de lograr un mejor entorno ambiental, estos programas se presentarán cada año e indicarán la cantidad de especies yen qué zonas y/o lugares del Municipio serán plantados.
+La Agencia elaborará programas de forestación y reforestación en los que participen todos los sectores de la ciudadanía, a fin de lograr un mejor entorno ambiental, estos programas se presentarán cada año e indicarán la cantidad de especies y en qué zonas y/o lugares del Municipio serán plantados.
 
 La Agencia promoverá y dará asesoría a las asociaciones vecinales sobre la forma de como forestar y reforestar las áreas verdes de su colonia; y promoverá la utilización de lotes baldíos de propiedad particular, previo convenio celebrado en los términos de este Capítulo con: propietarios y con la participación ciudadana y las asociaciones vecinales, para la creación de áreas verdes, viveros o huertos.
 
@@ -27963,7 +28113,7 @@ I. Manifestación de impacto ambiental evaluado por la autoridad competente;
 
 > <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2006)</small>
 
-II. Plan de Contingencias y Plan de Control de Accidentes evaluado por la UOMPROCI
+II. Plan de Contingencias y Plan de Control de Accidentes evaluado por la UOMPROCI;
 
 III. Estudio de riesgo evaluado por el Instituto Nacional de Ecología o la autoridad competente;
 
@@ -28761,7 +28911,7 @@ En caso de muerte de un beneficiario la cantidad que le correspondía se reparti
 
 ###### Artículo 2044.
 
-A falta de beneficiarios, la suma asegurada será pagada por la Compañia de Seguros a las personas que sean declaradas herederos mediante juicio sucesorio.
+A falta de beneficiarios, la suma asegurada será pagada por la Compañía de Seguros a las personas que sean declaradas herederos mediante juicio sucesorio.
 
 ###### Artículo 2045.
 
@@ -29251,7 +29401,7 @@ I. El Presidente Municipal, quien designará y podrá revocar en cualquier momen
 
 II. La Comisión Municipal de Box y Lucha Libre, es un cuerpo técnico en materia de ambos deportes y en su funcionamiento como Órgano Auxiliar será autónomo. Dependerá administrativamente de la Presidencia Municipal. Sus funciones se sujetarán a las prescripciones contenidas en el presente Capítulo y a las señaladas por el Departamento de Espectáculos, para efectos de expedición de las respectivas licencias que permitan la presentación de espectáculos y exhibiciones en que tengan lugar encuentros de Box y Lucha Libre en el Municipio;
 
-III. La Tesorería Municipal, cobrará el respectivo Impuesto Sobre Diversiones y Espectáculos Públicos, de acuerdo a lo establecido por el Título Segundo Capítulo III de la Ley de Ingresos del Municipio de Puebla y de lo establecido por el Título Segundo Capítulo III del Código Fiscal y Presupuestario para el Municipio de Puebla, así como de tener la legitima facultad de intervenir la taquilla, suspender o clausurar espectáculos, exhibiciones o presentaciones en que tengan lugar encuentros de Box y Lucha Libre, por la negativa del pago de este impuesto o cuando se violenten disposiciones previstas en la normatividad fiscal aplicable vigente, y
+III. La Tesorería Municipal, cobrará el respectivo Impuesto Sobre Diversiones y Espectáculos Públicos, de acuerdo a lo establecido por el Título Segundo Capítulo III de la Ley de Ingresos del Municipio de Puebla y de lo establecido por el Título Segundo Capítulo III del Código Fiscal y Presupuestario para el Municipio de Puebla, así como de tener la legítima facultad de intervenir la taquilla, suspender o clausurar espectáculos, exhibiciones o presentaciones en que tengan lugar encuentros de Box y Lucha Libre, por la negativa del pago de este impuesto o cuando se violenten disposiciones previstas en la normatividad fiscal aplicable vigente, y
 
 IV. El Departamento de Espectáculos, quien será el encargado de la estricta observancia del presente Capítulo, del boletaje y precio de entrada, así como lo referente a la expedición de la correspondiente autorización a los lugares en los que se lleve a cabo la presentación de espectáculos y exhibiciones en que tengan lugar encuentros de Box y Lucha Libre en el Municipio.
 
@@ -29265,7 +29415,7 @@ I. La Comisión: La Comisión Municipal de Box y Lucha Libre: Es un cuerpo técn
 
 II. Comisionado: Es la persona física nombrada por la Comisión, siendo éste el responsable de cumplir y hacer cumplir las disposiciones del presente Capítulo, como máxima autoridad en los eventos de Box y Lucha Libre, además de que es el encargado de presidir el espectáculo cuyo programa haya sido aprobado con anterioridad por la Comisión;
 
-III. Oficiales: Personas físicas designadas por la Comisión, que son: El jefe del Servicio Médico, los médicos auxiliares, los jueces, los referis, los directores de encuentros, los tomadores de tiempo y los anunciadores, quienes ejercerán sus funciones de acuerdo con las facultades y obligaciones que les señale el presente Capítulo, debiendo contar con la licencia legalmente expedida por la Comisión, que les autorice actuar dentro del Municipio;
+III. Oficiales: Personas físicas designadas por la Comisión, que son: El jefe del Servicio Médico, los médicos auxiliares, los jueces, los réferis, los directores de encuentros, los tomadores de tiempo y los anunciadores, quienes ejercerán sus funciones de acuerdo con las facultades y obligaciones que les señale el presente Capítulo, debiendo contar con la licencia legalmente expedida por la Comisión, que les autorice actuar dentro del Municipio;
 
 IV. Servicio médico: Oficiales designados por la Comisión, encargados de practicar el examen físico completo a los boxeadores, manejadores, auxiliares, luchadores, expidiendo el certificado médico respectivo a su costa, ingresando dicho pago a la Tesorería Municipal;
 
@@ -29283,7 +29433,7 @@ X. Empresa: Persona moral legalmente constituida, y que cuenta con medios propio
 
 XI. Promotor: Persona física que deberá contar con licencia legalmente expedida por la Comisión que autorice dentro del Municipio permanente o eventualmente, a promover espectáculos de Box y Lucha Libre profesional, considerados como empleados de las empresas, y en consecuencia éstas serán responsables directas de cualquier falta o infracción que cometan;
 
-XII. Representante: Persona física que deberá contar con licencia legalmente expedida por la Comisión que les autorice actuar dentro del Municipio, y que tiene bajo su responsabilidad el impulso e imagen de un boxeador o luchador con la finalidad de buscar el mejor desemepño deportivo y que reditúe en beneficios económicos para los mismos;
+XII. Representante: Persona física que deberá contar con licencia legalmente expedida por la Comisión que les autorice actuar dentro del Municipio, y que tiene bajo su responsabilidad el impulso e imagen de un boxeador o luchador con la finalidad de buscar el mejor desempeño deportivo y que reditúe en beneficios económicos para los mismos;
 
 XIII. Manejador: Persona física que deberá contar con licencia legalmente expedida por la Comisión que le autorice actuar dentro del Municipio, y que será la encargada de cuidar la forma y condición física de los boxeadores y luchadores, proporcionándoles el adiestramiento técnico necesario;
 
@@ -29343,7 +29493,7 @@ Los interesados en obtener licencia que les autorice actuar dentro del Municipio
 
 I. Solicitud por escrito y por triplicado del interesado, debidamente firmada;
 
-II. Certificado de salud expedido por el Servicio Medico de la Comisión, en que conste que el solicitante se encuentra sin ninguna incapacidad física o mental para poder actuar en una función o desempeñar la respectiva actividad a que se refiere su petición;
+II. Certificado de salud expedido por el Servicio Médico de la Comisión, en que conste que el solicitante se encuentra sin ninguna incapacidad física o mental para poder actuar en una función o desempeñar la respectiva actividad a que se refiere su petición;
 
 III. Certificado de “No antecedentes penales”, expedido por autoridad competente, relativo al solicitante;
 
@@ -29571,7 +29721,7 @@ Ninguna Empresa podrá ofrecer o presentar públicamente funciones de Box y Luch
 
 ###### Artículo 2129.
 
-La persona física o moral que solicite y obtenga licencia para actuar como Empresa, estará obligada a cumplir las disposiciones de este Capitulo, así como los acuerdos y resoluciones dictados por la Comisión, en cuanto se relacione con su actuación.
+La persona física o moral que solicite y obtenga licencia para actuar como Empresa, estará obligada a cumplir las disposiciones de este Capítulo, así como los acuerdos y resoluciones dictados por la Comisión, en cuanto se relacione con su actuación.
 
 > <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
 
@@ -29639,7 +29789,7 @@ En caso de que por fuerza mayor debidamente comprobada alguno o los dos particip
 
 ###### Artículo 2134 Bis.
 
-En funciones de lucha libre, podrá autorizar el Comisionado en turno la substitución de un luchador que por causas de fuerza mayor no se haya presentado, por otro de igual categoría, pero será obligación de la Empresa anunciar por los medios que tenga a su alcance, al público asistente al evento, el cambio autorizado por la Comisión y si se tratara de la lucha estelar, deberá anunciarse al público que la persona que no este de acuerdo con el cambio, podrá solicitar la devolución del importe de su boleto.
+En funciones de lucha libre, podrá autorizar el Comisionado en turno la substitución de un luchador que por causas de fuerza mayor no se haya presentado, por otro de igual categoría, pero será obligación de la Empresa anunciar por los medios que tenga a su alcance, al público asistente al evento, el cambio autorizado por la Comisión y si se tratara de la lucha estelar, deberá anunciarse al público que la persona que no esté de acuerdo con el cambio, podrá solicitar la devolución del importe de su boleto.
 
 > <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
 
@@ -29679,7 +29829,7 @@ En todo local destinado a presentar funciones de Box o Lucha Libre profesionales
 
 ###### Artículo 2137.
 
-En los locales destinados para la presentación de funciones de Box o Lucha Libre, las Empresas que las explotan deberán acondicionar un vestidor con baño y servicios sanitarios para los oficiales que vayan a actuar. Quedando prohibida la entrada al mismo a toda persona que no tenga ingerencia oficial en el espectáculo.
+En los locales destinados para la presentación de funciones de Box o Lucha Libre, las Empresas que las explotan deberán acondicionar un vestidor con baño y servicios sanitarios para los oficiales que vayan a actuar. Quedando prohibida la entrada al mismo a toda persona que no tenga ingerencia (sic) oficial en el espectáculo.
 
 > <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
 
@@ -29793,7 +29943,7 @@ El Comisionado en turno nombrará, para las funciones de Box que vaya a presidir
 
 ###### Artículo 2141 Quinquies.
 
-Los Oficiales a que se refiere el articulo 2140, del presente Capítulo, estarán obligados a presentarse invariablemente en todas las funciones, media hora antes de que éstas principien y solamente podrán faltar con previa autorización de la Comisión, los que vayan a intervenir en la función, serán designados por el Comisionado en turno 24 horas antes de que ésta inicie, con la excepción del Director de encuentros y del tomador de tiempo, que tendrán el rol previamente establecido por la Comisión. Los oficiales designados, deberán pasar examen médico antes de intervenir en la función.
+Los Oficiales a que se refiere el artículo 2140, del presente Capítulo, estarán obligados a presentarse invariablemente en todas las funciones, media hora antes de que éstas principien y solamente podrán faltar con previa autorización de la Comisión, los que vayan a intervenir en la función, serán designados por el Comisionado en turno 24 horas antes de que ésta inicie, con la excepción del Director de encuentros y del tomador de tiempo, que tendrán el rol previamente establecido por la Comisión. Los oficiales designados, deberán pasar examen médico antes de intervenir en la función.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
 
@@ -29957,7 +30107,7 @@ El Anunciador y Tomador de Tiempo, procurará estar cerca del cuadrilátero, par
 
 ###### Artículo 2150.
 
-El Anunciador o Tomador de Tiempo, no deberá hacer sonar la campana o silbato, nI permitirá que otra persona lo haga sonar, en el transcurso de una caída.
+El Anunciador o Tomador de Tiempo, no deberá hacer sonar la campana o silbato, ni permitirá que otra persona lo haga sonar, en el transcurso de una caída.
 
 > <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
 
@@ -30083,7 +30233,7 @@ Los auxiliares que infrinjan las disposiciones contenidas en los artículos del 
 
 ###### Artículo 2166 Bis.
 
-Los auxiliares no deberán protestar las decisiones de los oficiales sobre el cuadrilátero ni en parte alguna de las Arenas, deberán presentar sus protestas en la Sesión Ordinaria o Extraordinaria inmediata de la Comisión.
+Los auxiliares no deberán protestar las decisiones de los oficiales sobre el cuadrilátero ni en parte alguna de las Arenas, deberán presentar sus protestas en la sesión Ordinaria o Extraordinaria inmediata de la Comisión.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
 
@@ -30155,7 +30305,7 @@ Para ser representante de boxeadores o luchadores, se requiere ser mayor de edad
 
 ###### Artículo 2171.
 
-Todo representante que se encuentre suspendido por la Comisión Municipal de Box y Lucha Libre o por cualquier otra Comisión o Consejo de Box o Lucha Libre Nacional o Extranjera, con la cual la primera tenga relaciones de reciprocidad, no podrá actuar por sí o a través de otra persona, dentro del boxeo o lucha libre profesional, mientras dure el término de la suspensión.
+Todo representante que se encuentre suspendido por la Comisión Municipal de Box y Lucha Libre o por cualquiea otra Comisión o Consejo de Box o Lucha Libre Nacional o Extranjera, con la cual la primera tenga relaciones de reciprocidad, no podrá actuar por sí o a través de otra persona, dentro del boxeo o lucha libre profesional, mientras dure el término de la suspensión.
 
 > <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
 
@@ -30303,7 +30453,7 @@ III. Serán sancionados con un equivalente a 25 salarios mínimos vigentes en el
 
 ###### Artículo 2184.
 
-Los boxeadores para actuar ante el público, deberán presentarse en forma adecuada para el caso, usarán zapatos de material suave, de color negro de preferencia y sin tacón; “concha” o protector; protector bucal hecho a al medida del boxeador y que haya sido aprobado por el Servicio Médico de la Comisión, calcetines blancos, calzón reglamentario y se tendrá especial cuidado de que los contendientes no usen calzón del mismo color.
+Los boxeadores para actuar ante el público, deberán presentarse en forma adecuada para el caso, usarán zapatos de material suave, de color negro de preferencia y sin tacón; “concha” o protector; protector bucal hecho a la medida del boxeador y que haya sido aprobado por el Servicio Médico de la Comisión, calcetines blancos, calzón reglamentario y se tendrá especial cuidado de que los contendientes no usen calzón del mismo color.
 
 Quedan obligadas las Empresas a anunciar al público en los programas de mano, el color del calzón que vayan a usar los boxeadores para su fácil identificación.
 
@@ -30465,7 +30615,7 @@ El peso de los boxeadores se verificará con toda exactitud estando únicamente 
 
 ###### Artículo 2192.
 
-Una vez terminado el peso de los boxeadores que figuren en un programa, el Secretario de la Comisión formulara la documentación relacionada con la función, la que entregará al Director de Encuentros, quien la distribuirá en la Arena en la forma que corresponde. Una vez terminada la función, dicha documentación será recogida pro el Comisionado en turno, para ser entregada a la Comisión en la Sesión inmediata posterior, con su informe respectivo.
+Una vez terminado el peso de los boxeadores que figuren en un programa, el Secretario de la Comisión formulara la documentación relacionada con la función, la que entregará al Director de Encuentros, quien la distribuirá en la Arena en la forma que corresponde. Una vez terminada la función, dicha documentación será recogida por el Comisionado en turno, para ser entregada a la Comisión en la Sesión inmediata posterior, con su informe respectivo.
 
 > <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
 
@@ -31093,7 +31243,7 @@ La Comisión podrá imponer a los infractores de las disposiciones contenidas en
 
 I. Amonestaciones públicas o privadas;
 
-II. Sanciones económicas, que puede ir de los diez a los cien días de salario mínimo general vigente de la zona tomando en cuanta los antecedentes de los infractores, la gravedad de la falta y de las circunstancias que hayan mediado el caso;
+II. Sanciones económicas, que puede ir de los diez a los cien días de salario mínimo general vigente de la zona tomando en cuenta los antecedentes de los infractores, la gravedad de la falta y de las circunstancias que hayan mediado el caso;
 
 III. Suspensión temporal de la licencia que pueden ser de quince días hasta un año, para poder presentar o actuar en espectáculos, exhibiciones y presentaciones en que tengan lugar encuentros de Box y Lucha Libre profesionales en el Municipio, a juicio de la Comisión y tomando en cuenta las circunstancias señaladas en la fracción anterior, y
 
@@ -31303,7 +31453,7 @@ II. Presentar propuestas relacionadas con el objetivo general y las atribuciones
 
 III. Colaborar en la elaboración de los estudios, proyectos e iniciativas cuya elaboración sea acordada en el Consejo;
 
-IV. Participar de manera directa o por medio de representante, en las reuniones de los grupos de trabajo que se formen par cumplir con los objetivos del Consejo; y
+IV. Participar de manera directa o por medio de representante, en las reuniones de los grupos de trabajo que se formen para cumplir con los objetivos del Consejo; y
 
 V. Las demás que determinen las disposiciones legales y reglamentarias correspondientes en la materia.
 
@@ -31483,7 +31633,7 @@ Los Programas de Mejora Regulatoria son instrumentos de ejecución de las accion
 
 ###### Artículo 2270.
 
-Para la consecución de las metas establecidas en los Programas de Mejora Regulatoria podrán establecerse acuerdos de coordinación entre la autoridades responsables de su ejecución, así como convenios de colaboración con los sectores social y privado, en los que se establecerán los aspectos esenciales par la elaboración o cumplimiento de sus fines.
+Para la consecución de las metas establecidas en los Programas de Mejora Regulatoria podrán establecerse acuerdos de coordinación entre la autoridades responsables de su ejecución, así como convenios de colaboración con los sectores social y privado, en los que se establecerán los aspectos esenciales para la elaboración o cumplimiento de sus fines.
 
 > <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
 
@@ -32885,7 +33035,9 @@ SEGUNDO.- Las propuestas a que se refieren los artículos 222 fracción IX y 224
 
 TERCERO.- Para el caso de los Jueces Calificadores, Secretarios, Supervisores y Notificadores que forman parte de los Juzgados Calificadores y que actualmente se encuentran laborando, deberán aprobar los exámenes por oposición y cumplir con los requisitos que señala el Código Reglamentario Municipal; para tal efecto el Síndico Municipal convocará a las Asociaciones de Abogados, Barras y Colegios de Abogados que tengan debidamente acreditada su personalidad, para realizar y formular la convocatoria para el examen aludido, lo anterior para ratificar o no los nombramientos correspondientes, en un plazo no mayor a treinta días a partir de la publicación del presente Reglamento en el Periódico Oficial del Estado.
 
-CUARTO.- Las Zonas Publicitarias que se señalan en el artículo 1254 fracción XLIV del Código Reglamentario para el Municipio de Puebla, se componen por los corredores urbanos CAl (Corredor de Alto Impacto) y CUMS (Corredor de Servicios y Uso Mixto), mismos que a continuación se detallan.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE FEBRERO DE 2011)</small>
+
+CUARTO.- Las Zonas Publicitarias que se señalan en el artículo 1254 fracción XLV del Código Reglamentario para el Municipio de Puebla, se componen por los corredores urbanos CAl (Corredor de Alto Impacto) y CUMS (Corredor de Servicios y Uso Mixto), mismos que a continuación se detallan.
 
 (VEASE ARCHIVO ANEXO)
 
@@ -33000,5 +33152,11 @@ SEGUNDO.- Se derogan todas las disposiciones anteriores y aquéllas que se opong
 P.O. 2 DE FEBRERO DE 2011.
 
 PRIMERO.- Las presentes reformas y adiciones surtirán sus efectos al día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente Dictamen.
+
+P.O. 11 DE FEBRERO DE 2011.
+
+PRIMERO.- Las presentes reformas, adiciones y derogaciones surtirán sus efectos al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan las disposiciones que se opongan al presente Dictamen.
