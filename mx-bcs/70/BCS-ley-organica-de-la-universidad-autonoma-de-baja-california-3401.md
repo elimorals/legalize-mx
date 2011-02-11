@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-de-la-universidad-autonoma-de-baja-california-3401
 country: "mx"
 rank: "ley_organica"
 publication_date: "1978-10-06"
-last_updated: "2007-09-28"
+last_updated: "2011-02-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3401&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY ORGANICA DE LA UNIVERSIDAD AUTONOMA DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 28 DE SEPTIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 11 DE FEBRERO DE 2011.
 
 Ley publicada en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el 6 de octubre de 1978.
 
@@ -175,21 +175,33 @@ VI.- Los Jefes de Departamento Académico.
 
 VII.- El Patronato Universitario, figura de apoyo externo en la búsqueda de fuentes alternas de financiamiento para la Universidad.
 
-> <small>(REFORMADO, B.O. 28 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 11 DE FEBRERO DE 2011)</small>
 
 ###### ARTICULO 9o.
 
-El Consejo General Universitario, órgano legislativo máximo, estará integrado por:
+El Consejo General Universitario, órgano máximo de gobierno y legislativo, estará integrado por:
+
+> <small>(REFORMADO, B.O. 28 DE SEPTIEMBRE DE 2007)</small>
 
 a).- El Rector, que será Presidente del mismo;
 
+> <small>(REFORMADO, B.O. 28 DE SEPTIEMBRE DE 2007)</small>
+
 b).- El Secretario Académico y el Secretario de Administración y Finanzas, tendrán derecho a voz, pero no a voto, el primero fungirá también como secretario del Consejo General Universitario;
+
+> <small>(REFORMADO, B.O. 28 DE SEPTIEMBRE DE 2007)</small>
 
 c).- Los Jefes de Departamento Académico;
 
+> <small>(REFORMADO, B.O. 28 DE SEPTIEMBRE DE 2007)</small>
+
 d).- Un representante de los profesores y un representante de los estudiantes por cada uno de los Departamentos Académicos;
 
+> <small>(REFORMADO, B.O. 28 DE SEPTIEMBRE DE 2007)</small>
+
 e).- Un representante por cada una de las organizaciones mayoritarias de los profesores, estudiantes y trabajadores administrativos;
+
+> <small>(REFORMADO, B.O. 28 DE SEPTIEMBRE DE 2007)</small>
 
 f).- Los Campus Universitarios foráneos, deberán estar representados en el Consejo General Universitario en la forma siguiente:
 
@@ -198,6 +210,8 @@ a).- El representante Académico Administrativo del Campus de que se trate;
 b).- Un representante por los profesores;
 
 c).- Un representante por los alumnos.
+
+> <small>(REFORMADO, B.O. 28 DE SEPTIEMBRE DE 2007)</small>
 
 El Consejo General Universitario determinará otras representaciones que conforme al desarrollo de las funciones sustantivas de los Campus, se requieran.
 
@@ -217,17 +231,25 @@ III.- Crear, modificar o suprimqr (sic) áreas y departamentos a propuesta del R
 
 IV.- Expedir todas las normas y disposiciones generales encaminadas a la mejor organización y funcionamiento técnico, docente, estudiantil y administrativo de la Universidad.
 
-> <small>(REFORMADA, B.O. 28 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 11 DE FEBRERO DE 2011)</small>
 
-V.- Elegir a los miembros de la Junta Consultiva; observando las reglas siguientes:
+V.- Elegir a los Miembros de la Junta Consultiva; observando las reglas siguientes:
+
+> <small>(REFORMADO, B.O. 28 DE SEPTIEMBRE DE 2007)</small>
 
 a).- A partir del tercer año, el Consejo General Universitario deberá de elegir anualmente a un miembro de la Junta Consultiva que sustituya al que ocupe el último lugar en el orden que esta misma fije por insaculación.
 
+> <small>(REFORMADO, B.O. 28 DE SEPTIEMBRE DE 2007)</small>
+
 b).- Una vez que hayan sido sustituidos los primeros miembros, los nombrados posteriormente irán remplazando a los miembros de más antigua elección.
 
-c).- Las vacantes que ocurran en la Junta por muerte, incapacidad o renuncia, serán cubiertas por elementos nombrados por el Consejo General Universitario.
+> <small>(REFORMADO, B.O. 11 DE FEBRERO DE 2011)</small>
 
-d).- Los miembros de la Junta Consultiva no podrán ocupar puesto administrativo de confianza alguno, sino hasta transcurridos tres años de su separación como integrantes de dicha Junta.
+c).- Las vacantes que ocurran en la Junta Consultiva por muerte, incapacidad, renuncia o remoción serán cubiertas por elementos nombrados por el Consejo General Universitario.
+
+> <small>(REFORMADO, B.O. 11 DE FEBRERO DE 2011)</small>
+
+d).- Los miembros de la Junta Consultiva no podrán ocupar puesto administrativo de confianza alguno, sino hasta transcurridos tres años de su separación como integrantes de la misma.
 
 > <small>(REFORMADA, B.O. 28 DE SEPTIEMBRE DE 2007)</small>
 
@@ -241,25 +263,29 @@ La ponderación deberá ser:
 
 30% para el personal administrativo.
 
-> <small>(REFORMADA, B.O. 28 DE SEPTIEMBRE DE 2007)</small>
+> <small>(ADICIONADA, B.O. 11 DE FEBRERO DE 2011)</small>
 
-VII.- Conferir grados y distinciones honoríficas, de acuerdo al Estatuto General Universitario y demás disposiciones reglamentarias.
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 28 DE SEPTIEMBRE DE 2007)</small>
-
-VIII.- Analizar, estudiar y en su caso aprobar o rechazar el presupuesto anual de ingresos y egresos, que le presente la Junta Hacendaría, previo dictamen de un despacho contable externo, así como los estatutos, reglamentos y demás normatividad emanada de esta ley.
-
-> <small>(ADICIONADA, B.O. 28 DE SEPTIEMBRE DE 2007)</small>
-
-IX.- Conocer de cualquier asunto que no sea de competencia de alguna otra autoridad universitaria, y;
+VII.- Designar al Rector Interino en caso de fallecimiento, renuncia, incapacidad o ausencia que exceda de dos meses y entregar el nombramiento respectivo;
 
 > <small>(REFORMADA, B.O. 28 DE SEPTIEMBRE DE 2007)</small>
 
-X.- Las demás que le señale esta Ley y el Estatuto General Universitario.
+VIII.- Conferir grados y distinciones honoríficas, de acuerdo al Estatuto General Universitario y demás disposiciones reglamentarias.
 
-> <small>(ADICIONADO, B.O. 28 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADA, B.O. 11 DE FEBRERO DE 2011)</small>
 
-Las sesiones del Consejo General Universitario deberán de ser públicas para la comunidad universitaria, salvo aquellas que la ley determine lo contrario.
+IX.- Analizar, estudiar y en su caso aprobar o rechazar el presupuesto anual de ingresos y egresos, que le presente la Junta Hacendaría, previo dictamen de un despacho contable externo, así como los estatutos, reglamentos y demás normatividad emanada de esta Ley.
+
+> <small>(REFORMADA, B.O. 11 DE FEBRERO DE 2011)</small>
+
+X.- Conocer de cualquier asunto que no sea competencia de alguna otra autoridad universitaria, y
+
+> <small>(REFORMADA, B.O. 28 DE SEPTIEMBRE DE 2007)</small>
+
+XI.- Las demás que le señale esta Ley y el Estatuto General Universitario.
+
+> <small>(REFORMADO, B.O. 11 DE FEBRERO DE 2011)</small>
+
+Las Sesiones del Consejo General Universitario deberán de ser públicas para la comunidad universitaria, salvo aquellas que la Ley determine lo contrario.
 
 > <small>(REFORMADO, B.O. 28 DE SEPTIEMBRE DE 2007)</small>
 
@@ -295,9 +321,11 @@ Las atribuciones de la Junta Consultiva son:
 
 I.- Entregar el nombramiento de Rector a quien resulte electo conforme al procedimiento de elección consignado en el reglamento especial que para tal efecto deberá aprobarse;
 
-II.- Proceder a la sustitución del Rector, cuando sus ausencias excedan de dos meses;
+II.- (DEROGADA, B.O. 11 DE FEBRERO DE 2011)
 
-III.- Decidir sobre la renuncia del Rector, removerlo por causa grave, por riesgo de desestabilizarse el buen funcionamiento de la Universidad Autónoma de Baja California sur ó por incumplimiento de lo establecido en la presente Ley;
+> <small>(REFORMADA, B.O. 11 DE FEBRERO DE 2011)</small>
+
+III.- Decidir sobre la renuncia del Rector, removerlo por causa grave debidamente comprobada, por riesgo de desestabilizarse el buen funcionamiento de la Universidad, o por incumplimiento en lo establecido en la presente Ley;
 
 IV.- Designar a los integrantes del organismo autónomo defensor de los derechos académicos de los estudiantes y profesores;
 
@@ -524,3 +552,21 @@ SEPTIMO.- Los trabajadores de la Universidad conservaran todos sus derechos labo
 OCTAVO.- El presente Decreto por ningún motivo afectara los derechos escolares adquiridos por los alumnos de la Universidad.
 
 NOVENO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+B.O. 11 DE FEBRERO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+###### ARTÍCULO SEGUNDO.
+
+En un plazo no mayor a 15 días naturales, el Consejo General Universitario, deberá convocar a elección de quien ocupara el cargo de Rector de la Universidad Autónoma de Baja California Sur, en los términos de la Ley Orgánica de la Universidad Autónoma de Baja California Sur.
+
+###### ARTÍCULO TERCERO.
+
+A partir de la entrada en vigor del presente Decreto, quedan sin efecto legal o administrativo alguno, las designaciones de Rector realizadas por el Consejo General Universitario y por la Junta Consultiva.
+
+###### ARTÍCULO CUARTO.
+
+En un plazo que no exceda de 3 días naturales posteriores a la entrada en vigor del presente Decreto, el Secretario Académico convocará al Consejo General Universitario, para que en uso de la facultad que le otorga la fracción VII del Artículo 10 de la presente Ley, designe al Rector Interino, mismo que desahogará el proceso de elección a que se refiere el artículo segundo transitorio del presente Decreto. Entre tanto tendrá todas las facultades legales, académicas y administrativas que le confiere la presente Ley.
