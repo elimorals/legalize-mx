@@ -4,7 +4,7 @@ identifier: "COL-reglamento-interior-de-los-servicios-de-salud-del-estado-de-226
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-07-14"
-last_updated: "2010-12-18"
+last_updated: "2011-02-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "COL"
 
 REGLAMENTO INTERIOR DE LOS SERVICIOS DE SALUD DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE FEBRERO DE 2011.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 14 de julio de 2001.
 
@@ -96,7 +96,9 @@ Para la más eficaz atención de los asuntos de su competencia y materia, el Org
 
 Dirección de Servicios de Salud.
 
-> <small>(DEROGADO, P.O. 11 DE JULIO DE 2009)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA]. P.O. 12 DE FEBRERO DE 2011)</small>
+
+Dirección del Régimen Estatal de Protección Social en Salud.
 
 Dirección de Planeación.
 
@@ -435,6 +437,44 @@ XVII. Organizar, coordinar y vigilar el servicio social, internado de pregrado y
 XVIII. Nombrar, en auxilio de las autoridades judiciales y administrativas del orden federal, estatal y demás dependencias federales, estatales y municipales, a los trabajadores que fungirán como peritos en las diferentes áreas de su competencia; y
 
 XIX. Las demás que le señalen las leyes, reglamentos, decretos y acuerdos o las autoridades superiores.
+
+> <small>(ADICIONADO,. P.O. 12 DE FEBRERO DE 2011)</small>
+
+ARTICULO 24 BIS. La Dirección del Régimen Estatal de Protección Social en Salud, tendrá las siguientes facultades y obligaciones:
+
+l. Instrumentar la política de protección social en salud y el plan estratégico de desarrollo del sistema, en el Estado de Colima;
+
+II. Llevar a cabo las acciones de identificación de grupos de familias a beneficiar, así como su incorporación a "el régimen" y verificar la vigencia y tutela de sus derechos;
+
+III. Administrar el padrón de beneficiarios en el Estado de Colima, en los términos de las disposiciones jurídicas aplicables, para que a su vez coadyuve a la integración del padrón nacional;
+
+IV. Presentar el informe de las familias incorporadas al Sistema de Protección Social en Salud, incluyendo el monto aportado por concepto de cuota familiar;
+
+V. Vigilar que los recursos transferidos al prestador de servicios por concepto de cuota social, aportación solidaria federal y estatal, cuota familiar sean aplicados responsablemente, de conformidad con lo señalado en la Ley General de Salud, su reglamento, el acuerdo de coordinación para ejecución del régimen y los convenios de gestión respectivos;
+
+VI. Administrar los recursos financieros, humanos y materiales que la Federación y el Estado asignan al Régimen de conformidad con las directrices que al efecto establezca la Secretaría de Finanzas, la Secretaría de Planeación y la Secretaría de Administración;
+
+VII. Verificar que las quejas que presenten los beneficiarios del régimen sean turnadas y atendidas por las áreas correspondientes, para que se apliquen las medidas correctivas;
+
+VIII. Establecer las estrategias de promoción y registro de beneficiarios de acuerdo a la normatividad aplicable. Así como la de apoyar a los solicitantes en la gestión de incorporación al Sistema de Protección Social en salud;
+
+IX. Establecer las políticas internas para lograr que los beneficios médicos establecidos en las Reglas de Operación del Seguro Médico para una nueva generación, sean efectivamente otorgados a los pacientes menores que así lo requieran;
+
+X. Establecer las políticas internas para lograr que los beneficios médicos establecidos en los convenios para la operación del Fondo de Protección contra Gastos Catastróficos, den cobertura a los pacientes cuyo padecimiento esté incluido en dicha estrategia;
+
+XI. Cumplir con las metas de afiliación establecidas al inicio del ejercicio fiscal por la Comisión Nacional de Protección Social en salud;
+
+XII. Vigilar el macro proceso de financiamiento, privilegiando que los recursos sean dirigidos para la atención médica de los afiliados y vinculados al Catálogo Universal de Servicios de Salud;
+
+XIII. Lograr que la población afiliada, no incurra en gastos de bolsillo al momento de recibir la atención médica por padecimientos que cubre el Seguro Popular. evitando con ello que tengan riesgo de empobrecimiento por atender su salud;
+
+XIV. Garantizar los servicios médicos a todos los afiliados al Seguro Popular, incluyendo los provenientes de otros Estados;
+
+XV. Impulsar, promover, coordinar y vincular en el ámbito de su competencia, la celebración de los acuerdos de coordinación entre la Secretaría de Salud Federal y el Gobierno del Estado;
+
+XVI. Desempeñar las funciones y comisiones que el Secretario de Salud le encomiende, manteniéndolo informado sobre su desarrollo; y
+
+XVII. Las demás que determine este reglamento interior y demás disposiciones legales y administrativas aplicables al funcionamiento del Sistema de Protección Social en Salud.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE JUNIO DE 2007)</small>
 
@@ -957,3 +997,11 @@ P.O. 18 DE DICIEMBRE DE 2010.
 PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO.- El presente Decreto no crea nuevas plazas, ya que con el mismo personal adscrito y laborando en los Servicios de Salud del Estado, se reorganizará la conformación de la Comisión Estatal para la Protección contra Riesgos Sanitarios.
+
+P.O. 12 DE FEBRERO DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional "El Estado de Colima".
+
+SEGUNDO.- Se otorga un plazo de 60 días contados a partir de la publicación del presente Decreto, para la expedición del Reglamento que regule las funciones de la Dirección del Régimen Estatal de Protección Social en Salud.
+
+TERCERO.- El presente Decreto no crea nuevas plazas, ya que con el mismo personal adscrito se reorganizará la conformación de la Dirección del Régimen Estatal de Protección Social en Salud.
