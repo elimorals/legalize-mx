@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-ejecucion-de-penas-y-medidas-judiciales-antes-ley-de-529
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-09"
-last_updated: "2010-10-23"
+last_updated: "2011-02-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52982&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE EJECUCIÓN DE PENAS Y MEDIDAS JUDICIALES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE OCTUBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE FEBRERO DE 2011.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 9 de diciembre de 2006.
 
@@ -1135,7 +1135,9 @@ VIII.- Violación.
 
 IX.- Abuso Sexual, sancionado por los artículos 174 y 175.
 
-X.- Secuestro.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+X.- (DEROGADA, P.O. 12 DE FEBRERO DE 2011)
 
 XI.- Desaparición Forzada de Personas.
 
@@ -1493,7 +1495,11 @@ El sentenciado que considere que al dictarse la sentencia, en la que no hubo pro
 
 Artículo 104 bis. Restricciones a los beneficios.
 
-El reo que haya sido sentenciado por el delito de robo de vehículos automotores con violencia sobre las personas, secuestro, secuestro exprés, extorsión, violación, homicidio doloso, de acuerdo a este Código, no le será aplicable ninguno los (sic) siguientes beneficios:
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE FEBRERO DE 2011)</small>
+
+El reo que haya sido sentenciado por el delito de robo de vehículos automotores con violencia sobre las personas, extorsión, violación, homicidio doloso, de acuerdo a este Código (sic), no le será aplicable ninguno (sic) los siguientes beneficios:
 
 I. Modalidad de la pena de prisión, tales como:
 
@@ -2434,3 +2440,17 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 La modificación, derogación o reubicación de cualquier tipo penal a que se refiere este Decreto, no implicará la libertad de los responsables por los delitos cometidos con anterioridad a su vigencia, siempre que los hechos se sigan comprendiendo en los tipos modificados o creados.
+
+P.O. 12 DE FEBRERO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el mismo día en que lo haga la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del Artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, previa publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los procedimientos penales iniciados antes de la entrada en vigor del presente Decreto, en materia de delitos previstos en el mismo, se seguirán tramitando hasta su conclusión conforme a las disposiciones vigentes al momento de la comisión de los hechos que les dieron origen. Lo mismo se observará respecto de la ejecución de las penas correspondientes.
+
+###### ARTÍCULO TERCERO.
+
+Las disposiciones relativas a los delitos de secuestro previstas en el Código Penal del Estado hasta la entrada en vigor del presente Decreto, seguirán aplicándose por los hechos realizados durante su vigencia. Así mismo, dichos preceptos seguirán aplicándose a las personas procesadas o sentenciadas por los delitos previstos y sancionados por los mismos artículos.
