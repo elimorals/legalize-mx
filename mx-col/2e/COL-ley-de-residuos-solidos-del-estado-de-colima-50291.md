@@ -4,7 +4,7 @@ identifier: "COL-ley-de-residuos-solidos-del-estado-de-colima-50291"
 country: "mx"
 rank: "ley"
 publication_date: "2006-04-08"
-last_updated: "2006-04-08"
+last_updated: "2011-02-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50291&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE RESIDUOS SOLIDOS DEL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE FEBRERO DE 2011.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Colima, el sábado 8 de abril de 2006.
 
@@ -321,6 +321,20 @@ XX. Los demás que establezca el Reglamento y otros ordenamientos aplicables.
 
 La Secretaría y los Ayuntamientos ejecutarán, en el marco de su competencia, los contenidos del Programa.
 
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2011)</small>
+
+###### Artículo 11 Bis.
+
+Además de las atribuciones establecidas en el artículo 6°, la Secretaría tendrá a su cargo la implementación de un programa adecuado de sustitución y alternativas viables para reemplazar las bolsas de polietileno por bolsas degradables y/o biodegradables, bajo el siguiente esquema de seguimiento:
+
+I. Informar al público de manera adecuada, así como llevar a cabo campañas de asistencia gratuita para capacitar a los compradores en general, sobre las posibles alternativas con las que podrán sustituir las bolsas de plástico no degradables y/o o no biodegradables;
+
+II. Realizar campañas de difusión y concientización hacia la población sobre las ventajas que tendrán para su salud y el medio ambiente en general, el uso racional de material degradable y/o biodegradable, para el envase, contención y movilización de los productos que adquieran en los diferentes establecimientos;
+
+III. Promover campañas de concientización entre los propietarios de establecimientos y empresas relacionadas con la comercialización de los productos, de tal manera que sus intereses sean compatibles con los intereses colectivos de protección ambiental y desarrollo sustentable; y
+
+IV. Promover el otorgamiento de estímulos e incentivos a quienes realicen acciones tendientes a la sustitución y aportación de alternativas viables para reemplazar las bolsas de polietileno por bolsas degradables y/o biodegradables con el fin de procurar la protección, aprovechamiento sustentable, preservación y restauración del equilibrio ecológico.
+
 ###### Artículo 12.
 
 La Secretaría y los Ayuntamientos formularán, ejecutarán y evaluarán los programas correspondientes a la prestación de los servicios de limpia de sus respectivas competencias con base en el Programa, así como en las disposiciones que establecen esta Ley, su Reglamento y demás disposiciones jurídicas aplicables.
@@ -435,9 +449,17 @@ X. Tratar térmicamente los residuos sólidos recolectados, sin considerar las d
 
 XI. Diluir o mezclar residuos sólidos o industriales peligrosos en cualquier líquido y su vertimiento al sistema de alcantarillado, a cualquier cuerpo de agua o sobre suelos con o sin cubierta vegetal;
 
-XII. Mezclar residuos peligrosos con residuos sólidos e industriales no peligrosos; y
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2011)</small>
 
-XIII. Confinar o depositar en sitios de disposición final residuos en estado líquido o con contenidos líquidos que excedan los máximos permitidos por las Normas Oficiales Mexicanas o las Normas Ambientales del Estado de Colima.
+XII. Mezclar residuos peligrosos con residuos sólidos e industriales no peligrosos;
+
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2011)</small>
+
+XIII. Confinar o depositar en sitios de disposición final residuos en estado líquido o con contenidos líquidos que excedan los máximos permitidos por las Normas Oficiales Mexicanas o las Normas Ambientales del Estado de Colima; y
+
+> <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2011)</small>
+
+XIV. El uso de bolsas de polietileno para ser utilizadas y entregadas de manera gratuita por tiendas departamentales, autoservicios, almacenes, supermercados, mercados públicos, tianguis, negocios y comercios, para llevar, transportar o trasladar los productos adquiridos.
 
 Las violaciones a lo establecido en este artículo se sancionarán de conformidad con lo dispuesto en esta Ley, sin perjuicio de lo establecido en los demás ordenamientos jurídicos aplicables.
 
@@ -448,6 +470,14 @@ Los propietarios, directores responsables de obra, contratistas y encargados de 
 El frente de las construcciones o inmuebles en demolición deberán (sic) mantenerse en completa limpieza, quedando prohibido almacenar escombros y materiales en la vía pública,
 
 Los responsables deberán transportar los escombros en vehículos adecuados que eviten su dispersión durante el transporte a los sitios que determine la normatividad aplicable.
+
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2011)</small>
+
+###### Artículo 26 Bis.
+
+La utilización de bolsas de plástico sólo se permitirá en caso de que sean creadas bajo procedimientos tecnológicos que les den la calidad de biodegradables.
+
+Los establecimientos mercantiles y comerciantes podrán utilizar las bolsas de polietileno cuando, por cuestiones de salubridad, se destinen para almacenar, empacar y/o conservar alimentos, mercancía o insumos, y no resulte factible el uso de un material sustituto al polietileno.
 
 ### CAPÍTULO II. DEL INVENTARIO DE LOS RESIDUOS SÓLIDOS Y SUS FUENTES GENERADORAS
 
@@ -841,7 +871,9 @@ I. Amonestación cuando por primera vez se incumplan con las disposiciones conte
 
 II. Multa de 10 a 150 días de salario mínimo vigente en el Estado por segunda ocasión realice alguna de las conductas descritas en la fracción anterior o por violaciones a lo dispuesto por los artículos 25 fracciones I, II y VI; 26 segundo y tercer párrafos; 40 segundo y tercer párrafos; y 42 de la presente Ley;
 
-III. Multa de 150 a mil días de salario mínimo vigente en el Estado por violaciones a lo dispuesto en los artículos 25 fracciones III, IV, VII y VIII; 38 tercer párrafo; 55 y 59 de la presente; y
+> <small>(REFORMADA. P.O. 12 DE FEBRERO DE 2011)</small>
+
+III. Multa de 150 a mil días de salario mínimo vigente en el Estado por violaciones a lo dispuesto en los artículos 25 fracciones III, IV, VII, VIII y XIV; 38 tercer párrafo; 55 y 59 de la presente; y
 
 IV. Arresto inconmutable de 36 horas y multa por mil a veinte mil días de salario mínimo vigente por violaciones a lo dispuesto por el artículo 25 fracciones IX a la XIII de la presente Ley.
 
@@ -930,3 +962,17 @@ Por lo tanto mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno, a los 03 días del mes de abril del año dos mil seis.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. JESÚS SILVERIO CAVAZOS CEBALLOS. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, LIC. JUAN JOSÉ SEVILLA SOLÓRZANO. Rúbrica. EL SECRETARIO DE DESARROLLO URBANO, ING. EDUARDO GUTIÉRREZ NAVARRETE. Rúbrica. EL SECRETARIO DE SALUD Y BIENESTAR SOCIAL, DR. JOSÉ SALAZAR AVIÑA. Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 12 DE FEBRERO DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Los que se acrediten como titulares de los establecimientos comprendidos por el presente Decreto, deberán proceder a reemplazar las bolsas de polietileno que utilizan o expiden en un plazo de 12 meses a partir de la entrada en vigor del mismo.
+
+La Secretaría de Desarrollo Urbano del Gobierno del Estado tendrá a su cargo la implementación, seguimiento, vigilancia y desarrollo del período de sustitución y reemplazo de los materiales señalados en el presente Decreto, de acuerdo al plazo previsto en el párrafo anterior. Dicha Secretaría podrá celebrar acuerdos o convenios de colaboración con los Ayuntamientos de la Entidad para el efecto de realizar conjuntamente las atribuciones señaladas en este párrafo.
+
+TERCERO.- Las sanciones por la violación a las disposiciones del presente Decreto se aplicarán a los doce meses siguientes de su entrada en vigor.
+
+CUARTO.- El Gobierno del Estado deberá implementar una campaña de difusión permanente para dar a conocer a la ciudadanía en general, del contenido y alcances que se derivan por la entrada en vigor del presente Decreto.
