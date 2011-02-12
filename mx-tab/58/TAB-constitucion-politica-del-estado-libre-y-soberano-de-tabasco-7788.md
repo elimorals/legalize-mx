@@ -4,7 +4,7 @@ identifier: "TAB-constitucion-politica-del-estado-libre-y-soberano-de-tabasco-77
 country: "mx"
 rank: "constitucion"
 publication_date: "1919-04-05"
-last_updated: "2010-12-18"
+last_updated: "2011-02-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7788&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "TAB"
 ---
 # CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO
 
-CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO
+CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2011.
 
 Constitución publicada por Bando Solemne en el Estado de Tabasco, el 5 de abril de 1919.
 
@@ -43,7 +43,7 @@ Constitución Política del Estado Libre y Soberano de Tabasco
 
 ### CAPITULO I. DEL ESTADO Y SU TERRITORIO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2008)</small>
 
 ###### ARTICULO 1°.
 
@@ -161,7 +161,7 @@ VI. El Estado establecerá mecanismos y procedimientos de revisión expeditos pa
 
 ### CAPITULO IV. DE LAS OBLIGACIONES Y DERECHOS DE LOS CIUDADANOS EN EL ESTADO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE NOVIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE NOVIEMBRE DE 2002)</small>
 
 ###### ARTICULO 5°.
 
@@ -245,7 +245,7 @@ V.- En los demás casos que las leyes señalen.
 
 Esta Constitución reconoce como medios de participación ciudadana al Plebiscito, al Referéndum y a la Iniciativa Popular, en los términos establecidos en la misma y en las demás leyes aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE MARZO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MARZO DE 2006)</small>
 
 I. Se entiende por Plebiscito el proceso por el que se consulta a los ciudadanos la aprobación o rechazo de un acto o decisión del Poder Ejecutivo o de los Ayuntamientos, trascendental para la vida pública del Estado o de los Municipios, según el caso.
 
@@ -295,7 +295,7 @@ a) El Referéndum no procederá cuando se trate de:
 
 6.- Las demás que determine la propia Constitución, o en forma expresa la ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE MARZO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MARZO DE 2006)</small>
 
 b) El Referéndum, podrá ser promovido en el ámbito de su competencia, por:
 
@@ -321,7 +321,7 @@ Las leyes que se refieran a materia electoral no podrán ser sometidas a referé
 
 III. En el año que se lleven a cabo elecciones populares, no deberá realizarse plebiscito o referéndum alguno. Tampoco podrá celebrarse más de un plebiscito o referéndum en el mismo año. Tratándose de la Constitución local, de leyes, de acuerdos o reglamentos de carácter general y abstracto o de actos o decisiones que incidan en la vida pública del estado, el plebiscito o el referéndum, sólo podrán llevarse a cabo en el segundo, cuarto y quinto año del ejercicio constitucional del titular del Poder Ejecutivo; y cuando se trate de aquellos que sólo repercutan a nivel municipal, podrán llevarse a cabo solamente en el segundo año del ejercicio constitucional del Ayuntamiento de que se trate;
 
-> <small>(REFORMADA PRIMER PARRAFO, P.O. 8 DE MARZO DE 2006)</small>
+> <small>(REFORMADA PRIMER PÁRRAFO, P.O. 8 DE MARZO DE 2006)</small>
 
 IV. La Iniciativa Popular, es el instrumento por medio del cual los ciudadanos del Estado, podrán presentar al Congreso local, al titular del Poder Ejecutivo o a los Ayuntamientos, iniciativas de leyes, decretos, reglamentos y acuerdos, según se trate, en los términos que se establecen en esta Constitución y en las leyes secundarias. La autoridad ante la que se promueva la iniciativa popular, deberá iniciar el trámite correspondiente en un plazo no mayor de treinta días hábiles, contados a partir de su presentación.
 
@@ -439,7 +439,7 @@ El titular de la Contraloría General será designado por el voto de las dos ter
 
 h) La fiscalización de las finanzas de los partidos políticos estará a cargo de un órgano técnico del Consejo Estatal del Instituto Electoral y de Participación Ciudadana de Tabasco, cuyo titular será designado, por las dos terceras partes del propio Consejo, a propuesta del Consejero Presidente. La ley indicará la integración y funcionamiento de dicho órgano de control, así como los procedimientos para la aplicación de sanciones por el Consejo Estatal;
 
-La fiscalización de los recursos de los partidos políticos que realice el Instituto Electoral y de Participación Ciudadana de Tabasco, no estará limitada por los secretos bancario, fiduciario y fiscal. Para eI ejercicio de esta facultad y superar la limitación a que se refiere este párrafo se estará a los términos que al respecto se establecen en la Base V del artículo 41 de la Constitución Política de los Estados Unidos Mexicanos y las leyes reglamentarias;
+La fiscalización de los recursos de los partidos políticos que realice el Instituto Electoral y de Participación Ciudadana de Tabasco, no estará limitada por los secretos bancario, fiduciario y fiscal. Para el ejercicio de esta facultad y superar la limitación a que se refiere este párrafo se estará a los términos que al respecto se establecen en la Base V del artículo 41 de la Constitución Política de los Estados Unidos Mexicanos y las leyes reglamentarias;
 
 i) El Instituto Electoral y de Participación Ciudadana de Tabasco tendrá a su cargo en forma integral y directa, además de las que le determine la ley, las actividades relativas a la capacitación y educación cívica, geografía electoral, los derechos y prerrogativas de los partidos políticos, al padrón electoral y lista nominal de electores conforme al convenio y los documentos técnicos que al respecto se suscriban con el Instituto Federal Electoral, impresión de materiales electorales, preparación de la jornada electoral, los cómputos en los términos que señale la ley, declaración de validez y otorgamiento de constancias, así como la regulación de la observación electoral y las encuestas o sondeos de opinión con fines electorales. Las sesiones de todos los órganos colegiados de dirección serán públicas en los términos que señala la ley;
 
@@ -449,7 +449,7 @@ k) El Instituto Electoral y de Participación Ciudadana de Tabasco declarará la
 
 II.- El Consejo Estatal, a través del Consejero Presidente, deberá remitir al Ejecutivo Estatal el anteproyecto de egresos de cada año, para su inclusión en el proyecto del Presupuesto General de Egresos del Estado, mismo que será revisado y, en su caso, aprobado por el Congreso. En los años electorales se aumentará conforme a lo dispuesto por las leyes en la materia, tomando en cuenta las elecciones de que se trate;
 
-IIl.- La retribución económica que perciban los Consejeros Electorales, incluyendo la de su Presidente, no será superior, en ningún caso, a la que perciban los Magistrados Numerarios del Tribunal Superior de Justicia del Estado; y
+III.- La retribución económica que perciban los Consejeros Electorales, incluyendo la de su Presidente, no será superior, en ningún caso, a la que perciban los Magistrados Numerarios del Tribunal Superior de Justicia del Estado; y
 
 IV.- El Consejo Estatal, por conducto de su Consejero Presidente deberá dar cumplimiento a lo establecido en el artículo 41 de esta Constitución, remitiendo al Congreso, a través de su Órgano Superior de Fiscalización, su cuenta pública para su examen y fiscalización correspondiente.
 
@@ -491,7 +491,7 @@ El Poder Público se divide para su ejercicio en Legislativo, Ejecutivo y Judici
 
 ### CAPITULO II. DE LA ELECCION
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE NOVIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE NOVIEMBRE DE 2002)</small>
 
 ###### ARTICULO 12.
 
@@ -543,7 +543,7 @@ V.- Ningún partido político podrá contar con un número de Diputados por ambo
 
 VI.- En los términos de lo establecido en las fracciones II, III, IV y V anteriores, las diputaciones de representación proporcional que resten después de asignar las que correspondan al partido político que se halle en los supuestos de las fracciones IV o V, se adjudicarán a los demás partidos políticos con derecho a ello en cada una de las circunscripciones plurinominales, en proporción directa con la respectiva votación estatal efectiva de estos últimos. La ley desarrollará las reglas y fórmulas para estos efectos.
 
-VII.- (DEROGADA, P.O. 21 DE DICIEMBRE DE 1996)(F. DE E., P.O. 8 DE MARZO DE 1997)
+VII.- (DEROGADA, P.O. 21 DE DICIEMBRE DE 1996) (F. DE E., P.O. 8 DE MARZO DE 1997)
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
@@ -591,7 +591,7 @@ Para poder figurar en las listas de las circunscripciones electorales plurinomin
 
 Los Diputados al Congreso del Estado no podrán ser reelectos para el período inmediato. Los Diputados suplentes podrán ser electos para el período inmediato con el carácter de propietarios, siempre que no hubieren estado en ejercicio; pero los Diputados propietarios no podrán ser electos para el período inmediato con el carácter de suplentes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2008)</small>
 
 ###### ARTICULO 17.
 
@@ -625,7 +625,7 @@ La Cámara de Diputados se renovará en su totalidad cada tres años, iniciando 
 
 (DEROGADO, P.O. 21 DE DICIEMBRE DE 1996)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2008)</small>
 
 ###### ARTICULO 21.
 
@@ -819,7 +819,7 @@ El Ejecutivo y los Municipios podrán contratar financiamiento cuya vigencia no 
 
 a) (DEROGADO, P.O. 14 DE MAYO DE 2010)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE MAYO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE MAYO DE 2010)</small>
 
 b) El límite máximo de este tipo de financiamientos que podrá contratar el Gobierno del Estado y los Municipios será de 15% de sus ingresos ordinarios determinados en sus leyes de ingresos vigentes.
 
@@ -953,7 +953,7 @@ XLIII.- Aprobar, en su caso, los puntos de acuerdos legislativos o acuerdos econ
 
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2008)</small>
 
-XLlV.- Legislar en materia de proyectos y contratos para prestación de servicios, obra pública, adquisiciones y arrendamientos contraídos por el Estado y, en su caso, por los Municipios cuyas obligaciones tengan una vigencia plurianual. Estos contratos plurianuales deben ser presentados al Congreso del Estado para su autorización; y
+XLIV.- Legislar en materia de proyectos y contratos para prestación de servicios, obra pública, adquisiciones y arrendamientos contraídos por el Estado y, en su caso, por los Municipios cuyas obligaciones tengan una vigencia plurianual. Estos contratos plurianuales deben ser presentados al Congreso del Estado para su autorización; y
 
 > <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2008)</small>
 
@@ -1007,7 +1007,7 @@ VII.- Convocar a elecciones extraordinarias de Ayuntamientos conforme a la ley r
 
 VIII.- Las que le imponga esta Constitución y las demás disposiciones legales.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 9 DE OCTUBRE DE 2002)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE OCTUBRE DE 2002)</small>
 
 ### CAPITULO I. DEL GOBERNADOR DEL ESTADO
 
@@ -1071,21 +1071,29 @@ Durante el ejercicio de su encargo no podrá formar parte de ningún partido pol
 
 Podrá ser sujeto de juicio político y en su caso, removido, exclusivamente, por las causas graves que la ley señale, con la misma votación requerida para su nombramiento, o por las causas y conforme a los procedimientos previstos en el Título Séptimo de esta Constitución.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE FEBRERO DE 2011)</small>
 
-###### ARTICULO 41.
+###### Artículo 41.
 
-Las cuentas públicas de los tres Poderes del Estado y de los Municipios, deberán ser entregadas, por éstos, al Congreso del Estado a más tardar el 31 de marzo del año siguiente. Así mismo, el Órgano Superior de Fiscalización del Estado deberá concluir la glosa y fiscalización y entregar los informes técnicos y financieros, al Congreso del Estado, a más tardar el primero de agosto del año siguiente de que se trate. El incumplimiento de este precepto imputable a los servidores públicos del citado órgano, es causa de responsabilidad en los términos de las leyes aplicables.
+Los tres Poderes del Estado, los órganos autónomos constitucionales y los Municipios, deberán entregar sus cuentas públicas al Congreso del Estado a través del Órgano Superior de Fiscalización, a más tardar el 31 de marzo del año siguiente, para su examen y calificación. La Cuenta Pública deberá contener los estados y la información financiera con los criterios que rigen la contabilidad pública debidamente armonizada, de acuerdo a lo establecido en las disposiciones legales, reglamentarias y administrativas aplicables.
 
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2002)</small>
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2011)</small>
 
-Sin perjuicio de lo dispuesto en el párrafo anterior, el Congreso del Estado por conducto del Órgano Superior de Fiscalización del Estado en el ejercicio de sus facultades y obligaciones, realizará evaluaciones que comprendan períodos trimestrales del ejercicio fiscal de que se trate, las cuales tendrán carácter de provisional y podrán iniciarse a partir del mes subsecuente al que procediere la evaluación correspondiente, con apoyo en los informes de autoevaluación que remitan dentro del término de treinta días las entidades ejecutoras del gasto. En el desarrollo de tal actividad, habrán de realizarse la revisión, fiscalización y auditoría del gasto público ejercido a dicha fecha. Cuando así lo requiera, el órgano técnico, podrá auxiliarse para el ejercicio de sus atribuciones, de despachos o profesionistas especializados en las diversas tareas de fiscalización que le competen.
+Conforme a la ley de la materia, el Órgano podrá solicitar la documentación soporte de las acciones que consideren pertinentes durante el período de fiscalización. Una vez calificada la cuenta pública y de no existir mandato en contrario, será devuelta oportunamente la documentación remitida, para su debida guarda y custodia.
+
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2011)</small>
+
+Así mismo, el Órgano deberá concluir la fiscalización y entregar el informe de resultados, al Congreso del Estado, a más tardar el primero de agosto del año siguiente de que se trate. El incumplimiento de este precepto imputable a los servidores públicos del citado órgano, es causa de responsabilidad en los términos de las leyes aplicables.
+
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2011)</small>
+
+Sin perjuicio de lo dispuesto en el párrafo primero, el Congreso del Estado, por conducto del Órgano Superior de Fiscalización del Estado en el ejercicio de sus facultades y obligaciones, realizará evaluaciones que comprendan períodos trimestrales del ejercicio fiscal de que se trate, las cuales tendrán carácter de provisional y podrán iniciarse a partir del mes subsecuente al que procediere la evaluación correspondiente, con apoyo en los informes de autoevaluación que remitan dentro del término de treinta días las entidades ejecutoras del gasto. En el desarrollo de tal actividad, habrán de realizarse la revisión, fiscalización y auditoría del gasto público ejercido a dicha fecha. Cuando así lo requiera, el órgano técnico, podrá auxiliarse para el ejercicio de sus atribuciones, de despachos o profesionistas especializados en las diversas tareas de fiscalización que le competen.
 
 > <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2002)</small>
 
 De la evaluación que practique el Órgano Superior de Fiscalización del Estado en forma trimestral, deberá hacer las observaciones para que se realicen las solventaciones correspondientes. De encontrarse irregularidades que ameriten la intervención del Congreso del Estado, dicho órgano técnico lo hará del conocimiento de éste, sin necesidad de esperar el examen y calificación anual; satisfaciéndose las formalidades legales se emitirá la resolución que en derecho procediere.
 
-> <small>(REFORMADO, P.O. 25 DE JULIO DE 2001)</small>
+> <small>(ADICIONADO, P.O. 25 DE JULIO DE 2001)</small>
 
 En los términos de la Ley de Responsabilidades de los Servidores Públicos, y con respecto a los informes que mensualmente, y con carácter obligatorio rinden las entidades sujetas a cuenta pública; los respectivos órganos internos de control o de vigilancia, según se trate, en cada nivel de gobierno, estarán obligados a remitir la información necesaria sobre el contenido de los mismos, proporcionando en igual término los pormenores de las acciones de control, evaluación y en su caso de autoevaluación que al efecto se hubieren realizado.
 
@@ -1217,9 +1225,9 @@ V.- Solicitar a la Comisión Permanente que convoque a sesiones extraordinarias;
 
 VI.- Facilitar al Poder Judicial los auxilios que necesite, para hacer expedito el ejercicio de sus funciones;
 
-> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2002)</small>
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2011)</small>
 
-VII. Mensualmente: Publicar los cortes de cajas de las oficinas recaudadoras del Estado y remitir al Órgano Superior de Fiscalización del Estado dentro del mes siguiente respectivo, los informes que contengan el avance financiero y presupuestal. Asimismo, enviar anualmente a dicho Órgano, a más tardar el 31 de marzo del año siguiente, la cuenta pública debidamente comprobada y con la información suficiente en los términos de la ley aplicable, para su examen y calificación anual. El Órgano Superior de Fiscalización del Estado, podrá solicitar la documentación soporte de las acciones que consideren pertinentes durante el período de glosa, una vez calificada la cuenta y de no existir mandato en contrario, será devuelta oportunamente la documentación remitida, para su debida guarda y custodia;
+VII.- Mensualmente: Publicar los cortes de cajas de las oficinas recaudadoras del Estado; asimismo remitir al H. Congreso del Estado, a través del Órgano Superior de Fiscalización, dentro del mes siguiente respectivo, los informes que contengan el avance financiero y presupuestal. Así como entregar a dicho órgano, a más tardar el 31 de marzo del año siguiente, la Cuenta Pública, en los términos del artículo 41 de esta Constitución.
 
 VIII.- Otorgar los títulos profesionales conforme a las leyes que regulen los estudios correspondientes;
 
@@ -1265,7 +1273,7 @@ XX.- Las demás que le confiera esta Constitución y la Federal.
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 52.
 
@@ -1313,7 +1321,7 @@ Los titulares de las Dependencias son responsables por el despacho de los asunto
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2008)</small>
 
 ###### ARTICULO 55.
 
@@ -1459,7 +1467,7 @@ Los Magistrados del Tribunal Superior de Justicia, los Consejeros de la Judicatu
 
 Las personas que hayan ocupado el cargo de Magistrado Numerario o Consejero de la Judicatura, no podrán, dentro del año siguiente a la fecha de su conclusión, actuar como patronos, abogados o representantes en cualquier proceso ante los órganos del Poder Judicial del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 63 Bis.
 
@@ -1557,7 +1565,7 @@ La remuneración que perciban los Magistrados del Tribunal Superior de Justicia,
 
 Los Magistrados y Jueces que integran el Poder Judicial del Estado, durarán ocho y cinco años, respectivamente, en el ejercicio de su encargo, al término de los cuales, si fueran ratificados o promovidos los segundos a cargos superiores, solo podrán ser privados de sus puestos en los casos y conforme a los procedimientos que establezca esta Constitución y las leyes secundarias aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE NOVIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE NOVIEMBRE DE 2002)</small>
 
 ## TITULO VII. RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS Y PATRIMONIAL DEL ESTADO
 
@@ -1579,7 +1587,7 @@ Los Magistrados y Jueces que integran el Poder Judicial del Estado, durarán och
 
 El Estado tiene como base de su división territorial y de su organización política administrativa el Municipio Libre, conforme a las siguientes bases:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2008)</small>
 
 I.- Cada Municipio será gobernado por un Ayuntamiento de elección popular directa, integrado por un Presidente Municipal y el número de regidores que la ley determine. El número de Síndicos se determinará en razón directa de la población del Municipio que represente, aquellos municipios con más de cien mil habitantes contarán con dos síndicos. Todos serán, electos mediante sufragio universal, libre, secreto, directo, personal e intransferible o bajo el principio de representación proporcional, y en su caso, por quienes los sustituyan en términos de esta Constitución. La competencia que la Constitución General de la República y la Constitución local, otorgan al gobierno municipal se ejercerá por el Ayuntamiento de manera exclusiva y no habrá autoridad intermedia alguna entre ésta y el Gobierno del Estado.
 
@@ -1609,7 +1617,7 @@ IX.- En los diversos Centros de Población del Municipio, excepto la Cabecera Mu
 
 X.- El Ayuntamiento deberá sesionar publicamente cuando menos una vez al mes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2008)</small>
 
 XI.- Para ser Regidor se requiere:
 
@@ -1711,13 +1719,13 @@ c) Los ingresos derivados de la prestación de servicios públicos a su cargo.
 
 Las leyes locales no establecerán exenciones o subsidios respecto de las mencionadas contribuciones en favor de personas físicas o jurídicas colectivas, ni de instituciones oficiales o privadas, sólo los bienes del dominio público de la Federación, de los Estados o los Municipios estarán exentos de dicha contribución, salvo que tales bienes sean utilizados por las entidades paraestatales o por particulares, bajo cualquier título, para fines administrativos o propósitos distintos a los de su objeto público.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE JULIO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JULIO DE 2001)</small>
 
 VI.- El Congreso del Estado, aprobará las Leyes de Ingresos de los municipios; así mismo, revisara y fiscalizará sus cuentas públicas, en relación a los planes municipales y a sus programas operativos anuales.
 
-> <small>(REFORMADO, P.O. 31 DE MARZO DE 2010)</small>
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2011)</small>
 
-Los Presupuestos de Egresos aprobados por los Ayuntamientos, sobre la base de sus ingresos disponibles, deberán incluir los tabuladores desglosados de las remuneraciones que perciban los servidores públicos municipales, sujetándose a lo dispuesto en los artículos 127 de la Constitución Política de los Estados Unidos Mexicanos y 75 de esta Constitución. Asimismo deberán considerar partidas para que se ejecuten las acciones señaladas en el apartado B del artículo 2 de la Constitución Política de los Estados Unidos Mexicanos.
+Los Presupuestos de Egresos aprobados por los Ayuntamientos, sobre la base de sus ingresos estimados, deberán incluir los tabuladores desglosados de las remuneraciones que perciban los servidores públicos municipales, sujetándose a lo dispuesto en los artículos 127 de la Constitución Política de los Estados Unidos Mexicanos y 75 de esta Constitución. Asimismo deberán considerar partidas para que se ejecuten las acciones señaladas en el apartado B del artículo 2 de la Constitución Política de los Estados Unidos Mexicanos. Dichos presupuestos deberán ser publicados en el Periódico Oficial del Estado.
 
 > <small>(REFORMADO, P.O. 25 DE JULIO DE 2001)</small>
 
@@ -1727,9 +1735,9 @@ Para la aprobación de la Ley de Ingresos de los Ayuntamientos, éstos enviarán
 
 Cada Ayuntamiento deberá prever las partidas presupuéstales necesarias para solventar las obligaciones contraídas en ejercicios anteriores y pagaderas en dicho ejercicio, que constituyan deuda pública del Ayuntamiento o de las entidades paramunicipales y que cuenten con la garantía del Ayuntamiento o del Estado, conforme a lo autorizado por las leyes y los decretos correspondientes, así como aquellas que se requieran para cubrir los compromisos derivados de contratos de proyectos para prestación de servicios aprobados por el Ayuntamiento conforme a las leyes aplicables.
 
-> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 17 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2011)</small>
 
-La cuenta pública de los Ayuntamientos o Concejos Municipales, se analizará, fiscalizará y calificará anualmente por el Congreso del Estado; para tal efecto aquellos, enviarán mensualmente al Órgano Superior de Fiscalización del Estado, dentro de los quince días del mes siguiente que corresponda, la cuenta comprobada y debidamente documentada del mes anterior, con los informes técnicos financieros que acrediten las erogaciones y el avance de las metas físicas de sus proyectos. Así mismo, y a más tardar el 31 de marzo del año siguiente, en complemento a la cuenta pública comprobada del último mes del período, deberán remitir la evaluación de su programa operativo anual, en relación a las metas que se establecieron por el año que corresponda y el avance su Plan Municipal de Desarrollo, para su inclusión correspondiente.
+La cuenta pública de los Ayuntamientos o Concejos Municipales, se analizará, fiscalizará y calificará anualmente por el Congreso del Estado, para tal efecto, aquellos, entregarán a éste mensualmente a través del Órgano Superior de Fiscalización del Estado, dentro del mes siguiente respectivo, los informes que contengan el avance financiero y presupuestal. Asimismo, para su examen y calificación, entregar la Cuenta Pública, a más tardar el 31 de marzo del año siguiente al que corresponda, en los términos del artículo 41 de esta Constitución.
 
 > <small>(REFORMADO [N. DE E. REUBICADO], P.O. 17 DE FEBRERO DE 2007)</small>
 
@@ -1773,7 +1781,7 @@ IX.- Convocar en los términos establecidos por esta Constitución y las leyes r
 
 En lo conducente y de conformidad con los fines señalados en el párrafo tercero del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, expedirán los reglamentos y disposiciones administrativas que fueren necesarios.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 15 DE NOVIEMBRE DE 2003)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE NOVIEMBRE DE 2003)</small>
 
 ## TITULO IX. DE LAS REFORMAS Y DE LA INVIOLABILIDAD DE LA CONSTITUCION
 
@@ -1815,7 +1823,7 @@ Las Leyes determinarán los casos y las circunstancias en los que se deba sancio
 
 Cualquier ciudadano, bajo su más estricta responsabilidad y mediante la presentación de elementos de pruebas, podrán formular denuncia ante la Cámara de Diputados del Estado, respecto de las conductas a las que se refiere el presente artículo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 68.
 
@@ -2145,7 +2153,7 @@ El Srio. Gral.,
 
 J.D. Ramírez Garrido.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA A LA PRESENTE CONSTITUCION.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA A LA PRESENTE CONSTITUCIÓN.</small>
 
 P.O. 25 DE MAYO DE 1921.
 
@@ -2171,7 +2179,7 @@ Artículo Unico.- Este Decreto surte sus efectos legales al verificarse las elec
 
 P.O. 28 DE NOVIEMBRE DE 1928.
 
-###### Artículo UNICO.
+###### ARTICULO UNICO.
 
 Este Decreto surte sus efectos legales desde la fecha de su promulgación, que se hará por Bando Solemne en todo el Estado.
 
@@ -2419,13 +2427,13 @@ CUARTO.- Estas reformas han sido aprobadas, en los términos del Artículo 83 de
 
 P.O. 30 DE NOVIEMBRE DE 1983.
 
-DECRETO NUMERO 0122.
+DECRETO NÚMERO 0122.
 
 UNICO.- Esta Adición ha sido aprobada en los términos del artículo 83 de la Constitución Política Local y entra en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 30 DE NOVIEMBRE DE 1983.
 
-DECRETO NUMERO 0123.
+DECRETO NÚMERO 0123.
 
 UNICO.- Esta reforma ha sido aprobada en los términos del artículo 83 de la Constitución Política Local, y entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
@@ -2843,7 +2851,7 @@ Artículo Segundo.- De conformidad con lo establecido en el artículo 83 de la C
 
 P.O. 18 DE DICIEMBRE DE 2010.
 
-DECRETO NUMERO 045, POR EL QUE SE REFORMA EL ARTICULO 10 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DEL ESTADO DE TABASCO.
+DECRETO NÚMERO 045, POR EL QUE SE REFORMA EL ARTÍCULO 10 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DEL ESTADO DE TABASCO.
 
 PRIMERO.- El correspondiente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
@@ -2851,7 +2859,7 @@ SEGUNDO.- De conformidad con lo establecido en el artículo 83 de la Constituci�
 
 P.O. 18 DE DICIEMBRE DE 2010.
 
-DECRETO NUMERO 046, POR EL QUE SE ADICIONA UN PARRAFO SEPTIMO AL ARTICULO 4 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO.
+DECRETO NÚMERO 046, POR EL QUE SE ADICIONA UN PÁRRAFO SÉPTIMO AL ARTÍCULO 4 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO.
 
 PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
 
@@ -2860,3 +2868,17 @@ SEGUNDO.- La Secretaría de Salud tendrá un término de sesenta días, a partir
 TERCERO.- Se derogan todas la disposiciones que se opongan al presente Decreto.
 
 CUARTO.- De conformidad con lo establecido en el artículo 83 de la Constitución Política del Estado Libre y Soberano de Tabasco, las presentes reformas fueron aprobadas por los 17 Ayuntamientos de la entidad.
+
+P.O. 12 DE FEBRERO DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+La presentación armonizada de la información en la cuenta pública, en los términos, que se indican en el presente Decreto, se deberán llevar a cabo en los plazos y términos que disponen la Ley General de Contabilidad Gubernamental y demás disposiciones aplicables. En tanto no se actualicen los términos previstos en aquella ley y las disposiciones vinculadas a su cumplimiento, la presentación de la cuenta pública por parte de los entes fiscalizables, se seguirá realizando como hasta ahora, en términos de las disposiciones locales vigentes.
+
+SEGUNDO.- El Poder Ejecutivo, por conducto de la Secretaría de Administración y Finanzas, coordinará los trabajos jurídico-administrativos necesarios, con los entes públicos, para que el sistema de contabilidad gubernamental estatal se armonice en las condiciones requeridas por la Ley General de Contabilidad Gubernamental.
+
+TERCERO.- De conformidad con lo establecido en el artículo 83 de la Constitución Política del Estado Libre y Soberano de Tabasco, las presentes reformas fueron aprobadas por los 17 Ayuntamientos de la entidad.
+
+CUARTO.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+QUINTO.- Expídanse las reformas y adiciones a las leyes secundarias que así lo requieran para hacerlas acordes a las disposiciones contenidas en el presente Decreto.
