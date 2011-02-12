@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-ejecutivo-del-estado-de-chihuahua-22997"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-10-01"
-last_updated: "2010-10-02"
+last_updated: "2011-02-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22997&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE OCTUBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE FEBRERO DE 2011.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 1 de octubre de 1986.
 
@@ -199,7 +199,7 @@ El procedimiento descrito en las fracciones anteriores, se realizará cada vez q
 
 Durante el tiempo que dure el procedimiento de nombramiento del Fiscal General del Estado, el Gobernador del Estado designará libre y directamente a quien deba encargarse del despacho de la Fiscalía General.
 
-El Fiscal General es el Abogado del Estado, en los términos que determine la ley.
+> <small>(DEROGADO QUINTO PARRAFO, P.O. 12 DE FEBRERO DE 2011)</small>
 
 ###### ARTICULO 14.
 
@@ -453,7 +453,9 @@ III. Ejercer las funciones de ingresos; control presupuestal; planeación, opera
 
 IV. Impulsar y operar el modelo de Gestión para Resultados en la administración pública estatal, de conformidad con las leyes y ordenamientos legales aplicables;
 
-V. Representar al Estado, salvo disposición expresa del Gobernador, en procedimientos, juicios y controversias fiscales, laborales y administrativas, así como en todos los relacionados con las materias de su competencia;
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2011)</small>
+
+V. Representar al Estado, salvo disposición expresa del Gobernador, en los procedimientos jurisdiccionales relacionados con las materias de su competencia;
 
 VI. Intervenir, en representación del Estado, en los diversos órganos, reuniones y actividades de coordinación fiscal y colaboración administrativa en la materia de su competencia;
 
@@ -1031,7 +1033,9 @@ XIV.- (DEROGADA, P.O. 24 DE DICIEMBRE DE 2003)
 
 XV.- (DEROGADA, P.O. 24 DE DICIEMBRE DE 2003)
 
-XVI.- Representar, salvo disposición expresa del Gobernador, ante toda clase de autoridades, por sí o por conducto de apoderado, a la administración pública estatal, en aquellos casos en que puedan ser afectados los intereses del Estado y formular denuncias, querellas o demandas y otorgar perdón, así como ejercitar y desistirse de acciones judiciales inclusive del juicio de amparo, pudiendo, en su caso, conferir y revocar poderes generales y especiales, respecto de las responsabilidades penales o de carácter civil en que incurran los servidores de la administración pública;
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2011)</small>
+
+XVI.- En representación del Estado, salvo disposición expresa del Gobernador, formular denuncias, querellas o demandas y otorgar perdón, así como ejercitar y desistirse de acciones judiciales, pudiendo conferir y revocar poderes generales y especiales, respecto de las responsabilidades penales o de carácter civil en que incurran los servidores de la administración pública;
 
 > <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2003)</small>
 
@@ -1165,7 +1169,9 @@ ARTICULO 35 BIS.- (DEROGADO, P.O. 25 DE SEPTIEMBRE DE 2010)
 
 Además de las dependencias a que se refiere el artículo 24 de esta Ley, el Ejecutivo del Estado, para el mejor despacho de los asuntos del orden administrativo, contará con la Coordinación de Comunicación Social, la Coordinación de Relaciones Públicas y la Consejería Jurídica.
 
-Para el cumplimiento de sus funciones, y salvo disposición en contrario de la ley, el titular de la Consejería Jurídica tendrá las facultades de representación legal del Titular (sic) Poder Ejecutivo más amplias y necesarias para el desahogo de todo tipo de litigios, ante cualquier autoridad federal, estatal o municipal, así como para las acciones y controversias constitucionales en las que el Estado sea parte. Estas facultades podrán ser delegadas.
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2011)</small>
+
+Para el cumplimiento de sus funciones, y salvo disposición en contrario de la ley, el titular de la Consejería Jurídica será el Abogado del Estado y tendrá las facultades de representación legal del Titular del Poder Ejecutivo más amplias y necesarias para el desahogo de todo tipo de litigios, ante cualquier autoridad federal, estatal o municipal, así como para las acciones y controversias constitucionales en las que el Estado sea parte. Estas facultades podrán ser delegadas.
 
 Así mismo será la encargada de todos los aspectos propios de su naturaleza relacionados con la asesoría jurídica al Gobernador, y los demás asuntos que le encomiende directamente.
 
@@ -1891,8 +1897,18 @@ El Ejecutivo del Estado, en coordinación con la Legislatura Estatal, incorporar
 
 Se transfieren a la Secretaría de la Contraloría los archivos magnéticos conteniendo documentación, manuales de procedimientos, manuales de organización, código fuente de los programas que conforman los sistemas desarrollados por la Coordinación de Desarrollo Administrativo y Modernización que dependía de la Secretaría de Finanzas y Administración, así como los archivos de configuración de equipo de comunicaciones, telefonía, de servidores de aplicaciones y de base de datos y documentos en general que tenía asignados a su servicio, manejo y resguardo dicha unidad administrativa.
 
-P.O. 2 DE OCTUBRE DE 2010.
+P.O. 2 DE OCTUBRE DE 2010
 
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día cinco de octubre de dos mil diez, previa su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE FEBRERO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo del Estado expedirá el reglamento interior de la Consejería Jurídica a que se refiere este Decreto, en un plazo pertinente, acorde a las necesidades propias de su funcionamiento.
