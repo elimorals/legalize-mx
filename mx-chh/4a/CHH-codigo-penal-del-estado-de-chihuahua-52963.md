@@ -4,7 +4,7 @@ identifier: "CHH-codigo-penal-del-estado-de-chihuahua-52963"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-12-27"
-last_updated: "2010-10-23"
+last_updated: "2011-02-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO PENAL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE OCTUBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE FEBRERO DE 2011.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 27 de diciembre de 2006.
 
@@ -449,21 +449,27 @@ En toda pena de prisión que se imponga en una sentencia, se computará el tiemp
 
 Si se trata de dos o más penas de prisión impuestas en sentencias diferentes, aquéllas se cumplirán invariablemente de manera sucesiva, sin que la suma de ellas sea mayor de setenta años.
 
-> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2010)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
 
-Tratándose del delito de homicidio doloso en perjuicio de mujeres o menores de edad o del delito de secuestro, deberá imponerse pena por cada delito cometido, aun y cuando con ello se exceda el máximo de la pena de prisión temporal.
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2011)</small>
+
+Tratándose del delito de homicidio doloso en perjuicio de mujeres o menores de edad, deberá imponerse pena por cada delito cometido, aun y cuando con ello se exceda el máximo de la pena de prisión temporal.
 
 > <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2010)</small>
 
 Cuando varios delitos dolosos sean cometidos por miembros de corporaciones policíacas, autoridades ministeriales, judiciales o de ejecución de penas y medidas judiciales, en cualquier grado de participación, deberá imponérseles la pena que corresponda para cada uno de ellos, pudiendo aumentarse a la suma total de la pena impuesta, de una a dos terceras partes de aquélla, aun cuando con ello se exceda el máximo de la pena de prisión temporal.
 
-> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2010)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
 
-En la hipótesis prevista en el párrafo anterior, la penalidad siempre se aumentará de una a dos terceras partes a la suma total de la pena impuesta, si entre los delitos cometidos se encuentra el Homicidio, Secuestro, Extorsión, Robo, Amenazas o Daños, en los supuestos del artículo 237.
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 211)</small>
 
-> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2010)</small>
+En la hipótesis prevista en el párrafo anterior, la penalidad siempre se aumentará de una a dos terceras partes a la suma total de la pena impuesta, si entre los delitos cometidos se encuentra el Homicidio, Extorsión, Robo, Amenazas o Daños, en los supuestos del artículo 237.
 
-Lo dispuesto en el párrafo quinto del presente artículo, será aplicable a los ex integrantes de las instituciones o corporaciones citadas, cuando empleen cualquier tipo de conocimiento, habilidad o información que hubiesen adquirido u obtenido durante el ejercicio del cargo anterior, siempre y cuando, dentro de los delitos dolosos se encuentre el Homicidio, Secuestro, Extorsión, Robo, Amenazas o Daños, en los supuestos del artículo 237.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2011)</small>
+
+Lo dispuesto en el párrafo quinto del presente artículo, será aplicable a los ex integrantes de las instituciones o corporaciones citadas, cuando empleen cualquier tipo de conocimiento, habilidad o información que hubiesen adquirido u obtenido durante el ejercicio del cargo anterior, siempre y cuando, dentro de los delitos dolosos se encuentre el Homicidio, Extorsión, Robo, Amenazas o Daños, en los supuestos del artículo 237.
 
 ### CAPÍTULO III. RELEGACIÓN
 
@@ -651,11 +657,11 @@ IV. El Estado y los Municipios responderán solidariamente por los delitos que c
 
 Queda a salvo el derecho del Estado y los Municipios para ejercitar las acciones correspondientes contra el servidor público responsable.
 
-> <small>(REFORMADO, P.O. 30 DE ENERO DE 2010)</small>
-
 ###### Artículo 48.
 
 Supletoriedad de la Ley Federal del Trabajo
+
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2010)</small>
 
 Si se trata de delitos que afecten la vida o la integridad corporal, para fijar el monto del daño causado, se tendrá como base el salario que percibía la víctima, además de las pruebas específicas, la tabulación de indemnizaciones que fija la Ley Federal del Trabajo. De no comprobarse su monto, conforme al salario mínimo general existente en la región, esta disposición se aplicará aun cuando el sujeto pasivo fuere menor de edad o incapacitado.
 
@@ -1117,7 +1123,11 @@ En caso de que cometa nuevo delito doloso después de concedido el beneficio, se
 
 Artículo 91 bis. Restricciones a los beneficios.
 
-El reo que haya sido sentenciado por el delito de robo de vehículos automotores con violencia sobre las personas, secuestro, secuestro exprés, extorsión, violación, homicidio doloso, de acuerdo a este Código, no le será aplicable ninguno de los siguientes beneficios:
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE FEBRERO DE 2011)</small>
+
+El reo que haya sido sentenciado por el delito de robo de vehículos automotores con violencia sobre las personas, extorsión, violación u homicidio doloso, de acuerdo a este Código, no le serán aplicables ninguno de los siguientes beneficios:
 
 I. Modalidad de la pena de prisión, tales como.
 
@@ -1301,9 +1311,11 @@ Efectos y características de la prescripción
 
 La prescripción es personal y extingue la pretensión punitiva y la potestad de ejecutar las penas y las medidas de seguridad, y para ello bastará el transcurso del tiempo señalado por la ley.
 
-> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2010)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
 
-Los delitos de secuestro; secuestro exprés; extorsión; desaparición forzada de personas; tráfico de influencias, previsto en el artículo 265; cohecho, en el supuesto que prevé el artículo 269, fracción II; peculado, en la hipótesis señalada en el artículo 270, fracción II; concusión, de acuerdo con el artículo 271, fracción II; homicidio calificado; tortura y, enriquecimiento ilícito, de acuerdo con el numeral 272, son imprescriptibles.
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2011)</small>
+
+Los delitos de extorsión; desaparición forzada de personas; tráfico de influencias, previsto en el artículo 265; cohecho, en el supuesto que prevé el artículo 269, fracción II; peculado, en la hipótesis señalada en el artículo 270, fracción II; concusión, de acuerdo con el artículo 271, fracción II; homicidio calificado; tortura y, enriquecimiento ilícito, de acuerdo con el numeral 272, son imprescriptibles.
 
 ###### Artículo 106.
 
@@ -1771,9 +1783,9 @@ Si el agente espontáneamente libera a la víctima dentro de los tres días sigu
 
 La pena de prisión se aumentará en una mitad, cuando la privación de la libertad se realice con violencia, la víctima sea menor de edad o mayor de sesenta años o, por cualquier circunstancia, la víctima esté en situación de vulnerabilidad física o mental respecto del agente.
 
-### CAPÍTULO III. SECUESTRO
+### CAPÍTULO III
 
-> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2010)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
 
 ###### Artículo 159.
 
@@ -1783,69 +1795,41 @@ Si dentro de las veinticuatro horas siguientes, el autor del delito restituye la
 
 Este delito se perseguirá previa querella.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 12 DE FEBRERO DE 2011)</small>
+
 ### CAPÍTULO IV. DESAPARICIÓN FORZADA DE PERSONAS
 
 ###### Artículo 160.
 
-A quien prive de la libertad a otro con el propósito de obtener rescate, información que la víctima o una persona relacionada con ella pueda tener, en razón del empleo o actividad que desempeñe, o algún beneficio económico; así como causar daño o perjuicio a la persona privada de la libertad o a cualquiera otra, para que ésta, un tercero o una autoridad, realice o deje de realizar cualquier acto, se le impondrán de cuarenta a setenta años de prisión y de tres mil a cinco mil días multa.
+(DEROGADO, P.O. 12 DE FEBRERO DE 2011)
 
-> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2010)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
 
-Artículo 160 bis.
+Artículo 160 bis. (DEROGADO, P.O. 12 DE FEBRERO DE 2011)
 
-Comete el delito de secuestro exprés, el que, para ejecutar los delitos de robo o extorsión, prive de la libertad a otro. La pena será de treinta a cincuenta años de prisión y multa de cuatro mil a seis mil salarios mínimos. Lo anterior, con independencia de las demás sanciones que conforme a este Código le correspondan por otros delitos que de su conducta resulten, aun y cuando con ello se rebase la pena máxima señalada en el artículo 32.
-
-> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2010)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
 
 ###### Artículo 161.
 
-Se aplicará prisión vitalicia para el delito de secuestro, cuando se dé cualquiera de las siguientes circunstancias:
-
-I. Se realice en un lugar desprotegido o solitario;
-
-II. Que se realice con violencia;
-
-III. Se torture, se viole, se prive de la vida o muera la víctima a consecuencia de la impresión del ilícito o por omisión de cuidados;
-
-IV. Que se realice con la intervención de dos o más personas;
-
-V. Que la víctima sea una persona menor de dieciocho o mayor de setenta años de edad, o que por cualquier otra circunstancia esté en situación de discapacidad física, mental o sensorial;
-
-VI. Que el sujeto activo utilice para delinquir a una o más personas menores de edad o que no tengan la capacidad para comprender el significado del hecho;
-
-VII. Que se cause un daño o alteración a la salud de la víctima conforme a lo previsto en el artículo 129 de este Código;
-
-VIII. Que para privar de su libertad a una persona se allane el bien inmueble en que ésta se encuentra;
-
-IX. El sujeto activo del delito sea o haya sido, o se ostente sin serlo, integrante de alguna institución policial o servidor público en alguna de las áreas de prevención o persecución de delitos, administración de justicia o reinserción social; así mismo, cuando porte vestimentas o instrumentos de identificación, de los utilizados por integrantes de instituciones de seguridad pública; o tenga alguna relación de confianza, laboral, de parentesco o de negocios con la víctima o con sus familiares; o
-
-X. Que la víctima sea una mujer.
+(DEROGADO, P.O. 12 DE FEBRERO DE 2011)
 
 ###### Artículo 162.
 
-(DEROGADO, P.O. 23 DE OCTUBRE DE 2010)
+(DEROGADO, P.O. 23 DE OCTUBRE DE 2010) (REPUBLICADO, P.O. 12 DE FEBRERO DE 2011)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
 
 ###### Artículo 163.
 
-Se impondrá de uno a ocho años de prisión y de doscientos a mil días multa, a quien en relación con las conductas sancionadas en este capítulo y fuera de las causas de exclusión del delito previstas por la ley:
+(DEROGADO, P.O. 12 DE FEBRERO DE 2011)
 
-I. Actúe como asesor o intermediario en las negociaciones del rescate, con fines lucrativos o sin el consentimiento de quienes representen o gestionen a favor de la víctima;
-
-II. Colabore en la difusión pública de las pretensiones o mensajes de los secuestradores, fuera del estricto derecho a la información;
-
-III. Aconseje el no presentar la denuncia del secuestro cometido, o bien el no colaborar o el obstruir la actuación de las autoridades; o
-
-IV. Intimide a la víctima, a sus familiares o a sus representantes, durante o después del secuestro, para que no colaboren con las autoridades competentes.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
 
 ###### Artículo 164.
 
-A quien simule encontrarse privado de su libertad con amenaza de su vida o daño a su persona, con el propósito de obtener rescate o con la intención de que la autoridad o un particular realice o deje de realizar un acto cualquiera, se le impondrán de dos a ocho años de prisión y de cien a quinientos días multa.
-
-Las mismas penas se impondrán a cualquiera que intervenga en la comisión de este delito.
-
-> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2010)</small>
-
-Este delito se perseguirá de oficio, aun cuando sea cometido por un ascendiente, descendiente, cónyuge, parientes por consanguinidad hasta el segundo grado, concubina, concubinario, pareja permanente, adoptante o adoptado y parientes por afinidad hasta el segundo grado.
+(DEROGADO, P.O. 12 DE FEBRERO DE 2011)
 
 ### CAPÍTULO V. TRÁFICO DE MENORES
 
@@ -3673,6 +3657,8 @@ Las disposiciones relativas a la ejecución de penas y medidas de seguridad resp
 
 El Pleno del Supremo Tribunal de Justicia acordará, mediante disposiciones generales que establezcan un modelo de distribución de competencias, el ejercicio de las facultades más trascendentes por parte de los jueces de ejecución de penas de otros distritos. Esta facultad la ejercerá el Pleno desde la entrada en vigor del presente decreto, hasta que el nuevo sistema de justicia penal se encuentre en vigor en todo el territorio estatal.
 
+.
+
 DADO en el Salón de Sesiones del Poder Legislativo, en la ciudad de Chihuahua, Chih., a los treinta días del mes de noviembre del año dos mil seis.
 
 PRESIDENTE. DIP. JESÚS HEBERTO VILLALOBOS MÁYNEZ. SECRETARIO. DIP. ALEJANDRO GUERRERO MUÑOZ. SECRETARIO. DIP. SERGIO VÁZQUEZ OLIVAS.
@@ -3834,3 +3820,17 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 La modificación, derogación o reubicación de cualquier tipo penal a que se refiere este Decreto, no implicará la libertad de los responsables por los delitos cometidos con anterioridad a su vigencia, siempre que los hechos se sigan comprendiendo en los tipos modificados o creados.
+
+P.O. 12 DE FEBRERO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el mismo día en que lo haga la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del Artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, previa publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los procedimientos penales iniciados antes de la entrada en vigor del presente Decreto, en materia de delitos previstos en el mismo, se seguirán tramitando hasta su conclusión conforme a las disposiciones vigentes al momento de la comisión de los hechos que les dieron origen. Lo mismo se observará respecto de la ejecución de las penas correspondientes.
+
+###### ARTÍCULO TERCERO.
+
+Las disposiciones relativas a los delitos de secuestro previstas en el Código Penal del Estado hasta la entrada en vigor del presente Decreto, seguirán aplicándose por los hechos realizados durante su vigencia. Así mismo, dichos preceptos seguirán aplicándose a las personas procesadas o sentenciadas por los delitos previstos y sancionados por los mismos artículos.
