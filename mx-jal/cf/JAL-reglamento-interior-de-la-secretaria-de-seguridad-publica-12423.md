@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-interior-de-la-secretaria-de-seguridad-publica-12423
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-08-13"
-last_updated: "2007-07-07"
+last_updated: "2011-02-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12423&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE SEGURIDAD PUBLICA, PREVENCION Y READAPTACION SOCIAL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JULIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE FEBRERO DE 2011.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Jalisco, el jueves 13 de agosto de 1998.
 
@@ -65,11 +65,15 @@ Para el estudio, planeación y despacho de las atribuciones que le competen, la 
 
 I.- Secretaría del Ramo;
 
-II.- Dirección General de Seguridad Pública;
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2011)</small>
+
+II.- Comisaría General de Seguridad Pública;
 
 III.- Dirección General de Estadística y Política Criminal;
 
-IV.- Dirección General de Prevención y Readaptación Social;
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2011)</small>
+
+IV.- Comisaría General de Prevención y Reinserción Social;
 
 V.- Dirección General del Sistema Postpenitenciario y Atención a Liberados;
 
@@ -173,13 +177,17 @@ XXXI.- Establecer programas y acciones en coordinación con organismos públicos
 
 XXXII.- Designar como titular e integrantes de la Unidad de Transparencia de la Secretaría, a servidores públicos actualmente adscritos a aquélla;
 
-> <small>(REFORMADA, P.O. 7 DE JULIO DE 2007)</small>
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2011)</small>
 
-XXXIII.- Presidir el Comité de Clasificación de Información Pública de la Secretaría y designar al servidor público que lo supla en sus ausencias; y
+XXXIII.- Presidir el Comité de Gasificación de Información Pública de la Secretaría;
 
-> <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 2005)</small>
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2011)</small>
 
-XXXIV.- Las demás que le confieran las disposiciones aplicables y las que le confiera el Gobernador del Estado.
+XXXIV.- Certificar copias de los documentos y constancias existentes en los archivos de la Secretaría, siempre que obren en original o copia certificada, sin perjuicio de que esta función pueda ser realizada independientemente por el Director General Jurídico; y
+
+> <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2011)</small>
+
+XXXV.- Las demás que le confieran las leyes y otras disposiciones normativas, así como las que le asigne el Gobernador del Estado.
 
 ###### Artículo 7.
 
@@ -243,11 +251,15 @@ XIII.- Elaborar y proponer los instrumentos administrativos de regulación y con
 
 XIV.- Las demás que señalen otras disposiciones legales o les confieran el Titular de la Secretaria, así como las que competan a las unidades que se les adscriban.
 
-### CAPÍTULO V. De la Dirección General de Seguridad Pública
+> <small>(REFORMADA SU DENOMINACION, P.O. 12 DE FEBRERO DE 2011)</small>
+
+### CAPÍTULO V. De la Comisaría General de Seguridad Pública
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 10.
 
-Al frente de la Dirección General de Seguridad Pública habrá un Titular, quien ejercerá por sí o por medio de los agentes de la policía que le sean adscritos las siguientes funciones:
+Al frente de la Comisaría General de Seguridad Pública, habrá un Titular quien ejercerá por sí, o por medio de los agentes de la policía que le sean adscritos, las siguientes facultades:
 
 I.- Conducir en el Estado las normas, políticas y programas que derivan de la Ley General que Establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública, de la Ley de Seguridad Pública del Estado y demás disposiciones aplicables, con el fin de lograr la conservación y mantenimiento del orden, la tranquilidad y seguridad pública en el Estado;
 
@@ -289,9 +301,17 @@ XIX.- Promover y participar en las campañas de seguridad pública y atender los
 
 XX.- Mantener comunicación con los Ayuntamientos, para la definición e implantación de estrategias para la atención de servicios normales y emergentes, en los que deban actuar de manera coordinada;
 
-XXI.- Participar en los comités municipales de seguridad pública, para atender los problemas específicos de cada región, así como evaluar los resultados obtenidos; y
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2011)</small>
 
-XXII.- Las demás que le confieran las disposiciones aplicables y las que le delegue el Titular del Ramo.
+XXI.- Participar en los comités municipales de seguridad pública, para atender los problemas específicos de cada región, así como evaluar los resultados obtenidos;
+
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2011)</small>
+
+XXII.- Certificar copias de los documentos y constancias existentes en los archivos de la Comisaría General de Seguridad Pública, siempre que obren en original o copia certificada; y
+
+> <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2011)</small>
+
+XXIII.- Las demás que le confieran las leyes y otras disposiciones normativas, así como las que le asigne el Titular de la Secretaría.
 
 ### CAPÍTULO VI. De la Dirección General de Estadística y Política Criminal
 
@@ -345,11 +365,15 @@ XXI.- Las demás que señalen otras disposiciones legales o le confiera el Titul
 
 Artículo 11 bis.- El titular de la Dirección General de Estadística y Política Criminal, formará parte del Comité de Clasificación de Información Pública de la Secretaría.
 
-### CAPÍTULO VII. De la Dirección General de Prevención y Readaptación Social
+> <small>(REFORMADA SU DENOMINACION, P.O. 12 DE FEBRERO DE 2011)</small>
+
+### CAPÍTULO VII. De la Comisaría General de Prevención y Reinserción Social
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 12.
 
-Al frente de la Dirección General de Prevención y Readaptación Social habrá un Titular, quien tendrá las siguientes funciones:
+Al frente de la Comisaría General de Prevención y Reinserción Social, habrá un Titular quien tendrá las siguientes facultades:
 
 I.- Ejecutar las sentencias dictadas por las Autoridades Judiciales Penales del Estado;
 
@@ -405,9 +429,17 @@ XXIII.- Proponer al Ejecutivo del Estado, de acuerdo con el Secretario, todos lo
 
 XXIV.- Dirigir, organizar administrar, operar y mantener los establecimientos para la orientación, protección, tratamiento y ejecución de medidas de tratamiento a menores infractores;
 
-XXV.- Establecer y propiciar programas, bases y lineamientos que tiendan a la adaptación social de menores, conforme a los lineamientos aplicables; y
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2011)</small>
 
-XXVI.- Las demás funciones que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confiera el Titular del Ramo.
+XXV.- Establecer y propiciar programas, bases y lineamientos que tiendan a la adaptación social de menores, conforme a los lineamientos aplicables;
+
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2011)</small>
+
+XXVI.- Certificar copias de los documentos y constancias existentes en los archivos de la Comisaría General de Prevención y Reinserción Social, siempre que obren en original o copia certificada; y
+
+> <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2011)</small>
+
+XXVII.- Las demás que le confieran las leyes y otras disposiciones normativas, así como las que le asigne el Titular de la Secretaría.
 
 ### CAPÍTULO VIII. De la Dirección General del Sistema Postpenitenciario y Atención a Liberados
 
@@ -509,9 +541,11 @@ XVIII.- Las demás que señalen otras disposiciones legales o les confieran el T
 
 ### CAPÍTULO XI. De la Dirección General Administrativa
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 16.
 
-Al frente de la Dirección General Administrativa habrá un Titular; quien tendrá las siguientes facultades:
+Al frente de la Dirección General Administrativa, habrá un Titular, quien tendrá las siguientes facultades:
 
 I.- Acordar con el Secretario el despacho de los asuntos de su competencia y de las unidades administrativas a su cargo;
 
@@ -557,13 +591,17 @@ XX.- Dirigir y dictaminar los estudios de viabilidad de la adquisición e instal
 
 XXI.- Proporcionar la asesoría, el apoyo y los dictámenes técnicos que los servidores públicos de las unidades administrativas de la Secretaría le soliciten, en materia de adquisición, instalación, mantenimiento, desarrollo y operación de equipos y programas de cómputo;
 
-> <small>(REFORMADA, P.O. 7 DE JULIO DE 2007)</small>
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2011)</small>
 
-XXII.- Participar como miembro del Comité de Clasificación de Información Pública de la Secretaría; y
+XXII.- Participar como miembro del Comité de Clasificación de Información Pública de la Secretaría;
 
-> <small>(ADICIONADA, P.O. 7 DE JULIO DE 2007)</small>
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2011)</small>
 
-XXIII.- Las demás que les señalen las disposiciones aplicables, las que les confiera el Secretario y las que correspondan a las unidades administrativas que se les adscriban.
+XXIII.- Certificar copias de los documentos y constancias existentes en los archivos de la Dirección General Administrativa, siempre que obren en original o copia certificada; y
+
+> <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2011)</small>
+
+XXIV.- Las demás que le confieran las leyes y otras disposiciones normativas, así como las que le asigne el Titular de la Secretaría.
 
 ### CAPÍTULO XII. De la Dirección General Jurídica
 
@@ -595,11 +633,21 @@ XI.- Otorgar asesoría jurídica en forma gratuita a los miembros de los cuerpos
 
 XII.- Coordinar, en todas las unidades administrativas de la Secretaría, las áreas jurídicas asignadas a las mismas;
 
-XII (sic).- Efectuar estudios comparados sobre legislaciones estatales y federales, en materia de seguridad pública, reglamentos y bandos de policía;
+> <small>N. DE E. ANTES FRACCION XII (SIC), P.O. 12 DE FEBRERO DE 2011.</small>
 
-XIII.- Participar en la elaboración de acuerdos, contratos y convenios con entidades federativas, la federación, dependencias y organismos estatales y federales, así como con los sectores social y privado, para el desarrollo y operación de los programas relativos a la prevención del delito, readaptación y reinserción social; y
+XIII.- Efectuar estudios comparados sobre legislaciones estatales y federales, en materia de seguridad pública, reglamentos y bandos de policía;
 
-XIV.- Las demás funciones que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confiera el Titular del Ramo.
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2011)</small>
+
+XIV. Participar en la elaboración de acuerdos, contratos y convenios con entidades federativas, la federación, dependencias y organismos estatales y federales, así como con los sectores social y privado, para el desarrollo y operación de los programas relativos a la prevención del delito, readaptación y reinserción social;
+
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2011)</small>
+
+XV. Certificar copias de los documentos y constancias existentes en los archivos de la Secretaría, siempre que obren en original o copia certificada; y
+
+> <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2011)</small>
+
+XVI. Las demás que le confieran las leyes y otras disposiciones normativas, así como las que le asigne el Titular de la Secretaría.
 
 > <small>(REFORMADO, P.O. 7 DE JULIO DE 2007)</small>
 
@@ -798,3 +846,7 @@ QUINTO.- Se derogan todas las disposiciones reglamentarias que se opongan al pre
 P.O. 7 DE JULIO DE 2007.
 
 ÚNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 12 DE FEBRERO DE 2011.
+
+ÚNICO. El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
