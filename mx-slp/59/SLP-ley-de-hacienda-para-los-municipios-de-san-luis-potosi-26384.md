@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-hacienda-para-los-municipios-de-san-luis-potosi-26384"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-06"
-last_updated: "2007-07-03"
+last_updated: "2011-02-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26384&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JULIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE FEBRERO DE 2011.
 
 Ley publicada en la Sección Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 6 de noviembre de 2001.
 
@@ -453,7 +453,7 @@ Los derechos deberán pagarse previamente a la prestación del servicio, expedic
 
 ### CAPITULO II. DE LOS DERECHOS EN PARTICULAR
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2011)</small>
 
 ###### ARTICULO 54.
 
@@ -467,7 +467,7 @@ Los municipios podrán prestar algunos de estos servicios directamente, o bien, 
 
 ###### ARTICULO 56.
 
-Los servicios por los cuales los municipios podrán establecer tarifas para el cobro de derechos, son: agua potable; aseo público; panteones; rastro; planeación; tránsito y seguridad; registro civil; salubridad; estacionamientos; reparación, conservación y mantenimiento de pavimentos; publicidad y anuncios; monitoreo vehicular; nomenclatura urbana; licencias para ventas de bebidas alcohólicas de baja graduación; expedición de copias, certificaciones y constancias diversas; servicios catastrales; y supervisión de alumbrado público. Asimismo, cualquier otro servicio que lleve a cabo el municipio y por el cual no esté expresamente prohibido su cobro.
+Los servicios por los cuales los municipios podrán establecer tarifas para el cobro de derechos, son: agua potable; aseo público; panteones; rastro; planeación; tránsito y seguridad; registro civil; salubridad; estacionamientos; reparación, conservación y mantenimiento de pavimentos; publicidad y anuncios; monitoreo vehicular; nomenclatura urbana; licencias para ventas de bebidas alcohólicas de baja graduación; expedición de copias, certificaciones y constancias diversas; servicios catastrales; supervisión de alumbrado público; y ocupación de la vía pública. Asimismo, cualquier otro servicio que lleve a cabo el municipio y por el cual no esté expresamente prohibido su cobro.
 
 ###### ARTICULO 57.
 
@@ -503,9 +503,15 @@ El servicio de registro civil consiste en el registro de nacimientos, matrimonio
 
 El servicio de salubridad es el que en términos de la legislación respectiva, proporcionen los municipios en materia de prevención y tratamiento de enfermedades y la difusión de medidas de higiene y sanidad.
 
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2011)</small>
+
+ARTICULO 64 BIS. El servicio de ocupación de la vía pública consiste en la expedición de licencias o permisos para el uso, explotación u ocupación de la misma, mediante la instalación de objetos e infraestructura subterránea, aérea y terrestre, ajenos a la propiedad municipal.
+
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2011)</small>
+
 ###### ARTICULO 65.
 
-Los municipios podrán cobrar derechos por el uso o explotación de espacios en la vía pública para estacionamiento de vehículos ya sea en forma esporádica o cotidiana, este cobro estará sujeto a la disponibilidad y de conformidad con la normatividad de tránsito y vialidad.
+Los municipios podrán cobrar derechos por la expedición de licencias o permisos para el uso, explotación u ocupación de espacios subterráneos, aéreos y terrestres de la vía pública; así como para estacionamiento de vehículos ya sea en forma esporádica o cotidiana, este cobro estará sujeto a la disponibilidad y de conformidad con la normatividad de tránsito y vialidad.
 
 ###### ARTICULO 66.
 
@@ -764,6 +770,12 @@ P.O. 3 DE JULIO DE 2007.
 PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 12 DE FEBRERO DE 2011.
+
+PRIMERO. Este Decreto entrará en vigor el día siguiente a su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
 
 ###### ARTICULO 82.
 
