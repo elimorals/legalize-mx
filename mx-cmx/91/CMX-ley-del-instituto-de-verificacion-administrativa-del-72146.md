@@ -4,7 +4,7 @@ identifier: "CMX-ley-del-instituto-de-verificacion-administrativa-del-72146"
 country: "mx"
 rank: "ley"
 publication_date: "2010-01-26"
-last_updated: "2010-01-26"
+last_updated: "2011-02-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72146&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2009-12-28"
 
 LEY DEL INSTITUTO DE VERIFICACION ADMINISTRATIVA DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 14 DE FEBRERO DE 2011.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 26 de enero de 2010.
 
@@ -54,23 +54,29 @@ LEY DEL INSTITUTO DE VERIFICACIÓN ADMINISTRATIVA DEL DISTRITO FEDERAL.
 
 La presente Ley es de orden público e interés general y tiene por objeto crear el Instituto de Verificación Administrativa del Distrito Federal como un organismo descentralizado de la Administración Pública del Distrito Federal, con personalidad jurídica y patrimonio propio, dotado de autonomía presupuestaria, de operación y decisión funcional.
 
+> <small>(REFORMADO, G.O. 14 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 2.
 
 En la aplicación de la Ley se entenderá por:
 
 I. Consejo General: El Órgano de Gobierno del Instituto;
 
-II. Dirección General: La Dirección General del Instituto;
+II. Delegaciones: Los Órganos Políticos Administrativos en las demarcaciones en que se divida el territorio del Distrito Federal;
 
-III. Estatuto Orgánico: El Estatuto Orgánico del Instituto;
+III. Dirección General: La Dirección General del Instituto;
 
-IV. Instituto: El Instituto de Verificación Administrativa del Distrito Federal, y
+IV. Estatuto Orgánico: El Estatuto Orgánico del Instituto;
 
-V. Ley: La Ley del Instituto de Verificación Administrativa del Distrito Federal.
+V. Instituto: El Instituto de Verificación Administrativa del Distrito Federal; y
+
+VI. Ley: La Ley del Instituto de Verificación Administrativa del Distrito Federal.
+
+> <small>(REFORMADO, G.O. 14 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 3.
 
-A falta de disposición expresa en esta Ley se aplicará de manera supletoria, en lo que resulte aplicable, la Ley de Procedimiento Administrativo del Distrito Federal y el Código de Procedimientos Civiles del Distrito Federal.
+A falta de disposición expresa en esta Ley se aplicará de manera supletoria, en lo que resulte aplicable, la Ley de Procedimiento Administrativo del Distrito Federal y el Código de Procedimientos Civiles del Distrito Federal, así como el Reglamento del Instituto de Verificación Administrativa del Distrito Federal.
 
 ###### Artículo 4.
 
@@ -84,9 +90,11 @@ III. Las participaciones, donaciones, herencias y legados que reciba de personas
 
 IV. Los demás bienes y derechos que obtenga de conformidad con los ordenamientos aplicables.
 
+> <small>(REFORMADO, G.O. 14 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 5.
 
-El Instituto administrará y dispondrá de su patrimonio en razón de su objeto.
+El Instituto administrará y dispondrá de su patrimonio en razón de su objeto; sujetándose, garantizando y atendiendo los principios de transparencia en todo momento en virtud de recibir recursos públicos del Distrito Federal.
 
 ###### Artículo 6.
 
@@ -98,15 +106,19 @@ II. Práctica de visita de verificación;
 
 III. Determinación y ejecución de medidas de seguridad;
 
-IV. Substanciación del procedimiento de calificación de las actas de visita de verificación;
+> <small>(REFORMADA, G.O. 14 DE FEBRERO DE 2011)</small>
+
+IV. Calificación de las actas de visita de verificación;
 
 V. Ejecución de la resolución dictada en la calificación de las actas de visita de verificación.
 
 En el Reglamento de la Ley se establecerá la forma de substanciación del procedimiento de verificación.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 14 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 7.
 
-En materia de verificación la distribución de competencias del Instituto y las Delegaciones será la siguiente:
+En materia de verificación administrativa el Instituto y las Delegaciones tienen la siguiente competencia:
 
 A. El Instituto tendrá las atribuciones siguientes:
 
@@ -124,11 +136,19 @@ e) Cementerios y Servicios Funerarios;
 
 f) Turismo y Servicios de Alojamiento;
 
-g) Las demás que establezcan las disposiciones legales y reglamentarias respectivas;
+> <small>(REFORMADO, G.O. 14 DE FEBRERO DE 2011)</small>
+
+g) Transporte público, mercantil y privado de pasajero y de carga;
+
+> <small>(ADICIONADO, G.O. 14 DE FEBRERO DE 2011)</small>
+
+h) Las demás que establezcan las disposiciones legales y reglamentarias respectivas;
 
 II. Ordenar y ejecutar las medidas de seguridad e imponer las sanciones previstas en las leyes, así como resolver los recursos administrativos que se promuevan;
 
-III. Coordinar, supervisar y auditar la actividad verificadora de las Delegaciones;
+> <small>(REFORMADA, G.O. 14 DE FEBRERO DE 2011)</small>
+
+III. Emitir los lineamientos y criterios para el ejercicio de la actividad verificadora;
 
 IV. Velar, en la esfera de su competencia, por el cumplimiento de las leyes, reglamentos, decretos, acuerdos, circulares y demás disposiciones jurídicas y administrativas vinculadas con las materias a que se refiere la fracción I, y
 
@@ -154,7 +174,9 @@ g) Protección de no fumadores, y
 
 h) Las demás que establezcan las deposiciones (sic) legales y reglamentarias en las materias que no sean competencia de las secretarías u órganos administrativos desconcentrados;
 
-II. Substanciar el procedimiento de calificación de las actas de visitas de verificación, con la coordinación, supervisión y auditoria del Instituto; y
+> <small>(REFORMADA, G.O. 14 DE FEBRERO DE 2011)</small>
+
+II. Calificar las actas de visitas de verificación, practicadas y de conformidad con la fracción anterior; y
 
 III. Ordenar, a los verificadores del Instituto, la ejecución de las medidas de seguridad y las sanciones impuestas en la calificación de las actas de visitas de verificación.
 
@@ -172,15 +194,49 @@ IV. Comisario Público.
 
 ### Capítulo II. Del Consejo General
 
+> <small>(REFORMADO, G.O. 14 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 9.
 
-El Consejo General estará integrado por un Consejero Presidente, cuatro Consejeros Ciudadanos y por los respectivos titulares de la Secretaría de Gobierno, Consejería Jurídica y de Servicios Legales, Contraloría General, Secretaría de Desarrollo Urbano y Vivienda, Secretaría de Obras y Servicios, Secretaría de Finanzas, Secretaría de Desarrollo Económico, Secretaría de Protección Civil, Secretaría de Turismo y Secretaría del Medio Ambiente. Los Jefes Delegacionales del Distrito Federal serán invitados permanentes.
+El Consejo General estará integrado de la siguiente manera:
+
+I. Un Consejero Presidente;
+
+II. Cuatro Consejeros Ciudadanos;
+
+III. El Titular de la Secretaría de Gobierno del Distrito Federal;
+
+IV. El Titular de la Consejería Jurídica y de Servicios Legales del Distrito Federal;
+
+V. El Titular de la Contraloría General del Distrito Federal;
+
+VI. El Titular de la Secretaría de Desarrollo Urbano y Vivienda del Distrito Federal;
+
+VII. El Titular de la Secretaría de Obras y Servicios del Distrito Federal;
+
+VIII. El Titular de la Secretaría de Finanzas del Distrito Federal;
+
+IX. El Titular de la Secretaría de Desarrollo Económico del Distrito Federal;
+
+X. El Titular de la Secretaría de Protección Civil del Distrito Federal;
+
+XI. El Titular de la Secretaría de Turismo del Distrito Federal;
+
+XII. El Titular de la Secretaría del Medio Ambiente del Distrito Federal;
+
+XIII. Los Titulares de los Órganos Político Administrativos del Distrito Federal que serán invitados permanentes.
+
+Cada miembro propietario podrá designar un representante, con jerarquía no menor a director de área.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 14 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 10.
 
-El Consejero Presidente será Propuesto designado por el Jefe de Gobierno del Distrito Federal, quien sujetará el nombramiento a la ratificación de la Asamblea Legislativa del Distrito Federal.
+El Consejero Presidente será propuesta (sic) por el Jefe de Gobierno del Distrito Federal, quien sujetará el nombramiento a la ratificación de la Asamblea Legislativa del Distrito Federal.
 
-Los Consejeros Ciudadanos y sus respectivos suplentes, serán designados por el Jefe de Gobierno del Distrito Federal.
+> <small>(REFORMADO, G.O. 14 DE FEBRERO DE 2011)</small>
+
+Los Consejeros Ciudadanos y sus respectivos suplentes, serán designados por el Jefe de Gobierno del Distrito Federal, en tal acto observará el principio de equidad de genero.
 
 Los nombres de los Consejeros designados y el periodo correspondiente a cada uno de ellos, deberán publicarse en la Gaceta Oficial del Distrito Federal.
 
@@ -204,9 +260,11 @@ VII. No haber sido destituido ni inhabilitado para el desempeño de empleo, carg
 
 VIII. Aprobar los exámenes de control de confianza que se le practiquen.
 
+> <small>(REFORMADO, G.O. 14 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 12.
 
-El Consejero Presidente y los Consejeros Ciudadanos durarán en su cargo cuatro años. Estos últimos serán renovados de manera escalonada, una mitad de su número en cada ocasión. Los Consejeros Ciudadanos sólo podrán ser designados nuevamente para un periodo adicional.
+El Consejero Presidente y los Consejeros Ciudadanos durarán en su cargo cuatro años y podrán ser designados para un nuevo periodo. Los Consejeros Ciudadanos serán renovados de manera escalonada, una mitad de su número en cada ocasión y ratificados por la mayoría simple de la Asamblea Legislativa del Distrito Federal.
 
 ###### Artículo 13.
 
@@ -220,9 +278,15 @@ III.- Incurrir en violaciones a la Ley Federal de Responsabilidades de los Servi
 
 IV.- Ser condenado en sentencia ejecutoria por la comisión de un delito doloso o que merezca pena privativa de libertad;
 
-V.- Desempeñar cualquier otro empleo, cargo o comisión durante el periodo para el que fue nombrado, excepto actividades docentes no remuneradas; y
+> <small>(REFORMADA, G.O. 14 DE FEBRERO DE 2011)</small>
 
-VI.- Por incumplir las resoluciones de los órganos jurisdiccionales Federales o del Distrito Federal.
+V.- Desempeñar cualquier otro empleo, cargo o comisión durante el periodo para el que fue nombrado, excepto actividades docentes y de investigación no remuneradas; y
+
+VI.- Por incumplir las resoluciones de los órganos jurisdiccionales Federales o del Distrito Federal;
+
+> <small>(ADICIONADA, G.O. 14 DE FEBRERO DE 2011)</small>
+
+VII.- Por dejar de residir en el Distrito Federal.
 
 La remoción del Consejero Presidente será resuelta por la Asamblea Legislativa a solicitud del Jefe de Gobierno. La de los Consejeros Ciudadanos será decretada por el Jefe de Gobierno.
 
@@ -234,9 +298,11 @@ Cuando algún Consejero Ciudadano deje de asistir a dos sesiones consecutivas si
 
 El Consejo General sesionará válidamente con la asistencia de la mitad más uno de sus integrantes y sus decisiones se tomarán por mayoría relativa de los presentes; en caso de empate, el Consejero Presidente tendrá voto de calidad. Los integrantes del Consejo elegirán de entre ellos al Secretario, quien desempeñará dicha función por un año.
 
+> <small>(REFORMADO, G.O. 14 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 15.
 
-Los Consejeros Ciudadanos deberán excusarse, por escrito, de conocer de los asuntos en los que tengan interés particular.
+Los Consejeros Ciudadanos deberán excusarse ante el Consejo General, por escrito, de conocer de los asuntos en los que tengan interés particular.
 
 ###### Artículo 16.
 
@@ -264,17 +330,23 @@ X. Aprobar, en su caso, las propuestas de nombramiento o remoción que le formul
 
 XI. Emitir los lineamientos de actuación del personal especializado en las funciones de verificación;
 
-XII. Proponer reformas al reglamento que establezca el procedimiento de verificación administrativa;
+> <small>(REFORMADA, G.O. 14 DE FEBRERO DE 2011)</small>
+
+XII. Proponer reformas al reglamento que establezca el procedimiento de verificación administrativa, contando con la opinión de los titulares de los Órganos Político Administrativo del Distrito Federal;
 
 XIII. Aprobar los tabuladores para el pago de los servidores públicos del Instituto, así como la normatividad y la política de remuneración del personal y determinar las políticas y lineamientos administrativos respecto a la contratación de servicios profesionales;
 
-XIV. Conocer de oficio o a petición de un particular, de los asuntos que por su interés y trascendencia así lo ameriten;
+> <small>(REFORMADA, G.O. 14 DE FEBRERO DE 2011)</small>
+
+XIV. Conocer de oficio o a petición de un particular, así como de los titulares de los Órganos Político Administrativo del Distrito Federal, de los asuntos que por su interés y trascendencia así lo ameriten;
 
 XV. Nombrar y remover a los verificadores administrativos, conforme lo señale la normativa en la materia;
 
 XVI. Crear, alimentar y tener actualizada la base de datos de la actividad verificadora del Distrito Federal;
 
-XVII. Cuidar la congruencia global de las funciones paraestatales del Instituto con el sistema de planeación del Distrito Federal y con los lineamientos generales en materia de gasto, financiamiento, control y evaluación, y (sic)
+> <small>(REFORMADA, G.O. 14 DE FEBRERO DE 2011)</small>
+
+XVII. Cuidar la congruencia global de las funciones paraestatales del Instituto con el sistema de planeación del Distrito Federal y con los lineamientos generales en materia de gasto, financiamiento, control, evaluación y transparencia; y (sic)
 
 XVIII. Hacer la adscripción de los verificadores atendiendo las necesidades de las dependencias de la Administración Pública Centralizada y de los Órganos Político Administrativos;
 
@@ -286,7 +358,9 @@ XIX. Las demás que le atribuya la Ley y las demás normas aplicables.
 
 El Jefe de Gobierno del Distrito Federal designará al titular de la Dirección General, que tendrá el carácter de órgano ejecutivo del Instituto, quien deberá satisfacer los requisitos que se establecen en el artículo 11 de la presente ley.
 
-El Director General podrá ser removido por acuerdo del Consejo General a propuesta del Consejero Presidente.
+> <small>(REFORMADO, G.O. 14 DE FEBRERO DE 2011)</small>
+
+El Director General podrá ser removido por acuerdo del Consejo General a propuesta del Consejero Presidente; el Consejo General deberá informar en sesión extraordinaria las causas de la solicitud de remoción.
 
 ###### Artículo 18.
 
@@ -332,15 +406,19 @@ XVII. Diseñar los sistemas que se requieran para optimizar el uso y la administ
 
 XVIII. Conocer y, en su caso, aprobar los informes de actividades de las Direcciones Ejecutivas;
 
-XIX. Presentar anualmente al Consejo General un informe de actividades del Instituto y en cualquier tiempo los informes específicos que le soliciten;
+> <small>(REFORMADA, G.O. 14 DE FEBRERO DE 2011)</small>
 
-XX. Instrumentar y ejecutar las recomendaciones que emita el Consejo General;
+XIX. Integrar y mantener actualizada, con el apoyo de las Dependencias, Órganos Desconcentrados y Delegaciones de la Administración Pública del Distrito Federal, los padrones de las materias a las que se refiere la fracción I del apartado A y fracción I del apartado B del artículo 7 de esta Ley, publicando dicha información en su portal web;
 
-XXI. Mantener colaboración y coordinación con las Dependencias, Órganos y demás Entidades de la Administración Pública del Distrito Federal, a fin de hacer efectivo el cumplimiento de la Ley;
+> <small>(REFORMADA, G.O. 14 DE FEBRERO DE 2011)</small>
 
-XXII. Adscribir y rotar libremente al personal especializado en funciones de verificación, y
+XX. Las demás que le atribuya esta ley y otros ordenamientos aplicables.
 
-XXIII. Las demás que le atribuya esta ley y otros ordenamientos aplicables.
+XXI. (DEROGADA, G.O. 14 DE FEBRERO DE 2011)
+
+XXII. (DEROGADA, G.O. 14 DE FEBRERO DE 2011)
+
+XXIII. (DEROGADA, G.O. 14 DE FEBRERO DE 2011)
 
 ### Capítulo IV. De la Organización del Instituto
 
@@ -350,19 +428,13 @@ XXIII. Las demás que le atribuya esta ley y otros ordenamientos aplicables.
 
 El Instituto contará con las Direcciones Ejecutivas que determine el Estatuto Orgánico, las cuales estarán adscritas a la demarcación territorial correspondiente y auxiliarán al Director General en el ejercicio de sus funciones.
 
+> <small>(REFORMADO, G.O. 14 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 21.
 
-Las Direcciones Ejecutivas que se ubiquen en las demarcaciones territoriales en que se divide el Distrito Federal tendrán las siguientes atribuciones que se ejercerán en el territorio de adscripción:
+La Unidad del Instituto de Verificación Administrativa que se ubique en las demarcaciones territoriales en que se divide el Distrito Federal tendrán las atribuciones que especifique el Reglamento Interior.
 
-I. Ordenar las visitas de verificación en las materias a que se refiere el artículo 7 Apartado A de esta Ley, así como calificar las actas que se levanten con ese motivo y emitir las resoluciones correspondientes;
-
-II. Imponer las sanciones administrativas que deriven del incumplimiento en que hubieren incurrido los visitados;
-
-III. Ordenar las medidas de seguridad en los términos que prevean las leyes;
-
-IV. Clasificar, sistematizar y automatizar la información que con motivo de sus funciones obtenga, y
-
-V. Las demás que determinen esta ley y los demás ordenamientos aplicables.
+El área encargada de ordenar las visitas de verificación a que se refiere el artículo 7 apartado A de esta Ley será diferente de la encargada de calificar las actas que se levanten y emitir las resoluciones correspondientes.
 
 ###### Artículo 22.
 
@@ -450,7 +522,7 @@ Para ingresar al Instituto como personal especializado en las funciones de verif
 
 I.- Ser ciudadano del Distrito Federal en pleno ejercicio de sus derechos;
 
-II.- Ser mayor de 18 años;
+II.- (DEROGADA, G.O. 14 DE FEBRERO DE 2011)
 
 III.- No haber sido condenado por delito doloso o que merezca pena privativa de libertad;
 
@@ -464,7 +536,9 @@ VII.- Acreditar el proceso de selección que establezca el Instituto;
 
 VIII.- Aprobar los exámenes de conocimientos y aptitudes que a solicitud del Director General, determine la Escuela de Administración Pública del Distrito Federal, y
 
-IX.- Los demás que se establezcan en los lineamientos a que se refiere el artículo 31 de esta ley.
+> <small>(REFORMADA, G.O. 14 DE FEBRERO DE 2011)</small>
+
+IX.- Los demás que se establezcan en los lineamientos a que se refiere el artículo 32 de esta ley.
 
 ###### Artículo 29.
 
@@ -563,3 +637,15 @@ Artículo Segundo: Las iniciativas de Ley de Establecimientos Mercantiles del Di
 Recinto de la Asamblea Legislativa del Distrito Federal, a los veintitrés días del mes de diciembre del año dos mil nueve.- POR LA MESA DIRECTIVA.- DIP. LIZBETH EUGENIA ROSAS MONTERO, PRESIDENTA.- DIP. MARÍA DE LOURDES AMAYA REYES, SECRETARIA.- DIP. RAFAEL CALDERÓN JIMÉNEZ, SECRETARIO.- FIRMAS.
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los veintiocho días del mes de diciembre del año dos mil nueve.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MARCELO LUIS EBRARD CASAUBON.- FIRMA.- EL SECRETARIO DE GOBIERNO, JOSÉ ÁNGEL ÁVILA PÉREZ.- FIRMA.- EL SECRETARIO DE DESARROLLO URBANO Y VIVIENDA, FELIPE LEAL FERNANDEZ.- FIRMA.- LA SECRETARIA DE DESARROLLO ECONÓMICO, LAURA VELÁZQUEZ ALZÚA.- FIRMA.- LA SECRETARIA DEL MEDIO AMBIENTE, MARTHA DELGADO PERALTA.- FIRMA.- EL SECRETARIO DE OBRAS Y SERVICIOS, FERNANDO JOSÉ ABOITIZ SARO.- FIRMA.- EL SECRETARIO DE DESARROLLO SOCIAL, MARTÍ BATRES GUADARRAMA.- FIRMA.- EL SECRETARIO DE SALUD, JOSÉ ARMANDO AHUED ORTEGA.- FIRMA.- EL SECRETARIO DE FINANZAS, MARIO MARTÍN DELGADO CARRILLO.- FIRMA.- EL SECRETARIO DE TRANSPORTES Y VIALIDAD, RAÚL ARMANDO QUINTERO MARTÍNEZ.- FIRMA.- EL SECRETARIO DE SEGURIDAD PÚBLICA, MANUEL MONDRAGÓN Y KALB.- EL SECRETARIO DE TURISMO, ALEJANDRO ROJAS DÍAZ DURÁN.- FIRMA.- LA SECRETARIA DE CULTURA, ELENA CEPEDA DE LEÓN.- FIRMA.- EL SECRETARIO DE PROTECCIÓN CIVIL, ELÍAS MIGUEL MORENO BRIZUELA.- FIRMA.- EL SECRETARIO DE TRABAJO Y FOMENTO AL EMPLEO, BENITO MIRÓN LINCE.- FIRMA.- EL SECRETARIO DE EDUCACIÓN, MARIO MIGUEL CARRILLO HUERTA.- FIRMA.- SECRETARÍA DE DESARROLLO RURAL Y EQUIDAD PARA LAS COMUNIDADES, MARÍA ROSAMÁRQUEZ CABRERA.- FIRMA.-
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 14 DE FEBRERO DE 2011.
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+Segundo.- Las menciones que en otras disposiciones se hagan de la Secretaria de Transportes y Vialidad vinculadas con facultades de verificación administrativa, se entenderán hechas al Instituto.
+
+Tercero.- La Secretaria de Transportes y Vialidad pondrá a disposición del Instituto de Verificación Administrativa la plantilla de servidores públicos que tengan la calidad laboral de verificadores, sin que puedan afectar sus derechos y percepciones, siempre que estos aprueben la evaluación y cumplan con los requisitos establecidos en el articulo 28 de la Ley del Instituto de Verificación Administrativa del Distrito Federal.
+
+Cuarto.- Publíquese en la Gaceta Oficial del Distrito Federal.
