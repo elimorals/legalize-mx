@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2011-01-31"
+last_updated: "2011-02-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CODIGO MUNICIPAL DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE ENERO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE FEBRERO DE 2011.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -127,9 +127,9 @@ XI. Fomentar la participación ciudadana en la observación, vigilancia y evalua
 
 BIS.- Toda mujer que se encuentre en el Municipio de Aguascalientes tiene derecho al reconocimiento, goce, ejercicio y protección de todos sus derechos humanos. Estos derechos comprenden, entre otros:
 
-l. El derecho a que se respete su vida.
+I. El derecho a que se respete su vida.
 
-ll. El derecho a que se respete su integridad física, psíquica y moral.
+II. El derecho a que se respete su integridad física, psíquica y moral.
 
 III. El derecho a su libertad y seguridad personales.
 
@@ -261,7 +261,9 @@ XIV. Comité de Capacitación.
 
 XV. Comité Municipal de Emergencia.
 
-XVI. Comité Municipal de Ecología y Gestión Ambiental.
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2011)</small>
+
+XVI. Consejo Municipal de Medio Ambiente y Desarrollo Sustentable.
 
 XVII. Consejo Consultivo de Depuración Documental.
 
@@ -279,7 +281,7 @@ XXII. Consejo Ciudadano de Transparencia del Municipio de Aguascalientes.
 
 XXIII. Consejos Delegacionales de Desarrollo Comunitario.
 
-XXIV. Consejo Municipal de Desarrollo Sustentable.
+XXIV. (DEROGADA, P.O. 14 DE FEBRERO DE 2011)
 
 > <small>(REFORMADA, P.O. 8 DE JUNIO DE 2009)</small>
 
@@ -639,7 +641,7 @@ Ninguna discusión podrá suspenderse, si no ha concluido, a menos que la mayor�
 
 Iniciada la discusión de un asunto, sólo podrá suspenderse:
 
-l. Por desordenes graves en el recinto.
+I. Por desordenes graves en el recinto.
 
 II. Por moción suspensiva a propuesta de uno de los miembros del H. Ayuntamiento y que sea aprobado por mayoría del mismo.
 
@@ -967,9 +969,17 @@ Secretaría de Desarrollo Social;
 
 Secretaría de Desarrollo Urbano;
 
-Secretaría de Servicios Públicos y Ecología; y
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
 
-Secretaría Seguridad Pública y Tránsito Municipal.
+Secretaría de Servicios Públicos;
+
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
+
+Secretaría Seguridad Pública y Tránsito Municipal; y
+
+> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 2011)</small>
+
+Secretaría de Medio Ambiente y Desarrollo Sustentable.
 
 De las unidades administrativas enunciadas dependerá la estructura siguiente:
 
@@ -1439,7 +1449,9 @@ Departamento de Bienes Inmuebles Municipales.
 
 Departamento de Cartografía.
 
-XV.- SECRETARÍA DE SERVICIOS PÚBLICOS Y ECOLOGÍA
+> <small>(REFORMADA PRIMER PARRAFO, P.O. 14 DE FEBRERO DE 2011)</small>
+
+XV.- SECRETARIA DE SERVICIOS PUBLICOS
 
 Departamento de Atención Ciudadana:
 
@@ -1447,15 +1459,15 @@ Departamento de Ahorro de Energía.
 
 Coordinación Jurídica.
 
-Dirección de Ecología y Salud:
+> <small>(DEROGADO, P.O. 14 DE FEBRERO DE 2011)</small>
 
-Departamento de Ecología.
+> <small>(DEROGADO, P.O. 14 DE FEBRERO DE 2011)</small>
 
-Departamento de Educación Ambiental.
+> <small>(DEROGADO, P.O. 14 DE FEBRERO DE 2011)</small>
 
-Departamento de Sanidad.
+> <small>(DEROGADO, P.O. 14 DE FEBRERO DE 2011)</small>
 
-Departamento de Rastro.
+> <small>(DEROGADO, P.O. 14 DE FEBRERO DE 2011)</small>
 
 Dirección Administrativa:
 
@@ -1576,6 +1588,28 @@ Departamento de Radio Comunicación.
 Departamento de Emergencia 080.
 
 Dirección de Capacitación, formación y profesionalización.
+
+> <small>(ADICIONADA, P.O. 14 DE FEBRERO DE 2011)</small>
+
+XVII.- SECRETARÍA DE MEDIO AMBIENTE Y DESARROLLO SUSTENTABLE
+
+Secretario Particular.
+
+Coordinación Jurídica.
+
+Coordinación Administrativa.
+
+Dirección de Medio Ambiente.
+
+Departamento de Gestión Ambiental.
+
+Departamento de Recursos Naturales y Biodiversidad.
+
+Dirección de Cambio Climático.
+
+Departamento de Agenda 21 Local.
+
+Departamento de Educación Ambiental y Participación Ciudadana.
 
 ### CAPÍTULO I. De las Normas que Regulan las Actividades de los Trabajadores al Servicio del Gobierno Municipal
 
@@ -2275,15 +2309,19 @@ XXXVI. Autorizar, ordenar, controlar y retirar el mobiliario urbano.
 
 XXXVII. Las demás que señale la Ley o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
 
-APARTADO DÉCIMO CUARTO
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
 
-De la Secretaría de Servicios Públicos y Ecología
+CAPITULO (SIC) DÉCIMO CUARTO
+
+De la Secretaría de Servicios Públicos
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE FEBRERO DE 2011)</small>
 
 #### SECCIÓN PRIMERA. Programa de Formación Policíaca
 
 ###### ARTÍCULO 113.
 
-Corresponde a la Secretaría de Servicios Públicos y Ecología lo siguiente:
+Corresponde a la Secretaría de Servicios Públicos lo siguiente:
 
 I. La prestación por sí o por conducto de terceras personas a través de concesiones, los servicios de rastro municipal, control de población canina y felina, limpia y aseo público, panteones, parques y jardines. En cuanto al control (sic) población canina y felina, el servicio no puede concesionarse.
 
@@ -2301,9 +2339,9 @@ VII. Verificar y ejercer el control sobre desechos líquidos o sólidos que pudi
 
 VIII. Regular y vigilar la emisión de ruidos que afecten el medio ambiente así como la salud de las personas.
 
-IX. Participar en la creación y administración de reservas ecológicas.
+IX. (DEROGADA, P.O. 14 DE FEBRERO DE 2011)
 
-X.- Supervisar las operaciones, funcionamiento y vigilancia de las inhumaciones, exhumaciones y reinhumaciones, pudiendo prestarlo en forma directa o por el conducto de los particulares, de acuerdo a la presente reglamentación.
+X. Supervisar las operaciones, funcionamiento y vigilancia de las inhumaciones, exhumaciones y reinhumaciones, pudiendo prestarlo en forma directa o por el conducto de los particulares, de acuerdo a la presente reglamentación.
 
 XI. Regular y supervisar todo sistema de alumbrado público que los particulares, gobierno federal, estatal y municipal, así como los organismos descentralizados instalen en las vialidades y áreas públicas municipales.
 
@@ -2311,9 +2349,9 @@ XII. Ejercer las atribuciones que le corresponden al Municipio en materia de alu
 
 XIII. Construir, contratar y concesionar la construcción de las áreas verdes públicas, así como el mantenimiento de las mismas.
 
-XIV.- Promover y regular la participación de la ciudadanía en los programas de forestación y reforestación, vigilancia y conservación de las áreas verdes públicas municipales.
+XIV. Promover y regular la participación de la ciudadanía en los programas de forestación y reforestación, vigilancia y conservación de las áreas verdes públicas municipales.
 
-XV.- Vigilar y regular el servicio de limpia y recolección de residuos sólidos, por sí o por conducto de terceras personas a través de concesiones o convenios.
+XV. Vigilar y regular el servicio de limpia y recolección de residuos sólidos, por sí o por conducto de terceras personas a través de concesiones o convenios.
 
 XVI. Regular y vigilar los mecanismos, instrumentos y procedimientos para la prestación de los servicios de limpia y recolección, transportación, alojamiento, reuso, tratamiento, confinamiento y disposición final de residuos no peligrosos.
 
@@ -2326,6 +2364,10 @@ XVIII. Regular y proteger las acciones relativas al deporte de la colombofilia y
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE SEPTIEMBRE DE 2010)</small>
 
 XIX. Las demás que señale la Ley o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
+
+> <small>(ADICIONADA, P.O. 14 DE FEBRERO DE 2011)</small>
+
+XX. Fomentar a través de programas de educación ambiental la disminución en la generación de basura y residuos y cambio en patrones de consumo y producción.
 
 APARTADO DÉCIMO QUINTO
 
@@ -2354,6 +2396,72 @@ VIII. Desarrollar y aplicar políticas, programas y acciones en materia de preve
 IX. Prestar atención psicológica a los miembros de la corporación durante el tiempo que presten sus servicios en la Secretaría de Seguridad Pública y Tránsito Municipal, así como evaluar los métodos de reclutamiento a fin de incrementar la eficiencia de dicho proceso, identificando las características intelectuales, sociales, afectivas y físicas de cada elemento.
 
 X. Las demás que le señale la Ley, Reglamentos o el H. Ayuntamiento por conducto del Presidente Municipal.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 14 DE FEBRERO DE 2011)</small>
+
+APARTADO DÉCIMO SEXTO
+
+De la Secretaría de Medio Ambiente y Desarrollo Sustentable
+
+> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 2011)</small>
+
+ARTÍCULO 114 BIS.- Corresponde a la Secretaría de Medio Ambiente y Desarrollo Sustentable:
+
+I.- Ejercer las atribuciones que le correspondan al municipio en materia de regulación, control ambiental y ecología de acuerdo a la ley;
+
+II.- Regular y vigilar la emisión de ruidos que afecten el medio ambiente así como la salud de las personas;
+
+III.- Crear, Administración y Manejar las áreas naturales protegidas de competencia municipal, así como proponer zonas de preservación ecológicas dentro del territorio municipal;
+
+IV.- Promover y fomentar la participación corresponsable de la sociedad tendiente a mantener la limpieza de la vía pública municipal y recolección de residuos sólidos que se generen;
+
+V.- Establecer, en coordinación con la Secretaría de Seguridad Pública y Tránsito Municipal, medidas para retirar de la circulación los vehículos automotores que no cumplan con las Normas Oficiales aplicables;
+
+VI.- Participar conjuntamente con el Instituto Municipal de Planeación y con la Secretaría de Desarrollo Urbano Municipal, en la elaboración y autorización de proyectos de reglamentación de Zonificación, Usos y Permisos del Suelo así como de los planes y programas de Desarrollo Urbano Municipal; así como negar desarrollos a menos de quince metros de arroyos y ríos de competencia municipal en coordinación con la misma Secretaría;
+
+VII.- Otorgar la resolución del informe preventivo a las empresas de su competencia;
+
+VIII.- Determinaren el ámbito de su competencia, o solicitar ante el Estado y la Federación, según sea el caso, la limitación, modificación o suspensión de actividades comerciales, industriales, de servicios, de desarrollo urbano y turístico, que puedan causar deterioro ambiental o alteración del equilibrio ecológico;
+
+IX.- Llevar y actualizar el registro de las fuentes generadoras de contaminación existentes en el Municipio;
+
+X.- Dictaminar en coordinación con el organismo municipal rector del servicio de agua potable y alcantarillado, de las solicitudes de permiso para descargar aguas residuales en los sistemas de alcantarillado municipal, con base en lo dispuesto por las leyes aplicables;
+
+XI.- Establecer, en coordinación con el organismo municipal rector del servicio de agua potable y alcantarillado, de los criterios ambientales y condiciones particulares de descarga en materia de aguas residuales, industriales, comerciales y de servicios;
+
+XII.- Fomentar la participación, la educación ambiental y la corresponsabilidad de la comunidad en el cumplimiento del presente capítulo;
+
+XIII.- Fomentar la realización de programas y proyectos de educación ambiental en todos los sectores de la sociedad;
+
+XIV.- Establecer, con la participación del Instituto Municipal de Planeación, los criterios ambientales para el diseño, proyecto y manejo de las áreas verdes y arbolados urbanos;
+
+XV.- Vigilar en coordinación con la Federación y el Estado, así como con el Instituto Municipal de Planeación, el adecuado uso y aprovechamiento de los recursos naturales presentes en el territorio municipal;
+
+XVI.- Participar con el Estado, en la evaluación del impacto ambiental de las obras, proyectos o actividades de competencia estatal, que se realicen en el territorio municipal;
+
+XVII.- Promover la organización permanente y ejecución de programas divulgando los procesos, tecnologías y sistemas informativos compatibles con el uso eficiente de la energía;
+
+XVIII.- Diseñar, auspiciar y coordinar programas y proyectos de cooperación estatal, nacional e internacional para el desarrollo del uso eficiente de la energía;
+
+XIX.- Elaborar los planes y programas referenciales de eficiencia energética;
+
+XX.- Promover la asistencia técnica a instituciones públicas y privadas y la concertación con organizaciones de financiamiento a programas del uso eficiente de la energía;
+
+XXI.- Coordinar con los demás sectores y las entidades públicas y privadas el desarrollo de políticas de uso eficiente de la energía;
+
+XXII.- Promover el consumo eficiente de energéticos en zonas aisladas y remotas;
+
+XXIII.- Establecer criterios ambientales, especialmente aquellos relacionados con la mitigación de los efectos que tienen en la zona urbana el calentamiento global;
+
+XXIV.- Elaborar el Manual de Forestación, Reforestación y Manejo de Áreas Verdes Urbanas del Municipio de Aguascalientes;
+
+XXV.- Realizar en coordinación con la Dirección de Parques y Jardines del Municipio, campañas de reforestación urbana y rural, congruentes con las del Estado y la Federación;
+
+XXVI.- Dar atención a la denuncia popular que en el ámbito de su competencia presenten los grupos sociales y los particulares interesados o afectados por los problemas ambientales;
+
+XXVII.- Fomentar y realizar programas de minimización y manejo de residuos especialmente en los sectores industrial, comercial y de servicios; y
+
+XXVIII.- Las demás que otorgue el presente Código y las leyes de la materia o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
 
 ## TÍTULO TERCERO. DE LA NORMATIVIDAD INTERNA MUNICIPAL
 
@@ -3639,7 +3747,7 @@ VII. La firma autógrafa del servidor público que instruye el operativo.
 
 El personal habilitado, el cual se integrará por tres personas como mínimo, para practicar operativos de supervisión o detección de vehículos automotores, deberá sujetarse al siguiente procedimiento:
 
-l. Requisitar el formato denominado "Operativo" expedido por el departamento, en el que se señale lo siguiente:
+I. Requisitar el formato denominado "Operativo" expedido por el departamento, en el que se señale lo siguiente:
 
 a) Fecha, hora y lugar en la que se inicia el operativo.
 
@@ -3693,7 +3801,7 @@ Cuando por necesidades del servicio se requiera que un vehículo automotor cambi
 
 Para la expedición de permisos de circulación fuera del territorio del Municipio, las áreas solicitantes deberán sujetarse al siguiente procedimiento:
 
-l. Solicitar por escrito con 48 horas de anticipación ante Control Patrimonial el permiso para circular con los siguientes datos:
+I. Solicitar por escrito con 48 horas de anticipación ante Control Patrimonial el permiso para circular con los siguientes datos:
 
 a. Descripción del vehículo.
 
@@ -3815,7 +3923,7 @@ VII. Las demás que le sean conferidas por el Presidente de la Comisión y leyes
 
 El Presidente de la Comisión tendrá las siguientes facultades y obligaciones:
 
-l. Convocar a las sesiones ordinarias y extraordinarias de la Comisión a través del Secretario Ejecutivo.
+I. Convocar a las sesiones ordinarias y extraordinarias de la Comisión a través del Secretario Ejecutivo.
 
 II. Autorizar el proyecto de orden del día y analizar previamente los expedientes correspondientes a los asuntos que se tratarán en cada sesión.
 
@@ -3925,7 +4033,7 @@ VI. Oficiales custodios.
 
 Para ser Director de Justicia Municipal, se requiere:
 
-l. Ser mexicano en pleno goce de sus derechos y vecino del Municipio por más de cinco años.
+I. Ser mexicano en pleno goce de sus derechos y vecino del Municipio por más de cinco años.
 
 II. Contar con el título de Licenciado en Derecho, con una antigüedad mínima de dos años y contar con cédula profesional para el ejercicio de la profesión.
 
@@ -3967,7 +4075,7 @@ De los Jueces Municipales de Seguridad Pública
 
 Para ser Juez Municipal se requiere:
 
-l. Ser mexicano en pleno goce de sus derechos y vecino del Municipio por más de tres años.
+I. Ser mexicano en pleno goce de sus derechos y vecino del Municipio por más de tres años.
 
 II. Contar con título de Licenciado en Derecho y cédula profesional para el ejercicio de la profesión.
 
@@ -4423,7 +4531,7 @@ De las Faltas Contra la Seguridad Pública
 
 Son faltas contra la seguridad pública y se sancionarán con arresto hasta por treinta y seis horas o multa de cinco a treinta días de Salario Mínimo General Vigente en el Estado, las siguientes:
 
-l. Causar, en los espectáculos y lugares públicos, falsas alarmas, lanzar voces o tomar actitudes que infundan o puedan infundir pánico en los presentes.
+I. Causar, en los espectáculos y lugares públicos, falsas alarmas, lanzar voces o tomar actitudes que infundan o puedan infundir pánico en los presentes.
 
 II. Almacenar, detonar cohetes, utilizar material peligroso, inflamable, explosivo, corrosivo, pólvora fría, hacer fogatas o utilizar negligentemente cualquier combustible o material inflamable, que pongan en peligro a la población y que no cuenten con los permisos correspondientes.
 
@@ -4879,7 +4987,7 @@ Antes de ingresar al área de internamiento, deberá elaborarse un dictamen a la
 
 El médico, además de las mencionadas en el artículo anterior y de las establecidas en éste Código y otros ordenamientos, tendrá las siguientes atribuciones:
 
-l. Aplicar, en caso necesario, los primeros auxilios a los internos que así lo requieran y realizar las consultas y exámenes necesarios para corroborar el estado de salud de los detenidos e internos.
+I. Aplicar, en caso necesario, los primeros auxilios a los internos que así lo requieran y realizar las consultas y exámenes necesarios para corroborar el estado de salud de los detenidos e internos.
 
 II. Controlar los medicamentos que se le deban administrar a los internos.
 
@@ -5211,11 +5319,11 @@ VI. Por el Municipio, el Estado y la Federación.
 
 Se requerirá la aprobación de las dos terceras partes del cabildo para celebrar los convenios u otorgar las concesiones a que se refiere el artículo anterior y en materia de concesiones para la prestación de los servicios públicos municipales, se estará a lo dispuesto por la Ley Municipal para el Estado de Aguascalientes.
 
-> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
 
 ###### ARTÍCULO 416.
 
-Corresponde a la Secretaría de Servicios Públicos y Ecología la prestación, por si o por conducto de terceras personas a través de contratos o concesiones, de los servicios de Rastro Municipal, Limpia y Aseo Público, Panteones, Parques y Jardines, Alumbrado Público. De manera adicional a los referidos anteriormente deberá prestar de manera directa el servicio de control de población canina y felina así como regular y proteger las acciones relativas al deporte de la colombofilia y la colombicultura, y contribuir a la prevención y control de la población de este género animal.
+Corresponde a la Secretaría de Servicios Públicos la prestación, por sí o por conducto de terceras personas a través de contratos o concesiones, de los servicios de Rastro Municipal, Limpia y Aseo Público, Panteones, Parques y Jardines, Alumbrado Público. De manera adicional a los referidos anteriormente deberá prestar de manera directa el servicio de control de población canina y felina así como regular y proteger las acciones relativas al deporte de la colombofilia y la colombicultura, y contribuir a la prevención y control de la población de este género animal.
 
 ### CAPÍTULO II. De los Panteones
 
@@ -5371,7 +5479,9 @@ El reporte de la observación realizada al animal agresor o sospechoso de rabia 
 
 Queda estrictamente prohibida la pelea de perros y el trato cruel a los animales, quien así lo haga incurrirá en responsabilidad y será sancionado en los términos de este Código; además de decomisar el o los animales quedando a disposición de la autoridad en el Centro Municipal de Control Canino y Felino quien determinará lo que mejor convenga.
 
-Los cadáveres de animales que se encuentren en la vía pública, deberán ser recogidos por personal de la Secretaría de Servicios Públicos y Ecología del Municipio.
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
+
+Los cadáveres de animales que se encuentren en la vía pública, deberán ser recogidos por personal de la Secretaría de Servicios Públicos.
 
 Las mascotas que se encuentren enfermos o inmovilizados en vía pública debido a algún accidente, atropellamiento o enfermedad podrán ser llevados al Centro Municipal de Control Canino y Felino para ser sacrificados humanitariamente.
 
@@ -5499,7 +5609,7 @@ La administración de los panteones, deberá tener vigilancia las 24 horas del d
 
 Son obligaciones de los administradores de los panteones, las siguientes:
 
-l. Especificar el número de lotes y superficies disponibles para las inhumaciones, así como la localización de los mismos.
+I. Especificar el número de lotes y superficies disponibles para las inhumaciones, así como la localización de los mismos.
 
 II. Llevar libro de registro de inhumaciones, en el cual se anotará el nombre, apellido, edad, nacionalidad, sexo y domicilio que tuvo el difunto, la causa que determinó la muerte y la oficialía del Registro Civil que expide el acta correspondiente, asentando el número de ésta y la ubicación de la fosa que ocupa.
 
@@ -5609,9 +5719,9 @@ Los gastos que originen las inhumaciones, exhumaciones, conservación y traslado
 
 Se aplicarán las sanciones que previene este Código, a las personas que infrinjan cualquiera de las obligaciones que impone este capítulo, independientemente de lo dispuesto en la Legislación Penal, en caso de tratarse de delito.
 
-### CAPÍTULO IV. Reglamento de Colombofilia y Colombicultura
+### CAPITULO IV. Del Manejo de los Residuos Sólidos Municipales
 
-> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2010)</small>
+> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 2011)</small>
 
 ###### ARTÍCULO 476.
 
@@ -5641,7 +5751,9 @@ Las acciones de derribo, poda, reubicación y remoción de vegetación, así com
 
 La adecuada forestación de banquetas, camellones y aquellas áreas de donación que el Municipio determine en el proceso de autorización de fraccionamientos de nueva creación, deberá ser por cuenta del fraccionador quien se apegará a lo siguiente:
 
-I. Utilizar sólo especies adecuadas según el Manual de Forestación y Manejo de Áreas Verdes Urbanas del Municipio de Aguascalientes que emita la Secretaría de Servicios Públicos y Ecología;
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2011)</small>
+
+I. Utilizar sólo especies adecuadas según el Manual de Forestación y Manejo de Áreas Verdes Urbanas del Municipio de Aguascalientes que emita la Secretaría de Medio Ambiente y Desarrollo Sustentable;
 
 II. La planta utilizada deberá cumplir las características en cuanto a tamaño, salud y estado físico, que marca el mencionado Manual de Forestación y Manejo de Áreas Verdes; y
 
@@ -5679,7 +5791,9 @@ Para efectos de la autorización a que se refiere el Artículo anterior los inte
 
 Siempre que se hubiere otorgado una autorización para el derribo, extracción o remoción de vegetación, ésta quedará condicionada a la reposición del mismo con otra u otras especies vegetales propias para el área en cuestión, con el doble de la cobertura vegetal perdida como mínimo.
 
-A toda persona física o moral que se le detecte ocasionando daños en forma parcial o total a las especies vegetales, ya sean árboles, plantas o arbustos, se le aplicarán las sanciones conforme al Tabulador de Daños a Especies Vegetales que maneja la Secretaria de Servicios Públicos y Ecología, mismo que se encuentra contemplado en el Manual de Forestación, Reforestación y Manejo de Áreas Verdes Urbanas del Municipio de Aguascalientes.
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
+
+A toda persona física o moral que se le detecte ocasionando daños en forma parcial o total a las especies vegetales, ya sean árboles, plantas o arbustos, se le aplicarán las sanciones conforme al Tabulador de Daños a Especies Vegetales que emite la Secretaria de Medio Ambiente y Desarrollo Sustentable, mismo que se encuentra contemplado en el Manual de Forestación, Reforestación y Manejo de Áreas Verdes Urbanas del Municipio de Aguascalientes.
 
 Siempre que se hubiere otorgado una autorización para el derribo, extracción o remoción de vegetación, ésta quedará condicionada a la reposición del mismo con otra u otras especies vegetales propias para el área en cuestión, así como la donación de cinco a diez árboles por cada uno que se derribe como mínimo y/o la reposición en razón del doble de la cobertura perdida en el lugar, incrementándose dicha donación y/o conmutación, dependiendo del volumen y cobertura vegetal del mismo, donación que será entregada en las instalaciones del vivero municipal previo recibo de donación.
 
@@ -5697,9 +5811,11 @@ En el camellón de las avenidas sólo deberá plantarse de una a tres especies, 
 
 La distancia entre los árboles no deberá ser menor que la anchura de sus copas en estado de madurez, excepto en el caso de setos o cortinas rompevientos, para lo cual deberá consultarse el Manual de Forestación, Reforestación y Manejo de Áreas Verdes.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE FEBRERO DE 2011)</small>
+
 ###### ARTÍCULO 485.
 
-La Dirección autorizará y supervisará el derribo, desrame, y reubicación de árboles en espacios públicos y en predios urbanos y semi-urbanos de propiedad particular, condicionando la autorización a la reposición del doble de la cobertura vegetal perdida en la forma y modo que indica el Manual de Forestación, Reforestación y Manejo de Áreas Verdes que emite la Secretaría de Servicios Públicos y Ecología.
+La Dirección de Parques y Jardines autorizará y supervisará el derribo, desrame, y reubicación de árboles en espacios públicos y en predios urbanos y semi-urbanos de propiedad particular, condicionando la autorización a la reposición del doble de la cobertura vegetal perdida en la forma y modo que indica el Manual de Forestación, Reforestación y Manejo de Áreas Verdes que emite la Secretaría de Medio Ambiente y Desarrollo Sustentable.
 
 La poda de los árboles deberá realizarse tomando en cuenta las características biológicas de la especie y el objetivo de dicha poda, para lo cual se deberá apegar a lo especificado en el Manual mencionado en el artículo anterior.
 
@@ -5709,21 +5825,27 @@ El personal que participe en el manejo y mantenimiento de las áreas verdes púb
 
 Toda persona física o moral que se dedique en forma privada a ofrecer servicios de manejo y mantenimiento de las áreas verdes públicas, deberá estar inscrito en el censo elaborado para tal efecto por la Dirección de Parques y Jardines.
 
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
+
 ###### ARTÍCULO 487.
 
-Dentro de los programas de forestación preferentemente deberán utilizarse especies propias de la región o que se ha comprobado su adaptación y con bajo requerimiento de agua, tomando como base las reportadas en el Manual de Forestación, Reforestación y Manejo de Áreas Verdes emitido por la Secretaría de Servicios Públicos y Ecología.
+Dentro de los programas de forestación preferentemente deberán utilizarse especies propias de la región o que se ha comprobado su adaptación y con bajo requerimiento de agua, tomando como base las reportadas en el Manual de Forestación, Reforestación y Manejo de Áreas Verdes emitido por la Secretaría de Medio Ambiente y Desarrollo Sustentable.
+
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
 
 ###### ARTÍCULO 488.
 
-Toda persona que solicite un árbol para el frente de su propiedad será responsable de su cuidado y mantenimiento, de lo contrario la Dirección de Parques y Jardines efectuará el mantenimiento para conservar la imagen urbana, debiendo el propietario del inmueble realizar el pago correspondiente de conformidad al Tabulador de Daños a Especies Vegetales contemplado en el Manual de Forestación, Reforestación y Manejo de Áreas Verdes emitido por la Secretaría de Servicios Públicos y Ecología.
+Toda persona que solicite un árbol para el frente de su propiedad será responsable de su cuidado y mantenimiento, de lo contrario la Dirección de Parques y Jardines efectuará el mantenimiento para conservar la imagen urbana, debiendo el propietario del inmueble realizar el pago correspondiente de conformidad al Tabulador de Daños a Especies Vegetales contemplado en el Manual de Forestación, Reforestación y Manejo de Áreas Verdes emitido por la Secretaría de Medio Ambiente y Desarrollo Sustentable.
 
 ###### ARTÍCULO 489.
 
 Para la autorización de funcionamiento de viveros, centros reproductores y comercializadoras de plantas, se exigirá la autorización de la Secretaría del Medio Ambiente, Recursos Naturales y Pesca, y deberá sujetarse a las especies reportadas en el Manual de Forestación, Reforestación y Manejo de Áreas Verdes Urbanas del Municipio de Aguascalientes antes citado. En caso de comercializar otras especies deberá comprobar su adaptación a las características ambientales del Municipio de Aguascalientes. Queda estrictamente prohibido, con base en lo dispuesto por la Secretaría del Medio Ambiente, Recursos Naturales y Pesca, la reproducción, reforestación y comercialización del alamillo ó Populus Canadensis, del olmo chino ó Ulmus parvifolia y de las especies que en futuro presente problemática similar a los anteriores.
 
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
+
 ###### ARTÍCULO 490.
 
-Bajo líneas de alta tensión, sólo deberán plantarse árboles de poca altura, arbustos y herbáceas, en base a lo ordenado por el Manual de Forestación, Reforestación y Manejo (sic) Áreas Verdes de la Secretaría de Servicios Públicos y Ecología.
+Bajo líneas de alta tensión, sólo deberán plantarse árboles de poca altura, arbustos y herbáceas, en base a lo ordenado por el Manual de Forestación, Reforestación y Manejo Áreas Verdes, emitido por la Secretaría de Medio Ambiente y Desarrollo Sustentable.
 
 ###### ARTÍCULO 491.
 
@@ -5735,9 +5857,11 @@ II. Fomentar la participación de los vecinos en el cuidado y creación de área
 
 III. Informar a las autoridades municipales, o en su caso a las estatales y/o federales sobre cualquier uso inadecuado o daño a las áreas verdes, proporcionando los datos de las personas, vehículos o cualquier otro agente que atente contra dichas áreas verdes.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 6 DE SEPTIEMBRE DE 2010)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 14 DE FEBRERO DE 2011)</small>
 
-### CAPÍTULO I. Del Impacto Ambiental
+### CAPITULO V. Reglamento de Colombofilia y Colombicultura
+
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 491 Bis.
 
@@ -5791,37 +5915,255 @@ XII. Los palomares se deberán de fumigar contra ácaros y cualquier otro tipo d
 
 XIII. Los palomos dentro del palomar deben de disponer de alimento suficiente, agua limpia y fresca, lugares adecuados para dormir.
 
-XIV. El Municipio de Aguascalientes, en el ámbito de competencia de la Dirección de Ecología y Salud, de la Secretaria de Servicios Públicos y Ecología y asesorado por la Unión Colombófila de Aguascalientes A.C. y por la Asociación de Colombicultores, Promoción y Protección de Palomos y Aves de México A.C., es quien llevará a efecto las medidas necesarias para el control sanitario y de proliferación de los palomos asilvestrados que se ubican en plazas, parques, jardines públicos, iglesias, etc., pudiendo determinar en su caso la necesidad de exterminio y/o erradicación de las mismas.
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2011)</small>
 
-XV. El Municipio de Aguascalientes, en el ámbito de competencia de la Dirección de Ecología y Salud, de la Secretaría de Servicios Públicos y Ecología y asesorado por la Unión Colombófila de Aguascalientes A.C. y por la Asociación de Colombicultores, Promoción y Protección de Palomos y Aves de México A.C., tiene la facultad de inspeccionar las instalaciones de los asociados o de cualquier otra persona que posea palomos, con la finalidad de verificar y en su caso sancionar a quien o quienes contravengan el presente reglamento.
+XIV. El Municipio de Aguascalientes, en el ámbito de competencia de la Secretaría de Servicios Públicos y asesorado por la Unión Colombofila de Aguascalientes A.C. y por la Asociación de Colombicultores, Promoción y Protección de Palomos y Aves de México A.C., es quien llevará a efecto las medidas necesarias para el control sanitario y de proliferación de los palomos asilvestrados que se ubican en plazas, parques, jardines públicos, iglesias, entre otros; pudiendo determinar las acciones necesarias para su control.
+
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2011)</small>
+
+XV. El Municipio de Aguascalientes en el ámbito de su competencia a través de la Secretaria de Servicios Públicos y asesorado por la Unión Colombofila de Aguascalientes A.C. y por la Asociación de Colombicultores, Promoción y Protección de Palomos y Aves de MéxicoA.C. (sic) tiene la facultad de inspeccionar las instalaciones de los asociados o de cualquier otra persona que posea palomos, con la finalidad de verificar y en su caso sancionar a quien o quienes contravengan el presente reglamento; y
 
 XVI. Para toda violación a las disposiciones Municipales previstas en el presente Reglamento, se aplicará un apercibimiento al infractor para que dé cumplimiento a las mismas, en caso de hacer caso omiso al mismo, se le sancionará de acuerdo al CAPITULO I, De las Sanciones en Materia de Servicios Públicos, del ARTICULO 1574, del GRUPO UNO, inciso, h.
 
-### CAPÍTULO II. De las Áreas Naturales Protegidas
+> <small>(REFORMADA SU DENOMINACION, P.O. 14 DE FEBRERO DE 2011)</small>
 
-# LIBRO CUARTO. DEL AMBIENTE Y LOS RECURSOS NATURALES
+###### ARTÍCULO 491
+
+1.- En cuanto a la protección del suelo y el manejo de los residuos sólidos municipales, corresponde al H. Ayuntamiento, a través de la Secretaría de Servicios Públicos:
+
+I.- Vigilar que se dé el manejo adecuado a los residuos sólidos que se generen por la prestación de servicios públicos municipales;
+
+II.- Vigilar que el servicio municipal de limpia realice la recolección, acopio, reciclaje y disposición final de los residuos sólidos municipales con apego a la normatividad ambiental vigente y sin que represente riesgos para el ambiente y la salud;
+
+III.- Celebrar conjuntamente con la Dirección de Limpia y Aseo Público, acuerdos de coordinación con los municipios colindantes para enviar o recibir residuos sólidos no peligrosos para su disposición final;
+
+IV.- Realizar las denuncias que correspondan por fuentes generadoras de residuos sólidos peligrosos en el territorio municipal;
+
+V.- Coordinar con la Dirección de Limpia y Aseo Público, un inventario de los sitios autorizados de disposición final de residuos sólidos no peligrosos y de las fuentes generadoras que incluirán un registro de las cantidades que se producen, sus componentes y las características de los sistemas y sitios de manejo, transporte, almacenamiento, alojamiento, recuperación, tratamiento y disposición final;
+
+VI.- Fomentar el desarrollo de infraestructura de apoyo para acopio de residuos sólidos municipales; y
+
+VII.- Solicitar al generador o prestador de servicios de recolección de residuos peligrosos, un plan de contingencias ambientales aprobado por la Secretaría del Medio Ambiente y Desarrollo Sustentable.
+
+> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 2011)</small>
+
+###### ARTÍCULO 491
+
+2.- Las personas físicas o morales cuya actividad preponderante sea la compra, selección, transportación, acopio, aprovechamiento de residuos sólidos deberán contar con licencia de funcionamiento, conforme a lo establecido en el presente Código.
+
+> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 2011)</small>
+
+###### ARTÍCULO 491
+
+3.- Para la obtención de la licencia mencionada en el artículo anterior, se requerirá de la presentación de una solicitud, misma que será proporcionada por la Secretaría de Medio Ambiente y Desarrollo Sustentable.
+
+> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 2011)</small>
+
+###### ARTÍCULO 491
+
+4.- Queda prohibido y será materia de sanción descargar, depositar o infiltrar contaminantes en los suelos del territorio municipal, sin el cumplimiento de las Normas Oficiales Mexicanas y reglamentos vigentes.
+
+> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 2011)</small>
+
+###### ARTÍCULO 491
+
+5.- Los particulares que realicen actividades que generen residuos sólidos municipales, que no utilicen los servicios públicos de recolección, manejo, transporte y disposición final y no cuenten con autorización para hacerlo directamente en estricto apego a este Código, podrán ser amonestados, sancionados económicamente o arrestados hasta por treinta y seis horas por la autoridad municipal correspondiente.
+
+También se aplicarán las sanciones anteriores en los siguientes casos:
+
+I.- Destinar terrenos como sitios de disposición final de residuos sólidos, semilíquidos o líquidos sin la autorización en materia de impacto ambiental por parte de la autoridad competente;
+
+II.- Descargar residuos sólidos, semilíquidos o líquidos de cualquier tipo en la vía pública, caminos, cauces, vasos, terrenos agrícolas o baldíos;
+
+III.- Transportar residuos sólidos en vehículos que no estén debidamente protegidos para evitar su dispersión en el ambiente;
+
+IV.- Depositar en áreas de destino final residuos sólidos provenientes de otros municipios o entidades federativas, sin autorización previa del Municipio; y
+
+V.- Abstenerse de recoger las heces fecales de sus mascotas que sean arrojadas en vía pública, áreas de uso común, áreas de interés común y medianerías en el interior del Municipio.
+
+> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 2011)</small>
+
+###### ARTÍCULO 491
+
+6.- Los particulares que realicen actividades que generen residuos sólidos no municipales y de manejo especial, que utilicen los servicios públicos o privados de recolección y cuya disposición final se pretenda realizar en el relleno sanitario municipal, deberán obtener autorización de la Secretaría de Medio Ambiente y Desarrollo Sustentable, mediante la presentación de oficio que deberá contener como datos mínimos:
+
+I.- Nombre o razón social de la empresa;
+
+II.- Domicilio de la empresa, domicilio para oír o recibir notificaciones;
+
+III.- Descripción detallada del residuo;
+
+IV.- Peso y volumen del mismo;
+
+V.- Frecuencia con la que se pretende disponer; y
+
+VI.- En caso que el residuo sea probablemente peligroso, de acuerdo con la normatividad ambiental vigente; se deberá presentar el reporte del análisis de laboratorio acreditado ante la entidad mexicana de acreditación que demuestre que no es corrosivo, reactivo, explosivo, toxico, inflamable, biológico o infeccioso "CRETIB".
+
+La autorización dependerá de la normatividad ambiental vigente así como de los alineamientos de operación del sitio de disposición final.
+
+La autorización podrá ser condicionada y tendrá una vigencia determinada.
+
+(REUBICADO, ANTES CAPITULO IV, P.O. 14 DE FEBRERO DE 2011)
+
+### CAPÍTULO I. Del Impacto Ambiental
+
+# LIBRO CUARTO. DE LA SECRETARÍA DE MEDIO AMBIENTE Y DESARROLLO SUSTENTABLE
 
 ## TÍTULO ÚNICO. DE LA PROTECCIÓN AMBIENTAL
 
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
+
 ###### ARTÍCULO 492.
 
-Las disposiciones del presente Libro son de orden público e interés social y regulan la conservación, protección, restauración, preservación y regeneración del ambiente, así como el control, corrección y prevención de los procesos de deterioro ambiental.
+Las disposiciones del presente reglamento son de orden público e interés social en el Municipio de Aguascalientes y tienen por objeto garantizar el derecho de las personas a disfrutar de un medio ambiente adecuado para su desarrollo y bienestar integral, a través de la correcta formulación, conducción y evaluación de la política ambiental y sustentable; la preservación y restauración del equilibrio ecológico y la protección del ambiente en el territorio municipal, en concurrencia con las autoridades estatales y federales.
 
-Corresponde a la Secretaría de Servicios Públicos y Ecología a través de la Dirección de Ecología y Salud, la aplicación y observancia de las presentes disposiciones.
+> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 2011)</small>
+
+###### ARTÍCULO 492
+
+1.- Para efectos de las presentes disposiciones, son autoridades en materia ambiental de competencia municipal, las siguientes:
+
+I. El H. Ayuntamiento;
+
+II. El Presidente Municipal;
+
+III. La Secretaría de Medio Ambiente y Desarrollo Sustentable Municipal, a través de su titular o personal facultado; y
+
+Corresponde a las demás dependencias de la Administración Pública Municipal y entidades a través de su personal facultado, a proporcionar la información técnica ambiental necesaria dentro de su respectivo ámbito de competencia.
+
+> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 2011)</small>
+
+###### ARTÍCULO 492
+
+2.- Para los efectos de las presentes disposiciones, serán considerados además de los conceptos señalados en diversos ordenamientos federales y estatales en la materia, los siguientes:
+
+Secretaría: La Secretaría de Medio Ambiente y Desarrollo Sustentable Municipal;
+
+Licencia Ambiental Única Municipal: Instrumento expedido por la Secretaría del Medio Ambiente y Desarrollo Sustentable mediante el que se determinan los impactos al ambiente que podrían generarse por la actividad a desarrollar dentro del territorio municipal;
+
+Ley: La Ley de Protección Ambiental para el Estado de Aguascalientes y Ley General para el Equilibrio Ecológico;
+
+Parque ecológico: Predio habilitado por la autoridad municipal para la preservación de ecosistemas locales para su mejoramiento y promoción, con la finalidad de ser espacios lúdicos recreativos para la población, desarrollando actividades de educación ambiental e integración social.
+
+> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 2011)</small>
+
+###### ARTÍCULO 492
+
+3.- Corresponde al H. Ayuntamiento:
+
+I.- Aprobar y evaluar la política ambiental aplicable en el municipio, en congruencia con lo que en su caso formulen la Federación y el Estado;
+
+II.- Preservar y en su caso dictar las medidas necesarias para restaurar el equilibrio ecológico y proteger el ambiente dentro del territorio del municipio que sean de su competencia;
+
+III.- Participar con el Poder Ejecutivo del Estado en la creación de áreas naturales protegidas que se ubiquen en territorio del Municipio de Aguascalientes;
+
+IV.- Autorizar la celebración de convenios previa autorización del H. Ayuntamiento, con la Federación, el Estado y Municipios o con personas físicas o morales, para la realización de acciones en materia de protección al ambiente en el ámbito de su competencia;
+
+V.- Ejercer las atribuciones que le señala el presente reglamento en materia de conducción de la política ambiental; y
+
+VI.- Las demás atribuciones y obligaciones que le señala el presente ordenamiento y demás disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 2011)</small>
+
+###### ARTÍCULO 492
+
+4.- Corresponde al Presidente Municipal:
+
+I.- Vigilar el cumplimiento del presente ordenamiento;
+
+II.- Ordenar acciones y programas relacionados con disposiciones en materia de medio ambiente dentro de la jurisdicción municipal; y
+
+III.- Ejercer las demás facultades que le determine el H. Ayuntamiento y las que le señalen diversas disposiciones jurídicas y administrativas aplicables.
+
+> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 2011)</small>
+
+###### ARTÍCULO 492
+
+5.- Corresponde a la Secretaría:
+
+I.- Formular y proponer instrumentos de política ambiental y criterios ecológicos para el desarrollo sustentable del Municipio;
+
+II.- Establecer mecanismos para la preservación, protección y restauración del equilibrio ecológico en bienes y zonas de jurisdicción municipal;
+
+III.- Participar en su ámbito de competencia en emergencias ecológicas y contingencias ambientales;
+
+IV.- Participar en asuntos relacionados con el tema de medio ambiente en diversos foros o espacios públicos;
+
+V.- Informar a través de medios de comunicación sobre la calidad del ambiente en el territorio del municipio, en coordinación entidades e instituciones ambientales, de investigación y educación relacionadas;
+
+VI.- Difundir la política municipal en materia ambiental, así como realizar las acciones de capacitación para fortalecer la participación social, institucional y empresarial en el cuidado del ambiente;
+
+VII.- Promover inversiones públicas y privadas, destinadas a proyectos para la protección del ambiente y el aprovechamiento sustentable de los recursos naturales.
+
+VIII.- Vigilar las áreas naturales protegidas que correspondan a la competencia del Municipio de Aguascalientes;
+
+IX.- Generar estrategias de prevención y control en su caso, de la contaminación atmosférica generada por fuentes fijas o naturales de giros comerciales, de servicios e industriales dentro de su demarcación territorial y dentro del ámbito de su competencia;
+
+X.- Coordinarse con las autoridades competentes para la integración del registro municipal de emisiones y transferencia de contaminantes al aire, agua, suelo y subsuelo respecto de materiales, sustancias y residuos sólidos considerados como no peligrosos;
+
+XI.- Coordinarse con las autoridades federales y estatales en su caso, para establecer sistemas de monitoreo de contaminación atmosférica en el territorio municipal;
+
+XII.- Elaborar y mantener actualizados los programas municipales de ordenamiento ecológico territorial local y de protección al ambiente;
+
+XIII.- Colaborar con los organismos competentes para prevenir y controlar la contaminación de las aguas que se descarguen en los sistemas de drenaje y alcantarillado de los centros de población;
+
+XIV.- Concertar acciones y vincularse con los sectores social y privado en materia de equilibrio ecológico y protección al ambiente en el ámbito de su competencia;
+
+XV.- Elaborar el diagnóstico ambiental municipal que corresponda a cada administración pública municipal para que (sic) el deriven los programas relativos;
+
+XVI.- Emitir dictámenes ambientales sobre asuntos específicos en los que tenga participación o sean solicitadas por otras instancias dentro del ámbito de su competencia;
+
+XVII.- Colaborar en la vigilancia y aplicación de las normas oficiales mexicanas expedidas por la Federación en materia de medio ambiente en los casos que corresponda;
+
+XVIII.- Atender y en su caso remitir a las instancias correspondientes, las denuncias efectuadas en materia ambiental de que conozca y sean de competencia municipal;
+
+XIX.- Podrá colaborar con las autoridades federales y estatales, cuando a petición de estas, se requieran conocimientos técnicos en materia ambiental;
+
+XX.- Coordinarse con las diferentes dependencias municipales para el desarrollo de modelos adecuados para el manejo de los recursos naturales y sus elementos, y la planeación del desarrollo sustentable del municipio en materia de protección ambiental; y
+
+XXI.- Las demás facultades que se establezcan en el presente u otros ordenamientos legales.
+
+> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 2011)</small>
+
+###### ARTÍCULO 492
+
+6.- Para la ejecución de la política ambiental del municipio, el Ayuntamiento podrá:
+
+I.- Celebrar convenios de concertación con organizaciones obreras, empresariales y sociales, para la protección del ambiente de conformidad con la Ley Municipal del Estado de Aguascalientes;
+
+II.- Promover la celebración de convenios ton los diversos medios de comunicación para la difusión de información y promoción de acciones ecológicas;
+
+III.- Promover y establecer la entrega de premios y reconocimientos a quienes realicen esfuerzos destacados para la preservación y restauración del equilibrio ecológico y protección al ambiente en el municipio; y
+
+IV.- Las demás atribuciones que para el cumplimiento de los fines que en materia ambiental señale el Ayuntamiento.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE FEBRERO DE 2011)</small>
 
 ###### ARTÍCULO 493.
 
-Se considera de utilidad pública:
+Para los efectos del presente Libro, se considera de utilidad pública dentro del territorio municipal:
 
 I. El ordenamiento ecológico del territorio del Municipio.
 
-II. El establecimiento de áreas naturales protegidas de jurisdicción local y de zonas prioritarias para la preservación y restauración del equilibrio ecológico en el territorio municipal.
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2011)</small>
+
+II. El establecimiento de áreas naturales protegidas de jurisdicción local y de zonas prioritarias para la conservación, preservación y restauración del equilibrio ecológico en el territorio municipal.
 
 III. El establecimiento de zonas de amortiguamiento como medida de prevención ante la presencia de actividades consideradas como riesgosas.
 
 IV. El establecimiento de museos naturales, zoológicos, jardines botánicos e instalaciones similares.
 
-V. El establecimiento de medidas para la prevención y control de la contaminación del aire, agua y suelo del territorio municipal.
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2011)</small>
+
+V. El establecimiento de medidas y acciones tendientes a la protección de la biodiversidad así como para la prevención y control de la contaminación de la atmósfera agua y suelo del territorio municipal.
+
+> <small>(ADICIONADA, P.O. 14 DE FEBRERO DE 2011)</small>
+
+VI. El establecimiento de zonas de salvaguarda, como medida de prevención ante la presencia de actividades que impliquen riesgo a la población; y
+
+> <small>(ADICIONADA, P.O. 14 DE FEBRERO DE 2011)</small>
+
+VII. Las demás acciones que se realicen para el cumplimiento de las disposiciones legales que en materia de ecología dicte la autoridad municipal en el ámbito de su competencia.
 
 ###### ARTÍCULO 494.
 
@@ -5873,75 +6215,29 @@ El Municipio proporcionará las facilidades administrativas e información u ori
 
 ###### ARTÍCULO 496.
 
-En base a lo establecido en la Ley General de Equilibrio Ecológico y Protección al Ambiente y en la Ley de Protección Ambiental para el Estado de Aguascalientes el H. Ayuntamiento, a través de la Dirección de Ecología y Salud tiene las siguientes atribuciones:
+(DEROGADO, P.O. 14 DE FEBRERO DE 2011)
 
-I. Crear, administrar y manejar de (sic) áreas naturales protegidas de competencia municipal en coordinación con el Estado.
-
-II. Establecer, en coordinación con la Secretaría de Seguridad Pública y Tránsito Municipal, de (sic) medidas para retirar de la circulación los vehículos automotores que no cumplan con las Normas Oficiales aplicables.
-
-III. Participar conjuntamente con el Instituto Municipal de Planeación y con la Secretaría de Desarrollo Urbano Municipal, en la elaboración y autorización de proyectos de reglamentación de Zonificación, Usos y Permisos del Suelo así como de los planes y programas de Desarrollo Urbano Municipal; así como negar desarrollos a menos de quince metros de arroyos y ríos de competencia municipal en coordinación con la misma Secretaría.
-
-IV. Otorgar la resolución del impacto ambiental del informe preventivo a las empresas de su competencia.
-
-V. Determinar en el ámbito de su competencia, o solicitar ante el Estado y la Federación, según sea el caso, la limitación, modificación o suspensión de actividades comerciales, industriales, de servicios, de desarrollo urbano y turístico, que puedan causar deterioro ambiental o alteración del equilibrio ecológico.
-
-VI. Llevar y actualizar el registro de las fuentes generadoras de contaminación existentes en el Municipio.
-
-VII. Dictaminar en coordinación con el organismo municipal rector del servicio de agua potable y alcantarillado, de las solicitudes de permiso para descargar aguas residuales en los sistemas de alcantarillado municipal, con base en lo dispuesto por las leyes aplicables.
-
-VIII. Establecer, en coordinación con el organismo municipal rector del servicio de agua potable y alcantarillado, de los criterios ambientales y condiciones particulares de descarga en materia de aguas residuales, industriales, comerciales y de servicios.
-
-IX. Fomentar la participación, la educación ambiental y la corresponsabilidad de la comunidad en el cumplimiento del presente capítulo.
-
-X. Realizar actividades de protección y control ambiental en coordinación con el sector social y privado.
-
-XI. Establecer centros de acopio, los cuales serán lugares cerrados instalados por el Municipio, destinados para la recepción, separación y almacenamiento de residuos no peligrosos para su posterior reuso, reciclaje o disposición final.
-
-XII. Fomentar la realización de programas y proyectos de educación ambiental en todos los sectores de la sociedad.
-
-XIII. Realizar en coordinación con la Dirección de Parques y Jardines del Municipio, campañas de reforestación urbana y rural, congruentes con las del Estado y la Federación.
-
-XIV. Establecer, con la participación del Instituto Municipal de Planeación, los criterios ambientales para el diseño, proyecto y manejo de las áreas verdes y arbolados urbanos.
-
-XV. Vigilar en coordinación con la Federación y el Estado, así como con el Instituto Municipal de Planeación, el adecuado uso y aprovechamiento de los recursos naturales presentes en el territorio municipal.
-
-XVI. Realizar dentro del territorio municipal visitas de inspección a establecimientos, servicios, instalaciones, obras o actividades, aún en días y horas inhábiles, con el fin de vigilar el cumplimiento del presente ordenamiento, y en su caso imponer las sanciones y medidas de seguridad que procedan.
-
-XVII. Participar con el Estado, en la evaluación del impacto ambiental de las obras, proyectos o actividades de competencia estatal, que se realicen en el territorio municipal.
-
-XVIII. Dar atención a la denuncia popular que en el ámbito de su competencia presenten los grupos sociales y los particulares interesados o afectados por los problemas ambientales.
-
-XIX. Promover la organización permanente y ejecución de programas divulgando los procesos, tecnologías y sistemas informativos compatibles con el uso eficiente de la energía.
-
-XX. Diseñar, auspiciar, coordinar y ejecutar programas y proyectos de cooperación estatal, nacional e internacional para el desarrollo del uso eficiente de la energía.
-
-XXI. Elaborar y ejecutar los planes y programas referenciales de eficiencia energética.
-
-XXII. Promover la asistencia técnica a instituciones públicas y privadas y la concertación con organizaciones de financiamiento a programas del uso eficiente de la energía.
-
-XXIII. Coordinar con los demás sectores y las entidades públicas y privadas el desarrollo de políticas de uso eficiente de la energía.
-
-XXIV. Promover el consumo eficiente de energéticos en zonas aisladas y remotas.
-
-XXV. Fomentar y realizar programas de minimización y manejo de residuos especialmente en los sectores industrial, comercial y de servicios.
-
-XXVI. Establecer criterios ambientales, especialmente aquellos relacionados con la mitigación de los efectos que tienen en la zona urbana el calentamiento global.
-
-XXVII. Las demás que otorgue el presente Código y las leyes de la materia.
-
-### CAPÍTULO III. De la Prevención y Control de la Contaminación
+### CAPÍTULO II. De las Áreas Naturales Protegidas
 
 ###### ARTÍCULO 497.
 
 La realización de obras o actividades públicas o privadas que puedan causar desequilibrios ecológicos o rebasar los límites y condiciones señalados en las leyes, los reglamentos y las normas ambientales emitidas por la Federación o el Estado para proteger el ambiente, deberán sujetarse a la autorización previa del Gobierno Municipal o en su caso del Estado o la Federación con base en las competencias señaladas por la Ley General de Equilibrio Ecológico y Protección al Ambiente y la Ley de Protección Ambiental para el Estado de Aguascalientes.
 
-Para otorgar la autorización de uso de suelo se requerirá contar previamente con la autorización ambiental que expida la Secretaría de Servicios Públicos y Ecología, a través de la Dirección de Ecología y Salud.
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
 
-Para obtener la autorización a que se refiere el párrafo anterior, los interesados deberán presentar ante la Secretaría de Servicios Públicos y Ecología una manifestación de impacto ambiental con la dictaminación correspondiente emitida por la Federación o el Estado.
+Para otorgar la autorización de uso de suelo se requerirá contar previamente con la autorización ambiental que expida la Secretaría de Medio Ambiente y Desarrollo Sustentable.
 
-Aquellas obras o actividades que por sus características y de acuerdo a las leyes antes señaladas, no requieran presentar manifiesto de impacto ambiental, deberán presentar un informe preventivo con base en el formato vigente elaborado por la Dirección de Ecología y Salud para tal fin.
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
 
-Corresponderá a la Dirección de Ecología y Salud declarar la procedencia mediante autorización escrita del derribo de arbolado y/o desmonte de vegetación nativa dentro de los límites de la mancha urbana establecidos en el Plan de Desarrollo vigente.
+Para obtener la autorización a que se refiere el párrafo anterior, los interesados deberán presentar ante la Secretaría de Medio Ambiente y Desarrollo Sustentable una manifestación de impacto ambiental con la dictaminación correspondiente emitida por la Federación o el Estado.
+
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
+
+Aquellas obras o actividades que por sus características y de acuerdo a las leyes antes señaladas, no requieran presentar manifiesto de impacto ambiental, deberán presentar un informe preventivo con base en el formato vigente elaborado por la Secretaría de Medio Ambiente y Desarrollo Sustentable para tal fin.
+
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
+
+Corresponderá a la Secretaría de Medio Ambiente y Desarrollo Sustentable declarar la procedencia mediante autorización escrita del derribo de arbolado y/o desmonte de vegetación nativa dentro de los límites de la mancha urbana establecidos en el Plan de Desarrollo vigente.
 
 ###### ARTÍCULO 498.
 
@@ -5967,7 +6263,9 @@ VIII.- Manejar el observatorio urbano con personal profesional y con el perfil a
 
 IX. La disponibilidad de territorio, el uso del suelo señalado en el ordenamiento ecológico y la disponibilidad de los recursos necesarios tales como el agua.
 
-### CAPÍTULO IV. De los Recursos Naturales
+### CAPÍTULO III. De la Prevención y Control de la Contaminación
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE FEBRERO DE 2011)</small>
 
 ###### ARTÍCULO 499.
 
@@ -5985,39 +6283,59 @@ III. La descripción de las actividades que podrán efectuarse en el área.
 
 IV. La causa de utilidad pública que, en su caso, motive la expropiación de terrenos para la adquisición del dominio, observándose las prevenciones que al respecto determinan las leyes y reglamentos.
 
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
+
 ###### ARTÍCULO 501.
 
-Los programas de manejo y operación integral de las áreas naturales protegidas de competencia municipal serán elaborados por el Municipio o a través de terceros.
+Los programas de manejo y operación integral de las áreas naturales protegidas de competencia municipal serán elaborados por el municipio, o por alguna de sus dependencias o a través de terceros.
+
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
 
 ###### ARTÍCULO 502.
 
-Las áreas naturales protegidas municipales a que se refiere el artículo anterior se establecerán mediante declaratoria que expida el Ejecutivo del Estado a iniciativa del H. Ayuntamiento.
+Las áreas naturales protegidas municipales a que se refiere el artículo anterior se establecerán mediante declaratoria que expida el H. Ayuntamiento.
 
-> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE FEBRERO DE 2011)</small>
 
 ###### ARTÍCULO 503.
 
-Para la expedición de la declaratoria será necesario realizar previamente los estudios ambientales, ecológicos y socioeconómicos que sean necesarios para justificar la misma. Lo anterior, en estricto cumplimiento del artículo 67 de la Ley de Protección Ambiental para el Estado de Aguascalientes.
+Para la expedición de la declaratoria será necesario realizar previamente un estudio técnico justificativo. Lo anterior, en estricto cumplimiento de los requisitos que señala el artículo 65 de la Ley de Protección Ambiental para el Estado de Aguascalientes.
 
-Dichos estudios deberán ser realizados por la Dirección de Ecología y Salud adscrita a la Secretaría de Servicios Públicos y Ecología o a través de terceros, en coordinación con las demás dependencias de la administración municipal, las cuales podrán, en su caso, solicitar el apoyo del Estado y la Federación, así como la participación de las instituciones de educación superior, las asociaciones de profesionistas o cualquier ciudadano interesado o relacionado con la materia o el tema.
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
 
-Una vez integrados debidamente los estudios a que se refieren los párrafos anteriores, éstos se pondrán a disposición del público en general, para su consulta en la Dirección de Ecología y Salud, y se les solicitará la opinión a las personas interesadas en el proyecto de la declaratoria, de acuerdo con el siguiente procedimiento:
+Dicho estudio deberá ser aprobado por la Secretaría de Medio Ambiente y Desarrollo Sustentable, en coordinación con las demás dependencias de la administración municipal, las cuales podrán, en su caso, solicitar el apoyo del Estado y la Federación, así como la participación de las instituciones de educación superior, las asociaciones de profesionistas o cualquier ciudadano interesado o relacionado con la materia o el tema.
+
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
+
+Una vez integrados debidamente los estudios a que se refieren los párrafos anteriores, éstos se pondrán a disposición del público en general, para su consulta en la Secretaría de Medio Ambiente y Desarrollo Sustentable, y se les solicitará la opinión a las personas interesadas en el proyecto de la declaratoria, de acuerdo con el siguiente procedimiento:
+
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2009)</small>
 
 I.- El Presidente Municipal dará aviso público del inicio del proceso de declaratoria, difundiéndolo en el Periódico Oficial del Estado de Aguascalientes y un periódico de mayor circulación en el Municipio;
 
-II.- En el caso de los propietarios, éstos serán notificados personalmente en el último domicilio que hayan señalado ante autoridad municipal y deberán dar su opinión sobre el proyecto de la declaratoria, por escrito y ante la Dirección de Ecología y Salud, en un plazo de cinco días hábiles contados a partir del día siguiente al que surta efectos la notificación; y
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2011)</small>
 
-III.- En el caso de los habitantes, vecinos y cualquier otro interesado, se establecerá un plazo y un calendario de audiencias públicas para que presenten, por escrito y ante la Dirección de Ecología y Salud, los planteamientos que consideren necesarios respecto del proyecto de la declaratoria. Lo anterior, se dará a conocer en la publicación hecha en el Periódico Oficial del Estado de Aguascalientes, la cual se hace referencia en la fracción I del presente artículo.
+II.- En el caso de los propietarios, éstos serán notificados personalmente en el último domicilio que hayan señalado ante autoridad municipal y deberán dar su opinión sobre el proyecto de la declaratoria, por escrito y ante la Secretaría de Medio Ambiente y Desarrollo Sustentable, en un plazo de cinco días hábiles contados a partir del día siguiente al que surta efectos la notificación; y
 
-Una vez realizada la consulta anteriormente señalada, la Dirección de Ecología y Salud, en un plazo de diez días hábiles, deberá remitir el expediente que contenga toda la información relativa a los estudios correspondientes y la consulta respectiva a la Secretaría del H. Ayuntamiento y Dirección General de Gobierno así como a la Comisión permanente de Ecología.
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2011)</small>
 
-El proyecto final de la declaratoria será presentado por la Comisión Permanente de Ecología sin perjuicio de lo establecido en el artículo 71 del Código Municipal de Aguascalientes vigente, para su análisis, revisión y, en su caso, aprobación. En caso de ser aprobada la declaratoria, se presentará la iniciativa al Ejecutivo del Estado.
+III.- En el caso de los habitantes, vecinos y cualquier otro interesado, se establecerá un plazo y un calendario de audiencias públicas para que presenten, por escrito y ante la Secretaría de Medio Ambiente y Desarrollo Sustentable, los planteamientos que consideren necesarios respecto del proyecto de la declaratoria. Lo anterior, se dará a conocer en la publicación hecha en el Periódico Oficial del Estado de Aguascalientes, la cual se hace referencia en la fracción I del presente artículo.
 
-### CAPÍTULO V. De la Educación Ambiental
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
+
+Una vez realizada la consulta anteriormente señalada, la Secretaría de Medio Ambiente y Desarrollo Sustentable, en un plazo de diez días hábiles, deberá remitir el expediente que contenga toda la información relativa a los estudios correspondientes y la consulta respectiva a la Secretaría del H. Ayuntamiento y Dirección General de Gobierno así como a la Comisión Permanente de Ecología.
+
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
+
+Para la declaratoria de un área natural protegida municipal se seguirá el procedimiento establecido en el artículo 83 de la Ley de Protección Ambiental para el Estado de Aguascalientes.
+
+### CAPÍTULO IV. De los Recursos Naturales
+
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
 
 ###### ARTÍCULO 504.
 
-Para promover y efectuar el saneamiento atmosférico, el Municipio a través de la Dirección de Ecología y Salud deberá:
+Para promover y efectuar el saneamiento atmosférico, el Municipio a través de la Secretaria de Medio Ambiente y Desarrollo Sustentable deberá:
 
 I. Requerir en el ámbito de su competencia a todas las personas que realicen actividades contaminantes de la atmósfera, para la aplicación de medidas necesarias para reducir o eliminar las emisiones atmosféricas contaminantes, según lo señalado en la normatividad correspondiente.
 
@@ -6039,17 +6357,23 @@ VIII. Coordinar con la Dirección de la Unidad Municipal de Protección Civil la
 
 IX. Identificar las áreas generadoras de tolvaneras dentro del territorio municipal y establecer programas de control con la participación de la población para tomar las medidas que se consideren convenientes.
 
-X. Proponer a través de la Dirección de Ecología y Salud, los convenios necesarios con la Federación y el Gobierno del Estado para el cumplimiento de este artículo.
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2011)</small>
+
+X. Proponer a través de la Secretaría de Medio Ambiente y Desarrollo Sustentable, los convenios necesarios con la Federación y el Gobierno del Estado para el cumplimiento de este artículo.
 
 ###### ARTÍCULO 505.
 
 La emisión de contaminantes a la atmósfera no deberá exceder los niveles máximos permisibles que establece la normatividad vigente, por lo que será materia de aplicación de una sanción cuando se produzca, expela, descargue o emita contaminantes que alteren la atmósfera o que puedan provocar degradación o molestias en perjuicio de la salud humana, la flora, fauna y en general los ecosistemas del municipio.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE FEBRERO DE 2011)</small>
+
 ###### ARTÍCULO 506.
 
 Se prohíbe y será materia de sanción el realizar quemas al aire libre de cualquier material o residuo, sólido o líquido, sin autorización previa.
 
-Cuando se pretenda realizar cualquier tipo de quema, deberá de solicitar a la Dirección de Ecología y Salud, la autorización por escrito que deberá contener la siguiente información:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE FEBRERO DE 2011)</small>
+
+Cuando se pretenda realizar cualquier tipo de quema, deberá de solicitar a la Secretaría de Medio Ambiente y Desarrollo Sustentable, la autorización por escrito que deberá contener la siguiente información:
 
 I. Nombre y domicilio del solicitante.
 
@@ -6065,41 +6389,49 @@ VI. Tiempo aproximado de duración.
 
 VII. Medidas de seguridad que determine la autoridad competente, la cual cumplirá el solicitante durante la actividad, de la quema.
 
-La autorización será por cada quema que se pretenda realizar y la Dirección de Ecología y Salud se reserva la facultad de negar o condicionar dicha quema, cuando pudiera representar riesgos y/o impactos ambientales.
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
+
+La autorización será por cada quema que se pretenda realizar y la Secretaría de Medio Ambiente y Desarrollo Sustentable se reserva la facultad de negar o condicionar dicha quema, cuando pudiera representar riesgos y/o impactos ambientales.
+
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
 
 ###### ARTÍCULO 507.
 
-Se requerirá autorización de la Secretaría de Servicios Públicos y Ecología para la instalación y funcionamiento de ladrilleras y alfarerías.
+Se requerirá autorización de la Secretaría de Medio Ambiente y Desarrollo Sustentable para la instalación y funcionamiento de ladrilleras y alfarerías.
 
 Para la autorización anterior el interesado deberá presentar solicitud de permiso de funcionamiento para ladrillera y/o alfarería en el formato que para tal fin emita la Secretaría y deberá ir acompañada del informe preventivo correspondiente y de la constancia de alineamiento y compatibilidad urbanística.
 
-La instalación de ladrilleras y/o alfarerías en los cauces de los arroyos se encuentra expresamente prohibida, sólo se autorizará la instalación de las mismas en los sitios que para tal fin haya designado el H. Ayuntamiento, a través de la Dirección de Ecología y Salud y el Instituto Municipal de Planeación, y siempre que éstos se encuentren fuera de las zonas habitacionales y con apego a la normatividad vigente y con su respectiva zona de amortiguamiento.
+La instalación de ladrilleras y/o alfarerías en los cauces de los arroyos se encuentra expresamente prohibida, sólo se autorizará la instalación de las mismas en los sitios que para tal fin haya designado el H. Ayuntamiento, a través de la Secretaría (sic) Medio Ambiente y Desarrollo Sustentable y el Instituto Municipal de Planeación, y siempre que estos se encuentren fuera de las zonas habitacionales y con apego a la normatividad vigente y con su respectiva zona de amortiguamiento.
 
-La Dirección de Ecología y Salud deberá coordinar los convenios con las autoridades competentes para la planeación de una zona controlada y verificada de estos servicios.
+La Secretaría (sic) Medio Ambiente y Desarrollo Sustentable deberá coordinar los convenios con las autoridades competentes para la planeación de una zona controlada y verificada de estos servicios.
 
 El Municipio en coordinación con el Estado definirá los combustibles permitidos para la quema de ladrillo, cerámica y materiales similares, los cuales le serán señalados al interesado en la autorización concedida y serán los únicos que podrán utilizarse.
 
 Los productores de ladrillo y/o cerámica deberán instalar el equipo necesario, para prevenir y controlar la contaminación atmosférica.
 
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
+
 ###### ARTÍCULO 508.
 
-Para la operación y funcionamiento de las fuentes fijas de jurisdicción municipal que emitan o puedan emitir olores, gases o partículas sólidas o liquidas a la atmósfera, se requerirá contar con permiso ambiental de funcionamiento emitido por la Dirección de Ecología y Salud y cumplir además con las siguientes obligaciones:
+Para la operación y funcionamiento de las fuentes fijas de jurisdicción municipal que emitan o puedan emitir olores, gases o partículas sólidas o liquidas a la atmósfera, se requerirá contar con permiso ambiental de funcionamiento emitido por la Secretaría de Medio Ambiente y Desarrollo Sustentable y cumplir además con las siguientes obligaciones:
 
-I. Emplear equipos y sistemas que controlen las emisiones a la atmósfera, para que éstas no rebasen los niveles máximos permisibles establecidos en las Normas Oficiales Mexicanas.
+I.- Emplear equipos y sistemas que controlen las emisiones a la atmósfera, para que éstas no rebasen los niveles máximos permisibles establecidos en las Normas Oficiales Mexicanas;
 
-II. Integrar un inventario de sus emisiones contaminantes a la atmósfera, en el formato que determine la Dirección de Ecología y Salud.
+II.- Integrar un inventario de sus emisiones contaminantes a la atmósfera, en el formato que determine la Secretaría de Medio Ambiente y Desarrollo Sustentable;
 
-III. Medir sus emisiones contaminantes a la atmósfera, conforme a lo establecido por las Normas Oficiales Mexicanas aplicables y registrar en el formato que determine la Dirección de Ecología y Salud y remitir los registros a ésta, cuando se le solicite.
+III.- Medir sus emisiones contaminantes a la atmósfera, conforme a lo establecido por las Normas Oficiales Mexicanas aplicables y registrar en el formato que determine la Secretaría de Medio Ambiente y Desarrollo Sustentable y remitir los registros a ésta, cuando se le solicite;
 
-IV. Presentar a la Dirección de Ecología y Salud, el monitoreo perimetral de sus emisiones contaminantes a la atmósfera, cuando la fuente de que se trate se localice en zonas urbanas y suburbanas, cuando colinde con áreas naturales protegidas y cuando por sus características de operación o por sus materias primas, productos y subproductos, puedan causar grave deterioro al ambiente, a juicio de la Dirección de Ecología y Salud.
+IV.- Presentar a la Secretaría de Medio Ambiente y Desarrollo Sustentable, el monitoreo perimetral de sus emisiones contaminantes a la atmósfera, cuando la fuente de que se trate se localice en zonas urbanas y suburbanas, cuando colinde con áreas naturales protegidas y cuando por sus características de operación o por sus materias primas, productos y subproductos, puedan causar grave deterioro al ambiente, a juicio de la Secretaría de Medio Ambiente y Desarrollo Sustentable;
 
-V. Realizar un programa de operación y mantenimiento de equipos y procesos que generen emisiones contaminantes y de los equipos de control de anticontaminantes.
+V.- Realizar un programa de operación y mantenimiento de equipos y procesos que generen emisiones contaminantes y de los equipos de control de anticontaminantes; y
 
-VI. Avisar de inmediato a la Dirección en caso de falla del equipo de control, para que ésta determine lo conducente.
+VI.- Avisar de inmediato a la Secretaría de Medio Ambiente y Desarrollo Sustentable en caso de falla del equipo de control, para que ésta determine lo conducente.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE FEBRERO DE 2011)</small>
 
 ###### ARTÍCULO 509.
 
-Para la obtención del permiso ambiental de funcionamiento, el interesado deberá presentar ante la Dirección de Ecología y Salud, una solicitud conteniendo la siguiente información:
+Para la obtención del permiso ambiental de funcionamiento, el interesado deberá presentar ante la Secretaría de Medio Ambiente y Desarrollo Sustentable, una solicitud conteniendo la siguiente información:
 
 I. Datos generales del promovente, anexando el mapa de localización.
 
@@ -6123,9 +6455,13 @@ X. Ductos de emisión e indicar altura y diámetro, y especificar cuando las emi
 
 XI. Programa de operación y mantenimiento de equipos y procesos.
 
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
+
 ###### ARTÍCULO 510.
 
-La Dirección, una vez presentada la solicitud e integrado el expediente completo, deberá emitir en un plazo de veinte días hábiles su resolución fundada y motivada, en la que autorice o niegue el permiso ambiental de funcionamiento.
+La Secretaría de Medio Ambiente y Desarrollo Sustentable, una vez presentada la solicitud e integrado el expediente completo, deberá emitir en un plazo de veinte días hábiles su resolución fundada y motivada, en la que autorice o niegue el permiso ambiental de funcionamiento.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE FEBRERO DE 2011)</small>
 
 ###### ARTÍCULO 511.
 
@@ -6133,7 +6469,9 @@ El permiso ambiental de funcionamiento a que se refiere el artículo anterior, d
 
 I. Los límites máximos permisibles de emisión por tipo de contaminante a que deberá de sujetarse la fuente emisora, cuando por sus características especiales de construcción o sus peculiaridades en los procesos que comprenden no puedan encuadrarse dentro de las normas oficiales mexicanas vigentes.
 
-II. Los inventarios y equipos deberá (sic) remitirse a la Dirección con el inventario de emisiones.
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2011)</small>
+
+II. Los inventarios y equipos deberán remitirse a la Secretaría de Medio Ambiente y Desarrollo Sustentable con el inventario de emisiones.
 
 III. La periodicidad con que deberá llevarse a cabo la medición y el monitoreo de emisiones.
 
@@ -6141,11 +6479,13 @@ IV. Las medidas y acciones que deberán llevar se a cabo en el caso de una conti
 
 V. Los equipos y el programa de reducción de emisiones contaminantes a la atmósfera.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE FEBRERO DE 2011)</small>
+
 ###### ARTÍCULO 512.
 
-Corresponde al H. Ayuntamiento, a través del organismo operador municipal de los Servicios de Agua Potable, Alcantarillado y Saneamiento, en coordinación con la Dirección de Ecología y Salud en cuanto a la prevención y control de la contaminación y al uso racional del agua, lo siguiente:
+Corresponde al H. Ayuntamiento, a través del organismo operador municipal de los Servicios de Agua Potable, Alcantarillado y Saneamiento, en coordinación con la Secretaría de Medio Ambiente y Desarrollo Sustentable en cuanto a la prevención y control de la contaminación y al uso racional del agua, lo siguiente:
 
-l. Vigilar que las aguas de los sistemas públicos de abastecimiento de las comunidades urbanas y rurales reciban tratamiento de potabilización, de acuerdo a la normatividad vigente.
+I. Vigilar que las aguas de los sistemas públicos de abastecimiento de las comunidades urbanas y rurales reciban tratamiento de potabilización, de acuerdo a la normatividad vigente.
 
 II. Elaborar y aplicar los programas necesarios para prevenir y controlar la contaminación de las aguas de jurisdicción municipal.
 
@@ -6169,107 +6509,69 @@ Se prohíbe el almacenamiento de aguas residuales que no se ajusten a las especi
 
 Los usuarios tanto públicos como privados que viertan líquidos residuales en la red municipal, deberán obtener la autorización correspondiente del Organismo Operador Municipal del Servicio de Agua Potable, Alcantarillado y Saneamiento, y reportar periódicamente a ésta de acuerdo al giro que se trate, los resultados del análisis de la calidad de descarga.
 
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
+
 ###### ARTÍCULO 515.
 
-Se faculta a la autoridad municipal en caso de contravención a lo dispuesto anteriormente para cancelar la descarga, independientemente de la aplicación de las sanciones que correspondan. El Organismo Operador Municipal del Servicio de Agua Potable, Alcantarillado y Saneamiento, deberá enviar copia del resultado a la Dirección de Ecología y Salud.
+Se faculta a la autoridad municipal en caso de contravención a lo dispuesto anteriormente para cancelar la descarga, independientemente de la aplicación de las sanciones que correspondan. El Organismo Operador Municipal del Servicio de Agua Potable, Alcantarillado y Saneamiento, deberá enviar copia del resultado a la Secretaría de Medio Ambiente y Desarrollo Sustentable.
 
 ###### ARTÍCULO 516.
 
-En cuanto a la protección del suelo y el manejo de los residuos sólidos municipales, corresponde al H. Ayuntamiento, a través de la Dirección de Ecología y Salud:
-
-I. Vigilar que se dé el manejo adecuado a los residuos sólidos que se generen por la prestación de servicios públicos municipales.
-
-II. Vigilar que el servicio municipal de limpia realice la recolección, acopio, reciclaje y disposición final de los residuos sólidos municipales con apego a la normatividad ambiental vigente y sin que represente riesgos para el ambiente y la salud.
-
-III. Celebrar conjuntamente con la Dirección de Limpia y Aseo Público, acuerdos de coordinación con los municipios colindantes para enviar o recibir residuos sólidos no peligrosos para su disposición final.
-
-IV. Realizar las denuncias que correspondan por fuentes generadoras de residuos sólidos peligrosos en el territorio municipal.
-
-V. Coordinar con la Dirección de Limpia y Aseo Público, un inventario de los sitios autorizados de disposición final de residuos sólidos no peligrosos y de las fuentes generadoras que incluirán un registro de las cantidades que se producen, sus componentes y las características de los sistemas y sitios de manejo, transporte, almacenamiento, alojamiento, recuperación, tratamiento y disposición final.
-
-VI. Fomentar el desarrollo de infraestructura de apoyo para acopio de residuos sólidos municipales.
-
-VII. Fomentar a través de programas de educación ambiental la disminución en la generación de basura y residuos y cambio en patrones de consumo y producción.
-
-VIII. Solicitar al generador o prestador de servicios de recolección de residuos peligrosos, un plan de contingencias ambientales.
+(DEROGADO, P.O. 14 DE FEBRERO DE 2011)
 
 ###### ARTÍCULO 517.
 
-Las personas físicas o morales cuya actividad preponderante sea la compra, selección, transportación, acopio, aprovechamiento de residuos sólidos deberá contar con licencia de funcionamiento, conforme a lo establecido en el presente Código.
+(DEROGADO, P.O. 14 DE FEBRERO DE 2011)
 
 ###### ARTÍCULO 518.
 
-Para la obtención de la licencia mencionada en el artículo anterior, se requerirá de la presentación de una solicitud, misma que será proporcionada por la Dirección de Ecología y Salud.
+(DEROGADO, P.O. 14 DE FEBRERO DE 2011)
 
 ###### ARTÍCULO 519.
 
-Queda prohibido y será materia de sanción descargar, depositar o infiltrar contaminantes en los suelos del territorio municipal, sin el cumplimiento de las Normas Oficiales Mexicanas y reglamentos vigentes.
+(DEROGADO, P.O. 14 DE FEBRERO DE 2011)
 
 ###### ARTÍCULO 520.
 
-Los particulares que realicen actividades que generen residuos sólidos municipales, que no utilicen los servicios públicos de recolección, manejo, transporte y disposición final y no cuenten con autorización para hacerlo directamente en estricto apego a este Código, podrán ser amonestados, sancionados económicamente o arrestados hasta por treinta y seis horas por la autoridad municipal correspondiente.
-
-También se aplicarán las sanciones anteriores en los siguientes casos:
-
-I. Destinar terrenos como sitios de disposición final de residuos sólidos, semilíquidos o líquidos sin la autorización en materia de impacto ambiental por parte de la autoridad competente.
-
-II. Descargar residuos sólidos, semilíquidos o líquidos de cualquier tipo en la vía pública, caminos, cauces, vasos, terrenos agrícolas o baldíos.
-
-III. Transportar residuos sólidos en vehículos que no estén debidamente protegidos para evitar su dispersión en el ambiente.
-
-IV. Depositar en áreas de destino final residuos sólidos provenientes de otros municipios o entidades federativas, sin autorización previa del Municipio.
-
-V. Abstenerse de recoger las heces fecales de sus mascotas que sean arrojadas en vía pública, áreas de uso común, áreas de interés común y medianerías en el interior del Municipio.
-
-VI. Encender fogatas o realizar quemas de cualquier índole, en vía pública, áreas de uso común, áreas de interés común y medianerías en el interior del Municipio.
-
-VII. Utilizar como combustible cualquier tipo de material de desecho que genere deterioro ambiental y/o que a partir de su utilización genere algún otro tipo de desecho inadmisible en los contenedores para desechos domésticos.
+(DEROGADO, P.O. 14 DE FEBRERO DE 2011)
 
 ###### ARTÍCULO 521.
 
-Los particulares que realicen actividades que generen residuos sólidos no municipales y de manejo especial, que utilicen los servicios públicos o privados de recolección y cuya disposición final se pretenda realizar en el relleno sanitario municipal, deberán obtener autorización de la Dirección de Ecología y Salud, mediante la presentación de oficio que deberá contener como datos mínimos:
+(DEROGADO, P.O. 14 DE FEBRERO DE 2011)
 
-I. Nombre o razón social de la empresa.
-
-II. Domicilio de la empresa, domicilio para oír o recibir notificaciones.
-
-III. Descripción detallada del residuo.
-
-IV. Peso y volumen del mismo.
-
-V. Frecuencia con la que se pretende disponer.
-
-VI. En caso que el residuo sea probablemente peligroso, de acuerdo con la normatividad ambiental vigente, se deberá presentar el reporte del análisis de laboratorio acreditado ante la entidad mexicana de acreditación que demuestre que no es corrosivo, reactivo, explosivo, toxico, inflamable, biológico o infeccioso "CRETIB".
-
-La autorización dependerá de la normatividad ambiental vigente así como de los alineamientos de operación del sitio de disposición final.
-
-La autorización podrá ser condicionada y tendrá una vigencia determinada.
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
 
 ###### ARTÍCULO 522.
 
-La apertura de sitios de disposición final de residuos sólidos específicos tales como escombro, material de azolve, tierra, materiales pétreos, Iodos provenientes de sistemas de tratamientos de aguas residuales y otros, deberán ser previamente autorizados por la Dirección de Ecología y Salud.
+La apertura de sitios de disposición final de residuos sólidos específicos tales como escombro, material de azolve, tierra, materiales pétreos, lodos provenientes de sistemas de tratamientos de aguas residuales y otros, deberán ser previamente autorizados por la Secretaría (sic) Medio Ambiente y Desarrollo Sustentable.
+
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
 
 ###### ARTÍCULO 523.
 
 Son obligaciones de los particulares con concesión o contrato para el servicio de recolección, transporte y confinamiento de residuos sólidos municipales las siguientes:
 
-I. Contar con todos los requisitos y permisos actualizados establecidos en las leyes o disposiciones en la materia vigentes.
+I.- Contar con todos los requisitos y permisos actualizados establecidos en las leyes o disposiciones en la materia vigentes; y
 
-II. Presentar su proyecto o programa de operación a la Dirección.
+II.- Presentar su proyecto o programa de operación a la Secretaría de Medio Ambiente y Desarrollo Sustentable.
+
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
 
 ###### ARTÍCULO 524.
 
-Sólo se podrá autorizar el confinamiento de residuos no peligrosos cuando éstos no puedan ser técnica, ni económicamente sujetos a reuso o cualquier tipo de tratamiento.
+Sólo se podrá autorizar el confinamiento de residuos no peligrosos cuando estos no puedan ser técnica, ni económicamente sujetos a reúsos o cualquier tipo de tratamiento.
 
 ###### ARTÍCULO 525.
 
 Queda prohibido producir emisiones de energía térmica, sonora, lumínica y radiaciones ionizantes electromagnéticas; así como vibraciones y olores perjudiciales al ambiente o a la salud, o que afecten la flora y/o la fauna, los bienes y ecosistemas, cuando se contravengan las Normas Oficiales vigentes y las disposiciones legales correspondientes.
 
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
+
 ###### ARTÍCULO 526.
 
 Toda persona que realice actividades industriales, comerciales, de servicios o de cualquier otro tipo, que por su naturaleza producen emisiones de olores, ruidos, vibraciones, energía térmica, electromagnética o lumínica, que rebasen los límites permitidos por los reglamentos y Normas Oficiales o estén afectando a la población, deberán poner en práctica medidas correctivas, instalar los dispositivos y aislamientos necesarios para reducir o eliminar dichas emisiones a niveles permitidos y eliminar la molestia o en su caso optar por su reubicación.
 
-En el caso de la contaminación electromagnética el responsable deberá informar a la Dirección de Ecología y Salud sobre el nivel de radiación que estas emiten, así como contar con el instrumento de medición adecuado para evaluar si los niveles permitidos están siendo rebasados y ponen en riesgo la salud de seres humanos, animales y fauna. En el lugar donde existan antenas, el personal responsable de su funcionamiento deberá contar con el conocimiento suficiente.
+En el caso de la contaminación electromagnética el responsable deberá informar a la Secretaría de Medio Ambiente y Desarrollo Sustentable sobre el nivel de radiación que estas emiten, así como contar con el instrumento de medición adecuado para evaluar si los niveles permitidos están siendo rebasados y ponen en riesgo la salud de seres humanos, animales y fauna. En el lugar donde existan antenas, el personal responsable de su funcionamiento deberá contar con el conocimiento suficiente.
 
 ###### ARTÍCULO 527.
 
@@ -6287,51 +6589,59 @@ II. Reparar los daños causados en caso de que la recuperación y restablecimien
 
 Serán responsables solidarios por los daños que se produzcan tanto el generador como las empresas que presten los servicios para el manejo de los residuos no peligrosos.
 
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
+
 ###### ARTÍCULO 529.
 
-Cuando se presente una situación de contingencia ambiental o emergencia ecológica dentro del Municipio, producida por fuentes fijas o móviles de contaminación o por la ejecución de obras o actividades que pongan en riesgo inminente el equilibrio ecológico o la seguridad y la salud pública, la Dirección estará facultada para:
+Cuando se presente una situación de contingencia ambiental o emergencia ecológica dentro del Municipio, producida por fuentes fijas o móviles de contaminación o por la ejecución de obras o actividades que pongan en riesgo inminente el equilibrio ecológico o la seguridad y la salud pública, la Secretaria del Medio Ambiente y Desarrollo Sustentable estará facultada para:
 
-I. Clausurar parcialmente las obras o actividades.
+I.- Clausurar parcialmente las obras o actividades;
 
-II Clausurar totalmente las obras o actividades.
+II.- Clausurar totalmente las obras o actividades; y
 
-III. Reubicar la fuente contaminante conforme a la normatividad aplicable.
+III.- Reubicar la fuente contaminante conforme a la normatividad aplicable.
 
-La Dirección se coordinará en todo lo necesario con las autoridades competentes para la recolección, transportación y confinamiento de los desechos resultantes hasta quedar resarcida o controlada en su totalidad dicha situación.
+La Secretaría del Medio Ambiente y Desarrollo Sustentable se coordinará en todo lo necesario con las autoridades competentes para la recolección, transportación y confinamiento de los desechos resultantes hasta quedar resarcida o controlada en su totalidad dicha situación.
+
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
 
 ###### ARTÍCULO 530.
 
-La realización de espectáculos públicos y actividades culturales y/o religiosos que generen emisiones de ruido, energía térmica, lumínica, vibraciones, gases partículas, olores y radiación, que puedan rebasar los límites permitidos por las Normas Oficiales Mexicanas, y que causen molestias a la población y/o daños al ambiente y a la salud, deberán obtener previo a su realización autorización por parte de la Dirección de Ecología y Salud.
+La realización de espectáculos públicos y actividades culturales y/o religiosos que generen emisiones de ruido, energía térmica, lumínica, vibraciones, gases partículas, olores y radiación, que puedan rebasar los límites permitidos por las Normas Oficiales Mexicanas, y que causen molestias a la población y/o daños al ambiente y a la salud, deberán obtener previo a su realización autorización por parte de la Secretaría de Medio Ambiente y Desarrollo Sustentable.
 
-Para obtener la autorización anterior deberán presentar solicitud por escrito ante dicha Dirección la cual evaluará a través de un informe preventivo el impacto ambiental y/o molestias que el espectáculo público o actividad cultural y/o religiosa pública podría generar, y con base en dicha evaluación dictará las condicionantes a la que se sujetará la realización de las actividades señaladas.
+Para obtener la autorización anterior deberán presentar solicitud por escrito ante dicha Secretaría la cual evaluará a través de un informe preventivo el impacto ambiental y/o molestias que el espectáculo público o actividad cultural y/o religiosa pública podría generar, y con base en dicha evaluación dictará las condicionantes a la que se sujetará la realización de las actividades señaladas.
 
 Deberán de presentar cuando sea el caso, todas las autorizaciones vigentes federales y estatales que sean aplicables.
 
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
+
 ###### ARTÍCULO 531.
 
-La Dirección de Ecología y Salud emitirá las condiciones particulares para el control de niveles de ruido que generan las industrias de servicios que van de puerta en puerta, incluyendo el perifoneo público.
+La Secretaría de Medio Ambiente y Desarrollo Sustentable emitirá las condiciones particulares para el control de niveles de ruido que generan las industrias de servicios que van de puerta en puerta, incluyendo el perifoneo público.
 
-### CAPÍTULO VI. De la Participación Social y la Coordinación Gubernamental
+### CAPÍTULO V. De la Educación Ambiental
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE MARZO DE 2008)</small>
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
 
 ###### ARTÍCULO 532.
 
-Para la protección de la flora y fauna silvestre y acuática existente en el municipio, el H. Ayuntamiento podrá celebrar, con la intervención que corresponda al Gobierno del Estado, acuerdos con la Federación para:
+Para la protección de la flora y fauna silvestre existente en el municipio, el H. Ayuntamiento podrá celebrar, con la intervención que corresponda al Gobierno del Estado, acuerdos con la Federación para:
 
-I. Apoyar a la Procuraduría Federal de Protección al Ambiente para hacer cumplir el establecimiento, modificación y/o levantamiento de las vedas de flora y fauna silvestre y acuática dentro del territorio municipal.
+I.- Apoyar a la Procuraduría Federal de Protección al Ambiente para hacer cumplir el establecimiento, modificación y/o levantamiento de las vedas de flora y fauna silvestre y acuática dentro del territorio municipal;
 
-II. Apoyar al Instituto Nacional de Ecología y a la Secretaría de Medio Ambiente Recursos Naturales y Pesca en la vigilancia y control del aprovechamiento de recursos naturales en áreas que sean el hábitat de especies de flora y fauna silvestre y acuática, especialmente en las endémicas, amenazadas o en peligro de extinción existentes en el municipio.
+II.- Apoyar a la Secretaría de Medio Ambiente y Recursos Naturales en la vigilancia y control del aprovechamiento de recursos naturales en áreas que sean el hábitat de especies de flora y fauna silvestre, especialmente en las endémicas, amenazadas o en peligro de extinción existentes en el municipio;
 
-III. Apoyar a la Secretaría de Medio Ambiente y Recurso Naturales, en el control de la caza, venta, explotación y aprovechamiento de especies de flora y fauna silvestre y acuática existentes en el municipio.
+III.- Apoyar a la Secretaría de Medio Ambiente y Recursos Naturales, en el control de la caza, venta, explotación y aprovechamiento de especies de flora y fauna silvestre existentes en el municipio;
 
-IV. Denunciar ante la Procuraduría Federal de Protección al Ambiente, el Instituto Nacional de Ecología o la Secretaría de Medio Ambiente y Recursos Naturales, la caza, captura, compra o tráfico ilegal de especies de flora y fauna silvestre y acuática existente en el municipio.
+IV.- Denunciar ante la Procuraduría Federal de Protección al Ambiente y/o la Procuraduría Estatal de Protección al Ambiente, la caza, captura, compra o tráfico ilegal de especies de flora y fauna silvestre existente en el municipio; y
 
-V. Apoyar a la Secretaría de Medio Ambiente y Recursos Naturales en la elaboración y/o actualización del inventario de las especies de flora y fauna silvestre y acuática existente en el municipio.
+V.- Apoyar a la Secretaría de Medio Ambiente y Recursos Naturales en la elaboración y/o actualización del inventario de las especies de flora y fauna silvestre y acuática existente en el municipio.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE FEBRERO DE 2011)</small>
 
 ###### ARTÍCULO 533.
 
-El Municipio, a través de la Secretaría de Servicios Públicos y Ecología:
+El Municipio, a través de la Secretaría de Medio Ambiente y Desarrollo Sustentable:
 
 I. Fomentará el desarrollo de áreas verdes que contengan vegetación original, esto tanto en las áreas de donación como en zonas naturales sujetas a régimen de protección.
 
@@ -6351,11 +6661,13 @@ VIII. Coadyuvará en la vigilancia ambiental en coordinación con la Procuradur�
 
 IX. Promoverá el desarrollo de programas de difusión en materia ambiental.
 
-### CAPÍTULO VII. De la Denuncia Popular
+### CAPÍTULO VI. De la Participación Social y la Coordinación Gubernamental
+
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
 
 ###### ARTÍCULO 534.
 
-Corresponde al Municipio a través de la Secretaría de Servicios Públicos y Ecología el fomento e impulso a los planes, proyectos y programas de educación ambiental no formal e informal entre todos los sectores de la sociedad y en todas las comunidades del territorio municipal.
+Corresponde al Municipio a través de la Secretaría de Medio Ambiente y Desarrollo Sustentable el fomento e impulso a los planes, proyectos y programas de educación ambiental no formal e informal entre todos los sectores de la sociedad y en todas las comunidades del territorio municipal.
 
 ###### ARTÍCULO 535.
 
@@ -6373,11 +6685,63 @@ V. Promover la creación de una cultura orientada al empleo racional de los recu
 
 VI. Destinar por parte del Municipio un espacio en los medios de comunicación para difundir la educación ambiental.
 
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
+
 ###### ARTÍCULO 536.
 
-La Secretaría de Servicios Públicos y Ecología, elaborará el Programa Municipal de Educación Ambiental el cual, una vez aprobado por el Comité Municipal de Ecología y Gestión Ambiental funcionará como una guía de las acciones y actividades que en materia de educación ambiental se deban de realizar en el Municipio de Aguascalientes.
+La Secretaría de Medio Ambiente y Desarrollo Sustentable, elaborará el Programa Municipal de Educación Ambiental el cual, una vez aprobado por el Comité Municipal de Ecología y Gestión Ambiental funcionará como una guía de las acciones y actividades que en materia de educación ambiental se deban de realizar en el Municipio de Aguascalientes.
 
-La Dirección de Ecología y Salud instrumentará, dará seguimiento y evaluará dicho programa.
+La Secretaría de Medio Ambiente y Desarrollo Sustentable instrumentara, dará seguimiento y evaluara dicho programa.
+
+### CAPÍTULO VII. De la Denuncia Popular
+
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
+
+###### ARTÍCULO 537.
+
+El H. Ayuntamiento con la finalidad de promover la participación de los diversos sectores de la población y facilitar la coordinación de los tres niveles de Gobierno, instalará el Consejo Municipal de Medio Ambiente y Desarrollo Sustentable.
+
+El Consejo Municipal de Medio Ambiente y Desarrollo Sustentable será integrado por:
+
+I. Un Presidente, que será el Presidente Municipal de Aguascalientes o quien él designe para tal efecto;
+
+II. Un Secretario, que será el Regidor titular de la Comisión de Ecología;
+
+III. Un Coordinador, que será el Secretario de Medio Ambiente y Desarrollo Sustentable del municipio o quién el designe para tal efecto;
+
+IV. Un Representante de las Asociaciones Civiles Constituidas en el Municipio de Aguascalientes, en materia ambientalista;
+
+V. Un representante de las Asociaciones Juveniles debidamente acreditada;
+
+VI. Un representante de las Asociaciones de Profesionistas debidamente constituidas;
+
+VII. Un representante de las cámaras empresariales debidamente constituidas;
+
+VIII. Un representante de las instituciones de educación superior que existen en el Estado; y
+
+IX. Un representante de los Comités dé Concertación y Participación Social.
+
+El Consejo Municipal de Medio Ambiente y Desarrollo Sustentable, convocará a una reunión a fin de que elija a la persona que tendrá a cargo la representación del sector que represente.
+
+> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 2011)</small>
+
+ARTÍCULO 537 BIS.- El Consejo Municipal de Medio Ambiente y Desarrollo Sustentable tendrá las siguientes funciones:
+
+I.- Asesorar a la Secretaría de Medio Ambiente y Desarrollo Sustentable en la aplicación de Políticas, Programas, Estudios y Acciones específicas de competencia municipal;
+
+II.- Evaluar resultados de las acciones de competencia municipal, a partir de informes o con base en los estudios que lleve a cabo o promueva la Secretaría de Medio Ambiente y Desarrollo Sustentable;
+
+III.- Recomendar a la Secretaría de Medio Ambiente y Desarrollo Sustentable las acciones para mejorar la aplicación de políticas Programas, Estudios, Proyectos y Acciones específicas de competencia municipal que se realicen en materia ambiental;
+
+IV.- Presentar propuestas, proyectos o recomendaciones a la Secretaría de Medio Ambiente y Desarrollo Sustentable e informar los acuerdos y avances a la ciudadanía;
+
+V.- Difundir a la sociedad los trabajos, las recomendaciones, opiniones y evaluaciones realizadas por el Consejo, a través de los medios disponible (sic) en la Secretaría de Medio Ambiente y Desarrollo Sustentable; y
+
+VI.- Promover una cultura ambiental entre los diversos sectores de la sociedad, a través de los medios electrónicos disponibles en la Secretaría de Medio Ambiente y Desarrollo Sustentable.
+
+###### ARTÍCULO 538.
+
+(DEROGADO, P.O. 14 DE FEBRERO DE 2011)
 
 ### CAPÍTULO I. De la Seguridad Pública y Tránsito
 
@@ -6385,63 +6749,17 @@ APARTADO PRIMERO
 
 Disposiciones Generales
 
-###### ARTÍCULO 537.
-
-El H. Ayuntamiento con la finalidad de promover la participación de los diversos sectores de la población y facilitar la coordinación de los tres niveles de Gobierno, instalará el Comité Municipal de Ecología y Gestión Ambiental.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE MARZO DE 2008)</small>
-
-El Comité Municipal de Ecología y Gestión Ambiental será integrado por:
-
-I. Un Presidente, que será el Presidente Municipal de Aguascalientes o quien él designe para tal efecto.
-
-II. El Regidor titular de la Comisión de Ecología.
-
-III. Un Secretario, que será designado por el Presidente Municipal.
-
-IV. Un Coordinador, que será el Director de Ecología y Salud del Municipio.
-
-> <small>(REFORMADA, P.O. 3 DE MARZO DE 2008)</small>
-
-V. Un Representante de cada una de las siguientes dependencias: de la Secretaría de Medio Ambiente y Recursos Naturales; Procuraduría Federal de Protección al Ambiente; Comisión Nacional del Agua; Instituto Nacional de Investigaciones Forestales, Agrícolas y Pecuarias; Comisión Nacional de Zonas Áridas; Secretaría de Desarrollo Urbano Municipal; Secretaría de Desarrollo Social Municipal; Secretaría de Servicios Públicos y Ecología del Municipio; Comisión para el Desarrollo Agropecuario del Estado de Aguascalientes; Instituto de Educación de Aguascalientes; Secretaría de Desarrollo Económico del Estado; Instituto de Salud del Estado de Aguascalientes; Comisión Ciudadana de Agua Potable y Alcantarillado del Municipio de Aguascalientes; Secretaría de Desarrollo Urbano Municipal; Secretaría de Desarrollo Humano Municipal; y Secretaría de Servicios Públicos y Ecología del Municipio, Procuraduría Estatal de Protección al Ambiente, Instituto del Medio Ambiente del Estado, Protección Civil Estatal y Municipal, Instituto Nacional de Educación Para los Adultos y Jóvenes, Comisión Nacional de Fomento Educativo, Comisión Nacional Forestal; Secretaría de Planeación y Desarrollo Regional y el Instituto Municipal de Planeación.
-
-VI. Un representante de cada una de las asociaciones civiles con fines ambientales que existan en el Municipio.
-
-VII. Un representante de cada una de las siguientes asociaciones de profesionistas: Colegio de Biólogos de Aguascalientes; Colegio de Urbanistas de Aguascalientes; Colegio de Ingenieros Agrónomos, Colegio de Arquitectos, Colegio de Ingenieros Civiles, Colegio de Abogados y Colegio de Médicos Veterinarios.
-
-VIII. Un representante de cada una de las cámaras empresariales existentes en el Municipio.
-
-IX. Un representante de cada una de las instituciones de educación superior que existen en el Estado que cuenten con programas educativos relativos al medio ambiente.
-
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2008)</small>
-
-X. Cinco representantes de los Comités de Concertación y Participación Social.
-
-XI. Un representante de cada una de las escuelas de nivel medio superior.
-
-###### ARTÍCULO 538.
-
-El Comité Municipal de Ecología y Gestión Ambiental fungirá de manera permanente, a través de los siguientes subcomités:
-
-l. Subcomité de Protección Ambiental.
-
-II. Subcomité de Educación Ambiental.
-
-III. Subcomité de Reforestación y Áreas Verdes.
-
-### CAPÍTULO II. El Departamento de Bomberos
-
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 2011)</small>
-
 ###### ARTÍCULO 539.
 
 Toda persona, física o moral, podrá denunciar ante la autoridad municipal en materia ambiental, todo hecho, acto u omisión que produzca o pueda producir deterioro o daño al ambiente, a los recursos naturales, o contravenga las disposiciones del presente Código y demás ordenamientos que regulen materias relacionadas con la protección y la preservación del ambiente.
 
-El Comité Municipal de Ecología y Gestión Ambiental deberá contar con su propio reglamento interno.
+El Consejo Municipal de Medio Ambiente y Desarrollo Sustentable deberá contar con su propio reglamento interno.
+
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
 
 ###### ARTÍCULO 540.
 
-Al recibir la denuncia ciudadana, la Dirección de Ecología y Salud, acusará recibo y le asignará un número de expediente, haciendo la anotación respectiva en el libro de registro creándose una base de datos compatible con un sistema de información geográfica y en un plazo de diez días hábiles siguientes se notificará al interesado el estado de su denuncia.
+Al recibir la denuncia ciudadana, la Secretaría de Medio Ambiente y Desarrollo Sustentable, acusará recibo y le asignará un número de expediente, haciendo la anotación respectiva en el libro de registro y en un plazo de diez días hábiles siguientes se notificará al interesado el estado de su denuncia.
 
 Cuando se presenten dos o más denuncias respecto de los mismos hechos, actos u omisiones, deberá acordarse su acumulación en un solo expediente, prevaleciendo el primer número de expediente asignado. El contenido del acuerdo respectivo deberá notificarse a los denunciantes.
 
@@ -6457,13 +6775,17 @@ II. Los datos que permitan identificar al presunto infractor o localizar la fuen
 
 III. Las pruebas que en su caso ofrezca el denunciante.
 
+(REPUBLICADO, P.O. 14 DE FEBRERO DE 2011)
+
 Asimismo, podrá formularse la denuncia vía telefónica, por correo, fax o cualquier otro medio.
 
 Las autoridades pondrán en disposición del Comité toda la información que este requiera para realización de sus funciones.
 
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
+
 ###### ARTÍCULO 542.
 
-La Dirección de Ecología y Salud, en el ámbito de sus atribuciones, iniciará las acciones que procedan en base a sus competencias, cuando conozca de actos, hechos u omisiones que constituyan violaciones a la legislación administrativa o penal.
+La Secretaría de Medio Ambiente y Desarrollo Sustentable, en el ámbito de sus atribuciones, iniciará las acciones que procedan en base a sus competencias, cuando conozca de actos, hechos u omisiones que constituyan violaciones a la legislación administrativa o penal.
 
 Si del resultado de las investigaciones realizadas por la autoridad ambiental, se desprenden actos, hechos u omisiones en que hubieren incurrido autoridades federales, estatales o municipales, emitirá las recomendaciones necesarias para promover ante ésta u otras las ejecuciones de las acciones procedentes.
 
@@ -6485,11 +6807,25 @@ VI. Emitirse de una resolución derivada del procedimiento administrativo.
 
 VII. Desaparecer o extinguirse los actos, hechos u omisiones materia de la denuncia, siempre y cuando éstos no hubieren ocasionado daños al ambiente.
 
+> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 2011)</small>
+
+###### ARTÍCULO 543
+
+1.- Para comprobar el cumplimiento de las obligaciones y restricciones a particulares y empresas ubicadas en el Municipio, la Secretaría del Medio Ambiente y Desarrollo Sustentable llevará a cabo visitas de inspección y verificación a través de la Coordinación General Única de Verificación Administrativa dependiente de la Secretaría del H. Ayuntamiento y Dirección General de Gobierno.
+
+> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 2011)</small>
+
+###### ARTÍCULO 543
+
+2.- La Secretaría del Medio Ambiente y Desarrollo Sustentable en su estricto ámbito de competencia determinará e impondrá las medidas de seguridad que estime convenientes, para evitar la contaminación del ambiente en cualquiera de los rubros que señala el presente ordenamiento.
+
 # LIBRO QUINTO. DE LA SEGURIDAD PÚBLICA Y TRÁNSITO EN EL MUNICIPIO DE AGUASCALlENTES
 
 ## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
-### CAPÍTULO ÚNICO. De las Obras de Urbanización
+### CAPÍTULO II. El Departamento de Bomberos
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2011)</small>
 
 ###### ARTÍCULO 544.
 
@@ -6575,7 +6911,7 @@ XX. Las demás que establezca el presente Código y las leyes respectivas.
 
 El mando de los elementos (sic) Secretaría de Seguridad Pública y Tránsito Municipal está a cargo del Presidente Municipal quien lo ejerce por sí o a través del Secretario de Seguridad Pública y Tránsito Municipal.
 
-### CAPÍTULO I. De los Peritos
+### CAPÍTULO ÚNICO. De las Obras de Urbanización
 
 ###### ARTÍCULO 548.
 
@@ -6865,7 +7201,7 @@ c) Cinco Consejeros. Que serán los titulares de las Direcciones de Estado Mayor
 
 d) Cinco Vocales. Que serán nombrados por cada una de las Direcciones de la Secretaría, a propuesta de los propios elementos operativos o en su defecto nombrados por el Secretario.
 
-### CAPÍTULO II. De las Licencias de Construcción
+### CAPÍTULO I. De los Peritos
 
 ###### ARTÍCULO 560.
 
@@ -6927,7 +7263,7 @@ De la Policía Comercial, Bancaria y Residencial
 
 ## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
-### CAPÍTULO III. De La Autoconstrucción
+### CAPÍTULO II. De las Licencias de Construcción
 
 ###### ARTÍCULO 565.
 
@@ -6965,7 +7301,7 @@ APARTADO SEXTO
 
 Profesionalización de los Elementos de Seguridad Pública
 
-### CAPÍTULO I. De las Licencias de Construcción
+### CAPÍTULO III. De La Autoconstrucción
 
 ###### ARTÍCULO 572.
 
@@ -6999,7 +7335,7 @@ V. Formación de Mandos: Tiene por objetivo la preparación de los mandos medios
 
 Los elementos que conforman la Secretaría de Seguridad Pública, tienen como obligación tomar los cursos de capacitación y adiestramiento que disponga la Dirección de Capacitación, Formación y Profesionalización, a efecto de adquirir los conocimientos teóricos y prácticos que conlleven a su profesionalización, dentro del programa de formación, en los términos y condiciones que establezca la Dirección de Estado Mayor, a través de la convocatoria correspondiente.
 
-### CAPÍTULO II. De los Requisitos para Otorgamiento de Licencia de Construcción para casas Habitación
+### CAPÍTULO I. De las Licencias de Construcción
 
 ###### ARTÍCULO 577.
 
@@ -7029,7 +7365,7 @@ La Dirección de Capacitación, Formación y Profesionalización a efecto de pro
 
 ## TÍTULO SEGUNDO. DE LOS PERITOS Y DE LAS LICENCIAS DE CONSTRUCCIÓN
 
-### CAPÍTULO III. De los Requisitos para Otorgamiento de Licencias de Construcción de Edificios de Usos Distintos al Habitacional Mayores de Sesenta Metros Cuadrados Construidos
+### CAPÍTULO II. De los Requisitos para Otorgamiento de Licencia de Construcción para casas Habitación
 
 ###### ARTÍCULO 580.
 
@@ -7061,7 +7397,7 @@ XI. Cumplir con los demás requisitos que establezcan los manuales respectivos y
 
 Los aspirantes que resulten seleccionados cursarán el nivel de formación básica que imparte el Instituto Estatal de Seguridad Pública de Aguascalientes, o los que designe la Dirección de Capacitación, Formación y Profesionalización en coordinación con la Dirección de Estado Mayor, y durante el tiempo de dichos cursos gozarán de los apoyos y beneficios necesarios para desarrollar en forma digna y eficiente su preparación. Los aspirantes que sean expulsados, los que abandonen los estudios injustificadamente o los que reprueben el curso básico no podrán pertenecer a la Secretaría de Seguridad Pública.
 
-### CAPÍTULO IV. De los Requisitos para Otorgamiento de Licencia de Construcción para Estaciones de Servicio o Gasolinerías
+### CAPÍTULO III. De los Requisitos para Otorgamiento de Licencias de Construcción de Edificios de Usos Distintos al Habitacional Mayores de Sesenta Metros Cuadrados Construidos
 
 ###### ARTÍCULO 582.
 
@@ -7303,7 +7639,7 @@ XI. No aceptar un compromiso que vaya en detrimento de su honor y la reputación
 
 XII. Respetar el honor familiar de los particulares y de los miembros de la corporación, así como el suyo propio.
 
-### CAPÍTULO V. De los Requisitos para Otorgamiento de Licencia para Demolición
+### CAPÍTULO IV. De los Requisitos para Otorgamiento de Licencia de Construcción para Estaciones de Servicio o Gasolinerías
 
 ###### ARTÍCULO 597.
 
@@ -7519,7 +7855,7 @@ b) Baja administrativa por pérdida de confianza, la cual es el cese definitivo 
 
 Una vez notificada cualquiera de las bajas antes citadas, el infractor deberá entregar inmediatamente, a quien designe el Secretario de Seguridad Pública y Tránsito Municipal, su identificación, municiones, armamento, equipo y todo material que se le haya ministrado para el cumplimiento de sus funciones.
 
-### CAPÍTULO VI. De los Requisitos para Otorgamiento de Licencias para Ocupar y Realizar Obras en la Vía Pública
+### CAPÍTULO V. De los Requisitos para Otorgamiento de Licencia para Demolición
 
 ###### ARTÍCULO 602.
 
@@ -7567,7 +7903,7 @@ De las Faltas
 
 ## TÍTULO TERCERO. DE LOS REQUISITOS PARA LICENCIAS DE CONSTRUCCIÓN
 
-### CAPÍTULO VII. De la Ocupación o Habitabilidad de las Construcciones
+### CAPÍTULO VI. De los Requisitos para Otorgamiento de Licencias para Ocupar y Realizar Obras en la Vía Pública
 
 ###### ARTÍCULO 604.
 
@@ -7689,7 +8025,7 @@ Comisión de Honor y Justicia
 
 La Comisión de Honor y Justicia, es el órgano colegiado e imparcial encargado de conocer, resolver y sancionar únicamente los casos que ponga a su disposición la Dirección de Asuntos Internos de Seguridad Pública y Tránsito, en su caso, el Secretario de Seguridad Pública y Tránsito Municipal relacionados con las controversias cometidas por los elementos operativos de la Secretaría de Seguridad Pública y Tránsito Municipal, en servicio o fuera de él, por actos u omisiones que, de cualquier forma, infrinjan los principios de actuación y normas disciplinarias en los términos del presente ordenamiento, así como otorgar reconocimientos y condecoraciones a las acciones relevantes en que intervinieron los miembros de la Secretaría de Seguridad Pública y Tránsito Municipal.
 
-### CAPÍTULO I. Generalidades
+### CAPÍTULO VII. De la Ocupación o Habitabilidad de las Construcciones
 
 ###### ARTÍCULO 614.
 
@@ -7751,7 +8087,7 @@ IV. Los representantes del Consejo Ciudadano de Seguridad Pública, serán elegi
 
 Cuando el Presidente de la Comisión de Honor y Justicia considere que la actuación de alguno de los vocales previstos en el artículo 614 fracción III incisos b), c), d), ó e) del presente Código, pone en riesgo el correcto desempeño de la Comisión, tendrá la facultad de remover al vocal en cuestión, para lo cual rendirá informe al Secretario de Seguridad Pública y Tránsito Municipal, en un término de tres días, exponiendo las causas que lo motivaron a tomar dicha decisión. Asimismo, al día siguiente a la remoción del vocal en cuestión, el Presidente de la Comisión de Honor y Justicia deberá solicitar a la instancia correspondiente la designación de uno nuevo en un término de cinco días y, en caso de que agotado el término no exista designación alguna, el Presidente procederá a designarlo directamente.
 
-### CAPÍTULO II. Espacios sin Construir
+### CAPÍTULO I. Generalidades
 
 ###### ARTÍCULO 616.
 
@@ -8057,7 +8393,7 @@ No deberán usarse los edificios o predios de manera que resulte violatorio de l
 
 El ejecutar o autorizar alguna obra dentro del Municipio sin sujetarse a los preceptos de este Libro, es proceder ilegalmente y motivará las sanciones que para el efecto indique el Título correspondiente.
 
-### CAPÍTULO III. Circulaciones en las Construcciones
+### CAPÍTULO II. Espacios sin Construir
 
 ###### ARTÍCULO 633.
 
@@ -8095,7 +8431,7 @@ ARTÍCULOS (SIC) 635.- La documentación necesaria y requisitos para la autoriza
 
 ## TÍTULO SEXTO. EJECUCIÓN DE OBRAS
 
-### CAPÍTULO IV. Accesos y Salidas
+### CAPÍTULO III. Circulaciones en las Construcciones
 
 ###### ARTÍCULO 636.
 
@@ -8209,7 +8545,7 @@ La intervención de dichas unidades estarán sujetas a lo estipulado en las Leye
 
 Para tener derecho a aparecer en el Registro de Peritos o refrendar su calidad como tal, se requiere:
 
-l. Para los Peritos Responsables de Obra:
+I. Para los Peritos Responsables de Obra:
 
 a) Ser ciudadano mexicano y en caso de ser extranjero, tener la autorización legal correspondiente para ejercer la profesión en el territorio del país;
 
@@ -8307,7 +8643,7 @@ III. Suscriba un dictamen de estabilidad estructural, de carácter arquitectóni
 
 El Perito Responsable de Obra será responsable de la correcta ejecución de la construcción, junto con el constructor y el propietario de la misma y deberá:
 
-l. Revisar los croquis, planos o en su caso el proyecto ejecutivo presentados para la obtención de la Licencia de Construcción, verificando que hayan sido realizados los estudios y cumplido las disposiciones establecidas por el presente Libro, así como las normas del Código Urbano;
+I. Revisar los croquis, planos o en su caso el proyecto ejecutivo presentados para la obtención de la Licencia de Construcción, verificando que hayan sido realizados los estudios y cumplido las disposiciones establecidas por el presente Libro, así como las normas del Código Urbano;
 
 II. Dirigir y vigilar que la obra se desarrolle con apego al proyecto aprobado, conforme a los ordenamientos de este Libro;
 
@@ -8329,7 +8665,7 @@ IX. Solicitar constancia de suspensión de obra para los casos en que la obra lo
 
 Obligaciones de los Peritos Especializados:
 
-1. Del Especializado en Diseño Arquitectónico:
+I. Del Especializado en Diseño Arquitectónico:
 
 a) Suscribir, conjuntamente con el Perito Responsable de Obra, la solicitud de licencia y los planos del proyecto correspondiente, cuando se trate de las obras previstas en este Libro;
 
@@ -8451,7 +8787,7 @@ h) Refrendar su calidad de Perito a partir del mes de enero de cada año actuali
 
 Las funciones del Perito Responsable de Obra y en su caso del Perito Especializado, en aquellas obras para las que haya dado su responsiva profesional, terminarán:
 
-l. Cuando ocurra cambio, suspensión del registro de Perito. En este caso se deberá levantar un acta asentando en detalle el avance de la obra hasta ese momento, la cual será suscrita por una persona designada por la Secretaría, por el Perito Responsable o Especializado y por el propietario de la obra.
+I. Cuando ocurra cambio, suspensión del registro de Perito. En este caso se deberá levantar un acta asentando en detalle el avance de la obra hasta ese momento, la cual será suscrita por una persona designada por la Secretaría, por el Perito Responsable o Especializado y por el propietario de la obra.
 
 El cambio de Perito Responsable o Especializado no exime al anterior de su responsabilidad por la parte de la obra que le haya correspondido dirigir. La Secretaría ordenará la suspensión de la obra cuando el perito responsable no sea sustituido en forma inmediata, y no permitirá su reanudación hasta en tanto no se designe nuevo Perito;
 
@@ -8475,7 +8811,7 @@ La Secretaría dará aviso de la suspensión al Colegio de Profesionistas respec
 
 La suspensión se dictará por un lapso de tres meses a tres años o en casos extremos, podrá ser definitiva sin liberar al perito de la obligación de subsanar las irregularidades en que haya incurrido e independientemente de las sanciones administrativas o multas que le fuesen impuestas.
 
-### CAPÍTULO V. Previsiones Contra Incendio
+### CAPÍTULO IV. Accesos y Salidas
 
 ###### ARTÍCULO 647.
 
@@ -8635,7 +8971,7 @@ III. Para obras de beneficio social que se realicen en fraccionamientos populare
 
 IV. Cuando la Secretaría lo requiera.
 
-### CAPÍTULO VI. Instalaciones Hidráulicas y Sanitarias
+### CAPÍTULO V. Previsiones Contra Incendio
 
 ###### ARTÍCULO 653.
 
@@ -8677,7 +9013,7 @@ En las zonas que tengan un valor artístico, histórico y/o cultural determinada
 
 ## TITULO SÉPTIMO. USO, OPERACIÓN Y MANTENIMIENTO
 
-### CAPÍTULO VII. Instalaciones Eléctricas, Mecánicas y Especiales
+### CAPÍTULO VI. Instalaciones Hidráulicas y Sanitarias
 
 ###### ARTÍCULO 656.
 
@@ -8699,7 +9035,7 @@ Los propietarios de fincas que se encuentren afectadas en su estructura por disc
 
 Los propietarios de fincas que se encuentra en un conjunto o inmueble sujeto al régimen de propiedad en condominio, para cualquier tipo de obra deberá presentarse un oficio de autorización y los planos del proyecto en dos tantos sellados y firmados por la administración del condominio o asamblea de condóminos legalmente constituida.
 
-### CAPÍTULO VIII. Visibilidad en Espectáculos
+### CAPÍTULO VII. Instalaciones Eléctricas, Mecánicas y Especiales
 
 ###### ARTÍCULO 661.
 
@@ -8807,7 +9143,7 @@ VI. Memoria descriptiva indicando las características de los acabados, compleme
 
 VII. Plano y Memoria eléctrica debidamente signado por Perito Especializado en Instalaciones Eléctricas.
 
-### CAPÍTULO IX. Edificación para Habitación
+### CAPÍTULO VIII. Visibilidad en Espectáculos
 
 ###### ARTÍCULO 664.
 
@@ -8881,7 +9217,7 @@ g) Memoria de cálculo referente a instalaciones eléctricas que den cumplimient
 
 h) Dictamen de Impacto Vial, Dictamen de Impacto Urbano, Dictamen de Impacto Ambiental y visto bueno del Subcomité de Transito y Análisis Vial en los casos que la Secretaría considere convenientes.
 
-### CAPÍTULO X. Edificación para Comercios y Oficinas
+### CAPÍTULO IX. Edificación para Habitación
 
 ###### ARTÍCULO 665.
 
@@ -8895,7 +9231,9 @@ III. Copia de la boleta del número oficial obtenida en la ventanilla correspond
 
 IV. Copia de la Constancia de Alineamiento y Compatibilidad Urbanística obtenida en la ventanilla única multitrámite de la Secretaría;
 
-V. Deberá presentar el dictamen de impacto ambiental autorizado ante el Instituto del Medio Ambiente del Estado;
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2011)</small>
+
+V. Deberá presentar el dictamen de impacto ambiental autorizado ante la Secretaría de Medio Ambiente del Estado;
 
 VI. Memoria de cálculo estructural y planos estructurales, firmados por el Perito Responsable de Obra y por un Perito Especializado en Estructuras;
 
@@ -8935,7 +9273,7 @@ f) Plano y memoria de cálculo referente a instalaciones eléctricas que den cum
 
 g) Dictamen de Impacto Vial, Dictamen de Impacto Urbano, Dictamen de Impacto Ambiental y visto bueno del Subcomité de Tránsito y Análisis Vial en los casos que la Secretaría considere convenientes.
 
-### CAPÍTULO XI. Edificación para Educación
+### CAPÍTULO X. Edificación para Comercios y Oficinas
 
 ###### ARTÍCULO 666.
 
@@ -8963,7 +9301,7 @@ No se permitirá realizar obras de rebaje o demolición de muros medianeros.
 
 Entiéndase por muros medianeros los que, en común a dos predios colindantes los divide y en ocasiones sostiene techumbres de ambas fincas.
 
-### CAPÍTULO XII. Edificación para Hospitales o Clínicas
+### CAPÍTULO XI. Edificación para Educación
 
 ###### ARTÍCULO 667.
 
@@ -8973,7 +9311,7 @@ Para obras de reposición y/o modificación de banquetas se requiere presentar r
 
 Para obras de cepas para alojar instalaciones se requiera (sic) presentar:
 
-l. Recibo de pago o contrato de servicio de agua potable y alcantarillado;
+I. Recibo de pago o contrato de servicio de agua potable y alcantarillado;
 
 II. Solicitud de licencia de construcción y bitácora de obra, debidamente requisitadas y signadas por un Perito Responsable de Obra regularizado ante la Secretaría;
 
@@ -9025,7 +9363,7 @@ VII. Dos copias de Planos del Proyecto autorizado por las siguientes instancias 
 
 VIII. Al término de la Obra de Urbanización deberá tramitar Constancia de Terminación de Obra, con la consecuente recepción de las instancias municipales correspondientes a la Secretaría de Obras Públicas, la Comisión Ciudadana de Agua Potable y Alcantarillado del Municipio de Aguascalientes y la Secretaría de Servicios Públicos; sin esta constancia no podrá proceder a la venta de lotes y/o construcción de fincas, para posteriormente municipalizar las obras de urbanización o en su caso constituir el Régimen de Propiedad en Condominio.
 
-### CAPÍTULO XIII. Edificación Para Industrias
+### CAPÍTULO XII. Edificación para Hospitales o Clínicas
 
 ###### ARTÍCULO 671.
 
@@ -9049,7 +9387,7 @@ V. Cuando se demuestre que la obra cumple con este Libro y los demás ordenamien
 
 ## TÍTULO OCTAVO. DE LA REGLAMENTACIÓN PARA LA AUTORIZACIÓN, CONTROL Y VIGILANCIA DE LOS USOS DE SUELO
 
-### CAPÍTULO XIV. Edificación para Centros de Reunión
+### CAPÍTULO XIII. Edificación Para Industrias
 
 ###### ARTÍCULO 673.
 
@@ -9787,7 +10125,7 @@ Todo lo no contemplado en este libro se observara en lo contenido en la Norma Of
 
 Los edificios de uso público deberán contar con buzones en sus accesos, únicamente para recibir correspondencia, accesibles desde el exterior.
 
-### CAPÍTULO XV. Edificación para Mercados
+### CAPÍTULO XIV. Edificación para Centros de Reunión
 
 ###### ARTÍCULO 679.
 
@@ -9861,7 +10199,7 @@ La separación entre edificios de cualquier uso menores a 12 metros de altura pa
 
 La separación entre edificios de cualquier uso mayores a 12 metros de altura partiendo del nivel de banqueta, entre éstos y cualquier construcción, la separación entre edificios en dirección norte-sur será por lo menos el cincuenta por ciento de la altura promedio de los mismos, en dirección este-oeste será por lo menos del veinte por ciento o lo establecido en el programa de desarrollo urbano vigente.
 
-### CAPÍTULO XVI. Edificación para Salas de Espectáculos
+### CAPÍTULO XV. Edificación para Mercados
 
 ###### ARTÍCULO 684.
 
@@ -9931,7 +10269,7 @@ III. Los pavimentos serán antiderrapantes; y
 
 IV. La altura mínima de los barandales, cuando se requieran, será de noventa centímetros.
 
-### CAPÍTULO XVII. Edificación para Espectáculos Deportivos
+### CAPÍTULO XVI. Edificación para Salas de Espectáculos
 
 ###### ARTÍCULO 688.
 
@@ -10057,7 +10395,7 @@ III. Cuando comunique con escaleras, entre la puerta y el peralte inmediato, deb
 
 IV. No habrá puertas simuladas ni se colocarán espejos en las puertas.
 
-### CAPÍTULO XVIII. Edificación para Clubes Deportivos o Sociales
+### CAPÍTULO XVII. Edificación para Espectáculos Deportivos
 
 ###### ARTÍCULO 693.
 
@@ -10179,7 +10517,7 @@ Las campanas de estufas o fogones excepto en viviendas unifamiliares, estarán p
 
 En los pisos de las áreas de circulaciones generales de edificios, se emplearán únicamente materiales a prueba de fuego.
 
-### CAPÍTULO XIX. Edificación para Baños Públicos
+### CAPÍTULO XVIII. Edificación para Clubes Deportivos o Sociales
 
 ###### ARTÍCULO 705.
 
@@ -10801,7 +11139,7 @@ Las tuberías de desagüe de los muebles sanitarios deberán de ser de fierro fu
 
 En las edificaciones ubicadas en las calles con red de alcantarillado público el propietario deberá solicitar a la instancia normativa correspondiente la conexión del albañal a la red.
 
-### CAPÍTULO XX. Edificación para Templos
+### CAPÍTULO XIX. Edificación para Baños Públicos
 
 ###### ARTÍCULO 718.
 
@@ -11033,7 +11371,7 @@ Pasamanos por Escalón Capacidades
 
 Las instalaciones de calderas, calentadores y aparatos similares, así como la de sus accesorios se harán de manera que no causen riesgos, molestias, contaminen el ambiente ni pongan en peligro a las personas, para lo cual deberá obtenerse la autorización previa de las instancias reguladoras correspondientes.
 
-### CAPÍTULO XXI. Ferias con Aparatos Mecánicos
+### CAPÍTULO XX. Edificación para Templos
 
 ###### ARTÍCULO 731.
 
@@ -11095,7 +11433,7 @@ d = Distancia al punto base para el trazo de los espectadores ubicados en la fil
 
 El trazo de los niveles de piso se hará como se indica en este capítulo.
 
-### CAPÍTULO XXII. Estacionamientos y Pensiones
+### CAPÍTULO XXI. Ferias con Aparatos Mecánicos
 
 ###### ARTÍCULO 737.
 
@@ -11175,7 +11513,7 @@ Estos elementos no podrán estar a una distancia horizontal menor de 5.00 metros
 
 Los desechos biológicos de los animales deberán de ser canalizados hacia espacios donde no representen o constituyan fuentes de contaminación.
 
-### CAPITULO XXIII. Laboratorios
+### CAPÍTULO XXII. Estacionamientos y Pensiones
 
 ###### ARTÍCULO 749.
 
@@ -11203,7 +11541,7 @@ La superficie mínima para una oficina será de ocho metros cuadrados y su altur
 
 En el proyecto arquitectónico de los edificios comerciales se incluirán las áreas necesarias para letreros, rótulos o cualquier otra clase de anuncios, así como para los anuncios que deban integrarse al propio inmueble, con sujeción a las disposiciones de este Libro.
 
-### CAPÍTULO XXIV. Cementerios
+### CAPITULO XXIII. Laboratorios
 
 ###### ARTÍCULO 755.
 
@@ -11237,7 +11575,7 @@ En edificios escolares, la dimensión mínima de los patios que sirvan para dar 
 
 Cada escuela deberá tener un local destinado para servicio médico de emergencia, dotado del equipo e instrumental necesario.
 
-### CAPÍTULO I. Disposiciones Generales
+### CAPÍTULO XXIV. Cementerios
 
 ###### ARTÍCULO 761.
 
@@ -11275,7 +11613,7 @@ En las salas de urgencias los accesos a las mismas, no deberán ser interferidos
 
 Todos los departamentos tendrán servicio de llamado sonoro y luminoso.
 
-### CAPÍTULO II. Características de las Edificaciones
+### CAPÍTULO I. Disposiciones Generales
 
 ###### ARTÍCULO 769.
 
@@ -11309,7 +11647,7 @@ De 7,501 m2 a 22,500 m2 75%
 
 De 22,501 m2 en adelante 70%
 
-### CAPÍTULO III. Criterios de Diseño y Estados Límite
+### CAPÍTULO II. Características de las Edificaciones
 
 ###### ARTÍCULO 773.
 
@@ -11333,7 +11671,7 @@ Los escenarios, vestidores, cocinas, bodegas, talleres, cuartos de máquinas y c
 
 Habrá una instalación de emergencia con encendido automático, alimentada con acumuladores o baterías, que proporcionará a los salones, vestíbulos y circulaciones una iluminación de emergencia de cinco luxes mínimo en tanto se restablezca la falla.
 
-### CAPÍTULO IV. Acciones, Cargas y Empujes
+### CAPÍTULO III. Criterios de Diseño y Estados Límite
 
 ###### ARTÍCULO 778.
 
@@ -11355,7 +11693,7 @@ Los muros de las carnicerías y pescaderías deberán ser lavables, preferenteme
 
 En los tianguis cuando se instalen mantas, deberá conservarse la circulación con una altura mínima de dos metros cincuenta centímetros.
 
-### CAPÍTULO V. Acciones
+### CAPÍTULO IV. Acciones, Cargas y Empujes
 
 ###### ARTÍCULO 781.
 
@@ -11439,7 +11777,7 @@ Será obligatorio en todas las salas de espectáculos contar con una planta elé
 
 Las salas de espectáculos deberán contar con ventilación artificial adecuada, para que la temperatura del aire tratado, oscile entre los veintitrés y veintisiete grados centígrados; la humedad relativa, entre el treinta por ciento y el sesenta por ciento, sin que sea permisible una concentración de bióxido de carbono mayor de quinientas partes por millón.
 
-### CAPÍTULO VI. Resistencia
+### CAPÍTULO V. Acciones
 
 ###### ARTÍCULO 793.
 
@@ -11471,7 +11809,7 @@ Los edificios para espectáculos deportivos tendrán un local adecuado para serv
 
 Los edificios para espectáculos deportivos deberán tener las instalaciones especiales necesarias para proteger debidamente a los espectadores y jugadores de los riesgos propios del espectáculo que se presente.
 
-### CAPÍTULO VII. Evaluación de la Seguridad
+### CAPÍTULO VI. Resistencia
 
 ###### ARTÍCULO 797.
 
@@ -11549,7 +11887,7 @@ VIII. Deberán diferenciarse, mediante el señalamiento adecuado, las zonas de n
 
 Los clubes deportivos tendrán servicio de baños y vestidores, por separado para hombres y para mujeres con pisos antiderrapantes.
 
-### CAPÍTULO VIII. Cargas Muertas
+### CAPÍTULO VII. Evaluación de la Seguridad
 
 ###### ARTÍCULO 800.
 
@@ -11573,7 +11911,7 @@ La superficie mínima para baños individuales será de dos metros cuadrados deb
 
 La instalación de sistemas especiales de vapor o de aire caliente, requerirá autorización de la Secretaría, para lo cual deberá presentarse un diagrama detallado con sus especificaciones y características de operación.
 
-### CAPÍTULO IX. Empujes Estáticos de Tierras y Líquidos
+### CAPÍTULO VIII. Cargas Muertas
 
 ###### ARTÍCULO 803.
 
@@ -11587,7 +11925,7 @@ Cuando menos una de las salidas deberá conectarse a la vía pública por medio 
 
 Cuando existan habitaciones anexas al templo, no tendrán conexión dentro con él.
 
-### CAPÍTULO X. Cargas Vivas y otras Acciones Variables
+### CAPÍTULO IX. Empujes Estáticos de Tierras y Líquidos
 
 ###### ARTÍCULO 804.
 
@@ -11603,7 +11941,7 @@ Las ferias con aparatos mecánicos deberán contar, con un lugar previsto con lo
 
 Las áreas destinadas a andadores, deberán estar libres de los estorbos que puedan ocasionar los cables eléctricos o cualquier tipo de cubierta.
 
-### CAPÍTULO XI. Cargas de Lluvia, Nieve y Granizo
+### CAPÍTULO X. Cargas Vivas y otras Acciones Variables
 
 ###### ARTÍCULO 807.
 
@@ -11731,13 +12069,13 @@ Los requerimientos mínimos en materia de cajones de estacionamiento son los sig
 
 (DEROGADO POR ARTICULO CUARTO TRANSITORIO DEL REGLAMENTO DE ESTACIONAMIENTOS DEL MUNICIPIO DE AGUASCALIENTES, P.O. 12 DE ENERO DE 2009)
 
-### CAPÍTULO XII. Diseño por Sismo
+### CAPÍTULO XI. Cargas de Lluvia, Nieve y Granizo
 
 ###### ARTÍCULO 826.
 
 Los laboratorios que manejen productos dañinos al contacto de la piel deberán contar con un número adecuado de regaderas, que se localizarán a una distancia menor de treinta metros del sitio donde se utilicen dichos productos.
 
-### CAPÍTULO XIII. Diseño por Viento
+### CAPÍTULO XII. Diseño por Sismo
 
 ###### ARTÍCULO 827.
 
@@ -11853,7 +12191,7 @@ Los propietarios de monumentos y capillas, están obligados a la conservación d
 
 ## TÍTULO NOVENO. DE LA REGLAMENTACIÓN EN MATERIA DE ANUNCIOS
 
-### CAPÍTULO XIV. Diseño de Cimentaciones
+### CAPÍTULO XIII. Diseño por Viento
 
 ###### ARTÍCULO 842.
 
@@ -11907,7 +12245,7 @@ El proyecto constará básicamente de dos documentos: la memoria de cálculo y l
 
 la Memoria de Cálculo deberá cubrir, con el suficiente grado de detalle como para poder ser revisada (sic) evaluada por un profesionista ajeno al proyecto, los siguientes aspectos:
 
-l. Descripción general del proyecto y del tipo de estructura a utilizarse;
+I. Descripción general del proyecto y del tipo de estructura a utilizarse;
 
 II. Resistencia y calidad de los materiales estructurales a utilizarse;
 
@@ -11971,7 +12309,7 @@ a) Subgrupo B.1.- Construcciones de más de veinte metros de altura total o uno 
 
 b) Subgrupo B.2.- Las construcciones restantes pertenecientes a este grupo.
 
-### CAPÍTULO XV. Construcciones Dañadas
+### CAPÍTULO XIV. Diseño de Cimentaciones
 
 ###### ARTÍCULO 851.
 
@@ -12003,7 +12341,7 @@ Cualquier perforación o alteración de un elemento estructural para alojar duct
 
 No se permitirá que las instalaciones de gas, agua y drenaje crucen juntas constructivas entre edificios, a menos que se provean de conexiones o tramos flexibles especiales.
 
-### CAPÍTULO XVI. Obras Provisionales y Modificaciones
+### CAPÍTULO XV. Construcciones Dañadas
 
 ###### ARTÍCULO 857.
 
@@ -12073,7 +12411,7 @@ Podrán admitirse métodos de análisis con distintos grados de aproximación, s
 
 Los métodos de diseño son los criterios y procedimientos con los que se garantiza que se cumplan los requisitos de seguridad y servicio en una estructura o parte de ésta, una vez que se han definido los sistemas de acciones que obran sobre ella y se han aplicado los métodos de análisis que resulten adecuados para el tipo de estructura de que se trate.
 
-### CAPÍTULO XVII. Pruebas de Carga
+### CAPÍTULO XVI. Obras Provisionales y Modificaciones
 
 ###### ARTÍCULO 866.
 
@@ -12095,7 +12433,7 @@ III. Acciones Accidentales.- Son las que no se deben al funcionamiento normal de
 
 Acciones Permanente, esta categoría comprende:
 
-l. La carga muerta, debida al peso propio de los elementos estructurales y al peso de los elementos no estructurales incluyendo las instalaciones, al peso del equipo que ocupe una posición fija y permanente en la construcción, y al peso estimado de futuros muros divisorios y de otros elementos no estructurales que puedan colocarse posteriormente en forma permanente;
+I. La carga muerta, debida al peso propio de los elementos estructurales y al peso de los elementos no estructurales incluyendo las instalaciones, al peso del equipo que ocupe una posición fija y permanente en la construcción, y al peso estimado de futuros muros divisorios y de otros elementos no estructurales que puedan colocarse posteriormente en forma permanente;
 
 II. El empuje estático de tierras y de líquidos, de carácter permanente; y
 
@@ -12115,7 +12453,7 @@ III. Los efectos de la operación de maquinaria y equipo, incluyendo, cuando sea
 
 Acciones Accidentales, esta categoría comprende:
 
-l. Sismo;
+I. Sismo;
 
 II. Viento;
 
@@ -12125,7 +12463,7 @@ IV. Lluvia; y
 
 V. Otras acciones tales como explosiones, incendios y otros fenómenos que pueden ocurrir en casos extraordinarios.
 
-### CAPÍTULO XVIII. De las Adecuaciones a las Normas Técnicas Complementarias
+### CAPÍTULO XVII. Pruebas de Carga
 
 ###### ARTÍCULO 871.
 
@@ -12159,7 +12497,7 @@ Se incluye dentro de esta categoría la combinación de carga muerta más carga 
 
 II. Acciones Permanentes, Variables y Accidentales.- Dentro de esta categoría se considerarán todas las acciones permanentes que actúen sobre la estructura, las acciones variables que se puedan presentar con su intensidad instantánea y únicamente una acción accidental en cada combinación que se tome en cuenta.
 
-### CAPÍTULO I. Generalidades
+### CAPÍTULO XVIII. De las Adecuaciones a las Normas Técnicas Complementarias
 
 ###### ARTÍCULO 873.
 
@@ -12205,7 +12543,7 @@ La resistencia de diseño se considerará igual a la resistencia nominal multipl
 
 La revisión de la seguridad contra estados límite de falla se hará en términos de la resistencia de diseño.
 
-### CAPÍTULO II. Materiales de Construcción y Obras en la Vía Pública
+### CAPÍTULO I. Generalidades
 
 ###### ARTÍCULO 882.
 
@@ -12241,7 +12579,7 @@ En caso de utilizar Códigos distintos a los preferentemente utilizados en este 
 
 Se podrán emplear criterios de diseño diferentes de los especificados en este Libro y en sus Normas Técnicas Complementarias si se justifica, a satisfacción de la Secretaría, que dichos criterios dan lugar a niveles de seguridad iguales o mayores que los establecidos en este capítulo.
 
-### CAPÍTULO III. Tapiales
+### CAPÍTULO II. Materiales de Construcción y Obras en la Vía Pública
 
 ###### ARTÍCULO 885.
 
@@ -12263,7 +12601,7 @@ En la estimación de cargas muertas deberá considerarse el peso de las instalac
 
 Los pesos de estos equipos deberán ser calculados de acuerdo a las especificaciones de los fabricantes.
 
-### CAPÍTULO IV. Demoliciones
+### CAPÍTULO III. Tapiales
 
 ###### ARTÍCULO 888.
 
@@ -12297,7 +12635,7 @@ En el diseño de losas de pisos de sótanos y losas de fondo de tanques y depós
 
 Las fuerzas de subpresión deberán tomarse en cuenta en la revisión de la estabilidad total de la estructura de que se trate.
 
-### CAPÍTULO V. Mediciones y Trazos
+### CAPÍTULO IV. Demoliciones
 
 ###### ARTÍCULO 893.
 
@@ -12431,7 +12769,7 @@ Tratándose de maquinaria de tipo pesado o cuando se tienen sistemas de piso fle
 
 El propietario o poseedor de una edificación deberá solicitar el dictamen de un Perito Responsable de Obra o Perito Especializado según lo establecido por este Libro, cuando se haga cambio de uso de la misma y este cambio produzca cargas muertas o vivas mayores o con una distribución de carga mas desfavorable para la estructura que las originalmente proyectadas y aprobadas conforme a lo previsto en este capítulo.
 
-### CAPÍTULO VI. Excavaciones
+### CAPÍTULO V. Mediciones y Trazos
 
 ###### ARTÍCULO 902.
 
@@ -12449,7 +12787,7 @@ Esta carga es de tipo accidental y es adicional a la carga viva como tal, por lo
 
 Los drenajes de cubiertas y azoteas deberán proyectarse de tal manera que garanticen el desalojo eficiente del agua de lluvia o granizo, evitando además en la medida de lo posible la eventual obstrucción de los tubos de bajadas de aguas pluviales.
 
-### CAPÍTULO VII. Terraplenes y Rellenos
+### CAPÍTULO VI. Excavaciones
 
 ###### ARTÍCULO 905.
 
@@ -12613,7 +12951,7 @@ El espacio existente entre las construcciones deberá quedar libre de todo mater
 
 El análisis sísmico de puentes, péndulos invertidos, tanques, chimeneas, silos, tuberías, presas, muros de contención y otras construcciones que no sean edificios en el sentido estricto de la palabra se hará de acuerdo a lo que especifiquen las Normas Técnicas Complementarias correspondientes, y en los aspectos no cubiertos por ellas, dicho análisis se hará de acuerdo a criterios aprobados por la Secretaría.
 
-### CAPÍTULO VIII. Cimentaciones
+### CAPÍTULO VII. Terraplenes y Rellenos
 
 ###### ARTÍCULO 924.
 
@@ -12667,7 +13005,7 @@ El procedimiento para realizar dichas modificaciones y el criterio para saber cu
 
 Se revisará la estabilidad de las construcciones ante efectos de viento durante el proceso de construcción o erección. Podrán necesitarse apuntalamientos y construcciones provisionales, especialmente en construcciones de tipo prefabricado.
 
-### CAPÍTULO IX. Cimbras y Andamios
+### CAPÍTULO VIII. Cimentaciones
 
 ###### ARTÍCULO 930.
 
@@ -12849,7 +13187,7 @@ De acuerdo a las necesidades del estudio, el Perito Especializado en Geología o
 
 En casos excepcionales, a juicio de la Secretaría, se pedirá al propietario y ocupante de una edificación la realización de nivelaciones periódicas, ya sea por su ubicación, cercanía a alguna falla, grieta, fisuramiento o discontinuidad en el subsuelo, por el tipo de terreno sobre el cual esté desplantada u otras condiciones desfavorables del lugar.
 
-### CAPÍTULO X. Dispositivos para Elevación en las Obras
+### CAPÍTULO IX. Cimbras y Andamios
 
 ###### ARTÍCULO 954.
 
@@ -12891,7 +13229,7 @@ La Secretaría estará facultada para llevar a cabo una revisión a fondo del pr
 
 Previamente al inicio de las obras de refuerzo de una edificación deberá comprobarse que el edificio dañado cuente con la capacidad de soportar las cargas muertas debidas al peso propio de la estructura, las cargas vivas durante la construcción previstas en este Libro, y el treinta por ciento de las cargas laterales que se obtendrán con las cargas muertas y vivas señaladas anteriormente. Para alcanzar dicha resistencia en la estructura original podrá ser necesario apuntalar o rigidizar temporalmente algunas zonas del edificio.
 
-### CAPITULO XI. Estructuras de Madera
+### CAPÍTULO X. Dispositivos para Elevación en las Obras
 
 ###### ARTÍCULO 961.
 
@@ -12903,13 +13241,13 @@ Las modificaciones que se pretendan hacer en construcciones ya existentes y que 
 
 Con respecto a la seguridad requerida durante las obras de reacondicionamiento, deberá de observarse lo estipulado en el artículo de seguridad durante las obras.
 
-### CAPÍTULO XII. Mampostería
+### CAPITULO XI. Estructuras de Madera
 
 ###### ARTÍCULO 963.
 
 Existe la obligación de comprobar la seguridad de una estructura por medio de pruebas de carga con la intervención de los Peritos Responsables de Obra de acuerdo con este Libro, en los siguientes casos:
 
-l. En las construcciones destinadas a recreación, según la clasificación de las construcciones contenida en el Título de Proyecto Arquitectónico de este Libro, así como en aquellas edificaciones en las que pueda haber frecuente aglomeración de personas;
+I. En las construcciones destinadas a recreación, según la clasificación de las construcciones contenida en el Título de Proyecto Arquitectónico de este Libro, así como en aquellas edificaciones en las que pueda haber frecuente aglomeración de personas;
 
 II. Cuando no exista suficiente evidencia teórica o experimental para juzgar en forma confiable el grado de seguridad de la estructura de que se trate;
 
@@ -12977,7 +13315,7 @@ Cuando se requiera evaluar una seguridad de una estructura ante efectos sísmico
 
 Estos procedimientos y criterios deberán ser aprobados previamente por la Secretaría.
 
-### CAPÍTULO XIII. Concreto Hidráulico Simple y Reforzado
+### CAPÍTULO XII. Mampostería
 
 ###### ARTÍCULO 974.
 
@@ -13067,7 +13405,7 @@ Por último, por lo que toca a las especificaciones que aparecen en las Normas s
 
 ## TÍTULO PRIMERO. DE LA NORMATIVIDAD DE LAS LICENCIAS REGLAMENTADAS Y ESPECIALES
 
-### CAPÍTULO XIV. Estructuras Metálicas
+### CAPÍTULO XIII. Concreto Hidráulico Simple y Reforzado
 
 ###### ARTÍCULO 978.
 
@@ -13137,7 +13475,7 @@ Se tomarán también las precauciones necesarias para impedir el acceso al sitio
 
 En las obras de construcción, deberán proporcionarse a los trabajadores servicios provisionales de agua potable y un sanitario portátil, inodoro o letrina como mínimo, se deberá adicionar uno por cada 25 trabajadores o fracción excedente de 15; y mantenerse permanentemente un botiquín con los medicamentos e instrumentales de curación necesarios para proporcionar primeros auxilios.
 
-### CAPÍTULO XV. Instalaciones
+### CAPÍTULO XIV. Estructuras Metálicas
 
 ###### ARTÍCULO 990.
 
@@ -13181,9 +13519,11 @@ Los propietarios estarán obligados a reponer por su cuenta las banquetas y guar
 
 Siempre que se ejecuten obras de cualquier clase en la vía pública o cerca de ella, se tomarán las medidas de seguridad necesarias para evitar daños o perjuicios a las instalaciones, a los trabajadores y a terceros.
 
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
+
 ###### ARTÍCULO 1000.
 
-Cuando haya que reubicar o quitar arbolado existente en la vía pública, deberá tramitarse el permiso correspondiente en la Secretaría de Servicios Públicos y Ecología Municipal.
+Cuando haya que reubicar o quitar arbolado existente en la vía pública, deberá tramitarse el permiso correspondiente en la Secretaría de Medio Ambiente y Desarrollo Sustentable.
 
 ###### ARTÍCULO 1001.
 
@@ -13193,7 +13533,7 @@ Cuando se requiera reubicar postes, ya sea de la Comisión Federal de Electricid
 
 Los vehículos que carguen o descarguen materiales para una obra en la vía pública, deberá obtener previamente la autorización correspondiente de la Secretaría. En los casos en que por necesidad de obstrucción de una vialidad exclusivamente en aquellas actividades del proceso constructivo que así lo ameriten, se deberá dar aviso y obtener la autorización de la autoridad de tránsito correspondiente.
 
-### CAPÍTULO XVI. Fachadas y Recubrimientos
+### CAPÍTULO XV. Instalaciones
 
 ###### ARTÍCULO 1003.
 
@@ -13233,7 +13573,7 @@ Los constructores y los demoledores de las obras, estarán obligados a conservar
 
 Los rótulos o anuncios sobre los tapiales se sujetarán a las disposiciones del presente Código y en el reglamento respectivo.
 
-### CAPITULO I. Uso de Predios y Edificaciones
+### CAPÍTULO XVI. Fachadas y Recubrimientos
 
 ###### ARTÍCULO 1007.
 
@@ -13275,7 +13615,7 @@ La Secretaría podrá ordenar que se suspendan los trabajos cuando no sean tomad
 
 Cualquier demolición en zona decretadas del patrimonio histórico, artístico y arqueológico de la federación, o en el caso de inmuebles catalogados de valor histórico o colindantes con éstos, requerirá previamente a la licencia de demolición, de la autorización correspondiente por parte de las autoridades federales que correspondan y requerirá en todos los casos de Perito Responsable de Obra.
 
-### CAPÍTULO II. Mantenimiento
+### CAPITULO I. Uso de Predios y Edificaciones
 
 ###### ARTÍCULO 1015.
 
@@ -13295,7 +13635,7 @@ El Perito Responsable de Obra deberá hacer constar que las diferencias no afect
 
 Las separaciones entre construcciones deberán protegerse por medio de tapajuntas o sellos que impidan la penetración de agua, basuras y otros materiales.
 
-### CAPÍTULO III. Medidas de Seguridad
+### CAPÍTULO II. Mantenimiento
 
 ###### ARTÍCULO 1018.
 
@@ -13315,7 +13655,7 @@ Previa autorización de la Secretaría, podrá extraerse agua de un predio media
 
 Las excavaciones estarán protegidas para evitar accidentes de peatones o vehículos con tapiales que ofrezcan la resistencia debida.
 
-### CAPÍTULO I. Disposiciones Generales
+### CAPÍTULO III. Medidas de Seguridad
 
 ###### ARTÍCULO 1022.
 
@@ -13333,7 +13673,7 @@ El grado de compactación recomendado estará en función del uso para el que va
 
 En todo caso, deberán realizarse pruebas de laboratorio en campo para comprobar todo lo anterior en el transcurso de la obra.
 
-### CAPÍTULO II. De los Requisitos para Solicitar las Autorizaciones de Constancia de Alineamiento y Compatibilidad Urbanística, Fusión, Subdivisión y Relotificación de Predios
+### CAPÍTULO I. Disposiciones Generales
 
 ###### ARTÍCULO 1024.
 
@@ -13365,7 +13705,7 @@ Mediante las pruebas de laboratorio indicadas en las Normas Técnicas Complement
 
 Todos los cimientos deberán tener capa impermeabilizante que impida el ascenso de la humedad hacia los muros.
 
-### CAPÍTULO III. Condiciones para Expedir las Autorizaciones de Alineamiento y Compatibilidad Urbanística y de Fusión, Subdivisión y Relotificación de Predios
+### CAPÍTULO II. De los Requisitos para Solicitar las Autorizaciones de Constancia de Alineamiento y Compatibilidad Urbanística, Fusión, Subdivisión y Relotificación de Predios
 
 ###### ARTÍCULO 1031.
 
@@ -13421,7 +13761,7 @@ Para evitar el resbalamiento de los operarios, se clavarán sobre las vigas que 
 
 Las vigas que forman el piso de los andamios y las que forman las rampas, estarán apoyadas por sus extremidades en los puentes, no permitiéndose en ningún caso empalmes intermedios.
 
-### CAPÍTULO IV. Disposiciones por Vialidades
+### CAPÍTULO III. Condiciones para Expedir las Autorizaciones de Alineamiento y Compatibilidad Urbanística y de Fusión, Subdivisión y Relotificación de Predios
 
 ###### ARTÍCULO 1040.
 
@@ -13453,7 +13793,7 @@ VI. Estar provistas de los medios necesarios para evitar el riesgo de un descens
 
 VII. Los cables que se utilicen para izar o descender materiales o como medio de suspensión, deberán ser de buena calidad, suficientemente resistente y estar exenta de defectos manifiestos.
 
-### CAPÍTULO V. Del Control del Desarrollo Urbano y Disposiciones con Respecto de la Propiedad de los Bienes Inmuebles
+### CAPÍTULO IV. Disposiciones por Vialidades
 
 ###### ARTÍCULO 1044.
 
@@ -13463,7 +13803,7 @@ En estructuras permanentes sólo se empleará madera selecta, de primera o segun
 
 La ejecución de las estructuras de madera deberá ajustarse a las especificaciones de diseño, a las características de las uniones, según su tipo, a los requerimientos para el montaje, a las tolerancias, a las especificaciones sobre contenido de humedad, a los requisitos de protección de la madera, y a los demás conceptos que se fijan en las Normas Técnicas Complementarias para Diseño y Construcción de Estructuras de Madera, de este Libro.
 
-### CAPÍTULO VI. De los Usos del Suelo Permitidos, Condicionados o Prohibidos
+### CAPÍTULO V. Del Control del Desarrollo Urbano y Disposiciones con Respecto de la Propiedad de los Bienes Inmuebles
 
 ###### ARTÍCULO 1046.
 
@@ -13505,7 +13845,7 @@ Para verificar que los elementos de mampostería con funciones estructurales o c
 
 En el caso de los morteros bastará con verificar de manera exhaustiva en obra que se cumpla con los proporcionamientos de sus componentes según se especifique en el proyecto estructural.
 
-### CAPÍTULO VII. Disposiciones Particulares de los Usos del Suelo
+### CAPÍTULO VI. De los Usos del Suelo Permitidos, Condicionados o Prohibidos
 
 ###### ARTÍCULO 1052.
 
@@ -13583,7 +13923,7 @@ El proceso de curado deberá mantenerse el tiempo que requiera el concreto para 
 
 Los elementos de concreto simple, reforzado o presforzado que se encuentren expuestos a agentes intemperizantes en ambientes dañinos que puedan modificar las dimensiones de las piezas o disminuir los recubrimientos exigidos, deberán protegerse adecuadamente por medio de recubrimientos aditivos o cementos especiales.
 
-### CAPÍTULO VIII. De las Infracciones y Sanciones
+### CAPÍTULO VII. Disposiciones Particulares de los Usos del Suelo
 
 ###### ARTÍCULO 1066.
 
@@ -13651,7 +13991,7 @@ Para tal efecto, tanto en el diseño estructural como en la construcción de las
 
 2. En el caso de que se trate de de (sic) conexiones entre columnas de concreto y trabes de acero, no bastará con que las vigas queden ahogadas dentro del concreto de la columna, pues de esta manera no se garantiza la transmisión de los esfuerzos debidos a flexión de la trabe a columna. Por tanto se deberán dejar ahogadas en las paredes de la columna, placas que reciban a las vigas o trabes que lleguen al nudo, además de vástagos metálicos que atraviesen el interior de la columna, para transmitir las tensiones que se generen entre una placa y la correspondiente de la cara contraria.
 
-### CAPÍTULO IX. Denuncia Popular
+### CAPÍTULO VIII. De las Infracciones y Sanciones
 
 ###### ARTÍCULO 1072.
 
@@ -13685,7 +14025,7 @@ Los ductos de vapor y de aire caliente situados en lugares donde tengan acceso p
 
 Para la instalación y funcionamiento de calderas, compresores y líneas o salidas de aire comprimido, deberán sujetarse en su diseño y construcción a los ordenamientos legales aplicables en la materia.
 
-### CAPÍTULO I. Disposiciones Generales
+### CAPÍTULO IX. Denuncia Popular
 
 ###### ARTÍCULO 1078.
 
@@ -13743,7 +14083,7 @@ Los elementos aislados, tales como fuentes, esculturas, arcos, columnas, monumen
 
 ## TÍTULO SEGUNDO. DE LOS MERCADOS, ESTACIONAMIENTOS, COMERCIO Y OTRAS ACTIVIDADES EN LA VÍA PÚBLICA
 
-### CAPÍTULO II. De los Trámites Administrativos y Registros
+### CAPÍTULO I. Disposiciones Generales
 
 ###### ARTÍCULO 1089.
 
@@ -13779,7 +14119,7 @@ II. La ejecución de obras, adaptaciones, instalaciones y otros trabajos que sea
 
 Lo anterior independientemente de las sanciones a que se haga acreedor conforme a este Libro.
 
-### CAPÍTULO III. Clasificación de los Anuncios
+### CAPÍTULO II. De los Trámites Administrativos y Registros
 
 ###### ARTÍCULO 1093.
 
@@ -13801,7 +14141,7 @@ Deberá darse mantenimiento a las cercas para garantizar su estabilidad.
 
 Quedan prohibidas instalaciones y construcciones precarias en las zonas de las edificaciones, cualquiera que sea el uso que pretenda dárseles.
 
-### CAPÍTULO IV. Requerimientos Técnicos Generales
+### CAPÍTULO III. Clasificación de los Anuncios
 
 ###### ARTÍCULO 1097.
 
@@ -13831,7 +14171,7 @@ La Secretaría podrá clausurar como medida de seguridad, las obras terminadas o
 
 ## TITULO PRIMERO. DE LOS FESTEJOS TAURINOS
 
-### CAPÍTULO V. Anuncios Estructurales
+### CAPÍTULO IV. Requerimientos Técnicos Generales
 
 ###### ARTÍCULO 1103.
 
@@ -14029,7 +14369,7 @@ IX. Todas las demás que se señalen en este Código Municipal y otras disposici
 
 X. Controlar y vigilar la zonificación y los usos del suelo que se deriven de los Programas de Desarrollo Urbano Municipales y demás disposiciones jurídicas aplicables.
 
-### CAPÍTULO VI. Anuncios Semiestructurales
+### CAPÍTULO V. Anuncios Estructurales
 
 ###### ARTÍCULO 1109.
 
@@ -14169,13 +14509,13 @@ Una vez presentados los requisitos indicados en el artículo anterior, el solici
 
 La resolución referida en el artículo anterior, deberá dictarse en un término no mayor de diez días hábiles, contados a partir de que la Secretaría, por conducto de la Dirección de Fraccionamientos recibió la solicitud debidamente requisitada; en caso de no emitir la determinación en dicho término se entenderá concedida la autorización solicitada, previa certificación que expida la Secretaría.
 
-### CAPÍTULO VII. Anuncios sin Estructura Soportante
+### CAPÍTULO VI. Anuncios Semiestructurales
 
 ###### ARTÍCULO 1122.
 
 Las constancias de alineamiento y compatibilidad urbanística deberán de apegarse a lo siguiente:
 
-l. Respecto de las constancias autorizadas:
+I. Respecto de las constancias autorizadas:
 
 La persona respectiva deberá respetar las observaciones que le indique la Secretaría en esa constancia.
 
@@ -14251,7 +14591,7 @@ f) Que no disminuya el área de donación determinada por el Ayuntamiento.
 
 Sólo se autorizará el 10% de relotificaciones de predios con respecto al total de lotes aprobados originalmente en los fraccionamientos, siempre y cuando no se sature o afecten las instalaciones señaladas en el inciso b) de este artículo y que dicha relotificación no rebase el 12% de lotes previamente autorizados en una manzana.
 
-### CAPÍTULO VIII. Disposiciones por Zona
+### CAPÍTULO VII. Anuncios sin Estructura Soportante
 
 ###### ARTÍCULO 1125.
 
@@ -14275,7 +14615,7 @@ VII.- ANDADORES: Son aquellos que servirán exclusivamente para el tránsito de 
 
 Todas las vías públicas que se construyan deberán contar con el diseño apropiado para facilitar la circulación de personas con discapacidad.
 
-### CAPÍTULO IX. Disposiciones por Vialidades
+### CAPÍTULO VIII. Disposiciones por Zona
 
 ###### ARTÍCULO 1127.
 
@@ -14353,7 +14693,7 @@ Nadie puede abrir ventanas, vanos o espacios libres que tengan una colindancia d
 
 No se pueden tener ventanas o vanos para asomarse, ni balcones y otros voladizos semejantes, sobre la propiedad del vecino, prolongándose más allá del limite que separa las propiedades respectivas. Tampoco pueden tenerse vistas de costado u oblicuas sobre la misma propiedad, si no hay un metro de distancia.
 
-### CAPÍTULO X. Medidas de Seguridad, Infracciones y Sanciones
+### CAPÍTULO IX. Disposiciones por Vialidades
 
 ###### ARTÍCULO 1144.
 
@@ -14361,11 +14701,13 @@ Tratándose de fraccionamientos habitacionales urbanos de tipo residencial, en c
 
 I. En aquellos lotes en que el uso del suelo se hubiera autorizado como habitacional en el dictamen de autorización del fraccionamiento o se hubiera edificado el inmueble para ese uso, no se podrá modificar el mismo.
 
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2011)</small>
+
 II. Únicamente se podrá ocupar el 5% de la superficie vendible para áreas comerciales y de servicios en las zonas previamente definidas y autorizadas en el proyecto y/o plano de factibilidad de usos del suelo respectivo del fraccionamiento.
 
 Respecto de las actividades comerciales, estas deberán ser únicamente las catalogadas como de tipo inmediato y si estas se ubican en vialidades locales, únicamente podrá ser en sus esquinas.
 
-En lo referente a los servicios, se deberá tomar en consideración el dictamen que emita la Dirección de Ecología y Salud Municipal o la Dependencia Estatal correspondiente, según sea su competencia, así como el Dictamen Urbano que expide la Secretaría.
+En lo referente a los servicios, se deberá tomar en consideración el dictamen que emita la Secretaría de Medio Ambiente o la Dependencia Estatal correspondiente, según sea su competencia, así como el Dictamen Urbano que expide la Secretaría.
 
 Apreciando que se trata de un fraccionamiento de tipo habitacional, en caso de que el proyecto de autorización correspondiente no hubieran indicado las áreas comerciales y de servicios, se entenderá que corresponden únicamente a uso habitacional unifamiliar y por tanto ese será el uso del suelo procedente en el fraccionamiento.
 
@@ -14381,11 +14723,13 @@ Tratándose de fraccionamientos habitacionales urbanos de tipo medio, en cuanto 
 
 I. En aquellos lotes en que el uso del suelo se hubiera autorizado como habitacional en el dictamen de autorización del fraccionamiento o se hubiera edificado el inmueble para ese uso, no se podrá modificar el mismo.
 
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2011)</small>
+
 II. Únicamente se podrá ocupar el 10% de la superficie vendible para áreas comerciales y de servicios en las zonas previamente definidas y autorizadas en el proyecto y/o plano de factibilidad de usos del suelo respectivo del fraccionamiento.
 
 Considerando que se trata de un fraccionamiento habitacional preponderantemente unifamiliar, en caso de que el proyecto correspondiente no hubiera indicado las áreas comerciales, servicios o vivienda multifamiliar, se entenderá que únicamente corresponden a uso habitacional unifamiliar.
 
-Respecto de las actividades comerciales, este deberá ser el que se cataloga como de tipo inmediato y en lo referente a los servicios siempre y cuando el dictamen que emita la Dirección de Ecología y Educación Ambiental Municipal o la Dependencia Estatal correspondiente, según sea su competencia, determine que no se causa un impacto ambiental;
+Respecto de las actividades comerciales, este deberá ser el que se cataloga como de tipo inmediato y en lo referente a los servicios siempre y cuando el dictamen que emita la Secretaria de Servicios Públicos o la Dependencia Estatal correspondiente, según sea su competencia, determine que no se causa un impacto ambiental;
 
 III. En el caso de vialidades colectoras, secundarias, primarias y regionales, ubicadas dentro de estos fraccionamientos y atendiendo a las características de estas, podrán existir otros usos diferentes al habitacional, siempre y cuando no se altere el contexto existente y por tanto no se provoque alteraciones al flujo vehicular. Esta situación se determinara mediante dictamen que emita la Secretaría, mediante el cual se definirá la procedencia de autorizar o no la Constancia de Alineamiento y Compatibilidad Urbanística.
 
@@ -14393,7 +14737,7 @@ III. En el caso de vialidades colectoras, secundarias, primarias y regionales, u
 
 Tratándose de fraccionamientos habitacionales urbanos de tipo popular, en cuanto al uso del suelo se establece lo siguiente:
 
-l. Se permitirá predominantemente el uso habitacional, restringiéndose el uso comercial y de servicios a la ubicación de éstos.
+I. Se permitirá predominantemente el uso habitacional, restringiéndose el uso comercial y de servicios a la ubicación de éstos.
 
 II. Toda actividad comercial y de servicios deberá estar comprendida dentro del 20% de la superficie destinada para ello, conforme al proyecto autorizado el cual se indicará en el plano de factibilidad de usos del suelo previamente autorizado por la Comisión Estatal de Desarrollo Urbano o en su caso la SEPLADE; pudiendo incrementar dicho porcentaje hasta en un 5% más, siempre y cuando sea justificable, no altere el entorno inmediato a él, no modifique la estructura urbana y vial, y no represente riesgo alguno para los habitantes de la zona.
 
@@ -14455,7 +14799,7 @@ En el caso de condominios habitacionales de tipo popular e interés social se pe
 
 Ningún condómino tendrá derecho o facultad para bardear, enmallar, cercar o construir sobre áreas de uso común.
 
-### CAPÍTULO XI. Denuncia Popular
+### CAPÍTULO X. Medidas de Seguridad, Infracciones y Sanciones
 
 ###### ARTÍCULO 1153.
 
@@ -14473,7 +14817,7 @@ Para el caso de establecimientos comerciales de tipo eventual, deberá incluir u
 
 Todo comercio de tipo periódico que maneje o expenda material de tipo tóxico, flamable, volátil o material de tipo peligroso, deberá presentar el cuestionario de información básica ambiental, el cual será parte primordial para la autorización del giro de que se trate.
 
-### CAPÍTULO I. De los Requisitos para Obtener Licencias para la venta de bebidas alcohólicas, sustancias o medicamentos de efectos psicotrópicos o enervantes
+### CAPÍTULO XI. Denuncia Popular
 
 ###### ARTÍCULO 1157.
 
@@ -14491,7 +14835,7 @@ Los gastos generados con motivo de una demolición efectuada por la Secretaría 
 
 La Secretaría requerirá, en todo caso, a la persona que contravenga lo dispuesto en el artículo anterior, para que se ajuste al mismo; en caso de no hacerlo ésta en el plazo que le será previamente fijado, el cual no podrá ser menor a diez días hábiles, se procederá en los términos del numeral que antecede.
 
-### CAPÍTULO II. De la Venta y Consumo de Bebidas Alcohólicas
+### CAPÍTULO I. De los Requisitos para Obtener Licencias para la venta de bebidas alcohólicas, sustancias o medicamentos de efectos psicotrópicos o enervantes
 
 ###### ARTÍCULO 1161.
 
@@ -14511,7 +14855,7 @@ El desahogo del procedimiento referido en este capítulo, no excederá de treint
 
 ## TÍTULO SEGUNDO. DE LOS ESPECTÁCULOS DEPORTIVOS
 
-### CAPÍTULO III. De las Farmacias, Droguerías, Tlapalerías o Similares
+### CAPÍTULO II. De la Venta y Consumo de Bebidas Alcohólicas
 
 ###### ARTÍCULO 1165.
 
@@ -14587,7 +14931,7 @@ Letrero, comunicación o publicidad que indique, señale, exprese, muestre o dif
 
 La Secretaría tiene las siguientes atribuciones:
 
-l. Expedir licencias o permisos para la instalación, fijación o colocación y retiro de los anuncios a que se refiere el presente Código Municipal y en su caso, negar o cancelar las licencias o permisos;
+I. Expedir licencias o permisos para la instalación, fijación o colocación y retiro de los anuncios a que se refiere el presente Código Municipal y en su caso, negar o cancelar las licencias o permisos;
 
 II. De conformidad con lo previsto en la ley de Ingresos Municipal vigente, determinar el costo de cada licencia o permiso;
 
@@ -14661,7 +15005,7 @@ Tampoco es aplicable para los anuncios gráficos o luminosos colocados en el int
 
 Los anuncios de carácter político se regularán atendiendo a los siguientes periodos:
 
-l. Durante las campañas electorales de los partidos políticos, a los tiempos establecidos en la legislación electoral federal o estatal según corresponda, y
+I. Durante las campañas electorales de los partidos políticos, a los tiempos establecidos en la legislación electoral federal o estatal según corresponda, y
 
 II. En el tiempo en que no se desarrollen aquéllas.
 
@@ -14749,7 +15093,7 @@ El texto de los anuncios deberá redactarse en idioma español con sujeción a l
 
 La Secretaría requerirá al solicitante que presente el registro o autorización que previamente le hubieran expedido la Autoridad Federal, Estatal o Municipal competente o entidad correspondiente, que permitan la difusión al público del bien o servicio de que se trate, para los efectos de otorgar la licencia o permiso respectivo, particularmente en los siguientes casos:
 
-l. Cuando se trate de bienes o servicios nuevos que se vayan a introducir al mercado y que puedan poner en riesgo la integridad física o salud de los consumidores;
+I. Cuando se trate de bienes o servicios nuevos que se vayan a introducir al mercado y que puedan poner en riesgo la integridad física o salud de los consumidores;
 
 II. Cuando se trate de la venta de terrenos, casas, departamentos, locales comerciales y de servicios, ubicados en fraccionamientos, condominios o desarrollos habitacionales, que hubieran requerido obras de urbanización e introducción de infraestructura urbana, y
 
@@ -14805,7 +15149,7 @@ No se requiere licencia para la colocación de anuncios adosados cuando no sean 
 
 Cuando se pretenda instalar este tipo de anuncios dentro del Centro Histórico o en las Zonas Especiales consideradas por este Código, el interesado deberá presentar ante la Secretaría un croquis acotado o fotografía, indicando las dimensiones del anuncio y el lugar en que se pretenda colocar, en cuyo caso deberá sujetarse a las restricciones que se establecen en este Código y el Reglamento para el Centro Histórico en correlación a la Ley de Protección y Fomento al Patrimonio Cultural de Aguascalientes para la instalación de anuncios en dichos lugares.
 
-### CAPÍTULO IV. De los hoteles, moteles, casas de huéspedes, mesones y otros establecimientos similares
+### CAPÍTULO III. De las Farmacias, Droguerías, Tlapalerías o Similares
 
 ###### ARTÍCULO 1200.
 
@@ -14919,7 +15263,7 @@ Los fabricantes, arrendadores y rotulistas de anuncios, tienen la obligación de
 
 Los pagos de licencias, permisos y sanciones, se realizarán en las cajas receptoras de la Secretaría de Finanzas Públicas del Municipio de Aguascalientes.
 
-### CAPÍTULO V. De los billares, boliches, máquinas de juegos, videojuegos, juegos electrónicos y renta de equipos de cómputo
+### CAPÍTULO IV. De los hoteles, moteles, casas de huéspedes, mesones y otros establecimientos similares
 
 ###### ARTÍCULO 1214.
 
@@ -15089,17 +15433,13 @@ X. Proyectados.
 
 Son anuncios especiales, aquellos cuyas características no corresponden a alguno de los clasificados por el Código o por éste Código Municipal o bien los que se adapten a un determinado diseño arquitectónico o se adecuen armoniosamente al entorno circundante en forma única.
 
-### CAPÍTULO VI
-
-De los establecimientos dedicados a la renta de películas, videos, cintas, discos compactos, salas de cine y cualquier otro equipo que transmita sonido o imágenes
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE SEPTIEMBRE DE 2009)</small>
+### CAPÍTULO V. De los billares, boliches, máquinas de juegos, videojuegos, juegos electrónicos y renta de equipos de cómputo
 
 ###### ARTÍCULO 1223.
 
 Cualquier persona o compañía que instale, coloque o rente anuncios, deberá identificarse por medio de placa metálica o calcomanía que determine la Secretaría y cuya dimensiones dependerán del tamaño del anuncio, la cual será colocada en la parte inferior del anuncio, debiendo ser legible desde la vía pública y además que contenga:
 
-l. Nombre o razón social del propietario, fabricante, arrendatario o rotulista, y
+I. Nombre o razón social del propietario, fabricante, arrendatario o rotulista, y
 
 II. Número de la licencia expedida por la Secretaría.
 
@@ -15135,9 +15475,11 @@ En caso de incumplimiento de lo preceptuado en el artículo anterior, no se reno
 
 En caso de estructuras iguales para soporte de anuncios iguales, se podrá registrar una sola memoria de cálculo por cada anuncio, debidamente firmada en original por un Perito registrado ante la Secretaría, siempre y cuando las características de suelo sean similares y no se encuentre bajo la influencia de una falla geológica; si las características son distintas, deberá presentarse una memoria de cálculo por cada anuncio.
 
-### CAPÍTULO VII
+### CAPÍTULO VI
 
-De los establecimientos dedicados a la renta de salones para fiestas infantiles, jardines y salones para fiestas y banquetes.
+De los establecimientos dedicados a la renta de películas, videos, cintas, discos compactos, salas de cine y cualquier otro equipo que transmita sonido o imágenes
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE SEPTIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 1232.
 
@@ -15253,7 +15595,9 @@ IV. Los espacios que no se utilicen para la fijación de anuncios, con respecto 
 
 V. La altura máxima de estos anuncios será de 2.50 metros.
 
-### CAPÍTULO VIII. De las personas que se dediquen a la venta de revistas y periódicos en estanquillos, kioscos o locales
+### CAPÍTULO VII
+
+De los establecimientos dedicados a la renta de salones para fiestas infantiles, jardines y salones para fiestas y banquetes.
 
 ###### ARTÍCULO 1240.
 
@@ -15275,7 +15619,7 @@ VI. La altura mínima del área publicitaria con relación al nivel del piso ser
 
 Los anuncios semiestructurales de perfil bajo o mampostería, además de los requisitos aplicables por este Código Municipal, deben llenar los siguientes:
 
-l. La proyección vertical del saliente máximo de los anuncios no deberá rebasar el límite de la propiedad;
+I. La proyección vertical del saliente máximo de los anuncios no deberá rebasar el límite de la propiedad;
 
 II. Sólo podrá colocarse un anuncio de este tipo por predio o por cada acceso de un desarrollo autorizado;
 
@@ -15283,15 +15627,13 @@ III. La distancia mínima de cualquier elemento integrante del anuncio, a cualqu
 
 IV. La altura máxima del anuncio será de 3.00 metros y como superficie máxima deberá tener 12 metros cuadrados, incluyendo todos los elementos del mismo.
 
-### CAPÍTULO IX. De la Actividad Musical en Vía Pública
-
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2009)</small>
+### CAPÍTULO VIII. De las personas que se dediquen a la venta de revistas y periódicos en estanquillos, kioscos o locales
 
 ###### ARTÍCULO 1242.
 
 Los anuncios tipo toldo opaco o luminoso, además de los requisitos aplicables por este Código Municipal, deben llenar los siguientes:
 
-l. La proyección vertical del saliente máximo del anuncio en tipo toldo, no deberá ser mayor de 0.60 metros hacia el exterior del límite de la propiedad privada;
+I. La proyección vertical del saliente máximo del anuncio en tipo toldo, no deberá ser mayor de 0.60 metros hacia el exterior del límite de la propiedad privada;
 
 II. La altura mínima desde el nivel de la banqueta, hacia cualquier elemento del toldo deberá ser de 2.20 metros;
 
@@ -15349,7 +15691,7 @@ Estos anuncios no se permitirán en la Zona de Protección Histórico Patrimonia
 
 Los anuncios rotulados y adosados, además de los requisitos aplicables por este Código Municipal, deben llenar los siguientes:
 
-l. La superficie total del anuncio no deberá exceder del 30 por ciento de la superficie total de la fachada donde se ubique, incluyendo los vanos del inmueble;
+I. La superficie total del anuncio no deberá exceder del 30 por ciento de la superficie total de la fachada donde se ubique, incluyendo los vanos del inmueble;
 
 II. La superficie permisible deberá estar contenida en un solo elemento rotulado;
 
@@ -15365,7 +15707,7 @@ VI. No se permitirán en la Zona definida como de Protección Histórico Patrimo
 
 Los anuncios eventuales de tijera, pendones o caballete, serán autorizados por la Secretaría en la cantidad por unidad y los lugares establecidos para el efecto conjuntamente con los requisitos aplicables por este Código Municipal, por lo tanto deben llenar las siguientes dimensiones:
 
-l. La superficie total del anuncio, no deberá exceder de 0.80 metros de altura por 0.50 metros de ancho dando un total 0.40 metros cuadrados por cara, para las lonas será de una superficie de 3.00 metros de ancho por 2.00 metros de largo con un total de 6.00 metros cuadrados.
+I. La superficie total del anuncio, no deberá exceder de 0.80 metros de altura por 0.50 metros de ancho dando un total 0.40 metros cuadrados por cara, para las lonas será de una superficie de 3.00 metros de ancho por 2.00 metros de largo con un total de 6.00 metros cuadrados.
 
 II. No podrán colocarse en la vía pública y espacios públicos, pero sí en servidumbres, y
 
@@ -15431,7 +15773,7 @@ Respecto de la placa que deben colocar los Peritos Responsables de Obras, la mis
 
 Los anuncios eventuales inflables de piso o globos aerostáticos, utilizados para promocionar en forma eventual, además de los requisitos aplicables por este Código Municipal, deben llenar los siguientes:
 
-l. La altura máxima permisible para los anuncios eventuales inflables de piso será de 8.00 metros de alto;
+I. La altura máxima permisible para los anuncios eventuales inflables de piso será de 8.00 metros de alto;
 
 II. Podrán colocarse en servidumbres de paso, pero no en las vías públicas;
 
@@ -15445,7 +15787,9 @@ La responsabilidad de cualquier tipo de daño que se origine con motivo de la ut
 
 La Secretaría, con la opinión del Comité, resolverá los casos que por sus características sean considerados como especiales o que no tengan similitud con los anuncios mencionados en este Código Municipal.
 
-### CAPÍTULO X. De los Espectáculos Públicos
+### CAPÍTULO IX. De la Actividad Musical en Vía Pública
+
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2009)</small>
 
 ###### ARTÍCULO 1254.
 
@@ -15773,7 +16117,7 @@ Tratándose de inmuebles de hasta tres niveles, la altura máxima de los anuncio
 
 Son consideradas Zonas Prohibidas para la instalación de todo tipo de anuncios, las siguientes:
 
-l. Dentro de un radio de 250 metros, medido en proyección horizontal del entorno de monumentos públicos y de los parques y sitios que el público frecuenta por su belleza o interés histórico, hecha excepción de los anuncios de identificación domiciliar, denominación o razón social o nombre comercial, con sujeción a las normas de zonas especiales en lo que les resulte aplicable;
+I. Dentro de un radio de 250 metros, medido en proyección horizontal del entorno de monumentos públicos y de los parques y sitios que el público frecuenta por su belleza o interés histórico, hecha excepción de los anuncios de identificación domiciliar, denominación o razón social o nombre comercial, con sujeción a las normas de zonas especiales en lo que les resulte aplicable;
 
 II. La vía pública, comprendiendo ésta las áreas verdes, banquetas, guarniciones, pavimento, arroyos de las calles, camellones, glorietas, plazas públicas y sus áreas verdes, los jardines públicos, así como todos los lugares con accesos públicos, peatonales o vehiculares, los pasos a desnivel y los elementos que lo conforman.
 
@@ -15829,7 +16173,7 @@ Altura del poste
 
 18 m2
 
-### CAPÍTULO I. Disposiciones Generales
+### CAPÍTULO X. De los Espectáculos Públicos
 
 ###### ARTÍCULO 1268.
 
@@ -15871,7 +16215,7 @@ Todos los anuncios, excepto los clasificados en este Código Municipal como estr
 
 En las vialidades locales, se permite la instalación de los anuncios que sean conformes al uso del suelo o zona especial donde se ubique la vialidad.
 
-### CAPÍTULO II. De los Mercados y las Actividades Comerciales
+### CAPÍTULO I. Disposiciones Generales
 
 ###### ARTÍCULO 1277.
 
@@ -15951,7 +16295,7 @@ En el caso de reincidencia de los fabricantes de anuncios, arrendatarios o rotul
 
 La Secretaría ejercerá las facultades de verificación y vigilancia que le corresponden, observando las disposiciones que en esa materia dispone éste Código Municipal y demás legislación aplicable.
 
-### CAPÍTULO III. De las Autoridades que Reglamentan el Comercio en la Vía Pública
+### CAPÍTULO II. De los Mercados y las Actividades Comerciales
 
 ###### ARTÍCULO 1289.
 
@@ -15973,7 +16317,7 @@ El desahogo del procedimiento referido en este capítulo, no excederá de quince
 
 ## TÍTULO PRIMERO. DEL ACTO ADMINISTRATIVO MUNICIPAL
 
-### CAPÍTULO IV. Disposiciones Especiales para los Tianguistas
+### CAPÍTULO III. De las Autoridades que Reglamentan el Comercio en la Vía Pública
 
 ###### ARTÍCULO 1293.
 
@@ -15989,7 +16333,9 @@ IV. Ubicación exacta del lugar en donde pretende establecer el negocio de que s
 
 V. Mencionar el giro específico, respecto del cual solicita la licencia.
 
-VI. Acompañar constancia expedida por la Secretaría de Servicios Públicos y Ecología, en la que señale que no se afecta el equilibrio ecológico o el medio ambiente con la operación del negocio.
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2011)</small>
+
+VI. Acompañar constancia expedida por la Secretaría de Medio Ambiente y Desarrollo Sustentable, en la que señale que no se afecta el equilibrio ecológico o el medio ambiente con la operación del negocio.
 
 VII. Acompañar constancia de alineamiento y compatibilidad de uso del suelo expedidos por la Secretaría de Desarrollo Urbano, y en su caso proyecto de cambio de uso del suelo. La carencia de cualquiera de los requisitos que señala el presente artículo, dará lugar a que no se de trámite y se rechace la solicitud de que se trate.
 
@@ -16025,7 +16371,7 @@ Si el dictamen técnico determina que se cubren la totalidad de los requisitos s
 
 Aprobada la licencia por el Presidente Municipal, se expedirá el documento correspondiente por la Dirección General de Gobierno, la Secretaría de Finanzas Públicas, previo pago de las contribuciones municipales y exhibición de fianza que determine la Secretaría de Finanzas Públicas, con el objeto de que garantice el cumplimiento de las obligaciones que le establece a su titular el presente Código. Negada la aprobación del giro correspondiente por el Presidente Municipal, se notificará al solicitante y se dará por concluido el trámite.
 
-### CAPÍTULO V. De los Permisos para el Comercio en la Vía Pública
+### CAPÍTULO IV. Disposiciones Especiales para los Tianguistas
 
 ###### ARTÍCULO 1298.
 
@@ -16071,7 +16417,7 @@ XVII. Respetar cualquiera de las limitaciones que le impone este capítulo, al g
 
 BIS.- En todos los establecimientos que el H. Ayuntamiento determine expedir licencia de funcionamiento o conceder permiso provisional de funcionamiento, se deberán modificar los patrones socioculturales de conducta de mujeres y hombres para contrarrestar prejuicios, costumbres y todo tipo de prácticas que se basen en la premisa de la superioridad o inferioridad de cualquiera de los géneros o en los papeles estereotipados para la mujer y el hombre que legitimasen o exacerben la discriminación y la violencia contra las mujeres.
 
-### CAPÍTULO VI. De la Expedición de Permisos para el Comercio en la Vía Pública
+### CAPÍTULO V. De los Permisos para el Comercio en la Vía Pública
 
 ###### ARTÍCULO 1299.
 
@@ -16081,7 +16427,7 @@ Son objeto de regulación de acuerdo a este Código, los establecimientos comerc
 
 Los establecimientos dedicados a la venta y consumo de bebidas alcohólicas suspenderán sus actividades los días en los que se establezca "Ley Seca", siendo obligatorio el cierre en tales días por razones de interés público, y que a saber son el dieciséis de septiembre, y el veinte de noviembre; los días en que haya elecciones federales, estatales o municipales incluso desde un día antes de la elección y todos aquellos días en que en forma especial así lo determine el Honorable Ayuntamiento.
 
-### CAPÍTULO VII. Derechos y Obligaciones de los Comerciantes en la Vía Pública
+### CAPÍTULO VI. De la Expedición de Permisos para el Comercio en la Vía Pública
 
 ###### ARTÍCULO 1301.
 
@@ -16091,7 +16437,7 @@ Las licencias y permisos que se otorguen al amparo de este Código, en cualquier
 
 Los permisos y licencias que se otorguen al amparo de este capítulo, son de carácter personal, quedando prohibidos los cambios de propietario y de giro; se extinguirán o cancelarán tratándose de disolución de personas morales. Se exceptúa de lo anterior los casos de muerte del titular en los que podrá transmitirse vía sucesión legítima o testamentaria.
 
-### CAPÍTULO VIII. De los aseadores de calzado y vehículos en la vía pública
+### CAPÍTULO VII. Derechos y Obligaciones de los Comerciantes en la Vía Pública
 
 ###### ARTÍCULO 1303.
 
@@ -16149,7 +16495,7 @@ Discoteca es el lugar que opera con juego de luces y sonido, grabaciones y pista
 
 Pulquería es el establecimiento dedicado a la venta de pulque para su consumo inmediato, pudiendo funcionar en un horario de las diez a las veinte horas, en ellas tendrán acceso los trovadores y músicos que cuenten con el permiso correspondiente de la autoridad municipal y tengan la autorización del propietario o responsable del establecimiento.
 
-### CAPÍTULO IX. De los Estacionamientos y Pensiones
+### CAPÍTULO VIII. De los aseadores de calzado y vehículos en la vía pública
 
 ###### ARTÍCULO 1313.
 
@@ -16167,7 +16513,7 @@ Tienda de convivencia es el establecimiento perteneciente a una cadena comercial
 
 En los establecimientos referidos en el artículo anterior estará prohibido el consumo dentro del establecimiento y su horario de funcionamiento de manera general será de las nueve a las veintidós horas para venta de dichos productos, los giros de abarrotes con venta de cerveza, vinos y licores deberán tener predominantemente abarrotes.
 
-### CAPÍTULO I. Disposiciones Generales
+### CAPÍTULO IX. De los Estacionamientos y Pensiones
 
 ###### ARTÍCULO 1316.
 
@@ -16175,13 +16521,13 @@ Los restaurantes, loncherías y cenadurías, previa licencia, podrán expender b
 
 En las fondas, loncherías, cenadurías y en los restaurantes, será potestativo del propietario el autorizar acceso a los músicos y trovadores.
 
-### CAPITULO II. De la Autoridad
+### CAPÍTULO I. Disposiciones Generales
 
 ###### ARTÍCULO 1317.
 
 Los centros sociales, clubes deportivos, de servicio y similares, previa licencia, podrán habilitar una área especial para cantina, en el horario que para la misma señala este Código.
 
-### CAPÍTULO III. De las Características de las Plazas de Toros
+### CAPITULO II. De la Autoridad
 
 ###### ARTÍCULO 1318.
 
@@ -16201,13 +16547,13 @@ Queda prohibido, en cualquiera de los establecimientos referidos en este capítu
 
 > <small>(REFORMADO, P.O. 12 DE MAYO DE 2008)</small>
 
-### CAPÍTULO IV. De las Clases de Espectáculos Taurinos y de los Requisitos para su Organización y Celebración
+### CAPÍTULO III. De las Características de las Plazas de Toros
 
 ###### ARTÍCULO 1322.
 
 La Dirección General de Gobierno podrá autorizar la ampliación de horario los días jueves, viernes y sábado, así como en fechas conmemorativas o celebraciones especiales, hasta por dos horas más, previo pago de los derechos correspondientes. Se exceptúa de lo anterior los casos en que se decrete Ley Seca. Así mismo, se podrá autorizar que farmacias, supermercados y similares funcionen las veinticuatro horas, suspendiendo la venta de bebidas alcohólicas en los horarios señalados en este capítulo.
 
-### CAPÍTULO V. Derechos y Obligaciones de los Espectadores
+### CAPÍTULO IV. De las Clases de Espectáculos Taurinos y de los Requisitos para su Organización y Celebración
 
 ###### ARTÍCULO 1323.
 
@@ -16249,7 +16595,7 @@ V. Realizar campañas permanentes sobre la normatividad, técnicas y métodos en
 
 El Consejo estará integrado por:
 
-l. El Regidor titular de la Comisión de Gobernación o el representante que designe, con voto de calidad en caso de empate.
+I. El Regidor titular de la Comisión de Gobernación o el representante que designe, con voto de calidad en caso de empate.
 
 II. El Regidor titular de la Comisión de Control Reglamentario y Espectáculos o el representante que designe.
 
@@ -16257,11 +16603,21 @@ III. El Secretario del H. Ayuntamiento o el Representante que designe.
 
 IV. El Secretario de Servicios Públicos y Ecología o el representante que designe.
 
-V. El Secretario de Seguridad Pública y Tránsito o el representante que designe.
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2011)</small>
 
-VI. El Director de Reglamentación.
+V. El Secretario de Medio Ambiente y Desarrollo Sustentable o el representante que designe el Secretario;
 
-VII. Tres representantes que de común acuerdo sean nombrados por los titulares de las licencias de sustancias de efecto psicotrópico.
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2011)</small>
+
+VI. El Secretario de Seguridad Pública y Tránsito o el representante que designe;
+
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2011)</small>
+
+VII. El Director de Reglamentación; y
+
+> <small>(ADICIONADA, P.O. 14 DE FEBRERO DE 2011)</small>
+
+VIII. Tres representantes que de común acuerdo sean nombrados por los titulares de las licencias de sustancias de efecto psicotrópico.
 
 Se podrá invitar a las sesiones del Consejo, a los representantes de instituciones públicas federales o estatales.
 
@@ -16283,13 +16639,13 @@ La Dirección General de Gobierno, podrá formular un padrón de farmacias para 
 
 De igual manera, los establecimientos que se dediquen a la venta de sustancias psicotrópicas.
 
-### CAPÍTULO VI. De las Reses de Lidia
+### CAPÍTULO V. Derechos y Obligaciones de los Espectadores
 
 ###### ARTÍCULO 1330.
 
 Los administradores o encargados de hoteles, moteles, casa de huéspedes, mesones y otros establecimientos similares, tienen la obligación de requerir a todo huésped el equipaje correspondiente y sus datos personales que deberán anotarse en el libro de registro e independientemente de lo anterior, se prohíbe el ingreso de parejas menores de edad o en su caso de personas con uniforme escolar sin acompañarse de sus padres o familiares. La violación a las obligaciones anteriores será materia de sanción, en los términos de este Código.
 
-### CAPÍTULO VII. De la Cuadra de Caballos
+### CAPÍTULO VI. De las Reses de Lidia
 
 ###### ARTÍCULO 1331.
 
@@ -16327,7 +16683,7 @@ XII. Cumplir con las disposiciones que establece el presente Código y demás qu
 
 Los establecimientos dedicados a la renta de equipos de cómputo para el uso de Internet y cualquier programa computacional, deberán contar con licencia especial de funcionamiento y deben cumplir con las siguientes obligaciones:
 
-l. Sujetarse a un horario de las siete a las veintitrés horas.
+I. Sujetarse a un horario de las siete a las veintitrés horas.
 
 II. Prohibir la renta del equipo de cómputo para el uso exclusivo de video-juegos.
 
@@ -16349,13 +16705,13 @@ Los requisitos para el otorgamiento de esta licencia de carácter especial será
 
 Los establecimientos dedicados a la renta de equipos de cómputo para Internet o programas computacionales, no podrán alquilar éstos para el uso de video-juegos; en todo caso deberán solicitar licencia reglamentada para renta de maquinas de video-juegos y sujetarse a lo establecido en el artículo 1332 del presente Código.
 
-### CAPÍTULO VIII. De los Actos Previos a la Lidia
+### CAPÍTULO VII. De la Cuadra de Caballos
 
 ###### ARTÍCULO 1335.
 
 Los establecimientos dedicados a la venta, renta y/o intercambio de fonogramas o videogramas, deberán solicitar licencia de funcionamiento en los términos de este Código y cumplir con las siguientes obligaciones:
 
-l. Operar en un horario de las nueve a las veintitrés horas.
+I. Operar en un horario de las nueve a las veintitrés horas.
 
 II. Prohibir que laboren menores de edad dentro del establecimiento.
 
@@ -16383,13 +16739,13 @@ En cualquier momento, la Dirección de Reglamentación podrá solicitar el auxil
 
 Las salas de cine deberán contar con licencia vigente, y permitir la entrada de las personas de acuerdo a la edad según la clasificación de las películas. Deberán además anunciar la clasificación de cada película que exhiban.
 
-### CAPÍTULO IX. Del Desarrollo de la Lidia
+### CAPÍTULO VIII. De los Actos Previos a la Lidia
 
 ###### ARTÍCULO 1337.
 
 Los establecimientos dedicados a la renta de salones para fiestas infantiles, jardines y salones para fiestas y banquetes, deberán contar con licencia para funcionamiento y sujetarse a un horario, los dos primeros de las ocho a las veintidós horas, el tercero con un horario de las ocho horas a las dos horas del día siguiente. En los salones para fiestas infantiles no se permitirá la venta o consumo de bebidas alcohólicas. Los dueños de estos establecimientos no tendrán que solicitar permiso cada vez que haya un evento, pero sí deberán de dar aviso por escrito a la Dirección General de Gobierno con un mínimo de tres días hábiles antes del evento por escrito deberán evitar que el ruido ocasionado rebase los límites permitidos por la Norma Oficial Mexicana respectiva.
 
-### CAPÍTULO X. Del Rejoneo y los Forcados
+### CAPÍTULO IX. Del Desarrollo de la Lidia
 
 ###### ARTÍCULO 1338.
 
@@ -16397,7 +16753,7 @@ Las personas que se dediquen a la venta de revistas y periódicos en estanquillo
 
 > <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2009)</small>
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO X. Del Rejoneo y los Forcados
 
 ###### ARTÍCULO 1339.
 
@@ -16515,7 +16871,7 @@ VI. Ejercer actividades musicales en avenidas o cruceros principales, así como 
 
 Las violaciones a las disposiciones del artículo anterior serán sancionadas atendiendo a la gravedad de la falta y a los antecedentes que tenga como infractor de la siguiente manera:
 
-1. Multa de 5 a 10 días de Salario Mínimo General Vigente en el Estado de Aguascalientes a las personas que transgredan las disposiciones establecidas en las fracciones I, II y III del artículo 1343 del presente Código.
+I. Multa de 5 a 10 días de Salario Mínimo General Vigente en el Estado de Aguascalientes a las personas que transgredan las disposiciones establecidas en las fracciones I, II y III del artículo 1343 del presente Código.
 
 II. Multa de 10 a 20 días de Salario Mínimo General Vigente en el Estado de Aguascalientes a las personas que transgredan las disposiciones establecidas en las fracciones IV y V del artículo 1343 del presente Código.
 
@@ -16545,7 +16901,7 @@ Será potestativo del propietario de cualquier establecimiento, en cualquiera de
 
 Será potestativo del propietario de cualquier establecimiento, mientras dure la actuación de los ejecutantes de actividades musicales, apagar los aparatos electrónicos musicales que operen en el local, así como prestar todas las facilidades para el desarrollo de la actividad musical.
 
-### CAPÍTULO I. Del Ámbito de Aplicaciones y Principios Generales
+### CAPÍTULO ÚNICO
 
 ###### ARTÍCULO 1348.
 
@@ -16581,7 +16937,7 @@ Los espectadores que originen falsas alarmas infundiendo pánico en el público 
 
 ## TÍTULO SEGUNDO. DEL PROCEDIMIENTO ADMINISTRATIVO
 
-### CAPÍTULO II. De la Nulidad y Eficacia del Acto Administrativo
+### CAPÍTULO I. Del Ámbito de Aplicaciones y Principios Generales
 
 ###### ARTÍCULO 1356.
 
@@ -16677,7 +17033,7 @@ XIV. Local: Lugar o espacio asignado al titular de una licencia dentro del merca
 
 XV. Zonificación de Giros: Agrupamiento de locatarios que en un área del mercado comercialicen productos o mercancías similares.
 
-### CAPÍTULO I. Disposiciones Generales
+### CAPÍTULO II. De la Nulidad y Eficacia del Acto Administrativo
 
 ###### ARTÍCULO 1359.
 
@@ -16833,7 +17189,7 @@ XII. Venta de artículos prohibidos por la Ley.
 
 XIII. Expender bebidas embriagantes. No se considerarán para los efectos de ésta disposición como bebidas embriagantes el aguamiel, jerez y rompope que se utilice para preparar bebidas típicas, atendiendo los usos y la costumbre.
 
-### CAPÍTULO II. De la Capacidad de los Interesados
+### CAPÍTULO I. Disposiciones Generales
 
 ###### ARTÍCULO 1371.
 
@@ -16931,7 +17287,7 @@ VII. Respetar los horarios de carga y descarga de mercancías que determine la a
 
 VIII. En caso de que se utilice un vehículo para el ejercicio del comercio, sus dimensiones no podrán ser mayores a tres metros de largo por un metro cincuenta centímetros de ancho. Sin perjuicio de lo dispuesto anteriormente, el Comité Dictaminador podrá a petición de la dirección o del propio interesado analizar el caso concreto, y de considerarlo viable autorizar una medida superior a la referida anteriormente, valorando en todo momento las circunstancias especiales del caso tales como las molestias que se pudieran generar a los vecinos y la dimensión, tránsito vehicular y peatonal de la vialidad propuesta.
 
-### CAPÍTULO III. De las Excusas y Recusaciones
+### CAPÍTULO II. De la Capacidad de los Interesados
 
 ###### ARTÍCULO 1374.
 
@@ -16959,7 +17315,7 @@ Los límites del tianguis quedarán definidos por el Cabildo mismos que serán s
 
 Para la autorización de nuevos tianguis o su reubicación en la vía pública, se deberá contar con el dictamen de la Dirección de Mercados, Estacionamientos y Áreas Comerciales y con la aprobación del Cabildo, además de agotar los requisitos siguientes:
 
-l. Contar con la aceptación de dos terceras partes de los vecinos.
+I. Contar con la aceptación de dos terceras partes de los vecinos.
 
 II. Contar con servicio de sanitarios públicos.
 
@@ -17027,7 +17383,7 @@ Para verificar el debido cumplimiento de las disposiciones que señala el presen
 
 El H. Ayuntamiento proporcionará la seguridad en los tianguis a través de la Secretaría de Seguridad Pública y Tránsito Municipal.
 
-### CAPÍTULO IV. De los Términos
+### CAPÍTULO III. De las Excusas y Recusaciones
 
 ###### ARTÍCULO 1383.
 
@@ -17037,13 +17393,13 @@ Todos los comerciantes tienen los mismos derechos y obligaciones ante la Direcci
 
 No se podrá otorgar permiso para comerciantes en vía pública en la zona que sea considerada por acuerdo de Cabildo como centro histórico de la Ciudad de Aguascalientes. Para los ya existentes se respetará en sus términos otorgados.
 
-### CAPÍTULO V. De las Notificaciones
+### CAPÍTULO IV. De los Términos
 
 ###### ARTÍCULO 1385.
 
 El permiso para tianguista, o para comerciante ambulante o de fiestas tradicionales, deberá ser expedido por la coordinación de tianguis y de ambulantaje respectivamente o por las delegaciones municipales según sea el caso, observando las siguientes disposiciones:
 
-l. Presentar solicitud de apertura ante la dependencia correspondiente.
+I. Presentar solicitud de apertura ante la dependencia correspondiente.
 
 II. Acta de verificación.
 
@@ -17077,7 +17433,7 @@ III. El pago también podrá ser hasta por todo el año calendario sin que ello 
 
 IV. El comerciante queda obligado a exhibir los comprobantes de pago a los verificadores y autoridades municipales acreditados, que así se lo solicite.
 
-### CAPÍTULO I. Disposiciones Generales
+### CAPÍTULO V. De las Notificaciones
 
 ###### ARTÍCULO 1388.
 
@@ -17161,7 +17517,7 @@ Los puestos que se instalen en un tianguis, en donde se expenda comida, deberán
 
 Su inobservancia será motivo de infracción y en su caso de clausura, hasta en tanto se cumpla con tales disposiciones y las directrices que se implanten como obligatorias, tanto en materia de seguridad por el uso de combustibles, como de higiene y sanidad.
 
-### CAPÍTULO II. De la Determinación de Imposición de Sanciones y Medidas de Seguridad
+### CAPÍTULO I. Disposiciones Generales
 
 ###### ARTÍCULO 1395.
 
@@ -17213,7 +17569,7 @@ Las violaciones a cualquiera de las obligaciones de este capítulo, se sancionar
 
 El Cabildo determinará y modificará las tarifas a que deberán ajustarse los aseadores de calzado y de vehículos así como los términos de vigencia de éstas.
 
-### CAPÍTULO III. De las Reglas para la Imposición de Sanciones y Medidas de Seguridad
+### CAPÍTULO II. De la Determinación de Imposición de Sanciones y Medidas de Seguridad
 
 ###### ARTÍCULO 1401.
 
@@ -17235,7 +17591,7 @@ El Cabildo determinará y modificará las tarifas a que deberán ajustarse los a
 
 ## TÍTULO TERCERO. DEL PROCEDIMIENTO DE VERIFICACIÓN E INSPECCIÓN
 
-### CAPÍTULO I. De las Sanciones en Materia de Servicios Públicos
+### CAPÍTULO III. De las Reglas para la Imposición de Sanciones y Medidas de Seguridad
 
 ###### ARTÍCULO 1405.
 
@@ -17297,7 +17653,7 @@ XXV. Derecho de apartado: la venta anticipada de localidades para una serie de e
 
 XXVI. Salario Mínimo: El Salario Mínimo General Vigente en el Estado de Aguascalientes el día que fuera cometida la infracción.
 
-### CAPÍTULO II. De las Sanciones en Materia de Protección Civil
+### CAPÍTULO I. De las Sanciones en Materia de Servicios Públicos
 
 ###### ARTÍCULO 1407.
 
@@ -17307,7 +17663,7 @@ La aplicación de este capítulo corresponde a la Dirección General de Gobierno
 
 El Juez de Plaza será la autoridad superior en cada espectáculo taurino y serán sus facultades y obligaciones:
 
-l. Verificar la exactitud de la báscula, de conformidad con las normas establecidas por la Procuraduría Federal del Consumidor.
+I. Verificar la exactitud de la báscula, de conformidad con las normas establecidas por la Procuraduría Federal del Consumidor.
 
 II. Asistir a la maniobra de pesar los toros.
 
@@ -17427,7 +17783,7 @@ En las plazas de segunda categoría, que no cuenten con un local adecuado para e
 
 La empresa proveerá de todo lo necesario para el buen funcionamiento de los servicios médicos de plaza.
 
-### CAPÍTULO III. De las Sanciones en Materia de Construcción
+### CAPÍTULO II. De las Sanciones en Materia de Protección Civil
 
 ###### ARTÍCULO 1417.
 
@@ -17443,7 +17799,7 @@ El aforo lo determinará la autoridad municipal.
 
 Las plazas de toros llenarán los siguientes requisitos:
 
-l. Las puertas de entrada serán amplias y en número suficiente para evitar aglomeraciones, dispuestas en tal forma que permitan el acceso fácilmente. Las escaleras que conduzcan a las localidades serán convenientemente distribuidas para favorecer la pronta ocupación o abandono de los tendidos.
+I. Las puertas de entrada serán amplias y en número suficiente para evitar aglomeraciones, dispuestas en tal forma que permitan el acceso fácilmente. Las escaleras que conduzcan a las localidades serán convenientemente distribuidas para favorecer la pronta ocupación o abandono de los tendidos.
 
 II. Los asientos en los tendidos tendrán la suficiente amplitud para que se instalen cómodamente los espectadores.
 
@@ -17493,11 +17849,13 @@ Las plazas de toros, deberán tener instalaciones sanitarias separadas y en núm
 
 Habrá suficiente número de taquillas o expendios de boletos, en donde en letreros bien visibles, se indicará qué clase de localidades se expenden.
 
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
+
 ###### ARTÍCULO 1424.
 
-Las plazas de toros, quedarán sujetas por lo que se refiere a sus condiciones de seguridad y buen aspecto, a la estricta vigilancia de las Secretarías de Desarrollo Urbano y Ecología.
+Las plazas de toros, quedarán sujetas por lo que se refiere a sus condiciones de seguridad y buen aspecto, a la estricta vigilancia de las Secretarías de Desarrollo Urbano y Servicios Públicos.
 
-### CAPÍTULO IV. De las Sanciones en Materia de Actividades Comerciales, Industriales y de Prestación de Servicios
+### CAPÍTULO III. De las Sanciones en Materia de Construcción
 
 ###### ARTÍCULO 1425.
 
@@ -17609,7 +17967,7 @@ La empresa deberá cuidar todos los utensilios que le corresponda proporcionar y
 
 Las empresas deberán acatar todos los acuerdos y disposiciones que dicten las autoridades encargadas de la aplicación de este Código.
 
-### CAPÍTULO V. De las Sanciones en Materia de Espectáculos Públicos
+### CAPÍTULO IV. De las Sanciones en Materia de Actividades Comerciales, Industriales y de Prestación de Servicios
 
 ###### ARTÍCULO 1436.
 
@@ -17655,7 +18013,7 @@ II. Para poder vender el derecho de apartado o abono deberá anunciarse completo
 
 III. Para garantizar las obligaciones que se contraigan con motivo de la celebración de las corridas de una temporada formal con el Municipio, así como el pago de las multas por violaciones a este Código, la empresa por cada temporada serial de corridas, novilladas o festejos, deberá constituir una fianza, misma que será fijada por el Municipio y a favor de la Secretaría de Finanzas Públicas Municipales.
 
-### CAPÍTULO VI. De las Sanciones en Materia de Espectáculos Taurinos
+### CAPÍTULO V. De las Sanciones en Materia de Espectáculos Públicos
 
 ###### ARTÍCULO 1439.
 
@@ -17719,7 +18077,7 @@ Las reses que vayan a lidiarse deberán estar en los corrales de la plaza, cuand
 
 La anterior disposición estará sujeta a las condicionantes que pueda autorizar el Municipio en el supuesto caso que por el número de corridas no existan corrales suficientes.
 
-### CAPÍTULO VII. De las Sanciones en Materia de Comercio en la Vía Pública
+### CAPÍTULO VI. De las Sanciones en Materia de Espectáculos Taurinos
 
 ###### ARTÍCULO 1446.
 
@@ -17753,7 +18111,7 @@ El estribo derecho de la montadura, deberá estar siempre debidamente forrado a 
 
 Los caballos que resulten con heridas graves a juicio de los Veterinarios, en el curso de la lidia, no podrán continuar participando en ella, atendiéndolos de emergencia los veterinarios de plaza, dependientes del Municipio, cuyos emolumentos dependen de ésta misma, acordes a su nombramiento; la empresa proporcionará los materiales de curación para emergencias, los que estarán disponibles desde veinticuatro horas antes del espectáculo, conforme a la solicitud de los veterinarios. La subsecuente atención será por cuenta del propietario de estos animales, y estarán en libertad de asignar quien los atienda. Los que presenten heridas penetrantes de vientre serán inmediatamente apuntillados por orden de los veterinarios.
 
-### CAPÍTULO I. Del Recurso de Revisión
+### CAPÍTULO VII. De las Sanciones en Materia de Comercio en la Vía Pública
 
 ###### ARTÍCULO 1450.
 
@@ -17833,7 +18191,7 @@ Además de las banderillas ordinarias deberá haber doce pares de banderillas ne
 
 Queda prohibido el uso simultáneo de los colores verde, blanco y rojo en el adorno de las banderillas.
 
-### CAPÍTULO II. De la Suspensión del Acto
+### CAPÍTULO I. Del Recurso de Revisión
 
 ###### ARTÍCULO 1460.
 
@@ -18032,6 +18390,8 @@ Se prohíbe la realización de colectas en cualquier lugar de la plaza durante l
 ###### ARTÍCULO 1489.
 
 Durante la lidia estará prohibida la venta de cualquier mercancía. Entre una res y otra, será permitida la venta de golosinas y refrescos, los cuales serán servidos en envases reciclables que no sean de vidrio y por ningún motivo se dejará el envase de los mismos a los compradores. Los vendedores únicamente circularán por los pasillos o andadores de la plaza. Se permitirá el alquiler de cojines. Queda prohibido el acceso y venta de periódicos, así como la distribución de volantes y cualquier tipo de propaganda no autorizada.
+
+### CAPÍTULO II. De la Suspensión del Acto
 
 ###### ARTÍCULO 1490.
 
@@ -18533,7 +18893,7 @@ III. Por alteración grave del orden público.
 
 Se consideran infracciones graves para efectos del artículo anterior las siguientes:
 
-l. En materia de actividades comerciales, industriales y de prestación de servicios:
+I. En materia de actividades comerciales, industriales y de prestación de servicios:
 
 a) Carecer de licencia o permiso.
 
@@ -18722,6 +19082,32 @@ c) Por profanar fosas en los cementerios, independientemente de su consignación
 d) Falta de medidor en la toma de agua por no haberla legalizado.
 
 e) Utilización de agua sin el pago correspondiente en la construcción de barda, casa habitación, edificio, entre otros, así como tener una toma de agua clandestina.
+
+> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 2011)</small>
+
+###### ARTÍCULO 1574
+
+1.- El incumplimiento por parte de los particulares respecto de las disposiciones contenidas en el presente ordenamiento constituyen infracciones, mismas que serán sancionadas de conformidad con lo dispuesto en el presente ordenamiento.
+
+> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 2011)</small>
+
+###### ARTÍCULO 1574
+
+2.- Las conductas que constituyan violación a las disposiciones legales al presente ordenamiento podrán ser sancionadas indistintamente por la Secretaria con:
+
+I.- Amonestación con apercibimiento por escrito;
+
+II.- Multa de veinte a veinticinco mil días de salario mínimo general vigente en la región al momento de imponer la sanción;
+
+III.- Clausura temporal o definitiva, total o parcial de los establecimientos, instalaciones, eventos, obras, servicios, o actividades según corresponda en materia del presente ordenamiento; y
+
+IV.- Suspensión de actividades y revocación de los permisos, licencias o autorizaciones que en su caso correspondan en materia del presente ordenamiento.
+
+> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 2011)</small>
+
+###### ARTÍCULO 1574
+
+3.- Los casos de reincidencia, criterios de calificación de la sanción, gravedad de la conducta y demás disposiciones relativas a la imposición de las sanciones administrativas por violación a las disposiciones que en materia ambiental establezca el presente ordenamiento, será facultad exclusiva de la Secretaría del Medio Ambiente y Desarrollo Sustentable.
 
 ###### ARTÍCULO 1575.
 
@@ -18989,7 +19375,7 @@ V. Cancelación de licencia de funcionamiento.
 
 En materia de espectáculos taurinos se impondrán multas atendiendo a la gravedad de la falta, a la capacidad económica del infractor y a la reincidencia, si la hubiere en los siguientes términos:
 
-l. A las empresas de cincuenta hasta cinco mil veces el salario mínimo.
+I. A las empresas de cincuenta hasta cinco mil veces el salario mínimo.
 
 II. A los matadores de cincuenta hasta mil veces el salario mínimo.
 
@@ -19650,3 +20036,11 @@ SÉPTIMO.- Las menciones que en otras disposiciones se hagan a Dependencias vinc
 OCTAVO.- La Secretaría de Administración llevará a cabo todos los actos legales o administrativos relacionados con las cuestiones laborales que se susciten con motivo de las presentes reformas y adiciones del Código Municipal de Aguascalientes.
 
 NOVENO.- Quedan derogadas las disposiciones que se opongan a las presentes reformas y adiciones al Código Municipal de Aguascalientes.
+
+P.O. 14 DE FEBRERO DE 2011.
+
+PRIMERO. Los actos administrativos emitidos por las autoridades municipales competentes en la aplicación de las disposiciones legales en materia ambiental dicte la autoridad municipal, podrán ser recurridas mediante el recurso de revisión, mismo que se sustanciará conforme a lo dispuesto en la Ley del Procedimiento Administrativo del Estado de Aguascalientes.
+
+SEGUNDO. Publíquese en el Periódico Oficial de Gobierno del Estado de Aguascalientes.
+
+TERCERO. Las presentes reformas y adiciones entrarán en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
