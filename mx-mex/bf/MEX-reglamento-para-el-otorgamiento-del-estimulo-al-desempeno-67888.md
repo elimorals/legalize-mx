@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-para-el-otorgamiento-del-estimulo-al-desempeno-67888
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-03-27"
-last_updated: "2009-03-27"
+last_updated: "2011-02-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67888&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "MEX"
 ---
 # REGLAMENTO PARA EL OTORGAMIENTO DEL ESTIMULO AL DESEMPEÑO DOCENTE PARA EL PERSONAL ACADEMICO DE LA ESCUELA NORMAL RURAL "LAZARO CARDENAS DEL RIO" DE SERVICIOS EDUCATIVOS INTEGRADOS AL ESTADO DE MEXICO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 13 DE ENERO DE 2015 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 REGLAMENTO PARA EL OTORGAMIENTO DEL ESTIMULO AL DESEMPEÑO DOCENTE PARA EL PERSONAL ACADEMICO DE LA ESCUELA NORMAL RURAL "LAZARO CARDENAS DEL RIO" DE SERVICIOS EDUCATIVOS INTEGRADOS AL ESTADO DE MEXICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE FEBRERO DE 2011.
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el viernes 27 de marzo de 2009.
 
@@ -261,7 +259,7 @@ XVIII. Acreditar el grado académico, presentando copia del título y cédula pr
 
 XIX. En los casos del personal que disfruta de año sabático o de licencia con goce de sueldo, dentro del programa de Superación Profesional o Académica, entregar copia del acuse de recibo de la presentación de su informe más reciente, que acredite que está cumpliendo con los compromisos contraídos; y
 
-XX. No formar parte de la Comisión Interna de Evaluación, así como de la Comisión de Evaluación del Estímulo al Desempeño Docente de SEIEM.
+XX. (DEROGADA, G.G. 14 DE FEBRERO DE 2011)
 
 ###### Artículo 24.
 
@@ -527,11 +525,15 @@ IV. Un representante del Órgano de Control Interno; y
 
 V. Un representante de la Unidad de Asuntos Jurídicos.
 
-El Presidente y los Vocales tendrán derecho a voz y voto, los demás integrantes de la Comisión sólo participarán con voz. En caso de empate, el presidente tendrá voto de calidad.
+> <small>(REFORMADO, G.G. 14 DE FEBRERO DE 2011)</small>
+
+El Presidente, el Secretario y los Vocales tendrán derecho a voz y voto, los demás integrantes de la Comisión sólo participarán con voz. En caso de empate, el Presidente tendrá voto de calidad.
+
+> <small>(REFORMADO, G.G. 14 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 49.
 
-El personal docente que aspire a obtener el Estímulo, deberá excusarse de participar como integrante de la Comisión Interna de Evaluación, así como de la Comisión de Evaluación del Estímulo al Desempeño Docente de SEIEM.
+El personal docente que participe como integrante en la Comisión Interna de Evaluación o en la Comisión de Evaluación del Estímulo al Desempeño Docente, deberá abstenerse de participar en la evaluación de su propio expediente.
 
 ###### Artículo 50.
 
@@ -670,3 +672,13 @@ LIC. ROGELIO TINOCO GARCIA
 DIRECTOR GENERAL Y SECRETARIO DEL H. CONSEJO DIRECTIVO
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.G. 14 DE FEBRERO DE 2011.
+
+PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial Gaceta del Gobierno.
+
+SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial Gaceta del Gobierno.
+
+TERCERO.- Quedan sin efecto las disposiciones de igual o menor jerarquía que se opongan al presente Acuerdo.
