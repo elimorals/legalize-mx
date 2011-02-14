@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-cultura-del-estado-de-puebla-66146"
 country: "mx"
 rank: "ley"
 publication_date: "2009-01-12"
-last_updated: "2009-01-12"
+last_updated: "2011-02-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE CULTURA DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE FEBRERO DE 2011.
 
 Ley publicada en la Cuarta Sección del Periódico Oficial del Estado de Puebla, el lunes 12 de enero de 2009.
 
@@ -69,25 +69,43 @@ IV.- Artesanía: todo objeto de significación cultural, de uso cotidiano, no se
 
 V.- Bien constitutivo de Patrimonio Cultural: manifestación tangible e intangible producto de la acción del hombre y que por sus valores antropológicos, arquitectónicos, históricos, artísticos, etnográficos, científicos, cosmogónicos o tradicionales, tengan relevancia para los habitantes del Estado y sean parte de la identidad social, representativos de una época o sea conveniente su conservación para la posteridad;
 
-VI.- Cultura: creencias colectivas, conocimiento, tradiciones, hábitos y valores que caracterizan a una comunidad o grupo y que regulan la forma en que los miembros interactúan entre ellos;
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2011)</small>
+
+VI.- Consejo Estatal: Al Consejo Estatal para la Cultura y las Artes de Puebla;
 
 VII.- Conservación: acción de preservar el buen Estado de un bien constitutivo del patrimonio cultural tangible del Estado;
 
-VIII.- Declaratoria de Patrimonio Cultural: pronunciamiento emitido por el Gobernador del Estado y que tiene como fin el reconocimiento expreso de la calidad de un bien como constitutivo de patrimonio cultural;
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2011)</small>
 
-IX.- Festivales: conjunto de representaciones dedicadas a un artista o a un arte; exhibición de manifestaciones artísticas;
+VIII.- Cultura: Creencias colectivas, conocimiento, tradiciones, hábitos y valores que caracterizan a una comunidad o grupo y que regulan la forma en que los miembros interactúan entre ellos;
 
-X.- Fiestas: manifestaciones populares, regularmente relacionadas con celebraciones religiosas y cuya celebración está previamente establecida en el calendario;
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2011)</small>
 
-XI.- Museo: institución permanente, no lucrativa, al servicio de la sociedad y de su desarrollo, abierta al público, que adquiere, conserva, investiga, custodia, comunica y principalmente expone los testimonios materiales del hombre y su medio ambiente, con propósitos de estudio, educación y deleite;
+IX.- Declaratoria de Patrimonio Cultural: Pronunciamiento emitido por el Gobernador del Estado y que tiene como fin el reconocimiento expreso de la calidad de un bien como constitutivo de patrimonio cultural;
 
-XII.- Protección: conjunto de acciones tendientes a evitar un daño o un perjuicio de un bien constitutivo de patrimonio cultural, tangible e intangible, del Estado;
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2011)</small>
 
-XIII.- Recuperación: conjunto de acciones tendientes a rescatar aquellos elementos de un bien constitutivo de patrimonio cultural, tangible e intangible, del Estado;
+X.- Festivales: Conjunto de representaciones dedicadas a un artista o a un arte; exhibición de manifestaciones artísticas;
 
-XIV.- Restauración: conjunto de intervenciones tendientes a reparar un bien constitutivo de patrimonio cultural tangible conforme a sus características históricas, constructivas y estéticas; y
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2011)</small>
 
-XV.- Secretaría: la Secretaría de Cultura del Gobierno del Estado de Puebla.
+XI.- Fiestas: Manifestaciones populares, regularmente relacionadas con celebraciones religiosas y cuya celebración está previamente establecida en el calendario;
+
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2011)</small>
+
+XII.- Museo: Institución permanente, no lucrativa, al servicio de la sociedad y de su desarrollo, abierta al público, que adquiere, conserva, investiga, custodia, comunica y principalmente expone los testimonios materiales del hombre y su medio ambiente, con propósitos de estudio, educación y deleite;
+
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2011)</small>
+
+XIII.- Protección: Conjunto de acciones tendientes a evitar un daño o un perjuicio de un bien constitutivo de patrimonio cultural, tangible e intangible, del Estado;
+
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2011)</small>
+
+XIV.- Recuperación: Conjunto de acciones tendientes a rescatar aquellos elementos de un bien constitutivo de patrimonio cultural, tangible e intangible, del Estado; y
+
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2011)</small>
+
+XV.- Restauración: Conjunto de intervenciones tendientes a reparar un bien constitutivo de patrimonio cultural tangible conforme a sus características históricas, constructivas y estéticas.
 
 ###### Artículo 3.
 
@@ -101,7 +119,9 @@ Son autoridades competentes para aplicar la presente Ley:
 
 I.- El Gobernador del Estado;
 
-II.- La Secretaría de Cultura;
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2011)</small>
+
+II.- El Consejo Estatal;
 
 III.- Los Ayuntamientos; y
 
@@ -121,43 +141,51 @@ La promoción y fomento de la cultura serán democráticos, populares y plurales
 
 Son obligaciones del Gobernador del Estado en materia de cultura:
 
-I.- Aprobar la política cultural del Estado que le sea propuesta por la Secretaría;
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2011)</small>
+
+I.- Aprobar la política cultural del Estado que le sea propuesta por el Consejo Estatal;
 
 II.- Celebrar convenios con los órganos federales competentes, entidades federativas, instituciones públicas o privadas, para coordinar la realización de acciones, que tengan por objeto la preservación, promoción, difusión, estímulo e investigación de la cultura;
 
-III.- Ordenar la constitución de órganos de apoyo en la coordinación y ejecución de programas culturales a través de la Secretaría;
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2011)</small>
+
+III.- Ordenar la constitución de órganos de apoyo en la coordinación y ejecución de programas culturales a través del Consejo Estatal;
 
 IV.- Otorgar la calidad de cronistas del Estado y regionales conforme lo establecido en la presente Ley;
 
-V.- Emitir y revocar las Declaratorias de Patrimonio Cultural que le sean solicitadas por la Secretaría y a las que se refiere la presente Ley;
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2011)</small>
+
+V.- Emitir y revocar las Declaratorias de Patrimonio Cultural que le sean solicitadas por el Consejo Estatal y a las que se refiere la presente Ley;
 
 VI.- Otorgar estímulos al trabajo creativo en los términos establecidos en la presente Ley; y
 
 VII.- Las demás que le confieran las demás leyes y disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 8.
 
-Sin perjuicio de lo establecido en la Ley Orgánica de la Administración Pública del Estado, compete a la Secretaría:
+Compete al Consejo Estatal:
 
 I.- Proponer al Gobernador del Estado, la política cultural del Estado, teniendo como fin la valoración, identificación, protección, conservación, restauración, recuperación y difusión de la cultura y del patrimonio cultural de la Entidad;
 
 II.- Estimular la creación, investigación, formación y capacitación en las diferentes disciplinas artísticas;
 
-III.- Realizar estudios, elaborar planes y proyectos para la protección, preservación, promoción y difusión a la cultura en todas sus manifestaciones, así como en beneficio e incremento del patrimonio cultural del Estado, ejecutando las acciones derivadas de aquéllos;
+III.- (DEROGADA, P.O. 14 DE FEBRERO DE 2011)
 
 IV.- Impulsar, respetando y reconociendo la autonomía que les asiste, el desarrollo integral y sustentable de los pueblos y comunidades indígenas de la Entidad, mediante la realización de programas de fomento a sus actividades culturales y que serán elaborados y operados conjuntamente con ellos;
 
-V.- Coadyuvar con los pueblos y comunidades indígenas de la Entidad, en la protección y promoción de sus lenguas, culturas, recursos, usos y costumbres;
+V.- (DEROGADA, P.O. 14 DE FEBRERO DE 2011)
 
-VI.- Coordinar, dirigir, promover y llevar a cabo las actividades artísticas y culturales que realice el Gobierno del Estado;
+VI.- (DEROGADA, P.O. 14 DE FEBRERO DE 2011)
 
 VII.- Coordinarse con las autoridades educativas estatales y municipales en la enseñanza y formación en las bellas artes, así como contribuir directamente en materia de formación de conservación del patrimonio;
 
-VIII.- Fomentar las relaciones culturales y artísticas con otras entidades, así como con otros países;
+VIII.- (DEROGADA, P.O. 14 DE FEBRERO DE 2011)
 
-IX.- Organizar y promover, directa o coordinadamente con las dependencias o entidades competentes e instancias privadas o sociales, la realización de exposiciones, ferias, festivales, certámenes, cursos y representaciones de carácter cultural y artístico, que fomenten el desarrollo de las manifestaciones artísticas en todas sus disciplinas;
+IX.- (DEROGADA, P.O. 14 DE FEBRERO DE 2011)
 
-X.- Otorgar, conforme a lo establecido en la presente Ley, apoyos a las actividades culturales;
+X.- (DEROGADA, P.O. 14 DE FEBRERO DE 2011)
 
 XI.- Organizar la creación de grupos artísticos profesionales, promoviendo su permanencia y la de los existentes en el Estado;
 
@@ -173,9 +201,11 @@ XVI.- Solicitar al Gobernador del Estado la expedición y revocación de las Dec
 
 XVII.- Ejecutar, directamente o en coordinación con autoridades municipales, estatales y federales, acciones de protección, conservación y en su caso, restauración de los bienes inmuebles constitutivos de patrimonio cultural, conforme a las disposiciones de esta Ley y las normas que regulen el manejo, la intervención y la utilización de los bienes de carácter patrimonial de la Entidad;
 
-XVIII.- Gestionar la recepción y la entrega de donaciones en dinero o especie a favor del desarrollo cultural del Estado, de conformidad con las disposiciones normativas aplicables y dando la intervención que le corresponde a la Secretaría de Finanzas y Administración;
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2011)</small>
 
-XIX.- Elaborar y proponer al Gobernador del Estado, la expedición de reglamentos que normen la actividad cultural en el Estado; y
+XVIII.- Gestionar la recepción de donaciones en dinero o especie y proceder por sí o a través del órgano o instancia que determine, a su administración, destino y aprovechamiento en favor del desarrollo cultural del Estado;
+
+XIX.- (DEROGADA, P.O. 14 DE FEBRERO DE 2011)
 
 XX.- Las demás que le confieran las demás leyes y disposiciones aplicables.
 
@@ -195,7 +225,9 @@ V.- Establecer y financiar la operación de Casas de Cultura, Bibliotecas Públi
 
 VI.- Constituir órganos de apoyo en la coordinación y ejecución de los programas culturales municipales;
 
-VII.- Proponer al Ejecutivo del Estado, a través de la Secretaría, la expedición de Declaratorias de Patrimonio Cultural para la protección del patrimonio cultural de su Municipio, así como realizar las acciones que le correspondan en términos de las que se expidan al respecto;
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2011)</small>
+
+VII.- Proponer al Ejecutivo del Estado, a través del Consejo Estatal, la expedición de Declaratorias de Patrimonio Cultural para la protección del patrimonio cultural de su Municipio, así como realizar las acciones que le correspondan en términos de las que se expidan al respecto;
 
 VIII.- Promover y organizar, directa o coordinadamente con las dependencias o entidades competentes e instancias privadas o sociales, la realización de exposiciones, ferias, festivales, certámenes, cursos y representaciones de carácter cultural y artístico, que fomenten el desarrollo de las manifestaciones artísticas en todas sus disciplinas;
 
@@ -205,9 +237,11 @@ X.- Designar Cronistas Municipales, de conformidad con los ordenamientos aplicab
 
 XI.- Expedir los reglamentos en el ámbito de su competencia, que normen la actividad cultural en el territorio municipal.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 10.
 
-La Secretaría y los Ayuntamientos, podrán celebrar convenios de coordinación entre sí, así como con Dependencias y Entidades Federales, Estatales y Municipales para:
+El Consejo Estatal y los Ayuntamientos, podrán celebrar convenios de coordinación entre sí, así como con Dependencias y Entidades Federales, Estatales y Municipales para:
 
 I.- Propiciar las condiciones que promuevan la cultura y el arte, la producción y distribución equitativa de los bienes culturales, así como la prestación de servicios culturales dentro de un régimen de libertad que favorezca su disfrute efectivo;
 
@@ -233,13 +267,17 @@ Los convenios de coordinación a los que se refieren las fracciones V y VI de es
 
 Las autoridades estatales y municipales competentes en la materia de cultura, impulsarán y estimularán las actividades de investigación histórica y del patrimonio cultural de nuestra Entidad, su estudio y ampliación bibliográfica, así como su conservación y divulgación, apoyándose para ello en los Cronistas.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 12.
 
-El Gobernador del Estado a propuesta del Secretario de Cultura, atendiendo al criterio de probidad moral e intelectual, así como a la labor desarrollada en beneficio de la preservación de la cultura, conferirá la calidad de Cronista, que pueden ser como Cronista del Estado, Regional o por alguna materia específica que justifique su atención especializada. La calidad de Cronista será honorífica. El Reglamento establecerá la duración del cargo.
+El Gobernador del Estado a propuesta del Consejo Estatal, atendiendo al criterio de probidad moral e intelectual, así como a la labor desarrollada en beneficio de la preservación de la cultura, conferirá la calidad de Cronista, pudiendo la misma ser como Cronista del Estado, Regional o por alguna materia específica que justifique su atención especializada. La calidad de Cronista será honorífica. El Reglamento establecerá la duración del cargo.
 
 Los Ayuntamientos, en términos de las disposiciones de la Ley Orgánica Municipal, designarán a los Cronistas Municipales.
 
-Los ciudadanos y organismos de la sociedad civil podrán someter a la consideración de la Secretaría y del Ayuntamiento, según sea el caso, los motivos justificados con el fin de que le sea concedida la calidad de Cronista a algún ciudadano destacado, debiendo resolver la autoridad lo conducente.
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
+
+Los ciudadanos y organismos de la sociedad civil podrán someter a la consideración del Consejo Estatal y del Ayuntamiento, según sea el caso, los motivos justificados con el fin de que le sea concedida la calidad de Cronista a algún ciudadano destacado, debiendo resolver la autoridad lo conducente.
 
 ###### Artículo 13.
 
@@ -377,37 +415,49 @@ III.- Asegurar la valorización, el reconocimiento y el respeto del patrimonio c
 
 Asimismo, dichas autoridades se coordinarán entre sí y con los organismos privados y la sociedad civil, a efecto de promover, difundir y hacer llegar a la población las manifestaciones y expresiones que permitan resaltar los valores y los bienes afectos al patrimonio cultural del Estado.
 
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 23.
 
-La Secretaría, en el ámbito estatal establecerá las especificaciones y criterios generales para la realización de inventarios y catálogos de los bienes constitutivos del patrimonio cultural tangible e intangible del Estado, mismos que deberán actualizarse constantemente.
+El Consejo Estatal, en el ámbito estatal establecerá las especificaciones y criterios generales para la realización de inventarios y catálogos de los bienes constitutivos del patrimonio cultural tangible e intangible del Estado, mismos que deberán actualizarse constantemente.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 24.
 
-La Secretaría, podrá solicitar a las autoridades municipales y estatales que corresponda, la suspensión provisional o definitiva de acciones y obras que contravengan normas o procedimientos legales y que pongan en peligro las cualidades de un bien constitutivo de patrimonio cultural conforme a la presente Ley.
+El Consejo Estatal, podrá solicitar a las autoridades municipales y estatales que corresponda, la suspensión provisional o definitiva de acciones y obras que contravengan normas o procedimientos legales y que pongan en peligro las cualidades de un bien constitutivo de patrimonio cultural conforme a la presente Ley.
 
 Los ciudadanos u organismos sociales deberán hacer del conocimiento de las instancias o dependencias, estatales o municipales, cualquier violación a la presente Ley, así como a los reglamentos de la materia y que se realice en perjuicio del patrimonio cultural del Estado.
 
-A petición de parte interesada, la Secretaría prestará asesoría y realizará supervisiones de obras de restauración de los bienes tangibles afectos al patrimonio cultural.
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
+
+A petición de parte interesada, el Consejo Estatal prestará asesoría y realizará supervisiones de obras de restauración de los bienes tangibles afectos al patrimonio cultural.
 
 ###### Artículo 25.
 
 El Gobernador del Estado, de oficio o por petición plenamente justificada de ciudadanos y organismos, declarará Patrimonio Cultural del Estado a aquellos bienes respecto de los cuales se considere necesario el establecimiento de medidas específicas para su salvaguarda.
 
-La Secretaría, deberá fundamentar el valor patrimonial del bien a declarar, la necesidad de su protección, así como establecer acciones particulares a cargo de las autoridades estatales y municipales en el ámbito de su respectiva competencia, con el fin de garantizar su protección y conservación. La Declaración de Patrimonio Cultural que en cada caso emita el Gobernador del Estado, consignará tales consideraciones.
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
+
+El Consejo Estatal deberá fundamentar el valor patrimonial del bien a declarar, la necesidad de su protección, así como establecer acciones particulares a cargo de las autoridades estatales y municipales en el ámbito de su respectiva competencia, con el fin de garantizar su protección y conservación. La Declaración de Patrimonio Cultural que en cada caso emita el Gobernador del Estado, consignará tales consideraciones.
 
 El Reglamento correspondiente, establecerá el procedimiento mediante el cual se expedirá o revocará la declaratoria correspondiente, conforme a las disposiciones de esta Ley, que será publicada en el Periódico Oficial del Estado.
 
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 26.
 
-Tratándose de bienes de propiedad privada, previamente a la emisión de la Declaratoria de Patrimonio Cultural, de acuerdo con el procedimiento administrativo establecido en el Reglamento de esta Ley, la Secretaría oirá a los particulares interesados, que deberán ser notificados y tendrán derecho a rendir pruebas referentes al valor cultural del bien, a fin de que sean estimadas en el procedimiento correspondiente.
+Tratándose de bienes de propiedad privada, previamente a la emisión de la Declaratoria de Patrimonio Cultural, de acuerdo con el procedimiento administrativo establecido en el Reglamento de esta Ley, el Consejo Estatal oirá a los particulares interesados, que deberán ser notificados y tendrán derecho a rendir pruebas referentes al valor cultural del bien, a fin de que sean estimadas en el procedimiento correspondiente.
 
 ###### Artículo 27.
 
 Las disposiciones de la presente Ley relativas a la protección del patrimonio cultural del Estado, se aplicarán sin perjuicio de lo establecido en los ordenamientos federales correspondientes. En todo caso, en las acciones a realizar con motivo de la presente Ley, se les dará la intervención que les concierna a las autoridades federales competentes.
 
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 28.
 
-La Secretaría coadyuvará con las demás autoridades locales y con las municipales, con el fin de informar con oportunidad y suficiencia, a las instancias federales competentes de la condición que guardan los sitios, zonas y monumentos arqueológicos, paleontológicos, artísticos o históricos, por daño, menoscabo o pérdida, a efecto de que éstas procedan a realizar las acciones necesarias para su preservación.
+El Consejo Estatal coadyuvará con las demás autoridades locales y con las municipales, con el fin de informar con oportunidad y suficiencia, a las instancias federales competentes de la condición que guardan los sitios, zonas y monumentos arqueológicos, paleontológicos, artísticos o históricos, por daño, menoscabo o pérdida, a efecto de que éstas procedan a realizar las acciones necesarias para su preservación.
 
 ###### Artículo 29.
 
@@ -417,9 +467,11 @@ Las Dependencias Estatales y los Ayuntamientos, en el ámbito de su respectiva c
 
 Se reconoce, en el ámbito de la competencia estatal, el derecho de los pueblos y comunidades indígenas en el Estado de Puebla, a decidir sus formas internas de organización cultural.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 31.
 
-La Secretaría y los Ayuntamientos, en su respectivo ámbito de competencia, respetando la autonomía que les corresponde a los pueblos y comunidades indígenas asentados en el territorio del Estado, instrumentarán las medidas conducentes para la preservación, promoción, fortalecimiento, transmisión, difusión e investigación de su cultura, que comprenderán, entre otras, las siguientes acciones:
+El Consejo Estatal y los Ayuntamientos, en su respectivo ámbito de competencia, respetando la autonomía que les corresponde a los pueblos y comunidades indígenas asentados en el territorio del Estado, instrumentarán las medidas conducentes para la preservación, promoción, fortalecimiento, transmisión, difusión e investigación de su cultura, que comprenderán, entre otras, las siguientes acciones:
 
 I.- Coadyuvar en el rescate, defensa, preservación y difusión de las lenguas, cultura, artes, usos y costumbres, así como de los recursos y formas específicas de organización social de su cultura;
 
@@ -449,17 +501,23 @@ XIII.- Promover las actividades de concertación pertinentes para unificar progr
 
 En todos los casos, las autoridades estatales y municipales competentes en materia de cultura, diseñarán y operarán las medidas a las que se refiere el presente artículo, conjuntamente con los pueblos y comunidades indígenas a las que se dirijan.
 
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 32.
 
-La Secretaría se coordinará con las Secretarías de Desarrollo Social, de Educación Pública y de Turismo, así como con el resto de instancias estatales y en su caso federales competentes, a fin de que las medidas a las que se refiere el artículo anterior coadyuven a promover el desarrollo de los pueblos y comunidades indígenas de la Entidad y fortalezcan su organización.
+El Consejo Estatal se coordinará con las Secretarías de Desarrollo Social, de Educación Pública y de Turismo, así como con el resto de instancias estatales y en su caso federales competentes, a fin de que las medidas a las que se refiere el artículo anterior coadyuven a promover el desarrollo de los pueblos y comunidades indígenas de la Entidad y fortalezcan su organización.
+
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 33.
 
-Es de interés público la protección, el fomento y el apoyo al valor cultural de las artesanías poblanas. El Gobierno del Estado, a través de la Secretaría y demás Dependencias y Entidades competentes y los Ayuntamientos, apoyarán la producción artesanal.
+Es de interés público la protección, el fomento y el apoyo al valor cultural de las artesanías poblanas. El Gobierno del Estado, a través del Consejo Estatal y demás Dependencias y Entidades competentes y los Ayuntamientos, apoyarán la producción artesanal.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 34.
 
-La Secretaría y los Ayuntamientos en el ámbito de su competencia, realizarán las acciones necesarias para el logro de los siguientes objetivos:
+El Consejo Estatal y los Ayuntamientos en el ámbito de su competencia, realizarán las acciones necesarias para el logro de los siguientes objetivos:
 
 I.- Velar por el desarrollo y preservación de las actividades artesanales en el Estado;
 
@@ -475,11 +533,15 @@ VI.- Formular, integrar y ejecutar actividades primordiales dentro de la estrate
 
 VII.- Formar y mantener actualizado un padrón de artesanos y de los recursos materiales utilizados para la producción artesanal en el Estado.
 
-En el cumplimiento de las acciones a las que se refiere el presente artículo, la Secretaría y, en su caso, los Ayuntamientos, se coordinarán con las instancias estatales y federales competentes.
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
+
+En el cumplimiento de las acciones a las que se refiere el presente artículo, el Consejo Estatal y, en su caso, los Ayuntamientos, se coordinarán con las instancias estatales y federales competentes.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 35.
 
-El Gobierno del Estado, a través de la Secretaría organizará por sí mismo o en coordinación con el Gobierno Federal, con los Ayuntamientos, o con centros y organizaciones culturales, Festivales Culturales que contribuyan al acrecentamiento y difusión de la cultura poblana, nacional e internacional.
+El Gobierno del Estado, a través del Consejo Estatal organizará por sí mismo o en coordinación con el Gobierno Federal, con los Ayuntamientos, o con centros y organizaciones culturales, Festivales Culturales que contribuyan al acrecentamiento y difusión de la cultura poblana, nacional e internacional.
 
 Los Festivales Culturales a los que se refiere el presente artículo, podrán organizarse abarcando una o más disciplinas artísticas.
 
@@ -495,9 +557,11 @@ III.- Promover la organización de la sociedad o en su caso, de las comunidades,
 
 IV.- Las demás que les confieran las leyes y ordenamientos legales que le sean aplicables.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 37.
 
-La Secretaria organizará y realizará anualmente el Festival Internacional de Puebla, destinado preponderantemente a acercar a la población del Estado con las diversas manifestaciones culturales locales, nacionales e internacionales.
+El Consejo Estatal organizará y realizará anualmente el Festival Internacional de Teatro y el Festival Internacional de Puebla, destinados, preponderantemente, a acercar a la población del Estado con las diversas manifestaciones culturales locales, nacionales e internacionales.
 
 El Festival Internacional de Puebla se realizará preferentemente durante el mes de noviembre, con el fin de coincidir con la celebración del aniversario del inicio de la Revolución Mexicana en la Entidad.
 
@@ -523,11 +587,15 @@ VI.- Las demás asignadas por otros ordenamientos legales que le sean aplicables
 
 Los Ayuntamientos instalarán y mantendrán Casas de Cultura, mismas que actuarán como unidades auxiliares de las autoridades municipales y que atenderán al programa de actividades que al efecto establezcan dichas instancias.
 
-Los Ayuntamientos determinarán la forma o estructura legal que tendrá su Casa de Cultura y podrán coordinarse con la Secretaría, para el establecimiento de la misma.
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
+
+Los Ayuntamientos determinarán la forma o estructura legal que tendrá su Casa de Cultura y podrán coordinarse con el Consejo Estatal para el establecimiento de la misma.
+
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 40.
 
-La Secretaría podrá establecer y operar directamente Casas de Cultura en el Estado.
+El Consejo Estatal podrá establecer y operar directamente Centros Regionales y Casas de Cultura en el Estado.
 
 ###### Artículo 41.
 
@@ -549,9 +617,11 @@ V.- La elaboración de catálogos y monografías de sus bienes, colecciones y fo
 
 VI.- Mantener vínculos con otros museos a nivel municipal, estatal, federal e internacional, con el fin de generar políticas culturales integrales en la difusión de los acervos y sus contenidos;
 
-VII.- Asesorar a petición de parte a los particulares para la adecuada tenencia, custodia, restauración, conservación, exhibición y difusión de sus colecciones, fomentando con pleno respeto a su régimen de propiedad, el acceso público a los valores culturales de los cuales son custodios;
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2011)</small>
 
-VIII.- Establecer mecanismos, incluyendo la obtención de donaciones en especie, con el fin de incrementar sus acervos, dando la intervención que corresponda a la Secretaría de Finanzas y Administración; y
+VII.- Asesorar a petición de parte a los particulares para la adecuada tenencia, custodia, restauración, conservación, exhibición y difusión de sus colecciones, fomentando con pleno respeto a su régimen de propiedad, el acceso público a los valores culturales de los cuales son custodios; y
+
+VIII.- (DEROGADA, P.O. 14 DE FEBRERO DE 2011)
 
 IX.- La planeación, diagnóstico, promoción, difusión, capacitación, organización, coordinación, comunicación, utilización de nuevas tecnologías, y la evaluación de las actividades que se realicen, con el fin de elevar la calidad de los servicios otorgados.
 
@@ -559,9 +629,11 @@ IX.- La planeación, diagnóstico, promoción, difusión, capacitación, organiz
 
 Los Ayuntamientos promoverán y apoyarán la instalación de museos en sus Municipios, principalmente de aquéllos que tengan como finalidad la conservación y difusión del patrimonio e historia de la región.
 
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 44.
 
-La Secretaría establecerá un sistema de registro de los acervos particulares existentes en el Estado, pudiendo coadyuvar con los propietarios de los mismos en acciones de conservación y difusión de los bienes que los integran.
+El Consejo Estatal establecerá un sistema de registro de los acervos particulares existentes en el Estado, pudiendo coadyuvar con los propietarios de los mismos en acciones de conservación y difusión de los bienes que los integran.
 
 ###### Artículo 45.
 
@@ -607,11 +679,13 @@ IV.- El establecimiento de medidas físicas que garanticen la conservación de l
 
 En aquellos museos que funcionen en inmuebles que tengan la calidad de monumentos históricos o artísticos, la adopción de las medidas de seguridad deberá efectuarse sin detrimento de la preservación y de la integridad física y cultural del edificio, en términos de la legislación aplicable.
 
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 51.
 
-La Secretaría y los Ayuntamientos, dentro de sus respectivas jurisdicciones, promoverán el establecimiento, organización y sostenimiento de Bibliotecas y Hemerotecas Públicas y los servicios culturales complementarios que a través de éstas se otorguen.
+El Consejo Estatal y los Ayuntamientos, dentro de sus respectivas jurisdicciones, promoverán el establecimiento, organización y sostenimiento de Bibliotecas y Hemerotecas Públicas y los servicios culturales complementarios que a través de éstas se otorguen.
 
-En su organización, funcionamiento y prestación de servicios, habrán de tomarse en cuenta los principios, las técnicas y los objetivos que las instituyan como centros de información, estudio y difusión derivados de los lineamientos que al efecto emitan las instancias federales competentes y la propia Secretaría.
+En su organización, funcionamiento y prestación de servicios, habrán de tomarse en cuenta los principios, las técnicas y los objetivos que las instituyan como centros de información, estudio y difusión derivados de los lineamientos que al efecto emitan las instancias federales competentes y el propio Consejo Estatal.
 
 ###### Artículo 52.
 
@@ -657,9 +731,11 @@ El acceso a los acervos reservados de las Bibliotecas y Hemerotecas Públicas, s
 
 El Estado reconoce en el libro, independientemente del soporte material en el que se encuentre, y en la creación literaria, instrumentos eficaces e indispensables para el incremento y la transmisión de la cultura, el desarrollo de la identidad nacional y la formación cultural de la población.
 
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 57.
 
-El Gobierno del Estado, a través de la Secretaría y de la Secretaría de Educación Pública, así como los Ayuntamientos, en el ámbito de sus respectivas competencias, fomentarán el hábito de la lectura entre la población del Estado, promoverán su mayor acceso a la producción escrita y fomentarán la creación literaria.
+El Gobierno del Estado, a través del Consejo Estatal y de la Secretaría de Educación Pública, así como los Ayuntamientos, en el ámbito de sus respectivas competencias, fomentarán el hábito de la lectura entre la población del Estado, promoverán su mayor acceso a la producción escrita y fomentarán la creación literaria.
 
 ###### Artículo 58.
 
@@ -683,9 +759,11 @@ VIII.- Las demás asignadas por otros ordenamientos legales que le sean aplicabl
 
 ### CAPÍTULO QUINTO. DE LOS ESTÍMULOS
 
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 59.
 
-Como reconocimiento a su actividad en la cultura y las artes, la Secretaría otorgará estímulos a los ciudadanos mexicanos que, con su trabajo creativo y trayectoria, hayan destacado en la producción de obras, aportaciones, trabajos docentes, de investigación o de divulgación, así como aquéllos que hayan contribuido a enriquecer el acervo cultural del Estado y del país y, en general, al progreso de las artes y la difusión de la cultura.
+Como reconocimiento a su actividad en la cultura y las artes, el Consejo Estatal, por conducto del Consejo Ciudadano para la Cultura, otorgará estímulos a los ciudadanos mexicanos que, con su trabajo creativo y trayectoria, hayan destacado en la producción de obras, aportaciones, trabajos docentes, de investigación o de divulgación, así como aquéllos que hayan contribuido a enriquecer el acervo cultural del Estado y del país y, en general, al progreso de las artes y la difusión de la cultura.
 
 ###### Artículo 60.
 
@@ -699,7 +777,9 @@ III.- Artes Plásticas: "José Luis Rodríguez Alconedo"; y
 
 IV.- Música: "Isaías Noriega".
 
-La Secretaría emitirá la convocatoria y que podrá considerar el otorgamiento de estímulos adicionales a los anteriormente mencionados.
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
+
+El Consejo Estatal, por conducto del Consejo Ciudadano para la Cultura, emitirá la convocatoria y que podrá considerar el otorgamiento de estímulos adicionales a los anteriormente mencionados.
 
 ###### Artículo 61.
 
@@ -711,15 +791,19 @@ Podrán ser propuestos como candidatos a merecer los estímulos, tanto persona f
 
 La propuesta de cada uno de los candidatos en cuestión deberá especificar aquellos méritos por virtud de los cuales se le considera merecedor del reconocimiento correspondiente.
 
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 63.
 
-La Secretaría, previa a la emisión de la convocatoria, conformará un Jurado con destacados especialistas en el campo respectivo por cada rama.
+El Consejo Estatal, por conducto del Consejo Ciudadano para la Cultura y previa a la emisión de la convocatoria, conformará un Jurado con destacados especialistas en el campo respectivo por cada rama.
 
 ### CAPÍTULO SEXTO. DEL FINANCIAMIENTO Y DE LA PARTICIPACIÓN DE LA COMUNIDAD EN EL FOMENTO A LA CULTURA
 
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 64.
 
-Con el propósito de contribuir al desarrollo, difusión y fomento de las actividades culturales, la Secretaría será la autoridad encargada de vigilar la canalización y operatividad de los recursos y programas estatales, así como aquéllos que se deriven de los convenios, acuerdos y anexos que en materia de cultura, suscriba el Gobierno del Estado con la Federación, los Ayuntamientos, y organismos públicos o privados.
+Con el propósito de contribuir al desarrollo, difusión y fomento de las actividades culturales, el Consejo Estatal será la autoridad encargada de vigilar la canalización y operatividad de los recursos y programas estatales, así como aquéllos que se deriven de los convenios, acuerdos y anexos que en materia de cultura, suscriba el Gobierno del Estado con la Federación, los Ayuntamientos, y organismos públicos o privados.
 
 ###### Artículo 65.
 
@@ -749,13 +833,19 @@ V.- Estimulen la formación, educación y perfeccionamiento de los integrantes d
 
 Las organizaciones, empresas e industrias del sector privado que realicen acciones tendientes a incentivar el desarrollo cultural, así como el rescate y conservación del patrimonio cultural tangible constituido por bienes inmuebles en el Estado, podrán ser beneficiarios de subsidios y estímulos fiscales en las contribuciones estatales y municipales, en los términos aprobados por el Congreso del Estado en las leyes de ingresos correspondientes y demás ordenamientos legales aplicables.
 
+> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 2011)</small>
+
+El Estado y los Ayuntamientos, a través de las dependencias que correspondan, podrán otorgar reconocimiento como órgano coadyuvante a los organismos sociales que se constituyan con objeto de colaborar con las autoridades estatales y municipales en la preservación del patrimonio cultural, como medida de fomento, estímulo, promoción, difusión y colaboración en la formación de conciencia en la importancia de la preservación del patrimonio cultural.
+
 ###### Artículo 68.
 
 La participación privada en el fomento a la cultura debe entenderse como un complemento y no como un reemplazo de la actividad que lleva a cabo el Estado.
 
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 69.
 
-La Secretaría y los Ayuntamientos, valorarán el financiamiento de proyectos culturales proveniente de la participación privada, cuando existan indicios fundados o certeza de que los recursos destinados provienen directa o indirectamente, o representan las ganancias derivadas de la comisión de algún delito y no pueda acreditarse su legítima procedencia.
+El Consejo Estatal y los Ayuntamientos valorarán el financiamiento de proyectos culturales proveniente de la participación privada, cuando existan indicios fundados o certeza de que los recursos destinados provienen directa o indirectamente, o representan las ganancias derivadas de la comisión de algún delito y no pueda acreditarse su legítima procedencia.
 
 ###### Artículo 70.
 
@@ -769,21 +859,51 @@ III.- Elaboración y ejecución de los programas aprobados; y
 
 IV.- Apoyo a las actividades de fomento a la cultura, a la producción, financiamiento y distribución de bienes culturales o a la prestación de servicios culturales.
 
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 71.
 
-Las autoridades en materia de cultura, promoverán la participación de la sociedad en la organización, desarrollo, construcción y financiamiento de actos culturales, museos, bibliotecas, hemerotecas, teatros, foros, salas de exposiciones y otras unidades culturales.
+El Consejo Estatal promoverá la participación de la sociedad en la organización, desarrollo, construcción y financiamiento de actos culturales, museos, bibliotecas, hemerotecas, teatros, foros, salas de exposiciones y otras unidades culturales.
 
-También estimularán la creación de instituciones privadas, sociedades, asociaciones y fideicomisos que coadyuven al fomento cultural.
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 72.
 
-El Consejo Poblano de Cultura será un órgano de análisis y opinión en el que converjan de manera conjunta representantes de los sectores público, privado y social.
+Para el ejercicio de las atribuciones del Consejo Estatal para la Cultura y las Artes, contará con el organismo auxiliar denominado Fomento Cultural Poblano.
 
-El órgano correspondiente se creará en términos de lo dispuesto en la Ley Orgánica de la Administración Pública del Estado de Puebla.
+Fomento Cultural Poblano contará con autonomía técnica y de gestión para apoyar económicamente el desarrollo de las actividades culturales y artísticas del Consejo Estatal. Sus recursos se constituirán con lo siguiente:
+
+I.- Las aportaciones federales y municipales;
+
+II.- Las herencias, legados o donaciones;
+
+III.- Los créditos que se obtengan del sector privado;
+
+IV.- Los bienes muebles e inmuebles que le asigne el Gobernador del Estado y los que adquiera por cualquier título legal para el cumplimiento de su objeto;
+
+V.- El presupuesto anual que se le autorice, así como las transferencias, subsidios y participaciones;
+
+VI.- Los que conforme a las disposiciones legales aplicables perciba por los servicios que se presten, relacionados con las materias objeto del Consejo Estatal, hasta por los montos que para tal efecto se le hubieren autorizado;
+
+VII.- Las aportaciones, subsidios y apoyos por parte de organizaciones públicas y privadas de carácter nacional e internacional;
+
+VIII.- Las utilidades, intereses, dividendos, rendimientos de sus bienes, derechos y demás ingresos que adquiera por cualquier título legal;
+
+IX.- Los demás bienes o ingresos que adquiera o perciba por cualquier título legal o servicio prestado; y
+
+X.- Otros recursos que a propuesta del Gobernador del Estado se determinen en el presupuesto;
+
+Fomento Cultural Poblano, podrá estimular también la creación de sociedades, asociaciones, fideicomisos, patronatos y otras formas de organización públicas o privadas, que coadyuven al fomento cultural, de conformidad con las leyes que rigen la materia.
 
 ###### Artículo 73.
 
 El Estado y los Ayuntamientos, a través de las dependencias que correspondan, podrán otorgar reconocimiento como órgano coadyuvante a los organismos sociales que se constituyan con objeto de colaborar con las autoridades estatales y municipales en la preservación del patrimonio cultural, como medida de fomento, estímulo, promoción, difusión y colaboración en la formación de conciencia en la importancia de la preservación del patrimonio cultural.
+
+> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 2011)</small>
+
+###### Artículo 74.
+
+El Consejo Ciudadano para la Cultura es un organismo de Participación Ciudadana, de análisis y opinión, de carácter consultivo; tendrá, entre otros fines, ser la instancia para otorgar reconocimientos y estímulos en materia cultural y artística, en el que participan representantes de los sectores privado, público y social.
 
 ## TRANSITORIOS
 
@@ -840,3 +960,11 @@ El Ejecutivo del Estado expedirá el Decreto de creación del Consejo Poblano de
 EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza, a los once días del mes de diciembre de dos mil ocho.- Diputada Presidenta.- MALINALLI AURORA GARCÍA RUIZ.- Rúbrica.- Diputado Vicepresidente.- HÉCTOR MAURICIO HIDALGO GONZÁLEZ.- Rúbrica.- Diputado Secretario.- RAÚL ERASMO ÁLVAREZ MARÍN.- Rúbrica.- Diputado Secretario.- GABRIEL GUSTAVO ESPINOSA VÁZQUEZ.- Rúbrica.
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los doce días del mes de diciembre de dos mil ocho.- El Gobernador Constitucional del Estado.- LICENCIADO MARIO P. MARÍN TORRES.- Rúbrica.- El Secretario de Gobernación.- LICENCIADO MARIO ALBERTO MONTERO SERRANO.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 14 DE FEBRERO DE 2011.
+
+PRIMERO.- El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan a lo establecido en el presente Decreto.
