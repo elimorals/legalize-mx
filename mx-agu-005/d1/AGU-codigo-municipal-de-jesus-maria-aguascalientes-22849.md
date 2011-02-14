@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-jesus-maria-aguascalientes-22849"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-24"
-last_updated: "2011-01-17"
+last_updated: "2011-02-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22849&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,9 +24,7 @@ state: "AGU"
 
 CODIGO MUNICIPAL DE JESUS MARIA, AGUASCALIENTES
 
-> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTICULO TERCERO TRANSITORIO DE LA REFORMA AL ARTICULO 96 DEL CODIGO MUNICIPAL DE JESUS MARIA, AGUASCALIENTES, PUBLICADA EN EL P.O. 17 DE ENERO DE 2011, CUANDO EN EL CODIGO MUNICIPAL SE DE UNA DENOMINACION DISTINTA A ALGUNA DEPENDENCIA O ENTIDAD CON FUNCIONES O ATRIBUCIONES ESTABLECIDAS POR OTRO ORDENAMIENTO JURIDICO, DICHAS FUNCIONES O ATRIBUCIONES SE ENTENDERAN CONFERIDAS A LA DEPENDENCIA O ENTIDAD QUE DETERMINE EL ARTICULO QUE SE REFORMA, EN TANTO NO SE EXPIDAN O REFORMEN LOS ORDENAMIENTOS JURIDICOS CORRESPONDIENTES.</small>
-
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE ENERO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE FEBRERO DE 2011.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 24 de diciembre de 2001.
 
@@ -1864,15 +1862,19 @@ En el caso de que desaparezca la necesidad de coordinación o colaboración para
 
 ### CAPITULO PRIMERO. De las Bebidas Alcohólicas
 
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
+
 ###### ARTICULO 153.
 
-Para efectos de este ordenamiento, se consideran bebidas alcohólicas los líquidos potables que a la temperatura de 15ºc tengan una graduación alcohólica mayor de 2º g.l.
+Para efectos de este ordenamiento, se consideran como bebidas alcohólicas, los líquidos potables que a la temperatura de 15ºc tengan una graduación alcohólica mayor de 2º g.l.
+
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
 
 ###### ARTICULO 154.
 
-Sólo podrán venderse al público bebidas alcohólicas en los establecimientos y locales que el Ayuntamiento autorice, previa licencia de venta expedida y de funcionamiento del establecimiento o local emitidas por la Presidencia Municipal, así como la correspondiente licencia sanitaria expedida por la Dirección de Salud, además de la licencia de uso de suelo.
+Sólo podrán venderse al público bebidas alcohólicas en los establecimientos y locales que el Ayuntamiento autorice, previa licencia de venta expedida y de funcionamiento del establecimiento o local emitida por la Presidencia Municipal, así como la correspondiente licencia sanitaria expedida por la Dirección de Salud, además de la licencia de uso de suelo.
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2009)</small>
+(REPUBLICADO, P.O. 14 DE FEBRERO DE 2011)
 
 ###### ARTICULO 155.
 
@@ -1888,31 +1890,31 @@ IV.- Autorización sanitaria y autorización de uso de suelo, a nombre del solic
 
 V.- El título de propiedad del inmueble donde pretende ubicarse el giro, o copia del contrato que corresponda, con el que se acredite el derecho de uso y goce de aquel, por el solicitante.
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2009)</small>
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
 
 ###### ARTICULO 156.
 
-Recibida la solicitud de licencia, con los anexos necesarios y cumpliendo con la totalidad de los requisitos a que se refiere el artículo anterior, la autoridad municipal ordenará, que en un plazo no mayor de cinco días hábiles, se realicen visitas por el personal autorizado de las áreas de seguridad y protección civil, para verificar que efectivamente el establecimiento o local propuestos, reúne las condiciones físicas manifestadas en la solicitud respectiva. Realizado lo anterior y sin que exista impedimento alguno para su funcionamiento, se canalizará la solicitud al Cabildo del Ayuntamiento, en un plazo no mayor de 10 días hábiles, para que se decida sobre su autorización final. Aprobada que sea, se expedirá la licencia, previo el pago de los derechos correspondientes, a nombre del solicitante, la cual tendrá una vigencia por el año fiscal que corresponde, haciendo los ajustes de cobro necesarios, en relación con la fecha de expedición.
+Recibida la solicitud de licencia, con los anexos necesarios y cumpliendo con la totalidad de los requisitos a que se refiere el Artículo anterior, la autoridad municipal ordenará, que en un plazo no mayor de cinco días hábiles, se realicen visitas por el personal autorizado de las áreas de seguridad y protección civil, para verificar que efectivamente el establecimiento o local propuestos, reúne las condiciones físicas manifestadas en la solicitud respectiva. Realizado lo anterior y sin que exista impedimento alguno para su funcionamiento, se canalizará la solicitud al Cabildo del Ayuntamiento, en un plazo no mayor de 10 días hábiles, para que se decida sobre su autorización final. Aprobada que sea, se expedirá la licencia, previo el pago de los derechos correspondientes, a nombre del solicitante, la cual tendrá una vigencia por el año fiscal que corresponde, haciendo los ajustes de cobro necesarios, en relación con la fecha de expedición.
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2009)</small>
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
 
 ###### ARTICULO 157.
 
-En el caso de que la solicitud no se acompañe con todos los documentos descritos, ni se satisfagan los requisitos a que se refiere el artículo 155 de este ordenamiento; o que de la visita a que se refiere el artículo anterior, resulte que no se cumplieron las condiciones manifestadas en la solicitud, la autoridad municipal concederá un plazo de cinco días naturales para que los interesados subsanen tales omisiones. En caso de no hacerlo, se tendrá como no presentada la solicitud, lo que no impide su posterior trámite.
+En el caso de que la solicitud no se acompañe con todos los documentos descritos, ni se satisfagan los requisitos a que se refiere el artículo 155 de este ordenamiento; o que de la visita a que se refiere el Artículo anterior, resulte que no se cumplieron las condiciones manifestadas en la solicitud, la autoridad municipal concederá un plazo de cinco días naturales para que los interesados subsanen tales omisiones. En caso de no hacerlo, se tendrá como no presentada la solicitud, lo que no impide su posterior trámite.
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2009)</small>
+(REPUBLICADO, P.O. 14 DE FEBRERO DE 2011)
 
 ###### ARTICULO 158.
 
 Las licencias deberán revalidarse dentro de los primeros sesenta días naturales del año que corresponda por el titular de la misma, mediante solicitud que por escrito formule a la Oficina encargada del Control de Licencias. Una vez analizada tal petición, se ordenará su revalidación, si no existen violaciones graves al ordenamiento municipal de parte del interesado, debidamente documentadas por la autoridad reglamentaria correspondiente, y que hayan ocurrido durante el año anterior de vigencia. En caso de autorización de revalidación, se ordenará se haga el pago de los derechos correspondientes por el interesado, para que continué en vigencia tal licencia por el término del año fiscal.
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2009)</small>
+(REPUBLICADO, P.O. 14 DE FEBRERO DE 2011)
 
 ###### ARTICULO 159.
 
 Si concluida la vigencia de la licencia o de su revalidación, el interesado no formula petición de revalidación dentro del término señalado, concluido éste, la autoridad municipal requerirá por escrito al titular de la licencia, para que manifieste si es su deseo o no, que siga surtiendo sus efectos o los de su revalidación. En caso afirmativo, se estará a lo ordenado en el artículo anterior. Si no hay respuesta en el término que se le fije para el efecto, o ésta es en el sentido de no querer seguir operando la licencia, se procederá a su cancelación definitiva y se ordenará la clausura del local, o de la actividad no renovada.
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2009)</small>
+(REPUBLICADO, P.O. 14 DE FEBRERO DE 2011)
 
 ###### ARTICULO 160.
 
@@ -1922,33 +1924,33 @@ APARTADO PRIMERO
 
 DE LOS ESTABLECIMIENTOS PARA LA VENTA Y CONSUMO DE BEBIDAS ALCOHOLICAS
 
-> <small>(REFORMADO Y REUBICADO, P.O. 16 DE MARZO DE 2009)</small>
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
 
 ###### ARTICULO 161.
 
 Los lugares destinados a la venta y consumo de bebidas alcohólicas se clasifican en:
 
-A).- Establecimientos para venta de bebidas alcohólicas en envase cerrado: Depósitos, Expendios, Abarrotes, supermercados y Minisupers;
+A).- Establecimientos para venta de bebidas alcohólicas en envase cerrado: Depósitos, Expendios de vinos y licores, Tiendas de abarrotes, Supermercados, Minisupers y las denominadas Tiendas de Conveniencia;
 
-B).- Establecimientos para venta y consumo de bebidas alcohólicas: Cervecerías, Bares o Cantinas, Merenderos y Centros Nocturnos;
+B).- Establecimientos para venta y consumo de bebidas alcohólicas en el interior, Cervecerías, Bares o Cantinas, Merenderos y Centros Nocturnos;
 
-C).- Establecimientos en los que en forma accesoria se puede establecer la venta y consumo de bebidas alcohólicas: Restaurantes, Centros Turísticos, Centros Sociales y Billares; y
+C).- Establecimientos en los que en forma accesoria se puede establecer la venta y consumo de bebidas alcohólicas: Restaurantes con categoría de Bar, Loncherías, Cenadurías, Centros Turísticos, Centros Sociales y Billares; y
 
-D).- Establecimientos en donde se puede autorizar la venta y consumo de bebidas alcohólicas, en forma eventual y transitoria: Ferias, Espectáculos Artísticos y/o Deportivos, Bailes Públicos y Salones de Fiestas.
+D).- Establecimientos en donde se puede autorizar la venta y consumo de bebidas alcohólicas, en forma eventual y transitoria: Kermeses, Ferias, Espectáculos Artísticos y/o Deportivos, Bailes Públicos y Salones de Fiestas.
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2009)</small>
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
 
 ###### ARTICULO 162.
 
-Atendiendo a sus características, categoría y a los servicios que presten los establecimientos destinados a la venta y consumo de bebidas alcohólicas, sólo podrán funcionar en los días y horarios que se establecen en el presente Código.
+Atendiendo a sus características, categoría y a los servicios que presten los establecimientos destinados a la venta y consumo de bebidas alcohólicas, así como a que aquellos establecimientos denominados como fijos por este ordenamiento, independientemente vendan o no bebidas de graduación alcohólica, sólo podrán funcionar en los días y horarios que se establecen en el presente Código.
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2009)</small>
+(REPUBLICADO, P.O. 14 DE FEBRERO DE 2011)
 
 ###### ARTICULO 163.
 
 Los establecimientos destinados a la venta y consumo de bebidas alcohólicas, deberán contar con las instalaciones adecuadas para tal efecto, con servicios sanitarios, higiénicos e independientes para ambos sexos, con los utensilios suficientes para sus servicios, así como contar con las correspondientes vías de acceso, estacionamientos y salidas de emergencia, y solo con el personal suficiente, debidamente identificado, para atender las necesidades del establecimiento.
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2009)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 14 DE FEBRERO DE 2011)</small>
 
 ###### ARTICULO 164.
 
@@ -1966,55 +1968,53 @@ e).- Exhibir, en lugar visible al público, y con caracteres legibles, la lista 
 
 f).- Impedir que en sus establecimientos se manifiesten conductas tendientes a la realización de actividades propias de la mendicidad y de la prostitución.
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2009)</small>
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
 
 ###### ARTICULO 165.
 
-A los titulares de las licencias de los establecimientos destinados a la verita y consumo de bebidas alcohólicas, o a sus encargados o empleados, se les prohíbe lo siguiente:
+A los titulares de las licencias de los establecimientos destinados a la venta y consumo de bebidas alcohólicas, o a sus encargados o empleados, se les prohíbe lo siguiente:
 
 a).- Realizar la venta de las bebidas alcohólicas, fuera del local o establecimiento autorizado para el efecto;
 
-b).- Permitir la entrada a los locales o establecimientos autorizados, a personas en evidente estado de ebriedad;
+b).- Permitir la entrada, venta y consumo en los locales o establecimientos autorizados para la venta de bebidas alcohólicas, a personas que se encuentren en evidente estado de ebriedad, y a las personas menores de 18 años.
 
-c).- Realizar la venta y permitir el consumo de bebidas alcohólicas a personas que se encuentren en evidente estado de ebriedad, o a personas menores de 18 años de edad;
+c).- Permitir la realización de juegos prohibidos, o que se crucen apuestas, en los establecimientos a su cargo;
 
-d).- Permitir la realización de juegos prohibidos, o que se crucen apuestas, en los establecimientos a su cargo;
+d).- Obsequiar o realizar la venta de bebidas alcohólicas a personas con uniforme oficial, o a los verificadores del área de reglamentos;
 
-e).- Obsequiar o realizar la venta de bebidas alcohólicas a personas con uniforme oficial, o a los verificadores del área de reglamentos;
+e).- Usar para promoción de sus establecimientos, al interior o fuera de los mismos, de nombres, retratos o logotipos relativos a personas, instituciones o valores nacionales, sin autorización del titular del derecho, así como todo tipo de imágenes que atenten contra el orden social, la moral y las buenas costumbres;
 
-f).- Usar para promoción de sus establecimientos, al interior o fuera de los mismos, de nombres, retratos o logotipos relativos a personas, instituciones o valores nacionales, sin autorización del titular del derecho, así como todo tipo de imágenes que atenten contra el orden social, la moral y las buenas costumbres;
+f).- Ocupar a personas menores de 18 años de edad, para los diversos servicios que se presten en el interior del establecimiento;
 
-g).- Ocupar para la atención de los consumidores, a personas menores de 18 años de edad;
+g).- El realizar la proyección de películas o reproducciones de discos, casetes, o cintas grabadas, que atenten contra las instituciones y valores nacionales, así como el orden social, la moral y las buenas costumbres;
 
-h).- El realizar la proyección de películas o reproducciones de discos, casetes, o cintas grabadas, que atenten contra las instituciones y valores nacionales, así como el orden social, la moral y las buenas costumbres;
+h).- Permitir que los consumidores permanezcan en el interior del establecimiento después de la hora señalada para su cierre;
 
-i).- Permitir que los consumidores en sus establecimientos, permanezcan en su interior, después de la hora señalada para su cierre;
+i).- Realizar la venta de bebidas en envases abiertos, vasos o copas, o permitir el consumo en el interior de sus establecimientos, si solo se cuenta con licencia para la venta de bebidas alcohólicas en envase cerrado;
 
-j).- Realizar la venta de bebidas en envases abiertos, vasos o copas, o permitir el consumo en el interior de sus establecimientos, si solo se cuenta con licencia para la venta de bebidas alcohólicas en envase cerrado;
+j).- Se permita a cualquier persona que se encuentre dentro de los establecimientos, realicen actos de carácter obsceno, o que con ellos se atente contra la moral y buenas costumbres.
 
-k).- Que el personal que labora en el establecimiento, vista en forma adecuada y de acuerdo a la actividad que realizan; y
+k).- En ningún caso se permitirá que los empleados de los establecimientos, alternen y se sienten a consumir con los clientes o consumidores, en las mesas o lugares interiores. Para el efecto, el encargado del establecimiento informará por escrito a la autoridad municipal, los nombres del total de los empleados que tenga a su cargo, sus funciones a desarrollar o actividades, así como los horarios de su entrada y salida.
 
-l).- Permitir a cualquier persona que se encuentre dentro de los establecimientos, a realizar actos de carácter obsceno, o que con ellos se atente contra la moral y buenas costumbres.
-
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2009)</small>
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
 
 ###### ARTICULO 166.
 
-En ningún caso se permitirá que los empleados de los establecimientos, alternen y se sienten a consumir con los clientes o consumidores, en las mesas o lugares interiores. Para el efecto, el encargado del establecimiento informará por escrito a la autoridad municipal, los nombres del total de los empleados que tenga a su cargo, sus funciones a desarrollar o actividades, así como los horarios de su entrada y salida.
+Para efectos del artículo, anterior se entiende por alternar, como la conducta de un hombre o una mujer que tiene una relación laboral con un establecimiento, misma que consiste en la interacción con un cliente por medio de pláticas o convivencia de carácter personal, con el objetivo de ampliar la estadía o el consumo del cliente del servicio ofertado en el establecimiento.
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2009)</small>
+(REPUBLICADO, P.O. 14 DE FEBRERO DE 2011)
 
 ###### ARTICULO 167.
 
 Queda a su vez prohibida, la existencia en los establecimientos, de botellas cuyo contenido original haya sido adulterado.
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2009)</small>
+(REPUBLICADO, P.O. 14 DE FEBRERO DE 2011)
 
 ###### ARTICULO 168.
 
 Queda prohibida también la venta y consumo de bebidas alcohólicas, en planteles o instituciones educativas, templos, cementerios, circos y centros de trabajo.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 16 DE MARZO DE 2009)</small>
+(REPUBLICADO, P.O. 14 DE FEBRERO DE 2011)
 
 ###### ARTICULO 169.
 
@@ -2026,63 +2026,77 @@ APARTADO SEGUNDO
 
 CLASIFICACION
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2009)</small>
+(REPUBLICADO, P.O. 14 DE FEBRERO DE 2011)
 
 ###### ARTICULO 170.
 
 Cervecería es el establecimiento en el que, de manera exclusiva se vende cerveza envasada o de barril, para su consumo inmediato, venta que podrá incluir botanas o alimentos similares.
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2009)</small>
+(REPUBLICADO, P.O. 14 DE FEBRERO DE 2011)
 
 ###### ARTICULO 171.
 
 Bar o Cantina es todo establecimiento dedicado a la venta y consumo de bebidas alcohólicas incluyendo botanas y alimentos similares, y en el que podrán también venderse bebidas no embriagantes, sin venta de alimentos. Se podrá además en su interior, jugar ajedrez, damas, dominó o cubilete, sin apuestas; y se autoriza la instalación de aparatos de radio, televisión, reproductores de sonido y similares, siempre que funcionen a volumen moderado, que no constituyan molestias para el vecindario y que cumplan las disposiciones que establezcan las leyes y reglamentos que norman el funcionamiento de aparatos de sonido, estando a su elección el libre trabajo de trovadores y músicos, que cuenten con los permisos correspondientes.
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2009)</small>
+(REPUBLICADO, P.O. 14 DE FEBRERO DE 2011)
 
 ###### ARTICULO 172.
 
 Merendero es todo establecimiento destinado a la venta y consumo de bebidas alcohólicas, que incluye botanas y alimentos similares, y en el que podrán también venderse bebidas no embriagantes, sin venta de alimentos, y a los que podrán ingresar personas menores de 18 años de edad, en compañía de sus familiares mayores de edad, estando a su elección el libre trabajo de trovadores y músicos, que cuenten con los permisos correspondientes.
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2009)</small>
+(REPUBLICADO, P.O. 14 DE FEBRERO DE 2011)
 
 ###### ARTICULO 173.
 
 Centro Nocturno es todo establecimiento destinado a la venta y consumo de bebidas alcohólicas, que pueden contar con algún espectáculo o variedad, donde existe un espacio para que los asistentes puedan bailar, y exista música de manera permanente, sea grabada o a cargo de grupo, conjunto y orquesta.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 16 DE MARZO DE 2009)</small>
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
 
 ###### ARTICULO 174.
 
-Restaurante es todo establecimiento donde se vende cualquier clase de alimento y bebidas alcohólicas, para ser consumidos en el mismo local, y se autoriza en ellos la instalación de aparatos de radio, televisión, reproductores de sonido y similares, siempre que funcionen a volumen moderado, que no constituyan molestias para el vecindario y que cumplan las disposiciones que establezcan las leyes y reglamentos que norman el funcionamiento de aparatos de sonido, estando a su elección el libre trabajo de trovadores y músicos, que cuenten con los permisos correspondientes.
+Restaurante con categoría de Bar, es todo establecimiento donde se vende cualquier clase de alimento y bebidas alcohólicas, para ser consumidos en el mismo local, y se autoriza en ellos la instalación de aparatos de radio, televisión, reproductores de sonido y similares, siempre que funcionen a volumen moderado, que no constituyan molestias para el vecindario y que cumplan las disposiciones que establezcan las leyes y reglamentos que norman el funcionamiento de aparatos de sonido, estando a su elección el libre trabajo de trovadores y músicos, que cuenten con los permisos correspondientes.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 16 DE MARZO DE 2009)</small>
+(REPUBLICADO, P.O. 14 DE FEBRERO DE 2011)
 
 ###### ARTICULO 175.
 
 Centro Turístico es aquel establecimiento ubicado en lugares que, por su belleza natural, adaptaciones arquitectónicas, tradición, folklore, decorado y otras circunstancias semejantes, constituyen sitios de esparcimiento y atracción para turistas, en el que se podrán vender alimentos típicos regionales, acompañados con cerveza, vino de mesa y bebidas alcohólicas.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO] Y REUBICADO, P.O. 16 DE MARZO DE 2009)</small>
+(REPUBLICADO, P.O. 14 DE FEBRERO DE 2011)
 
 ###### ARTICULO 176.
 
 Centro Social es aquél establecimiento que opera o se sostiene con la cooperación de las cuotas de sus socios, y funciona para su recreación y la de sus invitados, y en donde se pueden consumir bebidas alcohólicas y alimentos.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 16 DE MARZO DE 2009)</small>
+(REPUBLICADO, P.O. 14 DE FEBRERO DE 2011)
 
 ###### ARTICULO 177.
 
 Salones de Fiestas son aquellos lugares donde se celebran festividades de orden privado, y en los que se podrán consumir bebidas alcohólicas, previa autorización y vigilancia de la autoridad municipal, y que pueden instalarse en forma independiente, en hoteles o centros sociales.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 16 DE MARZO DE 2009)</small>
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
 
 ###### ARTICULO 178.
 
-En los hoteles podrán funcionar bares o cantinas dependientes de la administración, sin que varíen los requisitos para su funcionamiento. En los moteles, además de ofrecer alojamiento y garaje, para estancias de corta duración, se proveerá a los huéspedes de los servicios adicionales venta de bebidas alcohólicas, durante el momento de la estancia.
+Tienda de Conveniencia es aquel establecimiento de carácter comercial, con características de venta de amplio surtido de productos tales como; los de abarrotes y consumibles, bebidas de graduación alcohólicas y no alcohólicas, alimentos principalmente comida chatarra y comida rápida, frutas y verduras, lácteos, periódicos y revistas, así como productos de uso domestico e higiene personal y fármacos de venta libre, con un horario de trabajo de hasta 24 horas.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 16 DE MARZO DE 2009)</small>
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
 
 ###### ARTICULO 179.
+
+La Lonchería es aquel establecimiento destinado a la venta y consumo de alimentos en su interior, con características de ser comida rápida e inmediata, tales alimentos pueden ser acompañados con bebidas de graduación alcohólicas tipo cerveza, esta potestad no implica ni da derecho a realizar la venta del producto de graduación alcohólica para llevar o de forma accesoria.
+
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
+
+###### ARTICULO 180.
+
+En los hoteles podrán funcionar bares o cantinas dependientes de la administración, sin que varíen los requisitos para su funcionamiento.
+
+En los moteles, además de ofrecer alojamiento y garaje, para estancias de corta duración, se proveerá a los huéspedes de los servicios adicionales venta de bebidas alcohólicas, durante el momento de la estancia.
+
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
+
+###### ARTICULO 181.
 
 En ferias, Espectáculos Artísticos, Bailes Públicos, Espectáculos Deportivos y Salones de Fiestas, se podrá permitir la venta y consumo de bebidas alcohólicas, previo permiso de la autoridad municipal. Para tal efecto, el interesado deberá presentar, cuando menos con 15 días hábiles anteriores a la fecha de la celebración, solicitud por escrito, al Secretario del Ayuntamiento y Director de Gobernación, que contendrá lo siguiente:
 
@@ -2104,119 +2118,123 @@ APARTADO TERCERO
 
 HORARIOS
 
-> <small>(REFORMADO Y REUBICADO, P.O. 16 DE MARZO DE 2009)</small>
-
-###### ARTICULO 180.
-
-Las ferias, espectáculos artísticos, bailes públicos, espectáculos deportivos y salones de fiestas, se sujetarán al horario que autorice la autoridad municipal, en cada caso.
-
-> <small>(REFORMADO Y REUBICADO, P.O. 16 DE MARZO DE 2009)</small>
-
-###### ARTICULO 181.
-
-Los Abarrotes y similares con Venta de Cerveza, Vinos y Licores, tendrán un horario de 09:00 a 22:00 Horas.
-
-> <small>(REFORMADO Y REUBICADO, P.O. 16 DE MARZO DE 2009)</small>
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
 
 ###### ARTICULO 182.
 
-Los Depósitos o Expendios de Cerveza tendrán un horario de las 10:00 a las 22:00 Horas.
+Las ferias, espectáculos artísticos, bailes públicos, espectáculos deportivos y salones de fiestas, se sujetarán al horario que autorice la autoridad municipal, en cada caso.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 16 DE MARZO DE 2009)</small>
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
 
 ###### ARTICULO 183.
 
-Los Expendios de Vinos y Licores tendrán un horario de 09:00 a 22:00 Horas.
+Las Tiendas de abarrotes, Supermercados, Minisupers, Tiendas de Conveniencia con Venta de Cerveza, Vinos y Licores, tendrán un horario de 9:00 a 22:00 horas.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 16 DE MARZO DE 2009)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE FEBRERO DE 2011)</small>
+
+###### ARTICULO 183 Bis.
+
+Las Tiendas de Auto Servicio con venta de bebidas alcohólicas y Farmacias con Auto Servicio con venta de cerveza, tendrán un horario de 9:00 a 22:00 horas.
+
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
 
 ###### ARTICULO 184.
 
-Los Billares con venta de cerveza tendrán un horario de las 10:00 a las 24:00 Horas.
+Los Depósitos o Expendios de Cerveza tendrán un horario de las 10:00 a las 22:00 horas.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 16 DE MARZO DE 2009)</small>
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
 
 ###### ARTICULO 185.
 
-Las Cervecerías tendrán un horario de las 10:00 a las 22:00 Horas.
+Los Expendios de Vinos y Licores tendrán un horario de 9:00 a 22:00 horas.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 16 DE MARZO DE 2009)</small>
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
 
 ###### ARTICULO 186.
 
-Las Cantinas o Bares tendrán un horario de las 10:00 a las 24:00 Horas.
+Los Billares con venta de cerveza tendrán un horario de las 10:00 a las 24:00 horas.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 16 DE MARZO DE 2009)</small>
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
 
 ###### ARTICULO 187.
 
-Los Merenderos tendrán un horario de las 12:00 a las 24:00 Horas.
+Las Cervecerías y Loncherías tendrán un horario de las 10:00 a las 22:00 horas.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 16 DE MARZO DE 2009)</small>
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
 
 ###### ARTICULO 188.
 
-El Centro Nocturno tendrá un horario de las 21:00 a las 02:00 Horas.
+Las Cantinas o Bares tendrán un horario de las 10:00 a las 24:00 horas.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 16 DE MARZO DE 2009)</small>
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
 
 ###### ARTICULO 189.
 
-El Restaurante tendrá un horario de las 07:00 a las 24:00 Horas.
+Los Merenderos tendrán un horario de las 12:00 a las 24:00 horas.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 16 DE MARZO DE 2009)</small>
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
 
 ###### ARTICULO 190.
 
-El Centro Turístico tendrá un horario de las 09:00 a las 22:00 Horas.
+El Centro Nocturno tendrá un horario de las 21:00 a las 2:00 horas.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 16 DE MARZO DE 2009)</small>
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
 
 ###### ARTICULO 191.
 
-El Centro Social tendrá un horario de las 14:00 a las 24:00 Horas.
+El Restaurante con categoría de Bar tendrá un horario de las 7:00 a las 24:00 horas.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 16 DE MARZO DE 2009)</small>
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
 
 ###### ARTICULO 192.
 
-El Secretario del Ayuntamiento y Director General de Gobierno, podrá autorizar la ampliación de horario en fechas conmemorativas o celebraciones especiales, hasta por dos horas más, previo pago de los derechos correspondientes.
+El Centro Turístico tendrá un horario de las 09:00 a las 22:00 horas.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 16 DE MARZO DE 2009)</small>
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
 
 ###### ARTICULO 193.
 
-La venta de bebidas alcohólicas en los lugares autorizados para el efecto, se suspenderá los días y horas que así lo establezca la autoridad municipal, lo que se comunicará con anticipación por los medios de comunicación.
+El Centro Social tendrá un horario de las 14:00 a las 24:00 horas.
 
 ###### ARTICULO 193 Bis.
 
-Queda estrictamente prohibido la autorización de centros o conjunto de establecimientos tendientes a promover y/o ejercer la prostitución o conductas que atenten contra la moral y buenas costumbres.
+(DEROGADO, P.O. 14 DE FEBRERO DE 2011)
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE FEBRERO DE 2011)</small>
 
 ###### ARTICULO 194.
 
-(DEROGADO, P.O. 16 DE MARZO DE 2009)
+Las Cenadurías tendrán un horario de 17:00 a las 23:00 horas.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE FEBRERO DE 2011)</small>
 
 ###### ARTICULO 195.
 
-(DEROGADO, P.O. 16 DE MARZO DE 2009)
-
-> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
+Los horarios de trabajo de todo tipo de comercio de los denominados como los fijos, en los cuales están incluidas las Tiendas de Abarrotes y similares con características de venta de cerveza en envase cerrado y/o con venta de vinos y licores tendrán un horario para el cierre de actividades a las 23:00 horas.
 
 ###### ARTICULO 195 Bis.
 
-La Secretaria del H. Ayuntamiento y Dirección General de Gobierno podrá autorizar la ampliación de horario los días jueves viernes y sábado así como en fechas conmemorativas o celebraciones especiales hasta por dos horas más, previo pago de los derechos correspondientes. Se exceptúa de lo anterior los casos en que haya ley seca.
+(DEROGADO, P.O. 14 DE FEBRERO DE 2011)
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE FEBRERO DE 2011)</small>
 
 ###### ARTICULO 196.
 
-(DEROGADO, P.O. 16 DE MARZO DE 2009)
+El Secretario del Ayuntamiento y Director General de Gobierno, podrá autorizar la ampliación de horario en fechas conmemorativas o celebraciones especiales, hasta por dos horas más, previo pago de los derechos correspondientes.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE FEBRERO DE 2011)</small>
 
 ###### ARTICULO 197.
 
-(DEROGADO, P.O. 16 DE MARZO DE 2009)
+La venta de bebidas alcohólicas en los lugares autorizados para el efecto, se suspenderá los días y horas que así lo establezca la autoridad municipal, lo que se comunicará con anticipación por escrito y/o con el apoyo de los medios de comunicación.
 
-### CAPITULO SEGUNDO. De las Prohibiciones
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE FEBRERO DE 2011)</small>
 
-> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
+###### ARTICULO 197 Bis.
+
+Queda estrictamente prohibido la autorización de centros o conjunto de establecimientos tendientes a promover y/o ejercer la prostitución o conductas que atenten contra la moral y buenas costumbres.
+
+### CAPITULO CUARTO (SIC). Rastro Municipal
 
 ###### ARTICULO 198.
 
@@ -2334,7 +2352,7 @@ DE LOS INTRODUCTORES
 
 (DEROGADO, P.O. 15 DE JUNIO DE 2009)
 
-### CAPITULO TERCERO. De los Horarios
+### CAPITULO QUINTO. Del Servicio Público de Limpia y Sanidad
 
 ###### ARTICULO 221.
 
@@ -2814,7 +2832,11 @@ II.- Comunicar al Departamento de Ecología y Medio Ambiente, los nombres o dato
 
 III.- informar a la Subdirección Municipal de Limpia, sobre las deficiencias o carencias del servicio en su zona.
 
-### CAPITULO CUARTO. Rastro Municipal
+### CAPITULO SEXTO. De Mercados y Comercio Ambulante
+
+APARTADO PRIMERO
+
+GENERALIDADES
 
 ###### ARTICULO 291.
 
@@ -3142,7 +3164,7 @@ Los delegados municipales o sus similares, recaudarán las rentas correspondient
 
 Queda prohibido a los locatarios o arrendatarios, que vendan o tengan existencia de artículos fabricados con pólvora o cualquier otra sustancia explosiva, o bien mercancías de fácil combustión que puedan provocar un desastre por explosivos o incendio.
 
-### CAPITULO QUINTO. Del Servicio Público de Limpia y Sanidad
+### CAPITULO OCTAVO. Del Servicio Público de Cementerios
 
 ###### ARTICULO 353.
 
@@ -3472,11 +3494,7 @@ VIII.- No extraer ningún objeto del cementerio, sin el permiso del administrado
 
 IX.- Las demás que se establecen en el presente ordenamiento.
 
-### CAPITULO SEXTO. De Mercados y Comercio Ambulante
-
-APARTADO PRIMERO
-
-GENERALIDADES
+### CAPITULO NOVENO. Del Alumbrado Público
 
 ###### ARTICULO 392.
 
@@ -3702,7 +3720,7 @@ Los ingresos que se perciban por este concepto se destinarán al pago, mantenimi
 
 # LIBRO QUINTO. DE LA SEGURIDAD PUBLICA, PROTECCION CIVIL Y JUECES CALIFICADORES
 
-### CAPITULO OCTAVO. Del Servicio Público de Cementerios
+### CAPITULO PRIMERO. Generalidades
 
 ###### ARTICULO 430.
 
@@ -3728,7 +3746,7 @@ V.- Auxiliar, dentro de la esfera de su competencia, al Ministerio Público y a 
 
 VI.- Aprehender al delincuente en los casos de flagrante delito y en los de notoria urgencia, cuando se trate de delitos que se persigan de oficio y que por razón de la hora, del lugar o de la distancia, no haya autoridad judicial que expida la orden de aprehensión o cuando existan temores fundados de que el presunto responsable se sustraiga a la acción de la justicia, poniendo al aprehendido a la brevedad posible a disposición de la autoridad competente, en especial tratándose de menores presuntos infractores.
 
-### CAPITULO NOVENO. Del Alumbrado Público
+### CAPITULO SEGUNDO. De los Mandos de la Policía Municipal
 
 ###### ARTICULO 433.
 
@@ -3858,7 +3876,7 @@ Las revistas a que se refiere el artículo anterior se efectuarán por lo menos 
 
 Para la prestación del servicio de seguridad pública en comunidades del municipio, el Director de Seguridad Pública Municipal, designará un delegado que tendrá a su cargo el mando operativo en la jurisdicción.
 
-### CAPITULO PRIMERO. Generalidades
+### CAPITULO TERCERO. Del Personal de la Policía Municipal, de su Ingreso y Adiestramiento
 
 ###### ARTICULO 448.
 
@@ -4058,7 +4076,7 @@ XIX.- Utilizar vehículos oficiales en las horas ajenas al servicio policiaco; y
 
 XX.- En general, violar las leyes, reglamentos y demás disposiciones legales aplicables.
 
-### CAPITULO SEGUNDO. De los Mandos de la Policía Municipal
+### CAPITULO CUARTO. Escalafón, Ascenso y Recompensas
 
 ###### ARTICULO 463.
 
@@ -4170,7 +4188,7 @@ Serán acreedores a recompensas económicas o en especie, aquellos policías que
 
 El derecho a la obtención de los reconocimientos se pierde por la comisión de delitos o faltas graves.
 
-### CAPITULO TERCERO. Del Personal de la Policía Municipal, de su Ingreso y Adiestramiento
+### CAPITULO QUINTO. Del Centro de Detención Municipal
 
 ###### ARTICULO 483.
 
@@ -4202,7 +4220,7 @@ IV. Avisar a la autoridad judicial acerca de los registros y oficios de detenci�
 
 V. Informar permanentemente a la autoridad municipal sobre las incidencias del establecimiento.
 
-### CAPITULO CUARTO. Escalafón, Ascenso y Recompensas
+### CAPITULO SEXTO. De la Coordinación en Materia de Seguridad Pública
 
 ###### ARTICULO 488.
 
@@ -4230,7 +4248,7 @@ El municipio podrá coordinarse con otros municipios del mismo Estado para lleva
 
 ## TITULO SEGUNDO. PROTECCION CIVIL
 
-### CAPITULO QUINTO. Del Centro de Detención Municipal
+### CAPITULO PRIMERO. Generalidades
 
 ###### ARTICULO 490.
 
@@ -4286,7 +4304,7 @@ IV. Los administradores, gerentes, poseedores, arrendatarios o propietario (sic)
 
 El Ayuntamiento determinará quienes de los sujetos señalados en el párrafo anterior, deberán cumplir con la preparación del programa específico.
 
-### CAPITULO SEXTO. De la Coordinación en Materia de Seguridad Pública
+### CAPITULO SEGUNDO. Del Sistema Municipal de Protección Civil
 
 ###### ARTICULO 492.
 
@@ -4672,7 +4690,7 @@ Las inspecciones a cargo del personal de la Unidad Municipal de Protección Civi
 
 ## TITULO TERCERO. DE LOS JUECES CALIFICADORES
 
-### CAPITULO PRIMERO. Generalidades
+### CAPITULO UNICO. Derechos y Obligaciones
 
 ###### ARTICULO 528.
 
@@ -4730,7 +4748,7 @@ VIII. Y las demás disposiciones administrativas que dicte el Ayuntamiento.
 
 # LIBRO SEXTO. DEL TRANSITO Y TRANSPORTES
 
-### CAPITULO SEGUNDO. Del Sistema Municipal de Protección Civil
+### CAPITULO PRIMERO. Generalidades
 
 ###### ARTICULO 535.
 
@@ -4768,7 +4786,7 @@ VII.- Semoviente: Ganado que transita por los caminos o territorio municipal, ar
 
 VIII.- Vialidad: Todos los sistemas implementados para brindar seguridad al transitar por la vía pública, a peatones y conductores, como son Educación Vial y obras de Ingeniería de Tránsito, (señalamientos fijos, humanos y semáforos).
 
-### CAPITULO UNICO. Derechos y Obligaciones
+### CAPITULO SEGUNDO. De las Autoridades
 
 ###### ARTICULO 539.
 
@@ -4782,7 +4800,7 @@ III.- El Secretario del Ayuntamiento y Director General de Gobierno;
 
 IV.- El Director de Tránsito Municipal.
 
-### CAPITULO PRIMERO. Generalidades
+### CAPITULO TERCERO. Del (sic) las Atribuciones y Obligaciones de las Autoridades
 
 ###### ARTICULO 540.
 
@@ -4816,7 +4834,7 @@ Compete al Secretario del Ayuntamiento:
 
 Proponer al Presidente Municipal los programas de trabajo de dicha Dirección.
 
-### CAPITULO SEGUNDO. De las Autoridades
+### CAPITULO CUARTO. De la Organización de la Dirección de Tránsito Municipal
 
 ###### ARTICULO 543.
 
@@ -4838,7 +4856,7 @@ VII.- Agentes.
 
 La Dirección de Tránsito Municipal: Su estructura orgánica, la conforman los departamentos de (sic): Académico, Operativo, Educación Vial, Accidentes y Peritajes, Ingeniería de Tránsito y Administrativo.
 
-### CAPITULO TERCERO. Del (sic) las Atribuciones y Obligaciones de las Autoridades
+### CAPITULO QUINTO. De las Facultades y Obligaciones de las Autoridades de la Dirección
 
 ###### ARTICULO 544.
 
@@ -4934,7 +4952,7 @@ Los comandantes de tránsito municipal son el enlace entre los oficiales y agent
 
 Se responsabilizarán de la disciplina, higiene y buena presentación, así como del comportamiento respetuoso entre los elementos a su mando, tanto del interior como al exterior de la corporación.
 
-### CAPITULO CUARTO. De la Organización de la Dirección de Tránsito Municipal
+### CAPITULO SEXTO. De las Atribuciones y Obligaciones de los Elementos de Tránsito Municipal
 
 ###### ARTICULO 548.
 
@@ -5046,7 +5064,7 @@ C) Para la devolución del vehículo presentará la factura original y/o factura
 
 El personal operativo de la Dirección de Tránsito Municipal, podrá detener la marcha de todo tipo de vehículos, en operativos de rutina.
 
-### CAPITULO QUINTO. De las Facultades y Obligaciones de las Autoridades de la Dirección
+### CAPITULO SEPTIMO. De las Prohibiciones a los Elementos de Tránsito Municipal
 
 ###### ARTICULO 556.
 
@@ -5080,7 +5098,7 @@ II.- Maltratar de palabra o de obra a la ciudadanía.
 
 III.- Exhibir sus armas en la vía pública.
 
-### CAPITULO SEXTO. De las Atribuciones y Obligaciones de los Elementos de Tránsito Municipal
+### CAPITULO OCTAVO. De los Derechos
 
 ###### ARTICULO 558.
 
@@ -5116,7 +5134,7 @@ Para los efectos de los ascensos, sanciones y correctivos disciplinarios, así c
 
 La comisión deberá remitir la propuesta de ascenso al C. Presidente Municipal, quien por acuerdo la otorgará una vez que haya recibido informes de la Dirección de Administración y del Ayuntamiento.
 
-### CAPITULO SEPTIMO. De las Prohibiciones a los Elementos de Tránsito Municipal
+### CAPITULO NOVENO. De la Organización y Disciplina Interna
 
 ###### ARTICULO 560.
 
@@ -5132,7 +5150,7 @@ III.- Primer Comandante.
 
 Para los efectos del servicio, se considera horario normal la jornada que comprende 8 horas continuas de labores con su descanso inmediato de 16 horas, excepción hecha en los casos en que deba cumplir un arresto y disposiciones de acuartelamiento a una parte del personal o a la totalidad de la corporación.
 
-### CAPITULO OCTAVO. De los Derechos
+### CAPITULO DECIMO. De las Sanciones y Correcciones Disciplinarias
 
 ###### ARTICULO 562.
 
@@ -5160,7 +5178,7 @@ Para la aplicación de cualquier sanción deberá escucharse la defensa del infr
 
 El Comandante en turno llevará un estricto control sobre las asistencias y retardos de los elementos, mismos que serán notificados al Director de la corporación, el retardo injustificado que sobrepase los 15 minutos será considerado como falta y se procederá al descuento del día en sus percepciones, por lo que el impuntual podrá retirarse.
 
-### CAPITULO NOVENO. De la Organización y Disciplina Interna
+### CAPITULO UNDECIMO. De los Escalafones y Ascensos
 
 ###### ARTICULO 566.
 
@@ -5876,7 +5894,7 @@ Está prohibido el uso de magnavoces si su permiso no ha sido solicitado en la D
 
 Está prohibido que en vehículos descubiertos se transporten desperdicios, perecederos, mercancías malolientes y de aspecto repulsivo, que dañen el medio ambiente y propicien infecciones, así como su estacionamiento en zonas urbanas y suburbanas.
 
-### CAPITULO DECIMO. De las Sanciones y Correcciones Disciplinarias
+### CAPITULO VIGESIMO. De la Educación Vial
 
 ###### ARTICULO 659.
 
@@ -6072,7 +6090,7 @@ Los agentes de Tránsito únicamente podrán detener la marcha de un vehículo c
 
 ## TITULO PRIMERO. DESARROLLO SOCIAL
 
-### CAPITULO UNDECIMO. De los Escalafones y Ascensos
+### CAPITULO UNICO. Funciones
 
 ###### ARTICULO 675.
 
@@ -6170,7 +6188,7 @@ XV.- Con el fin de conocer, analizar y evaluar la actividad de La Instancia Muni
 
 ## TITULO SEGUNDO. PROTECCION AMBIENTAL
 
-### CAPITULO VIGESIMO. De la Educación Vial
+### CAPITULO PRIMERO. Generalidades
 
 ###### ARTICULO 681.
 
@@ -6352,7 +6370,11 @@ X. Incorporar en las licencias municipales de construcción que tengan como obje
 
 XI. Las demás que le confieran otros ordenamientos jurídicos en la materia.
 
-### CAPITULO UNICO. Funciones
+### CAPITULO SEGUNDO. Participación Ciudadana
+
+APARTADO PRIMERO
+
+PARTICIPACION SOCIAL
 
 ###### ARTICULO 692.
 
@@ -6446,7 +6468,11 @@ El visitador domiciliario, al constituirse en el lugar donde se ubica la fuente 
 
 En los casos de flagrancia, el personal autorizado por la Dirección Servicios Públicos procederá de oficio a la práctica de las diligencias de inspección de los establecimientos o lugares en donde haya fuentes contaminantes.
 
-### CAPITULO PRIMERO. Generalidades
+### CAPITULO TERCERO. Política Ecológica, Planeación Ecológica y Ordenamiento Ecológico
+
+APARTADO PRIMERO
+
+DE LA POLITICA ECOLOGICA
 
 ###### ARTICULO 709.
 
@@ -6528,11 +6554,7 @@ II. La creación de recursos territoriales y la determinación de los usos, prov
 
 III. La ordenación urbana del territorio municipal y los programas de los Gobiernos Federal, Estatal y Municipal para la infraestructura, equipamiento urbano y vivienda.
 
-### CAPITULO SEGUNDO. Participación Ciudadana
-
-APARTADO PRIMERO
-
-PARTICIPACION SOCIAL
+### CAPITULO CUARTO. Promoción de la Educación Ambiental
 
 ###### ARTICULO 718.
 
@@ -6556,11 +6578,7 @@ II. Promover y estimular la asistencia y participación de los ciudadanos, grupo
 
 III. Realizar concertaciones con instituciones educativas y de investigación para proporcionar esquemas educativos y apoyo profesional en la transmisión de tecnologías y proyectos a la población que lo requiera.
 
-### CAPITULO TERCERO. Política Ecológica, Planeación Ecológica y Ordenamiento Ecológico
-
-APARTADO PRIMERO
-
-DE LA POLITICA ECOLOGICA
+### CAPITULO QUINTO. Protección y Aprovechamiento Racional del Agua
 
 ###### ARTICULO 720.
 
@@ -6586,7 +6604,7 @@ VII. Hacer las denuncias y gestiones correspondientes ante las autoridades compe
 
 VIII. Promover el reuso de aguas residuales tratadas en la industria, la agricultura y el riego de áreas verdes, siempre y cuando cumplan con las normas técnicas ecológicas aplicables.
 
-### CAPITULO CUARTO. Promoción de la Educación Ambiental
+### CAPITULO SEXTO. Protección y Aprovechamiento del Suelo, y Manejo de Residuos Sólidos
 
 ###### ARTICULO 722.
 
@@ -6622,7 +6640,7 @@ Toda persona física o moral, pública o privada, que genere, almacene, recolect
 
 Las industrias comprendidas dentro de la jurisdicción municipal, serán responsables del almacenamiento, manejo, transporte y destino final de los residuos sólidos, orgánicos e inorgánicos, que produzcan, así como de los daños que ocasionen a la salud, al ambiente o al paisaje.
 
-### CAPITULO QUINTO. Protección y Aprovechamiento Racional del Agua
+### CAPITULO SEPTIMO. Saneamiento Atmosférico
 
 ###### ARTICULO 726.
 
@@ -6654,7 +6672,7 @@ b) Las móviles, como vehículos automotores de combustión interna, motocicleta
 
 c) Diversas; como la incineración, depósitos o quema a cielo abierto de residuos sólidos en el Municipio.
 
-### CAPITULO SEXTO. Protección y Aprovechamiento del Suelo, y Manejo de Residuos Sólidos
+### CAPITULO OCTAVO. PROTECCION CONTRA LA CONTAMINACION VISUAL O PRODUCIDA POR OLORES, RUIDOS, VIBRACIONES, RADIACIONES U OTROS AGENTES VECTORES DE ENERGIA
 
 ###### ARTICULO 729.
 
@@ -6670,7 +6688,7 @@ Toda persona física o moral, pública o privada, que realice actividades indust
 
 No se autorizará en las zonas habitacionales o colindantes a ellas, así como cerca de centros escolares y hospitalarios, la creación de establecimientos comerciales, industriales, de servicios y de cualquier otro giro que por sus emisiones y olores, ruidos, vibraciones, energía térmica y lumínica, puedan ocasionar molestias a la población.
 
-### CAPITULO SEPTIMO. Saneamiento Atmosférico
+### CAPITULO NOVENO. Protección de la Flora, Fauna Silvestre y Acuática
 
 ###### ARTICULO 732.
 
@@ -6682,7 +6700,7 @@ II. Vigilar y controlar el aprovechamiento de recursos naturales, en áreas que 
 
 III. Elaborar y/o actualizar un inventario de las especies de flora y fauna silvestres y acuáticas existentes en el Municipio.
 
-### CAPITULO OCTAVO. PROTECCION CONTRA LA CONTAMINACION VISUAL O PRODUCIDA POR OLORES, RUIDOS, VIBRACIONES, RADIACIONES U OTROS AGENTES VECTORES DE ENERGIA
+### CAPITULO DECIMO. Áreas Naturales Protegidas de Interés Municipal
 
 ###### ARTICULO 733.
 
@@ -6706,7 +6724,7 @@ Con independencia de lo señalado en el artículo precedente, el Ayuntamiento a 
 
 El Ayuntamiento está facultado para celebrar convenios con las autoridades estatales y federales para que quede a cargo de éstas la administración de las áreas naturales protegidas.
 
-### CAPITULO NOVENO. Protección de la Flora, Fauna Silvestre y Acuática
+### CAPITULO UNDECIMO. Medidas de Seguridad y Contingencias Ambientales
 
 ###### ARTICULO 737.
 
@@ -6720,7 +6738,7 @@ Cuando se presenten emergencias o contingencias ambientales, el Ayuntamiento, a 
 
 La Dirección de Planeación, a través del Ayuntamiento podrá solicitar el auxilio de fuerza pública para efectuar visitas de inspección o para la aplicación de medidas de seguridad, con el objeto de hacer frente de manera inmediata, a la emergencia o contingencia ambiental, cuando se obstaculice la práctica de las diligencias, independientemente de la aplicación de las sanciones que resulten procedentes para quienes se opongan al cumplimiento de las medidas de seguridad.
 
-### CAPITULO DECIMO. Áreas Naturales Protegidas de Interés Municipal
+### CAPITULO DUODECIMO. Inspección y Vigilancia
 
 ###### ARTICULO 740.
 
@@ -6768,7 +6786,7 @@ Dentro del plazo señalado por la Dirección de Planeación, el infractor deber�
 
 Si transcurrido el plazo señalado, el infractor o infractores no dieran cumplimiento a lo ordenado por la Dirección de Planeación, se procederá a emitir la resolución administrativa en la que se precisarán y ratificarán las violaciones en materia ambiental y las medidas que se deberán adoptar para corregir las deficiencias o irregularidades detectadas, en la que se impondrá la sanción tomando en cuenta la gravedad de la responsabilidad y el incumplimiento.
 
-### CAPITULO UNDECIMO. Medidas de Seguridad y Contingencias Ambientales
+### CAPITULO DECIMO TERCERO. Prohibiciones y Obligaciones de la Ciudadanía
 
 ###### ARTICULO 749.
 
@@ -6824,7 +6842,7 @@ Es obligación de las personas físicas y morales que realicen ferias, exposicio
 
 ## TITULO TERCERO. DE COMUNICACION SOCIAL
 
-### CAPITULO DUODECIMO. Inspección y Vigilancia
+### CAPITULO UNICO. Funciones
 
 ###### ARTICULO 762.
 
@@ -6842,7 +6860,7 @@ V. Las demás que le encomienden el Ayuntamiento, el Presidente Municipal, este 
 
 # LIBRO OCTAVO. LA DIRECCION DE PLANEACION Y LA DIRECCION DE OBRAS PUBLICAS
 
-### CAPITULO DECIMO TERCERO. Prohibiciones y Obligaciones de la Ciudadanía
+### CAPITULO PRIMERO. Atribuciones y Funciones
 
 ###### ARTICULO 763.
 
@@ -6916,7 +6934,11 @@ XXXIII. Servir de órgano de consulta de los gobiernos federal, estatal y de los
 
 XXXIV. Las demás que le encomienden el Ayuntamiento, el Presidente Municipal, este ordenamiento y otras disposiciones reglamentarias.
 
-### CAPITULO UNICO. Funciones
+### CAPITULO SEGUNDO. Desarrollo Urbano y Planeación Municipal
+
+APARTADO PRIMERO
+
+DESARROLLO URBANO
 
 ###### ARTICULO 764.
 
@@ -6960,7 +6982,7 @@ La administración municipal está obligada a formular dentro de los primeros 90
 
 # LIBRO NOVENO. DE LOS ANUNCIOS
 
-### CAPITULO PRIMERO. Atribuciones y Funciones
+### CAPITULO PRIMERO. Generalidades
 
 ###### ARTICULO 766.
 
@@ -7064,11 +7086,7 @@ Se permitirá la publicidad a través de la fijación de anuncios en las cartele
 
 No se autorizará la colocación o uso de anuncios que guarden semejanza con señalamientos restrictivos, preventivos, directivos e informativos que regulen el tránsito o bien, que sean similares a los anuncios utilizados por dependencias oficiales en su forma, color o palabras o tengan superficie reflectora.
 
-### CAPITULO SEGUNDO. Desarrollo Urbano y Planeación Municipal
-
-APARTADO PRIMERO
-
-DESARROLLO URBANO
+### CAPITULO SEGUNDO. Clasificación de los Anuncios
 
 ###### ARTICULO 781.
 
@@ -7194,7 +7212,7 @@ I.- Sobre las fachadas y paredes, podrán ser pintados, adosados, colgantes e in
 
 II.- En vehículos, los anuncios podrán ser pintados o adosados.
 
-### CAPITULO PRIMERO. Generalidades
+### CAPITULO TERCERO. De la Zonificación y los Permisos
 
 ###### ARTICULO 787.
 
@@ -7272,7 +7290,7 @@ La regulación o registro de los trabajos realizados sin permiso con motivo de l
 
 Expirado el plazo del permiso y el de las prórrogas de los mismos, en su caso, el anuncio deberá ser retirado por su titular dentro de un plazo no mayor de 30 días naturales. En caso contrario, el retiro del anuncio será efectuado por la autoridad, con cargo al titular del mismo.
 
-### CAPITULO SEGUNDO. Clasificación de los Anuncios
+### CAPITULO CUARTO. Condiciones y Elementos para el Diseño de Anuncios
 
 ###### ARTICULO 794.
 
@@ -7386,7 +7404,7 @@ La publicidad panorámica por medio de carteles quedará sujeta a los lineamient
 
 La forma de cada anuncio será libre, siempre y cuando observe las normas establecidas en este ordenamiento.
 
-### CAPITULO TERCERO. De la Zonificación y los Permisos
+### CAPITULO QUINTO. Nulificación y Revocación de Permisos
 
 ###### ARTICULO 806.
 
@@ -7666,7 +7684,7 @@ La reparación de los daños que se ocasionen en estas zonas, correrán a cargo 
 
 ## TITULO TERCERO. DE LOS PERITOS Y DE LAS LICENCIAS DE CONSTRUCCION
 
-### CAPITULO CUARTO. Condiciones y Elementos para el Diseño de Anuncios
+### CAPITULO PRIMERO. De los Peritos
 
 ###### ARTICULO 826.
 
@@ -7952,7 +7970,7 @@ Se dará aviso de la suspensión al colegio de profesionistas respectivo.
 
 La suspensión se dictará por un lapso de tres meses a tres años o en casos extremos, podrá ser definitiva sin liberar al perito de la obligación de subsanar las irregularidades en que haya incurrido e independientemente de las sanciones administrativas o multas que le fuesen impuestas.
 
-### CAPITULO QUINTO. Nulificación y Revocación de Permisos
+### CAPITULO SEGUNDO. De las Licencias de Construcción
 
 ###### ARTICULO 837.
 
@@ -8130,7 +8148,7 @@ Restricciones en centro histórico y/u obras de valor histórico.
 
 En las zonas que tengan un valor artístico, histórico y/o cultural determinadas por las autoridades correspondientes, no podrán ejecutarse nuevas construcciones, obras, demoliciones o instalaciones de cualquier naturaleza sin previa autorización de la dirección y el dictamen del Instituto Nacional de Antropología e Historia.
 
-### CAPITULO PRIMERO. De los Peritos
+### CAPITULO TERCERO. De la Ocupación de las Construcciones
 
 ###### ARTICULO 845.
 
@@ -8160,7 +8178,7 @@ Cuando se demuestre que la obra cumple con este libro y los demás ordenamientos
 
 ## TITULO CUARTO. PROYECTO ARQUITECTONICO
 
-### CAPITULO SEGUNDO. De las Licencias de Construcción
+### CAPITULO PRIMERO. Generalidades
 
 ###### ARTICULO 847.
 
@@ -8748,7 +8766,7 @@ Necesidad de buzones.
 
 En edificios de uso público todas las edificaciones deberán contar con buzones en sus accesos, para recibir comunicación por correo, accesibles desde el exterior.
 
-### CAPITULO TERCERO. De la Ocupación de las Construcciones
+### CAPITULO SEGUNDO. De los Espacios sin Construir
 
 ###### ARTICULO 853.
 
@@ -8834,7 +8852,7 @@ La separación entre edificios de habitación plurifamiliar de hasta cincuenta v
 
 En conjuntos habitacionales de más de cincuenta viviendas la separación entre edificios en dirección norte-sur será por lo menos el sesenta por ciento de la altura promedio de los mismos, en dirección este-oeste será por lo menos del cien por ciento.
 
-### CAPITULO PRIMERO. Generalidades
+### CAPITULO TERCERO. Circulaciones en las Construcciones
 
 ###### ARTICULO 858.
 
@@ -8912,7 +8930,7 @@ III. Los pavimentos serán antiderrapantes; y
 
 IV. La altura mínima de los barandales, cuando se requieran, será de noventa centímetros.
 
-### CAPITULO SEGUNDO. De los Espacios sin Construir
+### CAPITULO CUARTO. Accesos y Salidas
 
 ###### ARTICULO 862.
 
@@ -9048,7 +9066,7 @@ III. Cuando comuniquen con escaleras, entre la puerta y el peralte inmediato, de
 
 IV. No habrá puertas simuladas ni se colocarán espejos en las puertas.
 
-### CAPITULO TERCERO. Circulaciones en las Construcciones
+### CAPITULO QUINTO. Previsiones Contra Incendio
 
 ###### ARTICULO 867.
 
@@ -9196,7 +9214,7 @@ Requisitos para pisos.
 
 En los pisos de las áreas de circulaciones generales de edificios, se emplearan únicamente materiales a prueba de fuego.
 
-### CAPITULO CUARTO. Accesos y Salidas
+### CAPITULO SEXTO. Instalaciones Hidráulicas y Sanitarias
 
 ###### ARTICULO 879.
 
@@ -9466,7 +9484,7 @@ Solicitud de conexión a red municipal.
 
 En las edificaciones ubicadas en las calles con red de alcantarillado público el propietario deberá solicitar a la Comisión de Agua Potable, Alcantarillado y Saneamiento de Jesús María la conexión del albañal a la red.
 
-### CAPITULO QUINTO. Previsiones Contra Incendio
+### CAPITULO SEPTIMO. Instalaciones Eléctricas, Mecánicas y Especiales
 
 ###### ARTICULO 892.
 
@@ -9728,7 +9746,7 @@ Preparación para red telefónica.
 
 Deberán dejarse residuos, ductos y reparaciones para instalaciones telefónicas en los edificios con más de tres departamentos, en comercios u oficinas con área superior a trescientos metros cuadrados en industrias o bodegas con más de quinientos metros cuadrados, en casas de huéspedes, en hoteles, en hospitales o clínicas, en escuelas con más de tres aulas, en salas de espectáculos, en edificios para espectáculos deportivos, en clubes deportivos o sociales y en cualquier otra edificación cuya superficie construida sea mayor de mil metros cuadrados. Estas instalaciones tendrán un registro, con tuberías y accesorios, que comunique con la tubería interior de las edificaciones ajustándose a las especificaciones y normas que determine la dirección en coordinación con la empresa correspondiente, u órgano respectivo, en función al número de servicios requeridos.
 
-### CAPITULO SEXTO. Instalaciones Hidráulicas y Sanitarias
+### CAPITULO OCTAVO. De la Visibilidad en Espectáculos
 
 ###### ARTICULO 906.
 
@@ -9798,7 +9816,7 @@ D= distancia del punto base para el trazo de los espectadores ubicados en la fil
 
 El trazo de los niveles de piso se hará como se indica en este capítulo.
 
-### CAPITULO SEPTIMO. Instalaciones Eléctricas, Mecánicas y Especiales
+### CAPITULO NOVENO. Edificación para Habitación
 
 ###### ARTICULO 912.
 
@@ -9902,7 +9920,7 @@ II. Estos elementos no podrán estar a una distancia horizontal menor de 5.00 me
 
 III. Los desechos biológicos de los animales deberán ser canalizados hacia espacios donde no representen o constituyan fuentes de contaminación.
 
-### CAPITULO OCTAVO. De la Visibilidad en Espectáculos
+### CAPITULO DECIMO. Edificación Para Comercios y Oficinas
 
 ###### ARTICULO 924.
 
@@ -9942,7 +9960,7 @@ Anuncios en comercios.
 
 En el proyecto arquitectónico de los edificios comerciales se incluirán las áreas necesarias para letreros, rótulos o cualquier otra clase de anuncios, así como para los anuncios que deban integrarse al propio inmueble, con sujeción a las disposiciones de este libro y del Código, o en casos especiales.
 
-### CAPITULO NOVENO. Edificación para Habitación
+### CAPITULO UNDECIMO. Edificación para Educación
 
 ###### ARTICULO 930.
 
@@ -10384,7 +10402,7 @@ La superficie mínima para baños individuales será de dos metros cuadrados, de
 
 La instalación de sistemas especiales de vapor o de aire caliente, requerirá autorización de la Dirección, para lo cual deberá presentarse un diagrama detallado con sus especificaciones y características de operación.
 
-### CAPITULO DECIMO. Edificación Para Comercios y Oficinas
+### CAPITULO VIGESIMO. Edificación para Templos
 
 ###### ARTICULO 977.
 
@@ -10400,7 +10418,7 @@ Cuando menos una de las salidas deberá conectarse a la vía pública por medio 
 
 Cuando existan habitaciones anexas al templo, no tendrán conexión con él.
 
-### CAPITULO UNDECIMO. Edificación para Educación
+### CAPITULO VIGESIMO PRIMERO. Ferias con Aparatos Mecánicos
 
 ###### ARTICULO 978.
 
@@ -10420,7 +10438,7 @@ Andadores.
 
 Las áreas destinadas a andadores, deberán estar libres de estorbos que puedan ocasionar los cables eléctricos o cualquier otro tipo de cubierta.
 
-### CAPITULO VIGESIMO. Edificación para Templos
+### CAPITULO VIGESIMO SEGUNDO. Estacionamientos y Pensiones
 
 ###### ARTICULO 981.
 
@@ -10524,7 +10542,7 @@ Los edificios e inmuebles destinados a estacionamientos de vehículos deberán c
 
 No se permitirá el uso de materiales combustibles o inflamables en ninguna construcción o instalación de los estacionamientos.
 
-### CAPITULO VIGESIMO PRIMERO. Ferias con Aparatos Mecánicos
+### CAPITULO VIGESIMO TERCERO. Laboratorios
 
 ###### ARTICULO 995.
 
@@ -10532,7 +10550,7 @@ Precauciones.
 
 Los laboratorios que manejen productos dañinos al contacto de la piel deberán contar con un número adecuado de regaderas, que se localizarán a una distancia menor de treinta metros del sitio donde se utilicen dichos productos.
 
-### CAPITULO VIGESIMO SEGUNDO. Estacionamientos y Pensiones
+### CAPITULO VIGESIMO CUARTO. Cementerios
 
 ###### ARTICULO 996.
 
@@ -10656,7 +10674,7 @@ Los propietarios de monumentos y capillas, estarán obligados a la conservación
 
 ## TITULO QUINTO. REQUISITOS ESTRUCTURALES
 
-### CAPITULO VIGESIMO TERCERO. Laboratorios
+### CAPITULO PRIMERO. Disposiciones Generales
 
 ###### ARTICULO 1009.
 
@@ -10782,7 +10800,7 @@ a) Subgrupo B 1. - Construcciones de más de veinte metros de altura total o uno
 
 b) Subgrupo B 2. - Las construcciones restantes pertenecientes a este grupo.
 
-### CAPITULO VIGESIMO CUARTO. Cementerios
+### CAPITULO SEGUNDO. Características de las Edificaciones
 
 ###### ARTICULO 1015.
 
@@ -10824,7 +10842,7 @@ Cualquier perforación o alteración de un elemento estructural para alojar duct
 
 No se permitirá que las instalaciones de gas, agua y drenaje crucen juntas constructivas entre edificios, a menos que se provean de conexiones o tramos flexibles especiales.
 
-### CAPITULO PRIMERO. Disposiciones Generales
+### CAPITULO TERCERO. Criterios de Diseño y Estados Límite
 
 ###### ARTICULO 1020
 
@@ -10898,7 +10916,7 @@ Métodos de diseño.
 
 Los métodos de diseño son los criterios y procedimientos con los que se garantiza que se cumplan los requisitos de seguridad y servicio en una estructura o parte de ésta, una vez que se han definido los sistemas de acciones que obran sobre ella y se han aplicado los métodos de análisis que resulten adecuados para el tipo de estructura de que se trate.
 
-### CAPITULO SEGUNDO. Características de las Edificaciones
+### CAPITULO CUARTO. Acciones, Cargas y Empujes
 
 ###### ARTICULO 1026.
 
@@ -11000,7 +11018,7 @@ Se incluye dentro de esta categoría la combinación de carga muerta más carga 
 
 II. Acciones permanentes, variables y accidentales.- Dentro de esta categoría se considerarán todas las acciones permanentes que actúen sobre la estructura, las acciones variables que se puedan presentar con su intensidad instantánea y únicamente una acción accidental en cada combinación que se tome en cuenta.
 
-### CAPITULO TERCERO. Criterios de Diseño y Estados Límite
+### CAPITULO QUINTO. Resistencia
 
 ###### ARTICULO 1033.
 
@@ -11048,7 +11066,7 @@ La resistencia de diseño se considerará igual a la resistencia nominal multipl
 
 La revisión de la seguridad contra estados límite de falla se hará en términos de la resistencia de diseño.
 
-### CAPITULO CUARTO. Acciones, Cargas y Empujes
+### CAPITULO SEXTO. Evaluación de la Seguridad
 
 ###### ARTICULO 1038.
 
@@ -11090,7 +11108,7 @@ Casos especiales.
 
 Se podrán emplear criterios de diseño diferentes de los especificados en este libro y en sus normas técnicas complementarias si se justifica, a satisfacción de la Dirección, que dichos criterios dan lugar a niveles de seguridad iguales o mayores que los establecidos en este capítulo.
 
-### CAPITULO QUINTO. Resistencia
+### CAPITULO SEPTIMO. Cargas Muertas
 
 ###### ARTICULO 1041.
 
@@ -11118,7 +11136,7 @@ En la estimación de cargas muertas deberá considerarse el peso de las instalac
 
 Los pesos de estos equipos deberán ser calculados de acuerdo a las especificaciones de los fabricantes.
 
-### CAPITULO SEXTO. Evaluación de la Seguridad
+### CAPITULO OCTAVO. Empujes Estáticos de Tierras y Líquidos
 
 ###### ARTICULO 1044.
 
@@ -11162,7 +11180,7 @@ En el diseño de losas de pisos de sótanos y losas de fondo de tanques y depós
 
 Las fuerzas de subpresión deberán tomarse en cuenta en la revisión de la estabilidad total de la estructura de que se trate.
 
-### CAPITULO SEPTIMO. Cargas Muertas
+### CAPITULO NOVENO. Cargas Vivas y Otras Acciones Variables
 
 ###### ARTICULO 1049.
 
@@ -11298,7 +11316,7 @@ Cambio de uso en una edificación.
 
 El propietario o poseedor de una edificación deberá solicitar el dictamen de un perito responsable según lo establecido en este libro, cuando se haga cambio del uso de la misma y este cambio produzca cargas muertas o vivas mayores o con una distribución de carga más desfavorable para la estructura que las originalmente proyectadas y aprobadas conforme a lo previsto en este capítulo.
 
-### CAPITULO OCTAVO. Empujes Estáticos de Tierras y Líquidos
+### CAPITULO DECIMO. Cargas de Lluvia, Nieve y Granizo
 
 ###### ARTICULO 1057.
 
@@ -11322,7 +11340,7 @@ Drenajes de cubiertas y azoteas.
 
 Los drenajes de cubiertas y azoteas deberán proyectarse de tal manera que garanticen el desalojo eficiente del agua de lluvia o granizo, evitando además en la medida de lo posible la eventual obstrucción de los tubos de bajadas de aguas pluviales.
 
-### CAPITULO NOVENO. Cargas Vivas y Otras Acciones Variables
+### CAPITULO UNDECIMO. Diseño por Sismo
 
 ###### ARTICULO 1060.
 
@@ -12204,7 +12222,7 @@ En todo caso deberá comprobarse mediante exploraciones directas que el suelo do
 
 ## TITULO SEXTO. EJECUCION DE OBRAS
 
-### CAPITULO DECIMO. Cargas de Lluvia, Nieve y Granizo
+### CAPITULO PRIMERO. Generalidades
 
 ###### ARTICULO 1122.
 
@@ -12288,7 +12306,7 @@ Sanitarios para trabajadores en obra.
 
 En las obras de construcción, deberán proporcionarse a los trabajadores servicios provisionales de agua potable y un sanitario portátil, inodoro o letrina como mínimo, se deberá adicionar uno por cada 25 trabajadores o fracción excedente de 15; y mantenerse permanentemente un botiquín con los medicamentos e instrumentales de curación necesarios para proporcionar primeros auxilios.
 
-### CAPITULO UNDECIMO. Diseño por Sismo
+### CAPITULO SEGUNDO. Materiales de Construcción y Obras en la Vía Pública
 
 ###### ARTICULO 1132.
 
@@ -12364,7 +12382,7 @@ Carga y descarga de materiales.
 
 Los vehículos que carguen o descarguen materiales para una obra en la vía pública, deberán obtener previamente la autorización correspondiente de Dirección de Vialidad Municipal o de la Dirección.
 
-### CAPITULO PRIMERO. Generalidades
+### CAPITULO TERCERO. Tapiales
 
 ###### ARTICULO 1144.
 
@@ -12398,7 +12416,7 @@ Conservación.
 
 Los constructores y los demoledores de las obras, estarán obligados a conservar los tapiales en buenas condiciones de estabilidad y de aspecto. Los rótulos o anuncios sobre los tapiales se sujetarán a las disposiciones del ordenamiento municipal correspondiente.
 
-### CAPITULO SEGUNDO. Materiales de Construcción y Obras en la Vía Pública
+### CAPITULO CUARTO. Demoliciones
 
 ###### ARTICULO 1147.
 
@@ -12442,7 +12460,7 @@ Suspensión.
 
 La Dirección podrá ordenar que se suspendan los trabajos cuando no sean tomadas las precauciones necesarias para evitar daños o perjuicios.
 
-### CAPITULO TERCERO. Tapiales
+### CAPITULO QUINTO. Mediciones y Trazos
 
 ###### ARTICULO 1153.
 
@@ -12466,7 +12484,7 @@ Separación de colindancias.
 
 Las separaciones entre construcciones deberán protegerse por medio de tapajuntas o sellos que impidan la penetración de agua, basuras y otros materiales.
 
-### CAPITULO CUARTO. Demoliciones
+### CAPITULO SEXTO. Excavaciones
 
 ###### ARTICULO 1156.
 
@@ -12494,7 +12512,7 @@ Protección.
 
 Las excavaciones estarán protegidas para evitar accidentes de peatones o vehículos con tapiales que ofrezcan la resistencia debida.
 
-### CAPITULO QUINTO. Mediciones y Trazos
+### CAPITULO SEPTIMO. Terraplenes y Rellenos
 
 ###### ARTICULO 1160.
 
@@ -12514,7 +12532,7 @@ El grado de compactación recomendado estará en función del uso para el que va
 
 En todo caso, deberán realizarse pruebas de laboratorio en campo para comprobar todo lo anterior en el transcurso de la obra.
 
-### CAPITULO SEXTO. Excavaciones
+### CAPITULO OCTAVO. Cimentaciones
 
 ###### ARTICULO 1162.
 
@@ -12552,7 +12570,7 @@ Aislamiento contra humedad.
 
 Todos los cimientos deberán tener capa impermeabilizante que impida el ascenso de la humedad hacia los muros.
 
-### CAPITULO SEPTIMO. Terraplenes y Rellenos
+### CAPITULO NOVENO. Cimbras y Andamios
 
 ###### ARTICULO 1167.
 
@@ -12610,7 +12628,7 @@ Vigas en rampas.
 
 Las vigas que forman el piso de los andamios y las que forman las rampas, estarán apoyadas por sus extremidades en los puentes, no permitiéndose en ningún caso empalmes intermedios.
 
-### CAPITULO OCTAVO. Cimentaciones
+### CAPITULO DECIMO. Dispositivos para Elevación en las Obras
 
 ###### ARTICULO 1174.
 
@@ -12646,7 +12664,7 @@ VI. Estar provistas de los medios necesarios para evitar el riesgo de un descens
 
 VII. Los cables que se utilicen para izar o descender materiales o como medio de suspensión, deberán ser de buena calidad, suficientemente resistentes y estar exentos de defectos manifiestos.
 
-### CAPITULO NOVENO. Cimbras y Andamios
+### CAPITULO UNDECIMO. Estructuras de Madera
 
 ###### ARTICULO 1177.
 
@@ -12968,7 +12986,7 @@ Los elementos aislados, tales como fuentes, esculturas, arcos, columnas, monumen
 
 ## TITULO SEPTIMO. USO, OPERACION Y MANTENIMIENTO
 
-### CAPITULO DECIMO. Dispositivos para Elevación en las Obras
+### CAPITULO PRIMERO. Uso de Predios y Edificaciones
 
 ###### ARTICULO 1210.
 
@@ -13008,7 +13026,7 @@ II. La ejecución de obras, adaptaciones, instalaciones y otros trabajos que sea
 
 Lo anterior independientemente de las sanciones a que se haga acreedor conforme a este libro.
 
-### CAPITULO UNDECIMO. Estructuras de Madera
+### CAPITULO SEGUNDO. Mantenimiento
 
 ###### ARTICULO 1213.
 
@@ -13016,7 +13034,7 @@ Conservación de predios y edificaciones.
 
 Los propietarios de edificaciones tienen obligación de conservarlas en buenas condiciones de estabilidad, servicio, aspecto e higiene, y de evitar que se conviertan en molestias o peligro para las personas o bienes. Los acabados y pintura de las fachadas, deberá mantenerse en todo tiempo en buen estado de conservación, aspecto y limpieza. Los predios no edificados deberán estar libres de escombro, y basura, drenados adecuadamente y cercados en sus límites que no colinden con alguna construcción permanente. Deberá darse mantenimiento a las cercas para garantizar su estabilidad. Quedan prohibidas las cercas de púas. Quedan prohibidas instalaciones y construcciones precarias en zonas de las edificaciones, cualquiera que sea el uso que pretenda dárseles.
 
-### CAPITULO PRIMERO. Uso de Predios y Edificaciones
+### CAPITULO TERCERO. Medidas de Seguridad
 
 ###### ARTICULO 1214.
 
@@ -13050,7 +13068,7 @@ La Dirección podrá clausurar como medida de seguridad, las obras terminadas o 
 
 ## TITULO OCTAVO. NOMENCLATURAS Y NUMEROS OFICIALES
 
-### CAPITULO SEGUNDO. Mantenimiento
+### CAPITULO PRIMERO. Nomenclatura
 
 ###### ARTICULO 1219.
 
@@ -13164,7 +13182,7 @@ Las notificaciones de nomenclaturas y números oficiales.
 
 Todo cambio o asignación de nomenclatura y números oficiales deberá ser notificado de inmediato a las administraciones fiscales de Hacienda y a los directores de Catastro e Impuesto a la Propiedad Raíz; del Registro Público de la Propiedad y Comercio; de Finanzas del Municipio; y a cualquier otra persona física o moral que lo requiera.
 
-### CAPITULO TERCERO. Medidas de Seguridad
+### CAPITULO SEGUNDO. Números Oficiales
 
 ###### ARTICULO 1230.
 
@@ -13258,7 +13276,7 @@ Boleta de número oficial.
 
 Una vez satisfechos los requisitos que establece el presente capítulo, la Secretaría de Desarrollo Urbano Municipal procederá a expedir un documento en el que se incluirá él número oficial y las placas correspondientes, debiendo presentar el original de la boleta y en su caso la constancia de compatibilidad urbanística y la licencia de construcción.
 
-### CAPITULO PRIMERO. Nomenclatura
+### CAPITULO TERCERO. De la Autorización de Anuncios Publicitarios
 
 ###### ARTICULO 1237.
 
@@ -13326,7 +13344,7 @@ Son aquellas vialidades cuya función en (sic) la de facilitar la movilidad de a
 
 ## TITULO NOVENO. DE LOS REQUISITOS PARA LICENCIAS DE CONSTRUCCION
 
-### CAPITULO SEGUNDO. Números Oficiales
+### CAPITULO PRIMERO. De las Licencias de Construcción
 
 ###### ARTICULO 1240.
 
@@ -13358,7 +13376,9 @@ De la autorización en inmuebles sujetos al régimen de propiedad en condominio.
 
 Los propietarios de fincas que se encuentran en un conjunto o inmueble sujeto al régimen de propiedad en condominio, para cualquier tipo de obra deberá presentarse un oficio de autorización y los planos del proyecto en dos tantos sellados y firmados por la administración del condominio o asamblea de condominios legalmente constituida.
 
-### CAPITULO TERCERO. De la Autorización de Anuncios Publicitarios
+### CAPITULO SEGUNDO. De los Requisitos para Otorgamiento de Licencia de Construcción para Casas
+
+Habitación
 
 ###### ARTICULO 1245.
 
@@ -13468,7 +13488,7 @@ II. Cuando el predio se ubique en una zona no regularizada como fraccionamiento 
 
 III. Cuando se trate de uso habitacional multifamiliar, dúplex, etc.
 
-### CAPITULO PRIMERO. De las Licencias de Construcción
+### CAPITULO TERCERO. De los Requisitos para Otorgamiento de Licencias de Construcción de Edificios de Usos Distintos al Habitacional Mayores a Sesenta Metros Cuadrados Construidos
 
 ###### ARTICULO 1249.
 
@@ -13538,9 +13558,7 @@ En desarrollos comerciales y de servicios que ocupen una superficie superior a c
 
 f). - Se requerirá la autorización del Instituto de Salud del Estado de Aguascalientes para la construcción, remodelación, ampliación o modificación de clínicas, hospitales, centros de salud, laboratorios, Rayos X y similares.
 
-### CAPITULO SEGUNDO. De los Requisitos para Otorgamiento de Licencia de Construcción para Casas
-
-Habitación
+### CAPITULO CUARTO. De los Requisitos para Otorgamiento de Licencias de Construcción para Estaciones de Servicios o Gasolinerías
 
 ###### ARTICULO 1250.
 
@@ -13590,7 +13608,7 @@ c). - Cuando el proyecto presente algún espacio o espacios que carezcan de vent
 
 d). - Se deberá respetar en el proyecto todas y cada una de las restricciones indicadas en la constancia de alineamiento y compatibilidad urbanística.
 
-### CAPITULO TERCERO. De los Requisitos para Otorgamiento de Licencias de Construcción de Edificios de Usos Distintos al Habitacional Mayores a Sesenta Metros Cuadrados Construidos
+### CAPITULO QUINTO. De los Requisitos para Otorgamiento de Licencias para Demolición
 
 ###### ARTICULO 1251.
 
@@ -13620,7 +13638,7 @@ Descripción del tipo de tapial para protección de la obra al frente en su caso
 
 No se permitirá realizar obras de rebaje o demolición de muros medianeros. Entiéndase por muros medianeros los que, en común a dos predios colindantes los divide y en ocasiones sostiene techumbres de ambas fincas.
 
-### CAPITULO CUARTO. De los Requisitos para Otorgamiento de Licencias de Construcción para Estaciones de Servicios o Gasolinerías
+### CAPITULO SEXTO. De los Requisitos para Ordenamiento de Licencias para Ocupar y Realizar Obras en la Vía Pública
 
 ###### ARTICULO 1252.
 
@@ -13662,7 +13680,7 @@ III. Presentar croquis con medidas de la ubicación de la colocación del tapial
 
 ## TITULO UNICO. DEL COMITE TECNICO DE MUNICIPALIZACION
 
-### CAPITULO QUINTO. De los Requisitos para Otorgamiento de Licencias para Demolición
+### CAPITULO PRIMERO. Del Funcionamiento del Comité
 
 ###### ARTICULO 1255.
 
@@ -13836,7 +13854,7 @@ MEDIOS DE IMPUGNACION Y SANCIONES ADMINISTRATIVAS
 
 ## TITULO UNICO. MEDIOS DE DEFENSA DE PARTICULARES Y SANCIONES
 
-### CAPITULO SEXTO. De los Requisitos para Ordenamiento de Licencias para Ocupar y Realizar Obras en la Vía Pública
+### CAPITULO PRIMERO. Del Procedimiento de Impugnación
 
 ###### ARTICULO 1275.
 
@@ -13858,7 +13876,11 @@ IV. Cuando la autoridad municipal haya omitido ajustarse a las formalidades esen
 
 El trámite de los recursos estará sujeto a lo dispuesto en la Ley del Procedimiento Administrativo del Estado de Aguascalientes.
 
-### CAPITULO PRIMERO. Del Funcionamiento del Comité
+### CAPITULO SEGUNDO. De las Sanciones, Permisos y Licencias a los Miembros del Ayuntamiento
+
+APARTADO PRIMERO
+
+DE LAS SANCIONES
 
 ###### ARTICULO 1278.
 
@@ -13890,7 +13912,7 @@ El Síndico y Regidores podrán igualmente solicitar licencia para separarse tem
 
 Si la ausencia es mayor de treinta días, se llamará al suplente para que temporalmente ocupe el lugar del propietario.
 
-### CAPITULO PRIMERO. Del Procedimiento de Impugnación
+### CAPITULO TERCERO. De las Sanciones Sobre el Uso y Usufructo de Bienes Muebles
 
 ###### ARTICULO 1284.
 
@@ -13920,11 +13942,7 @@ Cuando una persona sea sorprendida retirando o intercambiando de los bienes mueb
 
 En caso de detectar que la etiqueta patrimonial se encuentra en malas condiciones, será responsabilidad del resguardante dar aviso a Control Patrimonial.
 
-### CAPITULO SEGUNDO. De las Sanciones, Permisos y Licencias a los Miembros del Ayuntamiento
-
-APARTADO PRIMERO
-
-DE LAS SANCIONES
+### CAPITULO CUARTO. De las Sanciones Referentes al Consumo de Bebidas Alcohólicas
 
 ###### ARTICULO 1290.
 
@@ -13960,7 +13978,7 @@ La aplicación de este Código, su verificación y la clasificación de las sanc
 
 La licencia otorgada para el funcionamiento de los establecimientos previstos en este ordenamiento, no constituye un derecho ni otorga relación alguna a quien se conceda. Puede retirarse por la autoridad, cuando a juicio de ésta, lo requieran el orden público, la moral, las buenas costumbres o cuando medie motivo de interés general.
 
-### CAPITULO TERCERO. De las Sanciones Sobre el Uso y Usufructo de Bienes Muebles
+### CAPITULO QUINTO. De las Sanciones y Recursos Dictados en Relación al Rastro
 
 ###### ARTICULO 1297.
 
@@ -13970,7 +13988,7 @@ Las infracciones a este Código que no tengan sanción especialmente señalada e
 
 El recurso que concede el presente ordenamiento en relación a la (sic) resoluciones en materia de rastro, de revisión, prevista por la Ley del Procedimiento Administrativo del Estado de Aguascalientes.
 
-### CAPITULO CUARTO. De las Sanciones Referentes al Consumo de Bebidas Alcohólicas
+### CAPITULO SEXTO. De las Sanciones y Recursos Referentes al Servicio Público de Limpia y Sanidad
 
 ###### ARTICULO 1299.
 
@@ -14020,7 +14038,7 @@ Las multas se harán efectivas conforme al procedimiento administrativo de ejecu
 
 Los ciudadanos considerados como infractores en una resolución administrativa dictada en los términos del presente ordenamiento, podrán interponer el recurso de revisión a cuyo trámite deberá sujetarse a lo establecido en la Ley del Procedimiento Administrativo del Estado de Aguascalientes.
 
-### CAPITULO QUINTO. De las Sanciones y Recursos Dictados en Relación al Rastro
+### CAPITULO SEPTIMO. De los Servicios de Inspección y de las Sanciones Referentes al Mercado y Comercio Ambulante
 
 ###### ARTICULO 1305.
 
@@ -14050,7 +14068,7 @@ El procedimiento y substanciación del recurso, así como el trámite del mismo 
 
 Si la revisión fuere resuelta confirmando la multa impuesta, se le dará entrada como ingreso definitivo a la cantidad depositada. Si el recurso se resolviere revocando la multa en su totalidad, se devolverá al interesado la cantidad depositada, si sólo se rebajare la multa se entregará al infractor la cantidad que resulte a su favor y se le dará ingreso a la cantidad que se imponga como multa definitiva en la resolución del Presidente Municipal.
 
-### CAPITULO SEXTO. De las Sanciones y Recursos Referentes al Servicio Público de Limpia y Sanidad
+### CAPITULO OCTAVO. De las Sanciones y Recursos Referente a Cementerios
 
 ###### ARTICULO 1312.
 
@@ -14079,8 +14097,6 @@ Al servidor público municipal que autorice la inhumación, exhumación, cremaci
 Contra las resoluciones definitivas de la autoridad municipal, derivadas de la aplicación de este ordenamiento, los interesados podrán interponer el recurso de revisión.
 
 ### CAPITULO NOVENO. Correctivos Disciplinarios y Sanciones en Materia de Seguridad Pública
-
-### CAPITULO SEPTIMO. De los Servicios de Inspección y de las Sanciones Referentes al Mercado y Comercio Ambulante
 
 ###### ARTICULO 1317.
 
@@ -14139,8 +14155,6 @@ Se entiende por baja el retiro definitivo de la policía municipal.
 La suspensión, la degradación y la baja son sanciones que impondrá el director de Seguridad Pública Municipal tomando en cuenta la gravedad de la infracción, la reincidencia, las condiciones personales del infractor, las circunstancias que hubieren originado la falta y cuando se acumulen más de diez correctivos.
 
 ### CAPITULO DECIMO. De las Sanciones, Notificaciones y Recursos en Materia de Protección Civil
-
-### CAPITULO OCTAVO. De las Sanciones y Recursos Referente a Cementerios
 
 ###### ARTICULO 1331.
 
@@ -14619,3 +14633,7 @@ P.O. 17 DE ENERO DE 2011.
 SEGUNDO.- La presente reforma, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
 TERCERO.- Cuando en el Código Municipal se dé una denominación distinta a alguna Dependencia o Entidad con funciones o atribuciones establecidas por otro ordenamiento jurídico, dichas funciones o atribuciones se entenderán conferidas a la Dependencia o Entidad que determine el artículo que se reforma, en tanto no se expidan o reformen los ordenamientos jurídicos correspondientes.
+
+P.O. 14 DE FEBRERO DE 2011.
+
+ÚNICO.- La presente reforma entrara en vigor al día siguiente de su publicación (sic) el Periódico Oficial del Estado de Aguascalientes.
