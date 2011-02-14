@@ -4,7 +4,7 @@ identifier: "CMX-ley-ambiental-de-proteccion-a-la-tierra-en-la-ciudad-de-15464"
 country: "mx"
 rank: "ley"
 publication_date: "2000-01-13"
-last_updated: "2010-12-27"
+last_updated: "2011-02-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15464&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1999-12-31"
 
 LEY AMBIENTAL DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 27 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 14 DE FEBRERO DE 2011.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 13 de enero de 2000.
 
@@ -2830,9 +2830,19 @@ II. Deben ser controlados los residuos que constituyan la principal fuente de co
 
 III. Es necesario prevenir y reducir la generación de residuos, incorporando técnicas, ecotecnias y procedimientos para su reuso y reciclaje;
 
-IV. Promover y fomentar la instrumentación de sistemas de agricultura, que no degraden ni contaminen; y
+> <small>(ADICIONADA, G.O. 14 DE FEBRERO DE 2011)</small>
 
-V. En los suelos contaminados, deberán llevarse a cabo las acciones necesarias para recuperar o restablecer sus condiciones.
+IV. La regulación ambiental por parte de la Secretaría instrumentará los sistemas de agricultura orgánica, que protejan los suelos, mantos friáticos y la producción agropecuaria, mediante el uso de abonos orgánicos;
+
+> <small>(ADICIONADA, G.O. 14 DE FEBRERO DE 2011)</small>
+
+V. En el Suelo de Conservación del Distrito Federal, queda prohibido el uso de agroquímicos, fertilizantes nitrogenados, fertilizantes químicos, herbicidas, insecticidas y pesticidas que contaminen el suelo y que afecten la flora, fauna y la salud;
+
+> <small>(REFORMADA, G.O. 14 DE FEBRERO DE 2011)</small>
+
+VI. Promover y fomentar la instrumentación de sistema de agricultura, que no degraden ni contaminen;
+
+VII. En los suelos contaminados, deberán llevarse a cabo las acciones necesarias para recuperar o restablecer sus condiciones.
 
 ###### ARTÍCULO 164.
 
@@ -3725,3 +3735,11 @@ Cada año, sujeto a disponibilidad presupuestal se deberá asignar una partida e
 Durante el primer año, cuando haya presupuesto asignado, las demarcaciones procurarán cambiar el 15 por ciento del mobiliario por sistemas de ahorro de energía ó tecnologías que permitan el aprovechamiento de la energía solar; asimismo, tendrán que cambiar anualmente el 10 por ciento de su mobiliario hasta llegar sucesivamente a la totalidad en la demarcación.
 
 Las Delegaciones presentaran con 6 meses de anticipación en coordinación con la Secretaría de Medio Ambiente estos programas a su aprobación.
+
+G.O. 14 DE FEBRERO DE 2011.
+
+PRIMERO.- El presente decreto entrará en vigor a partir del día siguiente al de su publicación en la Gaceta Oficial.
+
+SEGUNDO.- La Secretaría del Medio Ambiente del Distrito Federal, cuenta con 9 meses para elaborar y publicar en la Gaceta Oficial del Distrito Federal, la norma ambiental a que hace referencia el presente decreto.
+
+TERCERO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
