@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-de-la-ley-organica-de-la-procuraduria-general-de-762
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-08-25"
-last_updated: "2010-08-25"
+last_updated: "2011-02-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76275&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DE LA LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE MEXICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE FEBRERO DE 2011.
 
 Reglamento publicado en la Gaceta del Gobierno del Estado de México, el miércoles 25 de agosto de 2010.
 
@@ -127,9 +127,11 @@ El Sistema de Especialización tiene como objetivo que la investigación y perse
 
 Componentes del Sistema de Especialización
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 14 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 9.
 
-El Sistema de Especialización está a cargo de la Subprocuraduría de Atención Especializada e integrada por Fiscalías Especializadas que tendrán a su cargo la atención de los hechos que se consideren constitutivos de los delitos siguientes:
+El sistema de especialización estará a cargo de las Subprocuradurías para la atención Especializada y para la Atención de Delitos Vinculados a la Violencia de Género e integradas por las Fiscalías Especializadas que tendrán a su cargo la atención de los hechos que se consideren constitutivos de los delitos siguientes:
 
 I. Secuestro;
 
@@ -139,13 +141,19 @@ III. Robo con violencia y patrimoniales de cuantía mayor;
 
 IV. Dolosos cometidos por integrantes de corporaciones policiales;
 
-V. Dolosos cometidos contra la mujer y trata de personas;
+> <small>(REFORMADA, G.G. 14 DE FEBRERO DE 2011)</small>
 
-VI. Cometidos por servidores públicos;
+V. Delitos vinculados a la violencia de género;
 
-VII. Contra el transporte, y
+> <small>(ADICIONADA, G.G. 14 DE FEBRERO DE 2011)</small>
 
-VIII. Los demás que determine el Procurador mediante acuerdo.
+VI. Trata de personas;
+
+VII. Cometidos por servidores públicos;
+
+VIII. Contra el transporte, y
+
+IX. Los demás que determine el Procurador mediante acuerdo.
 
 El Procurador determinará los ámbitos de competencia de las Fiscalías Especializadas, conforme a los géneros delictivos de mayor impacto social, las circunstancias criminógenas, la frecuencia de conductas antisociales y su relevancia, así como los lineamientos para la coordinación con las Fiscalías Regionales y demás unidades administrativas de la Procuraduría.
 
@@ -203,43 +211,47 @@ I. Subprocuraduría General;
 
 II. Subprocuraduría de Atención Especializada;
 
-III. Subprocuraduría Jurídica;
+(ADICIONADA, G.G. 14 DE FEBRERO DE 2011.
 
-IV. Comisaría General de la Policía Ministerial;
+III. Subprocuraduría para la Atención de Delitos Vinculados a la Violencia de Género;
 
-V. Coordinación de Investigación y Análisis;
+IV. Subprocuraduría Jurídica;
 
-VI. Coordinación de Planeación y Administración;
+V. Comisaría General de la Policía Ministerial;
 
-VII. Fiscalías Regionales;
+VI. Coordinación de Investigación y Análisis;
 
-VIII. Fiscalías Especializadas;
+VII. Coordinación de Planeación y Administración;
 
-IX. Fiscalía de Asuntos Especiales;
+VIII. Fiscalías Regionales;
 
-X. Dirección General de Análisis;
+IX. Fiscalías Especializadas;
 
-XI. Dirección General de Investigación;
+X. Fiscalía de Asuntos Especiales;
 
-XII. Dirección General de Litigación;
+XI. Dirección General de Análisis;
 
-XIII. Dirección General Jurídica y Consultiva;
+XII. Dirección General de Investigación;
 
-XIV. Dirección General de Visitaduría;
+XIII. Dirección General de Litigación;
 
-XV. Dirección General de Información, Planeación, Programación y Evaluación;
+XIV. Dirección General Jurídica y Consultiva;
 
-XVI. Dirección General de Administración;
+XV. Dirección General de Visitaduría;
 
-XVII. Dirección General de Enlace Interinstitucional;
+XVI. Dirección General de Información, Planeación, Programación y Evaluación;
 
-XVIII. Coordinación de Vinculación;
+XVII. Dirección General de Administración;
 
-XIX. Unidad de Derechos Humanos;
+XVIII. Dirección General de Enlace Interinstitucional;
 
-XX. Contraloría Interna, y
+XIX. Coordinación de Vinculación;
 
-XXI. Las demás unidades administrativas que establezcan las disposiciones administrativas y presupuestarias aplicables, así como el Manual General de Organización de la Procuraduría.
+XX. Unidad de Derechos Humanos;
+
+XXI. Contraloría Interna, y
+
+XXII. Las demás unidades administrativas que establezcan las disposiciones administrativas y presupuestarias aplicables, así como el Manual General de Organización de la Procuraduría.
 
 La Procuraduría se auxiliará de los coordinadores, directores de área, subdirectores, jefes de departamento y demás servidores públicos necesarios para el cumplimiento de sus atribuciones, de acuerdo con el presupuesto, estructura orgánica y normatividad aplicables.
 
@@ -400,6 +412,68 @@ XIV. Asignar los agentes del Ministerio Público y personal adscrito a la Subpro
 XV. Las demás que le confieren otras disposiciones jurídicas y las que le encomiende el Procurador.
 
 La Subprocuraduría de Atención Especializada se auxiliará de las Fiscalías Especializadas y de Asuntos Especiales que se establezcan en la estructura de organización de la Procuraduría o en los acuerdos que emita el Procurador, así como de las demás unidades administrativas que determinen las normas aplicables, salvo que el titular de la Institución determine una adscripción diversa.
+
+> <small>(ADICIONADO, G.G. 14 DE FEBRERO DE 2011)</small>
+
+Atribuciones de la Subprocuraduría para la Atención de Delitos Vinculados a la Violencia de Género;
+
+###### Artículo 19 Bis.
+
+Al frente de la Subprocuraduría para la Atención de Delitos Vinculados a la Violencia de Género habrá un Subprocurador, quien se auxiliará de las unidades administrativas y servidores públicos necesarios para el cumplimiento de las atribuciones siguientes:
+
+l. Ejercer las atribuciones que en materia de investigación y persecución de los delitos de su competencia se le confieren al Ministerio Público;
+
+II. Coordinarse con la Subprocuraduría General, la Subprocuraduría de Atención Especializada y las demás unidades administrativas de la Procuraduría para la investigación y práctica de diligencias;
+
+III. Conocer de los asuntos que tengan a su cargo las agencias del Ministerio Público, relacionados con los delitos materia de su competencia y ejercer la facultad de atracción respecto de asuntos que se hayan iniciado en las Fiscalías Regionales, de conformidad con las normas aplicables y políticas institucionales o cuando así lo determine el Procurador;
+
+IV. Solicitar al órgano jurisdiccional las órdenes de cateo, las órdenes de protección emergentes, preventivas y de naturaleza civil, medidas cautelares, el arraigo, el aseguramiento o embargo precautorio de bienes, para los fines de la investigación, así como para el debido cumplimiento de la sentencia que se dicte;
+
+V. Dictar órdenes de protección de emergencia, preventivas y de naturaleza civil, medidas cautelares como acciones de protección en función del interés de la víctima u ofendido;
+
+VI. Ejercer las facultades delegadas por el Procurador en materia de solicitudes a las autoridades judiciales competentes para la autorización de la intervención de comunicaciones privadas, requerimientos de información y datos que conserven los concesionarios de redes públicas de telecomunicaciones, así como en materia fiscal y sobre operaciones que las instituciones financieras celebren con sus clientes y, en los casos conducentes, ordenar el aseguramiento de los recursos, bienes y derechos que correspondan, en los términos de las disposiciones aplicables;
+
+VII. Coordinar su actuación con las autoridades federales, del Distrito Federal o de otras entidades federativas y municipios, en la investigación de los delitos materia de su competencia;
+
+VIII. Promover la aplicación de medios alternativos de solución de conflictos y de justicia restaurativa en los asuntos materia de su competencia, en los casos en que resulte procedente conforme a las disposiciones aplicables;
+
+IX. Participar en la formulación y ejecución de programas preventivos y promover la difusión de medidas para la prevención de delitos materia de su competencia;
+
+X. Vigilar, en el ámbito de su competencia, el cabal cumplimiento de los tratados internacionales en materia de derechos humanos de las mujeres, así como la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, la Ley de Acceso de las Mujeres a una Vida Libre de Violencia en el Estado de México, sus reglamentos y las demás disposiciones legales y reglamentarias aplicables;
+
+XI. Vigilar que los servidores públicos adscritos a la Subprocuraduría sean respetuosos de la dignidad y derechos humanos de las personas relacionadas en los asuntos de su competencia;
+
+XII. Coordinarse con las instancias competentes para la elaboración y aplicación del programa de reeducación y reinserción social con perspectiva de género para las víctimas, ofendidos y agresores;
+
+XIII. Coordinarse con las instancias estatales y municipales para realizar acciones con la finalidad de erradicar la violencia de género;
+
+XIV. Coordinarse con el Instituto de Servicios Periciales para la actualización permanente del Banco Estatal de Datos Genéticos de personas no identificadas;
+
+XV. Proponer al Procurador la celebración de convenios con organismos afines, tanto nacionales como internacionales para la cooperación y el intercambio de información, así como en las tareas de investigación, acusación y prosecución del o los imputados de delitos de su competencia;
+
+XVI. Recibir quejas sobre demora, exceso o deficiencias en que hayan incurrido servidores públicos a su cargo con motivo del ejercicio de sus funciones, dictar las determinaciones tendientes a corregirlas y, en su caso, dar vista a los órganos de control interno por la probable responsabilidad administrativa o penal a que haya lugar;
+
+XVII. Establecer sistemas de registro y control de los asuntos a su cargo, llevar el seguimiento estadístico y remitir a las unidades administrativas competentes la información necesaria para la evaluación de los programas y proyectos que se le hayan encomendado;
+
+XVIII. Asignar los agentes del Ministerio Públicos (sic) y personal adscrito a la Subprocuraduría, a las fiscalías especializadas adscritas a ésta y demás unidades administrativas que correspondan, autorizar la distribución del personal que realicen los titulares de las fiscalías y ordenar la rotación de los servidores públicos conforme a las necesidades del servicio;
+
+XIX. Asistir y participar en el Sistema Estatal para Prevenir, Sancionar y Erradicar la Violencia contra las Mujeres y las Niñas, y dar seguimiento a los acuerdos y convenios que en esta instancia se tomen;
+
+XX. Participar en instancias nacionales en materia de acceso a una vida libre de violencia de las mujeres, trata de personas y violencia por razón de género, de conformidad con las disposiciones legales aplicables;
+
+XXI. Intercambiar información sobre mujeres, adolescentes y niñas desaparecidas con autoridades del orden federal, estatal y municipal, así como promover acciones para su localización, y establecer sistemas de coordinación para la integración del banco de datos genético;
+
+XXII. Elaborar diagnósticos sobre los factores criminógenos asociados a la violencia en contra de las mujeres, adolescentes y niñas y en materia de trata de personas, así como participar en las acciones de prevención y de atención a víctimas, en coordinación con las unidades y órganos competentes;
+
+XXIII. Promover la integración de los protocolos, lineamientos y directrices aprobados en el marco de los instrumentos internacionales vigentes, en materia de investigación, búsqueda de personas desaparecidas, atención a víctimas y otros que resulten aplicables en el ámbito de su competencia, y
+
+XXIV. Las demás que le confieren otras disposiciones jurídicas y las que le encomiende el Procurador.
+
+La Subprocuraduría para la Atención de Delitos Vinculados a la Violencia de Género será competente para investigar y perseguir los delitos cometidos con violencia contra la mujer, delitos sexuales y aquellos que atenten contra el libre desarrollo de la personalidad o contra el pleno desarrollo y la dignidad de las mujeres, en los términos de los acuerdos que emita el Procurador.
+
+La Subprocuraduría se auxiliará de las Fiscalías Especializadas que le sean adscritas, así como de los Centros Regionales de Atención Integral en Materia de Violencia de Género y de las demás unidades administrativas que se establezcan en los acuerdos que emita el Procurador.
+
+Los Centros Regionales de Atención Integral en Materia de Violencia de Género estarán conformados por agentes del Ministerio Público especializados y contarán con unidades de servicios periciales, policía especializada, atención a víctimas, prevención del delito, búsqueda y localización de personas desaparecidas, extraviadas o ausentes, mediación y conciliación y las demás que sean necesarias para el otorgamiento de servicios integrales en los asuntos de su competencia.
 
 Atribuciones de la Subprocuraduría Jurídica
 
@@ -1167,6 +1241,10 @@ a) Las ausencias temporales del Procurador serán suplidas, en el orden que se i
 
 - Subprocurador Jurídico.
 
+> <small>(ADICIONADO, G.G. 14 DE FEBRERO DE 2011)</small>
+
+- Subprocuraduría para la Atención de Delitos Vinculados a la Violencia de Género.
+
 Podrá concurrir a las instancias de coordinación del Sistema Nacional de Seguridad Pública y a las demás en las que participe la Procuraduría, el Subprocurador que se designe al efecto.
 
 b) Los Subprocuradores, Comisario General de la Policía Ministerial, Coordinador de Planeación y Administración y el Coordinador de Investigación y Análisis, serán suplidos por los titulares de las unidades administrativas que les estén adscritas, en el orden jerárquico que se determine en el acuerdo de adscripción, sin perjuicio de que el Procurador determine directamente la suplencia.
@@ -1730,3 +1808,33 @@ SECRETARIO GENERAL DE GOBIERNO
 LIC. LUIS ENRIQUE MIRANDA NAVA
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.G. 14 DE FEBRERO DE 2011.
+
+Publicación.
+
+Artículo Primero.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+Vigencia.
+
+Artículo Segundo.- Esta Reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+Abrogación.
+
+Artículo Tercero.- Se abroga el Acuerdo 05/2010 del Procurador General de Justicia del Estado de México, publicado en el Periódico Oficial "Gaceta del Gobierno", el 8 de septiembre de 2010.
+
+Derogación innominada y vigencia de textos normativos reglamentarios que no se opongan a esta Reforma.
+
+Artículo Cuarto.- Se derogan las disposiciones de igual o menor jerarquía jurídica que se opongan a lo dispuesto por esta Reforma.
+
+Los acuerdos, circulares, oficios y demás instrumentos jurídicos y administrativos que no se opongan a esta Reforma continuarán en vigor.
+
+Operación y funcionamiento de la nueva estructura orgánica.
+
+Artículo Quinto.- La nueva estructura orgánica de la Procuraduría General de Justicia del Estado de México establecida en esta Reforma, deberá implementarse en atención a las necesidades del servicio de procuración de justicia y de acuerdo con la disponibilidad presupuestal con que cuente la Procuraduría, debiendo observar la normatividad en materia de entrega y recepción de unidades administrativas.
+
+Recursos humanos, materiales y presupuestales.
+
+Artículo Sexto.- Se instruye al Secretario de Finanzas del Gobierno estatal, para que en el ámbito de sus facultades, provea lo necesario respecto de los recursos humanos, técnicos, materiales y presupuestales necesarios para el adecuado funcionamiento de la Subprocuraduría para la Atención de Delitos Vinculados a la Violencia de Género y sus respectivas unidades administrativas.
