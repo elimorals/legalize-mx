@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-del-poder-judicial-del-estado-de-hidalgo-59906"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-01-07"
-last_updated: "2010-08-09"
+last_updated: "2011-02-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59906&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "HID"
 ---
 # LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 21 DE FEBRERO DE 2011 EN EL P.O. DEL ESTADO DE HIDALGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE AGOSTO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE FEBRERO DE 2011.
 
 Ley publicada en el Número 1 Bis del Periódico Oficial del Estado de Hidalgo, el lunes 7 de enero de 2008.
 
@@ -1239,305 +1241,509 @@ IV.- Acreditar el proceso de selección que determine el Consejo de la Judicatur
 
 ### CAPÍTULO I. Disposiciones Generales
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
+
 ###### ARTÍCULO 65.
 
-La Justicia Fiscal y Administrativa en el Estado de Hidalgo, se impartirá por el Tribunal Fiscal Administrativo con jurisdicción en toda la Entidad y con residencia en la ciudad de Pachuca de Soto.
+De conformidad con los Artículos 116, fracción V, de la Constitución Política de los Estados Unidos Mexicanos; 99, apartado B, de la Constitución Política del Estado de Hidalgo; 1 y 2 inciso a) fracción II, de esta Ley, la justicia fiscal y administrativa en el Estado de Hidalgo, se impartirá por el Tribunal Fiscal Administrativo con jurisdicción en toda la Entidad y con residencia en la Ciudad de Pachuca de Soto.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
 
 ###### ARTÍCULO 66.
 
-El Tribunal Fiscal Administrativo del Estado de Hidalgo, es un órgano autónomo, con plena jurisdicción para dictar sus resoluciones e imperio para hacerlas cumplir.
+El Tribunal Fiscal Administrativo del Estado de Hidalgo, es un órgano autónomo, de control de legalidad, con plena jurisdicción para dictar sus resoluciones, e imperio para hacerlas cumplir.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
 
 ###### ARTÍCULO 67.
 
-Corresponde al Tribunal Fiscal Administrativo, dirimir con plena autonomía las controversias que se susciten en materia fiscal y administrativa entre la Administración Pública Estatal, Municipal, Organismos Descentralizados con funciones de Autoridad y los particulares. En ningún caso podrá sustituir a la Autoridad.
+Corresponde al Tribunal Fiscal Administrativo dirimir, con plena autonomía, las controversias que se susciten en materia fiscal y administrativa entre los particulares y la Administración Pública Estatal, Municipal y Organismos Descentralizados con funciones de autoridad.
+
+En ningún caso el Tribunal podrá sustituir a la autoridad administrativa.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
 
 ###### ARTÍCULO 68.
 
-El Tribunal Fiscal Administrativo es competente para conocer, substanciar y resolver los juicios que se promuevan en contra de:
+Las salas del Tribunal Fiscal Administrativo serán competentes para conocer, substanciar y resolver los juicios que se promuevan en contra de los actos administrativos siguientes:
 
-I.- Actos administrativos que las Autoridades Estatales, Municipales u Organismos Descentralizados con funciones de Autoridad, dicten, ordenen, ejecuten o traten de ejecutar, en agravio de los particulares;
+A).- EN MATERIA FISCAL:
 
-II.- De las resoluciones negativas fictas que se configuren por el silencio de las Autoridades administrativas y fiscales de carácter Estatal, Municipal u Organismos Descentralizados, para dar respuesta a las peticiones de los particulares, en el término que sus ordenamientos legales señalen para tal efecto o, a falta de éste, en el plazo de cuarenta y cinco días naturales siguientes a su presentación;
+I.- Resoluciones definitivas dictadas por autoridades estatales, municipales u organismos públicos descentralizados, que determinen la existencia de una obligación fiscal que se fije en cantidad liquida o den las bases para su liquidación. Se considerarán definitivas aquellas que no admitan recurso o que, habiéndose interpuesto, fuere negativa la resolución para el gobernado;
 
-III.- Resoluciones definitivas dictadas por Autoridades Estatales, Municipales u Organismos Públicos Descentralizados que determinen la existencia de una obligación fiscal; se fije ésta en cantidad liquida o se den las bases para su liquidación o, en dichas resoluciones, se niegue la devolución de un ingreso indebidamente percibido, y
+II.- Los que nieguen la devolución de ingresos indebidamente percibidos por el Estado, Municipio u organismo descentralizado, con funciones de autoridad, regulados por el Código Fiscal del Estado;
 
-IV. Las demás que le señalen, la presente Ley, la Ley Orgánica del Tribunal Fiscal Administrativo, el Código Fiscal del Estado de Hidalgo y los demás ordenamientos aplicables.
+III.- Resoluciones que causen agravios en materia fiscal, distintos a los enunciados en las fracciones anteriores;
+
+IV.- Resoluciones, negativas o afirmativas, que se configuren por· el silencio de las autoridades fiscales de carácter Estatal, Municipal u Organismos Descentralizados, para dar respuesta a las peticiones de particulares, de conformidad con lo establecido en los ordenamientos que rigen su actuación; y
+
+V.- Los demás que en esta materia señalen los Códigos Fiscales, Estatal y Municipal, así como otros ordenamientos aplicables.
+
+B).- EN MATERIA ADMINISTRATIVA:
+
+I.- Resoluciones o actos definitivos que las autoridades del Ejecutivo Estatal, municipales u organismos descentralizados dicten, ejecuten o traten de ejecutar en agravio de particulares. Se consideran resoluciones o actos administrativos definitivos aquellos que no admitan recurso o que, habiéndose interpuesto, fuere negativa la resolución para el gobernado;
+
+II.- Resoluciones, negativas o afirmativas, que se configuren por el silencio de las autoridades administrativas de carácter Estatal, Municipal u Organismos Descentralizados, para dar respuesta a las peticiones de particulares, de conformidad con lo establecido en los ordenamientos que rigen su actuación;
+
+III.- Que nieguen o reduzcan las pensiones y otras prestaciones sociales que concedan las Leyes Estatales y Municipales en favor de servidores públicos o de sus familiares;
+
+IV.- Que se dicten en materia de pensiones civiles con cargo al Erario Estatal, Municipal u Organismos Autónomos;
+
+V.- Que se dicten en materia de interpretación y cumplimiento de contratos de obra pública celebrados por Dependencias del Ejecutivo del Estado, Municipales u Organismos Autónomos; y
+
+VI.- Los demás asuntos de esta materia que señalen los ordenamientos aplicables.
+
+C).- EN AMBAS MATERIAS:
+
+I.- De la Queja por incumplimiento de sentencias;
+
+II.- Del recurso de Reclamación, conforme a lo dispuesto en la Ley de la materia; y
+
+III.- Los demás asuntos que señalen las normas aplicables.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
 
 ###### ARTÍCULO 69.
 
-Los Magistrados del Tribunal Fiscal Administrativo, serán nombrados y protestarán el cargo conforme a lo previsto por la Constitución Política del Estado.
+Los magistrados del Tribunal Fiscal Administrativo, serán nombrados y protestarán el cargo conforme a lo previsto por la Constitución Política del Estado de Hidalgo.
 
-Para el trámite de renuncias de los Magistrados del Tribunal Fiscal Administrativo, se seguirá el mismo procedimiento que para su designación.
+Para el trámite de renuncias de los magistrados del Tribunal Fiscal Administrativo, se seguirá el mismo procedimiento que para su designación.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
 
 ###### ARTÍCULO 70.
 
-Los Magistrados, durarán en el ejercicio de su cargo seis años a partir de su aprobación por el Congreso; podrán ser ratificados y si lo fueren, sólo podrán ser privados de sus puestos en los términos que determina la Constitución Política del Estado y las Leyes correspondientes.
+Los magistrados, durarán en el ejercicio de su cargo, seis años a partir de la aprobación de su nombramiento por el Congreso; podrán ser ratificados y si lo fueren, solo podrán ser privados de sus puestos en los términos que determinen la Constitución Política del Estado de Hidalgo y las Leyes correspondientes.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
 
 ###### ARTÍCULO 71.
 
-El Tribunal Fiscal Administrativo estará integrado por tres Magistrados; funcionará en Pleno y en Salas.
+El Tribunal Fiscal Administrativo se integrará por tres magistrados; funcionará en Pleno y en salas. El Pleno será el órgano supremo del Tribunal, con funciones jurisdiccionales y administrativas.
 
-Las Salas Fiscal y Administrativa, actuarán unitariamente como Primera Instancia. El Pleno se integrará como Sala de Segunda Instancia, para ambas materias.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
 
 ###### ARTÍCULO 72.
 
-El Tribunal Fiscal Administrativo tendrá un Presidente, que lo será a la vez, de la Sala de Segunda Instancia. Durará en su encargo un año y podrá ser reelecto.
+Las salas unitarias funcionarán como primera instancia y el Pleno como segunda instancia.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
 
 ###### ARTÍCULO 73.
 
-No son recusables los Magistrados, pero bajo su responsabilidad se excusarán de intervenir en los asuntos donde exista algún impedimento previsto por esta Ley u otros ordenamientos aplicables.
+El Tribunal Fiscal Administrativo tendrá un Presidente, que lo será también del Pleno, durará en su encargo cuatro años y no podrá ser reelecto para el periodo inmediato.
 
-Cuando un Magistrado se excuse de un asunto, el Pleno del Tribunal calificará y resolverá, designando, en su caso, al Magistrado que deba conocer.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
 
 ###### ARTÍCULO 74.
 
-El Presidente será suplido, en sus ausencias temporales, por el Magistrado de mayor antigüedad.
+Los magistrados no son recusables, pero bajo su responsabilidad se excusarán de intervenir en los asuntos donde exista algún impedimento previsto por esta Ley u otros ordenamientos aplicables.
 
-Los demás Magistrados serán suplidos por el Secretario General quien actuará por ministerio de Ley y éste, a su vez, por el Secretario de Acuerdos que designe el pleno del Tribunal Fiscal Administrativo.
+Cuando un magistrado se excuse del conocimiento de un asunto en·Primera Instancia, resolverá el Pleno del Tribunal, quien designará, en su caso, al magistrado que deba substanciar y resolver.
+
+Cuando un magistrado de sala se excuse del conocimiento de un asunto en Segunda Instancia, resolverá el Pleno del Tribunal, quien designará, en su caso, al Secretario General, el cual actuará como Magistrado por ministerio de Ley.
+
+Tratándose de excusas del Presidente, el Pleno resolverá y, en su caso, designará al Magistrado de mayor antigüedad quien sustanciará y resolverá el asunto.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
 
 ###### ARTÍCULO 75.
 
-Las ausencias definitivas de los Magistrados se comunicarán al Gobernador del Estado para que proceda al nombramiento de quienes habrán de cubrir las vacantes, conforme al procedimiento señalado en la Constitución Local.
+El Presidente, será suplido en sus ausencias temporales por el magistrado de mayor antigüedad.
+
+Las ausencias temporales de los demás magistrados serán suplidas por el Secretario General, quien actuará por ministerio de Ley, y éste, a su vez, por el Secretario o Actuario que designe el Pleno del Tribunal Fiscal Administrativo.
+
+Las ausencias definitivas de los magistrados, entretanto se provee a la designación, las cubrirá el Secretario General del Tribunal.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
 
 ###### ARTÍCULO 76.
 
-El Pleno estará conformado por tres Magistrados: El Presidente que, a su vez, lo será del Pleno, el Magistrado de la Sala Fiscal y el Magistrado de la Sala Administrativa.
-
-El Pleno actuará como Sala de Segunda Instancia, en los procedimientos de su competencia.
-
-ARTÍCULO 77,- Las resoluciones del Pleno, se aprobarán por unanimidad o por mayoría de votos, debiendo ser firmadas por los Magistrados y por el Secretario General.
-
-Cuando uno de los Magistrados no estuviere de acuerdo con la mayoría, podrá expresar en forma sucinta las razones de su inconformidad en voto particular, el cual se agregará a la resolución.
-
-Los Magistrados únicamente podrán abstenerse de votar cuando tengan impedimento legal.
+Las ausencias definitivas de los magistrados se comunicarán al Gobernador del Estado para que proceda al nombramiento de quienes habrán de cubrir las vacantes, conforme al procedimiento señalado en la Constitución Política del Estado de Hidalgo.
 
 ### CAPÍTULO II
 
 Del Pleno del Tribunal Fiscal Administrativo.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
+
+###### ARTÍCULO 77
+
+El Pleno se integrará con la totalidad de magistrados del Tribunal.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
+
 ###### ARTÍCULO 78.
 
-Las sesiones del Pleno serán ordinarias o extraordinarias; las ordinarias deberán celebrarse por lo menos una vez al mes y las extraordinarias cuando sea necesario, previa convocatoria del Presidente o a solicitud de alguno de los Magistrados.
+Las resoluciones del Pleno, se aprobarán por unanimidad o mayoría de votos, debiendo ser firmadas por los magistrados y por el Secretario General.
+
+Cuando un magistrado no estuviere de acuerdo con la mayoría, podrá expresar en forma sucinta las razones de su inconformidad en voto particular, el cual se agregará a la resolución.
+
+Los magistrados, únicamente podrán abstenerse de votar cuando tengan impedimento legal.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
 
 ###### ARTÍCULO 79.
 
-Corresponde al Pleno:
+Las sesiones del Pleno serán ordinarias o extraordinarias; las ordinarias deberán celebrarse por lo menos una vez al mes y las extraordinarias cuando sea necesario, previa convocatoria del Presidente o a solicitud de alguno de los magistrados.
 
-I.- Elegir, de entre sus integrantes, al Presidente, quien lo será también del Pleno. La designación se hará en la segunda quincena del mes de abril de cada año;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
-II.- Designar la adscripción de Magistrados, Secretarios y Actuarios;
-
-III.- Nombrar, a propuesta del Presidente, al Secretario General a los Secretarios de Estudio y Cuenta, a los Secretarios de Acuerdos y a los Actuarios;
-
-IV.- Conceder licencia a los Magistrados del Tribunal por más de quince días, en términos de los ordenamientos vigentes;
-
-V.- Dictar las medidas necesarias para el despacho pronto y expedito de los asuntos de su competencia;
-
-VI.- Analizar, discutir y aprobar, en su caso, el informe que anualmente rinda el Presidente;
-
-VII.- Discutir, aprobar o modificar, el proyecto de presupuesto anual del Tribunal Fiscal Administrativo que presente el Magistrado Presidente, para su inclusión en el proyecto de presupuesto del Poder Judicial del Estado;
-
-VIII.- Conocer de las excitativas para la impartición de justicia que promuevan las partes, cuando los Magistrados de las Salas de Primera Instancia no dicten las resoluciones que correspondan dentro de los plazos señalados por la Ley;
-
-IX.- Expedir o modificar el Reglamento Interior del Tribunal Fiscal Administrativo, y
-
-X.- Las demás obligaciones, funciones y atribuciones que establezcan, la presente Ley, la Ley Orgánica del Tribunal Fiscal Administrativo, el Código Fiscal del Estado de Hidalgo y los demás ordenamientos aplicables.
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
 
 ###### ARTÍCULO 80.
 
-Corresponde al Pleno, actuando como Sala de Segunda Instancia:
+Corresponde al Pleno, en funciones de Segunda Instancia:
 
-I.- Conocer y resolver el recurso de revisión que se interponga en contra de las sentencias definitivas de Primera Instancia dictadas por los Magistrados de las Salas Administrativa y Fiscal;
+l.- Conocer y resolver los recursos de Revisión que se interpongan en contra de las sentencias definitivas de Primera Instancia;
 
-II. Calificar y resolver las excusas por impedimento de los Magistrados del Tribunal Fiscal Administrativo y en su caso, designar al Magistrado o funcionario que deba conocer del asunto;
+II.- Resolver las excusas, por impedimento, de los magistrados del Tribunal Fiscal Administrativo y, en su caso, designar a quien deba conocer del asunto;
 
-III. Resolver las contradicciones que pudieran suscitarse entre las resoluciones de los Magistrados y establecer la Jurisprudencia del Tribunal Fiscal Administrativo, y
+III.- Resolver las contradicciones que se susciten entre las resoluciones de los magistrados y establecer la Jurisprudencia del Tribunal Fiscal Administrativo;
 
-IV.- Las demás funciones de su competencia que establezca esta Ley.
+IV.- Conocer de las excitativas que para impartición de justicia promuevan las partes, cuando los magistrados de las salas de primera instancia no dicten las resoluciones que correspondan, dentro de los plazos señalados por la Ley; y
+
+V.- Las demás funciones de su competencia que establezca la normatividad aplicable.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
 
 ###### ARTÍCULO 81.
 
-Corresponde al Magistrado Presidente del Tribunal Fiscal Administrativo:
+Corresponde al Pleno, en funciones administrativas:
 
-I.- Representar al Tribunal ante toda clase de Autoridades y en actos de cualquier índole, así como delegar dicha representación;
+l.- Elegir, entre sus integrantes, a su Presidente, por voto mayoritario, en la primera sesión extraordinaria que, para tal efecto, se convoque durante el mes de abril del año que corresponda;
 
-II.- Presidir el Pleno y la Sala de Segunda Instancia;
+II.- Elegir al Presidente en el momento en que se acepte la renuncia del anterior o se dé cuenta al Pleno de su ausencia definitiva;
 
-III.- Dirigir los debates y conservar el orden en las sesiones del Pleno;
+III.- Decidir la adscripción de magistrados, secretarios y actuarios;
 
-IV.- Turnar las demandas según la materia, al Magistrado que corresponda;
+IV.- Nombrar, a propuesta del Presidente, al Secretario General, secretarios de estudio y proyecto, secretarios de acuerdos y actuarios;
 
-V.- Tramitar los asuntos de la competencia del Pleno y ser ponente de los mismos;
+V.- Designar al encargado de Oficialía de Parles y demás personal administrativo;
 
-VI.- Someter a consideración del Pleno el proyecto de presupuesto anual, a efecto de que, una vez aprobado, se remita al Presidente del Consejo de la Judicatura, para su inclusión en el presupuesto del Poder Judicial del Estado;
+VI.- Conceder licencia a magistrados por más de quince días, en términos de los ordenamientos vigentes;
 
-VII.- Conceder licencia hasta por quince días, a los Magistrados del Tribunal y al personal, en términos de las disposiciones aplicables;
+VII.- Dictar las medidas necesarias para el despacho pronto y expedito de los asuntos de su competencia;
 
-VIII.- Dictar las medidas necesarias para el buen funcionamiento del servicio de impartición de justicia, informando al Pleno en la próxima sesión;
+VlII.- Analizar, discutir y aprobar, en su caso, el informe que anualmente rinda el Presidente;
 
-IX.- Autorizar y cancelar anualmente los libros oficiales del Tribunal;
+IX.- Discutir y aprobar el proyecto de presupuesto anual del Tribunal Fiscal Administrativo que presente el Magistrado Presidente, para su inclusión en el proyecto de presupuesto del Poder Judicial del Estado de Hidalgo;
 
-X.- Despachar la correspondencia del Pleno, y
+X.- Proponer reformas a esta Ley y a su Reglamento, en lo que corresponda al Tribunal Fiscal Administrativo;
 
-XI.- Las demás obligaciones, funciones y atribuciones que le señalen la presente Ley, la Ley Orgánica del Tribunal Fiscal Administrativo, el Código Fiscal del Estado de Hidalgo y los demás ordenamientos aplicables.
+XI.- Proponer iniciativas de Ley y Decretos inherentes a la impartición de justicia en su ramo;
+
+XII.- Determinar medidas administrativas para el buen funcionamiento, y disciplina del Tribunal;
+
+XIII.- Acordar la creación, reubicación y denominación de salas según las necesidades del servicio. Tales acuerdos deberán Publicarse en el Periódico Oficial del Estado de Hidalgo;
+
+XIV.- Publicar las tesis, criterios y sentencias del Tribunal que deban darse a conocer, por ser de interés general;
+
+XV.- Establecer reglas para la distribución de asuntos entre las salas de Primera Instancia;
+
+XVI.- Modificar el horario de labores del Tribunal; y
+
+XVII.- Las demás obligaciones, funciones y atribuciones que establezcan, la presente Ley, la Ley Orgánica del Tribunal Fiscal Administrativo del Estado de Hidalgo, el Código Fiscal del Estado de Hidalgo y los demás ordenamientos aplicables.
 
 ### CAPÍTULO III
 
 Del Presidente.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
+
 ###### ARTÍCULO 82.
 
-Las Salas, Fiscal y Administrativa, funcionarán unitariamente en Primera Instancia. Conocerán y resolverán los asuntos de sus respectivas materias. El Presidente, no intervendrá en controversias de Primera Instancia.
+Corresponde al Magistrado Presidente del Tribunal Fiscal Administrativo del Estado de Hidalgo:
+
+I.- Representar al Tribunal ante toda clase de autoridades y en actos de cualquier índole, así como, delegar dicha representación;
+
+II.- Presidir el Pleno;
+
+III.- Dirigir los debates y conservar el orden en las sesiones del Pleno;
+
+IV.- Ejecutar los acuerdos dictados por el Pleno del Tribunal;
+
+V.- Tramitar los asuntos que sean competencia del Pleno y ser ponente de los mismos;
+
+VI.- Someter a consideración del Pleno el proyecto de presupuesto anual, a efecto de que, una vez aprobado, se remita al Presidente del Consejo de la Judicatura para su inclusión en el presupuesto del Poder Judicial del Estado;
+
+VII.- Conceder licencia hasta por quince días al personal del Tribunal, en términos de las disposiciones aplicables;
+
+VIII.- Dictar las medidas necesarias para la debida impartición de justicia, e informar de éstas al Pleno;
+
+IX.- Autorizar y cancelar anualmente los libros oficiales del Tribunal;
+
+X.- Despachar la correspondencia del Pleno;
+
+XI.- Informar al Pleno del Tribunal, anualmente en el mes de abril, el estado que guarda la impartición de justicia;
+
+XII.- Emitir los informes previos y con justificación de los amparos que se promuevan en contra de actos y resoluciones del Pleno;
+
+XIII.- Hacer uso de los medios de apremio y aplicar las medidas disciplinarias establecidas en las Leyes aplicables para el cumplimiento de sus determinaciones y para mantener el buen orden en el desarrollo de las audiencias o diligencias, exigiendo el respeto y consideración necesarios;
+
+XIV.- Acordar la remisión de los expedientes concluidos de Segunda Instancia al Archivo del Poder Judicial; y
+
+XV.- Las demás obligaciones, funciones y atribuciones que le señalen la presente Ley, la Ley Orgánica del Tribunal Fiscal Administrativo del Estado de Hidalgo, el Código Fiscal del Estado de Hidalgo y los demás ordenamientos aplicables.
 
 ### CAPÍTULO IV
 
 De las Salas Unitarias.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
+
 ###### ARTÍCULO 83.
 
-Corresponderá al Magistrado de la Sala Fiscal, conocer y resolver de los juicios que se interpongan en contra de las resoluciones definitivas que a continuación se enumeran:
+Los magistrados de las salas de primera instancia conocerán y resolverán en materia fiscal y administrativa. El Presidente no intervendrá en controversias de Primera Instancia.
 
-I.- Las dictadas por Autoridades Fiscales Estatales, Municipales u órganos fiscales autónomos, en las cuales se determine la existencia de una obligación fiscal, se fije en cantidad liquida, o se den las bases para su liquidación;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
-II.- Las que nieguen la devolución de ingresos indebidamente percibidos por el Estado, Municipio u Organismo Descentralizado con funciones de Autoridad, de los regulados por el Código Fiscal del Estado;
-
-III.- Las que nieguen o reduzcan las pensiones y demás prestaciones sociales que concedan las Leyes en favor de los servidores públicos o de sus familiares, que no estén contempladas en las condiciones generales de trabajo y ordenamientos afines;
-
-IV.- Las que se dicten en materia de pensiones civiles con cargo al erario Estatal, Municipal u Organismos Autónomos;
-
-V.- Las que se dicten en materia de interpretación y cumplimiento de contratos de obra pública celebrados por Dependencias del Ejecutivo del Estado, Municipales u Organismos Autónomos;
-
-VI.- De las quejas por incumplimiento de sentencias u otras resoluciones, del propio Tribunal que no tengan previsto medio de impugnación;
-
-VII.- Del recurso de reclamación, conforme a lo dispuesto por la Ley de la materia;
-
-VIII.- Resoluciones que causen un agravio en materia fiscal, distinto al enunciado en las fracciones anteriores, y
-
-IX.- De los demás asuntos de su competencia que señalen los Códigos Fiscales, Estatal y Municipal, así como otras Leyes aplicables.
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
 
 ###### ARTÍCULO 84.
 
-Corresponde al Magistrado de la Sala Administrativa, conocer y resolver las controversias que se promuevan contra:(sic)
+A los magistrados de las salas corresponde:
 
-I.- Resoluciones o actos definitivos que las Autoridades del Ejecutivo Estatal, Municipal u Organismos Descentralizados dicten, ejecuten o traten de ejecutar contra particulares.
+I.- Conocer y resolver los asuntos de su competencia establecidos en el Artículo 68 de esta Ley;
 
-Para los efectos procedentes, se consideran resoluciones o actos administrativos definitivos los que no admitan recurso o habiéndose interpuesto, haya sido negativa la resolución para el gobernado.
+II.- Acordar la remisión de expedientes concluidos al Archivo del Poder Judicial;
 
-II.- Quejas por incumplimiento de sentencias u otras resoluciones del propio Tribunal que no tengan previsto medio de impugnación;
+III.- Despachar la correspondencia de la Sala de su adscripción;
 
-III.- El recurso de reclamación, conforme a lo dispuesto por la Ley de la materia, y
+IV.- Hacer uso de los medios de apremio y aplicar las medidas disciplinarias establecidas en los ordenamientos conducentes para el cumplimiento de sus determinaciones y para mantener el buen orden en el desarrollo de las audiencias o diligencias, exigiendo el respeto y consideración debidos;
 
-IV.- Los demás asuntos de su competencia que señalen las Leyes aplicables.
+V.- Emitir los informes previos y con justificación de los amparos que se promuevan en contra de los actos y resoluciones de Primera Instancia; y
+
+VI.- Les demás que señale esta Ley, el Reglamento Interior y los ordenamientos legales aplicables.
 
 ### CAPÍTULO V
 
 Del Personal.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
+
 ###### ARTÍCULO 85.
 
-El Tribunal Fiscal Administrativo contará con un Secretario General, así como con los Secretarios de Estudio y Cuenta, Secretarios de Acuerdos, Actuarios y demás personal que sea necesario para su funcionamiento y permita el presupuesto.
+El Tribunal Fiscal Administrativo, para el debido cumplimiento de sus funciones, contará con:
+
+I.- Un Secretario General;
+
+II.- Secretarios de Estudio y Proyecto;
+
+III.- Secretarios de Acuerdos;
+
+IV.- Actuarios;
+
+V.- Jefe de la Unidad Administrativa;
+
+VI.- Encargado de Oficialía de partes; y
+
+VII.- Demás personal necesario para su funcionamiento que permita el presupuesto.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
 
 ###### ARTÍCULO 86.
 
-Las faltas temporales del Secretario General, serán suplidas por el Secretario de Acuerdos de la Sala que designe el Presidente.
+Para ser Secretario General, Secretario de Estudio y Proyecto, Secretario de Acuerdos y Actuario, se requiere satisfacer los mismos requisitos que exige esta Ley para sus homólogos del Tribunal Superior de Justicia.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
 
 ###### ARTÍCULO 87.
 
-Para ser Secretario General, Secretario de Estudio y Cuenta, Secretario de Acuerdos o Actuario, se requiere satisfacer los mismos requisitos que exige esta Ley para sus homólogos del Tribunal Superior de Justicia.
-
-###### ARTÍCULO 88.
-
 Corresponde al Secretario General:
 
-I.- Dar cuenta de las sesiones plenarias y tomar la votación de los Magistrados, asentando en el acta correspondiente las decisiones que se acuerden y autorizar con su firma las actuaciones del Pleno.
+I.- Dar fe de las sesiones plenarias y tomar la votación de los magistrados, asentando en el acta correspondiente las decisiones que se tomen y autorizar, con Su firma, las actuaciones del Pleno;
 
-II.- Autorizar con su firma, las resoluciones de la Sala de Segunda Instancia;
+II.- Autorizar con su firma las resoluciones de Segunda Instancia;
 
 III.- Acordar con el Presidente, lo relativo a las sesiones del Pleno;
 
-IV.- Recibir las demandas que se presenten, asentar constancia de su recepción, así como remitirlas de inmediato al Presidente a efecto de que éste las turne al Magistrado de la Sala correspondiente;
+IV.- Proyectar los acuerdos de trámite de la Presidencia y del Pleno;
 
-V. Tramitar y firmar la correspondencia que no competa al Presidente ni a los Magistrados de las Salas respectivas;
+V.- Tramitar y firmar la correspondencia que no competa al Presidente ni a los magistrados de las salas respectivas;
 
-VI.- Expedir las certificaciones de constancias de autos que obren en los expedientes de la competencia del Pleno o de la Sala de Segunda Instancia;
+VI.- Expedir las certificaciones de constancias que obren en los expedientes de la competencia del Pleno;
 
-VII.- Llevar el control de las ponencias que deba elaborar el Presidente para su discusión en el Pleno;
+VlI.- Llevar el control de las ponencias que deba elaborar el Presidente para su discusión en el Pleno;
 
-VIII.- Actuar en el Pleno como Magistrado por ministerio de Ley, en caso de ausencia temporal del Titular de alguna de las Salas unitarias;
+VIII.- Actuar como Magistrado por ministerio de Ley, en caso de ausencia del titular de alguna de las salas unitarias;
 
-IX.- Conocer, tramitar y resolver los juicios en materia fiscal o administrativa en los que actúe por ministerio de Ley;
+IX.- Conocer, tramitar y resolver los juicios en que actúe como Magistrado por ministerio de Ley;
 
-X.- Vigilar que la Oficialía de Partes remita los expedientes concluidos al archivo del Poder Judicial, y,
+X.- Dar cuenta al Presidente de las demandas de amparo interpuestas contra las resoluciones del Pleno;
 
-XI.- Las demás obligaciones, funciones y atribuciones que le señalen, la presente Ley, la Ley Orgánica del Tribunal Fiscal Administrativo, el Código Fiscal del Estado de Hidalgo y los demás ordenamientos aplicables.
+XI.- Remitir los expedientes concluidos de Segunda Instancia al Archivo del Poder Judicial del Estado de Hidalgo;
+
+XII.- Realizar, en caso necesario, las gestiones para la entrega-recepción de los expedientes concluidos al Archivo del Poder Judicial; y
+
+XIII.- Las demás obligaciones, funciones y atribuciones que le señalen la presente Ley, la Ley Orgánica del Tribunal Fiscal Administrativo del Estado de Hidalgo, el Código Fiscal del Estado de Hidalgo y los demás ordenamientos aplicables.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
+
+###### ARTÍCULO 88.
+
+Son atribuciones de los Secretarios de Estudio y Proyecto:
+
+I.- Elaborar los proyectos de resolución encomendados por el magistrado correspondiente, de acuerdo a las Leyes sustantivas, adjetivas, criterios jurisprudenciales y en su caso, con los principios generales aplicables;
+
+II.- Resguardar los expedientes y documentos que se les confíen para estudio y elaboración de proyectos; y
+
+III.- Las demás que señalen esta Ley y los ordenamientos aplicables.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
 
 ###### ARTÍCULO 89.
-
-Corresponde a los Secretarios de Estudio y Cuenta, auxiliar en el proyecto de las resoluciones a los Magistrados.
-
-###### ARTÍCULO 90.
 
 Corresponde a los Secretarios de Acuerdos:
 
 I.- Dar cuenta diariamente al Magistrado de la Sala respectiva, de los escritos, promociones y correspondencia recibidos por la Oficialía de Partes;
 
-II.- Redactar los Acuerdos, diligencias, actas de audiencia y las demás resoluciones de la competencia de la Sala respectiva que no corresponda dictar al Magistrado;
+II.- Redactar acuerdos, actas de audiencia y demás resoluciones, competencia de la Sala respectiva que no corresponda dictar al Magistrado;
 
-III.- Autorizar con su firma los Acuerdos, diligencias, actas y toda clase de resoluciones emitidas por la Sala respectiva;
+III.- Efectuar las diligencias que encomiende el Magistrado de la Sala;
 
-IV.- Llevar el procedimiento de lo contencioso que establezcan la Ley Orgánica del Tribunal Fiscal Administrativo y el Código Fiscal del Estado y demás ordenamientos aplicables;
+IV.- Realizar y constatar las notificaciones, citaciones y similares cuando se encuentren presentes los interesados en el local del Tribunal en ausencia del actuario;
 
-V.- Llevar los libros de registro de expedientes de la Sala correspondiente;
+V.- Practicar personalmente a las partes y demás sujetos procedimentales, las notificaciones, citaciones y otras actuaciones que resulten procedentes, cuando se encuentren presentes con motivo de la audiencia;
 
-VI.- Expedir copias certificadas de los autos que obren en los expedientes integrados en los asuntos de la competencia de la Sala respectiva;
+VI.- Dar fe, con su firma, de los acuerdos, diligencias, actas y toda clase de resoluciones emitidas por la Sala respectiva;
 
-VII.- Vigilar que la Oficialía de Partes remita los expedientes concluidos al archivo del Poder Judicial, y
+VlI.- Llevar el procedimiento que establezcan la Ley Orgánica del Tribunal Fiscal Administrativo del Estado de Hidalgo, el Código Fiscal del Estado de Hidalgo y demás ordenamientos aplicables;
 
-VIII.- Las demás obligaciones, funciones y atribuciones que le señalen la presente Ley, la Ley Orgánica del Tribunal Fiscal Administrativo, el Código Fiscal del Estado de Hidalgo y los demás ordenamientos aplicables.
+VlII.- Llevar los libros de registro de expedientes de la Sala correspondiente;
 
-###### ARTÍCULO 91.
+IX.- Expedir copias certificadas de los autos que obren en los expedientes integrados en los asuntos competencia de la Sala respectiva;
+
+X.- Llevar el control de los sellos a su cargo;
+
+XI.- Dar cuenta al Magistrado de las demandas de amparo interpuestas contra las resoluciones de Primera Instancia;
+
+XII.- Cuidar los libros, expedientes, documentos, muebles y demás objetos que se encuentren en la Sala bajo su responsabilidad. El mismo cuidado deberán observar tratándose de títulos, valores, fianzas, certificados de depósito numerario y otros, exhibidos por las partes. Deberán guardarlos en el secreto de la Sala en que se actúe;
+
+XIII.- Coordinar y dirigir el trabajo del personal a su cargo;
+
+XIV.- Remitir los expedientes concluidos al Archivo del Poder Judicial del Estado de Hidalgo; y
+
+XV.- Las demás obligaciones, funciones y atribuciones que les señalen: la presente Ley, la Ley Orgánica del Tribunal Fiscal Administrativo del Estado de Hidalgo, el Código Fiscal del Estado de Hidalgo y los demás ordenamientos aplicables.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
+
+###### ARTÍCULO 90.
 
 Corresponde a los Actuarios:
 
-I.- Notificar los Acuerdos, autos, sentencias y demás resoluciones que para tal efecto le sean turnados;
+I.- Notificar, en tiempo y forma, los acuerdos, autos, sentencias y demás resoluciones recaídas en los expedientes que les sean turnados para tal efecto, asentando la razón de haber hecho la notificación y entregado los oficios respectivos, levantando las actas correspondientes;
 
-II.- Recibir del Secretario de Acuerdos los expedientes para la realización de las notificaciones y diligencias;
+II.- Formular oficios de notificación de los acuerdos que se dicten enviándolos a su destino;
 
-III.- Realizar las notificaciones en tiempo y forma, asentando en el expediente la razón que corresponda;
+III.- Recibir del Secretario de Acuerdos y del Secretario General los expedientes para la realización de notificaciones y diligencias;
 
 IV.- Realizar las diligencias que se les encomienden, elaborando las actas respectivas;
 
 V.- Llevar un registro de los expedientes que les sean turnados;
 
-VI.- Las demás obligaciones, funciones y atribuciones que les señalen la presente Ley, la Ley Orgánica del Tribunal Fiscal Administrativo, el Código Fiscal del Estado de Hidalgo y los demás ordenamientos aplicables.
+VI.- Redactar de manera clara y con letra legible las constancias y diligencias que realicen;
 
-###### ARTÍCULO 92.
+VlI.- Auxiliar al Magistrado en las diligencias y actuaciones que requiera; y
 
-La Oficialía de Partes del Tribunal Fiscal Administrativo dependerá de la Secretaría General. Son obligaciones del responsable de la misma, las siguientes:
+VlII.- Las demás obligaciones, funciones y atribuciones que les señalen la presente Ley, la ley Orgánica del Tribunal Fiscal Administrativo del Estado de Hidalgo, el Código Fiscal del Estado de Hidalgo y los demás ordenamientos aplicables.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
+
+###### ARTÍCULO 91.
+
+La Oficialía de Partes del Tribunal Fiscal Administrativo del Estado de Hidalgo, estará a cargo de un titular, quien dependerá de la Secretaría General. Son sus obligaciones las siguientes:
 
 I.- Recibir las promociones y demás escritos que presenten las partes, asentando constancia de su recepción, así como verificar el número de fojas y anexos que acompañen a las promociones.
 
-La constancia de recepción, así como su registro, podrán realizarse por los medios electrónicos con que pueda contar la Oficialía de Partes.
+La constancia de recepción, así como su registro, podrán realizarse por medios electrónicos;
 
-II.- Anotar el ingreso de la promoción en el libro de registro, el cual deberá estar debidamente autorizado, foliado y encuadernado;
+II.- Anotar el ingreso de promociones en el libro de registro, el cual deberá estar debidamente autorizado, foliado y encuadernado;
 
-III.- Dar cuenta en forma inmediata al Secretario General y al Secretario de la Sala correspondiente de las promociones recibidas;
+III.- Dar cuenta de las promociones recibidas al Secretario General o al Secretario de Sala, según corresponda;
 
-IV.- Elaborar los informes y estadísticas que le sean solicitados por el Secretario General;
+IV.- Elaborar los informes y estadísticas que le sean solicitados por el Secretario General; y
 
-V.- Remitir los expedientes concluidos, de Primera y Segunda Instancias, al Archivo del Poder Judicial, llevando el control correspondiente, y
+V.- Las demás obligaciones y atribuciones dispuestas por esta Ley, la Ley Orgánica del Tribunal Fiscal Administrativo del Estado de Hidalgo, el Código Fiscal del Estado de Hidalgo y otros ordenamientos aplicables, así como las que señalen el Presidente del Tribunal o el Secretario General.
 
-VI.- Las demás obligaciones y atribuciones dispuestas por esta Ley, la Ley Orgánica del Tribunal Fiscal Administrativo, el Código Fiscal del Estado de Hidalgo y los demás ordenamientos aplicables o las que le señalen el Presidente del Tribunal o el Secretario General.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
+
+###### ARTÍCULO 92.
+
+Los magistrados y demás servidores públicos adscritos al Tribunal Fiscal Administrativo del Estado de Hidalgo, percibirán iguales emolumentos y prestaciones que los servidores públicos de similar categoría del Tribunal Superior de Justicia del Estado, los cuales no podrán ser disminuidos durante su encargo.
 
 ### CAPÍTULO VI. De la Unidad Administrativa
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
+
 ###### ARTÍCULO 93.
 
-La Unidad Administrativa, estará a cargo de un Jefe, que dependerá del Consejo de la Judicatura.
+La Unidad Administrativa, estará a cargo de un Jefe, quien tendrá la vinculación correspondiente con el Consejo de la Judicatura.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
 
 ###### ARTÍCULO 94.
 
-El Jefe de la Unidad Administrativa será propuesto por el Presidente del Tribunal Fiscal Administrativo y nombrado por el Presidente del Consejo de la Judicatura; contará con el personal de apoyo que permita el presupuesto.
+El Jefe de la Unidad Administrativa será propuesto por el Presidente del Tribunal Fiscal Administrativo del Estado de Hidalgo y nombrado por el Pleno.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
 
 ###### ARTÍCULO 95.
 
@@ -1545,7 +1751,7 @@ Corresponde al Jefe de la Unidad Administrativa:
 
 I.- Ser el vínculo con el Consejo de la Judicatura, para los asuntos administrativos del Tribunal;
 
-II.- Acordar con el Presidente del Tribunal Fiscal Administrativo y con el Presidente del Consejo de la Judicatura o con quien éste designe, los asuntos que corresponda tratar con cada uno de ellos;
+II.- Acordar con el Presidente del Tribunal Fiscal Administrativo del Estado de Hidalgo, con el Presidente del Consejo de la Judicatura o con quien ellos designen, los asuntos que correspondan;
 
 III.- Llevar a cabo los trámites correspondientes a la partida presupuestal;
 
@@ -1555,11 +1761,15 @@ V.- Controlar, conservar y actualizar el inventario de mobiliario y equipo al se
 
 VI.- Auxiliar al Presidente en la elaboración del anteproyecto de presupuesto;
 
-VII.- Proponer al Presidente del Tribunal Fiscal Administrativo y al Presidente del Consejo de la Judicatura o a quien éste designe, las acciones para modernizar las estructuras orgánicas de este Tribunal, los sistemas y procedimientos administrativos internos, así como los servicios al público;
+VII.- Proponer al Presidente del Tribunal Fiscal Administrativo del Estado de Hidalgo y al Presidente del Consejo de la Judicatura o a quien ellos designen, acciones para modernizar las estructuras orgánicas del Tribunal, los sistemas y procedimientos administrativos internos, así como los servicios al público;
 
-VIII.- Organizar y controlar la oficina de informática, y
+VIII.- Organizar y controlar el servicio de informática;
 
-IX.- Las demás obligaciones que le confieran las Leyes, así como las que señalen el Presidente de este Órgano Colegiado y el Consejo de la Judicatura.
+IX.- Llevar el control de asistencia del personal administrativo del Tribunal, informando al Presidente cuando un trabajador falte a sus labores, y en su caso, realizar los trámites administrativos para su sanción, cuando no exista justificación;
+
+X.- Custodiar y conservar el acervo bibliográfico, hemerográfico y medios electrónicos de registro, en auxilio de la Secretaría General; y
+
+XI.- Las demás obligaciones que le confieran las Leyes, así como las que señale el Presidente de este Órgano Colegiado.
 
 ## TÍTULO CUARTO. Del Tribunal Electoral
 
@@ -2896,3 +3106,9 @@ P.O. 9 DE AGOSTO DE 2010.
 PRIMERO.- El presente Decreto, una vez realizada su Publicación en el Periódico Oficial del Estado, entrará en vigor el día 20 de agosto del año 2010.
 
 SEGUNDO.- Los procedimientos penales que se estén substanciando a la entrada en vigor del presente Decreto, se seguirán conforme a las disposiciones vigentes al momento de la comisión de los hechos.
+
+P.O. 14 DE FEBRERO DE 2011.
+
+PRIMERO.- El presente decreto entrará en vigor a los treinta días siguientes de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
