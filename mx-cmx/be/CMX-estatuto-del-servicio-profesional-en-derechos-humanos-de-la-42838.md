@@ -4,7 +4,7 @@ identifier: "CMX-estatuto-del-servicio-profesional-en-derechos-humanos-de-la-428
 country: "mx"
 rank: "estatuto"
 publication_date: "2005-01-31"
-last_updated: "2010-12-23"
+last_updated: "2011-02-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42838&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2004-10-12"
 
 ESTATUTO DEL SERVICIO PROFESIONAL EN DERECHOS HUMANOS DE LA COMISION DE DERECHOS HUMANOS DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 23 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 14 DE FEBRERO DE 2011.
 
 Estatuto publicado en el Número Bis de la Gaceta Oficial del Distrito Federal, el lunes 31 de enero de 2005.
 
@@ -260,9 +260,13 @@ IV. Las demás que le confiera el Presidente y que sean necesarias para el adecu
 
 El nombramiento es el documento que hace constar la designación de una persona en un cargo y puesto del Servicio, conforme al Catálogo. El Presidente expedirá los nombramientos de acuerdo a las disposiciones señaladas en este Estatuto.
 
+> <small>(REFORMADO, G.O. 14 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 17o.
 
-En casos de excepción y por necesidades del Servicio, el Presidente podrá otorgar nombramientos eventuales improrrogables cuyo plazo máximo de vigencia será de doce meses y no formarán parte del Servicio.
+Atendiendo a necesidades de servicio y a la disponibilidad presupuestal, la Comisión de Derechos Humanos del Distrito Federal celebrará como mínimo, un concurso de ingreso al Servicio, en cualquiera de sus modalidades, dentro de un período máximo de dos años.
+
+Sin embargo, en casos de excepción y por necesidades del Servicio, la o el Presidente podrá otorgar nombramientos eventuales cuyo plazo máximo de vigencia será de dos años y no formarán parte del Servicio. Dicho plazo será improrrogable.
 
 > <small>(REFORMADO, G.O. 12 DE DICIEMBRE DE 2007)</small>
 
@@ -1059,5 +1063,11 @@ Artículo segundo. Los procedimientos del Servicio Profesional en Derechos Human
 G.O. 23 DE DICIEMBRE DE 2010.
 
 SE TRANSCRIBE UNICAMENTE EL PUNTO DEL ACUERDO QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.
+
+SEGUNDO.- El presente Acuerdo entrará en vigor al siguiente día hábil de su publicación en la Gaceta Oficial del Distrito Federal, derogándose todas aquellas disposiciones del Estatuto del Servicio Profesional en Derechos Humanos de la Comisión de Derechos Humanos del Distrito Federal y de su Manual de Procedimientos Específicos que contravengan el presente Acuerdo.
+
+G.O. 14 DE FEBRERO DE 2011.
+
+SE TRANSCRIBE UNICAMENTE EL ARTICULO SEGUNDO DEL ACUERDO QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.
 
 SEGUNDO.- El presente Acuerdo entrará en vigor al siguiente día hábil de su publicación en la Gaceta Oficial del Distrito Federal, derogándose todas aquellas disposiciones del Estatuto del Servicio Profesional en Derechos Humanos de la Comisión de Derechos Humanos del Distrito Federal y de su Manual de Procedimientos Específicos que contravengan el presente Acuerdo.
