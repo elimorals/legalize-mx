@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "2010-06-07"
+last_updated: "2011-02-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CONSTITUCION POLITICA DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JUNIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE FEBRERO DE 2011.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -79,9 +79,9 @@ El Estado podrá, en los términos de Ley, convenir con la federación la asunci
 
 En el Estado de Hidalgo, todo individuo gozará de las garantías y derechos que otorga esta Constitución y la Constitución Política de los Estados Unidos Mexicanos, las cuales no podrán restringirse ni suspenderse, sino en los casos y condiciones que ella misma establece.
 
-> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2007)</small>
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
 
-En el Estado de Hidalgo queda prohibida toda discriminación motivada por el origen étnico, Nacional o regional, el género, la edad, las capacidades diferentes, la condición social o económica, las condiciones de salud, la religión, las opiniones, las preferencias, el estado civil, el trabajo desempeñado, las costumbres, la raza, o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos.
+En el Estado de Hidalgo queda prohibida toda discriminación motivada por el origen étnico, Nacional o regional, el género, la edad, las capacidades diferentes, la condición social o económica, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil, el trabajo desempeñado, las costumbres, la raza, o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos.
 
 > <small>(ADICIONADO, P.O. 15 DE MARZO DE 2007)</small>
 
@@ -137,9 +137,9 @@ El Estado otorgará facilidades a los particulares, para que se coadyuve al cump
 
 Es deber de los padres preservar el derecho de los menores a la satisfacción de sus necesidades y a la salud física y mental. La ley determinará los apoyos a la protección de los menores, a cargo de las instituciones públicas.
 
-> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 1991)</small>
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
 
-El Estado de Hidalgo tiene una composición pluricultural y reconoce los derechos a preservar la forma de vida y el bienestar y desarrollo de los grupos sociales de culturas autóctonas, dentro de sus propios patrones de conducta, en cuanto no contraríen normas de orden público, así como a que se consideren tales rasgos culturales en la justipreciación de los hechos en que participen, mediante criterios de equidad. La ley protegerá y promoverá el desarrollo de las lenguas, usos, costumbres, recursos y formas específicas de organización social de las diversas comunidades que lo integran y garantizará a sus componentes el efectivo acceso a la jurisdicción del Estado. Los Poderes del Estado, en el ámbito de sus respectivas competencias, tomarán en cuenta las prácticas y las costumbres jurídicas de las comunidades indígenas en los términos que las propias leyes establezcan.
+El Estado de Hidalgo tiene una composición pluricultural y reconoce los derechos a preservar la forma de vida y el bienestar y desarrollo de los grupos sociales de culturas autóctonas, dentro de sus propios patrones de conducta, en cuanto no contraríen normas de orden público, así como a que se consideren tales rasgos culturales en la justipreciación de los hechos en que participen, mediante criterios de equidad. La Ley protegerá y promoverá el desarrollo de las lenguas, prácticas tradicionales, recursos y formas específicas de organización social de las diversas comunidades que lo integran y garantizará a sus componentes el efectivo acceso a la jurisdicción del Estado. Los Poderes del Estado, en el ámbito de sus respectivas competencias, tomarán en cuenta las prácticas y las costumbres de las comunidades indígenas en los términos que las propias Leyes establezcan. La conciencia de su identidad indígena deberá ser criterio fundamental para determinar a quienes se aplican las disposiciones sobre comunidades y pueblos indígenas. Los pueblos indígenas en ejercicio de su derecho de libre determinación, tienen derecho a la autonomía o el autogobierno en las cuestiones relacionadas con sus asuntos internos, reconociéndolos, así como, a sus comunidades en esta Constitución, la que tomará en cuenta los principios generales establecidos en el Artículo 2° de la Constitución Política de los Estados Unidos Mexicanos, así como los criterios etnolingüísticos y de asentamiento físico.
 
 > <small>(ADICIONADO, P.O. 8 DE MAYO DE 2006)</small>
 
@@ -205,7 +205,9 @@ Nadie puede ser aprisionado por deudas de carácter puramente civil.
 
 Queda prohibida la pena de muerte o cualesquiera otras penas inusitadas y trascendentales.
 
-Toda persona reducida a prisión tiene derecho a la readaptación social y a los beneficios que de ella resulten, sobre las bases del trabajo, la capacitación para el mismo, la educación y reestructuración de su personalidad inspirados en un criterio de justicia social, eliminando todo concepto de venganza colectiva, con el objeto de restablecer su dignidad.
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
+
+Toda persona reducida a prisión tiene derecho a la reinserción social y a los beneficios que de ella resulten, sobre las bases del trabajo, la capacitación para el mismo, la educación y reestructuración de su personalidad, inspirados en un criterio de justicia social, eliminando todo concepto de venganza colectiva, con el objeto de restablecer su dignidad.
 
 > <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2009)</small>
 
@@ -1299,7 +1301,9 @@ XXVIII. (DEROGADA, P.O. 14 DE DICIEMBRE DE 2009)
 
 XXIX. Conceder amnistía cuando así lo amerite, siempre que se trate de delitos de la competencia de los Tribunales del Estado;
 
-XXX. Solicitar la protección de los Poderes de la Unión, de conformidad con el artículo 122 de la Constitución General de la República;
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2011)</small>
+
+XXX. Solicitar la protección de los Poderes de la Unión, de conformidad con el Artículo 119 de la Constitución General de la República;
 
 XXXI. Ejercer el derecho de veto en los términos de esta Constitución;
 
@@ -1361,7 +1365,7 @@ LI. Decretar expropiaciones por causa de utilidad pública, mediante el pago de 
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE JULIO DE 2006)</small>
 
-LII. Designar al Consejero del Consejo de la Judicatura; y (sic)
+LII. Designar al Consejero de la Judicatura; y (sic)
 
 > <small>(ADICIONADA, P.O. 15 DE MARZO DE 2007)</small>
 
@@ -3194,5 +3198,33 @@ P.O. 19 DE ABRIL DE 2010.
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
 
 P.O. 7 DE JUNIO DE 2010.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 14 DE FEBRERO DE 2011.
+
+DECRETO NUMERO 575, POR EL QUE SE REFORMA EL PARRAFO SEGUNDO DEL ARTICULO 4°, DE LA CONSTITUCION POLITICA DEL ESTADO DE HIDALGO.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 14 DE FEBRERO DE 2011.
+
+DECRETO NUMERO 576, POR EL QUE SE REFORMA EL PARRAFO SEPTIMO DEL ARTICULO 9 DE LA CONSTITUCION POLITICA DEL ESTADO DE HIDALGO.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 14 DE FEBRERO DE 2011.
+
+DECRETO No. 577
+
+###### ARTICULO UNICO.
+
+SE REFORMA EL PARRAFO OCTAVO DEL ARTICULO 5 DE LA CONSTITUCION POLITICA DEL ESTADO DE HIDALGO.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 14 DE FEBRERO DE 2011.
+
+DECRETO NUMERO 578, POR EL QUE SE REFORMA LA FRACCION XXX DEL ARTICULO 71 DE LA CONSTITUCION POLITICA DEL ESTADO DE HIDALGO.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
