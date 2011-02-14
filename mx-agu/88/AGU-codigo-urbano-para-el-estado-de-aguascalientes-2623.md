@@ -4,7 +4,7 @@ identifier: "AGU-codigo-urbano-para-el-estado-de-aguascalientes-2623"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-05-29"
-last_updated: "2010-11-15"
+last_updated: "2011-02-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2623&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CODIGO URBANO PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE NOVIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE FEBRERO DE 2011.
 
 Código publicado en la Sección Primera del Suplemento del Periódico Oficial del Estado de Aguascalientes, el domingo 29 de mayo de 1994.
 
@@ -7921,7 +7921,9 @@ IV.- Sujetarse a los itinerarios, horarios, coberturas geográficas, tarifas, si
 
 V.- Aceptar la intervención del Ejecutivo del Estado en la administración del servicio, en los casos en que el concesionario se niegue generalizada, sistemática o permanentemente a prestarlo, o exista una causa de utilidad pública;
 
-VI.- Renovar los vehículos que rebasen la máxima antigüedad permitida, de acuerdo a lo señalado en el Artículo 646;
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2011)</small>
+
+VI.- Renovar los vehículos que rebasen la máxima antigüedad permitida, de acuerdo a lo señalado en el Artículo 602;
 
 VII.- Mostrar la tarifa autorizada en un lugar visible del vehículo, colocando una calcomanía inalterable que tendrá las dimensiones y leyendas señaladas por la autoridad competente, situándola en los lugares que para tal efecto le sean estipulados;
 
@@ -8491,7 +8493,9 @@ V.- El no ajustarse a las condiciones que sobre cupo, seguridad, higiene, comodi
 
 VI.- El no respetar las tarifas que se fijen para el cobro del servicio en forma reiterada y sistemática;
 
-VII.- El no sustituir el vehículo a efecto de que éste cuente con la antigüedad máxima señalada en el Artículo 646 del presente Código; y
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2011)</small>
+
+VII.- El no sustituir el vehículo a efecto de que éste cuente con la antigüedad máxima señalada en el Artículo 602 del presente Código; y
 
 VIII.- El no cumplir en forma reiterada con las normas en materia de vialidad.
 
@@ -8892,3 +8896,9 @@ P.O. 15 DE NOVIEMBRE DE 2010.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE FEBRERO DE 2011.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
