@@ -4,7 +4,7 @@ identifier: "CMX-codigo-fiscal-de-la-ciudad-de-mexico-antes-codigo-fiscal-71178"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-12-29"
-last_updated: "2010-12-30"
+last_updated: "2011-02-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71178&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2009-12-28"
 
 CODIGO FISCAL DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 30 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 14 DE FEBRERO DE 2011.
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el martes 29 de diciembre de 2009.
 
@@ -734,9 +734,9 @@ No se causará actualización del monto durante el tiempo que transcurra de la f
 
 Si la devolución no se hubiera efectuado en el plazo de 120 días hábiles, las autoridades fiscales pagarán las actualizaciones correspondientes sobre el monto que se calcularán a partir del día siguiente al de vencimiento de dicho plazo, conforme a una tasa que será igual a la prevista para los recargos en los términos del artículo 42 de este Código sobre las cantidades que se hayan pagado indebidamente.
 
-> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, G.O. 14 DE FEBRERO DE 2011)</small>
 
-La actualización en el monto deberá incluirse en la liquidación correspondiente, sin necesidad de que exista petición expresa del pago de intereses por parte del contribuyente.
+La actualización en el monto deberá incluirse en la liquidación correspondiente, sin necesidad de que exista petición expresa del pago por parte del contribuyente.
 
 > <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2010)</small>
 
@@ -908,11 +908,15 @@ II. Las que en el año calendario anterior a aquel que se dictamina, hayan conta
 
 III. Las que en el año calendario anterior a aquel que se dictamina, hayan contado con inmuebles de uso mixto, cuyo valor catastral por cada uno o en su conjunto que rebasen el valor indicado en la fracción anterior;
 
-IV. (DEROGADA, G.O. 30 DE DICIEMBRE DE 2010)
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TRANSITORIO SEGUNDO DEL DECRETO POR EL QUE SE REFORMA EL CODIGO FISCAL DEL DISTRITO FEDERAL, PUBLICADO EN LA G.O. DE 14 DE FEBRERO DE 2011 LA PRESENTE FRACCION SEGUIRA VIGENTE.</small>
+
+IV. Las que en el año calendario anterior a aquel que se dictamina, hayan consumido por una o más tomas, más de 1000 m3 de agua bimestral promedio, de uso no doméstico, de uso doméstico, o ambos usos; cuando el uso sea sólo doméstico siempre que el inmueble donde se encuentre instalada dicha toma o tomas de agua, se haya otorgado en uso o goce temporal total o parcialmente;
 
 V. Estar constituidos como organismos descentralizados, empresas de participación estatal mayoritaria y fideicomisos públicos conforme a la ley de la materia, y
 
-VI. (DEROGADA, G.O. 30 DE DICIEMBRE DE 2010)
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TRANSITORIO SEGUNDO DEL DECRETO POR EL QUE SE REFORMA EL CODIGO FISCAL DEL DISTRITO FEDERAL, PUBLICADO EN LA G.O. DE 14 DE FEBRERO DE 2011 LA PRESENTE FRACCION SEGUIRA VIGENTE.</small>
+
+VI. Las que en el año calendario anterior a aquel que se dictamina, hayan utilizado agua de fuentes diversas a la red de suministro del Distrito Federal y hayan efectuado las descargas de este líquido en la red de drenaje.
 
 Las personas físicas y morales que no se encuentren en alguno de los supuestos señalados en las fracciones de este artículo, tendrán la opción de hacer dictaminar el cumplimiento de sus obligaciones fiscales.
 
@@ -2952,9 +2956,11 @@ b). En el caso de tomas de agua consideradas para efectos de este Código como d
 
 Para efectos de la presente fracción, el Sistema de aguas hará llegar a los usuarios, la boleta por derechos de suministro de agua, especificando la cantidad a pagar de cuota fija bimestral, de acuerdo a la Gaceta Oficial del Distrito Federal vigente.
 
-> <small>(REFORMADA EN SUS CUOTAS, G.O. 30 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], G.O. 14 DE FEBRERO DE 2011)</small>
 
-Diámetro de la toma en milímetros Cuota Fija Bimestral expresada en pesos
+Diámetro de la toma en milímetros Cuota Fija Bimestral
+
+expresada en pesos
 
 13 1,890.00
 
@@ -2985,6 +2991,10 @@ MAS DE 200 A 250 3,987,211.00
 MAS DE 250 A 300 4,704,713.50
 
 MAS DE 300 EN ADELANTE 4,990,394.50
+
+> <small>(ADICIONADO, G.O. 14 DE FEBRERO DE 2011)</small>
+
+Para efectos de la presente fracción, el Sistema de Aguas hará llegar a los usuarios, la boleta por derechos de suministro de agua, especificando la cantidad a pagar de cuota fija bimestral, de acuerdo a la Gaceta Oficial del Distrito Federal vigente.
 
 La autoridad fiscal, a solicitud del contribuyente, recibirá los pagos bimestrales de los derechos a que se refiere esta fracción, con el carácter de provisionales, debiendo efectuarse los ajustes correspondientes cuando el aparato medidor se instale, repare o posibilite su lectura, a partir de la fecha en que se hubiere solicitado su instalación, reparación o lectura, ya sea para que los contribuyentes cubran la diferencia que resulte a su cargo o bien para que puedan acreditar contra pagos posteriores la cantidad que pagaron de más.
 
@@ -3117,6 +3127,8 @@ a). De tomas de válvula del tipo cuello de garza, el 40% de la cuota prevista e
 > <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2010)</small>
 
 b). Cuando exista toma y medidor en el inmueble -$28.50 por m3:
+
+> <small>(ADICIONADO [N. DE E. REPUBLICADO], G.O. 14 DE FEBRERO DE 2011)</small>
 
 c). Cuando se surta en camiones cisternas para su comercialización, incluyendo el transporte en el Distrito Federal, el 50% de la cuota prevista en el inciso b) de la fracción I de este artículo.
 
@@ -3282,9 +3294,11 @@ III. Por la evaluación del estudio de riesgo ambiental - $12,707.00
 
 IV. Por el dictamen técnico sobre daños ambientales o lesiones, daños y perjuicios ocasionados a personas, por infracciones a la Ley o al Reglamento de la materia -$7,037.00
 
-> <small>(REFORMADA EN SU CUOTAS, G.O. 30 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA EN SU CUOTA, G.O. 30 DE DICIEMBRE DE 2010)</small>
 
 V. Por la certificación, acreditación y autorización a personas físicas y/o morales para la comercialización y/o instalación de sistemas, equipos y dispositivos de control de emisiones - $4,506.00
+
+> <small>(REFORMADO EN SU CUOTA, G.O. 30 DE DICIEMBRE DE 2010)</small>
 
 a). Para el caso de las renovaciones anuales de certificación, acreditación y autorización serán de - $1,125.00
 
@@ -5368,13 +5382,15 @@ No se pagará el derecho que establece el párrafo anterior, cuando las autorida
 
 Están exentos del pago de derechos establecidos en este precepto, los bienes de dominio público del Distrito Federal y los sujetos al régimen de dominio público de la Federación.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 14 DE FEBRERO DE 2011)</small>
+
 ###### ARTICULO 235.
 
-Por los servicios de expedición de certificaciones, licencias, estudios y dictamen que a continuación se indican, se cubrirán por concepto de derechos, las siguientes cuotas:
+Por los servicios de expedición de certificados, licencias, estudios y dictamen que a continuación se indican, se cubrirán por concepto de derechos, las siguientes cuotas:
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 30 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, G.O. 14 DE FEBRERO DE 2011)</small>
 
-I. Por certificación de zonificación para uso específico, certificación de zonificación para usos del suelo permitidos y certificación de acreditación de uso del suelo por derechos adquiridos, por cada una - $1,041.00
+I. Por certificado de acreditación de uso del suelo por derechos adquiridos, por cada uno - $1,041.00
 
 II. Por el dictamen de estudio de impacto urbano que efectúe la autoridad competente, modificación o su prórroga:
 
@@ -5386,9 +5402,9 @@ a). En los proyectos de vivienda que tengan más de 10,000 metros cuadrados de c
 
 b). En los proyectos que incluyan oficinas, comercios, industrias, servicios o equipamientos, por más de 5,000 metros cuadrados de construcción, así como las estaciones de servicio de combustibles y crematorios - $4,344.00
 
-> <small>(REFORMADA EN SU CUOTA, G.O. 30 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, G.O. 14 DE FEBRERO DE 2011)</small>
 
-III. Por certificado único de uso de suelo específico y factibilidades - $826.00
+III. Por certificado único de zonificación de uso del suelo - $826.00
 
 > <small>(REFORMADA EN SU CUOTA, G.O. 30 DE DICIEMBRE DE 2010)</small>
 
@@ -6686,7 +6702,9 @@ I. Presentar identificación oficial, con la que se acredite que se trata de un 
 
 II. Ser propietario del inmueble en que habite, respecto del cual se aplicará única y exclusivamente la reducción;
 
-III. Que el inmueble respecto del cual se solicita la reducción se ubica dentro de las colonias catastrales 0, 1, 2, 3 y 8, a que se refiere el artículo 172 del Código;
+> <small>(REFORMADA, G.O. 14 DE FEBRERO DE 2011)</small>
+
+III. Que el inmueble respecto del cual se solicita la reducción se ubica dentro de las colonias catastrales 0, 1, 2, 3 y 8 y las manzanas clasificadas como Popular y Baja a las que se refiere el artículo 172 del Código;
 
 > <small>(REFORMADA EN SU CUOTA, G.O. 30 DE DICIEMBRE DE 2010)</small>
 
@@ -7237,6 +7255,12 @@ La Asamblea Legislativa autorizará la afectación o retención de participacion
 ###### ARTICULO 322.
 
 Se considerarán como ingresos locales del Distrito Federal los derivados del Sistema Nacional de Coordinación Fiscal, de conformidad con el Acuerdo o Convenio de Coordinación que al efecto se celebre, y la legislación aplicable.
+
+> <small>(ADICIONADO, G.O. 14 DE FEBRERO DE 2011)</small>
+
+###### ARTICULO 322 Bis.
+
+Las multas que perciba el Distrito Federal como consecuencia de actos regulados por la Ley, Acuerdos o Convenios de Coordinación Fiscal, Acuerdos Administrativos y cualquier otro instrumento jurídico, podrán ser destinadas a los fines y en los montos que la Secretaría determine, mediante acuerdo de carácter administrativo para elevar la productividad.
 
 ### CAPITULO UNICO. Del Pago de Devoluciones
 
@@ -10539,3 +10563,11 @@ Tratándose del trámite de actualización de datos catastrales mediante avalúo
 Tratándose de personas físicas que tengan créditos fiscales derivados del impuesto predial, y a la fecha el adeudo fiscal generado sea para el contribuyente exorbitante, ruinoso y confiscatorio, resultado de haber realizado la autodeterminación de su inmueble a que se refiere el artículo 127 de este Código, entre los años 2006 y 2010, y que de dicha autodeterminación hayan derivado diferencias que impliquen el incremento del crédito fiscal para inmuebles cuyo valor catastral del inmueble no exceda de la cantidad de $2,000,000.00 el Gobierno del Distrito Federal, a través de la Tesorería implementará un programa de condonación de esos créditos fiscales durante el ejercicio 2011, siempre y cuando éstos créditos hayan sido generados por las circunstancias aludidas.
 
 El programa a que se refiere el párrafo anterior, deberá implementarse dentro de los primeros dos meses del ejercicio fiscal 2011. Se entenderá que el crédito fiscal es exorbitante, ruinoso y confiscatorio, cuando éste rebase dos salarios mensuales netos percibidos por el contribuyente que solicita el beneficio, quien lo deberá acreditar con la constancia de percepciones correspondiente, o en su caso, con un estudio socioeconómico expedido por la autoridad delegacional correspondiente.
+
+G.O. 14 DE FEBRERO DE 2011.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal para su debida observancia y aplicación.
+
+SEGUNDO.- Con el objeto de brindar certeza jurídica respecto de la vigencia de las fracciones IV y VI del artículo 58 del Código Fiscal, con la publicación del presente Decreto se confirma que es correcto el texto de la reforma al artículo 58 en lo que se refiere a sus cuotas, como aparece publicado en el Decreto por el que se reforman, adicionan y derogan diversas disposiciones del Código Fiscal del Distrito Federal, no así el intríngulis de dicho Decreto, que erróneamente señala que se derogan las fracciones IV y VI; por lo que se aclara que el texto de dichas fracciones sigue vigente.
+
+TERCERO.- El presente decreto entrará en vigor al día siguiente de su publicación.
