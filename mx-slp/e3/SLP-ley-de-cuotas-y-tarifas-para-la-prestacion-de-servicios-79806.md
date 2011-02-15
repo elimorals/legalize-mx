@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-cuotas-y-tarifas-para-la-prestacion-de-servicios-79806"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-30"
-last_updated: "2010-12-30"
+last_updated: "2011-02-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=79806&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SLP"
 ---
 # LEY DE CUOTAS Y TARIFAS PARA LA PRESTACION DE SERVICIOS PUBLICOS DEL ORGANISMO OPERADOR INTERMUNICIPAL METROPOLITANO DE AGUA POTABLE, ALCANTARILLADO, SANEAMIENTO Y SERVICIOS CONEXOS DE LOS MUNICIPIOS DE CERRO DE SAN PEDRO, SAN LUIS POTOSI Y SOLEDAD DE GRACIANO SANCHEZ, SAN LUIS POTOSI
 
-LEY DE CUOTAS Y TARIFAS PARA LA PRESTACION DE SERVICIOS PUBLICOS DEL ORGANISMO OPERADOR INTERMUNlCIPAL METROPOLITANO DE AGUA POTABLE, ALCANTARILLADO, SANEAMIENTO Y SERVICIOS CONEXOS DE LOS MUNICIPIOS DE CERRO DE SAN PEDRO, SAN LUIS POTOSI Y SOLEDAD DE GRACIANO SANCHEZ, S.LP.
+LEY DE CUOTAS Y TARIFAS PARA LA PRESTACIÓN DE SERVICIOS PÚBLICOS DEL ORGANISMO OPERADOR INTERMUNlCIPAL METROPOLITANO DE AGUA POTABLE, ALCANTARILLADO, SANEAMIENTO Y SERVICIOS CONEXOS DE LOS MUNICIPIOS DE CERRO DE SAN PEDRO, SAN LUIS POTOSÍ Y SOLEDAD DE GRACIANO SANCHEZ, S.LP.
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE FEBRERO DE 2011.
 
 Ley publicada en la edición extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 30 de diciembre de 2010.
 
@@ -113,6 +113,8 @@ Las cuotas anteriores son independientes de los costos derivados por los trabajo
 
 El pago derivado del suministro de agua potable de uso mínimo (cuota fija) se causará bimestralmente, conforme a las siguientes clasificaciones y tarifas:
 
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2011)</small>
+
 Zona
 
 Económica Popular Económica Económica Residencial
@@ -121,23 +123,21 @@ SGS y CSP S.L.P.
 
 Uso doméstico
 
-Bimestral $ 75.32 $ 119.75 $ 150.03 $ 441.06
+Bimestral $ 79.26 $ 126.02 $ 157.89 $ 464.13
 
 Otros Usos Tarifa
 
 Instituciones Públicas
 
-Pequeño $ 194.45
+Pequeño $ 204.63
 
-Mediano $ 626.51
+Mediano $ 659.29
 
-Grande $ 772.00
+Grande $ 812.38
 
-Uso Comercial
+Pequeño $ 329.98
 
-Pequeña $ 313.57
-
-Mediano y Grande $ 1,097.68
+Mediano y Grande $ 1,155.11
 
 El uso industrial se facturará por consumo de agua medido.
 
@@ -183,6 +183,8 @@ HASTA 250 $ 18.03
 
 HASTA 251 O MAS $ 21.89
 
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2011)</small>
+
 SERVICIOS MEDIDOS
 
 INSTITUCIONES PUBLICAS
@@ -193,19 +195,23 @@ BIMESTRAL POR M3 INSTITUCIONES PUBLICAS
 
 M3 TARIFA ZONA ECONOMICA TARIFA
 
-HASTA 30 $ 6.82 PEQUEÑO $ 194.45
+HASTA 30 $ 7.18 PEQUEÑO $ 204.63
 
-HASTA 50 $ 9.66 MEDIANO $ 626.51
+HASTA 50 $ 10.17 MEDIANO $ 659.29
 
-HASTA 100 $ 10.17 GRANDE $ 772.00
+HASTA 100 $ 10.70 GRANDE $ 812.38
 
-HASTA 160 $ 14.16
+HASTA 160 $ 14.90
 
-HASTA 200 $ 15.45
+HASTA 200 $ 16.26
 
-DE 220 EN
+HASTA 250 $ 25.07
 
-ADELANTE $ 23.82
+HASTA 251
+
+O SUPERIOR $ 27.37
+
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2011)</small>
 
 SERVICIO MEDIDO
 
@@ -217,75 +223,109 @@ BIMESTRAL POR M3 COMERCIAL
 
 M3 TARIFA ZONA ECONOMICA TARIFA
 
-HASTA 30 $ 9.39 PEQUEÑO $ 313.57
+HASTA 15 $ 9.88 PEQUEÑO $ 329.98
 
-HASTA 70 $ 11.07 MEDIANO Y
+HASTA 30 $ 9.88 MEDIANO Y
 
-GRANDE $ 1,097.68
+GRANDE $ 1,155.11
 
-HASTA 100 $ 11.20
+HASTA 70 $ 11.65
 
-HASTA 130 $ 15.45
+HASTA 100 $ 11.79
 
-HASTA 150 $ 16.74
+HASTA 110 $ 16.26
 
-HASTA 180 $ 18.77
+HASTA 150 $ 17.62
 
-HASTA 200 $ 19.31
+HASTA 180 $ 19.65
+
+HASTA 200 $ 20.32
 
 HASTA 201 y
 
-Superior $ 23.95
+SUPERIOR $ 25.20
+
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2011)</small>
+
+DISPONIBILIDAD DEL SERVICIO RECONEXION
+
+TARIFA CLASIFICACION TARIFA
+
+BIMESTRAL $ 46.06 DOMESTICO $ 135.50
+
+COMERCIAL $ 203.27
+
+INDUSTRIAL $ 271.03
+
+LIMITACION
+
+DRENAJE $ 612.56
+
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2011)</small>
 
 SERVICIO MEDIDO
 
 INDUSTRIAL
 
-RANGO DE CONSUMO TOTAL RECONEXION
+RANGO DE CONSUMO TOTAL
 
 BIMESTRAL POR M3
 
-M3 TARIFA CLASIFICACION TARIFA
+M3 TARIFA
 
-HASTA 30 $ 14.16 DOMESTICO $ 128.77
+HASTA 30 $ 14.90
 
-HASTA 50 $ 14.81 COMERCIAL $ 193.17
+HASTA 50 $ 15.58
 
-HASTA 100 $ 15.45 INDUSTRIAL $ 257.56
+HASTA 100 $ 16.26
 
-HASTA 120 $ 18.04 LIMITACION
+HASTA 120 $ 18.98
 
-DRENAJE $ 582.12
+HASTA 160 $ 19.65
 
-HASTA 160 $ 18.67
+HASTA 200 $ 20.99
 
-HASTA 200 $ 19.95
-
-HASTA 220* $ 22.47
+HASTA 220 $ 23.65
 
 HASTA 221
 
-O MAS* $ 23.40
+O SUPERIOR $ 24.62
 
-DISPONIBILIDAD DEL SERVICIO
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2011)</small>
 
-TARIFA
+CUOTA FIJA** TRIMESTRAL
 
-BIMESTRAL $ 43.77
+INDUSTRIAL
 
-A LAS CUOTAS Y TARIFAS DE SERVICIO DOMESTICO SE LES ADICIONARA
+CONCEPTO TARIFA
+
+DRENAJE
+
+ALCANTARILLADO $12,772.82
+
+SANITARIO
+
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2011)</small>
+
+A LAS CUOTAS Y TARIFAS DE TRATAMIENTO DE
+
+SERVICIO DOMESTICO AGUAS RESIDUALES $12,772.82
+
+SE LES ADICIONARA
 
 15% Servicio de drenaje o alcantarillado
 
-15% Servicio de tratamiento de aguas residuales
+20% Servicio de tratamiento de aguas residuales
 
 16% IVA. sobres (sic) los conceptos anteriores
+
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2011)</small>
 
 A LAS CUOTAS Y TARIFAS DE SERVICIO COMERCIAL, INDUSTRIAL Y PUBLICO, SE LES ADICIONARA
 
 15% Servicio de drenaje o alcantarillado
 
-15% Servicio de tratamiento de aguas residuales
+20% Servicio de tratamiento de aguas residuales
 
 16% l V.A. del monto total de la facturación
 
@@ -299,9 +339,13 @@ A la par de la actualización tarifaria establecida en el artículo once del pre
 
 El servicio de agua potable para autobaños, lavanderías, fábricas de hielo, baños públicos, embotelladoras y purificadoras de agua, centros recreativos y, en general, para comercios que notoriamente consumen altos volúmenes de agua, y que la utilizan como insumo principal y por el cual obtienen un beneficio económico, se pagará conforme a la tarifa industrial.
 
-La dotación de agua en pipas tendrá un costo de $27.81 por metro cúbico por agua potable.
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2011)</small>
 
-Los predios, lotes o casas deshabitadas y suspendidas con contrato, pagarán una tarifa bimestral de $43.77 por disponibilidad del servicio de agua potable, más el quince por ciento correspondiente al mantenimiento al drenaje, y veinte por ciento de saneamiento, a efecto de seguir manteniendo sus derechos de conexión a las redes correspondientes.
+La dotación de agua en pipas tendrá un costo de $27.35 por metro cúbico por agua potable.
+
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2011)</small>
+
+Los predios, lotes o casas deshabitadas y suspendidas con contrato, pagarán una tarifa bimestral de $46.06 por disponibilidad del servicio de agua potable, más el quince por ciento correspondiente al mantenimiento al drenaje, y veinte por ciento de saneamiento, a efecto de seguir manteniendo sus derechos de conexión a las redes correspondientes.
 
 Los pensionados, jubilados y afiliados al Instituto Nacional de las Personas Adultas Mayores (INAPAM), recibirán un subsidio del cincuenta por ciento en servicio doméstico, hasta un consumo de 45 m3 bimestrales, y el consumo adicional se cobrará de acuerdo a las tarifas publicadas, previa identificación, comprobante de domicilio ante el organismo operador, y estar al corriente en el pago de sus cuotas y tarifas.
 
@@ -327,9 +371,11 @@ Las instalaciones de líneas nuevas de agua potable que requieran los particular
 
 Las cuotas o tarifas por conexión a la red de drenaje o alcantarillado, se pagarán por un monto equivalente al quince por ciento de la cuota correspondiente por conexión a la red de agua potable, independientemente de los costos derivados por los trabajos necesarios para hacer la conexión a la red de drenaje.
 
+> <small>(REFORMADO PRIMER PARRAFO. P.O. 15 DE FEBRERO DE 2011)</small>
+
 ###### ARTICULO 9°.
 
-Para cubrir el servicio de drenaje o alcantarillado sanitario, se aplicará un quince por ciento sobre el monto del consumo del servicio de agua potable, y lo pagará el usuario en el recibo del agua. Los usuarios de este servicio que tengan como fuentes de abastecimiento un pozo u otra forma distinta de la red de agua potable a cargo del organismo operador, pagarán trimestralmente una cuota equivalente al quince por (sic) del importe que corresponda aplicando las tarifas autorizadas para este organismo que para cada tipo de uso se establecen en este decreto, en base al (sic) el volumen declarado por explotación o aprovechamiento de aguas nacionales, ante la Comisión Nacional del Agua, o del servicio que le otorgue la Comisión Estatal del Agua, o bien, en caso de no contar con equipo de medición en la fuente de aprovechamiento, o usuarios que se abastezcan por su cuenta permanentemente con suministro mediante pipas pagarán trimestralmente una cuota de $12,138.00 siempre y cuando las descargas no excedan los límites máximos permisibles de los parámetros conforme a la legislación y normatividad aplicable, o las que en su oportunidad el organismo operador determine.
+Para cubrir el servicio de drenaje o alcantarillado sanitario, se aplicará un quince por ciento sobre el monto del consumo del servicio de agua potable, y lo pagará el usuario en el recibo del agua. Los usuarios de este servicio que tengan como fuentes de abastecimiento un pozo u otra forma distinta de la red de agua potable a cargo del organismo operador, pagarán trimestralmente una cuota equivalente al quince por ciento del importe que corresponda aplicando las tarifas autorizadas para este organismo que para cada tipo de uso se establecen en este Decreto, en base al volumen declarado por explotación o aprovechamiento de aguas nacionales, ante la Comisión Nacional del Agua, o del servicio que le otorgue la Comisión Estatal del Agua, o bien, en caso de no contar con equipo de medición en la fuente de aprovechamiento, o usuarios que se abastezcan por su cuenta permanentemente con suministro mediante pipas pagarán trimestralmente una cuota de $12,772.82, siempre y cuando las descargas no excedan los límites máximos permisibles de los parámetros conforme a la legislación y normatividad aplicable, o las que en su oportunidad el organismo operador determine.
 
 Los trabajos de reposición de descargas al drenaje, cambio de tubería, supervisión y similares, los ejecutará el organismo operador, previa autorización del usuario del presupuesto respectivo y con cargo al recibo. Las conexiones, reconexiones, instalaciones y reparaciones en general, tanto de líneas drenaje, y descargas de aguas residuales las realizará el organismo operador. Si se concede autorización a particulares para que ellos realicen estos trabajos, ésta deberá ser por escrito y con especificaciones claras. Por la desobediencia a este mandato, el infractor se hará acreedor a una sanción equivalente a veinte días de salario mínimo general de la zona económica que corresponda.
 
@@ -389,29 +435,33 @@ Para la clasificación del tipo de vivienda, se considerará además, la zona de
 
 La integración de las cuotas de infraestructura es la siguiente:
 
-Tipo de vivienda (cuota en pesos)
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2011)</small>
 
 CONCEPTO Económica Tradicional Media Residencial
 
+$ $ $ $
+
 Conexión a la
 
-red de agua 2,841.00 3,810.00 5,076.00 11,153.00
+red de agua 3,004.77 4,030.12 5,402.92 11,796.12
 
 Conexión a la
 
 red de drenaje
 
-sanitario 426.00 571.00 766.00 11,153.00
+sanitario 450.43 604.35 810.33 1,768.91
 
 Suministro e
 
 instalación de
 
-medidor 438.00 438.00 438.00 438.00
+medidor 462.88 462.88 462.88 462.88
+
+Otros servicios de infraestructura
 
 Derechos de
 
-Extracción 1,956.00 3,006.00 3,755.00 5,253.00
+Extracción 2,068.82 3,179.05 3,971.27 5,555.71
 
 Infraestructura
 
@@ -421,11 +471,13 @@ Adicional
 
 equipamiento
 
-de pozo) 1,029.00 1,439.00 1,798.00 2,515.00
+de pozo) 1,088.73 1,522.19 1,901.32 2,659.59
+
+Tipo de vivienda (cuota en pesos)
 
 Para departamentos:
 
-Edificios (Cuota en pesos)
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2011)</small>
 
 CONCEPTO Económicos Tradicional Medio Residencial
 
@@ -435,25 +487,25 @@ hasta 66 m2) de 67 hasta (de 114 hasta
 
 Conexión a la
 
-red de agua 3,463.00 3,463.00 3,463.00
+red de agua 3,662.31 3,662.31 33,662.31
 
 Conexión a la
 
 red de drenaje
 
-sanitario 519.00 519.00 519.00
+sanitario 548.89 548.89 548.89
 
 Suministro e
 
 instalación de
 
-medidor 438.00 438.00 438.00
+medidor 462.88 462.88 462.88
 
 Otros servicios de infraestructura
 
 Derechos de
 
-Extracción 1,956.00 3,006.00 5,253.00
+Extracción 2,068.82 3,179.05 5,555.71
 
 Infraestructura
 
@@ -463,9 +515,101 @@ Adicional
 
 Equipamiento
 
-de pozo) 1,029.00 1,439.00 2,515
+de pozo) 1,088.73 1,522.19 2,659.59
 
-Por cada metro cuadrado (m2) adicional, la cuota o tarifa es $67.69 más IVA.
+Total 7,831.63 9,375.33 12,889.38
+
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2011)</small>
+
+del área de factibilidad, la cuota por infraestructura adicional está sujeta a que se construyan las obras de infraestructura hidráulica que técnicamente estime necesarias el Interapas, para hacer factible la prestación de los servicios de los nuevos fraccionamientos o desarrollos urbanos.
+
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2011)</small>
+
+Las cuotas del estudio de factibilidad para la prestación de los servicios públicos de agua potable y drenaje sanitario son las siguientes:
+
+UBICACIÓN RANGO DE TOMAS
+
+1-25 26-50 51-100 101-500 501-MAS
+
+Dentro del área
+
+Factible 3,173.00 5,288.00 8,462.00 15,865.00 20,154.00
+
+(pesos)
+
+Fuera del área
+
+Factible 5,288.00 8,462.00 12,692.00 21,154.00 31,731.00
+
+(pesos)
+
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2011)</small>
+
+Los montos a que se refiere la tabla anterior son más I.V.A., y el pago de los mismos se harán dentro de los diez días siguientes a la notificación de la Resolución del Estudio de Factibilidad.
+
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2011)</small>
+
+###### ARTICULO 16.
+
+Fraccionadores con desarrollos fuera del área de factibilidad.
+
+Los fraccionadores con desarrollos fuera del área de factibilidad de la prestación de los servicios, se apegarán en lo conducente a lo establecido en el Capítulo II del Título Sexto de la Ley de Aguas para el Estado de San Luis Potosí, por lo cual el organismo operador les indicará las obras de infraestructura hidráulicas adicionales, que técnicamente se estimen necesarias para hacer factible la prestación de los servicios, debiéndose aceptar por escrito, sin que con ello genere contraprestación alguna a su favor; además, deberá cubrir las cuotas o tarifas y aportaciones por derechos de extracción, establecidas para los fraccionadores con desarrollo ubicados dentro del área de factibilidad.
+
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2011)</small>
+
+###### ARTICULO 17.
+
+Pago y plazos de cuotas o tarifas.
+
+El pago de las cuotas de conexión a las redes de agua y drenaje sanitario, medidores y aportaciones por extracción de derechos de agua e infraestructura adicional, se deberá realizar dentro de los siguientes quince días hábiles, a partir de la notificación de la aprobación del proyecto hidráulico y sanitario por parte del organismo operador, y se podrá realizar en una sola exhibición o convenir su pago.
+
+El organismo operador no podrá autorizar la conexión a las redes de agua potable y drenaje sanitario, cuando existan adeudos por conceptos de cuotas de conexión y aportaciones por derechos de extracción e infraestructura adicional.
+
+Los plazos para el pago del resto del monto de las cuotas o tarifas de las factibilidades autorizadas cuando se realice por convenio, se sujetarán a lo siguiente:
+
+Tomas de Agua y Drenaje Sanitario Plazo Máximo
+
+(rango) (meses)
+
+1 a 100 3
+
+101 a 250 6
+
+251 a 500 9
+
+501 a más 12
+
+El pago mínimo inicial para efectos de convenio será de 30% del monto total de las cuotas y aportaciones.
+
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2011)</small>
+
+###### ARTICULO 18.
+
+Para efectos de la conexión de las obras de cabecera de agua potable y drenaje sanitario a la red municipal existente dentro del área de factibilidad de la prestación de los servicios, los fraccionadores están obligados a construir líneas de conexión hasta 200 metros; si la distancia es mayor a la señalada, el organismo operador será el responsable de su construcción a fin de complementar las redes faltantes, para que se tenga la infraestructura para abastecimiento, desalojo y descarga de aguas residuales de cada desarrollo habitacional.
+
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2011)</small>
+
+###### ARTICULO 19.
+
+Cuando el desarrollo habitacional se realice por etapas, el fraccionador o urbanizador deberá apegarse al programa de construcción de obras hidráulicas y sanitarias propuesto por el fraccionador y autorizado por el organismo operador, y solamente se establece el compromiso de proporcionar los servicios de agua potable y drenaje sanitario, hasta que se realice la entrega-recepción de la infraestructura hidráulica y sanitaria correspondiente a cada etapa y se dé de alta en el Padrón de Usuarios.
+
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2011)</small>
+
+###### ARTICULO 20.
+
+La conexión a los servicios de agua potable, drenaje y saneamiento sin autorización por parte del prestador de los servicios, o el incumplimiento a las disposiciones legales, dará lugar a la cancelación de la factibilidad, independientemente de las sanciones aplicables o de los procedimientos legales a que haya lugar, y serán responsables los fraccionadores de la afectación a terceros por falta de los servicios.
+
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2011)</small>
+
+###### ARTICULO 21.
+
+Procederá la cancelación parcial o total de factibilidades en caso de incumplimiento a la ley y a los convenios establecidos correspondientes, los cuales quedarán suspendidos por dos años a partir del día siguiente que se notifique dicha cancelación, los trámites para factibilidad de conexión a las líneas de agua potable y drenaje sanitario. Esto aplica tanto para el predio, como para la persona física o moral involucrada en las cancelaciones.
+
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2011)</small>
+
+###### ARTICULO 22.
+
+A las cuotas y tarifas anteriores expresadas en este Decreto, se les adicionará el 16% Impuesto al Valor Agregado que se cause, de conformidad con la ley en la materia.
 
 ## TRANSITORIOS
 
@@ -494,3 +638,11 @@ El Secretario General de Gobierno
 Lic. Marco Antonio Aranda Martínez
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 15 DE FEBRERO DE 2011.
+
+PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
