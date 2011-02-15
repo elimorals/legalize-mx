@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-cuotas-y-tarifas-para-la-prestacion-de-servicios-80084"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-30"
-last_updated: "2010-12-30"
+last_updated: "2011-02-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80084&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE CUOTAS Y TARIFAS PARA LA PRESTACION DE SERVICIOS PUBLICOS DE LA DIRECCION DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DE SAN CIRO DE ACOSTA; S.L.P.
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE FEBRERO DE 2011.
 
 Ley publicada en la Edición Extraordinaria al Periódico Oficial del Estado de San Luis Potosí, el jueves 30 de diciembre de 2010.
 
@@ -43,33 +43,37 @@ LEY DE CUOTAS Y TARIFAS PARA LA PRESTACION DE SERVICIOS PUBLICOS DE LA DIRECCION
 
 ### CAPITULO PRIMERO. DE LA CONTRATACION DE LOS SERVICIOS
 
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2011)</small>
+
 ###### ARTICULO 1°.
 
-Los derechos por conexión a las líneas de agua potable y alcantarillado en áreas que ya cuentan con el servicio será de:
+Los derechos por conexión a las líneas de agua potable y alcantarillado en áreas que ya cuentan con el servicio, se cubrirán en salarios mínimos conforme a lo siguiente:
 
-Clasificación del Servicio Agua Potable($) Alcantarillado($)
+Clasificación del Servicio Agua Potable SM* Alcantarillado SM*
 
-Servicio Doméstico 2.00 5.00
+Servicio Doméstico 2 5
 
-Servicios Públicos 2.00 5.00
+Servicios Públicos 2 5
 
-Servicio Comercial 3.00 6.00
+Servicio Comercial 3 6
 
-Servicio Industrial 4.00 6.00
+Servicio Industrial 4 6
+
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2011)</small>
 
 ###### ARTICULO 2°.
 
-La contratación de la instalación del servicio de Agua Potable y Alcantarillado entre el Organismo Operador y los Usuarios, será de acuerdo a las siguientes tarifas y clasificación:
+La contratación de la instalación del servicio de agua potable y alcantarillado entre el organismo operador y los usuarios, se cubrirá en salarios mínimos de acuerdo a la siguiente clasificación:
 
-Clasificación del Servicio Agua PotabIe($) Alcantarillado($)
+Clasificación del Servicio Agua PotabIeSM* AlcantarilladoSM*
 
-Servicio Doméstico 2.00 5.00
+Servicio Doméstico 2 5
 
-Usos Públicos 2.00 5.00
+Usos Públicos 2 5
 
-Servicio Comercial 3.00 6.00
+Servicio Comercial 3 6
 
-Servicio Industrial 4.00 6.00
+Servicio Industrial 4 6
 
 ###### ARTÍCULO 3°.
 
@@ -78,6 +82,10 @@ El costo de contratación de Agua Potable, se establece para tomas de media pulg
 ###### ARTICULO 4°.
 
 Los trabajos de instalación de abrazadera, medidor y perforación del tubo de distribución para la conexión a la red de agua tendrá un costo de 3 SM* para servicio domestico y usos públicos, 5 SM* para servicio comercial y 7 SM* para servicio industrial, los trabajos de re conexión tendrá una tarifa de 2 SM*, los trabajos de supervisión 2 SM*·y los demás similares, los efectuará el Organismo Operador, previo el pago del presupuesto respectivo, incluyendo materiales, mano de obra y repavimentación en su caso. Los trabajos del alcantarillado relativo a instalación, conexión, re conexión, supervisión y similar, los efectuará el Organismo Operador, previo el pago del presupuesto respectivo, incluyendo materiales, mano de obra y repavimentación en su caso; de hacerlo por su cuenta el usuario, deberá ser autorizado previamente y supervisado por el Organismo Operador, hasta su terminación.
+
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2011)</small>
+
+Para los efectos de este Decreto las siglas SM se refieren a Salario Mínimo.
 
 ###### ARTICULO 5°.
 
@@ -334,3 +342,11 @@ El Secretario General de Gobierno
 Lic. Marco Antonio Aranda Martínez
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 15 DE FEBRERO DE 2011.
+
+PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
