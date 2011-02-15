@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-cuotas-y-tarifas-para-la-prestacion-de-servicios-79801"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-30"
-last_updated: "2010-12-30"
+last_updated: "2011-02-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=79801&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SLP"
 ---
 # LEY DE CUOTAS Y TARIFAS PARA LA PRESTACION DE SERVICIOS PUBLICOS DE LA DIRECCION DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DE TAMAZUNCHALE, SAN LUIS POTOSI
 
-LEY DE CUOTAS Y TARIFAS PARA LA PRESTACION DE SERVICIOS PUBLICOS DE LA DlRECCION DE AGUA POTABLE, ALCANTARlLLADO Y SANEAMIENTO DE TAMAZUNCHALE, S.L.P.
+LEY DE CUOTAS Y TARIFAS PARA LA PRESTACIÓN DE SERVICIOS PÚBLICOS DE LA DlRECCIÓN DE AGUA POTABLE, ALCANTARlLLADO Y SANEAMIENTO DE TAMAZUNCHALE, S.L.P.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE FEBRERO DE 2011.
 
 Ley publicada en edición extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 30 de diciembre de 2010.
 
@@ -585,7 +585,9 @@ I. Por reinstalación en caso de corte
 
 Del servicio de agua o alcantarillado el costo será $250.00
 
-II. Por Supresión de obras se cobrará el 1.5% del costo total
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2011)</small>
+
+II. Por Supresión de obras se cobrará el 5% del costo total
 
 de la obra
 
@@ -593,7 +595,7 @@ III. Por derivaciones se pagará mensualmente la
 
 Cuota establecida para cada servicio de acuerdo con su uso
 
-IV. Cartas de factibilidad de servicios para fraccionadores
+IV., Cartas de factibilidad de servicios para fraccionadores
 
 y/o Urbanizadores el costo será $2,500.00
 
@@ -730,3 +732,11 @@ El Secretario General de Gobierno
 Lic. Marco Antonio Aranda Martínez
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 15 DE FEBRERO DE 2011.
+
+PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
