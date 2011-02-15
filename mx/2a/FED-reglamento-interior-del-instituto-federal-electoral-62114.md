@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-instituto-federal-electoral-62114"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-08-11"
-last_updated: "2010-08-06"
+last_updated: "2011-02-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62114&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2008-07-10"
 
 REGLAMENTO INTERIOR DEL INSTITUTO FEDERAL ELECTORAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE AGOSTO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE FEBRERO DE 2011.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 11 de agosto de 2008.
 
@@ -1035,7 +1035,13 @@ h) Formular los estudios y, en su caso, los proyectos de convenio a que se refie
 
 i) Las demás que le confiera el Código y otras disposiciones aplicables.
 
-j) (DEROGADO, D.O.F. 6 DE AGOSTO DE 2010)
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 15 DE FEBRERO DE 2011)</small>
+
+j) Desarrollar las acciones necesarias para asegurar que las Comisiones de Vigilancia, Nacional, Locales y Distritales se integren, sesionen y funcionen en los términos previstos en el Código y conforme a la normativa que para la administración de recursos humanos, financieros y materiales se emitan; y
+
+> <small>(ADICIONADO, D.O.F. 15 DE FEBRERO DE 2011)</small>
+
+k) Las demás que le confiera el Código y otras disposiciones aplicables.
 
 ### Capítulo Segundo. De la Secretaría Ejecutiva
 
@@ -1259,7 +1265,45 @@ d) Solicitar y realizar las gestiones necesarias a efecto de que el Secretario E
 
 e) Coadyuvar con la Dirección Ejecutiva de Capacitación Electoral y Educación Cívica en el diseño e instrumentación de las campañas institucionales; y
 
-f) Las demás que le confiera el Código y otras disposiciones aplicables.
+> <small>(REFORMADO, D.O.F. 15 DE FEBRERO DE 2011)</small>
+
+f) Atender y emitir una respuesta oportuna debidamente fundada y motivada a las opiniones, solicitudes y acuerdos de recomendación que por escrito presenten las Comisiones de Vigilancia;
+
+> <small>(ADICIONADO, D.O.F. 15 DE FEBRERO DE 2011)</small>
+
+g) Emitir los procedimientos para la aplicación de las técnicas disponibles, en los términos previstos en el artículo 177 párrafo 1 del Código;
+
+> <small>(ADICIONADO, D.O.F. 15 DE FEBRERO DE 2011)</small>
+
+h) Emitir los procedimientos para la aplicación de las verificaciones al Padrón Electoral y operativos de campo similares;
+
+> <small>(ADICIONADO, D.O.F. 15 DE FEBRERO DE 2011)</small>
+
+i) Emitir los mecanismos y procedimientos para la inscripción de los ciudadanos al Padrón Electoral y lista nominal de electores, así como la actualización de estos instrumentos;
+
+> <small>(ADICIONADO, D.O.F. 15 DE FEBRERO DE 2011)</small>
+
+j) Definir los procedimientos para la depuración integral del Padrón Electoral,
+
+> <small>(ADICIONADO, D.O.F. 15 DE FEBRERO DE 2011)</small>
+
+k) Establecer la planeación operativa de las campañas de actualización del Padrón Electoral, a efecto de definir el número, ubicación, tipología, rutas de cobertura, distribución, fechas y horarios de los módulos de atención ciudadana;
+
+> <small>(ADICIONADO, D.O.F. 15 DE FEBRERO DE 2011)</small>
+
+l) Emitir los procedimientos para la atención ciudadana que se brinda a través del sistema nacional de consulta electoral, respecto de los trámites de inscripción y actualización del Padrón Electoral y la entrega de credenciales para votar con fotografía;
+
+> <small>(ADICIONADO, D.O.F. 15 DE FEBRERO DE 2011)</small>
+
+m) Emitir los procedimientos para la inscripción de ciudadanos residentes en el extranjero y la elaboración de las listas nominales de electores correspondientes;
+
+> <small>(ADICIONADO, D.O.F. 15 DE FEBRERO DE 2011)</small>
+
+n) Informar a la Comisión del Registro Federal de Electores en cada sesión ordinaria sobre la atención brindada a las opiniones, solicitudes y acuerdos de recomendación que por escrito presenten las Comisiones de Vigilancia; y
+
+> <small>(ADICIONADO, D.O.F. 15 DE FEBRERO DE 2011)</small>
+
+ñ) Las demás que le confiera el Código y otras disposiciones aplicables.
 
 2. El IFETEL será el órgano encargado de brindar a la ciudadanía información en posesión del Instituto, por medio de consultas telefónicas, así como recibir inconformidades, quejas, sugerencias y reconocimientos sobre el desarrollo de los procesos o la actuación de las autoridades electorales; y estará adscrito a la Dirección Ejecutiva del Registro Federal de Electores.
 
@@ -1537,7 +1581,7 @@ m) Proporcionar el apoyo necesario a las Juntas Distritales para el resguardo de
 
 > <small>(ADICIONADO, D.O.F. 16 DE ENERO DE 2009)</small>
 
-n) Recibir, dar trámite y, en su caso, sustanciar los medios de impugnación que se interpongan en términos de lo establecido en la ley de la materia; y
+n) Recibir, dar trámite y, en su caso, sustanciar los medios de impugnación que se interpongan en términos de lo establecido en la ley de la materia; y (sic)
 
 ñ) Las demás que les confiera el Código y otras disposiciones aplicables.
 
@@ -2145,39 +2189,189 @@ n) Emitir acuerdos y criterios en materia de acceso a la radio y la televisión 
 
 ñ) Las demás que le confiera el Código, el Reglamento de Acceso a Radio y Televisión en Materia Electoral, el Consejo General y demás disposiciones aplicables.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 16 DE ENERO DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 15 DE FEBRERO DE 2011)</small>
 
-## Título Quinto. De los Organos de Vigilancia Centrales
+## Título Quinto. De los Organos de Vigilancia
 
-### Capítulo Primero. De la Comisión Nacional de Vigilancia
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 15 DE FEBRERO DE 2011)</small>
+
+### Capítulo Primero. De la Integración de las Comisiones de Vigilancia, Nacional, Locales y Distritales
+
+> <small>(REFORMADO, D.O.F. 15 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 71.
 
-1. La Comisión Nacional de Vigilancia es el órgano encargado de coadyuvar en que los trabajos relativos al Padrón Electoral se cumplan cabalmente.
+1. La Comisión Nacional de Vigilancia se integrará por:
 
-2. Para su organización y funcionamiento deberá atenderse a lo dispuesto en el Código y en el Reglamento de la materia que, para tales efectos, expida el Consejo.
+a) El Director Ejecutivo del Registro Federal de Electores, quien lo presidirá;
 
-3. La Comisión Nacional de Vigilancia se integrará por el Director Ejecutivo del Registro Federal de Electores, quien lo presidirá; un representante propietario y un suplente por cada Partido Político Nacional, un secretario designado por el Presidente de la Comisión de entre los miembros del Servicio Profesional Electoral con funciones en el área registral y un representante del Instituto Nacional de Estadística, Geografía e Informática.
+b) Un representante propietario y un suplente por cada Partido Político Nacional;
 
-4. El Comité Nacional de Supervisión y Evaluación es el órgano auxiliar técnico-operativo de la Comisión Nacional de Vigilancia; para su organización y funcionamiento se estará a lo dispuesto en el Reglamento de Sesiones y Funcionamiento de las Comisiones de Vigilancia del Registro Federal de Electores.
+c) Un Secretario designado por el Presidente de la Comisión de entre los miembros del Servicio Profesional Electoral con funciones en el área registral; y
+
+d) Un representante del Instituto Nacional de Estadística, Geografía e Informática.
+
+En caso de ausencia temporal del Presidente, éste será sustituido por el Secretario de la Comisión.
+
+2. La Comisión Local de Vigilancia se integrará por:
+
+a) Un Presidente, que será el Vocal del Registro Federal de Electores;
+
+b) Un representante propietario y un suplente por cada partido político nacional; y
+
+c) Un secretario designado por su Presidente, de entre los miembros del Servicio Profesional Electoral con funciones en el área registral.
+
+En caso de ausencia temporal del Presidente, éste podrá ser sustituido por el Vocal Ejecutivo de la Junta Local respectiva.
+
+3. La Comisión Distrital de Vigilancia se integrará por:
+
+a) Un Presidente, que será el Vocal del Registro Federal de Electores;
+
+b) Un representante propietario y un suplente por cada partido político nacional; y
+
+c) Un secretario designado por su Presidente de entre los miembros del Servicio Profesional Electoral con funciones en el área registral.
+
+En caso de ausencia temporal del Presidente, éste podrá ser sustituido por el Vocal Ejecutivo de la Junta Distrital respectiva.
+
+4. Los partidos políticos deberán acreditar oportunamente a sus representantes ante la Comisión Nacional de Vigilancia y ante las Comisiones Locales y Distritales, los cuales podrán ser sustituidos en todo tiempo.
 
 Delegacionales
 
-> <small>(REFORMADA SU NUMERACION [N. DE E. ANTES CAPITULO TERCERO], D.O.F. 16 DE ENERO DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 15 DE FEBRERO DE 2011)</small>
 
-### Capítulo Segundo. De las Comisiones Locales de Vigilancia
+### Capítulo Segundo. De las atribuciones de las Comisiones de Vigilancia
+
+> <small>(REFORMADO, D.O.F. 15 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 72.
 
-1. La Comisión Local de Vigilancia se integrará por un Presidente, que será el Vocal del Registro Federal de Electores, un representante propietario y un suplente por cada partido político nacional y un secretario designado por su Presidente.
+1. Para el desarrollo de las atribuciones de las Comisiones Nacional, Locales y Distritales de Vigilancia se entenderá por:
 
-> <small>(REFORMADA SU NUMERACION [N. DE E. ANTES CAPITULO CUARTO], D.O.F. 16 DE ENERO DE 2009)</small>
+a) Coadyuvar: Contribuir, asistir o ayudar a la Dirección Ejecutiva del Registro Federal de Electores en las actividades que se señalen en los artículos siguientes;
 
-### Capítulo Tercero. De las Comisiones Distritales de Vigilancia
+b) Vigilar: Supervisar, evaluar y revisar que la actuación de la Dirección Ejecutiva del Registro Federal de Electores en las actividades que se señalen en los artículos siguientes, se lleve a cabo en los términos del Código, el presente Reglamento y la normatividad aplicable; y
+
+c) Conocer y Opinar: recabar información, ya sea por sus actividades de vigilancia, por solicitudes o a través de la proporcionada por la Dirección Ejecutiva del Registro Federal de Electores, respecto de las actividades que se señalen en los artículos siguientes, y emitir, en el ámbito de su competencia, observaciones y una valoración por escrito sobre las mismas.
+
+2. Para el cumplimiento de las atribuciones generales que el Código les confiere, corresponde a las Comisiones Nacional, Locales y Distritales de Vigilancia, lo siguiente:
+
+a) Solicitar a la Dirección Ejecutiva del Registro Federal de Electores o a las Juntas Locales y Distritales, según corresponda, someta a consideración de la Junta General Ejecutiva el acuerdo para que se aplique la técnica censal parcial, ya sea en una sección o distrito electoral;
+
+b) Conocer, opinar y vigilar los operativos de campo de la Dirección Ejecutiva del Registro Federal de Electores, incluidos aquellos para la aplicación de las técnicas censales;
+
+c) Recibir las relaciones de los nombres de los ciudadanos cuyas solicitudes de trámite ante el Registro Federal de Electores hubiesen sido canceladas por no haber recogido la credencial para votar con fotografía, para su conocimiento y observaciones, así como vigilar el retiro, resguardo y la posterior destrucción de dichos formatos, atendiendo a la normatividad de la materia que se emita para tales efectos;
+
+d) Recibir para su conocimiento, las relaciones con los nombres de los ciudadanos que hayan causado baja del Padrón Electoral y hayan sido suspendidos o rehabilitados de sus derechos políticos por resolución judicial y que serán excluidos o reincorporados al Padrón Electoral;
+
+e) Vigilar la inscripción de los ciudadanos en el Padrón Electoral y las listas nominales de electores, así como la actualización de dichos instrumentos;
+
+f) Vigilar que las Credenciales para Votar con Fotografía se entreguen oportunamente a los ciudadanos, atendiendo a la normatividad de la materia que se emita para tales efectos;
+
+g) Solicitar informes a la Dirección Ejecutiva del Registro Federal de Electores, respecto del proceso de entrega de las credenciales para votar con fotografía y de la inscripción y actualización de los ciudadanos en las listas nominales de electores;
+
+h) Recibir de los partidos políticos las observaciones que formulen a las listas nominales de electores;
+
+i) Coadyuvar en las campañas de actualización del Padrón Electoral, para lo cual podrán conocer y opinar sobre los mecanismos que implemente la Dirección Ejecutiva Registro (sic) Federal de Electores para la inscripción de los ciudadanos en el Padrón Electoral y las listas nominales de electores, así como la actualización de dichos instrumentos, y los mecanismos de depuración integral;
+
+j) Realizar operativos de campo para vigilar la inscripción de los ciudadanos en el Padrón Electoral y las listas nominales de electores, y la actualización de dichos instrumentos, incluidos los módulos de atención ciudadana;
+
+k) Contar en el Instituto con terminales de computación que les permita tener acceso a la información del Padrón Electoral y listas nominales de electores, conforme a las posibilidades técnicas del Instituto y a la normatividad que para los efectos se emita;
+
+l) Conocer y opinar de las actividades de planeación y ejecución que realice la Dirección Ejecutiva del Registro Federal de Electores, con motivo de la campaña anual de actualización, incluido el número y distribución de estaciones de trabajo, ubicación y tipos de módulos, rutas de cobertura y horarios de atención ciudadana y directorio en el ámbito de su competencia territorial;
+
+m) Conocer de las quejas interpuestas por la ciudadanía que se relacionen con la inscripción y actualización del Padrón Electoral y con la entrega de las credenciales para votar con fotografía;
+
+n) Conocer los convenios de colaboración que se celebren con las autoridades electorales locales, una vez formalizados;
+
+ñ) Conocer y opinar sobre las modificaciones en los procedimientos de atención ciudadana en relación a la inscripción de los ciudadanos en el Padrón Electoral y la actualización de dicho instrumento, así como de la entrega de la credencial para votar con fotografía;
+
+o) Emitir las recomendaciones que estimen pertinentes a la Dirección Ejecutiva del Registro Federal de Electores, a la Junta General Ejecutiva, y al Consejo General a través de la Comisión del Registro Federal de Electores;
+
+p) Realizar los estudios y desahogar las consultas, que en el ámbito de su competencia, le solicite la Dirección Ejecutiva del Registro Federal de Electores; y
+
+q) Las demás que la Constitución, el Código, Acuerdos del Consejo General y el Reglamento Interior les confieren.
+
+3. Las Comisiones Nacional, Locales y Distritales de Vigilancia podrán coadyuvar entre sí para el cumplimiento de sus atribuciones, en el marco de sus atribuciones.
+
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 15 DE FEBRERO DE 2011)</small>
+
+### Capítulo Tercero. De las atribuciones específicas de la Comisión Nacional de Vigilancia
+
+> <small>(REFORMADO, D.O.F. 15 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 73.
 
-1. La Comisión Distrital de Vigilancia se integrará por un Presidente, que será el Vocal del Registro Federal de Electores, un representante propietario y un suplente por cada partido político nacional y un secretario designado por su Presidente.
+1. La Comisión Nacional de Vigilancia es el órgano encargado de coadyuvar con la Dirección Ejecutiva del Registro Federal de Electores y vigilar los trabajos relativos al Padrón Electoral, de conformidad con lo establecido en el Código, el presente Reglamento y la normatividad aplicable.
+
+2. Para su organización y funcionamiento deberá atenderse a lo dispuesto en el Código y en el Reglamento de Sesiones y Funcionamiento de las Comisiones de Vigilancia que, para tales efectos emita el Consejo General a propuesta de la Junta General Ejecutiva.
+
+3. La Comisión Nacional de Vigilancia contará, para el ejercicio de sus atribuciones con Grupos de Trabajo Permanentes y a propuesta del Presidente de aquélla, podrán crear Grupos de Trabajo Temporales. El objeto de los Grupos de Trabajo será proporcionar a la Comisión Nacional de Vigilancia los elementos técnicos y operativos necesarios para la toma de sus acuerdos y resoluciones.
+
+I. Cada Grupo de Trabajo Permanente o Temporal se integrará por:
+
+a) Un coordinador de grupo designado por el Director Ejecutivo, preferentemente el titular del área, y en el caso de las áreas que no cuentan con nivel de Coordinador, el nivel mínimo será de Subdirector, quien coordinará y convocará a las reuniones de trabajo, así como concertará las acciones que serán resueltas por la Comisión Nacional de Vigilancia;
+
+b) Un representante propietario y un suplente de cada partido político, por cada Grupo de Trabajo, acreditado por el representante ante la Comisión Nacional de Vigilancia, quien deberá contar preferentemente con experiencia y calificación técnica en la materia registral; y
+
+c) Un secretario designado por el Coordinador del Grupo de Trabajo, dentro del personal adscrito a su área.
+
+II. Los Grupos de Trabajo Permanentes serán:
+
+a) Actualización del Padrón Electoral;
+
+b) Marco Geográfico Electoral;
+
+c) Verificación y Depuración del Padrón Electoral;
+
+d) Mecanismos de atención ciudadana; y
+
+e) Seguimiento y apoyo a las actividades de las Comisiones de Vigilancia y de los convenios de apoyo y colaboración en entidades con proceso electoral local.
+
+III. Los Grupos de Trabajo Temporales:
+
+a) Serán creados por la Comisión Nacional de Vigilancia, a propuesta de su Presidente, para la atención de los asuntos relacionados con sus atribuciones y que sean diversos a los comprendidos por los Grupos de Trabajo Permanentes, por un periodo específico; y
+
+b) La propuesta de creación de los Grupos de Trabajo Temporales que formule el Presidente de la Comisión, deberá justificar la necesidad de su creación.
+
+IV. Para su organización y funcionamiento, deberá atenderse a lo dispuesto en el Reglamento de Sesiones y Funcionamiento de las Comisiones de Vigilancia, el cual deberá contemplar las bases siguientes:
+
+a) Deberán reunirse cada quince días a convocatoria del Coordinador del Grupo de Trabajo, y de manera excepcional a convocatoria del Director Ejecutivo;
+
+b) El orden del día será propuesto por el Coordinador del Grupo de Trabajo; los integrantes podrán solicitar la inclusión de puntos adicionales; y
+
+c) Los productos de los Grupos de Trabajo se turnarán a la Comisión Nacional de Vigilancia para la toma de acuerdos definitivos o resolutivos, incluyendo las posturas de los integrantes.
+
+> <small>(ADICIONADO, D.O.F. 15 DE FEBRERO DE 2011)</small>
+
+Artículo 73 bis.
+
+1. Para el cumplimiento de las atribuciones específicas que el Código le confiere, corresponde a la Comisión Nacional de Vigilancia, lo siguiente:
+
+a) Determinar los medios y procedimientos para que los ciudadanos se identifiquen al momento de solicitar su credencial para votar con fotografía, atendiendo a lo dispuesto en el artículo 180 párrafo 2 del Código;
+
+b) Determinar los procedimientos para que los ciudadanos se identifiquen al momento de recibir su credencial para votar con fotografía, atendiendo a lo dispuesto en el artículo 180 párrafo 4 del Código;
+
+c) Establecer los procedimientos para dar de baja a los ciudadanos que hayan fallecido, en los casos en que no haya sido acreditada tal situación con la documentación de las autoridades competentes, conforme al artículo 199 párrafo 9 del Código;
+
+d) Determinar el procedimiento para la destrucción de la documentación relativa a los movimientos realizados en el Padrón Electoral una vez que haya transcurrido el periodo de diez años de custodia conforme al artículo 199 párrafo 10 del Código;
+
+e) En los términos del artículo 177 del Código, definir con la Dirección Ejecutiva del Registro Federal de Electores, los criterios para la aplicación de las técnicas disponibles, incluyendo la censal en todo el país, con la finalidad de contar con un Catálogo General de Electores del que se derive un Padrón integral, auténtico y confiable;
+
+f) Recibir el Informe que presente la Dirección Ejecutiva, respecto al examen de las observaciones formuladas por los partidos políticos a dicha Dirección Ejecutiva, sobre los ciudadanos incluidos o excluidos indebidamente de las listas nominales de electores señalando, en su caso, las modificaciones procedentes;
+
+g) Recibir los informes de la Dirección Ejecutiva del Registro Federal de Electores, respecto de las observaciones de los partidos políticos sobre los ciudadanos inscritos en el Padrón Electoral que hayan obtenido su credencial para votar con fotografía al 15 de febrero y los que no la recibieron;
+
+h) Vigilar la inscripción de los ciudadanos en la lista nominal de los ciudadanos residentes en el extranjero;
+
+i) Verificar la lista nominal de electores residentes en el extranjero;
+
+j) Conocer de los trabajos de demarcación territorial, incluyendo la redistritación, el reseccionamiento e integración seccional llevados a cabo por la Dirección Ejecutiva del Registro Federal de Electores;
+
+k) Conocer y opinar de las estrategias y acciones de operación específicas del Sistema Nacional de Consulta Electoral en materia registral;
+
+l) Conocer y opinar de las estrategias y acciones de operación específicas de los Centros Estatales de Consulta Electoral y Orientación Ciudadana, a fin de procurar la mejora constante de los servicios que prestan en materia registral; y
+
+m) Conocer y opinar de los temas que con motivo de las campañas de actualización solicite la Dirección Ejecutiva del Registro Federal de Electores a la Dirección Ejecutiva de Capacitación Electoral y Educación Cívica.
 
 ## Título Sexto. Organos en Materia de Transparencia
 
@@ -2486,3 +2680,15 @@ SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMI
 SEGUNDO.- Se instruye al Comité de Información y al Organo Garante de la Transparencia y el Acceso a la Información para la revisión del Reglamento del Instituto Federal Electoral en Materia de Transparencia y Acceso a la Información Pública, así como la normatividad aplicable a efecto de que se analicen las posibles adecuaciones en la materia de archivos, de conformidad con lo señalado en el considerando número veintisiete del presente acuerdo.
 
 TERCERO.- Se instruye al Secretario Ejecutivo a efecto de que las Direcciones Ejecutivas y Unidades Técnicas, adscritas al mismo, realicen el análisis al Manual de Organización y Funciones del Instituto Federal Electoral, así como los Lineamientos aplicables, para incluir a la Unidad Técnica de Planeación y considerar las posibles adecuaciones en materia de archivo, de conformidad con lo establecido en el considerando número veintiocho del presente Acuerdo.
+
+D.O.F. 15 DE FEBRERO DE 2011.
+
+Primero.- Publíquese el presente Acuerdo, en el Diario Oficial de la Federación y en la Gaceta del Instituto Federal Electoral.
+
+Segundo.- Las disposiciones de la presente reforma entrarán en vigor al día siguiente de la publicación del nuevo Reglamento de Sesiones y Funcionamiento de las Comisiones de Vigilancia en el Diario Oficial de la Federación.
+
+ARTICULOS TRANSITORIOS (SIC)
+
+Primero.- Publíquese el presente Acuerdo, en el Diario Oficial de la Federación y en la Gaceta del Instituto Federal Electoral.
+
+Segundo.- Las disposiciones de la presente reforma entrarán en vigor al día siguiente de la publicación del nuevo Reglamento de Sesiones y Funcionamiento de las Comisiones de Vigilancia en el Diario Oficial de la Federación (sic).
