@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-cuotas-y-tarifas-para-la-prestacion-de-servicios-79810"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-30"
-last_updated: "2010-12-30"
+last_updated: "2011-02-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=79810&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE CUOTAS Y TARIFAS PARA LA PRESTACION DE SERVICIOS DE EL SISTEMA INTEGRAL DEL ORGANISMO PARAMUNICIPAL DE OPERACION Y ADMINISTRACION DEL SERVICIO PUBLICO MUNICIPAL DE AGUA POTABLE Y ALCANTARILLADO DE "EL REFUGIO" DEL MUNICIPIO DE CIUDAD FERNANDEZ; S.L.P.
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE FEBRERO DE 2011.
 
 Ley publicada en la edición extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 30 de diciembre de 2010.
 
@@ -169,9 +169,13 @@ Igualmente queda facultado el Organismo Operador a suspender el suministro, cuan
 
 En época de escasez de agua, comprobada o previsible, por caso fortuito o de fuerza mayor el Organismo Operador podrá acordar medidas de restricción en las zonas que juzgue pertinentes y durante el lapso que estime necesario, previo aviso a los usuarios a través de los medios de comunicación.
 
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2011)</small>
+
 ###### ARTICULO 18.
 
-Para cubrir el servicio de mantenimiento y conservación de la red de drenaje y alcantarillado, el usuario paga una cuota mensual equivalente al 15%, misma que se encuentra incluida en la cuota fija por concepto de agua y que el organismo deberá desglosar en la facturación.
+Para cubrir el servicio de mantenimiento y conservación de la red de drenaje y alcantarillado, el usuario paga una cuota mensual equivalente al 15% del importe del volumen de agua facturada; cantidad que se incluirá en su recibo de pago.
+
+Por concepto de saneamiento se cobrará el 10% sobre el valor del monto facturado por consumo mensual de agua potable. Esto aplica para el usuario que descargue exclusivamente la calidad de agua residual contratada.
 
 ###### ARTICULO 19.
 
@@ -318,3 +322,11 @@ El Secretario General de Gobierno
 Lic. Marco Antonio Aranda Martínez
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 15 DE FEBRERO DE 2011.
+
+PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
