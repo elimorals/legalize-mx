@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-cuotas-y-tarifas-para-la-prestacion-de-servicios-79813"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-30"
-last_updated: "2010-12-30"
+last_updated: "2011-02-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=79813&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SLP"
 ---
 # LEY DE CUOTAS Y TARIFAS PARA LA PRESTACION DE SERVICIOS PUBLICOS DE LA DIRECCION DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DE CIUDAD VALLES, SAN LUIS POTOSI
 
-LEY DE CUOTAS Y TARIFAS PARA LA PRESTACION DE SERVICIOS PUBLICOS DE LA DIRECCION DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DE CIUDAD VALLES, SAN LUIS POTOSI
+LEY DE CUOTAS Y TARIFAS PARA LA PRESTACIÓN DE SERVICIOS PÚBLICOS DE LA DIRECCIÓN DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DE CIUDAD VALLES, SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE FEBRERO DE 2011.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 30 de diciembre de 2010.
 
@@ -117,9 +117,11 @@ En los lugares donde no haya medidores o hasta en tanto estos no se instalen, lo
 
 Para cualquier modificación que el usuario pretenda hacer al predio, que afecte las instalaciones de los servicios de agua potable y alcantarillado, deberá formular una solicitud al Organismo Operador y sujetarse a las indicaciones y plazos que se le autoricen.
 
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2011)</small>
+
 ###### ARTICULO 11.
 
-Corresponde en forma exclusiva al prestador de los servicios, instalar y operar los aparatos medidores, así como verificar su funcionamiento y su retiro cuando haya sufrido daño o acumule 6 meses sin el pago correspondiente al servicio prestado. Cuando reúna 12 meses sin pago, el organismo dará de baja el contrato del padrón de usuario.
+Corresponde en forma exclusiva al prestador de los servicios, instalar y operar los aparatos medidores, así como verificar su funcionamiento y su retiro cuando haya sufrido daño, o acumule seis meses sin el pago correspondiente al servicio prestado.
 
 ###### ARTICULO 12.
 
@@ -175,17 +177,21 @@ adelante 7.81 8.45 13.52 18.68
 
 III. La tarifa domestica comprende los giros de usuarios clasificados por el organismo como: popular, interés social, urbano medio y residencial.
 
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2011)</small>
+
 ###### ARTICULO 14.
 
-Para cubrir el servicio de mantenimiento y conservación de la red de drenaje y alcantarillado, el usuario deberá pagar una cuota mensual equivalente al 20% del importe del volumen de agua facturada, cantidad que se incluirá en su recibo de pago. Por concepto de saneamiento se cobra el 10% sobre el valor del monto facturado por consumo mensual de agua potable. Esto aplica para el usuario que descargue exclusivamente la calidad de agua residual contratada.
+Para cubrir el servicio de mantenimiento y conservación de la red de drenaje y alcantarillado, el usuario deberá pagar una cuota mensual equivalente al 20% del importe del volumen de agua facturada; cantidad que se incluirá en su recibo de pago.
 
 ###### ARTICULO 15.
 
 La venta de agua al consumidor particular en planta, para diversos usos tendrá un costo de $8.00 (ocho pesos 00/100 M.N (sic)) por metro cúbico de agua potable. El costo de venta al sistema de reparto públicos (sic) de agua potable a colonias populares para uso doméstico será de $4.00 (Cuatro pesos 00/100 M.N (sic)) por metro cúbico.
 
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2011)</small>
+
 ###### ARTICULO 16.
 
-Se aplicará un cobro de recargos cuando el usuario pague su recibo en forma extemporánea, esto es, después del día 18 de cada mes posterior al facturado aplicando un 4% mensual sobre el volumen facturado.
+Se aplicará un cobro de recargos cuando el usuario pague su recibo en forma extemporánea, esto es, después del día fijado en el recibo de facturación de su consumo como el límite para el pago, aplicando un 4% mensual sobre el volumen facturado.
 
 ###### ARTICULO 17.
 
@@ -199,9 +205,11 @@ Igualmente queda facultado el Organismo Operador a suspender el suministro, cuan
 
 En época de escasez de agua, comprobada o previsible, por caso fortuito o de fuerza mayor el Organismo Operador podrá acordar medidas de restricción en las zonas que juzgue pertinentes y durante el lapso que estime necesario, previo aviso a los usuarios a través de los medios de comunicación.
 
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2011)</small>
+
 ###### ARTICULO 20.
 
-Para cubrir el servicio de mantenimiento y conservación de la red de drenaje y alcantarillado, el usuario paga una cuota mensual equivalente al 15%, misma que se encuentra incluida en la cuota fija por concepto de agua y que el organismo deberá desglosar en la facturación.
+Por concepto de saneamiento se cobra el 10% sobre el valor del monto facturado por consumo mensual de agua potable. Esto aplica para el usuario que descargue exclusivamente la calidad de agua residual contratada.
 
 ###### ARTICULO 21.
 
@@ -253,9 +261,11 @@ Residencias y Otros 650.00 650.00
 
 Este importe cubre sólo los derechos de conexión y es independiente de los costos de líneas, tomas y demás gastos que originan para la prestación del servicio.
 
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2011)</small>
+
 ###### ARTICULO 28.
 
-Los fraccionadores o urbanizadores de conjuntos habitacionales, deberán construir por su cuenta, las instalaciones o infraestructura necesaria, de acuerdo con el proyecto autorizado por el Organismo Operador, contemplando las disposiciones del uso eficiente del servicio, así como instalar las tomas domiciliarias a cada predio incluyendo el medidor correspondiente.
+Los fraccionadores o urbanizadores de conjuntos habitacionales deberán construir por su cuenta, las instalaciones o infraestructura necesaria, de acuerdo con el proyecto autorizado por el Organismo Operador, contemplando las disposiciones del uso eficiente del servicio, así como instalar preparaciones para la toma y descargas domiciliarias en cada predio, debiendo realizar la contratación de los servicios de agua potable y drenaje de cada una de las viviendas construidas, para llevar a cabo la instalación del medidor y evitar el uso del servicio de agua sin contrato.
 
 ###### ARTICULO 29.
 
@@ -267,9 +277,11 @@ En el caso de fraccionadores, estos se sujetarán para la conexión del servicio
 
 Para los efectos del cobro de la cuota para fraccionadores o urbanizadores, relativa a la factibilidad de suministro de agua potable, este se determina correlacionando el costo del litro por segundo que corresponda a la demanda requerida para satisfacer el servicio de agua potable, considerando el tipo de urbanización y/o el uso a que sean destinados los servicios.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE FEBRERO DE 2011)</small>
+
 ###### ARTICULO 31.
 
-Para los fraccionamientos y urbanizaciones nuevas, se realizará un convenio entre los interesados y el Organismo Operador, requiriéndose para ello realizar un estudio de demanda de agua potable y alcantarillado para determinar la infraestructura requerida para la prestación de servicios, evaluando la disponibilidad y existencia de agua potable, dicho estudio se realizará por el Organismo Operador.
+Para los fraccionamientos y urbanizaciones nuevas se realizará un convenio entre los interesados y el Organismo Operador, requiriéndose para ello realizar un estudio de demanda de agua potable y alcantarillado, para determinar la infraestructura requerida para la prestación de servicio, evaluando la disponibilidad y existencia de agua potable; dicho estudio se realizará por el Organismo Operador y será cubierto por el fraccionador.
 
 El convenio que para este efecto se expida deberá establecer las obras de infraestructura necesarias y los derechos relativos a las cuotas que el fraccionador o urbanizador, deberá cubrir al Organismo Operador.
 
@@ -327,13 +339,23 @@ Para los casos no previstos en el presente Decreto, se aplicará de manera suple
 
 La falta del pago oportuno de los servicios, obligará al usuario a cubrir las actualizaciones y recargos conforme al Código Fiscal del Estado de San Luis Potosí en vigor; dicho cobro aparecerá en el recibo de pago correspondiente.
 
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2011)</small>
+
 ###### ARTICULO 43.
 
-El Organismo operador sancionará a los usuarios que estando su servicio suspendido por falta de pago, se facturará multa equivalente de cinco a veinte veces salario mínimo, vigente en el área geográfica de la ciudad, debiendo pagar además el costo de reposición del mismo.
+El organismo operador sancionará a los usuarios que estando su servicio suspendido por falta de pago, se surtan mediante otro dispositivo, o directo sin medidor, considerándose ésto como una reconexión ilegal, haciéndose acreedor a una multa equivalente de cinco a veinte días del salario mínimo general diario de la zona económica correspondiente.
+
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2011)</small>
 
 ###### ARTICULO 44.
 
-Para sancionar las faltas anteriores, se calificarán las infracciones tomando en consideración la gravedad de la falta. Los daños causados, las condiciones económicas del infractor y reincidencia.
+Los usuarios que por cualquier medio alteren el consumo marcado por los medidores dañando éstos, se hará acreedor a una multa equivalente de cinco a veinte días del salario mínimo general diario de la zona económica correspondiente, debiendo pagar además el costo de reposición del mismo.
+
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2011)</small>
+
+###### ARTICULO 45.
+
+Para sancionar las faltas anteriores se calificarán las infracciones tomando en consideración la gravedad de la falta, los daños causados, las condiciones económicas del infractor y reincidencia.
 
 ## TRANSITORIOS
 
@@ -362,3 +384,11 @@ El Secretario General de Gobierno
 Lic. Marco Antonio Aranda Martínez
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 15 DE FEBRERO DE 2011.
+
+PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
