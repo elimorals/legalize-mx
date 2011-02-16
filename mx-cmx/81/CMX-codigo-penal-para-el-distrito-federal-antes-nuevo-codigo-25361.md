@@ -4,7 +4,7 @@ identifier: "CMX-codigo-penal-para-el-distrito-federal-antes-nuevo-codigo-25361"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-07-16"
-last_updated: "2011-01-20"
+last_updated: "2011-02-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25361&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-07-11"
 
 CODIGO PENAL PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 20 DE ENERO DE 2011.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 16 DE FEBRERO DE 2011.
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el martes 16 de julio de 2002.
 
@@ -988,7 +988,9 @@ Al que prive de la vida a otro en riña se le impondrá de cuatro a doce años d
 
 Al que cause a otro un daño o alteración en su salud, se le impondrán:
 
-I. De treinta a noventa días multa, si las lesiones tardan en sanar menos de quince días;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+I. (DEROGADA, G.O. 16 DE FEBRERO DE 2011)
 
 II. De seis meses a dos años de prisión, cuando tarden en sanar más de quince días y menos de sesenta;
 
@@ -1002,9 +1004,9 @@ VI. De tres a ocho años de prisión, si producen la pérdida de cualquier funci
 
 VII. De tres a ocho años de prisión, cuando pongan en peligro la vida.
 
-> <small>(ADICIONADO, G.O. 9 DE JUNIO DE 2006)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-Las lesiones a que se refiere la fracción I serán sancionadas por este Código únicamente cuando se produzcan de manera dolosa.
+> <small>(DEROGADO ULTIMO PARRAFO, G.O. 16 DE FEBRERO DE 2011)</small>
 
 ###### ARTÍCULO 131.
 
@@ -4269,3 +4271,11 @@ G.O. 20 DE ENERO DE 2011.
 Primero.- El presente decreto entrará en vigor al día siguiente a su publicación en la Gaceta Oficial del Distrito Federal.
 
 Segundo.- Publíquese en la Gaceta Oficial del Gobierno del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
+
+G.O. 16 DE FEBRERO DE 2011.
+
+Primero.- Publíquese en la Gaceta Oficial del Distrito Federal; y su para (sic) mayor difusión en el Diario Oficial de la Federación.
+
+Segundo.- El presente Decreto entrará en vigor a los treinta días naturales posteriores a su publicación.
+
+Tercero.- El Jefe de Gobierno del Distrito Federal, contará con noventa días naturales, a partir de la publicación del presente decreto, para realizar las adecuaciones necesarias al Reglamento de la Ley de Cultura Cívica del Distrito Federal.
