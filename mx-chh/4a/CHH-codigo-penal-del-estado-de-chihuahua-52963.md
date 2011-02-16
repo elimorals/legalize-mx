@@ -4,7 +4,7 @@ identifier: "CHH-codigo-penal-del-estado-de-chihuahua-52963"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-12-27"
-last_updated: "2011-02-12"
+last_updated: "2011-02-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO PENAL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE FEBRERO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE FEBRERO DE 2011.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 27 de diciembre de 2006.
 
@@ -2973,8 +2973,6 @@ A quien quebrante los sellos puestos por orden legítima de la autoridad compete
 
 ### CAPÍTULO II. FALSEDAD ANTE AUTORIDADES
 
-> <small>(REFORMADO, P.O. 30 DE ENERO DE 2010)</small>
-
 ###### Artículo 282.
 
 A quien ultraje a una autoridad en el ejercicio de sus funciones o con motivo de ellas, se le impondrá de seis meses a un año de trabajo a favor de la comunidad o de treinta a noventa días de multa.
@@ -3003,7 +3001,9 @@ Se aplicarán las penas previstas en el párrafo anterior, a quien fabrique, com
 
 ###### Artículo 285.
 
-Se impondrán de dos a ocho años de prisión, inhabilitación para obtener o ejercer un cargo hasta por diez años y de cien a cuatrocientos días multa, al servidor público que deliberadamente:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE FEBRERO DE 2011)</small>
+
+Se impondrán de dos a ocho años de prisión, inhabilitación para obtener o ejercer un cargo o comisión pública hasta por diez años y de cien a cuatrocientos días multa, al servidor público que deliberadamente:
 
 I. Dicte o contribuya al dictado de una sentencia definitiva o cualquier otra resolución de fondo que viole algún precepto terminante de la ley, o que sea contraria a las actuaciones legalmente practicadas en el proceso; o
 
@@ -3011,7 +3011,9 @@ II. No cumpla con una orden legítima que formalmente se le comunique por un sup
 
 ###### Artículo 286.
 
-Se impondrán prisión de uno a cinco años y de cincuenta a doscientos cincuenta días multa, al servidor público que:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE FEBRERO DE 2011)</small>
+
+Se impondrá prisión de dos a seis años, inhabilitación para obtener o ejercer un cargo o comisión pública hasta por diez años y de cincuenta a doscientos cincuenta días multa, al servidor público que:
 
 I. Conozca de un negocio para el cual tenga impedimento legal;
 
@@ -3029,9 +3031,15 @@ VII. Nombre síndico o interventor en un concurso o quiebra, a una persona que s
 
 La misma sanción se impondrá a quien, como intermediario de un servidor público, remate algún bien objeto del remate en cuyo juicio haya intervenido aquél.
 
+> <small>(ADICIONADO, P.O. 16 DE FEBRERO DE 2011)</small>
+
+En las hipótesis previstas en las fracciones II, III o VI, la penalidad se aumentará hasta en una mitad de la pena a imponer.
+
 ###### Artículo 287.
 
-Se impondrán de uno a cinco años de prisión y de cincuenta a doscientos cincuenta días multa, al servidor público que, para conseguir cualquier finalidad ilegítima:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE FEBRERO DE 2011)</small>
+
+Se impondrán de dos a seis años de prisión, inhabilitación para obtener o ejercer un cargo o comisión pública hasta por diez años y de cincuenta a doscientos cincuenta días multa, al servidor público que, para conseguir cualquier finalidad ilegítima:
 
 I. Se abstenga, sin tener impedimento legal, de conocer un asunto que le corresponda por razón de su cargo o comisión;
 
@@ -3040,6 +3048,10 @@ II. Omita dictar deliberadamente, dentro del plazo legal, una sentencia definiti
 III. Retarde o entorpezca indebidamente la administración de justicia; o
 
 IV. Bajo cualquier pretexto, se niegue injustificadamente a despachar, dentro del plazo legal, un asunto pendiente ante él.
+
+> <small>(ADICIONADO, P.O. 16 DE FEBRERO DE 2011)</small>
+
+En las hipótesis previstas en la fracción III, la penalidad se aumentará hasta en una mitad de la pena a imponer.
 
 ### CAPÍTULO I. RESPONSABILIDAD PROFESIONAL Y TÉCNICA
 
@@ -3211,15 +3223,29 @@ AUTORIDAD JUDICIAL O ADMINISTRATIVA
 
 ###### Artículo 306.
 
-Se impondrán de seis meses a seis años de prisión y multa de treinta a ochenta veces el salario, al que simule actos jurídicos, o altere elementos de prueba, para obtener una resolución jurisdiccional de la que se derive el perjuicio de alguien o un beneficio indebido.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE FEBRERO DE 2011)</small>
 
-Cuando en la comisión de este delito participe un licenciado en Derecho o litigante legalmente autorizado, además se le suspenderá en el ejercicio profesional o en la actividad indicada, por un término igual al de la prisión impuesta, haciéndose lo anterior del conocimiento de la autoridad que corresponda para la vigilancia de la pena impuesta.
+Se impondrán de seis meses a seis años de prisión y multa de treinta a ochenta veces el salario a quien con el propósito de obtener una resolución jurisdiccional de la que se derive perjuicio de alguien o un beneficio indebido o mayor del que le corresponde, con independencia de la obtención del resultado, simule actos jurídicos o altere elementos de prueba.
+
+> <small>(ADICIONADO, P.O. 16 DE FEBRERO DE 2011)</small>
+
+De verificarse el perjuicio o los beneficios a que se refiere el primer párrafo, las penas se incrementarán hasta en dos tercios.
+
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2011)</small>
+
+Cuando en la comisión de este delito intervenga de forma directa o indirecta un licenciado en Derecho o litigante legalmente autorizado, además se le suspenderá en el ejercicio profesional o en la actividad indicada, por un término igual al de la prisión impuesta, haciéndose lo anterior del conocimiento de la autoridad que corresponda para la vigilancia de la pena impuesta.
 
 ### CAPÍTULO III. VIOLACIÓN DE LA COMUNICACIÓN PRIVADA
 
 ###### Artículo 307.
 
-Quien al declarar ante autoridad en ejercicio de sus funciones o con motivo de ellas, faltare a la verdad, en relación con los hechos que motivan la intervención de ésta, será sancionado con pena de seis meses a seis años de prisión y de cien a trescientos días multa.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE FEBRERO DE 2011)</small>
+
+Quien al declarar por sí o por medio de representante ante autoridad en ejercicio de sus funciones o con motivo de ellas, faltare a la verdad, en relación con los hechos que motivan la intervención de ésta, será sancionado con pena de seis meses a seis años de prisión y de cien a trescientos días multa.
+
+> <small>(ADICIONADO, P.O. 16 DE FEBRERO DE 2011)</small>
+
+La misma penalidad se aplicará al representante que, con conocimiento de la falsedad, intervenga en la forma prevista en el párrafo anterior.
 
 > <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2009)</small>
 
@@ -3229,13 +3255,15 @@ Las penas a que se refiere el artículo anterior, se podrán aumentar hasta en u
 
 ###### Artículo 308.
 
-A quien con el propósito de inculpar o exculpar a alguien indebidamente en un procedimiento penal, ante el Ministerio Público o ante la autoridad judicial, declare falsamente en calidad de testigo o como denunciante, además de la multa a que se refiere el primer párrafo del artículo anterior, será sancionado con pena de tres a siete años de prisión.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE FEBRERO DE 2011)</small>
+
+A quien con el propósito de inculpar o exculpar a alguien, de favorecer a su oferente o de causar un perjuicio a la contraparte, indebidamente, con independencia de la obtención del resultado, declare falsamente en calidad de testigo o como denunciante ante la autoridad, además de la multa a que se refiere el primer párrafo del artículo anterior, será sancionado con pena de tres a siete años de prisión.
 
 La pena de prisión se aumentará en una mitad para el testigo falso que fuere examinado en un procedimiento penal, cuando su testimonio se rinda para producir convicción sobre la responsabilidad del imputado.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2011)</small>
 
-Las mismas penas se le impondrán a quien, por cualquier medio, amenace, intimide o presione indebidamente a un interviniente o testigo en riesgo y sus allegados, para inculpar o exculpar a alguien en una investigación criminal o en un proceso penal.
+Las mismas penas se le impondrán a quien, por cualquier medio, amenace, intimide o presione indebidamente a un interviniente o testigo en riesgo y sus allegados, para inculpar o exculpar a alguien en una investigación criminal o en un proceso penal o para obtener beneficios o causar un perjuicio indebidos en otro procedimiento jurisdiccional.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE AGOSTO DE 2009)</small>
 
@@ -3253,9 +3281,9 @@ Si el agente se retracta espontáneamente de sus declaraciones falsas o de su di
 
 A quien aporte testigos falsos conociendo esta circunstancia, o logre que un testigo, perito, intérprete o traductor falte a la verdad o la oculte al ser examinado por la autoridad pública en el ejercicio de sus funciones, se le impondrán de seis meses a cinco años de prisión y de cincuenta a doscientos días multa.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2011)</small>
 
-Las mismas penas se le impondrán a quien, por cualquier medio, amenace, intimide o presione a un interviniente o testigo y sus allegados, para que no declare, declare falsamente u oculte la verdad, en una investigación criminal o en un proceso penal.
+Las mismas penas se le impondrán a quien, por cualquier medio, amenace, intimide o presione a un interviniente o testigo y sus allegados, para que no declare, declare falsamente u oculte la verdad, en una investigación criminal, en un proceso penal o en otro procedimiento jurisdiccional.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE AGOSTO DE 2009)</small>
 
@@ -3277,6 +3305,10 @@ Se impondrá de seis meses a dos años prisión o de noventa a ciento cincuenta 
 
 A quien con el propósito de inculpar a alguien como responsable de un delito ante la autoridad judicial, simule en su contra la existencia de pruebas materiales que hagan presumir su responsabilidad, se le impondrán de uno a cinco años de prisión y de cien a trescientos días multa.
 
+> <small>(ADICIONADO, P.O. 16 DE FEBRERO DE 2011)</small>
+
+Se aplicarán las mismas penas a quien simule o aporte pruebas falsas en cualquier procedimiento jurisdiccional con el propósito de obtener beneficios o causar un perjuicio indebidos.
+
 ### CAPÍTULO III. FALSIFICACIÓN O ALTERACIÓN Y USO INDEBIDO DE DOCUMENTOS
 
 ###### Artículo 315.
@@ -3285,9 +3317,13 @@ Se impondrán de seis meses a cuatro años de prisión, de cincuenta a trescient
 
 I. Abandone una defensa o un negocio, sin motivo justificado y en perjuicio de quien patrocina;
 
-II. Asista o ayude a dos o más contendientes o partes con intereses opuestos en un mismo negocio o negocios conexos, o acepte el patrocinio de alguno y admita después el de la parte contraria en un mismo negocio;
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2011)</small>
 
-III. Como defensor de un imputado, se concrete a aceptar el cargo y a solicitar la libertad caucional a que se refiere la fracción I del apartado a) del artículo 20 Constitucional, o las actuaciones equivalentes, sin promover más pruebas ni diligencias tendientes a la defensa adecuada del imputado;
+II. Asista o ayude a dos o más contendientes o partes con intereses opuestos en un mismo negocio o negocios conexos, o diversos en donde intervengan las mismas partes o acepte el patrocinio de alguno y admita después el de la parte contraria en un mismo negocio;
+
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2011)</small>
+
+III. Como defensor de un imputado, se concrete a aceptar el cargo y a solicitar la libertad caucional o las actuaciones equivalentes, sin promover más pruebas ni diligencias tendientes a la defensa adecuada del imputado;
 
 IV. Como defensor de un imputado, no ofrezca ni desahogue pruebas fundamentales para la defensa dentro de los plazos previstos por la ley, teniendo la posibilidad de hacerlo.
 
@@ -3417,7 +3453,9 @@ Las mismas penas se impondrán al que posea, utilice, adquiera o enajene, cualqu
 
 ###### Artículo 330.
 
-A quien para obtener un beneficio o causar un daño, falsifique o altere un documento público o privado, se le impondrán de tres a seis años de prisión y de cien a mil días multa, tratándose de documentos públicos y de seis meses a tres años de prisión y de cincuenta a quinientos días multa, tratándose de documentos privados.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE FEBRERO DE 2011)</small>
+
+A quien para obtener un beneficio o causar un daño, falsifique o altere un documento público o privado con independencia del resultado obtenido, se le impondrán de tres a seis años de prisión y de cien a mil días multa, tratándose de documentos públicos y de seis meses a tres años de prisión y de cincuenta a quinientos días multa, tratándose de documentos privados.
 
 Las mismas penas se impondrán a quien, con los fines a que se refiere el párrafo anterior, haga uso de un documento falso o alterado o haga uso indebido de un documento verdadero, expedido a favor de otro, como si hubiere sido expedido a su nombre, o aproveche indebidamente una firma o rúbrica en blanco.
 
@@ -3834,3 +3872,9 @@ Los procedimientos penales iniciados antes de la entrada en vigor del presente D
 ###### ARTÍCULO TERCERO.
 
 Las disposiciones relativas a los delitos de secuestro previstas en el Código Penal del Estado hasta la entrada en vigor del presente Decreto, seguirán aplicándose por los hechos realizados durante su vigencia. Así mismo, dichos preceptos seguirán aplicándose a las personas procesadas o sentenciadas por los delitos previstos y sancionados por los mismos artículos.
+
+P.O. 16 DE FEBRERO DE 2011.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
