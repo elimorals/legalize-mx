@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-cultura-civica-de-la-ciudad-de-mexico-antes-ley-de-39636
 country: "mx"
 rank: "ley"
 publication_date: "2004-05-31"
-last_updated: "2010-11-16"
+last_updated: "2011-02-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39636&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2004-05-19"
 
 LEY DE CULTURA CIVICA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 16 DE NOVIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 16 DE FEBRERO DE 2011.
 
 Ley publicada en el Número Bis de la Gaceta Oficial del Distrito Federal, el lunes 31 de mayo de 2004.
 
@@ -106,13 +106,23 @@ XV. Secretaría; a la Secretaría de Seguridad Pública del Distrito Federal;
 
 XVI. Secretaría de Salud; a la Secretaría de Salud del Distrito Federal;
 
-XVII. Secretario; al Secretario del Juzgado, y
+XVII. Secretario; al Secretario del Juzgado, y (sic)
 
-XVIII. Médico, al médico o médico legista.
+XVIII. Médico, al médico o médico legista;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 16 DE FEBRERO DE 2011)</small>
+
+XIX. Adolescente: las personas cuya edad se encuentra comprendida entre los doce años cumplidos y menos de dieciocho años.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, G.O. 16 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 4.
 
-Para los efectos de esta Ley, son responsables las personas mayores de once años que cometan infracciones, así como las personas físicas o morales que hubiesen ordenado la realización de las conductas que importen la comisión de una infracción.
+Para los efectos de esta Ley, son considerados como responsables los adolescentes, los mayores de dieciocho años de edad, así como las personas físicas o morales que hubiesen ordenado la realización de las conductas que importen la comisión de una infracción.
 
 ###### Artículo 5.
 
@@ -162,7 +172,11 @@ Corresponde al Jefe de Gobierno:
 
 I. Aprobar el número, distribución y competencia territorial de los Juzgados Cívicos;
 
-II. Nombrar y remover a los Jueces y Secretarios de los Juzgados Cívicos.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, G.O. 16 DE FEBRERO DE 2011)</small>
+
+II. Nombrar y remover previo proceso de acreditación de la comisión de delito o falta administrativa a los Jueces y Secretarios de los Juzgados Cívicos. Esta facultad podrá ser delegada en la persona titular de la Dirección Ejecutiva de Justicia Cívica, mediante acuerdo que se publique en la Gaceta Oficial del Distrito Federal.
 
 ###### Artículo 9.
 
@@ -262,15 +276,47 @@ A la Dirección le corresponde:
 
 I. La ejecución de las normas internas de funcionamiento;
 
-II. La supervisión, control y evaluación de los Juzgados;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-III. Conocer de la queja a que se refiere el artículo 103 de esta Ley;
+> <small>(REFORMADA, G.O. 16 DE FEBRERO DE 2011)</small>
 
-IV. Condonar las sanciones impuestas por el Juez;
+II. En ejercicio de la facultad que le delegue el Jefe de Gobierno, nombrar, remover y adscribir a los jueces cívicos y secretarios de juzgado cívico;
 
-V. Recibir para su guarda y destino correspondiente, los documentos y objetos que le remitan los Juzgados, y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-VI. Las demás funciones que le confiera la Ley y otras disposiciones legales.
+> <small>(REFORMADA, G.O. 16 DE FEBRERO DE 2011)</small>
+
+III. La supervisión, control y evaluación de los Juzgados;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, G.O. 16 DE FEBRERO DE 2011)</small>
+
+IV. Conocer de la queja a que se refiere el artículo 103 de esta Ley;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, G.O. 16 DE FEBRERO DE 2011)</small>
+
+V. Condonar las sanciones impuestas por el Juez;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, G.O. 16 DE FEBRERO DE 2011)</small>
+
+VI. Rotar periódicamente a los jueces cívicos y secretarios de juzgado cívico, según las necesidades del servicio;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 16 DE FEBRERO DE 2011)</small>
+
+VII. Recibir para su guarda y destino correspondiente, los documentos y objetos que le remitan los Juzgados, y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 16 DE FEBRERO DE 2011)</small>
+
+VIII. Las demás funciones que le confiera la Ley y otras disposiciones legales.
 
 ## TÍTULO SEGUNDO. DE LA CULTURA CÍVICA Y DE LA PARTICIPACIÓN VECINAL
 
@@ -368,9 +414,13 @@ III. Organizar la participación vecinal para la prevención de infracciones.
 
 Los Jueces participarán activamente en los Comités Delegacionales de Seguridad Pública, así como en los programas de Seguridad Pública que promueva la Administración Pública del Distrito Federal, en los términos que determine la Consejería.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 16 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 19.
 
-Los Jueces celebrarán reuniones periódicas con los miembros de los órganos de representación vecinal de la circunscripción territorial que les corresponda, con el propósito de informar lo relacionado con el desempeño de sus funciones, así como para conocer la problemática que específicamente aqueja a los habitantes de esa comunidad en los términos de esta Ley.
+Los Jueces celebrarán reuniones periódicas con los miembros de los comités vecinales y otros órganos de representación vecinal de la circunscripción territorial que les corresponda, con el propósito de informar lo relacionado con el desempeño de sus funciones, así como para conocer y atender la problemática que específicamente aqueja a los habitantes de esa comunidad, brindando alternativas de solución en los términos de esta Ley.
 
 Las reuniones se realizarán en lugares de acceso público. A las reuniones se podrá invitar a Diputados de la Asamblea Legislativa del Distrito Federal. De cada reunión, se elaborará una memoria que será remitida a la Consejería.
 
@@ -628,9 +678,13 @@ Cuando las conductas sancionadas por esta Ley sean cometidas en cumplimiento de 
 
 En todos los casos y para efectos de la individualización de la sanción, el Juez considerará como agravante el estado de ebriedad del infractor o su intoxicación por el consumo de estupefacientes, psicotrópicos o sustancias tóxicas al momento de la comisión de la infracción; pudiéndose aumentar la sanción hasta en una mitad sin exceder el máximo establecido para el caso del arresto.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, G.O. 16 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 32.
 
-Se entiende por reincidencia la violación a la Ley, dos veces o más, en un periodo que no exceda de seis meses. En este caso, el infractor no podrá gozar del beneficio de conmutar el arresto por multa.
+Se entiende por reincidencia la comisión de infracciones contenidas en la presente ley por dos o más veces, en un periodo que no exceda de seis meses. En este caso, el infractor no podrá gozar del beneficio de conmutar el arresto por multa.
 
 Para la determinación de la reincidencia, el Juez deberá consultar el Registro de Infractores.
 
@@ -682,9 +736,13 @@ En el supuesto de que el infractor no realice las actividades de apoyo a la comu
 
 ### CAPÍTULO I. DISPOSICIONES COMUNES
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, G.O. 16 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 39.
 
-Los procedimientos que se realicen ante los Juzgados, se iniciarán con la presentación del probable infractor por la policía o con la queja de particulares por la probable comisión de infracciones.
+Los procedimientos que se realicen ante los Juzgados, se iniciarán con la presentación del probable infractor por el elemento de policía, con la queja de particulares por la probable comisión de infracciones, o por remisión de otras autoridades que pongan en conocimiento al Juez Cívico hechos presuntamente considerados infracciones a esta Ley y demás ordenamientos aplicables, en caso de ser competente, así lo acordará y continuará con el procedimiento.
 
 ###### Artículo 40.
 
@@ -704,25 +762,21 @@ Las actuaciones deberán constar por escrito y permanecerán en el local del Juz
 
 Cuando el probable infractor no hable español, o se trate de un sordomudo, y no cuente con traductor o intérprete, se le proporcionará uno, sin cuya presencia el procedimiento administrativo no podrá dar inicio.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, G.O. 16 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 43.
 
-En caso de que el probable infractor sea menor de edad, el Juez citará a quien detente la custodia o tutela, legal o de hecho, en cuya presencia se desarrollará la audiencia y se dictará la resolución.
+En caso de que el probable infractor sea adolescente, el Juez citará a quien detente la custodia o tutela, legal o de hecho, en cuya presencia se desarrollará la audiencia y se dictará la resolución.
 
-En tanto acude quien custodia o tutela al menor, éste deberá permanecer en la oficina del Juzgado, en la sección de menores. Si por cualquier causa no asistiera el responsable del menor en un plazo de dos horas, se otorgará una prórroga de cuatro horas. Si al término de la prórroga no asistiera el responsable, el Juez le nombrará un representante de la Administración Pública del Distrito Federal para que lo asista y defienda, que podrá ser un Defensor de Oficio, después de lo cual determinará su responsabilidad.
+En tanto acude quien custodia o tutela al adolescente, éste deberá permanecer en la oficina del Juzgado, en la sección de adolescentes. Si por cualquier causa no asistiera el responsable del adolescente en un plazo de dos horas, se otorgará una prórroga de cuatro horas. Si al término de la prórroga no asistiera el responsable, el Juez le nombrará un representante de la Administración Pública del Distrito Federal para que lo asista y defienda, que podrá ser un Defensor de Oficio, después de lo cual determinará su responsabilidad.
 
-En caso de que el menor de edad resulte responsable, el Juez lo amonestara y le hará saber las consecuencias jurídicas y sociales de su conducta.
+En caso de que el adolescente resulte responsable, el Juez lo amonestara y le hará saber las consecuencias jurídicas y sociales de su conducta.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+Cuando se determine la responsabilidad de un adolescente en la comisión de alguna de las infracciones previstas en este ordenamiento, en ningún caso se le impondrá como sanción el arresto.
 
-> <small>(DEROGADO CUARTO PARRAFO, G.O. 13 DE MARZO DE 2008)</small>
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, G.O. 13 DE MARZO DE 2008)</small>
-
-Cuando se determine la responsabilidad de una persona menor de edad en la comisión de alguna de las infracciones previstas en este ordenamiento, en ningún caso se le impondrá como sanción el arresto.
-
-Si a consideración del Juez el menor se encontrara en situación de riesgo, lo enviará a las autoridades competentes a efecto de que reciba la atención correspondiente.
+Si a consideración del Juez el adolescente se encontrara en situación de riesgo, lo enviará a las autoridades competentes a efecto de que reciba la atención correspondiente
 
 ###### Artículo 44.
 
@@ -794,11 +848,11 @@ I. Cuando presencien la comisión de la infracción, y
 
 II. Cuando sean informados de la comisión de una infracción inmediatamente después de que hubiese sido realizada o se encuentre en su poder el objeto o instrumento, huellas o indicios que hagan presumir fundadamente su participación en la infracción.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(ADICIONADO, G.O. 13 DE MARZO DE 2008)</small>
+> <small>(REFORMADO, G.O. 16 DE FEBRERO DE 2011)</small>
 
-En el caso de la fracción XVIII del artículo 25 de la Ley, si las partes involucradas no se ponen de acuerdo en la forma de la reparación del daño, el policía remitirá el o los vehículos involucrados al depósito y notificará de los hechos al Juez.
+En el caso de la fracción XVIII del artículo 25 de la Ley, si las partes involucradas no se ponen de acuerdo en la forma de la reparación del daño, el policía remitirá el o los vehículos involucrados al depósito y notificará de los hechos al Juez. Cuando las partes lleguen a un acuerdo sobre la reparación de los daños antes del inicio del procedimiento, el Juez liberará los vehículos dejando constancia de la voluntad de las partes.
 
 El policía que se abstenga de cumplir con lo dispuesto en este artículo, será sancionado por los órganos competentes de la Secretaría, en términos de las disposiciones aplicables.
 
@@ -1164,7 +1218,11 @@ I. Sala de audiencias;
 
 II. Sección de recuperación de personas en estado de ebriedad o intoxicadas;
 
-III. Sección de menores;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, G.O. 16 DE FEBRERO DE 2011)</small>
+
+III. Sección de Adolescentes;
 
 IV. Sección médica, y
 
@@ -1495,3 +1553,11 @@ SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 TERCERO.- La Secretaría de Salud del Distrito Federal presentará al Consejo Contra las Adicciones del Distrito Federal, en la sesión inmediata que convoque a la entrada en vigor del presente Decreto, las propuestas de Convenios a los que se refiere la fracción X del artículo 83 de la Ley de Salud del Distrito Federal, con la finalidad de que sean aprobados y disponga las acciones que considere necesarias para el debido cumplimiento y seguimiento en la ejecución de los mismos.
 
 CUARTO.- La Secretaría de Salud del Distrito Federal, en tanto no se apliquen los convenios señalados en el presente Decreto, tomando en cuenta la disposición del personal requerido para dicha actividad, brindará las pláticas informativas relativas a la prevención y atención de las adicciones a las personas que comentan infracciones por conductas relacionadas con el consumo de alcohol, drogas o enervantes, sancionadas por la Ley de Cultura Cívica del Distrito Federal o por el Reglamento de Tránsito Metropolitano.
+
+G.O. 16 DE FEBRERO DE 2011.
+
+Primero.- Publíquese en la Gaceta Oficial del Distrito Federal; y su para (sic) mayor difusión en el Diario Oficial de la Federación.
+
+Segundo.- El presente Decreto entrará en vigor a los treinta días naturales posteriores a su publicación.
+
+Tercero.- El Jefe de Gobierno del Distrito Federal, contará con noventa días naturales, a partir de la publicación del presente decreto, para realizar las adecuaciones necesarias al Reglamento de la Ley de Cultura Cívica del Distrito Federal.
