@@ -4,7 +4,7 @@ identifier: "CHH-codigo-de-procedimientos-penales-del-estado-de-chihuahua-51496"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-08-09"
-last_updated: "2010-10-23"
+last_updated: "2011-02-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51496&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CODIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE CHIHUAHUA
 
 > <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO 276/08 II P.O. SE EXPIDE LA DECLARATORIA DE INCORPORACIÓN DEL NUEVO SISTEMA PROCESAL PENAL ACUSATORIO EN EL ESTADO DE CHIHUAHUA, PUBLICADA EN EL P.O. 30 DE JULIO DE 2008, LA CUAL ENTRARÁ EN VIGOR A PARTIR DE LAS CERO HORAS: 1.- EN EL DISTRITO JUDICIAL MORELOS, DEL 1o. DE ENERO DE 2007; 2.- EN EL DISTRITO JUDICIAL BRAVOS, DEL 1o. DE ENERO DE 2008; 3.- EN EL RESTO DE LOS DISTRITOS JUDICIALES DEL ESTADO, DEL 1o. DE JULIO DE 2008.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE OCTUBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE FEBRERO DE 2011.
 
 Código publicado en el Folleto Anexo al Periódico Oficial del Estado Chihuahua, el miércoles 9 de agosto de 2006.
 
@@ -1761,13 +1761,13 @@ El imputado contra quien se hubiere emitido la orden de aprehensión, podrá ocu
 
 Detención por orden judicial.
 
-> <small>(REFORMADO, P.O.18 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2009)</small>
 
 Cuando exista denuncia o querella, de un hecho que la ley señale como delito, sancionado con pena privativa de libertad y obren datos que establezcan que se ha cometido ese hecho y que exista la probabilidad de que el imputado lo cometió o participó en su comisión, y la comparecencia del mismo pudiera verse demorada o dificultada, el Juez, a solicitud del Ministerio Público, podrá ordenar la aprehensión del imputado para ser conducido a su presencia, sin previa citación, a fin de formularle la imputación.
 
 También se decretará la aprehensión de imputado cuya presencia en una audiencia judicial fuere condición de ésta y que, legalmente citado, no compareciere sin causa justificada, siempre y cuando se reúnan los requisitos previstos en el párrafo anterior, salvo el último de los ahí mencionados.
 
-> <small>(REFORMADO, P.O.18 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2009)</small>
 
 Los agentes policiales que ejecuten una orden judicial de aprehensión informarán al imputado las razones de su detención y lo conducirán sin dilación alguna ante el Juez de Garantía, quien convocará de inmediato a la audiencia de formulación de imputación.
 
@@ -2451,9 +2451,9 @@ Querella es la expresión de voluntad de la víctima u ofendido del delito, o de
 
 Delito perseguible por querella.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE ENERO DE 2010)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE FEBRERO DE 2011)</small>
 
-Es necesaria la querella y sin ella no podrá procederse contra los responsables, cuando se trate de delitos que atentan contra el cumplimiento de la obligación alimentaria previsto en el artículo 188 del Código Penal, lesiones que tardan en sanar menos de quince días, lesiones que tarden más de quince días y menos de sesenta, peligro de contagio, amenazas, allanamiento de vivienda, despacho, oficina o establecimiento mercantil, revelación de secretos, estupro, abusos sexuales, excepto los contemplados en los artículos 174 y 175 del Código Penal, hostigamiento sexual, procreación asistida e inseminación artificial, en los términos del artículo 151 del Código Penal, privación de la libertad con fines sexuales, abuso de confianza, fraude, daños, con excepción de los contemplados en el artículo 237 del Código Penal, despojo, administración fraudulenta y falsificación de documentos, de acuerdo con el párrafo segundo del artículo 330 del Código Penal.
+Es necesaria la querella y sin ella no podrá procederse contra los responsables, cuando se trate de delitos que atentan contra el cumplimiento de la obligación alimentaria previsto en el artículo 188 del Código Penal, lesiones que tardan en sanar menos de quince días, lesiones que tarden más de quince días y menos de sesenta, peligro de contagio, amenazas, allanamiento de vivienda, despacho, oficina o establecimiento mercantil, revelación de secretos, estupro, abusos sexuales, excepto los contemplados en los artículos 174 y 175 del Código Penal, hostigamiento sexual, procreación asistida e inseminación artificial, en los términos del artículo 151 del Código Penal, privación de la libertad con fines sexuales, abuso de confianza, fraude, daños, con excepción de los contemplados en el artículo 237 del Código Penal, despojo y administración fraudulenta.
 
 Asimismo, se requerirá querella en los delitos de robo, robo de ganado y encubrimiento por receptación de éstos, cuando los mismos sean cometidos por el ascendiente, descendiente, cónyuge, parientes por consanguinidad y afinidad hasta el segundo grado, concubina o concubinario, adoptante o adoptado.
 
@@ -5212,3 +5212,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 La modificación, derogación o reubicación de cualquier tipo penal a que se refiere este Decreto, no implicará la libertad de los responsables por los delitos cometidos con anterioridad a su vigencia, siempre que los hechos se sigan comprendiendo en los tipos modificados o creados.
+
+P.O. 16 DE FEBRERO DE 2011.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
