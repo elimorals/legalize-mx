@@ -4,7 +4,7 @@ identifier: "MOR-constitucion-politica-del-estado-libre-y-soberano-de-morelos-65
 country: "mx"
 rank: "constitucion"
 publication_date: "1930-11-16"
-last_updated: "2010-12-08"
+last_updated: "2011-02-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,11 @@ state: "MOR"
 ---
 # CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
+> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 23 DE FEBRERO DE 2011 NO APLICA AL ARTICULADO DEL DECRETO 990 PUBLICADO EN EL P.O. DE 16 DE FEBRERO DE 2011.</small>
+
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE FEBRERO DE 2011.
 
 Constitución publicada en el Alcance al Periódico Oficial del Estado de Morelos, el 16 de noviembre de 1930.
 
@@ -44,9 +46,11 @@ DISPOSICIONES PRELIMINARES.
 
 DE LA SOBERANIA, INDEPENDENCIA, TERRITORIO, Y FORMA DE GOBIERNO DEL ESTADO Y DE LAS GARANTIAS INDIVIDUALES Y SOCIALES.
 
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 1.
 
-El Estado de Morelos, es libre, Soberano e Independiente. Con los límites geográficos legalmente reconocidos, es parte integrante de los Estado Unidos Mexicanos, y en consecuencia, adopta para su régimen interior la forma de Gobierno republicano, representativo y popular; tendrá como base de su organización política y administrativa, el Municipio Libre, siendo su Capital la ciudad de Cuernavaca.
+El Estado de Morelos, es·Libre, Soberano e Independiente. Con los límites geográficos legalmente reconocidos, es parte integrante de los Estado Unidos Mexicanos, y en consecuencia, adopta para su régimen interior la forma de Gobierno republicano, representativo, Laico y popular; tendrá como base de su organización política y administrativa, el Municipio Libre, siendo su Capital la ciudad de Cuernavaca.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE DICIEMBRE DE 2008)</small>
 
@@ -4015,3 +4019,11 @@ PRIMERO.- Aprobado que sea el presente decreto en los términos de lo dispuesto 
 SEGUNDO.- Una vez aprobado por el Constituyente Permanente, el presente Decreto iniciará su vigencia a partir de su publicación de la declaratoria correspondiente en el Periódico Oficial "Tierra y Libertad" órgano de Gobierno del Estado de Morelos.
 
 TERCERO.- El nombre del Municipio de Tlaltizapán pasará a ser el de "Tlaltizapán de Zapata" para todos los efectos de personalidad jurídica del municipio.
+
+P.O. 16 DE FEBRERO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+Aprobado el presente decreto por el Constituyente Permanente y hecha la declaratoria correspondiente, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" órgano de difusión del Gobierno del Estado de Morelos.
+
+ARTÍCULO TERCERO (sic). Se derogan todas aquellas disposiciones que contravengan en lo dispuesto al presente decreto.
