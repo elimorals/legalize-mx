@@ -4,7 +4,7 @@ identifier: "ROO-constitucion-politica-del-estado-libre-y-soberano-de-7319"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-12"
-last_updated: "2011-01-28"
+last_updated: "2011-02-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ENERO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE FEBRERO DE 2011.
 
 Constitución publicada en el Periódico Oficial del Estado de Quintana Roo, el 12 de enero de 1975.
 
@@ -67,7 +67,7 @@ El Estado de Quintana Roo adopta la forma de gobierno republicano, representativ
 
 > <small>(REFORMADO, P.O. 17 DE JULIO DE 2002)</small>
 
-###### ARTICULO 6º.
+###### ARTICULO 6o.
 
 Quintana Roo es un Estado democrático, considerando a la democracia no solamente como una estructura jurídica y un régimen político, sino como un sistema de vida fundado en el permanente mejoramiento integral de su población. El Estado, por tanto, persigue la democracia en sus dimensiones, social, económica, política y cultural.
 
@@ -289,7 +289,7 @@ Sólo podrá privarse a las personas de la libertad, propiedades, posesiones ode
 
 En los juicios del orden criminal nunca se impondrá por simple analogía ni aún por mayoría de razón, pena alguna que no esté decreta (sic) por una ley exactamente aplicable al delito de que se trata.
 
-En los juicios del orden civil, la sentencia definitiva deberá ser conforme a la letra o a la interpretación jurídica de la ley, y en su deficiencia, ésta se fundará en los principios generales de derecho
+En los juicios del orden civil, la sentencia definitiva deberá ser conforme a la letra o a la interpretación jurídica de la ley, y en su deficiencia, ésta se fundará en los principios generales de derecho.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
@@ -2033,25 +2033,237 @@ El Municipio Libre es la base de la división territorial y de la organización 
 
 La Autonomía del Municipio Libre se expresa en la facultad de gobernar y administrar por sí mismo los asuntos propios de su comunidad, en el ámbito de competencia que le señala la Constitución Política de los Estados Unidos Mexicanos, la presente Constitución y las leyes que conforme a ellas se expidan.
 
-> <small>(REFORMADO, P.O. 19 DE MAYO DE 2008)</small>
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2011)</small>
 
 ###### ARTICULO 127.
 
-El Estado de Quintana Roo, se integra con los siguientes Municipios: Othón P. Blanco, Felipe Carrillo Puerto, José María Morelos, Cozumel, Lázaro Cárdenas, Benito Juárez, Isla Mujeres, Solidaridad y Tulum.
+El Estado de Quintana Roo, se integra con los siguientes Municipios:
 
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
+Othón P. Blanco, Felipe Carrillo Puerto, José María Morelos, Cozumel, Lázaro Cárdenas, Benito Juárez, Isla Mujeres, Solidaridad, Tulum y Bacalar.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE FEBRERO DE 2011)</small>
 
 ###### ARTICULO 128.
 
-La extensión, límites y cabeceras de los municipios del Estado son:
+La extensión, límites y cabeceras de los Municipios del Estado son:
 
-I. MUNICIPIO DE OTHON P. BLANCO, con cabecera en Chetumal: Al norte, el paralelo que pasa por el extremo suroeste del ejido Altamirano, se continúa con rumbo este por el lindero sur del ejido mencionado, el lindero poniente de los ejidos de Nuevo Israel y Emiliano Zapata, el lindero sur del ejido último mencionado, el lindero sur del Ejido de Petcacab, los linderos poniente, sur y oriente del ejido Nohbec, el lindero norte del ejido de Cafetal, y sobre el paralelo que pasa por la esquina noreste del ejido mencionado, se continúa hasta encontrar la costa del Mar Caribe, al sur el paralelo límite de las Repúblicas de México y Guatemala, el Río Hondo límite de la República de México con Honduras Británicas y las aguas de la Bahía de Chetumal, al este, el Mar Caribe, al este, la Línea que partiendo del vértice del ángulo formado por los límites de los Estados de Yucatán y Campeche, 200 metros al este de Put con coordenadas geográficas de 19 grados 39 minutos y 07 segundos de latitud norte y 89 grados 24 minutos 52 segundos de longitud oeste de Greenwich, desciende al sur hasta el paralelo límite de las Repúblicas de México y Guatemala. Igualmente comprenderá el Banco de Chinchorro que integran los cayos Lobos, Norte, Centro y demás cayos e islotes adyacentes a su litoral.
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2011)</small>
+
+I.- MUNICIPIO DE OTHÓN P. BLANCO, con cabecera en la Ciudad de Chetumal, comprendiendo la siguiente extensión territorial:
+
+Coordenadas UTM
+
+Vértice
+
+(en metros)
+
+X Y
+
+1 245,656.09 2,088,249.08
+
+2 265,182.61 2,088,249.08
+
+3 267,503.65 2,088.507.14
+
+4 273,652.46 2,088.625.42
+
+5 274,694.72 2,088,749.16
+
+6 282,343.50 2,089,656.58
+
+7 282,559.20 2,087,984.76
+
+8 282,774.89 2,086,312.94
+
+9 288,607.16 2,087,116.75
+
+10 288,534.79 2,081,757.48
+
+11 290,727.60 2,081,728.30
+
+12 292,920.41 2,081,699.13
+
+13 292,929.64 2,081,569.30
+
+14 292,938.86 2,081,439.48
+
+15 292,858.34 2,080,507.01
+
+16 292,777.81 2,079,574.55
+
+17 294,415.02 2,079,484.70
+
+18 296,052.23 2,079,394.85
+
+19 297,253.17 2,079,310.94
+
+20 297,305.20 2,080,584.13
+
+21 297,357.22 2,081,857.33
+
+22 299,769.60 2,081,856.33
+
+23 303,931.02 2,081,854.61
+
+24 305,065.43 2,081,856.81
+
+25 306,199.84 2,081,859.01
+
+26 306,849.14 2,081,873.93
+
+27 307,498.44 2,081,888.86
+
+28 307,498.61 2,081,888.86
+
+29 307,524.63 2,080,623.62
+
+30 307,573.80 2,078,105.13
+
+31 307,629.81 2,075,174.47
+
+32 314,573.40 2,075,125.78
+
+33 315,131.42 2,075,131.77
+
+34 315,119.07 2,069,634.96
+
+35 315,106.89 2,064, 138.36
+
+36 315,075.14 2,062, 249.69
+
+37 315,043.39 2,060, 361.03
+
+38 322,640.11 2,060, 352.93
+
+39 330,236.83 2,060, 344.84
+
+40 331 ,408.86 2,060, 344.38
+
+41 332,580.88 2,060, 343.92
+
+42 332,685.33 2,062, 044.12
+
+43 332,789.78 2,063, 744.33
+
+44 334,099.49 2,063, 228.78
+
+45 335,409.20 2,062, 713.24
+
+46 342,518.41 2,06 1,559.56
+
+47 350,859.74 2,060, 222.77
+
+48 351,113.76 2,061, 877.85
+
+49 351,154.34 2,061, 915.08
+
+*50 351,276.24 2,061, 913.46
+
+51 377,816.64 2,090, 297.76
+
+52 379,517.69 2,090, 180.48
+
+53 380,077.69 2,093 ,202.58
+
+54 380,454.63 2,093, 298.78
+
+55 385,757.08 2,093, 187.79
+
+56 385,748.26 2,095, 989.29
+
+57 385,748.26 2,095, 989.29
+
+58 385,541.79 2,098, 646.01
+
+59 385,542.05 2,098, 645.88
+
+60 386,053.52 2,098, 725.45
+
+61 386,651.75 2,098, 689.25
+
+62 387,249.98 2,098, 653.06
+
+63 387,951.67 2,098, 619.27
+
+64 388,005.27 2,099, 002.49
+
+65 388,155.58 2,099, 002.44
+
+66 388,199.79 2,098, 996.52
+
+67 388,243.99 2,098, 990.61
+
+68 388,243.99 2,098, 812.17
+
+69 388,248.91 2,098, 633.73
+
+70 389,012.15 2,098, 837.89
+
+71 389,605.04 2,098, 996.35
+
+72 389,605.09 2,098, 996.36
+
+73 389,605.23 2,098, 996.35
+
+74 431,760.07 2,098, 348.74
+
+75 434,959.48 2,096, 799.81
+
+**76 435,423.13 2,096, 792.96
+
+***77 272,048.30 1,984, 896.46
+
+78 272 ,040.30 1,984, 135.45
+
+79 272,030.30 1,983, 186.45
+
+80 272,037.30 1,981, 594.44
+
+81 272,005.30 1,981,107.44
+
+82 272,014.30 1,980, 778.44
+
+83 272,013.30 1,980, 673.44
+
+****84 271,884.29 1,971, 029.39
+
+85 263,668.25 1,971, 150.39
+
+86 263,211.25 1,971, 156.39
+
+87 261,690.24 1,971, 179.39
+
+88 256,575.22 1,971, 254.40
+
+89 244,075.77 1,971, 553.04
+
+* Del vértice 50 se continúa, hacia el norte, sobre la parte media de la Laguna de Bacalar hasta llegar al vértice 51
+
+** Del vértice 76 se sigue, hacia el sur, la costa del Mar Caribe, las aguas de la Bahía de Chetumal y el Río Hondo límite de la República de México con Honduras Británicas actualmente el país de Belice, hasta llegar al vértice 77.
+
+*** Del vértice 77 al vértice 84 el Municipio colinda con Honduras Británicas, actualmente el país de Belice.
+
+****Los vértices del 84 al 89 conforman el límite del Municipio con la República de Guatemala.
+
+*** Del vértice 77 al vértice 84 el Municipio colinda con Honduras Británicas, actualmente el país de Belice (sic).
+
+****Los vértices del 84 al 89 conforman el límite del Municipio con la República de Guatemala (sic).
+
+Igualmente comprenderá el Banco de Chinchorro que integran los cayos Lobos, Norte, Centro y demás cayos e islotes adyacentes a su litoral.
+
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2003)</small>
 
 II. MUNICIPIO DE FELIPE CARRILLO PUERTO, con cabecera en la población del mismo nombre: Al norte la línea colindante con el Estado de Yucatán que partiendo del punto Put, con coordenadas de 19 grados 39 minutos 07 segundos de latitud norte y 89 grados 24 minutos 52 segundos de longitud oeste de Greenwich, corta el paralelo que pasa por la torre sur de Chemax, 20 kilómetros, al oriente de este punto, en su intersección con el meridiano 88 grados de Greenwich desciende al sureste hasta encontrar al vértice noroeste de la ampliación del ejido de Chuyaxché, sigue por el lindero norte de la ampliación de este ejido con rumbo este, desciende al sur por el lindero poniente y sur del ejido de Tulum y sobre esta línea al interceptar el meridiano de 87 grados 30 minutos de Greenwich desciende al sur hasta encontrar la costa de la Bahía de la Ascención. Al sur el municipio de Othón P. Blanco. Al este las Bahías de la Ascención, del Espíritu Santo y el Mar Caribe. Al oeste partiendo del ángulo suroeste del ejido Altamirano, con rumbo norte se recorre el lindero poniente de los ejidos de Altamirano y Presidente Juárez, el lindero sur y poniente del ejido Santa Lucía, los linderos sur, poniente y norte de la ampliación del ejido Ramonal, el lindero poniente del ejido de Chunhuhub, los linderos poniente y norte de la ampliación del ejido de Polyuc, el lindero poniente y norte de la ampliación del ejido de X-Yatil, el lindero poniente del ejido de X-Pichil, el lindero poniente del ejido de Dzoyolá, el lindero oriente del ejido de X-Cabil, continuando por lindero norte de este ejido prolongándose hasta la línea divisoria con el Estado de Yucatán.
 
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2003)</small>
+
 III. MUNICIPIO DE JOSÉ MARÍA MORELOS, con cabecera en la población del mismo nombre: Al norte, la línea que partiendo del vértice del ángulo formado por los límites de los Estados de Yucatán y Campeche, 200 metros al oeste de Put, llega hasta la intersección con el paralelo que pasa por la torre sur de Chemax, 20 kilómetros al oriente de este punto y colindando con el Estado de Yucatán. Al sur, el municipio de Othón P. Blanco. Al este, el municipio de Felipe Carrillo Puerto. Al oeste, la línea que partiendo del vértice del ángulo formado por los límites de los Estados de Yucatán y Campeche, 200 metros al oeste de Put, desciende al sur hasta el paralelo límite de las Repúblicas de México y Guatemala.
 
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2003)</small>
+
 IV. MUNICIPIO DE COZUMEL, con cabecera en la población del mismo nombre. Comprende la Isla de Cozumel, islotes y cayos adyacentes. Quedan dentro de su jurisdicción las superficies de la zona continental siguientes: Polígono con un área de 1,119.42 hectáreas, con las siguientes medidas, rumbos y colindancias: partiendo del vértice número 7 ubicado al sureste del polígono con rumbo suroeste 22 grados 42 minutos y una distancia de 140 metros, se llega al vértice número 8, de este vértice con rumbo suroeste 38 grados 47 minutos y una distancia de 137 metros, se llega al vértice número 9, de este vértice con rumbo suroeste 37 grados 31 minutos y una distancia de 141 metros, se llega al vértice número 10, de este vértice con rumbo suroeste 42 grados 01 minutos y una distancia de 191 metros, se llega al vértice número 11, de este vértice con rumbo suroeste 24 grados 31 minutos y una distancia de 188 metros, se llega al vértice número 12, de este vértice con rumbo suroeste 56 grados 16 minutos y una distancia de 132 metros, se llega al vértice número 13, de este vértice con rumbo suroeste 41 grados 59 minutos y una distancia de 121 metros, se llega al vértice número 14, de este vértice con un rumbo suroeste 19 grados 41 minutos y una distancia de 101 metros, se llega al vértice número 15, colindando del vértice número 7 al vértice número 15 con el Mar Caribe; del vértice número 15 con rumbo noroeste 41 grados 16 minutos y una distancia de 1,916 metros, se llega al vértice número 16, colindando el vértice número 15 al vértice número 16 con el Rancho Punta Venado e Instituto Nacional de Antropología e Historia; del vértice número 16 con rumbo noroeste 41 grados 16 minutos y una distancia de 40 metros, se llega al vértice número 17, colindando el vértice número 16 y el 17 con la carretera federal número 307 Reforma Agraria-Puerto Juárez; del vértice número 17 con rumbo suroeste 51 grados 11 minutos y una distancia de 2,119 metros, se llega al vértice número 18, colindando el vértice número 17 y el 18 con el derecho de vía de la carretera federal número 307 Reforma Agraria-Puerto Juárez; del vértice número 18 con rumbo noroeste 64 grados 38 minutos y una distancia de 4,020 metros, se llega al vértice número 19, colindando el vértice número 18 y el 19 con el Rancho La Adelita; del vértice número 19 con rumbo noreste 44 grados 14 minutos y una distancia de 1, 971 metros, se llega al vértice número 20, del vértice número 20 con rumbo sureste 74 grados 33 minutos y una distancia de 3,720 metros se llega al vértice número 21, colindando el vértice número 19 al vértice número 21 con terrenos nacionales; del vértice número 21 con rumbo noreste 88 grados 15 minutos y una distancia de 230 metros, se llega al vértice número 22, del vértice número 22 con rumbo sureste 46 grados 26 minutos y una distancia de 84 metros, se llega al vértice número 23, del vértice número 23, con rumbo noreste 77 grados 32 minutos y una distancia de 88 metros, se llega al vértice número 24, del vértice número 24 con rumbo sureste 80 grados 16 minutos y una distancia de 249 metros, se llega al vértice número 25, del vértice número 25 con rumbo sureste 53 grados 20 minutos y una distancia de 390 metros, se llega al vértice número 1, colindando del vértice número 21 al vértice número 1 con el Rancho Los Corchales. Del vértice número 1 con rumbo sureste 39 grados 48 minutos y una distancia de 40 metros, se llega al vértice número 2, colindando del vértice número 1 al vértice número 2 con carretera federal número 307 Reforma Agraria-Puerto Juárez. Del vértice número 2 con rumbo sureste 39 grados 48 minutos y una distancia de 117 metros, se llega al vértice número 3, colindando del vértice número 2 al vértice número 3 con el Rancho Los Corchales; del vértice número 3 con rumbo sureste 50 grados 10 minutos y una distancia de 1,328 metros, se llega al vértice número 4, del vértice número 4 con rumbo noreste 48 grados 48 minutos y una distancia de 276 metros, se llega al vértice número 5, del vértice número 5 con rumbo sureste 53 grados 56 minutos y una distancia de 228 metros, se llega al vértice número 6, del vértice número 6 con rumbo sureste 37 grados 52 minutos y una distancia de 91 metros, se llega al vértice número 7, que es el punto de partida para cerrar el polígono, colindando del vértice número 3 al vértice número 7 con el Rancho X-Caret III. Polígono con un área de 90 hectáreas que comprende el Parque Ecológico de Xel-Há, con las medidas, rumbos y colindancias siguientes: Partiendo del vértice número 1, ubicado al sureste del polígono, con rumbo sureste 36 grados 35 minutos y una distancia de 206 metros, se llega al vértice número 2, del vértice número 2 con rumbo suroeste 60 grados 56 minutos y una distancia de 206 metros, se llega al vértice número 3, del vértice número 3 con rumbo suroeste 33 grados y una distancia de 187 metros, se llega al vértice número 4, del vértice número 4 con rumbo sureste 23 grados 39 minutos y una distancia de 97 metros, se llega al vértice número 5, del vértice número 5 con rumbo suroeste 27 grados 35 minutos y una distancia de 125 metros, se llega al vértice número 6, del vértice número 6 con rumbo suroeste 10 grados 03 minutos y una distancia de 172 metros, se llega al vértice número 7, del vértice número 7 con rumbo suroeste 27 grados 15 minutos y una distancia de 111 metros, se llega al vértice número 8, colindando del vértice número 1 al vértice número 8 con el Mar Caribe; del vértice número 8 con rumbo noroeste 61 grados 36 minutos y una distancia de 126 metros, se llega al vértice número 9, del vértice número 9 con rumbo noroeste 24 grados 12 minutos y una distancia de 120 metros, se llega al vértice número 10, del vértice número 10 con rumbo noroeste 19 grados 52 minutos y una distancia de 138 metros, se llega al vértice número 11, del vértice número 11 con rumbo noroeste 11 grados 49 minutos y una distancia de 132 metros, se llega al vértice número 12, del vértice número 12 con rumbo noroeste 22 grados 51 minutos y una distancia de 111 metros, se llega al vértice número 13, del vértice número 13 con rumbo noroeste 19 grados 49 minutos y una distancia de 65 metros, se llega al vértice número 14, del vértice número 14 con rumbo suroeste 75 grados 27 minutos y una distancia de 112 metros, se llega al vértice número 15, del vértice número 15 con rumbo suroeste 26 grados 33 minutos y una distancia de 85 metros, se llega al vértice número 16, del vértice número 16 con rumbo suroeste 01 grados y una distancia de 113 metros, se llega al vértice número 17, del vértice número 17 con rumbo suroeste 23 grados 42 minutos y una distancia de 117 metros, se llega al vértice número 18, del vértice número 18, con rumbo sureste 48 grados y una distancia de 135 metros, se llega al vértice número 19, del vértice número 19 con rumbo sureste 45 grados 14 minutos y una distancia de 173 metros, se llega al vértice número 20, del vértice número 20 con rumbo sureste 71 grados 17 minutos y una distancia de 134 metros, se llega al vértice número 21, del vértice número 21 con rumbo sureste 46 grados 52 minutos y una distancia de 108 metros, se llega al vértice número 22, colindando del vértice número 8 al vértice número 22 con el Mar Caribe. Del vértice número 22 con rumbo sureste 09 grados 46 minutos y una distancia de 88 metros, se llega al vértice número 23, del vértice número 23 con rumbo suroeste 10 grados 05 minutos y una distancia de 74 metros, se llega al vértice número 24, del vértice número 24 con rumbo suroeste 32 grados 28 minutos y una distancia de 156 metros, se llega al vértice número 25, colindando del vértice número 22 al vértice número 25 con el Mar Caribe; del vértice número 25 con rumbo noroeste 66 grados 03 minutos y una distancia de 791 metros, se llega al vértice número 26, colindando el vértice 25 y el 26 con terrenos de propiedad particular; del vértice número 26 con rumbo noreste 26 grados 10 minutos y una distancia de 1,256 metros, se llega al vértice número 27, del vértice número 27 con rumbo sureste 66 grados 30 minutos y una distancia de 683 metros, se llega al vértice número 1, que es el punto de partida para cerrar el polígono.
+
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2003)</small>
 
 V. MUNICIPIO DE LÁZARO CARDENAS, con cabecera en Kantunilkín: Al norte el Canal de Yucatán. Al sur, el Municipio de Solidaridad. Al este, partiendo de la esquina norte del ejido de Playa del Carmen, se sigue con rumbo norte sobre el meridiano que pasa por este sitio hasta encontrar el lindero sur del ejido Leona Vicario, se dobla al oeste siguiendo el lindero sur de este Ejido, se continúa sobre el lindero oeste y norte hasta la intersección con el meridiano 87 grados 05 minutos 50 segundos, de longitud oeste de Greenwich, se sigue con rumbo norte sobre este meridiano hasta encontrar el lindero poniente del ejido de Isla Mujeres, se continúa por el lindero de este ejido hasta la intersección con el meridiano 87 grados 06 minutos 21 segundos de longitud oeste de Greenwich se sigue sobre este meridiano hasta llegar al faro de Cabo Catoche. Al oeste, la línea que partiendo de la costa norte del Canal de Yucatán, sigue el arco del meridiano 87 grados 32 minutos, longitud oeste de Greenwich, hasta cortar el paralelo 21 grados, y de allí continúa hasta encontrar el paralelo que pasa por la Torre Sur de Chemax, veinte kilómetros al oriente de este punto, comprendiendo la Isla de Holbox.
 
@@ -2059,7 +2271,7 @@ REFORMADA, P.O. 9 DE MARZO DE 2010)
 
 VI.- MUNICIPIO DE BENITO JUÁREZ, con cabecera en Cancún: Al Norte, partiendo de la costa del Mar Caribe, de acuerdo a la siguiente tabla:
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 Al Sur, el Municipio de Solidaridad y el Mar Caribe. Al Este, el Mar Caribe y al Oeste, el Municipio de Lázaro Cárdenas. Quedan en su jurisdicción la Isla de Cancún y Cayos adyacentes.
 
@@ -2259,9 +2471,315 @@ EST P.V. X Y
 
 42 43 S 65°25'58"E 833.981 467675.680 2257242.454 42
 
-43 1 Sobre la línea de costa del Mar Caribe hacia el sur hasta llegar al vértice 1. Se respeta el polígono del Xel-Ha perteneciente al Municipio de Cozumel descrito en el Artículo 128 fracción IV párrafo cuarto de la Constitución Política del Estado Libre y Soberano de Quintana Roo.
+43 1 Sobre la línea de costa del Mar Caribe hacia el sur hasta llegar al vértice 1. Se respeta el polígono del Xel-Ha perteneciente al Municipio de Cozumel descrito en el Artículo 128 fracción IV párrafo cuarto de la Constitución Política del Estado Libre y Soberano de Quintana Roo. 468434.164 2256895.718 43
 
 Se excluyen de su jurisdicción, las áreas descritas en la fracción IV párrafo cuarto de este artículo.
+
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2011)</small>
+
+X.- MUNICIPIO DE BACALAR, con cabecera en la Ciudad de Bacalar, comprendiendo la siguiente extensión territorial:
+
+Coordenadas UTM
+
+Vértice
+
+(en metros)
+
+X Y
+
+1 245,656.09 2,088, 249.08
+
+2 246,184.82 2,127, 292.41
+
+3 286,918.12 2,127, 292.41
+
+4 308,988.21 2,127, 292.41
+
+5 310,306.19 2,127, 288.42
+
+6 313,626.19 2,127, 277.53
+
+7 314,624.22 2,127, 269.26
+
+8 319,470.29 2,127, 287.09
+
+9 319,450.69 2,125, 866.01
+
+10 324,441.94 2,125, 741.53
+
+11 331,972.63 2,125, 747.48
+
+12 332,860.75 2,125, 083.76
+
+13 332,841.34 2,122, 554.56
+
+14 336,478.36 2,122, 525.01
+
+15 336,463.60 2,123, 869.87
+
+16 338,322.70 2,123, 838.97
+
+17 339,090.82 2,123, 780.70
+
+18 343,895.07 2,123, 896.11
+
+19 344,131.55 2,123, 165.13
+
+20 345,053.69 2,122, 934.80
+
+21 346,933.66 2,123, 039.40
+
+22 351,263.87 2,123, 352.71
+
+23 354,365.65 2,123, 335.62
+
+24 353,430.83 2,121, 541.54
+
+25 352,904.62 2,120, 531.67
+
+26 351,923.25 2,117, 381.20
+
+27 350,464.33 2,112, 849.26
+
+28 350,243.63 2,112, 157.08
+
+29 353,997.41 2,111, 808.40
+
+30 359,296.75 2,110, 154.24
+
+31 360,231.50 2,109, 873.49
+
+32 361,152.64 2,109, 573.15
+
+33 365,517.50 2,108, 200.53
+
+34 369,264.34 2,107, 022.25
+
+35 369,608.75 2,107, 981.26
+
+36 369,696.73 2,108, 221.23
+
+37 370,837.58 2,111, 412.82
+
+38 370,840.05 2,111, 488.83
+
+39 371 ,191.87 2,112, 470.06
+
+40 371,665.64 2,113, 131.29
+
+41 371 ,712.76 2,113, 822.80
+
+42 371 ,712.76 2,113, 863.63
+
+43 371 ,598.90 2,114, 080.54
+
+44 371 ,830.98 2, 114 ,850.05
+
+45 372,113.14 2,115, 791.66
+
+46 372,925.48 2,118, 595.12
+
+47 374,495.00 2,118, 216.65
+
+48 375,137.68 2,118, 106.98
+
+49 375,427.20 2,118, 057.57
+
+50 375,616.82 2,118, 026.58
+
+51 376,644.08 2,117, 858.49
+
+52 376,511.64 2,116, 834.58
+
+53 376,632.82 2,116, 829.02
+
+54 376,646.59 2,116, 769.52
+
+55 377,007.37 2,116, 765.49
+
+56 377,155.14 2,116, 994.20
+
+57 377,965.33 2,116, 922.16
+
+58 377,965.33 2,116, 922.16
+
+59 377,965.33 2,116, 922.16
+
+60 377,965.33 2,116, 922.16
+
+61 379,618.04 2,116, 753.64
+
+62 379,635.58 2,116, 841.75
+
+63 380,320.63 2,116, 601.16
+
+64 383,750.58 2,115, 808.42
+
+65 384,634.21 2,115, 604.19
+
+66 386,491.92 2,115, 159.48
+
+67 390,944.49 2,114, 313.78
+
+68 391,348.42 2,114, 257.04
+
+69 393,026.59 2,114, 040.94
+
+70* 442,158.16 2,114, 040.94
+
+71 435,423.13 2,096, 792.96
+
+72 434,959.48 2,096, 799.81
+
+73 431,760.07 2,098, 348.74
+
+74 389,605.23 2,098, 996.35
+
+75 389,605.09 2,098, 996.36
+
+76 389,605.04 2,098, 996.35
+
+77 389,012.15 2,098, 837.89
+
+78 388,248.91 2,098, 633.73
+
+79 388,243.99 2,098, 812.17
+
+80 388,243.99 2,098, 990.61
+
+81 388,199.79 2,098, 996.52
+
+82 388,155.58 2,099, 002.44
+
+83 388,005.27 2,099, 002.49
+
+84 387,951.67 2,098, 619.27
+
+85 387,249.98 2,098, 653.06
+
+86 386,651.75 2,098, 689.25
+
+87 386,053.52 2,098, 725.45
+
+88 385,542.05 2,098, 645.88
+
+89 385,541.79 2,098, 646.01
+
+90 385,748.26 2,095, 989.29
+
+91 385,748.26 2,095, 989.29
+
+92 385,757.08 2,093, 187.79
+
+93 380,454.63 2,093, 298.78
+
+94 380,077.69 2,093, 202.58
+
+95 379,517.69 2,090, 180.48
+
+96** 377,816.64 2,090, 297.76
+
+97 351,276.24 2,061 ,913.46
+
+98 351,154.34 2,061, 915.08
+
+99 351,113.76 2,061, 877.85
+
+100 350,859.74 2,060, 222.77
+
+101 342,518.41 2,061, 559.56
+
+102 335,409.20 2,062, 713.24
+
+103 334,099.49 2,063, 228.78
+
+104 332,789.78 2,063, 744.33
+
+105 332,685.33 2,062, 044.12
+
+106 332,580.88 2,060, 343.92
+
+107 331,408.86 2,060, 344.38
+
+108 330,236.83 2,060, 344.84
+
+109 322,640.11 2,060, 352.93
+
+110 315,043.39 2,060, 361.03
+
+111 315,075.14 2,062, 249.69
+
+112 315,106.89 2,064, 138.36
+
+113 315,119.07 2,069, 634.96
+
+114 315,131.42 2,075, 131.77
+
+115 314,573.40 2,075, 125.78
+
+116 307,629.81 2,075, 174.47
+
+117 307,573.80 2,078, 105.13
+
+118 307,524.63 2,080, 623.62
+
+119 307,498.61 2,081 ,888.86
+
+120 307,498.44 2,081, 888.86
+
+121 306,849.14 2,081, 873.93
+
+122 306,199.84 2,081 ,859.01
+
+123 305,065.43 2,081, 856.81
+
+124 303,931.02 2,081, 854.61
+
+125 299,769.60 2,081, 856.33
+
+126 297,357.22 2,081, 857.33
+
+127 297,305.20 2,080, 584.13
+
+128 297,253.17 2,079, 310.94
+
+129 296,052.23 2,079, 394.85
+
+130 294,415.02 2,079 ,484.70
+
+131 292,777.81 2,079, 574.55
+
+132 292,858.34 2,080, 507.01
+
+133 292,938.86 2,081, 439.48
+
+134 292,929.64 2,081, 569.30
+
+135 292,920.41 2,081, 699.13
+
+136 290,727.60 2,081, 728.30
+
+137 288,534.79 2,081, 757.48
+
+138 288,607.16 2,087, 116.75
+
+139 282,774.89 2,086, 312.94
+
+140 282,559.20 2,087, 984.76
+
+141 282,343.50 2,089, 656.58
+
+142 274,694.72 2,088, 749.16
+
+143 273,652.46 2,088, 625.42
+
+144 267,503.65 2,088, 507.14
+
+145 265,182.61 2,088, 249.08
+
+* Del vértice 70 se sigue la línea de costa del Mar Caribe hasta llegar al vértice 71.
+
+** Del vértice 96 se continúa sobre la parte media de la Laguna de Bacalar hasta llegar al vértice 97.
 
 > <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
 
@@ -2339,9 +2857,9 @@ Los Ayuntamientos se integran en la siguiente forma:
 
 I. En los Municipios de Othón P. Blanco y Benito Juárez, con un Presidente, un Síndico, nueve Regidores electos según el principio de mayoría relativa y seis Regidores electos según el principio de representación proporcional.
 
-> <small>(REFORMADA, P.O. 19 DE MAYO DE 2008)</small>
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2011)</small>
 
-II. En los Municipios de Felipe Carrillo Puerto, José María Morelos, Cozumel, Lázaro Cárdenas, Solidaridad, Isla Mujeres y Tulum con un Presidente, un Síndico, seis Regidores electos según el principio de mayoría relativa y tres Regidores electos según el principio de representación proporcional.
+II.- En los Municipios de Felipe Carrillo Puerto, José María Morelos, Cozumel, Lázaro Cárdenas, Solidaridad, Islas Mujeres, Tulum y Bacalar con un Presidente, un Síndico, seis Regidores electos según el principio de mayoría relativa y tres Regidores electos según el principio de representación proporcional.
 
 Se elegirá un suplente para cada integrante del Ayuntamiento.
 
@@ -2355,7 +2873,9 @@ Los miembros del Ayuntamiento se elegirán por sufragio universal, libre, secret
 
 I. En los Municipios de Othón P. Blanco y Benito Juárez, cada partido político postulará una lista de once personas para ocupar los cargos de Presidente Municipal, Síndico y Regidores.
 
-En los Municipios de Felipe Carrillo Puerto, José Maria Morelos, Cozumel, Lázaro Cárdenas, Isla Mujeres, Solidaridad, y Tulum, cada partido político postulará una lista de ocho personas para ocupar los cargos de Presidente Municipal, Síndico y Regidores.
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2011)</small>
+
+En los municipios de Felipe Carrillo Puerto, José María Morelos, Cozumel, Lázaro Cárdenas, Isla Mujeres, Solidaridad, Tulum y Bacalar, cada partido político postulará una lista de ocho personas para ocupar los cargos de Presidente Municipal, Síndico y Regidores.
 
 > <small>(REFORMADA, P.O. 19 DE MAYO DE 2008)</small>
 
@@ -3538,3 +4058,37 @@ P.O. 28 DE ENERO DE 2011.
 PRIMERO.- El presente Decreto relativo al nuevo sistema de reinserción previsto en el párrafo segundo del Artículo 26, así como el régimen de modificación y duración de penas establecidas en el Artículo 29, entrará en vigor cuando lo establezca la legislación secundaria correspondiente, sin que pueda exceder del día 19 de junio del año 2011.
 
 SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Estado Libre y Soberano de Quintana Roo.
+
+P.O. 17 DE FEBRERO DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo y se observarán las previsiones contenidas en los artículos siguientes:
+
+SEGUNDO.- La elección para el primer Ayuntamiento Constitucional del Municipio de Bacalar, se realizará conforme a lo previsto por la Constitución Política del Estado y a las Leyes Electorales del Estado, bajo las siguientes bases:
+
+a).- El proceso electoral iniciará el día 16 de marzo del año 2013.
+
+b).-La jornada electoral se celebrará el primer domingo del mes de julio del año 2013.
+
+c).- El Ayuntamiento electo se instalará en ceremonia pública y solemne el día 30 de septiembre del 2013 y concluirá con sus funciones a las veinticuatro horas del día 29 de septiembre del 2016.
+
+TERCERO.- Dentro del término de quince días siguientes a la entrada en vigor del presente Decreto, la Legislatura del Estado de Quintana Roo o la Diputación permanente en su caso, previa aprobación del procedimiento para su designación, elegirá a los ciudadanos integrantes del Concejo Municipal de Bacalar, el cual se conformará con la estructura prevista por el Artículo 134 fracción II de la Constitución Política del Estado libre y Soberano de Quintana Roo, que mediante el presente Decreto se reforma. Para tal efecto los integrantes del Concejo Municipal, deberán satisfacer los requisitos establecidos por el Artículo 136 de la Constitución Política del Estado Libre y Soberano de Quintana Roo.
+
+CUARTO.- El Concejo Municipal de Bacalar, asumirá las funciones administrativas y políticas del Municipio que se crea, el día 11 de abril del 2011, día siguiente en que tomarán posesión los H. Ayuntamientos Constitucionales de los Municipios del Estado y concluirá en sus funciones a las veinticuatro horas del día 29 de septiembre del año 2013, fecha en que concluyen en su encargo los H. Ayuntamientos Constitucionales del Estado.
+
+QUINTO.- El Concejo Municipal de Bacalar, a partir de su instalación, queda facultado para que se coordine con el Gobierno Municipal de Othón P. Blanco, para realizar los procesos de transferencia de los servicios públicos e infraestructura, así como lo relativo al catastro, registros fiscales y contables y demás información necesaria para la continuidad en la prestación de los servicios públicos y el ejercicio de las atribuciones del Municipio que se crea mediante el presente Decreto.
+
+Las transferencias deberán ser aprobadas mediante el Acuerdo del Cabildo de Othón P. Blanco, dentro del ámbito de su competencia.
+
+En los procesos de entrega-recepción se observará, en lo conducente, lo dispuesto al efecto por la Ley de los Municipios del Estado de Quintana Roo.
+
+Los procesos de transferencia no deberán afectar los servicios públicos que actualmente se prestan en el territorio que se establece para el Municipio que se crea mediante el presente Decreto.
+
+SEXTO.- Se autoriza al Ejecutivo del Estado, a través de la Secretaría de Hacienda del Estado, a redistribuir las participaciones y aportaciones presentes y futuras que le correspondan al creado Municipio de Bacalar, ajustando las participaciones y aportaciones de los demás Municipios del Estado. Lo anterior de acuerdo a lo establecido en la Ley de Coordinación Fiscal Federal y demás disposiciones legales aplicables.
+
+SÉPTIMO.- Hasta en tanto el Concejo Municipal del Bacalar o el Ayuntamiento del Municipio de Bacalar, no expida su propia reglamentación y disposiciones municipales, continuarán aplicándose en lo conducente los reglamentos y disposiciones del Municipio de Othón P. Blanco.
+
+Las Leyes en materia de hacienda, ingresos y en general todas aquellas aplicables al Municipio de Othón P. Blanco, lo serán en lo conducente al Municipio de Bacalar, hasta en tanto la Legislatura del Estado expida las leyes o realice las adecuaciones correspondientes.
+
+OCTAVO.- Los Órganos Jurisdiccionales con competencia en el Municipio de Othón P. Blanco, conservarán su jurisdicción territorial que hasta ahora han tenido, hasta en tanto se adecuan las leyes o disposiciones correspondientes.
+
+NOVENO.- Los Programas de Desarrollo Urbano y los Proyectos de Inversión para el Año 2011 destinados para Bacalar y las comunidades que componen el nuevo Municipio que han sido aprobados por el H. Cabildo de Othón P. Blanco, quedarán vigentes y serán obligatorios.
