@@ -4,7 +4,7 @@ identifier: "COA-reglamento-de-acceso-a-la-informacion-publica-y-proteccion-7827
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-12-07"
-last_updated: "2010-12-07"
+last_updated: "2011-02-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78276&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ state: "COA"
 
 REGLAMENTO DE ACCESO A LA INFORMACION PUBLICA Y PROTECCION DE DATOS PERSONALES DEL MUNICIPIO DE SALTILLO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL ACUERDO 127/03/11, PUBLICADO EN EL P.O. DE 18 DE FEBRERO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Coahuila, el martes 7 de diciembre de 2010.
 
@@ -1278,3 +1280,11 @@ PROFR. MANUEL JAIME CASTILLO GARZA
 Secretario del R. Ayuntamiento
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 18 DE FEBRERO DE 2011.
+
+PRIMERO: Se aprueba el dictamen presentado por la Comisión de Gobernación y Reglamentos que ha quedado transcrito, en consecuencia abrogar el Reglamento de Acceso a la Información Pública y Protección de Datos Personales del Municipio de Saltillo Coahuila.
+
+SEGUNDO: La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial, independientemente de que se haga lo propio en la Gaceta Municipal.
