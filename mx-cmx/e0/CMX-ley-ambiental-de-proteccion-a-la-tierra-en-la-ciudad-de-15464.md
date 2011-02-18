@@ -4,7 +4,7 @@ identifier: "CMX-ley-ambiental-de-proteccion-a-la-tierra-en-la-ciudad-de-15464"
 country: "mx"
 rank: "ley"
 publication_date: "2000-01-13"
-last_updated: "2011-02-14"
+last_updated: "2011-02-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15464&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1999-12-31"
 
 LEY AMBIENTAL DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 14 DE FEBRERO DE 2011.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE FEBRERO DE 2011.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 13 de enero de 2000.
 
@@ -438,13 +438,17 @@ XII. Establecer o en su caso proponer la creación de instrumentos económicos q
 
 XIII. Administrar, ejecutar y controlar el fondo ambiental así como informar sobre el uso de los recursos y presentar los resultados dentro del informe anual que rinda a la Asamblea;
 
-> <small>(REFORMADA, G.O. 31 DE ENERO DE 2002)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-XIV. Proponer la creación de áreas de valor ambiental y áreas naturales protegidas, así como regularlas, vigilarlas y administrarlas en los términos de esta Ley, a fin de lograr la preservación y el aprovechamiento sustentable de los recursos naturales presentes en dichas áreas;
+> <small>(REFORMADA, G.O. 18 DE FEBRERO DE 2011)</small>
 
-> <small>(ADICIONADA, G.O. 31 DE ENERO DE 2002)</small>
+XIV. Proponer la creación de áreas de valor ambiental y áreas naturales protegidas, así como regularlas, vigilarlas y administrarlas en los términos de esta Ley, a fin de lograr la preservación y el aprovechamiento sustentable de los recursos naturales presentes en dichas áreas; asimismo procurará crear programas de reforestación permanente en suelo de conservación y urbano para su preservación;
 
-XIV Bis. Celebrar convenios con las delegaciones para que éstas se encarguen de la administración y preservación de las áreas naturales protegidas de competencia de la Secretaría, así como para delegar facultades que estén conferidas por esta Ley y demás ordenamientos aplicables a la Secretaría;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, G.O. 18 DE FEBRERO DE 2011)</small>
+
+XIV Bis. Celebrar convenios con las delegaciones para que éstas se encarguen de la Administración, preservación y reforestación de las áreas naturales protegidas de competencia de la Secretaría, así como para delegar facultades que estén conferidas por esta Ley y demás ordenamientos aplicables a la Secretaría;
 
 > <small>(ADICIONADA, G.O. 31 DE ENERO DE 2002)</small>
 
@@ -472,11 +476,11 @@ XIX. Bis. Establecer las políticas y lineamientos de integración y operación 
 
 XIX. Bis 1. Realizar acciones de control, supervisión y vigilancia ambiental, con auxilio de la Secretaría de Seguridad Pública del Distrito Federal, en suelo de conservación y suelo urbano, tendientes a prevenir actos o hechos constitutivos de violación a esta ley, al Código Penal para el Distrito Federal, en materia de delitos ambientales y de las disposiciones que de ella emanen;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(ADICIONADA, G.O. 31 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADA, G.O. 18 DE FEBRERO DE 2011)</small>
 
-XIX. Bis 2. Con el auxilio de la Secretaría de Seguridad Pública del Distrito Federal retirar a las personas y bienes que integren asentamientos humanos establecidos en contravención con los programas de desarrollo urbano o de ordenamiento ecológico del territorio; así como ejecutar las acciones necesarias para prevenir el establecimiento de dichos asentamientos humanos irregulares;
+XIX. Bis 2. Con el auxilio de la Secretaría de Seguridad Pública del Distrito Federal, retirar a las personas y bienes que integren asentamientos humanos establecidos en contravención con los programas de desarrollo urbano o de ordenamiento ecológico del territorio; así como ejecutar las acciones necesarias para prevenir el establecimiento de dichos asentamientos humanos irregulares;
 
 XX. Realizar y promover programas para el desarrollo de técnicas, ecotecnias y procedimientos que permitan prevenir, controlar y abatir el deterioro ambiental, propiciar el aprovechamiento sustentable de los recursos naturales y la conservación de los ecosistemas, con instituciones de educación superior, centros de investigación, instituciones privadas y grupos civiles, con los sectores industrial, comercial y de servicio;
 
@@ -486,7 +490,11 @@ XXII. Participar en coordinación con la Federación, en asuntos que afecten el 
 
 XXIII. Promover y celebrar, convenios de coordinación, concertación y colaboración con el gobierno federal, de las entidades federativas y de los municipios de la zona conurbada, así como con los particulares, para la realización conjunta y coordinada de acciones de protección ambiental;
 
-XXIV. Promover y participar, en la elaboración y celebración de convenios o acuerdos de coordinación que se lleven a cabo entre el Ejecutivo del Distrito Federal y la Federación, con el objeto de que el Distrito Federal asuma el ejercicio de las funciones que señala la Ley General;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, G.O. 18 DE FEBRERO DE 2011)</small>
+
+XXIV. Refrendar y ejecutar los convenios relacionados con la salvaguarda del suelo de conservación que celebre el Jefe de Gobierno del Distrito Federal; y, asimismo, promover y participar, en la elaboración y celebración de convenios o acuerdos de coordinación que se lleven a cabo entre el Ejecutivo Local y la Federación, con el objeto de que el Distrito Federal asuma el ejercicio de las funciones que señala la Ley General;
 
 XXV. Ejercer las funciones que le transfiera la Federación al Distrito Federal en materia ambiental, en los términos que establezcan los convenios o acuerdos de coordinación correspondientes;
 
@@ -586,9 +594,11 @@ LII. Las demás que le confieren esta y otras Leyes, así como las que se derive
 
 Corresponde a cada una de las delegaciones del Distrito Federal:
 
-> <small>(REFORMADA, G.O. 31 DE ENERO DE 2002)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-I. Proponer y opinar, según el caso, respecto del establecimiento de áreas de valor ambiental y áreas naturales protegidas dentro de su demarcación territorial, y participar en su vigilancia;
+> <small>(REFORMADA, G.O. 18 DE FEBRERO DE 2011)</small>
+
+I. Proponer y opinar, según el caso, respecto del establecimiento de áreas de valor ambiental, áreas verdes en suelo urbano y áreas naturales protegidas dentro de su demarcación territorial, y participar en su vigilancia;
 
 > <small>(REFORMADA, G.O. 31 DE ENERO DE 2002)</small>
 
@@ -608,9 +618,11 @@ VI. Establecer de forma gradual en el total de mobiliario destinado al servicio 
 
 Para tal efecto, las delegaciones deberán destinar, en la medida de sus posibilidades, una parte de su presupuesto para dar exacto cumplimiento a lo anterior. La Secretaría en el ámbito de sus atribuciones, supervisará y verificará que las demarcaciones cumplan dicha disposición;
 
-> <small>(ADICIONADA, G.O. 10 DE FEBRERO DE 2004)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-VII. Aplicar las sanciones administrativas, medidas correctivas y de seguridad correspondientes por infracciones a esta Ley y sus reglamentos.
+> <small>(REFORMADA, G.O. 18 DE FEBRERO DE 2011)</small>
+
+VII. Aplicar las sanciones administrativas, medidas correctivas y de seguridad correspondiente (sic) por infracciones a esta Ley y sus reglamentos; así como levantar la denuncia correspondiente en contra de los funcionarios o personas que inciten o propicien invasiones a áreas verdes de suelo urbano y al suelo de conservación.
 
 ###### ARTÍCULO 11.
 
@@ -1616,9 +1628,13 @@ Si por la naturaleza de los hechos denunciados se tratare de asuntos de competen
 
 Sin perjuicio de lo anterior, los interesados podrán presentar su denuncia directamente ante la Procuraduría General de Justicia del Distrito Federal si consideran que los hechos u omisiones de que se trate pueden ser constitutivos de algún delito, en cuyo caso deberá sujetarse a lo dispuesto por el Código de Procedimientos Penales para el Distrito Federal.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, G.O. 18 DE FEBRERO DE 2011)</small>
+
 ###### ARTÍCULO 81.
 
-La autoridad ambiental en el ámbito de sus atribuciones, está facultada para iniciar las acciones que procedan, ante las autoridades judiciales competentes, cuando conozca de actos, hechos u omisiones que constituyan violaciones a la legislación administrativa o penal.
+La autoridad ambiental y las autoridades delegacionales en el ámbito de sus atribuciones, están facultadas para iniciar las acciones que procedan, ante las autoridades judiciales competentes, cuando conozca de actos, hechos u omisiones que constituyan violaciones a la legislación administrativa o penal.
 
 ###### ARTÍCULO 82.
 
@@ -1706,6 +1722,14 @@ VI. La formulación e instrumentación del Programa de Retribución por la Conse
 
 Compete a las delegaciones conforme a lo previsto en esta Ley y demás disposiciones legales aplicables, el ejercicio de las acciones administrativas que procedan en los casos de invasión de áreas verdes de su competencia, así como de las que corresponden a la Secretaría previa la celebración del convenio respectivo. El reglamento determinará los lineamientos para la ejecución de las acciones administrativas derivadas de la invasión de áreas verdes, áreas de valor ambiental y áreas naturales protegidas, así como en predios del dominio público y de particulares en suelo de conservación.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, G.O. 18 DE FEBRERO DE 2011)</small>
+
+###### ARTÍCULO 86 Bis.
+
+En caso de que el titular de la delegación no proceda conforme las atribuciones que le brinda esta ley y como lo establece el artículo 86, para desalojar a quienes invadan suelo de conservación con el fin de asentarse irregularmente, o no finque acción penal en contra de quien destruya el mismo, será considerado coparticipe en esa acción y se le impondrá lo establecido en el articulo 343 BIS del Código Penal del Distrito Federal.
+
 ### CAPÍTULO II. ÁREAS VERDES
 
 > <small>(REFORMADO, G.O. 31 DE ENERO DE 2002)</small>
@@ -1736,17 +1760,23 @@ VIII. Zonas de recarga de mantos acuíferos; y
 
 IX. Las demás áreas análogas.
 
-Corresponde a las Delegaciones la construcción, rehabilitación, administración, preservación, protección, restauración, fomento y vigilancia de las áreas verdes establecidas en las fracciones I a la V del párrafo anterior, y a la Secretaría el ejercicio de las acciones antes mencionadas cuando se trate de las áreas previstas en las fracciones VI a la IX siempre y cuando no estén ubicadas dentro de los límites administrativos de la zona urbana de los centros de población y poblados rurales de las delegaciones localizados en suelo de conservación, mismas que se consideran competencia de las delegaciones, así como cuando se trate de los recursos forestales, evitando su erosión y deterioro ecológico con el fin de mejorar el ambiente y la calidad de vida de toda persona en el Distrito Federal, de conformidad con los criterios, lineamientos y normatividad que para tal efecto expida la propia Secretaría.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, G.O. 18 DE FEBRERO DE 2011)</small>
+
+Corresponde a las Delegaciones la construcción, rehabilitación, administración, preservación, protección, restauración, forestación, reforestación, fomento y vigilancia de las áreas verdes establecidas en las fracciones I a la V del párrafo anterior, y a la Secretaría el ejercicio de las acciones antes mencionadas cuando se trate de las áreas previstas en las fracciones VI a la IX siempre y cuando no estén ubicadas dentro de los límites administrativos de la zona urbana de los centros de población y poblados rurales de las delegaciones localizados en suelo de conservación, mismas que se consideren competencia de las delegaciones, así como cuando se trate de los recursos forestales, evitando su erosión y deterioro ecológico con el fin de mejorar el ambiente y la calidad de vida de toda persona en el Distrito Federal, de conformidad con los criterios, lineamientos y normatividad que para tal efecto expida la propia Secretaría.
 
 La Secretaría solicitará a la Secretaría de Desarrollo Urbano y Vivienda el establecimiento de áreas verdes de su competencia en los programas de desarrollo urbano.
 
 Las delegaciones procurarán el incremento de áreas verdes de su competencia, en proporción equilibrada con los usos de suelo distintos a áreas verdes, espacios abiertos y jardinados o en suelo de conservación existentes en su demarcación territorial, e incorporarlos a los programas delegacionales de desarrollo urbano.
 
-> <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, G.O. 18 DE FEBRERO DE 2011)</small>
 
 ###### ARTÍCULO 88.
 
-El mantenimiento, mejoramiento, restauración, rehabilitación, fomento y conservación de las áreas verdes del Distrito Federal, deberá realizarse con las técnicas y especias (sic) apropiadas.
+El mantenimiento, mejoramiento, restauración, rehabilitación, fomento, forestación, reforestación y conservación de las áreas verdes del Distrito Federal, deberá realizarse con las técnicas y especias apropiadas.
 
 > <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
 
@@ -1812,13 +1842,13 @@ V. Las demás que establezca el Reglamento.
 
 Las delegaciones llevarán el inventario de áreas verdes de su competencia en su demarcación territorial, en los términos establecidos en el párrafo anterior y lo harán del conocimiento de la Secretaría para su integración en el inventario general al que se refiere el presente artículo, proporcionando anualmente las actualizaciones correspondientes, en los términos del Reglamento. Dicho inventario formará parte del Sistema de Información Ambiental del Distrito Federal.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, G.O. 18 DE FEBRERO DE 2011)</small>
+
 ###### ARTÍCULO 89.
 
-Todos los trabajos de mantenimiento, mejoramiento, fomento y conservación a desarrollarse en las áreas verdes, deberán sujetarse a la normatividad que establezca la Secretaría.
-
-> <small>(REFORMADO, G.O. 4 DE JUNIO DE 2004)</small>
-
-La remoción o retiro de árboles dentro de las áreas verdes, requerirá autorización de la delegación correspondiente, bajo la normatividad que emita la Secretaría.
+Todos los trabajos de mantenimiento, mejoramiento, fomento, forestación, reforestación y conservación a desarrollarse en las áreas verdes, deberán sujetarse a la normatividad que establezca la Secretaría.
 
 > <small>(ADICIONADO, G.O. 4 DE JUNIO DE 2004)</small>
 
@@ -1848,7 +1878,9 @@ Lo anterior, sin perjuicio de la aplicación de las medidas correctivas o sancio
 
 ### CAPÍTULO III. ÁREAS NATURALES PROTEGIDAS
 
-> <small>(REFORMADO, G.O. 31 DE ENERO DE 2002)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, G.O. 18 DE FEBRERO DE 2011)</small>
 
 ###### ARTÍCULO 90 Bis.
 
@@ -1960,7 +1992,7 @@ VII. Las demás que determine el Acuerdo que expida el Jefe de Gobierno.
 
 ###### ARTÍCULO 91.
 
-Corresponde al Jefe de Gobierno del Distrito Federal el establecimiento de las áreas naturales protegidas no reservadas a la Federación, que se requieran para la preservación, cuidado, restauración y mejoramiento ambiental. Su establecimiento y preservación es de utilidad pública y se realizará en forma concertada y corresponsable con la sociedad, así como con los propietarios y poseedores de los predios ubicados en la zona objeto del decreto o declaratoria respectiva.
+Corresponde al Jefe de Gobierno del Distrito Federal el establecimiento de las áreas naturales protegidas no reservadas a la Federación, que se requieran para la preservación, cuidado, restauración, forestación, reforestación y mejoramiento ambiental. Su establecimiento y preservación es de utilidad pública y se realizará en forma concertada y corresponsable con la sociedad, así como con los propietarios y poseedores de los predios ubicados en la zona objeto del decreto o declaratoria respectiva.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE ENERO DE 2002)</small>
 
@@ -2044,11 +2076,15 @@ El Gobierno del Distrito federal podrá administrar las áreas naturales protegi
 
 Para el establecimiento de las áreas naturales protegidas deberán considerarse, al menos la presencia de ecosistemas naturales representativos, la importancia biológica o ecológica del sitio, y la importancia de los servicios ambientales generados.
 
-> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2002)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 18 DE FEBRERO DE 2011)</small>
 
 ###### ARTÍCULO 93 Bis 1.
 
-En las áreas naturales protegidas se podrán realizar actividades de protección, preservación, restauración y aprovechamiento sustentable y controlado de recursos naturales, investigación, educación ambiental, recreación y ecoturismo. El programa de manejo correspondiente establecerá cuáles de estas actividades están permitidas realizar de conformidad con las especificaciones de las categorías de áreas naturales protegidas que esta Ley y demás ordenamientos jurídicos aplicables establecen.
+En las áreas naturales protegidas se podrán realizar actividades de protección, preservación, restauración, forestación, reforestación y aprovechamiento sustentable y controlado de recursos naturales, investigación, educación ambiental, recreación y ecoturismo. El programa de manejo correspondiente establecerá cuáles de estas actividades están permitidas realizar de conformidad con las especificaciones de las categorías de áreas naturales protegidas que esta Ley y demás ordenamientos jurídicos aplicables establecen.
+
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2002)</small>
 
 En las áreas naturales protegidas queda prohibido:
 
@@ -2360,13 +2396,15 @@ En aquellas áreas de los suelos de conservación que presenten procesos de degr
 
 Están obligados a restaurar el suelo, subsuelo, acuífero y los demás recursos naturales afectados, quienes por cualquier causa los contaminen o deterioren, de acuerdo con la presente Ley y las normas ambientales para el Distrito Federal.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, G.O. 18 DE FEBRERO DE 2011)</small>
+
 ###### ARTÍCULO 115.
 
-En los suelos de conservación que presenten deterioros ecológicos, la Secretaría formulará programas de restauración de los elementos naturales, con el propósito de que se lleven a cabo las acciones necesarias para la recuperación y restablecimiento de las condiciones que propicien la evolución y continuidad de los procesos naturales que en ellos se desarrollan.
+En los suelos de conservación que presenten deterioros ecológicos, la Secretaría formulará programas de restauración de los elementos naturales, con el propósito de que se lleven a cabo las acciones necesarias para la recuperación, forestación y reforestación y restablecimiento de las condiciones que propicien la evolución y continuidad de los procesos naturales que en ellos se desarrollan.
 
-> <small>(REFORMADO, G.O. 31 DE ENERO DE 2002)</small>
-
-En la formulación, ejecución y seguimiento de dichos programas, la Secretaría deberá de promover la participación de las delegaciones, propietarios, poseedores, organizaciones sociales, instituciones públicas o privadas y demás personas interesadas.
+En la formulación, ejecución y seguimiento de dichos programas, la Secretaría deberá de promover la participación las (sic) instituciones federales a través de un convenio, de las delegaciones, propietarios, poseedores, organizaciones sociales, instituciones públicas o privadas y demás personas interesadas.
 
 ### CAPÍTULO VIII. APROVECHAMIENTO DE LOS RECURSOS ENERGÉTICOS
 
@@ -3743,3 +3781,9 @@ PRIMERO.- El presente decreto entrará en vigor a partir del día siguiente al d
 SEGUNDO.- La Secretaría del Medio Ambiente del Distrito Federal, cuenta con 9 meses para elaborar y publicar en la Gaceta Oficial del Distrito Federal, la norma ambiental a que hace referencia el presente decreto.
 
 TERCERO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+G.O. 18 DE FEBRERO DE 2011.
+
+Primero: El presente Decreto entrará en vigor a los 180 días de su publicación en la Gaceta Oficial del Distrito Federal.
+
+Segundo: Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
