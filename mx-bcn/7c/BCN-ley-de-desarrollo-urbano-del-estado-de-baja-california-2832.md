@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-desarrollo-urbano-del-estado-de-baja-california-2832"
 country: "mx"
 rank: "ley"
 publication_date: "1994-06-24"
-last_updated: "2009-12-28"
+last_updated: "2011-02-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2832&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE DESARROLLO URBANO DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE FEBRERO DE 2011.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 24 de junio de 1994.
 
@@ -284,6 +284,10 @@ En aquéllos poblados, municipios, demarcaciones territoriales o asentamientos h
 > <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2009)</small>
 
 XXVI. Zona Conurbada o Metropolitana Interestatal: Aquella zona conurbada o metropolitana cuyos límites colinden con otra entidad federativa. Para su planeación y desarrollo se estará, además de lo dispuesto en la presente la Ley, a lo dispuesto en la Ley General de Asentamientos Humanos.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE FEBRERO DE 2011)</small>
+
+XXVII. Polígonos: Es la unidad urbanística constituida por una superficie de terreno, delimitada para fines de valoración catastral, ordenación urbana, planificación industrial, comercial, residencial.
 
 ### CAPITULO SEGUNDO. De la concurrencia y competencia de las autoridades y órganos auxiliares
 
@@ -1517,6 +1521,42 @@ La determinación a que se refieren las fracciones I y II deberán estar conteni
 
 La reglamentación de zonificación y usos del suelo, destinos y reservas territoriales tomará en cuenta los criterios de sectorización de los centros de población, considerando las vialidades primarias y los subsectores o colonias catastrales determinadas según su grado de homogeneidad del desarrollo urbano y socioeconómico.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE FEBRERO DE 2011)</small>
+
+Dentro de las áreas podrán establecerse polígonos de planeación urbana ajustándose a los Programas de Desarrollo Urbano Municipal, entre los cuales se encontrarán:
+
+a) Polígonos con potencial de desarrollo;
+
+b) Polígonos con potencial de mejoramiento;
+
+c) Polígonos de conservación patrimonial; y
+
+d) Polígonos de integración metropolitana.
+
+En el ordenamiento territorial, que comprende la zonificación de las áreas y los usos del suelo, destinos y reservas territoriales en el Estado de Baja California, se determinarán los polígonos para la ubicación de Estaciones de Servicio y Abastecimiento denominadas gasolineras sujetándose a las siguientes condiciones:
+
+I. Los predios para el establecimiento de gasolineras o Estaciones de Servicio deberán estar localizados sobre accesos a carreteras, autopistas, libramientos, vías primarias o principales, colectoras, así como en aquéllos predios cuya ubicación sea compatible y conforme a los Programas de Desarrollo Urbano Municipal;
+
+II. Las Estaciones de Servicio con venta directa al público o de autoconsumo, cumplirán con las disposiciones en materia de protección civil, ambiental, de seguridad, y demás legislación aplicable, y se ubicarán a una distancia de, cuando menos, 1,000 metros en forma radial una de otra, dentro de zona urbana, y de 10,000 metros cuando su ubicación sea en carreteras concesionadas, federales, estatales y secundarias;
+
+III. El predio deberá ubicarse a una distancia mínima de resguardo de 300 metros radiales de centros de concentración de personas tales como escuelas, hospitales, centros de desarrollo Infantil o guarderías; y de 150 metros radiales, respecto de mercados, cines, teatros, centros de culto religioso, auditorios, así como en cualquier otro sitio, en el que exista una concentración de cien o más personas, de manera habitual o transitoria;
+
+IV. El predio debe ubicarse a una distancia mínima de resguardo de 150 metros radiales respecto de plantas de almacenamiento de gas licuado del petróleo y de aquéllos centros de despacho a sistemas de carburación automotor e industrias de alto riesgo que empleen productos químicos, soldadura, fundición, fuego, entre otros, así como del comercio que emplee gas con sistema estacionario con capacidad de almacenamiento mayor a 500 litros;
+
+V. Los tanques de almacenamiento deberán ubicarse a una distancia mínima de resguardo de 30 metros con respecto a líneas eléctricas de alta tensión, de los ejes de vías férreas, así como de los ductos que transporten algún derivado del petróleo;
+
+VI. Las bombas expendedoras de gasolina y/o carburante y sus tanques de almacenamiento, deberán quedar a una distancia mínima de 15 metros de un área residencial;
+
+VII. Los tanques de autoconsumo que se instalen, deberán cumplir con los requisitos y especificaciones emitidos por la Secretaría de Energía y Petróleos Mexicanos;
+
+VIII. Cuando el predio en el que se pretenda instalar una Estación de Servicio, se ubique entre dos vialidades, las maniobras de abastecimiento serán única y exclusivamente por el frente a la vialidad de mayor jerarquía; y
+
+IX. No podrán ubicarse Estaciones de Servicio dentro de las áreas consideradas como de Reserva Ecológica.
+
+Previo a las obras de edificación, licencia, permiso o autorización, quienes pretendan llevar a cabo los proyectos de Estaciones de Servicio, deberán obtener dictamen favorable de la autoridad competente en materia de protección civil y ambiental.
+
+Las acciones de urbanización mencionadas en el artículo 147 quedan sujetas a cumplir con las disposiciones del presente artículo, siendo obligatoria su observancia.
+
 ###### ARTICULO 118.
 
 Las declaratorias de usos, destinos y reservas deberán derivarse de los Planes y Programas de Desarrollo Urbano a nivel municipal y de centros de población de esta Ley, conforme a las siguientes reglas:
@@ -2600,3 +2640,11 @@ Las presentes reformas y adiciones entrarán en vigor al día siguiente al de su
 P.O. 28 DE DICIEMBRE DE 2009.
 
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE FEBRERO DE 2011.
+
+PRIMERO.- Las presentes reformas entraran en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- En un plazo de 90 días a partir del día en que inicie su vigencia las presentes reformas, los Ayuntamientos deberán adecuar su marco jurídico reglamentario.
+
+TERCERO.- Todos los procedimientos que se hayan iniciado antes de la vigencia de las presentes reformas y que no se encuentren concluidos, se regirán conforme a las disposiciones con los que se iniciaron.
