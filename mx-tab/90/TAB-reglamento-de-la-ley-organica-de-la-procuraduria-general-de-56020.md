@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-de-la-ley-organica-de-la-procuraduria-general-de-560
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-04-11"
-last_updated: "2010-11-06"
+last_updated: "2011-02-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56020&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 REGLAMENTO DE LA LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE NOVIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE FEBRERO DE 2011.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 11 de abril de 2007.
 
@@ -1083,7 +1083,9 @@ IV.- Establecer mecanismos de coordinación y de interrelación con otras áreas
 
 V.- Informar al Procurador sobre los asuntos encomendados a la Fiscalía.
 
-La Fiscalía Especializada para la Atención de denuncias sobre Delitos Electorales estará a cargo de un Director, auxiliado en el ejercicio de sus atribuciones por los Agentes del Ministerio Público, Secretarios y demás personal que se requiera para satisfacer las necesidades del servicio.
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2011)</small>
+
+La Fiscalía Especializada para la Atención de Denuncias sobre Delitos Electorales estará a cargo de un Fiscal el cual actuará con plena autonomía técnica, auxiliado en el ejercicio de sus atribuciones por los Agentes del Ministerio Público, Secretarios y demás personal que se requiera para satisfacer las necesidades del servicio.
 
 ### CAPÍTULO VIII. COORDINACIÓN DE NOTIFICADORES
 
@@ -1259,13 +1261,21 @@ XIV.- Contestar las demandas laborales y los juicios contenciosos administrativo
 
 XV.- Proporcionar asesoría en materia laboral a las diversas áreas adscritas a la Procuraduría;
 
-> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 19 DE FEBRERO DE 2011)</small>
 
-XVI.- Planear, programar, organizar, dirigir y evaluar el funcionamiento de las Jefaturas de Departamento y demás personal que conforma la dirección; y
+XVI.- Planear, programar, organizar, dirigir y evaluar el funcionamiento de las Jefaturas de Departamento y demás personal que conforma la dirección;
 
-> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 19 DE FEBRERO DE 2011)</small>
 
-XVII.- Rendir informe mensualmente al Procurador, de las actividades desarrolladas en la Dirección.
+XVII.- Rendir informe mensualmente al Procurador, de las actividades desarrolladas en la Dirección;
+
+> <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2011)</small>
+
+XVIII.- Representar legalmente a la Procuraduría de manera general, y específicamente a su Titular, en los asuntos ventilados ante el Tribunal de Conciliación y Arbitraje del Estado, en los términos que la Ley Federal del Trabajo y la Ley de los Trabajadores al Servicio del Estado de Tabasco señalen, con todas las facultades generales y especiales de un poder general para pleitos y cobranzas, de conformidad con lo previsto en el Código Civil para el Estado de Tabasco; así como de aquellos que se substancien ante el Tribunal de lo Contencioso Administrativo, con las facultades previstas en la Ley de Justicia Administrativa vigente en la entidad; y
+
+> <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2011)</small>
+
+XIX.- Representar a la Procuraduría y a su Titular ante la Secretaría de Contraloría, conforme a lo dispuesto en la Ley de Responsabilidades de los Servidores Públicos.
 
 > <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2010)</small>
 
@@ -1606,3 +1616,7 @@ P.O. 6 DE NOVIEMBRE DE 2010.
 PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
 
 SEGUNDO. Todos aquellos asuntos que se encuentren en trámite o pendientes de resolver por la Dirección General de Asuntos Internos y Contraloría, a partir de la entrada en vigor del presente Acuerdo serán atendidos y resueltos por la Dirección de Asuntos Internos y Contraloría.
+
+P.O. 19 DE FEBRERO DE 2011.
+
+ÚNICO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Tabasco.
