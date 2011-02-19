@@ -4,7 +4,7 @@ identifier: "COL-codigo-penal-para-el-estado-de-colima-4240"
 country: "mx"
 rank: "codigo"
 publication_date: "1985-07-27"
-last_updated: "2010-11-25"
+last_updated: "2011-02-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4240&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CODIGO PENAL PARA EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE NOVIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE FEBRERO DE 2011.
 
 Código publicado en el Periódico Oficial del Estado de Colima, el sábado 27 de julio de 1985.
 
@@ -1435,7 +1435,7 @@ VII.- Viole de cualquier manera el secreto del voto, o recoja sin causa prevista
 
 > <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2005)</small>
 
-VIII.- Introduzca en las urnas o sustraiga ilícitamente de ellas, una o mas boletas electorales; o destruya o altere boletas o documentos públicos electorales;
+VIII.- Introduzca en las urnas o sustraiga ilícitamente de ellas, una o más boletas electorales; o destruya o altere boletas o documentos públicos electorales;
 
 > <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2008)</small>
 
@@ -1941,7 +1941,7 @@ Si la víctima es una persona menor de dieciocho años o persona que no tenga la
 
 ###### ARTICULO 159.
 
-Se impondrá de tres a siete años de prisión y multa de cincuenta a ciento cincuenta unidades a la persona que induzca, medie o solicite para que una o mas de las personas a que hace referencia el segundo párrafo del artículo anterior comercie sexualmente con su cuerpo o le facilite los medios para que se entregue a la prostitución.
+Se impondrá de tres a siete años de prisión y multa de cincuenta a ciento cincuenta unidades a la persona que induzca, medie o solicite para que una o más de las personas a que hace referencia el segundo párrafo del artículo anterior comercie sexualmente con su cuerpo o le facilite los medios para que se entregue a la prostitución.
 
 > <small>(REFORMADO, P.O. 3 DE MAYO DE 2008)</small>
 
@@ -2907,9 +2907,17 @@ V.- Cuando se cometan por una o varias personas armadas, o que utilicen o porten
 
 VI.- Cuando el agente se valga de identificaciones falsas o supuestas órdenes de alguna autoridad;
 
-VII.- Si se ejerce violencia en las personas o en las cosas, aun cuando sea para facilitar la fuga o defender lo robado, o
+> <small>(REFORMADA, P.O. 19 DE FEBRERO DE 2011)</small>
 
-VIII.- Se realice en paraje solitario o lugar desprotegido.
+VII.- Si se ejerce violencia en las personas o en las cosas, aun cuando sea para facilitar la fuga o defender lo robado;
+
+> <small>(REFORMADA, P.O. 19 DE FEBRERO DE 2011)</small>
+
+VIII.- Se realice en paraje solitario o lugar desprotegido; o
+
+> <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2011)</small>
+
+IX.- Cuando el sujeto activo se apodere de uno o más bienes muebles de cualquier institución educativa pública o privada, que cuente con reconocimiento de validez oficial.
 
 Los supuestos de este artículo se aplicarán independientemente, de que con motivo de la comisión del robo, se cometan otros delitos diversos, los que serán objeto de la acumulación correspondiente.
 
@@ -3582,3 +3590,7 @@ P.O. 9 DE OCTUBRE DE 2010.
 P.O. 25 DE NOVIEMBRE DE 2010.
 
 ÚNICO.- El Presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 19 DE FEBRERO DE 2011.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
