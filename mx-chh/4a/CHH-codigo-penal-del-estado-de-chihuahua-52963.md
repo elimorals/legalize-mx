@@ -4,7 +4,7 @@ identifier: "CHH-codigo-penal-del-estado-de-chihuahua-52963"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-12-27"
-last_updated: "2011-02-16"
+last_updated: "2011-02-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO PENAL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE FEBRERO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE FEBRERO DE 2011.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 27 de diciembre de 2006.
 
@@ -361,7 +361,9 @@ Si los errores a que se refieren los incisos anteriores son vencibles, se estar�
 
 IX. (Inexigibilidad de otra conducta). En atención a las circunstancias que concurren en la realización de una conducta ilícita, no sea racionalmente exigible al sujeto una conducta diversa a la que realizó, en virtud de no haberse podido conducir conforme a derecho;
 
-Las causas que excluyen el delito se resolverán de oficio, en cualquier estado del proceso.
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2011)</small>
+
+Las causas que excluyen el delito se resolverán de oficio, en cualquier etapa del procedimiento. El Ministerio Público podrá resolverlas desde el inicio de la investigación si cuenta con los elementos para hacerlo, siendo dicha resolución revisable por el Juez de Garantía en los términos del artículo 227 del Código de Procedimientos Penales.
 
 Si en los casos de las fracciones IV, V y VI de este artículo el sujeto se excediere, se estará a lo previsto en el artículo 80 de este Código.
 
@@ -2331,7 +2333,7 @@ X. Se cometa en lugar cerrado, al que no se haya tenido libre acceso.
 
 XI. Cuando se cometa por un servidor público que actúe en ejercicio y con motivo de sus funciones.
 
-XII. Recaiga sobre bienes de instituciones educativas o culturales.
+XII. (DEROGADA, P.O. 19 DE FEBRERO DE 2011)
 
 XIII. Recaiga sobre equipo, instrumentos, semillas, frutos cosechados o por cosechar, o cualesquiera otros artículos destinados al aprovechamiento agrícola, forestal o frutícola, cometido en la huerta, parcela, heredad, sembradío, invernadero o en cualquier otro lugar, dentro del inmueble en que se realice la actividad agrícola, forestal o frutícola.
 
@@ -2356,6 +2358,10 @@ II. Se cometa por medio de la violencia a las personas, sea física o moral, uti
 III. Recaiga sobre vehículos automotores.
 
 IV. (DEROGADA, P.O. 23 DE OCTUBRE DE 2010)
+
+> <small>(ADICIONADA. P.O. 19 DE FEBRERO DE 2011)</small>
+
+V. Recaiga sobre bienes de instituciones educativas o culturales.
 
 > <small>(ADICIONADO, P.O. 30 DE ENERO DE 2010)</small>
 
@@ -3878,3 +3884,17 @@ P.O. 16 DE FEBRERO DE 2011.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE FEBRERO DE 2011.
+
+DECRETO NUMERO 1259/2010 XV P.E. POR EL QUE SE REFORMA EL ULTIMO PARRAFO DEL ARTICULO 28 DEL CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE FEBRERO DE 2011.
+
+DECRETO NUMERO 58/2010 I P.O. POR EL QUE SE DEROGA LA FRACCION XII, DEL ARTICULO 211; Y SE ADICIONA UNA FRACCION V AL ARTICULO 212, AMBOS DEL CODIGO PENAL DEL ESTADO DE CHIHUAHUA
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
