@@ -4,7 +4,7 @@ identifier: "COL-ley-para-regular-la-venta-y-consumo-de-bebidas-alcoholicas-2858
 country: "mx"
 rank: "ley"
 publication_date: "2003-01-11"
-last_updated: "2010-11-25"
+last_updated: "2011-02-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28585&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY PARA REGULAR LA VENTA Y CONSUMO DE BEBIDAS ALCOHÓLICAS DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE NOVIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE FEBRERO DE 2011.
 
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 11 de enero de 2003.
 
@@ -291,6 +291,14 @@ Para efectos del párrafo anterior, como barra libre debe entenderse a la modali
 
 Se prohíbe estrictamente la venta y suministro de cualquier clase de bebidas alcohólicas o sustancias que contengan alcohol para fines industriales o medicinales a los menores de 18 años de edad.
 
+> <small>(ADICIONADO, P.O. 19 DE FEBRERO DE 2011)</small>
+
+Para la venta o suministro de bebidas alcohólicas o sustancias que contengan alcohol para fines industriales o medicinales es obligación del vendedor, poseedor de la licencia o sus encargados, solicitar una identificación oficial con fotografía que acredite fehacientemente la mayoría de edad del comprador o suministrado, en los casos en que por su aspecto físico o fisonómico produzca duda sobre su mayoría de edad.
+
+> <small>(ADICIONADO, P.O. 19 DE FEBRERO DE 2011)</small>
+
+Todos los establecimientos deberán colocar en lugar visible, avisos en los que se prohíba la venta de bebidas alcohólicas a menores de 18 años de edad.
+
 Se prohíbe estrictamente a los propietarios, poseedores, representantes o apoderados legales de los establecimientos a que se refieren las fracciones I, II y III del artículo 9 de esta Ley, contratar laboralmente los servicios personales de menores de 18 años de edad.
 
 Quienes infrinjan esta disposición se harán acreedores a una multa y a la clausura del establecimiento en los términos de esta Ley.
@@ -466,3 +474,7 @@ PRIMERO.- El presente Decreto entrara en vigor al día siguiente de su publicaci
 SEGUNDO.- En un término no mayor de 90 días naturales a partir de la entrada en vigor del presente Decreto, los Ayuntamientos de la entidad, por conducto de sus Cabildos, deberán adecuar sus respectivos Reglamentos para la Venta y Consumo de Bebidas Alcohólicas en los que se regulan los establecimientos destinados a la venta y consumo de alimentos, para efectos de dar cumplimiento a lo establecido en este Decreto.
 
 TERCERO.- Los propietarios, poseedores o titulares de los establecimientos comprendidos en el presente Decreto, tendrán como plazo máximo el 1° de marzo de 2011, para dar debido cumplimiento a las obligaciones contenidas en el mismo.
+
+P.O. 19 DE FEBRERO DE 2011.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
