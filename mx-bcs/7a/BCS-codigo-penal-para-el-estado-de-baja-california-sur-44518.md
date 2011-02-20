@@ -4,7 +4,7 @@ identifier: "BCS-codigo-penal-para-el-estado-de-baja-california-sur-44518"
 country: "mx"
 rank: "codigo"
 publication_date: "2005-03-20"
-last_updated: "2010-12-31"
+last_updated: "2011-02-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44518&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CODIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE FEBRERO DE 2011.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el domingo 20 de marzo de 2005.
 
@@ -1483,7 +1483,9 @@ Al servidor público del Estado o del Municipio que dolosamente altere, modifiqu
 
 Cuando la alteración se produzca en forma culposa, la pena será de seis meses a dos años de prisión y multa de hasta cincuenta días de salario.
 
-### CAPÍTULO VIII. FALSEDAD EN DECLARACIONES E INFORMES
+> <small>(REFORMADA SU DENOMINACION, B.O. 20 DE FEBRERO DE 2011)</small>
+
+### CAPITULO VIII. FALSEDAD EN DECLARACIONES E INFORMES DADOS A UNA AUTORIDAD
 
 ###### ARTÍCULO 188.
 
@@ -1496,6 +1498,18 @@ Al que examinado por el ministerio público o por la autoridad judicial como tes
 Cuando se otorgue valor probatorio a la falsedad y el inculpado resulte condenado, siendo inocente, se aplicarán a su autor de dos a quince años de prisión y multa de hasta trescientos días de salario.
 
 Al que obligue o soborne a un traductor, perito o testigo, para que se conduzca con falsedad ante cualquier autoridad o ante notario, se le aplicarán las mismas penas previstas en este capítulo, según el caso.
+
+> <small>(ADICIONADO, B.O. 20 DE FEBRERO DE 2011)</small>
+
+ARTÍCULO 189 BIS.- Comete el delito de Falsedad en Informes dados a una Autoridad, aquel que haga uso indebido de los sistemas de emergencia y de denuncia en los siguientes términos:
+
+I.- Quien realice o consienta que desde cualquier medio de telecomunicación bajo su control o radio de acción se efectúen llamadas o mensajes a los centros de servicio de respuesta a emergencias o redes similares a esta, aludiendo un reporte para burlarse, proferir insultos o distraer dolosamente al personal a cargo del servicio sin que exista asunto que lo justifique.
+
+II.- Quien realice reportes falsos a sabiendas de tal situación, a los centros de servicio de respuesta de emergencia o redes similares, informando o alertando sobre la comisión de ilícitos, desastres o cualquier otra situación que haga necesaria la movilización y presencia de elementos de protección civil, cruz roja mexicana, bomberos, personal médico, agentes de corporaciones policiacas o de las fuerzas armadas, con el propósito de engañar a las autoridades, dificultar el ejercicio de sus funciones o causar alarma en la población.
+
+A los responsables de las conductas señaladas en las fracciones anteriores se les impondrá de seis meses a tres años de prisión y multa de cien a quinientos días de salario.
+
+Cuando derivado de un reporte falso se originen daños o pérdidas en contra de personas o cosas, se aplicará a su autor una pena de uno a cuatro años de prisión y multa de 500 a 1000 días de salario, además de condenarse a la reparación de los daños ocasionados.
 
 ### CAPÍTULO IX. VIOLACIÓN DE GARANTÍAS E IMPEDIMENTOS
 
@@ -2335,6 +2349,12 @@ XI.- Durante el hecho, se haga uso de narcóticos o cualquier sustancia o elemen
 
 XII.- El activo utilice instalaciones o bienes gubernamentales, frecuencias, claves o códigos oficiales.
 
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2011)</small>
+
+ARTÍCULO 280 BIS.- Al que solicite u obligue al secuestrado a retirar dinero de los cajeros electrónicos y/o de cualquier cuenta bancaria a la que éste tenga acceso o que, de forma transitoria que no exceda de más de seis horas, prive de la libertad a una persona en calidad de rehén y la amenace con privarla de la vida o causarle daño, para obligado a él o a otro que realicen un acto que les cause a cualquiera de ellos daño patrimonial; o para conservar el producto de un robo o asegurar la huida después de cometido, se le impondrá de de (sic) veinte a cincuenta años de prisión y de mil a dos mil días de multa de salario mínimo vigente en el Estado.
+
+Si la intimidación o la violencia se realizan por una asociación delictuosa; o por servidor público o ex servidor público; o miembro o ex miembro de algún cuerpo policial o de seguridad privada, aunque la empresa de seguridad privada no se hubiere registrado, se impondrá a cualquiera de las personas mencionadas y según proceda: La destitución del empleo, cargo o comisión y la inhabilitación para desempeñarse como servidor público.
+
 ###### ARTÍCULO 281.
 
 Si los responsables del secuestro ponen espontáneamente en libertad a la víctima antes de cuarenta y ocho horas, sin haberle causado lesiones de las que sanen en más de quince días y sin obtener el fin buscado, se les aplicará la pena de la privación ilegal de la libertad.
@@ -3010,5 +3030,17 @@ UNICO.- El presente Decreto entrara en vigor al día siguiente de su publicació
 B.O. 31 DE DICIEMBRE DE 2010.
 
 DECRETO NUMERO 1890 POR EL QUE SE REFORMA EL ARTICULO 314 PRIMER PARRAFO Y SE ADICIONA UN ARTICULO 314 BIS AL CODIGO PENAL DEL ESTADO DE BAJA CALIFORNIA SUR.
+
+UNICO.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 20 DE FEBRERO DE 2011.
+
+DECRETO NUMERO 1898 POR EL QUE SE ADICIONA EL ARTICULO 280 BIS AL CODIGO PENAL DEL ESTADO DE BAJA CALIFORNIA SUR
+
+ÚNICO.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 20 DE FEBRERO DE 2011.
+
+DECRETO NUMERO 1899 POR EL QUE SE REFORMA LA DENOMINACION DEL CAPITULO VIII DEL TITULO CUARTO PARA INTITULARSE "FALSEDAD EN DECLARACIONES E INFORMES DADOS A UNA AUTORIDAD" Y SE ADICIONA UN ARTICULO 189 BIS DEL CODIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA SUR.
 
 UNICO.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
