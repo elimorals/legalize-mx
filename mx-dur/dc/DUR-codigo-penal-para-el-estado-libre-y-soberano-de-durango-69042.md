@@ -4,7 +4,7 @@ identifier: "DUR-codigo-penal-para-el-estado-libre-y-soberano-de-durango-69042"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-06-14"
-last_updated: "2010-04-01"
+last_updated: "2011-02-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69042&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO
 
 > <small>N. DE E. DE CONFORMIDAD CON LA FRACCIÓN II DEL ARTICULO SEGUNDO Y PRIMERO TRANSITORIO DEL DECRETO No. 420, POR EL QUE SE EXPIDE LA DECLARATORIA DE ADOPCIÓN DEL SISTEMA PROCESAL PENAL ACUSATORIO EN EL PRIMER DISTRITO JUDICIAL DEL ESTADO DE DURANGO, PUBLICADO EN EL P.O. DE 10 DE DICIEMBRE DE 2009, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR EN EL PRIMER DISTRITO JUDICIAL DEL ESTADO DE DURANGO A PARTIR DE LAS CERO HORAS DEL DÍA 14 DE DICIEMBRE DE 2009.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE FEBRERO DE 2011.
 
 Código publicado en el Periódico Oficial del Estado de Durango, el domingo 14 de junio de 2009.
 
@@ -1009,7 +1009,7 @@ En la aplicación de las penas o medidas de seguridad a que se refiere este art�
 
 Punibilidad de la complicidad;
 
-Para los casos a que se refieren las fracciones VI y VlI del Artículo 21 de este código, la penalidad será de las tres cuartas partes del mínimo y del máximo de las penas o medidas de seguridad previstas para el delito cometido, de acuerdo con la modalidad respectiva.
+Para los casos a que se refieren las fracciones VI y VII del Artículo 21 de este código, la penalidad será de las tres cuartas partes del mínimo y del máximo de las penas o medidas de seguridad previstas para el delito cometido, de acuerdo con la modalidad respectiva.
 
 ###### Artículo 78.
 
@@ -1023,15 +1023,23 @@ Para el caso previsto en el artículo 26 de este código, la penalidad será de 
 
 Punibilidad del delito culposo.
 
-En los casos de delitos culposos, se impondrán de tres meses a cinco años de prisión, multa de dieciocho hasta trescientos sesenta días de salario y suspensión hasta por cinco años o privación definitiva de derechos para ejercer profesión u oficio, salvo lo que disponen las fracciones I y II de este artículo.
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2011)</small>
+
+En los casos de delitos culposos, se impondrán de tres meses a cinco años de prisión, multa de dieciocho hasta trescientos sesenta días de salario y suspensión hasta por cinco años o privación definitiva de derechos para ejercer profesión u oficio, salvo lo que disponen las fracciones I y II de este artículo. En el caso de homicidio culposo la pena será de dos a cinco años de prisión y multa de noventa y tres a trescientos sesenta días de salario.
 
 En relación a estos delitos, se tendrá en cuenta lo siguiente:
 
-I. Cuando a consecuencia de la conducta culposa del personal de empresas de transporte de pasajeros, escolar o de carga, de servicio público o privado concedido por autorización, permiso o licencia de las autoridades competentes, se cause homicidio a tres o más personas, la sanción será de tres a ocho años de prisión, multa de doscientos dieciséis hasta quinientos setenta y seis días de salario, destitución del empleo, cargo o comisión e inhabilitación para obtener otros de igual naturaleza;
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2011)</small>
 
-II. Cuando por culpa y con motivo de tránsito de vehículos se cometa homicidio y el sujeto activo conduzca en estado de ebriedad o bajo el influjo de estupefacientes, psicotrópicos u otras sustancias que impidan o perturben su adecuada conducción, se le impondrá de tres a diez años de prisión y multa de doscientos dieciséis hasta setecientos veinte días de salario;
+I. Cuando a consecuencia de la conducta culposa de quien conduzca vehículos de transporte de pasajeros, escolar o de carga, de servicio público o privado, con autorización, permiso o licencia concedida por las autoridades competentes o sin cualquiera de ellas, se cause homicidio a dos o más personas, la sanción será de cuatro a ocho años de prisión, multa de doscientos ochenta y ocho hasta quinientos setenta y seis días de salario, destitución del empleo, cargo o comisión e inhabilitación para obtener otros de igual naturaleza;
 
-III. Cuando por culpa y con motivo de tránsito de vehículos se cometa el delito de daños y el monto de éste exceda de doscientas cincuenta veces el salario mínimo se le aplicará al culpable la pena de prisión a que se refiere el primer párrafo de este artículo o una multa de dieciocho hasta trescientos sesenta días de salario; y,
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2011)</small>
+
+II. Cuando por culpa y con motivo de tránsito de vehículos se cometa homicidio y el sujeto activo conduzca en estado de ebriedad o bajo el influjo de estupefacientes, psicotrópicos u otras sustancias que impidan o perturben su adecuada conducción, se le impondrá de cinco a diez años de prisión y multa de doscientos ochenta y ocho hasta setecientos veinte días de salario;
+
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2011)</small>
+
+III. Cuando por culpa y con motivo de tránsito de vehículos únicamente se cometa el delito de daños y el monto de éste exceda de doscientas cincuenta veces el salario mínimo se le aplicará al culpable la pena de prisión a que se refiere el primer párrafo de este artículo o una multa de dieciocho hasta trescientos sesenta días de salario; y,
 
 IV. La calificación de la gravedad de la culpa queda al prudente arbitrio de la autoridad judicial, quien deberá tomar en consideración los criterios de individualización de sanciones a que se refiere éste código y las especiales siguientes:
 
@@ -1315,31 +1323,13 @@ El perdón otorgado por la víctima, extingue la pretensión punitiva respecto d
 
 Una vez otorgado el perdón, éste no podrá revocarse. El perdón sólo beneficia al imputado en cuyo favor se otorga. Cuando sean varias las víctimas y cada una pueda ejercer separadamente la facultad de perdonar al responsable del delito y al encubridor, el perdón sólo surtirá efectos por lo que hace a quien lo otorga.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE RUBRO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
-> <small>(REFORMADO EN SU RUBRO, P.O. 10 DE DICIEMBRE DE 2009)</small>
-
 ###### Artículo 109.
 
-Perdón de la víctima u ofendido en otros delitos.
-
-Tratándose de delitos que se investigan de oficio, también procederá el perdón cuando concurran los siguientes requisitos:
-
-I. Que el término medio aritmético de la pena básica privativa de libertad del delito de que se trate, no exceda de cuatro años y, en todo caso, cuando no merezca prisión;
-
-II. Que se haya pagado o cubierto la reparación del daño o la víctima u ofendido o su representante con facultades suficientes, expresamente se hayan dado por satisfechos del mismo;
-
-III. Que no haya cometido delito doloso alguno en los tres años inmediatos anteriores a los hechos de que se trate; y,
-
-IV. Sólo operará si se trata de delitos que hayan, afectado directa y exclusivamente intereses particulares.
+(DEROGADO, P.O. 20 DE FEBRERO DE 2011)
 
 ###### Artículo 110.
 
-Alcance del perdón en los delitos que se investigan de oficio.
-
-El perdón otorgado a favor de uno de los imputados o sentenciados, beneficiará a los demás participantes del delito y encubridores.
-
-Deberá otorgarse ante la autoridad investigadora, la judicial que conozca de la instancia relativa o ante la autoridad ejecutora, según sea el caso.
+(DEROGADO, P.O. 20 DE FEBRERO DE 2011)
 
 ### CAPÍTULO VI. REHABILITACIÓN
 
@@ -1651,7 +1641,7 @@ VI. Por el medio empleado: Cuando se causen por inundación, incendio, minas, bo
 
 VII. Existe saña: Cuando el sujeto activo actúe con crueldad o con fines depravados;
 
-VIII. Existe estado de alteración voluntaria: Cuando el sujeto activo lo comete en estado de ebriedad o bajo el influjo de estupefacientes o psicotrópicos u otras sustancias que produzcan efectos similares y sin que para ello medie prescripción medica;
+VIII. Existe estado de alteración voluntaria: Cuando el sujeto activo lo comete en estado de ebriedad o bajo el influjo de estupefacientes o psicotrópicos u otras sustancias que produzcan efectos similares y sin que para ello medie prescripción médica;
 
 IX. Existe brutal ferocidad: Cuando el sujeto activo lo comete sin ningún motivo o que teniendo dominada la situación, sigue agrediendo a la víctima; y,
 
@@ -1897,7 +1887,7 @@ Cuando se hiciere uso de la violencia o se cometa por dos o más personas, la pe
 
 ###### Artículo 171.
 
-Se aplicará de seis meses a cuatro años de prisión y multa de treinta y seis a doscientos ochenta y ocho días de salario, a quien sin justa causa y con perjuicio de otro, revele algún secreto, intimidad personal o comunicación reservada, que conoció con motivo de su función o ejercicio profesional o de su relación con la victima o sus familiares.
+Se aplicará de seis meses a cuatro años de prisión y multa de treinta y seis a doscientos ochenta y ocho días de salario, a quien sin justa causa y con perjuicio de otro, revele algún secreto, intimidad personal o comunicación reservada, que conoció con motivo de su función o ejercicio profesional o de su relación con la víctima o sus familiares.
 
 Si para la comisión del delito, el sujeto activo se valió de su profesión, cargo u oficio, se le aplicará, además, suspensión de un mes a un año en su ejercicio.
 
@@ -2017,6 +2007,8 @@ PROCREACIÓN ASISTIDA, INSEMINACIÓN ARTIFICIAL Y MANIPULACIÓN GENÉTICA
 
 ### CAPÍTULO I. PELIGRO DE CONTAGIO
 
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2011)</small>
+
 ### CAPÍTULO II. OMISIÓN DE CUIDADO
 
 ### CAPÍTULO III. OMISIÓN DE AUXILIO
@@ -2067,9 +2059,7 @@ DELITOS DE PELIGRO CONTRA LAS PERSONAS
 
 ###### Artículo 189.
 
-Al que sabiendo que padece una enfermedad grave en período infectante, ponga en peligro de contagio la salud de otro, por relaciones sexuales u otro medio transmisible, con o sin voluntad de la víctima siempre y cuando habiendo voluntad de la víctima no tenga conocimiento de esa circunstancia o bien no comprenda el alcance del peligro, se le impondrán de tres a cinco años de prisión y multa de doscientos dieciséis a trescientos sesenta días de salario, sin perjuicio de que la autoridad judicial determine su cuidado o vigilancia en un establecimiento adecuado hasta que cese el período infectante.
-
-Si el sujeto activo desconoce que está infectado y la enfermedad padecida fuera incurable se impondrán de tres meses a diez años de prisión y multa de dieciocho a setecientos veinte días de salario; si tiene conocimiento del padecimiento de enfermedad incurable, se le impondrá pena de diez a cincuenta años y multa de setecientos veinte a tres mil seiscientos días de salario.
+Al que sabiendo que padece una enfermedad grave en periodo infectante, ponga en peligro de contagio la salud de otro, por cualquier medio transmisible, se le impondrán de tres a cinco años de prisión y multa de doscientos dieciséis a trescientos sesenta días de salario, sin perjuicio de que la autoridad judicial determine su cuidado o vigilancia en un establecimiento adecuado hasta que cese el período infectante. En caso de que se trate de una enfermedad incurable, se le impondrá una pena de tres a diez años de prisión y multa de doscientos dieciséis a setecientos veinte días de salario.
 
 ### CAPÍTULO I. ROBO
 
@@ -2139,7 +2129,7 @@ I. Con violencia contra la víctima o persona distinta que se halle en compañí
 
 II. En lugar cerrado, en edificio, vivienda, aposento o cuartos que estén habitados o destinados para habitación, comprendiendo no sólo los que están fijos en la tierra, sino también los móviles sea cual fuere el materia (sic) del que estén construidos;
 
-IlI. Cuando se cometa, estando la víctima en un vehículo particular o de transporte público;
+III. Cuando se cometa, estando la víctima en un vehículo particular o de transporte público;
 
 IV. Aprovechando la consternación que una desgracia privada cause a la víctima o a su familia o las condiciones de confusión que se produzcan por catástrofe o desorden público;
 
@@ -2175,9 +2165,11 @@ VI. Cuando el robo se efectúe por dos o más personas; y,
 
 VII. Cuando en el robo se utilice a menores de edad, para la comisión del delito.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 199.
 
-Se sancionará con pena de cinco a doce años de prisión y multa de trescientos sesenta a ochocientos sesenta y cuatro días de salario, al que después de la ejecución del robo de un vehículo y sin haber participado en éste, lo adquiera; o bien, posea, enajene, trafique, reciba o comercialice, los instrumentos, objetos, refacciones o material de la unidad, en partes y no se cerciore de su legal procedencia.
+Se sancionará con pena de cinco a doce años de prisión y multa de trescientos sesenta a ochocientos sesenta y cuatro días de salario, al que después de la ejecución del robo de un vehículo y sin haber participado en éste, lo adquiera; o bien, posea, enajene, trafique, reciba o comercialice, los instrumentos, objetos, refacciones o material de la unidad, en todo o en partes y no se cerciore de su legal procedencia.
 
 A quien aporte recursos económicos o de cualquier otra naturaleza para la preparación y ejecución de las actividades descritas en el párrafo anterior, se le aumentará la pena hasta en una mitad más.
 
@@ -2186,6 +2178,10 @@ Si participa un servidor público se le aumentará la pena privativa de la liber
 ###### Artículo 200.
 
 Si el apoderamiento se cometió con ánimo de uso, se impondrán de tres meses a dos años de prisión y multa de dieciocho a ciento cuarenta y cuatro días de salario, siempre que la restituya espontáneamente antes de que la autoridad tome conocimiento del delito.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2011)</small>
+
+Como reparación del daño, pagará al ofendido el doble del alquiler, arrendamiento o interés de la cosa usada, conforme a los valores del mercado.
 
 ###### Artículo 201.
 
@@ -2276,6 +2272,8 @@ Si este delito se comete en bienes de dominio público o que por su valor histó
 Las penas señaladas en este capítulo se aumentarán hasta en una mitad más, cuando los daños en los bienes se causen con motivo u ocasión de un espectáculo deportivo, profesional, taurino, artístico u otros similares en que tiene lugar o en sus inmediaciones, antes, durante o después de su desarrollo.
 
 ### CAPÍTULO IX. DISPOSICIONES COMUNES DE LOS DELITOS PATRIMONIALES
+
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 210.
 
@@ -2445,11 +2443,13 @@ Se impondrán de seis a doce años de prisión y multa de cuatrocientos treinta 
 
 ###### Artículo 221.
 
-La cuantía del objeto o del producto del delito se estimará atendiendo a su valor intrínseco. Si el objeto o producto no fueren estimables en dinero o si por su naturaleza no fuere posible fijar su valor, se aplicará de tres meses a cinco años de prisión y multa de dieciocho a trescientos sesenta días de salario.
+La cuantía del objeto o del producto del delito se estimará atendiendo a su valor comercial. Si el objeto o producto no fueren estimables en dinero, si por su naturaleza o por cualquier causa no fuere posible fijar su valor, se aplicará de tres meses a cinco años de prisión y multa de dieciocho a trescientos sesenta días de salario. Tratándose del delito de robo se impondrán las penas previstas en los artículos 197 y 198 del presente Código cuando se actualicen las modalidades respectivas.
+
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 222.
 
-Cuando se trate de objetos de arte, históricos o de un valor estimativo especial para la colectividad, se estará a lo señalado por peritos de la materia y se aplicará de cinco a quince años de prisión y multa de trescientos sesenta a mil ochenta días de salario.
+Cuando se trate de objetos de arte, históricos o de un valor estimativo especial para la colectividad, se estará a lo señalado por peritos de la materia y se aplicará de cinco a quince años de prisión y multa de trescientos sesenta a mil ochenta días de salario. Tratándose del delito de robo se impondrán las penas previstas en los artículos 197 y 198 del presente Código cuando se actualicen las modalidades respectivas.
 
 SUBTÍTULO SEGUNDO
 
@@ -2473,7 +2473,7 @@ Se impondrá de tres a seis meses de prisión y multa de dieciocho a treinta y s
 
 ###### Artículo 226.
 
-Se impondrá de seis meses a diez años de prisión y multa de treinta y seis a setecientos veinte días de salario, a quiénes compren o vendan o de cualquier forma transfieran o adquieran ilegalmente la tenencia de bienes sujetos a régimen ejidal o comunal, con propósito de lucro o para obtener un beneficio para sí o para otros, salvo las excepciones que se contemplan en la legislación agraria.
+Se impondrá de seis meses a diez años de prisión y multa de treinta y seis a setecientos veinte días de salario, a quienes compren o vendan o de cualquier forma transfieran o adquieran ilegalmente la tenencia de bienes sujetos a régimen ejidal o comunal, con propósito de lucro o para obtener un beneficio para sí o para otros, salvo las excepciones que se contemplan en la legislación agraria.
 
 ## TÍTULO TERCERO. OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA
 
@@ -2935,7 +2935,7 @@ Tratándose de estos delitos, el trabajo en favor de la comunidad, consistirá e
 
 ###### Artículo 275.
 
-Cuando en la comisión de un delito previsto en este capitulo, intervenga un servidor público en ejercicio, con motivo de sus funciones o aprovechándose de su calidad de servidor, la pena de prisión se aumentará en una mitad y se le inhabilitará para ocupar cargo, empleo o comisión, por el mismo termino de la pena privativa de libertad.
+Cuando en la comisión de un delito previsto en este capítulo, intervenga un servidor público en ejercicio, con motivo de sus funciones o aprovechándose de su calidad de servidor, la pena de prisión se aumentará en una mitad y se le inhabilitará para ocupar cargo, empleo o comisión, por el mismo término de la pena privativa de libertad.
 
 SUBTÍTULO SÉPTIMO
 
@@ -3355,7 +3355,7 @@ II. Independientemente de las penas previstas en otras leyes, utilice indebidame
 
 III. Siendo miembro de alguna empresa, corporación o establecimiento autorizado por la ley para prestar servicios de seguridad privada utilice armamento, material balístico, uniformes, insignias, identificaciones, equipo, material y accesorios que puedan confundirse con los autorizados a los miembros de corporaciones de seguridad publica procuración de justicia; y,
 
-IV. Sin autorización acceda o utilice las radiofrecuencias, bases de datos o archivos o cualquier medio de comunicación, resguardo de información o sistemas codificados dependientes de o al servicio de las corporaciones de seguridad publica, procuración de justicia o de los centros de prisión preventiva o de ejecución de penas.
+IV. Sin autorización acceda o utilice las radiofrecuencias, bases de datos o archivos o cualquier medio de comunicación, resguardo de información o sistemas codificados dependientes de o al servicio de las corporaciones de seguridad pública, procuración de justicia o de los centros de prisión preventiva o de ejecución de penas.
 
 Cuando el sujeto activo tenga el carácter de servidor público la pena de prisión será aumentada en una mitad y además será separado de su cargo e inhabilitación del servicio público por el termino de diez años.
 
@@ -4017,7 +4017,7 @@ III. A sabiendas, alegue hechos falsos o se apoye en leyes o criterios jurisprud
 
 IV. Promueva cualquier incidente, recurso o medio de impugnación notoriamente improcedente, que entorpezca el juicio o motive su dilación, provocando con ello un perjuicio a las partes;
 
-V. Como defensor de un imputado, se concrete a aceptar el cargo y a solicitar la libertad caucional, sin promover mas pruebas ni diligencias tendientes a la defensa adecuada del imputado;
+V. Como defensor de un imputado, se concrete a aceptar el cargo y a solicitar la libertad caucional, sin promover más pruebas ni diligencias tendientes a la defensa adecuada del imputado;
 
 VI. Como defensor de un imputado, no ofrezca ni desahogue pruebas fundamentales para la defensa dentro de los plazos previstos por la ley, teniendo la posibilidad de hacerlo;
 
@@ -4456,3 +4456,9 @@ El presente decreto entrará en vigor una vez que se publique en el Periódico O
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones legales que se opongan al contenido del presente decreto.
+
+P.O. 20 DE FEBRERO DE 2011.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que contravengan a lo estipulado por el presente decreto.
