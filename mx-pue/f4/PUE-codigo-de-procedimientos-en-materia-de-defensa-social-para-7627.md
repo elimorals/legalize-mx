@@ -4,7 +4,7 @@ identifier: "PUE-codigo-de-procedimientos-en-materia-de-defensa-social-para-7627
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-23"
-last_updated: "2010-12-03"
+last_updated: "2011-02-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7627&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "PUE"
 
 CODIGO DE PROCEDIMIENTOS EN MATERIA DE DEFENSA SOCIAL PARA EL ESTADO L. Y S. DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE DICIEMBRE DE 2010.
+> <small>N. DE E. EL PRESENTE ORDENAMIENTO SERA ABROGADO DE FORMA GRADUAL POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA, PUBLICADO EN EL P.O. DE 21 DE FEBRERO DE 2011.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE FEBRERO DE 2011.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Puebla, el martes 23 de diciembre de 1986.
 
@@ -3748,3 +3750,13 @@ P.O. 3 DE DICIEMBRE DE 2010.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 21 DE FEBRERO DE 2011.
+
+PRIMERO.- El presente Ordenamiento entrará en vigor en forma gradual, iniciando por la región judicial que se establezca en la Ley Orgánica del Poder Judicial del Estado a más tardar el 18 de junio de 2011.
+
+SEGUNDO.- El Título Décimo del presente Ordenamiento, por ser materia de ejecución de sentencias, entrará en vigor el 18 de junio de 2011.
+
+TERCERO.- Se abroga el Código de Procedimientos en Materia de Defensa Social para el Estado Libre y Soberano de Puebla, de forma gradual atendiendo a lo que se disponga en la Ley Orgánica del Poder Judicial del Estado.
+
+CUARTO.- Se derogan todas las disposiciones que se opongan al presente Ordenamiento, con la gradualidad establecida con antelación.
