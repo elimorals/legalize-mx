@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-del-poder-judicial-del-estado-de-hidalgo-59906"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-01-07"
-last_updated: "2011-02-14"
+last_updated: "2011-02-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59906&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "HID"
 ---
 # LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 21 DE FEBRERO DE 2011 EN EL P.O. DEL ESTADO DE HIDALGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO
 
-LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE FEBRERO DE 2011.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE FEBRERO DE 2011.
+> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 21 DE FEBRERO DE 2011 NO APLICA AL ARTICULADO DEL DECRETO 574 PUBLICADO EN EL P.O. DE 14 DE FEBRERO DE 2011.</small>
 
 Ley publicada en el Número 1 Bis del Periódico Oficial del Estado de Hidalgo, el lunes 7 de enero de 2008.
 
@@ -199,7 +199,7 @@ Las sesiones ordinarias deberán celebrarse cuando menos mensualmente y las extr
 
 De toda sesión se levantará Acta que firmarán el Presidente, los Magistrados y el Secretario General, quién dará fe.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 19.
 
@@ -503,7 +503,7 @@ Las salas Especializadas en Justicia para Adolescentes, conocerán, además de l
 
 A Las (sic) Salas en Materia Penal les corresponde resolver la autorización de cambio de radicación de los procesos penales, conforme a lo dispuesto en el Código Procesal Penal.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA DE LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA DE LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2010)</small>
 
@@ -565,7 +565,7 @@ El Secretario General del Tribunal Superior de Justicia deberá satisfacer los m
 
 De su renuncia conocerá el Pleno.
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO UNICO DEL DECRETO PUBLICADO EN EL P.O. DE 16 DE NOVIEMBRE DE 2009, SE MODIFICA LA ESTRUCTURA DEL PRESENTE ARTICULO PARA QUEDAR COMPRENDIDO POR QUINCE FRACCIONES.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO PUBLICADO EN EL P.O. DE 16 DE NOVIEMBRE DE 2009, SE MODIFICA LA ESTRUCTURA DEL PRESENTE ARTÍCULO PARA QUEDAR COMPRENDIDO POR QUINCE FRACCIONES.</small>
 
 ###### ARTÍCULO 37.
 
@@ -1195,7 +1195,7 @@ VI.- Redactar de manera clara y con letra legible las constancias y diligencias 
 
 VII.- Las que establezcan la presente Ley y demás disposiciones aplicables.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 16 DE NOVIEMBRE DE 2009)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 16 DE NOVIEMBRE DE 2009)</small>
 
 ### CAPÍTULO XIII. De los Administradores de Juzgado
 
@@ -1241,7 +1241,7 @@ IV.- Acreditar el proceso de selección que determine el Consejo de la Judicatur
 
 ### CAPÍTULO I. Disposiciones Generales
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
 
@@ -1249,7 +1249,7 @@ IV.- Acreditar el proceso de selección que determine el Consejo de la Judicatur
 
 De conformidad con los Artículos 116, fracción V, de la Constitución Política de los Estados Unidos Mexicanos; 99, apartado B, de la Constitución Política del Estado de Hidalgo; 1 y 2 inciso a) fracción II, de esta Ley, la justicia fiscal y administrativa en el Estado de Hidalgo, se impartirá por el Tribunal Fiscal Administrativo con jurisdicción en toda la Entidad y con residencia en la Ciudad de Pachuca de Soto.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
 
@@ -1257,7 +1257,7 @@ De conformidad con los Artículos 116, fracción V, de la Constitución Polític
 
 El Tribunal Fiscal Administrativo del Estado de Hidalgo, es un órgano autónomo, de control de legalidad, con plena jurisdicción para dictar sus resoluciones, e imperio para hacerlas cumplir.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
 
@@ -1267,7 +1267,7 @@ Corresponde al Tribunal Fiscal Administrativo dirimir, con plena autonomía, las
 
 En ningún caso el Tribunal podrá sustituir a la autoridad administrativa.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
 
@@ -1309,7 +1309,7 @@ II.- Del recurso de Reclamación, conforme a lo dispuesto en la Ley de la materi
 
 III.- Los demás asuntos que señalen las normas aplicables.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
 
@@ -1319,7 +1319,7 @@ Los magistrados del Tribunal Fiscal Administrativo, serán nombrados y protestar
 
 Para el trámite de renuncias de los magistrados del Tribunal Fiscal Administrativo, se seguirá el mismo procedimiento que para su designación.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
 
@@ -1327,7 +1327,7 @@ Para el trámite de renuncias de los magistrados del Tribunal Fiscal Administrat
 
 Los magistrados, durarán en el ejercicio de su cargo, seis años a partir de la aprobación de su nombramiento por el Congreso; podrán ser ratificados y si lo fueren, solo podrán ser privados de sus puestos en los términos que determinen la Constitución Política del Estado de Hidalgo y las Leyes correspondientes.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
 
@@ -1335,7 +1335,7 @@ Los magistrados, durarán en el ejercicio de su cargo, seis años a partir de la
 
 El Tribunal Fiscal Administrativo se integrará por tres magistrados; funcionará en Pleno y en salas. El Pleno será el órgano supremo del Tribunal, con funciones jurisdiccionales y administrativas.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
 
@@ -1343,7 +1343,7 @@ El Tribunal Fiscal Administrativo se integrará por tres magistrados; funcionar�
 
 Las salas unitarias funcionarán como primera instancia y el Pleno como segunda instancia.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
 
@@ -1351,7 +1351,7 @@ Las salas unitarias funcionarán como primera instancia y el Pleno como segunda 
 
 El Tribunal Fiscal Administrativo tendrá un Presidente, que lo será también del Pleno, durará en su encargo cuatro años y no podrá ser reelecto para el periodo inmediato.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
 
@@ -1365,7 +1365,7 @@ Cuando un magistrado de sala se excuse del conocimiento de un asunto en Segunda 
 
 Tratándose de excusas del Presidente, el Pleno resolverá y, en su caso, designará al Magistrado de mayor antigüedad quien sustanciará y resolverá el asunto.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
 
@@ -1377,7 +1377,7 @@ Las ausencias temporales de los demás magistrados serán suplidas por el Secret
 
 Las ausencias definitivas de los magistrados, entretanto se provee a la designación, las cubrirá el Secretario General del Tribunal.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
 
@@ -1389,7 +1389,7 @@ Las ausencias definitivas de los magistrados se comunicarán al Gobernador del E
 
 Del Pleno del Tribunal Fiscal Administrativo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
 
@@ -1397,7 +1397,7 @@ Del Pleno del Tribunal Fiscal Administrativo.
 
 El Pleno se integrará con la totalidad de magistrados del Tribunal.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
 
@@ -1409,7 +1409,7 @@ Cuando un magistrado no estuviere de acuerdo con la mayoría, podrá expresar en
 
 Los magistrados, únicamente podrán abstenerse de votar cuando tengan impedimento legal.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
 
@@ -1417,7 +1417,7 @@ Los magistrados, únicamente podrán abstenerse de votar cuando tengan impedimen
 
 Las sesiones del Pleno serán ordinarias o extraordinarias; las ordinarias deberán celebrarse por lo menos una vez al mes y las extraordinarias cuando sea necesario, previa convocatoria del Presidente o a solicitud de alguno de los magistrados.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
 
@@ -1435,7 +1435,7 @@ IV.- Conocer de las excitativas que para impartición de justicia promuevan las 
 
 V.- Las demás funciones de su competencia que establezca la normatividad aplicable.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
 
@@ -1481,7 +1481,7 @@ XVII.- Las demás obligaciones, funciones y atribuciones que establezcan, la pre
 
 Del Presidente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
 
@@ -1523,7 +1523,7 @@ XV.- Las demás obligaciones, funciones y atribuciones que le señalen la presen
 
 De las Salas Unitarias.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
 
@@ -1531,7 +1531,7 @@ De las Salas Unitarias.
 
 Los magistrados de las salas de primera instancia conocerán y resolverán en materia fiscal y administrativa. El Presidente no intervendrá en controversias de Primera Instancia.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
 
@@ -1555,7 +1555,7 @@ VI.- Les demás que señale esta Ley, el Reglamento Interior y los ordenamientos
 
 Del Personal.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
 
@@ -1577,7 +1577,7 @@ VI.- Encargado de Oficialía de partes; y
 
 VII.- Demás personal necesario para su funcionamiento que permita el presupuesto.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
 
@@ -1585,7 +1585,7 @@ VII.- Demás personal necesario para su funcionamiento que permita el presupuest
 
 Para ser Secretario General, Secretario de Estudio y Proyecto, Secretario de Acuerdos y Actuario, se requiere satisfacer los mismos requisitos que exige esta Ley para sus homólogos del Tribunal Superior de Justicia.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
 
@@ -1619,7 +1619,7 @@ XII.- Realizar, en caso necesario, las gestiones para la entrega-recepción de l
 
 XIII.- Las demás obligaciones, funciones y atribuciones que le señalen la presente Ley, la Ley Orgánica del Tribunal Fiscal Administrativo del Estado de Hidalgo, el Código Fiscal del Estado de Hidalgo y los demás ordenamientos aplicables.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
 
@@ -1633,7 +1633,7 @@ II.- Resguardar los expedientes y documentos que se les confíen para estudio y 
 
 III.- Las demás que señalen esta Ley y los ordenamientos aplicables.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
 
@@ -1671,7 +1671,7 @@ XIV.- Remitir los expedientes concluidos al Archivo del Poder Judicial del Estad
 
 XV.- Las demás obligaciones, funciones y atribuciones que les señalen: la presente Ley, la Ley Orgánica del Tribunal Fiscal Administrativo del Estado de Hidalgo, el Código Fiscal del Estado de Hidalgo y los demás ordenamientos aplicables.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
 
@@ -1695,7 +1695,7 @@ VlI.- Auxiliar al Magistrado en las diligencias y actuaciones que requiera; y
 
 VlII.- Las demás obligaciones, funciones y atribuciones que les señalen la presente Ley, la ley Orgánica del Tribunal Fiscal Administrativo del Estado de Hidalgo, el Código Fiscal del Estado de Hidalgo y los demás ordenamientos aplicables.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
 
@@ -1715,7 +1715,7 @@ IV.- Elaborar los informes y estadísticas que le sean solicitados por el Secret
 
 V.- Las demás obligaciones y atribuciones dispuestas por esta Ley, la Ley Orgánica del Tribunal Fiscal Administrativo del Estado de Hidalgo, el Código Fiscal del Estado de Hidalgo y otros ordenamientos aplicables, así como las que señalen el Presidente del Tribunal o el Secretario General.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
 
@@ -1725,7 +1725,7 @@ Los magistrados y demás servidores públicos adscritos al Tribunal Fiscal Admin
 
 ### CAPÍTULO VI. De la Unidad Administrativa
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
 
@@ -1733,7 +1733,7 @@ Los magistrados y demás servidores públicos adscritos al Tribunal Fiscal Admin
 
 La Unidad Administrativa, estará a cargo de un Jefe, quien tendrá la vinculación correspondiente con el Consejo de la Judicatura.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
 
@@ -1741,7 +1741,7 @@ La Unidad Administrativa, estará a cargo de un Jefe, quien tendrá la vinculaci
 
 El Jefe de la Unidad Administrativa será propuesto por el Presidente del Tribunal Fiscal Administrativo del Estado de Hidalgo y nombrado por el Pleno.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
 
@@ -2399,7 +2399,7 @@ IV.- Acreditar el examen de aptitud que elabore el Consejo de la Judicatura.
 
 Los funcionarios de la Oficina de Servicios Auxiliares para Medidas Cautelares se someterán cada tres años a un examen de control de confianza.
 
-> <small>(ADICIONADA [N. DE E. REUBICADA, ANTES SECCION SEGUNDA], P.O. 16 DE NOVIEMBRE DE 2009)</small>
+> <small>(ADICIONADA [N. DE E. REUBICADA, ANTES SECCIÓN SEGUNDA], P.O. 16 DE NOVIEMBRE DE 2009)</small>
 
 #### Sección Cuarta. De la Coordinación General de Administración
 
@@ -2497,7 +2497,7 @@ V. Tramitar los nombramientos, remociones, renuncias, licencias y jubilaciones d
 
 La Dirección de Servicios Generales será el área encargada de organizar, dirigir y controlar los servicios de intendencia, mantenimiento, seguridad y vigilancia de los edificios y oficinas del Poder Judicial, de sus muebles y útiles de trabajo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 141.
 
@@ -2517,7 +2517,7 @@ VI.- Llevar el inventario de bienes muebles e inmuebles afectos al destino de la
 
 VII.- Llevar el control de transporte y equipo y de adoptar las providencias necesarias para el eficiente manejo administrativo del Poder Judicial.
 
-> <small>(ADICIONADA [N. DE E. REUBICADA, ANTES SECCION TERCERA], P.O. 16 DE NOVIEMBRE DE 2009)</small>
+> <small>(ADICIONADA [N. DE E. REUBICADA, ANTES SECCIÓN TERCERA], P.O. 16 DE NOVIEMBRE DE 2009)</small>
 
 #### Sección Quinta. De la Visitaduría Judicial
 
@@ -2567,7 +2567,7 @@ VI.- Examinar las causas o expedientes formados con motivo de asuntos penales, c
 
 Las visitas extraordinarias se realizaran para casos en particular y bajo los lineamientos que indique el Consejo de la Judicatura, quien decidirá la fecha de su práctica.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 146.
 
@@ -2579,7 +2579,7 @@ Las visitas podrán diferirse por decisión del Consejo de la Judicatura, lo cua
 
 De toda visita de inspección deberá levantarse acta circunstanciada.
 
-> <small>(ADICIONADA [N. DE E. REUBICADA, ANTES SECCION CUARTA], P.O. 16 DE NOVIEMBRE DE 2009)</small>
+> <small>(ADICIONADA [N. DE E. REUBICADA, ANTES SECCIÓN CUARTA], P.O. 16 DE NOVIEMBRE DE 2009)</small>
 
 #### Sección Sexta. Del Instituto de Profesionalización e Investigaciones Jurídicas
 
@@ -2625,7 +2625,7 @@ IX.- Establecer y mantener comunicación permanente con Instituciones de Educaci
 
 X.- Las demás que le señale la presente Ley y demás ordenamientos legales aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 150.
 
@@ -2633,7 +2633,7 @@ Los programas que habrá de desarrollar el Instituto de Profesionalización e In
 
 Los cursos de capacitación, especialización, actualización y formación avalados por su programa académico, así como las convocatorias, serán determinados por el Consejo de la Judicatura.
 
-> <small>(ADICIONADA [N. DE E. REUBICADA, ANTES SECCION QUINTA], P.O. 16 DE NOVIEMBRE DE 2009)</small>
+> <small>(ADICIONADA [N. DE E. REUBICADA, ANTES SECCIÓN QUINTA], P.O. 16 DE NOVIEMBRE DE 2009)</small>
 
 #### Sección Séptima. De la Coordinación General de Planeación y Programas
 
@@ -2697,7 +2697,7 @@ El Archivo del Poder Judicial en su vertiente de Archivo de Concentración se in
 
 ## TÍTULO SÉPTIMO. De la Justicia Alternativa
 
-((ADICIONADO [N. DE E. REUBICADO, ANTES SECCION SEXTA DEL TITULO SEXTO, P.O. 16 DE NOVIEMBRE DE 2009)
+((ADICIONADO [N. DE E. REUBICADO, ANTES SECCIÓN SEXTA DEL TÍTULO SEXTO, P.O. 16 DE NOVIEMBRE DE 2009)
 
 ### CAPÍTULO ÚNICO. Del Centro Estatal de Justicia Alternativa
 
@@ -2733,7 +2733,7 @@ V.- Intercambiar experiencias sobre el Sistema de Justicia Alternativa, con inst
 
 VI.- Las demás que le confieran los ordenamientos legales.
 
-> <small>(ADICIONADO [N. DE E. REUBICADO Y REFORMADA SU DENOMINACION, ANTES TITULO SEPTIMO, P.O. 16 DE NOVIEMBRE DE 2009)</small>
+> <small>(ADICIONADO [N. DE E. REUBICADO Y REFORMADA SU DENOMINACIÓN, ANTES TÍTULO SÉPTIMO, P.O. 16 DE NOVIEMBRE DE 2009)</small>
 
 ## TÍTULO OCTAVO. De los Servidores Públicos del Poder Judicial
 
@@ -2835,7 +2835,7 @@ ARTÍCULO 168 BIS.- El Administrador de Juzgado y el Director de la Oficina de S
 
 El proceso de selección consistirá en la acreditación de los exámenes de conocimientos, de las pruebas de control de confianza, y, en su caso, de los cursos o programas de capacitación.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 169.
 
@@ -3087,7 +3087,7 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 
 LIC. MIGUEL ÁNGEL OSORIO CHONG
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 16 DE NOVIEMBRE DE 2009.
 
