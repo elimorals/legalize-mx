@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2011-02-14"
+last_updated: "2011-02-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CODIGO MUNICIPAL DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE FEBRERO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE FEBRERO DE 2011.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -931,33 +931,31 @@ De la Secretaría Particular
 
 La Presidencia tiene a su cargo el despacho de asuntos que expresamente le confieren la Ley que en materia municipal expida el Poder Legislativo del Estado, los acuerdos que emanen de las Sesiones del H. Ayuntamiento y el presente ordenamiento.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE MARZO DE 2008)</small>
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2011)</small>
 
 ###### ARTÍCULO 98.
 
 El trámite y resolución de los asuntos, competencia del Municipio de Aguascalientes, corresponde originalmente al Presidente Municipal, quien para su mejor realización, podrá delegar sus facultades en cualquiera de los servidores públicos de la administración pública municipal, sin perder por ello su ejercicio directo y responsabilidad.
 
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 2008)</small>
-
 Los titulares de cada una de las dependencias y entidades de la administración pública municipal, acordarán directamente con el Presidente Municipal o con quien éste determine, y deberán cumplir los requisitos señalados en la Ley que en materia municipal expida el Poder Legislativo del Estado.
-
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 2011)</small>
 
 Para el estudio, planeación y despacho de los asuntos de su competencia, la Presidencia Municipal contará con las siguientes Unidades Administrativas:
 
 Secretaría Particular;
 
-Comité Municipal para el Desarrollo Integral de la Familia;
-
-Coordinación General de Comunicación Social;
+Oficina Ejecutiva del Presidente Municipal;
 
 Coordinación General del Observatorio Ciudadano de Transparencia y Gestión Municipal;
 
+Comité Municipal para el Desarrollo Integral de la Familia;
+
+Dirección General del Sistema para el Desarrollo Integral de la Familia;
+
+Coordinación General de Comunicación Social;
+
 Contraloría Municipal;
 
-Oficina Ejecutiva del Presidente Municipal;
-
-Secretaria del H. Ayuntamiento y Dirección General de Gobierno;
+Secretaría del H. Ayuntamiento y Dirección General de Gobierno;
 
 Secretaría de Finanzas Públicas;
 
@@ -965,49 +963,39 @@ Secretaría de Obras Públicas;
 
 Secretaría de Administración;
 
-Secretaría de Desarrollo Social;
+Secretaría de Integración Social;
 
 Secretaría de Desarrollo Urbano;
 
-> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
-
 Secretaría de Servicios Públicos;
-
-> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
 
 Secretaría Seguridad Pública y Tránsito Municipal; y
 
-> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 2011)</small>
-
 Secretaría de Medio Ambiente y Desarrollo Sustentable.
 
-De las unidades administrativas enunciadas dependerá la estructura siguiente:
+I.- PRESIDENCIA MUNICIPAL
 
-I.- PRESIDENCIA MUNICIPAL:
+Asistente del C. Presidente
 
-Asistente del C. Presidente; y Secretario Privado del C. Presidente.
+Secretario Privado del C. Presidente
 
-> <small>(REFORMADA, P.O. 31 DE ENERO DE 2011)</small>
+II.- SECRETARÍA PARTICULAR
 
-II.- SECRETARIA PARTICULAR:
+Departamento de Relaciones Públicas
 
-Asistente del Secretario
+Coordinador de Oficina
 
-Departamento de Discurso y Mensaje Gubernamental.
+Coordinación Administrativa
 
-Departamento de Giras y Eventos.
+Dirección de Atención Institucional
 
-Departamento de Atención a la Ciudadanía.
+Departamento de Giras y Eventos
 
-Coordinación Administrativa.
+Departamento de Atención a la Ciudadanía
 
-Dirección de Atención Institucional.
+Dirección de Análisis y Seguimiento de Información
 
-Departamento de Relaciones Públicas.
-
-> <small>(REFORMADA, P.O. 31 DE ENERO DE 2011)</small>
-
-III.- OFICINA EJECUTIVA DEL PRESIDENTE MUNICIPAL:
+III.- OFICINA EJECUTIVA DEL PRESIDENTE MUNICIPAL
 
 Dirección de Estrategia y Análisis Político
 
@@ -1027,589 +1015,443 @@ Dirección de Enlace Internacional
 
 Departamento de Gestión de Proyectos
 
-IV.- COMITÉ MUNICIPAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA
+IV.- COORDINACIÓN GENERAL DEL OBSERVATORIO CIUDADANO DE TRANSPARENCIA Y GESTIÓN MUNICIPAL
 
-Presidenta del Sistema D.I.F. Municipal: Secretario Privado.
+Coordinación Técnica
 
-Secretario Particular.
+Departamento Administrativo
 
-Coordinación Operativa General del Voluntariado.
+Departamento de Transparencia
 
-V.- DIRECCIÓN GENERAL DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA:
+Departamento de Vinculación Ciudadana
 
-Departamento Jurídico.
+Departamento de Evaluación de la Calidad de la Gestión Municipal
 
-Departamento de Comunicación Social.
+Departamento de Difusión e Informática
 
-Departamento de Trabajo Social y Atención a la Discapacidad.
+V.- COMITÉ MUNICIPAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA
 
-Coordinación Administrativa.
+Presidenta del Sistema D.I.F. Municipal
 
-Dirección de Programas Institucionales.
+Coordinación Operativa General del Voluntariado
 
-Departamento de Servicios Médicos; y
+VI.- DIRECCIÓN GENERAL DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA
 
-Departamento de Salud Mental.
+Departamento Jurídico
 
-Dirección de Desarrollo Familiar y Comunitario:
+Departamento de Comunicación Social
 
-Departamento de Atención a Adultos Mayores; y
-
-Departamento de Atención a la Juventud.
-
-Departamento de Desarrollo Infantil.
-
-VI.- COORDINACIÓN GENERAL DE COMUNICACIÓN SOCIAL
-
-Departamento de Producción Gráfica.
-
-Departamento de Videoproducción.
-
-Departamento de Información.
-
-Departamento de Difusión Institucional.
-
-Departamento de Síntesis Informativa.
-
-> <small>(REFORMADA, P.O. 31 DE ENERO DE 2011)</small>
-
-VII.- COORDINACIÓN GENERAL DEL OBSERVATORIO CIUDADANO DE TRANSPARENCIA Y GESTIÓN MUNICIPAL.
-
-Departamento Administrativo;
-
-Departamento de Transparencia;
-
-Departamento de Vinculación Ciudadana;
-
-Departamento de Evaluación de la Calidad de la Gestión Municipal;
-
-Departamento de Difusión e Informática.
-
-VIII.- CONTRALORÍA MUNICIPAL
-
-Coordinación Jurídica.
-
-Dirección de Auditoría Operacional y de Gestión:
-
-Departamento de Control de Procesos.
-
-Departamento de Revisión al Ejercicio de Recursos Federales y Municipales; y
-
-Departamento de Auditoría de Información Contable.
-
-Dirección de Auditoría de Obra Pública.
-
-Departamento de Evaluación a Obras Públicas.
-
-Departamento de Evaluación a Servicios Públicos.
-
-> <small>(REFORMADA, P.O. 31 DE ENERO DE 2011)</small>
-
-IX.- SECRETARIA DEL H. AYUNTAMIENTO Y DIRECCIÓN GENERAL DE GOBIERNO:
-
-Secretaría Particular.
-
-Departamento de la Junta Municipal de Reclutamiento.
-
-Coordinación Administrativa.
-
-Coordinación de Asuntos de Cabildo.
-
-Dirección de Asuntos Internos de Seguridad Pública y Tránsito.
-
-Departamento de Procedimientos, Registro y Estadística.
-
-Departamento de Investigación y Control de Confianza.
-
-Dirección de Asuntos Jurídicos.
-
-Coordinación Jurídica de lo Contencioso.
-
-Coordinación Jurídico-Legislativa.
-
-Coordinación de Asuntos de Honor y Justicia.
-
-Dirección de Justicia Municipal.
-
-Departamento de Servicios Médicos, Psicología y Trabajo Social.
-
-Coordinación General de Verificación Única Administrativa.
-
-Coordinación de Sanidad y Salud Pública.
-
-Coordinación de Verificación de Servicios Públicos Municipales y Desarrollo Urbano.
-
-Coordinación de Verificación de Reglamentación y Áreas Comerciales.
-
-Dirección de Reglamentación.
-
-Coordinación de Licencias.
-
-Área de Revisión de Licencias y Permisos.
-
-Dirección de Mercados, Estacionamientos y Áreas Comerciales.
-
-Departamento de Mercados y Estacionamientos.
-
-Departamento de Áreas Comerciales.
-
-Dirección Municipal de Protección Civil, Bomberos y Atención a Emergencias Prehospitalarias.
-
-Departamento de Verificación e Inspección y; Capacitación y Adiestramiento.
-
-Departamento Operativo de Protección Civil.
-
-Departamento de Atención Médica Prehospitalaria.
-
-Departamento de Bomberos.
-
-SUBSECRETARÍA DEL H. AYUNTAMIENTO Y SUBDIRECCIÓN GENERAL DE GOBIERNO:
-
-Delegación Urbana José María Morelos y Pavón.
-
-Departamento de Servicios Públicos.
-
-Departamento de Desarrollo Urbano y Obras Públicas.
-
-Departamento de Desarrollo Humano.
-
-Comisarios Municipales.
-
-Delegación Urbana Lic. Jesús Terán Peredo.
-
-Departamento de Servicios Públicos.
-
-Departamento de Desarrollo Urbano y Obras Públicas.
-
-Departamento de Desarrollo Humano.
-
-Comisarios Municipales.
-
-Delegación Urbana Insurgentes.
-
-Departamento de Servicios Públicos.
-
-Departamento de Desarrollo Urbano y Obras Públicas.
-
-Departamento de Desarrollo Humano.
-
-Comisarios Municipales.
-
-Delegación Urbana Pocitos.
-
-Departamento de Servicios Públicos.
-
-Departamento de Desarrollo Urbano y Obras Públicas.
-
-Departamento de Desarrollo Humano.
-
-Comisarios Municipales.
-
-Delegación Rural Cañada Honda.
-
-Comisarios Municipales.
-
-Delegación Rural Calvillito.
-
-Comisarios Municipales.
-
-Delegación Rural Peñuelas.
-
-Comisarios Municipales.
-
-Delegación Rural Salto de los Salado.
-
-Comisarios Municipales.
-
-X.- SECRETARÍA DE FINANZAS PÚBLICAS
-
-Departamento de Ejecución, Apremios e Inspección Fiscal.
-
-Coordinación de Auditoría Interna.
-
-Dirección de Ingresos:
-
-Departamento de Impuestos Predial e ISABI.
-
-Departamento de Licencias Comerciales.
-
-Departamento de Control Fiscal.
-
-Departamento de Obras por Cooperación.
-
-Departamento de Recaudación.
-
-Departamento de Control Vehicular.
-
-Dirección de Egresos:
-
-Departamento de Presupuestos.
-
-Departamento de Control Financiero.
-
-Departamento de Control Financiero de la Obra Pública.
-
-Departamento de Control Presupuestal de la Obra Pública.
-
-Dirección de Información Financiera:
-
-Departamento de Contabilidad.
-
-Departamento de Cuenta Pública.
-
-Departamento de Administración y Deuda Pública.
-
-> <small>(REFORMADA, P.O. 13 DE JULIO DE 2009)</small>
-
-XI.- SECRETARÍA DE OBRAS PÚBLICAS
-
-Jefatura de Departamento de Atención Ciudadana.
-
-Coordinación Jurídica.
-
-Dirección de Calidad y Fallas Geológicas.
-
-Jefatura de Departamento de Calidad.
-
-Jefatura de Departamento de Fallas Geológicas.
-
-Dirección de Proyectos.
-
-Jefatura de Departamento de Proyectos.
-
-Jefatura de Departamento de Expedientes Técnicos y Costos.
-
-Dirección de Construcción y Conservación de Obras Públicas.
-
-Jefatura de Departamento de Construcción.
-
-Jefatura de Departamento de Parque de Maquinaria y Almacén.
-
-Jefatura de Departamento de Conservación y Mantenimiento.
-
-Dirección de Supervisión, Licitación y Contratos.
-
-Jefatura de Departamento de Supervisión.
-
-Jefatura de Departamento de Licitación y Contratos.
-
-Dirección Administrativa.
-
-Jefatura de Departamento de Administración y Finanzas.
-
-Jefatura de Departamento de Compras.
-
-Dirección de Infraestructura Vial y Programas Especiales.
-
-Jefatura de Departamento de Infraestructura Vial y Planeación.
-
-Jefatura de Departamento de Edificación y Programas Especiales.
-
-> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2008)</small>
-
-XII.- SECRETARIA DE ADMINISTRACIÓN Secretaria Particular;
+Departamento de Trabajo Social
 
 Coordinación Administrativa
 
-Dirección Jurídica:
+Departamento de Compras
 
-Departamento Jurídico de Recursos Humanos.
+Departamento de Almacén
 
-Departamento Jurídico de Recursos Materiales.
+Departamento de Recursos Humanos
 
-Departamento Jurídico de Licitaciones y Concursos.
+Dirección de Programas Institucionales
 
-Departamento Jurídico de Defensa Administrativa.
+Coordinadora de la Unidad de Salud Integral
 
-Dirección de Modernización Tecnológica:
+Departamento de Servicios Médicos
 
-Departamento de Tecnologías Web.
+Departamento de Salud Mental
 
-Departamento de Desarrollo de Sistemas.
+Dirección de Desarrollo Familiar y Comunitario
 
-Departamento de Soporte Técnico.
+Departamento de Atención a Adultos Mayores
 
-Departamento de Telecomunicaciones.
+Departamento de Atención a la Juventud
 
-Dirección de Recursos Humanos:
+Departamento de Desarrollo Infantil
 
-Departamento de Remuneración al Personal.
+Coordinación de CEDECOS
 
-Departamento de Desarrollo de Personal.
+VII.- COORDINACIÓN GENERAL DE COMUNICACIÓN SOCIAL
 
-Departamento de Seguridad e integración de Personal.
+Enlace de Comunicación
 
-Coordinación Médica.
+Coordinación Administrativa
 
-Dirección de Recursos Materiales:
+Departamento de Producción Gráfica
 
-Departamento de Archivo General Municipal.
+Departamento de Comunicación Digital
 
-Departamento de Control Patrimonial.
+Departamento de Información
 
-Departamento de Taller Gráfico.
+Departamento de Difusión
 
-Coordinación de Adquisiciones:
+Departamento de Análisis y Síntesis
 
-Departamento de Compras.
+VIII.- CONTRALORÍA MUNICIPAL
 
-Dirección de Servicios Generales:
+Coordinación Jurídica
 
-Departamento de Mantenimiento.
+Dirección de Auditoria Operacional y de Gestión
 
-Departamento de Intendencia.
+Departamento de Control de Procesos
 
-Departamento de Mantenimiento y Reparación de Vehículos.
+Departamento de Revisión al Ejercicio de Recursos Federales y Municipales
 
-Dirección de Aseguramiento de la Calidad y Evaluación:
+Departamento de Auditoria de Información Contable
 
-Departamento de Auditorías Internas.
+Dirección de Auditoria de Obra Pública
 
-Departamento de Mejora Continua.
+Departamento de Evaluación a Obras Públicas
 
-Coordinación de Evaluación:
+Departamento de Evaluación a Servicios Públicos
 
-Departamento de Reingeniería.
+IX.- SECRETARÍA DEL H. AYUNTAMIENTO Y DIRECCIÓN GENERAL DE GOBIERNO
 
-Departamento de Auditoría Administrativa y Operativa.
+Secretario Particular
 
-> <small>(REFORMADA, P.O. 31 DE ENERO DE 2011)</small>
+Departamento de la Junta Municipal de Reclutamiento
 
-XIII.- SECRETARIA DE DESARROLLO SOCIAL
+Coordinación Administrativa
 
-Coordinación Administrativa:
+Unidad Administrativa de Regidores
 
-Departamento de Seguimiento y Control de Gestión.
+Coordinación de Asuntos de Cabildo
 
-Departamento de Recursos Humanos y control Presupuestal.
+Dirección de Asuntos Internos de Seguridad Pública y Tránsito
 
-Coordinación de Atención Integral a las Personas Adultas Mayores:
+Departamento de Procedimientos, Registro y Estadística
 
-Departamento de Registro y Actualización.
+Departamento de Investigación y Control de Confianza
 
-Departamento de Evaluación y Control de Gestión.
+Dirección de Asuntos Jurídicos
 
-Dirección de Educación:
+Coordinación Jurídica de lo Contencioso
 
-Departamento de Educación.
+Coordinación Jurídico-Legislativa
 
-Dirección de Servicio Deportivo Municipal:
+Coordinación de Asuntos de Honor y Justicia
 
-Departamento de Cultura Física y Deporte.
+Dirección de Justicia Municipal
 
-Departamento de Gestión y Apoyos Deportivos.
+Departamento de Servicios Médicos, Psicología y Trabajo Social
 
-Dirección de Desarrollo Social:
+Coordinación General de Verificación Única Administrativa
 
-Departamento de Promoción.
+Coordinación de Sanidad y Salud Pública
 
-Departamento de Organización.
+Coordinación de Verificación de Servicios Públicos Municipales y Desarrollo Urbano
 
-Departamento de Concertación de Obras.
+Coordinación de Verificación de Reglamentación y Áreas Comerciales
 
-Departamento de Programas Federales y Municipales.
+Dirección de Reglamentación
 
-Departamento de Programas Especiales.
+Coordinación de Licencias
 
-Dirección de Desarrollo Económico:
+Dirección de Mercados, Estacionamientos y Áreas Comerciales
 
-Departamento de Bolsa de Trabajo y Capacitación.
+Departamento de Mercados y Estacionamientos
 
-Departamento de Proyectos Productivos.
+Departamento de Áreas Comerciales
 
-Dirección de Promoción Rural:
+Dirección Municipal de Protección Civil, Bomberos y Atención a Emergencias Prehospitalarias
 
-Departamento de Desarrollo Rural.
+Departamento de Inspección y Capacitación
 
-XIV.- SECRETARÍA DE DESARROLLO URBANO
+Departamento Operativo de Protección Civil
 
-Departamento de Atención Ciudadana.
+Departamento de Atención Médica Prehospitalaria
 
-Coordinación Jurídica.
+Departamento de Bomberos
 
-Coordinación Administrativa.
+Subsecretaría del H. Ayuntamiento y Subdirección General de Gobierno
 
-Dirección de Control Urbano:
+Delegación Urbana José María Morelos y Pavón
 
-Departamento de Licencias de Construcción.
+Departamento de Servicios Públicos
 
-Departamento de Supervisión.
+Departamento de Desarrollo Urbano y Obras Públicas
 
-Departamento de Usos de Suelo.
+Departamento de Integración Social
 
-Departamento de Imagen Urbana.
+Comisarios Municipales
 
-Dirección de Fraccionamientos y Bienes Inmuebles Municipales:
+Delegación Urbana Lic. Jesús Terán Peredo
 
-Departamento de Fraccionamientos.
+Departamento de Servicios Públicos
 
-Departamento de Supervisión de Fraccionamientos y Áreas Municipales.
+Departamento de Desarrollo Urbano y Obras Públicas
 
-Departamento de Bienes Inmuebles Municipales.
+Departamento de Integración Social
 
-Departamento de Cartografía.
+Comisarios Municipales
 
-> <small>(REFORMADA PRIMER PARRAFO, P.O. 14 DE FEBRERO DE 2011)</small>
+Delegación Urbana Insurgentes
 
-XV.- SECRETARIA DE SERVICIOS PUBLICOS
+Departamento de Servicios Públicos
 
-Departamento de Atención Ciudadana:
+Departamento de Desarrollo Urbano y Obras Públicas
 
-Departamento de Ahorro de Energía.
+Departamento de Integración Social
 
-Coordinación Jurídica.
+Comisarios Municipales
 
-> <small>(DEROGADO, P.O. 14 DE FEBRERO DE 2011)</small>
+Delegación Urbana Pocitos
 
-> <small>(DEROGADO, P.O. 14 DE FEBRERO DE 2011)</small>
+Departamento de Servicios Públicos
 
-> <small>(DEROGADO, P.O. 14 DE FEBRERO DE 2011)</small>
+Departamento de Desarrollo Urbano y Obras Públicas
 
-> <small>(DEROGADO, P.O. 14 DE FEBRERO DE 2011)</small>
+Departamento de Integración Social
 
-> <small>(DEROGADO, P.O. 14 DE FEBRERO DE 2011)</small>
+Comisarios Municipales
 
-Dirección Administrativa:
+Delegación Rural Cañada Honda
 
-Departamento de Taller de Mantenimiento.
+Comisarios Municipales
 
-Departamento de Abastecimientos.
+Delegación Rural Calvillito
 
-Departamento de Recursos Humanos y Capacitación.
+Comisarios Municipales
 
-Departamento de Control Presupuestal.
+Delegación Rural Peñuelas
 
-Dirección de Limpia y Aseo Público:
+Comisarios Municipales
 
-Departamento de Aseo Público.
+Coordinación Administrativa
 
-Departamento de Inspección y Concientización.
+Departamento de Recursos Humanos y Eficiencia Presupuestal
 
-Departamento de Recolección.
+Dirección de Desarrollo Rural
 
-Departamento de Residuos Sólidos.
+Departamento de Desarrollo Rural
 
-Dirección de Alumbrado Público:
+Dirección de Educación
 
-Departamento de Operación y Mantenimiento.
+Departamento de Educación
 
-Departamento de Proyectos y Supervisión.
+Dirección de Cultura Física y Deporte
 
-Departamento de Edificios Públicos e Iluminación Ornamental.
+Departamento de Cultura Física y Deporte
 
-Coordinación General de Servicios Públicos.
+Departamento de Gestión y Apoyos Deportivos
 
-Dirección de Panteones.
+Dirección de Desarrollo Social
 
-Departamento de Operación y Servicios.
+Departamento de Programas Federales
 
-Departamento de Mantenimiento.
+Departamento de Programas Municipales
 
-Dirección de Parques y Jardines:
+Departamento de Programas para la Convivencia
 
-Departamento de Parques y Jardines.
+Dirección de Integración
 
-Departamento de Producción y Sanidad. Departamento de Operación y Servicios.
+Departamento de Promoción
 
-Departamento de Parques Públicos.
+Departamento de Organización y Concertación
 
-XVI.- SECRETARÍA DE SEGURIDAD PÚBLICA Y TRÁNSITO MUNICIPAL
+Dirección de Desarrollo Económico y Turismo
 
-Secretaría Particular:
+Departamento de Proyectos Productivos
 
-Departamento de Comunicación Social.
+Departamento de Vinculación Empresarial y Capacitación para el Empleo
 
-Coordinación de Asuntos Jurídicos.
+Departamento de Turismo
 
-Dirección de Policía Preventiva:
+XIV(SIC).- SECRETARIA DE DESARROLLO URBANO
 
-Jefatura Operativa de Policía Auxiliar y Comercial.
+Secretario Particular
 
-Jefatura Operativa de la Delegación Jesús Terán.
+Coordinación Jurídica
 
-Jefatura Operativa de la Delegación Insurgentes.
+Coordinación Administrativa
 
-Jefatura Operativa de la Delegación Morelos.
+Dirección de Control Urbano
 
-Jefatura Operativa de la Delegación Área Centro.
+Departamento de Licencias de Construcción
 
-Jefatura Operativa Área Uno.
+Departamento de Supervisión
 
-Jefatura Operativa Especial.
+Departamento de Usos de Suelo
 
-Jefatura Operativa de las Delegaciones Suburbanas.
+Departamento de Imagen Urbana
 
-Dirección de Tránsito:
+Dirección de Fraccionamientos y Bienes Inmuebles Municipales
 
-Jefatura Operativa.
+Departamento de Fraccionamientos
 
-Departamento de Transporte Público y Control de Infracciones.
+Departamento de Supervisión de Fraccionamientos y Áreas Municipales
 
-Departamento de Estacionamiento Controlado.
+Departamento de Bienes Inmuebles Municipales
 
-Departamento de Accidentes y Peritajes.
+Departamento de Cartografía
 
-Departamento de Pensión Municipal.
+XV.- SECRETARÍA DE SERVICIOS PÚBLICOS
 
-Coordinación de Planeación de Tráfico.
+Departamento de Atención Ciudadana
 
-Departamento de Semáforos.
+Departamento de Planeación
 
-Departamento de Ingeniería de Tránsito.
+Departamento de Rastro
 
-Dirección Administrativa:
+Departamento de Control Canino y Felino
 
-Departamento de Recursos Materiales y Financieros.
+Coordinación Jurídica
 
-Departamento de Recursos Humanos.
+Coordinación Administrativa
 
-Departamento de Capacitación y Evaluación.
+Departamento de Taller de Mantenimiento
 
-Departamento de Atención Psicológica.
+Departamento de Compras
 
-Dirección de Estado Mayor:
+Departamento de Recursos Humanos
 
-Coordinación de Información:
+Departamento de Control de Inventarios y Activos Fijos
 
-Departamento de Información y Estadística; y Departamento de Planeación.
+Coordinación General de Servicios Públicos
 
-Coordinación de Educación Preventiva y Seguridad Social.
+Dirección de Limpia y Aseo Público
 
-Coordinación del Centro de Mando C-4:
+Departamento de Aseo Público
 
-Departamento de Monitoreo de Alarmas.
+Departamento de Recolección
 
-Departamento de Monitoreo de GPS.
+Departamento de Residuos Sólidos
 
-Departamento de Monitoreo de Videocámaras.
+Departamento de Inspección
 
-Departamento de Radio Comunicación.
+Dirección de Alumbrado Público
 
-Departamento de Emergencia 080.
+Departamento de Operación y Mantenimiento
 
-Dirección de Capacitación, formación y profesionalización.
+Departamento de Proyectos y Supervisión
 
-> <small>(ADICIONADA, P.O. 14 DE FEBRERO DE 2011)</small>
+Departamento de Edificios Públicos e Iluminación Ornamental
+
+Dirección de Panteones
+
+Departamento de Operación y Servicios
+
+Departamento de Mantenimiento
+
+Dirección de Parques y Jardines
+
+Departamento de Parques y Jardines
+
+Departamento de Producción y Sanidad
+
+Departamento de Operación y Servicios
+
+Departamento de Parques Públicos
+
+XVI.- SECRETARIA DE SEGURIDAD PÚBLICA Y TRÁNSITO MUNICIPAL
+
+Secretario Particular
+
+Departamento de Comunicación Social
+
+Coordinación de Asuntos Jurídicos
+
+Coordinación Administrativa
+
+Departamento de Recursos Materiales
+
+Departamento de Recursos Humanos
+
+Dirección de Policía Preventiva
+
+Jefatura Operativa de Policía Auxiliar y Comercial
+
+Jefatura Operativa de la Delegación Jesús Terán
+
+Jefatura Operativa de la Delegación Insurgentes
+
+Jefatura Operativa de la Delegación Morelos
+
+Jefatura Operativa de la Delegación Área Centro
+
+Jefatura Operativa Área Uno
+
+Jefatura Operativa Especial
+
+Jefatura Operativa de las Delegaciones
+
+Dirección de Tránsito y Movilidad
+
+Departamento de Educación Vial
+
+Departamento de Transportes y Gestión de Infracciones
+
+Departamento de Hechos de Tránsito y Peritaje
+
+Departamento de Pensión Municipal
+
+Coordinación Operativa
+
+Departamento Operativo de Territorio
+
+Coordinación de Planeación y Movilidad
+
+Departamento de Sistema de Semáforos y Gestión de Tránsito
+
+Departamento de Implementación y Señalización
+
+Departamento de Estacionamiento Regulado
+
+Departamento de Proyectos y Movilidad de Estudios de Tránsito
+
+Dirección de Prevención del Delito
+
+Coordinación Operativa para la Prevención
+
+Departamento de Planeación de Programas Preventivos
+
+Departamento de Implementación y Seguimiento de Programas
+
+Dirección de Profesionalización
+
+Coordinación de Seguimiento de Servicio de Carrera Policial
+
+Departamento de Formación y Capacitación
+
+Departamento de Evaluación
+
+Dirección de Estado Mayor
+
+Coordinación de Información y Estrategia
+
+Departamento de Información y Estadística
+
+Departamento de Planeación
+
+Coordinación del Centro de Mando C-4
+
+Departamento de Monitoreo de Alarmas
+
+Departamento de Monitoreo de GPS
+
+Departamento de Monitoreo de Videocámaras
+
+Departamento de Radio Comunicación
+
+Departamento de Emergencia 080
 
 XVII.- SECRETARÍA DE MEDIO AMBIENTE Y DESARROLLO SUSTENTABLE
 
-Secretario Particular.
+Secretario Particular
 
-Coordinación Jurídica.
+Coordinación Jurídica
 
-Coordinación Administrativa.
+Coordinación Administrativa
 
-Dirección de Medio Ambiente.
+Dirección de Medio Ambiente
 
-Departamento de Gestión Ambiental.
+Departamento de Gestión Ambiental
 
-Departamento de Recursos Naturales y Biodiversidad.
+Departamento de Recursos Naturales y Biodiversidad
 
-Dirección de Cambio Climático.
+Dirección de Cambio Climático
 
-Departamento de Agenda 21 Local.
+Departamento de Agenda 21 Local
 
-Departamento de Educación Ambiental y Participación Ciudadana.
+Departamento de Educación Ambiental y Participación Ciudadana
 
 ### CAPÍTULO I. De las Normas que Regulan las Actividades de los Trabajadores al Servicio del Gobierno Municipal
 
@@ -14597,17 +14439,17 @@ Sólo se autorizará el 10% de relotificaciones de predios con respecto al total
 
 La clasificación, características y funciones de las vialidades a que se refiere este Código Municipal, se apega a la normatividad y definiciones establecidas en el Código Urbano.
 
-I.- VIALlDADES REGIONALES O DE ACCESO CONTROLADO: Son aquellas que vinculan a las zonas urbanas y rurales, con el sistema carretero regional;
+I.- VIALIDADES REGIONALES O DE ACCESO CONTROLADO: Son aquellas que vinculan a las zonas urbanas y rurales, con el sistema carretero regional;
 
 II.- ARTERIAS DE GRAN VOLUMEN O PRIMARIAS: Son las que estructuran el sistema vial de las Ciudades, por lo que son las de mayor importancia por sección y flujo vehicular. Su dimensión aproximada es de 42 metros de sección o ancho mínimo;
 
-III.- VIALlDADES SECUNDARIAS: Son las que vinculan las diferentes zonas urbanas y tienen una menor importancia que las principales. Su dimensión va de los 23 metros a los 42 metros de sección o de ancho, dependiendo del flujo vehicular, ya que son un enlace entre vialidades primarias y colectoras;
+III.- VIALIDADES SECUNDARIAS: Son las que vinculan las diferentes zonas urbanas y tienen una menor importancia que las principales. Su dimensión va de los 23 metros a los 42 metros de sección o de ancho, dependiendo del flujo vehicular, ya que son un enlace entre vialidades primarias y colectoras;
 
-IV.- VIALlDADES O CALLES COLECTORAS: Son las que enlazan las unidades vecinales entre sí, es decir, conducen el tráfico de las calles locales hacia otras zonas del fraccionamiento o del centro de población, o hacia las arterias de gran volumen. Este tipo de calles nunca podrán ser cerradas y pueden servir para dar acceso a los lotes. Su dimensión va desde los 15 metros hasta los 22 metros de sección o de ancho, dependiendo del tipo de fraccionamiento.
+IV.- VIALIDADES O CALLES COLECTORAS: Son las que enlazan las unidades vecinales entre sí, es decir, conducen el tráfico de las calles locales hacia otras zonas del fraccionamiento o del centro de población, o hacia las arterias de gran volumen. Este tipo de calles nunca podrán ser cerradas y pueden servir para dar acceso a los lotes. Su dimensión va desde los 15 metros hasta los 22 metros de sección o de ancho, dependiendo del tipo de fraccionamiento.
 
-V.- VIALlDADES O CALLES LOCALES: Son aquellas que dan servicio internamente a los fraccionamientos, colonias y desarrollos habitacionales y sirven para dar acceso a sus lotes, por lo que son las de menor sección. Su dimensión es de 12 metros de sección o de ancho para fraccionamientos de tipo campestre, medio, popular y de interés social y de 15 metros de sección o de ancho en fraccionamientos de tipo residencial.
+V.- VIALIDADES O CALLES LOCALES: Son aquellas que dan servicio internamente a los fraccionamientos, colonias y desarrollos habitacionales y sirven para dar acceso a sus lotes, por lo que son las de menor sección. Su dimensión es de 12 metros de sección o de ancho para fraccionamientos de tipo campestre, medio, popular y de interés social y de 15 metros de sección o de ancho en fraccionamientos de tipo residencial.
 
-VI.- VIALlDAD CERRADA: Son las vías públicas municipales que no tienen una continuidad o liga con otras calles, por encontrarse cerradas o delimitadas en uno de sus extremos. Sin embargo las mismas se consideran como un bien del dominio público de los Municipios, por reunir las características y condiciones a que hace referencia este Código; y
+VI.- VIALIDAD CERRADA: Son las vías públicas municipales que no tienen una continuidad o liga con otras calles, por encontrarse cerradas o delimitadas en uno de sus extremos. Sin embargo las mismas se consideran como un bien del dominio público de los Municipios, por reunir las características y condiciones a que hace referencia este Código; y
 
 VII.- ANDADORES: Son aquellos que servirán exclusivamente para el tránsito de peatones.
 
@@ -16951,7 +16793,7 @@ En el caso de los comercios establecido (sic) cuyo mobiliario ocupe parte de la 
 
 De igual manera, la Dirección de Mercados deberá contar con la autorización del área encargada de imagen urbana dentro de la Secretaría de Desarrollo Urbano para el otorgamiento de permisos en el centro histórico de la ciudad.
 
-###### ARTICULO 1358.
+###### ARTÍCULO 1358.
 
 Para los efectos del presente Título se entenderá por:
 
@@ -17813,7 +17655,7 @@ VI. El callejón tendrá un metro con cincuenta centímetros de ancho como míni
 
 VII. Los corrales para los toros serán suficientemente amplios, seguros, con dotación de burladeros y un buen desagüe para evitar el encharcamiento del agua en perjuicio de los toros. Los corrales tendrán comunicación con la vía pública, para la fácil introducción de las animales y, además, comunicación directa con la corraleta de los chiqueros para la faena de enchiqueramientos. Los corrales deberán contar con mirillas, para que el público pueda observar las condiciones de los toros. Asimismo deberán contar con cobertizos, comederos y abrevaderos. En toda plaza de toros que esté catalogada como de primera, deberá contar dentro de sus instalaciones, con una báscula para verificar el peso de los toros en pie.
 
-En las plazas de toros, habrá un lugar preferente, destinado a las autoridades y éstas tendrán a su disposición un equipo de sonido de calidad adecuada. En las plazas de primera categoría, el paIco de la autoridad deberá estar comunicado con un teléfono al callejón, con el inspector autoridad.
+En las plazas de toros, habrá un lugar preferente, destinado a las autoridades y éstas tendrán a su disposición un equipo de sonido de calidad adecuada. En las plazas de primera categoría, el palco de la autoridad deberá estar comunicado con un teléfono al callejón, con el inspector autoridad.
 
 ###### ARTÍCULO 1419.
 
@@ -20044,3 +19886,11 @@ PRIMERO. Los actos administrativos emitidos por las autoridades municipales comp
 SEGUNDO. Publíquese en el Periódico Oficial de Gobierno del Estado de Aguascalientes.
 
 TERCERO. Las presentes reformas y adiciones entrarán en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 21 DE FEBRERO DE 2011.
+
+PRIMERO.- Las presentes reformas entrarán en vigor el día hábil siguiente de su Publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO.- Quedan vigentes los transitorios publicados el 31 de enero de 2011 en el Periódico Oficial de Estado de Aguascalientes, relativas al Decreto por el que se reforma el artículo 98 párrafo cuarto, así como en sus fracciones II, III, VII, IX y XVII del Código Municipal de Aguascalientes.
+
+TERCERO.- Todas las referencias relativas a la Secretaria de Desarrollo Social así como de la Secretaria de Servicios Públicos y Ecología, prescritas en el Código Municipal de Aguascalientes, o en cualesquier otro ordenamiento, se entenderán hechas a la Secretaria de Integración Social o a la Secretaria de Servicios Públicos respectivamente y de conformidad con la presente reforma. De igual manera cabe esta misma disposición para las áreas, coordinaciones, departamentos, dependencias o unidades administrativas que han sido establecidas en la presente reforma.
