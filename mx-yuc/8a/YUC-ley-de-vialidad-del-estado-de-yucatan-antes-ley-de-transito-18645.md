@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-vialidad-del-estado-de-yucatan-antes-ley-de-transito-186
 country: "mx"
 rank: "ley"
 publication_date: "1980-07-31"
-last_updated: "1987-05-14"
+last_updated: "2011-02-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18645&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "YUC"
 
 LEY DE VIALIDAD DEL ESTADO DE YUCATAN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 14 DE MAYO DE 1987.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DE LA LEY DE TRANSITO Y VIALIDAD DEL ESTADO DE YUCATAN, PUBLICADA EN EL SUPLEMENTO DEL D.O. DE FECHA 22 DE FEBRERO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: ABROGADA.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el jueves 31 de julio de 1980.
 
@@ -84,3 +86,41 @@ Lic. Mario A. Bolio Granja.
 D.O. 14 DE MAYO DE 1987.
 
 UNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en el "Diario Oficial" del Gobierno del Estado.
+
+D.O. 22 DE FEBRERO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+Esta Ley entrará en vigor a los 120 días siguientes al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+###### ARTÍCULO SEGUNDO.
+
+A partir de la entrada en vigor de este Decreto, quedará abrogada la Ley de Vialidad del Estado de Yucatán, expedida mediante Decreto número 369 publicado en el Diario Oficial del Gobierno del Estado de Yucatán, el 31 de julio de 1980.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones legales de igual o menor rango que se opongan a las disposiciones de esta Ley.
+
+###### ARTÍCULO CUARTO.
+
+El Poder Ejecutivo deberá expedir el Reglamento relativo a esta Ley en un plazo no mayor a 120 días naturales, contados a partir del día siguiente a la publicación de la presente Ley.
+
+###### ARTÍCULO QUINTO.
+
+El Reglamento de esta Ley, establecerá las zonas en las cuales determinados vehículos podrán transitar por las vías públicas del Estado.
+
+###### ARTÍCULO SEXTO.
+
+En tanto entra en vigor el Reglamento de la Ley de Tránsito y Vialidad del Estado de Yucatán que se expide, se aplicará el Reglamento de Vialidad para el Estado de Yucatán, publicado el 31 de diciembre de 1991.
+
+###### ARTÍCULO SÉPTIMO.
+
+Las licencias, permisos y autorizaciones expedidos conforme a la Ley de Vialidad del Estado de Yucatán que se abroga y el Reglamento de Vialidad para el Estado de Yucatán, seguirán en vigor hasta su vencimiento.
+
+###### ARTÍCULO OCTAVO.
+
+Se otorga un plazo de 180 días naturales, contados a partir de la fecha en que entre en vigor este Decreto, para que los propietarios o poseedores de vehículos de combustión, híbridos o mixtos o eléctricos, se ajusten a las disposiciones establecidas en el mismo, en lo que se refiere a la obligatoriedad de equipos, sistemas, accesorios de seguridad, hologramas de verificación de contaminantes y seguro contra daños a terceros.
+
+###### ARTÍCULO NOVENO.
+
+El Poder Ejecutivo del Gobierno del Estado de Yucatán y el H. Ayuntamiento de Mérida, tendrán un plazo de 180 días naturales, contados a partir de la entrada en vigor de esta Ley, para elaborar de manera conjunta y suscribir un convenio de colaboración para la prestación del servicio de tránsito y vialidad en el municipio de Mérida, mismo que deberá publicarse en el Diario Oficial del Gobierno del Estado de Yucatán. Ese convenio deberá contener al menos, el objetivo, los mecanismos, las actividades calendarizadas y los demás términos que sean necesarios para cumplir con la finalidad de la transferencia.
