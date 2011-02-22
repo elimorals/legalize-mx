@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-del-poder-legislativo-del-estado-de-guerrero-14456
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-06-11"
-last_updated: "2011-01-21"
+last_updated: "2011-02-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14456&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE GUERRERO NUMERO 286
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE ENERO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE FEBRERO DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 11 de junio de 1999.
 
@@ -751,11 +751,15 @@ XXVI. Instructora;
 
 > <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2007)</small>
 
-XXVII. De Vigilancia y Evaluación de la Auditoria General del Estado, y
+XXVII. De Vigilancia y Evaluación de la Auditoria General del Estado, y (sic)
 
 > <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2007)</small>
 
 XXVIII. Para la Atención del Acceso a la Información Pública.
+
+> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 2011)</small>
+
+XXIX. De Cultura.
 
 Las Comisiones anteriormente enunciadas, podrán ser incrementadas a juicio del Congreso, y tendrán a su cargo el trámite y la resolución de los asuntos relacionados con su competencia, así como las que expresamente les delegue el Pleno.
 
@@ -1011,9 +1015,9 @@ IV. Los demás análogos que, a juicio del Presidente del Congreso o de la Comis
 
 A la comisión de Desarrollo Social le corresponde conocer de los siguientes asuntos:
 
-I. Los relativos al fomento y preservación de la cultura;
+I. (DEROGADA, P.O. 22 DE FEBRERO DE 2011)
 
-II. Los que se refieran al fomento del deporte;
+II. (DEROGADA, P.O. 22 DE FEBRERO DE 2011)
 
 III. Aquellos vinculados con la asistencia social;
 
@@ -1146,6 +1150,26 @@ II. Promover y procurar que los programas y planes de las dependencias y entidad
 III. Incentivar la participación de los jóvenes en todos los ámbitos de la vida estatal y promover la realización de estudios y foros que versen sobre las condiciones de vida de los jóvenes, y
 
 IV. Los demás análogos que a juicio del Presidente del Congreso o de la Comisión Permanente, en su caso, le sean turnados.
+
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2011)</small>
+
+###### Artículo 73 Bis.
+
+A la Comisión de Cultura le corresponde conocer de las iniciativas y asuntos siguientes:
+
+I.- Lo relativo al fomento, desarrollo y divulgación de la cultura.
+
+II. Vigilar el cumplimiento de los programas y políticas públicas en materia de cultura.
+
+III. Vigilar la correcta aplicación del presupuesto en materia de cultura.
+
+IV. Lo relacionado a la promoción del contenido cultural en los programas de las televisoras y radiodifusoras del Estado.
+
+V. Lo relativo al fomento del deporte y la cultura física; así como la promoción y protección de los derechos al deporte.
+
+VI. Verificar que en el ejercicio de los programas relativos al deporte y la cultura física se satisfagan los requisitos de la Ley General de Cultura Física y Deporte.
+
+VII. Los análogos que a juicio del Presidente del Congreso o de la Comisión Permanente en su caso, le sean turnados.
 
 ###### Artículo 74.
 
@@ -2620,3 +2644,15 @@ Los diputados que hayan decido (sic) dejar o dejen de pertenecer a una fracción
 ###### ARTÍCULO CUARTO.
 
 En el caso de constituirse una representación parlamentaria, la Comisión de Gobierno, en términos de lo dispuesto por el artículo 95 de la Ley Orgánica del Poder Legislativo del Estado de Guerrero número 286 en vigor, procederá de inmediato a la asignación de los asientos contiguos en el salón de sesiones del Honorable Congreso del Estado; y el Presidente de la Mesa Directiva procederá a tomarle la protesta de Ley al Diputado Coordinador del Grupo, para integrarse formalmente a la Comisión de Gobierno.
+
+P.O. 22 DE FEBRERO DE 2011.
+
+ARTÍCULO .PRIMERO.- El, presente Decreto entrará en vigor a partir de su fecha de expedición.
+
+###### ARTÍCULO SEGUNDO.
+
+Publíquese en el Periódico Oficial del Gobierno del Estado para el conocimiento general y efectos legales procedentes.
+
+###### ARTÍCULO TERCERO.
+
+La integración de la Comisión de Cultura será designada por la Comisión de Gobierno.
