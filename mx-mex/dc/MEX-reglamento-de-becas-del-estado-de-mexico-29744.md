@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-de-becas-del-estado-de-mexico-29744"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-03-14"
-last_updated: "2003-03-14"
+last_updated: "2011-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29744&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,13 +23,13 @@ state: "MEX"
 
 REGLAMENTO DE BECAS DEL ESTADO DE MEXICO
 
-> <small>N. DE E. ESTE ORDENAMIENTO CUENTA CON UNA SEGUNDA IMPRESION EN LA TERCERA SECCION DEL PERIODICO OFICIAL No. 37 DE FECHA 22 DE FEBRERO DE 2011.</small>
+> <small>N. DE E. ESTE ORDENAMIENTO ES UNA REIMPRESION PUBLICADA EN LA TERCERA SECCION DEL PERIODICO OFICIAL No. 51 DE FECHA 14 DE MARZO DE 2003.</small>
 
 TEXTO ORIGINAL.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el viernes 14 de marzo de 2003.
 
-ARTURO MONTIEL ROJAS, GOBERNADOR CONSTITUCIONAL DEL ESTADO DE MEXICO, EN EJERCICIO DE LA FACULTAD QUE ME CONFIERE EL ARTICULO 77 FRACCIONES IV, XXXVIII Y XLI DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO, Y CON FUNDAMENTO EN LO DISPUESTO POR LOS ARTICULOS 2, 7 Y 8 DE LA LEY ORGANICA DE LA ADMINSTRACION PUBLICA DEL ESTADO DE MEXICO Y SEXTO TRANSITORIO DEL CODIGO ADMINISTRATIVO DEL ESTADO DE MEXICO; Y
+ARTURO MONTIEL ROJAS, GOBERNADOR CONSTITUCIONAL DEL ESTADO DE MEXICO, EN EJERCICIO DE LA FACULTAD QUE ME CONFIERE EL ARTICULO 77 FRACCIONES IV, XXXVIII Y XLI DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO, Y CON FUNDAMENTO EN LO DISPUESTO POR LOS ARTICULOS 2, 7 Y 8 DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE MEXICO Y SEXTO TRANSITORIO DEL CODIGO ADMINISTRATIVO DEL ESTADO DE MEXICO; Y
 
 C O N S I D E R A N D O
 
@@ -53,7 +53,7 @@ Para efectos de este reglamento, se entiende por:
 
 I. Secretaría, a la Secretaría de Educación, Cultura y Bienestar Social;
 
-II. Subsecretaría, a la Subsecretaria de Planeación y Administración de la Secretaría de Educación, Cultura y Bienestar Social;
+II. Subsecretaría, a la Subsecretaría de Planeación y Administración de la Secretaría de Educación, Cultura y Bienestar Social;
 
 III. Dirección General, a la Dirección General de Administración y Finanzas de la Secretaría de Educación, Cultura y Bienestar Social;
 
@@ -139,7 +139,7 @@ Los tipos de becas que se otorguen, serán:
 
 I. Económica: Asignación mensual en numerario que se otorga a los becarios;
 
-II. Crédito: Asignación económica que se entrega al becario en calidad de préstamo, con el compromiso de que éste restituya, al termino de sus estudios, la cantidad recibida durante el tiempo que dure la beca o, en su caso, preste los servicios profesionales que le requiera el Estado;
+II. Crédito: Asignación económica que se entrega al becario en calidad de préstamo, con el compromiso de que éste restituya, al término de sus estudios, la cantidad recibida durante el tiempo que dure la beca o, en su caso, preste los servicios profesionales que le requiera el Estado;
 
 III. En especie: Apoyo que se otorga a los estudiantes consistente en la entrega de material diverso para facilitar su educación;
 
