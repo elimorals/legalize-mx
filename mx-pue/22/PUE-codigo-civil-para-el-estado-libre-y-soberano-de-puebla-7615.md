@@ -4,7 +4,7 @@ identifier: "PUE-codigo-civil-para-el-estado-libre-y-soberano-de-puebla-7615"
 country: "mx"
 rank: "codigo"
 publication_date: "1985-04-30"
-last_updated: "2010-03-24"
+last_updated: "2011-02-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7615&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CODIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE MARZO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE FEBRERO DE 2011.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado, el día 30 de abril de 1985.
 
@@ -11127,9 +11127,39 @@ Perjuicio es la privación de cualquiera ganancia lícita, que se habría obteni
 
 El daño moral resulta de la violación de los derechos de la personalidad.
 
-> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2011)</small>
 
-Por daño moral se entiende la afectación que una persona sufre en su vida, su integridad corporal, su libertad, sus afectos, su honor, su decoro, su prestigio o reputación, su presencia física o la consideración que de sí misma tienen los demás, sus secretos y en general aspectos relacionados con su privacidad.
+Por daño moral se entiende la afectación que una persona sufre en sus afectos, creencias, decoro, honor, reputación, vida privada, configuración y aspecto físicos, o bien en la consideración que de sí misma tienen los demás. Se presumirá que hubo daño moral cuando se vulnere o menoscabe ilegítimamente la libertad o la integridad física o psíquica de las personas.
+
+> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2011)</small>
+
+Cuando un hecho u omisión ilícitos produzcan un daño moral, el responsable del mismo tendrá la obligación de repararlo mediante una indemnización en dinero, determinada por el juez, con independencia de que se haya causado daño material, tanto en responsabilidad contractual como extracontractual.
+
+> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2011)</small>
+
+La acción de reparación no es transmisible a terceros por acto entre vivos y sólo pasa a los herederos de la víctima cuando ésta haya intentado la acción en vida.
+
+> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2011)</small>
+
+El monto de la indemnización lo determinará el juez tomando en cuenta los derechos lesionados, el grado de responsabilidad, la situación económica del responsable, y la de la víctima, así como las demás circunstancias del caso. Dicho monto no excederá de tres mil días de salario mínimo vigente.
+
+> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2011)</small>
+
+###### Artículo 1958 Bis.
+
+Toda persona física o jurídica que publique cualquier tipo de escrito, tendrá la obligación de publicar gratuitamente las rectificaciones o respuestas que las autoridades o particulares quieran dar a las alusiones que se les hagan en artículos, editoriales, columnas, párrafos, reportajes o entrevistas y similares, siempre que la respuesta se dé dentro de los ocho días naturales siguientes a la publicación; que su extensión no sea mayor al triple del párrafo o artículo en que se contenga la alusión que se contesta, tratándose de autoridades, o del doble, tratándose de particulares; que no se usen expresiones contrarias a la dignidad de quien las publicó o a terceras personas y que no se cometa algún hecho prohibido por ley.
+
+La publicación de la respuesta, se hará en el mismo lugar y con la misma clase de letra y demás particularidades con que se hizo la publicación del artículo, editorial, columna, párrafo, reportaje o entrevista y similares a que la rectificación o respuesta se refiere.
+
+La rectificación o respuesta se publicará al día siguiente de aquel en que se reciba, si se trata de publicación diaria o en el número inmediato, si se trata de otras publicaciones periódicas. Si la respuesta o rectificación se recibe cuando ya no pueda publicarse en los términos indicados, se hará en el número siguiente.
+
+A la persona física o jurídica que se niegue a publicar la rectificación o respuesta en los términos referidos, el juez le impondrá una multa por el importe de cien a mil quinientos días de salario mínimo vigente.
+
+> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2011)</small>
+
+###### Artículo 1958 Ter.
+
+Toda sentencia que se pronuncie con motivo de daño moral, se publicará a costa del responsable si así lo exigiere el agraviado.
 
 ###### Artículo 1959.
 
@@ -19932,3 +19962,17 @@ P.O. 24 DE MARZO DE 2010.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 23 DE FEBRERO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+El Congreso del Estado, dentro del plazo de ciento ochenta días a partir de la publicación de este Decreto, expedirá en su caso, las adecuaciones a la legislación correspondiente.
