@@ -4,7 +4,7 @@ identifier: "PUE-codigo-penal-del-estado-libre-y-soberano-de-puebla-antes-7625"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-23"
-last_updated: "2011-02-09"
+last_updated: "2011-02-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CODIGO DE DEFENSA SOCIAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE FEBRERO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE FEBRERO DE 2011.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el martes 23 de diciembre de 1986.
 
@@ -2259,6 +2259,8 @@ Los Defensores Públicos que sin causa justificada incurrieren en los hechos exp
 
 #### SECCION CUARTA.- FALSEDAD EN DECLARACIONES JUDICIALES E INFORMES DADOS A UNA AUTORIDAD
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 239.
 
 Se impondrá prisión de tres meses a seis años, multa de cincuenta a quinientos días de salario y suspensión de tres meses hasta tres años, del ejercicio profesional además de la sanción que corresponda si causa homicidio o lesiones, al médico que:
@@ -2455,27 +2457,49 @@ VI.- El que, a sabiendas, hiciere uso de un documento falso, sea público o priv
 
 ###### Artículo 254.
 
-Se impondrán de dos meses a dos años de prisión y multa de diez a cien días de salario:
+Se impondrán de seis meses a cinco años de prisión y multa de diez a mil quinientos días de salario:
 
 I.- Al que, interrogado por alguna autoridad pública distinta de la judicial, o por un Notario Público, en ejercicio de sus funciones o con motivo de ellas, faltare a la verdad;
 
-II.- Al que, examinado por la autoridad judicial como testigo, faltare a la verdad sobre el hecho que se trata de averiguar, ya sea afirmando, negando u ocultando maliciosamente su existencia o la de alguna circunstancia que pueda servir de prueba de la verdad o falsedad del hecho principal, o que aumente o disminuya su gravedad;
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2011)</small>
 
-III.- Al que soborne a un testigo, perito o intérprete para que se produzcan con falsedad en juicio, o los obligue o comprometa a ella, intimidándolos o de otro modo;
+II.- Al que declare ante una autoridad en ejercicio de sus funciones o con motivo de ellas, en relación con los hechos que motivan la intervención de ésta, ya sea afirmando, negando u ocultando maliciosamente su existencia o la de alguna circunstancia que pueda servir de prueba de la verdad o falsedad del hecho principal, o que aumente o disminuya su gravedad;
 
-IV.- Al que, con arreglo a derecho, con cualquier carácter, excepto el de testigo, sea examinado por la autoridad y faltare a la verdad en perjuicio de otro, negando ser suya la firma con que hubiere suscrito determinado documento, afirmando un hecho falso, o negando o alterando uno verdadero o sus circunstancias substanciales, ya sea que lo haga en nombre propio o en nombre de otro;
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2011)</small>
 
-Lo prevenido en esta fracción no comprende los casos en que la parte sea examinada sobre la cantidad en que estime una cosa, o cuando tenga el carácter de acusado en una averiguación o proceso de Defensa Social; y
+III.- Al que con el propósito de inculpar o exculpar a alguien indebidamente en un procedimiento de defensa social, ante el Ministerio Público o ante la Autoridad Judicial, declare falsamente en calidad de testigo o como denunciante o querellante.
 
-V.- Al que, siendo autoridad, rinda a otra informes en los que afirme una falsedad o niegue u oculte la verdad, en todo o en parte.
+La pena de prisión se aumentará en una mitad para el testigo falso, denunciante o querellante que fuere examinado en un procedimiento penal, cuando su testimonio, denuncia o querella se rinda para producir convicción sobre la responsabilidad del indiciado o procesado, por un delito no considerado como grave. Si se trata de delito considerado grave, la pena de prisión aumentará en dos tantos;
+
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2011)</small>
+
+IV.- Al que examinado como perito por la Autoridad Judicial o Administrativa, dolosamente falte a la verdad en su dictamen;
+
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2011)</small>
+
+V.- Al que aporte testigos falsos conociendo esta circunstancia, o logre que un testigo, perito, intérprete o traductor falte a la verdad o la oculte al ser examinado por la autoridad pública en el ejercicio de sus funciones;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE FEBRERO DE 2011)</small>
+
+VI.- Al que con arreglo a derecho, con cualquier carácter, excepto el de testigo, sea examinado por la autoridad y faltare a la verdad en perjuicio de otro, negando ser suya la firma con que hubiere suscrito determinado documento, afirmando un hecho falso, o negando o alterando uno verdadero o sus circunstancias substanciales, ya sea que lo haga en nombre propio o en nombre de otro.
+
+Lo prevenido en esta fracción no comprende los casos en que la parte sea examinada sobre la cantidad en que estime una cosa, o cuando tenga el carácter de indiciado o procesado en una averiguación o proceso penal; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE FEBRERO DE 2011)</small>
+
+VII.- Al que siendo autoridad, rinda a otra informes en los que afirme una falsedad o niegue u oculte la verdad, en todo o en parte.
+
+Además de las penas a que se refieren las fracciones anteriores, se suspenderá hasta por tres años en el ejercicio de su profesión, ciencia, arte u oficio al perito, intérprete o traductor que se conduzca falsamente u oculte la verdad al desempeñar sus funciones.
 
 ###### Artículo 255.
 
-En el supuesto previsto por la fracción II del artículo 254, la sanción podrá ser hasta de quince años de prisión para el testigo falso que fuere examinado en un proceso de Defensa Social, cuando al reo se le impusiere una sanción de más de veinte años de prisión, y el testimonio falso hubiere tenido fuerza probatoria.
+(DEROGADO, P.O. 23 DE FEBRERO DE 2011)
+
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 256.
 
-El testigo, el perito o el intérprete que se retracten espontáneamente de sus falsas declaraciones rendidas en juicio, antes de que se pronuncie sentencia en la instancia en que las dieron, sólo pagarán una multa de uno a diez días de salario; pero si faltaren a la verdad al retractarse de sus declaraciones, se les aplicará la sanción que corresponda conforme a esta sección, considerándolos como reincidentes.
+El testigo, el perito, el intérprete o traductor que se retracten espontáneamente de sus falsas declaraciones rendidas en juicio, antes de que se pronuncie sentencia en la instancia en que las dieron, sólo pagarán multa de uno a diez días de salario; pero si faltaren a la verdad al retractarse de sus declaraciones, se les aplicará la sanción que corresponda conforme a esta sección, considerándolos como reincidentes.
 
 #### SECCION CUARTA.- RAPTO
 
@@ -3109,8 +3133,6 @@ Al que infiera lesiones calificadas se les impondrán las sanciones correspondie
 
 #### SECCION SEGUNDA.- DIFAMACION
 
-> <small>(REFORMADO, P.O. 23 DE MARZO DE 2007)</small>
-
 ###### Artículo 312.
 
 Comete el delito de Homicidio el que priva de la vida a otro.
@@ -3159,8 +3181,6 @@ Cuando el homicidio se cometiere en riña o duelo, se impondrá al responsable u
 
 #### SECCION TERCERA.- CALUMNIA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
-
 ###### Artículo 318.
 
 Las lesiones o el homicidio son tumultuarios cuando en su comisión intervienen tres o más personas, sin concierto previo para cometerlos y obrando debido a un impulso de momento, espontáneo y provocado por las circunstancias inmediatamente anteriores a éste.
@@ -3186,8 +3206,6 @@ III.- Cuando las lesiones sean unas mortales y otras no y se ignorare quiénes i
 IV.- Cuando las lesiones sólo fueren mortales por su número y no se pueda determinar quiénes las infirieron, se impondrán de tres a ocho años de prisión a todos los que hubieren atacado al occiso con armas a propósito para causarle esas lesiones.
 
 #### SECCION CUARTA.- DISPOSICIONES COMUNES PARA LOS CAPITULOS PRECEDENTES
-
-> <small>(REFORMADO, P.O. 23 DE MARZO DE 2007)</small>
 
 ###### Artículo 321.
 
@@ -3413,13 +3431,11 @@ Son simples los golpes y las violencias físicas que no causen lesión en el ofe
 
 ###### Artículo 357.
 
-La difamación consiste en comunicar a una o más personas, la imputación que se hace a otra, física o jurídica, de un hecho falso, que cause deshonra, descrédito, perjuicio o lo exponga al desprestigio de alguien.
-
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+(DEROGADO, P.O. 23 DE FEBRERO DE 2011)
 
 ###### Artículo 358.
 
-El delito de difamación se sancionará con prisión de seis meses a cuatro años y multa de diez a cien días de salario.
+(DEROGADO, P.O. 23 DE FEBRERO DE 2011)
 
 ###### Artículo 359.
 
@@ -3427,81 +3443,59 @@ El delito de difamación se sancionará con prisión de seis meses a cuatro año
 
 ###### Artículo 360.
 
-No se aplicará sanción alguna como reo de difamación:
-
-I.- Al que manifieste técnicamente su parecer sobre alguna producción literaria, artística, científica o industrial;
-
-II.- Al que manifieste su juicio sobre la capacidad, instrucción, aptitud o conducta de otro, si probare que obró en cumplimiento de un deber o por interés público o que, con la debida reserva, lo hizo por humanidad, por prestar un servicio a persona con quien tenga parentesco o amistad, o dando informes que se le hubiesen pedido, si no lo hiciere, a sabiendas, calumniosamente;
-
-III.- Al autor de un escrito o de un alegato, presentado en los tribunales, que contenga alguna expresión difamatoria. El autor de estas expresiones será sancionado disciplinariamente por el Juez que conozca del asunto en el que se presentó ese escrito o se formuló el alegato.
+(DEROGADO, P.O. 23 DE FEBRERO DE 2011)
 
 ###### Artículo 361.
 
-Lo prevenido en la fracción última del artículo anterior, no comprende el caso en que la imputación sea calumniosa o se extienda a personas extrañas al litigio, o contenga hechos que no se relacionan con el negocio de que se trata. Si así fuere, se aplicarán las sanciones de la difamación o de la calumnia.
+(DEROGADO, P.O. 23 DE FEBRERO DE 2011)
 
 #### SECCION TERCERA.- DELITOS COMETIDOS EN LA ADMINISTRACION DE JUSTICIA Y EN OTROS RAMOS DEL PODER PUBLICO
 
 ###### Artículo 362.
 
-Se impondrá prisión de seis meses a cuatro años y multa de diez a cien días de salario:
-
-I.- Al que impute a otro un hecho determinado y calificado como delito por la ley, si este hecho es falso, o es inocente la persona a quien se imputa;
-
-II.- Al que presente denuncias, quejas o acusaciones calumniosas, entendiéndose por tales, aquéllas en que su autor imputa un delito a persona determinada, sabiendo que ésta es inocente, o que aquél no se ha cometido; y,
-
-III.- Al que para hacer que un inocente aparezca como reo de un delito, ponga sobre la persona del calumniado, en su casa o en otro lugar adecuado para ese fin, una cosa que pueda dar indicios o presunción de responsabilidad.
+(DEROGADO, P.O. 23 DE FEBRERO DE 2011)
 
 ###### Artículo 363.
 
-En los casos de las dos últimas fracciones del artículo anterior, si el calumniado es condenado por sentencia irrevocable, se impondrá al calumniador la misma sanción que a aquél.
+(DEROGADO, P.O. 23 DE FEBRERO DE 2011)
 
 ###### Artículo 364.
 
-No se admitirá prueba alguna de su imputación al acusado de calumnia, ni se librará de la sanción correspondiente, cuando exista una sentencia irrevocable que haya absuelto al calumniado del mismo delito que aquél le impute.
+(DEROGADO, P.O. 23 DE FEBRERO DE 2011)
 
 ###### Artículo 365.
 
-Cuando haya pendiente un juicio en averiguación de un delito imputado a alguien y se haya acusado de calumnia al denunciante o querellante, se suspenderá el ejercicio de la acción de calumnia, hasta que dicho juicio termine. En este caso la prescripción comenzará a correr cuando termine el juicio.
+(DEROGADO, P.O. 23 DE FEBRERO DE 2011)
 
 #### SECCION CUARTA.- COHECHO
 
 ###### Artículo 366.
 
-No servirá de excusa de la calumnia que el hecho imputado sea notorio, o que el reo sólo haya reproducido lo ya publicado en cualquier parte.
+(DEROGADO, P.O. 23 DE FEBRERO DE 2011)
 
 ###### Artículo 367.
 
-El difamado a quien se impute un delito determinado que no se pueda perseguir de oficio, podrá quejarse de difamación o de calumnia, según le conviniere.
-
-Cuando el delito sea de los que se persiguen de oficio, solamente podrá querellarse por calumnia.
-
-Cuando la queja fuere de calumnia, se permitirán al reo pruebas de su imputación, y si ésta quedare probada, se librará aquél de toda sanción, excepto en el caso del artículo 364.
-
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+(DEROGADO, P.O. 23 DE FEBRERO DE 2011)
 
 ###### Artículo 368.
 
-No se podrá proceder contra el autor de una difamación o calumnia, sino por queja de la persona ofendida; pero si ésta ya falleció y la difamación o calumnia fueren posteriores a su defunción, sólo se podrá proceder en virtud de queja del cónyuge, de la concubina o concubinario, de los ascendientes, descendientes, hermanas o hermanos.
+(DEROGADO, P.O. 23 DE FEBRERO DE 2011)
 
 ###### Artículo 369.
 
-Cuando la difamación o la calumnia, sean anteriores al fallecimiento del ofendido, no se atenderá la queja de las personas enumeradas en el artículo anterior, si aquél hubiere perdonado la ofensa a sabiendas de que se le había inferido; no hubiere presentado en vida su queja pudiendo hacerlo, ni prevenido que lo hicieren sus herederos.
+(DEROGADO, P.O. 23 DE FEBRERO DE 2011)
 
 ###### Artículo 370.
 
-En casos de difamación o calumnia contra el Congreso, el Tribunal Superior de Justicia o cualquiera otro Cuerpo Colegiado o Institución oficial, se obrará conforme a las reglas de este Capítulo, sin perjuicio de lo dispuesto en el artículo 207.
+(DEROGADO, P.O. 23 DE FEBRERO DE 2011)
 
 ###### Artículo 371.
 
-Los escritos, estampas, pinturas o cualquiera otra cosa que hubiere servido de medio para la difamación o calumnia, se recogerán e inutilizarán, a menos de que se trate de algún documento público o de uno privado que importe obligación, liberación o trasmisión de derechos y, en este caso, se hará en el documento una anotación sumaria de la sentencia pronunciada contra el acusado.
+(DEROGADO, P.O. 23 DE FEBRERO DE 2011)
 
 ###### Artículo 372.
 
-En el caso de difamación o calumnia, se aplicarán las siguientes disposiciones:
-
-I.- Si lo solicita la persona ofendida y la sentencia es condenatoria se publicará aquélla hasta en dos periódicos a costa del sentenciado;
-
-II.- Si la infracción se comete por medio de algún periódico, se aplicará lo dispuesto en la ley de imprenta y demás leyes aplicables.
+(DEROGADO, P.O. 23 DE FEBRERO DE 2011)
 
 CAPITULO DECIMOCTAVO.- DELITOS CONTRA LAS PERSONAS EN SU PATRIMONIO
 
@@ -4726,3 +4720,17 @@ P.O. 9 DE FEBRERO DE 2011.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 23 DE FEBRERO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+El Congreso del Estado, dentro del plazo de ciento ochenta días a partir de la publicación de este Decreto, expedirá en su caso, las adecuaciones a la legislación correspondiente.
