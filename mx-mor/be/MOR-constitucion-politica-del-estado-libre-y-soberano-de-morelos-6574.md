@@ -4,7 +4,7 @@ identifier: "MOR-constitucion-politica-del-estado-libre-y-soberano-de-morelos-65
 country: "mx"
 rank: "constitucion"
 publication_date: "1930-11-16"
-last_updated: "2011-02-16"
+last_updated: "2011-02-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,11 +20,11 @@ state: "MOR"
 ---
 # CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 23 DE FEBRERO DE 2011 NO APLICA AL ARTICULADO DEL DECRETO 990 PUBLICADO EN EL P.O. DE 16 DE FEBRERO DE 2011.</small>
-
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
 ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE FEBRERO DE 2011.
+
+N. DE E., ESTA F. DE E. NO APLICA AL ARTICULADO DEL DECRETO 990 PUBLICADO EN EL P.O. DE 16 DE FEBRERO DE 2011.
 
 Constitución publicada en el Alcance al Periódico Oficial del Estado de Morelos, el 16 de noviembre de 1930.
 
@@ -3032,7 +3032,7 @@ Esta Constitución no perderá su fuerza y vigor aun cuando por alguna rebelión
 
 ###### Artículo 151.
 
-Para el ejercicio de la facultad que el artículo 135 de la Constitución Política de los Estados Unidos Mexicanos, confiere a la legislatura local, las minutas correspondientes de reforma o adición aprobadas por el Congreso de la Unión, deberán aprobarse mediante votación nominal de las dos terceras partes de los miembros de la Cámara presentes.
+Para el ejercicio de la facultad que el artículo 135 de la Constitución Política de los Estados Unidos Mexicanos, confiere a la legislatura local, las minutas correspondientes de reforma o adición aprobadas por el Congreso de la Unión, deberán aprobarse mediante votación nominal de las dos terceras partes de los miembros de la Cámara presentes..
 
 T R A N S I T O R I O S.
 
