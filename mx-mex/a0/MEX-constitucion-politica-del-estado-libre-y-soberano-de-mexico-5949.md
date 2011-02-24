@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "2010-12-20"
+last_updated: "2011-02-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE FEBRERO DE 2011.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -148,6 +148,10 @@ V. Los sujetos obligados por la ley reglamentaria deberán cumplir con los requi
 VI. La ley reglamentaria, determinará la manera en que los sujetos obligados deberán hacer pública la información relativa a los recursos públicos que entreguen a personas físicas o morales;
 
 VII. La inobservancia de las disposiciones en materia de acceso a la información pública será sancionada en los términos que dispongan las leyes.
+
+> <small>(ADICIONADO, G.G. 24 DE FEBRERO DE 2011)</small>
+
+Todo individuo tiene derecho a una alimentación adecuada.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
 
@@ -335,13 +339,17 @@ La Legislatura del Estado establecerá un organismo autónomo para la protecció
 
 El organismo no será competente tratándose de asuntos electorales, laborales y jurisdiccionales.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 24 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 17.
 
-El Estado de México tiene una composición pluricultural y pluriétnica sustentada originalmente en sus pueblos indígenas.
+El Estado de México tiene una composición pluricultural y pluriétnica sustentada originalmente en sus pueblos indígenas. Esta Constitución reconoce como pueblos indígenas dentro del territorio mexiquense a los Mazahua, Otomí, Náhuatl, Matlazinca, Tlahuica y aquellos que se identifiquen en algún otro pueblo indígena. El Estado favorecerá la educación básica bilingüe.
+
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
 
 La ley protegerá y promoverá el desarrollo de sus culturas, lenguas, usos, costumbres, recursos y formas específicas de organización social y garantizará a sus integrantes el efectivo acceso a la jurisdicción del Estado.
+
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
 
 Las autoridades promoverán el bienestar de estos grupos mediante las acciones necesarias, convocando incluso a la sociedad, en especial en las materias de salud, educación, vivienda y empleo, así como en todas aquellas que con respeto a las expresiones y manifestaciones de su cultura, faciliten e impulsen la participación de quienes los integran en todos los ámbitos del desarrollo del Estado y en igualdad de condiciones y oportunidades que los demás habitantes.
 
@@ -1361,9 +1369,9 @@ Todas las leyes, decretos, reglamentos, circulares, acuerdos y, en general, los 
 
 El Secretario General de Gobierno y los demás titulares de las dependencias del Ejecutivo, serán responsables de todas las órdenes y providencias que autoricen con su firma, contra la Constitución y las leyes del Estado.
 
-> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADA SU DENOMINACION, G.G. 24 DE FEBRERO DE 2011)</small>
 
-#### SECCION TERCERA. Del Ministerio Público
+#### SECCION TERCERA. Del Ministerio Público y de la Seguridad Pública
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
 
@@ -1424,6 +1432,14 @@ No podrán desempeñar estos cargos quienes hayan sido destituidos en el desempe
 El Ministerio Público y las policías se coordinarán en términos de la Ley General del Sistema Nacional de Seguridad Pública, así como de la Ley local en la materia.
 
 El Ministerio Público y las policías, en el ejercicio de sus funciones, prestarán el auxilio que les soliciten los órganos del poder público y los órganos constitucionales autónomos.
+
+> <small>(ADICIONADO, G.G. 24 DE FEBRERO DE 2011)</small>
+
+###### Artículo 86 Bis.
+
+La Seguridad Pública, en la Entidad, es una función a cargo del Estado y los municipios, en sus respectivos ámbitos de competencia que comprende la prevención e investigación de los delitos y las sanciones de las infracciones administrativas, en términos de ley, y deberá regirse bajo los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos.
+
+Las Instituciones de Seguridad Pública serán de carácter civil, disciplinado y profesional. El Ministerio Público y las Instituciones Policiales, deberán de coordinarse entre si para cumplir los objetivos de la Seguridad Pública y conformarán los Sistemas Nacional y Estatal de Seguridad Pública.
 
 > <small>(REFORMADA, P.O. 27 DE FEBRERO DE 1995)</small>
 
@@ -3400,3 +3416,31 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El presente Decreto entrará en vigor a los 90 días siguientes de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
 TERCERO.- El Ejecutivo del Estado, a través de la dependencia correspondiente, elaborará políticas públicas en materia de seguridad alimentaria y nutricional.
+
+G.G. 24 DE FEBRERO DE 2011.
+
+DECRETO NO. 259, POR EL QUE SE REFORMA LA DENOMINACION DE LA SECCION TERCERA DEL MINISTERIO PUBLICO DEL CAPITULO TERCERO, DEL PODER EJECUTIVO DEL TITULO CUARTO DEL PODER PUBLICO DEL ESTADO Y SE ADICIONA EL ARTICULO 86 BIS DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+TERCERO.- Se deberán realizar las reformas necesarias para dar cumplimiento al presente Decreto, en un plazo no mayor a seis meses, contados a partir de que entre en vigor el presente Decreto.
+
+CUARTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+G.G. 24 DE FEBRERO DE 2011.
+
+DECRETO NO. 260, POR EL QUE SE ADICIONA UN PARRAFO DECIMO SEXTO AL ARTICULO 5 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 24 DE FEBRERO DE 2011.
+
+DECRETO NO. 261, POR LO QUE SE REFORMA EL PARRAFO PRIMERO DEL ARTICULO 17 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
