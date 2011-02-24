@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interior-de-la-secretaria-general-de-gobierno-59793"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-02-11"
-last_updated: "2010-10-25"
+last_updated: "2011-02-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59793&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "AGU"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA GENERAL DE GOBIERNO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE OCTUBRE DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE GOBIERNO DEL ESTADO DE AGUASCALIENTES, PUBLICADO EN LA P.O. DE 24 DE FEBRERO DE 2011. EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 11 de febrero de 2008.
 
@@ -1054,3 +1056,13 @@ La presente reforma a este reglamento entrará en vigor al día siguiente de su 
 P.O. 25 DE OCTUBRE DE 2010.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE FEBRERO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interior de la Secretaría General de Gobierno, publicado en el Periódico Oficial Número 6 Primera Sección, de fecha 11 de febrero del 2008, así como las reformas publicadas en el Periódico Oficial de fecha 6 de abril del 2009 Primera Sección y la publicada en el Periódico Oficial de fecha 25 de octubre del 2010 Segunda Sección.
