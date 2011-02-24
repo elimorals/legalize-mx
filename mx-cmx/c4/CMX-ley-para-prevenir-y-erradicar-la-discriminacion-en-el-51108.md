@@ -4,7 +4,7 @@ identifier: "CMX-ley-para-prevenir-y-erradicar-la-discriminacion-en-el-51108"
 country: "mx"
 rank: "ley"
 publication_date: "2006-07-19"
-last_updated: "2007-02-06"
+last_updated: "2011-02-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51108&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,9 @@ issue_date: "2006-07-03"
 
 LEY PARA PREVENIR Y ERRADICAR LA DISCRIMINACION EN EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 6 DE FEBRERO DE 2007.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DE LA LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACION DEL DISTRITO FEDERAL, PUBLICADA EN LA G.O. DE 24 DE FEBRERO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: ABROGADA.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el miércoles 19 de julio de 2006.
 
@@ -757,3 +759,23 @@ CUARTO.- Cuando alguna Unidad Administrativa de las establecidas por las leyes a
 QUINTO.- Los asuntos que con motivo del presente Decreto deban pasar de una dependencia a otra, permanecerán en el último trámite que hubieren alcanzado hasta que las Unidades Administrativas que los tramiten se incorporen a la Dependencia que señale el presente Decreto, a excepción de los trámites urgentes o sujetos a plazo improrrogable
 
 SEXTO.- El Titular de la Jefatura de Gobierno por conducto de la Secretaría de Finanzas, y de conformidad con la normatividad aplicable, dotará de recursos a las Secretarías de reciente creación, adecuando el presupuesto autorizado para las dependencias en el ejercicio 2007, mediante movimientos programáticos-presupuestarios compensados.
+
+G.O. 24 DE FEBRERO DE 2011.
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal y abroga la Ley para Prevenir y Erradicar la Discriminación en el Distrito Federal, publicada en la Gaceta Oficial del Distrito Federal el 19 de julio de 2006.
+
+SEGUNDO.- El Consejo Para Prevenir y Eliminar la Discriminación de la Ciudad de México entrará en funciones en el ejercicio fiscal en que la Asamblea Legislativa del Distrito Federal haya aprobado la suficiencia presupuestal para el funcionamiento de dicho Consejo.
+
+TERCERO.- El o la titular o responsable del actual Consejo para Prevenir y Erradicar la Discriminación del Distrito Federal, deberá de transferir la información y archivo con el que se cuente actualmente en términos de lo dispuesto en la Ley Federal de Responsabilidades de los Servidores Públicos, en un plazo no mayor de 90 días naturales a partir de la entrada en vigor de la presente Ley.
+
+CUARTO.- La designación del Presidente del Consejo deberá realizarse dentro de los 30 días siguientes a la entrada en vigor del presente decreto.
+
+QUINTO.- La designación de la Junta de Gobierno deberá realizarse dentro de los 90 días siguientes a la publicación de la Ley. En tanto se instala la Asamblea Consultiva, la Junta de Gobierno dará inicio a sus funciones con la presencia de los representantes del Poder Ejecutivo del Distrito Federal, de Presidencia del Consejo y de cinco integrantes designados por única vez por la Presidencia del Consejo, quienes durarán en dicho cargo seis meses, pudiendo ser ratificados por la Asamblea Consultiva, una vez instalada, en cuyo caso sólo ejercerán el cargo hasta completar los tres años desde su primera designación.
+
+SEXTO.- La Presidencia del Consejo someterá a la aprobación de la Junta de Gobierno el proyecto del Estatuto Orgánico dentro de los 120 días siguientes a su nombramiento.
+
+SÉPTIMO.- Para efectos de la presente Ley, se entenderá por personas servidoras públicas, a los servidores públicos a que hace referencia el artículo 108 de la Constitución Política de los Estados Unidos Mexicanos y la Ley Federal de Responsabilidades de los Servidores Públicos.
+
+La Asamblea Legislativa del Distrito Federal deberá, en el término de un año, contado a partir de la entrada en vigor de la presente Ley, para armonizar las Leyes del Distrito Federal, a fin de que cuando haya referencia a servidores públicos, este término sea cambiado por el de personas servidoras públicas, ello como una acción afirmativa en el tema de equidad de género.
+
+OCTAVO.- Publíquese en la Gaceta oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación, siempre y cuando la Asamblea Legislativa del Distrito Federal asigne los recursos suficientes para el funcionamiento de esta Ley.
