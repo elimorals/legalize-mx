@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-los-municipios-del-estado-de-quintana-roo-42182"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-20"
-last_updated: "2010-12-22"
+last_updated: "2011-02-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42182&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE FEBRERO DE 2011.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 20 de diciembre de 2004.
 
@@ -1159,9 +1159,9 @@ Se considerará trascendente para el desarrollo normal de las atribuciones del A
 
 Cuando la Legislatura decrete la suspensión de uno o varios de los miembros propietarios del Ayuntamiento, al efecto de cubrir las vacantes temporales que así se generen, se procederá conforme a lo siguiente:
 
-I.- Si la suspensión recae en uno o varios en un numero inferior a la mayoría de sus miembros propietarios, se le notificará al Ayuntamiento para que mande llamar al o a los suplentes respectivos;
+I. Si la suspensión recae en uno o varios en un numero inferior a la mayoría de sus miembros propietarios, se le notificará al Ayuntamiento para que mande llamar al o a los suplentes respectivos;
 
-II.- Si la suspensión recae en la mayoría de los miembros propietarios del Ayuntamiento, la Legislatura mandará llamar a los suplentes electos en el proceso electoral que les dio origen.
+II. Si la suspensión recae en la mayoría de los miembros propietarios del Ayuntamiento, la Legislatura mandará llamar a los suplentes electos en el proceso electoral que les dio origen.
 
 Si con los miembros propietarios del Ayuntamiento que subsigan y los suplentes electos originalmente que asuman el cargo, no se reúne la mayoría necesaria para que pueda funcionar el Ayuntamiento, la Legislatura designará un Concejo Municipal Provisional que funcionará entre tanto quede en firme la resolución que recaiga en el procedimiento que dio origen a la suspensión.
 
@@ -2697,7 +2697,7 @@ P.O. 15 DE MARZO DE 2010.
 
 El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
-> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2011)</small>
 
 ###### ARTÍCULO SEGUNDO.
 
@@ -2728,3 +2728,7 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- El primer informe sobre el estado que guarda la Administración Pública Municipal que deberán rendir los Presidentes Municipales de los H. Ayuntamientos del Estado, tendrán lugar entre el 11 y el 20 de septiembre del año 2012.
 
 TERCERO.- Se derogan todas aquellas disposiciones que se contrapongan al presente Decreto.
+
+P.O. 24 DE FEBRERO DE 2011.
+
+ÚNICO.- El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
