@@ -4,7 +4,7 @@ identifier: "ROO-ley-del-organo-de-fiscalizacion-superior-del-estado-de-36856"
 country: "mx"
 rank: "ley"
 publication_date: "2003-12-16"
-last_updated: "2010-12-22"
+last_updated: "2011-02-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=36856&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ROO"
 ---
 # LEY DEL ORGANO DE FISCALIZACION SUPERIOR DEL ESTADO DE QUINTANA ROO -ANTES LEY DEL ORGANO SUPERIOR DE FISCALIZACION DEL ESTADO DE QUINTANA ROO-
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO TERCERO DE LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE QUINTANA ROO, PUBLICADA EN EL P.O. DE 19 DE JULIO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DEL ORGANO DE FISCALIZACION SUPERIOR DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE FEBRERO DE 2011.
 
 Ley Publicada en el Extraordinario del Periódico Oficial del Estado de Quintana Roo, el miércoles 16 de diciembre de 2003.
 
@@ -727,11 +729,13 @@ El Auditor Superior del Estado durará en el encargo siete años. Podrá ser rem
 
 El Auditor Superior del Estado será suplido en sus ausencias temporales por los auditores especiales en el orden que señale el Reglamento Interior de la Auditoría Superior del Estado. En caso de ausencia o falta definitiva, entrará en funciones el Auditor Superior suplente, que concluirá el encargo. Durante el receso de la Legislatura, la Diputación Permanente designará al Titular con el carácter de interino, en caso de ausencia o falta definitiva del Auditor Superior suplente.
 
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 66.
 
-Para ser Auditor Superior del Estado se requiere satisfacer, los requisitos siguientes:
+Para ser Auditor Superior del Estado Titular o Suplente se requiere satisfacer, los requisitos siguientes:
 
-I. Ser ciudadano quintanarroense, en ejercicios de sus derechos políticos y civiles;
+l. Ser ciudadano quintanarroense, en ejercicios de sus derechos políticos y civiles;
 
 II. No tener menos de 35 años de edad el día de la designación;
 
@@ -739,23 +743,13 @@ III. Gozar de buena reputación, y no haber sido condenado por delito que amerit
 
 IV. No pertenecer al Estado Eclesiástico ni ser ministro de algún culto religioso, a menos que se haya separado cinco años anteriores a la fecha de su designación;
 
-V. Haber residido en el estado los diez años anteriores al día de la designación;
+V. Haber residido en el Estado los diez años anteriores al día de la designación;
 
-> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2010)</small>
-
-VI. No haber sido en los dos años anteriores a la designación, Secretario de Despacho del Ejecutivo del Estado o su equivalente; Procurador General de Justicia del Estado; Director General o su equivalente en las entidades de la Administración Pública Estatal; titular de los entes públicos estatales; Presidente, Síndico o Tesorero Municipal, ni dirigente de algún partido político, ni haber sido postulado para cargo de elección popular;
-
-> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2010)</small>
+VI. No haber sido en los dos años anteriores a la designación, Secretario de Despacho del Ejecutivo del Estado o su equivalente; Procurador General de Justicia del Estado; Director General o su equivalente en las entidades de la Administración Pública Estatal; titular de los entes públicos estatales; Presidente, Síndico o Tesorero Municipal, ni dirigente de algún partido político, ni haber sido postulado para cargo de elección popular. Esta disposición no será aplicable a quien se designe con el carácter de suplente;
 
 VII. Contar al momento de su designación con una experiencia mínima de cinco años en materia de control, auditoría financiera y de responsabilidades; y
 
-> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2010)</small>
-
-VIII. Contar el día de su designación, con antigüedad mínima de diez años, con título y cédula profesionales de Licenciado en Contaduría o Contador Público, Derecho, Administración, Economía o Finanzas, o sus equivalentes, expedidos por autoridad o institución legalmente facultada para ello.
-
-> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2010)</small>
-
-Los mismos requisitos deberá satisfacer el Auditor Superior suplente.
+VIII. Contar el día de su designación, con antigüedad mínima de diez años, con título y cédula profesional de Licenciado en Contaduría o Contador Público, Derecho, Administración, Economía o Finanzas, o sus equivalentes, expedidos por autoridad o institución legalmente facultada para ello.
 
 ###### Artículo 67.
 
@@ -1168,3 +1162,7 @@ P.O. 22 DE DICIEMBRE DE 2010.
 ## TRANSITORIO
 
 ÚNICO.- Públíquese el presente Decreto en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 24 DE FEBRERO DE 2011.
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
