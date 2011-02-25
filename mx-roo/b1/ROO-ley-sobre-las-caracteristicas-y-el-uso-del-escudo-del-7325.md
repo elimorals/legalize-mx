@@ -4,7 +4,7 @@ identifier: "ROO-ley-sobre-las-caracteristicas-y-el-uso-del-escudo-del-7325"
 country: "mx"
 rank: "ley"
 publication_date: "1978-03-31"
-last_updated: "2008-07-02"
+last_updated: "2011-02-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7325&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY SOBRE LAS CARACTERISTICAS Y EL USO DEL ESCUDO DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE JULIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE FEBRERO DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el 31 de marzo de 1978.
 
@@ -57,11 +57,11 @@ El Gobierno del Estado y las autoridades Estatales y Municipales harán la debid
 
 En todas las Escuelas e Instituciones de Educación Públicas y privadas se colocará en sitio preferente el Escudo del Estado, a fin de que la juventud Quintanarroense conozca su simbología y aprenda a guardarle el respeto debido.
 
-> <small>(REFORMADO, P.O. 2 DE JULIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2011)</small>
 
 ###### ARTICULO 6°.
 
-El Escudo del Estado de Quintana Roo, se compone con las características siguientes: escudo moderno, semirredondo, medio partido y cortado de gules y azur sobre oro, con figura cimera de sol naciente con nueve haces de rayos en gules y oro. En el cuartel diestro superior caracol estilizado de oro. En el cuartel siniestro superior estrella de cinco puntas en plata. En punta tres triángulos estables sobre Glifo Maya del viento “IK” en Sinople. Bordea el emblema cuarteles y cantones en franja simple.
+El escudo del Estado de Quintana Roo, se compone con las características siguientes: escudo moderno, semirredondo, medio partido y cortado de gules y azur sobre oro, con figura cimera de sol naciente con diez haces de rayos en gules y oro. En el cuartel diestro superior caracol estilizado de oro. En el cuartel siniestro superior estrella de cinco puntas en plata. En punta tres triángulos estables sobre Glifo Maya del viento “IK” en Sinople. Bordea el emblema cuarteles y cantones en franja simple.
 
 ### CAPITULO II. Del Uso del Escudo
 
@@ -150,3 +150,9 @@ P.O. 2 DE JULIO DE 2008.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO.- Los escudos que se exhiban en los edificios públicos, escuelas o en otras instituciones, deberán ajustarse a la reforma del Artículo 6° de la Ley Sobre las Características y el Uso del Escudo del Estado de Quintana Roo, establecida en el presente decreto. Se exceptúan los escudos esculpidos en edificios o centros históricos que se encuentren ubicados en el Estado de Quintana Roo, que constituyan por su valor cultural o trascendencia social, parte indisoluble de la peculiaridad del pueblo quintanarroense.
+
+P.O. 24 DE FEBRERO DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- Los escudos que se exhiban en los edificios públicos, escuelas o en otras instituciones, deberán ajustarse a la reforma del Artículo 6 de la Ley Sobre las Características y el Uso del Escudo del Estado de Quintana Roo establecida en el presente Decreto. Se exceptúan los escudos esculpidos en edificios o centros históricos que se encuentren ubicados en el Estado de Quintana Roo, que constituyan por su valor cultural o trascendencia social, parte indisoluble de la peculiaridad del pueblo .quintanarroense.
