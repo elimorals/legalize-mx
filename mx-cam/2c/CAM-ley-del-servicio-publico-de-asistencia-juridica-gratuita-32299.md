@@ -4,7 +4,7 @@ identifier: "CAM-ley-del-servicio-publico-de-asistencia-juridica-gratuita-32299"
 country: "mx"
 rank: "ley"
 publication_date: "2003-07-03"
-last_updated: "2003-07-03"
+last_updated: "2011-02-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32299&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CAM"
 ---
 # LEY DEL SERVICIO PUBLICO DE ASISTENCIA JURIDICA GRATUITA PARA EL ESTADO DE CAMPECHE
 
-LEY DEL SERVICIO PUBLICO DE ASISTENCIA JURIDICA GRATUITA PARA EL ESTADO DE CAMPECHE
+LEY DEL SERVICIO PÚBLICO DE ASISTENCIA JURÍDICA GRATUITA PARA EL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL PRIMERO Y SEGUNDO TRANSITORIO DE LA LEY QUE ESTABLECE EL INSTITUTO DE ACCESO A LA JUSTICIA DEL ESTADO DE CAMPECHE, PUBLICADA EN EL P.O. DE 25 DE FEBRERO DE 2011, EL PRESENTE ORDENAMIENTO QUEDARA ABROGADO A LOS SEIS MESES DESPUÉS DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE FEBRERO DE 2011. (ABROGADA)
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Campeche, el jueves 3 de julio de 2003.
 
@@ -594,3 +596,19 @@ En cumplimiento de lo dispuesto por los artículos 48, 49 y 71 fracción XVIII d
 Dado en el Palacio de Gobierno del Estado en Campeche, el día veintisiete del mes de Junio del año dos mil tres.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, L.A. JOSE ANTONIO GONZALEZ CURI.- EL SECRETARIO DE GOBIERNO, LIC. CARLOS FELIPE ORTEGA RUBIO.- RUBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 25 DE FEBRERO DE 2011.
+
+Primero.- El presente decreto entrará en vigor seis meses después de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se abroga la Ley del Servicio de Asistencia Jurídica Gratuita para el Estado de Campeche y se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
+
+Tercero.- Los recursos humanos y materiales adscritos a la Dirección de Asistencia Jurídica Gratuita de la Secretaría de Gobierno, así como los expedientes, libros y demás documentos que conformen los archivos de aquella, al cobrar vigencia el Reglamento a que se refiere el transitorio siguiente pasarán a formar parte del Instituto, con estricto respeto de los derechos de antigüedad que tengan los servidores públicos de esa Dirección.
+
+Cuarto.- Se faculta al Gobernador del Estado para expedir el Reglamento de la Ley a que se refiere este decreto; entretanto se expide el mencionado reglamento se continuarán aplicando, en lo que no se opongan a la nueva Ley, las disposiciones de la Ley que se abroga.
+
+Quinto.- La Junta de Gobierno del Instituto se instalará en la fecha, hora y lugar que en su oportunidad determine el Gobernador del Estado y deberá expedir el Reglamento Interior del Instituto en un lapso no mayor de sesenta días hábiles siguientes a la fecha de su instalación.
+
+Sexto.- Para los efectos de este decreto, deberán tomarse las previsiones presupuestales necesarias en la Ley de Presupuesto de Egresos del Estado.
