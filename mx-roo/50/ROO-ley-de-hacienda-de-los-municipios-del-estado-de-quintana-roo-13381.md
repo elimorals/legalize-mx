@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-hacienda-de-los-municipios-del-estado-de-quintana-roo-13
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-15"
-last_updated: "2010-12-20"
+last_updated: "2011-02-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13381&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO
 
 > <small>N. DE E. DE ACUERDO A LO DISPUESTO EN LOS ARTICULOS PRIMERO AL NOVENO TRANSITORIOS DEL DECRETO NUMERO 409, PUBLICADO EN EL P.O. 20 DE DICIEMBRE DE 2010, EN TANTO EL ESTADO Y LOS MUNICIPIOS PERMANEZCAN ADHERIDOS AL SISTEMA NACIONAL DE COORDINACION FISCAL, SUSCRITO MEDIANTE CONVENIO Y ANEXOS RESPECTIVOS CON LA SECRETARIA DE HACIENDA Y CREDITO PUBLICO, QUEDAN EN SUSPENSO LOS IMPUESTOS Y DERECHOS QUE SE MENCIONAN EN DICHOS TRANSITORIOS.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE FEBRERO DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 15 de diciembre de 1997.
 
@@ -67,7 +67,9 @@ La recaudación y administración de los impuestos, derechos, productos y aprove
 
 ARTÍCULO 4° BIS.- Para efecto de mejor comprensión, cuando en esta Ley se mencione a:
 
-ZONA "A".- Se referirá a los municipios de José María Morelos, Felipe Carrillo Puerto y Lázaro Cárdenas.
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2011)</small>
+
+ZONA "A".- Se referirá a los Municipios de José María Morelos, Felipe Carrillo Puerto, Lázaro Cárdenas y Bacalar.
 
 > <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
 
@@ -2373,7 +2375,9 @@ El pago de los derechos por licencias de funcionamiento en los casos de apertura
 
 TARIFA "A"
 
-Para los Municipios de Othón P. Blanco, Felipe Carrillo Puerto, Lázaro Cárdenas y José María Morelos:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE FEBRERO DE 2011)</small>
+
+Para los Municipios de Othón P. Blanco, Felipe Carrillo Puerto, Lázaro Cárdenas, José María Morelos y Bacalar:
 
 I.- Agencias aduanales de 1.6 S.M.G. a 7.0 S.M.G.
 
@@ -4946,3 +4950,9 @@ ARTÍCULO TRANSITORIO:
 P.O. 20 DE DICIEMBRE DE 2010.
 
 UNICO.- Publíquese el presente Decreto en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 25 DE FEBRERO DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- Los escudos que se exhiban en los edificios públicos, escuelas o en otras instituciones, deberán ajustarse a la reforma del Artículo 6 de la Ley Sobre las Características y el Uso del Escudo del Estado de Quintana Roo establecida en el presente Decreto. Se, exceptúan los escudos esculpidos en edificios o centros históricos que se encuentren ubicados en el Estado de Quintana Roo, que constituyan por su valor cultural o trascendencia social, parte indisoluble de la peculiaridad del pueblo quintanarroense.
