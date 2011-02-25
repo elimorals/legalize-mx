@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-del-poder-judicial-del-estado-de-quintana-roo-1387
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-02-15"
-last_updated: "2011-02-10"
+last_updated: "2011-02-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13871&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "ROO"
 ---
 # LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE QUINTANA ROO
 
-LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE QUINTANA ROO
+LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE FEBRERO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE FEBRERO DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 15 de febrero de 1999.
 
@@ -1011,13 +1011,17 @@ La jurisdicción territorial del Poder Judicial se divide, para su ejercicio en 
 
 Los Distritos Judiciales serán los siguientes:
 
-I.- Distrito Judicial de Chetumal, con cabecera en la ciudad del mismo nombre. Comprende la circunscripción territorial del Municipio de Othón P. Blanco;
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2011)</small>
+
+l. Distrito Judicial de Chetumal, con cabecera en la Ciudad del mismo nombre, Comprende la circunscripción territorial de los Municipios de Othón P. Blanco y Bacalar;
 
 II.- Distrito Judicial de Felipe Carrillo Puerto, con cabecera en la ciudad del mismo nombre. Comprende la circunscripción territorial del Municipio de Felipe Carrillo Puerto;
 
 III.- Distrito Judicial de José María Morelos, con cabecera en la ciudad del mismo nombre. Comprende la circunscripción territorial del Municipio de José María Morelos;
 
-IV.- Distrito Judicial de Solidaridad, con cabecera en la ciudad de Playa del Carmen. Comprende la circunscripción territorial del Municipio Solidaridad y los polígonos descritos en la fracción IV, párrafo segundo y tercero, del artículo 130 de la Constitución Política del Estado, predios conocidos como "Calica" y "Parque Ecológico de Xel-Ha";
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2011)</small>
+
+IV.- Distrito Judicial de Solidaridad, con cabecera en la Ciudad de Playa del Carmen. Comprende la circunscripción territorial de los Municipios de Solidaridad y Tulum, así como los polígonos descritos en la fracción IV del Artículo 128 de la Constitución Política del Estado, predios conocidos como “Calica” y “Parque Ecológico de Xel-Ha” pertenecientes al Municipio de Cozumel;
 
 V.- Distrito Judicial de Cozumel, con cabecera en la ciudad del mismo nombre. Comprende la Isla de Cozumel;
 
@@ -1621,7 +1625,7 @@ El Consejo de la Judicatura, por conducto de su Presidente, podrá ordenar a los
 
 > <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
 
-### CAPÍTULO VI. DEL INGRESO, FORMACIÓN Y PERMANENCIA DE LOS SERVIDORES PÚBLICOS DEL PODER JUDICIAL DEL ESTADO
+### CAPÍTULO VI. DEL INGRESO, DE LA FORMACIÓN Y PERMANENCIA DE LOS SERVIDORES PÚBLICOS DEL PODER JUDICIAL DEL ESTADO
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 16 DE DICIEMBRE DE 2003)</small>
 
@@ -2070,3 +2074,9 @@ P.O. 10 DE FEBRERO DE 2011.
 T R A N S I T O R I O:
 
 ÚNICO.- Publíquese el presente Decreto en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 25 DE FEBRERO DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- Los escudos que se exhiban en los edificios públicos, escuelas o en otras instituciones, deberán ajustarse a la reforma del Artículo 6 de la Ley Sobre las Características y el Uso del Escudo del Estado de Quintana Roo establecida en el presente Decreto. Se, exceptúan los escudos esculpidos en edificios o centros históricos que se encuentren ubicados en el Estado de Quintana Roo, que constituyan por su valor cultural o trascendencia social, parte indisoluble de la peculiaridad del pueblo quintanarroense.
