@@ -4,7 +4,7 @@ identifier: "QUE-codigo-de-procedimientos-penales-para-el-estado-de-queretaro-75
 country: "mx"
 rank: "codigo"
 publication_date: "1989-07-06"
-last_updated: "2011-01-21"
+last_updated: "2011-02-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7547&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE ENERO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE FEBRERO DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 6 de julio de 1989.
 
@@ -527,6 +527,10 @@ V.- La condena o absolución que proceda, y
 
 VI.- En los casos en que así sea procedente, el monto de los daños ocasionados, así como los demás puntos resolutivos correspondientes, siendo materia del incidente respectivo la cuantificación de los perjuicios causados con la conducta ilícita.
 
+> <small>(ADICIONADA, P.O. 25 DE FEBRERO DE 2011)</small>
+
+VII. La declaración de prescripción de los antecedentes penales, tratándose de delitos no graves, en el plazo que corresponda y en los términos previstos por el artículo 124 BIS del Código Penal para el Estado de Querétaro.
+
 ARTICULO 62 (Plazos para pronunciar resoluciones).- Los autos deberán dictarse dentro de los tres días, contados desde aquél en que se haga la promoción, salvo lo que la ley disponga para casos especiales; y las sentencias dentro de veinte días siguientes a la citación para sentencia.
 
 ARTICULO 63 (Firma de las resoluciones).- Las resoluciones judiciales se dictarán por el Juzgador respectivo, y serán firmadas por él y por el secretario que corresponda, o, a falta de éste, por testigos de asistencia.
@@ -875,9 +879,9 @@ XXII.- Delitos contra la seguridad y el orden en el desarrollo urbano, en los ca
 
 XXIII.- Delitos de peligro contra la salud pública, en los casos previstos por los artículos 221 BIS-A fracciones I, III, V y VI en los casos de servidores públicos y 221 BIS-B.
 
-> <small>(ADICIONADO, P.O. 2 DE ABRIL DE 1999)</small>
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2011)</small>
 
-En caso de delitos no graves, de oficio o a solicitud del Ministerio Público, el Juez razonando su determinación podrá negar la libertad provisional cuando el inculpado haya sido condenado con anterioridad, por algún delito calificado como grave por la Ley o, cuando el Ministerio Público aporte elementos o el Juez los tenga para establecer que la libertad del inculpado representa, por su conducta precedente o por las circunstancias y características del delito cometido un riesgo para el ofendido o para la sociedad.
+En caso de delitos no graves, a solicitud del Ministerio Público, el Juez, razonando su determinación podrá negar la libertad provisional cuando el inculpado haya sido condenado con anterioridad, por algún delito calificado como grave por la Ley o cuando el Ministerio Público aporte elementos o el juez los tenga para establecer que la libertad del inculpado representa, por su conducta precedente o por las circunstancias y características del delito cometido, un riesgo para el ofendido o para la sociedad.
 
 ARTICULO 122 (Otorgamiento de la libertad caucional).- Cuando se solicite la libertad caucional, inmediatamente el Juzgador deberá resolver de plano lo conducente.
 
@@ -937,7 +941,11 @@ III.- Cuando amenazare o tratare de cohechar o sobornar a alguna de las personas
 
 IV.- Cuando lo solicite el mismo imputado y se presente al Juzgador;
 
-V.- Cuando aparezca con posteridad que le corresponde al imputado una pena que no permita otorgar la libertad;
+(NOTA: EL 31 DE ENERO DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 9/2011, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN V DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 1° DE FEBRERO DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/). [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: "...V.- Cuando aparezca con posteridad que le corresponde al imputado una pena que no permita otorgar la libertad;"].
+
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2011)</small>
+
+V. CUANDO CON POSTERIDAD, EL DELITO POR EL QUE SE ENCUENTRA PROCESADO, SEA CONSIDERADO GRAVE.
 
 VI.- Cuando en el proceso cause ejecutoria la sentencia condenatoria dictada en primera o segunda instancia; y
 
@@ -1027,7 +1035,11 @@ VI.- Cause ejecutoria la sentencia que lo condene.
 
 ### CAPITULO VI. ARRAIGO
 
-ARTICULO 142 (Arraigo del indiciado).- Cuando con motivo de las diligencias de preparación del ejercicio de la acción penal el Ministerio Público estime necesario el arraigo del indiciado, tomando en cuenta las características del hecho imputado y las circunstancias personales de aquél, solicitará al Juzgador el arraigo del indiciado. Si el Juzgador considera que existen motivos suficientes para temer que el imputado se pueda sustraer a la acción de la justicia, decretará el arraigo con vigilancia del Ministerio Público. El arraigo se prolongará por el tiempo estrictamente indispensable para la debida integración de la averiguación de que se trate, no pudiendo exceder de treinta días, prorrogables por igual término a petición del Ministerio Público. El Juzgador resolverá, escuchando al Ministerio Público y al arraigado, sobre la subsistencia o el levantamiento del arraigo.
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2011)</small>
+
+###### ARTICULO 142.
+
+(Arraigo del indiciado) Cuando con motivo de las diligencias de preparación del ejercicio de la acción penal, el Ministerio Público estime necesario el arraigo del indiciado, tomando en cuenta las características del hecho imputado y las circunstancias personales de aquél, solicitará al juzgador el arraigo del indiciado. Si el juzgador considera que existen motivos suficientes para temer que el imputado se pueda sustraer a la acción de la justicia, tratándose de delitos graves, decretará el arraigo con vigilancia del Ministerio Público. El arraigo se prolongará por el tiempo estrictamente indispensable para la debida integración de la averiguación de que se trate, no pudiendo exceder de cuarenta días improrrogables. El Juzgador resolverá, escuchando al Ministerio Público y al arraigado, sobre la subsistencia o el levantamiento del arraigo.
 
 ARTICULO 143 (Arraigo del procesado).- Cuando el procesado no deba ser internado en prisión preventiva y existan motivos suficientes para temer que se sustraiga a la acción de la justicia, el Ministerio Público podrá solicitar al juez, o éste disponer de oficio, el arraigo del procesado con las características y por el tiempo que el Juzgador señale, sin que en ningún caso pueda exceder del máximo establecido por el artículo 20, fracción VIII de la Constitución. El Juzgador resolverá escuchando al Ministerio Público y al arraigado, sobre la substancia o el levantamiento del arraigo.
 
@@ -1048,6 +1060,40 @@ El embargo también se levantará si se decreta la libertad del imputado por fal
 > <small>(F. DE E., P.O. 24 DE AGOSTO DE 1989)</small>
 
 ARTICULO 146 (Restitución de derechos del ofendido).- El ofendido o sus legítimos representantes, podrán solicitar al Ministerio Público, durante las diligencias de preparación del ejercicio de la acción penal, o al Juzgador, en el procedimiento seguido ante él, cuando esté comprobado el cuerpo del delito, que dicte las providencias necesarias para asegurar sus derechos o restituirlo en el goce de los mismos, siempre que estén legalmente justificados y se otorgue, en su caso, caución bastante para garantizar el pago de los daños y perjuicios que pudieran ocasionarse a terceros o al imputado.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 25 DE FEBRERO DE 2011)</small>
+
+### CAPITULO IX. ATENCION INTEGRAL A MUJERES EN CASO DE PRACTICA DE ABORTO
+
+> <small>(ADICIONADO, P.O. 25 DE FEBRERO DE 2011)</small>
+
+ARTICULO 146 A.- (Procedencia de la atención integral a mujeres en caso de práctica de aborto) Inmediatamente que el Ministerio Público tenga conocimiento, por cualquier medio, de la probable existencia del delito de aborto, notificará a la mujer a quien se acuse de haberse practicado un aborto o haber consentido que otro la hiciera abortar, la necesidad que tiene de acudir a cualquiera de las instituciones públicas, sociales o privadas de su elección, a efecto de recibir atención integral.
+
+El Estado garantizará la secrecía de los resultados, análisis y dictámenes de la atención integral, salvo que la imputada pida su utilización dentro de la investigación o del proceso.
+
+La notificación referida en el primer párrafo, se hará mediante oficio que contendrá, por lo menos:
+
+I. El señalamiento de la necesidad de acudir, en un plazo no mayor a 48 horas, a la institución pública, social o privada, que se encuentre debidamente autorizada por la Secretaría de Salud del Estado de Querétaro, para recibir atención integral en los términos previstos en este Capítulo; y
+
+II. Un listado con los nombres y domicilios de las instituciones públicas, sociales y privadas más cercanas a su domicilio, que se encuentren debidamente autorizadas por la Secretaría de Salud del Estado de Querétaro, para brindar atención integral a mujeres en caso de práctica de aborto.
+
+> <small>(ADICIONADO, P.O. 25 DE FEBRERO DE 2011)</small>
+
+ARTICULO 146 B.- (De la atención integral a mujeres en caso de práctica de aborto) La Secretaría de Salud informará a la Dirección de Averiguaciones Previas, los nombres y domicilios de las instituciones públicas, sociales y privadas que se encuentren debidamente autorizadas por dicha dependencia, para brindar atención integral a mujeres en caso de práctica de aborto.
+
+> <small>(ADICIONADO, P.O. 25 DE FEBRERO DE 2011)</small>
+
+ARTICULO 146 C.- (Elementos de la atención integral) La atención integral a mujeres en caso de práctica de aborto, consistirá en un conjunto de servicios de salud que se proporcionarán con el fin de procurar restaurar, al grado máximo posible, la salud física y mental de las mujeres que voluntariamente se han practicado un aborto o han consentido que un tercero las haga abortar, a través de tratamientos o referencias a instancias especializadas.
+
+Los servicios que se prestarán a la mujer que se presume se practicó un aborto o consintió en que se lo practicaran, consistirán en:
+
+l. La prestación de los servicios necesarios para estabilizar, reparar daños y evitar complicaciones, a través de evaluación y tratamiento de lesiones físicas;
+
+II. Atención psicológica; y
+
+III. Si la situación económica de la mujer es precaria, recibirá, en el lugar en que se encuentre, la atención de un médico especializado y, en su caso, la transportación a la clínica u hospital en que se le atenderá.
+
+## TITULO QUINTO. PRUEBA
 
 ### CAPITULO I. DISPOSICIONES COMUNES
 
@@ -1074,8 +1120,6 @@ ARTICULO 152 (Medios de prueba admisibles).- Son admisibles como medios de prueb
 Durante el procedimiento ante el Órgano Jurisdiccional, los medios de prueba siempre deben ser recibidos por el Juzgador con citación de las partes.
 
 ARTICULO 153 (Obligación de exhibir documentos).- Toda persona en cuyo poder se hallen cosas o documentos que deban servir de medio de prueba, tiene la obligación de exhibirlos, cuando para ello sea requerida en forma por el Ministerio Público, durante las diligencias de preparación del ejercicio de la acción penal, o por el juzgador, con motivo del procedimiento que se siga ante él, con las salvedades que establezcan las leyes.
-
-## TITULO QUINTO. PRUEBA
 
 ### CAPITULO II. CONFESION
 
@@ -1337,13 +1381,13 @@ IV.- Que la declaración sea clara y precisa, sin dudas ni reticencias, ya sobre
 
 V.- Que el testigo no haya sido obligado ni impulsado por engaño, error o soborno. El apremio judicial no se reputará fuerza.
 
-### CAPITULO I. DISPOSICIONES COMUNES
-
-ARTICULO 216 (Objeto de las diligencias de preparación del ejercicio de la acción penal).- Las diligencias de preparación del ejercicio de la acción penal consisten en la investigación de los hechos posiblemente delictuosos de que tenga conocimiento el Ministerio Público, con el objeto de comprobar el cuerpo del delito y establecer por lo menos la probable responsabilidad del imputado como requisitos para proceder al ejercicio de la acción penal.
-
 # LIBRO SEGUNDO. DILIGENCIAS DE PREPARACION DEL EJERCICIO DE LA ACCION PENAL
 
 ## TITULO PRIMERO. INICIACION DEL PROCEDIMIENTO
+
+### CAPITULO I. DISPOSICIONES COMUNES
+
+ARTICULO 216 (Objeto de las diligencias de preparación del ejercicio de la acción penal).- Las diligencias de preparación del ejercicio de la acción penal consisten en la investigación de los hechos posiblemente delictuosos de que tenga conocimiento el Ministerio Público, con el objeto de comprobar el cuerpo del delito y establecer por lo menos la probable responsabilidad del imputado como requisitos para proceder al ejercicio de la acción penal.
 
 ### CAPITULO II. INICIACION POR DENUNCIA
 
@@ -1381,6 +1425,14 @@ ARTICULO 221 (Querella de menores).- Cuando el ofendido sea mayor de dieciséis 
 
 ARTICULO 222 (Querella por poder).- La querella formulada en representación de personas físicas o morales, se admitirá cuando el apoderado tenga poder especial o poder general con cláusula especial para formular querella, sin que sean necesarios acuerdo o calificación del Consejo de Administración o de la Asamblea de socios o accionistas, poder especial para el caso determinado, ni instrucciones concretas del mandante.
 
+## TITULO SEGUNDO. REGLAS APLICABLES A LAS
+
+DILIGENCIAS DE PREPARACION
+
+DEL EJERCICIO DE LA ACCION
+
+PENAL
+
 ### CAPITULO I. DE LAS ACTAS MINISTERIALES
 
 > <small>(REFORMADO P.O. 19 DE DICIEMBRE DE 1996)</small>
@@ -1389,9 +1441,17 @@ ARTICULO 223 (Medidas a tomar durante las diligencias de preparación del ejerci
 
 ARTICULO 224 (Acta inicial).- En el caso del artículo anterior, se procederá a levantar el acta correspondiente, que contendrá: la hora, fecha y modo en que se tenga conocimiento por la denuncia o querella; el nombre y carácter de la persona que denunció o se querelló de ellos, y su declaración, y la del indiciado, si se encontrare presente; la descripción de lo que haya sido objeto de inspección; los nombres y domicilio de los testigos que no se hayan podido examinar; el resultado de la observación de las particularidades que se hayan notado a raíz de ocurridos los hechos, en las personas que en ellos intervengan; las medidas y providencias que se hayan tomado para la investigación de los hechos, así como los demás datos y circunstancias que se estime necesario hacer constar.
 
-> <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 2000)</small>
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2011)</small>
 
-ARTICULO 224 bis (Conciliación). En las averiguaciones iniciadas por delitos perseguibles por querellas, y hasta antes de ejercitarse, en su caso, la acción penal, el Agente del Ministerio Público deberá poner a consideración del ofendido la posibilidad de llevar a cabo su conciliación con el imputado y si aquél aceptará por escrito, se dictarán las providencias necesarias para propiciar un acuerdo conciliatorio. De presentarse ambas partes para el posible acuerdo conciliatorio, se les exhortará para que procuren llegar al mismo, explicándoles sobre las consecuencias legales respecto a la averiguación en que se actúa, se les escuchará y se procederá a levantar el acta correspondiente. No será impedimento para ejercitar la acción penal el que se encuentre pendiente la conciliación.
+ARTICULO 224 BIS.- (Conciliación) En las averiguaciones previas iniciadas por delitos en los que solamente pueda procederse por querella, el Agente del Ministerio Público deberá poner a consideración del ofendido, la posibilidad de llevar a cabo una audiencia con el imputado para intentar la conciliación; en caso de que aquél acepte, se citará a dicha audiencia dentro de los quince días siguientes al de la recepción de la querella, dictándose las providencias necesarias para ello.
+
+En la audiencia mencionada en el párrafo anterior, el Ministerio Público orientará imparcial y objetivamente su intervención, a fin de avenir a las partes, haciéndoles saber las consecuencias legales respecto de la averiguación previa en que se actúa. De lograrse la conciliación, se hará constar ésta en el acta correspondiente que se levante, la que se firmará por todos los participantes, entregándoles, si así lo solicitan, copias certificadas de la misma. Acto seguido, se dictará la determinación de no ejercicio de la acción penal, la cual no será necesario notificar al ofendido.
+
+El acuerdo logrado con el ofendido, a través de la conciliación en los delitos perseguibles por querella, tendrá el carácter de cosa juzgada e impedirá que éste pretenda ejercer ulteriormente el derecho a querellarse. El ofendido, en caso de que el imputado no cumpla con el acuerdo, podrá emprender las acciones de ejecución correspondientes en materia civil.
+
+De no lograrse la conciliación o que alguna de las partes convocadas a ella no se presente, se continuará con el trámite de la averiguación iniciada.
+
+Si en la investigación que se realiza en las diligencias de preparación del ejercicio de la acción penal, además de los delitos perseguibles por querella, respecto de los cuales se logre el acuerdo de las partes en la vía conciliatoria, concurrieran otros delitos perseguibles de oficio, sólo se proseguirán las investigaciones conducentes respecto de éstos.
 
 ARTICULO 225 (Citación a los testigos).- El Ministerio Público podrá citar para que declaren sobre los hechos que se averiguan, a las personas que por cualquier concepto participen en ellos o aparezca tengan datos sobre los mismos.
 
@@ -1414,14 +1474,6 @@ En ambos casos, los peritos médicos harán la clasificación médico-legal.
 ARTICULO 229 (Lesiones externas).- Cuando se trate de lesiones externas, el Ministerio Público, deberá realizar una inspección de dichas lesiones y dos peritos médicos deberán describirlas y hacer su clasificación médico-legal.
 
 ARTICULO 230 (Forma de suplir la necropsia).- Cuando por cualquier otro motivo no pueda practicarse la necropsia, bastará que los peritos, en vista de los datos que obren en el expediente, dictaminen que la muerte fue resultado de las lesiones inferidas.
-
-## TITULO SEGUNDO. REGLAS APLICABLES A LAS
-
-DILIGENCIAS DE PREPARACION
-
-DEL EJERCICIO DE LA ACCION
-
-PENAL
 
 ### CAPITULO II. ATENCION MEDICA A LESIONADOS Y ASISTENCIA
 
@@ -1527,21 +1579,31 @@ En ambos casos se hará constar está circunstancia, así como si no puediera (s
 
 ARTICULO 245 (Uso de la fuerza).- Si la autoridad que haya de practicar el cateo encuentra el lugar cerrado y sus propietarios, poseedores o encargados se niegan a abrirlo, hará uso de la fuerza material para introducirse, así como para abrir los muebles dentro de los cuales se presuma que pueda estar la persona u objetos que se busquen.
 
+## TITULO TERCERO. CUERPO DEL DELITO Y
+
+PROBABLE RESPONSABILIDAD
+
 ### CAPITULO I. CUERPO DEL DELITO
 
 > <small>(F. DE E., P.O. 24 DE AGOSTO DE 1989)</small>
 
 ARTICULO 246 (Integración del cuerpo del delito).- Se tendrá por acreditado el cuerpo del delito, cuando se comprueben los elementos constitutivos del tipo penal del delito de que se trate, por cualquier medio probatorio que admita la ley.
 
-## TITULO TERCERO. CUERPO DEL DELITO Y
-
-PROBABLE RESPONSABILIDAD
-
 ### CAPITULO II. PROBABLE RESPONSABILIDAD
 
 ARTICULO 247 (La probable responsabilidad).- La probable responsabilidad del imputado se tendrá por demostrada, cuando de los medios probatorios existentes se demuestre la probable participación reprochable de aquel en la conducta o hecho constitutivos del cuerpo del delito comprobado.
 
 Para los efectos de este Código, la probable participación reprochable se demuestra cuando, habiéndose acreditado el cuerpo del delito, no se comprueba plenamente a favor del imputado alguna causa de las previstas en el artículo 25 del Código Penal para el Estado.
+
+## TITULO CUARTO. DETERMINACIONES CON LAS
+
+QUE CONCLUYEN LAS
+
+DILIGENCIAS DE PREPARACION
+
+DEL EJERCICIO DE LA ACCION
+
+PENAL
 
 ### CAPITULO I. EJERCICIO DE LA ACCION PENAL
 
@@ -1558,16 +1620,6 @@ ARTICULO 251 (Situación del inimputable en las diligencias de preparación del 
 ARTICULO 252 (Desahogo de pruebas fuera de la adscripción).- El Ministerio Público podrá trasladarse o encomendar el desahogo de diligencias fuera de su adscripción al funcionario de la misma categoría existente en el lugar donde deban practicarse, enviándole al efecto copia de la averiguación o un oficio con los datos o inserciones necesarias. De la misma manera, deberá desahogar, en casos análogos, las diligencias que le encomiende el Ministerio Público de otra entidad federativa.
 
 Si la denuncia o querella se presentan ante un agente del Ministerio Público diverso del lugar a aquél en el que se cometió el delito, éste practicará únicamente las diligencias necesarias y remitirá la averiguación al agente a quien corresponda continuarla.
-
-## TITULO CUARTO. DETERMINACIONES CON LAS
-
-QUE CONCLUYEN LAS
-
-DILIGENCIAS DE PREPARACION
-
-DEL EJERCICIO DE LA ACCION
-
-PENAL
 
 ### CAPITULO II. NO EJERCICIO DE LA ACCION PENAL
 
@@ -1597,13 +1649,13 @@ ARTICULO 256 (Reserva).- Cuando a juicio del agente del Ministerio Público, de 
 
 Las averiguaciones cuya reserva haya sido determinada por los agentes del Ministerio Público del conocimiento, serán turnadas a la Dirección de Averiguaciones Previas para su aprobación, quien de considerar que existe alguna diligencia por desahogar, la devolverán, ordenando la práctica de dicha diligencia.
 
-### CAPITULO I. AUTO DE RADICACION
-
-ARTICULO 257 (Radicación).- El Juzgador ante el cual se ejerza la acción penal radicará de inmediato el asunto. Sin más trámite, abrirá expediente, en el que resolverá lo que legalmente corresponda y practicará, sin demora alguna, todas las diligencias procedentes que promuevan las partes.
-
 # LIBRO TERCERO. PREPARACION DEL PROCESO
 
 ## TITULO UNICO. PREPARACION DEL PROCESO
+
+### CAPITULO I. AUTO DE RADICACION
+
+ARTICULO 257 (Radicación).- El Juzgador ante el cual se ejerza la acción penal radicará de inmediato el asunto. Sin más trámite, abrirá expediente, en el que resolverá lo que legalmente corresponda y practicará, sin demora alguna, todas las diligencias procedentes que promuevan las partes.
 
 ### CAPITULO II. ORDEN DE APREHENSION O COMPARECENCIA
 
@@ -1633,7 +1685,9 @@ ARTICULO 264 (Preguntas al inculpado).- El Juzgador, el defensor y el Agente del
 
 ### CAPITULO IV. AUTOS DE PROCESAMIENTO
 
-ARTICULO 265 (Requisitos del auto de formal prisión).- Dentro de las setenta y dos horas siguientes al momento en que el inculpado quede a disposición del juez, éste dictará el auto de formal prisión, cuando de lo actuado aparezcan acreditados los siguientes requisitos:
+###### ARTICULO 265.
+
+(Requisitos del auto de formal prisión) Dentro de las setenta y dos horas siguientes al momento en que el inculpado quede a disposición del juez, éste dictará el auto de formal prisión, cuando de lo actuado aparezcan acreditados los siguientes requisitos:
 
 I.- Que se haya tomado declaración preparatoria del inculpado, o bien que conste en el expediente que éste se rehusó a declarar o que no lo hizo por imposibilidad material insuperable.
 
@@ -1642,6 +1696,10 @@ II.- Que esté comprobado el cuerpo de un delito que tenga señalada sanción pr
 III.- Que esté demostrada la probable responsabilidad del inculpado; y
 
 IV.- Que no esté plenamente comprobada, a favor del inculpado, alguna causa que excluya al delito o que extinga la pretensión punitiva del Estado.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE FEBRERO DE 2011)</small>
+
+El plazo a que se refiere el primer párrafo de este artículo, comenzará a correr a partir de la hora de internamiento indicada en el sello del centro de reclusión y podrá duplicarse a petición del imputado o su defensor, debiendo solicitarse tal ampliación al momento de rendir su declaración preparatoria o durante las veinticuatro horas siguientes, siempre y cuando la prórroga del plazo sea para aportar pruebas tendientes a demostrar la inocencia de aquél.
 
 ARTICULO 266 (Auto de sujeción a proceso sin prisión preventiva).- Cuando el delito cuya existencia se haya comprobado no merezca pena privativa o restrictiva de libertad, o esté sancionado con pena alternativa, el juez dictará auto, con todos los requisitos del de formal prisión, sujetando a proceso a la persona contra quien aparezcan datos suficientes para hacer probable su responsabilidad, para el solo efecto de señalar el delito por el cual se ha de seguir el proceso.
 
@@ -1667,17 +1725,25 @@ PARA PROCESAR
 
 ARTICULO 272 (Auto de libertad por falta de elementos).- Si dentro del término legal no se reúnen los requisitos necesarios para dictar el auto de formal procesamiento, el juez dictará auto de libertad por falta de elementos para procesar o de no sujeción a proceso, cuando esta resolución cause ejecutoria desglosará copia del expediente al Ministerio Público para que, en su caso, por datos posteriores de prueba se proceda nuevamente en contra del inculpado.
 
+# LIBRO CUARTO. PROCESO
+
+## TITULO PRIMERO. INSTRUCCIÓN
+
 ### CAPITULO UNICO. OFRECIMIENTO DE MEDIOS DE PRUEBA
 
 ARTICULO 273 (Medios de prueba).- Durante la instrucción, el Juzgador deberá admitir y desahogar los medios de prueba que legalmente le ofrezcan las partes en relación con los hechos imputados.
 
 Además, el Juzgador deberá tomar conocimiento directo del procesado, de la víctima y de las circunstancias del hecho, en la medida requerida para casa caso, teniendo amplias facultades para allegarse, de oficio, los medios de prueba que estime necesarios.
 
-ARTICULO 274 (Duración de la instrucción).- La instrucción deberá terminarse en el menor tiempo posible.
+###### ARTICULO 274.
+
+(Duración de la instrucción) La instrucción deberá terminarse en el menor tiempo posible.
 
 Cuando exista auto de formal prisión y el delito tenga señalada una pena máxima que exceda de dos años de prisión, se terminará dentro de nueve meses; si la pena máxima es de dos años de prisión o menor, o se hubiere dictado auto de sujeción a proceso, la instrucción deberá terminarse dentro de dos meses.
 
-Si el procesado, en forma expresa y por escrito, renuncia a su derecho a ser juzgado dentro de los plazos establecidos en el párrafo anterior, a fin de ofrecer y desahogar medios de prueba, el juez podrá concederle el plazo que solicite, hasta un máximo de tres meses en el primer caso a que se refiere el párrafo anterior y de dos meses en el segundo caso del mismo párrafo, pero la prisión preventiva continuará durante la prórroga.
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2011)</small>
+
+Si el procesado, en forma expresa y por escrito, renuncia a su derecho a ser juzgado dentro de los plazos establecidos en el párrafo anterior, a fin de ofrecer y desahogar medios de prueba, el juez podrá concederle el plazo que solicite, pero la prisión preventiva continuará durante la prórroga.
 
 Los plazos a que se refiere este artículo se contarán a partir de la fecha del auto de formal prisión o del de sujeción a proceso, en su caso. Faltando por lo menos un mes para que concluya cualquiera de los plazos antes señalados, el Juzgador dictará todas las providencias necesarias para concluir el desahogo de todos los medios de prueba ofrecidos por las partes, además les dará vista para que, dentro de los diez días siguientes, manifiesten lo que a su derecho convenga, indicándoles, que, de no hacerlo, declarará cerrada la instrucción.
 
@@ -1685,9 +1751,7 @@ ARTICULO 275 (Estimativa judicial de que se encuentra agotada la instrucción).-
 
 ARTICULO 276 (Cierre de instrucción).- Transcurridos los plazos a que se refieren los dos artículos anteriores, o renunciados los concedidos a las partes para que manifiesten lo que a su derecho convenga, el juez declarará cerrada la instrucción, mediante auto que se notificará personalmente a las partes.
 
-# LIBRO CUARTO. PROCESO
-
-## TITULO PRIMERO. INSTRUCCIÓN
+## TITULO SEGUNDO. PREPARACION DEL JUICIO
 
 ### CAPITULO I. CONCLUSIONES MINISTERIALES Y DEL OFENDIDO
 
@@ -1723,8 +1787,6 @@ ARTICULO 282 (Derecho del ofendido a impugnar las conclusiones no acusatorias co
 
 ARTICULO 283 (Revocación de conclusiones no acusatorias).- Si el Procurador General de Justicia revoca las conclusiones no acusatorias y fórmula de acusación, o revocadas las de no acusación como resultado del recurso de revisión interpuesto, se procederá como lo dispone el artículo siguiente.
 
-## TITULO SEGUNDO. PREPARACION DEL JUICIO
-
 ### CAPITULO II. CONCLUSIONES DEL DEFENSOR
 
 ARTICULO 284 (Conclusiones de la defensa).- Las conclusiones, ya sean formuladas por el agente o por el Procurador General de Justicia, en su caso, se darán a conocer al acusado y a su defensor, dándoles vista de todo el proceso, a fin de que, en un plazo igual al concedido al Ministerio Público, las contesten y formulen, a su vez, las conclusiones que crean procedentes.
@@ -1741,13 +1803,13 @@ ARTICULO 287 (Forma de la audiencia).- En la audiencia podrán interrogar al acu
 
 Contra la resolución que niegue o admita la repetición de las diligencias de prueba no procede recurso alguno.
 
+## TITULO TERCERO. JUICIO
+
 ### CAPITULO I. SENTENCIA
 
 > <small>(F. DE E., P.O. 24 DE AGOSTO DE 1989)</small>
 
 ARTICULO 288 (Plazo para dictar sentencia).- El juez dictará su sentencia, en todo caso, antes de que transcurran cuatro meses si se tratare de delitos cuya pena máxima no exceda de dos años de prisión, y antes de un año, si la pena máxima excediera de ese tiempo. En ambos casos, el plazo se contará a partir del auto de formal prisión o del de sujeción a proceso. En todo caso, el Juzgador deberá dictar sentencia dentro del plazo de treinta días contados a partir de que se declare visto el proceso.
-
-## TITULO TERCERO. JUICIO
 
 ### CAPITULO II. ACLARACION DE SENTENCIA
 
@@ -1779,6 +1841,8 @@ IV.- Cuando se declare desierto el recurso interpuesto.
 
 ARTICULO 295 (Ejecutoriedad de las sentencias de segunda instancia).- Causan ejecutoria por ministerio de ley las sentencias dictadas en segunda instancia.
 
+## TITULO CUARTO. SUSPENSION Y EXTINCION DEL PROCEDIMIENTO
+
 ### CAPITULO I. SUSPENSION DEL PROCEDIMIENTO
 
 ARTICULO 296 (Suspensión del procedimiento).- Iniciado el procedimiento judicial, no podrá suspenderse sino en los casos siguientes:
@@ -1806,8 +1870,6 @@ ARTICULO 299 (Resolución).- El Juzgador resolverá de plano sobre la suspensió
 ARTICULO 300 (Suspensión de procedimiento no penal).- Cuando el Juzgador que conozca de un proceso no penal tenga conocimiento de que existe un procedimiento penal, sobre hechos delictuosos de tal naturaleza que, si se llegare a dictar sentencia penal con motivo de ellos, éste deba necesariamente influir en la resolución que pudiera dictarse en el proceso no penal, suspenderá este último, hasta que se pronuncie resolución definitiva en el asunto penal.
 
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1996)</small>
-
-## TITULO CUARTO. SUSPENSION Y EXTINCION DEL PROCEDIMIENTO
 
 ### CAPITULO II. SUSPENSION A PRUEBA DEL PROCEDIMIENTO PENAL
 
@@ -1897,6 +1959,18 @@ III.- En los demás casos que señale la Ley.
 
 ARTICULO 302 (Oportunidad del sobreseimiento).- El auto de sobreseimiento se dictará tan pronto como se pruebe la causa que lo origine.
 
+###### ARTICULO 303.
+
+(Clases de sobreseimiento).- El sobreseimiento puede decretarse de oficio o a petición de parte.
+
+Se resolverá de plano cuando se decrete de oficio. Si fuere a petición de parte, se tramitará por separado y en forma de incidente no especificado.
+
+###### ARTICULO 304.
+
+(Efectos del sobreseimiento).- El auto de sobreseimiento que haya causado estado, surtirá los efectos de una sentencia absolutoria, con valor de cosa juzgada.
+
+## TITULO QUINTO. IMPUGNACION
+
 ### CAPITULO I. DISPOSICIONES COMUNES
 
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1996)</small>
@@ -1933,25 +2007,21 @@ ARTICULO 311 (Discrepancia respecto a la interposición o desistimiento de la im
 
 Si la discrepancia versa sobre el desistimiento del medio de la impugnación, el desistimiento no tendrá eficacia alguna.
 
-ARTICULO 312 (Estudio de los motivos de inconformidad).- El Juzgador deberá analizar cada uno de los motivos de inconformidad expresados por el impugnador, y resolver si son o no fundados.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE FEBRERO DE 2011)</small>
+
+###### ARTICULO 312.
+
+(Estudio de los motivos de inconformidad).- El juzgador deberá analizar todos y cada uno de los motivos de inconformidad expresados por el impugnador y resolver si son o no fundados.
 
 Cuando el recurrente sea el imputado o su defensor, el Juzgador deberá efectuar un estudio integral del asunto y suplir total o parcialmente la ausencia de los motivos de inconformidad o subsanar los insuficientemente formulados, sin perjuicio de las sanciones que conforme a la ley procedan contra el defensor.
 
-Si la impugnación fuere interpuesta por el Ministerio Público o su coadyuvante, el Juzgador se limitará a analizar los motivos de inconformidad expresados por el recurrente.
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2011)</small>
 
-Cuando la impugnación fuere interpuesta solamente por el imputado o su defensor, la resolución recurrida no deberá ser modificada en su perjuicio.
+La misma suplencia procederá cuando se trate de los motivos de inconformidad formulados por la victima o el ofendido del delito, en el recurso de revisión.
 
-###### ARTICULO 303.
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2011)</small>
 
-(Clases de sobreseimiento).- El sobreseimiento puede decretarse de oficio o a petición de parte.
-
-Se resolverá de plano cuando se decrete de oficio. Si fuere a petición de parte, se tramitará por separado y en forma de incidente no especificado.
-
-###### ARTICULO 304.
-
-(Efectos del sobreseimiento).- El auto de sobreseimiento que haya causado estado, surtirá los efectos de una sentencia absolutoria, con valor de cosa juzgada.
-
-## TITULO QUINTO. IMPUGNACION
+Cuando la impugnación fuere interpuesta solamente por el imputado o su defensor, la resolución no deberá ser modificada en su perjuicio.
 
 ### CAPITULO II. RECONSIDERACION
 
@@ -1980,16 +2050,6 @@ Al notificar al imputado la sentencia de primera instancia, se le hará saber el
 La omisión de este requisito surte el efecto de duplicar el plazo legal para interponer el recurso, y al secretario o actuario que haya incurrido en ello, se le aplicará una corrección disciplinaria, por parte del Magistrado Ponente que conozca de la apelación.
 
 > <small>(REFORMADO PARRAFO PRIMERO, P.O. 20 DE MARZO DE 1997)</small>
-
-### CAPITULO IV. DENEGADA APELACION
-
-ARTICULO 328 (Procedencia).- El recurso de denegada apelación procede contra la resolución del juez de primera instancia que declara improcedente el recurso de apelación, cualquiera que sea el motivo.
-
-ARTICULO 329 (Oportunidad para interponerlo).- El recurso podrá interponerse ante el juzgador que dictó la resolución impugnada y podrá hacerse en la misma pieza de notificación o mediante escrito aparte, dentro de los tres días siguientes al en que se notifique la resolución que niegue la admisión de la apelación.
-
-ARTICULO 330 (Resolución del recurso).- El juez de primera instancia deberá enviar al tribunal, en un plazo de cinco días, copia certificada de la resolución apelada, del escrito de interposición de la apelación, del auto que declaró improcedente este recurso y del escrito en que se hizo valer la denegada apelación. Recibidas por el Tribunal las copias certificadas, sin más trámite citará para sentencia y pronunciará ésta, dentro de los cinco días siguientes.
-
-Si el Tribunal declara admisible la apelación, ordenará al juez que le envíe el expediente original o duplicado del mismo, según proceda, a fin de tramitar el recurso.
 
 ###### ARTICULO 316.
 
@@ -2050,6 +2110,16 @@ ARTICULO 326 (Diligencias para mejor proveer).- Cuando el Tribunal una vez que t
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1996)</small>
 
 ARTICULO 327 (Resolución del Recurso de Apelación).- Una vez calificada la admisión y los efectos de la apelación, el Tribunal procederá a pronunciar el fallo correspondiente dentro del plazo de quince días, sin que se exceda el plazo previsto por el artículo 8 del presente Código, haciendo en su caso, la suplencia a la que se refiere el artículo 312 segundo párrafo de este Código.
+
+### CAPITULO IV. DENEGADA APELACION
+
+ARTICULO 328 (Procedencia).- El recurso de denegada apelación procede contra la resolución del juez de primera instancia que declara improcedente el recurso de apelación, cualquiera que sea el motivo.
+
+ARTICULO 329 (Oportunidad para interponerlo).- El recurso podrá interponerse ante el juzgador que dictó la resolución impugnada y podrá hacerse en la misma pieza de notificación o mediante escrito aparte, dentro de los tres días siguientes al en que se notifique la resolución que niegue la admisión de la apelación.
+
+ARTICULO 330 (Resolución del recurso).- El juez de primera instancia deberá enviar al tribunal, en un plazo de cinco días, copia certificada de la resolución apelada, del escrito de interposición de la apelación, del auto que declaró improcedente este recurso y del escrito en que se hizo valer la denegada apelación. Recibidas por el Tribunal las copias certificadas, sin más trámite citará para sentencia y pronunciará ésta, dentro de los cinco días siguientes.
+
+Si el Tribunal declara admisible la apelación, ordenará al juez que le envíe el expediente original o duplicado del mismo, según proceda, a fin de tramitar el recurso.
 
 ### CAPITULO V. QUEJA
 
@@ -2131,34 +2201,6 @@ Si lo que se revoca son las conclusiones no acusatorias ratificadas por el Procu
 
 ARTICULO 338 D.- (Inimpugnabilidad de las resoluciones que se dicten con motivo del recurso de revisión).- Las determinaciones que dicte el juez revisor para resolver el recurso de revisión no admitirán medio de impugnación alguno.
 
-### CAPITULO I. SUBSTANCIACION DE COMPETENCIAS
-
-ARTICULO 347 (Cuestiones de competencia).- Las cuestiones de competencia podrán promoverse por declinatoria o por inhibitoria. Las partes podrán optar por cualquiera de estos medios, pero una vez que hayan ejercido la opción, precluirá su derecho para hacer valer el medio no utilizado.
-
-La declinatoria y la inhibitoria podrán promoverse en cualquier etapa del proceso, hasta antes de que el Juzgador emita su sentencia.
-
-En ningún caso estos medios impedirán que el Juzgador que esté conociendo del asunto pueda seguir actuando válidamente hasta que el Ministerio Público y la defensa formulen sus conclusiones. Si estos medios se promueven durante la preparación del proceso, y hay detenido, sólo podrán ser resueltos por el Juzgador que esté concediendo del asunto, hasta que haya dictado el auto de procesamiento o de libertad por falta de elementos para procesar.
-
-ARTICULO 348 (Declinatoria).- La declinatoria se promoverá ante el Juzgador que conozca del asunto, pidiéndole que se abstenga del conocimiento del mismo y remita las actuaciones al Juzgador que se estime competente.
-
-Propuesta la declinatoria, el Juzgador mandará dar vista de la solicitud a las otras partes por el plazo de tres días comunes y resolverá lo que corresponda dentro de los seis días siguientes. Si el Juzgador decide que es competente, continuará conociendo el asunto.
-
-En caso de que el Juzgador resuelva que es incompetente, remitirá el expediente al que estime competente. Este último dará un plazo común de tres días a las partes para que se manifiesten sobre su competencia y resolverá en el plazo de seis días si reconoce aquélla.
-
-Si no la reconoce remitirá el incidente al tribunal que deba conocer del conflicto de competencia conforme al artículo 16 de este Código, comunicándolo al Juzgador que hubiere enviado el expediente.
-
-ARTICULO 349 (Inhibitoria).- La inhibitoria se promoverá ante el Juzgador que se estime competente, pidiéndole que dirija oficio al que se considera incompetente, para que se inhiba y remita el expediente.
-
-El Juzgador ante el que se promueva la inhibitoria, ordenará dar vista al Ministerio Público por el plazo de tres días y resolverá lo que corresponda dentro de los seis días siguientes. Si estima que es competente para conocer del asunto, librará oficio inhibitorio al Juzgador que conozca del proceso, a fin de que le remita el expediente.
-
-El Juzgador requerido dará un plazo común de tres días a las partes para que manifiesten lo que a su interés convenga sobre su competencia y resolverá dentro de los seis días siguientes. Si admite la competencia del Juzgador requirente, le remitirá el expediente. En caso contrario, enviará el incidente al tribunal que deba resolver el conflicto de competencia, comunicándolo al Juzgador requirente para que, a su vez, remita sus actuaciones a dicho tribunal.
-
-ARTICULO 350 (Resolución del Tribunal Superior de Justicia).- Cuando conforme al artículo 16 de este Código el conflicto de competencia deba ser resuelto por el Tribunal Superior de Justicia, éste emitirá su resolución dentro del plazo de diez días contados a partir de la fecha en que reciba el o los incidentes; en el caso de que se determine procedente la incompetencia planteada, el Tribunal Superior de Justicia ordenará lo conducente a fin de que el procedimiento sea continuado por el Juez declarado competente.
-
-ARTICULO 351 (Validez de las actuaciones del Juzgador incompetente).- Lo actuado por un Juzgador incompetente será válido. El Juzgador declarado competente que reciba las actuaciones del incompetente, continuará el proceso a partir del último acto realizado por el primero.
-
-ARTICULO 352 (Tramitación por separado).- Los incidentes sobre competencia se tramitarán siempre por separado.
-
 # LIBRO QUINTO. PROCEDIMIENTO ESPECIAL
 
 PARA INIMPUTABLES E
@@ -2200,6 +2242,34 @@ En caso de que el imputado recobre la salud, el procedimiento ordinario será re
 ARTICULO 346 (Sobreseimiento por determinación del trastorno mental transitorio).- En cualquier momento en que se determine por el Juzgador, tomando en consideración los dictámenes periciales respectivos, que el procesado superó el estado de anormalidad en que se hallaba al momento de realizar el hecho típico, el asunto se dará por terminado, sobreseyéndose el proceso especial y el ordinario que lo hubiere motivado, luego de lo cual se declararán sin efecto las medidas de seguridad que provisionalmente se hubieren determinado.
 
 ## TITULO SEGUNDO. INCIDENTES
+
+### CAPITULO I. SUBSTANCIACION DE COMPETENCIAS
+
+ARTICULO 347 (Cuestiones de competencia).- Las cuestiones de competencia podrán promoverse por declinatoria o por inhibitoria. Las partes podrán optar por cualquiera de estos medios, pero una vez que hayan ejercido la opción, precluirá su derecho para hacer valer el medio no utilizado.
+
+La declinatoria y la inhibitoria podrán promoverse en cualquier etapa del proceso, hasta antes de que el Juzgador emita su sentencia.
+
+En ningún caso estos medios impedirán que el Juzgador que esté conociendo del asunto pueda seguir actuando válidamente hasta que el Ministerio Público y la defensa formulen sus conclusiones. Si estos medios se promueven durante la preparación del proceso, y hay detenido, sólo podrán ser resueltos por el Juzgador que esté concediendo del asunto, hasta que haya dictado el auto de procesamiento o de libertad por falta de elementos para procesar.
+
+ARTICULO 348 (Declinatoria).- La declinatoria se promoverá ante el Juzgador que conozca del asunto, pidiéndole que se abstenga del conocimiento del mismo y remita las actuaciones al Juzgador que se estime competente.
+
+Propuesta la declinatoria, el Juzgador mandará dar vista de la solicitud a las otras partes por el plazo de tres días comunes y resolverá lo que corresponda dentro de los seis días siguientes. Si el Juzgador decide que es competente, continuará conociendo el asunto.
+
+En caso de que el Juzgador resuelva que es incompetente, remitirá el expediente al que estime competente. Este último dará un plazo común de tres días a las partes para que se manifiesten sobre su competencia y resolverá en el plazo de seis días si reconoce aquélla.
+
+Si no la reconoce remitirá el incidente al tribunal que deba conocer del conflicto de competencia conforme al artículo 16 de este Código, comunicándolo al Juzgador que hubiere enviado el expediente.
+
+ARTICULO 349 (Inhibitoria).- La inhibitoria se promoverá ante el Juzgador que se estime competente, pidiéndole que dirija oficio al que se considera incompetente, para que se inhiba y remita el expediente.
+
+El Juzgador ante el que se promueva la inhibitoria, ordenará dar vista al Ministerio Público por el plazo de tres días y resolverá lo que corresponda dentro de los seis días siguientes. Si estima que es competente para conocer del asunto, librará oficio inhibitorio al Juzgador que conozca del proceso, a fin de que le remita el expediente.
+
+El Juzgador requerido dará un plazo común de tres días a las partes para que manifiesten lo que a su interés convenga sobre su competencia y resolverá dentro de los seis días siguientes. Si admite la competencia del Juzgador requirente, le remitirá el expediente. En caso contrario, enviará el incidente al tribunal que deba resolver el conflicto de competencia, comunicándolo al Juzgador requirente para que, a su vez, remita sus actuaciones a dicho tribunal.
+
+ARTICULO 350 (Resolución del Tribunal Superior de Justicia).- Cuando conforme al artículo 16 de este Código el conflicto de competencia deba ser resuelto por el Tribunal Superior de Justicia, éste emitirá su resolución dentro del plazo de diez días contados a partir de la fecha en que reciba el o los incidentes; en el caso de que se determine procedente la incompetencia planteada, el Tribunal Superior de Justicia ordenará lo conducente a fin de que el procedimiento sea continuado por el Juez declarado competente.
+
+ARTICULO 351 (Validez de las actuaciones del Juzgador incompetente).- Lo actuado por un Juzgador incompetente será válido. El Juzgador declarado competente que reciba las actuaciones del incompetente, continuará el proceso a partir del último acto realizado por el primero.
+
+ARTICULO 352 (Tramitación por separado).- Los incidentes sobre competencia se tramitarán siempre por separado.
 
 ### CAPITULO II. SUBSTANCIACION DE IMPEDIMENTOS, EXCUSAS Y
 
@@ -2344,12 +2414,6 @@ X.- Por haberse tenido en cuenta en la sentencia una diligencia que la ley decla
 ARTICULO 381 (Tramitación de nulidad).- La nulidad no podrá ser invocada por quien dio lugar a ella. La nulidad de una actuación se reclamará por la parte que la promueva en la actuación subsecuente en que ésta deba intervenir, y se substanciará conforme al procedimiento previsto para los incidentes no especificados. Cuando se resuelva la nulidad del acto, serán igualmente nulas las actuaciones posteriores al acto anulado que se deriven precisamente de éste.
 
 Las resoluciones que resuelvan sobre la nulidad invocada, serán apelables en efecto devolutivo.
-
-### CAPITULO VII. INCIDENTES NO ESPECIFICADOS
-
-ARTICULO 382 (Substanciación).- Los incidentes cuya tramitación no se regule en este Código, se substanciarán por separado y del modo siguiente:
-
-Se dará vista de la promoción de incidente a las partes, para que contesten en el acto de la notificación o a más tardar dentro de los tres días siguientes. Si el Juzgador lo creyere necesario o alguna de las partes lo pidiere, se abrirá un plazo de prueba que no exceda de cinco días, después de los cuales se citará para una audiencia que se verificará dentro de los tres siguientes. Concurran o no las partes, el Juzgador fallará desde luego el incidente. Estos incidentes no suspenderán el curso del procedimiento.
 
 ### CAPITULO VII. INCIDENTES NO ESPECIFICADOS
 
@@ -2620,5 +2684,25 @@ Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jera
 P.O. 21 DE ENERO DE 2011.
 
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 25 DE FEBRERO DE 2011.
+
+LEY POR LA QUE SE ADICIONA UNA FRACCION VII AL ARTICULO 61 DEL CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE QUERETARO
+
+Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Respecto de los antecedentes penales que existan con anterioridad a la entrada en vigor de la presente Ley, siempre que cumplan con las condiciones previstas en el artículo 124 BIS del Código Penal para el Estado de Querétaro, sin necesidad de declaración alguna por parte de la autoridad judicial; los ciudadanos podrán gozar, por una sola vez y respecto de todos los antecedentes que tenga, de la eliminación de los mismos.
+
+Para ello, la Procuraduría General de Justicia del Estado de Querétaro, a través del Departamento de Antecedentes Penales, dependiente de la Dirección de Control de Procesos, realizará la cancelación administrativa de los antecedentes penales que correspondan, en los registros conducentes, bastando la solicitud por escrito del interesado, a la que acompañará los documentos que acrediten haber cumplido la sanción impuesta; hecho lo anterior, se expedirá, a costa del solicitante, documento en el que conste la cancelación de mérito.
+
+Artículo Tercero. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente.
+
+P.O. 25 DE FEBRERO DE 2011.
+
+LEY POR LA QUE SE REFORMAN LOS ARTICULOS 121, 132, 142, 224 BIS, 265, 274 Y 312; Y SE ADICIONA UN CAPITULO IX AL TITULO CUARTO DEL LIBRO PRIMERO, CON LOS ARTICULOS 146 A, 146 B Y 146 C; TODOS DEL CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE QUERETARO
+
+Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
 
 Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
