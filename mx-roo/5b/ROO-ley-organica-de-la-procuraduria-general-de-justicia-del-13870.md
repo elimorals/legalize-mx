@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-de-la-procuraduria-general-de-justicia-del-13870"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-02-15"
-last_updated: "2010-03-01"
+last_updated: "2011-02-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13870&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE MARZO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE FEBRERO DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 15 de febrero de 1999.
 
@@ -323,11 +323,11 @@ VII.- Las demás que se señalen en el Reglamento respectivo.
 
 ### CAPITULO QUINTO. DE LOS SUBPROCURADORES Y SUS ATRIBUCIONES
 
-> <small>(REFORMADO, P.O. 1 DE MARZO DE 2010)</small>
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2011)</small>
 
 ###### ARTICULO 14.
 
-Para el debido funcionamiento de las Subprocuradurías, estas se delimitarán geográficamente con una Subprocuraduría en la Zona Sur, con sede en la ciudad de Chetumal, Quintana Roo, con jurisdicción territorial en el municipio de Othón P. Blanco; una Subprocuraduría en la Zona Norte, ubicada en la ciudad de Cancún, Quintana Roo con jurisdicción territorial en los municipios de Benito Juárez, Cozumel, Isla Mujeres Solidaridad y Lázaro Cárdenas y una en la Zona Centro con sede en Felipe Carrillo Puerto, Quintana Roo, con jurisdicción territorial en los municipios de Felipe Carrillo puerto y José María Morelos.
+Para el debido funcionamiento de las Subprocuradurías, éstas se delimitarán geográficamente con una Subprocuraduría en la Zona Sur, con sede en la Ciudad de Chetumal, Quintana Roo con jurisdicción territorial en los Municipios de Othón P. Blanco y Bacalar; con una Subprocuraduría en la Zona Norte, ubicada en la Ciudad· de Cancún, Quintana Roo con jurisdicción territorial en los municipios de Benito Juárez, Isla Mujeres y Lázaro Cárdenas; una Subprocuraduría en la Zona Centro con sede en la Ciudad de Felipe Carrillo Puerto, Quintana Roo, con jurisdicción territorial en los municipios de Felipe Carrillo Puerto y José María Mareos y una Subprocuraduría en la Riviera Maya, con sede en la Ciudad de Playa del Carmen con jurisdicción territorial en los municipios de Solidaridad, Tulum y Cozumel.
 
 ###### ARTICULO 15.
 
@@ -1290,3 +1290,9 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Se deroga toda disposición contraria a lo dispuesto en el presente Decreto.
 
 TERCERO.- Se faculta al Titular del Poder Ejecutivo del Estado a efectuar las modificaciones y adecuaciones presupuestales necesarias para el efecto de dotar de la estructura necesaria a la Subprocuraduría que se crea, para el correcto funcionamiento de la misma.
+
+P.O. 25 DE FEBRERO DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- Los escudos que se exhiban en los edificios públicos, escuelas o en otras instituciones, deberán ajustarse a la reforma del Artículo 6 de la Ley Sobre las Características y el Uso del Escudo del Estado de Quintana Roo establecida en el presente Decreto. Se exceptúan los escudos esculpidos en edificios o centros históricos que se encuentren ubicados en el Estado de Quintana Roo, que constituyan por su valor cultural o trascendencia social, parte indisoluble de la peculiaridad del pueblo quintanarroense.
