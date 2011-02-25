@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-defensoria-publica-del-estado-de-quintana-roo-60603"
 country: "mx"
 rank: "ley"
 publication_date: "2008-03-11"
-last_updated: "2010-08-09"
+last_updated: "2011-02-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60603&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE DEFENSORIA PUBLICA DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE AGOSTO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE FEBRERO DE 2011.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Quintana Roo, el martes 11 de marzo de 2008.
 
@@ -47,9 +47,25 @@ La presente Ley es de orden público, y tiene por objeto regular la prestación 
 
 Para la prestación de los servicios que prevé la presente ley, se crea el Instituto de la Defensoría Pública del Estado de Quintana Roo, como un órgano del Poder Judicial, con personalidad jurídica propia e independencia técnica y operativa en el ejercicio de sus funciones, el cual tendrá su sede en la Capital del Estado, cuyos lineamientos, bases de funcionamiento y estructura orgánica, serán establecidas por la reglamentación que emita el propio órgano, con aprobación del H. Consejo de la Judicatura del Poder Judicial del Estado.
 
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 3.
 
-El Instituto de la Defensoría Pública del Estado de Quintana Roo, estará integrado por un Director, un Coordinador General, dos Visitadores de Área, la plantilla de Defensores de Oficio y Asistentes Jurídicos, así como además del personal técnico necesario, suficiente para cubrir todas las áreas de competencia jurisdiccional que determine el presupuesto.
+El Instituto de la Defensoría Pública del Estado de Quintana Roo, estará integrado por:
+
+I.-. Un Director;
+
+II.- Un Coordinador General;
+
+III. Los Coordinadores de Zona que establezca el Consejo de la Judicatura del Estado, de acuerdo a los requerimientos y presupuesto;
+
+IV.- Los Visitadores de Área que determine el Consejo de la Judicatura del Estado.
+
+V.- La plantilla de Defensores Públicos y Asistentes Jurídicos;
+
+VI.- El personal técnico necesario suficiente para cubrir todas las áreas de competencia y que determine el Consejo de la Judicatura del Estado de acuerdo al presupuesto.
+
+VII.- El personal administrativo que exijan las necesidades del servicio.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
@@ -59,11 +75,9 @@ El Instituto de la Defensoría Pública del Estado de Quintana Roo, estará inte
 
 Los servicios de Defensoría Pública, abarcarán los diversos distritos judiciales en los que se encuentre dividido el Estado, y se llevarán a cabo a través de:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2011)</small>
 
-> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2010)</small>
-
-I. Defensores de Oficio en asuntos del orden penal del Fuero Común, y en los delitos contra la salud en su modalidad de narcomenudeo que contemplan los artículos 474, 475, 476 y 477 de la Ley General de Salud y relativos del Código Penal Federal, cuando sean competentes las autoridades de procuración e impartición de justicia, así como de ejecución de penas y medidas de seguridad del Estado, desde la averiguación previa, hasta la ejecución de las penas; y
+I. Defensores Públicos en asuntos del orden penal del Fuero Común y en los delitos contra la salud en su modalidad de narcomenudeo que contemplan los artículos 474, 475, 476 y 477 de la Ley General de Salud y relativos del Código Penal Federal, cuando sean competentes las autoridades de procuración e impartición de justicia, así como de ejecución de penas y medidas de seguridad del Estado, desde la averiguación previa o la etapa preliminar, hasta la ejecución de las penas; y
 
 II. Asistentes Jurídicos en asuntos del orden civil, mercantil y familiar, salvo los expresamente otorgados por la Ley a otras instituciones.
 
@@ -101,29 +115,43 @@ VIII. No estar inhabilitado para el desempeño de funciones públicas, ni estar 
 
 El Director del Instituto de la Defensoría Pública del Estado de Quintana Roo, tendrá las siguientes atribuciones:
 
-I. Proponer ante el H. Consejo de la Judicatura del Poder Judicial del Estado, la contratación del personal apto para la plantilla de defensores de oficio y asistentes jurídicos, cuya selección será atendiendo al perfil de conocimientos y previa aprobación del examen básico;
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2011)</small>
+
+I. Proponer ante el H. Consejo de la Judicatura del Poder' Judicial del Estado, la contratación del personal apto para la plantilla de Defensores Públicos y Asistentes Jurídicos, cuya selección será atendiendo al perfil de conocimientos y previa aprobación del examen básico;
 
 II. Organizar, dirigir y evaluar los servicios que brinde el Instituto de la Defensoría Pública del Estado de Quintana Roo, emitiendo los acuerdos necesarios para consolidar las bases generales de organización, funcionamiento y elaboración del Manual Operativo del propio Instituto;
 
-III. Vigilar el debido cumplimiento del desempeño de los defensores de oficio y asistentes jurídicos en el ejercicio de su función, cualquiera que sea su asignación o adscripción, disponiendo lo conducente a fin de que el servicio sea brindado en forma oportuna, diligente y eficaz;
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2011)</small>
 
-IV. Llevar un sistema de base de datos, a través del cual se dé seguimiento a los asuntos en las diversas materias del ramo competencial, que se encuentren a cargo de los defensores de oficio y asistentes jurídicos, conociendo en forma actualizada la situación jurídica de los asistidos en orden a las actuaciones de los defensores de oficio responsables de su atención;
+III. Vigilar el debido cumplimiento del desempeño de los Defensores Públicos y Asistentes Jurídicos en el ejercicio de su función, cualquiera que sea su asignación o adscripción, disponiendo lo conducente a fin de que el servicio sea brindado en forma oportuna, diligente y eficaz;
+
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2011)</small>
+
+IV. Llevar un sistema de base de datos, a través del cual se de seguimiento a los asuntos en las diversas materias del ramo competencial, que se encuentren a cargo de los Defensores Públicos y Asistentes Jurídicos, conociendo en forma actualizada la situación jurídica de los asistidos en orden a las actuaciones de los Defensores Públicos responsables de su atención;
 
 V. Poner en conocimiento del Órgano competente respecto de las acusaciones y quejas en contra del personal adscrito al Instituto de la Defensoría Pública del Estado de Quintana Roo;
 
-VI. Evaluar periódicamente el desempeño de los defensores de oficio y asistentes jurídicos basándose en los reportes emitidos por los visitadores de áreas y la Coordinación General;
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2011)</small>
+
+VI. Evaluar periódicamente el desempeño de los Defensores Públicos y Asistentes Jurídicos basándose en los reportes emitidos por los visitadores de área y la Coordinación General;
 
 VII. Imponer las medidas y correcciones disciplinarias de conformidad a lo establecido en la presente Ley;
 
 VIII. Rendir ante el H. Consejo de la Judicatura del Poder Judicial del Estado, un informe anual de las actividades realizadas por todo el personal adscrito al Instituto de Defensoría Pública del Estado de Quintana Roo;
 
-IX. Gestionar ante el órgano competente la designación de peritos, cuando por la naturaleza del asunto deba proveerse al defensor de oficio y al asistente jurídico de dicho instrumento para el adecuado ejercicio de la función de defensa, independientemente de la materia de que se trate;
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2011)</small>
 
-X. Solicitar y proponer ante el Titular de la Escuela Judicial, la impartición de cursos de capacitación, a fin de elevar el nivel profesional de los defensores de oficio y asistentes jurídicos, atendiendo a las carencias y necesidades del servicio;
+IX. Gestionar ante el órgano competente la designación de peritos, cuando por la naturaleza del asunto deba proveerse al Defensor Público y al Asistente Jurídico de dicho instrumento para el adecuado ejercicio de la función de defensa, independientemente de la materia de que se trate;
+
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2011)</small>
+
+X. Solicitar y proponer ante el Titular de la Escuela Judicial, la impartición de cursos de capacitación, a fin de elevar el nivel profesional de los Defensores Públicos y Asistentes Jurídicos, atendiendo a las carencias y necesidades del servicio;
 
 XI. Atender y diligenciar las solicitudes de información que le sean requeridas por Organismos Públicos o Instituciones, siempre que éstas se relacionen con los objetivos del Instituto y en razón de su competencia;
 
-XII.- Gestionar ante la autoridad competente lo relativo a las ausencias temporales del personal de defensoría de oficio y asistentes jurídicos adscritos al Instituto de la Defensoría Pública del Estado de Quintana Roo, vigilando las suplencias correspondientes;
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2011)</small>
+
+XII.- Gestionar ante la autoridad competente lo relativo a las ausencias temporales del personal de Defensoría Pública, Asistentes Jurídicos, y demás personal adscrito al Instituto de la Defensoría Pública del Estado de Quintana Roo, vigilando las suplencias correspondientes;
 
 XIII.- Realizar reuniones periódicas con el personal de la Coordinación, y los visitadores de área a efecto de conocer la problemática real en materia de necesidades del servicio, a efecto de calendarizar actividades y estrategias;
 
@@ -135,9 +163,11 @@ XV. Establecer criterios que permitan vigilar el rendimiento y dedicación en el
 
 #### SECCIÓN I. De la Coordinación General
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 9.
 
-La Coordinación General de Defensores de Oficio, será la encargada de promover entre el personal de esa área, reuniones de conocimiento y de intercambio de opiniones, en las que se analicen los casos en particular, así como temas de problemática interna relacionada con el ejercicio de la profesión, impulsando la debida actualización judicial y jurisprudencial pertinente.
+La Coordinación General de Defensores Públicos, será la encargada de promover entre el personal de esa área, reuniones de conocimiento y de intercambio de opiniones, en las que se analicen los casos en particular, así como temas de problemática interna relacionada con el ejercicio de la profesión, impulsando la debida actualización judicial y jurisprudencial pertinente.
 
 Aplicará las técnicas de evaluación en el rendimiento y desempeño de la función del personal adscrito, a efecto de la unificación de criterios y deslinde de responsabilidades.
 
@@ -165,19 +195,29 @@ VIII. No estar inhabilitado para el desempeño de funciones públicas, ni estar 
 
 Son facultades y obligaciones del Coordinador General de la Defensoría, las siguientes:
 
-I. Dirigir y vigilar la calidad de los servicios que brinde el área de la Defensoría de Oficio y asistentes jurídicos, emitiendo las recomendaciones necesarias para consolidar las bases internas de integración y funcionamiento, acordes al Reglamento Interno y Manual de Operación;
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2011)</small>
 
-II. Proponer ante la Dirección, la asignación de adscripción que corresponda a cada uno de los defensores, asistentes jurídicos y demás personal de apoyo, así como realizar los cambios por rotación y suplencias, con anuencia y visto bueno del Director;
+I. Dirigir y vigilar la calidad de los servicios que brinde el área de la Defensoría Pública y de Asistencia Jurídica, emitiendo las recomendaciones necesarias para consolidar las bases internas de integración y funcionamiento, acordes al Reglamento Interno y Manual de Operación;
+
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2011)</small>
+
+II. Proponer ante la Dirección, la asignación de adscripción que corresponda a cada uno de los Defensores Públicos, Asistentes Jurídicos y demás personal de apoyo, así como realizar los cambios por rotación y suplencias, con anuencia y visto bueno del Director;
 
 III. Ejecutar las disposiciones y acuerdos emitidos por la Dirección, respecto de los lineamientos que deban ser observados por el personal adscrito;
 
-IV. Supervisar el desempeño de los defensores de oficio y asistentes jurídicos en el ejercicio de su función, cualquiera que sea el área de asignación, disponiendo lo conducente a fin de que el servicio sea brindado en forma oportuna, diligente y eficaz;
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2011)</small>
 
-V. Concentrar la información total de los asuntos iniciados con datos de identificación precisos a través de los cuáles se dé seguimiento a los asuntos en las distintas materias que abarque el servicio, a fin de mantener actualizada dicha información en relación con la situación jurídica de cada caso;
+IV. Supervisar el desempeño de los Defensores Públicos y Asistentes Jurídicos en el ejercicio de su función, cualquiera que sea el área de asignación, disponiendo lo conducente a fin de que el servicio sea brindado en forma oportuna, diligente y eficaz;
 
-VI. Recibir y diligenciar las acusaciones y quejas interpuestas en contra de los defensores de oficio, asistentes jurídicos y demás personal adscrito, con motivo de sus funciones, realizando las gestiones pertinentes de organización interna; turnándolas al órgano competente;
+V. Recibir y diligenciar las acusaciones y quejas interpuestas en contra de los Defensores Públicos, Asistentes Jurídicos y demás personal adscrito, con motivo de sus funciones, realizando las gestiones pertinentes de organización interna: turnándolas al órgano competente;
 
-VII. Apoyar y orientar a los Defensores de Oficio y Asistentes Jurídicos en los casos puestos a su conocimiento, a través del planteamiento de observaciones o dudas por parte de éstos, a fin de dirigir las recomendaciones propias que el caso amerite;
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2011)</small>
+
+VI. Recibir y diligenciar las acusaciones y quejas interpuestas en contra de los Defensores Públicos, Asistentes Jurídicos y demás personal adscrito, con motivo de sus funciones, realizando las gestiones pertinentes de organización interna: turnándolas al órgano competente;
+
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2011)</small>
+
+VII. Apoyar y orientar a los Defensores Públicos y Asistentes Jurídicos en los casos puestos a su conocimiento, a través del planteamiento de observaciones o dudas por parte de éstos, a fin de dirigir las recomendaciones propias que el caso amerite;
 
 VIII. Vigilar el correcto uso de los recursos materiales y de oficina proporcionados a todo el personal adscrito a las distintas áreas de servicio, para el desempeño de sus actividades;
 
@@ -185,7 +225,9 @@ IX. Convocar a reuniones periódicas en las áreas del fuero competencial para l
 
 X. Rendir ante la Dirección Estatal del Instituto, un informe concentrado de actividades integrales de todo el personal adscrito, dentro de los primeros cinco días de cada trimestre, que plasme la realidad actual de la Defensoría Pública en el Estado;
 
-XI. Poner oportunamente en conocimiento de la Dirección Estatal, cualquier eventualidad relacionada con el desempeño de los defensores de oficio y asistentes jurídicos, que se obtenga por información directa o a través de los reportes de supervisión de los visitadores de área de su competencia, a fin de establecer criterios de efectividad del servicio;
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2011)</small>
+
+XI. Poner oportunamente en conocimiento de la Dirección Estatal, cualquier eventualidad relacionada con el desempeño de los Defensores Públicos y Asistentes Jurídicos, que se obtenga por información directa o a través de los reportes de supervisión de los visitadores de área de su competencia, a fin de establecer criterios de efectividad del servicio;
 
 XII. Promover el Juicio de Amparo Directo ante los Tribunales competentes, en los casos en que medie solicitud expresa del interesado, siempre y cuando concurran las siguientes circunstancias:
 
@@ -193,17 +235,57 @@ Que sea de bajos recursos económicos;
 
 Que existan violaciones a los procedimientos o en la sentencia, que hayan dejado sin defensa al quejoso, en términos del artículo 160 de la Ley de Amparo.
 
-XIII.- Las demás que con motivo del cargo, le sean encomendadas.
+> <small>(ADICIONADA, P.O. 25 DE FEBRERO DE 2011)</small>
+
+XIII.- Ejercer la defensa en los asuntos encomendados por el Director del Instituto de la Defensoría Pública del Estado de Quintana Roo;
+
+XIV.- Las demás que con motivo del cargo, le sean encomendadas.
+
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 12.
 
-La Coordinación General se auxiliará por dos visitadores de área designados por el H. Consejo de la Judicatura del Poder Judicial del Estado, a propuesta del Director, preferentemente seleccionados de la plantilla de defensores.
+La Coordinación General se auxiliará por los Coordinadores de Zona y los Visitadores de Área designados por el H. Consejo de la Judicatura del Poder Judicial del Estado, a propuesta del Director, preferentemente seleccionados de la plantilla de Defensores Públicos.
+
+> <small>(ADICIONADO, P.O. 25 DE FEBRERO DE 2011)</small>
+
+###### Artículo 12
+
+BIS.- Para ser Coordinador de Zona, se requieren los mismos requisitos para ser Coordinador General, y serán nombrados de entre los Defensores Públicos y Asistentes Jurídicos.
+
+> <small>(ADICIONADO, P.O. 25 DE FEBRERO DE 2011)</small>
+
+Artículo 12·TER.- Son atribuciones y obligaciones de los Coordinadores de Zona de la Defensoría Pública, las siguientes:
+
+I.- Vigilar que los Defensores Públicos cumplan con las obligaciones que les impone este ordenamiento, supervisando ante todo la presencia y participación jurídica de aquellos en los asuntos de su competencia;
+
+II.- Brindar asesoría jurídica a los Defensores Públicos adscritos a las Dependencias del Ministerio Público y a los Juzgados y Tribunales que comprenda su zona;
+
+III.- Informar al Director o al Coordinador General, de todas aquellas anomalías en que incurran los Defensores Públicos en el desempeño de sus funciones, para que éstos procedan según la gravedad del caso, conforme a lo establecido por la ley de la materia;
+
+IV.-·Ejercer la defensa pública y la asistencia jurídica en los asuntos que le encomiende el Director o el Coordinador General;
+
+V.- Realizar el trámite de las gestiones para la elaboración de las demandas de amparo que le sean remitidas por el Coordinador General;
+
+VI.- Informar sin demora de las ausencias de los Defensores Públicos y Asistentes Jurídicos al Coordinador General o Director;
+
+VII.- Realizar las tareas que le encomiende el Director o el Coordinador General inherentes a los servicios que presta el Instituto de la Defensoría Pública del Estado;
+
+VIII.- Recabar y concentrar los informes mensuales que rindan los Defensores Públicos y Asistentes Jurídicos en la zona de su adscripción, remitiéndolos sin demora al Coordinador General;
+
+IX.- Realizar el informe mensual y anual de sus actividades y remitírselo al Coordinador General;
+
+X.- Las demás que les confieran esta ley u otros ordenamientos jurídicos aplicables.
+
+La función del Coordinador de Zona, será supervisada conjuntamente por el Director Estatal y el Coordinador General, en los términos que establezca la presente ley, el Reglamento Interno y Manual de Operación respectivos.
 
 #### SECCIÓN II. De los Visitadores
 
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 13.
 
-Para ser visitador de área, se requiere haber fungido como defensor de oficio del Instituto de Defensoría Pública del Estado de Quintana Roo, y cumplir los mismos requisitos que para ser Coordinador General, con excepción de los mínimos exigidos en las fracciones II, IV y VI, del artículo 10 de esta ley; que para el caso concreto serán de veinticinco años de edad; dos de experiencia; y dos de residencia en el Estado.
+Para ser Visitador de Área, se requiere haber fungido como Defensor Público del Instituto de Defensoría Pública del Estado de Quintana Roo, y cumplir los mismos requisitos que para ser Coordinador General, con excepción de los mínimos exigidos en las fracciones II, IV y VI, del Artículo 10 de esta Ley; que para el caso concreto serán de veinticinco años de edad; dos de experiencia; y dos de residencia en el Estado.
 
 ###### Artículo 14.
 
@@ -213,37 +295,55 @@ I. Realizar visitas directas a las áreas, con el comunicado oportuno del result
 
 II. Verificar en las distintas áreas de servicio el debido cumplimiento de las normas procedimentales relativas a la función desempeñada por el personal adscrito y demás disposiciones por el órgano directriz, comunicadas por la Coordinación General, debiendo en todo caso levantar el acta respectiva de visita;
 
-III. Recabar en forma mensual los informes de actividades desarrolladas por los defensores de oficio y asistentes jurídicos en las distintas áreas de servicio, los cuales serán remitidos a su vez a la Coordinación General para el concentrado estatal correspondiente; y
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2011)</small>
 
-IV. Rendir ante la Coordinación informe mensual concentrado del área de su competencia de los diversos distritos judiciales.
+III. En las ausencias del Coordinador de Zona, recabar y concentrar en forma mensual los informes de actividades desarrolladas por los Defensores Públicos y Asistentes Jurídicos en las distintas áreas de servicio, los cuales serán remitidos a su vez a la Coordinación General para el concentrado estatal correspondiente; y
+
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2011)</small>
+
+IV. Rendir ante la Coordinación General informe mensual concentrado del área de su competencia de los diversos distritos judiciales.
 
 La función del visitador de área, será supervisada conjuntamente por el Director Estatal y el Coordinador General, en los términos que establezca la presente Ley, el Reglamento Interno y Manual de Operación respectivos.
 
-### CAPÍTULO IV. De los Defensores de Oficio y Asistentes Jurídicos
+> <small>(REFORMADA SU DENOMINACION, P.O. 25 DE FEBRERO DE 2011)</small>
+
+### CAPÍTULO IV. De los Defensores de Públicos y Asistentes Jurídicos
+
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 15.
 
-Para ser Defensor de Oficio o Asistente Jurídico, se requieren los mismos requisitos que para ser visitador de área. Así como aprobar el examen básico a que hace referencia la fracción I del artículo 8 de la presente Ley.
+Para ser Defensor Público o Asistente Jurídico, se requieren los mismos requisitos que para ser Visitador de Área. Así como aprobar el examen básico a que hace referencia la fracción I del Artículo 8 de la presente Ley.
+
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 16.
 
-Los defensores de Oficio y Asistentes Jurídicos serán nombrados por el Consejo de la Judicatura del Poder Judicial del Estado, a propuesta del Director con asignación genérica a efecto de que según los requerimientos de las áreas sean asignados de forma interna.
+Los Defensores Públicos y Asistentes Jurídicos serán nombrados por el Consejo de la Judicatura del Poder Judicial del Estado, a propuesta del Director, con asignación genérica a efecto de que según los requerimientos de las áreas sean asignados de forma interna.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 17.
 
-Los Defensores de Oficio y Asistentes Jurídicos serán los encargados de brindar el servicio en el área de su asignación en razón de la materia de su competencia, atendiendo a las áreas delimitadas por Distrito, distribuidos de la siguiente manera:
+Los Defensores Públicos y Asistentes Jurídicos serán los encargados de brindar el servicio en el área de su asignación en razón de la materia de su competencia, atendiendo a las áreas delimitadas por Distrito, distribuidos de la siguiente manera:
 
 I. Sectores Ministeriales;
 
-II. Juzgados de Primera Instancia y de Paz en todos los Distritos Judiciales en los cuales se encuentra dividido el Estado;
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2011)</small>
+
+II. Juzgados Penales de Primera Instancia, de Control, de Paz, de Ejecución de Sentencias y Tribunales de Juicio Oral, en todos los Distritos Judiciales en los cuales se encuentra dividido el Estado;
 
 III. Salas del Tribunal Superior de Justicia; y
 
-IV. Juzgados para Adolescentes.
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2011)</small>
+
+IV. Juzgados y Tribunales para Adolescentes.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 18.
 
-Los Defensores de Oficio y Asistentes Jurídicos en el ejercicio de su función tendrán las siguientes obligaciones:
+Los Defensores Públicos y Asistentes Jurídicos en el ejercicio de su función, tendrán las siguientes obligaciones:
 
 I. Brindar la representación y asesoría a las personas que lo soliciten, en los términos que establecen la Constitución, las leyes sustantivas y adjetivas de la materia competente, la presente Ley y las demás disposiciones aplicables en el ámbito de su competencia;
 
@@ -253,7 +353,9 @@ III. Llevar un registro computarizado y actualizado de todos los asuntos en raz�
 
 IV. Brindar la información oportuna y completa a las personas representadas, relativa a la investigación o etapa procedimental, dejando constancia de ello en el expediente respectivo;
 
-V. Entregar al visitador en turno el reporte de las actividades realizadas en el período correspondiente de acuerdo a los soportes técnicos;
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2011)</small>
+
+V. Entregar al Coordinador de Zona o en su caso al Visitador, el reporte de las actividades realizadas en el período correspondiente de acuerdo a los soportes técnicos;
 
 VI. Llevar un sistema de calendarización y cómputo de términos legales a que se sujeten las distintas etapas del procedimiento en las materias que abarca el servicio, para la oportuna promoción de actuaciones en el campo práctico de su competencia;
 
@@ -307,9 +409,13 @@ I. El usuario manifieste de modo claro y expreso que no tiene interés en que se
 
 II. El usuario del servicio incurra dolosamente en falsedad en los datos proporcionados;
 
-III. El usuario o sus dependientes económicos cometan actos de violencia, amenazas o injurias en contra del personal del Instituto de Defensoría Pública del Estado de Quintana Roo; y
+III. El usuario o sus dependientes económicos cometan actos de violencia, amenazas o injurias en contra del personal del Instituto de Defensoría Pública del Estado de Quintana Roo; y (sic)
 
 IV. Desaparezcan las causas socioeconómicas que dieron origen a la prestación del servicio.
+
+> <small>(ADICIONADA, P.O. 25 DE FEBRERO DE 2011)</small>
+
+V. El usuario nombre a un abogado particular en el Juicio correspondiente.
 
 ###### Artículo 23.
 
@@ -337,9 +443,11 @@ II. Servicios periciales para una mayor eficacia en el área de defensa.
 
 #### SECCIÓN I. De las Prohibiciones
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 26.
 
-Los Defensores de Oficio y Asistentes Jurídicos en el ejercicio de su encargo, tienen las siguientes prohibiciones:
+Los Defensores Públicos y Asistentes Jurídicos en el ejercicio de su encargo, tienen las siguientes prohibiciones:
 
 I. Ejercer la abogacía en forma particular en los Tribunales o Instituciones gubernamentales, exceptuándose los casos en que estén relacionados parientes por consanguinidad en línea recta, cónyuge, concubina, concubinario, adoptante o adoptado;
 
@@ -373,9 +481,11 @@ IV. Cuando por negligencia se generen violaciones al procedimiento que afecten l
 
 V. Cuando haya sido corregido disciplinariamente por más de tres veces consecutivas, con relación al ejercicio de su función. También serán causas de responsabilidad para cualquier servidor del Instituto de Defensoría Pública del Estado de Quintana Roo, indistintamente de su cargo, incurrir en acciones que atenten contra sus fines, al dejar de cumplir con cualquiera de las obligaciones que se le hubieren conferido en razón del cargo, o por contravenir alguna disposición prevista en la presente ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 28.
 
-Los defensores de oficio y asistentes jurídicos serán corregidos disciplinariamente por el Director del Instituto de Defensoría Pública del Estado de Quintana Roo, cuando medie causa justificada para ello, entendiéndose por corrección disciplinaria para efecto de ese artículo, lo siguiente:
+Los Defensores Públicos y Asistentes Jurídicos serán corregidos disciplinariamente por el Director del Instituto de Defensoría Pública del Estado de Quintana Roo, cuando medie causa justificada para ello, entendiéndose por corrección disciplinaria para efecto de ese artículo, lo siguiente:
 
 I. Llamada de atención verbal o exhortación;
 
@@ -389,9 +499,11 @@ También serán causas de responsabilidad para cualquier servidor del Instituto 
 
 #### SECCIÓN III. De las Excusas
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 29.
 
-Los defensores de oficio y asistentes jurídicos deberán excusarse de aceptar la asignación o designación representativa de alguna persona con motivo de su cargo:
+Los Defensores Púbicos y Asistentes Jurídicos deberán excusarse de aceptar la asignación o designación representativa de alguna persona con motivo de su cargo:
 
 I. Por existir relación de afecto, amistad o enemistad con la parte demandante u ofendido;
 
@@ -402,6 +514,66 @@ III. Cuando sufriere ofensas directas de la persona a quien ha de representar;
 IV. Cuando dentro del mismo asunto en materia penal, sean dos o más los presuntos indiciados que deba representar, siempre que entre éstos existan posturas contrapuestas respecto de los mismos hechos, debiendo excusarse respecto de la segunda designación. En las materias civil y familiar, siempre que concurran en una sola persona intereses contrarios; y
 
 V. Cuando la persona representada hubiere nombrado defensor particular y no abre en autos la revocación del mismo previo requerimiento judicial.
+
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 25 DE FEBRERO DE 2011)</small>
+
+### CAPÍTULO VIII. Del Servicio Profesional de Carrera de Defensor Público y Asistente Jurídico
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 25 DE FEBRERO DE 2011)</small>
+
+#### SECCIÓN I. Disposiciones Generales
+
+> <small>(ADICIONADO, P.O. 25 DE FEBRERO DE 2011)</small>
+
+###### Artículo 30.
+
+El sistema de servicio profesional de carrera para los Defensores públicos y Asistentes Jurídicos, comprende la selección, ingreso, adscripción, permanencia, promoción, capacitación, prestaciones, estímulos y sanciones. Este servicio profesional de carrera se regirá por esta ley, la ley Orgánica del Poder Judicial del Estado y por las disposiciones generales que dicte el Consejo de la Judicatura del Estado.
+
+Comprende las categorías siguientes:
+
+I. Defensor Público y Asistente Jurídico;
+
+II. Visitador de Área;
+
+III. Coordinador de Zona;
+
+IV. Coordinador General.
+
+> <small>(ADICIONADO, P.O. 25 DE FEBRERO DE 2011)</small>
+
+###### Artículo 31.
+
+Los principios que tutelan el servicio profesional de carrera para los Defensores Públicos y Asistentes Jurídicos son: excelencia, profesionalismo, objetividad, imparcialidad, independencia, perseverancia, cursos de actualización acreditados, disciplina en la institución y antigüedad.
+
+La selección y el ingreso a la Institución, se realizan aplicando los lineamientos aprobados por el Consejo de la Judicatura del Estado, de conformidad a esta Ley, y a la Ley Orgánica del Poder Judicial del Estado.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 25 DE FEBRERO DE 2011)</small>
+
+#### SECCIÓN II
+
+De Terminación del Servido Profesional de Carrera de Defensor Público y Asistente Jurídico.
+
+> <small>(ADICIONADO, P.O. 25 DE FEBRERO DE 2011)</small>
+
+###### ARTÍCULO 32.
+
+La terminación del Servicio Profesional de Carrera del Instituto será:
+
+I. Ordinaria, que comprende:
+
+a) La renuncia;
+
+b) La incapacidad permanente para el desempeño de sus funciones;
+
+c) La jubilación; y
+
+d) La muerte del servidor público.
+
+II. Extraordinaria, que comprende:
+
+a) La separación del servicio por el incumplimiento de los requisitos de ingreso y permanencia en la Institución; y
+
+b) La remoción o suspensión definitiva del cargo, emitida por la instancia competente, conforme a las normas jurídicas que rigen la materia.
 
 ARTÍCULOS TRANSITORIOS:
 
@@ -448,3 +620,9 @@ P.O. 9 DE AGOSTO DE 2010.
 TRANSITORIO:
 
 ÚNICO.- Publíquese el presente Decreto en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 25 DE FEBRERO DE 2011.
+
+PRIMERO.- Estas reformas a la ley de Defensoría Pública del Estado de Quintana Roo entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que contravengan al presente Decreto.
