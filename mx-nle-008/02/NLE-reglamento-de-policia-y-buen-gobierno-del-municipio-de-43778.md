@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-policia-y-buen-gobierno-del-municipio-de-43778"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-02-14"
-last_updated: "2005-02-14"
+last_updated: "2011-02-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43778&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ state: "NLE"
 
 REGLAMENTO DE POLICIA Y BUEN GOBIERNO DEL MUNICIPIO DE BUSTAMANTE, NUEVO LEON
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE POLICIA Y BUEN GOBIERNO, PUBLICADO EN EL P.O. EL 25 DE FEBRERO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: DEROGADA.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 14 de febrero de 2005.
 
@@ -582,3 +584,11 @@ PRESIDENTE MUNICIPAL
 C. PROFR. JESÚS MARÍA AGUILAR VILLARREAL.
 
 SECRETARIO DEL R. AYUNTAMIENTO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 25 DE FEBRERO DE 2011.
+
+PRIMERO.- El presente Reglamento entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se deroga el Reglamento de Policía y Buen Gobierno del Municipio de Bustamante, Nuevo León, publicado en el Periódico Oficial del Estado del día 14 de Febrero de 2005, sus reformas y demás disposiciones que se opongan al presente Reglamento.
