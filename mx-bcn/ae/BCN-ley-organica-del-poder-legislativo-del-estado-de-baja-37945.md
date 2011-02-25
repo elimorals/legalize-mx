@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-poder-legislativo-del-estado-de-baja-37945"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-06-25"
-last_updated: "2010-12-17"
+last_updated: "2011-02-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37945&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE FEBRERO DE 2011.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el martes 25 de junio de 2002.
 
@@ -833,7 +833,9 @@ Las Comisiones de dictamen legislativo son:
 
 8. Gobernación, Legislación y Puntos Constitucionales;
 
-9. Infraestructura, Comunicaciones y Transportes;
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2011)</small>
+
+9. Desarrollo Metropolitano, Conurbación, Infraestructura, Comunicaciones y Transportes;
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE DICIEMBRE DE 2010)</small>
 
@@ -925,7 +927,9 @@ d) Comisión Jurisdiccional ser la responsable de dictaminar la procedencia pena
 
 e) Comisión de Justicia analizar y sugerir los dictámenes sobre las proposiciones e iniciativas de ley o decreto que le sean turnadas, proponer e impulsar todos aquellos asuntos legislativos tendientes a garantizar la equidad y la justicia social, condición indispensable para la preservación del Estado de derecho.
 
-f) Comisión de Infraestructura, Comunicaciones y Transportes el desahogo de las iniciativas de ley y proposiciones relacionadas con la materia de infraestructura, comunicaciones y transportes, así como para la formulación de pronunciamientos políticos, el establecimiento de acuerdos y evaluación de las políticas públicas, a fin de establecer los mecanismos necesarios de coordinación y de suma de esfuerzos necesarios para generar las condiciones que permitan el desarrollo del Estado.
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2011)</small>
+
+f) Comisión de Desarrollo Metropolitano, Conurbación, Infraestructura, Comunicaciones y Transportes; el desahogo de las iniciativas de ley y proposiciones relacionadas con la materia de desarrollo metropolitano, conurbación, infraestructura, comunicaciones y transportes, así como para la formulación de pronunciamientos políticos, el establecimiento de acuerdos y evaluación de las políticas públicas, a fin de establecer los mecanismos necesarios de coordinación y de suma de esfuerzos necesarios para generar las condiciones que permitan el desarrollo del Estado.
 
 g) Comisión de Medio Ambiente, Recursos Naturales y Desarrollo Sustentable analizar, dictaminar y proponer los acuerdos e iniciativas de su materia; y, resolver las denuncias y peticiones ciudadanas que le son presentadas, así como presentar soluciones concretas a los problemas que le sean comunicados por parte de los peticionarios, todo con el fin de alcanzar el desarrollo sustentable en el Estado.
 
@@ -2478,3 +2482,9 @@ PRIMERO.- Se derogan todas las disposiciones que contravengan al presente Decret
 SEGUNDO.- Publíquense las presentes Reformas en el Periódico Oficial del Estado de Baja California.
 
 TERCERO.- Las reformas al artículo 88 contenidas en el presente Decreto entrarán en vigor hasta en tanto sean aprobadas las reformas al artículo 22 de la Constitución Política del Estado Libre y Soberano de Baja California, de conformidad al procedimiento establecido en el artículo 112 constitucional.
+
+P.O. 25 DE FEBRERO DE 2011.
+
+PRIMERO.- La presente Reforma entrará en vigor al día siguiente de su aprobación por el Pleno del Congreso.
+
+SEGUNDO.- Túrnese la presente reforma al Periódico Oficial del Estado de Baja California, para su publicación.
