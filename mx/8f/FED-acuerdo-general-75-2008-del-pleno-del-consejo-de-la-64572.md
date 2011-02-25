@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-75-2008-del-pleno-del-consejo-de-la-64572"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2008-12-04"
-last_updated: "2009-06-17"
+last_updated: "2011-02-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64572&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2008-11-26"
 
 ACUERDO GENERAL 75/2008, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE CREAN JUZGADOS FEDERALES PENALES ESPECIALIZADOS EN CATEOS, ARRAIGOS E INTERVENCION DE COMUNICACIONES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE JUNIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 25 DE FEBRERO DE 2011.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 4 de diciembre de 2008.
 
@@ -75,9 +75,13 @@ Los Jueces Federales Penales que sean adscritos a los órganos jurisdiccionales 
 
 De la competencia y funcionamiento de los Jueces Federales Penales Especializados en Cateos, Arraigos e Intervención de Comunicaciones.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO POR EL PUNTO UNICO DEL ACUERDO GENERAL 6/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 25 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 5.
 
-Los Jueces Federales Penales Especializados serán competentes para conocer y resolver las peticiones que, en toda la República, solicite el Ministerio Público de la Federación en la etapa de averiguación previa que se refieran a:
+Los Jueces Federales Penales Especializados serán competentes para conocer y resolver las peticiones que, en toda la República solicite el Ministerio Público de la Federación en la etapa de averiguación previa que se refieran a:
 
 I. Cateo;
 
@@ -93,11 +97,19 @@ a) De la intervención de comunicaciones que sean formuladas por el Centro de In
 
 b) De la autorización que pida la Policía Federal para solicitar por escrito a los concesionarios, permisionarios, operadoras telefónicas y todas aquellas comercializadoras de servicios en materia de telecomunicaciones, de sistemas de comunicación vía satélite, la información con que cuenten, así como la georreferenciación de los equipos de comunicación móvil en tiempo real, de acuerdo a la ley que la rige.
 
-> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO NUMERO 25/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE JUNIO DE 2009)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA] POR EL PUNTO UNICO DEL ACUERDO GENERAL 6/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 25 DE FEBRERO DE 2011)</small>
+
+IV. Autorización para requerir a los concesionarios de redes públicas de telecomunicaciones y a las empresas comercializadoras de servicios de telecomunicaciones, en términos del artículo 25 de la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 6/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 25 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 6.
 
-Para la solicitud y resolución de las medidas previstas en este acuerdo general, así como los plazos a observar y el procedimiento en general, incluida la verificación de su ejecución, se estará a lo dispuesto por el Código Federal de Procedimientos Penales, la Ley Federal contra la Delincuencia Organizada, la Ley de Seguridad Nacional y la Ley de la Policía Federal.
+Para la solicitud y resolución de las medidas previstas en este acuerdo general, así como los plazos a observar y el procedimiento en general, incluida la verificación de su ejecución, se estará a lo dispuesto por el Código Federal de Procedimientos Penales, la Ley Federal contra la Delincuencia Organizada, la Ley de Seguridad Nacional, la Ley de la Policía Federal y la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro.
 
 > <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO NUMERO 25/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE JUNIO DE 2009)</small>
 
@@ -135,6 +147,12 @@ El Ministerio Público de la Federación, el Centro de Investigación y Segurida
 
 Artículo 10 bis. La Policía Federal, por conducto de su Comisionado General, podrá solicitar al Juez Federal Penal Especializado en turno, la autorización para requerir por escrito a los concesionarios, permisionarios, operadoras telefónicas y todas aquellas comercializadoras de servicios en materia de telecomunicaciones, de sistemas de comunicación vía satélite, la información con que cuenten y la georreferenciación de los equipos de comunicación móvil en tiempo real.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 6/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 25 DE FEBRERO DE 2011)</small>
+
+Artículo 10 ter. El Ministerio Público de la Federación podrá solicitar al Juez Federal Penal Especializado en turno, la autorización para requerir a los concesionarios de redes públicas de telecomunicaciones y a las empresas comercializadoras de servicios de telecomunicaciones, en términos del artículo 25 de la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro.
+
 ###### Artículo 11.
 
 La solicitud deberá presentarse a través del sistema informático que permita hacer llegar, por medios electrónicos, todos esos pedimentos al Juzgado Federal Penal Especializado en turno.
@@ -145,19 +163,21 @@ De igual manera, las pruebas o datos que el solicitante estime necesarias para s
 
 De la Resolución a la Solicitud de Cateo, Arraigo o Intervención de Comunicaciones.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 6/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 25 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 12.
 
-El Juez Federal Penal Especializado deberá resolver, antes de que termine su turno, sobre la procedencia del cateo, arraigo o intervención de comunicaciones que le hayan sido solicitados.
+El Juez Federal Penal Especializado deberá resolver, antes de que termine su turno, sobre la procedencia de las medidas cautelares o precautorias precisadas en los artículo 5 y 10 ter de este Acuerdo que le hayan solicitado.
 
-En el expediente que se forme para el trámite del pedimento de que se trate, se integrará versión escrita de la determinación emitida por el Juzgador Federal Penal Especializado, la constancia de su notificación y en su caso, los informes que el solicitante haga llegar.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO POR EL PUNTO UNICO DEL ACUERDO NUMERO 25/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 6/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 25 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 13.
 
-Tan luego se firme y autorice la resolución que conceda o niegue el cateo, arraigo, intervención de comunicaciones o la solicitud a que se refiere el artículo 10 bis de este acuerdo, deberá incorporarse al sistema electrónico con la finalidad de que, además del juez que la dictó, sólo esté disponible para el personal autorizado por la Procuraduría General de la República, por el Director General del Centro de Investigación y Seguridad Nacional, y por el Comisionado General de la Policía Federal, quienes podrán obtener copia electrónica inmodificable para realizar la impresión correspondiente.
-
-Para todos los efectos legales a que haya lugar, la primera consulta que el solicitante haga de ese archivo electrónico deberá ser registrada mediante la clave aleatoria digitalizada (firma electrónica) que genere automáticamente el sistema, con lo que se tendrá por hecha la notificación de conformidad con el artículo 111 del Código Federal de Procedimientos Penales, y en términos del convenio correspondiente.
+Tan luego se firme y autorice la resolución que conceda o niegue el cateo, arraigo, intervención de comunicaciones o la solicitud a que se refieren los artículos 10 bis y 10 ter de este acuerdo, deberá incorporarse al sistema electrónico con la finalidad de que, además del juez que la dictó, sólo esté disponible para el personal autorizado por la Procuraduría General de la República, por el Director General del Centro de Investigación y Seguridad Nacional, y por el Comisionado General de la Policía Federal, quienes podrán obtener copia electrónica inmodificable para realizar la impresión correspondiente.
 
 ###### Artículo 14.
 
@@ -218,3 +238,13 @@ SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así c
 TERCERO. Hasta en tanto no se establezca a través del convenio correspondiente el sistema informático que permita hacer llegar, por medio electrónico, a la Policía Federal las solicitudes a que hace referencia este acuerdo, se presentarán por escrito acorde a lo que establece la ley de la materia.
 
 CUARTO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato, el texto de esta reforma, al Acuerdo General 75/2008, del Pleno del Consejo de la Judicatura Federal, por el que se Crean Juzgados Federales Penales Especializados en Cateos, Arraigos e Intervención de Comunicaciones.
+
+D.O.F. 25 DE FEBRERO DE 2011.
+
+PRIMERO. El presente acuerdo entrará en vigor a partir del uno de marzo de dos mil once.
+
+SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO. Hasta en tanto no se establezca a través del convenio correspondiente el sistema informático que permita hacer llegar, por medio electrónico, las solicitudes a que se refiere la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, se presentarán por escrito y ante los Juzgados de Distrito que conozcan de proceso penal federal, quienes seguirán siendo competentes para resolver las mencionadas solicitudes.
+
+CUARTO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de esta reforma, al Acuerdo General 75/2008, del Pleno del Consejo de la Judicatura Federal, por el que se Crean Juzgados Federales Penales Especializados en Cateos, Arraigos e Intervención de Comunicaciones.
