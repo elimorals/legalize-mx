@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-policia-y-buen-gobierno-del-municipio-de-43778"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-02-14"
-last_updated: "2005-02-14"
+last_updated: "2011-02-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43778&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,562 +23,1650 @@ state: "NLE"
 ---
 # REGLAMENTO DE POLICIA Y BUEN GOBIERNO DEL MUNICIPIO DE BUSTAMANTE, NUEVO LEON
 
-REGLAMENTO DE POLICIA Y BUEN GOBIERNO DEL MUNICIPIO DE BUSTAMANTE, NUEVO LEON
+LEY NÚMERO 843 DE TURISMO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE MAYO DE 2021.
 
-Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 14 de febrero de 2005.
+Ley publicada en el Número Extraordinario a la Gaceta Oficial del Estado de Veracruz, el martes 10 de agosto de 2010.
 
-EL C. JOSÉ BALDEMAR GÓMEZ RODRÍGUEZ, PRESIDENTE MUNICIPAL DE BUSTAMANTE, NUEVO LEON, A TODOS LOS HABITANTES DE ESTE MUNICIPIO, HACE SABER:
+Fidel Herrera Beltrán, Gobernador del Estado Libre y Soberano de Veracruz de Ignacio de la Llave, a sus habitantes sabed:
 
-QUE EL R. AYUNTAMIENTO DE BUSTAMANTE, NUEVO LEON, EN SESION ORDINARIA CELEBRADA EL DIA 31 DEL MES DE ENERO DEL 2005, CON FUNDAMENTO EN LOS ARTICULOS 26 INCISO A, FRACCION VII, INCISO C, FRACCION VI, 27 FRACCION IV, Y DEL 160 AL 167 DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA MUNICIPAL DEL ESTADO DE NUEVO LEON, ACORDO LA APROBACION Y EXPEDICION DEL REGLAMENTO DE POLICIA Y BUEN GOBIERNO PARA ESTE MUNICIPIO.
+Que la Sexagésima Primera Legislatura del Honorable Congreso del Estado se ha servido dirigirme el siguiente Decreto para su promulgación y publicación:
 
-REGLAMENTO DE POLICIA Y BUEN GOBIERNO
+Al margen un sello que dice: Estados Unidos Mexicanos.- Poder Legislativo.- Estado Libre y Soberano de Veracruz de Ignacio de la Llave.
 
-### CAPITULO PRIMERO. DISPOSICIONES GENERALES
+La Sexagésima Primera Legislatura del Honorable Congreso del Estado Libre y Soberano de Veracruz de Ignacio de la Llave, en uso de la facultad que le confieren los artículos 33 fracción I y 38 de la Constitución Política local; 18 fracción I y 47 segundo párrafo de la Ley Orgánica del Poder Legislativo; 75 y 76 del Reglamento para el Gobierno Interior del Poder Legislativo; y en nombre del pueblo, expide la siguiente:
 
-###### ARTÍCULO 1.
+Ley número 843 de Turismo del Estado de Veracruz de Ignacio de la Llave.
 
-El Presente Reglamento es de interés público y de observancia general para toda persona que habite o transite por este Municipio y tiene por objeto el preservar, mantener y conservar el orden público, la seguridad y tranquilidad de las personas, y el exacto cumplimiento de las disposiciones normativas contenidas en los demás Reglamentos Municipales.
+## TÍTULO PRIMERO. Disposiciones generales
 
-###### ARTÍCULO 2.
+### CAPÍTULO I. Ámbito de aplicación
 
-Toda conducta que se oponga o contravenga a cualquiera de los fines señalados en el artículo que antecede, será considerada como infracción, y se sancionará en los términos de este Reglamento.
+> <small>(REFORMADO, G.O. 31 DE JULIO DE 2013)</small>
 
-### CAPITULO SEGUNDO. DE LAS INFRACCIONES
+###### Artículo 1.
 
-###### ARTÍCULO 3.
+La presente Ley es de orden público, interés social y observancia general en el Estado de Veracruz de Ignacio de la Llave en materia de turismo, y su aplicación corresponde al titular del Ejecutivo, por conducto de la Secretaría de Turismo y Cultura, y a los Ayuntamientos.
 
-Para efectos de este Reglamento, se estimará como lugar público todo espacio de uso común o libre de tránsito, inclusive las plazas, los jardines, los mercados, los inmuebles de recreación general, estacionamientos públicos y privados en áreas de acceso general al público, inmuebles públicos, áreas comunes en inmuebles sujetos al régimen de propiedad en condominio, los transportes de servicio público y similares.
+###### Artículo 2.
 
-### CAPITULO TERCERO. DE LAS SANCIONES
+La interpretación en el ámbito administrativo de la presente Ley es facultad del Ejecutivo del Estado, de los presidentes municipales y de los tribunales competentes, cuando así corresponda.
 
-###### ARTÍCULO 4.
+### CAPÍTULO II. Objeto de la Ley
 
-Es deber de todo ciudadano, dentro de sus posibilidades y sin menoscabo de sus derechos, colaborar con las autoridades a solicitud de éstas, para el cumplimiento de los objetivos indicados en el artículo primero de este Reglamento.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE MAYO DE 2021)</small>
 
-### CAPITULO CUARTO. DEL PROCEDIMIENTO PARA CALIFICAR LAS INFRACCIONES
+###### Artículo 3.
 
-###### ARTÍCULO 5.
+La presente ley tiene por objeto:
 
-Se concede acción popular, a fin de que cualquier persona denuncie ante las autoridades municipales, las conductas que infrinjan este Reglamento, o cualquier otro de carácter municipal.
+I. Establecer las políticas públicas en materia de turismo en el Estado;
 
-### CAPITULO QUINTO. DE LAS INFRACCIONES COMETIDAS POR MENORES DE EDAD
+II. Establecer las bases generales de coordinación entre el Ejecutivo Federal, el Estado y los Ayuntamientos, sobre las facultades concurrentes establecidas en la Ley General de Turismo, así como elevar la participación de los sectores social y privado del Estado en la actividad turística;
 
-###### ARTÍCULO 6.
+> <small>(REFORMADA, G.O. 11 DE MAYO DE 2021)</small>
 
-Son autoridades facultadas para la aplicación del presente Reglamento las siguientes:
+III. Dictar las bases para la política, planeación, continuidad y programación de la actividad turística, bajo criterios de beneficio social, sustentabilidad, competitividad y desarrollo equilibrado del Estado y de los municipios, a corto, mediano y largo plazos;
 
-I. El C. Presidente Municipal;
+IV. Establecer los lineamientos que regirán la actividad turística en el Estado;
 
-II. El C. Secretario del R. Ayuntamiento;
+V. Determinar las dependencias, entidades y órganos colegiados que serán autoridad en la materia;
 
-III. El C. Tesorero Municipal;
+VI. Establecer la participación estatal y de los Ayuntamientos en la operación de las Zonas de Desarrollo Turístico Sustentable;
 
-IV. El C. Comandante de Policía y Tránsito;
+VII. Elevar la calidad y competitividad de los servicios turísticos;
 
-V. Los CC. Elementos de Policía y Tránsito Municipales debidamente autorizados;
+VIII. Profesionalizar los recursos humanos que presten servicios turísticos;
 
-VI. El responsable del área de celdas municipales; y
+IX. Promover e incentivar entre la población la cultura turística;
 
-VII. Todos aquellos Servidores Públicos a quienes se les otorgue facultades para la aplicación del presente Reglamento.
+X. Fomentar la inversión pública, privada y social en el sector turístico e impulsar la modernización de la actividad, a partir de la conservación, mejoramiento y uso sustentable de los atractivos turísticos; y
 
-### CAPITULO SEXTO. DEL RECURSO DE INCONFORMIDAD
+XI. Definir los lineamientos para la prestación de servicios turísticos, así como los derechos y obligaciones de los turistas.
 
-###### ARTÍCULO 7.
+### CAPÍTULO III. Glosario de términos
 
-Será facultad exclusiva de la Tesorería Municipal el cobro de las multas impuestas por infracción al presente Reglamento; así como proveer y disponer del recurso material y humano para llevar a cabo esta función.
+###### Artículo 4.
 
-###### ARTÍCULO 8.
+Para los efectos de esta Ley, se entenderá por:
 
-El Comandante de Policía y Tránsito o quien éste designe, tendrá las siguientes atribuciones y responsabilidades:
+I. Actividades turísticas: Las que realiza toda persona durante sus viajes y estancias temporales en lugares distintos al de su entorno habitual;
 
-I. Conocer, calificar y sancionar las infracciones al presente Reglamento y a los demás reglamentos municipales, en su calidad de auxiliar del Presidente Municipal;
+II. Atractivo turístico: El sitio que, por su interés o relevancia histórica, socioeconómica o belleza natural, representa un atractivo para motivar un viaje turístico hacia una localidad;
 
-II. Ejercer funciones de conciliación y prevención en relación con los asuntos sometidos a su conocimiento;
+III. Certificación Laboral Veracruz Turístico: El conjunto de normas estatales que establecen estándares de calidad mundial para los servicios turísticos en el Estado;
 
-III. Ejercer funciones de conciliación, cuando por motivo de faltas al presente Reglamento, se causen daños y los interesados estén de acuerdo en someterse a su decisión siempre y cuando no se trate de la comisión de un delito;
+IV. Comisión: La Comisión Ejecutiva para el Fomento del Turismo de Veracruz;
 
-IV. Poner a disposición de las autoridades competentes a los detenidos, cuando se trate de la comisión de un delito;
+> <small>(ADICIONADA, G.O. 29 DE JULIO DE 2013)</small>
 
-V. Poner a disposición de las autoridades competentes, a los menores que hayan sido detenidos;
+IV. Bis. Comunidad turística: Relaciones y manifestaciones generadas entre los diversos actores sociales, en sus tres elementos: gobierno, prestadores de servicios turísticos, así como la comunidad anfitriona, que convergen, aportan y se ven afectados por la actividad turística, con el propósito de organizarse para fomentar y perfeccionar dicha actividad, en busca de ofrecer un servicio turístico integral;
 
-VI. Llevar un registro de todas las personas puestas a su disposición; y
+V. Consejo: El Consejo Consultivo de Turismo Estatal;
 
-VII. Las demás que le confieren las leyes o los reglamentos.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 11 DE AGOSTO DE 2014)</small>
 
-###### ARTÍCULO 9.
+VI. Consejo Municipal: Cada uno de los Consejos Consultivos de los municipios con vocación turística de la Entidad;
 
-Son atribuciones y responsabilidades del área de celdas municipales:
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 11 DE AGOSTO DE 2014)</small>
 
-I. Acatar las ordenes y/o disposiciones emanadas del Presidente Municipal, Secretario del Ayuntamiento, y Comandante de Policía y Tránsito;
+VII. Consejo Regional: El que se integre en una región turística de las que señala esta Ley o en una región geográfica específica para el desarrollo de rutas y productos turísticos;
 
-II. Despachar los asuntos que le sean encomendados por las diversas autoridades;
+VIII. Destino turístico: El lugar que ofrece atractivos turísticos, instalaciones y servicios para atender los requerimientos de sus visitantes, y que un turista o grupo de turistas escoge para visitar o que los proveedores deciden promocionar;
 
-III. Elaborar las boletas de remisión en las cuales se indicarán los datos personales, motivos y hora de arresto, para el envío de los arrestados a la Autoridad que corresponda;
+IX. Diagnóstico de la vocación turística de los municipios: El documento para analizar los indicadores de atracción turística, servicios, infraestructura y superestructura, mediante los cuales se determinará la sustentabilidad turística de los municipios, que contendrá también el inventario de proyectos, la relación de los prestadores de servicios turísticos, un estudio de la demanda turística local y una relación de otros factores que incentiven la actividad turística, a fin de planear, programar, gestionar y evaluar el desarrollo turístico municipal;
 
-IV. Custodiar a los arrestados;
+X. Estado: El Estado Libre y Soberano de Veracruz de Ignacio de la Llave;
 
-V. Mantener el orden y las disciplina entre los arrestados;
+XI. Fondo: El Fondo de Garantía para la Promoción de la Actividad Turística y Cultural del Estado, integrado con aportaciones estatales, municipales y fondos de apoyo internacional, que tendrá como finalidad la implantación de programas de fomento y desarrollo del turismo, así como apoyar la generación de micro, pequeñas y medianas empresas turísticas y culturales en el Estado;
 
-VI. Proporcionar a los arrestados una alimentación de buena calidad;
+XII. Índice de Vocación Turística: El conjunto de variables de sustentabilidad, que permitirán definir el potencial turístico de los municipios del Estado;
 
-VII. Tomar las medidas pertinentes para la conservación de edificios, instalaciones, Muebles y equipo de oficina;
+XIII. Infraestructura: El conjunto de obras y servicios que sirven de base para promover el desarrollo socioeconómico en general, entre los que se encuentran: vías de comunicación, carreteras, parques, energía eléctrica, agua potable y saneamiento, entre otros;
 
-VIII. Darle buen trato a los arrestados, así como informarle a los mismos, el derecho que tienen a una llamada telefónica;
+XIV. Inventario municipal de proyectos: El documento con la relación de proyectos de infraestructura pública para el fortalecimiento del turismo en los municipios del Estado, que será parte del diagnóstico para determinar el Índice de Vocación Turística de cada municipio, y que facilitará que la actividad turística cumpla más eficazmente su papel como agente detonador de las economías locales;
 
-IX. Mantener la limpieza en la cárcel municipal;
+XV. Inventario de atractivos turísticos: El conjunto de riquezas y lugares que representen centros de atracción para visitantes;
 
-X. Constituirse en depositario de las pertenencias, bienes u objetos que le sean recogidos previo recibo que se entregue a los arrestados, todo lo cual devolverá al momento de que sean puestos en libertad;
+XVI. Ley: La Ley de Turismo del Estado de Veracruz de Ignacio de la Llave;
 
-XI. Llevar un libro de registro de las personas detenidas en el que por orden cronológico y en forma numerada, se asienten los datos relacionados con la identidad de las personas, así como el motivo o motivos de su detención;
+XVII. Ley General: La Ley General de Turismo;
 
-XII. Las demás que le señalen las leyes y reglamentos aplicables.
+XVIII. Mercado turístico: El marco dinámico donde el producto turístico es el planteamiento básico en el que se ofrecen y se demandan bienes y servicios turísticos;
 
-###### ARTÍCULO 10.
+XIX. Municipio con vocación turística: Aquel que cumple con los parámetros establecidos en el Índice de Vocación Turística;
 
-Se consideran infracciones, todas aquéllas acciones y omisiones que contravengan las disposiciones de éste y demás Reglamentos Municipales y serán aplicadas sin perjuicio de las responsabilidades civiles o penales que le resulten al infractor.
+> <small>(REFORMADA, G.O. 10 DE SEPTIEMBRE DE 2020)</small>
 
-### CAPITULO SÉPTIMO. PROCEDIMIENTO DE REVISION Y CONSULTA
+XX. Prestadores de servicios turísticos: Quienes ofrezcan, proporcionen o contraten servicios para las y los visitantes, incluyendo los ofertados por medio de aplicaciones, redes sociales, plataformas digitales o cualquier otro medio de aplicación similar.
 
-###### ARTÍCULO 11.
+Se entiende por plataforma digital la aplicación tecnológica mediante la cual la persona física o moral administradora opera en su carácter de gestor, intermediario, promotor, facilitador o cualquier otra actividad análoga, que permite a las y los usuarios contratar servicios de hospedaje;
 
-Para los efectos del presente Reglamento, las infracciones son:
+XXI. Producto turístico: El conjunto de componentes tangibles e intangibles que incluyen recursos, atractivos, equipamiento, infraestructura y servicios que, al estar disponibles para su comercialización, ofrecen beneficios capaces de atraer a grupos determinados de consumidores;
 
-I. Al Orden Público;
+XXII Programa Sectorial: El Programa Veracruzano de Turismo, Cultura y Cinematografía;
 
-II. A la Seguridad de la Población;
+XXIII. Programa de Ordenamiento: El Programa de Ordenamiento Turístico del Territorio del Estado, considerado el instrumento de la política turística, concebido con un enfoque socioeconómico, ambiental y territorial, cuya finalidad es conocer e inducir el uso de suelo y las actividades productivas adecuadas, con el propósito de lograr el aprovechamiento ordenado y sustentable de los recursos turísticos, de conformidad con las disposiciones jurídicas aplicables en materia de medio ambiente y asentamientos humanos;
 
-III. A la Moral y a las Buenas Costumbres;
+XXIV. Programa Regional: El Programa de Ordenamiento Turístico Regional en el Estado;
 
-IV. Al Derecho de Propiedad;
+> <small>(ADICIONADA, G.O. 31 DE ENERO DE 2017)</small>
 
-V. Al Ejercicio del Comercio y del Trabajo;
+XXIV Bis. Pueblo Mágico: Es todo aquel municipio que cuenta con el nombramiento y cumple con los requisitos de permanencia que establece la Secretaría de Turismo Federal, y que tiene atributos simbólicos, leyendas, historias, hechos trascendentes que a través del tiempo y ante la modernidad, ha conservado su valor y herencia cultural, y que significa en la actualidad una gran oportunidad para el aprovechamiento turístico.
 
-VI. Contra la Salud; y
+XXV. Región turística: El área geográfica que puede abarcar el territorio de dos o más municipios, los cuales se complementan por la cercana distancia de los atractivos turísticos y sus servicios;
 
-VII. Contra la Ecología.
+XXVI. Registro Nacional de Turismo: El catálogo público de prestadores de servicios turísticos en el país;
 
-###### ARTÍCULO 12.
+XXVII. Ruta turística: El circuito temático o geográfico basado en el patrimonio natural o cultural de una zona, que es promocionado como un producto turístico;
 
-Son Infracciones al Orden Público:
+> <small>(REFORMADA, G.O. 31 DE JULIO DE 2013)</small>
 
-I. Romper, alterar o mutilar las boletas de infracciones o cualquier tipo de notificación que sea realizada por parte de la Autoridad Municipal;
+XXVIII. Reglamento Interior: El Reglamento Interior de la Secretaría de Turismo y Cultura;
 
-II. Causar o provocar escándalo en lugares públicos;
+> <small>(REFORMADA, G.O. 31 DE JULIO DE 2013)</small>
 
-III. Pronunciar en lugares públicos, expresiones injuriosas, despectivas o que ataquen a la moral que alteren el orden público;
+XXIX. Secretaría: La Secretaría de Turismo y Cultura del Estado de Veracruz de Ignacio de la Llave;
 
-IV. Molestar o alterar el orden en la vía pública o lugares públicos;
+XXX. Secretaría Federal: La Secretaría de Turismo del Gobierno Federal;
 
-V. Ingerir bebidas alcohólicas en la vía pública o lugares públicos no permitidos;
+XXXI. Segmento Turístico: La división del mercado en grupos de consumidores relativamente homogéneos, que exigen estrategias de mercadotecnia diferenciadas para satisfacer sus necesidades y conseguir los objetivos comerciales de las empresas turísticas;
 
-VI. Consumir o intoxicarse con drogas o tóxicos;
+XXXII. Turismo Sustentable: Aquel que cumple con las directrices siguientes:
 
-VII. Participar en riñas o provocarlas, en la vía pública, lugares públicos, en espectáculos o reuniones públicas;
+a) Dar un uso óptimo a los recursos ambientales, que son un elemento fundamental del desarrollo turístico, manteniendo los procesos ecológicos esenciales y ayudando a conservar los recursos naturales y la diversidad biológica.
 
-VIII. Realizar manifestaciones o cualquier otro acto público en contravención a lo preceptuado en el artículo 9° de la Constitución Política del Estado;
+b) Respetar la autenticidad sociocultural de las comunidades anfitrionas, conservar sus activos culturales arquitectónicos y sus valores tradicionales y contribuir al entendimiento y a las tolerancias interculturales.
 
-IX. Efectuar bailes en domicilio particular para el público en general con fines lucrativos sin previo permiso de la Autoridad competente;
+c) Asegurar actividades económicas viables a largo plazo, que reporten a todos los agentes beneficios socioeconómicos bien distribuidos, entre los que se cuenten oportunidades de empleo estable y de obtención de ingresos y servicios sociales para las comunidades anfitrionas y que contribuyan a la reducción de la pobreza;
 
-X. Causar ruidos o sonidos que molesten, perjudique o afecte la tranquilidad de uno o más vecinos;
+XXXIII. Turista: El visitante nacional o internacional que permanece una noche, por lo menos, en un medio de alojamiento ubicado en el Estado;
 
-XI. Efectuar bailes en salones, clubes y centros sociales sin el permiso correspondiente;
+XXXIV. Visitante: Toda persona, ya sea turista o excursionista, que se desplaza a un lugar distinto al de su entorno habitual por una duración inferior a doce meses, y cuyo viaje no tenga como finalidad principal ejercer una actividad que se remunere en el lugar o país visitado; y
 
-XII. Permitir, tolerar o promover cualquier tipo de juego de azar en los cuales se crucen apuestas sin el permiso de la Autoridad correspondiente; y
+> <small>(ADICIONADA, G.O. 29 DE NOVIEMBRE DE 2018)</small>
 
-XIII. Impedir, dificultar o entorpecer la correcta prestación de los servicios públicos municipales.
+XXXIV. Bis. Visitante Estatal: Toda aquella persona que, por nacimiento o por ser avecindado, tenga como finalidad el realizar una actividad turística e incentivar la economía local;
 
-###### ARTÍCULO 13.
+XXXV. Zonas de Desarrollo Turístico Sustentable: Las declaradas como tales en el Estado por el Ejecutivo Federal, las que, por sus características naturales o culturales, constituyen un atractivo turístico.
 
-Son Infracciones a la Seguridad de la Población:
+> <small>(ADICIONADA, G.O. 27 DE JUNIO DE 2012)</small>
 
-I. Oponerse o resistirse a un mandato legítimo de cualquier Autoridad, ya sea Federal, Estatal o Municipal;
+XXXVI. Zonas Turísticas Culturales. Conjunto de municipios o zonas geográficas que, por sus características socioculturales, comparten una vocación turística en común.
 
-II. Utilizar la vía pública o lugares no autorizados para efectuar juegos de cualquier clase;
+## TÍTULO SEGUNDO. De las competencias de las autoridades
 
-III. Hacer uso de banquetas, calles, plazas o cualquier otro lugar público para la exhibición o venta de mercancías o para el desempeño de trabajos particulares, sin la autorización o el permiso correspondiente;
+### CAPÍTULO I. De las atribuciones del Estado
 
-IV. Arrojar a la vía pública o lotes baldíos, objetos que puedan causar daño o molestias a los vecinos, transeúntes o vehículos;
+###### Artículo 5.
 
-V. Dañar en cualquier forma bienes muebles o inmuebles pertenecientes a terceros;
+Son atribuciones del Estado, que se ejercerán a través de la Secretaría:
 
-VI. Disparar armas de fuego en las vías o lugares públicos;
+I. Aplicar los instrumentos de política turística previstos en la presente Ley y en otros ordenamientos relativos, formular la planeación, instrumentar acciones de fomento y evaluarlas, así como consolidar el desarrollo sustentable de la actividad turística que se realice en el territorio del Estado;
 
-VII. Detonar cohetes, hacer fogatas, utilizar combustibles o materiales inflamables, sin la autorización correspondiente;
+II. Celebrar convenios en materia turística con el Gobierno Federal y los Ayuntamientos;
 
-VIII. Participar en grupos que causen molestias a las personas o sus bienes, en lugares públicos o en la proximidad de sus domicilios, o en éstos;
+> <small>(REFORMADA, G.O. 11 DE MAYO DE 2021)</small>
 
-IX. Conducir vehículos, en estado de ebriedad o bajo los efectos de drogas o tóxicos;
+III. Formular y conducir los programas de desarrollo del sector para las regiones turísticas e impulsar la continuidad en programas iniciados vigilando su permanencia y operación;
 
-X. Provocar falsas alarmas en reuniones públicas o privadas;
+IV. Formular, ejecutar y evaluar el Programa Sectorial, de acuerdo con las directrices previstas en los Planes Nacional y Estatal de Desarrollo y en el Programa Nacional de Turismo;
 
-XI. Solicitar con falsas alarmas, los servicios de los elementos de Policía y Tránsito, ambulancias, bomberos o de establecimientos médicos o asistenciales públicos o privados;
+V. Establecer el Consejo;
 
-XII. Dañar o mover las señales públicas del lugar donde hubiesen sido colocadas por la Autoridad;
+VI. Concertar con los sectores público, privado y social las acciones tendentes a detonar programas de desarrollo del sector y a resolver la problemática de la actividad turística del Estado;
 
-XIII. Provocar incendios, derrumbes y demás actividades análogas en sitios públicos o privados;
+VII. Formular, ejecutar y evaluar el Programa de Ordenamiento, con la participación que corresponda a los Ayuntamientos;
 
-XIV. Portar o utilizar objetos o substancias que entrañen peligro de causar daño a las personas, sin permiso de la Autoridad competente. Excepto instrumentos para el desempeño del trabajo, deporte u oficio del portador, o de uso decorativo;
+VIII. Participar en la regulación, administración y vigilancia de las Zonas de Desarrollo Turístico Sustentable en los municipios del Estado, conforme a los convenios que al efecto se suscriban;
 
-XV. Azuzar perros y otros animales con la intención de causar daños o molestias a las personas o sus bienes; y
+IX. Instrumentar las acciones de promoción turística de los destinos y segmentos turísticos existentes;
 
-XVI. Cuando por negligencia o descuido de los propietarios o poseedores de perros u otros animales se causen daños a bienes de terceros.
+X. Participar en ferias y eventos promocionales del sector turístico en los ámbitos estatal, nacional e internacional;
 
-###### ARTÍCULO 14.
+XI. Conducir la política de información y difusión en materia turística en medios locales, nacionales e internacionales;
 
-Son Infracciones a la Moral y Buenas Costumbres:
+XII. Promover el desarrollo de la infraestructura turística del Inventario Municipal de Proyectos, en coordinación con los Ayuntamientos;
 
-I. Dirigirse o asediar a las personas en forma impertinente o mediante frases o ademanes soeces;
+XIII. Impulsar la normalización y certificación estatal de los servicios turísticos que se presten dentro del territorio de Veracruz, en coordinación con las autoridades competentes;
 
-II. El presentar y/o participar en espectáculos en la vía pública cuyo contenido atente contra la moral o las buenas costumbres;
+XIV. Coadyuvar con la Secretaría de Desarrollo Económico y Portuario en las acciones tendentes a fortalecer y promover las micro, pequeñas y medianas empresas turísticas;
 
-III. Incitar a menores a cometer faltas en contra de la moral y de las buenas costumbres;
+XV. Establecer acciones con la Secretaría de Educación y convenios con instituciones académicas, con el objeto de fortalecer, promover y fomentar la investigación, educación y la cultura turística, así como para el diseño y ejecución de proyectos de investigación que permitan el desarrollo turístico sustentable;
 
-IV. Inducir a menores de edad a cometer faltas en contra de las leyes o reglamentos;
+XVI. Participar en programas de acción y atención a la seguridad pública y prevención de emergencias y desastres;
 
-V. Desempeñar en estado de embriaguez o bajo los efectos de alguna droga, actividades en las que exista trato directo al público;
+> <small>(ADICIONADA, G.O. 23 DE NOVIEMBRE DE 2017)</small>
 
-VI. Permitir en lugares donde se consuman bebidas alcohólicas, la estancia o permanencia de menores de edad;
+XVI. Bis. Establecer acciones de coordinación con la Secretaría de Seguridad Pública, con la finalidad de fortalecer y promover los programas y protocolos de atención y protección a turistas;
 
-VII. Sostener relaciones sexuales o actos de exhibicionismo en la vía o lugares públicos;
+XVII. Brindar, en el ámbito de su competencia, orientación y asistencia al visitante, así como atender las quejas que éstos presenten;
 
-VIII. Ejercer la mendicidad;
+XVIII. Atender los asuntos que afecten el desarrollo de la actividad turística de los municipios;
 
-IX. Ejercer la prostitución en la vía o lugares públicos;
+> <small>(REFORMADA, G.O. 10 DE SEPTIEMBRE DE 2020)</small>
 
-X. Faltarle al respeto a los ancianos, niños y mujeres en la vía pública o lugares públicos;
+XIX. Coadyuvar con el Ejecutivo Federal en materia de clasificación de establecimientos de hospedaje y servicios turísticos en los términos de la regulación correspondiente, incluyendo los ofertados por medio de aplicaciones, redes sociales, plataformas digitales o cualquier otro medio de aplicación similar;
 
-XI. Colocar o exhibir cartulinas o pósters que ofendan al pudor o la moral pública;
+XX. Vigilar el cumplimiento de la Ley General, de esta Ley y demás disposiciones reglamentarias que de ellas deriven, en lo que se refiere a los requisitos de operación de los prestadores de servicios turísticos;
 
-XII. Dormir en la vía o lugares públicos;
+XXI. Coordinar con las autoridades federales, por medio de los convenios que se suscriban, la imposición de sanciones por violaciones a la Ley General y a las disposiciones reglamentarias;
 
-XIII. Pernoctar en estado de ebriedad o bajo el influjo de tóxicos, en interiores de vehículos en la vía o sitios públicos;
+XXII. Emitir opiniones a la Secretaría Federal;
 
-XIV. Tratar con excesiva crueldad, abusar de el fin para el que se adquieren, o aprovechar la indefensión de los animales;
+XXIII. Coordinarse con la Secretaría Federal para la implementación de políticas públicas en materia turística;
 
-XV. Exhibir o consultar públicamente, material pornográfico o intervenir en actos de su comercialización o difusión en la vía pública. Los negocios autorizados para manejar este tipo de mercancía, deberán contar con un área reservada a la que no tengan acceso los menores de edad;
+XXIV. Consolidar el Sistema de Información Turística del Estado, con la colaboración de los Ayuntamientos, prestadores de servicios, autoridades portuarias y aeroportuarias, organizaciones empresariales y del sector social, así como de instituciones académicas;
 
-XVI. Maltratar los padres o tutores a sus hijos o pupilos, excepto que se trate de medidas correctivas hechas en los términos de ley; y
+XXV. Ejecutar las órdenes de verificación a que haya lugar, en términos de los acuerdos de coordinación que se suscriban con la Secretaría Federal;
 
-XVII. Desobedecer o tratar de burlar a la Autoridad que le llame la atención en relación con cualquier aspecto relacionado con el orden y la tranquilidad de la población en general.
+XXVI. Establecer, en coordinación con las autoridades municipales y federales, las normas de conducta y calidad básicas para la prestación de servicios en los atractivos turísticos del Estado;
 
-###### ARTÍCULO 15.
+XXVII. Participar en la formulación del Programa de Ordenamiento;
 
-Son Infracciones al Derecho de Propiedad:
+XXVIII. Coordinar, con el Gobierno Federal y la Secretaría de Desarrollo Social y Medio Ambiente del Estado, la instrumentación de los programas y medidas para la preservación de los recursos naturales, prevención de la contaminación, ordenamiento y limpieza de las playas, mejoramiento ambiental de las actividades e instalaciones turísticas, así como la implementación de empresas turísticas, sujetos a un sistema de indicadores de sustentabilidad;
 
-I. Colocar anuncios de diversiones públicas, propaganda comercial, religiosa o política en edificios públicos, o colocar ésta incumpliendo con las especificaciones emitidas por la Autoridad, o sin el permiso correspondiente en los lugares autorizados;
+> <small>(ADICIONADA, G.O. 11 DE SEPTIEMBRE DE 2018)</small>
 
-II. Dañar, pintar, o manchar los monumentos, estatuas, postes, arbotantes, bardas, calles, parques, jardines, plazas o lugares públicos;
+XXVIII Bis. Promover en hoteles y restaurantes la donación de alimentos en buen estado no utilizados, con la finalidad de que se destinen a la población en situación de carencia alimentaria;
 
-III. Destruir o apagar las luminarias del alumbrado público;
+XXIX. Promover y fomentar, en coordinación con el Gobierno Federal y las dependencias y entidades competentes de la administración pública del Estado, la inversión de capitales nacionales y extranjeros en proyectos de desarrollo turístico y para el establecimiento de servicios turísticos;
 
-IV. No remitir a la Autoridad Municipal, los objetos o bienes mostrencos o abandonados;
+XXX. Gestionar fondos de financiamiento para la ejecución de proyectos turísticos de gran impacto social;
 
-V. Dañar, destruir o apoderarse de señales de tránsito o cualquier otra señal oficial dispuesto en la vía pública;
+> <small>(REFORMADA, G.O. 2 DE DICIEMBRE DE 2015)</small>
 
-VI. Causar daño a las casetas telefónicas públicas, maltratar los buzones o cualquier aparato de uso común colocado en la vía pública;
+XXXI. Coadyuvar con la Secretaría de Seguridad Pública y la Secretaría de Protección Civil, cuando se determine que sea necesaria la protección de la integridad física de los turistas;
 
-VII. Borrar, destruir o pegar cualquier leyenda sobre los nombres y letras con las que estén marcadas las calles del Municipio; rótulos con que se signan las calles, callejones, plazas, y casas destinadas al uso público; así como las indicaciones relativas al tránsito de la población;
+> <small>(REFORMADA, G.O. 13 DE MAYO DE 2021)</small>
 
-VIII. Tirar o desperdiciar el agua;
+XXXII. Colaborar con la Secretaría de Trabajo, Previsión Social y Productividad en el desarrollo de programas de fomento al empleo turístico, de capacitación y profesionalización de la actividad turística, mediante criterios de inclusión y equidad; así como en la capacitación gratuita de todas y todos los servidores públicos involucrados de los municipios con vocación turística;
 
-IX. Introducirse a lugares públicos o privados cercados, sin el permiso de la persona autorizada para darlo; y
+> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2012)</small>
 
-X. Reservar, rentar o invadir espacios en la vía pública destinados para el estacionamiento de vehículos, a excepción de los que cuenten con el permiso municipal respectivo.
+XXXIII. Promover el uso sustentable del patrimonio natural y cultural, tangible e intangible del Estado, con fines turísticos, fomentando las actividades encaminadas a fortalecer el turismo cultural, gastronómico y religioso.
 
-###### ARTÍCULO 16.
+XXXIV. Solicitar a los prestadores de servicios la información y documentación relacionada con su actividad, para fines estadísticos;
 
-Son Infracciones al ejercicio del Comercio y del Trabajo:
+XXXV. Evaluar los estudios realizados por los Ayuntamientos para su integración al padrón de Municipios con Vocación turística;
 
-I. Trabajar en forma habitual como billetero, fijador de propaganda, limpia botas, fotógrafo, vendedor ambulante, filarmónico, cantante ambulante, sin la autorización ni licencia municipal, cuando fuere exigida por la Autoridad o bien, sin sujetarse a las condiciones requeridas para la prestación del servicio;
+XXXVI. Realizar visitas de verificación a los prestadores de servicios turísticos, a efecto de constatar el cumplimiento de los deberes a su cargo, establecidos en esta Ley y su Reglamento, con el propósito de generar la excelencia en la prestación de los servicios turísticos;
 
-II. Colocar sillas para aseo de calzado fuera de los lugares autorizados;
+XXXVII. Conocer, recibir, desahogar, resolver, arbitrar y sancionar las quejas que les sean presentadas por los visitantes;
 
-III. Ejercer actos de comercio sin la autorización de la Autoridad en cementerios, iglesias, monumentos, edificios públicos, o lugares que por la tradición y las costumbres impongan respeto; y
+XXXVIII. Colaborar con la Secretaría Federal en el ejercicio de sus facultades de verificación de la prestación de servicios turísticos;
 
-IV. Desempeñar cualquier actividad cuando para ello se requiera del permiso o licencia de la Autoridad Municipal y no se cuente con ello; o bien, cuando no se sujete a las condiciones requeridas para la prestación de un servicio.
+XXXIX. Coadyuvar con los Ayuntamientos en la elaboración de su Programa de Desarrollo Turístico Municipal;
 
-###### ARTÍCULO 17.
+> <small>(REFORMADA, G.O. 13 DE AGOSTO DE 2013)</small>
 
-Son Infracciones Contra la Salud:
+XL. Administrar el Fondo;
 
-I. Arrojar a lugares públicos o terrenos baldíos, animales muertos, escombros, basuras, substancias fétidas o tóxicas;
+> <small>(REFORMADA, G.O. 13 DE MAYO DE 2021)</small>
 
-II. Realizar necesidades Fisiológicas en lugares públicos o privados sin la autorización del propietario;
+XLI. Impulsar la profesionalización del sector turístico, favoreciendo la vinculación entre los sectores público, privado y social;
 
-III. Contaminar u obstruir las corrientes de agua de los manantiales, tanques almacenadores, fuentes públicas, acueductos, tuberías, y drenajes pluviales;
+> <small>(REFORMADA, G.O. 13 DE MAYO DE 2021)</small>
 
-IV. Expender comestibles o bebidas en estado insalubre;
+XLI Bis. Promover de conformidad con los Lineamientos de Pueblos Mágicos, y de acuerdo a la capacidad presupuestal de los municipios declarados Pueblo Mágico en el Estado de Veracruz, las acciones necesarias, con el objeto de garantizar su desarrollo y permanencia en el programa; y
 
-V. No contar los propietarios, encargados u organizadores con personal médico o de primeros auxilios en espectáculos públicos, de carreras de vehículos, toros, fútbol, etc., en donde puedan producirse accidentes;
+> <small>(ADICIONADA, G.O. 13 DE AGOSTO DE 2013)</small>
 
-VI. Fumar en lugares prohibidos;
+XLII. Las demás previstas en este y otros ordenamientos.
 
-VII. Vender o proporcionar bebidas alcohólicas o tóxicos a menores de edad, en cualquiera de sus modalidades;
+### CAPÍTULO II. De las atribuciones de los ayuntamientos
 
-VIII. Arrojar en los sistemas de desagüe, animales muertos, escombros, desperdicios, basura, desechos orgánicos, substancias fétidas, inflamables, corrosivas, explosivas o similares, sin la autorización correspondiente de la Autoridad Municipal; y
+###### Artículo 6.
 
-IX. Realizar fogatas en la vía o lugares públicos que constituyan algún riesgo.
+Son atribuciones de los Ayuntamientos:
 
-###### ARTÍCULO 18.
+I. Formular, conducir y evaluar la política turística municipal;
 
-Son Infracciones contra la Ecología:
+II. Celebrar convenios en materia turística;
 
-I. La destrucción y maltrato de los árboles, flores y cualquier ornamento que se encuentre en las plazas, parques y cualquier otro tipo de lugares públicos y de propiedad privada;
+III. Formular, ejecutar y evaluar el Programa de Desarrollo Turístico Municipal, de acuerdo a las directrices previstas en los Planes Nacional y Estatal de Desarrollo, en el Programa Nacional de Turismo y en el Programa Sectorial;
 
-II. Permitir por acción u omisión, los dueños de los animales, que éstos beban de las fuentes públicas, así como, que pasten en los jardines y áreas verdes o cualquier otro lugar público, o permitir que los animales de su propiedad causen daños a las áreas verdes de los lugares públicos en general;
+IV. Establecer el Consejo Municipal, que tendrá por objeto coordinar, proponer y formular las estrategias y acciones de la administración pública municipal, con el fin de lograr un desarrollo sustentable de la actividad turística en el municipio;
 
-III. Disponer de flores, frutas, plantas, árboles, o cualquier otro tipo de objetos que pertenezcan al Patrimonio Municipal, sin el permiso de quien tenga la facultad de otorgarlo;
+V. Concertar con los sectores privado y social las acciones tendentes a detonar programas a favor de la actividad turística;
 
-IV. Incinerar desperdicios de hule, llantas, plásticos y similares, así como basura en general, cuyo humo cause molestias o trastorno a la ecología; y
+VI. Participar en el diseño y ejecución del Programa de Ordenamiento;
 
-V. Todas aquéllas que estén contempladas en cualquier disposición legal aplicable.
+VII. Participar en el diseño, instrumentación, ejecución y evaluación de las acciones para el desarrollo turístico sustentable;
 
-###### ARTÍCULO 19.
+VIII. Celebrar convenios de colaboración con la Secretaría, para realizar visitas de verificación a los prestadores de servicios que se encuentren dentro de su territorio;
 
-El Presidente Municipal podrá delegar la facultad de determinar la calificación de las infracciones y de aplicación de las sanciones, en el Titular de la Comandancia de Policía y Tránsito, quien regirá su funcionamiento de acuerdo a las facultades que le confiera el presente reglamento así como por lo dispuesto en el reglamento de la Administración Pública Municipal. El Titular de la Comandancia de Policía y Tránsito, a la vez, podrá delegar la facultad de determinar la calificación de las infracciones y de aplicación de las sanciones, previstas en este Reglamento.
+IX. Realizar el diagnóstico para ser considerado como municipio con vocación turística, dentro de los lineamientos establecidos por la Secretaría;
 
-###### ARTÍCULO 20.
+> <small>(REFORMADA, G.O. 30 DE MAYO DE 2019)</small>
 
-Todo servidor o empleado municipal que conozca de infracciones a este ordenamiento y demás normas de índole municipal, tiene obligación de ponerlas de inmediato en conocimiento de la Autoridad correspondiente.
+X. Formular y conducir la política municipal de información y difusión en materia turística, destacando las riquezas naturales, costumbres y tradiciones de los pueblos originarios y afromexicanos, cultura, historia, gastronomía y trabajo artesanal del municipio.
 
-###### ARTÍCULO 21.
+XI. Coadyuvar en la instrumentación de las acciones de promoción de los destinos, segmentos y actividades turísticas que se desarrollen en su territorio;
 
-Las infracciones a que se refiere este Reglamento y demás normas aplicables, solamente podrán ser sancionadas dentro de los 30-treinta días siguientes a la fecha en que se cometieron.
+XII. Participar, de acuerdo a los programas de promoción turística delineados por la Secretaría, en ferias y eventos promocionales del sector, en los ámbitos estatal, nacional e internacional;
 
-###### ARTÍCULO 22.
+XIII. Promover el impulso de las micro, pequeñas y medianas empresas turísticas;
 
-Cualquier persona que cometa por acción u omisión una infracción de carácter administrativo conforme a lo que establece el presente reglamento, podrá ser detenido dentro del término de 24 horas de haberse cometido la falta administrativa en cuestión. A reserva de los casos en que por la naturaleza de los hechos se requiera de la presencia de la parte quejosa. Lo anterior para el efecto de establecer la flagrancia en el presente ordenamiento municipal.
+XIV. Participar en los programas de prevención y atención de emergencias y desastres, así como en acciones para la gestión integral de los riesgos, conforme a las políticas y programas de protección civil que al efecto se establezcan;
 
-###### ARTÍCULO 23.
+XV. Operar módulos de información y orientación al turista, en coordinación con la Secretaría y los prestadores de servicios;
 
-Cuando de un hecho o hechos, se constituyan violaciones a otros ordenamientos legales independientemente de la sanción a que se haga acreedor la o las personas que cometan faltas a lo señalado en este Reglamento, el servidor público municipal con atribuciones de calificador de sanciones al presente Reglamento, deberá dar vista de los hechos a la autoridad competente que tenga las facultades para conocer del acto.
+XVI. Recibir y canalizar las quejas de los turistas, para su atención ante las autoridades competentes;
 
-###### ARTÍCULO 24.
+XVII. Emitir opinión ante la Secretaría Federal y la Secretaría, en aquellos casos en que una inversión concurra en proyectos de desarrollo turístico o en el establecimiento de servicios turísticos dentro de su territorio;
 
-Determinada la infracción, si resultaren daños a bienes de propiedad municipal, el infractor deberá cubrir los daños causados independientemente de cumplir el arresto, o pagar la multa que se le imponga.
+> <small>(REFORMADA, G.O. 13 DE MAYO DE 2021)</small>
 
-###### ARTÍCULO 25.
+XVIII. Coordinarse con la Secretaría para la implementación de políticas públicas y otorgar capacitación gratuita de todas y todos sus servidores públicos involucrados en materia turística;
 
-En el caso anterior, el monto de la sanción impuesta y del daño causado, podrán ser exigidos como créditos fiscales, mediante el procedimiento administrativo de ejecución que establece el Código Fiscal del Estado.
+XIX. Participar en la formulación del Programa de Ordenamiento;
 
-###### ARTÍCULO 26.
+XX. Colaborar con la Secretaría Federal, para que ejerza sus facultades de verificación en las demarcaciones territoriales del municipio;
 
-Si la infracción es cometida por dos o más personas la falta será considerada grave y cada una de ellas será responsable de la sanción que corresponda, en los términos de este Reglamento.
+XXI. Celebrar acuerdos de coordinación con el Ejecutivo Federal, en términos de la Ley General; y
 
-###### ARTÍCULO 27.
+XXII. Las demás previstas en éste y otros ordenamientos.
 
-Las faltas cometidas de padres a hijos y viceversa, y entre cónyuges, se sancionarán a petición expresa de parte interesada y/o del ofendido, lo anterior en el caso en que dicha conducta se realice dentro de cualquier lugar privado.
+## TÍTULO TERCERO. De los órganos colegiados en materia turística
 
-###### ARTÍCULO 28.
+### CAPÍTULO I. De la Comisión Ejecutiva para el Fomento del Turismo de Veracruz
 
-El servidor público municipal con atribuciones de calificador de sanciones al presente Reglamento, por la infracción o infracciones al presente reglamento tendrá la facultad para decidir, según su criterio y circunstancias aplicar cualquiera de las sanciones siguientes:
+> <small>(REFORMADO, G.O. 13 DE AGOSTO DE 2013)</small>
 
-I. Amonestación;
+###### Artículo 7.
 
-II. Multa; o
+La Comisión será de carácter intersecretarial, y tendrá por objeto impulsar la transversalidad presupuestal y programática de las acciones gubernamentales, coordinando con las distintas dependencias que en forma directa o indirecta están vinculadas al turismo, hacia los objetivos de fortalecer los principales destinos turísticos con que cuenta el Estado.
 
-III. Arresto hasta por 36-treinta y seis horas.
+N. DE E., DEL ANÁLISIS PARA LA APLICACIÓN DE LA REFORMA DE LA G.O. 13 DE AGOSTO DE 2013, SE ADVIERTE QUE EL TEXTO ANTERIOR CONSTABA DE XI FRACCIONES.
 
-###### ARTÍCULO 29.
+> <small>(REFORMADO, G.O. 13 DE AGOSTO DE 2013)</small>
 
-Si la sanción a aplicar fuese una multa, ésta podrá ser de entre 1-una y hasta 100-cien cuotas. Se entiende como cuota, el equivalente a un día de salario mínimo general vigente de la zona económica a la que corresponda el Municipio de Bustamante.
+###### Artículo 8.
 
-###### ARTÍCULO 30.
+La Comisión estará encabezada por el Gobernador del Estado, quien fungirá como Presidente, y el encargado de coordinar y dar seguimiento a los acuerdos establecidos será el Secretario de Turismo, Cultura y Cinematografía, en su carácter de Secretario Técnico. Los titulares de las Dependencias Estatales que participarán son:
 
-Al aplicarse la multa, deberá de tomarse en consideración la naturaleza de la infracción cometida, las causas que la produjeron, la capacidad económica del infractor, la condición social, educación y antecedentes del mismo.
+I. Secretaría de Finanzas y Planeación;
 
-Si el infractor que se hiciere acreedor a una multa, fuese obrero, campesino, jornalero o trabajador no asalariado, la sanción aplicable no podrá exceder del importe de una cuota.
+II. Secretaría de Medio Ambiente;
 
-La calidad de jornalero, obrero o trabajador; deberá demostrarse con cualquier documento fehaciente que compruebe el tipo de actividad que realiza de manera preponderante.
+III. Secretaría de Desarrollo Social;
 
-Los trabajadores no asalariados, deberán demostrar esta calidad con cualquier documento fehaciente que compruebe el tipo de actividad que realiza de manera preponderante.
+> <small>(REFORMADA, G.O. 2 DE DICIEMBRE DE 2015)</small>
 
-Los infractores a que se hace referencia en los párrafos anteriores, tendrán la obligación de acreditar su calidad de jornaleros, obreros o trabajadores no asalariados, ante el servidor público municipal con atribuciones de calificador de sanciones al presente Reglamento, al momento de verificarse la audiencia.
+IV. Secretaría de Infraestructura y Obras Públicas;
 
-###### ARTÍCULO 31.
+V. Secretaría de Seguridad Pública; y
 
-Si el infractor no paga la multa impuesta, ésta se conmutará por arresto, que en ningún caso excederá de 36-treinta y seis horas.
+> <small>(REFORMADA, G.O. 2 DE DICIEMBRE DE 2015)</small>
 
-###### ARTÍCULO 32.
+VI. Secretaría de Desarrollo Económico y Portuario; y
 
-Si el infractor paga la multa que le haya sido impuesta, de inmediato será puesto en libertad. Si está compurgando arresto por no haber pagado la multa y posteriormente el infractor la paga, dicha suma le será reducida proporcionalmente a las horas que haya pasado en arresto.
+> <small>(ADICIONADA, G.O. 2 DE DICIEMBRE DE 2015)</small>
 
-###### ARTÍCULO 33.
+VII. Secretaría de Protección Civil.
 
-Si el infractor fuese reincidente, al haber incurrido en la comisión de idéntica infracción en un período de 3-tres meses posteriores a la primera, se le sancionará con 36-treinta y seis horas de arresto.
+A las Sesiones de la Comisión podrán ser invitados a participar funcionarios de la administración pública estatal y federal, cuando la situación así lo requiera.
 
-###### ARTÍCULO 34.
+> <small>(REFORMADO, G.O. 13 DE AGOSTO DE 2013)</small>
 
-Si como resultado de la comisión de una infracción se originaran daños al patrimonio municipal o se tuviere que realizar alguna erogación extraordinaria para efectos de restablecer las cosas a su estado original, los gastos erogados serán a cargo del infractor.
+###### Artículo 9.
 
-El infractor deberá cubrir primeramente los daños causados a la propiedad municipal. Para los efectos de este artículo, la Autoridad Municipal en un término no mayor de 12-doce horas a partir del momento de la infracción consultará a perito valuador sobre el monto de los daños originados.
+La Comisión sesionará en forma ordinaria tres veces al año y extraordinariamente cuando así lo determine su Presidente.
 
-###### ARTÍCULO 35.
+> <small>(REFORMADO, G.O. 13 DE AGOSTO DE 2013)</small>
 
-Si al cometerse una falta o infracción al presente Reglamento se causaran daños a terceros, y no se tratare de delito intencional, la Autoridad Municipal al dictar su resolución fijará el importe que debe pagar el infractor a el perjudicado, si no aceptan la fórmula quedarán a salvo sus derechos, a fin de que procedan conforme lo dispongan las leyes.
+###### Artículo 10.
 
-###### ARTÍCULO 36.
+Los integrantes de la Comisión deberán nombrar enlaces operativos, quienes darán seguimiento a los acuerdos y participarán en las sesiones de trabajo en ausencia de los titulares.
 
-Si el servidor público municipal con atribuciones de calificador de sanciones al presente Reglamento, observare la comisión de un ilícito penal, turnará el caso al Agente del Ministerio Público Investigador correspondiente, o al Consejo Tutelar para Menores, poniendo a su disposición a la persona arrestada.
+### CAPÍTULO II. Del Consejo Consultivo de Turismo Estatal
 
-En caso de que la desobediencia a una determinación de la Autoridad Municipal llegare a constituir un delito, se pondrá en conocimiento al Ministerio Público enviándole el acta levantada o constancia de los mismos.
+###### Artículo 11.
 
-###### ARTÍCULO 37.
+El Consejo será un órgano colegiado de consulta, asesoría y apoyo técnico, que tendrá por objeto propiciar la concurrencia activa, comprometida y responsable de los sectores público, privado y social con incidencia directa o indirecta en la actividad turística, para la concertación de las políticas, planes y programas en la materia, así como para la formulación de las recomendaciones destinadas a los agentes involucrados.
 
-El servidor público municipal con atribuciones de calificador de sanciones al presente Reglamento, para hacer cumplir sus determinaciones o para imponer el orden y disciplina, podrá hacer uso indistinto de los siguientes medios de apremio:
+###### Artículo 12.
 
-I. Apercibimiento;
+La finalidad del Consejo será el logro de la participación y el consenso de todos los miembros pertenecientes al sector, en las políticas públicas y programas de gobierno en materia turística.
 
-II. Multa;
+> <small>(REFORMADO, G.O. 13 DE AGOSTO DE 2013)</small>
 
-III. Arresto hasta por 36 treinta y seis horas; y
+###### Artículo 13.
 
-IV. Auxilio de la fuerza pública.
+El Consejo Consultivo de Turismo Estatal tendrá las siguientes funciones:
 
-###### ARTÍCULO 38.
+I. Agrupar a los organismos de la actividad empresarial turística estatal;
 
-Cometida alguna infracción a lo previsto por este Reglamento, o por otros ordenamientos municipales, que impliquen arresto del presunto infractor, éste será puesto a disposición del servidor público municipal con atribuciones de calificador de sanciones al presente Reglamento, para determinar la sanción correspondiente en su caso.
+II. Cooperar con los gobiernos estatales y municipales, en el estudio de las Leyes, Reglamentos y Disposiciones Generales que afecten directa o indirectamente al turismo;
 
-###### ARTÍCULO 39.
+III. Integrar Comités especializados por cada segmento turístico que se practique en el Estado para el cumplimiento de sus objetivos y funciones;
 
-El procedimiento para la calificación de las infracciones, se sujetará a las siguientes reglas:
+> <small>(REFORMADA, G.O. 14 DE AGOSTO DE 2019)</small>
 
-I. El servidor público municipal con atribuciones de calificador de sanciones al presente Reglamento, pondrá en conocimiento del detenido la causa o causas que hubieren motivado su detención, así como también la persona o personas que hubieren presentado la queja en su contra;
+IV. Determinará a la Secretaría la creación de la marca turística estatal;
 
-II. El detenido podrá comunicarse con una persona de su confianza;
+V. Proponer las necesidades de capacitación prioritarias en sus regiones e impulsar la competitividad turística de Veracruz;
 
-III. Sumariamente será celebrada una audiencia oral, sin sujeción a formalismo alguno y a la cual comparecerá, el detenido, y las personas implicadas en los hechos;
+VI. Proponer acciones o estrategias para ser incluidas en el Programa Estatal de Turismo;
 
-El servidor público municipal con atribuciones de calificador de sanciones al presente Reglamento, procederá en la audiencia, a:
+VII. Proponer la candidatura de aquellos empresarios que destaquen por el impulso al turismo de excelencia, al Premio Veracruz a la Calidad Turística;
 
-A. Interrogar al arrestado en torno a los hechos que se le imputan; previo que se le solicité documento fehaciente con que acredite su identidad;
+VIII. Promover la inscripción de los prestadores de servicios turísticos en el Registro Nacional de Turismo; y
 
-B. Oír al agente de la autoridad que hubiere intervenido en el arresto;
+IX. Todas aquellas que, en el ámbito de su competencia, propicien el desarrollo turístico sustentable del Estado.
 
-C. Formulará las preguntas que estime pertinentes, tanto a la persona que hubiere presentado la queja, como a los testigos que asistan a la audiencia;
+> <small>(ADICIONADA, G.O. 29 DE NOVIEMBRE DE 2018)</small>
 
-D. Practicar, si lo estimare conveniente, careos entre las partes que comparezcan ante él;
+X. Sugerir el o los mercados turísticos que ameritan un descuento, conforme al artículo 98, fracción IX, de esta Ley, así como el porcentaje con que se beneficie al Visitante Local.
 
-E. Recibir los elementos de prueba que llegaren a aportarse;
+> <small>(ADICIONADA, G.O. 29 DE NOVIEMBRE DE 2018)</small>
 
-F. Ordenar la práctica de cualquier diligencia que le permita esclarecer la verdad del caso sometido a su conocimiento;
+XI. Incentivar a los prestadores de servicios turísticos, con la formulación de estrategias y acciones encaminadas a la instauración de un costo-beneficio.
 
-G. Apreciar y valorar en conciencia, los hechos que se le planteen y las pruebas que se le aporten; y (sic)
+###### Artículo 14.
 
-H. Si al momento de interrogar al arrestado, éste admite y confiesa los hechos que se le imputan y la comisión de la infracción, sin más trámites se emitirá la resolución que corresponda.
+El Consejo estará integrado de la manera siguiente:
 
-I. Dictará y notificara la resolución que en Derecho corresponda, tomando en consideración, la condición social del infractor, las circunstancias en que se hubiere producido la infracción y demás elementos que le permitan formarse un recto criterio del caso a resolver, imponiendo la sanción correspondiente, o en su caso absolviendo al arrestado o arrestados.
+I. El Gobernador del Estado, quien lo presidirá;
 
-###### ARTÍCULO 40.
+> <small>(REFORMADA, G.O. 31 DE JULIO DE 2013)</small>
 
-Todas las personas que sean remitidas ante el servidor público municipal con atribuciones de calificador de sanciones al presente Reglamento, en calidad de detenidos, se les deberá practicar examen médico.
+II. El Secretario de Turismo y Cultura;
 
-###### ARTÍCULO 41.
+III. Quien presida la Comisión Permanente de Turismo del Congreso del Estado;
 
-Si la persona arrestada se encuentra afectada de sus facultades mentales, será puesta a disposición de las autoridades asistenciales, para que éstas den aviso a los padres, tutores o familiares.
+> <small>(REFORMADA, G.O. 13 DE AGOSTO DE 2013)</small>
 
-###### ARTÍCULO 42.
+IV. Un presidente municipal de los municipios con vocación turística, en representación de los ayuntamientos;
 
-Si el arrestado es de procedencia extranjera, se permitirá la intervención del Cónsul de su país o de cualquier persona que lo pudiere representar; si no se demuestra su legal estancia en el país, por carecer de los documentos migratorios, el extranjero será puesto a disposición de la Secretaría de Gobernación.
+> <small>(REFORMADA, G.O. 13 DE AGOSTO DE 2013)</small>
 
-###### ARTÍCULO 43.
+V. Un representante por cada uno de los principales organismos empresariales registrados en el Estado; y
 
-Los presuntos infractores a los ordenamientos municipales, solamente podrán ser detenidos en los casos de flagrante infracción en la vía pública o establecimientos públicos.
+> <small>(ADICIONADA, G.O. 13 DE AGOSTO DE 2013)</small>
 
-###### ARTÍCULO 44.
+VI. Un representante del Fideicomiso Público del Impuesto por la Prestación de Servicios de Hospedaje.
 
-Si las infracciones a que se refiere este ordenamiento y demás normas de carácter municipal, se cometen en domicilios particulares, para que las Autoridades puedan ejercer sus funciones, deberá mediar petición expresa y permiso del ocupante del inmueble.
+El Reglamento de esta Ley establecerá el mecanismo de designación de los integrantes previstos en los fracciones IV y V de este artículo. Para el caso de los señalados en la última fracción, se observarán los criterios de pluralidad, renovación periódica y representatividad de sus integrantes.
 
-###### ARTÍCULO 45.
+Los miembros elegidos durarán dos años en su encargo, cuyo desempeño será honorífico, y podrán acreditar representantes en las sesiones del Consejo.
 
-Todos los menores de edad que cometan una infracción al presente Reglamento deberán ser puestos a disposición del servidor público municipal con atribuciones de calificador de sanciones al presente Reglamento, el cual conocerá y resolverá, aplicando la sanción correspondiente conforme al presente Reglamento; debiendo entregar al menor infractor a los padres, tutores o representantes legales, previo el cumplimiento de la sanción impuesta.
+###### Artículo 15.
 
-En aquellos casos en que los hechos u omisiones sean tipificadas como delitos previstos por el Código Penal el servidor público municipal con atribuciones de calificador de sanciones al presente Reglamento, deberá remitir al menor infractor al Delegado del Consejo Estatal para Menores y en su ausencia directamente al Consejo.
+La forma de articulación del Consejo será la siguiente:
 
-###### ARTÍCULO 46.
+I. El Consejo, como órgano supremo del sector, fungirá como enlace directo con la Secretaría, para efectos de planeación, dirección, ejecución y evaluación de la actividad turística;
 
-Cuando sea presentado ante la Autoridad Municipal un menor de edad por la probable comisión de infracción que no constituya delito, se hará comparecer a su padre, tutor, representante legítimo, o a la persona a cuyo cargo se encuentre. Mientras comparece el responsable del menor, éste esperará en una área especial para menores.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 11 DE AGOSTO DE 2014)</small>
 
-###### ARTÍCULO 47.
+II. Un Consejo Consultivo por cada región turística del Estado o para detonar un producto o segmento en específico; y
 
-Una vez obtenida la comparecencia del representante del menor, se procederá en términos de lo dispuesto por el artículo 32 de este reglamento, a fin de determinar la aplicación de ser procedente, de una o varias sanciones de las previstas en el artículo 28 del presente ordenamiento.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 11 DE AGOSTO DE 2014)</small>
 
-Si correspondiere sanción de multa, ésta deberá ser cubierta por el representante del menor.
+III. Un Consejo Consultivo por cada municipio con vocación turística.
 
-###### ARTÍCULO 48.
+###### Artículo 16.
 
-En el caso de que se decrete el arresto del menor, dicha sanción se cumplirá en lugar separado a aquel destinado para los mayores de edad arrestados.
+(DEROGADO, G.O. 13 DE AGOSTO DE 2013)
 
-###### ARTÍCULO 49.
+###### Artículo 17.
 
-Cuando la Autoridad Municipal encuentre descuido por parte del representante del menor para con éste, podrá amonestarlo en la primer infracción del menor; cuando exista reincidencia se podrá aplicar a dicho representante la sanción de multa, la cual no podrá ser conmutada.
+(DEROGADO, G.O. 13 DE AGOSTO DE 2013)
 
-###### ARTÍCULO 50.
+### CAPÍTULO III. De los consejos consultivos regionales y municipales
 
-En el supuesto de no obtenerse la comparecencia del representante del menor dentro de un lapso de 24-veinticuatro horas contadas a partir de su detención, se pondrá al menor a disposición de la Procuraduría de la Defensa del Menor y la Familia, a fin de que ésta en ejercicio de sus atribuciones, provea lo conducente.
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 11 DE AGOSTO DE 2014)</small>
 
-###### ARTÍCULO 51.
+###### Artículo 18.
 
-Contra los actos y resoluciones de la Autoridad Municipal, dictados con motivo de la aplicación de este Reglamento, los interesados podrán interponer el recurso de inconformidad.
+Los Consejos Regionales en el Estado se integrarán por cada región turística en la Entidad, o por una región geográfica específica para el desarrollo de rutas y productos turísticos. En estos Consejos estarán representados los sectores público y privado, éste a través de cámaras, asociaciones, prestadores de servicios y operadores turísticos.
 
-###### ARTÍCULO 52.
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 11 DE AGOSTO DE 2014)</small>
 
-El recurso de inconformidad tiene por objeto que la Autoridad confirme, revoque o modifique la sanción económica impuesta.
+###### Artículo 19.
 
-###### ARTÍCULO 53.
+Los Consejos Regionales tendrán las atribuciones siguientes:
 
-El recurso de inconformidad que interponga, deberá presentarse ante la Secretaría del R. Ayuntamiento. El afectado contará con un plazo de 5-cinco días hábiles para la promoción del recurso, contados a partir del día siguiente de la notificación.
+I. Concertar entre los miembros representativos del sector los programas y proyectos turísticos prioritarios para su región;
 
-El recurso mencionado, deberá formularse por escrito y firmarse por el recurrente o por su representante debidamente acreditado. El escrito deberá contener:
+II. Identificar los atractivos o productos específicos que puedan vincular la región a la que pertenecen;
 
-I. Nombre y domicilio del recurrente y en su caso, de quien promueve en su representación;
+III. Coadyuvar con la Secretaría en el desarrollo de nuevas rutas, circuitos y productos turísticos para su comercialización;
 
-II. Si fuesen varios los recurrentes, deberán designar un representante común señalando el nombre y domicilio de este;
+IV. Proponer las necesidades de capacitación prioritarias en sus regiones e impulsar la competitividad turística de Veracruz; y
 
-III. El interés legítimo y específico que asiste al recurrente;
+V. Todas aquellas actividades que propicien el desarrollo turístico de sus regiones.
 
-IV. La Autoridad o Autoridades que dictaron el acto recurrido;
+> <small>(REFORMADO, G.O. 11 DE MAYO DE 2021)</small>
 
-V. La mención precisa del acto de Autoridad que motiva la interposición del recurso;
+###### Artículo 20.
 
-VI. Los conceptos de violación o en su caso las objeciones a la sanción reclamada;
+Los Consejos Municipales serán encabezados por la o el Presidente Municipal y se integrarán, por la o el edil encargado de la Comisión de Turismo, la o el titular de la Dirección de Turismo quien fungirá como secretario técnico y, por lo menos, con cuatro miembros, representantes de los sectores público y social y de cámaras y organismos empresariales con incidencia en la actividad turística de cada municipio; de estos últimos, serán ocho miembros como mínimo cuando se trate de municipios con vocación turística y todos durarán en el cargo dos años sin derecho a reelección, hasta una vez concluido el mismo periodo inmediato. Todos sus integrantes tendrán derecho a voz y voto.
 
-VII. Las pruebas que ofrezca, que tengan relación inmediata y directa con la resolución o acto impugnado debiendo acompañar las documentales con que cuente, incluidas las que acrediten su personalidad, cuando actúen en nombre de otro o de personas morales;
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 11 DE AGOSTO DE 2014)</small>
 
-VIII. El lugar y la fecha de promoción; y
+###### Artículo 21.
 
-IX. Deberá firmarse por el recurrente o por su representante, debidamente acreditado.
+Los Consejos Municipales tendrán, dentro de sus respectivos ámbitos de competencia, las atribuciones siguientes:
 
-###### ARTÍCULO 54.
+I. Concertar entre los miembros representativos del sector los proyectos turísticos a detonar en su municipio;
 
-El término para el desahogo de las pruebas ofrecidas, lo será el de 5-cinco días, contados a partir del día siguiente de hecha tal solicitud.
+II. Formular el inventario de riquezas turísticas de su municipio, así como la infraestructura turística con que se cuenta, como hoteles, restaurantes, agencias de viajes y operadores turísticos, entre otros;
 
-###### ARTÍCULO 55.
+III. Elaborar el calendario de actividades culturales y turísticas del municipio;
 
-Dentro de un término no mayor de 15-quince días hábiles, después de concluir el período de pruebas, la Autoridad confirmará, modificará o revocará el acto recurrido. Si no lo hiciere en ese término, el recurso se entenderá resuelto a favor del quejoso.
+> <small>(REFORMADA, G.O. 11 DE MAYO DE 2021)</small>
 
-###### ARTÍCULO 56.
+IV. Promover la inscripción de los prestadores de servicios turísticos de cada municipio en el Registro Nacional de Turismo;
 
-En la medida que se modifiquen las condiciones socio-económicas del Municipio, en virtud de su crecimiento demográfico, social y desarrollo de actividades productivas y demás aspectos de la vida comunitaria, el presente Reglamento podrá ser modificado o actualizado, tomando en cuenta la opinión de la propia comunidad.
+> <small>(REFORMADA, G.O. 11 DE MAYO DE 2021)</small>
 
-###### ARTÍCULO 57.
+V. Todas aquellas actividades que propicien el desarrollo turístico sustentable de sus Municipios; y
 
-Para garantizar la participación ciudadana en la revisión para la actualización, toda persona residente en el Municipio tiene la facultad de realizar por escrito sugerencias, ponencias o quejas en relación con el contenido normativo del presente Reglamento, escrito que deberá dirigirse al C. Secretario del R. Ayuntamiento a fin de que el C. Presidente Municipal dé cuenta de una síntesis de tales propuestas en Sesión Ordinaria del R. Ayuntamiento, para que dicho cuerpo colegiado tome la decisión correspondiente.
+> <small>(ADICIONADA, G.O. 11 DE MAYO DE 2021)</small>
 
-## TRANSITORIOS
+VI. Diseñar productos turísticos estratégicos emergentes para la activación económica ante cualquier agente perturbador hidrometeorológico, geológico, químico tecnológico, sanitario o de cualquier otra índole fortuita.
 
-PRIMERO.- El presente Reglamento entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+## TÍTULO CUARTO. De los lineamientos para las políticas públicas en materia turística
 
-SEGUNDO.- Se derogan todas disposiciones municipales que contravengan lo dispuesto en el presente Reglamento.
+### CAPÍTULO I. De la importancia estratégica de la actividad turística
 
-Es dado en el Salón de Sesiones del R. Ayuntamiento del Municipio de Bustamante, Nuevo León, por lo que mando se imprima, publique, circule y se le dé el debido cumplimiento a los 31 días del mes de Enero del 2005.
+> <small>(REFORMADO, G.O. 13 DE AGOSTO DE 2013)</small>
 
-C. JOSÉ BALDEMAR GÓMEZ RODRÍGUEZ.
+###### Artículo 22.
 
-PRESIDENTE MUNICIPAL
+El fomento de la actividad turística en el Estado será considerado como una estrategia prioritaria para el desarrollo económico y social de la Entidad, de conformidad con lo establecido en la Constitución Política del Estado de Veracruz de Ignacio de la Llave. Para tal efecto, el Plan Veracruzano de Desarrollo y los programas sectoriales de las dependencias que el Ejecutivo del Estado disponga incluirán estrategias y acciones puntuales para el impulso de la actividad desde un enfoque sustentable.
 
-C. PROFR. JESÚS MARÍA AGUILAR VILLARREAL.
+> <small>(ADICIONADO, G.O. 29 DE JULIO DE 2013)</small>
 
-SECRETARIO DEL R. AYUNTAMIENTO
+###### Artículo 22 Bis.
+
+Para la proyección de los lineamientos y estrategias para la formulación de políticas públicas en materia turística, así como en la planeación de los programas sectoriales de las dependencias del Ejecutivo del Estado y los municipios, se deberá considerar la creación y consulta de las comunidades turísticas en el Estado, con la finalidad de elaborar estrategias viables y sustentables en la materia.
+
+###### Artículo 23.
+
+La Secretaría de Educación deberá incluir en los programas educativos del nivel básico nociones sobre la importancia de la actividad turística y la necesidad de la preservación y cuidado del patrimonio tangible e intangible de las comunidades.
+
+### CAPÍTULO II. De la incorporación de la actividad turística a las cadenas productivas
+
+> <small>N. DE E. DEL ANÁLISIS PARA LA APLICACIÓN DE LA REFORMA PUBLICADA EN LA G.O. DE 13 DE AGOSTO DE 2013, SE OBSERVA QUE EL PRESENTE ARTÍCULO, EN SU TEXTO ORIGINAL CONSTABA DE 2 PÁRRAFOS.</small>
+
+> <small>(REFORMADO, G.O. 13 DE AGOSTO DE 2013)</small>
+
+###### Artículo 24.
+
+El Estado, a través de la Secretaría, y los ayuntamientos estimularán y promoverán entre el sector privado y el sector social la creación y fomento de cadenas productivas y redes de valor en torno a los desarrollos turísticos nuevos y existentes, con el fin de detonar las economías del Estado y de los municipios y con ello buscar el desarrollo regional sustentable. Los instrumentos para promover el desarrollo regional sustentable serán estudios socioeconómicos, ambientales y de mercado turístico, que tomarán en cuenta la información disponible en el Atlas Turístico de México, el Registro Nacional de Turismo y estudios sobre la demanda turística.
+
+### CAPÍTULO III. Del turismo social
+
+###### Artículo 25.
+
+La Secretaría impulsará y promoverá el turismo social, el cual comprende todos aquellos instrumentos y medios a través de los cuales se otorgan facilidades con equidad para que las personas viajen con fines recreativos, deportivos, educativos y culturales, en condiciones adecuadas de economía, seguridad y comodidad.
+
+Las dependencias y entidades de la administración pública del Estado coordinarán y promoverán sus esfuerzos entre ellas y con los gobiernos municipales e impulsarán acciones con los sectores social y privado para el fomento del turismo social.
+
+La Secretaría, la Secretaría de Salud, la Secretaría de Trabajo, Previsión Social y Productividad y el Instituto Veracruzano del Deporte elaborarán y ejecutarán de manera coordinada un programa de fomento al turismo social en el Estado.
+
+> <small>(ADICIONADO, G.O. 11 DE AGOSTO DE 2014)</small>
+
+Artículo 25 bis. La Secretaría promoverá con las dependencias y entidades de la administración pública del Estado y con los municipios que el turismo social se dirija prioritariamente a las regiones turísticas del Estado, a fin de fomentar el turismo regional y el sentido de pertenencia de los veracruzanos.
+
+###### Artículo 26.
+
+En el ámbito municipal, le corresponderá a la dependencia responsable de atender la materia turística impulsar y promover el turismo social.
+
+En el Reglamento que al efecto expida el Ayuntamiento, se establecerán los lineamientos por los cuales la dependencia municipal competente atenderá el turismo social.
+
+###### Artículo 27.
+
+Los Poderes Legislativo, Ejecutivo y Judicial, los organismos autónomos del Estado y los Ayuntamientos promoverán entre sus trabajadores el turismo social.
+
+### CAPÍTULO IV. Del turismo accesible
+
+###### Artículo 28.
+
+La Secretaría, en coordinación con las dependencias y entidades competentes de la administración pública del Estado, promoverá la prestación de servicios turísticos con accesibilidad, que tengan por objeto beneficiar a las personas con discapacidad.
+
+###### Artículo 29.
+
+Los prestadores de servicios turísticos deberán proveer lo necesario para que las personas con discapacidad cuenten con accesibilidad a los servicios, en condiciones adecuadas.
+
+La misma obligación tendrán las autoridades, respecto de los espacios de referencia cultural con afluencia turística.
+
+###### Artículo 30.
+
+La Secretaría y los Ayuntamientos vigilarán el cumplimiento de las disposiciones establecidas en el presente capítulo y en la Ley para la Integración de las Personas con Discapacidad del Estado de Veracruz de Ignacio de la Llave.
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 27 DE JUNIO DE 2012)</small>
+
+### CAPÍTULO V. De la cultura turística, el turismo cultural, gastronómico y religioso
+
+###### Artículo 31.
+
+La Secretaría y los Ayuntamientos fomentarán el conocimiento sobre la importancia del turismo sustentable como factor para el desarrollo económico y social del Estado. Para ello, implementarán políticas públicas que promuevan el fortalecimiento de una cultura turística para la sustentabilidad e impulsarán entre los prestadores de servicios y la ciudadanía en general el cuidado del patrimonio natural y cultural, así como estándares de calidad en la recepción a los visitantes.
+
+> <small>(ADICIONADO, G.O. 27 DE JUNIO DE 2012)</small>
+
+Se implementarán actividades encaminadas a desarrollar, fortalecer e implementar el turismo cultural, gastronómico y religioso, fomentando la creación de acuerdos intermunicipales en los cuales se consideren a los municipios con vocaciones turísticas culturales similares, para crear zonas turísticas culturales y corredores turísticos.
+
+###### Artículo 32.
+
+La Secretaría, en coordinación con la Secretaría de Educación, promoverá, en todos los niveles educativos, el diseño de programas académicos con énfasis en aspectos de educación y cultura turística para la sustentabilidad y la hospitalidad.
+
+En estos temas, también se diseñarán programas para su difusión entre la población en general.
+
+###### Artículo 33.
+
+La Secretaría, en coordinación con el Instituto Veracruzano de la Cultura, difundirá entre los prestadores de servicios turísticos y los visitantes los programas que tengan como finalidad fomentar y promover las culturas del Estado. También aprovechará las diversas manifestaciones de identidad de las comunidades para la promoción del turismo cultural.
+
+> <small>(ADICIONADO, G.O. 27 DE JUNIO DE 2012)</small>
+
+La Secretaría y el Instituto Veracruzano de la Cultura incentivarán la promoción a productores primarios o secundarios de alimentos, la creación o fortalecimiento de festivales gastronómicos, así como de restaurantes o lugares específicos para la degustación de alimentos, que representen la diversidad cultural del Estado.
+
+> <small>(ADICIONADO, G.O. 27 DE JUNIO DE 2012)</small>
+
+Se publicitará, como parte del patrimonio cultural estatal, a las catedrales, monasterios, conventos, museos de arte sacro e iglesias, así como también las manifestaciones religiosas típicas en el Estado, sin distinción de religión alguna.
+
+###### Artículo 34.
+
+La Secretaría, con la participación de las distintas dependencias y entidades de la administración pública del Estado y los Ayuntamientos, promoverá la suscripción de acuerdos con prestadores de servicios turísticos para el cumplimiento de los objetivos de este capítulo.
+
+### CAPÍTULO VI. Del turismo sustentable
+
+###### Artículo 35.
+
+Los programas y acciones de promoción y fomento de la actividad turística contendrán previsiones para asegurar que los proyectos de inversión pública y privada concernientes al sector cumplan con las disposiciones legales en materia ambiental y no afecten el entorno de su asentamiento.
+
+###### Artículo 36.
+
+Los programas y acciones para la capacitación de los actores involucrados en la atención a los visitantes fomentarán el conocimiento de las riquezas naturales, históricas y culturales del Estado, a efecto de que gocen de su estancia, mediante la práctica de un turismo con respeto a los entornos naturales, arquitectónicos y sociales de las comunidades.
+
+###### Artículo 37.
+
+La Secretaría, en coordinación con las autoridades federales y municipales, impulsará la integración de comités de distintivo "Veracruz Sustentable", que promoverán el medio ambiente, el desarrollo urbano, el entorno económico y el turismo, a fin de implementar acciones que impulsen el turismo sustentable.
+
+Con el concurso de los Ayuntamientos, operadores turísticos, organizaciones sociales y privadas, autoridades educativas y del ramo ambiental, implementará acciones para la limpieza y conservación de los atractivos turísticos que promuevan el pleno respeto de su entorno natural y arquitectónico.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 29 DE JULIO DE 2019)</small>
+
+### CAPITULO VII. Del Turismo Rural Comunitario
+
+> <small>(ADICIONADO, G.O. 29 DE JULIO DE 2019)</small>
+
+###### Artículo 37 Bis.
+
+El turismo rural comunitario es aquel que tiene como finalidad realizar actividades de convivencia e interacción con una comunidad rural, en todas aquellas expresiones sociales, culturales y productivas cotidianas de la misma, con el compromiso del pleno respeto de los usos y costumbres de la comunidad así como de la conservación de los recursos naturales y culturales que promuevan la generación de ingresos adicionales a la economía rural y a la conservación del hábitat natural.
+
+La Secretaría impulsará y promoverá el turismo rural comunitario en coordinación con las dependencias y entidades de la administración pública del Estado, los ayuntamientos y las comunidades rurales, otorgando facilidades a éstas para el establecimiento de proyectos turísticos rurales sustentables.
+
+## TÍTULO QUINTO. De la planeación gubernamental, la vocación turística de los municipios y el ordenamiento territorial
+
+### CAPÍTULO I. Del Programa Sectorial de Turismo
+
+###### Artículo 38.
+
+La Secretaría elaborará el Programa Sectorial, que se sujetará a los objetivos y metas establecidas para el sector en el Plan Estatal de Desarrollo y las directrices previstas en el Plan Nacional de Desarrollo y en el Programa Nacional de Turismo.
+
+El Programa Sectorial podrá contener, entre otros elementos de la planeación, un análisis de la situación del turismo en el Estado, un diagnóstico de la vocación turística de los municipios, el Programa de Ordenamiento, una bolsa de inversión turística, las políticas, objetivos y metas a corto, mediano y largo plazos de la actividad turística, con observancia de lo establecido en los instrumentos jurídicos, administrativos y de política económica aplicables.
+
+La Secretaría, al especificar en el programa las políticas, objetivos, prioridades y ejes rectores que orientarán la actividad turística, investigará los atractivos turísticos naturales y culturales y la oferta y demanda turística en cada región del Estado.
+
+El Programa Sectorial deberá incluir el Inventario Municipal de Proyectos, que se propondrá al titular del Ejecutivo para considerarse en el apartado de infraestructura del Plan Veracruzano de Desarrollo. Para la formulación del Inventario de Proyectos, la Secretaría se coordinará con los municipios con vocación turística del Estado.
+
+### CAPÍTULO II. Del índice de vocación turística de los municipios del estado
+
+###### Artículo 39.
+
+Con el fin de mejorar los procesos de planeación del sector, optimizar los recursos destinados a fomentar el desarrollo del turismo e impulsar y promover el potencial turístico en los municipios del Estado, se establece el Índice de Vocación Turística.
+
+###### Artículo 40.
+
+Todos los municipios del Estado podrán ser considerados para formar parte del padrón de Municipios con Vocación Turística, por acuerdo de la Secretaría, previa elaboración de su diagnóstico de vocación turística. Dicho estudio considerará las variables determinadas por la Secretaría y contendrá el Inventario Municipal de Proyectos.
+
+Para ser parte del padrón de Municipios con Vocación Turística, los Ayuntamientos deberán remitir a la Secretaría una solicitud y el diagnóstico correspondiente aprobado por el Cabildo.
+
+La Secretaría analizará y dictaminará las solicitudes y evaluaciones recibidas.
+
+###### Artículo 41.
+
+Para determinar el Índice de Vocación Turística de los municipios, se evaluarán las variables siguientes:
+
+I. Atracción turística: Los elementos existentes en el municipio que motivan el viaje y atraen visitantes, así como su estado de conservación. Este término se utiliza preferentemente para enumerar los espacios naturales, culturales e históricos que sean parte de la oferta turística;
+
+II. Servicios turísticos: Se refiere a las actividades que buscan satisfacer las necesidades del turista. Se prestan a través de hoteles, moteles, albergues, cabañas, hostales, agencias de viaje, operadores turísticos, restaurantes, cafeterías, bares, guías de turistas, entre otros. También contempla el análisis de la demanda de estos servicios en cada municipio;
+
+III. Infraestructura: Prevé los elementos básicos para el desarrollo del turismo, como toda construcción, instalación, vías de comunicación, aeropuertos, gasolineras, hospitales, talleres mecánicos, centros de convenciones, terminales de servicios para viajeros, bancos, cajeros automáticos, servicios financieros; y
+
+IV. Superestructura: Comprende la existencia en el municipio de organismos especializados, tanto públicos como privados, encargados de optimizar y modificar, cuando sea necesario, el sistema turístico de la localidad, así como de armonizar sus relaciones para facilitar la producción y venta de los múltiples servicios que componen la actividad turística.
+
+###### Artículo 42.
+
+Para la realización de los estudios que determinarán el Índice de Vocación Turística, la Secretaría procederá a emitir los lineamientos técnicos para la cuantificación de cada variable de análisis e indicadores, así como los parámetros de evaluación.
+
+###### Artículo 43.
+
+La Secretaría emitirá la denominación de "Municipio con Vocación Turística", con fundamento en el resultado de la evaluación. El acuerdo correspondiente será publicado en la Gaceta Oficial del estado.
+
+###### Artículo 44.
+
+Los municipios que no aprobaren la evaluación de la Secretaría podrán solicitar a ésta un informe de las razones que justificaron esta decisión y pedir su incorporación un año después.
+
+### CAPÍTULO III. Del Programa de Ordenamiento Turístico del Territorio del Estado
+
+###### Artículo 45.
+
+La Secretaría propondrá al titular del Poder Ejecutivo del Estado el Programa de Ordenamiento para su aprobación, en su caso.
+
+El Programa de Ordenamiento deberá estar acorde con los Programas de Ordenamiento Turístico General y Regional del Territorio.
+
+El Titular del Ejecutivo, después de analizarlo conjuntamente con los Ayuntamientos de los municipios incluidos en el Programa, ordenará su publicación en la Gaceta Oficial del Estado.
+
+###### Artículo 46.
+
+Cuando el Programa de Ordenamiento incluya una Zona de Desarrollo Turístico Sustentable, el programa será elaborado y aprobado en forma conjunta por la Secretaría Federal y el titular del Ejecutivo del Estado.
+
+###### Artículo 47.
+
+El Programa de Ordenamiento deberá publicarse dentro de los primeros treinta días de cada año y ser congruente con los programas estatales y municipales de ordenamiento ambiental, desarrollo urbano y uso de suelo.
+
+###### Artículo 48.
+
+El Programa de Ordenamiento preverá las disposiciones necesarias para la coordinación de las distintas autoridades involucradas en su formulación y ejecución.
+
+###### Artículo 49.
+
+La Secretaría promoverá la participación de organizaciones sociales y empresariales, instituciones académicas, de investigación y demás personas interesadas en la materia, para la elaboración, ejecución, vigilancia y evaluación del Programa de Ordenamiento a través del comité distintivo "Veracruz Sustentable".
+
+###### Artículo 50.
+
+El Consejo podrá emitir sugerencias y observaciones a la Secretaría para la formulación del Programa de Ordenamiento.
+
+###### Artículo 51.
+
+El Programa de Ordenamiento tendrá por objeto:
+
+I. Determinar el área territorial a ordenar;
+
+II. Describir sus recursos turísticos;
+
+III. Establecer su análisis de riesgos; y
+
+IV. Proponer los criterios para la determinación de los planes o programas de desarrollo urbano, así como del uso de suelo, con el propósito de preservar los recursos naturales y aprovechar de manera ordenada y sustentable los recursos turísticos respectivos.
+
+###### Artículo 52.
+
+El Programa de Ordenamiento será evaluado anualmente por la Comisión, la cual instrumentará los mecanismos necesarios que permitan determinar el impacto y avances en la implementación.
+
+###### Artículo 53.
+
+El resultado de la evaluación será remitido a la Secretaría y al titular del Poder Ejecutivo del Estado, para los efectos correspondientes.
+
+## TÍTULO SEXTO. De las regiones, los municipios y las zonas de desarrollo turístico sustentable
+
+### CAPÍTULO I. De las regiones turísticas
+
+> <small>(REFORMADO, G.O. 11 DE AGOSTO DE 2014)</small>
+
+###### Artículo 54.
+
+Para la mejor atención a las necesidades y al desarrollo turístico, el Estado se dividirá en siete regiones turísticas, integradas por los municipios que se indican y denominadas de la manera siguiente:
+
+I. Región Turística Huasteca: Que incluye a los municipios de Tuxpan, Pánuco, Tamiahua, Chicontepec, Castillo de Teayo, Zontecomatlán, Pueblo Viejo, Tampico Alto, El Higo, Tempoal, Álamo Temapache, Benito Juárez, Zacualpan, Huayacocotla, Ozuluama, Tantoyuca, Platón Sánchez, Chiconamel, Tamalín, Citlaltépetl, Tlachichilco, Chontla, Tantima, Ixcatepec, Cerro Azul, Chalma, Tepetzintla, Ixhuatlán de Madero, Texcatepec, Chinampa de Gorostiza, Naranjos Amatlán, Tancoco, Tihuatlán e Ilamatlán;
+
+II. Región Turística Totonaca: Cuyos municipios son Nautla, Martínez de la Torre, Tlapacoyan, Tecolutla, Gutiérrez Zamora, San Rafael, Papantla, Poza Rica de Hidalgo, Misantla, Cazones de Herrera, Vega de Alatorre, Colipa, Coatzintla, Coahuitlán, Coyutla, Mecatlán, Juchique de Ferrer, Filomeno Mata, Espinal, Coxquihui, Chumatlán y Zozocolco de Hidalgo;
+
+III. Región Turística Cultura y Aventura: Integrada por los municipios de Xalapa, Coatepec, Xico, Jalcomulco, Banderilla, Emiliano Zapata, Apazapan, Actopan, Naolinco, Las Vigas de Ramírez, Perote, Atzalan, Jalacingo, Las Minas, Altotonga, Tatatila, Villa Aldama, Acajete, Tlacolulan, Coacoatzintla, Tonayán, Tenochtitlan, Rafael Lucio, Ayahualulco, Ixhuacán de los Reyes, Jilotepec, Chiconquiaco, Tepetlán, Yecuatla, Teocelo, Cosautlán de Carvajal, Tlalnelhuayocan, Miahuatlán, Acatlán, Landero y Coss y Alto Lucero de Gutiérrez Barrios;
+
+IV. Región Turística Primeros Pasos de Cortés: Que comprende Veracruz, Boca del Río, La Antigua, Úrsulo Galván, Alvarado, Tlacotalpan, Paso de Ovejas, Medellín, Jamapa, Otatitlán, Acula, Cosamaloapan, Soledad de Doblado, Manlio Fabio Altamirano, Tres Valles, Tuxtilla, Chacaltianguis, Saltabarranca, Cotaxtla, Tlalixcoyan, Puente Nacional, Ignacio de la Llave, Tlacojalpan, Tierra Blanca, Carlos A. Carrillo, Amatitlán e Ixmatlahuacan;
+
+V. Región Turística Altas Montañas: Compuesta por los municipios de Orizaba, Fortín, Coscomatepec, Huatusco, Córdoba, Yanga, Zongolica, Río Blanco, Tlaltetela, Tezonapa, Tlilapan, Ixhuatlancillo, Omealca, Amatlán de los Reyes, Cuichapa, Cuitláhuac, Tlaquilpa, Ixtaczoquitlán, Xoxocotla, Tenampa, Totutla, Sochiapa, Tlacotepec de Mejía, Comapa, Aquila, Maltrata, Acultzingo, Soledad Atzompa, Mixtla de Altamirano, Tehuipango, Astacinga, Zentla, Tepatlaxco, Ixhuatlán del Café, Tomatlán, Chocamán, Alpatláhuac, Atlahuilco, Camerino Z. Mendoza, Huiloapan de Cuauhtémoc, Calcahualco, La Perla, Atzacan, Mariano Escobedo, Atoyac, Magdalena, Tequila, Los Reyes, San Andrés Tenejapan, Texhuacan, Coetzala, Naranjal, Nogales, Paso del Macho, Camarón de Tejeda, Carrillo Puerto y Rafael Delgado;
+
+VI. Región Turística Los Tuxtlas: Que incluye los municipios de Catemaco, Santiago Tuxtla, San Andrés Tuxtla, Ángel R. Cabada, José Azueta, Lerdo de Tejada, Isla, Playa Vicente, Juan Rodríguez Clara, Santiago Sochiapan y Hueyapan de Ocampo; y
+
+VII. Región Turística Olmeca: Integrada por Acayucan, Minatitlán, Coatzacoalcos, Las Choapas, Oluta, Agua Dulce, Mecayapan, Soconusco, Sayula de Alemán, Tatahuicapan de Juárez, Soteapan, San Juan Evangelista, Hidalgotitlán, Moloacán, Jesús Carranza, Uxpanapa, Pajapan, Ixhuatlán del Sureste, Nanchital de Lázaro Cárdenas del Río, Cosoleacaque, Chinameca, Texistepec, Jáltipan, Zaragoza y Oteapan.
+
+> <small>(ADICIONADO, G.O. 13 DE AGOSTO DE 2013)</small>
+
+###### Artículo 54 Bis.
+
+Se impulsará el posicionamiento de los principales segmentos turísticos en el Estado, mismos que serán normados en el reglamento de la presente Ley, respecto de:
+
+I. Sol y Playa;
+
+II. Cultural;
+
+III. De naturaleza y Aventura;
+
+IV. De Reuniones; y
+
+V. Náutico y deportivo.
+
+### CAPÍTULO II. De los municipios con vocación turística
+
+###### Artículo 55.
+
+El Municipio Libre es la base de la división territorial, de la organización política y administrativa del Estado, por lo cual será la unidad básica para el desarrollo turístico estatal.
+
+###### Artículo 56.
+
+Los municipios que sean declarados con vocación turística tendrán acceso a los beneficios siguientes:
+
+I. Participar en la implementación del Programa de Ordenamiento;
+
+II. Integrar a los operadores de servicios turísticos del municipio al programa "Moderniza" (Distintivo M);
+
+III. Integrar a la industria restaurantera del municipio al programa "Manejo Higiénico de los Alimentos" (Distintivo H);
+
+IV. Integrar al municipio al programa de "Turismo para Todos", para que el destino sea comercializado por operadores turísticos nacionales;
+
+V. Recibir cursos de capacitación en "Cultura Turística" para personal de primer contacto de los municipios;
+
+VI. Inscribir proyectos para los "Convenios de Coordinación en materia de Reasignación de Recursos";
+
+VII. Solicitar su inscripción al programa "Joyas de Veracruz"; y
+
+> <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2019)</small>
+
+VIII. Acceder a la difusión en medios de comunicación, publicidad y eventos promocionales en los que participe el Gobierno del Estado, así como recibir el apoyo necesario para el diseño, implementación y operación de un sitio de internet exclusivo para su promoción turística.
+
+> <small>(REFORMADO, G.O. 13 DE MAYO DE 2021)</small>
+
+###### Artículo 57.
+
+Los municipios con vocación turística estarán obligados a:
+
+I. Formar Comités de Distintivo "Veracruz Sustentable" para la preservación del medio ambiente y el manejo de los recursos del municipio;
+
+II. Implementar en el municipio el estudio de perfil y grado de satisfacción de sus visitantes;
+
+III. Elaborar su inventario turístico, con base en los parámetros del Índice de Vocación Turística y enviarlo a la Secretaría para su análisis y calificación;
+
+IV. Destinar recursos presupuestales para el fomento de la actividad y desarrollo de infraestructura turística, así como participar en el financiamiento del Programa de Ordenamiento Turístico de su territorio;
+
+V. Celebrar cada trimestre, comparecencia del Consejo Municipal de Turismo en sesión de cabildo, con la finalidad de informar el avance de sus actividades, propuestas y evaluación de acciones;
+
+VI. Instalar, operar y actualizar de manera permanente un sitio de internet exclusivo para su promoción turística.
+
+El sitio deberá incluir atractivos naturales, directorio de prestadores de servicios clasificados en giros comerciales de interés para el visitante, terminales y servicios de transporte, rutas para movilidad turística, directorio de autoridades municipales u otras asentadas en el municipio y ubicación de servicios médicos y de emergencia; y
+
+VII. Capacitar de manera gratuita a las y los prestadores de servicios turísticos y a todas las personas de primer contacto con el turista dentro de su territorio, encaminadas a mejorar el desempeño de las actividades y la calidad de los servicios, conforme a lo siguiente:
+
+a) Deberán dar herramientas enfocadas en el aprendizaje de nuevos métodos e ideas orientadas a la mejora continua de un establecimiento;
+
+b) Deberán ser por lo menos una vez al año;
+
+c) Fomentarán los criterios de higiene e interacción entre los trabajadores y hacia los visitantes, cuidando en todo momento las recomendaciones hechas por las autoridades de salud; y
+
+d) Deberán fomentar que el servicio turístico se brinde con las especificaciones y recomendaciones de las autoridades, para salvaguardar la integridad física y la salud de las y los involucrados.
+
+### CAPÍTULO III. De las zonas de desarrollo turístico sustentable
+
+###### Artículo 58.
+
+Las Zonas de Desarrollo Turístico Sustentable, de conformidad con lo dispuesto por la Ley General, serán declaradas por el Ejecutivo Federal.
+
+###### Artículo 59.
+
+El Ejecutivo del Estado, a través de la Secretaría, y los Ayuntamientos, en coordinación con la Secretaría Federal, formularán los programas de manejo correspondiente para cada zona.
+
+###### Artículo 60.
+
+El Estado y los Ayuntamientos, en el ámbito de sus respectivas competencias, podrán intervenir para impulsar la actividad turística en las Zonas de Desarrollo Turístico Sustentable, mediante el fomento a la inversión, el empleo y el ordenamiento territorial, conservando sus recursos naturales en beneficio de la población.
+
+###### Artículo 61.
+
+La Secretaría y los Ayuntamientos podrán presentar ante la Secretaría Federal proyectos de declaratoria de Zonas de Desarrollo Turístico Sustentable.
+
+###### Artículo 62.
+
+En el Reglamento de la presente Ley se establecerán los lineamientos de coordinación para que la Secretaría y los Ayuntamientos conjuntamente realicen la solicitud señalada en el artículo anterior.
+
+## TÍTULO SÉPTIMO. De la promoción, fomento y estímulos a la actividad turística
+
+### CAPÍTULO I. De la promoción turística
+
+> <small>(REFORMADO, G.O. 14 DE AGOSTO DE 2019)</small>
+
+###### Artículo 63.
+
+A fin de cumplir con los objetivos de la promoción turística del Estado, la Secretaría, con la determinación del Consejo, establecerá una marca turística que genere al Estado una identidad, misma que será de carácter permanente. El Gobierno del Estado, los prestadores de servicios turísticos, los Consejos Regionales, los Consejos Municipales y los Ayuntamientos, deberán utilizar la marca turística estatal de acuerdo a los lineamientos establecidos en esta Ley, y su Reglamento.
+
+La Secretaría, considerando la opinión de los prestadores de servicios turísticos del Estado, propondrá al Consejo una terna, éste la analizará y determinará cuál será la marca turística estatal. Dicho fallo será inapelable.
+
+En el Reglamento de la Ley se determinarán los requisitos que deberán cumplir los prestadores de servicios turísticos para ostentar esa marca.
+
+La Secretaría realizará los trámites correspondientes ante el Instituto Mexicano de la Propiedad Intelectual para el registro de la marca turística estatal.
+
+Asimismo, generará la política marco de promoción de la oferta turística, la cual podrá aplicar, por sí o con la colaboración de otras instituciones públicas o privadas, apoyándose para ello en el Fideicomiso Público del Impuesto por la Prestación de Servicios de Hospedaje y en los presupuestos que para tal efecto se determinen.
+
+###### Artículo 64.
+
+La promoción turística se realizará con bases técnicas que permitan incrementar el turismo nacional y extranjero en la Entidad.
+
+###### Artículo 65.
+
+La Secretaría promoverá y coordinará, con el apoyo de las instituciones involucradas, la participación de la industria turística del Estado en festivales, exposiciones, ferias turísticas, eventos deportivos, artísticos, culturales y los demás que se orienten a la difusión de los atractivos y destinos turísticos, así como de los servicios que se presten a los visitantes.
+
+###### Artículo 66.
+
+En los eventos que señala el artículo anterior, la Secretaría, con la opinión del Consejo, procurará que se otorguen reconocimientos a los prestadores de servicios turísticos que se destaquen por su interés, creatividad, inversión, atención y promoción de la actividad turística en el Estado y por la calidad de sus servicios, de acuerdo a la convocatoria que para el efecto se expida.
+
+###### Artículo 67.
+
+La promoción de productos y servicios turísticos que ofrezca el Estado en el extranjero se realizará en coordinación con las políticas de promoción turística implementadas por la Secretaría Federal, el Consejo de Promoción Turística y con las oficinas que se encuentren vinculadas con el sector en otros países.
+
+###### Artículo 68.
+
+La Secretaría, en coordinación con los Ayuntamientos, realizará el Inventario de Riquezas Turísticas, el cual deberá contener la descripción de los lugares, objetos y eventos de interés para el visitante, así como los servicios, facilidades e información necesaria para su óptimo aprovechamiento y acceso.
+
+###### Artículo 69.
+
+La Secretaría impulsará y promoverá las locaciones cinematográficas de Veracruz, así como las producciones audiovisuales propias del Estado que contribuyan a generar una industria fílmica local que fomente la generación de empleos, ocupación hotelera, derrama económica y la promoción de la Entidad.
+
+###### Artículo 70.
+
+Cuando se trate de inversiones en el sector turístico, la Secretaría podrá, en apego a las disposiciones legales que correspondan, proponer al titular del Ejecutivo del Estado el otorgamiento de incentivos para la inversión turística en Veracruz.
+
+### CAPÍTULO II. Del fomento a la inversión turística y cultural
+
+###### Artículo 71.
+
+Para la implantación de programas de fomento y desarrollo turístico y cultural sustentable, así como para apoyar la generación de micro, medianas y pequeñas empresas turísticas y culturales, la Secretaría creará el Fondo. Para ello, hará las previsiones presupuestales necesarias.
+
+###### Artículo 72.
+
+El Fondo tendrá los objetivos siguientes:
+
+> <small>(REFORMADA, G.O. 13 DE AGOSTO DE 2013)</small>
+
+I. Fomentar apoyos y promover el desarrollo de infraestructura detonadora de servicios y competitividad turística.
+
+II. Coadyuvar en la defensa de la oferta de empresas turísticas y del empleo en los sectores turístico y cultural;
+
+III. Optimizar la utilización de los recursos del Estado y programas federales, así como los que otorguen los sectores social y privado; y
+
+IV. Apoyar el arraigo de la población en sus lugares de origen a través del mejoramiento de su nivel de vida.
+
+###### Artículo 73.
+
+El patrimonio del Fondo se integrará con:
+
+I. La aportación inicial y las futuras que haga el Gobierno del Estado;
+
+II. Los rendimientos que se obtengan en la inversión y reinversión de los activos líquidos del Fondo; y
+
+III. Los fondos internacionales y nacionales de apoyo a actividades turísticas y culturales.
+
+###### Artículo 74.
+
+El Fondo desarrollará las actividades siguientes:
+
+I. Apoyar la consolidación de los destinos turísticos y el fortalecimiento de la actividad cultural;
+
+II. Respaldar con financiamiento o garantías la creación de micro, pequeñas y medianas empresas turísticas y el fortalecimiento de las existentes;
+
+III. Promover la formación y reconocimiento de las micro, pequeñas y medianas industrias creativas y empresas culturales;
+
+IV. Realizar los estudios de factibilidad de los proyectos de inversión que se presenten;
+
+V. Otorgar asistencia técnica para la evaluación de proyectos de programación financiera, capacitación y apoyos en general, para el buen funcionamiento de las pequeñas empresas turísticas y culturales; y
+
+VI. Promover el desarrollo de programas con fines de agrupación empresarial.
+
+###### Artículo 75.
+
+El funcionamiento del Fondo será normado por lo establecido en el contrato de fideicomiso respectivo.
+
+###### Artículo 76.
+
+La Secretaría operará el Fondo y promoverá la integración de asociaciones, comités, patronatos, uniones de crédito, fideicomisos y cualquier otro organismo que contribuya al desarrollo turístico y cultural del Estado.
+
+### CAPÍTULO III. Del Premio Veracruz a la Calidad Turística
+
+###### Artículo 77.
+
+A efecto de estimular la atención con altos estándares a los visitantes, se otorgará anualmente el Premio Veracruz a la Calidad Turística a las personas que fomenten la prestación de servicios turísticos de calidad mundial dentro del territorio del Estado.
+
+###### Artículo 78.
+
+La Secretaría será la encargada de establecer los lineamientos para la entrega del premio y tendrá entre sus atribuciones expedir la convocatoria, recibir las propuestas y remitir al Consejo la terna de candidatos a recibir dicho reconocimiento.
+
+###### Artículo 79.
+
+El Consejo analizará la terna y determinará quién se hará merecedor de recibir el premio. Dicho fallo será inapelable.
+
+###### Artículo 80.
+
+El presidente del Consejo entregará el premio cada veintisiete de septiembre, Día Mundial del Turismo, en ceremonia pública y solemne. El premio consistirá en un diploma, estímulo económico y, en su caso, el apoyo adicional que acuerde el Consejo.
+
+## TÍTULO OCTAVO. De la capacitación y certificación de los prestadores de servicios turísticos
+
+### CAPÍTULO I. De la competitividad y profesionalización en la actividad turística
+
+###### Artículo 81.
+
+Corresponde a la Secretaría promover la competitividad de la actividad turística, en coordinación con las dependencias y entidades de la administración pública, así como fomentar:
+
+I. La formulación de políticas públicas, modelos y acciones que incrementen la calidad y competitividad en la materia;
+
+> <small>(REFORMADA, G.O. 11 DE SEPTIEMBRE DE 2018)</small>
+
+II. La profesionalización de quienes laboran en empresas turísticas o prestan servicios en la actividad, orientados a las características de las líneas de producto y la demanda, la certificación en competencias laborales y fortalecimiento de la especialización del capital humano;
+
+III. La modernización de las empresas turísticas;
+
+IV. El otorgamiento de incentivos, distintivos, certificados o reconocimientos a los prestadores de servicios turísticos, de acuerdo con los lineamientos que establezca la propia Secretaría;
+
+V. El diseño y ejecución de acciones de coordinación entre dependencias y entidades del Estado y de los municipios, para la promoción y establecimiento de empresas turísticas; y
+
+VI. La realización de acciones para favorecer las inversiones y proyectos turísticos de alto impacto en el sector, así como agilizar los mecanismos y procedimientos administrativos que faciliten su puesta en marcha, desarrollo y conclusión.
+
+###### Artículo 82.
+
+La Secretaría, conjuntamente con la Secretaría de Educación, realizará estudios e investigaciones en materia turística y llevará a cabo acciones para mejorar y complementar la enseñanza turística a nivel superior y de posgrado en el Estado, dirigida al personal de instituciones públicas, privadas y sociales vinculadas al turismo.
+
+Además, promoverá el establecimiento de escuelas y centros de educación y capacitación para la formación de profesionales y técnicos en ramas de la actividad turística.
+
+###### Artículo 83.
+
+La Secretaría, conjuntamente con la Secretaria de Trabajo, Previsión Social y Productividad, establecerá lineamientos, contenidos y alcances, a fin de promover y facilitar la certificación de competencias laborales.
+
+### CAPÍTULO II. De la capacitación turística
+
+###### Artículo 84.
+
+La Secretaría promoverá acciones de coordinación con las autoridades educativas competentes, para que los fundamentos de la cultura turística formen parte de los planes y programas de estudios desde los niveles educativos básicos, así como en las carreras técnicas y profesionales que sobre el turismo se impartan en la Entidad.
+
+> <small>(ADICIONADO, G.O. 16 DE AGOSTO DE 2018)</small>
+
+La secretaría promoverá que la capacitación turística impulse la formación de recursos humanos que presenten alguna discapacidad, a fin de que puedan incorporarse a las actividades del sector turístico estatal.
+
+###### Artículo 85.
+
+La Secretaría tendrá a su cargo un registro de centros de enseñanza e investigación dedicados a la especialidad de turismo, reconocidos oficialmente por las autoridades educativas.
+
+> <small>(ADICIONADO, G.O. 16 DE AGOSTO DE 2018)</small>
+
+La secretaría promoverá, entre los centros de enseñanza e investigación, estudios especializados sobre la mejor forma de integrar a las personas con discapacidad al mercado laboral del Sector Turístico Estatal.
+
+> <small>(REFORMADO, G.O. 13 DE MAYO DE 2021)</small>
+
+###### Artículo 86.
+
+La Secretaría propondrá al Titular del Poder Ejecutivo del Estado la celebración de acuerdos con la Secretaría Federal, así como con autoridades educativas y laborales, para la implementación de programas relacionados con la capacitación de prestadores de servicios turísticos, trabajadores y servidores públicos federales, estatal y municipales del ramo turístico sobre los conocimientos necesarios para el desarrollo de sus actividades, de acuerdo a los términos que establezca el marco legal vigente.
+
+En los acuerdos señalados en el párrafo anterior se promocionará incluir una cláusula para promover la capacitación de empresarios, trabajadores y servidores públicos del ramo turístico que presenten alguna discapacidad.
+
+### CAPÍTULO III. De la certificación de los prestadores de servicios turísticos
+
+###### Artículo 87.
+
+La Secretaría, en coordinación con los organismos estatales competentes, implementará las acciones necesarias para el establecimiento de la Certificación Laboral "Veracruz Turístico", que podrán obtener, de forma voluntaria, los prestadores de servicios domiciliados en el Estado, la cual será complementaria de la establecida por la Secretaría Federal y otras disposiciones reglamentarias.
+
+Para el diseño de la Certificación Laboral "Veracruz Turístico" se establecerán requisitos y calificaciones que tomen en cuenta las particularidades culturales y ecológicas de la Entidad, así como sus fortalezas, con la finalidad de que los prestadores de servicios cuenten con las herramientas necesarias para desempeñarse de manera competitiva en el mercado laboral y satisfacer las expectativas de los visitantes.
+
+###### Artículo 88.
+
+La Secretaría determinará los servicios turísticos que podrán obtener la Certificación Laboral "Veracruz Turístico" y difundirá en los mercados nacionales e internacionales del sector sus alcances y beneficios, como una estrategia para el posicionamiento de la marca Veracruz.
+
+###### Artículo 89.
+
+La Secretaría, en coordinación con el Organismo Acreditador de Competencias Laborales del Estado de Veracruz de Ignacio de la Llave, determinará los requisitos técnicos y las calificaciones necesarias para la obtención de la Certificación Laboral "Veracruz Turístico" y los difundirá entre organizaciones empresariales, sociales y público interesado.
+
+###### Artículo 90.
+
+La Secretaría promoverá convenios con las autoridades competentes para que los prestadores de servicios turísticos que cumplan con la Certificación Laboral "Veracruz Turístico" tengan acceso preferencial a los sitios y atractivos turísticos situados en el Estado.
+
+###### Artículo 91.
+
+Los prestadores de servicios turísticos que cuenten con la Certificación Laboral "Veracruz Turístico" tendrán prioridad para ser incluidos en programas de apoyo al sector y en acciones de promoción implementadas por el Gobierno del Estado.
+
+## TÍTULO NOVENO. Del Registro Nacional de Turismo
+
+### CAPÍTULO ÚNICO
+
+###### Artículo 92.
+
+El Estado y los Ayuntamientos podrán acceder al Registro Nacional de Turismo, con el objeto de conocer el mercado turístico y establecer comunicación con las empresas.
+
+###### Artículo 93.
+
+El Estado y los Ayuntamientos contarán con la facultad para operar el Registro Nacional de Turismo. Los Ayuntamientos tendrán la obligación de aportar a la Secretaría la información veraz sobre los prestadores de servicios turísticos establecidos en su territorio y actualizarla anualmente.
+
+###### Artículo 94.
+
+La base de datos de los prestadores de servicios turísticos del Estado será remitida por la Secretaría a la Secretaría Federal para integrar el Registro Nacional de Turismo.
+
+## TÍTULO DÉCIMO. De los prestadores de servicios turísticos y de los visitantes
+
+### CAPÍTULO I. De los prestadores de servicios turísticos
+
+###### Artículo 95.
+
+La prestación de los servicios turísticos se regirá por lo que las partes convengan, en cumplimiento de la presente Ley, la Ley General, la Ley Federal de Protección al Consumidor y demás disposiciones legales y administrativas aplicables.
+
+Para operar, los prestadores de servicios turísticos deberán cumplir con los elementos y requisitos que determinen la Secretaría Federal, las disposiciones reglamentarias correspondientes, las Normas Oficiales Mexicanas y las leyes del Estado.
+
+En la prestación de los servicios turísticos no se permitirá la discriminación.
+
+###### Artículo 96.
+
+Los prestadores de servicios turísticos tendrán los derechos siguientes:
+
+> <small>(REFORMADA, G.O. 13 DE AGOSTO DE 2013)</small>
+
+I. Participar en el Consejo de conformidad con lo establecido en el reglamento de la presente Ley.
+
+II. Aparecer en el Registro Nacional de Turismo;
+
+III. Participar en los programas de profesionalización del sector turismo, que promueva o lleve a cabo la Secretaría;
+
+IV. Obtener la certificación que se otorgue en los términos de esta Ley;
+
+V. Solicitar al personal encargado de las visitas de inspección y demás procedimientos de verificación que se identifique y presente la documentación que autoriza su actuación;
+
+VI. Recibir asesoramiento técnico, así como la información y auxilio de la Secretaría;
+
+VII. Ser considerados en las estrategias de relaciones públicas, difusión y promoción turística nacional e internacional de la Secretaría;
+
+VIII. Solicitar apoyo en la celebración de eventos culturales, deportivos, gastronómicos, convenciones, conferencias, exposiciones y demás eventos organizados con fines turísticos;
+
+IX. Participar en los programas de capacitación turística que promueva o lleve a cabo la Secretaría;
+
+X. Recibir del visitante la remuneración convenida por los servicios turísticos que proporcione; y
+
+XI. Los demás que establezcan éste y otros ordenamientos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2020)</small>
+
+###### Artículo 97.
+
+Las y los prestadores de servicios turísticos tendrán las obligaciones siguientes:
+
+I. Anunciar visiblemente en los lugares de acceso al establecimiento la dirección, teléfono o correo electrónico, tanto del responsable del establecimiento como de la autoridad competente ante la que se puedan presentar quejas;
+
+II. Informar al turista los precios, tarifas, condiciones, características y costo total de los servicios y productos que requiera;
+
+III. Cumplir en su operación con las disposiciones legales en materia ecológica y de preservación del patrimonio cultural y procurar que los usuarios de sus servicios se conduzcan de manera responsable durante su estancia en el Estado;
+
+IV. Inscribirse en el Registro Nacional de Turismo y actualizar los datos oportunamente;
+
+V. Cumplir con los servicios, precios, tarifas y promociones, en los términos anunciados, ofrecidos o pactados;
+
+VI. Expedir, aun sin solicitud del visitante, factura detallada, nota de consumo o documento fiscal que ampare los cobros realizados por la prestación del servicio turístico proporcionado;
+
+VII. Profesionalizar a sus trabajadores y empleados, en los términos de las leyes respectivas;
+
+VIII. Disponer lo necesario para que los inmuebles, edificaciones y servicios turísticos incluyan las especificaciones que permitan la accesibilidad a toda persona de cualquier condición, así como permitir el acceso de perros guías, sillas de ruedas, bastones, aparatos médicos, camillas o demás ayudas necesarias para personas con discapacidad;
+
+IX. Cumplir con las características y requisitos exigidos, de acuerdo a su clasificación en los términos de la Ley General;
+
+X. Prestar sus servicios en español como primera lengua, sin menoscabo de poderlos brindar en otros idiomas o lenguas;
+
+XI. Colaborar con la política estatal y nacional de fomento y promoción turística y atender las recomendaciones que, para tal efecto, haga la Secretaría y las propias que formule el Consejo;
+
+XII. Reembolsar, bonificar o compensar la suma correspondiente por servicios incumplidos o bien prestar otro de la misma calidad o equivalencia al que hubiese incumplido, a elección del visitante;
+
+XIII. Proporcionar y facilitar a la Secretaría la información y documentación que requiera, para efectos de supervisión, inspección y verificación, siempre y cuando se relacione única y exclusivamente con la prestación del servicio turístico correspondiente;
+
+XIV. Medir el grado de satisfacción del visitante, de acuerdo a los parámetros establecidos en el cuestionario que será proporcionado por la Secretaría, el cual recabará datos sobre su lugar de origen, medio de transporte utilizado para su traslado, número de personas con las que viaja y el promedio de turistas-noche, con el fin de cumplir con lo dispuesto en la fracción siguiente;
+
+XV. Participar en el Sistema Estatal de Información Estadística Turística implementado por la Secretaría, proporcionando a ésta la información necesaria para su integración, misma que será utilizada únicamente con fines estadísticos;
+
+XVI. Observar estrictamente las disposiciones de esta Ley, de la Ley General y demás ordenamientos legales, así como vigilar que sus dependientes y empleados cumplan con los mismos;
+
+XVII. Cumplir con lo establecido por la Ley de Protección Civil para el Estado y con las disposiciones de la Secretaría, relativas a esta materia;
+
+XVIII. Anunciar ostensiblemente, en los lugares de acceso al establecimiento, sus precios y tarifas y los servicios que éstos incluyen. Cuando se trate de la prestación de servicios de guías de turistas, guías de buceo y guías especializados, al momento de la contratación del servicio informarán su tarifa y lo que ésta incluye;
+
+XIX. Realizar en idioma español los anuncios publicitarios de sus establecimientos y del servicio que se preste, con la posibilidad de hacer la traducción correspondiente a otro idioma, con letra de igual o menor tamaño dentro del mismo anuncio;
+
+XX. Incluir en las tarifas de los servicios que se ofrecen al visitante, el pago de una prima de seguro de responsabilidad civil o gastos médicos para la protección del cliente, cuando la naturaleza del servicio contratado así lo requiera;
+
+XXI. Proporcionar al visitante los bienes o servicios ofrecidos en los términos acordados, excepto en casos fortuitos, de fuerza mayor o cuando aquél incumpla con el pago del servicio contratado o contravenga los reglamentos internos de los prestadores de servicios, regulados por las Normas Oficiales Mexicanas;
+
+> <small>(REFORMADA, G.O. 13 DE MAYO DE 2021)</small>
+
+XXII. Cumplir con las obligaciones que en materia de capacitación, seguridad, migración y salud les imponga la legislación vigente y, en su caso, los reglamentos municipales;
+
+XXIII. Garantizar al usuario la tranquila y segura disposición y goce de los bienes y servicios prestados;
+
+> <small>(REFORMADA, G.O. 13 DE MAYO DE 2021)</small>
+
+XXIV. Mantener actualizadas sus páginas electrónicas, con la finalidad de que contengan de manera detallada los servicios, ubicación, costo, restricciones y demás aspectos que sean de interés para el visitante;
+
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2020)</small>
+
+XXV. Coadyuvar con la Secretaría en los programas que promuevan la donación de alimentos en buen estado no utilizados en hoteles y restaurantes, con la finalidad de que se destinen a la población en situación de carencia alimentaria;
+
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2020)</small>
+
+XXVI. Quienes tengan la responsabilidad de administración y manejo de un hotel, motel, casa de hospedaje o algún otro establecimiento donde se preste alojamiento mediante pago de una retribución, deberán exigir a quienes pretendan hospedarse por más de cuatro horas una identificación oficial al momento de su registro y, en su caso, el número de placas o características del vehículo en el que se transportan, dicha información deberá sujetarse a lo dispuesto por la Ley Federal de Protección de Datos Personales en Posesión de Particulares; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 11 DE SEPTIEMBRE DE 2018)</small>
+
+XXVII. Las demás que establezcan los ordenamientos federales y estatales.
+
+### CAPÍTULO II. De los visitantes
+
+###### Artículo 98.
+
+Los visitantes tendrán, en los términos previstos en esta Ley, los siguientes derechos, con independencia de los que les asisten como consumidores:
+
+I. Recibir información útil, precisa, veraz y detallada, con carácter previo, sobre todas y cada una de las condiciones de prestación de los servicios turísticos;
+
+II. Obtener los bienes y servicios turísticos en las condiciones contratadas;
+
+III. Obtener los documentos que acrediten los términos de su contratación, así como las correspondientes facturas o comprobantes fiscales legalmente emitidos;
+
+IV. Recibir del prestador de servicios turísticos los bienes y servicios acordes con la naturaleza y calidad de la categoría que ostente el establecimiento elegido;
+
+V. Formular ante la Secretaría las quejas y reclamaciones, en las condiciones que determine este ordenamiento;
+
+VI. Contestar el cuestionario referente al Grado de Satisfacción del Visitante, que les proporcionen los prestadores de servicio, para fines estadísticos;
+
+VII. Recibir los servicios sin ser discriminados; y
+
+VIII. Contar con las condiciones de higiene y seguridad de sus personas y bienes en las instalaciones y servicios turísticos, en los términos establecidos en la legislación correspondiente.
+
+> <small>(ADICIONADA, G.O. 29 DE NOVIEMBRE DE 2018)</small>
+
+IX. Los Visitantes Estatales contarán con un plan preferencial de descuento, con un mínimo de 20 % y un máximo de 50 %, sobre el precio establecido por producto turístico.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2020)</small>
+
+###### Artículo 99.
+
+Son deberes de las y los visitantes:
+
+I. Observar las normas usuales de convivencia en los establecimientos turísticos;
+
+II. Respetar el entorno natural y patrimonio cultural de los sitios en los que realice una actividad turística;
+
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2020)</small>
+
+III. Acatar las prescripciones particulares de establecimientos mercantiles y empresas cuyos servicios turísticos disfruten o contraten y particularmente las normas y reglamentos mercantiles de uso o de régimen interior;
+
+IV. Pagar el precio de los servicios turísticos utilizados.
+
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2020)</small>
+
+V. Al hospedarse por más de cuatro horas en cualquier hotel, motel, casa de hospedaje o algún otros (sic) establecimiento donde se preste el servicio de alojamiento mediante pago de una retribución, exhibir al momento de su registro, identificación oficial vigente y, en su caso, el número de placas o características del vehículo en el que se transportan. Tratándose de extranjeros, deberán presentar documento idóneo expedido por autoridad competente que los identifique;
+
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2020)</small>
+
+VI. Observar las obligaciones que en materia de seguridad, migración y salud les imponga la legislación vigente; y
+
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2020)</small>
+
+VII. Las demás que establezcan esta Ley y demás ordenamientos federales, estatales o municipales aplicables.
+
+## TÍTULO DÉCIMO PRIMERO. Del Sistema Estatal de Información Estadística Turística
+
+### CAPÍTULO ÚNICO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 13 DE AGOSTO DE 2013)</small>
+
+###### Artículo 100.
+
+La Secretaría, con el fin de evaluar los alcances de las políticas públicas de fomento de la actividad, medir la evolución del sector y contar con mayores herramientas para la toma de decisiones, integrará información sobre diversas variables socioeconómicas de la actividad turística en el Estado, tales como la generación de empleos, perfil y grado de satisfacción del turista, la afluencia de visitantes, derrama económica, el número de establecimientos, el inventario de habitaciones y las inversiones públicas y privadas en el rubro turístico, entre otras.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 13 DE AGOSTO DE 2013)</small>
+
+Asimismo y con la finalidad de fortalecer este sistema, se incluirán variables que permitan medir el comportamiento de los mercados turísticos internacionales, nacionales y regionales así como las tendencias que permitan articular una adecuada planeación.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 13 DE AGOSTO DE 2013)</small>
+
+Para ello, se contará con el auxilio de los sectores público, privado y social, empresas, instituciones académicas y autoridades competentes.
+
+###### Artículo 101.
+
+La información recabada se integrará al Diagnóstico Estatal sobre la Actividad Turística del Estado, que será actualizado periódicamente por la Secretaría y puesto a disposición del público interesado, de acuerdo a las leyes de la materia.
+
+###### Artículo 102.
+
+Los prestadores de servicios deberán proporcionar a la Secretaría, a petición de ésta, la información sobre sus actividades que resulte necesaria para la integración de dicho diagnóstico, la cual sólo será utilizada con fines estadísticos.
+
+## TÍTULO DÉCIMO SEGUNDO. De la situación de emergencia y desastre
+
+### CAPÍTULO ÚNICO
+
+###### Artículo 103.
+
+La Secretaría, en coordinación con las autoridades competentes en materia de protección civil del Estado, velará por la protección de los visitantes y los prestadores de servicios turísticos, cuando se presente alguna contingencia que ponga en riesgo la integridad física y el patrimonio de los involucrados en la actividad turística estatal.
+
+###### Artículo 104.
+
+La Secretaría, en coordinación con los Ayuntamientos, establecerá programas o acciones tendentes a fomentar en los visitantes cómo actuar ante la presencia de fenómenos meteorológicos o cualquier contingencia que se presente en el Estado.
+
+###### Artículo 105.
+
+La Secretaría y los Ayuntamientos, como medida preventiva, difundirán entre los visitantes y los prestadores de servicios turísticos una lista de los albergues y refugios acreditados por la Secretaría de Protección Civil del Estado.
+
+###### Artículo 106.
+
+La Secretaría y los Ayuntamientos vigilarán que los prestadores de servicios turísticos cumplan con las disposiciones establecidas en la Ley de Protección Civil para el Estado de Veracruz de Ignacio de la Llave.
+
+## TÍTULO DÉCIMO TERCERO. De la protección al visitante
+
+### CAPÍTULO I. De la protección y orientación al visitante
+
+###### Artículo 107.
+
+La Secretaría orientará y protegerá al visitante, mediante servicios de información, recepción de quejas o sugerencias, conciliación de sus intereses con prestadores de servicios o gestiones ante autoridades; en su caso, atenderá y turnará ante quien corresponda los asuntos relacionados con la afectación de derechos del visitante, cuando éste así lo requiera.
+
+###### Artículo 108.
+
+Para efectos del artículo anterior, la Secretaría podrá:
+
+I. Atender las quejas o sugerencias del visitante, o las solicitudes de apoyo que éste le formule, mediante su canalización a la entidad competente y, en la medida de lo posible, con el auxilio en sus gestiones;
+
+II. Intervenir, a petición de las partes, en la conciliación de intereses entre prestadores de servicios turísticos y visitantes, a fin de procurar una solución equitativa, para que se mantengan la satisfacción del visitante y la buena imagen del sitio turístico involucrado; y
+
+III. Servir como órgano de enlace con el consulado respectivo para apoyo al visitante, cuando se trate de quejas presentadas en el extranjero, siempre y cuando esta facultad no contravenga las leyes federales.
+
+> <small>(ADICIONADO, G.O. 23 DE NOVIEMBRE DE 2017)</small>
+
+###### Artículo 108 Bis.
+
+La Secretaría contará con un grupo de auxilio turístico de primer contacto que ofrezca servicios de información, orientación, asesoría, asistencia médica inicial, asistencia mecánica, auxilio y apoyo a turistas, que operará durante la celebración de eventos de mayor afluencia turística en el Estado.
+
+Al efecto, la Secretaría podrá celebrar convenios de coordinación con los municipios correspondientes y con los prestadores de servicios turísticos, a fin de dotar de mayores recursos al grupo de auxilio.
+
+### CAPÍTULO II. De la verificación
+
+###### Artículo 109.
+
+La Secretaría podrá realizar verificaciones a los prestadores de servicios turísticos, para supervisar la operación y atención al visitante, previo convenio con la Secretaría Federal.
+
+Este convenio establecerá las bases a las que se sujetarán dichas verificaciones, sin perjuicio de que la Secretaría realice las que considere pertinentes, con observancia de lo dispuesto en este capítulo, con el objeto de evitar duplicidad de funciones en materia de verificación.
+
+###### Artículo 110.
+
+La Secretaría podrá realizar, a través de los Ayuntamientos, previo convenio de colaboración, la verificación del cumplimiento de la normatividad reguladora de los prestadores de servicios turísticos.
+
+###### Artículo 111.
+
+Las visitas de verificación que efectúe la Secretaría se regirán por esta Ley y se practicarán por personal autorizado que exhibirá identificación vigente y la orden de verificación respectiva, en la que claramente se especifiquen las disposiciones cuyo cumplimiento habrán de verificarse. Si los verificadores encontraren anomalías en la prestación de servicios, que no estén contempladas en su orden de verificación, las harán del conocimiento de la Secretaría mediante un informe por escrito, para los fines legales correspondientes.
+
+###### Artículo 112.
+
+Durante las visitas de verificación, los prestadores de servicios turísticos proporcionarán a la autoridad la información que les sea solicitada, siempre que se refiera a las disposiciones que expresamente se señalen en la orden de verificación.
+
+###### Artículo 113.
+
+A toda visita de verificación que se realice corresponderá el levantamiento del acta respectiva, debidamente circunstanciada y elaborada en presencia de dos testigos propuestos por la persona que haya atendido la visita o por el verificador, si aquélla se hubiese negado a designarlos.
+
+###### Artículo 114.
+
+En las actas que se levanten con motivo de la visita de verificación se hará constar, por lo menos, lo siguiente:
+
+I. Hora, día, mes y año en que se practicó la visita;
+
+II. Finalidad de la visita;
+
+III. Número y fecha de la orden de verificación, así como la identificación oficial de verificador;
+
+IV. Ubicación física del establecimiento o de las instalaciones donde se presten los servicios turísticos que sean objeto de la verificación, la que incluirá calle, número, colonia, código postal, población y municipio;
+
+V. Nombre y carácter o personalidad jurídica de quien recibió la visita de verificación;
+
+VI. Nombres y domicilios de las personas designadas como testigos;
+
+VII. Síntesis descriptiva de la visita, asentando los hechos, datos y omisiones derivados del objetivo de la misma;
+
+VIII. Declaración de la persona que recibió la visita o, en su defecto, de su negativa a hacerla; y
+
+IX. Nombre y firma del verificador, de la persona que atendió la visita y de quienes hayan fungido como testigos.
+
+Una vez elaborada el acta, el verificador proporcionará una copia de la misma a la persona que recibió la visita, aun en el caso de que ésta se hubiera negado a firmarla, hecho que no desvirtuará su validez.
+
+###### Artículo 115.
+
+Concluida la verificación, la Secretaría turnará copia del acta circunstanciada de la actuación realizada a la dependencia competente, para efecto de que valore los hechos u omisiones asentados en la misma y determine la sanción que, en su caso, corresponda.
+
+### CAPÍTULO III. De las sanciones y del recurso de revisión
+
+###### Artículo 116.
+
+Las infracciones a lo dispuesto en esta Ley, así como las derivadas de las quejas de los visitantes, en las que el Estado tenga competencia, serán sancionadas por la Secretaría, para lo cual deberá iniciar y resolver el procedimiento administrativo de infracción, de conformidad con lo establecido por la Ley, el Código de Procedimientos Administrativos para el Estado de Veracruz de Ignacio de la Llave y las disposiciones reglamentarias que correspondan.
+
+Tratándose de quejas que se deriven del incumplimiento de disposiciones establecidas en la Ley General, Normas Oficiales Mexicanas y otras leyes, la Secretaría deberá turnarlas a la autoridad competente.
+
+Cuando derivado de una queja presentada por un turista ante la Procuraduría Federal del Consumidor se detecte el probable incumplimiento de las disposiciones de esta Ley, la Secretaría podrá iniciar el procedimiento administrativo correspondiente, así como requerir al prestador de servicios turísticos información que se estime necesaria para esclarecer los hechos.
+
+Los procedimientos que se establezcan, se apegarán estrictamente al principio de legalidad.
+
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2020)</small>
+
+###### Artículo 117.
+
+El incumplimiento a lo dispuesto en las fracciones II, VIII, X, XVIII, XIX, XXII y XXIII del artículo 97 de esta Ley será sancionado con multa del valor diario de cincuenta a cien Unidades de Medida y Actualización vigente.
+
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2020)</small>
+
+###### Artículo 118.
+
+Las infracciones a lo establecido en las fracciones VII, XIII, XIV, XV y XX del artículo 97 de esta Ley, se sancionarán con multa del valor diario de cien a doscientas Unidades de Medida y Actualización vigente.
+
+> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2020)</small>
+
+###### Artículo 119.
+
+Las violaciones a lo dispuesto en las fracciones III y XVII del artículo 97 de esta Ley serán sancionadas con multa que podrá ser del valor diario de doscientas hasta quinientas Unidades de Medida y Actualización vigente.
+
+###### Artículo 120.
+
+Serán supletorias de la presente Ley, las disposiciones del Código Civil, el Código de Procedimientos Civiles y el Código de Procedimientos Administrativos para el Estado de Veracruz de Ignacio de la Llave.
+
+###### Artículo 121.
+
+Contra las resoluciones dictadas por la Secretaría con fundamento en esta Ley y su Reglamento, se podrá interponer recurso de revisión, de conformidad con lo previsto en el Código de Procedimientos Administrativos para el Estado de Veracruz de Ignacio de la Llave.
+
+###### Artículo 122.
+
+La Secretaría deberá dar a conocer al público en general los resultados de las acciones de verificación y sanciones que se realicen anualmente, a través de los medios que se determinen en el Reglamento Interior.
+
+###### Artículo 123.
+
+Los fondos recaudados por concepto de multas se utilizarán para promover la región turística donde se cometió la infracción.
+
+T R A N S I T O R I O S
+
+Primero. La presente Ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave.
+
+Segundo. Se abroga la Ley número 523 de Turismo para el Estado de Veracruz de Ignacio de la Llave, publicada en la Gaceta Oficial del Gobierno del Estado el trece de enero de dos mil seis.
+
+Tercero. Se derogan todas las disposiciones legales y reglamentarias que en el ámbito estatal se opongan al presente ordenamiento.
+
+Cuarto. El Ejecutivo Estatal expedirá los reglamentos que refiere la presente Ley y modificará la estructura orgánica de la Secretaría de Turismo, Cultura y Cinematografía para su debido cumplimiento, dentro de los ciento ochenta días siguientes a la entrada en vigor de este ordenamiento.
+
+Quinto. Los Ayuntamientos expedirán los reglamentos que correspondan para dar cumplimiento a lo dispuesto por esta Ley, dentro de los ciento ochenta días siguientes a la entrada en vigor de la misma.
+
+Sexto. Los procedimientos administrativos iniciados antes de la entrada en vigor de la presente Ley, deberán atenderse y resolverse de conformidad con la legislación que se abroga mediante este ordenamiento.
+
+Dada en el salón de sesiones de la LXI Legislatura del Honorable Congreso del Estado, en la ciudad de Xalapa-Enríquez, Veracruz de Ignacio de la Llave, a los veintiocho días del mes de julio del año dos mil diez.
+
+Héctor Yunes Landa, diputado presidente.-Rúbrica. Acela Servín Murrieta, diputada secretaria.-Rúbrica.
+
+Por lo tanto, en atención a lo dispuesto por el artículo 49 fracción II de la Constitución Política del Estado, y en cumplimiento del oficio SG/001258 de los diputados presidente y secretario de la Sexagésima Primera Legislatura del Honorable Congreso del Estado, mando se publique y se le dé cumplimiento. Residencia del Poder Ejecutivo Estatal, a los treinta días del mes de julio del año dos mil diez.
+
+A t e n t a m e n t e
+
+Sufragio efectivo. No reelección
+
+Licenciado Fidel Herrera Beltrán
+
+Gobernador del Estado
+
+Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 27 DE JUNIO DE 2012.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan las disposiciones que se opongan al presente Decreto.
+
+G.O. 29 DE JULIO DE 2013.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan las disposiciones que se opongan al presente Decreto.
+
+G.O. 31 DE JULIO DE 2013.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+G.O. 13 DE AGOSTO DE 2013.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial.
+
+Segundo. Se derogan las disposiciones que se opongan al presente Decreto.
+
+G.O. 11 DE AGOSTO DE 2014.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 2 DE DICIEMBRE DE 2015.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se deroga cualquier disposición que contravenga al presente Decreto.
+
+G.O. 31 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 234 QUE ADICIONA LA FRACCIÓN XXIV BIS AL ARTÍCULO 4, Y LA FRACCIÓN XLI BIS AL ARTÍCULO 5, DE LA LEY DE TURISMO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 23 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 306 QUE ADICIONA UNA FRACCIÓN XVI BIS AL ARTÍCULO 5, Y EL ARTÍCULO 108 BIS A LA LEY DE TURISMO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 16 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 655 POR EL QUE SE ADICIONAN SENDOS PÁRRAFOS SEGUNDOS A LOS ARTÍCULOS 84, 85 Y 86 DE LA LEY DE TURISMO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+G.O. 11 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 707 QUE REFORMA EL ARTÍCULO 81, FRACCIÓN II, DE LA LEY DE TURISMO DEL ESTADO DE VERACRUZ”.]
+
+Primero. El presente Decreto iniciará su vigencia al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 11 DE SEPTIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 708 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE TURISMO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto iniciará su vigencia al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 29 DE NOVIEMBRE DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 771 POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE TURISMO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 30 DE MAYO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 249 QUE REFORMA LA FRACCIÓN X DEL ARTÍCULO 6 DE LA LEY DE TURISMO PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 29 DE JULIO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 271 QUE ADICIONA UN CAPÍTULO VII AL TÍTULO CUARTO, ASÍ COMO EL ARTÍCULO 37 BIS A LA LEY DE TURISMO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 14 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 270 POR EL QUE SE REFORMAN LOS ARTÍCULOS 13 EN SU FRACCIÓN IV, Y 63 DE LA LEY DE TURISMO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+Segundo. A partir de la vigencia del presente Decreto, el Ejecutivo del Estado dispondrá de noventa días naturales para que realice las adecuaciones correspondientes al Reglamento de la Ley.
+
+Tercero. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 26 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 296 QUE REFORMA LA FRACCIÓN VIII DEL ARTÍCULO 56 Y ADICIONA UNA FRACCIÓN V AL ARTÍCULO 57 DE LA LEY DE TURISMO DEL ESTADO DE VERACRUZ”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Tercero. La Secretaría de Turismo y Cultura del Estado de Veracruz de Ignacio de la Llave, contará con sesenta días naturales después de la publicación del presente Decreto para instrumentar lo necesario para que los municipios con vocación turística, operen en su totalidad sus respectivos sitios de internet.
+
+G.O. 4 DE FEBRERO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 532 QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DE LEYES DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente a su publicación en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave.
+
+SEGUNDO. Para los efectos legales procedentes, todas las leyes, decretos, códigos u ordenamientos estatales de observancia general, vigentes al momento de la entrada en vigor del presente Decreto y que en su denominación contengan la expresión "... salario mínimo", se entenderán referidas a la Unidad de Medida y Actualización que deberá ser utilizada como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía del pago de las obligaciones y supuestos previstos en las leyes del Estado de Veracruz de Ignacio de la Llave, así como en las disposiciones jurídicas que emanen de todas las anteriores.
+
+TERCERO. Las obligaciones y supuestos denominados en Unidad de Medida y Actualización se considerarán de monto determinado y se solventarán entregando su equivalente en moneda nacional. Al efecto, deberá multiplicarse el monto de la obligación o supuesto, expresado en la citada unidad, por el valor de dicha unidad a la fecha correspondiente.
+
+CUARTO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+G.O. 3 DE JUNIO DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 561 POR EL QUE SE REFORMAN EL ACÁPITE Y LAS FRACCIONES XXII Y XXV DEL ARTÍCULO 97, Y EL ACÁPITE Y LA FRACCIÓN III AL ARTÍCULO 99 Y ADICIONA LA FRACCIÓN XXVI, RECORRIENDO LA SUBSECUENTE EN SU ORDEN NATURAL AL ARTÍCULO 97 Y LAS FRACCIONES V, VI Y VII AL ARTÍCULO 99 DE LA LEY DE TURISMO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 10 DE SEPTIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 579 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE TURISMO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano de (sic) Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 11 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 851 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE TURISMO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO. Los Ayuntamientos contarán con un plazo no mayor de noventa días, contado a partir del inicio de la vigencia del presente Decreto, en el que deberán realizar las adecuaciones correspondientes a sus respetivos ordenamientos para darle puntual cumplimiento.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 13 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 852 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES A LA LEY DE TURISMO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
