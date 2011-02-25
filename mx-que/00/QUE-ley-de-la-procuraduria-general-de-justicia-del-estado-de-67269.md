@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-la-procuraduria-general-de-justicia-del-estado-de-67269"
 country: "mx"
 rank: "ley"
 publication_date: "2009-02-20"
-last_updated: "2009-02-20"
+last_updated: "2011-02-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67269&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE QUERETARO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE FEBRERO DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 20 de febrero de 2009.
 
@@ -554,6 +554,10 @@ III. Contribuir en la formación del archivo general de la Procuraduría, remiti
 IV. Atender y hacer del conocimiento del Procurador, las quejas que se presenten por irregularidades cometidas en las fases del procedimiento que se sigue ante el órgano jurisdiccional;
 
 V. Expedir certificación de antecedentes penales, únicamente a las autoridades que en ejercicio de sus funciones las soliciten y constancias en los términos establecidos en el Código Penal del Estado de Querétaro. En su caso, copias certificadas de los documentos a que se refiere dicha certificación, siempre que éstos tengan relación con un procedimiento jurisdiccional;
+
+> <small>(ADICIONADO, P.O. 25 DE FEBRERO DE 2011)</small>
+
+Cuando la autoridad jurisdiccional hubiera declarado la prescripción de antecedentes penales en las sentencias que corresponda, a petición del procesado y previa acreditación de haber cumplido la sanción impuesta, mediante las documentales conducentes, procederá a la cancelación administrativa del antecedente penal de mérito, expidiendo, a costa del solicitante, la constancia que acredite lo anterior.
 
 VI. Informar al Procurador de las violaciones que se cometan en el curso de los procesos; y
 
@@ -1344,3 +1348,15 @@ Lic. José Alfredo Botello Montes
 Secretario de Gobierno
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 25 DE FEBRERO DE 2011.
+
+Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Respecto de los antecedentes penales que existan con anterioridad a la entrada en vigor de la presente Ley, siempre que cumplan con las condiciones previstas en el artículo 124 BIS del Código Penal para el Estado de Querétaro, sin necesidad de declaración alguna por parte de la autoridad judicial; los ciudadanos podrán gozar, por una sola vez y respecto de todos los antecedentes que tenga, de la eliminación de los mismos.
+
+Para ello, la Procuraduría General de Justicia del Estado de Querétaro, a través del Departamento de Antecedentes Penales, dependiente de la Dirección de Control de Procesos, realizará la cancelación administrativa de los antecedentes penales que correspondan, en los registros conducentes, bastando la solicitud por escrito del interesado, a la que acompañará los documentos que acrediten haber cumplido la sanción impuesta; hecho lo anterior, se expedirá, a costa del solicitante, documento en el que conste la cancelación de mérito.
+
+Artículo Tercero. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente.
