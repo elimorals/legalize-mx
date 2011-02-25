@@ -4,7 +4,7 @@ identifier: "COA-codigo-electoral-del-estado-de-coahuila-de-zaragoza-75570"
 country: "mx"
 rank: "codigo"
 publication_date: "2010-06-29"
-last_updated: "2010-06-29"
+last_updated: "2011-02-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75570&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CODIGO ELECTORAL DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE FEBRERO DE 2011.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Coahuila, el martes 29 de junio de 2010.
 
@@ -3339,6 +3339,40 @@ j) Se harán constar en el acta circunstanciada de la sesión los resultados del
 
 8. EN NINGÚN CASO PODRÁ SOLICITARSE A LAS AUTORIDADES JURISDICCIONALES QUE REALICEN RECUENTO DE VOTOS RESPECTO DE LAS CASILLAS QUE HAYAN SIDO OBJETO DE DICHO PROCEDIMIENTO EN LOS COMITÉS RESPECTIVOS.
 
+> <small>(ADICIONADO, P.O. 25 DE FEBRERO DE 2011)</small>
+
+###### Artículo 213 Bis.
+
+1. Los partidos políticos y coaliciones podrán solicitar a las autoridades jurisdiccionales que realicen el recuento de votos, de conformidad con los supuestos y reglas que se previenen en la presente ley, entendiendo el recuento jurisdiccional como el escrutinio y cómputo realizado en la sede del Tribunal Electoral Estatal.
+
+2. El recuento de votos Jurisdiccional estará a cargo del Tribunal Estatal Electoral en el ámbito de su competencia y tiene como objetivo, proporcionar certeza y exactitud a la voluntad ciudadana expresada en las urnas.
+
+> <small>(ADICIONADO, P.O. 25 DE FEBRERO DE 2011)</small>
+
+###### Artículo 213 Bis 1.
+
+l. El Tribunal Estatal Electoral realizará a petición de parte interesada y legítima, el recuento total o parcial de votos, de acuerdo a los siguientes supuestos y reglas:
+
+a) En ambos casos, tanto como en el recuento parcial, como en el total de votos, el recuento deberá solicitarse expresamente en el medio de impugnación que se interponga ante el órgano jurisdiccional electoral.
+
+b) Solamente podrán pedirse por el partido político o coalición que, de acuerdo con los resultados de la elección emitidos por el instituto electoral, esté ubicado en segundo lugar de la votación.
+
+c) El recurrente deberá relacionar en forma individual y precisa, donde existen los errores o inconsistencias en los distintos elementos de las actas de escrutinio y cómputo, que justifiquen su recuento.
+
+d) El recuento también podrá solicitarse, además del caso anterior, cuando el número de votos nulos sea mayor a la diferencia entre los candidatos ubicados en el primer y segundo lugar en votación; o bien, cuando todos los votos hayan sido depositados a favor de un mismo partido.
+
+e) El recuento de votos será parcial cuando se efectúe a los resultados de una o varias casillas instaladas en la elección de que se trate.
+
+f) El recuento de votos será total cuando se practique sobre todas las casillas instaladas en la elección que corresponda y deberá, además de los requisitos previstos en este apartado, satisfacer los siguientes supuestos:
+
+I. Que el resultado de la elección en la cual se solicite el recuento total, arroje una diferencia entre el primer y segundo lugar de 0.5 por ciento.
+
+II. Que la autoridad administrativa electoral, se haya negado a realizar el recuento administrativo total de los paquetes, aún y cuando se haya alegado razón fundada en los términos de este Código; o bien que habiéndolo realizado, el partido o coalición impugnante estime que el recuento se hizo en forma deficiente, debiendo fundamentar y motivar las razones que lo llevan a la convicción de que dicho recuento no cumple con los principios de legalidad y certeza jurídica.
+
+III. Que sea determinante para el resultado de la elección. Se entenderá que es determinante cuando el partido, coalición o candidato que está en segundo lugar, pueda con motivo del recuento alcanzar el triunfo en la elección.
+
+g) Cumplidos todos los requisitos, el Tribunal Estatal Electoral, llevará a cabo el recuento parcial o total de la elección de que se trate, dentro de los autos del juicio interpuesto, para lo cual deberá emitir los acuerdos e implementar los medios idóneos para efectuar dicho recuento.
+
 ###### Artículo 214.
 
 1. Concluido el cómputo para la elección de diputados, miembros de los ayuntamientos y síndicos, el presidente del comité respectivo expedirá la constancia de mayoría y validez al candidato, fórmula o planilla que hubiese obtenido el triunfo, y remitirá al Secretario Ejecutivo copia certificada de tales documentos.
@@ -4170,3 +4204,13 @@ EL SECRETARIO DE GOBIERNO
 ARMANDO LUNA CANALES
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 25 DE FEBRERO DE 2011.
+
+PRIMERO.- La presente Iniciativa entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Coahuila de Zaragoza.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- Una vez realizada la publicación del Decreto correspondiente, se informe a la Suprema Corte de Justicia de la Nación, el cumplimiento de lo determinado por el Tribunal Pleno, en los autos de la ACCIÓN DE INCONSTITUCIONALlDAD 14/2010 Y SUS ACUMULADAS 15/2010, 16/2010 y 17/2010, remitiéndole el Periódico Oficial del Estado, así como los anexos legislativos correspondientes, solicitando en los términos de los artículos 46 y 50 de la Ley Reglamentaria de las Fracciones I y II del Artículo 105 de la Constitución Política de los Estados Unidos Mexicanos, sea resuelto el cumplimiento de la sentencia por ese Alto Tribunal y se ordene su archivo como asunto totalmente concluido.
