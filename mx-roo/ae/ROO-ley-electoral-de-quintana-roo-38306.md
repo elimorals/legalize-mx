@@ -4,7 +4,7 @@ identifier: "ROO-ley-electoral-de-quintana-roo-38306"
 country: "mx"
 rank: "ley"
 publication_date: "2004-03-04"
-last_updated: "2010-03-15"
+last_updated: "2011-02-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38306&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ELECTORAL DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE MARZO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE FEBRERO DE 2011.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el jueves 4 de marzo de 2004.
 
@@ -221,11 +221,11 @@ Para la elección de diputados por el principio de mayoría relativa, el territo
 
 Para efectos de la asignación de diputados por el principio de representación proporcional, el territorio del Estado constituye una circunscripción plurinominal.
 
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 24.
 
-Los municipios constituyen la base de la división territorial y de la organización política y administrativa del Estado. Los municipios son nueve, y su extensión territorial comprende la superficie y límites reconocidos para cada uno de ellos, en los términos de la Constitución Particular, misma extensión que servirá de base para la elección de aquellos.
+Los Municipios constituyen la base de la división territorial y de la organización política y administrativa del Estado. Los municipios son diez, y su extensión territorial comprende la superficie y límites reconocidos para cada uno de ellos, en los términos de la Constitución Particular, misma extensión que servirá de base para la elección de aquellos.
 
 ### CAPÍTULO SEGUNDO. DE LAS SECCIONES, DISTRITOS, MUNICIPIOS Y CIRCUNSCRIPCIÓN
 
@@ -265,11 +265,11 @@ VII. Una vez concluidos los trabajos de distritación, la resolución que en su 
 
 VIII. Entretanto no se apruebe la modificación de los distritos electorales uninominales, seguirá utilizándose la que se encuentre en vigencia.
 
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 29.
 
-Para los efectos de las elecciones municipales a que se refiere el presente ordenamiento, el Estado de Quintana Roo se divide en los siguientes nueve municipios, que por orden alfabético son: Benito Juárez, Cozumel, Felipe Carrillo Puerto, Isla Mujeres, José María Morelos, Lázaro Cárdenas, Othón P. Blanco, Solidaridad y Tulúm.
+Para los efectos de las elecciones municipales a que se refiere el presente ordenamiento, el Estado de Quintana Roo se divide en los siguientes diez municipios, que por orden alfabético son: Bacalar, Benito Juárez, Cozumel, Felipe Carrillo Puerto, Isla Mujeres, José María Morelos, Lázaro Cárdenas, Othón P. Blanco, Solidaridad y Tulúm.
 
 ###### Artículo 30.
 
@@ -3438,3 +3438,9 @@ Artículo Único.- El Artículo Primero del presente Decreto entrará en vigor e
 ARTICULO TRANSITORIO:
 
 ÚNICO.- Publíquese el presente Decreto en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 25 DE FEBRERO DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- Los escudos que se exhiban en los edificios públicos, escuelas o en otras instituciones, deberán ajustarse a la reforma del Artículo 6 de la Ley Sobre las Características y el Uso del Escudo del Estado de Quintana Roo establecida en el presente Decreto. Se exceptúan los escudos esculpidos en edificios o centros históricos que se encuentren ubicados en el Estado de Quintana Roo, que constituyan por su valor cultural o trascendencia social, parte indisoluble de la peculiaridad del pueblo quintanarroense.
