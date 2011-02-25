@@ -4,7 +4,7 @@ identifier: "ROO-decreto-sobre-las-caracteristicas-difusion-y-ejecucion-del-1190
 country: "mx"
 rank: "decreto"
 publication_date: "1986-02-14"
-last_updated: "2008-07-02"
+last_updated: "2011-02-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 SOBRE LAS CARACTERISTICAS, DIFUSION Y EJECUCION DEL HIMNO A QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE JULIO 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE FEBRERO DE 2011.
 
 Decreto publicado en el Periódico Oficial el 14 de febrero 1986
 
@@ -73,7 +73,7 @@ Compete a la Secretaría de Gobierno, vigilar el cumplimiento del presente decre
 
 Las contravenciones al presente decreto que no constituyan delito conforme a lo previsto en el Código Penal del Estado Libre y Soberano de Quintana Roo, pero que impliquen desacato o falta de respeto al Himno, se castigará según su gravedad y la condición del infractor, con multa hasta el equivalente a 200 veces el salario mínimo, o con arresto por 36 horas, si la infracción se comete con fines de lucro la multa podrá imponerse a 1000 veces el salario mínimo. Procederá la sanción de decomiso para los artículos que reproduzcan ilícitamente el Himno a Quintana Roo.
 
-> <small>(REFORMADO, P.O. 2 DE JULIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2011)</small>
 
 ARTICULO DECIMOPRIMERO.- La letra oficial del Himno a Quintana Roo, es la siguiente:
 
@@ -127,9 +127,9 @@ pues la Patria en tu suelo recibe,
 
 la caricia primera del sol.
 
-Nueve haces son tus Municipios,
+diez haces son tus Municipios,
 
-Nueve haces de luz ascendente,
+diez haces de luz ascendente,
 
 el pasado se torna presente,
 
@@ -258,3 +258,9 @@ P.O. 2 DE JULIO DE 2008.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO.- Los escudos que se exhiban en los edificios públicos, escuelas o en otras, instituciones, deberán ajustarse a la reforma del Artículo 6° de la Ley Sobre las Características y el Uso del Escudo del Estado de Quintana Roo, establecida en el presente decreto. Se exceptúan los escudos esculpidos en edificios o centros históricos que se encuentren ubicados en el Estado de Quintana Roo, que constituyan por su valor cultural o trascendencia social, parte indisoluble de la peculiaridad del pueblo quintanarroense.
+
+P.O. 25 DE FEBRERO DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- Los escudos que se exhiban en los edificios públicos, escuelas o en otras instituciones, deberán ajustarse a la reforma del Artículo 6 de la Ley Sobre las Características y el Uso del Escudo del Estado de Quintana Roo establecida en el presente Decreto. Se exceptúan los escudos esculpidos en edificios o centros históricos que se encuentren ubicados en el Estado de Quintana Roo, que constituyan por su valor cultural o trascendencia social, parte indisoluble de la peculiaridad del pueblo quintanarroense.
