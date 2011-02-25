@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-los-municipios-del-estado-de-quintana-roo-42182"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-20"
-last_updated: "2011-02-24"
+last_updated: "2011-02-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42182&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE FEBRERO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE FEBRERO DE 2011.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 20 de diciembre de 2004.
 
@@ -155,11 +155,11 @@ De la División Territorial, Administrativa y Política.
 
 ### Capítulo I. De la división territorial
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE JULIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE FEBRERO DE 2011)</small>
 
 ###### ARTÍCULO 12.
 
-El Estado de Quintana Roo, se integra con los siguientes Municipios: Othón P. Blanco, Felipe Carrillo Puerto, José María Morelos, Cozumel, Lázaro Cárdenas, Benito Juárez, Isla Mujeres, Solidaridad y Tulúm.
+El Estado de Quintana Roo, se integra con los siguientes Municipios: Othón P. Blanco, Felipe Carrillo Puerto, José María Morelos, Cozumel, Lázaro Cárdenas, Benito Juárez, Isla Mujeres, Solidaridad, Tulum y Bacalar.
 
 La extensión, límites y cabecera de cada Municipio, serán los señalados en la Constitución Política del Estado Libre y Soberano de Quintana Roo.
 
@@ -285,25 +285,41 @@ XVII. Las demás que se señalen en el reglamento interior que les apruebe el Ay
 
 Las Alcaldías contratarán, para el mejor desempeño de su gestión, los apoyos y la asesoría jurídica, contable y administrativa que requieran, en los términos que apruebe el Ayuntamiento, así como el personal indispensable que el propio Ayuntamiento les apruebe en el presupuesto de egresos.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE FEBRERO DE 2011)</small>
+
 ###### ARTÍCULO 25.
 
-Los miembros de las alcaldías serán electos mediante Asambleas de Vecinos. Para tal efecto el Ayuntamiento expedirá un reglamento que deberá sujetarse a las siguientes bases:
+Los integrantes de las Alcaldías y los Delegados Municipales, serán electos mediante el voto universal, libre, secreto, directo, personal e intransferible, de los ciudadanos que residan dentro de la circunscripción territorial de la alcaldía y la delegación respectiva. Para tal efecto el Ayuntamiento expedirá un reglamento que deberá sujetarse a las siguientes bases:
 
-I. El Presidente Municipal expedirá la convocatoria para la asamblea de vecinos donde se designarán Alcalde y Concejales propietarios y suplentes.
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2011)</small>
 
-II. La convocatoria que al efecto expida el Presidente Municipal deberá señalar los términos, modalidades y formas de organización de la asamblea, y deberá ser expedida quince días naturales antes de la celebración de la asamblea de vecinos.
+I. Las normas que establezcan la preparación, desarrollo, organización y vigilancia de la elección, así como las infracciones y sanciones correspondientes;
 
-III. El Presidente Municipal, podrá solicitar al Instituto Electoral de Quintana Roo, su coadyuvancia en la organización de las asambleas para elegir a los integrantes de las Alcaldías, en los términos de los convenios que al efecto celebre.
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2011)</small>
 
-IV. Las Alcaldías deberán ser instaladas dentro los primeros noventa días de la gestión municipal.
+II. La convocatoria que al efecto expida el Ayuntamiento, deberá ser publicada cuando menos quince días naturales antes de la celebración de la jornada electoral;
 
-Los miembros de las Alcaldías durarán en sus funciones el mismo período para el que fue electo el Ayuntamiento, debiendo permanecer en sus cargos hasta que entren en funciones los nuevos miembros electos.
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2011)</small>
 
-Los miembros de las Alcaldías podrán ser removidos por los ayuntamientos cuando dejaren de cumplir reiteradamente con las facultades y obligaciones que les señala la presente ley, así como por el incumplimiento de las disposiciones que se establezcan en los reglamentos respectivos.
+III. Para los efectos de la elección prevista en el presente artículo, el H. Cabildo designará un Comité de Elección que en el caso de los Ayuntamientos que se integran por nueve regidores de mayoría relativa y seis de representación proporcional, se deberá integrar por cuatro regidores de mayoría relativa y tres regidores de representación proporcional, asimismo, por cuanto se refiere a los Ayuntamientos que se encuentren integrados por seis regidores de mayoría relativa y tres regidores de representación proporcional, éstos integrarán el Comité respectivo, con tres regidores de mayoría relativa y dos de representación proporcional; en ambos casos, los Ayuntamientos podrán solicitar al Instituto Electoral de Quintana Roo, su coadyuvancia en la organización de las elecciones para los integrantes de las Alcaldías y los Delegados Municipales, en los términos de los convenios que al efecto celebre;
+
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2011)</small>
+
+IV. Las Alcaldías y los Delegados Municipales deberán ser instalados dentro de los primeros noventa días de la gestión municipal.
+
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2011)</small>
+
+Los integrantes de las Alcaldías y los Delegados Municipales durarán en sus funciones el mismo período para el que fue electo el Ayuntamiento, debiendo permanecer en sus cargos hasta que entren en funciones los nuevos integrantes electos.
+
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2011)</small>
+
+Los integrantes de las Alcaldías y los Delegados Municipales podrán ser removidos por el voto de las dos terceras partes de los miembros de los Ayuntamientos; cuando dejaren de cumplir reiteradamente con las facultades y obligaciones que les señala la presente ley, así como por el incumplimiento de las disposiciones que se establezcan en los reglamentos respectivos.
 
 En caso de remoción o falta del titular de la Alcaldía, éste será suplido por el primer Concejal; en este caso, el suplente del primer Concejal entrará en funciones.
 
-En caso de remoción o falta de los demás miembros de la Alcaldía, entrarán en funciones los suplentes respectivos.
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2011)</small>
+
+En caso de remoción o falta de los demás integrantes de la Alcaldía y los Delegados Municipales, entrarán en funciones los suplentes respectivos.
 
 En el reglamento que al efecto expida el Ayuntamiento deberá señalarse la frecuencia de las sesiones, los procedimientos para emitir sus acuerdos y cumplimiento de las alcaldías.
 
@@ -355,9 +371,11 @@ En las rancherías y congregaciones, y para los mismos efectos señalados en el 
 
 Las Delegaciones y Subdelegaciones municipales, dependerán administrativamente del Presidente Municipal, ejercerán las facultades y atribuciones que les confiera el Ayuntamiento, conforme a esta Ley en el ámbito territorial que le sea asignado y contarán con el personal y presupuesto que el propio Ayuntamiento les señale.
 
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2011)</small>
+
 ###### ARTÍCULO 34.
 
-Los Delegados y Subdelegados municipales, serán designados por el Presidente Municipal o electos conforme a lo dispuesto en el Artículo 25 de la presente Ley.
+Los Subdelegados Municipales serán designados por el Presidente Municipal.
 
 ###### ARTÍCULO 35.
 
@@ -1159,9 +1177,9 @@ Se considerará trascendente para el desarrollo normal de las atribuciones del A
 
 Cuando la Legislatura decrete la suspensión de uno o varios de los miembros propietarios del Ayuntamiento, al efecto de cubrir las vacantes temporales que así se generen, se procederá conforme a lo siguiente:
 
-I. Si la suspensión recae en uno o varios en un numero inferior a la mayoría de sus miembros propietarios, se le notificará al Ayuntamiento para que mande llamar al o a los suplentes respectivos;
+I.- Si la suspensión recae en uno o varios en un numero inferior a la mayoría de sus miembros propietarios, se le notificará al Ayuntamiento para que mande llamar al o a los suplentes respectivos;
 
-II. Si la suspensión recae en la mayoría de los miembros propietarios del Ayuntamiento, la Legislatura mandará llamar a los suplentes electos en el proceso electoral que les dio origen.
+II.- Si la suspensión recae en la mayoría de los miembros propietarios del Ayuntamiento, la Legislatura mandará llamar a los suplentes electos en el proceso electoral que les dio origen.
 
 Si con los miembros propietarios del Ayuntamiento que subsigan y los suplentes electos originalmente que asuman el cargo, no se reúne la mayoría necesaria para que pueda funcionar el Ayuntamiento, la Legislatura designará un Concejo Municipal Provisional que funcionará entre tanto quede en firme la resolución que recaiga en el procedimiento que dio origen a la suspensión.
 
@@ -2732,3 +2750,19 @@ TERCERO.- Se derogan todas aquellas disposiciones que se contrapongan al present
 P.O. 24 DE FEBRERO DE 2011.
 
 ÚNICO.- El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 25 DE FEBRERO DE 2011.
+
+DECRETO NUMERO 426, POR EL QUE SE REFORMA EL PRIMER PARRAFO DEL ARTICULO 12 DE LA LEY DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- Los escudos que se exhiban en los edificios públicos, escuelas o en otras instituciones, deberán ajustarse a la reforma del Artículo 6 de la Ley Sobre las Características y el Uso del Escudo del Estado de Quintana Roo establecida en el presente Decreto. Se exceptúan los escudos esculpidos en edificios o centros históricos que se encuentren ubicados en el Estado de Quintana Roo, que constituyan por su valor cultural o trascendencia social, parte indisoluble de la peculiaridad del pueblo quintanarroense.
+
+P.O. 25 DE FEBRERO DE 2011.
+
+DECRETO NUMERO 431, POR EL QUE SE REFORMAN LOS ARTICULOS 25 Y 34 DE LA LEY DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO.
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- Los Ayuntamientos del Estado de Quintana Roo, cuya división administrativa cuente con Alcaldías, deberán expedir el Reglamento a que se refiere el Artículo 25 de la Ley de los Municipios del Estado de Quintana Roo, dentro de los 30 días naturales a partir del día siguiente de la entrada en vigor del presente Decreto.
