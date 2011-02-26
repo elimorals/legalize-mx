@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-interior-de-la-secretaria-particular-de-la-65157"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-11-22"
-last_updated: "2009-06-24"
+last_updated: "2011-02-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65157&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ZAC"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA PARTICULAR DE LA GOBERNADORA DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE JUNIO DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL DESPACHO DEL C. GOBERNADOR, PUBLICADO EN EL P.O. DE 26 DE FEBRERO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el lunes 22 de noviembre de 2008.
 
@@ -772,3 +774,17 @@ P.O. 24 DE JUNIO DE 2009.
 PRIMERO.- El presente Decreto Gubernativo, entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 SEGUNDO.- Los Manuales de Organización y de Procedimientos de la Secretaría Particular de la Gobernadora, deberán actualizarse en un término que no excederá de sesenta días a partir de la entrada en vigor de este instrumento legal.
+
+P.O. 26 DE FEBRERO DE 2011.
+
+Primero.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Segundo.- Se abroga el Reglamento Interior de la Secretaría Particular del C. Gobernador del Estado de Zacatecas, publicado en el Periódico Oficial, Órgano del Gobierno del Estado, el 22 de noviembre del 2008, en Suplemento 2 al número 94.
+
+Se derogan además las disposiciones administrativas que se opongan al presente Reglamento.
+
+Tercero.- Los Manuales de Organización y Procedimientos del Despacho del Gobernador, deberán emitirse en un término que no excederá de 90 días naturales contados a partir de la vigencia del presente ordenamiento.
+
+Cuarto.- Los trámites pendientes al entrar en vigor este Reglamento, que conforme al mismo deban pasar de una área a otra, continuarán su proceso y serán resueltos por aquella unidad a quienes se atribuye la competencia en el presente ordenamiento.
+
+Quinto.- Cuando en este Reglamento se dé una denominación nueva o distinta a alguna unidad administrativa establecida con anterioridad a la vigencia del mismo, aquella unidad atenderá los asuntos a que se refiere este ordenamiento.
