@@ -4,7 +4,7 @@ identifier: "COL-codigo-penal-para-el-estado-de-colima-4240"
 country: "mx"
 rank: "codigo"
 publication_date: "1985-07-27"
-last_updated: "2011-02-19"
+last_updated: "2011-02-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4240&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CODIGO PENAL PARA EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE FEBRERO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE FEBRERO DE 2011.
 
 Código publicado en el Periódico Oficial del Estado de Colima, el sábado 27 de julio de 1985.
 
@@ -3049,6 +3049,20 @@ Las sanciones se aplicarán aún cuando el derecho a la posesión sea dudoso o e
 
 Al que por cualquier medio destruya o deteriore una cosa ajena, o propia en perjuicio de otro, se le impondrá prisión de seis meses a ocho años y multa hasta por 85 unidades.
 
+> <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 2011)</small>
+
+###### ARTICULO 237 Bis.
+
+Al que por cualquier medio, sin importar el material o instrumento que utilice, plasme, pinte, grave, tina o imprima signos, grabados, mensajes o dibujos sobre bienes muebles e inmuebles de propiedad privada o pública alterando su presentación original, sin el consentimiento de quien legalmente esté facultado para otorgarlo se le sancionará:
+
+I.- De seis meses a un año de prisión o trabajo comunitario de 120 a 240 horas y multa hasta por 20 unidades, cuando el monto del daño no exceda de 20 unidades; y
+
+II.- De ocho meses a un año de prisión o trabajo comunitario de 200 a 300 horas y multa hasta por 60 unidades, cuando el monto del daño exceda de 20 unidades.
+
+Se aplicará esta misma sanción a aquel individuo que incite, promueva, o facilite a personas menores de edad los medios necesarios para llevar a cabo este delito.
+
+Tratándose de propaganda o promoción de partidos políticos o asociaciones políticas, se estará a lo dispuesto por el Código Electoral del Estado.
+
 ###### ARTICULO 238.
 
 Si el delito recae en bienes de interés colectivo o de valor científico, artístico o cultural o se comete por medio de inundación, incendio o explosión, la sanción aplicable será de dos a nueve años de prisión.
@@ -3594,3 +3608,7 @@ P.O. 25 DE NOVIEMBRE DE 2010.
 P.O. 19 DE FEBRERO DE 2011.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 26 DE FEBRERO DE 2011.
+
+ÚNICO.- El Presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "El Estado de Colima".
