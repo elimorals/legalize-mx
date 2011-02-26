@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-interno-del-comite-de-informacion-del-poder-62356"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-07-21"
-last_updated: "2008-07-21"
+last_updated: "2011-02-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62356&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,11 @@ state: "OAX"
 ---
 # REGLAMENTO INTERNO DEL COMITE DE INFORMACION DEL PODER JUDICIAL DEL ESTADO DE OAXACA
 
+> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 2 DE ABRIL DE 2011 EN EL P.O. DEL ESTADO DE OAXACA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 REGLAMENTO INTERNO DEL COMITE DE INFORMACION DEL PODER JUDICIAL DEL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE FEBRERO DE 2011
 
 Reglamento publicado en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el lunes 21 de julio de 2008.
 
@@ -138,7 +140,9 @@ I.- Un PRESIDENTE que será un Magistrado designado por el Pleno del Tribunal Su
 
 II.- Un SECRETARIO TÉCNICO, que será el Titular de la Unidad de Enlace;
 
-III.- CUATRO VOCALES, que serán un representante de la Visitaduria, así como los titulares de la Dirección de Finanzas, de la Dirección de Contraloría y de la Dirección del Archivo y Boletín Judicial.
+> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2011)</small>
+
+III.- CINCO VOCALES, que serán el Secretario General de Acuerdos, un representante de la Visitaduría y los titulares de la Dirección de Finanzas, Contraloría y Archivo y Boletín Judicial.
 
 El Presidente del Comité podrá ser suplido por el Servidor Público designado por el Pleno del Honorable Tribunal Superior de Justicia del Estado de Oaxaca a propuesta del Magistrado Presidente del Tribunal Superior de Justicia; el representante de la Visitaduria será suplido por quien designe el Presidente del Tribunal y los demás miembros del Comité sólo podrán ser suplidos en sus funciones por servidores públicos designados especificamente por el miembro titular del Comité, quienes deberán tener un rango inferior a éste. La calidad de los suplentes que designen los integrantes propietarios, se acreditará en la Primera Sesión Ordinaria del Comité, mediante el oficio respectivo dirigido al Presidente del Comité. El cargo de suplente será indelegable, de manera que no se podrán acreditar representantes de éste, en las sesiones del Comité.
 
@@ -341,3 +345,9 @@ La Dirección de Contraloría Interna y la Visitaduría vigilarán en el ámbito
 PRIMERO.- El Pleno del Honorable Tribunal Superior de Justicia del Estado resolverá cualquier asunto, planteamiento o controversia que se presente y que no estuviere previsto en el presente Reglamento.
 
 SEGUNDO.- El presente Reglamento entrará en vigor al día siguiente de su publicación.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 26 DE FEBRERO DE 2011.
+
+EL ACUERDO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE OAXACA.
