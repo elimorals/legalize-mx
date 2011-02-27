@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-salud-del-estado-de-durango-25631"
 country: "mx"
 rank: "ley"
 publication_date: "2002-07-11"
-last_updated: "2009-10-04"
+last_updated: "2011-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25631&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,1827 +21,2315 @@ state: "DUR"
 ---
 # LEY DE SALUD DEL ESTADO DE DURANGO
 
-LEY DE SALUD DEL ESTADO DE DURANGO
+CONSTITUCION POLITICA DEL ESTADO DE SONORA, QUE REFORMA LA DE 1o. DE NOVIEMBRE DE 1872
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE OCTUBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 8 DE NOVIEMBRE DE 1993.
 
-Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 11 de julio de 2002.
+Constitución publicada en la Edición Oficial del Estado de Sonora, el 15 de septiembre de 1917.
 
-EL CIUDADANO LICENCIADO ANGEL SERGIO GUERRERO MIER, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO, A SUS HABITANTES, SABED:
+CESAREO G. SORIANO, Gobernador Constitucional Interino del Estado Libre y Soberano de Sonora, a sus habitantes, sabed:
 
-QUE LA H. LEGISLATURA DEL MISMO SE HA SERVIDO DIRIGIRME EL SIGUIENTE:
+Que el Congreso Constituyente del mismo, ha tenido a bien decretar lo siguiente:
 
-Con fechas 22 de Noviembre del 2001, 18 de Marzo del 2002 y 24 de Octubre del 2001, fueron presentadas Iniciativas de Decreto a) la presentada por Integrantes del Grupo Parlamentario del Partido Acción Nacional, que contiene adiciones a la Ley Estatal de Salud para el Estado de Durango; b) la presentada por la Diputada Yolanda de la Torre Valdez integrante del Grupo Parlamentario del Partido Revolucionario Institucional que contiene reformas y adiciones a la Ley Estatal de Salud; y c) la enviada por el Titular del Poder Ejecutivo del Estado, en la que propone una nueva Ley de Salud del Estado de Durango, las cuales fueron turnadas a la Comisión de Salud Pública integrada por los CC. Diputados: Yolanda de la Torre Valdez, Mario Moreno Salas, Francisco Javier Garza Espino, Gabino Rutiaga Fierro y Sergio Carrillo Arciniega; Presidente, Secretario y Vocales respectivasmente (sic), mismo que emitieron su dictamen favorable con base en los siguientes:
+EL CONGRESO CONSTITUYENTE DE SONORA, reunido en esta Villa, en virtud de las facultades que le conceden los Decretos Números 90 y 91, de fecha 29 de Marzo de 1917, expedidos por el C. Gobernador Interino del Estado, de conformidad con el Artículo 1º. del Decreto de 22 de Marzo de 1917 del Ciudadano Primer Jefe del Ejército Constitucionalista, Encargado del Poder Ejecutivo de la Unión, y con apoyo en el Artículo 5º. del expresado Decreto, en nombre del pueblo sonorense ha tenido a bien expedir la siguiente:
 
-CONSIDERANDOS
+Constitución Política del Estado de Sonora, que reforma la de 1º. de Noviembre de 1872.
 
-PRIMERO.- El presente, es el resultado de la metodología que se acordó implementar al seno de los trabajos de comisión al iniciar el análisis de las tres iniciativas descritas en el proemio del mismo y en virtud de que las mismas tienen como finalidad el adecuar el marco jurídico estatal a la realidad económica y social que prevalece actualmente en nuestra entidad federativa, se determina por técnica legislativa y economía parlamentaria, dictaminarlas en un solo documento, debido a que en el fondo las tres coinciden en el objetivo mencionado anteriormente. Siendo oportuno comentar que la Comisión llevó a cabo diversas reuniones de trabajo.
+## TITULO PRELIMINAR.
 
-SEGUNDO.- La salubridad pública es la parte del derecho de protección a la salud que se otorga a través de prestaciones realizadas por el Estado en beneficio del individuo y de la sociedad en general, tendientes a proteger y restaurar la salud de la persona y de la colectividad. La salud pública abarca el aspecto higiénico o sanitario de una colectividad por lo que se encuentra estrechamente vinculada con la salubridad pública. En la Constitución Política de los Estados Unidos Mexicanos, el artículo 4° consagra el derecho a la protección de la salud como una garantía individual de los ciudadanos, estableciendo además que la ley definirá las bases y modalidades para el acceso a los servicios de salud y la concurrencia de la Federación y las Entidades Federativas en materia de salubridad general.
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
-TERCERO.- La historia de la salud en nuestro país se relaciona estrechamente con la conformación de nuestro país, ya que el Estado se ha preocupado constantemente por lograr el bienestar de la población estableciendo políticas asistenciales en la salud. En el siglo XX se establecieron amplias posibilidades para una definición moderna de la política asistencial en el campo de la salud, ya que en la década de los cuarenta se inició una nueva etapa económica del país, caracterizada por el acelerado proceso de industrialización y urbanización, pasando de un país preponderantemente rural a uno más urbano, lo cual es definitivo para el desarrollo económico, sin embargo, existen zonas altamente marginadas y grandes rezagos en satisfactores básicos, ya que las comunidades están dispersas y alejadas y con diversas necesidades. En el campo de la salud coexisten enfermedades vinculadas al desarrollo industrial y tecnológico, con aquellas que caracterizan a la pobreza; no obstante se reconoce que han disminuido las enfermedades y muerte de origen infeccioso pero también se han incrementado los padecimientos crónicos degenerativos.
+### CAPITULO I.
 
-CUARTO.- El artículos 4° Constitucional, fue adicionado en 1983 como respuesta a un reclamo de la sociedad de aspirar a mejores niveles de vida y como responsabilidad histórica de los tres ordenes de gobierno, como resultado de tal adición se reformó la legislación sanitaria, dando inició a la descentralización de los servicios de salud para la atención de la población abierta; y si bien es cierto, el sistema de salud ha tenido avances importantes, no está plenamente desarrollado, debiendo transformarse para atender los problemas de salud y establecer las bases, mecanismos y acciones para establecer una estructura preventiva y de atención que resuelva eficazmente las necesidades del futuro.
+Territorio.
 
-QUINTO.- En 1996 se formaliza el Acuerdo Nacional que suscriben el Gobierno Federal, los Gobiernos de cada una de las Entidades Federativas de la República Mexicana y el Sindicato Nacional de Trabajadores de la Secretaría de Salud, con la finalidad de resolver rezagos acumulados, atender las nuevas demandas y la problemática, siendo necesario redefinir estructuralmente el sistema de salud en nuestro país, los compromisos derivados del acuerdo consisten en atender principalmente cuatro aspectos fundamentales: la descentralización a las Entidades Federativas de los servicio (sic) de la población no asegurada; la configuración de sistemas estatales; la ampliación de la cobertura a través de un paquete básico de servicios; y el mejoramiento de la calidad y eficiencia de las instituciones mediante la coordinación sectorial. Aspecto importante resulta el analizar las condiciones en que se proporcionan los servicios de salud, independientemente del carácter público o privado del prestador, o la condición socioeconómica del usuario; en este sentido, es importante destacar la política asistencial que se consolidó en un Sistema Nacional de Salud, integrado por la Secretaría de Salud como Institución promotora de la justicia social en el país, por las Instituciones dedicadas a la seguridad social, así como al campo de la medicina privada.
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
-SEXTO.- Derivado de lo anterior, en el mismo año el Gobierno del Estado de Durango promulgó el Decreto por el que se crean los servicios de salud de Durango, con el carácter de organismo descentralizado de la Administración Pública Estatal, con personalidad jurídica y patrimonio propio, considerando que la operación de lo (sic) servicios de salud por parte del Estado. Significa no solo al descentralización de funciones, sino la descentralización de los recursos humanos, materiales y financieros necesarios para la ejecución de las acciones correspondientes, lo cual coadyuvará a mantener un mínimo de calidad, ampliar y mejorar la cobertura de estos servicios, en beneficio de la población del Estado, en el decreto se establece la forma en que se organizan los servicios de salud; la integración de la junta de Gobierno y las facultades de cada uno de los integrantes.
+###### Artículo 1.
 
-SÉPTIMO.- La federalización de los servicios de salud implica delegar responsabilidades, recursos y decisiones, lográndose, por un lado, fortalecer el federalismo y reintegrar a las entidades federativas las facultades que le serán propias al suscribir el pacto federal; y por el otro, brindar a la población servicios fundamentales, asegurando mayor eficiencia y oportunidad. Los Estados de la Federación han asumido las nuevas responsabilidades que la Ley General de Salud les ha asignado; en la actualidad manejan y operarán directamente los servicios de salud en ámbito de su competencia y los recursos financieros con la posibilidad de distribuirlos de acuerdo a las necesidades de los servicios y las prioridades locales; participarán igualmente en el diseño e instrumentación de la política nacional de salud, consolidando los sistemas estatales y fortaleciendo al sistema nacional; en si la federalización representa integrar al ámbito estatal las estructuras administrativas de los servicios federales de salud. Finalmente es importante señalar que la federalización de los servicios de salud no implica la desaparición de objetivos y estrategias nacionales en materia de salud, y si en cambio una nueva forma de relación entre las autoridades federales, las entidades federativas y los municipios en torno a las acciones en materia de salubridad.
+Los derechos del hombre son la base y el objeto de las instituciones sociales. En el Estado de Sonora todo individuo gozará de las garantías que otorga la Constitución Política de los Estados Unidos Mexicanos. En consecuencia, las autoridades, los funcionarios y empleados del Estado y Municipios tienen la ineludible obligación de respetar y hacer respetar, en la órbita de sus facultades, dichas garantías y las prerrogativas que esta Constitución Local concede.
 
-OCTAVO.- Las innovaciones del presente que contiene la Ley de Salud son las siguientes:
+> <small>(ADICIONADO, B.O. 10 DE DICIEMBRE DE 1992)</small>
 
-Se establecen las definiciones de los términos que se utilizan en la ley, con la finalidad de facilitar el análisis e interpretación de la misma;
+El Estado reconoce la composición pluricultural de su población, en particular la asentada en los grupos de nuestro origen, y proveerá lo necesario para asegurar el respeto a sus lenguas, culturas, usos, costumbres, recursos, formas específicas de organización social y garantizarles el efectivo acceso a la jurisdicción estatal, procurando consolidar los rasgos de nuestra nacionalidad.
 
-Se incorporan los programas y acciones derivados del Acuerdo Nacional para la federalización de los servicios de salud;
+###### Artículo 2.
 
-Se especifican las atribuciones y facultades de las instancias competentes en esta materia, contemplando el acuerdo de federalización;
+En Sonora la investidura de los funcionarios públicos emana de la ley y está sujeta a ella. Las prescripciones legales constituyen el único límite a la libertad individual. En este concepto, las autoridades sólo pueden obrar ejercitando facultades expresas de la ley y los particulares pueden hacer todo lo que ésta no les prohíba.
 
-Se establecen acciones puntuales en materia de asistencia social, se moderniza el concepto de discapacidad y la función del Estado en esta materia; y se privilegia la atención materno infantil;
+###### Artículo 3.
 
-Se contempla un Título relativo a la investigación para la salud, fortaleciendo las actividades docentes vinculadas a la investigación para la salud en coordinación con las instituciones de educación superior y las del sector salud:
+El Territorio del Estado de Sonora se constituye por la extensión de tierra firme que posee actualmente y sobre el cual ha ejercido y ejerce soberanía y jurisdicción y que está limitado por el Norte, con el territorio de los Estados Unidos de América; por el Sur, con el Estado de Sinaloa; por el Oriente, con el Estado de Chihuahua, de por medio la Sierra Madre Occidental, y por el Poniente con el Golfo de California y Estado de Baja California, conforme a los convenios correspondientes en sus respectivos casos; así como por toda otra extensión de terreno que por derecho le pertenezca. Comprende igualmente las islas de El Tiburón, San Estéban, Lobos y demás islas e isletas que han estado sujetas a su dominio.
 
-Se dispone el establecimiento de centros de información y de documentación destinados a proporcionar información en materia de salud, así como la publicación de información médica dirigida a la población en general para fomentar la cultura en materia de salud;
+###### Artículo 4.
 
-Se establece un capítulo específico en materia de nutrición y otro referente a la importancia del ejercicio físico para el cuidado de la salud;
+Las partes integrantes del Estado son los municipios hasta hoy existentes y los que se erijan conforme a lo dispuesto por esta Constitución, sin perjuicio de las divisiones distritales que, por razón de orden, establezcan las leyes orgánicas y reglamentarias de las distintas ramas de la Administración.
 
-Se regulan con mayor precisión las actividades específicas para la vigilancia epidemiológica de prevención, control e investigación de enfermedades transmisibles, no transmisibles y accidentes;
+La Ley Orgánica respectiva contendrá la designación de cada uno de los municipios del Estado, así como la de las comisarías que dependan de aquéllos.
 
-Se establece que en lo relativo a la donación, transplantes (sic) y pérdida de la vida se observará los acuerdos de coordinación que se celebren entre el Gobierno Federal y la Secretaría de Salud a nivel Federal, especialmente para favorecer la cultura de la donación de órganos;
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
-Se especifican acciones concretas para un mayor control sanitario de la disposición de sangre humana y transfusiones; normándose en forma más clara lo relativo a los insumos para la salud;
+###### Artículo 5.
 
-Se pretende regular con mayor precisión las actividades, establecimientos, productos y servicios que competen a la salubridad local, respetándose la competencia de los Ayuntamientos;
+Los municipios continuarán con la extensión y límites que hasta hoy han tenido, salvo los casos a que se contraen las fracciones XII y XIII del Artículo 64 de esta Constitución.
 
-Se establecen mecanismos, que contemplan las formalidades y requisitos para llevar a cabo la vigilancia sanitaria, especificándose las medidas de seguridad, las sanciones y los delitos;
+###### Artículo 6.
 
-Todos estos aspectos tienen como finalidad coadyuvar a una mejor prestación de los Servicios de Salud para lograr un desarrollo armónico e integral del ser humano y de la sociedad.
+La creación de nuevos Municipios, así como las cuestiones de límites entre los existentes, se sujetarán a las prescripciones relativas de esta Constitución.
 
-Con base en los anteriores Considerandos, esta H. LXII Legislatura del Estado, expide el siguiente:
+###### Artículo 7.
 
-DECRETO No. 84
+Las Islas pertenecientes al Estado dependerán directamente del Ejecutivo mientras no haya en ellas poblaciones debidamente organizadas. Cuando haya en ellas poblaciones organizadas, el Congreso proveerá lo que corresponda a la condición de dichas poblaciones.
 
-LA HONORABLE SEXAGÉSIMA SEGUNDA LEGISLATURA DEL ESTADO LIBRE Y SOBERANO DE DURANGO, EN USO DE LAS FACULTADES QUE LE CONFIERE EL ARTICULO 55 DE LA CONSTITUCION POLITICA LOCAL, A NOMBRE DEL PUEBLO, DECRETA:
+## TITULO PRIMERO.
 
-LEY DE SALUD DEL ESTADO DE DURANGO
+Territorio y Partes Integrantes del Estado.
 
-## TÍTULO PRIMERO. DISPOSICIONES GENERALES
+### CAPITULO II.
 
-### CAPÍTULO ÚNICO
+Partes integrantes del Estado.
 
-###### ARTÍCULO 1.
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
-La presente Ley es de orden público e interés social y de aplicación general en el Estado de Durango. Tiene por objeto la protección de la salud y establecer las bases y modalidades para el acceso a los servicios de salud, proporcionados por el Estado en los términos del artículo 4º de la Constitución Política de los Estados Unidos Mexicanos y de la Ley General de Salud. Así como la concurrencia de éste y sus municipios, en materia de salubridad local.
+###### Artículo 8.
 
-###### ARTÍCULO 2.
+Los habitantes del Estado, por su condición política, se consideran como sonorenses, ciudadanos y extranjeros.
 
-El derecho a la protección de la salud, tiene las siguientes finalidades:
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
-I. El bienestar físico y mental del ser humano para contribuir al ejercicio pleno de sus capacidades;
+###### Artículo 9.
 
-II. La prolongación y el mejoramiento de la calidad de la vida humana;
+Son sonorenses:
 
-III. La protección y el acrecentamiento de los valores que coadyuven a la creación, conservación y disfrute de condiciones de salud que contribuyan al desarrollo social;
+I. Los nacidos en el territorio del Estado.
 
-IV. La extensión de actividades solidarias y responsables de la población en la preservación, conservación, mejoramiento y restauración de la salud;
+II. Los mexicanos que tengan una residencia efectiva de dos años en el Estado.
 
-V. El disfrute de servicios de salud y asistencia social que satisfagan eficaz y oportunamente las necesidades de la población;
+III. Los hijos de padres sonorenses nacidos fuera del Estado, pero dentro del territorio de la República.
 
-VI. El conocimiento para el adecuado aprovechamiento y utilización de los servicios de salud; y
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
-VII. El desarrollo de la enseñanza y la investigación científica y tecnológica para la salud, con perspectiva de género.
+###### Artículo 10.
 
-###### ARTÍCULO 3.
+Son ciudadanos del Estado los varones y las mujeres que teniendo la calidad de ciudadanos de la República, reúnan, además, la de Sonorenses.
 
-Para los efectos de la presente Ley, se entenderá por:
+###### Artículo 11.
 
-I. Secretaría: La Secretaría de Salud en el Estado de Durango, señalada en el artículo 34 de la Ley Orgánica de la Administración Pública Estatal;
+Son Extranjeros los considerados así por la Constitución General de la República.
 
-II. Organismo: El Organismo Descentralizado denominado Servicios de Salud de Durango;
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
-III. Sistema Estatal de Salud: El conjunto de dependencias y entidades de la Administración Pública Estatal y las personas físicas o morales de los sectores privados que presten servicios de salud en el Estado;
+###### Artículo 12.
 
-IV. Comité: El Comité de Planeación para el Desarrollo del Estado;
+Son obligaciones de los sonorenses:
 
-V. Junta de Gobierno: Órgano administrador del Organismo Público Descentralizado Servicios de Salud de Durango;
+I. Enviar a sus hijos o pupilos menores de quince años a las escuelas públicas o privadas para obtener la instrucción primaria elemental y militar durante el tiempo que marque la Ley de Educación Pública.
 
-VI. NOMs: Normas Oficiales Mexicanas;
+II. Acudir en los días y horas designados al llamado de la autoridad para obtener la instrucción cívica y militar correspondiente.
 
-VII. Director General: El Director del Organismo Descentralizado Servicios de Salud de Durango;
+III. Alistarse y servir en la Guardia Nacional que en el Estado se organice conforme a las leyes relativas.
 
-VIII. Órgano de vigilancia: Contralor Interno designado para el cumplimiento de la función de control y vigilancia;
+IV. Contribuir para los gastos públicos del Estado y municipios en que residan, de la manera proporcional y equitativa que dispongan las leyes.
 
-IX. Servicios básicos de salud: Los señalados en el artículo 43 del presente ordenamiento;
+V. Respetar y obedecer las leyes, instituciones y autoridades de la Federación, del Estado y del municipio.
 
-X. Salud pública: Conjunto de acciones que tienen por objeto promover, proteger, fomentar y restablecer la salud de la población, elevar el nivel de bienestar y prolongar la vida humana; mismas que complementan los servicios de atención médica y asistencia social;
+VI. Ayudar, en el lugar en donde se encuentren, a las autoridades del Estado a la conservación del orden.
 
-XI. Atención médica: El conjunto de servicios que se proporcionan al individuo, con el fin de prevenir la enfermedad, proteger, promover y restaurar su salud;
+VII. Tomar las armas en defensa de la soberanía, leyes, instituciones y autoridades legítimas del Estado, cuando éstas lo requieran en los términos de la Ley.
 
-XII. Patrimonio de la Beneficencia Pública: Órgano administrativo descentralizado dependiente de la Secretaría de Salud del Gobierno del Estado;
+> <small>(REFORMADA, B.O. 30 DE AGOSTO DE 1990)</small>
 
-XIII. Instituciones de asistencia privada: Las que se constituyan conforme a la Ley específica de la materia, al reglamento y demás disposiciones aplicables y cuyo objeto sea la prestación de servicios asistenciales, sin propósito de lucro y sin designar individualmente a los beneficiarios;
+VIII. Inscribirse de acuerdo con las leyes relativas en el Registro Estatal de Electores y Catastro del Municipio donde residan.
 
-XIV. Servicios de Salud: Todas aquellas acciones que se realicen con el fin de proteger, promover y restaurar la salud de la persona y de la colectividad;
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
-XV. Cuota de recuperación: Cantidad pecuniaria estipulada por la legislación fiscal federal y los convenios de coordinación con el Ejecutivo Federal, por la prestación de los servicios de salud;
+###### Artículo 13.
 
-XVI. Usuario de los servicios de salud: Toda persona que requiera y obtenga los servicios de salud que presten los sectores públicos, social y privado, en las condiciones y conforme a las bases que para cada modalidad se establezcan en esta Ley y demás disposiciones aplicables;
+Son obligaciones de los ciudadanos sonorenses:
 
-XVII. Autoridades sanitarias: Las contempladas en el artículo 5 de esta legislación;
+I. Las mismas enumeradas para los sonorenses.
 
-XVIII. Asistencia social: El conjunto de acciones tendientes a modificar y mejorar circunstancias de carácter social que impidan al individuo su desarrollo integral, así como la protección física, mental y social de personas en estado de necesidad, desprotección y desventaja física y mental hasta lograr su incorporación a una vida plena y productiva, sea que tales servicios sean prestados por particulares o por el Estado;
+II. Votar en las elecciones populares del Estado en el distrito electoral o municipio que les corresponda.
 
-XIX. Discapacidad: La limitación en la capacidad de una persona para realizar por sí misma actividades necesarias para el desempeño físico, mental, social, ocupacional y económico como consecuencia de una insuficiencia somática, psicológica y social;
+III. Desempeñar, cuando tengan los requisitos de Ley, los cargos de elección popular del Estado.
 
-XX. Servicios públicos a la población en general: Los que se presten en establecimientos públicos de salud y los habitantes del Estado que así lo requieran, regidos por criterios de universalidad y de gratuidad fundada en las condiciones socioeconómicos de los usuarios;
+IV. Desempeñar los cargos concejiles en el municipio donde residan, así como las funciones electorales y las de jurado, conforme lo ordenan las leyes respectivas.
 
-XXI. Accidente: El hecho súbito que ocasione daños a la salud y que se produzca por la concurrencia de condiciones potencialmente prevenibles;
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
-XXII. Insumos para la salud: Los medicamentos, substancias psicotrópicas, estupefacientes y las materias primas y aditivos que intervengan para su elaboración; así como los equipos médicos, prótesis, órtesis, ayudas funcionales, agentes de diagnóstico, insumos de uso odontológico, de curación y productos higiénicos, estos últimos, en los términos de la fracción VI del artículo 262 de la Ley General de Salud;
+###### Artículo 14.
 
-XXIII. Alimento: Cualquier sustancia o producto, sólido o semi-sólido, natural o transformado, que proporcione al organismo elementos para su nutrición;
+Son obligaciones de los extranjeros:
 
-XXIV. Bebida no alcohólica: Cualquier líquido, natural o transformado, que proporcione al organismo elementos para su nutrición;
+I. Respetar y obedecer las leyes, instituciones y autoridades de la Federación, del Estado y del Municipio.
 
-XXV. Bebidas alcohólicas: Aquellas que contengan alcohol etílico en una proporción de 2% y hasta el 55% en volumen.
+II. Contribuir para los gastos públicos del Estado y Municipios en que residan, de la manera proporcional y equitativa que dispongan las leyes.
 
-Cualquiera otra que contenga una proporción mayor no podrá comercializarse como bebida;
+III. No inmiscuirse en asuntos políticos.
 
-XXVI. Control sanitario: El conjunto de acciones de orientación, educación, muestreo, verificación, vigilancia, y en su caso, aplicación de medidas de seguridad y sanciones que ejercen, en materia de salubridad local, la Secretaría y el Organismo, de conformidad con lo establecido en las disposiciones legales aplicables;
+IV. Inscribirse de acuerdo con las leyes relativas en el catastro del municipio donde residan.
 
-XXVII. Mercados: el sitio público destinado a la compra y venta de productos en general, preferentemente agrícolas y de primera necesidad, en forma permanente o en días determinados;
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
-XXVIII. Centros de abasto: el sitio destinado al servicio público en maniobras de carga y descarga, la conservación en frío y demás operaciones relativas a la compraventa, al mayoreo y medio mayoreo de productos en general;
+### CAPITULO I.
 
-XXIX. Construcción: Toda edificación o local que se destine a la habitación, comercio, enseñanza, recreación, trabajo o cualquier otro uso;
+Soberanía.
 
-XXX. Cementerios: El lugar destinado a la inhumación de los cadáveres y restos humanos;
+## TITULO SEGUNDO.
 
-XXXI. Crematorios: Las instalaciones destinadas a la incineración de cadáveres y restos humanos;
+Habitantes del Estado.
 
-XXXII. Funeraria: El establecimiento dedicado a la prestación del servicio de venta de féretros, velación, preparación y traslado de cadáveres de seres humanos a los cementerios o crematorios, dentro o fuera del país;
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
-XXXIII. Servicio de limpieza pública: La recolección, traslado, tratamiento y disposición final de residuos sólidos a cargo de los Ayuntamientos, los que deberán prestar el servicio en forma continua, uniforme, regular y permanente, procurando que se cuente para tal fin con vehículos y rutas de recolección;
+### CAPITULO II.
 
-XXXIV. Residuo sólido: Al material generado en los procesos de extracción, beneficio, transformación, producción, consumo, utilización, control y tratamiento de cualquier producto cuya calidad no permita usarlo nuevamente en el proceso que lo generó, provenga de actividades que se desarrollen en domicilios, establecimientos mercantiles, industriales o de servicios y de las vías públicas;
+Forma de Gobierno.
 
-XXXV. Rastro: el establecimiento destinado al sacrificio de animales para el consumo humano;
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
-XXXVI. Baño público: al establecimiento destinado a utilizar el agua para el aseo corporal, deporte o uso medicinal bajo la forma de baño y al que pueda concurrir el público. Quedan incluidos en la nominación de baños, los llamados de vapor y de aire caliente;
+###### Artículo 15.
 
-XXXVII. Albercas: El establecimiento público o privado destinado para la natación, recreación familiar, personal o deportiva;
+Los mexicanos no sonorenses tienen las mismas obligaciones que los sonorenses. No podrán inmiscuirse en los asuntos políticos que se refieran al Estado o a los Municipios, mientras no adquieran la calidad de sonorenses.
 
-XXXVIII. Gimnasio: Todo establecimiento público o privado destinado para la práctica de ejercicios corporales o actividades deportivas;
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 30 DE AGOSTO DE 1990)</small>
 
-XXXIX. Establos: todos aquellos sitios dedicados a la explotación de animales productores de lácteos y sus derivados;
+###### Artículo 16.
 
-XL. Granjas avícolas: los establecimientos dedicados a la cría, reproducción y explotación de las especies y variedades de aves útiles a la alimentación humana;
+Son derechos y prerrogativas del ciudadano sonorense:
 
-XLI. Granjas porcícolas: los establecimientos dedicados a la cría, reproducción, mejoramiento y explotación de cerdos;
+> <small>(REFORMADA, B.O. 5 DE MAYO DE 1954)</small>
 
-XLII. Apiarios: El conjunto de colmenas destinadas a la cría, explotación y mejoramientos genético de abejas;
+I. Votar en las elecciones populares del Estado.
 
-XLIII. Establecimientos similares: Todos aquellos dedicados a la cría, reproducción, mejoramiento y explotación de especies animales no incluidas en las fracciones anteriores, pero aptas para el consumo humano;
+> <small>(REFORMADA, B.O. 5 DE MAYO DE 1954)</small>
 
-XLIV. Reclusorio o centro de readaptación social: El local destinado a la internación de quienes se encuentran restringidos de su libertad por una resolución judicial o administrativa;
+II. Poder ser votado para los cargos de elección popular en el Estado y nombrado para cualquier otro empleo o comisión.
 
-XLV. Centros de reunión y espectáculos: Los establecimientos destinados a la concentración de personas con fines recreativos, sociales, deportivos o culturales;
+> <small>(REFORMADA, B.O. 19 DE FEBRERO DE 1977)</small>
 
-XLVI. Prostitución: La práctica de la actividad sexual ejercida a cambio de una remuneración en dinero o en especie;
+III. Asociarse para tratar los asuntos políticos del Estado y formar partidos políticos en los términos que prevenga la Ley Electoral correspondiente.
 
-XLVII. Establecimientos para el Hospedaje: Cualquier edificación que se destine a albergar a toda persona que pague por ello;
+> <small>(REFORMADA, B.O. 5 DE MAYO DE 1954)</small>
 
-XLVIII. Centro Antirrábico: El establecimiento instalado y operado o concesionado por el Ayuntamiento con el propósito de contribuir a la prevención y control de la rabia animal y coadyuvar con las autoridades sanitarias competentes en los casos en que seres humanos hubieran contraído dicha enfermedad;
+IV. Tomar las armas en el Ejército o Guardia Nacional para la defensa de la República, del Estado y de sus instituciones.
 
-XLIX. Peluquería y salones de belleza: Los establecimientos dedicados a rasurar, teñir, peinar, cortar, rizar o realizar cualquier actividad similar con el cabello de las personas, así como al cuidado estético de uñas de manos y pies y a la aplicación al público de cualquier tratamiento de belleza corporal en las que no se requiera de atención médica en cualquiera de sus prácticas;
+> <small>(REFORMADA, B.O. 5 DE MAYO DE 1954)</small>
 
-L. Tintorería: El establecimiento dedicado al lavado y planchado de ropa, independientemente del procedimiento utilizado;
+V. Ejercer en toda clase de asuntos políticos el derecho de petición.
 
-LI. Lavandería: El establecimiento dedicado al lavado de ropa;
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
-LII. Lavadero público: El establecimiento al cual acuden los interesados para realizar personalmente el lavado de la ropa;
+###### Artículo 17.
 
-LIII. Transporte: Todo aquel vehículo destinado al traslado de carga o de pasajeros, sea cual fuere su medio de propulsión;
+Los sonorenses, en igualdad de circunstancias, serán preferidos a los demás mexicanos para el desempeño de los cargos públicos o empleos del Estado, siempre que llenen los requisitos que las leyes exijan.
 
-LIV. Gasolinera: Al establecimiento dedicado al expendio de gasolina, aceites y demás productos derivados del petróleo que sean usados en vehículos automotores;
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
-LV. Certificado: La constancia expedida en los términos que establezcan las autoridades sanitarias competentes, para la comprobación e información de determinados hechos;
+###### Artículo 18.
 
-LVI. Aislamiento: La separación de personas infectadas, durante el periodo de transmisibilidad, en lugares y condiciones que eviten el peligro de contagio; y (sic)
+La calidad de ciudadano sonorense se pierde:
 
-LVII. Cuarentena: La limitación a la libertad de tránsito de personas sanas que hubieren estado expuestas a una enfermedad transmisible, por el tiempo estrictamente necesario para controlar el riesgo de contagio;
+I. Por dejar de ser ciudadano mexicano.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE JUNIO DE 2008)</small>
+II. Por adquirir la condición de ciudadano de otro Estado de la República.
 
-LVIII. COPRISED: La Comisión para la Protección contra Riesgos Sanitarios del Estado de Durango.
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
-###### ARTÍCULO 4.
+###### Artículo 19.
 
-En los términos de la Ley General de Salud, de la presente Ley y del Acuerdo Nacional para la Descentralización de los Servicios de Salud, corresponde al Gobierno del Estado de Durango, por conducto del Ejecutivo, a través de la Secretaría y el Organismo, la salubridad local, así como organizar, operar, supervisar y evaluar la prestación de los servicios de salubridad general.
+Tienen suspensos los derechos o prerrogativas de ciudadanos del Estado:
 
-###### ARTÍCULO 5.
+I. Los que hayan sido suspendidos en sus prerrogativas o derechos como ciudadanos mexicanos por las causas enumeradas en la Constitución General de la República.
 
-Son autoridades sanitarias estatales:
+II. Los que faltaron sin causa justificada a las obligaciones de ciudadano que les imponen las fracciones II, III y IV del Artículo 13 de esta Constitución.
 
-I. El Gobernador del Estado;
+III. Los procesados desde que se dicte el auto de formal prisión hasta que cause ejecutoria la sentencia que los absuelva.
 
-II. La Secretaría de Salud;
+> <small>(REFORMADA, B.O. 9 DE ABRIL DE 1984)</small>
 
-III. El Organismo Descentralizado denominado Servicios de Salud de Durango; y (sic)
+IV. Los funcionarios y empleados públicos, desde que se resuelva que ha lugar a proceder penalmente en su contra, hasta que se declare ejecutoriada la sentencia que los absuelva o extingan la pena que les fuere impuesta.
 
-IV. Los ayuntamientos, en materia de salubridad local;
+V. Los que por sentencia ejecutoriada sean condenados a pena corporal o a suspensión de derechos hasta que la extingan.
 
-> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2008)</small>
+VI. Los que por causa de enfermedad mental tuvieren en suspenso el ejercicio de sus derechos civiles.
 
-V. La COPRISED. El Órgano Administrativo Desconcentrado de la Secretaría de Salud del Estado de Durango, denominado:
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
-###### ARTÍCULO 6.
+###### Artículo 20.
 
-La Secretaría y el Organismo, por conducto de su titular y Director General como autoridad sanitaria, podrá delegar subalternos, las facultades que estime convenientes para el cabal cumplimiento de las funciones del mismo en materia de salubridad local y de salubridad general.
+Fuera de los casos ya especificados en el artículo anterior, la ley determinará la duración de la suspensión así como también cuando se pierden tales derechos y los requisitos necesarios para que el ciudadano sonorense quede rehabilitado en sus prerrogativas o derechos suspendidos.
 
-La delegación de facultades deberá hacerse mediante acuerdo administrativo publicado en el Periódico Oficial del Gobierno del Estado.
+###### Artículo 21.
 
-###### ARTÍCULO 7.
+El Estado de Sonora forma parte de la Federación de los Estados Unidos Mexicanos. Es libre e independiente de los demás Estados de la Federación y soberano en todo lo que se refiere a su administración y régimen interiores. Conserva con los demás Estados de la Unión las relaciones que le impone la Constitución General de la República.
 
-En lo no previsto en la presente Ley se aplicarán en forma supletoria los Códigos Civil y de Procedimientos Civiles del Estado de Durango en materia de salubridad local y el Código Federal de Procedimientos Civiles y la Ley Federal de Procedimiento Administrativo, en materia de salubridad general exclusiva, cuando el acto de la autoridad sanitaria local se realice en coadyuvancia con la autoridad sanitaria federal.
+### CAPITULO III.
 
-## TÍTULO SEGUNDO. SISTEMA ESTATAL DE SALUD
+Economía Pública y Planeación del Desarrollo.
 
-### CAPÍTULO ÚNICO
+> <small>(ADICIONADO, B.O. 22 DE DICIEMBRE DE 1983)</small>
 
-###### ARTÍCULO 8.
+Artículo 25 A. El Gobierno del Estado está obligado a promover, orientar y conducir el desarrollo económico, social, político y cultural de la población de la Entidad, mediante el fomento del crecimiento económico, del empleo y una más justa distribución del ingreso y la riqueza con la más amplia participación de la sociedad.
 
-El Sistema Estatal de Salud está constituido por las dependencias y entidades de la administración pública estatal y las personas físicas o morales de los sectores social y privado que presten servicios de salud en el Estado, así como por los mecanismos de coordinación de acciones, a fin de dar cumplimiento al derecho de protección a la salud en el territorio del Estado de Durango.
+> <small>(ADICIONADO, B.O. 22 DE DICIEMBRE DE 1983)</small>
 
-El Sistema Estatal de Salud, con la intervención que corresponda al Comité de Planeación para el Desarrollo del Estado, definirá los mecanismos de coordinación y colaboración en materia de planeación de los servicios de salud en el Estado, de conformidad con esta Ley y demás disposiciones aplicables.
+Artículo 25 B. Los sectores público, privado y social concurrirán con solidaridad en el desarrollo integral del Estado. El sector público bajo el esquema de economía mixta, impulsará por sí o conjuntamente con los demás sectores, las áreas que se consideren prioritarias para el desarrollo.
 
-###### ARTÍCULO 9.
+> <small>(ADICIONADO, B.O. 22 DE DICIEMBRE DE 1983)</small>
 
-El Sistema Estatal de Salud tiene los siguientes objetivos:
+Artículo 25 C. La planeación deberá llevarse a cabo como un medio para el eficaz desempeño de las responsabilidades del Gobierno del Estado y de los Gobiernos Municipales, sobre el desarrollo integral de la entidad, de acuerdo a los principios, fines y objetivos políticos, sociales, culturales y económicos contenidos en la Constitución Política de los Estados Unidos Mexicanos y en la Constitución Política del Estado Libre y Soberano de Sonora.
 
-I. Proporcionar servicios de salud a toda la población de la entidad y mejorar la calidad de los mismos, atendiendo a los problemas sanitarios prioritarios del Estado y a los factores que condicionen y causen daños a la salud, con especial interés en las acciones preventivas;
+El Estado considera la planeación del desarrollo como actividad de interés público.
 
-II. Contribuir al desarrollo demográfico armónico del Estado;
+> <small>(ADICIONADO, B.O. 22 DE DICIEMBRE DE 1983)</small>
 
-III. Colaborar al bienestar social de la población del Estado, mediante servicios de asistencia social, principalmente a niñas, niños y adolescentes en estado de abandono, adultos mayores desamparados, personas con discapacidad, mujeres en período de gestación y lactancia y, víctimas de violencia intrafamiliar, para fomentar su bienestar y propiciar su incorporación a una vida equilibrada en lo económico y social;
+Artículo 25 D. Habrá un Plan Estatal de Desarrollo al que se sujetarán obligatoriamente los programas de la Administración Pública Estatal y en igual forma existirá un Plan de Desarrollo por cada Municipio de la Entidad, al que se sujetarán los programas de los Gobiernos Municipales.
 
-IV. Impulsar el desarrollo de la familia y de la comunidad, así como la integración social y el crecimiento físico y mental de la infancia;
+> <small>(ADICIONADO, B.O. 22 DE DICIEMBRE DE 1983)</small>
 
-V. Apoyar el mejoramiento de las condiciones sanitarias del medio ambiente del Estado, que propicien el desarrollo satisfactorio de la vida;
+Artículo 25 E. La Ley determinará los procedimientos de participación y consulta popular en el proceso de planeación y los criterios para la formulación, instrumentación, control y evaluación de los planes y los programas de desarrollo y los órganos responsables. Asimismo, las bases para que el Ejecutivo Estatal coordine mediante convenios con los Gobiernos Federal y Municipal e induzca y concierte con las representaciones de los sectores social y privado las acciones a realizar para su elaboración y ejecución.
 
-VI. Impulsar en el ámbito estatal, un sistema racional de administración y desarrollo de los recursos humanos para mejorar la salud; y
+###### Artículo 22.
 
-VII. Coadyuvar a la modificación de los patrones culturales que determinen hábitos, costumbres y actitudes relacionadas con la salud y con el uso de los servicios que presten para su protección.
+La soberanía reside esencial y originariamente en el pueblo sonorense y se ejerce por medio de los Poderes Públicos del Estado. El Gobierno es, pues, emanación genuina del pueblo y se instituye para beneficio del mismo.
 
-###### ARTÍCULO 10.
+> <small>(ADICIONADO, B.O. 12 DE AGOSTO DE 1978)</small>
 
-La coordinación del Sistema Estatal de Salud estará a cargo de la Secretaría y el Organismo, correspondiéndoles:
+Los Partidos Políticos son entidades de interés público; la ley determinará las formas específicas de su intervención en el proceso electoral.
 
-I. Establecer y conducir la política estatal en materia de salud, en los términos de esta Ley, de conformidad con las políticas del Sistema Nacional de Salud y con lo dispuesto por el Ejecutivo Estatal y demás disposiciones legales aplicables;
+> <small>(REFORMADO, B.O. 30 DE AGOSTO DE 1990)</small>
 
-II. Coordinar los programas de servicios de salud en las dependencias y entidades de la Administración Pública Estatal;
+La organización de las elecciones es una función estatal que se ejerce por los poderes Legislativo y Ejecutivo del Estado, así como por los Ayuntamientos, con la participación de los Partidos Políticos y de los ciudadanos según lo disponga la Ley, para lo cual se integrarán los organismos electorales correspondientes. La certeza, legalidad, imparcialidad y objetividad serán principios rectores en el ejercicio de la función estatal, las sesiones de los organismos electorales serán públicas en los términos que disponga la Ley.
 
-III. Apoyar la coordinación de los programas y servicios de salud de toda dependencia o entidad pública estatal, en los términos de los Acuerdos de Coordinación que en su caso se celebren y de las demás disposiciones legales aplicables;
+> <small>(REFORMADO, B.O. 8 DE NOVIEMBRE DE 1993)</small>
 
-IV. Impulsar, en los términos de los convenios que al efecto se suscriban, la desconcentración y descentralización a los municipios de los servicios de salud;
+La Ley establecerá un sistema de medios de impugnación de los que conocerán los organismos electorales y un Tribunal Estatal Electoral que tendrá la competencia y organización que determine la Ley; dicho sistema dará definitividad a las distintas etapas de los procesos electorales y garantizará que los actos y resoluciones se sujeten invariablemente al principio de legalidad.
 
-V. Promover, coordinar y realizar la evaluación de programas y servicios de salud que le sea solicitada por el Ejecutivo Estatal;
+> <small>(ADICIONADO, B.O. 8 DE NOVIEMBRE DE 1993)</small>
 
-VI. Determinar la periodicidad y características de la información que deberán proporcionar las dependencias y entidades de salud del Estado, con sujeción a las disposiciones aplicables;
+En materia electoral la interposición de los recursos no producirá, en ningún caso, efectos suspensivos del acto o resolución impugnado.
 
-VII. Coordinar el proceso de programación de las actividades de servicios de salud en el Estado, sujetándose a las disposiciones legales aplicables;
+> <small>(ADICIONADO, B.O. 8 DE NOVIEMBRE DE 1993)</small>
 
-VIII. Formular sugerencias y recomendaciones a las dependencias competentes sobre la asignación de los recursos que requieran los programas de salud del Estado;
+El Tribunal Estatal Electoral será órgano autónomo y máxima autoridad jurisdiccional electoral. Tendrá competencia para resolver en forma definitiva e inatacable, en los términos de esta Constitución y la Ley.
 
-IX. Impulsar en el ámbito estatal, las actividades científicas y tecnológicas en el campo de la salud con una perspectiva de género;
+###### Artículo 23.
 
-X. Coadyuvar con las dependencias federales competentes, en la vigilancia y control de la transferencia de tecnología en el área de salud;
+El Estado de Sonora no reconoce en los Poderes Supremos de la Unión ni en otro alguno, derecho para pactar o convenir entre ellos o con nación extraña, aquello que lesione la integridad de su territorio, su nacionalidad, soberanía, libertad e independencia.
 
-XI. Promover el establecimiento de un sistema estatal de información básica en materia de salud;
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
-XII. Apoyar la coordinación entre las instituciones estatales de salud y las educativas para formar y capacitar recursos humanos para la salud;
+###### Artículo 24.
 
-XIII. Coadyuvar a que la formación y distribución de los recursos humanos para la salud sea congruente con las prioridades del Sistema Estatal de Salud;
+Los Supremos Poderes del Estado ejercerán todas aquellas facultades que se les confieren por la Constitución General de la República, esta Constitución Local y las leyes que de ellas emanen.
 
-XIV. Promover e impulsar la participación de la comunidad del Estado en el cuidado de la salud;
+###### Artículo 25.
 
-XV. Impulsar la permanente actualización de las disposiciones legales en materia de salud; y
+De acuerdo con la Constitución General de de (sic) los Estados Unidos Mexicanos, el Estado de Sonora adopta para su régimen interior la forma de gobierno republicano, representativo y popular, teniendo como base de su división territorial y organización política y administrativa el Municipio Libre, según la presente Constitución y las leyes que de ella emanen.
 
-XVI. Las demás atribuciones afines a las anteriores, que se requieran para el cumplimiento de los objetivos del Sistema Estatal de Salud y las que determinen las disposiciones generales aplicables.
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 22 DE DICIEMBRE DE 1983)</small>
 
-###### ARTÍCULO 11.
+###### Artículo 26.
 
-La Secretaría y el Organismo promoverán la participación en el Sistema Estatal de Salud de los prestadores de servicios de salud de los sectores público, social y privado, así como de sus trabajadores y de los usuarios de los mismos, en términos de las disposiciones que al efecto se expidan.
+El Supremo Poder del Estado se divide para su ejercicio en LEGISLATIVO, EJECUTIVO Y JUDICIAL.
 
-Asimismo, fomentará la coordinación con los proveedores de insumos para la salud, a fin de racionalizar y procurar la disponibilidad de estos últimos.
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
-###### ARTÍCULO 12.
+###### Artículo 27.
 
-La concertación de acciones entre la Secretaría, el Organismo y los integrantes de los sectores social y privado, se realizará mediante acuerdos, convenios y contratos, los cuales se ajustarán a las siguientes bases:
+No podrán reunirse dos o más Poderes en una sola persona o corporación, ni depositarse el Legislativo en un solo individuo, excepto en el caso previsto por la fracción XXXIII del Artículo 64 de esta Constitución.
 
-I. Definirán las responsabilidades que asuman los integrantes de los sectores social y privado;
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
-II. Determinarán las acciones de orientación, estímulo y apoyo que llevarán a cabo la Secretaría y el Organismo;
+###### Artículo 28.
 
-III. Especificarán el carácter operativo de la concertación de acciones, con reserva de las funciones de autoridad de la Secretaría y el Organismo; y
+Los Poderes del Estado residirán en la capital del mismo. Esta será la ciudad de Hermosillo, sin perjuicio de la facultad concedida al Congreso en el Artículo 64 fracción XIV de la presente Constitución.
 
-IV. Expresarán las demás estipulaciones que de común acuerdo establezcan las partes.
+###### Artículo 29.
 
-###### ARTÍCULO 13.
+El ejercicio del Poder Legislativo del Estado se depositará en una Asamblea de Representantes del pueblo, denominada "CONGRESO DEL ESTADO DE SONORA".
 
-La competencia de las autoridades sanitarias en la planeación, regulación, organización y funcionamiento del Sistema Estatal de Salud, se regirá por esta Ley y demás disposiciones legales aplicables.
+#### SECCION II.
 
-###### ARTÍCULO 14.
+Elección de Diputados.
 
-El Gobierno del Estado, con la participación que corresponda al Comité de Planeación para el Desarrollo del Estado, elaborará el Programa Estatal de Salud, tomando en cuenta las prioridades y los servicios de los Sistemas Nacional y Estatal de Salud.
+> <small>(REFORMADO, B.O. 24 DE FEBRERO DE 1943)</small>
 
-### CAPÍTULO I. DE LA SECRETARÍA DE SALUD
+###### Artículo 30.
 
-## TÍTULO TERCERO. DISTRIBUCIÓN DE COMPETENCIAS
+Los Diputados al Congreso del Estado serán electos en su totalidad cada tres años.
 
-### CAPÍTULO II. DEL ORGANISMO DESCENTRALIZADO SERVICIOS DE SALUD DE DURANGO
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 8 DE NOVIEMBRE DE 1993)</small>
 
-###### ARTÍCULO 15.
+###### Artículo 31.
 
-La Secretaría de Salud quedará a cargo de un Secretario de Salud, en funciones de Director General de Servicios de Salud de Durango, en los términos del Decreto, que creó el Organismo Público Descentralizado con personalidad y patrimonios propios.
+El Congreso del Estado estará integrado por 21 Diputados Propietarios y sus respectivos suplentes, electos en forma directa por el principio de mayoría relativa, en igual número de distritos uninominales, y hasta por 12 Diputados electos por el principio de representación proporcional.
 
-###### ARTÍCULO 16.
+> <small>(REFORMADO, B.O. 17 DE SEPTIEMBRE DE 1987)</small>
 
-El Secretario deberá reunir además de los requisitos establecidos en el artículo 11 de la Ley Orgánica de la Administración Pública del Estado de Durango, con excepción de la fracción II de dicho ordenamiento, los siguientes requisitos:
+Los Diputados electos por mayoría relativa y los electos por el principio de representación proporcional, siendo ambos representantes del pueblo, tendrán idéntica categoría e igualdad de derechos y deberes.
 
-I. Ser ciudadano mexicano por nacimiento;
+> <small>(REFORMADO, B.O. 17 DE SEPTIEMBRE DE 1987)</small>
 
-II. Ser mayor de 35 años de edad; y
+La Ley establecerá la demarcación de cada distrito electoral.
 
-III. Ser médico cirujano con experiencia en materia de Salud Pública.
+> <small>(REFORMADO, B.O. 8 DE NOVIEMBRE DE 1993)</small>
 
-###### ARTÍCULO 17.
+###### Artículo 32.
 
-La aplicación de la legislación sanitaria estatal, en el ámbito territorial, estará a cargo de la Secretaría de Salud del Estado y de los Servicios de Salud de Durango, de conformidad con las disposiciones legales aplicables.
+La asignación de Diputados, por el principio de representación proporcional, se hará de acuerdo con la fórmula electoral que se establezca en la Ley, y con sujeción a las siguientes bases:
 
-> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2008)</small>
+I. Tendrá derecho a que le sean asignados Diputados por el principio de representación proporcional todo aquel partido político que obtenga el uno punto cinco por ciento o más de la votación total emitida.
 
-ARTÍCULO 17 BIS.- La Secretaría de Salud ejercerá las atribuciones de regulación, control y fomento sanitarios que conforme a la presente Ley, a la Ley Orgánica de la Administración Pública del Estado de Durango, y los demás ordenamientos aplicables, le correspondan a dicha dependencia en las materias a que se refiere el artículo 34, apartado A, fracciones V, XI, XII, XVI, XVIII, XIX, XX, XXI, XXII Y XXIII y apartado B, de esta Ley, relativo al control, vigilancia y sanción, a través del órgano desconcentrado que se denominará Comisión para la Protección contra Riesgos Sanitarios del Estado de Durango, por sus siglas COPRISED.
+II. El partido político que hubiere obtenido el mayor número de diputaciones de mayoría relativa, participará de la asignación de representación proporcional hasta completar un máximo de 21 diputados por ambos sistemas.
 
-Para efectos de lo dispuesto en el párrafo anterior, compete a la COPRISED:
+III. Sólo tendrán derecho a Diputados de representación proporcional los partidos políticos que hayan registrado candidatos a Diputados por el principio de mayoría relativa, en el número de distritos que señale la Ley.
 
-I. Ejercer el control, vigilancia y fomento sanitario de los productos, actividades, establecimientos y servicios, en términos de las disposiciones previstas en las Leyes General y Estatal de Salud, en términos del acuerdo específico;
+IV. (DEROGADA, B.O. 8 DE NOVIEMBRE DE 1993)
 
-II. Dirigir el Sistema Estatal de Protección contra Riesgos Sanitarios;
+> <small>(REFORMADO, B.O. 19 DE FEBRERO DE 1977)</small>
 
-III. Coordinar la integración de los diagnósticos situacionales en materia de control y fomento sanitario;
+###### Artículo 33.
 
-IV. Vigilar el cumplimiento de las normas oficiales mexicanas relativas a los productos actividades, servicios y establecimientos, en materia de control sanitario;
+Para ser diputado propietario o suplente al Congreso del Estado se requiere:
 
-V. Identificar, analizar, evaluar, regular, controlar, fomentar y difundir las condiciones y requisitos para la prevención y manejo de riesgos sanitarios;
+I. Ser ciudadano sonorense en ejercicio de sus derechos políticos.
 
-VI. Conducir, conforme a los ordenamientos legales aplicables en la materia, la elaboración de las disposiciones para aplicar adecuadamente la regulación, el control y fomento sanitario a nivel estatal;
+II. Tener veintiún años cumplidos, por lo menos, el día de la elección.
 
-VII. Evaluar, expedir o revocar las autorizaciones que en las materias de su competencia, se requieran, así como aquellos actos de autoridad que para el control y fomento sanitario se establecen o deriven de la Ley General y sus Reglamentos, de la Ley Estatal, de las normas oficiales mexicanas y demás ordenamientos aplicables;
+> <small>(REFORMADA, B.O. 30 DE ENERO DE 1984)</small>
 
-VIII. Expedir certificados oficiales de condición sanitaria de procesos, productos, métodos, instalaciones, servicios o actividades relacionadas con las materias de su competencia;
+III. Tener vecindad y residencia efectiva dentro del Distrito Electoral correspondiente, de cuando menos dos años inmediatamente anteriores al día en que se haga la elección, tratándose de los nativos del Estado; y cinco años inmediatamente anteriores al día de la elección, en caso de no serlo.
 
-IX. Imponer sanciones y aplicar medidas de seguridad preventivas o correctivas, según sea el caso, para lo cual se emitirán los acuerdos o resoluciones correspondientes;
+IV. No haber sido Gobernador del Estado dentro del período en que se efectúe la elección, aún cuando se hubiere separado definitivamente de su puesto.
 
-X. Efectuar la identificación, el análisis, la evaluación, el control, el fomento y la difusión de riesgos sanitarios, en las materias de su competencia;
+> <small>(REFORMADA, B.O. 10 DE DICIEMBRE DE 1992)</small>
 
-XI. Establecer estrategias de investigación, evaluación y seguimiento de riesgos sanitarios, en coordinación con otras autoridades competentes de la administración pública estatal;
+V. No haber sido Magistrado del Supremo Tribunal, Procurador General de Justicia, Secretario o Subsecretario, Presidente Municipal ni ejercido mando militar alguno en el Distrito Electoral de l (sic) elección dentro de los noventa días inmediatamente anteriores al día de la elección.
 
-XII. Establecer y ejecutar acciones de control, vigilancia y fomento sanitario, a fin de prevenir y reducir los riesgos sanitarios derivados por la exposición de la población a factores químicos, físicos y biológicos;
+VI. No pertenecer al estado eclesiástico, ni ser ministro de ningún culto religioso.
 
-XIII. Establecer y ejecutar acciones de regulación sanitaria en materia de salubridad local en el ámbito de su competencia, previstas en la Ley de Salud del Estado de Durango;
+VII. No haber sido diputado propietario en el período en que se fectúe (sic) la elección. Los suplentes podrán ser electos siempre que no hubiesen estado en ejercicio dentro de dicho período; pero los diputados propietarios no podrán ser electos con el carácter de suplentes.
 
-XIV. Participar, en coordinación con las demás unidades administrativas de la Secretaría y el Organismo, en la instrumentación de las acciones de prevención y control de enfermedades, así como de vigilancia epidemiológica, especialmente cuando éstas estén en relación con los riesgos sanitarios derivados de los productos, actividades y establecimientos materia de su competencia;
+VIII. No haber sido diputado o senador propietario al Congreso de la Unión, dentro del período en que se celebre la elección. Los diputados y senadores suplentes podrán ser electos con el carácter de propietarios siempre que no hubiesen estado en ejercicio en el período en que se celebre la elección; pero los diputados y senadores propietarios no podrán ser electos con el carácter de suplentes.
 
-XV. Establecer los mecanismos de supervisión y comunicación con las Oficinas Regionales de Protección contra Riesgos sanitarios, en los ámbitos de sus respectivas competencias;
+> <small>(ADICIONADA, B.O. 3 DE ENERO DE 1983)</small>
 
-XVI. Planear, organizar, dirigir y controlar los recursos humanos, materiales y financieros que les sean asignados, de acuerdo con las políticas y lineamientos que emita la autoridad competente;
+IX. No haber sido condenado por la Comisión de un delito intencional, aún cuando se haya cumplido la condena o extinguido la pena.
 
-XVII. Dirigir los sistemas de información sanitaria en materia de protección contra riesgos sanitarios;
+###### Artículo 34.
 
-XVIII. Proponer a la Secretaría de Salud las políticas estatales de protección contra riesgos sanitarios, así como su instrumentación en las materias de su competencia;
+Los Diputados rendirán la protesta de Ley ante el Congreso o ante la Diputación Permanente.
 
-XIX. Conformar y difundir la información relativa a lineamientos y disposiciones sanitarias; y
+#### SECCION III.
 
-XX. Las demás que otras disposiciones legales, reglamentarias y administrativas de carácter general le confieran.
+Instalación y funcionamiento del Congreso.
 
-> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO, B.O. 8 DE NOVIEMBRE DE 1993)</small>
 
-ARTÍCULO 17 BIS 1.- La COPRISED tiene capacidad para administrar y operar recursos humanos, materiales y financieros que le sean autorizados a través de la Secretaría de Salud, en el Presupuesto de Egresos del Estado, los ministrados por la Federación y los ingresos propios derivados de la imposición de sanciones económicas que sean de su competencia, para la ejecución de los programas de protección contra riesgos sanitarios.
+### CAPITULO I.
 
-La COPRISED se integrará y organizará en los términos de su Reglamento respectivo y al frente de la misma estará un Comisionado Estatal, el cual será nombrado por el Gobernador del Estado, a propuesta del titular de la Secretaría de Salud y quién deberá satisfacer los requisitos y tendrá las competencias que señale el Reglamento.
+Disposiciones Generales.
 
-###### ARTÍCULO 18.
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
-Corresponde al Ejecutivo del Estado, por conducto de la Secretaría de Salud:
+###### Artículo 35.
 
-A.- En materia de salubridad general:
+El Congreso del Estado se instalará el día 16 de septiembre del año de su elección.
 
-I. Las funciones estipuladas en el Artículo 34 de esta Ley;
+> <small>(REFORMADO, B.O. 24 DE OCTUBRE DE 1928)</small>
 
-II. Establecer y conducir la política estatal en materia de salud, en los términos de esta Ley y demás disposiciones legales aplicables y de conformidad con las políticas del Sistema Nacional de Salud y con lo dispuesto por el Ejecutivo Estatal;
+###### Artículo 36.
 
-III. Coordinar el Sistema Estatal de Salud y coadyuvar a la consolidación y funcionamiento del Sistema Nacional de Salud;
+El Congreso no podrá abrir sus sesiones ni ejercer su encargo sin la concurrencia de las dos terceras partes del número total de sus miembros.
 
-IV. Formular y desarrollar programas locales de salud, en el marco de los sistemas Nacional y Estatal de Salud y de acuerdo con los principios y objetivos de la planeación nacional;
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
-V. Celebrar con la Federación los acuerdos de coordinación en materia de salubridad general, en los términos de la Ley General de Salud y demás disposiciones legales aplicables, y
+###### Artículo 37.
 
-VI. Las demás que sean necesarias para hacer efectivas las facultades anteriores y las que se deriven de la Ley General de Salud, de está Ley así como de otras disposiciones legales aplicables.
+Si el día señalado por la Ley para la instalación del Congreso no se presentaren todos los diputados propietarios electos, o si una vez instalado no hubiere quórum para que ejerza sus funciones, los que asistieren compelerán a los ausentes a que concurran dentro de los primeros quince días, con la advertencia de que si no lo hacen perderán su carácter. En este caso se llamará a los suplentes con un plazo igual, y si tampoco se presentaren se declarará vacante el puesto y suspensos unos y otros en el uso de sus derechos de ciudadanos, por todo el tiempo que deberían durar en su encargo.
 
-B.- En materia de salubridad local:
+> <small>(REFORMADO, B.O. 8 DE NOVIEMBRE DE 1993)</small>
 
-I. Verificar el funcionamiento de los establecimientos y servicios a que se refiere el apartado B del artículo 34 de esta Ley;
+###### Artículo 38.
 
-II. Establecer los lineamientos y criterios correspondientes en materia de salubridad local;
+Una vez declarado vacante el puesto, en los términos del artículo anterior, si se trata de un Diputado electo por mayoría, el Congreso del Estado notificará al organismo electoral correspondiente para que éste convoque a elecciones extraordinarias en el Distrito cuyo representante no se hubiere presentado a ocupar su asiento, siempre que hayan de transcurrir más de seis meses para que se efectúen las elecciones ordinarias; si se trata de un Diputado de representación proporcional, se llamará a ocupar la vacante al suplente del mismo. Si tampoco éste se presentare, se llamará al candidato que figure como siguiente en el orden de prelación de la lista del mismo partido. Si no hubiese más candidatos en dicha lista, el Congreso declarará vacante esa representación.
 
-III. Establecer las acciones sanitarias en los límites territoriales con otras entidades federativas;
+###### Artículo 39.
 
-IV. Llevar a cabo los programas y acciones que en materia de salubridad local se implanten;
+En todos los casos en que por cualquiera causa desaparezca el Congreso, el Ejecutivo convocará a elecciones extraordinarias de Diputados transcurrido un mes después de la fecha de la desaparición. La elección e instalación del Congreso se verificará como lo determine la Convocatoria respectiva.
 
-V. Promover, orientar, fomentar y apoyar las acciones en materia de salubridad local a cargo de los municipios, con sujeción a las políticas nacional y estatal de salud;
+## TITULO TERCERO.
 
-VI. Vigilar en la esfera de su competencia, el cumplimiento de esta Ley y demás disposiciones legales aplicables; y
+Soberanía del Estado y Forma de Gobierno.
 
-VII. Las demás que establezcan esta Ley y otras disposiciones legales aplicables.
+### CAPITULO II.
 
-###### ARTÍCULO 19.
+Poder Legislativo.
 
-El Gobierno del Estado podrá celebrar con el Ejecutivo Federal acuerdos de coordinación, a fin de que aquél asuma temporalmente la prestación de servicios en materia de salubridad general, en los términos que en dichos acuerdos se convengan.
+#### SECCION I.
 
-###### ARTÍCULO 20.
+Congreso del Estado.
 
-El Gobierno del Estado podrá celebrar convenios de coordinación y cooperación sanitaria con los Gobiernos de los Estados circunvecinos sobre aquellas materias que sean de interés común.
+###### Artículo 40.
 
-###### ARTÍCULO 21.
+Para designar el Congreso electo en la forma establecida en el Artículo anterior, se añadirá al número que le corresponda la palabra "BIS", si dentro del período constitucional del Congreso desaparecido se instalare el nuevo.
 
-La coordinación de la prestación de los servicios de asistencia social que establece esta Ley se llevará a cabo por el Gobierno del Estado a través de la Secretaría y el Organismo, quien promoverá la interrelación de acciones que en el campo de asistencia social lleven a cabo las instituciones públicas y privadas.
+> <small>(REFORMADO, B.O. 8 DE NOVIEMBRE DE 1993)</small>
 
-### CAPÍTULO III. DE LOS AYUNTAMIENTOS
+###### Artículo 41.
 
-###### ARTÍCULO 22.
+El Congreso tendrá en el año dos períodos de sesiones ordinarias: el primero comenzará el 16 de septiembre y terminará el 15 de diciembre y el segundo comprenderá desde el 1o de abril hasta el día último de junio. Ambos períodos pueden ser prorrogables.
 
-La estructura administrativa a que se refieren los artículos 19 y 20 de la Ley General de Salud corresponde al organismo descentralizado denominado Servicios de Salud de Durango. Dicho organismo cuenta con personalidad jurídica, patrimonio propio y funciones de autoridad, y su objetivo es la prestación de servicios de salud a la población abierta en el Estado de Durango, así como las demás acciones que establezcan las disposiciones legales aplicables.
+###### Artículo 42.
 
-###### ARTÍCULO 23.
+En el primer período el Congreso se ocupará preferentemente de discutir y aprobar los Presupuestos de Egresos e Ingresos para el año siguiente. El segundo período se destinará, de preferencia, a examinar y calificar la Cuenta de Gastos hechos en el año anterior.
 
-El Organismo tendrá las siguientes atribuciones y facultades:
+###### Artículo 43.
 
-I. Organizar y operar los servicios de salud a población abierta en materia de salubridad general y de regulación y control sanitarios, conforme lo establece el Acuerdo de Coordinación, y en los rubros a que se refiere esta Ley;
+El Congreso tendrá sesiones extraordinarias siempre que la Diputación Permanente lo convoque para ello.
 
-II. Organizar el Sistema Estatal de Salud, en los términos de la Ley General de Salud y la presente Ley;
+> <small>(REFORMADO, B.O. 24 DE JUNIO DE 1942)</small>
 
-III. Realizar todas aquellas acciones tendientes a garantizar el derecho a la protección de la salud de los habitantes del Estado;
+###### Artículo 44.
 
-IV. Proponer y fortalecer la participación de la comunidad en los servicios de salud;
+En sesiones extraordinarias el Congreso se ocupará exclusivamente del asunto o asuntos que exprese la Convocatoria respectiva y de los que se califiquen de urgentes, por el voto de las dos terceras partes de los Diputados que concurran.
 
-V. Conocer y aplicar la normatividad general en materia de salud, tanto Nacional e Internacional, a fin de proponer adecuaciones a la normatividad estatal y esquemas que logren su correcto cumplimiento;
+###### Artículo 45.
 
-VI. Realizar las acciones necesarias para mejorar la calidad en la prestación de los servicios de salud;
+Si al comenzar un período de sesiones ordinarias el Congreso estuviere celebrando extraordinarias, cesarán éstas y continuarán discutiéndose en aquellas los negocios para que fue convocado.
 
-VII. Promover la ampliación de la cobertura en la prestación de los servicios de salud, apoyando los programas que para tal efecto elabore la Secretaría de Salud del Gobierno Federal;
+> <small>(REFORMADO, B.O. 8 DE NOVIEMBRE DE 1993)</small>
 
-VIII. Operar el sistema estatal de cuotas de recuperación, así como vigilar su cumplimiento, observando los lineamientos que dicte la Secretaría de Salud del Gobierno Federal;
+### CAPITULO III.
 
-IX. Promover, apoyar y llevar a cabo la capacitación en la materia, de los profesionales, especialistas y técnicos;
+Poder Ejecutivo.
 
-X. Integrar un acervo de información y documentación que facilite a las autoridades e instituciones competentes, la investigación, estudio y análisis de ramas y aspectos específicos en materia de salud;
+#### SECCION I.
 
-XI. Difundir entre las autoridades correspondientes y la población en general, a través de publicaciones y actos académicos, los resultados de los trabajos de investigación, estudios y análisis y de recopilación de información, documentación e intercambio que realiza;
+Elección y Funcionamiento.
 
-XII. Administrar los recursos que le sean asignados, las cuotas de recuperación, así como las aportaciones que reciba de otras personas o instituciones; y
+###### Artículo 46.
 
-XIII. Las demás que esta Ley, su reglamento y otras disposiciones le confieran para el cumplimiento de su objeto.
+El día 13 del mes de octubre de cada año, el Gobernador presentará al Congreso del Estado, un informe sobre el estado que guarde la Administración Pública en sus diversos ramos.
 
-###### ARTÍCULO 24.
+El último año de su ejercicio constitucional, el Gobernador presentará el informe a que este precepto se refiere, el día 26 de agosto.
 
-El patrimonio de Servicios de Salud de Durango estará constituido por:
+### CAPITULO IV.
 
-I. Los derechos que tenga sobre los bienes muebles e inmuebles y recursos que le hayan transferido los Gobiernos Federal, Estatal y Municipal;
+Poder Judicial.
 
-II. Las aportaciones que los Gobiernos Federal, Estatal y Municipales le otorguen;
+#### SECCION I.
 
-III. Las aportaciones, donaciones, legados y demás que reciba de los sectores social y privado;
+Disposiciones Generales.
 
-IV. Las cuotas de recuperación que reciba por los servicios que preste;
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 19 DE DICIEMBRE DE 1991)</small>
 
-V. Los rendimientos, recuperaciones y demás ingresos que obtenga de la inversión de los recursos a que se refieren las fracciones anteriores;
+###### Artículo 47.
 
-VI. Las concesiones, permisos, licencias y autorizaciones que se le otorguen conforme a la Ley, y
+Los Diputados que no concurran a una sesión sin causa justificada, o sin permiso del Congreso, no tendrán derecho a la dieta correspondiente.
 
-VII. En general, todos los bienes, derechos y obligaciones que representen utilidad económica o sean susceptibles de estimación pecuniaria y que obtengan por cualquier título legal.
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
-###### ARTÍCULO 25.
+### CAPITULO I.
 
-El Organismo administrará su patrimonio con sujeción a las disposiciones legales aplicables y lo destinará al cumplimiento de su objeto de conformidad con lo establecido en el Acuerdo de Coordinación.
+Integración y Organización de los Municipios.
 
-###### ARTÍCULO 26.
+> <small>(REFORMADO, B.O. 30 DE ENERO DE 1984)</small>
 
-La dirección y administración del Organismo corresponderá:
+###### Artículo 48.
 
-I. A la Junta de Gobierno; y
+El diputado que falte a cinco sesiones consecutivas dentro del período, sin causa justificada o sin previa licencia del Congreso, no podrá concurrir sino hasta el período inmediato y se llamará desde luego a su suplente.
 
-II. A la Dirección General.
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
-###### ARTÍCULO 27.
+###### Artículo 49.
 
-La Junta de Gobierno quedará integrada de la siguiente forma:
+Los diputados suplentes substituirán a los propietarios en todas sus faltas temporales y absolutas.
 
-I. Por un Presidente que será el Gobernador del Estado;
+> <small>(REFORMADO, B.O. 8 DE NOVIEMBRE DE 1993)</small>
 
-II. Por los siguientes representantes del Gobierno del Estado: Los titulares de las Secretarías de Finanzas y de Administración, y de Educación;
+Los diputados suplentes de representación proporcional suplirán a sus propietarios en todas sus faltas temporales y absolutas y, en el caso de que no se presenten ni propietario ni suplente, se llamará a aquellos candidatos del mismo partido que sigan en el orden de prelación en la lista respectiva, después de habérseles asignado los diputados que les hubieren correspondido.
 
-III. Por un representante de la Secretaría de Salud del Gobierno Federal; y
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
-IV. Por un representante de los trabajadores, que será designado por el Comité Ejecutivo Nacional del Sindicato Nacional de Trabajadores de la Secretaría de Salud.
+###### Artículo 50.
 
-El presidente de la Junta podrá invitar a las sesiones de dicho órgano a representantes de instituciones públicas federales o estatales que guarden relación con el objeto del organismo.
+Los diputados en funciones, durante el período de su encargo, no podrán desempeñar comisión o empleo alguno de la Federación, de los otros Poderes del Estado o del Municipio, disfrutando sueldo o remuneración, a no ser que tengan licencia del Congreso; pero concedida que fuere esta licencia, cesarán en sus funciones legislativas mientras desempeñan el empleo o comisión. La infracción de esta disposición será castigada con la pérdida del carácter de diputado.
 
-El titular de la Contraloría Estatal será invitado permanente con voz, pero sin voto.
+###### Artículo 51.
 
-Por cada miembro propietario habrá un suplente, con excepción del presidente. El presidente tendrá voto de calidad.
+Los Diputados son inviolables por las opiniones que emitan en el desempeño de su encargo, y jamás podrán ser reconvenidos por ellas.
 
-El Director General del organismo participará en las sesiones de la Junta de Gobierno con voz, pero sin voto.
+> <small>(REFORMADO, B.O. 24 DE JUNIO DE 1942)</small>
 
-Los cargos en la Junta de Gobierno serán honoríficos, por su desempeño no se percibirá retribución, emolumento o compensación alguna.
+###### Artículo 52.
 
-###### ARTÍCULO 28.
+Toda resolución del Congreso tendrá el carácter de Ley, decreto o acuerdo.
 
-La Junta de Gobierno tiene las siguientes funciones:
+Será materia de ley toda resolución que afecte a las personas en general; de decreto, la que otorgue derechos o imponga obligaciones a personas determinadas, y de acuerdo, en los demás casos.
 
-I. Definir en congruencia con los planes y programas nacionales y estatales, la política en materia de salud a seguir por el Organismo;
+Las leyes y decretos se comunicarán al Ejecutivo firmados por el Presidente y Secretarios de la Legislatura. Los acuerdos se comunicarán por los Secretarios del Congreso.
 
-II. Aprobar los proyectos de programas del Organismo, y presentarlos para su trámite ante los gobiernos Federal y Estatal;
+#### SECCION IV.
 
-III. Evaluar el debido cumplimiento de los programas técnicos aprobados;
+Iniciativa y formación de las leyes.
 
-IV. Aprobar la estructura orgánica básica del Organismo, así como las modificaciones que procedan;
+###### Artículo 53.
 
-V. Analizar y, en su caso, aprobar los informes periódicos que rinda el Director General;
+El derecho de iniciar leyes compete:
 
-VI. Aprobar el reglamento interior del Organismo y los manuales de organización, procedimientos y servicios al público;
+I. Al Ejecutivo del Estado.
 
-VII. Aprobar la creación de nuevas unidades de investigación, capacitación y servicio;
+II. Al Supremo Tribunal de Justicia.
 
-VIII. Autorizar la creación de comisiones de apoyo y determinar las bases de su funcionamiento;
+III. A los Diputados al Congreso de Sonora.
 
-IX. Discutir y aprobar, en su caso, los proyectos de inversión que se propongan;
+IV. A los Ayuntamientos del Estado.
 
-X. Examinar, discutir y aprobar; en su caso, los planes de trabajo que se propongan, así como los informes de actividades presupuestales y estados financieros que se presenten a su consideración;
+###### Artículo 54.
 
-XI. Aprobar, de acuerdo con las leyes aplicables, las políticas, bases y programas generales que regulen los convenios, contratos y acuerdos que deba celebrar el Organismo con terceros; y
+El Supremo Tribunal sólo podrá iniciar leyes en el Ramo de Justicia.
 
-XII. Las demás que sean necesarias para el adecuado ejercicio de las facultades señaladas.
+###### Artículo 55.
 
-###### ARTÍCULO 29.
+Las iniciativas presentadas por el Ejecutivo o por el Supremo Tribunal pasarán desde luego a Comisión. Todas las demás deberán sujetarse a los trámites que establezca el Reglamento de Debates, trámites que sólo podran ser dispensados por el voto de las dos terceras partes de los Diputados presentes.
 
-La Junta de Gobierno celebrará sesiones ordinarias cada cuatro meses, así como las extraordinarias que se requieran, mismas que serán convocadas con una anticipación de siete días hábiles anteriores a la fecha de su celebración, en los términos y condiciones de su reglamento interior.
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
-###### ARTÍCULO 30.
+###### Artículo 56.
 
-El Director General del Organismo tendrá las siguientes funciones:
+Aprobado por el Congreso un proyecto de Ley o de decreto pasará al Ejecutivo para su sanción y publicación inmediata, si éste no tuviere observaciones que hacerle.
 
-I. Representar al Organismo en los asuntos que se deriven de las funciones del mismo;
+Los acuerdos de la Cámara se comunicarán al propio Ejecutivo para los efectos correspondientes.
 
-II. Ejecutar los acuerdos y resoluciones que emita la Junta de Gobierno;
+> <small>(REFORMADO, B.O. 24 DE JUNIO DE 1942)</small>
 
-III. Nombrar y remover a los servidores públicos del Organismo, así como determinar sus atribuciones, ámbito de competencia y retribuciones con apego al presupuesto aprobado y demás disposiciones aplicables;
+###### Artículo 57.
 
-IV. Ejercer los actos que se le ordenen, pudiendo delegar esa facultad en otros servidores públicos, previo acuerdo de la Junta de Gobierno;
+Se reputará aprobado por el Ejecutivo todo proyecto de ley o de decreto no devuelto con observaciones al Congreso, o en su receso a la Diputación Permanente, en el término de diez días útiles.
 
-V. Proponer a la Junta de Gobierno las políticas generales del Organismo;
+El Congreso o la Diputación Permanente podrán ordenar la publicación de las leyes o decretos si el Ejecutivo no lo hace dentro de los ocho días siguientes al vencimiento del término fijado para hacer observaciones, o el día en que reciba la ley o decreto confirmados por aquella Asamblea. En este caso se harán constar las circunstancias que lo motiven.
 
-VI. Vigilar el cumplimiento del objeto del Organismo;
+###### Artículo 58.
 
-VII. Presentar, para su aprobación, los planes de trabajo, propuesta de presupuesto, informes de actividades y estados financieros del Organismo;
+Si corriendo el término que para hacer observaciones fija el Artículo anterior, el Congreso cierra o suspende sus sesiones, la devolución del Proyecto deberá hacerse a la Diputación Permanente.
 
-VIII. Formular el anteproyecto de presupuesto anual del Organismo y someterlo a la consideración de la Junta de Gobierno;
+###### Artículo 59.
 
-IX. Instrumentar los sistemas y procedimientos que permitan la mejor aplicación de los recursos;
+En caso de urgencia notoria, calificada así por las dos terceras partes, cuando menos, de los Diputados presentes, el Congreso podrá reducir los términos concedidos al Ejecutivo para hacer observaciones, sin que en caso alguno puedan ser menores de cuarenta y ocho horas corridas.
 
-X. Expedir los nombramientos del personal;
+> <small>(REFORMADO, B.O. 24 DE JUNIO DE 1942)</small>
 
-XI. Realizar tareas editoriales y de difusión relacionadas con el objeto del Organismo;
+###### Artículo 60.
 
-XII. Suscribir, acuerdos o convenios y contratos con dependencias y entidades de la Administración Pública Federal, con las entidades federativas, con los municipios y con organismos del sector privado y social, en materia de la competencia del Organismo;
+Devuelto oportunamente un proyecto con observaciones, deberá ser discutido de nuevo por el Congreso; y si fuere confirmado por las dos terceras partes de los Diputados presentes, el proyecto tendrá carácter de ley o de decreto y volverá al Ejecutivo para su publicación, observándose en cuanto a esta lo dispuesto en los artículos que anteceden.
 
-XIII. Planear y dirigir técnica y administrativamente el funcionamiento del Organismo;
+### CAPITULO II.
 
-XIV. Presentar a la Junta de Gobierno un informe anual de las actividades realizadas y de los resultados obtenidos, acompañando los informes específicos que se le requieran; y
+Ambito de Competencia de los Municipios.
 
-XV. Las demás que le confiera la Junta de Gobierno y las disposiciones legales aplicables.
+> <small>(REFORMADO, B.O. 30 DE ENERO DE 1984)</small>
 
-###### ARTÍCULO 31.
+###### Artículo 61.
 
-El Organismo contará con un órgano de vigilancia que recaerá en un Contralor Interno que será designado por el Ejecutivo del Estado y su actuación la realizará bajo la coordinación directa y funcional de la Secretaría de Contraloría y Modernización Administrativa del Gobierno del Estado.
+El Ejecutivo no podrá hacer observaciones a las resoluciones del Congreso cuando éste funja como Colegio Electoral o como Jurado. Tampoco podrá hacer observaciones a los Decretos que convoquen a elecciones.
 
-El Contralor será el que funja como tal en la dependencia denominada Secretaría de Salud del Gobierno del Estado.
+> <small>(REFORMADO, B.O. 24 DE JUNIO DE 1942)</small>
 
-###### ARTÍCULO 32.
+###### Artículo 62.
 
-El Contralor Interno tendrá las siguientes facultades:
+Todo proyecto de ley o de decreto que fuere desechado por el Congreso, no podrá ser presentado de nuevo en el mismo período de sesiones.
 
-I. Vigilar que la administración de los recursos se haga de acuerdo con lo dispuesto en el programa y el presupuesto aprobados y demás disposiciones legales aplicables;
+###### Artículo 63.
 
-II. Vigilar la contabilidad y disponer auditorías a los estados financieros del Organismo y de la Administración del Patrimonio de la Beneficencia Pública del Estado;
+En la interpretación, reforma o abrogación de leyes se observarán los mismos trámites establecidos para su formación.
 
-III. Recomendar a la Junta de Gobierno y al Director General, las medidas preventivas y correctivas para el mejor aprovechamiento de los recursos en el ejercicio de las funciones del Organismo;
+#### SECCION V.
 
-IV. Asistir como suplente del titular de la Contraloría Estatal a las sesiones de la Junta de Gobierno;
+Facultades del Congreso.
 
-V. Atender y tramitar las quejas y denuncias que se presenten en contra de los servidores públicos de la Secretaría y del Organismo;
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
-VI. Iniciar y tramitar los procedimientos administrativos disciplinarios y resarcitorios e imponer en su caso las sanciones que correspondan en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y de sus Municipios;
+###### Artículo 64.
 
-VII. Vigilar el correcto ejercicio de los presupuestos autorizados a la Secretaría y el Organismo;
+El Congreso tendrá facultades:
 
-VIII. Evaluar las medidas de simplificación administrativa que se adopten en las Dependencias que integran la Administración Pública, proponiendo en su caso aquellas otras que se consideren convenientes;
+I. Para iniciar leyes y decretos ante el Congreso de la Unión.
 
-IX. Realizar las funciones que de acuerdo con las leyes, reglamentos, decretos, acuerdos y demás disposiciones corresponda ejecutar a la Secretaría de Contraloría y Modernización Administrativa, conforme a sus lineamientos y programas de trabajo;
+II. Para determinar las profesiones que necesiten título para su ejercicio en el Estado, las condiciones que deban llenarse para obtenerlo y las autoridades que deban expedirlo.
 
-X. Informar a la Secretaría de Contraloría y Modernización Administrativa el resultado de las acciones, comisiones o funciones que se le encomienden y sugerir al titular de la Secretaría y el Organismo, la instrumentación de normas complementarias en materia de control;
+III. Para expedir leyes sobre el fraccionamiento de las grandes propiedades rústicas y sobre el patrimonio de familia, en los términos del artículo 27 de la Constitución General de la República.
 
-XI. Intervenir en los procesos de entrega-recepción de las diferentes unidades administrativas que conforman la Secretaría y el Organismo;
+IV. Para ratificar o no la creación de nuevos Estados dentro de los límites de los existentes, de conformidad con el artículo 73 de la propia Constitución General.
 
-XII. Aplicar las políticas, procedimientos y estrategias de operación conforme a las normas y directrices que fije la Secretaría y el Organismo, la Secretaría de Contraloría y Modernización Administrativa y la Secretaría de Contraloría y Desarrollo Administrativo;
+V. Para establecer las bases de todo arreglo amistoso sobre límites del territorio de Sonora.
 
-XIII. Proporcionar asesoría al Comité de Adquisiciones, Arrendamientos y Servicios y al Comité de Obras Públicas en cumplimiento a lo estipulado por las leyes estatales de la materia. Asimismo a los Comités de Adquisiciones y Obras Públicas constituido en los términos de la Ley de Adquisiciones, Arrendamientos y Servicios del sector público y de obras públicas y servicios relacionados con las mismas;
+VI. Para reclamar ante quien corresponda las leyes que se expidan o los actos que se ejecuten por cualquiera autoridad federal o estatal, cuando ataquen la soberanía o independencia del Estado, o cuando por cualquiera causa aquéllos se consideren lesivos al mismo.
 
-XIV. Realizar supervisiones, revisiones y auditorías tendientes a verificar que en el Organismo, se observen las normas y disposiciones que regulan la prestación del servicio público encomendado y las relativas al sistema de registro y contabilidad, contratación de servicios, obra pública, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación, baja de bienes, demás activos y recursos materiales;
+> <small>(REFORMADA, B.O. 30 DE ENERO DE 1984)</small>
 
-XV. Ejercer las facultades que sean afines o complementarias a las mencionadas en las fracciones anteriores, así como las que expresamente le señale el Ejecutivo Estatal; y
+VII. Para expedir Leyes en el Estado que fijen las bases sobre la organización y prestación de los servicios públicos de salud y de educación, así como para la capacitación y adiestramiento en el trabajo, protección a la familia, promoción a la vivienda, recreación y deporte y seguridad social.
 
-XVI. Las que otras disposiciones aplicables le confieran.
+VIII. Para dictar leyes encaminadas a combatir el alcoholismo en el Estado.
 
-###### ARTÍCULO 33.
+IX. (DEROGADA, B.O. 12 DE NOVIEMBRE DE 1992)
 
-Los ingresos que obtenga el Organismo por la prestación de los servicios en materia de salubridad general, quedarán sujetos a lo que se disponga en los Acuerdos de Coordinación celebrados con la Secretaría de Salud del Gobierno Federal y lo que determine la legislación fiscal aplicable.
+> <small>(REFORMADA, B.O. 30 DE ENERO DE 1984)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JUNIO DE 2008)</small>
+X. Para reglamentar el funcionamiento del Municipio libre como base de la división territorial y de la organización política y administrativa del Estado, así como para fortalecerlo como corresponsable en la conducción del desarrollo de la entidad.
 
-###### ARTÍCULO 34.
+> <small>(REFORMADA, B.O. 30 DE ENERO DE 1984)</small>
 
-Corresponde a la Secretaría, al Organismo y a la COPRISED, en el ámbito de sus respectivas competencias, además de las atribuciones que le otorguen la normatividad en materia de salud, lo siguiente:
+XI. Para definir los Límites de los Municipios.
 
-A.- En materia de salubridad general:
+XII. Para erigir nuevos municipios dentro de los límites de los existentes, siendo necesario, al efecto:
 
-I. La atención médica, preferentemente en beneficio de grupos vulnerables;
+a). Que la porción territorial de que se trate cuente con una población de diez mil habitantes cuando menos.
 
-II. La atención materno-infantil;
+b). Que se compruebe debidamente ante el Congreso que tiene elementos bastantes para proveer a su existencia política.
 
-III. La planificación familiar;
+c). Que se conceda al ayuntamiento o ayuntamientos afectados el derecho de ser oído dentro del término de dos meses, contados desde el día en que reciban la comunicación respectiva, sobre la conveniencia o inconveniencia de la nueva creación municipal.
 
-IV. La salud mental;
+d). Que igualmente se oiga sobre el particular al Ejecutivo del Estado. El informe de éste deberá rendirse dentro de los sesenta días de la fecha en que se hubiese solicitado.
 
-V. La organización, coordinación y vigilancia del ejercicio de las actividades profesionales, técnicas y auxiliares para la salud;
+e). Que la creación del nuevo municipio sea aprobada por las dos terceras partes de los miembros del Congreso.
 
-VI. La promoción de la formación de recursos humanos para la salud;
+XIII. Para suprimir aquéllos municipios que carezcan de elementos bastantes para proveer a su existencia política, siempre que la supresión sea aprobada por las dos terceras partes de los miembros del Congreso. Decretada la extinción se designará la jurisdicción dentro de la cual quedarán comprendidos los municipios desaparecidos.
 
-VII. La coordinación de la investigación para la salud y su control en los seres humanos;
+Para que la supresión tenga efecto se oirá al ayuntamiento o ayuntamientos interesados y al Ejecutivo del Estado, en los términos establecidos en los incisos c) y d) de la fracción anterior.
 
-VIII. La información relativa a las condiciones, recursos y servicios de salud;
+> <small>(ADICIONADA, B.O. 30 DE ENERO DE 1984)</small>
 
-IX. La educación para la salud;
+XIII Bis. Para conocer, substanciar y resolver los procedimientos relativos a la suspensión o desaparición de Ayuntamientos, o de suspensión de sus miembros o revocación de su mandato; así como para convocar a elecciones municipales extraordinarias e integrar y designar Consejos Municipales, en su caso.
 
-X. La orientación y vigilancia en materia de nutrición;
+XIV. Para trasladar, provisionalmente, fuera de la ciudad de Hermosillo, la residencia de los Poderes del Estado.
 
-XI. La prevención y el control de los efectos nocivos de los factores ambientales en la salud del hombre;
+> <small>(REFORMADA, B.O. 8 DE NOVIEMBRE DE 1993)</small>
 
-XII. La salud ocupacional y el saneamiento básico;
+XV. Para erigirse en Colegio Electoral con el fin de computar y calificar en definitiva las elecciones de Gobernador en la forma en que determine la Ley. Su resolución será inatacable.
 
-XIII. La prevención y el control de las enfermedades transmisibles;
+XVI. Para resolver sobre la renuncia de sus propios miembros y la del Gobernador, y para conceder licencias a unos y otro.
 
-XIV. La prevención y el control de las enfermedades no transmisibles y accidentes;
+> <small>(REFORMADA, B.O. 2 DE FEBRERO DE 1977)</small>
 
-XV. La prevención de la discapacidad y la rehabilitación de las personas discapacitadas;
+XVII. Para constituirse en Colegio Electoral y elegir al ciudadano que debe substituir al Gobernador en sus faltas absolutas, temporales o definitivas y en sus ausencias temporales cuando éstas excedan de noventa días.
 
-XVI. La asistencia social;
+> <small>(REFORMADA, B.O. 22 DE ENERO DE 1977)</small>
 
-XVII. El control sanitario de la publicidad;
+XVIII. Para aprobar o rechazar los nombramientos de los Magistrados del Supremo Tribunal de Justicia y del Tribunal de lo Contencioso Administrativo, que sean hechos por el Ejecutivo.
 
-XVIII. El control sanitario de la disposición de sangre humana;
+XIX. Para aceptar a dichos funcionarios la renuncia de sus respectivos cargos y concederles licencia hasta por dos meses con goce de sueldo y por más de ese tiempo sin goce de él.
 
-XIX. Insumos para la Salud;
+XX. (DEROGADA, B.O. 8 DE NOVIEMBRE DE 1993)
 
-XX. Participar con las autoridades federales en el desarrollo de los programas contra el alcoholismo, el tabaquismo y la fármacodependencia, de conformidad con el acuerdo de coordinación específico que al efecto se celebre;
+> <small>(REFORMADA, B.O. 9 DE ABRIL DE 1984)</small>
 
-XXI. La verificación y el control de los establecimientos que expendan o suministren al público alimentos y bebidas no alcohólicas y alcohólicas, en estado natural, mezclados, preparados, adicionados o acondicionados, para su consumo dentro o fuera del mismo establecimiento, de conformidad con los reglamentos y las NOMs correspondientes;
+XXI. Para nombrar al Diputado Acusador y erigirse en Jurado de Sentencia con el fin de conocer en juicio político de las faltas u omisiones graves que redunden en perjuicio de los intereses públicos fundamentales y de su buen despacho, que cometan los servidores públicos a que alude la Fracción I del Artículo 144 de esta Constitución.
 
-XXII. La verificación y el control sanitario de todas aquellas actividades, establecimientos, productos y servicios que en materia de salubridad general establezcan los acuerdos celebrados con la federación, y los que en el futuro se celebren; y
+> <small>(ADICIONADA, B.O. 9 DE ABRIL DE 1984)</small>
 
-XXIII. Las demás que establezcan la Ley General de Salud y otras disposiciones legales aplicables.
+XXI A. Para declarar si ha o no lugar a proceder penalmente contra los servidores públicos que hubieren incurrido en delito, en los términos del Artículo 146 de esta Constitución.
 
-B.- En materia de salubridad local, ejercer el control sanitario de:
+> <small>(ADICIONADA, B.O. 9 DE ABRIL DE 1984)</small>
 
-I. Mercados y centros de abasto;
+XXI B. Para conocer y decidir sobre la resolución que dicte la Cámara de Senadores y la declaración de procedencia que emita la Cámara de Diputados del Congreso de la Unión, en los términos de los Artículos 110 y 111 de la Constitución General de la República.
 
-II. Construcciones, excepto la de los establecimientos de salud;
+XXII. Para discutir, modificar, aprobar o reprobar el Presupuesto de Egresos del Estado, en vista de los datos que le presente el Ejecutivo.
 
-III. Cementerios, crematorios y funerarias;
+XXIII. Para discutir, modificar, aprobar o reprobar el Presupuesto de Ingresos que le presente el Ejecutivo.
 
-IV. Limpieza pública;
+> <small>(REFORMADA, B.O. 30 DE ENERO DE 1984)</small>
 
-V. Rastros;
+XXIV. Para discutir, modificar, aprobar o reprobar anualmente las Leyes de Ingresos y Presupuestos de Ingresos de los Ayuntamientos, así como las modificaciones a dichos presupuestos.
 
-VI. Agua potable, drenaje y alcantarillado;
+> <small>(ADICIONADA, B.O. 10 DE ENERO DE 1985)</small>
 
-VII. Establos, granjas avícolas, porcícolas, apiarios y establecimientos similares;
+XXIV Bis. Para revisar los estados financieros a que se refiere el Artículo 136 Fracción XXIII de esta Constitución, pudiendo ordenar visitas e inspecciones, practicar auditorias, solicitar informes y, en general, recabar los elementos de información necesarios para cumplir con sus funciones.
 
-VIII. Reclusorios o centros de readaptación social y centros para menores infractores;
+> <small>(REFORMADA, B.O. 30 DE ENERO DE 1984)</small>
 
-IX. Baños públicos, albercas y gimnasios;
+XXV. Para revisar anualmente las cuentas públicas del Estado del año anterior que deberá presentar el Ejecutivo y las de los Municipios que deberán presentar los Ayuntamientos. La revisión de las cuentas públicas tendrá por objeto conocer los resultados de la gestión financiera, comprobar si se ha ajustado a los criterios señalados en los presupuestos aprobados y analizar el cumplimiento de los objetivos y metas contenidos en los programas, a cuya ejecución se haya asignado los recursos presupuestados. Si de la glosa aparecieren discrepancias entre las cantidades ejercidas, las partidas aprobadas y las metas alcanzadas, o no existiere exactitud y justificación de los gastos hechos, se determinarán las responsabilidades de acuerdo con la Ley.
 
-X. Centros de reunión y espectáculos;
+XXVI. Para crear y suprimir empleos públicos del Estado y señalar, aumentar o disminuir sus dotaciones.
 
-XI. Prostitución;
+> <small>(REFORMADA, B.O. 30 DE ENERO DE 1984)</small>
 
-XII. Establecimientos dedicados a la prestación de servicios como peluquerías, salones de belleza y otros similares;
+XXVII. Para autorizar al Ejecutivo y a los Ayuntamientos a fin de que contraigan deudas en nombre del Estado y de los Municipios, respectivamente, fijándoles expresamente las bases a que deban sujetarse, sín contravenir al Artículo 117 de la Constitución General de la República.
 
-XIII. Tintorerías, lavanderías y lavaderos públicos;
+XXVIII. Para conceder amnistías por delitos cuyo conocimiento corresponda privativamente a los Tribunales del Estado.
 
-XIV. Establecimientos para el hospedaje;
+XXIX. Para otorgar premios o recompensas a las personas que hayan prestado servicios de importancia a la Nación o al Estado, y declarar beneméritos a los que se hayan distinguido por servicios eminentes prestados al mismo Estado.
 
-XV. Transporte estatal y municipal;
+XXX. Para aprobar o reprobar la creación de nuevas Comisarías o suprimir las existentes, a iniciativa de los ayuntamientos correspondientes.
 
-XVI. Gasolineras;
+> <small>(REFORMADA, B.O. 12 DE AGOSTO DE 1978)</small>
 
-XVII. Prevención y control de la fauna nociva; y
+XXXI. Para expedir la ley que regulará su estructura y funcionamiento internos, así como los reglamentos de la misma.
 
-XVIII. Las demás materias que determine esta Ley y las disposiciones legales aplicables.
+La ley y los reglamentos a que se refieren los párrafos anteriores no podrán ser vetados ni necesitarán la promulgación del Ejecutivo para tener vigencia.
 
-Para la verificación y control sanitario de los establecimientos a que se refiere la fracción XXI del apartado A de este artículo, se aplicarán las disposiciones de la Ley General de Salud, esta Ley y las reglamentarias que emanen de ellas y las NOMs correspondientes.
+> <small>(REFORMADA, B.O. 10 DE ENERO DE 1985)</small>
 
-En lo conducente, los Municipios serán corresponsables con la Secretaría y el Organismo en la verificación y control sanitario de los establecimientos a que se refiere el apartado B de este artículo, de conformidad con lo establecido en la presente Ley y demás disposiciones generales aplicables.
+XXXII. Para nombrar y remover conforme a las leyes a los empleados de su Secretaría y de su Contaduría Mayor de Hacienda.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+> <small>(ADICIONADA, B.O. 10 DE ENERO DE 1985)</small>
 
-###### ARTÍCULO 35.
+XXXII Bis. Para vigilar, por medio de una comisión de su seno, el exacto desempeño de las funciones de la Contaduría Mayor de Hacienda.
 
-Corresponde a los Ayuntamientos:
+XXXIII. Para investir al Ejecutivo de facultades extraordinarias, por tiempo limitado y por el voto de las dos terceras partes del número total de sus miembros, en casos excepcionales y cuando así lo estime conveniente por las circunstancias especiales en que se encuentre el Estado. En tales casos se expresará con toda claridad la facultad o facultades con que se le invista y que nunca podrá ser las de organización municipal, funciones electorales y de jurado.
 
-I. Asumir sus atribuciones en los términos de esta Ley y de los convenios que suscriban con el Ejecutivo del Estado en materia de salubridad local;
+XXXIV. Para expedir reglamentos sobre la instrucción de la Guardia Nacional, con sujeción a la fracción XV del artículo 73 de la Constitución General de la República.
 
-II. Garantizar la calidad y el abasto del agua para uso y consumo humano, en los términos de los convenios que celebren con el Ejecutivo del Estado y de conformidad con la normatividad vigente;
+XXXV. Para velar por la conservación de los derechos de los ciudadanos y habitantes del Estado y proveer, por cuantos medios estén a su alcance, a su prosperidad general.
 
-III. Formular y desarrollar programas municipales de salud en el marco de los Sistemas Nacional y Estatal de Salud, de acuerdo con los principios y objetivos de los Planes Nacional, Estatal y Municipal de Desarrollo, procurando un (sic) aplicación con perspectiva de género;
+XXXVI. Para establecer la nomenclatura política de los poblados del Estado y legislar en todo lo concerniente a su fundo legal, planificación y urbanización, observándose, en su caso, lo que en la misma materia prescriban las leyes federales.
 
-IV. Vigilar y hacer cumplir en la esfera de su competencia, todos los ordenamientos legales sanitarios correspondientes;
+> <small>(REFORMADA, B.O. 30 DE ENERO DE 1984)</small>
 
-V. Asumir la administración de los establecimientos de salud que descentralice en su favor el Gobierno Estatal en los términos de las leyes aplicables y de los Convenios que al efecto se celebren; y
+XXXVII. Para determinar, según las condiciones territoriales y socioeconómicas de los Municipios, y según su capacidad administrativa, técnica y financiera, los servicios públicos que éstos tendrán a su cargo directamente o en concurso con el Estado, así como para fijar anualmente sus contraprestaciones.
 
-VI. Las demás que sean necesarias para hacer efectivas las atribuciones anteriores y las que se deriven de esta Ley.
+> <small>(REFORMADA, B.O. 30 DE ENERO DE 1984)</small>
 
-###### ARTÍCULO 36.
+XXXVIII. Para fijar las bases conforme a la (sic) cuales los Ayuntamientos expedirán sus disposiciones de observancia general en sus respectivas jurisdicciones, así como para la coordinación y asociación de Municipios en la prestación de los servicios públicos a que se refiere el Artículo 137 de esta Constitución.
 
-El Gobierno del Estado y los municipios, de conformidad con las disposiciones legales aplicables, aportarán los recursos humanos, materiales y financieros necesarios para la operación de los servicios de salubridad general y local, respectivamente en los términos que establezcan los convenios que al efecto ambos celebren.
+XXXIX. Para dictar leyes sobre vías de comunicación y aprovechamiento de aguas y bosques que no sean de jurisdicción federal; y sobre el ejercicio, explotación y aprovechamiento de la caza.
 
-Los recursos que aporten las partes quedarán expresamente destinados a los fines del convenio respectivo y sujetos al régimen legal que les corresponda.
+XL. Para autorizar al Ejecutivo del Estado a fin de crear fuerzas de servicio temporal en los casos a que se refiere la fracción XIII del Artículo 79 de esta Constitución.
 
-###### ARTÍCULO 37.
+XLI. Para conceder permiso al Gobernador del Estado a fin de que pueda asumir el mando, inmediata y personalmente, en campaña, de la Guardia Nacional y demás fuerzas del Estado.
 
-Los ingresos que se obtengan por los servicios de salubridad local que se presten en los términos de los convenios a que se refiere el artículo anterior, se aplicarán a los mismos conceptos en la forma que establezca la legislación fiscal aplicable.
+XLII. (DEROGADA, B.O. 8 DE NOVIEMBRE DE 1993)
 
-###### ARTÍCULO 38.
+> <small>(REFORMADA, B.O. 30 DE ENERO DE 1984)</small>
 
-El Gobierno del Estado y los municipios en el ámbito de sus respectivas competencias y en los términos de los convenios que celebren, darán prioridad a los siguientes servicios sanitarios:
+XLIII. Para expedir Leyes y reglamentos concernientes a la recta aplicación de la Ley Federal del Trabajo, en las materias que ésta encomienda a las Autoridades Estatales; así mismo, para expedir las leyes que normen las relaciones de los servidores públicos de los Poderes del Estado y Ayuntamientos y de los trabajadores al servicio de los organismos descentralizados.
 
-I. Proporcionar el servicio de agua potable para uso y consumo humano y vigilar su calidad, de conformidad con la normatividad vigente;
+> <small>(ADICIONADA, B.O. 22 DE ENERO DE 1977)</small>
 
-II. Establecimiento de sistemas de alcantarillado;
+XLIII Bis. Para instituir Tribunales de lo Contencioso Administrativo dotados de plena autonomía para dictar sus fallos, que tenga a su cargo dirimir las controversias que se susciten entre la administración pública y los particulares, estableciendo las normas para su organización, funcionamiento, procedimiento, y los requisitos que deben reunir el o los Magistrados
 
-III. Instalación de retretes o sanitarios públicos; y
+> <small>(ADICIONADO, B.O. 20 DE AGOSTO DE 1977)</small>
 
-IV. Prestar servicios de limpieza pública y la eliminación de desechos sólidos y líquidos.
+También podrá instituir Tribunales de Conciliación y Arbitraje que conozcan de las controversias que surjan de la aplicación de las leyes que regulen las relaciones entre los trabajadores del Servicio Civil y los titulares de las entidades y dependencias públicas en que presten sus servicios.
 
-###### ARTÍCULO 39.
+XLIV. Para expedir las leyes concernientes a la administración y gobierno interior del Estado en todos sus ramos, interpretarlas, aclararlas o derogarlas y hacer efectivas las facultades expuestas y todas las demás que le confieran la Constitución General de la República, esta Local y las leyes que de ellas emanen.
 
-Los municipios del Estado, previo acuerdo entre sus Ayuntamientos y en el ámbito de su competencia, podrán celebrar entre ellos convenios de coordinación, asociación y cooperación en materia sanitaria, para la más eficaz operación de los servicios o el mejor ejercicio de las funciones que le corresponden.
+#### SECCION VI.
 
-## TÍTULO CUARTO. PRESTACIÓN DE LOS SERVICIOS DE SALUD
+Diputación Permanente.
 
-### CAPÍTULO II. ATENCIÓN MÉDICA
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
-###### ARTÍCULO 40.
+###### Artículo 65.
 
-Los servicios de salud se clasifican en:
+El mismo día en que el Congreso deba cerrar sus sesiones, antes de entrar en receso nombrará por mayoría de votos y en escrutinio secreto, una Diputación Permanente compuesta de tres miembros propietarios y dos suplentes, que durará hasta el nuevo período ordinario de sesiones. El primero y segundo de los miembros propietarios nombrados serán Presidente y Vice-Presidente, respectivamente, de la Diputación y el otro Secretario. Los suplentes serán llamados a substituir indistintamente al propietario que falte.
 
-I. De atención médica;
+La Diputación Permanente no podrá ejercer sus funciones sin la concurrencia de tres de sus miembros.
 
-II. De salud pública; y
+###### Artículo 65 Bis.
 
-III. De asistencia social.
+(DEROGADO, B.O. 5 DE MAYO DE 1954)
 
-###### ARTÍCULO 41.
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
-Conforme a las prioridades del Sistema Estatal de Salud, se garantizará la extensión cuantitativa y cualitativa de los servicios de salud, preferentemente a los grupos vulnerables.
+###### Artículo 66.
 
-###### ARTÍCULO 42.
+Son facultades de la Diputación Permanente:
 
-Para la organización y administración de los servicios de salud, se definirán los criterios de distribución de grupos de usuarios, de regionalización y de escalonamiento de los servicios, así de cobertura y de colaboración interinstitucional.
+I. Conceder o negar las licencias a que se refiere la fracción XVI del artículo 64 de esta Constitución.
 
-###### ARTÍCULO 43.
+II. Conceder licencia hasta por dos meses con goce de sueldo y por más de ese tiempo sin goce de él, a los Magistrados del Supremo Tribunal de Justicia.
 
-Para los efectos del derecho a la protección de la salud, se consideran servicios básicos de salud los siguientes:
+III. Vigilar la exacta observancia de la Constitución General, la Particular del Estado y las leyes que de éstas emanen, dando cuenta al Congreso de las infracciones que advierta.
 
-I. La educación para la salud, la promoción del saneamiento básico y el mejoramiento de las condiciones sanitarias del ambiente;
+IV. Circular la convocatoria a sesiones extraordinarias por medio del Presidente, si después del tercer día de comunicada al Ejecutivo éste no lo hubiese hecho.
 
-II. La prevención y el control de las enfermedades transmisibles de atención prioritaria;
+V. Constituirse en Colegio Electoral y nombrar en los términos de Ley al Ciudadano que deba substituir al Gobernador en sus faltas temporales o absolutas, mientras se reúne el Congreso para que ratifique dicho nombramiento o haga nueva designación.
 
-III. La prevención y el control de las enfermedades no transmisibles más frecuentes y de los accidentes;
+VI. Recibir durante sus funciones las protestas que deban otorgarse ante el Congreso.
 
-IV. La atención médica, que comprende actividades preventivas, curativas y de rehabilitación, incluyendo la atención de urgencias;
+> <small>(REFORMADA, B.O. 9 DE ABRIL DE 1984)</small>
 
-V. La atención materno-infantil;
+VII. Convocar al Congreso a sesiones extraordinarias para que provea el nombramiento respectivo cuando se trate de cubrir las ausencias del Gobernador.
 
-VI. La planificación familiar;
+> <small>(ADICIONADA, B.O. 9 DE ABRIL DE 1984)</small>
 
-VII. La salud mental;
+VII Bis. Convocar al Congreso a sesiones extraordinarias para que se aboque al conocimiento de los hechos correspondientes, cuando se trate de las faltas u omisiones graves que cometan los servidores públicos a que alude la Fracción I del Artículo 144 de esta Constitución, cuando se trate de los delitos cometidos por los servidores públicos que enumera el primer párrafo del Artículo 146 y, en todos aquellos casos que a juicio de la Diputación Permanente, sean de gravedad y urgencia.
 
-VIII. La prevención y el control de las enfermedades buco dentales;
+VIII. Dictaminar únicamente los asuntos cuya resolución definitiva sea de su exclusiva competencia.
 
-IX. La disponibilidad de medicamentos y otros insumos esenciales para la salud;
+IX. Conceder permiso provisional al Gobernador del Estado a fin de que pueda asumir el mando inmediato y personalmente, en campaña, de la Guardia Nacional y demás fuerzas del Estado. Este permiso quedará sujeto a la aprobación del Congreso.
 
-X. La promoción del mejoramiento de la nutrición;
+X. Las demás que expresamente le confiere esta Constitución.
 
-XI. La asistencia social a los grupos más vulnerables;
+###### Artículo 67.
 
-XII. La atención a las víctimas de violencia intrafamiliar y de abandono; y
+La Diputación Permanente convocará al Congreso a sesiones extraordinarias siempre que el Ejecutivo lo solicite.
 
-XIII. Las demás que establezca esta Ley y otras disposiciones legales aplicables.
+###### Artículo 68.
 
-###### ARTÍCULO 44.
+El ejercicio del Poder Ejecutivo se deposita en un sólo individuo que se denominará "Gobernador del Estado de Sonora".
 
-La Secretaría y el Organismo, de conformidad con las disposiciones legales aplicables, vigilarán que las instituciones públicas estatales que presten servicios de salud en la entidad apliquen el cuadro básico de insumos para el primer nivel de atención médica y el catálogo de insumos para el segundo y tercer nivel, elaborados por el Consejo de Salubridad General.
+### CAPITULO III.
 
-###### ARTÍCULO 45.
+Patimonio (sic) y Hacienda Pública de los Municipios.
 
-El Gobierno del Estado coadyuvará con las autoridades federales competentes para:
+> <small>(REFORMADO, B.O. 30 DE ENERO DE 1984)</small>
 
-I. Garantizar a la población la disponibilidad de medicamentos esenciales básicos, suficientes y oportunos; y
+###### Artículo 69.
 
-II. El cumplimiento de las disposiciones legales aplicables por parte de los establecimientos de los sectores público, social y privado dedicados al expendio de medicamentos y a la provisión de insumos para su elaboración.
+La elección de Gobernador será popular directa, en los términos que disponga la Ley Electoral.
 
-### CAPÍTULO III. SALUD PÚBLICA
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
-###### ARTÍCULO 46.
+###### Artículo 70.
 
-Las actividades de atención médica son:
+Para ser Gobernador del Estado se requiere:
 
-I. Preventivas, que incluyen las de promoción general de la salud y las de protección específica;
+> <small>(REFORMADA, B.O. 10 DE ENERO DE 1985)</small>
 
-II. Curativas, que tienen como fin efectuar un diagnóstico temprano y proporcionar tratamiento oportuno; y
+I. Ser mexicano por nacimiento, hijo de padres mexicanos y nativo del Estado; y no siendo originario de Sonora tener cuando menos cinco años de residencia efectiva inmediatamente anteriores al día de la elección.
 
-III. De rehabilitación, que incluyen acciones tendientes a corregir la invalidez física y mental.
+II. Ser ciudadano del Estado en pleno ejercicio de sus derechos políticos.
 
-### CAPÍTULO IV
+> <small>(REFORMADA, B.O. 23 DE DICIEMBRE DE 1972)</small>
 
-ASISTENCIA SOCIAL, PREVENCIÓN DE DISCAPACIDADES.
+III. Tener treinta años cumplidos, por lo menos, el día de la elección.
 
-###### ARTÍCULO 47.
+IV. No pertenecer al estado eclesiástico ni ser ministro de ningún culto.
 
-Las acciones de Salud Pública comprenden, entre otras, la prevención y control de enfermedades y accidentes, la promoción de la salud, la organización y vigilancia del ejercicio de las actividades profesionales, técnicas y auxiliares para la salud, así como la información relativa a las condiciones, recursos y servicios de salud de la entidad.
+> <small>(REFORMADA, B.O. 10 DE DICIEMBRE DE 1992)</small>
 
-### CAPÍTULO V. PRESTADORES DE SERVICIOS DE SALUD
+V. No haber sido Magistrado del Supremo Tribunal o del Tribunal de lo Contencioso Administrativo, Procurador General de Justicia, Secretario o Subsecretario, ni militar en servicio activo ni haber tenido mando de fuerzas dentro del Estado, en los seis meses inmediatamente anteriores al día de la elección.
 
-###### ARTÍCULO 48.
+VI. No haber figurado, directa o indirectamente, en alguna asonada, motín o cuartelazo.
 
-Son actividades básicas de asistencia social:
+> <small>(ADICIONADA, B.O. 3 DE ENERO DE 1983)</small>
 
-I. La atención a personas que, por sus carencias socioeconómicas o por problemas de discapacidad se vean impedidas para satisfacer sus requerimientos básicos de subsistencia y desarrollo;
+VII. No haber sido condenado por la Comisión de un delito intencional, aún cuando se haya cumplido la condena o extinguido la pena.
 
-II. La atención en establecimientos especializados a la infancia y adultos mayores en estado de abandono o desamparo y personas con discapacidad sin recursos;
+###### Artículo 71.
 
-III. La promoción del bienestar del adulto mayor y el desarrollo de acciones de preparación para la senectud;
+Las funciones de Gobernador son incompatibles con cualquier cargo o empleo de la Federación o del Estado.
 
-IV. La realización de investigaciones sobre las causas y efectos de los problemas prioritarios de asistencia social;
+> <small>(REFORMADO, B.O. 8 DE NOVIEMBRE DE 1993)</small>
 
-V. Promover la participación conciente (sic) y organizada de la población con carencias en el ámbito de la salud, en las acciones de asistencia y desarrollo social que se lleven a cabo para su beneficio;
+###### Artículo 72.
 
-VI. El apoyo a la educación y capacitación para el trabajo de personas con carencias socioeconómicas; y
+El Gobernador durará en su encargo seis años. Tomará posesión el día 13 de septiembre posterior a la elección, previa formal protesta ante el Congreso de guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos y la presente Constitución, así como las leyes que de ella emanen y cumplir leal y patrióticamente las obligaciones de su encargo.
 
-VII. La prestación de servicios funerarios a desamparados y abandonados.
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
-###### ARTÍCULO 49.
+###### Artículo 73.
 
-Para fomentar el desarrollo de programas públicos de asistencia social, el Gobierno del Estado, promoverá y canalizará los recursos y el apoyo técnico necesario.
+El Gobernador cuyo origen sea la elección popular, ordinaria o extraordinaria, en ningún caso y por ningún motivo podrá volver a ocupar ese cargo ni aún con carácter de interino, provisional, substituto o encargado del despacho.
 
-###### ARTÍCULO 50.
+Nunca podrá ser electo en el período inmediato:
 
-La infancia en estado de vulnerabilidad social tienen (sic) derecho a recibir los servicios asistenciales que necesiten en cualquier momento en establecimientos públicos dependientes del Estado al que sean remitidos para su atención, sin perjuicio de la intervención que corresponda a otras autoridades competentes.
+a). El Gobernador substituto Constitucional, o el designado para concluir el período en caso de falta absoluta del Constitucional, aún cuando tenga distinta denominación.
 
-###### ARTÍCULO 51.
+b). El Gobernador Interino, el Provisional o el ciudadano que, bajo cualquier denominación, supla las faltas temporales del Gobernador, siempre que desempeñe el cargo en los dos últimos años del período.
 
-Los integrantes del Sistema Estatal de Salud, coadyuvarán en la atención preferente e inmediata a infantes y adultos mayores sometidos a cualquier forma de maltrato que ponga en peligro su salud física y mental. Asimismo darán atención a quienes hayan sido sujetos pasivos en la comisión de delitos que atenten contra la integridad física o mental o el normal desarrollo psicosomático de los individuos.
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
-###### ARTÍCULO 52.
+###### Artículo 74.
 
-El Gobierno del Estado, a través del organismo descentralizado denominado Sistema Estatal para el Desarrollo Integral de la Familia y en coordinación con el Organismo Federal encargado de la asistencia social, tendrá entre sus objetivos la promoción de la asistencia social en el ámbito estatal, la prestación de servicios en ese campo y la realización de las demás acciones previstas en la Ley.
+En caso de falta absoluta del Gobernador, ocurrida en los dos primeros años del período respectivo, si el Congreso estuviere en sesiones, se constituirá inmediatamente en Colegio Electoral, y concurriendo cuando menos las dos terceras partes del número total de sus miembros, nombrará, en escrutinio secreto y por mayoría absoluta de votos, un Gobernador Interino, que tomará posesión de su cargo dentro del término de diez días posteriores a la fecha en que se haga la declaratoria correspondiente; el mismo Congreso expedirá dentro de los diez días siguientes al de la designación de Gobernador interino, la convocatoria para la elección del Gobernador que deba concluir el período respectivo; debiendo mediar entre la fecha de la convocatoria y la que señale para la verificación de las elecciones, un plazo no menor de seis meses ni mayor de ocho.
 
-Las atribuciones y funciones de dicho Organismo se regirán por las disposiciones legales que lo crearon, por las que le otorgue esta Ley y otras normas vigentes o que para tal efecto se emitan.
+Si el Congreso no estuviere en sesiones, la Diputación Permanente nombrará desde luego un Gobernador provisional y convocará a sesiones extraordinarias al Congreso para que éste, a su vez, designe al Gobernador interino y expida la convocatoria a elecciones en los términos del párrafo anterior.
 
-###### ARTÍCULO 53.
+Cuando la falta de Gobernador ocurriere en los cuatro últimos años del período respectivo, si el Congreso se encontrare en sesiones, designará al Gobernador substituto que deberá concluir el período; si el Congreso no estuviere reunido, la Diputación Permanente nombrará un Gobernador provisional y convocará inmediatamente al Congreso a sesiones extraordinarias para que se erija en Colegio Electoral y haga la designación del Gobernador substituto.
 
-El patrimonio de la beneficencia pública como organismo público descentralizado estará sujeto a la normatividad de la Secretaría de Salud del Gobierno Federal y se denominará Administración del Patrimonio de la Beneficencia Pública. Al respecto, corresponde a dicha administración, entre otras atribuciones, representar los intereses del patrimonio de la beneficencia pública y distribuir los recursos que a la misma se le destinen.
+El Gobernador provisional podrá ser electo por el Congreso como Gobernador substituto.
 
-###### ARTÍCULO 54.
+El ciudadano que hubiere sido nombrado Gobernador interino, en caso de falta absoluta del titular, ocurrida en los dos primeros años del período respectivo, no podrá ser designado en las elecciones que se celebren con ese motivo.
 
-El Gobierno del Estado y los Municipios promoverán la creación de establecimientos en los que se dé atención a personas con padecimientos mentales, a niñas y niños desprotegidos y adultos mayores desamparados.
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
-###### ARTÍCULO 55.
+###### Artículo 75.
 
-La Secretaría y el Organismo, de conformidad con la Ley específica de la materia, podrán autorizar la constitución de instituciones privadas cuyo objeto sea la prestación de servicios asistenciales.
+Si por algún motivo no hubiere podido hacerse la elección de Gobernador o publicarse la declaratoria respectiva para el día en que deba tener lugar la renovación, o el Gobernador electo no se presentare a desempeñar el cargo, cesará no obstante el saliente, supliendo inmediatamente la falta el Presidente del Supremo Tribunal de Justicia, y el Congreso si se hallare en funciones, nombrará Gobernador interino. En caso de que el Congreso esté en receso, la Diputación Permanente lo convocará inmediatamente para que haga la designación de Gobernador interino, procediéndose conforme a lo dispuesto en el artículo anterior.
 
-###### ARTÍCULO 56.
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
-Las reglas de constitución, operación, organización, liquidación y demás aspectos concernientes a las instituciones de asistencia privada, serán las que establece la Ley específica de Instituciones de Asistencia Privada.
+###### Artículo 76.
 
-###### ARTÍCULO 57.
+Si por cualquier motivo el Congreso no pudiere hacer el nombramiento a que se refieren los artículos 74 y 75, ni expedir la convocatoria a que se contrae el mismo artículo 74, o hubiere por alguna circunstancia acefalía de los Poderes Legislativo y Ejecutivo del Estado, el Presidente del Supremo Tribunal de Justicia se hará cargo del Poder Ejecutivo.
 
-Los servicios y acciones que presten y realicen las instituciones de asistencia privada se sujetarán a las disposiciones de esta Ley, a los Programas Nacional y Estatal de Salud y a las demás disposiciones legales aplicables.
+En el caso previsto en el párrafo anterior, el encargado del Poder Ejecutivo convocará inmediatamente a elecciones tanto de Gobernador como de diputados, las que se verificarán en un período de tiempo que en ningún caso excederá de tres meses y sólo dejará de hacerlo en lo que respecta a la de Gobernador cuando falten seis meses o menos para que se verifique la renovación de Poderes, conforme a las disposiciones relativas de esta Constitución.
 
-###### ARTÍCULO 58.
+> <small>(REFORMADO, B.O. 2 DE FEBRERO DE 1977)</small>
 
-Las autoridades sanitarias y las autoridades educativas del Estado, en el ámbito de sus respectivas competencias, colaborarán para proporcionar atención rehabilitatoria cuando así se requiera.
+###### Artículo 77.
 
-###### ARTÍCULO 59.
+En las ausencias o faltas temporales del Gobernador del Estado, se observarán las siguientes disposiciones:
 
-La Secretaría y el Organismo, en coordinación con otras instituciones públicas, colaborarán en las acciones pertinentes para que en todas las oficinas públicas y establecimientos de servicios, así como en los transportes colectivos, se disponga de espacios e instalaciones adecuadas que faciliten el acceso, permanencia y transporte de las personas con discapacidad.
+I. Podrá ausentarse hasta por treinta días, sin necesidad de dar aviso y sin perder su carácter de Gobernador.
 
-###### ARTÍCULO 60.
+II. Si la ausencia excede de treinta días, pero no de noventa, el Gobernador deberá dar aviso al Congreso o a la Diputación Permanente, en cuyo caso quedará encargado del Despacho el Secretario de Gobierno.
 
-La atención en materia de prevención de discapacidad y rehabilitación de personas con discapacidad, comprende:
+III. Si la ausencia o separación es mayor de noventa días, el Gobernador deberá recabar la licencia o permiso correspondiente del Congreso o de la Diputación Permanente, según el caso, quienes designarán a la persona que asumirá las funciones de Gobernador Interino o Provisional, para que supla durante el tiempo de la ausencia, en términos de las fracciones XVII del artículo 64 y V del artículo 66.
 
-I. La investigación de las causas de la discapacidad y de los factores que la condicionan;
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
-II. La promoción de la participación de la comunidad en la prevención y control de las causas condicionantes de la discapacidad;
+###### Artículo 78.
 
-III. La identificación temprana y la atención oportuna de procesos físicos, mentales o sociales que puedan causar discapacidad;
+El cargo de Gobernador del Estado sólo es renunciable por causa grave calificada por el Congreso, ante el que se presentará la renuncia.
 
-IV. La orientación educativa a la colectividad en general en materia de rehabilitación, y en particular, a las familias que cuenten con alguna persona con discapacidad, promoviendo al efecto la solidaridad social;
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
-V. La atención integral de los inválidos, incluyendo la adaptación de las prótesis, órtesis y ayudas funcionales que requieran;
+###### Artículo 79.
 
-VI. Promoción para adecuar facilidades urbanísticas y arquitectónicas a las necesidades de las personas con discapacidad; y
+Son facultades y obligaciones del Gobernador:
 
-VII. La promoción de la educación y la capacitación para el trabajo, así como la promoción del empleo de las personas en proceso de rehabilitación.
+I. Promulgar sin demora las leyes y decretos, y los acuerdos en su caso; ejecutarlos y hacer que se ejecuten; y formar en la parte administrativa y de conformidad con las disposiciones de la ley, los reglamentos necesarios para la exacta observancia de los mismos.
 
-### CAPÍTULO VI. USUARIOS DE LOS SERVICIOS DE SALUD Y PARTICIPACIÓN DE LA COMUNIDAD
+> <small>(REFORMADA, B.O. 30 DE ENERO DE 1984)</small>
 
-###### ARTÍCULO 61.
+II. Velar por la conservación del orden, tranquilidad y seguridad, así como promover e inducir en el Estado, el progreso Económico, social, político y cultural y, en general, el bienestar de la población en todos los ordenes, procurando que sea compartido y equilibrado entre centros urbanos y rurales, conforme a los principios de justicia y seguridad jurídica y a los planes y programas del Gobierno.
 
-Para los efectos de esta Ley, los servicios de salud, atendiendo a los prestadores de los mismos, se clasifican en:
+> <small>(ADICIONADA, B.O. 30 DE ENERO DE 1984)</small>
 
-I. Servicios públicos a la población en general;
+II Bis. En los términos de la Ley respectiva, conducirá la formulación, instrumentación, control y evaluación del Plan Estatal de Desarrollo y de los Programas de Gobierno, así como los procedimientos de participación y consulta popular, a que se refiere esta Constitución.
 
-II. Servicios a derechohabientes de la institución encargada de ofrecer servicios de seguridad social a los servidores públicos del Estado y de los municipios, o los que con sus propios recursos o por encargo del Ejecutivo del Estado presten las mismas instituciones a otros grupos de usuarios;
+III. Iniciar ante el Congreso las leyes y decretos que juzgue convenientes para el mejoramiento de la administración pública y progreso del Estado.
 
-III. Servicios sociales y privados sea cual fuere la forma en que se contraten; y
+IV. Hacer cumplir las resoluciones de los tribunales y prestar a éstos los medios que necesiten para el ejercicio expedito de sus funciones.
 
-IV. Otros que se presten de conformidad con lo que establezca el Gobierno del Estado.
+> <small>(REFORMADA, B.O. 22 DE DICIEMBRE DE 1983)</small>
 
-###### ARTÍCULO 62.
+V. Exigir de las autoridades que dependan del Ejecutivo del Estado, el cumplimiento estricto de las obligaciones que les imponen la Constitución Federal, la Estatal y las Leyes que de ellas emanen, aplicándoles las sanciones a que se hagan acreedores, en los términos que prevengan las leyes.
 
-Las cuotas de recuperación que, en su caso, se recauden por la prestación de servicios de salud, se ajustarán a lo que disponga la legislación fiscal federal y los convenios de coordinación que se celebren en la materia con el Ejecutivo Federal.
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 22 DE DICIEMBRE DE 1983)</small>
 
-Para la determinación de las cuotas de recuperación se tomará en cuenta el costo de los servicios y las condiciones socioeconómicas del usuario.
+VI. Imponer las sanciones administrativas que determinen las leyes y reglamentos.
 
-Las cuotas de recuperación se fundarán en principio de solidaridad social y guardarán relación con los ingresos de los usuarios, debiéndose eximir del cobro cuando el usuario carezca de recursos para cubrirlas o en las zonas de menor desarrollo económico y social.
+> <small>(REFORMADA, B.O. 17 DE SEPTIEMBRE DE 1987)</small>
 
-###### ARTÍCULO 63.
+VII. Presentar cada año ante el Congreso, durante la segunda quincena del mes de noviembre, los Proyectos de Presupuestos de Ingresos y Egresos del Estado, que deberán regir en el año fiscal inmediato siguiente; y, en la primera quincena del segundo período de sesiones ordinarias, la cuenta de gastos del año anterior.
 
-Son servicios a derechohabientes los prestados por la institución a que se refiere la fracción II del artículo 61 de esta Ley, a las personas que cotizan o a las que hubieren cotizado y a sus beneficiarios, los que con sus propios recursos o por encargo del Ejecutivo Estatal preste dicha Institución a otros grupos de usuarios.
+> <small>(REFORMADA, B.O. 24 DE SEPTIEMBRE DE 1969)</small>
 
-Estos servicios se regirán por lo establecido en las disposiciones legales que regulan la organización y funcionamiento de las instituciones prestadoras y por las contenidas en esta Ley, en lo que no se oponga a aquéllas.
+VIII. Asistir a rendir ante el Congreso, el informe a que se refiere el artículo 46 de esta Constitución.
 
-Los servicios, en los términos de esta Ley y sin perjuicio de lo que prevengan las leyes a las que se refiere el párrafo anterior, comprenderán la atención médica, la atención materno-infantil, la planificación familiar, la salud mental, la promoción de la formación de recursos humanos, la salud ocupacional, la prevención y control de enfermedades no transmisibles y accidentes.
+IX. Concurrir a la apertura de las sesiones extraordinarias que hubiere solicitado del Congreso, con objeto de explicar los motivos en que haya fundado la convocatoria.
 
-###### ARTÍCULO 64.
+X. Informar al Congreso por sí, por conducto del Secretario de Gobierno o de la persona que al efecto designe, sobre cualquier ramo de la administración, cuando el mismo Congreso lo solicite.
 
-Los servicios de salud que presten las entidades públicas estatales y empresas privadas a sus empleados y a los beneficiarios de los mismos, con recursos propios o mediante la contratación de seguros individuales o colectivos, se regirán por las convenciones entre prestadores y usuarios, sin perjuicio de los que establezcan las disposiciones de esta Ley y demás normas aplicables a las instituciones de salud respectivas.
+XI. Nombrar y remover a todos los Funcionarios y empleados dependientes del Ejecutivo, cuyo nombramiento o remoción no corresponda a otra Autoridad.
 
-###### ARTÍCULO 65.
+XII. Ejercitar todas las facultades que consigna el artículo 27 de la Constitución General, siempre que no estén reservadas al Gobierno Federal o concedidas a la autoridad municipal.
 
-Los trabajadores de los establecimientos estatales de salud podrán participar en la gestión de los mismos, de conformidad con las disposiciones generales aplicables, y podrán opinar y emitir sugerencias tendientes al mejoramiento de los servicios de salud.
+XIII. En caso de invasión o de conmoción interior, tomar, de acuerdo con el Congreso o la Diputación Permanente, las medidas extraordinarias que sean indispensables para mantener el orden. En el segundo caso pedirá que se convoque inmediatamente al Congreso a sesiones extraordinarias y desde luego dará cuenta a dicha Asamblea del empleo que haya hecho de tales facultades.
 
-###### ARTÍCULO 66.
+XIV. En caso de sublevación o de trastorno interior en el Estado, excitar, de acuerdo con el Congreso o de la Diputación Permanente, a los Poderes Federales a que ministren la protección debida, si los elementos de que dispone el Estado no fueren bastantes para restablecer el orden.
 
-El Gobierno del Estado y los municipios, podrán convenir con las instituciones federales de seguridad social, la prestación de servicios de salud para sus trabajadores.
+> <small>(REFORMADA, B.O. 18 DE JUNIO DE 1977)</small>
 
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2008)</small>
+XV. Auxiliar, a solicitud de sus Ayuntamientos, a los Municipios de la entidad a fin de mejorar la ejecución de obras, la prestación de servicios o cualquier otro propósito del que se derive un mejoramiento de la administración y fortalecimiento de la autonomía municipal.
 
-###### ARTÍCULO 67.
+> <small>(ADICIONADA, B.O. 30 DE ENERO DE 1984)</small>
 
-La Secretaría, el Organismo y la COPRISED, en el ámbito de sus competencias y en coordinación con las autoridades educativas competentes, vigilarán el ejercicio de los profesionales, técnicos y auxiliares de la salud, en la prestación de los servicios respectivos.
+XV Bis. Proponer al Congreso del Estado, con base a los estudios técnicos e históricos la definición de los límites entre dos o más Municipios.
 
-###### ARTÍCULO 68.
+> <small>(REFORMADA, B.O. 22 DE DICIEMBRE DE 1983)</small>
 
-La Secretaría y el Organismo coadyuvarán con las autoridades educativas competentes para la promoción y fomento de la constitución de colegios, asociaciones y organizaciones de profesionales, técnicos y auxiliares de la salud, y estimulará su participación en el Sistema Estatal de Salud como instancias éticas del ejercicio de las profesiones, promotoras de la superación permanente de sus miembros, así como consultores de las autoridades sanitarias, cuando éstas lo requieran.
+XVI. Celebrar convenios con el Ejecutivo Federal, en los términos de ley, de los que se deriven la asunción por parte del Estado de funciones, la ejecución y operación de obras y la prestación de servicios públicos del Gobierno Federal, cuando el desarrollo económico y social lo hagan necesario.
 
-### CAPÍTULO VII. ATENCIÓN MATERNO-INFANTIL
+Asimismo, podrá celebrar convenios con los Ayuntamientos de la entidad, a efecto de que éstos asuman la prestación de los servicios o la atención de las funciones a las que se refiere el párrafo anterior, o bien, la asunción de funciones, la ejecución y operación de obras y la prestación de servicios públicos del Gobierno Estatal cuando el desarrollo económico y social lo hagan necesario.
 
-###### ARTÍCULO 69.
+XVII. Declarar la utilidad pública y decretar la expropiación, de acuerdo con lo prevenido en el artículo 27 de la Constitución General, ajustando sus procedimientos a las leyes correspondientes.
 
-Los usuarios tendrán derecho a la prestación de salud integral, oportuna, de calidad y a recibir atención profesional y ética, así como un trato respetuoso y digno de los profesionales, técnicos y auxiliares.
+XVIII. Formar y aprobar, en su caso, el Reglamento interior de cada una de sus dependencias.
 
-###### ARTÍCULO 70.
+XIX. Representar a la Hacienda Pública, pudiendo, en los casos que lo estime conveniente, delegar esa representación.
 
-Los usuarios deberán ajustarse a las reglamentaciones internas de las instituciones prestadoras de servicios de salud, y dispensar cuidado y diligencia en el uso y conservación de los materiales y equipos médicos que se pongan a su disposición.
+> <small>(ADICIONADA [N. DE E. REFORMADA], B.O. 12 DE DICIEMBRE DE 1970)</small>
 
-###### ARTÍCULO 71.
+XX. Ejercer el mando supremo de las fuerzas del Estado, y movilizarlas según las necesidades públicas; así como disponer de la policía del municipio donde resida habitual o transitoriamente, y nombrar y remover, en los términos que establezca la ley reglamentaria, a los jefes y oficiales superiores de la policía urbana de los Municipios del Estado.
 
-La Secretaría y el Organismo establecerán los procedimientos para regular las modalidades de acceso de la población a los servicios públicos de salud.
+XXI. Convocar al Congreso a sesiones extraordinarias por conducto de la Diputación Permanente, expresando el objeto de ellas.
 
-###### ARTÍCULO 72.
+XXII. Hacer observaciones por una sola vez en el improrrogable término de diez días útiles, salvo el caso a que se refiere el artículo 59, a las leyes y decretos aprobados por el Congreso, y promulgarlos y hacerlos ejecutar desde luego, si el propio Congreso, después de haberlos reconsiderado, los ratifica.
 
-Las autoridades sanitarias del Estado y las propias instituciones de salud establecerán procedimientos de orientación y asesoría a los usuarios sobre el uso de los servicios de salud que requieran, así como mecanismos para que presenten sus quejas, reclamaciones y sugerencias, respecto de la prestación de los servicios de salud y en relación con la falta de probidad, en su caso, de los servidores públicos.
+XXIII. Cuidar de que los fondos públicos, en todo caso, estén bien asegurados y de que su recaudación y distribución se hagan con arreglo a la Ley.
 
-###### ARTÍCULO 73.
+> <small>(REFORMADA, B.O. 10 DE DICIEMBRE DE 1992)</small>
 
-Las personas o instituciones públicas o privadas que tengan conocimiento de accidentes o que alguna persona requiera de la prestación urgente de servicios de salud, cuidarán, por los medios a su alcance, que los mismos sean trasladados a los establecimientos de salud más cercanos en los que puedan recibir atención inmediata, sin perjuicio de su posterior remisión a otras instituciones.
+XXIV. Nombrar y remover libremente a los Secretarios y Subsecretarios, Procurador General de Justicia, y hacer la designación de los Magistrados del Supremo Tribunal de Justicia y de lo Contencioso Administrativo, sometiéndolo a la aprobación del Congreso.
 
-###### ARTÍCULO 74.
+XXV. Nombrar a los oficiales del Registro Civil y fijar la demarcación en que deban ejercer sus funciones.
 
-De conformidad con lo que señalen las disposiciones generales aplicables, los Agentes del Ministerio Público que reciban informes o denuncias sobre personas que requieran de servicios de salud de urgencia, deberán disponer que las mismas sean trasladadas de inmediato al establecimiento de salud más cercano.
+XXVI. Presentar ante el Congreso, al terminar su período constitucional, una memoria sobre el estado de los negocios públicos, expresando cuáles sean las deficiencias que hubiere observado en la Administración y qué medidas en su concepto deben aplicarse para subsanarlas.
 
-###### ARTÍCULO 75.
+XXVII. Fomentar, por todos los medios posibles, la educación popular y procurar el adelanto social, favoreciendo el mejoramiento moral, cívico y material de la colectividad.
 
-La participación de la comunidad en los programas de protección de la salud y en la prestación de los servicios respectivos, tiene por objeto fortalecer la estructura y funcionamiento de los sistemas de salud e incrementar el mejoramiento del nivel de salud de la población del Estado.
+XXVIII. Organizar y disciplinar la Guardia Nacional y las demás fuerzas del Estado y ejercer, respecto de una y otras, el mando conforme a las atribuciones que le conceden las Constituciones General y Local.
 
-###### ARTÍCULO 76.
+XXIX. Visitar a los municipios del Estado, cuando lo estime conveniente, proveyendo lo necesario en el orden administrativo y dando cuenta al Congreso o al Supremo Tribunal de Justicia de las faltas que observare y cuyo remedio corresponda a los Poderes Legislativo y Judicial.
 
-La comunidad podrá participar en los servicios de salud de los sectores público, social y privado a través de las siguientes acciones:
+XXX. Dictar las medidas urgentes encaminadas a la conservación y mejoramiento de la salubridad pública general del Estado.
 
-I. Promoción de hábitos de conducta que contribuyan a proteger la salud o a solucionar problemas de salud, y la intervención en programas de promoción y mejoramiento de la salud y de prevención de enfermedades y accidentes;
+XXXI. Formar la estadística del Estado.
 
-II. Colaboración en la prevención o tratamiento de problemas ambientales vinculados a la salud;
+XXXII. Dictar las disposiciones necesarias para la instalación o funcionamiento de la Junta Central de Conciliación y Arbitraje, a que se refiere la fracción XX del artículo 123 de la Constitución General de la República.
 
-III. Incorporación, como auxiliares voluntarios, en la realización de tareas simples de atención médica y asistencia social, y la participación en determinadas actividades de operación de los servicios de salud, bajo la dirección y control de las autoridades correspondientes;
+XXXIII. Nombrar al representante que le corresponde en la Junta de Conciliación y Arbitraje, a que se refiere la fracción XX del artículo 123 de la Constitución General.
 
-IV. Notificación de la existencia de personas que requieran de servicios de salud, cuando éstas se encuentren impedidas de solicitar auxilio por sí mismas;
+XXXIV. Fomentar la organización de instituciones de utilidad social para infundir o inculcar la previsión popular.
 
-V. Formulación de sugerencias para mejorar los servicios de salud;
+XXXV. (DEROGADA, B.O. 12 DE NOVIEMBRE DE 1992)
 
-VI. Información a las autoridades sanitarias acerca de efectos secundarios y reacciones adversas por el uso de medicamentos y otros insumos para la salud o por el uso, desvío o disposición final de sustancias tóxicas o peligrosas y sus desechos;
+XXXVI. Turnar al Procurador General de Justicia los asuntos que deban ventilarse ante los tribunales, para que ejercite las atribuciones de su ministerio. Sin embargo, el Ejecutivo podrá nombrar a algún abogado que lo represente en determinado asunto cuando así lo crea conveniente.
 
-VII. Información a las autoridades competentes de las irregularidades o deficiencias que se adviertan en la prestación de servicios de salud; y
+> <small>(ADICIONADA, B.O. 9 DE ABRIL DE 1984)</small>
 
-VIII. Otras actividades que coadyuven a la protección de la salud.
+XXXVI Bis. Plantear al Congreso del Estado, los casos de servidores públicos que ameriten la iniciación de un juicio político por las faltas u omisiones graves que redunden en perjuicio de los intereses públicos fundamentales y de su buen despacho.
 
-###### ARTÍCULO 77.
+XXXVII. Cuidar de que las elecciones se efectúen en el tiempo señalado por las leyes relativas.
 
-La Secretaría, el Organismo y demás instituciones de salud estatales, promoverán y apoyarán la constitución de grupos, asociaciones y demás instituciones que tengan por objeto participar organizadamente en los programas de promoción y mejoramiento de la salud individual o colectiva, así como en los de prevención de enfermedades, accidentes, discapacidad, maltrato infantil, violencia intrafamiliar y rehabilitación de las mismas.
+XXXVIII. Organizar el sistema penal sobre la base de trabajo como medio de regeneración.
 
-###### ARTÍCULO 78.
+XXXIX. Conceder, conforme a las Leyes, indulto necesario a los reos sentenciados por delitos de la competencia de los Tribunales del Estado.
 
-Para los efectos del artículo anterior, en las cabeceras municipales se constituirán Comités de Salud que podrán ser integrados por núcleos de población urbana, rural o indígena, los cuales tendrán como objetivo la participación en el mejoramiento y vigilancia de los servicios de salud de sus localidades y promover mejores condiciones ambientales que favorezcan la salud de la población, así como la organización de la comunidad para obtener su colaboración en la construcción de obras e infraestructura básica y social y mantenimiento de unidades, conforme a las NOMs que al efecto emita la Secretaría de Salud del Gobierno Federal.
+XL. Las demás que le asignen las leyes, ya sean federales o del Estado.
 
-###### ARTÍCULO 79.
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
-Los Ayuntamientos, con sujeción a las disposiciones legales aplicables en coordinación con las instituciones de salud y las autoridades educativas competentes, tendrán la responsabilidad de organizar los comités a que se refiere el artículo anterior, y de que cumplan los fines para los que sean creados.
+###### Artículo 80.
 
-La Secretaría y el Organismo adiestrarán y capacitarán a los comités municipales, de conformidad con los programas establecidos por los mismos.
+Le está prohibido al Gobernador:
 
-###### ARTÍCULO 80.
+I. Mandar inmediata y personalmente en campaña la Guardia Nacional y demás fuerzas del Estado, sin haber obtenido para ello permiso del Congreso, o en su receso, de la Diputación Permanente.
 
-Se concede acción popular para denunciar por escrito ante las autoridades sanitarias del Estado, todo hecho, acto u omisión que represente un riesgo o provoque un daño a la salud de la población.
+> <small>(REFORMADA, B.O. 22 DE ENERO DE 1977)</small>
 
-Hecha la denuncia, la autoridad sanitaria correspondiente se abocará al conocimiento de los hechos conforme a las disposiciones de esta Ley y demás ordenamientos aplicables y mediante los procedimientos, en lo conducente, del control sanitario establecido en el Título Decimoquinto de la presente Ley.
+II. Recomendar asuntos a las autoridades judiciales y a las autoridades del Tribunal de lo Contencioso Administrativo; contrariar en cualquier forma las resoluciones dictadas por éstas, y disponer de los reos durante los procesos.
 
-### CAPÍTULO VIII. SERVICIOS DE PLANIFICACIÓN FAMILIAR
+III. Oponerse y hacer observaciones a los acuerdos del Congreso en que se le pidan informes sobre asuntos públicos.
 
-###### ARTÍCULO 81.
+IV. Impedir que las elecciones se verifiquen en los días señalados por la ley.
 
-La atención materno-infantil tiene carácter prioritario y comprende las siguientes acciones:
+V. Impedir, por ningún motivo, ni directa ni indirectamente, el libre ejercicio de las funciones del Congreso.
 
-I. La atención de la mujer, durante el embarazo, el parto y el puerperio;
+VI. Distraer los caudales públicos del Estado de los objetos a que están destinados por las leyes.
 
-II. La atención de la niña, y el niño, así como la vigilancia de su crecimiento y desarrollo, incluyendo la promoción de la vacunación oportuna; y (sic)
+VII. Ordenar la aprehensión o la detención de persona alguna, o privarla de su libertad, excepto en los casos en que la ley lo autorice para hacerlo. En tales casos, deberá ponerla inmediatamente a disposición de la autoridad competente.
 
-> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2009)</small>
+VIII. Ocupar la propiedad particular fuera de los casos prescritos por las leyes.
 
-III. La vigilancia del crecimiento y desarrollo de los recién nacidos hasta los dos años de edad, así como detectar de manera temprana los problemas de neurodesarrollo y patología que pudieran tener, para lo cual se contará con una Cartilla Estatal de Neurodesarrollo, la cual se entregará de manera gratuita por las instituciones públicas y privadas del sector salud; y
+IX. Imponer contribución alguna, salvo el caso de que esté legalmente facultado para ello.
 
-> <small>(ADICIONADA, P.O. 4 DE OCTUBRE DE 2009)</small>
+X. Disponer en ningún caso, bajo pretexto alguno, de las rentas municipales.
 
-IV. La promoción de la integración y el bienestar familiar.
+XI. Disponer sin facultades legales y fuera de los casos que la ley lo permita, de los bienes pertenecientes al Estado.
 
-###### ARTÍCULO 82.
+XII. Disponer en ningún caso, bajo ningún pretexto, de los bienes considerados como propios del municipio.
 
-En los servicios de salud se promoverá la organización pública y privada para realizar acciones de difusión y atención médica al grupo materno-infantil, y para la integración de Comités de Prevención de la Mortalidad Materna e Infantil, a efecto de conocer, sistematizar y evaluar el problema y adoptar las medidas conducentes.
+XIII. Conceder licencias para juegos de azar.
 
-###### ARTÍCULO 83.
+> <small>(REFORMADO, B.O. 22 DE DICIEMBRE DE 1983)</small>
 
-La protección de la salud física y mental de la infancia es una responsabilidad que comparten los padres, tutores, quienes ejerzan la patria potestad sobre ellos, el Estado y la sociedad en general.
+### CAPITULO IV.
 
-###### ARTÍCULO 84.
+Declaración de Desaparición de Ayuntamientos y Suspensión o Revocación del Mandato de sus Miembros.
 
-En la organización y operación de los servicios de salud destinados a la atención materno-infantil, la Secretaría y el Organismo establecerán:
+> <small>(REFORMADO, B.O. 30 DE ENERO DE 1984)</small>
 
-I. Procedimientos que permitan la participación activa de la familia en la prevención y atención oportuna de los padecimientos de los usuarios;
+###### Artículo 81.
 
-II. Acciones de orientación y vigilancia institucional, fomento a la lactancia materna y, en su caso, la ayuda alimentaria tendiente a mejorar el estado nutricional del grupo materno-infantil; y
+Para el despacho de los asuntos de orden administrativo del Poder Ejecutivo, la administración pública será directa y paraestatal, conforme a la Ley Orgánica que expida el Congreso del Estado, la cual definirá las facultades que serán competencia de la administración directa y definirá las bases generales de creación, operación, vigilancia y supresión del sector paraestatal.
 
-III. Acciones para controlar las enfermedades prevenibles por vacunación, los procesos diarreicos y las infecciones respiratorias agudas de las y los menores de cinco años.
+> <small>(REFORMADO, B.O. 10 DE DICIEMBRE DE 1992)</small>
 
-###### ARTÍCULO 85.
+Habrá un Secretario de Gobierno, quien tendrá las facultades y obligaciones que le confiere esta Constitución y demás leyes. Además, habrá los Secretarios y demás órganos y unidades que la administración requiera, quienes tendrán las atribuciones que les señale la Ley Orgánica.
 
-Las autoridades sanitarias educativas y laborales del Estado, en sus respectivos ámbitos de competencia, apoyarán y fomentarán:
+> <small>(REFORMADO, B.O. 11 DE JUNIO DE 1984)</small>
 
-I. Los programas destinados a promover la paternidad y la maternidad responsable, y la atención materno–infantil;
+Los Subsecretarios de Gobierno auxiliarán en sus funciones y suplirán en sus ausencias temporales al Secretario de Gobierno y tendrán las facultades y obligaciones que les señale la Ley Orgánica del Poder Ejecutivo.
 
-II. Las actividades recreativas, de esparcimiento y culturales destinadas a fortalecer el núcleo familiar y promover la salud física y mental de sus integrantes;
+> <small>(REFORMADO, B.O. 10 DE DICIEMBRE DE 1992)</small>
 
-III. La atención al sector productivo mediante programas de salud ocupacional;
+Artículo 81 A. Para ser Secretario de Gobierno se deben reunir los mismos requisitos que para ser Gobernador del Estado. Para ser Secretario de Despacho, se requiere ser mexicano por nacimiento, mayor de treinta años de edad y estar en ejercicio de sus derechos.
 
-IV. Los programas de prevención del maltrato infantil y de la violencia intrafamiliar;
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
-V. La vigilancia de actividades ocupacionales que puedan poner en peligro la salud física y mental de la infancia y de las mujeres embarazadas;
+###### Artículo 82.
 
-VI. Acciones relacionadas con la educación básica, alfabetización de adultos, acceso al agua potable y medios sanitarios de eliminación de excretas; y
+Todas las leyes, decretos, reglamentos, circulares, acuerdos y órdenes que suscriba el Gobernador deberán en todo caso ser autorizados con la firma del Secretario de Gobierno y comunicados por éste. Los documentos que el Gobernador suscriba en ejercicio de sus funciones constitucionales, así como los despachos que expida, deberán ir refrendados por el Secretario de Gobierno y sin este requisito no surtirán efectos legales.
 
-VII. Las demás que coadyuven a la protección de la salud materno-infantil.
+Articulo 82 A. (DEROGADO, B.O. 18 DE JUNIO DE 1977)
 
-###### ARTÍCULO 86.
+#### SECCION II.
 
-En materia de higiene escolar, corresponde a la Secretaría y el Organismo, conforme a las NOMs, proteger la salud del educando y de la comunidad escolar de los centros educativos dependientes del Estado. Las autoridades educativas y sanitarias estatales se coordinarán para la aplicación de las mismas.
+Hacienda del Estado.
 
-La prestación de servicios de salud a los escolares se efectuará de conformidad con las bases de coordinación que se establezcan entre las autoridades sanitarias estatales y educativas competentes.
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
-###### ARTÍCULO 87.
+###### Artículo 83.
 
-La Secretaría y el Organismo así como las autoridades educativas estatales promoverán el cuidado de la salud de los alumnos, durante el ciclo escolar.
+La Hacienda del Estado se constituirá por las contribuciones que decrete el Congreso y los demás ingresos que determinen las leyes fiscales; los bienes que correspondan al Estado como persona civil; los edificios públicos del mismo; los créditos que tenga a su favor; sus propias rentas, y las herencias vacantes.
+
+###### Artículo 84.
+
+Los ingresos no tendrán otro objeto que cubrir los gastos decretados por el Congreso, y las contribuciones se establecerán sólo en los casos estrictamente necesarios para que, unidas a las demás fuentes de ingresos, cubran dichos gastos.
+
+> <small>(REFORMADO, B.O. 10 DE DICIEMBRE DE 1992)</small>
+
+###### Artículo 85.
+
+El Estado, para la recaudación de las contribuciones y para efectuar el pago de los gastos, se deberá sujetar estrictamente a las Leyes de Ingresos y a los presupuestos de Egresos del Estado, y demás Leyes relativas.
+
+> <small>(REFORMADO, B.O. 10 DE DICIEMBRE DE 1992)</small>
+
+###### Artículo 86.
+
+Toda erogación o ejercicio presupuestario, se hará con cargo a las partidas presupuestales correspondientes, en la forma que establezca la Ley reglamentaria respectiva.
+
+###### Artículo 87.
+
+Sólo los empleados de Hacienda manejarán caudales del Estado.
+
+> <small>(REFORMADO, B.O. 10 DE DICIEMBRE DE 1992)</small>
 
 ### CAPÍTULO IX. SALUD MENTAL
 
-###### ARTÍCULO 88.
+###### Artículo 88.
 
-La planificación familiar tiene carácter prioritario; en sus actividades se debe incluir la información y orientación educativa para adolescentes y jóvenes.
+Los funcionarios y empleados de Hacienda, que tengan manejo de caudales públicos, otorgarán previamente, ante el Ejecutivo, fianza suficiente para garantizarlo, de acuerdo con la Ley respectiva.
 
-Asimismo, para disminuir el riesgo reproductivo, se debe informar a la mujer y al hombre sobre la inconveniencia del embarazo antes de los veinte años o después de los treinta y cinco, así como la conveniencia de espaciar los embarazos y reducir su número; todo ello mediante una correcta información anticonceptiva, la cual debe ser oportuna, eficaz y completa a la pareja.
+#### SECCION III.
 
-Los servicios que se presten en la materia constituyen un medio para el ejercicio del derecho de toda persona a decidir de manera libre, responsable e informada sobre el número y espaciamiento de los hijos, con pleno respeto a su dignidad.
+Instrucción Pública.
 
-Quienes practiquen esterilización sin la voluntad del paciente o ejerzan presión para que éste la admita, serán sancionados conforme a las disposiciones de la Ley General de Salud, independientemente de la responsabilidad penal en que incurran.
+> <small>(REFORMADO, B.O. 24 DE JUNIO DE 1942)</small>
 
-###### ARTÍCULO 89.
+###### Artículo 89.
 
-Los servicios de planificación familiar comprenden:
+La Educación Pública, quedará bajo la dirección del Ejecutivo del Estado y sujeta a las leyes reglamentarias respectivas.
 
-I. La promoción del desarrollo de programas de comunicación educativa en materia de servicios de planificación familiar y educación sexual, con perspectiva de género, con base en los contenidos y estrategias que establezcan los Consejos Nacional y Estatal de Población;
+> <small>(REFORMADO, B.O. 24 DE JUNIO DE 1942)</small>
 
-II. La atención y vigilancia de los aceptantes y usuarios de servicios de planificación familiar;
+###### Artículo 90.
 
-III. La asesoría para la prestación de servicios de planificación familiar a cargo de los sectores público, social y privado así como la supervisión y evaluación en su ejecución, de acuerdo con las políticas establecidas por el Consejo Nacional de Población;
+La Educación en Sonora, se ajustará a los principios y términos que se consignan en la Constitución General de la República.
 
-IV. El apoyo y fomento de la investigación en materia de anticoncepción, infertilidad humana, planificación familiar y biología de la reproducción humana;
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
-V. El establecimiento de mecanismos idóneos para la determinación, elaboración, adquisición, almacenamiento y distribución de medicamentos y otros insumos destinados a los servicios de planificación familiar; y
+###### Artículo 91.
 
-VI. La recopilación, sistematización y actualización de la información necesaria para el adecuado seguimiento de las actividades desarrolladas.
-
-###### ARTÍCULO 90.
-
-Los Comités de Salud a que se refiere el artículo 82 de esta Ley, promoverán que en las poblaciones y comunidades semiurbanas y rurales del Estado, se impartan pláticas de orientación, con perspectiva de género, en materia de planificación familiar y educación sexual. Las instituciones de salud y educativas brindarán al efecto el apoyo necesario.
-
-###### ARTÍCULO 91.
-
-La Secretaría y el Organismo coadyuvarán con la Secretaría de Salud del Gobierno Federal, en las acciones del Programa Nacional de Planificación Familiar que formule el Consejo Nacional de Población y del Programa de Planificación Familiar del Sector Salud, y cuidará que se incorporen en los programas estatales de salud.
+Toda la educación que imparta el Estado será gratuita.
 
 ### CAPÍTULO I. DE LOS PROFESIONALES, TÉCNICOS Y AUXILIARES
 
-###### ARTÍCULO 92.
+###### Artículo 92.
 
-La prevención de las enfermedades mentales tiene carácter prioritario. Se basará en el conocimiento de los factores que afectan la salud mental, las causas de las alteraciones de la conducta, los métodos de prevención y control.
+(DEROGADO, B.O. 12 DE NOVIEMBRE DE 1992)
 
-Se prestará especial atención a la prevención de la violencia intrafamiliar como uno de los factores que inciden en los desequilibrios de la salud mental.
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
-###### ARTÍCULO 93.
+###### Artículo 93.
 
-Para la promoción de la salud mental, la Secretaría y el Organismo así como las instituciones de salud en coordinación con las autoridades estatales competentes en cada materia, fomentarán y apoyarán:
+La educación primaria será obligatoria para todos los niños comprendidos en edad escolar y para todos los adultos analfabetos menores de cuarenta años. Para aquéllos que por el lugar de su residencia no puedan concurrir a las escuelas elementales, el Estado y los municipios crearán los establecimientos de educación rudimentaria, la que también será obligatoria.
 
-I. El desarrollo de actividades educativas, socioculturales y recreativas que contribuyan a la salud mental, preferentemente de la infancia y de la juventud;
+###### Artículo 94.
 
-II. La difusión de las orientaciones para la promoción de la salud mental;
+El Estado tendrá la obligación de establecer o hacer que se establezcan, de acuerdo con la parte relativa, fracción XII del Artículo 123 de la Constitución General, escuelas permanentes en todos los lugares cuya población escolar llegue a veinte niños.
 
-III. La realización de programas para la prevención del uso de substancias psicotrópicas, estupefacientes, inhalantes y otras substancias que puedan causar alteraciones mentales o dependencias; y
+> <small>(ADICIONADO, B.O. 5 DE MAYO DE 1954)</small>
 
-IV. Las demás acciones que directa o indirectamente contribuyan al fomento de la salud mental de la población.
+Artículo 94 A. La enseñanza normal será protegida preferentemente por el Gobierno del Estado, como un medio de cumplir con la obligación ineludible que tienen tanto él como el municipio, de impartir la enseñanza primaria obligatoria.
 
-###### ARTÍCULO 94.
+Es obligación del Gobierno del Estado fomentar y difundir la Enseñanza Universitaria.
 
-La atención de las enfermedades mentales comprende:
+#### SECCION IV.
 
-I. La atención de personas con padecimientos mentales, la rehabilitación psiquiátrica de enfermos mentales crónicos, deficientes mentales, alcohólicos y personas que consuman habitualmente estupefacientes o substancias psicotrópicas; y
+Ministerio Público.
 
-II. La organización, operación y supervisión de instituciones dedicadas al estudio, tratamiento y rehabilitación de enfermos mentales.
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1991)</small>
 
-###### ARTÍCULO 95.
+###### Artículo 95.
 
-Los padres, tutores o quienes ejerzan la patria potestad de menores, los responsables de su guarda, las autoridades educativas y cualquier persona que esté en contacto con los mismos, procurarán la atención inmediata de los menores que presenten alteraciones de conducta que permitan suponer la existencia de enfermedades mentales.
+La persecución de los delitos incumbe al Ministerio Público y a la Policía Judicial, la cual estará bajo la autoridad y mando inmediato de aquél.
 
-A tal efecto, podrán obtener orientación y asesoramiento en las instituciones públicas dedicadas a la atención de enfermos mentales.
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 30 DE DICIEMBRE DE 1991)</small>
 
-###### ARTÍCULO 96.
+###### Artículo 96.
 
-El área administrativa que el Ejecutivo Estatal determine, prestará atención a los enfermos mentales que se encuentren en los reclusorios del Estado o en otras instituciones estatales no especializadas en salud mental, conforme a las NOMs que establezca la Secretaría de Salud del Gobierno Federal.
+El Ministerio Público, como Institución de buena fe y en su carácter de representante de los intereses de la sociedad, tendrá las siguientes atribuciones:
 
-Para tales efectos, dicha estructura administrativa establecerá la coordinación necesaria entre las autoridades sanitarias, judiciales, administrativas y otras, según corresponda.
+> <small>(REFORMADA, B.O. 30 DE DICIEMBRE DE 1991)</small>
+
+I. Perseguir los delitos del orden común cometidos en el territorio del Estado, con estricto respeto a las garantías individuales que precisa la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(REFORMADA, B.O. 30 DE DICIEMBRE DE 1991)</small>
+
+II. Velar por la legalidad, en la esfera de su competencia, como uno de los principios rectores de la convivencia social, y promover la pronta, completa e imparcial procuración e impartición de justicia.
+
+> <small>(REFORMADA, B.O. 30 DE DICIEMBRE DE 1991)</small>
+
+III. Proteger los intereses de los menores e incapaces, así como los individuales y sociales, en los términos que determinen las leyes.
+
+> <small>(REFORMADA, B.O. 30 DE DICIEMBRE DE 1991)</small>
+
+IV. Cuidar la correcta aplicación de las medidas de política criminal, en la esfera de su competencia.
+
+> <small>(REFORMADA, B.O. 5 DE MAYO DE 1954)</small>
+
+V. Defender a la Hacienda Pública del Estado en juicio, siempre que el Ejecutivo no provea a la procuración conforme a la Ley.
+
+> <small>(REFORMADA, B.O. 5 DE MAYO DE 1954)</small>
+
+VI. Cuidar de que se lleven conforme a las leyes los protocolos y libros de los notarios, los libros del Registro Público de la Propiedad y los del Registro Civil.
+
+> <small>(REFORMADA, B.O. 5 DE MAYO DE 1954)</small>
+
+VII. Intervenir en las juntas de vigilancia de cárceles para exigir que se cumpla con los reglamentos respectivos.
+
+> <small>(REFORMADA, B.O. 5 DE MAYO DE 1954)</small>
+
+VIII. Informar al Supremo Tribunal sobre los defectos que encontrare en las leyes, así como de las irregularidades o deficiencias que observare en las autoridades encargadas de aplicarlas.
+
+> <small>(REFORMADA, B.O. 5 DE MAYO DE 1954)</small>
+
+IX. Rendir a los Poderes del Estado los informes que le pidan sobre asuntos relativos a la institución.
+
+> <small>(REFORMADA, B.O. 5 DE MAYO DE 1954)</small>
+
+X. Las demás que le señalan las leyes, tanto federales como del Estado.
+
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1991)</small>
 
 ### CAPÍTULO II. SERVICIO SOCIAL DE PASANTES Y PROFESIONALES
 
-## TÍTULO QUINTO. RECURSOS HUMANOS PARA LOS SERVICIOS DE SALUD
+## TITULO CUARTO.
+
+División de Poderes.
 
 ### CAPÍTULO III. FORMACIÓN, CAPACITACIÓN Y ACTUALIZACIÓN DEL PERSONAL
 
-###### ARTÍCULO 97.
+###### Artículo 97.
 
-El ejercicio de las profesiones, de las actividades técnicas, auxiliares y de las especialidades de salud en el Estado, estará sujeto a:
+La Ley organizará al Ministerio Público, debiendo estar presidida la Institución por un Procurador General de Justicia del Estado, quien dependerá directamente del Gobernador del Estado.
 
-I. La Ley de Profesiones del Estado;
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
-II. Las bases de coordinación que, conforme a la ley, se definan entre las autoridades educativas y las autoridades sanitarias del Estado;
+###### Artículo 98.
 
-III. Los convenios que al efecto se suscriban entre el Gobierno del Estado y la Federación; y
+El Procurador General de Justicia será nombrado por el Ejecutivo en los términos de la fracción XXIV del Artículo 79 de esta Constitución.
 
-IV. Las disposiciones de esta Ley y demás disposiciones legales aplicables.
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
-###### ARTÍCULO 98.
+###### Artículo 99.
 
-Para el ejercicio de actividades profesionales en el campo de la medicina, odontología, veterinaria, biología, bacteriología, enfermería, trabajo social, química, psicología, psiquiatría, ingeniería sanitaria, nutrición, dietología, patología y sus ramas, y las demás que establezcan otras disposiciones legales aplicables, se requiere que los títulos profesionales o certificados de especialización hayan sido legalmente expedidos y registrados por las autoridades educativas competentes.
+Para ser Procurador General de Justicia se necesitan los mismos requisitos que para ser Magistrado del Supremo Tribunal.
 
-Para el ejercicio de actividades técnicas y auxiliares que requieran conocimientos específicos en el campo de la medicina, odontología, veterinaria, enfermería, laboratorio clínico, radiología, terapia física, terapia ocupacional, terapia de lenguaje, prótesis y órtesis, trabajo social, nutrición, citotecnología, patología, bioestadística, codificación clínica, bioterios, farmacia, saneamiento, histopatología, embalsamamiento y sus ramas, se requiere que los diplomas correspondientes hayan sido expedidos y registrados por las autoridades educativas competentes.
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
-###### ARTÍCULO 99.
+###### Artículo 100.
 
-Las autoridades educativas del Estado, proporcionarán a la Secretaría y al Organismo la relación de títulos, diplomas y certificados del área de la salud, que hayan registrado y la de cédulas profesionales expedidas, así como la información complementaria sobre la materia que sea necesaria.
+El Procurador General rendirá la protesta de la Ley ante el Gobernador del Estado.
 
-En el caso de que exista convenio entre el Gobierno del Estado y el Ejecutivo Federal en materia de registro profesional y expedición de cédulas profesionales, el Gobierno del Estado cuidará que se proporcione la información a que se refiere el párrafo anterior.
-
-###### ARTÍCULO 100.
-
-Quienes ejerzan las actividades profesionales, técnicas y auxiliares y las especialidades a que se refiere este Capítulo, deberán poner a la vista del público un anuncio que indique la institución que les expidió el título; diploma o certificado y, en su caso, el número de su correspondiente cédula profesional. Iguales menciones, deberán consignarse en los documentos y papelería que utilicen en el ejercicio de tales actividades y en la publicidad que realicen al respecto.
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1991)</small>
 
 ### CAPÍTULO ÚNICO. ACCIONES Y BASES PARA LA INVESTIGACIÓN
 
-###### ARTÍCULO 101.
+###### Artículo 101.
 
-Todos los pasantes de las profesiones para la salud y sus ramas deberán prestar el servicio social en los términos de las disposiciones legales aplicables en materia educativa y de esta Ley.
+La Policía Judicial del Estado, como auxiliar directo del Ministerio Público y conforme a las instrucciones que se le dicten, desarrollará las diligencias que deban practicarse durante la averiguación previa y ejecutará las órdenes de aprehensión, los cateos y otros mandamientos que emita la autoridad judicial.
 
-###### ARTÍCULO 102.
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1991)</small>
 
-Los aspectos docentes de la prestación del servicio social se regirán por lo que establezcan las instituciones de educación superior, de conformidad con las atribuciones que les otorgan las disposiciones que rigen su organización y funcionamiento y lo que determinen las autoridades educativas competentes.
+###### Artículo 102.
 
-La operación de los programas en los establecimientos de salud del Estado, se llevará a cabo de conformidad con los lineamientos establecidos por cada una de las instituciones de salud y lo que determinen las autoridades sanitarias.
+Las faltas accidentales y temporales del Procurador General de Justicia del Estado, se suplirán en la forma que determine la Ley.
 
-###### ARTÍCULO 103.
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
-Para los efectos de la eficaz prestación del servicio social de pasantes de las profesiones para la salud, se establecerán mecanismos de coordinación entre las autoridades sanitarias y educativas del Estado, con la participación que corresponda a otras dependencias competentes.
+###### Artículo 103.
 
-La prestación del servicio social se realizará bajo la supervisión de la institución de salud receptora, mediante maestros tutelares, con la participación de la institución de educación superior del pasante.
+Todas las autoridades del Estado tienen el deber, para facilitar las labores del Ministerio Público, de prestarle auxilio cuando lo necesite, y el de proporcionarle todos los datos y elementos que pidiere en el desempeño de su encargo.
 
-###### ARTÍCULO 104.
+###### Artículo 104.
 
-La prestación del servicio social de los pasantes de las profesiones para la salud, se llevará a cabo mediante la participación de los mismos en las unidades aplicativas del primer nivel de atención, prioritariamente en áreas urbanas y rurales de menor desarrollo económico y social del Estado.
+Los Agentes del Ministerio Público serán nombrados por el Ejecutivo, a propuesta en terna del Procurador de Justicia.
 
-Para los efectos del párrafo anterior, el Gobierno del Estado, en coordinación con las instituciones educativas y de salud, definirá los mecanismos para que los pasantes de las profesiones para la salud participen en la organización y operación de los comités de salud a que alude el artículo 78 de esta Ley.
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1991)</small>
 
-###### ARTÍCULO 105.
+###### Artículo 105.
 
-El Gobierno del Estado, con la participación de las instituciones de educación superior, elaborará programas de carácter social para los profesionales de la salud, en beneficio de la colectividad, de conformidad con las disposiciones legales aplicables al ejercicio profesional.
+Para ser Agente del Ministerio Público, se requiere:
+
+I. Ser ciudadano mexicano en pleno ejercicio de sus derechos.
+
+II. Acreditar que ha observado buena conducta y no haber sido condenado por sentencia ejecutoriada como responsable de delitos intencionales.
+
+III. Ser licenciado en derecho con título legalmente expedido.
+
+> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 1991)</small>
+
+Artículo 105 A. En el ejercicio de sus funciones, el personal de la Procuraduría General de Justicia del Estado observará las obligaciones inherentes a su calidad de servidores públicos, de acuerdo a sus obligaciones específicas, y actuará con la diligencia necesaria para una pronta y eficaz procuración e impartición de justicia.
+
+#### SECCION V.
+
+Defensoría de Oficio.
+
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
 ### CAPÍTULO ÚNICO. DE LA CAPTACIÓN Y SUMINISTRO
 
-###### ARTÍCULO 106.
+###### Artículo 106.
 
-Las autoridades educativas, en coordinación con las autoridades sanitarias estatales en el ámbito de su competencia y con la participación de las instituciones de educación superior, establecerán las disposiciones específicas y los criterios para la formación de recursos humanos para la salud.
+Habrá en el Estado una institución que se denominará Defensoría de Oficio. Su misión será defender a los reos en asuntos penales y patrocinar a quienes lo soliciten, en materia civil y administrativa, en los casos establecidos por la ley orgánica correspondiente.
 
-Las autoridades sanitarias sin perjuicio de la competencia que sobre la materia corresponda a las autoridades educativas y en coordinación con ellas, así como con la participación de las instituciones de salud, establecerá las disposiciones específicas y los criterios para la capacitación y actualización de los recursos humanos para la salud.
+###### Artículo 107.
 
-###### ARTÍCULO 107.
+Será desempeñada por un Jefe de Defensores y los Defensores que instituya la Ley.
 
-Corresponde a la Secretaría y al Organismo, sin perjuicio de las atribuciones de las autoridades educativas en la materia y en coordinación con éstas:
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
-I. Promover actividades tendientes a la formación, capacitación y actualización de los recursos humanos que se requieran para la satisfacción de las necesidades del Estado en materia de salud;
+###### Artículo 108.
 
-II. Apoyar la creación de centros de capacitación y actualización de los recursos humanos para la salud;
+El Jefe de Defensores y los defensores de oficio serán nombrados y removidos por el Ejecutivo.
 
-III. Otorgar facilidades para la enseñanza y adiestramiento en servicio dentro de los establecimientos de salud, a las instituciones que tengan por objeto la formación, capacitación o actualización de profesionales, técnicos y auxiliares de la salud, de conformidad con las normas que rijan el funcionamiento de los primeros;
+###### Artículo 109.
 
-IV. Impartir cursos de sensibilización en materia de género y equidad, al personal de salud en todos los niveles; y
+Para ser Jefe de Defensores se necesitan los mismos requisitos que para ser Procurador General de Justicia.
 
-V. Promover la participación voluntaria de profesionales, técnicos y auxiliares de la salud en actividades docentes y técnicas.
+###### Artículo 110.
 
-###### ARTÍCULO 108.
+El Jefe de Defensores rendirá la protesta de Ley ante el Ejecutivo y será substituído en sus faltas temporales por el Defensor del lugar de su residencia.
 
-La Secretaría y el Organismo propondrán a las autoridades e instituciones educativas, cuando éstas lo soliciten, criterios sobre:
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
-I. Los requisitos para la apertura y funcionamiento de instituciones dedicadas a la formación de recursos humanos para la salud, en los diferentes niveles académicos y técnicos; y
+## TITULO QUINTO.
 
-II.- El perfil de los profesionales para la salud en sus etapas de formación.
+MUNICIPIO LIBRE.
 
-###### ARTÍCULO 109.
-
-La Secretaría y el Organismo en coordinación con las autoridades federales competentes y las asociaciones privadas del Estado, impulsarán y fomentarán la formación, capacitación y actualización de los recursos humanos, para los servicios de la salud, de conformidad con los objetivos y prioridades de los Sistemas Nacional y Estatal de Salud, de los programas educativos y de las necesidades de salud del Estado. Asimismo, impulsará la integración de la investigación vinculada a la salud, apoyando a tal efecto a las instituciones de educación media superior y superior en coordinación con las autoridades educativas correspondientes.
-
-###### ARTÍCULO 110.
-
-Los aspectos docentes del internado de pregrado y de las residencias de especialización, se regirán por lo que establezcan las instituciones de educación superior, mismos que deberán contribuir al logro de los objetivos de los Sistemas Nacional y Estatal de Salud, de conformidad con las atribuciones que les otorguen las disposiciones que rigen su organización y funcionamiento y lo que determinen las autoridades educativas competentes.
-
-La operación de los programas correspondientes en los establecimientos de salud, se llevará a cabo de acuerdo con los lineamientos establecidos por cada una de las instituciones de salud y lo que determinen la Secretaría y el Organismo.
-
-## TÍTULO SEXTO. INVESTIGACIÓN PARA LA SALUD
+> <small>(REFORMADO, B.O. 30 DE ENERO DE 1984)</small>
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
-###### ARTÍCULO 111.
+###### Artículo 111.
 
-La investigación para la salud comprende el desarrollo de acciones que contribuyan:
+Para ser Defensor de Oficio se necesitan los mismos requisitos que para ser Agente del Ministerio Público.
 
-I. Al conocimiento de los procesos biológicos y psicológicos en los seres humanos;
+###### Artículo 112.
 
-II. Al conocimiento de los vínculos entre las causas de enfermedad, la práctica médica y la estructura social;
+El Poder Judicial se depositará para su ejercicio en un Supremo Tribunal de Justicia, en las Salas Regionales del Supremo Tribunal de Justicia, en los Juzgados de Primera Instancia y en los Juzgados Locales.
 
-III. A la prevención y control de los problemas de salud que se consideren prioritarios para la población;
+> <small>(REFORMADO, B.O. 17 DE MARZO DE 1988)</small>
 
-IV. Al conocimiento y control de los efectos nocivos del ambiente en la salud;
+Las resoluciones judiciales deberán emitirse de manera pronta, completa e imparcial, debiéndose garantizar su ejecución a través de los procedimientos idóneos que consignen las leyes aplicables.
 
-V. A la participación interinstitucional, intersectorial y de la sociedad en su conjunto en la solución integral de problemas de salud;
+> <small>(REFORMADO, B.O. 17 DE MARZO DE 1988)</small>
 
-VI. Al estudio de las técnicas y métodos que se recomienden o empleen para la prestación de los servicios de salud;
+El servicio judicial será gratuito. En consecuencia, quedan prohibidas las costas judiciales.
 
-VII. A analizar y evaluar los servicios de salud, en base a su eficiencia, sistemas de información; calidad de su prestación en aspectos técnicos e interpersonales; y
+> <small>(REFORMADO, B.O. 17 DE MARZO DE 1988)</small>
 
-VIII. A la producción nacional de insumos para la salud.
+Los magistrados y los jueces percibirán una remuneración adecuada e irrenunciable, la cual no podrá ser disminuída durante su encargo.
 
-En las acciones de investigación, el Ejecutivo del Estado creará una Comisión Inter-institucional de Investigación para la Salud, de carácter multidisciplinario y plural, que sistematice y evalúe la investigación que se genere, de conformidad con lo establecido en esta Ley, en el reglamento respectivo y demás disposiciones legales aplicables.
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 19 DE DICIEMBRE DE 1991)</small>
 
-A tal efecto, corresponderá a la Comisión Inter-institucional de Investigación en salud estatal establecer y operar el Sistema de Información en Investigación para la Salud, que tendrá por objeto eficientar los servicios de salud con base en aspectos técnicos e interpersonales.
+###### Artículo 113.
 
-###### ARTÍCULO 112.
+El Supremo Tribunal de Justicia se compondrá de siete Magistrados Propietarios y siete Suplentes, nombrados cada seis años.
 
-La Secretaría y el Organismo apoyarán y promoverán la constitución y el funcionamiento de establecimientos públicos y bancos de datos destinados a la investigación para la salud.
+> <small>(REFORMADO, B.O. 19 DE DICIEMBRE DE 1991)</small>
 
-###### ARTÍCULO 113.
+Los Magistrados del Supremo Tribunal de Justicia designados podrán ser reelectos y, si lo fueren, sólo podrán ser privados del cargo en los términos del Título Sexto de esta Constitución.
 
-La investigación en seres humanos se desarrollará conforme a las siguientes bases:
+> <small>(REFORMADO, B.O. 19 DE DICIEMBRE DE 1991)</small>
 
-I. Deberá sujetarse a los principios científicos y éticos que justifican la investigación médica, especialmente en lo referente a su posible contribución a la solución de problemas de salud y al desarrollo de nuevos campos de la ciencia médica;
+Los Magistrados del Supremo Tribunal de Justicia tomarán posesión de su cargo, el día veinticinco de octubre del año en que se inicie el período constitucional del Ejecutivo. Si por cualquier motivo no se hace nombramiento o los designados no se presentan al desempeño de su cargo, continuarán en funciones los individuos que formen el Supremo Tribunal de Justicia, hasta que tomen posesión los nuevamente nombrados. Los que fueren nombrados en el curso del período, desempeñarán sus funciones hasta la conclusión del mismo.
 
-II. Podrá realizarse sólo cuando el conocimiento que pretenda producir no pueda obtenerse por otro método idóneo;
+> <small>(REFORMADO, B.O. 17 DE MARZO DE 1988)</small>
 
-III. Podrá efectuarse sólo cuando exista una razonable seguridad de que no expone a riesgos ni daños innecesarios al sujeto en experimentación;
+Los nombramientos de los magistrados del Supremo Tribunal de Justicia serán hechos por el Gobernador del Estado, preferentemente entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad dentro del Poder Judicial o entre las que lo merezcan por su honorabilidad, competencia y antecedentes, en otras ramas de la profesión jurídica. Dichos nombramientos serán sometidos a la aprobación del Congreso, el que otorgará o negará esta aprobación dentro del término de tres días. Si el Congreso no resolviere dentro de dicho término, se tendrán por aprobados los nombramientos. Sin aprobación expresa o tácita no se podrá tomar posesión del cargo.
 
-IV. Se deberá contar con el consentimiento por escrito del sujeto en quien se realizará la investigación, o de su representante legal en caso de incapacidad legal de aquél, y previa autorización judicial, una vez enterado de los objetivos de la experimentación y de las posibles consecuencias positivas o negativas para su salud;
+> <small>(REFORMADO, B.O. 17 DE MARZO DE 1988)</small>
 
-V. Sólo podrá realizarse por profesionales de la salud en instituciones médicas que actúen bajo la vigilancia de las autoridades sanitarias competentes;
+En el caso de que el Congreso no apruebe dos nombramientos sucesivos respecto de la misma vacante, el Gobernador hará un tercer nombramiento que surtirá sus efectos desde luego, como provisional, y que será sometido a la aprobación del Congreso en el siguiente período ordinario de sesiones. En este período ordinario de sesiones, dentro de los primeros tres días, el Congreso deberá aprobar o reprobar el nombramiento y si lo aprueba o nada resuelve, el Magistrado nombrado provisionalmente, continuará en sus funciones con el carácter de definitivo. Si el Congreso rechaza el nombramiento, cesará desde luego en sus funciones de Magistrado Provisional y el Gobernador del Estado someterá nuevo nombramiento, para su aprobación en los términos señalados.
 
-VI. El profesional responsable suspenderá la investigación en cualquier momento, si sobreviene el riesgo de lesiones graves, invalidez o muerte del sujeto en quien se realice la investigación; y
+> <small>(REFORMADO, B.O. 19 DE DICIEMBRE DE 1991)</small>
 
-VII. Las demás que establezca la correspondiente reglamentación.
+###### Artículo 114.
 
-###### ARTÍCULO 114.
+Para ser Magistrado del Supremo Tribunal de Justicia se requiere reunir los requisitos señalados en el artículo 95 de la Constitución Política de los Estados Unidos Mexicanos.
 
-La Secretaría y el Organismo tendrán a su cargo la coordinación de la investigación para la salud y el control de ésta en seres humanos.
+> <small>(REFORMADO, B.O. 19 DE DICIEMBRE DE 1991)</small>
 
-###### ARTÍCULO 115.
+###### Artículo 115.
 
-La Secretaría y el Organismo vigilarán que se establezcan en las instituciones de salud comisiones de ética e investigación cuando ésta se realice en seres humanos y la de bioseguridad, encargada de regular el uso de radiaciones ionizantes.
+El cargo de Magistrado del Supremo Tribunal de Justicia solamente es renunciable por causa grave calificada por el Congreso.
 
-###### ARTÍCULO 116.
+> <small>(REFORMADO, B.O. 19 DE DICIEMBRE DE 1991)</small>
 
-En el tratamiento de una persona enferma, el médico podrá utilizar nuevos recursos terapéuticos o de diagnóstico cuando exista posibilidad fundada de salvar la vida, restablecer la salud o disminuir el sufrimiento del paciente, siempre que cuente con el consentimiento por escrito de éste, de su representante legal en su caso o del familiar más cercano en vínculo, y sin perjuicio de cumplir con los demás requisitos que determine esta Ley y otras disposiciones aplicables.
+###### Artículo 116.
 
-###### ARTÍCULO 117.
+Los Magistrados Propietarios y Suplentes del Supremo Tribunal de Justicia rendirán la protesta de ley ante el Congreso del Estado o ante la Diputación Permanente.
 
-La Secretaría y el Organismo impulsarán la investigación orientada a la solución de problemas de salud, en todos sus aspectos, se trate de investigación clínica o de servicios de salud.
+> <small>(REFORMADO, B.O. 19 DE DICIEMBRE DE 1991)</small>
 
-Asimismo, fortalecerá las actividades docentes vinculadas a la investigación para la salud, en coordinación con las instituciones de educación superior y las del sector salud.
+###### Artículo 117.
 
-## TÍTULO SÉPTIMO. INFORMACIÓN PARA LA SALUD
+El Supremo Tribunal de Justicia y sus Salas Regionales funcionarán conforme a las prescripciones de la Ley Orgánica respectiva, la cual se ajustará a las bases establecidas en esta Constitución. Los Magistrados del Supremo Tribunal de Justicia y los de las Salas Regionales del mismo, se distinguirán entre sí por el calificativo numérico que corresponda al orden en que hayan sido designados.
+
+> <small>(REFORMADO, B.O. 5 DE ABRIL DE 1952)</small>
+
+## TITULO SEXTO.
+
+Responsabilidades de los Servidores Públicos del Estado y de los Municipios.
+
+> <small>(REFORMADO, B.O. 9 DE ABRIL DE 1984)</small>
 
 ### CAPÍTULO II. EDUCACIÓN PARA LA SALUD
 
-###### ARTÍCULO 118.
+###### Artículo 118.
 
-La Secretaría y el Organismo, de conformidad con las disposiciones generales aplicables, captarán, producirán y procesarán la información necesaria para el proceso de la planeación, programación, presupuestación y control de los Sistemas Nacional y Estatal de Salud, así como sobre el estado y evolución de la salud pública de la entidad.
+El Supremo Tribunal de Justicia tendrá un Presidente, y lo será el Magistrado electo cada año por mayoría de votos de sus miembros.
 
-La información se referirá fundamentalmente a los siguientes aspectos:
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
-I. Estadísticas de natalidad, mortalidad, morbilidad e invalidez;
+###### Artículo 119.
 
-II. Factores demográficos, económicos, sociales y ambientales vinculados a la salud; y
+Tendrá también un Secretario General y los demás que fueren necesarios para el despacho de los asuntos de su competencia.
 
-III. Recursos físicos, humanos y financieros disponibles para la protección de la salud de la población, y su utilización.
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
-###### ARTÍCULO 119.
+###### Artículo 120.
 
-Los responsables de los establecimientos que presten servicios de salud, incluyendo a los privados, los profesionales, técnicos y auxiliares de la salud en el Estado, así como los dedicados al proceso, uso y disposición final de los productos o aquéllos en los que se realicen actividades a que se refieren los títulos duodécimo y decimocuarto de la Ley General de Salud, llevarán las estadísticas que en materia de salud señalen las autoridades sanitarias locales y proporcionarán a éstas y a las autoridades federales competentes la información correspondiente, sin perjuicio de la obligación de suministrar la información que señalen otras disposiciones legales aplicables.
+Son facultades y obligaciones del Supremo Tribunal:
 
-###### ARTÍCULO 120.
+> <small>(REFORMADA, B.O. 19 DE DICIEMBRE DE 1991)</small>
 
-La Secretaría y el Organismo establecerán centros de información y de documentación destinados a proporcionar a las personas que lo soliciten, la información a que se refiere este Título, vigilando el buen uso de ésta, y publicará una gaceta médica para difundir información para la salud oportuna y actualizada, además de promover la formación y funcionamiento de comités.
+I. Conocer en segunda instancia de los juicios civiles que señale la Ley Orgánica respectiva.
 
-## TÍTULO OCTAVO. PROMOCIÓN DE LA SALUD
+> <small>(REFORMADA, B.O. 19 DE DICIEMBRE DE 1991)</small>
+
+II. Conocer en segunda instancia de los juicios penales que señale la Ley Orgánica respectiva.
+
+> <small>(REFORMADA, B.O. 19 DE DICIEMBRE DE 1991)</small>
+
+III. Dirimir las cuestiones de competencia que se susciten entre las Salas Regionales del Supremo Tribunal de Justicia y las que presenten entre los Jueces del Estado.
+
+> <small>(REFORMADA, B.O. 19 DE DICIEMBRE DE 1991)</small>
+
+IV. Nombrar y remover a los Magistrados de las Salas Regionales del Supremo Tribunal de Justicia y a los Jueces de Primera Instancia y aceptarles sus renuncias en la forma y términos señalados por la Ley. Los nombramientos serán hechos, preferentemente, entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la administración de justicia o que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica.
+
+> <small>(ADICIONADA, B.O. 19 DE DICIEMBRE DE 1991)</small>
+
+IV Bis. Ordenar, cuando se considere conveniente por las necesidades del servicio, la instalación de Juzgados de Primera Instancia Supernumerarios y señalar el período de su funcionamiento y los asuntos de los que deben conocer.
+
+V. Nombrar y remover a sus Secretarios y a sus demás empleados subalternos, así como aceptarles su renuncia.
+
+> <small>(REFORMADA, B.O. 19 DE DICIEMBRE DE 1991)</small>
+
+VI. Aprobar los nombramientos de los Jueces Locales que hagan los de Primera Instancia.
+
+VII. Conceder licencia a los funcionarios y empleados cuyo nombramiento le compete, de acuerdo con lo que determinen las leyes relativas.
+
+VIII. Formar su Reglamento Interior.
+
+IX. Iniciar leyes y decretos ante el Congreso, en lo concerniente al ramo de justicia.
+
+X. Dictaminar sobre las peticiones de indulto necesario.
+
+> <small>(REFORMADA, B.O. 19 DE DICIEMBRE DE 1991)</small>
+
+XI. Ejercer debida vigilancia sobre las Salas Regionales del Supremo Tribunal de Justicia, Juzgados y empleados judiciales, para la pronta, completa e imparcial administración de justicia, dictando las medidas necesarias, a fin de corregir las anomalías que notare, pero sin entorpecer las funciones de los órganos jurisdiccionales señalados.
+
+XII. Ordenar visitas a los establecimientos de reclusión penal y adoptar y proponer las medidas correspondientes, según el resultado de aquéllos.
+
+> <small>(REFORMADA, B.O. 19 DE DICIEMBRE DE 1991)</small>
+
+XIII. Autorizar el pago de los honorarios de los Magistrados Suplentes, cuando ejercieren funciones.
+
+XIV. Proponer al Congreso se tomen las medidas encaminadas a remediar las omisiones y contradicciones que observare en las leyes.
+
+> <small>(REFORMADA, B.O. 8 DE NOVIEMBRE DE 1993)</small>
+
+XV. Rendir al Congreso y al Ejecutivo los informes que le pidan sobre el ramo judicial.
+
+XVI. Conocer de las controversias que se susciten entre el Ejecutivo del Estado y los Ayuntamientos.
+
+> <small>(REFORMADA, B.O. 9 DE ABRIL DE 1984)</small>
+
+XVII. Instruir y sentenciar de conformidad con las leyes relativas, en única instancia, los procesos penales que llegaren a iniciarse en contra de los servidores públicos enumerados en el primer párrafo del Artículo 146 de esta Constitución, por los delitos a que aluden los Títulos Séptimo y Octavo del Libro Segundo del Código Penal.
+
+XVIII. Las demás que le confieran o impongan las leyes.
+
+> <small>(REFORMADO, B.O. 19 DE DICIEMBRE DE 1991)</small>
+
+## TITULO SEPTIMO.
+
+Prevenciones Generales.
 
 ### CAPÍTULO III. NUTRICIÓN
 
-###### ARTÍCULO 121.
+###### Artículo 121.
 
-La promoción de la salud tiene por objeto crear, conservar y mejorar las condiciones deseables de la salud para toda la población y propiciar en la persona las actitudes, valores y conductas adecuadas para motivar su participación en beneficio de la salud individual y colectiva.
+Cuando algún Magistrado del Supremo Tribunal de Justicia estuviere impedido para conocer de un asunto determinado, será suplido en los términos establecidos por la Ley Orgánica respectiva. Si el Magistrado impedido fuere el ponente en dicho asunto, quien lo sustituya no asumirá la ponencia, quedando la elaboración del proyecto de resolución a cargo del Magistrado siguiente en número, a quien no afecte impedimento.
 
-###### ARTÍCULO 122.
+Cuando todos los Magistrados en ejercicio estuvieren impedidos para conocer de determinado negocio, el Supremo Tribunal se integrará por Magistrados Suplentes, correspondiendo presidir los debates y ser ponente al primero que conforme a la ley hubiere sido llamado.
 
-La promoción de la salud comprende:
+> <small>(REFORMADO, B.O. 19 DE DICIEMBRE DE 1991)</small>
 
-I. Educación para la salud;
+###### Artículo 122.
 
-II. Nutrición;
+Los Magistrados del Supremo Tribunal de Justicia que estén en funciones, exceptuándose los casos que específicamente determine la ley respecto de los suplentes, no pueden ser abogados en negocios ajenos, apoderados, asesores o árbitros de derecho, ni desempeñar ningún empleo, cargo o comisión de la Federación, del Gobierno del Estado, de otras entidades, de los Municipios, o de particulares, salvo los cargos docentes y los honoríficos en asociaciones científicas o artísticas.
 
-III. Control de los efectos nocivos del ambiente en la salud;
+Esta misma prohibición regirá para los Magistrados de las Salas Regionales del Supremo Tribunal de Justicia.
 
-IV. Salud ocupacional;
+> <small>(REFORMADA SU DENOMINACION, B.O. 19 DE DICIEMBRE DE 1991)</small>
 
-V. Ejercicios para la Salud; y
+#### SECCION II.
 
-VI. Fomento sanitario.
+Salas Regionales del Supremo Tribunal de Justicia.
+
+> <small>(ADICIONADO, B.O. 19 DE DICIEMBRE DE 1991)</small>
+
+Artículo 122 A. La Ley Orgánica respectiva determinará el número y la jurisdicción de las Salas Regionales del Supremo Tribunal de Justicia, así como la competencia de las mismas. Dichas Salas Regionales se integrarán por tres Magistrados, nombrados en la forma prevista por esta Constitución.
+
+Para ser Magistrados de las Salas Regionales del Supremo Tribunal de Justicia se requiere reunir los requisitos señalados en el artículo 95 de la Constitución Política de los Estados Unidos Mexicanos; dichos Magistrados rendirán la protesta de ley ante el Supremo Tribunal de Justicia; durarán en sus cargos tres años, pudiendo ser reelectos, y si lo fueren, sólo podrán ser privados de los mismos en los términos del Título Sexto de esta Constitución.
+
+> <small>(ADICIONADA, B.O. 19 DE DICIEMBRE DE 1991)</small>
+
+#### SECCION III.
+
+Juzgados de Primera Instancia y Locales.
+
+> <small>(REFORMADO, B.O. 19 DE DICIEMBRE DE 1991)</small>
 
 ### CAPÍTULO IV. EFECTOS DEL AMBIENTE EN LA SALUD
 
-###### ARTÍCULO 123.
+###### Artículo 123.
 
-La educación para la salud tiene por objeto:
+Los Jueces de Primera Instancia serán nombrados por el Supremo Tribunal de Justicia del Estado, durando en su ejercicio dos años y podrán desempeñar el cargo en períodos sucesivos. Cuando las necesidades del servicio lo requieran, se podrán nombrar Jueces de Primera Instancia Supernumerarios, en los términos que precise la Ley Orgánica respectiva.
 
-I. Fomentar en la población el desarrollo de actitudes y conductas que le permitan participar en la prevención de enfermedades individuales, colectivas y accidentes, y protegerse de los riesgos que pongan en peligro su salud;
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
-II. Proporcionar a la población los conocimientos sobre las causas de las enfermedades y de los daños provocados por los efectos nocivos del ambiente en la salud;
+###### Artículo 124.
 
-III. Orientar y capacitar a la población preferentemente en materia de nutrición, salud mental, salud bucal, educación sexual, planificación familiar, salud reproductiva, riesgos de embarazos tempranos y de automedicación, prevención de la farmacodependencia, salud ocupacional, uso adecuado de los servicios de salud, prevención de accidentes, prevención y rehabilitación de discapacidades y detección oportuna de enfermedades; y
+Para ser juez de primera instancia se requiere:
 
-IV. Prevenir sobre los efectos negativos que sobre la salud tiene la violencia intrafamiliar.
+> <small>(REFORMADA, B.O. 19 DE DICIEMBRE DE 1991)</small>
 
-###### ARTÍCULO 124.
+I. Ser mexicano en pleno ejercicio de sus derechos políticos y tener título de licenciado en derecho.
 
-La Secretaría y el Organismo, en coordinación con las autoridades competentes, llevarán a cabo las siguientes acciones de educación para la salud:
+II. No haber sido condenado en proceso en ningún delito y ser de reconocida moralidad.
 
-I. Propondrán, formularán y desarrollarán programas de educación para la salud, los cuales podrán ser difundidos en los medios masivos de comunicación del Estado, procurando optimizar los recursos y alcanzar una cobertura total de la población;
-
-II. Apoyarán la instrumentación técnica de proyectos productivos que coadyuven a la promoción de la educación para la salud, disminuyendo los efectos nocivos del medio ambiente en la salud o incrementando la salud ocupacional y el fomento sanitario;
-
-III. Formularán y desarrollarán programas de capacitación técnica en salud dirigidos a las autoridades municipales competentes, a efecto de que éstas puedan instrumentar acciones de educación e información a su comunidad de aspectos básicos de prevención y tratamiento de enfermedades y promoción de la salud;
-
-IV. Fomentarán la instrumentación y desarrollo de programas de capacitación técnica en cuidados preventivos, destinados a áreas marginadas, con énfasis en la problemática estacional y grupos de edad vulnerable;
-
-V. Formularan y desarrollarán programas de información y prevención de la violencia intrafamiliar, procurando su erradicación;
-
-VI. Establecerán campañas de capacitación y sensibilización dirigidas a servidores públicos que atienden a los sujetos pasivos y activos de la violencia intrafamiliar, con la finalidad de que la detecten y atiendan adecuadamente.
+> <small>(REFORMADO, B.O. 19 DE DICIEMBRE DE 1991)</small>
 
 ### CAPÍTULO V. EJERCICIO PARA LA SALUD
 
-###### ARTÍCULO 125.
+###### Artículo 125.
 
-La Secretaría y el Organismo formularán y desarrollarán programas de nutrición en la entidad, y promoverán la participación de los sectores social y privado y de las unidades del sector salud, cuyas actividades se relacionen con la nutrición y la disponibilidad de alimentos.
+Los Jueces Locales serán nombrados cada dos años por los Jueces de Primera Instancia del Ramo Civil. El nombramiento será sometido a la aprobación del Supremo Tribunal.
 
-###### ARTÍCULO 126.
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 19 DE DICIEMBRE DE 1991)</small>
 
-En los programas a que se refiere el artículo anterior, se incorporarán acciones que promuevan el consumo de alimentos de producción regional y se procurará al efecto la participación de las organizaciones campesinas, ganaderas, cooperativas y otras organizaciones sociales cuyas actividades se relacionen con la producción de alimentos.
+###### Artículo 126.
 
-###### ARTÍCULO 127.
+Para ser Juez Local se requiere:
 
-La Secretaría y el Organismo tendrán a su cargo:
+> <small>(REFORMADA, B.O. 23 DE DICIEMBRE DE 1972)</small>
 
-I. Operar un sistema permanente de vigilancia epidemiológica de la nutrición;
+I. Ser mexicano en pleno ejercicio de sus derechos políticos y tener 21 años cumplidos, por lo menos el día del nombramiento.
 
-II. Vigilar el desarrollo de los programas y actividades de educación en materia de nutrición encaminados a promover hábitos alimentarios adecuados, preferentemente en los grupos sociales más vulnerables;
+> <small>(REFORMADA, B.O. 5 DE MAYO DE 1954)</small>
 
-III. Vigilar el establecimiento, operación y evaluación de servicios de nutrición en las zonas que se determinen, procurando que los mismos se alleguen a todos los habitantes del Estado, promoviendo políticas asistenciales en beneficio de los grupos más desprotegidos;
+II. No haber sido condenado en proceso por ningún delito y ser de reconocida moralidad.
 
-IV. Promover investigaciones químicas biológicas, sociales y económicas, encaminadas a conocer las condiciones de nutrición que prevalecen en la población y establecer las necesidades mínimas de nutrimento para el mantenimiento de las buenas condiciones de salud de la población; y
+> <small>(REFORMADA, B.O. 5 DE MAYO DE 1954)</small>
 
-V. Recomendar las dietas y los procedimientos que conduzcan al consumo efectivo de los mínimos de nutrimento para la población en general y promover en la esfera de su competencia a dicho consumo.
+III. Tener la competencia necesaria para el desempeño del cargo, a juicio del juez que lo nombre.
+
+> <small>(REFORMADO, B.O. 19 DE DICIEMBRE DE 1991)</small>
+
+###### Artículo 127.
+
+Los Jueces de Primera Instancia y los Locales conocerán de los asuntos que les encomienden las leyes, en la forma y términos que las mismas establezcan.
+
+> <small>(REFORMADO, B.O. 30 DE ENERO DE 1984)</small>
 
 ### CAPÍTULO VI. SALUD OCUPACIONAL
 
-###### ARTÍCULO 128.
+###### Artículo 128.
 
-La Secretaría y el Organismo tomarán las medidas y realizarán las actividades a que se refiere esta Ley, tendientes a la protección de la salud humana ante los riesgos y daños derivados de las condiciones del ambiente.
+La base de la división territorial, política y administrativa del Estado de Sonora, será el Municipio Libre, que estará administrado por un Ayuntamiento. No habrá ninguna autoridad intermedia entre éste y el Gobierno del Estado.
 
-###### ARTÍCULO 129.
+> <small>(REFORMADO, B.O. 30 DE ENERO DE 1984)</small>
 
-Corresponde a la Secretaría y al Organismo:
+###### Artículo 129.
 
-I. Desarrollar investigación permanente y sistemática de los riesgos y daños que para la salud de la población origine la contaminación del ambiente;
+El Municipio será considerado como persona de derecho público con personalidad jurídica y patrimonio propios.
 
-II. Vigilar y certificar la calidad del agua para uso y consumo humano, conforme a las NOMs;
+> <small>(REFORMADO, B.O. 30 DE ENERO DE 1984)</small>
 
-III. Disponer y verificar que se cuente con información toxicológica actualizada, en la que se establezcan las medidas de respuesta al impacto en la salud originado por el consumo de sustancias tóxicas o peligrosas;
+###### Artículo 130.
 
-IV. Promover y apoyar el saneamiento básico;
+Los Ayuntamientos serán órganos colegiados deliberantes, integrados por un Presidente Municipal, un Síndico y los Regidores que sean designados por sufragio popular, directo, libre y secreto. Las elecciones se basarán en el sistema de elección de mayoría relativa, y en el caso de los regidores, habrá también de representación proporcional, de conformidad con las bases que establezca la Ley. Por cada Síndico y Regidor Propietario será elegido un Suplente.
 
-V. Vigilar la seguridad radiológica para el uso y aprovechamiento de fuentes de radiación, sin perjuicio de la intervención que corresponda a otras autoridades competentes. Así mismo tramitar ante la Secretaría de Salud de Gobierno Federal los permisos a los responsables de la operación y funcionamiento de fuentes de radiación de uso médico y a sus auxiliares médicos;
+Todos los Regidores Propietarios serán considerados como representantes populares, con idéntica categoría e igualdad de derechos y obligaciones.
 
-VI. Vigilar el cumplimiento de las NOMs que tengan relación con este capítulo;
+> <small>(REFORMADO, B.O. 30 DE ENERO DE 1984)</small>
 
-VII. Ejercer el control de almacenamiento de gas L.P. y otros gases no peligrosos;
+###### Artículo 131.
 
-VIII. Ejercer el control sanitario del comercio y aplicación de plaguicidas, nutrientes vegetales y sustancias tóxicas y peligrosas para la salud;
+Los Presidentes Municipales, Síndicos y Regidores de los Ayuntamientos, electos popularmente, por elección directa, no podrán ser reelectos para el período inmediato. Las personas que por elección indirecta, o por nombramiento o designación de alguna autoridad desempeñen las funciones propias de esos cargos, cualquiera que sea la denominación que se les dé, no podrán ser electos para el período inmediato. Los funcionarios antes mencionados, cuando tengan el carácter de propietarios, no podrán ser electos para el período inmediato con el carácter de suplentes, pero los que tengan el carácter de suplentes sí podrán ser electos propietarios para el período inmediato, a menos que hayan estado en ejercicio.
 
-IX. Realizar el monitoreo de pozos públicos y privados y de sistemas formales de abastecimiento de agua potable; y
+> <small>(REFORMADO, B.O. 30 DE ENERO DE 1984)</small>
 
-X. En general, ejercer actividades similares a las anteriores ante situaciones ambientales que causen riesgos o daños a la salud de las personas.
+###### Artículo 132.
 
-###### ARTÍCULO 130.
+Para ser Presidente Municipal, Síndico o Regidor de un Ayuntamiento, se requiere:
 
-La Secretaría y el Organismo se coordinarán con las dependencias federales, estatales y municipales, para la prestación de los servicios a que se refiere este capítulo.
+> <small>(REFORMADA, B.O. 8 DE NOVIEMBRE DE 1993)</small>
 
-###### ARTÍCULO 131.
+I. Ser ciudadano sonorense en pleno ejercicio de sus derechos.
 
-Las personas que intervengan en el abastecimiento de agua no podrán suprimir la dotación de servicios de agua potable y avenamiento de los edificios habitados, excepto en los casos que determinen las disposiciones generales y leyes aplicables.
+II. Ser vecino del Municipio correspondiente, con residencia efectiva dentro del mismo, cuando menos de dos años si es nativo del Estado, o de cinco años si no lo es.
 
-###### ARTÍCULO 132.
+III. No desempeñar ningún cargo público en el Municipio donde se hace la elección, ya dependa aquél del Estado o de la Federación; no estar en servicio activo en el Ejército, ni tener mando de fuerzas en el mismo Municipio, a menos que, quién esté comprendido en tales casos, se separe definitivamente de su empleo o cargo noventa días antes de la elección.
 
-No se podrán descargar aguas residuales sin el tratamiento que señalan los criterios sanitarios establecidos en las NOMs que emitan las autoridades federales competentes, ni residuos peligrosos que conlleven riesgos para la salud pública a presas, ríos, lagos y otros cuerpos de agua que se utilicen para riego, acuicultura y los que se destinen para uso o consumo humano, así como a ductos o desagües.
+IV. No haber sido condenado por la Comisión de un delito intencional, aún cuando se haya cumplido la condena o extinguido la pena.
 
-###### ARTÍCULO 133.
+> <small>(ADICIONADA, B.O. 8 DE NOVIEMBRE DE 1993)</small>
 
-La Secretaría y el Organismo, en coordinación con las autoridades federales y municipales competentes y con la autoridad estatal encargada de la administración de distritos de riego, orientarán a la población para evitar la contaminación de aguas de presas, pluviales, lagos y otras que se utilicen para riego o para uso doméstico, originada por plaguicidas, sustancias tóxicas y desperdicios o basura.
+V. En el caso del Presidente Municipal y el Síndico, tener 21 años cumplidos; tratándose de los Regidores, tener 18 años cumplidos.
+
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 8 DE NOVIEMBRE DE 1993)</small>
+
+###### Artículo 133.
+
+El Presidente Municipal y demás miembros del Ayuntamiento durarán en sus cargos tres años, y tomarán posesión el día 16 de septiembre del año de su elección.
+
+> <small>(REFORMADO, B.O. 30 DE ENERO DE 1984)</small>
+
+Los cargos del Presidente Municipal, Síndico y Regidor serán obligatorios y remunerados. Solamente serán renunciables por causa justificada que califique el Ayuntamiento y apruebe el Congreso.
+
+> <small>(REFORMADO, B.O. 30 DE ENERO DE 1984)</small>
+
+Si alguno de los miembros de un Ayuntamiento dejare de desempeñar su cargo, será substituído por su suplente, o se procederá según lo disponga esta Constitución y la Ley.
+
+> <small>(REFORMADO, B.O. 30 DE ENERO DE 1984)</small>
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
-###### ARTÍCULO 134.
+###### Artículo 134.
 
-El Programa de Ejercicio para el Cuidado de la Salud, tiene por objeto promover la actividad y el ejercicio físico de una manera sistemática, adecuada y segura que propicie eliminar el sedentarismo y contribuya a la disminución de los padecimientos asociados a los estilos de vida de cada persona, lo que redundará en el mejoramiento de las condiciones de salud de la población.
+Para el auxilio de los Ayuntamientos en el despacho de los asuntos de su competencia, contarán con una administración pública que será directa y paramunicipal, conforme a la Ley Orgánica que expida el Congreso del Estado. Esta Ley definirá las facultades que serán competencia de la administración directa, y definirá las bases generales de creación, operación, vigilancia y supresión del sector paramunicipal.
 
-###### ARTÍCULO 135.
+> <small>(REFORMADO, B.O. 30 DE ENERO DE 1984)</small>
 
-Corresponde a la Secretaría y al Organismo, en coordinación con las autoridades competentes, llevar a cabo las acciones relativas al Programa de Ejercicios para el Cuidado de la Salud, comprendiendo entre otras las siguientes:
+###### Artículo 135.
 
-I. Formular y desarrollar el Programa para el Cuidado de la Salud, el cual deberá ser difundido en los medios de comunicación del Estado;
+Las administraciones públicas directas asentadas en las Cabeceras de las Municipalidades estarán integradas como mínimo por una Secretaría y una Tesorería. Las personas designadas para estos cargos deberán llenar los mismos requisitos exigidos para ser miembro del Ayuntamiento.
 
-II. Difundir las normas, lineamientos, estrategias y procedimientos de trabajo establecidos para el desarrollo del programa; y
+Los Ayuntamientos deberán al inicio de su gestión, nombras (sic) Comisarios y Delegados Municipales. Estos serán representantes directos del Ayuntamiento y ejercerán las atribuciones y deberes señalados en la Ley, dentro de los ámbitos territoriales que determinen los propios ayuntamientos. Para ocupar estos cargos se requiere ser ciudadano sonorense en pleno ejercicio de sus derechos políticos y tener la vecindad en el lugar en que haya de ser nombrado.
 
-III. Promover la capacitación y actualización continua de los trabajadores de la salud sobre el Programa.
+> <small>(ADICIONADO, B.O. 30 DE ENERO DE 1984)</small>
 
-###### ARTÍCULO 136.
+###### Artículo 136.
 
-Para la mayor eficacia de las acciones a las que se refiere el artículo anterior, se creará el Centro Estatal Interinstitucional del Ejercicio para el Cuidado de la Salud del que formarán parte representantes de los sectores público, social y privado del Estado.
+Son facultades y obligaciones de los Ayuntamientos:
+
+I. En el ámbito de su competencia, promover e inducir el desarrollo económico, social, político y cultural y el bienestar de los habitantes, conforme a los principios de justicia y seguridad jurídica y a los Planes y Programas de Gobierno Municipales.
+
+II. En el marco del sistema estatal de planeación, conducir la formulación, instrumentación, control y evaluación del Plan Municipal de Desarrollo, al que estarán sujetas las funciones y actividades del Ayuntamiento y la Administración Pública Municipal e inducir y concertar con las representaciones de los sectores social y privado las acciones a realizar para su elaboración y ejecución.
+
+III. (DEROGADA, B.O. 8 DE NOVIEMBRE DE 1993)
+
+IV. Expedir, de acuerdo con las bases normativas que establezca el Congreso, los Bandos de Policía y Buen Gobierno y los reglamentos, circulares y demás disposiciones administrativas de observancia general, dentro de sus respectivas jurisdicciones, que serán publicadas en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+V. Iniciar leyes y decretos ante el Congreso del Estado, en lo concerniente a sus Municipios.
+
+VI. Formular su Reglamento Interior en el que se defina la organización y funcionamiento del propio Ayuntamiento, así como los de la Administración pública Municipal directa, de acuerdo a las bases que establezca la Ley.
+
+VII. En los términos señalados por las Leyes, y previa autorización del Congreso, crear organismos descentralizados, fideicomisos y empresas públicas de participación Municipal, para la atención de los servicios públicos y para el desarrollo económico.
+
+VIII. Ejercer las atribuciones que las disposiciones jurídicas federales y estatales otorgan a los Municipios en materia turística; reforma agraria; fomento agropecuario; desarrollo urbano; coordinación fiscal; servicios educativos y de salud; vivienda; recursos naturales; protección del medio ambiente; sistemas ecológicos; comercio, abasto y distribución de productos.
+
+IX. Promover las actividades productivas del Municipio, alentando y organizando el desarrollo de la agricultura, ganadería, pesca, industria, minería y de otras actividades que propicien la prosperidad de sus habitantes.
+
+X. Proteger y conservar la cultura de los grupos étnicos asentados en sus territorios.
+
+XI. Vigilar que los habitantes del Municipio realicen sus actividades con respeto a derechos de terceros, al orden e interés público y en general en pro del bienestar colectivo, de acuerdo a las Leyes y reglamentos.
+
+XII. Prestar los servicios de seguridad pública y tránsito, sin perjuicio de lo establecido por la fracción XX del Artículo 79 de esta Constitución.
+
+XIII. Emitir los actos, acuerdos y resoluciones que de conformidad con la Ley y demás disposiciones, sean del ámbito de su competencia.
+
+XIV. Aplicar las sanciones de multa o arresto cuya imposición les atribuya los Bandos de Policía y Buen Gobierno y los demás reglamentos Municipales, en los términos de esta Constitución.
+
+XV. Resolver, de acuerdo con las atribuciones que les confieran las Leyes, los recursos administrativos interpuestos en contra de los actos, acuerdos y resoluciones dictados por el propio Ayuntamiento y demás autoridades Municipales.
+
+XVI. En los términos de Ley, celebrar Convenios de Coordinación con los Ejecutivos Estatal y Federal, a efecto de coordinar acciones de interés común, asumir el ejercicio de funciones, la ejecución y operación de obras, la prestación de servicios públicos, y en general, cualquier otra actividad o propósito de beneficio colectivo, cuando el desarrollo económico y social lo haga necesario.
+
+XVII. Participar en el Sistema Estatal de Planeación en los términos establecidos por esta Constitución y demás disposiciones.
+
+XVIII. Promover la participación y cooperación de la comunidad en la planeación, construcción y conservación de obras, prestación de servicios públicos y, en general, en la ejecución de acciones para el desarrollo de la comunidad, y en su caso, concertar acciones con los interesados.
+
+XIX. Administrar su patrimonio y prestar los servicios públicos en los términos señalados por esta Constitución y demás disposiciones aplicables.
+
+XX. Vigilar los establecimientos de asistencia y beneficencia pública y privada en la forma que determine la Ley.
+
+> <small>(REFORMADA, B.O. 17 DE SEPTIEMBRE DE 1987)</small>
+
+XXI. Someter al examen y aprobación del Congreso, durante la segunda quincena del mes de noviembre de cada año, la Ley de Ingresos y el correspondiente Presupuesto de Ingresos (sic) que deberán regir en el año fiscal siguiente. Todo ingreso adicional y excedente que reciba el Ayuntamiento para su ejercicio, deberá ser autorizado previamente por el Congreso del Estado.
+
+XXII. Aprobar, con base en las contribuciones y demás ingresos que determine anualmente el Congreso, sus Presupuestos de Egresos y publicarlos en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+XXIII. Enviar trimestralmente al Congreso, los estados financieros que comprenderán la balanza de comprobación, el balance general y el estado de resultados que contenga el ejercicio presupuestario de Ingresos y Egresos que se lleve a la fecha.
+
+XXIV. Someter al examen y aprobación del Congreso, anualmente, en la primera quincena del segundo período de sesiones ordinarias, sus cuentas públicas del año anterior.
+
+XXV. Glosar las cuentas del Ayuntamiento saliente, en un término de noventa días contados a partir de la fecha de toma de posesión. Si de la glosa resultaren diferencias con las cuentas públicas aprobadas por el Congreso, será éste quién decida lo conducente.
+
+XXVI. Formular los Estados Financieros correspondientes al último año de su gestión que comprenderán la balanza de comprobación, el balance general, y el estado de resultados que contenga el Ejercicio presupuestario de Ingresos y Egresos y entregarlos, al concluir sus funciones, al Ayuntamiento entrante y al Congreso.
+
+> <small>(REFORMADA, B.O. 8 DE NOVIEMBRE DE 1993)</small>
+
+XXVII. Rendir a la población, por conducto del Presidente Municipal, un informe anual detallado sobre el estado que guardan los asuntos municipales, el 16 de septiembre de cada año. Dicho informe será comunicado por escrito al Congreso del Estado y al Gobernador.
+
+XXVIII. Proporcionar a los Poderes del Estado los informes y documentos que les soliciten.
+
+XXIX. Organizar y estructurar la administración de la Comisaría y Delegaciones.
+
+XXX. Conceder licencias al Presidente Municipal y Concejales, en los términos de la Ley Orgánica respectiva.
+
+XXXI. Nombrar y remover a los funcionarios y empleados de la administración pública municipal directa y concederles licencia, de acuerdo a lo que establezcan las Leyes.
+
+> <small>(REFORMADA, B.O. 19 DE DICIEMBRE DE 1991)</small>
+
+XXXII. Cubrir preferentemente y en forma adecuada, los sueldos de los Jueces Locales de su jurisdicción, y proveerlos de los útiles y elementos de trabajo indispensables para el correcto desempeño de sus funciones.
+
+XXXIII. Coadyuvar con el Poder Judicial en el auxilio que demande para hacer efectivas las resoluciones de éste.
+
+> <small>(REFORMADA, B.O. 19 DE DICIEMBRE DE 1991)</small>
+
+XXXIV. Dar cuenta al Supremo Tribunal de Justicia de las irregularidades que observen en la administración de justicia local.
+
+XXXV. Las demás que las Leyes Federales o del Estado les otorguen o impongan.
+
+> <small>(REFORMADO, B.O. 30 DE ENERO DE 1984)</small>
 
 ### CAPÍTULO II. ENFERMEDADES TRANSMISIBLES
 
-###### ARTÍCULO 137.
+###### Artículo 137.
 
-La Secretaría de Salud del Gobierno Federal ejercerá junto con la Secretaría y el Organismo el control sanitario sobre los establecimientos en los que se desarrollen actividades ocupacionales para el cumplimiento de los requisitos que en cada caso deban reunir, de conformidad con las disposiciones legales reglamentarias aplicables.
+En los términos fijados en las leyes respectivas, corresponde a los Municipios la eficaz prestación, en sus respectivas jurisdicciones, de los siguientes servicios públicos:
 
-###### ARTÍCULO 138.
+a). Agua Potable y Alcantarillado.
 
-El Gobierno del Estado, en coordinación con las dependencias y entidades federales competentes, promoverá, desarrollará y difundirá investigación multidisciplinaria que permita prevenir y controlar las enfermedades y accidentes ocupacionales, así como estudios para adecuar los instrumentos y equipos de trabajo a las características de la persona.
+b). Alumbrado Público.
 
-## TÍTULO NOVENO. PREVENCIÓN Y CONTROL DE ENFERMEDADES Y ACCIDENTES
+c). Limpia.
+
+d). Mercados.
+
+e). Panteones.
+
+f). Rastros.
+
+g). Calles, parques y jardines.
+
+h). Seguridad pública y tránsito.
+
+i). Los demás que les señale el Congreso del Estado, según las condiciones territoriales y socioeconómicas de los Municipios, así como su capacidad administrativa, técnica y financiera.
+
+En el caso de que alguno o algunos de estos servicios no se presten eficazmente, el Congreso del Estado intervendrá para resolver lo conducente, a excepción del servicio público de las fuerzas de Seguridad Pública y Tránsito, cuyo manejo y mando se ajustará a las disposiciones que sobre esta materia especifican esta Constitución y las Leyes Reglamentarias.
+
+> <small>(REFORMADO, B.O. 30 DE ENERO DE 1984)</small>
+
+###### Artículo 138.
+
+Los Servicios Públicos Municipales podrán prestarse con el concurso del Estado, cuando así fuere necesario y lo determinen las Leyes, así como en coordinación y asociación con otros Municipios del Estado, previo acuerdo entre sus Ayuntamientos y con sujeción a la Ley. También podrán ser prestados mediante concertaciones con particulares o a través del otorgamiento de concesiones.
+
+En los casos en que los servicios públicos de competencia municipal se encuentren a cargo de particulares, podrán municipalizarse por razones de orden e interés público y en los términos que establezca la Ley.
+
+> <small>(ADICIONADO, B.O. 30 DE ENERO DE 1984)</small>
+
+## TITULO OCTAVO.
+
+Reforma e inviolabilidad de esta Constitución.
+
+> <small>(REFORMADO, B.O. 19 DE DICIEMBRE DE 1923)</small>
 
 ### CAPÍTULO III. ENFERMEDADES NO TRANSMISIBLES
 
-###### ARTÍCULO 139.
+###### Artículo 139.
 
-El Gobierno del Estado, en coordinación con las autoridades institucionales federales competentes y sin perjuicio de lo que dispongan las leyes laborales y de seguridad social en materia de riesgos de trabajo, realizará las siguientes acciones:
+Los Municipios administrarán los bienes de dominio público y privado de su patrimonio y podrán otorgar concesiones para su explotación, de conformidad con las leyes respectivas; administrarán libremente su hacienda, la que se formará con los rendimientos de los bienes que les pertenezcan, así como con las contribuciones y otros ingresos que establezca el Congreso del Estado a su favor, los cuales procederán de:
 
-I. Coadyuvar en la aplicación y vigilancia de las NOMs para la prevención y el control de enfermedades y accidentes, que dicte la Secretaría de Salud del Gobierno Federal;
+A) Contribuciones, incluyendo tasas adicionales, que establezcan las leyes sobre la propiedad inmobiliaria, su fraccionamiento, división, consolidación, traslación y mejora, así como los que tengan por base el cambio de valor de los inmuebles.
 
-II. Apoyar en el Estado el Sistema Nacional de Vigilancia Epidemiológica, de conformidad con la Ley General de Salud, esta Ley y las demás disposiciones que al efecto se emitan; y
+Los Municipios podrán celebrar convenios con el Estado para que este se haga cargo de algunas de las funciones relacionadas con la administración de esas contribuciones.
 
-III. Coadyuvar en la aplicación de los programas y actividades que establezca la Secretaría de Salud del Gobierno Federal para la prevención y control de enfermedades, accidentes y desastres.
+B) Los ingresos derivados de la prestación de los servicios públicos a su cargo.
 
-###### ARTÍCULO 140.
+No se establecerán exenciones ni se concederán subsidios respecto de las contribuciones señaladas en los incisos anteriores, en favor de personas físicas o morales, ni de instituciones oficiales o privadas. Solo los bienes de Dominio Público de la Federación, del Estado o de los Municipios, estarán exentos de dichas contribuciones.
 
-Corresponde a la Secretaría y el Organismo, en coordinación con las autoridades sanitarias federales, realizar actividades de vigilancia epidemiológica, de prevención, control e investigación de enfermedades transmisibles, no transmisibles y accidentes.
+C) Las participaciones federales que serán cubiertas por la Federación, a través del Estado, a los Municipios, con arreglo a las bases montos y plazos que anualmente se determinen por la legislatura Local.
+
+D) Subsidios, legados y donaciones que se establezcan a su favor.
+
+Los recursos Municipales se manejarán con honradez y eficacia, según las bases establecidas en el Artículo 150 de esta Constitución y en las Leyes.
+
+> <small>(ADICIONADO, B.O. 30 DE ENERO DE 1984)</small>
+
+###### Artículo 140.
+
+La Ley Orgánica establecerá las bases y señalará las causas para que el Congreso del Estado, por el voto de las dos terceras partes de sus miembros, pueda suspender Ayuntamientos, declarar que éstos han desaparecido, así como suspender o revocar al mandato de alguno de sus miembros en lo individual. En el procedimiento que se substancie, los miembros del Ayuntamiento involucrados tendrán oportunidad suficiente para aportar pruebas y formular los alegatos que consideren convenientes. El Gobernador del Estado tendrá la participación que le asigne la Ley.
+
+> <small>(REFORMADO, B.O. 30 DE ENERO DE 1984)</small>
 
 ### CAPÍTULO IV. ACCIDENTES
 
-###### ARTÍCULO 141.
+###### Artículo 141.
 
-La Secretaría y el Organismo, en coordinación con las autoridades sanitarias federales, elaborarán programas o campañas temporales o permanentes para el control o erradicación de aquellas enfermedades transmisibles que constituyen un problema real o potencial para la salubridad general de la población.
+Cuando se suspenda o declare desaparecido un Ayuntamiento y no procediere que entraren en funciones los suplentes, en los casos señalados por la Ley, se podrán nombrar Concejos Municipales y, en su caso, convocar a elecciones extraordinarias.
 
-###### ARTÍCULO 142.
+> <small>(REFORMADO, B.O. 30 DE ENERO DE 1984)</small>
 
-La Secretaría y el Organismo realizarán actividades de vigilancia epidemiológica, de prevención y control de las siguientes enfermedades transmisibles:
+###### Artículo 142.
 
-I. Cólera, fiebre tifoidea, paratifoidea, shigelosis, amibiasis, hepatitis virales y otras enfermedades del aparato digestivo;
+De conformidad con las bases establecidas en la legislación secundaria, los Concejos Municipales serán integrados con vecinos del lugar, y tendrán la misma estructura orgánica, atribuciones y deberes que los Ayuntamientos.
 
-II. Influenza epidémica, otras infecciones agudas del aparato respiratorio, infecciones meningocóccicas y enfermedades causadas por estreptococos;
+> <small>(REFORMADA SU DENOMINACION, B.O. 9 DE ABRIL DE 1984)</small>
 
-III. Tuberculosis;
+###### Artículo 143.
 
-IV. Difteria, tosferina, tétanos, sarampión, poliomielitis, rubéola, parotiditis infecciosa y varicela;
+Se reputará como servidor público para los efectos de este Título y será responsable por los actos u omisiones en que incurra en el ejercicio de su función, toda persona que desempeñe un empleo, cargo o comisión, de cualquier naturaleza, en la Administración Pública Estatal o Municipal, en el Poder Legislativo y en el Poder Judicial.
 
-V. Rabia, peste, brucelosis y otras zoonosis. En estos casos, la Secretaría y el Organismo, coordinarán sus actividades con la Secretaría de Agricultura, Ganadería y Desarrollo Rural;
+Durante el período de su encargo el Gobernador del Estado sólo podrá ser encausado por delitos graves.
 
-VI. Fiebre amarilla, dengue y otras enfermedades virales transmitidas por artrópodos;
+> <small>(REFORMADO, B.O. 9 DE ABRIL DE 1984)</small>
 
-VII. Paludismo, tifo, fiebre recurrente transmitida por piojo y rickettsiosis;
+###### Artículo 144.
 
-VIII. Síndrome de Inmunodeficiencia Adquirida e infecciones de transmisión sexual;
+El Congreso expedirá la Ley de Responsabilidades de los servidores públicos mencionados en el presente Título y las normas para determinar y sancionar sus actos u omisiones que generen alguno de los siguientes tipos de responsabilidad:
 
-IX. Lepra;
+I. Responsabilidad política, determinada mediante juicio político, cuando el servidor público, en el ejercicio de sus funciones, incurra en actos u omisiones graves que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho. No procede el juicio político por la mera expresión de ideas.
 
-X. Micosis profundas;
+> <small>(REFORMADO, B.O. 10 DE DICIEMBRE DE 1992)</small>
 
-XI. Helmintiasis intestinales y extraintestinales;
+Sólo podrán ser sujetos a juicio político, los Diputados al Congreso del Estado, los Magistrados del Supremo Tribunal de Justicia, de sus Salas Regionales y del Tribunal de lo Contencioso Administrativo, el Procurador General de Justicia y los Subprocuradores, los Secretarios y Subsecretarios, los Jueces de Primer Instancia, los Agentes del Ministerio Público, los Presidentes Municipales, Síndicos, Regidores, Secretarios y Tesoreros de los Ayuntamientos, así como los Directores Generales y sus equivalentes de las empresas de participación estatal o municipal mayoritaria, sociedades y asociaciones asimiladas a éstas, fideicomisos públicos y organismos descentralizados del Estado y de los Municipios.
 
-XII. Toxoplasmosis; y
+Las sanciones consistirán en la destitución del servidor público y, en su caso, la inhabilitación para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público.
 
-XIII. Las demás que determinen el Consejo de Salubridad General y los tratados y convenciones internacionales en los que los Estados Unidos Mexicanos sean parte y que se le hubieren celebrado con arreglo a las disposiciones de la Constitución Política de los Estados Unidos Mexicanos.
+II. Responsabilidad Penal, cuando los servidores públicos cometan delitos de cualquier naturaleza, que serán perseguidos y sancionados en los términos de la Legislación Penal. Tratándose de delitos por cuya comisión el autor obtenga un beneficio económico o cause daños o perjuicios patrimoniales, las sanciones deberán graduarse de acuerdo con el lucro obtenido y con la necesidad de satisfacer los daños y perjuicios causados por esta conducta ilícita. Las sanciones económicas no podrán exceder de tres tantos de los beneficios obtenidos o de los daños y perjuicios causados.
 
-###### ARTÍCULO 143.
+Las leyes penales determinarán los casos y circunstancias en los que se deba sancionar penalmente por causa de enriquecimiento ilícito a los servidores públicos que durante el tiempo de su encargo o por motivos del mismo, por sí o por interpósita persona, aumenten substancialmente su patrimonio, adquieran bienes o se conduzcan como dueños sobre ellos, cuya procedencia lícita no pudiesen justificar. Las leyes sancionarán con el decomiso y con la privación de la propiedad de dichos bienes, además de las otras penas que correspondan.
 
-Se deberá notificar a la autoridad sanitaria más cercana, de las siguientes enfermedades y defunciones, en los términos que a continuación se especifican:
+III. Responsabilidad Administrativa, exigible a los servidores públicos cuando éstos incurran en actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia que deban observar en el desempeño de sus empleos, cargos o comisiones.
 
-I. Inmediatamente, en los casos individuales de enfermedades objeto del Reglamento Sanitario Internacional: fiebre amarilla, peste y cólera;
+Las sanciones aplicables a esta forma de responsabilidad, además de las que señalen las leyes, consistirán en suspensión, destitución e inhabilitación del servidor público, así como en sanciones económicas, que deberán establecerse de acuerdo con los beneficios obtenidos por el responsable y con los daños y perjuicios patrimoniales causados por sus actos u omisiones, pero no podrán exceder de tres tantos de los beneficios obtenidos o de los daños y perjuicios causados.
 
-II. Inmediatamente, en los casos de cualquier enfermedad que se presente en forma de brote o epidemia;
+> <small>(REFORMADO, B.O. 9 DE ABRIL DE 1984)</small>
 
-III. En un plazo no mayor de veinticuatro horas, en los casos individuales objeto de vigilancia internacional: poliomielitis, meningitis, meningococcica, tifo epidémico, fiebre recurrente transmitida por piojo, influenza, paludismo, sarampión, tosferina, así como los de difteria y los casos humanos de encefalitis equina venezolana y todas las enfermedades febriles exantemáticas; y
+###### Artículo 145.
 
-IV. En un plazo no mayor de veinticuatro horas de los primeros casos individuales de las demás enfermedades transmisibles que se presenten en un área no infectada.
+Para determinar la responsabilidad política del servidor público y, en su caso, la sanción aplicable, la Comisión del Congreso que determine la Ley, substanciará el procedimiento con audiencia del inculpado y con la intervención de un Diputado Acusador nombrado del seno del propio Congreso.
 
-Asimismo, será obligatoria la notificación inmediata a la autoridad sanitaria más cercana, de los casos en que se detecte la presencia del virus de la inmunodeficiencia humana VIH o de anticuerpos a dicho virus, en alguna persona.
+El Congreso del Estado erigido en Jurado de Sentencia decidirá, por votación de las dos terceras partes de sus miembros presentes en sesión, sobre la responsabilidad del acusado y aplicará la sanción que corresponda, una vez practicadas las diligencias que garanticen la defensa del mismo.
 
-###### ARTÍCULO 144.
+En el caso de que el Gobernador del Estado, Diputados Locales y Magistrados del Supremo Tribunal de Justicia, sean sometidos a juicio político, en los términos del Artículo 110 de la Constitución General de la República, el Congreso del Estado, una vez que la Cámara de Senadores le haya comunicado la resolución respectiva, procederá conforme a sus atribuciones.
 
-Las personas que ejerzan la medicina o que realicen actividades afines, están obligadas a dar aviso a las autoridades sanitarias de los casos de enfermedades transmisibles, posteriormente a su diagnóstico o sospecha diagnóstica.
+El procedimiento de juicio político, deberá iniciarse durante el tiempo en que el servidor público desempeñe un empleo, cargo o comisión, o dentro del año siguiente al de la conclusión de sus funciones. La (sic) sanciones correspondientes se aplicarán en un período no mayor de un año, a partir de iniciado el procedimiento.
 
-###### ARTÍCULO 145.
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 10 DE DICIEMBRE DE 1992)</small>
 
-Están obligados a dar aviso, en los términos del artículo 143 de esta Ley, los jefes o encargados de laboratorios, los directores de unidades médicas, escuelas, fábricas, talleres, asilos, los jefes de oficinas, establecimientos comerciales o de cualquier otra índole y, en general, toda persona que por circunstancias ordinarias o accidentales tenga conocimiento de alguno de los casos de enfermedades a que se refiere esta Ley, y de aquellos padecimientos o eventos de nueva aparición o reaparición en un área geográfica.
+###### Artículo 146.
 
-###### ARTÍCULO 146.
+Para proceder penalmente contra el Gobernador, Diputados al Congreso del Estado, Magistrados del Supremo Tribunal de Justicia, de sus Salas Regionales y del Tribunal de lo Contencioso Administrativo, Procurador General de Justicia, Secretarios y Subsecretarios, Presidentes Municipales, Síndicos y Regidores de los Ayuntamientos, Jueces de Primera Instancia y Agentes del Ministerio Público, por la comisión de delitos durante el tiempo de su encargo, el Congreso del Estado declarará, por mayoría absoluta de sus miembros presentes en sesión y por dos terceras partes si se trata del Gobernador, si ha lugar o no a proceder contra el inculpado.
 
-Las medidas que se requieren para la prevención y el control de las enfermedades que enumera el artículo 142 de esta Ley, deberán ser observadas por los particulares. El ejercicio de esta acción comprenderá una o más de las siguientes medidas, según el caso de que se trate:
+> <small>(REFORMADO, B.O. 9 DE ABRIL DE 1984)</small>
 
-I. La confirmación de enfermedad por los medios clínicos disponibles;
+Si la resolución del Congreso fuese negativa, no habrá lugar a procedimiento ulterior; pero podrá formularse acusación ante los Tribunales, cuando el servidor público haya concluído el ejercicio de su encargo, pues la misma no prejuzga sobre los fundamentos de la imputación.
 
-II. El aislamiento, por el tiempo estrictamente necesario, de los enfermos, de casos sospechosos de padecer la enfermedad y de los portadores de gérmenes de la misma, así como la limitación de sus actividades cuando así se amerite por razones epidemiológicas;
+> <small>(REFORMADO, B.O. 9 DE ABRIL DE 1984)</small>
 
-III. La observación, en el grado que se requiera, de los contactos humanos y animales;
+La declaración del Congreso de que ha lugar a proceder contra el inculpado, hará que éste quede separado de su encargo y sujeto a la jurisdicción de las autoridades competentes. Tratándose de los delitos comprendidos en los Títulos Séptimo y Octavo del Libro Segundo del Código Penal, conocerá en única instancia el Supremo Tribunal de Justicia. En los demás delitos, conocerán de los procesos correspondientes los Juzgados de Primera Instancia.
 
-IV. La aplicación de sueros, vacunas y otros recursos preventivos y terapéuticos;
+> <small>(REFORMADO, B.O. 9 DE ABRIL DE 1984)</small>
 
-V. La descontaminación microbiana o parasitaria, desinfección, desinfectación y desinfestación de zonas, habitaciones, ropas, utensilios y otros objetos expuestos a la contaminación;
+Si el proceso penal culmina con sentencia absolutoria el procesado podrá reasumir su función. Si la sentencia fuere condenatoria y se trata de un delito cometido durante el ejercicio de su encargo, no se concederá al reo la gracia del indulto.
 
-VI. La destrucción o control de vectores y reservorios y de fuentes de inspección naturales o artificiales, cuando representen peligro para la salud;
+> <small>(REFORMADO, B.O. 9 DE ABRIL DE 1984)</small>
 
-VII. La inspección de pasajeros que puedan ser portadores de gérmenes, así como la de equipajes, medios de transporte, mercancías y otros objetos que puedan ser fuentes o vehículos de agentes patógenos; y
+Para proceder penalmente contra el Gobernador del Estado, Diputados Locales o Magistrados del Supremo Tribunal de Justicia, en los términos del Artículo 111 de la Constitución General de la República, el Congreso del Estado, al recibir de la Cámara de Diputados del Congreso de la Unión la declaración correspondiente, procedrá (sic) conforme a sus atribuciones.
 
-VIII. Las demás que determinen esta Ley, sus reglamentos y la Secretaría de Salud del Gobierno Federal.
+> <small>(REFORMADO, B.O. 9 DE ABRIL DE 1984)</small>
 
-###### ARTÍCULO 147.
+La responsabilidad por delitos cometidos durante el tiempo del encargo por cualquier servidor público, será exigible de acuerdo con los plazos de prescripción consignados en la Legislación Penal.
 
-las autoridades no sanitarias cooperarán en el ejercicio de la acción para combatir las enfermedades transmisibles, estableciendo las medidas que estimen necesarias, sin contravenir las disposiciones de la Ley General de Salud, las que expida el Consejo de Salubridad General y las NOMs que dicte la Secretaría de Salud del Gobierno Federal.
+> <small>(REFORMADO, B.O. 9 DE ABRIL DE 1984)</small>
 
-###### ARTÍCULO 148.
+###### Artículo 147.
 
-Los profesionales, técnicos y auxiliares de la salud, al tener conocimiento de un caso de enfermedad transmisible, deberán tomar las medidas necesarias, de acuerdo con la naturaleza y características del padecimiento, aplicando los recursos a su alcance para proteger la salud individual y colectiva.
+Las normas sobre responsabilidades administrativas de los servidores públicos del Estado y de los Municipios, determinarán con claridad las conductas que lesionen la legalidad, honradez, lealtad, imparcialidad y eficiencia en el servicio, así como los procedimientos, las sanciones y las autoridades que deban aplicarlas.
 
-###### ARTÍCULO 149.
+También señalará los casos de prescripción de la responsabilidad administrativa, tomando en cuenta la naturaleza y consecuencias de los actos u omisiones de que se trate. Cuando el hecho fuese grave, la prescripción no será inferior a tres años.
 
-Los trabajadores de la salud del Gobierno Estatal y de los municipios así como de otras instituciones autorizadas por las autoridades del Estado, por necesidades técnicas de los programas específicos de prevención y control de enfermedades y por situaciones que pongan en peligro la salud de la población, podrán acceder al interior de todo tipo de local o casa habitación para el cumplimiento de actividades encomendadas a su responsabilidad, para cuyo fin deberán estar debidamente acreditados y provistos de mandamiento escrito, fundado y motivado, por alguna de las autoridades sanitarias competentes, en los términos de las disposiciones aplicables.
+> <small>(REFORMADO, B.O. 9 DE ABRIL DE 1984)</small>
 
-###### ARTÍCULO 150.
+###### Artículo 148.
 
-Quedan facultadas las autoridades sanitarias competentes para utilizar como elementos auxiliares en la lucha contra las epidemias, todos los recursos médicos y de asistencia social de los sectores público, social y privado existentes en las regiones afectadas y en las colindantes, de acuerdo con las disposiciones de la Ley General de Salud y los reglamentos aplicables.
+Los procedimientos para la aplicación de las sanciones mencionadas en el presente Título, se desarrollarán autónomamente. No podrán imponerse dos veces por una sola conducta, sanciones de la misma naturaleza.
 
-###### ARTÍCULO 151.
+Cualquier ciudadano, bajo su más estricta responsabilidad, y con apoyo en pruebas suficientes, podrá formular denuncias ante el Congreso del Estado o las autoridades competentes, por cualquiera de las conductas y contra los servidores públicos a que se refiere este Título.
 
-Las autoridades sanitarias del Estado señalarán el tipo de enfermos o portadores de gérmenes que podrán ser excluidos de los sitios de reunión tales como: hoteles, restaurantes, fábricas, talleres, reclusorios, oficinas, escuelas, dormitorios, habitaciones colectivas, centros de espectáculos y deportivos, así como cualquier otro que ponga en riesgo la salud de la población.
+> <small>(REFORMADO, B.O. 9 DE ABRIL DE 1984)</small>
 
-###### ARTÍCULO 152.
+Artículo 148 A. No se requerirá declaración de procedencia del Congreso del Estado, cuando alguno de los servidores públicos a que se refiere el primer párrafo del Artículo 146 cometa un delito durante el tiempo en que se encuentre separado de su encargo por cualquier causa, ni cuando se trate de demandas de orden civil.
 
-El aislamiento de las personas que padezcan enfermedades transmisibles, se llevará a cabo en sitios adecuados a juicio de las autoridades sanitarias.
+Si el servidor público ha vuelto a desempeñar sus funciones propias o ha sido nombrado o electo para desempeñar otro cargo distinto, pero de los enumerados en el primer párrafo del Artículo 146, se procederá de acuerdo con lo dispuesto en dicho precepto.
 
-###### ARTÍCULO 153.
+> <small>(REFORMADO, B.O. 9 DE ABRIL DE 1984)</small>
 
-Las autoridades sanitarias del Estado podrán ordenar, por causa de epidemia o peligro de transmisión de cualquiera de las enfermedades a que alude el artículo 143 de esta Ley, la suspensión de actividades o clausura, en su caso, de los locales o centros de reunión de cualquier índole.
+Artículo 148 B. Los servidores públicos a que se refiere este Título, serán responsables del cumplimiento de las bases establecidas en el Artículo 150 de esta Constitución.
 
-###### ARTÍCULO 154.
+###### Artículo 149.
 
-El transporte de enfermos de afecciones transmisibles deberá efectuarse en vehículos acondicionados al efecto; a falta de éstos, podrán utilizarse los que autorice la autoridad sanitaria. Los mismos podrán usarse posteriormente para otros fines, previa la aplicación de las medidas que procedan.
+Por ningún motivo podrán subastarse las contribuciones del Estado o del Municipio.
 
-###### ARTÍCULO 155.
+> <small>(REFORMADO, B.O. 22 DE DICIEMBRE DE 1983)</small>
 
-La Secretaría y el Organismo determinarán los casos en que se deba proceder a las (sic) descontaminación microbiana o parasitaria, desinfección, desinfectación, desinfestación, u otras medidas de saneamiento de lugares, edificios, vehículos y objetos.
+###### Artículo 150.
+
+Los recursos económicos de que disponga el Gobierno del Estado, así como sus respectivas administraciones públicas paraestatales, se administrarán con eficiencia y honradez para cumplir los objetivos y programas a los que estén destinados.
+
+Las adquisiciones, arrendamientos y enajenaciones de todo tipo de bienes, prestación de servicios de cualquier naturaleza y la contratación de obra que realicen, se adjudicarán o llevará a cabo a través de licitaciones públicas mediante convocatoria pública para que libremente se presenten proposiciones solventes en sobre cerrado, que será abierto públicamente, a fin de asegurar al Estado las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes.
+
+Cuando las licitaciones a que hace referencia el párrafo anterior no sean idóneas para asegurar dichas condiciones, las leyes establecerán las bases, procedimiento, reglas, requisitos y demás elementos para acreditar la economía, eficacia, imparcialidad y honradez que aseguren las mejores condiciones para el Estado.
+
+El manejo de recursos económicos estatales se sujetará a las bases de esta Constitución.
+
+> <small>(ADICIONADO, B.O. 5 DE MAYO DE 1954)</small>
+
+Artículo 150 A. En el Estado las mujeres tienen los mismos derechos civiles y políticos que los hombres; podrán ser electas y tendrán derecho a voto en cualquier elección, siempre que reúnan los requisitos que señala la Ley.
+
+> <small>(ADICIONADO, B.O. 30 DE ENERO DE 1984)</small>
+
+Artículo 150 B. La imposición de las penas es propia y exclusiva de la autoridad judicial. La persecución de los delitos incumbe al Ministerio Público y a la Policía Judicial del Estado, la cual estará bajo la autoridad y mando inmediato de aquél. Compete a la Autoridad Administrativa del Gobierno Estatal y a los Ayuntamientos, la aplicación de sanciones por las infracciones a los reglamentos gubernativos y de policía, que consistirán únicamente en multa o arresto hasta por treinta y seis horas. Si el infractor fuese jornalero, obrero o trabajador, no podrá ser sancionado con multa mayor del importe de su jornal o salario de un día. La multa impuesta a los trabajadores no asalariados no excederá del equivalente a un día de su ingreso.
+
+###### Artículo 151.
+
+Ningún individuo debe desempeñar dos cargos de elección popular; pero el electo puede escoger entre ellos el que más le convenga.
+
+###### Artículo 152.
+
+Jamás podrán reunirse en una persona dos encargos por los que se disfrute sueldo o remuneración; excepto en los ramos de Instrucción y Beneficencia Públicas, ya se consideren sólos o unidos a otro ramo.
+
+###### Artículo 153.
+
+Todo funcionario y empleado público recibirá una compensación por sus servicios, que será determinada por la Ley. Esta compensación no es renunciable.
+
+###### Artículo 154.
+
+El aumento de las dietas de los Diputados no tendrá efecto en el período de la Legislatura que lo hubiere decretado.
+
+###### Artículo 155.
+
+Los cargos o empleos públicos no son, ni pueden ser en el Estado, propiedad o patrimonio de quien los ejerza, ni podrán desempeñarse por personas que no sepan leer y escribir.
+
+> <small>(REFORMADO, B.O. 30 DE ENERO DE 1984)</small>
 
 ### CAPÍTULO I. PROGRAMA CONTRA EL ALCOHOLISMO Y EL ABUSO DE BEBIDAS ALCOHÓLICAS
 
-###### ARTÍCULO 156.
+###### Artículo 156.
 
-La Secretaría y el Organismo realizarán las actividades de prevención y control de las enfermedades no transmisibles.
+Toda persona adquiere la vecindad si reside de manera efectiva, durante dos años en algún lugar del territorio del Estado y ejerce alguna profesión, arte, industria, empleo o actividad productiva y honorable.
 
-###### ARTÍCULO 157.
+> <small>(REFORMADO, B.O. 10 DE ENERO DE 1985)</small>
 
-El ejercicio de la acción de prevención y control de las enfermedades no transmisibles, comprenderá una o más de las siguientes medidas, según el caso de que se trate:
+Quienes teniendo la residencia y vecindad se ausentaren del lugar de su residencia para desempeñar cargos de elección popular, siempre y cuando ejerzan precisamente el mandato conferido por el pueblo, o para prestar o desempeñar cargos conferidos por el Gobierno Federal o Estatal, según el caso, o cargos de representación gremial o sindical, no perderán los beneficios de la mencionada vecindad y residencia efectiva para los efectos de los Artículos 9o. Fracción II, 33 Fracción III, 114 Fracción I y 132 Fracción II de esta Constitución.
 
-I. La detección oportuna de las enfermedades no transmisibles y la evaluación del riesgo de contraerlas;
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
-II. La divulgación de medidas higiénicas para el control de los padecimientos;
+###### Artículo 157.
 
-III. La prevención específica en cada caso y la vigilancia de su cumplimiento;
+Todo funcionario o empleado público, tiene el deber de protestar antes de encargarse de sus funciones, en la forma siguiente: La autoridad que deba recibir la protesta dirá: "Protestáis guardar y hacer guardar la Constitución de los Estados Unidos Mexicanos, la Constitución del Estado, las leyes que de ellas emanen, y cumplir leal y patrióticamente el cargo de ………. que el pueblo (o la autoridad que lo confiere) os ha conferido, mirando en todo por el bien y prosperidad de la Nación y del Estado?" -El interpelado contestará: "Sí protesto". Acto contínuo dirá la persona ante quien se otorga la protesta: "Si no lo hiciéreis así la Nación y el Estado os lo demanden".
 
-IV. La realización de estudios epidemiológicos; y
+###### Artículo 158.
 
-V. Las demás que sean necesarias para la prevención, tratamiento y control de los padecimientos que se presenten en la población.
+Será motivo de responsabilidad el hecho de que las autoridades, funcionarios o empleados del Estado o de los Municipios, ejecuten en perjuicio de tercero o de la Sociedad, actos que no les están mandados o permitidos expresamente por la Ley.
 
-###### ARTÍCULO 158.
-
-Los profesionales, técnicos y auxiliares de la salud deberán rendir los informes que la autoridad sanitaria requiera acerca de las enfermedades no transmisibles, en los términos de los reglamentos que al efecto se expidan.
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
 ### CAPÍTULO II. PROGRAMA CONTRA EL TABAQUISMO
 
 ### CAPÍTULO III. PROGRAMA CONTRA LA FÁRMACO-DEPENDENCIA
 
-###### ARTÍCULO 159.
+###### Artículo 159.
 
-Las acciones en materia de prevención y control de accidentes comprenden:
+En el caso de la fracción V del artículo 76 de la Constitución General de la República, asumirá el Poder Ejecutivo cualquiera de las personas siguientes en el orden de su enumeración:
 
-I. El conocimiento de las causas más usuales que generan accidentes;
+I. El Presidente de la Diputación Permanente que intervino en la instalación de la Legislatura desaparecida.
 
-II. La adopción de medidas de seguridad personal y para prevenir accidentes;
+II. El último Presidente del Supremo Tribunal inmediatamente anterior al desaparecido.
 
-III. El desarrollo de la investigación para la prevención de los mismos;
+III. El último Secretario de Gobierno del régimen inmediatamente anterior al desaparecido.
 
-IV. El fomento dentro de los programas de educación para la salud, de la orientación a la población para la prevención de accidentes;
+Cuando la desaparición ocurriere durante los dos primeros años del período constitucional, la persona que asuma el Poder Ejecutivo convocará desde luego a elecciones de Gobernador y de Diputados, sujetándose a la forma y términos prescritos por esta Constitución, y designará con carácter provisional a los Magistrados del Supremo Tribunal de Justicia. Cuando dicha desaparición sobreviniere durante los cuatro últimos años del período, el que asuma el Poder Ejecutivo convocará a elecciones de Diputados y nombrará con carácter provisional a los Magistrados del Supremo Tribunal de Justicia.
 
-V. La atención de los padecimientos que se produzcan como consecuencia de ellos;
+La instalación de la Legislatura, en uno y otro caso, la hará la última Diputación Permanente, la cual será presidida por el Vice-Presidente de la misma si su Presidente hubiere asumido el Poder Ejecutivo de conformidad con este artículo. Los Magistrados del Supremo Tribunal, nombrados con carácter provisional, seguirán en funciones entre tanto aprueba el Congreso los nombramientos de Propietarios, que deberá someterle el Ejecutivo a más tardar dentro de treinta días contados a partir de la instalación de la Legislatura. Quien asumiere el Poder Ejecutivo en los casos de este Artículo dictará todas aquellas medidas estrictamente indispensables para la buena marcha de la Administración Pública.
 
-VI. La promoción de la participación de la comunidad en la prevención de accidentes; y
-
-VII. La capacitación y actualización continua de los trabajadores de la salud para la atención y prevención de accidentes.
-
-Para la mayor eficacia de las acciones a las que se refiere este artículo, se creará el Consejo Estatal para la Prevención de Accidentes del que formarán parte representantes de los sectores público, social y privado del Estado conforme lo disponga el Consejo se coordinará con el Consejo Nacional para la Prevención de Accidentes, dentro del marco de los Sistemas Nacional y Estatal de Salud y el reglamento de la presente ley.
+En el segundo de los casos mencionados, la persona que asuma el Poder Ejecutivo comunicará al Ejecutivo Federal la situación que prevalece para que se dé cumplimiento a la designación, por parte del Senado, de Gobernador substituto Constitucional, mediante terna que para tal efecto le enviará el Presidente de la República, de conformidad con la fracción V del artículo 76 de la Constitución Federal.
 
 ## TÍTULO DÉCIMO. PROGRAMA CONTRA LAS ADICCIONES
 
 ### CAPÍTULO ÚNICO
 
-###### ARTÍCULO 160.
+###### Artículo 160.
 
-La Secretaría y el Organismo, se coordinarán con las autoridades sanitarias federales para la ejecución en el Estado del programa contra el alcoholismo y el abuso de bebidas alcohólicas que comprenderá, entre otras, las siguientes acciones:
+Los Tribunales del Estado se arreglarán a la Constitución General y al presente Código, no obstante las disposiciones en contrario que pueda haber en las demás leyes del Estado.
 
-I. La prevención y tratamiento de las personas con problemas de alcoholismo y, en su caso, la rehabilitación de las mismas;
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
-II. La educación sobre los efectos del alcohol en la salud y en las relaciones sociales, dirigida especialmente a la infancia y personas obreras y campesinas, a través de métodos individuales, sociales y de comunicación masiva; y
+###### Artículo 161.
 
-III. El fomento de actividades cívicas, deportivas y culturales que coadyuven en la lucha contra el alcoholismo, especialmente en zonas vulnerables y en grupos de población considerados de alto riesgo.
+Ningún funcionario o empleado en ejercicio podrá ser representante, apoderado, o abogado en negocios ajenos ante los tribunales ni ante las demás autoridades públicas.
 
-###### ARTÍCULO 161.
+La prohibición anterior se entiende impuesta a los magistrados suplentes cuando estén en ejercicio por un plazo mayor de dos meses.
 
-Para obtener la información que oriente las acciones contra el alcoholismo y el abuso de bebidas alcohólicas, las autoridades sanitarias del Estado, en coordinación con otras dependencias y entidades públicas realizarán actividades de investigación en los siguientes aspectos:
-
-I. Causas del alcoholismo y acciones para controlarlas;
-
-II. Efectos de la publicidad y su incidencia en el alcoholismo y en los problemas relacionados con el consumo de bebidas alcohólicas;
-
-III. Hábitos de consumo de alcohol en los diferentes grupos de población;
-
-IV. Efectos del abuso de bebidas alcohólicas en los ámbitos familiar, social, educativo, laboral, deportivo y de espectáculos; y
-
-V. Los demás casos que ameriten su estudio y análisis.
+> <small>(REFORMADO, B.O. 24 DE JUNIO DE 1942)</small>
 
 ### CAPÍTULO I. DE LA DONACIÓN DE ÓRGANOS
 
-###### ARTÍCULO 162.
+###### Artículo 162.
 
-La Secretaría y el Organismo se coordinarán con las autoridades sanitarias federales para la ejecución en el Estado del Programa Contra el Tabaquismo que comprenderá entre otras, las siguientes acciones:
+Los Funcionarios y Empleados del Estado y Municipales de las poblaciones fronterizas tienen la obligación de residir en territorio sonorense. La no observancia de esta disposición significa para el contraventor la pérdida de su cargo o empleo.
 
-I. La investigación de las causas del tabaquismo;
+###### Artículo 162 Bis.
 
-II. La prevención y el tratamiento de padecimientos originados por el tabaquismo;
+(DEROGADO, B.O. 5 DE MAYO DE 1954)
 
-III. La educación sobre los efectos del tabaquismo en la salud, dirigida especialmente a la familia, niños y adolescentes a través de métodos individuales, colectivos y de comunicación masiva, incluyendo la orientación a la población para que se abstenga de fumar en lugares públicos;
+Artículo 162 A. (DEROGADO, B.O. 5 DE AGOSTO DE 1964)
 
-IV. La prohibición de fumar en el interior de los edificios públicos, con excepción de las áreas reservadas que deberán destinarse para los fumadores;
-
-V. Reglamentación para el control del consumo del tabaco; y
-
-VI. Las demás que determinen las autoridades competentes.
+Artículo 162 C. (DEROGADO, B.O. 5 DE MAYO DE 1954)
 
 ### CAPÍTULO II. CONTROL SANITARIO DE LA DISPOSICIÓN DE SANGRE HUMANA
 
-###### ARTÍCULO 163.
+###### Artículo 163.
 
-La Secretaría y el Organismo, realizarán acciones coordinadas con la Secretaría de Salud del Gobierno Federal en la ejecución, en el territorio del Estado, del programa nacional contra la fármaco dependencia, en los términos del acuerdo de coordinación que al efecto celebren ambos órdenes de Gobierno.
+Esta Constitución puede ser adicionada o reformada. Para que las adiciones o reformas lleguen a ser parte de la misma, se requiere que hayan sido acordadas por las dos terceras partes de los miembros de un Congreso y aprobadas por la mayoría del número total de los Ayuntamientos del Estado.
 
-###### ARTÍCULO 164.
+###### Artículo 164.
 
-El Gobierno del Estado y los Municipios, para evitar y prevenir el consumo de sustancias inhalantes que produzcan efectos psicotrópicos en las personas, se ajustarán a lo siguiente:
+Esta Constitución no perderá su fuerza y vigor aún cuando por alguna rebelión se interrumpa su observancia. En caso de que por cualquier trastorno público se establezca un nuevo Gobierno contrario a los principios que ella sanciona, tan luego como el pueblo recobre su libertad, se restablecerá su observancia y con arreglo a ella y a las leyes que por su virtud se hubieren expedido, serán juzgados así los que hubieren figurado en el Gobierno emanado de la rebelión, como los que hubieren cooperado a ella.
 
-I. Determinarán y ejercerán medidas de control en el expendio de sustancias inhalantes, para prevenir su consumo por parte de menores de edad e incapaces; instrumentando sistemas de vigilancia en los establecimientos destinados al expendio y uso de estas sustancias para evitar el empleo indebido de las mismas;
+###### Artículo 165.
 
-II. Apoyarán la atención médica de las personas que consuman o hayan consumido drogas y enervantes;
+Las Leyes Fundamentales no necesitan la sanción del Poder Ejecutivo.
 
-III. Promoverán y llevarán a cabo campañas permanentes de información y orientación al público para la prevención de daños a la salud provocados por el consumo de sustancias inhalantes; y
+## TRANSITORIOS
 
-IV. Promoverán el aviso ciudadano a las autoridades municipales o estatales de la existencia, circulación, distribución o venta de drogas o enervantes. Las autoridades deberán de inmediato informar de los hechos a la Procuraduría General de la República.
+###### Artículo 1.
 
-###### ARTÍCULO 165.
+La presente Constitución será promulgada por bando solemne, en esta Villa, el diez y seis de Septiembre y en las demás poblaciones del Estado el doce de Octubre próximo, siendo protestada por todos los funcionarios y empleados públicos del Estado y Municipios el mismo día de su promulgación general, entrando en vigor desde esa fecha como Ley Suprema del Estado.
 
-A los establecimientos que vendan o utilicen substancias inhalantes o ingeribles con efectos psicotrópicos que no se ajusten a las medidas de control establecidas por el gobierno estatal y los Ayuntamientos, se les aplicarán las sanciones administrativas que correspondan en los términos de esta Ley.
+###### Artículo 2.
+
+Las Leyes, Decretos, Circulares y Disposiciones de observancia general, que se han estado aplicando hasta hoy, continuarán en vigor, en todo aquello en que no contravengan a esta Constitución.
+
+###### Artículo 3.
+
+El período actual del Ejecutivo terminará el treinta y uno de Agosto de mil novecientos diez y nueve; el de los Diputados al Congreso, el quince de Septiembre del mismo año y el de los Magistrados y Procurador General de Justicia, cuando los nuevamente electos tomen posesión de sus cargos dentro del mes de Octubre próximo.
+
+###### Artículo 4.
+
+Para los efectos de la parte final del Artículo anterior, la disposición relativa al período en que deben durar los Magistrados y Procurador General de Justicia, entrará en vigor desde la promulgación en esta Villa de la presente Constitución.
+
+###### Artículo 5.
+
+Los actuales Ayuntamientos durarán hasta el treinta y uno de Diciembre del año en curso; los inmediatos siguientes funcionarán desde el primero de Enero al quince de Septiembre de mil novecientos diez y ocho y de allí en adelante comenzará cada período el diez y seis de Septiembre.
+
+###### Artículo 6.
+
+Las próximas elecciones de Magistrados al Supremo Tribunal y de Procurador General de Justicia, por esta vez, se efectuarán en la segunda quincena de Octubre próximo, sin necesidad de la propuesta de candidatos por los Ayuntamientos.
+
+DADO EN EL SALON DE SESIONES del Congreso Constituyente de Sonora, en la Villa de Magdalena, a los quince días del mes de Septiembre de mil novecientos diez y siete.
+
+PRESIDENTE, Clodoveo Valenzuela, Diputado Propietario por el Octavo Distrito Electoral.- VICE-PRESIDENTE, G. Corella, Diputado Propietario por el Segundo Distrito Electoral.- José Ma. V. Lizárraga, Diputado Propietario por el Primer Distrito Electoral.- F R. González, Diputado Suplente por el Cuarto Distrito Electoral.- A. R. Romo, Diputado Propietario por el Quinto Distrito Electoral.- Rosendo L. Galaz, Diputado Propietario por el Sexto Distrito Electoral.- J. E. León, Diputado Suplente por el Séptimo Distrito Electoral.- Alonso G. González, Diputado Propietario por el Noveno Distrito Electoral.- Vicente Rivera, Diputado Propietario por el Undécimo Distrito Electoral.- José Tirado, Diputado Propietario por el Décimo Tercero Distrito Electoral.- José A. Castro, Diputado Propietario por el Décimo Cuarto Distrito Electoral.- Ventura G. Tena, Diputado Propietario por el Décimo Quinto Distrito Electoral.- PRIMER SECRETARIO, Ant. G. Ribera, Diputado Propietario por el Décimo Distrito Electoral.- SEGUNDO SECRETARIO, A. Trujillo, Diputado Propietario por el Duodécimo Distrito Electoral.- SECRETARIO SUPLENTE, M. Othón, Diputado Propietario por el Tercer Distrito Electoral.
+
+Por tanto, mando se imprima, publique y circule para su debido cumplimiento.
+
+Dado en el Palacio del Poder Ejecutivo del Estado, en Magdalena, a los diez y seis días del mes de septiembre de mil novecientos diez y siete.
+
+C. G. Soriano.
+
+EL O. M. E. DEL D.,
+
+S. Sandoval.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE CONSTITUCION.</small>
+
+B.O. 19 DE DICIEMBRE DE 1923.
+
+Unico.- Esta Ley entrará en vigor desde la fecha de su publicación en el Boletín Oficial del Estado.
+
+B.O. 29 DE DICIEMBRE DE 1923.
+
+PRIMERO.- Los Comisarios de Policía y los Ayuntamientos que resulten electos el último domingo de abril de 1924, durarán en funciones hasta el 15 de septiembre de 1925, y en los períodos siguientes tendrán la duración que señala la Constitución Política Local.
+
+SEGUNDO.- Sometanse las reformas que anteceden a la aprobación de los H. H. Ayuntamientos del Estado para los efectos legales correspondientes.
+
+TERCERO.- Esta Ley entrará en vigor cuando sea aprobada por la mayoría de los H. H. Ayuntamientos del Estado y previa publicación en el Boletín Oficial.
+
+B.O. 19 DE ABRIL DE 1924.
+
+Primeros (sic).- Los Comisarios de Policía y los Ayuntamientos que resulten electos el último domingo de abril de 1924, durarán en funciones hasta el 15 de septiembre de 1925, y en los períodos siguientes tendrán la duración que señala la Constitución Política Local.
+
+Segundo.- Sométanse las reformas que anteceden a la aprobación de los H H. Ayuntamientos del Estado para los efectos legales correspondientes.
+
+Tercero.- Esta Ley entrará en vigor cuando sea aprobada por la mayoría de los H. H. Ayuntamientos del Estado y previa publicación en el Boletín Oficial.
+
+B.O. 11 DE DICIEMBRE DE 1926.
+
+Primero.- Solamente la próxima renovación de Presidentes Municipales de los actuales Ayuntamientos que debe efectuarse en el mes de marzo de mil novecientos veintisiete, se sujetará a lo dispuesto por el artículo 134 que figura en la Ley número 29 de 11 de diciembre de 1923.
+
+Segundo.- Esta Ley entrará en vigor desde la fecha de su publicación en el Boletín Oficial del Estado.
+
+B.O. 25 DE ABRIL DE 1928.
+
+UNICO.- Esta Ley entrará en vigor desde la fecha de su publicación en el Boletín Oficial del Estado.
+
+B.O. 4 DE AGOSTO DE 1928.
+
+UNICO. Esta Ley principiará a surtir sus efectos desde la fecha de su publicación en el Boletín Oficial del Estado.
+
+B.O. 24 DE OCTUBRE DE 1928.
+
+Unico.- La reforma al artículo 31 de la expresada Constitución entrará en vigor al verificarse las elecciones de Diputados para el próximo período constitucional, y las demás, así como el Artículo 65 bis adicionado, cuando los electos entren legalmente en funciones.
+
+B.O. 27 DE ABRIL DE 1932.
+
+Unico.- Esta Ley entrará en vigor a partir de la fecha de su publicación en el Boletín Oficial del Estado.
+
+B.O. 28 DE SEPTIEMBRE DE 1932.
+
+UNICO.- Esta Ley entrará en vigor a partir de la fecha de su publicación en el Boletín Oficial del Estado.
+
+B.O. 5 DE OCTUBRE DE 1932.
+
+UNICO.- Las reformas a los artículos 132, 134 y 134 Bis de la expresada Constitución entrará en vigor al verificarse las elecciones de Ayuntamiento para el próximo período constitucional.
+
+B.O. 28 DE ABRIL DE 1934.
+
+UNICO.- Esta Ley entrará en vigor a partir de la fecha de su publicación en el Boletín Oficial del Estado.
+
+B.O. 17 DE JULIO DE 1937.
+
+UNICO.- Esta Ley entrará en vigor a partir de la fecha de su publicación en el Boletín Oficial del Estado.
+
+B.O. 29 DE DICIEMBRE DE 1937.
+
+UNICO.- Esta Ley entrará en vigor a partir de la fecha de su publicación en el Boletín Oficial del Estado.
+
+B.O. 29 DE ABRIL DE 1939.
+
+LEY No. 112, QUE REFORMA EL ARTICULO 66 DE LA CONSTITUCION.
+
+UNICO. Esta Ley estará en vigor desde la fecha de su publicación en el Boletín Oficial del Estado.
+
+B.O. 29 DE ABRIL DE 1939.
+
+LEY No. 113, QUE MODIFICA DIVERSOS ARTICULOS DE LA CONSTITUCION.
+
+Unico.- Esta Ley entrará en vigor desde la fecha de su publicación en el Boletín Oficial del Estado.
+
+B.O. 15 DE ENERO DE 1941.
+
+UNICO.- Esta Ley entrará en vigor a partir del día 14 del mes actual, previa su publicación en el Boletín Oficial del Estado.
+
+B.O. 24 DE JUNIO DE 1942.
+
+UNICO.- Esta Ley entrará en vigor a partir de su publicación en el Boletín Oficial del Estado.
+
+B.O. 24 DE FEBRERO DE 1943.
+
+UNICO.- Esta Ley entrará en vigor a partir de su publicación en el Boletín Oficial del Estado.
+
+B.O. 11 DE OCTUBRE DE 1947.
+
+Unico.- Esta Ley entrará en vigor a partir de la fecha de su publicación en el Boletín Oficial del Estado.
+
+B.O. 20 DE ABRIL DE 1949.
+
+Unico.- Esta Ley entrará en vigor a partir de la fecha de su publicación en el Boletín Oficial del Estado.
+
+B.O. 29 DE JUNIO DE 1949.
+
+Unico.- Esta Ley entrará en vigor a partir de la fecha de su publicación en el Boletín Oficial del Estado.
+
+B.O. 5 DE ABRIL DE 1952.
+
+LEY No. 121, QUE ADICIONA EL ARTICULO 129 DE LA CONSTITUCION.
+
+Unico.- Esta Ley entrará en vigor a partir de la fecha de su publicación en el Boletín Oficial del Estado.
+
+B.O. 5 DE ABRIL DE 1952.
+
+LEY No. 122, QUE REFORMA DIVERSOS ARTICULOS DE LA CONSTITUCION.
+
+Primero.- Tan luego como entre en vigor la presente Ley, el Congreso del Estado hará la elección de los dos nuevos Magistrados que en la misma se establecen, correspondientes a las Salas Cuarta y Quinta.
+
+Segundo.- Esta Ley empezará a regir desde el día de su publicación en el Boletín Oficial del Estado.
+
+B.O. 5 DE MAYO DE 1954.
+
+PRIMERO.- Los Magistrados del Supremo Tribunal de Justicia electos para el período 1953-1957 continuarán en funciones hasta la conclusión de sus respectivos períodos.
+
+SEGUNDO.- El Procurador General de Justicia electo para el período 1953-1957 continuará en funciones hasta la conclusión de dicho período.
+
+TERCERO.- Los Comisarios de Policía que al entrar en vigor las presentes reformas se encuentren en funciones, seguirán desempeñando su cargo hasta la terminación del período para el cual fueron electos.
+
+CUARTO.- Para los efectos del Artículo 31 reformado de esta Constitución y mientras se expidan las leyes que los determinen, se tendrán como Distritos electorales las actuales divisiones en la forma en que las establece la vigente Ley Orgánica Electoral del Estado.
+
+QUINTO.- Los preceptos que establecen los requisitos necesarios para los funcionarios públicos de elección popular directa o de elección indirecta, no son aplicables a los electos últimamente.
+
+SEXTO.- Entre tanto se expidan las Leyes Orgánicas y Reglamentarias relativas o las reformas que deban introducirse en las Leyes y Decretos actualmente vigentes, continuarán rigiendo dichos Ordenamientos en todo lo que no se opongan a la presente Constitución.
+
+SEPTIMO.- La presente Ley entrará en vigor el día 5 de mayo de 1954, previa su publicación en el Boletín Oficial del Estado.
+
+B.O. 20 DE JUNIO DE 1956.
+
+UNICO.- Esta Ley entrará en vigor a partir de la fecha de su publicación en el Boletín Oficial del Estado.
+
+B.O. 14 DE AGOSTO DE 1957.
+
+UNICO.- Esta Ley entrará en vigor a partir de la fecha de su publicación en el Boletín Oficial del Estado.
+
+B.O. 21 DE MAYO DE 1960.
+
+UNICO.- Las presentes reformas entrarán en vigor a partir de su publicación en el Boletín Oficial del Estado.
+
+B.O. 18 DE ABRIL DE 1964.
+
+UNICO.- La presente Ley entrará en vigor cinco días después de su publicación en el Boletín Oficial del Estado.
+
+B.O. 5 DE AGOSTO DE 1964.
+
+LEY No. 92, QUE DEROGA EL ARTICULO 162-A DE LA CONSTITUCION.
+
+UNICO.- La presente Ley entrará en vigor a partir de la fecha de su publicación en el Boletín Oficial del Estado.
+
+B.O. 5 DE AGOSTO DE 1964.
+
+LEY No. 93, QUE REFORMA DIVERSOS ARTICULOS DE LA CONSTITUCION.
+
+UNICO.- La presente Ley entrará en vigor a partir de la fecha de su publicación en el Boletín Oficial del Estado.
+
+B.O. 11 DE AGOSTO DE 1965.
+
+UNICO.- La presente Ley entrará en vigor a partir de la fecha de su publicación en el Boletín Oficial del Estado.
+
+B.O. 8 DE FEBRERO DE 1967.
 
 ## TÍTULO DÉCIMO PRIMERO. PUBLICIDAD EN MATERIA DE SALUD
 
@@ -2937,80 +3425,302 @@ Los interesados podrán hacer valer la prescripción por vía de excepción. La 
 
 T R A N S I T O R I O S :
 
-###### ARTÍCULO PRIMERO.
+###### ARTICULO PRIMERO.
 
-Esta Ley entrará en vigor al tercer día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+Para el presente período gubernamental, que terminará el día 31 de agosto de 1967, el actual Gobernador deberá rendir su último Informe de Gobierno, ante el Congreso del Estado, el día 25 de agosto del mismo año, en sesión especial que para ese efecto se celebre.
 
-###### ARTÍCULO SEGUNDO.
+###### ARTICULO SEGUNDO.
 
-Se abroga la Ley de Salud del Estado de Durango, publicada en el Periódico Oficial del Estado No. 12 de fecha ocho de febrero de mil novecientos ochenta y siete.
+Por esta sola ocasión, el Congreso del Estado designará a un Gobernador Provisional, para que con tal carácter se haga cargo del Poder Ejecutivo a partir del día 1o. de septiembre de 1967 y cubra el período comprendido entre esta fecha y el día 13 del mismo mes y año, hasta el acto de la toma de posesión y protesta del ciudadano que resulte electo como Gobernador Constitucional en los comicios que habrán de celebrarse en julio del presente año.
 
-###### ARTÍCULO TERCERO.
+###### ARTICULO TERCERO.
 
-Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
+La presente Ley entrará en vigor a partir de la fecha de su publicación en el Boletín Oficial del Estado.
 
-###### ARTÍCULO CUARTO.
+B.O. 24 DE SEPTIEMBRE DE 1969.
 
-Dentro de un término de 120 días deberá elaborarse por conducto de la Secretaría y el Organismo, el reglamento de la presente Ley.
+###### ARTICULO CUARTO.
 
-###### ARTÍCULO QUINTO.
+El Congreso del Estado designará a un Gobernador Provisional, para que con tal carácter se haga cargo del Poder Ejecutivo, a partir del 13 de septiembre de 1991 y hasta el día 21 de octubre del mismo año.
 
-En tanto se expidan las disposiciones administrativas derivadas de esta Ley, seguirán en vigor las que rigen actualmente en lo que no la contravengan.
+###### ARTICULO QUINTO.
 
-###### ARTÍCULO SEXTO.
+Los ayuntamientos electos para el período constitucional de 1985 a 1988, así como los que se elijan para el período de 1988 a 1991, rendirán, por conducto de sus Presidentes Municipales, un informe anual detallado sobre el estado que guarden los asuntos municipales, el día 15 de septiembre de cada año. Dicho informe será comunicado por escrito al Gobernador del Estado y al Congreso del Estado.
 
-Las autorizaciones sanitarias expedidas con anterioridad a la vigencia de la presente Ley, se considerarán otorgadas por tiempo indeterminado, con las excepciones que establezca la presente Ley.
+###### ARTICULO SEXTO.
 
-El Ciudadano Gobernador Constitucional del Estado dispondrá se publique, circule y observe.
+La LI y LII, Legislaturas del Congreso del Estado, tendrán dos períodos de sesiones ordinarias en el año. El primero comenzará el 16 de septiembre y terminará el 15 de diciembre y el segundo comprenderá desde el 1o. de abril hasta el último de junio; ambos períodos pueden ser prorrogables.
 
-Dado en el Salón de Sesiones del Honorable Congreso del Estado, en Victoria de Durango, Dgo., a los (5) cinco días del mes de julio del año (2002) dos mil dos.
+###### ARTICULO SEPTIMO.
 
-DIP. OCTAVIANO RENDÓN ARCE
+(DEROGADO, B.O. 30 DE AGOSTO DE 1990)
 
-PRESIDENTE.
+B.O. 17 DE MARZO DE 1988.
 
-DIP. RENÉ CARREÓN GÓMEZ
+###### ARTICULO PRIMERO.
 
-SECRETARIO.
+Por excepción y sólo para el caso de las elecciones constitucionales de Gobernador del Estado, que deberán celebrarse el primer domingo de julio de 1973, se reduce a dos años el período de residencia efectiva a que se refiere en primer término la fracción I del artículo 70 que se reforma.
 
-DIP. JOSÉ GUILLERMO HILARIO CANTÚ
+###### ARTICULO SEGUNDO.
 
-SECRETARIO.
+Esta ley entrará en vigor tres días después de su publicación en el Boletín Oficial del Estado.
 
-POR TANTO MANDO SE IMPRIMA, PUBLIQUE, CIRCULE Y COMUNIQUESE A QUIENES CORRESPONDA PARA SU EXACTA OBSERVANCIA.
+B.O. 23 DE DICIEMBRE DE 1972.
 
-DADO EN EL PALACIO DE PODER EJECUTIVO, EN VICTORIA DE DURANGO, DGO., A LOS CINCO DIAS DEL MES DE JULIO DEL DOS MIL DOS.
+UNICO.- Las presentes reformas entrarán en vigor el mismo día de su publicación en el Boletín Oficial del Estado.
 
-EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.
+B.O. 10 DE DICIEMBRE DE 1975.
 
-LIC. ANGEL SERGIO GUERRERO MIER.
+UNICO.- Esta Ley entrará en vigor tres días después de su publicación en el Boletín Oficial del Estado.
 
-EL SECRETARIO GENERAL DE GOBIERNO.
+B.O. 24 DE ENERO DE 1976.
 
-LIC. JOSE MIGUEL CASTRO CARRILLO.
+###### ARTICULO TERCERO.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+Los integrantes de los Ayuntamientos que se elijan para el próximo período constitucional, durarán en funciones del 16 de septiembre de 1988 hasta el 12 de octubre de 1991.
 
-P.O. 29 DE JUNIO DE 2008.
+###### ARTICULO PRIMERO.
 
-###### ARTÍCULO PRIMERO.
+Por esta única vez se prorroga el término para que el Gobernador sustituto del Estado rinda su informe administrativo, hasta el trece de octubre del año en curso, comprendiendo el período del 1o. de febrero de 1975 al 12 de octubre de 1976.
 
-El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+###### ARTICULO SEGUNDO.
 
-###### ARTÍCULO SEGUNDO.
+Esta Ley entrará en vigor tres días después de su publicación en el Boletín Oficial del Estado.
 
-El Decreto por el que se crea la Comisión para la Protección contra Riesgos Sanitarios del Estado de Durango, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, número 2, tomo CCXV, de fecha jueves 06 de julio de 2006; se abrogará hasta en tanto no se expida el Reglamento a que se refiere el artículo Tercero Transitorio del presente, por lo que continuarán en vigor sus disposiciones hasta la publicación del referido Reglamento.
+B.O. 22 DE ENERO DE 1977.
 
-###### ARTÍCULO TERCERO.
+UNICO.- Esta Ley entrará en vigor tres días después de su publicación en el Boletín Oficial del Estado.
 
-Además de las disposiciones previstas en ésta Ley, la organización y distribución de competencias y atribuciones de la Comisión para la Protección contra Riesgos Sanitarios del Estado de Durango, se establecerán en el Reglamento que, para tal efecto expida el Gobernador Constitucional del Estado de Durango.
+B.O. 2 DE FEBRERO DE 1977.
 
-P.O. 4 DE OCTUBRE DE 2009.
+UNICO.- Esta ley entrará en vigor a partir de su publicación en el Boletín Oficial del Estado.
 
-###### ARTÍCULO PRIMERO.
+B.O. 19 DE FEBRERO DE 1977.
 
-El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+UNICO.- Esta ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Estado.
 
-###### ARTÍCULO SEGUNDO.
+B.O. 18 DE JUNIO DE 1977.
 
-En un plazo de 90 días se deberán expedir las disposiciones administrativas derivadas de la reforma y adición a la presente ley.
+UNICO.- Esta ley entrará en vigor a partir de la fecha de su publicación en el Boletín Oficial del Estado.
+
+B.O. 20 DE AGOSTO DE 1977.
+
+UNICO.- Esta ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Estado.
+
+B.O. 26 DE OCTUBRE DE 1977.
+
+UNICO.- Esta ley entrará en vigor a partir del día de su publicación en el Boletín Oficial del Estado.
+
+B.O. 12 DE AGOSTO DE 1978.
+
+###### ARTICULO UNICO.
+
+Las presentes adiciones y reformas entrarán en vigor al día siguiente de su publicación en el Boletín Oficial del Estado.
+
+B.O. 30 DE DICIEMBRE DE 1978.
+
+UNICO.- La presente ley entrará en vigor tres días después de su publicación en el Boletín Oficial del Estado.
+
+B.O. 13 DE ENERO DE 1979.
+
+UNICO.- La presente ley entrará en vigor tres días después de la fecha de su publicación en el Boletín Oficial del Estado.
+
+B.O. 28 DE JULIO DE 1979.
+
+UNICO.- La presente ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Estado.
+
+B.O. 10 DE DICIEMBRE DE 1979.
+
+UNICO.- La presente ley entrará en vigor a partir de la fecha de su publicación en el Boletín Oficial del Estado.
+
+B.O. 24 DE MARZO DE 1980.
+
+###### ARTICULO UNICO.
+
+La presente ley entrará en vigor tres días después de su publicación en el Boletín Oficial del Estado.
+
+B.O. 2 DE JULIO DE 1981.
+
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Estado.
+
+B.O. 3 DE ENERO DE 1983.
+
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 22 DE DICIEMBRE DE 1983.
+
+LEY No. 32, QUE ADICIONA EL CAPITULO TERCERO Y DIVERSOS ARTICULOS DE LA CONSTITUCION.
+
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 22 DE DICIEMBRE DE 1983.
+
+LEY No. 33, QUE REFORMA Y ADICIONA DIVERSOS ARTICULOS DE LA CONSTITUCION.
+
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación e el Boletín Oficial del Gobierno del Estado.
+
+B.O. 30 DE ENERO DE 1984.
+
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 9 DE ABRIL DE 1984.
+
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 11 DE JUNIO DE 1984.
+
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 5 DE JULIO DE 1984.
+
+LEY No. 57, QUE REFORMA LA FRACCION III DEL ARTICULO 136. DE LA CONSTITUCION.
+
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en Boletín Oficial del Gobierno del Estado.
+
+B.O. 5 DE JULIO DE 1984.
+
+LEY No. 59, QUE REFORMA DIVERSOS ARTICULOS DE LA CONSTITUCION.
+
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor al día siguiente de su Publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 10 DE ENERO DE 1985.
+
+LEY No. 97, QUE REFORMA EL ARTICULO 64 DE LA CONSTITUCION.
+
+UNICO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 10 DE ENERO DE 1985.
+
+LEY No. 98, QUE REFORMA LOS ARTICULOS 70 Y 156 DE LA CONSTITUCION.
+
+UNICO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 17 DE SEPTIEMBRE DE 1987.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrara en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado y las reformas de los artículos 35, 41, 46, 133 y 136 fracción XXVII, surtirán sus efectos a partir del 13 de octubre de 1991.
+
+###### ARTICULO SEGUNDO.
+
+Los Diputados que se elijan a la LII Legislatura del Congreso del Estado, durarán en funciones del 16 de septiembre de 1988 hasta el 12 de octubre de 1991.
+
+###### ARTICULO UNICO.
+
+La presente ley entrará en vigor tres días después de su publicación en el Boletín Oficial del Estado.
+
+B.O. 12 DE DICIEMBRE DE 1970.
+
+UNICO.- Esta ley entrará en vigor tres días después de su publicación en el Boletín Oficial del Estado.
+
+B.O. 13 DE MARZO DE 1971.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor el día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora, con excepción del segundo párrafo del artículo 113, el cual entrará en vigor el día 22 de octubre de 1991; en consecuencia, los magistrados actualmente designados, culminarán sus períodos el día 24 de octubre de 1991.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a la aplicación de esta Ley.
+
+B.O. 23 DE AGOSTO DE 1990.
+
+UNICO.- En tanto se instale la Segunda Sala Civil, el Supremo Tribunal de Justicia seguirá funcionando como hasta la fecha lo viene haciendo.
+
+B.O. 30 DE AGOSTO DE 1990.
+
+###### ARTICULO TERCERO.
+
+El período ordinario del Congreso del Estado, correspondiente a los meses de noviembre a diciembre del año de 1993 y los períodos ordinarios correspondientes al año de 1994, se celebrarán de acuerdo con las fechas que han venido rigiendo en los términos de la Ley 109, publicada en el Boletín Oficial número 23, sección I, de 17 de septiembre de 1987.
+
+A partir del 16 de septiembre de 1995 los períodos de sesiones ordinarios se celebrarán de acuerdo con las fechas establecidas en la presente Ley.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se deroga el Artículo séptimo transitorio de la Ley Número 109 que adiciona y reforma diversas disposiciones de la Constitución Política del Estado Libre y Soberano de Sonora, publicada el 17 de Septiembre de 1987, en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 19 DE DICIEMBRE DE 1991.
+
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 30 DE DICIEMBRE DE 1991.
+
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 12 DE NOVIEMBRE DE 1992.
+
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 10 DE DICIEMBRE DE 1992.
+
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 8 DE NOVIEMBRE DE 1993.
+
+LEY No. 304, QUE REFORMA DIVERSOS ARTICULOS DE LA CONSTITUCION.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Los Diputados que se elijan a la LIV Legislatura del Congreso del Estado, durarán en sus funciones del 13 de octubre de 1994 al 15 de septiembre de 1997.
+
+###### ARTICULO CUARTO.
+
+Los informes del Gobernador a que se refiere el artículo 46 constitucional se entregarán, en los años de 1994 a 1996, conforme a la fecha que ha venido rigiendo en los términos de la Ley 109, publicada en el Boletín Oficial Número 23, sección I, de 17 de septiembre de 1987; en 1997, conforme a la fecha que se señala en la Ley 210, publicada en el Boletín Oficial Número 18, Sección II, de 30 de agosto de 1990.
+
+###### ARTICULO QUINTO.
+
+El Gobernador electo para el período constitucional de 1997 al 2003, durará en sus funciones del 22 de octubre de 1997 al 12 de septiembre de 2003.
+
+###### ARTICULO SEXTO.
+
+Las modificaciones efectuadas al artículo 133, por la presente Ley, surtirán sus efectos a partir del 16 de septiembre de 1997.
+
+###### ARTICULO SEPTIMO.
+
+Los Ayuntamientos que se elijan para los municipios de la Entidad, para el período constitucional de 1994 a 1997, durarán en sus funciones del 13 de octubre de 1994 al 15 de septiembre de 1997.
+
+###### ARTICULO OCTAVO.
+
+El informe anual que rindan los Ayuntamientos a la población, en 1994, se efectuará en las fechas que señala la Ley 109, publicada en el Boletín Oficial número 23, sección I, de 17 de septiembre de 1987.
+
+B.O. 8 DE NOVIEMBRE DE 1993.
+
+LEY No. 305, QUE REFORMA DIVERSOS ARTICULOS DE LA CONSTITUCION.
+
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
