@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-salud-del-estado-de-durango-25631"
 country: "mx"
 rank: "ley"
 publication_date: "2002-07-11"
-last_updated: "2009-10-04"
+last_updated: "2011-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25631&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE SALUD DEL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE OCTUBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE FEBRERO DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 11 de julio de 2002.
 
@@ -1803,7 +1803,7 @@ IV. Efectos del abuso de bebidas alcohólicas en los ámbitos familiar, social, 
 
 V. Los demás casos que ameriten su estudio y análisis.
 
-### CAPÍTULO I. DE LA DONACIÓN DE ÓRGANOS
+### CAPÍTULO I. DE LA DONACIÓN DE ÓRGANOS Y TRASPLANTES
 
 ###### ARTÍCULO 162.
 
@@ -1821,7 +1821,67 @@ V. Reglamentación para el control del consumo del tabaco; y
 
 VI. Las demás que determinen las autoridades competentes.
 
-### CAPÍTULO II. CONTROL SANITARIO DE LA DISPOSICIÓN DE SANGRE HUMANA
+### CAPITULO II. DONACIÓN DE ORGANOS
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2011)</small>
+
+ARTÍCULO 173 BIS 7.- Toda persona es disponente de su cuerpo y podrá donarlo total o parcialmente, para los fines y con los requisitos previstos en esta Ley.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2011)</small>
+
+ARTÍCULO 173 BIS 8.- La donación en materia de órganos, tejidos, células y cadáveres, consiste en el consentimiento tácito o expreso de la persona para que, en vida o después de su muerte, su cuerpo o cualquiera de sus componentes se utilicen para trasplantes.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2011)</small>
+
+ARTÍCULO 173 BIS 9.- La donación expresa constará por escrito y podrá ser amplia cuando se refiera a la disposición total del cuerpo o limitada cuando sólo se otorgue respecto de determinados componentes.
+
+En la donación expresa podrá señalarse que ésta se hace a favor de determinadas personas o instituciones. También podrá expresar el donante las circunstancias de modo, lugar y tiempo y cualquier otra que condicione la donación.
+
+La donación expresa, cuando corresponda a mayores de edad con capacidad jurídica, no podrá ser revocada por terceros, pero el donante podrá revocar su consentimiento en cualquier momento, sin responsabilidad de su parte.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2011)</small>
+
+ARTÍCULO 173 BIS 10.- Se requerirá el consentimiento expreso:
+
+I. Para la donación de órganos y tejidos en vida, y
+
+II. Para la donación de sangre, componentes sanguíneos y células progenitoras hematopoyéticas.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2011)</small>
+
+ARTÍCULO 173 BIS 11.- Habrá consentimiento tácito del donante, cuando no haya manifestado la negativa a que su cuerpo o componentes sean utilizados para trasplantes, siempre y cuando se obtenga también el consentimiento de alguna de las siguientes personas: el o la cónyuge, el concubinario, la concubina, los descendientes, los ascendientes, los hermanos, el adoptado o el adoptante; conforme a la prelación señalada.
+
+El escrito por el que la persona exprese no ser donador, podrá ser privado o público, y deberá estar firmado por éste, o bien, la negativa expresa podrá constar en alguno de los documentos públicos que para este propósito determine la Secretaria de Salud en coordinación con otras autoridades competentes.
+
+Al ser advertido en el proceso de donación cualquier irregularidad, deberá darse aviso al Centro Estatal de Trasplantes para que éste lleve a cabo las acciones procedentes.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2011)</small>
+
+ARTÍCULO 173 BIS 12.- El consentimiento tácito sólo aplicará para la donación de órganos y tejidos, una vez que se confirme la pérdida de la vida del disponente.
+
+En el caso de la donación tácita, los órganos y tejidos sólo podrán extraerse cuando se requieran para fines de trasplantes.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2011)</small>
+
+ARTÍCULO 173 BIS 13.- El consentimiento tendrá las siguientes restricciones respecto de las personas que a continuación se indican:
+
+I. El tácito o expreso otorgado por menores de edad, incapaces o por personas que por cualquier circunstancia se encuentren impedidas para expresarlo libremente, no será válido, y
+
+II. El expreso otorgado por una mujer embarazada sólo será admisible si el receptor estuviere en peligro de muerte, y siempre que no implique riesgo para la salud de la mujer o del producto de la concepción.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2011)</small>
+
+ARTÍCULO 173 BIS 14.- Está prohibido el comercio de órganos, tejidos y células. La donación de estos con fines de trasplantes, se regirá por principios de altruismo, ausencia de ánimo de lucro y confidencialidad, por lo que su obtención y utilización serán estrictamente a título gratuito.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2011)</small>
+
+ARTÍCULO 173 BIS 15.- Sólo en caso de que la pérdida de la vida del donante esté relacionada con la averiguación de un delito, se dará intervención al Ministerio Público, para la extracción de órganos y tejidos.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2011)</small>
+
+ARTÍCULO 173 BIS 16.- El Centro Estatal de Trasplantes hará constar el mérito y altruismo del donador y de su familia, mediante la expedición del testimonio correspondiente que los reconozca como benefactores de la sociedad.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 27 DE FEBRERO DE 2011)</small>
 
 ###### ARTÍCULO 163.
 
@@ -1845,7 +1905,97 @@ A los establecimientos que vendan o utilicen substancias inhalantes o ingeribles
 
 ## TÍTULO DÉCIMO PRIMERO. PUBLICIDAD EN MATERIA DE SALUD
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO III. TRASPLANTES
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2011)</small>
+
+ARTÍCULO 173 BIS 17.- Los trasplantes de órganos, tejidos y células en seres humanos vivos, podrán llevarse a cabo cuando hayan sido satisfactorios los resultados de las investigaciones realizadas al efecto, representen un riesgo aceptable para la salud y la vida del donante y del receptor, y siempre que existan justificantes de orden terapéutico.
+
+Está prohibido:
+
+I. El trasplante de gónadas o tejidos gonadales; y
+
+II. El uso, para cualquier finalidad, de tejidos embrionarios o fetales producto de abortos inducidos.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2011)</small>
+
+ARTÍCULO 173 BIS 18.- La obtención de órganos o tejidos para trasplantes se hará preferentemente de sujetos en los que se haya comprobado la pérdida de la vida.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2011)</small>
+
+ARTÍCULO 173 BIS 19.- La selección del donante y del receptor se hará siempre por prescripción y bajo control médico, en los términos que fije La Ley General de Salud.
+
+No se podrán tomar órganos y tejidos para trasplantes de menores de edad vivos, excepto cuando se trate de trasplantes de médula ósea, para lo cual se requerirá el consentimiento expreso de los representantes legales del menor.
+
+Tratándose de menores que han perdido la vida, sólo se podrán tomar sus órganos y tejidos para trasplantes con el consentimiento expreso de los representantes legales del menor.
+
+En el caso de incapaces y otras personas sujetas a interdicción, no podrá disponerse de sus componentes, ni en vida ni después de su muerte.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2011)</small>
+
+ARTÍCULO 173 BIS 20.- Para realizar trasplantes entre vivos, deberán cumplirse los siguientes requisitos respecto del donante:
+
+I. Ser mayor de edad y estar en pleno uso de sus facultades mentales;
+
+II. Donar un órgano o parte de él, que al ser extraído, su función pueda ser compensada por el organismo del donante de forma adecuada y suficientemente segura;
+
+III. Tener compatibilidad aceptable con el receptor;
+
+IV. Recibir información completa sobre los riesgos y consecuencias de orden físico y psíquico de la operación y extracción del órgano o tejido, por un médico distinto de los que intervendrán en el trasplante;
+
+V. Haber otorgado su consentimiento en forma expresa, en términos del artículo 173 bis 9 de esta Ley, y
+
+VI. Tener parentesco por consanguinidad, por afinidad o civil o ser cónyuge, concubina o concubinario del receptor. Cuando se trate del trasplante de médula ósea, no será necesario este requisito.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2011)</small>
+
+ARTÍCULO 173 BIS 21.- Para realizar trasplantes de donantes que hayan perdido la vida, deberá cumplirse lo siguiente:
+
+I. Comprobar, previamente a la extracción de los órganos y tejidos y por un médico distinto a los que intervendrán en el trasplante o en la obtención de los órganos o tejidos, la pérdida de la vida del donante, en los términos que se precisan en este Capítulo;
+
+II. Existir consentimiento expreso del disponente o no constar su revocación para la donación de sus órganos y tejidos; y
+
+III. Asegurarse que no exista riesgo sanitario.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2011)</small>
+
+ARTÍCULO 173 BIS 22.- Los profesionales de las disciplinas para la salud que intervengan en la extracción de órganos y tejidos o en trasplantes, deberán contar con el entrenamiento especializado respectivo, conforme lo determinen las disposiciones reglamentarias aplicables y estar inscritos en el Registro Nacional de Trasplantes.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2011)</small>
+
+ARTÍCULO 173 BIS 23.- Para la asignación de órganos y tejidos de donador no vivo, se tomará en cuenta la gravedad del receptor, la oportunidad del trasplante, los beneficios esperados, la compatibilidad con el receptor y los demás criterios médicos aceptados.
+
+Cuando no exista urgencia o razón médica para asignar preferentemente un órgano o tejido, ésta se sujetará estrictamente a listas que se integrarán con los datos de los mexicanos en espera y que estarán a cargo del Centro Nacional de Trasplantes.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2011)</small>
+
+ARTÍCULO 173 BIS 24.- Los concesionarios de los diversos medios de transporte, otorgarán todas las facilidades que requiera el traslado de órganos y tejidos destinados a trasplantes, conforme a las disposiciones reglamentarias aplicables y a las Normas Oficiales Mexicanas que emitan conjuntamente las Secretarías de Comunicaciones y Transportes y de Salud.
+
+El traslado, preservación, conservación, manejo, etiquetado, claves de identificación y los costos asociados al manejo de órganos, tejidos y células que se destinen a trasplantes, se ajustarán a lo que establezcan las disposiciones generales aplicables.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2011)</small>
+
+ARTÍCULO 173 BIS 25.- El Registro Estatal de Trasplantes, estará a cargo del Centro Estatal de Trasplantes y tiene por objeto asegurar con eficacia el cumplimiento y la observancia de la voluntad de la persona que expresamente done sus órganos y tejidos en los términos previstos por esta ley, su reglamento y demás disposiciones que al efecto se dicten.
+
+El Registro Estatal de Trasplantes se regirá por este ordenamiento y los reglamentos respectivos y supletoriamente por las disposiciones de la Ley General de Salud.
+
+El Centro Estatal de Trasplantes mantendrá actualizada la siguiente información:
+
+I. Los datos de los receptores, de los donadores y fecha del trasplante;
+
+II. Los establecimientos autorizados conforme al artículo 173 bis 2, de esta Ley;
+
+III. Los profesionales de las disciplinas para la salud que intervengan en trasplantes;
+
+IV. Los pacientes en espera de algún órgano o tejido, integrados en listas estatales y nacional;
+
+V. En los casos de muerte cerebral se estará a lo dispuesto en la Ley General de Salud.
+
+En los términos que precisen las disposiciones reglamentarias, los establecimientos a que se refiere el artículo 173 bis 2 de esta Ley y los profesionales de las disciplinas para la salud que intervengan en trasplantes, deberán proporcionar la información relativa a sus actividades y formación profesional que les sea solicitada por los Servicios de Salud.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2011)</small>
+
+ARTÍCULO 123 (SIC) BIS 26.- La Secretaría de Salud del Estado, asignará al Centro Estatal de Trasplantes, los recursos económicos necesarios para su operación, funcionamiento y cumplimiento de su programa anual de trabajo.
 
 ###### ARTÍCULO 166.
 
@@ -1863,11 +2013,15 @@ Corresponderá a la Secretaría y al Organismo, la verificación de la actividad
 
 El monitoreo de medios publicitarios locales y de la publicidad de bebidas alcohólicas, tabaco, medicamentos de libre venta, plaguicidas, fertilizantes y sustancias tóxicas, le compete a la Secretaría y al Organismo.
 
-## TÍTULO DÉCIMO SEGUNDO. DONACIÓN, TRANSPLANTES Y PÉRDIDA DE LA VIDA
+> <small>(REFORMADA SE DENOMINACION, P.O. 27 DE FEBRERO DE 2011)</small>
 
-### CAPÍTULO ÚNICO. ALIMENTOS, BEBIDAS NO ALCOHÓLICAS Y ALCOHÓLICAS
+## TÍTULO DÉCIMO SEGUNDO. DONACIÓN, TRANSPLANTES (SIC) Y PÉRDIDA DE LA VIDA
 
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2008)</small>
+DISPOSICIONES COMUNES
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 27 DE FEBRERO DE 2011)</small>
+
+### CAPÍTULO II (SIC). CONTROL SANITARIO DE LA DISPOSICIÓN DE SANGRE HUMANA
 
 ###### ARTÍCULO 170.
 
@@ -1885,13 +2039,89 @@ La Secretaría de Educación del Estado de Durango, deberá incluir en los progr
 
 La Secretaría y el Organismo, solicitarán a los medios de comunicación masiva espacios gratuitos para la difusión de campañas orientadas a promover una cultura de la donación de órganos e informar sobre los requisitos que establece la Ley General de Salud.
 
-### CAPÍTULO I. DISPOSICIONES COMUNES
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2011)</small>
+
+ARTÍCULO 173 BIS.- Compete a los servicios de salud:
+
+I.- El control sanitario de las donaciones y trasplantes de órganos, tejidos y células de seres humanos, por conducto del órgano desconcentrado “Centro Estatal de Trasplantes”;
+
+II.- La regulación y el control sanitario sobre cadáveres; y
+
+III.- Establecer, coordinar y dirigir las políticas de salud en materia de donación y trasplante de órganos, tejidos y células, por conducto del “Centro Estatal de Trasplantes”.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2011)</small>
+
+ARTÍCULO 173 BIS 1.- Para efectos de este título se entiende por:
+
+I. Células germinales: a las células reproductoras masculinas y femeninas capaces de dar origen a un embrión;
+
+II. Cadáver: al cuerpo humano en el que se compruebe la presencia de los signos de muerte por profesionales de la medicina;
+
+III. Componentes: a los órganos, los tejidos, las células y sustancias que forman el cuerpo humano, con excepción de los productos;
+
+IV. Componentes sanguíneos: a los elementos de la sangre y demás sustancias que la conforman;
+
+V. Destino final: a la conservación permanente, inhumación, incineración, desintegración e inactivación de órganos, tejidos, células y derivados, productos y cadáveres de seres humanos, incluyendo los de embriones y fetos, en condiciones sanitarias permitidas por esta ley y demás disposiciones aplicables;
+
+VI. Disponente: a aquel que conforme a los términos de la ley le corresponde decidir sobre su cuerpo o cualquiera de sus componentes en vida y para después de su muerte;
+
+VII. Donador o donante: al que tacita o expresamente consiente la disposición de su cuerpo o componentes para su utilización en trasplantes;
+
+VIII. Embrión: al producto de la concepción a partir de esta, y hasta el término de la duodécima semana estacional;
+
+IX. Feto: al producto de la concepción a partir de la decimotercera semana de edad estacional, hasta la expulsión del seno materno;
+
+X. Órgano: a la entidad morfológica compuesta por la agrupación de tejidos diferentes que concurren al desempeño de los mismos trabajos fisiológicos;
+
+XI. Producto: a todo tejido o sustancia extruida, excretada o expelida por el cuerpo humano como resultante de procesos fisiológicos normales. Serán considerados productos, para efectos de este título, la placenta y los anexos de la piel;
+
+XII. Receptor: a la persona que recibe para su uso terapéutico un órgano, tejido, células o productos;
+
+XIII. Tejido: a la entidad morfológica compuesta por la agrupación de células de la misma naturaleza, ordenadas con regularidad y que desempeñen una misma función, y
+
+XIV. Trasplante: a la transferencia de un órgano, tejido o células de una parte del cuerpo a otra, o de un individuo a otro y que se integren al organismo.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2011)</small>
+
+ARTÍCULO 173 BIS 2.- Los establecimientos de salud que requieren de autorización sanitaria son los dedicados a:
+
+I. La extracción, análisis, conservación, preparación y suministro de órganos, tejidos y células;
+
+II. Los trasplantes de órganos y tejidos; los bancos de órganos, tejidos y células, y
+
+III. Los bancos de sangre y servicios de transfusión.
+
+Los Servicios de Salud otorgaran la autorización a que se refiere el presente artículo a los establecimientos que cuenten con el personal, infraestructura, equipo, instrumental e insumos necesarios para la realización de los actos relativos, conforme a lo que establezcan las disposiciones de esta ley y demás ordenamientos legales.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2011)</small>
+
+ARTÍCULO 173 BIS 3.- Los establecimientos a que se refiere el artículo anterior, contaran con un responsable sanitario, quien deberá presentar aviso de su designación ante los Servicios de Salud.
+
+Los establecimientos en los que se extraigan órganos y tejidos o se realicen trasplantes, adicionalmente, deberán contar con un comité interno de trasplantes y con un coordinador de estas acciones, que serán supervisadas por el comité institucional de bioética respectivo. Dichos Comités se sujetaran al reglamento respectivo.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2011)</small>
+
+ARTÍCULO 173 BIS 4.- Los órganos, tejidos y células no podrán ser sacados del territorio estatal, salvo que estén satisfechas las necesidades de ellos y en casos de urgencia.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2011)</small>
+
+ARTÍCULO 173 BIS 5.- Para el control sanitario de los productos y de la disposición del embrión y de las células germinales, se estará a lo dispuesto en la Ley General de Salud, en lo que resulte aplicable, y en las demás disposiciones generales que al efecto se expidan.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2011)</small>
+
+ARTÍCULO 173 BIS 6.- Se considerará disposición ilícita de órganos, tejidos, células y cadáveres de seres humanos, aquella que se efectué sin estar autorizada por esta Ley y demás disposiciones aplicables.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 27 DE FEBRERO DE 2011)</small>
+
+### CAPÍTULO ÚNICO
+
+### CAPÍTULO ÚNICO. ALIMENTOS, BEBIDAS NO ALCOHÓLICAS Y ALCOHÓLICAS
 
 > <small>(REFORMADO, P.O. 29 DE JUNIO DE 2008)</small>
 
-### CAPÍTULO II. MERCADOS Y CENTROS DE ABASTO
+### CAPÍTULO I. DISPOSICIONES COMUNES
 
-### CAPÍTULO III. DE LAS CONSTRUCCIONES
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2008)</small>
 
 ###### ARTÍCULO 174.
 
@@ -1909,17 +2139,15 @@ El control sanitario de la disposición de sangre humana, se llevará a cabo de 
 
 La disposición de sangre humana, componentes sanguíneos y células progenitoras hematopoyéticas con fines terapéuticos estará a cargo de Bancos de Sangre y servicios de transfusión que se instalarán y funcionarán de acuerdo con las disposiciones legales aplicables. La sangre se considerará como tejido.
 
-### CAPÍTULO IV. CEMENTERIOS, CREMATORIOS Y FUNERARIAS
+### CAPÍTULO II. MERCADOS Y CENTROS DE ABASTO
 
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2008)</small>
-
-### CAPÍTULO V. LIMPIEZA PÚBLICA
+### CAPÍTULO III. DE LAS CONSTRUCCIONES
 
 ## TÍTULO DÉCIMO TERCERO. INSUMOS PARA LA SALUD
 
-### CAPÍTULO VI. RASTROS
+### CAPÍTULO IV. CEMENTERIOS, CREMATORIOS Y FUNERARIAS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2008)</small>
 
 ###### ARTÍCULO 178.
 
@@ -1945,7 +2173,7 @@ VII. Las demás que les competan conforme a la presente Ley, y demás disposicio
 
 ## TÍTULO DÉCIMO CUARTO. DEL CONTROL SANITARIO DE ALIMENTOS, BEBIDAS NO ALCOHÓLICAS Y ALCOHÓLICAS
 
-### CAPÍTULO VII. AGUA POTABLE Y ALCANTARILLADO
+### CAPÍTULO V. LIMPIEZA PÚBLICA
 
 ###### ARTÍCULO 180.
 
@@ -1959,7 +2187,9 @@ De conformidad con las disposiciones generales aplicables que expida la Secretar
 
 ## TÍTULO DÉCIMO QUINTO. SALUBRIDAD LOCAL
 
-### CAPÍTULO VIII. ESTABLOS, GRANJAS AVÍCOLAS, PORCÍCOLAS, APIARIOS Y ESTABLECIMIENTOS SIMILARES
+### CAPÍTULO VI. RASTROS
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JUNIO DE 2008)</small>
 
 ###### ARTÍCULO 182.
 
@@ -2005,7 +2235,7 @@ El Ejecutivo Estatal publicará en el Periódico Oficial del Estado, las normas 
 
 Las notificaciones que conforme a esta Ley deban publicarse, surtirán efectos a partir del día siguiente al de su publicación.
 
-### CAPÍTULO IX. RECLUSORIOS O CENTROS DE READAPTACIÓN SOCIAL
+### CAPÍTULO VII. AGUA POTABLE Y ALCANTARILLADO
 
 ###### ARTÍCULO 188.
 
@@ -2015,7 +2245,7 @@ Los vendedores, locatarios y las personas cuya actividad esté vinculada con los
 
 Los establecimientos semifijos y móviles destinados a la venta de alimentos para consumo inmediato, deberán cumplir con las disposiciones generales aplicables y las que se establezcan en el reglamento respectivo.
 
-### CAPÍTULO X. PROSTITUCIÓN
+### CAPÍTULO VIII. ESTABLOS, GRANJAS AVÍCOLAS, PORCÍCOLAS, APIARIOS Y ESTABLECIMIENTOS SIMILARES
 
 ###### ARTÍCULO 190.
 
@@ -2049,7 +2279,7 @@ Cuando los edificios, construcciones o terrenos representen un peligro sanitario
 
 Cuando se pretenda llevar a cabo una construcción en terrenos pantanosos o que hubiesen estado destinados a basureros o cementerios, los interesados deberán comunicar estas circunstancias a la autoridad sanitaria, a fin de que ésta dicte las medidas que juzgue pertinentes con el objeto de evitar riesgos a la salud pública.
 
-### CAPÍTULO XI. ESTABLECIMIENTOS PARA EL HOSPEDAJE
+### CAPÍTULO IX. RECLUSORIOS O CENTROS DE READAPTACIÓN SOCIAL
 
 ###### ARTÍCULO 197.
 
@@ -2075,7 +2305,7 @@ Los cadáveres deberán inhumarse, incinerarse o embalsamarse entre las doce y l
 
 La Secretaría y el Organismo determinarán el tiempo mínimo que han de permanecer los restos en las fosas. Mientras este plazo no termine, sólo podrán efectuarse las exhumaciones autorizadas por las autoridades sanitarias y las ordenadas por la autoridad judicial, previo cumplimiento de los requisitos sanitarios establecidos.
 
-### CAPÍTULO XII. PREVENCIÓN Y CONTROL DE RABIA EN ANIMALES Y SERES HUMANOS
+### CAPÍTULO X. PROSTITUCIÓN
 
 ###### ARTÍCULO 202.
 
@@ -2103,7 +2333,7 @@ Las autoridades municipales correspondientes, fijarán lugares especiales para d
 
 Los Municipios deberán establecer depósitos de basura en los parques, jardines, paseos y otros lugares de la vía pública que estén dentro de su jurisdicción, además de ordenar la fumigación periódica de los mismos.
 
-### CAPÍTULO XIII. DE LAS ACTIVIDADES, ESTABLECIMIENTOS, PRODUCTOS Y SERVICIOS
+### CAPÍTULO XI. ESTABLECIMIENTOS PARA EL HOSPEDAJE
 
 ###### ARTÍCULO 205.
 
@@ -2123,9 +2353,7 @@ En uso de la prerrogativa referida en el artículo 184 de esta Ley, la COPRISED 
 
 En el reglamento correspondiente se establecerán los requisitos sanitarios relativos a la procedencia, manejo, tratamiento, cuidado y conservación de los animales destinados al sacrificio, así como las medidas de funcionamiento que deberán cumplir los vehículos para transportar a dichos animales.
 
-### CAPÍTULO I. AUTORIZACIONES
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JUNIO DE 2008)</small>
+### CAPÍTULO XII. PREVENCIÓN Y CONTROL DE RABIA EN ANIMALES Y SERES HUMANOS
 
 ###### ARTÍCULO 208.
 
@@ -2159,7 +2387,7 @@ Los proyectos para la implantación de sistemas de alcantarillado deberán ser e
 
 No se podrán verter desechos o líquidos que conduzcan los caños, en ríos, arroyos, acueductos, corrientes o canales por donde fluyan aguas destinadas al uso y consumo humano. En todo caso, deberán ser tratados y cumplir con las disposiciones legales en materia de contaminación.
 
-### CAPÍTULO II. REVOCACIONES DE AUTORIZACIONES SANITARIAS
+### CAPÍTULO XIII. DE LAS ACTIVIDADES, ESTABLECIMIENTOS, PRODUCTOS Y SERVICIOS
 
 ###### ARTÍCULO 215.
 
@@ -2169,7 +2397,9 @@ Las condiciones y requisitos sanitarios que deban reunir los establecimientos a 
 
 Para el funcionamiento de los establecimientos a que se refiere este capítulo, se requiere de aviso de funcionamiento.
 
-### CAPÍTULO III. CERTIFICADOS
+### CAPÍTULO I. AUTORIZACIONES
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JUNIO DE 2008)</small>
 
 ###### ARTÍCULO 217.
 
@@ -2181,9 +2411,7 @@ Cuando se trate de enfermedades de emergencia, graves o cuando así lo requiera 
 
 Las personas encargadas de los servicios médicos de los reclusorios y centros de readaptación social deberán, a partir de que tengan conocimiento de alguna enfermedad transmisible, adoptar las medidas de seguridad sanitaria que procedan para evitar la propagación de la misma, así como llevar a cabo la notificación a que se refiere el artículo 144 de esta Ley.
 
-### CAPÍTULO ÚNICO
-
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2008)</small>
+### CAPÍTULO II. REVOCACIONES DE AUTORIZACIONES SANITARIAS
 
 ###### ARTÍCULO 219.
 
@@ -2205,15 +2433,13 @@ No podrán ejercer la prostitución los menores de edad y las personas que padez
 
 El Estado y los Ayuntamientos elaborarán y ejecutarán programas asistenciales, dirigidos a quienes se dediquen a la prostitución, privilegiando los cursos para la capacitación y el trabajo; debiendo procurar en lo posible la creación de bolsas de trabajo para su incorporación al sector productivo.
 
-### CAPÍTULO I. MEDIDAS DE SEGURIDAD SANITARIA
-
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2008)</small>
+### CAPÍTULO III. CERTIFICADOS
 
 ###### ARTÍCULO 224.
 
 Para la construcción y acondicionamiento de un inmueble que se pretenda destinar como establecimiento para el hospedaje, se deberán cumplir los requisitos que señala el artículo 185 de esta Ley.
 
-### CAPÍTULO II. SANCIONES ADMINISTRATIVAS
+### CAPÍTULO ÚNICO
 
 > <small>(REFORMADO, P.O. 29 DE JUNIO DE 2008)</small>
 
@@ -2249,7 +2475,9 @@ Las autoridades sanitarias, en coordinación con los Ayuntamientos, mantendrán 
 
 Además de los establecimientos a que se refiere el artículo 225 de esta Ley, los Ayuntamientos deberán instalar una perrera para la guarda temporal de estos animales.
 
-### CAPÍTULO III. PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
+### CAPÍTULO I. MEDIDAS DE SEGURIDAD SANITARIA
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2008)</small>
 
 ###### ARTÍCULO 229.
 
@@ -2257,7 +2485,9 @@ Los baños públicos, albercas, gimnasios, centros de reunión y espectáculos, 
 
 ## TÍTULO DÉCIMO SEXTO. AUTORIZACIÓN Y CERTIFICADOS
 
-### CAPÍTULO IV. DELITOS
+### CAPÍTULO II. SANCIONES ADMINISTRATIVAS
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2008)</small>
 
 ###### ARTÍCULO 230.
 
@@ -2309,9 +2539,7 @@ Las autorizaciones a que se refiere esta Ley, podrán ser revisadas por la autor
 
 Los derechos a que se refiere esta Ley, se regirán por lo dispuesto en la legislación fiscal aplicable y los convenios de coordinación que celebren en la materia el Gobierno del Estado con el Ejecutivo Federal.
 
-### CAPÍTULO V. RECURSO DE INCONFORMIDAD
-
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2008)</small>
+### CAPÍTULO III. PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
 
 ###### ARTÍCULO 240.
 
@@ -2377,7 +2605,7 @@ La COPRISED emitirá la resolución que corresponda al concluir la audiencia o d
 
 La resolución de revocación surtirá efectos de clausura definitiva, prohibición de uso, prohibición de venta o de ejercicio de las actividades a que se refiere la autorización revocada.
 
-### CAPÍTULO VI. PRESCRIPCIÓN
+### CAPÍTULO IV. DELITOS
 
 ###### ARTÍCULO 248.
 
@@ -2406,6 +2634,10 @@ Los certificados a que se refiere este Capítulo se expedirán en los modelos ap
 Las autoridades judiciales o administrativas sólo admitirán como válidos los certificados que se ajusten a lo dispuesto en el párrafo anterior.
 
 ## TÍTULO DÉCIMO SÉPTIMO. VIGILANCIA SANITARIA
+
+### CAPÍTULO V. RECURSO DE INCONFORMIDAD
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2008)</small>
 
 ###### ARTÍCULO 252.
 
@@ -2508,6 +2740,8 @@ Transcurrido este plazo, sin que se haya impugnado el resultado del análisis of
 En el caso de los productos recogidos en procedimientos de muestreo o verificación, sólo los laboratorios autorizados o habilitados por la autoridad competente en el Estado podrán determinar, por medio de los análisis practicados, si tales productos, reúnen o no sus especificaciones.
 
 ## TÍTULO DÉCIMO OCTAVO. MEDIDAS DE SEGURIDAD, SANCIONES Y DELITOS
+
+### CAPÍTULO VI. PRESCRIPCIÓN
 
 ###### ARTÍCULO 264.
 
@@ -2671,7 +2905,7 @@ Se sancionará con multa equivalente de mil hasta cuatro mil veces el salario m�
 
 Se sancionará con multa equivalente de cuatro mil hasta diez mil veces el salario mínimo general diario vigente en esta zona económica, la violación a las disposiciones contenidas en los artículos 88, 113, 258 y 272 de esta Ley.
 
-###### ARTICULO 286.
+###### ARTÍCULO 286.
 
 Se sancionará con multa equivalente de diez mil hasta quince mil veces el salario mínimo general diario vigente en esta zona económica, la violación a las disposiciones contenidas en el artículo 132 de esta Ley.
 
@@ -3014,3 +3248,13 @@ El presente Decreto entrará en vigor al día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 En un plazo de 90 días se deberán expedir las disposiciones administrativas derivadas de la reforma y adición a la presente ley.
+
+P.O. 27 DE FEBRERO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+###### ARTICULO SEGUNDO.
+
+El Gobernador Constitucional del Estado expedirá, dentro de los 60 (sesenta) días naturales siguientes a la fecha en que entre en vigor el presente decreto, el Reglamento respectivo.
