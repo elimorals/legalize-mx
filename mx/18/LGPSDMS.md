@@ -4,7 +4,7 @@ identifier: "LGPSDMS"
 country: "mx"
 rank: "ley_general"
 publication_date: "2010-11-30"
-last_updated: "2010-11-30"
+last_updated: "2011-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77437&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGPSDMS"
 
 LEY GENERAL PARA PREVENIR Y SANCIONAR LOS DELITOS EN MATERIA DE SECUESTRO, REGLAMENTARIA DE LA FRACCION XXI DEL ARTICULO 73 DE LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE FEBRERO DE 2011.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el martes 30 de noviembre de 2010.
 
@@ -57,6 +57,10 @@ Los Poderes Judiciales de la Federación y de las Entidades Federativas ordenar�
 Esta Ley establece los tipos y punibilidades en materia de secuestro. Para la investigación, persecución, sanción y todo lo referente al procedimiento serán aplicables el Código Penal Federal, el Código Federal de Procedimientos Penales, la Ley Federal contra la Delincuencia Organizada y los códigos de procedimientos penales de los Estados.
 
 A falta de regulación suficiente en los códigos de procedimientos penales de las Entidades Federativas respecto de las técnicas para la investigación de los delitos regulados en esta Ley, se podrán aplicar supletoriamente las técnicas de investigación previstas en el Código Federal de Procedimientos Penales.
+
+> <small>(ADICIONADO, D.O.F. 27 DE FEBRERO DE 2011)</small>
+
+Los imputados por la comisión de alguno de los delitos señalados en los artículos 9, 10, 11, 17 y 18 de esta Ley, durante el proceso penal estarán sujetos a prisión preventiva.
 
 ###### Artículo 3.
 
@@ -152,15 +156,19 @@ Las sanciones señaladas en el presente artículo se impondrán, sin perjuicio o
 
 Si la víctima de los delitos previstos en la presente Ley es privada de la vida por los autores o partícipes de los mismos, se impondrá a éstos una pena de cuarenta a setenta años de prisión y de seis mil a doce mil días multa.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 12.
 
-Si espontáneamente se libera a la víctima del secuestro dentro de los tres días siguientes al de la privación de la libertad, sin lograr alguno de los propósitos a que se refiere el artículo 9 de esta Ley y sin que se haya presentado alguna de las circunstancias agravantes del delito, la pena será de dos a seis años y de cincuenta a ciento cincuenta días multa.
+Si espontáneamente se libera a la víctima del secuestro dentro de los tres días siguientes al de la privación de la libertad, sin lograr alguno de los propósitos a que se refiere el artículo 9 de esta Ley y sin que se haya presentado alguna de las circunstancias agravantes del delito, la pena será de dos a seis años de prisión y de cincuenta a ciento cincuenta días multa.
 
 La misma pena se aplicará a aquél que habiendo participado en la planeación de alguna de las conductas a que hace referencia el presente Capítulo, dé noticia de ese hecho a la autoridad y la víctima sea rescatada con vida.
 
 La pena señalada en el párrafo primero de este artículo se aplicará a aquél que habiendo participado en la comisión de alguna de las conductas a que hace referencia el presente Capítulo, dé noticia de ese hecho a la autoridad para evitar que se cometa el delito y proporcione datos fehacientes o suficientes elementos de convicción contra los demás participantes del hecho o, ya cometido, antes de que se libere a la víctima, proporcione, los datos o elementos referidos, además dé información eficaz para liberar o localizar a la víctima.
 
-No obstante lo anterior, si a la víctima se le hubiere causado alguna lesión de las previstas en los artículos 291 a 293 del Código Penal Federal, la pena será de nueve a dieciséis años de prisión y de trescientos a quinientos días multa, así como la colocación de los dispositivos de localización y vigilancia.
+> <small>(REFORMADO, D.O.F. 27 DE FEBRERO DE 2011)</small>
+
+No obstante lo anterior, si a la víctima se le hubiere causado alguna lesión de las previstas en los artículos 291 a 293 del Código Penal Federal, la pena será de nueve a dieciséis años de prisión y de trescientos a quinientos días multa, así como la colocación de los dispositivos de localización y vigilancia por la autoridad policial hasta por los cinco años posteriores a su liberación.
 
 En caso de que espontáneamente se libere al secuestrado dentro de los primeros diez días, sin lograr alguno de los propósitos a que se refiere el artículo 9 de la presente Ley, y sin que se haya presentado alguna de las circunstancias agravantes del delito, la pena de prisión aplicable será de ocho a quince años y de doscientos cincuenta hasta quinientos días multa.
 
@@ -623,3 +631,11 @@ Décimo Segundo. En un plazo de ciento ochenta días contados a partir de la ent
 México, D. F., a 7 de octubre de 2010.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. Jorge Carlos Ramírez Marín, Presidente.- Sen. Martha Leticia Sosa Govea, Secretaria.- Dip. María de Jesús Aguirre Maldonado, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a 29 de noviembre de 2010.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, José Francisco Blake Mora.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 27 DE FEBRERO DE 2011.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
