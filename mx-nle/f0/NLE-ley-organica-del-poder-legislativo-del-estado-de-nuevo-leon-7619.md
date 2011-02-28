@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-del-poder-legislativo-del-estado-de-nuevo-leon-761
 country: "mx"
 rank: "ley_organica"
 publication_date: "1992-09-11"
-last_updated: "2010-12-09"
+last_updated: "2011-02-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7619&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,29 +21,23 @@ state: "NLE"
 ---
 # LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE NUEVO LEON
 
-LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE TAMAULIPAS
+LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE NUEVO LEON
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2022.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE FEBRERO DE 2011.
 
-Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el jueves 21 de agosto de 2003.
+Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 11 de septiembre de 1992.
 
-TOMAS YARRINGTON RUVALCABA, Gobernador Constitucional del Estado Libre y Soberano de Tamaulipas, a sus habitantes hace saber:
+EL CIUDADANO LIC. SOCRATES C. RIZZO GARCIA, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON, A TODOS SUS HABITANTES HAGO SABER:
 
-Que el Honorable Congreso del Estado, ha tenido a bien expedir el siguiente Decreto:
+Que el H. Congreso del Estado ha tenido a bien decretar lo que sigue:
 
-Al margen un sello que dice:- "Estados Unidos Mexicanos.- Gobierno de Tamaulipas.- Poder Legislativo.
+DECRETO NUM. 80
 
-LA QUINCUAGÉSIMA OCTAVA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS, EN USO DE LAS FACULTADES QUE LE CONFIERE EL ARTÍCULO 58 FRACCIÓN I DE LA CONSTITUCIÓN POLÍTICA LOCAL, TIENE A BIEN EXPEDIR EL SIGUIENTE:
+LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE NUEVO LEON
 
-D E C R E T O No. 352
+## TITULO PRIMERO. DEL CONGRESO DEL ESTADO DE NUEVO LEON
 
-LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE TAMAULIPAS.
-
-## TÍTULO PRIMERO. DISPOSICIONES GENERALES
-
-### CAPÍTULO ÚNICO
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE ENERO DE 2019)</small>
+### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 1.
 
@@ -197,11 +191,11 @@ El cargo de Diputado Propietario o Suplente en ejercicio es incompatible con cua
 
 El Poder Legislativo del Estado de Nuevo León tendrá las atribuciones que para su integración, organización y funcionamiento establece la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Nuevo León, esta Ley y sus disposiciones reglamentarias.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 5o.
 
-La Legislatura tendrá cada año de ejercicio dos Períodos Ordinarios de Sesiones, el Primero se abrirá el día 1º de septiembre y terminará el día 20 de diciembre; el segundo se iniciará el día 30 de marzo y terminará el día 30 de junio. Ambos períodos pueden ser prorrogados hasta por treinta días, por acuerdo del Pleno.
+La Legislatura tendrá cada año de ejercicio dos Períodos Ordinarios de Sesiones, el primero se abrirá el día 1° de septiembre y terminará el día 20 de diciembre; el segundo se iniciará el día 1° de marzo y terminará el día 1° de junio. Ambos períodos pueden ser prorrogados hasta por treinta días, por acuerdo del Pleno.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE AGOSTO DE 2000)</small>
 
@@ -247,63 +241,31 @@ El Informe será analizado por el Congreso del Estado en sesiones subsecuentes, 
 
 El Congreso sesionará con la concurrencia de más de la mitad de sus integrantes.
 
-###### ARTÍCULO 10.
+###### Artículo 10.
 
-Las dependencias y entidades que participen como vocales del Comité en términos de la fracción III del artículo 5 de esta ley, deberán cumplir las siguientes obligaciones:
+Los. Diputados gozarán del fuero que confiere la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado de Nuevo León.
 
-I. Programar la ejecución de las obras públicas y de los servicios relacionados con las mismas, en razón de sus necesidades;
+Gozarán de libertad absoluta para manifestarse y en consecuencia son inatacables por las opiniones que manifiesten en el desempeño de su encargo y no podrán ser reconvenidos o juzgados por ellas por autoridad alguna.
 
-II. Presentar a la Secretaría sus programas y presupuestos aprobados por la autoridad competente;
+Tendrán la obligación de asistir a las sesiones, integrarse a las Comisiones, Comités y demás actividades legislativas que les encomiende el Pleno del Congreso.
 
-III. Observar las recomendaciones que haga la Secretaría para mejorar los procedimientos de planeación, licitación y ejecución de las obras públicas y de los servicios relacionados con las mismas;
+Los Diputados son responsables por los delitos que cometan durante el tiempo de su encargo y por las faltas u omisiones en que incurran en el tiempo de su ejercicio, pero no podrán ser aprehendidos ni detenidos ni ejercitarse acción penal en su contra hasta concluído el procedimiento constitucional que decida su desafuero, la separación de su cargo y la sujeción a la acción de los Tribunales Comunes.
 
-IV. Integrar los expedientes técnicos de las obras públicas o servicios relacionados con las mismas que pretenda contratar, los cuales deberán contar con el acuerdo del área de la Secretaría a cargo de los concursos de obras públicas;
+###### Artículo 11.
 
-V. Informar de inmediato, tanto a la Secretaría como a la Contraloría, sobre las irregularidades que se adviertan con relación al proceso de ejecución de obras públicas y de los servicios relacionados con las mismas;
+El Recinto del Congreso es inviolable. Toda fuerza pública está impedida de tener acceso al mismo, salvo en las circunstancias en que el Presidente del Congreso lo determine, en cuyo caso la fuerza pública estará bajo su mando.
 
-VI. Firmar, previa autorización de la Comisión, los contratos de obras públicas y de servicios relacionados con las mismas;
+El Presidente del Congreso podrá solicitar el apoyo de la fuerza pública o solicitar el cumplimiento de la Ley para salvaguardar el fuero constitucional de los Diputados y la inviolabilidad del Recinto Legislativo.
 
-VII. Tomar las providencias necesarias para el aseguramiento, protección y custodia de las obras públicas que integran el patrimonio de la dependencia o entidad, y sobre los bienes de los cuales tenga posesión legítima, así como mantener actualizado el inventario de las obras públicas comprendidas en sus ámbitos de competencia;
+###### Artículo 12.
 
-VIII. Facilitar al personal de la Secretaría y de la Contraloría, con propósitos de verificación, el acceso a cualquier etapa del proceso de licitación o ejecución de las obras públicas y de los servicios relacionados con las mismas, así como proveerlas de toda la información que les sea solicitada;
+Ninguna autoridad podrá ejercer mandamiento judicial o administrativo sobre los bienes asignados al Congreso.
 
-> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2021)</small>
+Tampoco podrá cumplimentarse mandamiento judicial o administrativo sobre los bienes de los Diputados en el interior de las instalaciones del Congreso.
 
-IX. Vigilar que la ejecución de las obras públicas y de los servicios relacionados con las mismas, se sujete a los lineamientos y especificaciones autorizadas;
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE JUNIO DE 1997)</small>
 
-> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2021)</small>
-
-X. Intervenir en la recepción de las obras públicas y servicios relacionados con las mismas, así como en la verificación de las especificaciones, calidad, costo y cantidad convenidos y, en su caso, oponerse a la recepción para los efectos legales a que haya lugar; y
-
-XI. En general, cumplir con las resoluciones y bases que emita la Secretaría conforme a esta ley.
-
-###### ARTÍCULO 11.
-
-Asimismo, para coadyuvar en el cumplimiento de los objetivos del Comité, se creará una Comisión, que servirá como órgano auxiliar del mismo, con las funciones establecidas en el artículo 6, fracciones VII y X, de la presente ley, integrándose de la siguiente manera:
-
-I. Un vocal técnico, quien la presidirá y será designado por el titular de la Secretaría;
-
-II. Un representante de la Contraloría;
-
-III. Un representante del área responsable de la ejecución de la obra en la Secretaría;
-
-IV. Un representante del área responsable de los concursos de obra pública en la Secretaría;
-
-V. Un representante del área responsable de la normatividad de la obra pública en la Secretaría; y
-
-VI. Un representante de la dependencia o entidad que pretende contratar obra pública o servicios relacionados con la misma.
-
-> <small>(REFORMADO, P.O. 9 DE ENERO DE 2019)</small>
-
-La Comisión podrá invitar a sus sesiones a la representación de las Cámaras y Colegios de Profesionistas relacionados con la construcción y servicios requeridos para ella, así como a otros grupos de interés.
-
-###### ARTÍCULO 12.
-
-El gasto aplicable a las obras públicas y a los servicios relacionados con las mismas que realicen el Gobierno del Estado o los Ayuntamientos, quedará sujeto a sus respectivos presupuestos de egresos, a las disposiciones normativas que regulan el ejercicio y control del gasto público, a los preceptos de esta ley y a los convenios o acuerdos que celebren la Federación, el Estado y los Municipios.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JULIO DE 2015)</small>
-
-### CAPÍTULO ÚNICO
+### CAPITULO II. DEL COLEGIO ELECTORAL
 
 ###### ARTÍCULO 6.
 
@@ -393,835 +355,661 @@ VII. Llevar a cabo las instrucciones recibidas por parte del presidente, y
 
 VIII. Las demás que le asigne el Comité.
 
-###### ARTÍCULO 13.
+###### Artículo 13.
 
-La ejecución de las obras públicas que realicen el Gobierno del Estado o los Ayuntamientos con cargo total o parcial a fondos aplicados por la Federación, con excepción de las Aportaciones establecidas en la Ley de Coordinación Fiscal, estará sujeta a Las disposiciones de la ley federal en la materia, y en lo conducente a lo dispuesto por este ordenamiento, así como a lo pactado en los convenios y acuerdos de coordinación que se celebren.
+(DEROGADO, P.O. 18 DE JUNIO DE 1997)
 
-En lo que corresponde a la ejecución de obras públicas que realicen los Ayuntamientos con cargo total o parcial a fondos aportados por el Gobierno del Estado, se sujetará a lo dispuesto por esta ley y lo previsto en los convenios y acuerdos de coordinación que celebren con el Ejecutivo Local.
+###### Artículo 14.
 
-###### ARTÍCULO 14.
+(DEROGADO, P.O. 18 DE JUNIO DE 1997)
 
-Cuando por las condiciones especiales de las obras públicas y de los servicios relacionados con las mismas se requiera la intervención de dos o más dependencias o entidades, o la participación de dos o más Ayuntamientos, quedará a cargo de cada uno de ellos la responsabilidad sobre la ejecución de la parte de los trabajos que les corresponda, sin perjuicio de la responsabilidad que en razón de sus atribuciones tenga la encargada de la planeación y programación del conjunto.
+###### Artículo 15.
 
-> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2011)</small>
+(DEROGADO, P.O. 18 DE JUNIO DE 1997)
 
-Previamente a la ejecución de las obras públicas o servicios relacionados con las mismas a que se refiere este artículo, se deberán establecer convenios o acuerdos donde se especifiquen los términos para la coordinación de las acciones del Comité o Ayuntamientos que intervengan.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE JUNIO DE 1997)</small>
 
-###### ARTÍCULO 15.
-
-El Ejecutivo Estatal aplicará la presente ley por conducto de la Secretaría y de la Contraloría, en el ámbito de sus respectivas competencias, sin perjuicio de la intervención que se atribuya a otras dependencias del propio Ejecutivo conforme a este ordenamiento u otras disposiciones legales.
-
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2004)</small>
-
-Para efectos administrativos, la Secretaría y la Contraloría, quedan facultadas para interpretar las disposiciones de esta ley, en el ámbito de sus respectivas competencias.
-
-Los Ayuntamientos aplicarán esta ley en sus respectivos municipios, observando lo dispuesto en el Código Municipal.
-
-### CAPÍTULO PRIMERO. DE LOS DIRECTORES RESPONSABLES DE OBRA
-
-ARTÍCULO 19 BIS. (DEROGADO, P.O. 23 DE SEPTIEMBRE DE 2021)
-
-ARTÍCULO 19 TER. (DEROGADO, P.O. 23 DE SEPTIEMBRE DE 2021)
-
-ARTÍCULO 19 QUATER. (DEROGADO, P.O. 23 DE SEPTIEMBRE DE 2021)
-
-ARTÍCULO 19 QUINQUES. (DEROGADO, P.O. 23 DE SEPTIEMBRE DE 2021)
-
-> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE SEPTIEMBRE DE 2021)</small>
+### CAPITULO III. LA COMISION INSTALADORA DEL COLEGIO ELECTORAL
 
 ###### ARTÍCULO 9.
 
 El representante de la Secretaría de Finanzas en el Comité deberá asistir a sus sesiones y presentará por escrito el informe sobre si la obra solicitada cuenta con los recursos presupuestales necesarios para su realización.
 
-###### ARTÍCULO 16.
+###### Artículo 16.
 
-A partir del momento de su recepción, el mantenimiento en buenas condiciones de las obras públicas es responsabilidad de las dependencias, entidades y Ayuntamientos.
+(DEROGADO, P.O. 18 DE JUNIO DE 1997)
 
-###### ARTÍCULO 17.
+###### Artículo 17.
 
-En materia de obras públicas y servicios relacionados con las mismas, las dependencias, entidades y Ayuntamientos observarán criterios que promuevan la modernización y desarrollo administrativo, la descentralización de funciones y la efectiva delegación de facultades.
+(DEROGADO, P.O. 18 DE JUNIO DE 1997)
 
-###### ARTÍCULO 18.
+###### Artículo 18.
 
-Corresponde a las dependencias, entidades y Ayuntamientos llevar a cabo los procedimientos para contratar y ejecutar las obras públicas y servicios relacionados con las mismas, por lo que en ningún caso se podrán contratar servicios para que por su cuenta y orden se contraten las obras o servicios de que se trate.
+(DEROGADO, P.O. 18 DE JUNIO DE 1997)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE ABRIL DE 2022)</small>
+### CAPITULO IV. DE LA CALIFICACION DE ELECCIONES
 
-### CAPÍTULO SEGUNDO. DE LOS CORRESPONSABLES
+###### Artículo 19.
 
-ARTÍCULO 19 SEXIES. (DEROGADO, P.O. 23 DE SEPTIEMBRE DE 2021)
+(DEROGADO, P.O. 18 DE JUNIO DE 1997)
 
-ARTÍCULO 19 SEPTIES. (DEROGADO, P.O. 23 DE SEPTIEMBRE DE 2021)
+###### Artículo 20.
 
-ARTÍCULO 19 OCTIES. (DEROGADO, P.O. 23 DE SEPTIEMBRE DE 2021)
+(DEROGADO, P.O. 18 DE JUNIO DE 1997)
 
-ARTÍCULO 19 NONIES. (DEROGADO, P.O. 23 DE SEPTIEMBRE DE 2021)
+###### Artículo 21.
 
-> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE SEPTIEMBRE DE 2021)</small>
+(DEROGADO, P.O. 18 DE JUNIO DE 1997)
 
-###### ARTÍCULO 19.
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 1997)</small>
 
-Las controversias que se susciten con motivo de la interpretación y cumplimiento de los contratos celebrados con base en esta Ley, serán resueltas por el Tribunal de Justicia Administrativa del Estado de Tamaulipas, en relación con el Gobierno del Estado de Tamaulipas y los Ayuntamientos.
+###### Artículo 22.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE SEPTIEMBRE DE 2004)</small>
+En el año de la Elección de Diputados Locales, la Diputación Permanente además de sus funciones, será el enlace con la siguiente Legislatura. El Congreso del Estado comunicará a la Comisión Estatal Electoral, la designación de la Diputación Permanente.
 
-En todas las cuestiones no previstas en la presente ley, se aplicarán supletoriamente las disposiciones del Código Civil y del Código de Procedimientos Civiles para el Estado de Tamaulipas.
+En el año de la elección del Titular del Poder Ejecutivo, el Pleno del Congreso, o en su caso la Diputación Permanente, dará a conocer en todo el Estado la Declaración de Gobernador Electo, de acuerdo a lo dispuesto por la fracción XV del Artículo 63 de la Constitución Política del Estado; misma que se mandará publicar en el Periódico Oficial del Estado y en los periódicos de mayor circulación en la entidad.
 
-> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE SEPTIEMBRE DE 2021)</small>
+###### Artículo 23.
 
-###### ARTÍCULO 20.
+(DEROGADO, P.O. 1 DE JUNIO DE 1994)
 
-En la planeación de las obras públicas y de los servicios relacionados con las mismas, las dependencias, entidades y Ayuntamientos, deberán:
+###### Artículo 24.
 
-I. Ajustarse al Plan Estatal de Desarrollo y al Plan Municipal de Desarrollo correspondiente, así como a sus programas sectoriales;
+(DEROGADO, P.O. 1 DE JUNIO DE 1994)
 
-II. Considerar la disponibilidad de recursos, basándose en los presupuestos de egresos;
+### CAPITULO V. DE LA INSTALACION DEL CONGRESO
 
-III. Verificar si en los archivos de las diversas dependencias, entidades y Ayuntamientos, existen estudios o proyectos relacionados con la obra pública que se pretenda desarrollar. En el supuesto de que se advierta su existencia y se compruebe que los mismos satisfacen los requerimientos, no procederá la contratación, con excepción de aquellos trabajos que sean necesarios para su adecuación, actualización o complemento;
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2003)</small>
 
-> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2021)</small>
+###### Artículo 25.
 
-IV. Previamente a la realización de los trabajos, tramitar y obtener de las autoridades competentes los dictámenes, permisos, licencias, derechos de banco de extracción de materiales, así como la propiedad o los derechos de propiedad, incluyendo la liberación del derecho de vía y expropiación de inmuebles sobre los que se ejecutarán las obras públicas, los cuales deberán formar parte del expediente técnico respectivo. Todos los proyectos deberán incluir la ubicación geodésica dónde se realizarán los trabajos. En las bases de licitación se precisarán, en su caso, aquellos trámites que corresponderá realizar al contratista;
+Una vez calificadas las elecciones de Diputados con arreglo a la Constitución Política del Estado y a la Ley Electoral del Estado, y recibidas por los interesados las credenciales respectivas, el Presidente de la Diputación Permanente citará a los Diputados Electos para que se presenten al Recinto del Congreso, el 16 de agosto del año de la elección, para iniciar las Juntas Preparatorias correspondientes.
 
-V. Considerar los efectos que la ejecución de las obras públicas puedan causar sobre el medio ambiente, evaluando el impacto ambiental previsto por la legislación de la materia, estudios que deberán formar parte del expediente técnico respectivo. Los proyectos deberán incluir las obras necesarias para que se preserven o restituyan en forma equivalente las condiciones ambientales, cuando éstas pudieran deteriorarse;
+Con la citación anterior la Comisión Instaladora concluirá sus funciones.
 
-VI. Prever las obras principales, las complementarias o accesorias y las acciones necesarias para su funcionamiento, estableciendo las etapas que se requieran para su terminación;
+###### Artículo 26.
 
-> <small>(REFORMADA, P.O. 9 DE ENERO DE 2019)</small>
+La Primera Junta Preparatoria se instalará con la mayoría de los Diputados Electos, bajo la Presidencia del Diputado que haya obtenido el mayor número de votos o en su defecto en el orden progresivo del número de votos y exclusivamente se elegirá la Directiva de las Juntas Preparatorias la que estará integrada por un Presidente, dos Secretarios y dos Suplentes que cubrirán las faltas de cualquiera de ellos.
 
-VII. Observar las disposiciones en materia de asentamientos humanos, desarrollo urbano y construcción, con apoyo en el Director Responsable de Obra;
+Electa la Directiva de las Juntas Preparatorias a que se refiere el artículo anterior, los presuntos Diputados entregarán sus credenciales al Presidente.
 
-VIII. Considerar preferentemente el empleo de los recursos humanos y la utilización de los materiales propios de la región donde se ubiquen las obras, y
+###### Artículo 27.
 
-IX. Considerar preferentemente y en igualdad de circunstancias, a los contratistas de la localidad donde se ubiquen las obras y, posteriormente, a los del Estado.
+Los presuntos Diputados designarán una Comisión integrada por tres de ellos que revisará las credenciales de los restantes, y otra integrada por igual número, que revisará las de los miembros de la primera comisión.
 
-###### ARTÍCULO 21.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2003)</small>
 
-Los contratos de servicios relacionados con las obras públicas, sólo podrán celebrarse cuando las áreas responsables de su ejecución no dispongan cuantitativa o cualitativamente de los elementos, instalaciones y personal para llevarlos a cabo, lo que deberá justificarse a través del dictamen que para tal efecto emita el titular del área responsable de la ejecución de los servicios.
+###### Artículo 28.
 
-###### ARTÍCULO 22.
+El día 19 de agosto del año de la elección, se rendirán los dictámenes formulados por las comisiones a que se refiere el artículo anterior, los que se pondrán a consideración de la Asamblea para su estudio o aprobación en su caso.
 
-Las dependencias, las entidades y los Ayuntamientos elaborarán sus programas de obras públicas y de servicios relacionados con las mismas, así como sus respectivos presupuestos con base en las políticas, prioridades y recursos identificados en el Plan Estatal de Desarrollo y en el respectivo Plan Municipal de Desarrollo, considerando además:
+###### Artículo 29.
 
-I. Los objetivos y metas a corto, mediano y largo plazos;
+Para conocer y en su caso aprobar los dictámenes relativos a la revisión de las credenciales de los presuntos Diputados, se celebrarán las Juntas Preparatorias que sean necesarias, las que se llevarán a cabo diariamente.
 
-II. Las acciones previas, durante y posteriores a la ejecución de las obras públicas incluyendo, cuando corresponda, las obras principales, las de infraestructura, las complementarias y accesorias, así como las acciones para poner aquéllas en servicio;
+###### Artículo 30.
 
-III. Los recursos necesarios para su ejecución y la calendarización física y financiera de los mismos, así como los gastos de operación;
+El día anterior al de la Apertura de Sesiones del Período Ordinario del año de la elección, los presuntos Diputados celebrarán la última de las Juntas Preparatorias, en la que todos, cuyas credenciales hubiesen sido aprobadas rendirán su protesta. A ese respecto, todos de pié, el Presidente de la Directiva dirá: "PROTESTO GUARDAR Y HACER GUARDAR LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS, LA CONSTITUCION POLITICA DEL ESTADO DE NUEVO LEON, Y LAS LEYES QUE DE ELLAS EMANEN Y DESEMPEÑAR LEAL Y PATRIOTICAMENTE EL CARGO DE DIPUTADO QUE EL PUEBLO ME HA CONFERIDO. SI NO LO HICIERE ASI, QUE LA NACION Y EL ESTADO ME LO DEMANDEN".
 
-IV. Las unidades responsables de su ejecución, así como las fechas previstas de iniciación y terminación de los trabajos;
+###### Artículo 31.
 
-V. Los estudios de preinversión que se requieran para definir la factibilidad técnica, económica, ambiental y social de los trabajos;
+Luego de prestar el Presidente de las Juntas Preparatorias su protesta, todos de pié, preguntará a los Diputados electos: "¿PROTESTAIS GUARDAR Y HACER GUARDAR LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS, LA DEL ESTADO DE NUEVO LEON Y LAS LEYES QUE DE ELLAS EMANEN, Y DESEMPEÑAR LEAL Y PATRIOTICAMENTE EL CARGO DE DIPUTADO QUE EL PUEBLO OS HA CONFERIDO?". Los Diputados electos contestarán: "SI PROTESTO; y el Presidente agregará: SI NO LO HICIEREIS ASI QUE LA NACION Y EL ESTADO OS LO DEMANDEN".
 
-VI. La coordinación que sea necesaria para resolver posibles interferencias y evitar duplicación de trabajos o interrupción de servicios públicos;
+###### Artículo 32.
 
-VII. Las investigaciones, asesorías, consultorías y estudios que se requieran, incluyendo los proyectos arquitectónicos y de ingeniería necesarios;
+Cuando uno o más de los Diputados se presentaren después de la protesta a que se refiere el artículo anterior, deberán prestarla a su vez en los términos indicados, sin cuyo requisito no podrán tomar posesión de su cargo.
 
-VIII. La adquisición y regularización de la tenencia de la tierra, necesarios para la realización de la obra;
+## TITULO SEGUNDO
 
-IX. Los trabajos de mantenimiento de los bienes inmuebles a su cargo;
+### CAPITULO UNICO. DE LA APERTURA DE SESIONES
 
-X. Los permisos, autorizaciones y licencias que se requieran para la realización de la obra;
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2003)</small>
 
-XI. La ejecución, que deberá incluir el costo estimado de las obras públicas y servicios relacionados con las mismas que se realicen por contrato y, en caso de realizarse por administración directa, los costos de los recursos necesarios; las condiciones de suministro de materiales, de maquinaria, de equipos o de cualquier otro accesorio relacionado con los trabajos; los cargos para pruebas y funcionamiento, así como los indirectos de los trabajos, y
+###### Artículo 33.
 
-XII. Las demás previsiones y características de los trabajos.
+El día anterior a la apertura de sesiones, se procederá por escrutinio secreto a la elección de la Directiva del Congreso que se compondrá de un Presidente, dos Vicepresidentes y dos Secretarios, quienes entrarán en el desempeño de sus funciones a partir del día 1º de septiembre, concluyendo los trabajos de la Directiva de las Juntas Preparatorias.
 
-Los documentos citados en las fracciones III, IV, V, VII, VIII y X de este artículo, deberán formar parte del expediente técnico correspondiente.
+###### Artículo 34.
 
-###### ARTÍCULO 23.
+La directiva comunicará la instalación del Congreso a los Poderes Ejecutivo y Judicial, independientemente de que se haga por medio de oficio, así como a las demás autoridades.
 
-En la programación de las obras públicas, se preverá la realización de los estudios y proyectos arquitectónicos y de ingeniería que se requieran, y las normas y especificaciones de ejecución aplicables.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2003)</small>
 
-El programa de la obra pública indicará las fechas previstas de iniciación y terminación de todas sus fases, considerándose las acciones previas a su iniciación y las características ambientales, climatológicas y geográficas de la región donde debe realizarse.
+###### Artículo 35.
 
-Los estudios, programas, normas y especificaciones, mencionados en el primero y segundo párrafos de este artículo, deberán formar parte del expediente técnico.
+Con la elección de la Directiva a que se refiere el Artículo 33 de esta Ley, el nuevo Congreso se tendrá por legalmente constituido a partir del día 1º de septiembre, fecha en que se formulará el Decreto correspondiente.
 
-###### ARTÍCULO 24.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2003)</small>
 
-Las instalaciones públicas deberán asegurar la accesibilidad, evacuación y libre tránsito sin barreras arquitectónicas para todas las personas, así como cumplir con las normas de diseño y señalización en instalaciones, circulaciones, servicios sanitarios y demás instalaciones análogas para las personas con discapacidad.
+###### Artículo 36.
 
-### CAPÍTULO TERCERO. DE LAS RESPONSABILIDADES Y SANCIONES DE LOS DIRECTORES RESPONSABLES DE OBRA Y CORRESPONSABLES
+El día 1º de septiembre de cada tres años, a las 11:00 horas, se reunirán los Diputados en el Recinto Oficial en Sesión Solemne en la que una vez que tome posesión la Directiva de la nueva Legislatura, el Presidente hará la declaración solemne de apertura, pronunciando las siguientes palabras en voz alta: ("La (número) Legislatura del H. Congreso del Estado, abre hoy 1º de septiembre de (año), el Primer Período Ordinario de Sesiones correspondiente al Primer Año de Ejercicio Constitucional").
 
-ARTÍCULO 19 DECIES. (DEROGADO, P.O. 23 DE SEPTIEMBRE DE 2021)
+La misma declaratoria se hará en la apertura del segundo y tercer año.
 
-ARTÍCULO 19 DUODECIES. (DEROGADO, P.O. 23 DE SEPTIEMBRE DE 2021)
+Si se tratara del período de excepción a que se refiere el segundo párrafo del artículo 55 de la Constitución Política del Estado se hará constar esta circunstancia.
 
-ARTÍCULO 19 TERDECIES. (DEROGADO, P.O. 23 DE SEPTIEMBRE DE 2021)
+> <small>(ADICIONADO, P. O. 21 DE NOVIEMBRE DE 1994)</small>
 
-ARTÍCULO 19 QUATERDECIES. (DEROGADO, P.O. 23 DE SEPTIEMBRE DE 2021)
+En esta Sesión se harán los honores a nuestra Enseña Patria y se entonará el Himno Nacional.
 
-ARTÍCULO 19 QUINDECIES. (DEROGADO, P.O. 23 DE SEPTIEMBRE DE 2021)
+###### Artículo 37.
 
-###### ARTÍCULO 25.
+Si por falta del quórum establecido en el Artículo 56 de la Constitución Política del Estado, el Congreso no queda instalado para la fecha indicada en el Artículo anterior, de conformidad con el Artículo 67 Constitucional, la Legislatura cuyo ejercicio termina, continuará en funciones hasta que deje instalada a la nueva.
 
-En las obras públicas y en los servicios relacionados con las mismas, cuya ejecución rebase un ejercicio presupuestal, las dependencias, entidades o municipios deberán determinar tanto el presupuesto total, como el relativo a los ejercicios de que se trate; en la formulación de los presupuestos de los ejercicios subsecuentes, además de considerar los costos que, en su momento se encuentren vigentes, se deberán tomar en cuenta las previsiones necesarias para los ajustes de costos y convenios que aseguren la continuidad de los trabajos.
+###### Artículo 38.
 
-El presupuesto actualizado será la base para solicitar la asignación de cada ejercicio presupuestal subsecuente.
+Cuando se trate de iniciación de Período Extraordinario de Sesiones se hará la declaratoria conforme a tales circunstancias.
 
-La asignación presupuestal aprobada para cada contrato servirá de base para otorgar, en su caso, el porcentaje pactado por concepto de anticipo.
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JUNIO DE 2011)</small>
+###### Artículo 39.
 
-###### ARTÍCULO 26.
+En las sesiones solemnes del Congreso se harán los honores a nuestra Enseña Patria y se entonará el Himno Nacional.
 
-Las dependencias, entidades o los Ayuntamientos podrán, a través del Comité, convocar, adjudicar o contratar obras públicas y servicios relacionados con las mismas, solamente cuando cuenten con la aprobación, global o específica, del presupuesto de inversión y de gasto corriente, conforme a los cuales deberán elaborarse los programas de ejecución y pago correspondientes.
+En la Sesión Solemne en la que el Gobernador Constitucional del Estado haya de rendir el Informe a que se refiere el Artículo 57 de la Constitución Política del Estado, serán invitados los Magistrados del Tribunal Superior de Justicia, el Presidente Municipal de Monterrey, la Primera Autoridad Militar en el Estado y demás personas que se estime conveniente como invitados de honor.
 
-Los documentos que acrediten la autorización global o específica del presupuesto de inversión, deberán formar parte del expediente técnico.
+En estas sesiones, los representantes de los tres Poderes del Gobierno del Estado se ubicarán en el nivel superior del estrado.
 
-###### ARTÍCULO 27.
+La Directiva podrá girar invitaciones a otras autoridades y ciudadanos para que asistan a estas sesiones.
 
-La Secretaría administrará el padrón y fijará los criterios y procedimientos para clasificar a los contratistas inscritos en él, de acuerdo con la capacidad técnica y económica de éstos.
+## TITULO TERCERO
 
-No será requisito estar inscrito en el padrón para participar en las licitaciones públicas convocadas por la Comisión o los Ayuntamientos.
+### CAPITULO I. DE LOS GRUPOS LEGISLATIVOS
 
-> <small>(REFORMADO, P.O. 7 DE JULIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 1999)</small>
 
-Adicionalmente al padrón de la Secretaría, los Ayuntamientos podrán instaurar su propio padrón, siempre y cuando se sujeten a lo dispuesto en este Capítulo, o regirse por el de la Secretaría, para el caso de obras públicas o servicios relacionados con las mismas que se realicen con recursos exclusivamente municipales.
+###### Artículo 40.
 
-En la convocatoria y contratación de las obras públicas que se adjudiquen por el procedimiento de invitación a cuando menos tres contratistas, así como en la contratación de los servicios relacionados con las mismas, la Comisión y los Ayuntamientos deberán considerar la clasificación a que se refiere el párrafo primero de este artículo.
+Los Diputados que pertenezcan a un mismo Partido Político se constituirán en un Grupo Legislativo para actuar en forma orgánica y coordinada en todos los trabajos del Congreso.
 
-> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2011)</small>
+Los Diputados no podrán pertenecer a dos o más Grupos Legislativos, los que pertenezcan a un mismo partido, en ningún caso pueden constituir uno o más Grupos Legislativos separados.
 
-Cuando los contratistas queden registrados en el padrón, dentro de los cinco días hábiles posteriores, la Secretaría lo hará del conocimiento del Comité y de los Ayuntamientos, y dispondrá su publicación en el Periódico Oficial del Estado.
+> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 2007)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JUNIO DE 2011)</small>
+###### Artículo 41.
 
-###### ARTÍCULO 28.
+Todos los Grupos Legislativos, con las excepciones previstas en esta Ley, y en el Reglamento para el Gobierno Interior del Congreso del Estado de Nuevo León, gozarán de idénticos derechos y obligaciones.
 
-Los contratistas interesados en inscribirse en el padrón deberán solicitarlo por escrito ante la Secretaría, acompañando, según su naturaleza jurídica y características, lo siguiente:
+###### Artículo 42.
 
-I. Manifestación de información general del interesado;
+Los Grupos Legislativos son organismos coadyuvantes del proceso legislativo y tienden a lograr la participación de los Diputados en las actividades legislativas y a contribuir y orientar la formación de criterios comunes en las deliberaciones y discusiones que se lleven a cabo, por los integrantes del Congreso en las Sesiones correspondientes.
 
-II. Comprobante de domicilio fiscal;
+###### Artículo 43.
 
-III. Escritura constitutiva y modificaciones a la misma o, en su caso, acta de nacimiento;
+Para crear un Grupo Legislativo es requisito esencial que lo integren Diputados de igual afiliación partidista. Se tendrán por legalmente constituídos cuando presenten a la Directiva del Congreso los documentos siguientes:
 
-IV. Documentos que comprueben la experiencia y capacidad técnica;
+I.- Acta en la que conste la decisión de los Diputados de constituirse en Grupo, especificando el nombre del mismo y agregando la lista de los integrantes.
 
-V. Documentos que comprueben los recursos económicos y financieros;
+II.- Nombre y firma del Diputado que resulte designado como Coordinador del Grupo Legislativo.
 
-VI. Documentos que comprueben la propiedad de la maquinaria y equipo;
+En los casos en que un partido esté representado por un solo diputado, éste podrá integrar un Grupo Legislativo.
 
-VII. Comprobante de inscripción en el Registro Federal de Contribuyentes de la Secretaría de Hacienda y Crédito Público;
+###### Artículo 44.
 
-VIII. Comprobante de inscripción en la Cámara de la Industria que le corresponda, si el contratista ha optado por integrarse a esa forma de asociación;
+Los Grupos Legislativos en la segunda sesión del Primer Período Ordinario de Sesiones del primer año de ejercicio constitucional, harán entrega de la documentación a la que se refiere el artículo anterior. El Presidente hará en su caso la declaratoria de quedar constituído el Grupo de que se trate.
 
-IX. Comprobante de inscripción en el Registro Patronal en el Instituto Mexicano del Seguro Social;
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
 
-X. Comprobante de inscripción en el Registro Patronal en el Instituto del Fondo Nacional para la Vivienda para los Trabajadores;
+###### Artículo 45.
 
-XI. Comprobante de la última declaración del Impuesto Sobre la Renta;
+Corresponde a los Coordinadores de los Grupos Legislativos:
 
-> <small>(REFORMADA, P.O. 8 DE MAYO DE 2017)</small>
+I.- Ser integrantes de la Comisión de Coordinación y Régimen Interno; y
 
-XII. Comprobante de pago de los derechos que establezca la ley respectiva; así como los documentos que comprueben el no adeudo del contratista interesado, con el Instituto Mexicano del Seguro Social (IMSS);
+II.- Realizar tareas de coordinación y concertación con los Órganos de Dirección y de Trabajo de la Legislatura.
 
-XIII. Cédula Profesional del responsable técnico; y
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE ABRIL DE 1999)</small>
 
-> <small>(REFORMADA, P.O. 8 DE MAYO DE 2017)</small>
+###### Artículo 46.
 
-XIV. Manifestación del domicilio para oír y recibir notificaciones en la capital del Estado, cuando el domicilio fiscal se encuentre fuera de la jurisdicción territorial de Tamaulipas; y
+Los integrantes de la Legislatura podrán formar nuevos Grupos Legislativos bajo las siguientes condiciones:
 
-> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2017)</small>
+I.- Cuando un Partido Político cambie de denominación;
 
-XV. Documentos que comprueben el no adeudo del contratista interesado, con el Servicio de Administración Tributaria (SAT).
+II.- Cuando se disuelva un Grupo Legislativo; y
 
-> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2011)</small>
+III.- (DEROGADA, P.O. 9 DE ABRIL DE 1999)
 
-La Secretaría podrá verificar en cualquier tiempo, la información a que se refiere este artículo; asimismo, podrá emitir los lineamientos meramente administrativos que deberán cumplir los interesados para inscribirse en el padrón, los cuales deberán publicarse previamente en el Periódico Oficial del Estado.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2007)</small>
 
-###### ARTÍCULO 29.
+Sólo podrán formar Grupos Legislativos los Diputados cuyos partidos hayan participado en la elección. Aquellos que no se inscriban o dejen de pertenecer a un Grupo Legislativo, sin integrarse a otro existente, serán considerados como Diputados sin partido y tendrán las mismas consideraciones y prerrogativas que los demás Legisladores y se les apoyará de igual manera para que puedan desempeñar sus funciones.
 
-El registro en el padrón tendrá vigencia de un año, contado a partir de la fecha en que sea otorgado el mismo.
+###### Artículo 47.
 
-> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2011)</small>
+Los Diputados que integran un Grupo Legislativo tomarán asiento en las curules que correspondan al Grupo de que forme parte.
 
-Los contratistas que tengan interés en continuar inscritos en el padrón, presentarán ante la Secretaría, dentro de los treinta días hábiles anteriores al vencimiento de su registro, su solicitud de refrendo, acompañarán la información y documentos que procedan en los términos del artículo 28 de esta ley.
+###### Artículo 48.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JUNIO DE 2011)</small>
+Los Grupos Legislativos dispondrán de locales adecuados en las instalaciones del Congreso, así como Asesores, Personal y elementos materiales necesarios para el cumplimiento de sus funciones de acuerdo con las posibilidades financieras del Congreso.
 
-###### ARTÍCULO 30.
+###### Artículo 49.
 
-La Secretaría resolverá las solicitudes de inscripción o refrendo, dentro de los quince días naturales siguientes a la fecha de recepción de la solicitud correspondiente.
+Del presupuesto aprobado para la función legislativa se destinarán partidas de gastos para ser dispuestas por cada Grupo Legislativo proporcionalmente al número de diputados que los integran, y de acuerdo a los criterios que emita el Comité de Administración.
 
-> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2011)</small>
+La aplicación de las cantidades a que se hace referencia en este Artículo, deberán ser justificadas y cumplirse con las disposiciones vigentes en materia de Contabilidad Pública y Control Administrativo Interno.
 
-Si la solicitud fuese confusa o la documentación estuviera incompleta, la Secretaría solicitará su aclaración o complementación, dentro de los cinco días hábiles siguientes a su recepción. El solicitante realizará la aclaración o presentará la información solicitada en el plazo que le señale la Secretaría, pero si ello no ocurre se le tendrá por desistido sin responsabilidad para dicha dependencia. En todo caso, el plazo a que se refiere el primer párrafo de este artículo se computará a partir de que el interesado haya subsanado la aclaración o la falta de documentación.
+## TITULO CUARTO
 
-Las determinaciones negativas a la solicitud de registro estarán fundadas y motivadas; además, señalarán el plazo con el que cuenta el solicitante para pedir la devolución de los documentos que hubiere presentado.
+### CAPITULO I. ORGANIZACION DEL CONGRESO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
 
-###### ARTÍCULO 31.
+###### Artículo 50.
 
-La Secretaría está facultada para suspender el registro de los contratistas, cuando:
+Para la realización de sus atribuciones, el Congreso del Estado cuenta con los siguientes órganos:
 
-I. La autoridad competente los declare en estado de quiebra o, en su caso, sujeto a concurso de acreedores;
+I.- Legislativos:
 
-II. Incurran en cualquier acto u omisión que les sea imputable y que perjudique los intereses de la dependencia, entidad o Ayuntamiento contratante;
+a) De Decisión:
 
-III. Hayan celebrado contratos en contravención a lo dispuesto por esta ley, por causas que le sean imputables, o
+1. Pleno del Congreso; y
 
-IV. Se les declare legalmente incapacitados para contratar.
+2. Diputación Permanente;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JUNIO DE 2011)</small>
+b) De Dirección:
 
-###### ARTÍCULO 32.
+1. Directiva; y
 
-La Secretaría está facultada para cancelar el registro de los contratistas, cuando:
+2. Comisión de Coordinación y Régimen Interno;
 
-I. Hubieren proporcionado, para la inscripción o refrendo, información que resultase falsa;
+c) De Trabajo Legislativo:
 
-II. Hubieren actuado con dolo o mala fe en un concurso o en la ejecución de una obra o de un contrato de servicios relacionados con la misma;
+1. Comisiones; y
 
-III. Se hubiese resuelto, conforme a los procedimientos establecidos en esta ley, el incumplimiento de algún contrato por alguna causa imputable a ellos, y perjudiquen gravemente el interés general o los intereses de la dependencia, entidad o Ayuntamiento contratante, o
+2. Comités;
 
-IV. Hubieren sido sujetos a concurso mercantil.
+II.- De Soporte Técnico:
 
-> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2011)</small>
+a) Oficialía Mayor;
 
-## TÍTULO SEGUNDO. DE LA OBRA PÚBLICA
+b) Tesorería;
 
-### CAPÍTULO ÚNICO
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2007)</small>
 
-###### ARTÍCULO 33.
+c) Órgano de Fiscalización Superior; y
 
-Las resoluciones emitidas por la Secretaría que nieguen las solicitudes de inscripción o refrendo, o determinen la suspensión o la cancelación del registro en el padrón, se notificarán personalmente en el domicilio fiscal del contratista o, en su caso, en el que hubiere señalado conforme a la fracción XIV del artículo 28 de esta ley.
+d) Centro de Estudios Legislativos;
 
-Contra las resoluciones señaladas en el párrafo anterior, los interesados podrán interponer ante la Secretaría, el recurso de revocación que esta ley señala.
+III.- De Apoyo:
 
-###### ARTÍCULO 34.
+a) Dirección de Comunicación Social;
 
-Las obras públicas que lleven a cabo el Gobierno del Estado o los Ayuntamientos, deberán efectuarse por contrato o por administración directa; incluyéndose todas aquellas particularidades necesarias para el estricto cumplimiento de los proyectos, incluyendo los relacionados con la responsabilidad civil.
+b) Dirección de Informática;
 
-Para la realización de obras públicas, la dependencia, entidad o Ayuntamiento contarán preferentemente con los estudios y proyectos, especificaciones de construcción, normas de calidad y el programa de ejecución totalmente terminados; en todo caso, si no se hayan totalmente concluidos, deberán tener un avance tal en su desarrollo que permita a los licitantes preparar una propuesta solvente y, a su vez, ejecutar ininterrumpidamente los trabajos hasta su terminación.
+c) Coordinación de Seguridad; y
 
-> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2021)</small>
+d) Unidad de Adquisiciones.
 
-Previamente a la iniciación de las obras, deberá obtenerse licencia de construcción del Ayuntamiento respectivo, el cual resolverá sobre su otorgamiento.
+###### Artículo 51.
 
-###### ARTÍCULO 35.
+La organización y funcionamiento del Congreso por lo que corresponde a Debates, Sesiones, Iniciativas, Votaciones, Ceremonial, Procedimientos para expedición de Leyes, Decretos y Acuerdos y demás atribuciones del proceso legislativo previstas en las leyes correspondientes, se regulará por el Reglamento para el Gobierno Interior del Congreso.
 
-Las obras públicas que realicen el Gobierno del Estado o los Ayuntamientos, podrán contratarse mediante los procedimientos de:
+### CAPITULO II. DE LA DIRECTIVA
 
-I. Licitación pública;
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE JULIO DE 2010)</small>
 
-II. Invitación a cuando menos tres contratistas, y
+###### Artículo 52.
 
-III. Adjudicación directa.
+La Directiva es el órgano de dirección del Pleno del Congreso. Es responsable de la conducción de las sesiones del Pleno del Poder Legislativo, tiene las atribuciones señaladas en la presente Ley y en el Reglamento para el Gobierno Interior del Congreso. Se integra por un Presidente, que será el Presidente del Congreso, dos Vicepresidentes y dos Secretarios. La Presidencia del Congreso será rotativa entre los Grupos Legislativos, de acuerdo a su representación en el mismo. El primer año de ejercicio constitucional la ocupará un diputado del Grupo Legislativo de mayoría absoluta o de mayoría, el segundo año de ejercicio constitucional un diputado del Grupo Legislativo que sea la primera minoría, y el tercer año de ejercicio constitucional un diputado del Grupo Legislativo que sea la segunda minoría. En cada caso, uno de los Vicepresidentes y uno de los Secretarios deberán pertenecer a Grupos Legislativos distintos al del diputado que ocupe la Presidencia. Los integrantes de la Directiva durarán un año en el cargo.
 
-En los procedimientos de contratación deberán establecerse los mismos requisitos y condiciones para todos los participantes, especialmente por lo que se refiere a tiempo y lugar de entrega, plazos de ejecución, forma y tiempo de pago, penas convencionales, anticipos y garantías. Se deberá proporcionar a todos los interesados igual acceso a la información relacionada con dichos procedimientos a fin de evitar favorecer a algún participante.
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
 
-> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2011)</small>
+La Directiva se renovará en la primera sesión de cada año de ejercicio constitucional, pudiéndose hacer la designación en la última sesión del ejercicio anterior. La composición de la Directiva será plural. La Comisión de Coordinación y Régimen Interno hará las propuestas de quienes deberán integrarla, sin menoscabo del derecho que tiene cualquier Diputado para hacer alguna propuesta al respecto. La elección de los integrantes de la Directiva se hará por mayoría, mediante voto secreto y cédula. En caso de empate, la Comisión de Coordinación y Régimen Interno hará una nueva propuesta y las que sean necesarias, hasta conseguir la mayoría requerida.
 
-La licitación pública inicia con la publicación de la convocatoria y, en el caso de invitación a cuando menos tres personas, con la entrega de la primera invitación; ambos procedimientos concluyen con la emisión del fallo y la firma del contrato o, en su caso, con la cancelación del procedimiento respectivo.
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JUNIO DE 2011)</small>
+Para cubrir las ausencias del Presidente del Congreso se atenderá lo dispuesto en el Artículo 21 del Reglamento para el Gobierno Interior del Congreso. En los casos de los demás integrantes de este órgano de dirección se procederá en base a lo dispuesto en los Artículos 27 y 29 del mismo Reglamento.
 
-###### ARTÍCULO 36.
+###### Artículo 53.
 
-Los contratos de obras públicas que se adjudiquen mediante los procedimientos de licitación pública o invitación a cuando menos tres contratistas, se realizarán mediante la expedición de convocatoria pública o invitaciones, según corresponda, para que libremente se presenten proposiciones en sobres cerrados que serán abiertos públicamente, a fin de asegurar al Gobierno del Estado y los Ayuntamientos las mejores condiciones disponibles en precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes, conforme a lo establecido en esta ley.
+Se expedirá Decreto en el que conste el nombramiento de los integrantes de la Directiva del Congreso del Estado el que se enviará al Ejecutivo para su publicación en el Periódico Oficial y demás efectos legales.
 
-> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2011)</small>
+Por oficio se comunicará al Ejecutivo y al Poder Judicial del Estado y además a las Autoridades de los Estados y de la Federación.
 
-El sobre a que hace referencia este artículo podrán entregarse, a elección del licitante, en el lugar de celebración del acto de presentación y apertura de proposiciones, o bien, si así lo establece la convocatoria, enviarlo a través del servicio postal o de mensajería, o por medios remotos de comunicación electrónica, conforme a las disposiciones administrativas que establezca la Secretaría.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE AGOSTO DE 2000)</small>
 
-> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2011)</small>
+###### Artículo 54.
 
-En el caso de proposiciones presentadas por medios remotos de comunicación electrónica, el sobre será generado mediante el uso de tecnologías que guarden la confidencialidad de la información, de tal forma que sea inviolable, conforme a las disposiciones técnicas que al efecto establezca la Secretaría.
+La Directiva tiene las siguientes atribuciones:
 
-Las proposiciones presentadas deberán ser firmadas autógrafamente por los licitantes o sus apoderados; en caso de que aquéllas sean enviadas a través de medios remotos de comunicación electrónica, en sustitución de la firma autógrafa se emplearán medios de identificación electrónica, los cuales producirán los mismos efectos que las leyes otorgan a los documentos suscritos y, en consecuencia, tendrán el mismo valor probatorio.
+I.- Integrarse como un cuerpo coordinador de los trabajos del Pleno del Congreso;
 
-> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2000)</small>
 
-La Secretaría tendrá a su cargo el sistema de certificación de los medios de identificación electrónica que utilicen los licitantes y será responsable de ejercer el control de estos medios, salvaguardando la confidencialidad de la información que se remita por esta vía.
+II.- Conducir las sesiones del Congreso y garantizar el adecuado desarrollo de los debates, discusiones y votaciones del Pleno;
 
-En los procedimientos de contratación de obras públicas la Comisión optará, en igualdad de condiciones, por el empleo de los recursos humanos del municipio o región del Estado en donde se ejecuten y por la utilización de los bienes o servicios disponibles en la localidad.
+III.- Cuidar que las deliberaciones se den con absoluta libertad en la Tribuna del Congreso;
 
-###### ARTÍCULO 37.
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2000)</small>
 
-Las convocatorias podrán referirse a una o más obras públicas o a los servicios relacionados con las mismas y contendrán:
+IV.- Formular, someter a la aprobación del Pleno del Congreso y cumplir, el orden del día para las sesiones;
 
-I. La denominación o razón social de la dependencia, entidad o Ayuntamiento convocante;
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2000)</small>
 
-II. La forma en que los licitantes deberán acreditar su existencia legal, experiencia profesional, capacidad técnica y capacidad financiera requeridas para participar en la licitación, de acuerdo con las características, complejidad y magnitud de los trabajos;
+V.- Vigilar que el desarrollo de las sesiones y los actos emanados de las mismas, se encuentren apegados a esta Ley, al Reglamento para el Gobierno Interior del Congreso y a las demás disposiciones legales aplicables;
 
-> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2011)</small>
+> <small>(ADICIONADA, P.O. 16 DE AGOSTO DE 2000)</small>
 
-III. La indicación de los lugares, fechas y horarios en que los interesados podrán obtener las bases de la licitación y, en su caso, el costo y forma de pago de las mismas. Cuando las bases impliquen un costo, éste será fijado sólo en razón de la recuperación de las erogaciones por publicación de la convocatoria y de la reproducción de los documentos que se entreguen; los interesados podrán revisarlas previamente a su pago, el cual será requisito para participar en la licitación. Igualmente, los interesados podrán consultar y adquirir las bases de las licitaciones por los medios de difusión electrónica que establezca la Secretaría;
+VI.- Designar las comisiones de cortesía que juzgue pertinentes; y
 
-IV. Los lugares, fechas y horas de presentación y apertura de proposiciones, así como de visita al sitio de realización de los trabajos;
+> <small>(ADICIONADA, P.O. 16 DE AGOSTO DE 2000)</small>
 
-V. La descripción general de la obra y el lugar donde se llevarán a cabo los trabajos y, en su caso, la indicación de si podrán subcontratarse parte de los mismos;
+VII.- Las demás que le atribuyen esta Ley, el Reglamento para el Gobierno Interior y otras disposiciones legales aplicables.
 
-VI. El plazo de ejecución de los trabajos determinado en días naturales, indicando la fecha estimada de inicio de los mismos;
+###### Artículo 55.
 
-VII. Los porcentajes de los anticipos que, en su caso, se otorgarían;
+El ejercicio de las atribuciones del Congreso que no correspondan específicamente a la Directiva o a otro de los órganos del Congreso en particular, serán competencia de quien el Pleno determine.
 
-VIII. La indicación de que no podrán participar los contratistas que se encuentren en los supuestos del artículo 59 de esta ley, y
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
 
-IX. Los demás requisitos que deberán cumplir los interesados, según las características, complejidad y magnitud de los trabajos.
+###### Artículo 56.
 
-> <small>(REFORMADO, P.O. 4 DE MARZO DE 2021)</small>
+Al llegar al término de su cargo los integrantes de la Directiva rendirán al Pleno del Congreso, a través del Presidente, un informe por escrito de todas las actividades realizadas en el ejercicio de sus funciones, entregando copia del mismo a cada uno de los Diputados que integran la Legislatura.
 
-###### ARTÍCULO 38.
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
 
-Las convocatorias se publicarán en el Periódico Oficial del Estado y en los medios electrónicos de difusión que establezca la Secretaría.
+###### Artículo 57.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JUNIO DE 2011)</small>
+Cuando se celebre Período Extraordinario de Sesiones, la Directiva en funciones será la que haya sido electa en términos del artículo 52 de esta Ley para el año que corresponda.
 
-###### ARTÍCULO 39.
+###### Artículo 58.
 
-Las bases para las licitaciones públicas que emitan la Comisión o los Ayuntamientos, se pondrán a disposición de los interesados, tanto en el domicilio señalado por la convocante como en los medios de difusión electrónica que establezca la Secretaría, a partir del día en que se publique la convocatoria y hasta, inclusive, el sexto día natural previo al acto de presentación y apertura de proposiciones, siendo responsabilidad exclusiva de los interesados adquirirlas oportunamente durante este periodo.
+La Directiva a través del Presidente, hará respetar el fuero constitucional de los miembros integrantes del Congreso, en los términos que señala la Constitución, y velará también por la inviolabilidad del recinto legislativo.
 
-Las bases contendrán, como mínimo, lo siguiente:
+###### Artículo 59.
 
-I. La denominación o razón social de la dependencia, entidad o Ayuntamiento convocante;
+Los actos de los integrantes de la directiva, ejecutados en contra de la Ley serán nulos de pleno derecho.
 
-II. La forma en que el licitante deberá acreditar la personalidad jurídica con la que comparece;
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
 
-III. El lugar, fecha y hora de la junta de aclaraciones a las bases de la licitación, siendo optativa la asistencia a las reuniones que en su caso, se realicen;
+###### Artículo 60.
 
-IV. Los lugares, fechas y horas del acto de presentación y apertura de proposiciones, comunicación del fallo y firma del contrato;
+Son atribuciones de los integrantes de la Directiva las siguientes:
 
-V. El señalamiento de que será causa de descalificación el incumplimiento de alguno de los requisitos establecidos en las bases de la licitación, así como la comprobación de que algún licitante ha convenido con otro u otros alterar el costo de los trabajos, o ha realizado cualquier otro acuerdo que tenga como propósito obtener una ventaja indebida sobre los demás licitantes;
+I.- Del Presidente:
 
-VI. La indicación de que ninguna de las condiciones contenidas en las bases de la licitación, así como en las proposiciones presentadas por los licitantes podrán ser objeto de negociación;
+a) Ser el Presidente del Congreso durante el período para el que haya sido electo;
 
-VII. Los criterios para la adjudicación de los contratos, de conformidad con lo establecido por el artículo 44 de esta ley;
+b) Hacer respetar el fuero constitucional de los Diputados y velar por la inviolabilidad del Recinto Legislativo;
 
-VIII. Los proyectos arquitectónicos y de ingeniería que se requieran para preparar la proposición;
+c) Representar al Poder Legislativo en los asuntos de carácter legal y protocolario, pudiendo delegar dicha representación de acuerdo a lo dispuesto en el Reglamento para el Gobierno Interior del Congreso del Estado;
 
-IX. Las normas de calidad de los materiales y especificaciones generales y particulares de construcción aplicables; las especificaciones particulares deberán ser firmadas por el responsable del proyecto;
+d) Dar respuesta al informe que rinda el Gobernador al Congreso, en los términos señalados en el artículo 57 de la Constitución Política del Estado.
 
-X. La relación de materiales y equipo de instalación permanente que, en su caso, proporcione la convocante, debiendo acompañar los programas de suministro correspondientes;
+e) Conducir las relaciones institucionales con los otros dos Poderes del Estado, con los órganos estatales constitucionalmente dotados de autonomía, con las Cámaras de Diputados y Senadores del Congreso de la Unión y con las Legislaturas de los estados de la República;
 
-XI. La experiencia profesional, la capacidad técnica y la capacidad financiera necesarias, de acuerdo a las características, complejidad y magnitud de los trabajos;
+f) Llevar a cabo, a través de la Oficialía Mayor, las notificaciones que determine por sí o que acuerde el Pleno del Congreso;
 
-XII. Los datos sobre las garantías requeridas;
+g) Conceder el uso de la palabra, dirigir los debates, discusiones y deliberaciones, así como ordenar se proceda a las votaciones y formular la declaratoria correspondiente;
 
-XIII. La información sobre los porcentajes, forma y términos de los anticipos que se concedan;
+h) Firmar junto con los Secretarios las leyes, decretos y acuerdos que expida el Congreso;
 
-XIV. El lugar, fecha y hora para la visita al sitio de realización de los trabajos, la que deberá llevarse a cabo entre el cuarto día natural siguiente a aquel en que se publique la convocatoria y el sexto día natural previo a la presentación y apertura de proposiciones;
+i) Convocar a las reuniones de la Directiva del Congreso;
 
-XV. La información específica sobre las partes de los trabajos que, en su caso, podrán subcontratarse;
+j) Ordenar lo conducente para cumplimentar lo dispuesto en el artículo 63 de la Constitución Política del Estado;
 
-XVI. El plazo de ejecución de los trabajos, determinado en días naturales, indicando la fecha estimada de inicio de los mismos;
+k) Hacer del conocimiento del Pleno del Congreso, en sesión pública y al final de cada Período de Sesiones, la asistencia e inasistencia de cada uno de los integrantes de la Legislatura a las sesiones del Pleno, de las Comisiones y de los Comités de que formen parte; y
 
-XVII. El modelo de contrato al que se sujetarán las partes;
+l) Las demás que deriven de esta Ley y del Reglamento para el Gobierno Interior del Congreso.
 
-XVIII. Las condiciones de pago, cuando se trate de contratos a precio alzado o mixtos, en su parte correspondiente;
+II.- De los Vicepresidentes:
 
-XIX. El procedimiento de ajuste de costos que deberá aplicarse, así como el catálogo de conceptos, cantidades y unidades de medición, el cual deberá ser firmado por el responsable del proyecto cuando se trate de contratos a precios unitarios o mixtos, en su parte correspondiente; en estos supuestos se incluirá la relación de conceptos de trabajo más significativos, de los cuales deberán presentarse análisis y relación de los costos básicos de materiales, mano de obra, maquinaria y equipo de construcción relacionados con dicho análisis. En todos los casos se deberá prever que cada concepto de trabajo esté debidamente integrado y soportado, preferentemente, en las especificaciones de construcción y normas de calidad solicitadas, procurando que estos conceptos sean congruentes con las cantidades de trabajo requeridas por el proyecto;
+a) Asistir al Presidente de la Directiva en el ejercicio de sus funciones;
 
-XX. La indicación de que al licitante que no firme el contrato por causas imputables al mismo, se le aplicará lo dispuesto en el artículo 89, fracción I, de esta ley;
+b) Sustituirlo en la conducción de las sesiones de acuerdo a lo dispuesto en el artículo 21 del Reglamento para el Gobierno Interior del Congreso; y
 
-XXI. Los términos y condiciones a que deberá ajustarse la participación de los licitantes cuando las proposiciones sean enviadas a través del servicio postal o de mensajería, o por medios remotos de comunicación electrónica. El que los licitantes opten por utilizar algunos de estos medios para enviar sus proposiciones no limita, en ningún caso, que asistan a los diferentes actos derivados de una licitación, y
+c) Las demás que deriven de esta Ley y del Reglamento para el Gobierno Interior del Congreso.
 
-XXII. Los demás requisitos que deberán cumplir los interesados, de conformidad con las características, complejidad y magnitud de los trabajos.
+III.- De los Secretarios, por su orden:
 
-Para la participación, contratación o adjudicación en obras públicas no se podrán exigir requisitos distintos a los que se desprenden de esta ley.
+a) Asistir al Presidente de la Directiva en las funciones relacionadas con la conducción de las sesiones del Pleno;
 
-## TÍTULO SEGUNDO BIS. DE LOS DIRECTORES RESPONSABLES DE OBRA Y CORRESPONSABLES
+b) Comprobar el quórum de las sesiones del Pleno, llevar a cabo el cómputo y registro de las votaciones y dar a conocer el resultado de éstas;
 
-> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE SEPTIEMBRE DE 2021)</small>
+c) Previo acuerdo con el Presidente, dar cuenta a la Asamblea de los asuntos en cartera;
 
-### CAPÍTULO ÚNICO
+d) Expedir las certificaciones que disponga el Presidente del Congreso; y
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JUNIO DE 2011)</small>
+e) Las demás que deriven de esta Ley y del Reglamento para el Gobierno Interior del Congreso.
 
-###### ARTÍCULO 40.
+IV.- De los Secretarios, en forma conjunta e independientemente de su orden:
 
-El plazo para la presentación y apertura de proposiciones de las licitaciones será, cuando menos, de quince días naturales contados a partir de la fecha de publicación de la convocatoria.
+a) Cuidar de que circulen con toda oportunidad entre los Diputados, los dictámenes de las Comisiones y las iniciativas que los motiven, debiendo remitir ejemplares de los dictámenes a los Poderes Ejecutivo y Judicial, cuando así se considere pertinente;
 
-Cuando no pueda observarse el plazo indicado en el párrafo anterior, por que existan razones justificadas del área solicitante de los trabajos, siempre que no tenga por objeto limitar el número de participantes, el titular del área responsable de la contratación podrá reducir los plazos a no menos de diez días naturales, contados a partir de la fecha de publicación de la convocatoria.
+b) Supervisar la formulación de las actas de cada sesión, vigilar que sean sometidas a consideración del Pleno, firmarlas con el Presidente una vez que hayan sido aprobadas y turnarlas a la Oficialía Mayor para su archivo;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JUNIO DE 2011)</small>
+c) Asegurarse de que se elabore el Diario de Debates y firmarlo;
 
-###### ARTÍCULO 41.
+d) Firmar, junto con el Presidente, las leyes, decretos y acuerdos expedidos por el Congreso;
 
-La Comisión o los Ayuntamientos, podrán modificar los plazos u otros aspectos establecidos en la convocatoria o en las bases de licitación, a partir de la fecha en que sea publicada la convocatoria y hasta, inclusive, el sexto día natural previo al acto de presentación y apertura de proposiciones, cuando esto no tenga por objeto limitar el número de licitantes, siempre que:
+e) Firmar la correspondencia oficial del Congreso; y
 
-I. Tratándose de la convocatoria, las modificaciones se hagan del conocimiento de los interesados a través de los mismos medios utilizados para su publicación y divulgación; o
+f) Las demás que deriven de esta Ley y del Reglamento para el Gobierno Interior del Congreso.
 
-II. Tratándose de las bases de la licitación, se publique un aviso en el diario donde fue publicada la convocatoria, a fin de que los interesados concurran ante la propia Comisión o Ayuntamiento para conocer, de manera específica, las modificaciones respectivas. No será necesario hacer la publicación del aviso a que se refiere esta fracción, cuando las modificaciones deriven de las juntas de aclaraciones, siempre que a más tardar en el plazo señalado en este precepto, se entregue copia del acta respectiva a cada uno de los licitantes que hayan adquirido las bases de la correspondiente licitación.
+> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2000)</small>
 
-Las modificaciones de que trata este artículo en ningún caso podrán consistir en la sustitución o variación sustancial de los trabajos convocados originalmente, o bien, en la adición de otros distintos.
+Artículo 60 BIS.- Los integrantes de la Directiva podrán ser removidos de sus cargos por incumplimiento de sus atribuciones, siendo necesario para tal efecto el voto de la mayoría simple de los Diputados presentes en la sesión y la audiencia del interesado.
 
-Cualquier adecuación a las bases de la licitación, derivada del resultado de la o las juntas de aclaraciones, será considerada como parte integrante de las propias bases de la licitación.
+> <small>(REFORMADA SU DENOMINACION, P.O. 16 DE AGOSTO DE 2000)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JUNIO DE 2011)</small>
+### CAPITULO III. LA COMISION DE COORDINACION Y REGIMEN INTERNO
 
-###### ARTÍCULO 42.
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
 
-La entrega de proposiciones se hará en dos sobres cerrados que contendrán, por separado, la propuesta técnica y la propuesta económica. La documentación distinta a las propuestas podrá entregarse, a elección del licitante, dentro o fuera del sobre que contenga la proposición técnica.
+###### Artículo 61.
 
-En las licitaciones, dos o más contratistas podrán presentar conjuntamente sus proposiciones sin necesidad de constituir una sola persona jurídica, siempre que para tales efectos, en la propuesta y en el contrato se establezcan con precisión y a satisfacción de la dependencia, entidad o Ayuntamiento, las partes de los trabajos que cada contratista se obligará a ejecutar, así como la manera en que se exigiría el cumplimiento de las obligaciones. En este supuesto la propuesta deberá ser firmada por el representante común que, para ese acto, haya sido designado por el grupo de contratistas.
+La Comisión de Coordinación y Régimen Interno es el órgano colegiado encargado de dirigir la administración operativa del Congreso, así como de promover entendimientos y convergencias políticas con las instancias y órganos que resulten necesarios a fin de alcanzar acuerdos para que el Pleno del Congreso esté en condiciones de adoptar las decisiones que constitucional y legalmente le corresponden.
 
-Previo a la presentación y apertura de proposiciones, las convocantes podrán efectuar el registro de participantes, así como realizar revisiones preliminares a la documentación distinta de las propuestas técnica y económica. El registro previo de participantes no constituye obligación para los licitantes, por lo que no se podrá impedir el acceso a quienes hayan cubierto el costo de las bases y decidan entregar su documentación y proposiciones durante el propio acto de presentación y apertura de proposiciones.
+La Comisión de Coordinación y Régimen Interno tiene las atribuciones que le señala la presente Ley y el Reglamento para el Gobierno Interior del Congreso del Estado. Se compondrá por un Presidente, un Vicepresidente, un Secretario y los Vocales que resulten de su integración.
 
-> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2011)</small>
+Para efectos de la integración de esta Comisión se tendrá como denominaciones de los Grupos Legislativos las siguientes:
 
-###### ARTÍCULO 43.
+I.- Grupo Legislativo de mayoría absoluta: El que esté integrado por al menos, la mitad más uno de los Diputados de la Legislatura;
 
-El acto de presentación y apertura de proposiciones se llevará a cabo en el día, lugar y hora previstos en la convocatoria a la licitación, conforme a lo siguiente:
+II.- Grupo Legislativo de mayoría: El Grupo Legislativo que sin estar comprendido en el supuesto de la fracción anterior, esté integrado por más Diputados que cualquier otro Grupo Legislativo en la Legislatura; y,
 
-I. Una vez recibidas las proposiciones en sobre cerrado, se procederá a su apertura, haciéndose constar la documentación presentada, sin que ello implique la evaluación de su contenido;
+III.- Primer minoría, segunda minoría, tercer minoría, y subsecuentes: Los Grupos Legislativos que después del Grupo Legislativo de mayoría absoluta o del de mayoría, tengan mayor cantidad de integrantes, en orden decreciente, respectivamente.
 
-II. De entre los licitantes que hayan asistido, éstos elegirán a uno, que en forma conjunta con el servidor público que la dependencia o entidad designe, rubricarán las partes de las proposiciones que previamente haya determinado la convocante en la convocatoria a la licitación, las que para estos efectos constarán documentalmente; y
+Con el único efecto de integrar, organizar y dar funcionalidad a la Comisión de Coordinación y Régimen Interno, si dos o más Grupos Legislativos tienen el mismo número de Diputados, la referencia para la denominación correspondiente será, la cantidad de votos obtenidos por el conjunto de integrantes de cada Grupo Legislativo que se encuentre en la situación de empate, en las elecciones constitucionales en que fueron electos. Fuera de esta Comisión y frente a cualquier instancia, en caso de empate, la denominación atenderá al número de Diputados que componen cada Grupo Legislativo, reflejando fielmente su representación real en el Congreso, pudiendo en consecuencia, existir dos o más Grupos Legislativos bajo la misma denominación, sin menoscabo del nombre correspondiente al origen partidista de sus miembros en los términos del artículo 40 de esta Ley.
 
-III. Se levantará acta que servirá de constancia de la celebración del acto de presentación y apertura de las proposiciones, en la que se harán constar el importe de cada una de ellas; se señalará lugar, fecha y hora en que se dará a conocer el fallo de la licitación, fecha que deberá quedar comprendida dentro de los treinta días naturales siguientes a la establecida para este acto y podrá diferirse, siempre que el nuevo plazo fijado no exceda de treinta días naturales contados a partir del plazo establecido originalmente para el fallo.
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
 
-> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2015)</small>
+###### Artículo 62.
 
-Al acto de presentación y apertura de las proposiciones deberá asistir y participar un integrante de la Contraloría o del órgano de control interno municipal, según corresponda.
+La integración de la Comisión de Coordinación y Régimen Interno se basa en los principios de democracia y pluralidad, así como en la representatividad que cada Grupo Legislativo tiene en el Congreso del Estado.
 
-###### ARTÍCULO 44.
+La integración de la Comisión de Coordinación y Régimen Interno se regirá de acuerdo a las siguientes normas:
 
-Para hacer la evaluación de las proposiciones, la convocante deberá verificar que las mismas cumplan con los requisitos solicitados en la convocatoria y en las bases de licitación. Para tal efecto, deberá establecer los lineamientos, procedimientos y criterios de manera clara y detallada para determinar la solvencia de las propuestas, dependiendo de las características, complejidad y magnitud de los trabajos por realizar.
+I.- Si un Grupo Legislativo tiene mayoría absoluta en la Legislatura:
 
-> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2011)</small>
+a) Forman parte de esta Comisión:
 
-Tratándose de obras públicas, deberá verificar, entre otros aspectos, el cumplimiento de las condiciones legales y financieras exigidas al licitante; que los recursos propuestos por el licitante sean los necesarios para ejecutar satisfactoriamente, conforme al programa de ejecución, las cantidades de trabajo establecidas; que el análisis, cálculo e integración de los precios sean acordes con las condiciones de costos vigentes en la zona o región donde se ejecuten los trabajos. De manera general la evaluación de propuestas se hará por el método binario. El mecanismo de puntos y porcentajes para evaluación de propuestas deberá contar con la aprobación del Comité Técnico en los casos que así se requiera.
+1. Los Coordinadores de los Grupos Legislativos constituidos en el Congreso;
 
-> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2011)</small>
+2. Los Diputados que sean necesarios para garantizar que el Grupo Legislativo de mayoría absoluta esté representado con la mitad más uno de los integrantes de esta Comisión. Estos Diputados serán designados por acuerdo de su Grupo Legislativo; y
 
-No serán objeto de evaluación las condiciones establecidas por las convocantes que tengan como propósito facilitar la presentación de las proposiciones y agilizar la conducción de los actos de la licitación.
+3. Un Diputado designado por acuerdo del Grupo Legislativo que sea la primer minoría.
 
-> <small>(REFORMADO, P.O. 7 DE JULIO DE 2015)</small>
+b) Los cargos en la Comisión de Coordinación y Régimen Interno se asignarán de la siguiente forma:
 
-Una vez hecha la evaluación de las proposiciones, el contrato se adjudicará de entre los licitantes, a aquél cuya propuesta resulte solvente porque reúne, conforme a los criterios de adjudicación establecidos en las bases de licitación, las condiciones legales, técnicas y económicas requeridas por la convocante y garantice satisfactoriamente el cumplimiento de las obligaciones respectivas, siempre y cuando dicha proposición no sea menor o mayor de un 15% del presupuesto base.
+1. Presidente: El Coordinador del Grupo Legislativo de mayoría absoluta;
 
-La convocante, con base en su propio presupuesto y en el análisis de las proposiciones admitidas, emitirá un dictamen que servirá de base para el fallo, en el que se hará constar una reseña cronológica de los actos del procedimiento, el análisis de las proposiciones y las razones para admitirlas o desecharlas.
+2. Vicepresidente: El Coordinador del Grupo Legislativo que represente a la primer minoría;
 
-Si resultare que dos o más proposiciones son solventes porque satisfacen la totalidad de los requerimientos solicitados por la convocante, el contrato se adjudicará a quien presente la proposición cuyo precio sea el más bajo, siempre y cuando la diferencia de dicha proposición no sea menor o mayor en un 15% del presupuesto base.
+3. Secretario: Un integrante de la Comisión nombrado por ésta; y
 
-###### ARTÍCULO 45.
+4. Vocales: Los demás integrantes de la Comisión.
 
-El fallo se dará a conocer en junta pública a la que libremente podrán asistir los licitantes que hubieren participado en la presentación y apertura de proposiciones, levantándose el acta respectiva, que firmarán los asistentes, a quienes se entregará copia de la misma. La falta de firma de algún licitante no invalidará su contenido y efectos, poniéndose a partir de esa fecha a disposición de los que no hayan asistido, para efectos de notificación. En sustitución de esa junta, la Comisión o el Ayuntamiento, podrán optar por notificar por escrito el fallo de la licitación a cada uno de los licitantes, dentro de los cinco días naturales siguientes a su emisión.
+II.- Si ningún Grupo Legislativo tiene mayoría absoluta en el Congreso:
 
-> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 15 DE JUNIO DE 2011)</small>
+a) Forman parte de esta Comisión:
 
-Contra la resolución que contenga el fallo, sólo procederá el recurso de revocación previsto en el artículo 96 de esta ley.
+1. Los Coordinadores de los Grupos Legislativos constituidos en el Congreso;
 
-###### ARTÍCULO 46.
+2. Dos Diputados del Grupo Legislativo de mayoría, designados por acuerdo de su Grupo Legislativo; y
 
-La Comisión o los Ayuntamientos procederán a declarar desierta una licitación cuando las propuestas presentadas no reúnan los requisitos de las bases de la licitación o sus precios no fueren aceptables, y expedirán una segunda convocatoria.
+3. Un Diputado designado por acuerdo del Grupo Legislativo que sea la primer minoría.
 
-La Comisión o los Ayuntamientos podrán cancelar una licitación por caso fortuito o fuerza mayor.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE JULIO DE 2010)</small>
 
-De igual manera, podrán cancelarla cuando existan circunstancias, debidamente justificadas, que provoquen la extinción de la necesidad de contratar los trabajos y que de continuarse con el procedimiento de contratación se pudiera ocasionar un daño o perjuicio a la dependencia, entidad o Ayuntamiento. En este supuesto, a solicitud expresa del licitante, la convocante cubrirá los gastos no recuperables en que hubiere incurrido para preparar y elaborar sus propuestas, siempre que estos sean razonables, estén debidamente comprobados y se relacionen directamente con la licitación de que se trate.
+b) Los cargos en la Comisión de Coordinación y Régimen Interno serán ocupados de acuerdo a lo siguiente:
 
-###### ARTÍCULO 47.
+1. Presidente: El Coordinador del Grupo Legislativo de mayoría;
 
-Bajo su responsabilidad, el Comité y los Ayuntamientos, podrán optar por no llevar a cabo el procedimiento de licitación pública y celebrar contratos a través de los procedimientos de invitación a cuando menos tres contratistas o de adjudicación directa, con base en lo previsto en el siguiente artículo.
+2. Vicepresidente: El Coordinador del Grupo Legislativo que sea la primer minoría;
 
-La opción que seleccione el Comité o el Ayuntamiento, deberá fundarse y motivarse, según las circunstancias que concurran en cada caso, en criterios de economía, eficacia, eficiencia, imparcialidad y honradez que aseguren las mejores condiciones para el Estado o municipio. El acreditamiento de los criterios mencionados y la justificación para el ejercicio de la opción, deberá constar por escrito y ser firmado por los miembros del Comité y, en el caso de los Ayuntamientos, por el titular del área responsable de la ejecución de los trabajos.
+3. Secretario: El Coordinador del Grupo Legislativo que sea la segunda minoría; y
 
-En los dos supuestos previstos en el primer párrafo de este precepto, se invitará a contratistas que cuenten con capacidad de respuesta inmediata, así como con los recursos técnicos, financieros y demás que sean necesarios, de acuerdo con las características, complejidad y magnitud de los trabajos a ejecutar.
+4. Vocales: Los demás integrantes de la Comisión.
 
-En estos casos el titular del área responsable de la contratación de los trabajos, a más tardar el último día hábil de cada mes, enviará al órgano interno de control en la dependencia, entidad o Ayuntamiento de que se trate, un informe relativo a los contratos formalizados durante el mes de calendario inmediato anterior, acompañando copia del escrito aludido en este artículo y de su dictamen en el que se hará constar el análisis de la o las propuestas y las razones para la adjudicación del contrato. No será necesario rendir este informe en las operaciones que se realicen al amparo del artículo 48, fracción IV, de esta ley.
+c) (DEROGADO, P.O. 19 DE JULIO DE 2010)
 
-###### ARTÍCULO 48.
+d) (DEROGADO, P.O. 19 DE JULIO DE 2010)
 
-El Comité o los Ayuntamientos, bajo su responsabilidad, podrán adjudicar obras públicas sin sujetarse al procedimiento de licitación pública, a través de los procedimientos de invitación a cuando menos tres contratistas o de adjudicación directa, cuando:
+> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2000)</small>
 
-I. El contrato sólo pueda celebrarse con un determinado o determinados contratistas por tratarse de obras de arte, o vincularse su ejecución con la titularidad de patentes, derechos de autor u otros derechos exclusivos;
+Artículo 62 BIS.- Son reglas para la funcionalidad de la Comisión de Coordinación y Régimen Interno:
 
-II. El orden social, la economía, los servicios públicos, la salubridad, la seguridad o el medio ambiente de alguna zona o región del Estado peligren o puedan alterarse como consecuencia de desastres producidos por fenómenos naturales;
+I.- Sobre la participación en las sesiones: Los integrantes de esta Comisión tendrán derecho de voz y voto ponderado. El voto ponderado de cada integrante de esta Comisión, será el resultado de dividir la cantidad de Diputados de la Legislatura pertenecientes al mismo Grupo Legislativo del cual forma parte, entre la cantidad de integrantes de esta Comisión que pertenecen a su propio Grupo Legislativo.
 
-III. La concurrencia de circunstancias existentes puedan provocar pérdidas o costos adicionales importantes al Estado o Municipio, siempre que dichas circunstancias se hallen debidamente acreditadas;
+II.- Sobre el quórum legal de sesiones: Para que la sesión pueda celebrarse se requerirá la asistencia de los integrantes de esta Comisión que en conjunto representen al menos, más del cincuenta por ciento de los Diputados que componen la Legislatura.
 
-IV. La información de naturaleza confidencial de los gobiernos federal, estatal o municipal pudiere ser comprometida;
+III.- Sobre las Decisiones y los acuerdos: Para que las decisiones y acuerdos de esta Comisión sean válidos, se requerirá el voto ponderado de los integrantes de la misma que en conjunto representen al menos, más del cincuenta por ciento de los Diputados que componen la Legislatura.
 
-V. La imposibilidad de ejecutar los trabajos mediante el procedimiento de licitación pública en el tiempo requerido para atender una eventualidad derive del caso fortuito o la fuerza mayor; en este supuesto las contrataciones deberán limitarse a lo estrictamente necesario para afrontarla;
+> <small>(ADICIONADO, P.O. 19 DE MARZO DE 2003)</small>
 
-VI. El contrato respectivo se hubiere rescindido por causas imputables al contratista que obtuvo la adjudicación de la obra o los servicios relacionados con la misma en la licitación correspondiente. En este caso el Comité, previo informe de la dependencia o entidad, o el Ayuntamiento podrán autorizar la adjudicación del contrato al licitante que haya presentado la siguiente proposición solvente más baja, siempre que la diferencia en precio con respecto a la propuesta que inicialmente hubiere resultado ganadora, no sea superior al quince por ciento;
+Las Sesiones de la Comisión de Coordinación y Régimen Interno serán públicas, salvo determinación en contrario de la mayoría de sus integrantes. Podrán participar en las reuniones, a invitación de su Presidente, representantes de grupos de interés, peritos u otras personas, por acuerdo tomado por la mayoría de sus integrantes; de igual forma, el Presidente de la Comisión podrá autorizar la presencia de asesores y personal de apoyo para el desarrollo de los trabajos.
 
-VII. La declaración de desierta se haya emitido en dos licitaciones públicas para la misma obra;
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
 
-VIII. Los trabajos de mantenimiento, restauración, reparación o demolición de inmuebles por ejecutarse no permitan precisar su alcance, establecer el catálogo de conceptos o las cantidades de trabajo, determinar las especificaciones correspondientes o elaborar el programa de ejecución;
+###### Artículo 63.
 
-IX. La ejecución de trabajos requieran fundamentalmente de mano de obra campesina o urbana marginada, y la dependencia o entidad, previa autorización del Comité o Ayuntamiento, la contraten directamente con los habitantes beneficiarios de la localidad o el lugar donde deban realizarse los trabajos, ya sea como personas físicas o morales; y
+La Comisión de Coordinación y Régimen Interno quedará instalada en la tercera sesión del Primer Período Ordinario del Primer Año de Ejercicio Constitucional de cada Legislatura.
 
-X. La ejecución de los trabajos se acepte a título de dación en pago, en términos de lo dispuesto por el Código Civil para el Estado de Tamaulipas.
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JULIO DE 2015)</small>
+###### Artículo 64.
 
-###### ARTÍCULO 49.
+A la Comisión de Coordinación y Régimen Interno le corresponde:
 
-Bajo su responsabilidad y sin perjuicio de lo señalado en el artículo anterior, el Comité y los Ayuntamientos, también podrán ordenar la contratación de obras públicas sin sujetarse al procedimiento de licitación pública, mediante la invitación a cuando menos tres contratistas o la adjudicación directa, cuando el importe de cada contrato no exceda los montos máximos que al efecto se establecerán en el Presupuesto de Egresos del Estado de Tamaulipas, siempre y cuando los contratos no se fraccionen para que sus montos queden comprendidos en los supuestos de excepción a la licitación pública a que se refiere este artículo.
+I.- Conducir las relaciones de esta Comisión con órganos similares;
 
-En el caso de que se declare desierto un procedimiento de invitación a cuando menos tres contratistas en el supuesto previsto en el párrafo anterior, el vocal técnico de la Comisión o el titular del área responsable de la contratación de los trabajos en el Ayuntamiento podrán adjudicar directamente el contrato, informándose de ello a la Comisión o al Ayuntamiento en el término de los siguientes cinco días naturales.
+II.- Promover entendimientos y convergencias políticas entre los Grupos Legislativos para la presentación de iniciativas, así como para la formulación de acuerdos y dictámenes que requieran ser votados por el Pleno del Congreso;
 
-## TÍTULO TERCERO. DE LA PLANEACIÓN, PROGRAMACIÓN Y PRESUPUESTACIÓN
+III.- Proponer al Pleno del Congreso:
 
-### CAPÍTULO PRIMERO. GENERALIDADES
+a) A los integrantes de las Comisiones y de los Comités, así como la sustitución de los mismos cuando su designación corresponda al Pleno y exista causa justificada para ello;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 2007)</small>
 
-###### ARTÍCULO 50.
+b) A más tardar en la décima sesión del Primer Periodo Ordinario de sesiones del Primer Año de Ejercicio Constitucional, la Agenda Legislativa que contendrá los temas que deberán analizarse durante la Legislatura, así como la agenda temática mínima para ese periodo de sesiones.
 
-El procedimiento de invitación a cuando menos tres contratistas se sujetará a lo siguiente:
+A excepción del periodo de inicio de la Legislatura, en la cuarta sesión de cada Periodo Ordinario de Sesiones, la Comisión de Coordinación y Régimen Interno, propondrá al Pleno para su discusión, modificación en su caso y aprobación, la agenda temática mínima que regirá los trabajos legislativos correspondientes al periodo respectivo.
 
-I. La convocatoria a contratistas registrados en el padrón de contratistas, salvo que en el mismo no exista ninguno con la experiencia profesional, la capacidad técnica y la capacidad financiera para llevar a cabo los trabajos;
+Para tal efecto, los Grupos Legislativos que integran el Congreso del Estado, deberán presentar, a más tardar 15 días antes del inicio de cada Periodo de Sesiones, una relación de temas o asuntos que estimen prioritarios para discutir su inclusión a la agenda temática mínima, remitiendo su propuesta a la Comisión de Coordinación y Régimen Interno, la cual realizará el proyecto respectivo, así como al Centro de Estudios Legislativos quien participará en la elaboración de la referida agenda, de acuerdo a las instrucciones que reciba de dicho órgano de dirección.
 
-II. Las bases de la invitación indicarán, según las características, complejidad y magnitud de los trabajos, aquellos aspectos que para efectos de la licitación prevé el artículo 39 de esta ley;
+c) La designación y la remoción del Oficial Mayor, del Tesorero y del Director del Centro de Estudios Legislativos, de acuerdo a lo dispuesto en los artículos 81 y 82 de la presente Ley;
 
-> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2011)</small>
+d) El Presupuesto Anual del Poder Legislativo; y
 
-III. La apertura de los sobres podrá hacerse sin la presencia de los licitantes, pero invariablemente se invitará a un representante del órgano interno de control de la dependencia, entidad o Ayuntamiento;
+e) Proyectos de acuerdo sobre asuntos que le sean turnados.
 
-IV. La adjudicación de los trabajos sólo podrá hacerse si se cuenta con un mínimo de tres propuestas susceptibles de analizarse técnicamente;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2007)</small>
 
-V. Los plazos para la presentación de las proposiciones se fijarán para cada procedimiento, atendiendo a las características, complejidad y magnitud de los trabajos, y
+IV.- Dirigir por sí, o a través de su Presidente por acuerdo de sus integrantes, los servicios administrativos internos del Congreso, con excepción del Órgano de Fiscalización Superior;
 
-VI. Las demás disposiciones de esta ley que resulten aplicables a este procedimiento, a juicio de la entidad, dependencia o Ayuntamiento invitante.
+V.- Administrar el ejercicio del presupuesto del Congreso a través de la Tesorería;
 
-###### ARTICULO 51.
+VI.- Autorizar adquisiciones de bienes y contratación de servicios para la función legislativa, en los términos del Reglamento para el Gobierno Interior del Congreso del Estado;
 
-Las dependencias, entidades o ayuntamientos, en los términos de ley, bajo su responsabilidad, podrán adjudicar directamente los contratos para llevar a cabo los servicios relacionados con las obras públicas, quedando en lo demás sujetos a las disposiciones de esta ley y a las que de ella se deriven.
+VII.- Convocar a los titulares de los Órganos de Soporte Técnico y de Apoyo dependientes de la Comisión de Coordinación y Régimen Interno a las reuniones semestrales de planeación y organización de las actividades administrativas del Congreso. El Presidente de este órgano de dirección dirigirá dichas reuniones;
 
-### CAPÍTULO SEGUNDO. DE LA LICITACIÓN PÚBLICA
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2002)</small>
 
-###### ARTÍCULO 52.
+VIII.- Nombrar y remover al personal del Congreso, resolver sobre las renuncias y licencias que éstos presenten, así como de los procedimientos de responsabilidad administrativa;
 
-Para los efectos de esta Ley, los contratos de obras públicas y de servicios relacionados con las mismas podrán ser de tres tipos:
+IX.- Aprobar el Manual de Organización y Procedimientos del Congreso, así como otras disposiciones normativas relativas a los asuntos de su competencia;
 
-I. Precios unitarios, en cuyo caso el importe de la remuneración o pago total que deba cubrirse al contratista se hará por unidad de concepto de trabajo terminado;
+X.- Conocer de las propuestas de los titulares de los Órganos de Soporte Técnico y de Apoyo dependientes de este órgano de dirección sobre los siguientes asuntos:
 
-II. Precio alzado, en cuyo caso el importe de la remuneración o pago total fijo que deba cubrirse al contratista será por los trabajos totalmente terminados y ejecutados en el plazo establecido;
+a) La Organización interna y procedimientos del órgano a su cargo; y
 
-Las proposiciones que presenten los contratistas para la celebración de este tipo de contratos, tanto en sus aspectos técnicos como económicos, deberán estar desglosadas por lo menos en cinco actividades principales, y
+b) Los Programas de Actividades del órgano a su cargo.
 
-III. Mixtos, cuando contengan una parte de los trabajos sobre la base de precios unitarios, y otra a precio alzado.
+XI.- Aprobar el Calendario de Actividades del Congreso que le proponga la Oficialía Mayor;
 
-La Comisión y los Ayuntamientos, podrán incorporar en las bases de licitación las modalidades de contratación que tiendan a garantizar al Estado y al municipio las mejores condiciones en la ejecución de los trabajos, siempre que con ello no desvirtúen el tipo de contrato que se haya licitado.
+XII.- Aprobar las políticas de sueldos y programas de incentivos para personal del Congreso que le proponga el Comité de Administración;
 
-Los trabajos cuya ejecución comprenda más de un ejercicio presupuestal deberán formularse en un solo contrato, por la vigencia que resulte necesaria para su ejecución, quedando únicamente sujetos a la autorización presupuestal para cada ejercicio.
+XIII.- Coadyuvar en las actividades que se encomienden a las Comisiones y a los Comités; y
 
-###### ARTÍCULO 53.
+XIV.- Las demás que le confieren esta Ley y el Reglamento para el Gobierno Interior del Congreso.
 
-Los contratos de obras públicas y servicios relacionados con las mismas, contendrán, como mínimo, lo siguiente:
+## TITULO QUINTO
 
-I. La autorización de la partida presupuestal para cubrir el compromiso derivado del contrato y sus anexos;
+### CAPITULO I. DE LOS ORGANOS DE TRABAJO LEGISLATIVO
 
-II. El procedimiento conforme al cual se llevó a cabo el otorgamiento del contrato;
+###### Artículo 65.
 
-III. El precio a pagar por los trabajos objeto del contrato. En el caso de contratos mixtos, la especificación de la parte y monto que será sobre la base de precios unitarios y la que corresponda a precio alzado;
+Son Organos de Trabajo para el despacho de los asuntos del Congreso del Estado:
 
-IV. El plazo de ejecución de los trabajos determinado en días naturales, indicando la fecha de inicio y conclusión de los mismos, así como los plazos para verificar la terminación de los trabajos y la elaboración del finiquito referido en el artículo 73 de esta ley, los cuales deben ser establecidos de acuerdo con las características, complejidad y magnitud de los trabajos;
+I.- Las Comisiones; y
 
-V. Los porcentajes, número de las exhibiciones y amortización de los anticipos que se otorguen;
+II.- Los Comités.
 
-VI. La forma y términos de garantizar la correcta inversión de los anticipos y el cumplimiento del contrato;
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 1999)</small>
 
-VII. Los plazos, forma y lugar de pago de las estimaciones de trabajos ejecutados y, cuando corresponda, de los ajustes de costos;
+###### Artículo 66.
 
-VIII. Las penas convencionales por atraso en la ejecución de los trabajos por causas imputables a los contratistas, determinadas únicamente en función de los trabajos no ejecutados conforme a los programas convenidos, las que en ningún caso podrán ser superiores, en su conjunto, al monto de la garantía de cumplimiento. El Comité y los Ayuntamientos deberán fijar los términos, forma y porcentajes para aplicar las penas convencionales;
+El Pleno del Congreso para la resolución de los asuntos que le fueren turnados funcionará con las siguientes Comisiones:
 
-IX. Los términos en que el contratista, en su caso, reintegrará las cantidades que, en cualquier forma, hubiere recibido en exceso por la contratación o durante la ejecución de los trabajos, para lo cual se utilizará el procedimiento establecido en el artículo 63 de este ordenamiento;
+I.- Comisiones Permanentes:
 
-X. El procedimiento de ajuste de costos, conforme a su determinación en las bases de la licitación, por parte del Comité, Subcomité o el Ayuntamiento, mismo que deberá regir durante la vigencia del contrato;
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2005)</small>
 
-XI. Las causas por las cuales las dependencias, entidades o Ayuntamientos podrán dar por rescindido el contrato y el procedimiento para aplicarla, en los términos del artículo 69 de esta ley;
+a) Comisiones de Dictamen Legislativo;
 
-> <small>(REFORMADA, P.O. 7 DE JULIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2007)</small>
 
-II (SIC). La descripción pormenorizada de los trabajos que se deban ejecutar, debiendo acompañarse, como parte integrante del contrato, en el caso de las obras, los proyectos, planos en los que precise su ubicación geodésica, especificaciones, programas y presupuestos; tratándose de servicios, los términos de los mismos; y
+b) Comisión de Vigilancia del Órgano de Fiscalización Superior; y
 
-XIII. Los procedimientos mediante los cuales las partes, entre sí, resolverán las discrepancias futuras y previsibles, exclusivamente sobre problemas específicos de carácter técnico y administrativo que, de ninguna manera, impliquen una audiencia de conciliación.
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2005)</small>
 
-Para los efectos de esta ley, el contrato, sus anexos y la bitácora de los trabajos, son los instrumentos que vinculan a las partes en sus derechos y obligaciones.
+c) Comisión de Estudio Previo;
 
-###### ARTÍCULO 54.
+II.- Comisiones Temporales:
 
-La adjudicación del contrato obligará a la dependencia, entidad o municipio y a la persona en quien hubiere recaído, a formalizar el documento relativo dentro de los treinta días naturales siguientes al de la notificación del fallo. No podrá formalizarse contrato alguno que no se encuentre garantizado de acuerdo con lo dispuesto en la fracción II del artículo 56 de esta Ley.
+a) Comisiones Jurisdiccionales;
 
-Las dependencias, las entidades y los Ayuntamientos, sólo podrán celebrar contratos de obra pública o de servicios relacionados con la misma, con los contratistas inscritos en el padrón cuyo registro esté vigente.
+III.- Comisiones Especiales:
 
-Si el interesado no firmare el contrato por causas imputables al mismo dentro del plazo a que se refiere el párrafo anterior, la dependencia, entidad o Ayuntamiento, sin necesidad de un nuevo procedimiento, podrán adjudicar el contrato al licitante que haya presentado la siguiente proposición solvente más baja, de conformidad con lo asentado en el dictamen a que se refiere el artículo 44 de esta ley, y así sucesivamente, siempre que la diferencia en precio con respecto a la propuesta que inicialmente hubiere resultado ganadora, no sea superior en más del quince por ciento. Para que la dependencia o entidad procedan a realizar una nueva adjudicación se requerirá haber dado aviso previo al Comité de la ausencia de firma del contrato.
+a) Las que designe el Pleno del Congreso para la resolución de un asunto específico.
 
-Si la dependencia, entidad o Ayuntamiento no firmaren el contrato respectivo, el ganador de la licitación, sin incurrir en responsabilidad, quedará relevado de la obligación de ejecutar los trabajos. En este supuesto, a solicitud expresa del licitante, la dependencia, entidad o Ayuntamiento cubrirá los gastos no recuperables en que hubiere incurrido para preparar y elaborar su propuesta, siempre que estos sean razonables, estén debidamente comprobados y se relacionen directamente con la licitación de que se trate.
+Ningún Diputado presidirá, a la vez, dos o más de las Comisiones señaladas en la fracción I del presente artículo, ni tampoco una de estas Comisiones y uno de los Comités establecidos en el Artículo 77 de esta Ley.
 
-El licitante a quien se adjudique el contrato no podrá hacerlo ejecutar por otro; pero con la autorización previa de la dependencia, entidad o Ayuntamiento de que se trate, podrá hacerlo respecto de alguna parte o partes del contrato o cuando adquiera materiales o equipos que incluyan su instalación en las obras. Esta autorización previa no se requerirá cuando la dependencia, entidad o Ayuntamiento señale específicamente en las bases de la licitación las partes de los trabajos que podrán ser objeto de subcontratación. En todo caso, el licitante al cual se adjudicó el contrato seguirá siendo el único responsable de la ejecución de los trabajos.
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2003)</small>
 
-Los derechos y obligaciones que se deriven de los contratos de obra pública o servicios relacionados con la misma no podrán cederse en forma total o parcial a favor de cualquier otra persona, con excepción de los derechos de cobro sobre las estimaciones por trabajos ejecutados, en cuyo caso se deberá contar con el consentimiento de la dependencia, entidad o Ayuntamiento de que se trate.
+Cada Diputado formará parte de hasta seis Comisiones de Dictamen Legislativo.
 
-> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 1999)</small>
 
-La dependencia, entidad o municipio deberá destinar una cantidad equivalente al uno al millar del monto total de los recursos autorizados del contrato, para la fiscalización de los mismos a favor del órgano técnico de fiscalización del Estado.
+###### Artículo 67.
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2004)</small>
+Las Comisiones de Dictamen Legislativo se integrarán pluralmente por once Diputados: un Presidente, un Vice-Presidente, un Secretario y ocho Vocales, electos o ratificados por el Pleno del Congreso en la quinta sesión del Primer Período Ordinario de Sesiones de cada Año de Ejercicio Constitucional.
 
-###### ARTÍCULO 55.
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2002)</small>
 
-Los contratistas con quien se celebre contrato de obra pública o de servicios relacionados con la misma, pagarán un derecho equivalente al cinco al millar sobre el importe de cada una de las estimaciones de trabajo, por el servicio de vigilancia, inspección y control que esta ley encomienda a los órganos de control del Ejecutivo Estatal, o de los Ayuntamientos.
+En el caso de la Comisión de Equidad y Género, el cargo de Presidente, invariablemente, será anual y se asignará de manera rotativa entre los Grupos Legislativos constituidos en el Congreso.
 
-Quien realice el pago de las estimaciones de obra en las dependencias y entidades, de la Administración Pública Estatal, retendrá el importe de los derechos a que se refiere el párrafo anterior; igual obligación tendrán las tesorerías municipales respectivas, cuando los municipios realicen obras o servicios con recursos estatales, quienes concentrarán en la Secretaría de Finanzas los importes correspondientes dentro de los primeros diez días hábiles de cada mes. Cuando los municipios realicen obras o servicios con recursos propios, éstos deberán establecer sus propios procedimientos de retenciones por los derechos causados.
+Las Comisiones de Dictamen Legislativo se integrarán en proporción al número de diputados de cada Grupo Legislativo.
 
-###### ARTÍCULO 56.
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2007)</small>
 
-Los contratistas que celebren los contratos a que se refiere esta ley deberán garantizar:
+###### Artículo 68.
 
-I. Los anticipos que, en su caso, reciban. Estas garantías deberán constituirse dentro de los quince días naturales siguientes a la fecha de notificación del fallo y por la totalidad del monto de los anticipos, y
+La Comisión de Vigilancia del Órgano de Fiscalización Superior se integrará por nueve Diputados. El Presidente será designado por el grupo legislativo mayoritario y el Vice-Presidente por el grupo legislativo minoritario con mayor número de Diputados; el Pleno designará al resto de los integrantes.
 
-> <small>(REFORMADA, P.O. 7 DE JULIO DE 2015)</small>
-
-II. El cumplimiento de los contratos. Esta garantía deberá constituirse por una cantidad equivalente del diez por ciento del monto total contratado, dentro de los quince días naturales siguientes a la fecha de notificación del fallo.
-
-> <small>(REFORMADO, P.O. 7 DE JULIO DE 2015)</small>
-
-Para efectos de este artículo, los titulares de las dependencias, los órganos de gobierno de las entidades y los Ayuntamientos, fijarán las bases y la forma que deberán sujetarse las garantías que deban constituirse. En los casos señalados en el artículo 48, fracción IX, de esta ley, y bajo su responsabilidad, el servidor público facultado para firmar el contrato, podrá exceptuar a los contratistas de presentar la garantía del cumplimiento.
-
-###### ARTÍCULO 57.
-
-Las garantías que deban otorgarse conforme a esta ley se constituirán a favor de las Secretaría de Finanzas del Gobierno del Estado, o de la entidad convocante o de la Tesorería Municipal, según el caso.
-
-###### ARTÍCULO 58.
-
-El otorgamiento del anticipo se deberá pactar en los contratos y se sujetará a lo siguiente:
-
-I. El importe del anticipo concedido será puesto a disposición del contratista con antelación a la fecha pactada para el inicio de los trabajos; el atraso en la entrega del anticipo será motivo para diferir en igual plazo el programa de ejecución pactado. Cuando el contratista no entregue la garantía del anticipo dentro del plazo señalado en el artículo 56 de esta ley, no procederá el diferimiento y, por lo tanto, deberá iniciar los trabajos en la fecha establecida originalmente;
-
-II. Las dependencias, entidades o Ayuntamientos podrán otorgar hasta un treinta por ciento de la asignación presupuestal aprobada para el contrato en el ejercicio de que se trate, con objeto de que el contratista realice en el sitio de los trabajos la construcción de sus oficinas, almacenes, bodegas e instalaciones y, en su caso, para los gastos de traslado de la maquinaria y equipo de construcción e inicio de los trabajos; así como, para la compra y producción de los materiales de obra, la adquisición de equipos que se instalen permanentemente y demás insumos que deberán otorgar. Tratándose de servicios relacionados con las obras públicas, el otorgamiento del anticipo será determinado por la dependencia, entidad o Ayuntamiento con base en las características, complejidad y magnitud del servicio; en el supuesto de que se decida otorgar el anticipo, el mismo deberá ajustarse a lo previsto en este artículo;
-
-III. El importe del anticipo deberá ser considerado obligatoriamente por los licitantes para la determinación del costo financiero de su propuesta;
-
-> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2011)</small>
-
-IV. El porcentaje del anticipo podrá ser mayor, cuando las condiciones de los trabajos lo requieran; en este caso, será necesaria la autorización escrita del Comité o Ayuntamiento, o de la persona en quien éste haya delegado tal facultad;
-
-V. El importe del anticipo para los trabajos que rebasen más de un ejercicio presupuestal y se inicien en el último trimestre del primer ejercicio podrá ser hasta por el monto total de la asignación autorizada al contrato respectivo durante el primer ejercicio, siempre que de otra forma el anticipo resultara insuficiente y bajo la responsabilidad de las dependencias, entidades o Ayuntamientos, vigilándose que se cuente con la suficiencia presupuestal para el pago de la obra por ejecutar en dicho ejercicio. En ejercicios subsecuentes, la entrega del anticipo deberá hacerse dentro de los tres meses siguientes a su inicio, previa entrega de la garantía correspondiente. El atraso en la entrega de los anticipos será motivo para ajustar el costo financiero pactado en el contrato;
-
-VI. Los convenios que se celebren en términos del artículo 67 de esta ley, no implicarán otorgamiento de anticipos, salvo para aquellos a que alude el último párrafo de ese precepto; ni para los importes resultantes de los ajustes de costos del contrato o convenios que se generen durante el ejercicio presupuestal de que se trate, y
-
-VII. La amortización deberá efectuarse proporcionalmente con cargo a cada una de las estimaciones que se formulen por trabajos ejecutados, debiéndose liquidar el faltante por amortizar en la estimación final. El porcentaje inicial de amortización será el resultado de dividir la o las cantidades recibidas por concepto de anticipos entre el importe de la obra; el porcentaje de amortización de las exhibiciones subsecuentes, será el resultado de dividir el saldo por amortizar de los anticipos otorgados en los ejercicios anteriores más el anticipo concedido, entre el importe total de los trabajos a ejecutar en el ejercicio de que se trate, conforme al programa convenido.
-
-En el supuesto de que sea rescindido el contrato o se dé por terminado anticipadamente, el saldo por amortizar del anticipo se reintegrará a la dependencia, entidad o Ayuntamiento en un plazo no mayor de diez días naturales, contados a partir de la fecha en que le sea notificada al contratista tal determinación.
-
-El contratista que no reintegre el saldo por amortizar en el plazo señalado cubrirá los cargos que resulten conforme con lo indicado en el párrafo primero del artículo 63 de esta ley.
-
-###### ARTÍCULO 59.
-
-La Comisión o los Ayuntamientos, se abstendrán de recibir propuestas o celebrar contrato alguno en las materias a que se refiere esta ley, con las personas siguientes:
-
-> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2019)</small>
-
-I. Aquellas con quienes los servidores públicos que intervengan en cualquier etapa del procedimiento de contratación tengan interés personal, familiar o de negocios, incluyendo aquellas de las que pueda resultar algún beneficio para él, su cónyuge o sus parientes consanguíneos hasta el cuarto grado, por afinidad o civiles, o para terceros con los que tenga relaciones profesionales, laborales o de negocios, o para socios o sociedades de las que los servidores públicos o las personas antes referidas formen o hayan formado parte, conforme a lo establecido en la Ley de Responsabilidades Administrativas del Estado de Tamaulipas;
-
-II. Aquellos contratistas que, por causas imputables a ellos mismos, la dependencia, entidad o Ayuntamiento convocante les hubiere rescindido administrativamente un contrato dentro de un lapso de un año de calendario contado a partir de la notificación de la rescisión. Dicho impedimento prevalecerá ante la propia dependencia, entidad o Ayuntamiento convocante durante un año calendario contado a partir de la notificación de la rescisión;
-
-III. Aquellas que se encuentren inhabilitadas por resolución de la Contraloría en los términos del Título Noveno de este ordenamiento;
-
-IV. Aquellas a quienes la autoridad competente declare en suspensión de pagos, estado de quiebra o sujetas a concurso de acreedores;
-
-V. Aquellos licitantes que participen en un mismo procedimiento de contratación y que se encuentren vinculados entre sí por algún socio o asociado común;
-
-VI. Aquellas que pretendan participar en un procedimiento de contratación, y previamente, hayan realizado o se encuentren realizando, por sí o través de empresas que formen parte del mismo grupo empresarial, en virtud de otro contrato, el proyecto; trabajos de dirección, coordinación, supervisión y control de obra e instalaciones; trabajos de laboratorio de análisis y control de calidad, geotecnia, mecánica de suelos y de resistencia de materiales; radiografías industriales; preparación de especificaciones de construcción; presupuesto de los trabajos; selección o aprobación de materiales, equipos y procesos, o la elaboración de cualquier otro documento vinculado con el procedimiento en que se encuentran interesadas en participar;
-
-VII. Aquellas que, por sí o a través de empresas que formen parte del mismo grupo empresarial, pretendan ser contratadas para la elaboración de dictámenes, peritajes y avalúos, cuando éstos hayan de ser utilizados para resolver discrepancias derivadas de los contratos en los que dichas personas o empresas sean partes, y
-
-VIII. Aquellas otras que por cualquier causa se encuentren impedidas para ello por disposición de ley.
-
-###### ARTÍCULO 60.
-
-La ejecución de los trabajos deberá iniciarse en la fecha señalada en el contrato respectivo, por lo que previo al inicio de los mismos, la dependencia, entidad o Ayuntamiento contratante, notificará por escrito a la contratista, la fecha pactada para el inicio de la obra, así como de la disposición oportuna del o los inmuebles en que se llevará a cabo la obra; el incumplimiento de la contratante, prorrogará en igual plazo la fecha originalmente pactada para la conclusión de los trabajos. Invariablemente, la residencia de supervisión deberá registrar dichos eventos en la bitácora respectiva.
-
-### CAPITULO TERCERO. DE LAS EXCEPCIONES A LA LICITACIÓN PÚBLICA
-
-###### ARTÍCULO 61.
-
-Las dependencias, entidades y Ayuntamientos establecerán la residencia de obra con anterioridad a la iniciación de las mismas, la cual deberá recaer en el servidor público que designen, quien fungirá como su representante ante el contratista y será el responsable directo de la supervisión, vigilancia, control y revisión de los trabajos, incluyéndose la aprobación de las estimaciones presentadas por los contratistas.
-
-Cuando la supervisión sea realizada por contrato, la aprobación de las estimaciones para efectos de pago deberá ser autorizada por la residencia de obra de la contratante.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JUNIO DE 2011)</small>
-
-###### ARTÍCULO 62.
-
-Las estimaciones de los trabajos ejecutados se deberán formular con una periodicidad no mayor de un mes. El contratista deberá presentarlas a la residencia de obra dentro de los seis días naturales siguientes a la fecha de corte para su pago, que hubiere fijado la dependencia, entidad o Ayuntamiento en el contrato, acompañadas de la documentación que acredite la procedencia de la erogación, la cual será determinada por la propia dependencia, entidad o Ayuntamiento. Para realizar la revisión y autorización de las estimaciones, la residencia de obra contará con un plazo no mayor de quince días naturales siguientes a su presentación. En el supuesto de que surjan diferencias técnicas o numéricas que no puedan ser autorizadas dentro de dicho plazo, se resolverán e incorporarán en la siguiente estimación.
-
-Bajo su responsabilidad, las estimaciones por trabajos ejecutados deberán pagarse por parte de la dependencia, entidad o municipio, en un plazo no mayor a veinte días naturales, contados a partir de la fecha en que hayan sido autorizadas por la residencia de la obra de que se trate.
-
-Los pagos de cada una de las estimaciones por trabajos ejecutados son independientes entre sí y, por lo tanto, cualquier tipo y secuencia será sólo para efecto de control administrativo.
-
-###### ARTÍCULO 63.
-
-En caso de incumplimiento en los pagos de estimaciones y de ajustes de costos, la dependencia, entidad o Ayuntamiento, a solicitud del contratista, deberá pagar gastos financieros, aplicándose supletoriamente el procedimiento establecido en el Código Fiscal de la Federación, como si se tratara del supuesto de prórroga para el pago de créditos fiscales. Dichos gastos se calcularán sobre las cantidades no pagadas y se computarán por días naturales desde que se venció el plazo hasta la fecha en que efectivamente se pongan las cantidades a disposición del contratista.
-
-Tratándose de pagos en exceso que haya recibido el contratista, éste deberá reintegrar las cantidades pagadas en exceso más los intereses correspondientes, conforme a lo señalado en el párrafo anterior. Los cargos se calcularán sobre las cantidades pagadas en exceso en cada caso y se computarán por días naturales, desde la fecha del pago hasta la fecha en que efectivamente se pongan las cantidades a disposición de la dependencia, entidad o Ayuntamiento.
-
-No se considerará pago en exceso, cuando las diferencias que resulten a cargo del contratista sean compensadas en la estimación siguiente.
-
-###### ARTÍCULO 64.
-
-Cuando a partir de la celebración del contrato ocurran circunstancias de orden económico no previstas en el mismo, que determinen un aumento o reducción de los costos de los trabajos aún no ejecutados conforme al programa pactado, podrá realizarse el ajuste correspondiente con base en el procedimiento acordado por las partes en el contrato, de acuerdo con lo establecido por el artículo 65 de esta ley. El aumento o reducción correspondientes deberá constar por escrito.
-
-No darán lugar a ajuste de costos las cuotas compensatorias a que, conforme a la ley de la materia, pudiera estar sujeta la importación de bienes contemplados en la realización de los trabajos.
-
-El ajuste de costos que corresponda a los trabajos ejecutados conforme a las estimaciones correspondientes, deberán pagarse una vez que la dependencia, entidad o Ayuntamiento emita el oficio de resolución que acuerde el aumento o reducción respectivo, siguiendo el procedimiento establecido en el artículo 62 de esta ley.
-
-## TÍTULO CUARTO. DEL PADRÓN DE CONTRATISTAS
-
-### CAPÍTULO PRIMERO. DE LA CONTRATACIÓN
-
-###### ARTÍCULO 65.
-
-El ajuste de costos podrá llevarse a cabo mediante cualesquiera de los siguientes procedimientos:
-
-I. La revisión de cada uno de los precios del contrato para obtener el ajuste;
-
-II. La revisión por grupo de precios, que multiplicados por sus correspondientes cantidades de trabajo por ejecutar, representen cuando menos el ochenta por ciento del importe total faltante del contrato, y
-
-III. La actualización de los costos de los insumos, en el caso de trabajos en los que se tenga establecida la proporción en que intervienen en el total del costo directo de los mismos con base en dicha proporción.
-
-###### ARTÍCULO 66.
-
-La aplicación de los procedimientos de ajuste de costos a que se refiere el artículo anterior se sujetará a lo siguiente:
-
-I. Los ajustes se calcularán a partir de la fecha en que se haya producido el incremento o decremento en el costo de los insumos, respecto de los trabajos pendientes de ejecutar, conforme al programa de ejecución pactado en el contrato o, en caso de existir atraso no imputable al contratista, con respecto al programa que se hubiere convenido.
-
-Cuando el atraso sea por causa imputable al contratista, procederá el ajuste de costos exclusivamente para los trabajos pendientes de ejecutar conforme al programa que se hubiere convenido.
-
-Para la revisión y ajuste de los costos, la fecha de origen de los precios será la del acto de presentación de proposiciones;
-
-II. Los incrementos o decrementos de los costos de los insumos serán calculados con base en los índices nacionales de precios "productor con servicios" que determine el Banco de México. Cuando los índices que requiera el contratista y la dependencia, entidad o Ayuntamiento, no se encuentren dentro de los publicados por la mencionada institución, la propia dependencia, entidad o Ayuntamiento procederán a calcularlos conforme a los precios que investiguen, utilizando los lineamientos y metodología que expida el Banco de México;
-
-III. Los precios originales del contrato permanecerán fijos hasta la terminación de los trabajos contratados. El ajuste se aplicará a los costos directos, conservando constantes los porcentajes de indirectos y utilidad originales durante el ejercicio del contrato; el costo por financiamiento estará sujeto a las variaciones de la tasa de interés que el contratista haya considerado en su propuesta, y
-
-IV. Los demás lineamientos que para efectos administrativos emita la Secretaría.
-
-###### ARTÍCULO 67.
-
-Mediante convenio, las dependencias, entidades o Ayuntamientos podrán, dentro de su presupuesto autorizado, bajo su responsabilidad y por razones fundadas que deberán explicitarse, modificar los contratos sobre la base de precios unitarios y mixtos en la parte correspondiente, siempre y cuando éstos, considerados conjunta o separadamente, no rebasen el veinticinco por ciento del monto o del plazo pactados en el contrato, impliquen variaciones sustanciales al proyecto original, ni se celebren para eludir en cualquier forma el cumplimiento de las Leyes relativas.
-
-Si las modificaciones exceden el porcentaje indicado pero no varían el objeto del proyecto, se podrán celebrar convenios adicionales entre las partes respecto de las nuevas condiciones. Estos convenios deberán ser autorizados bajo la responsabilidad del Comité o del titular del área responsable de la contratación de los trabajos en el caso de los Ayuntamientos. Dichas modificaciones no podrán, en modo alguno, afectar las condiciones que se refieran a la naturaleza y características esenciales del objeto del contrato original, ni convenirse para eludir en cualquier forma el cumplimiento de las leyes relativas.
-
-Los contratos a precio alzado o la parte de los mixtos de esta naturaleza no podrán ser modificados en monto o en plazo, ni estarán sujetos a ajustes de costos.
-
-Sin embargo, cuando con posterioridad a la adjudicación de un contrato a precio alzado o la parte de los mixtos de esta naturaleza, se presenten circunstancias económicas de tipo general que sean ajenas a la responsabilidad de las partes y, que por tal razón no pudieron haber sido objeto de consideración en la propuesta que sirvió de base para la adjudicación del contrato correspondiente, como son, entre otras, variaciones en la paridad cambiaria de la moneda o cambios en los precios nacionales o internacionales, que provoquen directamente un aumento o reducción en los costos de los insumos de los trabajos no ejecutados, conforme al programa originalmente pactado, las dependencias, entidades o Ayuntamiento requerirán las reducciones o reconocerán los incrementos correspondientes.
-
-Lo dispuesto en el párrafo anterior se regirá por los lineamientos administrativos que expida la Secretaría; los cuales deberán considerar, entre otros aspectos, los mecanismos con que cuentan las partes para hacer frente a estas situaciones.
-
-Una vez que se tengan determinadas las posibles modificaciones al contrato respectivo, la celebración oportuna de los convenios será responsabilidad de la dependencia, entidad o Ayuntamiento de que se trate.
-
-De las autorizaciones a que se refiere este artículo, el titular del área responsable de la contratación de los trabajos informará al órgano interno de control en la dependencia, entidad o Ayuntamiento de que se trate. Al efecto, a más tardar el último día hábil de cada mes, deberá presentarse un informe relativo a las autorizaciones otorgadas en el mes de calendario inmediato anterior.
-
-> <small>(REFORMADO, P.O. 7 DE JULIO DE 2015)</small>
-
-Cuando durante la ejecución de los trabajos se requiera la realización de cantidades o conceptos de trabajo adicionales a los previstos originalmente, las dependencias, entidades o Ayuntamientos podrán autorizar el pago de las estimaciones de los trabajos ejecutados, previamente a la celebración de los convenios respectivos, vigilando que dichos incrementos no rebasen el veinticinco por ciento del presupuesto autorizado en el contrato. Tratándose de cantidades adicionales, éstas se pagarán a los precios unitarios pactados originalmente; tratándose de los conceptos no previstos en el catálogo de conceptos del contrato, sus precios unitarios deberán ser conciliados y autorizados, previamente a su pago.
-
-No será aplicable el porcentaje que se establece en el primer párrafo de este artículo, cuando se trate de contratos cuyos trabajos se refieran al mantenimiento o restauración de los inmuebles a que hace mención el artículo 4o. de la Ley del Patrimonio Histórico y Cultural del Estado, en los que no sea posible determinar el catálogo de conceptos, las cantidades de trabajo, las especificaciones correspondientes o el programa de ejecución.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JUNIO DE 2011)</small>
-
-###### ARTÍCULO 68.
-
-Las dependencias, entidades o Ayuntamientos podrán suspender temporalmente, en todo o en parte, los trabajos contratados por cualquier causa justificada. Los titulares de las dependencias, el órgano de gobierno de las entidades o el Presidente Municipal designarán a los servidores públicos que podrán ordenar la suspensión y determinar, en su caso, la temporalidad de ésta, la que no podrá ser indefinida.
-
-Asimismo, podrán dar por terminados anticipadamente los contratos cuando concurran razones de interés general o existan causas justificadas que le impidan la continuación de los trabajos, y se demuestre que de continuar con las obligaciones pactadas se ocasionaría un daño o perjuicio grave al Estado o municipio, o bien, no sea posible determinar la temporalidad de la suspensión de los trabajos a que se refiere este artículo.
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2005)</small>
 
 ###### Artículo 68 Bis.
 
@@ -1239,253 +1027,401 @@ En caso que determine que los escritos deban ser desechados, por tratarse de asu
 
 > <small>(REFORMADO, P.O. 18 DE JUNIO DE 1997)</small>
 
-###### ARTÍCULO 69.
+###### Artículo 69.
 
-Las dependencias, entidades y los Ayuntamientos, podrán rescindir administrativamente los contratos en caso de incumplimiento de las obligaciones a cargo del contratista, sujetándose al siguiente procedimiento:
+Las Comisiones Jurisdiccionales funcionarán en los términos previstos en la Constitución y las Leyes cuando así lo acuerde la Asamblea; conocerán específicamente de los hechos que las hayan motivado su integración.
 
-I. Se iniciará a partir de que al contratista le sea notificada la iniciación del procedimiento de rescisión por el incumplimiento en que haya incurrido, para que en un término de doce días hábiles exponga lo que a su derecho convenga y aporte, en su caso, las pruebas que estime pertinentes;
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 1999)</small>
 
-II. Transcurrido el plazo a que se refiere la fracción anterior, se resolverá considerando los argumentos y pruebas que se hubieren hecho valer, y
+###### Artículo 70.
 
-III. La determinación de dar o no por rescindido el contrato deberá estar debidamente motivada y fundada; la misma se comunicará al contratista dentro de los quince días hábiles siguientes a la comparecencia del contratista en términos de la fracción I de este artículo o de vencido el plazo para ello sin que concurra al procedimiento.
+Son Comisiones Permanentes de Dictamen Legislativo las siguientes:
 
-###### ARTÍCULO 70.
+I.- Gobernación y Organización Interna de los Poderes;
 
-No implicará retraso en el programa de ejecución de la obra y por tanto no se considerará como incumplimiento de contrato y causa de su rescisión, el retraso que tenga lugar por:
+II.- Legislación y Puntos Constitucionales;
 
-I. La falta de pago de estimaciones y del ajuste de costos dentro de los plazos establecidos en el artículo 62 de esta Ley;
+III.- Justicia y Seguridad Pública;
 
-II. La falta de información referente a planos, especificaciones o normas de calidad;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2003)</small>
 
-III. El retraso en la entrega física de las áreas de trabajo;
+IV.- Desarrollo Social y Derechos Humanos;
 
-IV. El retraso en la entrega de materiales y equipos que deba suministrar la contratante, y
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2002)</small>
 
-V. La suspensión de los trabajos derivada de la orden escrita de la dependencia, entidad o Ayuntamiento.
+V.- Equidad y Género;
 
-En cualquiera de los anteriores supuestos, las dependencias, entidades y Ayuntamientos deberán convenir la reprogramación de la obra.
+VI.- Educación, Cultura y Deporte;
 
-###### ARTÍCULO 71.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-En la suspensión, rescisión administrativa o terminación anticipada de los contratos deberá observarse lo siguiente:
+VII.- Medio Ambiente;
 
-I. Cuando se determine la suspensión de los trabajos o se rescinda el contrato por causas imputables a la dependencia, entidad o Ayuntamiento, ésta pagará los trabajos ejecutados así como los gastos no recuperables, siempre que estén debidamente comprobados y se relacionen directamente con el contrato de que se trate;
+> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2006)</small>
 
-II. Cuando se disponga la rescisión del contrato por causas imputables al contratista, una vez emitida la determinación respectiva, precautoriamente la dependencia, entidad o Ayuntamiento se abstendrá de cubrir los importes resultantes de trabajos ejecutados aún no liquidados, hasta que se otorgue el finiquito que proceda, lo que deberá efectuarse dentro de los treinta días naturales siguientes a la fecha de comunicación de dicha determinación, a fin de proceder a hacer efectivas las garantías. En el finiquito deberá preverse el sobrecosto de los trabajos aún no ejecutados que se encuentren atrasados conforme al programa vigente, así como lo relativo a la recuperación de los materiales y equipos que, en su caso, le hayan sido entregados;
+VIII.- Desarrollo Urbano;
 
-III. Cuando se den por terminados anticipadamente los contratos, la dependencia, entidad o Ayuntamiento pagará al contratista los trabajos ejecutados, así como los gastos no recuperables, siempre que estén debidamente comprobados y se relacionen directamente con el contrato de que se trate, y
+> <small>(ADICIONADA, P.O. 2 DE NOVIEMBRE DE 2006)</small>
 
-IV. Cuando por caso fortuito o fuerza mayor se imposibilite la continuación de los trabajos, el contratista podrá optar por no ejecutarlos. En este supuesto, si opta por la terminación anticipada del contrato, deberá solicitarla a la dependencia, entidad o Ayuntamiento, quien determinará lo conducente dentro de los quince días naturales siguientes a la presentación del escrito respectivo. En caso de negativa, será necesario que el contratista obtenga de la autoridad judicial la declaratoria correspondiente, pero si la dependencia, entidad o Ayuntamiento no contesta en dicho plazo, se tendrá por aceptada la petición del contratista.
+IX.- Transporte;
 
-Una vez notificada por la dependencia, entidad o Ayuntamiento la terminación anticipada de los contratos o la rescisión de los mismos, el ente público procederá a tomar inmediata posesión de los trabajos ejecutados para hacerse cargo del inmueble y de las instalaciones respectivas, levantando, con o sin la comparecencia del contratista, acta circunstanciada del estado en que se encuentre la obra. En el caso de entidades, el acta circunstanciada se levantará ante la presencia de fedatario público.
+X.- Fomento Económico;
 
-El contratista estará obligado a devolver a la dependencia, entidad o Ayuntamiento, en un plazo de diez días naturales contados a partir del inicio del procedimiento respectivo, toda la documentación que ésta le hubiere entregado para la realización de los trabajos.
+> <small>(ADICIONADA, P.O. 2 DE NOVIEMBRE DE 2006)</small>
 
-###### ARTÍCULO 72.
+XI.- Fomento al Campo y Desarrollo Rural;
 
-De ocurrir los supuestos establecidos en el artículo anterior, las dependencias, entidades o Ayuntamientos, comunicarán la suspensión, rescisión o terminación anticipada del contrato al contratista; posteriormente, lo harán del conocimiento de su órgano interno de control, a más tardar el último día hábil de cada mes, mediante un informe en el que se referirán los supuestos ocurridos en el mes de calendario inmediato anterior.
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2005)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE SEPTIEMBRE DE 2021)</small>
+XII.- Desarrollo Sustentable;
 
-###### ARTÍCULO 73.
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2005)</small>
 
-El contratista comunicará a la dependencia, entidad o Ayuntamiento la conclusión de los trabajos que le fueron encomendados para que el ente público, dentro del plazo pactado, verifique la debida terminación de los mismos conforme a las condiciones establecidas en el contrato. Al finalizar la verificación de los trabajos, la dependencia, entidad o municipio contará con un plazo de quince días naturales para proceder a su recepción física, mediante el levantamiento del acta correspondiente, quedando los trabajos bajo su responsabilidad.
+XIII.- Juventud;
 
-Recibidos físicamente los trabajos, las partes deberán elaborar dentro del término estipulado en el contrato, el finiquito de los trabajos en el que se harán constar los créditos a favor y en contra que resulten para cada uno de ellos, describiendo el concepto general que les dio origen y el saldo resultante.
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2005)</small>
 
-De existir desacuerdo entre las partes respecto al finiquito, o bien el contratista no acuda con la dependencia, entidad o Ayuntamiento para su elaboración dentro del plazo señalado en el contrato, el ente público de que se trate procederá a elaborarlo, debiendo comunicar su resultado al contratista dentro de un plazo de diez días naturales, contado a partir de su emisión; una vez notificado el resultado de dicho finiquito al contratista, éste tendrá un plazo de quince días naturales para alegar lo que a su derecho corresponda; si transcurrido este plazo no realiza alguna gestión, se tendrá por aceptado.
+XIV.- Salud y Atención a Grupos Vulnerables;
 
-Determinado el saldo total, la dependencia, entidad o Ayuntamiento pondrá a disposición del contratista el pago correspondiente, mediante su ofrecimiento o la consignación respectiva, o bien, solicitará el reintegro de los saldos resultantes debiendo, en forma simultánea, levantar el acta administrativa que tenga por extinguidos los derechos y obligaciones asumidos por ambas partes en el contrato.
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2005)</small>
 
-> <small>(REFORMADO, P.O. 7 DE JULIO DE 2015)</small>
+XV.- Hacienda del Estado;
 
-###### ARTÍCULO 74.
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2005)</small>
 
-Al concluir las obras públicas consideradas como capitalizables en la Ley General de Contabilidad Gubernamental, las dependencias, entidades o Ayuntamientos deberán inscribirlas en sus registros patrimoniales, encargándose las áreas competentes de hacer la inscripción y registro de aquellos inmuebles que se hayan adquirido con motivo de la construcción de las mismas, tanto en las oficinas de Catastro del municipio correspondiente como en el Instituto Registral y Catastral de Tamaulipas. En todo caso, las obras públicas estatales se inscribirán en el área a cargo del registro del patrimonio del Estado.
+XVI.- Primera de Hacienda y Desarrollo Municipal;
+
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2005)</small>
+
+XVII.- Segunda de Hacienda y Desarrollo Municipal;
+
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2005)</small>
+
+XVIII.- Tercera de Hacienda y Desarrollo Municipal;
+
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2005)</small>
+
+XIX.- Cuarta de Hacienda y Desarrollo Municipal; y
+
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2005)</small>
+
+XX.- Quinta de Hacienda y Desarrollo Municipal.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2007)</small>
+
+###### Artículo 71.
+
+La Comisión del Órgano de Fiscalización Superior estará integrada por nueve diputados: un Presidente, un Vice-Presidente, un Secretario y seis Vocales y se sujetará en sus atribuciones a la Ley del propio Órgano de Fiscalización Superior en lo que corresponda y a los Acuerdos que para el efecto dicte el Congreso.
+
+###### Artículo 72.
+
+Son Comisiones Jurisdiccionales las que se integran en los términos de la Constitución y de las Leyes para el efecto de la Responsabilidad de los Servidores Públicos.
+
+> <small>(ADICIONADO, P.O. 7 DE FEBRERO DE 2007)</small>
+
+Las Comisiones Jurisdiccionales se integrarán en proporción al número de Diputados de cada Grupo Legislativo.
+
+###### Artículo 73.
+
+(DEROGADO, P.O. 18 DE JUNIO DE 1997)
+
+> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 2007)</small>
+
+###### Artículo 74.
+
+Las Comisiones Especiales se integrarán pluralmente por nueve diputados, tomando en consideración la proporcionalidad que cada Grupo Legislativo tiene en el Congreso del Estado, para atender un asunto específico; tendrán un carácter transitorio y al rendir el informe correspondiente se disolverán.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE DICIEMBRE DE 2010)</small>
 
 ## TÍTULO DÉCIMO. DE LAS INCONFORMIDADES Y DEL PROCEDIMIENTO DE CONCILIACIÓN
 
-###### ARTÍCULO 75.
+###### Artículo 75.
 
-Concluidos los trabajos, el contratista quedará obligado a responder de los defectos que resultaren en los mismos, de los vicios ocultos y de cualquier otra responsabilidad en que hubiera incurrido, en los términos señalados en el contrato respectivo y en la legislación aplicable.
+Las Sesiones de las Comisiones serán públicas, salvo determinación en contrario de la mayoría de sus integrantes. Podrán participar en reuniones de información y audiencia, a invitación de su Presidente, los ciudadanos promoventes de las iniciativas, representantes de grupos de interés, peritos u otras personas que puedan informar sobre el asunto, por acuerdo tomado por la mayoría de sus integrantes. Asimismo, las comisiones podrán a través de la Directiva, convocar a foros u otros eventos de consulta popular.
 
-Los trabajos se garantizarán durante un plazo de doce meses por el cumplimiento de las obligaciones a que se refiere el párrafo anterior, por lo que previamente a la recepción de los mismos, los contratistas deberán constituir fianza por el equivalente al diez por ciento del monto total ejercido de los trabajos; transcurridos doce meses a partir de la fecha de recepción de los trabajos, quedará automáticamente cancelada la fianza.
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2007)</small>
 
-Quedarán a salvo los derechos de las dependencias, entidades y Ayuntamientos para exigir el pago de las cantidades no cubiertas de la indemnización que a su juicio corresponda, una vez que se hagan efectivas las garantías constituidas conforme a este artículo.
+En las reuniones de Comisión, podrán participar con derecho a voz y previa autorización de la Comisión de que se trate, los titulares de los Órganos de Soporte Técnico y de Apoyo del Congreso o quienes éstos designen para el caso, cuando el asunto a tratar sea de su competencia.
 
-En los casos señalados en el artículo 48, fracción IX, de esta ley y bajo su responsabilidad, el servidor público que haya firmado el contrato, podrá exceptuar a los contratistas de presentar la garantía a que se refiere este precepto.
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2003)</small>
 
-###### ARTÍCULO 76.
+El Presidente del órgano de trabajo correspondiente, durante el desarrollo de las reuniones del mismo, tendrá las mismas atribuciones que la Ley y el Reglamento otorgan al Presidente del Congreso, relativas a la salvaguarda del orden y respeto al Congreso y a sus integrantes.
 
-El contratista será el único responsable de la ejecución de los trabajos y deberá sujetarse a todas las leyes, reglamentos y ordenamientos de las autoridades competentes en materia de construcción, seguridad, uso de la vía pública, protección y conservación del medio ambiente que rijan en el ámbito federal, estatal o municipal, así como a las instrucciones que al efecto le señale la dependencia, entidad o Ayuntamiento. Las responsabilidades y los daños y perjuicios originados por su inobservancia serán a cargo del contratista.
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE SEPTIEMBRE DE 2021)</small>
+###### Artículo 76.
 
-### CAPÍTULO SEGUNDO. DE LA EJECUCIÓN
+Las sesiones de las Comisiones serán convocadas por su Presidente con por lo menos veinticuatro horas de anticipación, salvo que se trate de asuntos turnados que requieran pronta resolución, en cuyo caso el Presidente deberá justificar esta situación a la Comisión de que se trate. Los integrantes de la Comisión asistirán a ellas con derecho de voz y voto; los Diputados que no formen parte de una Comisión podrán asistir a sus sesiones con derecho de voz, pero sin voto. El Presidente de cada Comisión podrá autorizar la presencia de asesores y personal de apoyo para el desarrollo de los trabajos.
 
-> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2011)</small>
+### CAPITULO II. DE LOS COMITES
 
-###### ARTÍCULO 77.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE DICIEMBRE DE 2010)</small>
 
-Una vez concluida la obra o parte utilizable de la misma, la dependencia, entidad o Ayuntamiento, vigilará que la unidad que debe operarla reciba oportunamente de la responsable de su realización, el inmueble en condiciones de operación, los planos correspondientes a la construcción final, las normas y especificaciones que fueron aplicadas durante su ejecución, así como los manuales e instructivos de operación y mantenimiento, y los certificados de garantía de calidad y funcionamiento de los bienes instalados.
+###### Artículo 77.
 
-> <small>(REFORMADO, P.O. 9 DE ENERO DE 2019)</small>
+El Congreso contará con los Comités de Administración y de Archivo y Biblioteca y de Seguimiento de Acuerdos; cada uno estará integrado pluralmente por cinco Diputados de al menos tres Grupos Legislativos. Estos Comités tienen el carácter de permanentes; cada uno se compondrá de un Presidente, un Secretario y tres Vocales, electos por el Pleno del Congreso.
 
-La entrega a la unidad operadora, deberá constar por escrito mediante el acta correspondiente.
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
 
-> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2021)</small>
+El Pleno del Congreso podrá crear por acuerdo, cuando las necesidades así lo requieran y conforme a las posibilidades del presupuesto, los Comités temporales que estime convenientes para la realización de las actividades del mismo.
 
-###### ARTÍCULO 78.
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
 
-Las dependencias, entidades o Ayuntamientos bajo cuya responsabilidad quede una obra pública concluida, estarán obligados por conducto del área responsable de su operación, a mantenerla en niveles apropiados de funcionamiento y vigilar que su uso, operación, mantenimiento y conservación se realice conforme a los objetivos y acciones para las que fueron originalmente diseñadas.
+En dicho acuerdo se especificarán los propósitos de su creación y el tiempo para realizar las tareas que se les encomienden.
 
-### CAPÍTULO ÚNICO
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE SEPTIEMBRE DE 2021)</small>
+###### Artículo 78.
 
-###### ARTÍCULO 79.
+El Comité de Administración vigila la operación de los servicios administrativos y el correcto ejercicio del presupuesto del Congreso. Al Comité de Administración le corresponde:
 
-Cumplidos los requisitos establecidos en los artículos 26 y 34 de esta ley, las dependencias, entidades y Ayuntamientos podrán realizar trabajos por administración directa, siempre que posean la capacidad técnica y los elementos necesarios para tal efecto, consistentes en maquinaria, equipo de construcción y personal técnico, que se requieran para el desarrollo de los trabajos respectivos. Al efecto, se elaborará un dictamen de factibilidad, el cual deberá ser autorizado por el Comité o Ayuntamiento de que se trate.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE JUNIO DE 2007)</small>
 
-En la ejecución de los trabajos por administración directa, se podrá:
+I.- Definir los criterios generales para la operación administrativa de los Órganos de Soporte Técnico y de Apoyo del Congreso, con la excepción del Órgano de Fiscalización Superior. Dichos criterios tendrán la finalidad de optimizar los recursos y el desarrollo de la función legislativa, así como orientar la elaboración de:
 
-I. Utilizar la mano de obra local que se requiera, lo que invariablemente deberá llevarse a cabo por obra determinada;
+a) El Anteproyecto de Presupuesto de Egresos del Congreso;
 
-II. Alquilar el equipo y maquinaria de construcción complementario, lo que no podrá ser superior al treinta por ciento del número total de elementos requeridos, de acuerdo con los programas establecidos;
+b) Políticas para el apoyo a las Comisiones, los Comités y los Grupos Legislativos;
 
-III. Utilizar preferentemente los materiales de la región, y
+c) Programas de actividades de los Órganos de Soporte Técnico y de Apoyo;
 
-IV. Utilizar los servicios de fletes y acarreos complementarios que se requieran, lo que no podrá ser superior al veinte por ciento del monto total de los trabajos.
+d) El Manual de Organización y Procedimientos del Congreso; y
 
-Cuando se requieran equipos, instrumentos, elementos prefabricados terminados, materiales u otros bienes que deban ser instalados, montados, colocados o aplicados, su adquisición se regirá por las disposiciones correspondientes a tal materia.
+e) La evaluación del desempeño del personal del Congreso;
 
-> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2021)</small>
+II.- Realizar las actividades necesarias para evaluar el cumplimiento de los criterios señalados en la fracción anterior;
 
-En los trabajos por administración directa, bajo ninguna circunstancia podrán participar terceros como contratistas, sean cuales fueren las condiciones particulares, naturaleza jurídica o modalidades que éstos adopten, incluidos los sindicatos, asociaciones y sociedades civiles y demás organizaciones o instituciones similares, exceptuándose lo señalado en la fracción IV que antecede.
+III.- Establecer los Lineamientos Generales para el Ejercicio del Presupuesto;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE SEPTIEMBRE DE 2021)</small>
+IV.- Proponer a la Comisión de Coordinación y Régimen Interno políticas de sueldos y programas de incentivos para el personal del Congreso;
 
-###### ARTÍCULO 80.
+V.- Participar, por medio de su Presidente, en las reuniones semestrales de planeación y organización de las actividades administrativas del Congreso;
 
-Previamente a la realización de los trabajos por administración directa, el titular del área responsable de la ejecución de los trabajos emitirá el acuerdo respectivo, del cual formarán parte entre otros aspectos, la descripción pormenorizada de los trabajos que se deban ejecutar, los proyectos, planos, especificaciones, programas de ejecución y suministro y el presupuesto correspondiente.
+VI.- Recibir, analizar y aprobar, el informe trimestral sobre el ejercicio presupuestal que rinda el Tesorero;
 
-Los órganos internos de control en las dependencias, entidades o Ayuntamientos, previamente a la ejecución de los trabajos por administración directa, verificarán que se cuente con el presupuesto correspondiente y los programas de ejecución, de utilización de recursos humanos y, en su caso, de utilización de maquinaria y equipo de construcción.
+VII.- Recibir del Tesorero, el Informe de la Cuenta Pública del Congreso del Estado y presentarlo al Pleno del Congreso para que se le dé el trámite correspondiente;
 
-> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2021)</small>
+VIII.- Conocer de los informes de los Órganos de Soporte Técnico y de Apoyo y en su caso, hacer las recomendaciones correspondientes para la mejora continua de los servicios administrativos;
 
-###### ARTÍCULO 81.
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2007)</small>
 
-La ejecución de los trabajos estará a cargo de la dependencia, entidad o Ayuntamiento a través de la residencia de obra; una vez concluidos los trabajos por administración directa, deberá entregarse la obra al área responsable de su operación o mantenimiento. La entrega deberá constar por escrito.
+IX.- Recomendar a la Tesorería, cuando así lo considere conveniente, la realización de auditorías a los Órganos de Soporte Técnico y de Apoyo, con la excepción del Órgano de Fiscalización Superior;
 
-###### ARTÍCULO 82.
+X.- Ordenar la realización de auditorías trimestrales externas a la Tesorería, sobre la administración financiera y contable de los recursos del Congreso;
 
-Las dependencias, entidades o Ayuntamientos deberán prever y proveer todos los recursos humanos, técnicos, materiales y económicos necesarios para que la ejecución de los trabajos se realice de conformidad con lo previsto en los proyectos, planos y especificaciones técnicas; los programas de ejecución y suministro, y los procedimientos para llevarlos a cabo.
+XI.- Rendir al Pleno del Congreso un informe anual de las actividades desarrolladas; y
 
-En la ejecución de los trabajos por administración directa serán aplicables las disposiciones de esta ley.
+XII.- Las demás que le confieren esta Ley y el Reglamento para el Gobierno Interior del Congreso.
 
-## TÍTULO QUINTO. DE LOS PROCEDIMIENTOS DE CONTRATACIÓN
+El Comité de Administración dispondrá de los recursos necesarios para cumplir con las funciones anteriores.
 
-### CAPÍTULO ÚNICO
+> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2000)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE SEPTIEMBRE DE 2021)</small>
+Artículo 78 BIS.- El Comité de Archivo y Biblioteca tiene a su cargo la promoción de las actividades tendientes a la formación, integración y modernización de la Biblioteca y del Archivo del Congreso. Al Comité de Archivo y Biblioteca le corresponde:
 
-###### ARTÍCULO 83.
+I.- Elaborar los criterios para integrar e incrementar un acervo bibliográfico que sirva de información y apoyo en las tareas legislativas;
 
-Las dependencias, entidades y Ayuntamientos conservarán en forma ordenada y sistemática, mediante archivos magnéticos y documentales, toda la información y documentación comprobatoria del gasto relacionado con las obras públicas o servicios relacionados con las mismas, mediante la conformación de un expediente unitario que contendrá lo siguiente:
+II.- Establecer las bases para organizar, codificar y modernizar el Archivo del Congreso;
 
-I. Los documentos que conforman el expediente técnico;
+III.- Promover la difusión del acervo de la Biblioteca y del Archivo del Congreso;
 
-II. Los documentos que se generen en el proceso de adjudicación del contrato, y
+IV.- Atender lo relacionado con al acervo histórico del Congreso;
 
-III. Los documentos que se generen durante la ejecución de la obra.
+V.- Ser el responsable de la edición de una publicación trimestral de difusión de las actividades del Congreso y de temas relacionados con la función legislativa, así como de publicaciones en materia histórica, socio-política, cultural y de interés general para el Estado;
 
-El área responsable de la integración del expediente unitario deberá conservarlo cuando menos por un lapso de cinco años, contado a partir de la fecha de recepción de la obra.
+VI.- Realizar propuestas a la Comisión de Coordinación y Régimen Interno, sobre la organización y procedimientos del Archivo y la Biblioteca del Congreso.
 
-> <small>(REFORMADO, P.O. 7 DE JULIO DE 2015)</small>
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2010)</small>
 
-###### ARTÍCULO 84.
+Artículo 78 BIS 1. El Comité de Seguimiento de Acuerdos, será el responsable de dar un oportuno seguimiento de respuesta a los Acuerdos que sean aprobados por el Pleno del Congreso, y que sean relativos a la intervención de alguna autoridad federal, estatal o municipal, respecto de la atención, resolución o información sobre diversas problemáticas del ámbito de sus competencias. A dicho Comité le corresponde:
 
-En ejercicio de sus facultades, la Contraloría, el órgano de control de los Ayuntamientos y la Auditoría Superior del Estado, podrán verificar en cualquier tiempo que las obras públicas y servicios relacionados con las mismas, se realicen conforme a lo establecido en esta ley o en otras disposiciones aplicables.
+l. Mantener actualizado el listado de Acuerdos Aprobados por el Pleno del Congreso, en los que se solicita la atención, información o la intervención de alguna autoridad federal, estatal o municipal, en el marco de sus atribuciones.
 
-###### ARTÍCULO 85.
+II. Solicitar, por conducto de su Presidente, a las autoridades competentes, la respuesta de los Acuerdos enviados para la atención, información o intervención de diversas problemáticas, cuando transcurra un tiempo prudente, posterior a la aprobación del Acuerdo; e
 
-Cuando se tenga conocimiento de que una dependencia, entidad o Ayuntamiento no se hubiere ajustado a las disposiciones de esta ley y demás aplicables, se procederá como sigue:
+III. Informar cada mes al Pleno del Congreso del seguimiento y situación que guardan los Acuerdos enviados a las autoridades federales, estatales o municipales, para la atención, información o intervención, conforme a sus atribuciones, de diversas problemáticas.
 
-I. El Ejecutivo Estatal o el Presidente Municipal, por conducto de los órganos de control correspondientes, solicitará las aclaraciones que estime pertinentes;
+> <small>(REFORMADA SU DENOMINACION, P.O. 16 DE AGOSTO DE 2000)</small>
 
-II. Si se estima que ha existido alguna violación a los preceptos aplicables, independientemente de las determinaciones procedentes para establecer las responsabilidades inherentes, se precisará en que consistió la transgresión y se indicarían las medidas que deberán adoptarse para corregirla, fijando el plazo dentro del cuál deberá subsanar por la dependencia, entidad o Ayuntamiento.
+### CAPITULO III. DE LOS ORGANOS DE SOPORTE TECNICO Y DE APOYO
 
-Dentro del plazo que se hubiere señalado, el ente público competente dará cuenta del cumplimiento que hubiere hecho.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE JUNIO DE 2007)</small>
 
-> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2021)</small>
+###### Artículo 79.
 
-###### ARTÍCULO 86.
+Los Órganos de Soporte Técnico y de Apoyo del Congreso son dependencias especializadas y responsables en los ámbitos de competencia que, respectivamente, les señala la normatividad vigente. Dependen orgánicamente de la Comisión de Coordinación y Régimen Interno, con la excepción del Órgano de Fiscalización Superior. Tienen la finalidad de apoyar a los Órganos Legislativos del Congreso en el cumplimiento de sus atribuciones. Sus funciones generales son las siguientes:
 
-El Ejecutivo Estatal o el Presidente Municipal, por conducto de los órganos de control correspondientes, podrá realizar las visitas, inspecciones y verificaciones que estime pertinentes a las dependencias y entidades o a las áreas competentes del Ayuntamiento, que realicen obras públicas o servicios relacionados con las mismas, así como solicitar de los funcionarios y empleados de las mismas y de los contratistas, en su caso, todos los datos e informes relacionados con los actos de que se trate.
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2000)</small>
 
-###### ARTICULO 87.
+I.- De los Órganos de Soporte Técnico:
 
-Las autoridades competentes, en el ejercicio de sus facultades, podrán verificar en cualquier tiempo que las obras públicas y los servicios relacionados con las mismas se realicen conforme a lo establecido por esta ley y a los programas y presupuestos autorizados. Las dependencias, entidades y Ayuntamientos proporcionarán todas las facilidades necesarias a fin de que en el ámbito de sus respectivas competencias pueda realizarse el control de la obra pública.
+a) De la Oficialía Mayor: la atención de los aspectos legislativos y jurídicos del Congreso, así como la asistencia a la Directiva durante el desarrollo de las sesiones del Pleno y de la Diputación Permanente;
 
-###### ARTÍCULO 88.
+b) De la Tesorería: la administración de los recursos financieros, humanos y de los servicios generales del Congreso;
 
-Los licitantes o contratistas que infrinjan las disposiciones de esta ley serán sancionados por la Secretaría o los Ayuntamientos, de acuerdo a la naturaleza y gravedad de la falta, con multa entre la cantidad equivalente a cincuenta mil veces el valor diario de la Unidad de Medida y Actualización, en la fecha de la infracción.
+c) De la Contaduría Mayor de Hacienda: la fiscalización, control y evaluación de las finanzas públicas de las entidades señaladas en la Ley de la Contaduría Mayor de Hacienda; y
 
-> <small>(REFORMADO, P.O. 4 DE MARZO DE 2021)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2007)</small>
 
-Los servidores públicos que infrinjan las disposiciones de esta ley serán sancionados en los términos de la Ley de Responsabilidades Administrativas del Estado de Tamaulipas.
+d) Del Centro de Estudios Legislativos: la elaboración de los proyectos de dictamen de las Comisiones y el desarrollo de programas de investigación y análisis en los aspectos técnicos de los asuntos que son competencia del Congreso.
 
-###### ARTÍCULO 89.
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2000)</small>
 
-Además de la sanción a que se refiere el artículo anterior, la Contraloría o los órganos de control de los Ayuntamientos, inhabilitarán temporalmente para participar en procedimientos de contratación, o celebrar contratos regulados por esta ley, al licitante o contratista que se encuentre en alguno de los supuestos siguientes:
+II.- De los Órganos de Apoyo:
 
-I. Los licitantes que injustificadamente y por causas imputables a los mismos no formalicen el contrato adjudicado por el ente público convocante;
+a) De la Dirección de Comunicación Social: la difusión de las actividades institucionales y el apoyo en las relaciones públicas del Congreso;
 
-II. Los contratistas que se encuentren en el supuesto de la fracción II del artículo 59 de este ordenamiento, con respecto a una dependencia, entidad o Ayuntamiento; según el caso;
+b) De la Dirección de Informática: la promoción del uso y la optimización de los recursos tecnológicos de computación e informática en la realización de actividades legislativas, técnicas y administrativas del Congreso;
 
-III. Los contratistas que no cumplan con sus obligaciones contractuales por causas imputables a ellos y que, como consecuencia, causen daños o perjuicios graves a la dependencia, entidad o Ayuntamiento de que se trate, y
+c) De la Coordinación de Seguridad: la seguridad en las instalaciones del Poder Legislativo, de los legisladores, del personal del Congreso y de los ciudadanos que se encuentren en dicho lugar; y
 
-IV. Los licitantes o contratistas que proporcionen información falsa, o que actúen con dolo o mala fe en algún procedimiento de contratación, en la celebración del contrato o durante su vigencia, o bien, en la presentación o desahogo de una queja en una audiencia de conciliación de una inconformidad.
+d) De la Unidad de Adquisiciones: la coordinación de la adquisición de bienes y de la contratación de los servicios necesarios para la realización de las actividades legislativas, técnicas y administrativas del Congreso.
 
-> <small>(REFORMADO, P.O. 14 DE JULIO DE 2021)</small>
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
 
-La inhabilitación que se imponga no será menor de dos años ni mayor de cinco años, plazo que comenzará a contarse a partir del día siguiente a la fecha en que la Contraloría o los órganos de control de los Ayuntamientos, lo notifiquen al licitante o contratista.
+###### Artículo 80.
 
-Dentro de los quince días naturales siguientes a la fecha en que tengan conocimiento de alguna infracción a las disposiciones de esta ley, las dependencias, entidades o Ayuntamientos remitirán a la Contraloría o a los órganos de control en el Ayuntamiento de que se trate, la documentación comprobatoria de los hechos presumiblemente constitutivos de la infracción.
+La integración, actividades y funcionamiento de los Órganos de Soporte Técnico y de Apoyo dependientes de la Comisión de Coordinación y Régimen Interno se establecen en el Reglamento para el Gobierno Interior del Congreso, así como en el Manual de Organización y Procedimientos del Congreso. Los titulares de estos órganos rendirán informes de acuerdo a lo siguiente:
 
-###### ARTÍCULO 90.
+I.- El Oficial Mayor:
 
-Tratándose de multas, la Secretaría o los Ayuntamientos las impondrán conforme a los siguientes criterios:
+a) Informes de apoyo a la Directiva y a la Diputación Permanente, que deberán presentarse ante estos órganos para coadyuvar a que den cumplimiento a lo dispuesto en los artículos 56 y 87, respectivamente, de la presente Ley; y
 
-I. Se tomará en cuenta la importancia de la infracción, las condiciones del infractor y la conveniencia de disuadir prácticas tendientes a infringir, en cualquier forma, las disposiciones de esta ley o las que se dicten con base en ella;
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2007)</small>
 
-II. Cuando sean varios los responsables, cada uno será sancionado con el total de la multa que se imponga, y
+b) Informes de actividades que deberán rendirse dentro de los quince días siguientes al inicio y al término de cada período ordinario de sesiones, que se presentarán ante la Comisión de Coordinación y Régimen Interno en la sesión ordinaria de ésta, posterior al inicio y al término de cada período de sesiones. Los Diputados recibirán copia de dichos informes;
 
-III. Tratándose de reincidencia, se impondrá una multa mayor, dentro de los límites señalados en el artículo 88 de esta ley.
+II.- El Tesorero: Informes trimestrales y el Informe de la Cuenta Pública Anual que se presentarán a la Comisión de Coordinación y Régimen Interno y al Comité de Administración en sus respectivas sesiones; y
 
-En el caso en que persista la infracción se impondrán multas por cada día que transcurra, como si se tratara de una reincidencia.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2007)</small>
 
-## TÍTULO SEXTO. DE LOS CONTRATOS
+III.- Los titulares del Centro de Estudios Legislativos y de los Órganos de Apoyo: Informes de actividades que deberán rendirse dentro de los quince días siguientes al inicio y al término de cada período ordinario de sesiones, y los cuales se presentarán ante la Comisión de Coordinación y Régimen Interno y el Comité de Administración. Las Comisiones de Dictamen Legislativo recibirán copia de los informes que rinda el titular del Centro de Estudios Legislativos.
 
-### CAPÍTULO ÚNICO
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+###### Artículo 81.
 
-###### ARTÍCULO 91.
+Para ser titular de la Oficialía Mayor, de la Tesorería o del Centro de Estudios Legislativos del Congreso, se requiere:
 
-No se impondrán sanciones cuando se haya incurrido en la infracción por causa de fuerza mayor o caso fortuito, o cuando se observe en forma espontánea el precepto que se hubiere dejado de cumplir. No se considerará que el cumplimiento es espontáneo cuando la omisión sea descubierta por las autoridades o medie requerimiento, visita, excitativa o cualquiera otra gestión ejecutada por las mismas.
+I.- Tener cuando menos 30 años cumplidos al día de su designación;
 
-### CAPÍTULO PRIMERO. DEL RECURSO DE REVOCACIÓN
+II.- Contar con título de educación superior y tener experiencia profesional. En el caso del titular del Centro de Estudios Legislativos también será requisito tener estudios de posgrado o experiencia en la investigación de asuntos en materia pública o social;
 
-###### ARTÍCULO 92.
+III.- No haber sido condenado mediante sentencia que haya causado ejecutoria, ni estar sujeto a proceso penal, por algún delito doloso; y
 
-En el procedimiento para la aplicación de las sanciones a que se refiere este Capítulo se observarán las siguientes reglas:
+IV.- Ser designado por el Pleno del Congreso, a propuesta de la Comisión de Coordinación y Régimen Interno.
 
-I. Se comunicarán por escrito al presunto responsable los hechos constitutivos de la infracción, para que dentro del término que para tal efecto se señale y que no podrá ser menor de diez días hábiles, exponga lo que a su derecho convenga y aporte las pruebas que estime pertinentes;
+En el caso del titular de la Oficialía Mayor, se requerirá además, ser ciudadano mexicano por nacimiento y no adquirir otra nacionalidad.
 
-II. Transcurrido el término a que se refiere la fracción anterior, se resolverá considerando los argumentos y pruebas que se hubieren hecho valer, y
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
 
-III. La resolución será debidamente fundada y motivada y se comunicará por escrito al afectado.
+###### Artículo 82.
+
+El Director del Centro de Estudios Legislativos durará ocho años en el cargo, pudiendo ser reelecto por el Pleno del Congreso. Sólo cesará en sus funciones en los siguientes casos:
+
+I.- Por renuncia que calificará el Pleno del Congreso;
+
+II.- Por decisión del Pleno del Congreso, por mayoría calificada; y
+
+III.- Por remoción, si incurre en cualquiera de las siguientes causales:
+
+a) Falta de probidad;
+
+b) Notoria ineficiencia;
+
+c) Incapacidad física o mental; o
+
+d) Por cometer algún delito doloso.
+
+En los casos previstos en las fracciones II y III del presente artículo, se cumplirá previamente con el derecho de audiencia del interesado. La solicitud de remoción señalada en la fracción III deberá ser promovida por al menos, tres integrantes de la Legislatura.
+
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2000)</small>
+
+## TITULO SEXTO. DE LA DIPUTACION PERMANENTE
+
+### CAPITULO I. INSTALACION
+
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 1998)</small>
+
+###### Artículo 83.
+
+La víspera del receso, en cada Período de Sesiones Ordinarias, la Legislatura nombrará, a mayoría simple de votos, una Diputación Permanente formada pluralmente por ocho Diputados.
+
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 1998)</small>
+
+###### Artículo 84.
+
+Por el orden de su designación se ocuparán los cargos de Presidente, Vice-Presidente, Primer Secretario, Segundo Secretario y cuatro vocales.
+
+Los cargos señalados serán para todo el Período de Receso. Las ausencias del Presidente se cubrirán por el Vice-Presidente y las del Primer Secretario se cubrirán por el segundo secretario. Los vocales cubrirán las ausencias en los otros cargos en la forma en que se determine por acuerdo de la mayoría de los presentes.
+
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 1998)</small>
+
+###### Artículo 85.
+
+La Diputación Permanente tendrá Sesiones Ordinarias los viernes de cada semana a las once horas, salvo acuerdo previo de la misma o que se trate de día feriado, en este último caso la sesión será el día hábil siguiente. Podrá celebrar Sesiones Extraordinarias cualquier día de la semana, previa Convocatoria por escrito signada por el Presidente, o a falta de éste por cinco miembros de la Permanente.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE AGOSTO DE 2000)</small>
+
+###### Artículo 86.
+
+Si para sesionar la Diputación Permanente no contare con la asistencia de uno o varios diputados que se desempeñen como vocales y por ese motivo no hubiese mayoría, se llamará a alguno o algunos de los integrantes del Congreso, preferentemente los que representen los distritos del área metropolitana, por su cercanía, para lograr la integración de esa mayoría, por lo que hace a cubrir la inasistencia de dichos vocales. De no llevarse a cabo la sesión, se pospondrá para la semana siguiente, salvo caso de urgencia, en que citará a Sesión Extraordinaria.
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 1998)</small>
+
+Los acuerdos de la Diputación Permanente se tomarán por el voto de la mayoría de los presentes; en caso de empate, el Presidente de la misma tendrá voto de calidad.
+
+> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2000)</small>
+
+Artículo 86 BIS.- Durante los períodos de receso, el Presidente de la Diputación Permanente será el Presidente del Congreso, tendiendo para este efecto, las mismas atribuciones que para dicho cargo enuncian esta Ley y el Reglamento para el Gobierno Interior del Congreso.
+
+###### Artículo 87.
+
+Al concluír el Período de Receso, de conformidad con lo establecido por el Artículo 66 fracción III de la Constitución Política local, el Presidente de la Diputación Permanente rendirá a la Asamblea, en la primera sesión del período que corresponda, un informe circunstanciado de los expedientes que hayan sido integrados durante ese período y de los que debe conocer el Pleno, absteniéndose en ese informe de emitir opinión alguna sobre los asuntos mencionados.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 9 DE DICIEMBRE DE 2010)</small>
+
+En el caso del año de la elección, el Presidente de la Diputación Permanente, deberá rendir su último informe el día 31 de agosto, en sesión que se cite para tal efecto cuando no se encuentre reunido pleno (sic).
+
+###### Artículo 88.
+
+Cuando deba convocarse a Período Extraordinario de Sesiones del Congreso, en los términos del Artículo 66 fracción IV de la Constitución Política del Estado, la Diputación Permanente librará con toda oportunidad oficio a los integrantes del mismo, para ese efecto, y, además mandará se publique la Convocatoria en el Periódico Oficial y en el estrado del Congreso.
+
+###### Artículo 89.
+
+En el Período Extraordinario de Sesiones a que se refiere el artículo anterior, se atenderá lo dispuesto en el Artículo 57 de esta Ley.
+
+###### Artículo 90.
+
+De manera especial la Diputación Permanente cumplirá con las obligaciones que le establece el Artículo 66 de la Constitución Política local, dando conocimiento al Pleno de su actuación el primer día del Período Ordinario de Sesiones.
+
+> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 16 DE AGOSTO DE 2000)</small>
+
+## TITULO SEPTIMO. DISPOSICIONES COMPLEMENTARIAS
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 16 DE AGOSTO DE 2000)</small>
+
+### CAPITULO I. GALERIAS
+
+(REUBICADO, P.O. 16 DE AGOSTO DE 2000)
+
+###### Artículo 91.
+
+El Congreso del Estado podrá crear las Galerías que tiendan al reconocimiento público de los integrantes de los Organos Legislativo, Ejecutivo y Judicial del Estado, de exhibición de documentos históricos y de difusión de la actividad legislativa.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 16 DE AGOSTO DE 2000)</small>
+
+### CAPITULO II. DEL TABLERO DE AVISOS
+
+> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2000)</small>
+
+###### Artículo 92.
+
+El Congreso del Estado contará con tableros de avisos, en los que se registrará:
+
+I.- La información relativa a la programación de las sesiones de las Comisiones y de los Comités, incluyendo el orden del día, fecha y hora de las sesiones; y
+
+II.- El reporte mensual de la asistencia de los Diputados a las sesiones de los Órganos Legislativos del Congreso señalados en el artículo 50 de esta Ley.
 
 ## TÍTULO SÉPTIMO. DE LA ADMINISTRACIÓN DIRECTA
 
@@ -1553,12 +1489,6 @@ En caso necesario, la audiencia se podrá realizar en varias sesiones. Para ello
 
 De toda diligencia deberá levantarse acta circunstanciada en la que consten los resultados de las actuaciones.
 
-###### ARTÍCULO 100.
-
-En el supuesto de que las partes lleguen a una conciliación, el convenio respectivo obligará a las mismas, y su cumplimiento podrá ser demandado por la vía judicial. En caso contrario, quedarán a salvo sus derechos, para que los hagan valer ante los tribunales competentes.
-
-T R A N S I T O R I O S
-
 ## TRANSITORIOS
 
 PRIMERO:- Se abroga la Ley Orgánica del Poder Legislativo del Estado de Nuevo León, publicada en el Periódico Oficial del Gobierno del Estado el día 12 de Julio de 1958.
@@ -1625,87 +1555,143 @@ Se abroga la Ley de Obras Públicas para el Estado de Tamaulipas publicada en el
 
 La Comisión constituida con fundamento en el Artículo Tercero Transitorio del Decreto mediante el cual se reforma la Ley de Obras Públicas para el Estado de Tamaulipas, publicado en el Periódico Oficial del Estado el día 16 de febrero de 1994, deberá sujetarse a lo establecido en este ordenamiento.
 
-###### ARTÍCULO CUARTO.
-
-Los procedimientos de contratación; de aplicación de sanciones y de inconformidades, así como los demás asuntos que se encuentren en trámite o pendientes de resolución, se tramitarán y resolverán conforme a las disposiciones vigentes al momento en que se iniciaron.
-
-Los contratos de obras públicas y de servicios relacionados con las mismas que se encuentren vigentes al entrar en vigor esta ley, continuarán rigiéndose por las disposiciones vigentes en el momento en que se celebraron.
-
-Las rescisiones administrativas que por causas imputables al contratista se hayan determinado de acuerdo con lo dispuesto en la Ley de Obras Públicas para el Estado de Tamaulipas publicada en el Periódico Oficial del Estado el día 3 de noviembre de 1984, y sus reformas del 16 de febrero de 1994 y del 11 de octubre de 2001, se continuarán considerando para los efectos de los artículos 59, fracción II, y, 89 fracción II, de esta ley.
-
-SALÓN DE SESIONES DEL H. CONGRESO DEL ESTADO.- CD. VICTORIA, TAM., A 25 DE JUNIO DE 2003.- DIPUTADO PRESIDENTE.- ARMANDO VERA GARCÍA.- Rúbrica.- DIPUTADO SECRETARIO.- FELIPE GARZA NARVÁEZ.- Rúbrica.- DIPUTADO SECRETARIO.- HECTOR AURELIO CASTILLO TOVAR.- Rúbrica.
-
-Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
-
-Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del Estado de Tamaulipas, a los veinticinco días del mes de junio del año dos mil tres.
-
-ATENTAMENTE.- SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- TOMÁS YARRINGTON RUVALCABA.- Rúbrica.- LA SECRETARIA GENERAL DE GOBIERNO.- MERCEDES DEL CARMEN GUILLÉN VICENTE.- Rúbrica.
-
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
-
-P.O. 14 DE SEPTIEMBRE DE 2004.
-
-###### ARTICULO UNICO.
-
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
-
-P.O. 27 DE DICIEMBRE DE 2007.
-
-###### ARTICULO UNICO.
-
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
-
-P.O. 15 DE JUNIO DE 2011.
-
-###### ARTÍCULO PRIMERO.
+###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-###### ARTÍCULO SEGUNDO.
+P.O. 24 DE OCTUBRE DE 1997.
 
-Los asuntos iniciados con las disposiciones que mediante el presente Decreto fueron reformadas, adicionadas o derogadas, deberán concluirse con la normatividad y conforme al procedimiento mediante el cual fueron iniciados.
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-P.O. 25 DE SEPTIEMBRE DE 2013.
+P.O. 10 DE JULIO DE 1998.
 
-###### ARTÍCULO PRIMERO.
+Artículo Único: El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
 
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+P.O. 16 DE SEPTIEMBRE DE 1998.
 
-###### ARTÍCULO SEGUNDO.
+###### ARTÍCULO ÚNICO
 
-El Consejo de la Judicatura deberá emitir las disposiciones reglamentarias relativas al Centro de Convivencia Familiar dentro de un periodo que no deberá exceder de sesenta días contados a partir de la publicación del presente Decreto en el Periódico Oficial del Estado.
+El Presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
 
-###### ARTÍCULO TERCERO.
+P.O. 9 DE ABRIL DE 1999.
 
-Los asuntos promovidos en contra de los Ayuntamientos cuya demanda haya sido admitida con anterioridad a la entrada en vigor del presente Decreto, seguirán siendo conocidos por el Pleno del Supremo Tribunal de Justicia.
+Primero.- El presente decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-###### ARTÍCULO CUARTO.
+Segundo.- Las veintiséis Comisiones de Dictamen Legislativo integradas actualmente, en virtud de lo dispuesto en los artículos 70 de la Ley Orgánica del Poder Legislativo del Estado y 39 del Reglamento para el Gobierno Interior del Congreso del Estado vigentes en la presente fecha continuarán funcionando transitoriamente hasta la aprobación por parte del Pleno del Congreso de los integrantes de las trece Comisiones de Dictamen Legislativo establecidas mediante el presente Decreto.
 
-Los profesionistas o expertos cuya designación como peritos haya sido realizada con anterioridad a la entrada en vigor de este Decreto, deberán protestar el cargo que les fue conferido de conformidad con las reglas anteriores.
+Tercero.- En la quinta sesión del Primer Período Ordinario de Sesiones del Tercer Año de Ejercicio Constitucional se elegirá o se ratificará a los integrantes de las Comisiones de Dictamen Legislativo, en los términos del artículo 67 de la Ley Orgánica del Poder Legislativo.
 
-P.O. 7 DE JULIO DE 2015.
+Cuarto.- La Ciudadana Diputada que al entrar en vigencia el presente decreto presida la Comisión de Derechos de las Mujeres, continuará con este cargo hasta la quinta sesión del Primer Período Ordinario de Sesiones, del Tercer Año de Ejercicio Constitucional de la LXVIII Legislatura, en que el Pleno del Congreso designe otro Presidente para dicha Comisión.
 
-###### ARTÍCULO PRIMERO.
+Quinto.- Los expedientes de los asuntos que obren en las actuales Comisiones de Dictamen Legislativo y cuya resolución por parte del Pleno del Congreso no se dé antes del día en que inicie la vigencia del presente Decreto, serán recibidos por la Oficialía Mayor que los entregará a la brevedad posible al Presidente de la Comisión que corresponda, de acuerdo a las competencias de las Comisiones que se establecen en el presente Decreto. El Oficial Mayor notificará por escrito a los Diputados integrantes de la LXVIII Legislatura sobre la asignación realizada en los términos de este artículo.
 
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+Sexto.- Se deroga cualquier disposición contraria a lo establecido en el presente decreto.
 
-###### ARTÍCULO SEGUNDO.
+P.O. 16 DE AGOSTO DE 2000.
 
-Las reformas que mediante el presente Decreto se efectúan a la Ley sobre la Organización y Funcionamiento Internos del Congreso del Estado de Tamaulipas, entrarán en vigor a partir de la expedición del mismo.
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-P.O. 21 DE DICIEMBRE DE 2016.
+Artículo Segundo.- Los Diputados que a la presente fecha integran la Gran Comisión pasarán a formar parte de la Comisión de Coordinación y Régimen Interno a partir del inicio de la vigencia del presente Decreto. Así mismo, cuando en una Ley, Reglamento o cualquier otra disposición se haga referencia a la "Gran Comisión" se entenderá que se refieren a la "Comisión de Coordinación y Régimen Interno."
+
+Artículo Tercero.- Se abroga el Decreto N° 347 por el que se Crea el Centro de Estudios Legislativos, publicado en el Periódico Oficial del Estado el 24 de octubre de 1994.
+
+Artículo Cuarto.- La transferencia de unidades administrativas de una dependencia a otra, con motivo de las reformas materia de este Decreto, se realizará incluyendo los recursos humanos, financieros y materiales que la unidad administrativa respectiva haya utilizado para la atención de los asuntos que conoció.
+
+Artículo Quinto.- Los derechos laborales del personal que en virtud de lo dispuesto en el presente Decreto, pasen de una dependencia a otra, se respetarán en términos de la legislación correspondiente.
+
+Artículo Sexto.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 8 DE OCTUBRE DE 2001.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Los asuntos que fueron turnados conforme a las disposiciones vigentes, serán inmediatamente turnados a las Comisiones que conforme al presente Decreto se crean, en caso de duda, se remitirá a la Directiva del Congreso del Estado para su turno.
+
+P.O. 15 DE JULIO DE 2002.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE AGOSTO DE 2002.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE MARZO DE 2003.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE OCTUBRE DE 2003.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE DICIEMBRE DE 2003.
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE DICIEMBRE DE 2003.
+
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2006)</small>
+
+Artículo Único.- La entrada en vigor del presente Decreto estará sujeta a la aprobación de la reforma a los artículos 46 y 55 primer párrafo de la Constitución Política del Estado Libre y Soberano de Nuevo León, hasta en tanto inicie la vigencia del Decreto por el cual se están reformando las referidas disposiciones constitucionales.
+
+Realizado lo anterior, para efecto de la LXXI Legislatura, la Primera Junta Preparatoria a que se refieren la Ley Orgánica del Poder Legislativo del Estado de Nuevo León y el Reglamento para el Gobierno Interior del Congreso del Estado de Nuevo León se efectuará el 5 de septiembre de 2006, la segunda Junta Preparatoria el 8 de septiembre de 2006 y la última Junta Preparatoria el 19 de septiembre de 2006; lo anterior, sin perjuicio de las demás Juntas Preparatorias que deban celebrarse para conocer, discutir y aprobar los dictámenes de las Comisiones Revisoras, en términos de Ley.
+
+P.O. 17 DE AGOSTO DE 2005.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE SEPTIEMBRE DE 2006.
+
+Artículo Único.- La presente reforma al Artículo Único Transitorio del Decreto No. 37 publicado en el Periódico Oficial del Estado No. 167 de fecha 29 de Diciembre de 2003, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE SEPTIEMBRE DE 2006.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE NOVIEMBRE DE 2006.
+
+Artículo Primero.- El presente Decreto entrará en vigor en el momento de su aprobación por el Pleno de este Congreso del Estado.
+
+Artículo Segundo.- El Presidente del Congreso del Estado deberá realizar los returnos correspondientes a fin de que las nuevas Comisiones de Dictamen Legislativo, creadas con motivo del presente Decreto, puedan analizar los asuntos que sean materia de su competencia.
+
+P.O. 7 DE FEBRERO DE 2007.
+
+Artículo Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE JUNIO DE 2007.
+
+Artículo Único.- El presente decreto entrará en vigor una vez que inicie la vigencia de la Ley del Órgano de Fiscalización Superior.
+
+P.O. 21 DE DICIEMBRE DE 2007.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- A la entrada en vigor del presente Decreto, los expedientes en trámite actualmente turnados a la Comisión de Legislación y Puntos Constitucionales cuya materia consista en la reforma, adición o derogación de disposiciones del Código Penal para el Estado de Nuevo León y a la Ley del Sistema Especial de Justicia para Adolescentes del Estado de Nuevo León, serán returnados a la Comisión de Justicia y Seguridad Pública para su estudio y dictamen.
+
+Asimismo los expedientes en trámite actualmente turnados a la Comisión de Justicia y Seguridad Pública cuya materia consista en la reforma, adición o derogación de disposiciones al Código de Procedimientos Civiles del Estado de Nuevo León, serán returnados a la Comisión de Legislación y Puntos Constitucionales.
+
+Los expedientes de las materias que se mencionan en los dos párrafos anteriores que estén turnados en forma unida a otra Comisión distinta a las ya referidas, sólo se hará el returno a la Comisión que corresponda según lo estipulado en el Artículo 39 fracción II inciso j) y fracción III inciso a) del Reglamento para el Gobierno Interior del Congreso del Estado de Nuevo León.
+
+P.O. 31 DE DICIEMBRE DE 2008.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE JULIO DE 2010.
+
+Único.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE DICIEMBRE DE 2010.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Segundo.- El Comité de seguimiento de Acuerdos será designado en la quinta sesión del Segundo Periodo de Sesiones ordinarias del Segundo año de ejercicio Constitucional de la Septuagésima Segunda Legislatura al H. Congreso del Estado, en los términos establecidos por el Articulo 60 segundo párrafo, del Reglamento para el Gobierno Interior del Congreso.
+
+P.O. 28 DE FEBRERO DE 2011.
+
+Primero.- El presente Decreto entrará en vigor al momento de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Por única ocasión, la Agenda Temática Mínima que regirá los trabajos legislativos del Segundo Período Ordinario de Sesiones del Segundo Año de Ejercicio Constitucional de la LXXII Legislatura al Congreso del Estado, deberá presentarse ante el Pleno para su aprobación, a más tardar en la quinta Sesión del mismo.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXIII-103 MEDIANTE EL CUAL SE REFORMAN DISPOSICIONES DE DIVERSOS ORDENAMIENTOS DE LA LEGISLACIÓN ESTATAL, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
-
-###### ARTÍCULO PRIMERO.
-
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
-
-###### ARTÍCULO SEGUNDO.
-
-Las normas del Código de Procedimientos Penales para el Estado de Tamaulipas, abrogado por el Código Nacional de Procedimientos Penales, en su Artículo Tercero Transitorio, publicado en el Diario Oficial de la Federación, el 5 de marzo de 2014, y de su reforma publicada el 17 de junio de 2016 del citado órgano de difusión, en la que se haga referencia al salario mínimo y que sean objeto de aplicación, se entenderá efectuada la homologación a la que se ciñe el presente Decreto.
-
-P.O. 8 DE MAYO DE 2017.
 
 ###### ARTÍCULO ÚNICO.
 
@@ -1725,72 +1711,18 @@ P.O. 12 DE OCTUBRE DE 2005.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXIII-166 MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES XII Y XIV; Y SE ADICIONA LA FRACCIÓN XV DEL ARTÍCULO 28 DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE TAMAULIPAS”.]
 
-###### ARTÍCULO PRIMERO.
-
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
-
-###### ARTÍCULO SEGUNDO.
-
-Se derogan todas las disposiciones normativas que se opongan al presente Decreto.
-
-P.O. 9 DE ENERO DE 2019.
-
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXIII-716 MEDIANTE EL CUAL SE ADICIONA EL ARTÍCULO 3 BIS, DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE TAMAULIPAS”.]
-
-###### ARTÍCULO PRIMERO.
-
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
-
-###### ARTÍCULO SEGUNDO.
-
-Se derogan todas las disposiciones normativas que se opongan al presente Decreto.
-
-P.O. 9 DE ENERO DE 2019.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO LXIII-717 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE TAMAULIPAS”.]
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO LXIII-817 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE 36 LEYES Y 1 CÓDIGO, EN MATERIA DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS".]
 
-###### ARTÍCULO ÚNICO.
-
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
-
-P.O. 4 DE MARZO DE 2021.
-
 ## [N. DE E. TRANSITORIO DEL "DECRETO LXIV-498 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 88 SEGUNDO PÁRRAFO Y 93 SEGUNDO PÁRRAFO DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE TAMAULIPAS".]
-
-###### ARTÍCULO ÚNICO.
-
-El presente Decreto entrará en vigor, a partir del siguiente día de su publicación en el Periódico Oficial del Estado.
-
-P.O. 4 DE MARZO DE 2021.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO LXIV-504 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 38 DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE TAMAULIPAS”.]
 
-###### ARTÍCULO ÚNICO.
-
-El presente decreto iniciará su vigencia el día siguiente al de su publicación en el Periódico Oficial del Estado.
-
-P.O. 14 DE JULIO DE 2021.
-
 ## [N. DE E. TRANSITORIO DEL "DECRETO No. LXIV-547 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 89, PÁRRAFO SEGUNDO, DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE TAMAULIPAS".]
-
-###### ARTÍCULO ÚNICO.
-
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-P.O. 23 DE SEPTIEMBRE DE 2021.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO No. LXIV-815 MEDIANTE EL CUAL SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE TAMAULIPAS".]
 
-###### ARTÍCULO ÚNICO.
-
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Tamaulipas.
-
-P.O. 6 DE ABRIL DE 2022.
-
 ## [N. DE E. TRANSITORIO DEL "DECRETO No. 65-144 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 19, PÁRRAFO PRIMERO, DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE TAMAULIPAS".]
-
-###### ARTÍCULO ÚNICO.
-
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
