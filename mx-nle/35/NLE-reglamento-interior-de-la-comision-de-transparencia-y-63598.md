@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-de-la-comision-de-transparencia-y-63598"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-08-20"
-last_updated: "2009-01-30"
+last_updated: "2011-02-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63598&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO INTERIOR DE LA COMISION DE TRANSPARENCIA Y ACCESO A LA INFORMACION DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE ENERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE FEBRERO DE 2011.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 20 de agosto de 2008.
 
@@ -73,9 +73,19 @@ VIII. Secretario de Actas del Pleno: Es el Comisionado Supernumerario quien fung
 
 IX. Presidente: El Comisionado Presidente, nombrado de acuerdo con la Ley.
 
-X. Secretario: El Secretario Ejecutivo de la Comisión.
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2011)</small>
+
+X. Secretarías: La Secretaría Ejecutiva y la Secretaría Técnica.
 
 XI. Direcciones: Las Direcciones de la Comisión.
+
+> <small>(ADICIONADA, P.O. 28 DE FEBRERO DE 2011)</small>
+
+XII. Subdirecciones: Las Subdirecciones de la Comisión.
+
+> <small>(ADICIONADA, P.O. 28 DE FEBRERO DE 2011)</small>
+
+XIII. Jefaturas: Los Jefes de Unidad.
 
 ###### Artículo 4.
 
@@ -103,33 +113,73 @@ III. Comisionado Presidente;
 
 IV. Secretaría Ejecutiva;
 
-V. Direcciones de:
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE FEBRERO DE 2011)</small>
+
+V. Secretaría Técnica;
+
+VI. Direcciones de:
 
 a) Administración;
 
 b) Asuntos Jurídicos;
 
-> <small>(REFORMADO, P.O. 30 DE ENERO DE 2009)</small>
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2011)</small>
 
-c) De Capacitación, Datos Personales y Archivos;
+c) Capacitación;
 
-> <small>(REFORMADO, P.O. 30 DE ENERO DE 2009)</small>
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2011)</small>
 
-d) Relaciones Interinstitucionales y Comunicación Social;
+d) Protección de Datos y Archivo;
 
-VI. Como unidad de apoyo adscrita directamente a la Secretaría Ejecutiva:
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE FEBRERO DE 2011)</small>
 
-a) Unidad de Informática y Sistemas;
+e) Estudios e Investigación;
 
-> <small>(REFORMADA, P.O. 30 DE ENERO DE 2009)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE FEBRERO DE 2011)</small>
 
-VII. Como unidades de apoyo adscritas directamente a la Dirección de Asuntos Jurídicos:
+f) Innovación, Desarrollo y Financiación;
 
-a) Coordinación y Vigilancia de los Sujetos Obligados;
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2011)</small>
 
-b) Atención a la sociedad;
+VII. Subdirecciones de:
 
-VIII. Las demás unidades y personal técnico y administrativo que autorice el Pleno de la Comisión.
+a) Vigilancia de Sujetos Obligados;
+
+b) Atención a la Sociedad;
+
+c) Acuerdos y Proyectos;
+
+d) Protección de Datos Personales;
+
+e) Archivo;
+
+f) Vigilancia Tecnológica;
+
+g) Proyectos de Investigación;
+
+h) Innovación y Desarrollo;
+
+i) Financiación;
+
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2011)</small>
+
+VIII. Como unidades de apoyo adscritas directamente a la Secretaría Ejecutiva:
+
+a) Informática y Sistemas;
+
+b) Comunicación Social;
+
+c) Difusión;
+
+> <small>(ADICIONADA, P.O. 28 DE FEBRERO DE 2011)</small>
+
+IX. Como unidad de apoyo adscrita directamente a la Secretaría Técnica:
+
+a) Coordinación de Relaciones Interinstitucionales;
+
+> <small>(ADICIONADA, P.O. 28 DE FEBRERO DE 2011)</small>
+
+X. Las demás unidades y personal técnico y administrativo que autorice el Pleno.
 
 ### CAPÍTULO TERCERO. DEL PLENO DE LA COMISIÓN
 
@@ -159,7 +209,9 @@ Corresponde al Pleno de la Comisión, además de las atribuciones contenidas en 
 
 I. Ejercer las atribuciones que a la Comisión le otorgan la Ley, así como las demás leyes, reglamentos y disposiciones administrativas que le resulten aplicables;
 
-II. Aprobar las modificaciones que procedan a este Reglamento, así como a las demás normas, manuales, lineamientos e instructivos que rijan la operación, administración y funcionamiento de la Comisión;
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2011)</small>
+
+II. Aprobar las modificaciones que procedan a este Reglamento, así como a las demás normas, manuales, acuerdos, políticas, lineamientos e instructivos que rijan la operación, administración y funcionamiento de la Comisión;
 
 > <small>(REFORMADA, P.O. 30 DE ENERO DE 2009)</small>
 
@@ -260,6 +312,10 @@ Cuando se trate de aprobar cuestiones relativas al presupuesto de la Comisión o
 ###### Artículo 15.
 
 Las sesiones ordinarias tanto como extraordinarias serán públicas, y serán presididas por el Comisionado Presidente fungiendo como Secretario de Actas el Comisionado Supernumerario, auxiliado por la Secretaría Ejecutiva.
+
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2011)</small>
+
+En caso de ausencia temporal del Comisionado Supernumerario a alguna sesión ordinaria como extraordinaria, el Secretario Ejecutivo fungirá como Secretario de Actas solamente para el desarrollo de la sesión de que se trate.
 
 ###### Artículo 16.
 
@@ -429,7 +485,9 @@ III. Llevar a cabo actividades de docencia e investigación en los términos de 
 
 IV. Proponer al Pleno la suscripción de convenios, acuerdos, bases de colaboración, mecanismos de coordinación, y demás actos consensuales a celebrarse con los sujetos obligados, las entidades federativas, los municipios, Distrito Federal, el Instituto Federal de Acceso a la Información, o los respectivos órganos de acceso a la información, así como con organismos públicos o privados, instituciones de educación y centros de investigación, tanto nacionales como extranjeros, a fin de lograr el cumplimiento de la Ley; y en general todo tipo de contratos o convenios que conlleven al fortalecimiento funcional de la Comisión;
 
-V. Proponer candidatos para ocupar la Secretaría Ejecutiva y las Direcciones de la Comisión, de conformidad con los procesos de selección aprobados por el Pleno;
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2011)</small>
+
+V. Proponer candidatos para ocupar las Secretarías, Direcciones, Subdirecciones y demás personal de apoyo de la Comisión, de conformidad con los procesos de selección aprobados por el Pleno;
 
 VI. Brindar asesoría, capacitación y apoyo técnico, por sí o por conducto del personal de la Comisión, a los sujetos obligados, para que cumplan con las disposiciones de la Ley y demás normatividad que les sea aplicable;
 
@@ -453,7 +511,9 @@ XV. Proponer lineamientos para los procesos de selección, evaluación, promoci�
 
 XVI. Proponer al Pleno el Código de Conducta de los Servidores Públicos de la Comisión;
 
-XVII. Pedir informes sobre actividades y ejecución de programas, a través del Presidente, de la Secretaría Ejecutiva, Directores y demás personal de la Comisión, así como toda información y documentación que requieran para el cumplimiento eficaz de sus atribuciones;
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2011)</small>
+
+XVII. Pedir informes sobre actividades y ejecución de programas, a través del Presidente y de las Secretarías, así como toda información y documentación que requieran para el cumplimiento eficaz de sus atribuciones;
 
 XVIII. Someter al Pleno proyectos de acuerdos;
 
@@ -465,9 +525,11 @@ XXI. Previa determinación del Pleno, suplir al Comisionado Presidente en sus au
 
 XXII. Las demás que le señalen la Ley, este Reglamento y otras disposiciones legales y administrativas que le sean aplicables.
 
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2011)</small>
+
 ###### Artículo 35.
 
-Los Comisionados serán auxiliados para el debido cumplimiento de sus funciones, de la Secretaría Ejecutiva, Directores, y demás personal de la Comisión.
+Los Comisionados serán auxiliados para el debido cumplimiento de sus funciones, de las Secretarías, Directores, Subdirectores, y demás personal de la Comisión.
 
 ###### Artículo 36.
 
@@ -497,9 +559,9 @@ III. Proponer al Pleno la suscripción de convenios, acuerdos, bases de colabora
 
 IV. Turnar, a través de la Dirección de Asuntos Jurídicos, al Comisionado Ponente que corresponda, los procedimientos de inconformidad y otros previstos en la Ley;
 
-> <small>(REFORMADA, P.O. 30 DE ENERO DE 2009)</small>
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2011)</small>
 
-V. Proponer al Pleno el nombramiento y la remoción de la Secretaría Ejecutiva, los Directores, y demás personal de la Comisión; de conformidad con lo dispuesto en el Reglamento del Servicio Profesional de Carrera, que al respecto expida la Comisión;
+V. Proponer al Pleno el nombramiento y la remoción de las Secretarías, los Directores y Subdirectores, y demás personal de la Comisión; de conformidad con lo dispuesto en el Reglamento del Servicio Profesional de Carrera, que al respecto expida la Comisión;
 
 VI. Coordinar la elaboración y entrega del informe anual de la Comisión al H. Congreso del Estado bajo los lineamientos que establece la Ley;
 
@@ -519,9 +581,13 @@ XII. Someter a la aprobación del Pleno el proyecto anual de presupuesto de egre
 
 XIII. Someter a la aprobación del Pleno el calendario anual de labores de la Comisión, y ordenar su publicación en el Periódico Oficial del Estado y en la página de Internet de la Comisión; dicho calendario incluirá los días hábiles y los días inhábiles;
 
-XIV. Ejecutar los acuerdos y resoluciones aprobados por el Pleno y proveer lo necesario para su debido cumplimiento, con el auxilio de la Secretaría Ejecutiva y los Directores;
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2011)</small>
 
-XV. Someter a la aprobación del Pleno las solicitudes de licencias temporales de los Comisionados, Secretaría Ejecutiva, Directores y Titulares de las Unidades de la Comisión, así como los respectivos acuerdos de suplencia y/o delegación de facultades;
+XIV. Ejecutar los acuerdos y resoluciones aprobados por el Pleno y proveer lo necesario para su debido cumplimiento, con el auxilio de las Secretarías y los Directores;
+
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2011)</small>
+
+XV. Someter a la aprobación del Pleno las solicitudes de licencias temporales de los Comisionados, las Secretarías, los Directores, Subdirectores, Coordinadores y Jefes de Unidad de la Comisión, así como los respectivos acuerdos de suplencia y/o delegación de facultades;
 
 XVI. Otorgar poderes para pleitos y cobranzas, representación legal y actos de administración.
 
@@ -547,9 +613,9 @@ IV. Representar a la Comisión en los asuntos que el Pleno determine;
 
 V. Elaborar los proyectos de convenios, acuerdos, bases de colaboración, mecanismos de coordinación, y demás actos consensuales a celebrarse con los sujetos obligados, las entidades federativas, los municipios, Distrito Federal, el Instituto Federal de Acceso a la Información, o los respectivos órganos de acceso a la información, así como con organismos públicos o privados, instituciones de educación y centros de investigación, tanto nacionales como extranjeros, a fin de lograr el cumplimiento de la Ley, en coordinación con la Dirección de Asuntos Jurídicos y darles seguimiento;
 
-> <small>(REFORMADA, P.O. 30 DE ENERO DE 2009)</small>
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2011)</small>
 
-VI. Auxiliar al Pleno o a los Comisionados en lo individual, en la coordinación y vigilancia de las Direcciones y demás personal técnico y administrativo de la Comisión, en el desempeño de sus atribuciones y responsabilidades establecidas en la Ley, en este Reglamento y demás leyes y disposiciones aplicables, conforme a los planes y políticas del Pleno;
+VI. Coordinar y vigilar a las Direcciones y demás personal técnico y administrativo asignado a su área, en el desempeño de sus atribuciones y responsabilidades establecidas en la Ley, en este Reglamento y demás leyes y disposiciones aplicables, conforme a los planes y políticas de la Comisión;
 
 VII. Expedir certificaciones y constancias de la documentación que obre en poder de la Comisión, cuando así se requiera;
 
@@ -557,19 +623,23 @@ VIII. Auxiliar al Presidente en la ejecución de las resoluciones y acuerdos del
 
 IX. Auxiliar al Presidente y a los Comisionados en la elaboración e integración del Informe Anual de la Comisión para entregarlo al H. Congreso del Estado, así como en los demás informes que deban rendir al Pleno;
 
-> <small>(REFORMADA, P.O. 30 DE ENERO DE 2009)</small>
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2011)</small>
 
-X. Proveer lo necesario para hacer del conocimiento público las disposiciones legales, lineamientos, y. en general, todas las decisiones que se tomen por el Pleno en materia de acceso a la información pública y protección de datos personales, en coordinación con la Dirección de Relaciones Interinstitucionales y Comunicación Social, y la Unidad Administrativa de Informática y Sistemas;
+X. Proveer lo necesario para hacer del conocimiento interno del organismo, las disposiciones legales, lineamientos, políticas, y en general, aquellas decisiones del Pleno que sean necesarias para el buen desempeño de las atribuciones de la Comisión;
 
-XI. Integrar, custodiar y acrecentar el acervo bibliográfico, documental e informático de la Comisión, manteniendo actualizado el compendio de las disposiciones jurídicas y reglamentarias que rigen el actuar de la misma, en materia del derecho de acceso a la información pública y demás aspectos relacionados con sus objetivos y atribuciones;
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2011)</small>
+
+XI. Velar por la seguridad de las instalaciones, personal, patrimonio y resguardo de la información de la Comisión;
 
 XII. Procurar que se elaboren los manuales de organización, de procedimientos y demás normatividad interna que sea necesaria para el buen desempeño de las atribuciones de la Comisión, y someterlos a la aprobación del Pleno, previa consulta con los Comisionados y el Comisionado Presidente;
 
-XIII. Elaborar y proponer proyectos de reformas y adiciones al Reglamento Interior y demás normas de operación y administración de la Comisión;
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2011)</small>
 
-> <small>(REFORMADA, P.O. 30 DE ENERO DE 2009)</small>
+XIII. Elaborar y proponer proyectos de reformas al Reglamento Interior y demás normas de operación y administración de la Comisión, y encargarse de su publicación en el Periódico Oficial del Estado cuando proceda;
 
-XIV. Informar a los Comisionados sobre la integración y el funcionamiento de la Unidad de Informática y Sistemas, así como de la oficialía de partes, mediante los informes que le rindan sobre el desempeño de las mismas;
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2011)</small>
+
+XIV. Informar a los Comisionados a través del Comisionado Presidente, sobre la integración y funcionamientos de las Direcciones y unidades administrativas adscritas a la Secretaría, mediante los informes sobre el desempeño de las mismas;
 
 XV. Revisar y en su caso proponer modificaciones a la estructura básica de la organización de la Comisión;
 
@@ -577,11 +647,51 @@ XVI. Recabar la información y elementos estadísticos que reflejen el estado de
 
 XVII. Tener a su cargo la supervisión, operación y control de la oficialía de partes, la cual llevará el libro correspondiente tanto para el registro progresivo de los documentos recepcionados, libro de amparos y demás que sean necesarios, así como vigilar que oportunamente sean turnados al área correspondiente;
 
-XVIII. Por instrucciones del Pleno, llevar a cabo los procedimientos administrativos respecto de las faltas, infracciones u omisiones de responsabilidad cometidas por los servidores públicos de la Comisión, en los términos de la Ley de Responsabilidades de los Servidores Públicos para el Estado y Municipios de Nuevo León; y
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2011)</small>
 
-XIX. Las demás que le confieran la Ley, este Reglamento y demás disposiciones legales y administrativas aplicables.
+XVIII. Por instrucciones del Pleno, llevar a cabo los procedimientos administrativos respecto de las faltas, infracciones u omisiones de responsabilidades cometidas por los servidores públicos de la Comisión, en los términos de la Ley de Responsabilidades de los Servidores Públicos para el Estado y Municipios de Nuevo León;
 
-### CAPÍTULO NOVENO. DE LA COORDINACIÓN Y VIGILANCIA DE LOS SUJETOS OBLIGADOS
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2011)</small>
+
+XIX. Elaborar y mantener actualizado el directorio oficial de los sujetos obligados, incluyendo los responsables de las Unidades de información y Transparencia de cada uno de ellos, en su caso;
+
+> <small>(ADICIONADA, P.O. 28 DE FEBRERO DE 2011)</small>
+
+XX. Elaborar y mantener actualizado un directorio de los organismos públicos en materia de transparencia y acceso a la información pública, que contenga el contacto de su Presidente y demás consejeros o comisionados, tanto federales como estatales; así como de los organismos no gubernamentales y asociaciones civiles del Estado, instituciones académicas públicas y privadas, de educación media, media superior y superior; y
+
+> <small>(ADICIONADA, P.O. 28 DE FEBRERO DE 2011)</small>
+
+XXI. Las demás que le confieran el Pleno, la Ley, este reglamento y demás disposiciones legales y administrativas aplicables.
+
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2011)</small>
+
+###### Artículo 40 Bis.
+
+Son atribuciones de la Secretaría Técnica:
+
+I. Representar a la Comisión en los asuntos que el Presidente o el Pleno determine;
+
+II. En coordinación con la Secretaría Ejecutiva, proponer los respectivos proyectos de convenios, acuerdos, bases de colaboración, mecanismos de coordinación, y demás actos consensuales a celebrarse con los sujetos obligados, las entidades federativas, Distrito Federal, el Instituto Federal de Acceso a la Información, los respectivos órganos de acceso a la información del país, organismos públicos o privados, instituciones de educación de todos los niveles públicos o privados, así como con Institutos de investigación, tanto nacionales como extranjeros, a fin de generar mayor conocimiento y obtener mejores prácticas en materia de protección de datos personales, innovación, desarrollo, estudios e investigación;
+
+III. Coordinar y vigilar las Direcciones y demás personal técnico y administrativo asignados a su área, en el desempeño de sus atribuciones y responsabilidades establecidas en la Ley, en el presente Reglamento y demás leyes y disposiciones aplicables, conforme a los planes y políticas que determine el Pleno;
+
+IV. Proveer lo necesario para hacer del conocimiento público las disposiciones legales, lineamientos y, en general, las decisiones del Pleno en materia de protección de datos personales, innovación, desarrollo, estudios e investigación;
+
+V. Integrar, custodiar, actualizar y acrecentar el acervo bibliográfico de la Comisión, en materia de acceso a la información, protección de datos personales, y demás aspectos relacionados con sus objetivos y atribuciones;
+
+VI. En coordinación con la Secretaría Ejecutiva, procurar que se elaboren los manuales de organización, de procedimientos y demás normativa interna de las direcciones a su cargo, necesarios para el buen desempeño de las atribuciones de la Comisión;
+
+VII. Elaborar y proponer proyectos de reformas y adiciones al Reglamento Interior de la Comisión, así como demás normas de operación y administración de su área;
+
+VIII. En coordinación con la Secretaría Ejecutiva, revisar y proponer modificaciones a la estructura básica de la organización de la Comisión;
+
+IX. Efectuar y entregar oportunamente el respectivo informe de actividades a la Presidencia de la Comisión, para su debida integración al informe anual del organismo; y
+
+X. Las demás que le sean encomendadas por el Presidente o el Pleno, el presente Reglamento, la Ley y las demás disposiciones legales y administrativas aplicables.
+
+### CAPÍTULO NOVENO. DE LAS SUBDIRECCIONES
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 41.
 
@@ -589,7 +699,9 @@ Son atribuciones de los titulares de las Direcciones y de las Unidades:
 
 I. Planear, programar, organizar, dirigir, ejecutar, controlar y evaluar el desarrollo de los programas y acciones encomendadas a su cargo;
 
-II. Acordar con el Secretario Ejecutivo la resolución de los asuntos relevantes cuya tramitación se encuentre dentro de su área de competencia;
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2011)</small>
+
+II. Acordar con la Secretaría respectiva, la resolución de los asuntos relevantes cuya tramitación se encuentre dentro de su área de competencia;
 
 III. Formular opiniones, informes y desahogar las consultas relacionadas con las facultades de su competencia;
 
@@ -601,7 +713,9 @@ VI. Coordinarse con los titulares o con los servidores públicos de otras Direcc
 
 VII. Formular el anteproyecto de presupuesto de egresos por programa relativo al área a su cargo, conforme a las normas que emita el Pleno;
 
-VIII. Proporcionar la información, datos o cooperación técnica que le sea requerida por el Pleno, los Comisionados, y el Secretario Ejecutivo, y participar en las sesiones que se realicen de conformidad con las políticas y normas aprobadas por el Pleno;
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2011)</small>
+
+VIII. Proporcionar la información, datos o cooperación técnica que le sea requerida por el Pleno, los Comisionados, la Secretaría a la que se encuentre adscrito, y participar en las reuniones de trabajo que se realicen y que sean convocados;
 
 IX. Organizar, clasificar, conservar y custodiar los archivos de trámite y, en su caso, los de concentración que obren en poder del área, con base a lo que se establece en este Reglamento;
 
@@ -643,7 +757,7 @@ XIV. Atender las necesidades administrativas de las unidades de la Comisión;
 
 XV. Apoyar al Presidente, al Secretario Ejecutivo y a los demás Comisionados en la elaboración del Informe Anual que la Comisión debe presentar al H. Congreso del Estado, así como en los demás informes de avance y seguimiento de las actividades de la Comisión;
 
-XVI. Velar por la seguridad de las instalaciones, personal, patrimonio y resguardo de la información de la Comisión;
+XVI. (DEROGADA, P.O. 28 DE FEBRERO DE 2011)
 
 XVII. Ser el responsable de que se realicen los pagos a los que está obligada la Comisión, así como efectuar las retenciones y pagos ante el INFONAVIT, IMSS, SHCP, y demás cargos fiscales de otra índole;
 
@@ -691,143 +805,233 @@ XV. Llevar el archivo de los expedientes de los procedimientos de inconformidad 
 
 XVI. Las demás que le confieran el Pleno y las disposiciones legales y administrativas que le sean aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE ENERO DE 2009)</small>
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 44.
 
-Son atribuciones específicas de la Dirección de Capacitación, Datos Personales, y Archivos:
+Son atribuciones de la Dirección de Capacitación:
 
-> <small>(REFORMADA, P.O. 30 DE ENERO DE 2009)</small>
+I. Elaborar, ejecutar y evaluar los programas y proyectos de capacitación en materia de transparencia, acceso a la información pública, protección de datos personales y temas afines;
 
-I. Promover y, en su caso, ejecutar y coordinar la capacitación, asesoría y actualización permanente a los servidores públicos de los sujetos obligados y de la sociedad en general en coordinación de la Dirección de Relaciones Interinstitucionales y Comunicación Social, en materia de transparencia, acceso a la información pública y protección de datos personales, bajo los lineamientos, planes, programas y políticas aprobadas por el Pleno;
+II. Promover, y en su caso ejecutar y coordinar la capacitación y actualización permanente a los servidores públicos de los sujetos obligados, y de la sociedad en general, en materia de transparencia, acceso a la información pública, protección de datos personales, bajo los lineamientos, planes, programas, estrategias y políticas aprobadas por el Pleno;
 
-II. Elaborar y someter a la aprobación del Pleno, los proyectos de contenidos conceptuales sobre la importancia social del derecho de acceso a la información pública y a la protección de los datos personales, con el fin de promover, ante las autoridades educativas competentes, que se incluyan en los planes de estudio de la educación básica, media superior, superior, normal y, en general, en todo programa educativo que se imparta en el Estado;
+III. Implantar estrategias de capacitación para promover el efecto multiplicador del conocimiento en materia de transparencia, acceso a la información pública y protección de datos personales;
 
-III. Proponer al Pleno la celebración de convenios con universidades públicas y privadas, a fin de compartir experiencias en materia de transparencia, acceso a la información pública y protección de datos personales, y conformar planes y programas de estudio para generar las bases del ejercicio de estos derechos;
+IV. Elaborar y someter a la aprobación del Pleno, los proyectos de contenidos conceptuales sobre la importancia social de la transparencia, el derecho de acceso a la información pública y la protección de datos personales, con el fin de promover, ante las autoridades educativas competentes, que se incluyan en los planes de estudio de la educación básica, media suprior (sic), superior, normal y, en general, en todo programa educativo que se imparta en el Estado;
 
-IV. Proponer al Pleno los criterios de coordinación con el Archivo General del Estado, en materia de elaboración, estudio y aplicación de lineamientos para la catalogación;
+V. Proponer la celebración e (sic) convenios con universidades públicas y privadas, a fin de compartir experiencias en materia de transparencia, acceso a la información pública y protección de datos personales, y conformar planes y programas de estudio para generar las bases del ejercicio de estos derechos;
 
-> <small>(REFORMADA, P.O. 30 DE ENERO DE 2009)</small>
+VI. Impulsar la cultura de la transparencia, acceso a la información pública y protección de datos personales, a través de la elaboración y publicación de materiales educativos y formativos;
 
-V. Elaborar y proponer al Pleno los criterios para la organización y conservación de documentos y archivos de la Comisión y para el manejo, mantenimiento, seguridad y protección de los datos personales que estén en su posesión y, en general, sobre las materias de clasificación, datos personales y archivos, así como respecto de la posesión y existencia de la información solicitada a la Comisión;
+VII. Informar a su superior jerárquico sobre las actividades, programas y eventos realizados por la Dirección;
 
-VI. Elaborar las medidas necesarias para proteger los sistemas o archivos de información en posesión de la Comisión, contra los riesgos naturales, pérdida accidental o destrucción por siniestro, y contra los riesgos humanos, como el acceso sin autorización, la utilización encubierta de datos, la contaminación por virus informáticos u otras causas de naturaleza similar a las enunciadas.
+VIII. Coordinar y sistematizar la información que se suministra para el portal de internet, la cual será entregada a la Unidad de Informática y Sistemas para la actualización correspondiente;
 
-VII. Elaborar los sistemas de archivo enunciados en el artículo 40 de la Ley; y (sic)
+IX. Colaborar con las Unidades de área de la Comisión para coordinar eventos y la promoción de temas relacionados con la cultura de transparencia y acceso a la información;
 
-> <small>(REFORMADA, P.O. 30 DE ENERO DE 2009)</small>
+X. Proponer y organizar cursos, seminarios, talleres o cualquier otro evento dirigido a los sujetos obligados y a la sociedad en general, con la finalidad de actualizarlos y capacitarlos permanentemente en materia de transparencia, acceso a la información pública y protección de datos personales;
 
-VIII. Apoyar en la sustanciación de los procedimientos de inconformidad previstos en la Ley, y otros, interpuestos ante la Comisión, a través de la elaboración de estudios y opiniones en las siguientes materias:
+XI. Proponer la suscripción de convenios, acuerdos, bases de colaboración, mecanismos de coordinación, y demás actos consensuales a celebrarse con los sujetos obligados, las entidades federativas, los municipios, el Distrito Federal, el Instituto Federal de Acceso a la Información y Protección de Datos, o los respectivos órganos de acceso a la información, así como con organismos públicos o privados, instituciones de educación y centros de investigación, tanto nacionales como extranjeros, a fin de lograr el cumplimiento de la Ley;
 
-a) Clasificación,
+XII. Diseñar y elaborar el Concurso Anual de Investigación Jurídica de la Comisión: “Certamen de Ensayos Escritos”, los concursos de Arte Transparente: “Un derecho de todos” y de Dibujo Infantil; así como de todos aquellos que sean aprobados por el Pleno, para promover y difundir de manera permanente, la cultura de la transparencia, el acceso a la información pública y la protección de datos personales; y
 
-b) Datos personales,
+XIII. Las demás que le confieran el Pleno, el Secretario Ejecutivo, la Ley, el presente Reglamento, y las disposiciones legales y administrativas que le sea (sic) aplicables.
 
-c) Archivos, y
-
-d) Posesión y existencia de la información solicitada en los archivos de las dependencias y entidades;
-
-> <small>(ADICIONADA, P.O. 30 DE ENERO DE 2009)</small>
-
-IX. Proponer al Pleno la suscripción de convenios, acuerdos, bases de colaboración, mecanismos de coordinación, y demás actos consensuales a celebrarse con los sujetos obligados, las entidades federativas, los municipios, Distrito Federal, el Instituto Federal de Acceso a la Información, o los respectivos órganos de acceso a la información, así como con organismos públicos o privados, instituciones de educación y centros de investigación, tanto nacionales como extranjeros, a fin de lograr el cumplimiento de la Ley; y
-
-> <small>(ADICIONADA, P.O. 30 DE ENERO DE 2009)</small>
-
-X. Las demás que le confieran el Pleno y las disposiciones legales y administrativas que le sean aplicables.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE ENERO DE 2009)</small>
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 45.
 
-Son atribuciones de la Dirección de Relaciones Interinstitucionales y Comunicación Social:
+Son atribuciones de la Dirección de Protección de Datos y Archivo:
 
-I. Proponer al Pleno la suscripción de convenios, acuerdos, bases de colaboración, mecanismos de coordinación, y demás actos consensuales a celebrarse con los sujetos obligados, las entidades federativas, los municipios, Distrito Federal, el Instituto Federal de Acceso a la Información, o los respectivos órganos de acceso a la información, así como con organismos públicos o privados, instituciones de educación y centros de investigación, tanto nacionales como extranjeros, a fin de lograr el cumplimiento de la Ley;
+I. Elaborar y proponer al Presidente o al Pleno de la Comisión, los criterios para el manejo, mantenimiento, seguridad y protección de los datos personales que estén en posesión tanto de los sujetos obligados como de la Comisión;
 
-II. Proponer al Pleno la celebración de convenios para que la Comisión se allegue de recursos financieros;
+II. Promover, y en su caso, asesorar a los sujetos obligados y a la sociedad en general, en materia de protección de datos personales y archivo, bajo los lineamientos, planes, programas y políticas aprobadas por la Comisión;
 
-III. Elaborar y proponer para su aprobación por el Pleno, el proyecto de políticas y estrategias de comunicación social de la Comisión, y ejecutarlos una vez aprobado;
+III. Solicitar, administrar y resguardar el documento de seguridad a que alude el artículo 79 de la Ley de la materia, que los sujetos obligados están obligados a remitir a la Comisión;
 
-IV. Elaborar los planes y programas para orientar a los particulares sobre el derecho de acceso y los beneficios en el manejo de la información pública y de los datos personales, así como también sus responsabilidades en el buen uso y conservación de aquélla, ejecutándolos una vez aprobados por el Pleno;
+IV. Elaborar y mantener actualizado el directorio de los responsables del tratamiento de los sistemas de datos personales y archivo de los sujetos obligados;
 
-> <small>(REFORMADA, P.O. 30 DE ENERO DE 2009)</small>
+V. Participar en el diseño, aplicación y actualización de los instrumentos de análisis de la protección de datos personales y archivo, así como proponer la elaboración y creación de un sistema de datos personales (sistema persona) de la Comisión, que permita a los sujetos obligados cumplir con sus obligaciones en la materia;
 
-V. Promover y difundir ante la sociedad la cultura de la transparencia, la rendición de cuentas, el acceso a la información pública y el respeto a la privacidad y a la protección de los datos personales bajo los lineamientos aprobados por el Pleno, en coordinación de la Dirección de Capacitación, Datos Personales y Archivos;
+VI. Elaborar y proponer al Presidente o al Pleno, la creación, estudio y aplicación de lineamientos para la catalogación, organización y conservación de documentos y archivos de los sujetos obligados y de la Comisión, en coordinación con el Archivo General del Estado;
 
-VI. Difundir las atribuciones, organización, programas, objetivos y metas de la Comisión, con base en las políticas y en las estrategias de comunicación social aprobadas por el Pleno;
+VII. Establecer y diseñar las medidas necesarias para proteger los sistemas o archivos de información en posesión de la Comisión, contra los riesgos naturales, pérdidas accidentales o destrucción por siniestro; asimismo, contra los riesgos humanos, como el acceso sin autorización, la utilización encubierta de datos, la contaminación por virus informáticos u otras causas de naturaleza similar a las enunciadas;
 
-VII. Mantener informada a la sociedad sobre las actividades, acuerdos y resoluciones de la Comisión; dar seguimiento a toda la información relativa a la misma, así como a los temas o asuntos vinculados con la transparencia, rendición de cuentas, acceso a la información pública, datos personales, archivos gubernamentales, etc.
+VIII. Velar que los sujetos obligados y la Comisión, establezcan sistemas de archivo de trámite, de concentración e histórico, así como elaborar esquemas para incentivar mejores prácticas en materia de gestión documental y archivos;
 
-VIII. Coadyuvar en las tareas de comunicación y vinculación entre la Comisión y los entes públicos y privados, a fin de que se establezca y mantenga la debida relación institucional ordenada en la Ley;
+IX. Llevar el control y gestión del archivo de concentración e histórico de la Comisión;
 
-IX. Realizar en forma sistemática el análisis cuantitativo y cualitativo de la información difundida por la Comisión en los medios de comunicación;
+X. Elaborar y entregar oportunamente los respectivos informes a la Secretaría Técnica, para su debida integración al informe anual de la Comisión; y
 
-X. Mantener una estrecha relación con los medios de comunicación, procurando espacios para la difusión de los objetivos, programas y actividades de la Comisión;
+XI. Las demás que le sean encomendadas por el Pleno, el Secretario Técnico, el presente Reglamento, la Ley y las demás disposiciones legales y administrativas aplicables.
 
-XI. Realizar actividades de vinculación con los sujetos obligados y otras instituciones públicas y privadas para establecer enlaces electrónicos desde sus páginas Web al sitio oficial de la Comisión, en coordinación con la Unidad de Informática y Sistemas a través de la Secretaría Ejecutiva, previo programa anual que presenten las dos áreas para su aprobación al Pleno, informando periódicamente del resultado de sus actividades;
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2011)</small>
 
-XII. Llevar el control de la agenda de las entrevistas que se generen para los Comisionados y demás funcionarios de la Comisión, así como grabar y dar seguimiento a sus intervenciones;
+###### Artículo 45 Bis.
 
-XIII. Promover la organización de foros, seminarios, talleres y otros eventos que difundan el acceso a la información pública y la rendición de cuentas, así como la protección de los datos personales, y dar a conocer a la Comisión, a los sujetos obligados y a la sociedad en general la realización de otros eventos similares a nivel nacional e internacional, y participar en ellos, previa aprobación de la Comisión;
+Son atribuciones de la Dirección de Estudios e Investigación:
 
-XIV. Elaborar y mantener actualizado el directorio oficial de los sujetos obligados, incluyendo los responsables de las Unidades de Información y Transparencia de cada uno de ellos, en su caso;
+I. Elaborar a solicitud del Comisionado Presidente o del Pleno, opiniones, estudios técnicos, dictámenes o investigaciones sobre temas relacionados con la transparencia, la rendición de cuentas, el acceso a la información, la protección de datos personales y archivo, procurando en todo momento, generar conocimiento sobre la materia;
 
-XV. Elaborar y mantener actualizado un directorio completo de los organismos públicos en materia de transparencia y acceso a la Información pública, tanto federales como estatales y municipales, así como de los organismos y asociaciones académicas y privadas que promuevan la cultura y los derechos en estas materias, incluyendo a las universidades, escuelas e institutos de educación media, media superior y superior;
+II. Realizar a solicitud del Comisionado Presidente o del Pleno, opiniones, estudios técnicos, dictámenes, criterios de interpretación o investigaciones relacionadas con el sentido de las resoluciones definitivas ejecutoriadas dictadas por la Comisión;
 
-XVI. Mantener una estrecha vinculación con el Instituto Federal de Acceso a la Información Pública y con los organismos homólogos de las demás entidades del país, informando permanentemente a los Comisionados;
+III. Proponer y supervisar en coordinación con la Dirección de Asuntos Jurídicos, la elaboración de reformas o proyectos de leyes, reglamentos, acuerdos, circulares, lineamientos y demás instrumentos jurídicos derivados de la Ley, su Reglamento y demás disposiciones aplicables;
 
-XVII. Realizar el monitoreo diario de los medios de comunicación;
+IV. Sugerir la celebración de convenios de colaboración en materia de estudios e investigación, con universidades públicas o privadas, institutos o instituciones de investigación jurídica especializada y organismos garantes de la información y protección de datos personales a nivel local, nacional e internacional; procurando la creación de un Instituto Internacional de Estudios en materia de información, datos personales y archivo;
 
-XVIII. Elaborar pautas y spots para radio, televisión y prensa;
+V. Proponer la organización de foros, seminarios, talleres y demás eventos académicos que difundan el acceso a la información pública y la protección de datos personales y archivo, a nivel local, nacional e internacional;
 
-XIX. Diseñar y elaborar el Concurso Anual de Investigación de la Comisión: “Certamen de Ensayos Escritos";
+VI. Colaborar activamente en la inclusión de contenidos sobre el tema de acceso a la información y protección de datos personales en las instituciones públicas y privadas de educación básica, media y superior en el Estado;
 
-XX. Editar y publicar el Boletín de Transparencia con la periodicidad y tiraje que sea necesarios, por acuerdo del Pleno;
+VII. Participar en la organización del Concurso Anual de Investigación Jurídica de la Comisión, en coordinación con la Dirección de Capacitación;
 
-XXI. Elaborar y editar la revista electrónica “Transparencia”, en coordinación con la Unidad de Informática y Sistemas, con el contenido autorizado por el Pleno; y
+VIII. Coordinar la publicación de estudios e investigaciones jurídicas de la Comisión, con la participación de universidades, organismos garantes de acceso a la información e Institutos de investigación jurídica a nivel local, nacional e internacional, así como vigilar el debido cumplimiento de los lineamientos establecidos para los proyectos de investigación;
 
-XXII. Las demás que le confieran la Ley, este Reglamento y demás disposiciones legales y administrativas que le sean aplicables; (sic)
+IX. Elaborar y entregar oportunamente los respectivos informes a la Secretaría Técnica, para su debida integración al informe anual de la Comisión; y
+
+X. Las demás que le sean encomendadas por el Secretario Técnico, el presente Reglamento, la Ley y las demás disposiciones legales y administrativas aplicables.
+
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2011)</small>
+
+Artículo 45 Bis I.- Son atribuciones de la Dirección de Innovación, Desarrollo y Financiación:
+
+I. Tramitar y gestionar ante Servicios de Administración Tributaria la autorización para que la Comisión pueda recibir donativos deducibles de instituciones nacionales e internacionales;
+
+II. Elaborar el Plan para la obtención de recursos financieros a través de organizaciones civiles, e instituciones locales, nacionales e internacionales, públicas o privadas que contribuyan en la implementación de proyectos que fortalezcan las funciones y objetivos de la Comisión;
+
+III. Revisar que los proyectos susceptibles a ser financiados, cumplan con los requisitos, logística y presupuesto establecidos por la Comisión, así como coordinar e impulsar el desarrollo de los mismos, llevándolos a establecer su funcionalidad, permanencia y resultados esperados;
+
+IV. Establecer contacto con organizaciones civiles, e instituciones locales, nacionales e internacionales, públicas o privadas, con el fin de promover y gestionar el financiamiento de los proyectos que hayan sido debidamente aprobados por la Comisión;
+
+V. Localizar, estudiar y analizar la viabilidad de la implementación de proyectos nacionales e internacionales que mantengan resultados exitosos en materia de acceso a la información, protección de datos personales y archivos;
+
+VI. Proponer la elaboración de convenios, contratos o bases de colaboración con organizaciones civiles e instituciones que participaran en apoyo a los proyectos aprobados por la Comisión;
+
+VII. Integrar debidamente la información correspondiente a la financiación de los proyectos con el fin de que se realice el correspondiente procedimiento de recepción de recursos, así como gestionar la entrega de la documentación oficial o fiscal por parte de la Comisión;
+
+VIII. Vigilar y coordinar que los recursos financieros obtenidos sean aplicados al proyecto para el cual fueron asignaron (sic), optimizando el uso de los mismos para lograr un mejor resultado integral en tiempo, forma y calidad del proyecto;
+
+IX. Elaborar y entregar oportunamente los respectivos informes a la Secretaría Técnica, detallando el inicio, avance y terminación de los proyectos financiados, para su debida integración al informe anual de la Comisión; y
+
+X. Las demás que le sean encomendadas por el Secretario Técnico, el presente Reglamento, la Ley y las demás disposiciones legales y administrativas aplicables.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 46.
 
-Son atribuciones de la Unidad de Informática y Sistemas:
+Son atribuciones del Jefe de la Unidad de Informática y Sistemas:
 
 I. Proponer la infraestructura de cómputo y de telecomunicaciones que requiera la Comisión, que garantice integridad, confiabilidad y disponibilidad de la información, así como implementar los sistemas y programas de informática necesarios para el cumplimiento de sus funciones, previendo su mantenimiento y actualización constante y efectiva, mediante los procedimientos que para ello se definan y se aprueben por el Pleno;
 
 II. Crear el sitio Web de la Comisión y responsabilizarse de realizar los trámites internos necesarios para administrar y actualizar la información pública de oficio, de conformidad con lo que para tal efecto determine el Pleno, y la Ley;
 
-III. Coordinarse con la Dirección de Relaciones Institucionales y Comunicación Social para establecer enlaces electrónicos con los sujetos obligados y otras instituciones públicas y privadas, previo programa que se elabore conjuntamente y se someta a la consideración del Pleno;
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2011)</small>
+
+III. Elaborar y proponer al Pleno, por conducto de su Presidente, los proyectos estratégicos en materia de informática que coadyuven al desarrollo de las actividades de la Comisión;
 
 IV. Implementar acciones preventivas y correctivas que permitan un efectivo mantenimiento y conservación de los bienes informáticos de la Comisión;
 
 V. Desarrollar y proponer políticas y procedimientos que permitan un uso seguro y eficiente de la tecnología de información con que cuente la Comisión;
 
-VI. Coordinadamente con la Dirección de Capacitación, Clasificación y Archivos, instruir adecuadamente al personal de la Comisión en el manejo de los equipos informáticos y en el conocimiento de los programas de cómputo, para un mejor desarrollo de las labores de la institución;
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2011)</small>
+
+VI. Instruir adecuadamente al personal de la Comisión en el manejo de los equipos informáticos y en el conocimiento de los programas de cómputo para un mejor desarrollo de las laboras (sic) del organismo; y
 
 VII. Las demás que le asignen la Ley, este Reglamento y otros acuerdos y disposiciones administrativas tomados por el Pleno.
 
-> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2009)</small>
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 46 Bis.
 
-Son atribuciones de la Unidad de Atención a la Sociedad:
+Son atribuciones del Jefe de la Unidad de Comunicación Social:
 
-I. Informar, atender y asesorar a la sociedad en materia de acceso a la información pública, cultura de la transparencia y rendición de cuentas;
+I. Elaborar, proponer y aplicar le (sic) política y los programas de comunicación social de la Comisión, de conformidad con las directrices y lineamientos que establezca el Pleno;
 
-II. Informar a la sociedad sobre los objetivos, las funciones y las actividades de las diferentes áreas que integran la Comisión;
+II. Coordinar y atender las relaciones públicas de la Comisión con los medios de comunicación nacionales y extranjeros;
 
-III. Proporcionar orientación y asesoría al público para la presentación de solicitudes de acceso a la información pública;
+III. Proponer y ejecutar instrumentos que permitan conocer la percepción de las actividades de la Comisión entre el público en general;
 
-lV. Dar orientación y asesoría a público para la presentación de solicitudes de acceso, rectificación, corrección y oposición de datos personales;
+IV. Mantener una estrecha relación con los medios de comunicación, para procurar espacios para la difusión de los objetivos, programas y actividades de la Comisión;
 
-V. Otorgara al público orientación y asesoría para interponer procedimientos de inconformidad; y
+V. Proponer estrategias para posicionar la imagen institucional;
 
-VI. Las demás que le asignen la Ley, este Reglamento y otros acuerdos y disposiciones administrativas tomados por el Pleno.
+VI. Captar, analizar y procesar la información que difunden los medios de comunicación acerca de la Comisión y su reflejo en la calidad de su imagen;
+
+VII. Coordinar las ruedas de prensa, conferencias, foros y entrevistas necesarias para la difusión de las actividades de la Comisión;
+
+VIII. Planear, dirigir y supervisar los mecanismos que permitan un permanente flujo de información institucional y atención a los representantes de los medios de comunicación escritos y electrónicos;
+
+IX. Difundir las actividades que realiza la Comisión y promover su divulgación entre los medios de comunicación;
+
+X. Realizar el monitoreo diario de los medios de comunicación;
+
+XI. Elaborar los boletines de prensa sobre asuntos de importancia o relevancia llevados a cabo por la Comisión o que participe en ellos;
+
+XII. Organizar e implementar procedimientos, para la comunicación oficial de las actividades de la Comisión, en los medios de comunicación locales, nacionales y extranjeros;
+
+XIII. Promover convenios de colaboración con los medios de comunicación impresos, radiofónicos y televisivos, para promover la cultura de la transparencia, el acceso a la información y la protección de datos personales;
+
+XIV. Elaborar pautas y spots para radio, televisión y prensa; y
+
+XV. Las demás que le confieran la Ley, este reglamento y demás disposiciones legales y administrativas que le sean aplicables.
+
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2011)</small>
+
+Artículo 46 Bis I.- Son atribuciones del Jefe de la Unidad de Difusión:
+
+I. Elaborar, proponer y ejecutar, las políticas y estrategias de Difusión de la Comisión, a fin de promover la cultura de la transparencia, el acceso a la información y la protección de datos personales;
+
+II. Difundir las atribuciones, organización, programas, objetivos y metas de la Comisión, con base en las políticas y en las estrategias de comunicación social aprobadas por el Pleno;
+
+III. Mantener informada a la sociedad sobre las actividades de la Comisión, vinculadas a los temas de transparencia, rendición de cuentas, acceso a la información pública y protección de datos personales;
+
+IV. Realizar actividades de vinculación con los sujetos obligados y otras instituciones públicas y privadas, para establecer enlaces electrónicos desde sus páginas web al sitio oficial de la Comisión;
+
+V. Promover en coordinación con la Dirección de Capacitación, la organización de foros, seminarios, talleres y otros eventos que difundan la transparencia, el acceso a la información pública y la protección de datos personales, y dar a conocer a la Comisión, a los sujetos obligados y a la sociedad en general la realización de otros eventos similares a nivel nacional e internacional, y participar en ellos, previa aprobación de la Comisión;
+
+VI. Supervisar el diseño, preparación, impresión y edición de los materiales promocionales, carteles, convocatorias, invitaciones, y todo aquel material que sea utilizado para difundir las actividades y programas de la Comisión;
+
+VII. Fortalecer la imagen de la Comisión a través de la difusión y divulgación institucional de sus actividades, en los diferentes sectores de la sociedad;
+
+VIII. Difundir y distribuir los materiales y publicaciones que genere la Comisión, a los sujetos obligados, instituciones académicas, organizaciones sociales y privadas, y sociedad en general;
+
+IX. Establecer los programas que fortalezcan la presencia de la Comisión, tanto en el ámbito nacional como en el internacional, fomentando las relaciones de apoyo con grupos del sector público y privado;
+
+X. Llevar el registro de la recepción y difusión de información proveniente de instituciones estatales y federales;
+
+XI. Desarrollo de escenografías para los eventos de la Comisión;
+
+XII. Diseñar la imagen editorial de las publicaciones que la Comisión realice;
+
+XIII. Elaborar y editar la revista electrónica “Transparencia”, recabando las colaboraciones y documentos para integrar el contenido editorial, así como al banco de imágenes que acompañarán a la publicación;
+
+XIV. Apoyar logísticamente a los (sic) diferentes Unidades Administrativas en la coordinación y elaboración de los distintos eventos y actividades desarrollados por la Comisión;
+
+XV. Promover la elaboración y difusión de material didáctico sobre los procedimientos y trámites materia de la Ley de Transparencia y Acceso a la Información del Estado, así como de temas afines; y
+
+XVI. Las demás que le confieran el Pleno, su superior jerárquico, la Ley, este reglamento y demás disposiciones legales y administrativas que le sean aplicables.
+
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2011)</small>
+
+Artículo 46 Bis II.- Son atribuciones de la Coordinación de Relaciones Interinstitucionales:
+
+I. Proponer, coordinar y aplicar la política de relaciones interinstitucionales en materia de acceso a la información, archivos y protección de datos personales, y fomentar la colaboración y corresponsabilidad con distintos actores sociales de todo el país, como organizaciones civiles, instituciones académicas, organismos empresariales, entre otros;
+
+II. Fomentar y establecer mecanismos de coordinación con entidades públicas o privadas, nacionales o extranjeras, para la realización de programas conjuntos en materia de transparencia, acceso a la información y protección de datos personales;
+
+III. Proponer la suscripción de convenios, acuerdos, bases de colaboración, mecanismos de coordinación, y demás actos consensuales a celebrarse con los sujetos obligados, las entidades federativas, los municipios, el Distrito Federal, el Instituto Federal de Acceso a la Información y Protección de Datos, o los respectivos órganos de acceso a la información, así como con organismos públicos o privados, instituciones de educación y centros de investigación, tanto nacionales como extranjeros, a fin de lograr el cumplimiento de la Ley;
+
+IV. Elaborar y entregar mensualmente los respectivos informes a la Secretaría Técnica, para integrar al (sic) informe anual de la Comisión; y
+
+V. Las demás que le sean encomendadas por el Secretario Técnico, el presente Reglamento, la Ley y las demás disposiciones legales y administrativas aplicables.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 28 DE FEBRERO DE 2011)</small>
 
 ### CAPÍTULO PRIMERO. DEL HORARIO Y DÍAS DE LABORES
 
 ###### Artículo 47.
 
-Son atribuciones de la Coordinación y Vigilancia de los Sujetos Obligados:
+Son atribuciones de la Subdirección de Vigilancia de los Sujetos Obligados:
 
 I. Elaborar los planes y programas de vigilancia de los sujetos obligados para el debido cumplimiento de la Ley y de los lineamientos que emita la Comisión, y ejecutarlos una vez aprobados por el Pleno;
 
@@ -842,6 +1046,140 @@ V. Recibir y analizar sobre los informes, reportes, formatos y cuestionarios que
 VI. Informar al Pleno periódicamente sobre las acciones realizadas en materia de coordinación y vigilancia con los sujetos obligados, así como de los resultados obtenidos, proponiendo las medidas correctivas, recomendaciones o procedimientos disciplinarios a que haya lugar; y
 
 VII. Las demás que le confieran la Ley, este Reglamento y las disposiciones legales y administrativas que le sean aplicables.
+
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2011)</small>
+
+###### Artículo 47 Bis.
+
+Son atribuciones de la Subdirección de Atención a la Sociedad:
+
+I. Informar, atender y asesorar a la sociedad en materia de acceso a la información pública, cultura de la transparencia y rendición de cuentas;
+
+II. Informar a la sociedad sobre los objetivos, las funciones y las actividades de las diferentes áreas que integran la Comisión;
+
+III. Proporcionar orientación y asesoría al público para la presentación de solicitudes de acceso a la información pública;
+
+IV. Dar orientación y asesoría al público para la presentación de solicitudes de acceso, rectificación, corrección y oposición de datos personales;
+
+V. Otorgar al público orientación y asesoría para interponer procedimientos de inconformidad; y
+
+VI. Las demás que le asignen su Director de área, la Ley, este Reglamento y otros acuerdos y disposiciones administrativas tomados por el Pleno.
+
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2011)</small>
+
+Artículo 47 Bis I.- Son atribuciones de la Subdirección de Acuerdos y Proyectos:
+
+I. Auxiliar al Director de Asuntos Jurídicos en la asignación y tramitación de los procedimientos de inconformidad y demás interpuestos ante la Comisión, así como de los asuntos en general que le competan conforme a sus atribuciones;
+
+II. Proporcionar a la Dirección de Asuntos Jurídicos el apoyo técnico necesario para la sustanciación de los procedimientos de inconformidad y otros, incluida la revisión de los proyectos de resolución correspondientes;
+
+III. Apoyar a la Dirección de Asuntos Jurídicos en la elaboración de estudios y opiniones sobre los procedimientos de inconformidad y otros;
+
+IV. Auxiliar y apoyar a la Dirección de Asuntos Jurídicos en la elaboración de proyectos de leyes, acuerdos, recomendaciones y otros instrumentos jurídicos derivados de la Ley, así como de interpretación para efectos administrativos de ésta y demás disposiciones aplicables;
+
+V. Auxiliar a la Dirección de Asuntos Jurídicos en la coordinación y elaboración de dictámenes y opiniones de leyes y otros instrumentos jurídicos relacionados en el ámbito de competencia de la Comisión, así como en el seguimiento legislativo o regulatorio respectivo;
+
+VI. Auxiliar a la Dirección de Asuntos Jurídicos en la coordinación y supervisión de la actualización de los instrumentos jurídicos y guías aplicables a los procedimientos de acceso, y la elaboración de informes institucionales y estadísticas, entre otros, en los asuntos de su competencia;
+
+VII. En caso de ausencia del Director de Asuntos Jurídicos, y previa autorización del Comisionado ponente, dar cuenta y trámite en conjunto con el mismo, sobre los procedimientos de inconformidad a que se refiere la Ley;
+
+VIII. Coordinar y sistematizar la información que se suministra para el portal de internet, la cual será entregada a la Unidad de Informática y Sistemas para la actualización correspondiente;
+
+IX. Representar a la Dirección de Asuntos Jurídicos en los procedimientos contenciosos, ante los tribunales federales y del fuero común y ante cualquier autoridad administrativa en los asuntos en que aquél tenga interés o injerencia jurídica, incluyendo todos los derechos procesales que las leyes reconocen a las partes y el de promover el juicio de amparo en contra de los actos que afecten la esfera jurídica de la Dirección, rindiendo los informes de ley, así como ofrecer pruebas, formular alegatos, interponer toda clase de recursos y, en general, vigilar y atender su tramitación;
+
+X. Ante la ausencia del Director, dar trámite hasta su conclusión a las solicitudes de acceso a la información y de datos que reciba la Comisión, en los términos de la Ley;
+
+XI. Supervisar el adecuado manejo del archivo de trámite de los expedientes de los procedimientos de inconformidad y de las solicitudes de información y de datos personales llevados en la Dirección de Asuntos Jurídicos;
+
+XII. Supervisar la elaboración de la lista de acuerdos de la Dirección de Asuntos Jurídicos; y
+
+XIII. Las demás que le confieran su Director de área, la Ley, este Reglamento y las demás disposiciones legales y administrativas que le sean aplicables.
+
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2011)</small>
+
+Artículo 47 Bis II.- Son atribuciones de la Subdirección de Protección de Datos Personales:
+
+I. Auxiliar, orientar y aconsejar a los sujetos obligados y a la sociedad en general, en materia de protección de datos personales, bajo los lineamientos, planes, programas y políticas aprobadas por la Comisión;
+
+II. Colaborar en la administración y resguardo del documento de seguridad a que alude el artículo 79 de la Ley de la materia, que los sujetos obligados están obligados a remitir a la Comisión;
+
+III. Asistir en la elaboración y actualización del directorio de los responsables del tratamiento de los sistemas de datos personales;
+
+IV. Elaborar y entregar oportunamente los respectivos informes a la Dirección de Datos Personales, para su debida integración al informe anual de la Comisión; y
+
+V. Las demás que le sean encomendadas por el Director de su área, el presente Reglamento, la Ley y las demás disposiciones legales y administrativas aplicables.
+
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2011)</small>
+
+Artículo 47 Bis III.- Son atribuciones de la Subdirección de Archivo:
+
+I. Atender, orientar y aconsejar a los sujetos obligados y a la sociedad en general, en materia de archivo, bajo los lineamientos, planes, programas y políticas aprobadas por la Comisión;
+
+II. Colaborar en el diseño, aplicación y actualización de los instrumentos de análisis en materia de archivo;
+
+III. Participar en la elaboración de los esquemas para incentivar mejores prácticas en materia de gestión documental y archivo. Así como el verificar que los sujetos obligados establezcan sistemas de archivo de trámite, de concentración e histórico;
+
+IV. Elaborar y entregar oportunamente los respectivos informes a la Dirección de Datos Personales, para su debida integración al informe anual de la Comisión; y
+
+V. En general, las demás que le sean encomendadas por el Director de su área, el presente Reglamento, la Ley y las demás disposiciones legales y administrativas aplicables.
+
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2011)</small>
+
+Artículo 47 Bis IV.- Son atribuciones de la Subdirección de Vigilancia Tecnológica:
+
+I. Detectar, localizar y actualizar fuentes de información relevante, debidamente analizada y estructurada, relacionada con proyectos de mejores prácticas a nivel local, nacional e internacional, sobre tendencias tecnológicas, innovación, desarrollo e investigación en materia de acceso a la información, protección de datos personales y archivo, que sirva de apoyo en la toma de decisiones esenciales de la Comisión;
+
+II. Gestionar la adquisición y actualización del material bibliográfico que se requiera para los estudios e investigaciones, como revistas, libros, leyes, reglamentos, y material en general obtenido por medios electrónicos;
+
+III. Solicitar, localizar y poner a disposición de la Dirección, el material necesario para la elaboración de criterios de interpretación, derivado de las resoluciones definitivas emitidas por el Pleno;
+
+IV. Elaborar y entregar oportunamente los respectivos informes a la Dirección de Estudios e Investigación para su debida integración al informe anual de la Comisión; y
+
+V. Las demás que le sean encomendadas por el Director de su área, el presente Reglamento, la Ley y las demás disposiciones legales y administrativas aplicables.
+
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2011)</small>
+
+Artículo 47 Bis V.- Son atribuciones de la Subdirección de Proyectos de Investigación:
+
+I. Realizar proyectos de estudios e investigaciones, sobre asuntos relacionados con la transparencia, la rendición de cuentas, el acceso a la información, la protección de datos personales, así como propuestas de reformas a la normatividad aplicable;
+
+II. Establecer contacto con universidades públicas o privadas, institutos o instituciones de investigación jurídica especializada y organismos garantes de la información y protección de datos personales a nivel local, nacional e internacional, para la celebración de convenios de colaboración en materia de estudios e investigación con la Comisión;
+
+III. Auxiliar en la organización de foros, seminarios, talleres y demás eventos académicos que difundan el acceso a la información pública y la protección de datos personales y archivo, a nivel local, nacional e internacional;
+
+IV. Colaborar en el estudio y análisis del proyecto de viabilidad y creación de un Instituto Internacional de Estudios en materia de información, datos personales y archivo, en coordinación con la Dirección de Innovación, Desarrollo y Financiación;
+
+V. Elaborar y entregar oportunamente los respectivos informes a la Dirección de Estudios e Investigación para su debida integración al informe anual de la Comisión; y
+
+VI. Las demás que le sean encomendadas por el Director de su área, el presente Reglamento, la Ley y las demás disposiciones legales y administrativas aplicables.
+
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2011)</small>
+
+Artículo 47 Bis VI.- Son atribuciones de la Subdirección de Innovación y Desarrollo:
+
+I. Elaborar las propuestas de proyectos asignados por la Dirección, en cumplimiento con los requisitos, logística y presupuestos establecidos por la Comisión, así como ejecutar el debido desarrollo de los mismos, estableciendo su funcionalidad, permanencia y resultados esperados;
+
+II. Desarrollar las propuestas de proyectos de viabilidad asignados por la Dirección, relativos a la adopción de proyectos nacionales e internacionales con resultados exitosos, en materia de acceso a la información, protección de datos personales y archivo;
+
+III. Promover la creación de proyectos nuevos relativos a estudios e investigaciones, protección de datos personales y archivo, que generen cambios estratégicos en relación con la difusión, innovación y desarrollo de las funciones y objetivos de la Comisión;
+
+IV. Elaborar y entregar mensualmente los respectivos informes a la Dirección de Innovación, Desarrollo y Financiación, para integrar al (sic) informe anual de la Comisión; y
+
+V. Las demás que le sean encomendadas por el Director de su área, el presente Reglamento, la Ley y las demás disposiciones legales y administrativas aplicables.
+
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2011)</small>
+
+Artículo 47 Bis VII.- Son atribuciones de la Subdirección de Financiación:
+
+I. Establecer contacto y seguimiento con las organizaciones civiles e instituciones internacionales, nacionales y locales, públicas o privadas, acorde con el plan elaborado para la obtención de recursos financieros de la Dirección, a fin de implementar proyectos que fortalezcan las funciones y objetivos de la Comisión;
+
+II. Auxiliar en la recopilación de la información necesaria y costos de cada una de las partidas que integran cada proyecto con el fin de elaborar el presupuesto respectivo, así como preparar la logística de aplicación de los proyectos financiados;
+
+III. Colaborar en el seguimiento del inicio, avance y terminación de los proyectos aprobados y financiados;
+
+IV. Elaborar y entregar mensualmente los respectivos informes a la Dirección de Innovación, Desarrollo y Financiación, detallando el inicio, avance y terminación de los proyectos financiados que están en proceso de implementación y desarrollo, para integrar al (sic) informe anual de la Comisión; y
+
+V. Las demás que le sean encomendadas por el Director de su área, el presente Reglamento, la Ley y las demás disposiciones legales y administrativas aplicables.
 
 ## TÍTULO SEGUNDO. DE LOS PROCEDIMIENTOS ANTE LA COMISIÓN
 
@@ -1058,6 +1396,12 @@ Luz Amparo Silva Morín
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 3O DE ENERO DE 2009.
+
+PRIMERO: El presente acuerdo entrará en vigor al momento de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO: Publíquese el presente acuerdo en el Periódico Oficial del Estado, de conformidad con el artículo 104, fracción V, inciso j, de la Ley de Transparencia y Acceso a la Información del Estado de Nuevo León.
+
+P.O. 28 DE FEBRERO DE 2011.
 
 PRIMERO: El presente acuerdo entrará en vigor al momento de su publicación en el Periódico Oficial del Estado.
 
