@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "2010-11-05"
+last_updated: "2011-02-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE NOVIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE FEBRERO DE 2011.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -393,11 +393,11 @@ Corresponde al Presidente del Congreso velar por el respeto al Fuero Constitucio
 
 Los Diputados Suplentes entrarán en funciones en caso de falta absoluta de los Propietarios respectivos, y también en caso de falta temporal, cuando sean llamados por el Congreso en los términos que disponga el Reglamento del mismo.
 
-> <small>(REFORMADO PRIMER PARRAFO [N. DE E. DECRETO NO. 65], P.O. 23 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO [N. DE E. DECRETO NO. 186], P.O. 28 DE FEBRERO DE 2011)</small>
 
 ###### Art. 55.
 
-La Legislatura tendrá cada año de ejercicio dos Períodos Ordinarios de Sesiones. El primero se iniciará el día 1° de septiembre y terminará el día 20 de diciembre; el segundo comenzará el día 30 de marzo y terminará el día 30 de junio; ambos períodos podrán ser prorrogados hasta por treinta días.
+La Legislatura tendrá cada año de ejercicio dos Períodos Ordinarios de Sesiones. El primero se iniciará el día 1° de septiembre y terminará el día 20 de diciembre; el segundo comenzará el día 1° de marzo y terminará el día 1° de junio; ambos períodos podrán ser prorrogados hasta por treinta días.
 
 > <small>(REFORMADO [N. DE E. DECRETO NO. 67], P.O. 23 DE FEBRERO DE 2004)</small>
 
@@ -2857,7 +2857,7 @@ P.O. 30 DE OCTUBRE DE 1985.
 
 UNICO:- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-P.O.13 DE ABRIL DE 1987.
+P.O. 13 DE ABRIL DE 1987.
 
 ###### ARTICULO UNICO
 
@@ -3356,3 +3356,7 @@ P.O. 27 DE SEPTIEMBRE DE 2010.
 P.O. 5 DE NOVIEMBRE DE 2010.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 28 DE FEBRERO DE 2011.
+
+Único.- El presente Decreto entrará en vigor al momento de su publicación.
