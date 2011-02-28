@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interior-del-instituto-de-educacion-de-57589"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-11-19"
-last_updated: "2010-11-01"
+last_updated: "2011-02-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57589&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "AGU"
 
 REGLAMENTO INTERIOR DEL INSTITUTO DE EDUCACION DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE NOVIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE FEBRERO DE 2011.
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 19 de noviembre de 2007.
 
@@ -240,7 +240,9 @@ VII. Proponer al Consejo Interior las modificaciones a la organización y funcio
 
 VIII. (ABROGADA [N. DE E. DEROGADA], P.O. 8 DE DICIEMBRE DE 2008)
 
-IX. Proponer al Consejo Interior el nombramiento y remoción de los servidores públicos que ocupen cargos de Dirección, Subdirección, Coordinadores y Jefaturas de Departamento y ordenar su registro en el Registro Público de la Propiedad en el libro correspondiente a las Entidades Paraestatales del Estado de Aguascalientes;
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2011)</small>
+
+IX. Proponer al Consejo Interior el nombramiento y remoción de los servidores públicos que ocupen cargos de Dirección o Subdirección, y ordenar su registro en el Registro Público de la Propiedad en el libro correspondiente a las Entidades Paraestatales del Estado de Aguascalientes.
 
 X. Acordar el nombramiento de los servidores públicos de los cargos no contemplados en la fracción anterior, y ordenar al Director de Finanzas y Administración su expedición así como resolver sobre la remoción de los mismos;
 
@@ -1203,3 +1205,7 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 P.O. 1 DE NOVIEMBRE DE 2010.
 
 ÚNICO.- Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 28 DE FEBRERO DE 2011.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
