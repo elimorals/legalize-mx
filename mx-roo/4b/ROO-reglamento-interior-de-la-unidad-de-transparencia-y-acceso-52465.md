@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-interior-de-la-unidad-de-transparencia-y-acceso-5246
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-10-30"
-last_updated: "2006-10-30"
+last_updated: "2011-02-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52465&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 REGLAMENTO INTERIOR DE LA UNIDAD DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL PODER EJECUTIVO DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE FEBRERO DE 2011.
 
 Reglamento publicado en el Periódico Oficial del Estado de Quintana Roo, el lunes 30 de octubre de 2006.
 
@@ -55,39 +55,53 @@ El presente Reglamento Interior tiene por objeto fijar la estructura orgánica b
 
 La Unidad, como órgano desconcentrado del Poder Ejecutivo, adscrita a la Secretaría de la Contraloría del Estado, tiene a su cargo el desempeño de las atribuciones que para el cumplimiento de su objeto se encuentran previstas en la Ley de Transparencia y Acceso a la Información Pública del Estado de Quintana Roo; el Reglamento de Transparencia y Acceso a la Información Pública para el Poder Ejecutivo del Estado de Quintana Roo y el Acuerdo por el que se crea la Unidad de Transparencia y Acceso a la Información Pública del Poder Ejecutivo.
 
-###### ARTÍCULO 3º.
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2011)</small>
+
+###### ARTÍCULO 3°.
 
 Para los efectos del presente ordenamiento, se entenderá por:
 
-ACUERDO. El Acuerdo por el que se crea la Unidad de Transparencia y Acceso a la Información Pública del Poder Ejecutivo;
+l. ACUERDO: Al Acuerdo por el que se crea la Unidad de Transparencia y Acceso a la Información Pública del Poder Ejecutivo;
 
-LEY. La Ley de Transparencia y Acceso a la Información Pública del Estado de Quintana Roo;
+II. DIRECTOR GENERAL: Al servidor público designado por el Gobernador del Estado de Quintana Roo, que estará al frente de la Unidad de Transparencia y Acceso a la Información Pública del Poder Ejecutivo, con facultades de decisión y mando;
 
-REGLAMENTO. El Reglamento de Transparencia y Acceso a la Información Pública para el Poder Ejecutivo del Estado de Quintana Roo;
+III. LEY: A la Ley de Transparencia y Acceso a la Información Pública del Estado de Quintana Roo;
 
-REGLAMENTO INTERIOR. El presente ordenamiento;
+IV. REGLAMENTO: Al Reglamento de Transparencia y Acceso a la Información Pública para el Poder Ejecutivo del Estado de Quintana Roo;
 
-SECRETARÍA. La Secretaría de la Contraloría del Estado;
+V. REGLAMENTO INTERIOR: Al Reglamento Interior de la Unidad de Transparencia y Acceso a la Información Pública del Poder Ejecutivo, con sus reformas y adiciones;
 
-UNIDAD. La Unidad de Transparencia y Acceso a la Información Pública del Poder Ejecutivo.
+VI. SECRETARÍA: A la Secretaría de la Contraloría; y
 
-###### ARTÍCULO 4º.
+VII. UNIDAD: A la Unidad de Transparencia y Acceso a la Información Pública del Poder Ejecutivo.
 
-La Unidad planeará y realizará sus actividades con sujeción a los objetivos y metas que establezca el Plan Estatal de Desarrollo vigente, el programa sectorial y operativo anual de la Secretaría.
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2011)</small>
+
+###### ARTÍCULO 4°.
+
+La Unidad planeará y realizará sus actividades con sujeción a los objetivos estratégicos y metas que establezca el Plan Estatal de Desarrollo vigente, los programas Sectoriales, Institucionales y Especiales, así como el Programa Operativo Anual de la Secretaría.
 
 ### CAPÍTULO II. DE LA ESTRUCTURA DE LA UNIDAD
 
-###### ARTÍCULO 5º.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE FEBRERO DE 2011)</small>
 
-Para el estudio, planeación y despacho de los asuntos de su competencia, la Unidad contará con un Director General, quien se auxiliará de las siguientes unidades administrativas:
+###### ARTÍCULO 5°.
 
-I. Coordinación de atención a solicitudes de información y normatividad; y
+Para el estudio, planeación y despacho de los asuntos de su competencia, la Unidad contará con un Director General, quien se auxiliará de las siguientes coordinaciones:
 
-II. Coordinación de acceso a la información pública y difusión.
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2011)</small>
+
+I. Coordinación de Atención a Solicitudes de Información; y
+
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2011)</small>
+
+II. Coordinación de Difusión y Administración
 
 La Unidad contará además con el personal de apoyo y órganos técnicos contemplados en el presupuesto de egresos autorizado y que resulten necesarios para el adecuado cumplimiento de su objeto.
 
-Las demás unidades administrativas subalternas y personal de apoyo que se establezca, deberán contenerse y especificarse en el manual de organización de la Unidad.
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2011)</small>
+
+Las demás unidades administrativas subalternas y personal de apoyo que se establezcan, deberán contenerse y especificarse en el Manual de Organización de la Unidad.
 
 ### CAPÍTULO III. DEL DIRECTOR GENERAL
 
@@ -105,7 +119,9 @@ El Director General tendrá, además de las facultades y obligaciones que le con
 
 I. Establecer los procedimientos, metas y políticas para el ejercicio de las atribuciones que conforme a las disposiciones normativas competen a la Unidad;
 
-II. Proponer al Gobernador del Estado, a través del Secretario de la Contraloría, los proyectos de iniciativas de leyes, reglamentos, decretos, acuerdos, lineamientos y demás disposiciones normativas relacionados con el ámbito de su competencia, así como de reformas a los mismos;
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2011)</small>
+
+II. Proponer al Gobernador del Estado de Quintana Roo, a través del Secretario de la Contraloría, los proyectos de iniciativas de leyes, reglamentos, decretos, acuerdos, lineamientos y demás disposiciones normativas relacionados con el ámbito de su competencia, así como las reformas a los mismos;
 
 III. Acordar con el Secretario de la Contraloría, el despacho de los asuntos de su competencia que así lo ameriten e informarle periódicamente sobre las actividades desarrolladas en la Unidad;
 
@@ -115,7 +131,9 @@ V. Presentar a la Secretaría, el proyecto del Presupuesto de Egresos de la Unid
 
 VI. Proponer al Secretario de la Contraloría, las personas que pueden ocupar los cargos subalternos de la Unidad, así como las promociones del personal de su adscripción para ocupar algún cargo de mayor nivel;
 
-VII. Suscribir los documentos, acuerdos, convenios y contratos que les sean señalados por delegación o le correspondan por suplencia;
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2011)</small>
+
+VII. Suscribir los documentos, acuerdos, convenios y contratos que sean de su competencia, así como todos aquellos que les sean señalados por delegación o le correspondan por suplencia;
 
 VIII. Expedir copias certificadas de los documentos existentes en los archivos de la Unidad;
 
@@ -127,23 +145,31 @@ XI. Promover la coordinación de acciones con el Archivo General del Estado, a e
 
 XII. Aprobar los manuales de organización, procedimientos y servicios al público, necesarios para el funcionamiento de la Unidad;
 
-XIII. Convocar y presidir las sesiones del Comité Consultivo de Acceso a la Información Pública del Poder Ejecutivo, en ausencia del Secretario de la Contraloría;
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2011)</small>
+
+XIII. Convocar y presidir las reuniones de trabajo que se estimen necesarias para atender el buen despacho de los asuntos en materia de homologación de criterios de transparencia y en el acceso a la información;
 
 XIV. Opinar, previamente a su expedición, sobre los proyectos de leyes, reglamentos, acuerdos, lineamientos y demás disposiciones normativas que correspondan al ámbito de competencia de la Unidad;
 
-XV. Promover la coordinación de acciones con las Unidades de Vinculación de los Ayuntamientos, los otros poderes y los órganos autónomos que permitan un mejor desempeño de las tareas de transparencia y acceso a la información pública del Poder Ejecutivo;
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2011)</small>
+
+XV. Promover la coordinación de acciones con las Unidades de Vinculación de los Ayuntamientos, del Poder Legislativo y Judicial y de los órganos autónomos, constituidos en el Estado, que permitan un mejor desempeño de las tareas de transparencia y acceso a la información del Poder Ejecutivo;
 
 XVI. Informar semestralmente al titular del Poder Ejecutivo o en cualquier momento a requerimiento de éste, sobre las solicitudes de acceso a la información recibidas;
 
 XVII. Resolver las dudas que se susciten con motivo de la interpretación y aplicación de este Reglamento Interior, así como los casos no previstos en el mismo; y
 
-XVIII. Realizar las demás facultades que se requieran para el cumplimiento del objeto social de la Unidad, así como las que con el carácter de indelegables le confieran otras disposiciones normativas y las que expresamente le instruyan el Gobernador del Estado y el Secretario de la Contraloría.
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2011)</small>
+
+XVIII. Ejercer las demás facultades que se requieran para el cumplimiento de los objetivos de la Unidad, así como las que con el carácter de indelegables le confieran otras disposiciones normativas y las que expresamente le instruyan el Gobernador del Estado de Quintana Roo o el Secretario de la Contraloría.
 
 ### CAPÍTULO IV. DE LAS FACULTADES GENÉRICAS DE LOS COORDINADORES
 
-###### ARTÍCULO 9º.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE FEBRERO DE 2011)</small>
 
-Al frente de cada coordinación habrá un coordinador, quien tendrá a su cargo la conducción técnica y administrativa de la misma y será responsable, ante el Director General de la Unidad, de su correcto funcionamiento. Para tal efecto, será auxiliado por el número de jefes de departamento, así como del personal técnico y administrativo contemplado en el presupuesto de egresos autorizado y que resulten necesarios para el adecuado cumplimiento de sus facultades.
+###### ARTÍCULO 9°.
+
+Al frente de cada Coordinación habrá un Coordinador, quien tendrá a su cargo la conducción técnica y administrativa de la misma y será responsable, ante el Director General, de su correcto funcionamiento. Para tal efecto, será auxiliado por el número de jefes de departamento, así como del personal técnico y administrativo contemplado en el presupuesto de egresos autorizado y que resulten necesarios para el adecuado cumplimiento de sus facultades.
 
 El manual de organización y de procedimientos de la Unidad, contendrán las funciones que competan a cada una de las personas que la integran.
 
@@ -159,7 +185,9 @@ III. Formular los programas y anteproyectos presupuestarios, así como gestionar
 
 IV. Proponer al Director General, los anteproyectos de leyes, reglamentos, decretos, acuerdos, manuales administrativos, lineamientos y demás disposiciones normativas, así como reformas a la normatividad de la materia y la celebración de acuerdos o convenios, en el ámbito de sus respectivas competencias;
 
-V. Asesorar técnicamente, en asuntos de sus competencias, al Director General de la Unidad, así como a los Enlaces de las Dependencias y Entidades de la Administración Pública Estatal, cuando así lo requieran estos últimos;
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2011)</small>
+
+V. Asesorar técnicamente, en asuntos de sus competencias, al Director General, así como a los Enlaces de Transparencia de las Dependencias y Entidades de la Administración Pública Estatal, cuando así lo requieran;
 
 VI. Coordinarse con las unidades administrativas internas y externas para el mejor funcionamiento de la Unidad;
 
@@ -169,6 +197,8 @@ VIII. Intervenir en los procesos que tengan como objeto promover al personal de 
 
 IX. Integrar al personal de sus adscripciones y organizar las actividades de sus coordinaciones, distribuyendo las cargas de trabajo adecuadamente, para lograr mayor eficiencia en el desempeño de las facultades encomendadas;
 
+(REPUBLICADA, P.O. 28 DE FEBRERO DE 2011)
+
 X. Participar en el Comité de Adquisiciones que establezca la Secretaría, con base en la Ley de Adquisiciones, Arrendamientos y Prestación de Servicios relacionados con Bienes Muebles del Estado de Quintana Roo, cuando se pretenda adquirir, arrendar o contratar algún bien o servicio relacionado con las áreas de sus respectivas competencias;
 
 XI. Atender, oportuna y eficazmente, las sugerencias respecto al funcionamiento y servicios de sus áreas, dictando las medidas necesarias para su corrección;
@@ -177,9 +207,13 @@ XII. Atender audiencias del público en general, respecto a asuntos de las área
 
 XIII. Recibir y canalizar a la unidad administrativa que corresponda, las quejas, denuncias y sugerencias de que conozcan con motivo de sus funciones;
 
-XIV. Rendir un informe mensual al Director General de la Unidad, de acuerdo a las actividades desarrolladas y al grado de avance de los programas de trabajo de sus áreas de adscripción;
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2011)</small>
 
-XV. Proporcionar, previo acuerdo con el Director General de la Unidad, la información que les sea requerida por las unidades administrativas de las Dependencias y Entidades de la Administración Pública Estatal, en el ámbito de sus respectivas competencias;
+XIV. Rendir un informe mensual al Director General, de acuerdo a las actividades desarrolladas y al grado de avance de los programas de trabajo de sus áreas de adscripción;
+
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2011)</small>
+
+XV. Proporcionar, previo acuerdo con el Director General, la información que les sea requerida por las unidades administrativas de las Dependencias y Entidades de la Administración Pública Estatal, en el ámbito de sus respectivas competencias;
 
 XVI. Dar seguimiento a los diferentes acuerdos y convenios que celebre la Unidad, en el ámbito de sus competencias;
 
@@ -189,21 +223,29 @@ XVIII. Requerir a las Dependencias y Entidades de la Administración Pública Es
 
 XIX. Colaborar en los procesos sustantivos de la Unidad, cuando las cargas de trabajo así lo requieran; y
 
-XX. Las demás facultades que les confieran otras disposiciones normativas respecto a sus ámbitos de competencia, así como las que expresamente les instruya el Director General de la Unidad.
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2011)</small>
+
+XX. Las demás facultades que les confieran otras disposiciones normativas respecto a sus ámbitos de competencia, así como las que expresamente les determine el Director General.
 
 ### CAPÍTULO V. DE LAS FACULTADES ESPECÍFICAS DE LOS COORDINADORES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE FEBRERO DE 2011)</small>
+
 ###### ARTÍCULO 11.
 
-El coordinador de atención a solicitudes de información y normatividad, tendrá las siguientes facultades:
+El Coordinador de Atención a Solicitudes de Información, tendrá las siguientes facultades:
 
-I. Atender las consultas y las solicitudes de acceso a la información pública y de acceso y corrección de datos personales que realicen los ciudadanos a través de los diferentes sistemas de solicitud con que cuenta la Unidad;
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2011)</small>
+
+I. Atender las consultas y las solicitudes de acceso a la información y la corrección de datos personales que realicen las personas a través de los diferentes sistemas de solicitud con que cuenta la Unidad;
 
 II. Realizar los trámites internos necesarios para localizar la información solicitada, requiriendo a las Dependencias y Entidades de la Administración Pública Estatal la entrega puntual de la misma;
 
 III. Verificar la competencia de la Dependencia o Entidad de la Administración Pública del Estado a la que se pretende remitir la solicitud de información para darle trámite, de acuerdo a la información que maneja;
 
-IV. Requerir a los Enlaces de las Dependencias o Entidades de la Administración Pública Estatal, la entrega de la información solicitada dentro de los términos establecidos para tal efecto;
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2011)</small>
+
+IV. Requerir a los Enlaces de Transparencia de las Dependencias o Entidades de la Administración Pública Estatal, la entrega de la información solicitada dentro de los términos establecidos para tal efecto;
 
 V. Admitir o rechazar las solicitudes de información ingresadas por cualesquiera de los sistemas de solicitud con que cuenta la Unidad y comunicar al ciudadano de la misma;
 
@@ -211,7 +253,9 @@ VI. Elaborar los proyectos de respuesta a solicitudes, mediante las cuales se pr
 
 VII. Requerir a los particulares las aclaraciones correspondientes a sus solicitudes de información;
 
-VIII. Auxiliar a los particulares en la elaboración de solicitudes de información y, en su caso, orientarlos sobre las dependencias o entidades u otro órgano que pudiera tener la información que solicitan;
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2011)</small>
+
+VIII. Auxiliar a los particulares en la elaboración de solicitudes de información y, en su caso, orientarlos sobre las Dependencias o Entidades de la Administración Pública Estatal u otro sujeto obligado que pudiera tener la información que solicitan;
 
 IX. Efectuar los requerimientos, notificaciones o remitir los informes de las actuaciones que se emitan en materia de atención a solicitudes de información pública y de acceso y corrección de datos personales del Poder Ejecutivo del Gobierno del Estado;
 
@@ -221,9 +265,13 @@ XI. Llevar un registro de las solicitudes de información pública y de acceso y
 
 XII. Elaborar los formatos de solicitudes de información pública, así como los de acceso y corrección de datos personales;
 
-XIII. Elaborar el manual de procedimientos para asegurar la adecuada atención a las solicitudes de información pública y de acceso y corrección de datos personales;
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2011)</small>
 
-XIV. Elaborar el proyecto del informe que la Unidad debe rendir semestralmente al titular del Poder Ejecutivo o en cualquier momento a requerimiento de éste, así como del informe que la Unidad debe rendir al Instituto de Transparencia y Acceso a la Información Pública de Quintana Roo, sobre las solicitudes de información y de acceso y corrección de datos personales recibidas;
+XIII. Contribuir en el proceso de elaboración del Manual de Procedimientos para asegurar la adecuada atención a las solicitudes de información pública y de acceso y corrección de datos personales;
+
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2011)</small>
+
+XIV. Elaborar el proyecto del informe que la Unidad debe rendir semestralmente al Titular del Poder Ejecutivo o en cualquier momento a requerimiento del Director General, así como del informe anual que la Unidad debe rendir al Instituto de Transparencia y Acceso a la Información Pública de Quintana Roo, en el ámbito de su competencia;
 
 XV. Vigilar la aplicación de los criterios necesarios para la correcta clasificación y conservación de la información de las Dependencias y Entidades de la Administración Pública Estatal;
 
@@ -233,23 +281,27 @@ XVII. Elaborar los lineamientos y criterios que establezcan los procesos de clas
 
 XVIII. Elaborar los acuerdos de clasificación o desclasificación de información reservada y gestionar su publicación, en términos de la Ley de la materia;
 
-XIX. Elaborar semestralmente el índice de información clasificada como reservada;
+XIX. (DEROGADA, P.O. 28 DE FEBRERO DE 2011)
 
 XX. Elaborar los proyectos de solicitud de ampliación del segundo periodo de reserva hasta por diez años;
 
 XXI. Recopilar los listados de los sistemas de datos personales que generan las Dependencias y Entidades de la Administración Pública Estatal;
 
-XXII. Integrar los listados de los sistemas de datos personales que se deben remitir al Instituto;
+XXII. (DEROGADA, P.O. 28 DE FEBRERO DE 2011)
 
 XXIII. Elaborar los proyectos de contestación a los recursos de revisión que los particulares interpongan ante el Instituto de Transparencia y Acceso a la Información Pública de Quintana Roo en contra del Poder Ejecutivo del Gobierno del Estado; y
 
 XXIV. Las demás facultades que le confieran otras disposiciones normativas respecto a su ámbito de competencia, así como las que expresamente le instruya el Director General.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE FEBRERO DE 2011)</small>
+
 ###### ARTÍCULO 12.
 
-El coordinador de acceso a la información pública y difusión, tendrá las siguientes facultades:
+El Coordinador de Difusión y Administración, tendrá las siguientes facultades:
 
-I. Elaborar los lineamientos de carácter general para la recopilación, análisis, diagnóstico y sistematización de la información pública del Poder Ejecutivo, que se publique en la página de Internet de transparencia del Poder Ejecutivo del Gobierno del Estado;
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2011)</small>
+
+l. Elaborar los criterios y lineamientos de carácter general para la recopilación, análisis, valoración y sistematización de la información pública del Poder Ejecutivo, para que se publique en la página de transparencia en Internet del Poder Ejecutivo del Estado;
 
 II. Vigilar la aplicación de los criterios necesarios para la correcta organización de los archivos de las Dependencias y Entidades de la Administración Pública Estatal;
 
@@ -257,7 +309,9 @@ III. Verificar, analizar, validar en su caso y emitir las opiniones y recomendac
 
 IV. Integrar y mantener actualizado el catálogo de información pública con que cuentan las Dependencias y Entidades de la Administración Pública Estatal, en términos de lo establecido por el artículo 15 de la Ley;
 
-V. Recabar, difundir a través del sistema electrónico y mantener actualizada, la información pública de la Unidad, a que se refiere el artículo 15 de la Ley;
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2011)</small>
+
+V. Recabar, difundir y mantener actualizada, a través del sistema electrónico, la información pública de la Unidad, a que se refiere el artículo 15 de la Ley;
 
 VI. Establecer los mecanismos e instrumentos de difusión, que permitan divulgar las acciones que en materia de transparencia y acceso a la información pública y de acceso y corrección de datos personales lleve a cabo la Unidad, en cumplimiento de su objeto;
 
@@ -273,11 +327,39 @@ XI. Recabar y poner a disposición del público en general en áreas accesibles 
 
 XII. Ejecutar y dar seguimiento a las acciones de difusión que realice la Unidad, de manera coordinada con el Instituto de Transparencia y Acceso a la Información Pública de Quintana Roo, otras unidades de vinculación del Estado y demás organismos relacionados con la materia, que se deriven de programas coordinados con los mismos;
 
-XIII. Elaborar los proyectos de convenios, bases de colaboración y demás actos consensuales a celebrarse con terceros en materia de difusión, en coordinación con el Director General y darles seguimiento;
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2011)</small>
+
+XIII. Elaborar los proyectos de convenios, bases de colaboración y demás actos consensuales a celebrarse con terceros en materia de difusión, y de aquellos otros que le sean encomendados, en coordinación con el Director General y darles seguimiento;
 
 XIV. Difundir entre los servidores públicos del Poder Ejecutivo del Gobierno del Estado, los beneficios del manejo público de la información, como también sus responsabilidades en el uso y conservación de aquélla; y
 
-XV. Las demás facultades que le confieran otras disposiciones normativas respecto a su ámbito de competencia, así como las que expresamente le instruya el Director General.
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2011)</small>
+
+XV. Realizar las gestiones necesarias para agotar los trámites necesarios en la obtención de los recursos humanos y materiales necesarios para la buena marcha de la Unidad;
+
+> <small>(ADICIONADA, P.O. 28 DE FEBRERO DE 2011)</small>
+
+XVI. Coordinar las reuniones de trabajo de la Unidad, que el Director General estime pertinente llevar a cabo, para atender el buen despacho de los asuntos en materia de Transparencia y de Acceso a la Información Pública del Poder Ejecutivo, así como, de las que se acuerden con otras instancias gubernamentales;
+
+> <small>(ADICIONADA, P.O. 28 DE FEBRERO DE 2011)</small>
+
+XVII. Elaborar el proyecto del informe que la Unidad debe rendir semestralmente al Titular del Poder Ejecutivo en cualquier momento a requerimiento de éste; el informe anual que la Unidad debe rendir al Instituto de Transparencia y Acceso a la Información Pública de Quintana Roo así como cualquier tipo de informe que le sea requerido, en el ámbito de su competencia;
+
+> <small>(ADICIONADA, P.O. 28 DE FEBRERO DE 2011)</small>
+
+XVIII. Supervisar el control y trámite ante la instancia correspondiente de la actualización del inventario y resguardos de los bienes de activo, asignado al personal de la Unidad;
+
+> <small>(ADICIONADA, P.O. 28 DE FEBRERO DE 2011)</small>
+
+XIX. Proporcionar al Director General información de relevancia para la toma de decisiones administrativas, a través del registro, control, análisis del comportamiento presupuestal y financiero de la Unidad, así como sobre el uso de los recursos materiales, suministros, servicios generales, y de las necesidades prioritarias para la realización de los objetivos del Programa Operativo Anual;
+
+> <small>(ADICIONADA, P.O. 28 DE FEBRERO DE 2011)</small>
+
+XX. Coordinar, evaluar e integrar el Anteproyecto de Presupuesto de Egresos y Programa Operativo Anual de la Unidad y someterlo a la autorización del Director General para su trámite correspondiente ante la Secretaría de Hacienda; y
+
+> <small>(ADICIONADA, P.O. 28 DE FEBRERO DE 2011)</small>
+
+XXI. Las demás que expresamente le instruya el Director General.
 
 ### CAPÍTULO VI. DE LAS SUPLENCIAS DE LOS SERVIDORES PÚBLICOS
 
@@ -285,7 +367,9 @@ XV. Las demás facultades que le confieran otras disposiciones normativas respec
 
 El Director General será suplido en sus ausencias temporales por el Coordinador de la Unidad que le corresponda atender el asunto inherente a sus facultades.
 
-###### ARTÍCULO 14.
+(REPUBLICADO, P.O. 28 DE FEBRERO DE 2011)
+
+###### Artículo 14.
 
 Las ausencias temporales de los Coordinadores de la Unidad, serán suplidas en el despacho de los asuntos de su competencia por el servidor público que así designe el Director General.
 
@@ -310,3 +394,9 @@ C. ROSARIO ORTIZ YELADAQUI
 EL SECRETARIO DE LA CONTRALORIA
 
 C. P. ANTONIO BERNARDO BADUY MOSCOSO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 28 DE FEBRERO DE 2011.
+
+PRIMERO. El presente Reglamento Interior entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
