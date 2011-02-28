@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-reinsercion-social-para-el-estado-libre-y-soberano-79851
 country: "mx"
 rank: "ley"
 publication_date: "2011-02-04"
-last_updated: "2011-02-04"
+last_updated: "2011-02-28"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=79851&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "PUE"
 ---
 # LEY DE REINSERCION SOCIAL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA NOTA ACLARATORIA PUBLICADA EN LA CUARTA SECCIÓN DEL P.O. DEL 28 DE FEBRERO DE 2011 DEL ESTADO DE QUINTANA ROO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE REINSERCION SOCIAL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL EL 28 DE FEBRERO DE 2011.</small>
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Puebla, el viernes 4 de febrero de 2011.
 
@@ -45,7 +45,7 @@ Por lo anteriormente expuesto y con fundamento en los artículos 57 fracción I,
 
 LEY DE REINSERCIÓN SOCIAL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-## TÍTULO PRIMERO. REGLAS GENERALESV
+## TÍTULO PRIMERO. REGLAS GENERALES
 
 ### CAPÍTULO PRIMERO. DEL OBJETO
 
@@ -509,8 +509,6 @@ Cuando en la sentencia ejecutoria que se reciba, se imponga la suspensión, priv
 
 La autoridad o institución que haya recibido comunicación relacionada con la suspensión, privación e inhabilitación de derechos, funciones o empleos y deba hacerla efectiva, remitirá a la instancia administrativa competente la documentación en la que conste su cumplimentación.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA NOTA ACLARATORIA PUBLICADA EN LA CUARTA SECCIÓN DEL P.O. DEL 28 DE FEBRERO DE 2011 DEL ESTADO DE QUINTANA ROO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ## TRANSITORIOS
 
 PRIMERO.- El presente Decreto entrará en vigor el dieciocho de junio de dos mil once.
@@ -518,6 +516,10 @@ PRIMERO.- El presente Decreto entrará en vigor el dieciocho de junio de dos mil
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Ordenamiento.
 
 TERCERO.- Las disposiciones reglamentarias de la presente Ley deberán entrar en vigor simultáneamente que la presente Ley.
+
+> <small>(F. DE E., P.O. 28 DE FEBRERO DE 2011)</small>
+
+CUARTO.- Se abroga la Ley de Ejecución de Sanciones Privativas de la Libertad para el Estado de Puebla.
 
 EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza, a los once días del mes de enero de dos mil once.- Diputado Presidente.- JUAN ANTONIO GONZÁLEZ HERNÁNDEZ.- Rúbrica.- Diputado Vicepresidente.- GABRIEL GUSTAVO ESPINOSA VÁZQUEZ.- Rúbrica.- Diputada Secretaria.- GUDELlA TAPIA VARGAS.- Rúbrica.- Diputada Secretaria.- MARÍA SOLEDAD DOMÍNGUEZ RÍOS.- Rúbrica.
 
