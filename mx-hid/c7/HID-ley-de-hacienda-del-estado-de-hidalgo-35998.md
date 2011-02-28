@@ -4,7 +4,7 @@ identifier: "HID-ley-de-hacienda-del-estado-de-hidalgo-35998"
 country: "mx"
 rank: "ley"
 publication_date: "2003-12-31"
-last_updated: "2010-12-31"
+last_updated: "2011-02-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35998&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "HID"
 ---
 # LEY DE HACIENDA DEL ESTADO DE HIDALGO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LAS FE DE ERRATAS PUBLICADAS EL 28 DE FEBRERO Y 18 DE ABRIL, AMBAS DE 2011 EN EL P.O. DEL ESTADO DE HIDALGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE HACIENDA DEL ESTADO DE HIDALGO
 
 ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2010.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL EL 28 DE FEBRERO DE 2011.</small>
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el miércoles 31 de diciembre de 2003.
 
@@ -1429,19 +1429,29 @@ VI.- Por la modificación de la autorización, registro o revalidación. 8 salar
 
 VII.- Por la reposición de cédula de identificación del personal que preste sus servicios a los particulares que otorguen servicios de seguridad privada. 1.5 salarios minamos
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTICULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 28 DE FEBRERO DE 2011 EN EL P.O. DEL ESTADO DE HIDALGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+(F. DE E, P.O. DE 28 DE FEBRERO DE 2011)
 
 ARTÍCULO 77 BIS.- Los derechos por la prestación de los servicios del Estado, a través de la Dirección General del Aeropuerto Estatal y de la Flota Aérea del Poder Ejecutivo, se causarán y pagarán de la siguiente forma:
 
-I.- Por aterrizaje Nacional, por tonelada o fracción; $ 50.00
+I.- Por aterrizaje Nacional, por tonelada o fracción; $ 19.23
 
-II.- Por aterrizaje Internacional, por tonelada o fracción; $ 70.00
+II.- Por aterrizaje Internacional, por tonelada o fracción; y $ 38.00
 
 III.- Por estacionamiento en plataforma de permanencia
 
-prolongada o pernocta, Nacional e Internacional, por hora o fracción: $ 10.00
+prolongada o pernocta, por hora o fracción por tonelada. $ 1.00
 
-Quedan exentas de pago las aeronaves cuya matrícula sea XC.
+Para su aplicación, el peso de la aeronave expresado en toneladas, se redondeará hasta 2 decimales (centésimos) por defecto o por exceso, en función del milésimo según sea menor o mayor que .005.
+
+Por los servicios aeroportuarios proporcionados a helicópteros se cobrará el 50% de las tarifas, solamente en el horario diurno.
+
+Quedan exentos de pago, los siguientes usuarios:
+
+a).- La Fuerza Aérea Mexicana, la Armada de México, la Presidencia de la República, el Centro de Investigación de Seguridad Nacional (CISEN), la Policía Federal Preventiva y la Procuraduría General de República.
+
+b).- Los propietarios o poseedores de aeronaves que realicen servicio de auxilio para apoyo en zonas de desastre, búsqueda, salvamento y combate de epidemias o plagas, así como aquellas dedicadas a la extinción de incendios forestales, durante el tiempo que presten el servicio de auxilio.
+
+c).- Aeronaves que transporten a Gobernadores y Secretarios de Estado.
 
 ###### ARTICULO 78.
 
@@ -2157,8 +2167,6 @@ Los contratistas y destajistas que realicen obras para el Gobierno del Estado, a
 
 ### CAPITULO SEGUNDO BIS. DE LAS DEPENDENCIAS DE LA SECRETARIA DE ADMINISTRACION
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTICULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 18 DE ABRIL DE 2011 EN EL P.O. DEL ESTADO DE HIDALGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2010)</small>
 
 ARTICULO 81 BIS.- Los derechos por la prestación de servicios del Estado, a través de la Secretaría de Administración, se causarán y pagarán de la siguiente forma:
@@ -2230,8 +2238,6 @@ b).- Ponente local. 30 salarios mínimos
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2010)</small>
 
 ### CAPITULO SEPTIMO. DE LA UNIDAD DE INFORMACION PUBLICA GUBERNAMENTAL DEL PODER EJECUTIVO
-
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTICULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 18 DE ABRIL DE 2011 EN EL P.O. DEL ESTADO DE HIDALGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2010)</small>
 
