@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-ejecucion-de-sanciones-privativas-de-la-libertad-7529"
 country: "mx"
 rank: "ley"
 publication_date: "1975-12-30"
-last_updated: "2011-02-04"
+last_updated: "2011-02-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7529&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "PUE"
 ---
 # LEY DE EJECUCION DE SANCIONES PRIVATIVAS DE LA LIBERTAD
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA NOTA ACLARATORIA PUBLICADA EL 28 DE FEBRERO DE 2011 EN EL P.O. DEL ESTADO DE PUEBLA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE EJECUCION DE SANCIONES PRIVATIVAS DE LA LIBERTAD PARA EL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE FEBRERO DE 2011.
+> <small>N. DE E. DE CONFORMIDAD CON EL CUARTO TRANSITORIO DE LA LEY DE REINSERCIÓN SOCIAL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA, PUBLICADA EN EL P.O. DE FECHA 4 DE FEBRERO DE 2011 Y SU RESPECTIVA NOTA ACLARATORIA DE 28 DE FEBRERO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE FECHA 4 DE FEBRERO DE 2011 Y SU RESPECTIVA NOTA ACLARATORIA DE 28 DE FEBRERO DE 2011</small>
 
 Ley publicada en el Periódico Oficial del Estado de Puebla, el martes 30 de diciembre de 1975.
 
@@ -469,8 +471,6 @@ PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente de s
 
 SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan al presente ordenamiento.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA NOTA ACLARATORIA PUBLICADA EL 28 DE FEBRERO DE 2011 EN EL P.O. DEL ESTADO DE PUEBLA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 P.O. 4 DE FEBRERO DE 2011.
 
 PRIMERO.- El presente Decreto entrará en vigor el dieciocho de junio de dos mil once.
@@ -478,3 +478,7 @@ PRIMERO.- El presente Decreto entrará en vigor el dieciocho de junio de dos mil
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Ordenamiento.
 
 TERCERO.- Las disposiciones reglamentarias de la presente Ley deberán entrar en vigor simultáneamente que la presente Ley.
+
+> <small>(F. DE E., P.O. 28 DE FEBRERO DE 2011)</small>
+
+CUARTO.- Se abroga la Ley de Ejecución de Sanciones Privativas de la Libertad para el Estado de Puebla.
