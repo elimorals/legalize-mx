@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-auditoria-superior-de-la-69788"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-08-26"
-last_updated: "2010-04-15"
+last_updated: "2011-02-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69788&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2009-08-21"
 
 REGLAMENTO INTERIOR DE LA AUDITORIA SUPERIOR DE LA FEDERACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE ABRIL DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA AUDITORIA SUPERIOR DE LA FEDERACION, PUBLICADO EN EL D.O.F. DE 28 DE FEBRERO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 26 de agosto de 2009.
 
@@ -2020,3 +2022,23 @@ México, D.F., a 21 de agosto de 2009.- El Auditor Superior de la Federación, A
 D.O.F. 15 DE ABRIL DE 2010.
 
 UNICO.- El presente Acuerdo entrará en vigor a partir del día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 28 DE FEBRERO DE 2011.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Auditoría Superior de la Federación, publicado en el Diario Oficial de la Federación el 26 de agosto de 2009 y el acuerdo por el que se reforma y adiciona el Reglamento Interior de la Auditoría Superior de la Federación publicado en el Diario Oficial de la Federación el 15 de abril de 2010.
+
+TERCERO.- Los procedimientos para el fincamiento de las responsabilidades resarcitorias iniciados por los Auditores Especiales y que se encuentren en trámite o en proceso, a la entrada en vigor del presente Reglamento, continuarán siendo instruidos por los Auditores Especiales que los iniciaron, con el auxilio de la Dirección General de Responsabilidades y de la Dirección General de Responsabilidades a los Recursos Federales en Estados y Municipios, según corresponda.
+
+CUARTO.- Las revisiones o auditorías y su seguimiento que, a la entrada en vigor del presente Reglamento, haya iniciado la Dirección General de Auditoría a los Recursos Federal (sic) en Estados y Municipios, así como los demás asuntos que se encuentren en trámite en ésta, los continuará la Auditoría Especial del Gasto Federalizado por conducto de las direcciones generales de Control y Seguimiento de las Acciones Promovidas; de Investigación y Evaluación; de Auditoría a las Aportaciones Federales en Entidades Federativas; de Auditoría a los Recursos Descentralizados, Reasignados, Subsidios y Otros; y de Auditoría a los Recursos Federales en Municipios y Organos Político-Administrativos de las Demarcaciones Territoriales del Distrito Federal, de conformidad con la competencia y atribuciones que les confiere el presente Reglamento. Asimismo, darán seguimiento a las recomendaciones y acciones promovidas que se encuentran en trámite.
+
+QUINTO.- Los asuntos que a la entrada en vigor del presente Reglamento, se encuentren en trámite y haya iniciado la Auditoría Especial de Planeación e Información, los continuará la Auditoría Especial de Tecnologías e Información de conformidad con la competencia y atribuciones que le confiere el presente Reglamento.
+
+SEXTO.- Los asuntos que a la entrada en vigor del presente Reglamento, se encuentren en trámite y haya iniciado la Dirección General de Planeación y Normatividad Técnica, los continuará la Dirección General de Normatividad y Evaluación Técnica de conformidad con la competencia y atribuciones que le confiere el presente Reglamento.
+
+SEPTIMO.- La Dirección General de Recursos Humanos conocerá y atenderá los asuntos en materia de recursos humanos, prestaciones, seguros relacionados con los servicios personales y modernización, que se encuentren en trámite en la Dirección General de Administración, a la entrada en vigor del presente Reglamento.
+
+OCTAVO.- La Dirección General de Recursos Materiales y Servicios conocerá y atenderá los asuntos en materia de adquisiciones, arrendamientos y servicios, obra pública y servicios relacionados con las mismas, que se encuentren en trámite en la Dirección General de Administración, a la entrada en vigor del presente Reglamento.
+
+NOVENO.- Las plazas de mando correspondientes a las subdirecciones de Auditoría de Desempeño al Desarrollo Económico "H"; de Auditoría de Desempeño al Desarrollo Social "H"; de Auditoría de Desempeño a Gobierno y Finanzas "H", y de Responsabilidades "C3" estarán sujetas a lo dispuesto en el artículo 33, fracción II, de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y se encuentran condicionadas al presupuesto de egresos de la Auditoría Superior de la Federación que apruebe la Cámara de Diputados para el ejercicio fiscal subsecuente.
