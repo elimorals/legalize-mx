@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-instituto-de-vivienda-del-estado-de-aguascalientes-2780
 country: "mx"
 rank: "ley"
 publication_date: "1989-02-12"
-last_updated: "2005-08-08"
+last_updated: "2011-02-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2780&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "AGU"
 
 LEY DEL INSTITUTO DE VIVIENDA DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 2005.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO DE VIVIENDA SOCIAL Y ORDENAMIENTO DE LA PROPIEDAD DEL ESTADO DE AGUASCALIENTES, PUBLICADA EN EL P.O. DE FECHA 28 DE FEBRERO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA
 
 Ley publicada en el Suplemento al número 7 del Periódico Oficial del Estado de Aguascalientes, el 12 de febrero de 1989.
 
@@ -388,3 +390,49 @@ El presente Decreto entrará en vigencia al día siguiente de su publicación en
 ###### ARTICULO SEGUNDO.
 
 Los recursos administrativos de inconformidad previstos en el Código Urbano del Estado de Aguascalientes que se encuentren en trámite, continuarán su tramitación hasta su total conclusión, ajustándose a las disposiciones jurídicas vigentes al momento de su inicio.
+
+P.O. 28 DE FEBRERO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abrogan la Ley del Instituto de Vivienda del Estado de Aguascalientes, publicada en el Periódico Oficial del Gobierno del Estado con fecha doce de febrero de 1989, el Decreto No. 2 de fecha 13 de diciembre de 1992 y se derogan todas las disposiciones que se opongan a las previstas en la presente Ley.
+
+En tanto se expidan las disposiciones reglamentarias correspondientes, en lo que no se opongan a esta Ley, seguirán aplicándose los ordenamientos reglamentarios y administrativos vigentes a esta fecha.
+
+###### ARTÍCULO TERCERO.
+
+La totalidad de los bienes inmuebles, activos patrimoniales, recursos materiales y financieros, así como las adecuaciones presupuestarias correspondientes, propiedad del Instituto de Vivienda del Estado de Aguascalientes, se transfieren para formar parte del patrimonio del Instituto.
+
+Dichas transferencias serán coordinados y vigilados por la Secretaría de Finanzas y por la Secretaría de Fiscalización y Rendición de Cuentas, ambas del Estado, y deberán concluir a más tardar el 30 de marzo del año 2011.
+
+###### ARTÍCULO CUARTO.
+
+Los servidores públicos que a la fecha presten sus servicios en el Instituto de Vivienda del Estado de Aguascalientes, sin perjuicio de sus derechos laborales y previas las formalidades que resulten aplicables, pasaran a formar parte del personal del Instituto de Vivienda Social y Ordenamiento de la Propiedad del Estado de Aguascalientes.
+
+###### ARTÍCULO QUINTO.
+
+Los recursos, los expedientes, el archivo, el mobiliario y en general los bienes del Instituto de Vivienda del Estado de Aguascalientes y de sus unidades administrativas existentes antes de la entrada en vigor de esta Ley, pasarán a formar parte del patrimonio y estructura del Instituto:
+
+###### ARTÍCULO SEXTO.
+
+Se reconoce plena validez a los documentos, actos y contratos legalmente expedidos o realizados con base en la legislación que se abroga. Las operaciones que se hubieren efectuado con anterioridad a la entrada en vigor de esta Ley, seguirán rigiéndose por los términos del contrato respectivo y las disposiciones legales aplicables.
+
+###### ARTÍCULO SÉPTIMO.
+
+Los asuntos que se encuentren en trámite a la entrada en vigencia de esta Ley, serán resueltos por la unidad administrativa a la que se le atribuya la competencia correspondiente.
+
+###### ARTÍCULO OCTAVO.
+
+La Junta de Gobierno deberá instalarse y sesionar dentro de los 10 días siguientes a la entrada en vigencia de la presente Ley. Para tales efectos, el Gobernador del Estado convocará a sesión a los integrantes de la misma.
+
+###### ARTÍCULO NOVENO.
+
+El Director General será designado, por esta única vez por el Gobernador del Estado; debiéndose observar en lo sucesivo lo que dispone esta ley.
+
+###### ARTÍCULO DÉCIMO.
+
+El Ejecutivo del Estado, deberá expedir el Reglamento de la presente ley, dentro del plazo de 60 días, a partir de la entrada en vigencia de esta ley.
