@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-del-poder-legislativo-del-estado-de-nuevo-leon-761
 country: "mx"
 rank: "ley_organica"
 publication_date: "1992-09-11"
-last_updated: "2010-12-09"
+last_updated: "2011-02-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7619&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE FEBRERO DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 11 de septiembre de 1992.
 
@@ -59,11 +59,11 @@ El cargo de Diputado Propietario o Suplente en ejercicio es incompatible con cua
 
 El Poder Legislativo del Estado de Nuevo León tendrá las atribuciones que para su integración, organización y funcionamiento establece la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Nuevo León, esta Ley y sus disposiciones reglamentarias.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 5o.
 
-La Legislatura tendrá cada año de ejercicio dos Períodos Ordinarios de Sesiones, el Primero se abrirá el día 1º de septiembre y terminará el día 20 de diciembre; el segundo se iniciará el día 30 de marzo y terminará el día 30 de junio. Ambos períodos pueden ser prorrogados hasta por treinta días, por acuerdo del Pleno.
+La Legislatura tendrá cada año de ejercicio dos Períodos Ordinarios de Sesiones, el primero se abrirá el día 1° de septiembre y terminará el día 20 de diciembre; el segundo se iniciará el día 1° de marzo y terminará el día 1° de junio. Ambos períodos pueden ser prorrogados hasta por treinta días, por acuerdo del Pleno.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE AGOSTO DE 2000)</small>
 
@@ -299,7 +299,7 @@ La Directiva podrá girar invitaciones a otras autoridades y ciudadanos para que
 
 Los Diputados que pertenezcan a un mismo Partido Político se constituirán en un Grupo Legislativo para actuar en forma orgánica y coordinada en todos los trabajos del Congreso.
 
-Los Diputados no podrán pertenecer a dos o mas Grupos Legislativos, los que pertenezcan a un mismo partido, en ningún caso pueden constituir uno o más Grupos Legislativos separados.
+Los Diputados no podrán pertenecer a dos o más Grupos Legislativos, los que pertenezcan a un mismo partido, en ningún caso pueden constituir uno o más Grupos Legislativos separados.
 
 > <small>(REFORMADO, P.O. 7 DE FEBRERO DE 2007)</small>
 
@@ -1380,3 +1380,9 @@ P.O. 9 DE DICIEMBRE DE 2010.
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
 
 Segundo.- El Comité de seguimiento de Acuerdos será designado en la quinta sesión del Segundo Periodo de Sesiones ordinarias del Segundo año de ejercicio Constitucional de la Septuagésima Segunda Legislatura al H. Congreso del Estado, en los términos establecidos por el Articulo 60 segundo párrafo, del Reglamento para el Gobierno Interior del Congreso.
+
+P.O. 28 DE FEBRERO DE 2011.
+
+Primero.- El presente Decreto entrará en vigor al momento de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Por única ocasión, la Agenda Temática Mínima que regirá los trabajos legislativos del Segundo Período Ordinario de Sesiones del Segundo Año de Ejercicio Constitucional de la LXXII Legislatura al Congreso del Estado, deberá presentarse ante el Pleno para su aprobación, a más tardar en la quinta Sesión del mismo.
