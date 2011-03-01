@@ -4,7 +4,7 @@ identifier: "YUC-ley-del-instituto-de-defensa-publica-del-estado-de-yucatan-7718
 country: "mx"
 rank: "ley"
 publication_date: "2010-11-05"
-last_updated: "2010-11-05"
+last_updated: "2011-03-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DEL INSTITUTO DE DEFENSA PÚBLICA DEL ESTADO DE YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 1 DE MARZO DE 2011.
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el viernes 5 de noviembre de 2010.
 
@@ -857,9 +857,13 @@ TRANSITORIOS:
 
 Esta Ley entrará en vigor el día primero de marzo del año 2011, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
 
+> <small>(REFORMADO, D.O. 1 DE MARZO DE 2011)</small>
+
 ###### ARTÍCULO SEGUNDO.
 
-Se derogan todas las disposiciones que se opongan a esta Ley.
+Hasta en tanto no entre en vigor el Sistema Procesal Penal Acusatorio y Oral y se publique la Declaratoria a que hace referencia el Transitorio Segundo del Decreto mediante el cual se reforman y adicionan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el día 18 de junio del año 2008, el Reglamento de la Defensoría Legal del Estado y las demás disposiciones legales aplicables continuarán vigentes en los Departamentos Judiciales del Estado. En consecuencia, dicho Reglamento y demás disposiciones aplicables a la defensa legal, quedarán abrogados una vez que el Código Penal entre en vigor en todo el territorio del estado y se concluyan los procedimientos iniciados conforme a lo previsto en la anterior ley penal adjetiva.
+
+A partir de la entrada en vigor de esta Ley, los servidores públicos del Instituto de la Defensa Pública del Estado continuarán tramitando los asuntos que hayan iniciado con anterioridad a la entrada en vigor el nuevo Sistema y atenderán los que les presente, con las facultades y obligaciones establecidas en el Reglamento de la Defensoría Legal del Estado y demás disposiciones aplicables en los términos establecidos en el párrafo anterior.
 
 ###### ARTÍCULO TERCERO.
 
@@ -906,3 +910,11 @@ GOBERNADORA DEL ESTADO DE YUCATÁN
 C. VÍCTOR MANUEL SÁNCHEZ ÁLVAREZ
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O. 1 DE MARZO DE 2011.
+
+###### ARTÍCULO ÚNICO.
+
+Este Decreto entrará en vigor el día de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
