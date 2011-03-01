@@ -4,7 +4,7 @@ identifier: "SON-codigo-civil-para-el-estado-de-sonora-34690"
 country: "mx"
 rank: "codigo"
 publication_date: "1949-08-24"
-last_updated: "2010-10-11"
+last_updated: "2011-03-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34690&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CODIGO CIVIL PARA EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN BOLETIN OFICIAL: 11 DE OCTUBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN BOLETIN OFICIAL: 1 DE MARZO DE 2011.
 
 Código publicado en la Sección Segunda del Boletín Oficial del Estado de Sonora, el miércoles 24 de agosto de 1949.
 
@@ -4813,9 +4813,11 @@ De las Cuentas de la Tutela.
 
 (DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
 ###### Art. 767.
 
-El tutor que sea reemplazado por otro, estará obligado, y lo mismo sus herederos, a rendir cuenta general de la tutela al que le reemplaza. El nuevo tutor responderá al incapacitado por los daños y perjuicios si no pidiere y tomare las cuentas de su antecesor.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL DECRETO NUMERO 94 POR EL QUE SE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 1 DE MARZO DE 2011)
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
@@ -4879,9 +4881,11 @@ De la Entrega de los Bienes.
 
 (DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
 ###### Art. 777.
 
-Cuando intervenga dolo o culpa de parte del tutor, serán de su cuenta todos los gastos.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL DECRETO NUMERO 94 POR EL QUE SE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 1 DE MARZO DE 2011)
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
@@ -5017,9 +5021,11 @@ De los Consejos Locales de Tutela.
 
 (DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
 ###### Art. 799.
 
-Mientras que se nombra tutor, el juez debe dictar las medidas necesarias para que el incapacitado no sufra perjuicios en su persona o en sus intereses.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL DECRETO NUMERO 94 POR EL QUE SE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 1 DE MARZO DE 2011)
 
 ### CAPITULO XVI.
 
@@ -5383,17 +5389,23 @@ De los Efectos de la Declaración de Ausencia.
 
 (DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 15 DE OCTUBRE DE 2009)
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
 ###### Art. 856.
 
-Los que tengan con relación al ausente, obligaciones que deban cesar a la muerte de éste, podrán también suspender su cumplimiento bajo la misma garantía.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL DECRETO NUMERO 94 POR EL QUE SE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 1 DE MARZO DE 2011)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 ###### Art. 857.
 
-Si no pudiere darse la garantía prevenida en los cinco artículos anteriores, el juez, según las circunstancias de las personas y de los bienes, y concediendo el plazo fijado en el artículo 697, podrá disminuir el importe de aquélla, pero de modo que no baje de la tercia parte de los valores señalados en el artículo 694.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL DECRETO NUMERO 94 POR EL QUE SE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 1 DE MARZO DE 2011)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 ###### Art. 858.
 
-Mientras no se dé la expresada garantía, no cesará la administración del representante.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL DECRETO NUMERO 94 POR EL QUE SE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA, B.O. 1 DE MARZO DE 2011)
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA MODIFICACION AL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL CODIGO DE FAMILIA PARA EL ESTADO DE SONORA.</small>
 
@@ -19346,3 +19358,25 @@ B.O. 11 DE OCTUBRE DE 2010.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 1 DE MARZO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor (sic) día primero de abril del 2011, previa publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Al entrar en vigor el presente Decreto, se derogan los artículos 767, 777, 799, 856, 857 y 858 del Código Civil para el Estado de Sonora.
+
+###### ARTÍCULO TERCERO.
+
+El Ejecutivo del Estado, en un término de 90 días hábiles, contado a partir de la entrada en vigor del presente Decreto, deberá emitir la reglamentación correspondiente para autorizar los laboratorios del sector salud que puedan realizar las periciales genéticas a que se refiere el artículo 257 del Código de Familia.
+
+###### ARTÍCULO CUARTO.
+
+A falta de disposición expresa en cuanto a los términos o plazos que establece el Código de Familia, se estará a lo que dispone el Código de Procedimientos Civiles para el Estado de Sonora.
+
+###### ARTÍCULO QUINTO.
+
+En tanto entre en vigor el Código Procesal en materia familiar se aplicará en lo conducente el Código de Procedimientos Civiles para el Estado de Sonora.
