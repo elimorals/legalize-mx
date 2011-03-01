@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-los-trabajadores-al-servicio-del-estado-y-municipios-128
 country: "mx"
 rank: "ley"
 publication_date: "1987-12-03"
-last_updated: "1990-06-29"
+last_updated: "2011-03-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12864&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO Y MUNICIPIOS DE YUCATAN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 29 DE JUNIO DE 1990.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 1 DE MARZO DE 2011.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el jueves 3 de diciembre de 1987.
 
@@ -317,7 +317,7 @@ No podrán ser embargados los salarios de los trabajadores, salvo en el caso de 
 
 Los trabajadores al servicio del Estado, activos, jubilados y pensionados, disfrutarán de un aguinaldo anual equivalente al importe de 40 días de su salario, que será cubierto con pago, sin descuento alguno, el 50% en la primera quincena del mes de diciembre y el otro 50% a más tardar el 15 de enero y con base en las partidas presupuestales al efecto.
 
-Los trabajadores que hubiesen prestado sus servicios en un período menor de una año, disfrutarán de la parte proporcional del aguinaldo establecido, con base en el sueldo que devenguen.
+Los trabajadores que hubiesen prestado sus servicios en un período menor de un año, disfrutarán de la parte proporcional del aguinaldo establecido, con base en el sueldo que devenguen.
 
 ###### ARTICULO 44.
 
@@ -1115,6 +1115,24 @@ Esta Ley entrará en vigor a los quince días de su publicación en el Diario Of
 
 Se abroga el Estatuto Jurídico de los Trabajadores al Servicio del Estado de Yucatán contenido en el Decreto número 202 de fecha dos de noviembre de mil novecientos treinta y nueve y reformado por Decreto número 40 de fecha veintisiete de julio de mil novecientos sesenta y cuatro.
 
+> <small>(ADICIONADO, D.O. 1 DE MARZO DE 2011)</small>
+
+###### ARTICULO TERCERO.
+
+A partir de la entrada en vigor del Decreto número 296 que reforma, adiciona y deroga diversas disposiciones de la Constitución Política del Estado, los asuntos que se encuentren en trámite o pendientes de resolución por parte del Tribunal de Conciliación y Arbitraje para los Trabajadores al Servicio del Estado, se resolverán conforme a las disposiciones vigentes al momento en el que se iniciaron hasta que se concluyan en el Tribunal de los Trabajadores al Servicio del Estado y de los Municipios perteneciente al Poder Judicial, por lo cual, las atribuciones que esta Ley otorga al Pleno del Tribunal que se extingue se entenderán referidas al Magistrado Presidente del nuevo Tribunal.
+
+> <small>(ADICIONADO, D.O. 1 DE MARZO DE 2011)</small>
+
+###### ARTICULO CUARTO.
+
+Por única ocasión, y a partir de la entrada en vigor del Decreto 296 que reforma, adiciona y deroga diversas disposiciones de la Constitución Política del Estado y del Decreto 341 que contiene la nueva Ley Orgánica del Poder Judicial del Estado, el Presidente del Tribunal de Conciliación y Arbitraje para los Trabajadores al Servicio del Estado en funciones, asumirá el cargo de Magistrado Presidente del Tribunal de los Trabajadores al Servicio del Estado y de los Municipios, perteneciente al Poder Judicial, hasta cumplir con el plazo para el que fue designado.
+
+> <small>(ADICIONADO, D.O. 1 DE MARZO DE 2011)</small>
+
+###### ARTICULO QUINTO.
+
+A efecto de que el Tribunal de los Trabajadores al Servicio del Estado y de los Municipios perteneciente al Poder Judicial pueda realizar todos los trámites legales y administrativos necesarios, en relación con los asuntos pendientes de resolución y en trámite que le entregue el Tribunal de Conciliación y Arbitraje para los Trabajadores al Servicio del Estado que se extingue, durante el período comprendido del 1 al 31 de marzo del año 2011, únicamente serán conocidos los citados asuntos, y para el caso de los nuevos asuntos que recepcione en ese período, no correrán los plazos y términos que la ley señale.
+
 Dado en la Sede del Poder Legislativo en la ciudad de Mérida, Yucatán, Estados Unidos Mexicanos a los dos días del mes de diciembre del año de mil novecientos ochenta y siete.- D.P. Profr. Omar Lara Novelo.- D.S. Mario Tránsito Chan Chan.- D.S. Profra. Rosa E. Baduy Isaac.- Rúbricas.
 
 Y por tanto mando se imprima, publique y circule para su conocimiento y debido cumplimiento.
@@ -1132,3 +1150,9 @@ JOSE IGNACIO MENDICUTI PAVON
 D.O. 29 DE JUNIO DE 1990.
 
 UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+D.O. 1 DE MARZO DE 2011.
+
+###### ARTÍCULO ÚNICO.
+
+Este Decreto entrará en vigor el día de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
