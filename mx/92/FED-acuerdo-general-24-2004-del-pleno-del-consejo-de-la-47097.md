@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-24-2004-del-pleno-del-consejo-de-la-47097"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2004-04-23"
-last_updated: "2009-04-13"
+last_updated: "2011-03-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47097&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2004-04-14"
 
 ACUERDO GENERAL 24/2004, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE FIJA LAS BASES PARA LA DESINCORPORACION DE TODA CLASE DE BIENES MUEBLES EN EL CONSEJO DE LA JUDICATURA FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE ABRIL DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE MARZO DE 2011.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 23 de abril de 2004.
 
@@ -641,11 +641,11 @@ III. Que la contratación sea urgente debido a caso fortuito o fuerza mayor, ind
 
 ### CAPITULO VIII. VENTA A EMPLEADOS
 
-> <small>(REFORMADO PRIMER PARRAFO POR EL ARTICULO UNICO DEL ACUERDO GENERAL 50/2005 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PARRAFO POR EL PUNTO UNICO DEL ACUERDO GENERAL 3/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 1 DE MARZO DE 2011)</small>
 
 ###### Artículo 33.
 
-DE LAS VENTAS INTERNAS.- Las Areas Operativas antes de realizar cualquiera de los procedimientos de enajenación a que se refieren las fracciones I, II y III del artículo 17 de este Acuerdo, deberán, de conformidad a las características de los bienes, promover su enajenación en favor de los servidores públicos del Poder Judicial de la Federación, mediante invitación o subasta, cumpliendo las condiciones siguientes:
+DE LAS VENTAS INTERNAS.- Las Areas Operativas antes de realizar cualquiera de los procedimientos de enajenación a que se refieren las fracciones I, II y III del artículo 17 de este Acuerdo, tratándose de bienes de informática, respecto de los cuales se hubiese dictaminado su obsolescencia, o contablemente su depreciación, invariablemente la venta se hará directamente a los Servidores Públicos del Poder Judicial de la Federación; aquéllos que no logren enajenarse a éstos, se donarán en los términos previstos en el artículo 36 del presente, de no lograr transferir dichos bienes, se procederá a su desecho. Respecto de los demás bienes, deberán de conformidad a las características de los mismos, promover su enajenación en favor de los servidores públicos del Poder Judicial de la Federación, mediante invitación o subasta, cumpliendo las condiciones siguientes:
 
 a) Invitaciones:
 
@@ -826,3 +826,11 @@ PRIMERO.- El presente acuerdo entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 TERCERO.- La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato, el texto de esta reforma, al Acuerdo General 24/2004, del Pleno del Consejo de la Judicatura Federal, que Fija las Bases para la Desincorporación de Toda Clase de Bienes Muebles en el Consejo de la Judicatura Federal.
+
+D.O.F. 1 DE MARZO DE 2011.
+
+PRIMERO.- El presente acuerdo entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta, así como en la páginas de Internet e Intranet del Consejo de la Judicatura Federal.
+
+TERCERO.- La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de esta reforma, al Acuerdo General 24/2004, del Pleno del Consejo de la Judicatura Federal, que Fija las Bases para la Desincorporación de Toda Clase de Bienes Muebles en el Consejo de la Judicatura Federal.
