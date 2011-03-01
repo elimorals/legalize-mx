@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-28-2005-del-pleno-del-consejo-de-la-45657"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2005-08-12"
-last_updated: "2010-11-30"
+last_updated: "2011-03-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45657&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2005-07-13"
 
 ACUERDO GENERAL 28/2005, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA EL PLAN DE PENSIONES COMPLEMENTARIAS DE MAGISTRADOS DE CIRCUITO Y JUECES DE DISTRITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE NOVIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE MARZO DE 2011.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el viernes 12 de agosto de 2005.
 
@@ -647,6 +647,18 @@ D.O.F. 30 DE NOVIEMBRE DE 2010.
 
 PRIMERO.- El presente acuerdo entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
 
+> <small>(ADICIONADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 4/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 1 DE MARZO DE 2011)</small>
+
+Las reformas a los artículos 4, párrafos primero y penúltimo, 13, fracción I, y 15, párrafo segundo, del Acuerdo General 28/2005, del Pleno del Consejo de la Judicatura Federal, que Regula el Plan de Pensiones Complementarias de Magistrados de Circuito y Jueces de Distrito, tendrán efectos a partir del mes de enero de 2010.
+
 SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 TERCERO.- La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de esta reforma, al Acuerdo General 28/2005, del Pleno del Consejo de la Judicatura Federal, que Regula el Plan de Pensiones Complementarias de Magistrados de Circuito y Jueces de Distrito.
+
+D.O.F. 1 DE MARZO DE 2011.
+
+PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de esta reforma, al Acuerdo General 35/2010, que Reforma los Artículos 4, Párrafos Primero y Penúltimo, 13, Fracción I y 15, Párrafo Segundo, del Diverso Acuerdo General 28/2005, del Pleno del Consejo de la Judicatura Federal, que Regula el Plan de Pensiones Complementarias de Magistrados de Circuito y Jueces de Distrito.
