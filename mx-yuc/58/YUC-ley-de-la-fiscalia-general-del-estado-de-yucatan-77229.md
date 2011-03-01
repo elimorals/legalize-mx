@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-la-fiscalia-general-del-estado-de-yucatan-77229"
 country: "mx"
 rank: "ley"
 publication_date: "2010-11-10"
-last_updated: "2010-11-10"
+last_updated: "2011-03-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77229&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE LA FISCALIA GENERAL DEL ESTADO DE YUCATAN
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 1 DE MARZO DE 2011.
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el miércoles 10 de noviembre de 2010.
 
@@ -589,7 +589,9 @@ X. Implementar los mecanismos necesarios para realizar una eficaz supervisión r
 
 XI. Las demás que le señalen esta Ley, su Reglamento y otras disposiciones legales aplicables.
 
-### CAPÍTULO VIII (SIC). De las Unidades de Solución de Controversias
+> <small>(REFORMADA SU NUMERACION, D.O. 1 DE MARZO DE 2011)</small>
+
+### CAPÍTULO III. De las Unidades de Solución de Controversias
 
 ###### Artículo 23.
 
@@ -601,7 +603,9 @@ Las Unidades de Solución de Controversias de la Fiscalía General, deberán pre
 
 El Reglamento de esta Ley deberá establecer las funciones de las Unidades de Solución de Controversias y las facultades y obligaciones del personal adscrito a las mismas.
 
-### CAPÍTULO IX. Del Servicio de Escolta Pública
+> <small>(REFORMADA SU NUMERACION, D.O. 1 DE MARZO DE 2011)</small>
+
+### CAPÍTULO IV. Del Servicio de Escolta Pública
 
 ###### Artículo 25.
 
@@ -1103,9 +1107,13 @@ T R A N S I T O R I O S:
 
 Esta Ley entrará en vigor el día primero de marzo del año dos mil once, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
 
+> <small>(REFORMADO, D.O. 1 DE MARZO DE 2011)</small>
+
 ###### ARTÍCULO SEGUNDO.
 
-A la entrada en vigor de esta Ley, quedará abrogada la Ley Orgánica de la Procuraduría General de Justicia del Estado de Yucatán, publicada en el Diario Oficial del Gobierno del Estado de Yucatán con fecha veintinueve de marzo del año dos mil.
+Hasta en tanto no entre en vigor el Sistema Procesal Penal Acusatorio y Oral y se publique la Declaratoria a que hace referencia el Transitorio Segundo del Decreto mediante el cual se reforman y adicionan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos publicado en el Diario Oficial de la Federación el día 18 de junio del año 2008, la Ley Orgánica de la Procuraduría General de Justicia del Estado continuará vigente en los departamentos judiciales del Estado. Por lo tanto los servidores públicos de la Fiscalía General del Estado continuarán tramitando los asuntos, conforme a las facultades y obligaciones establecidas en la Ley antes mencionada. Dicha ley Orgánica quedará abrogada una vez que entre en vigor el nuevo Código Procesal Penal que deberá contemplar el Sistema Procesal Acusatorio y Oral en el Estado, y cuando se concluyan los procedimientos en trámite iniciados conforme a la anterior ley penal adjetiva.
+
+La entrada en vigor del Sistema Procesal Acusatoria y Oral se llevará acabo de manera gradual en los departamentos judiciales del Estado, en tanto no inicie el Sistema en algún Departamento Judicial, conforme a lo que establezca el nuevo Código Procesal Penal, se seguirán aplicando las disposiciones establecidas en la ley Orgánica de la Procuraduría General de Justicia del Estado.
 
 ###### ARTÍCULO TERCERO.
 
@@ -1144,3 +1152,11 @@ GOBERNADORA DEL ESTADO DE YUCATÁN
 C. VÍCTOR MANUEL SÁNCHEZ ÁLVAREZ
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O. 1 DE MARZO DE 2011.
+
+###### ARTÍCULO ÚNICO.
+
+Este Decreto entrará en vigor el día de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
