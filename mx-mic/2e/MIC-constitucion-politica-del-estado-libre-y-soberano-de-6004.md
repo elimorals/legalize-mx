@@ -4,7 +4,7 @@ identifier: "MIC-constitucion-politica-del-estado-libre-y-soberano-de-6004"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-07"
-last_updated: "2010-10-14"
+last_updated: "2011-03-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACAN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE OCTUBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE MARZO DE 2011.
 
 Constitución publicada en el Periódico Oficial del Gobierno del Estado de Michoacán de Ocampo, los días jueves 7, domingo 10, jueves 14, domingo 17, jueves 21, domingo 24, jueves 28, de febrero; domingo 3, jueves 7, domingo 10 y jueves 14 de marzo de 1918.
 
@@ -407,6 +407,24 @@ También se ocupará de revisar y dictaminar la Cuenta Pública de la Hacienda E
 
 > <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2006)</small>
 
+La revisión y dictamen de las cuentas públicas se hará con base en el Informe de Resultados que para tal efecto realice la Auditoría Superior de Michoacán, en los términos de ley.VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO NO. 69.
+
+(REFORMADO PRIMER PARRAFO, P.O. 22 DE SEPTIEMBRE DE 2006) (F. DE E., P.O. 26 DE SEPTIEMBRE DE 2006)
+
+###### Artículo 31.
+
+El Congreso sesionará por años legislativos, comprendidos del día quince del mes de septiembre al día catorce del mes de septiembre del año siguiente.
+
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2006)</small>
+
+En los meses de septiembre a diciembre el Congreso se ocupará de examinar, discutir y aprobar el Presupuesto de Egresos del año fiscal siguiente, decretando las contribuciones necesarias para cubrirlo. En el supuesto de que la Ley de Ingresos y el Presupuesto de Egresos no sean aprobados por el Congreso, en el nuevo ejercicio fiscal se continuarán aplicando los ordenamientos vigentes en el año inmediato anterior, mientras se lleve a cabo la aprobación respectiva.
+
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2007)</small>
+
+También se ocupará de revisar y dictaminar la Cuenta Pública de la Hacienda Estatal y de las haciendas municipales, correspondientes al año anterior, así como la aplicación de los recursos públicos asignados a las entidades paraestatales y a otras que dispongan de autonomía.
+
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2006)</small>
+
 La revisión y dictamen de las cuentas públicas se hará con base en el Informe de Resultados que para tal efecto realice la Auditoría Superior de Michoacán, en los términos de ley.
 
 ###### Artículo 32.
@@ -621,6 +639,12 @@ El Congreso deberá aprobar en el presupuesto de egresos del ejercicio las parti
 
 Para la revisión de las cuentas públicas, el Congreso se apoyará en la entidad de fiscalización superior, que se denominará Auditoría Superior de Michoacán. Si del examen que ésta realice aparecieran discrepancias entre las cantidades correspondientes a los ingresos o a los egresos, con relación a los conceptos y partidas respectivas o no existiere exactitud o justificación en los ingresos obtenidos o en los gastos realizados, se determinarán las responsabilidades de acuerdo con la Ley;
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA ESTA CONSTITUCIÓN.</small>
+
+> <small>(ADICIONADO, P.O. 1 DE MARZO DE 2011)</small>
+
+Para expedir leyes en materia de contabilidad gubernamental que regirán la contabilidad pública y la presentación homogénea de información financiera, de ingresos, egresos, patrimonio y deuda, para los poderes del Estado y sus Municipios, así como los organismos que por disposición de ley se consideren autónomos y cualquier entidad, persona física o moral, pública o privada, y los transferidos a fideicomisos, mandatos, fondos o cualquier otra figura jurídica, de conformidad con los procedimientos establecidos en las leyes de la materia a fin de garantizar su armonización.
+
 > <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2007)</small>
 
 XII.- Dar las bases para que el Ejecutivo y los Ayuntamientos contraten deuda pública y afecten como garantía, fuente de pago o de cualquier otra forma los ingresos que les correspondan, en los términos establecidos en las leyes correspondientes y con las limitaciones que establece la fracción VIII del artículo 117 de la Constitución Política de los Estados Unidos Mexicanos;
@@ -699,11 +723,13 @@ XXIV.- Conceder las licencias que soliciten para separarse temporalmente de sus 
 
 XXV.- Designar Gobernador interino del Estado cuando la separación del titular sea mayor de treinta días;
 
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DEL 2000)</small>
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2011)</small>
 
-XXVI.- Formar la Comisión Instructora Especial y erigirse en Gran Jurado, para los efectos señalados en el artículo 108 de esta Constitución, así como conocer de las acusaciones que se hagan a los servidores públicos que hubieren incurrido en delitos, en los términos del artículo 109 de este mismo ordenamiento.
+XXVI.- Declarar si ha o no lugar a proceder penalmente contra los servidores públicos que hubieren incurrido en delito en los términos del artículo 105 de esta Constitución.
 
-Las resoluciones del Gran Jurado serán definitivas e inatacables;
+Conocer de las imputaciones que se hagan a los servidores públicos y erigirse en Jurado de Sentencia, para conocer en juicio político de las faltas u omisiones que cometan los servidores públicos y que redunden en perjuicio de los intereses públicos fundamentales y de su buen despacho, en los términos del artículo 108 de esta Constitución.
+
+Las declaraciones y resoluciones del Congreso del Estado son inatacables;
 
 > <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DEL 2000)</small>
 
@@ -1593,7 +1619,7 @@ La Ley Orgánica de la Defensoría de Oficio fijará las demás atribuciones y d
 
 ## TITULO CUARTO. De las Responsabilidades de los Funcionarios Públicos
 
-> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2011)</small>
 
 ### CAPÍTULO VI. DE LA ASOCIACIÓN Y COORDINACIÓN MUNICIPAL
 
@@ -1601,71 +1627,77 @@ La Ley Orgánica de la Defensoría de Oficio fijará las demás atribuciones y d
 
 ###### Artículo 104.
 
-Para los efectos de las responsabilidades a que alude este Título, se reputarán como servidores públicos a los representantes de elección popular, tanto estatales como municipales, a los miembros del Poder Judicial, del Consejo del Poder Judicial, a los miembros del Tribunal Electoral del Estado, a los miembros del Tribunal de Justicia Administrativa, a los funcionarios y empleados, y en general, a toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la administración pública estatal o municipal, así como a los servidores del Instituto Electoral de Michoacán, de la Comisión Estatal de los Derechos Humanos, del Instituto para la Transparencia y Acceso a la Información Pública del Estado, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
+Son servidores públicos los integrantes, funcionarios y empleados de los poderes Legislativo y Judicial del Estado; de las dependencias centralizadas y entidades paraestatales de la administración pública dependiente del Poder Ejecutivo Estatal, entidades autónomas; así como de los ayuntamientos y entidades paramunicipales, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones, por las violaciones a esta Constitución y a las leyes estatales.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2011)</small>
 
 ###### Artículo 105.
 
-Siempre que se trate de un delito del orden común, cometido por el Gobernador, los Diputados al Congreso, Magistrados del Supremo Tribunal de Justicia, Consejeros del Poder Judicial, Secretario de Gobierno, Secretario de Finanzas y Administración, Procurador de Justicia, Auditor Superior, Magistrados del Tribunal de Justicia Administrativa, Magistrados del Tribunal Electoral del Estado, Consejero Presidente y Consejeros Electorales del Instituto Electoral de Michoacán, el Congreso erigido en Gran Jurado, declarará por los dos tercios de los votos de sus miembros presentes cuando se trate del Gobernador, y por mayoría, cuando se trate de otros funcionarios, si procede o no la formación de causa. En caso negativo, no habrá lugar a procedimiento ulterior, salvo que aparezcan nuevos datos y elementos, pero tal declaración no será obstáculo para que la acusación continúe su curso cuando el acusado haya dejado de tener fuero, pues la resolución del Congreso no prejuzga absolutamente sobre los fundamentos de la acusación. En caso afirmativo quedará el acusado separado de su encargo y sujeto a la acción de los tribunales comunes, salvado (sic) que se trate del Gobernador del Estado, en cuyo caso sólo habrá lugar a que el Congreso lo juzgue como si se tratare de un delito oficial. La declaración de haber lugar a formación de causa contra un funcionario de elección popular, procede desde la fecha en que haya sido declarado electo.
+Para proceder penalmente por la comisión de delitos del orden común, contra el Gobernador, el Secretario de Gobierno, el Procurador General de Justicia, los Diputados al Congreso, los Magistrados, los Consejeros Electorales y del Poder Judicial y el Auditor Superior; el Congreso erigido en Jurado de Sentencia, declarará por los dos tercios de los votos de sus miembros presentes cuando se trate del Gobernador, y por mayoría absoluta, cuando se trate de otros funcionarios, si procede o no la formación de causa. En caso negativo, no habrá lugar a procedimiento ulterior, salvo que aparezcan nuevos datos y elementos, pero tal declaración no será obstáculo para que la acusación continúe su curso cuando el acusado haya dejado de tener fuero, pues la resolución del Congreso no prejuzga absolutamente sobre los fundamentos de la acusación. En caso afirmativo, el servidor público podrá ser separado de su encargo y sujeto a la acción de los tribunales comunes.
 
-> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 1984)</small>
+Cuando se trate del Gobernador, sólo habrá lugar a que el Congreso lo juzgue como si se tratare de un delito oficial. La declaración de haber lugar a formación de causa contra un funcionario de elección popular, procede desde el día en que inicie su encargo, hasta el momento en que concluya por cualquier motivo su mandato.
+
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2011)</small>
 
 ###### Artículo 106.
 
-En los casos previstos por los artículos 110 y 111 de la Constitución Política de los Estados Unidos Mexicanos, la comunicación de la declaración emitida por el Senado de la República, deberá conocerse por el Congreso Estatal en la primera sesión que se celebre después de recibida y se procederá conforme a las disposiciones de esta Constitución y las leyes correspondientes.
+En los casos previstos por los artículos 110 y 111 de la Constitución Política de los Estados Unidos Mexicanos, la resolución o declaración emitida por el Senado de la República, deberá conocerse por el Congreso, para que éste proceda en la primera sesión que se celebre después de recibida, conforme a las disposiciones de la Constitución Federal, de la Constitución Estatal y las leyes correspondientes.
 
-> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2011)</small>
 
 ###### Artículo 107.
 
-El Congreso del Estado expedirá la Ley de Responsabilidades de los Servidores Públicos y las demás normas conducentes a sancionar a quienes, teniendo este carácter, incurran en responsabilidades de conformidad con las siguientes prevenciones:
+El Congreso expedirá la Ley de Responsabilidades de los Servidores Públicos y las demás normas conducentes para sancionar a quienes, teniendo ese carácter, incurran en responsabilidades de conformidad con las siguientes prevenciones:
 
-I.- Se impondrán, mediante juicio político, las sanciones indicadas en el artículo 108 a los servidores públicos señalados en el mismo precepto, cuando en el ejercicio de sus funciones incurran en actos u omisiones que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho. La Ley precisará los casos en que se sigue este perjuicio.
+I. Se impondrán mediante juicio político, las sanciones indicadas en el artículo 108 a los servidores públicos señalados en el mismo precepto. La Ley precisará cuándo se genere perjuicio a los intereses públicos fundamentales, cuándo al buen despacho de las funciones encargadas a los servidores públicos o cuando interfieran indebidamente a favor de partido político o candidato durante los procesos electorales, por parte de éstos, por sus actos u omisiones.
 
-No procede el juicio político por la mera expresión de ideas.
+No procede el juicio político por la mera expresión de ideas;
 
-II.- La comisión de delitos por parte de cualquier servidor público será perseguida y sancionada en los términos de la Legislación Penal, y
+II. La comisión de delitos por parte de cualquier servidor público será perseguida y sancionada en los términos de la legislación penal; y,
 
-III.- Se aplicarán sanciones administrativas a los servidores públicos por los actos u omisiones que afecten la legalidad, honradez, imparcialidad y eficiencia que deban observar en el desempeño de sus empleos, cargos o comisiones.
+III. Se aplicarán sanciones administrativas a los servidores públicos por los actos u omisiones que afecten la lealtad institucional por la falta de legalidad, honradez, imparcialidad y eficiencia que deban observar en el desempeño de sus empleos, cargos o comisiones.
 
-Los procedimientos para la aplicación de las sanciones mencionadas se desarrollarán autónomamente. No podrán imponerse dos veces por una sola conducta sanciones de la misma naturaleza.
+Los procedimientos para aplicar las sanciones se desarrollarán de manera autónoma. No podrán imponerse dos veces por una sola conducta sanciones de la misma naturaleza.
 
-Las leyes determinarán los casos y las circunstancias en los que se deba sancionar penalmente por causa de enriquecimiento ilícito a los servidores públicos que durante el tiempo de su encargo, o por motivos del mismo, por sí o por interpósita persona, aumenten substancialmente su patrimonio, adquieran bienes o se conduzcan como dueños sobre ellos, cuya procedencia lícita no pudiesen justificar. La Legislación Penal sancionará con el decomiso y con la privación de dichos bienes, además de las otras penas que correspondan.
+Las leyes determinarán los casos y las circunstancias en los que se deba sancionar penalmente por causa de enriquecimiento ilícito a los servidores públicos que durante el tiempo de su encargo, o por motivos del mismo, por sí o por interpósita persona, aumenten substancialmente su patrimonio, adquieran bienes o se conduzcan como dueños sobre ellos, cuya procedencia lícita no pudiesen justificar. La legislación penal sancionará con el decomiso y con la privación de la propiedad, posesión, y derechos de dichos bienes, además de las otras penas que correspondan.
 
-> <small>(REFORMADO, P.O. 23 DE MAYO DE 2006)</small>
+Cualquier persona, bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba a su alcance, podrá formular denuncia ante el Congreso respecto de las conductas a que se refiere el presente artículo, estableciéndose así la acción pública, la que estará reglamentada por la Ley.
 
-Cualquier persona bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba podrá formular denuncia ante el Congreso respecto de las conductas a que se refiere el presente artículo.
+Los titulares de las dependencias y entidades de la Administración Pública Estatal y organismos autónomos que comparezcan ante comisiones del Congreso del Estado, deberán informar bajo protesta de decir verdad, lo relativo a sus ámbitos de competencia; en caso de incumplimiento serán sancionados de acuerdo a lo dispuesto en la Ley.
 
-> <small>(REFORMADO, P.O. 23 DE MAYO DE 2006)</small>
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2011)</small>
 
 ###### Artículo 108.
 
-Podrán ser sujetos de juicio político, el Gobernador del Estado, los diputados al Congreso, los Magistrados del Supremo Tribunal de Justicia, los Consejeros del Poder Judicial, los Jueces de Primera Instancia y Jueces de Cuantía Menor, los titulares de las dependencias básicas que menciona la Ley Orgánica de la Administración Pública, el consejero presidente y los consejeros electorales del Instituto Electoral de Michoacán, los Magistrados del Tribunal Electoral del Estado, los Magistrados del Tribunal de Justicia Administrativa, los directores generales o sus equivalentes de organismos descentralizados, empresas de participación estatal mayoritaria, sociedades y asociaciones asimiladas a éstas y fideicomisos públicos. Asimismo los miembros de los ayuntamientos y funcionarios municipales, que señala la Ley Orgánica Municipal, sea cual fuere el origen de su encargo. Las sanciones consistirán en la destitución del servidor público y en su inhabilitación para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público estatal y municipal, de acuerdo a la ley de la materia.
+Podrán ser sujetos de juicio político, el Gobernador, los Diputados al Congreso, el Auditor Superior, los Magistrados, los Consejeros del Poder Judicial, los Jueces de Primera Instancia, Jueces Menores, los titulares de las dependencias centralizadas y entidades paraestatales de la administración pública estatal así como de entidades autónomas.
 
-> <small>(REFORMADO, P.O. 29 de DICIEMBRE DE 2007)</small>
+Asimismo los integrantes y funcionarios de los ayuntamientos que señala la Ley Orgánica Municipal, sea cual fuere el origen de su encargo.
+
+Las sanciones consistirán en la suspensión, destitución e inhabilitación del servidor público para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público estatal o municipal de acuerdo a la Ley de la materia.
+
+Se dará a conocer el resolutivo del juicio a todos los gobiernos de las Entidades Federativas y a los tres Poderes del Gobierno Federal, para los efectos legales y administrativos correspondientes.
+
+El procedimiento de juicio político estará reglamentado por la Ley.
+
+Las declaraciones y resoluciones del Congreso erigido en Jurado de Sentencia serán definitivas e inatacables.
+
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2011)</small>
 
 ###### Artículo 109.
 
-Para proceder penalmente contra el Gobernador, los Diputados al Congreso, Magistrados del Supremo Tribunal de Justicia, los Consejeros del Poder Judicial, Secretario de Gobierno, Secretario de Finanzas y Administración, Procurador de Justicia, Auditor Superior, Magistrados del Tribunal de Justicia Administrativa, Magistrados del Tribunal Electoral del Estado, Consejero Presidente y Consejeros Electorales del Instituto Electoral de Michoacán, por la comisión de delitos durante el tiempo de su encargo, el Congreso declarará por las dos terceras partes de sus miembros presentes en sesión cuando se trate del Gobernador y por mayoría absoluta cuando se trate de otros servidores públicos, si ha o no lugar a proceder contra el inculpado.
+Las leyes sobre responsabilidades administrativas de los servidores públicos, determinarán sus obligaciones a fin de salvaguardar la legalidad, honradez, lealtad, imparcialidad, y eficiencia en el desempeño de sus funciones, empleos, cargos y comisiones; las sanciones aplicables por los actos u omisiones en que incurran, así como los procedimientos y las autoridades para aplicarlas. Dichas sanciones, además de las que señalen las leyes, consistirán en suspensión, destitución e inhabilitación, así como en sanciones económicas, y deberán establecerse de acuerdo con los beneficios económicos obtenidos por el responsable y con los daños y perjuicios patrimoniales causados por sus actos u omisiones a que se refiere la fracción III del artículo 107, pero que no podrán exceder de tres tantos de los beneficios obtenidos o de los daños y perjuicios causados.
 
-> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 1984)</small>
+La responsabilidad del Estado por los daños que, con motivo de su actividad administrativa irregular, cause en los bienes o derechos de los particulares, será objetiva y directa. Los particulares tendrán derecho a una indemnización conforme a las bases, límites y procedimientos que establezcan las leyes.
+
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2011)</small>
 
 ###### Artículo 110.
 
-No se requerirá declaración de procedencia de la Cámara de Diputados contra alguno de los servidores públicos a que hace referencia el párrafo primero del artículo 109 cometa un delito durante el tiempo en que se encuentre separado de su encargo.
+El Procedimiento de juicio político sólo podrá iniciarse durante el período en el que el servidor público desempeñe su cargo y dentro de un año después. Las sanciones correspondientes se aplicarán en un período no mayor de un año a partir de iniciado el procedimiento.
 
-Si el servidor público ha vuelto a desempeñar en sus funciones propias o ha sido nombrado electo para desempeñar otro cargo distinto, pero de los enumerados por el artículo 109, se procederá de acuerdo con lo dispuesto en dicho precepto.
+La responsabilidad por delitos cometidos durante el tiempo del encargo por cualquier servidor público, será exigible de acuerdo con los plazos de prescripción consignados en la Ley penal, que nunca serán inferiores a tres años. Los plazos de prescripción se interrumpen en tanto el servidor público desempeña alguno de los encargos a que hace referencia el artículo 105 de esta Constitución.
 
-La Ley sobre Responsabilidades de los Servidores Públicos determinará sus obligaciones, a fin de salvaguardar la legalidad, honradez, imparcialidad y eficiencia en el desempeño de sus funciones, empleos, cargos y comisiones; las sanciones aplicables por los actos u omisiones en que incurran, así como los procedimientos y las autoridades para aplicarlas. Dichas sanciones, además de las que señalan las leyes, consistirán en suspensión, destitución e inhabilitación, así como en sanciones económicas, las que deberán establecerse de acuerdo con los beneficios económicos obtenidos por el responsable y con la daños y perjuicios patrimoniales causados por sus actos u omisiones a que se refiere la fracción III del artículo 107 pero no podrá exceder de tres tantos de los beneficios obtenidos o de los daños y perjuicios causados.
-
-La responsabilidad por los delitos cometidos durante el tiempo del encargo por cualquier servidor público, será exigible de acuerdo con los plazos de prescripción consignados en la ley penal, que nunca serán inferiores a tres años. Los plazos de prescripción se interrumpen en tanto el servidor público desempeña alguno de los encargos a que hace referencia el artículo 109.
-
-La Ley de Responsabilidades señalará los casos de prescripción de la responsabilidad administrativa tomando en cuenta la naturaleza y consecuencia d los actos y omisiones a que hace referencia la fracción III del artículo 107. Cuando dichos actos u omisiones fuesen graves los plazos de prescripción no serán inferiores a tres años.
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
-
-El Gobernador Constitucional del Estado y los Diputados gozarán de fuero desde el día en que fuesen declarados electos; los Magistrados del Supremo Tribunal de Justicia, los Consejeros del Poder Judicial, los Magistrados Propietarios del Tribunal Electoral del Estado y los Magistrados del Tribunal de Justicia Administrativa, desde la fecha en que fuesen designados; los Gobernadores Provisionales, Interinos y Substitutos, los Diputados Suplentes, los Magistrados Supernumerarios del Tribunal Electoral del Estado, el Consejero Presidente y los Consejeros Electorales del Instituto Electoral de Michoacán, el Secretario de Gobierno, el Secretario de Finanzas y Administración y el Procurador de Justicia, únicamente dentro del término de su encargo.
+La Ley señalará los casos de prescripción de la responsabilidad administrativa tomando en cuenta la naturaleza y consecuencia de los actos y omisiones a que hace referencia la fracción III del artículo 107 de esta Constitución. Cuando dichos actos u omisiones fuesen graves los plazos de prescripción no serán inferiores a tres años.
 
 > <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -2061,9 +2093,11 @@ Habrá en el Estado, una Secretaría de Finanzas y Administración a quien corre
 
 La Auditoría Superior de Michoacán, como Órgano Técnico del Congreso del Estado, tendrá autonomía técnica y de gestión en el ejercicio de sus atribuciones y decidirá sobre su organización interna, funcionamiento y resoluciones, en los términos que disponga la Ley.
 
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2006)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA ESTA CONSTITUCION.</small>
 
-La Auditoría Superior de Michoacán revisará, fiscalizará y evaluará la gestión de los poderes del Estado, de los ayuntamientos y de todas las demás entidades públicas estatales y municipales que manejen fondos públicos, aún de aquellos organismos que por disposición de la ley se consideren autónomos, bajo los principios de legalidad, celeridad, eficiencia, eficacia, calidad de servicio, vigilancia y fiscalización.
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2011)</small>
+
+La Auditoría Superior de Michoacán revisará, fiscalizará y evaluará la gestión de los poderes del Estado, de los ayuntamientos y de todas las demás entidades públicas estatales y municipales que manejan fondos públicos, y de aquellos organismos que por disposición de ley se consideren autónomos, así como cualquier entidad, persona física o moral, pública o privada, y los transferidos a fideicomisos, mandatos, fondos o cualquier otra figura jurídica, de conformidad con los procedimientos establecidos en las leyes, bajo los principios de legalidad, celeridad, eficiencia, eficacia, calidad en el servicio, vigilancia, fiscalización técnica oportuna, imparcialidad, confiabilidad, definitividad, en forma simultánea, anual, posterior, externa, independiente y autónoma.
 
 > <small>(REFORMADO, P.O. 7 DE MARZO DE 2003)</small>
 
@@ -2071,9 +2105,11 @@ La Auditoría Superior de Michoacán revisará, fiscalizará y evaluará la gest
 
 La Auditoría Superior de Michoacán tendrá a su cargo:
 
-> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2006)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA ESTA CONSTITUCIÓN.</small>
 
-I. Fiscalizar los ingresos y egresos; el manejo, la custodia y la aplicación de fondos y recursos de las entidades a que se refiere el artículo anterior;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2011)</small>
+
+I. Fiscalizar los ingresos, egresos, patrimonio, deuda y el manejo, la custodia y la aplicación de fondos y recursos de las entidades a que se refiere el artículo anterior, así como realizar auditorías sobre el desempeño en el cumplimiento de los objetivos contenidos en los programas, subprogramas, obras y acciones;
 
 > <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2006)</small>
 
@@ -2107,7 +2143,17 @@ La Auditoría Superior de Michoacán, la Comisión de Vigilancia de la Auditorí
 
 El Poder Ejecutivo del Estado y los ayuntamientos aplicarán el procedimiento administrativo de ejecución para el cobro de las indemnizaciones y sanciones pecuniarias.
 
-El Congreso del Estado designará al titular de la Auditoría Superior de Michoacán con el voto de las dos terceras partes de los diputados presentes. La ley determinará el procedimiento para esta designación. El auditor general durará en su encargo cuatro años y podrá ser nombrado nuevamente hasta en dos ocasiones; podrá ser removido por el Congreso por causas que señale la ley, siempre con la misma votación requerida para su nombramiento.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA ESTA CONSTITUCIÓN.</small>
+
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2011)</small>
+
+El Congreso del Estado designará al Titular de la Auditoría Superior de Michoacán con el voto de las dos terceras partes de los diputados presentes. El Congreso del Estado emitirá convocatoria pública, a efecto de recibir propuestas de aspirantes a ocupar este cargo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA ESTA CONSTITUCION.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE MARZO DE 2011)</small>
+
+El Auditor Superior del Estado de Michoacán, durará en su encargo siete años y deberá contar con experiencia de cinco años en materia de control, auditoría financiera y de responsabilidades.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE AGOSTO DE 2006)</small>
 
@@ -3156,3 +3202,43 @@ Publíquese el presente Decreto en el Periódico Oficial del Gobierno Constituci
 ###### ARTÍCULO SEGUNDO.
 
 Remítase el presente Decreto a los ayuntamientos del Estado para que emitan el resultado de su votación, dentro del término de un mes, después de su notificación, en los términos de la fracción IV del Artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+
+P.O. 1 DE MARZO DE 2011.
+
+DECRETO NUMERO 248, POR EL QUE SE REFORMA EL SEGUNDO PARRAFO DEL ARTICULO 133; FRACCION I Y ULTIMO PARRAFO DE LA FRACCION X DEL ARTICULO 134. SE ADICIONA UN CUARTO PARRAFO A LA FRACCION XI DEL ARTICULO 44 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACAN DE OCAMPO.
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, para su conocimiento general y efectos legales procedentes.
+
+###### ARTÍCULO SEGUNDO.
+
+Remítase a los ayuntamientos del Estado, el presente Decreto, para que, en los términos de la fracción IV del Artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, después de recibida, envíen al Congreso del Estado el resultado de su votación.
+
+###### ARTÍCULO TERCERO.
+
+Aprobado por la mayoría de los ayuntamientos, el presente Decreto entrará en vigor a los noventa días hábiles siguientes de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO CUARTO.
+
+El Congreso del Estado deberá aprobar las reformas necesarias para dar cumplimiento a lo dispuesto en el presente Decreto, a más tardar en un plazo de noventa días, contados a partir de la fecha de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 1 DE MARZO DE 2011.
+
+DECRETO NUMERO 263, POR EL QUE SE REFORMAN LOS ARTICULOS 44 FRACCION XXVI, 104, 105, 106, 107, 108, 109 Y 110 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACAN DE OCAMPO.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto a los ayuntamientos del Estado para que emitan el resultado de su votación, dentro del término de un mes, después de su notificación, en los términos de la fracción IV del Artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Una vez aprobado el presente Decreto por la mayoría de los ayuntamientos, notifíquese al Titular del Poder Ejecutivo del Estado, para su conocimiento y publicación respectiva en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO TERCERO.
+
+El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO CUARTO.
+
+Los procedimientos que hasta la entrada en vigor del presente Decreto se encuentren en sustanciación jurisdiccional, se sujetarán a las disposiciones constitucionales y legales vigentes, hasta su total conclusión.
