@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-de-la-defensoria-legal-del-estado-8147"
 country: "mx"
 rank: "reglamento"
 publication_date: "1982-02-02"
-last_updated: "2010-11-05"
+last_updated: "2011-03-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8147&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "YUC"
 
 REGLAMENTO DE LA DEFENSORIA LEGAL DEL ESTADO
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO Y SEPTIMO TRANSITORIOS DE LA LEY DEL INSTITUTO DE DEFENSA PUBLICA DEL ESTADO DE YUCATAN, PUBLICADA EN EL D.O. DE 5 DE NOVIEMBRE DE 2010. EL PRESENTE ORDENAMIENTO QUEDARA SIN VIGENCIA DE MANERA SIMULTANEA A LA ENTRADA EN VIGOR DE LA LEY.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO, DE LA LEY DEL INSTITUTO DE DEFENSA PUBLICA DEL ESTADO DE YUCATAN, EL PRESENTE ORDENAMIENTO QUEDARA SIN VIGENCIA HASTA EN TANTO NO ENTRE EN VIGOR EL SISTEMA PROCESAL PENAL ACUSATORIO Y ORAL Y SE PUBLIQUE LA DECLARATORIA A QUE HACE REFERENCIA EL TRANSITORIO SEGUNDO DEL DECRETO MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS, EL REGLAMENTO DE LA DEFENSORIA LEGAL DEL ESTADO Y LAS DEMAS DISPOSICIONES LEGALES APLICABLES CONTINUARAN VIGENTES EN LOS DEPARTAMENTOS JUDICIALES DEL ESTADO; EN CONSECUENCIA, DICHO REGLAMENTO Y DEMAS DISPOSICIONES APLICABLES A LA DEFENSA LEGAL, QUEDARAN ABROGADOS UNA VEZ QUE EL CODIGO PENAL ENTRE EN VIGOR EN TODO EL TERRITORIO DEL ESTADO Y SE CONCLUYAN LOS PROCEDIMIENTOS INICIADOS CONFORME A LO PREVISTO EN LA ANTERIOR LEY PENAL ADJETIVA.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 5 DE NOVIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 1 DE MARZO DE 2011.
 
 Reglamento publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el martes 2 de febrero de 1982.
 
@@ -275,7 +275,7 @@ D) - Por solicitar o aceptar dádivas o remuneración alguna de sus defensos o p
 
 E) - Por infringir alguna otra disposición contenida en el presente Reglamento.
 
-###### ARTICULO 26o
+###### ARTICULO 26o.
 
 Se prohíbe a los Trabajadores Sociales de la Defensoría Legal:
 
@@ -364,3 +364,9 @@ El Gobernador del Estado deberá expedir el Reglamento de esta Ley, a más tarda
 ###### ARTÍCULO OCTAVO.
 
 Los asuntos que a la entrada en vigor de esta Ley estén a cargo de la Dirección de la Defensoría Legal del Estado, quedarán a cargo del Instituto de Defensa Pública del Estado.
+
+D.O. 1 DE MARZO DE 2011.
+
+###### ARTÍCULO ÚNICO.
+
+Este Decreto entrará en vigor el día de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
