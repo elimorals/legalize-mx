@@ -4,7 +4,7 @@ identifier: "MIC-codigo-penal-del-estado-de-michoacan-5945"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-07-07"
-last_updated: "2010-12-08"
+last_updated: "2011-03-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5945&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MIC"
 ---
 # CODIGO PENAL DEL ESTADO DE MICHOACAN
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 3 DE JUNIO DE 2011 EN EL P.O. DEL ESTADO DE MICHOACAN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 CODIGO PENAL DEL ESTADO DE MICHOACAN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE MARZO DE 2011.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Michoacán, el lunes 7 de julio de 1980.
 
@@ -807,9 +809,11 @@ Siempre que el beneficiado con la libertad condicional revele nuevamente peligro
 
 Los reos que gocen del beneficio de la libertad condicional, quedarán bajo el cuidado y vigilancia de la Dirección de Prevención y Readaptación Social del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE MAYO DE 2009)</small>
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 3 DE JUNIO DE 2011 EN EL P.O. DEL ESTADO DE MICHOACAN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
-Artículo 76 bis.- La libertad condicional no se concederá a los sentenciados por los delitos de: homicidio culposo en agravio de dos o más personas, cometido por conductores de transporte de pasajeros o de carga, de servicio público o concesionado por autorización, permiso o licencia de autoridades competentes, artículo 57; homicidio en perjuicio de prisioneros, consumado en el tipo de rebelión, por jefes o agentes de gobierno y rebeldes, artículo 108; rebelión, ejecutado por extranjeros, artículo 109; evasión de presos, en el supuesto de que el sujeto activo facilite, al mismo tiempo o en un solo acto, la evasión de una o varias personas privadas de su libertad por la autoridad competente, por delito grave, artículo 120; delincuencia organizada, artículo 132; ataques a las vías de comunicación en la modalidad de destrucción e inutilización de un campo de aviación particular o del Estado y para realizar las conductas de que habla el citado precepto se valga de explosivos, artículo 137, fracción VIII y último párrafo; incendio de un vehículo del servicio público ocupado por una o más personas, artículo 138; terrorismo, artículo 158; corrupción de personas menores de edad o de personas que no tiene capacidad para comprender el significado del hecho, artículo 162; pornografía y turismo sexual de personas menores de edad o de personas que no tienen capacidad para comprender el significado de hecho, artículos 164 y 165; lenocinio y trata de personas, artículos 167, 168 y 168 Bis; tortura, artículos 186 A y 186 B; falsificación de documentos y uso de documentos falsos, artículo 203 bis; incesto, artículo 220; secuestro, artículo 228; tráfico de personas, sus miembros y órganos, artículo 229 bis; extorsión, artículos 236 y 236 bis; asalto, artículos 237 y 238; violación, artículo 240; abusos deshonestos perpetrados en la hipótesis normativa consistente en la introducción, por medio de la violencia física o moral, por motivo de actos eróticos o cualquier otra causa, por vía anal o vaginal, de cualquier elemento o instrumento diferente al miembro viril, o cuando sin emplearse la violencia el ofendido no estuviere en posibilidades de resistir la conducta delictuosa, artículo 246; homicidio simple intencional, artículo 264; homicidio en riña o duelo, artículo 265; homicidio calificado, ejecutado con las agravantes contempladas en el artículo 279, artículo 267; lesiones perpetradas dolosamente, artículo 270, fracciones IV y V; lesiones dolosas que pongan en peligro la vida, artículo 271; parricidio, artículo 283; filicidio, artículo 283 bis; robo perpetrado con las calificativas contenidas en el artículo 303 fracciones I, IV, V, VII, VIII y X; abigeato, previsto en los artículos 312 fracciones II y III y 313; despojo cometido por dos o más personas, únicamente por lo que respecta a los autores intelectuales y a quienes dirijan la ejecución del injusto penal, artículo 330, fracción IV segundo párrafo; daño en las cosas por incendio, inundación o explosión, artículo 334; y delitos contra la ecología, artículo 347 fracciones II y III y 348; todos de este Código; así como a los habituales o a quienes hubieren incurrido en segunda reincidencia.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE MARZO DE 2011)</small>
+
+Artículo 76 bis.- La libertad condicional no se concederá a los sentenciados por los delitos de: homicidio culposo en agravio de dos o más personas, cometido por conductores de transporte de pasajeros o de carga, de servicio público, o concesionado por autorización, permiso o licencia de autoridades competentes, artículo 57; homicidio en perjuicio de prisioneros, consumado en el tipo de rebelión, por jefes o agentes de gobierno y rebeldes, artículo 108; rebelión, ejecutado por extranjeros, artículo 109; evasión de presos, en el supuesto de que el sujeto activo facilite, al mismo tiempo o en un solo acto, la evasión de una o varias personas privadas de su libertad por la autoridad competente, por delito grave, artículo 120; delincuencia organizada, artículo 132; ataques a las vías de comunicación en la modalidad de destrucción e inutilización de un campo de aviación particular o del Estado y para realizar las conductas de que habla el citado precepto se valga de explosivos, artículo 137, fracción VIII y último párrafo; incendio de un vehículo del servicio público ocupado por una o más personas, artículo 138; terrorismo, artículo 158; corrupción de personas menores de edad o de personas que no tiene capacidad para comprender el significado del hecho, artículo 162; pornografía y turismo sexual de personas menores de edad o de personas que no tienen capacidad para comprender el significado de hecho, artículos 164 y 165; lenocinio y trata de personas, artículos 167, 168 y 168 Bis; falsificación de documentos y uso de documentos falsos, artículo 203 bis; incesto, artículo 220; secuestro, artículo 228; tráfico de personas, sus miembros y órganos, artículo 229 bis; extorsión, artículo 236 bis; asalto, artículos 237 y 238; violación, artículo 240; abusos deshonestos perpetrados en la hipótesis normativa consistente en la introducción, por medio de la violencia física o moral, por motivo de actos eróticos o cualquier otra causa, por vía anal o vaginal, de cualquier elemento o instrumento diferente al miembro viril, o cuando sin emplearse la violencia el ofendido no estuviere en posibilidades de resistir la conducta delictuosa, artículo 246; homicidio simple intencional, artículo 264; homicidio en riña o duelo, artículo 265; homicidio calificado, ejecutado con las agravantes contempladas en el artículo 279, artículo 267; lesiones perpetradas dolosamente, artículo 270, fracciones IV y V; lesiones dolosas que pongan en peligro la vida, artículo 271; parricidio, artículo 283; filicidio, artículo 283 bis; robo perpetrado con las calificativas contenidas en el artículo 303 fracciones I, IV, V, VII, VIII, X y XI en relación a las modalidades establecidas en el primero y segundo párrafos; abigeato, previsto en los artículos 312 fracción III y 313; despojo cometido por dos o más personas, únicamente por lo que respecta a los autores intelectuales y a quienes dirijan la ejecución del injusto penal, artículo 330, fracción IV segundo párrafo; daño en las cosas por incendio, inundación o explosión, artículo 334; y delitos contra la ecología, artículo 347 fracciones II y III y 348; todos de este Código; así como a los habituales o a quienes hubieren incurrido en segunda reincidencia.
 
 > <small>(REFORMADO, P.O. 6 DE JULIO DE 2004)</small>
 
@@ -3255,9 +3259,9 @@ II. El objeto del robo sea un expediente o algún documento de protocolo, oficin
 
 III. Se comete aprovechando alguna relación de servicio, de trabajo o de hospitalidad;
 
-> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2011)</small>
 
-IV. Se cometa en un paraje solitario o estando la víctima en un vehículo particular o de transporte público o se cometa en un lugar cerrado o en edificio, vivienda, aposento, casa habitación o cualquier dependencia de ella, cuarto o cualquier lugar destinado para habitación, incluyendo en esta denominación no solo los que estén fijos en la tierra sino también los movibles, sea cual fuere la materia de que estén construidos y que se encuentre habitado en el momento del robo, independientemente de la cuantía, haya o no violencia en las personas;
+IV. Se cometa en un paraje solitario o estando la víctima en un vehículo particular o de transporte público, vivienda, aposento, casa habitación o cualquier dependencia de ella, cuarto o cualquier lugar destinado para habitación, incluyendo en esta denominación no solo los que estén fijos en la tierra sino también los movibles, sea cual fuere la materia de que estén construidos y que se encuentre habitado en el momento del robo, independientemente de la cuantía, haya o no violencia en las personas;
 
 V. Se comete aprovechando la falta de vigilancia, el deshorden (sic) o confusión que se produzcan por un incendio, naufragio, inundación, accidentes del tránsito de vehículos o aeronaves u otros siniestros;
 
@@ -3273,15 +3277,25 @@ VII. Se ejecute con intervención de dos o más personas o una o varias personas
 
 VIII. El objeto del robo sea cualquier vehículo de motor estacionado en la vía pública o en lugar destinado a su guarda o reparación, sobre parte de él u objetos guardados en su interior;
 
-> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2011)</small>
 
-IX. Se cometa en huertos, plantaciones o sementeras agrícolas; y,
+IX. Se cometa en huertos, plantaciones o sementeras agrícolas;
 
-> <small>(ADICIONADA, P.O. 3 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2011)</small>
 
-X. Cuando participen una o más personas que pertenezcan o hayan pertenecido a corporaciones policiacas de cualquier índole o a las fuerzas armadas.
+X. Cuando participen una o más personas que pertenezcan o hayan pertenecido a corporaciones policíacas de cualquier índole o a las fuerzas armadas; y,
 
-En los casos previstos en las fracciones I, IV, VII, VIII y X de este artículo, la sanción aplicable al robo simple se aumentará hasta diez años de prisión y multa de cien a mil días de salario. En los demás casos de este artículo las sanciones correspondientes al robo simple se aumentarán con prisión hasta de cinco años y multa de diez a cien días de salario.
+> <small>(ADICIONADA, P.O. 1 DE MARZO DE 2011)</small>
+
+XI. Se cometa en un lugar cerrado teniendo o no acceso al público, en edificio o establecimiento comercial o de servicios.
+
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2011)</small>
+
+En los casos previstos en las fracciones I, IV, VII, VIII, X y XI de este artículo, la sanción aplicable al robo simple se aumentará hasta diez años de prisión y multa de cien a mil días de salario mínimo general vigente. En los demás casos de este artículo las sanciones correspondientes al robo simple se aumentarán con prisión hasta de cinco años y multa de diez a cien días de salario.
+
+> <small>(ADICIONADO, P.O. 1 DE MARZO DE 2011)</small>
+
+En caso de la fracción XI de este artículo, se considerará grave cuando el monto de lo robado excede de lo dispuesto en la fracción II del artículo 300 de esta Ley.
 
 > <small>(REFORMADO, P.O. 3 DE AGOSTO DE 1998)</small>
 
@@ -4002,3 +4016,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 8 DE DICIEMBRE DE 2010.
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 1 DE MARZO DE 2011.
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
