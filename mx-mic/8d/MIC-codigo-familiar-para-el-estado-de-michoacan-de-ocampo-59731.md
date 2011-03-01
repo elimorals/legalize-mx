@@ -4,7 +4,7 @@ identifier: "MIC-codigo-familiar-para-el-estado-de-michoacan-de-ocampo-59731"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-02-11"
-last_updated: "2010-11-09"
+last_updated: "2011-03-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59731&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CODIGO FAMILIAR PARA EL ESTADO DE MICHOACAN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE NOVIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE MARZO DE 2011.
 
 Código publicado en el Periódico Oficial del Estado de Michoacán, el lunes 11 de febrero de 2008.
 
@@ -2193,19 +2193,21 @@ III. A percibir la porción hereditaria y los alimentos que fije la Ley.
 
 #### Sección Primera. Disposiciones generales
 
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2011)</small>
+
 ###### Artículo 372.
 
-El mayor de veinticinco años, libre de matrimonio, en pleno ejercicio de sus derechos, puede adoptar uno o más menores o a un incapacitado, aún cuando éste sea mayor de edad, siempre que el adoptante tenga diecisiete años más que el adoptado y que acredite además:
+Puede adoptar el mayor de veinticinco años, libre de matrimonio, en pleno ejercicio de sus derechos. Deberá mediar no menos de diecisiete ni más de cuarenta y cinco años de edad entre adoptado y adoptante.
 
-I. Que tiene medios bastantes para proveer a la subsistencia, la educación y el cuidado de la persona que trata de adoptarse, como hijo propio, según las circunstancias de la persona que trata de adoptar;
+Para efectos de lo dispuesto en el presente artículo el adoptante deberá acreditar:
 
-II. Que la adopción es benéfica para la persona que trata de adoptarse; y,
+I. Que tiene medios bastantes para proveer a la subsistencia, la educación y el cuidado de la persona que trata de adoptarse; y,
 
-III. Que el adoptante acredite su aptitud física y psicológica.
+II. Su aptitud física, psicológica, social y económica.
 
-Los anteriores requisitos serán acreditados por constancias periciales emitidas, preferencialmente, por el Consejo Técnico de Adopción.
+Para acreditar los anteriores requisitos, el adoptante en una sola exhibición presentará los elementos de prueba emitidos por instituciones del sector público o privado, que serán valoradas por el Consejo Técnico de Adopción, y emita el dictamen correspondiente dentro de un plazo que no exceda de 30 días hábiles, contados a partir del día siguiente en que se presentaron.
 
-Cuando circunstancias especiales lo aconsejen, el Juez puede autorizar la adopción de dos o más incapacitados o de menores e incapacitados simultáneamente.
+En todo momento, el Consejo Técnico de Adopción cuidará que la adopción sea benéfica para la persona que trata de adoptarse.
 
 ###### Artículo 373.
 
@@ -2237,19 +2239,33 @@ I. El que ejerce la patria potestad sobre el menor que se trata de adoptar;
 
 II. El tutor del que se va a adoptar;
 
-III. El Ministerio Público del lugar del domicilio del adoptado, cuando éste no tenga padres conocidos, ni tutor;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2011)</small>
 
-IV. El menor si tiene más de doce años; y,
+III. La Procuraduría de la Defensa del Menor y la Familia, con el carácter de representante del menor de edad; cuando éste no tenga padres conocidos, ni tutor; y
 
-V. El Consejo Técnico de Adopción, del Sistema para el Desarrollo Integral de la Familia Michoacana, y en su caso, las instituciones de asistencia social públicas o privadas que hubieren acogido al menor o incapacitado que se pretenda adoptar.
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2011)</small>
 
-En todos los asuntos de adopción serán escuchados los menores atendiendo a su edad y circunstancias personales. En el caso de las personas incapacitadas, será necesario su consentimiento, siempre y cuando fuese posible la expresión indubitable de su voluntad.
+IV. El Menor de edad si tiene más de doce años;
 
-La persona que haya acogido al menor dentro de los seis meses anteriores a la solicitud de su adopción y lo trate como a un hijo, podrá oponerse a la adopción, debiendo exponer los motivos en que se funde su oposición.
+V. (DEROGADA, P.O. 1 DE MARZO DE 2011)
+
+> <small>(ADICIONADO, P.O. 1 DE MARZO DE 2011)</small>
+
+Además deberá consentir el Consejo Técnico de Adopción.
+
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2011)</small>
+
+En todos los asuntos de adopción serán escuchados los menores atendiendo a su edad y circunstancias personales. En el caso de las personas con discapacidad, será necesario su consentimiento, siempre y cuando fuese posible la expresión indubitable de su voluntad.
+
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2011)</small>
+
+La persona que haya acogido al menor de edad dentro de los seis meses anteriores a la solicitud de su adopción y lo trate como a un hijo, podrá oponerse a la adopción, debiendo exponer los motivos en que se funde su oposición.
+
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2011)</small>
 
 ###### Artículo 378.
 
-Si el tutor, el Ministerio Público o el Consejo Técnico de Adopción no consienten en la adopción, deberán expresar la causa que se funden, la que el Juez calificará tomando en cuenta el interés superior del menor o incapacitado.
+Si el tutor, la Procuraduría de la Defensa del Menor y la Familia o el Consejo Técnico de Adopción no consienten en la adopción, deberán expresar la causa en que se funden, la que el Juez calificará tomando en cuenta el interés superior del menor de edad.
 
 ###### Artículo 379.
 
@@ -2259,17 +2275,25 @@ El procedimiento de la adopción será fijado en el Libro Segundo de este Códig
 
 Una vez que quede firme la resolución judicial que autorice una adopción, ésta quedará consumada.
 
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2011)</small>
+
 ###### Artículo 381.
 
-El Juez de Primera Instancia que autorice una adopción enviará al Oficial del Registro Civil del lugar, copia certificada de las diligencias respectivas, para que levante el acta.
+El Juez que apruebe la adopción enviará dentro del término de ocho días hábiles, copia certificada de la sentencia, al Sistema para el Desarrollo Integral de la Familia, Michoacán, para que realice el seguimiento de la adopción, cada seis meses por un período no menor de dos años, a partir de la fecha en que se otorgó la adopción.
+
+> <small>(ADICIONADO, P.O. 1 DE MARZO DE 2011)</small>
+
+Artículo 381 BIS. El Juez que conozca del procedimiento de adopción podrá como medida provisional otorgar a los futuros adoptantes, el acogimiento del menor de edad, hasta en tanto se dicte la sentencia de adopción correspondiente.
 
 #### Sección Segunda. De los efectos de la adopción
+
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2011)</small>
 
 ###### Artículo 382.
 
 La adopción es irrevocable.
 
-El adoptado se equipara al hijo consanguíneo para todos los efectos legales, incluyendo los impedimentos de matrimonio. El adoptado tiene en la familia del o los adoptantes los mismos derechos, deberes y obligaciones del hijo consanguíneo.
+La persona adoptada se equipara al hijo consanguíneo para todos los efectos legales, incluyendo los impedimentos de matrimonio. La persona adoptada tiene en la familia del o los adoptantes los mismos derechos y obligaciones del hijo consanguíneo.
 
 ###### Artículo 383.
 
@@ -2471,21 +2495,27 @@ II. Con la emancipación derivada del matrimonio; y,
 
 III. Por la mayor edad del hijo.
 
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2011)</small>
+
 ###### Artículo 418.
 
-La patria potestad se pierde:
+La patria potestad se pierde cuando quien la ejerce:
 
-I. Cuando el que la ejerza es condenado expresamente a la pérdida de ese derecho, o cuando es condenado dos o más veces por delitos graves;
+I. Es privado de ese derecho mediante resolución judicial;
 
-II. En los casos de divorcio teniendo en cuenta lo que dispone el artículo 268;
+II. Es condenado dos o más veces por delitos graves;
 
-III. Cuando las costumbres depravadas de los padres, malos tratamientos o abandono de sus deberes, pudieran comprometer la salud, la seguridad o la moralidad de los hijos, aún cuando esos hechos no cayeren bajo la sanción de la Ley penal;
+III. Realice cualquier acción que, valorada por especialistas en la materia, atente contra la integridad, seguridad, desarrollo físico, psicológico, emocional o social del menor de edad;
 
-IV. Por la exposición que el padre o la madre hagan de sus hijos, o porque los dejen abandonados por más de noventa días, siempre que ello pueda comprometer la salud, la seguridad o la moralidad de los hijos;
+IV. Exponga o abandone al menor de edad, siempre que ello pueda comprometer su salud o seguridad.
 
-V. Por incumplimiento de la obligación alimentaria por más de noventa días, sin causa justificada; y,
+También se perderá la patria potestad de los acogidos por alguna persona o depositados en establecimientos de beneficencia, a menos que el acogimiento o depósito sobrevenga por caso fortuito o fuerza mayor.
 
-VI. Por cometer conductas de violencia familiar en contra de quien se ejerce la patria potestad; para los efectos de esta fracción se entiende por violencia familiar lo dispuesto por el artículo 308 de este Código.
+V. Realice conductas de violencia familiar según lo dispuesto en este Código; y,
+
+VI. Se excuse de ella y manifieste la intención de dar en adopción al menor de edad, entregándolo al Sistema Estatal para el Desarrollo Integral de la Familia, Michoacán.
+
+El Sistema Estatal para el Desarrollo Integral de la Familia, Michoacán, ejercerá la tutela de los menores de edad a que se refiere este artículo.
 
 ###### Artículo 419.
 
@@ -2545,9 +2575,15 @@ Durante el trámite respectivo, se designará tutor especial al menor.
 
 ### Capítulo Único. De la convivencia
 
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2011)</small>
+
 ###### Artículo 428.
 
-Los que ejercen la patria potestad, aun cuando no tengan la custodia, tienen el derecho de convivencia con sus descendientes, salvo que exista peligro para éstos. El derecho a la convivencia comprende a los progenitores y ascendientes en línea recta ascendente y descendente en primer grado, en su caso.
+Los que ejercen la patria potestad, aún cuando no tengan la custodia, tienen el derecho de convivencia con sus descendientes. Este derecho también comprende a los ascendientes y colaterales en primer grado, en su caso. En ambos supuestos, salvo que exista riesgo para el menor de edad.
+
+Quien ejerza la patria potestad, debe procurar el respeto y el acercamiento constante de los menores de edad con el otro ascendiente que también ejerza la patria potestad. En consecuencia, cada uno de los sujetos del derecho de convivencia, debe evitar cualquier acto de manipulación y alineación parental encaminada a producir en el menor de edad, rencor o rechazo hacia el otro progenitor, so pena de suspendérsele en su derecho de convivencia.
+
+El juez de lo familiar podrá decretar el cambio de custodia de los menores de edad previo el procedimiento respectivo, cuando quien tenga decretada judicialmente la custodia provisional o definitiva sobre ellos, realice conductas reiteradas para evitar la convivencia de los menores con la persona o personas que tengan parentesco consanguíneo en línea recta ascendente.
 
 ###### Artículo 429.
 
@@ -2571,15 +2607,19 @@ II. A su actividad escolar, si la tuviere; y,
 
 III. A sus condiciones y necesidades particulares.
 
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2011)</small>
+
 ###### Artículo 433.
 
-La determinación judicial en torno a la convivencia puede ser objeto de modificación atendiendo a las circunstancias particulares de cada caso.
+La determinación judicial en torno a la convivencia puede ser objeto de modificación atendiendo a las circunstancias particulares de cada caso, debiendo garantizarse la expresión libre del menor de edad antes de resolver, con la asistencia de profesionales.
 
-Sin embargo, la oposición del menor a la convivencia no será determinante para la resolución que llegare a pronunciarse.
+> <small>(ADICIONADO, P.O. 1 DE MARZO DE 2011)</small>
 
 ###### Artículo 434.
 
 Sin embargo, la oposición del menor a la convivencia no será determinante para la resolución que llegare a pronunciarse.
+
+La oposición del menor a la convivencia deberá ser atendida por el Juez con la debida asistencia profesional.
 
 ## Título Décimo Segundo
 
@@ -3031,13 +3071,25 @@ El tutor del incapacitado que tenga hijos menores bajo su patria potestad, será
 
 ### Capítulo V. De la tutela legítima de los menores abandonados y de los acogidos por alguna persona o depositados en establecimientos de beneficencia
 
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2011)</small>
+
 ###### Artículo 517.
 
-Los expósitos quedan legalmente bajo tutela de la persona que los haya acogido, quien tendrá las obligaciones, facultades y restricciones establecidas para los demás tutores.
+El Sistema para el Desarrollo Integral de la Familia, Michoacán podrá desempeñar el cargo de tutor de forma directa e institucional:
+
+I. De los expósitos; y,
+
+II. De los menores no sujetos a patria potestad o a tutela.
+
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2011)</small>
 
 ###### Artículo 518.
 
-Sin necesidad de discernimiento del cargo, los directores de las inclusas, hospicios y demás casas de beneficencia donde se reciban expósitos, desempeñarán la tutela de éstos con arreglo a las leyes y a los estatutos del establecimiento.
+Sin necesidad de discernimiento del cargo, los directores de las instituciones públicas y privadas, y demás casas de beneficencia donde se reciban expósitos, desempeñarán la tutela de éstos con arreglo a las leyes y a los estatutos del establecimiento.
+
+Cuando los establecimientos a que se refiere el párrafo anterior hayan recibido al expósito por acuerdo del Sistema para el Desarrollo Integral de la Familia, Michoacán, la tutela será ejercida por este último quien representará los intereses del menor o del incapaz, en los términos que establezcan este Código y demás disposiciones legales aplicables.
+
+Las instituciones públicas y privadas, tendrán la obligación de informar al Sistema para el Desarrollo Integral de la Familia, Michoacán, sobre los menores bajo su tutela para la integración del Banco de Datos.
 
 ### Capítulo VI. De la tutela dativa
 
@@ -5141,9 +5193,11 @@ Llevado a cabo el emplazamiento, el demandado contará con tres días para dar r
 
 Para los efectos de dar respuesta a la reconvención que llegara a plantearse, el que deba contestarla contará con tres días hábiles siguientes a la notificación.
 
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2011)</small>
+
 ###### Artículo 903.
 
-El término de prueba en el juicio sumario será de quince días hábiles.
+El término de prueba en el juicio sumario será de diez días hábiles.
 
 ###### Artículo 904.
 
@@ -5153,9 +5207,13 @@ No se admitirá ninguna otra prueba de las que ofrezcan las partes, fuera del pl
 
 No se concederá término supletorio ni extraordinario en el trámite del juicio sumario.
 
+> <small>(ADICIONADO, P.O. 1 DE MARZO DE 2011)</small>
+
 ###### Artículo 906.
 
 El plazo para presentar alegatos será de tres días hábiles comunes en el juicio sumario.
+
+Concluido el término para alegatos, el Juez dictará sentencia dentro de los siguientes cinco días hábiles.
 
 ### Capítulo III. Del juicio sumarísimo familiar
 
@@ -6073,21 +6131,27 @@ La venta de bienes indivisos pertenecientes a mayores y menores de edad, se har�
 
 ### Capítulo X. De la adopción
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE MARZO DE 2011)</small>
+
 ###### Artículo 1077.
 
-El que pretenda adoptar deberá acreditar los requisitos señalados por el artículo 372, debiéndose observar lo siguiente:
+El que pretenda adoptar deberá observar lo siguiente:
 
 I. En la promoción inicial se deberá manifestar:
 
-a. El tipo de adopción que se promueve;
+a. (DEROGADO, P.O. 1 DE MARZO DE 2011)
 
-b. El nombre, edad y si lo hubiere domicilio del menor o persona incapacitada que se pretende adoptar; y,
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2011)</small>
+
+b. El nombre, edad y si lo hubiere domicilio de la persona que se pretende adoptar;
 
 c. El nombre, edad y domicilio de quienes en su caso ejerzan sobre él la patria potestad o tutela, o de la persona o institución de asistencia social pública o privada que lo haya acogido.
 
-II. El solicitante deberá acompañar certificado médico de buena salud, expedido por institución pública;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2011)</small>
 
-III. Los estudios socioeconómicos y psicológicos necesarios para efectuar el trámite de adopción deberán realizarse preferentemente por el Consejo Técnico de Adopción del Sistema Estatal para el Desarrollo Integral de la Familia Michoacana;
+II. Acompañar certificado médico de buena salud, expedido por institución pública;
+
+III. (DEROGADA, P.O. 1 DE MARZO DE 2011)
 
 IV. Tratándose de extranjeros se deberá acreditar su legal estancia o residencia en el país;
 
@@ -6095,9 +6159,15 @@ V. El extranjero con residencia en otro país deberá presentar certificado de i
 
 VI. La documentación que presente el solicitante extranjero en idioma distinto al español, deberá acompañarse de la traducción oficial. La documentación correspondiente deberá estar apostillada o legalizada por el Cónsul Mexicano.
 
-###### Artículo 1078.
+> <small>(ADICIONADO, P.O. 1 DE MARZO DE 2011)</small>
 
-En todo trámite de adopción, deberá intervenir el Consejo Técnico de Adopción del Sistema para el Desarrollo Integral de la Familia Michoacana.
+Además el Juez deberá solicitar al Consejo Técnico de Adopción el dictamen correspondiente.
+
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2011)</small>
+
+###### ARTÍCULO 1078.
+
+En todo trámite de adopción, el Juez podrá oír los elementos de juicio que aporte el Consejo Técnico de Adopción, para su resolución, debiendo correrle traslado de la solicitud de adopción.
 
 ###### Artículo 1079.
 
@@ -6220,3 +6290,15 @@ P.O. 31 DE MARZO DE 2010.
 P.O. 9 DE NOVIEMBRE DE 2010.
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 1 DE MARZO DE 2011.
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Los procedimientos que hasta la entrada en vigor del presente Decreto se encuentren sustanciación jurisdiccional, se sujetarán a las disposiciones de la legislación vigente, hasta su total conclusión.
+
+TERCERO. El Sistema para el Desarrollo Integral de la Familia, Michoacán, dispondrán de ciento ochenta días hábiles contados a partir de la publicación del presente Decreto, para la integración del Banco de Datos de los Menores de Edad Acogidos.
+
+CUARTO. El informe que deberán rendir las instituciones públicas y privadas, contendrán los datos que determine al efecto el Sistema para el Desarrollo Integral de la Familia, Michoacán.
+
+QUINTO. El Titular del Poder Ejecutivo del Estado, deberá emitir los reglamentos correspondientes en un término de noventa días, contados a partir de la publicación del presente Decreto.
