@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-entidades-paraestatales-del-estado-de-michoacan-6041"
 country: "mx"
 rank: "ley"
 publication_date: "1992-03-30"
-last_updated: "2007-03-12"
+last_updated: "2011-03-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6041&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE ENTIDADES PARAESTATALES DEL ESTADO DE MICHOACAN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MARZO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE MARZO DE 2011.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Michoacán de Ocampo, el lunes 30 de marzo de 1992.
 
@@ -47,11 +47,11 @@ La presente Ley tiene por objeto regular la organización, funcionamiento y cont
 
 Las relaciones del Ejecutivo del Estado o de sus dependencias con las entidades paraestatales, en cuanto unidades auxiliares de la administración pública estatal, se sujetarán en primer término, a lo establecido en esta Ley y sus disposiciones reglamentarias y sólo en lo no previsto a otras disposiciones según la materia que corresponda.
 
-> <small>(REFORMADO, P.O. 12 DE MARZO DE 2007)</small>
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2011)</small>
 
 ###### ARTICULO 2o.
 
-Son entidades paraestatales las que se mencionan en el artículo 37 de la Ley Orgánica de la Administración Pública del Estado.
+Son entidades paraestatales las que se mencionan en el artículo 46 de la Ley Orgánica de la Administración Pública del Estado.
 
 ###### ARTICULO 3o.
 
@@ -67,11 +67,15 @@ Todas las entidades paraestatales del Gobierno del Estado de Michoacán de Ocamp
 
 Corresponde a los titulares de las dependencias del Ejecutivo, establecer políticas de desarrollo para las entidades del sector correspondiente, coordinar la programación y presupuestación, de conformidad, en su caso, con las asignaciones sectoriales de gasto y financiamiento previamente establecidas y autorizadas, conocer la operación y evaluar los resultados de las entidades paraestatales y las demás atribuciones que les conceda la ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE MARZO DE 2011)</small>
+
 ###### ARTICULO 6o.
 
-La Tesorería General, la Coordinación de Programación y Evaluación y la Contraloría General, tendrán miembros en los órganos de gobierno y en su caso, en los comités técnicos de las entidades paraestatales. También participarán las otras dependencias y entidades en la medida en que tengan relación con el objetivo de la entidad paraestatal de que se trate.
+La Secretaría de Finanzas y Administración, la Coordinación de Planeación para el Desarrollo y la Coordinación de Contraloría, tendrán miembros en los órganos de gobierno y en su caso, en los comités técnicos de las entidades paraestatales. También participarán las otras dependencias y entidades en la medida en que tengan relación con el objetivo de la entidad paraestatal de que se trate.
 
-Los representantes de las Secretarías y las entidades paraestatales, en las sesiones de los órganos de gobierno o de los comités técnicos en que intervengan, deberán pronunciarse sobre los asuntos que deban resolver dichos órganos o comités, de acuerdo con las facultades que les otorga la ley.
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2011)</small>
+
+Los integrantes de los órganos de gobierno o de los comités técnicos en que intervengan, deberán pronunciarse sobre los asuntos que deban resolver dichos órganos o comités, de acuerdo con las facultades que les otorga la ley.
 
 Las entidades paraestatales deberán enviar a sus miembros el orden del día, acompañado de la información y documentación correspondientes, que permitan el conocimiento de los asuntos que se vayan a tratar, para el adecuado ejercicio de su representación, con una antelación no menor de cinco días hábiles.
 
@@ -79,15 +83,21 @@ Las entidades paraestatales deberán enviar a sus miembros el orden del día, ac
 
 Las entidades paraestatales deberán proporcionar la información y datos que les soliciten las dependencias básicas del Ejecutivo Estatal.
 
-Para el cumplimiento de lo anteriormente establecido, la Contraloría General, junto con la Coordinación de Programación y Evaluación y la Tesorería General, harán compatibles los requerimientos de información que se demanden a las dependencias y entidades paraestatales.
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2011)</small>
+
+Para el cumplimiento de lo anteriormente establecido, la Secretaría de Finanzas y Administración junto con las Coordinaciones de Planeación para el Desarrollo y de Contraloría, harán compatibles los requerimientos de información que se demanden a las dependencias y entidades paraestatales.
+
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2011)</small>
 
 ###### ARTICULO 8o.
 
-Las entidades paraestatales gozarán de autonomía de gestión para el cabal cumplimiento de sus objetivos y metas señaladas en sus programas. Al efecto, contarán con una administración ágil y eficiente y se sujetarán a los sistemas de control establecidos en la presente Ley, en lo que no se opongan a ésta y a los demás que se relacionen con la administración pública estatal.
+Las entidades paraestatales gozarán de autonomía técnica y de gestión para el cabal cumplimiento de sus objetivos y metas señaladas en sus programas. Al efecto, contarán con una administración ágil, eficaz y eficiente y se sujetarán a los sistemas de control establecidos en la presente Ley y a los demás, que se relacionen con la administración pública estatal, en lo que no se opongan a ésta.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE MARZO DE 2011)</small>
 
 ###### ARTICULO 9o.
 
-La Coordinación de Programación y Evaluación, llevará un padrón de las entidades paraestatales que se creen o extingan.
+La Coordinación de Planeación para el Desarrollo, llevará un padrón de las entidades paraestatales que se creen o extingan.
 
 El titular del Poder Ejecutivo procederá a publicar el acuerdo o decreto respectivo, en el Periódico Oficial una vez que se creé, extinga o liquide una entidad.
 
@@ -129,13 +139,17 @@ IX. El régimen laboral a que se sujetarán las relaciones de trabajo.
 
 El órgano de gobierno deberá expedir el Reglamento interior, en el que se establezcan las bases de organización, así como las facultades y funciones que correspondan a las distintas áreas que integran el organismo.
 
-El Reglamento Interior deberá inscribirse en el Registro Público de organismos Descentralizados del Estado, que dependerá de la Coordinación de Programación y Evaluación.
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2011)</small>
+
+El Reglamento Interior deberá inscribirse en el Registro Público de Organismos descentralizados del Estado, que dependerá de la Coordinación de Planeación para el Desarrollo.
 
 En la extinción de los organismos, deberán observarse las mismas formalidades establecidas para su creación, debiendo la ley o decreto respectivo, fijar la forma y términos de su extinción y liquidación.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE MARZO DE 2011)</small>
+
 ###### ARTICULO 13.
 
-Cuando un organismo descentralizado creado por el Ejecutivo, deje de cumplir sus fines o su funcionamiento no resulte ya conveniente, desde el punto de vista de la economía del Estado o del interés público, la Coordinación de Programación y Evaluación, atendiendo la opinión de la dependencia coordinadora del sector que corresponda, propondrá al Ejecutivo del Estado la disolución, liquidación o extinción de aquel.
+Cuando un organismo descentralizado creado por el Ejecutivo, deje de cumplir sus fines o su funcionamiento no resulte ya conveniente, desde el punto de vista de la economía del Estado o del interés público, la Coordinación de Planeación para el Desarrollo atendiendo a la opinión de la dependencia coordinadora del sector que corresponda, propondrá al Ejecutivo del Estado la disolución, liquidación o extinción de aquel.
 
 Asimismo, podrá proponer su fusión cuando su actividad combinada redunde en un incremento de eficiencia y productividad.
 
@@ -143,9 +157,11 @@ Asimismo, podrá proponer su fusión cuando su actividad combinada redunde en un
 
 La administración de los organismos descentralizados estará a cargo de un órgano de gobierno, que podrá ser una junta de gobierno o su equivalente y un Director General.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE MARZO DE 2011)</small>
+
 ###### ARTICULO 15.
 
-El órgano de gobierno se integrará conforme a lo que establezca el respectivo instrumento de creación. Será presidido por el Gobernador del Estado, o por la persona que éste designe y asimismo, se integrará con un representante de la Contraloría, un representante de la Coordinación de Programación y Evaluación, uno de la Tesorería General y los representantes de las dependencias vinculadas con sus objetivos. Deberá procurarse que los miembros del órgano de gobierno pertenezcan a la administración pública estatal.
+El órgano de gobierno se integrará conforme a lo que establezca el respectivo instrumento de creación. Será presidido por el Gobernador del Estado, o por la persona que éste designe y asimismo, se integrará con un representante de la Coordinación de Contraloría, un representante de la Coordinación de Planeación para el Desarrollo, uno de la Secretaría de Finanzas y Administración y los representantes de las dependencias vinculadas con sus objetivos. Deberá procurarse que los miembros del órgano de gobierno pertenezcan a la Administración Pública Estatal.
 
 El cargo de miembro del órgano de gobierno, será estrictamente personal y no podrá desempeñarse por medio de representantes.
 
@@ -161,7 +177,9 @@ III. Las personas que tengan litigios pendientes con el organismo de que se trat
 
 IV. Las personas sentenciadas por delitos patrimoniales, las inhabilitadas para ejercer el comercio y para desempeñar un empleo, cargo o comisión en el servicio público; y
 
-V. Los diputados al Congreso del Estado.
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2011)</small>
+
+V. Los diputados al Congreso del Estado, salvo que siendo presidente de Comisión Legislativa relacionada con el tema, el documento de creación del órgano indique lo contrario, en cuyo caso tendrán derecho a voz, pero no a voto.
 
 ###### ARTICULO 17.
 
@@ -213,9 +231,11 @@ II. Presentar a consideración y aprobación en su caso, del órgano de gobierno
 
 Para acreditar la personalidad y facultades según el caso, de los miembros del órgano de gobierno, del Secretario, del Director General y de los Apoderados Generales de los organismos descentralizados, bastará una copia certificada de su nombramiento o una certificación de la inscripción del mandato en el Registro Público de Organismos Descentralizados del Estado.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE MARZO DE 2011)</small>
+
 ###### ARTICULO 22.
 
-Los organismos descentralizados deberán inscribirse y registrarse en el Registro Público de Organismos Descentralizados que llevará la Coordinación de Programación y Evaluación.
+Los organismos descentralizados deberán inscribirse y registrarse en el Registro Público de Organismos Descentralizados que llevará la Coordinación de Planeación para el Desarrollo.
 
 Los Directores Generales o quienes realicen funciones similares en los organismos descentralizados, que no solicitaren la inscripción aludida dentro de los treinta días siguientes a la fecha de su constitución o de sus modificaciones o reformas, serán responsables en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Michoacán.
 
@@ -231,7 +251,9 @@ III. Los nombramientos y sustituciones del Director General y en su caso, de los
 
 IV. Los poderes generales y sus revocaciones;
 
-V. El acuerdo de la Contraloría General del Estado y la Coordinación de Programación y Evaluación, que señalen las bases de la fusión, extinción o liquidación, de conformidad con las leyes o decretos que ordenen las mismas; y
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2011)</small>
+
+V. El acuerdo de las Coordinaciones de Contraloría y de Planeación para el Desarrollo, que señalen las bases de la difusión, extinción o liquidación, de conformidad con las leyes o decretos que ordenen las mismas; y,
 
 VI. Los demás documentos o actos que determine el Reglamento de este ordenamiento.
 
@@ -265,21 +287,27 @@ Las empresas en que participe de manera mayoritaria el Gobierno del Estado o una
 
 La organización, administración y vigilancia de las empresas de participación estatal mayoritaria, sin perjuicio de lo dispuesto en la legislación aplicable, deberán sujetarse a los términos que se consignan en este ordenamiento.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE MARZO DE 2011)</small>
+
 ###### ARTICULO 28.
 
-Cuando alguna empresa de participación estatal mayoritaria no cumpla con el objeto a que se contrae el artículo 26 de esta Ley, y ya no resulte conveniente conservarla como entidad paraestatal, desde el punto de vista de la economía del Estado, o del interés público, la Coordinación de Programación y Evaluación, atendiendo la opinión de la dependencia coordinadora del sector que corresponda, propondrá al Ejecutivo del Estado, la enajenación de la participación estatal o en su caso, su disolución o liquidación.
+Cuando alguna empresa de participación estatal mayoritaria no cumpla con el objeto a que se contrae el artículo 26 de esta Ley, y ya no resulte conveniente conservarla como entidad paraestatal, desde el punto de vista de la economía del Estado, o del interés público, la Coordinación de Planeación para el Desarrollo, atendiendo la opinión del Enlace y la dependencia coordinadora del sector que corresponda, propondrá al Ejecutivo del Estado, la enajenación de la participación estatal o en su caso, su disolución o liquidación.
 
 En los casos que se acuerde la enajenación en igualdad de condiciones y respetando los términos de las leyes y de los estatutos correspondientes, los trabajadores organizados de la empresa, tendrán preferencia para adquirir los títulos representativos del capital de los que sea titular el Gobierno del Estado.
 
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2011)</small>
+
 ###### ARTICULO 29.
 
-El Ejecutivo del Estado, por conducto de la Contraloría General y de las dependencias coordinadoras del sector, designará los servidores públicos que deban ejercer las facultades que impliquen la titularidad de las acciones o partes sociales que integren el capital social de las empresas de participación estatal mayoritaria.
+El Ejecutivo del Estado, por conducto de la Coordinación de Contraloría y de las dependencias coordinadoras del sector, designará los servidores públicos que deban ejercer las facultades que impliquen la titularidad de las acciones o partes sociales que integren el capital social de las empresas de participación estatal mayoritarias.
 
 ###### ARTICULO 30.
 
 Los consejos de administración o sus equivalentes de las entidades de participación estatal mayoritaria, se integrarán de acuerdo a sus estatutos y en lo que no se oponga a lo dispuesto por esta Ley.
 
-Los integrantes de dicho órgano de gobierno que representen la participación de la Administración Pública del Estado, además de aquellos a que se refiere el artículo 14 de este ordenamiento, serán designados por el titular del Ejecutivo Estatal, directamente o a través de la Contraloría General del Estado o de la Coordinación de Programación y Evaluación y deberán constituir en todo tiempo, más de la mitad de los miembros del Consejo, y serán servidores públicos de la Administración Pública Estatal, personas de reconocida calidad moral o prestigio, con experiencia respecto a las actividades propias de la empresa de que se trate.
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2011)</small>
+
+Los integrantes de dicho órgano de gobierno que representen la participación de la Administración Pública del Estado, además de aquellos a que se refiere el artículo 14 de este ordenamiento, serán designados por el Titular del Ejecutivo Estatal, directamente o a través de la Coordinación de Contraloría o de la Coordinación de Planeación para el Desarrollo y deberán constituir en todo tiempo, más de la mitad de los miembros del Consejo, y serán servidores públicos de la Administración Pública Estatal, personas de reconocida calidad moral o prestigio, con experiencia respecto a las actividades propias de la empresa de que se trate.
 
 ###### ARTICULO 31.
 
@@ -303,7 +331,9 @@ Para la designación, facultades, operación y responsabilidades de los órganos
 
 La fusión o disolución de las empresas de participación estatal mayoritaria, se efectuará conforme a los lineamientos o disposiciones establecidos en los estatutos de la empresa y legislación correspondiente. Asimismo, se requerirá previamente de autorización expresa del titular del Poder Ejecutivo.
 
-La dependencia coordinadora del sector que corresponda, en lo que no se oponga a su regulación específica y de conformidad a las normas establecidas al respecto por la Coordinación de Programación y Evaluación, intervendrá, a efecto de señalar la forma y términos en que deba efectuarse la fusión o disolución, debiendo cuidar en todo caso la adecuada protección de los intereses del público, de los accionistas o titulares de las acciones o partes sociales y los derechos laborales de los servidores públicos de la empresa.
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2011)</small>
+
+La dependencia coordinadora del sector que corresponda, en lo que no se oponga a su regulación específica y de conformidad a las normas establecidas al respecto por la Coordinación de Planeación para el Desarrollo, intervendrá, a efecto de señalar la forma y términos en que deba efectuarse la fusión o disolución, debiendo cuidar en todo caso la adecuada protección de los intereses del público, de los accionistas o titulares de las acciones o partes sociales y los derechos laborales de los servidores públicos de la empresa.
 
 ### CAPITULO IV. DE LOS FIDEICOMISOS PUBLICOS
 
@@ -321,11 +351,11 @@ No serán fideicomisos públicos y por lo tanto no les será aplicable la presen
 
 Los Comités Técnicos y los Directores Generales de los fideicomisos públicos que se establezcan en términos del primer párrafo del artículo 36 de la presente Ley, se sujetarán en cuanto a su integración, facultades y funcionamiento, a las disposiciones que en el Capítulo V de esta Ley, se establecen para los órganos de gobierno y para los Directores Generales, en cuanto sea compatible a su naturaleza.
 
-> <small>(REFORMADO, P.O. 12 DE MARZO DE 2007)</small>
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2011)</small>
 
 ###### ARTICULO 38.
 
-El Ejecutivo del Estado, a través de la Tesorería General, será el fideicomitente único de la Administración Pública Paraestatal quien cuidará que en los contratos que se celebren para constituir fideicomisos públicos en términos del primer párrafo del artículo 36 de la presente Ley, queden precisados los derechos y acciones que corresponda ejercitar al fiduciario sobre los bienes fideicomitidos, las limitaciones que establezcan o que se deriven de derechos de terceros, así como los derechos que el fideicomitente se reserve y las facultades que fije en su caso, el Comité Técnico, el cual deberá existir obligadamente en los fideicomisos públicos a que se refiere el primer párrafo del artículo 36 de esta Ley.
+El Ejecutivo del Estado, a través de la Secretaría de Finanzas y Administración, será el fideicomitente único de la Administración Pública Paraestatal quien cuidará que en los contratos que se celebren para constituir fideicomisos públicos en términos del primer párrafo del artículo 36 de la presente Ley, queden precisados los derechos y acciones que corresponda ejercitar al fiduciario sobre los bienes fideicomitidos, las limitaciones que establezcan o que se deriven de derechos de terceros, así como los derechos que el fideicomitente se reserve y las facultades que fije en su caso, el Comité Técnico, el cual deberá existir obligadamente en los fideicomisos públicos a que se refiere el primer párrafo del artículo 36 de esta Ley.
 
 > <small>(REFORMADO, P.O. 12 DE MARZO DE 2007)</small>
 
@@ -395,15 +425,19 @@ El programa institucional de la entidad paraestatal, se elaborará en los térmi
 
 Los presupuestos de las entidades paraestatales se formularán a partir de sus programas anuales, los que deberán contener la descripción detallada de objetivos, metas y unidades responsables de su ejecución y los elementos que permitan la evaluación sistemática de sus programas.
 
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2011)</small>
+
 ###### ARTICULO 48.
 
-En la formulación de sus presupuestos, la entidad paraestatal se sujetará a los lineamientos generales que en materia de gastos establezca la Coordinación de Programación y Evaluación, así como a los lineamientos específicos que define la Coordinadora de Sector. En el caso de compromisos derivados de compra o suministros que excedan el período anual del presupuesto, éste deberá contener la referencia precisa de esos compromisos con el objeto de contar con la perspectiva del desembolso a plazos mayores de un año.
+En la formulación de sus presupuestos, la entidad paraestatal se sujetará a los lineamientos generales que en materia de gastos establezca la Coordinación de Planeación para el Desarrollo, así como a los lineamientos específicos que define la Coordinación de Sector. En el caso de compromisos derivados de compra o suministros que excedan el período anual del presupuesto, éste deberá contener la referencia precisa de esos compromisos con el objeto de contar con la perspectiva del desembolso a plazos mayores de un año.
 
 ###### ARTICULO 49.
 
 La entidad paraestatal manejará y erogará sus recursos propios por medio de sus órganos.
 
-Por lo que toca a la percepción de subsidios y transferencias, los recibirá de la Tesorería General del Estado, en los términos que se fijen en los presupuestos de egresos anuales del Estado, debiendo manejarlos y administrarlos por sus propios órganos y sujetándose a los controles e informes respectivos, de conformidad con la legislación aplicable.
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2011)</small>
+
+Por lo que toca a la percepción de subsidios y transferencias, los recibirá de la Secretaría de Finanzas y Administración, en los términos que se fijen en los presupuestos de egresos anuales del Estado, debiendo manejarlos y administrarlos por sus propios órganos y sujetándose a los controles e informes respectivos, de conformidad con la legislación aplicable.
 
 ###### ARTICULO 50.
 
@@ -455,7 +489,9 @@ X. Autorizar la creación de comités de apoyo;
 
 XI. Nombrar y remover, a propuesta del Director General, a los servidores públicos de la entidad paraestatal, que ocupen cargos con altas jerarquías administrativas, inferiores a la de aquél, aprobar la fijación de sus sueldos y prestaciones, concederles licencias y las demás que señalen los estatutos;
 
-XII. Aprobar la constitución de reservas y aplicación de las utilidades de las empresas de participación estatal mayoritaria. En los casos de los excedentes económicos de los organismos descentralizados, proponer la constitución de reservas y su aplicación de acuerdo con la determinación que dicte el Ejecutivo del Estado, a través de la Coordinación de Programación;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2011)</small>
+
+XII. Aprobar la constitución de reservas y aplicación de las utilidades de las empresas de participación estatal mayoritaria. En los casos de los excedentes económicos de los organismos descentralizados, proponer la constitución de reservas y su aplicación de acuerdo con la determinación que dicte el Ejecutivo del Estado, a través de la Coordinación de Planeación para el Desarrollo;
 
 XIII. Establecer, con sujeción a las disposiciones legales relativas, sin intervención de cualquier otra dependencia, las normas y bases para la adquisición y arrendamiento de inmuebles, que la entidad paraestatal requiera para la prestación de sus servicios, con excepción de aquellos inmuebles de organismos descentralizados que la Ley del Patrimonio Estatal considere como del dominio público del Estado; e igualmente respecto a la enajenación de bienes. El Reglamento de la presente Ley, establecerá los procedimientos respectivos;
 
@@ -463,7 +499,9 @@ XIV. Analizar y aprobar en su caso, los informes periódicos que rinda el Direct
 
 XV. Acordar, con sujeción a las disposiciones legales relativas, los donativos de pagos extraordinarios y verificar que los mismos se apliquen precisamente para los fines señalados en las instrucciones de la coordinadora del sector correspondiente; y
 
-XVI. Aprobar las normas y bases para cancelar adeudos a cargo de terceros y a favor de la entidad paraestatal, cuando fuere notoria la imposibilidad de su cobro, informando a la Coordinación de Programación y Evaluación por conducto de la coordinadora del sector.
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2011)</small>
+
+XVI. Aprobar las normas y bases para cancelar adeudos a cargo de terceros ya favor de la entidad paraestatal, cuando fuere notoria la imposibilidad de su cobro, informando a la Coordinación de Planeación para el Desarrollo por conducto de la coordinadora del sector.
 
 ###### ARTICULO 56.
 
@@ -499,11 +537,13 @@ XIV. Las que señalen las otras leyes, reglamentos, decretos, acuerdos y demás 
 
 ### CAPITULO VI. DEL CONTROL Y EVALUACION
 
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2011)</small>
+
 ###### ARTICULO 57.
 
-El órgano de vigilancia de los organismos descentralizados, estará integrado por un Comisario Público Propietario y un Suplente, designados por la Contraloría General del Estado.
+El órgano de vigilancia de los organismos descentralizados, estará integrado por un Comisario Público Propietario y un Suplente, designados por la Coordinación de Contraloría.
 
-Los Comisarios Públicos evaluarán el desempeño general y por funciones del organismo; realizarán estudios sobre la eficiencia con la que se ejerzan los desembolsos en los rubros de gasto corriente y de inversión, así como en lo referente a los ingresos y, en general, solicitarán la información y efectuarán los actos que requiera el adecuado cumplimiento de sus funciones, sin perjuicio de las tareas que la Contraloría General del Estado les asigne específicamente conforme a la ley. Para el cumplimiento de las funciones citadas, el órgano de gobierno y el Director General deberán proporcionar la información que soliciten los Comisarios Públicos.
+Los Comisarios Públicos evaluarán el desempeño general y por funciones del organismo; realizarán estudios sobre la eficiencia con la que se ejerzan los desembolsos en los rubros de gasto corriente y de inversión, así como en lo referente a los ingresos y, en general, solicitarán la información y efectuarán los actos que requiera el adecuado cumplimiento de sus funciones, sin perjuicio de las tareas que la Coordinación de Contraloría les asigne específicamente conforme a la ley. Para el cumplimiento de las funciones citadas, el órgano de gobierno y el Director General deberán proporcionar la información que soliciten los Comisarios Públicos.
 
 ###### ARTICULO 58.
 
@@ -515,9 +555,11 @@ II. Los Directores Generales, definirán las políticas de instrumentación de l
 
 III. Los demás servidores públicos del organismo, responderán dentro del ámbito de sus competencias, sobre el funcionamiento adecuado del sistema que controle las operaciones a su cargo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE MARZO DE 2011)</small>
+
 ###### ARTICULO 59.
 
-Los órganos internos de control, serán parte integrante de la estructura del organismo descentralizado, sus acciones tendrán por objeto apoyar la función directiva y promover el mejoramiento de gestión del organismo; desarrollarán sus funciones conforme a los lineamientos que emita la Contraloría General del Estado, de acuerdo con las siguientes bases:
+Los órganos internos de control, serán parte integrante de la estructura del organismo descentralizado, sus acciones tendrán por objeto apoyar la función directiva y promover el mejoramiento de gestión del organismo; desarrollarán sus funciones conforme a los lineamientos que emita la Coordinación de Contraloría, de acuerdo con las siguientes bases:
 
 I. Dependerá del Director General del organismo;
 
@@ -525,9 +567,11 @@ II. Realizarán sus actividades de acuerdo a las reglas y bases que les permitan
 
 III. Examinarán y evaluarán sistemas, mecanismos y procedimientos de control; efectuarán revisiones y auditorías; vigilarán que el manejo y la aplicación de los recursos públicos se efectúe conforme a las disposiciones aplicables; presentarán al Director General, al órgano de gobierno y a las demás instancias internas de decisión, los informes resultantes de las auditorías, exámenes y evaluaciones realizados.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE MARZO DE 2011)</small>
+
 ###### ARTICULO 60.
 
-Las empresas de participación estatal mayoritaria, sin perjuicio de lo establecido en sus estatutos y en los términos de la legislación civil o mercantil aplicable, para su vigilancia, control y evaluación, incorporarán los órganos de control interno y contará con los comisarios públicos que designe la Contraloría General del Estado, en los términos de los precedentes artículos de esta Ley.
+Las empresas de participación estatal mayoritaria, sin perjuicio de lo establecido en sus estatutos y en los términos de la legislación civil o mercantil aplicable, para su vigilancia, control y evaluación, incorporarán los órganos de control interno y contará con los comisarios públicos que designe la Coordinación de Contraloría, en los términos de los precedentes artículos de esta Ley.
 
 Los fideicomisos públicos a que se refiere el artículo 40 de esta Ley, se ajustarán en lo que les sea compatible a las disposiciones anteriores.
 
@@ -535,9 +579,11 @@ Los fideicomisos públicos a que se refiere el artículo 40 de esta Ley, se ajus
 
 La dependencia coordinadora del sector, a través de su titular o representante, mediante su participación en los órganos de gobierno o consejo de administración de las paraestatales, podrá recomendar las medidas adicionales que estime pertinentes, sobre las acciones tomadas en materia de control.
 
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2011)</small>
+
 ###### ARTICULO 62.
 
-La Contraloría General del Estado, podrá realizar visitas y auditorías a las entidades paraestatales, cualquiera que sea su naturaleza, a fin de supervisar el adecuado funcionamiento del sistema de control, el cumplimiento de las responsabilidades a cargo de cada uno de los niveles de la administración mencionados en el artículo 57 y en su caso, promover lo necesario para corregir las deficiencias u omisiones en que se hubiere incurrido.
+La Coordinación de Contraloría, podrá realizar visitas y auditorías a las entidades paraestatales, cualquiera que sea su naturaleza, a fin de supervisar el adecuado funcionamiento del sistema de control, el cumplimiento de las responsabilidades a cargo de cada uno de los niveles de la administración mencionados en el artículo 57 y en su caso, promover lo necesario para corregir las deficiencias u omisiones en que se hubiere incurrido.
 
 ###### ARTICULO 63.
 
@@ -547,7 +593,9 @@ En aquellos casos en los que el órgano de gobierno, consejo de administración 
 
 La enajenación de títulos representativos del capital social, propiedad del Gobierno del Estado o de las entidades paraestatales, podrá realizarse a través de los procedimientos bursátiles propios del mercado de valores o de las sociedades nacionales de crédito, de acuerdo con las normas que emitan las dependencias globalizadoras.
 
-La Contraloría General, vigilará el debido cumplimiento de lo dispuesto en el párrafo anterior.
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2011)</small>
+
+La Coordinación de Contraloría, vigilará el debido cumplimiento de lo dispuesto en el párrafo anterior.
 
 T R A N SI T O R I O S
 
@@ -580,3 +628,7 @@ P.O. 12 DE MARZO DE 2007.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 1 DE MARZO DE 2011.
+
+ÚNICO. La presente Ley entrará en vigor al día siguiente de su publicación.
