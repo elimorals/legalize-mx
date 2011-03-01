@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-para-el-funcionamiento-de-las-comisiones-del-55166"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-04-04"
-last_updated: "2011-02-02"
+last_updated: "2011-03-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55166&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO PARA EL FUNCIONAMIENTO DE LAS COMISIONES DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 2 DE FEBRERO DE 2011.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 1 DE MARZO DE 2011.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el miércoles 4 de abril de 2007.
 
@@ -149,7 +149,9 @@ I. Tres Consejeros, con derecho a voz y voto, designados por el Consejo General;
 
 II. Los representantes, propietarios y suplentes de los partidos políticos y coaliciones, que acrediten por escrito los representantes ante el Consejo General quienes tendrán derecho a voz; y
 
-III. Un Secretario Técnico, con derecho a voz informativa, quien será designado por el Consejo General en función de la Comisión de que se trate.
+> <small>(REFORMADA, G.G. 1 DE MARZO DE 2011)</small>
+
+III. Un Secretario Técnico, con derecho a voz informativa, que será el titular del área respectiva.
 
 La aprobación de todos los acuerdos y dictámenes deberá ser con el voto de al menos dos de los integrantes, y preferentemente con el consenso de los partidos y coaliciones.
 
@@ -4526,3 +4528,9 @@ G.G. 2 DE FEBRERO DE 2011.
 PRIMERO.- Las reformas aprobadas por el Punto Único, entrarán en vigor al día siguiente de la publicación del presente Acuerdo en el Periódico Oficial del Gobierno del Estado Libre y Soberano de México, "Gaceta del Gobierno".
 
 SEGUNDO.- Publíquese el presente Acuerdo y su anexo en el Periódico Oficial del Gobierno del Estado Libre y Soberano de México, "Gaceta del Gobierno", así como en la página electrónica del Instituto Electoral del Estado de México.
+
+G.G. 1 DE MARZO DE 2011.
+
+PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial del Gobierno del Estado Libre y Soberano de México, "Gaceta del Gobierno", así como en la página electrónica del Instituto Electoral del Estado de México.
+
+SEGUNDO.- La reforma aprobada por el Punto Primero, entrará en vigor al día siguiente de la publicación del presente Acuerdo en el Periódico Oficial del Gobierno del Estado Libre y Soberano de México, "Gaceta del Gobierno".
