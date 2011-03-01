@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-cg382-2010-del-consejo-general-del-instituto-77690"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2010-12-17"
-last_updated: "2010-12-17"
+last_updated: "2011-03-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77690&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2010-11-24"
 
 ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO FEDERAL ELECTORAL POR EL QUE SE DETERMINA LA INTEGRACIÓN PROVISIONAL DE LA COMISIÓN DE QUEJAS Y DENUNCIAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE MARZO DE 2011.
 
 Acuerdo publicado en la Sexta Sección del Diario Oficial de la Federación, el viernes 17 de diciembre de 2010.
 
@@ -205,21 +205,31 @@ ACUERDO
 
 Primero.- Se modifican los Acuerdos CG377/2010 y CG378/2010 aprobados por el Consejo General en la sesión extraordinaria del treinta y uno de octubre del año en curso, sólo para efectos de que los Consejeros Electorales integren provisionalmente, hasta cuatro Comisiones permanentes
 
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO CG27/2011 DEL CONSEJO GENERAL DEL INSTITUTO FEDERAL ELECTORAL, D.O.F. 1 DE MARZO DE 2011)</small>
+
 Segundo.- Se aprueba la integración provisional de la Comisión de Quejas y Denuncias para quedar conformada de la siguiente forma:
-
-Mtro. Marco Antonio Baños Martínez.
-
-Presidente
-
-Dr. Francisco Javier Guerrero Aguirre.
-
-Integrante.
 
 Mtro. Alfredo Figueroa Fernández.
 
+Presidente
+
+Dr. Benito Nacif Hernández
+
 Integrante.
 
-Tercero.- El presente Acuerdo deberá publicarse en el Diario Oficial de la Federación.
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO CG27/2011 DEL CONSEJO GENERAL DEL INSTITUTO FEDERAL ELECTORAL, D.O.F. 1 DE MARZO DE 2011)</small>
+
+Tercero.- Se aprueba la lista de Consejeros Electorales para garantizar en forma permanente el quórum de sesiones para la toma de medidas cautelares de la Comisión de Quejas y Denuncias en el orden de prelación siguiente:
+
+1. Mtro. Marco Antonio Baños Martínez.
+
+2. Dra. María Macarita Elizondo Gasperin.
+
+3. Dr. Francisco Javier Guerrero Aguirre.
+
+> <small>(ADICIONADO POR EL PUNTO PRIMERO DEL ACUERDO CG27/2011 DEL CONSEJO GENERAL DEL INSTITUTO FEDERAL ELECTORAL, D.O.F. 1 DE MARZO DE 2011)</small>
+
+Cuarto.- El presente Acuerdo deberá publicarse en el Diario Oficial de la Federación.
 
 TRANSITORIO (SIC)
 
@@ -232,3 +242,13 @@ Segundo.- El presente Acuerdo entrará en vigor a partir de que sea aprobado por
 El presente Acuerdo fue aprobado en sesión extraordinaria del Consejo General celebrada el 24 de noviembre de dos mil diez, por votación unánime de los Consejeros Electorales, Maestro Marco Antonio Baños Martínez, Doctora María Macarita Elizondo Gasperín, Maestro Alfredo Figueroa Fernández, Doctor Francisco Javier Guerrero Aguirre, Doctor Benito Nacif Hernández y el Consejero Presidente, Doctor Leonardo Valdés Zurita.
 
 El Consejero Presidente del Consejo General, Leonardo Valdés Zurita.- Rúbrica.- El Secretario del Consejo General, Edmundo Jacobo Molina.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 1 DE MARZO DE 2012.
+
+Primero.- La designación motivo del presente Acuerdo es de carácter provisional.
+
+A partir de que el Consejo General cuente con los nueve Consejeros Electorales que por disposición Constitucional lo conforman, se emitirá un nuevo Acuerdo por parte del máximo órgano de dirección de este Instituto.
+
+Segundo.- El presente Acuerdo entrará en vigor a partir de que sea aprobado por el Consejo General.
