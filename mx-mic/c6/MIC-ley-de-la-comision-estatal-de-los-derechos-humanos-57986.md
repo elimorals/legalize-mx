@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-la-comision-estatal-de-los-derechos-humanos-57986"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-24"
-last_updated: "2007-12-24"
+last_updated: "2011-03-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57986&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE LA COMISION ESTATAL DE LOS DERECHOS HUMANOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE MARZO DE 2011.
 
 Ley publicada en la Cuarta Sección del Periódico Oficial del Estado de Michoacán, el lunes 24 de diciembre de 2007.
 
@@ -43,57 +43,89 @@ LEY DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS
 
 ### Capítulo Primero. Objeto, Finalidades y Definiciones
 
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2011)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de orden público e interés social; tiene por objeto establecer la integración, atribuciones y competencia del organismo autónomo constitucional denominado Comisión Estatal de los Derechos Humanos, en los términos que señala la Constitución.
+La presente Ley establece la integración, atribuciones y competencia del organismo autónomo denominado Comisión Estatal de los Derechos Humanos, así como los procedimientos establecidos para garantizar el ejercicio pleno de estos derechos.
+
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2011)</small>
 
 ###### Artículo 2.
 
-La Comisión Estatal de los Derechos Humanos, cuenta con autonomía de gestión y presupuestaria, personalidad jurídica y patrimonio propio, tiene como finalidad esencial la defensa, protección, estudio, investigación, promoción y divulgación de los derechos humanos.
+La Comisión cuenta con autonomía de gestión y presupuestaria, personalidad jurídica y patrimonio propios, tiene como finalidad esencial la defensa, protección, estudio, investigación, promoción y divulgación de los derechos humanos.
 
-###### Artículo 3.
+###### ARTÍCULO 3.
 
 Para los efectos de la presente Ley, se entenderá por:
 
 I. Comisión: La Comisión Estatal de los Derechos Humanos;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 1 DE MARZO DE 2011)</small>
+
 II. Congreso: El Congreso del Estado de Michoacán de Ocampo;
 
-III. Consejo: El órgano consultivo de la Comisión Estatal de los Derechos Humanos;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2011)</small>
+
+III. Consejo: El órgano de opinión, consulta y colaboración de la Comisión Estatal de los Derechos Humanos;
 
 IV. Constitución: La Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo;
 
 V. Derechos Humanos: El conjunto de facultades y prerrogativas inherentes al ser humano, que le corresponden por su propia naturaleza, indispensables para asegurar su pleno desarrollo dentro de la sociedad;
 
-VI. Ejecutivo: El Gobernador del Estado;
+VI. Ejecutivo: Él Gobernador del Estado;
 
 VII. Ley: La Ley de la Comisión Estatal de los Derechos Humanos;
 
-VIII. Presidente: Presidente de la Comisión Estatal de los Derechos Humanos; y,
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2011)</small>
 
-IX. Sector Público: Los Poderes Legislativo, Ejecutivo, incluida la administración centralizada y paraestatal, Judicial, Organismos Autónomos y la administración municipal y paramunicipal.
+VIII. Presidente: Presidente de la Comisión Estatal de los Derechos Humanos;
+
+IX. Sector Público: Los Poderes Legislativo. Ejecutivo, incluida la administración centralizada y paraestatal, Judicial, Organismos Autónomos y la administración municipal y paramunicipal;
+
+> <small>(ADICIONADA, P.O. 1 DE MARZO DE 2011)</small>
+
+X. Reglamento: El Reglamento de la Comisión Estatal de los Derechos Humanos;
+
+> <small>(ADICIONADA, P.O. 1 DE MARZO DE 2011)</small>
+
+XI. Visitador Regional: El Visitador adscrito a una región en particular; y,
+
+> <small>(ADICIONADA, P.O. 1 DE MARZO DE 2011)</small>
+
+XII. Servidor Público: Son los miembros, funcionarios y empleados que desempeñen cualquier cargo o comisión en un Poder u organismo público.
+
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2011)</small>
 
 ###### Artículo 4.
 
-La Comisión tiene su sede y domicilio legal en la ciudad de Morelia, Michoacán y competencia en todo el territorio estatal.
+La Comisión tiene su sede y domicilio legal en la ciudad de Morelia, Michoacán.
 
-Tendrá competencia para conocer de las quejas en contra de actos u omisiones de naturaleza administrativa provenientes de cualquier autoridad o servidor público, con excepción de los del Poder Judicial del Estado y de asuntos electorales, laborales y jurisdiccionales que violen estos derechos.
-
-Formulará recomendaciones públicas no vinculantes, denuncias y quejas ante las autoridades respectivas.
+Tendrá competencia para conocer de las quejas en contra de actos u omisiones de naturaleza administrativa provenientes de cualquier autoridad o servidor público, con excepción de los asuntos sustantivos de organismos y autoridades electorales, jurisdiccionales y laborales, salvo cuando los actos u omisiones de estas autoridades constituyan, por si mismos, la violación a un derecho humano.
 
 ###### Artículo 5.
 
 El patrimonio de la Comisión se integrará por:
 
-I. Los recursos que le asigne el Congreso del Estado a través del presupuesto de egresos; y,
+I. Los recursos que le asigne el Congreso del Estado a través del presupuesto de egresos; y, (sic)
 
 II. Los bienes muebles e inmuebles que le sean destinados o adquiera para el cumplimiento de sus fines.
 
+> <small>(ADICIONADA, P.O. 1 DE MARZO DE 2011)</small>
+
+III. Las adquisiciones, los subsidios, donaciones y aportaciones, tanto en bienes como en valores, que provengan del sector público y privado; y,
+
+> <small>(ADICIONADA, P.O. 1 DE MARZO DE 2011)</small>
+
+IV. En general todos los ingresos y derechos susceptibles de estimación pecuniaria, que obtenga por cualquier medio legal.
+
 ### Capítulo Segundo. Fe Pública e Incompatibilidades
+
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2011)</small>
 
 ###### Artículo 6.
 
-El Presidente, los visitadores regionales y auxiliares, Secretario Ejecutivo, Director de Orientación Legal, Quejas y Seguimiento, tendrán fe pública en sus actuaciones para certificar documentos, declaraciones y hechos en relación con sus atribuciones.
+El Presidente, los visitadores regionales y auxiliares, Secretario Ejecutivo, Director de Orientación Legal, Quejas y Seguimiento, Contralor Interno, tendrán fe pública en sus actuaciones para certificar documentos, declaraciones y hechos en relación con sus atribuciones.
 
 ###### Artículo 7.
 
@@ -115,15 +147,29 @@ III. Los visitadores regionales;
 
 IV. Los visitadores auxiliares;
 
-V. El Secretario Ejecutivo;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2011)</small>
 
-VI. El Director de Orientación Legal, Quejas Seguimiento;
+V. La Secretaría Ejecutiva;
 
-VII. El Coordinador de Comunicación Social;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2011)</small>
 
-VIII. El Coordinador Administrativo; y,
+VI. La Dirección de Orientación Legal, Quejas y Seguimiento;
 
-IX. El Contralor Interno.
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2011)</small>
+
+VII. La Coordinación de Igualdad entre Mujeres y Hombres;
+
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2011)</small>
+
+VIII. La Coordinación de Comunicación Social;
+
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2011)</small>
+
+IX. La Coordinación Administrativa; y,
+
+> <small>(ADICIONADA, P.O. 1 DE MARZO DE 2011)</small>
+
+X. La Contraloría Interna.
 
 ### Capítulo Cuarto. Atribuciones de la Comisión
 
@@ -181,7 +227,25 @@ XXIV. Fomentar la investigación en el área de los Derechos Humanos;
 
 XXV. Presentar el proyecto de presupuesto anual de egresos al Ejecutivo del Estado para su trámite correspondiente; y,
 
-XXVI. Las establecidas en la presente Ley y demás disposiciones legales aplicables.
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2011)</small>
+
+XXVI. Formular recomendaciones públicas, no vinculantes, así como denuncias y quejas, ante las autoridades correspondientes, para la atención de las violaciones a los derechos humanos, por conducto del Presidente;
+
+> <small>(ADICIONADA, P.O. 1 DE MARZO DE 2011)</small>
+
+XXVII. Proponer acciones ante las instituciones educativas de todos los niveles, públicas o privadas, que propicien la formación en una cultura de los derechos humanos;
+
+> <small>(ADICIONADA, P.O. 1 DE MARZO DE 2011)</small>
+
+XXVIII. Evaluar los resultados por la ejecución de los convenios y acuerdos de coordinación que se suscriban en materia de igualdad entre mujeres y hombres;
+
+> <small>(ADICIONADA, P.O. 1 DE MARZO DE 2011)</small>
+
+XXIX. Impulsar la observancia de los derechos humanos en el Estado, así como proteger y velar por el respeto a la dignidad humana para evitar toda discriminación motivada por origen étnico o nacional, el género, la edad, discapacidad, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales diversas, el estado civil o cualquier otra que atente contra los derechos humanos, que tenga por objeto anular o menoscabar los derechos y libertades de las personas; y,
+
+> <small>(ADICIONADA, P.O. 1 DE MARZO DE 2011)</small>
+
+XXX. Las establecidas en la presente Ley, y demás disposiciones aplicables.
 
 ###### Artículo 10.
 
@@ -209,11 +273,21 @@ IV. Haber residido en el Estado durante los últimos tres años al día de la de
 
 V. Tener cuando menos treinta años de edad al día de la elección;
 
-VI. No haber sido condenado por delito doloso;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2011)</small>
 
-VII. No haber sido inhabilitado para ejercer el comercio, empleo, profesión o para desempeñar un cargo o comisión en el servicio público; y,
+VI. No haber sido condenado por delito doloso, o haberse encontrado sujeto a un procedimiento de queja del que haya derivado recomendación;
 
-VIII. Haberse conducido en el ejercicio de su profesión con un constante respeto por la observancia de los Derechos Humanos.
+VII. No haber sido inhabilitado para ejercer el comercio, empleo, profesión o para desempeñar un cargo o comisión en el servicio público; y, (sic)
+
+VIII. Haberse conducido en el ejercicio de su profesión con un constante respeto por la observancia de los Derechos Humanos;
+
+> <small>(ADICIONADA, P.O. 1 DE MARZO DE 2011)</small>
+
+IX. No haber sido dirigente o candidato de partido político alguno, en los últimos dos años previos a la elección; y,
+
+> <small>(ADICIONADA, P.O. 1 DE MARZO DE 2011)</small>
+
+X. No ser ministro de ningún culto religioso o miembro activo de las fuerzas armadas del país.
 
 ###### Artículo 13.
 
@@ -243,11 +317,29 @@ La ausencia temporal del Presidente será suplida por el Visitador Regional con 
 
 Cuando el Consejo declare la ausencia definitiva del Presidente de la Comisión, quedará como encargado del despacho el Visitador Regional con sede en la capital del Estado, en tanto se designa al nuevo titular conforme al presente ordenamiento, en un plazo no mayor de cuarenta y cinco días.
 
+> <small>(ADICIONADO, P.O. 1 DE MARZO DE 2011)</small>
+
+Artículo 16 BIS. El Presidente dejará de ejercer su encargo por alguna de las causas siguientes:
+
+I. Por concluir el período para el que fue electo o reelecto;
+
+II. Por renuncia;
+
+III. Por incapacidad física o mental permanente que le impida el desempeño de su encargo;
+
+IV. Por ausencia injustificada; y,
+
+V. Por desempeñar actividades incompatibles con su cargo, en términos de esta Ley.
+
+En los supuestos a que se refieren las fracciones III, IV y V el Congreso del Estado, previa garantía de audiencia que se otorgue al Presidente, resolverá lo procedente.
+
 ### Capítulo Sexto. Atribuciones del Presidente de la Comisión
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE MARZO DE 2011)</small>
 
 ###### Artículo 17.
 
-El Presidente de la Comisión, tendrá las atribuciones siguientes:
+El Presidente de la Comisión, tendrá las siguientes atribuciones:
 
 I. Ejercer la representación legal y jurídica de la Comisión;
 
@@ -255,9 +347,13 @@ II. Presidir el Consejo;
 
 III. Proponer al Consejo los lineamientos generales que en materia de violación de Derechos Humanos habrá de seguir la Comisión;
 
-IV. Aprobar y emitir las recomendaciones;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2011)</small>
 
-V. Someter a consideración del Consejo, aquellas recomendaciones que por su importancia y relevancia lo ameriten;
+IV. Aprobar las recomendaciones, acuerdos e informes especiales, y hacer públicos los que la Ley determine;
+
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2011)</small>
+
+V. Ejercer la facultad de atracción de asuntos que por su importancia y competencia lo amerite;
 
 VI. Aprobar los acuerdos y peticiones que sometan a su consideración los visitadores, con motivo de las investigaciones que realicen;
 
@@ -269,7 +365,7 @@ IX. Someter a la aprobación del Consejo, el calendario anual de labores, el hor
 
 X. Conducir la administración, vigilancia y disciplina de la Comisión para garantizar el buen funcionamiento de la institución;
 
-XI. Autorizar licencia temporal, sin goce de sueldo, al personal de la Comisión, hasta por quince días;
+XI. (DEROGADA, P.O. 1 DE MARZO DE 2011)
 
 XII. Acudir al menos dos veces al año a las visitadurías y revisar integralmente el trabajo que se sustancia en las mismas, realizando audiencia pública para la recepción de quejas;
 
@@ -285,25 +381,47 @@ XVII. Remitir al Congreso, al final de cada ejercicio presupuestal, el estado qu
 
 XVIII. Celebrar convenios de colaboración con autoridades, organismos públicos y no gubernamentales interesados en la defensa de los Derechos Humanos, así como con las instituciones académicas, asociaciones culturales y medios masivos de comunicación para el mejor cumplimiento de sus fines;
 
-XIX. Elaborar y presentar oportunamente al Ejecutivo del Estado, con la aprobación del Consejo, el proyecto de Presupuesto Anual de Egresos de la Comisión;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2011)</small>
+
+XIX. Elaborar y presentar el proyecto de Presupuesto Anual de Egresos de la Comisión, sometiéndolo a consideración del Consejo para su aprobación, remitiéndolo oportunamente al Titular del Poder Ejecutivo del Estado para su trámite correspondiente;
 
 XX. Nombrar y remover a los visitadores regionales, al Secretario Ejecutivo, al Director de Orientación Legal, Quejas y Seguimiento, a los coordinadores, al Contralor Interno y a los visitadores auxiliares;
 
-XXI. Otorgar licencias y permisos al personal de la Comisión;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2011)</small>
 
-XXII. Elaborar el proyecto de Reglamento Interior y los manuales de organización y de procedimientos de la Comisión y presentarlos ante el Consejo para su aprobación; y,
+XXI. Autorizar licencias y permisos al personal de la Comisión;
 
-XXIII. Las demás que le otorgue la presente Ley y demás disposiciones aplicables.
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2011)</small>
+
+XXII. Emitir la normatividad necesaria para el funcionamiento de la Comisión;
+
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2011)</small>
+
+XXIII. Solicitar a la autoridad correspondiente el inicio del procedimiento administrativo, en los casos en que un servidor público oculte o retrase injustificadamente la información que se le solicite con motivo del trámite de las quejas;
+
+> <small>(ADICIONADA, P.O. 1 DE MARZO DE 2011)</small>
+
+XXlV. Hacer del conocimiento de la Comisión de Derechos Humanos del Congreso del Estado, aquellas recomendaciones emitidas, que no hayan sido aceptadas o cumplidas por las autoridades señaladas como responsables; y,
+
+> <small>(ADICIONADA, P.O. 1 DE MARZO DE 2011)</small>
+
+XXV. Las demás que le otorgue la presente Ley y demás disposiciones aplicables.
 
 ###### Artículo 18.
 
 El Presidente comparecerá ante el Congreso durante el mes de septiembre a presentar informe anual de actividades de la Comisión, que deberá contener una descripción del número y características de las quejas interpuestas, las orientaciones legales concedidas, los resultados de su labor de conciliación, las investigaciones realizadas, las recomendaciones, los acuerdos de no responsabilidad de violación a los Derechos Humanos que se hubiesen formulado, los resultados obtenidos, así como las estadísticas, los programas desarrollados y demás datos que se consideren convenientes.
 
+> <small>(ADICIONADO, P.O. 1 DE MARZO DE 2011)</small>
+
+El Presidente atenderá las observaciones y recomendaciones de la Comisión Legislativa de Derechos Humanos, en relación con el informe o cualquier asunto de su competencia, así como comparecer cuando sea requerido.
+
 ### Capítulo Séptimo. Integración del Consejo
+
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2011)</small>
 
 ###### Artículo 19.
 
-El Consejo es el órgano de la Comisión, que representa a la ciudadanía en la estructura del organismo público de los Derechos Humanos en el Estado de Michoacán.
+El Consejo es un órgano colegiado de opinión, consulta y colaboración de la Comisión, que representa a la ciudadanía en la estructura del organismo público de los Derechos Humanos en el Estado de Michoacán.
 
 ###### Artículo 20.
 
@@ -315,21 +433,51 @@ II. Cuatro consejeros ciudadanos; y,
 
 III. Un Secretario Técnico; que será el Secretario Ejecutivo de la misma Comisión, el cual tendrá voz en las sesiones del Consejo, más no voto.
 
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2011)</small>
+
 ###### Artículo 21.
 
 Los diputados integrantes de las Comisiones de Dictamen de Derechos Humanos y Justicia del Congreso, previa auscultación a los sectores sociales, propondrán al Pleno del Congreso del Estado a los candidatos propietarios y suplentes a ocupar el encargo de Consejero, quienes serán electos por mayoría de los diputados presentes.
 
-Los consejeros durarán un año en su encargo y tendrán carácter honorario.
+Los consejeros durarán dos años en su encargo, y pueden ser reelectos por una sola ocasión. Tendrán carácter honorario.
+
+> <small>(ADICIONADO, P.O. 1 DE MARZO DE 2011)</small>
+
+Artículo 21 BIS. Los consejeros ciudadanos dejarán de ejercer su encargo por alguna de las causas siguientes:
+
+I. Por concluir el período para el que fueron electos o reelectos;
+
+II. Por renuncia;
+
+III. Por incapacidad física o mental permanente que les impida el desempeño de sus funciones;
+
+IV. Por faltar sin causa justificada a dos sesiones consecutivas o tres acumuladas en un año;
+
+V. Por haber sido condenado mediante sentencia ejecutoriada por delito doloso; y,
+
+VI. Por incurrir en alguna de las causales de impedimento en esta Ley.
+
+En el supuesto previsto en la fracción I, la Comisión deberá informar al Congreso del Estado, con al menos dos meses de antelación a la terminación del encargo, a efecto de que tome las previsiones necesarias.
+
+En los casos a que se refieren las fracciones IV, V y VI, el Congreso del Estado, previa garantía de audiencia que se otorgue a los consejeros ciudadanos resolverá lo procedente.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE MARZO DE 2011)</small>
 
 ###### Artículo 22.
 
-Los requisitos que deben observar las personas que aspiren a ser miembros del Consejo, son los siguientes:
+Los requisitos que deben cumplir las personas que aspiren a ser miembros del Consejo, son los siguientes:
 
-I. Ser mexicanos por nacimiento y ciudadanos michoacanos, en pleno ejercicio de sus derechos civiles y políticos;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2011)</small>
 
-II. Contar con reconocido prestigio y solvencia moral;
+I. Ser mexicanos en pleno ejercicio de sus derechos civiles y políticos;
 
-III. Distinguirse por su espíritu de servicio, interés y participación en la defensa, difusión y promoción de los Derechos Humanos;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2011)</small>
+
+II. Contar con preparación académica o experiencia en materia de derechos humanos;
+
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2011)</small>
+
+III. Distinguirse por su servicio, interés y participación en la defensa, difusión y promoción de los Derechos Humanos;
 
 IV. No ser dirigente o candidato de partido político alguno;
 
@@ -337,37 +485,73 @@ V. No estar al servicio del sector público o de la administración pública fed
 
 VI. No haber sido servidor público de primer nivel en la administración pública estatal, durante el año previo a su elección; y,
 
-VII. No ser ministro de ningún culto religioso o miembro activo de las fuerzas armadas del país.
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2011)</small>
+
+VIl. No ser ministro de ningún culto religioso o miembro activo de las fuerzas armadas del país; y,
+
+> <small>(ADICIONADA, P.O. 1 DE MARZO DE 2011)</small>
+
+VIII. No haber sido condenado por delito doloso, o haberse encontrado sujeto a un procedimiento de queja del que haya derivado recomendación.
 
 ### Capítulo Octavo. Atribuciones del Consejo
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE MARZO DE 2011)</small>
+
 ###### Artículo 23.
 
-El Consejo de la Comisión Estatal de los Derechos Humanos tendrá las siguientes atribuciones:
+El Consejo tendrá las siguientes atribuciones:
 
-I. Aprobar los lineamientos generales que en materia de violación de Derechos Humanos habrá de seguir la Comisión;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2011)</small>
 
-II. Aprobar la emisión de recomendaciones, que por su importancia y relevancia sean puestas a su consideración por el Presidente;
+l. Aprobar los lineamientos generales que en materia de Derechos Humanos habrá de seguir la Comisión;
 
-III. Aprobar el Reglamento Interior de la Comisión y sus reformas;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2011)</small>
 
-IV. Conocer y opinar el anteproyecto de Presupuesto Anual de Egresos de la Comisión, para su presentación al Titular del Poder Ejecutivo del Estado;
+Il. Opinar de las recomendaciones, que por su importancia sean puestas a su consideración;
 
-V. Conocer de la licencia temporal sin goce de sueldo, del Presidente, hasta por quince días;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2011)</small>
 
-VI. Declarar la ausencia definitiva del Presidente y dar vista al Congreso del Estado;
+III. Aprobar la normatividad necesaria para el funcionamiento de la Comisión;
+
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2011)</small>
+
+IV. Conocer y aprobar el proyecto de Presupuesto Anual de Egresos de la Comisión, para su presentación al Titular del Poder Ejecutivo del Estado;
+
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2011)</small>
+
+V. Conocer de la licencia temporal, sin goce de sueldo, del Presidente, hasta por quince días;
+
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2011)</small>
+
+VI. Informar al Congreso del Estado de la ausencia definitiva del Presidente;
 
 VII. Conocer del cambio de sede de los visitadores regionales;
 
-VIII. Analizar y opinar sobre el contenido del proyecto de informe anual de la Comisión;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2011)</small>
+
+VIII. Analizar sobre el contenido del proyecto de informe anual de la Comisión;
 
 IX. Solicitar al Presidente información relativa al trabajo de la Comisión;
 
 X. Conocer del informe mensual del ejercicio presupuestal;
 
-XI. Convocar a sesión extraordinaria, previa solicitud de al menos tres integrantes del Consejo; y,
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2011)</small>
 
-XII. Opinar cuando así lo requiera el caso, sobre la labor del personal de la Comisión.
+XI. Solicitar al Presidente convoque a sesión extraordinaria, previa solicitud de al menos tres integrantes del Consejo;
+
+XII. Opinar cuando así lo requiera el caso, sobre la labor del personal de la Comisión;
+
+> <small>(ADICIONADA, P.O. 1 DE MARZO DE 2011)</small>
+
+XIII. Promover políticas en materia de equidad y género;
+
+> <small>(ADICIONADA, P.O. 1 DE MARZO DE 2011)</small>
+
+XIV. Coadyuvar y fortalecer las relaciones de la Comisión con la ciudadanía y los organismos públicos, sociales o privados, en materia de derechos humanos; y,
+
+> <small>(ADICIONADA, P.O. 1 DE MARZO DE 2011)</small>
+
+XV. Las demás que la Ley señale.
 
 ###### Artículo 24.
 
@@ -377,19 +561,25 @@ I. Sesión ordinaria por lo menos una vez al mes; y,
 
 II. Sesión extraordinaria.
 
-Las sesiones se llevarán a cabo en la sede de la Comisión Estatal de los Derechos Humanos. Se declarará quórum legal para sesionar cuando estén presentes más de la mitad de los miembros; de no reunirse el quórum legal, se convocará a sesión dentro del término de cinco días hábiles siguientes a aquél en que debió llevarse a cabo.
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2011)</small>
+
+Las sesiones se llevarán a cabo con base en el quórum entre los que deberá encontrarse el Presidente; de no reunirse el quórum, se convocará de nuevo a sesión.
 
 Las sesiones ordinarias deberán ser convocadas por el Presidente del Consejo por lo menos con setenta y dos horas de anticipación.
 
-Las sesiones extraordinarias serán convocadas por el Presidente por sí o a petición de por lo menos tres miembros del Consejo, cuando se estime que hay razones de importancia para ello, y se dará aviso con al menos veinticuatro horas de anticipación. Las notificaciones deberán ser mediante oficio y con acuse de recibo.
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2011)</small>
+
+Las sesiones extraordinarias serán convocadas por el Presidente, se dará aviso con al menos veinticuatro horas de anticipación. Las notificaciones deberán ser mediante oficio y con acuse de recibo.
 
 Los acuerdos serán siempre por mayoría de votos de sus miembros, teniendo el Presidente voto de calidad en caso de empate.
 
 ### Capítulo Noveno. Visitadores Regionales
 
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2011)</small>
+
 ###### Artículo 25.
 
-Los visitadores regionales serán subalternos del Presidente en la observancia de los Derechos Humanos y estarán adscritos a una sede regional.
+Los visitadores regionales coadyuvarán con el Presidente en la observancia de los Derechos Humanos, conociendo de los procedimientos establecidos por esta Ley y el Reglamento Interior relacionados con probables violaciones a los Derechos Humanos y estarán adscritos a una Visitaduría Regional.
 
 ###### Artículo 26.
 
@@ -419,15 +609,27 @@ I. Ser ciudadano mexicano en pleno goce de sus derechos civiles y políticos;
 
 II. Contar con reconocido prestigio y solvencia moral;
 
-III. Contar con cédula profesional de licenciado en derecho, con antigüedad mínima de tres años;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2011)</small>
 
-IV. Haber residido en el Estado durante los últimos tres años al día de la designación;
+III. Tener treinta años cumplidos el día de su designación;
 
-V. Tener por lo menos tres años de ejercicio profesional;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2011)</small>
 
-VI. No haber sido condenado por delito doloso;
+IV. Contar con cédula profesional de licenciado en derecho y con antigüedad mínima de tres años;
 
-VII. No haber sido inhabilitado para ejercer el comercio, empleo, profesión o para desempeñar un cargo o comisión en el servicio público; y,
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2011)</small>
+
+V. Haber residido en el Estado durante los últimos tres años al día de la designación;
+
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2011)</small>
+
+VI. No haber sido condenado por delito doloso, o haberse encontrado sujeto a un procedimiento de queja del que haya derivado recomendación;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 1 DE MARZO DE 2011)</small>
+
+VIl. No haber sido inhabilitado para ejercer el comercio, empleo, profesión o para desempeñar un cargo o comisión en el servicio público; y,
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 1 DE MARZO DE 2011)</small>
 
 VIII. Haberse conducido en el ejercicio de su profesión con un constante respeto por la observancia de los Derechos Humanos.
 
@@ -435,9 +637,13 @@ VIII. Haberse conducido en el ejercicio de su profesión con un constante respet
 
 Son atribuciones de los visitadores regionales:
 
-I. Admitir las quejas que sean presentadas ante la Comisión por los afectados o sus representantes; así como dictar los acuerdos necesarios para la tramitación, práctica y desahogo de todas las diligencias necesarias en la integración del expediente de queja;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2011)</small>
 
-II. Practicar la investigación y estudios necesarios para formular, en su caso, el proyecto de recomendación, que se someterá a consideración del Presidente para su análisis y de proceder, su aprobación;
+I. Admitir o rechazar las quejas que sean presentadas ante la Comisión por los afectados o sus representantes; así como dictar los acuerdos necesarios para la tramitación, práctica y desahogo de todas las diligencias necesarias en la integración del expediente de queja;
+
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2011)</small>
+
+II. Practicar la investigación y estudios necesarios para formular, en su caso, el proyecto de recomendación o acuerdo, que se someterá a consideración del Presidente para su análisis y aprobación;
 
 III. Realizar los procedimientos necesarios para lograr, por medio de la conciliación o a petición de la Comisión, el cese inmediato de las violaciones a los Derechos Humanos;
 
@@ -455,9 +661,23 @@ IX. Realizar conforme al Reglamento Interior, visitas periódicas a los establec
 
 X. Coordinar, supervisar y participar en las guardias de la Visitaduría;
 
-XI. Solicitar a las autoridades competentes, tomen las medidas precautorias o cautelares necesarias para evitar la consumación irreparable de las violaciones a los Derechos Humanos que sean de su conocimiento, informando inmediatamente al Presidente; y,
+XI. Solicitar a las autoridades competentes, tomen las medidas precautorias o cautelares necesarias para evitar la consumación irreparable de las violaciones a los Derechos Humanos que sean de su conocimiento, informando inmediatamente al Presidente; y, (sic)
 
-XII. Las demás que señala la ley.
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2011)</small>
+
+XII. Recibir las quejas que se presenten con motivo de presuntas violaciones a los derechos humanos que pudieran ser imputables a los servidores públicos en los términos previstos por esta Ley, y demás ordenamientos;
+
+> <small>(ADICIONADA, P.O. 1 DE MARZO DE 2011)</small>
+
+XIII. Substanciar los procedimientos que correspondan, en los términos previstos por esta Ley y demás disposiciones aplicables;
+
+> <small>(ADICIONADA, P.O. 1 DE MARZO DE 2011)</small>
+
+XIV. Proponer al Presidente criterios generales para la resolución de asuntos competencia de la Comisión; y,
+
+> <small>(ADICIONADA, P.O. 1 DE MARZO DE 2011)</small>
+
+XV. Las demás que señala la ley.
 
 ### Capítulo Décimo. Visitadores Auxiliares
 
@@ -501,7 +721,9 @@ VI. Auxiliar en el seguimiento de los trámites relativos al cumplimiento de las
 
 VII. Las demás que las leyes prevengan.
 
-### Capítulo Décimo Primero. Secretario Ejecutivo de la Comisión
+> <small>(REFORMADA SU DENOMINACION, P.O. 1 DE MARZO DE 2011)</small>
+
+### Capítulo Décimo Primero. Secretaría Ejecutiva de la Comisión
 
 ###### Artículo 33.
 
@@ -543,15 +765,27 @@ VI. Programar, planear, organizar, coordinar y ejecutar cursos de capacitación 
 
 VII. Las demás que le asigne la ley.
 
-### Capítulo Décimo Segundo. Director de Orientación Legal, Quejas y Seguimiento
+> <small>(REFORMADA SU DENOMINACION, P.O. 1 DE MARZO DE 2011)</small>
+
+### Capítulo Décimo Segundo. Dirección de Orientación Legal, Quejas y Seguimiento
 
 ###### Artículo 36.
 
 Para ser Director de Orientación Legal, Quejas y Seguimiento, se deberán cumplir los mismos requisitos que para ser Secretario Ejecutivo y será nombrado por el Presidente.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE MARZO DE 2011)</small>
+
 ###### Artículo 37.
 
-El Director de Orientación Legal, Quejas y Seguimiento tendrá las atribuciones siguientes:
+El Director de Orientación Legal, Quejas y Seguimiento es el servidor público encargado de brindar asesoría, recibir y turnar para su trámite las quejas y dar seguimiento a las recomendaciones, acuerdos o peticiones de la Comisión.
+
+> <small>(ADICIONADO, P.O. 1 DE MARZO DE 2011)</small>
+
+Para ser Director, se requiere cumplir con los mismos requisitos que para ser Secretario Ejecutivo y será nombrado por el Presidente.
+
+> <small>(ADICIONADO PRIMER PARRAFO, P.O. 1 DE MARZO DE 2011)</small>
+
+Tendrá las atribuciones siguientes:
 
 I. Recibir y registrar las quejas por presuntas violaciones a los derechos humanos que se denuncien, y turnarlas a los visitadores regionales correspondientes;
 
@@ -563,13 +797,47 @@ IV. Dar seguimiento a los trámites relativos al cumplimiento de las recomendaci
 
 V. Auxiliar a los visitadores regionales en la información que soliciten los quejosos;
 
-VI. Remitir por acuerdo del Presidente, a los organismos públicos de derechos humanos competentes, las quejas o asuntos en los que se señale como probables responsables a las autoridades federales o de otras entidades federativas; y,
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2011)</small>
 
-VII. Las demás que le otorguen la ley.
+VI. Remitir por acuerdo del Presidente, a los organismos públicos de derechos humanos competentes, las quejas o asuntos en los que se señale como probables responsables a las autoridades federales o de otras entidades federativas;
 
-### Capítulo Décimo Tercero. Coordinador de Comunicación Social
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2011)</small>
 
-### Capítulo Décimo Cuarto. Coordinador Administrativo
+VII. Informar a los quejosos el estado procesal de las quejas, en coordinación con los visitadores regionales;
+
+> <small>(ADICIONADA, P.O. 1 DE MARZO DE 2011)</small>
+
+Vlll. Turnar a la Contraloría Interna las quejas presentadas contra los servidores públicos de la Comisión; y,
+
+> <small>(ADICIONADA, P.O. 1 DE MARZO DE 2011)</small>
+
+IX. Las demás que le otorguen la Ley y el Reglamento.
+
+> <small>(REFORMADA SU DENOMINACION [N. DE E. ADICIONADO], P.O. 1 DE MARZO DE 2011)</small>
+
+### Capítulo Décimo Tercero. Coordinación de Igualdad entre Mujeres y Hombres
+
+> <small>(ADICIONADO, P.O. 1 DE MARZO DE 2011)</small>
+
+Artículo 37 BIS. El Coordinador de Igualdad entre Mujeres y Hombres, será el responsable de la observancia, evaluación, seguimiento y monitoreo de la política estatal en materia de igualdad. Será nombrado por el Presidente y deberá tener preferentemente experiencia en la materia.
+
+> <small>(ADICIONADO, P.O. 1 DE MARZO DE 2011)</small>
+
+Artículo 37 TER. La Coordinación de Igualdad entre Mujeres y Hombres tendrá las siguientes atribuciones:
+
+I. Recibir información sobre medidas y actividades que realice la Administración Pública en materia de igualdad entre mujeres y hombres;
+
+II. Evaluar el desarrollo en la sociedad de las políticas y medidas que afecten a las mujeres y a los hombres en esta materia;
+
+III. Proponer la realización de estudios e informes técnicos de diagnóstico sobre la situación de las mujeres y hombres en materia de igualdad;
+
+IV. Difundir información sobre los aspectos relacionados con la igualdad entre mujeres y hombres; y,
+
+V. Las demás que disponga la Ley.
+
+(REUBICADO [N. DE E. ANTES CAPITULO DECIMO TERCERO], P.O. 1 DE MARZO DE 2011)
+
+### Capítulo Décimo Cuarto. Coordinador de Comunicación Social
 
 ###### Artículo 38.
 
@@ -579,7 +847,9 @@ El Coordinador de Comunicación Social será el encargado de ejecutar la políti
 
 Para ser Coordinador de Comunicación Social, se requiere:
 
-I. Contar con cédula profesional y acreditar tener conocimientos en la materia;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2011)</small>
+
+I. Contar, preferentemente, con cédula profesional de licenciado en comunicación o carrera a fin (sic), y acreditar tener conocimientos en la materia;
 
 II. Tener cuando menos dos años de experiencia profesional; y,
 
@@ -589,13 +859,37 @@ III. No haber sido condenado por delito doloso.
 
 Son atribuciones del Coordinador de Comunicación Social:
 
-I. Diseñar los objetivos y programas de trabajo de la Comisión mediante diversas estrategias, planes de comunicación y campañas de difusión, así como difundir las recomendaciones no aceptadas o no cumplidas, pronunciamientos, conciliaciones y acuerdos de no violación, que el Presidente apruebe;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2011)</small>
 
-II. Diseñar y editar las distintas publicaciones que realice la Comisión, con la aprobación del Presidente; y,
+I. Difundir, promover y divulgar la cultura de los Derechos Humanos en el Estado;
 
-III. Las demás que las leyes prevengan.
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2011)</small>
 
-### Capítulo Décimo Quinto. Contralor Interno
+II. Proponer los criterios de difusión a los que deberá ajustarse la Comisión, en cumplimiento a lo que establece la Ley de Transparencia y Acceso a la Información Pública del Estado de Michoacán de Ocampo y emitir el manual de imagen correspondiente;
+
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2011)</small>
+
+III. Diseñar y editar las distintas publicaciones en coordinación con el Centro de Estudios de la Comisión, con la aprobación del Presidente;
+
+> <small>(ADICIONADA, P.O. 1 DE MARZO DE 2011)</small>
+
+IV. Diseñar los planes de comunicación y campañas de difusión de la Comisión, así como difundir las recomendaciones no aceptadas o no cumplidas, pronunciamientos, conciliaciones, acuerdos de no violación e informes especiales que el Presidente apruebe;
+
+> <small>(ADICIONADA, P.O. 1 DE MARZO DE 2011)</small>
+
+V. Coordinar el diseño y la administración de la página web de la Comisión, como medio de difusión permanente, mediante la cual se difunda todo lo relativo al acceso a la información pública conforme a la legislación aplicable;
+
+> <small>(ADICIONADA, P.O. 1 DE MARZO DE 2011)</small>
+
+VI. Recibir y turnar, al área correspondiente, las solicitudes en materia de acceso a la información pública; y,
+
+> <small>(ADICIONADA, P.O. 1 DE MARZO DE 2011)</small>
+
+VII. Las demás que le asigne esta Ley, el Reglamento y otras disposiciones aplicables.
+
+> <small>(REFORMADA SU DENOMINACION Y REUBICADO [N. DE E. ANTES CAPITULO DECIMO CUARTO], P.O. 1 DE MARZO DE 2011)</small>
+
+### Capítulo Décimo Quinto. Coordinación Administrativa
 
 ###### Artículo 41.
 
@@ -617,7 +911,9 @@ Son atribuciones del Coordinador Administrativo:
 
 I. Supervisar la correcta aplicación de los recursos de la Comisión;
 
-II. Desarrollar y mantener actualizado el sistema de informática de la Comisión;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2011)</small>
+
+lI. Proponer e impulsar las mejoras administrativas y de procedimientos que agilicen y eficienten las funciones que la Comisión debe desarrollar en el ámbito de su competencia y mantener actualizado el sistema de informática de la Comisión;
 
 III. Elaborar el anteproyecto de presupuesto anual de egresos de la Comisión, en coordinación con sus distintas áreas;
 
@@ -629,7 +925,9 @@ VI. Llevar a cabo los procedimientos de adquisición, arrendamiento y prestació
 
 VII. Integrar el expediente que ha de turnarse a la Auditoría Superior de Michoacán; y,
 
-VIII. Las demás que las leyes prevengan.
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2011)</small>
+
+VIII. Las demás que le asigne esta Ley, el Reglamento interior y otras disposiciones aplicables.
 
 ###### Artículo 44.
 
@@ -655,15 +953,21 @@ IX. Información útil para fomentar la cultura del respeto a los Derechos Human
 
 X. Todo lo relativo al acceso a la información pública conforme a la legislación aplicable.
 
-### Capítulo Décimo Sexto. Obligaciones, Responsabilidades y Régimen del Personal de la Comisión
+> <small>(REFORMADA SU DENOMINACION Y REUBICADO, [N. DE E. ANTES CAPITULO DECIMO QUINTO], P.O. 1 DE MARZO DE 2011)</small>
+
+### Capítulo Décimo Sexto. Contraloría Interna
 
 ###### Artículo 45.
 
 El Contralor Interno es el servidor público encargado de la investigación, tramitación, sustanciación y resolución, en su caso, de los procedimientos y recursos establecidos en la Ley de Responsabilidades de los Servidores Públicos del Estado de Michoacán y la Ley.
 
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2011)</small>
+
 ###### Artículo 46.
 
-El Contralor Interno será nombrado por el Presidente de la Comisión, deberá reunir los mismos requisitos que el Secretario Ejecutivo de la Comisión, y ser profesional en área jurídica, contable, o administrativa y contar con cédula profesional con una antigüedad mínima de tres años.
+El Contralor Interno será nombrado por el Presidente de la Comisión, de una terna propuesta por el Consejo, debiendo reunir los mismos requisitos que el Secretario Ejecutivo de la Comisión, y ser profesional en área jurídica, contable o administrativa y contar con cédula profesional con una antigüedad mínima de tres años.
+
+La remoción del Contralor Interno será por causa grave o al concluir el período de la administración que lo nombró.
 
 ###### Artículo 47.
 
@@ -677,13 +981,17 @@ III. Vigilar y supervisar que los servidores públicos de la Comisión cumplan c
 
 IV. Realizar auditorías de desempeño, con las que se evaluará el resultado de programas y tendrán por objeto analizar la efectividad y la congruencia alcanzadas en el avance presupuestal, y en el logro de los objetivos y metas establecidos;
 
-V. Realizar auditorías de operación, que analizarán la eficacia obtenida en relación con la asignación de recursos humanos, materiales y financieros, mediante el análisis de la estructura organizacional de los sistemas operativos y de información;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2011)</small>
+
+V. Realizar auditorías de operación, visitas de inspección y reuniones de evaluación en todas las áreas de la Comisión, para analizar la eficacia obtenida en relación con la asignación de recursos humanos, materiales y financieros, mediante el análisis de la estructura organizacional de los sistemas operativos y de información;
 
 VI. Realizar auditorías económico financieras, que comprenderán el examen de las transacciones, operaciones y registros financieros, para determinar si la información que se produce al respecto es confiable y oportuna;
 
 VII. Promover y sugerir en el ámbito de su competencia, la aplicación de medidas o programas que contribuyan a mejorar, agilizar o modernizar aquellos procesos, sistemas o procedimientos de carácter administrativo que permitan un flujo más eficiente de los recursos presupuestarios, así como una administración de los recursos humanos, materiales y técnicos;
 
-VIII. Recibir y atender las quejas y denuncias respecto de los servidores públicos de la Comisión, así como las inconformidades en materia de prestación de servicios y adquisiciones; practicar investigaciones sobre sus actos e instruir los procedimientos y eventualmente, determinar las responsabilidades a que haya lugar;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2011)</small>
+
+VIIl. Recibir y atender las quejas y denuncias en contra de los servidores públicos de la Comisión, derivadas de inconformidades en materia de prestación de servicios y adquisiciones, así como realizar las investigaciones correspondientes, turnándolas en su caso, a la Auditoría Superior de Michoacán para los efectos a que haya lugar, debiendo informar al Presidente lo conducente;
 
 IX. Presentar las denuncias que correspondan ante el Ministerio Público;
 
@@ -693,15 +1001,19 @@ XI. Intervenir en la entrega y recepción de las distintas áreas de la Comisió
 
 XII. Las demás que le confieran las disposiciones legales aplicables.
 
-### Capítulo Primero. Generalidades
+(REUBICADO, [N. DE E. ANTES CAPITULO DECIMO SEXTO], P.O. 1 DE MARZO DE 2011)
+
+### Capítulo Décimo Séptimo. Obligaciones, Responsabilidades y Régimen del Personal de la Comisión
 
 ###### Artículo 48.
 
 Los servidores públicos de la Comisión, tienen la obligación de presentar declaración de situación patrimonial inicial, anual y final, conforme a lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos del Estado de Michoacán, bajo protesta de decir verdad.
 
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2011)</small>
+
 ###### Artículo 49.
 
-Los servidores públicos de la Comisión son sujetos de responsabilidad administrativa, por lo que deberán ajustarse en el desempeño de su empleo, encargo o comisión, a las obligaciones que establece la Ley de Responsabilidades de los Servidores Públicos del Estado de Michoacán y la Ley.
+Los servidores públicos de la Comisión son sujetos de responsabilidad administrativa, por lo que deberán ajustarse en el desempeño de su empleo, encargo o comisión, a las obligaciones que establece la Ley de Responsabilidades de los Servidores Públicos del Estado de Michoacán y la Ley de Fiscalización Superior del Estado de Michoacán de Ocampo, la presente Ley y demás disposiciones aplicables.
 
 ###### Artículo 50.
 
@@ -715,13 +1027,19 @@ III. Cuando no se promueva la conciliación entre el quejoso y los servidores p�
 
 IV. Cuando se haga mal uso de los recursos asignados para el desempeño del cargo;
 
-V. Comunicar dolosamente la información que por motivo de su función deba tener el carácter de reservada;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2011)</small>
 
-VI. Desempeñar otro empleo, actividad, comisión o cargo oficial o particular que la Ley prohíba;
+V. Cuando se comunique dolosamente la información que por motivo de su función deba tener el carácter de reservada o confidencial de acuerdo a lo que establece la Ley de Transparencia y Acceso a la Información Pública del Estado de Michoacán de Ocampo;
+
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2011)</small>
+
+VI. Desempeñar en los casos del Presidente o visitadores regionales, otro empleo, actividad, comisión o cargo oficial o particular, salvo las actividades de la academia, docencia, investigación o de beneficencia;
 
 VII. Pretender obtener un lucro o beneficio adicional a lo legalmente autorizado por el desempeño de su función;
 
-VIII. Proporcionar información alterada;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2011)</small>
+
+VIII. Proporcionar información alterada o falsa;
 
 IX. Solicitar a las autoridades la imposición de medidas precautorias o cautelares y que éstas resulten excesivas, no necesarias o violatorias de los Derechos Humanos;
 
@@ -733,23 +1051,45 @@ XI. Las demás que le señale la ley.
 
 El Contralor interno, instaurará el procedimiento previsto en la Ley de Responsabilidades de los Servidores Públicos del Estado de Michoacán; cuando los servidores públicos de la Comisión, incurran en alguna de las causales a que hace mención el artículo anterior y podrá imponerse:
 
-I. Amonestación;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2011)</small>
 
-II. Apercibimiento;
+I. Apercibimiento;
 
-III. Suspensión del empleo por un período no menor a tres días ni mayor a tres meses; y,
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2011)</small>
 
-IV. Destitución.
+II. Amonestación;
+
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2011)</small>
+
+III. Suspensión del empleo por un período no menor de tres días, ni mayor a tres meses;
+
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2011)</small>
+
+IV. Sanciones económicas;
+
+> <small>(ADICIONADA, P.O. 1 DE MARZO DE 2011)</small>
+
+V. Destitución; y,
+
+> <small>(ADICIONADA, P.O. 1 DE MARZO DE 2011)</small>
+
+VI. Inhabilitación de 1 a 6 años para el ejercicio de empleos, cargos o comisiones en el servicio público.
 
 Tratándose del Presidente en todos los casos se dará vista al Congreso.
 
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2011)</small>
+
 ###### Artículo 52.
 
-Los funcionarios y empleados que integren la Comisión, serán trabajadores de confianza debido a la naturaleza de las funciones que desempeñan y sus relaciones laborales se regirán por la Ley de los Trabajadores al Servicio del Estado de Michoacán de Ocampo y de sus Municipios.
+Los funcionarios y empleados que integren la Comisión, serán trabajadores de confianza debido a la naturaleza de las funciones que desempeñan y sus relaciones laborales se regirán por la Ley Federal del Trabajo y sus condiciones generales de trabajo.
+
+Se establecerá un sistema de Servicio Profesional de Carrera a efecto de garantizar el ingreso, desarrollo y permanencia en el servicio público de la Comisión, en igualdad de oportunidades y con base en el mérito, a fin de impulsar la eficiencia de la gestión pública para beneficio de la sociedad.
+
+Podrán integrarse al Servicio Civil de Carrera cuyos lineamientos se determinarán en el Reglamento.
 
 ## Título Segundo. Procedimientos
 
-### Capítulo Segundo. Presentación de la Queja
+### Capítulo Primero. Generalidades
 
 ###### Artículo 53.
 
@@ -757,7 +1097,7 @@ El procedimiento que se siga ante la Comisión deberá ser breve, sencillo y gra
 
 Se tramitará observando los principios de inmediatez, concentración y expeditez, propiciando el contacto directo con quejosos y autoridades para evitar la dilación de las comunicaciones escritas.
 
-### Capítulo Tercero. Trámite de la Queja
+### Capítulo Segundo. Presentación de la Queja
 
 ###### Artículo 54.
 
@@ -799,7 +1139,7 @@ Las violaciones por lesa humanidad no prescriben.
 
 Las quejas que se presenten ante la Comisión, así como los acuerdos, peticiones y recomendaciones que ésta dicte, no afectarán el ejercicio de otros derechos y medios de defensa que puedan corresponder a los afectados conforme a las leyes, ni suspenderán o interrumpirán sus plazos preclusivos, de prescripción o caducidad. Esta circunstancia deberá hacerse del conocimiento de los quejosos en el acuerdo de admisión de la instancia.
 
-### Capítulo Cuarto. Informes de los Servidores Públicos
+### Capítulo Tercero. Trámite de la Queja
 
 ###### Artículo 61.
 
@@ -843,9 +1183,27 @@ En cualquier etapa del procedimiento, si el quejoso no contesta o no acude a tre
 
 Los expedientes durarán en archivo un año a partir de su conclusión, al final de este término se procederá a su destrucción, atendiendo a lo dispuesto por la Ley de Archivos Administrativos e Históricos del Estado de Michoacán de Ocampo y sus Municipios.
 
-### Capítulo Quinto. Responsabilidades y Sanciones
+> <small>(REFORMADA SU DENOMINACION [N. DE E. ADICIONADO], P.O. 1 DE MARZO DE 2011)</small>
 
-### Capítulo Sexto. Investigación y Pruebas
+### Capítulo Cuarto. De las Medidas Precautorias o Cautelares
+
+> <small>(ADICIONADO, P.O. 1 DE MARZO DE 2011)</small>
+
+Artículo 67 BIS. Las medidas precautorias o cautelares tienen por objeto conservar o restituir a una persona en el goce de sus derechos humanos, proceden cuando las presuntas violaciones se consideren graves, resulte difícil o imposible la reparación del daño causado, la restitución al agraviado en el goce de sus derechos humanos.
+
+> <small>(ADICIONADO, P.O. 1 DE MARZO DE 2011)</small>
+
+Artículo 67 TER. La Comisión debe solicitar a las autoridades o servidores públicos competentes, las medidas precautorias o cautelares que estime necesarias, así como solicitar su modificación cuando sean insuficientes o cambien las situaciones que las justificaron.
+
+> <small>(ADICIONADO, P.O. 1 DE MARZO DE 2011)</small>
+
+Artículo 67 QUATER. Las autoridades o servidores públicos a quienes se haya solicitado una medida precautoria o cautelar deberán comunicar a la Comisión dentro del plazo fijado por el Visitador, que no podrá ser mayor de tres días, si dicha medida ha sido aceptada, informando, en su caso, las acciones realizadas para tal fin y agregando la documentación que lo sustente.
+
+Una vez aceptadas las medidas a que se refiere el presente capítulo, las autoridades o servidores públicos están obligados a cumplirlas en sus términos. La Comisión puede verificar su cumplimiento en cualquier momento.
+
+(REUBICADO, [N. DE E. ANTES CAPITULO CUARTO], P.O. 1 DE MARZO DE 2011)
+
+### Capítulo Quinto. Informes de los Servidores Públicos
 
 ###### Artículo 68.
 
@@ -859,11 +1217,15 @@ A falta del informe o del retraso injustificado en su presentación, se presumir
 
 Todas las autoridades, dependencias y entidades de los poderes estatales y gobiernos municipales, deberán proporcionar veraz y oportunamente la información y documentación que solicite la Comisión. El incumplimiento de esta obligación faculta a la Comisión para dar vista a quien ejerza funciones de contraloría para la consecución y seguimiento de las responsabilidades a que hubiere lugar.
 
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2011)</small>
+
 ###### Artículo 70.
 
-Todos los servidores públicos estatales y municipales, incluso aquellos que no hubieren intervenido en los actos u omisiones materia de la investigación, pero que por razón de sus funciones o actividades puedan proporcionar información, deberán cumplir con los requerimientos que les dirija la Comisión en tal sentido.
+Todos los servidores públicos, estatales, municipales y organismos autónomos, incluso aquellos que no hubieren intervenido en los actos u omisiones materia de la investigación, pero que por razón de sus funciones o actividades puedan proporcionar información, deberán cumplir con los requerimientos que les dirija la Comisión en tal sentido.
 
-### Capítulo Séptimo. Conciliación
+(REUBICADO [N. DE E. ANTES CAPITULO QUINTO], P.O. 1 DE MARZO DE 2011)
+
+### Capítulo Sexto. Responsabilidades y Sanciones
 
 ###### Artículo 71.
 
@@ -873,11 +1235,15 @@ La Comisión deberá hacer del conocimiento de las autoridades competentes los a
 
 La Comisión tomará las medidas necesarias para que se cumpla con lo establecido en la Ley de Responsabilidades de los Servidores Públicos del Estado de Michoacán, en los términos de la Constitución.
 
-### Capítulo Octavo. Recomendaciones y Acuerdos de No Violación
+(REUBICADO [N. DE E. ANTES CAPITULO SEXTO], P.O. 1 DE MARZO DE 2011)
+
+### Capítulo Séptimo. Investigación y Pruebas
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE MARZO DE 2011)</small>
 
 ###### Artículo 73.
 
-Cuando para el esclarecimiento de los hechos se requiera de una investigación, la Comisión tendrá las siguientes atribuciones:
+Admitida la queja y requerido el informe, se iniciará de inmediato la investigación para el esclarecimiento de los hechos, llevando a cabo las actuaciones necesarias, entre las que se encuentra:
 
 I. Practicar visita de inspección a la dependencia o lugar señalado en la queja;
 
@@ -891,31 +1257,61 @@ V. Realizar todas las demás actuaciones necesarias para el esclarecimiento de l
 
 La Comisión levantará en todos los casos acta circunstanciada de sus actuaciones.
 
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2011)</small>
+
 ###### Artículo 74.
 
-Recibido el informe, se abrirá a prueba el procedimiento por un término de treinta días naturales. Admitidas las pruebas se señalará día y hora para su desahogo.
+Recibido el informe se abrirá a prueba el procedimiento hasta por treinta días naturales, dentro de éste término la Comisión señalará fecha para la celebración de audiencia de ofrecimiento, admisión y desahogo de pruebas, las que podrán ofrecerse de manera verbal o escrita. Cuando por su naturaleza no sean posible desahogarse al momento mismo de la audiencia, se señalará día y hora para su desahogo.
 
-Las partes podrán ofrecer pruebas de toda índole siempre y cuando no sean contrarias a la moral, al derecho y a la Ley.
+Cuando el quejoso no se presente a la audiencia de ofrecimiento, admisión y desahogo de pruebas, la Comisión le tendrá por ofrecidas aquellas que acompañe a su queja.
 
-###### Artículo 75.
+De considerarse necesario a juicio del visitador, habrá un término extraordinario para el desahogo de pruebas hasta por ocho días.
+
+Las partes podrán ofrecer pruebas de toda índole siempre y cuando no sean contrarías al derecho y a la Ley.
+
+Se recibirán aquéllas pruebas que resulten supervinientes por las partes, mismas que serán tomadas en cuenta, siempre y cuando no se haya dictado la resolución.
+
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2011)</small>
+
+###### ARTICULO 75.
 
 La Comisión valorará las pruebas en su conjunto, a fin de determinar si los hechos materia de la queja son violatorios de los Derechos Humanos.
 
-Para los efectos de esta Ley se aplicará de manera supletoria el Código de Procedimientos Civiles del Estado de Michoacán
+(REUBICADO [N. DE E. ANTES CAPITULO SEPTIMO], P.O. 1 DE MARZO DE 2011)
+
+### Capítulo Octavo. Conciliación
+
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2011)</small>
 
 ###### Artículo 76.
 
-La conciliación se propiciará en cualquier etapa del procedimiento, siempre que no se trate de violaciones graves a los Derechos Humanos o que afecten intereses de terceros.
+La conciliación es un medio alternativo, auxiliar y complementario al procedimiento de queja y a la investigación de oficio, para la solución de conflictos.
+
+La conciliación es voluntaria por lo que no puede ser impuesta a persona alguna.
+
+> <small>(ADICIONADO, P.O. 1 DE MARZO DE 2011)</small>
+
+Artículo 76 BIS. La conciliación se propiciará en cualquier etapa del procedimiento, siempre que no se trate de violaciones graves a los Derechos Humanos o que afecten intereses de terceros, pero en todo caso, la Comisión deberá procurar la conciliación entre las partes en la misma audiencia de ofrecimiento, admisión y desahogo de pruebas, previo al desarrollo de la misma, en la que la autoridad podrá manifestar verbalmente lo conducente.
+
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2011)</small>
 
 ###### Artículo 77.
 
-La autoridad dispondrá de siete días naturales contados a partir de la recepción de la propuesta de conciliación de la Comisión, para responder por escrito a ella.
+La Comisión podrá recibir del servidor público o del quejoso propuesta de conciliación, en cualquier momento del procedimiento; debiendo señalar día, fecha y hora para el avenimiento.
 
-Aceptada la conciliación por las partes y acreditado el cumplimiento de la misma, se ordenará el archivo definitivo de la queja.
+Para los fines de la conciliación, la Comisión puede solicitar la presencia de particulares, autoridades o servidores públicos que considere convenientes.
+
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2011)</small>
 
 ###### Artículo 78.
 
-Si la autoridad no acepta la propuesta o no cumple con el acuerdo de conciliación en los términos pactados, se continuará de inmediato con el trámite de la queja, asentándolo en el acta correspondiente.
+Si en la audiencia de conciliación el servidor público señalado como responsable no acudiera, la Comisión seguirá intentando el avenimiento de las partes.
+
+Aceptada la conciliación por las partes y acreditado el cumplimiento de la misma, se ordenará el archivo definitivo de la queja.
+
+(REUBICADO [N. DE E. ANTES CAPITULO OCTAVO], P.O. 1 DE MARZO DE 2011)
+
+### Capítulo Noveno. Recomendaciones y Acuerdos de No Violación
 
 ###### Artículo 79.
 
@@ -933,13 +1329,21 @@ III. Los puntos concluyentes de la recomendación o del acuerdo de no violación
 
 Los proyectos antes referidos, serán sometidos al Presidente para su consulta, quien emitirá la recomendación o el acuerdo de no violación de los Derechos Humanos, turnando el expediente al Director de Orientación Legal, Quejas y Seguimiento para su consecución; o en su caso, hará las observaciones que considere necesarias.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE MARZO DE 2011)</small>
+
 ###### Artículo 81.
 
-El Presidente de la Comisión podrá pedir:
+La Comisión podrá pedir:
 
 I. El cumplimiento de la recomendación o acuerdo de conciliación, y,
 
-II. El cese de las violaciones de Derechos Humanos.
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2011)</small>
+
+II. El cese de las violaciones de Derechos Humanos; y,
+
+> <small>(ADICIONADA, P.O. 1 DE MARZO DE 2011)</small>
+
+III. La intervención de la Comisión legislativa de Derechos Humanos del Congreso, cuando exista incumplimiento de la autoridad responsable a alguna recomendación o acuerdo de conciliación.
 
 ###### Artículo 82.
 
@@ -965,13 +1369,55 @@ Corresponde a la Comisión comprobar que se cumplió con la recomendación, real
 
 El Presidente podrá hacer públicas, en su totalidad o en extracto, únicamente las recomendaciones no aceptadas o no cumplidas y deberá hacer públicos los acuerdos de no violación.
 
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2011)</small>
+
 ###### Artículo 87.
 
-Toda queja que haya sido admitida por la Comisión, deberá resolverse en un plazo máximo de cuatro meses contados a partir de que ha concluido el término para el desahogo de las pruebas. El Presidente vigilará su debido cumplimiento.
+Concluido el término para el desahogo de pruebas, la Comisión deberá resolver la queja, en un plazo de treinta días naturales. El Presidente vigilará su debido cumplimiento.
+
+Aquéllas quejas que por su naturaleza requieran una ampliación de término para ser resueltas por la Comisión, el plazo podrá extenderse hasta diez días naturales, previa aprobación del Presidente.
+
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2011)</small>
 
 ###### Artículo 88.
 
-Únicamente procederán los recursos establecidos en la Legislación Federal.
+Cuando una recomendación o acuerdo de conciliación no sea aceptada o cumplido, por la autoridad responsable, o habiéndola aceptado sea omiso en su cumplimiento, el Congreso del Estado, a petición de la Comisión, puede solicitar su comparecencia a efecto de que justifique su negativa u omisión.
+
+> <small>(ADICIONADO, P.O. 1 DE MARZO DE 2011)</small>
+
+###### Artículo 89.
+
+En contra de las recomendaciones, acuerdos o resoluciones definitivas de la Comisión, así como por omisiones o inactividad del Organismo, los quejosos pueden interponer los recursos de impugnación o de queja, que se sustancian ante la Comisión Nacional de los Derechos Humanos en términos de su Ley y Reglamento.
+
+> <small>(ADICIONADO, P.O. 1 DE MARZO DE 2011)</small>
+
+### Capítulo Décimo. De las Obligaciones y Colaboración de los Servidores Públicos
+
+> <small>(ADICIONADO, P.O. 1 DE MARZO DE 2011)</small>
+
+###### Artículo 90.
+
+Las autoridades o servidores públicos estatales y municipales, tienen la obligación de proporcionar al personal de la Comisión, acceso irrestricto e inmediato a los espacios físicos, en que deban practicar las actuaciones a que se refieren la presente Ley y el Reglamento.
+
+> <small>(ADICIONADO, P.O. 1 DE MARZO DE 2011)</small>
+
+###### Artículo 91.
+
+Las autoridades o los servidores públicos son responsables por los actos u omisiones en que incurran con motivo de los procedimientos seguidos ante la Comisión, así como por el incumplimiento de las recomendaciones aceptadas, de acuerdo con las disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 1 DE MARZO DE 2011)</small>
+
+###### Artículo 92.
+
+Cuando persistan actitudes u omisiones que impliquen conductas evasivas o de entorpecimiento por parte de los servidores públicos que deban intervenir o colaborar en los procedimientos de la Comisión o en el cumplimiento de las recomendaciones aceptadas o no aceptadas, la Comisión puede formular informes denunciándolos ante las autoridades competentes, según lo amerite el asunto de que se trate.
+
+> <small>(ADICIONADO, P.O. 1 DE MARZO DE 2011)</small>
+
+###### Artículo 93.
+
+La Comisión debe hacer del conocimiento de los superiores jerárquicos de la autoridad responsable, los actos u omisiones en que incurran los servidores públicos, durante los procedimientos, así como en el cumplimiento o incumplimiento de las recomendaciones, para efecto de que se determine lo que conforme a derecho proceda.
+
+El superior jerárquico está obligado a informar a la Comisión sobre las medidas o sanciones disciplinarías que, en su caso, sean impuestas al servidor público responsable.
 
 ## TRANSITORIOS
 
@@ -992,3 +1438,13 @@ PRESIDENTE.- DIP. GUSTAVO ARIAS GARDUÑO.- PRIMER SECRETARIO.- DIP. MARTÍN SAMA
 En cumplimiento a lo dispuesto por la fracción I, del artículo 60 de la Constitución Política del Estado de Michoacán de Ocampo, y para su debida publicación y observancia, promulgo el presente Decreto, en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 07 siete días del mes de diciembre del año 2007 dos mil siete.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LÁZARO CÁRDENAS BATEL.- LA SECRETARIA DE GOBIERNO.- MARÍA GUADALUPE SÁNCHEZ MARTÍNEZ. (Firmados).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 1 DE MARZO DE 2011.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Las quejas que se encuentran en trámite hasta antes de la entrada en vigor de estas reformas, seguirán substanciándose con el procedimiento de la Ley anterior.
+
+TERCERO. La Comisión tendrá noventa días para emitir los reglamentos emanados de estas reformas, a partir de su entrada en vigor.
