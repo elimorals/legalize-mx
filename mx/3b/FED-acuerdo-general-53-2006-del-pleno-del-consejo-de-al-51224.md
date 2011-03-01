@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-53-2006-del-pleno-del-consejo-de-al-51224"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-08-11"
-last_updated: "2010-02-11"
+last_updated: "2011-03-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51224&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-07-10"
 
 ACUERDO GENERAL 53/2006 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LOS LINEAMIENTOS PARA EL ARRENDAMIENTO Y ADQUISICION DE INMUEBLES EN EL CONSEJO DE LA JUDICATURA FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 11 DE FEBRERO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE MARZO DE 2011.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el viernes 11 de agosto de 2006.
 
@@ -297,7 +297,9 @@ Opinión de coordinadores. Previo al arrendamiento de bienes inmuebles para la i
 
 Consideraciones para el arrendamiento. Para el arrendamiento de inmuebles se deberá atender lo siguiente:
 
-I. El dictamen técnico que formule la Dirección General de Inmuebles y Mantenimiento, tratándose de inmuebles para órganos jurisdiccionales o auxiliares, o las de Administraciones Regionales para el uso de oficinas administrativas, bodegas y almacenes;
+> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL 2/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 1 DE MARZO DE 2011)</small>
+
+I. El dictamen técnico que formule la Dirección General de Inmuebles y Mantenimiento, tratándose de inmuebles para órganos jurisdiccionales, o el de las Administraciones Regionales para el uso de órganos auxiliares, oficinas administrativas, bodegas y almacenes, siempre que las condiciones para dictaminar estos últimos, se ajusten a lo establecido en el artículo 21 del presente Acuerdo;
 
 II. La ubicación y servicios públicos necesarios para el funcionamiento de los órganos jurisdiccionales, auxiliares o áreas administrativas en el inmueble de que se trate;
 
@@ -337,9 +339,11 @@ El acta de entrega-recepción deberá suscribirse por un representante del Conse
 
 No podrá hacerse modificación, adaptación o mejora al inmueble si no existe el acta de entrega-recepción, salvo en casos urgentes, previa autorización de la instancia competente.
 
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 2/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 1 DE MARZO DE 2011)</small>
+
 ###### ARTICULO 19.
 
-De la seguridad. Antes de formalizar el arrendamiento, la Dirección General de Inmuebles y Mantenimiento, o en su caso, las Administraciones Regionales, tratándose de inmuebles para uso administrativo en su localidad, determinarán si el inmueble a arrendar, requiere contar con los dictámenes técnicos estructurales de uso, que garanticen la seguridad y reflejen su estado de conservación.
+De la seguridad. Antes de formalizar el arrendamiento, la Dirección General de Inmuebles y Mantenimiento, o en su caso, las Administraciones Regionales, tratándose de inmuebles para uso administrativo en su localidad y espacios con las características señaladas en el artículo 21 del presente Acuerdo, determinarán si el inmueble a arrendar, requiere contar con los dictámenes técnicos estructurales de uso, que garanticen la seguridad y reflejen su estado de conservación.
 
 ### CAPITULO V. DE LOS ARRENDAMIENTOS
 
@@ -357,13 +361,21 @@ II. Las instancias encargadas de la búsqueda podrán auxiliarse de empresas ded
 
 III. Se solicitará al arrendador que exhiba los documentos que lo acrediten como propietario del inmueble, o que cuenta con la personalidad jurídica suficiente para ofrecerlo en arrendamiento y negociar los términos del mismo, así como los permisos y documentos que demuestren que el inmueble cuenta con el uso de suelo correspondiente; y
 
-IV. La Dirección General de Inmuebles y Mantenimiento, tratándose de inmuebles para albergar órganos jurisdiccionales o auxiliares, o la de Administración Regional, en el caso de áreas administrativas, dictaminarán si el inmueble es viable y realizarán una estimación aproximada del monto de la inversión y tiempo de ejecución de las obras para que el inmueble esté en condiciones de ser ocupado, lo que se comunicará a la Dirección General de Recursos Materiales y Servicios Generales, cuando se trate de inmuebles ubicados en la ciudad de México y zona conurbada.
+> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL 2/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 1 DE MARZO DE 2011)</small>
+
+IV. La Dirección General de Inmuebles y Mantenimiento, tratándose de inmuebles para albergar órganos jurisdiccionales, o las Administraciones, en el caso de órganos auxiliares o áreas administrativas, dictaminarán si el inmueble es viable y realizarán una estimación aproximada del monto de la inversión y tiempo de ejecución de las obras para que el inmueble esté en condiciones de ser ocupado, lo que se comunicará a la Dirección General de Recursos Materiales y Servicios Generales, cuando se trate de inmuebles ubicados en la ciudad de México y zona conurbada.
+
+Cuando se trate de espacios ubicados en el interior de la República Mexicana, en los que se pretenda albergar órganos auxiliares, el dictamen lo deberá elaborar la Administración Regional de que se trate, cumpliendo con los requisitos establecidos por la Dirección General de Inmuebles y Mantenimiento, y solo en los casos en que el inmueble presente afectaciones estructurales de importancia a consideración del área técnica de la propia Administración Regional, o los costos de adaptaciones no se ajusten a lo establecido en el artículo 24 del presente Acuerdo General, así como cuando por circunstancias particulares se considere necesaria la intervención de la Dirección General de Inmuebles y Mantenimiento, el dictamen técnico será elaborado por ésta última.
+
+> <small>(REFORMADO PRIMER PARRAFO POR EL PUNTO UNICO DEL ACUERDO GENERAL 2/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 1 DE MARZO DE 2011)</small>
 
 ###### ARTICULO 22.
 
-Negociación del contrato. Una vez definido el inmueble idóneo para el arrendamiento, la Dirección General de Inmuebles y Mantenimiento o las Administraciones Regionales, según corresponda, deberán negociar el contrato, tomando en cuenta lo siguiente:
+Negociación del contrato. Una vez definido el inmueble idóneo para el arrendamiento, la Dirección General de Recursos Materiales y Servicios Generales o las Administraciones Regionales, según corresponda, deberán negociar el contrato, tomando en cuenta lo siguiente:
 
-I. Que el precio sea acorde a las condiciones del mercado inmobiliario de la localidad, lo cual se verificará mediante avalúo de justipreciación de rentas, el cual podrá ser elaborado por las instituciones de crédito o sociedades nacionales de crédito o por la Sociedad de Ingenieros Civiles Valuadores (SICIV), afiliada al Colegio de Ingenieros de México, según se considere más conveniente; sólo por excepción podrá solicitarse avalúo distinto a los antes indicados y, en casos urgentes, prescindirse del avalúo; y
+> <small>(REFORMADA POR EL PUNTO UNICO DEL ACUERDO GENERAL 2/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 1 DE MARZO DE 2011)</small>
+
+I. Que el precio sea acorde a las condiciones del mercado inmobiliario de la localidad, lo cual se verificará mediante avalúo de justipreciación de rentas, el cual podrá ser elaborado por las instituciones de crédito o sociedades nacionales de crédito o por la Sociedad de Ingenieros Civiles Valuadores (SICIV), afiliada al Colegio de Ingenieros de México, por peritos especializados afiliados a las Sociedades Civiles o Colegios de Ingenieros de las localidades o aquellos registrados ante las autoridades correspondientes de los Estados, según se considere más conveniente; sólo por excepción podrá solicitarse avalúo distinto a los antes indicados y, en casos urgentes, prescindirse del mismo; y
 
 II. El monto de la renta podrá variar del establecido en el avalúo, pero se deberá solicitar la autorización de la Comisión de Administración, a la que se aportarán los elementos de juicio que demuestren la idoneidad del inmueble, sus ventajas en comparación con otras ofertas y la información de mercado de que se disponga.
 
@@ -395,9 +407,11 @@ Previsión de la disponibilidad presupuestal. Las Direcciones Generales de Recur
 
 Vigencia, inversión y amortización. Los plazos de los contratos deberán pactarse con una vigencia suficiente que permita al Consejo de la Judicatura Federal, amortizar, en su caso, la inversión que se haya utilizado en su adaptación, para lo cual deberá observarse lo establecido en el artículo 21, fracción IV de este acuerdo.
 
+> <small>(REFORMADO PRIMER PARRAFO POR EL PUNTO UNICO DEL ACUERDO GENERAL 2/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 1 DE MARZO DE 2011)</small>
+
 ###### ARTICULO 29.
 
-De los incrementos por concepto de renta. Los incrementos anuales por concepto de renta podrán negociarse conforme a lo dispuesto en el Indice Nacional de Precios al Consumidor, emitido por el Banco de México, correspondiente a la región en que se ubique el inmueble. Si el aumento pretendido por el arrendador rebasa el parámetro señalado, el asunto deberá someterse a la consideración de “El Comité”, por conducto de la Dirección General de Recursos Materiales y Servicios Generales o de Administración Regional, según corresponda, para que en su caso, previo acuerdo de la Comisión de Administración, se autorice la negociación.
+De los incrementos por concepto de renta. Los incrementos anuales por concepto de renta podrán negociarse conforme a lo dispuesto en el Indice Nacional de Precios al Consumidor, emitido por el Banco de México, correspondiente a la región en que se ubique el inmueble. Si el aumento pretendido por el arrendador rebasa el parámetro señalado, la Dirección General de Recursos Materiales y Servicios Generales o de Administración Regional, tendrá facultades para negociar dicho monto hasta un tope igual al factor que fije el Indice General de Precios al Consumidor, y si la pretensión del arrendador rebasa ambos parámetros, el asunto deberá someterse a la consideración de “El Comité”, por conducto de la Dirección General de Recursos Materiales y Servicios Generales o de Administración Regional, según corresponda, para que en su caso, previo acuerdo de la Comisión de Administración, se autorice la negociación.
 
 La renovación de los contratos de arrendamiento celebrados por el Consejo de la Judicatura Federal, se realizará por la Dirección General de Recursos Materiales y Servicios Generales o por las Administraciones Regionales, según corresponda, con base en las normas establecidas en el presente acuerdo y los procedimientos que para tal efecto indique la primera.
 
@@ -870,5 +884,13 @@ D.O.F. 11 DE FEBRERO DE 2010.
 PRIMERO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO.- La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de esta reforma, al Acuerdo General 53/2006, del Pleno del Consejo de la Judicatura Federal, que Establece los Lineamientos para el Arrendamiento y Adquisición de Inmuebles en el Consejo de la Judicatura Federal.
+
+D.O.F. 1 DE MARZO DE 2011.
+
+PRIMERO.- El presente acuerdo entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta, así como en los medios electrónicos de consulta pública con los que cuente el Consejo de la Judicatura Federal.
 
 TERCERO.- La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de esta reforma, al Acuerdo General 53/2006, del Pleno del Consejo de la Judicatura Federal, que Establece los Lineamientos para el Arrendamiento y Adquisición de Inmuebles en el Consejo de la Judicatura Federal.
