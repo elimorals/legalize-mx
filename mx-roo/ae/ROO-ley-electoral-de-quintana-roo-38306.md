@@ -4,7 +4,7 @@ identifier: "ROO-ley-electoral-de-quintana-roo-38306"
 country: "mx"
 rank: "ley"
 publication_date: "2004-03-04"
-last_updated: "2011-02-25"
+last_updated: "2011-03-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38306&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ELECTORAL DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE FEBRERO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE MARZO DE 2011.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el jueves 4 de marzo de 2004.
 
@@ -337,11 +337,13 @@ Los regidores de mayoría relativa y de representación proporcional tendrán lo
 
 Para la elección de miembros de los Ayuntamientos de los municipios del Estado, se estará a las siguientes reglas:
 
-I. En los municipios de Othón P. Blanco y Benito Juárez, se integrarán con un Presidente, un Síndico, nueve Regidores electos según el principio de mayoría relativa y seis Regidores designados según el principio de representación proporcional;
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2011)</small>
 
-> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
+I. En los municipios de Othón P. Blanco, Benito Juárez y Solidaridad, se integrarán con un Presidente, un Síndico, nueve Regidores electos según el principio de mayoría relativa y seis Regidores designados según el principio de representación proporcional;
 
-II. En los Municipios de Felipe Carrillo Puerto, José María Morelos, Cozumel, Lázaro Cárdenas, Solidaridad, Tulúm e isla Mujeres, se integrarán con un Presidente, un Síndico, seis Regidores electos por el principio de mayoría relativa y tres Regidores designados según el principio de representación proporcional;
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2011)</small>
+
+II. En los Municipios de Felipe Carrillo Puerto, José María Morelos, Cozumel, Lázaro Cárdenas, Tulúm, Isla Mujeres y Bacalar, se integrarán con un Presidente, un Síndico, seis Regidores electos por el principio de mayoría relativa y tres Regidores designados según el principio de representación proporcional;
 
 III. Cada partido político o coalición deberá postular una planilla con fórmulas de propietarios y suplentes con la totalidad de candidatos para los cargos a elegir. El candidato a presidente municipal ocupará el primer lugar en la lista de la planilla, el candidato a síndico ocupará el segundo y los restantes candidatos a regidor ocuparán los siguientes lugares en la lista, hasta completar el número que corresponda de acuerdo a lo establecido en las fracciones I y II de este artículo;
 
@@ -3444,3 +3446,9 @@ P.O. 25 DE FEBRERO DE 2011.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO.- Los escudos que se exhiban en los edificios públicos, escuelas o en otras instituciones, deberán ajustarse a la reforma del Artículo 6 de la Ley Sobre las Características y el Uso del Escudo del Estado de Quintana Roo establecida en el presente Decreto. Se exceptúan los escudos esculpidos en edificios o centros históricos que se encuentren ubicados en el Estado de Quintana Roo, que constituyan por su valor cultural o trascendencia social, parte indisoluble de la peculiaridad del pueblo quintanarroense.
+
+P.O. 2 DE MARZO DE 2011.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo, previa entrada en vigor de la reforma Constitucional a los artículos 134, fracciones I y II, y 135, fracción I párrafo segundo de la constitución Política del Estado Libre y Soberano de Quintana Roo.
+
+Artículo Segundo.- La siguiente integración del Ayuntamiento de Solidaridad, en los términos que prevé el presente decreto, se aplicará a partir del proceso electoral ordinario que se lleve a cabo en el año 2013.
