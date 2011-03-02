@@ -4,7 +4,7 @@ identifier: "ROO-constitucion-politica-del-estado-libre-y-soberano-de-7319"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-12"
-last_updated: "2011-02-17"
+last_updated: "2011-03-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE FEBRERO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MARZO DE 2011.
 
 Constitución publicada en el Periódico Oficial del Estado de Quintana Roo, el 12 de enero de 1975.
 
@@ -291,6 +291,24 @@ En los juicios del orden criminal nunca se impondrá por simple analogía ni aú
 
 En los juicios del orden civil, la sentencia definitiva deberá ser conforme a la letra o a la interpretación jurídica de la ley, y en su deficiencia, ésta se fundará en los principios generales de derecho.
 
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2011)</small>
+
+No se considerará confiscación la aplicación de bienes de una persona cuando sea decretada para el pago de multas o impuestos, ni cuando la decrete una autoridad judicial para el pago de responsabilidad civil derivada de la comisión de un delito. Tampoco se considera confiscación el decomiso que ordene la autoridad judicial de los bienes en caso de enriquecimiento ilícito en los términos de esta Constitución, la aplicación a favor del Estado de bienes asegurados que causen abandono en los términos de las disposiciones aplicables, ni la de aquellos bienes cuyo dominio se declare extinto en sentencia. En el caso de extinción se establecerá un procedimiento que se regirá por las siguientes reglas:
+
+l.- Será jurisdiccional y autónomo del de materia penal;
+
+II.- Procederá en los casos de delitos de secuestro, robo con violencia, robo de vehículos, extorsión, fraude y trata de personas, respecto de los bienes siguientes:
+
+a).- Aquellos que sean instrumento, objeto o producto del delito, aún cuando no se haya dictado la sentencia que determine la responsabilidad penal, pero existan elementos suficientes para determinar que el hecho ilícito sucedió.
+
+b).- Aquellos que no sean instrumento, objeto o producto del delito, pero que hayan sido utilizados o destinados a ocultar o mezclar bienes producto del delito, siempre y cuando se reúnan los extremos del inciso anterior.
+
+c).- Aquellos que estén siendo utilizados para la comisión de delitos por un tercero, si su dueño tuvo conocimiento de ello y no lo notificó a la autoridad o hizo algo para impedirlo.
+
+d).- Aquellos que estén intitulados a nombre de terceros, pero existan suficientes elementos para determinar que son producto de delitos patrimoniales, y el acusado por estos delitos se comporte como dueño.
+
+III.- Toda persona que se considere afectada podrá interponer los recursos respectivos para demostrar la procedencia lícita de los bienes y su actuación de buena fe, así como que estaba impedida para conocer la utilización ilícita de sus bienes.
+
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
 ###### ARTICULO 24.
@@ -331,55 +349,113 @@ La autoridad administrativa podrá practicar visitas domiciliarias únicamente p
 
 Nadie puede ser reducido a prisión por deudas de carácter meramente civil. Ninguna persona podrá hacerse justicia por sí misma, ni ejercer violencia para reclamrar (sic) su derecho. Los tribunales estarán expeditos para administrar justicia en los plazos y términos que fije la Ley. Su servicio será gratuito sin que se admitan en consecuencia las costas judiciales.
 
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2011)</small>
+
 ###### ARTICULO 26.
 
-Sólo por delito que merezca pena corporal habrá lugar a prisión preventiva. El establecimiento que se reserve para ésta tendrá distinta ubicación respecto del destinado para la extinción de una condena física.
+El proceso penal será acusatorio y oral. Se regirá por los principios de publicidad, contradicción, concentración, continuidad e inmediación.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+A.- De los principios generales:
 
-> <small>(REFORMADO, P.O. 28 DE ENERO DE 2011)</small>
+l.- El proceso penal tendrá por objeto el esclarecimiento de los hechos, proteger al inocente, procurar que el culpable no quede impune y que los daños causados por el delito se reparen;
 
-El Estado organizará el sistema penal sobre la base del trabajo, la capacitación para el mismo, la educación, .la salud y el deporte, como medios para la reinserción del sentenciado a la sociedad y procurar que no vuelva a delinquir, observando los beneficios que para él prevé la ley. Las mujeres compurgarán sus penas en lugares separados de los destinados a los varones para tal efecto.
+II.- Toda audiencia se desarrollará en presencia del juez, sin que pueda delegar en ninguna persona el desahogo y la valoración de las pruebas, la cual deberá realizarse de manera libre y lógica;
 
-> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+III.- Para los efectos de la sentencia sólo se considerarán como prueba aquellas que hayan sido desahogadas en la audiencia de juicio. La ley establecerá las excepciones y los requisitos para admitir en juicio la prueba anticipada, que por su naturaleza requiera desahogo previo;
 
-El Estado establecerá un sistema integral de justicia para adolescentes que será aplicable a quienes se atribuya la realización de una conducta tipificada como delito por las leyes penales y tengan entre doce años cumplidos y menos de dieciocho años de edad, en el que se garanticen los derechos fundamentales que reconoce la Constitución Política de los Estados Unidos Mexicanos y esta Constitución para todo individuo, así como aquellos derechos específicos que por su condición de personas en desarrollo les han sido reconocidos.
+IV.- El juicio se celebrará ante un juez que no haya conocido del caso previamente. La presentación de los argumentos y los elementos probatorios se desarrollará de manera pública, contradictoria y oral;
 
-> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+V.- La carga de la prueba para demostrar la culpabilidad corresponde a la parte acusadora. Las partes tendrán igualdad procesal para sostener la acusación o la defensa, respectivamente;
 
-La operación de este sistema de justicia integral estará a cargo de instituciones, tribunales y autoridades especializados en la procuración e impartición de justicia para adolescentes, y se regirá por lo dispuesto en esta Constitución y su ley reglamentaria, misma que establecerá las bases del proceso especializado para adolescentes, la ejecución de las medidas y los lineamientos para el establecimiento del Sistema Integral de Justicia para Adolescentes, así como su integración, organización y funcionamiento.
+VI.- Ningún juzgador podrá tratar asuntos que estén sujetos a proceso con cualquiera de las partes sin que esté presente la otra, respetando en todo momento el principio de contradicción, salvo las excepciones que establece esta Constitución o la ley;
 
-> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+VII.- Una vez iniciado el proceso penal, siempre y cuando no exista oposición del inculpado, se podrá decretar su terminación anticipada en los supuestos y bajo las modalidades que determine la ley. Si el imputado reconoce ante la autoridad judicial, voluntariamente y con conocimiento de las consecuencias, su participación en el delito y existen medios de convicción suficientes para corroborar la imputación, el juez citará a audiencia de sentencia. La ley establecerá los beneficios que se podrán otorgar al inculpado cuando acepte su responsabilidad;
 
-Se podrán aplicar las medidas de orientación, protección y tratamiento que amerite cada caso, atendiendo a la protección integral y el interés superior del adolescente. Éstas deberán ser proporcionales a la conducta realizada y tendrán como fin la reintegración social y familiar del adolescente, así como el pleno desarrollo de su persona y capacidades.
+VIII.- El juez sólo condenará cuando exista convicción más allá de la duda razonable sobre la culpabilidad del procesado. Las sentencias que pongan fin a los procedimientos orales deberán ser explicadas en audiencia pública, previa citación de las partes.
 
-> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
+IX.- Cualquier prueba obtenida con violación de derechos fundamentales será nula, y
+
+X.- Los principios previstos en este artículo, se observarán también en las audiencias preliminares al juicio.
+
+B.- De los derechos de toda persona imputada:
+
+l.- A que se presuma su inocencia mientras no se declare su responsabilidad mediante sentencia emitida por el juez de la causa;
+
+II.- A declarar o a guardar silencio. Desde el momento de su detención se le harán saber los motivos de la misma y su derecho a guardar silencio, el cual no podrá ser utilizado en su perjuicio. Queda prohibida y será sancionada por la ley penal, toda incomunicación, intimidación o tortura. La confesión rendida sin la asistencia del defensor o ante autoridad distinta a la judicial, carecerá de todo valor probatorio;
+
+III.- A que se le informe, tanto en el momento de su detención como en su comparecencia ante el Ministerio Público o el Juez, los hechos que se le imputan y los derechos que le asisten;
+
+IV.- Se le recibirán los testigos y demás pruebas pertinentes que ofrezca, concediéndosele el tiempo que la ley estime necesario al efecto y auxiliándosele para obtener la comparecencia de las personas cuyo testimonio solicite, en los términos que señale la ley;
+
+V.- Será juzgado en audiencia pública por un juez o tribunal. La publicidad sólo podrá restringirse en los casos de excepción que determine la ley, por razones de seguridad nacional, seguridad pública, protección de las víctimas, testigos y menores, cuando se ponga en riesgo la revelación de datos legalmente protegidos, o cuando el tribunal estime que existen razones fundadas para justificarlo;
+
+VI.- Le serán facilitados todos los datos, en cualquier tiempo que solicite para su defensa y que consten en el proceso.
+
+El imputado y su defensor tendrán acceso a los registros de la investigación cuando el primero se encuentre detenido y cuando pretenda recibírsele declaración o entrevistarlo. Asimismo, antes de su primera comparecencia ante juez podrán consultar dichos registros, con la oportunidad debida para preparar la defensa. A partir de este momento no podrán mantenerse en reserva las actuaciones de la investigación, salvo los casos excepcionales expresamente señalados en la ley cuando ello sea imprescindible para salvaguardar el éxito de la investigación y siempre que sean oportunamente revelados para no afectar el derecho de defensa;
+
+VII.- Será juzgado antes de cuatro meses si se tratare de delitos cuya pena máxima no exceda de dos años de prisión, y antes de un año si la pena excediere de ese tiempo, salvo que solicite mayor plazo para su defensa;
+
+VIII.- Tendrá derecho a una defensa adecuada por abogado, el cual elegirá libremente incluso desde el momento de su detención. Si no quiere o no puede nombrar un abogado, después de haber sido requerido para hacerlo, el juez le designará un defensor público. También tendrá derecho a que su defensor comparezca en todos los actos del proceso y éste tendrá obligación de hacerlo cuantas veces se le requiera; y
+
+IX.- En ningún caso podrá prolongarse la prisión o detención, por falta de pago de honorarios de defensores o por cualquiera otra prestación de dinero, por causa de responsabilidad civil o algún otro motivo análogo.
+
+La prisión preventiva no podrá exceder del tiempo que como máximo de pena fije la ley al delito que motivare el proceso y en ningún caso será superior a dos años, salvo que su prolongación se deba al ejercicio del derecho de defensa del imputado. Si cumplido este término no se ha pronunciado sentencia, el imputado será puesto en libertad de inmediato mientras se sigue el proceso, sin que ello obste para imponer otras medidas cautelares.
+
+Toda pena de prisión que imponga una sentencia, se computará el tiempo de la detención.
+
+C.- De la víctima o del ofendido:
+
+l.- Recibir asesoría jurídica; ser informado de los derechos que en su favor establece la Constitución; y, cuando lo solicite, ser informado del desarrollo del procedimiento penal;
+
+II.- Coadyuvar con el Ministerio Público; a que se le reciban todos los datos o elementos de prueba con los que cuente, tanto en la averiguación previa como en el proceso, a que se desahoguen las diligencias correspondientes, y a intervenir en el juicio e interponer los recursos en los términos que prevea la ley;
+
+Cuando el Ministerio Público considere que no es necesario el desahogo de la diligencia, deberá fundar y motivar su negativa;
+
+III.- Recibir, desde la comisión del delito, atención médica y psicológica de urgencia;
+
+IV.- Que se le repare el daño. En los casos en que sea procedente, el Ministerio Público estará obligado a solicitar la reparación del daño y el juzgador no podrá absolver al sentenciado de dicha reparación si ha emitido una sentencia condenatoria.
+
+La Ley fijará procedimientos ágiles para ejecutar las sentencias en materia de reparación del daño;
+
+V.- Al resguardo de su identidad y otros datos personales en los siguientes casos: cuando sean menores de edad; cuando se trate de delitos de violación o secuestro; y cuando a juicio del juzgador sea necesario para su protección, salvaguardando en todo caso los derechos de la defensa. El Ministerio Público deberá garantizar la protección de víctimas, ofendidos, testigos y en general todos los sujetos que intervengan en el proceso. Los jueces deberán vigilar el buen cumplimiento de esta obligación;
+
+VI.- Solicitar las medidas cautelares y providencias necesarias para la protección y restitución de sus derechos; y
+
+VII.- Impugnar ante autoridad judicial las omisiones del Ministerio Público en la investigación de los delitos, así como las resoluciones de reserva, no ejercicio, desistimiento de la acción penal o suspensión del procedimiento cuando no esté satisfecha la reparación del daño.
+
+El Estado organizará el sistema penal sobre la base del trabajo, la capacitación para el mismo, la educación, la salud y el deporte, como medios para la reinserción del sentenciado a la sociedad y procurar que no vuelva a delinquir, observando los beneficios que para él prevé la ley. Las mujeres compurgarán sus penas en lugares separados de los destinados a los varones para tal efecto.
+
+El Estado establecerá un Sistema Integral de Justicia para Adolescentes que será aplicable a quienes se atribuya la realización de una conducta tipificada como delito por las leyes penales y tengan entre doce años cumplidos y menos de dieciocho años de edad, en el que se garanticen los derechos fundamentales que reconoce la Constitución Política de los Estados Unidos Mexicanos y esta Constitución para todo individuo, así como aquellos derechos específicos que por su condición de personas en desarrollo les han sido reconocidos.
+
+La operación de este sistema de justicia integral estará a cargo de instituciones, tribunales y autoridades especializadas en la procuración e impartición de justicia para adolescentes, y se regirá por lo dispuesto en esta Constitución y su ley reglamentaria, misma que establecerá las bases del proceso especializado para adolescentes, la ejecución de las medidas y los lineamientos para el establecimiento del Sistema Integral de Justicia para Adolescentes, así como su integración, organización y funcionamiento.
+
+Se podrán aplicar las medidas de orientación, protección y tratamiento que amerite cada caso, atendiendo a la protección integral y el interés superior del adolescente. Estas deberán ser proporcionales a la conducta realizada y tendrán como fin la reintegración social y familiar del adolescente, así como el pleno desarrollo de su persona y capacidades.
 
 El internamiento se utilizará sólo como medida extrema y por el tiempo más breve que proceda, y podrá aplicarse únicamente a los adolescentes mayores de catorce años de edad, por la comisión de conductas antisociales calificadas como graves.
 
-> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
-
 Las personas menores de doce años que hayan realizado una conducta prevista como delito en la ley, sólo serán sujetos a rehabilitación y asistencia social.
-
-> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
 
 Las formas alternativas de justicia deberán observarse en la aplicación de este sistema, siempre que resulte procedente. En todos los procedimientos seguidos a los adolescentes se observará la garantía del debido proceso legal, así como la independencia entre las autoridades que efectúen la remisión y las que impongan las medidas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE MARZO DE 2000)</small>
+Las leyes preverán mecanismos alternativos de solución de controversias. En la materia penal regularán su aplicación, asegurarán la reparación del daño y establecerán los casos en los que se requerirá supervisión judicial.
+
+Las sentencias que pongan fin a los procedimientos orales deberán ser explicadas en audiencia pública previa citación de las partes.
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2011)</small>
 
 ###### ARTICULO 27.
 
-En ningún caso, una detención ante autoridad judicial podrá exceder del término de setenta y dos horas, computadas a partir de que el indiciado sea puesto a su disposición, sin justificar su prolongación mediante auto de formal prisión y siempre que en lo actuado aparezcan datos suficientes que acrediten el cuerpo del delito y hagan probable la responsabilidad del indiciado. La prolongación de la detención en perjuicio del inculpado será sancionada por la ley penal.
+Ninguna detención ante autoridad judicial podrá exceder del plazo de setenta y dos horas, a partir de que el indiciado sea puesto a su disposición, sin que se justifique con un auto de vinculación al proceso en el que se expresará: el delito que se le impute al acusado; el lugar, tiempo y circunstancias de ejecución, así como los datos que establezcan que se ha cometido un hecho que la ley señale como delito y que exista la probabilidad de que el indiciado lo cometió o participó en su comisión.
 
-> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+Salvo los casos que señale la ley para la prisión preventiva de oficio, el Ministerio Público sólo podrá solicitar al juez la prisión preventiva cuando otras medidas cautelares no sean suficientes para garantizar la comparecencia del imputado en el juicio, el desarrollo de la investigación, la protección de la víctima, de los testigos o de la comunidad, así como cuando el imputado esté siendo procesado o haya sido sentenciado previamente por la comisión de un delito doloso.
 
-Los custodios que no reciban la copia autorizada del auto de formal prisión dentro del plazo antes señalado, deberán llamar la atención del juez sobre dicho particular en el acto mismo de concluir el término, y si no reciben la constancia mencionada dentro de las tres horas siguientes, pondrán en libertad al inculpado.
+La ley determinará los casos en los cuales el juez podrá revocar la libertad de los individuos vinculados a proceso.
 
-> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+El plazo para dictar el auto de vinculación a proceso podrá prorrogarse únicamente a petición del indiciado, en la forma que señale la Ley.
 
-Todo proceso se seguirá forzosamente por el o los delitos señalados por el auto de formal prisión o de sujeción a proceso. Si en la secuela de un proceso apareciera que se ha cometido un delito distinto del que se persigue, deberá ser objeto de averiguación separada, sin perjuicio de que después pueda decretarse la acumulación, si fuere conducente.
+La prolongación de la detención en su perjuicio será sancionada por la ley penal. La autoridad responsable del establecimiento en el que se encuentre internado el indiciado, que dentro del plazo antes señalado no reciba copia autorizada del auto de vinculación a proceso o del que decrete prisión preventiva o de la solicitud de prórroga del plazo constitucional, deberá llamar la atención del juez sobre dicho particular en el acto mismo de concluir el plazo y, si no recibe la constancia mencionada dentro de las tres horas siguientes, pondrá al indiciado en libertad.
 
-Todo maltratamiento en la aprehensión o en las prisiones, toda molestia que se infiere sin motivo legal, toda gabela o contribución impuestas en las cárceles, son abusos que serán corregidos por las leyes y reprimidos por las autoridades.
+Todo proceso se seguirá forzosamente por el delito o delitos señalados en el auto de vinculación a proceso. Si en la secuela de un proceso apareciera que se ha cometido un delito distinto al que se persigue, deberá ser objeto de consignación separada, sin perjuicio de que después pueda decretarse la acumulación, si fuere conducente.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
@@ -449,9 +525,7 @@ La imposición de las penas, su modificación y duración son propias y exclusiv
 
 Quedan prohibidas la pena de muerte, las de mutilación y de infamia, la marca, los azotes, los palos, el tormento de toda especie, la multa excesiva, la confiscación de bienes y cualesquiera otras penas inusitadas y trascendentales.
 
-> <small>(REFORMADO, P.O. 31 DE MARZO DE 1983)</small>
-
-No se considerará como confiscación de bienes la aplicación total de los bienes de una persona, hecha, por la autoridad judicial, para cubrir el monto de la responsabilidad civil derivada de la comisión de un delito, o para el pago de impuestos o multas, ni el decomiso de los bienes en caso de enriquecimiento ilícito en los términos del artículo 109 de la Constitución Política de los Estados Unidos Mexicanos y 170 de la Constitución Política del Estado.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 2 DE MARZO DE 2011)</small>
 
 ### CAPITULO II. De las Garantías Sociales
 
@@ -641,7 +715,7 @@ La calidad de ciudadano quintanarroense se pierde por sentencia ejecutoria, dict
 
 El territorio del Estado de Quintana Roo, comprende:
 
-I.- La porción oriental de la Península de Yucatán, limitada por una línea divisoria que partiendo de la costa norte del Canal de Yucatán, sigue el meridiano 87 grados, 32 minutos, longitud oeste de Greenwich, hasta cortar el paralelo 21 grados, y de allí continúa hasta encontrar el paraleleo (sic) que pasa por la torre sur de Chemax veinte kilómetros al oriente de este punto, llega después al vértice del ángulo formado por las líneas que dividen los Estados de Yucatán y Campeche -cerca de Put- que se localiza en el meridiano 19 grados, 39 minutos, 07 segundos de latitud norte y 89 grados, 24 minutos, 52 segundos de longitud oeste de Greenwich y desciende al sur hasta el paralelo límite de las República (sic) de México y Guatemala, y
+I.- La porción oriental de la Península de Yucatán, limitada por una línea divisoria que partiendo de la costa norte del Canal de Yucatán, sigue el meridiano 87 grados, 32 minutos, longitud oeste de Greenwich, hasta cortar el paralelo 21 grados, y de allí continúa hasta encontrar el paralelelo (sic) que pasa por la torre sur de Chemax veinte kilómetros al oriente de este punto, llega después al vértice del ángulo formado por las líneas que dividen los Estados de Yucatán y Campeche -cerca de Put- que se localiza en el meridiano 19 grados, 39 minutos, 07 segundos de latitud norte y 89 grados, 24 minutos, 52 segundos de longitud oeste de Greenwich y desciende al sur hasta el paralelo límite de las República (sic) de México y Guatemala, y
 
 II.- Las islas de: Cozumel, Cancún, Mujeres, Blanca y Contoy, situadas en el Mar Caribe y la de Holbox en el Golfo de México, así como las islas, islotes, cayos y arrecifes adyacentes a su litoral.
 
@@ -2131,7 +2205,7 @@ X Y
 
 36 315,075.14 2,062, 249.69
 
-37 315,043.39 2,060, 361.03
+37 315,043.39 2,060,361.03
 
 38 322,640.11 2,060, 352.93
 
@@ -2855,11 +2929,13 @@ Los Ayuntamientos deberán tomar posesión el día 30 de septiembre del año que
 
 Los Ayuntamientos se integran en la siguiente forma:
 
-I. En los Municipios de Othón P. Blanco y Benito Juárez, con un Presidente, un Síndico, nueve Regidores electos según el principio de mayoría relativa y seis Regidores electos según el principio de representación proporcional.
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2011)</small>
 
-> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2011)</small>
+l. En los Municipios de Othón P. Blanco, Benito Juárez y Solidaridad, con un Presidente, un Síndico, nueve Regidores electos según el principio de mayoría relativa y seis Regidores electos según el principio de representación proporcional;
 
-II.- En los Municipios de Felipe Carrillo Puerto, José María Morelos, Cozumel, Lázaro Cárdenas, Solidaridad, Islas Mujeres, Tulum y Bacalar con un Presidente, un Síndico, seis Regidores electos según el principio de mayoría relativa y tres Regidores electos según el principio de representación proporcional.
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2011)</small>
+
+II. En los Municipios de Felipe Carrillo Puerto, José María Morelos, Cozumel, Lázaro Cárdenas, Isla Mujeres, Tulum y Bacalar con un Presidente, un Síndico, seis Regidores electos según el principio de mayoría relativa y tres Regidores electos según el principio de representación proporcional.
 
 Se elegirá un suplente para cada integrante del Ayuntamiento.
 
@@ -2869,13 +2945,11 @@ Se elegirá un suplente para cada integrante del Ayuntamiento.
 
 Los miembros del Ayuntamiento se elegirán por sufragio universal, libre, secreto y directo de los ciudadanos quintanarroenses en ejercicio de sus derechos, en jornada electoral que tendrá lugar el primer domingo de julio del año que corresponda, mediante el sistema electoral mixto de mayoría relativa y de representación proporcional conforme a las bases siguientes:
 
-> <small>(REFORMADA, P.O. 19 DE MAYO DE 2008)</small>
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2011)</small>
 
-I. En los Municipios de Othón P. Blanco y Benito Juárez, cada partido político postulará una lista de once personas para ocupar los cargos de Presidente Municipal, Síndico y Regidores.
+I. En los Municipios de Othón P. Blanco, Benito Juárez y Solidaridad, cada partido político postulará una lista de once personas para ocupar los cargos de Presidente Municipal, Síndico y Regidores.
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2011)</small>
-
-En los municipios de Felipe Carrillo Puerto, José María Morelos, Cozumel, Lázaro Cárdenas, Isla Mujeres, Solidaridad, Tulum y Bacalar, cada partido político postulará una lista de ocho personas para ocupar los cargos de Presidente Municipal, Síndico y Regidores.
+En los Municipios de Felipe Carrillo Puerto, José María Morelos, Cozumel, Lázaro Cárdenas, Isla Mujeres, Tulum y Bacalar, cada partido político postulará una lista de ocho personas para ocupar los cargos de Presidente Municipal, Síndico y Regidores.
 
 > <small>(REFORMADA, P.O. 19 DE MAYO DE 2008)</small>
 
@@ -2945,17 +3019,29 @@ Cuando el suplente respectivo no pueda entrar al desempeño del cargo, el Ayunta
 
 Si la vacante se genera respecto de algún miembro del Ayuntamiento de los que se eligieron por el principio de representación proporcional, deberá llamarse a quien siga con el carácter de propietario del mismo partido, conforme a la planilla que el partido registró.
 
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE MARZO DE 2011)</small>
 
 ###### ARTICULO 143.
 
-Cuando no se hubiere verificado la elección en la fecha que debe renovarse el Ayuntamiento, o efectuada ésta, no se presentaren sus miembros a tomar posesión de su cargo, o se diera la renuncia o falta absoluta de la mayoría de sus integrantes y conforme a la Ley no procediera que entraren en funciones los suplentes, la Legislatura del Estado o la Diputación Permanente, en su caso, por el voto de las dos terceras partes de sus miembros, nombrará un Concejo Municipal que asumirá provisionalmente las funciones del Ayuntamiento, y convocará a elecciones extraordinarias para elegir a los integrantes del Ayuntamiento que habrán de entrar en funciones en un plazo no mayor de seis meses a partir de la fecha en que se haya emitido la declaratoria respectiva. Las nuevas autoridades concluirán el período correspondiente.
+Cuando no se hubiere verificado la elección en la fecha que debe renovarse el Ayuntamiento, o efectuada ésta, no se presentaren sus miembros a tomar posesión de su cargo, o se diera la renuncia o falta absoluta de la mayoría de sus integrantes y conforme a la Ley no procediera que entraren en funciones los suplentes, la Legislatura del Estado o la Diputación Permanente, en su caso, por el voto de las dos terceras partes de sus miembros, nombrará un Concejo Municipal que asumirá las funciones del Ayuntamiento, y convocará a elecciones extraordinarias para elegir a los integrantes del Ayuntamiento que habrán de entrar en funciones en un plazo no mayor de seis meses a partir de la fecha en que se haya emitido la declaratoria respectiva. Las nuevas autoridades concluirán el período correspondiente.
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
 
 El mismo procedimiento se seguirá cuando por cualquier causa desaparezca el Ayuntamiento dentro del primer año de su ejercicio o cuando la elección se declare nula. En este último caso, deberá de emitirse la convocatoria respectiva dentro de los tres días siguientes a los que se haya recibido la notificación que declare firme para todos los efectos legales la nulidad de la elección.
 
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
+
 Cuando la desaparición del Ayuntamiento se dé en los dos últimos años del período del Gobierno Municipal, la Legislatura del Estado o la Diputación Permanente, en su caso, por el voto de las dos terceras partes de sus miembros y a propuesta de los grupos parlamentarios, nombrará de entre los vecinos a un Concejo Municipal que concluirá el período respectivo.
 
-El Concejo Municipal se constituirá en una estructura igual a la que corresponda al Ayuntamiento de que se trate, los integrantes del mismo se elegirán de entre las propuestas de vecinos del Municipio, que formulen los grupos parlamentarios representados en la Legislatura; debiendo satisfacer los requisitos exigidos para ser miembros del Ayuntamiento y rendirán la protesta de Ley.
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2011)</small>
+
+En los demás supuestos no previstos en los párrafos anteriores de este artículo, la Legislatura del Estado o la Diputación Permanente, en su caso, nombrará de entre los vecinos a un Concejo Municipal que asumirá las funciones del Ayuntamiento hasta en tanto entran en el desempeño de su encargo los integrantes del Ayuntamiento electos mediante el sufragio universal, libre, secreto y directo de los ciudadanos, conforme a las leyes correspondientes.
+
+(NOTA: EL 14 DE JUNIO DE 2011, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO Y EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 8/2011, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO QUINTO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS A PARTIR DE LA FECHA EN QUE SE NOTIFIQUE LA PRESENTE SENTENCIA DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2011)</small>
+
+EN TODO CASO, el Concejo Municipal se constituirá en una estructura igual a la que corresponda al Ayuntamiento de que se trate; los integrantes del mismo se designarán de entre las propuestas de vecinos del Municipio, que formulen los grupos parlamentarios representados en la Legislatura; debiendo satisfacer los requisitos exigidos para ser miembros del Ayuntamiento, CON EXCEPCIÓN DE LO PREVISTO EN LA FRACCIÓN III DEL ARTÍCULO 136 DE ESTA CONSTITUCIÓN, y rendirán la protesta de ley.
 
 > <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
 
@@ -4067,11 +4153,13 @@ SEGUNDO.- La elección para el primer Ayuntamiento Constitucional del Municipio 
 
 a).- El proceso electoral iniciará el día 16 de marzo del año 2013.
 
-b).-La jornada electoral se celebrará el primer domingo del mes de julio del año 2013.
+b).- La jornada electoral se celebrará el primer domingo del mes de julio del año 2013.
 
 c).- El Ayuntamiento electo se instalará en ceremonia pública y solemne el día 30 de septiembre del 2013 y concluirá con sus funciones a las veinticuatro horas del día 29 de septiembre del 2016.
 
-TERCERO.- Dentro del término de quince días siguientes a la entrada en vigor del presente Decreto, la Legislatura del Estado de Quintana Roo o la Diputación permanente en su caso, previa aprobación del procedimiento para su designación, elegirá a los ciudadanos integrantes del Concejo Municipal de Bacalar, el cual se conformará con la estructura prevista por el Artículo 134 fracción II de la Constitución Política del Estado libre y Soberano de Quintana Roo, que mediante el presente Decreto se reforma. Para tal efecto los integrantes del Concejo Municipal, deberán satisfacer los requisitos establecidos por el Artículo 136 de la Constitución Política del Estado Libre y Soberano de Quintana Roo.
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2011)</small>
+
+TERCERO.- A más tardar el día 23 de marzo del año 2011, la Legislatura del Estado de Quintana Roo o la Diputación Permanente, en su caso, previa aprobación del procedimiento para su designación, nombrará a los ciudadanos integrantes del Concejo Municipal de Bacalar, el cual se conformará con la estructura prevista por el Artículo 134 fracción II de la Constitución del Estado de Quintana Roo, que mediante el presente Decreto se reforma. Para tal efecto los integrantes del Concejo Municipal, deberán satisfacer los requisitos exigidos para ser miembros del Ayuntamiento, con excepción de lo previsto en la fracción III del Artículo 136 de la Constitución Política del Estado Libre y Soberano de Quintana Roo.
 
 CUARTO.- El Concejo Municipal de Bacalar, asumirá las funciones administrativas y políticas del Municipio que se crea, el día 11 de abril del 2011, día siguiente en que tomarán posesión los H. Ayuntamientos Constitucionales de los Municipios del Estado y concluirá en sus funciones a las veinticuatro horas del día 29 de septiembre del año 2013, fecha en que concluyen en su encargo los H. Ayuntamientos Constitucionales del Estado.
 
@@ -4092,3 +4180,43 @@ Las Leyes en materia de hacienda, ingresos y en general todas aquellas aplicable
 OCTAVO.- Los Órganos Jurisdiccionales con competencia en el Municipio de Othón P. Blanco, conservarán su jurisdicción territorial que hasta ahora han tenido, hasta en tanto se adecuan las leyes o disposiciones correspondientes.
 
 NOVENO.- Los Programas de Desarrollo Urbano y los Proyectos de Inversión para el Año 2011 destinados para Bacalar y las comunidades que componen el nuevo Municipio que han sido aprobados por el H. Cabildo de Othón P. Blanco, quedarán vigentes y serán obligatorios.
+
+P.O. 2 DE MARZO DE 2011.
+
+DECRETO NUMERO 433, POR EL QUE SE ADICIONA UN PARRAFO CUARTO AL ARTICULO 143 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO, PASANDO EL ACTUAL PARRAFO CUARTO A SER PARRAFO QUINTO, Y SE REFORMA ESTE ULTIMO; SE REFORMA EL ARTICULO TERCERO TRANSITORIO DEL DECRETO NUMERO 422 POR EL QUE SE REFORMAN LOS ARTICULOS 127, 128 FRACCION I, 134 FRACCION II Y 135 FRACCION I, PARRAFO SEGUNDO, Y SE ADICIONA LA FRACCION X DEL ARTICULO 128, TODOS DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO, PUBLICADO EN EL PERIODICO OFICIAL DEL ESTADO DE 17 DE FEBRERO DE 2011.
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE MARZO DE 2011.
+
+DECRETO NUMERO 434, POR EL QUE SE REFORMAN LOS ARTICULOS 134 FRACCIONES I Y II, Y 135 FRACCION I, PARRAFO SEGUNDO DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO.
+
+Artículo Primero.- El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+Artículo Segundo.- La siguiente integración del Ayuntamiento de Solidaridad, en los términos que prevé el presente Decreto, se aplicará a partir del proceso electoral ordinario que se lleve a cabo en el año 2013.
+
+P.O. 2 DE MARZO DE 2011.
+
+DECRETO NUMERO 435, POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTICULOS 23, 26, Y 27; Y SE DEROGA EL PARRAFO SEGUNDO DEL ARTICULO 30, TODOS DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo, con excepción de lo siguiente:
+
+1.- El sistema penal acusatorio y oral previsto en esta Constitución, entrará en vigor cuando lo establezca la legislación procesal y orgánica correspondiente, sin exceder el término previsto en la Constitución Política de los Estados Unidos Mexicanos; y
+
+2.- En el momento en que se publique la legislación citada en el apartado anterior, el Poder Legislativo emitirá una declaratoria que se publicará en el Periódico Oficial del Estado, en la que señale expresamente que el sistema penal acusatorio y oral ha sido incorporado en dichos ordenamientos; y en consecuencia, que las garantías que consagra esta Constitución empezarán a regular la forma y términos en que se sustanciarán los procedimientos penales.
+
+###### ARTÍCULO SEGUNDO.
+
+Los procedimientos penales iniciados con anterioridad a la entrada en vigor del sistema penal acusatorio y oral previstos en los artículos 16, párrafo segundo y décimo tercero; 17, párrafo tercero, cuarto y sexto; 19, 20 y 21, párrafo séptimo de la Constitución Política de los Estados Unidos Mexicanos, serán concluidos conforme a las disposiciones vigentes con anterioridad a dicho acto.
+
+###### ARTÍCULO TERCERO.
+
+La Legislatura local proveerá lo conducente en la asignación de recursos presupuestales anuales a favor del Poder Judicial del Estado, a fin de que se cuente con los recursos humanos, materiales y financieros necesarios para dar cumplimiento a este Decreto.
+
+TRANSITORIOS:
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- Se derogan todas las disposiciones que contravengan al presente Decreto.
