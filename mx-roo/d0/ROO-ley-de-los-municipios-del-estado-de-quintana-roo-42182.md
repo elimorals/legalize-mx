@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-los-municipios-del-estado-de-quintana-roo-42182"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-20"
-last_updated: "2011-02-25"
+last_updated: "2011-03-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42182&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE FEBRERO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE MARZO DE 2011.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 20 de diciembre de 2004.
 
@@ -119,13 +119,13 @@ Los Ayuntamientos deberán tomar posesión el día 30 del mes de septiembre del 
 
 Los Ayuntamientos se integran de la siguiente forma:
 
-I. En los Municipios de Othón P. Blanco y Benito Juárez, con un Presidente, un Síndico, nueve Regidores electos según el principio de mayoría relativa y seis Regidores electos según el principio de representación proporcional.
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2011)</small>
 
-> <small>(REFORMADA, P.O. 2 DE JULIO DE 2008)</small>
+I.- En los Municipios de Othón P. Blanco, Benito Juárez y Solidaridad, con un Presidente, un Síndico, nueve Regidores electos según el principio de mayoría relativa y seis Regidores electos según el principio de representación proporcional.
 
-II. En los Municipios de Felipe Carrillo Puerto, José María Morelos, Cozumel, Lázaro Cárdenas, Solidaridad, Isla Mujeres y Tulúm, con un Presidente, un Síndico, seis Regidores electos según el principio de mayoría relativa y tres Regidores electos según el principio de representación proporcional.
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2011)</small>
 
-Se elegirá un suplente para cada integrante del Ayuntamiento.
+II.- En los Municipios de Felipe Carrillo Puerto, José María Morelos, Cozumel, Lázaro Cárdenas, Isla Mujeres, Tulum y Bacalar, con un Presidente, un Síndico, seis Regidores electos según el principio de mayoría relativa y tres Regidores electos según el principio de representación proporcional. Se elegirá un suplente para cada integrante del Ayuntamiento. Se elegirá un suplente para cada integrante del Ayuntamiento.
 
 ###### ARTÍCULO 9.
 
@@ -145,9 +145,25 @@ IV. No ser Magistrado del Tribunal Electoral del Estado, ni Consejero, Secretari
 
 V. No ser ministro de cualquier culto religioso, a menos que se separe formal y definitivamente de su ministerio cuando menos cinco años antes del inicio del proceso electoral.
 
-###### ARTÍCULO 11.
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2011)</small>
 
 Los Presidentes Municipales, Síndicos y Regidores de los Ayuntamientos que hayan estado en ejercicio, no podrán ser electos para el período inmediato como propietarios o suplentes; los suplentes, sí podrán serlo como propietarios, a menos que hayan ejercido el cargo.
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2011)</small>
+
+###### ARTÍCULO 11.
+
+Cuando no se hubiere verificado la elección en la fecha que debe renovarse el Ayuntamiento, o efectuada ésta, no se presentaren sus miembros a tomar posesión de su cargo, o se diera la renuncia o falta absoluta de la mayoría de sus integrantes y conforme a la Ley no procediera que entraren en funciones los suplentes, la Legislatura del Estado o la Diputación Permanente, en su caso, por el voto de las dos terceras partes de sus miembros, nombrará un Concejo Municipal que asumirá las funciones del Ayuntamiento, y convocará a elecciones extraordinarias para elegir a los integrantes del Ayuntamiento que habrán de entrar en funciones en un plazo no mayor de seis meses a partir de la fecha en que se haya emitido la declaratoria respectiva. Las nuevas autoridades concluirán el período correspondiente.
+
+El mismo procedimiento se seguirá cuando por cualquier causa desaparezca el Ayuntamiento dentro del primer año de su ejercicio o cuando la elección se declare nula. En este último caso, deberá de emitirse la convocatoria respectiva dentro de los tres días siguientes a los que se haya recibido la notificación que declare firme para todos los efectos legales la nulidad de la elección.
+
+Cuando la desaparición del Ayuntamiento se dé en los dos últimos años del período del Gobierno Municipal, la Legislatura del Estado o la Diputación Permanente, en su caso, por el voto de las dos terceras partes de sus miembros y a propuesta de los grupos parlamentarios, nombrará de entre los vecinos a un Concejo Municipal que concluirá el período respectivo.
+
+En los demás supuestos no previstos en los párrafos anteriores de este artículo, la Legislatura del Estado o la Diputación Permanente, en su caso, nombrará de entre los vecinos a un Concejo Municipal que asumirá las funciones del Ayuntamiento hasta en tanto entran en el desempeño de su encargo los integrantes del Ayuntamiento electos mediante el sufragio universal, libre, secreto y directo de los ciudadanos, conforme a las leyes correspondientes.
+
+(NOTA: EL 14 DE JUNIO DE 2011, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO Y EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 8/2011, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO QUINTO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS APARTIR DE LA FECHA EN QUE SE NOTIFIQUE LA PRESENTE SENTENCIA DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+EN TODO CASO, el Concejo Municipal se constituirá en una estructura igual a la que corresponda al Ayuntamiento de que se trate; los integrantes del mismo se designarán de entre las propuestas de vecinos del Municipio, que formulen los grupos parlamentarios representados en la Legislatura; debiendo satisfacer los requisitos exigidos para ser miembros del Ayuntamiento, CON EXCEPCIÓN DE LO PREVISTO EN LA FRACCIÓN III DEL ARTÍCULO 136 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO Y LA FRACCIÓN III DEL ARTÍCULO 10 DEL PRESENTE ORDENAMIENTO.
 
 ## Título Segundo
 
@@ -2753,7 +2769,7 @@ P.O. 24 DE FEBRERO DE 2011.
 
 P.O. 25 DE FEBRERO DE 2011.
 
-DECRETO NUMERO 426, POR EL QUE SE REFORMA EL PRIMER PARRAFO DEL ARTICULO 12 DE LA LEY DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO.
+DECRETO NUMERO 426 POR EL QUE SE REFORMA EL PRIMER PARRAFO DEL ARTICULO 12 DE LA LEY DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
@@ -2761,8 +2777,22 @@ SEGUNDO.- Los escudos que se exhiban en los edificios públicos, escuelas o en o
 
 P.O. 25 DE FEBRERO DE 2011.
 
-DECRETO NUMERO 431, POR EL QUE SE REFORMAN LOS ARTICULOS 25 Y 34 DE LA LEY DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO.
+DECRETO NUMERO 431 POR EL QUE SE REFORMAN LOS ARTICULOS 25 Y 34 DE LA LEY DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO.
 
 PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO.- Los Ayuntamientos del Estado de Quintana Roo, cuya división administrativa cuente con Alcaldías, deberán expedir el Reglamento a que se refiere el Artículo 25 de la Ley de los Municipios del Estado de Quintana Roo, dentro de los 30 días naturales a partir del día siguiente de la entrada en vigor del presente Decreto.
+
+P.O. 2 DE MARZO DE 2011.
+
+DECRETO No. 427, POR EL QUE SE REFORMA EL ARTICULO 8, FRACCIONES I Y II DE LA LEY DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO.
+
+Artículo Primero.- El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo, previa entrada en vigor de la reforma Constitucional a los artículos 134, fracciones I y II, y 135, fracción I, párrafo segundo de la Constitución Política del Estado Libre y Soberano de Quintana Roo.
+
+Artículo Segundo.- La siguiente integración del Ayuntamiento de Solidaridad, en los términos que prevé el presente Decreto, se aplicará a partir del proceso electoral ordinario que se lleve a cabo en el año 2013.
+
+P.O. 2 DE MARZO DE 2011.
+
+DECRETO No. 433, POR EL QUE SE APRUEBA ADICIONAR UN PARRAFO ULTIMO AL ARTICULO 10 Y SE REFORMA EL ARTICULO 11, DE LA LEY DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO.
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
