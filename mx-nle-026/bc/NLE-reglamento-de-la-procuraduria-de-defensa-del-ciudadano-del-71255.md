@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-la-procuraduria-de-defensa-del-ciudadano-del-7125
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-11-23"
-last_updated: "2010-12-20"
+last_updated: "2011-03-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71255&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE LA PROCURADURIA DE DEFENSA DEL CIUDADANO DEL MUNICIPIO DE GUADALUPE, NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE DICIEMBRE DE 2010.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL EL 20 DE DICIEMBRE DE 2011.</small>
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE MARZO DE 2011.
 
 Reglamento Publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 23 de noviembre de 2009.
 
@@ -409,9 +407,13 @@ III).- Atender las disposiciones del C. Procurador, Director y Coordinador de Pr
 
 ### CAPÍTULO VII. DEL NOMBRAMIENTO Y FACULTADES DEL PERITO MEDICO LEGISTA
 
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2011)</small>
+
 ###### ARTÍCULO 24.
 
-El Perito Médico Legista dependerá orgánicamente del Procurador, pero actuará bajo la autoridad y mando inmediato del Director de Procedimientos de Investigación, sin perjuicio de la autonomía técnica, independencia de criterio y la consecuente responsabilidad que le corresponda en el ejercicio de sus funciones técnico-científicas.
+El Perito Médico Legista será designado por el Procurador en conjunto con las instancias municipales responsables y normativamente competentes, mismas que determinarán la contratación por honorarios, según características, necesidades y demanda del servicio, el mismo tendrá autonomía técnica, independencia de criterio y la consecuente responsabilidad que le corresponda en el ejercicio de sus funciones técnico-científicas, sin menoscabo de ello, actuará bajo la autoridad y mando inmediato del Director de Procedimientos de Investigación.
+
+La Procuraduría en su caso, se apoyará y procederá a solicitar a la Cruz Verde Municipal que expida el parecer médico en los casos que se requiera, y de existir divergencia o controversia profesional de opinión técnica en el procedimiento, se estará a lo dispuesto en el párrafo primero del presente artículo.
 
 ###### ARTÍCULO 25.
 
@@ -786,3 +788,9 @@ P.O. 1 DE DICIEMBRE DE 2010.
 PRIMERO.- Las reformas por modificación y adición al articulado del Reglamento de la Procuraduría Municipal de Defensa del Ciudadano de Guadalupe Nuevo León, entraran en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
 
 SEGUNDO.- Se abrogan todas las disposiciones, reglamentarias, circulares, acuerdos y normas que contravengan al contenido de las presentes reformas por modificación y adición al Reglamento de la Procuraduría Municipal de Defensa del Ciudadano de Guadalupe, Nuevo León.
+
+P.O. 2 DE MARZO DE 2011.
+
+PRIMERO.- La reforma por modificación al artículo 24 del Reglamento de la Procuraduría Municipal de Defensa del Ciudadano de Guadalupe Nuevo León, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+SEGUNDO.- Se abrogan todas las disposiciones, reglamentarias, circulares, acuerdos y normas que contravengan al contenido de la presente reforma por modificación del texto al artículo 24 del Reglamento de la Procuraduría Municipal de Defensa del Ciudadano de Guadalupe, Nuevo león.
