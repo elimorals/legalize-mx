@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-normas-minimas-para-la-readaptacion-social-de-21997"
 country: "mx"
 rank: "ley"
 publication_date: "1976-10-31"
-last_updated: "2006-10-20"
+last_updated: "2011-03-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21997&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ROO"
 
 LEY DE NORMAS MINIMAS PARA LA READAPTACION SOCIAL DE SENTENCIADOS DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE OCTUBRE DE 2006.
+> <small>N. DE E. DE CONFORMIDAD CON EL QUINTO TRANSITORIO DE LA LEY DE EJECUCION DE PENAS Y MEDIDAS JUDICIALES DEL ESTADO DE QUINTANA ROO, PUBLICADA EN EL P.O. NUMERO 21 EXTRAORDINARIO DE FECHA 2 DE MARZO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el 31 de octubre de 1976.
 
@@ -272,3 +274,29 @@ El presente decreto entrará en vigor al día siguiente de su publicación, en e
 P.O. 20 DE OCTUBRE DE 2006.
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 2 DE MARZO DE 2011.
+
+Artículo Primero.- Inicio de Vigencia.- La presente Ley iniciará su vigencia el día diecisiete de junio de dos mil once, con las modalidades siguientes:
+
+a) Con excepción de todo aquello concerniente al sistema penal acusatorio y oral previsto en esta Ley, mismo que entrará en vigor cuando lo establezca la legislación procesal penal correspondiente, sin exceder el término previsto en la Constitución Política de los Estados Unidos Mexicanos.
+
+b) Las disposiciones relativas, a la libertad preparatoria, remisión parcial de la pena, tratamiento preliberacional y la condena condicional, respecto de los procesos penales, anteriores y posteriores a la entrada en vigor de la presente ley, se regirán conforme a las disposiciones de la misma.
+
+c) Las disposiciones relativas a la ejecución de penas y medidas de seguridad respecto de los procedimientos penales, anteriores y posteriores a la entrada en vigor del presente decreto, que en lo subsecuente corresponda aplicarlas a la autoridad judicial, serán ejercidas, en su caso, por los jueces penales de primera instancia y menores que hayan conocido de las causas respectivas, o por los jueces de ejecución que designe el Consejo de la Judicatura del Estado; sin perjuicio de la coordinación que deban mantener con la Dirección de Ejecución de Penas y Medidas de Seguridad.
+
+Respecto a los incisos a) y b), el Pleno del Consejo de la Judicatura del Estado, acordará, mediante disposiciones generales que establezcan un modelo de distribución de competencias, el ejercicio de las facultades más trascendentes por parte de los jueces de ejecución de penas de otros distritos.
+
+d) Las disposiciones relativas a la ejecución de las medidas de coerción y las
+
+condiciones impuestas en la suspensión del proceso a prueba, iniciarán su vigencia conforme vaya entrando en vigor el nuevo sistema acusatorio previsto en Código Procesal Penal para el Estado.
+
+Artículo Segundo.- Derogación Tácita de Preceptos Incompatibles.- Quedan derogados, en los términos señalados en los textos precedentes, los preceptos de la legislación de la Entidad que se opongan a las disposiciones de este ordenamiento.
+
+Artículo Tercero.- Reglamentos.- El Ejecutivo del Estado expedirá los reglamentos necesarios para los establecimientos penitenciarios, su régimen interior y demás a que se refiere la presente Ley.
+
+Artículo Cuarto.- Centros de Reclusión Municipal.- Los Centros de Reclusión pertenecientes a los Municipios en los que se ejecutan penas privativas de libertad, atenderán las disposiciones de esta Ley y sus reglamentos, en la medida en que aquella entre en vigor en su ubicación.
+
+La administración de los Centros de Reclusión y la custodia de imputados o sentenciados que actualmente se encuentra a cargo de las administraciones municipales, se ejercerá hasta que el Estado asuma dicha responsabilidad, en la medida que la capacidad presupuestal lo permita.
+
+Artículo Quinto.- Ley de Ejecución de Penas y Medidas de Seguridad.- Se abroga la Ley de Normas Mínimas para la Readaptación Social de Sentenciados del Estado de Quintana Roo, publicada en el Periódico Oficial del Estado en fecha treinta y uno de octubre del año de mil novecientos setenta y seis.
