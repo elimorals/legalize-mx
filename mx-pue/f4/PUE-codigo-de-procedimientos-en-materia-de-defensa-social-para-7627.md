@@ -4,7 +4,7 @@ identifier: "PUE-codigo-de-procedimientos-en-materia-de-defensa-social-para-7627
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-23"
-last_updated: "2011-02-21"
+last_updated: "2011-03-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7627&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CODIGO DE PROCEDIMIENTOS EN MATERIA DE DEFENSA SOCIAL PARA EL ESTADO L. Y S. DE 
 
 > <small>N. DE E. EL PRESENTE ORDENAMIENTO SERA ABROGADO DE FORMA GRADUAL POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA, PUBLICADO EN EL P.O. DE 21 DE FEBRERO DE 2011.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE FEBRERO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE MARZO DE 2011.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Puebla, el martes 23 de diciembre de 1986.
 
@@ -859,9 +859,9 @@ G.- Lenocinio y Trata de Personas previstos en los artículos 226, 228 y 229 Ter
 
 H.- Violación, previsto en los artículos 267, 268 y 272;
 
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 1994)</small>
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2011)</small>
 
-I.- Asalto y atraco, previsto en los artículos 294, 295 y 298;
+I.- Asalto y atraco, previsto en los artículos 294, 295, 297 y 298;
 
 > <small>(REFORMADO, P.O. 1 DE JULIO DE 1994)</small>
 
@@ -871,21 +871,19 @@ J.- Plagio o secuestro previsto en el artículo 302, excepto el segundo párrafo
 
 K.- Homicidio, previsto en el artículo 312 en relación con los artículos 316, 323, 331, 334 y 336;
 
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2011)</small>
 
-L.- Robo calificado previsto en el artículo 373, en relación con los artículos 374, fracciones III y IV, y 375, cuando se realicen en cualquiera de las circunstancias señaladas en las fracciones I, II, III, X, XI y XVII del artículo 380;
+L.- Robo calificado previsto en el artículo 373, en relación con los artículos 374, fracciones IV y V, y 375, cuando se realicen en cualquiera de las circunstancias señaladas en las fracciones I, II, III, X, XI y XVII del artículo 380;
 
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
-
-M.- Robo previsto en el artículo 374 fracción V;
+M.- (DEROGADO, P.O. 2 DE MARZO DE 2011)
 
 > <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
 N.- Robo de ganado, previsto en el artículo 390, en relación con los artículos 392, fracción I y 393;
 
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2011)</small>
 
-Ñ.- Robo de frutos, previsto en el artículo 391, en relación con el artículo 394, fracción III;
+Ñ.- Robo de frutos, previsto en el artículo 391, en relación con el artículo 394, fracción IV;
 
 > <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
@@ -3760,3 +3758,9 @@ SEGUNDO.- El Título Décimo del presente Ordenamiento, por ser materia de ejecu
 TERCERO.- Se abroga el Código de Procedimientos en Materia de Defensa Social para el Estado Libre y Soberano de Puebla, de forma gradual atendiendo a lo que se disponga en la Ley Orgánica del Poder Judicial del Estado.
 
 CUARTO.- Se derogan todas las disposiciones que se opongan al presente Ordenamiento, con la gradualidad establecida con antelación.
+
+P.O. 2 DE MARZO DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
