@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-interior-de-la-administracion-publica-60873"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-04-21"
-last_updated: "2008-04-21"
+last_updated: "2011-03-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60873&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACION PUBLICA CENTRALIZADA DEL ESTADO DE MICHOACAN
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE MARZO DE 2011.
 
 Reglamento publicado en la Cuarta Sección del Periódico Oficial del Estado de Michoacán, el lunes 21 de abril de 2008.
 
@@ -101,13 +101,21 @@ A) Subsecretaría de Gobernación, a la que quedan adscritas:
 
 3. Dirección de Relación con Organizaciones;
 
-4. Dirección del Trabajo y Previsión Social;
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2011)</small>
 
-5. Dirección de Organización Agraria;
+4. Dirección de Asuntos Religiosos;
 
-6. Dirección de Concertación Agraria; y,
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2011)</small>
 
-7. Dirección de Atención a Áreas Conurbadas.
+5. Dirección del Trabajo y Previsión Social;
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2011)</small>
+
+6. Dirección de Organización Agraria; y,
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2011)</small>
+
+7. Dirección de Concertación Agraria.
 
 B) Subsecretaría de Enlace Legislativo y Asuntos Registrales, a la que quedan adscritas:
 
@@ -173,9 +181,17 @@ B) Subsecretaría de Administración e Innovación de Procesos, a la que quedan 
 
 4. Dirección de Capacitación y Profesionalización;
 
-5. Dirección de Sistemas de Información; y,
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2011)</small>
 
-6. Dirección de Servicios Generales.
+5. Dirección de Sistemas de Información;
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2011)</small>
+
+6. Dirección de Servicios Generales; y,
+
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2011)</small>
+
+7. Dirección de Servicios Aéreos.
 
 C) Delegación Administrativa.
 
@@ -251,9 +267,17 @@ A) Subsecretaría de Desarrollo a la Micro, Pequeña y Mediana Empresa, a la que
 
 B) Subsecretaría de Promoción y Atracción de Inversiones, a la que quedan adscritas:
 
-1. Dirección de Atracción de Inversión; y,
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2011)</small>
 
-2. Dirección de Oferta Exportable.
+1. Dirección de Atracción de Inversión;
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2011)</small>
+
+2 Dirección de Oferta Exportable; y,
+
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2011)</small>
+
+3. Dirección de Promoción.
 
 C) Dirección del Empleo.
 
@@ -355,9 +379,17 @@ VIII. A la Secretaría de Urbanismo y Medio Ambiente:
 
 A) Subsecretaría de Urbanismo, a la que quedan adscritas:
 
-1. Dirección de Desarrollo Urbano; y,
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2011)</small>
 
-2. Dirección de Asentamientos Humanos.
+1. Dirección de Desarrollo Urbano
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2011)</small>
+
+2. Dirección de Asentamientos Humanos; y,
+
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2011)</small>
+
+3. Dirección de Áreas Conurbadas y Programas Metropolitanos.
 
 B) Dirección de Ordenamiento y Protección del Patrimonio Natural.
 
@@ -449,17 +481,33 @@ I) Unidades Auxiliares del Secretario:
 
 X. A la Secretaría de Cultura:
 
-A) Dirección de Promoción y Fomento Cultural;
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2011)</small>
 
-B) Dirección de Formación y Educación;
+A) Dirección de Producción Artística y Desarrollo Cultural;
 
-C) Dirección de Vinculación e Integración Cultural;
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2011)</small>
 
-D) Dirección de Patrimonio, Protección y Conservación de Monumentos y Sitios Históricos;
+B) Producción de Promoción y Fomento Cultural;
 
-E) Delegación Administrativa; y,
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2011)</small>
 
-F) Unidades Auxiliares del Secretario:
+C) Dirección de Formación y Educación;
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2011)</small>
+
+D) Dirección de Vinculación e Integración Cultural;
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2011)</small>
+
+E) Dirección de Patrimonio Protección y Conservación de monumentos y Sitios Históricos;
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2011)</small>
+
+F) Delegación Administrativa; y,
+
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2011)</small>
+
+G) Unidades Auxiliares del Secretario:
 
 1. Secretaría Técnica;
 
@@ -605,17 +653,27 @@ F) Unidades Auxiliares del Secretario:
 
 XVII. A la Coordinación de Planeación para el Desarrollo:
 
-A) Dirección de Planeación;
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2011)</small>
 
-B) Dirección de Proyectos e Investigación;
+A) Dirección de Planeación Participativa;
 
-C) Dirección de Evaluación e Informe;
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2011)</small>
 
-D) Dirección de Asistencia Técnica y Estadística;
+B) Dirección de Evaluación y Seguimiento;
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2011)</small>
+
+C) Dirección de Programas;
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2011)</small>
+
+D) Dirección de Proyectos;
 
 E) Dirección de Desarrollo Regional;
 
-F) Dirección de Procesos y Convenios;
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2011)</small>
+
+F) Dirección de Sistemas y Procesos;
 
 G) Delegación Administrativa;
 
@@ -1067,9 +1125,29 @@ VI. Participar como apoyo en las gestiones que realicen las organizaciones de ci
 
 VII. Las demás que le señale el Secretario de Gobierno y otras disposiciones legales aplicables.
 
-#### SECCIÓN IV. DE LA DIRECCIÓN DEL TRABAJO Y PREVISIÓN SOCIAL
+> <small>(ADICIONADA CON EL ARTICULO QUE LO INTEGRA, P.O. 2 DE MARZO DE 2011)</small>
 
-#### SECCIÓN V. DE LA DIRECCIÓN DE ORGANIZACIÓN AGRARIA
+#### SECCIÓN III (bis). DE LA DIRECCIÓN DE ASUNTOS RELIGIOSOS
+
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2011)</small>
+
+ARTÍCULO 22 bis.- Al Director de Asuntos Religiosos le corresponde el ejercicio de las facultades siguientes:
+
+I. Conducir el análisis, definición y aplicación de la política a desarrollar en materia religiosa, previo acuerdo con el Subsecretario de Gobernación;
+
+II. Coadyuvar, en el ámbito de su competencia, con la Secretaría de Gobernación en materia de asuntos religiosos en el marco de las disposiciones constitucionales, reglamentarias y administrativas que son competencia del Poder Ejecutivo Federal;
+
+III. Elaborar y proponer al Subsecretario de Gobernación los convenios de participación y/o colaboración con otras dependencias, instituciones u organizaciones. involucradas en materia religiosa;
+
+IV. Atender los asuntos que en materia religiosa competen al Gobierno del Estado dentro del marco legal, señalados en la Constitución Política de los Estados Unidos Mexicanos y en la Ley de Asociaciones Religiosas y Culto Público y su Reglamento;
+
+V. Proponer al Subsecretario de Gobernación, la creación o modificación, según sea el caso, de disposiciones normativas que garanticen el ejercicio y respeto del derecho de libertad de credo y la tolerancia al mismo;
+
+VI. Desarrollar un padrón de organizaciones religiosas con el propósito de contar con un censo de las diferentes asociaciones religiosas con presencia en el Estado; y,
+
+VII. Las demás que le señale el Secretario de Gobierno y otras disposiciones legales aplicables.
+
+#### SECCIÓN IV. DE LA DIRECCIÓN DEL TRABAJO Y PREVISIÓN SOCIAL
 
 ###### ARTÍCULO 23.
 
@@ -1097,7 +1175,7 @@ X. Proporcionar asesoría gratuita a los trabajadores solicitantes, a través de
 
 XI. Las demás que le señale el Secretario de Gobierno y otras disposiciones legales aplicables.
 
-#### SECCIÓN VI. DE LA DIRECCIÓN DE CONCERTACIÓN AGRARIA
+#### SECCIÓN V. DE LA DIRECCIÓN DE ORGANIZACIÓN AGRARIA
 
 ###### ARTÍCULO 24.
 
@@ -1115,7 +1193,7 @@ V. Coordinar acciones con la Dirección de Concertación Agraria para la atenci�
 
 VI. Las demás que le señale el Secretario de Gobierno y otras disposiciones legales aplicables.
 
-#### SECCIÓN VII. DE LA DIRECCIÓN DE ATENCIÓN A ÁREAS CONURBADAS
+#### SECCIÓN VI. DE LA DIRECCIÓN DE CONCERTACIÓN AGRARIA
 
 ###### ARTÍCULO 25.
 
@@ -1137,19 +1215,11 @@ VII. Coordinar acciones con la Dirección de Organización Agraria, para la aten
 
 VIII. Las demás que le señale el Secretario de Gobierno y otras disposiciones legales aplicables.
 
-#### SECCIÓN I. DE LA DIRECCIÓN DE ENLACE LEGISLATIVO
+#### SECCIÓN VII. DE LA DIRECCIÓN DE ATENCIÓN A ÁREAS CONURBADAS
 
 ###### ARTÍCULO 26.
 
-Al Director de Atención a Áreas Conurbadas le corresponde el ejercicio de las facultades siguientes:
-
-I. Conocer y atender los asuntos relacionados con la demarcación y conservación de los límites territoriales del Estado;
-
-II. Coadyuvar en la solución de conflictos suscitados entre los municipios de la entidad por cuestiones de límites territoriales;
-
-III. Proponer al Subsecretario de Gobernación, proyectos de reformas al marco jurídico de la entidad, en materia de demarcación y conservación de limites territoriales; y,
-
-IV. Las demás que le señale el Secretario de Gobierno y otras disposiciones legales aplicables.
+(DEROGADO, P.O. 2 DE MARZO DE 2011)
 
 ### CAPÍTULO SEGUNDO. DE LA SUBSECRETARÍA DE ENLACE LEGISLATIVO Y ASUNTOS REGISTRALES
 
@@ -1179,7 +1249,7 @@ X. Coordinar la actualización del Catálogo Electrónico de la Legislación del
 
 XI. Las demás que le señale el Secretario de Gobierno y otras disposiciones legales aplicables.
 
-#### SECCIÓN II. DE LA UNIDAD DE DERECHOS HUMANOS
+#### SECCIÓN I. DE LA DIRECCIÓN DE ENLACE LEGISLATIVO
 
 ###### ARTÍCULO 28.
 
@@ -1197,7 +1267,7 @@ V. Actualizar el Catálogo Electrónico de la Legislación del Estado de Michoac
 
 VI. Las demás que le señale el Secretario de Gobierno y otras disposiciones legales aplicables.
 
-#### SECCIÓN III. DE LA DIRECCIÓN DEL REGISTRO CIVIL
+#### SECCIÓN II. DE LA UNIDAD DE DERECHOS HUMANOS
 
 ###### ARTÍCULO 29.
 
@@ -1215,7 +1285,7 @@ V. Dirigir, instrumentar, organizar, vigilar, planear, coordinar y determinar lo
 
 VI. Las demás que le señale el Secretario de Gobierno y otras disposiciones legales aplicables.
 
-#### SECCIÓN IV. DE LA DIRECCIÓN DEL REGISTRO PÚBLICO DE LA PROPIEDAD RAÍZ Y DEL COMERCIO
+#### SECCIÓN III. DE LA DIRECCIÓN DEL REGISTRO CIVIL
 
 ###### ARTÍCULO 30.
 
@@ -1251,7 +1321,7 @@ XIV. Canalizar a los contrayentes del matrimonio civil para la recepción de las
 
 XV. Las demás que le señale el Secretario de Gobierno y otras disposiciones legales aplicables.
 
-#### SECCIÓN V. DE LA DIRECCIÓN DEL NOTARIADO Y ARCHIVO GENERAL DE NOTARÍAS
+#### SECCIÓN IV. DE LA DIRECCIÓN DEL REGISTRO PÚBLICO DE LA PROPIEDAD RAÍZ Y DEL COMERCIO
 
 ###### ARTÍCULO 31.
 
@@ -1277,7 +1347,7 @@ IX. Definir y aplicar los mecanismos administrativos que permitan la agilizació
 
 X. Las demás que le señale el Secretario de Gobierno y otras disposiciones legales aplicables.
 
-#### SECCIÓN VI. DE LA DIRECCIÓN DE ARCHIVOS DEL PODER EJECUTIVO
+#### SECCIÓN V. DE LA DIRECCIÓN DEL NOTARIADO Y ARCHIVO GENERAL DE NOTARÍAS
 
 ###### ARTÍCULO 32.
 
@@ -1329,7 +1399,7 @@ XXII. Realizar el control administrativo general sobre el registro de notarías,
 
 XXIII. Las demás que le señale el Secretario de Gobierno y otras disposiciones legales aplicables.
 
-#### SECCIÓN VII. DE LA DIRECCIÓN DEL PERIÓDICO OFICIAL DEL ESTADO
+#### SECCIÓN VI. DE LA DIRECCIÓN DE ARCHIVOS DEL PODER EJECUTIVO
 
 ###### ARTÍCULO 33.
 
@@ -1359,7 +1429,7 @@ XI. Proporcionar, de acuerdo con los plazos y las modalidades que se dicten al r
 
 XII. Las demás que le señale el Secretario de Gobierno y otras disposiciones legales aplicables.
 
-#### SECCIÓN VIII. DE LA DIRECCIÓN DE LA DEFENSORÍA DE OFICIO
+#### SECCIÓN VII. DE LA DIRECCIÓN DEL PERIÓDICO OFICIAL DEL ESTADO
 
 ###### ARTÍCULO 34.
 
@@ -1387,7 +1457,7 @@ X. Archivar y conservar en todas las modalidades existentes y posibles el acervo
 
 XI. Las demás que le señale el Secretario de Gobierno y otras disposiciones legales aplicables.
 
-#### SECCIÓN I. DE LA DIRECCIÓN DE INGRESOS
+#### SECCIÓN VIII. DE LA DIRECCIÓN DE LA DEFENSORÍA DE OFICIO
 
 ###### ARTÍCULO 35.
 
@@ -1465,7 +1535,7 @@ XIX. Coordinar la elaboración de los informes trimestrales sobre los ingresos o
 
 XX. Las demás que le señale el Secretario de Finanzas y Administración y otras disposiciones legales aplicables.
 
-#### SECCIÓN II. DE LA DIRECCIÓN DE AUDITORÍA Y REVISIÓN FISCAL
+#### SECCIÓN I. DE LA DIRECCIÓN DE INGRESOS
 
 ###### ARTÍCULO 39.
 
@@ -1541,7 +1611,7 @@ XXXII. Resolver las solicitudes de condonación de las multas impuestas por infr
 
 XXXIII. Las demás que le señale el Secretario de Finanzas y Administración y otras disposiciones legales aplicables.
 
-#### SECCIÓN III. DE LA DIRECCIÓN DE CATASTRO
+#### SECCIÓN II. DE LA DIRECCIÓN DE AUDITORÍA Y REVISIÓN FISCAL
 
 ###### ARTÍCULO 40.
 
@@ -1617,7 +1687,7 @@ XXVI. Las demás que le señale el Secretario de Finanzas y Administración y ot
 
 En el ejercicio de las facultades que corresponden al Director de Auditoria y Revisión Fiscal, éste se auxiliará por los jefes de departamento, coordinadores, supervisores, auditores, inspectores, verificadores, ayudantes de auditor y notificadores, así como por el personal que se requiera para satisfacer las necesidades del servicio.
 
-#### SECCIÓN IV. DE LA DIRECCIÓN DE PROGRAMACIÓN Y PRESUPUESTO
+#### SECCIÓN III. DE LA DIRECCIÓN DE CATASTRO
 
 ###### ARTÍCULO 41.
 
@@ -1675,7 +1745,7 @@ XXV. Informar periódicamente al Subsecretario de Finanzas sobre las actividades
 
 XXVI. Las demás que le señale el Secretario de Finanzas y Administración y otras disposiciones legales aplicables.
 
-#### SECCIÓN V. DE LA DIRECCIÓN DE SEGUIMIENTO DE LA INVERSIÓN PÚBLICA CONVENIDA
+#### SECCIÓN IV. DE LA DIRECCIÓN DE PROGRAMACIÓN Y PRESUPUESTO
 
 ###### ARTÍCULO 42.
 
@@ -1763,7 +1833,7 @@ XL. Informar periódicamente al Subsecretario de Finanzas sobre las actividades 
 
 XLI. Las demás que le señale el Secretario de Finanzas y Administración y otras disposiciones legales aplicables.
 
-#### SECCIÓN VI. DE LA DIRECCIÓN DE POLÍTICA HACENDARIA
+#### SECCIÓN V. DE LA DIRECCIÓN DE SEGUIMIENTO DE LA INVERSIÓN PÚBLICA CONVENIDA
 
 ###### ARTÍCULO 43.
 
@@ -1791,7 +1861,7 @@ X. Participar en la solventación de las observaciones emitidas por la Coordinac
 
 XI. Las demás que le señale el Secretario de Finanzas y Administración y otras disposiciones normativas aplicables.
 
-#### SECCIÓN VII. DE LA DIRECCIÓN DE CRÉDITO
+#### SECCIÓN VI. DE LA DIRECCIÓN DE POLÍTICA HACENDARIA
 
 ###### ARTÍCULO 44.
 
@@ -1831,7 +1901,7 @@ XVI. Informar periódicamente al Subsecretario de Finanzas, sobre las actividade
 
 XVII. Las demás que le señale el Secretario de Finanzas y Administración y otras disposiciones legales aplicables.
 
-#### SECCIÓN VIII. DE LA DIRECCIÓN DE ADMINISTRACIÓN DE FONDOS
+#### SECCIÓN VII. DE LA DIRECCIÓN DE CRÉDITO
 
 ###### ARTÍCULO 45.
 
@@ -1885,7 +1955,7 @@ XXIII. Promover con las autoridades municipales su participación en el programa
 
 XXIV. Las demás que le señale el Secretario de Finanzas y Administración y otras disposiciones legales aplicables.
 
-#### SECCIÓN IX. DE LA DIRECCIÓN DE CONTABILIDAD
+#### SECCIÓN VIII. DE LA DIRECCIÓN DE ADMINISTRACIÓN DE FONDOS
 
 ###### ARTÍCULO 46.
 
@@ -1935,7 +2005,7 @@ XXI. Informar periódicamente al Subsecretario de Finanzas, sobre las actividade
 
 XXII. Las demás que le señale el Secretario de Finanzas y Administración y otras disposiciones legales aplicables.
 
-#### SECCIÓN I. DE LA DIRECCIÓN DE RECURSOS HUMANOS
+#### SECCIÓN IX. DE LA DIRECCIÓN DE CONTABILIDAD
 
 ###### ARTÍCULO 47.
 
@@ -2029,7 +2099,7 @@ XXIII. Participar en los comités, comisiones y demás cuerpos colegiados acadé
 
 XXIV. Las demás que le señale el Secretario de Finanzas y Administración y otras disposiciones legales aplicables.
 
-#### SECCIÓN II. DE LA DIRECCIÓN DE PATRIMONIO ESTATAL
+#### SECCIÓN I. DE LA DIRECCIÓN DE RECURSOS HUMANOS
 
 ###### ARTÍCULO 49.
 
@@ -2075,7 +2145,7 @@ XIX. Aplicar las políticas de estímulos por años de servicio, méritos, aport
 
 XX. Las demás que le señale el Secretario de Finanzas y Administración y otras disposiciones legales aplicables.
 
-#### SECCIÓN III. DE LA DIRECCIÓN DE INNOVACIÓN DE PROCESOS
+#### SECCIÓN II. DE LA DIRECCIÓN DE PATRIMONIO ESTATAL
 
 ###### ARTÍCULO 50.
 
@@ -2119,7 +2189,7 @@ XVIII. Proponer al Subsecretario de Administración e Innovación de Procesos el
 
 XIX. Las demás que le señale el Secretario de Finanzas y Administración y otras disposiciones legales aplicables.
 
-#### SECCIÓN IV. DE LA DIRECCIÓN DE CAPACITACIÓN Y PROFESIONALIZACIÓN
+#### SECCIÓN III. DE LA DIRECCIÓN DE INNOVACIÓN DE PROCESOS
 
 ###### ARTÍCULO 51.
 
@@ -2151,7 +2221,7 @@ XII. Coordinar con las dependencias, entidades y coordinaciones, los proyectos y
 
 XIII. Las demás que le señale el Secretario de Finanzas y Administración y otras disposiciones legales aplicables.
 
-#### SECCIÓN V. DE LA DIRECCIÓN DE SISTEMAS DE INFORMACIÓN
+#### SECCIÓN IV. DE LA DIRECCIÓN DE CAPACITACIÓN Y PROFESIONALIZACIÓN
 
 ###### ARTÍCULO 52.
 
@@ -2181,7 +2251,7 @@ XI. Coadyuvar con los titulares de las unidades administrativas de la Secretarí
 
 XII. Las demás que le señale el Secretario de Finanzas y Administración y otras disposiciones legales aplicables.
 
-#### SECCIÓN VI. DE LA DIRECCIÓN DE SERVICIOS GENERALES
+#### SECCIÓN V. DE LA DIRECCIÓN DE SISTEMAS DE INFORMACIÓN
 
 ###### ARTÍCULO 53.
 
@@ -2203,7 +2273,7 @@ VII. Informar periódicamente al Subsecretario de Administración e Innovación 
 
 VIII. Las demás que le señale el Secretario de Finanzas y Administración y otras disposiciones legales aplicables.
 
-#### SECCIÓN I. DE LA DIRECCIÓN DE SEGURIDAD PÚBLICA Y TRÁNSITO
+#### SECCIÓN VI. DE LA DIRECCIÓN DE SERVICIOS GENERALES
 
 ###### ARTÍCULO 54.
 
@@ -2237,15 +2307,31 @@ XIII. Administrar el sistema de control y distribución de combustible para los 
 
 XIV. Las demás que le señale el Secretario de Finanzas y Administración y otras disposiciones legales aplicables.
 
-#### SECCIÓN II. DE LA DIRECCIÓN DE LA UNIDAD COORDINADORA TÉCNICA OPERATIVA DEL CENTRO DE COMUNICACIÓN, CÓMPUTO, CONTROL Y COMANDO DEL ESTADO (C-4)
+> <small>(ADICIONADA CON EL ARTICULO QUE LO INTEGRA, P.O. 2 DE MARZO DE 2011)</small>
+
+#### SECCIÓN VII. DE LA DIRECCIÓN DE SERVICIOS AÉREOS
+
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2011)</small>
+
+ARTÍCULO 54 bis.- Al Director de Servicios Aéreos le corresponde el ejercicio de las facultades siguientes:
+
+I. Prestar los servicios aéreos que requiera el Gobernador para el cumplimiento de sus atribuciones y funciones ejecutivas;
+
+II. Dirigir, controlar y supervisar los programas de mantenimiento preventivo y correctivo de las unidades aéreas propiedad del Gobierno del Estado o que se encuentran bajo su resguardo;
+
+III. Establecer las medidas y acciones necesarias a efecto de asegurar que las condiciones de las unidades aéreas sean las óptimas para su utilización;
+
+IV. Dirigir los programas de instrucción y actualización de los pilotos aviadores y personal bajo su cargo; y,
+
+V. Las demás que le señale el Secretario de Finanzas y Administración y otras disposiciones legales aplicables.
 
 ### CAPÍTULO TERCERO. DE LAS UNIDADES ADMINISTRATIVAS REGIONALES
 
+#### SECCIÓN I. DE LA DIRECCIÓN DE SEGURIDAD PÚBLICA Y TRÁNSITO
+
+#### SECCIÓN II. DE LA DIRECCIÓN DE LA UNIDAD COORDINADORA TÉCNICA OPERATIVA DEL CENTRO DE COMUNICACIÓN, CÓMPUTO, CONTROL Y COMANDO DEL ESTADO (C-4)
+
 #### SECCIÓN III. DE LA DIRECCIÓN DE PROTECCIÓN CIVIL
-
-#### SECCIÓN IV. DE LA DIRECCIÓN DE INVESTIGACIÓN Y ANÁLISIS DEL DELITO
-
-#### SECCIÓN I. DE LAS DIRECCIONES DE LOS CENTROS DE READAPTACIÓN SOCIAL
 
 ### CAPÍTULO PRIMERO. DE LA SUBSECRETARÍA DE PROTECCIÓN CIUDADANA
 
@@ -2455,7 +2541,7 @@ XXXII. Identificar y evaluar las características delictivas de las diversas reg
 
 XXXIII. Las demás que le señale el Secretario de Seguridad Pública y otras disposiciones legales aplicables.
 
-#### SECCIÓN II. DE LA DIRECCIÓN TÉCNICA DE PREVENCIÓN
+#### SECCIÓN IV. DE LA DIRECCIÓN DE INVESTIGACIÓN Y ANÁLISIS DEL DELITO
 
 ###### ARTÍCULO 60.
 
@@ -2493,7 +2579,7 @@ XV. Impulsar acciones tendientes a la instrumentación de apoyo en vialidades a 
 
 XVI. Las demás que le señale el Secretario de Seguridad Pública y otras disposiciones legales aplicables.
 
-#### SECCIÓN III. DE LA DIRECCIÓN DE INTEGRACIÓN PARA ADOLESCENTES
+#### SECCIÓN I. DE LAS DIRECCIONES DE LOS CENTROS DE READAPTACIÓN SOCIAL
 
 ###### ARTÍCULO 61.
 
@@ -2519,7 +2605,7 @@ IX. Llevar a cabo el proceso de asignación de claves de acceso a las personas a
 
 X. Las demás que le señale el Secretario de Seguridad Pública y otras disposiciones legales aplicables.
 
-#### SECCIÓN IV. DE LA DIRECCIÓN DE EJECUCIÓN DE SANCIONES PENALES
+#### SECCIÓN II. DE LA DIRECCIÓN TÉCNICA DE PREVENCIÓN
 
 ###### ARTÍCULO 62.
 
@@ -2551,7 +2637,7 @@ XII. Controlar y supervisar acciones que se realicen en el ámbito de su compete
 
 XIII. Las demás que le señale el Secretario de Seguridad Pública y otras disposiciones legales aplicables.
 
-#### SECCIÓN I. DE LA DIRECCIÓN DE IMPULSO A LA MICRO, PEQUEÑA Y MEDIANA EMPRESA
+#### SECCIÓN III. DE LA DIRECCIÓN DE INTEGRACIÓN PARA ADOLESCENTES
 
 ###### ARTÍCULO 63.
 
@@ -2621,7 +2707,7 @@ XIX. Computar las sanciones privativas de libertad cuando existan dos o más imp
 
 XX. Las demás que le señale el Secretario de Seguridad Pública y otras disposiciones legales aplicables.
 
-#### SECCIÓN II. DE LA DIRECCIÓN (SIC) ATENCIÓN Y SERVICIOS A LA GESTIÓN EMPRESARIAL
+#### SECCIÓN IV. DE LA DIRECCIÓN DE EJECUCIÓN DE SANCIONES PENALES
 
 ###### ARTÍCULO 65.
 
@@ -2645,7 +2731,7 @@ VIII. Disponer de las medidas necesarias a fin de conservar y mantener el orden 
 
 IX. Las demás que le señale el Secretario de Seguridad Pública y otras disposiciones legales aplicables.
 
-#### SECCIÓN III. DE LA DIRECCIÓN DE DESARROLLO INDUSTRIAL
+#### SECCIÓN I. DE LA DIRECCIÓN DE IMPULSO A LA MICRO, PEQUEÑA Y MEDIANA EMPRESA
 
 ###### ARTÍCULO 66.
 
@@ -2679,7 +2765,7 @@ XIII. Establecer convenios con instituciones gubernamentales, organismos civiles
 
 XIV. Las demás que le señale el Secretario de Seguridad Pública y otras disposiciones legales aplicables.
 
-#### SECCIÓN IV. DE LA DIRECCIÓN DE ABASTO Y COMERCIO POPULAR
+#### SECCIÓN II. DE LA DIRECCIÓN (SIC) ATENCIÓN Y SERVICIOS A LA GESTIÓN EMPRESARIAL
 
 ###### ARTÍCULO 67.
 
@@ -2719,7 +2805,7 @@ XVI. Realizar la selección y capacitación del personal técnico, administrativ
 
 XVII. Las demás que le señale el Secretario de Seguridad Pública y otras disposiciones legales aplicables.
 
-#### SECCIÓN I. DE LA DIRECCIÓN DE ATRACCIÓN DE INVERSIÓN
+#### SECCIÓN III. DE LA DIRECCIÓN DE DESARROLLO INDUSTRIAL
 
 ###### ARTÍCULO 68.
 
@@ -2845,7 +2931,7 @@ XII. Participar en la conservación y protección del entorno natural en relaci�
 
 XIII. Las demás que le señale el Secretario de Desarrollo Económico y otras disposiciones legales aplicables.
 
-#### SECCIÓN II. DE LA DIRECCIÓN DE OFERTA EXPORTABLE
+#### SECCIÓN IV. DE LA DIRECCIÓN DE ABASTO Y COMERCIO POPULAR
 
 ###### ARTÍCULO 74.
 
@@ -2875,7 +2961,7 @@ XI. Promover la creación de asociaciones y de cadenas productivas por sector ec
 
 XII. Las demás que le señale el Secretario de Desarrollo Económico y otras disposiciones legales aplicables.
 
-#### SECCIÓN I. DE LA DIRECCIÓN DE DESARROLLO DE EMPRESAS TURÍSTICAS
+#### SECCIÓN I. DE LA DIRECCIÓN DE ATRACCIÓN DE INVERSIÓN
 
 ###### ARTÍCULO 75.
 
@@ -2903,7 +2989,7 @@ X. Dirigir la ejecución de acciones derivadas de los acuerdos del Comité Estat
 
 XI. Las demás que le señale el Secretario de Desarrollo Económico y otras disposiciones legales aplicables.
 
-#### SECCIÓN II. DE LA DIRECCIÓN (SIC) COORDINACIÓN DE PROYECTOS
+#### SECCIÓN II. DE LA DIRECCIÓN DE OFERTA EXPORTABLE
 
 ###### ARTÍCULO 76.
 
@@ -2939,7 +3025,35 @@ XIV. Formular el inventario de infraestructura productiva e identificar la infra
 
 XV. Las demás que la señale el Secretario de Desarrollo Económico y otras disposiciones legales aplicables.
 
-#### SECCIÓN III. DE LA DIRECCIÓN DE VINCULACIÓN INSTITUCIONAL
+#### SECCIÓN III. DE LA DIRECCIÓN DE PROMOCIÓN
+
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2011)</small>
+
+ARTÍCULO 80 bis,- Al Director de Promoción le corresponde el ejercicio de las facultades siguientes:
+
+I. Dirigir, supervisar y evaluar las acciones de promoción y publicidad del desarrollo económico, así como identificar y promover las oportunidades de negocios en el Estado, con base en las políticas y estrategia, establecidas por la Subsecretaria de Promoción y Atracción de Inversiones;
+
+II. Coordinar las actividades para la implementación de las campañas de promoción y difusión de las actividades económicas del Estado;
+
+III. Promover las actividades de los sectores económicos del Estado en el ámbito estatal, nacional e internacional;
+
+IV. Participar de manera activa en eventos, ferias y exposiciones nacionales e internacionales como parte de las actividades de promoción sectorial en el Estado;
+
+V. Diseñar, elaborar y distribuir el material promocional de la actividad económica del Estado;
+
+VI. Solicitar y gestionar ante las instancias respectivas los recursos necesarios para llevar a cabo las actividades de promoción y difusión de la actividad económica del Estado, previa autorización del Subsecretario de Promoción y Atracción de Inversiones;
+
+VII. Formular y evaluar estudios para identificar los sectores económicos con mayor oportunidad en el Estado, así como medir el impacto de las actividades de promoción en los sectores clave;
+
+VIII. Generar, concentrar y difundir por cualquier medio, los resultados de forma general respecto de la economía, recursos y competitividad del Estado, así como de las acciones y proyectos económicos del Estado;
+
+IX. Organizar y realizar reuniones empresariales con inversionistas nacionales y extranjeros; y,
+
+X. Las demás que le señale el Subsecretario de Promoción y Atracción de Inversiones y otras disposiciones legales aplicables.
+
+..... (sic)
+
+.....
 
 ###### ARTÍCULO 77.
 
@@ -3011,7 +3125,7 @@ XII. Emitir opinión técnica respecto de la instalación de nuevas industrias e
 
 XIII. Las demás que le señale el Secretario de Desarrollo Económico y otras disposiciones legales aplicables.
 
-#### SECCIÓN I. DE LA DIRECCIÓN DE MERCADOTECNIA
+#### SECCIÓN I. DE LA DIRECCIÓN DE DESARROLLO DE EMPRESAS TURÍSTICAS
 
 ###### ARTÍCULO 79.
 
@@ -3039,7 +3153,7 @@ X. Coadyuvar con la Dirección de Impulso a la Micro, Pequeña y Mediana Empresa
 
 XI. Las demás que le señale el Secretario de Desarrollo Económico y otras disposiciones legales aplicables;
 
-#### SECCIÓN II. DE LA DIRECCIÓN DE PROMOCIÓN
+#### SECCIÓN II. DE LA DIRECCIÓN (SIC) COORDINACIÓN DE PROYECTOS
 
 ###### ARTÍCULO 80.
 
@@ -3077,7 +3191,9 @@ XV. Organizar y coordinar acciones de promoción y difusión en los mercados nac
 
 XVI. Las demás que le señale el Secretario de Desarrollo Económico y otras disposiciones legales aplicables.
 
-#### SECCIÓN III. DE LA DIRECCIÓN DE PROMOCIÓN DEL TURISMO SOCIAL
+> <small>(ADICIONADA CON EL ARTICULO QUE LO INTEGRA, P.O. 2 DE MARZO DE 2011)</small>
+
+#### SECCIÓN III. DE LA DIRECCIÓN DE VINCULACIÓN INSTITUCIONAL
 
 ### CAPÍTULO PRIMERO. DE LA SUBSECRETARÍA DE DESARROLLO TURÍSTICO
 
@@ -3191,7 +3307,7 @@ XXI. Coordinar la atención a servidores públicos de los tres órdenes de gobie
 
 XXII. Las demás que le señale el Secretario de Turismo y otras disposiciones legales aplicables.
 
-#### SECCIÓN I. DE LA DIRECCIÓN DE AGRICULTURA
+#### SECCIÓN I. DE LA DIRECCIÓN DE MERCADOTECNIA
 
 ###### ARTÍCULO 85.
 
@@ -3239,7 +3355,7 @@ XX. Promover y dirigir la ejecución de acciones que coadyuven a la obtención d
 
 XXI. Las demás que le señale el Secretario de Turismo y otras disposiciones legales aplicables.
 
-#### SECCIÓN II. DE LA DIRECCIÓN DE GANADERÍA
+#### SECCIÓN II. DE LA DIRECCIÓN DE PROMOCIÓN
 
 ###### ARTÍCULO 86.
 
@@ -3273,7 +3389,7 @@ XIII. Dirigir la integración de los libros blancos sobre las obras que ejecute 
 
 XIV. Las demás que le señale el Secretario de Turismo y otras disposiciones legales aplicables.
 
-#### SECCIÓN III. DE LA DIRECCIÓN DE AGROINDUSTRIAS Y COMERCIALIZACIÓN
+#### SECCIÓN III. DE LA DIRECCIÓN DE PROMOCIÓN DEL TURISMO SOCIAL
 
 ###### ARTÍCULO 87.
 
@@ -3333,7 +3449,7 @@ XIV. Coordinar la participación de la Secretaría de Turismo en ferias, exposic
 
 XV. Las demás que le señale el Secretario de Turismo y otras disposiciones legales aplicables.
 
-#### SECCIÓN I. DE LA DIRECCIÓN DE ORGANIZACIÓN Y CAPACITACIÓN
+#### SECCIÓN I. DE LA DIRECCIÓN DE AGRICULTURA
 
 ###### ARTÍCULO 89.
 
@@ -3369,7 +3485,7 @@ XIV. Evaluar y reportar al Subsecretario de Promoción, el resultado de las camp
 
 XV. Las demás que le señale el Secretario de Turismo y otras disposiciones legales aplicables.
 
-#### SECCIÓN II. DE LA DIRECCIÓN DE DESARROLLO RURAL Y PROGRAMAS CONCURRENTES
+#### SECCIÓN II. DE LA DIRECCIÓN DE GANADERÍA
 
 ###### ARTÍCULO 90.
 
@@ -3401,7 +3517,7 @@ XII. Evaluar el impacto social y de costo y beneficio de los eventos que realice
 
 XIII. Las demás que le señale el Secretario de Turismo y otras disposiciones legales aplicables.
 
-#### SECCIÓN III. DE LA DIRECCIÓN DE ESTUDIOS Y PROYECTOS ESTRATÉGICOS
+#### SECCIÓN III. DE LA DIRECCIÓN DE AGROINDUSTRIAS Y COMERCIALIZACIÓN
 
 ###### ARTÍCULO 91.
 
@@ -3475,7 +3591,7 @@ XV. Proponer acciones que garanticen el cumplimiento del proceso de comercializa
 
 XVI. Las demás que le señale el Secretario de Desarrollo Rural y otras disposiciones normativas aplicables.
 
-#### SECCIÓN IV. DE LA DIRECCIÓN DE DISTRITOS DE DESARROLLO RURAL
+#### SECCIÓN I. DE LA DIRECCIÓN DE ORGANIZACIÓN Y CAPACITACIÓN
 
 ###### ARTÍCULO 94.
 
@@ -3531,7 +3647,7 @@ XXIV. Proponer al Subsecretario de Fomento Productivo el establecimiento de los 
 
 XXV. Las demás que le señale el Secretario de Desarrollo Rural y otras disposiciones normativas aplicables.
 
-#### SECCIÓN I. DE LA DIRECCIÓN DE OBRAS PÚBLICAS
+#### SECCIÓN II. DE LA DIRECCIÓN DE DESARROLLO RURAL Y PROGRAMAS CONCURRENTES
 
 ###### ARTÍCULO 95.
 
@@ -3565,7 +3681,7 @@ XIII. Integrar, analizar y dar seguimiento a las estadísticas pecuarias; y,
 
 XIV. Las demás que le señale el Secretario de Desarrollo Rural y otras disposiciones normativas aplicables.
 
-#### SECCIÓN II. DE LA DIRECCIÓN DE PROYECTOS E INGENIERÍA
+#### SECCIÓN III. DE LA DIRECCIÓN DE ESTUDIOS Y PROYECTOS ESTRATÉGICOS
 
 ###### ARTÍCULO 96.
 
@@ -3643,7 +3759,7 @@ XVII. Proponer al Secretario de Desarrollo Rural la suscripción de convenios de
 
 XVIII. Las demás que le señale el Secretario de Desarrollo Rural y otras disposiciones normativas aplicables.
 
-#### SECCIÓN III. DE LA DIRECCIÓN DE CAMINOS Y CARRETERAS
+#### SECCIÓN IV. DE LA DIRECCIÓN DE DISTRITOS DE DESARROLLO RURAL
 
 ###### ARTÍCULO 98.
 
@@ -3671,7 +3787,7 @@ X. Apoyar la promoción de talleres y el establecimiento de agroindustrias, así
 
 XI. Las demás que le señale el Secretario de Desarrollo Rural y otras disposiciones normativas aplicables.
 
-#### SECCIÓN IV. DE LA DIRECCIÓN DE MAQUINARIA Y EQUIPO
+#### SECCIÓN I. DE LA DIRECCIÓN DE OBRAS PÚBLICAS
 
 ###### ARTÍCULO 99.
 
@@ -3695,7 +3811,7 @@ VIII. Proponer al Subsecretario de Organización y Desarrollo, los sistemas y m�
 
 IX. Las demás que le señale el Secretario de Desarrollo Rural y otras disposiciones normativas aplicables.
 
-#### SECCIÓN V. DE LA DIRECCIÓN DE PROCESOS DE LICITACIÓN Y ADJUDICACIÓN DE OBRAS
+#### SECCIÓN II. DE LA DIRECCIÓN DE PROYECTOS E INGENIERÍA
 
 ###### ARTÍCULO 100.
 
@@ -3723,7 +3839,7 @@ X. Realizar y coordinar la elaboración de estudios estratégicos para el desarr
 
 XI. Las demás que le señale el Secretario de Desarrollo Rural y otras disposiciones normativas aplicables.
 
-#### SECCIÓN I. DE LA DIRECCIÓN DE DESARROLLO URBANO
+#### SECCIÓN III. DE LA DIRECCIÓN DE CAMINOS Y CARRETERAS
 
 ###### ARTÍCULO 101.
 
@@ -3803,7 +3919,7 @@ XVII. Proporcionar con la aprobación del Secretario de Comunicaciones y Obras P
 
 XVIII. Las demás que le señale el Secretario de Comunicaciones y Obras Públicas y otras disposiciones legales aplicables.
 
-#### SECCIÓN II. DE LA DIRECCIÓN DE ASENTAMIENTOS HUMANOS
+#### SECCIÓN IV. DE LA DIRECCIÓN DE MAQUINARIA Y EQUIPO
 
 ###### ARTÍCULO 104.
 
@@ -3839,7 +3955,7 @@ XIV. Llevar a cabo los finiquitos de obra correspondientes, una vez terminada la
 
 XV. Las demás que le señale el Secretario de Comunicaciones y Obras Públicas y otras disposiciones legales aplicables.
 
-#### SECCIÓN I. DE LA DIRECCIÓN DE EDUCACIÓN ELEMENTAL
+#### SECCIÓN V. DE LA DIRECCIÓN DE PROCESOS DE LICITACIÓN Y ADJUDICACIÓN DE OBRAS
 
 ###### ARTÍCULO 105.
 
@@ -3867,7 +3983,7 @@ X. Revisar y autorizar los expedientes técnicos de los proyectos que con recurs
 
 XI. Las demás que le señale el Secretario de Comunicaciones y Obras Públicas y otras disposiciones legales aplicables.
 
-#### SECCIÓN II. DE LA DIRECCIÓN DE EDUCACIÓN PRIMARIA
+#### SECCIÓN I. DE LA DIRECCIÓN DE DESARROLLO URBANO
 
 ###### ARTÍCULO 106.
 
@@ -3915,7 +4031,7 @@ XX. Proponer las políticas y mecanismos a fin de mantener actualizados los cens
 
 XXI. Las demás que le señale el Secretario de Comunicaciones y Obras Públicas y otras disposiciones legales aplicables.
 
-#### SECCIÓN III. DE LA DIRECCIÓN DE EDUCACIÓN SECUNDARIA
+#### SECCIÓN II. DE LA DIRECCIÓN DE ASENTAMIENTOS HUMANOS
 
 ###### ARTÍCULO 107.
 
@@ -3937,7 +4053,39 @@ VII. Proporcionar en calidad de préstamo o comodato, la maquinaria responsabili
 
 VIII. Las demás que le señale el Secretario de Comunicaciones y Obras Públicas y otras disposiciones legales aplicables.
 
-#### SECCIÓN IV. DE LA DIRECCIÓN DE EDUCACIÓN FÍSICA, RECREACIÓN Y DEPORTE
+#### SECCIÓN III. DE LA DIRECCIÓN DE ÁREAS CONURBADAS Y PROGRAMAS METROPOLITANOS
+
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2011)</small>
+
+ARTÍCULO 112 bis.- Al Director de Áreas Conurbadas y Programas Metropolitanos le corresponde el ejercicio de las facultades siguientes:
+
+I. Promover la celebración de convenios y/o contratos con la Federación, entidades federativas, municipios del Estado y sectores social y privado en materia de planeación e inversión para el funcionamiento y constitución de áreas conurbadas y zonas metropolitanas, así como para el mejoramiento de la imagen urbana y el aprovechamiento del territorio estatal de manera sustentable;
+
+II. Formular, ejecutar, revisar, actualizar, controlar y aprobar los Programas de Ordenación de las Áreas Conurbadas y Metropolitanas con los ayuntamientos involucrados, a través de las comisiones correspondientes, en los términos establecidos en la Ley General de Asentamientos Humanos, el Código de Desarrollo Urbano del Estado de Michoacán y los aplicables para los Estados vecinos;
+
+III. Participar de manera coordinada con los ayuntamientos del Estado, los gobiernos de las entidades federativas y con la Federación, en la planeación y ordenación de los centros de población situados en el territorio del Estado, que constituyan o tiendan a constituir un área conurbada o metropolitana;
+
+IV. Dirigir la planeación, promoción y gestión del desarrollo conurbado y metropolitano en el Estado;
+
+V. Coadyuvar en la ejecución de estudios, programas y acciones para el desarrollo de las Áreas Conurbadas y Zonas Metropolitanas, en coordinación con ayuntamientos, autoridades estatales y las comisiones correspondientes de la zona;
+
+VI. Promover la participación del sector social y privado, en la formulación o actualización, ejecución, modificación y evaluación de los Programas de Ordenación de las Áreas Conurbadas y Metropolitanas, así como la realización de acciones e inversiones para su desarrollo;
+
+VII. Incluir en todos los Programas de Ordenación de las Áreas Conurbadas y Metropolitanas a su cargo acciones que promuevan el desarrollo sustentable;
+
+VII. Dar seguimiento a los procesos de conurbación y metropolización;
+
+IX. Gestionar la inscripción de los Programas de Ordenación de las Áreas Conurbadas y Metropolitanas, en el Registro Público de la Propiedad Raíz y del Comercio en el Estado, en el Sistema de Infamación Geográfica del Estado y en el Registro Agrario Nacional, una vez aprobada por la Comisión de la Zona correspondiente;
+
+X. Coadyuvar para que los programas y acciones de las Áreas Conurbadas o Zonas Metropolitanas, sean congruentes con los objetivos y estrategias de los planes, nacional, estatal, regional, municipal y centro de población en materia de desarrollo urbano;
+
+XI. Llevar a cabo o a través de terceros, las acciones y obras de competencia de la Secretaría convenidas por el Gobierno del Estado, en materia de Áreas Conurbadas y Zonas Metropolitanas;
+
+XII. Proponer y llevar a cabo de manera directa, las acciones, obras y servicios públicos de competencia de la Secretaría, convenidos por el Gobierno del Estado;
+
+XIII. Elaborar proyectos ejecutivos de obras de mejoramiento de la imagen urbana de poblaciones del Estado, así como realizar las mismas directamente o a través de terceros; y,
+
+XIV. Las demás que le señale el Subsecretario de Urbanismo y otras disposiciones legales aplicables.
 
 ###### ARTÍCULO 108.
 
@@ -3995,7 +4143,7 @@ X. Realizar visitas y evaluar los trabajos relacionados con el desarrollo urbano
 
 XI. Las demás que le señale el Secretario de Urbanismo y Medio Ambiente y otras disposiciones legales.
 
-#### SECCIÓN V. DE LA UNIDAD ESTATAL DE DESARROLLO PROFESIONAL DEL MAGISTERIO
+#### SECCIÓN I. DE LA DIRECCIÓN DE EDUCACIÓN ELEMENTAL
 
 ###### ARTÍCULO 111.
 
@@ -4003,9 +4151,13 @@ Al Director de Desarrollo Urbano le corresponde el ejercicio de las facultades s
 
 I. Elaborar y proponer al Subsecretario de Urbanismo los proyectos de Programas de Desarrollo Urbano de competencia estatal;
 
-II. Formular, instrumentar y difundir conjuntamente con los municipios y dependencias y entidades que correspondan el Programa Estatal de Desarrollo Urbano, los Programas de Ordenación y Regulación de Zonas Conurbadas y los que de ellos se deriven, dándole seguimiento, vigilando y evaluando su cumplimiento conforme al Sistema Estatal de Desarrollo Urbano;
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2011)</small>
 
-III. Promover las consultas públicas para la elaboración o modificación de los Programas Estatal, Regionales, de zonas conurbadas y de los parciales que de ellos se deriven;
+II. Formular, instrumentar y difundir conjuntamente con los municipios, dependencias y entidades que correspondan el Programa Estatal de Desarrollo Urbano y los que de él se deriven, dándole seguimiento, vigilando y evaluando su cumplimiento conforme al Sistema Estatal de Desarrollo Urbano;
+
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2011)</small>
+
+III. Promover las consultas públicas para la elaboración o modificación de los Programas Estatal, Regionales y de los parciales que de ellos se deriven;
 
 IV. Asesorar a las autoridades municipales que lo soliciten, en la elaboración o modificación de los Programas Municipales de Desarrollo Urbano y de centros de población, así como de los programas parciales que de ellos se deriven;
 
@@ -4027,7 +4179,7 @@ XII. Vigilar, supervisar y evaluar el cumplimiento de los programas y disposicio
 
 XIII. Las demás que le señale el Secretario de Urbanismo y Medio Ambiente y otras disposiciones legales aplicables.
 
-#### SECCIÓN VI. DE LA DIRECCIÓN DE EDUCACIÓN ARTÍSTICA Y DESARROLLO CULTURAL
+#### SECCIÓN II. DE LA DIRECCIÓN DE EDUCACIÓN PRIMARIA
 
 ###### ARTÍCULO 112.
 
@@ -4065,7 +4217,9 @@ XV. Fomentar la coordinación y participación de los sectores público, social 
 
 XVI. Las demás que le señale el Secretario de Urbanismo y Medio Ambiente y otras disposiciones legales aplicables.
 
-#### SECCIÓN VII. DE LA DIRECCIÓN DE CARRERA MAGISTERIAL
+> <small>(ADICIONADA CON EL ARTICULO QUE LO INTEGRA, P.O. 2 DE MARZO DE 2011)</small>
+
+#### SECCIÓN III. DE LA DIRECCIÓN DE EDUCACIÓN SECUNDARIA
 
 ### CAPÍTULO PRIMERO. DE LA SUBSECRETARÍA DE EDUCACIÓN BÁSICA
 
@@ -4111,7 +4265,9 @@ IV. Coordinar el desarrollo de actividades, estudios, reportes e investigaciones
 
 V. Coordinar la elaboración, seguimiento y actualización del Programa Estatal de Manejo Integral de Residuos Sólidos Urbanos y de manejo especial;
 
-VI. Analizar y evaluar los planes de manejo de residuos de competencia estatal que elaboren y presenten los grandes generadores, así como elaborar el dictamen correspondiente para aprobación del Secretario de Urbanismo y Medio Ambiente;
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2011)</small>
+
+VI. Dictaminar los planes de manejo de residuos de competencia estatal que elaboren y presenten los grandes generadores para aprobación del Secretario;
 
 VII. Formular, operar, dar seguimiento y evaluar el Programa de Calidad del Aire;
 
@@ -4129,9 +4285,35 @@ XIII. Asesorar técnicamente en materia de prevención del deterioro ambiental p
 
 XIV. Elaborar y coordinar campañas de educación, formación y difusión orientadas a crear una cultura de responsabilidad ambiental;
 
-XV. Promover que las instancias de educación superior y organismos dedicados a la investigación científica y tecnológica, desarrollen técnicas de procedimientos y métodos que propicien el aprovechamiento sustentable de los recursos naturales, el control de la contaminación y la protección de los ecosistemas; y,
+XV. Promover que las instancias de educación superior y organismos dedicados a la investigación científica y tecnológica, desarrollen técnicas de procedimientos y métodos que propicien el aprovechamiento sustentable de los recursos naturales, el control de la contaminación y la protección de los ecosistemas; y, (sic)
 
-XVI. Las demás que les señale el Secretario de Urbanismo y Medio Ambiente y otras disposiciones normativas aplicables.
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2011)</small>
+
+XVI. Proponer al Secretario la política estatal de cambio climático, de conformidad con la normativa internacional y la Estrategia Nacional en la materia; así como su marco normativo y los instrumentos de planeación y administrativos que permitan cumplir con los objetivos establecidos por dicha política;
+
+> <small>(ADICIONADA, P.O. 2 DE MARZO DE 2011)</small>
+
+XVII. Promover el régimen de comercio de derechos de emisión de gases de efecto invernadero, además de la evaluación y el seguimiento de las emisiones de este tipo particular de contaminantes, a partir de la información extraída del inventario de emisiones atmosféricas;
+
+> <small>(ADICIONADA, P.O. 2 DE MARZO DE 2011)</small>
+
+XVIII. Promover políticas y medidas de mitigación y adaptación para combatir las causas del cambio climático;
+
+> <small>(ADICIONADA, P.O. 2 DE MARZO DE 2011)</small>
+
+XIX. Ejecutar, en coordinación con otras instancias de gobierno, las políticas de investigación y fomento de la capacidad de sumidero de los bosques para la captación de gases de efecto invernadero, así como asumir las competencias en materia de adaptación al cambio climático;
+
+> <small>(ADICIONADA, P.O. 2 DE MARZO DE 2011)</small>
+
+XX. Asesorar a las dependencias y entidades en los asuntos relacionados con el cambio climático;
+
+> <small>(ADICIONADA, P.O. 2 DE MARZO DE 2011)</small>
+
+XXI. Promover la utilización de los mecanismos de flexibilidad del Protocolo de Kioto y demás ordenamientos previstos en la Estrategia Nacional de Cambio Climático; y,
+
+> <small>(ADICIONADA, P.O. 2 DE MARZO DE 2011)</small>
+
+XXII. Las demás que le señale el Secretario de Urbanismo y Medio Ambiente y otras disposiciones legales aplicables.
 
 ## TÍTULO DÉCIMO. DE LA SECRETARÍA DE EDUCACIÓN
 
@@ -4183,7 +4365,7 @@ XVIII. Difundir y aplicar los lineamientos de los programas de protección civil
 
 XIX. Las demás que le señale el Secretario de Educación y otras disposiciones legales aplicables.
 
-#### SECCIÓN I. DE LA DIRECCIÓN DE EDUCACIÓN MEDIA SUPERIOR
+#### SECCIÓN IV. DE LA DIRECCIÓN DE EDUCACIÓN FÍSICA, RECREACIÓN Y DEPORTE
 
 ###### ARTÍCULO 117.
 
@@ -4217,7 +4399,7 @@ XIII. Instrumentar, coordinar y verificar acciones para la integración y operac
 
 XIV. Las demás que le señale el Secretario de Educación y otras disposiciones legales aplicables.
 
-#### SECCIÓN II. DE LA DIRECCIÓN DE EDUCACIÓN SUPERIOR
+#### SECCIÓN V. DE LA UNIDAD ESTATAL DE DESARROLLO PROFESIONAL DEL MAGISTERIO
 
 ###### ARTÍCULO 118.
 
@@ -4261,7 +4443,7 @@ XVIII. Diseñar, programar, instrumentar, supervisar y evaluar acciones encamina
 
 XIX. Las demás que le señale el Secretario de Educación y otras disposiciones legales aplicables.
 
-#### SECCIÓN III. DE LA DIRECCIÓN DE FORMACIÓN INICIAL Y PROFESIONALIZACIÓN DOCENTE
+#### SECCIÓN VI. DE LA DIRECCIÓN DE EDUCACIÓN ARTÍSTICA Y DESARROLLO CULTURAL
 
 ###### ARTÍCULO 119.
 
@@ -4291,7 +4473,7 @@ XI. Participar en los estudios de factibilidad para el otorgamiento de autorizac
 
 XII. Las demás que le señale el Secretario de Educación y otras disposiciones legales aplicables.
 
-#### SECCIÓN I. DE LA DIRECCIÓN DE PROYECTOS DE INVESTIGACIÓN E INNOVACIÓN
+#### SECCIÓN VII. DE LA DIRECCIÓN DE CARRERA MAGISTERIAL
 
 ###### ARTÍCULO 120.
 
@@ -4313,7 +4495,7 @@ VII. Establecer mecanismos de coordinación con la Comisión Estatal de Cultura 
 
 VIII. Las demás que le señale el Secretario de Educación y otras disposiciones legales aplicables.
 
-#### SECCIÓN II. DE LA DIRECCIÓN DE PROYECTOS DE TECNOLOGÍA EDUCATIVA
+#### SECCIÓN I. DE LA DIRECCIÓN DE EDUCACIÓN MEDIA SUPERIOR
 
 ###### ARTÍCULO 121.
 
@@ -4343,7 +4525,7 @@ XI. Proponer criterios, procedimientos e instrumentos para la evaluación y acre
 
 XII. Las demás que le señale el Secretario de Educación y otras disposiciones legales aplicables.
 
-#### SECCIÓN III. DE LA COORDINACIÓN DE PROGRAMAS COMPENSATORIOS
+#### SECCIÓN II. DE LA DIRECCIÓN DE EDUCACIÓN SUPERIOR
 
 ###### ARTÍCULO 122.
 
@@ -4369,7 +4551,7 @@ IX. Impulsar y propiciar las condiciones indispensables para el desarrollo de la
 
 X. Las demás que le señale el Secretario de Educación y otras disposiciones legales aplicables.
 
-#### SECCIÓN IV. DE LA UNIDAD DE VINCULACIÓN Y ASISTENCIA TÉCNICA
+#### SECCIÓN III. DE LA DIRECCIÓN DE FORMACIÓN INICIAL Y PROFESIONALIZACIÓN DOCENTE
 
 ###### ARTÍCULO 123.
 
@@ -4393,7 +4575,7 @@ VIII. Canalizar a la instancia correspondiente, las controversias que se present
 
 IX. Las demás que le señale el Secretario de Educación y otras disposiciones legales aplicables.
 
-#### SECCIÓN I. DE LA DIRECCIÓN DE PLANEACIÓN EDUCATIVA
+#### SECCIÓN I. DE LA DIRECCIÓN DE PROYECTOS DE INVESTIGACIÓN E INNOVACIÓN
 
 ###### ARTÍCULO 124.
 
@@ -4461,7 +4643,7 @@ XVI. Autenticar conforme a la delegación que expresamente emita el Secretario d
 
 XVII. Las demás que le señale el Secretario de Educación y otras disposiciones legales aplicables.
 
-#### SECCIÓN II. DE LA DIRECCIÓN DE EVALUACIÓN EDUCATIVA
+#### SECCIÓN II. DE LA DIRECCIÓN DE PROYECTOS DE TECNOLOGÍA EDUCATIVA
 
 ###### ARTÍCULO 126.
 
@@ -4509,7 +4691,7 @@ XX. Coadyuvar al logro de la finalidad del Sistema Nacional de Orientación Educ
 
 XXI. Las demás que le señale el Secretario de Educación y otras disposiciones legales aplicables.
 
-#### SECCIÓN III. DE LA DIRECCIÓN DE INCORPORACIÓN, CONTROL Y CERTIFICACIÓN
+#### SECCIÓN III. DE LA COORDINACIÓN DE PROGRAMAS COMPENSATORIOS
 
 ###### ARTÍCULO 127.
 
@@ -4557,7 +4739,7 @@ XX. Coadyuvar al logro de la finalidad del Sistema Nacional de Orientación Educ
 
 XXI. Las demás que le señale el Secretario de Educación y otras disposiciones legales aplicables.
 
-#### SECCIÓN I. DE LAS UNIDADES REGIONALES DE EDUCACIÓN POPULAR
+#### SECCIÓN IV. DE LA UNIDAD DE VINCULACIÓN Y ASISTENCIA TÉCNICA
 
 ###### ARTÍCULO 128.
 
@@ -4627,7 +4809,7 @@ XVI. Proponer la celebración de convenios de colaboración con otras institucio
 
 XVII. Las demás que le señale el Secretario de Educación y otras disposiciones legales aplicables.
 
-#### SECCIÓN I. DE LA DIRECCIÓN DE ADMINISTRACIÓN DE PERSONAL
+#### SECCIÓN I. DE LA DIRECCIÓN DE PLANEACIÓN EDUCATIVA
 
 ###### ARTÍCULO 130.
 
@@ -4651,7 +4833,7 @@ VIII. Proponer a la titular de la Secretaría, diversas medidas técnicas o acad
 
 IX. Las demás que le señale el Secretario de Educación y otras disposiciones legales aplicables.
 
-#### SECCIÓN II. DE LA DIRECCIÓN DE INFORMÁTICA ADMINISTRATIVA
+#### SECCIÓN II. DE LA DIRECCIÓN DE EVALUACIÓN EDUCATIVA
 
 ###### ARTÍCULO 131.
 
@@ -4691,7 +4873,7 @@ XVI. Coordinar las acciones que se realicen en materia de informática entre el 
 
 XVII. Las demás que le señale el Secretario de Educación y otras disposiciones legales aplicables.
 
-#### SECCIÓN III. DE LA DIRECCIÓN DE RECURSOS FINANCIEROS
+#### SECCIÓN III. DE LA DIRECCIÓN DE INCORPORACIÓN, CONTROL Y CERTIFICACIÓN
 
 ###### ARTÍCULO 132.
 
@@ -4721,7 +4903,7 @@ XI. Diseñar y proponer la incorporación de programas educativos compensatorios
 
 XII. Las demás que le señale el Secretario de Educación y otras disposiciones legales aplicables.
 
-#### SECCIÓN IV. DE LA DIRECCIÓN DE RECURSOS MATERIALES Y SERVICIOS GENERALES
+#### SECCIÓN I. DE LAS UNIDADES REGIONALES DE EDUCACIÓN POPULAR
 
 ###### ARTÍCULO 133.
 
@@ -4793,7 +4975,7 @@ XX. Coordinar la evaluación de la educación básica que imparte la Secretaría
 
 XXI. Las demás que le señale el Secretario de Educación y otras disposiciones legales aplicables.
 
-#### SECCIÓN V. DE LA DIRECCIÓN DE PRESUPUESTO
+#### SECCIÓN I. DE LA DIRECCIÓN DE ADMINISTRACIÓN DE PERSONAL
 
 ###### ARTÍCULO 135.
 
@@ -4823,7 +5005,7 @@ XI. Coordinar la realización de las propuestas de construcción, mantenimiento 
 
 XII. Las demás que le señale el Secretario de Educación y otras disposiciones legales aplicables.
 
-#### SECCIÓN VI. DE LA UNIDAD DE DESARROLLO ORGANIZACIONAL
+#### SECCIÓN II. DE LA DIRECCIÓN DE INFORMÁTICA ADMINISTRATIVA
 
 ###### ARTÍCULO 136.
 
@@ -4855,7 +5037,7 @@ XII. Vigilar la aplicación de la normativa correspondiente para el otorgamiento
 
 XIII. Las demás que le señale el Secretario de Educación y otras disposiciones legales aplicables.
 
-#### SECCIÓN ÚNICA. DE LA ADMINISTRACIÓN DEL PATRIMONIO DE LA BENEFICENCIA PÚBLICA
+#### SECCIÓN III. DE LA DIRECCIÓN DE RECURSOS FINANCIEROS
 
 ###### ARTÍCULO 137.
 
@@ -4963,7 +5145,7 @@ XV. Controlar, coordinar, dirigir y evaluar la administración y funcionamiento 
 
 XVI. Las demás que le señale el Secretario de Educación y otras disposiciones legales aplicables.
 
-#### SECCIÓN I. DEL RÉGIMEN ESTATAL DE PROTECCIÓN SOCIAL EN SALUD
+#### SECCIÓN IV. DE LA DIRECCIÓN DE RECURSOS MATERIALES Y SERVICIOS GENERALES
 
 ###### ARTÍCULO 140.
 
@@ -5001,7 +5183,9 @@ XV. Ejecutar el Plan Estatal de Desarrollo y el Programa de Desarrollo Educativo
 
 XVI. Las demás que le señale el Secretario de Educación y otras disposiciones legales aplicables.
 
-### CAPÍTULO PRIMERO. DE LA DIRECCIÓN DE PROMOCIÓN Y FOMENTO CULTURAL
+### CAPÍTULO PRIMERO. DE LA DIRECCIÓN DE PRODUCCIÓN ARTÍSTICA Y DESARROLLO CULTURAL
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE MARZO DE 2011)</small>
 
 ###### Artículo 141.
 
@@ -5027,7 +5211,7 @@ IX. Autorizar la contratación y adquisición de bienes y servicios, de conformi
 
 X. Las demás que le señale el Secretario de Educación y otras disposiciones legales aplicables.
 
-#### SECCIÓN II. DE LOS HOSPITALES GENERALES
+#### SECCIÓN V. DE LA DIRECCIÓN DE PRESUPUESTO
 
 ###### Artículo 142.
 
@@ -5071,7 +5255,7 @@ XVIII. Proporcionar los servicios de expedición de credenciales, constancias de
 
 XIX. Las demás que le señale el Secretario de Educación y otras disposiciones legales aplicables.
 
-#### SECCIÓN III. DE LAS JURISDICCIONES SANITARIAS
+#### SECCIÓN VI. DE LA UNIDAD DE DESARROLLO ORGANIZACIONAL
 
 ###### Artículo 143.
 
@@ -5089,7 +5273,9 @@ V. Llevar el control adecuado de respaldos de la información de la base de dato
 
 VI. Las demás que le señale el Secretario de Educación y otras disposiciones legales aplicables.
 
-#### SECCIÓN IV. DEL CENTRO ESTATAL DE ATENCIÓN ONCOLÓGICA
+#### SECCIÓN ÚNICA. DE LA ADMINISTRACIÓN DEL PATRIMONIO DE LA BENEFICENCIA PÚBLICA
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE MARZO DE 2011)</small>
 
 ###### Artículo 144.
 
@@ -5119,7 +5305,7 @@ XI. Instrumentar, elaborar y difundir, las normas y lineamientos para el control
 
 XII. Las demás que le señale el Secretario de Educación y otras disposiciones legales aplicables.
 
-#### SECCIÓN V. DEL CENTRO ESTATAL DE TRANSFUSIÓN SANGUÍNEA
+#### SECCIÓN I. DEL RÉGIMEN ESTATAL DE PROTECCIÓN SOCIAL EN SALUD
 
 ###### ARTÍCULO 145.
 
@@ -5143,7 +5329,7 @@ VIII. Vigilar que las obras de construcción, reparación, adaptación o manteni
 
 IX. Las demás que le señale el Secretario de Educación y otras disposiciones legales aplicables.
 
-#### SECCIÓN I. DE LOS ENLACES
+#### SECCIÓN II. DE LOS HOSPITALES GENERALES
 
 ###### ARTÍCULO 146.
 
@@ -5169,7 +5355,7 @@ IX. Definir los objetivos, indicadores de resultados y metas presupuestales del 
 
 X. Las demás que le señale el Secretario de Educación y otras disposiciones legales aplicables.
 
-#### SECCIÓN I. DE LA DIRECCIÓN DE PLANEACIÓN
+#### SECCIÓN III. DE LAS JURISDICCIONES SANITARIAS
 
 ###### ARTÍCULO 147.
 
@@ -5195,19 +5381,11 @@ IX. Establecer medidas de control interno que permitan transparentar la operaci�
 
 X. Las demás que le señale el Secretario de Educación y otras disposiciones legales aplicables.
 
-### CAPÍTULO SEGUNDO. DE LA DIRECCIÓN DE FORMACIÓN Y EDUCACIÓN
+### CAPÍTULO PRIMERO BIS. DE LA DIRECCIÓN DE PROMOCIÓN Y FOMENTO CULTURAL
 
-## TÍTULO DÉCIMO PRIMERO. DE LA SECRETARÍA DE CULTURA
+> <small>(ADICIONADA, P.O. 2 DE MARZO DE 2011)</small>
 
-###### ARTÍCULO 148.
-
-La Secretaría de Cultura es la dependencia del Poder Ejecutivo del Estado, que tiene a su cargo el ejercicio de las atribuciones expresamente conferidas por el artículo 32 de la Ley Orgánica de la Administración Pública del Estado y otras disposiciones legales aplicables.
-
-### CAPÍTULO TERCERO. DE LA DIRECCIÓN DE VINCULACIÓN E INTEGRACIÓN CULTURAL
-
-###### ARTÍCULO 149.
-
-Al Director de Promoción y Fomento Cultural le corresponde el ejercicio de las facultades siguientes:
+ARTÍCULO 149 bis.- Al Director de Promoción y Fomento Cultural le corresponde el ejercicio de las facultades siguientes:
 
 I. Dirigir y controlar la política de promoción y fomento cultural de conformidad con los objetivos, metas y estrategias establecidos en el Plan Estatal de Desarrollo y en el Programa Estatal de Cultura;
 
@@ -5219,7 +5397,7 @@ IV. Fomentar la educación artística en todas sus expresiones;
 
 V. Someter a consideración del Secretario de Cultura, proyectos de inversión específicos para la instrumentación de programas de fomento y desarrollo cultural;
 
-VI. Llevar a cabo acciones de coordinación, previo acuerdo con el Secretario de Cultura, con otras dependencias y entidades de la Administración Publica Federal, Estatal y Municipal, para el fomento y desarrollo cultural en el Estado;
+VI. Llevar a cabo acciones de coordinación, previo acuerdo con el Secretario de Cultura, con otras dependencias y entidades de la Administración Pública Federal, Estatal y Municipal, para el fomento y desarrollo cultural en el Estado;
 
 VII. Proponer, promover y estimular el desarrollo de proyectos culturales y artísticos que se desarrollen en ciudades extranjeras en donde se ubiquen comunidades de emigrantes michoacanos, en coordinación con las instancias competentes;
 
@@ -5237,7 +5415,7 @@ XIII. Proponer al Secretario de Cultura las estrategias de difusión de las acci
 
 XIV. Dirigir la ejecución de acciones de intercambio cultural en los ámbitos nacional e internacional;
 
-XV. Conducir la elaboración y publicación de proyectos folletos, trípticos, revistas, volantes carteles, libros y demás documentos que coadyuven al cumplimiento de los objetivos de la Secretaría de Cultura;
+XV. Conducir la elaboración y publicación de proyectos, folletos, trípticos, revistas, volantes, carteles, libros y demás documentos que coadyuven al cumplimiento de los objetivos de la Secretaría de Cultura;
 
 XVI. Dirigir la elaboración y actualización de los programas especiales que determine el Secretario de Cultura;
 
@@ -5245,9 +5423,97 @@ XVII. Proponer al Secretario de Cultura la política y programas de comunicació
 
 XVIII. Las demás que le señale el Secretario de Cultura y otras disposiciones legales aplicables.
 
-### CAPÍTULO CUARTO. DE LA DIRECCIÓN DE PATRIMONIO, PROTECCIÓN Y CONSERVACIÓN DE MONUMENTOS Y SITIOS HISTÓRICOS
+…(sic)
 
-### CAPÍTULO PRIMERO. DE LA DIRECCIÓN DE SERVICIOS DE SALUD
+…
+
+…
+
+…
+
+## TÍTULO DÉCIMO PRIMERO. DE LA SECRETARÍA DE CULTURA
+
+###### ARTÍCULO 148.
+
+La Secretaría de Cultura es la dependencia del Poder Ejecutivo del Estado, que tiene a su cargo el ejercicio de las atribuciones expresamente conferidas por el artículo 32 de la Ley Orgánica de la Administración Pública del Estado y otras disposiciones legales aplicables.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 2 DE MARZO DE 2011)</small>
+
+### CAPÍTULO SEGUNDO. DE LA DIRECCIÓN DE FORMACIÓN Y EDUCACIÓN
+
+###### ARTICULO 149.
+
+Al Director de Producción Artística y Desarrollo Cultural le corresponde el ejercicio de las facultades siguientes:
+
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2011)</small>
+
+I. Proponer al Secretario de Cultura las estrategias y acciones que permitan el desarrollo y fomento de los Centros Culturales a su cargo;
+
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2011)</small>
+
+II. Coordinar la elaboración y ejecución de los programas de trabajo para el cumplimiento de los objetivos de los Centros Culturales, así como los acuerdos, públicas y lineamientos que determine el Secretario de Cultura;
+
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2011)</small>
+
+III. Dar seguimiento a los acuerdos y demás instrumentos jurídicos que la Secretaría de Cultura suscriba con otras dependencias o entidades de la Administración Pública Federal, Estatal y/o Municipal, en el ámbito del desarrollo cultural, dentro de la esfera de su competencia;
+
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2011)</small>
+
+IV. Contribuir al desarrollo y fortalecimiento de las diferentes actividades culturales y artísticas, a través de los programas de promoción, formación, producción y difusión que lleven a cabo los Centros Culturales a su cargo;
+
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2011)</small>
+
+V. Fomentar y mantener vínculos con las diversas instituciones públicas y privadas, locales, estatales, nacionales e internacionales, con la finalidad de proveer al Estado de eventos artísticos y culturales de calidad, previo acuerdo con el Secretario de Cultura;
+
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2011)</small>
+
+VI. Coordinar los eventos que en el ámbito de su competencia realice la Secretaria de Cultura, conjuntamente con los Centros Culturales que se encuentren bajo su responsabilidad;
+
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2011)</small>
+
+VII. Proponer al Secretario de Cultura los mecanismos necesarios para la elaboración de proyectos y acciones que fomenten y apoyen el desarrollo de las diversas expresiones culturales en todos los géneros;
+
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2011)</small>
+
+VIII. Participar, previo acuerdo con el Secretario de Cultura en la renovación anual de los acuerdos específicos de ejecución y demás instrumentos jurídicos que sustenten los programas al interior de los Centros Culturales, bajo su responsabilidad, y que el Estado mantenga con las instancias competentes;
+
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2011)</small>
+
+IX. Proponer al Secretario estudios y proyectos que promuevan y fomenten la protección de los espacios teatrales administrados por la Secretaria de Cultura;
+
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2011)</small>
+
+X. Fomentar la investigación para el desarrollo del potencial creativo de artistas en música y arte sonoro en el Estado;
+
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2011)</small>
+
+XI. Proponer, aplicar y controlar los programas y proyectos académicos relativos a la formación y desarrollo de profesionales especializados en las artes;
+
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2011)</small>
+
+XII. Promover y difundir las exposiciones de las artes visuales, eventos musicales, literarios, de arte dramático y otras disciplinas artísticas que realice el Centro Cultural Antiguo Colegio Jesuita de Pátzcuaro;
+
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2011)</small>
+
+XIII. Presentar al Secretario de Cultura, proyectos museográficos y académicos, así como coordinar las acciones que se deriven de éstos, para la difusión de obras de arte en los espacios a su cargo; y,
+
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2011)</small>
+
+XIV. Las demás que le señale el Secretario de Cultura y otras disposiciones legales aplicables.
+
+XV. (DEROGADA, P.O. 2 DE MARZO DE 2011)
+
+XVI. (DEROGADA, P.O. 2 DE MARZO DE 2011)
+
+XVII. (DEROGADA, P.O. 2 DE MARZO DE 2011)
+
+XVIII. (DEROGADA, P.O. 2 DE MARZO DE 2011)
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 2 DE MARZO DE 2011)</small>
+
+### CAPÍTULO TERCERO. DE LA DIRECCIÓN DE VINCULACIÓN E INTEGRACIÓN CULTURAL
+
+### CAPÍTULO CUARTO. DE LA DIRECCIÓN DE PATRIMONIO, PROTECCIÓN Y CONSERVACIÓN DE MONUMENTOS Y SITIOS HISTÓRICOS
 
 ###### ARTÍCULO 150.
 
@@ -5281,7 +5547,7 @@ XIII. Coadyuvar en el funcionamiento de las diferentes Casas de Cultura del Esta
 
 XIV. Las demás que le señale el Secretario de Cultura y otras disposiciones normativas aplicables.
 
-### CAPÍTULO SEGUNDO. DE LA DIRECCIÓN DE PROTECCIÓN CONTRA RIESGOS SANITARIOS
+### CAPÍTULO PRIMERO. DE LA DIRECCIÓN DE SERVICIOS DE SALUD
 
 ###### ARTÍCULO 151.
 
@@ -5331,7 +5597,7 @@ XXI. Coadyuvar, con las unidades administrativas de la Secretaría de Cultura co
 
 XXII. Las demás que le señale el Secretario de Cultura y otras disposiciones legales aplicables.
 
-### CAPÍTULO TERCERO. DE LA DIRECCIÓN DE SERVICIOS DE ATENCIÓN PRIMARIA A LA SALUD
+### CAPÍTULO SEGUNDO. DE LA DIRECCIÓN DE PROTECCIÓN CONTRA RIESGOS SANITARIOS
 
 ###### ARTÍCULO 152.
 
@@ -5371,7 +5637,7 @@ XIV. Las demás que le señale el Secretario de Cultura y otras disposiciones le
 
 La Secretaría Salud es la dependencia del Poder Ejecutivo del Estado, que tiene a su cargo el ejercicio de las atribuciones expresamente conferidas por el artículo 33 de la Ley Orgánica de la Administración Pública del Estado y otras disposiciones legales aplicables.
 
-### CAPÍTULO CUARTO. DE LA DELEGACIÓN ADMINISTRATIVA
+### CAPÍTULO TERCERO. DE LA DIRECCIÓN DE SERVICIOS DE ATENCIÓN PRIMARIA A LA SALUD
 
 ###### ARTÍCULO 154.
 
@@ -5413,7 +5679,7 @@ XVII. Implantar y promover las acciones para la salud ocupacional; y,
 
 XVIII. Las demás que le señale el Secretario de Salud y otras disposiciones legales aplicables.
 
-### CAPÍTULO QUINTO. DE LA UNIDAD AUXILIAR DEL SECRETARIO DE SALUD
+### CAPÍTULO CUARTO. DE LA DELEGACIÓN ADMINISTRATIVA
 
 ###### ARTÍCULO 155.
 
@@ -5453,7 +5719,7 @@ XVI. Supervisar, vigilar y controlar la operación, funcionamiento, infraestruct
 
 XVII. Las demás que le señale el Secretario de Salud y otras disposiciones legales aplicables.
 
-### CAPÍTULO SEXTO. DE LOS ÓRGANOS DESCONCENTRADOS
+### CAPÍTULO QUINTO. DE LA UNIDAD AUXILIAR DEL SECRETARIO DE SALUD
 
 ###### ARTÍCULO 156.
 
@@ -5481,7 +5747,7 @@ X. Las demás que le señale el Secretario de Salud y otras disposiciones legale
 
 > <small>(F. DE E., P.O. 16 DE MAYO DE 2008)</small>
 
-### CAPÍTULO PRIMERO. DE LA DIRECCIÓN DE DISEÑO Y EVALUACIÓN DE POLÍTICAS SOCIALES
+### CAPÍTULO SEXTO. DE LOS ÓRGANOS DESCONCENTRADOS
 
 ###### ARTÍCULO 157.
 
@@ -5507,31 +5773,31 @@ IX. Coordinar la elaboración de estudios y proyectos para la construcción, amp
 
 X. Las demás que le señale el Secretario de Salud y otras disposiciones legales aplicables.
 
-### CAPÍTULO SEGUNDO. DE LA DIRECCIÓN DE DESARROLLO DE LA ECONOMÍA SOCIAL
+### CAPÍTULO PRIMERO. DE LA DIRECCIÓN DE DISEÑO Y EVALUACIÓN DE POLÍTICAS SOCIALES
 
-#### SECCIÓN II. DE LA DIRECCIÓN DE PROYECTOS E INVESTIGACIÓN
+#### SECCIÓN IV. DEL CENTRO ESTATAL DE ATENCIÓN ONCOLÓGICA
 
 ###### ARTÍCULO 158.
 
-Al titular de la Administración del Patrimonio de la Beneficencia Pública le corresponde el ejercicio de las facultades siguientes:
+La administración del patrimonio de la beneficencia pública se regirá de conformidad al Decreto que crea el Organismo Público Descentralizado de Servicios de Salud de Michoacán y su Reglamento.
 
-I. Operar el Sistema Estatal de Cuotas de Recuperación de las unidades aplicativas del sector salud;
+I. (DEROGADA, P.O. 2 DE MARZO DE 2011)
 
-II. Administrar los bienes, subsidios, aportaciones, subvenciones, bienes y derechos que conforman el patrimonio de la beneficencia pública, además de los recursos que el Gobierno Federal, el Gobierno Estatal y entidades paraestatales destinen al mismo o se obtenga por cualquier título legal, así como los rendimientos, utilidades, intereses, recuperaciones, y demás ingresos que se generen por las inversiones y operaciones que realice;
+II. (DEROGADA, P.O. 2 DE MARZO DE 2011)
 
-III. Intervenir en los juicios sucesorios en los que la beneficencia pública sea declarada sucesora, conjuntamente con la unidad administrativa jurídica correspondiente y en su caso, promover y gestionar la regularización de la propiedad y posesión de los bienes inmuebles, así como la enajenación de los bienes adjudicados que no sean necesarios para la realización de su objeto; la ejecución de programas de salud, así como apoyos y subsidios específicos a instituciones del sector social, público y privado en el campo de la salud que tengan por objeto la investigación científica, la enseñanza o cualquier acción de asistencia social;
+III. (DEROGADA, P.O. 2 DE MARZO DE 2011)
 
-IV. Elaborar y presentar al Secretario de Salud el presupuesto de egresos de la Administración del Patrimonio de la Beneficencia Pública, correspondiente al año de que se trate; y,
+IV. (DEROGADA, P.O. 2 DE MARZO DE 2011)
 
-V. Las demás que le señale el Secretario de Salud y otras disposiciones legales aplicables.
+V. (DEROGADA, P.O. 2 DE MARZO DE 2011)
 
-### CAPÍTULO TERCERO. DE LA DIRECCIÓN DE FORTALECIMIENTO COMUNITARIO
+### CAPÍTULO SEGUNDO. DE LA DIRECCIÓN DE DESARROLLO DE LA ECONOMÍA SOCIAL
 
 ###### ARTÍCULO 159.
 
 Para una eficaz atención y eficiente despacho de los asuntos de la competencia de la Secretaría de Salud, ésta contará con los órganos administrativos desconcentrados que le estarán jerárquicamente subordinados, los cuales contarán con su propia reglamentación interna.
 
-#### SECCIÓN III. DE LA DIRECCIÓN DE EVALUACIÓN E INFORME
+#### SECCIÓN V. DEL CENTRO ESTATAL DE TRANSFUSIÓN SANGUÍNEA
 
 ###### ARTÍCULO 160.
 
@@ -5575,7 +5841,7 @@ XVIII. Gestionar ante la Comisión Nacional de Protección Social en Salud, el p
 
 XIX. Las demás que le señale el Secretario de Salud y otras disposiciones legales aplicables.
 
-#### SECCIÓN IV. DE LA DIRECCIÓN DE ASISTENCIA TÉCNICA Y ESTADÍSTICA
+#### SECCIÓN I. DE LOS ENLACES
 
 ###### ARTÍCULO 161.
 
@@ -5601,7 +5867,9 @@ IX. Impulsar e integrar la instalación del Patronato de los hospitales, con la 
 
 X. Las demás que le señale el Secretario de Salud y otras disposiciones legales aplicables.
 
-#### SECCIÓN V. DE LA DIRECCIÓN DE DESARROLLO REGIONAL
+#### SECCIÓN I. DE LA DIRECCIÓN DE PLANEACIÓN PARTICIPATIVA
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE MARZO DE 2011)</small>
 
 ###### ARTÍCULO 162.
 
@@ -5645,7 +5913,9 @@ XVIII. Coadyuvar con el área correspondiente, en la gestión y tramitación de 
 
 XIX. Las demás que le señale el Secretario de Salud y otras disposiciones legales aplicables.
 
-#### SECCIÓN VI. DE LA DIRECCIÓN DE PROCESOS Y CONVENIOS
+#### SECCIÓN II. DE LA DIRECCIÓN DE EVALUACIÓN Y SEGUIMIENTO
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2011)</small>
 
 ###### ARTÍCULO 163.
 
@@ -5677,6 +5947,10 @@ XII. Promover acciones para la protección de la salud en lo relativo al cáncer
 
 XIII. Las demás que le señale el Secretario de Salud y otras disposiciones legales aplicables.
 
+#### SECCIÓN III. DE LA DIRECCIÓN DE PROGRAMAS
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE MARZO DE 2011)</small>
+
 ###### ARTÍCULO 164.
 
 Al titular del Centro Estatal de Transfusión Sanguínea le corresponde el ejercicio de las facultades siguientes:
@@ -5695,7 +5969,7 @@ IV. Las demás que le señale el Secretario de Salud y otras disposiciones legal
 
 La Secretaría de Política Social es la dependencia del Poder Ejecutivo del Estado, que tiene a su cargo el ejercicio de las atribuciones expresamente conferidas por el artículo 34 de la Ley Orgánica de la Administración Pública del Estado y otras disposiciones legales aplicables.
 
-### CAPÍTULO CUARTO. DE LA DIRECCIÓN DE COMBATE A LA POBREZA
+### CAPÍTULO TERCERO. DE LA DIRECCIÓN DE FORTALECIMIENTO COMUNITARIO
 
 ###### ARTÍCULO 166.
 
@@ -5741,7 +6015,7 @@ XIX. Promover programas de empleo productivo emergentes en comunidades campesina
 
 XX. Las demás que señale el Secretario de Política Social y otras disposiciones legales aplicables.
 
-### CAPÍTULO QUINTO. DE LA DIRECCIÓN DE PARTICIPACIÓN SOCIAL
+### CAPÍTULO CUARTO. DE LA DIRECCIÓN DE COMBATE A LA POBREZA
 
 ###### ARTÍCULO 167.
 
@@ -5779,7 +6053,7 @@ XV. Colaborar en coordinación con las dependencias competentes en acciones de c
 
 XVI. Las demás que le señale el Secretario de Política Social y otras disposiciones legales aplicables.
 
-### CAPÍTULO PRIMERO. DE LA COORDINACIÓN DE NORMAS Y POLÍTICA (SIC) PÚBLICAS
+### CAPÍTULO QUINTO. DE LA DIRECCIÓN DE PARTICIPACIÓN SOCIAL
 
 ###### ARTÍCULO 168.
 
@@ -5811,7 +6085,7 @@ XII. Promover los valores, usos y costumbres de las comunidades; y,
 
 XIII. Las demás que le señale el Secretario de Política Social y otras disposiciones legales aplicables.
 
-### CAPÍTULO SEGUNDO. DE LA COORDINACIÓN DE PROGRAMAS SOCIALES
+### CAPÍTULO PRIMERO. DE LA COORDINACIÓN DE NORMAS Y POLÍTICA (SIC) PÚBLICAS
 
 ###### ARTÍCULO 169.
 
@@ -5841,7 +6115,7 @@ XI. Proponer al Secretario de Política Social la promoción coordinada de accio
 
 XII. Las demás que le señale el Secretario de Política Social y otras disposiciones legales aplicables.
 
-### CAPÍTULO TERCERO. DE LA COORDINACIÓN DE PROYECTOS DE DESARROLLO ECONÓMICO Y SOCIAL
+### CAPÍTULO SEGUNDO. DE LA COORDINACIÓN DE PROGRAMAS SOCIALES
 
 ###### ARTÍCULO 170.
 
@@ -5879,7 +6153,7 @@ XIII. Las demás que le señale el Secretario de Política Social y otras dispos
 
 La Secretaría de Pueblos Indígenas es la dependencia del Poder Ejecutivo del Estado, que tiene a su cargo el ejercicio de las atribuciones expresamente conferidas por el artículo 35 de la Ley Orgánica de la Administración Pública del Estado y otras disposiciones legales aplicables.
 
-### CAPÍTULO PRIMERO. DE LA COORDINACIÓN DE POLÍTICAS PÚBLICAS PARA LAS MUJERES MICHOACANAS
+### CAPÍTULO TERCERO. DE LA COORDINACIÓN DE PROYECTOS DE DESARROLLO ECONÓMICO Y SOCIAL
 
 ###### ARTÍCULO 172.
 
@@ -5929,7 +6203,7 @@ XXI. Propiciar el establecimiento de los mecanismos necesarios para garantizar l
 
 XXII. Las demás que le señale el Secretario de Pueblos Indígenas y otras disposiciones normativas aplicables.
 
-### CAPÍTULO SEGUNDO. DE LA COORDINACIÓN DE ATENCIÓN Y GESTIÓN
+### CAPÍTULO PRIMERO. DE LA COORDINACIÓN DE POLÍTICAS PÚBLICAS PARA LAS MUJERES MICHOACANAS
 
 ###### ARTÍCULO 173.
 
@@ -5973,7 +6247,7 @@ XVIII. Impulsar con el sector salud la práctica de la medicina tradicional, su 
 
 XIX. Las demás que le señale el Secretario de Pueblos Indígenas y otras disposiciones normativas aplicables.
 
-### CAPÍTULO TERCERO. DE LA COORDINACIÓN DE PROYECTOS DE DESARROLLO
+### CAPÍTULO SEGUNDO. DE LA COORDINACIÓN DE ATENCIÓN Y GESTIÓN
 
 ###### ARTÍCULO 174.
 
@@ -6021,7 +6295,7 @@ XVIII. Las demás que le señale el Secretario de Pueblos Indígenas y otras dis
 
 La Secretaría de la Mujer es la dependencia del Poder Ejecutivo del Estado, que tiene a su cargo el ejercicio de las atribuciones expresamente conferidas por el artículo 36 de la Ley Orgánica de la Administración Pública del Estado y otras disposiciones legales aplicables.
 
-### CAPÍTULO PRIMERO. DE LA COORDINACIÓN DE POLÍTICAS Y PROGRAMAS TRANSVERSALES
+### CAPÍTULO TERCERO. DE LA COORDINACIÓN DE PROYECTOS DE DESARROLLO
 
 ###### ARTÍCULO 176.
 
@@ -6067,7 +6341,7 @@ XIX. Asesorar a las instancias municipales para atender de manera integral las c
 
 XX. Las demás que le señale la Secretaria de la Mujer y otras disposiciones normativas aplicables.
 
-### CAPÍTULO SEGUNDO. DE LA COORDINACIÓN DE VINCULACIÓN BINACIONAL
+### CAPÍTULO PRIMERO. DE LA COORDINACIÓN DE POLÍTICAS Y PROGRAMAS TRANSVERSALES
 
 ###### ARTÍCULO 177.
 
@@ -6097,7 +6371,7 @@ XI. Coadyuvar con la Coordinación de Políticas Públicas para las Mujeres Mich
 
 XII. Las demás que le señale la Secretaria de la Mujer y otras disposiciones normativas aplicables.
 
-### CAPÍTULO TERCERO. DE LA COORDINACIÓN DE PROYECTOS DE DESARROLLO
+### CAPÍTULO SEGUNDO. DE LA COORDINACIÓN DE VINCULACIÓN BINACIONAL
 
 ###### ARTÍCULO 178.
 
@@ -6139,7 +6413,7 @@ XV. Las demás que le señale la Secretaria de la Mujer y otras disposiciones no
 
 La Secretaría del Migrante es la dependencia del Poder Ejecutivo del Estado, que tiene a su cargo el ejercicio de las atribuciones expresamente conferidas por el artículo 37 de la Ley Orgánica de la Administración Pública del Estado y otras disposiciones legales aplicables.
 
-### CAPÍTULO CUARTO. DE LAS UNIDADES ADMINISTRATIVAS DESCONCENTRADAS
+### CAPÍTULO TERCERO. DE LA COORDINACIÓN DE PROYECTOS DE DESARROLLO
 
 ###### ARTÍCULO 180.
 
@@ -6187,7 +6461,7 @@ XX. Apoyar para el llenado de formatos y trámites migratorios nacionales y extr
 
 XXI. Las demás que le señale el Secretario del Migrante y otras disposiciones legales aplicables.
 
-### CAPÍTULO PRIMERO. DE LA COORDINACION DE ORGANIZACIÓN Y PARTICIPACIÓN SOCIAL
+### CAPÍTULO CUARTO. DE LAS UNIDADES ADMINISTRATIVAS DESCONCENTRADAS
 
 ###### ARTÍCULO 181.
 
@@ -6233,7 +6507,7 @@ XIX. Mantener un vínculo permanente con los migrantes de las organizaciones de 
 
 XX. Las demás que le señale el Secretario del Migrante y otras disposiciones legales aplicables.
 
-### CAPÍTULO SEGUNDO. DE LA COORDINACIÓN DE PROGRAMAS Y PROYECTOS EDUCATIVOS
+### CAPÍTULO PRIMERO. DE LA COORDINACION DE ORGANIZACIÓN Y PARTICIPACIÓN SOCIAL
 
 ###### ARTÍCULO 182.
 
@@ -6285,7 +6559,11 @@ XXII. Coadyuvar para agilizar trámites administrativos de empresas de migrantes
 
 XXIII. Las demás que le señale el Secretario del Migrante y otras disposiciones legales aplicables.
 
-### CAPÍTULO TERCERO. DE LA COORDINACIÓN DE SALUD Y DESARROLLO SOCIAL
+### CAPÍTULO SEGUNDO. DE LA COORDINACIÓN DE PROGRAMAS Y PROYECTOS EDUCATIVOS
+
+#### SECCIÓN IV. DE LA DIRECCIÓN DE PROYECTOS
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE MARZO DE 2011)</small>
 
 ###### ARTÍCULO 183.
 
@@ -6337,7 +6615,7 @@ XX. Las demás que le señale el Secretario del Migrante y otras disposiciones l
 
 La Secretaría de los Jóvenes es la dependencia del Poder Ejecutivo del Estado, que tiene a su cargo el ejercicio de las atribuciones expresamente conferidas por el artículo 38 de la Ley Orgánica de la Administración Pública del Estado y otras disposiciones legales aplicables.
 
-### CAPÍTULO CUARTO. DE LA COORDINACIÓN DE PROYECTOS DE DESARROLLO ECONÓMICO Y TRABAJO
+### CAPÍTULO TERCERO. DE LA COORDINACIÓN DE SALUD Y DESARROLLO SOCIAL
 
 ###### ARTÍCULO 185.
 
@@ -6357,7 +6635,7 @@ VI. Promover acciones para asegurar que las políticas relativas a los jóvenes 
 
 VII. Las demás que le señale el Secretario de los Jóvenes y otras disposiciones normativas aplicables.
 
-### CAPÍTULO PRIMERO. DE LA DIRECCIÓN DE AUDITORÍA DEL SECTOR CENTRAL
+### CAPÍTULO CUARTO. DE LA COORDINACIÓN DE PROYECTOS DE DESARROLLO ECONÓMICO Y TRABAJO
 
 ###### ARTÍCULO 186.
 
@@ -6379,7 +6657,7 @@ VII. Proponer, concertar y ejecutar programas, acciones, proyectos y actividades
 
 VIII. Las demás que le señale el Secretario de los Jóvenes y otras disposiciones normativas aplicables.
 
-### CAPÍTULO SEGUNDO. DE LA DIRECCIÓN DE CONTROL Y AUDITORÍA A OBRA PÚBLICA
+### CAPÍTULO PRIMERO. DE LA DIRECCIÓN DE AUDITORÍA DEL SECTOR CENTRAL
 
 ###### ARTÍCULO 187.
 
@@ -6415,7 +6693,7 @@ XIV. Promover programas, proyectos y acciones para inhibir la migración de los 
 
 XV. Las demás que le señale el Secretario de los Jóvenes y otras disposiciones normativas aplicables.
 
-### CAPÍTULO TERCERO. DE LA DIRECCIÓN DE AUDITORÍA DEL SECTOR PARAESTATAL
+### CAPÍTULO SEGUNDO. DE LA DIRECCIÓN DE CONTROL Y AUDITORÍA A OBRA PÚBLICA
 
 ###### ARTÍCULO 188.
 
@@ -6469,209 +6747,351 @@ DE LAS COORDINACIONES AUXILIARES DEL TITULAR DEL EJECUTIVO
 
 La Coordinación de Planeación para el Desarrollo es la unidad auxiliar del titular del Ejecutivo, que tiene a su cargo el ejercicio de las atribuciones expresamente conferidas por el artículo 41 de la Ley Orgánica de la Administración Pública del Estado y otras disposiciones legales aplicables.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 2 DE MARZO DE 2011)</small>
+
+#### SECCIÓN V. DE LA DIRECCIÓN DE DESARROLLO REGIONAL
+
 ###### ARTÍCULO 192.
 
-Al Director de Planeación le corresponde el ejercicio de las facultades siguientes:
+Al Director de Planeación Participativa le corresponde el ejercicio de las facultades siguiente:
 
-I. Elaborar el Plan Estatal de Desarrollo, proponiendo métodos y normas para su seguimiento y actualización, con la participación de los municipios y las diferentes dependencias, coordinaciones y entidades;
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2011)</small>
 
-II. Implantar y controlar la ejecución del Plan Estatal de Desarrollo;
+I. Coordinar la elaboración del Plan Estatal de Desarrollo, proponiendo métodos y normas para su seguimiento y actualización, con la participación de las dependencias, coordinaciones y entidades, así como con los ayuntamientos, organizaciones constituidas y ciudadanos;
 
-III. Establecer y operar el Sistema Estatal de Planeación orientado a detectar nuevas posibilidades de desarrollo del Estado;
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2011)</small>
 
-IV. Coordinar la integración de planes sectoriales, regionales y especiales en concordancia con el Plan Estatal de Desarrollo;
+II. Coordinar, promover e impulsar la integración de los procesos de planeación participativa para el desarrollo estatal, municipal y regional con las dependencias, coordinaciones, entidades y ayuntamientos;
 
-V. Diseñar, establecer y operar el sistema de programación de inversiones;
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2011)</small>
 
-VI. Verificar que las acciones y programas que lleven a cabo las dependencias, coordinaciones y entidades se encuentre dentro del Plan Estatal de Desarrollo;
+III. Coadyuvar con la Dirección de Proyectos en la orientación a las dependencias, coordinaciones y entidades, a fin de que sus programas y acciones, estén alineados al cumplimiento de los objetivos y metas contenidos en el Plan Estatal de Desarrollo;
 
-VII. Supervisar que los programas de inversión de cada dependencia cumplan con lo establecido en el Plan Estatal de Desarrollo, previo a su incorporación al presupuesto anual de inversiones;
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2011)</small>
 
-VIII. Dar seguimiento al programa anual de inversión pública de las dependencias y entidades del Gobierno del Estado, así como a la inversión convenida con la federación y los municipios;
+IV. Asesorar y apoyar a los ayuntamientos, cuando así lo soliciten, en la elaboración, instrumentación, seguimiento y evaluación de sus Planes de Desarrollo Municipal;
 
-IX. Desarrollar, establecer, divulgar y aplicar un sistema de seguimiento y cumplimiento de los programas establecidos en el Plan Estatal de Desarrollo;
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2011)</small>
 
-X. Orientar a las dependencias, coordinaciones y entidades, para que sus programas y acciones concurran al cumplimiento de los objetivos y metas contenidos en el Plan Estatal de Desarrollo;
+V. Promover y coordinar la participación social en los procesos de planeación;
 
-XI. Proporcionar a los ayuntamientos, cuando así lo soliciten, asesoría y apoyo en la formulación, instrumentación, seguimiento y evaluación de sus Planes de Desarrollo Municipal, así como del proceso de planeación estratégica;
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2011)</small>
 
-XII. Promover y difundir entre las dependencias, coordinaciones y entidades de la cultura de planeación como base para el cumplimiento de los objetivos que les correspondan dentro del Plan Estatal de Desarrollo;
+VI. Coadyuvar en la formulación de planes, programas y proyectos regionales, sectoriales y especiales, conforme a las políticas y objetivos del Plan Estatal de Desarrollo;
 
-XIII. Coordinar la elaboración de la planeación estratégica y operativa del Comité de Planeación para el Desarrollo del Estado de Michoacán;
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2011)</small>
 
-XIV. Dar seguimiento al Comité de Planeación para el Desarrollo del Estado de Michoacán en apoyo al Coordinador General del mismo, en los términos de las disposiciones normativas aplicables;
+VII. Establecer y operar el Sistema Estatal de Planeación orientado a detectar nuevas posibilidades de desarrollo del Estado;
 
-XV. Coordinar, promover e Impulsar la integración de los procesos de planeación participativa para el desarrollo estatal y municipal con las dependencias, coordinaciones, entidades y municipios;
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2011)</small>
 
-XVI. Coordinar el proceso de programación de obra convenida con los ayuntamientos del Estado;
+VII. Promover la constitución y operación de subcomités Sectoriales, especiales y regionales que coadyuven al desarrollo del Estado;
 
-XVII. Promover la constitución y operación de los subcomités de planeación para el desarrollo regional y municipal;
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2011)</small>
 
-XVIII. Participar, en coordinación con las Direcciones de Proyectos e investigación y de Desarrollo Regional, en reuniones regionales para impulsar la ejecución de proyectos de impacto regional;
+IX. Concertar obras y acciones que impulsen el desarrollo del Estado con el Gobierno Federal, Municipal y organizaciones;
 
-XIX. Coordinar la integración de los indicadores estatales socioeconómicos que se requieran para la planeación;
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2011)</small>
 
-XX. Requerir la información estadística y geográfica necesaria para la integración de los planes de desarrollo especiales, sectoriales y regionales;
+X. Coadyuvar en la coordinación general de la Coordinación de Planeación para el Desarrollo del Estado;
 
-XXI. Evaluar periódicamente los avances y resultados de la ejecución del Plan Estatal de Desarrollo; y,
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2011)</small>
+
+XI. Fortalecer el desarrollo en los ayuntamientos y coadyuvar en el mejoramiento de la capacidad de gestión de las administraciones municipales; y,
+
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2011)</small>
+
+XII. Las demás que le señale el Coordinador de Planeación para el Desarrollo y otras disposiciones legales aplicables.
+
+XIII. (DEROGADA, P.O. 2 DE MARZO DE 2011)
+
+XIV. (DEROGADA, P.O. 2 DE MARZO DE 2011)
+
+XV. (DEROGADA, P.O. 2 DE MARZO DE 2011)
+
+XVI. (DEROGADA, P.O. 2 DE MARZO DE 2011)
+
+XVII. (DEROGADA, P.O. 2 DE MARZO DE 2011)
+
+XVIII. (DEROGADA, P.O. 2 DE MARZO DE 2011)
+
+XIX. (DEROGADA, P.O. 2 DE MARZO DE 2011)
+
+XX. (DEROGADA, P.O. 2 DE MARZO DE 2011)
+
+XXI. (DEROGADA, P.O. 2 DE MARZO DE 2011)
 
 XXII. Las demás que le señale el Coordinador de Planeación para el Desarrollo y otras disposiciones legales aplicables.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 2 DE MARZO DE 2011)</small>
+
+#### SECCIÓN VI. DE LA DIRECCIÓN DE SISTEMAS Y PROCESOS
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE MARZO DE 2011)</small>
+
 ###### ARTÍCULO 193.
 
-Al Director de Proyectos e Investigación le corresponde el ejercicio de las facultades siguientes:
+Al Director de Evaluación y Seguimiento le corresponde el ejercicio de las facultades siguientes:
 
-I. Definir y aplicar la metodología más adecuada para identificar las acciones y proyectos emanados de los objetivos del Plan Estatal de Desarrollo;
+I. Recabar de las dependencias, coordinaciones y entidades la información necesaria para la elaboración del informe de Gobierno, así como de las delegaciones federales en el Estado que tengan establecidos convenios con el Ejecutivo del Estado;
 
-II. Establecer y aplicar los lineamientos y criterios para la formulación y evaluación de los proyectos de Inversión Pública Estatal;
+II. Coordinar y supervisar la integración del inventario de programas, obras e inversiones que realicen en el Estado, las dependencias, coordinaciones y entidades de la Administración Pública Federal y Estatal;
 
-III. Verificar la viabilidad de los proyectos de inversión pública presentados por las dependencias, coordinaciones y entidades;
+III. Impulsar la cultura de evaluación en el Gobierno estatal y municipal;
 
-IV. Elaborar dictámenes previos a la autorización de proyectos e inversión, con el objeto de verificar el cumplimiento de los lineamientos establecidos;
+IV. Diseñar e implementar el sistema de información para la evaluación, que permita el seguimiento y evaluación de manera integral, transparente y en forma oportuna para el ejercicio de la Administración Pública Estatal;
 
-V. Proporcionar a las dependencias, coordinaciones, entidades y Ayuntamientos, en su caso, asesoría y apoyo técnico para la formulación y evaluación de sus programas de inversión;
+V. Establecer, difundir y aplicar un sistema de seguimiento y evaluación que requieran los programas estatales en el desempeño e impacto socioeconómico;
 
-VI. Diseñar, administrar y operar el "Banco de Proyectos", que permita contar con una cartera de proyectos viables para el desarrollo del Estado, de acuerdo con lo establecido en el Plan Estatal de Desarrollo;
+VI. Desarrollar, establecer, difundir y aplicar mecanismos para el seguimiento y evaluación del Plan Estatal de Desarrollo e impacto socioeconómico de la gestión pública estatal;
 
-VII. Identificar las fuentes de financiamiento para los proyectos viables y expedir los criterios para su gestión;
+VII. Generar indicadores de impacto para la evaluación de resultados;
 
-VIII. Establecer los criterios para cumplir con los objetivos y lineamientos de las distintas fuentes de financiamiento;
+VIII. Generar, procesar, actualizar y difundir la información estadística y geográfica del Estado y coordinar las instancias que integren el Sistema Estatal de Infamación;
 
-IX. Asesorar a las dependencias, coordinaciones y entidades, así como a los Ayuntamientos que lo requieran para la elaboración de estudios municipales y regionales que permitan tener un mayor conocimiento de las necesidades para aplicar de manera adecuada los planes y programas;
+IX. Promover y apoyar a las dependencias, coordinaciones y entidades de la administración pública, con información estadística y geográfica para la realización de la planeación a corto y mediano plazo;
 
-X. Coadyuvar en los procesos de planeación sectorial y regional, en coordinación con las instancias ejecutoras, así como a petición de parte, en el ámbito municipal; y,
+X. Georreferenciar la información de las obras y acciones realizadas por las dependencias y entidades, para el insumo de la planeación y elaboración de planes y programas de desarrollo;
 
-XI. Las demás que le señale el Coordinador de Planeación para el Desarrollo y otras disposiciones legales aplicables.
+XI. Coordinar la integración del Sistema de Información Geográfica Estatal;
+
+XII. Dar seguimiento al registro público del padrón de entidades paraestatales;
+
+XIII. Actualizar el Catálogo de Localidades del Estado, en coordinación con la Delegación en el Estado del instituto Nacional de Estadística y Geografía (INEGI); y,
+
+XIV. Las demás que le señale el Coordinador de Planeación para el Desarrollo y otras disposiciones legales aplicables.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 2 DE MARZO DE 2011)</small>
 
 ###### ARTÍCULO 194.
 
-Al Director de Evaluación e Informe le corresponde el ejercicio de las facultades siguientes:
+Al Director de Programas le corresponde el ejercicio de las facultades siguientes:
 
-I. Integrar el inventario de programas, obras e inversiones que realicen en el Estado, las dependencias, coordinaciones y entidades de la Administración Pública Federal y Estatal y obtener la información necesaria para la elaboración del informe de Gobierno;
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2011)</small>
 
-II. Recabar, de las dependencias, coordinaciones y entidades, así como de las instancias federales que corresponda, la información necesaria para la elaboración del Informe de Gobierno, así como diseñar, difundir y coordinar el cumplimiento de los lineamientos establecidos para tal efecto;
+I. Integrar y actualizar la estructura de programas del Gobierno del Estado, de conformidad con las directrices del Plan Estatal de Desarrollo, la estructura orgánica de las dependencias, coordinaciones y entidades, y al gasto público;
 
-III. Asesorar sobre la aplicación de los programas de evaluación de las obras y acciones que realicen las dependencias, coordinaciones y entidades de la Administración Pública Estatal, y en las federales y municipales convenidas;
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2011)</small>
 
-IV. Prestar el apoyo que soliciten las dependencias, coordinaciones y entidades de las (sic) Administración Pública Federal y Estatal, y los municipios, en el ámbito de su competencia;
+II. Diseñar, establecer y operar el sistema de programas de inversión;
 
-V. Dar seguimiento al registro del avance físico - financiero de a (sic) las obras y acciones a cargo de las dependencias, coordinaciones y entidades, así como de las convenidas con los ayuntamientos;
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2011)</small>
 
-VI. Participar, en el ámbito de su competencia; en los comités, consejos y demás órganos de coordinación de la Administración Pública Estatal y Municipal, vinculados con la promoción del desarrollo regional;
+III. Elaborar y actualizar los documentos normativos en materia de integración, control y seguimiento de programas de inversión, para su aplicación por las dependencias, coordinaciones y entidades;
 
-VII. Desarrollar, establecer, difundir y aplicar un sistema de seguimiento y evaluación del desempeño e impacto socioeconómico de los programas estatales;
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2011)</small>
 
-VIII. Diseñar, establecer y aplicar los mecanismos de evaluación que requieran los programas estatales, en coordinación con la Coordinación de Contraloría;
+IV. Definir de manera conjunta con las unidades administrativas competentes de la Secretaría de Finanzas y Administración, la propuesta de gasto de inversión para el ejercicio fiscal correspondiente, con base en los criterios que en materia de planes y programas determine la Coordinación de Planeación para el Desarrollo;
 
-IX. Organizar y dar seguimiento al padrón de entidades paraestatales; y,
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2011)</small>
+
+V. Realizar la validación de las obras, proyectos y acciones conforme a los programas de inversión de las dependencias, coordinaciones y entidades, para su correspondiente liberación de recursos;
+
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2011)</small>
+
+VI. Supervisar que los programas, proyectos, obras y acciones de inversión de las dependencias, coordinaciones y entidades cumplan con lo establecido en el Plan Estatal de Desarrollo;
+
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2011)</small>
+
+VII. Dar seguimiento al programa anual de inversión pública de las dependencias, coordinaciones y entidades, así como a la inversión convenida con la Federación y los municipios;
+
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2011)</small>
+
+VIII. Promover entre las dependencias, coordinaciones y entidades, así como en los municipios y organismos autónomos, la implementación de metodologías de planeación que permitan la generación de programas e indicadores, y cuyos resultados se reflejen en una gestión pública eficiente, transparente y honesta;
+
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2011)</small>
+
+IX. Coordinar la integración de los indicadores estatales socioeconómicos de los programas que se requieran; y,
 
 X. Las demás que le señale el Coordinador de Planeación para el Desarrollo y otras disposiciones legales aplicables.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 2 DE MARZO DE 2011)</small>
+
 ###### ARTÍCULO 195.
 
-Al Director de Asistencia Técnica y Estadística le corresponde el ejercicio de las facultades siguientes:
+Al Director de Proyectos le corresponde el ejercido de las facultades siguientes:
 
-I. Generar, procesar, presentar y difundir la información estadística y geográfica del Estado, para la planeación del desarrollo y coordinar las instancias que integren el Sistema Estatal de Información;
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2011)</small>
 
-II. Establecer, coordinar, promover y normar el Sistema Estatal de Información Estadística y Geográfica;
+I. Diseñar y proponer al Coordinador de Planeación para el Desarrollo los lineamientos y criterios para la elaboración de proyectos de inversión que fortalezcan el desarrollo del Estado;
 
-III. Coordinar con el Instituto Nacional de Estadística, Geografía e Informática la integración, el diseño y la publicación del Anuario Estadístico del Estado;
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2011)</small>
 
-IV. Recabar la información Estadística en relación a la programación de obra e inversión pública en los diferentes sectores de los programas de gobierno;
+II. Aplicar y vigilar el cumplimiento de los lineamientos y criterios en materia de proyectos autorizados por el Coordinador de Planeación para el Desarrollo;
 
-V. Difundir la información estadística y geográfica de acuerdo con la Coordinación General de Comunicación Social;
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2011)</small>
 
-VI. Obtener la información estadística para realizar los estudios que permitan identificar el impacto de las políticas públicas;
+III. Coadyuvar con las dependencias, coordinaciones y entidades para la identificación y priorización de proyectos estratégicos para el Estado;
 
-VII. Realizar muestreos estadísticos para obtener la información económica y social que se requiera en el Estado;
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2011)</small>
 
-VIII. Generar la información para la realización de proyectos de investigación en materia económica y social del Estado;
+IV. Verificar la viabilidad y pertinencia de los proyectos de inversión pública presentados por las dependencias, coordinaciones y entidades, para integrarlos a la cartera de proyectos estratégicos del Estado;
 
-IX. Concentrar, seleccionar, clasificar y analizar la información estadística propia del Estado;
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2011)</small>
 
-X. Asistir técnicamente la formulación y evaluación de los proyectos estratégicos para el desarrollo a largo plazo;
+V. Identificar y promover en conjunto con las delegaciones federales, los proyectos susceptibles de inscribir en la Unidad de Inversiones de la Secretaría de Hacienda y Crédito Público (SHCP);
 
-XI. Asistir técnicamente la elaboración del Plan de Desarrollo a largo plazo y actualizarlo periódicamente;
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2011)</small>
 
-XII. Coordinar y promover la investigación estadística para el Desarrollo Municipal y Regional;
+VI. Apoyar al Coordinador de Planeación para el Desarrollo en la negociación del Presupuesto de Egresos de la Federación ante el Congreso de la Unión;
 
-XIII. Coordinar y apoyar a la realización de los programas de capacitación; y,
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2011)</small>
 
-XIV. Las demás que le señale el Coordinador de Planeación para el Desarrollo y otras disposiciones legales aplicables.
+VII. Validar la inversión que se realiza para estudios y proyectos de inversión de las dependencias, coordinaciones y entidades, de acuerdo a las prioridades enmarcadas en el Plan Estatal de Desarrollo;
+
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2011)</small>
+
+VIII. Identificar fuentes de financiamiento, para la multiplicación de recursos estatales en proyectos estratégicos;
+
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2011)</small>
+
+IX. Participar en reuniones regionales para impulsar la ejecución de proyectos de impacto regional;
+
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2011)</small>
+
+X. Promover la celebración de convenios de coordinación y colaboración con los ayuntamientos para la realización de proyectos de inversión de beneficio municipal y regional;
+
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2011)</small>
+
+XI. Proporcionar a los ayuntamientos, cuando lo soliciten, apoyo técnico para la elaboración de proyectos de inversión;
+
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2011)</small>
+
+XII. Participar en coordinación con las instancias ejecutoras en los procesos de planeación sectorial y regional, así como en el ámbito municipal; y,
+
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2011)</small>
+
+XIII. Las demás que le señale el Coordinador de Planeación para el Desarrollo y otras disposiciones legales aplicables.
+
+XIV. (DEROGADA, P.O. 2 DE MARZO DE 2011)
+
+... (sic)
+
+...
 
 ###### ARTÍCULO 196.
 
 Al Director de Desarrollo Regional le corresponde el ejercicio de las facultades siguientes:
 
-I. Coordinar y dar seguimiento a la operación del (sic) las Delegaciones Regionales;
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2011)</small>
 
-II. Vincular la política de planeación para el desarrollo regional con cada una de las regiones del Estado;
+I. Coordinar y dar seguimiento a la operación de las Delegaciones Regionales de la Coordinación de Planeación para el Desarrollo;
 
-III. Contribuir en el ámbito de su competencia, con las demás direcciones de la Coordinación de Planeación para el Desarrollo en el seguimiento de los convenios, contratos, acuerdos y demás actos en los que los ayuntamientos establezcan compromisos con el Estado y/o la Federación;
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2011)</small>
 
-IV. Revisar, supervisar, registrar y dar seguimiento a través de las Delegaciones, a las acciones, obras y programas derivados de los diversos convenios de coordinación entre el Estado, la Federación y los municipios;
+II. Prestar el apoyo que soliciten las dependencias, coordinaciones y entidades de la Administración Pública Federal, Estatal y Municipal, a través de las delegaciones regionales, en el ámbito de su competencia;
 
-V. Participar en la integración de la propuesta del Convenio de Coordinación para el Desarrollo Integral Municipal a signar con los ayuntamientos, dependencias, entidades y Delegaciones Federales, en su caso;
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2011)</small>
 
-VI. Aprobar, en el marco de su competencia, los planes y programas a desarrollar en las delegaciones regionales, así como verificar y evaluar el cumplimiento de las mismas;
+III. Colaborar en la medición del impacto socioeconómico de los programas, obras y acciones que ejecuten las dependencias, coordinaciones y entidades en los municipios, en el ámbito de su competencia;
 
-VII. Asesorar a los ayuntamientos en la promoción, organización y operación de la participación ciudadana, así como en los procesos de planeación, programación, presupuestación, control, seguimiento y evaluación de las obras y acciones que realicen las dependencias, coordinaciones y entidades, y en las acciones convenidas con la Federación y los municipios;
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2011)</small>
 
-VIII. Coordinar la evaluación de los informes mensuales de las obras y acciones convenidas con los ayuntamientos;
+IV. Coadyuvar en la evaluación de los informes mensuales de las obras y acciones convenidas con los ayuntamientos;
 
-IX. Promover y participar en los comités, subcomités, consejos y demás órganos de coordinación de la Administración Pública Estatal, vinculados con la promoción del desarrollo municipal y regional;
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2011)</small>
 
-X. Participar y dar seguimiento a la operación de los subcomités de planeación para el desarrollo regional y municipal;
+V. Colaborar en la divulgación de la aplicación de las normas, y procedimientos de operación de ejecución de obras y acciones contenidas en los programas federales y estatales;
 
-XI. Coordinar con las dependencias federales y estatales y convenir en su caso con los ayuntamientos, el proceso metodológico en el diseño de capacitación en materia de desarrollo regional para los servidores públicos estatales y municipales;
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2011)</small>
 
-XII. Coadyuvar en la formulación de los convenios y contratos con los Ayuntamientos que resulten de los programas de Desarrollo Institucional Municipal y de Desarrollo Regional, y participar en el seguimiento y evaluación de los mismos;
+VI. Contribuir, en el ámbito de su competencia y en coordinación con las direcciones que conforman la Coordinación de Planeación para el Desarrollo, en el seguimiento de los convenios, contratos, acuerdos y demás actos en los que los ayuntamientos establezcan compromisos con el Estado y con la Federación;
 
-XIII. Promover la coordinación entre los Gobiernos Federal, Estatal y Municipal, universidades, centros de investigación y organizaciones de la sociedad civil, para garantizar el desarrollo regional;
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2011)</small>
 
-XIV. Promover la participación social en la elaboración de los planes de desarrollo regional;
+VII. Revisar, registrar y dar seguimiento a través de las delegaciones a las acciones y obras derivadas de los diversos convenios de coordinación celebrados entre la Federación, el Estado y los ayuntamientos;
 
-XV. Apoyar a los ayuntamientos en el desarrollo de sus capacidades administrativas, en coordinación con otras dependencias y entidades, a efecto de estar en condiciones de que la Federación o el Estado les transfieran funciones o programas federales o estatales;
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2011)</small>
 
-XVI. Promover e impulsar las acciones requeridas con los ayuntamientos, dependencias y entidades, para lograr la ejecución del presupuesto participativo;
+VIII. Participar en los comités, subcomités, consejos y demás órganos de coordinación de la Administración Pública Estatal, vinculados con la promoción al desarrollo municipal y regional;
 
-XVII. Divulgar la aplicación de las normas y procedimientos de operación de ejecución de las obras y acciones contenidas en los programas federales, estatales y convenidos; y,
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2011)</small>
 
-XVIII. Las demás que le señale el Coordinador de Planeación para el Desarrollo y otras disposiciones legales aplicables.
+IX. Elaborar y presentar, en el marco de su competencia, los planes y programas a desarrollar en las delegaciones regionales, así corno verificar y evaluar el cumplimiento de los mismos;
+
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2011)</small>
+
+X. Promover la participación social en la elaboración de los programas de desarrollo regional;
+
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2011)</small>
+
+XI. Instrumentar, operar y fortalecer los Subcomités de Planeación para el Desarrollo Regional en el Estado;
+
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2011)</small>
+
+XII. Coordinar las acciones de seguimiento y verificación de programas, obras y acciones que se estén ejecutando por las dependencias, coordinaciones y entidades, a través de las Delegaciones regionales, en el ámbito de su competencia;
+
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2011)</small>
+
+XIII. Coadyuvar en la planeación regional a través de los Subcomités de Planeación para el Desarrollo Regional; y,
+
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2011)</small>
+
+XIV. Las demás que le señale el Coordinador de Planeación para el Desarrollo y otras disposiciones legales aplicables.
+
+XV. (DEROGADA, P.O. 2 DE MARZO DE 2011)
+
+XVI. (DEROGADA, P.O. 2 DE MARZO DE 2011)
+
+XVII. (DEROGADA, P.O. 2 DE MARZO DE 2011)
+
+XVIII. (DEROGADA, P.O. 2 DE MARZO DE 2011)
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 2 DE MARZO DE 2011)</small>
 
 ###### ARTÍCULO 197.
 
-Al Director de Procesos y Convenios le corresponde el ejercicio de las siguientes facultades:
+A la Dirección de Sistemas y Procesos le corresponde el ejercicio de las siguientes facultades:
 
-I. Coordinar las acciones que la Federación y el Ejecutivo del Estado convengan con los gobiernos municipales, para el desarrollo integral de las diversas regiones del Estado;
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2011)</small>
 
-II. Verificar que las propuestas de convenios de coordinación de las dependencias, coordinaciones y entidades de la Administración Pública Estatal con la Federación y otras Entidades Federativas, cumplan con la normativa aplicable;
+I. Coadyuvar al seguimiento del Plan Estatal de Desarrollo, a la evaluación del desempeño e impacto de los programas estatales;
 
-III. Promover la celebración de convenios de coordinación y colaboración con los municipios para la realización de acciones, estudios, proyectos, obras, prestación de servicios públicos y en general cualquier propósito de beneficio común;
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2011)</small>
 
-IV. Elaborar la propuesta del Convenio de Coordinación para el Desarrollo Municipal, a signar con los ayuntamientos, dependencias, entidades y delegaciones federales, en su caso;
+II. Proponer, diseñar, desarrollar e implementar los sistemas informáticos que, en su caso, soliciten las unidades administrativas de la Coordinación de Planeación para el Desarrollo, para la realización de sus procesos de trabajo, así como para la difusión de información;
 
-V. Formular, revisar, registrar y dar seguimiento a los convenios, acuerdos y anexos derivados de los programas y acciones del Convenio de Coordinación para el Desarrollo Municipal;
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2011)</small>
 
-VI. Proporcionar, en su caso, la asesoría que requieran los ayuntamientos de la entidad, para la integración del programa anual de inversión a convenir con el Gobierno del Estado, así como en la formulación de convenios y contratos;
+III. Administrar, mantener y supervisar la utilización de los sistemas, servicios, información, infraestructura de comunicaciones y recursos informáticos de la Coordinación de Planeación para el Desarrollo en materia de tecnología de la infamación;
 
-VII. Integrar la propuesta de los programas y proyectos a convenir con la Federación y los Municipios;
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2011)</small>
 
-VIII. Instrumentar y coordinar el sistema de registro de los convenios, contratos, acuerdos y demás actos resultantes de las obras y acciones convenidas, en los que las dependencias, coordinaciones y entidades establezcan compromisos y realizar el seguimiento que corresponda;
+IV. Impulsar el fortalecimiento de las capacidades de los servidores públicos de la Coordinación de Planeación para el Desarrollo en materia de tecnologías de la información;
 
-IX. Elaborar y actualizar los manuales o instructivos para la formulación de convenios y contratos;
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2011)</small>
 
-X. Solicitar a los ayuntamientos la información para seguimiento y finiquito de los programas, proyectos, obras y acciones convenidas, de conformidad con las disposiciones legales aplicables;
+V. Coadyuvar en la asesoría y soporte en materia de tecnologías de la información, proporcionado a los ayuntamientos para su fortalecimiento administrativo;
 
-XI. Proponer a los ayuntamientos la instrumentación de sistemas y herramientas operativas que coadyuven al fortalecimiento administrativo municipal, con el fin de mejorar su situación financiera y un mayor control en sus acciones y obras;
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2011)</small>
 
-XII. Instrumentar acciones orientadas a la modernización, agilización y mejora de procesos de la Coordinación de Planeación para el Desarrollo;
+VI. Proponer mecanismos para consolidar la generación, uso y aprovechamiento de la información de la Coordinación de Planeación para el Desarrollo y sus unidades administrativas;
 
-XIII. Diseñar, implantar y dar seguimiento a los indicadores de desempeño y productividad de las diferentes direcciones de la Coordinación de Planeación para el Desarrollo;
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2011)</small>
 
-XIV. Asesorar en su caso, a las dependencias, coordinaciones, entidades y ayuntamientos para la implantación de acciones de mejora de procesos; y,
+VII. Impulsar la modernización y mejora de procesos operativos de la Coordinación de Planeación para el Desarrollo, con un enfoque sistémico;
 
-XV. Las demás que le señale el Coordinador de Planeación para el Desarrollo y otras disposiciones legales aplicables.
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2011)</small>
+
+VIII. Proponer, elaborar y opinar sobre convenios, contratos, acuerdos y demás instrumentos jurídico-administrativos, en los que la Coordinación de Planeación para el Desarrollo sea o deba ser parte, de conformidad a su competencia;
+
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2011)</small>
+
+IX. Registrar, controlar y dar seguimiento a los convenios, contratos, acuerdos y demás instrumentos jurídico-administrativos que signen el Ejecutivo Estatal con las dependencias y entidades del Gobierno Federal y los ayuntamientos, para realizar programas, proyectos, obras y acciones que incidan en el desarrollo del Estado; y,
+
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2011)</small>
+
+X. Las demás que le señale el Coordinador de Planeación para el Desarrollo y otras disposiciones legales aplicables.
+
+XI. (DEROGADA, P.O. 2 DE MARZO DE 2011)
+
+XII. (DEROGADA, P.O. 2 DE MARZO DE 2011)
+
+XIII. (DEROGADA, P.O. 2 DE MARZO DE 2011)
+
+XIV. (DEROGADA, P.O. 2 DE MARZO DE 2011)
+
+XV. (DEROGADA, P.O. 2 DE MARZO DE 2011)
 
 ## TÍTULO SEGUNDO. DE LA COORDINACIÓN DE CONTRALORÍA
 
@@ -6679,7 +7099,7 @@ XV. Las demás que le señale el Coordinador de Planeación para el Desarrollo y
 
 La Coordinación de Contraloría es la unidad auxiliar del titular del Ejecutivo, que tiene a su cargo el ejercicio de las atribuciones expresamente conferidas por el artículo 42 de la Ley Orgánica de la Administración Pública del Estado y otras disposiciones legales aplicables.
 
-### CAPÍTULO CUARTO. DE LA DIRECCIÓN DE RESPONSABILIDADES Y SITUACIÓN PATRIMONIAL
+### CAPÍTULO TERCERO. DE LA DIRECCIÓN DE AUDITORÍA DEL SECTOR PARAESTATAL
 
 ###### ARTÍCULO 199.
 
@@ -6709,7 +7129,7 @@ XI. Intervenir y brindar asesoría en la celebración de actos de entrega - rece
 
 XII. Las demás que le señale el Coordinador de Contraloría y otras disposiciones legales aplicables.
 
-### CAPÍTULO QUINTO. DE LA DIRECCIÓN DE CONTRALORÍA SOCIAL
+### CAPÍTULO CUARTO. DE LA DIRECCIÓN DE RESPONSABILIDADES Y SITUACIÓN PATRIMONIAL
 
 ###### ARTÍCULO 200.
 
@@ -6741,7 +7161,7 @@ XII. Vigilar que los procedimientos de adjudicación de contratos y ejecución d
 
 XIII. Las demás que le señale el Coordinador de Contraloría y otras disposiciones legales aplicables.
 
-### CAPÍTULO PRIMERO. DE LA DIRECCIÓN DE DIFUSIÓN
+### CAPÍTULO QUINTO. DE LA DIRECCIÓN DE CONTRALORÍA SOCIAL
 
 ###### ARTÍCULO 201.
 
@@ -6773,7 +7193,7 @@ XII. Intervenir y brindar asesoría en la celebración de actos de entrega-recep
 
 XIII. Las demás que le señale el Coordinador de Contraloría y otras disposiciones legales aplicables.
 
-### CAPÍTULO SEGUNDO. DE LA DIRECCIÓN DE INFORMACIÓN
+### CAPÍTULO PRIMERO. DE LA DIRECCIÓN DE DIFUSIÓN
 
 ###### ARTÍCULO 202.
 
@@ -6827,7 +7247,7 @@ XXIII. Las demás que le señale el Coordinador de Contraloría y otras disposic
 
 > <small>(F. DE E., P.O. 16 DE MAYO DE 2008)</small>
 
-### CAPÍTULO TERCERO. DE LA DIRECCIÓN DE INVESTIGACIÓN Y ESTRATEGIA DE MEDIOS
+### CAPÍTULO SEGUNDO. DE LA DIRECCIÓN DE INFORMACIÓN
 
 ###### ARTÍCULO 203.
 
@@ -6862,6 +7282,8 @@ XII. Las demás que le señale el Coordinador de Contraloría y otras disposicio
 ###### ARTÍCULO 204.
 
 La Coordinación General de Comunicación Social es la unidad auxiliar del titular del Ejecutivo, que tiene a su cargo el ejercicio de las atribuciones expresamente conferidas por el artículo 43 de la Ley Orgánica de la Administración Pública del Estado y otras disposiciones legales aplicables.
+
+### CAPÍTULO TERCERO. DE LA DIRECCIÓN DE INVESTIGACIÓN Y ESTRATEGIA DE MEDIOS
 
 ###### ARTÍCULO 205.
 
@@ -7080,3 +7502,11 @@ LIC. ARMANDO MACHORRO ARENAS
 COORDINADOR GENERAL DE COMUNICACIÓN SOCIAL
 
 (Firmado)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 2 DE MARZO DE 2011.
+
+Artículo Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Artículo Segundo. Se derogan las demás disposiciones administrativas en lo que se opongan al presente Decreto.
