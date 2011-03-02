@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-la-comision-de-derechos-humanos-del-estado-de-13303"
 country: "mx"
 rank: "ley"
 publication_date: "1993-01-27"
-last_updated: "2010-01-27"
+last_updated: "2011-03-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13303&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE LA COMISION DE DERECHOS HUMANOS DEL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE ENERO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE MARZO DE 2011.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el miércoles 27 de enero de 1993.
 
@@ -95,6 +95,8 @@ LEY DE LA COMISION DE DERECHOS HUMANOS DEL ESTADO DE ZACATECAS
 
 Esta ley es de orden público, y de aplicación en todo el territorio del Estado de Zacatecas en materia de derechos humanos, respecto de los mexicanos y extranjeros que se encuentren en la Entidad, en los términos establecidos por la Constitución Política del Estado.
 
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2011)</small>
+
 ###### ARTICULO 2°.
 
 La Ley es igual para todos. La Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales en materia de derechos humanos de los que el Estado Mexicano sea parte y esta Constitución son la Ley Suprema del Estado.
@@ -111,15 +113,15 @@ El Poder Público y sus Representantes sólo pueden hacer lo que la Ley les auto
 
 ###### ARTICULO 2o.
 
-Para los efectos de esta Ley, se entiende por derechos humanos, las garantías individuales y sociales que consagra la Constitución General de la República, los que derivan de la Declaración Universal de los Derechos Humanos, proclamada por la Asamblea General de las Naciones Unidas, así como los contenidos en tratados, convenciones y acuerdos internacionales que México haya celebrado, celebre o de los cuales forme parte.
+Para los efectos de esta ley, se entiende por derechos humanos, las garantías individuales y sociales que consagra la Constitución General de la República, la Constitución Política del Estado de Zacatecas, los que derivan de la Declaración Universal de los Derechos Humanos, proclamada por la Asamblea General de las Naciones Unidas, así como los contenidos en tratados, convenciones y acuerdos internacionales que México haya celebrado, celebre o de los cuales forme parte.
 
 ###### ARTICULO 3o.
 
 Se crea la Comisión de Derechos Humanos del Estado de Zacatecas como un organismo autónomo, con personalidad jurídica y patrimonio propios que tiene por objeto la protección, respeto, defensa, observancia, promoción, estudio y divulgación de los derechos humanos previstos por el orden jurídico mexicano.
 
-> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2011)</small>
 
-La sede general de la Comisión de Derechos Humanos del Estado de Zacatecas, es la Ciudad Capital del Estado, sin perjuicio del establecimiento de Visitadurías en Distritos Judiciales o en Cabeceras Municipales.
+La sede general de la Comisión de Derechos Humanos del Estado de Zacatecas, es la Ciudad Capital del Estado o la zona conurbada, sin perjuicio del establecimiento de Visitadurías en Distritos Judiciales o en Cabeceras Municipales.
 
 ###### ARTICULO 4°.
 
@@ -139,7 +141,7 @@ Las autoridades del Estado, en su respectiva esfera de atribuciones, tienen el d
 
 La Comisión de Derechos Humanos del Estado de Zacatecas es competente para conocer de quejas y denuncias relacionadas con presunta violación de los derechos humanos, cuando éstas fueren imputables a autoridades y servidores públicos de carácter estatal y municipal; y por lo que hace a los del Poder Judicial, autoridades laborales y electorales, sólo se admitirán o conocerán cuando se trate de actos u omisiones administrativos de carácter procesal que no diriman controversia alguna.
 
-La Comisión de Derechos humanos podrá conocer excepcionalmente sobre actos cometidos por los Medios de Comunicación cuando, por información no acorde a la verdad legal e histórica cause daño moral a las personas.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 2 DE MARZO DE 2011)</small>
 
 La Comisión por ningún motivo podrá examinar cuestiones jurisdiccionales de fondo, ni podrá pronunciarse sobre la culpabilidad o no del procesado o sentenciado.
 
@@ -187,11 +189,17 @@ II. El Presidente.
 
 III. Un Secretario Ejecutivo.
 
-IV. Tres visitadores, por lo menos.
+> <small>(ADICIONADA, P.O. 2 DE MARZO DE 2011)</small>
+
+IV. Un Coordinador de Visitadores;
+
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2011)</small>
+
+V. Cuatro visitadores, por lo menos, de los cuales uno será para la atención a migrantes;
 
 > <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2006)</small>
 
-V. Las unidades técnicas y Administrativas contempladas en el Reglamento y que autorice su presupuesto.
+VI. Las unidades técnicas y Administrativas contempladas en el Reglamento y que autorice su presupuesto.
 
 La Comisión contará con el personal profesional, técnico y administrativo necesario para la realización de sus funciones.
 
@@ -245,13 +253,13 @@ XV. Expedir su Reglamento Interior, y manuales de organización y de procedimien
 
 XVI. La Comisión pondrá especial interés en la asistencia y protección de los Sectores Sociales más desprotegidos. En particular de los menores, mujeres, ancianos y discapacitados. La defensa del Sistema Ecológico así como los derechos de los campesinos y etnias serán igualmente prioritarios;
 
-> <small>(REFORMADA, P.O. 27 DE ENERO DE 2010)</small>
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2011)</small>
 
-XVII. Procurar las instancias necesarias de vinculación y convenir mecanismos de apoyo recíproco con las Comisiones Locales Fronterizas, el Instituto Estatal de Migración, los ayuntamientos en el Estado y otras dependencias y entidades públicas y privadas con tareas relacionadas, para la adecuada defensa de los derechos humanos de los emigrantes zacatecanos;
+XVII. Procurar las instancias necesarias de vinculación y convenir mecanismos jurídicos y de apoyo recíproco con la Comisión de Asuntos Migratorios y Tratados Internacionales de la Legislatura del Estado, las Comisiones Locales Fronterizas, el Instituto Estatal de Migración, las direcciones u oficinas de atención a migrantes en los ayuntamientos del estado, las comisiones de Población, Fronteras y Asuntos Migratorios y la Comisión de Población y Desarrollo de las Cámaras, de Diputados y Senadores, respectivamente, la delegación federal del Instituto Nacional de Migración y otras dependencias y entidades públicas y privadas con tareas relacionadas, para la adecuada defensa de los derechos humanos de los migrantes nacionales y extranjeros;
 
-> <small>(REFORMADA, P.O. 27 DE ENERO DE 2010)</small>
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2011)</small>
 
-XVIII. Supervisar que a las personas que se encuentren privadas de su libertad en los diversos establecimientos de detención o reclusión como cárceles municipales, separos de la Policía Ministerial, Centros de Readaptación Social y Centro de Internamiento y Atención Integral Juvenil, les sean respetados sus derechos constitucionales y se garantice la plena vigencia de sus derechos humanos;
+XVIII. Supervisar que a las personas que se encuentren privadas de su libertad en los diversos establecimientos de detención o reclusión como separos municipales, establecimientos penitenciarios distritales, separos de la Policía Ministerial, Centros de Readaptación Social y Centro de Internamiento y Atención Integral Juvenil, les sean respetados sus derechos constitucionales y se garantice la plena vigencia de sus derechos humanos;
 
 XIX. Las demás que le otorgue la presente Ley y otros ordenamientos legales.
 
@@ -303,13 +311,17 @@ El Presidente de la Comisión, será designado por la Legislatura, de una terna 
 
 El Presidente de la Comisión durará en sus funciones tres años, pudiendo ser designado para otro periodo únicamente.
 
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2011)</small>
+
 ###### ARTICULO 14.
 
-Las funciones del Presidente, del Secretario y de los Visitadores son incompatibles con el desempeño de cualquier otro cargo, empleo o comisión de la Federación, del Estado, los Municipios o de organismos privados, o con el desempeño de su profesión, exceptuando las actividades académicas.
+Las funciones del Presidente, del Secretario, del Coordinador de Visitadores y de los Visitadores son incompatibles con el desempeño de cualquier otro cargo, empleo o comisión de la Federación, del Estado, los Municipios o de organismos privados, o con el desempeño de su profesión, exceptuando las actividades académicas.
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2011)</small>
 
 ###### ARTICULO 15.
 
-El Presidente de la Comisión y los Visitadores no podrán ser privados de su libertad, ni sujetos a responsabilidad civil, penal o administrativa, por las opiniones y recomendaciones que formulen, o por los actos que realicen en ejercicio de las atribuciones que les asigna esta Ley.
+El Presidente de la Comisión, el Coordinador de Visitadores y los Visitadores no podrán ser privados de su libertad, ni sujetos a responsabilidad civil, penal o administrativa, por las opiniones y recomendaciones que formulen, o por los actos que realicen en ejercicio de las atribuciones que les asigna esta ley.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE MARZO DE 1999)</small>
 
@@ -339,7 +351,9 @@ VII. Designar al Secretario Ejecutivo;
 
 VIII. Dictar las medidas específicas que juzgue convenientes para el mejor desempeño de las funciones de la Comisión;
 
-IX. Distribuir y delegar funciones a los Visitadores en los términos del Reglamento interno;
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2011)</small>
+
+IX. Distribuir y delegar funciones al Coordinador de Visitadores y a los Visitadores en los términos del Reglamento interno;
 
 > <small>(REFORMADA, P.O. 14 DE JUNIO DE 2006)</small>
 
@@ -351,11 +365,21 @@ XII. Formular las propuestas generales conducentes a una mejor protección de lo
 
 XIII. Elaborar el presupuesto anual de egresos de la Comisión y el respectivo informe sobre su ejercicio para su aprobación por el Consejo Consultivo; y,
 
-XIV. Las demás que le señalen la presente Ley y otros ordenamientos.
+> <small>(ADICIONADA, P.O. 2 DE MARZO DE 2011)</small>
+
+XIV. Elaborar y proponer conjuntamente con el Secretario Ejecutivo para su aprobación al Consejo Consultivo, el Reglamento interno;
+
+> <small>(ADICIONADA, P.O. 2 DE MARZO DE 2011)</small>
+
+XV. Proponer al Consejo Consultivo para su designación al titular del órgano interno de control; y
+
+XVI. Las demás que le señalen la presente Ley y otros ordenamientos.
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2011)</small>
 
 ###### ARTICULO 18.
 
-El Presidente, el Secretario Ejecutivo y los Visitadores de la Comisión, en sus actuaciones tendrán fe pública para certificar la veracidad de los hechos en relación con las quejas presentadas ante la Comisión.
+El Presidente, el Secretario Ejecutivo, el Coordinador de Visitadores y los Visitadores de la Comisión, en sus actuaciones tendrán fe pública para certificar la veracidad de los hechos en relación con las quejas presentadas ante la Comisión.
 
 ### CAPITULO TERCERO. DE LA INTEGRACION, NOMBRAMIENTO Y FACULTADES DEL CONSEJO
 
@@ -363,9 +387,9 @@ El Presidente, el Secretario Ejecutivo y los Visitadores de la Comisión, en sus
 
 El Consejo Consultivo estará integrado, además del Presidente, por siete personas de reconocida solvencia moral, mexicanos, en pleno ejercicio de sus derechos ciudadanos y que no desempeñen cargo o comisión como servidores públicos.
 
-> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2011)</small>
 
-A excepción de su Presidente, los cargos de miembros del Consejo serán honorarios, y durarán en su encargo tres años, pudiendo ser ratificados para otro periodo igual. Podrán recibir una dieta mensual, que en ningún caso excederá de 200 cuotas de salario mínimo general vigente en el Estado, de acuerdo a los lineamientos que se establezcan en el Reglamento Interno de la Comisión Estatal y con cargo al presupuesto que anualmente le destine la Legislatura del Estado.
+A excepción de su Presidente, los cargos de miembros del Consejo serán honorarios, y durarán en su encargo tres años, pudiendo ser ratificados para otro periodo igual. Recibirán única y exclusivamente una dieta mensual, que en ningún caso excederá el monto de 200 cuotas de salario mínimo general vigente en el Estado, incluidos bonos y prestaciones en especie de cualquier naturaleza, de acuerdo a los lineamientos que se establezcan en el Reglamento Interno de la Comisión Estatal y con cargo al presupuesto que anualmente le destine la Legislatura del Estado.
 
 > <small>(REFORMADO, P.O. 27 DE MARZO DE 1999)</small>
 
@@ -385,9 +409,13 @@ I. El examen y opinión de los problemas que se presenten, relativos al respeto 
 
 II. Proponer a la Legislatura del Estado, a través de la Comisión Legislativa de Derechos Humanos, por conducto de su Presidente, la política estatal sobre la difusión, reconocimiento y defensa de los derechos humanos;
 
-III. Establecer los lineamientos generales para la actuación de la Comisión;
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2011)</small>
 
-IV. Elaborar el reglamento interno de la Comisión y sus manuales operativos;
+III. Establecer los lineamientos generales para la actuación de la Comisión, en relación a las políticas sobre Derechos Humanos;
+
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2011)</small>
+
+IV. Aprobar el reglamento interno de la Comisión y sus manuales operativos, que someta a su consideración el Presidente y el Secretario Ejecutivo;
 
 V. Aprobar las normas de carácter interno relacionadas con la Comisión;
 
@@ -397,9 +425,13 @@ VII. Solicitar al Presidente de la Comisión información adicional sobre los as
 
 VIII. Aprobar el presupuesto de egresos de la Comisión para su remisión a la Legislatura;
 
-IX. Conocer el informe del Presidente de la Comisión respecto al ejercicio presupuestal; y,
+IX. Conocer el informe del Presidente de la Comisión respecto al ejercicio presupuestal; y, (sic)
 
-X. Las demás que señale esta Ley y otros ordenamientos.
+> <small>(ADICIONADA, P.O. 2 DE MARZO DE 2011)</small>
+
+X. Designar al titular del órgano interno de control, respecto de la terna que someta a su consideración el Presidente; y
+
+XI. Las demás que señale esta Ley y otros ordenamientos.
 
 ###### ARTICULO 22.
 
@@ -441,6 +473,40 @@ VII. Dar seguimiento de oficio a las quejas recibidas, hasta su ejecución; y,
 
 VIII. Las demás que le sean conferidas por el Consejo o la Ley.
 
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2011)</small>
+
+###### ARTICULO 24
+
+BIS.- El titular de la Coordinación de Visitadores será designado en los términos de esta Ley y deberá reunir los siguientes requisitos:
+
+I. Ser ciudadano mexicano en pleno ejercicio de sus derechos;
+
+II. Ser mayor de 25 años de edad al día de su nombramiento, y
+
+III. Tener título de Licenciado en Derecho y práctica profesional de un mínimo de tres años.
+
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2011)</small>
+
+###### ARTICULO 24
+
+TER.- El Coordinador de Visitadores tendrá las siguientes facultades:
+
+I. Coordinar el trabajo de las Visitadurías de la Comisión, previo acuerdo con el Presidente;
+
+II. Proponer al Presidente la metodología de trabajo de las Visitadurías;
+
+III. Supervisar que los términos legales del procedimiento de las quejas y denuncias se lleven conforme a la normatividad aplicable;
+
+IV. Revisar los proyectos de resolución de los expedientes en trámite de las diferentes Visitadurías;
+
+V. Analizar con el Presidente los expedientes que deberán exponerse ante el Consejo Consultivo;
+
+VI. Presentar conjuntamente con el Visitador responsable para su aprobación al Consejo Consultivo, los proyectos de resolución de expedientes administrativos; y
+
+VII. Las demás que le sean conferidas por la presente Ley y ordenadas por el Consejo Consultivo.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 2 DE MARZO DE 2011)</small>
+
 ###### ARTICULO 25.
 
 Los Visitadores serán nombrados por el Consejo Consultivo de la Comisión y deberán reunir los mismos requisitos que el Artículo 23 en sus fracciones I, II y III exige para el titular de la Secretaría Ejecutiva y ser preferentemente Licenciado en Derecho.
@@ -455,15 +521,25 @@ II. Realizar las actividades necesarias para lograr por medio de la conciliació
 
 III. Realizar las investigaciones y estudios necesarios para formular los proyectos de recomendación o acuerdo, que se someterán al Presidente de la Comisión para su consideración;
 
-IV. Visitar los Municipios de la entidad, para atender las denuncias de posibles violaciones a los derechos humanos y dar cuenta al Presidente de la Comisión;
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2011)</small>
+
+IV. Visitar, a propuesta del Coordinador de Visitadores, los Municipios de la entidad, para atender las denuncias de posibles violaciones a los derechos humanos y dar cuenta al Presiente de la Comisión;
 
 V. Visitar los Centros de Readaptación Social, dialogar con los internos y atender sus demandas que puedan constituir violaciones a los derechos humanos, y orientarlos en aquéllas que no lo sean o no competan a la Comisión;
 
 VI. Verificar la eficiencia, diligencia y honestidad en los servicios de defensoría de oficio que presta el Estado en materia penal y familiar, y hacer del conocimiento de los titulares de dicha defensoría y de los bufetes sociales, los resultados de la labor realizada;
 
-VII. Las demás que le señale la presente Ley, el Reglamento respectivo y el Presidente de la Comisión.
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2011)</small>
 
-### CAPITULO QUINTO. DEL NOMBRAMIENTO Y FACULTADES DE LOS VISITADORES
+VII. Las demás que le señale la presente Ley, el Reglamento respectivo, el Presidente de la Comisión y el Coordinador de Visitadores.
+
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2011)</small>
+
+### CAPITULO QUINTO. DEL NOMBRAMIENTO Y FACULTADES DEL COORDINADOR DE VISITADORES Y LOS VISITADORES
+
+###### ARTICULO 26
+
+BIS.- La Visitaduría para la Atención a Migrantes, tendrá las facultades y obligaciones que se establezcan en el Reglamento Interno de la Comisión.
 
 ### CAPITULO SEXTO. PATRIMONIO Y PRESUPUESTO
 
@@ -589,9 +665,11 @@ Cuando la queja o denuncia se refiere a actos de autoridad administrativa que af
 
 Si la queja o denuncia se refiere a actos u omisiones de servidores públicos dependientes de la jurisdicción federal, se estará a lo dispuesto por el artículo 5o de esta Ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE MARZO DE 2011)</small>
+
 ###### ARTICULO 43.
 
-Desde el momento en que se admita la queja, el Presidente o los Visitadores y en su caso el personal técnico y profesional, se pondrán en contacto inmediato con la autoridad señalada como responsable de la presunta violación de derechos humanos para procurar una conciliación entre las partes involucradas, siemrpe (sic) dentro del respeto de los derechos humanos que se consideren afectados, a fin de lograr una solución inmediata del conflicto.
+Desde el momento en que se admita la queja, el Presidente, el Coordinador de Visitadores o los Visitadores y en su caso el personal técnico y profesional, se pondrán en contacto inmediato con la autoridad señalada como responsable de la presunta violación de derechos humanos para procurar una conciliación entre las partes involucradas, siempre dentro del respeto de los derechos humanos que se consideren afectados, a fin de lograr una solución inmediata del conflicto.
 
 De lograrse ésta, o el allanamiento del o de los responsables, la Comisión lo hará constar así y ordenará el archivo del expediente, el cual podrá reabrirse cuando los quejosos o denunciantes expresen a la Comisión que no se ha cumplido con el compromiso en un plazo de 30 días naturales. Para estos efectos, la Comisión, en el término de setenta y dos horas, dictará el acuerdo correspondiente, y en su caso, proveerá las acciones y determinaciones conducentes.
 
@@ -623,9 +701,11 @@ IV. Citar a las personas que deban comparecer como peritos o testigos; y,
 
 V. Efectuar todas las demás acciones que conforme a derecho juzgue convenientes para el mejor conocimiento del asunto.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE MARZO DE 2011)</small>
+
 ###### ARTICULO 47.
 
-El Visitador tendrá la facultad de solicitar a las autoridades competentes que se tomen las medidas precautorias necesarias para evitar la consumación irreparable de las violaciones denunciadas, o la producción de daños de difícil reparación, así como requerir que aquéllas se modifiquen cuando existan circunstancias que lo justifiquen.
+El Coordinador de Visitadores o los Visitadores tendrán la facultad de solicitar a las autoridades competentes que se tomen las medidas precautorias necesarias para evitar la consumación irreparable de las violaciones denunciadas, o la producción de daños de difícil reparación, así como requerir que aquéllas se modifiquen cuando existan circunstancias que lo justifiquen.
 
 Dichas medidas pueden ser de conservación o restitutorias, según lo indique la naturaleza del asunto.
 
@@ -763,9 +843,11 @@ Además de las denuncias sobre los delitos y faltas administrativas en que pueda
 
 Los integrantes de la Comisión se consideran trabajadores de confianza, debido a las funciones que desempeñan y por tanto, les es aplicable lo que establece para esta clase de trabajadores, la Ley del Servicio Civil del Estado de Zacatecas y las disposiciones relativas de la Ley Federal del Trabajo.
 
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2011)</small>
+
 ###### ARTICULO 71.
 
-El Presidente de la Comisión, el Secretario Ejecutivo y los Visitadores serán remunerados con los criterios que establezca la Legislatura Local, en concordancia con la Fracción II del Artículo 27 de esta misma Ley.
+El Presidente de la Comisión, el Secretario Ejecutivo, el Coordinador de Visitadores y los Visitadores serán remunerados con los criterios que establezca la Legislatura Local, en concordancia con la Fracción II del Articulo 27 de esta misma Ley.
 
 ## TÍTULO SEXTO. DE LOS ÓRGANOS AUTÓNOMOS DEL ESTADO
 
@@ -902,6 +984,18 @@ P.O. 27 DE ENERO DE 2010.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+P.O. 2 DE MARZO DE 2011.
+
+Artículo primero.- El presente Decreto entrará en vigor el día de su aprobación.
+
+Artículo segundo.- Publíquese por una sola vez en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo tercero.- Dentro de los ciento veinte días siguientes a la entrada en vigor de este Decreto, deberán publicarse en el Periódico Oficial, Órgano del Gobierno del Estado, las reformas al Reglamento Interno de la Comisión, para establecer las facultades y obligaciones del órgano interno de control y la Visitaduría para la Atención a Migrantes, así como para adecuarlo a lo previsto en este instrumento legislativo.
+
+Artículo cuarto.- Dentro de los sesenta días naturales siguientes a la entrada en vigor del presente Decreto, el Consejo Consultivo nombrará al Coordinador de Visitadores y a los titulares de la Visitaduría para la Atención a Migrantes y del órgano interno de control.
+
+Artículo quinto.- Quedan derogadas las disposiciones que se opongan al presente Decreto.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1384.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
 
