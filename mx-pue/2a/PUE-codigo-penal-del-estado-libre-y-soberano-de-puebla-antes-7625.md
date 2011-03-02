@@ -4,7 +4,7 @@ identifier: "PUE-codigo-penal-del-estado-libre-y-soberano-de-puebla-antes-7625"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-23"
-last_updated: "2011-02-23"
+last_updated: "2011-03-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CODIGO DE DEFENSA SOCIAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE FEBRERO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE MARZO DE 2011.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el martes 23 de diciembre de 1986.
 
@@ -3509,25 +3509,25 @@ Comete el delito de robo, quien se apodere de un bien ajeno mueble, sin derecho 
 
 El robo se sancionará:
 
-> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2011)</small>
 
-I.- Cuando el valor de lo robado no excediere de diez días de salario mínimo, con prisión de tres a treinta días y multa de uno a tres días de salario;
+I.- Cuando el valor de lo robado no excediere de diez días de salario mínimo, se impondrá multa de uno a cincuenta días de salario;
 
-> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2011)</small>
 
-II.- Cuando el valor de lo robado excediere de diez días de salario, pero no de cincuenta, se impondrán de tres meses a dos años de prisión y multa de cinco a treinta días de salario;
+II.- Cuando el valor de lo robado excediere de diez días de salario, pero no de cien, se impondrá multa de cinco a cien días de salario;
 
-> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2011)</small>
 
-III.- Cuando el valor de lo robado excediere de cincuenta días de salario, pero no de doscientos cincuenta, se impondrán de dos a cuatro años de prisión y multa de cincuenta a ciento cincuenta días de salario;
+III.- Cuando el valor de lo robado excediere de cien días de salario, pero no de trescientos, se impondrán de dos a cuatro años de prisión y multa de cincuenta a doscientos días de salario;
 
-> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2011)</small>
 
-IV.- Cuando el valor de lo robado sobrepasare doscientos cincuenta días de salario, se impondrán de tres a ocho años de prisión y multa de ciento cincuenta a doscientos cincuenta días de salario, y
+IV.- Cuando el valor de lo robado sobrepasare trescientos días de salario, se impondrán de tres a ocho años de prisión y multa de ciento cincuenta a cuatrocientos días de salario; y
 
-> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2011)</small>
 
-V.- Si el objeto del robo es un vehículo de motor, como motocicletas, automóviles, camiones, tractores u otros semejantes, se impondrá prisión de cinco a doce años y multa de quinientos a mil días de salario.
+V.- Si el objeto del robo es un vehículo de motor, como motocicletas, automóviles, camiones, tractores u otros semejantes, se impondrá prisión de cinco a doce años y multa de quinientos a mil quinientos días de salario.
 
 > <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2010)</small>
 
@@ -3693,7 +3693,9 @@ Tratándose del delito tipificado en el artículo 390, se aplicarán las siguien
 
 I.- Se sancionará con prisión de dos a doce años, cualquiera que sea el número y la especie de las cabezas de ganado robado, salvo lo dispuesto en la siguiente fracción;
 
-II.- Al que se apodere por primera vez de una sola cabeza de ganado y la emplee para su alimentación o la de su familia, se le impondrán de tres días a seis meses de prisión.
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2011)</small>
+
+II.- Al que se apodere por primera vez de una sola cabeza de ganado y la emplee para su alimentación o la de su familia, se le impondrán una multa de cinco a cien días de salario, o en su caso, el equivalente al valor comercial del bien.
 
 ###### Artículo 393.
 
@@ -3709,11 +3711,21 @@ III.- A las autoridades o a quienes intervengan en la indebida legalización de 
 
 El delito tipificado en el artículo 391, se sancionará:
 
-I.- Con prisión de seis meses a tres años y multa de uno a diez días de salario, si el importe de los frutos robados no excede de la suma de treinta días de salario.
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2011)</small>
 
-II.- Con prisión de uno a cinco años y multa de cinco a cincuenta días de salario, si el importe de lo robado excede de la suma de treinta días de salario, pero no de doscientos;
+I.- Con multa de uno a cincuenta días de salario, si el importe de los frutos robados no excede de la suma de diez días de salario;
 
-III.- Con prisión de tres a ocho años y multa de quince a ciento cincuenta días de salario si el importe de lo robado excede del valor de doscientos días de salario.
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2011)</small>
+
+II.- Con multa de cinco a cien días de salario, si el importe de lo robado excede de la suma de diez días de salario, pero no de cien;
+
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2011)</small>
+
+III.- Con prisión de dos a cuatro años y multa de cincuenta a doscientos días de salario, si el importe de lo robado excede del valor de cien días de salario pero no de trescientos; y
+
+> <small>(ADICIONADA, P.O. 2 DE MARZO DE 2011)</small>
+
+IV.- Con prisión de tres a ocho años y multa de ciento cincuenta a cuatrocientos días de salario, si el importe de lo robado excede de trescientos días de salario.
 
 > <small>(F. DE E., P.O. 6 DE ENERO DE 1987)</small>
 
@@ -4734,3 +4746,9 @@ Se derogan todas las disposiciones que se opongan al presente Decreto.
 ###### ARTÍCULO TERCERO.
 
 El Congreso del Estado, dentro del plazo de ciento ochenta días a partir de la publicación de este Decreto, expedirá en su caso, las adecuaciones a la legislación correspondiente.
+
+P.O. 2 DE MARZO DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
