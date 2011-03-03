@@ -4,7 +4,7 @@ identifier: "JAL-codigo-civil-del-estado-de-jalisco-5751"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-02-25"
-last_updated: "2011-01-08"
+last_updated: "2011-03-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO CIVIL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE ENERO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE MARZO DE 2011.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -12479,9 +12479,17 @@ II. Por usarse el bien arrendado con un objeto distinto del convenido o de la na
 
 III. Por el subarriendo o traspaso de la cosa o bien sin autorización del arrendador;
 
-IV. Por daños graves al bien arrendado imputables al arrendatario; y
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2011)</small>
 
-V. Por variar la forma del bien arrendado, sin contar con el consentimiento expreso del arrendador.
+IV. Por daños graves al bien arrendado, imputables al arrendatario;
+
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2011)</small>
+
+V. Por variar la forma del bien arrendado, sin contar con el consentimiento expreso del arrendador, y
+
+> <small>(ADICIONADA, P.O. 2 DE MARZO DE 2011)</small>
+
+VI. Por la falta de pago de servicios públicos por más de dos meses o el tiempo que acuerden las partes, cuando se haya comprometido a realizarlo el arrendatario.
 
 ###### Art. 2145.
 
@@ -12493,9 +12501,13 @@ II. Por la pérdida total o parcial del bien arrendado;
 
 III. Por pérdida de uso parcial del bien arrendado, siempre que la reparación dure más de un mes;
 
-IV. Por la existencia de defectos o vicios ocultos del bien, anteriores al arrendamiento y desconocidos por el arrendatario. En este caso, también podrá optar por la acción de reducción del precio del arrendamiento; y
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2011)</small>
 
-V. Por cualesquiera de las demás causas establecidas en la ley.
+IV. Por la existencia de defectos o vicios ocultos del bien, anteriores al arrendamiento y desconocidos por el arrendatario. En este caso, también podrá optar por la acción de reducción del precio del arrendamiento, y
+
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2011)</small>
+
+V. Por la falta de pago de servicios públicos por más de dos meses o el tiempo que acuerden las partes, cuando se haya comprometido a realizarlo el arrendador.
 
 ###### Art. 2146.
 
@@ -13667,9 +13679,11 @@ Las cantidades que hayan sido pagadas por deuda de juego prohibido y se recojan,
 
 Lo dispuesto en los dos artículos anteriores se aplicará a las apuestas que deban tenerse como prohibidas porque tengan analogía con los juegos prohibidos.
 
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2011)</small>
+
 ###### Art. 2370.
 
-El que pierde en un juego o apuesta que no estén prohibidos, queda obligado civilmente, con tal que la pérdida no exceda de la vigésima parte de su fortuna. Prescribe en treinta días el derecho para exigir la deuda de juego a que este artículo se refiere.
+El que pierde en un juego o apuesta que no estén prohibidos queda obligado civilmente, con tal de que la pérdida no exceda de la vigésima parte de su fortuna. Prescribe en un año el derecho para exigir la deuda de juego a que este artículo se refiere.
 
 ###### Art. 2371.
 
@@ -18004,3 +18018,17 @@ P.O. 29 DE DICIEMBRE DE 2009.
 P.O. 8 DE ENERO DE 2011.
 
 ÚNICO. Este decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 3 DE MARZO DE 2011.
+
+DECRETO NUMERO 23502/LIX/11, POR EL QUE SE REFORMA EL ARTICULO 2370 DEL CODIGO CIVIL DEL ESTADO DE JALISCO.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 3 DE MARZO DE 2011.
+
+DECRETO NUMERO 23506/LIX/11, POR EL QUE SE REFORMAN LOS ARTICULOS 2144 Y 2145 DEL CODIGO CIVIL DEL ESTADO DE JALISCO.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. Los contratos suscritos con anterioridad a la entrada en vigor del presente decreto se regirán por lo dispuesto al momento de su celebración.
