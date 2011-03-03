@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-del-poder-legislativo-del-estado-libre-y-6087"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-09-15"
-last_updated: "2010-12-15"
+last_updated: "2011-03-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6087&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 15 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE MARZO DE 2011.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -701,7 +701,9 @@ IV.- Minutas enviadas por el H. Congreso de la Unión;
 
 V.- Lectura de iniciativas;
 
-VI.- Dictámenes emitidos por las comisiones;
+> <small>(REFORMADA, G.G. 3 DE MARZO DE 2011)</small>
+
+VI.- Dictámenes emitidos por las comisiones y, en su caso, iniciativas con carácter preferente, presentadas por el Gobernador del Estado, que no hubieren sido dictaminadas por las comisiones dentro del plazo legal respectivo;
 
 VII.- Discusión y resolución;
 
@@ -863,9 +865,11 @@ Para cada tipo de sesión se observarán las disposiciones normativas que la rij
 
 Durante las sesiones, los diputados podrán inconformarse con los acuerdos que dicte el presidente en relación con los trámites legislativos, motivando su pretensión tan luego como aquéllos se hayan producido; y escuchando a un orador en pro y otro en contra de la inconformidad si los hubiere, la Asamblea resolverá lo que corresponda.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 3 DE MARZO DE 2011)</small>
+
 ###### Artículo 66.
 
-Antes de la clausura de los períodos ordinarios, la secretaría dará cuenta de los asuntos que hubiera en cartera y serán resueltos los que hayan sido dictaminados y aquellos que sean declarados de obvia o urgente resolución; los demás serán remitidos a la Diputación Permanente para que continúe su trámite.
+Antes de la clausura de los períodos ordinarios, la secretaría dará cuenta de los asuntos que hubiera en cartera, y serán resueltos los dictámenes de las iniciativas que con carácter de preferente hubiere presentado el Gobernador del Estado o, en su caso, las propias iniciativas, y los demás asuntos que hayan sido dictaminados y aquellos que sean declarados de obvia o urgente resolución. El resto de los asuntos en cartera serán remitidos a la Diputación Permanente para que continúe su trámite.
 
 > <small>(ADICIONADO, G.G. 30 DE ABRIL DE 2004)</small>
 
@@ -900,6 +904,14 @@ Las iniciativas de ley o decreto que sean presentadas a la Legislatura, pasarán
 ###### Artículo 71.
 
 Cuando las iniciativas no cumplan con los requisitos establecidos en la Constitución o los señalados en la ley, serán devueltas por el presidente a su autor, previniéndole para que complemente dichos requisitos y no podrán volver a presentarse antes de los treinta días posteriores al acuerdo respectivo. En caso de persistir las deficiencias sólo podrán presentarse hasta el siguiente período.
+
+> <small>(ADICIONADO, G.G. 3 DE MARZO DE 2011)</small>
+
+Las iniciativas que el Gobernador del Estado presentare con carácter de preferente fuera del plazo a que se refiere el artículo 81 fracción V, inciso a), de la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de México, se considerarán como presentadas sin tal carácter.
+
+> <small>(ADICIONADO, G.G. 3 DE MARZO DE 2011)</small>
+
+Si las iniciativas carecen del apartado previsto por el inciso c) de la fracción citada, el Presidente solicitará de inmediata (sic) a su autor que subsane la omisión dentro del plazo de 48 horas y ordenará que las iniciativas se turnen a comisiones una vez recibida la información. Si la omisión no es subsanada dentro del plazo citado, podrá presentarlas nuevamente dentro del mismo período de sesiones con el carácter de preferente, si aún se encontrare dentro del plazo a que se refiere el artículo 81 fracción V, inciso a), de la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de México. Si dicho plazo hubiere transcurrido sin que la omisión hubiere sido subsanada, las iniciativas se tendrán por presentadas sin el carácter de preferente.
 
 ###### Artículo 72.
 
@@ -939,6 +951,10 @@ Antes de la discusión de un dictamen, uno de los secretarios de la directiva ex
 
 Cuando las comisiones consideren que no existen los elementos suficientes para dictaminar sobre un asunto, o que no es oportuna la emisión del dictamen, podrán acordar se remita a reserva o sea devuelta la iniciativa, informando de ello a la Asamblea para la discusión en su caso.
 
+> <small>(ADICIONADO, G.G. 3 DE MARZO DE 2011)</small>
+
+Tratándose de las iniciativas que el Gobernador del Estado hubiere presentado con carácter de preferente, las comisiones podrán solicitar, por conducto del Presidente de la Legislatura, la información adicional que requieran. Si, a juicio de las comisiones, aun con la información adicional no existen los elementos suficientes para emitir su dictamen, las iniciativas serán turnadas al Presidente de la Legislatura para su discusión en el Pleno.
+
 ###### Artículo 78.
 
 Los dictámenes se presentarán por escrito y contendrán una exposición clara y precisa del asunto a que se refieran; las consideraciones sobre si se reúnen los requisitos de forma y fondo; en su caso, las propuestas de modificaciones a la iniciativa; los puntos resolutivos, que serán las proposiciones concretas que comprendan la opinión de las comisiones sobre el asunto respectivo; y, el texto del proyecto de ley o decreto.
@@ -959,13 +975,19 @@ Concluido un dictamen, el presidente de la comisión lo remitirá al Presidente 
 
 El diputado encargado de presentar el dictamen a consideración de la Asamblea, le dará lectura y en su caso también a las modificaciones que hubiese tenido el proyecto de ley o decreto; concluida la misma, el Presidente de la Legislatura lo someterá a discusión.
 
+> <small>(REFORMADO, G.G. 3 DE MARZO DE 2011)</small>
+
 ###### Artículo 82.
 
-Cuando algún dictamen sea desaprobatorio, se hará del conocimiento del Presidente de la Legislatura y del diputado presentante, quien escuchando el sentido del dictamen podrá retirarlo o solicitar a aquél, que sea sometido a la consideración de la Asamblea.
+Cuando algún dictamen sea desaprobatorio, se hará del conocimiento del Presidente de la Legislatura, del diputado presentante y, en su caso, del Gobernador del Estado tratándose de las iniciativas que hubiere presentado con carácter de preferentes, quienes, conociendo el sentido del dictamen, podrán retirarlo o solicitar al primero que sea sometido a la consideración de la Asamblea.
 
 ###### Artículo 83.
 
 Cuando un dictamen desaprobatorio sea sometido a la consideración de la Asamblea, ésta determinará si se desecha la iniciativa o se devuelve el dictamen a comisiones para que amplíen su estudio. Si nuevamente resultara desaprobatorio el dictamen, se someterá a discusión, resolviendo la Asamblea en definitiva.
+
+> <small>(ADICIONADO, G.G. 3 DE MARZO DE 2011)</small>
+
+Tratándose del dictamen de las iniciativas que el Gobernador del Estado, hubiere enviado con carácter de preferente, podrá devolverse a comisiones si aún no se ha realizado la penúltima sesión del Pleno. En caso contrario, el Pleno podrá discutirlo y resolver en definitiva.
 
 ###### Artículo 84.
 
@@ -979,15 +1001,21 @@ Presentado un dictamen a la Asamblea, ésta votará su turno a discusión.
 
 Las iniciativas rechazadas por la Asamblea para su discusión o en las que sea ratificado el dictamen desaprobatorio, no podrán volver a presentarse, sino hasta el siguiente período ordinario; si en éste también fueren rechazadas, no podrán presentarse nuevamente durante el ejercicio de la Legislatura.
 
+> <small>(ADICIONADO, G.G. 3 DE MARZO DE 2011)</small>
+
+La Asamblea no podrá rechazar la discusión de las iniciativas presentadas con carácter de preferente, pero no dictaminadas en tiempo. Si después de discutidas, dichas iniciativas no fueren aprobadas por la Asamblea, no podrán volver a presentarse sino hasta el siguiente período ordinario.
+
 ### CAPITULO VIII. DE LA DISCUSION
 
 ###### Artículo 87.
 
 Las discusiones en la Asamblea, respecto de iniciativas de ley o decreto, proposiciones, dictámenes o de cualquier otro asunto, se sujetarán a lo dispuesto por la ley y el reglamento y al orden del día aprobado.
 
+> <small>(REFORMADO, G.G. 3 DE MARZO DE 2011)</small>
+
 ###### Artículo 88.
 
-Previo a la discusión, el presidente tomará las providencias necesarias para que copia de los dictámenes sean entregadas a los diputados.
+Previo a la discusión, el presidente tomará las providencias necesarias para que copia de los dictámenes sean entregadas a los diputados. Lo mismo aplicará en el caso de las iniciativas que, con carácter de preferente, hubieren sido presentadas por el Gobernador del Estado, pero no dictaminadas en tiempo.
 
 ###### Artículo 89.
 
@@ -2222,3 +2250,9 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
 TERCERO.- En un plazo no mayor a treinta días, contados a partir de la publicación del presente Decreto, la Junta de Coordinación Política, a propuesta de su Presidente, designará a quien ocupará el cargo de Cronista Legislativo.
+
+G.G. 3 DE MARZO DE 2011.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
