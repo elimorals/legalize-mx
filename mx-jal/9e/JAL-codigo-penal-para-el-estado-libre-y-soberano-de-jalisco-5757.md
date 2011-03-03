@@ -4,7 +4,7 @@ identifier: "JAL-codigo-penal-para-el-estado-libre-y-soberano-de-jalisco-5757"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-09-02"
-last_updated: "2010-12-09"
+last_updated: "2011-03-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE MARZO DE 2011.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el jueves 2 de septiembre de 1982.
 
@@ -672,6 +672,16 @@ Cuando por culpa se ocasionen daños en las cosas por cualquier valor, o bien se
 Lo dispuesto en el párrafo que antecede no se aplicará cuando el inculpado en el momento de ocurrir el hecho, se encontrare en estado de ebriedad o bajo el influjo de estupefacientes u otras sustancias que produzcan efectos similares.
 
 ### CAPITULO V. Reclusión para enfermos mentales, sordomudos y ciegos
+
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2011)</small>
+
+###### Artículo 60.
+
+Los sordomudos o ciegos de nacimiento o quienes padezcan ceguera sobrevenida antes de los cinco años de edad y que carezcan totalmente de instrucción o los que sufran alguna enfermedad o enajenación mentales que les altere su capacidad de concientización o de discernir el bien del mal y que hayan ejecutado hechos o incurrido en omisiones, definidos como delitos, contemplados en este código o demás disposiciones legales, serán recluidos en establecimientos especiales, por todo el tiempo necesario para su mejor adaptación social, curación o ambas, en su caso, sometiéndolos al tratamiento médico adecuado.
+
+En igual forma, y de acuerdo con el Código de Procedimientos Penales, procederá el juez con los procesados detenidos que enloquezcan sin perjuicio de que, si curaren, sean reintegrados a la cárcel, continuándose el proceso.
+
+Procederán en la misma forma las autoridades administrativas encargadas de la ejecución de las sanciones con los reos que enloquezcan durante el tiempo en que estén sujetos a la privación de su libertad. Si sobreviniere la curación del reo, será reingresado al lugar en que cumpla su condena hasta terminarla; pero se le computará el tiempo que estuvo recluido para su curación.
 
 ###### Art. 51.
 
@@ -1727,7 +1737,7 @@ II. Que continúe ejerciendo las funciones de un empleo, cargo o comisión, desp
 
 III. Que nombrado por tiempo limitado, continúe ejerciendo sus funciones después de cumplido el término por el cual se le nombró.
 
-Lo prevenido en las dos fracciones anteriores no comprende el caso en que al servidor público, que deba cesar en sus funciones, se le ordene que continúe en ellas, entre tanto se presenta la persona que haya de substituirlo, siempre que la Ley no lo prohiba;
+Lo prevenido en las dos fracciones anteriores no comprende el caso en que al servidor público, que deba cesar en sus funciones, se le ordene que continúe en ellas, entre tanto se presenta la persona que haya de substituirlo, siempre que la Ley no lo prohíba;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
@@ -2409,7 +2419,7 @@ Se considera como violación todo caso en que la cópula o introducción por ví
 
 Si la persona ofendida fuere menor de diez años, la sanción será de doce a dieciocho años de prisión.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.(REFORMADA SU DENOMINACION, P.O. 27 DE MAYO DE 2008)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO. (REFORMADA SU DENOMINACION, P.O. 27 DE MAYO DE 2008)</small>
 
 ### CAPITULO VII. Secuestro
 
@@ -3837,15 +3847,17 @@ Se impondrán de tres meses a tres años de prisión y multa por el importe de d
 
 I. Al que, de propia autoridad y haciendo violencia física o moral, o furtivamente, o empleando amenazas o engaño, ocupe o use un inmueble o un derecho real que no le pertenezca.
 
-> <small>(ADICIONADO, P.O. 27 DE ENERO DE 1998)</small>
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2011)</small>
 
-Siempre se entenderá como uso de violencia cuando el despojo se cometa por grupos constituidos por tres o más personas;
+Siempre se entenderá como uso de violencia cuando el despojo se cometa por tres o más personas;
 
 II. Al que, de propia autoridad y haciendo uso de cualquiera de los medios indicados en la fracción anterior, ocupe un inmueble de su propiedad, en los casos en que la ley no lo permita por hallarse en poder de otra persona, o ejerza actos de dominio que lesionen derechos legítimos del ocupante;
 
 III. Al que, en los términos de las fracciones anteriores y en beneficio propio o ajeno, desviare o utilizare aguas a que no tenga derecho; y
 
-IV. Cuando el despojo de inmuebles se realice por grupos, además de la sanción señalada, se aplicará a los autores intelectuales y a quienes dirijan la invasión, de dos a ocho años de prisión.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE MARZO DE 2011)</small>
+
+IV. Cuando el despojo de inmuebles se realice por tres o más personas, además de la sanción señalada, se aplicarán a los autores intelectuales y a quienes dirijan la invasión, de dos a ocho años de prisión.
 
 Las sanciones anteriores serán aplicables aun cuando la posesión de la cosa usurpada sea dudosa o esté en disputa.
 
@@ -4722,5 +4734,17 @@ P.O. 7 DE OCTUBRE DE 2010.
 ÚNICO El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
 P.O. 9 DE DICIEMBRE DE 2010.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 3 DE MARZO DE 2011.
+
+DECRETO NUMERO 23503/LIX/11 POR EL QUE SE REFORMAN EL PARRAFO SEGUNDO DE LA FRACCION I Y EL PARRAFO PRIMERO DE LA FRACCION IV, AMBAS DEL ARTICULO 262 DEL CODIGO PENAL DEL ESTADO DE JALISCO.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 3 DE MARZO DE 2011
+
+DECRETO NUMERO 23504/LIX/11 POR EL QUE SE REFORMA EL ARTICULO 60 DEL CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
