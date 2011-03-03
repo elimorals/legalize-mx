@@ -4,7 +4,7 @@ identifier: "MEX-ley-del-trabajo-de-los-servidores-publicos-del-estado-y-13167"
 country: "mx"
 rank: "ley"
 publication_date: "1998-10-23"
-last_updated: "2010-08-18"
+last_updated: "2011-03-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13167&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DEL TRABAJO DE LOS SERVIDORES PUBLICOS DEL ESTADO Y MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 18 DE AGOSTO DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE MARZO DE 2011.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el viernes 23 de octubre de 1998.
 
@@ -2403,13 +2403,17 @@ VI. Indicación del lugar en que puedan obtenerse los que el actor no pudiese ap
 
 Cuando el servidor público ignore el nombre del titular de la institución pública o dependencia, o la denominación exacta del centro de trabajo donde labora o laboró, deberá precisar en su escrito inicial de demanda, al menos el domicilio de la institución pública o dependencia en donde prestó o presta sus servicios.
 
-> <small>(REFORMADO, G.G. 30 DE ENERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 3 DE MARZO DE 2011)</small>
 
 ###### Artículo 229.
 
-El Tribunal o la Sala dentro de los cinco días hábiles siguientes a la presentación de la demanda, prevendrá al actor para que en el plazo de cinco días hábiles corrija su demanda por ser obscura e imprecisa, en caso de que no lo haga se tendrá por ratificada. Admitida la demanda y el escrito de pruebas se correrá traslado de ella a la parte demandada, así como de las pruebas, emplazándola para que la conteste dentro del plazo de quince días hábiles, contados a partir del día siguiente del emplazamiento, ésta deberá contener copia cotejada de la demanda y de los acuerdos que le recayeron, apercibiéndolo que para el caso de no contestarla en el término señalado se tendrá por contestada en sentido afirmativo, sin perjuicio de que en la etapa de ofrecimiento y admisión de pruebas ofrezca pruebas en contrario con la que acredite que el actor no era servidor público, que no existió el despido o que no son ciertos los hechos afirmados en la demanda.
+El Tribunal o la Sala dentro de los tres días hábiles siguientes a la presentación de la demanda, prevendrá al actor para que en el plazo de cinco días hábiles corrija su demanda por ser obscura e imprecisa, en caso de que no lo haga se tendrá por ratificada. Admitida la demanda y el escrito de pruebas se correrá traslado de ella a la parte demandada, así como de las pruebas, en un plazo no mayor de cinco días hábiles, emplazándola para que la conteste dentro del plazo de diez días hábiles, contados a partir del día siguiente del emplazamiento, ésta deberá contener copia cotejada de la demanda y de los acuerdos que le recayeron, apercibiéndolo que para el caso de no contestarla en el término señalado se tendrá por contestada en sentido afirmativo, sin perjuicio de que en la etapa de ofrecimiento y admisión de pruebas ofrezca pruebas en contrario con la que acredite que el actor no era servidor público, que no existió el despido o que no son ciertos los hechos afirmados en la demanda.
 
-El Tribunal o la Sala dentro de los cinco días hábiles siguientes que reciba la contestación de demanda o hubiera trascurrido el término para contestarla, dictará acuerdo en el que se señalará día y hora para la celebración de la audiencia de conciliación, ofrecimiento y admisión de pruebas, apercibiéndolos de tenerlos por inconformes con todo arreglo conciliatorio y por perdido el derecho de ofrecer pruebas si no concurren a la audiencia.
+> <small>(REFORMADO, G.G. 3 DE MARZO DE 2011)</small>
+
+El Tribunal o la Sala dentro de los tres días hábiles siguientes que reciba la contestación de demanda o hubiera trascurrido el término para contestarla, dictará acuerdo en el que se señalará día y hora para la celebración de la audiencia de conciliación, ofrecimiento y admisión de pruebas, la cual deberá realizarse dentro de los diez días hábiles posteriores al acuerdo; apercibiéndolos de tenerlos por inconformes con todo arreglo conciliatorio y por perdido el derecho de ofrecer pruebas si no concurren a la audiencia.
+
+> <small>(REFORMADO, G.G. 30 DE ENERO DE 2007)</small>
 
 Durante la tramitación de los conflictos individuales y colectivos bastará la presencia del Presidente del Tribunal o de la Sala o del auxiliar, quien llevará a cabo la audiencia hasta su terminación y dictará las resoluciones que procedan, salvo los laudos, caso en que citará a los integrantes del Tribunal o de la Sala para dictar la resolución correspondiente.
 
@@ -2417,11 +2421,11 @@ Durante la tramitación de los conflictos individuales y colectivos bastará la 
 
 (DEROGADO, G.G. 30 DE ENERO DE 2007)
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 30 DE ENERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 3 DE MARZO DE 2011)</small>
 
 ###### Artículo 231.
 
-La falta de notificación de alguno de los demandados obliga al Tribunal o a la Sala a señalar de oficio, nuevo día y hora para la celebración de la audiencia, salvo que las partes concurran a ella o cuando el actor se desista de las acciones intentadas en contra de los demandados que no hubieran sido notificados.
+La falta de notificación de alguno de los demandados obliga al Tribunal o a la Sala a señalar de oficio, nuevo día y hora para la celebración de la audiencia, la cual deberá desahogarse dentro de los siguientes tres días hábiles, salvo que las partes concurran a ella o cuando el actor se desista de las acciones intentadas en contra de los demandados que no hubieran sido notificados.
 
 Las partes que comparezcan a la audiencia quedarán notificadas de la nueva fecha para su celebración. A las partes que habiendo sido notificadas no concurran a la audiencia, se les notificará por estrados o por boletín la nueva fecha de la audiencia, y a las que no fueron notificadas se les hará personalmente.
 
@@ -2886,3 +2890,9 @@ G.G. 18 DE AGOSTO DE 2010.
 PRIMERO.- Publíquese el presente Decreto en el periódico oficial "Gaceta del Gobierno" del Estado de México.
 
 SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 3 DE MARZO DE 2011.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
