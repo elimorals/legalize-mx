@@ -4,7 +4,7 @@ identifier: "OAX-ley-del-instituto-estatal-de-ecologia-y-desarrollo-11810"
 country: "mx"
 rank: "ley"
 publication_date: "1996-06-22"
-last_updated: "2008-05-10"
+last_updated: "2011-03-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11810&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "OAX"
 ---
 # LEY DEL INSTITUTO ESTATAL DE ECOLOGIA Y DESARROLLO SUSTENTABLE -ANTES LEY QUE CREA EL INSTITUTO ESTATAL DE ECOLOGIA DE OAXACA-
 
-LEY QUE CREA EL INSTITUTO ESTATAL DE ECOLOGIA DE OAXACA
+LEY DEL INSTITUTO ESTATAL DE ECOLOGIA Y DESARROLLO SUSTENTABLE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MAYO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE MARZO DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 22 de junio de 1996.
 
@@ -35,15 +35,19 @@ DECRETA:
 
 DECRETO No. 71
 
-LEY QUE CREA EL INSTITUTO ESTATAL DE ECOLOGIA DE OAXACA
+> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE MARZO DE 2011)</small>
+
+LEY DEL INSTITUTO ESTATAL DE ECOLOGÍA Y DESARROLLO SUSTENTABLE
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2011)</small>
+
 ###### Artículo 1.
 
-Se crea el organismo público descentralizado con personalidad jurídica y patrimonio propio denominado INSTITUTO ESTATAL DE ECOLOGIA DE OAXACA, con facultades normativas, ejecutivas y de coordinación en materia ecológica.
+Se crea el organismo público descentralizado con personalidad jurídica y patrimonio propio denominado INSTITUTO ESTATAL DE ECOLOGÍA Y DESARROLLO SUSTENTABLE, con facultades normativas, ejecutivas y de coordinación en materia ecológica.
 
-Para los efectos de este decreto a este organismo en lo sucesivo se le denominará el Instituto.
+Para los efectos de este Decreto a este organismo en lo sucesivo se le denominará el Instituto.
 
 ###### Artículo 2.
 
@@ -286,3 +290,11 @@ UNICO.- El presente Decreto entrará en vigor el día de su publicación en el P
 P.O. 10 DE MAYO DE 2008.
 
 ÚNICO.- El presente Decretó entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 3 DE MARZO DE 2011.
+
+PRIMERO.- En todas las disposiciones legales, reglamentarias y/o administrativas emitidas con anterioridad a la presente reforma en las que se refieran al INSTITUTO ESTATAL DE ECOLOGÍA DE OAXACA, se entenderá que se trata del INSTITUTO ESTATAL DE ECOLOGÍA Y DESARROLLO SUSTENTABLE.
+
+SEGUNDO.- En toda la normatividad vigente en que se aluda al INSTITUTO ESTATAL DE ECOLOGÍA DE OAXACA, se interpretará que se refiere al INSTITUTO ESTATAL DE ECOLOGÍA Y DESARROLLO SUSTENTABLE.
+
+TERCERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
