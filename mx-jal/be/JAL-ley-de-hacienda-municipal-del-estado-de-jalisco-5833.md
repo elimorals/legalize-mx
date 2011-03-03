@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-hacienda-municipal-del-estado-de-jalisco-5833"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-03"
-last_updated: "2010-10-30"
+last_updated: "2011-03-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5833&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE OCTUBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE MARZO DE 2011.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 3 de abril de 1984.
 
@@ -143,7 +143,7 @@ Si por cualquier circunstancia el Congreso del Estado no aprobara la Ley de Ingr
 
 > <small>(REFORMADO, P.O. 5 DE JULIO DE 2008)</small>
 
-Para la elaboración de presupuestos y control de las erogaciones municipales, se estará a lo que disponga la Ley Reglamentaria del Titulo Quinto de la Constitución Política del Estado de Jalisco, La Ley de Fiscalización Superior y de Auditoría Pública del Estado de Jalisco y demás ordenamientos.
+Para la elaboración de presupuestos y control de las erogaciones municipales, se estará a lo que disponga la Ley Reglamentaria del Titulo Quinto de la Constitución Política del Estado de Jalisco, la Ley de Fiscalización Superior y de Auditoría Pública del Estado de Jalisco y demás ordenamientos.
 
 ###### Art. 16.
 
@@ -193,7 +193,7 @@ II. El Presidente Municipal;
 
 > <small>(REFORMADA, P.O. 5 DE JULIO DE 2008)</small>
 
-IIl. El funcionario encargado de la hacienda municipal cualquiera que sea su denominación en la presente ley o en los reglamentos municipales;
+III. El funcionario encargado de la hacienda municipal cualquiera que sea su denominación en la presente ley o en los reglamentos municipales;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE NOVIEMBRE DE 2006)</small>
 
@@ -1115,9 +1115,9 @@ Podrán hacerse pagos anticipados, sin perjuicio del cobro de diferencias por ca
 
 Tratándose de ejidos y comunidades agrarias, el pago del impuesto podrá efectuarse, dentro del plazo general a que se refiere el párrafo primero de este artículo, o bien, por anualidades vencidas, durante el mes de enero del año siguiente al que corresponda el pago.
 
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2011)</small>
 
-En las leyes de ingresos de cada municipio, se establecerán estímulos fiscales, tarifas y descuentos en materia de impuesto predial, así como los sujetos, condiciones y términos para su aplicación, de conformidad con las disposiciones de la ley en materia de promoción económica y de este ordenamiento.
+En las leyes de ingresos de cada municipio, el ayuntamiento correspondiente podrá establecer estímulos fiscales, tarifas y descuentos en materia de impuesto predial, así como los sujetos, condiciones y términos para su aplicación, de conformidad con las disposiciones de la ley en materia de promoción económica y de este ordenamiento.
 
 > <small>(REFORMADO, P.O. 25 DE JULIO DE 2000)</small>
 
@@ -3472,3 +3472,7 @@ P.O. 31 DE DICIEMBRE DE 2009.
 P.O. 30 DE OCTUBRE DE 2010.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 3 DE MARZO DE 2011.
+
+UNICO. Este decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
