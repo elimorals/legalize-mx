@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-del-poder-legislativo-del-estado-libre-y-6088"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-09-15"
-last_updated: "2010-12-15"
+last_updated: "2011-03-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6088&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 15 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE MARZO DE 2011.
 
 Ley publicada en la Tercera Sección de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -375,7 +375,7 @@ La Directiva de la Legislatura estará integrada por un presidente, dos vicepres
 
 > <small>(REFORMADO, G.G. 30 DE ABRIL DE 2004)</small>
 
-El Presidente será electo para todo el periodo ordinario de sesiones, los demás integrantes de la Directiva serán electos mensualmente. La elección se llevará a cabo mediante votación secreta. El Presidente fungirá en su encargo por todo el período ordinario de sesiones, los demás integrantes fungirán por un mes. El Presidente no podrá ser electo para ocupar igual cargo durante el período de sesiones siguiente. Las mismas disposiciones regirán en la elección de la directiva de los períodos extraordinarios.
+El Presidente será electo para todo el periodo ordinario de sesiones, los demás integrantes de la Directiva serán electos mensualmente. La elección se llevará a cabo mediante votación secreta. El Presidente fungirá en su encargo por todo el periodo ordinario de sesiones, los demás integrantes fungirán por un mes. El Presidente no podrá ser electo para ocupar igual cargo durante el periodo de sesiones siguiente. Las mismas disposiciones regirán en la elección de la Directiva de los periodos extraordinarios.
 
 El Presidente de la Directiva, lo será también de la Legislatura.
 
@@ -433,7 +433,9 @@ VII. Conducir los debates y deliberaciones;
 
 VIII. Acordar el trámite de los asuntos que se sometan a la consideración de la Legislatura, con base en el acuerdo tomado por la Conferencia para la Dirección y Programación de los Trabajos Legislativos, cuando así proceda;
 
-IX. Someter a discusión los dictámenes que presenten las comisiones;
+> <small>(REFORMADA, G.G. 3 DE MARZO DE 2011)</small>
+
+IX. Someter a discusión los dictámenes que presenten las comisiones y, en su caso, las iniciativas que, con carácter de preferente, hubiere presentado el Gobernador del Estado y que no hubieren sido dictaminadas por las comisiones respectivas dentro del plazo constitucional;
 
 X. Conceder el uso de la palabra a los diputados;
 
@@ -760,6 +762,10 @@ La Conferencia para la Dirección y Programación de los Trabajos Legislativos e
 > <small>(REFORMADO, G.G. 30 DE ABRIL DE 2004)</small>
 
 2. En cada una de sus sesiones, la Conferencia para la Dirección y Programación de los Trabajos Legislativos, deberá determinar los puntos a tratar en el orden del día de la sesión de la Legislatura, en su caso, la propuesta de turno a la comisión o comisiones que corresponda a cada uno de los puntos a tratar en dicho orden del día, proponer a la Legislatura o a la Diputación Permanente la dispensa de trámite de las iniciativas de ley o decreto, establecer los formatos de debate y los calendarios para el examen de los dictámenes por parte del Pleno de la Legislatura.
+
+> <small>(ADICIONADO, G.G. 3 DE MARZO DE 2011)</small>
+
+En la semana previa a aquélla en que tendrá lugar la última sesión de la Legislatura dentro del período ordinario respectivo, la Conferencia deberá determinar si es el caso de incorporar en el orden del día la iniciativa o iniciativas que, con carácter de preferente, hubiere presentado el Gobernador del Estado, y cuyo dictamen no hubiere sido enviado al Presidente de la Legislatura hasta ese momento por las comisiones responsables. Lo anterior para los efectos constitucionales respectivos.
 
 3. La Conferencia para la Dirección y Programación de los Trabajos Legislativos adoptará sus resoluciones por consenso; en caso de no alcanzarse éste, se tomarán por mayoría absoluta mediante el sistema de voto ponderado de los coordinadores de los grupos parlamentarios. El Presidente tendrá voto de calidad en caso de empate.
 
@@ -1209,6 +1215,10 @@ Los integrantes de las comisiones o comités sólo podrán ser sustituidos por c
 
 El trámite al cual se someterán las iniciativas de ley y decreto, así como las proposiciones que no tengan tal carácter, se ajustará a la normatividad prevista en la Constitución, la ley y el reglamento.
 
+> <small>(ADICIONADO, G.G. 3 DE MARZO DE 2011)</small>
+
+En todo caso, las iniciativas que con carácter preferente presente el Gobernador del Estado en los términos del tercer párrafo del artículo 51 de la Constitución, deberán ser sometidas a discusión y votación de la asamblea, a más tardar, en la última sesión del período ordinario en el que fueren presentadas.
+
 ###### Artículo 79.
 
 Las iniciativas de ley y decreto podrán ser presentadas a la Legislatura por quienes conforme a la Constitución, tengan el derecho para hacerlo.
@@ -1231,13 +1241,21 @@ III. Contener proyecto del articulado, en cuanto a la parte formal normativa;
 
 IV. Acreditar fehacientemente la calidad de ciudadano, cuando quien la presente tenga esta condición.
 
+> <small>(ADICIONADA, G.G. 3 DE MARZO DE 2011)</small>
+
+V. Las iniciativas que presente el Gobernador del Estado en los términos del párrafo segundo del artículo 51 de la Constitución Política del Estado Libre y Soberano de México, deberán observar lo siguiente:
+
+a). Ser presentadas dentro del lapso correspondiente al primer cuarto del período ordinario de que se trate;
+
+b). Contener la precisión de tener el carácter de preferentes;
+
+c). Contener un apartado en el que se expresen las razones que sustentan tal carácter.
+
+> <small>(REFORMADO, G.G. 3 DE MARZO DE 2011)</small>
+
 ###### Artículo 82.
 
-Ninguna iniciativa podrá discutirse sin que primero pase a las comisiones correspondientes, a excepción de aquéllas cuyo trámite se hubiese dispensado.
-
-> <small>(ADICIONADO, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
-
-En el caso de lo dispuesto por el artículo 61 fracciones XXX en su segundo y tercer párrafos y XXXI segundo y tercer párrafos de la Constitución Política del Estado Libre y Soberano de México, el Presidente de la Legislatura deberá someter a votación del Pleno, a más tardar el primer día del mes de febrero del ejercicio fiscal de que se trate, la iniciativa o iniciativas cuya aprobación haya quedado pendiente.
+Ninguna iniciativa podrá discutirse sin que primero pase a las comisiones correspondientes, a excepción de aquéllas cuyo trámite se hubiese dispensado y las que, con carácter de preferente, hubiere presentado el Gobernador del Estado en el período de sesiones ordinario de que se trate, y que no hubieren sido dictaminadas antes de la penúltima sesión del Pleno dentro de dicho período. Estas últimas serán incorporadas en el orden del día para su discusión y votación en los términos de lo dispuesto por el numeral 2, párrafo segundo, del artículo 62 BIS de la presente ley.
 
 ###### Artículo 83.
 
@@ -1415,7 +1433,7 @@ Para los casos de suspensión de ayuntamientos, declarar que éstos han desapare
 
 ###### Artículo 104.
 
-La Comisión de Instrucción y Dictamen se integrará por seis diputados que serán dos de la Junta de Coordinación Política, los Presidentes de las comisiones de Gobernación y Puntos Constitucionales, y de Procuración y Administración de Justicia, un diputado de la primera minoría y uno de la segunda a propuesta de los grupos parlamentarios respectivos.
+La Comisión de Instrucción y Dictamen se integrará por seis diputados que serán dos de la Junta de Coordinación Política, los Presidentes de las comisiones de Gobernación y Puntos Constitucionales; y de Procuración y Administración de Justicia, un diputado de la primera minoría y uno de la segunda a propuesta de los grupos parlamentarios respectivos.
 
 ###### Artículo 105.
 
@@ -1838,3 +1856,9 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
 TERCERO.- En un plazo no mayor a treinta días, contados a partir de la publicación del presente Decreto, la Junta de Coordinación Política, a propuesta de su Presidente, designará a quien ocupará el cargo de Cronista Legislativo.
+
+G.G. 3 DE MARZO DE 2011.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
