@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-de-la-secretaria-de-desarrollo-economico-563
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-07-20"
-last_updated: "2009-04-24"
+last_updated: "2011-03-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56364&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCN"
 
 REGLAMENTO INTERNO DE LA SECRETARIA DE DESARROLLO ECONOMICO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE ABRIL DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO INTERNO DE LA SECRETARIA DE DESARROLLO ECONOMICO DEL ESTADO DE BAJA CALIFORNIA, PUBLICADO EN EL P.O. DE FECHA 4 DE MARZO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 20 de julio de 2007.
 
@@ -532,3 +534,17 @@ P.O. 24 DE ABRIL DE 2009.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se dejan sin efectos las disposiciones normativas expedidas por el titular del Poder Ejecutivo del Estado, que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 4 DE MARZO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interno de la Secretaría de Desarrollo Económico, publicado en el Periódico Oficial del Estado, en fecha 20 de julio de 2007, y se derogan todas aquellas disposiciones que se opongan al presente ordenamiento.
+
+###### ARTÍCULO TERCERO.
+
+Las unidades administrativas con denominación nueva o distinta que aparecen en el presente Reglamento y que tienen competencia en asuntos que anteriormente correspondían a otras unidades, se harán cargo de los mismos, terminarán su substanciación y dictarán las resoluciones que correspondan.
