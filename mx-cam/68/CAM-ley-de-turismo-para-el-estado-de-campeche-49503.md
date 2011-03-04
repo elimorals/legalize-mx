@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-turismo-para-el-estado-de-campeche-49503"
 country: "mx"
 rank: "ley"
 publication_date: "2006-02-22"
-last_updated: "2006-02-22"
+last_updated: "2011-03-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49503&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CAM"
 
 LEY DE TURISMO PARA EL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE TURISMO DEL ESTADO DE CAMPECHE, PUBLICADA EN EL P.O. DE 4 DE MARZO DE 2011. EL PRESENTE ORDENAMIENTO HA SIDO DEROGADA.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: DEROGADA.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el miércoles 22 de febrero de 2006.
 
@@ -498,3 +500,21 @@ C. Carlos Oznerol Pacheco Castro, Diputado Presidente.- C. Marta Irene Novelo La
 En cumplimiento de lo dispuesto por los Artículos 48, 49 y 71 fracción XVIII de la Constitución Política del Estado, lo sanciono, mando se imprima, publique y circule para su debida observancia.
 
 Dado en el Palacio de Gobierno del Estado, en Campeche, a los Diecisiete días del mes de Febrero del año Dos mil seis.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, C.P. JORGE CARLOS HURTADO VALDEZ.- EL SECRETARIO DE GOBIERNO, LIC. CARLOS FELIPE ORTEGA RUBIO.- RUBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 4 DE MARZO DE 2011.
+
+PRIMERO.- Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se deroga la Ley de Turismo para el Estado de Campeche, aprobada por la LVIII Legislatura del Estado, expedida por el Decreto Número 268, P.O. 3514 publicada del 22 de febrero del 2006.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+CUARTO.- En un plazo de 120 días hábiles después de su publicación, el Ejecutivo del Estado deberá expedir el Reglamento de la presente Ley.
+
+QUlNTO.- En un plazo de 15 días hábiles después de la publicación del Reglamento de la Ley, se deberá de haber constituido formalmente la Comisión Ejecutiva de Turismo de Campeche.
+
+SEXTO.- En un plazo de 15 días hábiles después de la publicación del Reglamento de La Ley, se deberán de haber realizado las modificaciones estructurales que en su caso procedan del Consejo Consultivo de Turismo de Campeche conforme a dicho Reglamento.
+
+SÉPTIMO.- Los procedimientos y recursos administrativos relacionados con las materias de la Ley de Turismo para el Estado de Campeche, iniciados con anterioridad a la entrada en vigor de la presente Ley, se tramitarán y resolverán conforme a las disposiciones vigentes en ese momento, y las demás disposiciones aplicables en la materia de que se trate.
