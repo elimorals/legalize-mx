@@ -4,7 +4,7 @@ identifier: "COL-ley-de-los-derechos-y-deberes-de-las-ninas-los-ninos-y-los-4003
 country: "mx"
 rank: "ley"
 publication_date: "2004-06-19"
-last_updated: "2008-05-31"
+last_updated: "2011-03-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40037&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE LOS DERECHOS Y DEBERES DE LAS NIÑAS, LOS NIÑOS Y LOS ADOLESCENTES DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MAYO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE MARZO DE 2011.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 19 de junio de 2004.
 
@@ -315,6 +315,12 @@ Corresponden a la madre, al padre, a los tutores, y a todas las personas que ten
 
 El hecho de que los padres no vivan en el mismo domicilio, no impide que cumplan con las obligaciones que le impone nuestra Constitución del Estado, la Convención, esta Ley, las civiles y penales vigentes en el Estado.
 
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2011)</small>
+
+###### Artículo 13 Bis.
+
+La madre, el padre, los tutores, todas las personas que tengan a su cuidado niñas, niños y adolescentes, así como las personas que figuren como patrón conforme a la ley Federal del Trabajo, que autoricen o permitan que éstos asistan o trabajen en lugares como bares, centros bataneros, table dance, centros nocturnos, cabarets, cantinas, restaurantes-bar, restaurantes nocturnos, parían, discotecas, casinos para baile, depósitos de vinos y licores o de cerveza, hoteles, moteles, agencias de edecanes y clubs social u otros similares, les será impuesta por la Procuraduría la sanción prevista en el artículo 83 fracción IV de esta Ley.
+
 ###### Artículo 14.
 
 Es obligación de familiares, vecinos, médicos, maestros, trabajadores sociales, servidores públicos o cualesquiera persona, hacer del conocimiento de la Procuraduría, o del Ministerio Público de casos de las niñas, los niños o los adolescentes que estén sufriendo del abandono y la violación de los derechos consignados en esta Ley, a fin de que ésta pueda realizar la investigación correspondiente.
@@ -412,6 +418,18 @@ En el momento en que las niña (sic), los niño (sic) o los adolescente (sic) pr
 En caso de notoria urgencia podrán acudir solos ante la autoridad más cercana, la que deberá escucharlos y canalizarlos de inmediato ante la autoridad competente dependiendo de la urgencia y gravedad de los hechos que motivaron la denuncia.
 
 A los que infrinjan, encubran, consientan, participen o sean coparticipes de lo dispuesto en este artículo, así como en los casos en que se compruebe que ha ocurrido con años de anterioridad, se le aplicarán las sanciones previstas en los Códigos Civil y Penal del Estado de Colima.
+
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2011)</small>
+
+###### Artículo 24 Bis.
+
+Las autoridades del Estado, Federación y los Municipios en el ámbito de sus respectivas atribuciones se coordinarán entre sí, y con las instituciones educativas, padres de familia, y aquellos establecimientos que presten servicios de asistencia social para las niñas, los niños y los adolescentes con el fin de aplicar programas preventivos, mecanismos y protocolos de seguridad que tengan por objeto evitar la desaparición de niñas, niños y adolescentes, así como la búsqueda inmediata en casos de desaparición de los mismos, con la colaboración y participación estrecha de la sociedad y de los medios, masivos de comunicación para coadyuvar en la atención y solución de este tipo de casos, y darles la difusión necesaria que facilite su localización y recuperación.
+
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2011)</small>
+
+###### Artículo 24 Ter.
+
+Las autoridades estatales en el ámbito de su competencia, vigilarán el cumplimiento de la normatividad aplicable e implementarán los mecanismos y estrategias necesarias para que los establecimientos que presten servicios de asistencia social para las niñas, los niños y los adolescentes en todos sus tipos y modalidades, cumplan los requerimientos de infraestructura, funcionamiento, seguridad, sanidad y recursos humanos capacitados, que sean necesarios para garantizar su salud, integridad física y psicológica.
 
 ### Capítulo VI. Del derecho a la Identidad
 
@@ -1220,3 +1238,7 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, PROFR. GUSTAVO ALBERTO VÁZQUEZ MONTES.
 P.O. 31 DE MAYO DE 2008.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "EL Estado de Colima".
+
+P.O. 5 DE MARZO DE 2011.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
