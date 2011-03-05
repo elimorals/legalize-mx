@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-interior-de-la-secretaria-de-seguridad-publica-59891
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-01-30"
-last_updated: "2009-01-14"
+last_updated: "2011-03-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59891&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "TAB"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE SEGURIDAD PUBLICA DEL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE ENERO DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE TABASCO, PUBLICADO EN EL SUPLEMENTO D DEL P.O. DE FECHA 5 DE MARZO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 30 de enero de 2008.
 
@@ -1762,3 +1764,37 @@ P.O. 14 DE ENERO DE 2009.
 PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. La Secretaría de Administración y Finanzas hará las adecuaciones presupuestarias necesarias para la correcta operación del Centro de Evaluación y Control de Confianza de la Secretaría de Seguridad Pública Seguridad Pública.
+
+P.O. 5 DE MARZO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se abroga el Reglamento Interior de la Secretaría de Seguridad Pública del Estado de Tabasco, suplemento 6824, publicado en el Periódico Oficial del Estado, de fecha 30 de enero de 2008.
+
+###### ARTÍCULO TERCERO.
+
+En caso de que por razones presupuestales no pudiese crearse y estar en funciones alguna unidad administrativa prevista en este Reglamento, se creará en cuanto sea posible, mientras tanto sus funciones serán ejercidas por el director general, coordinar o director correspondiente.
+
+###### ARTÍCULO CUARTO.
+
+Los asuntos pendientes, al entrar en vigor este Reglamento, que conforme aI mismo deban pasar de una unidad administrativa a otra u otras, continuarán su trámite y serán resueltos por aquellas unidades a las que se les haya atribuido la competencia en este Reglamento.
+
+###### ARTÍCULO QUINTO.
+
+Cuando en otras disposiciones legales se dé una denominación distinta a alguna Unidad Administrativa cuyas funciones estén establecidas por el presente reglamento, dichas atribuciones se entenderán concedidas para su ejercicio a la Unidad Administrativa que determina este Ordenamiento.
+
+###### ARTÍCULO SEXTO.
+
+Para su mejor funcionamiento las unidades operativas y administrativas, deberán formular sus respectivos manuales de organización, de funciones y de procedimientos con base a su competencia.
+
+###### ARTÍCULO SÉPTIMO.
+
+Los derechos de los servidores públicos, serán respetados conforme a la Ley aplicable y en ningún caso, serán afectados por la organización que implica este Reglamento.
+
+###### ARTÍCULO OCTAVO.
+
+Los recursos financieros y materiales que estuviesen asignados a las unidades administrativas que desaparecen o modifican su competencia en virtud de lo dispuesto en el presente ordenamiento, serán asignados a las unidades que asuman las correspondientes atribuciones con la intervención de la Dirección General de Administración y de conformidad a las instrucciones que al efecto emita el titular del ramo.
