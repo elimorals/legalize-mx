@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-municipal-reglamentario-de-fresnillo-zacatecas-41250"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-09-11"
-last_updated: "2004-09-11"
+last_updated: "2011-03-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41250&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CODIGO MUNICIPAL REGLAMENTARIO DE FRESNILLO, ZACATECAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE MARZO DE 2011.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 11 de septiembre de 2004.
 
@@ -75,9 +75,11 @@ Quienes contravengan lo dispuesto en el artículo anterior, se harán acreedores
 
 ### CAPÍTULO II. DE LOS FINES DEL MUNICIPIO
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE MARZO DE 2011)</small>
+
 ###### ARTÍCULO 8º.
 
-Son fines del Municipio, proporcionar en forma enunciativa y no limitativa los siguientes:
+Son fines del Municipio, proporcionar en forma enunciativa y no limitativa las siguientes:
 
 I.- La tranquilidad y seguridad a las personas, incluyendo sus bienes dentro de su territorio;
 
@@ -93,7 +95,9 @@ VI.- Promover en forma ordenada el crecimiento y desarrollo urbano, a fin de gar
 
 VII.- Alentar y organizar la participación ciudadana para cumplir con los planes y programas municipales, a través de la consulta pública y la promoción de la autogestión;
 
-VIII.- Impulsar la integración familiar, a través del Sistema Municipal de Desarrollo Integral de la Familia, en el ámbito de su competencia;
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2011)</small>
+
+VIII.- Impulsar la integración familiar, a través del Sistema Municipal de Desarrollo Integral de la Familia, y proporcionar en el ámbito de su competencia asistencia social;
 
 IX.- Fomentar la salud e higiene públicas;
 
@@ -8814,3 +8818,9 @@ EL PRESIDENTE MUNICIPAL: SR. GONZALO LEDESMA BRETADO; SECRETARIO DEL AYUNTAMIENT
 R E G I D O R E S
 
 PROF. MIGUEL ALFREDO HERNÁNDEZ BARRIOS, PROF. ARTURO ÁLVAREZ DEL HOYO, C. MARÍA LUCÍA RODRÍGUEZ TORRES ING. JOSÉ LUIS GRACÍA RAMÍREZ, C. ANDRÉS TABARES MUÑOZ, ING. RAFAEL LAREDO PICAZO, LIC. MARIBEL GALVÁN JIMÉNEZ, C. ISIDRO ANTONIO GUTIÉRREZ ESPARZA, C. JULIA ARELLANO AGUILAR, LIC. ISMAEL CASTORENA DE LA CRUZ, C. MARTÍN ALANIZ RIVERA, LIC. RICARDO RÍOS VELÁSQUEZ, ING. ISMAEL BÁRCENAS RÍOS, C. RAMIRO ORDAZ MERCADO, C. ADÁN MEJÍA FERNÁNDEZ, L.A.E. LORENZO RUVALCABA DE LA CRUZ, LIC. JUAN MARTÍN REYES ESCOBEDO, ING. CARLOS MENDOZA CHÁIRES, C. RUBÉN PICASSO TORRES, LIC. JUAN MANUEL BASURTO ALVARADO: Rúbricas.
+
+N. DE E.: A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.
+
+P.O. 5 DE MARZO DE 2011.
+
+LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO ACTUALIZADO EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 4 DEL CODIGO CIVIL PARA EL ESTADO DE ZACATECAS VIGENTE.
