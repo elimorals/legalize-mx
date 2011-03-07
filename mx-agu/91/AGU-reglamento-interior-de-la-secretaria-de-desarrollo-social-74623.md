@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interior-de-la-secretaria-de-desarrollo-social-74623
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-04-26"
-last_updated: "2010-08-16"
+last_updated: "2011-03-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74623&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO SOCIAL
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO SOCIAL
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO SOCIAL
 
-ULTMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE AGOSTO DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE BIENESTAR Y DESARROLLO SOCIAL DEL ESTADO DE AGUASCALIENTES, PUBLICADO EN EL P.O. DE 7 DE MARZO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 26 de abril de 2010.
 
@@ -1564,3 +1566,13 @@ Secretaria de Desarrollo Social en el Estado.
 P.O. 16 DE AGOSTO DE 2010.
 
 UNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE MARZO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento, abroga el Reglamento Interior de la Secretaría de Desarrollo Social publicado en el Periódico Oficial Segunda Sección de Fecha veintiséis de abril del año dos mil diez.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Reglamento entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
