@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-del-organo-de-fiscalizacion-superior-25031"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-12-17"
-last_updated: "2001-12-17"
+last_updated: "2011-03-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25031&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "PUE"
 
 REGLAMENTO INTERIOR DEL ORGANO DE FISCALIZACION SUPERIOR DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL ORGANO DE FISCALIZACION SUPERIOR DEL ESTADO DE PUEBLA, PUBLICADO EN EL P.O. DE FECHA 7 DE MARZO DE 2011, EL PRESENTE ORDENAMIENTO HA QUEDADO SIN VIGENCIA.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: SIN VIGENCIA.
 
 Reglamento publicado en la Cuarta Sección del Periódico Oficial del Estado de Puebla, el lunes 17 de diciembre de 2001.
 
@@ -744,3 +746,19 @@ QUINTO.- Se derogan todas las disposiciones que se opongan al presente ordenamie
 EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, a los trece días del mes de diciembre de dos mil uno.- Diputado Presidente.- MARTÍN FUENTES MORALES.- Rúbrica.- Diputado Vicepresidente.- IGNACIO SERGIO TÉLLEZ OROZCO.- Rúbrica.- Diputado Secretario.- ENRIQUE GUEVARA MONTIEL.- Rúbrica.- Diputado Secretario.- JULIO LEOPOLDO DE LARA VALERA.- Rúbrica.
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo en la Heroica Puebla de Zaragoza, a los diecisiete días del mes de diciembre de dos mil uno.- El Gobernador Constitucional del Estado.- LICENCIADO MELQUIADES MORALES FLORES.- Rúbrica.- El Secretario de Gobernación.- LICENCIADO HÉCTOR JIMÉNEZ Y MENESES.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 7 DE MARZO DE 2011.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
+
+SEGUNDO.- Deja de estar vigente el Reglamento Interior del Órgano de Fiscalización Superior del Estado de Puebla, publicado el diecisiete de diciembre del año dos mil uno en el Periódico Oficial del Estado de Puebla, de conformidad con lo establecido en el artículo Tercero Transitorio de la Ley de Fiscalización; con excepción de lo previsto en el artículo Cuarto Transitorio de la citada Ley.
+
+TERCERO.- Los asuntos en trámite, al entrar en vigor el presente Reglamento, que conforme al mismo deban pasar de una Unidad Administrativa a otra u otras, se resolverán y tramitarán conforme a las atribuciones conferidas en el presente Reglamento a las Unidades Administrativas correspondientes.
+
+CUARTO.- Las menciones que en las leyes, reglamentos y demás disposiciones jurídicas o administrativas de carácter federal, estatal o municipal, se hagan del Reglamento Interior del Órgano de Fiscalización Superior del Estado de Puebla, publicado en el Periódico Oficial del Estado de Puebla el diecisiete de diciembre del año dos mil uno, se entenderán referidas al presente Reglamento.
+
+QUINTO.- Por lo que hace a los Auditores Especiales que se encuentren en funciones al momento de entrar en vigor el presente Reglamento, continuarán ejerciendo su cargo hasta en tanto, el Auditor General emita los nombramientos que conforme a este ordenamiento correspondan.
+
+SEXTO.- Los Servidores Públicos que a la entrada en vigor del presente Reglamento se encuentren en funciones de un empleo, cargo o comisión, conforme a un nombramiento expedido con anterioridad, continuarán ejerciéndolo hasta en tanto el Auditor General emita los nombramientos que conforme a este ordenamiento correspondan.
