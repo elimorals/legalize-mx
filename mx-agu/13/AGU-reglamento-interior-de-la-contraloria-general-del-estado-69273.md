@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interior-de-la-contraloria-general-del-estado-69273"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-07-13"
-last_updated: "2009-07-13"
+last_updated: "2011-03-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69273&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "AGU"
 
 REGLAMENTO INTERIOR DE LA CONTRALORIA GENERAL DEL ESTADO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE FISCALIZACIÓN Y RENDICION DE CUENTAS DEL ESTADO DE AGUASCALIENTES, PUBLICADO EN EL P.O. DE FECHA 7 DE MARZO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 13 de julio de 2009.
 
@@ -388,3 +390,19 @@ Lic. Juan Ángel José Pérez Talamantes.
 EL CONTRALOR GENERAL DEL ESTADO,
 
 C. P. Claudio Arturo González Muñoz.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 7 DE MARZO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+la Coordinación Administrativa realizara los trámites necesarios para realizar el ajuste presupuestal con motivo de la nueva organización que se propone en el presente Reglamento. En tanto entra en funciones la Coordinación de Transparencia y Autoevaluación al Desempeño, sus facultades serán ejercidas por la Dirección General de Auditoria Gubernamental.
+
+###### ARTÍCULO TERCERO.
+
+Se abroga el Reglamento Interior de la Contraloría General del Estado publicado en el Periódico Oficial del Estado el día trece de julio del año dos mil nueve.
