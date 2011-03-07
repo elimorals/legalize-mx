@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-transparencia-y-acceso-a-la-informacion-57719"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-11-30"
-last_updated: "2010-02-10"
+last_updated: "2011-03-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57719&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL MUNICIPIO DE SAN NICOLAS DE LOS GARZA, NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE FEBRERO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE MARZO DE 2011.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 30 de noviembre de 2007.
 
@@ -353,7 +353,7 @@ El incumplimiento de esta disposición será responsabilidad directa del titular
 
 ###### Artículo 18.
 
-La clasificación de la información contenida en los documentos será responsabilidad de los titulares de las Dependencias, Entidades u Órganos Descentralizados.
+La clasificación de la información contenida en los documentos será responsabílidad de los titulares de las Dependencias, Entidades u Órganos Descentralizados.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE FEBRERO DE 2010)</small>
 
@@ -1369,7 +1369,7 @@ III.- La descripción de la información que se solicita anexando en su caso cua
 
 IV.- El domicilio o medio para recibir la información solicitada o las notificaciones que correspondan, las cuales podrán hacerse a través de medios electrónicos, si así lo autoriza el solicitante; y
 
-V.- La modalidad en la que prefiere se otorgue el acceso a la información, la cual podrá ser mediante consulta directa, copias simples, certificadas u otro tipo de medio electrónico. El sujeto obligado podrá entregar la información en una modalidad distinta a la solicitada cuando exista causa justificada.
+V. La modalidad en la que prefiere se otorgue el acceso a la información, la cual podrá ser mediante consulta directa, copias simples, certificadas u otro tipo de medio electrónico. El sujeto obligado podrá entregar la información en una modalidad distinta a la solicitada cuando exista causa justificada.
 
 El sujeto obligado no estará obligado a dar trámite a solicitudes de acceso ofensivas o cuando se haya entregado información sustancialmente idéntica como respuesta a una solicitud de la misma persona. En estos casos, el sujeto obligado deberá indicar al solicitante que su solicitud es ofensiva o que ya se le ha entregado información pública sustancialmente idéntica.
 
@@ -1417,19 +1417,29 @@ En estos casos deberá precisar en el mismo, los puntos sobre los que versará s
 
 Tratándose de información contenida en publicaciones oficiales, la autoridad proporcionará al interesado los datos necesarios para su localización, salvo que la solicitud verse respecto del original.
 
-> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE MARZO DE 2011)</small>
 
 ###### Artículo 119.
 
-La Unidad de Enlace de Transparencia y Acceso a la Información, dará respuesta a toda solicitud de acceso al interesado en el menor tiempo posible, que no podrá exceder de diez días hábiles contados a partir de la presentación de aquella, precisando el costo y la modalidad en que será entregada la información, atendiendo en la mayor medida de lo posible a la solicitud del interesado.
+La Unidad de Enlace de Transparencia y Acceso a la Información, dará respuesta a toda solicitud de acceso al interesado en el menor tiempo posible, que no podrá exceder de cinco días hábiles contados a partir de la presentación de aquella, precisando el costo y la modalidad en que será entregada la información, atendiendo en la mayor medida de lo posible a la solicitud del interesado.
+
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2010)</small>
 
 Este plazo podrá prorrogarse por un período igual cuando no sea posible la respuesta en dicho término. La Unidad de Enlace de Transparencia y Acceso a la Información deberá comunicar al solicitante antes del vencimiento del plazo, las razones por las cuales hará uso de la prórroga. No podrá invocarse como causales de ampliación del plazo, motivos que supongan negligencia o descuido del sujeto obligado en el desahogo de la solicitud.
 
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2010)</small>
+
 Las notificaciones relativas a las solicitudes de información se realizarán a través del sistema electrónico establecido por el sujeto obligado o por medio de la dirección electrónica proporcionada por el solicitante. En caso de no haberse utilizado uno, ni proporcionado la otra, las notificaciones relativas a las solicitudes de información serán personales y se harán por medio de instructivo practicándose en el domicilio que el interesado señale para tal efecto.
+
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2010)</small>
 
 El domicilio designado para oír y recibir notificaciones deberá estar ubicado dentro del municipio en que resida el sujeto obligado. Cuando el interesado no cumpla con la anterior prevención o el domicilio no exista, las notificaciones se le harán por medio de instructivo que se fijará en la tabla de avisos o en el lugar visible del recinto de la Unidad de Enlace de Transparencia y Acceso a la Información.
 
-La información pública deberá entregarse dentro de los diez días hábiles siguientes a la fecha en que la Unidad de Enlace de Transparencia y Acceso a la Información le haya notificado al solicitante la disponibilidad de aquella. En caso de que sea necesario cubrir costos para obtener la información en alguna modalidad de entrega, el plazo correrá a partir de la fecha en que el solicitante acredite haber cubierto el pago de los derechos correspondientes.
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 2011)</small>
+
+La información pública deberá entregarse dentro de los cinco días hábiles siguientes a la fecha en que la Unidad de Enlace de Transparencia y Acceso a la Información le haya notificado al solicitante la disponibilidad de aquella. En caso de que sea necesario cubrir costos para obtener la información en alguna modalidad de entrega, el plazo correrá a partir de la fecha en que el solicitante acredite haber cubierto el pago de los derechos correspondientes.
+
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2010)</small>
 
 Excepcionalmente, el sujeto obligado podrá determinar que este plazo sea mayor cuando la cantidad de información o la complejidad de su acopio así lo amerite, o bien cuando la elaboración de versiones públicas suponga un trabajo que pueda entorpecer sustancialmente la operación del sujeto obligado. El sujeto obligado deberá notificar al solicitante el plazo para entregarle la información, así como el fundamento y la motivación de su resolución.
 
@@ -1730,3 +1740,7 @@ Dado en el Salón de Sesiones del R. Ayuntamiento del Municipio de San Nicolás 
 P.O. 10 DE FEBRERO DE 2010.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico oficial del Estado.
+
+P.O. 7 DE MARZO DE 2011.
+
+ÚNICO.- la presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
