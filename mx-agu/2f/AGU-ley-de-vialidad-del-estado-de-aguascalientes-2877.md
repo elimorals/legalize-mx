@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-vialidad-del-estado-de-aguascalientes-2877"
 country: "mx"
 rank: "ley"
 publication_date: "1994-05-29"
-last_updated: "2010-02-15"
+last_updated: "2011-03-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2877&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE VIALIDAD DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE FEBRERO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE MARZO DE 2011.
 
 Ley publicada en el Suplemento a la Sección Segunda del Periódico Oficial del Estado de Aguascalientes, el domingo 29 de mayo de 1994.
 
@@ -415,13 +415,19 @@ VI.- Tener instalado silenciador en buen estado; y
 
 VII.- Tener todos los cristales del vehículo en perfecto estado.
 
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 2011)</small>
 
 ###### ARTICULO 23.
 
-Todos los vehículos particulares, los mercantiles y públicos destinados al transporte de trabajadores o de escolares, deberán contar con cinturones de seguridad en número suficiente para la cantidad de pasajeros que lo ocupen, es obligación de los pasajeros del vehículo utilizar los cinturones de seguridad. Se exceptúa en este caso, los vehículos particulares que originalmente no traigan cinturones de seguridad en la parte posterior para el uso de pasajeros.
+Todos los vehículos particulares, mercantiles y públicos destinados al transporte de trabajadores o de escolares, deberán contar con cinturones de seguridad en número suficiente para la cantidad de pasajeros que lo ocupen, es obligación de los pasajeros del vehículo utilizar los cinturones de seguridad. Se exceptúa en este caso, los vehículos particulares que originalmente no traigan cinturones de seguridad en la parte posterior para el uso de pasajeros.
 
-Todos los vehículos destinados al transporte público de pasajeros deberán contar con póliza de seguro a favor del pasajero y contra daños a terceros.
+Además de lo anterior, deberán de cumplir con los siguientes requisitos para transitar:
+
+I. Todos los vehículos destinados al transporte público de pasajeros, deberán contar con póliza de seguro a favor del pasajero y contra daños a terceros;
+
+II. Todos los vehículos destinados a la enseñanza de manejo, deberán contar con una póliza de seguro a favor del contratante y contra tercero; y
+
+III. Para el caso de las escuelas de manejo, la póliza deberá estar a favor del conductor o pasajero del vehículo destinado para la enseñanza de manejo, y deberá estar prevista en el contrato de prestación de servicios realizado entre la escuela de manejo y aquel que contrate con la misma, la cual deberá asegurar las lesiones que se generen al conductor del vehículo en caso de ser el contratante el que conduce o al pasajero en caso de que el contratante se encuentre como copiloto del vehículo. Dicha póliza no podrá ser irrenunciable.
 
 > <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2003)</small>
 
@@ -473,21 +479,47 @@ VII.- Luz de reversa.
 
 Los conductores están obligados a accionar los dispositivos enumerados, de acuerdo con las condiciones de visibilidad o necesidades de advertencia a terceros.
 
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 2011)</small>
 
 ###### ARTICULO 27.
 
-Los remolques y semirremolques deberán estar provistos en sus partes laterales y posteriores de dos o más reflejantes rojos, así como de dos lámparas indicadoras de frenado, en combinaciones de vehículos, solamente será necesario que las luces de freno sean visibles en la parte posterior del último vehículo. Los vehículos escolares deberán además estar provistos de dos lámparas delanteras que proyecten luz amarilla y dos traseras que proyecten luz roja, ambos de destello.
+Los remolques y semirremolques, así como los vehículos destinados al transporte escolar, y de uso privado, para transitar en el Estado, deberán cumplir con los siguientes requisitos:
 
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2003)</small>
+I. Los remolques y semirremolques deberán estar provistos en sus partes laterales y posteriores de dos o más reflejantes rojos, así como de dos lámparas indicadoras de frenado, en combinaciones de vehículos, solamente será necesario que las luces de freno sean visibles en la parte posterior del último vehículo;
+
+II. Los vehículos escolares además de estar provistos de lo señalado en la Fracción que antecede deberán contar con dos lámparas delanteras que proyecten luz amarilla y dos traseras que proyecten luz roja, ambos de destello; y
+
+III. Para el caso de transporte privado, los vehículos destinados a la enseñanza de manejo debidamente autorizados, podrán utilizar torretas en color amarillo, además deberán poner en funcionamiento las luces intermitentes de advertencia.
+
+> <small>(ADICIONADO, P.O. 7 DE MARZO DE 2011)</small>
+
+###### ARTICULO 27 Bis.
+
+Los vehículos de las escuelas de manejo en el Estado, deberán cubrir los siguientes requisitos:
+
+I. Portar en el cofre la leyenda "Escuela de Manejo" que en tamaño será proporcional a dos terceras partes del mismo, colocada en sentido contrario para que sea advertida por el espejo retrovisor de los automovilistas;
+
+II. Portar en los dos costados y parte posterior la leyenda "Escuela de Manejo", así como el nombre de la institución, esto para su plena identificación;
+
+III. Contar con cinturones de seguridad para cada uno de los pasajeros; así como volante adicional y pedales de engrane, frenado de pie y acelerador en el lado derecho del vehículo, dando así, plena identificación al mismo, así como facilidad al educando.
+
+IV. En las vías públicas, transitar por el carril de más baja velocidad a la extrema derecha; y
+
+V. Transitar a una velocidad máxima de cuarenta kilómetros por hora.
+
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 2011)</small>
 
 ###### ARTICULO 28.
 
-Se prohíbe en los vehículos la instalación o uso de torretas, faros rojos en la parte delantera o blancos en la trasera, sirenas y accesorios de uso exclusivo para vehículos policiales, de emergencia y del ejército.
+Se prohíbe en los vehículos particulares, mercantiles y públicos la instalación o uso de:
 
-Queda prohibido utilizar los colores y emblemas privativos de los vehículos policiales y de emergencia.
+I. Faros rojos en la parte delantera o blancos en la parte trasera;
 
-Podrán utilizar torretas de color amarillo, previo permiso de la Dirección, los vehículos de auxilio vial, de empresas de seguridad privada, los destinados a la conservación y mantenimiento de la vía pública e infraestructura urbana y otros que la Dirección determine.
+II. Sirenas y accesorios de uso exclusivo para vehículos policiales, de emergencia y del ejército;
+
+III. Torretas, a excepción de los vehículos de las escuelas de manejo que cuenten con previa autorización, destinados para la enseñanza de manejo, los cuales podrán portar torretas en color amarillo;
+
+IV. Podrán utilizar torretas en color amarillo, previo permiso de la Dirección, los vehículos de auxilio vial, de empresas de seguridad privada, los destinados a la conservación y mantenimiento de la vía pública e infraestructura urbana, los demás señalados por esta Ley y los que la Dirección determine.
 
 > <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2003)</small>
 
@@ -3064,3 +3096,9 @@ El presente Decreto entrará en vigencia dentro de los sesenta días naturales s
 ###### ARTÍCULO SEGUNDO.
 
 En un plazo de cuarenta y cinco días naturales contados a partir de la publicación del presente Decreto, se deberán efectuar las adecuaciones correspondientes al Reglamento de la Ley de Vialidad del Estado de Aguascalientes.
+
+P.O. 7 DE MARZO DE 2011.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
