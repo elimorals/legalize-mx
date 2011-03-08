@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-del-poder-legislativo-del-estado-libre-y-6087"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-09-15"
-last_updated: "2011-03-03"
+last_updated: "2011-03-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6087&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE MARZO DE 2011.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 8 DE MARZO DE 2011.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -521,9 +521,15 @@ Para el mejor desempeño de sus trabajos, las comisiones podrán invitar por con
 
 Asimismo, podrán solicitar a la Junta de Coordinación Política que se invite a personas y a los representantes de instituciones públicas o privadas para proveerse de elementos de juicio para dictaminar.
 
+> <small>(ADICIONADO, G.G. 8 DE MARZO DE 2011)</small>
+
+Los presidentes de las comisiones recibirán de la Junta de Coordinación Política la solicitud que hicieren llegar el Gobernador del Estado y las autoridades a quienes la Constitución otorga el derecho de iniciativa, en los términos de la fracción XIV del artículo 62 de la ley, a efecto de tomar las providencias necesarias para que los solicitantes, o los representantes que hubieren designado para tal fin, puedan participar en el análisis y estudio de las iniciativas correspondientes.
+
+> <small>(REFORMADO, G.G. 8 DE MARZO DE 2011)</small>
+
 ###### Artículo 18.
 
-Las reuniones de trabajo de las comisiones, a las que concurran servidores públicos o expertos, se desarrollarán en lo conducente conforme a las reglas señaladas en este ordenamiento para la comparecencia de los servidores públicos ante la Legislatura.
+Las reuniones de trabajo de las comisiones, a las que concurran servidores públicos o expertos, se desarrollarán en lo conducente conforme a las reglas señaladas en este ordenamiento para la comparecencia de los servidores públicos ante la Legislatura. Tratándose de la participación del Gobernador del Estado o de las autoridades a quienes la Constitución otorga el derecho de iniciativa, o de los representantes que éstos designen para tal efecto, las comisiones podrán acordar un formato determinado.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.G. 21 DE JULIO DE 2006)</small>
 
@@ -565,6 +571,10 @@ En todos los casos el citatorio contendrá el día, la hora y el lugar, debiendo
 
 Los presidentes deberán citar a reuniones de las comisiones directamente o a solicitud de la mayoría de los integrantes de las mismas. En este último caso, de no hacerlo, será el Secretario quien a petición de la mayoría referida haga la citación.
 
+> <small>(ADICIONADO, G.G. 8 DE MARZO DE 2011)</small>
+
+El Gobernador del Estado o a las autoridades a quienes la Constitución otorga el derecho de iniciativa, y que hubieren solicitado participar en el análisis y estudio de las que hubieren presentado o que caigan dentro de su ámbito competencial, serán informadas de la fecha y hora en que tendrán lugar las sesiones, con al menos 24 horas de anticipación.
+
 ###### Artículo 21.
 
 En caso de ausencia de alguno de los integrantes de la directiva de la comisión, tomará su lugar quien le siga en orden jerárquico. Si la ausencia fuere definitiva, la Asamblea decidirá sobre la sustitución.
@@ -573,9 +583,11 @@ En caso de ausencia de alguno de los integrantes de la directiva de la comisión
 
 El presidente de la comisión será el encargado de presentar el dictamen a la consideración de la Asamblea. Cuando se trate de comisiones unidas, se pondrán de acuerdo sobre quien deba hacerlo, lo mismo cuando sea otro de los integrantes de las comisiones.
 
+> <small>(REFORMADO, G.G. 8 DE MARZO DE 2011)</small>
+
 ###### Artículo 23.
 
-En las reuniones de trabajo de las comisiones se estudiarán los asuntos, primero en lo general y luego en lo particular, pudiendo expresar los diputados integrantes de las mismas sus puntos de vista, verbalmente o por escrito.
+En las reuniones de trabajo de las comisiones se estudiarán los asuntos, primero en lo general y luego en lo particular, pudiendo expresar los diputados integrantes de las mismas sus puntos de vista, verbalmente o por escrito. El Gobernador del Estado y las autoridades a quienes la Constitución otorga el derecho de iniciativa o, en su caso, sus representantes, tendrán similar derecho.
 
 ###### Artículo 24.
 
@@ -709,7 +721,7 @@ VII.- Discusión y resolución;
 
 VIII.- Otros asuntos;
 
-IX.- Clausura de la sesión.
+IX.- Clausura de la sesion.
 
 Atendiendo a la importancia de los asuntos, el presidente podrá proponer su tratamiento en orden diverso.
 
@@ -1017,9 +1029,15 @@ Las discusiones en la Asamblea, respecto de iniciativas de ley o decreto, propos
 
 Previo a la discusión, el presidente tomará las providencias necesarias para que copia de los dictámenes sean entregadas a los diputados. Lo mismo aplicará en el caso de las iniciativas que, con carácter de preferente, hubieren sido presentadas por el Gobernador del Estado, pero no dictaminadas en tiempo.
 
+> <small>(ADICIONADO, G.G. 8 DE MARZO DE 2011)</small>
+
+Una copia de los dictámenes recaídos a las iniciativas que presenten el Gobernador del Estado o las autoridades a quienes la Constitución otorga el derecho de iniciativa o que estén relacionados con su ámbito competencial, en su caso, será entregada a éstos o a los representantes que hubieren designado para participar en la discusión.
+
+> <small>(REFORMADO, G.G. 8 DE MARZO DE 2011)</small>
+
 ###### Artículo 89.
 
-Puesto a discusión un asunto o dictamen, el presidente, con auxilio de los secretarios, procederá a elaborar la lista de oradores en contra y en pro, concediéndoles el uso de la palabra en forma alterna, iniciando el primer orador inscrito en contra.
+Puesto a discusión un asunto o dictamen, el presidente, con auxilio de los secretarios, procederá a elaborar la lista de oradores en contra y en pro, concediéndoles el uso de la palabra en forma alterna, iniciando el primer orador inscrito en contra. Cuando se hubiese acordado un formato determinado para la participación del Gobernador del Estado o de las autoridades a quienes la Constitución otorga el derecho de iniciativa, el presidente se sujetará a tal formato en lo tocante a la discusión de los dictámenes en los que dichas autoridades estén facultadas para intervenir.
 
 ###### Artículo 90.
 
@@ -1033,9 +1051,11 @@ Si un proyecto constare de más de cien artículos, aprobado en lo general se po
 
 Cuando un proyecto de ley o decreto fuere aprobado en lo general y no hubiese discusión en lo particular, se tendrá por aprobado, sin necesidad de someterlo a nueva votación, previa declaratoria del presidente.
 
+> <small>(REFORMADO, G.G. 8 DE MARZO DE 2011)</small>
+
 ###### Artículo 93.
 
-Para la discusión en lo particular de un dictamen, los diputados que pretendan intervenir, indicarán los artículos o fracciones del proyecto que desean impugnar y estrictamente sobre ellos versará el debate.
+Para la discusión en lo particular de un dictamen, los diputados que pretendan intervenir, indicarán los artículos o fracciones del proyecto que desean impugnar y estrictamente sobre ellos versará el debate. El Gobernador del Estado o las autoridades a quienes la Constitución otorga el derecho de iniciativa, podrán solicitar que se discuta un artículo o fracción en particular. Si la Asamblea lo aprueba, se procederá a la discusión.
 
 ###### Artículo 94.
 
@@ -1055,21 +1075,27 @@ Si se tratare de la discusión de una proposición escrita de algún diputado, q
 
 Ningún orador podrá hacer uso de la palabra si no le ha sido concedido. El presidente cuidará que no se establezca diálogo entre el orador en turno y los demás legisladores.
 
+> <small>(REFORMADO, G.G. 8 DE MARZO DE 2011)</small>
+
 ###### Artículo 98.
 
-El diputado que hubiese solicitado el uso de la palabra y no esté presente al momento de su intervención, perderá su turno.
+El orador que hubiese solicitado el uso de la palabra y no esté presente al momento de su intervención, perderá su turno.
+
+> <small>(REFORMADO, G.G. 8 DE MARZO DE 2011)</small>
 
 ###### Artículo 99.
 
-Concedido el uso de la palabra por el presidente, los diputados podrán hacer uso de la misma desde su curul o en la tribuna; ésta sólo podrá ser utilizada con carácter exclusivo por la persona a quien haya sido concedido el uso de la palabra.
+Concedido el uso de la palabra por el presidente, los diputados podrán hacer uso de la misma desde su curul o en la tribuna. Cuando sea concedido al Gobernador del Estado o las autoridades a quienes la Constitución otorga el derecho de iniciativa, éstas harán uso de la voz desde la tribuna; tratándose de representantes con niveles de mando superior que hubiesen designado para tal fin, éstas harán uso de la misma desde el lugar que les hubiese sido asignado en el salón de sesiones. La tribuna sólo podrá ser utilizada con carácter exclusivo por la persona a quien haya sido concedido el uso de la palabra.
 
 ###### Artículo 100.
 
 En uso de la palabra el orador en turno, dispondrá hasta de quince minutos para exponer su posición respecto al dictamen en discusión y sólo a éste se referirá en su discurso; agotado el tiempo, podrá solicitar una prórroga, hasta por diez minutos. En caso de contravenir las disposiciones de la ley o el reglamento será llamado al orden por el presidente.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 8 DE MARZO DE 2011)</small>
+
 ###### Artículo 101.
 
-Concedido el uso de la palabra a un diputado, sólo podrá ser interrumpido por el presidente cuando:
+Concedido el uso de la palabra a un orador, sólo podrá ser interrumpido por el presidente cuando:
 
 I.- Se trate de una moción de orden a proposición de alguno de los diputados, para ajustar la sesión a las disposiciones de la ley o el reglamento;
 
@@ -1081,13 +1107,17 @@ IV.- Se exceda del tiempo que le hubiese sido concedido;
 
 V.- Le sea solicitada una explicación pertinente.
 
+> <small>(REFORMADO, G.G. 8 DE MARZO DE 2011)</small>
+
 ###### Artículo 102.
 
-Cuando algún miembro de la Asamblea solicite del diputado en uso de la palabra una explicación pertinente, deberá dirigirse al presidente, quien consultará al orador si acepta la solicitud, en caso afirmativo se escuchará al interpelante y la respuesta será dirigida a la Asamblea; de no aceptarla, continuará el orador en uso de la palabra.
+Cuando algún miembro de la Asamblea solicite del orador en uso de la palabra una explicación pertinente, deberá dirigirse al presidente, quien consultará al primero si acepta la solicitud, en caso afirmativo se escuchará al interpelante y la respuesta será dirigida a la Asamblea; de no aceptarla, continuará el orador en uso de la palabra.
+
+> <small>(REFORMADO, G.G. 8 DE MARZO DE 2011)</small>
 
 ###### Artículo 103.
 
-Los diputados podrán solicitar a la presidencia el uso de la palabra hasta por diez minutos, para referirse a hechos relacionados con algún asunto tratado por el diputado orador o para contestar alusiones personales; concluida la intervención se proseguirá con la lista de oradores.
+Los diputados podrán solicitar a la presidencia el uso de la palabra hasta por diez minutos, para referirse a hechos relacionados con algún asunto tratado por el orador o para contestar alusiones personales; concluida la intervención se proseguirá con la lista de oradores.
 
 ###### Artículo 104.
 
@@ -1571,7 +1601,7 @@ Artículo 152 BIS.- El titular de la Biblioteca Legislativa "Dr. José Maria Lui
 
 > <small>(ADICIONADO, G.G. 18 DE AGOSTO DE 2010)</small>
 
-Artículo 152 TER.- La Biblioteca Legislativa "Dr. José María Luis Mora", para la consecución de sus fines, podrá celebrar convenios con instituciones homólogas o cualquier otra que por su naturaleza coincida en sus propósitos. Dichos convenios deberán ser ratificados por la Junta de Coordinación Política.
+Artículo 152 TER.- La Biblioteca Legislativa "Dr. José Maria Luis Mora", para la consecución de sus fines, podrá celebrar convenios con instituciones homólogas o cualquier otra que por su naturaleza coincida en sus propósitos. Dichos convenios deberán ser ratificados por la Junta de Coordinación Política.
 
 > <small>(ADICIONADO, G.G. 18 DE AGOSTO DE 2010)</small>
 
@@ -2252,6 +2282,12 @@ SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicac
 TERCERO.- En un plazo no mayor a treinta días, contados a partir de la publicación del presente Decreto, la Junta de Coordinación Política, a propuesta de su Presidente, designará a quien ocupará el cargo de Cronista Legislativo.
 
 G.G. 3 DE MARZO DE 2011.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 8 DE MARZO DE 2011.
 
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
