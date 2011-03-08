@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2010-12-24"
+last_updated: "2011-03-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO ADMINISTRATIVO DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 8 DE MARZO DE 2011.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -2310,6 +2310,10 @@ III. Evitar que se sirvan o expendan bebidas adulteradas, alteradas o contaminad
 IV. Cumplir con los horarios autorizados para la venta, expendio o consumo de bebidas alcohólicas; y
 
 V. Informar a sus clientes sobre los efectos nocivos del abuso en el consumo de alcohol.
+
+> <small>(ADICIONADA, G.G. 8 DE MARZO DE 2011)</small>
+
+VI. Contar con instrumentos que permitan a los clientes que así lo soliciten cuantificar la concentración de alcohol en la sangre a través del aliento espirado, con el objeto principalmente de contribuir al consumo moderado y la prevención de accidentes.
 
 ###### Artículo 2.
 
@@ -7843,7 +7847,7 @@ II. Los proyectos integrales o comúnmente denominados llave en mano, en los cua
 
 III. Los trabajos de exploración, localización y perforación; mejoramiento del suelo y/o subsuelo; desmontes y extracción y aquellos similares que tengan por objeto la explotación y desarrollo de los recursos naturales que se encuentran en el suelo y/o subsuelo;
 
-IV. Los trabajos de infraestructura agropecuaria e hidroagrícola:
+IV. Los trabajos de infraestructura agropecuaria e hidroagrícola;
 
 V. La instalación, montaje, colocación y/o aplicación, incluyendo las pruebas de operación de bienes muebles que deban incorporarse, adherirse o destinarse a un inmueble, siempre que dichos muebles sean proporcionados por la convocante al contratista o bien, cuando su adquisición esté incluida en los trabajos que se contraten y su precio sea menor al de estos últimos;
 
@@ -12608,3 +12612,11 @@ DECRETO NUMERO 257, POR EL QUE SE REFORMA EL ARTICULO 15.3, LAS FRACCIONES I, II
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 8 DE MARZO DE 2011.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+TERCERO.- En un plazo no mayor a seis meses, contados a partir de la publicación del presente Decreto, los 125 Ayuntamientos de los municipios del Estado de México, harán las debidas adecuaciones en sus respectivos bandos municipales y demás disposiciones reglamentarias de conformidad con el presente Decreto.
