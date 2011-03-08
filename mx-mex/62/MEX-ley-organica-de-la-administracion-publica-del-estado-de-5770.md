@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-de-la-administracion-publica-del-estado-de-5770"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1981-09-17"
-last_updated: "2010-11-04"
+last_updated: "2011-03-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5770&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 4 DE NOVIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 8 DE MARZO DE 2011.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el jueves 17 de septiembre de 1981.
 
@@ -859,9 +859,13 @@ XXIV. Establecer, promover y fomentar los planes y programas educativos, materia
 
 XXV. Fomentar en su esfera de competencia la sana alimentación y activación física de la población escolar del sistema educativo del Estado de México, con especial énfasis en el cuidado de los alimentos que se expenden en las escuelas públicas y privadas de educación básica, aplicando la reglamentación conducente. La Secretaría de Educación se coordinará con la Secretaría de Salud y demás dependencias y organismos que tengan intervención en la materia, pudiendo establecer los convenios respectivos con los municipios de la Entidad.
 
+> <small>(ADICIONADA, G.G. 8 DE MARZO DE 2011)</small>
+
+XXVI. Promover la transformación de las guarderías y de las escuelas del sistema tradicional por turno, en guarderías y escuelas de tiempo completo, según población objetivo, cuando lo permitan la capacitación del personal docente, las condiciones presupuestales y la infraestructura física educativa.
+
 > <small>(REFORMADA, G.G. 12 DE MAYO DE 2010)</small>
 
-XXVI. Las demás que señalen las leyes y reglamentos vigentes en el Estado.
+XXVII. Las demás que señalen las leyes y reglamentos vigentes en el Estado.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.G. 8 DE DICIEMBRE DE 2005)</small>
 
@@ -1960,6 +1964,12 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
 TERCERO.- La Secretaría de Finanzas del Gobierno del Estado de México, solicitará al área correspondiente del Gobierno del Estado, expida y envié a la Legislatura en un plazo máximo de treinta días a partir de su entrada en vigor del presente Decreto, el Reglamento de Operación del Fondo para la Atención a los Desastres y Siniestros Ambientales, que se estable en el Libro Sexto del Código Administrativo del Estado de México.
+
+G.G. 8 DE MARZO DE 2011.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 158 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES, LA LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL Y DE PARTICIPACIÓN CIUDADANA, LA LEY ORGÁNICA DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS, LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA, LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA Y LA LEY DE GOBIERNO MUNICIPAL, TODAS DEL ESTADO DE SINALOA”.]
 
