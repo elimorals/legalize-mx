@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-sesiones-y-funcionamiento-de-las-comisiones-62152
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-08-13"
-last_updated: "2008-08-13"
+last_updated: "2011-03-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62152&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2008-07-10"
 
 REGLAMENTO DE SESIONES Y FUNCIONAMIENTO DE LAS COMISIONES DE VIGILANCIA DEL REGISTRO FEDERAL DE ELECTORES
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTICULO PRIMERO DEL REGLAMENTO DE SESIONES Y FUNCIONAMIENTO DE LAS COMISIONES DE VIGILANCIA DEL REGISTRO FEDERAL DE ELECTORES, PUBLICADO EN EL D.O.F. DE 8 DE MARZO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 13 de agosto de 2008
 
@@ -788,3 +790,27 @@ El Secretario Ejecutivo dispondrá a la brevedad posible, la edición del númer
 ###### ARTICULO QUINTO.
 
 Toda referencia al Comité se entenderá formulada al Comité Nacional de Supervisión y Evaluación.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 8 DE MARZO DE 2011.
+
+###### ARTICULO PRIMERO.
+
+El Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, quedando abrogado con ello, el Reglamento de Sesiones y Funcionamiento de las Comisiones aprobado el 10 de julio de 2008.
+
+###### ARTICULO SEGUNDO.
+
+Los acuerdos emitidos en materia del Registro Federal de Electores seguirán siendo aplicables. Sólo se entenderá derogada aquella normatividad que se oponga al Reglamento.
+
+###### ARTICULO TERCERO.
+
+La Junta General Ejecutiva del Instituto dispondrá lo necesario para la realización de las actividades que se deriven de la aprobación del Reglamento.
+
+###### ARTICULO CUARTO.
+
+Los Representantes Propietarios de los partidos políticos ante la Comisión Nacional a más tardar el 28 de febrero de 2011, deberán acreditar a sus Representantes propietario y suplente para cada uno de los Grupos, asimismo el Presidente designará a los coordinadores correspondientes siendo estos, preferentemente, los titulares de las áreas.
+
+###### ARTICULO QUINTO.
+
+La Dirección Ejecutiva presentará a la Comisión Nacional en la sesión inmediata posterior a la aprobación del presente Reglamento un informe detallado de los Acuerdos y compromisos, en estado pendiente o en trámite del Comité Nacional de Supervisión y Evaluación para su asignación a los Grupos de Trabajo en el ámbito de sus competencias.
