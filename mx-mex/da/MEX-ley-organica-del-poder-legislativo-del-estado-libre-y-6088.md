@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-del-poder-legislativo-del-estado-libre-y-6088"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-09-15"
-last_updated: "2011-03-03"
+last_updated: "2011-03-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6088&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE MARZO DE 2011.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 8 DE MARZO DE 2011.
 
 Ley publicada en la Tercera Sección de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -375,7 +375,7 @@ La Directiva de la Legislatura estará integrada por un presidente, dos vicepres
 
 > <small>(REFORMADO, G.G. 30 DE ABRIL DE 2004)</small>
 
-El Presidente será electo para todo el periodo ordinario de sesiones, los demás integrantes de la Directiva serán electos mensualmente. La elección se llevará a cabo mediante votación secreta. El Presidente fungirá en su encargo por todo el periodo ordinario de sesiones, los demás integrantes fungirán por un mes. El Presidente no podrá ser electo para ocupar igual cargo durante el periodo de sesiones siguiente. Las mismas disposiciones regirán en la elección de la Directiva de los periodos extraordinarios.
+El Presidente será electo para todo el periodo ordinario de sesiones, los demás integrantes de la Directiva serán electos mensualmente. La elección se llevará a cabo mediante votación secreta. El Presidente fungirá en su encargo por todo el período ordinario de sesiones, los demás integrantes fungirán por un mes. El Presidente no podrá ser electo para ocupar igual cargo durante el período de sesiones siguiente. Las mismas disposiciones regirán en la elección de la directiva de los períodos extraordinarios.
 
 El Presidente de la Directiva, lo será también de la Legislatura.
 
@@ -437,7 +437,9 @@ VIII. Acordar el trámite de los asuntos que se sometan a la consideración de l
 
 IX. Someter a discusión los dictámenes que presenten las comisiones y, en su caso, las iniciativas que, con carácter de preferente, hubiere presentado el Gobernador del Estado y que no hubieren sido dictaminadas por las comisiones respectivas dentro del plazo constitucional;
 
-X. Conceder el uso de la palabra a los diputados;
+> <small>(REFORMADA, G.G. 8 DE MARZO DE 2011)</small>
+
+X. Conceder el uso de la palabra a los diputados y, en su caso, al Gobernador del Estado o a las autoridades a quienes la Constitución otorga el derecho de iniciativa, o bien a los representantes que éstos hubieren designado, para participar en la discusión del dictamen de las que hubieren presentado y de las que estén relacionadas con su ámbito competencial;
 
 XI. Requerir a los diputados que sin causa justificada falten a las sesiones para que asistan y en su caso, aplicar las sanciones que correspondan;
 
@@ -735,13 +737,17 @@ XII.- (DEROGADA, G.G. 13 DE MAYO DE 2010)
 
 XIII.- Solicitar por conducto de su Presidente, la información necesaria o la presencia de funcionarios públicos, para el estudio de iniciativas de ley o decreto, en sus respectivas competencias;
 
+> <small>(ADICIONADA, G.G. 8 DE MARZO DE 2011)</small>
+
+XIV.- Recibir la solicitud del Gobernador del Estado y de las autoridades a quienes la Constitución otorga el derecho de iniciativa, para participar en el análisis que realicen las comisiones sobre las iniciativas que hubieren presentado y las que estén vinculadas con su ámbito competencial, así como en la discusión de los dictámenes respectivos. La Junta de Coordinación Política propondrá a la Asamblea, en su caso, el formato de la sesión del Pleno en la que los mismos hayan de discutirse;
+
 > <small>(ADICIONADA, G.G. 21 DE JULIO DE 2006)</small>
 
-XIV.- Proponer a la Asamblea, a más tardar en el mes de noviembre, el Tabulador de Remuneraciones de los servidores públicos del Poder Legislativo que deberá regir durante el siguiente ejercicio fiscal, de conformidad con el Catálogo General de Puestos y apegado a los criterios establecidos por la Ley; y
+XV.- Proponer a la Asamblea, a más tardar en el mes de noviembre, el Tabulador de Remuneraciones de los servidores públicos del Poder Legislativo que deberá regir durante el siguiente ejercicio fiscal, de conformidad con el Catálogo General de Puestos y apegado a los criterios establecidos por la Ley; y
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 21 DE JULIO DE 2006)</small>
 
-XV. Las demás que le confieran la ley, el reglamento o la Asamblea.
+XVI. Las demás que le confieran la ley, el reglamento o la Asamblea.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.G. 30 DE ABRIL DE 2004)</small>
 
@@ -759,9 +765,9 @@ La Conferencia para la Dirección y Programación de los Trabajos Legislativos e
 
 1. El Presidente de la Junta de Coordinación Política presidirá la Conferencia para la Dirección y Programación de los Trabajos Legislativos y supervisará el cumplimiento de sus acuerdos a través de la Secretaría de Asuntos Parlamentarios.
 
-> <small>(REFORMADO, G.G. 30 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 8 DE MARZO DE 2011)</small>
 
-2. En cada una de sus sesiones, la Conferencia para la Dirección y Programación de los Trabajos Legislativos, deberá determinar los puntos a tratar en el orden del día de la sesión de la Legislatura, en su caso, la propuesta de turno a la comisión o comisiones que corresponda a cada uno de los puntos a tratar en dicho orden del día, proponer a la Legislatura o a la Diputación Permanente la dispensa de trámite de las iniciativas de ley o decreto, establecer los formatos de debate y los calendarios para el examen de los dictámenes por parte del Pleno de la Legislatura.
+2. En cada una de sus sesiones, la Conferencia para la Dirección y Programación de los Trabajos Legislativos, deberá determinar los puntos a tratar en el orden del día de la sesión de la Legislatura, en su caso, la propuesta de turno a la comisión o comisiones que corresponda a cada uno de los puntos a tratar en dicho orden del día, proponer a la Legislatura o a la Diputación Permanente la dispensa de trámite de las iniciativas de ley o decreto, establecer los formatos de debate y los calendarios para el examen de los dictámenes por parte del Pleno de la Legislatura. Esos últimos se harán del conocimiento del Gobernador del Estado y de las autoridades a quienes la Constitución otorga el derecho de iniciativa, al menos dos días antes de que hayan de celebrarse dichas sesiones, para que, de ser el caso, puedan participar de su discusión.
 
 > <small>(ADICIONADO, G.G. 3 DE MARZO DE 2011)</small>
 
@@ -1267,6 +1273,10 @@ Tratándose de asuntos calificados como urgentes o de obvia resolución, la Legi
 
 La Comisión o Comisiones a las que sean remitidas las iniciativas o asuntos presentados a la Legislatura, harán llegar su dictamen al Presidente dentro de los treinta días hábiles siguientes de haberlas recibido, para el efecto de su presentación a la Asamblea; si esto no fuere posible, deberán solicitar a la Presidencia una prórroga que les será concedida hasta por igual término y por una sola vez, salvo que por acuerdo de la Asamblea se les conceda un plazo mayor. Si en el plazo señalado no presentan el dictamen, el Presidente nombrará una comisión especial para que dictamine en el término improrrogable de 10 días. Cuando las leyes establezcan plazos, las Comisiones se sujetarán a ellos.
 
+> <small>(ADICIONADO, G.G. 8 DE MARZO DE 2011)</small>
+
+Las comisiones darán participación a las autoridades a quienes la Constitución otorga el derecho de iniciativa, o a los representantes que éstas designen para tal fin, en el análisis de las iniciativas que hubieren presentado o de las que estén relacionadas con su ámbito competencial, en los términos del reglamento.
+
 ###### Artículo 85.
 
 La Asamblea conocerá de los asuntos que se sometan a su consideración, al ser incluidos en el orden del día aprobado.
@@ -1433,7 +1443,7 @@ Para los casos de suspensión de ayuntamientos, declarar que éstos han desapare
 
 ###### Artículo 104.
 
-La Comisión de Instrucción y Dictamen se integrará por seis diputados que serán dos de la Junta de Coordinación Política, los Presidentes de las comisiones de Gobernación y Puntos Constitucionales; y de Procuración y Administración de Justicia, un diputado de la primera minoría y uno de la segunda a propuesta de los grupos parlamentarios respectivos.
+La Comisión de Instrucción y Dictamen se integrará por seis diputados que serán dos de la Junta de Coordinación Política, los Presidentes de las comisiones de Gobernación y Puntos Constitucionales, y de Procuración y Administración de Justicia, un diputado de la primera minoría y uno de la segunda a propuesta de los grupos parlamentarios respectivos.
 
 ###### Artículo 105.
 
@@ -1858,6 +1868,12 @@ SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicac
 TERCERO.- En un plazo no mayor a treinta días, contados a partir de la publicación del presente Decreto, la Junta de Coordinación Política, a propuesta de su Presidente, designará a quien ocupará el cargo de Cronista Legislativo.
 
 G.G. 3 DE MARZO DE 2011.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 8 DE MARZO DE 2011.
 
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
