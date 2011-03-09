@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-educacion-del-estado-de-nayarit-6855"
 country: "mx"
 rank: "ley"
 publication_date: "1994-07-13"
-last_updated: "2008-12-20"
+last_updated: "2011-03-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6855&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE EDUCACION DEL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE MARZO DE 2011.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el miércoles 13 de julio de 1994.
 
@@ -59,17 +59,19 @@ Todo individuo tiene derecho a recibir educación, con solo satisfacer los requi
 
 El proceso educativo deberá asegurar en el educando su sentido de responsabilidad social para lograr los fines a que se refiere el Artículo 6º. de esta Ley
 
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2011)</small>
+
 ###### ARTICULO 4o.
 
-El Estado impartirá Educación Inicial, Preescolar, Primaria, Secundaria, Especial, Normal, Media Superior y Superior, así como Indígena, Educación Física, Artística y Extraescolar, y es obligación de los padres o tutores hacer que sus hijos o pupilos menores de edad, cursen la Primaria y Secundaria
+El Estado impartirá Educación Inicial, Preescolar, Primaria, Secundaria, Especial, Normal, Media Superior y Superior, así como Indígena, Educación Física, Artística y Extraescolar, y es obligación de los padres o tutores hacer que sus hijos o pupilos menores de edad, cursen la educación Preescolar, Primaria y Secundaria.
 
 ###### ARTICULO 5o.
 
 La educación Preescolar, Primaria y Secundaria que imparta el Estado y los Municipios, será gratuita, laica y obligatoria.
 
-La educación preescolar sólo será gratuita y laica.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 9 DE MARZO DE 2011)</small>
 
-Las donaciones que se hagan a las Instituciones Educativas, en ningún caso se entenderán como contraprestaciones del servicio educativo
+Las donaciones que se hagan a las Instituciones Educativas, en ningún caso se entenderán como contraprestaciones del servicio educativo.
 
 ###### ARTICULO 6o.
 
@@ -93,9 +95,11 @@ VIII.- Difundir el espíritu y la conciencia democrática como forma de conviven
 
 IX.- Practicar la solidaridad, la justicia y la paz universal, basadas en el reconocimiento y defensa de los derechos humanos, políticos, económicos y sociales.
 
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2011)</small>
+
 ###### ARTICULO 7o.
 
-Conforme al Artículo 11, fracción II, de la Ley General de Educación; la máxima autoridad educativa del Estado, será el Titular del Ejecutivo
+Conforme al Artículo 11, fracción II, de la Ley General de Educación; la máxima autoridad educativa del Estado, será el titular del Poder Ejecutivo.
 
 ### CAPITULO II. DEBERES Y ATRIBUCIONES DEL ESTADO
 
@@ -161,9 +165,11 @@ El Ejecutivo del Estado podrá modificar el Calendario Escolar fijado por la Sec
 
 Corresponde al Estado establecer las Normas y Procedimientos para evaluar los estudios realizados en la modalidad extraescolar, así como determinar su equivalencia con los estudios escolarizados dentro del Sistema Educativo Estatal.
 
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2011)</small>
+
 ###### ARTICULO 13.
 
-Los estudios realizados en otras entidades del País o en el Extranjero que sean compatibles con los Planes y Programas de Estudios vigentes en el Estado, deberán ser revalidados por la Secretaría de Educación y Cultura para su reconocimiento y validez oficial
+Los estudios realizados en otras entidades del País o en el Extranjero que sean compatibles con los Planes y Programas de Estudios vigentes en el Estado, deberán ser revalidados por las Secretarías de Educación Básica, o Educación Media Superior, Superior e Investigación Científica y Tecnológica, según corresponda, para su reconocimiento y validez oficial.
 
 ###### ARTICULO 14.
 
@@ -173,9 +179,11 @@ Los certificados y diplomas que extiendan las Autoridades de los Planteles Educa
 
 El personal de supervisión, directivo o docente que requiera el Sistema Educativo Estatal será nombrado por la Autoridad Educativa correspondiente. En la Educación Básica para la supervisión y dirección es requisito previo el dictamen escalafonario.
 
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2011)</small>
+
 ###### ARTICULO 16.
 
-El Ejecutivo del Estado promoverá la Coordinación de todas las entidades que integran el Sector Educativo de Nayarit, para la elaboración, aplicación, seguimiento y evaluación del Plan Estatal Educativo, acorde con el Plan Nacional y Local de Desarrollo
+El Ejecutivo del Estado promoverá la Coordinación de todas las entidades que integran el Sector Educativo de Nayarit, para la elaboración, aplicación, seguimiento y evaluación del Plan Estatal Educativo, acorde con el Plan Nacional y Estatal de Desarrollo.
 
 ###### ARTICULO 17.
 
@@ -191,7 +199,9 @@ El Sistema Educativo Estatal está constituido por los Servicios Educativos que 
 
 Los tipos educativos que conforman el Sistema Estatal, son los siguientes:
 
-I.- El tipo básico estará integrado por la educación preescolar, primaria y secundaria. La Educación Preescolar no constituye antecedente obligatorio para la Primaria;
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2011)</small>
+
+I.- El tipo básico estará integrado por la educación preescolar, primaria y secundaria;
 
 II.- El tipo medio superior está formado por los estudios de bachillerato, los estudios técnicos postsecundarios de carácter terminal y sus equivalentes;
 
@@ -209,9 +219,11 @@ Se consideran escolarizados los estudios que se impartan de manera sistemática 
 
 La Educación Inicial favorecerá el desarrollo de las capacidades físicas, cognoscitivas, afectivas y sociales del infante, y atenderá a niños menores de cuatro años de edad en Centros de Desarrollo Infantil. Esta Educación también comprende las guarderías y la orientación a padres de familia o tutores para la educación de sus hijos o pupilos.
 
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2011)</small>
+
 ###### ARTICULO 22.
 
-La Educación Preescolar, promoverá el desarrollo de la personalidad del niño, de su inteligencia, de su voluntad, su carácter y sus capacidades físicas, afectivas, estéticas y sociales.
+La Educación Preescolar es obligatoria, promoverá el desarrollo de la personalidad del niño, de su inteligencia, de su voluntad, su carácter y sus capacidades físicas, afectivas, estéticas y sociales.
 
 ###### ARTICULO 23.
 
@@ -341,7 +353,9 @@ El Sistema Estatal de Educación, impulsará la investigación educativa como fu
 
 Son derechos de los padres de familia o tutores:
 
-I.- Obtener inscripción en escuelas públicas para que sus hijos o pupilos menores de edad, que satisfagan los requisitos establecidos en la presente Ley, reciban la Educación Primaria y Secundaria;
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2011)</small>
+
+I.- Obtener inscripción en escuelas públicas para que sus hijos o pupilos menores de edad, que satisfagan los requisitos establecidos en la presente Ley, reciban la Educación Preescolar, Primaria y Secundaria;
 
 II.- Participar a las autoridades de la escuela en la que estén inscritos sus hijos o pupilos, cualquier problema relacionado con la educación de éstos, a fin de que aquellas se avoquen a su solución;
 
@@ -355,13 +369,15 @@ V.- Opinar, en los casos de la educación que impartan los particulares, en rela
 
 Son obligaciones de los padres de familia o tutores:
 
-I.- Hacer que sus hijos o pupilos en edad escolar reciban la educación primaria y la secundaria;
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2011)</small>
+
+I.- Hacer que sus hijos o pupilos en edad escolar reciban la educación preescolar, primaria y la secundaria;
 
 II.- Apoyar el proceso educativo de sus hijos o pupilos;
 
 III.- Participar en la aplicación de cooperaciones en numerario, bienes y servicios que las propias asociaciones deseen hacer al establecimiento escolar, y
 
-IV.- Informar a las Autoridades Educativas y Escolares sobre cualquier irregularidad de que sean objeto los educandos
+IV.- Informar a las Autoridades Educativas y Escolares sobre cualquier irregularidad de que sean objeto los educandos.
 
 ###### ARTICULO 51.
 
@@ -451,7 +467,9 @@ ARTICULO 60 A.- Se entiende por Infraestructura física educativa los muebles e 
 
 ARTICULO 60 B.- La aplicación y vigilancia del cumplimiento de las disposiciones en materia de infraestructura física educativa corresponde en el ámbito de sus respectivas competencias constitucionales y legales, a las siguientes autoridades:
 
-I.- El titular del Ejecutivo Estatal;
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2011)</small>
+
+I.- El titular del Poder Ejecutivo Estatal;
 
 II.- El Instituto Nayarita para la Infraestructura Física Educativa;
 
@@ -493,9 +511,11 @@ La revalidación o convalidación de estudios podrá otorgarse por niveles educa
 
 Las Autoridades Educativas del Estado otorgarán revalidaciones o convalidaciones únicamente cuando estén referidas a planes y programas de estudio autorizados por el Sistema Educativo Nacional.
 
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2011)</small>
+
 ###### ARTICULO 65.
 
-La Secretaría de Educación y Cultura, aplicará los procedimientos establecidos por la Secretaría de Educación Pública, para expedir certificados, constancias o diplomas a quienes acrediten conocimientos terminales que correspondan a cierto nivel académico o grado escolar, adquiridos en forma autodidacta o a través de la experiencia laboral.
+Las Secretarías de Educación Básica o de Educación Media Superior, Superior e Investigación Científica y Tecnológica, según corresponda, aplicarán los procedimientos establecidos por la Secretaría de Educación Pública, para expedir certificados, constancias o diplomas a quienes acrediten conocimientos terminales que correspondan a cierto nivel académico o grado escolar, adquiridos en forma autodidacta o a través de la experiencia laboral.
 
 > <small>(ADICIONADO [N. DE E. REUBICADO, ANTES CAPITULO VIII], P.O. 20 DE DICIEMBRE DE 2008)</small>
 
@@ -696,3 +716,9 @@ P.O. 20 DE DICIEMBRE DE 2008.
 Artículo Primero.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el periódico oficial, Órgano de Gobierno del Estado.
 
 Artículo Segundo.- Dentro de los 60 días siguientes a la publicación del presente decreto, el Titular del Poder Ejecutivo deberá crear el Instituto Nayarita de la Infraestructura Física Educativa, dotándolo de los instrumentos jurídicos necesarios para ser la principal instancia rectora en materia de infraestructura física educativa en la entidad.
+
+P.O. 9 DE MARZO DE 2011.
+
+Artículo primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+Artículo segundo.- Tratándose de las disposiciones contenidas en los artículos 4, 5, 19 fracción I, 22, 49 fracción I y 50 fracción I, deberán ser observadas y aplicadas por las autoridades en materia educativa para el inicio del próximo año lectivo.
