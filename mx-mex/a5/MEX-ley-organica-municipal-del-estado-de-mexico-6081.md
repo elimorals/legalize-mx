@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2010-12-24"
+last_updated: "2011-03-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA MUNICIPAL DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 9 DE MARZO DE 2011.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -557,6 +557,22 @@ Las sesiones de los ayuntamientos serán públicas, salvo que exista motivo que 
 
 Las sesiones de los ayuntamientos se celebrarán en la sala de cabildos; y cuando la solemnidad del caso lo requiera, en el recinto previamente declarado oficial para tal objeto.
 
+> <small>(ADICIONADO, G.G. 9 DE MARZO DE 2011)</small>
+
+Para la celebración de las sesiones se deberá contar con un orden del día que contenga como mínimo:
+
+a) Lista de Asistencia y en su caso declaración del quórum legal;
+
+b) Lectura, discusión y en su caso aprobación del acta de la sesión anterior;
+
+c) Aprobación del orden del día;
+
+d) Presentación de asuntos y turno a Comisiones;
+
+e) Lectura, discusión y en su caso, aprobación de los acuerdos; y
+
+f) Asuntos generales.
+
 Cuando asista público a las sesiones observará respeto y compostura, cuidando quien las presida que por ningún motivo tome parte en las deliberaciones del ayuntamiento, ni exprese manifestaciones que alteren el orden en el recinto.
 
 Quien presida la sesión hará preservar el orden público, pudiendo ordenar al infractor abandonar el salón o en caso de reincidencia remitirlo a la autoridad competente para la sanción procedente.
@@ -574,6 +590,28 @@ Las sesiones del ayuntamiento serán presididas por el presidente municipal o po
 > <small>(ADICIONADO, G.G. 25 DE AGOSTO DE 2009)</small>
 
 Todos los acuerdos de las sesiones públicas que no contengan información clasificada y el resultado de su votación, serán difundidos por lo menos cada tres meses en la Gaceta Municipal, así como los datos de identificación de las actas que contengan acuerdos de sesiones privadas o con información clasificada, incluyendo en cada caso, la causa que haya calificado privada la sesión, o el fundamento legal que clasifica la información.
+
+> <small>(ADICIONADO, G.G. 9 DE MARZO DE 2011)</small>
+
+Para cada sesión se deberá contar con una versión estenográfica que permita hacer las aclaraciones pertinentes, la cual formará parte del Acta correspondiente.
+
+> <small>(ADICIONADO, G.G. 9 DE MARZO DE 2011)</small>
+
+###### Artículo 30 Bis.
+
+El Ayuntamiento, para atender y en su caso resolver los asuntos de su competencia, funcionará en Pleno y mediante Comisiones.
+
+Asimismo, en el ejercicio de sus atribuciones se apegará a su Reglamento Interior, el cual deberá aprobarse en términos del artículo 27 de la presente Ley.
+
+El Reglamento Interior del Ayuntamiento y las demás disposiciones reglamentarias municipales deberán ajustarse a los siguientes criterios:
+
+a) Flexibilidad y Adaptabilidad.- Se debe prever la posibilidad de que el Reglamento se adapte a las condiciones sociopolíticas, culturales, e históricas del municipio, para resolver de manera pronta y expedita los requerimientos de la comunidad.
+
+b) Claridad.- Para su correcta y eficiente aplicación, el Reglamento debe ser claro y preciso, omitiendo toda ambigüedad en su lenguaje.
+
+c) Simplificación.- Debe ser conciso, atendiendo únicamente al tema que trate su materia.
+
+d) Justificación Jurídica.- La reglamentación municipal solamente debe referirse a las materias permitidas por la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de México y las Leyes Federales y Estatales que de ellas emanen.
 
 ### CAPITULO TERCERO. Atribuciones de los Ayuntamientos
 
@@ -641,7 +679,7 @@ XX. Autorizar la contratación de empréstitos, en términos de la Ley de Deuda 
 
 XXI. Formular, aprobar y ejecutar los planes de desarrollo municipal y los Programas correspondientes;
 
-(ADICIONADA, G.G. 3 DE SEPTIEMBRE DE 2010) (F. DE E., G.G. 1 DE OCTUBRE DE 2010)
+(ADICIONADA, G.G. 3 DE SEPTIEMBRE DE 2010) (F. DE E.,G.G. 1 DE OCTUBRE DE 2010)
 
 XXI Bis. Promover políticas públicas apoyadas en sistemas de financiamiento, cooperación y coordinación, que procuren el acceso a las tecnologías de la información y comunicación, específicamente servicios de acceso a internet, como un servicio gratuito, considerando para ello las características socioeconómicas de la población.
 
@@ -3110,3 +3148,11 @@ G.G. 24 DE DICIEMBRE DE 2010.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
 SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 9 DE MARZO DE 2011.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor, el día siguiente al de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+TERCERO.- Este Decreto aplicará para los próximos Ayuntamientos electos en 2012.
