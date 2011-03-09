@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-entidades-paraestatales-del-estado-de-puebla-37228"
 country: "mx"
 rank: "ley"
 publication_date: "2003-12-19"
-last_updated: "2003-12-19"
+last_updated: "2011-03-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37228&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE ENTIDADES PARAESTATALES DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE MARZO DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Puebla, el Viernes 19 de diciembre de 2003.
 
@@ -125,13 +125,17 @@ Las Entidades Paraestatales estarán obligadas a proporcionar a sus homólogas y
 
 Las Entidades Paraestatales gozarán de autonomía de gestión, para el cabal cumplimiento de los objetivos y metas señaladas en sus programas. Al efecto, contarán con una administración ágil y eficiente y se sujetarán a los sistemas de supervisión, evaluación y control establecidos en la presente Ley y demás legislación aplicable.
 
+REFORMADO, P.O. 9 DE MARZO DE 2011)
+
 ###### ARTÍCULO 6.
 
-En materia de presupuesto, recursos, bienes, etc., las Entidades Paraestatales se sujetarán a los lineamientos y normatividad que al respecto establezca la Secretaría de Finanzas y Administración.
+En materia de presupuesto, recursos, bienes y demás, las Entidades Paraestatales se sujetarán a los lineamientos y normatividad que al respecto establezcan las Secretarías de Finanzas y de Administración.
+
+REFORMADO PRIMER PARRAFO, P.O. 9 DE MARZO DE 2011)
 
 ###### ARTÍCULO 7.
 
-El Titular del Poder Ejecutivo del Estado, establecerá agrupamientos de Entidades Paraestatales en sectores definidos; por lo que el Instrumento de creación de tales organismos, deberá especificar sus correspondiente sectorización, a fin de que las relaciones con el propio Ejecutivo, se realicen a través de la Dependencia de la Administración Pública Centralizada, que en cada caso designe como Coordinadora de Sector, cuyas atribuciones, funciones y objetivos sean afines.
+El Titular del Poder Ejecutivo del Estado, establecerá agrupamientos de Entidades Paraestatales en sectores definidos; por lo que el Instrumento de creación de tales organismos, podrá especificarse su correspondiente sectorización, a fin de que las relaciones con el propio Ejecutivo, se realicen a través de la Dependencia de la Administración Pública Centralizada, que en cada caso designe como Coordinadora de Sector, cuyas atribuciones, funciones y objetivos sean afines. A efecto de agilizar el funcionamiento de las Entidades Paraestatales, el Titular del Poder Ejecutivo del Estado podrá exceptuar mediante Acuerdo la sectorización de aquellas Entidades Paraestatales, cuando por motivo de su función así se requiera.
 
 Corresponderá al Titular de la Dependencia Coordinadora de Sector, establecer políticas de desarrollo y coordinar la programación y presupuestación, de conformidad con las asignaciones sectoriales de gasto-financiamiento, previamente establecidas y autorizadas; así como conocer la operación, evaluar los resultados y participar en los Órganos de Gobierno o administración de las entidades agrupadas en el sector a su cargo.
 
@@ -153,7 +157,9 @@ I.- La denominación del Organismo;
 
 II.- Su naturaleza jurídica, atendiendo a lo que dispone la Ley Orgánica de la Administración Pública Estatal;
 
-III.- Dependencia a la cual se sectorizará;
+REFORMADO, P.O. 9 DE MARZO DE 2011)
+
+III.- Dependencia a la cual se sectorizará o, en su caso, si estará sectorizada al Gobernador del Estado;
 
 IV.- El domicilio legal del mismo;
 
@@ -243,9 +249,11 @@ V.- Otorgar, sustituir y revocar, previa autorización de su Órgano de Gobierno
 
 Los Directores Generales ejercerán las facultades a que se refieren las fracciones anteriores, bajo su más estricta responsabilidad, informando siempre de ello al Órgano de Gobierno, dentro de las limitaciones que señale el Decreto de creación y en su caso, el Reglamento Interior del Organismo.
 
+REFORMADO, P.O. 9 DE MARZO DE 2011)
+
 ###### ARTÍCULO 18.
 
-El Director General, para el eficaz cumplimiento de sus atribuciones se auxiliará de los servidores públicos que requiera y le sean autorizados por su Órgano de Gobierno, conforme al Presupuesto de Egresos y a la estructura orgánica validada por la Secretaría de Desarrollo, Evaluación y Control de la Administración Pública.
+El Director General, para el eficaz cumplimiento de sus atribuciones, se auxiliará de los servidores públicos que requiera y le sean autorizados por su Órgano de Gobierno, conforme al Presupuesto de Egresos y a la estructura orgánica validada por la Secretaría de la Contraloría.
 
 ###### ARTÍCULO 19.
 
@@ -289,9 +297,11 @@ Las resoluciones se tomarán por mayoría de los miembros presentes, teniendo el
 
 Los directores general (sic) o sus equivalentes de las empresas de participación estatal mayoritaria, sin perjuicio de las facultades y obligaciones que se les atribuyan en los estatutos de la Empresa y la legislación aplicable, tendrán las que se mencionan en el artículo 52 de este Ordenamiento.
 
+REFORMADO PRIMER PARRAFO, P.O. 9 DE MARZO DE 2011)
+
 ###### ARTÍCULO 26.
 
-Cuando alguna empresa de participación estatal mayoritaria no cumpla con su objeto o ya no resulte conveniente conservarla como tal, desde el punto de vista del interés público, presupuestal y financiero, las Secretarías de Desarrollo, Evaluación y Control de la Administración Pública; y de Finanzas y Administración, propondrán al Ejecutivo del Estado la enajenación de la participación estatal o en su caso su disolución o liquidación.
+Cuando alguna empresa de participación estatal mayoritaria no cumpla con su objeto o ya no resulte conveniente conservarla como tal, desde el punto de vista del interés público, presupuestal y financiero, las Secretarías de la Contraloría y de Finanzas, propondrán al Ejecutivo del Estado la enajenación de la participación estatal, o en su caso su disolución o liquidación.
 
 Para la enajenación de los títulos representativos del capital correspondiente al Gobierno del Estado, se procederá en los términos del artículo 60 de esta Ley.
 
@@ -301,7 +311,9 @@ En los casos en que se acuerde la enajenación, en igual de condiciones y respet
 
 La fusión o disolución de las empresas de participación estatal mayoritaria se efectuará conforme a los lineamientos o disposiciones establecidos en los estatutos de la Empresa y legislación aplicable.
 
-Las Secretarías de Desarrollo, Evaluación y Control de la Administración Pública; y de Finanzas y Administración, de manera conjunta intervendrán a fin de señalar la forma y términos en que deba efectuarse la fusión o la disolución, debiendo cuidar en todo tiempo la adecuada protección de los intereses del público, de los accionistas o titulares de las acciones o partes sociales, y los derechos laborales de los servidores públicos de la Empresa.
+REFORMADO, P.O. 9 DE MARZO DE 2011)
+
+Las Secretarías de la Contraloría y de Finanzas, de manera conjunta intervendrán a fin de señalar la forma y términos en que deba efectuarse la fusión o la disolución, debiendo cuidar en todo tiempo la adecuada protección de los intereses del público, de los accionistas o titulares de las acciones o partes sociales, y los derechos laborales de los servidores públicos de la Empresa.
 
 ### CAPÍTULO IV. DE LOS FIDEICOMISOS PÚBLICOS
 
@@ -311,25 +323,33 @@ Los fideicomisos públicos serán creados por Decreto del Titular del Ejecutivo 
 
 Corresponderá al Titular del Ejecutivo del Estado la designación del Director General.
 
+REFORMADO PRIMER PARRAFO, P.O. 9 DE MARZO DE 2011)
+
 ###### ARTÍCULO 29.
 
-Solo se podrán constituir, incrementar el patrimonio o extinguir fideicomisos, con autorización del Ejecutivo del Estado, por conducto de la Secretaría, en los términos de las disposiciones aplicables.
+Sólo se podrán constituir, incrementar el patrimonio o extinguir fideicomisos, con autorización del Ejecutivo del Estado, por conducto de la Secretaría de Finanzas, en los términos de las disposiciones aplicables.
 
 Previo a la constitución de fideicomisos, las dependencias y entidades deberán:
 
-I.- Acordar con la Secretaría de Finanzas y Administración la forma en la que se integrará el patrimonio del fideicomiso; y
+REFORMADA, P.O. 9 DE MARZO DE 2011)
+
+I.- Acordar con la Secretaría de Finanzas la forma en la que se integrará el patrimonio del fideicomiso; y
 
 II.- Disponer lo necesario para que con cargo a su presupuesto, se cubran los gastos que se generen con motivo de la constitución del fideicomiso.
 
+REFORMADO, P.O. 9 DE MARZO DE 2011)
+
 ###### ARTÍCULO 30.
 
-Una vez constituido un fideicomiso se inscribirá en el registro que para tal efecto lleve la Secretaría de Finanzas y Administración.
+Una vez constituido un fideicomiso se inscribirá en el registro que para tal efecto lleve la Secretaría de Finanzas.
 
-Asimismo, en caso de modificaciones al contrato constitutivo del fideicomiso, a su patrimonio o cualquier otra variación que se pretenda llevar a cabo, se deberá informara la Secretaría de Finanzas y Administración y a la Secretaría de Desarrollo, Evaluación y Control de la Administración Pública en el ámbito de sus respectivas atribuciones.
+Asimismo, en caso de modificaciones al contrato constitutivo del fideicomiso, a su patrimonio o cualquier otra variación que se pretenda llevar a cabo, se deberá informar a la Secretaría de Finanzas y a la Secretaría de la Contraloría en el ámbito de sus respectivas atribuciones.
+
+REFORMADO PRIMER PARRAFO, P.O. 9 DE MARZO DE 2011)
 
 ###### ARTÍCULO 31.
 
-El Titular del Poder Ejecutivo del Estado a través de la Secretaría de Finanzas y Administración será el fideicomitente único por el Gobierno del Estado, vigilando que en los contratos queden debidamente precisados:
+El Titular del Poder Ejecutivo del Estado a través de la Secretaría de Finanzas, será el fideicomitente único por el Gobierno del Estado, vigilando que en los contratos queden debidamente precisados:
 
 I.- Los derechos y acciones que corresponda ejercitar al fiduciario sobre los bienes fideicomitidos;
 
@@ -339,9 +359,11 @@ III.- Los derechos que el fideicomitente se reserve; y
 
 IV.- Las facultades que fije, en su caso, al Comité Técnico, el cual deberá existir obligadamente en los fideicomisos considerados Entidades Paraestatales.
 
+REFORMADO, P.O. 9 DE MARZO DE 2011)
+
 ###### ARTÍCULO 32.
 
-Los fideicomisos públicos deberán contar un Comité Técnico y se integrarán con la autorización del Gobernador del Estado, debiendo formar parte de ellos, al menos, un representante de la Secretaría de Finanzas y Administración y uno de la Secretaría de Desarrollo, Evaluación y Control de la Administración Pública.
+Los fideicomisos públicos deberán contar con un Comité Técnico y se integrarán con la autorización del Gobernador del Estado, debiendo formar parte de ellos, al menos, un representante de la Secretaría de Finanzas y uno de la Secretaría de la Contraloría.
 
 ###### ARTÍCULO 33.
 
@@ -353,7 +375,9 @@ La institución fiduciaria deberá abstenerse de cumplir las resoluciones que el
 
 En los contratos constitutivos de fideicomisos del Poder Ejecutivo, se deberá reservar el Estado, la facultad expresa de revocarlos, sin perjuicio de los derechos que correspondan a los fideicomisarios, o a terceros, salvo que se trate de fideicomisos constituidos por mandato de la Ley o que la naturaleza de sus fines no lo permita.
 
-Queda a cargo de la Secretaría de Desarrollo, Evaluación y Control de la Administración Pública, en coordinación con la de Finanzas y Administración promover ante el Titular del Ejecutivo del Estado, la revocación de los fideicomisos que hayan alcanzado sus fines o de aquellos cuyos objetivos se hayan vuelto de realización imposible.
+REFORMADO, P.O. 9 DE MARZO DE 2011)
+
+Queda a cargo de la Secretaría de la Contraloría, en coordinación con la de Finanzas promover ante el Titular del Ejecutivo del Estado, la revocación de los fideicomisos que hayan alcanzado sus fines o de aquellos cuyos objetivos se hayan vuelto de realización imposible.
 
 ### CAPÍTULO V. DE LAS COMISIONES, COMITÉS, PATRONATOS Y DEMÁS ÓRGANOS DE CARÁCTER PÚBLICO
 
@@ -367,9 +391,11 @@ las atribuciones de estos órganos auxiliares, se determinarán en sus instrumen
 
 ### CAPÍTULO VI. DEL REGISTRO DE ENTIDADES PARAESTATALES
 
+REFORMADO, P.O. 9 DE MARZO DE 2011)
+
 ###### ARTÍCULO 37.
 
-Las Entidades Paraestatales deberán inscribirse en el Registro que integrará y llevará la Secretaría de Desarrollo, Evaluación y Control de la Administración Pública, misma que gestionará su publicación en el Periódico Oficial del Estado, de manera anual.
+Las Entidades Paraestatales deberán inscribirse en el registro que integrará y llevará la Secretaría de la Contraloría, misma que gestionará su publicación en el Periódico Oficial del Estado, de manera anual.
 
 ###### ARTÍCULO 38.
 
@@ -395,13 +421,17 @@ VII.- Los instrumentos jurídicos que señalen las bases de la fusión, transfor
 
 VIII.- Los demás documentos y actos que determine este ordenamiento o el Órgano de Gobierno de la Entidad.
 
+REFORMADO, P.O. 9 DE MARZO DE 2011)
+
 ###### ARTÍCULO 40.
 
-La Secretaría de Desarrollo, Evaluación y Control de la Administración Pública podrá expedir certificaciones de las inscripciones y registros a que se refiere el artículo anterior, las que harán prueba plena.
+La Secretaría de la Contraloría podrá expedir certificaciones de las inscripciones y registros a que se refiere el artículo anterior, las que harán prueba plena.
+
+REFORMADO, P.O. 9 DE MARZO DE 2011)
 
 ###### ARTÍCULO 41.
 
-Procederá la cancelación de inscripciones en el Registro de la Secretaría de Desarrollo, Evaluación y Control de la Administración Pública, en el caso de su extinción, supresión o disolución, una vez que haya concluido su liquidación.
+Procederá la cancelación de inscripciones en el registro de la Secretaría de la Contraloría, en el caso de su extinción, supresión o disolución, una vez que haya concluido su liquidación.
 
 ### CAPÍTULO VII. DEL DESARROLLO Y OPERACIÓN
 
@@ -413,13 +443,17 @@ I.- La referencia concreta a su objetivo esencial y a las actividades conexas pa
 
 II.- Los productos que elabore o los servicios que preste y sus características sobresalientes;
 
-III.- Los efectos que causen sus actividades en el ámbito sectorial, así como el impacto regional que originen; y
+REFORMADA, P.O. 9 DE MARZO DE 2011)
+
+III.- Los efectos que, en su caso, causen sus actividades en el ámbito sectorial, así como el impacto regional que originen; y
 
 IV.- Los rasgos más destacados de su organización para la producción o distribución de los bienes y prestación de servicios que ofrece.
 
+REFORMADO, P.O. 9 DE MARZO DE 2011)
+
 ###### ARTÍCULO 43.
 
-Las Entidades Paraestatales, para su organización y funcionamiento, deberán sujetarse a la Ley de Planeación para el Desarrollo del Estado de Puebla, al Plan Estatal de Desarrollo, a los programas sectoriales y regionales que deriven del mismo, a las directrices que en materia de programación y evaluación fije la Secretaría de Desarrollo, Evaluación y Control de la Administración Pública, a los lineamientos generales que en materia de gasto y financiamiento establezca la Secretaría de Finanzas y Administración, así como a las políticas que definan la Coordinadora de Sector y la presente Ley.
+Las Entidades Paraestatales, para su organización y funcionamiento, deberán sujetarse a la Ley de Planeación para el Desarrollo del Estado de Puebla, al Plan Estatal de Desarrollo, a los programas sectoriales, institucionales y regionales que deriven del mismo, a las directrices que en materia de programación y evaluación fije la Secretaría de la Contraloría, a los lineamientos generales que en materia de gasto y financiamiento establezca la Secretaría de Finanzas, así como a las políticas que definan la Coordinadora de Sector en su caso, y la presente Ley.
 
 ###### ARTÍCULO 44.
 
@@ -429,19 +463,25 @@ El programa institucional constituye la asunción de compromisos en términos de
 
 Los presupuestos de las entidades se formularán a partir de sus programas anuales. Deberán contener la descripción detallada de objetivos, metas y unidades responsables de su ejecución y los elementos que permitan la evaluación sistemática de sus programas.
 
+REFORMADO, P.O. 9 DE MARZO DE 2011)
+
 ###### ARTÍCULO 46.
 
-En la formulación de sus presupuestos, las Entidades Paraestatales se sujetarán a los lineamientos generales que en materia de ingresos y gasto establezca la Secretaría de Finanzas y Administración, así como a lo dispuesto en la Ley Estatal de Presupuesto, Contabilidad y Gasto Público. En caso de compromisos derivados de compra o de suministros que excedan al período anual del presupuesto, éste deberá contener la referencia precisa de esos compromisos con el objeto de contar con la perspectiva del desembolso a plazos mayores de un año.
+En la formulación de sus presupuestos, las Entidades Paraestatales se sujetarán a los lineamientos generales que en materia de ingresos y gasto establezca la Secretaría de Finanzas, así como a lo dispuesto en la Ley Estatal de Presupuesto, Contabilidad y Gasto Público. En caso de compromisos derivados de compra o de suministros que excedan al periodo anual del presupuesto, éste deberá contener la referencia precisa de esos compromisos con el objeto de contar con la perspectiva del desembolso a plazos mayores de un año.
 
 ###### ARTÍCULO 47.
 
 Las Entidades Paraestatales manejarán y erogarán sus recursos propios por medio de sus órganos.
 
-Por lo que toca a la percepción de subsidios y transferencias, los recibirán de la Secretaría de Finanzas y Administración, en los términos y condiciones que establezca la Ley de Egresos del Estado y demás ordenamientos aplicables, debiendo ser manejados y administrados por sus propios órganos y sujetarse a los controles e informes respectivos de conformidad con la legislación de la materia.
+REFORMADO, P.O. 9 DE MARZO DE 2011)
+
+Por lo que toca a la percepción de subsidios y transferencias, los recibirán de la Secretaría de Finanzas, en los términos y condiciones que establezca la Ley de Egresos del Estado y demás ordenamientos aplicables, debiendo ser manejados y administrados por sus propios órganos y sujetarse a los controles e informes respectivos, de conformidad con la legislación de la materia.
+
+REFORMADO, P.O. 9 DE MARZO DE 2011)
 
 ###### ARTÍCULO 48.
 
-Los programas financieros de las Entidades Paraestatales deberán formularse conforme a los lineamientos generales que establezca la Secretaría de Finanzas y Administración, así como lo dispuesto en la Ley Estatal de Presupuesto, Contabilidad y Gasto Público, y la Ley de Ingresos del Estado para el ejercicio fiscal que corresponda deberán expresar los fondos propios, aportaciones de capital, contratación de créditos con sociedades nacionales de crédito o con cualquier otro intermediario financiero, así como el apoyo que pueda obtenerse de los proveedores de insumos y servicios de suministradores de los bienes de producción. El programa contendrá los criterios conforme a los cuales deba ejecutarse el mismo en cuanto a montos, costos, plazos, garantías y avales que en su caso condicionen el apoyo.
+Los programas financieros de las Entidades Paraestatales deberán formularse conforme a los lineamientos generales que establezca la Secretaría de Finanzas, así como lo dispuesto en la Ley Estatal de Presupuesto, Contabilidad y Gasto Público, y la Ley de Ingresos del Estado para el ejercicio fiscal que corresponda, deberán expresar los fondos propios, aportaciones de capital, contratación de créditos con sociedades nacionales de crédito o con cualquier otro intermediario financiero, así como el apoyo que pueda obtenerse de los proveedores de insumos y servicios de suministradores de los bienes de producción. El programa contendrá los criterios conforme a los cuales deba ejecutarse el mismo en cuanto a montos, costos, plazos, garantías y avales que en su caso condicionen el apoyo.
 
 ###### ARTÍCULO 49.
 
@@ -465,7 +505,9 @@ I.- Establecer en congruencia con los programas sectoriales, las políticas gene
 
 II.- Aprobar los programas y presupuestos de la Entidad Paraestatal, así como sus modificaciones, en los términos de la legislación aplicable.
 
-Los presupuestos y los programas financieros, deberán ser remitidos a la Secretaría de Finanzas y Administración del Estado, en los términos que le sean solicitados;
+REFORMADO, P.O. 9 DE MARZO DE 2011)
+
+Los presupuestos y los programas financieros, deberán ser remitidos a la Secretaría de Finanzas, en los términos que le sean solicitados;
 
 III.- Fijar y ajustar los precios de bienes y servicios que produzca o preste la Entidad Paraestatal con excepción de los de aquellos que se determinen por acuerdo del Ejecutivo;
 
@@ -479,9 +521,13 @@ VII.- Aprobar de acuerdo con las leyes aplicables, las políticas, bases y progr
 
 VIII.- Emitir el Reglamento Interior en el que se determinen las facultades y funciones de las distintas áreas de la Entidad Paraestatal, y en su caso, las modificaciones al mismo;
 
-IX.- Aprobar la estructura básica de la organización de la Entidad Paraestatal y las modificaciones que procedan; apegándose a los lineamientos que para tal efecto emita la Secretaría de Desarrollo, Evaluación y Control de la Administración Pública; asimismo las facultades y funciones que correspondan a las distintas áreas de la Entidad;
+REFORMADA, P.O. 9 DE MARZO DE 2011)
 
-X.- Proponer al Titular del Poder Ejecutivo, de manera conjunta con las Secretarías de Desarrollo, Evaluación, y Control de la Administración Pública; y de Finanzas y Administración, los convenios que tengan por objeto la fusión con otra Entidad Paraestatal;
+IX.- Aprobar la estructura básica de la organización de la Entidad Paraestatal y las modificaciones que procedan, apegándose a los lineamientos que para tal efecto emita la Secretaría de la Contraloría; asimismo las facultades y funciones que correspondan a las distintas áreas de la Entidad;
+
+REFORMADA, P.O. 9 DE MARZO DE 2011)
+
+X.- Proponer al Titular del Poder Ejecutivo, de manera conjunta con las Secretarías de la Contraloría y de Finanzas, los convenios que tengan por objeto la fusión con otra Entidad Paraestatal;
 
 XI.- Nombrar y remover a propuesta del Director General, a los servidores públicos de la Entidad Paraestatal que ocupen cargos en los dos niveles jerárquicos inferiores al de aquél; así como aprobar la fijación de sueldos y prestaciones del personal en los términos que señalen la legislación y lineamientos aplicables;
 
@@ -509,7 +555,9 @@ V.- Tomar las medidas pertinentes a fin de que las funciones de la Entidad se re
 
 VI.- Establecer los procedimientos para controlar la cantidad de los suministros y programas de recepción que aseguren la continuidad en la fabricación, distribución o prestación del servicio;
 
-VII.- Proponer al Órgano de Gobierno el nombramiento o remoción de los dos siguientes niveles de servidores de la entidad, la fijación de sueldos y demás prestaciones conforme a las asignaciones globales del presupuesto de gasto corriente aprobado por el propio Órgano y a los tabuladores que apruebe la Secretaría de Finanzas y Administración;
+REFORMADA, P.O. 9 DE MARZO DE 2011)
+
+VII.- Proponer al Órgano de Gobierno el nombramiento o remoción de los dos siguientes niveles de servidores de la entidad, la fijación de sueldos y demás prestaciones conforme a las asignaciones globales del presupuesto de gasto corriente aprobado por el propio Órgano y a los tabuladores que apruebe la Secretaría de Finanzas;
 
 VIII.- Recabar información y elementos estadísticos que reflejen el estado de las funciones de la Entidad Paraestatal, para así poder mejorar la gestión de la misma;
 
@@ -529,11 +577,15 @@ XV.- Tramitar la inscripción de la Entidad Paraestatal en el Registro Federal d
 
 ### CAPÍTULO VIII. DEL CONTROL Y EVALUACIÓN
 
-###### ARTÍCULO 54.
+REFORMADO PARRAFO PRIMERO, P.O. 9 DE MARZO DE 2011)
 
-El Organo de Vigilancia de las Entidades Paraestatales estará integrado por un Comisario Público, designado por la Secretaría de Desarrollo, Evaluación y Control de la Administración Pública.
+###### ARTICULO 54.
 
-Los comisarios públicos evaluarán el desempeño general y funciones del Organismo, realizarán estudios sobre la eficiencia con la que se ejerzan los desembolsos en los rubros de gasto corriente y de inversión, así como en lo referente a los ingresos y, en general, solicitarán la información y efectuarán los actos que requieran el adecuado cumplimiento de sus atribuciones, sin perjuicio de las tareas que la Secretaría de Desarrollo, Evaluación y Control de la Administración Pública les asigne específicamente conforme a la legislación aplicable.
+El Órgano de Vigilancia de las Entidades Paraestatales estará integrado por un Comisario Público, designado por la Secretaría de la Contraloría.
+
+REFORMADO, P.O. 9 DE MARZO DE 2011)
+
+Los Comisarios Públicos evaluarán el desempeño general y funciones del Organismo, realizarán estudios sobre la eficiencia con la que se ejerzan los desembolsos en los rubros de gasto corriente y de inversión, así como en lo referente a los ingresos y, en general, solicitarán la información y efectuarán los actos que requieran el adecuado cumplimiento de sus atribuciones, sin perjuicio de las tareas que la Secretaría de la Contraloría les asigne específicamente conforme a la legislación aplicable.
 
 Los Comisarios Públicos participarán en las sesiones de los Órganos de Gobierno de las Entidades Paraestatales, con voz pero sin voto.
 
@@ -547,11 +599,15 @@ II.- Los Directores Generales definirán las políticas e instrumentación de lo
 
 III.- Los demás servidores públicos de la Entidad responderán dentro del ámbito de su competencia sobre el funcionamiento adecuado del sistema que controle las operaciones a su cargo.
 
-Lo anterior, sin perjuicio de los lineamientos que en su momento establezca la Secretaría de Desarrollo, Evaluación y Control de la Administración Pública.
+REFORMADO, P.O. 9 DE MARZO DE 2011)
+
+Lo anterior, sin perjuicio de los lineamientos que en su momento establezca la Secretaría de la Contraloría.
+
+REFORMADO, P.O. 9 DE MARZO DE 2011)
 
 ###### ARTÍCULO 56.
 
-La Secretaría de Desarrollo, Evaluación y Control de la Administración Pública, podrá revisar, auditar o evaluar a las Entidades Paraestatales cualquiera que sea su naturaleza, a fin de supervisar el adecuado funcionamiento del Sistema de Control; el cumplimiento de las responsabilidades a cargo de cada uno de los niveles de la administración mencionados en el artículo 54 de esta Ley, en su caso, promover lo necesario para corregir las deficiencias u omisiones en que se hubiere incurrido.
+La Secretaría de la Contraloría, podrá revisar, auditar o evaluar a las Entidades Paraestatales cualquiera que sea su naturaleza, a fin de supervisar el adecuado funcionamiento del Sistema de Control; el cumplimiento de las responsabilidades a cargo de cada uno de los niveles de la administración mencionados en el artículo 54 de esta Ley, en su caso, promover lo necesario para corregir las deficiencias u omisiones en que se hubiere incurrido.
 
 ###### ARTÍCULO 57.
 
@@ -561,13 +617,17 @@ En aquellos casos en los que el Órgano de Gobierno o el Director General de la 
 
 En aquellas empresas en que el Gobierno del Estado participe con la suscripción del veinticinco al cincuenta por ciento (25 al 50%) del capital, las inversiones estatales se vigilarán a través del Comisario.
 
+REFORMADO, P.O. 9 DE MARZO DE 2011)
+
 ###### ARTÍCULO 59.
 
-El Ejecutivo del Estado, por conducto de la Secretaría de Desarrollo, Evaluación y Control de la Administración Pública, determinará los servidores públicos que deban ejercer las facultades que impliquen la titularidad de las acciones o partes sociales que integren el capital social de las empresas de participación estatal mayoritaria, así como de las empresas señaladas en el artículo anterior.
+El Ejecutivo del Estado, por conducto de la Secretaría de la Contraloría, determinará los servidores públicos que deban ejercer las facultades que impliquen la titularidad de las acciones o partes sociales que integren el capital social de las empresas de participación estatal mayoritaria, así como de las empresas señaladas en el artículo anterior.
+
+REFORMADO, P.O. 9 DE MARZO DE 2011)
 
 ###### ARTÍCULO 60.
 
-La enajenación de los títulos representativos del capital social propiedad del Gobierno del Estado o de las Entidades Paraestatales, podrá realizarse a través de los procedimientos bursátiles propios del mercado de valores o de las sociedades nacionales de crédito, de acuerdo con la normatividad que emita la Secretaría de Finanzas y Administración. La Secretaría de Desarrollo, Evaluación y Control de la Administración Pública, vigilará el debido cumplimiento de esta disposición.
+La enajenación de los títulos representativos del capital social propiedad del Gobierno del Estado o de las Entidades Paraestatales, podrá realizarse a través de los procedimientos bursátiles propios del mercado de valores o de las sociedades nacionales de crédito, de acuerdo con la normatividad que emita la Secretaría de Finanzas. La Secretaría de la Contraloría vigilará el debido cumplimiento de esta disposición.
 
 T R A N S I T O R I O S.
 
@@ -590,3 +650,19 @@ Las erogaciones que deriven de la aplicación de esta Ley, estarán sujetas a la
 EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza, a los once días del mes de diciembre de dos mil tres.- Diputado Presidente.- HUMBERTO VÁZQUEZ ARROYO.- Rúbrica.- Diputada Vicepresidenta.- MARÍA LEONOR A. POPÓCATL GUTIÉRREZ.- Rúbrica.- Diputado Secretario.- ELISEO PÉREZ SÁNCHEZ.- Rúbrica.- Diputado Secretario.- DANIEL ANTELIZ MAGAÑA.- Rúbrica.
 
 Por tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los once días del mes de diciembre del año dos mil tres.- El Gobernador Constitucional del Estado.- LICENCIADO MELQUIADES MORALES FLORES.- Rúbrica.- El Secretario de Gobernación.- MAESTRO EN DERECHO CARLOS ARREDONDO CONTRERAS.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 9 DE MARZO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
+
+###### ARTÍCULO SEGUNDO.
+
+La sectorización establecida en los Instrumentos de Creación de los Organismos Públicos Descentralizados existentes a la fecha de entrada en vigor del presente Decreto, continuará surtiendo sus efectos en tanto el Titular del Ejecutivo no determine lo contrario.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
