@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-de-la-ley-organica-de-la-procuraduria-general-de-707
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-09-23"
-last_updated: "2009-09-23"
+last_updated: "2011-03-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70774&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 REGLAMENTO DE LA LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE MARZO DE 2011.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Chiapas, el miércoles 23 de septiembre de 2009.
 
@@ -155,7 +155,9 @@ VIII. Celebrar, promover y actualizar convenios, acuerdos y bases de colaboraci�
 
 IX. Asistir a las reuniones a las que sea convocado por el Titular del Poder Ejecutivo Estatal, así como acordar con éste los asuntos encomendados a la Procuraduría que así lo ameriten, desempeñando las comisiones y funciones que le confiera, manteniéndolo informado sobre el desarrollo y resultado de las mismas;
 
-X. Designar a cualquiera de los Fiscales Especializados para que lo representen en los casos que éste determine;
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2011)</small>
+
+X. Designar a cualquiera de los Servidores Públicos de la Procuraduría, para que lo represente en los casos que éste determine.
 
 XI. Expedir los lineamientos a que se sujetarán las Fiscalías de Distrito, para la debida coordinación y articulación entre las mismas y su vinculación con los órganos centrales, Fiscalías Especializadas, Especiales y la Fiscalía Electoral, a efecto de garantizar la unidad de actuación y dependencia jerárquica del Ministerio Público;
 
@@ -213,27 +215,33 @@ Al frente de la Subprocuraduría General de Justicia, habrá un Subprocurador Ge
 
 El Subprocurador, podrá contar con la estructura y demás personal, que por necesidades del servicio requiera, sean autorizadas por el Procurador y permita el presupuesto, dependerán directamente de éste, quienes desarrollarán las funciones destinadas al cumplimiento de las atribuciones que le corresponden.
 
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2011)</small>
+
 ###### Artículo 16.
 
-La Subprocuraduría General de Justicia, contará con las atribuciones siguientes:
+La Subprocuraduría General de Justicia, será competente para:
 
-I. Ejecutar las directrices, que en materia de procuración de justicia dicte el Procurador;
+I. Intervenir, previo acuerdo con el Procurador, en los casos previstos en el segundo párrafo del artículo 119 de la Constitución Federal.
 
-II. Ejercer las atribuciones que le correspondan por suplencia;
+II. Coordinar, previo acuerdo con el Procurador, la ejecución de acciones institucionales, derivadas de los acuerdos suscritos por la Procuraduría, con la Procuraduría General de la República, la Procuraduría General de Justicia Militar, la Procuraduría General de Justicia del Distrito Federal y las homólogas de las demás Entidades Federativas.
 
-III. Desempeñar las funciones y comisiones que le encomiende el Procurador e informarle el desarrollo y resultado de las mismas;
+III. Ejecutar las directrices que dicte el Procurador en materia de procuración de justicia.
 
-IV. Coordinar, supervisar y regular las actividades de las Fiscalías de Distrito, informando de ello al Procurador, así como recibir en acuerdo a sus titulares;
+IV. Ejercer las atribuciones que le correspondan por suplencia.
 
-V. Planear, coordinar y evaluar las actividades de las Fiscalías de Distrito, así como los órganos de su adscripción, de conformidad con los lineamientos que determine el Procurador para el buen despacho de los asuntos a su cargo;
+V. Desempeñar las funciones y comisiones que le encomiende el Procurador e informarle el desarrollo y resultado de las mismas.
 
-VI. Planear, coordinar y evaluar las actividades de los órganos de la Procuraduría, de conformidad, con los lineamientos que determine el Procurador;
+VI. Coordinar, supervisar y regular las actividades de las Fiscalías de Distrito, informando de ello al Procurador, así como recibir en acuerdo a sus titulares.
 
-VII. Solicitar información, y en su caso la documentación relativa a los depósitos, operaciones o servicios financieros que guarden relación con los hechos de naturaleza delictiva que se investiguen, de conformidad con lo previsto en el artículo 117, párrafo tercero, fracción II, de la Ley de Instituciones de Crédito;
+VII. Planear, coordinar y evaluar las actividades de las Fiscalías de Distrito, así como las áreas de su adscripción, de conformidad con los lineamientos que determine el Procurador para el buen despacho de los asuntos a su cargo.
 
-VIII. Proporcionar la información, datos y cooperación técnica que sea requerida por otras dependencias o entidades, de acuerdo con las disposiciones aplicables;
+VIII. Planear, coordinar y evaluar las actividades de las áreas y órganos de la Procuraduría, de conformidad con los lineamientos que determine el Procurador.
 
-IX. Las demás que le confiera la Ley, este Reglamento y otras disposiciones aplicables.
+IX. Solicitar información, y en su caso la documentación relativa a los depósitos, operaciones o servicios financieros que guarden relación con los hechos de naturaleza delictiva que se investiguen, de conformidad con lo previsto en el artículo 117, párrafo tercero, fracción II, de la Ley de Instituciones de Crédito.
+
+X. Proporcionar la información, datos y cooperación técnica que sea requerida por otras dependencias o entidades, de acuerdo con las disposiciones aplicables.
+
+XI. Las demás que le confiera la Ley, este Reglamento y otras disposiciones aplicables.
 
 ###### Artículo 17.
 
@@ -289,25 +297,11 @@ Las Fiscalías de Distrito, podrán contar con Direcciones Generales, Direccione
 
 La Procuraduría desconcentrará sus funciones en las Fiscalías de Distrito, cada una con su demarcación territorial.
 
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2011)</small>
+
 ###### Artículo 22.
 
-Las circunscripción territorial de las Fiscalías de Distrito están integradas por:
-
-I. Distrito Metropolitano: Atiende el municipio de Tuxtla Gutiérrez, con sede en la capital del Estado.
-
-II. Distrito Centro: Atiende los municipios de Acala, Berriozábal, Coapilla, Copainalá, Chiapa de Corzo, Chiapilla, Chicoasén, Ixtapa, Jiquipilas, Nicolás Ruiz, Ocotepec, Ocozocoautla, Osumacinta, San Fernando, San Lucas, Soyaló, Suchiapa, Tecpatán, Totolapa, Venustiano Carranza, Ángel Albino Corzo, La Concordia, Montecristo de Guerrero, Villa Corzo y Villaflores, con sede en Chiapa de Corzo.
-
-III. Distrito Norte: Atiende los municipios de Amatán, Bochil, Chapultenango, El Bosque, Pichucalco. Francisco León, Huitiupán, Ixhuatán, Ixtacomitán, Ixtapangajoya, Jitotol, Juárez, Ostuacán, Pantepec, Pueblo Nuevo Solistahuacán, Rayón, Reforma, San Andrés Duraznal, Simojovel, Solosuchiapa, Sunuapa, Tapalapa y Tapilula, con sede en Pichucalco.
-
-IV. Distrito Selva: Atiende los municipios de Catazajá, Chilón, La Libertad, Ocosingo, Marqués de Comillas, Palenque, Sabanilla, Salto de Agua, Sitalá, Tila, Tumbalá, Yajalón y Benemérito de las Américas, con sede en Palenque.
-
-V. Distrito Altos: Atiende los municipios de San Cristóbal de Las Casas, Aldama, Altamirano, Amatenango del Valle, Chalchihuitán, Chamula, Chanal, Chenalhó, Huixtán, Larráinzar, Las Rosas, Mitontic, Oxchuc, Pantelhó, San Juan Cancuc, Santiago El Pinar, Tenejapa, Teopisca y Zinacantán, con sede en San Cristóbal de Las Casas.
-
-VI. Distrito Istmo-Costa: Atiende los municipios de Cintalapa, Arriaga, Pijijiapan, Tonalá, Mapastepec, Acapetahua, Acacoyagua, Escuintla, Villa Comaltitlán y Huixtla, con sede en Tonalá.
-
-VII. Distrito Fronterizo Sierra: Atiende los municipios de Comitán de Domínguez, Chicomuselo, Frontera Comalapa, La Independencia, La Trinitaria, Las Margaritas, Maravilla Tenejapa, Tzimol, Amatenango de la Frontera, Bejucal de Ocampo, Bella Vista, El Porvenir, La Grandeza, Mazapa de Madero, Socoltenango, Motozintla y Siltepec, con sede en Comitán de Domínguez.
-
-VIII. Distrito Fronterizo Costa: Atiende los municipios de Tapachula, Cacahoatán, Frontera Hidalgo, Metapa, Suchiate, Tuxtla Chico, Unión Juárez, Tuzantán, Huehuetán y Mazatán, con sede en Tapachula.
+La jurisdicción y los municipios que integren la circunscripción territorial de las Fiscalías de Distrito, serán determinados mediante acuerdo del Consejo de Procuración de Justicia, atendiendo a las necesidades del servicio.
 
 ### Capítulo IV. De las Fiscalías Especializadas y Especiales
 
@@ -383,15 +377,21 @@ IV. Elaborar programas de formación de los Fiscales del Ministerio Público y d
 
 V. Las demás que le confieran otras disposiciones o el Procurador.
 
-#### Sección Tercera. De la Fiscalía Especializada en Atención a Delitos Cometidos en Contra de Periodistas
+> <small>(REFORMADA SU DENOMINACION, P.O. 9 DE MARZO DE 2011)</small>
+
+#### Sección Tercera. De la Fiscalía Especializada en Atención de Periodistas y Libertad de Expresión
+
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2011)</small>
 
 ###### Artículo 29.
 
-La Fiscalía Especializada en Atención a Delitos Cometidos en Contra de Periodistas, conocerá de la investigación y persecución de los delitos cometidos en contra de periodistas, perpetrados con motivo de su ejercicio profesional.
+La Fiscalía Especializada en Atención de Periodistas y Libertad de Expresión, conocerá de la investigación y persecución de los delitos cometidos en contra de periodistas, perpetrados con motivo de su ejercicio profesional.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE MARZO DE 2011)</small>
 
 ###### Artículo 30.
 
-Para que la Fiscalía Especializada en Atención a Delitos Cometidos en Contra de Periodistas se avoque al conocimiento de los hechos posiblemente constitutivos de delito cometidos en contra de periodistas, deberán concurrir los siguientes supuestos:
+Para que la Fiscalía Especializada en Atención de Periodistas y Libertad de Expresión se avoque al conocimiento de los hechos posiblemente constitutivos de delito cometidos en contra de periodistas, deberán concurrir los siguientes supuestos:
 
 I. Que se actualice, en el sujeto pasivo del delito, la calidad de periodista,
 
@@ -401,9 +401,11 @@ III. Que el delito de que se trate sea sancionado por el Código Penal para el E
 
 IV. Las demás que le confiera la Ley, este Reglamento y otras disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE MARZO DE 2011)</small>
+
 ###### Artículo 31.
 
-La Fiscalía Especializada en Atención a Delitos Cometidos en Contra de Periodistas, será competente para:
+La Fiscalía Especializada en Atención de Periodistas y Libertad de Expresión, será competente para:
 
 I. Conocer de las investigaciones, y en su caso de la persecución de los delitos cometidos contra periodistas con motivo de su ejercicio profesional.
 
@@ -431,47 +433,21 @@ V. Promover en coordinación con el órgano correspondiente de la Procuraduría,
 
 VI. Las demás que le confieran otras disposiciones o el Procurador.
 
-#### Sección Cuarta. De la Fiscalía Especializada de Coordinación General
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 9 DE MARZO DE 2011)</small>
+
+#### Sección Cuarta
 
 ###### Artículo 33.
 
-La Fiscalía Especializada de Coordinación General, conocerá de los procedimientos y objetivos en materia de procuración de justicia, coordinando a las Fiscalías Especializadas en el correcto desempeño de sus funciones, así como apoyar para que las denuncias y querellas iniciadas se tramiten con expedites, apegado a los principios de legalidad.
+(DEROGADO, P.O. 9 DE MARZO DE 2011)
 
 ###### Artículo 34.
 
-La Fiscalía Especializada de Coordinación General, será competente para:
-
-I. Intervenir, en el ámbito de su competencia, en los casos previstos en el segundo párrafo del artículo 119, de la Constitución Federal.
-
-II. Coordinar la ejecución de acciones institucionales, derivadas de los acuerdos suscritos por la Procuraduría, con la Procuraduría General de la República, la Procuraduría General de Justicia del Distrito Federal y las homólogas de las demás Entidades Federativas.
-
-III. Coordinar la ejecución de acciones institucionales, derivadas de los acuerdos suscritos con los diferentes órdenes de gobierno y los sectores social y productivo del Estado.
-
-IV. Procesar los informes que rindan los Fiscales de Distrito, Especializados y Especiales.
-
-V. Las demás que le confiera la Ley, este Reglamento y otras disposiciones aplicables.
+(DEROGADO, P.O. 9 DE MARZO DE 2011)
 
 ###### Artículo 35.
 
-Son atribuciones del Fiscal Especializado de Coordinación General, además de las consignadas en el artículo 32, de la Ley, las siguientes:
-
-I. Representar al Procurador en las atribuciones que éste tiene encomendadas, en aquellos casos específicos que él así lo determine.
-
-II. Vigilar que se concreten las acciones institucionales, derivadas de los acuerdos celebrados por la Procuraduría, con las Procuradurías General de la República, de Justicia Militar, del Distrito Federal y de las Entidades Federativas.
-
-III. Establecer los mecanismos adecuados a fin de que se dé debido cumplimiento a las acciones institucionales, que provengan de los acuerdos suscritos con los diferentes órdenes de gobierno y los sectores social y privado del Estado.
-
-IV. Procesar los informes que rindan los Fiscales de Distrito, Especializados y Especiales.
-
-V. Establecer en coordinación con los Fiscales de Distrito o de Justicia Indígena, acciones y medidas preventivas que permitan la disminución de conductas delictivas en las diferentes comunidades.
-
-VI. Evaluar los avances y productividad de las actividades que realizan las Fiscalías de Distrito.
-
-VII. Coordinar a los Fiscales de Distrito y de Justicia Indígena a fin de que atiendan adecuadamente las averiguaciones previas y mandamientos judiciales con el propósito de dar solución al rezago.
-
-VIII. Supervisar la integración de las Averiguaciones Previas que determine el Procurador, en las que se requiera mayor atención.
-
-IX. Las demás que le confieran otras disposiciones o el Procurador.
+(DEROGADO, P.O. 9 DE MARZO DE 2011)
 
 #### Sección Quinta. De la Fiscalía Especializada en Procedimientos Penales
 
@@ -495,7 +471,9 @@ V. Establecer en coordinación con las Fiscalías de Distrito, Especializadas, E
 
 VI. Mantener con el Poder Judicial del estado comunicación constante, a efecto de promover la coordinación de acciones que permitan una eficiente procuración y administración de justicia.
 
-VII. Emitir las opiniones que correspondan a las autorizaciones del no ejercicio de la acción penal, en los casos que el Procurador lo determine.
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2011)</small>
+
+VII. Emitir opinión en relación al no ejercicio de la acción penal, en el caso que el Procurador lo determine.
 
 VIII. Llevar el registro de los mandamientos judiciales que cada Fiscalía de Distrito realice.
 
@@ -515,13 +493,17 @@ IV. Dar vista a la Fiscalía de Visitaduría o a la Contraloría General, cuando
 
 V. Advertir las debilidades y deficiencias que con mayor incidencia incurren en las consignaciones hechas ante el órgano jurisdiccional, con la finalidad de proponer al Instituto de Investigación los temas sobre los cuales se dirijan cursos de capacitación al personal ministerial.
 
-VI. Depurar la técnica jurídica en la emisión de opiniones para la autorización de no ejercicio de la acción penal.
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2011)</small>
+
+VI. Depurar la técnica jurídica en la emisión de las determinaciones para el no ejercicio de la acción penal.
 
 VII. Ser el enlace institucional con el Poder Judicial.
 
 VIII. Vigilar el debido registro y seguimiento de los mandamientos judiciales y de las colaboraciones entre Procuradurías.
 
-IX. Las demás que le asigne la Ley, el presente reglamento o determine el Procurador.
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2011)</small>
+
+IX. Hacer del conocimiento al Procurador, de las contradicciones de criterios que surjan en Salas del Tribunal Superior de Justicia del Estado.
 
 X. Las demás que le confieran otras disposiciones o el Procurador.
 
@@ -625,7 +607,9 @@ II. Proponer al Procurador las bases, convenios y otros instrumentos de colabora
 
 III. Formular al Procurador para su autorización, las políticas y normas jurídicas para homogenizar y actualizar la legislación del Estado de Chiapas, especialmente la normatividad técnico penal aplicable al ámbito de competencia de la Procuraduría.
 
-IV. Conocer de la substanciación del Recurso de Reconsideración que prevé la Ley, respecto de la autorización de la determinación del no ejercicio de la acción penal.
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2011)</small>
+
+IV. Conocer de la substanciación del Recurso de Reconsideración que prevé la Ley, respecto del no ejercicio de la acción penal en la averiguación previa.
 
 V. Supervisar que se formulen las quejas respectivas ante el Consejo de la Judicatura del Estado, por las faltas que a su juicio hubieren cometido los servidores públicos del Poder Judicial del Estado, sin perjuicio de la intervención que legalmente le corresponda a las Fiscalías de Distrito, cuando los hechos sean constitutivos de delito.
 
@@ -635,6 +619,8 @@ VII. Sustituir al Procurador para presentar y contestar demandas o su desistimie
 
 VIII. Las demás que le confiera la Ley, este Reglamento y otras disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2011)</small>
+
 ###### Artículo 44.
 
 Son atribuciones del Fiscal Especializado Jurídico Normativo, además de las consignadas en el artículo 32, de la Ley, las siguientes:
@@ -643,11 +629,11 @@ I. Representar jurídicamente al Procurador, ante autoridades administrativas, j
 
 II. Dirigir las acciones procesales en los Juicios de Amparo, en el que se designe a la Procuraduría o al Procurador como autoridad responsable.
 
-III. Resolver, en el ámbito de su competencia, el Recurso de Reconsideración que prevé la Ley, respecto autorización de la determinación del no ejercicio de la acción pena.
+III. Resolver en el ámbito de su competencia, el Recurso de Reconsideración respecto del no ejercicio de la acción penal.
 
-IV. Evaluar y emitir dictamen jurídico, en coordinación con los órganos que los propongan, sobre bases de coordinación, convenios de colaboración, y contratos que afecten el presupuesto y que celebre la Procuraduría con organismos públicos y privados.
+IV. Evaluar y emitir dictamen jurídico, en coordinación con las áreas que los propongan, sobre bases de coordinación, convenios de colaboración, y contratos que afecten el presupuesto y que celebre la Procuraduría con organismos públicos y privados.
 
-V. Proporcionar y supervisar la asesoría técnico-jurídico y legal a los diversos órganos de la Procuraduría.
+V. Proporcionar y supervisar la asesoría técnico-jurídico y legal a los diversos órganos y áreas de la Procuraduría.
 
 VI. Proponer al Procurador, dentro del ámbito de su competencia, instrumentos jurídicos que apoyen la operación y funcionamiento de la Procuraduría.
 
@@ -655,7 +641,7 @@ VII. Conducir los trabajos de análisis, elaboración y procesos de aprobación 
 
 VIII. Gestionar el trámite de publicación en el Periódico Oficial del Estado, de las disposiciones jurídico administrativas de la Procuraduría.
 
-IX. Asistir en representación de la dependencia a las audiencias de ley ante el órgano de control interno de la Contraloría General, el Tribunal del Trabajo Burocrático, y el Tribunal de Justicia Electoral y Administrativa del Poder Judicial, todos del Estado de Chiapas, para la debida substanciación de los expedientes.
+IX. Asistir en representación de la dependencia a las audiencias de ley ante el órgano de control interno de la Contraloría, el Tribunal del Trabajo Burocrático, y el Tribunal de Justicia Electoral y Administrativa del Poder Judicial, todos del Estado de Chiapas, para la debida substanciación de los expedientes.
 
 X. Supervisar que los dictámenes de las actas administrativas que sean turnadas en contra de los servidores públicos de la Procuraduría, se realicen conforme a las normas aplicables.
 
@@ -665,19 +651,25 @@ XII. Promover previo acuerdo del Procurador, el desarrollo y operación de conce
 
 XIII. Emitir opinión técnico-jurídica o dictámenes según corresponda de consultas de su competencia.
 
-IX (SIC). Supervisar que se haga del conocimiento de la autoridad judicial competente, las contradicciones de criterio que surjan en Juzgados y Salas del Tribunal Superior de Justicia del Estado.
+XIV. Certificar documentos y expedir constancias de los expedientes relativos a los asuntos de su competencia.
 
-X. Las demás que le confieran otras disposiciones o el Procurador.
+XV. Las demás que le confieran otras disposiciones o el Procurador.
 
-#### Sección Octava. De la Fiscalía Especializada en Atención a Grupos Sensibles y Vulnerables
+> <small>(REFORMADA SU DENOMINACION, P.O. 9 DE MARZO DE 2011)</small>
+
+#### Sección Octava. De la Fiscalía Especializada en Atención a Grupos Sensibles, Vulnerables y en Contra de la Discriminación
+
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2011)</small>
 
 ###### Artículo 45.
 
-La Fiscalía Especializada en Atención a Grupos Sensibles y Vulnerables, es la encargada de intervenir en los asuntos en donde participen organizaciones, sectores o grupos sociales, entendiéndose a éstas aquellas que por su condición de edad, sexo, estado civil o que por cualquier otra circunstancia, se encuentren en condición de riesgo que les impida acceder a mejores condiciones en Procuración de Justicia.
+La Fiscalía Especializada en Atención a Grupos Sensibles, Vulnerables y en Contra de la Discriminación es la encargada de intervenir en los asuntos en donde participen organizaciones, sectores o grupos sociales, entendiéndose a éstas, aquellas que por su condición de edad, sexo, estado civil o que por cualquier otra circunstancia, se encuentren en condición de riesgo que les impida acceder a mejores condiciones en Procuración de Justicia.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE MARZO DE 2011)</small>
 
 ###### Artículo 46.
 
-La Fiscalía Especializada en Atención a Grupos Sensibles y Vulnerables, será competente para:
+La Fiscalía Especializada en Atención a Grupos Sensibles, Vulnerables y en Contra de la Discriminación, será competente para:
 
 I. Intervenir en los asuntos relacionados con la procuración de justicia, en donde intervengan grupos sensibles y vulnerables, de manera coordinada con los Fiscales de Distrito.
 
@@ -687,11 +679,31 @@ III. Acudir con la aprobación del Procurador en representación de la Procuradu
 
 IV. Previo acuerdo del Procurador, acudir a las reuniones y pactar los compromisos necesarios con los grupos sensibles y vulnerables.
 
-V. Las demás que le confiera la Ley, este Reglamento y otras disposiciones aplicables.
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2011)</small>
+
+V. Investigar y perseguir en el ámbito de su competencia, los delitos contra la dignidad de las personas, previstos en el Código Penal para el Estado de Chiapas.
+
+> <small>(ADICIONADA, P.O. 9 DE MARZO DE 2011)</small>
+
+VI. Tutelar los derechos de los individuos o grupos objeto de discriminación mediante asesoría y orientación, así como promover la presentación de las denuncias por actos discriminatorios.
+
+> <small>(ADICIONADA, P.O. 9 DE MARZO DE 2011)</small>
+
+VII. Llevar a cabo las acciones necesarias para la prevención de los delitos contra la dignidad de las personas, previstos en el Código Penal para el Estado de Chiapas, mediante la educación para el reconocimiento de sus formas y alcances.
+
+> <small>(ADICIONADA, P.O. 9 DE MARZO DE 2011)</small>
+
+VIII. Velar, porque en la Procuraduría General de Justicia, se trate con respeto y dignidad a todas las personas que comparezcan en demanda de justicia, así como prevenir cualquier acto discriminatorio dentro de la misma, en razón de estado civil, embarazo, procedencia étnica, idioma, ideología, color de piel, nacionalidad, origen o posición social, trabajo o profesión, posición económica, características físicas, discapacidad o estado de salud, género, sexo, edad, condición, religión, orientación sexual, raza, y cualquier otro que atente contra la dignidad humana y que anule o menoscabe los derechos y libertades de las personas.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 9 DE MARZO DE 2011)</small>
+
+IX. Las demás que le confiera la Ley y otras disposiciones aplicables.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE MARZO DE 2011)</small>
 
 ###### Artículo 47.
 
-Son atribuciones del Fiscal Especializado en Atención a Grupos Sensibles y Vulnerables, además de las consignadas en el artículo 32, de la Ley, las siguientes:
+Son atribuciones del Fiscal Especializado en Atención a Grupos Sensibles, Vulnerables y en Contra de la Discriminación, además de las consignadas en el artículo 32 de la Ley, las siguientes:
 
 I. Coordinarse para coadyuvar con los fiscales del ministerio público adscritos en todos los procedimientos, diligencias y audiencias que se practiquen ante los órganos judiciales, en que los sujetos a que se refiere este artículo sean parte, auxiliando en el desahogo de las vistas en las que se le dé intervención y en la formulación de pedimentos que procedan dentro de los términos que establece la Ley y conforme a las disposiciones aplicables.
 
@@ -983,7 +995,9 @@ En las averiguaciones previas que se inicien en contra de servidores públicos, 
 
 La Fiscalía Especializada para la Atención de los Delitos Relacionados con Servidores Públicos será competente para:
 
-I. Conocer de los delitos cometidos por servidores públicos, a partir de mandos medios a superiores y homólogos, salvo en aquellos casos en los que el Procurador ejerza la facultad de atracción.
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2011)</small>
+
+I. Conocer de los delitos cometidos por servidores públicos del Estado, y de los particulares involucrados con éstos, salvo en aquellos casos en los que el Procurador ejerza la facultad de atracción.
 
 II. Recibir denuncias o querellas, ordenando el inicio de la investigación y persecución de los delitos relacionados con servidores públicos por la comisión o denuncias de hechos.
 
@@ -2211,13 +2225,17 @@ XII. Las demás que le confieran otras disposiciones o el Procurador.
 
 ### Capítulo II. De la Contraloría General
 
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2011)</small>
+
 ###### Artículo 127.
 
 La Fiscalía Especializada de Visitaduría, desarrollará y aplicará las normas de evaluación técnico jurídica, mediante la práctica de visitas a los Fiscales del Ministerio Público, sus auxiliares directos y demás servidores públicos de la Procuraduría, con la finalidad de vigilar la integración de la averiguación previa y del proceso penal, para que se cumpla con la normatividad aplicable y lineamientos institucionales en materia de procuración de justicia.
 
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2011)</small>
+
 ###### Artículo 128.
 
-Para el desempeño de las funciones conferidas a la Fiscalía Especializada de Visitaduría, durante las visitas que realice, el personal visitado tendrá la obligación de otorgar el apoyo institucional necesario, para el adecuado desarrollo de ésta actividad, y la facilidad para tener acceso a las averiguaciones previas o los expedientes, libros de registro y control, informes, y demás documentación, objetos o bienes que requiera para el debido cumplimiento de su función; prevaleciendo un trato respetuoso y de colaboración entre ambas partes. Las visitas de supervisión podrán practicarse en cualquier momento, aún en días y horas inhábiles.
+Para el desempeño de las funciones conferidas a la Fiscalía Especializada de Visitaduría, durante las visitas que realice, el personal visitado tendrá la obligación de otorgar el apoyo institucional necesario, para el adecuado desarrollo de esta actividad, y la facilidad para tener acceso a las averiguaciones previas o los expedientes, libros de registro y control, informes, y demás documentación, objetos o bienes que requiera para el debido cumplimiento de su función; así como mecanismos programáticos y estadísticos en los que se registran las actuaciones de las actas administrativas o averiguaciones previas que se inician en cada Fiscalía del Ministerio Público, prevaleciendo un trato respetuoso y de colaboración entre ambas partes. Las visitas de supervisión podrán practicarse en cualquier momento, aún en días y horas inhábiles.
 
 ###### Artículo 129.
 
@@ -2245,7 +2263,13 @@ X. Atender e investigar las quejas, denuncias y sugerencias, recibidas en esta F
 
 XI. Formular y presentar a los titulares de los órganos de la procuraduría, las instrucciones y recomendaciones técnico jurídicas que subsanen las deficiencias detectadas en las visitas y verificar su cabal cumplimiento.
 
-XII. Las demás que le confiera la Ley, este Reglamento y otras disposiciones aplicables.
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2011)</small>
+
+XII. Supervisar y constatar que los Fiscales del Ministerio Público, cumplan en tiempo y forma con el informe estadístico ante la Dirección de Informática y Desarrollo Tecnológico.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 9 DE MARZO DE 2011)</small>
+
+XIII. Las demás que le confiera la Ley, este Reglamento y otras disposiciones aplicables.
 
 ###### Artículo 130.
 
@@ -2285,9 +2309,11 @@ XVI. Las demás que le confieran otras disposiciones o el Procurador.
 
 ### Capítulo I. Del Recurso de Revisión
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE MARZO DE 2011)</small>
+
 ###### Artículo 131.
 
-La Contraloría, tendrá por objeto la fiscalización de los recursos financieros de los órganos que integran a la Procuraduría, así como la substanciación y aplicación de sanciones administrativas de sus funcionarios que incurran en faltas administrativas, con excepción del Procurador, los Fiscales de Distrito y el Fiscal Electoral, cuyas faltas serán denunciadas ante el Gobernador del Estado.
+La Contraloría, tendrá por objeto la fiscalización de los recursos financieros de los órganos que integran a la Procuraduría, así como la substanciación y aplicación de sanciones administrativas de sus funcionarios que incurran en faltas administrativas, con excepción del Procurador, Subprocurador y el Fiscal Electoral, cuyas faltas serán denunciadas ante el Gobernador del Estado.
 
 ###### Artículo 132.
 
@@ -2315,7 +2341,19 @@ X. Ordenar la práctica de auditorías, visitas, inspecciones y revisiones a los
 
 XI. Certificar documentos y expedir constancias de los expedientes relativos a los asuntos de su competencia.
 
-XII. Las demás que le confieran otras disposiciones o el Procurador.
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2011)</small>
+
+XII. Requerir la presencia de los titulares y/o representantes de los órganos sustantivos fiscalizados, para que en hora y día hábil, se efectúen reuniones en las que se den a conocer los resultados preliminares de la revisión y fiscalización efectuada por este Órgano Sustantivo de Control Interno.
+
+> <small>(ADICIONADA, P.O. 9 DE MARZO DE 2011)</small>
+
+XIII. Para dar cumplimiento a lo establecido en la fracción anterior, la Contraloría, dentro de los quince días hábiles siguientes a la conclusión de la auditoria, visita o inspección, citará a los titulares y/o representantes de los órganos sustantivos fiscalizados, para darles a conocer las observaciones preliminares determinadas, a efecto de que dichas áreas, presenten las aclaraciones y justificaciones correspondientes dentro del término de cinco días hábiles siguientes a la celebración de la reunión.
+
+Una vez valorado (sic) los argumentos y pruebas que, en su caso, permitan aclarar o justificar los resultados obtenidos, la Contraloría podrá eliminarlos, modificarlos o rectificarlos, para efectos de llevar a cabo la elaboración definitiva del informe de auditoría.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 9 DE MARZO DE 2011)</small>
+
+XIV. Las demás que le confieran otras disposiciones o el Procurador.
 
 ###### Artículo 133.
 
@@ -2357,7 +2395,7 @@ Una vez transcurrido el término establecido en el párrafo anterior, para la pr
 
 ###### Artículo 137.
 
-El recurso se presentará por escrito ante el Procurador, y deberá llenar los requisitos siguientes:
+El recurso se presentará por escrito ante la autoridad que haya emitido el acto que se impugna, y deberá llenar los requisitos siguientes:
 
 I. Nombre y domicilio del recurrente para oír y recibir notificaciones y, en caso, de quien lo haga en su nombre.
 
@@ -2628,3 +2666,17 @@ Artículo Sexto.- En cumplimiento a lo dispuesto por el artículo 8°, de la Ley
 Dado en el Palacio de Gobierno, Residencia Oficial del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los dieciocho días del mes de septiembre del año dos mil nueve.
 
 Juan Sabines Guerrero, Gobernador del Estado.- Noé Castañón León, Secretario General de Gobierno.- Raciel López Salazar, Procurador General de Justicia del Estado.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 9 DE MARZO DE 2011.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones que tengan similar o menor jerarquía al presente Decreto y que se opongan al mismo.
+
+Artículo Tercero.- La reforma al artículo 22, del Reglamento de la Ley Orgánica de la Procuraduría General de Justicia del Estado, entrará en vigor hasta en tanto el Consejo de Procuración de Justicia, determine mediante acuerdo debidamente publicado en el Periódico Oficial, la jurisdicción y los municipios que integren la circunscripción territorial de las Fiscalías de Distrito.
+
+El Consejo de Procuración de Justicia, deberá expedir a la brevedad posible, el acuerdo mediante el cual se determine la jurisdicción y los municipios que integren la circunscripción territorial de las Fiscalías de Distrito.
+
+Artículo Cuarto.- En cumplimiento a lo dispuesto por el artículo 8° de la Ley Orgánica de la Administración Pública del Estado de Chiapas, publíquese el presente Decreto en el Periódico Oficial.
