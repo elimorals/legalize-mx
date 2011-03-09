@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-de-la-ley-organica-de-la-procuraduria-general-de-679
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-04-01"
-last_updated: "2010-03-10"
+last_updated: "2011-03-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67941&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MOR"
 
 REGLAMENTO DE LA LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE DICIEMBRE DE 2009.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL EL 10 DE MARZO DE 2010.</small>
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE MARZO DE 2011.
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Morelos, el miércoles 1 de abril de 2009.
 
@@ -83,61 +81,65 @@ VIII. Coordinación General de Asesores y Vinculación Institucional;
 
 IX. Coordinación General de Administración y Sistemas;
 
-X. Direcciones Generales de Averiguaciones Previas y Procedimientos Penales;
+> <small>(ADICIONADA, P.O. 9 DE MARZO DE 2011)</small>
 
-XI. Direcciones Generales de Investigaciones y Procesos Penales;
+X. Secretaría Ejecutiva;
+
+XI. Direcciones Generales de Averiguaciones Previas y Procedimientos Penales;
+
+XII. Direcciones Generales de Investigaciones y Procesos Penales;
 
 > <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2009)</small>
 
-XII. Dirección General de Investigaciones y Procesos Penales de la Subprocuraduría de Investigaciones Especiales;
+XIII. Dirección General de Investigaciones y Procesos Penales de la Subprocuraduría de Investigaciones Especiales;
 
-XIII. Dirección General del Centro de Justicia Alternativa;
+XIV. Dirección General del Centro de Justicia Alternativa;
 
-XIV. Dirección General de Asesoría Social y Auxilio a Víctimas;
+XV. Dirección General de Asesoría Social y Auxilio a Víctimas;
 
-XV. Dirección General de Derechos Humanos;
+XVI. Dirección General de Derechos Humanos;
 
-XVI. Dirección General Jurídica, Amparos y Extradiciones;
+XVII. Dirección General Jurídica, Amparos y Extradiciones;
 
-XVII. Dirección General de Enlace Interinstitucional;
+XVIII. Dirección General de Enlace Interinstitucional;
 
 > <small>(F. DE E., P.O. 22 DE JULIO DE 2009)</small>
 
-XVIII. Dirección General de Comunicación Social;
+XIX. Dirección General de Comunicación Social;
 
-XIX. Dirección General de Control Administrativo;
+XX. Dirección General de Control Administrativo;
 
-XX. Dirección General de Planeación y Evaluación;
+XXI. Dirección General de Planeación y Evaluación;
 
-XXI. Dirección General de Administración de Bienes Asegurados;
+XXII. Dirección General de Administración de Bienes Asegurados;
 
-XXII. Dirección General de Sistemas e Información Criminógena;
+XXIII. Dirección General de Sistemas e Información Criminógena;
 
-XXIII. Dirección General de Servicios Periciales;
+XXIV. Dirección General de Servicios Periciales;
 
 > <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2009)</small>
 
-XXIV. Dirección General de Planeación y Operaciones Tácticas;
+XXV. Dirección General de Planeación y Operaciones Tácticas;
 
-XXV. Visitaduría General;
+XXVI. Visitaduría General;
 
-XXVI. Unidades Especializadas de investigación;
+XXVII. Unidades Especializadas de investigación;
 
-XXVII. Coordinaciones de Control de Procesos;
+XXVIII. Coordinaciones de Control de Procesos;
 
-XXVIII. Coordinaciones Regionales de Servicios Periciales;
+XXIX. Coordinaciones Regionales de Servicios Periciales;
 
-XXIX. Coordinación Estatal de Plataforma México;
+XXX. Coordinación Estatal de Plataforma México;
 
-XXX. Direcciones Regionales de la Policía Ministerial;
-
-> <small>(F. DE E., P.O. 22 DE JULIO DE 2009)</small>
-
-XXXI. Dirección Operativa de la Policía Ministerial; y
+XXXI. Direcciones Regionales de la Policía Ministerial;
 
 > <small>(F. DE E., P.O. 22 DE JULIO DE 2009)</small>
 
-XXXII. Dirección de Aprehensiones de la Policía Ministerial.
+XXXII. Dirección Operativa de la Policía Ministerial; y
+
+> <small>(F. DE E., P.O. 22 DE JULIO DE 2009)</small>
+
+XXXIII. Dirección de Aprehensiones de la Policía Ministerial.
 
 > <small>(F. DE E., P.O. 22 DE JULIO DE 2009)</small>
 
@@ -445,7 +447,7 @@ I. Subprocuradurías;
 
 II. Coordinación General de Servicios Periciales y Derechos Humanos;
 
-III. Dirección General de Averiguaciones Previas y Procedimientos Penales de la Zona Metropolitana;
+III. (DEROGADA, P.O. 9 DE MARZO DE 2011)
 
 IV. Dirección General de Investigaciones y Procesos Penales de la Zona Metropolitana, y
 
@@ -467,19 +469,21 @@ III. Subprocuraduría de la Zona Sur-Poniente, con sede en la Ciudad de Jojutla,
 
 Cuando convenga a la imparcial y ágil integración de investigaciones o averiguaciones previas, el Superior Jerárquico podrá disponer que las mismas se integren en una sede distinta a su competencia.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2011)</small>
 
 ###### ARTÍCULO 14.
 
-Las Subprocuradurías Oriente y Sur Poniente tendrán bajo su mando en su circunscripción de competencia las unidades administrativas siguientes:
+La Subprocuraduría Oriente tendrá bajo su mando en su circunscripción de competencia, las unidades administrativas siguientes:
 
-I. Dirección General de Averiguaciones Previas y Procedimientos Penales;
+I. Dirección General de Investigaciones y Procesos Penales, y
 
-> <small>(F. DE E., P.O. 22 DE JULIO DE 2009)</small>
+II. Coordinación de Control de Procesos.
 
-II. Dirección General de Investigaciones y Procesos Penales; y
+La Subprocuraduría Sur Poniente tendrá bajo su mando en su circunscripción de competencia, las unidades administrativas siguientes:
 
-III. Coordinación de Control de Procesos.
+I. Dirección General de Averiguaciones Previas y Procedimientos Penales, y
+
+II. Coordinación de Control de Procesos.
 
 DE LA SUBPROCURADURÍA DE INVESTIGACIONES ESPECIALES
 
@@ -833,6 +837,54 @@ XIX. Resolver, previo acuerdo con el Procurador, sobre las peticiones que realic
 
 XX. Las demás que le señalen otras disposiciones legales aplicables.
 
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 9 DE MARZO DE 2011)</small>
+
+SECRETARÍA EJECUTIVA DEL PROCURADOR
+
+> <small>(ADICIONADO, P.O. 9 DE MARZO DE 2011)</small>
+
+###### ARTÍCULO 26
+
+BIS. El titular de la Secretaría Ejecutiva del Procurador tendrá las siguientes atribuciones:
+
+I. Asegurar la recepción, registro y orientación de los mandamientos dirigidos por los órganos jurisdiccionales al titular de la Procuraduría;
+
+II. Disponer la gestión de los oficios de colaboración que suscriben la Procuraduría General de la República, la Procuraduría de Justicia Militar, la Procuraduría General de Justicia del Distrito Federal y de las Procuradurías Generales de Justicia de las Entidades Federativas, para diligenciar en el Estado de Morelos, la ejecución de órdenes de aprehensión o de auxilio en la investigación de delitos;
+
+III. Dar seguimiento a los acuerdos tomados por el titular de la Procuraduría con el titular del Poder Ejecutivo, con los titulares de las Secretarías Dependencias o Entidades de la Administración Pública del Estado;
+
+IV. Estudiar y evaluar la información contenida en los acuerdos institucionales de investigación conjunta, para la aprobación del titular de la Procuraduría, cuando se requiera y en los términos de los convenios de colaboración y de los instrumentos jurídicos aplicables;
+
+V. Proponer y elaborar los proyectos especiales requeridos e integrar los acuerdos generados en el marco de la Conferencia Nacional de Procuración de Justicia o los Consejos nacional y Estatal de Seguridad Pública;
+
+VI. Garantizar que se dé seguimiento inmediato a los acuerdos que se estipulan en las sesiones efectuadas con los cuerpos colegiados como la Conferencia Nacional de Procuración de Justicia y los Consejos Nacional y Estatal de Seguridad Pública, con el titular de la Procuraduría General de Justicia;
+
+VII. Coordinar y concretar los asuntos relativos a las comparecencias del titular de la Procuraduría, ante el Congreso del Estado, cuando sea requerido en términos de la legislación aplicable;
+
+VIII. Elaborar los informes sobre las actividades instruidas por el titular de la Procuraduría, en el ámbito de su competencia;
+
+IX. Dar cuenta al titular de la Procuraduría de toda la correspondencia y ocursos que le dirijan, así como garantizar el control y archivo de los mismos y de las instrucciones que emita;
+
+X. Acordar con el titular de la Procuraduría la resolución de los asuntos cuya jurisdicción se encuentre dentro del área de su competencia;
+
+XI. Aprobar los estudios, ponencias, discursos, ensayos jurídicos, respuestas, opiniones e informes de las Unidades Administrativas adscritas a la institución, encomendadas por el titular de la Procuraduría;
+
+XII. Coordinar la elaboración del Programa Operativo Anual, el Informe de Gestión Gubernamental y del presupuesto anual de la Secretaría Ejecutiva, así como vigilar el uso y destino de los recursos que le fueron asignados, con la finalidad de eficientar la utilización de ellos;
+
+XIII. Coordinar las giras de trabajo, reuniones y eventos en los que se presentará el titular de la Procuraduría;
+
+XIV. Planear y Supervisar las operaciones necesarias para la seguridad física del titular de la Procuraduría;
+
+XV. Dirigir las labores administrativas de la oficina de acuerdo con las instrucciones y determinaciones emitidas por el titular de la Procuraduría;
+
+XVI. Establecer los mecanismos que permitan evaluar el seguimiento de los acuerdos realizados en las reuniones de trabajo que participe el titular de la Procuraduría;
+
+XVII. Determinar el área a la cual se turnarán las solicitudes presentadas por la ciudadanía en audiencia pública, de acuerdo a las instrucciones emitidas por el titular de la Procuraduría y asegurar su seguimiento;
+
+XVIII. Preparar y someter a la consideración del titular de la Procuraduría los proyectos de Manuales de Organización, Políticas y Procedimientos, de coordinación y de operación, correspondiente a las áreas adscritas a su cargo, y
+
+XIX. Las demás que le sean encomendadas por el titular de la Procuraduría y demás instrumentos jurídicos y administrativos aplicables.
+
 ### CAPÍTULO VI. DE LAS DIRECCIONES GENERALES
 
 ###### ARTÍCULO 27.
@@ -850,6 +902,10 @@ III. Contar con título y cédula profesional a nivel licenciatura, expedida por
 IV. Tener cuando menos veinticinco años cumplidos al momento de su designación, y
 
 V. Tener cuando menos dos años de experiencia profesional.
+
+> <small>(ADICIONADO, P.O. 9 DE MARZO DE 2011)</small>
+
+A juicio del titular de la Procuraduría el titular de la Dirección General de Comunicación Social podrá quedar exento del requisito de la fracción III del presente artículo, y sólo deberá comprobar su experiencia de diez años en el ramo de la comunicación o periodismo.
 
 ###### ARTÍCULO 28.
 
@@ -2535,7 +2591,13 @@ TERCERO.- Se abroga el Reglamento de la Ley Orgánica de la Procuraduría Genera
 
 CUARTO.- Se derogan las disposiciones administrativas que se opongan al presente Reglamento.
 
-QUINTO.- Las Direcciones Generales de Averiguaciones Previas y procedimientos penales y las Coordinaciones de Control de Procesos seguirán operando en tanto subsistan las Averiguaciones previas o procedimientos penales que se rigen por el Código de Procedimientos penales, publicado en el Periódico Oficial "Tierra y Libertad" número 3820 del 09 de octubre de mil novecientos noventa y seis.
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2011)</small>
+
+QUINTO. Las Direcciones Generales de Investigaciones y Procesos Penales de la zona Metropolitana y Oriente, una vez creadas, remplazarán a las actuales Direcciones Generales de Averiguaciones Previas y Procedimientos Penales de dicha zona, extinguiéndolas.
+
+La Dirección General de Averiguaciones Previas y Procedimientos Penales de la Zona Sur Poniente, cambiará su denominación a Dirección General de Investigaciones y Procesos Penales de la Zona Sur Poniente, cuando entre en vigor el Código de Procedimientos Penales del Estado de Morelos publicado en el Periódico Oficial "Tierra y Libertad" número 4570, de fecha 22 de noviembre de 2007, que implementa el sistema adversarial en esa Zona Territorial.
+
+Ocurridos los cambios a los que hacen referencia los dos párrafos anteriores y en tanto subsistan averiguaciones previas y procesos penales que se rijan por el Código de Procedimientos Penales publicado en el Periódico Oficial "Tierra y Libertad" número 3820 de 1999, relativo sistema (sic) inquisitivo, los titulares de las Direcciones Generales de Investigación y Procesos Penales seguirán ejerciendo las atribuciones establecidas en el artículo 29 del presente Reglamento.
 
 SEXTO.- Las averiguaciones previas y procedimientos penales que se tramitan en los municipios de Yautepec, Tlayacapan y Tlalnepantla, se turnaran para su integración y seguimiento a la Subprocuraduría Oriente, una vez que entre en vigencia el presente Reglamento;
 
@@ -2583,7 +2645,7 @@ CUARTO.- En tanto se expiden los manuales respectivos, el Procurador General de 
 
 QUINTO.- Los manuales de organización y de políticas y procedimientos deberán adecuarse en un plazo no mayor a 90 días hábiles, y en tanto se expidan dichos manuales seguirán vigentes los anteriores.
 
-SEXTO.- Las Direcciones Generales de Averiguaciones Previas y Procedimientos Penales ejercerán las atribuciones conferidas a las Direcciones Generales de Investigaciones y Procesos Penales, en tanto se autoriza la estructura orgánica y otorgan los nombramientos respectivos a los titulares de dichas Direcciones Generales.
+SEXTO.- (DEROGADO, P.O. 9 DE MARZO DE 2011)
 
 SÉPTIMO. La Dirección General de Investigaciones y Procesos Penales de la Subprocuraduría de Investigaciones Especiales ejercerá las atribuciones establecidas en el artículo 29 del Reglamento de la Ley Orgánica de la Procuraduría General de Justicia del Estado de Morelos, en tanto existan averiguaciones previas y procesos penales que se rijan por el Código de Procedimientos Penales publicado en el Periódico oficial "Tierra y Libertad" número 3820, del nueve de octubre de mil novecientos noventa y seis.
 
@@ -2600,3 +2662,13 @@ TERCERO.- Quedan sin efecto todos aquellos acuerdos, circulares y demás disposi
 CUARTO.- Los Manuales de Organización y de Políticas y Procedimientos deberán realizarse en un plazo no mayor de sesenta días hábiles.
 
 QUINTO.- En tanto se expiden los manuales respectivos, el Procurador queda facultado para resolver las cuestiones de procedimiento y operaciones que se originen por la aplicación de este ordenamiento.
+
+P.O. 9 DE MARZO DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad".
+
+SEGUNDO.- Se derogan el Transitorio Sexto del Decreto por el cual se reforman, adicionan y derogan diversas disposiciones del Reglamento de la Ley Orgánica de la Procuraduría General de Justicia del Estado de Morelos, publicado en el Periódico Oficial "Tierra y Libertad" número 4749 de fecha 21 de octubre de 2009, así como las demás disposiciones administrativas de igual o menor rango que se opongan al presente Decreto.
+
+TERCERO.- En tanto se expiden los manuales respectivos, el Procurador queda facultado para resolver las cuestiones de procedimiento y operaciones que se originen por la aplicación de este Decreto.
+
+CUARTO.- Los manuales de organización y de políticas y procedimientos deberán adecuarse en un plazo no mayor a 90 días hábiles, y en tanto se expidan dichos manuales seguirán vigentes los anteriores.
