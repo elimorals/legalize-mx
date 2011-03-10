@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-procedimientos-civiles-para-el-distrito-federal-642"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-01"
-last_updated: "2011-01-27"
+last_updated: "2011-03-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=642&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "1932-08-29"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 27 DE ENERO DE 2011.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 10 DE MARZO DE 2011.
 
 Código publicado en el Diario Oficial de la Federación los días 1o. al 21 de septiembre de 1932.
 
@@ -10438,11 +10438,9 @@ G.O. 10 DE SEPTIEMBRE DE 2009.
 
 PRIMERO.- Publíquese el presente Decreto en la Gaceta Oficial del Distrito Federal para su conocimiento.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>(REFORMADO, G.O. 10 DE MARZO DE 2011)</small>
 
-> <small>(REFORMADO, G.O. 14 DE MAYO DE 2010)</small>
-
-SEGUNDO.- Las reformas previstas en el presente Decreto entrarán en vigor a los sesenta días siguientes a su publicación en la Gaceta Oficial del Distrito Federal a excepción de las relativas al título Décimo Séptimo denominado "Del Juicio Oral Civil", que entrarán en vigor a partir del 10 de marzo del 2011.
+SEGUNDO.- Las reformas previstas en el presente Decreto entraran en vigor a los sesenta días siguientes a su publicación en la Gaceta Oficial del Distrito Federal a excepción de las relativas al Titulo Décimo Séptimo denominado "Del Juicio Oral Civil", que entrarán en vigor a partir del 27 de enero del 2012.
 
 TERCERO.- Los asuntos cuya demanda haya sido admitida con anterioridad a la entrada en vigor de las reformas a que se refiere el presente Decreto se tramitarán conforme a las disposiciones anteriores a ellas.
 
@@ -10473,3 +10471,9 @@ SEGUNDO.- Se abroga la actual Ley de Propiedad en Condominio de Inmuebles para e
 TERCERO.- El Jefe de Gobierno del Distrito Federal, contará con 60 días hábiles a partir de la publicación de la presente Ley para emitir su Reglamento.
 
 CUARTO.- Publíquese en la Gaceta Oficial del Distrito Federal y para mayor difusión en el Diario Oficial de la Federación.
+
+G.O. 10 DE MARZO DE 2011.
+
+PRIMERO. El presente decreto entrará en vigor el 10 de marzo de 2011.
+
+SEGUNDO. Publíquese el presente Decreto en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
