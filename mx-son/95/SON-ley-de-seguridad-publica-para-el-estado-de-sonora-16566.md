@@ -4,7 +4,7 @@ identifier: "SON-ley-de-seguridad-publica-para-el-estado-de-sonora-16566"
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-30"
-last_updated: "2008-12-08"
+last_updated: "2011-03-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16566&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 8 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE MARZO DE 2011.
 
 Ley publicada en la Sección Segunda del Boletín Oficial del Estado de Sonora, el lunes 30 de diciembre de 1996.
 
@@ -937,9 +937,25 @@ IX.- Definir y ejecutar acciones de administración de riesgos en relación con 
 
 X.- Las demás que determine esta Ley, los reglamentos que deriven de la misma y otras disposiciones aplicables.
 
+> <small>(ADICIONADO, B.O. 10 DE MARZO DE 2011)</small>
+
+La Policía Estatal de Seguridad Pública brindará la vigilancia y protección necesaria a la integridad física, por el tiempo que dure su encargo, a los siguientes servidores públicos: Gobernador del Estado, Secretario de Gobierno, Procurador General de Justicia y Subprocuradores, Secretario Ejecutivo del Consejo Estatal de Seguridad Pública, Director General de la Policía Estatal Investigadora y de la Policía Estatal de Seguridad Pública, así como de aquellos servidores públicos que por la naturaleza de sus funciones se pueda derivar algún peligro a su integridad física.
+
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2003)</small>
 
 ARTICULO 82 BIS.- Las relaciones jerárquicas, las estructuras normativas y operativas, su organización territorial, las demás atribuciones de mando, dirección y disciplina, así como otros componentes del régimen interno de la Policía Estatal de Seguridad Pública, serán determinados en el reglamento interior que el Ejecutivo Estatal expida.
+
+> <small>(ADICIONADO, B.O. 10 DE MARZO DE 2011)</small>
+
+###### ARTICULO 82 Ter.
+
+El Secretario Ejecutivo, por conducto de la Policía Estatal de Seguridad Pública, está obligado a otorgar, en el Estado, servicio de protección, vigilancia y custodia de la integridad física, a las personas que hayan desempeñado los puestos de Gobernador del Estado, Procurador General de Justicia y Secretario Ejecutivo del Consejo Estatal de Seguridad Pública. Dicha prestación se otorgará, en forma gratuita y como mínimo, por un periodo igual al que estuvo en funciones, pudiendo prorrogarse por el plazo que considere necesario el Secretario Ejecutivo.
+
+El Secretario Ejecutivo podrá extender el beneficio señalado en el párrafo anterior, a aquellas personas que por la naturaleza de sus funciones y por los asuntos oficiales en que participaron dentro del Gobierno del Estado, se pudiera derivar algún riesgo o peligro a su integridad física.
+
+Las decisiones del Secretario Ejecutivo deberán adoptarse, sin demora, dentro de las 48 horas siguientes a la fecha en que el servidor público concluyó el ejercicio de su encargo o, si fuere el caso, en forma previa al vencimiento del plazo de protección que les señala el primer párrafo de este artículo a quien fungió como Gobernador del Estado, Procurador General de Justicia o Secretario Ejecutivo de Seguridad Pública.
+
+Al ex funcionario en custodia, deberán proporcionársele aquellos instrumentos, herramientas, equipo o armas que durante su encargo sirvieron para darle seguridad personal, tales como chaleco antibalas, armamento o cualquier otro necesario para su protección. Adicionalmente, a quien ostentó el cargo de Procurador General de Justicia se le proporcionará vehículo blindado.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 18 DE DICIEMBRE DE 2003)</small>
 
@@ -2504,3 +2520,13 @@ El presente decreto entrará en vigor el día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO.
 
 Los ayuntamientos de los municipios del Estado, deberán emitir el reglamento a que se refiere el presente decreto, dentro de los seis meses siguientes a la entrada en vigor del mismo.
+
+B.O. 10 DE MARZO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+Los ex funcionarios que a la fecha de entrada en vigor del presente Decreto cuenten, por disposición administrativa, con protección y vigilancia de su integridad física proporcionada por el Gobierno del Estado, continuarán con dicho beneficio, debiendo correr el término que señala el artículo 82 Ter del presente resolutivo. Para tal efecto, el Secretario Ejecutivo elaborará un registro en el que detalle las personas que cuentan con dicho beneficio.
