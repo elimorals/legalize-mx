@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-promexico-67270"
 country: "mx"
 rank: "estatuto"
 publication_date: "2009-03-10"
-last_updated: "2010-03-23"
+last_updated: "2011-03-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67270&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2009-02-24"
 
 ESTATUTO ORGANICO DE PROMEXICO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE MARZO DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ESTATUTO ORGANICO DE PROMEXICO, PUBLICADO EN EL D.O.F. DE 10 DE MARZO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el martes 10 de marzo de 2009.
 
@@ -978,3 +980,13 @@ México, D.F., a 24 de febrero de 2009.- El Coordinador de Asuntos Jurídicos Pr
 D.O.F. 23 DE MARZO DE 2010.
 
 UNICO.- La presente reforma al Estatuto Orgánico de ProMéxico entra en vigor al siguiente día de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 10 DE MARZO DE 2011.
+
+PRIMERO.- Este Estatuto Orgánico entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Estatuto Orgánico del Fideicomiso Público considerado Entidad Paraestatal denominado ProMéxico, publicado en el Diario Oficial de la Federación el día 10 de marzo de 2009, y se derogan todas aquellas disposiciones administrativas que se opongan al presente Estatuto Orgánico.
+
+TERCERO.- Los asuntos en trámite a la entrada en vigor de este Estatuto serán resueltos por la unidad administrativa a la que se le atribuya la competencia correspondiente en el presente Estatuto.
+
+CUARTO.- Los derechos laborales del personal que, en virtud de lo dispuesto en el presente Estatuto, sea asignado de una unidad administrativa a otra, se respetarán conforme a la ley. La Unidad de Administración y Finanzas deberá realizar las acciones necesarias para que se emitan los nombramientos acordes con las nuevas denominaciones de las unidades administrativas que corresponda.
