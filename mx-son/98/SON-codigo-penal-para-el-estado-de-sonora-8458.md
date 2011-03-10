@@ -4,7 +4,7 @@ identifier: "SON-codigo-penal-para-el-estado-de-sonora-8458"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-03-24"
-last_updated: "2010-12-16"
+last_updated: "2011-03-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8458&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CODIGO PENAL PARA EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 16 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE MARZO DE 2011.
 
 Código publicado en la Sección Primera del Boletín Oficial del Estado de Sonora, el jueves 24 de marzo de 1994.
 
@@ -3337,6 +3337,12 @@ c) Si el delito es cometido en contra de quien no tenga capacidad para comprende
 
 d) Cuando el sujeto activo del delito tenga parentesco por consaguinidad, afinidad o civil, habite en el mismo domicilio con la víctima, tenga una relación similar al parentesco o una relación sentimental o de confianza con el sujeto pasivo.
 
+> <small>(ADICIONADO, B.O. 10 DE MARZO DE 2011)</small>
+
+ARTICULO 301 L.- Al que pudiendo hacerlo con su intervención inmediata y sin riesgo propio o ajeno, no impidiere la comisión del delito de trata de personas, se le impondrá una pena de seis meses a dos años de prisión y de cincuenta a doscientos días multa.
+
+La misma pena se impondrá a quien, pudiendo hacerlo, no acuda a la autoridad o a sus agentes a denunciar el delito de trata de personas de cuya comisión tenga noticia.
+
 ## TITULO VIGESIMO PRIMERO. ENCUBRIMIENTO
 
 ###### ARTICULO 302.
@@ -3962,3 +3968,9 @@ Dentro de los treinta días hábiles siguientes a la entrada en vigor del presen
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+B.O. 10 DE MARZO DE 2011.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
