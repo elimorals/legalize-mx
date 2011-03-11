@@ -4,7 +4,7 @@ identifier: "CAM-reglamento-interior-de-la-secretaria-de-gobierno-25901"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-09-11"
-last_updated: "2008-09-15"
+last_updated: "2011-03-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25901&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE GOBIERNO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE SEPTIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MARZO DE 2011.
 
 Reglamento publicado en la Sección Administrativa del Periódico Oficial del Estado de Campeche, el miércoles 11 de septiembre de 2002.
 
@@ -77,9 +77,13 @@ XVI. Dirección de Programación y Desarrollo;
 
 XVII. Unidad de la Defensoría Pública;
 
-XVIII. Unidad de Asuntos Jurídicos; y
+XVIII. Unidad de Asuntos Jurídicos; y (sic)
 
-XIX. Unidad de Evaluación y Seguimiento.
+XIX. Unidad de Evaluación y Seguimiento;
+
+> <small>(ADICIONADA, P.O. 11 DE MARZO DE 2011)</small>
+
+XX.- Órganos administrativos desconcentrados
 
 ###### Artículo 3.
 
@@ -633,6 +637,34 @@ XI. Establecer el vínculo con las áreas de control de gestión correspondiente
 
 XII. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como las que le confiera el titular del Ramo.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 11 DE MARZO DE 2011)</small>
+
+### Capítulo XIX Bis. Del Consejo Estatal De Seguridad Pública
+
+> <small>(ADICIONADO, P.O. 11 DE MARZO DE 2011)</small>
+
+###### Artículo 25 Bis.
+
+El Consejo Estatal de Seguridad Pública es un órgano desconcentrado de la Secretaría de Gobierno del Estado e instancia superior de coordinación del Sistema Estatal de Seguridad Pública del Estado de Campeche, así como de colaboración y participación ciudadana en la materia.
+
+El Consejo es la instancia estatal de coordinación, supervisión y planeación para efectos de la Ley General que establece las Bases del Sistema Nacional de Seguridad Pública.
+
+El Consejo Estatal de Seguridad Pública tendrá las atribuciones que expresamente le señala la Ley de Seguridad Pública del Estado de Campeche, el Reglamento Interno del Consejo Estatal de Seguridad Pública y las que correspondiéndole ejercer a la Secretaría, le delegue por escrito el Secretario al titular del órgano.
+
+> <small>(ADICIONADO, P.O. 11 DE MARZO DE 2011)</small>
+
+###### Artículo 25 Ter.
+
+Los órganos de apoyo adscritos al Consejo Estatal de Seguridad Pública son los siguientes:
+
+I. El Instituto Superior de Estudios en Seguridad Pública, órgano de capacitación, profesionalización y desarrollo del servicio civil de carrera de las instituciones de seguridad pública del Estado y los Municipios;
+
+II. El Centro de Enlace Informático, encargado de administrar las bases de datos e información que las distintas instituciones generen y que sea útil para el combate a la delincuencia y a las conductas antisociales, así como llevar el registro estadístico de la seguridad pública;
+
+III. El Centro de Control, Comando, Comunicaciones y Cómputo, instancia que administra el sistema de atención de llamadas de emergencia y coordina la respuesta policial; y
+
+IV. El Centro de Evaluación y Control de Confianza que tiene como finalidad, regular el funcionamiento de organismos públicos y privados mediante la evaluación permanente y control de confianza al personal de las instituciones policiales, de procuración de justicia y centros de readaptación social.
+
 ### Capítulo XX. De las Suplencias
 
 ###### Artículo 26.
@@ -682,3 +714,9 @@ Cuarto.- Los recursos materiales y financieros asignados a la Dirección que se 
 Quinto.- Los asuntos en trámite ante la Dirección del Autotransporte que, a la entrada en vigor de este Reglamento, se encuentran inconclusos o abandonados, se concluirán en la forma prevista en la Ley y este Reglamento.
 
 Sexto.- Todo lo no previsto en este Reglamento quedará sujeto al acuerdo que respecto a cada caso, emita el Consejo.
+
+P.O. 11 DE MARZO DE 2011.
+
+PRIMERO.- El presente acuerdo entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los órganos de apoyo del Consejo Estatal de Seguridad Pública tendrán las atribuciones que señale el Reglamento Interno de dicho Consejo.
