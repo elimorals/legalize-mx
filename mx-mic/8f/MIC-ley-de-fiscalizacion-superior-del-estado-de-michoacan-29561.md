@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-fiscalizacion-superior-del-estado-de-michoacan-29561"
 country: "mx"
 rank: "ley"
 publication_date: "2003-03-28"
-last_updated: "2010-06-02"
+last_updated: "2011-03-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29561&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE FISCALIZACION SUPERIOR DEL ESTADO DE MICHOACAN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE JUNIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MARZO DE 2011.
 
 Ley publicada en la Sección Segunda el Periódico Oficial del Estado de Michoacán, el viernes 28 de marzo de 2003.
 
@@ -117,9 +117,11 @@ La Auditoría Superior resolverá, con o sin participación de los órganos inte
 
 ### CAPÍTULO SEGUNDO. DE LA AUDITORÍA SUPERIOR DE MICHOACÁN
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE MARZO DE 2011)</small>
+
 ###### ARTÍCULO 6°.
 
-La Auditoría, en uso de las facultades y obligaciones que le establezca tanto la Constitución como las demás leyes del Estado, tendrá las atribuciones siguientes:
+La Auditoría, en uso de las facultades y obligaciones constitucionales, tendrá las atribuciones siguientes:
 
 > <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2007)</small>
 
@@ -141,9 +143,9 @@ VI. Implementar el procedimiento de ejecución que corresponda, que reintegre a 
 
 VII. Recibir, registrar, verificar, analizar y vigilar el estado de situación patrimonial de los servidores públicos obligados a presentar las declaraciones correspondientes;
 
-> <small>(ADICIONADA, P.O. 13 DE FEBRERO DE 2007)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 11 DE MARZO DE 2011)</small>
 
-VII BIS. Determinar los montos, requerir, recibir, registrar y aplicar las fianzas o cauciones a los funcionarios y empleados que manejen recursos públicos;
+VII BIS. Proponer a la Comisión, en los términos y bajo el procedimiento establecido en esta ley, los lineamientos para establecer, requerir, tramitar, recibir, registrar, aplicar y determinar los montos de las fianzas o cauciones a los servidores públicos que recauden, manejen, custodien o autoricen recursos públicos;
 
 VIII. Establecer las reglas técnicas de instrucción, procedimientos, métodos y sistemas de contabilidad y de archivo de los libros y documentos justificativos y comprobatorios del ingreso y del gasto público, así como todos aquellos elementos de convicción que permitan la práctica idónea de las auditorías, revisiones, inspecciones, compulsas y confrontaciones que resulten;
 
@@ -253,6 +255,10 @@ II. Elaborar el proyecto de presupuesto anual de la Auditoría Superior y remiti
 
 III. Administrar, vigilar los bienes y recursos a cargo de la Auditoría Superior, sujetándose a lo dispuesto en las leyes de la materia;
 
+> <small>(ADICIONADA, P.O. 11 DE MARZO DE 2011)</small>
+
+III BIS. Proponer a la Comisión, en los términos y bajo el procedimiento establecido en esta ley, los lineamientos para establecer, requerir, tramitar, recibir, registrar, aplicar y determinar los montos de las fianzas o cauciones a los servidores públicos que recauden, manejen, custodien o autoricen recursos públicos;
+
 IV. Elaborar el programa operativo anual de la Auditoría Superior, de conformidad a los criterios de eficiencia e instrucción que se establezcan en los reglamentos o manuales por ella expedidos;
 
 > <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2007)</small>
@@ -355,17 +361,23 @@ VI. Permitir cualquier influencia externa en el desempeño de sus funciones; y,
 
 VII. Conducirse con parcialidad en el desempeño de sus funciones.
 
-### CAPÍTULO QUINTO. DE LA COMISIÓN INSPECTORA DE LA AUDITORÍA SUPERIOR DE MICHOACÁN
+> <small>(REFORMADA SU DENOMINACION, P.O. 11 DE MARZO DE 2011)</small>
+
+### CAPÍTULO QUINTO. DE LA COMISIÓN INSPECTORA DE LA AUDITORÍA SUPERIOR DE MICHOACÁN Y DEL PROCESO PARA LA DETERMINACION DE FIANZAS
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE MARZO DE 2011)</small>
 
 ###### ARTÍCULO 17.
 
-La Comisión tendrá la responsabilidad de vigilancia y seguimiento de las actividades de la Auditoría Superior y tendrá competencia específica para:
+La Comisión tendrá la responsabilidad de vigilar y dar seguimiento a las actividades de la Auditoría Superior y tendrá competencia para:
 
 I. Recibir el Congreso o Comisión competente, todo tipo de información referente a la Cuenta Pública de las entidades y turnarla a la Auditoría Superior, para su revisión;
 
 II. Ordenar la Auditoría Superior, cuando lo estime conveniente para los efectos de esta Ley, la práctica de visitas, inspecciones y auditorías a las entidades:
 
-III. Conocer de la integración de reglamentos, manuales y procesos de calidad y reingeniería administrativa;
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2011)</small>
+
+III. Conocer la emisión de reglamentos y demás normatividad interna, así como manuales, procesos de calidad y reingeniería administrativa;
 
 IV. Evaluar el desempeño de la Auditoría Superior, así como dar seguimiento a los programas administrativos en los procedimientos que, para su funcionamiento, establezcan los reglamentos y manuales;
 
@@ -422,6 +434,26 @@ f) Informe trimestral de las operaciones que haya practicado y el seguimiento de
 ###### ARTÍCULO 19.
 
 Los poderes del Estado y los ayuntamientos podrán formular queja o denuncia ante la Comisión sobre los actos u omisiones de los servidores públicos de la Auditoría Superior que contravengan las disposiciones de esta Ley, en cuyo caso, la Comisión substanciará la investigación a fin de determinar si se actualiza alguna de las causas previstas en los artículos 15 y 16 esta (sic) Ley.
+
+> <small>(ADICIONADO, P.O. 11 DE MARZO DE 2011)</small>
+
+ARTÍCULO 19 BIS. Las fianzas o cauciones que por ley deban entregar los servidores públicos estatales o municipales garantizarán la responsabilidad en el desempeño de su empleo, encargo o comisión.
+
+> <small>(ADICIONADO, P.O. 11 DE MARZO DE 2011)</small>
+
+ARTÍCULO 19 TER. Los servidores públicos que deban garantizar su responsabilidad mediante fianza o caución, podrán constituirla de forma individual o colectiva sobre bienes privados propios o ajenos, que nunca serán públicos.
+
+La vigencia de la fianza o caución corresponderá al tiempo del proceso de fiscalización respectivo, mismo que no podrá ser mayor a un año.
+
+> <small>(ADICIONADO, P.O. 11 DE MARZO DE 2011)</small>
+
+ARTÍCULO 19 QUÁTER. Los lineamientos sobre las fianzas o cauciones deberán aprobarse previo conocimiento de la Comisión y publicarse en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo. Dichos lineamientos garantizarán que el monto de las fianzas o cauciones sea objetivo y racional.
+
+Los lineamientos deberán estar publicados oficialmente a más tardar dentro de la segunda quincena del mes de febrero del año en que hayan de celebrarse elecciones locales para cargos de elección popular. En caso de que no estén aprobados y publicados en la fecha referida, se atenderá a los últimos lineamientos publicados oficialmente.
+
+> <small>(ADICIONADO, P.O. 11 DE MARZO DE 2011)</small>
+
+ARTÍCULO 19 QUINQUlES. Las fianzas o cauciones que se fijen a los servidores públicos deberán atender a su función, sea recaudación, manejo, custodia o autorización de recursos públicos. El monto de las fianzas o cauciones no podrá ser mayor al cuarenta por ciento del presupuesto total respectivo.
 
 ### CAPÍTULO SEXTO. DE LA CUENTA PÚBLICA
 
@@ -842,3 +874,9 @@ El presente Decreto entrará en vigor al día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Dése cuenta del presente Decreto, al Titular de la Auditoría Superior de Michoacán, y la Comisión Inspectora de la Auditoría Superior de Michoacán del Congreso del Estado de Michoacán de Ocampo, para su conocimiento y efectos conducentes.
+
+P.O. 11 DE MARZO DE 2011.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
