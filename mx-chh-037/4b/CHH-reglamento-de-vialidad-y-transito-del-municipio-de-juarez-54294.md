@@ -4,7 +4,7 @@ identifier: "CHH-reglamento-de-vialidad-y-transito-del-municipio-de-juarez-54294
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-02-03"
-last_updated: "2009-01-31"
+last_updated: "2011-03-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54294&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 REGLAMENTO DE VIALIDAD Y TRANSITO DEL MUNICIPIO DE JUAREZ, ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE ENERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MARZO DE 2011.
 
 Reglamento publicado en el Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 3 de febrero de 2007.
 
@@ -1127,6 +1127,18 @@ III. Tomar las medidas indispensables, mediante señalamientos preventivos y enc
 
 IV. Cooperar con el representante de la autoridad que intervenga para retirar los vehículos accidentados que obstruyan la vía pública, y proporcionar los informes sobre el accidente.
 
+ADICIONADO, P.O. 12 DE MARZO DE 2011)
+
+Artículo 77 bis.- Será responsable del incidente vial denominado choque, al conductor de un vehículo que por consecuencia del impacto del mismo destruya o deteriore un bien mueble o inmueble propio o ajeno.
+
+ADICIONADO, P.O. 12 DE MARZO DE 2011)
+
+Artículo 77 ter.- Será responsable del incidente vial denominado volcadura, al conductor de un vehículo que pierda la verticalidad del mismo, dejando de deslizarse sobre sus neumáticos, y desplazándose sin control sobre cualquier parte de la carrocería.
+
+ADICIONADO, P.O. 12 DE MARZO DE 2011)
+
+Artículo 77 quáter.- Será responsable del incidente vial denominado atropello, al conductor que pase un vehículo por encima de alguna persona o choque contra ella.
+
 ###### Artículo 78.
 
 Los concesionarios del servicio de grúas que trasladen los vehículos dañados en un accidente de tránsito, deberán retirar inmediatamente de la vía pública los residuos de combustibles o cualquier material que se hubiese esparcido en ella, para evitar otros accidentes. El agente de transito que conozca del asunto deberá cerciorarse de que se cumpla cabalmente con esta disposición.
@@ -1931,9 +1943,7 @@ V. Una vez proporcionados los documentos, se procederá a infraccionar al conduc
 
 VI. Como garantía de que el infractor se presentará a pagar el importe de la multa impuesta, se procederá a recoger alguno de los documentos proporcionados, en el orden que a continuación se menciona: licencia de conducir, tarjeta de circulación o una placa. Independientemente de la garantía otorgada por el infractor, el vehículo responderá preferentemente por los créditos fiscales que se generen con motivo de las multas impuestas que hayan quedado firmes;
 
-> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2009)</small>
-
-En caso de que el infractor demuestre a satisfacción de la autoridad, que reside en esta ciudad, no será necesario recoger ningún documento de los que se señalan;
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 12 DE MARZO DE 2011)</small>
 
 VII. Finalmente, el agente que conozca del asunto, notificará al presunto infractor por medio de boleta que deberá estar fundada y motivada, que cuenta con un término de tres días hábiles para que acuda y sea escuchado en audiencia por el Oficial Calificador, teniéndose por ciertos los motivos de infracción plasmados en el documento, en caso de no comparecer sin causa justificada dentro del término señalado para tal efecto, a cualquiera de las audiencias a que fuere citado.
 
@@ -2061,9 +2071,17 @@ Se sancionará con una multa por el equivalente de 10 a 12 salarios mínimos, al
 
 Se sancionará con multa por el equivalente de 20 a 22 salarios mínimos, al que contravenga lo preceptuado en los artículos: 75 fracciones I, II, III; 108; y 113 fracción XII.
 
+ADICIONADO, P.O. 12 DE MARZO DE 2011)
+
+Artículo 180 bis.- Se sancionará con multa por el equivalente de 20 a 30 salarios mínimos, al que incurra en los incidentes viales comprendidos en los artículos 77 bis y 77 ter.
+
 ###### Artículo 181.
 
 Se sancionará con multa por el equivalente de 35 a 37 salarios mínimos, al que contravenga lo estipulado en el artículo 71 fracción III.
+
+ADICIONADO, P.O. 12 DE MARZO DE 2011)
+
+Artículo 181 bis.- Se sancionará con multa por el equivalente de 40 a 50 salarios mínimos, al que incurra en el incidente vial comprendido en el artículo 77 quáter.
 
 ###### Artículo 182.
 
@@ -2144,3 +2162,15 @@ P.O. 17 DE ENERO DE 2009.
 P.O. 31 DE ENERO DE 2009.
 
 ÚNICO.- Las reformas y adiciones contenidas en el presente acuerdo, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Chihuahua.
+
+P.O. 12 DE MARZO DE 2011.
+
+ACUERDO NUMERO 079, POR EL QUE SE DEROGA EL ARTICULO 157 FRACCION VI DEL REGLAMENTO DE VIALIDAD Y TRANSITO DEL MUNICIPIO DE JUAREZ, ESTADO DE CHIHUAHUA.
+
+ÚNICO.- La reforma contenida en el presente acuerdo, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Chihuahua.
+
+P.O. 12 DE MARZO DE 2011.
+
+ACUERDO NUMERO 080, POR EL QUE SE ADICIONAN LOS ARTICULOS 77 BIS, 77 TER, 77 QUATER, 180 BIS, 181 BIS DEL REGLAMENTO DE VIALIDAD Y TRANSITO DEL MUNICIPIO DE JUAREZ, ESTADO DE CHIHUAHUA.
+
+ÚNICO.- Las condiciones contenidas en el presente acuerdo, entrarán en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Chihuahua.
