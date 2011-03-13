@@ -4,7 +4,7 @@ identifier: "DUR-reglamento-de-transparencia-y-acceso-a-la-informacion-66951"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-12-25"
-last_updated: "2008-12-25"
+last_updated: "2011-03-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66951&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ state: "DUR"
 
 REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL MUNICIPIO DE GOMEZ PALACIO, DURANGO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO TRANSITORIO DEL REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACION DEL MUNICIPIO DE GOMEZ PALACIO, DURANGO, PUBLICADO EN EL P.O. DE 13 DE MARZO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Durango, el jueves 25 de diciembre de 2008.
 
@@ -1076,3 +1078,11 @@ PRESIDENTE MUNICIPAL
 LIC. PAUL JORGE RAMÍREZ RIVAS
 
 SECRETARIO DEL R. AYUNTAMIENTO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 13 DE MARZO DE 2011.
+
+Artículo Primero.- Queda abrogado el Reglamento de Acceso a la Información Pública del Municipio de Gómez Palacio, Durango, aprobado en Sesión Ordinaria del H. Cabildo el día 18 de Diciembre de 2008 y publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango número 51 Bis de fecha 25 de Diciembre de 2008, así como las disposiciones o acuerdos que se opongan al presente Reglamento.
+
+Artículo Segundo.- Este Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
