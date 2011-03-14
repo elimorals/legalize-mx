@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-num-10-2010-del-pleno-de-la-suprema-corte-76082
 country: "mx"
 rank: "acuerdo"
 publication_date: "2010-08-19"
-last_updated: "2010-08-19"
+last_updated: "2011-03-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76082&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2010-08-09"
 
 ACUERDO GENERAL NUMERO 10/2010, DE NUEVE DE AGOSTO DE DOS MIL DIEZ, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, POR EL QUE SE ORDENA A LOS JUZGADOS DE DISTRITO EL ENVIO DIRECTO A ESTA SUPREMA CORTE DE JUSTICIA DE LA NACION DE LOS AMPAROS EN REVISION EN LOS QUE SUSBSISTA EL PROBLEMA DE CONSTITUCIONALIDAD DE LA LEY DE LOS SISTEMAS DE AHORRO PARA EL RETIRO, PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION DEL VEINTITRES DE MAYO DE MIL NOVECIENTOS NOVENTA Y SEIS, PARTICULARMENTE LOS ARTICULOS 5, 18, 36, 37, 37 A, 37 B, 37 C, 44 BIS., 74, 76, Y 100 B, REFORMADOS Y ADICIONADOS MEDIANTE DECRETO PUBLICADO EN DICHO MEDIO DE PUBLICACION OFICIAL EL VEINTIUNO DE ENERO DE DOS MIL NUEVE; ASI COMO EL APLAZAMIENTO EN EL DICTADO DE LA RESOLUCION EN DICHOS ASUNTOS, RADICADOS TANTO EN ESTE ALTO TRIBUNAL COMO EN LOS TRIBUNALES COLEGIADOS DE CIRCUITO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL ACUERDO GENERAL NUMERO 2/2011, DE 3 DE MARZO DE 2011, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, SE LEVANTA EL APLAZAMIENTO DISPUESTO EN EL ACUERDO GENERAL PLENARIO 10/2010, DE 9 DE AGOSTO DE 2010, DEL DICTADO DE LA SENTENCIA EN LOS AMPAROS EN REVISION DEL CONOCIMIENTO DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO EN LOS QUE SUBSISTA EL ANALISIS DE CONSTITUCIONALIDAD DE LA LEY DE LOS SISTEMAS DE AHORRO PARA EL RETIRO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE MARZO DE 2011.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 19 de agosto de 2010.
 
@@ -64,3 +66,11 @@ El Presidente de la Suprema Corte de Justicia de la Nación, Ministro Guillermo 
 El licenciado Rafael Coello Cetina, Secretario General de Acuerdos de la Suprema Corte de Justicia de la Nación, CERTIFICA: Este ACUERDO GENERAL NUMERO 10/2010, DE NUEVE DE AGOSTO DE DOS MIL DIEZ, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, POR EL QUE SE ORDENA A LOS JUZGADOS DE DISTRITO EL ENVIO DIRECTO A ESTA SUPREMA CORTE DE JUSTICIA DE LA NACION DE LOS AMPAROS EN REVISION EN LOS QUE SUSBSISTA EL PROBLEMA DE CONSTITUCIONALIDAD DE LA LEY DE LOS SISTEMAS DE AHORRO PARA EL RETIRO, PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION DEL VEINTITRES DE MAYO DE MIL NOVECIENTOS NOVENTA Y SEIS, PARTICULARMENTE LOS ARTICULOS 5, 18, 36, 37, 37 A, 37 B, 37 C, 44 BIS., 74, 76, Y 100 B, REFORMADOS Y ADICIONADOS MEDIANTE DECRETO PUBLICADO EN DICHO MEDIO DE PUBLICACION OFICIAL EL VEINTIUNO DE ENERO DE DOS MIL NUEVE; ASI COMO EL APLAZAMIENTO EN EL DICTADO DE LA RESOLUCION EN DICHOS ASUNTOS, RADICADOS TANTO EN ESTE ALTO TRIBUNAL COMO EN LOS TRIBUNALES COLEGIADOS DE CIRCUITO, fue emitido por el Tribunal Pleno en Sesión Privada celebrada el día de hoy, por unanimidad de once votos de los señores Ministros Sergio Salvador Aguirre Anguiano, José Ramón Cossío Díaz, Margarita Beatriz Luna Ramos, José Fernando Franco González Salas, Arturo Zaldívar Lelo de Larrea, José de Jesús Gudiño Pelayo, Luis María Aguilar Morales, Sergio A. Valls Hernández, Olga Sánchez Cordero de García Villegas, Juan N. Silva Meza y Presidente Guillermo I. Ortiz Mayagoitia.- México, Distrito Federal, a nueve de agosto dos mil diez.- Rúbrica.
 
 EL LICENCIADO RAFAEL COELLO CETINA, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, CERTIFICA: Que esta copia fotostática constante de ocho fojas útiles concuerda fiel y exactamente con el original del Acuerdo General Plenario 10/2010, que obra en los archivos de la sección de instrumentos normativos de esta Secretaría General de Acuerdos y se expide para su publicación en el Diario Oficial de la Federación.- México, Distrito Federal, a doce de agosto de dos mil diez.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 14 DE MARZO DE 2011.
+
+PRIMERO. Este Acuerdo General entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el presente Acuerdo General en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta y, en términos de lo dispuesto en el artículo 7, fracción XIV, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, en medios electrónicos de consulta pública; y hágase del conocimiento del Consejo de la Judicatura Federal y, para su cumplimiento, de los Juzgados de Distrito y de los Tribunales Colegiados de Circuito.
