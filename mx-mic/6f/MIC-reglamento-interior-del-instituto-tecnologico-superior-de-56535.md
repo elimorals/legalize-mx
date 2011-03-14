@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-interior-del-instituto-tecnologico-superior-de-56535
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-07-19"
-last_updated: "2007-07-19"
+last_updated: "2011-03-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56535&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MIC"
 
 REGLAMENTO INTERIOR DEL INSTITUTO TECNOLOGICO SUPERIOR DE HUETAMO, MICHOACAN
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO TECNOLOGICO SUPERIOR DE HUETAMO, MICHOACAN, PUBLICADO EN EL P.O. DE 14 DE MARZO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Michoacán, el jueves 19 de julio de 2007.
 
@@ -342,3 +344,11 @@ ROSA HILDA ABASCAL RODRÍGUEZ
 Secretaria de Contraloría y Desarrollo Administrativo
 
 (Firmado)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 14 DE MARZO DE 2011.
+
+Artículo Primero. El presente Reglamento entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Artículo Segundo. Se abroga el Reglamento Interior del Instituto Tecnológico Superior de Huetamo, Michoacán, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, de fecha 19 de julio de 2007 y se dejan sin efecto las demás disposiciones de carácter administrativo en lo que se opongan al presente Reglamento.
