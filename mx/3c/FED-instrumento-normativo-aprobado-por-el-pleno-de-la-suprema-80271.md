@@ -1,0 +1,66 @@
+---
+title: "INSTRUMENTO NORMATIVO APROBADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION [SE MODIFICAN EL CONSIDERANDO OCTAVO Y EL PUNTO UNICO DEL ACUERDO GENERAL NUMERO 7/2009]"
+identifier: "FED-instrumento-normativo-aprobado-por-el-pleno-de-la-suprema-80271"
+country: "mx"
+rank: "otro"
+publication_date: "2011-03-14"
+last_updated: "2011-03-14"
+status: "in_force"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80271&Vig=1&TPub=6"
+department: "Diario Oficial de la Federación"
+scjn_id: "80271"
+scjn_status: "VIGENTE"
+gazette: "Diario Oficial de la Federación"
+original_category: "INSTRUMENTO NORMATIVO"
+original_gazette_section: "10 PRIMERA SECCION"
+reform_count: "0"
+scjn_last_update: "2011-03-14"
+issue_date: "2011-03-07"
+---
+# INSTRUMENTO NORMATIVO APROBADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION [SE MODIFICAN EL CONSIDERANDO OCTAVO Y EL PUNTO UNICO DEL ACUERDO GENERAL NUMERO 7/2009]
+
+INSTRUMENTO NORMATIVO APROBADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION EL TRES DE MARZO DE DOS MIL ONCE, POR EL QUE SE MODIFICAN EL CONSIDERANDO OCTAVO Y EL PUNTO UNICO DEL ACUERDO GENERAL NUMERO 7/2009, DE SEIS DE JULIO DE DOS MIL NUEVE, MODIFICADO POR EL DIVERSO INSTRUMENTO NORMATIVO DE DIECIOCHO DE OCTUBRE DE DOS MIL DIEZ, AMBOS DEL TRIBUNAL PLENO, EN EL QUE SE DISPONE EL APLAZAMIENTO DE LA RESOLUCION DE LOS AMPAROS EN REVISION DEL CONOCIMIENTO DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO, EN LOS QUE SUBSISTE EL ANALISIS DE CONSTITUCIONALIDAD DEL ARTICULO OCTAVO TRANSITORIO DEL DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACION EL SEIS DE ENERO DE MIL NOVECIENTOS NOVENTA Y SIETE (MONTO ACUMULADO EN LA SUBCUENTA DE VIVIENDA A PARTIR DEL CUARTO BIMESTRE DE MIL NOVECIENTOS NOVENTA Y SIETE)
+
+TEXTO ORIGINAL.
+
+Instrumento publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 14 de marzo de 2011.
+
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Suprema Corte de Justicia de la Nación.- Secretaría General de Acuerdos.
+
+INSTRUMENTO NORMATIVO APROBADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION EL TRES DE MARZO DE DOS MIL ONCE, POR EL QUE SE MODIFICAN EL CONSIDERANDO OCTAVO Y EL PUNTO UNICO DEL ACUERDO GENERAL NUMERO 7/2009, DE SEIS DE JULIO DE DOS MIL NUEVE, MODIFICADO POR EL DIVERSO INSTRUMENTO NORMATIVO DE DIECIOCHO DE OCTUBRE DE DOS MIL DIEZ, AMBOS DEL TRIBUNAL PLENO, EN EL QUE SE DISPONE EL APLAZAMIENTO DE LA RESOLUCION DE LOS AMPAROS EN REVISION DEL CONOCIMIENTO DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO, EN LOS QUE SUBSISTE EL ANALISIS DE CONSTITUCIONALIDAD DEL ARTICULO OCTAVO TRANSITORIO DEL DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACION EL SEIS DE ENERO DE MIL NOVECIENTOS NOVENTA Y SIETE (MONTO ACUMULADO EN LA SUBCUENTA DE VIVIENDA A PARTIR DEL CUARTO BIMESTRE DE MIL NOVECIENTOS NOVENTA Y SIETE).
+
+CONSIDERANDO
+
+PRIMERO. El artículo 94, párrafo séptimo, de la Constitución Política de los Estados Unidos Mexicanos otorga al Pleno de la Suprema Corte de Justicia de la Nación la facultad para expedir acuerdos generales a fin de remitir a los Tribunales Colegiados de Circuito, para mayor prontitud en el despacho de los asuntos, aquellos en los que hubiere establecido jurisprudencia o los que, conforme a los referidos acuerdos, la propia Corte determine para una mejor impartición de justicia, lo que lleva implícita su atribución para modificar mediante instrumentos normativos de la misma naturaleza, los mencionados acuerdos generales;
+
+SEGUNDO. El seis de julio de dos mil nueve, el Tribunal Pleno emitió el Acuerdo General 7/2009, en cuyo Punto Unico se estableció:
+
+"UNICO. En tanto la Suprema Corte de Justicia de la Nación resuelve la contradicción de tesis número 140/2009 suscitada entre los Tribunales Colegiados Primero y Segundo en Materia Administrativa y de Trabajo del Décimo Sexto Circuito, referida en el considerando octavo de este Acuerdo General, en los amparos en revisión que sean del conocimiento de los Tribunales Colegiado de Circuito en términos de lo dispuesto en la fracción I del punto Quinto del Acuerdo General Plenario 5/2001, en que subsista el análisis de constitucionalidad del artículo Octavo Transitorio del Decreto por el que se reforma la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores publicado en el Diario Oficial de la Federación el seis de enero de mil novecientos noventa y siete, deberá continuarse el trámite hasta el estado de resolución y aplazarse el dictado de ésta, sin que corran los plazos de la caducidad.";
+
+TERCERO. Mediante Instrumento Normativo de dieciocho de octubre de dos mil diez, el Tribunal Pleno modificó el considerando Octavo y el Punto Unico del Acuerdo General 7/2009, para señalar:
+
+"OCTAVO. En la Segunda Sala de este Alto Tribunal se encuentran pendientes de resolver los amparos en revisión 202/2009, 23/2010, 93/2010, 196/2010, y 200/2010, del índice del Sexto Tribunal Colegiado en Materia de Trabajo del Primer Circuito, respecto de los cuales dicha Sala ejerció su facultad de atracción, en los que subsiste el problema de constitucionalidad del artículo Octavo Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, publicado en el Diario Oficial de la Federación del seis de enero de mil novecientos noventa y siete (monto acumulado en la subcuenta de vivienda a partir del cuarto bimestre de mil novecientos noventa y siete).
+
+UNICO. En tanto la Segunda Sala de la Suprema Corte de Justicia de la Nación resuelve los amparos en revisión 202/2009, 23/2010, 93/2010, 196/2010, y 200/2010, del índice del Sexto Tribunal Colegiado en Materia de Trabajo del Primer Circuito, establece el o los criterios respectivos, y se emite el Acuerdo General Plenario que corresponda, los Tribunales Colegiados de Circuito deberán continuar el trámite hasta el estado de resolución y aplazar el dictado de ésta, en los amparos en revisión en los que subsista el problema de constitucionalidad del artículo Octavo Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, publicado en el Diario Oficial de la Federación del seis de enero de mil novecientos noventa y siete (monto acumulado en la subcuenta de vivienda a partir del cuarto bimestre de mil novecientos noventa y siete) o de su acto de aplicación, sin que corran los plazos de la caducidad.", y
+
+CUARTO. Dado que no todos los amparos en revisión suspendidos están en el supuesto jurídico de los asuntos que han de resolverse conforme a los criterios que lleguen a emitirse en los amparos en revisión 202/2009, 23/2010, 93/2010, 196/2010 y 200/2010, del índice del Sexto Tribunal Colegiado en Materia de Trabajo del Primer Circuito, atraídos por la Segunda Sala de este Alto Tribunal, y a fin de evitar las posibles inconveniencias derivadas del retraso en la resolución de un gran número de amparos en revisión en los que se impugnó la inconstitucionalidad del precepto legal indicado, lo que redunda en perjuicio de una pronta impartición de justicia, se estima necesario precisar el alcance y la causa de aplazamiento de la resolución de los amparos en revisión en los que subsista el problema de constitucionalidad antes señalado.
+
+En consecuencia, con fundamento en lo antes mencionado, el Pleno de la Suprema Corte de Justicia de la Nación expide el presente Instrumento Normativo en virtud del cual:
+
+UNICO. Se modifican el Considerando Octavo y el Punto Unico del Acuerdo General Plenario 7/2009, de seis de julio de dos mil nueve, para quedar como sigue:
+
+"OCTAVO. En la Segunda Sala de este Alto Tribunal se encuentran pendientes de resolver los amparos en revisión 202/2009, 23/2010, 93/2010, 196/2010, y 200/2010, del índice del Sexto Tribunal Colegiado en Materia de Trabajo del Primer Circuito, respecto de los cuales dicha Sala ejerció su facultad de atracción, en los que subsiste el problema de constitucionalidad del artículo Octavo Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, publicado en el Diario Oficial de la Federación del seis de enero de mil novecientos noventa y siete (monto acumulado en la subcuenta de vivienda a partir del cuarto bimestre de mil novecientos noventa y siete).
+
+UNICO. En tanto la Segunda Sala de la Suprema Corte de Justicia de la Nación resuelve los amparos] (sic) en revisión 202/2009, 23/2010, 93/2010, 196/2010, y 200/2010, del índice del Sexto Tribunal Colegiado en Materia de Trabajo del Primer Circuito, establece el o los criterios respectivos, y se emite el Acuerdo General Plenario que corresponda, los Tribunales Colegiados de Circuito deberán continuar el trámite hasta el estado de resolución y aplazar el dictado de ésta, únicamente en los amparos en revisión en los que subsista el problema de constitucionalidad del artículo Octavo Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, publicado en el Diario Oficial de la Federación del seis de enero de mil novecientos noventa y siete (monto acumulado en la subcuenta de vivienda a partir del cuarto bimestre de mil novecientos noventa y siete), y el acto de aplicación se haga consistir en la respuesta dada por el Instituto del Fondo Nacional de la Vivienda para los Trabajadores, a la solicitud del quejoso para que se le entreguen las cantidades correspondientes a la Subcuenta de Vivienda INFONAVIT 97; lo anterior, con independencia del sentido de la sentencia recurrida y sin que corran los plazos de la caducidad.".
+
+## TRANSITORIOS
+
+PRIMERO. El presente Instrumento Normativo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este Instrumento Normativo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta y en medios electrónicos de consulta pública en términos de lo dispuesto en el artículo 7, fracción XIV, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental; sin menoscabo de que la Secretaría General de Acuerdos difunda el texto íntegro del Acuerdo General Plenario 7/2009 en dichos medios electrónicos.
+
+El Presidente de la Suprema Corte de Justicia de la Nación, Ministro Juan N. Silva Meza.- Rúbrica.- El Secretario General de Acuerdos, Rafael Coello Cetina.- Rúbrica.
+
+El licenciado Rafael Coello Cetina, Secretario General de Acuerdos de la Suprema Corte de Justicia de la Nación, CERTIFICA: Este INSTRUMENTO NORMATIVO APROBADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION EL TRES DE MARZO DE DOS MIL ONCE, POR EL QUE SE MODIFICAN EL CONSIDERANDO OCTAVO Y EL PUNTO UNICO DEL ACUERDO GENERAL NUMERO 7/2009, DE SEIS DE JULIO DE DOS MIL NUEVE, MODIFICADO POR EL DIVERSO INSTRUMENTO NORMATIVO DE DIECIOCHO DE OCTUBRE DE DOS MIL DIEZ, AMBOS DEL TRIBUNAL PLENO, EN EL QUE SE DISPONE EL APLAZAMIENTO DE LA RESOLUCION DE LOS AMPAROS EN REVISION DEL CONOCIMIENTO DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO, EN LOS QUE SUBSISTE EL ANALISIS DE CONSTITUCIONALIDAD DEL ARTICULO OCTAVO TRANSITORIO DEL DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACION EL SEIS DE ENERO DE MIL NOVECIENTOS NOVENTA Y SIETE (MONTO ACUMULADO EN LA SUBCUENTA DE VIVIENDA A PARTIR DEL CUARTO BIMESTRE DE MIL NOVECIENTOS NOVENTA Y SIETE), fue emitido por el Tribunal Pleno en Sesión Privada celebrada el día de hoy, por unanimidad de once votos de los señores Ministros Sergio Salvador Aguirre Anguiano, José Ramón Cossío Díaz, Margarita Beatriz Luna Ramos José Fernando Franco González Salas, Arturo Zaldívar Lelo de Larrea, Jorge Mario Pardo Rebolledo, Luis María Aguilar Morales, Sergio A. Valls Hernández, Olga Sánchez Cordero de García Villegas, Guillermo I. Ortiz Mayagoitia y Presidente Juan N. Silva Meza.- México, Distrito Federal, a tres de marzo de dos mil once.- Rúbrica.
+
+EL LICENCIADO RAFAEL COELLO CETINA, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, CERTIFICA: Que esta copia fotostática constante de diez fojas útiles concuerda fiel y exactamente con el original del INSTRUMENTO NORMATIVO APROBADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION EL TRES DE MARZO DE DOS MIL ONCE, POR EL QUE SE MODIFICAN EL CONSIDERANDO OCTAVO Y EL PUNTO UNICO DEL ACUERDO GENERAL NUMERO 7/2009, que obra en los archivos de la sección de instrumentos normativos de esta Secretaría General de Acuerdos y se expide para su publicación en el Diario Oficial de la Federación.- México, Distrito Federal, a siete de marzo de dos mil once.- Rúbrica.
