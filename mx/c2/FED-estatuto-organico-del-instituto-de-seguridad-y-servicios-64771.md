@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-de-seguridad-y-servicios-64771"
 country: "mx"
 rank: "estatuto"
 publication_date: "2008-12-31"
-last_updated: "2009-05-14"
+last_updated: "2011-03-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64771&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2008-06-26"
 
 ESTATUTO ORGANICO DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE MAYO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE MARZO DE 2011.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 31 de diciembre de 2008.
 
@@ -845,39 +845,57 @@ IX. Administrar y supervisar el proceso de incorporación al régimen del ISSSTE
 
 X. Determinar, administrar y coordinar el proceso de vigencia de derechos de los trabajadores en activo, jubilados, pensionados y familiares derechohabientes incorporados al régimen de la Ley;
 
-XI. Administrar la base de datos institucional de derechohabientes del Instituto, normando y vigilando la integración del expediente electrónico único previsto en la Ley con que deberá contar cada uno de ellos, sustentado en la información contenida en la totalidad de las bases de datos institucionales y en los registros y procesos que sean de utilidad para su conformación y mejoramiento;
+> <small>(ADICIONADA, D.O.F. 14 DE MARZO DE 2011)</small>
 
-XII. Definir, operar y controlar los medios de identificación para la acreditación de los derechohabientes y para permitir y facilitar su acceso a los seguros, prestaciones y servicios que les correspondan, emitiendo y vigilando los lineamientos para su expedición y administración;
+XI. Determinar, administrar y coordinar la continuación voluntaria en todos o en alguno de los seguros del régimen obligatorio a los que se refieren los artículos 200, 201 y 202 de la Ley, para los trabajadores que hayan dejado de prestar sus servicios y que lo soliciten;
 
-XIII. Emitir recomendaciones en materia de afiliación y vigencia de derechos relacionados con los convenios de portabilidad con otros institutos de seguridad social o con entidades que operen otros sistemas de seguridad social compatibles con lo previsto en la Ley, así como proponer e instrumentar las reglas de carácter general para la transferencia de derechos entre el propio Instituto, el Instituto Mexicano del Seguro Social y otros sistemas de seguridad social;
+XII. Administrar la base de datos institucional de derechohabientes del Instituto, normando y vigilando la integración del expediente electrónico único previsto en la Ley con que deberá contar cada uno de ellos, sustentado en la información contenida en la totalidad de las bases de datos institucionales y en los registros y procesos que sean de utilidad para su conformación y mejoramiento;
 
-XIV. Establecer políticas, normas y lineamientos para el acceso y transferencia de información de las dependencias y entidades afiliadas, o de otros organismos, con la base de datos institucional de derechohabientes, así como para la coordinación que a este respecto corresponda, de acuerdo a la Ley, con la Comisión Nacional del Sistema de Ahorro para el Retiro y con las Empresas Operadoras de la Base de Datos Nacional SAR;
+> <small>(ADICIONADA, D.O.F. 14 DE MARZO DE 2011)</small>
 
-XV. Concertar y coordinar con las diversas Unidades Administrativas Centrales y Desconcentradas del Instituto, así como con la representación sindical, el diseño, aplicación, seguimiento y evaluación de programas, proyectos, modelos, incentivos y acciones que redunden en la mejora continua de los servicios que otorga el Instituto y en la calidad de la atención que brinda a su derechohabiencia;
+XIII. Determinar el monto de los Bonos de Pensión que corresponden a los trabajadores que a la fecha de entrada en vigor de la Ley se encontraban separados del servicio y que con posterioridad reingresaran al mismo, de conformidad con lo que establece el artículo Décimo Sexto Transitorio de la Ley;
 
-XVI. Establecer y operar metodologías de análisis, técnicas, procesos y herramientas para la medición de impacto, el seguimiento y la evaluación cuantitativa y cualitativa de los programas institucionales, desde la expectativa del usuario del servicio que corresponda;
+> <small>(ADICIONADA, D.O.F. 14 DE MARZO DE 2011)</small>
 
-XVII. Diseñar, desarrollar y coordinar el sistema de comunicación directa y de información y orientación telefónica a la derechohabiencia y la ciudadanía respecto de los seguros, prestaciones y servicios que ofrece el Instituto;
+XIV. Establecer los mecanismos para la revisión y corrección en su caso, de los Bonos de Pensión de los trabajadores de reingreso, de conformidad con las Reglas para el Ajuste de los Bonos de Pensión emitidas por la Secretaría de Hacienda y Crédito Público;
 
-XVIII. Planear y coordinar el sistema de quejas, reconocimientos y sugerencias para los derechohabientes del Instituto, dando seguimiento, en coordinación con las Unidades Administrativas Centrales y Desconcentradas competentes, a las acciones que se generen en estas materias con motivo del otorgamiento de los seguros, prestaciones y servicios;
+> <small>(ADICIONADA, D.O.F. 14 DE MARZO DE 2011)</small>
 
-XIX. Recibir, procesar, encauzar y dar seguimiento, hasta su solución, a las recomendaciones y conciliaciones que emita la Comisión Nacional de los Derechos Humanos respecto al otorgamiento de seguros, prestaciones y servicios del Instituto;
+XV. Administrar el uso y destino de los Documentos de Elección a que se refiere el artículo 43 del Reglamento para el Ejercicio del Derecho de Opción que tienen los Trabajadores de conformidad con los artículos Quinto y Séptimo Transitorios del Decreto por el que se expide la Ley;
 
-XX. Fungir como enlace ante la Comisión Nacional de Arbitraje Médico para la atención y seguimiento de los asuntos relacionados con el Instituto;
+XVI. Definir, operar y controlar los medios de identificación para la acreditación de los derechohabientes y para permitir y facilitar su acceso a los seguros, prestaciones y servicios que les correspondan, emitiendo y vigilando los lineamientos para su expedición y administración;
 
-XXI. Presidir los Comités de Quejas Médicas y Técnico para la Dictaminación de Solicitudes de Reembolso de Gastos Médicos, así como promover la adecuada atención y resolución de sus asuntos, conforme a los dictámenes administrativo, médico y jurídico que al efecto elaboren las Unidades Administrativas Centrales y Desconcentradas competentes del Instituto, sin perjuicio de la delegación de facultades que corresponda;
+XVII. Emitir recomendaciones en materia de afiliación y vigencia de derechos relacionados con los convenios de portabilidad con otros institutos de seguridad social o con entidades que operen otros sistemas de seguridad social compatibles con lo previsto en la Ley, así como proponer e instrumentar las reglas de carácter general para la transferencia de derechos entre el propio Instituto, el Instituto Mexicano del Seguro Social y otros sistemas de seguridad social;
 
-XXII. Establecer y coordinar las funciones de enlace institucional para el acceso a la información pública gubernamental, datos personales y la corrección de los mismos, tanto con las Unidades Administrativas Centrales y Desconcentradas responsables, como con el Comité de Información y el Instituto Federal de Acceso a la Información Pública, promoviendo y difundiendo una cultura de transparencia institucional;
+XVIII. Establecer políticas, normas y lineamientos para el acceso y transferencia de información de las dependencias y entidades afiliadas, o de otros organismos, con la base de datos institucional de derechohabientes, así como para la coordinación que a este respecto corresponda, de acuerdo a la Ley, con la Comisión Nacional del Sistema de Ahorro para el Retiro y con las Empresas Operadoras de la Base de Datos Nacional SAR;
 
-XXIII. Supervisar el seguimiento a las respuestas que deban proporcionar las Unidades Administrativas Centrales y Desconcentradas del Instituto a las peticiones que los derechohabientes y la ciudadanía formulen a la Presidencia de la República;
+XIX Concertar y coordinar con las diversas Unidades Administrativas Centrales y Desconcentradas del Instituto, así como con la representación sindical, el diseño, aplicación, seguimiento y evaluación de programas, proyectos, modelos, incentivos y acciones que redunden en la mejora continua de los servicios que otorga el Instituto y en la calidad de la atención que brinda a su derechohabiencia;
 
-XXIV. Planear, coordinar y evaluar proyectos y acciones de carácter afirmativo para grupos y segmentos de derechohabientes que se encuentren en situación de riesgo y/o vulnerabilidad, promoviendo para ellos atención preferencial y la organización de redes sociales de apoyo para su atención;
+XX. Establecer y operar metodologías de análisis, técnicas, procesos y herramientas para la medición de impacto, el seguimiento y la evaluación cuantitativa y cualitativa de los programas institucionales, desde la expectativa del usuario del servicio que corresponda;
 
-XXV. Coordinar y evaluar las acciones dirigidas a promover la transversalidad de la perspectiva de género, la equidad y la igualdad en las Unidades Administrativas Centrales y Desconcentradas y en los servicios que proporciona el Instituto;
+XXI. Diseñar, desarrollar y coordinar el sistema de comunicación directa y de información y orientación telefónica a la derechohabiencia y la ciudadanía respecto de los seguros, prestaciones y servicios que ofrece el Instituto;
 
-XXVI. Apoyar a la Dirección General en la promoción y conducción de las relaciones institucionales en el ámbito nacional e internacional; y,
+XXII. Planear y coordinar el sistema de quejas, reconocimientos y sugerencias para los derechohabientes del Instituto, dando seguimiento, en coordinación con las Unidades Administrativas Centrales y Desconcentradas competentes, a las acciones que se generen en estas materias con motivo del otorgamiento de los seguros, prestaciones y servicios;
 
-XXVII. Las demás que le confieran el presente Estatuto y la normatividad aplicable, así como las que le asigne el Director General.
+XXIII. Recibir, procesar, encauzar y dar seguimiento, hasta su solución, a las recomendaciones y conciliaciones que emita la Comisión Nacional de los Derechos Humanos respecto al otorgamiento de seguros, prestaciones y servicios del Instituto;
+
+XXIV. Fungir como enlace ante la Comisión Nacional de Arbitraje Médico para la atención y seguimiento de los asuntos relacionados con el Instituto;
+
+XXV. Presidir los Comités de Quejas Médicas y Técnico para la Dictaminación de Solicitudes de Reembolso de Gastos Médicos, así como promover la adecuada atención y resolución de sus asuntos, conforme a los dictámenes administrativo, médico y jurídico que al efecto elaboren las Unidades Administrativas Centrales y Desconcentradas competentes del Instituto, sin perjuicio de la delegación de facultades que corresponda;
+
+XXVI. Establecer y coordinar las funciones de enlace institucional para el acceso a la información pública gubernamental, datos personales y la corrección de los mismos, tanto con las Unidades Administrativas Centrales y Desconcentradas responsables, como con el Comité de Información y el Instituto Federal de Acceso a la Información Pública, promoviendo y difundiendo una cultura de transparencia institucional;
+
+XXVII. Supervisar el seguimiento a las respuestas que deban proporcionar las Unidades Administrativas Centrales y Desconcentradas del Instituto a las peticiones que los derechohabientes y la ciudadanía formulen a la Presidencia de la República;
+
+XXVIII. Planear, coordinar y evaluar proyectos y acciones de carácter afirmativo para grupos y segmentos de derechohabientes que se encuentren en situación de riesgo y/o vulnerabilidad, promoviendo para ellos atención preferencial y la organización de redes sociales de apoyo para su atención;
+
+XXIX. Coordinar y evaluar las acciones dirigidas a promover la transversalidad de la perspectiva de género, la equidad y la igualdad en las Unidades Administrativas Centrales y Desconcentradas y en los servicios que proporciona el Instituto;
+
+XXX. Apoyar a la Dirección General en la promoción y conducción de las relaciones institucionales en el ámbito nacional e internacional; y,
+
+> <small>(REFORMADA, D.O.F. 14 DE MARZO DE 2011)</small>
+
+XXXI. La (sic) demás que le confieran el presente Estatuto y la normatividad aplicable, así como las que le asigne el Director General.
 
 #### SECCION SEGUNDA. De la Dirección Médica
 
@@ -1081,7 +1099,9 @@ IV. Coordinar y aplicar un sistema de incentivos al desempeño y a la eficiencia
 
 V. Normar, controlar y coordinar la operación interna de la retención y entero de las cuotas y aportaciones correspondientes al personal del Instituto, de conformidad con la Ley y con las disposiciones que emita la Comisión Nacional del Sistema de Ahorro para el Retiro;
 
-VI. Planear, organizar, normar, coordinar y controlar la administración de los recursos materiales del Instituto, en los términos de las disposiciones aplicables;
+> <small>(REFORMADA, D.O.F. 14 DE MARZO DE 2011)</small>
+
+VI. Planear, organizar, normar, coordinar y controlar la administración de los recursos materiales del Instituto en términos de las disposiciones aplicables y fungir como Responsable Inmobiliario en términos de lo que establece el artículo 32 de la Ley General de Bienes Nacionales;
 
 VII. Proponer los lineamientos y criterios conforme a los cuales el Instituto adquirirá o arrendará los bienes muebles y contratará los servicios generales requeridos para su operación y funcionamiento;
 
@@ -1149,7 +1169,9 @@ XIII. Realizar y revisar los estudios y proyectos de reforma a la Ley y reglamen
 
 XIV. Dictaminar y registrar los convenios y contratos que suscriba el Director General del Instituto, así como los que celebren las Unidades Administrativas Centrales y Desconcentradas del Instituto que no cuenten con área jurídica y que sean necesarios para su funcionamiento;
 
-XV. Coordinar, en términos de lo establecido en la Ley General de Bienes Nacionales, el control y registro general de los bienes inmuebles del Instituto, incluyendo los referentes a usos médicos, operando lo que corresponda con las Unidades Administrativas competentes;
+> <small>(REFORMADA, D.O.F. 14 DE MARZO DE 2011)</small>
+
+XV. Apoyar al Responsable Inmobiliario, en términos de lo establecido en la Ley General de Bienes Nacionales, en el control y registro general de los bienes inmuebles del Instituto, incluyendo los referentes a usos médicos, operando lo que corresponda con las Unidades Administrativas competentes;
 
 XVI. Realizar los actos necesarios para legalizar la adquisición, destino o enajenación de los bienes inmuebles del Instituto, así como intervenir en los asuntos de los que se deriven derechos y obligaciones a cargo del mismo;
 
@@ -1778,3 +1800,7 @@ México, D.F., a 26 de junio de 2008.- El Secretario, José Enrique Ampudia Mell
 D.O.F. 14 DE MAYO DE 2009.
 
 UNICO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 14 DE MARZO DE 2011.
+
+UNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
