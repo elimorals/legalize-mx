@@ -4,7 +4,7 @@ identifier: "HID-codigo-de-procedimientos-penales-para-el-estado-de-hidalgo-5391
 country: "mx"
 rank: "codigo"
 publication_date: "1990-06-09"
-last_updated: "2010-08-09"
+last_updated: "2011-03-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5391&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "HID"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE AGOSTO DE 2010.
+> <small>N. DE E. DE CONFORMIDAD DEL TRANSITORIO SEXTO, EL CODIGO DE PROCEDIMIENTOS PENALES PROMULGADO EL 9 DE JUNIO DE 1990 SEGUIRA RIGIENDO, EN LO CONDUCENTE, EN LOS PROCEDIMIENTOS INICIADOS CON ANTERIORIDAD A LA APLICACION DEL NUEVO CODIGO PUBLICADO EN EL P.O. DE FECHA 14 DE MARZO DE 2011, Y QUEDARA ABROGADO EN LA MEDIDA EN QUE AQUELLOS QUEDEN AGOTADOS.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE MARZO DE 2011.
 
 Código publicado en el Periódico Oficial del Estado de Hidalgo, el sábado 9 de junio de 1990
 
@@ -4400,3 +4402,47 @@ P.O. 9 DE AGOSTO DE 2010.
 PRIMERO.- El presente Decreto, una vez realizada su Publicación en el Periódico Oficial del Estado, entrará en vigor el día 20 de agosto del año 2010.
 
 SEGUNDO.- Los procedimientos penales que se estén substanciando a la entrada en vigor del presente Decreto, se seguirán conforme a las disposiciones vigentes al momento de la comisión de los hechos.
+
+P.O. 14 DE MARZO DE 2011.
+
+Artículo Primero.- Declaratoria.
+
+Para los efectos señalados en el párrafo tercero del Articulo Segundo Transitorio del Decreto de reforma constitucional, Publicado en el Diario Oficial de la Federación el 18 de junio de 2008, se declara que la presente Legislación recoge el sistema procesal penal acusatorio y entrará en vigor de acuerdo a los Artículo siguientes.
+
+Artículo Segundo.- Inicio de Vigencia.
+
+El presente Código iniciará su vigencia con las modalidades que se precisan en el artículo siguiente.
+
+Artículo Tercero.- Publicación y Difusión.
+
+El presente Decreto deberá ser suficientemente difundido y para tal efecto se ordena su publicación en el Periódico Oficial del Estado, cuya vigencia iniciará conforme a los Artículos Cuarto y Quinto Transitorios.
+
+Artículo Cuarto.- Vigencia para Pachuca.
+
+Las disposiciones de este Código entrarán en vigor en el Distrito Judicial de Pachuca de Soto, al día siguiente de la publicación en el Periódico Oficial del Estado, de la declaratoria emitida por la Comisión Interinstitucional para la Reforma Integral del Sistema de Justicia Penal, por la cual se declare que dicho Distrito Judicial cuenta con los recursos humanos, materiales y suficiencia presupuestal, para su debida instauración.
+
+Artículo Quinto.- Vigencia.
+
+Las disposiciones de este Código entrarán en vigor paulatinamente en los demás Distritos Judiciales, al día siguiente de la publicación en el Periódico Oficial del Estado, de la declaratoria respectiva emitida por la Comisión Interinstitucional para la Reforma Integral del Sistema de Justicia Penal, por la cual se declare que en el o los Distritos Judiciales que se determine, cuentan con los recursos humanos, materiales y suficiencia presupuestal, para su debida instauración.
+
+Artículo Sexto.- Abrogación.
+
+El Código de Procedimientos Penales promulgado el 9 de junio de 1990 seguirá rigiendo, en lo conducente, en los procedimientos iniciados con anterioridad a la aplicación del nuevo Código, y quedará abrogado en la medida en que aquellos queden agotados.
+
+Artículo Séptimo.- Derogación Tácita de Preceptos Incompatibles.
+
+Quedan derogados, en los términos señalados en los Artículos Transitorios precedentes, los preceptos legales de la Entidad que se opongan a las disposiciones de este Ordenamiento.
+
+Artículo Octavo.- Delitos Permanentes y Continuados.
+
+Los procedimientos penales relativos a hechos delictuosos de carácter permanente o continuado que iniciaron bajo la vigencia del Código de Procedimientos Penales de 1990 y que continúen desarrollándose cuando ya se encuentre en vigencia el presente Código, serán regulados por el Código primeramente citado.
+
+Artículo Noveno.- Prohibición de Acumulación de Procesos.
+
+No procederá la acumulación de procesos sobre hechos delictuosos, cuando alguno de ellos esté sometido al presente Código y otro al abrogado.
+
+Artículo Décimo.- Facultades de la Comisión Interinstitucional para la Reforma Integral del Sistema de Justicia Penal.
+
+Para instrumentar la aplicación del presente Código, se autoriza a la Comisión Interinstitucional para la Reforma Integral del Sistema de Justicia Penal, para que sus integrantes en el ejercicio de sus facultades, atribuciones y dentro de su ámbito competencial, tomen las medidas necesarias sobre: difusión del nuevo sistema, capacitación, designación y traslado de servidores públicos, creación de órganos que resulten pertinentes y todas aquellas que fueren necesarias para la implementación del nuevo sistema de Justicia penal, conforme a la disponibilidad presupuestal.
+
+Lo establecido en este artículo mantendrá su vigencia hasta que haya sido instaurado a plenitud el nuevo sistema de justicia penal, esto es, dentro del término que vence el día 31 treinta y uno de mayo de dos mil dieciséis.
