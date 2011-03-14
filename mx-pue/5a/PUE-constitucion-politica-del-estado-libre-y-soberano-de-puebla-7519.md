@@ -4,7 +4,7 @@ identifier: "PUE-constitucion-politica-del-estado-libre-y-soberano-de-puebla-751
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-02"
-last_updated: "2011-03-09"
+last_updated: "2011-03-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MARZO DE 2011.
 
 Constitución publicada en el Periódico Oficial del Estado de Puebla, el martes 2 de octubre de 1917.
 
@@ -261,13 +261,17 @@ La Comisión, se integrará y funcionará en los términos que establezca la Ley
 
 VIII.- La protección de los derechos de los pueblos y comunidades indígenas;
 
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2010)</small>
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2011)</small>
 
 IX.- El establecimiento de un sistema integral de justicia, que será aplicable a quienes se atribuya la realización de una conducta tipificada como delito por la ley penal y tengan entre doce años cumplidos y menos de dieciocho años de edad, en el que se garanticen los derechos fundamentales que reconoce la Constitución Política de los Estados Unidos Mexicanos y demás ordenamientos jurídicos aplicables;
 
-> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2011)</small>
 
-X.- Instituir un Tribunal de lo Contencioso Administrativo Estatal, dotado de plena autonomía en el pronunciamiento de sus fallos y con facultades para resolver las controversias derivadas de actos administrativos que se susciten entre la administración pública estatal y los particulares.
+X.- Instituir un Tribunal de lo Contencioso Administrativo Estatal, dotado de plena autonomía en el pronunciamiento de sus fallos y con facultades para resolver las controversias derivadas de actos administrativos que se susciten entre la administración pública estatal y los particulares; y
+
+> <small>(ADICIONADA, P.O. 14 DE MARZO DE 2011)</small>
+
+XI.- La protección de los saberes colectivos, así como del patrimonio cultural y natural.
 
 > <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2004)</small>
 
@@ -1973,7 +1977,7 @@ Toda familia poblana, tiene derecho a disfrutar de vivienda digna y decorosa, de
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
-## TITULO NOVENO. DISPOSICIONES GENERALES
+## TITULO NOVENO.. DISPOSICIONES GENERALES
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2004)</small>
 
@@ -2740,5 +2744,11 @@ SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 P.O. 9 DE MARZO DE 2011.
 
 PRIMERO.- El Honorable Congreso del Estado Libre y Soberano de Puebla, declara que estas reformas han sido aprobadas en términos de las disposiciones constitucionales aplicables y forman parte de la Constitución Política del Estado Libre y Soberano de Puebla.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE MARZO DE 2011.
+
+PRIMERO.- El Honorable Congreso del Estado Libre y Soberano de Puebla, declara que estas reformas y adición han sido aprobadas en términos de las disposiciones legales aplicables y forman parte de la Constitución Política del Estado Libre y Soberano de Puebla.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
