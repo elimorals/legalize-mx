@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-de-la-coordinadora-de-turismo-municipal-de-59989"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-03-03"
-last_updated: "2008-07-07"
+last_updated: "2011-03-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59989&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ state: "AGU"
 
 REGLAMENTO DE LA COORDINADORA DE TURISMO MUNICIPAL DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JULIO DE 2008.
+> <small>N. DE E. DE CONFORMIDAD CON LOS PUNTOS RESOLUTIVOS DEL DICTAMEN MEDIANTE EL CUAL SE DETERMINA LA EXTINCION DE LA COORDINADORA DE TURISMO MUNICIPAL, ASI COMO LA ABROGACION DEL REGLAMENTO DE LA COORDINADORA DE TURISMO MUNICIPAL, PUBLICADO EN EL P.O. EL 14 DE MARZO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Aguascalientes, el lunes 3 de marzo de 2008.
 
@@ -470,3 +472,29 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 A partir de la entrada en vigor del presente decreto, el personal y los recursos materiales y financieros de la Banda Sinfónica Municipal pasarán a formar parte del Instituto Municipal Aguascalentense para la Cultura.
+
+PUNTOS RESOLUTIVOS:
+
+I.- Se extingue el Organismo Público Descentralizado de la Administración Pública Municipal, denominado Coordinadora de Turismo Municipal.
+
+II.- Se abroga el Reglamento de la Coordinadora de Turismo Municipal.
+
+III.- Se abrogan los Decretos por el que se crean tanto el Organismo Público Descentralizado, denominado Coordinadora de Turismo Municipal, así como el Reglamento de la Coordinadora de Turismo Municipal, publicados ambos, en el Periódico Oficial del Estado de Aguascalientes el 3 de Marzo de 2008.
+
+IV.- La Coordinadora de Turismo Municipal, conservará su personalidad jurídica, únicamente para efectos de su extinción.
+
+V.- La representación legal de la Coordinadora de Turismo Municipal, durante el procedimiento de entrega-recepción, así como para la liquidación del personal de la extinción será ejercida por el Coordinador de Turismo Municipal de conformidad con lo establecido por el artículo 15 fracciones III y IV del Reglamento de la Coordinadora de Turismo Municipal.
+
+VI.- El personal de la Coordinadora de Turismo Municipal que no fuere adscrito a la Secretaría de Integración Social o a cualesquier otra área de la Administración Pública Municipal, deberá ser liquidado en términos de Ley.
+
+P.O. 14 DE MARZO DE 2011.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los asuntos pendientes de resolución que se hayan iniciado con anterioridad al presente Decreto, se tramitarán y resolverán conforme a los ordenamientos vigentes al momento de su realización.
+
+TERCERO.- Los recursos presupuestales y financieros que la Ley de Ingresos del Municipio de Aguascalientes, y en su Presupuesto de Egresos para el ejercicio fiscal 2011, que hayan sido asignados a la Coordinadora de Turismo Municipal, así como aquéllos que le fueron asignados para el cumplimiento de su objeto y su patrimonio, se reintegrarán al Municipio de Aguascalientes de conformidad con el artículo 8 del Reglamento de la Coordinadora de Turismo Municipal; salvo los gastos necesarios que serán cubiertos con motivo de la extinción de dicha Coordinadora, mismos que se cubrirán con cargo a su propio presupuesto asignado y de conformidad con los recursos disponibles, culminada la extinción los recursos remanentes si los hubiera, serán entregados a la Secretaria de Finanzas Publicas Municipales.
+
+CUARTO.-Todas las referencias relativas a la otrora Secretaría de Desarrollo Social, que en alguna disposición jurídica o normativa en general se establezcan, relacionadas con la Coordinación de Turismo Municipal, se entenderán en lo subsecuente hechas a la Secretaría de Integración Social.
+
+QUINTO.- Se derogan las demás disposiciones que se opongan al presente Decreto.
