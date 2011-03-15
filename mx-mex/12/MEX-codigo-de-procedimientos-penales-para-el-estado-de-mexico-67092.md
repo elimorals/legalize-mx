@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-procedimientos-penales-para-el-estado-de-mexico-67092
 country: "mx"
 rank: "codigo"
 publication_date: "2009-02-09"
-last_updated: "2010-12-01"
+last_updated: "2011-03-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67092&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE MÉXICO
 
 > <small>N. DE E. DE CONFORMIDAD CON EL DECRETO NO. 4 PUBLICADO EN LA G.G. DE 30 DE SEPTIEMBRE DE 2009, EL SISTEMA PROCESAL PENAL ACUSATORIO ADVERSARIAL Y ORAL HA SIDO INCORPORADO EN EL PRESENTE ORDENAMIENTO, Y ENTRARÁ EN VIGOR EN LOS SIGUIENTES PLAZOS Y DISTRITOS: 1) EL PRIMERO DE OCTUBRE DE DOS MIL NUEVE, EN LOS DISTRITOS JUDICIALES DE TOLUCA, LERMA, TENANCINGO Y TENANGO DEL VALLE; 2) EL PRIMERO DE ABRIL DE DOS MIL DIEZ, EN LOS DISTRITOS JUDICIALES DE CHALCO, OTUMBA Y TEXCOCO; 3) EL PRIMERO DE OCTUBRE DE DOS MIL DIEZ, EN LOS DISTRITOS JUDICIALES DE NETZAHUALCÓYOTL, EL ORO, IXTLAHUACA, SULTEPEC Y TEMASCALTEPEC; 4) EL PRIMERO DE ABRIL DE DOS MIL ONCE, EN LOS DISTRITOS JUDICIALES DE TLALNEPANTLA, CUAUTITLÁN Y ZUMPANGO; 5) EL PRIMERO DE OCTUBRE DE DOS MIL ONCE, EN LOS DISTRITOS JUDICIALES DE ECATEPEC DE MORELOS, JILOTEPEC Y VALLE DE BRAVO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 1 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 15 DE MARZO DE 2011.
 
 Código publicado en la Sección Quinta de la Gaceta del Gobierno del Estado de México, el lunes 9 de febrero de 2009.
 
@@ -4163,7 +4163,9 @@ III. Calumnia;
 
 IV. Culposos previstos en el artículo 62 del Código Penal del Estado de México;
 
-V. Lesiones perseguibles por querella; y
+> <small>(REFORMADA, G.G. 15 DE MARZO DE 2011)</small>
+
+V. Lesiones y requerimiento ilícito, perseguibles por querella; y
 
 VI. Robo simple, abuso de confianza, fraude y daño en los bienes, cuando el monto del daño patrimonial no exceda de mil días de salario mínimo del área geográfica respectiva.
 
@@ -4798,3 +4800,9 @@ CUARTO.- Los ayuntamientos de los municipios del Estado de México, harán las a
 QUINTO.- Se derogan las disposiciones de igualo menor jerarquía que se opongan al presente Decreto.
 
 SEXTO.- El titular del Poder Ejecutivo del Estado de México realizará las adecuaciones que resulten pertinentes al Reglamento de Tránsito del Estado de México, conforme a las disposiciones del presente Decreto.
+
+G.G. 15 DE MARZO DE 2011.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
