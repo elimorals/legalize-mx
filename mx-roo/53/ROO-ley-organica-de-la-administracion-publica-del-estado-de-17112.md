@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-de-la-administracion-publica-del-estado-de-17112"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-09-08"
-last_updated: "2008-12-12"
+last_updated: "2011-03-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17112&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ROO"
 ---
 # LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE QUINTANA ROO
 
-LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE QUINTANA ROO
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 22 DE MARZO DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE DICIEMBRE DE 2008.
+LEY ORGÁNICA DE LA ADMINISTRACIÓN PUBLICA DEL ESTADO DE QUINTANA ROO
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MARZO DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el viernes 8 de septiembre de 2000.
 
@@ -145,7 +147,9 @@ II.- Secretaría de Planeación y Desarrollo Regional;
 
 III.- Secretaría de Hacienda;
 
-IV.- Secretaría de Desarrollo Urbano y Medio Ambiente;
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2011)</small>
+
+IV.- Secretaría de Desarrollo Urbano;
 
 V.- Secretaría de Desarrollo Económico;
 
@@ -181,13 +185,21 @@ XIV. Secretaría de Infraestructura y Transporte;
 
 > <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
 
-XV. Secretaría de Seguridad Pública; y
+XV. Secretaría de Seguridad Pública; y (sic)
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
 
-XVI. Secretaría del Trabajo y Previsión Social.
+XVI. Secretaría del Trabajo y Previsión Social;
+
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2011)</small>
+
+XVII. Secretaría de Ecología y Medio Ambiente; y
+
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2011)</small>
+
+XVIII. Secretaría de Desarrollo Social.
 
 ###### ARTICULO 20.
 
@@ -209,7 +221,7 @@ Al frente de cada Secretaría habrá un titular a quien se denomina Secretario, 
 
 > <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2002)</small>
 
-Para desempeñar los cargos de Subsecretario, Director General, Director de Area, Subdirector, así como niveles intermedios entre éstos, dentro de la administración pública central, y sus equivalentes en la administración pública paraestatal, independientemente del nombre del puesto que se les atribuya, se deberán satisfacer los mismos requisitos previstos en el artículo anterior para el caso de los titulares de las dependencias del Ejecutivo.
+Para desempeñar los cargos de Subsecretario, Director General, Director de Área, Subdirector, así como niveles intermedios entre éstos, dentro de la administración pública central, y sus equivalentes en la administración pública paraestatal, independientemente del nombre del puesto que se les atribuya, se deberán satisfacer los mismos requisitos previstos en el artículo anterior para el caso de los titulares de las dependencias del Ejecutivo.
 
 ###### ARTICULO 22.
 
@@ -353,7 +365,9 @@ XXIV. (DEROGADA, P.O. 17 DE MARZO DE 2005)
 
 XXV. En lo concerniente a los Derechos Humanos, vigilar el cumplimiento de las recomendaciones de medidas administrativas que requiera su cumplimiento; proporcionando, la adecuada colaboración con las Comisiones Nacional y Estatal de Derechos Humanos;
 
-XXVI. Coadyuvar y fomentar las relaciones con los grupos políticos y sociales, así como, conducir la adecuada atención política de la problemática de las comunidades indígenas y de los grupos marginados del Estado, en su caso, todo lo anterior, en coordinación con la Secretaría de Desarrollo Agropecuario; Rural e Indígena;
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2011)</small>
+
+XXVI. Coadyuvar y fomentar las relaciones con los grupos políticos y sociales, así como conducir la adecuada atención política de la problemática de las comunidades indígenas y de los grupos marginados del Estado, en su caso; todo lo anterior, en coordinación con las dependencias y entidades de la Administración Pública;
 
 XXVII. (DEROGADA, P.O. 17 DE MARZO DE 2005)
 
@@ -361,7 +375,9 @@ XXVIII. (DEROGADA, P.O. 17 DE MARZO DE 2005)
 
 XXIX. (DEROGADA, P.O. 17 DE MARZO DE 2005)
 
-XXX. Participar con la Secretaría de Desarrollo urbano y Medio Ambiente, en la formulación de recomendaciones vinculadas con sus atribuciones en la planeación, el transporte de pasajeros y carga, de los proyectos y en el seguimiento al proceso de ejecución de las mismas;
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2011)</small>
+
+XXX. Participar con la Secretaría de Desarrollo Urbano, en la formulación de recomendaciones vinculadas con sus atribuciones en la planeación, el transporte de pasajeros y carga, de los proyectos y en el seguimiento al proceso de ejecución de las mismas;
 
 XXXI. Atender los asuntos de política interior vinculados con la observancia y aplicación de la Ley de Tránsito, Transporte y Explotación de Vías y Carreteras del Estado y su Reglamento, en lo concerniente a la vialidad y al transporte de carga y de pasajeros;
 
@@ -379,45 +395,91 @@ XXXVII. Otorgar a las autoridades judiciales el apoyo que soliciten con motivo d
 
 XXXVIII. Las demás que le encomienden expresamente las leyes y reglamentos.
 
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2011)</small>
+
 ###### ARTICULO 32.
 
-A la Secretaría de Planeación y Desarrollo Regional le compete el despacho de los siguientes asuntos:
+A la Secretaría de Planeación y Desarrollo Regional, le corresponde el despacho de los siguientes asuntos:
 
-I. Promover la formulación de los proyectos de ley, reglamentos y demás disposiciones de carácter general, en materia de planeación, programación, política presupuestal, información, evaluación, coordinación institucional y desarrollo regional, para la promoción económica y social del Estado y someterlos a la aprobación del ejecutivo;
+I. Promover, coordinar y conducir la formulación de los proyectos de ley, reglamentos y demás disposiciones de carácter general, en materia de planeación y programación, política presupuestal, información, evaluación, coordinación institucional y desarrollo regional, de manera coordinada con las dependencias y entidades de la Administración Pública Estatal, para la promoción económica y social del Estado y someterlos a la aprobación del Titular del Ejecutivo;
+
+II. Proyectar y coordinar las políticas de planeación del desarrollo del gasto de inversión del Estado y formular con las dependencias y entidades de la Administración Pública, los programas estatales, sectoriales, regionales e institucionales respectivos, asegurando su interrelación; asimismo, coordinar su evaluación y promover su oportuna actualización bajo las directrices del Gobernador;
+
+III. Conducir, regular y coordinar el Sistema Estatal de Planeación y el Comité de Planeación para el Desarrollo del Estado;
+
+IV. Promover y coordinar en el seno del COPLADE, la formulación e integración del Plan Estatal de Desarrollo y los programas que de éstos deriven, sometiéndolos a la consideración y aprobación del Titular del Poder Ejecutivo;
+
+V. Determinar e instrumentar los procedimientos, criterios y lineamientos generales para la elaboración, integración, ejecución y evaluación de los programas de inversión a cargo de las dependencias y entidades de la Administración Pública Estatal. Concertar estos aspectos en los programas que se realicen coordinadamente con los gobiernos municipales; así como brindar a los ayuntamientos la asesoría que soliciten para la elaboración de sus programas y proyectos de gasto de inversión;
+
+VI. Evaluar, supervisar y asegurar la congruencia en el ejercicio de los recursos del presupuesto de egresos destinados a los programas de inversión;
+
+VII. Establecer los lineamientos para la formulación del Plan Estatal de Desarrollo y de los programas regionales, sectoriales, institucionales y especiales; así como elaborar y actualizar con base en las propuestas de las dependencias los indicadores para la planeación que sirvan de base en la evaluación del Plan Estatal y sus programas;
+
+VIII. Concertar, coordinar, instrumentar y evaluar, bajo las directrices del Gobernador del Estado, la ejecución de los programas del gasto de inversión que se realicen con los recursos estatales o federales y cuya ejecución se encomiende a las dependencias y entidades de la Administración Pública del Estado o a los municipios de la entidad, de conformidad con la legislación, normas y acuerdos que regulen la administración, aplicación y vigilancia de estos recursos;
+
+IX. Supervisar, en coordinación con la Secretaría de Contraloría, el cumplimiento de los programas del gasto de inversión y el adecuado ejercicio de los recursos, formulando los informes sobre los avances alcanzados para el conocimiento del Gobernador del Estado y de las autoridades federales, estatales y municipales involucradas;
+
+X. Instrumentar, en coordinación con las dependencias competentes, los trámites y registros que requieran el control y evaluación del ejercicio del gasto de inversión del Presupuesto de Egresos del Estado;
+
+XI. Consolidar y regular los servicios regionales del sector, procurando su vinculación con el modelo de organización y desarrollo regional del Estado bajo criterios de eficiencia, productividad y ahorro en el gasto público y mayor cercanía y calidad de servicios a la población;
+
+XII. Regular, coordinar y conducir los aspectos técnicos del Sistema Estatal de Información, Geografía y Estadística, procurando que los diversos sectores de la Administración Pública del Estado integren, bajo las políticas del mismo, los subsistemas de información que sirvan de base para la elaboración, instrumentación y evaluación de los programas a su cargo;
+
+XIII. Integrar la información sobre los avances en el cumplimiento de los planes y programas de desarrollo del Estado, así como la que requiera para la formulación del informe que rinde el Gobernador ante la Legislatura del Estado sobre la situación que guarda la Entidad Federativa;
+
+XIV. Proyectar y coordinar, con la participación que le corresponda a los gobiernos municipales, el desarrollo regional; así como establecer, coordinar y evaluar, los lineamientos que deban seguir; y promover que los programas de las dependencias y entidades de la Administración Pública Estatal, atiendan los requerimientos del desarrollo regional;
+
+XV. Autorizar y registrar en coordinación con la Secretaría de Hacienda, el ejercicio del gasto público de inversión y evaluar su correlación con el Plan Estatal de Desarrollo y el cumplimiento de los programas a cargo de las dependencias y entidades de la Administración Pública Estatal;
+
+XVI. Regular y supervisar, en coordinación con las Secretarías de Hacienda y de Contraloría, que los subsidios y las transferencias de fondos, provenientes del Ejecutivo del Estado para el desarrollo regional a favor de los municipios se vinculen con los objetivos establecidos en el Plan Estatal de Desarrollo y los programas de desarrollo del Estado;
+
+XVII. Normar, coordinar, supervisar y consolidar los sistemas estatales de planeación, programación sectorial, programación de inversiones, información, evaluación, coordinación institucional y desarrollo regional, asegurando su adecuada integración y funcionamiento en las dependencias y entidades del Estado, así como en los municipios que lo requieran;
+
+XVIII. Actualizar y proponer al Titular del Poder Ejecutivo, los instrumentos normativos, metodológicos y reglamentarios internos que establecen las leyes para el mejor funcionamiento y administración del Sistema Estatal de Planeación y del Comité de Planeación para el Desarrollo del Estado;
+
+XIX. Establecer los lineamientos que deban seguir las dependencias y entidades de la Administración Pública Estatal y Municipal en la organización de la información que rindan para la integración del informe anual del Titular del Poder Ejecutivo;
+
+XX. Asegurar que los planes, programas y presupuestos de las dependencias y entidades de la Administración Pública del Estado, comprendan objetivos relacionados con la racionalidad y la modernización de los servicios públicos que se proporcionan a la población; y
+
+XXI. Las demás que le encomienden expresamente las leyes y reglamentos.
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2011)</small>
+
+ARTICULO 32·BIS.- A la Secretaría de Desarrollo Social le corresponde el despacho de los siguientes asuntos:
+
+I. Formular, conducir y evaluar la política estatal de desarrollo social y las acciones correspondientes para el combate efectivo a la pobreza, procurando el desarrollo integral de la población del Estado;
 
 II. Promover la formulación de los proyectos de ley, reglamentos y demás disposiciones de carácter general, en materia de desarrollo social y atención a grupos marginados, en coordinación con las dependencias y entidades de la Administración Pública del Estado involucradas en esas materias y someterlos a la aprobación del Ejecutivo, para el proceso legislativo correspondiente;
 
-III. Proyectar y coordinar las políticas de planeación del desarrollo del gasto de inversión del Estado y formular con las dependencias y entidades de su Administración Pública, así como con los grupos sociales interesados, los programas estatales, sectoriales, institucionales y regionales respectivos, asegurando su interrelación; asimismo, coordinar su evaluación y promover su oportuna actualización, bajo las directrices del Gobernador;
+III. Coordinar el diseño, formulación e instrumentación de los programas de desarrollo social del Gobierno del Estado, en conjunto con las diversas dependencias del Ejecutivo Estatal;
 
-IV. Conducir, regular y coordinar el Sistema Estatal de Planeación y el Comité de Planeación para el Desarrollo del Estado; elaborar con la colaboración de las dependencias y entidades de la Administración Pública del Estado y los gobiernos municipales con la participación de los sectores social y o privado, el Plan Estatal de Desarrollo y los Programas Estatales de Desarrollo, a cargo de las dependencias y entidades señaladas, sometiéndolos a la consideración y aprobación del Gobernador del Estado;
+IV. Dar seguimiento a la ejecución de los programas de desarrollo social que se realicen con recursos estatales o federales a cargo de las dependencias y entidades de la Administración Pública del Estado o de los municipios de la entidad;
 
-V. Determinar e instrumentar los procedimientos, criterios y lineamientos generales para la elaboración, integración, ejecución y evaluación de los programas de inversión a cargo de las dependencias y entidades. Concertar estos aspectos en los programas que se realicen coordinadamente con los gobiernos municipales; así como, brindar a los ayuntamientos la asesoría que le soliciten para la elaboración de sus programas y proyectos de inversión. Además, evaluar, supervisar y asegurar la congruencia en el ejercicio de los recursos del presupuesto de egresos destinados a los programas de inversión;
+V. Promover mecanismos tendientes a garantizar que los recursos públicos destinados a los programas sociales, se apliquen prioritariamente a los municipios con mayor índice de vulnerabilidad;
 
-VI. Concertar, coordinar, instrumentar y evaluar, bajo las directrices del Gobernador, la ejecución de los programas de inversión y de desarrollo social o productivo, que se realicen con los recursos estatales o federales y cuya ejecución se encomiende a las dependencias y entidades de la Administración Pública del Estado o a los municipios de la entidad, de conformidad con la legislación, normas y acuerdos que regulen la administración, aplicación y vigilancia de estos recursos;
+VI. Regular y supervisar, en coordinación con las Secretarías de Hacienda y de Contraloría, que los subsidios y las transferencias de fondos, provenientes del Ejecutivo del Estado a favor de instituciones de los sectores social y privado, se vinculen con los objetivos establecidos en el Plan y los programas de desarrollo del Estado;
 
-Al efecto deberá supervisar, en coordinación con la Secretaría de Contraloría, el cumplimiento de los programas respectivos y el adecuado ejercicio de los recursos formulando los informes sobre los avances alcanzados para el conocimiento del Gobernador y de las autoridades federales, estatales y municipales involucradas;
+VII. Coordinar y concertar de manera conjunta con las dependencias y entidades de la Administración Pública Estatal, programas especiales para los sectores sociales más vulnerables, con la finalidad de elevar el nivel de vida de la población,
 
-VII. Instrumentar, en coordinación con las dependencias competentes, los trámites y registros que requieran el control y evaluación del ejercicio del gasto de inversión del Presupuesto de Egresos del Estado;
+VIII. Coadyuvar en la Implementación y ejecución de programas de creación y apoyo a empresas individuales o colectivas en los grupos de escasos recursos, con la participación de los sectores social y privado y de las dependencias del Gobierno del Estado;
 
-VIII. Coordinar con las dependencias y entidades de la Administración Pública del Estado competentes, la adecuada instrumentación y supervisión de los programas de fomento a las actividades productivas en la entidad, con la participación de los productores y atendiendo a criterios de desarrollo sustentable, equilibrio ecológico, potencialidad en el uso de los recursos, creación de nuevas fuentes de empleo, incremento de la productividad y mejoramiento de las condiciones sociales y económicas de la población;
+IX. Establecer programas especiales de desarrollo a las comunidades indígenas y rurales con el fin de consolidar su integración al desarrollo del Estado;
 
-IX. Consolidar y regular los servicios regionales del sector, procurando su vinculación con el modelo de organización y desarrollo regional del Estado bajo criterios de eficiencia, productividad y ahorro en el gasto público y mayor cercanía y calidad de servicios a la población;
+X. Concertar con la Secretaría de Desarrollo Agropecuario, Rural e Indígena, la integración, instrumentación y ejecución de los presupuestos de desarrollo social vinculados con la transformación socioeconómica de las comunidades indígenas y grupos marginados, con la colaboración; tanto de las dependencias coordinadoras de los sectores de producción y desarrollo social, como de las representaciones de esas comunidades;
 
-X. Regular, coordinar y conducir los aspectos técnicos del Sistema Estatal de Información, Geografía y Estadística, procurando que los diversos sectores de la Administración Pública del Estado integren, bajo las políticas del mismo, los subsistemas de información que sirvan de base para la elaboración, instrumentación y evaluación de los programas a su cargo; así mismo, asesorar y aportar los elementos técnicos necesarios a la Oficialía Mayor, para la adecuada administración de los servicios informáticos de la Administración Publica del Estado;
+XI. Convenir con los municipios la elaboración, ejecución, registro y evaluación de los programas de inversión en materia de desarrollo social y humano, así como los de combate a la pobreza;
 
-XI. Integrar la información sobre los avances en el cumplimiento de los planes y programas de desarrollo del Estado, así como la que requiera para la formulación del informe que rinde el Gobernador del Estado ante la Legislatura del Estado sobre la situación que guarda la Entidad Federativa;
+XII. Proponer y promover mecanismos de financiamiento para el desarrollo social, con la participación de las demás dependencias y entidades del Poder Ejecutivo del Estado y de las autoridades municipales;
 
-XII. Proyectar y coordinar, con la participación que le corresponda a los gobiernos municipales, el desarrollo regional; así como fijar, regular, coordinar y evaluar, los lineamientos que deban seguir; y promover que los programas de las dependencias y entidades atiendan los requerimientos del desarrollo regional;
+XIII. Impulsar y coordinar la organización social en los ámbitos rural y urbano para facilitar la participación en la toma de decisiones con respecto a su propio desarrollo;
 
-XIII. Autorizar y registrar, en coordinación con la Secretaría de Hacienda, el ejercicio del Gasto Público de Inversión y evaluar su correlación con el Plan Estatal de Desarrollo y el cumplimiento de los programas a cargo de las dependencias y entidades del Estado;
+XIV. Analizar, evaluar y en su caso instrumentar de manera conjunta con la Secretaría de Planeación y Desarrollo Regional, las propuestas de desarrollo comunitario y social resultantes de la participación de las diferentes organizaciones sociales y civiles, favoreciendo el equilibrio en el desarrollo regional;
 
-XIV. Regular y supervisar, en coordinación con las Secretarías de Hacienda y de Contraloría, que los subsidios y las transferencias de fondos, provenientes del Ejecutivo del Estado para el desarrollo regional, a favor de los municipios o de instituciones de los sectores social y privado, se vinculen con los objetivos establecidos en el Plan y los programas de desarrollo del Estado;
+XV. Coordinar la ejecución de los convenios en materia de desarrollo social celebrados con la federación, municipios y grupos sociales, así como las obras de desarrollo social que favorezcan a las comunidades del Estado;
 
-XV. Normar, coordinar, supervisar y consolidar los sistemas estatales de planeación, programación sectorial, programación de inversiones, información, evaluación, coordinación institucional y desarrollo regional, asegurando su adecuada integración y funcionamiento en las dependencias y entidades del Estado, así como en los municipios que lo requieran;
+XVI. Establecer, coordinar y operar el Sistema Estatal de Desarrollo Social con la participación de las dependencias y entidades de la Administración Pública Estatal y municipal, de los órganos autónomos, particulares, organismos, instituciones y representantes del sector social y privado;
 
-XVI. Concertar, con la participación de la Secretaría de Desarrollo Agropecuario, Rural e Indígena, la integración de los presupuestos de desarrollo social en la materia, con la colaboración; tanto de las dependencias coordinadoras de los sectores de producción y desarrollo social, como de las representaciones de esas comunidades. Supervisar su adecuada instrumentación y acordar con la Federación y las autoridades municipales los programas y recursos presupuestales que se destinen al efecto y convenir las medidas que aseguren su adecuada aplicación;
-
-XVII. Asegurar que los planes, programas y presupuestos de las dependencias y entidades de la Administración Pública del Estado, comprendan objetivos relacionados con la racionalidad y la modernización de los servicios públicos que se proporciona a la población; y
+XVII. Proporcionar asesoría y capacitación en materia de desarrollo comunitario y política social a las dependencias de la administración pública estatal, a los municipios, así como a los sectores y grupos sociales y privados que lo requieran; y
 
 XVIII. Las demás que le encomienden expresamente las leyes y reglamentos.
 
@@ -437,7 +499,7 @@ V. Conducir, regular, administrar, operar y supervisar el Sistema de Contabilida
 
 VI. Proponer al Gobernador el Estado las políticas y programas para lograr una recaudación efectiva, expedita y congruente con los requerimientos de la población y el crecimiento de los sectores productivos de la Entidad;
 
-VII. Proyectar y calcular los ingresos del Estado, considerando las necesidades del gasto público estatal, la utilización razonable del crédito público y el equilibrio financiero de la Administración Publica del Estado;
+VII. Proyectar y calcular los ingresos del Estado, considerando las necesidades del gasto público estatal, la utilización razonable del crédito público y el equilibrio financiero de la Administración Pública del Estado;
 
 VIII. Recaudar los impuestos, derechos, productos y aprovechamientos que correspondan al Estado, asimismo recibir, administrar y destinar conforme a las disposiciones legales e instrucciones del Ejecutivo del Estado, las contribuciones, subsidios y transferencias de fondos federales y municipales en los términos de los convenios suscritos;
 
@@ -481,121 +543,55 @@ XXV. Intervenir en la autorización de contratos y convenios en los que se afect
 
 XXVI. Las demás que le encomienden expresamente las leyes y reglamentos;
 
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2011)</small>
+
 ###### ARTICULO 34.
 
-A la Secretaría de Desarrollo Urbano y Medio Ambiente le corresponde el despacho de los siguientes asuntos:
+A la Secretaría de Desarrollo Urbano le corresponde el despacho de los siguientes asuntos:
 
-> <small>(REFORMADA, P.O. 17 DE MARZO DE 2005)</small>
+I. Formular, instrumentar, conducir y evaluar, de manera coordinada con la Secretaría de Ecología y Medio Ambiente, las políticas y programas sectoriales de ordenamiento territorial y desarrollo urbano, en congruencia con el Plan Estatal de Desarrollo y con base en las disposiciones constitucionales y legales, y las normas y lineamientos que determine el Ejecutivo del Estado, sin perjuicio de las competencias que correspondan a la Federación o a los municipios de la entidad;
 
-I. Formular, instrumentar, conducir y evaluar, las políticas y programas sectoriales de ordenamiento territorial, desarrollo urbano, de ecología y medio ambiente, en congruencia con el Sistema Estatal de Planeación y con base en las disposiciones constitucionales y legales, y las normas y lineamientos que determine el Ejecutivo del Estado, sin perjuicio de las competencias que correspondan a la Federación o a los Municipios de la Entidad;
+II. Concertar, coordinar, instrumentar y evaluar la ejecución de los programas de ordenamiento territorial, desarrollo urbano, asentamientos humanos, vivienda, agua potable y saneamiento, en coordinación con las dependencias y entidades de la Administración Pública del Estado, respetando las competencias de los municipios;
 
-> <small>(REFORMADA, P.O. 17 DE MARZO DE 2005)</small>
+III. Promover y vigilar en coordinación con los Ayuntamientos del Estado, el ordenamiento territorial y el desarrollo equilibrado de los asentamientos humanos del Estado;
 
-II. Concertar, coordinar, instrumentar y evaluar la ejecución de los programas de ordenamiento territorial, desarrollo urbano, asentamientos humanos, vivienda, agua potable y saneamiento, en coordinación con las dependencias y entidades de la Administración Pública del Estado, respetando las competencias de la Autonomía Municipal;
+IV. Promover y ejecutar las acciones tendientes al mejoramiento urbano de las zonas marginadas;
 
-> <small>(REFORMADA, P.O. 17 DE MARZO DE 2005)</small>
+V. Coadyuvar con los municipios en la formulación de sus planes, programas y normas técnicas, relacionadas con el ordenamiento territorial, el desarrollo urbano y la vivienda;
 
-III. Promover y vigilar en coordinación con los Ayuntamientos del Estado, el ordenamiento territorial y el desarrollo equilibrado de los asentamientos humanos del Estado, así como ejecutar las acciones tendientes al mejoramiento de las zonas marginadas;
+VI. Promover y vigilar, en coordinación con los municipios correspondientes, que el desarrollo y equipamiento urbano de las diversas comunidades y centros de población del Estado, guarden congruencia con las previsiones y planes respectivos;
 
-> <small>(REFORMADA, P.O. 17 DE MARZO DE 2005)</small>
+VII. Promover, proponer, conducir y evaluar la realización de los programas de desarrollo urbano, vivienda y los relacionados con los servicios de agua potable y saneamiento en coordinación con los gobiernos municipales e instituciones públicas competentes;
 
-IV. Coadyuvar con los Ayuntamientos en la formulación de sus planes, programas y normas técnicas, relacionadas con el ordenamiento territorial, el desarrollo urbano y la vivienda;
+VIII. Determinar en los períodos que señalen las disposiciones legales, las características de la propiedad raíz en el Estado en coordinación con la Secretaría de Hacienda y establecer los métodos para darle el valor más cercano al real, de acuerdo a esas características. En su caso, proporcionar la información resultante a los municipios, para determinar los avalúos de los predios dentro de su jurisdicción;
 
-> <small>(REFORMADA, P.O. 17 DE MARZO DE 2005)</small>
+IX. Establecer y vigilar el cumplimiento de los programas relacionados con las reservas territoriales en el Estado, con la participación que corresponda al Instituto del Patrimonio Inmobiliario de la Administración Pública del Estado;
 
-V. Promover y vigilar, en coordinación con los Ayuntamientos correspondientes, que el desarrollo y equipamiento urbano de las diversas comunidades y centros de población del Estado, guarden congruencia con las previsiones y planes respectivos;
+X. Expedir las licencias, constancias y autorizaciones que en materia de fraccionamientos, desarrollo urbano y asentamientos humanos establezcan las disposiciones legales aplicables;
 
-> <small>(REFORMADA, P.O. 17 DE MARZO DE 2005)</small>
+XI. Elaborar los anteproyectos de decretos de expropiación, ocupación temporal y limitación de dominio, en los casos de utilidad pública en materia de desarrollo urbano y promoverlos para su aprobación y posterior promulgación ante la Secretaría de Gobierno;
 
-VI. Promover, proponer, conducir y evaluar la realización de los programas de desarrollo urbano, ecología, medio ambiente, vivienda y los relacionados con los servicios de agua potable y saneamiento en coordinación con los gobiernos municipales, e instituciones públicas competentes;
+XII. Promover estudios para el mejoramiento del ordenamiento territorial, de los asentamientos humanos y del desarrollo urbano y la vivienda en la Entidad e impulsar proyectos para su financiamiento;
 
-> <small>(REFORMADA, P.O. 17 DE MARZO DE 2005)</small>
+XIII. Aplicar las sanciones previstas en las disposiciones legales en las materias de su competencia; dar seguimiento a la aplicación de las que correspondan a otras autoridades, y resolver los recursos y quejas que formulen los particulares de conformidad con las disposiciones aplicables;
 
-VII. Determinar en los períodos que señalen las disposiciones legales, las características de la propiedad raíz en el Estado; en coordinación con la Secretaría de Hacienda, establecer los métodos para darle el valor más cercano al real, de acuerdo a esas características. En su caso, proporcionar la información resultante a los Ayuntamientos, para determinar los avalúos de los predios dentro de su jurisdicción, así como para la fusión, subdivisión y fraccionamiento de éstos;
+XIV. Participar de manera conjunta con los gobiernos estatales y municipales, en la ordenación y regulación de centros de población del territorio estatal, que constituyan o tiendan a constituir una conurbación con centros de población ubicados en el territorio de un Estado vecino;
 
-> <small>(REFORMADA, P.O. 17 DE MARZO DE 2005)</small>
+XV. Proponer criterios y acciones para la regulación y mejoramiento de los asentamientos humanos;
 
-VIII. Establecer y vigilar el cumplimiento de los programas relacionados con las reservas territoriales en el Estado, con la participación que corresponda al Instituto del Patrimonio Inmobiliario Estatal;
+XVI. Coadyuvar con los Gobiernos Federal y Municipal, en el sistema tendiente a satisfacer las necesidades de tierra para vivienda y para el desarrollo urbano;
 
-> <small>(REFORMADA, P.O. 17 DE MARZO DE 2005)</small>
+XVII. Coadyuvar en la vigilancia del cumplimiento de las declaraciones de usos, destinos, reservas y provisiones de predios que se expidan en el Estado, en coordinación con las autoridades competentes;
 
-IX. Proponer, convenir y coordinar las acciones y medidas necesarias de protección al ambiente con el fin de preservar, restaurar y fortalecer el equilibrio ecológico y disminuir la fragilidad ambiental de los ecosistemas del Estado, en acuerdo con el Gobierno Federal, las dependencias y entidades del Poder Ejecutivo Estatal y los Gobiernos Municipales, de conformidad con la distribución de competencias existente;
+XVIII. Programar de manera coordinada con las autoridades federales, estatales y municipales competentes, la inversión pública y la realización de acciones de desarrollo urbano que se ejecuten en la Entidad y evaluar sus resultados;
 
-> <small>(REFORMADA, P.O. 17 DE MARZO DE 2005)</small>
+XIX. Promover, formular y presentar de manera coordinada con la Secretaría de Cultura y autoridades municipales, proyectos de rescate de edificaciones con valor arquitectónico y urbano en los centros históricos de las localidades del Estado;
 
-X. Promover, Certificar e Implementar programas para el cumplimiento cabal de la normatividad ambiental y la aplicación de criterios de protección, restauración y aprovechamiento sustentable de los recursos naturales y de prevención y disminución de la contaminación ambiental atmosférica;
+XX. Supervisar y vigilar de manera coordinada con la Secretaría de Ecología y Medio Ambiente, que la preservación ecológica constituya una línea conductora de la programación del desarrollo urbano y regional;
 
-> <small>(REFORMADA, P.O. 17 DE MARZO DE 2005)</small>
+XXI. Vigilar de manera conjunta con las demás autoridades competentes, el cumplimiento de las normas oficiales mexicanas aplicables al desarrollo urbano; y
 
-XI. Gestionar con las dependencias federales, estatales y municipales correspondientes, el otorgamiento de incentivos y estímulos en favor de los particulares que contribuyan a la protección ambiental y al equilibrio de los ecosistemas de la entidad;
-
-> <small>(REFORMADA, P.O. 17 DE MARZO DE 2005)</small>
-
-XII. Proporcionar asesoría y servicios tendientes a la conservación, restauración y de aprovechamiento de los recursos naturales y el ambiente, y llevar el registro de las personas físicas y morales acreditadas para ello, así como el padrón correspondiente.
-
-> <small>(REFORMADA, P.O. 17 DE MARZO DE 2005)</small>
-
-XIII. Celebrar convenios con instituciones públicas y privadas, que promuevan y fomenten la conservación, restauración y evaluación de los recursos naturales y el medio ambiente;
-
-> <small>(REFORMADA, P.O. 17 DE MARZO DE 2005)</small>
-
-XIV. Instrumentar e impulsar metodologías y procedimientos de valuación económica del capital natural y de los bienes y servicios ambientales;
-
-> <small>(REFORMADA, P.O. 17 DE MARZO DE 2005)</small>
-
-XV. Evaluar la calidad del aire y del ambiente y establecer y promover el Sistema Estatal de Información Ambiental, que incluirá los sistemas de monitoreo atmosférico, de suelo y de cuerpos de agua de jurisdicción estatal, entre otros;
-
-> <small>(REFORMADA, P.O. 17 DE MARZO DE 2005)</small>
-
-XVI. Promover, en coordinación con la Secretaría de Educación y Cultura, la incorporación de contenidos ambientales en la política educativa del Estado y en los planes y programas de estudios, así como la formación de actitudes y valores de protección y conservación del patrimonio natural;
-
-> <small>(REFORMADA, P.O. 17 DE MARZO DE 2005)</small>
-
-XVII. Aplicar la normatividad para la construcción de los sistemas de tratamiento de aguas residuales;
-
-> <small>(REFORMADA, P.O. 17 DE MARZO DE 2005)</small>
-
-XVIII. Coadyuvar en la vigilancia sobre la conservación de las corrientes de agua, ríos, lagos y lagunas de jurisdicción estatal y en la protección de cuencas alimentadoras y demás cuerpos de agua;
-
-> <small>(REFORMADA, P.O. 17 DE MARZO DE 2005)</small>
-
-XIX. Conformar, operar y elaborar programas para el Sistema Estatal de Áreas Naturales Protegidas en el Estado, con la participación que corresponda a los Gobiernos Municipales, así como normar y supervisar la operación de los parques, zoológicos, jardines botánicos, reservas y parques naturales, competencia del Estado;
-
-> <small>(REFORMADA, P.O. 17 DE MARZO DE 2005)</small>
-
-XX. Desarrollar, en coordinación con la Secretaría de Desarrollo Agropecuario, Rural e Indígena, y con las autoridades federales competentes, el censo de predios forestales y silvopastoriles y de sus productos; así como, levantar, organizar, manejar y actualizar las cartografías correspondientes, los inventarios de recursos naturales y de fauna y flora silvestre que competa al Gobierno del Estado;
-
-> <small>(REFORMADA, P.O. 17 DE MARZO DE 2005)</small>
-
-XXI. Regular y promover, en colaboración con las Autoridades Federales, Estatales y Municipales, la protección y preservación de los recursos de fauna y flora silvestres del Estado, de acuerdo con las disposiciones legales aplicables;
-
-> <small>(REFORMADA, P.O. 17 DE MARZO DE 2005)</small>
-
-XXII. Aplicar las restricciones en materia ecológica y sobre los recursos naturales establecidas en las disposiciones jurídicas aplicables, e intervenir, en coordinación con las dependencias competentes, en el establecimiento y levantamiento de vedas forestales, de caza y de pesca;
-
-> <small>(REFORMADA, P.O. 17 DE MARZO DE 2005)</small>
-
-XXIII. Promover y realizar estudios e investigaciones de carácter científico y tecnológico, que contribuyan a impulsar el conocimiento de los diversos ecosistemas y del medio ambiente de la Entidad;
-
-> <small>(REFORMADA, P.O. 17 DE MARZO DE 2005)</small>
-
-XXIV. Fomentar y conducir estudios, trabajos y servicios meteorológicos del Estado:
-
-> <small>(REFORMADA, P.O. 17 DE MARZO DE 2005)</small>
-
-XXV. Aplicar las sanciones previstas en las disposiciones legales en las materias de su competencia; dar seguimiento a la aplicación de las que correspondan a otras autoridades, y resolver los recursos y quejas que formulen los particulares de conformidad con las disposiciones aplicables;
-
-> <small>(REFORMADA, P.O. 17 DE MARZO DE 2005)</small>
-
-XXVI. Certificar los documentos que obren en sus archivos y los expedidos por los servidores públicos que le estén subordinados en ejercicio de sus atribuciones; y
-
-> <small>(REFORMADA, P.O. 17 DE MARZO DE 2005)</small>
-
-XXVII. Proporcionar a los Ayuntamientos y a las asociaciones en general, asesoría para la elaboración de programas y proyectos en las materias competencia de la Secretaría, cuando así lo soliciten; además, consolidar y regular los servicios regionales del sector, procurando su vinculación con el modelo de organización y desarrollo regional del Estado bajo criterios de eficiencia, productividad y ahorro en el gasto público, mayor cercanía y calidad de servicios a la población; y
-
-> <small>(REFORMADA, P.O. 17 DE MARZO DE 2005)</small>
-
-XXVIII. Las demás que le encomienden expresamente las leyes y reglamentos.
+XXII. Las demás que le encomienden expresamente las leyes y reglamentos.
 
 > <small>(ADICIONADO, P.O. 17 DE MARZO DE 2005)</small>
 
@@ -646,6 +642,66 @@ XXI.- Certificar los documentos que obren en sus archivos y los expedidos por lo
 XXII.- Proporcionar a los Ayuntamientos y a las Asociaciones en general, asesoría para la elaboración de programas y proyectos en las materias competencia de la Secretaría, cuando así lo soliciten; además, consolidar y regular los servicios regionales del sector, procurando su vinculación con el modelo de organización y desarrollo regional del Estado bajo criterios de eficiencia, productividad y ahorro en el gasto público, mayor cercanía y calidad de servicios a la población; y
 
 XXIII.- Las demás que le encomienden expresamente las leyes y reglamentos.
+
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 22 DE MARZO DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2011)</small>
+
+ARTICULO 34·TER.- A la Secretaría de Ecología y Medio Ambiente le corresponde el despacho de los siguientes asuntos:
+
+I. Proponer, convenir y coordinar las acciones y medidas necesarias de protección al ambiente con el fin de preservar, restaurar y fortalecer el equilibrio ecológico y disminuir la fragilidad ambiental de los ecosistemas del Estado, en coordinación con el Gobierno Federal, las dependencias y entidades del Poder Ejecutivo Estatal y los gobiernos municipales, de conformidad con la distribución de competencias existentes;
+
+II. Promover, certificar e implementar programas para el cumplimiento cabal de la normatividad ambiental y la aplicación de criterios de protección, restauración y aprovechamiento sustentable de los recursos naturales y de prevención y disminución de la contaminación ambiental atmosférica;
+
+III. Gestionar con las dependencias federales, estatales y municipales correspondientes, el otorgamiento de incentivos y estímulos a favor de los particulares que contribuyan a la protección ambiental y al equilibrio de los ecosistemas de la entidad;
+
+IV. Proporcionar asesoría y servicios tendientes a la conservación, restauración y aprovechamiento de los recursos naturales y el ambiente, y llevar el registro de las personas físicas y morales acreditadas para ello, así como el padrón correspondiente;
+
+V. Celebrar convenios con instituciones públicas y privadas, que promuevan y fomenten la conservación, evaluación y restauración de los recursos naturales y el medio ambiente;
+
+VI. Instrumentar e impulsar metodologías y procedimientos de evaluación económica del capital natural y de los bienes y servicios ambientales;
+
+VII. Evaluar la calidad del aire y del ambiente así como establecer y promover el Sistema Estatal de Información Ambiental, que incluirá los sistemas de monitoreo atmosférico, de suelo y de cuerpos de agua de jurisdicción estatal, entre otros;
+
+VIII. Promover, en coordinación con la Secretaría de Educación, la incorporación de contenidos ambientales en la política educativa del Estado y en los planes y programas de estudios, así como la formación de actitudes y valores de protección y conservación del patrimonio natural;
+
+IX. Aplicar la normatividad para la construcción de los sistemas de tratamiento de aguas residuales;
+
+X. Coadyuvar con las autoridades competentes en la vigilancia sobre la conservación de las corrientes de agua, ríos, lagos y lagunas de jurisdicción estatal y en la protección de cuencas alimentadoras y demás cuerpos de agua;
+
+XI. Conformar, operar y elaborar programas para el Sistema Estatal de Áreas Naturales Protegidas en el Estado, con la participación que corresponda a los Gobiernos Municipales, así como normar y supervisar la operación de los parques, zoológicos, jardines botánicos, reservas y parques naturales, competencia del Estado;
+
+XII. Desarrollar, en coordinación con la Secretaría de Desarrollo Agropecuario, Rural e Indígena, y con las autoridades federales competentes, el censo de predios forestales y silvopastoriles y de sus productos; así como, levantar, organizar, manejar y actualizar las cartografías correspondientes, los inventarios de recursos naturales y de fauna y flora silvestre que competa al Gobierno del Estado;
+
+XIII. Regular y promover, en colaboración con las autoridades federales, estatales y municipales, la protección y preservación de los recursos de fauna y flora silvestres del Estado, de acuerdo con las disposiciones legales aplicables;
+
+XIV. Aplicar las resoluciones en materia ecológica y sobre los recursos naturales establecidas en las disposiciones jurídicas aplicables, e intervenir, en coordinación con las Dependencias competentes, en el establecimiento y levantamiento de vedas forestales, de caza y de pesca;
+
+XV. Promover y realizar estudios e investigaciones de carácter científico y tecnológico, que contribuyan a impulsar el conocimiento de los diversos ecosistemas y del medio ambiente de la Entidad;
+
+XVI. Fomentar y conducir estudios, trabajos y servicios meteorológicos del Estado;
+
+XVII. Formular, actualizar, ejecutar y hacer valer el Programa de Ordenamiento Ecológico del Estado, programas regionales y locales con la participación de los municipios;
+
+XVIII. Regular y fomentar, en coordinación con la Secretaría de Desarrollo Urbano, las actividades de minimización, recolección, tratamiento y disposición final de desechos sólidos, establecer los sitios destinados a la disposición final, restaurar sitios contaminados, así como definir los sistemas de reciclamiento y tratamiento de aguas residuales y residuos sólidos;
+
+XIX. Promover y fomentar el desarrollo y uso de energías, tecnologías y combustibles alternativos, así como la investigación ambiental;
+
+XX. Establecer, en congruencia con los programas sectoriales, las políticas generales y definir las prioridades a las que deberá sujetarse la Procuraduría de Protección al Ambiente del Estado;
+
+XXI. Aprobar los anteproyectos de Programa Operativo Anual y de Presupuesto de sus órganos desconcentrados, así como sus modificaciones, en los términos de la legislación aplicable, formulando las recomendaciones sobre el mismo;
+
+XXII. Aprobar la estructura orgánica de la Procuraduría de Protección al Ambiente del Estado y las modificaciones que procedan a la misma con apego a la normatividad aplicable;
+
+XXIII. Aprobar y expedir el Reglamento Interior de la Procuraduría de Protección al Ambiente del Estado y los Manuales y demás ordenamientos, normas y disposiciones generales de carácter interno, orientadas a mejorar la organización y funcionamiento técnico y administrativo del órgano desconcentrado;
+
+XXIV. Nombrar y remover, a propuesta del Procurador, en todo aquello que no contravenga el Reglamento Interior de la Procuraduría de Protección al Ambiente y las demás leyes aplicables, a los servidores públicos de la Procuraduría que ocupen cargos con las dos jerarquías administrativas inferiores a la de aquél y aprobar la fijación de sueldos y prestaciones, así como el concederles licencias;
+
+XXV. Delegar en los Titulares de sus órganos desconcentrados, las facultades que por acuerdo se determinen expresamente;
+
+XXVI. Autorizar el establecimiento de Coordinaciones de la Procuraduría de Protección al Ambiente, en los Municipios y regiones del Estado, a propuesta del Procurador; y
+
+XXVII. Las demás que le encomienden expresamente las leyes y reglamentos.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -805,11 +861,13 @@ IX. Planear la expansión, mejoramiento y tecnificación de las actividades rela
 
 X. Elaborar y ejecutar, en coordinación con las autoridades competentes, estudios para aprovechar racionalmente los recursos naturales renovables del Estado, integrados al sector primario, a fin de asegurar un desarrollo sustentable y sostenido para satisfacer las necesidades en el Estado;
 
-XI. Instrumentar, dentro de la competencia que corresponda al Estado, los programas de desarrollo agropecuario, forestal y rural vinculados con la transformación socioeconómica de las comunidades indígenas y grupos marginados, en coordinación con la Secretaría de Planeación y Desarrollo Regional, asimismo, con la participación de las etnias y de los grupos involucrados;
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2011)</small>
+
+XI. Instrumentar, dentro de la competencia que corresponda al Estado, los programas de desarrollo agropecuario, forestal y rural vinculados con la transformación socioeconómica de las comunidades indígenas y grupos marginados, en coordinación con la Secretaría de Desarrollo Social, y con la participación de las etnias y de los grupos involucrados;
 
 XII. Instrumentar, ejecutar, evaluar y supervisar acciones tendientes a propiciar el desarrollo rural, de las zonas cañeras y de los grupos marginados;
 
-XIII.- Promover, regular, asesorar y supervisar, en coordinación con las instancias correspondientes, en la integración de asociaciones agropecuarias, forestales y rurales; asimismo, organizar y actualizar los estudios económicos del sector primario de la producción;
+XIII. Promover, regular, asesorar y supervisar, en coordinación con las instancias correspondientes, en la integración de asociaciones agropecuarias, forestales y rurales; asimismo, organizar y actualizar los estudios económicos del sector primario de la producción;
 
 XIV. Instrumentar los programas y acciones para la capacitación de los productores rurales, a efecto de propiciar la transferencia tecnológica, labores administrativas y esquemas de organización educativos adecuados para una mejor producción y su vinculación efectiva con los procesos de comercialización;
 
@@ -831,9 +889,13 @@ XXII. Fomentar y controlar los servicios agropecuarios y de desarrollo rural que
 
 XXIII. Coordinar acciones y programas con las autoridades Federales, Estatales y Municipales en la realización de programas de reforestación, silvicultura, acuacultura, pesca, recursos hidráulicos y preservación y restauración de recursos naturales;
 
-XXIV. Desarrollar, ejecutar, supervisar y evaluar en coordinación con las Secretarías de Desarrollo Económico y de Desarrollo Urbano y Medio Ambiente, y con las Dependencias Federales correspondientes acciones que propicien el aprovechamiento sustentable de los recursos naturales del Estado;
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2011)</small>
 
-XXV. Coordinar con las Secretarías de Desarrollo Económico y de Desarrollo Urbano y de Medio Ambiente, la instrumentación y operación del Sistema de evaluación económica del capital de los recursos naturales y de los bienes y servicios ambientales en la Entidad; así como también en la definición, propuesta y evaluación de las políticas, programas, acciones y estrategias de desarrollo sustentable;
+XXIV. Desarrollar, ejecutar, supervisar y evaluar en coordinación con las Secretarías de Desarrollo Económico y de Ecología y Medio Ambiente, y con las Dependencias Federales correspondientes acciones que propicien el aprovechamiento sustentable de los recursos naturales del Estado;
+
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2011)</small>
+
+XXV. Coordinar con las Secretarías de Desarrollo Económico y de Ecología y Medio Ambiente, la instrumentación y operación del Sistema de evaluación económica del capital de los recursos naturales y de los bienes y servicios ambientales en la Entidad; así como también en la definición, propuesta y evaluación de las políticas, programas, acciones y estrategias de desarrollo sustentable;
 
 XXVI. Colaborar con las autoridades competentes Federales y Estatales, en el proceso de certificación de derechos ejidales y en la tramitación de asuntos agrarios para la atención y desarrollo de la población rural del Estado;
 
@@ -843,7 +905,9 @@ XXVIII. Colaborar en la elaboración, instrumentación y evaluación de los prog
 
 XXIX. Investigar los problemas relativos a los núcleos indígenas y marginados del Estado, así como estudiar y promover las medidas de mejoramiento que requieran dichos grupos y coadyuvar con la Secretaría de Gobierno en la adecuada atención política de su problemática;
 
-XXX. Formular e instrumentar el programa estatal para el desarrollo indígena y de los grupos marginados y concertar con la Secretaría de Planeación y Desarrollo Regional los recursos presupuestales para la ejecución del mismo;
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2011)</small>
+
+XXX. Formular e instrumentar de manera coordinada con la Secretaría de Desarrollo Social, el programa estatal para el desarrollo indígena y de los grupos marginados y concertar con la Secretaría de Planeación y Desarrollo Regional los recursos presupuestales para la ejecución del mismo;
 
 XXXI. Asegurar y fortalecer la participación de los Sectores Social y Privado en los programas destinados al desarrollo de las comunidades indígenas y grupos marginados;
 
@@ -859,7 +923,7 @@ XXXVI. Coadyuvar en la coordinación y ejecución de planes y proyectos de obras
 
 XXXVII. Cooperar y apoyar, con las dependencias y autoridades federales y municipales competentes, cuando lo soliciten, en la planeación, construcción, rehabilitación, operación, conservación y mejoramiento de los sistemas de agua potable, agua desalada, alcantarillado, tratamiento y reuso de aguas residuales para el desarrollo de las comunidades rurales e indígenas y de los grupos marginados; y
 
-XXXVIII.- Las demás que le encomienden expresamente las leyes y reglamentos.
+XXXVIII. Las demás que le encomienden expresamente las leyes y reglamentos.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE JUNIO DE 2007)</small>
 
@@ -879,7 +943,7 @@ III. Ejercer las facultades de coordinación sectorial y regional de la Dependen
 
 IV. Consolidar y regular los servicios regionales del sector, procurando su vinculación con el modelo de organización y desarrollo regional del Estado bajo criterios de eficiencia, productividad y ahorro en el gasto público y mayor cercanía y calidad de servicios a la población;
 
-V. Vigilar la observancia del articulo 3o de la Constitución Política de los Estados Unidos Mexicanos y 32 de la Constitución Política del Estado y las disposiciones jurídicas aplicables en materia educativa; asimismo, coordinar, planear, desarrollar, dirigir y supervisar la educación a cargo del Gobierno del Estado y de los particulares en todos los tipos, niveles y modalidades en los términos de la Legislación correspondiente; respecto a la educación pública de la entidad, garantizar en el ámbito de su competencia, el acceso de la población a los servicios educativos sin restricción alguna;
+V. Vigilar la observancia del artículo 3o de la Constitución Política de los Estados Unidos Mexicanos y 32 de la Constitución Política del Estado y las disposiciones jurídicas aplicables en materia educativa; asimismo, coordinar, planear, desarrollar, dirigir y supervisar la educación a cargo del Gobierno del Estado y de los particulares en todos los tipos, niveles y modalidades en los términos de la Legislación correspondiente; respecto a la educación pública de la entidad, garantizar en el ámbito de su competencia, el acceso de la población a los servicios educativos sin restricción alguna;
 
 > <small>(REFORMADA, P.O. 14 DE JUNIO DE 2007)</small>
 
@@ -1043,7 +1107,7 @@ XV. Regular y controlar la salubridad competencia del Estado y aplicar las accio
 
 XVI. Programar, coordinar, organizar y supervisar, en coordinación con las autoridades y sectores involucrados, campañas de salud, seguridad social, asistencia pública, desarrollo comunitario, prevención social y atención de grupos marginados o en situación de riesgo o rehabilitación;
 
-XVII. Coordinar, concertar y ejecutar programas especiales para la atención de los sectores sociales mas desprotegidos en las áreas rurales, así como de las áreas urbanas, en especial para las personas discapacitadas, para elevar el nivel de vida de la población, con la intervención de las dependencias y entidades de la Administración Pública del Estado correspondientes y con la participación de los sectores social y privado;
+XVII. Coordinar, concertar y ejecutar programas especiales para la atención de los sectores sociales más desprotegidos en las áreas rurales, así como de las áreas urbanas, en especial para las personas discapacitadas, para elevar el nivel de vida de la población, con la intervención de las dependencias y entidades de la Administración Pública del Estado correspondientes y con la participación de los sectores social y privado;
 
 XVIII. Fomentar la participación de instituciones académicas, de investigación, de organizaciones no gubernamentales y de la sociedad en general, en la generación e instrumentación de estrategias para mejorar la salud, superar rezagos sociales e impulsar el bienestar social de la población;
 
@@ -1135,7 +1199,7 @@ VI. Expedir, actualizar, sistematizar y difundir la normatividad que regulen los
 
 VII. Vigilar y supervisar el cumplimiento de las normas de control, evaluación y auditoria, de su competencia;
 
-VIII. Establecer, regular, emitir y coordinar las bases para la realización de auditorias, inspecciones e inventarios gubernamentales en los sectores de la Administración Pública del Estado, así como realizar aquellas auditorias que se requieran en sustitución o apoyo de los órganos de control y evaluación interna o bien llevarlas a cabo cuando lo solicite la Secretaría de Hacienda o los titulares de las dependencias y entidades de la misma;
+VIII. Establecer, regular, emitir y coordinar las bases para la realización de auditorías, inspecciones e inventarios gubernamentales en los sectores de la Administración Pública del Estado, así como realizar aquellas auditorias que se requieran en sustitución o apoyo de los órganos de control y evaluación interna o bien llevarlas a cabo cuando lo solicite la Secretaría de Hacienda o los titulares de las dependencias y entidades de la misma;
 
 IX. Coordinarse con la Contaduría Mayor de Hacienda para el establecimiento de los mecanismos necesarios, que permitan a ambas instancias, el mejor cumplimiento de sus respectivas responsabilidades;
 
@@ -1191,7 +1255,7 @@ XXXIV. Recibir, atender, registrar y darle seguimiento a las quejas, denuncias y
 
 XXXV. Tramitar y resolver, de conformidad con las disposiciones aplicables, las inconformidades que presenten los particulares con motivo de la adquisición o arrendamiento de los bienes muebles, prestación de servicios de cualquier naturaleza, obras públicas y servicios relacionados con las mismas, concesiones, acuerdos, convenios, contratos y cualquier otro acto jurídico celebrado por la Administración Pública Estatal;
 
-XXXVI. Emitir, formular y notificar los pliegos de responsabilidades en los términos de ley; así como conocer e investigar los actos, omisiones o conductas de los servidores públicos, con motivo de quejas o denuncias de los particulares o de auditorias practicadas por los órganos de control a las dependencias y entidades de la administración pública, para constituir responsabilidades administrativas. También aplicar las sanciones que correspondan en los términos que las leyes señalen, en su caso, hacer del conocimiento de los hechos a la autoridad competente o presentar las denuncias correspondientes ante el Ministerio Público, colaborando ampliamente para tal efecto;
+XXXVI. Emitir, formular y notificar los pliegos de responsabilidades en los términos de ley; así como conocer e investigar los actos, omisiones o conductas de los servidores públicos, con motivo de quejas o denuncias de los particulares o de auditorías practicadas por los órganos de control a las dependencias y entidades de la administración pública, para constituir responsabilidades administrativas. También aplicar las sanciones que correspondan en los términos que las leyes señalen, en su caso, hacer del conocimiento de los hechos a la autoridad competente o presentar las denuncias correspondientes ante el Ministerio Público, colaborando ampliamente para tal efecto;
 
 XXXVII. Vigilar el cumplimiento de las normas y lineamientos, políticas y procedimientos de carácter interno que deban observar los servidores públicos que integran la Secretaría de la Contraloría, aplicándole las correcciones que le correspondan y en su caso, formular las denuncias o querellas, acusaciones o quejas de naturaleza administrativa o penal;
 
@@ -1554,3 +1618,23 @@ SÉPTIMO.- Los derechos laborales del personal que en virtud de lo dispuesto en 
 OCTAVO.- Hasta en tanto entra en funciones la Secretaría del Trabajo y Previsión Social, los asuntos que con motivo de este Decreto le fueran transferidos por la Secretaría de Gobierno y la Secretaría de Desarrollo Económico, seguirán siendo atendidos por las dependencias que en el ejercicio de sus funciones y atribuciones les correspondan en términos de la Ley Orgánica de la Administración Pública del Estado de Quintana Roo.
 
 NOVENO.- Las menciones contenidas en otras leyes, reglamentos y en general en cualquier disposición, respecto de las Secretarias cuyas funciones se reforman por virtud de este Decreto, se entenderán referidas a la dependencia que asuma tal función.
+
+P.O. 15 DE MARZO DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+TERCERO.- El Ejecutivo del Estado deberá expedir el Reglamento Interior de las Secretarías de Desarrollo Urbano, de Ecología y Medio Ambiente y de Desarrollo Social, así como realizar las adecuaciones al Reglamento Interior de la Secretaría de Planeación y Desarrollo Regional, en un plazo no mayor a ciento ochenta días naturales contados a partir de la entrada en vigor del presente Decreto. Entre tanto seguirá vigente el Reglamento aplicable en lo que no se oponga al presente Decreto.
+
+CUARTO.- Las transferencias que por motivo de este Decreto deban realizarse de una dependencia a otra, incluirán las adecuaciones presupuestarias derivadas de las modificaciones a sus estructuras, así como de los recursos humanos y de los activos patrimoniales que las dependencias hayan utilizado para los asuntos a su cargo.
+
+QUINTO.- Los asuntos que con motivo de este Decreto, deban traspasarse de una dependencia a otra, permanecerán en el último trámite que hubieran alcanzado, hasta que las Unidades Administrativas que los despachen se incorporen a la dependencia que señala el mismo, a excepción de aquellos urgentes o sujetos a término, los cuales se atenderán por la dependencia que los venía despachando.
+
+SEXTO.- El Ejecutivo del Estado por conducto de las Secretarías de Hacienda y de la Contraloría, así como de la Oficialía Mayor, con la participación de las Dependencias correspondientes, deberán realizar las adecuaciones presupuestales y reasignación de personas, recursos materiales y financieros, así como de los activos patrimoniales, en un plazo no mayor de ciento ochenta días naturales, contados a partir de la entrada en vigor del presente Decreto.
+
+SÉPTIMO.- Se faculta al Gobernador del Estado a través de la Secretaría de Hacienda para que, en términos de la Ley del Presupuesto, Contabilidad y Gasto Público y el Decreto que autoriza el Presupuesto de Egresos del Estado para el Ejercicio Fiscal 2011, realice en su caso, los ajustes necesarios a dicho Presupuesto por las modificaciones a la estructura orgánica del Poder Ejecutivo.
+
+OCTAVO.- Los derechos laborales del personal que en virtud de lo dispuesto en el presente Decreto se transfiera de una Dependencia a otra, se respetarán conforme a las leyes en la materia.
+
+NOVENO.- Las menciones contenidas en otras Leyes, Reglamentos, Decretos, Acuerdos y en general en cualquier otra disposición o instrumento legal o administrativo, en que se haga referencia a la Secretaría de Planeación y Desarrollo Regional y a la Secretaría de Desarrollo Urbano y Medio Ambiente, se entenderán referidas a la Dependencia que corresponda de acuerdo al ámbito de competencia definida en el presente Decreto.
