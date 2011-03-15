@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-interior-de-la-secretaria-de-educacion-y-cultura-407
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-08-27"
-last_updated: "2004-08-27"
+last_updated: "2011-03-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40758&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ROO"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE EDUCACION Y CULTURA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE EDUCACION DE QUINTANA ROO, PUBLICADO EN EL P.O. DE 15 DE MARZO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Número 47 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el viernes 27 de agosto de 2004.
 
@@ -402,3 +404,19 @@ SECRETARIA DE EDUCACION Y CULTURA
 La presente hoja de firmas forma parte integrante del Reglamento Interior de la Secretaría de Educación y Cultura del Gobierno del Estado de Quintana Roo.
 
 > <small>N. DE E. VEASE ORGANIGRAMA EN EL P.O. DE 27 DE AGOSTO DE 2004, PAGINA 14.</small>
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 15 DE MARZO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interior de la Secretaría de Educación y Cultura, publicado en el Periódico Oficial del Gobierno del Estado el 27 de Agosto de 2004.
+
+###### ARTÍCULO TERCERO.
+
+Se dejan sin efecto todas las disposiciones legales que (sic) igual o menor jerarquía que se opongan al presente Reglamento.
