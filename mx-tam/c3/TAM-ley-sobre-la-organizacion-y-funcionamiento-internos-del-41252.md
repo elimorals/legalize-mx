@@ -4,7 +4,7 @@ identifier: "TAM-ley-sobre-la-organizacion-y-funcionamiento-internos-del-41252"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-22"
-last_updated: "2011-01-18"
+last_updated: "2011-03-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY SOBRE LA ORGANIZACION Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE ENERO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE MARZO DE 2011.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 22 de julio de 2004.
 
@@ -901,7 +901,9 @@ d) Cumplir las demás funciones que le confieren esta ley, los ordenamientos rel
 
 ARTICULO 66 BIS.
 
-1. La Unidad de Información Pública del Congreso del Estado realizará sus funciones con base en la Ley de Información Pública del Estado de Tamaulipas, y ejercerá sus atribuciones legales orientada por las bases regulatorias que establezca el Reglamento que al efecto se expida en esta materia.
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2011)</small>
+
+1. La Unidad de Información Pública del Congreso del Estado, realizará sus funciones con base en la Ley de Transparencia y Acceso a la Información Pública del Estado de Tamaulipas, y ejercerá sus atribuciones legales orientada por las bases regulatorias que establezca el Reglamento que al efecto se expida en esta materia.
 
 2. La Unidad de Información Pública dependerá del Presidente de la Mesa Directiva y, en los recesos, del Presidente de la Diputación Permanente, debiendo desarrollar sus funciones bajo el acuerdo y supervisión de dichos titulares, en los términos que establezcan las disposiciones legales y reglamentarias respectivas.
 
@@ -1413,11 +1415,15 @@ Las discusiones son las expresiones argumentativas de los integrantes del Pleno 
 
 5. Los legisladores inscritos en el debate podrán hacer uso de la palabra hasta en dos ocasiones.
 
-6. De acuerdo con la complejidad del asunto a discusión, los oradores inscritos en el debate podrán solicitar el uso de la palabra por un tercer turno, con objeto de formular las argumentaciones necesarias para aclarar las dudas que persistan. El presidente de la Mesa Directiva tendrá a su cargo autorizar, en esta hipótesis, el uso de la palabra, pudiéndose consultar al Pleno sobre la procedencia de la solicitud.
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2011)</small>
+
+6. De acuerdo con la complejidad del asunto a discusión, los oradores inscritos en el debate podrán solicitar el uso de la palabra por un tercer turno, hasta por cinco minutos, con objeto de formular las argumentaciones necesarias para aclarar las dudas que persistan.
 
 7. Si a la discusión del asunto ha acudido un representante del titular del Poder Ejecutivo del Estado, podrá solicitar el uso de la palabra para intervenir en el debate, hasta por dos ocasiones. En su caso, tendrán acceso previo al expediente del asunto a discusión.
 
-8. El presidente de la Mesa Directiva velará porque en las discusiones los oradores se dirijan al Pleno y no se produzcan diálogos entre legisladores, ni intervenciones desde la curul cuando un legislador hace uso de la palabra en la tribuna.
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2011)</small>
+
+8. El Presidente de la Mesa Directiva velará porque en las discusiones los oradores se dirijan al Pleno y no se produzcan diálogos entre legisladores, ni intervenciones desde la curul cuando un legislador hace uso de la palabra en la tribuna, con excepción de que se trate de una moción de orden.
 
 9. Cuando algún diputado haya solicitado el uso de la palabra y no se encontrase en el Salón de Sesiones al momento de corresponderle su turno, el presidente de la Mesa Directiva lo colocará al final de la lista previamente elaborada.
 
@@ -1825,7 +1831,9 @@ c) La Auditoría Superior del Estado, si se trata de alguno de los integrantes d
 
 1. Para la atención de las denuncias de responsabilidad administrativa de los miembros de los Ayuntamientos del Estado, el presidente de la Mesa Directiva o de la Diputación Permanente en los recesos, se cerciorará del cumplimiento de lo dispuesto por el párrafo cuarto del artículo 150 de la Constitución Política del Estado.
 
-2. En caso afirmativo, turnarán la denuncia al conocimiento de los presidentes de las comisiones de Gobernación, de Puntos Constitucionales, y de Justicia y Derechos Humanos, con objeto de que integren el expediente y substancien el procedimiento. Al efecto, se aplicarán en lo conducente las disposiciones en la materia de la Ley de Responsabilidades de los Servidores Públicos del Estado.
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2011)</small>
+
+2. En caso afirmativo, turnarán la denuncia al conocimiento de los presidentes de las comisiones de Gobernación, de Puntos Constitucionales, y de Justicia, con objeto de que integren el expediente y substancien el procedimiento. Al efecto, se aplicarán en lo conducente las disposiciones en la materia de la Ley de Responsabilidades de los Servidores Públicos del Estado.
 
 3. Los presidentes de las comisiones referidas en el párrafo anterior presentarán al Pleno sus conclusiones, elucidándose la naturaleza de la denuncia, el denunciante, los elementos probatorios hechos llegar, las pruebas y alegatos del denunciado en ejercicio de la garantía de audiencia y el proyecto de resolución que consideren procedente, debidamente motivado y fundado en derecho.
 
@@ -2356,3 +2364,9 @@ P.O. 18 DE ENERO DE 2011.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor a partir de su aprobación, y deberá publicarse en el Periódico Oficial del Estado.
+
+P.O. 16 DE MARZO DE 2011.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día de su expedición y se publicará en el Periódico Oficial del Estado.
