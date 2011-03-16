@@ -4,7 +4,7 @@ identifier: "PUE-constitucion-politica-del-estado-libre-y-soberano-de-puebla-751
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-02"
-last_updated: "2011-03-14"
+last_updated: "2011-03-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MARZO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2011.
 
 Constitución publicada en el Periódico Oficial del Estado de Puebla, el martes 2 de octubre de 1917.
 
@@ -971,7 +971,9 @@ En la determinación de las remuneraciones a que se refiere este artículo, los 
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
-### CAPITULO IV. DE LA COMISION PERMANENTE
+### CAPITULO IV
+
+DE LA COMISION PERMANENTE.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1995)</small>
 
@@ -1179,7 +1181,9 @@ El Gobernador podrá ausentarse del territorio del Estado hasta por quince días
 
 Si la separación excediere de este término, pero no de treinta días, se encargará del despacho el Secretario de Gobernación.
 
-En ambos casos dará aviso al Congreso y al Tribunal Superior de Justicia del Estado.
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2011)</small>
+
+En el supuesto previsto en el párrafo anterior dará aviso al Congreso del Estado.
 
 Si la ausencia excediere de treinta días consecutivos, se nombrará de inmediato Gobernador interino, procediéndose en los términos de la fracción XVIII del artículo 57 de esta Constitución.
 
@@ -1977,7 +1981,7 @@ Toda familia poblana, tiene derecho a disfrutar de vivienda digna y decorosa, de
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
-## TITULO NOVENO.. DISPOSICIONES GENERALES
+## TITULO NOVENO. DISPOSICIONES GENERALES
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2004)</small>
 
@@ -2750,5 +2754,11 @@ SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 P.O. 14 DE MARZO DE 2011.
 
 PRIMERO.- El Honorable Congreso del Estado Libre y Soberano de Puebla, declara que estas reformas y adición han sido aprobadas en términos de las disposiciones legales aplicables y forman parte de la Constitución Política del Estado Libre y Soberano de Puebla.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE MARZO DE 2011.
+
+PRIMERO.- El Honorable Congreso del Estado Libre y Soberano de Puebla, declara que esta Reforma ha sido aprobada en términos de las disposiciones constitucionales aplicables y forma parte de la Constitución Política del Estado Libre y Soberano de Puebla.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
