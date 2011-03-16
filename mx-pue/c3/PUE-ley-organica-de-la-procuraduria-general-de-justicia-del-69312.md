@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-de-la-procuraduria-general-de-justicia-del-69312"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-07-15"
-last_updated: "2010-08-27"
+last_updated: "2011-03-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69312&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "PUE"
 ---
 # LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE PUEBLA
 
-LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE PUEBLA
+LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE AGOSTO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2011.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Puebla, el miércoles 15 de julio de 2009.
 
@@ -131,7 +131,11 @@ IV. Instruir la aplicación de los criterios formulados por el Consejo Nacional 
 
 V. Vigilar la aplicación de los Programas Rectores de Profesionalización de las Instituciones de Procuración de Justicia y Policiales en términos de los criterios emitidos por el Consejo Nacional de Seguridad Pública;
 
-VI. Conocer de los procesos de Evaluación y Control de Confianza y determinar lo conducente para fortalecer los márgenes de seguridad, confiabilidad, eficiencia y competencia del personal de la Dependencia;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2011)</small>
+
+VI. Conocer los resultados de los procesos de Evaluación y Control de Confianza y determinar lo conducente para fortalecer los márgenes de seguridad, con fiabilidad, eficiencia y competencia del personal de la Dependencia;
 
 VII. Autorizar el no ejercicio de la acción penal, así como revocar, modificar o confirmar las conclusiones con que se le dé vista en términos de lo dispuesto en el Código de Procedimientos en Materia de Defensa Social para el Estado Libre y Soberano de Puebla y demás disposiciones legales aplicables;
 
@@ -539,9 +543,13 @@ Los agentes del Ministerio Público, peritos o policías ministeriales de design
 
 Los agentes del Ministerio Público, peritos o policías ministeriales de designación especial, podrán ser miembros del servicio de carrera de procuración de justicia, siempre y cuando cumplan con los requisitos que para tal efecto señala esta Ley.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2011)</small>
+
 ###### Artículo 40.
 
-Ninguna persona podrá permanecer en el servicio público de la Procuraduría sin que cuente con el Certificado expedido por el Centro de Evaluación y Control de Confianza de la Dependencia y el registro de personal de seguridad pública vigentes.
+Ninguna persona podrá permanecer en el servicio público de la Procuraduría sin que cuente con el Certificado expedido por el Centro Único de Evaluación y Control de Confianza del Estado y el Registro Nacional de Personal de Seguridad Pública, vigentes.
 
 ## TÍTULO SEGUNDO. DE LOS INTEGRANTES DE LA PROCURADURÍA
 
@@ -709,47 +717,51 @@ El Servicio de Carrera de Procuración de Justicia, comprenderá lo relativo al 
 
 Los servidores públicos que tengan bajo su mando a agentes del Ministerio Público o Peritos, no formarán parte del Servicio de Carrera por ese hecho; serán nombrados y removidos conforme a los ordenamientos legales aplicables, se considerarán trabajadores de confianza, y los efectos de su nombramiento se podrán dar por terminados en cualquier momento.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE MARZO DE 2011)</small>
+
 ###### Artículo 49.
 
-Las personas que aspiran a ingresar a la Procuraduría, deberán tener el Certificado que expida el Centro de Evaluación y Control de Confianza de la Dependencia, así como contar con el Registro Nacional de Personal de Seguridad Pública.
+Las personas que aspiren a ingresar a la Procuraduría, deberán tener el Certificado que expida el Centro Único de Evaluación y Control de Confianza del Estado, así como contar con el Registro Nacional de Personal de Seguridad Pública.
 
 Previo al ingreso de las personas aspirantes a los cursos de formación profesional, deberán consultarse los antecedentes en el Registro Nacional de Personal de Seguridad Pública, y, en su caso, de las Instituciones de Procuración de Justicia, así mismo, deberá verificarse la autenticidad de los documentos presentados por las mismas.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
 ###### Artículo 50.
 
-El Certificado que emita el Centro de Evaluación y Control de Confianza de la Dependencia, tendrá por objeto acreditar que la persona servidora pública es apta para ingresar o permanecer en la Procuraduría, y que cuenta con los conocimientos, el perfil, las habilidades y las aptitudes necesarias para el desempeño de su cargo.
+(DEROGADO, P.O. 16 DE MARZO DE 2011)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### Artículo 51.
 
-El Certificado a que se refiere el artículo anterior, para su validez, deberá otorgarse en un plazo no mayor a sesenta días naturales contados a partir de la conclusión del proceso de certificación, a efecto de que sea ingresado en el Registro Nacional de Personal de Seguridad Pública que para tal efecto se establezca. Dicha certificación y registro estará sujeta a las evaluaciones a que se refiere el artículo 96 de esta Ley.
+(DEROGADO, P.O. 16 DE MARZO DE 2011)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### Artículo 52.
 
-Los servidores públicos de la Procuraduría deberán someterse a los procesos de evaluación en los términos de esta Ley, con seis meses de anticipación a la expiración de la validez de su certificado y registro, a fin de obtener la revalidación de los mismos, en los términos que determinen las autoridades competentes.
+(DEROGADO, P.O. 16 DE MARZO DE 2011)
 
-La revalidación del certificado será requisito indispensable para permanecer en la Procuraduría y deberá registrarse para los efectos a que se refiere el artículo anterior.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### Artículo 53.
 
-La certificación que otorgue el Centro de Evaluación y Control de Confianza de la Procuraduría deberá contener los requisitos y medidas de seguridad que para tal efecto acuerde el Centro Nacional de Certificación y Acreditación.
+(DEROGADO, P.O. 16 DE MARZO DE 2011)
 
-En todos los casos, se deberán realizar las inscripciones que correspondan en el Registro Nacional de Personal de Seguridad Pública.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### Artículo 54.
 
-La cancelación del certificado de los servidores públicos de la Procuraduría procederá:
+(DEROGADO, P.O. 16 DE MARZO DE 2011)
 
-I. Al ser separados de su encargo por incumplir con alguno de los requisitos de ingreso o permanencia a que se refiere esta Ley y demás disposiciones aplicables;
-
-II. Al ser removidos de su encargo;
-
-III. Por no obtener la revalidación de su certificado, y
-
-IV. Por las demás causas que establezcan las disposiciones aplicables.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### Artículo 55.
 
-La Procuraduría, al cancelar algún certificado, de forma inmediata deberá hacer la anotación respectiva en el Registro Nacional de Personal de Seguridad Pública.
+(DEROGADO, P.O. 16 DE MARZO DE 2011)
 
 ###### Artículo 56.
 
@@ -1227,29 +1239,21 @@ En contra de las resoluciones a que se refieren los artículos anteriores, no pr
 
 ### CAPÍTULO VIII. DE LOS PROCESOS DE EVALUACIÓN Y CERTIFICACIÓN
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
 ###### Artículo 95.
 
-La Procuraduría contará con un Centro de Evaluación y Control de Confianza a través del cual se emitirán los certificados correspondientes a quienes concluyan satisfactoriamente los procesos de certificación.
+(DEROGADO, P.O. 16 DE MARZO DE 2011)
 
 ###### Artículo 96.
 
 Los aspirantes y servidores públicos en activo de la Procuraduría, deberán someterse y aprobar los procesos de evaluación de control de confianza y desempeño, de conformidad con las disposiciones aplicables.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
 ###### Artículo 97.
 
-El proceso de evaluación de control de confianza constará de los exámenes siguientes:
-
-I. Patrimonial y de entorno social;
-
-II. Médico;
-
-III. Psicométricos y psicológicos;
-
-IV. Poligráfico;
-
-V. Toxicológico; y
-
-VI. Los demás que establezcan las normas aplicables.
+(DEROGADO, P.O. 16 DE MARZO DE 2011)
 
 ###### Artículo 98.
 
@@ -1263,35 +1267,37 @@ III. Conocimientos teóricos y prácticos; y
 
 IV. Los demás que establezcan las normas aplicables.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
 ###### Artículo 99.
 
-Las evaluaciones del personal en activo, se aplicarán en los casos siguientes:
+(DEROGADO, P.O. 16 DE MARZO DE 2011)
 
-I. Promociones;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-II. Asignaciones de nuevas funciones, comisiones especiales o previas a recibir bienes, información, o funciones confidenciales o sensibles;
-
-III. Periódicas o de permanencia;
-
-IV. De validación para la licencia oficial colectiva de portación de armas de fuego; y
-
-V. Extraordinarias, las cuales deberán ser autorizadas por el Procurador, de conformidad con la normatividad aplicable al caso en particular.
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2011)</small>
 
 ###### Artículo 100.
 
-El Procurador podrá requerir que los servidores públicos se presenten a la práctica de evaluaciones de control de confianza, independientemente de la vigencia de su certificado.
+El Procurador podrá requerir que los servidores públicos se presenten a la práctica de evaluaciones adicionales de control de confianza, durante la vigencia de su certificado.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### Artículo 101.
 
-Los exámenes de proceso de evaluación de control de confianza se valorarán en conjunto, salvo el examen toxicológico que se presentará y calificará por separado.
+(DEROGADO, P.O. 16 DE MARZO DE 2011)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### Artículo 102.
 
-Los servidores públicos serán citados a la práctica de las evaluaciones correspondientes. En caso de no presentarse sin mediar causa justificada, se les tendrá por no aptos.
+(DEROGADO, P.O. 16 DE MARZO DE 2011)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### Artículo 103.
 
-El contenido de los expedientes y reportes de resultados derivados de los procesos de evaluación tendrá el carácter de información confidencial y reservada.
+(DEROGADO, P.O. 16 DE MARZO DE 2011)
 
 ###### Artículo 104.
 
@@ -1299,19 +1305,25 @@ Los integrantes del servicio de carrera ministerial, pericial y policial que no 
 
 Los demás servidores públicos de la Procuraduría que no cumplan con los requisitos de permanencia en los procesos de evaluación de control de confianza y de desempeño, dejarán de prestar sus servicios en la misma, de conformidad con las disposiciones establecidas en esta Ley.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2011)</small>
+
 ###### Artículo 105.
 
-La Procuraduría contará con un Centro de Evaluación y Control de Confianza, que tendrá a su cargo la aplicación, calificación y valoración de los procesos de evaluación de control de confianza a que se refiere este capítulo y ejercerá las facultades que determinen las normas aplicables; de los procesos de evaluación de desempeño corresponderá conocer a la Comisión del Servicio de Carrera de Procuración de Justicia.
+La Comisión del Servicio de Carrera de Procuración de Justicia, conocerá de los procesos de evaluación de desempeño del personal de la Dependencia.
 
-En el ejercicio de sus funciones el Centro de Evaluación y Control de Confianza de la Dependencia se sujetará a los criterios, normas, procedimientos técnicos y protocolos que se establezcan para tales efectos por el Centro Nacional de Certificación y Acreditación.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### Artículo 106.
 
-El Centro de Evaluación y Control de Confianza de la Dependencia expedirá los certificados para el ingreso y permanencia de agentes del Ministerio Público, peritos y policías ministeriales, así como el del personal que por acuerdo del Procurador deba certificarse.
+(DEROGADO, P.O. 16 DE MARZO DE 2011)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### Artículo 107.
 
-La Procuraduría, en términos de los acuerdos y convenios que se adopten en el marco del Sistema Nacional de Seguridad Pública y otras disposiciones aplicables, podrá aplicar los procesos de evaluación a que se refiere este Capítulo, a servidores públicos de otras instituciones.
+(DEROGADO, P.O. 16 DE MARZO DE 2011)
 
 ### CAPÍTULO IX. DE LA RESPONSABILIDAD POR INCUMPLIMIENTO DE OBLIGACIONES EN EL SERVICIO DE PROCURACIÓN DE JUSTICIA
 
@@ -1413,7 +1425,7 @@ EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Pal
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los diecinueve días del mes de junio de dos mil nueve.- El Gobernador Constitucional del Estado.- LICENCIADO MARIO P. MARÍN TORRES.- Rúbrica.- El Secretario de Gobernación.- LICENCIADO MARIO ALBERTO MONTERO SERRANO.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 30 DE DICIEMBRE DE 2009.
 
@@ -1428,3 +1440,21 @@ P.O. 27 DE AGOSTO DE 2010.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 16 DE MARZO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a los treinta días siguientes a su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Una vez que se cree el Centro Único de Evaluación y Control de Confianza del Estado al que se refiere este Decreto, en un plazo máximo de treinta días naturales, las instancias a cargo de los Centros de Evaluación y Control de Confianza en operación en el Estado, le transferirán los expedientes de evaluación con los que cuente, así como los asuntos que se encuentren en trámite para su atención y sustanciación hasta su conclusión.
+
+###### ARTÍCULO CUARTO.
+
+Todo instrumento legal, jurídico o administrativo y norma en sentido formal o material, que a la entrada en vigor del presente Ordenamiento, se refiera al Centro de Evaluación y Control de Confianza de la Procuraduría General de Justicia del Estado de Puebla o a los Centros Estatales de Evaluación y Control de Confianza, se entenderá atribuido al Centro Único de Evaluación y Control de Confianza del Estado.
