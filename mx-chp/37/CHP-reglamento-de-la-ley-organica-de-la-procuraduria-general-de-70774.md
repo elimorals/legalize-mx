@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-de-la-ley-organica-de-la-procuraduria-general-de-707
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-09-23"
-last_updated: "2011-03-09"
+last_updated: "2011-03-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70774&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CHP"
 ---
 # REGLAMENTO DE LA LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE CHIAPAS
 
-REGLAMENTO DE LA LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE CHIAPAS
+REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE MARZO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2011.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Chiapas, el miércoles 23 de septiembre de 2009.
 
@@ -123,15 +123,19 @@ El Procurador preside la Institución del Ministerio Público del Estado, en té
 
 El Procurador cantará con un Despacho, integrado por un Secretario Particular, un Secretario Privado y un Secretario Técnico, y demás personal que permita el presupuesto, dependerán directamente de éste, y desarrollarán las funciones destinadas al cumplimiento de las atribuciones que le corresponden al Procurador, de conformidad a los ordenamientos aplicables.
 
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2011)</small>
+
 ###### Artículo 8°.
 
 El Procurador además de las atribuciones señaladas en los artículos 16 y 17, de la Ley, tendrá las atribuciones siguientes:
 
-I. Solicitar información, y en su caso la documentación relativa a los depósitos, operaciones o servicios financieros que guarden relación con los hechos de naturaleza delictiva que se investiguen, de conformidad con lo previsto en el artículo 117, párrafo tercero, fracción II, de la Ley de Instituciones de Crédito.
+l. Solicitar información, y en su caso la documentación relativa a los depósitos, operaciones o servicios financieros que guarden relación con los hechos de naturaleza delictiva que se investiguen, de conformidad con lo previsto en el artículo 117, párrafo tercero, fracción II, de la Ley de Instituciones de Crédito.
 
 II. Solicitar a la Secretaría de Comunicaciones y Transportes, la relación de llamadas entrantes y salientes originadas y derivadas, así como la fecha de activación del servicio, el nombre del propietario, el domicilio que haya registrado y la localidad a la que corresponden los números telefónicos.
 
-III. Las demás que con este carácter le confieran otras disposiciones.
+III. Suscribir convenios en materia de seguridad pública, en representación de Titular del Poder Ejecutivo del Estado.
+
+IV. Las demás que con este carácter le confieran otras disposiciones.
 
 ###### Artículo 9°.
 
@@ -377,7 +381,7 @@ IV. Elaborar programas de formación de los Fiscales del Ministerio Público y d
 
 V. Las demás que le confieran otras disposiciones o el Procurador.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 9 DE MARZO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE MARZO DE 2011)</small>
 
 #### Sección Tercera. De la Fiscalía Especializada en Atención de Periodistas y Libertad de Expresión
 
@@ -387,7 +391,7 @@ V. Las demás que le confieran otras disposiciones o el Procurador.
 
 La Fiscalía Especializada en Atención de Periodistas y Libertad de Expresión, conocerá de la investigación y persecución de los delitos cometidos en contra de periodistas, perpetrados con motivo de su ejercicio profesional.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE MARZO DE 2011)</small>
 
 ###### Artículo 30.
 
@@ -401,7 +405,7 @@ III. Que el delito de que se trate sea sancionado por el Código Penal para el E
 
 IV. Las demás que le confiera la Ley, este Reglamento y otras disposiciones aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE MARZO DE 2011)</small>
 
 ###### Artículo 31.
 
@@ -655,7 +659,7 @@ XIV. Certificar documentos y expedir constancias de los expedientes relativos a 
 
 XV. Las demás que le confieran otras disposiciones o el Procurador.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 9 DE MARZO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE MARZO DE 2011)</small>
 
 #### Sección Octava. De la Fiscalía Especializada en Atención a Grupos Sensibles, Vulnerables y en Contra de la Discriminación
 
@@ -665,7 +669,7 @@ XV. Las demás que le confieran otras disposiciones o el Procurador.
 
 La Fiscalía Especializada en Atención a Grupos Sensibles, Vulnerables y en Contra de la Discriminación es la encargada de intervenir en los asuntos en donde participen organizaciones, sectores o grupos sociales, entendiéndose a éstas, aquellas que por su condición de edad, sexo, estado civil o que por cualquier otra circunstancia, se encuentren en condición de riesgo que les impida acceder a mejores condiciones en Procuración de Justicia.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE MARZO DE 2011)</small>
 
 ###### Artículo 46.
 
@@ -699,7 +703,7 @@ VIII. Velar, porque en la Procuraduría General de Justicia, se trate con respet
 
 IX. Las demás que le confiera la Ley y otras disposiciones aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE MARZO DE 2011)</small>
 
 ###### Artículo 47.
 
@@ -2309,7 +2313,7 @@ XVI. Las demás que le confieran otras disposiciones o el Procurador.
 
 ### Capítulo I. Del Recurso de Revisión
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE MARZO DE 2011)</small>
 
 ###### Artículo 131.
 
@@ -2667,7 +2671,7 @@ Dado en el Palacio de Gobierno, Residencia Oficial del Poder Ejecutivo del Estad
 
 Juan Sabines Guerrero, Gobernador del Estado.- Noé Castañón León, Secretario General de Gobierno.- Raciel López Salazar, Procurador General de Justicia del Estado.- Rúbricas.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 9 DE MARZO DE 2011.
 
@@ -2680,3 +2684,11 @@ Artículo Tercero.- La reforma al artículo 22, del Reglamento de la Ley Orgáni
 El Consejo de Procuración de Justicia, deberá expedir a la brevedad posible, el acuerdo mediante el cual se determine la jurisdicción y los municipios que integren la circunscripción territorial de las Fiscalías de Distrito.
 
 Artículo Cuarto.- En cumplimiento a lo dispuesto por el artículo 8° de la Ley Orgánica de la Administración Pública del Estado de Chiapas, publíquese el presente Decreto en el Periódico Oficial.
+
+P.O. 16 DE MARZO DE 2011.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones que tengan similar o menor jerarquía al presente Decreto y que se opongan al mismo.
+
+Artículo Tercero.- En cumplimiento a lo dispuesto por el artículo 8° de la Ley Orgánica de la Administración Pública del Estado de Chiapas, publíquese el presente Decreto en el Periódico Oficial.
