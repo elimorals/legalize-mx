@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-la-juventud-del-estado-de-tamaulipas-43160"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-29"
-last_updated: "2005-12-27"
+last_updated: "2011-03-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43160&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE LA JUVENTUD DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE MARZO DE 2011.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Tamaulipas, el miércoles 29 de diciembre de 2004.
 
@@ -126,6 +126,14 @@ Son derechos de los jóvenes los conferidos por la Constitución Política de lo
 ###### ARTICULO 5º.
 
 Los jóvenes tienen derecho a vivir esta etapa de su vida con calidad, creatividad, vitalidad e impregnada de valores que contribuyan a su pleno desarrollo y expresión de su potencialidad y capacidad humana.
+
+> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2011)</small>
+
+Todas las políticas, programas y proyectos que se desarrollen en relación a los jóvenes deberán promover la plena vigencia del principio de equidad de género, entendiéndolo como el reconocimiento de la igualdad de derechos, oportunidades y responsabilidades de las y los jóvenes.
+
+> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2011)</small>
+
+Se prohíbe toda distinción, exclusión, o restricción basada en el sexo, que tenga por objeto o resultado, menoscabar o anular el goce o el ejercicio de los derechos humanos y libertades fundamentales de las jóvenes.
 
 (REUBICADO, P.O. 27 DE DICIEMBRE DE 2005)
 
@@ -681,4 +689,10 @@ ATENTAMENTE.- SUFRAGIO EFECTIVO. NO REELECCION.- EL GOBERNADOR CONSTITUCIONAL DE
 
 P.O. 27 DE DICIEMBRE DE 2005.
 
-Artículo Unico: El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+Artículo Unico. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE MARZO DE 2011.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto se publicará en el Periódico Oficial del Estado y entrará en vigor el día de su expedición.
