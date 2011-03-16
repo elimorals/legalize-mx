@@ -4,7 +4,7 @@ identifier: "FED-bases-generales-de-organizacion-y-funcionamiento-del-14994"
 country: "mx"
 rank: "otro"
 publication_date: "1998-11-26"
-last_updated: "2010-06-25"
+last_updated: "2011-03-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14994&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1998-11-12"
 
 BASES GENERALES DE ORGANIZACION Y FUNCIONAMIENTO DEL INSTITUTO FEDERAL DE DEFENSORIA PUBLICA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 25 DE JUNIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 16 DE MARZO DE 2011.
 
 Bases publicadas en la Primera Sección del Diario Oficial de la Federación, el jueves 26 de noviembre de 1998.
 
@@ -1347,77 +1347,71 @@ Cuando el defensor público o asesor jurídico incumpla o viole lo dispuesto por
 
 ### CAPITULO II. De la promoción
 
-> <small>(REFORMADO, D.O.F. 19 DE FEBRERO DE 2002)</small>
+> <small>(REFORMADO, D.O.F. 16 DE MARZO DE 2011)</small>
 
 ###### Artículo 73.
 
-La promoción comprende el ascenso del defensor público y asesor jurídico al cargo de supervisor en la materia respectiva; del supervisor al cargo de evaluador en la materia de su especialidad, y del evaluador al de delegado.
+La promoción comprende el ascenso del defensor público y del asesor jurídico a los cargos de supervisor y de evaluador en la materia respectiva y al de delegado; del supervisor a los cargos de evaluador en la materia de su especialidad y al de delegado, del evaluador al de delegado.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 19 DE FEBRERO DE 2002)</small>
+> <small>(REFORMADO, D.O.F. 16 DE MARZO DE 2011)</small>
 
 ###### Artículo 74.
 
-Cuando exista una vacante, el defensor público y asesor jurídico que en el desempeño de su cargo demuestre objetividad, perseverancia, acuciosidad y orden, podrá participar en los procedimientos internos de selección para ascender a la categoría inmediata superior, que es la de supervisor, tomando en cuenta los elementos siguientes:
+Cuando exista una vacante, el defensor público y el asesor jurídico que, en el desempeño de su cargo demuestre objetividad, perseverancia, acuciosidad y orden, podrá participar en los procedimientos internos de selección para ascender a la categoría de supervisor, tomando en cuenta los elementos siguientes:
 
-> <small>(REFORMADA, D.O.F. 19 DE MAYO DE 2008)</small>
-
-I. Antigüedad en la Institución encargada de la defensoría pública federal y en su plaza;
+I. Antigüedad en la institución encargada de la defensoría pública federal y en su plaza;
 
 II. Grado académico, que comprende el nivel de estudios con que cuenta el servidor público, así como los diversos cursos de actualización y especialización acreditados de manera fehaciente;
 
-> <small>(REFORMADA, D.O.F. 19 DE MAYO DE 2008)</small>
+III. Disciplina, mesura y prudencia del servidor público dentro de la Institución;
 
-III. Calidad de desempeño, con base en los resultados que arrojen la supervisión y evaluación; y,
+IV. Haber desempeñado de manera destacada el cargo que ocupa dentro del Instituto;
 
-IV. Disciplina del servidor público dentro de la institución.
+V. Continuidad en el desempeño; y,
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 19 DE FEBRERO DE 2002)</small>
+VI. Haber ejercido su función bajo los principios de ética, probidad, honradez y profesionalismo.
 
-A quienes resulten triunfadores en esos procedimientos, se les otorgará una plaza definitiva de confianza de supervisor en materia de defensa penal o de supervisor en materia de asesoría jurídica, según sea la categoría en que se desempeñe. La adscripción la determinará el Director General del Instituto conforme a las necesidades del servicio y preferencias de los participantes, en su caso.
+A quienes resulten triunfadores en esos procedimientos se les otorgará una plaza definitiva de confianza de supervisor en materia de defensa penal o de supervisor en materia de asesoría jurídica, según sea la función que desempeñe. El Director General del Instituto determinará la adscripción conforme a las necesidades del servicio y podrá tener en cuenta las preferencias expresadas por los ganadores.
 
-> <small>(ADICIONADO, D.O.F. 19 DE FEBRERO DE 2002)</small>
+> <small>(REFORMADO, D.O.F. 16 DE MARZO DE 2011)</small>
 
-Artículo 74 bis.- Cuando exista una vacante, el supervisor que tenga sentido analítico, buen criterio jurídico, razonamiento lógico y capacidad de síntesis, podrá participar en los procedimientos internos de selección para ascender a la categoría inmediata superior, que es la de evaluador, tomando en cuenta los elementos siguientes:
+Artículo 74 bis.- Cuando exista una vacante, el defensor público, el asesor jurídico y el supervisor que, en el desempeño del cargo, demuestren objetividad, perseverancia, acuciosidad y orden, además de tener sentido analítico, buen criterio jurídico, razonamiento lógico y capacidad de síntesis, podrán participar en los procedimientos internos de selección para ascender a la categoría de evaluador, tomando en cuenta los elementos siguientes:
 
-> <small>(REFORMADA, D.O.F. 19 DE MAYO DE 2008)</small>
-
-I. Antigüedad en la Institución encargada de la defensoría pública federal y en su plaza;
+I. Antigüedad en la institución encargada de la defensoría pública federal y en su plaza;
 
 II. Grado académico, que comprende el nivel de estudios con que cuenta el servidor público, así como los diversos cursos de actualización y especialización acreditados de manera fehaciente;
 
-> <small>(REFORMADA, D.O.F. 19 DE MAYO DE 2008)</small>
+III. Disciplina, mesura y prudencia del servidor público dentro de la institución;
 
-III. Disciplina del servidor público dentro de la institución; y,
+IV. Haber desempeñado de manera destacada el cargo que ocupa dentro del Instituto;
 
-> <small>(REFORMADA, D.O.F. 19 DE MAYO DE 2008)</small>
+V. Continuidad en el desempeño; y,
 
-IV. Haber desempeñado de manera destacada el cargo de supervisor, tomando en cuenta para ello, la opinión que emita el titular de la Unidad de Supervisión y Control de Defensa Penal y Asesoría Jurídica.
+VI. Haber ejercido su función bajo los principios de ética, probidad, honradez y profesionalismo.
 
-A los supervisores que resulten triunfadores en esos procedimientos, se les otorgará una plaza definitiva de confianza de evaluador en la materia de su especialidad.
+A los que resulten triunfadores en esos procedimientos se les otorgará una plaza definitiva de confianza de evaluador en la materia de su especialidad.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 19 DE FEBRERO DE 2002)</small>
+> <small>(REFORMADO, D.O.F. 16 DE MARZO DE 2011)</small>
 
 ###### Artículo 75.
 
-Cuando exista una vacante, el evaluador con capacidades de liderazgo, organización del trabajo, control administrativo, gestión y seguimiento de acciones institucionales, podrá participar en los procedimientos internos de selección para ascender a la categoría inmediata superior, que es la de delegado, tomando en cuenta los elementos siguientes:
-
-> <small>(REFORMADA, D.O.F. 19 DE MAYO DE 2008)</small>
+Cuando exista una vacante, el defensor público, el asesor jurídico, el supervisor y el evaluador que, en el desempeño del cargo, hayan mostrado sentido analítico, buen criterio jurídico, razonamiento lógico y capacidades de liderazgo, organización del trabajo, control administrativo, gestión y seguimiento de acciones institucionales y, además, demuestren objetividad, perseverancia, acuiciosidad (sic) y orden, podrán participar en los procedimientos internos de selección para ascender a la categoría de delegado, tomando en cuenta los elementos siguientes:
 
 I. Antigüedad dentro de la institución encargada de la defensoría pública federal y en su plaza;
 
 II. Grado académico, que comprende el nivel de estudios con que cuenta el servidor público, así como los diversos cursos de actualización y especialización acreditados de manera fehaciente;
 
-> <small>(REFORMADA, D.O.F. 19 DE MAYO DE 2008)</small>
+III. Disciplina, mesura y prudencia del servidor público dentro de la institución;
 
-III. Disciplina del servidor público dentro de la institución; y,
+IV. Haber desempeñado de manera destacada el cargo que ocupa dentro del Instituto;
 
-> <small>(REFORMADA, D.O.F. 19 DE MAYO DE 2008)</small>
+V. Continuidad en el desempeño; y,
 
-IV. Haber desempeñado de manera destacada el cargo de evaluador, tomando en cuenta para ello la opinión que emita el titular de la Unidad de Defensa Penal y Evaluación del Servicio o el titular de la Unidad de Asesoría Jurídica y Evaluación del Servicio, según corresponda.
+VI. Haber ejercido su función bajo los principios de ética, probidad, honradez y profesionalismo.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 19 DE FEBRERO DE 2002)</small>
+A los servidores públicos que resulten triunfadores en esos procedimientos se les otorgará una plaza definitiva de confianza de delegado. El Director General del Instituto decidirá la adscripción conforme a las necesidades del servicio y preferencias manifestadas por los ganadores.
 
-A los evaluadores que resulten triunfadores en esos procedimientos, se les otorgará una plaza definitiva de confianza de delegado. La adscripción la determinará el Director General del Instituto conforme a las necesidades del servicio y preferencias de los participantes, en su caso.
+En caso de declararse desierto un concurso para las categorías de supervisor, evaluador y de delegado; el Director General, atendiendo a las necesidades del servicio, designará al servidor público del Instituto que haya cumplido con sus funciones en forma destacada.
 
 ## TITULO OCTAVO. Del servicio social
 
@@ -1500,3 +1494,7 @@ UNICO.- Las presentes reformas y adiciones a las Bases Generales de Organizació
 D.O.F. 25 DE JUNIO DE 2010.
 
 UNICO.- Las presentes reformas y adiciones a las Bases Generales de Organización y Funcionamiento del Instituto Federal de Defensoría Pública, deberán publicarse en el Diario Oficial de la Federación y entrarán en vigor el día siguiente de su publicación.
+
+D.O.F. 16 DE MARZO DE 2011.
+
+UNICO.- Las presentes reformas a las Bases Generales de Organización y Funcionamiento del Instituto Federal de Defensoría Pública, deberán publicarse en el Diario Oficial de la Federación y entrarán en vigor el día siguiente de su publicación.
