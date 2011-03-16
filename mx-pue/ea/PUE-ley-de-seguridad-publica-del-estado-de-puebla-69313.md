@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-seguridad-publica-del-estado-de-puebla-69313"
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-15"
-last_updated: "2009-07-15"
+last_updated: "2011-03-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69313&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE SEGURIDAD PUBLICA DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE MARZO DE 2011.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Puebla, el miércoles 15 de julio de 2009.
 
@@ -823,9 +823,13 @@ La policía especializada en la investigación científica de los delitos será 
 
 La Policía Ministerial, se sujetará a lo dispuesto en el presente Título, quedando a cargo de la Procuraduría la aplicación de las normas, supervisión y operación de los procedimientos relativos al desarrollo policial.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2011)</small>
+
 ###### Artículo 47.
 
-La Policía Ministerial será evaluada y certificada por el Centro de Evaluación y Control de Confianza de la Procuraduría.
+La Policía Ministerial será evaluada y certificada por el Centro Único de Evaluación y Control de Confianza del Estado.
 
 ### CAPÍTULO SEGUNDO. DE LA CARRERA POLICIAL
 
@@ -909,7 +913,11 @@ La Carrera Policial comprende el grado policial, la antigüedad, las insignias, 
 
 I.- Los Cuerpos de Seguridad Pública deberán consultar los antecedentes de cualquier aspirante en el Registro Nacional antes de que se autorice su ingreso a los mismos;
 
-II.- Toda persona aspirante deberá tramitar, obtener y mantener actualizado el Certificado Único Policial, que expedirá el centro de control de confianza respectivo;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2011)</small>
+
+II.- Toda persona aspirante deberá tramitar, obtener y mantener actualizado el Certificado Único Policial, que expedirá el Centro Único de Evaluación y Control de Confianza del Estado;
 
 III.-Ninguna persona podrá ingresar a los Cuerpos de Seguridad Pública si no ha sido debidamente certificada y registrada en el Sistema;
 
@@ -1081,11 +1089,15 @@ Al concluir el servicio la persona integrante deberá entregar al funcionario de
 
 Las personas integrantes de los Cuerpos de Seguridad Pública que hayan alcanzado las edades límite para la permanencia, previstas en las disposiciones que las rijan, podrán ser reubicadas, a consideración de las instancias, en otras áreas de las funciones de las propias instituciones.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2011)</small>
+
 ###### Artículo 64.
 
-La certificación es el proceso mediante el cual las personas integrantes de los Cuerpos de Seguridad Pública se someten a las evaluaciones periódicas establecidas por el Centro de Control de Confianza correspondiente, para comprobar el cumplimiento de los perfiles de personalidad, éticos, socioeconómicos y médicos, en los procedimientos de ingreso, promoción y permanencia.
+La certificación es el proceso mediante el cual las personas integrantes de los Cuerpos de Seguridad Pública se someten a las evaluaciones periódicas establecidas por el Centro Único de Evaluación y Control de Confianza del Estado, para comprobar el cumplimiento de los perfiles de personalidad, éticos, socioeconómicos y médicos, en los procedimientos de ingreso, promoción y permanencia.
 
-Los Cuerpos de Seguridad Pública contratarán únicamente al personal que cuente con el requisito de certificación expedido por su Centro de Control de Confianza Respectivo.
+Los Cuerpos de Seguridad Pública contratarán únicamente al personal que cuente con el requisito de certificación expedido por el Centro Único de Control de Confianza del Estado.
 
 ###### Artículo 65.
 
@@ -1113,11 +1125,15 @@ Las personas que aspiren a ingresar y permanecer a las Instituciones Policiales,
 
 Ninguna persona podrá ingresar o permanecer en las Instituciones Policiales sin que cuente con el Certificado y Registro vigentes.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2011)</small>
+
 ###### Artículo 67.
 
-La Procuraduría contará con un Centro de Evaluación y Control de Confianza a través del cual emitirá los certificados correspondientes a quienes concluyan satisfactoriamente los procesos de certificación.
+La certificación tendrá por objeto acreditar que la persona servidora pública es apta para ingresar o permanecer en las Instituciones de Seguridad Pública, y que cuenta con los conocimientos, el perfil, las habilidades y las aptitudes necesarias para el desempeño de su cargo y deberá contener los requisitos y medidas de seguridad que para tal efecto acuerde el Centro Nacional de Certificación y Acreditación. En todos los casos, se deberán realizar las inscripciones que correspondan en el Registro Nacional de Personal de Seguridad Pública.
 
-El Certificado tendrá por objeto acreditar que la persona servidora pública es apta para ingresar o permanecer en la Procuraduría, y que cuenta con los conocimientos, el perfil, las habilidades y las aptitudes necesarias para el desempeño de su cargo.
+El certificado que se expida con motivo del proceso al que se refiere el párrafo anterior, para su validez, deberá otorgarse en un plazo no mayor a sesenta días naturales contados a partir de la conclusión del proceso de certificación, a efecto de que sea ingresado en el Registro Nacional de Personal de Seguridad Pública que para tal efecto se establezca. Dicha certificación y registro estarán sujetos a las evaluaciones a que se refiere la Ley General.
 
 ###### Artículo 68.
 
@@ -1305,29 +1321,123 @@ Interpuesto el Recurso de Revisión, será resuelto dentro de los cinco días h�
 
 Se aplicará en lo conducente y no previsto en este Título de manera supletoria, las disposiciones establecidas en el Código de Procedimientos Civiles vigente para el Estado de Puebla.
 
-### CAPÍTULO QUINTO. DE LOS CENTROS ESTATALES DE EVALUACIÓN Y CONTROL DE CONFIANZA
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 16 DE MARZO DE 2011)</small>
+
+### CAPÍTULO QUINTO. DEL CENTRO ÚNICO DE EVALUACIÓN Y CONTROL DE CONFIANZA DEL ESTADO
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2011)</small>
 
 ###### Artículo 92.
 
-Se crearán los Centros Estatales de Evaluación y Control de Confianza necesarios para la depuración y fortalecimiento tanto de las Instituciones Policiales como de procuración de justicia, con el objeto de aplicar las evaluaciones en los procesos de selección de aspirantes, permanencia, desarrollo y promoción de las personas integrantes de las Instituciones de Seguridad Pública.
+Se creará el Centro Único de Evaluación y Control de Confianza del Estado necesario para la depuración y fortalecimiento tanto de las Instituciones Policiales como de procuración de justicia, con el objeto de aplicar las evaluaciones en los procesos de selección de aspirantes, permanencia, desarrollo y promoción de los integrantes de los Cuerpos de Seguridad Pública que integran el Sistema de Seguridad Pública del Estado, emitiendo para ello el certificado correspondiente.
+
+Las evaluaciones respectivas se practicarán en instalaciones adecuadas e idóneas, en condiciones de higiene con respeto a la dignidad humana.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2011)</small>
+
+###### Artículo 92 Bis.
+
+El Centro Único de Evaluación y Control de Confianza del Estado tendrán a su cargo el diseño, elaboración y aplicación de procesos de evaluación, sistemáticos y periódicos, tanto de aspirantes como del personal sustantivo de las instituciones que Integran el Sistema de Seguridad Pública del Estado, para verificar que la actuación de los servidores públicos se ajuste al marco de conducta que dictan el Código de Ética y la normatividad institucional, con la intención de inhibir actos de corrupción, impunidad e infiltración del crimen organizado.
+
+El proceso de evaluación de control de confianza constará de los exámenes siguientes:
+
+I.- Patrimonial y de entorno social;
+
+II.- Médico:
+
+III.- Psicométricos y psicológicos:
+
+IV.- Poligráfico:
+
+V.- Toxicológico; y
+
+VI.- Los demás que establezcan las normas aplicables.
+
+Los exámenes a los que se refieren las fracciones anteriores, se valorarán en conjunto, salvo el examen toxicológico que se presentará y calificará por separado. El contenido de los expedientes y reportes de resultados derivados de los procesos de evaluación, tendrá el carácter de información confidencial y reservada.
+
+Los servidores públicos serán citados a la práctica de las evaluaciones correspondientes. En caso de no presentarse sin mediar causa justificada, se les tendrá por no aptos.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2011)</small>
 
 ###### Artículo 93.
 
-Los Centros Estatales de Evaluación y Control de Confianza aplicarán el modelo homologado nacional con el propósito de fortalecer los márgenes de seguridad, confiabilidad, eficiencia y competencia del personal de las Instituciones de Seguridad Pública, en cumplimiento a las disposiciones legales aplicables, las que se deriven de los Acuerdos del Consejo Nacional de Seguridad Pública, así corno de los Convenios celebrados entre la Federación, Estado y Municipios.
+El Centro Único de Evaluación y Control de Confianza del Estado, aplicará el modelo homologado nacional con el propósito de fortalecer los márgenes de seguridad, confiabilidad, eficiencia y competencia del personal sustantivo de las Instituciones que integran el Sistema de Seguridad Pública del Estado, en cumplimiento a las disposiciones legales aplicables, las que se deriven de los Acuerdos del Consejo Nacional de Seguridad Pública, así corno de los Convenios celebrados entre la Federación, Estado y Municipios.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2011)</small>
+
+###### Artículo 93 Bis.
+
+El personal sustantivo de las Instituciones que integran el Sistema de Seguridad Pública del Estado, deberá someterse a los procesos de evaluación en los términos de esta Ley, con seis meses de anticipación a la expiración de la validez de su certificado y registro, a fin de obtener la revalidación de los mismos, en los términos que determinen las autoridades competentes. La revalidación del certificado será requisito indispensable para permanecer en dichas Instituciones y deberá registrarse para los efectos a que se refiere el artículo anterior.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE MARZO DE 2011)</small>
 
 ###### Artículo 94.
 
-Para el cumplimiento de sus fines, los Centros Estatales de Evaluación y Control de Confianza, tendrán a su cargo el diseño, elaboración y aplicación de procesos de evaluación, sistemáticos y periódicos, tanto de aspirantes como del personal en activo de las instituciones de seguridad pública para verificar que la actuación de los servidores públicos se ajuste al marco de conducta que dictan el Código de Ética y la normatividad institucional, con la intención de inhibir actos de corrupción, impunidad e infiltración del crimen organizado, realizando, por lo menos, las acciones siguientes:
+Para el cumplimiento de sus fines, el Centro Único de Evaluación y Control de Confianza del Estado, realizará, por lo menos, las acciones siguientes:
 
 I.- Evaluaciones de nuevo ingreso, con objeto de seleccionar e identificar al personal competente, confiable y eficaz, cuyo perfil corresponda a los requerimientos del puesto, a los principios y los valores institucionales;
 
-II.- Evaluaciones de personal en activo, relativas a la promoción, cambio de funciones, asignación de comisiones especiales, validación de licencias oficiales colectivas de portación de arma de fuego y las demás contempladas en la normatividad. Dicha evaluación debe generar los mecanismos de seguridad institucional que se demanda para reforzar la operación y efectividad de las Instituciones Policiales; y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-III.- Todas aquéllas que establezcan los lineamientos o criterios del Centro Nacional de Certificación y Acreditación.
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2011)</small>
+
+II.- Evaluaciones de personal sustantivo de Instituciones que integran el Sistema de Seguridad Pública del Estado en activo, relativas a la promoción, cambio de funciones, asignación de comisiones especiales, validación de licencias oficiales colectivas de portación de arma de fuego y las demás contempladas en la normatividad. Dicha evaluación debe generar los mecanismos de seguridad institucional que se demanda para reforzar la operación y efectividad de las Instituciones Policiales;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2011)</small>
+
+III.- Evaluaciones periódicas o de permanencia de personal sustantivo de Instituciones que integran el Sistema de Seguridad Pública del Estado en activo;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2011)</small>
+
+IV.- Evaluaciones extraordinarias al personal sustantivo de Instituciones que integran el Sistema de Seguridad Pública del Estado en activo, las cuales podrán ser requeridas por los Titulares de las Instituciones que integran el Sistema de Seguridad Pública del Estado, de conformidad con la normatividad aplicable al caso en particular y que se practicarán durante la vigencia del certificado correspondiente; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2011)</small>
+
+V.- Todas aquellas que establezcan los lineamientos o criterios del Centro Nacional de Certificación y Acreditación.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2011)</small>
+
+###### Artículo 94 Bis.
+
+La cancelación del certificado expedido por el Centro Único de Evaluación y Control de Confianza del Estado, procederá:
+
+I.- Al ser separados de su encargo por incumplir con alguno de los requisitos de ingreso o permanencia a que se refieren las leyes y demás disposiciones aplicables;
+
+II.- Al ser removidos de su encargo;
+
+III.- Por no obtener la revalidación de su certificado, y
+
+IV.- Por las demás causas que establezcan las disposiciones aplicables.
+
+Al cancelar algún certificado, de forma inmediata deberá hacer la anotación respectiva en el Registro Nacional de Personal de Seguridad Pública.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRIMER PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE MARZO DE 2011)</small>
 
 ###### Artículo 95.
 
-Para la aplicación de las estrategias del Sistema Nacional de Seguridad Pública, los Centros Estatales de Evaluación y Control de Confianza, observarán:
+Para la aplicación de las estrategias del Sistema Nacional de Seguridad Pública, el Centro Único de Evaluación y Control de Confianza del Estado, observará:
 
 I.- Los criterios para la evaluación y control de confianza de los servidores públicos, tomando en consideración las recomendaciones, propuestas y lineamientos del Sistema Nacional de Seguridad Pública;
 
@@ -1734,3 +1844,23 @@ Artículo Séptimo.- Las erogaciones que se deriven de la aplicación de esta Le
 EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza, a los dieciocho días del mes de junio de dos mil nueve.- Diputada Presidenta.- BÁRBARA MICHELE GANIME BORNNE.- Rúbrica.- Diputado Vicepresidente.- AVELINO TOXQUI TOXQUI.- Rúbrica.- Diputado Secretario.- JOSÉ MANUEL JANEIRO FERNÁNDEZ.- Rúbrica.- Diputado Secretario.- MELITÓN LOZANO PÉREZ.- Rúbrica.
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los diecinueve días del mes de junio de dos mil nueve.- El Gobernador Constitucional del Estado.- LICENCIADO MARIO P. MARÍN TORRES.- Rúbrica.- El Secretario de Gobernación.- LICENCIADO MARIO ALBERTO MONTERO SERRANO.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 16 DE MARZO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a los treinta días siguientes a su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Una vez que se cree el Centro Único de Evaluación y Control de Confianza del Estado al que se refiere este Decreto, en un plazo máximo de treinta días naturales, las instancias a cargo de los Centros de Evaluación y Control de Confianza en operación en el Estado, le transferirán los expedientes de evaluación con los que cuente, así como los asuntos que se encuentren en trámite para su atención y sustanciación hasta su conclusión.
+
+###### ARTÍCULO CUARTO.
+
+Todo instrumento legal, jurídico o administrativo y norma en sentido formal o material, que a la entrada en vigor del presente Ordenamiento, se refiera al Centro de Evaluación y Control de Confianza de la Procuraduría General de Justicia del Estado de Puebla o a los Centros Estatales de Evaluación y Control de Confianza, se entenderá atribuido al Centro Único de Evaluación y Control de Confianza del Estado.
