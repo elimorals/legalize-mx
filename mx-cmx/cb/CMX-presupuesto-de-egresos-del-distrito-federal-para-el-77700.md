@@ -4,7 +4,7 @@ identifier: "CMX-presupuesto-de-egresos-del-distrito-federal-para-el-77700"
 country: "mx"
 rank: "presupuesto"
 publication_date: "2010-12-31"
-last_updated: "2010-12-31"
+last_updated: "2011-03-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77700&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2010-12-29"
 
 PRESUPUESTO DE EGRESOS DEL DISTRITO FEDERAL PARA EL EJERCICIO FISCAL 2011
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 16 DE MARZO DE 2011.
 
 Presupuesto publicado en la Gaceta Oficial del Distrito Federal, el viernes 31 de diciembre de 2010.
 
@@ -1036,69 +1036,99 @@ En cumplimiento a lo establecido en los artículos 83, 84, 199, 200, 201, 202, 2
 
 Artículo Décimo Tercero.- La aplicación de los recursos señalados en el artículo 6 y en el anexo dos del presente Decreto, se observará lo siguiente:
 
-a) Los recursos serán ejercidos en los capítulos 2000, 5000 y 6000, conforme a lo dispuesto en el Clasificador por Objeto del Gasto vigente.
+> <small>(REFORMADO, G.O. 16 DE MARZO DE 2011)</small>
 
-b) Los rubros y proyectos en los que los Comités Ciudadanos y Consejos del Pueblo ejercerán los montos presupuestales, serán los establecidos en la tabla de enseguida:
+a) Los recursos serán ejercidos en los capítulos 2000, 3000, 5000 y 6000, conforme a lo dispuesto en el Clasificador por Objeto del Gasto vigente.
 
-Rubro genérico Proyectos específicos
+> <small>(REFORMADO, G.O. 16 DE MARZO DE 2011)</small>
 
-Obras y servicios Pavimentación con concreto armado
+b) La forma en que habrán de aplicarse los recursos señalados en el artículo 6 y en el anexo dos del presente decreto, será mediante proyectos definidos en la convocatoria y que correspondan tanto al rubro genérico, como al rubro específico, que a continuación se enlista:
+
+Rubro genérico Rubros específicos
+
+Obras y servicios Pavimentación
 
 Guarniciones y banquetas
 
-Construcción cancha deportiva
+Construcción cancha
 
-multifuncional tipo A
+deportiva multifuncional
 
-Construcción cancha deportiva
+Construcción de Muros de
 
-Multifuncional tipo B
+contención en zonas de
 
-Introducción red drenaje
+alto riesgo
 
-Introducción red hidráulica
+Construcción de Muros
 
-Equipamiento e
+o rejas perimetrales
 
-infraestructura urbana Paquete juegos infantiles tipo A
+para delimitar espacios
 
-Paquete juegos infantiles tipo B
+públicos
 
-Instalación rejas de contención
+Equipamiento e Paquete juegos infantiles
 
-o perimetrales
+infraestructura urbana
 
-Construcción plazas públicas
+Rehabilitación o mantenimiento
 
-Remodelación plazas públicas
+de un espacio público,
 
-Prevención del delito Luminarias de fachada
+incluyendo áreas comunes
 
-Módulo de seguridad pública tipo
+en Unidades Habitacionales.
 
-Sendero seguro (luminarias poste corto)
+Rehabilitación de áreas
+
+verdes o camellones
+
+Prevención del delito Módulo de seguridad pública tipo
+
+Sendero seguro
+
+(luminarias poste corto)
 
 Luminarias
 
-c) La determinación de las acciones específicas que con cargo al presupuesto participativo ejecutarán los Comités Ciudadanos y Consejos del Pueblo en cada una de las 1815 colonias y pueblos originarios, se hará con base en los resultados de las consultas ciudadanas que se efectúen en enero y febrero de 2011. Las consultas ciudadanas serán realizadas conforme al procedimiento establecido en los artículos 84 párrafo primero inciso b) y 204 fracción II de la Ley de Participación Ciudadana. La convocatoria para las consultas ciudadanas será emitida por el Instituto Electoral dentro de la primera quincena del mes de enero de 2011 y contendrá un catálogo de proyectos.
+Vehículos de seguridad
 
-d) Los resultados de las consultas señaladas en el párrafo anterior serán enviados por el Instituto Electoral, a más tardar el 5 de marzo de 2011, al Jefe de Gobierno, a los Jefes Delegacionales, a las Comisiones de Presupuesto y Cuenta Pública, de Hacienda y de Participación Ciudadana de la Asamblea Legislativa, a los Comités Ciudadanos, a los Consejos del Pueblo y a los Consejos Ciudadanos Delegacionales.
+> <small>(REFORMADO, G.O. 16 DE MARZO DE 2011)</small>
 
-e) Recibidos los resultados de las consultas, los Jefes Delegacionales efectuarán en colaboración con los Comités Ciudadanos y Consejos del Pueblo de todas y cada una de las colonias y pueblos originarios de la demarcación territorial, entre los meses de marzo y mayo de 2011, los proyectos, adquisiciones, adjudicaciones y demás procesos tendientes a la ejecución del presupuesto participativo en las colonias y pueblos originarios. En los primeros quince días del mes de junio de 2011, los Jefes Delegacionales remitirán a la Asamblea Legislativa y al Jefe de Gobierno del Distrito Federal un informe sobre lo establecido en la primera parte de este inciso.
+c) La determinación de las acciones específicas que con cargo al presupuesto participativo ejecutarán los Comités Ciudadanos y Consejos del Pueblo en cada una de las 1815 colonias y pueblos originarios que no se encuentren en el supuesto de asentamientos irregulares, o que en su determinación no contravenga disposiciones jurídicas vigentes, se hará con base en los resultados de las consultas ciudadanas que se efectúen el último domingo del mes de marzo de 2011. Las consultas ciudadanas serán realizadas conforme al procedimiento establecido en los artículos 47, 84 párrafo primero inciso b) y 204 fracción II de la Ley de Participación Ciudadana. La convocatoria para las consultas ciudadanas será emitida de forma conjunta por el Gobierno del Distrito Federal, la Asamblea Legislativa y por el Instituto Electoral dentro del mes de marzo de 2011 y contendrá un catálogo de proyectos.
 
-f) El compromiso del ejercicio de los recursos de presupuesto participativo en las colonias y pueblos originarios quedará a cargo de las Delegaciones en colaboración con los Comités Ciudadanos y Consejos del Pueblo, entre los meses de marzo y hasta el 31 de mayo de 2011, y preferentemente por el instrumento de participación ciudadana denominado colaboración ciudadana. Los recursos que no estén comprometidos al 1 de junio del 2011, serán reasignados por la Secretaría de Finanzas, a la Secretaría de Obras y Servicios. Dentro de los primeros quince días de septiembre de 2011, los Jefes Delegacionales enviarán al Jefe de Gobierno y a la Asamblea Legislativa un informe, por colonia y pueblo originario, un avance, sobre la ejecución de los recursos del presupuesto participativo. La contravención de lo establecido en este inciso será sancionado en términos de la Ley Federal de Responsabilidades de los Servidores Públicos.
+> <small>(REFORMADO, G.O. 16 DE MARZO DE 2011)</small>
 
-g) En el supuesto de que los recursos asignados a presupuesto participativo no sean comprometidos en el periodo previsto en el inciso precedente, la Secretaría de Finanzas reasignará dichos recursos para ser canalizados y aplicados por la Secretaría de Obras y Servicios en coordinación con los Comités Ciudadanos y Consejos del Pueblo, en las acciones específicas que hayan arrojado como resultado las consultas ciudadanas establecidas en el presente artículo. En caso de que se actualice lo previsto en este inciso, la Secretaría de Finanzas enviará, antes del 31 de septiembre de 2011, el informe respectivo, a la Asamblea Legislativa.
+d) Los resultados de las consultas señaladas en el párrafo anterior serán enviados por el Instituto Electoral, a más tardar el 5 de abril de 2011, al Jefe de Gobierno, a los Jefes Delegacionales, a las Comisiones de Presupuesto y Cuenta Pública, de Hacienda y de Participación Ciudadana de la Asamblea Legislativa, a los Comités Ciudadanos, a los Consejos del Pueblo y a los Consejos Ciudadanos Delegacionales.
+
+> <small>(REFORMADO, G.O. 16 DE MARZO DE 2011)</small>
+
+e) Recibidos los resultados de las Consultas, los jefes delegacionales deberán comprometer los recursos del presupuesto participativo a más tardar el 31 de octubre para obra pública por contrato y al 15 de noviembre para el resto de conceptos de gasto.
+
+> <small>(REFORMADO, G.O. 16 DE MARZO DE 2011)</small>
+
+f) El compromiso del ejercicio de los recursos de presupuesto participativo en las colonias y pueblos originarios quedará a cargo de la (sic) Delegaciones en colaboración con los comités Ciudadanos y Consejos del Pueblo; de conformidad con lo dispuesto en la Ley de Participación Ciudadana.
+
+> <small>(REFORMADO, G.O. 16 DE MARZO DE 2011)</small>
+
+g) Los Jefes Delegacionales entregarán tres informes del compromiso y la ejecución de los recursos aplicados al presupuesto participativo, por colonia y por pueblo originario, a más tardar el 30 de junio, el 30 de septiembre y el 5 de diciembre de 2011, mismos que serán turnados al Jefe de Gobierno del Distrito Federal, a la Contraloría General del Distrito Federal a efecto de que evalúe su aplicación y cumplimiento, así como a la Asamblea Legislativa del Distrito Federal para que esta, a su vez, los turne a la Contaduría Mayor de Hacienda para que los incorpore en la revisión de la Cuenta Pública del año correspondiente. Si de las evaluaciones practicadas se desprenden incumplimientos a la normatividad en la materia, estos serán sancionados en términos de lo establecido en la Ley Federal de Responsabilidades de los Servidores Públicos.
 
 h) Los informes trimestrales sobre ejecución y cumplimiento de los presupuestos y programas aprobados, que el Jefe de Gobierno debe remitir a la Asamblea Legislativa de conformidad con lo establecido en el artículo 42 fracción XX del Estatuto de Gobierno del Distrito Federal, deberán contener un apartado que incluya los avances sobre ejecución y cumplimiento del presupuesto participativo por Delegación y colonia o pueblo originario.
 
-i) Los integrantes de los Comités Ciudadanos y Consejos del Pueblo podrán hacer del conocimiento de la Comisión de Participación Ciudadana de la Asamblea Legislativa, cualquier contravención al presente artículo conforme al procedimiento señalado en el artículo 202 fracción II de la Ley de Participación Ciudadana.
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 16 DE MARZO DE 2011)</small>
+
+Dicha información deberá ser destacada en la opinión que realiza la Contaduría Mayor de Hacienda sobre los informes trimestrales, para lo cual enviará a la Asamblea Legislativa una opinión de carácter especial al respecto.
+
+i) (DEROGADO, G.O. 16 DE MARZO DE 2011)
 
 j) En términos de la fracción II del artículo 202 de la Ley de Participación Ciudadana del Distrito Federal, la Contaduría Mayor de Hacienda de la Asamblea Legislativa incluirá en su programa anual de auditorías, acciones para fiscalizar los recursos previstos en este artículo. La Contraloría General del Distrito Federal supervisará el ejercicio del gasto público relativo a presupuesto participativo con el fin de que corresponda con lo señalado en el presente Decreto de Presupuesto de Egresos.
 
-k) Las 1815 colonias y pueblos originarios serán aquellas en que el Instituto Electoral dividió al Distrito Federal para efectos de la elección del 24 de octubre de 2010.
+> <small>(REFORMADO, G.O. 16 DE MARZO DE 2011)</small>
 
-l) En caso de que alguna asamblea ciudadana, facultada para ello, no encontrara en el catálogo de proyectos específicos, aquél que cubra sus expectativas, y que así lo manifieste por escrito en el acta correspondiente; así como cualquier otra duda o consulta que se genere de los artículos Cuarto y Séptimo transitorios del presente decreto, se estará a lo que acuerden las Comisiones de Participación Ciudadana y de Presupuesto y Cuenta Pública de la Asamblea Legislativa del Distrito Federal.
+k) Las 1815 colonias y pueblos originarios serán aquellas en que el Instituto Electoral dividió al Distrito Federal para efectos de la elección del 24 de octubre de 2010. En caso de por (sic) cualquier motivo no existiera Comité Ciudadano o Consejo del Pueblo, o bien que aún existiendo éste no participara, en alguna de las 1815 colonias y pueblos antes enunciados, las Autoridades en materia de Presupuesto Participativo en coordinación con el Instituto Electoral y con el Consejo Ciudadano Delegacional correspondiente, determinarán lo Conducente a más tardar el 15 de mayo de 2011.
+
+l) (DEROGADO, G.O. 16 DE MARZO DE 2011)
 
 > <small>(F. DE E., G.O. 15 DE FEBRERO DE 2011)</small>
 
@@ -1251,3 +1281,15 @@ Artículo Quincuagésimo.- Derivado de las reasignaciones de gasto consignados e
 Recinto de la Asamblea Legislativa del Distrito Federal, a los veinte días del mes de diciembre del año dos mil diez.- POR LA MESA DIRECTIVA.- DIP. KAREN QUIROGA ANGIANO, PRESIDENTA.- DIP. JUAN JOSÉ LARIOS MÉNDEZ, SECRETARIO.- DIP. JUAN CARLOS ZÁRRAGA SARMIENTO, SECRETARIO.- FIRMAS.
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso B) de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los veintinueve días del mes de diciembre del año dos mil diez.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MARCELO LUIS EBRARD CASAUBON.- FIRMA.- EL SECRETARIO DE GOBIERNO, JOSÉ ÁNGEL ÁVILA PÉREZ.- FIRMA.- EL SECRETARIO DE FINANZAS, ARMANDO LÓPEZ CÁRDENAS.- FIRMA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE PRESUPUESTO.</small>
+
+G.O. 16 DE MARZO DE 2011.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Por virtud de las reformas previstas en el presente decreto, quedan sin efectos los actos que al amparo del dispositivo que se reforma hubieren sido realizados.
+
+TERCERO.- Por única ocasión para 2011, las consultas ciudadanas previstas en el inciso b) del párrafo primero del artículo 84 de la Ley de Participación Ciudadana del Distrito Federal, se realizarán en el último domingo del mes de marzo del mismo año.
+
+CUARTO.- Remítase a las autoridades correspondientes para su publicación en la Gaceta Oficial del Distrito Federal.
