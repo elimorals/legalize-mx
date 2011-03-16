@@ -4,7 +4,7 @@ identifier: "OAX-codigo-de-instituciones-politicas-y-procedimientos-64534"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-11-08"
-last_updated: "2009-08-04"
+last_updated: "2011-03-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64534&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CODIGO DE INSTITUCIONES POLITICAS Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE AGOSTO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE MARZO DE 2011.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 8 de noviembre de 2008.
 
@@ -1261,13 +1261,17 @@ Artículo 85
 
 Los Consejeros Electorales, serán electos conforme a las bases siguientes:
 
-1. Cada grupo parlamentario tendrá derecho a presentar hasta tres candidatos.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE MARZO DE 2011)</small>
+
+1. Cada grupo parlamentario tendrá derecho a presentar hasta tres candidatos propietarios y suplentes.
 
 La comisión correspondiente del Congreso del Estado integrará una lista de candidatos hasta por el doble del número a elegir, de entre las propuestas de los grupos parlamentarios; anexando carta de aceptación.
 
 2. De esta lista, la Comisión correspondiente examinará si cumplen los requisitos de elegibilidad y elaborarán dictamen individual.
 
-El Congreso del Estado elegirá a los Consejeros Electorales, de manera individual y sucesiva por el voto de las dos terceras partes de sus miembros presentes.
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2011)</small>
+
+El Congreso del Estado elegirá a los Consejeros Electorales propietarios y suplentes, de manera individual y sucesiva por el voto de las dos terceras partes de sus miembros presentes.
 
 3. Si realizadas al menos tres rondas de votación no se cubriera la totalidad de consejeros a elegir, la comisión correspondiente deberá presentar una nueva lista hasta por el doble de los consejeros faltantes. Los que serán electos por mayoría simple.
 
@@ -1283,7 +1287,9 @@ c) Tener, al menos, treinta años cumplidos el día de la designación;
 
 d) Tener modo honesto de vivir, gozar de buena reputación y no haber sido condenado por delito alguno, salvo que hubiese sido de carácter culposo;
 
-e) Poseer al día de la designación, con antigüedad mínima de cinco años, título profesional de nivel licenciatura y contar con los conocimientos y experiencia en la materia político-electoral que les permitan el desempeño adecuado de sus funciones;
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2011)</small>
+
+e) Poseer al día de su designación, con antigüedad mínima de tres años, título profesional de nivel licenciatura, contar con los conocimientos y experiencia en la materia político-electoral que les permitan el desempeño adecuado de sus funciones;
 
 f) No desempeñar ni haber desempeñado cargo de dirección nacional, estatal o municipal en algún partido político en los últimos cinco años anteriores a la designación;
 
@@ -1295,13 +1301,13 @@ i) No desempeñar ni haber desempeñado cargo de dirigente de organismos, instit
 
 2. El Presidente del Consejo General durará en su cargo tres años, pudiendo ser ratificado por una sola vez.
 
-(F. DE. E., P.O. 29 DE NOVIEMBRE DE 2008)
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2011)</small>
 
-3. Los consejeros electorales durarán en su cargo cuatro años, serán renovados en forma escalonada y no podrán ser reelectos.
+3. Los consejeros electorales durarán en su cargo seis años. Serán renovados en forma escalonada. En la elección de consejeros electorales se deberá observar el principio de equidad de género.
 
-(F. DE. E., P.O. 29 DE NOVIEMBRE DE 2008)
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2011)</small>
 
-4. De darse la falta absoluta del Consejero Presidente o de cualquiera de los consejeros electorales, el Congreso Local procederá en el más breve plazo a elegir al sustituto, quien concluirá el periodo de la vacante.
+4. De darse la falta absoluta de cualquiera de los consejeros electorales propietarios, el Consejo General del Instituto, llamará a los suplentes en el término de cinco días hábiles para que asuman el cargo. En el caso de darse la falta absoluta del Consejero Presidente el Congreso Local procederá en el más breve plazo a elegir al sustituto, quien concluirá el periodo de la vacante.
 
 (F. DE. E., P.O. 29 DE NOVIEMBRE DE 2008)
 
@@ -1545,7 +1551,9 @@ b) Estar en pleno ejercicio de sus derechos políticos y civiles;
 
 c) Tener al menos treinta años cumplidos;
 
-d) Contar con grado académico de nivel profesional, con título profesional legalmente expedido y registrado y los conocimientos que le permitan el desempeño de sus funciones;
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2011)</small>
+
+d) Poseer al día de su designación, con antigüedad mínima de tres años, título profesional de nivel licenciatura, contar con los conocimientos y experiencia en la materia político-electoral que les permitan el desempeño adecuado de sus funciones;
 
 e) Gozar de buena reputación y no haber sido condenado por delito alguno, salvo que hubiese sido de carácter imprudencial;
 
@@ -1627,7 +1635,9 @@ b) Estar en pleno ejercicio de sus derechos políticos y civiles;
 
 c) Tener al menos treinta años cumplidos;
 
-d) Contar con grado académico de nivel profesional, con título profesional legalmente expedido y registrado y los conocimientos que le permitan el desempeño de sus funciones;
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2011)</small>
+
+d) Poseer al día de su designación, con antigüedad mínima de tres años, título profesional de nivel licenciatura, contar con los conocimientos y experiencia en la materia político-electoral que les permitan el desempeño adecuado de sus funciones;
 
 e) No desempeñar ni haber desempeñado cargo de dirección nacional, estatal, distrital o municipal en algún partido político en los tres años anteriores a la designación; y
 
@@ -1645,11 +1655,15 @@ a) Ser mexicanos por nacimiento;
 
 b) Estar en pleno ejercicio de sus Derechos Políticos y Civiles;
 
-c) Tener veinticinco años cumplidos;
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2011)</small>
 
-d) Tener conocimientos en las áreas o disciplinas vinculadas con la función que habrá de desempeñar; y
+c) Tener al menos treinta años cumplidos, el día de su designación;
 
-e) Contar con experiencia en el área correspondiente.
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2011)</small>
+
+d) Poseer al día de su designación, con antigüedad mínima de tres años, título profesional de nivel licenciatura, contar con los conocimientos y experiencia en la materia político-electoral que les permitan el desempeño adecuado de sus funciones;
+
+e) (DEROGADO, P.O. 16 DE MARZO DE 2011)
 
 3. El Director General someterá al Consejo General las propuestas para la creación de nuevas direcciones o unidades técnicas para el mejor funcionamiento del Instituto, de acuerdo a las necesidades del servicio y a la disponibilidad presupuestal.
 
@@ -4012,3 +4026,17 @@ SECRETARIO.
 P.O. 4 DE AGOSTO DE 2009.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 16 DE MARZO DE 2011.
+
+PRIMERO.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+SEGUNDO.- Para los efectos de la renovación escalonada del Consejo General del Instituto a que se refiere el artículo 86 párrafo 2 de este Código, los Consejeros Electorales y el Consejero Presidente del instituto designados mediante decreto número 177 publicado en Periódico Oficial del Gobierno del Estado de Oaxaca de fecha 16 de febrero del año 2008, continuarán en sus cargos hasta el 08 de abril del 2011, para lo cual el Congreso del Estado procederá a designar a los nuevos consejeros electorales que integrarán el Consejo General a mas tardar el día 23 de marzo de 2011, mismos que tomarán posesión del cargo el día 09 de abril del mismo año, conforme a las siguientes bases:
+
+a) Elegirá a un nuevo Consejero Presidente cuyo mandato concluirá el 08 de abril de 2014, llegado el caso, el así nombrado podrá ser ratificado por una sola vez, en los términos establecidos en el citado artículo 86, párrafo 2 de este Código.
+
+b) Elegirá tres nuevos Consejeros Electorales, propietarios y tres suplentes cuyo mandato concluirá el 08 de abril del de(sic) 2017.
+
+c) Elegirá tres nuevos Consejeros Electorales propietarios y tres suplentes cuyo mandato concluirá el 08 de abril del 2018.
+
+TERCERO.- El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Gobierno del Estado.
