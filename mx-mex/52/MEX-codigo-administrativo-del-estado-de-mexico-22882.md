@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2011-03-08"
+last_updated: "2011-03-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO ADMINISTRATIVO DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 8 DE MARZO DE 2011.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 16 DE MARZO DE 2011.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -2957,7 +2957,9 @@ XIV. Promover y favorecer la sana alimentación y la activación física, la edu
 
 XV. Promover la incorporación de los estudiantes de las instituciones públicas y privadas a los servicios de atención médica;
 
-XVI. Propiciar, en coordinación con las instituciones del sector salud y asistenciales, la integración de los niños en edad escolar, condición vulnerable e infortunio familiar a los servicios de educación básica;
+> <small>(REFORMADA, G.G. 16 DE MARZO DE 2011)</small>
+
+XVI. Propiciar, en coordinación con las instituciones del sector salud y asistenciales, la orientación para la prevención y detección temprana de enfermedades; así como la integración de los niños en edad escolar, condición vulnerable e infortunio familiar a los servicios de educación básica;
 
 XVII. Promover la utilización de los medios de comunicación para acrecentar la educación y la cultura en la entidad;
 
@@ -10601,7 +10603,7 @@ Las infracciones cometidas por los informantes serán sancionadas conforme al ar
 
 ###### Artículo 14.
 
-59.- Para efectos de este Libro comete una infracción en materia de informática, la persona que dolosamente y sin derecho realice cualquiera de las siguiente (sic) conductas:
+59.- Para efectos de este Libro, comete una infracción en materia de informática, la persona que dolosamente y sin derecho realice cualquiera de las siguiente (sic) conductas:
 
 I. Acceder a algún banco de datos, sistema de cómputo o red del IGECEM, sin autorización legal o expresa emitida por autoridad competente del IGECEM;
 
@@ -10611,7 +10613,7 @@ II. Interceptar, interferir, reproducir, sustraer, comercializar, divulgar, alte
 
 ###### Artículo 14.
 
-60.- La comisión de las infracciones a que se refiere el presente título, por parte de servidores públicos, dará lugar al procedimiento administrativo disciplinario y a las sanciones que por responsabilidad administrativa disciplinaria resulten.
+60.- La comisión de las infracciones a que se refiere el presente título, por parte de servidores públicos, dará lugar al procedimiento administrativo, disciplinario y a las sanciones que por responsabilidad administrativa disciplinaria resulten.
 
 > <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
 
@@ -12620,3 +12622,9 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
 TERCERO.- En un plazo no mayor a seis meses, contados a partir de la publicación del presente Decreto, los 125 Ayuntamientos de los municipios del Estado de México, harán las debidas adecuaciones en sus respectivos bandos municipales y demás disposiciones reglamentarias de conformidad con el presente Decreto.
+
+G.G. 16 DE MARZO DE 2011.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
