@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-de-la-administracion-publica-municipal-del-h-66660"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-01-14"
-last_updated: "2010-10-13"
+last_updated: "2011-03-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66660&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "CHP"
 ---
 # REGLAMENTO DE LA ADMINISTRACION PUBLICA MUNICIPAL DEL H. AYUNTAMIENTO DE TUXTLA GUTIERREZ, CHIAPAS
 
-> <small>N. DE E. LAS REFORMAS APROBADAS POR EL ARTICULO UNICO DEL ACUERDO SIN NÚMERO, PUBLICADO EN EL P.O. DE 13 DE OCTUBRE DE 2010, MODIFICARON DE FORMA SUSTANCIAL LA ESTRUCTURA DEL PRESENTE ORDENAMIENTO.</small>
-
 REGLAMENTO DE LA ADMINISTRACION PUBLICA MUNICIPAL DEL H. AYUNTAMIENTO DE TUXTLA GUTIERREZ
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE OCTUBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE MARZO DE 2011.
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 14 de enero de 2009.
 
@@ -185,9 +183,11 @@ Los titulares de las dependencias de la Administración Pública Municipal rendi
 
 ### Capítulo I. Secretaría General del Ayuntamiento
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE MARZO DE 2011)</small>
+
 ###### Artículo 20.
 
-La Secretaría General del Ayuntamiento estará a cargo de un Secretario quien tendrá además de las facultades y obligaciones que le señalan la Ley Orgánica Municipal del Estado de Chiapas y las disposiciones jurídicas aplicables, las siguientes:
+La Secretaría General del Ayuntamiento, estará a cargo de un Secretario quien tendrá además de las facultades y obligaciones que le señalan la Ley Orgánica Municipal del Estado de Chiapas y las disposiciones jurídicas aplicables, las siguientes:
 
 l. Auxiliar al Presidente Municipal en todo lo relativo a la administración interna del Municipio;
 
@@ -231,9 +231,95 @@ XX. Formular las actas de las sesiones del Cabildo y asentarlas en la forma que 
 
 XXI. Coordinar las actividades de las direcciones de área de la Secretaria General del Ayuntamiento;
 
-XXII. Hacer cumplir el Reglamento del Cabildo y procurar el eficaz despacho de los negocios; y,
+XXII. Hacer cumplir el Reglamento del Cabildo y procurar el eficaz despacho de los negocios; y, (sic)
 
-XXIII. Las demás que le encomienden el Ayuntamiento, el Presidente Municipal, este Reglamento y otras disposiciones legales y reglamentarias.
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2011)</small>
+
+XXIII. Coordinar y vincular las acciones en materia de transparencia y acceso a la información pública con el comité de información y las unidades de enlace, y fungir como ventanilla única para la recepción de solicitudes de información, datos personales y recursos de revisión que se interpongan;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE MARZO DE 2011)</small>
+
+XXIV. Coordinar que la información pública sea debidamente recabada y difundida de conformidad con el artículo 37 de la Ley de Acceso a la Información Pública, además de propiciar que las unidades de enlace la actualicen periódicamente;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE MARZO DE 2011)</small>
+
+XXV. Coordinar que las solicitudes de acceso a la información se reciban y se tramiten en los términos que establece la ley reglamentaria de la materia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE MARZO DE 2011)</small>
+
+XXVI. Coordinar que los solicitantes sean debidamente auxiliados para la elaboración de sus peticiones y orientarlos en función al sujeto obligado que pueda tener la información que necesita conocer;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE MARZO DE 2011)</small>
+
+XXVII. Coordinar los trámites necesarios para entregar la información solicitada, y dirigir se notifique en términos de la ley reglamentaria de la materia, a los particulares, las resoluciones de las solicitudes de acceso a la información presentadas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE MARZO DE 2011)</small>
+
+XXVIII. Proponer al comité los procedimientos internos que aseguren la mayor eficiencia en la gestión de las solicitudes de acceso a la información;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE MARZO DE 2011)</small>
+
+XXIX. Habilitar a los servidores públicos que tengan adscritos para recibir y dar trámite a las solicitudes de acceso a la información pública;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE MARZO DE 2011)</small>
+
+XXX. Coordinar el registro de las solicitudes de acceso a la información;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE MARZO DE 2011)</small>
+
+XXXI. Presentar información estadística, que contemple la procedencia, improcedencia, tiempo de respuesta, resoluciones y recursos interpuestos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE MARZO DE 2011)</small>
+
+XXXII. Garantizar y agilizar la información entre la unidad de enlace de los sujetos obligados y los solicitantes;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE MARZO DE 2011)</small>
+
+XXXIII. Requerir a la unidad de enlace la resolución de la solicitud o el impedimento que tenga para no hacerlo en términos del artículo 74 de la ley reglamentaria;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE MARZO DE 2011)</small>
+
+XXXIV. Observar los criterios expedidos por el instituto y el comité, y atenderlos de conformidad con lo establecido en la ley;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE MARZO DE 2011)</small>
+
+XXXV. Presentar ante el comité las propuestas para la clasificación y desclasificación de la información que generen los sujetos obligados de este reglamento, de conformidad con la ley y el reglamento;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE MARZO DE 2011)</small>
+
+XXXVI. Administrar el módulo de acceso a la información pública;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE MARZO DE 2011)</small>
+
+XXXVII. Administrar el portal y los sistemas electrónicos que se desarrollen para el acceso a la información;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE MARZO DE 2011)</small>
+
+XXXVIII. Promover la suscripción de convenios de colaboración para el intercambio de experiencias, apoyos económicos y en especie con organismos nacionales e internacionales para desarrollar foros, seminarios y cursos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE MARZO DE 2011)</small>
+
+XXXIX. Presentar el informe anual de acceso a la información;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE MARZO DE 2011)</small>
+
+XL. Difundir entre los servidores públicos los beneficios del manejo público de la información, así como sus responsabilidades en el buen uso y conservación de ésta;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE MARZO DE 2011)</small>
+
+XLI. Implementar cursos de capacitación y actualización de los servidores públicos de este H. Ayuntamiento, en materia de transparencia y acceso a la información;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE MARZO DE 2011)</small>
+
+XLII. Coordinar el desarrollo de las tareas tendientes a la sistematización, tratamiento y protección de la información;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE MARZO DE 2011)</small>
+
+XLIII. Supervisar la elaboración de las directrices acerca de la presentación, imagen, diseño y formato para la difusión en el portal de transparencia de la información pública municipal; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE MARZO DE 2011)</small>
+
+XLIV. Las demás que determinen las disposiciones jurídicas aplicables o le delegue la Secretaría General del Ayuntamiento dentro del ámbito de su competencia.
 
 ###### Artículo 21.
 
@@ -243,7 +329,9 @@ Todas las disposiciones o comunicaciones oficiales que por escrito dicte el Pres
 
 La Secretaría General del Ayuntamiento para el desahogo de los asuntos de su competencia y el mejor desempeño de sus funciones estará integrada por la siguiente estructura orgánica;
 
-I. Dirección del Ayuntamiento;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2011)</small>
+
+I. Coordinación de Acceso a la Información Pública;
 
 II. Dirección de Gobierno Municipal;
 
@@ -252,6 +340,56 @@ III. Dirección Jurídica;
 IV. Dirección de Tenencia de la Tierra; y,
 
 V. Dirección de Atención Ciudadana.
+
+> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2011)</small>
+
+###### Artículo 22 Bis.
+
+La Coordinación de Acceso a la Información Pública tendrá las siguientes atribuciones:
+
+I. Coordinar y vincular las acciones en materia de transparencia y acceso a la información pública con el comité de información y las unidades de enlace, y fungir como ventanilla única para la recepción de solicitudes de información, datos personales y recursos de revisión que se interpongan;
+
+II. Coordinar que la información pública sea debidamente recabada y difundida de conformidad con el artículo 37 de la Ley de Acceso a la Información Pública, además de propiciar que las unidades de enlace la actualicen periódicamente;
+
+III. Coordinar que las solicitudes de acceso a la información se reciban y se tramiten en los términos que establece la ley reglamentaria de la materia;
+
+IV. Coordinar que los solicitantes sean debidamente auxiliados para la elaboración de sus peticiones y orientarlos en función al sujeto obligado que pueda tener la información que necesita conocer;
+
+V. Coordinar los trámites necesarios para entregar la información solicitada, y dirigir se notifique en términos de la ley reglamentaria de la materia, a los particulares, las resoluciones de las solicitudes de acceso a la información presentadas;
+
+VI. Proponer al comité los procedimientos internos que aseguren la mayor eficiencia en la gestión de las solicitudes de acceso a la información;
+
+VII. Habilitar a los servidores públicos que tengan adscritos para recibir y dar trámite a las solicitudes de acceso a la información pública;
+
+VIII. Coordinar el registro de las solicitudes de acceso a la información;
+
+IX. Presentar información estadística, que contemple la procedencia, improcedencia, tiempo de respuesta, resoluciones y recursos interpuestos;
+
+X. Garantizar y agilizar la información entre la unidad de enlace de los sujetos obligados y los solicitantes;
+
+XI. Requerir a la unidad de enlace la resolución de la solicitud o el impedimento que tenga para no hacerlo en términos del artículo 74 de la ley reglamentaria;
+
+XII. Observar los criterios expedidos por el instituto y el comité, y atenderlos de conformidad con lo establecido en la ley;
+
+XIII. Presentar ante el comité las propuestas para la clasificación y desclasificación de la información que generen los sujetos obligados de este reglamento, de conformidad con la ley y el reglamento;
+
+XIV. Administrar el módulo de acceso a la información pública;
+
+XV. Administrar el portal y los sistemas electrónicos que se desarrollen para el acceso a la información;
+
+XVI. Promover la suscripción de convenios de colaboración para el intercambio de experiencias, apoyos económicos y en especie con organismos nacionales e internacionales para desarrollar foros, seminarios y cursos;
+
+XVII. Presentar el informe anual de acceso a la información;
+
+XVIII. Difundir entre los servidores públicos los beneficios del manejo público de la información, así como sus responsabilidades en el buen uso y conservación de ésta;
+
+XIX. Implementar cursos de capacitación y actualización de los servidores públicos de este H. Ayuntamiento, en materia de transparencia y acceso a la información;
+
+XX. Coordinar el desarrollo de las tareas tendientes a la sistematización, tratamiento y protección de la información;
+
+XXI. Supervisar la elaboración de las directrices acerca de la presentación, imagen, diseño y formato para la difusión en el portal de transparencia de la información pública municipal; y,
+
+XXII. Las demás que determinen las disposiciones jurídicas aplicables o le delegue la presidencia municipal dentro del ámbito de su competencia.
 
 ###### Artículo 23.
 
@@ -525,6 +663,16 @@ E. Departamento de Aprovechamiento y Espacios Públicos.
 
 F. Departamento de Registro y control de Ingresos.
 
+> <small>N. DE E. ESTE ARTICULO FUE REFORMADO EL 11 DE NOVIEMBRE DE 2009.</small>
+
+II.- ... (SIC)
+
+III.- ...(SIC)
+
+IV.- (DEROGADA, P.O. 16 DE MARZO DE 2010)
+
+V.- ...(SIC)
+
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE NOVIEMBRE DE 2009)</small>
 
 ###### Artículo 30.
@@ -741,51 +889,7 @@ XVIII. Las demás que determinen las disposiciones jurídicas aplicables o le de
 
 ###### Artículo 34.
 
-La Dirección de Acceso a la Información Pública tendrá las siguientes atribuciones:
-
-l. Coordinar y vincular las acciones en materia de transparencia y acceso a la información pública con el Comité de Información y las Unidades de Enlace, y fungir como ventanilla única para la recepción de solicitudes de información, datos personales y recursos de revisión que se interpongan;
-
-II. Coordinar que la información pública sea debidamente recabada y difundida de conformidad con el artículo 37 de la Ley de Acceso a la Información Pública, además de propiciar que las unidades de enlace la actualicen periódicamente;
-
-III. Coordinar que las solicitudes de acceso a la información se reciban y se tramiten en les términos que establece la ley reglamentaria de la materia;
-
-IV. Coordinar que les solicitantes sean debidamente auxiliados para la elaboración de sus peticiones y orientarles en función al sujeto obligado que pueda tener la información que necesita conocer;
-
-V. Coordinar los trámites necesarios para entregar la información solicitada, y dirigir se notifique en términos de la ley reglamentaria de la materia, a los particulares, las resoluciones de las solicitudes de acceso a la información presentadas;
-
-VI. Proponer al Comité los procedimientos internos que aseguren la mayor eficiencia en la gestión de las solicitudes de acceso a la información;
-
-VII. Habilitar a los servidores públicos que tengan adscritos para recibir y dar trámite a las solicitudes de acceso a la información pública;
-
-VIII. Coordinar el registro de las solicitudes de acceso a la información;
-
-IX. Presentar información estadística, que contemple la procedencia, improcedencia, tiempo de respuesta, resoluciones y recursos interpuestos;
-
-X. Garantizar y agilizar la información entre la unidad de enlace de los sujetos obligados y los solicitantes;
-
-XI. Requerir a la unidad de enlace la resolución de la solicitud o el impedimento que tenga para no hacerlo en términos del artículo 74 de la Ley reglamentaria;
-
-XII. Observar los criterios expedidos por el Instituto y el Comité, y atenderlos de conformidad con lo establecido en la ley;
-
-XIII. Presentar ante el Comité las prepuestas para la clasificación y desclasificación de la información que generen los sujetes obligados de este Reglamento, de conformidad con la ley y el Reglamento;
-
-XIV. Administrar el módulo de acceso a la información pública;
-
-XV. Administrar el portal y los sistemas electrónicos que se desarrollen para el acceso a la información;
-
-XVI. Promover la suscripción de convenios de colaboración para el intercambio de experiencias, apoyos económicos y en especie con organismos nacionales e internacionales para desarrollar foros, seminarios y cursos;
-
-XVII. Presentar el informe anual de acceso a la información;
-
-XVIII. Difundir entre los servidores públicos los beneficios del manejo público de la información, así como sus responsabilidades en el buen uso y conservación de ésta;
-
-XIX. Implementar cursos de capacitación y actualización de los servidores públicos de este H. Ayuntamiento, en materia de transparencia y acceso a la información;
-
-XX. Coordinar el desarrollo de las tareas tendientes a la sistematización, tratamiento y protección de la información;
-
-XXI. Supervisar la elaboración de las directrices acerca de la presentación, imagen, diseño y formato para la difusión en el portal de transparencia de la información pública municipal; y,
-
-XXII. Las demás que determinen las disposiciones jurídicas aplicables o le delegue la Tesorería Municipal dentro del ámbito de su competencia.
+(DEROGADO, P.O. 16 DE MARZO DE 2011)
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 13 DE OCTUBRE DE 2010)</small>
 
@@ -1459,7 +1563,7 @@ V. Las demás que le encomienden el Ayuntamiento, el Presidente Municipal, este 
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 13 DE OCTUBRE DE 2010)</small>
 
-### Capítulo VI. Secretaría de Planeación para el Desarrollo Sustentable Municipal
+### Capítulo VI. Secretaría de Planeación para el Desarollo Sustentable Municipal
 
 > <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2010)</small>
 
@@ -3284,3 +3388,11 @@ Artículo Primero.- La presente reforma entrará en vigor al día siguiente de s
 Artículo Segundo.- Quedan abrogadas todas aquellas disposiciones que se opongan al presente Acuerdo.
 
 Artículo Tercero.- Para su debido conocimiento publíquese el presente Acuerdo en la Gaceta Municipal, en los Estrados del Palacio Municipal y en cinco lugares de mayor afluencia vecinal de las Agencias Municipales.
+
+P.O. 16 DE MARZO DE 2011.
+
+Primero.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Chiapas.
+
+Segundo.- Quedan abrogadas todas aquellas disposiciones que se opongan al presente acuerdo.
+
+Tercero.- Para su debido conocimiento publíquese el presente Reglamento en la Gaceta Municipal, en los Estrados del Palacio Municipal y en cinco lugares de mayor afluencia vecinal de las Agencias Municipales.
