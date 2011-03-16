@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-interior-de-la-secretaria-de-obras-publicas-73291"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-01-09"
-last_updated: "2010-01-09"
+last_updated: "2011-03-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=73291&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ZAC"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE OBRAS PUBLICAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE OBRAS PUBLICAS, PUBLICADO EN EL P.O. DE 16 DE MARZO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 9 de enero de 2010.
 
@@ -842,3 +844,19 @@ CARLOS PINTO ROBLES
 EL SECRETARIO DE OBRAS PÚBLICAS
 
 HÉCTOR CASTANEDO QUIRARTE
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 16 DE MARZO DE 2011.
+
+Primero.- El presente Reglamento Interior entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Segundo.- Se abroga el Reglamento Interior de la Secretaría de Obras Públicas, publicado en el suplemento del número 3 del Periódico Oficial, Órgano del Gobierno del Estado, correspondiente al 9 de enero de 2010.
+
+Tercero.- Se derogan las disposiciones administrativas que se opongan a este Ordenamiento.
+
+Cuarto.- Los asuntos que se encuentren en trámite a cargo de direcciones o unidades administrativas que se modifican o cambian de adscripción, los continuará y resolverá el área administrativa que el presente Reglamento señalan como competente.
+
+Quinto.- Cuando la competencia de alguna de las Unidades Administrativas establecidas con anterioridad a la vigencia de este Reglamento deberá ser ejercida por otra u otras unidades que en el mismo se disponen, los recursos materiales y financieros con los que contaban y que fueren necesarios, pasarán a la unidad o unidades competentes, distribuyéndose en su caso, de conformidad con el ámbito de atribuciones que a cada una corresponda.
+
+Sexto.- Los Manuales de Organización y de Procedimientos, deberán publicarse dentro del término de ciento ochenta días naturales siguientes a la entrada en vigor del presente Reglamento.
