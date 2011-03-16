@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-participacion-ciudadana-del-distrito-federal-39363"
 country: "mx"
 rank: "ley"
 publication_date: "2004-05-17"
-last_updated: "2011-01-17"
+last_updated: "2011-03-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39363&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2004-05-14"
 
 LEY DE PARTICIPACION CIUDADANA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 17 DE ENERO DE 2011.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 16 DE MARZO DE 2011.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 17 de mayo de 2004.
 
@@ -3910,6 +3910,12 @@ Se entiende que no son todos los pueblos originarios del Distrito Federal, sólo
 
 Las Comisiones de Participación ciudadana y de Asuntos Indígenas, Pueblos y Barrios Originarios y Atención a Migrantes, evaluarán y analizarán la incorporación de figuras de coordinación territorial.
 
+> <small>(ADICIONADO, G.O. 16 DE MARZO DE 2011)</small>
+
+###### ARTÍCULO DÉCIMO CUARTO.
+
+Para los efectos de la consulta ciudadana sobre presupuesto participativo a que se refieren los artículos 83 y 84 inciso b) de la presente Ley, correspondiente al ejercicio fiscal 2011, por única ocasión y en cumplimiento al artículo 50 del presente ordenamiento se realizará, entre el 16 y el 27 de marzo de 2011, incluidas estas fechas.
+
 G.O. 30 DE NOVIEMBRE DE 2010.
 
 Artículo primero.- Remítase al Jefe de Gobierno del Distrito Federal para su publicación en la Gaceta Oficial.
@@ -3983,3 +3989,9 @@ Segundo.- El presente Decreto entrará en vigor al día siguiente de su publicac
 Tercero.- Se derogan todas las disposiciones contrarias a este Decreto.
 
 Cuarto.- Por única ocasión, para el año 2011, en lo que respecta a la instalación de los Consejos Ciudadanos Delegacionales, se atenderá lo estipulado en el párrafo segundo del artículo 130, y se dejará sin efecto lo que se dispone, en cuanto al inicio de sus funciones, en el artículo 236, ambos de la presente Ley.
+
+G.O. 16 DE MARZO DE 2011.
+
+PRIMERO.- Remítase al Jefe de Gobierno del Distrito Federal, para su Publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día de su publicación en la Gaceta Oficial del Distrito Federal.
