@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-de-la-secretaria-de-desarrollo-21756"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-03-14"
-last_updated: "2008-09-10"
+last_updated: "2011-03-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21756&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO AGROPECUARIO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE SEPTIEMBRE DE 2008.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO AGROPECUARIO, PUBLICADO EN EL P.O. DE 16 DE MARZO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 14 de marzo de 2001.
 
@@ -582,3 +584,13 @@ SEGUNDO. Los Manuales de Organización y de Políticas y Procedimientos, de las 
 TERCERO. Las unidades administrativas de las Secretarías de Gobierno, Finanzas y Planeación, Desarrollo Económico y Desarrollo Agropecuario, que transfieren sus funciones a la Secretaría de Desarrollo Humano y Social, realizarán la migración de los recursos humanos, materiales y financieros que correspondan, dentro de los 30 días naturales posteriores a la publicación del presente Decreto.
 
 CUARTO. Se derogan todas las disposiciones reglamentarias o administrativas de igual o menor rango que se opongan al presente Decreto.
+
+P.O. 16 DE MARZO DE 2011.
+
+PRIMERO.- El presente Reglamento Interior entrará en vigor al día siguiente de su Publicación en el Periódico Oficial ''Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado.
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Secretaría de Desarrollo Agropecuario, publicado en el Periódico Oficial "Tierra y Libertad" número 4107, sección segunda, del 14 de marzo del dos mil uno.
+
+TERCERO.- Se derogan las disposiciones administrativas que se opongan al presente Reglamento.
+
+CUARTO.- A partir de la entrada en vigor de este Reglamento la Secretaría contará con un plazo de ciento veinte días hábiles para realizar las modificaciones necesarias a sus respectivos manuales de organización y de políticas y procedimientos; y en tanto se expidan dichos manuales, seguirán vigentes los anteriores y en caso de ser necesario el o la titular de la Secretaría resolverá las cuestiones de procedimientos y operación que se originen por la aplicación del presente ordenamiento.
