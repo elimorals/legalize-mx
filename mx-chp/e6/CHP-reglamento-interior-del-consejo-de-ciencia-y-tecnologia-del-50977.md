@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-interior-del-consejo-de-ciencia-y-tecnologia-del-509
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-05-31"
-last_updated: "2006-05-31"
+last_updated: "2011-03-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50977&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHP"
 
 REGLAMENTO INTERIOR DEL CONSEJO DE CIENCIA Y TECNOLOGIA DEL ESTADO DE CHIAPAS
 
-Texto Original.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL CONSEJO DE CIENCIA Y TECNOLOGIA DEL ESTADO DE CHIAPAS, PUBLICADO EN EL P.O. DE 16 DE MARZO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 31 de mayo de 2006.
 
@@ -382,3 +384,15 @@ Artículo Segundo.- Se derogan todas las disposiciones administrativas de igual 
 Dado en la Sala de Juntas del Consejo de Ciencia y Tecnología del Estado de Chiapas, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los 20 días del mes de enero del año dos mil seis.
 
 H. Junta Directiva del Consejo de Ciencia y Tecnología del Estado de Chiapas: Presidente, Profr. Alfredo Palacios Espinosa, Secretario de Educación.- Secretario Técnico, Dr. Roberto Villers Aispuro, Director General del COCYTECH.-Vocales: M. en C. Jorge Ordóñez Ruiz, Rector de la UNACH.-Dra. María Elena Tovar González, Rectora de la UNICACH.-Dr. Pablo Liedo Fernández, Director General del ECOSUR.- Dr. Andrés Fábregas Puig, Rector de la Universidad Intercultural.-Ing. Roger Castellanos Galdámez, Rpte. de la CANACINTRA.-Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 16 DE MARZO DE 2011.
+
+Artículo Primero.- El presente Reglamento Interior entrará en vigor, al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se abroga el Reglamento Interior del Consejo de Ciencia y Tecnología del Estado de Chiapas, publicado en el Periódico Oficial número 365, Tomo II, de fecha 31 de mayo de 2006, así como las disposiciones que del mismo emanen y se derogan aquellas otras que se opongan al presente Reglamento Interior.
+
+Artículo Tercero.- En los casos no previstos en el presente Reglamento y en los que se presente controversia en cuanto a su aplicación, observancia e interpretación, el Director General resolverá lo conducente.
+
+Artículo Cuarto.- En cumplimiento a lo dispuesto por el artículo 8°, de la Ley Orgánica de la Administración Pública del Estado de Chiapas, publíquese el presente Reglamento en el Periódico Oficial.
