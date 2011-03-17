@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-interior-de-la-secretaria-general-de-gobierno-17569"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-09-12"
-last_updated: "2010-09-04"
+last_updated: "2011-03-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17569&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "JAL"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA GENERAL DE GOBIERNO
 
-REGLAMENTO INTERIOR DE LA SECRETARIA GENERAL DE GOBIERNO
+REGLAMENTO INTERIOR DE LA SECRETARÍA GENERAL DE GOBIERNO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE SEPTIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2011.
 
 Reglamento publicado en la Sección III del Periódico Oficial del Estado de Jalisco, el martes 12 de septiembre de 2000.
 
@@ -147,7 +147,9 @@ I. Dirección General de Estudios Estratégicos y Desarrollo Político; y
 
 II. Dirección General de Asuntos Agrarios.
 
-Artículo l0.- La Dirección General de Estudios Estratégicos y Desarrollo Político, tendrá las siguientes atribuciones:
+###### Artículo 10.
+
+La Dirección General de Estudios Estratégicos y Desarrollo Político, tendrá las siguientes atribuciones:
 
 I. Coordinar la atención de las manifestaciones que se presentan en el Estado;
 
@@ -229,13 +231,31 @@ VI. Dirección del Archivo de Instrumentos Públicos; y
 
 VII. Dirección de Certificaciones.
 
-> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2011)</small>
 
-Artículo 12 bis.- El titular de la Subsecretaría de Asuntos Jurídicos representará al Secretario en el Comité de Clasificación de Información Pública de la Secretaría, y lo presidirá.
+Artículo 12 bis.- El titular de la Subsecretaría de Asuntos Jurídicos tendrá las siguientes atribuciones:
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE MAYO DE 2009)</small>
+I. Representar al Secretario en el Comité de Clasificación de Información Pública de la Secretaría, y lo presidirá;
 
-Asimismo, será el titular de la oficina de asuntos jurídicos del Gobernador del Estado, para efectos de lo establecido en el artículo 12 de la ley de Amparo, Reglamentaria de los Artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos.
+II. Ser el titular de la oficina de asuntos jurídicos del Gobernador del Estado, para efectos de lo establecido en el artículo 12 de la Ley de Amparo, Reglamentaria de los Artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos;
+
+III. Emitir y autorizar las actas, acuerdos y resoluciones que procedan con motivo de las quejas administrativas presentadas en contra de notarios públicos, sin perjuicio de que las pueda ejercer directamente el Secretario;
+
+IV. Levantar y autorizar las actas de ratificación de las quejas administrativas en contra de notarios públicos;
+
+V. Iniciar, a petición de parte interesada, el procedimiento de mediación con motivo de las quejas administrativas presentadas en contra de notarios públicos;
+
+VI. Solicitar a la Procuraduría Social la práctica de visitas generales o especiales a las notarías del Estado;
+
+VII. Emitir el acuerdo que procesa en los casos previstos en el artículo 147 de la Ley del Notariado del Estado de Jalisco;
+
+VIII. Emitir el acuerdo correspondiente, tratándose de quejas administrativas en contra de notarios públicos irregulares o notoriamente improcedentes;
+
+IX. Emitir el acuerdo mediante el cual se determine si se está o no en el caso de iniciar el procedimiento administrativo correspondiente, con motivo de las quejas administrativas presentadas en contra de notarios públicos;
+
+X. Delegar las facultades establecidas en las fracciones III a IX del presente artículo a personal adscrito a la Subsecretaría de Asuntos Jurídicos o a la Dirección General Jurídica; y
+
+XI. Las demás que le señalen otras disposiciones legales aplicables y las que le confiera el Secretario.
 
 ###### Artículo 13.
 
@@ -287,7 +307,9 @@ Son atribuciones de la Dirección General Jurídica, las siguientes:
 
 I. Elaborar estudios y proyectos jurídicos solicitados por las diversas dependencias y entidades del Ejecutivo Estatal, así como brindarles asesoría jurídica;
 
-II. Elaborar acuerdos administrativos emitidos por la Secretaría o por el titular del Ejecutivo Estatal relativos a procedimientos administrativos instaurados en contra de los notarios públicos de la entidad con motivo de las irregularidades cometidas por éstos en el ejercicio de sus funciones;
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2011)</small>
+
+II. Elaborar acuerdos administrativos emitidos por el titular del Ejecutivo Estatal, la Secretaria o el Subsecretario de Asuntos Jurídicos relativos a procedimientos administrativos instaurados en contra de los notarios públicos de la entidad con motivo de las irregularidades cometidas por éstos en el ejercicio de sus funciones;
 
 III. Efectuar los acuerdos de expropiación de bienes inmuebles;
 
@@ -307,13 +329,25 @@ VI. Participar, a través de su titular, como miembro del Comité de Clasificaci
 
 VII. Ser el titular de la oficina de asuntos jurídicos del Gobernador del Estado, en ausencia del Subsecretario de Asuntos Jurídicos, para efectos de lo establecido en el artículo 12 de la Ley de Amparo, Reglamentaria de los Artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos;
 
-> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2011)</small>
 
-VIII. Contestar, en representación del Gobierno del Estado y en conjunto con la Dirección General de Asuntos Agrarios de la Secretaría, las demandas de los juicios agrarios y demás procedimientos que establece la Ley Agraria y sus reglamentos; y
+VIII. Contestar, en representación del Gobierno del Estado y en conjunto con la Dirección General de Asuntos Agrarios de la Secretaría, las demandas de los juicios agrarios y demás procedimientos que establece la Ley Agraria y sus reglamentos;
 
-> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2011)</small>
 
-IX. Las demás que le señalen otras disposiciones legales aplicables y las que le confiera el Secretario o el superior jerárquico.
+IX. Substanciar el desahogo del procedimiento relativo a la queja administrativa presentada en contra de notarios públicos, así como el de oficio que contempla la Ley del Notariado del Estado de Jalisco, a partir de la presentación de la queja o recepción del acta de la autoridad revisora;
+
+> <small>(ADICIONADA, P.O. 17 DE MARZO DE 2011)</small>
+
+X. Practicar toda clase de citaciones, notificaciones y emplazamientos; presidir y desahogar audiencias; admitir, desechar y desahogar pruebas; emitir acuerdos de mero trámite; practicar diligencias, inspecciones, sentar certificaciones, certificar documentos y demás actos de carácter procesal que se requieran, levantando y autorizando al efecto las actas correspondientes que se requieran para la substanciación del procedimiento relativo a la queja administrativa presentada en contra de notarios públicos, de conformidad con la Ley del Notariado del Estado de Jalisco;
+
+> <small>(ADICIONADA, P.O. 17 DE MARZO DE 2011)</small>
+
+XI. Fungir, a través de la Dirección de Procedimientos, como mediador o conciliador, de conformidad con la Ley del Notariado del Estado de Jalisco y la Ley de Justicia Alternativa del Estado de Jalisco; y
+
+> <small>(ADICIONADA, P.O. 17 DE MARZO DE 2011)</small>
+
+XII. Las demás que le señalen otras disposiciones legales aplicables y las que le confiera el Secretario o el superior jerárquico.
 
 ###### Artículo 15.
 
@@ -461,13 +495,17 @@ XV. Llevar a cabo las cancelaciones de instrumentos públicos ordenados por auto
 
 XVI. Delegar las facultades establecidas en el presente artículo, así como las establecidas en la Ley del Notariado del Estado de Jalisco, a favor del personal adscrito a la Dirección;
 
-> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2011)</small>
 
-XVII. Recoger los libros de protocolo, registro de certificaciones, sellos y folios en caso de fallecimiento, sanción, renuncia o licencia de los notarios públicos del Estado de Jalisco, así como en los demás supuestos en que así lo determine la Ley del Notariado del Estado de Jalisco; y
+XVII. Recoger los libros de protocolo, registro de certificaciones, sellos y folios en caso de fallecimiento, sanción, renuncia o licencia de los notarios públicos del Estado de Jalisco, así como en los demás supuestos en que así lo determine la Ley del Notariado del Estado de Jalisco;
 
-> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2011)</small>
 
-XVIII. Las demás que le confieran las disposiciones legales aplicables, así como el superior jerárquico.
+XVIII. Autorizar a los notarios públicos a utilizar un lugar diverso a la oficina notarial para el resguardo exclusivo de los libros, apéndices y demás documentos notariales, de conformidad con los lineamientos que para tal efecto emita el Secretario; y
+
+> <small>(ADICIONADA, P.O. 17 DE MARZO DE 2011)</small>
+
+XIX. Las demás que le confieran las disposiciones legales aplicables, convenios y acuerdos de coordinación, así como las que le determine el superior jerárquico.
 
 > <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2010)</small>
 
@@ -747,7 +785,7 @@ EL C. SECRETARIO GENERAL DE GOBIERNO
 
 LIC. FERNANDO A. GUZMÁN PÉREZ PELÁEZ
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 22 DE OCTUBRE DE 2005.
 
@@ -778,3 +816,11 @@ P.O. 4 DE SEPTIEMBRE DE 2010.
 PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 SEGUNDO. Se derogan todas las disposiciones reglamentarias o administrativas que se opongan al presente Acuerdo.
+
+P.O. 17 DE MARZO DE 2011.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. Se derogan todas las disposiciones reglamentarias o administrativas que se opongan al presente Acuerdo.
+
+TERCERO. Las atribuciones establecidas en los artículos 12 Bis y 14 del Reglamento Interior de la Secretaría General de Gobierno se aplicarán en los procedimientos que se hayan iniciado antes de la entrada en vigor del presente Acuerdo.
