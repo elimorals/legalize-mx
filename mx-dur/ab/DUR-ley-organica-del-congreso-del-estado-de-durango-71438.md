@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-del-congreso-del-estado-de-durango-71438"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-12-24"
-last_updated: "2010-03-18"
+last_updated: "2011-03-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71438&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY ORGANICA DEL CONGRESO DEL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE MARZO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE MARZO DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 24 de diciembre de 2009.
 
@@ -1261,9 +1261,17 @@ XXVI. Ciencia, Tecnología e Innovación;
 
 XXVII. Fortalecimiento Municipal;
 
-XXVIII. Juventud y Deporte; y
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2011)</small>
 
-XXIX. Atención a Migrantes.
+XXVIII. Juventud y Deporte;
+
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2011)</small>
+
+XXIX. Atención a Migrantes; y
+
+> <small>(ADICIONADA, P.O. 17 DE MARZO DE 2011)</small>
+
+XXX. Cultura.
 
 ###### Artículo 119.
 
@@ -1379,11 +1387,15 @@ I. De la educación pública estatal;
 
 II. Universitaria;
 
-III. Relacionada con las profesiones y aranceles de profesionistas;
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2011)</small>
 
-IV. Relacionada con la cultura; y
+III. Relacionada con las profesiones y aranceles de profesionistas; y
 
-V. Que determine premios y distinciones a maestros.
+> <small>(REFORMADA [N. DE E. ANTES FRACCION V], P.O. 17 DE MARZO DE 2011)</small>
+
+IV. Que determine premios y distinciones a maestros.
+
+V. (DEROGADA, P.O. 17 DE MARZO DE 2011)
 
 ###### Artículo 128.
 
@@ -1500,6 +1512,20 @@ A la Comisión de Juventud y Deporte, le corresponderá conocer y dictaminar sob
 ###### Artículo 148.
 
 La Comisión de Atención a Migrantes, conocerá de los asuntos relacionados con la protección a los derechos de los migrantes, conforme a las leyes de la materia.
+
+> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2011)</small>
+
+Artículo 148 bis.- A la Comisión de Cultura, le corresponde conocer de los siguientes asuntos:
+
+I. El desarrollo de la cultura y las artes en el Estado de Durango y sus Municipios;
+
+II. El fomento de la identidad Durangueña en la población del Estado;
+
+III. Las acciones que realicen el Gobierno del Estado y los Municipios en materia de cultura, tanto en territorio nacional como en el extranjero;
+
+IV. Coadyuvar a la difusión en forma oportuna de las actividades culturales que realiza el Congreso del Estado; y
+
+V. Las demás que le encomiende el Congreso del Estado.
 
 ###### Artículo 149.
 
@@ -2654,5 +2680,19 @@ P.O. 18 DE MARZO DE 2010.
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
 
 ###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales que se opongan al contenido del presente.
+
+P.O. 17 DE MARZO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día de su aprobación por el Pleno del H. Congreso del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Publíquese en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones legales que se opongan al contenido del presente.
