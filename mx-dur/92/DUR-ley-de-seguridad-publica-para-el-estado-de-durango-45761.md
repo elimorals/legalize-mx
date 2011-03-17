@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-seguridad-publica-para-el-estado-de-durango-45761"
 country: "mx"
 rank: "ley"
 publication_date: "2005-07-24"
-last_updated: "2010-10-03"
+last_updated: "2011-03-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45761&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE OCTUBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE MARZO DE 2011.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 24 de julio de 2005.
 
@@ -1239,7 +1239,7 @@ a) En el caso de aspirantes a las áreas de investigación, enseñanza superior 
 
 b) Tratándose de aspirantes a las áreas de prevención, enseñanza media superior o equivalente;
 
-c) En caso de aspirentes a las áreas de reacción, los estudios correspondientes a la enseñanza media básica;
+c) En caso de aspirantes a las áreas de reacción, los estudios correspondientes a la enseñanza media básica;
 
 > <small>(REFORMADA, P.O. 19 DE FEBRERO DE 2009)</small>
 
@@ -2155,7 +2155,7 @@ XIV. Las demás que le encomiende el Secretario de Seguridad Pública.
 
 ###### ARTÍCULO 111.
 
-El Registro de Personal de Seguridad Pública contendrá la información relativa a los integrantes de las dependencias y corporaciones de seguridad pública, estatales y municipales, que realicen funciones de policía, de investigación y persecución de delitos, de custodia penitenciaria y de menores infractores, así como de todas las personas físicas o morales que por si o por conducto de terceros presten servicios privados de protección y vigilancia en el Estado. El registro incluirá también los datos de los miembros suspendidos, destituidos, sancionados, consignados, procesados, sentenciados por delito doloso e inhabilitados, y de quienes hayan renunciado. Asimismo, se llevará un control de los aspirantes a ingresar a las corporaciones de seguridad pública, los que hayan sido rechazados y los admitidos que hayan desertado del curso de formación policial.
+El Registro de Personal de Seguridad Pública contendrá la información relativa a los integrantes de las dependencias y corporaciones de seguridad pública, estatales y municipales, que realicen funciones de policía, de investigación y persecución de delitos, de custodia penitenciaria y de menores infractores, así como de todas las personas físicas o morales que por sí o por conducto de terceros presten servicios privados de protección y vigilancia en el Estado. El registro incluirá también los datos de los miembros suspendidos, destituidos, sancionados, consignados, procesados, sentenciados por delito doloso e inhabilitados, y de quienes hayan renunciado. Asimismo, se llevará un control de los aspirantes a ingresar a las corporaciones de seguridad pública, los que hayan sido rechazados y los admitidos que hayan desertado del curso de formación policial.
 
 ###### ARTÍCULO 112.
 
@@ -2345,11 +2345,33 @@ A este registro únicamente podrán acceder los servidores públicos que tengan 
 
 La Unidad será la encargada de garantizar la interconexión con la Fiscalía General para que ésta cumpla con sus responsabilidades constitucionales, así como de establecer los protocolos de acceso y seguridad a fin de que quede registro de las personas que ingresan al sistema. Asimismo, deberá realizar el análisis y sistematización de esta información a fin de que sirva a los fines de la seguridad pública y la justicia penal en la forma más ágil y expedita.
 
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRA, P.O. 17 DE MARZO DE 2011)</small>
+
+#### SECCIÓN OCTAVA QUATER. DEL REGISTRO ESTATAL DE VEHICULOS
+
+> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2011)</small>
+
+ARTÍCULO 128 QUATER.- Todos los vehículos que circulen de manera permanente o habitual en el territorio del Estado, deberán ser registrados ante la Secretaría de Seguridad Pública del Estado, en los términos y conforme a las condiciones establecidas en esta Ley y en las disposiciones reglamentarias correspondientes.
+
+Los datos con que cuenten otras dependencias y entidades del Gobierno del Estado y los Ayuntamientos, en relación a los vehículos que circulen en el territorio del Estado, serán proporcionados a la Secretaria de Seguridad Pública a efecto de integrar el registro a que se refiere el artículo anterior. Los vehículos que cuenten con el registro previo ante la autoridad competente, quedarán registrados de manera automática para efectos del presente artículo ante la Secretaría de Seguridad Pública del Estado.
+
+> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2011)</small>
+
+ARTÍCULO 128 QUATER1.- Los vehículos a motor que circulen de manera permanente o habitual en el territorio del Estado a que se refiere el artículo anterior que no sean registrados, conforme a las disposiciones de esta Ley y las disposiciones reglamentarias correspondientes, serán retirados de la circulación por la Secretaría de Seguridad Pública del Estado.
+
+El registro a que se refiere la presente Sección tendrá el carácter estatal y no será constitutivo de derechos ni sustituto de obligaciones, ni acredita la legal estancia del vehículo en el país.
+
+Los vehículos que sean detenidos de acuerdo a lo establecido en el presente artículo y que se encuentren a disposición de la Secretaría de Seguridad Pública del Estado, deberán ser devueltos de manera inmediata a su propietario una vez realizado el registro a que se refiere el artículo anterior, a excepción de aquellos que sean requeridos por estar involucrados en la comisión de un delito.
+
+> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2011)</small>
+
+ARTÍCULO 128 QUATER2.- El registro de los vehículos se efectuará en relación con las personas que tengan su domicilio dentro del territorial estatal, de acuerdo al procedimiento, requisitos y plazos que al efecto establezcan las disposiciones reglamentarias correspondientes.
+
+La Secretaría de Seguridad Pública, en coordinación con las dependencias estatales correspondientes, establecerá los mecanismos y la forma para identificar el registro de los vehículos a que se refiere la presente Sección, independientemente de lo dispuesto por el artículo 34 de la Ley de Tránsito para los Municipios del Estado de Durango.
+
 #### SECCIÓN NOVENA. DE LAS REGLAS GENERALES SOBRE LA INFORMACIÓN
 
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2010)</small>
-
-#### SECCIÓN DÉCIMA. DE LA ESTADÍSTICA DE SEGURIDAD PÚBLICA
 
 ###### ARTÍCULO 129.
 
@@ -2362,6 +2384,8 @@ El reglamento determinará las bases para incorporar otros servicios o instrumen
 ###### ARTÍCULO 131.
 
 Las autoridades a que se refiere esta Ley tendrán acceso a la información sobre seguridad pública, de acuerdo a las bases que para tal efecto establezcan en el reglamento que para ese efecto se expida.
+
+#### SECCIÓN DÉCIMA. DE LA ESTADÍSTICA DE SEGURIDAD PÚBLICA
 
 ###### ARTÍCULO 132.
 
@@ -3050,3 +3074,25 @@ DÉCIMO TERCERO.- Se autoriza al Secretario de Seguridad Pública para en los t�
 DÉCIMO CUARTO.- En la readscripción de los empleados y trabajadores de la Procuraduría General de Justicia del Estado a la Fiscalía General, se respetarán sus derechos adquiridos.
 
 DÉCIMO QUINTO.- El Secretario de Seguridad Pública, proveerá lo necesario para la conformación del Centro Estatal de Evaluación y Control de Confianza, en los términos del artículo 165 del artículo primero de éste decreto en un plazo que no exceda de treinta días hábiles a partir de la entrada en vigor.
+
+P.O. 17 DE MARZO DE 2011.
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+SEGUNDO.- Dentro de los 30 días posteriores a la publicación del presente Decreto, el Ejecutivo del Estado, expedirá las disposiciones reglamentarias a que se refieren los artículos 128 quater, 128 quater1 y 128 quater2 del artículo segundo del presente decreto.
+
+El reglamento deberá contener entre otras disposiciones lo siguiente:
+
+a) La fecha de inicio del programa de registro;
+
+b) La fecha de inicio del retiro de circulación de los vehículos que incumplan con lo dispuesto en el presente decreto;
+
+c) La obligación de no generar conceptos por multa por las infracciones a las disposiciones del presente Decreto, en lo relativo al registro estatal de vehículos; y
+
+d) La obligación de establecer los supuestos en que deberán actualizarse el registro y en su caso si existe algún costo de recuperación.
+
+e) En caso de que el Gobierno del Estado de Durango, considere necesario el cobro de algún aprovechamiento, en relación a la alta, actualización y/o operación del Registro Estatal de Vehículos, deberá establecerse dicho cobro en el Reglamento de esta Ley que, para el efecto emita la Secretaría de Seguridad Pública del Estado de Durango, con excepción de los vehículos a que se refiere el segundo párrafo del artículo 128 quater.
+
+TERCERO. El Gobierno del Estado deberá difundir el contenido de las disposiciones reglamentarias y el presente decreto.
+
+CUARTO.- Se derogan todas las disposiciones jurídicas que se opongan al presente decreto
