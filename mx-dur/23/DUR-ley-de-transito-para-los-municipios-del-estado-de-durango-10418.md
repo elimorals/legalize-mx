@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-transito-para-los-municipios-del-estado-de-durango-10418
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-22"
-last_updated: "2010-12-09"
+last_updated: "2011-03-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10418&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "DUR"
 
 LEY DE TRANSITO PARA LOS MUNICIPIOS DEL ESTADO DE DURANGO
 
-> <small>N. DE E. EN TERMINOS DEL ARTICULO CUARTO TRANSITORIO DE LA LEY DE TRANSPORTES PARA EL ESTADO DE DURANGO, PUBLICADA EN EL P.O. DE 13 DE JUNIO DE 2002. SE DEROGAN LAS DISPOSICIONES QUE SE OPONGAN A LA PRESENTE LEY EN MATERIA DE AUTORIZACION, EXPEDICION, RENOVACION Y REPOSICION DE LICENCIAS DE CHOFER DEL SERVICIO PUBLICO, ESTABLECIDAS EN LA LEY DE TRANSITO PARA LOS MUNICIPIOS DE DURANGO.</small>
+> <small>N. DE E. EN TERMINOS DEL ARTICULO CUARTO TRANSITORIO DE LA LEY DE TRANSPORTES PARA EL ESTADO DE DURANGO, PUBLICADA EN EL P.O. DE 13 DE JUNIO DE 2002, SE DEROGAN LAS DISPOSICIONES QUE SE OPONGAN A LA PRESENTE LEY EN MATERIA DE AUTORIZACION, EXPEDICION, RENOVACION Y REPOSICION DE LICENCIAS DE CHOFER DEL SERVICIO PUBLICO, ESTABLECIDAS EN LA LEY DE TRANSITO PARA LOS MUNICIPIOS DE DURANGO.</small>
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 17 DE MARZO DE 2011.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el domingo 22 de diciembre de 1996.
 
@@ -359,9 +359,27 @@ La Comisión de Honor se reunirá periódicamente y decidirá que empleados y fu
 
 Todo vehículo para poder transitar dentro del Estado, deberá estar provisto de placas, tarjeta de circulación y calcomanías respectivas en vigor, expedidas por el Gobierno del Estado, y si son del extranjero, que hayan sido autorizadas de acuerdo con las leyes de su país de origen y no contravengan las normas estatales y municipales y se hayan internado legalmente en el país. Tanto las placas como los demás documentos a que se hace referencia en este artículo, serán la única forma legal de identificación de los vehículos; por lo que, en ningún caso y por ningún motivo, podrá establecerse otro medio de control de vehículos por parte de los Municipios.
 
+> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2011)</small>
+
+###### ARTÍCULO 34 Bis.
+
+El vidrio parabrisas frontal de los vehículos a motor que circulen de manera permanente o habitual en el territorio del Estado, deberá permanecer libre de cualquier obstáculo que dificulte o impida la visibilidad hacia el exterior o interior de los mismos, por lo que se prohíbe su oscurecimiento a través de cualquier medio.
+
+Se prohíbe la circulación de vehículos con todos los vidrios oscurecidos por micas o tintes especiales que impidan la visibilidad hacia el interior del vehículo, y especialmente los dos vidrios laterales delanteros. Se exceptúan los polarizados y entintados de nivel medio, así como los que hayan sido instalados por el fabricante del vehículo, que se requieran por razones médicas y por autorización de la autoridad de tránsito.
+
+La Secretaría de Seguridad Pública del Gobierno del Estado se coordinará y colaborará con los ayuntamientos, a través de las Direcciones Municipales de Tránsito y Vialidad y de Seguridad Pública, para dar cumplimiento a lo establecido en este artículo.
+
 ###### ARTICULO 35.
 
 Los vehículos requieren, para su tránsito en el Municipio, del registro correspondiente del Gobierno del Estado. Dicho registro se comprobará mediante la exhibición de las placas, de la calcomanía vigente a éstas y de la tarjeta de circulación, instrumentos que deberán llevarse en el vehículo, de conformidad a lo dispuesto en los Reglamentos de Tránsito Municipales.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE MARZO DE 2011)</small>
+
+Los ayuntamientos, a través de las Direcciones Municipales de Tránsito y Vialidad y de Seguridad Pública, se coordinarán y colaborarán con la Secretaría de Seguridad Pública del Gobierno del Estado, en el retiro de la circulación de los vehículos que no cuenten con el registro ante esta última.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE MARZO DE 2011)</small>
+
+Los vehículos que sean retirados de la circulación, de acuerdo a lo establecido por el párrafo anterior del presente artículo por las autoridades municipales, deberán ser puestos a disposición de la Secretaría de Seguridad Pública del Estado de manera inmediata.
 
 ###### ARTICULO 36.
 
@@ -632,3 +650,25 @@ SEGUNDO. Cuando dentro de la Ley de Tránsito para los Municipios del Estado de 
 TERCERO. Los ayuntamientos deberán adecuar sus reglamentos respectivos a los términos del presente decreto en un plazo máximo de 120 días, contados a partir del inicio de la vigencia del presente Decreto.
 
 CUARTO.- Se derogan todas las disposiciones que contravengan lo previsto en el presente decreto.
+
+P.O. 17 DE MARZO DE 2011.
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+SEGUNDO.- Dentro de los 30 días posteriores a la publicación del presente Decreto, el Ejecutivo del Estado, expedirá las disposiciones reglamentarias a que se refieren los artículos 128 quater, 128 quater1 y 128 quater2 del artículo segundo del presente decreto.
+
+El reglamento deberá contener entre otras disposiciones lo siguiente:
+
+a) La fecha de inicio del programa de registro;
+
+b) La fecha de inicio del retiro de circulación de los vehículos que incumplan con lo dispuesto en el presente decreto;
+
+c) La obligación de no generar conceptos por multa por las infracciones a las disposiciones del presente Decreto, en lo relativo al registro estatal de vehículos; y
+
+d) La obligación de establecer los supuestos en que deberán actualizarse el registro y en su caso si existe algún costo de recuperación.
+
+e) En caso de que el Gobierno del Estado de Durango, considere necesario el cobro de algún aprovechamiento, en relación a la alta, actualización y/o operación del Registro Estatal de Vehículos, deberá establecerse dicho cobro en el Reglamento de esta Ley que, para el efecto emita la Secretaría de Seguridad Pública del Estado de Durango, con excepción de los vehículos a que se refiere el segundo párrafo del artículo 128 quater.
+
+TERCERO.- El Gobierno del Estado deberá difundir el contenido de las disposiciones reglamentarias y el presente decreto.
+
+CUARTO.- Se derogan todas las disposiciones jurídicas que se opongan al presente decreto.
