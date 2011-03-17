@@ -4,7 +4,7 @@ identifier: "DUR-codigo-penal-para-el-estado-libre-y-soberano-de-durango-69042"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-06-14"
-last_updated: "2011-02-20"
+last_updated: "2011-03-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69042&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO
 
 > <small>N. DE E. DE CONFORMIDAD CON LA FRACCIÓN II DEL ARTICULO SEGUNDO Y PRIMERO TRANSITORIO DEL DECRETO No. 420, POR EL QUE SE EXPIDE LA DECLARATORIA DE ADOPCIÓN DEL SISTEMA PROCESAL PENAL ACUSATORIO EN EL PRIMER DISTRITO JUDICIAL DEL ESTADO DE DURANGO, PUBLICADO EN EL P.O. DE 10 DE DICIEMBRE DE 2009, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR EN EL PRIMER DISTRITO JUDICIAL DEL ESTADO DE DURANGO A PARTIR DE LAS CERO HORAS DEL DÍA 14 DE DICIEMBRE DE 2009.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE FEBRERO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2011.
 
 Código publicado en el Periódico Oficial del Estado de Durango, el domingo 14 de junio de 2009.
 
@@ -1099,7 +1099,7 @@ Punibilidad en el caso de error vencible.
 
 En caso de que sea vencible el error a que se refiere el inciso a), fracción VIII del artículo 28 de este Código, la penalidad será la del delito culposo, si el hecho de que se trata admite dicha forma de realización. Si el error vencible es el previsto en el inciso b) de la misma fracción, la penalidad será de una tercera parte del delito que se trate.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -2194,6 +2194,10 @@ II. El aprovechamiento de energía eléctrica, algún fluido, líneas de televis
 III. El hecho de encontrarse una cosa perdida y no entregarla a su dueño sabiendo quien es; y,
 
 IV. El apoderamiento material de los documentos que contengan datos de computadoras o el aprovechamiento o utilización de dichos datos, sin derecho y sin consentimiento de la persona que legalmente pueda disponer de los mismos.
+
+> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2011)</small>
+
+Artículo 201 bis. Tratándose de robo de placas de circulación de vehículos que preste servicio público de transporte de pasajeros, carga o mixto, para que el Ministerio Público reciba la denuncia correspondiente, el interesado deberá obtener una certificación previa de la Dirección General de Transporte.
 
 ### CAPÍTULO VII. ENCUBRIMIENTO POR RECEPTACIÓN
 
@@ -3527,6 +3531,8 @@ II. Teniendo a su cargo elementos de la fuerza pública y habiendo sido requerid
 
 ### CAPÍTULO VIII. PRESTACIÓN DEL SERVICIO PÚBLICO DE TRANSPORTE
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE MARZO DE 2011)</small>
+
 ###### Artículo 337.
 
 El servidor público que por sí o por interpósita persona, influyere en otro servidor público, valiéndose del ejercicio de las facultades de su cargo o de cualquier otra situación derivada de su relación personal o jerárquica con éste o con otro servidor público, para tramitar un negocio o conseguir una resolución que le pueda generar directa o indirectamente un beneficio económico para sí o para un tercero o que este no sea cuantificable, se le impondrán, de tres meses a tres años de prisión y multa de dieciocho a doscientos dieciséis días de salario.
@@ -3699,11 +3705,15 @@ Se impondrá de seis meses a un año de prisión y multa de treinta y seis a set
 
 ###### Artículo 360.
 
-A quien preste servicio público de transporte de pasajeros, carga o mixto, sin concesión, permiso o autorización del Gobierno del Estado, se le impondrá de uno a cinco años de prisión y multa de setenta y dos a trescientos sesenta días de salario, además de la suspensión de la licencia de manejo de automovilista y/o de chofer de servicio público hasta por un término igual al de la pena de prisión impuesta.
+A quién posea, conduzca o preste servicio público de transporte de pasajeros, carga o mixto, sin concesión, permiso o autorización del Gobierno del Estado, se le impondrá de dos a siete años de prisión y multa de ochocientos ochenta y dos a mil doscientos treinta días de salario mínimo, además de suspensión de la licencia de manejo de automovilista y/o de chofer de servicio público hasta por un término igual al de la pena de prisión impuesta, según corresponda.
 
 Las mismas penas se impondrán al propietario del medio de transporte, que realice, contrate o permita la prestación de dicho servicio.
 
 Si el delito fuera cometido o interviniera en cualquier forma el representante, socio o líder de una organización, empresa o sindicato concesionaria o permisionaria de un servicio público de transporte, las penas se aumentaran de una a dos terceras partes de las que le correspondan por el delito cometido, además, se impondrá la suspensión de los derechos para prestar el servicio público que se le haya otorgado por la autoridad estatal.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE MARZO DE 2011)</small>
+
+Quien conduzca un vehículo que preste servicio público de transporte con una sola placa, deberá acreditar que el número de la misma coincide con el del engomado correspondiente. Si no coinciden, no cuenta con el engomado o circula sin ambas placas, se aplicará la pena prevista en el párrafo primero, se le impondrá de uno a tres años de prisión y multa de ochocientos ochenta y dos a mil doscientos treinta días de salario mínimo.
 
 ###### Artículo 361.
 
@@ -4462,3 +4472,9 @@ P.O. 20 DE FEBRERO DE 2011.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones que contravengan a lo estipulado por el presente decreto.
+
+P.O. 17 DE MARZO DE 2011.
+
+Primero.- El presente decreto entrara en vigor, a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+Segundo.- Se derogan las disposiciones que se opongan al presente Decreto.
