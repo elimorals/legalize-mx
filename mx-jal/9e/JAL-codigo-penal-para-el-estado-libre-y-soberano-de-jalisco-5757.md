@@ -4,7 +4,7 @@ identifier: "JAL-codigo-penal-para-el-estado-libre-y-soberano-de-jalisco-5757"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-09-02"
-last_updated: "2011-03-03"
+last_updated: "2011-03-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE MARZO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE MARZO DE 2011.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el jueves 2 de septiembre de 1982.
 
@@ -1295,7 +1295,11 @@ Cuando haya necesidad de transportar los instrumentos o utensilios referidos en 
 
 Se impondrá de uno a cuatro años de prisión al que ilegalmente introduzca, guarde, tuviere en su poder o porte en estadios, centros deportivos o de espectáculos públicos, cualquier tipo de objeto o arma de las señaladas en el artículo anterior. La misma sanción se impondrá al que facilite o permita la realización de cualquiera de las conductas a que se refiere el presente artículo.
 
-### CAPITULO III. Quebrantamiento de sellos
+### CAPITULO III. Quebrantamiento de sellos, protección del lugar de los hechos materia del delito y de la cadena de custodia
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2011)</small>
 
 ###### Art. 120.
 
@@ -1425,6 +1429,10 @@ Si las conductas señaladas en este artículo son cometidas por servidores públ
 
 Se impondrán de diez a cincuenta jornadas de trabajo a favor de la comunidad o multa de veinte a cien días de salario mínimo, al que entorpezca o se oponga con actos materiales a la ejecución de obras o trabajos públicos, legalmente ordenados por la autoridad competente.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 17 DE MARZO DE 2011)</small>
+
 ### CAPITULO III. Atentados al Pudor
 
 > <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
@@ -1443,7 +1451,17 @@ Este delito se perseguirá por querella de la parte ofendida o de su legítimo r
 
 ###### Art. 132.
 
-Se impondrán de tres meses a tres años de prisión al que quebrantare indebidamente los sellos puestos por orden de la autoridad competente.
+Se impondrán de tres meses a tres años de prisión y multa de cuarenta a trescientos días de salario mínimo al que quebrante indebidamente los sellos puestos por orden de la autoridad competente.
+
+La misma pena se impondrá al que:
+
+I. Viole el acordonamiento y resguardo del lugar de los hechos materia del delito o la cadena de custodia;
+
+II. Manipule, borre, oculte, sustraiga, altere, sustituya, dañe, contamine o realice cualquier acción relacionada con los indicios, huellas o vestigios encontrados en el lugar de los hecho (sic) materia del delito, y
+
+III. Manipule, borre, oculte, sustraiga, altere, sustituya, dañe, contamine o realice acción relacionada con los instrumentos, objetos o productos del delito.
+
+Se excluye de responsabilidad a quien con motivo de prestar servicios periciales, auxilio médico o de rescate a las personas o bienes tutelados por el derecho, modifique estos con motivo de sus funciones legalmente establecidas.
 
 ### CAPITULO IV. Prostitución Infantil
 
@@ -1673,7 +1691,9 @@ Art. 142 C. Cuando el que corrompa o emplee al menor o con quien no tengan capac
 
 ### CAPITULO X. Delitos cometidos en la administración de justicia y en otros ramos del poder público
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE JUNIO DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE MARZO DE 2011)</small>
 
 ###### Art. 143.
 
@@ -1965,7 +1985,7 @@ III. En todos los casos, el decomiso de los bienes obtenidos con el ilícito, in
 
 ###### Art. 154.
 
-Se impondrán de uno a cuatro años de prisión, a los servidores públicos que incurran en alguno de los casos siguientes:
+Se impondrán de uno a cuatro años de prisión y multa de veinte a cien días de salario mínimo, a los servidores públicos que incurran en alguno de los siguientes casos:
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
@@ -2021,13 +2041,33 @@ XII. Procurar la impunidad de los delitos o faltas de que tenga conocimiento en 
 
 XIII. Coaccione a la víctima de un delito a desistirse de procedimientos legales contra el generador o probable responsable de un delito.
 
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-En los casos en que con motivo de la comisión de estos delitos, se obtenga un beneficio económico que no exceda del importe de ciento noventa y seis días de salario, se impondrá al responsable de uno a cuatro años de prisión y multa de veinte a cien días de salario mínimo.
+> <small>(ADICIONADA, P.O. 17 DE MARZO DE 2011)</small>
+
+XIV. No custodiar o dejar de custodiar injustificadamente el lugar de los hechos materia del delito, hasta su entrega a la autoridad competente o hasta recibir indicación expresa de ésta de dejar de custodiar, y ó
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADA, P.O. 17 DE MARZO DE 2011)</small>
+
+XV. Manipule, borre, oculte, sustraiga, altere, sustituya, dañe, contamine, modifique los indicios, huellas, vestigios, instrumentos, objetos o productos del delito encontrados en el lugar de los hechos materia del delito.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2011)</small>
+
+En los casos en que con motivo de la comisión de estos delitos, se obtenga un beneficio económico que no exceda del importe de ciento noventa días de salario, se impondrán al responsable de uno a cuatro años de prisión y multa de veinte a cien días de salario mínimo.
 
 > <small>(REFORMADO, P.O. 12 DE JUNIO DE 2003)</small>
 
 Si el monto del beneficio obtenido excede del señalado en el párrafo anterior, se impondrá al responsable, de dos a nueve años de prisión y multa hasta por el importe de cien a trescientos días de salario mínimo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2011)</small>
+
+Las penas señaladas serán independientes de las que pudieren resultar de la comisión de cualquier otro delito.
 
 ## TITULO NOVENO. FALSEDAD
 
@@ -4748,3 +4788,15 @@ P.O. 3 DE MARZO DE 2011
 DECRETO NUMERO 23504/LIX/11 POR EL QUE SE REFORMA EL ARTICULO 60 DEL CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 17 DE MARZO DE 2011.
+
+PRIMERO. El presente decreto entrará en vigor a los noventa días de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. El Ejecutivo del Estado deberá elaborar y publicar el reglamento correspondiente, a más tardar a los treinta días siguientes a la publicación del presente decreto.
+
+TERCERO. El Instituto de Ciencias Forenses deberá elaborar las normas técnicas, manuales o acuerdos con las disposiciones, lineamientos o procedimientos necesarios para la preservación del lugar de los hechos y la cadena de custodia. Previa su publicación, deberá enviarlos a las corporaciones de seguridad pública, vialidad, rescate y auxilio médico estatales y municipales para su conocimiento, con independencia de lo señalado en el siguiente transitorio.
+
+CUARTO. El Instituto Jalisciense de Ciencias Forenses deberá coordinarse con las corporaciones de seguridad pública, vialidad, rescate y auxilio médico estatales y municipales, para dar la capacitación necesaria para el debido cumplimiento del presente decreto.
+
+QUINTO. Se autoriza al Ejecutivo del Estado para que realice los ajustes presupuestales necesarios para dar cumplimiento al presente decreto, de lo cual deberá informar al Congreso de los cambios financieros que haga.
