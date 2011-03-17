@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-procedimientos-penales-para-el-estado-libre-y-5764"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-12-07"
-last_updated: "2011-01-27"
+last_updated: "2011-03-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE ENERO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE MARZO DE 2011.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el martes 7 de diciembre de 1982.
 
@@ -715,19 +715,25 @@ Inmediatamente que el Ministerio Público, o el servidor público encargado de p
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE MARZO DE 2011)</small>
 
-Cuando exista aseguramiento de estupefacientes o psicotrópicos previstos en la tabla del artículo 479 de la Ley General de Salud, el Ministerio Público o el Juez solicitarán la elaboración del dictamen pericial correspondiente, a la autoridad competente, sobre los caracteres organolépticos o químicos de la sustancia asegurada. Este dictamen, cuando hubiere detenido, será rendido dentro del término de doce horas, a partir de su legal solicitud, a fin de no vulnerar lo dispuesto en el artículo 16 de la Constitución Política de los Estados Unidos Mexicanos.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2010)</small>
-
-El Ministerio Público sólo podrá ordenar la detención del inculpado cuando se trate de caso urgente y se cometa algún delito de los señalados como graves en el artículo 342 de este código conforme a lo dispuesto por el artículo 16 de la Constitución Política de los Estados Unidos Mexicanos.
+El procedimiento controlado denominado cadena de custodia, es el que se aplica a los indicios materiales relacionados con el delito, desde su localización, identificación, recolección, embalaje, transportación, hasta su dictaminación y que tiene como fin no viciar el manejo que de ellos se haga y así evitar alteraciones, sustituciones, contaminaciones o destrucciones.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2011)</small>
+
+Cuando exista aseguramiento de estupefacientes o psicotrópicos previstos en la tabla del artículo 479 de la Ley General de Salud, el Ministerio Publico o el Juez solicitarán la elaboración del dictamen pericial correspondiente, a la autoridad competente, sobre los caracteres organolépticos o químicos de la sustancia asegurada. Este dictamen, cuando hubiere detenido, será rendido dentro del término de doce horas, a partir de su legal solicitud, a fin de no vulnerar lo dispuesto en el artículo 16 de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 17 DE MARZO DE 2011)</small>
+
+El Ministerio Público sólo podrá ordenar la detención del inculpado cuando se trate de caso urgente y se cometa algún delito de los señalados como graves en el artículo 342 de este código, conforme a lo dispuesto por el artículo 16 de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO [N. DE E. REPUBLICADO], P.O. 17 DE MARZO DE 2011)</small>
 
 Si el inculpado fue detenido o se presentó de manera voluntaria ante el Ministerio Público, se procederá de la siguiente forma:
 
@@ -798,6 +804,30 @@ IV. Acceso al domicilio común de autoridades policíacas o de personas que auxi
 V. Auxilio policiaco de reacción inmediata a favor de la víctima, con autorización expresa de ingreso al domicilio donde se localice la víctima en el momento de solicitar el auxilio, aun cuando no lo haya solicitado ésta de manera expresa y conforme a las disposiciones aplicables; y
 
 VI. Las demás que establezcan las diversas leyes del Estado de Jalisco.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2011)</small>
+
+###### Art. 93 Ter.
+
+La preservación de los indicios, huellas o vestigios del hecho delictuoso, así como los instrumentos, objetos o productos del delito, es responsabilidad directa de los servidores públicos que entren en contacto con ellos hasta la llegada del Ministerio Público o sus auxiliares.
+
+Los servidores públicos que descubran indicios, huellas o vestigios de un hecho delictuoso o instrumentos, objetos o productos del delito en el lugar de los hechos o en otro lugar, deberán informar de inmediato del hallazgo por cualquier medio eficaz y sin demora alguna al Ministerio Público y entregarle la custodia de la evidencia y realizar las diligencias necesarias.
+
+De lo anterior se deberá levantar el acta circunstanciada, en la que conste entrega-recepción de la custodia, donde describe las circunstancias de modo, tiempo y lugar respecto de los indicios entregados, además de la firma autógrafa de los servidores públicos que entregan y de quienes reciben.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2011)</small>
+
+###### Art. 93 Quáter.
+
+El Ministerio Público y sus auxiliares responsables, para preservar los indicios, huellas o vestigios del hecho delictuoso, así como los instrumentos, objetos o productos del delito, deberán:
+
+I. Revisar que se hayan seguido los procedimientos adecuados de resguardo y custodia, y
+
+II. Ordenar, según sea el caso, la práctica de los dictámenes periciales que resulten procedentes y llevar a cabo el aseguramiento correspondiente.
 
 > <small>(REFORMADO, P.O. 1 DE JULIO DE 2003)</small>
 
@@ -4020,3 +4050,15 @@ De igual forma, se autoriza a las secretarías de Finanzas y de Administración 
 P.O. 27 DE ENERO DE 2011.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 17 DE MARZO DE 2011.
+
+PRIMERO. El presente decreto entrará en vigor a los noventa días de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. El Ejecutivo del Estado deberá elaborar y publicar el reglamento correspondiente, a más tardar a los treinta días siguientes a la publicación del presente decreto.
+
+TERCERO. El Instituto de Ciencias Forenses deberá elaborar las normas técnicas, manuales o acuerdos con las disposiciones, lineamientos o procedimientos necesarios para la preservación del lugar de los hechos y la cadena de custodia. Previa su publicación, deberá enviarlos a las corporaciones de seguridad pública, vialidad, rescate y auxilio médico estatales y municipales para su conocimiento, con independencia de lo señalado en el siguiente transitorio.
+
+CUARTO. El Instituto Jalisciense de Ciencias Forenses deberá coordinarse con las corporaciones de seguridad pública, vialidad, rescate y auxilio médico estatales y municipales, para dar la capacitación necesaria para el debido cumplimiento del presente decreto.
+
+QUINTO. Se autoriza al Ejecutivo del Estado para que realice los ajustes presupuestales necesarios para dar cumplimiento al presente decreto, de lo cual deberá informar al Congreso de los cambios financieros que haga.
