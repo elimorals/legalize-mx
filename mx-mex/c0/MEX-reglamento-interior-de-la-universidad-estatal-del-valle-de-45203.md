@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-de-la-universidad-estatal-del-valle-de-4520
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-06-02"
-last_updated: "2009-01-06"
+last_updated: "2011-03-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45203&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MEX"
 
 REGLAMENTO INTERIOR DE LA UNIVERSIDAD ESTATAL DEL VALLE DE ECATEPEC DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 23 DE DICIEMBRE DE 2008.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN LA G.G. EL 6 DE ENERO DE 2009 NO APLICA AL ARTICULADO DEL ACUERDO PUBLICADO EN LA G.G. DE 23 DE DICIEMBRE DE 2008.</small>
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 17 DE MARZO DE 2011.
 
 Reglamento publicado en la Sección Segunda de la Gaceta del Gobierno del Estado de México, el jueves 2 de junio de 2005.
 
@@ -117,7 +115,9 @@ IV. Suscribir los documentos relativos al ejercicio de sus atribuciones.
 
 V. Expedir los diplomas, constancias, certificados de estudio, títulos profesionales y grados académicos, así como validar las actas de examen profesional que otorgue la Universidad.
 
-VI. Emitir, en el ámbito de su competencia, las resoluciones sobre sanciones disciplinarias a que se haga acreedor el personal académico, administrativo o alumnos de la Universidad.
+> <small>(REFORMADA, G.G. 17 DE MARZO DE 2011)</small>
+
+VI. Emitir, en el ámbito de su competencia, las resoluciones sobre sanciones disciplinarias a que se haga acreedor el personal académico, administrativo o alumnos de la Universidad, o bien, delegar dichas funciones en aquel servidor público que por jerarquía esté posibilitado para hacerlo.
 
 VII. Evaluar las actividades de la Universidad.
 
@@ -130,6 +130,8 @@ X. Integrar las comisiones a las que se refiere el Decreto.
 XI. Aplicar, previa aprobación del Consejo Directivo, las políticas para el mejoramiento académico, administrativo, en la investigación, difusión, cultura, extensión universitaria, el patrimonio y la organización de la Universidad.
 
 XII. Las demás que le confieren otras disposiciones legales y aquellas que le encomiende el Consejo Directivo.
+
+> <small>(REFORMADO, G.G. 17 DE MARZO DE 2011)</small>
 
 ###### Artículo 11.
 
@@ -145,21 +147,17 @@ IV. Dirección de Licenciatura en Acupuntura Médica y Rehabilitación Integral.
 
 V. Dirección de Licenciatura en Gerontología.
 
-> <small>(REFORMADA, G.G. 23 DE DICIEMBRE DE 2008)</small>
-
 VI. Dirección de Ingeniería en Comunicación Multimedia.
 
-> <small>(REFORMADA, G.G. 23 DE DICIEMBRE DE 2008)</small>
+VII. Dirección de la Licenciatura en Humanidades Empresa.
 
-VII. Dirección de Promoción Educativa y Vinculación.
+VIII. Dirección de la Clínica Integral Universitaria.
 
-> <small>(REFORMADA, G.G. 23 DE DICIEMBRE DE 2008)</small>
+IX. Dirección de Promoción Educativa y Vinculación.
 
-VIII. Abogado General.
+X. Abogado General.
 
-> <small>(ADICIONADA, G.G. 23 DE DICIEMBRE DE 2008)</small>
-
-IX. Contraloría Interna.
+XI. Contraloría Interna.
 
 La Universidad contará con las demás unidades administrativas que le sean autorizadas cuyas funciones y líneas de autoridad se establecerán en el Manual General de Organización del Organismo; asimismo, se auxiliará de los servidores públicos necesarios para el cumplimiento de sus atribuciones, de acuerdo con la normatividad aplicable, estructura orgánica y presupuesto autorizado.
 
@@ -207,11 +205,11 @@ XVI. Las demás que les confieren otras disposiciones legales y aquellas que les
 
 ### CAPITULO V. DE LAS SECRETARIAS, DIRECCIONES, ABOGADO GENERAL Y CONTRALORIA INTERNA
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 23 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, G.G. 17 DE MARZO DE 2011)</small>
 
 ###### Artículo 14.
 
-A la Secretaría Académica le corresponde planear, coordinar, dirigir, controlar y evaluar los planes y programas académicos y de investigación de las licenciaturas en: quiropráctica, acupuntura médica y rehabilitación integral, gerontología, así como ingeniería en comunicación multimedia, y coordinar los servicios escolares y bibliotecarios de la Universidad.
+A la Secretaría Académica le corresponde planear, coordinar, dirigir, controlar y evaluar los planes y programas académicos y de investigación de las carreras que ofrece la Universidad, así como coordinar los servicios de la Clínica Integral Universitaria, escolares y bibliotecarios del Organismo.
 
 Quedan adscritas a la Secretaría Académica:
 
@@ -221,9 +219,11 @@ II. Dirección de Licenciatura en Acupuntura Médica y Rehabilitación Integral.
 
 III. Dirección de Licenciatura en Gerontología.
 
-> <small>(ADICIONADA, G.G. 23 DE DICIEMBRE DE 2008)</small>
-
 IV. Dirección de Ingeniería en Comunicación Multimedia.
+
+V. Dirección de la Licenciatura en Humanidades Empresa.
+
+VI. Dirección de la Clínica Integral Universitaria.
 
 ###### Artículo 15.
 
@@ -237,7 +237,9 @@ III. Supervisar el desarrollo de las actividades académicas y de investigación
 
 IV. Diseñar y proponer al Rector el perfil del personal académico y de investigación que requiera ser contratado.
 
-V. Proponer al Rector programas de actualización y superación académica y vigilar su cumplimiento.
+> <small>(REFORMADA, G.G. 17 DE MARZO DE 2011)</small>
+
+V. Coordinar y supervisar los procesos de ingreso, permanencia y promoción del personal académico, previstos por el artículo 28 del Decreto.
 
 VI. Promover el otorgamiento de estímulos al personal académico y de investigación con desempeño sobresaliente o con aportaciones académicas relevantes.
 
@@ -253,7 +255,13 @@ XI. Orientar el proceso de selección de alumnos de nuevo ingreso, con el apoyo 
 
 XII. Integrar y, en su caso, presidir los órganos colegiados académicos previstos por la normatividad.
 
-XIII. Las demás que le confieren otras disposiciones legales y aquellas que le encomiende el Rector o el Consejo Directivo.
+> <small>(REFORMADA, G.G. 17 DE MARZO DE 2011)</small>
+
+XIII. Promover y vigilar que el otorgamiento de becas a estudiantes se realice conforme a los lineamientos y políticas aplicables.
+
+> <small>(ADICIONADA, G.G. 17 DE MARZO DE 2011)</small>
+
+XIV. Las demás que le confieren otras disposiciones legales y aquellas que le encomiende el Rector o el Consejo Directivo.
 
 ###### Artículo 16.
 
@@ -295,7 +303,13 @@ XV. Llevar el inventario de los bienes muebles e inmuebles de la Universidad, as
 
 XVI. Promover la modernización y el mejoramiento administrativo de la Universidad, y vigilar su cumplimiento.
 
-XVII. Las demás que le confieren otras disposiciones legales y aquellas que le encomiende el Rector o el Consejo Directivo.
+> <small>(REFORMADA, G.G. 17 DE MARZO DE 2011)</small>
+
+XVII. Diseñar y proponer al Rector los perfiles de puestos del personal administrativo de la Universidad.
+
+> <small>(ADICIONADA, G.G. 17 DE MARZO DE 2011)</small>
+
+XVIII. Las demás que le confieren otras disposiciones legales y aquellas que le encomiende el Rector o el Consejo Directivo.
 
 > <small>(REFORMADO, G.G. 23 DE DICIEMBRE DE 2008)</small>
 
@@ -334,6 +348,28 @@ XIV. Fomentar la titulación de los alumnos de la Dirección a su cargo, en coor
 XV. Proponer al Secretario Académico estrategias para elevar la calidad de los servicios educativos que proporciona la Dirección a su cargo.
 
 XVI. Las demás que les confieren otras disposiciones legales y aquellas que les encomiende el Secretario Académico y el Rector.
+
+> <small>(ADICIONADO, G.G. 17 DE MARZO DE 2011)</small>
+
+Artículo 18 bis.- Corresponde a la Dirección de la Clínica Integral Universitaria:
+
+I. Planear, coordinar, prestar y controlar los servicios que ofrece la Clínica Integral Universitaria.
+
+II. Colaborar en las actividades docentes de las Direcciones de carrera de la Universidad, así como en la integración de grupos de prestadores de servicio.
+
+III. Coordinar sus actividades con las Direcciones de carrera respectivas para que los estudiantes realicen sus prácticas clínicas y sociales.
+
+IV. Otorgar apoyo didáctico y pedagógico a profesores y alumnos de la Universidad, que contribuyan a su formación y actualización.
+
+V. Proponer acciones de mejora en los programas académicos y de investigación que lleven a cabo las Direcciones de carrera de la Universidad.
+
+VI. Establecer mecanismos y lineamientos para que los servicios de la Clínica Integral Universitaria se presten de manera ágil y eficiente.
+
+VII. Promover que las instalaciones y equipo de la Clínica Integral Universitaria cumplan con los requerimientos del servicio.
+
+VIII. Analizar la aplicación de estrategias y nuevas técnicas que mejoren la prestación de los servicios de la Clínica Integral Universitaria y llevar a cabo su implementación.
+
+IX. Las demás que le confieren otras disposiciones legales y las que le encomiende el Secretario Académico y el Rector.
 
 ###### Artículo 19.
 
@@ -421,13 +457,19 @@ II. Los directores de carrera.
 
 III. El Jefe del Departamento de Servicios Escolares.
 
-IV. Dos representantes docentes, designados por insaculación de entre quienes tengan más años de servicio en la Universidad.
+> <small>(REFORMADA, G.G. 17 DE MARZO DE 2011)</small>
 
-V. Dos especialistas de alto reconocimiento profesional, vinculados con las carreras que ofrece la Universidad, cuando se trate de la revisión de planes y programas de estudios.
+IV. Dos representantes docentes, designados por insaculación de entre los profesores definitivos o quienes tengan más años de servicio en la Universidad.
+
+> <small>(REFORMADA, G.G. 17 DE MARZO DE 2011)</small>
+
+V. Dos especialistas de alto reconocimiento profesional nacional o internacional, vinculados con las carreras que ofrece la Universidad, cuando se trate de la revisión de planes y programas de estudios.
 
 A invitación del Secretario Académico:
 
-VI. Un alumno electo de entre los de mejor promedio de cada una de las carreras que ofrece la Universidad, cuando se traten asuntos relacionados con la situación disciplinaria de los estudiantes.
+> <small>(REFORMADA, G.G. 17 DE MARZO DE 2011)</small>
+
+VI. Dos alumnos electos de entre los de mejor promedio de las carreras que ofrece la Universidad, cuando se traten asuntos relacionados con la situación disciplinaria de los estudiantes.
 
 VII. Participarán como asesores, el Abogado General y el Jefe de la Unidad de Información, Planeación, Programación y Evaluación, sin menoscabo de que la Comisión acuerde el apoyo o la asistencia de asesores externos.
 
@@ -443,11 +485,11 @@ La Comisión y las subcomisiones que se integren tendrán a su cargo las funcion
 
 El Rector será suplido en sus ausencias temporales por quien designe el Consejo Directivo.
 
-> <small>(REFORMADA, G.G. 23 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, G.G. 17 DE MARZO DE 2011)</small>
 
 ###### Artículo 26.
 
-Los secretarios y los directores de carrera serán suplidos en sus ausencias temporales hasta por 15 días, por el servidor público de la jerarquía inmediata inferior que ellos designen. En las mayores de 15 días, por quien designe el Consejo Directivo.
+Los secretarios y directores serán suplidos en sus ausencias temporales hasta por 15 días, por el servidor público de la jerarquía inmediata inferior que ellos designen. En las mayores de 15 días, por quien designe el Rector.
 
 ###### Artículo 27.
 
@@ -484,3 +526,11 @@ PRIMERO.- Publíquese el presente Acuerdo en el periódico oficial "Gaceta del G
 SEGUNDO.- Este Acuerdo entrará en vigor el día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
 
 TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Acuerdo.
+
+G.G. 17 DE MARZO DE 2011.
+
+PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERERO (SIC).- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Acuerdo.
