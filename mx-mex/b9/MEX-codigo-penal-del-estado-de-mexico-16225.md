@@ -4,7 +4,7 @@ identifier: "MEX-codigo-penal-del-estado-de-mexico-16225"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2011-03-15"
+last_updated: "2011-03-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO PENAL DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 15 DE MARZO DE 2011.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 18 DE MARZO DE 2011.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
@@ -287,7 +287,9 @@ I. Prisión;
 
 II. Multa;
 
-III. Reparación del daño;
+> <small>(REFORMADA, G.G. 18 DE MARZO DE 2011)</small>
+
+III. Reparación del daño; que comprenderá los rubros citados por el artículo 26 de este ordenamiento.
 
 IV. Trabajo en favor de la comunidad;
 
@@ -363,21 +365,39 @@ IV. Que las personas que vivan y se desarrollen en los más altos estratos econ�
 
 ### CAPITULO III. REPARACION DEL DAÑO
 
+> <small>(REFORMADO, G.G. 18 DE MARZO DE 2011)</small>
+
 ###### Artículo 26.
 
-La reparación del daño comprende:
+La reparación del daño deberá ser plena, efectiva, proporcional a la gravedad del daño causado y a la afectación del desarrollo integral de la víctima u ofendido y, según la naturaleza del delito de que se trate, comprenderá:
 
-I. La restitución del bien obtenido por el delito, con sus frutos y accesiones, y el pago en su caso del deterioro y menoscabo.
+I. En términos generales:
 
-La restitución se hará aun en el caso de que el bien hubiere pasado a ser propiedad de terceros; a menos que sea irreivindicable o se haya extinguido el derecho de propiedad, los terceros serán oídos en un incidente tramitado en la forma que señala el Código de Procedimientos Penales.
+a) El restablecimiento de las cosas en el estado en que se encontraban antes de cometerse el delito;
 
-II. El pago de su precio si el bien se hubiere perdido, o incorporado a otro por derecho de accesión, o por cualquier causa no pudiere ser restituido.
+b) La restitución del bien obtenido por el delito, con sus frutos y accesiones, y el pago en su caso del deterioro y menoscabo, o de los derechos afectados.
 
-III. La indemnización del daño material y moral causado, incluyendo el pago de los tratamientos que, como consecuencia del delito, sean necesarios para la recuperación de la salud de la víctima.
+La restitución se hará aun en el caso de que el bien hubiere pasado a ser propiedad de terceros; a menos que sea irreivindicable o se haya extinguido el derecho de propiedad, los terceros serán escuchados en audiencia en la forma que señala el Código de Procedimientos Penales.
 
-El monto de la indemnización por el daño moral no podrá ser inferior a treinta ni superior a mil días multa y será fijado considerando las circunstancias objetivas del delito, las subjetivas del delincuente y las repercusiones del delito sobre el ofendido; y
+Si se trata de bienes fungibles, el juez podrá condenar a la entrega de un objeto igual al que fuese materia de delito sin necesidad de recurrir a prueba pericial;
 
-IV. El resarcimiento de los perjuicios ocasionados.
+c) La indemnización del daño material y moral causado a la víctima o a las personas con derecho a la reparación del daño, incluyendo el pago de los tratamientos que, como consecuencia del delito, sean necesarios para la recuperación de su salud física y psicológica;
+
+El monto de la indemnización será el suficiente para cubrir los gastos a que se refiere el párrafo anterior.
+
+d) El resarcimiento de los perjuicios ocasionados;
+
+II. Tratándose de los delitos de violencia familiar y lesiones que sean con violencia de género, así como el de feminicidio, la reparación del daño a la víctima u ofendida incluirá:
+
+a) Las hipótesis a que se refiere la fracción anterior;
+
+b) El restablecimiento de su honor, mediante disculpa pública, a través de los mecanismos que señale la autoridad judicial;
+
+c) La reparación por la afectación en su entorno laboral, educativo y psicológico, a fin de lograr su restablecimiento; ante la imposibilidad de éste, la indemnización correspondiente, en los términos del artículo 141.1 del Código de Procedimientos Penales para el Estado de México.
+
+La indemnización a que se refiere el párrafo anterior se cuantificará en base a diversos factores como la pérdida del empleo, la inasistencia a las jornadas laborales, la necesidad de cambio de plantel educativo o inasistencia a éste, y demás datos relevantes que permitan realizar la cuantificación correspondiente, y
+
+d) El pago de los gastos indispensables para su subsistencia y, si los hubiere, de los hijos menores de edad o discapacitados, cuando como consecuencia del delito sufrido, se haya visto imposibilitada para desarrollarse en el ámbito laboral; lo anterior, por el tiempo que determine la autoridad judicial, atendiendo a su grado de estudios, edad y estado de salud.
 
 ###### Artículo 27.
 
@@ -387,9 +407,11 @@ La reparación del daño se impondrá de oficio al responsable del delito, pero 
 
 Los comprendidos en el artículo 16, estarán obligados en todo caso a la reparación del daño conforme a las disposiciones de este capítulo. Si fueren insolventes, responderán de dicha reparación los que los tengan bajo su patria potestad, tutela o guarda.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 18 DE MARZO DE 2011)</small>
+
 ###### Artículo 29.
 
-La reparación del daño proveniente del delito que deba cubrir el sentenciado tiene el carácter de pena pública; se exigirá de oficio por el Ministerio Público, quien deberá acreditar su procedencia y monto. Tratándose de delitos patrimoniales, será siempre por la totalidad del daño. El ofendido o sus causahabientes podrán aportar al Ministerio Público o al órgano jurisdiccional, en su caso, los datos y pruebas que tengan para tal efecto, en los términos que prevenga el Código de Procedimientos Penales.
+La reparación del daño será exigida de oficio por el Ministerio Público, quien deberá acreditar su procedencia y monto, e impuesta de oficio por la autoridad judicial, una vez acreditada la existencia del hecho delictivo y la responsabilidad del imputado, sin menoscabo de que pueda solicitarla la víctima u ofendido en términos del Código de Procedimientos Penales y otros ordenamientos aplicables.
 
 Quien se considere con derecho a la reparación del daño y no pueda obtenerla ante el órgano jurisdiccional penal en virtud de sobreseimiento o sentencia absolutoria, o del no ejercicio de la acción penal por el Ministerio Público, podrá recurrir a la vía civil en los términos de la legislación correspondiente.
 
@@ -771,6 +793,10 @@ En caso de concurso se impondrá la pena correspondiente al delito que merezca l
 
 La reincidencia y habitualidad referida en los artículos 19 y 20 será tomada en cuenta para la individualización de la pena y para el otorgamiento o no de los beneficios o de los sustitutivos penales que la ley prevé. No se otorgarán beneficios, sustitutivos, ni la suspensión de la pena de prisión cuando se trate de delitos de secuestro, homicidio doloso con modificativas que lo califiquen o lo agraven, violación y robo que cause la muerte.
 
+> <small>(ADICIONADO, G.G. 18 DE MARZO DE 2011)</small>
+
+Tratándose de delitos cometidos con violencia de género, no procederán sustitutivos penales, independientemente de la reincidencia o habitualidad del responsable.
+
 > <small>(REFORMADA SU DENOMINACION, G.G. 26 DE SEPTIEMBRE DE 2007)</small>
 
 ### CAPITULO VII. SUSTITUCION DE PENA
@@ -1011,6 +1037,10 @@ El indultado no podrá habitar en el mismo lugar que el ofendido, su cónyuge, a
 
 El perdón del ofendido extingue la pretensión punitiva y la pena en su caso, respecto de los delitos que se persiguen por querella necesaria. Otorgado el perdón y no habiendo oposición a él, no podrá revocarse.
 
+> <small>(ADICIONADO, G.G. 18 DE MARZO DE 2011)</small>
+
+Tratándose de delitos cometidos con violencia de género que admitan el perdón, éste estará condicionado a la reparación del daño, en los términos del artículo 26 de este Código y, en su caso, a que el indiciado se someta al tratamiento necesario en alguna institución pública de salud de la entidad, para evitar conductas reiterativas. Para tal efecto, el Ministerio Público deberá vigilar su efectivo cumplimiento.
+
 El perdón puede ser otorgado por el ofendido o por su representante legal, si aquél fuese menor de edad o estuviera incapacitado; pero el órgano jurisdiccional o el Ministerio Público, en este último caso, deberán a su prudente arbitrio, conceder o no eficacia al otorgado por el representante y en caso de no aceptarlo, seguir el procedimiento.
 
 El perdón concedido a uno de los inculpados se extenderá a todos los demás. Igualmente se extenderá al encubridor.
@@ -1115,6 +1145,8 @@ La prescripción de las penas de multa y reparación del daño a favor de la pro
 
 ### CAPITULO I. DESOBEDIENCIA
 
+> <small>(REFORMADO, G.G. 18 DE MARZO DE 2011)</small>
+
 # LIBRO SEGUNDO
 
 ## TITULO PRIMERO. DELITOS CONTRA EL ESTADO
@@ -1209,7 +1241,11 @@ DELITOS CONTRA LA ADMINISTRACION PUBLICA
 
 ###### Artículo 117.
 
-Comete el delito de desobediencia el que sin causa legítima, rehusare prestar un servicio de interés público a que la ley lo obligue o desobedeciere un mandato legítimo de la autoridad y se le impondrán de seis meses a un año de prisión y de treinta a cien días multa.
+Comete el delito de desobediencia el que sin causa legítima rehusare prestar un servicio de interés público a que la ley lo obligue.
+
+También comete este delito, quien desobedezca una medida cautelar, providencia precautoria o medida de protección dictada por el Ministerio Público o por una autoridad judicial o cualquier mandato legítimo de una autoridad competente.
+
+Al responsable de este delito, se le impondrán de uno a cinco años de prisión y de sesenta a doscientos días multa.
 
 ###### Artículo 118.
 
@@ -2329,6 +2365,20 @@ Además de las sanciones señaladas, se privará de los derechos de la patria po
 
 ### CAPITULO IV. SUSTRACCION DE HIJO
 
+###### Artículo 242 Bis.
+
+El homicidio doloso de una mujer, se considerará feminicidio cuando se actualice alguna de las siguientes circunstancias:
+
+a) Por razón de violencia de género; entendiéndose por ésta, la privación de la vida asociada a la exclusión, subordinación, discriminación o explotación del sujeto pasivo;
+
+b) Se cometa en contra de persona con quien se haya tenido una relación sentimental, afectiva o de confianza, o haya estado vinculada con el sujeto activo por una relación de hecho en su centro de trabajo o institución educativa, o por razones de carácter técnico o profesional, y existan con antelación conductas que hayan menoscabado o anulado los derechos, o atentado contra la dignidad del pasivo;
+
+c) El sujeto activo haya ejecutado conductas sexuales, crueles o degradantes, o mutile al pasivo o el cuerpo del pasivo, o
+
+d) Existan con antelación actos que constituyan violencia familiar del sujeto activo hacia el pasivo.
+
+En los casos a que se refiere este artículo, la penalidad será de cuarenta a setenta años de prisión y de setecientos a cinco mil días multa.
+
 ###### Artículo 221.
 
 A los ascendientes que tengan cópula con sus descendientes, teniendo conocimiento del parentesco, se les impondrán de tres a siete años de prisión y de treinta a doscientos días multa. La pena aplicable a estos últimos será de uno a tres años de prisión.
@@ -2561,6 +2611,10 @@ En los casos de lesiones causadas con motivo de accidentes ocasionados por el tr
 
 Las diligencias practicadas por la autoridad que conozca de los hechos en primer orden, serán turnadas a la autoridad que le corresponda, para que siga conociendo de los hechos.
 
+> <small>(ADICIONADO, G.G. 18 DE MARZO DE 2011)</small>
+
+Las lesiones a que se refieren las fracciones I y II, se perseguirán por querella.
+
 ###### Artículo 238.
 
 Son circunstancias que agravan la penalidad del delito de lesiones y se sancionarán, además de las penas señaladas en el artículo anterior, con las siguientes:
@@ -2577,15 +2631,15 @@ V. Cuando las lesiones produzcan enfermedad incurable, enajenación mental, pér
 
 VI. Cuando las lesiones sean calificadas, se aumentará la pena de prisión de seis meses a tres años;
 
-VII. Cuando el ofendido sea ascendiente, descendiente, hermano, pupilo, tutor, cónyuge, concubina o concubinario del inculpado, se aumentarán de seis meses a dos años de prisión; y (sic)
+> <small>(REFORMADA, G.G. 18 DE MARZO DE 2011)</small>
+
+VII. Cuando la víctima u ofendido sea ascendiente, descendiente, hermano, pupilo, tutor, cónyuge, concubina o concubinario, o mantenga una relación sentimental o afectiva con el inculpado, se aumentarán de seis meses a dos años de prisión; y (sic)
 
 > <small>(REFORMADA, G.G. 26 DE NOVIEMBRE DE 2004)</small>
 
 VIII. Cuando las lesiones a que se refiere éste artículo se infieran a los menores, incapaces o pupilos que se encuentren bajo la patria potestad, tutela o custodia del inculpado, se impondrá además de la pena correspondiente, la suspensión o privación de esos derechos;
 
-> <small>(ADICIONADA, G.G. 6 DE MARZO DE 2010)</small>
-
-IX. Cuando las lesiones se produzcan de forma dolosa a una mujer embarazada, se impondrá de uno a tres años de prisión y de cien a doscientos días multa.
+IX. (DEROGADA, G.G. 18 DE MARZO DE 2011)
 
 ###### Artículo 239.
 
@@ -2595,7 +2649,9 @@ I. Cuando las lesiones sean inferidas en riña o duelo, la pena que corresponda 
 
 II. Cuando las lesiones sean inferidas:
 
-a) En estado de emoción violenta;
+> <small>(REFORMADO, G.G. 18 DE MARZO DE 2011)</small>
+
+a) En estado de emoción violenta; en los casos de este delito cometido con violencia de género, no se aplicará esta atenuante.
 
 b) En vindicación próxima de una ofensa grave, causada al autor de la lesión, su cónyuge, concubina, concubinario, ascendientes, descendientes, pupilo, tutor o hermanos.
 
@@ -2603,9 +2659,21 @@ La pena que corresponda se reducirá en una mitad;
 
 III. Cuando dos o más personas realicen sobre otra u otras, actos idóneos para lesionarlas y el resultado se produzca, sin posibilidad de determinarse quién o quiénes de los que intervinieron lo produjeron, a todos los participantes se les impondrán de dos tercios a cinco sextos de la pena que corresponda al delito simple.
 
+> <small>(REFORMADO, G.G. 18 DE MARZO DE 2011)</small>
+
 ###### Artículo 240.
 
-Las lesiones a que se refieren los artículos 237 fracciones I y II, se perseguirán por querella.
+Las penas a que se refiere el artículo 237 se incrementarán hasta en una mitad, sin perjuicio de las agravantes a que se refiere el artículo 238, en los siguientes casos:
+
+a) Cuando las lesiones sean cometidas por un hombre en agravio de una mujer, con violencia de género;
+
+Se entiende por violencia de género, para efectos de este artículo, a las lesiones asociadas a la exclusión, subordinación, discriminación o explotación del sujeto pasivo, o
+
+b) Cuando las lesiones se produzcan de forma dolosa a una mujer embarazada; en este caso, cuando haya una lesión al producto, la pena a que se refiere el artículo 237 de este Código se incrementará hasta en dos tercios, sin perjuicio de las demás agravantes a que se refiere este artículo;
+
+c) Cuando las lesiones se cometan por un hombre en agravio de una mujer, con quien haya tenido una relación sentimental, afectiva o de confianza, o haya estado vinculada con el sujeto activo por una relación de hecho en su centro de trabajo o institución educativa, o por razones de carácter técnico o profesional, y
+
+d) Cuando exista la intención de realizar un delito sexual, independientemente que se consume o no.
 
 ### CAPITULO I. HOSTIGAMIENTO Y ACOSO SEXUAL
 
@@ -2633,6 +2701,8 @@ II. Al responsable de homicidio calificado, se le impondrán de cuarenta a seten
 
 III. Al responsable de homicidio cometido en contra de su cónyuge, concubina, concubinario, ascendientes, descendientes consanguíneos en línea recta o hermanos, teniendo conocimiento el inculpado del parentesco, se le impondrán de cuarenta a setenta años de prisión y de setecientos a cinco mil días multa.
 
+> <small>(ADICIONADO, G.G. 18 DE MARZO DE 2011)</small>
+
 ### CAPITULO II. ACTOS LIBIDINOSOS
 
 ###### Artículo 243.
@@ -2645,7 +2715,9 @@ I. Cuando el delito se cometa en riña o duelo se impondrán de tres a diez año
 
 II. Cuando el delito se cometa bajo alguna de las siguientes circunstancias, se impondrá de cinco a veinte años de prisión y de cincuenta a trescientos días multa.
 
-a) En estado de emoción violenta;
+> <small>(REFORMADO, G.G. 18 DE MARZO DE 2011)</small>
+
+a) En estado de emoción violenta; en los casos a que se refiere el artículo 242 Bis, no se aplicará esta atenuante.
 
 b) En vindicación próxima de una ofensa grave causada al autor del delito, su cónyuge, concubina, concubinario, ascendientes, descendientes, hermanos, tutor, pupilo, adoptante o adoptado;
 
@@ -2975,9 +3047,17 @@ Comete el delito de hostigamiento sexual, quien con fines de lujuria asedie a pe
 
 Si el sujeto activo fuera servidor público y utilizare los medios o circunstancias que el cargo le proporciona, además de la pena señalada, será destituido del cargo.
 
-> <small>(ADICIONADO, G.G. 31 DE JULIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 18 DE MARZO DE 2011)</small>
 
-Artículo 269 BIS.- Comete el delito de acoso sexual, quien con fines de lujuria asedie reiteradamente a persona de cualquier sexo, aprovechándose de cualquier circunstancia que produzca desventaja, indefensión o riesgo inminente, para la víctima; y se le impondrán de seis meses a dos años de prisión o de treinta a ciento veinte días multa.
+Artículo 269 BIS.- Comete el delito de acoso sexual, quien con fines de lujuria asedie reiteradamente a persona de cualquier sexo, aprovechándose de cualquier circunstancia que produzca desventaja, indefensión o riesgo inminente, para la víctima.
+
+> <small>(ADICIONADO, G.G. 18 DE MARZO DE 2011)</small>
+
+También incurre en acoso, quien, con fines eróticos o sexuales, produzca, fije, grabe, o videograbe imágenes, voz o sonidos de un menor de edad, o bien, de cualquier persona, sin su consentimiento, en instalaciones o vehículos destinados al transporte público de pasajeros.
+
+En ambos casos se impondrán de seis meses a dos años de prisión o de treinta a ciento veinte días multa.
+
+> <small>(ADICIONADO, G.G. 31 DE JULIO DE 2008)</small>
 
 Si el sujeto activo fuera servidor público y utilizare los medios o circunstancias que el cargo le proporciona, además de la pena señalada, será destituido de su cargo.
 
@@ -3215,7 +3295,7 @@ XI. Cuando se cometa por los obreros, artesanos o discípulos, en la casa, talle
 
 XII. Cuando el robo recaiga en expedientes o documentos de protocolo, oficina o archivos públicos o en documentos que contengan obligación, liberación o transmisión de deberes que obren en expediente judicial, se impondrán de uno a cinco años de prisión. Si el delito lo comete el servidor público de la dependencia en que se encuentre el expediente o documento, se le impondrán además destitución definitiva e inhabilitación hasta por veinte años para desempeñar otro empleo, cargo o comisión públicos;
 
-XIII. Cuando el robo se cometa en lugar cerrado, la pena será de tres a nueve años. Se entenderá por lugar cerrado, cualquier recinto notoriamente aislado del espacio circundante al que el activo no tenga libre acceso, independientemente de que se encuentren abiertas la puertas o rotos los muros.
+XIII. Cuando el robo se cometa en lugar cerrado, la pena será de tres a nueve años. Se entenderá por lugar cerrado, cualquier recinto notoriamente aislado del espacio circundante al que el activo no tenga libre acceso, independientemente de que se encuentren abiertas la puertas o rotos los muros;
 
 Si en los actos mencionados participa algún servidor público que tenga a su cargo funciones de prevención, persecución, sanción del delito o de ejecución de penas, además de las sanciones a que se refiere este artículo, se le aumentará la pena de prisión en una mitad más, destitución definitiva e inhabilitación por veinte años para desempeñar cualquier empleo, cargo o comisión públicos.
 
@@ -3765,7 +3845,7 @@ SEGUNDO.- Este Código, entrará en vigor cinco días después de su publicació
 
 TERCERO.- Se abroga el Código Penal para el Estado de México publicado en la Gaceta del Gobierno el veintiséis de enero de mil novecientos ochenta y seis.
 
-CUARTO.- El Código abrogado seguirá aplicándose para los hechos u omisiones ejecutados durante su vigencia, a menos que conforme al nuevo Código, hayan dejado de considerarse como delitos o que los sujetos al mismo manifiesten su voluntad de acogerse, al presente ordenamiento como más favorable.
+CUARTO.- El Código abrogado seguirá aplicándose para los hechos u omisiones ejecutados durante su vigencia, a menos que conforme al nuevo Código, hayan dejado de considerarse como delitos o que los sujetos al mismo manifiesten su voluntad de acogerse, al presente ordenamiento como mas favorable.
 
 QUINTO.- El artículo 148, que se refiere al delito de prestación ilícita del servicio público de transporte de pasajeros, entrará en vigor a los tres años, a partir del inicio de la vigencia del presente decreto.
 
@@ -4011,13 +4091,13 @@ SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 
 TERCERO.- La reforma al Penúltimo Párrafo del artículo 12, y la adición de un Segundo Párrafo a la fracción VI del artículo 162 del Código de Procedimientos Penales para el Estado de México, estarán en vigor en los siguientes términos:
 
-Hasta, el treinta y uno de marzo de dos mil diez en los Distritos judiciales de Chalco, Otumba y Texcoco;
+Hasta, el treinta y uno de marzo de dos mil diez en los Distritos Judiciales de Chalco, Otumba y Texcoco;
 
 Hasta, el treinta de septiembre de dos mil diez en los Distritos Judiciales de Nezahualcóyotl, El Oro. Ixtlahuaca. Sultepec y Temascaltepec;
 
 Hasta, el treinta y uno de marzo de dos mil once en los Distritos Judiciales de Tlalnepantla, Cuautitlán y Zumpango;
 
-Hasta, el treinta de septiembre de dos mil once en los Distritos judiciales de Ecatepec de Morelos, Jilotepec y Valle de Chalco.
+Hasta, el treinta de septiembre de dos mil once en los Distritos Judiciales de Ecatepec de Morelos, Jilotepec y Valle de Chalco.
 
 CUARTO.- Los artículos 2.134 al 2.140 del Código de Procedimientos Civiles del Estado de México, quedarán derogados en las fechas y términos señalados a continuación:
 
@@ -4106,3 +4186,21 @@ G.G. 15 DE MARZO DE 2011.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
 SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 18 DE MARZO DE 2011.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+TERCERO.- Los hechos delictuosos cometidos con anterioridad a la entrada en vigor del presente Decreto, serán sancionados de conformidad con las disposiciones vigentes en la fecha de su comisión.
+
+CUARTO.- La Procuraduría General de Justicia del Estado de México, dentro del plazo de seis meses siguientes a la entrada en vigor de este Decreto, de acuerdo con las disposiciones administrativas que rigen su organización interna y en términos de su presupuesto, instalará módulos para la recepción de denuncias y querellas relacionados con delitos cometidos en el transporte público de pasajeros.
+
+Asimismo, diseñará y pondrá en marcha campañas preventivas, en coordinación con las autoridades competentes, orientadas a inhibir el delito de acoso en el transporte público de pasajeros.
+
+QUINTO.- El Consejo de la Judicatura del Estado deberá proveer respecto de la capacitación a la que deberán sujetarse los jueces y magistrados con especialización en violencia de género y adscribirá a cada región judicial los que sean necesarios conforme a la demanda del servicio.
+
+SEXTO.- El Procurador General de Justicia del Estado de México, deberá expedir el acuerdo a que se refiere la fracción XXV del artículo 51 de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de México, en un plazo máximo de quince días, contados a partir de la publicación del presente Decreto.
+
+SÉPTIMO.- La Procuraduría General de Justicia del Estado de México, emitirá en un plazo no mayor de 60 días naturales siguientes a la vigencia, los protocolos de investigación mínimos para la comprobación de los nuevos delitos tipificados del presente decreto.
