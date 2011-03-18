@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-del-tribunal-superior-de-justicia-del-distrito-258
 country: "mx"
 rank: "ley_organica"
 publication_date: "1996-01-29"
-last_updated: "2009-09-10"
+last_updated: "2011-03-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2580&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1996-01-09"
 
 LEY ORGANICA DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 10 DE SEPTIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE MARZO DE 2011.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 29 de enero de 1996 y republicada en la Sección Primera del Diario Oficial de la Federación, el miércoles 7 de febrero de 1996.
 
@@ -122,11 +122,11 @@ Los auxiliares comprendidos en las fracciones III a IX de este artículo están 
 
 El Jefe de Gobierno del Distrito Federal, facilitará el ejercicio de las funciones a que se refiere éste artículo.
 
+> <small>(REFORMADO, G.O. 18 DE MARZO DE 2011)</small>
+
 ###### Artículo 5o.
 
-Para los efectos de esta Ley, habrá un solo partido judicial con la extensión y límites que para el Distrito Federal señale la Ley Orgánica de la Administración Pública correspondiente.
-
-La presente Ley será aplicable, en lo conducente, al Juzgado Mixto ubicado en las Islas Marías.
+Para los efectos de esta Ley, habrá un sólo partido judicial con la extensión y límites que para el Distrito Federal señale la Ley Orgánica de la Administración Pública correspondiente.
 
 ## TITULO SEGUNDO. De las Condiciones y Prohibiciones para Ejercer Funciones Judiciales
 
@@ -484,17 +484,19 @@ XIX. Las demás que expresamente le confieran esta ley y otras disposiciones apl
 
 ### CAPITULO II. Del Presidente del Tribunal Superior de Justicia del Distrito Federal
 
-> <small>(REFORMADO, G.O. 24 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO, G.O. 18 DE MARZO DE 2011)</small>
 
 ###### Artículo 33.
 
-El Presidente del Tribunal Superior de Justicia del Distrito Federal durará en su cargo cuatro años y no podrá ser reelecto para el período inmediato ni ocupar nuevamente el cargo por motivo alguno. Será electo de entre los Magistrados que tengan una antigüedad no menor de tres años en su cargo, por el Pleno del Tribunal Superior de Justicia del Distrito Federal mediante escrutinio secreto, en la última sesión que habrá de celebrarse en el mes de diciembre del año previo a su mandato.
+El Presidente del Tribunal Superior de Justicia del Distrito Federal durará en su cargo cuatro años y podrá ser reelecto, por una sola vez para el período siguiente. Será electo de entre los Magistrados que tengan una antigüedad no menor de tres años en su cargo, por el Pleno del Tribunal Superior de Justicia del Distrito Federal mediante escrutinio secreto, en la última sesión que habrá de celebrarse en el mes de diciembre del año previo a su mandato.
 
-El período de ejercicio del Presidente iniciará en el mes de enero del año que corresponda y rendirá la protesta de Ley ante el Pleno del Tribunal Superior de Justicia del Distrito Federal, en la primer sesión.
+El período de ejercicio del Presidente iniciará en el mes de enero del año que corresponda y rendirá la protesta de Ley ante el Pleno del Tribunal Superior de Justicia del Distrito Federal, en la primera sesión.
+
+> <small>(REFORMADO, G.O. 18 DE MARZO DE 2011)</small>
 
 ###### Artículo 34.
 
-El Presidente tendrá las atribuciones que le confiere la presente Ley, siendo su función principal la de velar para que la administración de justicia sea expedita, dictando al efecto las providencias que fueren necesarias, vigilando el funcionamiento de los diversos órganos jurisdiccionales y administrativos por sí o por conducto de los servidores públicos judiciales facultados al efecto.
+El Presidente tendrá las atribuciones que le confiere la presente Ley, siendo sus funciones principales las de: impulsar el desarrollo del Sistema de Impartición y Administración de Justicia en el Distrito Federal, procurar la correcta aplicación de la ley y velar para que la administración de justicia sea eficaz y expedita; dictando al efecto las providencias que fueren necesarias, promoviendo la modernización y adecuado funcionamiento de los diversos órganos jurisdiccionales y administrativos, por sí o por conducto de los servidores públicos judiciales facultados al efecto.
 
 ###### Artículo 35.
 
@@ -516,7 +518,9 @@ b). Ante las autoridades en cualquier procedimiento en que el Tribunal Superior 
 
 II. Nombrar a los Secretarios de la Presidencia y del Pleno del Tribunal;
 
-III. Designar a los Secretarios, Auxiliares y demás personal de la Presidencia;
+> <small>(REFORMADA, G.O. 18 DE MARZO DE 2011)</small>
+
+III. Designar a los Secretarios Auxiliares y Secretarios Técnicos, y demás personal de la Presidencia. De igual forma a los funcionarios, técnicos y personal que señale la presente ley;
 
 IV. Llevar el turno de los Magistrados que se excusen de conocer de alguno de los asuntos de su competencia o que sean recusados, para suplirlos con otros Magistrados;
 
@@ -528,7 +532,9 @@ VII. Llevar la correspondencia del Tribunal Superior de Justicia;
 
 VIII. Recibir quejas sobre demoras, excusas o faltas en el despacho de los negocios, turnándolas, en su caso, a quien corresponda;
 
-IX. Formar la estadística judicial con los datos que proporcionan las Salas y Juzgados del Tribunal, y
+> <small>(REFORMADA, G.O. 18 DE MARZO DE 2011)</small>
+
+IX. Regular, instrumentar, sistematizar, dirigir y supervisar en el Tribunal Superior de Justicia del Distrito Federal, las funciones de desarrollo institucional, programación, política financiera, información, evaluación y de coordinación con otros sectores e instituciones; asimismo le corresponde instrumentar y supervisar el Programa General de Trabajo de la Institución, con la colaboración y participación de todas las áreas integrantes de la misma. Para la realización de esas funciones dispondrá de las correspondientes unidades de apoyo, de conformidad con las disponibilidades presupuestales del Tribunal y con las facultades que se les confieran en el Reglamento Interior del mismo;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 24 DE ABRIL DE 2003)</small>
 
@@ -538,11 +544,11 @@ a) En un plazo no mayor de cinco días, sobre la vacante de Magistrado que, por 
 
 b) En un plazo no mayor de cinco días, sobre la vacante de Magistrado que, por incapacidad física o mental, esté imposibilitado para el desempeño del cargo, y
 
-c) Con una antelación no menor a cuarenta y cinco días, el nombre del o los Magistrados que estén por concluir el ejercicio de su encargo.
+c) Con una antelación no menor a cuarenta y cinco días, el nombre del o los Magistrados que estén por concluir el ejercicio de su encargo;
 
-> <small>(ADICIONADA, G.O. 24 DE ABRIL DE 2003)</small>
+> <small>(REFORMADA, G.O. 18 DE MARZO DE 2011)</small>
 
-XI. Elaborar y difundir la información estadística relevante desglosada por rubros y categorías, ya sea para fines meramente informativos, o bien para el seguimiento, control y evaluación de los asuntos. El Consejo de la Judicatura del Distrito Federal establecerá los niveles de divulgación y privilegios de acceso a la misma, según la naturaleza y fines de la información; y
+XI. Formar la estadística judicial con los datos que proporcionan las Salas y Juzgados del Tribunal, así como elaborar y difundir la información estadística relevante, desglosada por rubros y categorías; ya sea para fines meramente informativos, o bien para el seguimiento, control y evaluación de los asuntos. El Consejo de la Judicatura del Distrito Federal establecerá los niveles de divulgación y privilegios de acceso a la misma, según la naturaleza y fines de la información;
 
 > <small>(ADICIONADA [N. DE E. REUBICADA ANTES FRACCION X], G.O. 24 DE ABRIL DE 2003)</small>
 
@@ -566,13 +572,23 @@ VI. Autorizar en unión del Secretario de Acuerdos que corresponda, las actas de
 
 VII. Dar cuenta al Tribunal en Pleno con las demandas de responsabilidad civil presentadas en contra de los Magistrados;
 
-VIII. Turnar a la Sala que corresponda, para los efectos del párrafo segundo del artículo 6 del Título especial de la Justicia de Paz del Código de Procedimientos Civiles para el Distrito Federal, el expediente que se haya formado con motivo de la competencia suscitada entre los jueces a que se refiere el precepto legal invocado, en lo que toca a la cuantía del negocio;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+VIII. (DEROGADA, G.O. 18 DE MARZO DE 2011)
 
 IX. Turnar a la Sala que competa, para los efectos a que hubiere lugar, los expedientes a que se refiere el párrafo primero del artículo 165 del Código de Procedimientos Civiles para el Distrito Federal;
 
-X. Dar cuenta al Tribunal en Pleno de los actos que lleve a cabo en el ejercicio de sus funciones en el informe anual, y
+> <small>(REFORMADA, G.O. 18 DE MARZO DE 2011)</small>
 
-XI. Las demás que expresamente le confiera esta Ley y otras disposiciones aplicables.
+X. Dar cuenta al Tribunal en Pleno, en el informe anual correspondiente, de los actos que lleve a cabo en el ejercicio de sus funciones, así como del desempeño general de los servicios que le sean adscritos;
+
+> <small>(REFORMADA, G.O. 18 DE MARZO DE 2011)</small>
+
+XI. Aprobar la formalización de acuerdos y convenios de colaboración teórico-académica, con instituciones públicas o privadas tendientes a una mayor profesionalización y capacitación en el campo de la impartición de justicia; y
+
+> <small>(ADICIONADA, G.O. 18 DE MARZO DE 2011)</small>
+
+XII. Las demás que expresamente le confiera esta Ley y otras disposiciones aplicables.
 
 ### CAPITULO III. De las Salas del Tribunal
 
@@ -728,11 +744,13 @@ Cualquiera de los Magistrados podrá determinar que el fallo se realice en forma
 
 Las Salas al resolver sobre las excusas de los Jueces, en caso de que éstas sean infundadas, remitirán la resolución al Consejo de la Judicatura del Distrito Federal para que imponga la sanción correspondiente.
 
-> <small>(REFORMADO, G.O. 24 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO, G.O. 18 DE MARZO DE 2011)</small>
 
-Para el desempeño de los asuntos encomendados, cada Sala tendrá cuando menos un Secretario de Acuerdos, nueve Secretarios Proyectistas y un Secretario Auxiliar Actuario, que serán designados y removidos por los Magistrados integrantes de la Sala y la planta de servidores públicos de la administración de justicia que fije el presupuesto de egresos.
+Para el desempeño de los asuntos encomendados, cada Sala tendrá cuando menos un Secretario de Acuerdos, un Secretario Auxiliar, nueve Secretarios Proyectistas y un Secretario Actuario, que serán designados y removidos por los Magistrados integrantes de la Sala y la planta de servidores públicos de la administración de justicia que fije el presupuesto de egresos.
 
-Los Secretarios de Acuerdos de Salas, tendrán en lo conducente, las mismas atribuciones que los Secretarios de Acuerdos de los Juzgados de Primera Instancia.
+> <small>(REFORMADO, G.O. 18 DE MARZO DE 2011)</small>
+
+Los Secretarios de Acuerdos y Secretarios Auxiliares de Salas, tendrán en lo conducente, las mismas atribuciones que los Secretarios de Acuerdos de los Juzgados de Primera Instancia.
 
 ## TITULO CUARTO. De la Organización de los Juzgados del Tribunal Superior de Justicia
 
@@ -782,9 +800,17 @@ Los Juzgados de lo Civil conocerán:
 
 I. De los asuntos de jurisdicción voluntaria, cuyo conocimiento no corresponda a la materia Familiar;
 
-II. De los juicios contenciosos que versen sobre la propiedad o demás derechos reales sobre inmuebles, siempre que el valor de éstos sea mayor de sesenta mil pesos, cantidad que se actualizará en forma anualizada en el mes de diciembre para empezar a regir el primero de enero siguiente, de acuerdo con el Indice Nacional de Precios al Consumidor que determine el Banco de México;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-III. De los demás negocios de jurisdicción contenciosa, común y concurrente, cuya cuantía exceda de veinte mil pesos y que será actualizada en los mismos términos de la fracción anterior;
+> <small>(REFORMADA, G.O. 18 DE MARZO DE 2011)</small>
+
+II. De los juicios contenciosos que versen sobre la propiedad o demás derechos reales siempre que el valor de la cosa sea igual o mayor a la cantidad que el artículo 691 del Código de Procedimientos Civiles para el Distrito Federal, establece para que un juicio sea apelable, cantidad que se actualizará en forma anual de acuerdo con el factor de actualización que se obtenga de dividir el Índice Nacional de Precios al Consumidor del mes de noviembre del año que se calcula entre el Índice Nacional de Precios al Consumidor de noviembre del año inmediato anterior que determine el Banco de México, y a falta de éste el que lo sustituya; dicho valor se dará a conocer en el boletín judicial.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, G.O. 18 DE MARZO DE 2011)</small>
+
+III. De los demás negocios de jurisdicción contenciosa, común y concurrente que versen sobre derechos personales cuya suerte principal sea igual o mayor a la cantidad que los artículos 691 del Código de Procedimientos Civiles para el Distrito Federal y 1340 del Código de Comercio establecen para que un juicio sea apelable, misma que se actualizará en términos de la fracción anterior; dicho valor se dará a conocer en el boletín judicial.
 
 IV. De los interdictos;
 
@@ -934,23 +960,31 @@ III. Los servidores públicos de la administración de justicia que autorice el 
 
 El Secretario de Acuerdos que determine el Juez, será el jefe inmediato de la oficina en el orden administrativo, dirigirá las labores de ella conforme a las instrucciones del propio Juez y lo suplirá en sus ausencias, cuando no excedan de un mes.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 24 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 18 DE MARZO DE 2011)</small>
 
 ###### Artículo 58.
 
-Son obligaciones de los Secretarios de Acuerdos.
+Son obligaciones de los Secretarios de Acuerdos y Secretarios Auxiliares.
 
-> <small>(REFORMADA, G.O. 24 DE ABRIL DE 2003)</small>
+> <small>(REFORMADA, G.O. 18 DE MARZO DE 2011)</small>
 
-I. Formular los Proyectos de acuerdo, realizar emplazamientos y notificaciones cuando lo ordene el juez;
+I. Formular los Proyectos de acuerdo, realizar emplazamientos y notificaciones cuando lo ordene el órgano jurisdiccional;
 
-II. Dar cuenta diariamente a sus jueces bajo su responsabilidad y dentro de las veinticuatro horas siguientes a su presentación ante la oficialía de partes del Juzgado, con todos los escritos y promociones, en los negocios de la competencia de aquellos, así como de los oficios y demás documentos que se reciban en el Juzgado;
+> <small>(REFORMADA, G.O. 18 DE MARZO DE 2011)</small>
 
-III. Autorizar los despachos, exhortos, actas, diligencias, autos y toda clase de resoluciones que se expidan, asienten, practiquen o dicten por el Juez;
+II. Dar cuenta diariamente al órgano jurisdiccional bajo su responsabilidad y dentro de las veinticuatro horas siguientes a su presentación ante la oficialía de partes del Tribunal, con todos los escritos y promociones, en los negocios de la competencia de aquellos, así como de los oficios y demás documentos que se reciban en él;
 
-IV. Asentar en los expedientes las certificaciones que procedan conforme a la ley o que el Juez ordene;
+> <small>(REFORMADA, G.O. 18 DE MARZO DE 2011)</small>
 
-V. Asistir a las diligencias de pruebas que debe recibir el Juez de acuerdo con las leyes aplicables;
+III. Autorizar y dar fe de los despachos, exhortos, actas, diligencias, autos y toda clase de resoluciones que se expidan, asienten, practiquen o dicten por el órgano jurisdiccional;
+
+> <small>(REFORMADA, G.O. 18 DE MARZO DE 2011)</small>
+
+IV. Asentar en los expedientes las certificaciones que procedan conforme a la ley o que el órgano jurisdiccional ordene;
+
+> <small>(REFORMADA, G.O. 18 DE MARZO DE 2011)</small>
+
+V. Asistir a las diligencias de pruebas que debe recibir el órgano jurisdiccional de acuerdo con las leyes aplicables;
 
 VI. Expedir las copias autorizadas que la ley determine o deban darse a las partes en virtud de decreto judicial;
 
@@ -958,25 +992,51 @@ VI. Expedir las copias autorizadas que la ley determine o deban darse a las part
 
 VII. Cuidar que los expedientes sean debidamente foliados, utilizando, para el efecto el equipo que permita imprimir de forma permanente dicho folio y el material aprobado por el Consejo de la Judicatura del Distrito Federal para la integración de los expedientes. Al agregar o sustraer alguna o algunas de las hojas de éstos, asentar razón con motivo de la causa, sellando las actuaciones, oficios y demás documentos que lo requieran, rubricando aquéllas en el centro del escrito;
 
-VIII. Guardar en el secreto del Juzgado los pliegos, escritos o documentos y valores cuando así lo disponga la ley;
+> <small>(REFORMADA, G.O. 18 DE MARZO DE 2011)</small>
 
-IX. Inventariar y conservar en su poder los expedientes mientras se encuentren en trámite en el Juzgado y entregarlos con las formalidades legales, cuando deba tener lugar la remisión;
+VIII. Guardar en el secreto del órgano jurisdiccional los pliegos, escritos o documentos y valores cuando así lo disponga la ley;
 
-X. Notificar en el Juzgado, personalmente a las partes, en los juicios o asuntos que se ventilen ante él, en los términos del artículo 123 y demás relativos del Código de Procedimientos Civiles del Distrito Federal;
+> <small>(REFORMADA, G.O. 18 DE MARZO DE 2011)</small>
+
+IX. Inventariar y conservar en su poder los expedientes mientras se encuentren en trámite en el órgano jurisdiccional y entregarlos con las formalidades legales, cuando deba tener lugar la remisión;
+
+> <small>(REFORMADA, G.O. 18 DE MARZO DE 2011)</small>
+
+X. Notificar en el local del órgano jurisdiccional, personalmente a las partes, en los juicios o asuntos que se ventilen ante él, en los términos del artículo 123 y demás relativos del Código de Procedimientos Civiles del Distrito Federal;
 
 XI. Cuidar y vigilar que el archivo se arregle por orden alfabético, de apellidos del actor o del promovente en asuntos de jurisdicción voluntaria;
 
-XII. Remitir los expedientes al Archivo Judicial, a la superioridad o al substituto legal, previo registro en sus respectivos casos;
+> <small>(REFORMADA, G.O. 18 DE MARZO DE 2011)</small>
 
-XIII. Ordenar y vigilar que se despachen sin demora los asuntos y correspondencia del Juzgado, ya sea que se refiera a negocios judiciales del mismo o al desahogo de los oficios que se manden librar en las determinaciones respectivas, dictadas en los expedientes;
+XII. Remitir los expedientes al Archivo Judicial, a la superioridad o al substituto legal, previo registro en sus respectivos casos, conforme a los lineamientos marcados en esta ley.
 
-XIV. Tener a su cargo, bajo su responsabilidad y debidamente autorizados para su uso, los libros de control del Juzgado, designando, de entre los empleados subalternos del mismo, al que debe llevarlos;
+En el caso de la remisión de expedientes, tocas, testimonios y constancias al Archivo Judicial, en aquellos casos en que se ordene su depuración, deberá certificar y entregar al titular del órgano jurisdiccional, las copias de las constancias necesarias para que quede registro de la orden judicial;
 
-XV. Conservar en su poder el sello del Juzgado;
+> <small>(REFORMADA, G.O. 18 DE MARZO DE 2011)</small>
 
-XVI. Ejercer bajo su responsabilidad, por sí mismo o por conducto de los servidores públicos de la administración de justicia subalternos, la vigilancia que sea necesaria en la oficina, para evitar la pérdida o extravío de expedientes. En cada Juzgado existirá una mesa que controlará su ubicación y distribución, que sólo se mostrarán mediante el vale de resguardo respectivo previa identificación, el cual será sellado a la devolución del expediente y entregado en la mesa de salida del Juzgado, y
+XIII. Ordenar y vigilar que se despachen sin demora los asuntos y correspondencia del órgano jurisdiccional, ya sea que se refiera a negocios judiciales del mismo o al desahogo de los oficios que se manden librar en las determinaciones respectivas, dictadas en los expedientes;
+
+> <small>(REFORMADA, G.O. 18 DE MARZO DE 2011)</small>
+
+XIV. Tener a su cargo, bajo su responsabilidad y debidamente autorizados para su uso, los libros de control del órgano jurisdiccional, designando, de entre los empleados subalternos del mismo, al que debe llevarlos;
+
+> <small>(REFORMADA, G.O. 18 DE MARZO DE 2011)</small>
+
+XV. Conservar en su poder el sello del órgano jurisdiccional;
+
+> <small>(REFORMADA, G.O. 18 DE MARZO DE 2011)</small>
+
+XVI. Ejercer bajo su responsabilidad, por sí mismo o por conducto de los servidores públicos de la administración de justicia subalternos, la vigilancia que sea necesaria en la oficina, para evitar la pérdida o extravío de expedientes. En cada Juzgado existirá una mesa que controlará su ubicación y distribución, que sólo se mostrarán mediante el vale de resguardo respectivo previa identificación oficial vigente, el cual será sellado a la devolución del expediente y entregado en la mesa de salida del Juzgado, y
 
 XVII. Las demás que les confieran las leyes y los reglamentos.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, G.O. 18 DE MARZO DE 2011)</small>
+
+###### Artículo 58 Bis.
+
+Los Secretarios de Acuerdos adscritos a los juzgados de justicia oral civil tendrán las obligaciones y atribuciones que establece esta ley en los artículos 57 y 58, y además deberán formular los proyectos de resoluciones que se dicten en los juicios orales.
 
 > <small>(REFORMADO, G.O. 14 DE NOVIEMBRE DE 2007)</small>
 
@@ -992,15 +1052,33 @@ II. Las demás que la Ley o los Jueces les encomienden, relativas a asuntos de l
 
 Los Conciliadores tendrán las atribuciones y obligaciones siguientes:
 
-I. Estar presentes en la audiencia de conciliación, escuchar las pretensiones de las partes y procurar su avenencia;
+> <small>(REFORMADA, G.O. 18 DE MARZO DE 2011)</small>
+
+I. Estar presentes en la audiencia de conciliación, escuchar las pretensiones de las partes y procurar de manera eficiente su avenencia;
 
 II. Dar cuenta de inmediato al titular del Juzgado del convenio al que hubieren llegado los interesados para efectos de su aprobación, en caso de que proceda, y diariamente informar al Juez de los resultados logrados en las audiencias de conciliación que se les encomienden;
 
-III. Autorizar las diligencias en que intervengan;
+> <small>(REFORMADA, G.O. 18 DE MARZO DE 2011)</small>
+
+III. Autorizar las diligencias en que intervengan y dar fe de las resoluciones pronunciadas en ellas por el titular del órgano jurisdiccional;
 
 IV. Sustituir al Secretario de Acuerdos en sus ausencias temporales, y
 
-V. Las demás que los Jueces y esta Ley les encomienden, incluyendo emplazamientos y notificaciones.
+> <small>(REFORMADA, G.O. 18 DE MARZO DE 2011)</small>
+
+V. Notificar en el Juzgado, personalmente a las partes, en los juicios o asuntos que se ventilen ante él, en los términos del artículo 123 y demás relativos del Código de Procedimientos Civiles del Distrito Federal;
+
+> <small>(ADICIONADA, G.O. 18 DE MARZO DE 2011)</small>
+
+VI. Auxiliar al Secretario de Acuerdos a realizar aquellas certificaciones inherentes a la función de dicho servidor público;
+
+> <small>(ADICIONADA, G.O. 18 DE MARZO DE 2011)</small>
+
+VII. Preparar adecuada y eficientemente todo lo concerniente a la audiencia de conciliación y dar cuenta al Juez por lo menos con tres días de anticipación a la celebración de la misma; y
+
+> <small>(ADICIONADA, G.O. 18 DE MARZO DE 2011)</small>
+
+VIII. Las demás que los Jueces y esta Ley les encomienden, incluyendo emplazamientos y notificaciones.
 
 ###### Artículo 61.
 
@@ -1030,6 +1108,24 @@ IV. La fecha en que haya practicado la diligencia, notificación o acto que deba
 
 V. La fecha de devolución del expediente.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, G.O. 18 DE MARZO DE 2011)</small>
+
+###### Artículo 62 Bis.
+
+Son obligaciones de los Secretarios Proyectistas, así como de los Secretarios de Acuerdos de Justicia Oral Civil:
+
+I. Elaborar proyectos de sentencia o resolución en el término señalado por su titular que permita a este último su oportuna revisión, así como acatar de manera inmediata las instrucciones y observaciones hechas a sus proyectos.
+
+Al aprobarse éstos, el proyectista asentará su firma en cada una de las fojas que integren la sentencia. De carecer la sentencia de dicha firma, se entenderá que la resolución se emitió sin la colaboración del proyectista.
+
+II. Guardar el debido secreto respecto de los asuntos que le son turnados para la elaboración del proyecto de sentencia o resolución.
+
+III. En la elaboración de proyectos de sentencias o resoluciones, considerar las leyes y disposiciones vigentes aplicables según lo requiera el caso en estudio, atendiendo a las constancias de autos, y
+
+IV. Las demás que deriven de la ley.
+
 > <small>(REFORMADO, G.O. 24 DE ABRIL DE 2003)</small>
 
 ###### Artículo 63.
@@ -1044,7 +1140,13 @@ Los jueces podrán facultar a los pasantes de derecho que laboren en el juzgado 
 
 ### CAPITULO V. De la Justicia de Paz
 
-### CAPITULO I. De los Magistrados
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+### CAPÍTULO VI. De la Justicia Civil de Cuantía Menor, del Proceso Oral Civil y Penal de Delitos no graves
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO Y REUBICADO, G.O. 18 DE MARZO DE 2011)</small>
 
 ###### Artículo 64.
 
@@ -1058,43 +1160,47 @@ Los jueces podrán facultar a los pasantes de derecho que laboren en el juzgado 
 
 (DEROGADO, G.O. 24 DE ABRIL DE 2003)
 
+> <small>(DEROGADO, G.O. 18 DE MARZO DE 2011)</small>
+
+### CAPITULO I. De los Magistrados
+
+###### Artículo 67.
+
+(DEROGADO, G.O. 18 DE MARZO DE 2011)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+###### Artículo 68.
+
+(DEROGADO, G.O. 18 DE MARZO DE 2011)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+###### Artículo 69.
+
+(DEROGADO, G.O. 18 DE MARZO DE 2011)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+###### Artículo 70.
+
+(DEROGADO, G.O. 18 DE MARZO DE 2011)
+
+> <small>(ADICIONADO, G.O. 18 DE MARZO DE 2011)</small>
+
 ### CAPITULO II. De los Jueces y Servidores Públicos de la Administración de Justicia
 
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 24 DE ABRIL DE 2003)</small>
 
-###### Artículo 67.
-
-Los Jueces de Paz del Distrito Federal serán designados por el Consejo de la Judicatura.
-
-###### Artículo 68.
-
-Para los efectos de la designación de los Jueces de Paz, el Distrito Federal se considerará dividido en las Delegaciones que fije la Ley Orgánica de la Administración Pública del Distrito Federal.
-
-###### Artículo 69.
-
-El Consejo de la Judicatura señalará la competencia territorial de los Juzgados de Paz, pudiendo un Juzgado abarcar jurisdicción en una o varias Delegaciones. Se podrán establecer dos o más Juzgados en una Delegación.
-
-> <small>(REFORMADO, G.O. 24 DE ABRIL DE 2003)</small>
-
-###### Artículo 70.
-
-Los Juzgados de Paz, para el despacho de los negocios, contarán con los servidores públicos de la administración de justicia que fije el presupuesto.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
-
-### CAPITULO I. De los Síndicos
-
 ###### Artículo 71.
 
-Los Juzgados de Paz en Materia Civil, conocerán:
+Los Jueces de lo Civil de Cuantía Menor conocerán:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADA, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADA, G.O. 18 DE MARZO DE 2011)</small>
 
-I. De los juicios contenciosos que versen sobre la propiedad o demás derechos reales sobre inmuebles, que tengan un valor hasta de sesenta mil pesos. En los demás negocios de jurisdicción contenciosa, común o concurrente, cuyo monto no exceda de veinte mil pesos. Dichas cantidades se actualizaran en forma anualizada que deberá regir a partir de primero de enero de cada año, de acuerdo con el Índice Nacional de Precios al Consumidor que determine el Banco de México. Se exceptúan los interdictos y los asuntos de competencia de los jueces de lo familiar;
+I. De los negocios de jurisdicción concurrente, cuya suerte principal sea inferior a la cantidad que el artículo 1340 del Código de Comercio establece para que un juicio sea apelable, cantidad que se actualizará en términos del artículo 50 fracción II de esta Ley.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -1106,31 +1212,65 @@ II. De las diligencias preliminares de consignación, con la misma limitación a
 
 > <small>(REFORMADA, G.O. 13 DE MARZO DE 2008)</small>
 
-III. De la diligenciación de los exhortos y despacho de los demás asuntos que les encomienden las leyes; y
+III. De la diligenciación de los exhortos y despacho de los demás asuntos que les encomienden las leyes; y (sic)
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, G.O. 13 DE MARZO DE 2008)</small>
 
-IV. Del Juicio de Pago de Daños Culposos causados con motivo del Tránsito de Vehículos, establecido en el capítulo IV, del Título Séptimo, del Código de Procedimientos Civiles para el Distrito Federal, independientemente del monto que se demande como pago y en los términos y plazos que se señalan en dicho capítulo.
+IV. Del Juicio de Pago de Daños Culposos causados con motivo del Tránsito de Vehículos, establecido en el capítulo IV, del Título Séptimo, del Código de Procedimientos Civiles para el Distrito Federal, independientemente del monto que se demande como pago y en los términos y plazos que se señalan en dicho capítulo;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
+> <small>(ADICIONADA, G.O. 18 DE MARZO DE 2011)</small>
+
+V. De los juicios hipotecarios y ejecutivos civiles cuya suerte principal sea inferior a la cantidad que establece el artículo 691 del Código de Procedimientos Civiles para el Distrito Federal para que un juicio sea apelable, la cual se actualizará en los términos del artículo 50 fracción II de esta ley.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, G.O. 18 DE MARZO DE 2011)</small>
+
+###### Artículo 71 Bis.
+
+Los Juzgados de Proceso Oral Civil conocerán:
+
+I.- De los juicios contenciosos que versen sobre la propiedad o demás derechos reales cuyo valor de la cosa sea inferior a la cantidad que el artículo 691 del Código de Procedimientos Civiles establece para que un juicio sea apelable, cantidad que se actualizará en términos del artículo 50, fracción II de esta Ley; y
+
+II.- De los juicios que versen sobre derechos personales de naturaleza civil, cuya suerte principal sea inferior a la cantidad que el artículo 691 del Código de Procedimientos Civiles establece para que un juicio sea apelable, cantidad que se actualizará en términos del artículo 50 fracción II de esta Ley.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO Y REUBICADO, G.O. 18 DE MARZO DE 2011)</small>
 
 ###### Artículo 72.
 
-Los Juzgados de Paz en Materia Penal conocerán:
+Los Juzgados Penales de Delitos No Graves conocerán:
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
 
 I. De los delitos no graves así definidos por la ley penal, y
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
+
 II. De la diligenciación de los exhortos y despacho de los demás asuntos que les encomienden las leyes.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, G.O. 18 DE MARZO DE 2011)</small>
+
+###### Artículo 72 Bis.
+
+Los Juzgados a que se refieren los artículos 71, 71 Bis y 72 de esta ley para el despacho de los negocios, contarán con los servidores públicos de la administración de justicia que fije el presupuesto.
 
 > <small>(REFORMADA SU DENOMINACION, G.O. 24 DE ABRIL DE 2003)</small>
 
 ## TITULO QUINTO. Del Procedimiento para Suplir Ausencias de los Servidores de la Administración de Justicia
 
-### CAPITULO II. De los Interventores, Albaceas, Tutores, Curadores y Depositarios
+### CAPITULO I. De los Síndicos
 
 ###### Artículo 73.
 
@@ -1162,7 +1302,7 @@ Si por defunción, renuncia o incapacidad faltare algún Magistrado, el Jefe de 
 
 En todo caso y mientras se hace la designación, la ausencia será suplida en los términos ya previstos.
 
-### CAPITULO III. De los Peritos
+### CAPITULO II. De los Interventores, Albaceas, Tutores, Curadores y Depositarios
 
 ###### Artículo 76.
 
@@ -1200,7 +1340,7 @@ En todo caso y cuando las ausencias no excedan de quince días los servidores p�
 
 ## TITULO SEXTO. De los Auxiliares de la Administración de Justicia
 
-### CAPITULO IV. Del Servicio Médico Forense
+### CAPITULO III. De los Peritos
 
 ###### Artículo 81.
 
@@ -1276,9 +1416,7 @@ El Síndico que faltare al cumplimiento de las obligaciones que le impone esta L
 
 Los daños y perjuicios que se ocasionaren al concurso por culpa o negligencia del Síndico en el ejercicio de sus funciones, serán a cargo de éste en beneficio de los acreedores, procediéndose a retener la garantía que haya dado sin perjuicio de que se ejercite, por quienes corresponda, la acción o acciones procedentes a fin de asegurar debidamente los intereses del concurso, independientemente de la acción penal en que hubiere incurrido en fraude de acreedores. A este efecto, la garantía respectiva no será cancelada sino cuando hubiere concluido totalmente el procedimiento, aun cuando el Síndico hubiere renunciado o sido removido. Cuando hubiere habido dos o más síndicos, la garantía que cada uno hubiere otorgado responderá en su respectivo ejercicio.
 
-### CAPITULO I. De las Costas
-
-> <small>(REFORMADO, G.O. 24 DE ABRIL DE 2003)</small>
+### CAPITULO IV. Del Servicio Médico Forense
 
 ###### Artículo 95.
 
@@ -1310,7 +1448,9 @@ Asimismo, será causa de remoción del Interventor, no dar aviso oportuno al Jue
 
 Los Albaceas, Tutores, Curadores, Depositarios, así como Interventores diversos a los de concurso, ya sean provisionales o definitivos, designados por los Jueces, deberán llenar todos los requisitos establecidos en este título para los Síndicos, en aquello que sea compatible con su carácter y función.
 
-### CAPITULO II. De los Aranceles
+### CAPITULO I. De las Costas
+
+> <small>(REFORMADO, G.O. 24 DE ABRIL DE 2003)</small>
 
 ###### Artículo 101.
 
@@ -1342,11 +1482,9 @@ Los honorarios de los Peritos designados por el Juez, serán cubiertos de acuerd
 
 > <small>(REFORMADA SU DENOMINACION, G.O. 24 DE ABRIL DE 2003)</small>
 
+### CAPITULO II. De los Aranceles
+
 ### CAPITULO I. Del Archivo Judicial del Distrito Federal y del Registro Público de Avisos Judiciales
-
-### CAPITULO II. De la Dirección General de los Anales de Jurisprudencia y Boletín Judicial
-
-> <small>(REFORMADO, G.O. 24 DE ABRIL DE 2003)</small>
 
 ###### Artículo 107.
 
@@ -1524,7 +1662,7 @@ A los auxiliares de la administración de justicia a que se refiere este título
 
 ## TITULO SEPTIMO. De las Costas y de los Aranceles
 
-### CAPITULO III. De la Unidad de Trabajo Social, del Servicio de Informática y Biblioteca y del Centro de Convivencia Familiar Supervisada
+### CAPITULO II. De la Dirección General de los Anales de Jurisprudencia y Boletín Judicial
 
 > <small>(REFORMADO, G.O. 24 DE ABRIL DE 2003)</small>
 
@@ -1636,7 +1774,7 @@ Si en un juicio civil o mercantil hubiere condenación en costas y los escritos 
 
 Los abogados que intervengan en juicios civiles o mercantiles por derecho propio, cobrarán las costas que fija el presente arancel, aun cuando no sean patrocinados por otro abogado.
 
-### CAPITULO IV. De la Dirección General de Procedimientos Judiciales
+### CAPITULO III. De la Unidad de Trabajo Social, del Servicio de Informática y Biblioteca y del Centro de Convivencia Familiar Supervisada
 
 > <small>(REFORMADO, G.O. 24 DE ABRIL DE 2003)</small>
 
@@ -1750,9 +1888,9 @@ Para regular la cuota anterior, se atenderá a la importancia del negocio, a las
 
 > <small>(REFORMADA SU DENOMINACION, G.O. 24 DE ABRIL DE 2003)</small>
 
-### CAPITULO V. De la Dirección de Consignaciones Civiles y de la Oficialía de Partes Común para los Juzgados
+### CAPITULO IV. De la Dirección General de Procedimientos Judiciales
 
-> <small>(REFORMADO G.O. 24 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO, G.O. 24 DE ABRIL DE 2003)</small>
 
 ###### Artículo 149.
 
@@ -1762,9 +1900,9 @@ El Consejo de la Judicatura organizará y vigilará el correcto funcionamiento d
 
 Se depositarán en el Archivo Judicial:
 
-> <small>(REFORMADA, G.O. 24 DE ABRIL DE 2003)</small>
+> <small>(REFORMADA, G.O. 18 DE MARZO DE 2011)</small>
 
-I. Todos los expedientes concluidos del orden civil y penal;
+I. Todos los expedientes, tocas y testimonios concluidos del orden civil y penal;
 
 II. Los expedientes del orden civil que, aun cuando no estén concluidos, hayan dejado de tramitarse por cualquier motivo durante seis meses;
 
@@ -1773,6 +1911,18 @@ III. Cualesquiera otros expedientes concluidos que conforme a la ley se integren
 IV. Los expedientes y documentos que remita el Consejo de la Judicatura, y
 
 V. Los demás documentos que las leyes determinen.
+
+> <small>(ADICIONADO, G.O. 18 DE MARZO DE 2011)</small>
+
+En todos los casos a que se refieren las fracciones anteriores, deberá atenderse al Reglamento de Archivos del Tribunal y del Consejo de la Judicatura del Distrito Federal, siendo facultad exclusiva del órgano jurisdiccional o del Consejo, según corresponda, determinar qué expedientes son susceptibles de depuración, en términos del Reglamento respectivo, debiendo determinarlo así en aquél acuerdo que ordene su remisión al Archivo Judicial para tales efectos.
+
+> <small>(ADICIONADO, G.O. 18 DE MARZO DE 2011)</small>
+
+En aquellos casos en que el expediente haya de remitirse únicamente para su debido resguardo, no será necesario acuerdo alguno al respecto.
+
+> <small>(ADICIONADO, G.O. 18 DE MARZO DE 2011)</small>
+
+Al devolver el Archivo Judicial un expediente para su radicación en el juzgado, el titular del órgano jurisdiccional al dictar el primer auto que recaiga a esa remisión deberá hacer del conocimiento de las partes sobre la posibilidad de que una vez concluido en su totalidad el expediente, será destruido, previa digitalización del mismo.
 
 ###### Artículo 151.
 
@@ -1784,9 +1934,11 @@ Habrá en el archivo cinco secciones: civil, familiar, penal, administrativa y d
 
 Los órganos judiciales remitirán al Archivo los expedientes respectivos. Para su resguardo llevarán un registro computarizado en el cual harán constar, en forma de inventario, los expedientes que contenga cada remisión y al pie de este inventario pondrá el jefe de archivo su recibo correspondiente.
 
+> <small>(REFORMADO, G.O. 18 DE MARZO DE 2011)</small>
+
 ###### Artículo 153.
 
-Los expedientes y documentos entregados al Archivo serán anotados en un libro general de entradas y en otro que se llevará por orden alfabético y se le marcará con un sello especial de la oficina y arreglados convenientemente para que no sufran deterioros, se clasificarán según el departamento a que correspondan y se depositarán en la sección respectiva, de lo cual se tomará razón en los libros que el reglamento determine, asentándose en ellos los datos necesarios para facilitar la busca (sic) de cualquier expediente o documento archivado.
+Los expedientes y documentos entregados al Archivo serán anotados en un libro general de entradas y en otro que se llevará por orden alfabético y se le marcará con un sello especial de la oficina y arreglados convenientemente para que no sufran deterioros, y se clasificarán tomando en cuenta el departamento a que correspondan así como si se trata de expedientes para su posterior destrucción una vez fenecido el plazo de reserva señalado por la autoridad remitente, y se depositarán en la sección respectiva, de lo cual se tomará razón en los libros que el reglamento determine, asentándose en ellos los datos necesarios para facilitar la busca de cualquier expediente o documento archivado.
 
 ###### Artículo 154.
 
@@ -1826,11 +1978,13 @@ Para el mejor funcionamiento del Archivo se implementará un sistema de digitali
 
 El Consejo de la Judicatura, en atención a la normatividad aplicable en materia de transparencia y acceso a la información pública; protección de datos personales, y archivos públicos, elaborará las disposiciones necesarias para reglamentar los procedimientos para la conservación y destrucción de los acervos documentales con que cuente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO, G.O. 18 DE MARZO DE 2011)</small>
 
-> <small>(ADICIONADO, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
+No podrán ser destruidos aquellos expedientes que no hubieren causado ejecutoria, o bien aquellos que derivados de alguna circunstancia que se advierta de las constancias que los integran, haga imposible su destrucción, a criterio del órgano jurisdiccional o del Consejo de la Judicatura, debiendo fundar y motivar esa determinación al remitir dicho expediente al Archivo Judicial.
 
-No podrán ser destruidos los expedientes que no hubieren causado ejecutoria.
+> <small>(ADICIONADO, G.O. 18 DE MARZO DE 2011)</small>
+
+La negativa injustificada por parte del órgano remitente para la destrucción de un expediente, será causa de responsabilidad administrativa, para lo cual el Director del Archivo Judicial, dará el correspondiente aviso por escrito al Consejo de la Judicatura del Distrito Federal, a efecto de que en el ámbito de su competencia resuelva lo conducente.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -1856,9 +2010,9 @@ Se llevará un registro histórico de los avisos publicados, para facilitar la i
 
 > <small>(REFORMADA SU DENOMINACION, G.O. 24 DE ABRIL DE 2003)</small>
 
-### CAPITULO VI. De la Dirección de Turno de Consignaciones Penales y de Justicia para Adolescentes
+### CAPITULO V. De la Dirección de Consignaciones Civiles y de la Oficialía de Partes Común para los Juzgados
 
-> <small>(REFORMADO, G.O. 14 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO G.O. 24 DE ABRIL DE 2003)</small>
 
 ###### Articulo 161.
 
@@ -1894,9 +2048,9 @@ Queda a cargo de la propia Dirección la publicación de las resoluciones que se
 
 > <small>(REFORMADA SU DENOMINACION, G.O. 24 DE ABRIL DE 2003)</small>
 
-### CAPITULO VII. Del Instituto de Estudios Judiciales
+### CAPITULO VI. De la Dirección de Turno de Consignaciones Penales y de Justicia para Adolescentes
 
-> <small>(REFORMADO, G.O. 24 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO, G.O. 14 DE NOVIEMBRE DE 2007)</small>
 
 ###### Artículo 167.
 
@@ -1930,7 +2084,7 @@ Para ser Director del Centro de Convivencia Familiar deberá reunir los requisit
 
 > <small>(REFORMADA SU DENOMINACION, G.O. 24 DE ABRIL DE 2003)</small>
 
-### CAPITULO VIII. De la Oficialía Mayor
+### CAPITULO VII. Del Instituto de Estudios Judiciales
 
 > <small>(REFORMADO, G.O. 24 DE ABRIL DE 2003)</small>
 
@@ -1970,9 +2124,9 @@ La Oficialía permanecerá abierta durante las horas hábiles a que se refiere e
 
 > <small>(REFORMADA SU DENOMINACION, G.O. 24 DE ABRIL DE 2003)</small>
 
-### CAPITULO IX. De la Dirección Jurídica
+### CAPITULO VIII. De la Oficialía Mayor
 
-> <small>(REFORMADO Y REUBICADO, G.O. 24 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO, G.O. 18 DE MARZO DE 2011)</small>
 
 ###### Artículo 172.
 
@@ -1986,17 +2140,17 @@ En caso de oposición o de no presentarse consignatario, a petición del interes
 
 Esta Dirección estará a cargo de un Director, que deberá satisfacer los requisitos que se establecen en las fracciones I a IV y VI del artículo 17 de esta ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO, G.O. 18 DE MARZO DE 2011)</small>
 
 ###### Artículo 173.
 
-Para los Juzgados Civiles, de Paz Civil, de Extinción de Dominio y Familiares, se contará con una Oficialía de Partes Común, que estará a cargo de un Director, el que deberá reunir los requisitos que se señalan en las fracciones I a IV y VI del artículo 17 de esta ley.
+Para los Juzgados del Ramo Civil, de Extinción de Dominio y Familiares, se contará con una Oficialía de Partes Común, que estará a cargo de un Director, el que deberá reunir los requisitos que se señalan en las fracciones I a IV y VI del artículo 17 de esta ley.
 
 > <small>(REFORMADA SU DENOMINACION, G.O. 14 DE NOVIEMBRE DE 2007)</small>
 
-### CAPITULO X. De la Coordinación de Relaciones Institucionales
+### CAPITULO IX. De la Dirección Jurídica
 
 > <small>(REFORMADO Y REUBICADO, G.O. 24 DE ABRIL DE 2003)</small>
 
@@ -2022,7 +2176,7 @@ El Director deberá reunir los requisitos señalados en el artículo 17 de esta 
 
 La Dirección estará en servicio en los días y horarios que señalen las reglas de turno de los jueces penales.
 
-### CAPITULO XI. De la Dirección de Orientación Ciudadana y Derechos Humanos
+### CAPITULO X. De la Coordinación de Relaciones Institucionales
 
 > <small>(REFORMADO Y REUBICADO, G.O. 24 DE ABRIL DE 2003)</small>
 
@@ -2064,45 +2218,61 @@ El Instituto de Estudios Judiciales llevará a cabo cursos de preparación para 
 
 > <small>(REFORMADA SU DENOMINACION, G.O. 24 DE ABRIL DE 2003)</small>
 
-### CAPITULO XII. De la Coordinación de Comunicación Social
+### CAPITULO XI. De la Dirección de Orientación Ciudadana y Derechos Humanos
 
 > <small>(REFORMADO Y REUBICADO, G.O. 24 DE ABRIL DE 2003)</small>
 
 ###### Artículo 182.
 
-La Oficialía Mayor dependerá del Consejo de la Judicatura del Distrito Federal, por conducto de su Comisión de Administración y Presupuesto, tendrá las siguientes facultades y obligaciones:
+La Oficialía Mayor dependerá del Consejo de la Judicatura del Distrito Federal y en sus funciones podrá ser asistida por la Comisión de Administración y Presupuesto; asimismo contará con las Direcciones Ejecutivas que corresponden a los apartados de este artículo. Además, ejercerá directamente o por conducto de aquéllas las facultades y obligaciones siguientes:
 
-I. Instrumentar y controlar las normas generales aprobadas, así como las directrices, normas y criterios técnicos para el proceso interno de programación, presupuestación, evaluación presupuestal e informática del Tribunal Superior de Justicia del Distrito Federal, vigilar su aplicación e informar de su cabal cumplimiento al Pleno del Consejo de la Judicatura del Distrito Federal;
+En materia de programación, presupuesto, planeación administrativa y organización:
 
-II. Someter a la consideración del Pleno del Consejo de la Judicatura del Distrito Federal, las adecuaciones requeridas a la organización interna de la Oficialía y las diversas Coordinaciones y Direcciones de la Institución, así como la actualización de los manuales de organización, de procedimientos y de servicios al público del Tribunal Superior de Justicia del Distrito Federal;
+Instrumentar las normas generales aprobadas, así como las directrices, normas y criterios técnicos para el proceso interno de programación, presupuestación, evaluación presupuestal e informática del Tribunal Superior de Justicia del Distrito Federal, así como vigilar su aplicación e informar de su cabal cumplimiento al Pleno del Consejo de la Judicatura del Distrito Federal;
 
-III. Proporcionar a las áreas del Tribunal Superior de Justicia del Distrito Federal los servicios de apoyo requeridos en materia de diseño de sistemas y equipamiento informático, que serán por lo menos los necesarios para que las Salas y Juzgados dispongan de los equipos de cómputo y sistemas de red interna, comunicaciones y archivo, así como los demás que sean necesarios para el mejor desempeño de las funciones del Tribunal Superior de Justicia del Distrito Federal;
+Someter a la consideración del Pleno del Consejo de la Judicatura del Distrito Federal, las adecuaciones requeridas a la organización interna de la Oficialía y las diversas Coordinaciones y Direcciones de la Institución, así como la actualización de los manuales de organización, de procedimientos y de servicios al público del Tribunal Superior de Justicia del Distrito Federal;
 
-IV. Planear, formular, ejecutar y controlar el programa anual de obra pública, adquisiciones, arrendamientos, servicios, conservación y mantenimiento de bienes muebles e inmuebles del Tribunal Superior de Justicia del Distrito Federal, previa autorización del Pleno del Consejo de la Judicatura del Distrito Federal;
+Proponer con aprobación del Pleno del Consejo de la Judicatura del Distrito Federal, las normas, sistemas y procedimientos aplicables en materia de programación, presupuestación, planeación administrativa y organización de la Institución, de acuerdo con sus programas y objetivos; y con la supervisión del Pleno del Consejo de la Judicatura, su instrumentación, seguimiento y estricta observancia;
 
-V. Proponer e instrumentar con aprobación del Pleno del Consejo de la Judicatura del Distrito Federal, las normas, sistemas y procedimientos para la administración de los recursos humanos, materiales y financieros de la Institución, de acuerdo con sus programas y objetivos, así como darles seguimiento y verificar su estricta observancia;
+En materia de Tecnologías de la Información:
 
-VI. Supervisar que las relaciones laborales se desarrollen de acuerdo con las políticas que señale el Pleno del Consejo de la Judicatura del Distrito Federal, en apego a las leyes laborales y a las condiciones generales de trabajo vigentes, así como su cumplimiento;
+Proponer e instrumentar las normas generales aprobadas, así como las directrices, normas y criterios técnicos para la administración de los servicios de tecnologías de la información del Tribunal, así como vigilar su aplicación e informar de su cabal cumplimiento al Pleno del Consejo de la Judicatura del Distrito Federal;
 
-VII. Proponer al Pleno del Consejo de la Judicatura del Distrito Federal los acuerdos relativos a la suscripción de contratos, convenios y acuerdos relativos al ejercicio de sus atribuciones, así como demás documentos que impliquen actos de administración, de acuerdo con las disposiciones legales aplicables y previo dictamen de la Dirección Jurídica; y
+Proporcionar a las áreas del Tribunal Superior de Justicia del Distrito Federal, los servicios de apoyo requeridos en materia de diseño de sistemas y equipamiento tecnológico, que serán por lo menos los necesarios para que las Salas y Juzgados dispongan de los equipos de cómputo y sistemas de red interna, comunicaciones y archivo, así como los demás que sean necesarios para el mejor desempeño de las funciones del Tribunal Superior de Justicia del Distrito Federal;
 
-VIII. Las demás que le confiera el Pleno del Consejo de la Judicatura del Distrito Federal y las que le señalen las disposiciones legales y reglamentarias relativas.
+Proponer al Pleno del Consejo de la Judicatura del Distrito Federal, los sistemas y procedimientos para la administración de los servicios de tecnologías de la información de la Institución, de acuerdo con sus programas y objetivos, y con la supervisión del Pleno del Consejo de la Judicatura instrumentarlos, así como darles seguimiento y verificar su estricta observancia;
 
-La Oficialía Mayor estará a cargo de un servidor público que se denominará Oficial Mayor.
+En materia de recursos materiales y servicios generales:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+Planear, formular y ejecutar el programa anual de obra pública, adquisiciones, arrendamientos, servicios, conservación y mantenimiento de bienes muebles e inmuebles del Tribunal Superior de Justicia del Distrito Federal, previa autorización y supervisión del Pleno del Consejo de la Judicatura del Distrito Federal;
 
-> <small>(REFORMADO, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
+Proponer al Pleno del Consejo de la Judicatura del Distrito Federal, las normas, sistemas y procedimientos aplicables en materia de obra pública, adquisiciones, arrendamientos, servicios, conservación y mantenimiento de bienes muebles e inmuebles de la Institución, de acuerdo con sus programas y objetivos; y con la supervisión del Pleno del Consejo la instrumentación, seguimiento y estricta observancia;
 
-Para desempeñar el cargo de Oficial Mayor se deben cumplir los requisitos establecidos por las fracciones I, II, IV, y V del artículo 16 de esta Ley. Además de poseer al día de la designación, con antigüedad mínima de diez años, Título Profesional a nivel Licenciatura y Cédula Profesional expedida por la institución legalmente facultada para tales efectos, así como acreditar una experiencia mínima de diez años en áreas o actividades afines al desempeño del encargo.
+En materia de Administración y Desarrollo de Personal:
 
-La designación y remoción del Oficial Mayor serán hechas por el Consejo de la Judicatura del Distrito Federal, a propuesta de su Presidente.
+Planear y formular, previa autorización del Pleno del Consejo de la Judicatura del Distrito Federal, el programa del Tribunal Superior de Justicia del Distrito Federal, destinado a la administración y desarrollo de su personal, y con la supervisión del Pleno del Consejo, la ejecución y control de dicho programa;
+
+Supervisar que las relaciones laborales se desarrollen de acuerdo con las políticas que señale el Pleno del Consejo de la Judicatura del Distrito Federal, en apego a las leyes laborales y a las condiciones generales de trabajo vigentes, así como su cumplimiento;
+
+Proponer al Pleno del Consejo de la Judicatura del Distrito Federal, los acuerdos relativos a la suscripción de contratos, convenios y acuerdos relativos al ejercicio de sus atribuciones, así como demás documentos que impliquen actos de administración, de acuerdo con las disposiciones legales aplicables y previo dictamen de la Dirección Jurídica;
+
+Formular, concertar e instrumentar, de conformidad con las directrices del Pleno del Consejo de la Judicatura del Distrito Federal, las condiciones generales de trabajo de los servidores públicos judiciales de base; y
+
+Regular, sistematizar, dirigir, coordinar y supervisar el Servicio de Profesionalización y Desarrollo de los Servidores Públicos Administrativos del Tribunal Superior de Justicia y del Consejo de la Judicatura del Distrito Federal, y
+
+En materia general:
+
+Las demás que le confiera el Pleno del Consejo de la Judicatura del Distrito Federal y las que le señalen las disposiciones legales y reglamentarias relativas.
+
+La instrumentación de esas Direcciones Generales de la Oficialía Mayor será congruente con las disponibilidades presupuestales del Tribunal y con las atribuciones y responsabilidades que se les confieran en el Reglamento Interior del mismo.
+
+La Oficialía Mayor estará a cargo de un servidor público que se denominará Oficial Mayor. Para desempeñar dicho cargo, se deben cumplir los requisitos establecidos por las fracciones I, II, IV, y V del artículo 16 de esta Ley. Además contar con título profesional a nivel de licenciatura y acreditar una experiencia mínima de diez años en áreas o actividades afines al desempeño del cargo.
 
 > <small>(ADICIONADO, G.O. 24 DE ABRIL DE 2003)</small>
 
-### CAPITULO XIII. Del Centro de Justicia Alternativa
+### CAPITULO XII. De la Coordinación de Comunicación Social
 
-> <small>(ADICIONADO, G.O. 8 DE ENERO DE 2008)</small>
+> <small>(REFORMADO Y REUBICADO, G.O. 24 DE ABRIL DE 2003)</small>
 
 ###### Artículo 183.
 
@@ -2114,9 +2284,9 @@ La Dirección Jurídica contará con un Director y los demás servidores públic
 
 > <small>(ADICIONADO, G.O. 24 DE ABRIL DE 2003)</small>
 
-### CAPITULO UNICO
+### CAPITULO XIII. Del Centro de Justicia Alternativa
 
-> <small>(REFORMADO, G.O. 24 DE ABRIL DE 2003)</small>
+> <small>(ADICIONADO, G.O. 8 DE ENERO DE 2008)</small>
 
 ###### Artículo 184.
 
@@ -2128,7 +2298,7 @@ El Coordinador de Relaciones Institucionales deberá cumplir con los requisitos 
 
 > <small>(ADICIONADO, G.O. 24 DE ABRIL DE 2003)</small>
 
-### CAPITULO I. Denominación, Objeto, Integración y Funcionamiento
+### CAPITULO UNICO
 
 > <small>(REFORMADO, G.O. 24 DE ABRIL DE 2003)</small>
 
@@ -2146,9 +2316,9 @@ El Director deberá cumplir con los requisitos del artículo 17 de esta ley, sal
 
 > <small>(ADICIONADO, G.O. 24 DE ABRIL DE 2003)</small>
 
-### CAPITULO II. Facultades del Consejo de la Judicatura del Distrito Federal
+### CAPITULO I. Denominación, Objeto, Integración y Funcionamiento
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 8 DE ENERO DE 2008)</small>
+> <small>(REFORMADO, G.O. 24 DE ABRIL DE 2003)</small>
 
 ###### Artículo 186.
 
@@ -2166,9 +2336,9 @@ IV. Gozar de buena reputación y no haber sido condenado por delito que amerite 
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 8 DE ENERO DE 2008)</small>
 
-### CAPITULO UNICO
+### CAPITULO II. Facultades y Obligaciones del Consejo de la Judicatura del Distrito Federal
 
-> <small>(REFORMADO Y REUBICADO, G.O. 24 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 18 DE MARZO DE 2011)</small>
 
 ###### Artículo 186 Bis.
 
@@ -2254,7 +2424,9 @@ VII. No haber sido condenado por delito doloso.
 
 ### CAPITULO UNICO
 
-> <small>(ADICIONADO [N. DE E. REFORMADO Y REUBICADO, ANTES ARTICULO 204], G.O. 24 DE ABRIL DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 18 DE MARZO DE 2011)</small>
 
 ###### Artículo 187.
 
@@ -2362,9 +2534,11 @@ VI. Aquellos elementos que presente el evaluado por escrito.
 
 ## TITULO DECIMO. Del Consejo de la Judicatura del Distrito Federal
 
-### CAPITULO I. De las Responsabilidades de los Servidores Públicos de la Administración de Justicia
+### CAPITULO UNICO
 
-> <small>(ADICIONADO, G.O. 24 DE ABRIL DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, G.O. 18 DE MARZO DE 2011)</small>
 
 ###### Artículo 195.
 
@@ -2380,9 +2554,11 @@ El Consejo de la Judicatura del Distrito Federal se integra por siete consejeros
 
 El presidente del Tribunal Superior de Justicia también lo será del Consejo de la Judicatura.
 
-> <small>(REFORMADO, G.O. 24 DE ABRIL DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-El Consejo de la Judicatura del Distrito Federal estará integrado además del propio Presidente del Tribunal Superior de Justicia del Distrito Federal, por un Magistrado, un Juez de Primera Instancia y un Juez de Paz, electos mediante insaculación entre Magistrados y Jueces ratificados; dos consejeros designados por la Asamblea Legislativa del Distrito Federal y uno por el Jefe de Gobierno del Distrito Federal. Los tres últimos deberán ser personas que se hayan distinguido por su capacidad, honestidad y honorabilidad en el ejercicio de las actividades jurídicas y administrativas. Los Consejeros deberán reunir los requisitos que para ser Magistrados establece el artículo 16 de esta ley.
+> <small>(REFORMADO, G.O. 18 DE MARZO DE 2011)</small>
+
+El Consejo de la Judicatura del Distrito Federal, estará integrado, además del propio Presidente del Tribunal Superior de Justicia del Distrito Federal, por un Magistrado, dos jueces elegidos por mayoría de votos de las dos terceras partes del Pleno de Magistrados; dos consejeros designados por la Asamblea Legislativa del Distrito Federal y uno por el Jefe de Gobierno del Distrito Federal. Los tres últimos deberán ser personas que se hayan distinguido por su capacidad, honestidad y honorabilidad en el ejercicio de las actividades jurídicas y administrativas. Los Consejeros deberán reunir los requisitos que para ser Magistrados establece el artículo 16 de esta ley.
 
 > <small>(ADICIONADO, G.O. 24 DE ABRIL DE 2003)</small>
 
@@ -2420,11 +2596,11 @@ VI. Las resoluciones del Pleno, y en su caso de las Comisiones del Consejo de la
 
 VII. El consejero que disintiera de la mayoría deberá formular por escrito voto particular, el cual se engrosará en el acta respectiva y será presentado dentro de los tres días hábiles siguientes a la fecha del acuerdo y versará sobre los puntos de disidencia que hayan sido discutidos en la sesión correspondiente.
 
-> <small>(ADICIONADO PRIMER PARRAFO, G.O. 24 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 18 DE MARZO DE 2011)</small>
 
 ###### Artículo 200.
 
-El Consejo de la Judicatura del Distrito Federal está facultado para expedir acuerdos generales para el adecuado ejercicio de sus funciones y para el desarrollo de programas de soluciones alternativas de controversias. El Pleno del Tribunal Superior de Justicia del Distrito Federal podrá solicitar al Consejo la expedición de aquellos acuerdos generales que considere necesarios para asegurar un adecuado ejercicio de la función jurisdiccional.
+El Consejo de la Judicatura del Distrito Federal, está facultado para expedir acuerdos generales para el adecuado ejercicio de sus funciones y para el desarrollo de programas de soluciones alternativas de controversias. El Pleno del Tribunal Superior de Justicia del Distrito Federal, podrá solicitar al Consejo la expedición de aquellos acuerdos generales que considere necesarios para apoyar el adecuado ejercicio de la función jurisdiccional.
 
 > <small>(ADICIONADO, G.O. 24 DE ABRIL DE 2003)</small>
 
@@ -2444,15 +2620,15 @@ Siempre que el Consejo de la Judicatura del Distrito Federal considere que los a
 
 La ejecución de las resoluciones deberá realizarse por conducto de los órganos del propio Consejo.
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 24 DE ABRIL DE 2003)</small>
+> <small>(REFORMADA SU DENOMINACION, G.O. 18 DE MARZO DE 2011)</small>
 
-### CAPITULO II. De las Faltas
+### CAPITULO I. De las Responsabilidades de los Servidores Públicos de la Administración de Justicia
 
 > <small>(ADICIONADO, G.O. 24 DE ABRIL DE 2003)</small>
 
 ###### Artículo 201.
 
-Son facultades del Consejo de la Judicatura del Distrito Federal las siguientes:
+Son facultades del Consejo de la Judicatura del Distrito Federal, las siguientes:
 
 > <small>(REFORMADA, G.O. 24 DE ABRIL DE 2003)</small>
 
@@ -2490,11 +2666,13 @@ La detención que se practique en contravención a este precepto y sus correlati
 
 VIII. Pedir al Presidente del Consejo y a sus integrantes el fiel cumplimiento de sus obligaciones y en su caso fincar la responsabilidad en que incurran de acuerdo con esta Ley;
 
-IX. Elaborar el presupuesto del Tribunal Superior de Justicia, de los Juzgados y demás órganos judiciales, incluido el Consejo de la Judicatura, dando prioridad al mejoramiento de la impartición de justicia.
+> <small>(REFORMADA, G.O. 18 DE MARZO DE 2011)</small>
+
+IX. Elaborar el presupuesto del Tribunal Superior de Justicia, de los Juzgados y demás órganos judiciales, incluido el Consejo de la Judicatura, dando prioridad al mejoramiento de la impartición de justicia y procurando su vinculación con las metas y objetivos del Programa General de Trabajo del Tribunal.
 
 > <small>(REFORMADO, G.O. 21 DE ENERO DE 1999)</small>
 
-El presupuesto se deberá remitir al Jefe de Gobierno del Distrito Federal para el sólo efecto de que se incorpore, en capítulo por separado y en los mismos términos formulados por el Consejo de la Judicatura, al Proyecto de Presupuesto de Egresos del Distrito Federal, que será sometido a la aprobación de la Asamblea Legislativa del Distrito Federal.
+El presupuesto se deberá remitir al Jefe de Gobierno del Distrito Federal para el sólo efecto de que se incorpore, en capítulo por separado y en los mismos términos formulados por el Consejo de la Judicatura, al Proyecto de Presupuesto de Egresos del Distrito Federal, que será sometido a la aprobación de la Asamblea Legislativa del Distrito Federal;
 
 X. Vigilar que se cumplan las disposiciones legales y administrativas relacionadas con sistemas de registro y contabilidad, contratación y pago de personal, contratación de servicios, obra pública, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles, almacenes y demás activos y recursos materiales;
 
@@ -2514,7 +2692,9 @@ XIV. Nombrar al Oficial Mayor; al Contralor General; al Director del Archivo Jud
 
 XV. Nombrar a los servidores públicos judiciales de base y de confianza, cuya designación no esté reservada a otra autoridad judicial, en los términos de esta Ley;
 
-XVI. Fijar las condiciones generales de trabajo de los servidores públicos judiciales de base;
+> <small>(REFORMADA, G.O. 18 DE MARZO DE 2011)</small>
+
+XVI. Vigilar que se cumpla con las publicaciones de los extractos de las declaraciones de no responsabilidad pronunciadas en las quejas interpuestas a los servidores de la administración de justicia y miembros del Consejo, que deben de efectuarse en el Boletín Judicial y en un periódico de circulación en el Distrito Federal;
 
 XVII. Autorizar licencias cuando procedan por causa justificada, sin goce de sueldo, que excedan de quince días y hasta de tres meses, en un año;
 
@@ -2526,7 +2706,11 @@ El Consejo de la Judicatura del Distrito Federal establecerá, de acuerdo con el
 
 XVIII. (DEROGADA, G.O. 10 DE SEPTIEMBRE DE 2009)
 
-XIX. Establecer los montos que por razón de la cuantía deberán conocer los Juzgados Civiles de Paz en los términos de los artículos 50 fracción II y 70 fracción I de esta Ley;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, G.O. 18 DE MARZO DE 2011)</small>
+
+XIX. Establecer los montos que por razón de la cuantía deberán conocer los Juzgados de lo Civil de Cuantía Menor y los de Proceso Oral Civil en los términos de los artículos 50 fracción II, 71 y 71 bis de esta Ley;
 
 XX. Desempeñar las funciones administrativas mediante la Comisión que al efecto se forme por el Presidente y dos Consejeros en forma rotativa, bimestral y en orden alfabético, relacionadas con el manejo de los recursos humanos, financieros, materiales y de toda índole que correspondan al Consejo, así como las del Tribunal, Juzgados y demás órganos judiciales;
 
@@ -2566,13 +2750,19 @@ XXVI. Las demás que determinen las Leyes y el Reglamento Interior del Consejo d
 
 Son atribuciones del Presidente del Consejo de la Judicatura las siguientes:
 
-I. Representar legalmente al Consejo;
+> <small>(REFORMADA, G.O. 18 DE MARZO DE 2011)</small>
 
-II. Tramitar los asuntos de la competencia del Pleno del Consejo;
+I. Representar legalmente al Consejo y atender los asuntos de la competencia del Pleno de dicho Consejo;
 
-III. Recibir quejas sobre demoras y faltas en el despacho de los asuntos, turnándolos en su caso a la comisión correspondiente del propio Consejo;
+> <small>(REFORMADA, G.O. 18 DE MARZO DE 2011)</small>
 
-IV. Practicar por sí mismo visitas a Salas y Juzgados;
+II. Asegurar la congruencia e interrelación de las funciones conferidas al Consejo de la Judicatura y a la Contraloría del Tribunal Superior de Justicia del Distrito Federal, con respecto a la investigación del comportamiento en el servicio, del personal del Tribunal y de dicho Consejo. Igualmente sobre la imposición de medidas disciplinarias o de responsabilidades a esos servidores públicos;
+
+> <small>(REFORMADA, G.O. 18 DE MARZO DE 2011)</small>
+
+III. Recibir quejas sobre demoras y faltas en el despacho de los asuntos, turnándolos en su caso a la comisión correspondiente del propio Consejo, así como practicar por sí mismo visitas a Salas y Juzgados;
+
+IV. (DEROGADA, G.O. 18 DE MARZO DE 2011)
 
 > <small>(REFORMADA, G.O. 24 DE ABRIL DE 2003)</small>
 
@@ -2594,13 +2784,11 @@ IX. Conceder licencias a los servidores públicos del Tribunal Superior de Justi
 
 X. Vigilar la publicación de los Anales de Jurisprudencia y del Boletín Judicial;
 
-> <small>(REFORMADA Y REUBICADA [N. DE E. ANTES FRACCION XIII], G.O. 24 DE ABRIL DE 2003)</small>
+> <small>(REFORMADA, G.O. 18 DE MARZO DE 2011)</small>
 
-XI. Tener a su cargo la policía de los edificios que ocupen el Tribunal Superior de Justicia del Distrito Federal y los Juzgados, dictando las medidas adecuadas a su conservación e higiene, y a la distribución de las oficinas judiciales en sus diversas dependencias. Esta facultad se entiende sin perjuicio de las que confieren las leyes a los Magistrados y Jueces, para conservar el orden de sus respectivos locales dando aviso al Presidente;
+XI. Dirigir, con la colaboración de la Oficialía Mayor, la policía de los edificios que ocupa el Tribunal Superior de Justicia del Distrito Federal y los Juzgados, dictando las medidas adecuadas a su conservación e higiene, y a la distribución de las oficinas judiciales en sus diversas dependencias. Esta facultad se entiende sin perjuicio de las que confieren las leyes a los Magistrados y Jueces, para conservar el orden de sus respectivos locales dando aviso al Presidente;
 
-> <small>(REFORMADA Y REUBICADA [N. DE E. ANTES FRACCION XIV], G.O. 24 DE ABRIL DE 2003)</small>
-
-XII. Celebrar acuerdos y convenios de colaboración teórico-académica, previo consentimiento del Consejo, con instituciones públicas o privadas tendientes a una mayor profesionalización y capacitación en el campo de la impartición de justicia;
+XII. (DEROGADA, G.O. 18 DE MARZO DE 2011)
 
 > <small>(ADICIONADA, G.O. 24 DE ABRIL DE 2003)</small>
 
@@ -2614,17 +2802,19 @@ XIV. Las demás que determinen las leyes y el reglamento interior del Consejo.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 24 DE ABRIL DE 2003)</small>
 
-### CAPITULO III. De los Órganos y Sistemas para la Imposición de las Sanciones Administrativas
+### CAPITULO II. De las Faltas
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
+> <small>(ADICIONADO, G.O. 24 DE ABRIL DE 2003)</small>
 
 ###### Artículo 203.
 
-La Visitaduría Judicial es el órgano auxiliar del Consejo de la Judicatura del Distrito Federal, el cual estará bajo la responsabilidad de la Comisión de Disciplina Judicial, es competente para verificar el funcionamiento de las Salas y de los Juzgados incluyendo los de Paz y para supervisar las conductas de los integrantes de estos órganos, de conformidad con los lineamientos emitidos por el Consejo.
+La Visitaduría Judicial es el órgano auxiliar del Consejo de la Judicatura del Distrito Federal, el cual estará bajo la responsabilidad de la Comisión de Disciplina Judicial, es competente para verificar el funcionamiento de las Salas y de los Juzgados, y para supervisar las conductas de los integrantes de estos órganos, de conformidad con los lineamientos emitidos por el Consejo.
+
+> <small>(REFORMADO, G.O. 24 DE ABRIL DE 2003)</small>
 
 Contará con un titular que se denomina Visitador General, así como con visitadores judiciales que dependerán de él.
+
+> <small>(REFORMADO, G.O. 24 DE ABRIL DE 2003)</small>
 
 El Visitador General y los Visitadores deberán satisfacer los requisitos del artículo 16, con excepción de lo señalado por las fracciones VI y VII primer párrafo de la presente ley.
 
@@ -2668,11 +2858,13 @@ En caso de negarse a firmar el Juez o Magistrado, se hará constar esta situaci�
 
 El acta levantada por el Visitador será entregada al titular del órgano visitado y a la Comisión de Disciplina Judicial, por conducto del Visitador General, a fin de que determine lo que corresponda y, en caso de responsabilidad, para que proceda en los términos previstos por esta Ley. El Visitador General, con base a las actuaciones realizadas por los Visitadores, propondrá a la Comisión de Disciplina Judicial, por medio de proyectos, las sanciones o medidas correctivas conducentes.
 
-> <small>(ADICIONADO, G.O. 24 DE ABRIL DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, G.O. 18 DE MARZO DE 2011)</small>
 
 ###### Artículo 207.
 
-El Consejo de la Judicatura del Distrito Federal podrá ordenar la realización de visitas extraordinarias de inspección o acordar la integración de Comisiones Especiales de Investigación, siempre que a su juicio existan elementos que hagan presumir irregularidades cometidas por un Juez de Paz, por un Juez de Primera Instancia o por un Magistrado. En dichas Comisiones intervendrá además el Visitador General.
+El Consejo de la Judicatura del Distrito Federal, podrá ordenar la realización de visitas extraordinarias de inspección o acordar la integración de Comisiones Especiales de Investigación, siempre que a su juicio existan elementos que hagan presumir irregularidades cometidas por un Juez, o por un Magistrado. En dichas Comisiones intervendrá además el Visitador General.
 
 > <small>(REFORMADO [N. DE E. REUBICADO, ANTES TITULO DECIMO PRIMERO], G.O. 24 DE ABRIL DE 2003)</small>
 
@@ -2680,13 +2872,15 @@ El Consejo de la Judicatura del Distrito Federal podrá ordenar la realización 
 
 > <small>(ADICIONADO, G.O. 24 DE ABRIL DE 2003)</small>
 
-### CAPITULO IV. Del Recurso de Revisión Administrativa
+### CAPITULO III. De los Órganos y Sistemas para la Imposición de las Sanciones Administrativas
 
-> <small>(ADICIONADO, G.O. 24 DE ABRIL DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 208.
 
-Si un Juez de Primera Instancia o un Juez de Paz en Materia Civil, deja de conocer un caso por impedimento, recusación o excusa, remitirá el expediente a la Dirección General de Procedimientos Judiciales, para que lo envíe al Juzgado que corresponda, de acuerdo con el turno respectivo.
+Si un Juez deja de conocer un caso por impedimento, recusación o excusa, remitirá el expediente a la Dirección General de Procedimientos Judiciales, para que lo envíe al Juzgado que corresponda, de acuerdo con el turno respectivo.
 
 > <small>(ADICIONADO [N. DE E. REFORMADO Y REUBICADO, ANTES ARTICULO 205], G.O. 24 DE ABRIL DE 2003)</small>
 
@@ -2696,11 +2890,11 @@ Si un Magistrado dejare de conocer de algún asunto por impedimento o recusació
 
 Cuando los tres Magistrados que integran una Sala estuvieren impedidos de conocer un negocio, pasará éste al conocimiento de la Sala que en la misma materia le sigue en número.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO, G.O. 18 DE MARZO DE 2011)</small>
 
-Si todas las Salas o Magistrados del ramo estuvieren impedidos de conocer, pasará el asunto al conocimiento de las Salas de otro ramo, por el orden indicado y si también éstas se agotaren, se integrará una Sala que conozca del asunto con Jueces Penales, Civiles, de Paz Civil, Familiares, de Justicia para Adolescentes y de Extinción de Dominio, según corresponda, designados por el Tribunal Superior de Justicia del Distrito Federal en Pleno que al efecto se reunirá inmediatamente y sin perjuicio de sus demás labores y funciones.
+Si todas las Salas o Magistrados del ramo estuvieren impedidos de conocer, pasará el asunto al conocimiento de las Salas de otro ramo, por el orden indicado y si también éstas se agotaren, se integrará una Sala que conozca del asunto con Jueces Penales, Civiles, Familiares, de Justicia para Adolescentes, de Extinción de Dominio, según corresponda, designados por el Tribunal Superior de Justicia del Distrito Federal en Pleno que al efecto se reunirá inmediatamente y sin perjuicio de sus demás labores y funciones.
 
 > <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, G.O. 24 DE ABRIL DE 2003)</small>
 
@@ -2708,7 +2902,7 @@ Si todas las Salas o Magistrados del ramo estuvieren impedidos de conocer, pasar
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 24 DE ABRIL DE 2003)</small>
 
-### CAPITULO UNICO
+### CAPITULO IV. Del Recurso de Revisión Administrativa
 
 > <small>(ADICIONADO, G.O. 24 DE ABRIL DE 2003)</small>
 
@@ -2836,17 +3030,23 @@ III. Suspensión temporal de cinco días a cinco meses, sin goce de sueldo, y
 
 IV. Separación del cargo.
 
-(ADICIONADO, G.O. 24 DE ABRIL DE 2003) (F. DE E., G.O. 1 DE JULIO DE 2003)
+> <small>(REFORMADO, G.O. 18 DE MARZO DE 2011)</small>
 
 ###### Artículo 217.
 
-Si el órgano encargado de resolver sobre una queja no lo hiciera dentro del plazo a que se refiere el artículo 211, serán multados sus integrantes, con el importe de un día de salario, por el órgano encargado de la imposición de las sanciones. Si el Pleno del Consejo lo fuere, se impondrá a los integrantes del mismo multa de tres días de salario, hayan concurrido o no al Pleno respectivo.
+Si el órgano encargado de resolver sobre una queja no lo hiciera dentro del plazo a que se refiere el artículo 211, serán multados sus integrantes, con el importe de cinco días de salario que perciban, por el órgano encargado de la imposición de sanciones. Si el Pleno del Consejo lo fuere, se impondrá a los integrantes del mismo, igualmente multa de cinco días del salario que perciban, hayan concurrido o no al Pleno respectivo.
 
-> <small>(ADICIONADO, G.O. 24 DE ABRIL DE 2003)</small>
+El órgano encargado de sancionar estas faltas será el Pleno del Tribunal Superior de Justicia del Distrito Federal.
+
+> <small>(REFORMADO, G.O. 18 DE MARZO DE 2011)</small>
 
 ###### Artículo 218.
 
-La declaración de no-responsabilidad por faltas deberá ser publicada en extracto en el Boletín Judicial o en un periódico de circulación en el Distrito Federal, según lo disponga quien hiciere aquélla. La primera de esas publicaciones será gratuita y la segunda a costa del quejoso; a quien si no cumpliere, se le podrá imponer una multa como medio de apremio por el mismo órgano que resuelva, en los términos que se prescriben para dicho medio en el Código de Procedimientos Civiles para el Distrito Federal.
+La declaración de no-responsabilidad por faltas deberá ser publicada por dos veces en extracto en el Boletín Judicial y en un periódico de circulación en el Distrito Federal, según lo disponga quien hiciere aquélla. Ambas publicaciones serán a costa del quejoso; a quien si no cumpliere, se le impondrá además, una multa como medio de apremio por el mismo órgano que resuelva, por una cantidad que no será inferior a seis mil pesos ni superior a sesenta mil. Dichos montos se actualizarán en forma anual de acuerdo con el factor de actualización que se obtenga de dividir el Índice Nacional de Precios al Consumidor del mes de noviembre del año que se calcula entre el Índice Nacional de Precios al Consumidor de noviembre del año inmediato anterior que determine el Banco de México y a falta de éste el que lo sustituya. Estas multas se duplicarán en caso de reincidencia injustificada.
+
+El órgano que hizo la declaración de no responsabilidad, estará encargado de vigilar que se dé cumplimiento a lo dispuesto por este artículo, y en caso de incumplimiento será sancionado en términos de lo dispuesto por el artículo anterior.
+
+Es facultad del Pleno del Tribunal supervisar cuando así lo estime conveniente o a petición de parte, a través de la solicitud del informe correspondiente, tanto a la Comisión de Disciplina como al Consejo, por conducto de sus respectivas secretarías, del cumplimiento de esta obligación y de la prevista en el artículo 201 fracción XXVI.
 
 > <small>(ADICIONADO, G.O. 24 DE ABRIL DE 2003)</small>
 
@@ -2855,6 +3055,10 @@ La declaración de no-responsabilidad por faltas deberá ser publicada en extrac
 La declaración de responsabilidad por faltas producirá el efecto de impedir al servidor público de que se trate, tenga conocimiento del negocio en el que se hubieren cometido.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 24 DE ABRIL DE 2003)</small>
+
+### CAPITULO UNICO
+
+> <small>(ADICIONADO, G.O. 24 DE ABRIL DE 2003)</small>
 
 ###### Artículo 220.
 
@@ -2898,9 +3102,15 @@ XVII. (DEROGADA, G.O. 10 DE SEPTIEMBRE DE 2009)
 
 XVIII. Dejar de aplicar una ley, desacatando una disposición que establece expresamente su aplicación;
 
-XIX. Mostrar notoria ineptitud, negligencia o descuido en el desempeño de las funciones o labores que deba realizar, y
+XIX. Mostrar notoria ineptitud, negligencia o descuido en el desempeño de las funciones o labores que deba realizar, y (sic)
 
-XX. No practicar las diligencias encomendadas por el Poder Judicial Federal sin causa justificada. Lo anterior, sin perjuicio de las sanciones que pudieran imponer tales autoridades en términos de los ordenamientos legales aplicables.
+> <small>(REFORMADA, G.O. 18 DE MARZO DE 2011)</small>
+
+XX. No practicar las diligencias encomendadas por el Poder Judicial Federal, sin causa justificada. Lo anterior, sin perjuicio de las sanciones que pudieran imponer tales autoridades en términos de los ordenamientos legales aplicables; y,
+
+> <small>(ADICIONADA, G.O. 18 DE MARZO DE 2011)</small>
+
+XXI. No iniciar y dar el trámite correspondiente a los procedimientos administrativos a aquel servidor público que esté a su cargo y que incurra en alguna de las faltas previstas por esta ley, así como no remitir la correspondiente acta al Consejo de la Judicatura del Distrito Federal o a la autoridad competente.
 
 En el caso de las fracciones IV, V, VI, VIII, IX y XIII será requisito de procedibilidad que la resolución de que se trate haya sido revocada.
 
@@ -2968,17 +3178,17 @@ I. No turnar al Secretario Actuario adscrito los expedientes que requieran notif
 
 II. No hacer a las partes las notificaciones personales en términos de ley; que procedan cuando concurran al Juzgado o Tribunal;
 
-> <small>(ADICIONADA, G.O. 24 DE ABRIL DE 2003)</small>
+> <small>(REFORMADA, G.O. 18 DE MARZO DE 2011)</small>
 
-III. No mostrar a las partes, sin causa justificada, cuando lo soliciten, los expedientes o exigir requisitos no contemplados en la ley para el efecto, como el llenado de formatos u otros;
+III. No mostrar a las partes los expedientes sin causa justificada, cuando lo soliciten, mediante el vale de resguardo respectivo y previa identificación oficial vigente, o exigir requisitos no contemplados en la ley para tal efecto;
 
-> <small>(ADICIONADA, G.O. 24 DE ABRIL DE 2003)</small>
+> <small>(REFORMADA, G.O. 18 DE MARZO DE 2011)</small>
 
-IV. No mostrar a las partes, inmediatamente que lo solicite, los negocios que se hayan publicado en el Boletín del día;
+IV. No mostrar a las partes, inmediatamente que lo soliciten mediante el vale de resguardo respectivo y previa identificación oficial vigente, los negocios que se hayan publicado en el Boletín del día;
 
-> <small>(ADICIONADA, G.O. 24 DE ABRIL DE 2003)</small>
+> <small>(REFORMADA, G.O. 18 DE MARZO DE 2011)</small>
 
-V. No remitir al archivo oportunamente los expedientes cuya remisión sea forzosa, conforme a la ley;
+V. No remitir al archivo oportunamente los expedientes cuya remisión sea forzosa, conforme a los lineamientos establecidos en esta ley;
 
 > <small>(ADICIONADA, G.O. 24 DE ABRIL DE 2003)</small>
 
@@ -2988,13 +3198,35 @@ VI. No observar lo establecido en la fracción VII del artículo 58 de esta ley;
 
 > <small>(REFORMADA, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
 
-VII. No entregar a las partes las copias simples de resoluciones o constancias de autos que les soliciten, previo pago realizado en los términos correspondientes, cuando para ello no se requiera acuerdo para la expedición; y
+VII. No entregar a las partes las copias simples de resoluciones o constancias de autos que les soliciten, previo pago realizado en los términos correspondientes, cuando para ello no se requiera acuerdo para la expedición; y (sic)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA, G.O. 18 DE MARZO DE 2011)</small>
 
-> <small>(ADICIONADA, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
+VIII. No entregar las copias certificadas ordenadas por decreto judicial, dentro del término de cinco días hábiles contados a partir del día siguiente en que surta efectos la notificación del proveído que lo ordene, cuando haya sido exhibido el pago correspondiente y no exista impedimento legal para ello; y
 
-VIII. No entregar las copias certificadas ordenadas por decreto judicial, dentro del término de cinco días hábiles contados a partir del día siguiente en que surta efectos la notificación del proveído que lo ordene, cuando haya sido exhibido el pago correspondiente y no exista impedimento legal para ello.
+> <small>(ADICIONADA, G.O. 18 DE MARZO DE 2011)</small>
+
+IX. No elaborar los proyectos de acuerdo que deban recaer a los asuntos en trámite a su cargo, de manera adecuada tanto en fondo como en forma conforme a las constancias de los expedientes y la ley que resulte aplicable.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, G.O. 18 DE MARZO DE 2011)</small>
+
+###### Artículo 224 Bis.
+
+Son faltas de los Secretarios Proyectistas, así como de los Secretarios de Acuerdos de Justicia Oral Civil:
+
+I. Elaborar proyectos de sentencia o resolución fuera del término señalado por su titular que permita a este último su oportuna revisión; no acatar de manera inmediata las instrucciones y observaciones hechas a sus proyectos.
+
+II. No guardar el debido secreto respecto de los asuntos que le son turnados para la elaboración del proyecto de sentencia o resolución.
+
+III. Mostrar negligencia, descuido, ignorancia o ineptitud en el desempeño de su labor.
+
+IV. En la elaboración de proyectos de sentencias o resoluciones, dejar de aplicar leyes desacatando disposiciones que establecen expresamente su aplicación o bien, aplicando disposiciones que se encuentren derogadas.
+
+V. Elaborar proyectos de sentencia o resoluciones en contravención a las constancias de autos; y
+
+VI. Las demás que deriven de la ley.
 
 > <small>(ADICIONADO, G.O. 24 DE ABRIL DE 2003)</small>
 
@@ -3018,29 +3250,55 @@ IV. Hacer notificaciones, citaciones o emplazamientos a las partes, por cédula 
 
 V. Practicar embargos, aseguramientos o retención de bienes o lanzamientos, de persona física o moral que no sea la designada en el auto respectivo, o cuando en el momento de la diligencia o antes de retirarse el personal del Juzgado, se le demuestre que esos bienes son ajenos, para comprobar lo cual, en todo caso, deberá agregar a los autos la documentación que se les presente, a efecto de dar cuenta a quien hubiere ordenado la diligencia.
 
+> <small>(ADICIONADO, G.O. 18 DE MARZO DE 2011)</small>
+
+###### Artículo 225 Bis.
+
+Son faltas de los Secretarios Conciliadores:
+
+I. Dejar de cumplir con las obligaciones inherentes a su cargo, reguladas por el artículo 60 de esta ley; y
+
+II. Las demás que deriven de la ley.
+
 > <small>(ADICIONADO, G.O. 24 DE ABRIL DE 2003)</small>
 
 ###### Artículo 226.
 
 Son faltas de los servidores públicos de los Juzgados, Salas, Direcciones, Presidencia y demás dependencias del Tribunal Superior de Justicia del Distrito Federal:
 
-I. Solicitar a cualquiera de las partes, retribuciones económicas o materiales por sí o por interpósita persona, como condición para el desempeño de sus obligaciones o rehusarse a recibir los escritos y promociones de cualquiera de las partes;
+> <small>(REFORMADA, G.O. 18 DE MARZO DE 2011)</small>
+
+I. Solicitar a cualquiera de las partes, retribuciones económicas o materiales por sí o por interpósita persona, como condición para el desempeño de sus obligaciones o rehusarse a recibir los escritos y promociones de cualquiera de las partes, así como aceptar o recibir dádivas o retribuciones de cualquier índole por el desempeño de sus funciones.
 
 II. No concurrir a las horas reglamentarias al desempeño de sus labores;
 
 III. No atender oportunamente y de forma correcta a los litigantes y público en general;
 
-IV. No mostrar a las partes, inmediatamente que lo soliciten, los expedientes que se hayan publicado en el Boletín del día o se encuentren en los archivos, o exigir a las partes requisitos no contemplados en la ley, como el llenado de formatos u otros;
+> <small>(REFORMADA, G.O. 18 DE MARZO DE 2011)</small>
 
-V. No despachar oportunamente, los oficios o llevar a cabo las diligencias que se les encomienden, y
+IV. No mostrar a las partes, inmediatamente que lo soliciten, y una vez que hayan presentado su vale de resguardo e identificación oficial vigente, los expedientes que se hayan publicado en el Boletín del día o se encuentren en los archivos, o exigir a las partes requisitos no contemplados en la ley;
 
-VI. No remitir al archivo oportunamente los expedientes cuya remisión sea forzosa, conforme a la ley.
+> <small>(REFORMADA, G.O. 18 DE MARZO DE 2011)</small>
 
-> <small>(ADICIONADO, G.O. 24 DE ABRIL DE 2003)</small>
+V. No elaborar y despachar adecuada y oportunamente, los oficios, notificaciones, y correspondencia en general ordenados en los procedimientos judiciales y trámites administrativos inherentes al despacho del juzgado, o no llevar a cabo las diligencias que se les encomienden, por su superior jerárquico inmediato o por el titular del órgano jurisdiccional;
+
+> <small>(REFORMADA, G.O. 18 DE MARZO DE 2011)</small>
+
+VI. No hacer del conocimiento del titular del órgano al que pertenezcan, las faltas cometidas por otros servidores públicos de su área; y,
+
+> <small>(ADICIONADA, G.O. 18 DE MARZO DE 2011)</small>
+
+VII. No remitir al archivo oportunamente los expedientes cuya remisión sea forzosa, conforme a la ley.
+
+> <small>(REFORMADO, G.O. 18 DE MARZO DE 2011)</small>
 
 ###### Artículo 227.
 
-Las faltas en que incurran los servidores públicos, previstas en los artículos 220 fracciones I a IV, XII, XIV y XVI a XX; 221, incisos a) y b); 223, con excepción de la fracción III; 224; 225 fracciones II a V y 226 fracciones II a V, serán sancionadas, la primera vez con amonestación por escrito, y la segunda, con multa en los términos de la fracción II del artículo 216, debiéndose tomar nota en el expediente de dicho servidor público. Si la falta es de las que se refieren en la fracción I del artículo 225 o en la fracción I del artículo 226, se le sancionará con multa si es la primera vez que se comete.
+Las faltas en que incurran los servidores públicos, previstas en los artículos 220 fracciones I a IV, XII, XIV y XVI a XXI; 221, incisos a) y b); 223, con excepción de la fracción III; 224, salvo la fracción IX; 225 fracciones II a V y 226 fracciones II a VII, serán sancionadas, la primera vez con amonestación por escrito, y la segunda, con multa en los términos de la fracción II del artículo 216, debiéndose tomar nota en el expediente de dicho servidor público. Si la falta es de las que se refieren en la fracción IX del artículo 224, 224 bis, 225 bis, la fracción I del artículo 225 o en la fracción I del artículo 226, se le sancionará con multa si es la primera vez que se comete, y la segunda vez se le sancionará con suspensión temporal.
+
+En el caso de reincidencia en una tercera ocasión tratándose del artículo 224 bis, el proyectista será separado del cargo.
+
+Todo lo anterior, sin perjuicio de la facultad del Consejo de la Judicatura del Distrito Federal, a que se refiere el artículo 228 Bis de esta ley.
 
 > <small>(ADICIONADO, G.O. 24 DE ABRIL DE 2003)</small>
 
@@ -3385,3 +3643,17 @@ PRIMERO. Publíquese el presente decreto en la Gaceta Oficial del Distrito Feder
 SEGUNDO. El presente decreto entrará en vigor a los treinta días posteriores a su publicación en la Gaceta Oficial del Distrito Federal.
 
 TERCERO. Los Jueces del Arrendamiento Inmobiliario se transformarán en Jueces de lo Civil, mismos que desahogarán los asuntos que actualmente se encuentren en tramitación en dichas instancias.
+
+G.O. 18 DE MARZO DE 2011.
+
+PRIMERO.- Publíquese el presente decreto en la Gaceta Oficial del Distrito Federal y en Diario Oficial de la Federación para su mayor difusión.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO.- El Tribunal Superior de Justicia y el Consejo de la Judicatura del Distrito Federal, dispondrán de ciento ochenta días naturales, a partir de la expedición del presente decreto para formular e instrumentar sus respectivos reglamentos interiores en relación con las reformas a la Ley Orgánica del Tribunal Superior de Justicia del Distrito Federal a que se refiere el segundo resolutivo.
+
+CUARTO.- Se derogan todas aquéllas disposiciones que se opongan al presente Decreto.
+
+QUINTO.- La reforma prevista a los artículos 37 fracción VIII, 50 fracciones II y III, 58 Bis, 62 Bis, 67, 68, 69, 70, 71, 71 Bis, 72, 72 Bis, 173, 196, 201 fracción XIX, 203, 207, 208, 209 y 224 Bis, de la Ley Orgánica del Tribunal Superior de Justicia del Distrito Federal, y la reforma prevista en el presente Decreto respecto del Código de Procedimientos Civiles para el Distrito Federal, entrarán en vigor el 27 de enero de 2012.
+
+SEXTO.- Los juicios y procedimientos judiciales actualmente en trámite conforme a las reglas del Título Especial de la Justicia de Paz, se regirán hasta su conclusión por las disposiciones vigentes con anterioridad a la entrada en vigor del Transitorio Quinto del presente decreto.
