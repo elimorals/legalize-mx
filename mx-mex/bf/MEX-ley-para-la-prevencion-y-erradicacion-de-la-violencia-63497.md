@@ -4,7 +4,7 @@ identifier: "MEX-ley-para-la-prevencion-y-erradicacion-de-la-violencia-63497"
 country: "mx"
 rank: "ley"
 publication_date: "2008-09-25"
-last_updated: "2008-09-25"
+last_updated: "2011-03-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63497&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY PARA LA PREVENCION Y ERRADICACION DE LA VIOLENCIA FAMILIAR DEL ESTADO DE MEXICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 18 DE MARZO DE 2011.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el jueves 25 de septiembre de 2008.
 
@@ -86,6 +86,14 @@ IV. A los Ayuntamientos de los Municipios del Estado de México, a través de su
 Para el cabal cumplimiento de los objetivos de esta Ley, las secretarías del Poder Ejecutivo del Estado, así como las instituciones públicas y privadas con competencia en materia de Violencia Familiar, ejecutarán y podrán proponer las acciones necesarias para erradicar la violencia, debiendo rendir mensualmente al Consejo informes relativos a la estadística sobre violencia; el Consejo los recopilará a través de la Secretaría Técnica para el efecto de diagnóstico, programación y seguimiento de acciones.
 
 Las autoridades, dependencias e instituciones señaladas en esta Ley, deberán coordinarse a través de grupos de trabajo con temáticas especificas y especializadas, a efecto de instrumentar y ejecutar las acciones derivadas del Programa Anual de Prevención, Atención y Erradicación de la Violencia Familiar en el Estado de México.
+
+> <small>(ADICIONADO, G.G. 18 DE MARZO DE 2011)</small>
+
+###### Artículo 4 Bis.
+
+Es obligación de todas las autoridades del Estado de México garantizar que las personas gocen, sin discriminación alguna, de los derechos fundamentales reconocidos en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de México, los tratados internacionales de los que el Estado Mexicano sea parte, y demás ordenamientos legales aplicables.
+
+Las autoridades del Estado de México están obligadas a impulsar, promover, gestionar y garantizar la eliminación de obstáculos que limiten a las personas el ejercicio del derecho a la igualdad y a la no discriminación, impidiendo su pleno desarrollo, así como su efectiva participación en todos los ámbitos. Asimismo, impulsarán y fortalecerán acciones para promover una cultura de sensibilización, de respeto y de no violencia en contra de las personas, grupos y comunidades en situación de discriminación.
 
 ###### Artículo 5.
 
@@ -418,3 +426,23 @@ EL SECRETARIO GENERAL DE GOBIERNO
 DR. VICTOR HUMBERTO BENITEZ TREVIÑO
 
 (RUBRICA)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 18 DE MARZO DE 2011.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+TERCERO.- Los hechos delictuosos cometidos con anterioridad a la entrada en vigor del presente Decreto, serán sancionados de conformidad con las disposiciones vigentes en la fecha de su comisión.
+
+CUARTO.- La Procuraduría General de Justicia del Estado de México, dentro del plazo de seis meses siguientes a la entrada en vigor de este Decreto, de acuerdo con las disposiciones administrativas que rigen su organización interna y en términos de su presupuesto, instalará módulos para la recepción de denuncias y querellas relacionados con delitos cometidos en el transporte público de pasajeros.
+
+Asimismo, diseñará y pondrá en marcha campañas preventivas, en coordinación con las autoridades competentes, orientadas a inhibir el delito de acoso en el transporte público de pasajeros.
+
+QUINTO.- El Consejo de la Judicatura del Estado deberá proveer respecto de la capacitación a la que deberán sujetarse los jueces y magistrados con especialización en violencia de género y adscribirá a cada región judicial los que sean necesarios conforme a la demanda del servicio.
+
+SEXTO.- El Procurador General de Justicia del Estado de México, deberá expedir el acuerdo a que se refiere la fracción XXV del artículo 51 de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de México, en un plazo máximo de quince días, contados a partir de la publicación del presente Decreto.
+
+SÉPTIMO.- La Procuraduría General de Justicia del Estado de México, emitirá en un plazo no mayor de 60 días naturales siguientes a la vigencia, los protocolos de investigación mínimos para la comprobación de los nuevos delitos tipificados del presente decreto.
