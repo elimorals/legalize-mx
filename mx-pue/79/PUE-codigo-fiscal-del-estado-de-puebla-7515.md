@@ -4,7 +4,7 @@ identifier: "PUE-codigo-fiscal-del-estado-de-puebla-7515"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-12-29"
-last_updated: "2011-03-14"
+last_updated: "2011-03-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7515&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "PUE"
 ---
 # CODIGO FISCAL DEL ESTADO DE PUEBLA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 18 DE MARZO DE 2011 EN EL P.O. DEL ESTADO DE PUEBLA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 CODIGO FISCAL DEL ESTADO DE PUEBLA
 
 ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE MARZO DE 2011.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 18 DE MARZO DE 2011.</small>
 
 Código publicado en la Sección Cuarta del Periódico Oficial del Estado de Puebla, el martes 29 de diciembre de 1987.
 
@@ -289,15 +289,39 @@ Sólo podrá afectarse un ingreso estatal a un fin específico, siempre y cuando
 
 Los programas, contratos, concesiones, acuerdos y cualesquiera otros actos en los que se afecte un ingreso estatal a un fin específico, deberán ser autorizados por el Gobernador del Estado y dados a conocer por la Secretaría de Finanzas y Administración.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ARTICULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 18 DE MARZO DE 2011 EN EL P.O. DEL ESTADO DE PUEBLA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE MARZO DE 2011)</small>
+(REFORMADO PRIMER PARRAFO, P.O. 14 DE MARZO DE 2011) (F. DE E., P.O. 18 DE MARZO DE 2011)
 
 ###### ARTICULO 16.
 
 En los términos fijados en días por disposición de la ley o por las autoridades fiscales, se computarán sólo los días hábiles, considerándose así aquéllos en que se encuentren abiertas al público las oficinas durante el horario que establezca el Acuerdo respectivo para la atención en ventanilla. En los términos fijados en periodos y aquéllos en que se señala una fecha para su extinción, se comprenderán para su cómputo todos los días.
 
-(SIC)
+(REFORMADO, P.O. 29 DE MARZO DE 2006) (F. DE E., P.O. 18 DE MARZO DE 2011)
+
+En los plazos fijados no se contarán los sábados, los domingos ni el 1 de enero; el primer lunes de febrero en conmemoración 5 de febrero; el tercer lunes de marzo, en conmemoración del 21 de marzo; el 1 y el 5 de mayo; el 16 de septiembre; el viernes previo al tercer lunes de noviembre, en conmemoración del 18 de noviembre; el tercer lunes de noviembre, en conmemoración del 20 de noviembre; el 1 de diciembre de cada seis años, cuando corresponda a la transmisión del Poder Ejecutivo Federal; el 25 de diciembre; los que determinen las leyes federales y locales, en el caso de elecciones ordinarias, para efectuar la jornada electoral, y los que señale el Ejecutivo del Estado.
+
+(ADICIONADO, P.O. 3 DE DICIEMBRE DE 1991) (F. DE E., P.O. 18 DE MARZO DE 2011)
+
+Tampoco se contarán en dichos plazos, los días en que tengan vacaciones generales las autoridades fiscales, excepto cuando se trate de plazos para presentación de declaraciones y pago de contribuciones, exclusivamente, en cuyos casos esos días se consideran hábiles. No son vacaciones generales las que se otorguen en forma escalonada.
+
+(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE DICIEMBRE DE 1995) (F. DE E., P.O. 18 DE MARZO DE 2011)
+
+En los plazos establecidos por períodos y aquéllos en que señale una fecha determinada para su extinción se computarán todos los días. Cuando los plazos se fijen por mes o por año sin especificar que sean de calendario, se entenderá que en el primer caso el plazo concluye el mismo día del mes del calendario posterior a aquél en que se inició y en el segundo, el término vencerá el mismo día del siguiente año de calendario a aquél en que se inició. En los plazos que se fijen por mes o por año cuando no exista el mismo día en el mes de calendario correspondiente, el término será el primer día hábil del siguiente mes de calendario. No obstante lo anterior, si el último día del plazo o en la fecha determinada las oficinas ante las que se vaya a hacer el trámite permanecen cerradas durante el horario normal de labores o se trate de un día inhábil, se prorrogará el plazo hasta el siguiente día hábil. Lo dispuesto en este artículo es aplicable inclusive cuando se autorice a las instituciones de crédito para recibir declaraciones.
+
+(REFORMADO, P.O. 31 DE MARZO DE 2006) (F. DE E., P.O. 18 DE MARZO DE 2011)
+
+También se prorrogará el plazo hasta el siguiente día hábil, cuando sea viernes el último día del plazo en que se deba presentar la declaración respectiva, en las Oficinas Recaudadoras y de Asistencia al Contribuyente, Receptoras de Pago e Instituciones Bancarias, o se utilice algún otro medio de pago.
+
+(REFORMADO, P.O. 31 DE MARZO DE 2006) (F. DE E., P.O. 18 DE MARZO DE 2011)
+
+Las autoridades fiscales podrán habilitar los días y horas inhábiles; esta circunstancia deberá comunicarse a los particulares y no alterará el cálculo de plazos. También podrán ampliar el horario de atención al público en las Oficinas Recaudadoras y de Asistencia al Contribuyente o Receptoras de Pago, los días en que se venzan los plazos para la presentación de declaraciones; hecho que se dará a conocer mediante publicación que realice la Secretaría de Finanzas y Administración.
+
+(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995) (F. DE E., P.O. 18 DE MARZO DE 2011)
+
+La Autoridades Fiscales para la práctica de visitas domiciliarias, del procedimiento administrativo de ejecución, de notificaciones y de embargos precautorios, podrán habilitar los días y horas inhábiles, cuando la persona con quien se va a practicar la diligencia realice las actividades por las que deba pagar contribuciones en días y horas inhábiles. También se podrá continuar en días y horas inhábiles una diligencia iniciada en días y horas hábiles, cuando la continuación tenga por objeto el aseguramiento de contabilidad o de bienes del particular o elaborar el acta de inicio de la visita domiciliaria.
+
+(ADICIONADO, P.O. 17 DE DICIEMBRE DE 1993) (F. DE E., P.O. 18 DE MARZO DE 2011)
+
+La práctica de diligencias deberá efectuarse en días y horas hábiles, considerándose como tales las comprendidas entre las 7:30 y las 18:00 horas.
 
 ###### ARTICULO 17.
 
