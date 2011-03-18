@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-del-poder-judicial-del-estado-de-mexico-6086"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-09-08"
-last_updated: "2010-03-03"
+last_updated: "2011-03-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6086&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE MÉXICO
 
 > <small>N. DE E. DE CONFORMIDAD CON EL DECRETO NO. 4 PUBLICADO EN LA G.G. DE 30 DE SEPTIEMBRE DE 2009, EL SISTEMA PROCESAL PENAL ACUSATORIO ADVERSARIAL Y ORAL HA SIDO INCORPORADO EN EL PRESENTE ORDENAMIENTO, Y ENTRARÁ EN VIGOR EN LOS SIGUIENTES PLAZOS Y DISTRITOS: 1) EL PRIMERO DE OCTUBRE DE DOS MIL NUEVE, EN LOS DISTRITOS JUDICIALES DE TOLUCA, LERMA, TENANCINGO Y TENANGO DEL VALLE; 2) EL PRIMERO DE ABRIL DE DOS MIL DIEZ, EN LOS DISTRITOS JUDICIALES DE CHALCO, OTUMBA Y TEXCOCO; 3) EL PRIMERO DE OCTUBRE DE DOS MIL DIEZ, EN LOS DISTRITOS JUDICIALES DE NETZAHUALCÓYOTL, EL ORO, IXTLAHUACA, SULTEPEC Y TEMASCALTEPEC; 4) EL PRIMERO DE ABRIL DE DOS MIL ONCE, EN LOS DISTRITOS JUDICIALES DE TLALNEPANTLA, CUAUTITLÁN Y ZUMPANGO; 5) EL PRIMERO DE OCTUBRE DE DOS MIL ONCE, EN LOS DISTRITOS JUDICIALES DE ECATEPEC DE MORELOS, JILOTEPEC Y VALLE DE BRAVO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE MARZO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 18 DE MARZO DE 2011.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el viernes 8 de septiembre de 1995.
 
@@ -2247,6 +2247,10 @@ IV. Jueces ejecutores de sentencias; y
 
 V. Salas del Tribunal Superior de Justicia.
 
+> <small>(ADICIONADO, G.G. 18 DE MARZO DE 2011)</small>
+
+El Poder Judicial del Estado contará con jueces y magistrados especializados en violencia de género.
+
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
@@ -2806,3 +2810,21 @@ PRIMERO.- Publíquese el presente Decreto en el periódico oficial "Gaceta del G
 SEGUNDO.- Este decreto entrará en vigor al día siguiente de que inicie su vigencia la reforma a los artículos 61 fracción XV en sus párrafos primero y segundo, 77 en su fracción XII de la Constitución Política del Estado Libre y Soberano de México.
 
 TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+G.G. 18 DE MARZO DE 2011.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+TERCERO.- Los hechos delictuosos cometidos con anterioridad a la entrada en vigor del presente Decreto, serán sancionados de conformidad con las disposiciones vigentes en la fecha de su comisión.
+
+CUARTO.- La Procuraduría General de Justicia del Estado de México, dentro del plazo de seis meses siguientes a la entrada en vigor de este Decreto, de acuerdo con las disposiciones administrativas que rigen su organización interna y en términos de su presupuesto, instalará módulos para la recepción de denuncias y querellas relacionados con delitos cometidos en el transporte público de pasajeros.
+
+Asimismo, diseñará y pondrá en marcha campañas preventivas, en coordinación con las autoridades competentes, orientadas a inhibir el delito de acoso en el transporte público de pasajeros.
+
+QUINTO.- El Consejo de la Judicatura del Estado deberá proveer respecto de la capacitación a la que deberán sujetarse los jueces y magistrados con especialización en violencia de género y adscribirá a cada región judicial los que sean necesarios conforme a la demanda del servicio.
+
+SEXTO.- El Procurador General de Justicia del Estado de México, deberá expedir el acuerdo a que se refiere la fracción XXV del artículo 51 de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de México, en un plazo máximo de quince días, contados a partir de la publicación del presente Decreto.
+
+SÉPTIMO.- La Procuraduría General de Justicia del Estado de México, emitirá en un plazo no mayor de 60 días naturales siguientes a la vigencia, los protocolos de investigación mínimos para la comprobación de los nuevos delitos tipificados del presente decreto.
