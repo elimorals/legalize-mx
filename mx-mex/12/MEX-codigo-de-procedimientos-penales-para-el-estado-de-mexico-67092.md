@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-procedimientos-penales-para-el-estado-de-mexico-67092
 country: "mx"
 rank: "codigo"
 publication_date: "2009-02-09"
-last_updated: "2011-03-15"
+last_updated: "2011-03-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67092&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE MÉXICO
 
 > <small>N. DE E. DE CONFORMIDAD CON EL DECRETO NO. 4 PUBLICADO EN LA G.G. DE 30 DE SEPTIEMBRE DE 2009, EL SISTEMA PROCESAL PENAL ACUSATORIO ADVERSARIAL Y ORAL HA SIDO INCORPORADO EN EL PRESENTE ORDENAMIENTO, Y ENTRARÁ EN VIGOR EN LOS SIGUIENTES PLAZOS Y DISTRITOS: 1) EL PRIMERO DE OCTUBRE DE DOS MIL NUEVE, EN LOS DISTRITOS JUDICIALES DE TOLUCA, LERMA, TENANCINGO Y TENANGO DEL VALLE; 2) EL PRIMERO DE ABRIL DE DOS MIL DIEZ, EN LOS DISTRITOS JUDICIALES DE CHALCO, OTUMBA Y TEXCOCO; 3) EL PRIMERO DE OCTUBRE DE DOS MIL DIEZ, EN LOS DISTRITOS JUDICIALES DE NETZAHUALCÓYOTL, EL ORO, IXTLAHUACA, SULTEPEC Y TEMASCALTEPEC; 4) EL PRIMERO DE ABRIL DE DOS MIL ONCE, EN LOS DISTRITOS JUDICIALES DE TLALNEPANTLA, CUAUTITLÁN Y ZUMPANGO; 5) EL PRIMERO DE OCTUBRE DE DOS MIL ONCE, EN LOS DISTRITOS JUDICIALES DE ECATEPEC DE MORELOS, JILOTEPEC Y VALLE DE BRAVO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 15 DE MARZO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 18 DE MARZO DE 2011.
 
 Código publicado en la Sección Quinta de la Gaceta del Gobierno del Estado de México, el lunes 9 de febrero de 2009.
 
@@ -139,9 +139,11 @@ Se procurará que los miembros de pueblos o comunidades indígenas a quienes se 
 
 Derecho a recurrir
 
+> <small>(REFORMADO, G.G. 18 DE MARZO DE 2011)</small>
+
 ###### Artículo 9.
 
-El imputado tendrá derecho a impugnar cualquier resolución que le cause agravio, en los supuestos previstos por este código.
+El imputado, así como la víctima u ofendido, podrán impugnar cualquier resolución que les cause agravio, en los supuestos previstos por este código.
 
 Medidas cautelares
 
@@ -1195,6 +1197,10 @@ Revocación de la suspensión
 
 Si el imputado incumple injustificadamente las condiciones impuestas, con el plan de reparación, o posteriormente es condenado en forma ejecutoriada por delito doloso o culposo cuando el proceso suspendido a prueba se refiera a delito de esta naturaleza, el juez de control, previa petición del ministerio público o de la víctima u ofendido, convocará a las partes a una audiencia en la que se debatirá sobre la revocatoria y resolverá de inmediato, acerca de la reanudación de la persecución penal.
 
+> <small>(ADICIONADO, G.G. 18 DE MARZO DE 2011)</small>
+
+Tratándose de delitos vinculados a la violencia de género, se revocará la suspensión del proceso a prueba cuando el imputado incurra en otro u otros delitos de naturaleza similar, independientemente de su gravedad. El ministerio público o la víctima u ofendido, podrán solicitar la revocación de la suspensión del proceso a prueba, durante la investigación iniciada por el nuevo delito o una vez realizada la imputación. Para la revocación de la suspensión del proceso a prueba en los casos a que se refiere este párrafo, no se requerirá resolución ejecutoriada.
+
 Si la víctima u ofendido ha recibido pagos durante la suspensión condicional del proceso a prueba que posteriormente es revocada, se aplicarán a la reparación del daño que les pudiera corresponder.
 
 Cesación provisional
@@ -1296,6 +1302,14 @@ Representación de pluralidad de víctimas u ofendidos
 Un mismo agente del ministerio público podrá tener la representación de varias víctimas u ofendidos en un mismo procedimiento cuando no exista conflicto de intereses entre ellos. De advertirse éste, el juez proveerá lo necesario para corregirlo.
 
 Si en un procedimiento intervienen dos o más agentes del ministerio público, sólo podrá hacerlo uno de ellos cada vez que le corresponda.
+
+> <small>(ADICIONADO, G.G. 18 DE MARZO DE 2011)</small>
+
+Cuantificación de la reparación del daño
+
+###### Artículo 141.
+
+1. El ministerio público deberá aportar los dictámenes periciales correspondientes para cuantificar la reparación del daño.
 
 ### CAPÍTULO II. DE LA POLICÍA
 
@@ -1741,19 +1755,39 @@ Reglas especiales de actuación
 
 Cuando las características del caso aconsejen adoptar medidas especiales para asegurar la regularidad y buena fe en el procedimiento, el juez o tribunal de inmediato convocarán a las partes a fin de acordar reglas particulares de actuación.
 
-## TÍTULO SEXTO. MEDIDAS CAUTELARES
+> <small>(REFORMADA SU DENOMINACION, G.G. 18 DE MARZO DE 2011)</small>
+
+## TÍTULO SEXTO. MEDIDAS CAUTELARES, PROVIDENCIAS PRECAUTORIAS Y MEDIDAS DE PROTECCIÓN
 
 ### CAPÍTULO I. NORMAS GENERALES
+
+> <small>(REFORMADO, G.G. 18 DE MARZO DE 2011)</small>
 
 Principio general
 
 ###### Artículo 180.
 
-Las medidas cautelares autorizadas por este código en contra del imputado sólo pueden ser impuestas por la autoridad judicial, en cualquier etapa del procedimiento, y tendrán como finalidades: asegurar la presencia del imputado en el juicio, el desarrollo de la investigación, la protección de la víctima o del ofendido, de los testigos o de la comunidad.
+Las medidas cautelares o providencias precautorias autorizadas por la ley, tendrán como finalidades: asegurar la presencia del imputado en el juicio, el desarrollo de la investigación, la protección de la víctima o del ofendido, de los testigos o de la comunidad, garantizar la reparación del daño, o la ejecución de la sentencia.
 
-La decisión de imponer una medida cautelar o rechazarla es revocable o modificable en cualquier estado del proceso.
+La imposición de las medidas cautelares y providencias precautorias compete al juez de control y al ministerio público, conforme a lo dispuesto en este Código.
 
-El juez puede proceder de oficio, cuando favorezca la libertad del imputado.
+El ministerio público impondrá medidas cautelares y providencias precautorias en la etapa de investigación, de oficio o a petición de la víctima u ofendido, las cuales serán revisadas por la autoridad judicial en los términos establecidos en el artículo 192.1 de este código.
+
+Asimismo, la autoridad judicial, a petición del ministerio público, víctima u ofendido, después de realizada la imputación y en cualquier etapa del proceso, podrá imponer medidas cautelares o providencias precautorias.
+
+Las medidas cautelares o providencias precautorias podrán ser modificadas, sustituidas o revocadas en cualquier estado del proceso.
+
+> <small>(ADICIONADO, G.G. 18 DE MARZO DE 2011)</small>
+
+Medidas de protección
+
+###### Artículo 180.
+
+1. Las medidas de protección tienen como finalidad la protección de la víctima o del ofendido y de todos los sujetos que intervengan en el proceso, las cuales no requieren autorización judicial.
+
+Corresponde al ministerio público y a la autoridad judicial ordenar las medidas de protección que establece este código y dictar las providencias necesarias para su debido cumplimiento y ejecución.
+
+Tratándose de delitos vinculados a la violencia de género, y en los casos en que las víctimas u ofendidos sean menores de edad, el ministerio público o la autoridad judicial, según corresponda, dictarán de inmediato, de oficio, las medidas de protección apropiadas para salvaguardar su seguridad e integridad física y psicológica.
 
 Proporcionalidad
 
@@ -1763,7 +1797,9 @@ No se podrá ordenar una medida cautelar cuando ésta resulte desproporcionada e
 
 Tratándose de medidas cautelares que impliquen privación de la libertad, en ningún caso podrá sobrepasar la pena mínima prevista para el delito.
 
-### CAPÍTULO II. MEDIDAS CAUTELARES PERSONALES
+> <small>(REFORMADA SU DENOMINACION, G.G. 18 DE MARZO DE 2011)</small>
+
+### CAPÍTULO II. MEDIDAS CAUTELARES Y DE PROTECCIÓN PERSONALES
 
 Procedencia de la detención
 
@@ -1869,9 +1905,11 @@ Cuando el imputado ha sido aprehendido después de habérsele formulado la imput
 
 Medidas cautelares personales
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 18 DE MARZO DE 2011)</small>
+
 ###### Artículo 192.
 
-Para garantizar el éxito de las diligencias de investigación o la seguridad de la sociedad, proteger al ofendido o asegurar la comparecencia del imputado a las actuaciones del procedimiento o ejecución de la sentencia, después de formulada la imputación, el juez a petición del ministerio público, del ofendido o la víctima, podrá imponer una o más de las siguientes medidas:
+El juez o el ministerio público podrá imponer una o más de las siguientes medidas cautelares:
 
 I. La exhibición de una garantía económica en los términos fijados por éste código;
 
@@ -1879,9 +1917,13 @@ II. La prohibición de salir del país, de la localidad en la cual reside o del 
 
 III. La obligación de someterse al cuidado o vigilancia de una persona o institución determinada, que informe regularmente al juez;
 
-IV. La obligación de presentarse periódicamente ante el juez o ante la autoridad que él designe;
+> <small>(REFORMADA, G.G. 18 DE MARZO DE 2011)</small>
 
-V. La colocación de localizadores electrónicos, sin que pueda mediar violencia o lesión a la dignidad o integridad física del imputado;
+IV. La obligación de presentarse periódicamente ante el juez o el ministerio público;
+
+> <small>(REFORMADA, G.G. 18 DE MARZO DE 2011)</small>
+
+V. La colocación de localizadores electrónicos, sin que pueda mediar violencia o lesión a la dignidad o integridad física del destinatario de la medida;
 
 VI. La reclusión domiciliaria, con o sin vigilancia;
 
@@ -1889,7 +1931,9 @@ VII. La prohibición de concurrir a determinadas reuniones o de visitar ciertos 
 
 VIII. La prohibición de convivir o comunicarse con personas determinadas, siempre que no se afecte el derecho de defensa;
 
-IX. La separación inmediata del domicilio cuando se trate de agresiones a mujeres y niños o delitos sexuales y cuando la víctima u ofendido conviva con el imputado;
+> <small>(REFORMADA, G.G. 18 DE MARZO DE 2011)</small>
+
+IX. La separación inmediata del domicilio cuando se trate de agresiones a mujeres y niños o delitos sexuales y cuando la víctima u ofendido conviva con el destinatario de la medida;
 
 X. La suspensión provisional en el ejercicio del cargo, profesión u oficio, cuando se atribuya un delito cometido con motivo de éstos, siempre y cuando aquel establezca como pena la inhabilitación, destitución o suspensión;
 
@@ -1899,13 +1943,93 @@ XII. Internamiento en instituciones de salud, en los casos en que el estado fís
 
 XIII. La prisión preventiva, si el delito de que se trate, está sancionado con pena privativa de libertad.
 
-Imposición de medidas cautelares
+> <small>(ADICIONADO, G.G. 18 DE MARZO DE 2011)</small>
+
+Las medidas contenidas en las fracciones II, III, V, VI, X, XI, XII y XIII, serán impuestas exclusivamente por el juez a petición del ministerio público, la víctima o el ofendido.
+
+> <small>(ADICIONADO, G.G. 18 DE MARZO DE 2011)</small>
+
+###### Artículo 192.
+
+1. El ministerio público solicitará dentro del término de 24 horas siguientes a la imposición de medidas cautelares o providencias precautorias, audiencia al juez de control para su revisión.
+
+El juez citará para audiencia dentro de los 7 días siguientes, en la que resolverá sobre la ratificación, modificación, sustitución o revocación de la medida o providencia impuesta.
+
+Las medidas impuestas por el ministerio público tendrán plena vigencia y serán ejecutadas por conducto de las autoridades competentes y en su caso, con el auxilio de la fuerza pública, en tanto el juez de control resuelve lo conducente.
+
+El ministerio público podrá solicitar la ampliación o prórroga de las medidas cautelares y providencias precautorias impuestas por el Juez en cualquier etapa de la investigación, así como su extensión para la protección y seguridad de personas relacionadas con la víctima u ofendido o cualesquiera otras que deban intervenir en el proceso.
+
+> <small>(REFORMADO, G.G. 18 DE MARZO DE 2011)</small>
+
+Cumplimiento de medidas cautelares
 
 ###### Artículo 193.
 
-A solicitud del ministerio público, de la víctima u ofendido, el juez dictará las órdenes necesarias para garantizar el cumplimiento de las medidas cautelares.
+El agente del ministerio público o el juez, según sea el caso, dictarán las órdenes necesarias para garantizar el cumplimiento de las medidas cautelares.
 
-Para la aplicación de cualquiera de las medidas cautelares, es indispensable que existan datos que acrediten el hecho delictuoso y hagan probable la intervención del imputado.
+> <small>(ADICIONADO, G.G. 18 DE MARZO DE 2011)</small>
+
+Medidas de protección
+
+###### Artículo 193.
+
+1. Son medidas de protección para los efectos de este código, las siguientes:
+
+I. Vigilancia en el domicilio de la víctima u ofendido;
+
+II. Protección policial de la víctima u ofendido;
+
+III. Auxilio inmediato por integrantes de instituciones policiales, al domicilio donde se localice o se encuentre la víctima u ofendido en el momento de solicitarlo;
+
+IV. Auxilio de la fuerza pública para asegurar la inmediata entrega o devolución de objetos personales o documentos de identificación de la víctima u ofendido, así como de sus ascendientes, descendientes o dependientes económicos;
+
+V. Realización del inventario de los bienes muebles e inmuebles propiedad de la víctima u ofendido o respecto de los cuales sea titular de derechos;
+
+VI. Traslado de la víctima u ofendido a refugios o albergues temporales, así como de sus descendientes;
+
+VII. Reingreso de la víctima u ofendido a su domicilio, una vez que se salvaguarde su seguridad;
+
+VIII. Registro o inscripción en programas estatales de desarrollo personal, social, educativo y laboral;
+
+IX. La prohibición de realizar conductas de intimidación o molestia a la víctima u ofendido o personas relacionadas con ellos, y
+
+X. Las demás que determinen las disposiciones legales.
+
+> <small>(ADICIONADO, G.O. 18 DE MARZO DE 2011)</small>
+
+Imposición de medidas de protección
+
+###### Artículo 193.
+
+2. Para la imposición de medidas de protección, el ministerio público o la autoridad judicial, según corresponda, deberán considerar al menos una de las siguientes hipótesis:
+
+I. Las circunstancias de comisión de los hechos;
+
+II. La gravedad de las lesiones y del daño causado;
+
+III. La existencia de amenazas o riesgo de conductas violentas en perjuicio de la víctima u ofendido u otras personas relacionadas con los hechos;
+
+IV. Las circunstancias personales del indiciado, así como de la víctima u ofendido, que revelen situaciones de peligro real y actual;
+
+V. Los demás datos relevantes para el cumplimiento de los fines a que se refiere el artículo 180.1 de este código.
+
+> <small>(ADICIONADO, G.G. 18 DE MARZO DE 2011)</small>
+
+Reglas para medidas de protección
+
+###### Artículo 193.
+
+3. El ministerio público y la autoridad judicial informarán a la víctima u ofendido sobre las medidas de protección pertinentes, así como las condiciones y limitantes para su aplicación y las circunstancias en que podrán ser revocadas.
+
+> <small>(ADICIONADO, G.G. 18 DE MARZO DE 2011)</small>
+
+Ejecución de medidas cautelares, providencias precautorias y medidas de protección
+
+###### Artículo 193.
+
+4. Las instituciones policiales y todas las dependencias, entidades y organismos auxiliares de la administración pública del Estado de México y de los municipios, están obligados a cumplir las órdenes que emitan el ministerio público y la autoridad judicial para la debida ejecución de las medidas cautelares, providencias precautorias y medidas de protección que se dicten en los términos de la ley, así como a prestar el auxilio y colaboración que les sea requerido para ello.
+
+El incumplimiento de las órdenes que dicten el ministerio público o la autoridad judicial será sancionado en términos de las disposiciones aplicables, sin perjuicio de la responsabilidad penal a que haya lugar.
 
 Procedencia de la prisión preventiva
 
@@ -2039,9 +2163,11 @@ Al comunicarse al imputado la determinación sobre una medida cautelar impuesta,
 
 Ejecución de la garantía
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 18 DE MARZO DE 2011)</small>
+
 ###### Artículo 203.
 
-Cuando sin causa justificada el imputado incumpla con alguna de las medidas cautelares o alguna orden de la autoridad judicial, omita comparecer a alguna audiencia para la que se encuentre citado, o no se presente a cumplir la pena que se le haya impuesto, la autoridad judicial requerirá al garante para que presente al imputado en un plazo no mayor a diez días y le prevendrá que si no lo hace o no justifica la incomparecencia, se hará efectiva la garantía.
+Cuando sin causa justificada el imputado incumpla con alguna de las medidas cautelares o alguna orden de la autoridad ministerial o judicial, omita comparecer a alguna audiencia para la que se encuentre citado, o no se presente a cumplir la pena que se le haya impuesto, la autoridad judicial requerirá al garante para que presente al imputado en un plazo no mayor a diez días y le prevendrá que si no lo hace o no justifica la incomparecencia, se hará efectiva la garantía.
 
 Vencido el plazo otorgado, el juez dispondrá, según el caso, la ejecución de la garantía y se hará efectivo su importe a favor de la víctima u ofendido y del Fondo Auxiliar para la Administración de Justicia, respectivamente.
 
@@ -2184,6 +2310,10 @@ Aplicación
 ###### Artículo 219.
 
 El embargo precautorio de bienes y su ejecución se regirá en lo conducente por las reglas generales del embargo previstas en el Código de Procedimientos Civiles para el Estado de México.
+
+> <small>(ADICIONADO, G.G. 18 DE MARZO DE 2011)</small>
+
+En los casos de delitos vinculados a la violencia de género, la autoridad competente podrá designar como depositario de los bienes embargados a la víctima u ofendido o quien ejerza la patria potestad o la custodia de los menores.
 
 Imposición de medidas cautelares
 
@@ -2537,6 +2667,20 @@ El juez, el ministerio público y la policía podrán disponer que sean resguard
 
 Quien tuviera en su poder objetos de los señalados estará obligado a presentarlos y entregarlos, cuando le sea requerido, aplicando en su caso, los medios de apremio permitidos por este código; pero la orden de presentación no podrá dirigirse contra las personas que puedan o deban abstenerse de declarar como testigos.
 
+> <small>(ADICIONADO, G.G. 18 DE MARZO DE 2011)</small>
+
+Aseguramiento de bienes por el ministerio público
+
+###### Artículo 258.
+
+1. El ministerio público ordenará el aseguramiento de los bienes que sean instrumento, objeto o producto del hecho delictuoso, así como de aquéllos que puedan ser útiles para garantizar la reparación del daño.
+
+En la práctica del aseguramiento, el ministerio público proveerá las medidas conducentes e inmediatas para evitar que se destruyan, alteren o desaparezcan.
+
+En caso de que los bienes asegurados pueden servir como medios de prueba, se observarán las reglas para su resguardo y en materia de cadena de custodia.
+
+Tratándose de delitos vinculados a la violencia de género, el ministerio público ordenará de inmediato, de oficio, el aseguramiento de bienes suficientes para garantizar la reparación del daño.
+
 Procedimiento para el aseguramiento
 
 ###### Artículo 259.
@@ -2555,6 +2699,66 @@ No habrá lugar a estas excepciones cuando las personas mencionadas en este art�
 
 Si en cualquier momento del procedimiento se constata que las comunicaciones aseguradas se encuentran comprendidas en los supuestos de este artículo, éstas serán inadmisibles como medio de prueba en la etapa procesal correspondiente.
 
+> <small>(ADICIONADO, G.G. 18 DE MARZO DE 2011)</small>
+
+Abandono de bienes asegurados
+
+###### Artículo 260.
+
+1. El ministerio público notificará el aseguramiento al propietario o poseedor de los bienes a que se refiere el artículo 258.1, cuya retención no sea necesaria legalmente, a fin de que se presente dentro del plazo de tres meses a manifestar lo que a su interés convenga respecto de los mismos, apercibido que de no hacerlo, los bienes causarán abandono a favor del Estado.
+
+> <small>(ADICIONADO, G.G. 18 DE MARZO DE 2011)</small>
+
+Reglas de notificación
+
+###### Artículo 260.
+
+2. El ministerio público realizará la notificación a que se refiere el artículo anterior conforme a lo siguiente:
+
+I. Personalmente, con el interesado o su representante legal, de conformidad con las reglas siguientes:
+
+a) La notificación se practicará en el domicilio del interesado. En caso de que el interesado se encuentre privado de su libertad, la notificación personal se hará en el lugar donde se encuentre detenido;
+
+b) Quien practique la notificación deberá cerciorarse del domicilio, entregar copia de la resolución que se notifique y recabar nombre y firma de la persona con quien se entienda la diligencia, asentando los datos del documento oficial con el que se identifique. Asimismo, se deberán asentar en el acta de notificación los datos de identificación del servidor público que la practique;
+
+c) De no encontrarse la persona en la primera notificación, se le dejará citatorio en el domicilio designado para que espere a la persona designada para practicarla al día hábil siguiente, en la hora determinada en el citatorio, y de no encontrarse la persona o de negarse a recibir la notificación, se fijará instructivo en un lugar visible del domicilio, señalándose tal circunstancia en el acta de notificación, y
+
+d) En todos los casos deberá levantarse acta circunstanciada de la diligencia que se practique.
+
+II. Por edictos, cuando se desconozca la identidad o domicilio del interesado, en cuyo caso se publicará por una sola ocasión en la Gaceta del Gobierno y en un periódico de circulación estatal. Los edictos deberán contener el acuerdo por notificar.
+
+Tratándose de inmuebles, la publicación se realizará en dos ocasiones en un plazo de un mes en la Gaceta del Gobierno y en un periódico de circulación estatal y otro de circulación nacional.
+
+Las notificaciones personales surtirán efectos el día en que hubieren sido practicadas y las efectuadas por edictos el día de su última publicación.
+
+> <small>(ADICIONADO, G.G. 18 DE MARZO DE 2011)</small>
+
+Solicitud de audiencia
+
+###### Artículo 260.
+
+3. En caso de que se presente el interesado y acredite tener derechos sobre los bienes, el ministerio público podrá ordenar el levantamiento del aseguramiento y la devolución de éstos, si ello resulta procedente, o bien, mantendrá el aseguramiento para los efectos legales a que haya lugar.
+
+Transcurrido el plazo a que se refiere el artículo 260.1, sin que ninguna persona se haya presentado a deducir derechos sobre los bienes asegurados o no haya demostrado estos, el ministerio público solicitará al juez de control que declare el abandono de los bienes.
+
+El juez de control citará al interesado, a la víctima u ofendido y al ministerio público a una audiencia dentro de los diez días siguientes a la solicitud a que se refiere el párrafo anterior.
+
+La citación a la audiencia se realizará como sigue:
+
+I. Al ministerio público, conforme a las reglas generales establecidas en este Código;
+
+II. A la víctima u ofendido, por conducto del ministerio público, y
+
+III. Al interesado, de manera personal y, cuando se desconozca su domicilio o identidad, por estrados y boletín judicial.
+
+> <small>(ADICIONADO, G.G. 18 DE MARZO DE 2011)</small>
+
+Resolución de abandono
+
+###### Artículo 260.
+
+4. El juez de control al resolver sobre el abandono verificará que las notificaciones se realizaron correctamente al interesado, que transcurrió el plazo correspondiente y que no se presentó ante el ministerio público a deducir derechos sobre los bienes asegurados o que éstos no fueron reconocidos.
+
 Devolución de bienes
 
 ###### Artículo 261.
@@ -2567,7 +2771,9 @@ Si existiere controversia acerca de la tenencia, posesión o dominio sobre un bi
 
 En todo caso, se dejará constancia mediante fotografías u otros medios que resulten convenientes de los elementos restituidos o devueltos en virtud de este artículo.
 
-Concluido el procedimiento, si no fue posible averiguar a quien corresponden, los bienes podrán ser entregados en depósito a una institución asistencial que las necesite, quienes sólo podrán utilizarlas para cumplir el servicio que brindan al público.
+> <small>(REFORMADO, G.G. 18 DE MARZO DE 2011)</small>
+
+Concluido el procedimiento, si no fue posible averiguar a quién corresponden, se aplicarán las reglas del abandono.
 
 Aseguramiento de bienes
 
@@ -4806,3 +5012,21 @@ G.G. 15 DE MARZO DE 2011.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
 SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 18 DE MARZO DE 2011.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+TERCERO.- Los hechos delictuosos cometidos con anterioridad a la entrada en vigor del presente Decreto, serán sancionados de conformidad con las disposiciones vigentes en la fecha de su comisión.
+
+CUARTO.- La Procuraduría General de Justicia del Estado de México, dentro del plazo de seis meses siguientes a la entrada en vigor de este Decreto, de acuerdo con las disposiciones administrativas que rigen su organización interna y en términos de su presupuesto, instalará módulos para la recepción de denuncias y querellas relacionados con delitos cometidos en el transporte público de pasajeros.
+
+Asimismo, diseñará y pondrá en marcha campañas preventivas, en coordinación con las autoridades competentes, orientadas a inhibir el delito de acoso en el transporte público de pasajeros.
+
+QUINTO.- El Consejo de la Judicatura del Estado deberá proveer respecto de la capacitación a la que deberán sujetarse los jueces y magistrados con especialización en violencia de género y adscribirá a cada región judicial los que sean necesarios conforme a la demanda del servicio.
+
+SEXTO.- El Procurador General de Justicia del Estado de México, deberá expedir el acuerdo a que se refiere la fracción XXV del artículo 51 de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de México, en un plazo máximo de quince días, contados a partir de la publicación del presente Decreto.
+
+SÉPTIMO.- La Procuraduría General de Justicia del Estado de México, emitirá en un plazo no mayor de 60 días naturales siguientes a la vigencia, los protocolos de investigación mínimos para la comprobación de los nuevos delitos tipificados del presente decreto.
