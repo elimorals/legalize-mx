@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-participacion-ciudadana-del-municipio-de-57673"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-11-16"
-last_updated: "2010-08-13"
+last_updated: "2011-03-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57673&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "NLE"
 ---
 # REGLAMENTO DE PARTICIPACION CIUDADANA DEL MUNICIPIO DE MONTERREY, NUEVO LEON
 
-REGLAMENTO DE PARTICIPACION CIUDADANA DEL MUNICIPIO DE MONTERREY, N. L.
+REGLAMENTO DE PARTICIPACIÓN CIUDADANA DEL MUNICIPIO DE MONTERREY, N. L.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE AGOSTO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2011.
 
-Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 16 de noviembre de 2007.
+Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 16 de Noviembre de 2007.
 
 EL C. LIC. ADALBERTO ARTURO MADERO QUIROGA, PRESIDENTE MUNICIPAL DE LA CIUDAD DE MONTERREY, NUEVO LEÓN, A LOS HABITANTES DE ESTE MUNICIPIO HACE SABER:
 
@@ -337,7 +337,7 @@ IV.- Mantener actualizado el registro.
 
 ###### Artículo 22.
 
-Para·efecto de que las Asociaciones queden inscritas en el Registro municipal de Asociaciones se deberé presentar ante la Dirección, lo siguiente:
+Para efecto de que las Asociaciones queden inscritas en el Registro municipal de Asociaciones se deberé presentar ante la Dirección, lo siguiente:
 
 l.- Solicitud de Registro;
 
@@ -427,7 +427,7 @@ En todo caso el número de integrantes procedentes de la Sociedad Civil será su
 
 ###### Artículo 31.
 
-Aquellos integrantes procedentes de la Sociedad·Civil de los Consejos Consultivos tendrán el carácter de honoríficos, incluyentes y representativos de la sociedad.
+Aquellos integrantes procedentes de la Sociedad Civil de los Consejos Consultivos tendrán el carácter de honoríficos, incluyentes y representativos de la sociedad.
 
 > <small>(REFORMADO, P.O. 5 DE FEBRERO DE 2010)</small>
 
@@ -499,7 +499,7 @@ XI.- Atender las propuestas y consultas que les realice el Presidente Municipal,
 
 XII.- Formular un informe trimestral de las actividades que se han realizado.
 
-XIlI.- Llevar a cabo sondeos de opinión y encuestas de satisfacción que permitan conocer la labor de la Secretaría o Dirección.
+XIII.- Llevar a cabo sondeos de opinión y encuestas de satisfacción que permitan conocer la labor de la Secretaría o Dirección.
 
 XIV.- Supervisar el cumplimiento del Plan Municipal de Desarrollo en el área para la cual fue creado el consejo correspondiente.
 
@@ -591,33 +591,25 @@ El Presidente del Consejo Consultivo Ciudadano no podrá ejercer la presidencia 
 
 El Presidente Municipal y los miembros de los consejos consultivos ciudadanos podrán crear subcomisiones dentro de cada consejo para el mejor desempeño de sus funciones.
 
+(ABROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE LOS COMITES DE ACCION COMUNITARIA, P.O. 18 DE MARZO DE 2011)
+
 ### CAPÍTULO QUINTO. DE LOS COMITÉS DE PARTICIPACIÓN CIUDADANA
 
-> <small>(ADICIONADA, P.O. 5 DE FEBRERO DE 2010)</small>
+(ABROGADA POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE LOS COMITES DE ACCION COMUNITARIA, P.O. 18 DE MARZO DE 2011)
 
 DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 2010)</small>
-
 ###### Artículo 50.
 
-Los Comités de Participación estarán integrados por vecinos de colonias dispuestos a participar activamente en los proyectos del Municipio, a fin de ayudar al mejoramiento integral de su comunidad en todos sus aspectos.
-
-> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 2010)</small>
+(ABROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE LOS COMITES DE ACCION COMUNITARIA, P.O. 18 DE MARZO DE 2011)
 
 ###### Artículo 51.
 
-La integración y funcionamiento de los Comités, de Participación, se regirán conforme a lo que señale su respectivo Reglamento.
-
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2010)</small>
-
-Los comités de participación serán coordinados por la Dirección del PAC de la Secretaría de Desarrollo Humano y Social, la cual será la encargada de vigilar que se cumpla con los objetivos.
-
-> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 2010)</small>
+(ABROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE LOS COMITES DE ACCION COMUNITARIA, P.O. 18 DE MARZO DE 2011)
 
 ###### Artículo 52.
 
-Cuando los vecinos de una colonia ya se encuentren organizados bajo alguna estructura legal o de hecho, distinta a los Comités de Participación Ciudadana, se tomará a dicha organización como un Comité de Participación Ciudadana siempre y cuando sus integrantes cumplan con los requisitos y acepten cumplir de forma voluntaria con las obligaciones que, conforme a este Reglamento, tienen dichos comités y las que se emitan en su momento.
+(ABROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE LOS COMITES DE ACCION COMUNITARIA, P.O. 18 DE MARZO DE 2011)
 
 ### CAPÍTULO SEXTO. DE LAS AUDIENCIAS PÚBLICAS
 
@@ -835,7 +827,7 @@ EL C. SECRETARIO DEL R. AYUNTAMIENTO
 
 DR. ARTURO CAVAZOS LEAL
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 5 DE FEBRERO DE 2010.
 
@@ -846,3 +838,13 @@ P.O. 13 DE AGOSTO DE 2010.
 Artículo Primero. Las presentes reformas por adición, modificación y derogación al Reglamento de Participación Ciudadana del Municipio de Monterrey, N. L., entrarán en vigor el día siguiente de su publicación en el Periódico Oficial del Estado, debiéndose posteriormente hacer su publicación en la Gaceta Municipal.
 
 Artículo Segundo. Se deroga cualquier disposición que contravenga lo dispuesto en las presentes Reformas.
+
+P.O. 18 DE MARZO DE 2011.
+
+###### ARTÍCULO PRIMERO
+
+El presente reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO
+
+Una vez publicado el presente reglamento en el Periódico Oficial, se abroga el Capítulo Quinto denominado de los Comités de Participación Ciudadana del Reglamento de Participación Ciudadana del Municipio de Monterrey, Nuevo León.
