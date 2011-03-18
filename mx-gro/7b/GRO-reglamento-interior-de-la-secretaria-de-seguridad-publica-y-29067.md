@@ -4,7 +4,7 @@ identifier: "GRO-reglamento-interior-de-la-secretaria-de-seguridad-publica-y-290
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-02-14"
-last_updated: "2003-02-14"
+last_updated: "2011-03-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29067&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GRO"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE SEGURIDAD PUBLICA Y PROTECCION CIUDADANA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO CUARTO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE SEGURIDAD PUBLICA Y PROTECCION CIVIL, PUBLICADO EN EL P.O. DE 18 DE MARZO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Guerrero, el viernes 14 de febrero de 2003.
 
@@ -926,3 +928,17 @@ El Secretario de Seguridad Pública y Protección Ciudadana.
 MAYOR LUIS LEON APONTE.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 18 DE MARZO DE 2011.
+
+Primero. El presente reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Segundo. Seguirán vigentes las disposiciones emitidas por el Ejecutivo del Estado, con anterioridad a la expedición del presente Reglamento, en la que no se opongan al mismo.
+
+Tercero. Los asuntos que se encuentren en trámite en la fecha en que entre en vigor este Reglamento serán turnados a la unidad administrativa a la que corresponda para el conocimiento de los mismos, según la nueva determinación de competencia, de conformidad con el presente reglamento y las demás disposiciones aplicables. Para tal efecto, los recursos humanos, materiales financieros y tecnológicos serán distribuidos de acuerdo al ámbito de facultades que a cada unidad administrativa le corresponda.
+
+El Secretario, podrá ordenar que uno o varios asuntos en trámite al momento de entrar en vigor el presente Reglamento, sigan en conocimiento de las unidades administrativas que originalmente tenían a su cargo.
+
+Cuarto. Se abroga el Reglamento Interior de la Secretaría de Seguridad Pública y Protección Ciudadana de fecha 14 de febrero de 2003.
