@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2011-03-09"
+last_updated: "2011-03-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA MUNICIPAL DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 9 DE MARZO DE 2011.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 18 DE MARZO DE 2011.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -679,7 +679,7 @@ XX. Autorizar la contratación de empréstitos, en términos de la Ley de Deuda 
 
 XXI. Formular, aprobar y ejecutar los planes de desarrollo municipal y los Programas correspondientes;
 
-(ADICIONADA, G.G. 3 DE SEPTIEMBRE DE 2010) (F. DE E.,G.G. 1 DE OCTUBRE DE 2010)
+(ADICIONADA, G.G. 3 DE SEPTIEMBRE DE 2010) (F. DE E., G.G. 1 DE OCTUBRE DE 2010)
 
 XXI Bis. Promover políticas públicas apoyadas en sistemas de financiamiento, cooperación y coordinación, que procuren el acceso a las tecnologías de la información y comunicación, específicamente servicios de acceso a internet, como un servicio gratuito, considerando para ello las características socioeconómicas de la población.
 
@@ -2643,9 +2643,9 @@ V. Servicios públicos municipales;
 
 VI. Desarrollo económico y bienestar social;
 
-> <small>(REFORMADA, G.G. 6 DE MARZO DE 2010)</small>
+> <small>(REFORMADA, G.G. 18 DE MARZO DE 2011)</small>
 
-VII. Programa Estratégico para lograr la equidad de género;
+VII. Los principios del Programa Estratégico para lograr la equidad de género, así como las infracciones administrativas y sanciones que por éstas deban imponerse en el ámbito de su competencia.
 
 > <small>(REFORMADA, G.G. 6 DE MARZO DE 2010)</small>
 
@@ -3156,3 +3156,21 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El presente Decreto entrará en vigor, el día siguiente al de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
 TERCERO.- Este Decreto aplicará para los próximos Ayuntamientos electos en 2012.
+
+G.G. 18 DE MARZO DE 2011.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+TERCERO.- Los hechos delictuosos cometidos con anterioridad a la entrada en vigor del presente Decreto, serán sancionados de conformidad con las disposiciones vigentes en la fecha de su comisión.
+
+CUARTO.- La Procuraduría General de Justicia del Estado de México, dentro del plazo de seis meses siguientes a la entrada en vigor de este Decreto, de acuerdo con las disposiciones administrativas que rigen su organización interna y en términos de su presupuesto, instalará módulos para la recepción de denuncias y querellas relacionados con delitos cometidos en el transporte público de pasajeros.
+
+Asimismo, diseñará y pondrá en marcha campañas preventivas, en coordinación con las autoridades competentes, orientadas a inhibir el delito de acoso en el transporte público de pasajeros.
+
+QUINTO.- El Consejo de la Judicatura del Estado deberá proveer respecto de la capacitación a la que deberán sujetarse los jueces y magistrados con especialización en violencia de género y adscribirá a cada región judicial los que sean necesarios conforme a la demanda del servicio.
+
+SEXTO.- El Procurador General de Justicia del Estado de México, deberá expedir el acuerdo a que se refiere la fracción XXV del artículo 51 de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de México, en un plazo máximo de quince días contados a partir de la publicación del presente Decreto.
+
+SÉPTIMO.- La Procuraduría General de Justicia del Estado de México, emitirá en un plazo no mayor de 60 días naturales siguientes a la vigencia, los protocolos de investigación mínimos para la comprobación de los nuevos delitos tipificados del presente decreto.
