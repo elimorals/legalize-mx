@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-de-la-procuraduria-general-de-justicia-del-67783"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-03-20"
-last_updated: "2009-03-20"
+last_updated: "2011-03-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67783&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE MEXICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 18 DE MARZO DE 2011.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el viernes 20 de marzo de 2009.
 
@@ -353,37 +353,23 @@ SUPLETORIEDAD: En todo lo que no se encuentre expresamente regulado en la presen
 
 VALOR DE LOS APOSTILLADOS: Las apostillas, brevetes o epígrafes que se encuentren colocados al inicio de cada disposición contenida en la presente ley, tendrán efectos, solamente para facilitar la consulta y la fácil localización de sus preceptos, por lo que si llegare a existir contradicción entre los rubros y sus contenidos deberán prevalecer estos últimos.
 
-### CAPITULO V. Imposición de medidas precautorias por el Ministerio Público
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE MARZO DE 2011)</small>
+
+### CAPITULO V. Imposición de Medidas Cautelares, Providencias Precautorias y Medidas de Protección
+
+> <small>(REFORMADO, G.G. 18 DE MARZO DE 2011)</small>
 
 ###### ARTÍCULO 14.
 
-A partir de que tenga conocimiento de los hechos y durante cualquier momento de la averiguación previa, a petición de la Policía Ministerial, de la víctima u ofendido o incluso de forma oficiosa, el Ministerio Público podrá imponer una o varias medidas cautelares con la finalidad de garantizar la continuación de los procedimientos, proteger o restituir los derechos de la víctima u ofendido o salvaguardar el interés social.
+A partir de que tenga conocimiento de los hechos y en cualquier momento de la investigación, de oficio o a petición de la víctima u ofendido, el Ministerio Público impondrá una o varias de las medidas cautelares o providencias precautorias que se establecen en el Código de Procedimientos Penales para el Estado de México y demás disposiciones aplicables, con la finalidad de asegurar la presencia del imputado en el juicio, el desarrollo de la investigación, la protección de la víctima o del ofendido, de los testigos o de la comunidad y garantizar la reparación del daño.
 
-Lo anterior se entenderá sin perjuicio de otras medidas cautelares o precautorias establecidas en otras leyes.
+El Ministerio Público dictará las órdenes necesarias para garantizar el cumplimiento de la o las medidas cautelares o providencias precautorias.
 
-Dichas medidas podrán consistir en:
-
-a) Prohibición de acercamiento a determinadas personas o lugares.
-
-b) Prohibición de comunicación con determinadas personas.
-
-c) Vigilancia a cargo de determinadas personas o instituciones.
-
-d) Prohibición de abandonar determinadas demarcaciones territoriales.
-
-e) Aseguramiento de instrumentos, objetos y productos del delito.
-
-f) Protección de la integridad física de la víctima u ofendido, o bien, cualquier sujeto que lo requiera, cuando se encuentre involucrado en la investigación o en el proceso respectivo.
-
-g) Aseguramiento para garantizar la reparación del daño.
-
-h) Restitución provisional de bienes a favor del ofendido.
-
-Las medidas cautelares contempladas en los incisos a). b), c) y d), deberán ejecutarse de inmediato, pero no podrán tener una duración mayor de 10 días naturales sin que sean sometidas a la revisión judicial en términos de los artículos correspondientes.
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2011)</small>
 
 ###### ARTÍCULO 15.
 
-Al momento de la determinación de la imposición de la medida cautelar, el Ministerio Público comunicará la misma por cualquier medio tecnológico a la oficina del Poder Judicial establecida para ello, con la finalidad de que la autoridad judicial conozca la imposición de la medida y fije hora para la celebración de una audiencia de revisión de las medidas cautelares, la cual deberá celebrarse entre los tres y ocho días naturales siguientes a la imposición de la medida.
+Dentro del término de veinticuatro horas de la determinación de la imposición de la medida cautelar o providencia precautoria, el Ministerio Público comunicará la misma, por cualquier medio, a la oficina del Poder Judicial establecida para ello, con la finalidad de que la autoridad judicial conozca la imposición de la medida y fije día y hora para la celebración de una audiencia de revisión de las medidas.
 
 ###### ARTÍCULO 16.
 
@@ -401,13 +387,23 @@ Presentes las partes en la audiencia, el Ministerio Público expondrá al juzgad
 
 Escuchados los alegatos por las partes, el juez podrá fomentar un acuerdo entre las partes, ya sea para resolver el conflicto o para que se establezca una situación jurídica provisional específica.
 
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2011)</small>
+
 ###### ARTÍCULO 19.
 
-Si no se diere ningún acuerdo o la naturaleza de los hechos no lo permitiere, el juez determinará, en la misma audiencia, las medidas cautelares que, en su caso, habrán de prevalecer, así como su duración y circunstancias de ejecución; en el entendido de que de no ejercerse la acción correspondiente en el plazo señalado, la medida quedará sin efecto.
+A partir de que tenga conocimiento de los hechos y en cualquier momento de la investigación, de oficio o a petición de la víctima u ofendido, el Ministerio Público impondrá una o varias de las medidas de protección, que se establecen en el Código de Procedimientos Penales para el Estado de México y demás disposiciones aplicables, con la finalidad de brindar protección a la víctima u ofendido, y de todos los sujetos que intervengan en el proceso.
+
+El Ministerio Público dictará las órdenes necesarias para el debido cumplimiento y ejecución de las medidas de protección impuestas.
+
+Tratándose de delitos vinculados a la violencia de género, y en los casos en que las víctimas u ofendidos sean menores de edad, el Ministerio Público dictará de inmediato, de oficio, las medidas de protección apropiadas para salvaguardar su seguridad e integridad física y psicológica.
+
+El Ministerio Público informará a la víctima u ofendido sobre las medidas de protección pertinentes, así como las condiciones y limitantes para su aplicación y las circunstancias en que podrán ser revocadas.
+
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2011)</small>
 
 ###### ARTÍCULO 20.
 
-En la imposición y revisión de las medidas cautelares el Ministerio Público observará que las mismas sean proporcionales a la necesidad de protección de la víctima u ofendido, del interés social o del riesgo de sustracción de la acción de la justicia, en atención a sus circunstancias particulares y por un tiempo razonable.
+En caso de que el Ministerio Público tenga conocimiento del quebrantamiento de alguna de las medidas cautelares, providencias precautorias o medidas de protección, de oficio, iniciará la investigación correspondiente por los hechos delictuosos correspondientes.
 
 ### CAPITULO VI. De la Policía Ministerial, Peritos y otras policías
 
@@ -1128,3 +1124,23 @@ EL SECRETARIO GENERAL DE GOBIERNO
 DR. VICTOR HUMBERTO BENITEZ TREVIÑO
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 18 DE MARZO DE 2011.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+TERCERO.- Los hechos delictuosos cometidos con anterioridad a la entrada en vigor del presente Decreto, serán sancionados de conformidad con las disposiciones vigentes en la fecha de su comisión.
+
+CUARTO.- La Procuraduría General de Justicia del Estado de México, dentro del plazo de seis meses siguientes a la entrada en vigor de este Decreto, de acuerdo con las disposiciones administrativas que rigen su organización interna y en términos de su presupuesto, instalará módulos para la recepción de denuncias y querellas relacionados con delitos cometidos en el transporte público de pasajeros.
+
+Asimismo, diseñará y pondrá en marcha campañas preventivas, en coordinación con las autoridades competentes, orientadas a inhibir el delito de acoso en el transporte público de pasajeros.
+
+QUINTO.- El Consejo de la Judicatura del Estado deberá proveer respecto de la capacitación a la que deberán sujetarse los jueces y magistrados con especialización en violencia de género y adscribirá a cada región judicial los que sean necesarios conforme a la demanda del servicio.
+
+SEXTO.- El Procurador General de Justicia del Estado de México, deberá expedir el acuerdo a que se refiere la fracción XXV del artículo 51 de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de México, en un plazo máximo de quince días, contados a partir de la publicación del presente Decreto.
+
+SÉPTIMO.- La Procuraduría General de Justicia del Estado de México, emitirá en un plazo no mayor de 60 días naturales siguientes a la vigencia, los protocolos de investigación mínimos para la comprobación de los nuevos delitos tipificados del presente decreto.
