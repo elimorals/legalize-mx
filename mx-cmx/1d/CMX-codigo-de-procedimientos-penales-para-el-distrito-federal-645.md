@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-procedimientos-penales-para-el-distrito-federal-645"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-29"
-last_updated: "2010-07-19"
+last_updated: "2011-03-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=645&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1931-08-26"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 19 DE JULIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE MARZO DE 2011.
 
 Código publicado en el Diario Oficial de la Federación, el sábado 29 de agosto de 1931.
 
@@ -192,9 +192,9 @@ XI.- A comparecer ante el Ministerio Público para poner a su disposición todos
 
 XII.- A tener acceso al expediente para informarse sobre el estado y avance de la averiguación previa;
 
-(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADA, D.O.F. 30 DE SEPTIEMBRE DE 1999)
+> <small>(REFORMADA, G.O. 18 DE MARZO DE 2011)</small>
 
-XIII.- A que se les preste la atención médica de urgencia cuando la requieran;
+XIII.- A que se le preste la atención médica de urgencia cuando lo requiera; en los casos de violencia contra las mujeres, menores de edad y adultos mayores de sesenta años de edad, el Ministerio Público solicitará a la institución de salud, cuando proceda, la atención especializada de conformidad con los protocolos, normas oficiales mexicanas o cualquier otro instrumento jurídico vigente;
 
 (REFORMADA, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADA, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
@@ -228,17 +228,9 @@ XX.- En caso de que deseen otorgar el perdón, a ser informadas claramente del s
 
 XXI.- A que el Ministerio Público, sus auxiliares y el Juez, mantengan en confidencialidad su domicilio y número telefónico, así como el de los testigos de cargo, en caso de delitos graves e igualmente en caso de delitos no graves, cuando así lo solicite, y
 
-> <small>(ADICIONADA, G.O. 19 DE JULIO DE 2010)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 18 DE MARZO DE 2011)</small>
 
-XXII.- En aquellos casos en que el sujeto pasivo sea un menor de dieciocho años, éste o su representante legal, podrán designar abogado victimal, el cual tendrá las siguientes facultades:
-
-a) Realizar con la debida diligencia las acciones legales necesarias para hacer efectivos los derechos del menor;
-
-b) Proporcionar al menor o a su representante de forma clara y detallada la orientación y asesoría legal que requieran;
-
-c) Orientar a las víctimas sobre los servicios integrales que brinda el Sistema de Auxilio a Víctimas de la Procuraduría General de Justicia del Distrito Federal y las demás instancias públicas y privadas, federales y locales, relacionadas con el apoyo a víctimas;
-
-d) Asesorar a la víctima respecto al sentido y alcance de las medidas de protección, y en su caso, tramitarlas ante las autoridades competentes.
+XXII.- A que se les otorguen las medidas de protección o precautorias para prevenir, interrumpir o impedir la consumación de un hecho delictivo, especialmente cuando se trate de mujeres, menores de edad y adultos mayores de sesenta años de edad, víctimas de violencia, en términos de este código o de otras leyes aplicables.
 
 (REFORMADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
@@ -316,7 +308,57 @@ XV.- Informar a la víctima o, en su caso, a su representante legal, sobre el si
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 8 DE ENERO DE 2008)</small>
 
-XVI.- Hacer saber a los denunciantes, querellantes, víctimas, ofendidos y probables responsables de los servicios que presta el Centro de Justicia Alternativa del Tribunal Superior de Justicia para el Distrito Federal, para la solución de sus controversias.
+XVI.- Hacer saber a los denunciantes, querellantes, víctimas, ofendidos y probables responsables de los servicios que presta el Centro de Justicia Alternativa del Tribunal Superior de Justicia para el Distrito Federal, para la solución de sus controversias;
+
+> <small>(ADICIONADA, G.O. 18 DE MARZO DE 2011)</small>
+
+XVII.- Informar de su derecho a solicitar medidas de protección, cautelares y precautorias, en términos de este código o de otras leyes aplicables, especialmente cuando se trate de mujeres, menores de edad o adultos mayores de sesenta años de edad, víctimas de violencia;
+
+> <small>(ADICIONADA, G.O. 18 DE MARZO DE 2011)</small>
+
+XVIII.- Solicitar al Juez competente las medidas de protección, cautelares y precautorias que sean necesarias para proporcionar seguridad y auxilio a las víctimas. En el caso de las mujeres, menores de edad y adultos mayores de sesenta años de edad, víctimas de violencia en que esté en riesgo o peligre la vida, integridad física, la libertad o la seguridad, el Ministerio Público solicitará de oficio dichas medidas.
+
+> <small>(ADICIONADO, G.O. 18 DE MARZO DE 2011)</small>
+
+###### ARTÍCULO 9 Ter.
+
+Para los delitos que impliquen violencia contra las mujeres, una vez iniciada la averiguación previa, el Ministerio Público solicitará al Juez competente que confirme las medidas de protección previamente otorgadas o que conceda las siguientes medidas cautelares:
+
+I. La desocupación por el probable responsable del domicilio conyugal o donde habite la víctima, independientemente de la acreditación de propiedad o posesión del inmueble, y en su caso, el reingreso de la víctima una vez que se garantice su seguridad. En caso de que la víctima habite en el domicilio de los familiares del agresor, el juez tomará las medidas pertinentes para salvaguardar la integridad de la victima;
+
+II. La prohibición al probable responsable de acercarse o ingresar al domicilio, lugar de trabajo o de estudios de la víctima o víctimas indirectas, o cualquier otro lugar que ésta o éstas frecuenten;
+
+III. La entrega inmediata de objetos de uso personal y documentos de identidad de la víctima o víctimas indirectas, que tuviera en su posesión el probable responsable;
+
+IV. La prohibición al probable responsable de comunicarse por cualquier medio, por sí o por interpósita persona, con la víctima o víctimas indirectas;
+
+V. La prohibición de intimidar o molestar a los testigos de los hechos. Esta medida podrá incluir que el probable responsable se acerque o comunique por cualquier medio o a través de interpósita persona, con los parientes de la víctima, consanguíneos en línea recta ascendente o descendente sin limitación de grado y colateral hasta el cuarto grado, o civil;
+
+VI. Apercibir al probable responsable a fin de que se abstenga de ejercer cualquier tipo de violencia en contra de la víctima o víctimas indirectas;
+
+VII. Ordenar vigilancia por parte de la Secretaria de Seguridad Publica del Distrito Federal en los lugares en que se encuentre la víctima o las víctimas indirectas, por el tiempo que determine el juzgador; y
+
+VIII. Ordenar la custodia por parte de la Procuraduría General de Justicia del Distrito Federal, de la víctima o víctimas indirectas, en los casos en que las circunstancias de riesgo lo ameriten, por el tiempo que determine el juzgador.
+
+El incumplimiento, desobediencia o resistencia a estas medidas será sancionado (sic) conforme a la fracción III del artículo 33 del Código de Procedimientos Penales; en caso de volver a incumplir, desobedecer o resistirse a esas medidas, se sancionará en los términos del artículo 283 del Código Penal.
+
+> <small>(ADICIONADO, G.O. 18 DE MARZO DE 2011)</small>
+
+###### ARTÍCULO 9 Quáter.
+
+Una vez ejercida la acción penal, si continúa en riesgo la vida, la libertad, la integridad física o psicológica o la seguridad de la mujer víctima de violencia o de las víctimas indirectas, quien juzgue revisará las medidas cautelares ordenadas en la averiguación previa.
+
+En caso de no haber sido solicitadas dichas medidas, quien juzgue podrá decretar las que sean necesarias, en términos del artículo anterior.
+
+> <small>(ADICIONADO, G.O. 18 DE MARZO DE 2011)</small>
+
+ARTÍCULO 9 Quintus. Para el cumplimiento de las medidas de protección, cautelares o precautorias, quien juzgue podrá facultar a la autoridad ejecutora a:
+
+I. Ingresar al domicilio o al lugar donde habite la víctima, a fin de que pueda recoger sus pertenencias personales y, en su caso, las de las víctimas indirectas;
+
+II. Trasladar, cuando así lo desee la víctima, a las casas de emergencia o centros de refugio. Este traslado incluirá también a las víctimas indirectas si las hubiera;
+
+III. A realizar las providencias que sean necesarias para el pronto y eficaz cumplimiento de las medidas ordenadas.
 
 ### CAPITULO II. Competencia
 
@@ -359,6 +401,10 @@ III.- A la sanción de prisión, cuando la ley imponga varias de distinta natura
 ###### ARTICULO 12.
 
 Las actuaciones del ramo penal podrán practicarse a toda hora y aun en los días feriados, sin necesidad de previa habilitación; se deberán escribir en máquina, a mano o por cualquier otro medio apropiado y se expresará en cada una de ellas el día, mes y año en que se practiquen. Las fechas y cantidades se escribirán precisamente con letra y además con cifra.
+
+> <small>(ADICIONADO, G.O. 18 DE MARZO DE 2011)</small>
+
+En los casos de violencia contra las mujeres, las actuaciones se deberán realizar en el momento más próximo al que se soliciten, inscribiendo las condiciones y circunstancias en las cuales se ejerciten las actuaciones.
 
 > <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
 
@@ -688,7 +734,17 @@ Los términos se fijarán por día y hora.
 
 Todas las audiencias serán públicas, pudiendo entrar libremente a ellas todos los que parezcan mayores de catorce años.
 
-En los casos en que se trate de un delito contra la moral o cuando en el proceso sea ésta atacada, la audiencia tendrá lugar a puerta cerrada, sin que puedan entrar al lugar en que se celebre más que las personas que intervienen oficialmente en ella.
+> <small>(REFORMADO, G.O. 18 DE MARZO DE 2011)</small>
+
+En los casos en que se trate de delitos de violencia, especialmente cuando se ejerza en contra de mujeres, menores de edad y personas mayores de sesenta años, la audiencia tendrá lugar a puerta cerrada, sin que puedan entrar al lugar en que se celebre más que las personas que intervienen oficialmente en ella.
+
+> <small>(ADICIONADO, G.O. 18 DE MARZO DE 2011)</small>
+
+En los casos de violencia, las víctimas no estarán obligadas a comparecer, hasta en tanto el Ministerio Público, presente a la autoridad judicial la constancia que determine que su estado de salud físico o psicoemocional permite su presentación.
+
+> <small>(ADICIONADO, G.O. 18 DE MARZO DE 2011)</small>
+
+Si durante la audiencia se presenta alguna situación que atente contra la integridad física o psicoemocional de la víctima, la autoridad suspenderá la diligencia y ordenará que se le brinde atención especializada, una vez que se restablezca continuará la diligencia.
 
 > <small>(ADICIONADO, D.O.F. 8 DE ENERO DE 1991)</small>
 
@@ -958,6 +1014,10 @@ Cuando se encuentren las personas o cosas relacionadas con el delito, se describ
 
 Cuando las circunstancias de la persona o cosa no pudieren apreciarse debidamente sino por peritos, tan luego como se cumpla con lo prevenido en el artículo anterior, el Ministerio Público nombrará dichos peritos, agregando al acta el dictamen correspondiente.
 
+> <small>(ADICIONADO, G.O. 18 DE MARZO DE 2011)</small>
+
+Cuando existan antecedentes de violencia relacionados con el delito, éstos deberán agregarse al acta o parte que se levante.
+
 > <small>(REFORMADO, G.O. 3 DE MAYO DE 1999)</small>
 
 #### SECCION TERCERA. Instrucción
@@ -1175,6 +1235,10 @@ Para la comprobación del cuerpo del delito y la probable o plena responsabilida
 ###### ARTICULO 125.
 
 La curación de las personas que hubieren sufrido lesión o enfermedad proveniente de un delito, se hará por regla general en los hospitales públicos bajo la dirección de los médicos. Si no hubiere médico en el lugar o a corta distancia, se podrá encargar de la curación un práctico.
+
+> <small>(ADICIONADO, G.O. 18 DE MARZO DE 2011)</small>
+
+Para la debida atención médica, en los delitos que impliquen violencia, especialmente contra las mujeres, se seguirán los protocolos, lineamientos, normas oficiales mexicanas, o cualquier otro instrumento administrativo especializado, que será solicitado por el Ministerio Público a la institución de salud.
 
 > <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
 
@@ -2226,6 +2290,10 @@ En los casos en los que el delito sea perseguible de oficio, no será necesario 
 
 Cuando por la edad del menor no sea posible determinar el lugar, tiempo y circunstancias de ejecución del hecho, pero su dicho se encuentre acreditado con cualquier otro elemento de prueba que obre en autos, no será necesario que el menor acredite dichas circunstancias, sólo cuando se encuentren acreditados el cuerpo del delito de que se trate y la probable responsabilidad en términos de los artículos 122 y 124 de éste Código.
 
+> <small>(ADICIONADO, G.O. 18 DE MARZO DE 2011)</small>
+
+Sin perjuicio de lo previsto en este capítulo, si el delito sobre el que versa la investigación ministerial es de los perseguibles por querella, que impliquen violencia física o psicoemocional, el Agente del Ministerio Público investigador se abstendrá de someter a la víctima a medios alternativos de solución de controversias con la persona agresora, cuando se desprenda que subsisten circunstancias de vulnerabilidad de la víctima que impliquen subordinación, desventaja u otra respecto de su agresor.
+
 ###### ARTICULO 265.
 
 Al iniciar sus procedimientos el Ministerio Público, o la policía judicial, se trasladarán inmediatamente al lugar de los hechos, para dar fe de las personas y de las cosas a quienes hubiere afectado el acto delictuoso y tomarán los datos de las que lo hayan presenciado, procurando que declaren, si es posible, en el mismo lugar de los hechos, y citándolas, en caso contrario, para que dentro del término de veinticuatro horas comparezcan a rendir su declaración.
@@ -2664,11 +2732,11 @@ El juez interrogará al inculpado sobre su participación en los hechos imputado
 
 Si el inculpado tuviere varios defensores, estará obligado a nombrar un representante común o, en su defecto, lo hará el juez.
 
-> <small>(REFORMADO, D.O.F. 13 DE MAYO DE 1996)</small>
+> <small>(REFORMADO, G.O. 18 DE MARZO DE 2011)</small>
 
-###### ARTICULO 296 Bis.
+###### ARTÍCULO 296 Bis.
 
-Durante la instrucción, el tribunal que conozca del proceso deberá tomar en cuenta las circunstancias peculiares del inculpado, allegándose datos para conocer su edad, educación e ilustración; sus costumbres y conductas anteriores; los motivos que lo impulsaron a delinquir; sus condiciones económicas y las especiales en que se encontraba en el momento de la comisión del delito; la pertenencia del inculpado, en su caso, a un grupo étnico indígena y las prácticas y características que como miembro de dicho grupo pueda tener; los demás antecedentes personales que puedan comprobarse; así como sus vínculos de parentesco, amistad o nacidos de otras relaciones sociales, la calidad de las personas ofendidas y las circunstancias de tiempo, lugar, modo y ocasión, que en su conjunto demuestren la gravedad del ilícito y el grado de culpabilidad del agente.
+Durante la instrucción, el tribunal que conozca del proceso deberá tomar en cuenta las circunstancias peculiares del inculpado, allegándose datos para conocer su edad, educación e ilustración; sus costumbres y conductas anteriores; los motivos que lo impulsaron a delinquir; sus condiciones económicas y las especiales en que se encontraba en el momento de la comisión del delito, así como las condiciones sociales y los datos de violencia si los hubiera; la pertenencia del inculpado, en su caso, a un grupo étnico indígena y las prácticas y características que como miembro de dicho grupo pueda tener; los demás antecedentes personales que puedan comprobarse; así como sus vínculos de parentesco, amistad o nacidos de otras relaciones sociales, la calidad de las personas ofendidas y las circunstancias de tiempo, lugar, modo y ocasión, que en su conjunto demuestren la gravedad del ilícito y el grado de culpabilidad del agente.
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 10 DE ENERO DE 1994)</small>
 
@@ -4564,7 +4632,11 @@ VI. El inculpado se haya sustraído con anterioridad a la acción de la justicia
 
 El Agente del Ministerio Público, durante el procedimiento de Averiguación Previa, negará la libertad provisional del inculpado cuando se actualice cualquiera de los supuestos previstos en el presente numeral. Para tal efecto, está obligado a realizar las diligencias de investigación para asegurar su cumplimiento.
 
-El Juez de la causa, en todo caso, dará aviso por escrito al Procurador General de Justicia del Distrito Federal cuando se desprenda de autos el incumplimiento de la disposición anterior, por parte del Agente del Ministerio Público.
+El Juez de la causa, en todo caso, dará aviso por escrito al Procurador General de Justicia del Distrito Federal cuando se desprenda de autos el incumplimiento de la disposición anterior, por parte del Agente del Ministerio Público;
+
+> <small>(ADICIONADA, G.O. 18 DE MARZO DE 2011)</small>
+
+VII. En caso de delito de Violencia Familiar, el Ministerio Público durante la averiguación previa estará obligado a negar la libertad provisional.
 
 > <small>(ADICIONADO, G.O. 21 DE DICIEMBRE DE 2007)</small>
 
@@ -5965,3 +6037,11 @@ DECRETO POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTICULOS 273 BIS Y 273 BIS 1 DEL
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente a su publicación en la Gaceta Oficial del Distrito Federa (sic).
 
 SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
+
+G.O. 18 DE MARZO DE 2011.
+
+PRIMERO. Túrnese el presente Decreto al Jefe de Gobierno para efectos de su promulgación y publicación.
+
+SEGUNDO. Publíquese en la Gaceta Oficial del Distrito Federal, y para su mayor difusión, en el Diario Oficial de la Federación.
+
+TERCERO. El presente Decreto entrará en vigor al día siguiente de publicación.
