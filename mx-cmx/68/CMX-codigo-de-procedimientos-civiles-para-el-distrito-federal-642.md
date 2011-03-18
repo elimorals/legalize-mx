@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-procedimientos-civiles-para-el-distrito-federal-642"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-01"
-last_updated: "2011-03-10"
+last_updated: "2011-03-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=642&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "1932-08-29"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 10 DE MARZO DE 2011.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE MARZO DE 2011.
 
 Código publicado en el Diario Oficial de la Federación los días 1o. al 21 de septiembre de 1932.
 
@@ -1886,7 +1886,11 @@ XIII.- En los juicios de alimentos, el del domicilio del actor o el del demandad
 
 ARTICULO 157
 
-Para determinar la competencia por razón de la cuantía del negocio, se tendrá en cuenta lo que demande el actor. Los réditos, daños o perjuicios no serán tenidos en consideración si son posteriores a la presentación de la demanda, aun cuando se reclamen en ella.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 18 DE MARZO DE 2011)</small>
+
+Para determinar la competencia por razón de la cuantía del negocio, se tendrá en cuenta únicamente la suerte principal reclamada, sin que sean de tomarse en consideración intereses y demás accesorios reclamados.
 
 Cuando se trate de arrendamiento o se demande el cumplimiento de una obligación consistente en prestaciones periódicas, se computará el importe de las pensiones en uno (sic) año, a no ser que se tratare de prestaciones vencidas, en cuyo caso se estará a lo dispuesto en la primera parte de este artículo.
 
@@ -4584,13 +4588,15 @@ También pueden oponerse a la venta los acreedores hipotecarios posteriores, ale
 
 ### CAPITULO IV. Del juicio de pago de daños culposos causados con motivo del tránsito de vehículos
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 13 DE MARZO DE 2008)</small>
 
 ARTICULO 489
 
-El Juez de Paz Civil que reciba de un Juzgado Cívico la demanda de pago de daños culposos causados con motivo del tránsito de vehículos, emitirá dentro del plazo de seis horas siguientes, proveído en que determine, cuando menos, lo siguiente:
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 18 DE MARZO DE 2011)</small>
+
+El Juez de lo Civil de Cuantía Menor que reciba de un juzgado cívico la demanda de pago de daños culposos causados con motivo del tránsito de vehículos, emitirá dentro del plazo de seis horas siguientes, proveído en que determine, cuando menos, lo siguiente:
 
 I. La radicación del expediente respectivo y, en su caso, la admisión de la o las demandas presentadas;
 
@@ -4604,15 +4610,17 @@ V. La orden de notificación personal; y
 
 VI. Las demás medidas que estime necesarias para dar trámite y resolución a la controversia iniciada.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 13 DE MARZO DE 2008)</small>
 
 ARTICULO 490
 
 El conductor del vehículo que no resulte responsable de los daños y no sea propietario del vehículo que conducía, tendrá las facultades inherentes a un gestor judicial, sólo por esos hechos, y estará exento de la obligación de presentar fianza.
 
-La propiedad del vehículo dañado y la ratificación de la demanda, podrá ser acreditada y realizada ante el Juez de Paz Civil del conocimiento, hasta antes de que se abra el juicio a prueba, sin que esta circunstancia sea impedimento para la admisión de la demanda. De no acreditarse la propiedad del vehículo, se desechará la demanda, dejándose a salvo los derechos del propietario afectado para hacerlos valer en la vía correspondiente.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, G.O. 18 DE MARZO DE 2011)</small>
+
+La propiedad del vehículo dañado y la ratificación de la demanda, podrá ser acreditada y realizada ante el Juez de lo Civil de Cuantía Menor del conocimiento, hasta antes de que se abra el juicio a prueba, sin que esta circunstancia sea impedimento para la admisión de la demanda. De no acreditarse la propiedad del vehículo, se desechará la demanda, dejándose a salvo los derechos del propietario afectado para hacerlos valer en la vía correspondiente.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
@@ -4670,13 +4678,17 @@ ARTICULO 496
 
 El Juez deberá emitir sentencia definitiva en un plazo que no exceda de treinta días naturales siguientes a que se tenga por emplazadas a todas las partes, salvo causa justificada.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 13 DE MARZO DE 2008)</small>
 
 ARTICULO 497
 
 Contra la Sentencia que se dicte procede la apelación en ambos efectos.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.O. 18 DE MARZO DE 2011)</small>
+
+La ejecución de las sentencias y los convenios celebrados dentro de estos juicios, se hará en términos del capítulo V, del título séptimo de este código.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS QUE MODIFICA EL CODIGO.</small>
 
@@ -6772,13 +6784,13 @@ No podrá promoverse demanda de responsabilidad civil sino hasta que queda deter
 
 ARTICULO 730 (DEROGADO, G.O. 10 DE SEPTIEMBRE DE 2009)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>(REFORMADO, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO, G.O. 18 DE MARZO DE 2011)</small>
 
 ARTICULO 731
 
-Las salas del Tribunal Superior conocerán, en única instancia, de las demandas de responsabilidad civil presentadas contra los jueces de lo Civil, de lo Familiar, del Arrendamiento Inmobiliario, de Extinción de Dominio y Jueces de Paz. Contra las sentencias que aquéllas dicten no se dará recurso alguno.
+Las salas del Tribunal Superior conocerán, en única instancia, de las demandas de responsabilidad civil presentadas contra los Jueces Civiles, Jueces de lo Civil de Cuantía Menor, de lo Familiar, de Extinción de Dominio y Jueces de Proceso Oral Civil. Contra las sentencias que aquéllas dicten no se dará recurso alguno.
 
 ARTICULO 732
 
@@ -8854,11 +8866,27 @@ Del Juicio Oral Civil
 
 ARTICULO 969
 
-Se tramitarán en este juicio todas las contiendas cuya suerte principal sea inferior a doscientos doce mil cuatrocientos sesenta pesos, moneda nacional, sin que sean de tomarse en consideración intereses y demás accesorios reclamados a la fecha de interposición de la demanda.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 18 DE MARZO DE 2011)</small>
+
+Se tramitarán en este juicio todas las contiendas sobre la propiedad o demás derechos reales, cuyo valor de la cosa sea inferior a la cantidad que el artículo 691 establece para que un juicio sea apelable, sin que sean de tomarse en consideración intereses y demás accesorios reclamados a la fecha de interposición de la demanda, así como las contiendas sobre derechos personales cuya suerte principal sea inferior a dicha cantidad.
 
 La cantidad referida en el párrafo anterior se actualizará en la forma prevista en el artículo 62 de este Código.
 
 El Consejo de la Judicatura tendrá la obligación de hacer saber a los juzgados, tribunales y publicar en el Boletín Judicial para conocimiento general, los montos que se obtengan de la indexación para los efectos del párrafo anterior, así como de todas aquellas cantidades que en este código deban de actualizarse en los términos referidos.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.O. 18 DE MARZO DE 2011)</small>
+
+No se sustanciarán en este juicio las controversias relativas a las materias familiar y de arrendamiento inmobiliario.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.O. 18 DE MARZO DE 2011)</small>
+
+Contra las resoluciones pronunciadas por los jueces de proceso oral civil no se dará recurso alguno.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
@@ -9000,7 +9028,11 @@ ARTICULO 981
 
 Si la demanda fuere obscura o irregular, o no cumpliera con alguno de los requisitos que señala el artículo anterior, el juez señalará con toda precisión en qué consisten los defectos de la misma, en el proveído que al efecto se dicte, lo que se hará por una sola ocasión.
 
-El actor deberá cumplir con la prevención que haga el juez, en un plazo máximo de cinco días, contados a partir del día siguiente a aquel en que surta efectos la notificación y en caso de no hacerlo, transcurrido el término, el juez la desechará precisando los puntos de la prevención que no fueron atendidos y pondrá a disposición del interesado todos los documentos originales y copias simples que se hayan exhibido, con excepción de la demanda con la que se haya formado el expediente respectivo.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, G.O. 18 DE MARZO DE 2011)</small>
+
+El actor deberá cumplir con la prevención que haga el juez, en un plazo máximo de tres días, contados a partir del día siguiente a aquel en que surta efectos la notificación y en caso de no hacerlo, transcurrido el término, el juez la desechará precisando los puntos de la prevención que no fueron atendidos y pondrá a disposición del interesado todos los documentos originales y copias simples que se hayan exhibido con excepción de la demanda con la que se haya formado el expediente respectivo.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
@@ -9012,13 +9044,13 @@ En los escritos de demanda, contestación, reconvención, contestación a la rec
 
 Si las partes no cumplen con los requisitos anteriores en los escritos que fijan la litis, el juez no podrá admitirlas aunque se ofrezcan por las partes posteriormente, salvo que importen excepción superveniente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>(ADICIONADO, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO, G.O. 18 DE MARZO DE 2011)</small>
 
 ARTICULO 983
 
-Admitida la demanda, el juez ordenará emplazar al demandado corriéndole traslado con copia de la misma y de los documentos acompañados a fin de que dentro del plazo de quince días ocurra a producir su contestación por escrito.
+Admitida la demanda, el juez ordenará emplazar al demandado corriéndole traslado con copia de la misma y de los documentos acompañados a fin de que dentro del plazo de nueve días ocurra a producir su contestación por escrito.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
@@ -9040,13 +9072,19 @@ ARTICULO 985
 
 El escrito de contestación se formulará ajustándose a los términos previstos para la demanda. Las excepciones que se tengan, cualquiera que sea su naturaleza, se harán valer simultáneamente en la contestación y nunca después, salvo las supervenientes.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>(ADICIONADO, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
+> <small>(ADICIONADO, G.O. 18 DE MARZO DE 2011)</small>
+
+Del escrito de contestación se dará vista a la parte actora por el término de tres días para que la desahogue.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, G.O. 18 DE MARZO DE 2011)</small>
 
 ARTICULO 986
 
-El demandado deberá dar contestación y formular en su caso reconvención. Se correrá traslado de ésta a la parte actora para que la conteste dentro de los diez días hábiles siguientes a la fecha en que surta efectos la notificación del auto que la admita.
+El demandado deberá dar contestación y formular en su caso reconvención. Se correrá traslado de ésta a la parte actora para que la conteste dentro de los cinco días hábiles siguientes a la fecha en que surta efectos la notificación del auto que la admita.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
@@ -9280,7 +9318,11 @@ Abierta la audiencia se procederá al desahogo de las pruebas que se encuentren 
 
 En la Audiencia sólo se concederá el uso de la palabra, por una vez, a cada una de las partes y por un máximo de cinco minutos para formular sus alegatos. El Juez tomará las medidas que procedan a fin de que las partes se sujeten al tiempo indicado.
 
-En seguida se declarará el asunto visto y citará a las partes para la continuación de la audiencia dentro del término de quince días siguientes, en la que se dictará la sentencia correspondiente.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, G.O. 18 DE MARZO DE 2011)</small>
+
+Enseguida se declarará el asunto visto y citará a las partes para la continuación de la audiencia dentro del término de diez días siguientes, en la que se dictará la sentencia respectiva.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
@@ -9440,335 +9482,221 @@ Después de la demanda y contestación, reconvención y contestación a la recon
 
 Cuando alguna de las partes tenga conocimiento de una prueba documental superveniente, deberá ofrecerla hasta antes de que concluya la Audiencia de Juicio y el Juez, oyendo previamente a la parte contraria en la misma audiencia, resolverá lo conducente.
 
-> <small>N. DE E. POR SER UN TITULO ESPECIAL, EL LEGISLADOR CONSIDERO REINICIAR LA NUMERACION EN EL ARTICULO 1, NO AFECTANDO LA ESTRUCTURA DEL CODIGO.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, G.O. 18 DE MARZO DE 2011)</small>
+
+#### SECCION SEXTA. Ejecución de Convenios
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, G.O. 18 DE MARZO DE 2011)</small>
+
+ARTICULO 1018
+
+La ejecución de los convenios celebrados ante los Jueces de Proceso Oral Civil y de las resoluciones dictadas por éstos, se hará en términos del capítulo V, del título séptimo de este código.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TITULO, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(DEROGADO, G.O. 18 DE MARZO DE 2011)</small>
 
 TITULO ESPECIAL
 
 De la Justicia de Paz
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>(REFORMADO, G.O. 13 DE MARZO DE 2008)</small>
+ARTICULO 1 (DEROGADO, G.O. 18 DE MARZO DE 2011)
 
-ARTICULO 1
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-En el Distrito Federal habrá los juzgados de paz que determine la Ley Orgánica del Tribunal Superior de Justicia del Distrito Federal.
+ARTICULO 2 (DEROGADO, G.O. 18 DE MARZO DE 2011)
 
-> <small>(REFORMADO, D.O.F. 24 DE MAYO DE 1996)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ARTICULO 2
+ARTICULO 3 (DEROGADO, G.O. 18 DE MARZO DE 2011)
 
-Conocerán los jueces de paz en materia civil de los juicios contenciosos que versen sobre la propiedad o demás derechos reales sobre bienes inmuebles ubicados dentro de su jurisdicción y que tengan un valor de hasta tres mil días de salario mínimo general vigente en el Distrito Federal y en los demás negocios de jurisdicción contenciosa común o concurrente cuyo monto no exceda de mil días de salario mínimo general vigente en el Distrito Federal, cantidades las anteriores que se actualizarán anualmente como lo dispone el artículo 71 de la Ley Orgánica del Tribunal Superior de Justicia del Distrito Federal.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-Quedan exceptuados (sic) de la anterior disposición todas las controversias relativas a las materias familiar y de arrendamiento inmobiliario, cuya competencia queda asignada a los jueces de primera instancia de la materia.
+ARTICULO 4 (DEROGADO, G.O. 18 DE MARZO DE 2011)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>(ADICIONADO, G.O. 13 DE MARZO DE 2008)</small>
+ARTICULO 5 (DEROGADO, G.O. 18 DE MARZO DE 2011)
 
-Así también conocerán Del Juicio de Pago de Daños Culposos causados con motivo del Tránsito de Vehículos, establecido en el capítulo IV, del Título Séptimo, del Código de Procedimientos Civiles para el Distrito Federal, independientemente del monto que se demande como pago y en los términos y plazos que se señalan en dicho capítulo.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>(ADICIONADO, G.O. 27 DE ENERO DE 2011)</small>
-
-Los jueces de paz conocerán de juicios contenciosos que versen sobre adeudos de cuotas de mantenimiento, intereses o sanciones por incumplimiento a la Ley de Propiedad en Condominio de Inmuebles para el Distrito Federal, y de las resoluciones y convenios celebrados ante la Procuraduría Social del Distrito Federal.
-
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
-
-ARTICULO 3
-
-Si se durare (sic) del valor de la cosa demandada o del interés del pleito, antes de expedirse la cita para el demandado, el juez oirá el dictamen de un perito que él mismo nombrará a costa del actor.
-
-Aun cuando ésto se hubiere hecho, el demandado, en el acto del juicio, podrá pedir que se declare que el negocio no es de la jurisdicción de paz, por exceder su cuantía del monto a que se refiere el artículo inmediato anterior.
-
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
-
-ARTICULO 4
-
-Cuando el juez, en cualquier estado del negocio, encuentre que éste no es de su competencia por exceder de los límites que se fijan en el artículo 2o., o en razón de corresponder a juez de diversa jurisdicción o de otro fuero, suspenderá de plano el procedimiento y remitirá lo actuado al juez competente.
-
-> <small>(REFORMADO, D.O.F. 24 DE MAYO DE 1996)</small>
-
-ARTICULO 5
-
-Cada juzgado conocerá de los negocios relativos a predios ubicados dentro de su jurisdicción, cuando se trate de acciones reales sobre bienes inmuebles. Conocerán también de aquellos en que el demandado pueda ser citado en algún lugar que se encuentre comprendido en el perímetro de su jurisdicción.
-
-En caso de duda será competente por razón del territorio, el juez de paz que ha prevenido, y en ningún caso se dará entrada a cuestión relativa a competencia de jurisdicción por aquel concepto; por el hecho de haber conocido indebidamente de casos correspondientes a otras jurisdicciones, será motivo de corrección disciplinaria que impondrá el Consejo de la Judicatura mediante queja del agraviado.
-
-> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
-
-ARTICULO 6
-
-Cuando el juez de paz recibiere inhibitoria de otro juzgado en que se promueva competencia por razón de la cuantía y creyere debido sostener la suya, el mismo día lo comunicará así al competidor y remitirá su expediente con el oficio inhibitorio sin necesidad de informe especial al Tribunal Superior.
-
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1975)</small>
-
-El Superior a que se refiere el artículo 166, sin otro trámite, decidirá la competencia en una audiencia que se celebrará dentro de las cuarenta y ocho horas siguientes al recibo de los documentos, y a la cual será citado el Ministerio Público, sin que sea necesaria su asistencia para que se verifique la vista.
+ARTICULO 6 (DEROGADO, G.O. 18 DE MARZO DE 2011)
 
 Emplazamiento y citaciones
 
-ARTICULO 7
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-A petición del actor se citará al demandado para que comparezca dentro del tercero día. En la cita que en presencia del actor será expedida y entregada a la persona que deba de llevarla se expresará por lo menos el nombre del actor, lo que demande, la causa de la demanda, la hora que se señale para el juicio y la advertencia de que las pruebas se presentarán en la misma audiencia.
+ARTICULO 7 (DEROGADO, G.O. 18 DE MARZO DE 2011)
 
-Debe llevarse en los juzgados de paz un libro de registro en que se asentarán por días y meses los nombres de actores y demandados y el objeto de las demandas.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-Puede el actor presentar su demanda por escrito.
+ARTICULO 8 (DEROGADO, G.O. 18 DE MARZO DE 2011)
 
-ARTICULO 8
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1975)</small>
+ARTICULO 9 (DEROGADO, G.O. 18 DE MARZO DE 2011)
 
-La cita del emplazamiento se enviará al demandado por medio del secretario actuario del juzgado al lugar que el actor designe para ese fin y que podrá ser:
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-I.- La habitación del demandado, su despacho, su establecimiento mercantil o su taller;
+ARTICULO 10 (DEROGADO, G.O. 18 DE MARZO DE 2011)
 
-II.- El lugar en que trabaje u otro que frecuente y en que se ha de creerse que se halle al llevarle la cita;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-III.- (DEROGADA, D.O.F. 7 DE FEBRERO DE 1985)
+ARTICULO 11 (DEROGADO, G.O. 18 DE MARZO DE 2011)
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], G.O. 11 DE NOVIEMBRE DE 2008)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ARTICULO 9
+ARTICULO 12 (DEROGADO, G.O. 18 DE MARZO DE 2011)
 
-El secretario actuario que lleve la cita se cerciorará de que el demandado se encuentra en el lugar designado y le entregará la cita personalmente. Si no lo encontrare y el lugar fuere alguno de los enumerados en las fracciones I o III del artículo anterior, cerciorándose de este hecho dejará la cita con la persona de mayor confianza que encuentre.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-Si en el domicilio señalado por el actor, no se encontrara el demandado o destinatario de la diligencia señalado en el artículo anterior, ni persona alguna que pudiera legalmente recibir la notificación o bien este se negare a recibir la documentación respectiva y una vez cerciorado el notificador que el domicilio efectivamente es el del demandado o destinatario del procedimiento judicial, entonces tratándose de la primera diligencia o ulteriores, procederá el actuario o notificador del juzgado a fijar en lugar visible del domicilio del demandado o destinatario del procedimiento judicial, un citatorio de emplazamiento en el que se señalará el motivo de la diligencia, la fecha, la hora, el lugar de la diligencia, la fundamentación legal correspondiente, la hora hábil del día para que le espere, nombre del promoverte, Tribunal que ordena la diligencia, la determinación que se manda notificar y el apercibimiento de que si en la fecha señalada para llevar a cabo la diligencia de emplazamiento no se encontrara al demandado o destinatario el procedimiento judicial, entonces se procederá a la notificación por adhesión, así como la razón o motivo de la citación, misma que en ningún caso podrá exceder de tres días hábiles contados a partir del día en que se dio la citación.
+ARTICULO 13 (DEROGADO, G.O. 18 DE MARZO DE 2011)
 
-Tratándose de una segunda diligencia y pese al citatorio con antelación adherido, si nuevamente el demandado o destinatario del procedimiento judicial no se encontrare y no hubiere persona con quien entender la diligencia, entonces se procederá a realizar el emplazamiento por adhesión, que consistirá que el notificador dejara adherido en lugar visible al domicilio del demandado o destinatario del procedimiento judicial, las cédulas de notificación con las copias de traslado correspondientes así como el instructivo en el que se explique el motivo del emplazamiento por adhesión, mismo que tendrá las características de la cédula de notificación usual, dicho emplazamiento o notificación tendrá el carácter de personal y deberá tener todas las disposiciones a que se refiere la notificación de tal estilo.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-Aunado a lo anterior, se deberá tomar fotografías convencionales o digitales del domicilio con las documentales citadas en los párrafos anteriores adheridas a este o cualquier otro medio tecnológico que pruebe que la notificación se llevó a cabo de forma legal, las fotografías o medios de prueba tecnológicos deberán ser debidamente certificados por el fedatario que lleve a cabo la diligencia bajo su más estricta responsabilidad.
+ARTICULO 14 (DEROGADO, G.O. 18 DE MARZO DE 2011)
 
-La diligencia señalada en el párrafo anterior deberá contar como medida de seguridad:
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-Que el actor o interesado en compañía del actuario o notificador se presenten al domicilio auxiliados de dos testigos propuestos por la parte interesada, mismos que firmarán la cédula de notificación y las copias de traslado con tal carácter, anexando a la cédula de notificación en esta diligencia copia simple de sus identificaciones oficiales, documentos que también serán puestos a disposición del Ministerio Público adscrito al juzgado para que este se imponga de las actuaciones antes señaladas y manifieste lo que a su representación convenga, pudiendo en su caso iniciar indagatoria en contra del funcionario notificador, parte interesada y los testigos que llevaron a cabo la diligencia, si existieren elementos que prueben fehacientemente que la diligencia a su juicio se hizo de forma irregular y que deriven actos que pudieran tipificarse como delitos.
-
-Al arbitrio del juzgador y valorando los hechos planteados de la demanda incoada y pese a las circunstancias dadas en los párrafos anteriores, además se ordenará el emplazamiento por edictos, si lo estima necesario y respecto de las demás diligencias les surtirán efectos por boletín judicial.
-
-ARTICULO 10
-
-Cuando no se conociere el lugar en que el demandado viva o tenga el principal asiento de sus negocios o cuando viviendo o trabajando en un lugar se negaren él o las personas requeridas a recibir el emplazamiento, se podrá hacer la notificación en el lugar donde se encuentre.
-
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1975)</small>
-
-ARTICULO 11
-
-El actor tiene derecho de acompañar al secretario actuario que lleve la cita para hacer las indicaciones que faciliten la entrega.
-
-ARTICULO 12
-
-Las citas se extenderán en esqueletos impresos tomados de libros talonarios. Un duplicado se agregará al expediente respectivo.
-
-ARTICULO 13
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1975)</small>
-
-El secretario actuario que entregue la cita recogerá, en una libreta especial, recibo de ella el cual, si no supiere o no pudiere firmar la persona que debiere hacerlo, será firmado por alguna otra presente, en su nombre, asentándose en la libreta a quien se haya hecho la entrega y el motivo.
-
-En el juzgado habrá el número necesario de libretas para que pueda llevar una cada encargado de entregar citas.
-
-> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
-
-ARTICULO 14
-
-En los casos a que se refiere el artículo 10, el recibo se firmará por la persona a quien se hiciere la citación. Si no supiere o no pudiere firmar, lo hará a su ruego un testigo; si no quisiera firmar o presentar testigo que lo haga, firmará el testigo requerido al efecto por el notificador. Este testigo no puede negarse, bajo multa de dos a cinco pesos.
-
-En la libreta se asentará razón de lo ocurrido.
-
-ARTICULO 15
-
-Los peritos, testigos y, en general, terceros que no constituyan parte pueden ser citados por correo, telégrafo y aun teléfono, cerciorándose el secretario previamente de la exactitud de la dirección de la persona citada.
+ARTICULO 15 (DEROGADO, G.O. 18 DE MARZO DE 2011)
 
 Identidad de las partes
 
-ARTICULO 16
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 24 DE MAYO DE 1996)</small>
-
-En toda diligencia o comparecencia ante el juez o secretario, las partes deberán identificarse plenamente.
-
-No será necesaria la identificación aunque se trate de personas desconocidas cuando por la naturaleza o circunstancias del caso no hubiere peligro de suplantación de la persona.
-
-El que se presente como actor o como reo usando el nombre de otro para hacerse pasar por él, se considerará como falsario y quedará sujeto a los (sic) sanciones que determina el Código Penal.
+ARTICULO 16 (DEROGADO, G.O. 18 DE MARZO DE 2011)
 
 Del juicio
 
-> <small>(REFORMADO, D.O.F. 24 DE MAYO DE 1996)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ARTICULO 17
+ARTICULO 17 (DEROGADO, G.O. 18 DE MARZO DE 2011)
 
-Si al anunciarse el despacho del negocio no estuviere presente injustificadamente el actor, y sí el demandado, se impondrá a aquél una sanción pecuniaria que no será mayor del equivalente a ciento veinte días de salario mínimo general diario vigente en el Distrito Federal, que se aplicará al demandado por vía de indemnización.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ARTICULO 18
+ARTICULO 18 (DEROGADO, G.O. 18 DE MARZO DE 2011)
 
-Si al ser llamado a contestar la demanda no estuviere presente el demandado y constare que fue debidamente citado, lo cual comprobará el juez con especial cuidado, se dará por contestada la demanda en sentido afirmativo y se continuará la audiencia. Cuando se presente durante ella el demandado, continuará ésta con su intervención según el estado en que se halle y no se le admitirá prueba sobre ninguna excepción si no demostrare el impedimento de caso fortuito o fuerza mayor que le impidiera presentarse a contestar la demanda.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ARTICULO 19
+ARTICULO 19 (DEROGADO, G.O. 18 DE MARZO DE 2011)
 
-Si al anunciarse el despacho del negocio no estuvieren presentes el actor ni el demandado, se tendrá por no expedida la cita y podrá expedirse de nuevo si el actor lo pidiere. Lo mismo se observará cuando no concurra el demandado y aparezca que no fue citado debidamente.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ARTICULO 20
+ARTICULO 20 (DEROGADO, G.O. 18 DE MARZO DE 2011)
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 24 DE MAYO DE 1996)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-Concurriendo al juzgado las partes en virtud de la citación, se abrirá la audiencia y en ella se observarán las siguientes prevenciones:
-
-> <small>(REFORMADA, D.O.F. 24 DE MAYO DE 1996)</small>
-
-I.- Expondrán oralmente sus pretensiones por su orden, el actor su demanda, y el demandado su contestación, y exhibirán los documentos y objetos que estimen conducentes a su defensa y presentarán a los testigos y peritos que pretendan sean oídos;
-
-II.- Las partes pueden hacerse mutuamente las preguntas que quieran, interrogar a los testigos y peritos y en general, presentar todas las pruebas que se puedan rendir desde luego;
-
-> <small>(REFORMADA, D.O.F. 24 DE MAYO DE 1996)</small>
-
-III.- Todas las acciones y excepciones o defensas se harán valer en el acto mismo de la audiencia, sin sustanciar artículos o incidentes de previo pronunciamiento. Si de lo que expongan o aprueben las partes resultará demostrada la procedencia de una excepción dilatoria, el juez lo declarará así, desde luego, y dará por terminada la audiencia. Ante los jueces de paz, sólo se admitirá reconvención hasta por el monto de su competencia en términos del artículo 2o. de esta ley;
-
-IV.- (DEROGADA, D.O.F. 24 DE MAYO DE 1996)
-
-V.- (DEROGADA, D.O.F. 24 DE MAYO DE 1996)
-
-VI.- (DEROGADA, D.O.F. 24 DE MAYO DE 1996)
-
-VII.- (DEROGADA, D.O.F. 24 DE MAYO DE 1996)
-
-> <small>(REFORMADO, D.O.F. 24 DE MAYO DE 1996)</small>
-
-ARTICULO 21
-
-Las sentencias que se pronuncien en los juzgados de paz en materia civil deberán ajustarse a lo dispuesto por el artículo 81 de este código.
+ARTICULO 21 (DEROGADO, G.O. 18 DE MARZO DE 2011)
 
 ARTICULO 22 (DEROGADO, D.O.F. 24 DE MAYO DE 1996)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>(REFORMADO, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
-
-ARTICULO 23
-
-Contra las resoluciones pronunciadas por los jueces de paz no se dará recurso alguno.
+ARTICULO 23 (DEROGADO, G.O. 18 DE MARZO DE 2011)
 
 Ejecución de las sentencias
 
-ARTICULO 24
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-Los jueces de paz tienen obligación de proveer a la eficaz e inmediata ejecución de sus sentencias y a ese efecto dictarán todas las medidas necesarias en la forma y términos que a su juicio fueren procedentes, sin contrariar las reglas siguientes:
+ARTICULO 24 (DEROGADO, G.O. 18 DE MARZO DE 2011)
 
-I.- Si al pronunciarse la sentencia estuvieren presentes ambas partes, el juez las interrogará acerca de la forma que cada una proponga para la ejecución y procurará que lleguen a un avenimiento a ese respecto;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-II.- El condenado podrá proponer fianza de persona abonada para garantizar el pago, y el juez, con audiencia de la parte que obtuvo, calificará la fianza según su arbitrio, y si la aceptare podrá conceder un término hasta de quince días para el cumplimiento y aun mayor tiempo si el que obtuvo estuviere conforme en ella. Si vencido el plazo el condenado no hubiere cumplido, se procederá de plano contra el fiador, quien no gozará de beneficio alguno;
+ARTICULO 25 (DEROGADO, G.O. 18 DE MARZO DE 2011)
 
-III.- Llegado el caso, el ejecutor asociado de la parte que obtuvo y sirviendo de mandamiento en forma la sentencia condenatoria procederá al secuestro de bienes conforme a los artículos que siguen.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1975)</small>
+ARTICULO 26 (DEROGADO, G.O. 18 DE MARZO DE 2011)
 
-ARTICULO 25
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-El secuestro podrá recaer en toda clase de muebles, con excepción de los vestidos, muebles de uso común e instrumentos y útiles de trabajo, en cuanto sean enteramente indispensables, a juicio del ejecutor, y de los sueldos y pensiones del Erario. El embargo de sueldos o salarios sólo se hará cuando la deuda reclamada fuere por responsabilidad proveniente de delitos, graduándola el ejecutor, equitativamente, en atención al importe de los sueldos y a las necesidades del ejecutado y su familia.
+ARTICULO 27 (DEROGADO, G.O. 18 DE MARZO DE 2011)
 
-ARTICULO 26
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-La elección de los bienes en que hubiere de recaer el secuestro será hecha por el ejecutor, prefiriendo los más realizables y teniendo en cuenta lo que expongan las partes.
+ARTICULO 28 (DEROGADO, G.O. 18 DE MARZO DE 2011)
 
-ARTICULO 27
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-Si no se hallare el condenado en su habitación, despacho, taller o establecimiento, la diligencia se practicará con la persona que se encuentre, y si no hubiere nadie, con un vecino y el gendarme del punto.
-
-ARTICULO 28
-
-En caso necesario, previa orden especial y escrita del juez, se podrán practicar cateos y romper cerraduras en cuanto fuere indispensable para encontrar bienes bastantes.
-
-ARTICULO 29
-
-Si el secuestro recayere en créditos o rentas, la ejecución consistirá en notificar al que deba de pagarlos que los entregue al Juzgado luego que se venzan o sean exigibles. Cualquier fraude o acto malicioso para impedir la eficacia del secuestro, como anticipar el pago o aparecer despedido el empleado o rescindido el contrato, hará personal y directamente responsable al notificado y, en consecuencia, a él se le exigirá el pago de lo sentenciado, a reserva de que a su vez lo exija a la parte condenada.
+ARTICULO 29 (DEROGADO, G.O. 18 DE MARZO DE 2011)
 
 ARTICULO 30
 
 El remate de bienes muebles se hará en la forma que determina el artículo 598 del Código de Procedimientos Civiles. Si se tratare de bienes raíces se anunciará el remate por medio de avisos que se fijen en los lugares de costumbre y en la puerta del Juzgado, y se hará previa citación de los acreedores que resulten del certificado de gravámenes que sin causa de derechos expedirá el registrador público de la propiedad. El avalúo se hará por medio de cualquier clase de pruebas que el juez podrá allegar de oficio.
 
-ARTICULO 31
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-Si atendidas las circunstancias y la naturaleza de los bienes, el juez estimare que deben de pignorarse las (sic) muebles antes de venderse, los mandará trasladar al Nacional Monte de Piedad y los pignorará en la mayor suma posible, pero que no exceda de la necesaria para cubrir la cantidad a cuyo pago se haya condenado y los gastos de traslación. Si la cantidad prestada bastare para cubrir dichos gastos, se entregará el billete de empeño al ejecutado y, en caso contrario, el empeño se hará en el concepto de que el objeto salga a remate en la almoneda más próxima y el billete se retendrá en el juzgado hasta que el acreedor quede íntegramente pagado o hasta que los objetos pignorados se realicen, entregándose entonces al deudor la demasía que hubiere.
+ARTICULO 31 (DEROGADO, G.O. 18 DE MARZO DE 2011)
 
-Los gastos de traslación serán pagados desde luego por el ejecutor, tomándose su importe de la cantidad prestada.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ARTICULO 32
+ARTICULO 32 (DEROGADO, G.O. 18 DE MARZO DE 2011)
 
-Todos los actos del ejecutor serán revisables, sea de oficio o a petición de parte, por el juez, quien podrá modificarlos o revocarlos según lo creyere justo.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ARTICULO 33
+ARTICULO 33 (DEROGADO, G.O. 18 DE MARZO DE 2011)
 
-Cuando la sentencia condene a entregar cosa determinada, para obtener su cumplimiento se podrán emplear los medios de apremio que autoriza el artículo 73 de este Código, y si fuere necesario el cateo, se podrá autorizar previa orden especial y escrita que se rompan cerraduras en cuanto fuere posible, para encontrar la cosa.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-Si ni aun así se obtuviere la entrega, el juez fijará la cantidad que como reparación se deba entregar a la parte que obtuvo, procediéndose a exigir su pago con arreglo a los artículos 24 a 31.
+ARTICULO 34 (DEROGADO, G.O. 18 DE MARZO DE 2011)
 
-ARTICULO 34
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-Si la sentencia condena a hacer, el juez señalará al que fue condenado, un plazo prudente para el cumplimiento y se estará en todo a lo dispuesto en el artículo 517 de este Código (de Procedimientos Civiles).
-
-Si el hecho consistiere en el otorgamiento de un contrato o la celebración de un acto jurídico, el juez lo ejecutará en rebeldía del condenado.
-
-ARTICULO 35
-
-El tercero que considere perjudicados sus derechos al ejecutarse la sentencia ocurrirá al juez de paz, presentando sus pruebas y el juez, con audiencia inmediata de las partes, resolverá si subsiste o no el secuestro o el acto de ejecución practicado, sin decidir sobre la propiedad de la cosa ni sobre otros hechos controvertidos.
+ARTICULO 35 (DEROGADO, G.O. 18 DE MARZO DE 2011)
 
 ARTICULO 36 (DEROGADO, D.O.F. 7 DE FEBRERO DE 1985)
 
 Incidentes
 
-ARTICULO 37
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-Las cuestiones incidentales que se susciten ante los jueces de paz, se resolverán juntamente con la principal, a menos que por su naturaleza sea forzoso decidirlas antes, o que se promuevan después de la sentencia, pero en ningún caso se formará artículo, sino que se decidirán de plano.
+ARTICULO 37 (DEROGADO, G.O. 18 DE MARZO DE 2011)
 
-La conexidad sólo procede cuando se trate de juicios que se sigan ante el mismo juez de paz y se resolverá luego que se promueva, sin necesidad de audiencia especial ni otra actuación. Queda abolida la práctica de promover acumulaciones de autos llevados ante juzgados de paz diferentes.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ARTICULO 38
-
-Las promociones de nulidad de actuaciones por falta o defecto de citación o notificación, deben de ser desechadas de plano.
+ARTICULO 38 (DEROGADO, G.O. 18 DE MARZO DE 2011)
 
 Reglas generales
 
 ARTICULO 39 (DEROGADO, D.O.F. 24 DE MAYO DE 1996)
 
-ARTICULO 40
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-En los negocios de la competencia de los juzgados de paz, únicamente se aplicarán las disposiciones de este Código (de Procedimientos Civiles), y de la Ley de Organización de Tribunales, en lo que fuere indispensable, para complementar las disposiciones de este título y que no se opongan directa ni indirectamente a éstas.
+ARTICULO 40 (DEROGADO, G.O. 18 DE MARZO DE 2011)
 
-ARTICULO 41
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-Ante los jueces de paz no será necesario la intervención de abogados ni se exigirá ritualidad alguna ni forma determinada en las promociones o alegaciones que se hagan.
+ARTICULO 41 (DEROGADO, G.O. 18 DE MARZO DE 2011)
 
-ARTICULO 42 (DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1975)
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ARTICULO 43
+ARTICULO 42 (DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1975) (REPUBLICADO, G.O. 18 DE MARZO DE 2011)
 
-Las audiencias serán públicas. Si en la hora señalada para una audiencia no se hubiere terminado el negocio o negocios anteriores, las personas citadas deberán permanecer hasta que llegue su turno al asunto respectivo, siguiéndose rigurosamente para la vista de los negocios del orden que les corresponda, según la lista del día, que se fijará en los tableros del juzgado desde la víspera.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-Cuando fuere necesario esperar a alguna persona a quien se hubiere llamado a la audiencia o conceder tiempo a los peritos para que examinen las cosas acerca de las que hayan de emitir dictamen u ocurriere algún otro caso que lo exija a juicio del juez, se suspenderá la audiencia por un término prudente no mayor de una hora, y si fuere enteramente indispensable, dispondrá el juez la continuación para el día siguiente, a más tardar. La violación de este precepto amerita corrección disciplinaria que impondrá el superior y será anotada en el expediente que a cada funcionario judicial corresponderá.
+ARTICULO 43 (DEROGADO, G.O. 18 DE MARZO DE 2011)
 
-ARTICULO 44
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-Para cada asunto se formará un breve expediente con los documentos relativos a él y, en todo caso, con el acta de la audiencia en la que muy sucintamente se relatarán los puntos principales y se asentará la sentencia así como lo relativo a su ejecución. Bastará que las actas sean autorizadas por el juez y el secretario o los testigos de asistencia en su caso; pero los interesados tendrán el derecho de firmarlas también, pudiendo sacar copias de ellas, cuya exactitud certificará el secretario previo cotejo si así se pidiere. El condenado que estuviere presente firmará en todo caso el acta, a menos de no saber o estar físicamente impedido; si fuere posible se imprimirán sus huellas digitales.
+ARTICULO 44 (DEROGADO, G.O. 18 DE MARZO DE 2011)
 
-> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1966)</small>
+ARTICULO 45 (DEROGADO, G.O. 18 DE MARZO DE 2011)
 
-En los asuntos de menos de trescientos pesos, no se requiere ni la formación de expedientes, bastando con asentar en el libro de gobierno el asunto de la demanda y la contestación que se diere, sucintamente relatada, y los puntos resolutivos de la sentencia con los preceptos legales que le sirvieron de fundamento.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ARTICULO 45
+ARTICULO 46 (DEROGADO, G.O. 18 DE MARZO DE 2011)
 
-Los documentos y objetos presentados por las partes, les serán devueltos al terminar la audiencia, tomándose razón.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-ARTICULO 46
-
-> <small>(F. DE E., D.O.F. 27 DE SEPTIEMBRE DE 1932)</small>
-
-Para la facilidad y rapidez en el despacho, las citas, órdenes, actas y demás documentos necesarios se extenderán en esqueletos impresos que tendrán los huecos que su objeto requiera y los cuales se llenarán haciendo constar en breve extracto lo indispensable para la exactitud y precisión del documento. Cuando por motivos especiales fuere necesario hacer constar más de lo que cupiere en el hueco correspondiente, se escribirá al reverso del documento o en hojas que se agregarán a él. El Presidente del Tribunal Superior y el Jefe del Departamento Central fijarán cada año, en el mes de diciembre, los modelos de los esqueletos que se hayan de emplear en el año siguiente, oyendo en efecto a los jueces de paz, a los que convocarán a las juntas que estime necesarias y cuidará de la impresión y distribución de los esqueletos en cantidad necesaria.
-
-> <small>(REFORMADO, D.O.F. 24 DE MAYO DE 1996)</small>
-
-ARTICULO 47
-
-Los jueces de paz no son recusables, pero deben excusarse cuando estén impedidos, y en tal caso, el negocio pasará al siguiente juzgado en número. Si los jueces impedidos no se excusaren, a queja de parte el Consejo de la Judicatura impondrá la corrección disciplinaria correspondiente haciendo la anotación en el expediente del funcionario.
+ARTICULO 47 (DEROGADO, G.O. 18 DE MARZO DE 2011)
 
 ## ARTICULOS TRANSITORIOS
 
@@ -10477,3 +10405,17 @@ G.O. 10 DE MARZO DE 2011.
 PRIMERO. El presente decreto entrará en vigor el 10 de marzo de 2011.
 
 SEGUNDO. Publíquese el presente Decreto en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
+
+G.O. 18 DE MARZO DE 2011.
+
+PRIMERO.- Publíquese el presente decreto en la Gaceta Oficial del Distrito Federal y en Diario Oficial de la Federación para su mayor difusión.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO.- El Tribunal Superior de Justicia y el Consejo de la Judicatura del Distrito Federal, dispondrán de ciento ochenta días naturales, a partir de la expedición del presente decreto para formular e instrumentar sus respectivos reglamentos interiores en relación con las reformas a la Ley Orgánica del Tribunal Superior de Justicia del Distrito Federal a que se refiere el segundo resolutivo.
+
+CUARTO.- Se derogan todas aquéllas disposiciones que se opongan al presente Decreto.
+
+QUINTO.- La reforma prevista a los artículos 37 fracción VIII, 50 fracciones II y III, 58 Bis, 62 Bis, 67, 68, 69, 70, 71, 71 Bis, 72, 72 Bis, 173, 196, 201 fracción XIX, 203, 207, 208, 209 y 224 Bis, de la Ley Orgánica del Tribunal Superior de Justicia del Distrito Federal, y la reforma prevista en el presente Decreto respecto del Código de Procedimientos Civiles para el Distrito Federal, entrarán en vigor el 27 de enero de 2012.
+
+SEXTO.- Los juicios y procedimientos judiciales actualmente en trámite conforme a las reglas del Título Especial de la Justicia de Paz, se regirán hasta su conclusión por las disposiciones vigentes con anterioridad a la entrada en vigor del Transitorio Quinto del presente decreto.
