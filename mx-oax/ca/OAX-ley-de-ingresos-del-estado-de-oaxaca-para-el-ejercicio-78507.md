@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-ingresos-del-estado-de-oaxaca-para-el-ejercicio-78507"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2010-12-29"
-last_updated: "2010-12-29"
+last_updated: "2011-03-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78507&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE INGRESOS DEL ESTADO DE OAXACA PARA EL EJERCICIO FISCAL 2011
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE MARZO DE 2011.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el miércoles 29 de diciembre de 2010.
 
@@ -4409,29 +4409,49 @@ Los servidores públicos que incurran en inobservancia a esta disposición, se h
 
 POR LOS SERVICIOS QUE PRESTAN LOS TALLERES GRAFICOS DEL GOBIERNO DEL ESTADO
 
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2011)</small>
+
 ###### ARTÍCULO 44.
 
-Por los servicios que prestan los Talleres Gráficos del Gobierno del Estado, se causarán y pagarán los derechos señalados en cada caso, en la siguiente forma:
+Por los servicios que prestan los Talleres Gráficos del Gobierno del Estado, se causarán y pagarán los derechos siguientes:
 
-I Por venta de leyes.
+Número de salarios
 
-II Por publicaciones oficiales a los precios señalados en cada caso:
+mínimos
 
-a) Por cada publicación de edictos, avisos y otras inserciones no especificadas,
+I. Por venta de leyes 4.41
 
-por palabra.
+II. Por publicaciones oficiales a
 
-b) Suscripciones locales, por semestre.
+los precios señalados en cada caso:
 
-c) Suscripciones foráneas, por semestre.
+a) Por cada publicación de edictos
 
-d) Números sueltos del día.
+y otras inserciones a cuarto de plana 2.00
 
-e) Números sueltos atrasados del mismo año.
+b) Suscripciones locales, por semestre 2.65
 
-f) Números sueltos atrasados de años anteriores.
+c) Suscripciones foráneas, por
 
-g) Por publicación de balances y otros documentos que requieran un formato especial, por página.
+semestre 3.88
+
+d) Números sueltos del día 0.11
+
+e) Números sueltos atrasados
+
+del mismo año 0.18
+
+f) Números sueltos atrasados
+
+de años anteriores 0.26
+
+g) Por publicación de balances y
+
+otros documentos que
+
+requieran un formato especial,
+
+por pagina 7.93
 
 POR LOS SERVICIOS QUE PRESTA LA CASA DE LA CULTURA OAXAQUEÑA
 
@@ -4712,3 +4732,9 @@ Tlalixtac de Cabrera, Centro, Oax., a 22 de diciembre del 2010.
 LA SECRETARIA GENERAL DE GOBIERNO.
 
 C. ANTONIA IRMA PIÑEYRO ARIAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 19 DE MARZO DE 2011.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
