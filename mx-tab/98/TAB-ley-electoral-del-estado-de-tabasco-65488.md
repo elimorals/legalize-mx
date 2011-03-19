@@ -4,7 +4,7 @@ identifier: "TAB-ley-electoral-del-estado-de-tabasco-65488"
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-12"
-last_updated: "2008-12-12"
+last_updated: "2011-03-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65488&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY ELECTORAL DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE MARZO DE 2011.
 
 Ley publicada en el Extraordinario No. 52 del Periódico Oficial del Estado de Tabasco, el viernes 12 de diciembre de 2008.
 
@@ -239,95 +239,127 @@ I. Votación total emitida: La suma de todos los votos depositados en las urnas;
 
 II. Votación estatal emitida: La que resulte de restar a la votación total emitida, los votos a favor de los candidatos no registrados, Partidos Políticos que no hayan obtenido el 2 % y los votos nulos.
 
-(NOTA: EL 26 DE MARZO DE 2009, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO DÉCIMO QUINTO Y EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 2/2009 Y SU ACUMULADA 3/2009, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 27 DE MARZO DE 2009 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2011)</small>
 
 ###### ARTÍCULO 19.
 
-El Estado de Tabasco se divide en veintiún Distritos Electorales Uninominales de la siguiente forma:
+El Estado de Tabasco se divide en 21 distritos electorales uninominales; la distribución y delimitación territorial de los distritos será determinada por el Consejo Estatal, atendiendo a los siguientes elementos y variables técnicas:
 
-I: Municipio de Balancán
+I.- Deberá dividirse la población total del Estado, entre el número de distritos señalados en el párrafo anterior, para obtener el promedio poblacional por distrito;
 
-II: Municipio de Cárdenas
+II.- La desviación del promedio poblacional por distrito procurará ser, por encima o por debajo, inferior al 15% en los 21distritos;
 
-III: Municipio de Centla
+III.- La unidad de agregación en la integración de los distritos, deberá ser la sección electoral tomando en cuenta la delimitación de comunidades o colonias y las vías de comunicación, procurando en la medida de lo posible la integridad municipal, salvo los casos en que el territorio de un municipio deba ocupar más de un distrito electoral;
 
-IV: Municipio de Centro Norte
+IV.- En la medida de lo posible, se procurará:
 
-V: Municipio de Centro Sur
+a) Contigüidad, que implica que los distritos se conformen por una sola parte de territorio, interconectados con otros distritos y de ninguna manera, deben estar fragmentados al interior;
 
-VI: Municipio de Comalcalco
+b) Continuidad, que implica que los distritos se integren por unidades de agregación vecinas entre sí;
 
-VII: Municipio de Cunduacán
+c) Compacidad, entendida como la situación en la que el perímetro de los distritos adquiera una forma geométrica lo más cercana a un polígono regular; y
 
-VIII: Municipio de Emiliano Zapata
-
-IX: Municipio de Huimanguillo
-
-X: Municipio de Jalapa
-
-XI: Municipio de Jalpa de Méndez
-
-XII: Municipio de Jonuta
-
-XIII: Municipio de Macuspana
-
-XIV: Municipio de Nacajuca
-
-XV: Municipio de Paraíso
-
-XVI: Municipio de Tacotalpa
-
-XVII: Municipio de Teapa
-
-XVIII: Municipio de Tenosique
-
-XIX: Municipio de Cárdenas Poniente
-
-XX: Municipio de Centro Oriente
-
-XXI: Municipio de Centro Poniente
+d) El respeto a las vías de comunicación, a otros factores geográficos y la indivisibilidad de las secciones electorales.
 
 ###### ARTÍCULO 20.
 
 Para la elección de Diputados, además de los veintiún Distritos Electorales Uninominales, existirán dos circunscripciones plurinominales cuya demarcación será determinada por el Consejo Estatal, en la que serán electos catorce Diputados según el Principio de Representación Proporcional, a través del Sistema de las Listas Regionales, integradas por catorce candidatos propietarios y sus respectivos suplentes por cada Partido Político contendiente.
 
-(NOTA: EL 26 DE MARZO DE 2009, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO DÉCIMO CUARTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 2/2009 Y SU ACUMULADA 3/2009, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 27 DE MARZO DE 2009 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2011)</small>
 
 ###### ARTÍCULO 21.
 
-En ningún caso, un Partido Político podrá contar con más de 22 diputados por ambos principios. Asimismo, ningún Partido Político podrá contar con un número de diputados por ambos principios que representen un porcentaje del total de la Cámara que exceda en ocho puntos a su porcentaje de votación estatal emitida. ESTA DISPOSICIÓN NO SE APLICARÁ AL PARTIDO POLÍTICO QUE, POR SUS TRIUNFOS EN DISTRITOS UNINOMINALES, OBTENGA UN PORCENTAJE DE CURULES DEL TOTAL DE LA CÁMARA, SUPERIOR A LA SUMA DEL PORCENTAJE DE SU VOTACIÓN ESTATAL EMITIDA MÁS EL DIEZ POR CIENTO.
+La asignación de diputados por el principio de representación proporcional se sujetará a las siguientes Bases:
 
-Los partidos políticos no podrán registrar simultáneamente, en un mismo proceso electoral más de cuatro candidatos a diputados por mayoría relativa y por representación proporcional distribuidos en sus dos listas regionales.
+I. Para obtener el registro de sus listas regionales, el Partido Político que lo solicite, deberá acreditar que participa con candidatos a diputados por mayoría relativa en, por lo menos, las dos terceras partes de los distritos electorales uninominales;
+
+II. Todo Partido Político que alcance por lo menos el 2% de la votación total emitida para las listas regionales de las circunscripciones plurinominales, tendrá derecho a que se le asignen Diputados según el principio de representación proporcional;
+
+III. Al Partido Político que cumpla con las dos fracciones anteriores, independiente y adicionalmente a las constancias de mayoría relativa que hubiesen obtenido sus candidatos, le serán asignados por el principio de representación proporcional, de acuerdo con su porcentaje de votación estatal emitida, el número de diputados de su lista regional que le corresponda en cada circunscripción plurinominal;
+
+IV. En ningún caso, un Partido Político podrá contar con más de 21 diputados por ambos principios;
+
+V. Ningún Partido Político podrá contar con un número de diputados por ambos principios que represente un porcentaje del total de la Cámara que exceda en ocho puntos a su porcentaje de votación estatal emitida. Esta regla no se aplicará al Partido Político que por sus triunfos en distritos uninominales exceda el límite antes señalado;
+
+VI. Se asignarán en primer término y si fuere el caso, las diputaciones por el principio de representación proporcional que correspondan al Partido Político que se encuentre en los supuestos de las fracciones IV y V anteriores;
+
+VII. Posteriormente, se otorgará una curul a cada Partido Político que hubiese obtenido, por lo menos el·2% de la votación total emitida en la elección de diputado por el principio de representación proporcional, excluyendo al Partido Político que se hubiere ubicado en el supuesto de la fracción anterior;
+
+VIII. Finalmente, se asignarán las curules restantes a los Partidos Políticos con derecho a ello en proporción directa con la votación que hubieren obtenido; y
+
+IX. Si ningún Partido Político se encuentra en los supuestos de las fracciones IV o V, se otorgará una curul a cada Partido Político que hubiese obtenido, por lo menos, el 2% de la votación total emitida y, posteriormente, se asignarán las curules restantes en proporción directa con la votación recibida por cada uno de los Partidos Políticos.
 
 ### CAPÍTULO TERCERO. DE LA REPRESENTACIÓN PROPORCIONAL PARA LA INTEGRACIÓN DEL CONGRESO DEL ESTADO
 
-(NOTA: EL 26 DE MARZO DE 2009, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO DÉCIMO CUARTO Y EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 2/2009 Y SU ACUMULADA 3/2009, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 27 DE MARZO DE 2009 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2011)</small>
 
 ###### ARTÍCULO 22.
 
-Para la asignación de Diputados de Representación Proporcional conforme lo previsto en las fracciones II y III del artículo 14 de la Constitución Local, se procederá a la aplicación de lo siguiente:
+Para la asignación de diputados· por el principio de representación proporcional, se procederá a la aplicación de una fórmula de proporcionalidad integrada por los siguientes elementos:
 
-Las diputaciones de representación proporcional se distribuirán mediante rondas de asignación entre los Partidos Políticos o Coaliciones con derecho a ello, atendiendo el orden decreciente del porcentaje de votación emitida por cada uno de ellos de la votación estatal válida emitida. En una primera ronda, se asignará una diputación a cada Partido Político que haya obtenido por lo menos el 2% de la votación estatal emitida. Si aún quedare diputaciones por asignar, en una segunda ronda se otorgará otra diputación a cada partido que haya obtenido más del 10% y hasta el 18% de la votación. Si aún quedare diputaciones por asignar en una tercera ronda se otorgará otra diputación a cada Partido Político que haya obtenido más del 18% hasta el 26% de la votación. Si aún quedaren diputaciones por asignar, en una cuarta ronda se asignará otra diputación a cada Partido Político que haya obtenido más del 26% y hasta el 34% de la votación. Si aún quedaran diputaciones por asignar en una quinta ronda se otorgará otra diputación a cada Partido Político que haya obtenido más del 34% de la votación. Si agotado este procedimiento, aún quedaren diputaciones por asignar, esta se otorgará por ronda de asignación, de una en una y en orden de mayor a menor del porcentaje de votación obtenida por los Partidos Políticos hasta agotar su totalidad.
+I. Porcentaje mínimo, en términos de lo dispuesto en la fracción II del Artículo 14 de la Constitución local;
 
-(NOTA: EL 26 DE MARZO DE 2009, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO DÉCIMO CUARTO Y EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 2/2009 Y SU ACUMULADA 3/2009, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 27 DE MARZO DE 2009 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+II. Cociente natural;
+
+III. Cociente rectificado; y
+
+IV. Resto Mayor.
+
+Porcentaje mínimo: Es el equivalente al 2% de la votación total emitida en la elección de diputados por el principio de representación proporcional.
+
+Cociente natural: Es el resultado de restar a la votación estatal emitida el total de votos utilizados por los Partidos Políticos para alcanzar el porcentaje mínimo y dividir el resultado de ésta operación, entre el número de curules pendientes de repartir, que se obtiene después de haber deducido de las catorce curules por asignar, las diputaciones otorgadas mediante porcentaje mínimo.
+
+Cociente rectificado: Es el resultado de restar a la votación estatal emitida, el total de votos utilizados por los Partidos Políticos para alcanzar el porcentaje mínimo, y el total de votos obtenidos por el Partido Político al que se le hubiese aplicado alguno de los límites establecidos en las fracciones IV o V del artículo 14 de la Constitución, y dividir el resultado de esta operación, entre el número de diputados por asignar, que se obtiene después de haber deducido de las catorce curules por repartir, las diputaciones asignadas mediante porcentaje mínimo y las asignadas al Partido Político al que se le hubiese aplicado alguno de los límites establecidos en las referidas fracciones IV o V.
+
+Resto mayor: Es el remanente más alto entre los restos de las votaciones de cada Partido Político, una vez hecha la asignación de curules, aplicando el cociente natural o, en su caso, el cociente rectificado. El resto mayor se utilizará cuando aún hubiesen diputaciones por distribuir.
+
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2011)</small>
 
 ###### ARTÍCULO 23.
 
-Las diputaciones de representación proporcional que correspondan a cada Partido Político, se asignarán alternada y sucesivamente: en primer lugar, utilizando el Sistema de Lista previamente registrada por los Partidos Políticos conforme a esta Ley, y, en segundo lugar, atendiendo a los más altos porcentajes de votación válida obtenida en cada Circunscripción por cada Partido Político. Iniciándose el otorgamiento para el caso de los Partidos Políticos que hayan obtenido el 2% de la votación estatal emitida, la asignación correspondiente de la Circunscripción Plurinominal donde el Partido Político respectivo hubiere alcanzado la mayor votación y en los porcentajes subsecuentes la distribución se realizará alternando las Circunscripciones Plurinominales de donde se haya efectuado la primera distribución.
+Para la asignación de diputados por el principio de representación proporcional, se seguirá el procedimiento siguiente:
 
-(NOTA: EL 26 DE MARZO DE 2009, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO DÉCIMO CUARTO Y EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 2/2009 Y SU ACUMULADA 3/2009, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 27 DE MARZO DE 2009 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+I. Se realizará un ejercicio para determinar, si es el caso de aplicar a algún Partido Político los límites establecidos en las fracciones IV y V del artículo 14 de la Constitución, para ello, se obtendrán las curules que se le asignarían a cada Partido Político, conforme a lo siguiente:
+
+A. De las catorce diputaciones por repartir se otorgará una a cada Partido Político que tenga el porcentaje mínimo;
+
+B. Para las curules que queden por distribuir, se aplicará el cociente natural, determinando conforme a números enteros, las curules que corresponderían a cada Partido Político; y
+
+C. Si aun quedaren diputaciones por distribuir, se utilizará el resto mayor para determinar a qué Partido Político corresponden.
+
+II. Se asignarán las diputaciones por el principio de representación proporcional en el orden y con los resultados obtenidos del ejercicio realizado en términos de lo dispuesto en la fracción I de este artículo, en el caso de que a ningún Partido Político le fuera aplicable alguno de los límites· establecidos en las fracciones IV o V del artículo 14 de la Constitución;
+
+III. En el supuesto de que algún Partido Político alcanzara un número de diputados por ambos principios que excediera de 21 o de que su porcentaje de curules del total de la Legislatura, excediera en ocho puntos o más a su porcentaje de votación estatal emitida, le serán asignados diputados de representación proporcional, hasta el límite establecido, en su caso, en las referidas fracciones IV o V;
+
+IV. Una vez hecha la asignación al Partido Político que se hubiere ubicado en alguno de los supuestos mencionados en la fracción anterior, se asignarán las curules pendientes de repartir, entre los demás Partidos Políticos en los siguientes términos:
+
+A. Se asignará una curul a cada Partido Político que tenga el porcentaje mínimo;
+
+B. Para las curules que queden por asignar, se aplicará un cociente rectificado, asignando conforme a números enteros las curules a cada Partido Político; y
+
+C. Si aún quedaren diputaciones por asignar se utilizará el resto mayor.
+
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2011)</small>
 
 ###### ARTÍCULO 24.
 
-Se determinará si es el caso de aplicar algún Partido Político el o los límites establecidos en las fracciones IV y V del artículo 14 de la Constitución Local, para lo cual al Partido Político cuyo número de Diputados por ambos Principios exceda de 22, o su porcentaje de curules del total de la cámara exceda en ocho puntos a su porcentaje de votación estatal emitida, le serán deducidos el número de Diputados de Representación Proporcional hasta ajustarse a los límites establecidos, asignándose las diputaciones excedentes a los demás Partidos Políticos que no se ubiquen en estos supuestos.
+Una vez que se haya determinado el número de diputados por el principio de representación proporcional que correspondan a los Partidos Políticos conforme a las bases y procedimiento previstos en los artículos anteriores, el Consejo Estatal realizará la distribución de curules a cada Partido Político por circunscripción plurinominal, bajo el siguiente procedimiento:
 
-(NOTA: EL 26 DE MARZO DE 2009, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO DÉCIMO CUARTO Y EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 2/2009 Y SU ACUMULADA 3/2009, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 27 DE MARZO DE 2009 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+1. Elaborará una lista de los Partidos Políticos a los que se les hubiesen asignado diputados por el principio de representación proporcional, en orden descendente, tomando en cuenta el total de votos obtenidos por cada uno de ellos en la elección de diputados por el principio de representación proporcional;
+
+2. La distribución de curules comenzará por el Partido Político que hubiera obtenido el mayor número de votos en la elección, es decir el que encabeza la lista señalada en el punto anterior. Para este efecto, se obtendrá un cociente, que será el resultado de dividir el total de la votación obtenida por el Partido Político entre el número de diputados plurinominales a que tenga derecho;
+
+3. Una vez obtenido el cociente, se distribuirán las diputaciones que le correspondan, determinando, conforme a números enteros, las curules en cada una de las circunscripciones, a partir de los votos obtenidos por el Partido Político en cada una de las dos circunscripciones plurinominales, comenzando por aquella en la que hubiese obtenido el mayor número de votos; en su caso, si realizada la distribución de curules por números enteros, faltare alguna diputación por distribuir, ésta se le asignará en la circunscripción plurinominal en la que tenga el mayor remanente de votos o resto mayor;
+
+4. Una vez distribuidas las curules al Partido Político con mayor número de votos, se realizará la distribución de los demás Partidos Políticos, uno por uno, en el orden de la lista señalada en el punto 1 de este artículo, aplicando en lo conducente las reglas contenidas en los puntos 2 y 3;
+
+5. En el supuesto de que al realizar la distribución de diputaciones conforme a los puntos anteriores se hubiesen agotado las curules a distribuir en una circunscripción plurinominal, se asignarán en la otra.
+
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2011)</small>
 
 ###### ARTÍCULO 25.
 
-Para la asignación de Diputados de Representación Proporcional en el caso que se diere el supuesto previsto por la fracción VI del artículo 14 de la Constitución Local, se procederá como sigue:
-
-Una vez realizada la distribución a que se refiere los artículos anteriores, se procederá a asignar el resto de las curules a los demás Partidos Políticos con derecho a ello, de acuerdo al porcentaje de votación mayor de cada Circunscripción de manera alternada.
+En caso de que un Partido Político tenga la misma votación en las dos circunscripciones plurinominales, la distribución de curules se iniciará a partir de la primera circunscripción.
 
 ###### ARTÍCULO 26.
 
@@ -2867,9 +2899,7 @@ II. Vencido el plazo a que se refiere el inciso anterior, sólo podrán sustitui
 
 III. En los casos en que la renuncia del candidato fuera presentado por éste ante el Consejo Estatal, se hará del conocimiento del Partido Político que lo registro para que proceda, en su caso, a su sustitución.
 
-(NOTA: EL 26 DE MARZO DE 2009, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO DÉCIMO CUARTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 2/2009 Y SU ACUMULADA 3/2009, DECLARÓ LA INVALIDEZ DEL ÚLTIMO PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 27 DE MARZO DE 2009 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-SÓLO SE PODRÁN SUSTITUIR EL O LOS CANDIDATOS REGISTRADOS POR UNA COALICIÓN, POR CAUSAS DEL FALLECIMIENTO O INCAPACIDAD PERMANENTE. PARA LA SUSTITUCIÓN, EN ESTOS CASOS, SE TENDRÁ QUE ACREDITAR QUE CUMPLIÓ CON LO DISPUESTO EN LOS ARTÍCULOS DEL 109 AL 116, SEGÚN CORRESPONDA.
+> <small>(DEROGADO ULTIMO PARRAFO, P.O. 19 DE MARZO DE 2011)</small>
 
 ### CAPÍTULO CUARTO. DE LAS CAMPAÑAS ELECTORALES
 
@@ -4928,3 +4958,15 @@ GOBERNADOR DEL ESTADO DE TABASCO.
 LIC. MIGUEL ALBERTO ROMERO PÉREZ
 
 CONSEJERO JURÍDICO DEL PODER EJECUTIVO DEL ESTADO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 19 DE MARZO DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+TERCERO.- El Consejo Estatal del Instituto Electoral y de Participación Ciudadana de Tabasco, deberá realizar las previsiones presupuestales correspondientes a fin de llevar a cabo las acciones necesarias para dar cumplimiento en tiempo y forma a lo establecido en el presente Decreto.
+
+CUARTO.- En términos de lo dispuesto por el artículo 46 de la Ley Reglamentaria de las Fracciones I y II del Artículo 105 de la Constitución Política de los Estados Unidos Mexicanos, infórmese al Presidente de la Suprema Corte de Justicia de la Nación, del cumplimiento de la sentencia dictada en la Acción de Inconstitucionalidad 2/2009 y su acumulada 3/2009.
