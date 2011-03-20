@@ -4,7 +4,7 @@ identifier: "BCS-codigo-penal-para-el-estado-de-baja-california-sur-44518"
 country: "mx"
 rank: "codigo"
 publication_date: "2005-03-20"
-last_updated: "2011-02-20"
+last_updated: "2011-03-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44518&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CODIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE FEBRERO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE MARZO DE 2011.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el domingo 20 de marzo de 2005.
 
@@ -1483,7 +1483,7 @@ Al servidor público del Estado o del Municipio que dolosamente altere, modifiqu
 
 Cuando la alteración se produzca en forma culposa, la pena será de seis meses a dos años de prisión y multa de hasta cincuenta días de salario.
 
-> <small>(REFORMADA SU DENOMINACION, B.O. 20 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 20 DE FEBRERO DE 2011)</small>
 
 ### CAPITULO VIII. FALSEDAD EN DECLARACIONES E INFORMES DADOS A UNA AUTORIDAD
 
@@ -1499,7 +1499,7 @@ Cuando se otorgue valor probatorio a la falsedad y el inculpado resulte condenad
 
 Al que obligue o soborne a un traductor, perito o testigo, para que se conduzca con falsedad ante cualquier autoridad o ante notario, se le aplicarán las mismas penas previstas en este capítulo, según el caso.
 
-> <small>(ADICIONADO, B.O. 20 DE FEBRERO DE 2011)</small>
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2011)</small>
 
 ARTÍCULO 189 BIS.- Comete el delito de Falsedad en Informes dados a una Autoridad, aquel que haga uso indebido de los sistemas de emergencia y de denuncia en los siguientes términos:
 
@@ -2041,17 +2041,23 @@ Al que contrajere nuevo matrimonio, sin hallarse legalmente disuelto el anterior
 
 Se impondrá de dos a ocho años de prisión a los ascendientes consanguíneos que tengan cópula con sus descendientes, conociendo el parentesco. La sanción aplicable a éstos últimos y a los hermanos biológicos que tenga cópula entre sí, será de uno a cuatro años de prisión.
 
-### CAPÍTULO VI. INCUMPLIMIENTO DE LAS OBLIGACIONES FAMILIARES
+> <small>(REFORMADA SU DENOMINACION, B.O. 20 DE MARZO DE 2011)</small>
+
+### CAPÍTULO VI. ABANDONO E INCUMPLIMIENTO DE LAS OBLIGACIONES FAMILIARES
+
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 20 DE MARZO DE 2011)</small>
 
 ###### ARTÍCULO 238.
 
-Al que, sin causa justificada, deje de ministrar alimentos a quienes legalmente tengan este derecho, será sancionado con prisión de tres meses a tres años, multa de hasta cien días de salario y pérdida de los derechos de familia, en su caso.
+Al que, sin causa justificada, abandone a sus hijos o su cónyuge e incumpla sus obligaciones de ministrarles alimentos, será sancionado con prisión de seis meses a cuatro años, multa de hasta trescientos días de salario y pérdida de los derechos de familia, en su caso.
 
 El incumplimiento de las obligaciones alimentarias derivadas de los convenios o resoluciones judiciales en materia de divorcio, solo tendrá carácter delictivo, tratándose de los excónyuges, cuando se pruebe que el titular del derecho pudo sufrir daños en su salud por la omisión, al no tener bienes propios y estar incapacitado para trabajar.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 20 DE MARZO DE 2011)</small>
+
 ###### ARTÍCULO 239.
 
-El incumplimiento de las obligaciones familiares solo se perseguirá a petición del ofendido o de los legítimos representantes de los menores o incapaces. A falta de éstos, la acción la iniciará el Ministerio Público, a reserva de que el Juez de la causa designe un tutor especial al ofendido.
+El delito de abandono de hijos o cónyuge e incumplimiento de las obligaciones familiares solo se perseguirá a petición de parte agraviada o de los legítimos representantes de los menores o incapaces. A falta de éstos, la acción la iniciará el Ministerio Público, a reserva de que el Juez de la causa designe un tutor especial al ofendido.
 
 Para que se admita el perdón concedido por el ofendido o por el representante de los menores o incapaces, será necesario que el responsable pague todas las cantidades que hubiese dejado de ministrar y otorgue fianza, a juicio del juzgador, para garantizar el cumplimiento futuro de esas obligaciones.
 
@@ -2354,6 +2360,8 @@ XII.- El activo utilice instalaciones o bienes gubernamentales, frecuencias, cla
 ARTÍCULO 280 BIS.- Al que solicite u obligue al secuestrado a retirar dinero de los cajeros electrónicos y/o de cualquier cuenta bancaria a la que éste tenga acceso o que, de forma transitoria que no exceda de más de seis horas, prive de la libertad a una persona en calidad de rehén y la amenace con privarla de la vida o causarle daño, para obligado a él o a otro que realicen un acto que les cause a cualquiera de ellos daño patrimonial; o para conservar el producto de un robo o asegurar la huida después de cometido, se le impondrá de de (sic) veinte a cincuenta años de prisión y de mil a dos mil días de multa de salario mínimo vigente en el Estado.
 
 Si la intimidación o la violencia se realizan por una asociación delictuosa; o por servidor público o ex servidor público; o miembro o ex miembro de algún cuerpo policial o de seguridad privada, aunque la empresa de seguridad privada no se hubiere registrado, se impondrá a cualquiera de las personas mencionadas y según proceda: La destitución del empleo, cargo o comisión y la inhabilitación para desempeñarse como servidor público.
+
+(NOTA: EL 21 DE MAYO DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 36/2012, DECLARÓ LA INVALIDEZ EN VÍA DE CONSECUENCIA DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 22 DE MAYO DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
 ###### ARTÍCULO 281.
 
@@ -3042,5 +3050,9 @@ DECRETO NUMERO 1898 POR EL QUE SE ADICIONA EL ARTICULO 280 BIS AL CODIGO PENAL D
 B.O. 20 DE FEBRERO DE 2011.
 
 DECRETO NUMERO 1899 POR EL QUE SE REFORMA LA DENOMINACION DEL CAPITULO VIII DEL TITULO CUARTO PARA INTITULARSE "FALSEDAD EN DECLARACIONES E INFORMES DADOS A UNA AUTORIDAD" Y SE ADICIONA UN ARTICULO 189 BIS DEL CODIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA SUR.
+
+UNICO.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 20 DE MARZO DE 2011.
 
 UNICO.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
