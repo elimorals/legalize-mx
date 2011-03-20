@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-poder-legislativo-del-estado-de-baja-2996"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-12-10"
-last_updated: "2009-07-31"
+last_updated: "2011-03-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2996&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY REGLAMENTARIA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE JULIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE MARZO DE 2011.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el lunes 10 de diciembre de 1990.
 
@@ -1563,6 +1563,32 @@ c).- Cualquier Diputado podrá, al final de la exposición, formular hasta dos p
 
 d).- El pleno de la Cámara podrá ampliar el número de preguntas que cada fracción parlamentaria o Diputado pueda formular, cuando las circunstancias así lo determinen.
 
+> <small>(ADICIONADO, B.O. 20 DE MARZO DE 2011)</small>
+
+ARTICULO 148 BIS.- Las comparecencias públicas de los titulares de las dependencias del Poder Ejecutivo del Estado, se harán por gabinetes especializados conforme a las siguientes bases:
+
+l.- Los Gabinetes Especializados de la Administración Pública del Estado de Baja California Sur, deberán concurrir ante el Poder Legislativo del Estado conjuntamente con el Titular del Poder Ejecutivo del Estado como Coordinador de Gabinete General y en sus ausencias con el Secretario General de Gobierno, con la finalidad de ampliar y en su caso detallar la información contenida dentro del informe de labores rendido por el Ciudadano Gobernador del Estado y con motivo del proceso de análisis, glosa y respuesta posterior que el Congreso del Estado debe realizar, mediante un esquema de mesas de trabajo públicas, en las que acudan los Coordinadores de cada una de las Fracciones Parlamentarias y quienes no integren Fracción, o bien, los diputados que en su representación designen de de (sic) manera interna y sin perjuicio de que puedan acudir cualquier diputada o diputado;
+
+II.- Para tales efectos, el Presidente de la Mesa Directiva concertará con el Titular del Poder Ejecutivo, a través del Secretario General de Gobierno, las fechas en que se desarrollarán tales mesas de trabajo públicas, en la inteligencia de que deberán ser los días lunes, miércoles y viernes, sin que puedan tener una duración mayor a cuatro horas, a reserva de que el Presidente de la Mesa Directiva haga la declaración correspondiente, ya sea para extender dicho tiempo y continuar con los trabajos o para suspenderlos y continuar con posterioridad, no sin antes considerar las necesidades de agenda de quienes integren la Legislatura y servidores públicos comparecientes;
+
+III.- En el supuesto de que el Coordinador de Gabinete General, o en sus ausencias el Secretario General de Gobierno, no pueda concurrir a alguna o algunas de las mesas de trabajo, lo notificará por escrito al Presidente de la Mesa Directiva, para efectos de que el Coordinador de Gabinete Especial de que se trate, le sustituya en las funciones referidas en el siguiente artículo y en las correspondientes mesas de trabajo; y
+
+IV.- Los trabajos se realizarán en la Sala de Comisiones del Poder Legislativo, Lic. Armando Aguilar Paniagua, de conformidad con el calendario que deberá quedar determinado a más tardar 5 días hábiles antes de la primera comparecencia.
+
+> <small>(ADICIONADO, B.O. 20 DE MARZO DE 2011)</small>
+
+ARTICULO 148 TER.- Al iniciar las mesas de trabajo con cada uno de los Gabinetes Especializados de la Administración Pública Estatal, se procederá de la manera siguiente:
+
+I.- El Presidente de la Mesa Directiva hará la presentación correspondiente y cederá primeramente la palabra al Titular del Poder Ejecutivo del Estado como Coordinador de Gabinete General y en sus ausencias al Secretario General de Gobierno, para los efectos que este considere pertinentes;
+
+II.- A efecto de dar orden a las preguntas e intervenciones de quienes integran la legislatura, el Presidente de la Mesa Directiva señalará a qué dependencia se harán primeramente todos los cuestionamientos relativos a la misma, y una vez agotados estos, de manera subsecuente señalará cual es la siguiente dependencia, continuando hasta agotar todos y cada uno de los integrantes del gabinete en turno;
+
+III.- Seguidamente, el Secretario de la Mesa Directiva registrará las intervenciones de las diputadas y los diputados, sin que haya límite para el número de preguntas, las que invariablemente deberán estar relacionadas con el ámbito de competencia de las dependencias integrantes del gabinete en turno y con la glosa del informe de gobierno correspondiente al año de las comparecencias;
+
+IV.- Cuando algún cuestionamiento tenga estrecha relación con dos o más dependencias integrantes del gabinete compareciente, el Titular del Poder Ejecutivo del Estado como Coordinador de Gabinete General y en sus ausencias el Secretario General de Gobierno, solicitará al Presidente de lo Mesa Directiva hacer uso de la voz y cederla en su caso al o a los funcionarios que correspondan según la naturaleza del cuestionamiento formulado; y
+
+V.- En todo caso, el Titular del Poder Ejecutivo del Estado como Coordinador de Gabinete General y en sus ausencias el Secretario General de Gobierno, podrá solicitar al Presidente de la Mesa Directiva y este lo concederá, que le permita contestar la o las preguntas que considere pertinentes, pudiendo hacerlo para esos efectos o sólo paro ceder la palabra al o los funcionarios integrantes del gabinete que corresponda, según la naturaleza de los planteamientos que se formulen.
+
 ### CAPITULO VIII
 
 DE LA EXPEDICION DE LAS LEYES O DECRETOS.
@@ -2322,3 +2348,7 @@ B.O. 31 DE JULIO DE 2009.
 DECRETO 1800, QUE REFORMA Y ADICIONA LOS ARTICULOS 54 Y 55 DE LA LEY REGLAMENTARIA DEL PODER LEGISLATIVO PARA EL ESTADO DE BAJA CALIFORNIA SUR.
 
 ÚNICO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 20 DE MARZO DE 2011.
+
+ÚNICO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
